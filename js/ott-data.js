@@ -3,19 +3,6 @@ window.FA_OTT = {
   "coming": [
     {
       "country": "US",
-      "date": "2026-11-20",
-      "date_kind": "digital",
-      "id": 1307474,
-      "providers": [
-        {
-          "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
-          "name": "Netflix"
-        }
-      ],
-      "type": "movie"
-    },
-    {
-      "country": "US",
       "date": "2026-11-24",
       "date_kind": "digital",
       "id": 1496696,
@@ -87,6 +74,19 @@ window.FA_OTT = {
     }
   ],
   "now": [
+    {
+      "country": "US",
+      "date": "2026-11-20",
+      "date_kind": "digital",
+      "id": 1307474,
+      "providers": [
+        {
+          "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        }
+      ],
+      "type": "movie"
+    },
     {
       "country": "BR",
       "date": "2026-11-19",

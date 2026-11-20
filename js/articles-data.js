@@ -195607,5 +195607,402 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "2026-11-19T23:52:12Z"
+  },
+  "1aws5vx": {
+    "id": "1aws5vx",
+    "type": "news",
+    "headline": "Ramayana Day 15 Box Office Collection: Ranbir Kapoor and Yash Starrer Slips Below Rs 20 Crore",
+    "dek": "The mythological epic Ramayana experienced its first drop below the Rs 20 crore mark on its second Thursday, bringing its total domestic net collection to Rs 863.75 crore.",
+    "body": [
+      {
+        "h": "First Major Dip on Day 15",
+        "p": [
+          "The theatrical run of the mythological epic Ramayana encountered its first major box office deceleration on its fifteenth day in cinemas. For the first time since its grand theatrical premiere, the film failed to cross the Rs 20 crore threshold domestically in a single day.",
+          "Despite maintaining an exceptionally strong financial grip throughout its second week in theatres, the latest daily figures indicate a natural cooling off period for the high-profile project during its second Thursday."
+        ]
+      },
+      {
+        "h": "Breakdown of Thursday Earnings",
+        "p": [
+          "On its fifteenth day, the feature brought in a net collection of Rs 19.35 crore across a massive total of 21,411 shows nationwide. The Hindi belt continued to drive the lion's share of ticket sales, contributing Rs 14 crore net from 17,404 screenings.",
+          "Regional versions also contributed to the daily tally, with Malayalam earning Rs 1.75 crore across 935 shows, Tamil bringing in Rs 1.50 crore from 1,158 shows, Kannada adding Rs 1.40 crore through 884 shows, and Telugu yielding 70 lakh from 1,030 shows."
+        ]
+      },
+      {
+        "h": "Milestones and Domestic Totals",
+        "p": [
+          "Following the addition of these latest figures, the domestic net collection for the feature has advanced to Rs 863.75 crore in India. Meanwhile, the domestic gross figures have successfully crossed the comma of a billion, standing at Rs 1032.15 crore.",
+          "This stellar performance cements the production among the highest-earning Indian motion pictures in domestic history, establishing itself comfortably as the third highest-grossing Bollywood release in the country."
+        ]
+      },
+      {
+        "h": "Global Box Office Performance",
+        "p": [
+          "Beyond domestic borders, the feature sustained a steady momentum internationally, pulling in Rs 5 crore gross in overseas territories on Thursday. This pushed the cumulative overseas gross collection to an impressive Rs 515 crore.",
+          "When combining domestic and international streams, the global gross earnings for the Ranbir Kapoor and Yash starrer have reached a remarkable Rs 1547.15 crore overall."
+        ]
+      },
+      {
+        "h": "Elite Worldwide Club Entry",
+        "p": [
+          "By crossing the Rs 1500 crore global gross milestone, the movie has etched its name into an elite group of cinematic achievements. It stands as only the fifth Indian film in history to surpass this monumental threshold globally.",
+          "It joins a prestigious roster that includes Dangal, Dhurandhar: The Revenge, Pushpa 2: The Rule, and Baahubali 2: The Conclusion."
+        ]
+      },
+      {
+        "h": "Upcoming Box Office Outlook",
+        "p": [
+          "Looking ahead, the theatrical journey faces an unhindered path for another week. With no major competing films releasing on the upcoming Friday, the title enjoys a clear window to bolster its earnings.",
+          "The uninterrupted theatrical stretch will continue until the arrival of upcoming releases like Yeh Prem Mol Liya and Gunmaaster G9 on November 27."
+        ]
+      },
+      {
+        "h": "Cast, Direction and Planning",
+        "p": [
+          "Helmed by director Nitesh Tiwari, the multi-part cinematic adaptation features prominent stars in legendary roles. Ranbir Kapoor portrays Lord Ram, Sai Pallavi appears as Sita, and Yash stars as Ravana.",
+          "Additional pivotal characters are brought to life by a supporting ensemble cast featuring Sunny Deol, Ravi Dubey, and Arun Govil, with production guided by Namit Malhotra."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Ramayana experienced a box office slowdown on its second Thursday, netting Rs 19.35 crore and falling below the Rs 20 crore mark for the first time. The total domestic net collection has now reached Rs 863.75 crore, while worldwide gross earnings have surpassed Rs 1547.15 crore."
+        ]
+      }
+    ],
+    "facts": [
+      "Ramayana collected Rs 19.35 crore net in India on Day 15",
+      "Total India net collection reached Rs 863.75 crore",
+      "Domestic gross collection stands at Rs 1032.15 crore",
+      "Hindi version collected Rs 14 crore net",
+      "Malayalam version earned Rs 1.75 crore",
+      "Tamil version collected Rs 1.50 crore",
+      "Kannada version added Rs 1.40 crore",
+      "Telugu version earned Rs 70 lakh",
+      "Overseas gross collection stands at Rs 515 crore",
+      "Worldwide gross collection reached Rs 1547.15 crore",
+      "Release date of upcoming films Yeh Prem Mol Liya and Gunmaaster G9 is November 27, 2026"
+    ],
+    "entities": {
+      "people": [
+        "Ranbir Kapoor",
+        "Yash",
+        "Sai Pallavi",
+        "Nitesh Tiwari",
+        "Sunny Deol",
+        "Ravi Dubey",
+        "Arun Govil",
+        "Namit Malhotra"
+      ],
+      "titles": [
+        "Ramayana",
+        "Dhurandhar",
+        "Dangal",
+        "Dhurandhar: The Revenge",
+        "Pushpa 2: The Rule",
+        "Baahubali 2: The Conclusion",
+        "Yeh Prem Mol Liya",
+        "Gunmaaster G9"
+      ]
+    },
+    "keywords": [
+      "Ramayana box office collection",
+      "Ramayana Day 15 collection",
+      "Ranbir Kapoor Yash Ramayana",
+      "Nitesh Tiwari Ramayana earnings"
+    ],
+    "images": [
+      {
+        "url": "https://images.timesnownews.com/thumb/msid-156538610,thumbsize-101378,width-1280,height-720,resizemode-75/156538610.jpg",
+        "caption": "Ramayana Day 15 Box Office Collection: Ranbir Kapoor and Yash Starrer Slips Below Rs 20 Crore",
+        "source": "Times Now — Entertainment"
+      }
+    ],
+    "published": "2026-11-20T00:51:46Z"
+  },
+  "ws07m2": {
+    "id": "ws07m2",
+    "type": "news",
+    "headline": "MGM+ Sci-Fi Horror Series From Dominates Streaming Charts After Landing on Netflix",
+    "dek": "The hit thriller From has drawn massive viewership figures since its first three seasons debuted on Netflix, easily leading Nielsen streaming charts.",
+    "body": [
+      {
+        "h": "Introduction to the Streaming Surge",
+        "p": [
+          "The sci-fi horror series From has successfully captured a massive new audience after making its way onto Netflix. Originally established as an MGM+ platform exclusive, the chilling town-trapped mystery has experienced a massive resurgence in popularity following its recent addition to the larger subscription streaming giant.",
+          "Viewers who missed the program during its initial run have tuned in by the millions, cementing the title as a dominant force across the digital landscape and introducing its eerie premise to a much wider demographic."
+        ]
+      },
+      {
+        "h": "Nielsen Chart Domination",
+        "p": [
+          "During the week spanning from November 2 to 8, the program accumulated an astounding 1.69 billion minutes viewed. This massive total easily propelled the show to the very top of Nielsen's official streaming charts for that specific week.",
+          "The title outperformed long-established streaming staples by a remarkably wide margin, proving that audiences were hungry for the gripping mystery and suspense offered by the project."
+        ]
+      },
+      {
+        "h": "Impressive Cumulative Viewership",
+        "p": [
+          "The momentum has been building steadily ever since the initial three seasons became available on the platform on October 19. In the span of just a few weeks, the program generated an incredible 5 billion total minutes viewed.",
+          "This milestone highlights how quickly word-of-mouth recommendations and binge-watching habits can transform an under-the-radar platform favorite into a mainstream cultural phenomenon."
+        ]
+      },
+      {
+        "h": "Comparing With Industry Giants",
+        "p": [
+          "The scale of the show's dominance becomes even more apparent when compared against reliable acquired series on the charts. For instance, the second-place entry, Grey's Anatomy, managed 857 million minutes viewed during the same weekly tracking period.",
+          "However, that competitor achieved its numbers across a staggering 471 episodes, whereas the sci-fi horror hit accomplished its powerhouse numbers with only 30 total episodes available on the platform."
+        ]
+      },
+      {
+        "h": "Timing and Future Seasons",
+        "p": [
+          "The timing of the platform expansion aligned fortuitously with the broader lifecycle of the production. The fourth season of the program originally debuted on MGM+ back in April.",
+          "Furthermore, the creative team has already secured a renewal for a fifth and final season, giving newly converted fans plenty of narrative runway to catch up before the ultimate conclusion of the story."
+        ]
+      },
+      {
+        "h": "Creative Minds Behind the Mystery",
+        "p": [
+          "The chilling narrative about a nightmarish town that traps everyone who enters was created by John Griffin, who also worked on Crater. Griffin serves as an executive producer alongside showrunner Jeff Pinkner, whose credits include Lost, Alias, and Fringe.",
+          "Additionally, director Jack Bender brings his visionary expertise to the project, having previously lent his talents to acclaimed properties like Lost, Game of Thrones, and The Institute. The streaming rights are licensed globally via Skydance Global Content Sales."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "The MGM+ sci-fi horror series From claimed the top spot on Nielsen streaming charts with 1.69 billion minutes viewed between November 2 and 8. Having amassed 5 billion total viewing minutes since landing on Netflix on October 19, the 30-episode show outperformed major competitors like Grey's Anatomy while preparing for its fifth and final season."
+        ]
+      }
+    ],
+    "facts": [
+      "From is an MGM+ sci-fi horror series.",
+      "The first three seasons landed on Netflix on October 19.",
+      "The show generated 1.69 billion minutes viewed from November 2 to 8.",
+      "The series reached 5 billion minutes viewed since launching on Netflix.",
+      "Season 4 debuted on MGM+ in April and has been renewed for a fifth and final season.",
+      "Grey's Anatomy placed second with 857 million minutes viewed across 471 episodes during the November 2-8 week.",
+      "There are 30 episodes of From available on Netflix.",
+      "John Griffin created From and executive produces it.",
+      "Jeff Pinkner is the showrunner and executive producer.",
+      "Jack Bender is a director on the series.",
+      "The series is licensed to Netflix by Skydance Global Content Sales."
+    ],
+    "entities": {
+      "people": [
+        "John Griffin",
+        "Jeff Pinkner",
+        "Jack Bender"
+      ],
+      "titles": [
+        "From",
+        "Grey's Anatomy",
+        "Crater",
+        "Lost",
+        "Alias",
+        "Fringe",
+        "Game of Thrones",
+        "The Institute"
+      ]
+    },
+    "keywords": [
+      "From Netflix streaming",
+      "MGM series From viewership",
+      "From Nielsen charts November",
+      "John Griffin From show"
+    ],
+    "images": [
+      {
+        "url": "https://deadline.com/wp-content/uploads/2026/11/split-image-1000-1-1.jpg?w=1000",
+        "caption": "MGM+ Sci-Fi Horror Series From Dominates Streaming Charts After Landing on Netflix",
+        "source": "Deadline"
+      }
+    ],
+    "published": "Thu, 19 Nov 2026 22:30:22 +0000"
+  },
+  "zx08nk": {
+    "id": "zx08nk",
+    "type": "news",
+    "headline": "The Vvaan OTT Release Date: Sidharth Malhotra and Tamannaah Bhatia Starrer Heads to Prime Video",
+    "dek": "Following a successful theatrical run, the fantasy thriller The Vvaan: Force of the Forest is officially arriving on Prime Video with an ensemble cast and a unique blend of Indian folklore.",
+    "body": [
+      {
+        "h": "Digital Premiere Announcement",
+        "p": [
+          "Audiences who missed the theatrical run of The Vvaan: Force of the Forest can finally catch the fantasy thriller online. Prime Video has officially announced the digital premiere date for the feature, bringing the cinematic adventure straight to home screens.",
+          "The announcement follows months of anticipation from fans eager to stream the movie. The digital release comes approximately two months after the project first opened on the big screen."
+        ]
+      },
+      {
+        "h": "Streaming Platform and Date",
+        "p": [
+          "Prime Video is the designated streaming destination for the movie. The film is scheduled to premiere on the platform on Friday, November 20.",
+          "Subscribers can access the feature directly through the streaming service, marking its transition from cinemas to home viewing environments."
+        ]
+      },
+      {
+        "h": "Cast and Crew Details",
+        "p": [
+          "The project is directed by Deepak Kumar Mishra and features a prominent ensemble cast. Sidharth Malhotra and Tamannaah Bhatia share the screen as the lead actors in their first ever on-screen collaboration.",
+          "Supporting roles are filled by Sunil Grover, Maniesh Paul, Shweta Tiwari, and Anup Soni. The movie is backed by Balaji Motion Pictures and TVF, representing TVF's official entry into film production."
+        ]
+      },
+      {
+        "h": "Box Office Performance",
+        "p": [
+          "The theatrical run provided a much-needed commercial reprieve for Sidharth Malhotra following a series of previous box office struggles. Industry data tracks the net domestic collection at Rs 70.35 crore in India.",
+          "Globally, the feature generated a worldwide gross of Rs 91.49 crore. Originally debuting in cinemas on September 25, it maintained profitability despite facing heavy competition from Ajay Devgn's Drishyam The Conclusion."
+        ]
+      },
+      {
+        "h": "Plot and Cultural Highlights",
+        "p": [
+          "The narrative centers around a mysterious forest intertwined with supernatural forces and traditional Indian folklore. The protagonist encounters hazardous occurrences while navigating ancient beliefs and hidden secrets.",
+          "A standout feature of the production was its inclusion of the first-ever Chhath Puja song in mainstream Bollywood. Following an encouraging audience reception, the creators have also announced plans for a sequel with an unrevealed lead cast."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Sidharth Malhotra and Tamannaah Bhatia's fantasy thriller The Vvaan: Force of the Forest is set to premiere on Prime Video on Friday, November 20. Directed by Deepak Kumar Mishra, the film successfully completed a theatrical run yielding Rs 70.35 crore net in India before making its transition to digital streaming."
+        ]
+      }
+    ],
+    "facts": [
+      "Sidharth Malhotra and Tamannaah Bhatia star in The Vvaan: Force of the Forest",
+      "The film is directed by Deepak Kumar Mishra",
+      "Prime Video will premiere the film on Friday, November 20",
+      "The theatrical release date was September 25",
+      "The lifetime net collection in India was Rs 70.35 crore",
+      "The worldwide gross reached Rs 91.49 crore",
+      "The cast includes Sunil Grover, Maniesh Paul, Shweta Tiwari, and Anup Soni",
+      "The film is backed by Balaji Motion Pictures and TVF"
+    ],
+    "entities": {
+      "people": [
+        "Sidharth Malhotra",
+        "Tamannaah Bhatia",
+        "Deepak Kumar Mishra",
+        "Sunil Grover",
+        "Maniesh Paul",
+        "Shweta Tiwari",
+        "Anup Soni",
+        "Ajay Devgn"
+      ],
+      "titles": [
+        "The Vvaan: Force of the Forest",
+        "Drishyam The Conclusion",
+        "The Vvaan"
+      ]
+    },
+    "keywords": [
+      "The Vvaan OTT release",
+      "Sidharth Malhotra The Vvaan",
+      "Tamannaah Bhatia Force of the Forest",
+      "The Vvaan Prime Video"
+    ],
+    "images": [
+      {
+        "url": "https://images.timesnownews.com/thumb/msid-156537484,thumbsize-70128,width-1280,height-720,resizemode-75/156537484.jpg",
+        "caption": "The Vvaan OTT Release Date: Sidharth Malhotra and Tamannaah Bhatia Starrer Heads to Prime Video",
+        "source": "Times Now — Entertainment"
+      }
+    ],
+    "published": "2026-11-20T00:51:46Z"
+  },
+  "99j7wl": {
+    "id": "99j7wl",
+    "type": "news",
+    "headline": "Kang Hoon's Happy Anding Experiences Slight Ratings Bump in Fourth Episode",
+    "dek": "The tvN comedy series starring Kang Hoon registers a modest recovery in nationwide viewership after dropping to a series low during its third episode.",
+    "body": [
+      {
+        "h": "Latest Viewership Statistics",
+        "p": [
+          "The television drama Happy Anding recorded a slight uptick in its audience metrics during the broadcast of its fourth installment. Data compiled by Nielsen Korea indicates that the Wednesday-Thursday program achieved a nationwide rating of 1.4 percent among pay-tv households for this specific broadcast.",
+          "This marginal recovery follows immediately after the show encountered a temporary dip during its third outing. The previous episode had slipped to 1.3 percent, marking the lowest point for the series thus far in its broadcast run."
+        ]
+      },
+      {
+        "h": "Performance Trajectory",
+        "p": [
+          "When the comedy series first debuted on television, it captured a nationwide pay-tv rating of 1.7 percent for its premiere episode. The show managed to maintain this exact figure of 1.7 percent for its second broadcast before experiencing the decline that brought numbers down to 1.3 percent.",
+          "With the latest 1.4 percent result for episode four, the project demonstrates a small sign of stabilization. The series continues to air twice a week on Wednesdays and Thursdays through the tvN network."
+        ]
+      },
+      {
+        "h": "Central Plot and Characters",
+        "p": [
+          "The narrative of Happy Anding centers around a comedic trio known as Asura. These performers have spent a full decade pursuing stage recognition without managing to break through into wider fame.",
+          "The core group features characters such as Kang Tae Gu, portrayed by actor Kang Hoon. Alongside him in the struggling trio are Kim Nam Il, played by Jo Hyun Chul, and Han Joon Seo, brought to life by Kim Jung Jin."
+        ]
+      },
+      {
+        "h": "Expanding the Ensemble",
+        "p": [
+          "In addition to the struggling comedy trio, the main cast incorporates another key individual who shapes the narrative direction. Go Eun Young joins the dynamic, adding further depth to the unfolding television story.",
+          "The character of Go Eun Young is portrayed on screen by actress Lee E Dam. Her involvement interacts directly with the journeys of the main male leads as they navigate their comedic pursuits."
+        ]
+      },
+      {
+        "h": "Broadcast Schedule and Network",
+        "p": [
+          "Viewers interested in following the trajectory of the Asura comedy trio can tune into the program weekly. The series occupies a consistent broadcast slot on the tvN network.",
+          "New episodes become available for audiences on both Wednesdays and Thursdays. This mid-week programming schedule places the show firmly within the competitive television lineup."
+        ]
+      },
+      {
+        "h": "Industry Context",
+        "p": [
+          "Comedy series occupying mid-week time slots face rigorous competition for audience attention in the domestic market. Fluctuations between premiere highs and subsequent mid-season lows represent a common pattern for cable network broadcasts.",
+          "As Happy Anding moves past its fourth episode, tracking whether the 1.4 percent metric signals a sustained upward trend will remain a point of interest for industry observers monitoring pay-tv statistics."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "The tvN comedy series Happy Anding experienced a slight ratings increase to 1.4 percent nationwide for its fourth episode, recovering from a series low of 1.3 percent in episode 3. The Wednesday-Thursday drama stars Kang Hoon, Jo Hyun Chul, Kim Jung Jin, and Lee E Dam as part of its main cast."
+        ]
+      }
+    ],
+    "facts": [
+      "Happy Anding episode 4 aired on November 19, 2026",
+      "Episode 4 recorded a 1.4 percent nationwide rating among pay-TV households",
+      "Episode 3 recorded a 1.3 percent rating, marking a series low",
+      "Episodes 1 and 2 both recorded 1.7 percent ratings",
+      "The drama airs on Wednesdays and Thursdays on tvN"
+    ],
+    "entities": {
+      "people": [
+        "Kang Hoon",
+        "Jo Hyun Chul",
+        "Kim Jung Jin",
+        "Lee E Dam",
+        "Hana",
+        "Kang Tae Gu",
+        "Kim Nam Il",
+        "Han Joon Seo",
+        "Go Eun Young"
+      ],
+      "titles": [
+        "Happy Anding",
+        "Good Partner 2",
+        "But Your Love"
+      ]
+    },
+    "keywords": [
+      "Happy Anding episode 4",
+      "Kang Hoon Happy Anding",
+      "Happy Anding ratings",
+      "Happy Anding tvN"
+    ],
+    "images": [
+      {
+        "url": "https://i.mydramalist.com/Dyy4ZD_2d.jpg",
+        "caption": "Kang Hoon's Happy Anding Experiences Slight Ratings Bump in Fourth Episode",
+        "source": "MyDramaList"
+      }
+    ],
+    "published": "Thu, 19 Nov 2026 23:45:51 +0000"
   }
 };

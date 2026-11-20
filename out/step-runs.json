@@ -4,45 +4,6 @@
    {
     "step": "fetch",
     "category": "Trending News",
-    "run_at": "2026-11-19T00:52:04Z",
-    "run_id": "44432236736",
-    "status": "success",
-    "checked": {
-     "candidates": 407,
-     "detail": "RSS/Atom items across 137 sources; 6 source(s) errored"
-    },
-    "changed": {
-     "added": [
-      "'Ramayana' hits Rs 1,500 crore globally in record time",
-      "'Mookuthi Amman 2': Recovering its Rs 100 cr budget will be tough",
-      "'Scene' BO day 13: Suriya, Nazriya Nazim film eyes Rs 300 cr milestone",
-      "Ranveer Singh to reunite with director Aditya Dhar for next?",
-      "Sameera Reddy remembers Nana Patekar, says actor ‘quietly supported many charities and donated heavily’ | Interview",
-      "Sooraj Barjatya reveals why Ayushmann Khurrana was his only choice in Yeh Prem Mol Liya; actor calls Salman Khan ‘OG Prem’",
-      "Gordon Ramsay, culinary chef famed for fiery critiques, gets Hollywood Walk of Fame star",
-      "I Expect Big Deaths In Yellowjackets’ Final Season, But Who’s Been The Hardest To Kill Off (So Far)?",
-      "The Latest 90 Day Fiancé Split Has Me Thinking One Spinoff Needs A Serious Overhaul",
-      "Ebenezer Was Johnny Depp’s Big Screen ‘Test’ (And Studios Barely Gave Him A Passing Grade)",
-      "Jared Padalecki And Leighton Meester Bonded Over Gossip Girl And Gilmore Girls In A G-Oriented Way I Didn't See Coming",
-      "Michael Keaton and Son Sean Douglas Talk Grief, Directing, and Their First-Ever Film Collaboration",
-      "The 8 Greatest Cold War Books of All Time, Ranked",
-      "5 Greatest Thanksgiving Episodes of '80s Sitcoms, Ranked",
-      "Nightmare on Elm Street Fans Think Jordan Peele Is Behind Cryptic Remake Tease, Watch Video",
-      "Jennifer Lopez Has a Blistering Take on Her ‘Disappointing’ Ben Affleck Marriage",
-      "8 Near-Perfect Prime Video Miniseries That Hook You In the First 10 Minutes",
-      "Netflix's New 6-Part Crime Thriller Hit Is One of the Biggest Shows in the World After 1 Week",
-      "A24's New 174-Minute Masterpiece Sets Digital Streaming Release Date",
-      "'John Wick' Director's New Action Thriller Officially Stumbles at Box Office Against Near-Perfect Spy Hit"
-     ],
-     "updated": [],
-     "count": 370,
-     "detail": "379 stories, 2 duplicates removed, 28 dropped"
-    },
-    "reason": null
-   },
-   {
-    "step": "fetch",
-    "category": "Trending News",
     "run_at": "2026-11-19T01:51:08Z",
     "run_id": "44439912089",
     "status": "success",
@@ -936,32 +897,48 @@
      "detail": "405 stories, 0 duplicates removed, 33 dropped"
     },
     "reason": null
-   }
-  ],
-  "apply_auto": [
+   },
    {
-    "step": "apply_auto",
+    "step": "fetch",
     "category": "Trending News",
-    "run_at": "2026-11-19T01:51:40Z",
-    "run_id": "44439912089",
+    "run_at": "2026-11-20T00:51:22Z",
+    "run_id": "44649042609",
     "status": "success",
     "checked": {
-     "candidates": 15,
-     "detail": "draft articles + box-office rows from out/gemini-batch.json"
+     "candidates": 467,
+     "detail": "RSS/Atom items across 137 sources; 2 source(s) errored"
     },
     "changed": {
      "added": [
-      "'Mookuthi Amman 2' Box Office Collections Day 13: Nayanthara Starrer Collects Rs 21.23 Cr; Why Recovering Its Rs 100 Cr Budget Will Be Tough",
-      "Paramount+ Gives Green Light to Political Drama 'Clandestine' Starring Brit Marling and Tilda Swinton",
-      "Sameera Reddy Recalls Nana Patekar's Quiet Philanthropy During Film Collaborations",
-      "Sooraj Barjatya explains casting Ayushmann Khurrana for Yeh Prem Mol Liya"
+      "ayesha khan hot looks ethereal in ivory white embellished lehenga photos tmovg 2700870 2026 11 19",
+      "aamir khan leases 3 luxury mumbai apartments 38 lakh rupees monthly rent annual outgoings stand at 5 crore tmovg dskc 2700717 2026 11 19",
+      "ananya birla picks aamir khan to endorse matrimonial app on koffee with karan 9 tmovg dskc 2700832 2026 11 19",
+      "matrubhumi madirapan song released salman khan shows off swag at age of 61 tmovg dskc 2700811 2026 11 19",
+      "zubeen garg birthday wax statue asansol took 2 months complete and features real guitar tmovg rpti 2700893 2026 11 19",
+      "netflix seven crime mystery series gen z watchlist you one of us is lying srss smsr 2700569 2026 11 19",
+      "53 year old vidya malavade about intimate scene with kumud mishra dr arora imtiaz ali tmovb 2700875 2026 11 19",
+      "newlyweds anirudh ravichander kavya maran gets romantic after 8 days of marriage honeymoon fans reaction tmovb 2700774 2026 11 19",
+      "adil khan durrani somi khan divorce after 3 years of marriage clarification rakhi sawant ex husband tmovb dskc 2700854 2026 11 19",
+      "rakhi sawant ex abhishek awasthi on slap incident cried breakup story weight gain unrecognizable tmovb dskc 2700818 2026 11 19",
+      "shimla social worker sarabjit singh bobby kbc force of good award amitabh bachchan lclcn strc 2700783 2026 11 19",
+      "aryan khan takes comparison with father shah rukh khan as a compliment article 156537758",
+      "girl next door to maratha queen tracking genelia deshmukhs journey as leading lady ahead of gunmaaster g9 photo gallery 156539280",
+      "kriti sanon wishes cutie kabir bahia on birthday shares goofy picture of rumoured bf article 156538463",
+      "maatrubhumi song madirapan salman khan calls for jashn at army camp dances flaunting biceps article 156537722",
+      "priyanka chopra says so beautiful as daughter malti marie recites gayatri mantra watch article 156537432",
+      "ramayana day 15 collection ranbir kapoor yash film witnesses box office drop nets rs 19 crore check total article 156538593",
+      "bts j hope shocked seeing his iconic mama jung wife look at kaohsiung concert internet cannot keep calm watch article 156537456",
+      "bts wins 10 awards in single week and does not attend even one aria to kids choice full list article 156538853",
+      "the altruists review julia garner anthony boyle lead stretched crypto scam netflix drama on sam bankman fried review 156538729"
      ],
      "updated": [],
-     "count": 8,
-     "detail": "+4 articles, +1 box-office rows, 3 rows updated"
+     "count": 324,
+     "detail": "338 stories, 16 duplicates removed, 129 dropped"
     },
     "reason": null
-   },
+   }
+  ],
+  "apply_auto": [
    {
     "step": "apply_auto",
     "category": "Trending News",
@@ -1484,27 +1461,32 @@
      "detail": "+4 articles, +0 box-office rows, 3 rows updated"
     },
     "reason": null
+   },
+   {
+    "step": "apply_auto",
+    "category": "Trending News",
+    "run_at": "2026-11-20T00:51:47Z",
+    "run_id": "44649042609",
+    "status": "success",
+    "checked": {
+     "candidates": 15,
+     "detail": "draft articles + box-office rows from out/gemini-batch.json"
+    },
+    "changed": {
+     "added": [
+      "Ramayana Day 15 Box Office Collection: Ranbir Kapoor and Yash Starrer Slips Below Rs 20 Crore",
+      "MGM+ Sci-Fi Horror Series From Dominates Streaming Charts After Landing on Netflix",
+      "The Vvaan OTT Release Date: Sidharth Malhotra and Tamannaah Bhatia Starrer Heads to Prime Video",
+      "Kang Hoon's Happy Anding Experiences Slight Ratings Bump in Fourth Episode"
+     ],
+     "updated": [],
+     "count": 8,
+     "detail": "+4 articles, +0 box-office rows, 4 rows updated"
+    },
+    "reason": null
    }
   ],
   "ott": [
-   {
-    "step": "ott",
-    "category": "OTT",
-    "run_at": "2026-11-19T03:53:08Z",
-    "run_id": "44454219913",
-    "status": "success",
-    "checked": {
-     "candidates": 380,
-     "detail": "OTT now/coming titles from the published catalogue"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 0,
-     "detail": "now 372, coming 8"
-    },
-    "reason": "no-new-data"
-   },
    {
     "step": "ott",
     "category": "OTT",
@@ -1918,26 +1900,27 @@
      "detail": "now 383, coming 8"
     },
     "reason": "no-new-data"
-   }
-  ],
-  "trending_weekly": [
+   },
    {
-    "step": "trending_weekly",
-    "category": "Trending Topics",
-    "run_at": "2026-11-19T01:51:42Z",
-    "run_id": "44439912089",
+    "step": "ott",
+    "category": "OTT",
+    "run_at": "2026-11-20T00:51:47Z",
+    "run_id": "44649042609",
     "status": "success",
     "checked": {
-     "candidates": 100,
-     "detail": "cached Google RSS trend/article intersection"
+     "candidates": 391,
+     "detail": "OTT now/coming titles from the published catalogue"
     },
     "changed": {
      "added": [],
      "updated": [],
-     "count": 0
+     "count": 0,
+     "detail": "now 384, coming 7"
     },
-    "reason": "no-new-data"
-   },
+    "reason": null
+   }
+  ],
+  "trending_weekly": [
    {
     "step": "trending_weekly",
     "category": "Trending Topics",
@@ -2416,27 +2399,26 @@
      "count": 8
     },
     "reason": null
-   }
-  ],
-  "multisource_boxoffice": [
+   },
    {
-    "step": "multisource_boxoffice",
-    "category": "Box Office",
-    "run_at": "2026-11-19T01:06:08Z",
-    "run_id": "44432236736",
+    "step": "trending_weekly",
+    "category": "Trending Topics",
+    "run_at": "2026-11-20T00:54:15Z",
+    "run_id": "44649042609",
     "status": "success",
     "checked": {
-     "candidates": 713,
-     "detail": "664 collected staging rows from readers; 241 averaged across 2+ sources"
+     "candidates": 100,
+     "detail": "cached Google RSS trend/article intersection"
     },
     "changed": {
      "added": [],
      "updated": [],
-     "count": 21,
-     "detail": "+0 new rows, 21 updated rows, 667 unchanged"
+     "count": 0
     },
-    "reason": null
-   },
+    "reason": "no-new-data"
+   }
+  ],
+  "multisource_boxoffice": [
    {
     "step": "multisource_boxoffice",
     "category": "Box Office",
@@ -2850,19 +2832,27 @@
      "detail": "+0 new rows, 3 updated rows, 691 unchanged"
     },
     "reason": null
+   },
+   {
+    "step": "multisource_boxoffice",
+    "category": "Box Office",
+    "run_at": "2026-11-20T00:54:13Z",
+    "run_id": "44649042609",
+    "status": "success",
+    "checked": {
+     "candidates": 722,
+     "detail": "670 collected staging rows from readers; 247 averaged across 2+ sources"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 5,
+     "detail": "+1 new rows, 4 updated rows, 690 unchanged"
+    },
+    "reason": null
    }
   ],
   "gemini_reviews": [
-   {
-    "step": "gemini_reviews",
-    "category": "Reviews",
-    "run_at": "2026-11-19T01:07:05Z",
-    "run_id": "44432236736",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "gemini_reviews",
     "category": "Reviews",
@@ -3099,32 +3089,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "gemini_reviews",
+    "category": "Reviews",
+    "run_at": "2026-11-20T00:54:23Z",
+    "run_id": "44649042609",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "convert_news": [
-   {
-    "step": "convert_news",
-    "category": "Trending News",
-    "run_at": "2026-11-19T01:51:41Z",
-    "run_id": "44439912089",
-    "status": "success",
-    "checked": {
-     "candidates": 600,
-     "detail": "feed entries from out/queue.json"
-    },
-    "changed": {
-     "added": [
-      "Paramount+ Gives Green Light to Political Drama 'Clandestine' Starring Brit Marling and Tilda Swinton",
-      "Sameera Reddy Recalls Nana Patekar's Quiet Philanthropy During Film Collaborations",
-      "Sooraj Barjatya explains casting Ayushmann Khurrana for Yeh Prem Mol Liya",
-      "'Mookuthi Amman 2' Box Office Collections Day 13: Nayanthara Starrer Collects Rs 21.23 Cr; Why Recovering Its Rs 100 Cr Budget Will Be Tough"
-     ],
-     "updated": [],
-     "count": 4,
-     "detail": "api-news.json 600 items, api-trends.json 12 items"
-    },
-    "reason": null
-   },
    {
     "step": "convert_news",
     "category": "Trending News",
@@ -3658,19 +3635,32 @@
      "detail": "api-news.json 600 items, api-trends.json 12 items"
     },
     "reason": null
+   },
+   {
+    "step": "convert_news",
+    "category": "Trending News",
+    "run_at": "2026-11-20T00:54:14Z",
+    "run_id": "44649042609",
+    "status": "success",
+    "checked": {
+     "candidates": 600,
+     "detail": "feed entries from out/queue.json"
+    },
+    "changed": {
+     "added": [
+      "Ramayana Day 15 Box Office Collection: Ranbir Kapoor and Yash Starrer Slips Below Rs 20 Crore",
+      "MGM+ Sci-Fi Horror Series From Dominates Streaming Charts After Landing on Netflix",
+      "The Vvaan OTT Release Date: Sidharth Malhotra and Tamannaah Bhatia Starrer Heads to Prime Video",
+      "Kang Hoon's Happy Anding Experiences Slight Ratings Bump in Fourth Episode"
+     ],
+     "updated": [],
+     "count": 4,
+     "detail": "api-news.json 600 items, api-trends.json 12 items"
+    },
+    "reason": null
    }
   ],
   "episode_guides": [
-   {
-    "step": "episode_guides",
-    "category": "Drama Episodes",
-    "run_at": "2026-11-19T01:07:05Z",
-    "run_id": "44432236736",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "episode_guides",
     "category": "Drama Episodes",
@@ -3900,19 +3890,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "title_seed": [
+   },
    {
-    "step": "title_seed",
-    "category": "Spotlight / Coming Soon / Most Awaited",
-    "run_at": "2026-11-19T01:07:05Z",
-    "run_id": "44432236736",
+    "step": "episode_guides",
+    "category": "Drama Episodes",
+    "run_at": "2026-11-20T00:54:23Z",
+    "run_id": "44649042609",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "title_seed": [
    {
     "step": "title_seed",
     "category": "Spotlight / Coming Soon / Most Awaited",
@@ -4234,31 +4224,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "title_seed",
+    "category": "Spotlight / Coming Soon / Most Awaited",
+    "run_at": "2026-11-20T00:54:23Z",
+    "run_id": "44649042609",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "gemini_batch": [
-   {
-    "step": "gemini_batch",
-    "category": "Trending News",
-    "run_at": "2026-11-19T00:52:28Z",
-    "run_id": "44432236736",
-    "status": "success",
-    "checked": {
-     "candidates": 5,
-     "detail": "news queue items drafted this run; 370 still unprocessed; today by category: movies 1/6, tv_dramas 0/4, episodes 0/2, box_office 2/6, celebrities_events 0/5, upcoming_releases 0/4, ott_streaming 0/4, trailers 0/3, awards 1/2, music_ost 0/2, viral 0/2"
-    },
-    "changed": {
-     "added": [
-      "'Ramayana' Box Office Collection Day 14: Ranbir Kapoor and Yash Starrer Crosses Rs 1,000 Crore in India",
-      "Scene Box Office Day 13: Suriya and Nazriya Nazim Starrer Approaches Rs 300 Crore Milestone",
-      "Ella Langley Leads Nominations and Taylor Swift Returns for the 2026 CMA Awards",
-      "Ranveer Singh and Director Aditya Dhar Set for Major Collaboration Targeting a 2028 Theatrical Launch"
-     ],
-     "updated": [],
-     "count": 4
-    },
-    "reason": null
-   },
    {
     "step": "gemini_batch",
     "category": "Trending News",
@@ -4763,26 +4741,31 @@
      "count": 4
     },
     "reason": null
+   },
+   {
+    "step": "gemini_batch",
+    "category": "Trending News",
+    "run_at": "2026-11-20T00:51:46Z",
+    "run_id": "44649042609",
+    "status": "success",
+    "checked": {
+     "candidates": 4,
+     "detail": "news queue items drafted this run; 324 still unprocessed; today by category: movies 0/6, tv_dramas 1/4, episodes 0/2, box_office 1/6, celebrities_events 0/5, upcoming_releases 0/4, ott_streaming 2/4, trailers 0/3, awards 0/2, music_ost 0/2, viral 0/2"
+    },
+    "changed": {
+     "added": [
+      "Ramayana Day 15 Box Office Collection: Ranbir Kapoor and Yash Starrer Slips Below Rs 20 Crore",
+      "MGM+ Sci-Fi Horror Series From Dominates Streaming Charts After Landing on Netflix",
+      "The Vvaan OTT Release Date: Sidharth Malhotra and Tamannaah Bhatia Starrer Heads to Prime Video",
+      "Kang Hoon's Happy Anding Experiences Slight Ratings Bump in Fourth Episode"
+     ],
+     "updated": [],
+     "count": 4
+    },
+    "reason": null
    }
   ],
   "overseas_ai": [
-   {
-    "step": "overseas_ai",
-    "category": "Box Office",
-    "run_at": "2026-11-19T00:54:07Z",
-    "run_id": "44432236736",
-    "status": "success",
-    "checked": {
-     "candidates": 54,
-     "detail": "published movies with missing overseas day figures; Tavily searches: 48"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 0
-    },
-    "reason": "no-new-data"
-   },
    {
     "step": "overseas_ai",
     "category": "Box Office",
@@ -5089,24 +5072,19 @@
      "count": 0
     },
     "reason": "no-new-data"
+   },
+   {
+    "step": "overseas_ai",
+    "category": "Box Office",
+    "run_at": "2026-11-20T00:54:23Z",
+    "run_id": "44649042609",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "publish": [
-   {
-    "step": "publish",
-    "category": "Trending News",
-    "run_at": "2026-11-19T01:07:05Z",
-    "run_id": "44432236736",
-    "status": "success",
-    "checked": null,
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 459,
-     "detail": "lines changed in owned files; no per-item summary from script"
-    },
-    "reason": null
-   },
    {
     "step": "publish",
     "category": "Trending News",
@@ -5381,24 +5359,24 @@
     "checked": null,
     "changed": null,
     "reason": "error"
-   }
-  ],
-  "stats_traffic": [
+   },
    {
-    "step": "stats_traffic",
-    "category": "Stats / Health",
-    "run_at": "2026-11-19T01:07:05Z",
-    "run_id": "44432236736",
+    "step": "publish",
+    "category": "Trending News",
+    "run_at": "2026-11-20T00:54:23Z",
+    "run_id": "44649042609",
     "status": "success",
     "checked": null,
     "changed": {
      "added": [],
      "updated": [],
-     "count": 2,
+     "count": 397,
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
-   },
+   }
+  ],
+  "stats_traffic": [
    {
     "step": "stats_traffic",
     "category": "Stats / Health",
@@ -5698,24 +5676,24 @@
     "checked": null,
     "changed": null,
     "reason": "no-new-data"
-   }
-  ],
-  "stats_pipeline": [
+   },
    {
-    "step": "stats_pipeline",
+    "step": "stats_traffic",
     "category": "Stats / Health",
-    "run_at": "2026-11-19T01:07:05Z",
-    "run_id": "44432236736",
+    "run_at": "2026-11-20T00:54:23Z",
+    "run_id": "44649042609",
     "status": "success",
     "checked": null,
     "changed": {
      "added": [],
      "updated": [],
-     "count": 76,
+     "count": 2,
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
-   },
+   }
+  ],
+  "stats_pipeline": [
    {
     "step": "stats_pipeline",
     "category": "Stats / Health",
@@ -5960,19 +5938,24 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "stats_pipeline",
+    "category": "Stats / Health",
+    "run_at": "2026-11-20T00:54:23Z",
+    "run_id": "44649042609",
+    "status": "success",
+    "checked": null,
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 75,
+     "detail": "lines changed in owned files; no per-item summary from script"
+    },
+    "reason": null
    }
   ],
   "stats_health": [
-   {
-    "step": "stats_health",
-    "category": "Stats / Health",
-    "run_at": "2026-11-19T01:07:05Z",
-    "run_id": "44432236736",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "stats_health",
     "category": "Stats / Health",
@@ -6207,19 +6190,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "metadata_refresh": [
+   },
    {
-    "step": "metadata_refresh",
-    "category": "Spotlight / Coming Soon / Most Awaited",
-    "run_at": "2026-11-19T01:07:05Z",
-    "run_id": "44432236736",
+    "step": "stats_health",
+    "category": "Stats / Health",
+    "run_at": "2026-11-20T00:54:23Z",
+    "run_id": "44649042609",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "metadata_refresh": [
    {
     "step": "metadata_refresh",
     "category": "Spotlight / Coming Soon / Most Awaited",
@@ -6503,19 +6486,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "providers_backfill": [
+   },
    {
-    "step": "providers_backfill",
-    "category": "OTT",
-    "run_at": "2026-11-19T01:07:05Z",
-    "run_id": "44432236736",
+    "step": "metadata_refresh",
+    "category": "Spotlight / Coming Soon / Most Awaited",
+    "run_at": "2026-11-20T00:54:23Z",
+    "run_id": "44649042609",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "providers_backfill": [
    {
     "step": "providers_backfill",
     "category": "OTT",
@@ -6756,19 +6739,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "providers_backfill",
+    "category": "OTT",
+    "run_at": "2026-11-20T00:54:23Z",
+    "run_id": "44649042609",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "tavily_boxoffice": [
-   {
-    "step": "tavily_boxoffice",
-    "category": "Box Office",
-    "run_at": "2026-11-19T01:07:05Z",
-    "run_id": "44432236736",
-    "status": "success",
-    "checked": null,
-    "changed": null,
-    "reason": "no-new-data"
-   },
    {
     "step": "tavily_boxoffice",
     "category": "Box Office",
@@ -6998,19 +6981,19 @@
     "checked": null,
     "changed": null,
     "reason": "no-new-data"
-   }
-  ],
-  "keywords_refresh": [
+   },
    {
-    "step": "keywords_refresh",
-    "category": "Trending News",
-    "run_at": "2026-11-19T01:07:05Z",
-    "run_id": "44432236736",
+    "step": "tavily_boxoffice",
+    "category": "Box Office",
+    "run_at": "2026-11-20T00:54:23Z",
+    "run_id": "44649042609",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "keywords_refresh": [
    {
     "step": "keywords_refresh",
     "category": "Trending News",
@@ -7259,6 +7242,16 @@
     "category": "Trending News",
     "run_at": "2026-11-19T23:58:28Z",
     "run_id": "44640977192",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
+   },
+   {
+    "step": "keywords_refresh",
+    "category": "Trending News",
+    "run_at": "2026-11-20T00:54:23Z",
+    "run_id": "44649042609",
     "status": "skipped",
     "checked": null,
     "changed": null,
@@ -7780,16 +7773,6 @@
    {
     "step": "advance_booking",
     "category": "Box Office",
-    "run_at": "2026-11-19T01:07:05Z",
-    "run_id": "44432236736",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
-   {
-    "step": "advance_booking",
-    "category": "Box Office",
     "run_at": "2026-11-19T01:51:49Z",
     "run_id": "44439912089",
     "status": "skipped",
@@ -8026,19 +8009,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "advance_booking",
+    "category": "Box Office",
+    "run_at": "2026-11-20T00:54:23Z",
+    "run_id": "44649042609",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "home_boxoffice_worldwide": [
-   {
-    "step": "home_boxoffice_worldwide",
-    "category": "Box Office",
-    "run_at": "2026-11-19T01:07:05Z",
-    "run_id": "44432236736",
-    "status": "failed",
-    "checked": null,
-    "changed": null,
-    "reason": "error"
-   },
    {
     "step": "home_boxoffice_worldwide",
     "category": "Box Office",
@@ -8268,8 +8251,18 @@
     "checked": null,
     "changed": null,
     "reason": "error"
+   },
+   {
+    "step": "home_boxoffice_worldwide",
+    "category": "Box Office",
+    "run_at": "2026-11-20T00:54:23Z",
+    "run_id": "44649042609",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ]
  },
- "updated_at": "2026-11-19T23:58:28Z"
+ "updated_at": "2026-11-20T00:54:23Z"
 }
