@@ -197216,5 +197216,411 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Fri, 20 Nov 2026 03:32:17 +0000"
+  },
+  "11hzvq4": {
+    "id": "11hzvq4",
+    "type": "news",
+    "headline": "Grand Theft Auto VI Unveils Voice Cast and Box Office Milestone",
+    "dek": "Rockstar Games has finally revealed the performers behind Lucia and Jason in Grand Theft Auto VI, alongside a massive sales milestone.",
+    "body": [
+      {
+        "h": "Unveiling the Faces of Vice City",
+        "p": [
+          "After years of tight security and fan speculation, Rockstar Games has officially disclosed the performers behind the main protagonists in Grand Theft Auto VI. Players exploring the state of Leonida and the fictional streets of Vice City now know the faces and voices attached to the central couple.",
+          "The newly published credits confirm that Manni L. Perez plays Lucia, while Dylan Rourke portrays her partner, Jason. Both actors celebrated the public reveal on social media, reflecting on the long journey of watching the game's development while remaining bound to confidentiality agreements."
+        ]
+      },
+      {
+        "h": "A Sprawling Ensemble Cast",
+        "p": [
+          "The game features an extensive roster of recognizable talent beyond its primary leads. Former Saturday Night Live cast member Bobby Moynihan joins the ensemble as Cal, and Stephen Root takes on the role of Brian Heder after previously hinting at his involvement in the project.",
+          "Other notable names scattered throughout the credits include Taryn Manning, Roselyn Sanchez, and Denzel Curry. Additional performers have noted enduring lengthy audition processes lasting years before securing their roles in what many consider landmark career projects."
+        ]
+      },
+      {
+        "h": "Athletes Enter the Fictional State",
+        "p": [
+          "The virtual world of Leonida also incorporates elements from the sports world, highlighted by a contribution from NFL star Tyreek Hill. Hill voices Maleek Rivers, a wide receiver for the fictional Vice City Manatees.",
+          "This in-game athlete's persona heavily mirrors Hill's real-life career and connections to Miami, even featuring a subtle nod to one of his signature touchdown celebrations."
+        ]
+      },
+      {
+        "h": "Star-Studded Radio and Media Ecosystems",
+        "p": [
+          "Beyond the streets, the game's audio landscape functions as a comprehensive media environment featuring talk shows, commercials, and music stations. Weird Al Yankovic serves as a prominent voice, hosting the eighties station Vice City FM alongside Brigitte Nielsen, while also contributing writing and commercial voiceovers.",
+          "The broader radio lineup boasts contributions from numerous musicians, actors, and comedians. Artists such as Bad Bunny, Burna Boy, Lana Del Rey, Jeremy Irons, Keith Richards, and Jason Sudeikis help build an expansive satiric audio universe."
+        ]
+      },
+      {
+        "h": "Record-Breaking Financial Milestone",
+        "p": [
+          "The title has achieved immense commercial success shortly after launch. Industry trackers indicate that Grand Theft Auto VI has accumulated roughly USD 1.84 billion in sales based on pre-sales data.",
+          "This figure successfully surpassed the USD 1.80 billion earned by Christopher Nolan's cinematic blockbuster The Odyssey during its entire worldwide theatrical run."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Grand Theft Auto VI has revealed its main voice actors, Manni L. Perez and Dylan Rourke, alongside a broad ensemble cast featuring musicians, athletes, and comedians. Additionally, the title achieved massive pre-release sales figures that exceeded the box office earnings of Christopher Nolan's The Odyssey."
+        ]
+      }
+    ],
+    "facts": [
+      "Manni L. Perez plays Lucia",
+      "Dylan Rourke portrays Jason",
+      "Bobby Moynihan plays Cal",
+      "Stephen Root voices Brian Heder",
+      "Tyreek Hill voices Maleek Rivers",
+      "Weird Al Yankovic hosts Vice City FM",
+      "Grand Theft Auto VI generated USD 1.84 billion in sales",
+      "Christopher Nolan's The Odyssey earned USD 1.80 billion"
+    ],
+    "entities": {
+      "people": [
+        "Manni L. Perez",
+        "Dylan Rourke",
+        "Bobby Moynihan",
+        "Stephen Root",
+        "Taryn Manning",
+        "Roselyn Sanchez",
+        "Denzel Curry",
+        "Edwina Rai",
+        "Tyreek Hill",
+        "Weird Al Yankovic",
+        "Brigitte Nielsen",
+        "Charlamagne tha God",
+        "Ivy Rivera",
+        "Bad Bunny",
+        "Burna Boy",
+        "Lana Del Rey",
+        "Jeremy Irons",
+        "Keith Richards",
+        "Jason Sudeikis",
+        "Christopher Nolan"
+      ],
+      "titles": [
+        "Grand Theft Auto VI",
+        "The Odyssey"
+      ]
+    },
+    "keywords": [
+      "Grand Theft Auto VI voice cast",
+      "Lucia and Jason actors GTA VI",
+      "Manni L Perez Dylan Rourke GTA 6",
+      "Grand Theft Auto VI sales record"
+    ],
+    "images": [
+      {
+        "url": "https://static.toiimg.com/thumb/msid-136011505,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "caption": "Grand Theft Auto VI Unveils Voice Cast and Box Office Milestone",
+        "source": "Times of India — Entertainment"
+      }
+    ],
+    "published": "2026-11-20T09:05:28+05:30"
+  },
+  "uspsxv": {
+    "id": "uspsxv",
+    "type": "news",
+    "headline": "Dominic Zamprogna Opens Up About Working With Rebecca Herbst on General Hospital",
+    "dek": "Dominic Zamprogna shares his deep admiration for his General Hospital co-star Rebecca Herbst, reflecting on their shared childhood entry into acting and their unique working chemistry.",
+    "body": [
+      {
+        "h": "Deep Admiration for Rebecca Herbst",
+        "p": [
+          "Dominic Zamprogna, who portrays Dante Falconeri on General Hospital, recently expressed his profound admiration for his co-star Rebecca Herbst, known for playing Elizabeth. Zamprogna noted that working closely with Herbst brings out a distinctly happy side of his personality that he does not usually get to showcase.",
+          "Despite the heavy dramatic elements surrounding their characters on screen, Zamprogna highlighted how they manage to find moments of genuine joy whenever Dante and Elizabeth cross paths. He credits Herbst entirely for this uplifting dynamic, stating that his role is merely to react to the energy she projects."
+        ]
+      },
+      {
+        "h": "Building Trust and Professional Safety",
+        "p": [
+          "Getting the opportunity to share more scenes together has allowed Zamprogna to understand Herbst on a much deeper level. He characterizes her as a fascinating individual with immense life wisdom, mentioning that he frequently turns to her whenever he requires an answer to a question.",
+          "This growing off-screen bond has directly translated into a stronger professional relationship on the set of General Hospital. Zamprogna explained that mutual trust and a sense of emotional safety have made it significantly easier for him to feel comfortable during vulnerable acting moments."
+        ]
+      },
+      {
+        "h": "Bonding Over Early Careers in Acting",
+        "p": [
+          "A major point of connection between the two soap opera stars is their shared background as child actors. Herbst began her acting career at the young age of roughly six years old, while Zamprogna entered the entertainment business when he was eleven.",
+          "Because very few people experience the industry at such a tender age, the two actors found immediate common ground. Zamprogna shared that they possess countless stories from their long-term careers and can easily spend hours discussing their shared journeys."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Dominic Zamprogna praised his General Hospital co-star Rebecca Herbst, highlighting how she brings out a happy side of him and helps create joyful moments between their characters. The actors bonded over their shared experiences of starting their careers at very young ages, which has ultimately built greater trust and comfort between them on set."
+        ]
+      }
+    ],
+    "facts": [
+      "Dominic Zamprogna plays Dante Falconeri on General Hospital.",
+      "Rebecca Herbst plays Elizabeth on General Hospital.",
+      "The interview with Dominic Zamprogna was conducted by Soap Opera Digest.",
+      "Rebecca Herbst began acting around the age of 6.",
+      "Dominic Zamprogna entered the entertainment business at the age of 11.",
+      "The article publication date is November 19, 2026."
+    ],
+    "entities": {
+      "people": [
+        "Dominic Zamprogna",
+        "Rebecca Herbst",
+        "Shazmeen Navrange"
+      ],
+      "titles": [
+        "General Hospital"
+      ]
+    },
+    "keywords": [
+      "Dominic Zamprogna General Hospital",
+      "Rebecca Herbst General Hospital",
+      "Dominic Zamprogna Rebecca Herbst",
+      "Dante Falconeri Elizabeth General Hospital"
+    ],
+    "images": [
+      {
+        "url": "https://www.comingsoon.net/wp-content/uploads/sites/3/2026/11/Untitled-design-2026-11-20T092018.876.jpg?resize=1200,630",
+        "caption": "Dominic Zamprogna Opens Up About Working With Rebecca Herbst on General Hospital",
+        "source": "ComingSoon.net"
+      }
+    ],
+    "published": "Fri, 20 Nov 2026 03:51:11 +0000"
+  },
+  "okl598": {
+    "id": "okl598",
+    "type": "news",
+    "headline": "Aryan Khan calls Shah Rukh Khan a beast and views legacy comparisons as a compliment",
+    "dek": "Filmmaker Aryan Khan opens up about being likened to his superstar father, his creative process, and his inclusion in the TIME100 Next India list.",
+    "body": [
+      {
+        "h": "Embracing the Comparison",
+        "p": [
+          "Aryan Khan has openly addressed the frequent comparisons drawn between himself and his legendary father, Shah Rukh Khan. Rather than shying away from the similarities in their appearance and stature, the young director regards being measured against the industry's top star as a genuine honor. He affectionately referred to his father as a beast, acknowledging the immense footprint the veteran actor holds in cinema.",
+          "The conversation around these parallels stems not just from visual resemblance but also from Aryan's own formal entry into the entertainment business. By taking the commentary in stride, he has demonstrated a pragmatic attitude toward growing up in the shadow of one of the world's most recognizable film personalities."
+        ]
+      },
+      {
+        "h": "TIME100 Recognition",
+        "p": [
+          "The remarks were shared during an interview with TIME magazine, following Aryan's inclusion in the inaugural TIME100 Next India 2026 list. This prestigious compilation highlights rising figures and trailblazers across diverse sectors such as entertainment, business, science, sports, and advocacy throughout the country.",
+          "Alongside Aryan, the initiative features several notable personalities from the creative arts. The publication's upcoming December issue will showcase the honourees, and a celebratory gala is scheduled to take place in Mumbai to commemorate the inaugural list."
+        ]
+      },
+      {
+        "h": "Directorial Approach and Execution",
+        "p": [
+          "Transitioning from behind the camera to public discourse, Aryan discussed his distinct philosophy regarding filmmaking and storytelling. He highlighted his primary strength as the ability to take conceptual thoughts and transition them smoothly from initial written drafts to fully realized visual execution on screen.",
+          "Sharing his perspective on narrative structure, the filmmaker noted that fundamental plots often remain consistent across projects. He believes that true cinematic creativity lies entirely in the execution, specifically in how a director introduces unique twists, fresh perspectives, and individual voice to familiar premises."
+        ]
+      },
+      {
+        "h": "The Ba***ds of Bollywood",
+        "p": [
+          "Aryan's professional momentum is heavily tied to his directorial debut, a satirical seven-episode streaming series titled The Ba***ds of Bollywood. The project takes a humorous, behind-the-scenes look at the mechanics of the Hindi film industry while playing on widely recognized tropes and stereotypes.",
+          "The narrative centers around an ambitious newcomer named Aasmaan Singh, portrayed by Lakshya, who aspires to achieve stardom. He is joined in his journey by his loyal friend Parvaiz, played by Raghav Juyal, and his manager Sanya, played by Aanya Singh, as they navigate the chaotic realities of fame."
+        ]
+      },
+      {
+        "h": "Ensemble Cast and Reception",
+        "p": [
+          "The satirical series boasts a diverse and extensive ensemble cast that adds weight to its industry-focused narrative. Alongside the lead trio, the project features performances by Bobby Deol, Sahher Bambba, Manish Chaudhari, Mona Singh, Vijayant Kohli, Manoj Pahwa, Gautami Kapoor, and Rajat Bedi.",
+          "Following its premiere on Netflix, the production earned considerable attention and praise from both general audiences and critics alike. The positive reception has already paved the way for the development of a second season, keeping Aryan busy with upcoming production work."
+        ]
+      },
+      {
+        "h": "Broader Honourees on the List",
+        "p": [
+          "The TIME100 Next India roster captures a wide spectrum of talent extending far beyond the immediate circle of filmmakers. It includes prominent actors, musicians, and innovators who are shaping the contemporary cultural and industrial landscape of the nation.",
+          "Among the entertainment figures recognized are Alia Bhatt, Payal Kapadia, Theja Rio, Jitendra Kumar, Samantha Ruth Prabhu, Ali Fazal, Sai Pallavi, and numerous others. Musicians like Diljit Dosanjh and Anirudh Ravichander also secured spots, highlighting a diverse wave of creative influence."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Aryan Khan has described comparisons to his father, Shah Rukh Khan, as a compliment while praising the veteran actor as a beast in an interview tied to his recognition on the TIME100 Next India 2026 list. The filmmaker also detailed his creative philosophy behind his hit Netflix satirical series, The Ba***ds of Bollywood, as preparations continue for its second season."
+        ]
+      }
+    ],
+    "facts": [
+      "Aryan Khan called Shah Rukh Khan a beast and said comparisons are a compliment.",
+      "Aryan Khan was named to the TIME magazine TIME100 Next India 2026 list.",
+      "The Ba***ds of Bollywood is a seven-episode satirical series.",
+      "The series stars Lakshya, Raghav Juyal, and Aanya Singh among others.",
+      "The TIME list appears in the December 7 issue of the magazine.",
+      "The TIME100 Next India Gala is scheduled in Mumbai on December 12, 2026."
+    ],
+    "entities": {
+      "people": [
+        "Aryan Khan",
+        "Shah Rukh Khan",
+        "Gauri Khan",
+        "Alia Bhatt",
+        "Payal Kapadia",
+        "Theja Rio",
+        "Pawan Kumar Chandana",
+        "Diljit Dosanjh",
+        "Anirudh Ravichander",
+        "Jitendra Kumar",
+        "Samantha Ruth Prabhu",
+        "Ali Fazal",
+        "Sai Pallavi",
+        "Anuparna Roy",
+        "Arushi Mudgal",
+        "Ipshita Chakraborty Singh",
+        "Ishaan Khatter",
+        "Nayanthara",
+        "Pa Ranjith",
+        "Vedang Raina",
+        "Vicky Kaushal",
+        "Zahan Kapoor",
+        "Arivu",
+        "Faheem Abdullah",
+        "Ishaan Ghosh",
+        "Jasleen Royal",
+        "Prateek Kuhad",
+        "Lakshya",
+        "Sahher Bambba",
+        "Bobby Deol",
+        "Raghav Juyal",
+        "Aanya Singh",
+        "Manish Chaudhari",
+        "Mona Singh",
+        "Vijayant Kohli",
+        "Manoj Pahwa",
+        "Gautami Kapoor",
+        "Rajat Bedi",
+        "Bilal Siddiqui"
+      ],
+      "titles": [
+        "The Ba***ds of Bollywood"
+      ]
+    },
+    "keywords": [
+      "Aryan Khan",
+      "Shah Rukh Khan",
+      "The Ba***ds of Bollywood",
+      "TIME100 Next India"
+    ],
+    "images": [
+      {
+        "url": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202611/aryan-khan-205723137-16x9_0.jpg?VersionId=Uiq126bMgGO5QT3SrHitZ8zTxArp.08Q",
+        "caption": "Aryan Khan calls Shah Rukh Khan a beast and views legacy comparisons as a compliment",
+        "source": "India Today — Movies"
+      }
+    ],
+    "published": "Fri, 20 Nov 2026 09:28:46 +0530"
+  },
+  "y0rzwc": {
+    "id": "y0rzwc",
+    "type": "news",
+    "headline": "Shah Rukh Khan Becomes the Only Indian Actor Featured in Variety's 100 Greatest Movie Stars List",
+    "dek": "Bollywood icon Shah Rukh Khan has secured a prestigious spot among international cinema legends, earning the 92nd rank in Variety's newly released compilation of the greatest movie stars in history.",
+    "body": [
+      {
+        "h": "A Historic Global Accolade",
+        "p": [
+          "Bollywood superstar Shah Rukh Khan has achieved another monumental milestone in his storied performing arts career. The celebrated actor has been included in Variety's prestigious '100 Greatest Movie Stars of All Time' ranking, standing proudly alongside international icons such as Marilyn Monroe, Meryl Streep, Charlie Chaplin, Tom Cruise, and Leonardo DiCaprio.",
+          "As the sole Indian actor featured on this high-profile global compilation, the performer continues to expand his international footprint. The publication positioned him at the 92nd spot while specifically highlighting Sanjay Leela Bhansali's Devdas as an essential viewing experience from his extensive filmography."
+        ]
+      },
+      {
+        "h": "Criteria Beyond Box Office Numbers",
+        "p": [
+          "The publication determined these rankings by focusing primarily on an artist's magnetic screen presence and enduring cultural footprint rather than depending on standard popularity polls or commercial box-office figures. This methodology underscores how enduring charisma and performance mastery transcend language and geographical boundaries in the realm of cinema.",
+          "The comprehensive compilation features a diverse array of legendary cinematic figures from around the world. Alongside the Indian superstar, the list encompasses celebrated Hollywood names including Humphrey Bogart, Jack Nicholson, Katharine Hepburn, Sidney Poitier, Marlon Brando, Toshiro Mifune, Barbra Streisand, Clint Eastwood, Cary Grant, Julia Roberts, James Dean, Clark Gable, and numerous others."
+        ]
+      },
+      {
+        "h": "Prior International Recognition",
+        "p": [
+          "This recent accolade builds upon previous international honors received by the acclaimed actor. Back in 2022, a prominent British magazine named him in its own compilation celebrating the 50 greatest actors of all time, sharing space with respected American screen legends like Denzel Washington, Tom Hanks, and Meryl Streep.",
+          "On that occasion, the British publication underscored his extraordinary career spanning four decades of nearly unbroken commercial hits alongside a fanbase numbering in the billions. The commentary emphasized his exceptional charisma, complete mastery of his craft, and seamless adaptability across virtually every cinematic genre."
+        ]
+      },
+      {
+        "h": "Upcoming Cinematic Ventures",
+        "p": [
+          "Looking toward future projects, the actor is preparing for his next major theatrical release titled King. The upcoming movie is directed by Siddharth Anand, who also collaborated on the screenplay alongside Sujoy Ghosh, Suresh Nair, and Sagar Pandya.",
+          "The eagerly anticipated feature boasts an extensive ensemble cast including Suhana Khan marking her theatrical debut, Abhishek Bachchan, Deepika Padukone, Anil Kapoor, Rani Mukerji, Jaideep Ahlawat, Jackie Shroff, Arshad Warsi, Raghav Juyal, and Abhay Verma."
+        ]
+      },
+      {
+        "h": "Theatrical Release Schedule",
+        "p": [
+          "Audiences won't have to wait much longer to see the star back on the big screen in his next project. King is officially scheduled to hit theaters on December 24, 2026, strategically coinciding with the Christmas Eve holiday period.",
+          "This upcoming release adds further momentum to an already milestone-heavy period for the veteran performer, bridging global critical acclaim with major upcoming commercial entertainment."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Bollywood superstar Shah Rukh Khan has been ranked 92nd in Variety's '100 Greatest Movie Stars of All Time' list, making him the only Indian actor featured. The publication highlighted his cultural impact and screen presence rather than box-office receipts, recommending Devdas as his essential film. This follows his 2022 inclusion by a British magazine, while he prepares for his next theatrical release King directed by Siddharth Anand."
+        ]
+      }
+    ],
+    "facts": [
+      "Shah Rukh Khan is ranked 92nd in Variety's 100 Greatest Movie Stars of All Time list.",
+      "He is the only Indian actor included in Variety's list.",
+      "Variety recommends Devdas as the must-see film from his career.",
+      "In 2022, Shah Rukh Khan was named in an international list of 50 greatest actors of all time by a British magazine.",
+      "King is scheduled to release theatrically on December 24, 2026.",
+      "Siddharth Anand is the director of the upcoming movie King."
+    ],
+    "entities": {
+      "people": [
+        "Shah Rukh Khan",
+        "Marilyn Monroe",
+        "Meryl Streep",
+        "Charlie Chaplin",
+        "Tom Cruise",
+        "Leonardo DiCaprio",
+        "Sanjay Leela Bhansali",
+        "Humphrey Bogart",
+        "Jack Nicholson",
+        "Katharine Hepburn",
+        "Sidney Poitier",
+        "Marlon Brando",
+        "Toshiro Mifune",
+        "Barbra Streisand",
+        "Clint Eastwood",
+        "Cary Grant",
+        "Julia Roberts",
+        "James Dean",
+        "Clark Gable",
+        "Denzel Washington",
+        "Tom Hanks",
+        "Siddharth Anand",
+        "Sujoy Ghosh",
+        "Suresh Nair",
+        "Sagar Pandya",
+        "Suhana Khan",
+        "Abhishek Bachchan",
+        "Deepika Padukone",
+        "Anil Kapoor",
+        "Rani Mukerji",
+        "Jaideep Ahlawat",
+        "Jackie Shroff",
+        "Arshad Warsi",
+        "Raghav Juyal",
+        "Abhay Verma"
+      ],
+      "titles": [
+        "Devdas",
+        "King"
+      ]
+    },
+    "keywords": [
+      "Shah Rukh Khan Variety list",
+      "Shah Rukh Khan greatest movie stars",
+      "King movie release date",
+      "Siddharth Anand King cast"
+    ],
+    "images": [
+      {
+        "url": "https://cdn-english.zeenews.com/sites/default/files/2026/11/19/6968-srk-rolls-royce.jpg",
+        "caption": "Shah Rukh Khan Becomes the Only Indian Actor Featured in Variety's 100 Greatest Movie Stars List",
+        "source": "Zee News — Entertainment"
+      }
+    ],
+    "published": "2026-11-20T04:52:13Z"
   }
 };

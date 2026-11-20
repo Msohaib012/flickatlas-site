@@ -17,10 +17,10 @@
    "detail": "reader timed out; last-good staging retained"
   },
   "fnn_boxoffice": {
-   "last_attempt_at": "2026-11-20T00:53:28Z",
-   "last_run": "2026-11-20T00:53:28Z",
+   "last_attempt_at": "2026-11-20T04:54:04Z",
+   "last_run": "2026-11-20T04:54:04Z",
    "last_status": "success",
-   "last_success": "2026-11-20T00:53:28Z",
+   "last_success": "2026-11-20T04:54:04Z",
    "consecutive_failures": 0,
    "detail": "validated 193 rows; 1 staging files changed"
   },
@@ -33,12 +33,12 @@
    "detail": "reader process failed; last-good staging retained"
   },
   "ott_digital": {
-   "last_attempt_at": "2026-11-19T23:52:23Z",
-   "last_run": "2026-11-19T23:52:23Z",
+   "last_attempt_at": "2026-11-20T04:52:20Z",
+   "last_run": "2026-11-20T04:52:20Z",
    "last_status": "failed",
    "last_success": "2026-11-19T06:52:38Z",
-   "consecutive_failures": 3,
-   "detail": "invalid release_dates response for 1810118"
+   "consecutive_failures": 4,
+   "detail": "invalid release_dates response for 1824458"
   },
   "wp_boxoffice": {
    "last_attempt_at": "2026-11-19T22:56:37Z",
@@ -73,5 +73,5 @@
    "detail": "reader timed out; last-good staging retained"
   }
  },
- "updated_at": "2026-11-20T03:58:37Z"
+ "updated_at": "2026-11-20T04:54:04Z"
 }
