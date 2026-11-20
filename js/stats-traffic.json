@@ -1,33 +1,33 @@
 {
   "connected": true,
-  "generated": "2026-11-20T06:54:23Z",
+  "generated": "2026-11-20T08:06:33Z",
   "realtime": {
-    "active_users": 109
+    "active_users": 55
   },
   "today": {
-    "users": 670,
-    "pageviews": 626,
-    "sessions": 673,
-    "avg_session_seconds": 3.8
+    "users": 1046,
+    "pageviews": 989,
+    "sessions": 1049,
+    "avg_session_seconds": 3.6
   },
   "last7": {
-    "users": 1787,
-    "pageviews": 1973,
-    "sessions": 1825,
-    "avg_session_seconds": 12.0
+    "users": 2162,
+    "pageviews": 2336,
+    "sessions": 2200,
+    "avg_session_seconds": 10.5
   },
   "top_pages": [
     {
       "path": "/person",
       "title": "Actor & Filmmaker Profile | FlickAtlas",
-      "views": 576,
-      "avg_time_seconds": 4.0
+      "views": 799,
+      "avg_time_seconds": 3.8
     },
     {
       "path": "/person",
       "title": "Actor & Filmmaker Profiles | FlickAtlas",
-      "views": 374,
-      "avg_time_seconds": 3.2
+      "views": 490,
+      "avg_time_seconds": 3.0
     },
     {
       "path": "/",
@@ -38,14 +38,14 @@
     {
       "path": "/box-office",
       "title": "Box Office Collections: Today, 7-Day & Totals | FlickAtlas",
-      "views": 26,
-      "avg_time_seconds": 19.2
+      "views": 27,
+      "avg_time_seconds": 18.5
     },
     {
       "path": "/ott",
       "title": "OTT Releases: Now Available & Coming Soon | FlickAtlas",
-      "views": 16,
-      "avg_time_seconds": 19.5
+      "views": 17,
+      "avg_time_seconds": 18.5
     },
     {
       "path": "/search",
@@ -54,42 +54,42 @@
       "avg_time_seconds": 28.6
     },
     {
+      "path": "/most-awaited",
+      "title": "Upcoming Movies: Coming Soon Releases | FlickAtlas",
+      "views": 14,
+      "avg_time_seconds": 8.2
+    },
+    {
       "path": "/movie",
       "title": "Movie Details: Cast, Story & Box Office | FlickAtlas",
       "views": 14,
       "avg_time_seconds": 9.9
     },
     {
-      "path": "/most-awaited",
-      "title": "Upcoming Movies: Coming Soon Releases | FlickAtlas",
-      "views": 13,
-      "avg_time_seconds": 8.5
-    },
-    {
       "path": "/episode-guides",
       "title": "Pakistani Drama Episode Guides | FlickAtlas",
-      "views": 12,
-      "avg_time_seconds": 10.7
+      "views": 13,
+      "avg_time_seconds": 10.2
     },
     {
       "path": "/upcoming",
       "title": "Upcoming Movies & TV Release Dates | FlickAtlas",
-      "views": 12,
-      "avg_time_seconds": 9.3
+      "views": 13,
+      "avg_time_seconds": 9.0
     }
   ],
   "sources": [
     {
       "source": "(direct)",
       "medium": "(none)",
-      "sessions": 1747,
-      "users": 1717
+      "sessions": 2102,
+      "users": 2071
     },
     {
       "source": "(not set)",
       "medium": "(not set)",
-      "sessions": 102,
-      "users": 102
+      "sessions": 179,
+      "users": 179
     },
     {
       "source": "google",
@@ -107,49 +107,49 @@
   "countries": [
     {
       "country": "United States",
-      "users": 364
+      "users": 412
     },
     {
       "country": "Brazil",
-      "users": 318
+      "users": 403
     },
     {
       "country": "Singapore",
-      "users": 209
-    },
-    {
-      "country": "Argentina",
-      "users": 109
+      "users": 268
     },
     {
       "country": "Hong Kong",
-      "users": 102
+      "users": 132
+    },
+    {
+      "country": "Argentina",
+      "users": 131
     },
     {
       "country": "Colombia",
-      "users": 94
+      "users": 112
     },
     {
       "country": "Vietnam",
-      "users": 87
+      "users": 105
     },
     {
       "country": "China",
-      "users": 81
+      "users": 100
     },
     {
       "country": "Indonesia",
-      "users": 77
+      "users": 88
     },
     {
       "country": "Mexico",
-      "users": 64
+      "users": 84
     }
   ],
   "devices": [
     {
       "device": "desktop",
-      "users": 1772
+      "users": 2147
     },
     {
       "device": "mobile",

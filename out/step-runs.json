@@ -4,45 +4,6 @@
    {
     "step": "fetch",
     "category": "Trending News",
-    "run_at": "2026-11-19T07:51:05Z",
-    "run_id": "44482717189",
-    "status": "success",
-    "checked": {
-     "candidates": 280,
-     "detail": "RSS/Atom items across 137 sources; 0 source(s) errored"
-    },
-    "changed": {
-     "added": [
-      "Ankita Lokhande On Bigg Boss Journey, Insecurities With Vicky Jain On Double Date: Pehle Ladai Hoti...",
-      "Samaira Sandhu Stuns in a Series of Glamorous Looks; Fans Eager to See Her On Big Screen",
-      "Bigg Boss 20: Gullu Mania To Take Over Gurgaon! Team Gullu and Fans Call For Massive Rally To Show His Support",
-      "Avengers: Doomsday Set for Biggest Opening Day in India for Hollywood as 100 Crore Gross Comes Into Sight",
-      "'Dulquer Salmaan ready to act with Mammootty'",
-      "Guitarist John Christ passes away at 61",
-      "In 2008, 50 Cent helped reopen a Queens community garden with rainwater-collection features; the space still bears his name",
-      "International Men's Day| Garrett Graham to Keenu and Rory, the green flags on our screens in 2026",
-      "Is Yeh Prem Mol Liya a copy of Rocky Aur Rani? Ayushmann dismisses comparisons",
-      "Tamil cinema's Rs 1,000-crore dream: Why even Rajinikanth's Jailer 2 fell short",
-      "EXCLUSIVE: Jackie Shroff Suffered Cuts While Performing Risky Sequence; Kaali Kheti Director Haris Imtiyaz Khan Spill The Beans",
-      "Beloved Unscripted Netflix Series Renewed for Season 2 as Franchise Expands",
-      "Food Network’s Bobby Flay Faces Explosive Claims From Fellow TV Chef Over 35-Year History",
-      "All 8 Episodes Of HBO's 'Modern Sopranos' Masterpiece Are Perfect From Start To Finish",
-      "10-Episode HBO Max Fantasy Series Delivers A Masterclass In Bending Genres",
-      "What Happens When Documentary Makers Sell Their Footage to AI Aggregators?",
-      "Jamie Dornan Hasn’t ‘Spoken Directly’ to Viggo Mortensen About Aragorn Recasting in ‘Lord of the Rings: Hunt for Gollum,’ But Says ‘His Approval’ is ‘All I Care About’",
-      "Jimmy Kimmel Offers Himself Up as White House Press Secretary: ‘Let’s Get Started’",
-      "Singing Ka Junoon – Natasha Baig – Nida Yasir – Good Morning Pakistan",
-      "Aaj Hamare Sath Hain, Aap Sub Ke Favorite Singer \"Natasha Baig\" | Good Morning Pakistan"
-     ],
-     "updated": [],
-     "count": 264,
-     "detail": "280 stories, 0 duplicates removed, 0 dropped"
-    },
-    "reason": null
-   },
-   {
-    "step": "fetch",
-    "category": "Trending News",
     "run_at": "2026-11-19T08:51:56Z",
     "run_id": "44491044926",
     "status": "success",
@@ -936,32 +897,48 @@
      "detail": "327 stories, 2 duplicates removed, 10 dropped"
     },
     "reason": null
-   }
-  ],
-  "apply_auto": [
+   },
    {
-    "step": "apply_auto",
+    "step": "fetch",
     "category": "Trending News",
-    "run_at": "2026-11-19T08:52:39Z",
-    "run_id": "44491044926",
+    "run_at": "2026-11-20T07:51:55Z",
+    "run_id": "44697930672",
     "status": "success",
     "checked": {
-     "candidates": 14,
-     "detail": "draft articles + box-office rows from out/gemini-batch.json"
+     "candidates": 284,
+     "detail": "RSS/Atom items across 137 sources; 3 source(s) errored"
     },
     "changed": {
      "added": [
-      "Saif Ali Khan Targets of Death Threat Connected to High Profile Murder Case",
-      "Yeh Prem Mol Liya Trailer Divides Internet Over Old-School Family Drama",
-      "How the Director of Josephine Discovered Her Lead Star at a Farmers Market",
-      "Mumbai Police Considers X-Category Protection For Bollywood Stars Following Recent Threats"
+      "Darsheel Safary and Zain Khan Durrani team up for Alok Naik's cybercrime thriller Cyber",
+      "Aakasamlo Oka Tara X Review: What Audiences Are Saying About Dulquer Salmaan And Satvika Veeravalli's Film",
+      "The Blue Road Release Time Today: When Will Episode 1-8 Premiere On Netflix? Who Plays What In K-drama?",
+      "Bigg Boss Bangla 3 First Finalist: Jeetu Kamal's Ticket To Finale Win Sparks Backlash; Fans Slam Actor; WHY?",
+      "OM UAE Review: Dhanush & Mammootty's Film Is A Paisa Vasool Entertainer But The Climax Is....",
+      "Drishyam 3 Box Office (Closing Collection): Highest-Grossing Bollywood Threequel Concludes Its Run With 246% ROI!",
+      "The Hunger Games: Sunrise On The Reaping China Box Office: Could Surpass Songbirds & Snakes’ Entire Run In Just 3 Days!",
+      "Ramayana Box Office Day 16 Advance Booking & Prediction: Needs To Find Sanjeevani Booti To Touch Dhurandhar’s 23.7 Crore Biggest 3rd Friday!",
+      "Exclusive: Ahaan Panday Astrological Insight: Could He Become The Next Shah Rukh Khan? His Birth Chart Reveals An Extraordinary Future",
+      "OM Movie Review: Dhanush & Mammootty Starrer Balances Stardom & Substance, But The Second-Half Curse Strikes Again!",
+      "The Nightingale Teaser Trailer Out: Dakota & Elle Fanning Unite For Their First Feature Film Together In A World War II Drama",
+      "Yash Set to Become First Indian Actor With Two Films Grossing ₹50 Crore in All Five Major Languages as Ramayana Nears KGF 2 Record",
+      "Sharad Kapoor health update; Hema Chaudhary shares latest details",
+      "'The Vvaan: Force of the Forest' OTT release",
+      "Love & War: Bhansali plans song before trailer",
+      "‘Bouma’ BO: Malayalam film sees 38.9% drop, earns Rs 33 lakh",
+      "Films faced backlash: Ramayana boycott call revives scrutiny",
+      "Jordan Brunoli passes away after cancer battle",
+      "Ananya Panday says younger generation still seeks true love, but won't settle down as standards are 'very high' now",
+      "Aditya Dhar recalls 20-year journey to becoming an 'overnight sensation' with Dhurandhar, credits wife Yami Gautam for changing his fate"
      ],
      "updated": [],
-     "count": 7,
-     "detail": "+4 articles, +0 box-office rows, 3 rows updated"
+     "count": 276,
+     "detail": "278 stories, 0 duplicates removed, 6 dropped"
     },
     "reason": null
-   },
+   }
+  ],
+  "apply_auto": [
    {
     "step": "apply_auto",
     "category": "Trending News",
@@ -1484,27 +1461,32 @@
      "detail": "+4 articles, +0 box-office rows, 3 rows updated"
     },
     "reason": null
+   },
+   {
+    "step": "apply_auto",
+    "category": "Trending News",
+    "run_at": "2026-11-20T07:53:59Z",
+    "run_id": "44697930672",
+    "status": "success",
+    "checked": {
+     "candidates": 14,
+     "detail": "draft articles + box-office rows from out/gemini-batch.json"
+    },
+    "changed": {
+     "added": [
+      "Discovering the Hidden Gem Period Drama Streaming on Netflix",
+      "Ahaan Panday's Astrological Forecast Reveals Potential for Defining Stardom",
+      "Coronation Street Spoilers: Ross Pushes Tyrone Too Far and Family Tensions Explode",
+      "Vidya Malavade opens up about intimate scenes in Dr. Arora"
+     ],
+     "updated": [],
+     "count": 7,
+     "detail": "+4 articles, +0 box-office rows, 3 rows updated"
+    },
+    "reason": null
    }
   ],
   "ott": [
-   {
-    "step": "ott",
-    "category": "OTT",
-    "run_at": "2026-11-19T11:51:48Z",
-    "run_id": "44518394579",
-    "status": "success",
-    "checked": {
-     "candidates": 389,
-     "detail": "OTT now/coming titles from the published catalogue"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 0,
-     "detail": "now 381, coming 8"
-    },
-    "reason": "no-new-data"
-   },
    {
     "step": "ott",
     "category": "OTT",
@@ -1918,31 +1900,27 @@
      "detail": "now 390, coming 7"
     },
     "reason": "no-new-data"
+   },
+   {
+    "step": "ott",
+    "category": "OTT",
+    "run_at": "2026-11-20T07:53:59Z",
+    "run_id": "44697930672",
+    "status": "success",
+    "checked": {
+     "candidates": 397,
+     "detail": "OTT now/coming titles from the published catalogue"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 0,
+     "detail": "now 390, coming 7"
+    },
+    "reason": "no-new-data"
    }
   ],
   "trending_weekly": [
-   {
-    "step": "trending_weekly",
-    "category": "Trending Topics",
-    "run_at": "2026-11-19T09:03:46Z",
-    "run_id": "44491044926",
-    "status": "success",
-    "checked": {
-     "candidates": 100,
-     "detail": "cached Google RSS trend/article intersection"
-    },
-    "changed": {
-     "added": [
-      "xfoonf",
-      "ltv81g",
-      "1rry6ab",
-      "ztw4hz"
-     ],
-     "updated": [],
-     "count": 4
-    },
-    "reason": null
-   },
    {
     "step": "trending_weekly",
     "category": "Trending Topics",
@@ -2431,27 +2409,34 @@
      "count": 0
     },
     "reason": "no-new-data"
+   },
+   {
+    "step": "trending_weekly",
+    "category": "Trending Topics",
+    "run_at": "2026-11-20T08:06:18Z",
+    "run_id": "44697930672",
+    "status": "success",
+    "checked": {
+     "candidates": 100,
+     "detail": "cached Google RSS trend/article intersection"
+    },
+    "changed": {
+     "added": [
+      "zx08nk",
+      "8u9d4d",
+      "1mz6jd6",
+      "p5yih5",
+      "1m1m6fv",
+      "1wiguz",
+      "12m1liv"
+     ],
+     "updated": [],
+     "count": 7
+    },
+    "reason": null
    }
   ],
   "multisource_boxoffice": [
-   {
-    "step": "multisource_boxoffice",
-    "category": "Box Office",
-    "run_at": "2026-11-19T07:51:26Z",
-    "run_id": "44482717189",
-    "status": "success",
-    "checked": {
-     "candidates": 715,
-     "detail": "667 collected staging rows from readers; 241 averaged across 2+ sources"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 3,
-     "detail": "+0 new rows, 3 updated rows, 689 unchanged"
-    },
-    "reason": null
-   },
    {
     "step": "multisource_boxoffice",
     "category": "Box Office",
@@ -2865,19 +2850,27 @@
      "detail": "+0 new rows, 6 updated rows, 695 unchanged"
     },
     "reason": null
+   },
+   {
+    "step": "multisource_boxoffice",
+    "category": "Box Office",
+    "run_at": "2026-11-20T08:06:16Z",
+    "run_id": "44697930672",
+    "status": "success",
+    "checked": {
+     "candidates": 725,
+     "detail": "673 collected staging rows from readers; 248 averaged across 2+ sources"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 3,
+     "detail": "+0 new rows, 3 updated rows, 698 unchanged"
+    },
+    "reason": null
    }
   ],
   "gemini_reviews": [
-   {
-    "step": "gemini_reviews",
-    "category": "Reviews",
-    "run_at": "2026-11-19T07:51:36Z",
-    "run_id": "44482717189",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "gemini_reviews",
     "category": "Reviews",
@@ -3114,32 +3107,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "gemini_reviews",
+    "category": "Reviews",
+    "run_at": "2026-11-20T08:06:33Z",
+    "run_id": "44697930672",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "convert_news": [
-   {
-    "step": "convert_news",
-    "category": "Trending News",
-    "run_at": "2026-11-19T09:03:45Z",
-    "run_id": "44491044926",
-    "status": "success",
-    "checked": {
-     "candidates": 600,
-     "detail": "feed entries from out/queue.json"
-    },
-    "changed": {
-     "added": [
-      "Saif Ali Khan Targets of Death Threat Connected to High Profile Murder Case",
-      "Yeh Prem Mol Liya Trailer Divides Internet Over Old-School Family Drama",
-      "How the Director of Josephine Discovered Her Lead Star at a Farmers Market",
-      "Mumbai Police Considers X-Category Protection For Bollywood Stars Following Recent Threats"
-     ],
-     "updated": [],
-     "count": 4,
-     "detail": "api-news.json 600 items, api-trends.json 12 items"
-    },
-    "reason": null
-   },
    {
     "step": "convert_news",
     "category": "Trending News",
@@ -3673,19 +3653,32 @@
      "detail": "api-news.json 600 items, api-trends.json 12 items"
     },
     "reason": null
+   },
+   {
+    "step": "convert_news",
+    "category": "Trending News",
+    "run_at": "2026-11-20T08:06:17Z",
+    "run_id": "44697930672",
+    "status": "success",
+    "checked": {
+     "candidates": 600,
+     "detail": "feed entries from out/queue.json"
+    },
+    "changed": {
+     "added": [
+      "Discovering the Hidden Gem Period Drama Streaming on Netflix",
+      "Ahaan Panday's Astrological Forecast Reveals Potential for Defining Stardom",
+      "Coronation Street Spoilers: Ross Pushes Tyrone Too Far and Family Tensions Explode",
+      "Vidya Malavade opens up about intimate scenes in Dr. Arora"
+     ],
+     "updated": [],
+     "count": 4,
+     "detail": "api-news.json 600 items, api-trends.json 12 items"
+    },
+    "reason": null
    }
   ],
   "episode_guides": [
-   {
-    "step": "episode_guides",
-    "category": "Drama Episodes",
-    "run_at": "2026-11-19T07:51:36Z",
-    "run_id": "44482717189",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "episode_guides",
     "category": "Drama Episodes",
@@ -3915,19 +3908,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "title_seed": [
+   },
    {
-    "step": "title_seed",
-    "category": "Spotlight / Coming Soon / Most Awaited",
-    "run_at": "2026-11-19T07:51:36Z",
-    "run_id": "44482717189",
+    "step": "episode_guides",
+    "category": "Drama Episodes",
+    "run_at": "2026-11-20T08:06:33Z",
+    "run_id": "44697930672",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "title_seed": [
    {
     "step": "title_seed",
     "category": "Spotlight / Coming Soon / Most Awaited",
@@ -4249,31 +4242,19 @@
      "count": 20
     },
     "reason": null
+   },
+   {
+    "step": "title_seed",
+    "category": "Spotlight / Coming Soon / Most Awaited",
+    "run_at": "2026-11-20T08:06:33Z",
+    "run_id": "44697930672",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "gemini_batch": [
-   {
-    "step": "gemini_batch",
-    "category": "Trending News",
-    "run_at": "2026-11-19T07:51:25Z",
-    "run_id": "44482717189",
-    "status": "success",
-    "checked": {
-     "candidates": 4,
-     "detail": "news queue items drafted this run; 264 still unprocessed; today by category: movies 7/6, tv_dramas 7/4, episodes 1/2, box_office 6/6, celebrities_events 3/5, upcoming_releases 1/4, ott_streaming 3/4, trailers 0/3, awards 2/2, music_ost 2/2, viral 0/2"
-    },
-    "changed": {
-     "added": [
-      "Tabu Sets Hindi OTT Debut With YRF Entertainment Series Tunnel Men Inspired By 2023 Rescue",
-      "Dakota and Elle Fanning Unite Onscreen for the First Time in The Nightingale Adaptation",
-      "Amitabh Bachchan Clarifies Cryptic 'Bach Gaye' Tweet After Wardrobe Malfunction on Kaun Banega Crorepati Set",
-      "Netflix Renews Physical: Asia for Season 2 and Expands Global Franchise"
-     ],
-     "updated": [],
-     "count": 4
-    },
-    "reason": null
-   },
    {
     "step": "gemini_batch",
     "category": "Trending News",
@@ -4778,19 +4759,31 @@
      "count": 4
     },
     "reason": null
+   },
+   {
+    "step": "gemini_batch",
+    "category": "Trending News",
+    "run_at": "2026-11-20T07:53:58Z",
+    "run_id": "44697930672",
+    "status": "success",
+    "checked": {
+     "candidates": 5,
+     "detail": "news queue items drafted this run; 276 still unprocessed; today by category: movies 1/6, tv_dramas 7/4, episodes 0/2, box_office 7/6, celebrities_events 7/5, upcoming_releases 1/4, ott_streaming 8/4, trailers 0/3, awards 1/2, music_ost 0/2, viral 0/2"
+    },
+    "changed": {
+     "added": [
+      "Discovering the Hidden Gem Period Drama Streaming on Netflix",
+      "Ahaan Panday's Astrological Forecast Reveals Potential for Defining Stardom",
+      "Coronation Street Spoilers: Ross Pushes Tyrone Too Far and Family Tensions Explode",
+      "Vidya Malavade opens up about intimate scenes in Dr. Arora"
+     ],
+     "updated": [],
+     "count": 4
+    },
+    "reason": null
    }
   ],
   "overseas_ai": [
-   {
-    "step": "overseas_ai",
-    "category": "Box Office",
-    "run_at": "2026-11-19T07:51:36Z",
-    "run_id": "44482717189",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "overseas_ai",
     "category": "Box Office",
@@ -5097,24 +5090,26 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "publish": [
+   },
    {
-    "step": "publish",
-    "category": "Trending News",
-    "run_at": "2026-11-19T07:51:36Z",
-    "run_id": "44482717189",
+    "step": "overseas_ai",
+    "category": "Box Office",
+    "run_at": "2026-11-20T07:55:18Z",
+    "run_id": "44697930672",
     "status": "success",
-    "checked": null,
+    "checked": {
+     "candidates": 55,
+     "detail": "published movies with missing overseas day figures; Tavily searches: 48"
+    },
     "changed": {
      "added": [],
      "updated": [],
-     "count": 387,
-     "detail": "lines changed in owned files; no per-item summary from script"
+     "count": 0
     },
-    "reason": null
-   },
+    "reason": "no-new-data"
+   }
+  ],
+  "publish": [
    {
     "step": "publish",
     "category": "Trending News",
@@ -5389,24 +5384,24 @@
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
-   }
-  ],
-  "stats_traffic": [
+   },
    {
-    "step": "stats_traffic",
-    "category": "Stats / Health",
-    "run_at": "2026-11-19T07:51:36Z",
-    "run_id": "44482717189",
+    "step": "publish",
+    "category": "Trending News",
+    "run_at": "2026-11-20T08:06:33Z",
+    "run_id": "44697930672",
     "status": "success",
     "checked": null,
     "changed": {
      "added": [],
      "updated": [],
-     "count": 37,
+     "count": 407,
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
-   },
+   }
+  ],
+  "stats_traffic": [
    {
     "step": "stats_traffic",
     "category": "Stats / Health",
@@ -5706,19 +5701,24 @@
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
+   },
+   {
+    "step": "stats_traffic",
+    "category": "Stats / Health",
+    "run_at": "2026-11-20T08:06:33Z",
+    "run_id": "44697930672",
+    "status": "success",
+    "checked": null,
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 45,
+     "detail": "lines changed in owned files; no per-item summary from script"
+    },
+    "reason": null
    }
   ],
   "stats_pipeline": [
-   {
-    "step": "stats_pipeline",
-    "category": "Stats / Health",
-    "run_at": "2026-11-19T07:51:36Z",
-    "run_id": "44482717189",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "stats_pipeline",
     "category": "Stats / Health",
@@ -5968,19 +5968,19 @@
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
-   }
-  ],
-  "stats_health": [
+   },
    {
-    "step": "stats_health",
+    "step": "stats_pipeline",
     "category": "Stats / Health",
-    "run_at": "2026-11-19T07:51:36Z",
-    "run_id": "44482717189",
+    "run_at": "2026-11-20T08:06:33Z",
+    "run_id": "44697930672",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "stats_health": [
    {
     "step": "stats_health",
     "category": "Stats / Health",
@@ -6215,19 +6215,19 @@
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
-   }
-  ],
-  "metadata_refresh": [
+   },
    {
-    "step": "metadata_refresh",
-    "category": "Spotlight / Coming Soon / Most Awaited",
-    "run_at": "2026-11-19T07:51:36Z",
-    "run_id": "44482717189",
+    "step": "stats_health",
+    "category": "Stats / Health",
+    "run_at": "2026-11-20T08:06:33Z",
+    "run_id": "44697930672",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "metadata_refresh": [
    {
     "step": "metadata_refresh",
     "category": "Spotlight / Coming Soon / Most Awaited",
@@ -6509,19 +6509,19 @@
      "count": 42
     },
     "reason": null
-   }
-  ],
-  "providers_backfill": [
+   },
    {
-    "step": "providers_backfill",
-    "category": "OTT",
-    "run_at": "2026-11-19T07:51:36Z",
-    "run_id": "44482717189",
+    "step": "metadata_refresh",
+    "category": "Spotlight / Coming Soon / Most Awaited",
+    "run_at": "2026-11-20T08:06:33Z",
+    "run_id": "44697930672",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "providers_backfill": [
    {
     "step": "providers_backfill",
     "category": "OTT",
@@ -6762,19 +6762,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "tavily_boxoffice": [
+   },
    {
-    "step": "tavily_boxoffice",
-    "category": "Box Office",
-    "run_at": "2026-11-19T07:51:36Z",
-    "run_id": "44482717189",
+    "step": "providers_backfill",
+    "category": "OTT",
+    "run_at": "2026-11-20T08:06:33Z",
+    "run_id": "44697930672",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "tavily_boxoffice": [
    {
     "step": "tavily_boxoffice",
     "category": "Box Office",
@@ -7004,19 +7004,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "tavily_boxoffice",
+    "category": "Box Office",
+    "run_at": "2026-11-20T08:06:33Z",
+    "run_id": "44697930672",
+    "status": "success",
+    "checked": null,
+    "changed": null,
+    "reason": "no-new-data"
    }
   ],
   "keywords_refresh": [
-   {
-    "step": "keywords_refresh",
-    "category": "Trending News",
-    "run_at": "2026-11-19T07:51:36Z",
-    "run_id": "44482717189",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "keywords_refresh",
     "category": "Trending News",
@@ -7269,30 +7269,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "keywords_refresh",
+    "category": "Trending News",
+    "run_at": "2026-11-20T08:06:33Z",
+    "run_id": "44697930672",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "overseas_sweep": [
-   {
-    "step": "overseas_sweep",
-    "category": "Box Office",
-    "run_at": "2026-11-18T07:06:13Z",
-    "run_id": "44254319667",
-    "status": "success",
-    "checked": {
-     "candidates": 574,
-     "detail": "completed day-wise rows missing overseas; quicknews pages fetched: 14; attempt cooldown deferred: 560"
-    },
-    "changed": {
-     "added": [
-      "Ranabaali (1389379)",
-      "418 (1606527)",
-      "Nayyi Navelli (1654581)"
-     ],
-     "updated": [],
-     "count": 13
-    },
-    "reason": null
-   },
    {
     "step": "overseas_sweep",
     "category": "Box Office",
@@ -7779,19 +7768,30 @@
      "count": 13
     },
     "reason": null
+   },
+   {
+    "step": "overseas_sweep",
+    "category": "Box Office",
+    "run_at": "2026-11-20T07:54:16Z",
+    "run_id": "44697930672",
+    "status": "success",
+    "checked": {
+     "candidates": 585,
+     "detail": "completed day-wise rows missing overseas; quicknews pages fetched: 13; attempt cooldown deferred: 572"
+    },
+    "changed": {
+     "added": [
+      "Ranabaali (1389379)",
+      "418 (1606527)",
+      "Nayyi Navelli (1654581)"
+     ],
+     "updated": [],
+     "count": 13
+    },
+    "reason": null
    }
   ],
   "advance_booking": [
-   {
-    "step": "advance_booking",
-    "category": "Box Office",
-    "run_at": "2026-11-19T07:51:36Z",
-    "run_id": "44482717189",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "advance_booking",
     "category": "Box Office",
@@ -8031,19 +8031,19 @@
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
-   }
-  ],
-  "home_boxoffice_worldwide": [
+   },
    {
-    "step": "home_boxoffice_worldwide",
+    "step": "advance_booking",
     "category": "Box Office",
-    "run_at": "2026-11-19T07:51:36Z",
-    "run_id": "44482717189",
+    "run_at": "2026-11-20T08:06:33Z",
+    "run_id": "44697930672",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "home_boxoffice_worldwide": [
    {
     "step": "home_boxoffice_worldwide",
     "category": "Box Office",
@@ -8288,8 +8288,18 @@
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
+   },
+   {
+    "step": "home_boxoffice_worldwide",
+    "category": "Box Office",
+    "run_at": "2026-11-20T08:06:33Z",
+    "run_id": "44697930672",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ]
  },
- "updated_at": "2026-11-20T06:54:26Z"
+ "updated_at": "2026-11-20T08:06:33Z"
 }

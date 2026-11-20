@@ -198356,5 +198356,412 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Fri, 20 Nov 2026 11:27:44 +0530"
+  },
+  "levt3c": {
+    "id": "levt3c",
+    "type": "news",
+    "headline": "Discovering the Hidden Gem Period Drama Streaming on Netflix",
+    "dek": "Audiences are rediscovering a medieval black comedy miniseries on Netflix, praising its unpredictable narrative and lavish production.",
+    "body": [
+      {
+        "h": "The Appeal of Costume Dramas",
+        "p": [
+          "Historical television programmes have consistently captivated viewers through a combination of grand storytelling, striking wardrobe designs, and complex interpersonal dynamics. Shows like Bridgerton, Downton Abbey, and Poldark have established a high benchmark for the genre, pulling audiences into bygone eras with lavish aesthetics and immersive plots.",
+          "While mainstream historical epics often dominate discussions, lesser-known entries frequently emerge to surprise enthusiasts looking for something different. A distinct streaming option has recently caught the attention of television fans seeking a fresh take on the traditional costume format."
+        ]
+      },
+      {
+        "h": "A Hidden Gem on Streaming",
+        "p": [
+          "Standing apart from standard costume productions, a particular period drama on Netflix has earned the label of a hidden gem. Viewers have highlighted the title as an engaging watch that offers a blend of sharp humour and unpredictable storytelling.",
+          "Rather than sticking strictly to conventional dramatic tropes, the project introduces a distinct tone that has resonated with subscribers looking for inventive narrative styles within the streaming library."
+        ]
+      },
+      {
+        "h": "Origins and Inspiration",
+        "p": [
+          "The creative framework of the programme stems from a classic literary source. Developed by Kathleen Jordan, the series draws its conceptual roots from Giovanni Boccaccio's fourteenth-century collection of Italian short stories sharing the same name.",
+          "This historical foundation provides a sturdy base for the adaptation, translating classic literary themes into a serialized television format designed for modern audiences."
+        ]
+      },
+      {
+        "h": "Plague and Panic at the Villa",
+        "p": [
+          "The premise centers around a turbulent historical crisis as the bubonic plague sweeps across Italy. To escape the spreading illness, a collection of aristocrats and their attendants relocate to a countryside villa for safety.",
+          "What begins as an opulent retreat rapidly descends into disorder as tensions rise, social hierarchies fracture, and chaotic situations unfold among the confined guests and staff members."
+        ]
+      },
+      {
+        "h": "An Ensemble Cast of Characters",
+        "p": [
+          "The production features a diverse roster of performers bringing the eccentric characters to life. The main ensemble includes actors such as Tanya Reynolds, Karan Gill, Tony Hale, Saoirse-Monica Jackson, and Amar Chadha-Patel.",
+          "Additional key performances are delivered by Douggie McMeekin, Jessica Plummer, Zosia Mamet, Lou Gala, and Leila Farzad, each contributing to the wild and bizarre atmosphere of the retreat."
+        ]
+      },
+      {
+        "h": "Critical Reception and Awards",
+        "p": [
+          "Beyond viewer praise, the series has also drawn recognition from industry bodies, securing a nomination at the Primetime Emmy Awards. Critics and audiences alike have commended its ability to balance comedic elements with genuine emotional beats.",
+          "Fans have frequently described the project as pure gold, noting that the limited episode count makes it an easy choice for a single-sitting viewing session."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "A medieval black comedy period drama developed by Kathleen Jordan is currently streaming on Netflix and gaining attention from viewers. Adapted from fourteenth-century Italian stories by Giovanni Boccaccio, the series features an ensemble cast including Tony Hale and Tanya Reynolds while following a group of nobles escaping the plague at a chaotic villa."
+        ]
+      }
+    ],
+    "facts": [
+      "The Decameron launched on Netflix in July 2024.",
+      "The series was developed by Kathleen Jordan.",
+      "It is based on Giovanni Boccaccio's 14th-century Italian collection of short stories.",
+      "The cast includes Tanya Reynolds, Karan Gill, Tony Hale, Saoirse-Monica Jackson, Amar Chadha-Patel, Douggie McMeekin, Jessica Plummer, Zosia Mamet, Lou Gala, and Leila Farzad."
+    ],
+    "entities": {
+      "people": [
+        "Parul Sharma",
+        "Kathleen Jordan",
+        "Giovanni Boccaccio",
+        "Tanya Reynolds",
+        "Karan Gill",
+        "Tony Hale",
+        "Saoirse-Monica Jackson",
+        "Amar Chadha-Patel",
+        "Douggie McMeekin",
+        "Jessica Plummer",
+        "Zosia Mamet",
+        "Lou Gala",
+        "Leila Farzad"
+      ],
+      "titles": [
+        "The Decameron",
+        "Bridgerton",
+        "Downton Abbey",
+        "Poldark",
+        "EastEnders",
+        "Emmerdale",
+        "Coronation Street",
+        "Love Island",
+        "Strictly Come Dancing"
+      ]
+    },
+    "keywords": [
+      "The Decameron Netflix",
+      "The Decameron medieval black comedy",
+      "Kathleen Jordan Netflix series",
+      "Tony Hale The Decameron"
+    ],
+    "images": [],
+    "published": "Fri, 20 Nov 2026 07:00:00 +0000"
+  },
+  "1g342q9": {
+    "id": "1g342q9",
+    "type": "news",
+    "headline": "Ahaan Panday's Astrological Forecast Reveals Potential for Defining Stardom",
+    "dek": "An in-depth astrological look at breakout actor Ahaan Panday suggests a long and successful career in Hindi cinema, drawing comparisons to legendary stars.",
+    "body": [
+      {
+        "h": "Introduction to a Breakout Talent",
+        "p": [
+          "When a newcomer captures widespread attention through a surprise box-office hit, industry watchers frequently wonder if the success will prove fleeting. However, astrological analysis of Ahaan Panday suggests that his entry into cinema in 2025 marks the beginning of an enduring career rather than a temporary moment in the spotlight.",
+          "His upcoming projects, including a scheduled release in March 2027, indicate that his momentum is set to continue. Observers note that his combination of natural talent and disciplined preparation positions him uniquely among performers of his generation."
+        ]
+      },
+      {
+        "h": "Years of Preparation Before the Breakthrough",
+        "p": [
+          "The actor's emergence in Saiyaara, directed by Mohit Suri and produced by Yash Raj Films, appeared sudden to moviegoers, but it followed a substantial period of behind-the-scenes preparation. Before taking on leading roles, he spent years training with Yash Raj Films and gained practical filmmaking experience.",
+          "His early work included serving as an assistant director on notable productions such as Mardaani 2 and The Railway Men, allowing him to understand the mechanics of filmmaking from multiple perspectives before stepping in front of the camera."
+        ]
+      },
+      {
+        "h": "The Significance of the Saturn Return",
+        "p": [
+          "Astrologically, his professional breakthrough coincides with his first Saturn return, a major life milestone that occurs roughly every twenty-nine years. This planetary phase typically brings profound personal growth, increased responsibilities, and the transition into a new chapter of maturity.",
+          "Saturn's influence emphasizes discipline, perseverance, and the rewards of sustained effort. For this rising star, the transit aligns with the transition from relative anonymity to significant public recognition, providing a framework to consolidate his achievements."
+        ]
+      },
+      {
+        "h": "Earth Signs and Grounded Ambition",
+        "p": [
+          "His birth chart features a powerful concentration of earth sign placements, with five planets situated in Capricorn alongside a Virgo Moon. This configuration instills patience, practicality, and a strong work ethic, ensuring he remains grounded despite mounting fame.",
+          "The strong Capricorn influence, highlighted by an exalted Mars, provides determination and competitiveness. Meanwhile, his Virgo placement encourages continuous self-assessment, often acting as his own toughest critic to drive steady professional improvement."
+        ]
+      },
+      {
+        "h": "Creative Versatility and Early Influences",
+        "p": [
+          "Beyond his primary focus on acting, his Sagittarius Sun contributes an adventurous spirit and broad curiosity across various creative mediums. Early in life, he explored writing, music production, DJing, and video game design, initially nurturing an ambition to become a writer.",
+          "This diverse range of artistic interests reflects a desire to explore different storytelling formats. His Mercury placement in Scorpio further supports an analytical approach to understanding complex character motivations and relationships."
+        ]
+      },
+      {
+        "h": "Magnetic Screen Presence and Romantic Appeal",
+        "p": [
+          "A notable configuration in his horoscope is the conjunction of Venus and an exalted Mars in Capricorn, which blends charm, artistic expression, and passion. This alignment generates significant personal magnetism, particularly beneficial for an actor whose breakthrough occurred in a romantic drama.",
+          "Astrological indicators suggest he possesses the potential to emerge as a defining romantic lead of his generation. Planetary aspects involving Uranus and Neptune also point toward a preference for creative independence and emotional depth in his artistic choices."
+        ]
+      },
+      {
+        "h": "Balancing Public Recognition with Privacy",
+        "p": [
+          "The placement of Rahu in Leo highlights a strong drive for individual expression and public acclaim, which naturally complements a career in the entertainment industry. At the same time, his introspective nature creates a distinct contrast between his desire for artistic visibility and a personal need for privacy.",
+          "Despite describing himself as introverted during his earlier years, his chart indicates an underlying resilience. These combined planetary influences suggest that his most significant professional accomplishments are still ahead of him."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "An astrological assessment of Ahaan Panday indicates that his breakout success in the 2025 film Saiyaara is supported by years of behind-the-scenes training and a powerful birth chart. His chart reveals a rare combination of ambition, discipline, and artistic sensitivity, pointing toward a lasting career and potential generational stardom."
+        ]
+      }
+    ],
+    "facts": [
+      "Ahaan Panday made his debut in Saiyaara in 2025.",
+      "Beparwah is scheduled for release in March 2027.",
+      "Saiyaara was directed by Mohit Suri and produced by Yash Raj Films.",
+      "Ahaan worked as an assistant director on Mardaani 2 and The Railway Men."
+    ],
+    "entities": {
+      "people": [
+        "Ahaan Panday",
+        "Aneet Padda",
+        "Mohit Suri",
+        "Shah Rukh Khan",
+        "Vikkramm Chandirramani",
+        "Alia Bhatt",
+        "Aamir Khan",
+        "Sunny Deol"
+      ],
+      "titles": [
+        "Saiyaara",
+        "Beparwah",
+        "Mardaani 2",
+        "The Railway Men",
+        "Batwara 1947"
+      ]
+    },
+    "keywords": [
+      "Ahaan Panday",
+      "Saiyaara film",
+      "Beparwah movie",
+      "Mohit Suri Saiyaara"
+    ],
+    "images": [
+      {
+        "url": "https://www.koimoi.com/wp-content/new-galleries/2026/11/a-look-into-ahaan-pandays-astrological-insight-forecast-001.jpg",
+        "caption": "Ahaan Panday's Astrological Forecast Reveals Potential for Defining Stardom",
+        "source": "Koimoi"
+      }
+    ],
+    "published": "Fri, 20 Nov 2026 07:36:58 +0000"
+  },
+  "1xcnayy": {
+    "id": "1xcnayy",
+    "type": "news",
+    "headline": "Coronation Street Spoilers: Ross Pushes Tyrone Too Far and Family Tensions Explode",
+    "dek": "Dive into the latest Coronation Street developments as Ross crosses the line with Tyrone, Adam leaves Daniel out in the cold, and Lily faces a perilous situation.",
+    "body": [
+      {
+        "h": "Introduction to the Latest Drama",
+        "p": [
+          "The residents of Weatherfield are once again facing heavy emotional turmoil as fresh conflicts erupt across familiar households. Tensions have been brewing steadily, culminating in explosive confrontations that threaten to alter domestic dynamics for good.",
+          "Viewers tuning into the latest episodes will witness long-standing frictions boiling over into the open, creating immediate ripples through multiple families on the cobbles."
+        ]
+      },
+      {
+        "h": "Ross Pushes Tyrone to the Brink",
+        "p": [
+          "In the Dobbs household, Ross continues his unwelcome habit of meddling in family affairs by mocking Tyrone about being hen-pecked by Fiz. Despite earlier warnings from Chesney about Ross acting as a negative influence, Tyrone initially attempts to tolerate the interference.",
+          "However, the situation takes a sharp turn when Ross loses his temper and yells at Hope and Ruby regarding their manners toward Tyrone. Stepping up to protect the girls, Tyrone finally loses his patience and banishes Ross from the house."
+        ]
+      },
+      {
+        "h": "Daniel Left Isolated After Clash with Adam",
+        "p": [
+          "Meanwhile, hospital recovery offers little peace for Daniel following a nasty altercation with Adam. Returning home, Daniel is furious to discover that Adam has spun a false narrative to Ken and Tracy, claiming the injury resulted from a simple trip and fall.",
+          "Insisting that Adam deliberately shoved him, Daniel tries desperately to set the record straight. With the Barlow clan swiftly choosing sides, Daniel faces a deeply painful sense of betrayal by his own blood."
+        ]
+      },
+      {
+        "h": "Lily Lands in Danger with Fireworks",
+        "p": [
+          "Trouble is also brewing among the younger generation as Lily teams up with Jake, Ruby, and Hope to ignite fireworks inside Doug's campervan. The resulting massive explosion sends shockwaves through the neighborhood, with Ross spotting Lily fleeing the scene in a panic.",
+          "Terrified of facing the repercussions from David and Shona, Lily stays away from home. Unbeknownst to her, Shona's scheming sister Jodie is lurking nearby and fastens her sights on the vulnerable youngster."
+        ]
+      },
+      {
+        "h": "Underworld Workers Face Financial Stress",
+        "p": [
+          "Away from the domestic chaos, Underworld employees gather to discuss strategies for a highly frugal Christmas period now that they find themselves out of work. Brody listens in on the chatter, inadvertently drawing unwanted attention due to his guilt-ridden reaction.",
+          "Sean and his colleagues are left thoroughly scandalized upon hearing rumors that Carla and Lisa are planning an extravagant dining outing. When Sean encounters Carla at The Rovers, he wastes no time letting his grievances be known."
+        ]
+      },
+      {
+        "h": "Broader Weatherfield Fallout",
+        "p": [
+          "The unfolding events on Coronation Street continue to highlight the complex web of loyalty and betrayal that defines life on the cobbles. From domestic disputes to secret agendas, every character seems caught in a web of escalating drama.",
+          "As friendships fracture and family bonds are tested to their absolute limits, the residents must brace themselves for the unpredictable consequences of their recent choices."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Coronation Street delivers high-stakes drama as Ross crosses a line with Tyrone, leading to his ejection from the Dobbs home. Simultaneously, Adam isolates Daniel through deception, Lily courts disaster with a dangerous firework stunt, and factory workers react to Carla and Lisa's upcoming plans."
+        ]
+      }
+    ],
+    "facts": [
+      "Coronation Street episode aired on Friday 20 November",
+      "Episodes are available on ITVX and YouTube before airing on ITV1",
+      "Ross makes jibes about Fiz hen-pecking Tyrone",
+      "Ross shouts at Hope and Ruby",
+      "Tyrone orders Ross out of the house",
+      "Daniel returns from hospital after a row with Adam",
+      "Adam tells Ken and Tracy that Daniel tripped over",
+      "Lily joins forces with Jake, Ruby, and Hope to set off fireworks in Doug's campervan",
+      "Ross witnesses Lily running away from the explosion",
+      "Brody eavesdrops on Underworld workers discussing a frugal Christmas",
+      "Carla and Lisa are thought to be heading out for a fancy meal",
+      "Sean speaks his mind to Carla in The Rovers"
+    ],
+    "entities": {
+      "people": [
+        "Ross",
+        "Tyrone",
+        "Fiz",
+        "Chesney",
+        "Hope",
+        "Ruby",
+        "Daniel",
+        "Adam",
+        "Ken",
+        "Tracy",
+        "Lily",
+        "Jake",
+        "Doug",
+        "David",
+        "Shona",
+        "Jodie",
+        "Brody",
+        "Sean",
+        "Carla",
+        "Lisa"
+      ],
+      "titles": [
+        "Coronation Street",
+        "The Rovers"
+      ]
+    },
+    "keywords": [
+      "Coronation Street Ross Tyrone",
+      "Daniel and Adam Coronation Street",
+      "Lily fireworks Coronation Street",
+      "Coronation Street spoilers November"
+    ],
+    "images": [
+      {
+        "url": "https://hips.hearstapps.com/hmg-prod/images/c0274881-6ad1-41a0-8ae1-906cde4b459e.jpg?crop=1.00xw:0.718xh;0,0.0886xh&amp;resize=1200:*",
+        "caption": "Coronation Street Spoilers: Ross Pushes Tyrone Too Far and Family Tensions Explode",
+        "source": "Digital Spy"
+      }
+    ],
+    "published": "Fri, 20 Nov 2026 07:00:00 +0000"
+  },
+  "rbtiv8": {
+    "id": "rbtiv8",
+    "type": "news",
+    "headline": "Vidya Malavade opens up about intimate scenes in Dr. Arora",
+    "dek": "Actress Vidya Malavade discusses her hesitations and experiences filming emotional intimate sequences with co-star Kumud Mishra in the web series Dr. Arora, under the guidance of Imtiaz Ali.",
+    "body": [
+      {
+        "h": "Addressing the intimate sequences",
+        "p": [
+          "Actress Vidya Malavade has recently captured the spotlight for her role in the web series Dr. Arora. The show features a notable sequence involving intimate moments between her and co-star Kumud Mishra.",
+          "This specific sequence quickly drew significant attention from audiences and media alike, prompting the actress to open up about the experience of bringing the scene to life on screen."
+        ]
+      },
+      {
+        "h": "Navigating emotional and physical boundaries",
+        "p": [
+          "In a conversation with Bollywood Bubble, the actress explained that the sequence was not purely physical in nature, but carried a deep emotional weight as well.",
+          "She admitted to feeling apprehensive primarily about how the physical elements would merge with the necessary emotional nuances of the narrative."
+        ]
+      },
+      {
+        "h": "Overcoming initial discomfort on set",
+        "p": [
+          "The performer shared that tackling the moments proved quite challenging for her, noting an initial desire to simply shoot and finish the sequence as quickly as possible due to the inherent awkwardness.",
+          "Working through the discomfort required immense trust in the creative environment cultivated by the production team and her fellow cast members."
+        ]
+      },
+      {
+        "h": "Praise for co-star Kumud Mishra",
+        "p": [
+          "The actress emphasized that the identity of the person sharing the screen plays a crucial role in navigating such delicate sequences comfortably.",
+          "She credited Kumud Mishra as the ideal partner for the role, praising the exceptional level of comfort he provided throughout the filming process."
+        ]
+      },
+      {
+        "h": "Guidance from Imtiaz Ali",
+        "p": [
+          "Beyond her co-star, she highlighted the importance of having supportive filmmakers, noting that Imtiaz Ali served as their intimacy coach for the project.",
+          "The presence of experienced creative direction helped ease her worries and provided a secure space to approach the complex requirements of the script."
+        ]
+      },
+      {
+        "h": "Behind-the-scenes preparation at home",
+        "p": [
+          "Recalling the planning stages, she mentioned a meeting at Imtiaz Ali's residence where the team mapped out the blocking and logistics of the sequence.",
+          "Sitting together on the bed with her co-star while the director sat opposite them, she initially felt a strong sense of hesitation and nervousness."
+        ]
+      },
+      {
+        "h": "Breaking the ice in ten seconds",
+        "p": [
+          "The breakthrough came through a simple gesture when the director held her foot, a moment that completely shifted her mindset within a matter of seconds.",
+          "That brief interaction dissolved her anxieties instantly, leaving her fully prepared and willing to commit to the requirements of the scene."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Vidya Malavade discussed her experience filming an intimate and emotional scene with Kumud Mishra for the web series Dr. Arora. She credited her co-star and intimacy coach Imtiaz Ali for helping her overcome her initial hesitation during preparation."
+        ]
+      }
+    ],
+    "facts": [
+      "Vidya Malavade is 53 years old.",
+      "The web series discussed is Dr. Arora.",
+      "Kumud Mishra stars alongside Vidya Malavade in the series.",
+      "Imtiaz Ali acted as the intimacy coach for the sequence.",
+      "The interview was given to Bollywood Bubble.",
+      "The article was published on November 19, 2026."
+    ],
+    "entities": {
+      "people": [
+        "Vidya Malavade",
+        "Kumud Mishra",
+        "Imtiaz Ali"
+      ],
+      "titles": [
+        "Dr. Arora"
+      ]
+    },
+    "keywords": [
+      "Dr. Arora",
+      "Vidya Malavade",
+      "Kumud Mishra",
+      "Imtiaz Ali"
+    ],
+    "images": [
+      {
+        "url": "https://akm-img-a-in.tosshub.com/aajtak/images/photo_gallery/202611/6aff2462649ce-vidya-malavade-193129317-16x9.jpg",
+        "caption": "Vidya Malavade opens up about intimate scenes in Dr. Arora",
+        "source": "Aaj Tak — Entertainment"
+      }
+    ],
+    "published": "2026-11-20T07:53:58Z"
   }
 };
