@@ -1,39 +1,39 @@
 {
   "connected": true,
-  "generated": "2026-11-20T06:00:28Z",
+  "generated": "2026-11-20T06:54:23Z",
   "realtime": {
-    "active_users": 116
+    "active_users": 109
   },
   "today": {
-    "users": 373,
-    "pageviews": 357,
-    "sessions": 374,
-    "avg_session_seconds": 4.0
+    "users": 670,
+    "pageviews": 626,
+    "sessions": 673,
+    "avg_session_seconds": 3.8
   },
   "last7": {
-    "users": 1490,
-    "pageviews": 1704,
-    "sessions": 1526,
-    "avg_session_seconds": 13.7
+    "users": 1787,
+    "pageviews": 1973,
+    "sessions": 1825,
+    "avg_session_seconds": 12.0
   },
   "top_pages": [
     {
       "path": "/person",
       "title": "Actor & Filmmaker Profile | FlickAtlas",
-      "views": 408,
-      "avg_time_seconds": 4.2
+      "views": 576,
+      "avg_time_seconds": 4.0
     },
     {
       "path": "/person",
       "title": "Actor & Filmmaker Profiles | FlickAtlas",
-      "views": 282,
-      "avg_time_seconds": 3.4
+      "views": 374,
+      "avg_time_seconds": 3.2
     },
     {
       "path": "/",
       "title": "Bollywood, World Cinema & Box Office | FlickAtlas",
-      "views": 89,
-      "avg_time_seconds": 246.2
+      "views": 90,
+      "avg_time_seconds": 240.6
     },
     {
       "path": "/box-office",
@@ -82,14 +82,14 @@
     {
       "source": "(direct)",
       "medium": "(none)",
-      "sessions": 1477,
-      "users": 1449
+      "sessions": 1747,
+      "users": 1717
     },
     {
       "source": "(not set)",
       "medium": "(not set)",
-      "sessions": 59,
-      "users": 59
+      "sessions": 102,
+      "users": 102
     },
     {
       "source": "google",
@@ -107,49 +107,49 @@
   "countries": [
     {
       "country": "United States",
-      "users": 338
+      "users": 364
     },
     {
       "country": "Brazil",
-      "users": 238
+      "users": 318
     },
     {
       "country": "Singapore",
-      "users": 194
-    },
-    {
-      "country": "Hong Kong",
-      "users": 90
+      "users": 209
     },
     {
       "country": "Argentina",
-      "users": 78
+      "users": 109
+    },
+    {
+      "country": "Hong Kong",
+      "users": 102
     },
     {
       "country": "Colombia",
-      "users": 73
+      "users": 94
     },
     {
       "country": "Vietnam",
-      "users": 72
-    },
-    {
-      "country": "Indonesia",
-      "users": 71
+      "users": 87
     },
     {
       "country": "China",
-      "users": 57
+      "users": 81
+    },
+    {
+      "country": "Indonesia",
+      "users": 77
     },
     {
       "country": "Mexico",
-      "users": 53
+      "users": 64
     }
   ],
   "devices": [
     {
       "device": "desktop",
-      "users": 1475
+      "users": 1772
     },
     {
       "device": "mobile",

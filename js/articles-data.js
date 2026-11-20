@@ -197975,5 +197975,386 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Fri, 20 Nov 2026 04:30:54 +0000"
+  },
+  "7cthzk": {
+    "id": "7cthzk",
+    "type": "news",
+    "headline": "Salman Khan and Raj & DK Superhero Project Pushed to April 2027",
+    "dek": "The production timeline for Salman Khan's upcoming superhero venture with directors Raj Nidimoru and Krishna DK has shifted to April 2027 as the actor wraps up prior commitments.",
+    "body": [
+      {
+        "h": "Schedule Shift for the Superhero Feature",
+        "p": [
+          "Bollywood icon Salman Khan's highly anticipated superhero collaboration with filmmaker duo Raj Nidimoru and Krishna DK has experienced another adjustment in its production timeline. Initially slated to commence shooting in January 2027, the project is now anticipated to go before the cameras in April 2027.",
+          "This shift occurs as the prominent actor clears his existing professional calendar, allowing him to focus on finishing prior filming duties before diving into the unique superhero venture."
+        ]
+      },
+      {
+        "h": "Prioritizing Monster and Maatrubhumi",
+        "p": [
+          "The rescheduling happens because Salman must first finish his remaining obligations for other high-profile movies. These include Vamshi Paidipally's action thriller Monster, featuring Nayanthara, alongside the upcoming war drama Maatrubhumi: May War Rest in Peace.",
+          "Reports indicate that the superstar will dedicate late November and early December to promoting Maatrubhumi. Following that, he will return to the sets of Monster to complete a major action sequence and roughly ten additional days of shooting in January 2027."
+        ]
+      },
+      {
+        "h": "Upcoming Releases and Promotional Windows",
+        "p": [
+          "As part of his busy schedule, Salman is expected to participate in the promotional campaigns for Monster ahead of its planned theatrical release during Eid 2027. Meanwhile, his war drama Maatrubhumi, directed by Apoorva Lakhia, has secured a U/A 16+ rating from the CBFC and is set to arrive in cinemas on December 4, 2026.",
+          "Because of these intertwined promotional duties and remaining filming requirements, the actor can only transition to his partnership with Raj and DK after successfully delivering these pending projects."
+        ]
+      },
+      {
+        "h": "A Fresh Take on the Superhero Genre",
+        "p": [
+          "The untitled upcoming project has generated considerable buzz due to its unconventional narrative style. Early details hint that Salman might portray a veteran superhero attempting to step away from crime-fighting, only to find himself repeatedly drawn back into active duty.",
+          "The film is expected to blend expansive action set-pieces with the signature humor and distinct storytelling sensibilities associated with Raj and DK."
+        ]
+      },
+      {
+        "h": "Makers Keep Details Under Wraps",
+        "p": [
+          "Despite mounting excitement among fans, the production team has yet to formally disclose the official title, full cast, or complete storyline. Furthermore, an official theatrical release date for the superhero feature remains unannounced.",
+          "The project has undergone several prior timeline adjustments. It was originally projected to enter production in late 2026 before first being moved to January 2027, and now settling on the updated April 2027 target."
+        ]
+      },
+      {
+        "h": "Raj and DK Return to Theatres",
+        "p": [
+          "For Raj Nidimoru and Krishna DK, this venture marks a notable return to theatrical filmmaking. The director duo's last big-screen release was A Gentleman in 2017.",
+          "In the intervening years, the creators achieved widespread acclaim and popularity through successful streaming television series such as The Family Man, Farzi, and Guns and Gulaabs."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "The filming schedule for Salman Khan's upcoming superhero collaboration with Raj and DK has been moved to April 2027 due to prior commitments on Monster and Maatrubhumi. While creators have not yet revealed the official title or release date, the project will see the actor explore an unconventional superhero role following his upcoming theatrical releases."
+        ]
+      }
+    ],
+    "facts": [
+      "Salman Khan's superhero film with Raj DK is pushed to April 2027.",
+      "The project was earlier expected to begin filming in January 2027.",
+      "Monster is directed by Vamshi Paidipally and co-stars Nayanthara.",
+      "Maatrubhumi: May War Rest in Peace is directed by Apoorva Lakhia.",
+      "Maatrubhumi received a U/A 16+ certificate from the CBFC.",
+      "Maatrubhumi is scheduled to release on December 4, 2026.",
+      "Monster is set to release during Eid 2027.",
+      "Raj and DK's last theatrical film was A Gentleman in 2017."
+    ],
+    "entities": {
+      "people": [
+        "Salman Khan",
+        "Raj Nidimoru",
+        "Krishna DK",
+        "Vamshi Paidipally",
+        "Nayanthara",
+        "Apoorva Lakhia"
+      ],
+      "titles": [
+        "Monster",
+        "Maatrubhumi: May War Rest in Peace",
+        "A Gentleman",
+        "The Family Man",
+        "Farzi",
+        "Guns and Gulaabs"
+      ]
+    },
+    "keywords": [
+      "Salman Khan superhero film",
+      "Raj DK Salman Khan movie",
+      "Salman Khan Monster Vamshi Paidipally",
+      "Maatrubhumi May War Rest in Peace"
+    ],
+    "images": [
+      {
+        "url": "https://cdn.sacnilk.com/image/news300/1000028647.jpg",
+        "caption": "Salman Khan and Raj & DK Superhero Project Pushed to April 2027",
+        "source": "Sacnilk"
+      }
+    ],
+    "published": "Fri, 20 Nov 2026 06:21:27 +0000"
+  },
+  "19vsnhj": {
+    "id": "19vsnhj",
+    "type": "news",
+    "headline": "Amitabh Bachchan expresses admiration for Dhanush on Kaun Banega Crorepati",
+    "dek": "Veteran actor Amitabh Bachchan recently declared himself a big fan of Dhanush, recalling their time working together on the 2015 film Shamitabh during an episode of Kaun Banega Crorepati.",
+    "body": [
+      {
+        "h": "A Mutual Admiration on Television",
+        "p": [
+          "Legendary actor Amitabh Bachchan recently shared his deep admiration for fellow actor Dhanush while hosting an upcoming episode of the television reality quiz show Kaun Banega Crorepati. During a lighthearted exchange, a contestant revealed himself to be a massive fan of Dhanush, which prompted the host to disclose that he shares the exact same sentiment.",
+          "The conversation took an amusing turn when the participant expressed jealousy over the megastar having had the chance to collaborate directly with the versatile actor. Playing along with the playful banter, Amitabh quipped that while he might speak to Dhanush, he certainly would not be handing out his personal phone number to the contestant."
+        ]
+      },
+      {
+        "h": "Praising Exceptional Talent and Versatility",
+        "p": [
+          "Elaborating on his appreciation, the veteran actor described Dhanush as an extraordinary artist capable of completely immersing himself in any character he portrays. He noted that beyond his notable acting prowess, the younger star is also exceptionally skilled at dancing.",
+          "Amitabh mentioned that he had heard plenty of positive remarks about Dhanush before they ever met, but witnessing his craft up close during production elevated his respect for the performer's abilities even further."
+        ]
+      },
+      {
+        "h": "Reflecting on Shamitabh",
+        "p": [
+          "The mutual professional respect between the two stars dates back to their collaboration in the 2015 drama Shamitabh. Directed by R Balki, the project also featured Akshara Haasan alongside the two leading men.",
+          "The narrative of Shamitabh centered on an aspiring actor who was unable to speak and another man gifted with a powerful voice. Their unique partnership allowed them to make their mark in the film industry, though complications eventually arose in their alliance."
+        ]
+      },
+      {
+        "h": "Dhanush and Amitabh Bachchan's Recent Careers",
+        "p": [
+          "Dhanush has maintained a rigorous schedule spanning multiple languages and genres over recent years. His 2025 lineup included Kuberaa directed by Sekhar Kammula, Aanand L Rai's romantic drama Tere Ishk Mein opposite Kriti Sanon, and Idli Kadai, which he directed himself. Furthermore, he appeared in Vignesh Raja's Tamil thriller Kara in 2026.",
+          "Meanwhile, Amitabh Bachchan was last seen on the big screen in 2024 through major cinematic projects such as Kalki 2898 AD alongside Prabhas and Vettaiyan alongside Rajinikanth, while continuing his long-standing television hosting duties."
+        ]
+      },
+      {
+        "h": "Upcoming Projects for Dhanush",
+        "p": [
+          "Continuing his prolific run, Dhanush's upcoming slate includes the action thriller OM: Chapter 1 – Udhiram – The Blood Wood. Directed by Rajkumar Periasamy, the film features an ensemble cast including Mammootty, Sai Pallavi, Sreeleela, and Naseeruddin Shah.",
+          "The aforementioned action thriller is scheduled to make its theatrical debut on November 20, 2026, adding another high-profile release to the actor's filmography."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "During an episode of Kaun Banega Crorepati, Amitabh Bachchan revealed that he is a great admirer of Dhanush, recalling their previous collaboration on the 2015 film Shamitabh. Bachchan praised the actor's extraordinary acting and dancing skills, while the interaction also highlighted both actors' recent and upcoming cinematic projects."
+        ]
+      }
+    ],
+    "facts": [
+      "Amitabh Bachchan praised Dhanush on an upcoming episode of Kaun Banega Crorepati.",
+      "Amitabh Bachchan and Dhanush previously worked together in the 2015 film Shamitabh.",
+      "Shamitabh was directed by R Balki and also starred Akshara Haasan.",
+      "Dhanush starred in Kuberaa, Tere Ishk Mein, and Idli Kadai in 2025.",
+      "Dhanush starred in Kara in 2026.",
+      "OM: Chapter 1 – Udhiram – The Blood Wood is scheduled to release on November 20, 2026.",
+      "Amitabh Bachchan appeared in Kalki 2898 AD and Vettaiyan in 2024."
+    ],
+    "entities": {
+      "people": [
+        "Amitabh Bachchan",
+        "Dhanush",
+        "R Balki",
+        "Akshara Haasan",
+        "Sekhar Kammula",
+        "Aanand L Rai",
+        "Kriti Sanon",
+        "Vignesh Raja",
+        "Rajkumar Periasamy",
+        "Mammootty",
+        "Sai Pallavi",
+        "Sreeleela",
+        "Naseeruddin Shah",
+        "Prabhas",
+        "Rajinikanth"
+      ],
+      "titles": [
+        "Kaun Banega Crorepati",
+        "Shamitabh",
+        "Kuberaa",
+        "Tere Ishk Mein",
+        "Idli Kadai",
+        "Kara",
+        "OM: Chapter 1 – Udhiram – The Blood Wood",
+        "Kalki 2898 AD",
+        "Vettaiyan"
+      ]
+    },
+    "keywords": [
+      "Amitabh Bachchan",
+      "Dhanush",
+      "Kaun Banega Crorepati",
+      "Shamitabh",
+      "OM Chapter 1 Udhiram The Blood Wood"
+    ],
+    "images": [
+      {
+        "url": "https://www.hindustantimes.com/ht-img/img/2026/11/19/1600x900/logo/amitabh_1795092845664_Bbi0_1795092845878_cVpQ_6cb792fb-19c3-4b72-b1fd-4a66abccd8ee_cgEm.png",
+        "caption": "Amitabh Bachchan expresses admiration for Dhanush on Kaun Banega Crorepati",
+        "source": "Hindustan Times — Entertainment"
+      }
+    ],
+    "published": "Fri, 20 Nov 2026 11:30:36 +0530"
+  },
+  "1me0rav": {
+    "id": "1me0rav",
+    "type": "news",
+    "headline": "Apple TV's Silo Delivers Peak Sci-Fi Storytelling Across Its First Three Seasons",
+    "dek": "An exploration of how Apple TV's hit dystopian series balances bold creative departures from Hugh Howey's original novels with rich philosophical underpinnings and meticulous world-building.",
+    "body": [
+      {
+        "h": "The Delicate Balance of Adapting Hugh Howey's Novels",
+        "p": [
+          "Book adaptations of acclaimed science fiction literature often walk a precarious tightrope. While some television translations adhere too rigidly to their source material, others wander off course and end up telling entirely different tales. Apple TV's hit series Silo achieves a rare equilibrium by capturing the vital essence of its original source material while thoughtfully rewriting elements for the visual medium.",
+          "Based on the book trilogy by author Hugh Howey, the series kicked off its first season by covering a substantial portion of the initial novel, Wool, transforming the narrative into an expansive post-apocalyptic conspiracy thriller. Subsequent seasons introduced even larger deviations from the text, culminating in massive creative liberties by season three. Though book purists occasionally express reservations regarding these alterations, the television project has proven itself a masterclass in adaptation."
+        ]
+      },
+      {
+        "h": "Rooted in Classical Philosophy and Western Thought",
+        "p": [
+          "The philosophical framework of the narrative draws heavily from classical concepts, most notably Plato's Allegory of the Cave. Within the show, an underground city of citizens mistakes manufactured illusions for reality until Rebecca Ferguson's character, Juliette, ventures outward to uncover the factual state of the world.",
+          "Parallels with Thomas Hobbes’s Leviathan manifest through the exploration of authoritarian control. By weaponizing memory-altering drugs, strict regulations known as the Pact, and historical revisionism, the governing forces make obedience synonymous with survival across generations."
+        ]
+      },
+      {
+        "h": "Panopticon Surveillance and Cartesian Crises",
+        "p": [
+          "The mechanisms of power in the underground society reflect the ideas of Bentham and Foucault regarding the Panopticon. Instead of relying on massive armies to keep citizens contained, the authorities maintain secretive control through events like 'The Cleaning,' ensuring that the population is constantly monitored without realizing they are being watched.",
+          "Main characters throughout the television run also face the Cartesian crisis, echoing René Descartes' famous principle, 'I think, therefore I am.' Figures ranging from Tim Robbins' Bernard to Steve Zahn's Solo are forced to reevaluate everything they were taught to believe about their harsh subterranean reality."
+        ]
+      },
+      {
+        "h": "Meticulous World-Building and Realism",
+        "p": [
+          "Across its broadcast history, the streaming drama has ensured that its dystopian environment feels authentic and grounded. Early episodes prompted questions regarding the absence of elevators and modern technology, mysteries that eventually found logical explanations tied directly to the ruling hierarchy's methods of maintaining control.",
+          "The intricate design of the environment is bolstered by narrative depth. By the third season, the central apocalypse is linked directly to past conspiracies while incorporating advanced elements such as killer drones and nanobots."
+        ]
+      },
+      {
+        "h": "Pacing Trade-Offs and the Upcoming Conclusion",
+        "p": [
+          "Despite occasional criticisms concerning its pacing, the production compensates through its immersive environment and dedication to detail. The unfolding mystery consistently rewards attentive viewers with logical answers to long-standing structural questions within the subterranean society.",
+          "The project is officially slated to conclude its run with an upcoming fourth season. If the creative team successfully lands the final home stretch, the project will cement its legacy as one of the standout sci-fi offerings on Apple TV and a definitive dystopian drama of the 21st century."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Apple TV's sci-fi drama Silo adapts Hugh Howey's book trilogy while taking major creative liberties that elevate the post-apocalyptic narrative. By incorporating philosophical concepts, meticulous world-building, and strong performances from a cast that includes Rebecca Ferguson and Tim Robbins, the series has established itself as a premier dystopian television show heading into its fourth and final season."
+        ]
+      }
+    ],
+    "facts": [
+      "Silo is based on Hugh Howey's book trilogy.",
+      "Season 1 of Silo covers a significant chunk of the first book, Wool.",
+      "The show streams on Apple TV.",
+      "Rebecca Ferguson stars as Juliette Nichols in the series.",
+      "Tim Robbins plays Bernard in the series.",
+      "Steve Zahn plays Solo in the series.",
+      "The series is set to end its run with season 4.",
+      "The show premiered on May 5, 2023."
+    ],
+    "entities": {
+      "people": [
+        "Hugh Howey",
+        "Rebecca Ferguson",
+        "Tim Robbins",
+        "Steve Zahn"
+      ],
+      "titles": [
+        "Silo",
+        "Wool"
+      ]
+    },
+    "keywords": [
+      "Silo Apple TV",
+      "Hugh Howey Silo books",
+      "Rebecca Ferguson Silo",
+      "Silo season 4"
+    ],
+    "images": [
+      {
+        "url": "https://static0.srcdn.com/wordpress/wp-content/uploads/2026/11/8ee63128-4614-442b-9fab-b5e839ddbc3a.jpeg?w=1600&amp;h=900&amp;fit=crop",
+        "caption": "Apple TV's Silo Delivers Peak Sci-Fi Storytelling Across Its First Three Seasons",
+        "source": "Screen Rant"
+      }
+    ],
+    "published": "Fri, 20 Nov 2026 06:45:18 GMT"
+  },
+  "15403ov": {
+    "id": "15403ov",
+    "type": "news",
+    "headline": "Ebenezer Review: Johnny Depp Stars In Ti West's Gothic Take On A Christmas Carol",
+    "dek": "Ti West directs Johnny Depp as Ebenezer Scrooge in a dark, horror-infused adaptation of Charles Dickens' classic 1843 novella.",
+    "body": [
+      {
+        "h": "Introduction To A Darker Adaptation",
+        "p": [
+          "Charles Dickens’ 1843 novella A Christmas Carol has been adapted countless times across generations, each finding unique ways to explore Ebenezer Scrooge's transformation from a miser to a kindhearted man. In the film Ebenezer, director Ti West tackles the familiar narrative by infusing it with a much darker, gothic treatment. While the premise remains rooted in classic holiday storytelling, West relies on a distinct visual atmosphere to set his version apart from more traditional holiday adaptations.",
+          "The story follows wealthy businessman Ebenezer Scrooge, whose obsessive focus on wealth leaves him entirely isolated and deeply unpleasant. His worldview is challenged when the ghost of his former business partner, Jacob Marley, appears after death to warn him of a grim fate. Following this chilling visitation, three spirits guide Scrooge through his past, present, and future, forcing him to confront the choices that defined his life and offering him a final chance at redemption."
+        ]
+      },
+      {
+        "h": "Gothic Atmosphere And Horror Elements",
+        "p": [
+          "Rather than altering Dickens' central message, West dramatically shifts the texture of the cinematic experience. His Victorian London is shadowy, grimy, and constantly steeped in foreboding. Rather than offering a soft festive viewing experience, the film leans into horror sensibilities through grotesque apparitions and unsettling supernatural encounters.",
+          "The production design, cinematography, and creature effects give the feature a tactile, old-fashioned gothic quality. The supernatural elements are genuinely frightening, featuring memorable ghosts like the imposing Ghost of Christmas Present played by Tramell Tillman and the eerie Ghost of Christmas Past portrayed by Andrea Riseborough."
+        ]
+      },
+      {
+        "h": "Johnny Depp As Ebenezer Scrooge",
+        "p": [
+          "Actor Johnny Depp steps into the iconic role of Ebenezer Scrooge with visible commitment, employing exaggerated expressions, theatrical mannerisms, and a deliberately unpleasant demeanor. However, his performance occasionally leans heavily into eccentricity rather than uncovering the profound loneliness underneath.",
+          "While Depp delivers a recognizable miser, the emotional transition of the character does not always land with the force required to make his ultimate redemption feel fully earned. Understanding how Scrooge arrived at his miserable state is vital, and the performance leaves viewers wishing for a deeper exploration of his inner emotional vulnerability."
+        ]
+      },
+      {
+        "h": "Supporting Performances And Cast",
+        "p": [
+          "Ian McKellen anchors the production as Jacob Marley, bringing a compelling mix of authority and mischief to his brief yet vital appearances. Rupert Grint portrays Bob Cratchit, supplying a grounded emotional counterpoint to the proceedings, while Sam Claflin and Daisy Ridley inject genuine warmth into the story as Fred and Clara.",
+          "Despite a capable supporting cast, several secondary characters remain noticeably underexplored. The narrative is heavily preoccupied with Scrooge's supernatural reckoning, occasionally reducing the people affected by his actions to mere backdrop figures in his personal redemption exercise."
+        ]
+      },
+      {
+        "h": "Themes Of Wealth And Social Indifference",
+        "p": [
+          "Dickens' original text has endured for nearly two centuries because it serves as a sharp observation regarding wealth, social indifference, and how easily people become insulated from surrounding suffering. Scrooge’s transformation carries weight because he ultimately recognizes that his personal comfort exists directly alongside the hardships of others.",
+          "While the film retains this important moral foundation, its overarching fascination with gothic aesthetics and supernatural horror sometimes takes precedence. Consequently, the social commentary that gives the original literary work its distinct bite occasionally takes a backseat to visual thrills."
+        ]
+      },
+      {
+        "h": "Pacing And Runtime Considerations",
+        "p": [
+          "With a runtime of 116 minutes, Ebenezer requires some time to establish its footing and find its proper narrative rhythm. The atmospheric tension is carefully maintained throughout, though the pacing can occasionally feel ponderous during moments designed to build suspense.",
+          "After dedicating extensive screen time to establishing Scrooge's deep bitterness and profound isolation, the film could have benefited from allowing more narrative room for the emotional consequences of his supernatural revelations. Ultimately, the story of redemption sits at the core of the narrative and deserves maximum emotional impact."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Ti West's gothic film adaptation Ebenezer stars Johnny Depp as Ebenezer Scrooge in a dark, horror-infused retelling of Charles Dickens' classic novella. Although the movie impresses with its unsettling atmosphere and imaginative supernatural elements, it ultimately falls slightly short on emotional depth."
+        ]
+      }
+    ],
+    "facts": [
+      "Ebenezer is a film directed by Ti West.",
+      "Johnny Depp stars as Ebenezer Scrooge.",
+      "The film's release date is November 20, 2026.",
+      "The film has a runtime of 116 minutes.",
+      "The cast includes Ian McKellen as Jacob Marley, Rupert Grint as Bob Cratchit, Sam Claflin as Fred, Daisy Ridley as Clara, Tramell Tillman as the Ghost of Christmas Present, and Andrea Riseborough as the Ghost of Christmas Past."
+    ],
+    "entities": {
+      "people": [
+        "Johnny Depp",
+        "Ti West",
+        "Charles Dickens",
+        "Ian McKellen",
+        "Rupert Grint",
+        "Sam Claflin",
+        "Daisy Ridley",
+        "Tramell Tillman",
+        "Andrea Riseborough",
+        "Bhavna Agarwal"
+      ],
+      "titles": [
+        "Ebenezer",
+        "A Christmas Carol"
+      ]
+    },
+    "keywords": [
+      "Ebenezer film",
+      "Johnny Depp Ebenezer Scrooge",
+      "Ti West A Christmas Carol adaptation",
+      "Ebenezer review"
+    ],
+    "images": [
+      {
+        "url": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202611/johnny-depp-in-ebenezer-from-paramount-pictures-204451850-16x9_0.jpg?VersionId=t0W_6fpxC1BX_Inhst.z5Ldu96Id6QaJ",
+        "caption": "Ebenezer Review: Johnny Depp Stars In Ti West's Gothic Take On A Christmas Carol",
+        "source": "India Today — Movies"
+      }
+    ],
+    "published": "Fri, 20 Nov 2026 11:27:44 +0530"
   }
 };
