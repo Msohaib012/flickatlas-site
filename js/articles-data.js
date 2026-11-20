@@ -192029,13 +192029,20 @@ window.FA_ARTICLES = {
           "Uswah Episode 57 aired on 2026-11-19 on Geo TV. The full episode is available on the channel's official YouTube page.",
           "Watch the full episode here: https://www.youtube.com/watch?v=k2h_OrMiNIs"
         ]
+      },
+      {
+        "h": "Episode Summary",
+        "p": [
+          "Is episode mein Uswah apni bimar maaye aur behen Sara ke paas rehti hai. Eesa ko jab pata chalta hai ke Uswah wahan hai,"
+        ]
       }
     ],
     "facts": [
       "Uswah Episode 57 aired on 2026-11-19.",
       "Channel: Geo TV.",
       "Watch the full episode: https://www.youtube.com/watch?v=k2h_OrMiNIs",
-      "YouTube views: 569,597."
+      "YouTube views: 569,597.",
+      "Episode summary added 2026-11-20."
     ],
     "entities": {
       "titles": [
@@ -202373,5 +202380,613 @@ window.FA_ARTICLES = {
     ],
     "images": [],
     "published": "2026-11-20T16:35:37+00:00"
+  },
+  "f4xobf": {
+    "id": "f4xobf",
+    "type": "news",
+    "headline": "Bano Episode 37 — Watch Online on Geo TV",
+    "dek": "Bano episode 37 aired on 2026-11-20 — watch the full episode on Geo TV.",
+    "body": [
+      {
+        "h": "Episode Details",
+        "p": [
+          "Bano Episode 37 aired on 2026-11-20 on Geo TV. The full episode is available on the channel's official YouTube page.",
+          "Watch the full episode here: https://www.youtube.com/watch?v=W94iRxwJZ_U"
+        ]
+      }
+    ],
+    "facts": [
+      "Bano Episode 37 aired on 2026-11-20.",
+      "Channel: Geo TV.",
+      "Watch the full episode: https://www.youtube.com/watch?v=W94iRxwJZ_U",
+      "YouTube views: 125,081."
+    ],
+    "entities": {
+      "titles": [
+        "Bano"
+      ],
+      "people": []
+    },
+    "images": [
+      {
+        "url": "https://i.ytimg.com/vi/W94iRxwJZ_U/hqdefault.jpg",
+        "caption": "Bano Episode 37",
+        "source": "Geo TV"
+      }
+    ],
+    "published": "2026-11-20T17:00:21Z"
+  },
+  "1r0rs12": {
+    "id": "1r0rs12",
+    "type": "news",
+    "headline": "Lagan Lagi Episode 22 — Watch Online on ARY Digital",
+    "dek": "Lagan Lagi episode 22 aired on 2026-11-20 — watch the full episode on ARY Digital.",
+    "body": [
+      {
+        "h": "Episode Details",
+        "p": [
+          "Lagan Lagi Episode 22 aired on 2026-11-20 on ARY Digital. The full episode is available on the channel's official YouTube page.",
+          "Watch the full episode here: https://www.youtube.com/watch?v=whHUjgEd4xg"
+        ]
+      }
+    ],
+    "facts": [
+      "Lagan Lagi Episode 22 aired on 2026-11-20.",
+      "Channel: ARY Digital.",
+      "Watch the full episode: https://www.youtube.com/watch?v=whHUjgEd4xg",
+      "YouTube views: 5,289."
+    ],
+    "entities": {
+      "titles": [
+        "Lagan Lagi"
+      ],
+      "people": []
+    },
+    "images": [
+      {
+        "url": "https://i.ytimg.com/vi/whHUjgEd4xg/hqdefault.jpg",
+        "caption": "Lagan Lagi Episode 22",
+        "source": "ARY Digital"
+      }
+    ],
+    "published": "2026-11-20T17:00:07Z"
+  },
+  "10tsg9c": {
+    "id": "10tsg9c",
+    "type": "news",
+    "headline": "Dar-E-Nijaat Episode 32 — Watch Online on ARY Digital",
+    "dek": "Dar-E-Nijaat episode 32 aired on 2026-11-20 — watch the full episode on ARY Digital.",
+    "body": [
+      {
+        "h": "Episode Details",
+        "p": [
+          "Dar-E-Nijaat Episode 32 aired on 2026-11-20 on ARY Digital. The full episode is available on the channel's official YouTube page.",
+          "Watch the full episode here: https://www.youtube.com/watch?v=0bQept68Ayk"
+        ]
+      },
+      {
+        "h": "About Dar-E-Nijaat",
+        "p": [
+          "Some stories begin with love. Some are tested by loss. And some are remembered for the courage it takes to forgive."
+        ]
+      },
+      {
+        "h": "Episode Summary",
+        "p": [
+          "Is episode mein Bela (Khushbakht) ki guzashta zindagi ki flashback kahani dikhai gayi hai. Bela ke paida hone par uske baap Qudratullah ne beh"
+        ]
+      }
+    ],
+    "facts": [
+      "Dar-E-Nijaat Episode 32 aired on 2026-11-20.",
+      "Channel: ARY Digital.",
+      "Watch the full episode: https://www.youtube.com/watch?v=0bQept68Ayk",
+      "YouTube views: 746,604.",
+      "TMDB: Dar-E-Nijaat (id 328722).",
+      "Episode summary added 2026-11-20."
+    ],
+    "entities": {
+      "titles": [
+        "Dar-E-Nijaat"
+      ],
+      "people": [
+        "Sheheryar Munawar Siddiqui",
+        "Dur-e-Fishan Saleem",
+        "Nameer Nawaz Khan",
+        "Faran Tahir",
+        "Romaisa Khan"
+      ]
+    },
+    "images": [
+      {
+        "url": "https://i.ytimg.com/vi/0bQept68Ayk/hqdefault.jpg",
+        "caption": "Dar-E-Nijaat Episode 32",
+        "source": "ARY Digital"
+      }
+    ],
+    "published": "2026-11-20T16:00:35Z"
+  },
+  "wqgv81": {
+    "id": "wqgv81",
+    "type": "news",
+    "headline": "Nashtar Episode 33 — Watch Online on Geo TV",
+    "dek": "Nashtar episode 33 aired on 2026-11-20 — watch the full episode on Geo TV.",
+    "body": [
+      {
+        "h": "Episode Details",
+        "p": [
+          "Nashtar Episode 33 aired on 2026-11-20 on Geo TV. The full episode is available on the channel's official YouTube page.",
+          "Watch the full episode here: https://www.youtube.com/watch?v=A3-fOmE_mOo"
+        ]
+      },
+      {
+        "h": "About Nashtar",
+        "p": [
+          "Shah Dawood, the arrogant heir to a powerful landowning family, clashes with Bareera Aijaz, a principled university student who refuses to bow to his authority. Forced into an unexpected marriage, their constant battles gradually give way to respect and love. But when Tamseel, Shah’s longtime admirer, refuses to accept Bareera, their fragile relationship is put to the ultimate test. Can Shah and Bareera overcome jealousy, family pressure, and their differences to find lasting love?"
+        ]
+      },
+      {
+        "h": "Episode Summary",
+        "p": [
+          "Is episode mein Shahdawood aur Bareera aik doosre se dil ki baatein karte hain, jahan Shahdawood kehne lagta hai ke Bareera ke aane se uski zindagi"
+        ]
+      }
+    ],
+    "facts": [
+      "Nashtar Episode 33 aired on 2026-11-20.",
+      "Channel: Geo TV.",
+      "Watch the full episode: https://www.youtube.com/watch?v=A3-fOmE_mOo",
+      "YouTube views: 671,243.",
+      "TMDB: Nashtar (id 332312).",
+      "Episode summary added 2026-11-20."
+    ],
+    "entities": {
+      "titles": [
+        "Nashtar"
+      ],
+      "people": [
+        "Danish Taimoor",
+        "Anmol Baloch",
+        "Naeema Butt"
+      ]
+    },
+    "images": [
+      {
+        "url": "https://i.ytimg.com/vi/A3-fOmE_mOo/hqdefault.jpg",
+        "caption": "Nashtar Episode 33",
+        "source": "Geo TV"
+      }
+    ],
+    "published": "2026-11-20T16:00:18Z"
+  },
+  "pzyram": {
+    "id": "pzyram",
+    "type": "news",
+    "headline": "Aangan Episode 15 — Watch Online on HUM TV",
+    "dek": "Aangan episode 15 aired on 2026-11-20 — watch the full episode on HUM TV.",
+    "body": [
+      {
+        "h": "Episode Details",
+        "p": [
+          "Aangan Episode 15 aired on 2026-11-20 on HUM TV. The full episode is available on the channel's official YouTube page.",
+          "Watch the full episode here: https://www.youtube.com/watch?v=5RRWNhZ3LwA"
+        ]
+      },
+      {
+        "h": "About Aangan",
+        "p": [
+          "Set before 1940s, a Hindustani family that was divided mercilessly before the partition of Pakistan by the unfortunate time incidents."
+        ]
+      }
+    ],
+    "facts": [
+      "Aangan Episode 15 aired on 2026-11-20.",
+      "Channel: HUM TV.",
+      "Watch the full episode: https://www.youtube.com/watch?v=5RRWNhZ3LwA",
+      "YouTube views: 104,095.",
+      "TMDB: Aangan (id 90172)."
+    ],
+    "entities": {
+      "titles": [
+        "Aangan"
+      ],
+      "people": [
+        "Ahad Raza Mir",
+        "Sonya Husyn",
+        "Sajal Ali",
+        "Mawra Hocane",
+        "Ahsan Khan"
+      ]
+    },
+    "images": [
+      {
+        "url": "https://i.ytimg.com/vi/5RRWNhZ3LwA/hqdefault.jpg",
+        "caption": "Aangan Episode 15",
+        "source": "HUM TV"
+      }
+    ],
+    "published": "2026-11-20T16:00:05Z"
+  },
+  "pnp5u": {
+    "id": "pnp5u",
+    "type": "news",
+    "headline": "Ramayana Box Office Collection Day 16: Ranbir Kapoor, Yash Film Crosses ₹875 Crore, Becomes Second-Fastest to Cross ₹650 Crore in Hindi",
+    "dek": "After completing two weeks in theatres, the Nitesh Tiwari directorial Ramayana has surpassed ₹870 crore in India net collection, maintaining a strong domestic run.",
+    "body": [
+      {
+        "h": "Box Office Milestone on Day 16",
+        "p": [
+          "The theatrical run of Ramayana has achieved a significant milestone, with its total domestic earnings surging past the ₹875-crore mark. According to reports from Sacnilk, the feature added ₹13.27 crore to its tally on its sixteenth day in cinemas.",
+          "This latest single-day addition brought the cumulative India net collection of the movie to ₹877.02 crore. Despite a slight dip in numbers compared to the previous day, the overall performance reflects sustained audience interest."
+        ]
+      },
+      {
+        "h": "Opening and Festive Surge",
+        "p": [
+          "The big-budget drama debuted in theatres on November 5, pulling in a massive ₹64.85 crore on its opening day. Momentum built rapidly over the first week, propelled significantly by the Diwali holidays.",
+          "A standout moment in its theatrical journey occurred on November 9—the day after Diwali—when the film registered an unprecedented single-day collection of ₹107.50 crore, cementing its status as a major box-office phenomenon."
+        ]
+      },
+      {
+        "h": "First Two Weeks Performance",
+        "p": [
+          "By the end of its first eight days on the big screen, the domestic box office total stood at an impressive ₹564.60 crore. The momentum continued steadily into the second week.",
+          "Between days nine and fifteen, the movie accumulated another ₹299.15 crore domestically, wrapping up a powerful second week before entering its third weekend with a 20% overall occupancy rate on Friday."
+        ]
+      },
+      {
+        "h": "Hindi Version Records",
+        "p": [
+          "In addition to its overall domestic figures, the movie has set noteworthy records in the Hindi-language belt. It crossed the ₹650-crore net collection milestone in Hindi within just 15 days of its release.",
+          "This achievement makes it the second-fastest film to reach the ₹650-crore threshold in Hindi. It stands behind Dhurandhar 2: The Revenge, which accomplished the feat in nine days, while outperforming Pushpa 2 and the original Dhurandhar."
+        ]
+      },
+      {
+        "h": "Upcoming Box Office Competitors",
+        "p": [
+          "Trade analyst Taran Adarsh noted that the feature enjoys an open window with virtually no major opposition for the time being, allowing it to dominate the box office for another week.",
+          "However, the uninterrupted run is projected to face challenges soon. Screens, shows, and audience footfalls are expected to be divided when Yeh Prem Mol Liya and Gunmaaster G9 arrive in theatres on November 27."
+        ]
+      },
+      {
+        "h": "Cast and Crew Details",
+        "p": [
+          "Directed by Nitesh Tiwari, the multi-starrer brings together a prominent cast. Ranbir Kapoor essays the role of Lord Rama, Sai Pallavi stars as Sita, and Yash portrays the antagonist Ravana.",
+          "The project is backed by producers Namit Malhotra and Yash. Following the success of this first installment, makers have already scheduled the release of the second part for 2028."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Ranbir Kapoor and Yash-starrer Ramayana crossed ₹875 crore in India net collection by its sixteenth day in theatres. The Nitesh Tiwari directorial also became the second-fastest film to cross the ₹650-crore mark in Hindi."
+        ]
+      }
+    ],
+    "facts": [
+      "Ramayana released on November 5, 2026.",
+      "Day 16 collection on Friday was ₹13.27 crore.",
+      "Total India net collection reached ₹877.02 crore.",
+      "Opening day collection was ₹64.85 crore.",
+      "Diwali collection on November 9 was ₹107.50 crore.",
+      "First eight days collection was ₹564.60 crore.",
+      "Second week collection between days 9 and 15 was ₹299.15 crore.",
+      "It took 15 days to cross ₹650 crore in Hindi.",
+      "Dhurandhar 2: The Revenge took 9 days to cross ₹650 crore in Hindi.",
+      "Pushpa 2 took 17 days to cross ₹650 crore in Hindi.",
+      "Yeh Prem Mol Liya and Gunmaaster G9 release on November 27, 2026.",
+      "Part two is scheduled to release in 2028."
+    ],
+    "entities": {
+      "people": [
+        "Ranbir Kapoor",
+        "Yash",
+        "Nitesh Tiwari",
+        "Sai Pallavi",
+        "Namit Malhotra",
+        "Taran Adarsh",
+        "Vibha Maru"
+      ],
+      "titles": [
+        "Ramayana",
+        "Dhurandhar 2: The Revenge",
+        "Pushpa 2",
+        "Dhurandhar",
+        "Yeh Prem Mol Liya",
+        "Gunmaaster G9"
+      ]
+    },
+    "keywords": [
+      "Ramayana box office collection",
+      "Ranbir Kapoor Yash Ramayana",
+      "Ramayana Day 16 collection",
+      "Ramayana Hindi box office"
+    ],
+    "images": [
+      {
+        "url": "https://www.hindustantimes.com/ht-img/img/2026/11/20/1600x900/logo/Ranbir_1795186138673_smbv_1795186138806_6gVJ_d10c26b9-e8d6-4984-9313-fc192dc468ee_SJkd.png",
+        "caption": "Ramayana Box Office Collection Day 16: Ranbir Kapoor, Yash Film Crosses ₹875 Crore, Becomes Second-Fastest to Cross ₹650",
+        "source": "Hindustan Times — Entertainment"
+      }
+    ],
+    "published": "Fri, 20 Nov 2026 22:07:14 +0530"
+  },
+  "1h3ef7c": {
+    "id": "1h3ef7c",
+    "type": "news",
+    "headline": "Rachel Brosnahan Joins Presumed Innocent Season 2 as Apple TV Drops First Trailer and Release Date",
+    "dek": "Apple TV has unveiled the official trailer and premiere date for Presumed Innocent Season 2, starring Rachel Brosnahan as defense attorney Leila Reynolds.",
+    "body": [
+      {
+        "h": "Apple TV Sets Release Date for Presumed Innocent Season 2",
+        "p": [
+          "Apple TV has officially announced the return of its hit dramatic series, setting the premiere date for the second season of Presumed Innocent. Fans of the legal thriller will not have to wait much longer, as the streaming platform has scheduled the first couple of episodes to debut on February 19, 2027.",
+          "Following the initial two-episode drop, the series will shift to a weekly release schedule. New episodes of the gripping legal drama will become available for streaming every Friday."
+        ]
+      },
+      {
+        "h": "Rachel Brosnahan Stars as Defense Attorney Leila Reynolds",
+        "p": [
+          "The upcoming season centers around Rachel Brosnahan in a pivotal role as defense attorney Leila Reynolds. Brosnahan steps into the legal spotlight to take charge of a complex and high-stakes murder case that serves as the narrative engine for the sophomore outing.",
+          "The plot deepens as Reynolds finds herself professionally and personally pitted against her own district attorney husband. This adversarial dynamic sets off severe marital and career complications for the couple as the courtroom battle unfolds."
+        ]
+      },
+      {
+        "h": "Source Material and Narrative Focus",
+        "p": [
+          "For its second chapter, Presumed Innocent adapts fresh literary material by turning to Jo Murray’s novel Dissection of a Murder. This source text provides the intricate plot mechanics for the murder investigation that pits the main characters against one another.",
+          "The narrative explores the friction between personal loyalty and professional duty. As Leila Reynolds navigates the treacherous waters of the murder trial against her husband, viewers can expect intense psychological and emotional fallout."
+        ]
+      },
+      {
+        "h": "Inside the Teaser Trailer and Cast",
+        "p": [
+          "The newly released 59-second teaser trailer kicks off with Rachel Brosnahan's character working out under visible stress. A judge's solemn courtroom narration asking whether she swears to tell the truth provides an ominous backdrop as Brosnahan stands before an American flag.",
+          "Matthew Rhys appears in the footage as Leila Reynolds's district attorney husband. The preview also showcases returning and new faces including Courtney B. Vance, Fiona Shaw, and Jack Reynor, whose character delivers a dramatic 'I do' as the background score reaches its climax."
+        ]
+      },
+      {
+        "h": "Background and Creative Team",
+        "p": [
+          "Presumed Innocent is brought to screen by creators David E. Kelley and J.J. Abrams. Kelley continues his heavy involvement in the production by serving as the showrunner and executive producer for the second season.",
+          "An extensive roster of executive producers supports the project, including Matthew Tinker, J.J. Abrams through Bad Robot Productions, Rachel Rusch Rich, Dee Johnson, Dustin Thomason, Jake Gyllenhaal, and Rachel Brosnahan herself, with Warner Bros. Television backing the series."
+        ]
+      },
+      {
+        "h": "Cast Filmography and Legacy",
+        "p": [
+          "Lead star Rachel Brosnahan brings a wealth of acclaimed television and film experience to the role of Leila Reynolds. Her notable past projects include her celebrated work in The Marvelous Mrs. Maisel, House of Cards, The Blacklist, The Courier, The Amateur, and Superman, alongside an upcoming appearance in the 2027 sequel Man of Tomorrow.",
+          "The series builds upon the foundation laid by its first season, which starred Jake Gyllenhaal. Season 1 achieved a strong critical and audience reception, securing a 79% rating from critics and a 78% score from viewers on Rotten Tomatoes."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Apple TV has released the official trailer and premiere date for the second season of Presumed Innocent, scheduled to debut on February 19, 2027. The upcoming season stars Rachel Brosnahan as defense attorney Leila Reynolds as she faces off against her district attorney husband in a murder case based on Jo Murray's book."
+        ]
+      }
+    ],
+    "facts": [
+      "Rachel Brosnahan is 36 years old.",
+      "Season 2 of Presumed Innocent premieres on February 19, 2027.",
+      "The teaser trailer is 59 seconds long.",
+      "Season 1 of Presumed Innocent received a 79% rating from critics and 78% from audiences on Rotten Tomatoes."
+    ],
+    "entities": {
+      "people": [
+        "Rachel Brosnahan",
+        "Jo Murray",
+        "Matthew Rhys",
+        "Courtney B. Vance",
+        "Fiona Shaw",
+        "Jack Reynor",
+        "David E. Kelley",
+        "J.J. Abrams",
+        "Matthew Tinker",
+        "Rachel Rusch Rich",
+        "Dee Johnson",
+        "Dustin Thomason",
+        "Jake Gyllenhaal"
+      ],
+      "titles": [
+        "Presumed Innocent",
+        "Dissection of a Murder",
+        "The Marvelous Mrs. Maisel",
+        "Superman",
+        "The Amateur",
+        "House of Cards",
+        "The Blacklist",
+        "The Courier",
+        "Man of Tomorrow"
+      ]
+    },
+    "keywords": [
+      "Presumed Innocent Season 2",
+      "Rachel Brosnahan Presumed Innocent",
+      "Presumed Innocent Apple TV release date",
+      "Leila Reynolds Presumed Innocent"
+    ],
+    "images": [
+      {
+        "url": "https://www.comingsoon.net/wp-content/uploads/sites/3/2026/11/Rachel-Brosnahan.jpg?resize=1200,630",
+        "caption": "Rachel Brosnahan Joins Presumed Innocent Season 2 as Apple TV Drops First Trailer and Release Date",
+        "source": "ComingSoon.net"
+      }
+    ],
+    "published": "Fri, 20 Nov 2026 16:21:29 +0000"
+  },
+  "rlj1kn": {
+    "id": "rlj1kn",
+    "type": "news",
+    "headline": "Iron Man 3 vs Captain America: Civil War Worldwide Box Office Showdown",
+    "dek": "Comparing the global box office performance, budgets, and financial returns of two major Marvel Cinematic Universe blockbusters.",
+    "body": [
+      {
+        "h": "Introduction to the MCU Clash",
+        "p": [
+          "The Marvel Cinematic Universe features several massive blockbusters that have dominated global cinemas. Among these, Iron Man 3 and Captain America: Civil War stand out as two enormous financial successes that crossed the prestigious $1 billion milestone at the worldwide box office. While the former served as the conclusion to the Robert Downey Jr.-led standalone franchise, the latter functioned as a multi-star event film.",
+          "Evaluating these pictures requires looking past their gross earnings to examine their budgets and break-even requirements. Analyzing these financial metrics reveals which feature ultimately generated a larger profit relative to its production and recovery targets."
+        ]
+      },
+      {
+        "h": "Iron Man 3 Global Collections",
+        "p": [
+          "Iron Man 3 arrived as the sequel to Iron Man 2 and closed out the solo adventures led by Robert Downey Jr. According to Box Office Mojo data, the picture pulled in an impressive $1.2 billion globally during its theatrical run.",
+          "With a production budget of $200 million, the studio calculated a break-even target of $500 million. Achieving $1.2 billion meant the feature successfully returned 2.4 times its break-even requirement."
+        ]
+      },
+      {
+        "h": "Captain America: Civil War Earnings",
+        "p": [
+          "Captain America: Civil War brought together a sprawling ensemble cast, establishing itself as a massive hit for the franchise. Box Office Mojo records show that the feature accumulated $1.15 billion worldwide, easily crossing the $1 billion threshold.",
+          "The production carried a higher budget of $250 million, leading to a break-even target of $625 million. Generating $1.15 billion allowed the Chris Evans starrer to achieve 1.84 times its break-even goal, marking it as a strong financial gainer."
+        ]
+      },
+      {
+        "h": "Comparing Profit and Returns",
+        "p": [
+          "Evaluating the financial data side by side highlights a clear winner in terms of proportional returns. Iron Man 3 secured 2.4x its break-even requirement, whereas Captain America: Civil War reached 1.84x its target.",
+          "Consequently, the Robert Downey Jr. threequel emerged as the superior commercial success when measuring profitability against the capital needed to break even."
+        ]
+      },
+      {
+        "h": "Future Reunions and Upcoming Releases",
+        "p": [
+          "The stars of these iconic features are set to cross paths again in the future. Robert Downey Jr. and Chris Evans will reunite in Avengers: Doomsday, though their dynamic will shift dramatically.",
+          "In the upcoming release, Downey will portray the villain Doctor Doom, positioning himself against Evans' heroic character. Avengers: Doomsday is scheduled to hit theaters on December 18."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Iron Man 3 and Captain America: Civil War both surpassed the $1 billion mark globally, but Iron Man 3 proved to be the larger success by earning 2.4x its break-even target compared to Civil War's 1.84x return. The lead actors from these films are scheduled to reunite when Avengers: Doomsday releases in theaters on December 18."
+        ]
+      }
+    ],
+    "facts": [
+      "Iron Man 3 grossed $1.2 billion worldwide.",
+      "Iron Man 3 had a budget of $200 million and a break-even target of $500 million.",
+      "Captain America: Civil War grossed $1.15 billion worldwide.",
+      "Captain America: Civil War had a budget of $250 million and a break-even target of $625 million.",
+      "Avengers: Doomsday releases on December 18."
+    ],
+    "entities": {
+      "people": [
+        "Robert Downey Jr.",
+        "Chris Evans"
+      ],
+      "titles": [
+        "Iron Man 3",
+        "Iron Man 2",
+        "Captain America: Civil War",
+        "Avengers: Doomsday"
+      ]
+    },
+    "keywords": [
+      "Iron Man 3",
+      "Captain America Civil War",
+      "Iron Man 3 box office",
+      "Captain America Civil War worldwide collection",
+      "Avengers Doomsday"
+    ],
+    "images": [
+      {
+        "url": "https://www.koimoi.com/wp-content/new-galleries/2026/11/iron-man-3-vs-captain-america-civil-war-which-threequel-was-more-successful.jpg",
+        "caption": "Iron Man 3 vs Captain America: Civil War Worldwide Box Office Showdown",
+        "source": "Koimoi"
+      }
+    ],
+    "published": "Fri, 20 Nov 2026 16:49:26 +0000"
+  },
+  "1yrpta5": {
+    "id": "1yrpta5",
+    "type": "news",
+    "headline": "BIGBANG and CL Unveil New Music on the Same Day, Evoking Memories of YG Family's Golden Era",
+    "dek": "K-pop icons BIGBANG and 2NE1 member CL are dropping new tracks four hours apart, stirring nostalgia for the height of YG Entertainment alongside upcoming MAMA Awards performances.",
+    "body": [
+      {
+        "h": "Simultaneous Music Releases",
+        "p": [
+          "Longtime K-pop icons BIGBANG and 2NE1 member CL have generated immense excitement by announcing brand new music drops scheduled for the exact same date. The timing places their respective releases just a mere four hours apart, capturing the immediate attention of music enthusiasts globally.",
+          "BIGBANG surprised fans with an unannounced digital single rollout planned for 2 PM KST. Meanwhile, solo artist CL is scheduled to premiere her brand new track titled ICONIC at 6 PM KST, marking a major milestone for both legendary acts."
+        ]
+      },
+      {
+        "h": "BIGBANG's Surprise Comeback Details",
+        "p": [
+          "The surprise announcement from BIGBANG came via an official blog post featuring a stylized black-and-white teaser poster. The graphic highlighted the group's release timestamp alongside close-up imagery of ornamented hands, moving feet, and ruffled hair.",
+          "While specific details regarding member participation, the official song title, and the exact musical style remain heavily guarded secrets, anticipation is high. This fresh drop follows their August track BiiiG, which marked their return after a hiatus of four years and four months and quickly dominated domestic music charts."
+        ]
+      },
+      {
+        "h": "CL's Bold Solo Return",
+        "p": [
+          "For CL, this upcoming drop represents her first major solo music venture in approximately five years. Her last major solo body of work was her comprehensive full-length album ALPHA, which debuted back in 2021.",
+          "Adding to her career momentum, CL signed an exclusive management contract with THEBLACKLABEL, headed by producer Teddy, on November 13. Given their historical collaborations on major 2NE1 hits like Fire and I Am the Best, followers are eager to witness their creative reunion across tracks such as ICONIC and SAY IT TO MY FACE."
+        ]
+      },
+      {
+        "h": "Nostalgia for the YG Family Golden Era",
+        "p": [
+          "The unexpected alignment of these music drops has naturally invoked strong nostalgia for the historic peak of YG Family. During the late 2000s and throughout the 2010s, groups like BIGBANG and 2NE1 anchored the agency as dominant forces in the entertainment industry.",
+          "Memorable events such as the 2011 YG Family Concert united powerhouse acts including Se7en, Gummy, PSY, and Tablo under a single banner. Fifteen years later, despite pursuing paths under separate entities like THEBLACKLABEL and YG Entertainment, their synchronized schedules bridge past glories with current endeavors."
+        ]
+      },
+      {
+        "h": "Global Tours and Award Show Lineups",
+        "p": [
+          "Beyond their single releases, active touring schedules keep the artists heavily engaged with international audiences. BIGBANG members G-Dragon, Taeyang, and Daesung are currently navigating their extensive world tour titled XX: COSMOS, encompassing forty-one shows across twenty global cities.",
+          "Furthermore, both acts are set to take the stage at the upcoming 2026 MAMA Awards in Osaka, Japan. CL is slated to perform on the opening night of November 20, while BIGBANG will deliver their set on the following evening of November 21."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "BIGBANG and CL have coordinated separate new music releases just hours apart on November 20, invoking heavy nostalgia for the historical era of YG Entertainment. Alongside these drops, both musical acts are preparing for consecutive performances at the 2026 MAMA Awards in Osaka."
+        ]
+      }
+    ],
+    "facts": [
+      "November 20, 2026",
+      "BIGBANG release time is 2 PM KST",
+      "CL release time is 6 PM KST",
+      "BIGBANG released BiiiG in August after four years and four months",
+      "CL released her full-length album ALPHA in 2021",
+      "CL signed an exclusive contract with THEBLACKLABEL on November 13",
+      "YG Family Concert was held in 2011",
+      "XX: COSMOS world tour spans 20 cities with 41 shows",
+      "2026 MAMA Awards take place in Osaka, Japan",
+      "CL performs at MAMA on November 20, 2026",
+      "BIGBANG performs at MAMA on November 21, 2026"
+    ],
+    "entities": {
+      "people": [
+        "SoulKim",
+        "G-Dragon",
+        "Taeyang",
+        "Daesung",
+        "Teddy",
+        "Se7en",
+        "Gummy",
+        "PSY",
+        "Tablo",
+        "CL"
+      ],
+      "titles": [
+        "ICONIC",
+        "BiiiG",
+        "ALPHA",
+        "Fire",
+        "I Am the Best",
+        "SAY IT TO MY FACE"
+      ]
+    },
+    "keywords": [
+      "BIGBANG new music",
+      "CL ICONIC song",
+      "YG Family golden era",
+      "2026 MAMA Awards"
+    ],
+    "images": [],
+    "published": "Fri, 20 Nov 2026 11:23:00 EST"
   }
 };

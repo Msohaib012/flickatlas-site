@@ -1,19 +1,19 @@
 {
   "connected": true,
-  "generated": "2026-11-20T17:03:05Z",
+  "generated": "2026-11-20T18:20:46Z",
   "realtime": {
-    "active_users": 0
+    "active_users": 1
   },
   "today": {
-    "users": 2121,
-    "pageviews": 2011,
-    "sessions": 2126,
+    "users": 2122,
+    "pageviews": 2012,
+    "sessions": 2127,
     "avg_session_seconds": 3.6
   },
   "last7": {
-    "users": 3237,
-    "pageviews": 3358,
-    "sessions": 3261,
+    "users": 3238,
+    "pageviews": 3359,
+    "sessions": 3263,
     "avg_session_seconds": 8.3
   },
   "top_pages": [
@@ -26,7 +26,7 @@
     {
       "path": "/person",
       "title": "Actor & Filmmaker Profiles | FlickAtlas",
-      "views": 850,
+      "views": 851,
       "avg_time_seconds": 2.8
     },
     {
@@ -82,8 +82,8 @@
     {
       "source": "(direct)",
       "medium": "(none)",
-      "sessions": 3111,
-      "users": 3093
+      "sessions": 3114,
+      "users": 3094
     },
     {
       "source": "(not set)",
@@ -131,7 +131,7 @@
     },
     {
       "country": "Vietnam",
-      "users": 154
+      "users": 155
     },
     {
       "country": "Colombia",
@@ -149,7 +149,7 @@
   "devices": [
     {
       "device": "desktop",
-      "users": 3222
+      "users": 3223
     },
     {
       "device": "mobile",
