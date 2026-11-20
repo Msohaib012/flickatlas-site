@@ -34424,5 +34424,532 @@ window.FA_PUBLISHED = {
     "providers": [],
     "release_date": "2026-11-20",
     "popularity": 1.7385
+  },
+  "1828255": {
+    "id": 1828255,
+    "type": "movie",
+    "title": "Compliance Training",
+    "poster_path": "/8EplXLdLZgtqhgsmuFPWeM1abFP.jpg",
+    "backdrop_path": "/kZwYeHUw1BDgnXpYgZ7qDeuvcw7.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "Erik is a disturbed evil sorcerer and disgruntled senior employee at a competitive magazine firm. Charismatic alien jerk Garrett is the CEO's nephew, clashing with Erik in the workplace over their different visions for the August cover design. As they engage in a battle of egos, sabotaging each other in increasingly malicious ways, Erik begins to hallucinate violently killing Garrett.",
+    "industry": "world",
+    "original_language": "en",
+    "origin_country": [
+      "US"
+    ],
+    "production_countries": [],
+    "spoken_languages": [],
+    "published_at": "2026-11-20",
+    "date_kind": "festival",
+    "status": "In Production",
+    "providers": [],
+    "release_date": "2026-11-27",
+    "popularity": 0.2659
+  },
+  "1597242": {
+    "id": 1597242,
+    "type": "movie",
+    "title": "Cameron Winter at Carnegie Hall",
+    "poster_path": "/yQ30rrZxTQxnXIrKdSFKIpg0j3W.jpg",
+    "backdrop_path": "/7wwJh55u7y5YoUJaABy5o47d14z.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "A concert film documenting Cameron Winter's sold-out performance at Carnegie Hall.",
+    "industry": "world",
+    "original_language": "en",
+    "origin_country": [
+      "US"
+    ],
+    "production_countries": [
+      "US"
+    ],
+    "spoken_languages": [
+      "en"
+    ],
+    "published_at": "2026-11-20",
+    "date_kind": "release",
+    "status": "Released",
+    "providers": [],
+    "release_date": "2026-11-20",
+    "popularity": 1.927
+  },
+  "339362": {
+    "id": 339362,
+    "type": "tv",
+    "title": "Çiçekçi Kız",
+    "poster_path": "/6Xr5GQqwxceVpzpKXC6ZOt42slH.jpg",
+    "backdrop_path": "/4btwfguhwJRJJ2qIeSZ9HCllWU1.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "",
+    "industry": "world",
+    "original_language": "tr",
+    "origin_country": [
+      "TR"
+    ],
+    "production_countries": [],
+    "spoken_languages": [
+      "tr"
+    ],
+    "published_at": "2026-11-20",
+    "status": "Returning Series",
+    "providers": [],
+    "first_air_date": "2026-11-19",
+    "popularity": 25.8283
+  },
+  "300523": {
+    "id": 300523,
+    "type": "tv",
+    "title": "The Blue Road",
+    "poster_path": "/cVbilrgtgKi7gN74KK4voyV7iDR.jpg",
+    "backdrop_path": "/7ojpD6ARKYhRxnsjzMIrorOfj4T.jpg",
+    "vote_average": 7.7,
+    "vote_count": 3,
+    "overview": "Two detectives join forces when brutal murders and cryptic messages surface across borders — but the deadly truth lurks dangerously close.",
+    "industry": "world",
+    "original_language": "ko",
+    "origin_country": [
+      "KR"
+    ],
+    "production_countries": [
+      "KR"
+    ],
+    "spoken_languages": [
+      "ko",
+      "ja"
+    ],
+    "published_at": "2026-11-20",
+    "status": "Ended",
+    "providers": [],
+    "first_air_date": "2026-11-20",
+    "popularity": 6.3761
+  },
+  "1510775": {
+    "id": 1510775,
+    "type": "movie",
+    "title": "Gunmaaster G9",
+    "poster_path": "/vDYF2q48AIvBRpFiqKj6lKyM0p6.jpg",
+    "backdrop_path": "/l2mK4l8DI57CMAXlERKiaJE3v0y.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "A man in love takes extreme measures to be with the woman he desires, facing off against a dangerous adversary.",
+    "industry": "bollywood",
+    "original_language": "hi",
+    "origin_country": [
+      "IN"
+    ],
+    "production_countries": [
+      "IN"
+    ],
+    "spoken_languages": [
+      "hi"
+    ],
+    "published_at": "2026-11-20",
+    "date_kind": "release",
+    "status": "Post Production",
+    "providers": [],
+    "release_date": "2026-11-27",
+    "popularity": 1.1449
+  },
+  "1827616": {
+    "id": 1827616,
+    "type": "movie",
+    "title": "BURN YOUR HOUSE DOWN",
+    "poster_path": "/lhNlUEq50bA3OrkiS0FN0snhSDs.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "In honor of America's 250th Celebrations",
+    "industry": "world",
+    "original_language": "en",
+    "origin_country": [
+      "US"
+    ],
+    "production_countries": [],
+    "spoken_languages": [],
+    "published_at": "2026-11-20",
+    "date_kind": "release",
+    "status": "In Production",
+    "providers": [],
+    "release_date": "2026-11-27",
+    "popularity": 0.2633
+  },
+  "1015887": {
+    "id": 1015887,
+    "type": "movie",
+    "title": "Red Snow",
+    "poster_path": "/xe43Kvbi10VSMeOgqblZfldTqA7.jpg",
+    "backdrop_path": "/ore6QFjyTtm0BBMdkAQDi084X8W.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "In Finland, sixteen-year-old emo teen Johanna dreams of a glittering Twilight vampire prince. What she gets instead is Martti — a balding, beer-bellied 49-year-old bloodsucker who slips into a Santa suit to gain entry to homes and devour entire families. When Johanna crosses paths with Martti on Christmas Eve, she thinks her dark fairy tale has come true. But instead of eternal romance, she finds herself trapped in a bloody and horrific nightmare of aging masculine toxicity, family trauma, and festive slaughter. By morning, the snow will turn red.",
+    "industry": "world",
+    "original_language": "fi",
+    "origin_country": [
+      "FI",
+      "EE",
+      "SE"
+    ],
+    "production_countries": [
+      "FI",
+      "SE",
+      "EE"
+    ],
+    "spoken_languages": [
+      "fi"
+    ],
+    "published_at": "2026-11-20",
+    "date_kind": "release",
+    "status": "Released",
+    "providers": [],
+    "release_date": "2026-11-20",
+    "popularity": 1.8299
+  },
+  "203483": {
+    "id": 203483,
+    "type": "tv",
+    "title": "River of No Return",
+    "poster_path": "/7fo6B7Wm75WwIlCZP17ohjUjdLd.jpg",
+    "backdrop_path": "/chks6LF9tUpj0nMHJ98MpkwpkD3.jpg",
+    "vote_average": 8.0,
+    "vote_count": 4,
+    "overview": "In the Ming Dynasty, Crown Prince Zhu Zhanji races 2,200 miles from Nanjing to Beijing in 15 days to save himself and the empire.",
+    "industry": "world",
+    "original_language": "zh",
+    "origin_country": [
+      "CN"
+    ],
+    "production_countries": [
+      "CN"
+    ],
+    "spoken_languages": [
+      "zh"
+    ],
+    "published_at": "2026-11-20",
+    "status": "Returning Series",
+    "providers": [],
+    "first_air_date": "2026-11-20",
+    "popularity": 4.4036
+  },
+  "1417808": {
+    "id": 1417808,
+    "type": "movie",
+    "title": "Haindava",
+    "poster_path": "/nRVVQJVcwcsjiiOdnV9n63Aafkh.jpg",
+    "backdrop_path": "/v1rEI5dG3tuywuOZfNRKMmgB9kC.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "",
+    "industry": "bollywood",
+    "original_language": "te",
+    "origin_country": [
+      "IN"
+    ],
+    "production_countries": [
+      "IN"
+    ],
+    "spoken_languages": [
+      "te"
+    ],
+    "published_at": "2026-11-20",
+    "date_kind": "release",
+    "status": "Post Production",
+    "providers": [],
+    "release_date": "2026-11-27",
+    "popularity": 0.985
+  },
+  "1826868": {
+    "id": 1826868,
+    "type": "movie",
+    "title": "A Woman from the other side of the Window",
+    "poster_path": "/cOiB7tuE35gva5HO3GzGoCxo3uC.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "A one single-shot of a reflection through a television screen of a woman waking up with the Sun.",
+    "industry": "world",
+    "original_language": "fr",
+    "origin_country": [
+      "FR"
+    ],
+    "production_countries": [
+      "FR"
+    ],
+    "spoken_languages": [
+      "fr"
+    ],
+    "published_at": "2026-11-20",
+    "date_kind": "release",
+    "status": "Planned",
+    "providers": [],
+    "release_date": "2026-11-27",
+    "popularity": 0.266
+  },
+  "1135463": {
+    "id": 1135463,
+    "type": "movie",
+    "title": "Viana – The Legend of the Golden Hearts",
+    "poster_path": "/qVGzgIEWZLHNB561Xv1Rv23tDr9.jpg",
+    "backdrop_path": "/xjaazsQiKpoUWjORzPJkK5E6mvo.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "In the north of medieval Portugal, the beautiful Ana falls in love with Thomas, a poor artisan. Her father immediately forbids their union, demanding that his daughter’s suitors produce a jewel as proof of their nobility. But the young couple refuse to give up. With the help of their faithful companions, the generosity of the townswomen and the talent of a mysterious jewellery maker, Ana and Thomas will face many challenges out of love, including the powerful and evil Duke of Aragon.",
+    "industry": "world",
+    "original_language": "pt",
+    "origin_country": [
+      "PT"
+    ],
+    "production_countries": [
+      "PT"
+    ],
+    "spoken_languages": [
+      "en",
+      "pt"
+    ],
+    "published_at": "2026-11-20",
+    "date_kind": "release",
+    "status": "Released",
+    "providers": [],
+    "release_date": "2026-11-19",
+    "popularity": 2.1053
+  },
+  "1553480": {
+    "id": 1553480,
+    "type": "movie",
+    "title": "Niram",
+    "poster_path": "/fFZwdY8GDMhJGfuszV5rJv5bW9B.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "",
+    "industry": "bollywood",
+    "original_language": "ta",
+    "origin_country": [
+      "IN"
+    ],
+    "production_countries": [
+      "IN"
+    ],
+    "spoken_languages": [
+      "ta"
+    ],
+    "published_at": "2026-11-20",
+    "date_kind": "release",
+    "status": "In Production",
+    "providers": [],
+    "release_date": "2026-11-27",
+    "popularity": 0.812
+  },
+  "1824669": {
+    "id": 1824669,
+    "type": "movie",
+    "title": "606",
+    "poster_path": "/bcNDK5IffvYlzzwCXvLdOU54lSf.jpg",
+    "backdrop_path": "/r8CdDBeCCPLJDqxxLLOW5Fxf1GN.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "A father’s love knows no boundaries,but what happens when the path to his daughter lies beyond the boundaries of reality?  When supernatural forces drag his daughter into an unknown world, he risks everything, venturing into terrifying dimensions where fear, mystery, and impossible truths stand between him and the only person he cannot afford to lose.",
+    "industry": "bollywood",
+    "original_language": "ta",
+    "origin_country": [
+      "IN"
+    ],
+    "production_countries": [],
+    "spoken_languages": [],
+    "published_at": "2026-11-20",
+    "date_kind": "release",
+    "status": "Post Production",
+    "providers": [],
+    "release_date": "2026-12-11",
+    "popularity": 0.4123
+  },
+  "1269278": {
+    "id": 1269278,
+    "type": "movie",
+    "title": "The Kolotun and the Magic Kingdom",
+    "poster_path": "/p30NzHHkWDrtG1g7JEEEd2hltBT.jpg",
+    "backdrop_path": "/24FUmJKSTFJyqacHckTU1MpCxff.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "The Snegirev family is preparing to celebrate the New Year together for the last time, after which Anfisa and Igor will tell their son Roma about the divorce.",
+    "industry": "world",
+    "original_language": "ru",
+    "origin_country": [
+      "RU"
+    ],
+    "production_countries": [
+      "RU"
+    ],
+    "spoken_languages": [
+      "ru"
+    ],
+    "published_at": "2026-11-20",
+    "date_kind": "release",
+    "status": "Released",
+    "providers": [],
+    "release_date": "2026-11-19",
+    "popularity": 2.0782
+  },
+  "1823449": {
+    "id": 1823449,
+    "type": "movie",
+    "title": "The Tupac Tapes With Angie Martinez",
+    "poster_path": "/hJHSHO0skbf0VWkTZ2ernyb13TB.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "After almost 30 years, Angie Martinez is releasing her interview with Tupac that took place 3 months before his death.",
+    "industry": "world",
+    "original_language": "en",
+    "origin_country": [
+      "US"
+    ],
+    "production_countries": [
+      "US"
+    ],
+    "spoken_languages": [
+      "en"
+    ],
+    "published_at": "2026-11-20",
+    "date_kind": "release",
+    "status": "In Production",
+    "providers": [],
+    "release_date": "2026-11-27",
+    "popularity": 0.2474
+  },
+  "1679486": {
+    "id": 1679486,
+    "type": "movie",
+    "title": "People Pleaser: Si Paling Gak Enakan",
+    "poster_path": "/m3fQU8sEid4lvUaA6dXhks7v9nf.jpg",
+    "backdrop_path": "/saHUIv7DClJ0fLDc4lfxHdSxBm1.jpg",
+    "vote_average": 8.0,
+    "vote_count": 1,
+    "overview": "Karina is a young woman who always puts others first and finds it difficult to say \"no.\" This habit leaves her exhausted and causes her to sacrifice her own dreams.",
+    "industry": "world",
+    "original_language": "id",
+    "origin_country": [
+      "ID"
+    ],
+    "production_countries": [
+      "ID"
+    ],
+    "spoken_languages": [
+      "id"
+    ],
+    "published_at": "2026-11-20",
+    "date_kind": "release",
+    "status": "Released",
+    "providers": [],
+    "release_date": "2026-11-19",
+    "popularity": 1.8668
+  },
+  "1822669": {
+    "id": 1822669,
+    "type": "movie",
+    "title": "What Happened On November 1st?",
+    "poster_path": "/zvKvSd4E5rrKz2DlgYHYMQIgE7t.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "A whole college skips the second day of Halloweekend to celebrate Christmas on November 1st. Dressing festive, watching Christmas movies and playing music. However, there's a mystery...why and how are people getting murdered on November 1st?",
+    "industry": "world",
+    "original_language": "en",
+    "origin_country": [
+      "US"
+    ],
+    "production_countries": [],
+    "spoken_languages": [],
+    "published_at": "2026-11-20",
+    "date_kind": "release",
+    "status": "In Production",
+    "providers": [],
+    "release_date": "2026-11-27",
+    "popularity": 0.6953
+  },
+  "1698629": {
+    "id": 1698629,
+    "type": "movie",
+    "title": "Christmas En Pointe",
+    "poster_path": "/sgLWEkXBp9oLvdTUlNklrSySfOE.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "Years after breaking off their engagement, a small-town dance teacher and an ambitious senator returning home for Christmas are thrown back together to save her struggling studio, rekindling the love they once lost.",
+    "industry": "world",
+    "original_language": "en",
+    "origin_country": [
+      "US"
+    ],
+    "production_countries": [
+      "US"
+    ],
+    "spoken_languages": [
+      "en"
+    ],
+    "published_at": "2026-11-20",
+    "date_kind": "release",
+    "status": "Released",
+    "providers": [],
+    "release_date": "2026-11-19",
+    "popularity": 1.7997
+  },
+  "1820426": {
+    "id": 1820426,
+    "type": "movie",
+    "title": "I’m Having Second Thoughts in my Great Aunt’s Bathroom",
+    "poster_path": "/rSx0bB1W3FmyBMlP8NsakRZaBBz.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "Liss visits her Great Aunt for a cup of tea, with an ulterior motive in her mind. Her mission seems to be simple, to ask her Aunt for money, but is thrown off by the peculiarity of Great Aunt Petunia’s house.",
+    "industry": "world",
+    "original_language": "en",
+    "origin_country": [
+      "GB"
+    ],
+    "production_countries": [
+      "GB"
+    ],
+    "spoken_languages": [
+      "en"
+    ],
+    "published_at": "2026-11-20",
+    "date_kind": "festival",
+    "status": "In Production",
+    "providers": [],
+    "release_date": "2026-11-27",
+    "popularity": 0.1166
+  },
+  "1790040": {
+    "id": 1790040,
+    "type": "movie",
+    "title": "The Royal Nannies",
+    "poster_path": "/uhiY1HVoBhgWVyoyAqH9wkAnu1R.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "Carter is tasked with serving as both nanny and protector to Princess Isabella while the King and Queen are away on a trade mission. Under the guardianship of her uncle, Prince Theo, the family is faced with unexpected challenges, and as Carter and Theo grow closer, she finds herself torn between love and duty.",
+    "industry": "world",
+    "original_language": "en",
+    "origin_country": [
+      "BE",
+      "CA"
+    ],
+    "production_countries": [
+      "BE",
+      "CA"
+    ],
+    "spoken_languages": [
+      "en"
+    ],
+    "published_at": "2026-11-20",
+    "date_kind": "release",
+    "status": "Released",
+    "providers": [],
+    "release_date": "2026-11-18",
+    "popularity": 3.1698
   }
 };

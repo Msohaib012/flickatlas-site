@@ -202988,5 +202988,386 @@ window.FA_ARTICLES = {
     ],
     "images": [],
     "published": "Fri, 20 Nov 2026 11:23:00 EST"
+  },
+  "5xoc7a": {
+    "id": "5xoc7a",
+    "type": "news",
+    "headline": "Scene Box Office Collection Day 14: Registers Suriya’s Second Biggest Second Week in India",
+    "dek": "Kollywood dark crime comedy Scene wraps up its second week with solid numbers, bringing Suriya closer to another major box office milestone.",
+    "body": [
+      {
+        "h": "Introduction to the Box Office Run",
+        "p": [
+          "The theatrical journey of the Kollywood dark crime comedy Scene continues to perform strongly across Indian cinema halls. Emerging as a commercially successful venture, the movie marks yet another profitable triumph for lead star Suriya. As it successfully concludes its fourteenth day in theaters, the feature maintains a respectable trajectory despite experiencing a standard dip in weekday viewership.",
+          "Industry analysts have closely monitored the trajectory of the feature as it sustains momentum in its second week. Even though the daily collections moderated more than initial projections anticipated, the overall earnings remain remarkably sturdy for the production, securing a notable milestone in the actor's filmography."
+        ]
+      },
+      {
+        "h": "Day 14 and Week 2 Earnings Breakdown",
+        "p": [
+          "On its second Thursday, corresponding to day 14 of its theatrical run, the picture brought in 1.9 crore net at the domestic box office. This figure indicates a 28.3 percent decrease compared to the previous day's collection of 2.65 crore.",
+          "The cumulative total for the second week now rests at 35.25 crore net, which reflects a 68.33 percent decline from the heavy opening week earnings of 111.3 crore. Combined, the domestic net collection stands at an impressive 146.55 crore, translating to roughly 172.93 crore in gross figures across India."
+        ]
+      },
+      {
+        "h": "Comparison Among Suriya's Second Weeks",
+        "p": [
+          "Achieving a second-week collection of 35.25 crore allows the feature to secure the actor's second-biggest second week in the domestic market. In doing so, it surpassed the performance of Vishwanath Sons, which previously held the position with 27.55 crore.",
+          "The list of top second-week performers for the star is led by Karuppu, which had brought in a massive 54.3 crore during its corresponding frame. With Scene claiming the second spot, Vishwanath Sons shifts down to the third position in this specific metric."
+        ]
+      },
+      {
+        "h": "Approaching the 150 Crore Club",
+        "p": [
+          "The theatrical run is currently poised to achieve a major domestic milestone by entering the 150 crore net club. Historically, only one film starring the lead actor has crossed this specific threshold in India, that being Karuppu.",
+          "At present, the feature remains a mere 3.45 crore away from crossing the 150 crore net barrier. Trade experts expect this target to be comfortably cleared during the upcoming third weekend of its release."
+        ]
+      },
+      {
+        "h": "Cast, Crew, and Production Details",
+        "p": [
+          "Behind the camera, the project is directed by Jithu Madhavan, widely known for his work on Aavesham. Production duties were handled by Suriya, Jyothika, and Jaishree Damodaran under the banner names of Zhagaram Studios and 2D Entertainment.",
+          "In front of the camera, the movie features performances from Naslen and Nazriya Nazim alongside the principal lead, contributing to the dark crime comedy's appeal among audiences."
+        ]
+      },
+      {
+        "h": "Audience Reception and Ratings",
+        "p": [
+          "Viewer sentiment has heavily favored the release since its theatrical debut. On the ticketing platform BookMyShow, the title currently holds a rating of 9 out of 10.",
+          "This strong score has been backed by participation from over 183K voters, demonstrating positive word of mouth and steady interest from moviegoers across different territories."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Scene has wrapped up its fourteenth day at the Indian box office with a collection of 1.9 crore, bringing its total second-week earnings to 35.25 crore and overall domestic net to 146.55 crore. This performance marks Suriya's second-biggest second week ever and positions the film just 3.45 crore away from the 150 crore net milestone."
+        ]
+      }
+    ],
+    "facts": [
+      "Scene earned 1.9 crore on day 14 (second Thursday).",
+      "Day 13 collection was 2.65 crore.",
+      "Second week total stands at 35.25 crore.",
+      "Week 1 total was 111.3 crore.",
+      "Overall Indian net collection is 146.55 crore.",
+      "Overall Indian gross collection is 172.93 crore.",
+      "Karuppu second week is 54.3 crore.",
+      "Vishwanath Sons second week is 27.55 crore.",
+      "The film is 3.45 crore away from the 150 crore net milestone.",
+      "BookMyShow rating is 9 out of 10 with 183K+ votes."
+    ],
+    "entities": {
+      "people": [
+        "Suriya",
+        "Jithu Madhavan",
+        "Jyothika",
+        "Jaishree Damodaran",
+        "Naslen",
+        "Nazriya Nazim"
+      ],
+      "titles": [
+        "Scene",
+        "Vishwanath Sons",
+        "Karuppu",
+        "Aavesham"
+      ]
+    },
+    "keywords": [
+      "Scene box office",
+      "Suriya Scene collection",
+      "Scene day 14 collection",
+      "Scene box office day 14"
+    ],
+    "images": [
+      {
+        "url": "https://www.koimoi.com/wp-content/new-galleries/2026/11/scene-box-office.jpg",
+        "caption": "Scene Box Office Collection Day 14: Registers Suriya’s Second Biggest Second Week in India",
+        "source": "Koimoi"
+      }
+    ],
+    "published": "Fri, 20 Nov 2026 17:48:51 +0000"
+  },
+  "1br6iah": {
+    "id": "1br6iah",
+    "type": "news",
+    "headline": "Matthew McConaughey's The Rivals of Amziah King Sets Official Hulu Streaming Release Date",
+    "dek": "The R-rated Western thriller starring Matthew McConaughey and directed by Andrew Patterson is officially heading to Hulu in late December following its theatrical run earlier this year.",
+    "body": [
+      {
+        "h": "Streaming Debut Confirmed",
+        "p": [
+          "The R-rated western thriller The Rivals of Amziah King has officially locked down its upcoming digital distribution schedule. Hulu has confirmed that the feature will become available for subscribers to watch online starting on December 27. This transition brings the theatrical release to the digital streaming space just as the winter holiday season concludes.",
+          "The announcement arrives 135 days after the feature first landed in cinemas across the United States. Fans who missed the theatrical run will soon have the opportunity to experience the gritty rural drama from the comfort of their homes."
+        ]
+      },
+      {
+        "h": "Theatrical Journey and Timeline",
+        "p": [
+          "The journey to streaming has been a long one for the project. The film originally premiered much earlier at the South by Southwest Film Festival on March 10, 2025. Following that initial festival debut, audiences waited over a year and a half before the movie finally saw a wider global release on August 14, 2026.",
+          "Directed and written by Andrew Patterson, the feature runs for a total of 130 minutes. While exact production budgets remain undisclosed to the public, the title managed to pull in approximately $4.1 million at the worldwide box office during its time in theaters."
+        ]
+      },
+      {
+        "h": "Matthew McConaughey Leads the Cast",
+        "p": [
+          "Academy Award winner Matthew McConaughey takes on the titular role in the production. The Texas native stars as Amziah King, portraying a rural Oklahoma beekeeper and musician who navigates complex personal and professional struggles.",
+          "The character's peaceful livelihood faces severe threats from corporate rivals. Simultaneously, his life is upended when his estranged foster daughter unexpectedly returns into his world, adding an emotional layer to the tense narrative."
+        ]
+      },
+      {
+        "h": "McConaughey's Recent Career Highlights",
+        "p": [
+          "The release of this Western project continues a productive decade for the actor, whose career spans more than 30 years. Recent years have seen him take on a variety of diverse projects across film and television.",
+          "Notable appearances in the 2020s include voicing Buster Moon in the animated sequel Sing 2, making a memorable cameo as Cowboypool in the blockbuster superhero feature Deadpool & Wolverine, and teaming up with Woody Harrelson in the Apple TV project Brothers."
+        ]
+      },
+      {
+        "h": "Behind the Camera and Creative Direction",
+        "p": [
+          "Filmmaker Andrew Patterson spearheaded the creative vision for the project, taking on both writing and directing duties. His distinct storytelling style brings a unique flavor to the modern Western genre.",
+          "The collaboration between Patterson and the leading man forms the backbone of the narrative, blending atmospheric rural settings with high-stakes dramatic conflicts involving corporate pressure and family ties."
+        ]
+      },
+      {
+        "h": "Box Office and Cultural Footprint",
+        "p": [
+          "Though the film's global box office earnings settled at around $4.1 million, the title has generated considerable conversation among film enthusiasts. Its journey from a festival screening to a wide theatrical rollout and now an impending platform release marks a significant milestone for the production.",
+          "The R-rated classification ensures an uncompromising look at its gritty themes, setting it apart as a distinct entry in the star's extensive filmography."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "The R-rated western thriller The Rivals of Amziah King, starring Matthew McConaughey and directed by Andrew Patterson, is officially scheduled to arrive on Hulu on December 27. This streaming debut follows a global theatrical release on August 14, 2026, and an initial festival premiere at South by Southwest on March 10, 2025, after grossing about $4.1 million worldwide."
+        ]
+      }
+    ],
+    "facts": [
+      "Matthew McConaughey stars as Amziah King.",
+      "The Rivals of Amziah King is directed and written by Andrew Patterson.",
+      "The film streams on Hulu on Dec. 27.",
+      "The theatrical release in United States theaters was on Aug. 14, 2026.",
+      "The original premiere at the South by Southwest Film Festival was on Mar. 10, 2025.",
+      "The film grossed about $4.1 million at the global box office.",
+      "The runtime is 130 minutes."
+    ],
+    "entities": {
+      "people": [
+        "Matthew McConaughey",
+        "Andrew Patterson",
+        "Buster Moon",
+        "Cowboypool",
+        "Woody Harrelson"
+      ],
+      "titles": [
+        "The Rivals of Amziah King",
+        "Sing 2",
+        "Deadpool Wolverine",
+        "Brothers"
+      ]
+    },
+    "keywords": [
+      "The Rivals of Amziah King",
+      "Matthew McConaughey The Rivals of Amziah King",
+      "The Rivals of Amziah King streaming Hulu",
+      "Andrew Patterson film"
+    ],
+    "images": [
+      {
+        "url": "https://static0.moviewebimages.com/wordpress/wp-content/uploads/2026/08/matthew-mcconaughey-red-carpet-instar.jpg?w=1600&amp;h=900&amp;fit=crop",
+        "caption": "Matthew McConaughey's The Rivals of Amziah King Sets Official Hulu Streaming Release Date",
+        "source": "MovieWeb"
+      }
+    ],
+    "published": "Fri, 20 Nov 2026 18:09:19 GMT"
+  },
+  "f4x4o1": {
+    "id": "f4x4o1",
+    "type": "news",
+    "headline": "Sharvari Stuns in a Royal Purple Silk Ensemble at Yeh Prem Mol Liya Promotional Event",
+    "dek": "The actress turned heads in a high-value hand-embroidered Muga silk outfit while actively campaigning for her upcoming romantic family drama alongside Ayushmann Khurrana.",
+    "body": [
+      {
+        "h": "Making a Fashion Statement",
+        "p": [
+          "Bollywood actor Sharvari recently captured widespread attention during a promotional outing for her highly anticipated motion picture. Embracing traditional craftsmanship with a modern silhouette, her wardrobe choice quickly became one of the most discussed style moments of the ongoing promotional campaign.",
+          "With minimalist makeup and softly styled open hair complementing her attire, the leading lady carried the regal look effortlessly. Her appearance successfully generated massive buzz across social media and entertainment circles alike."
+        ]
+      },
+      {
+        "h": "Outfit Details and Craftsmanship",
+        "p": [
+          "The focal point of her striking appearance was a rich purple kurta-palazzo set valued at Rs 1,09,900. Crafted from pure Muga silk brocade, the luxury ensemble showcased elaborate manual artistry.",
+          "The intricate surface ornamentation featured custom hand-cut gotta patti work, delicate glass beads, fine thread embroidery, and shimmering sequins. The complete look included matching palazzo pants and a complementary dupatta crafted from pure silk georgette brocade fabric."
+        ]
+      },
+      {
+        "h": "Stepping Into Yeh Prem Mol Liya",
+        "p": [
+          "The promotional event centered around the upcoming theatrical release titled Yeh Prem Mol Liya. This project marks a significant cinematic collaboration, pairing Sharvari opposite Ayushmann Khurrana for the very first time on the silver screen.",
+          "Directed by Sooraj R. Barjatya, the venture signifies the acclaimed filmmaker's return to his signature romantic family-drama genre. The narrative explores domestic dynamics when a husband relocates into his wife's household alongside his own family, blending two distinct homes into a story about love, interpersonal relationships, and mutual respect."
+        ]
+      },
+      {
+        "h": "Star-Studded Cast and Crew",
+        "p": [
+          "Aside from the lead pair, the movie features an extensive ensemble cast filled with veteran and acclaimed performers. Notable names attached to the project include Anupam Kher, Seema Pahwa, Supriya Pathak, Saumya Tandon, Shaad Randhawa, and Swanand Kirkire.",
+          "The production is backed by Rajshri Productions in association with Mahaveer Jain Films. On the technical side, Himesh Reshammiya has composed the musical score, Manoj Kumar Khatoi serves as the cinematographer, and Shweta Venkat Mathew handles editing duties."
+        ]
+      },
+      {
+        "h": "Release Timeline and Expectations",
+        "p": [
+          "Anticipation continues to build as the theatrical launch date approaches. Yeh Prem Mol Liya is officially slated to arrive in cinemas on November 27, 2026.",
+          "Given the combination of a veteran director returning to his roots, a fresh on-screen pairing, and high-profile promotional events like Sharvari's recent fashion outing, audience expectations remain high for the family entertainer."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Sharvari captured media attention at a promotional event for Yeh Prem Mol Liya by wearing a hand-embroidered purple Muga silk kurta-palazzo set valued at Rs 1,09,900. The film, directed by Sooraj R. Barjatya and starring Ayushmann Khurrana alongside Sharvari, is scheduled for a theatrical release on November 27, 2026."
+        ]
+      }
+    ],
+    "facts": [
+      "Sharvari wore a purple hand-embroidered Muga silk kurta-palazzo set worth Rs 1,09,900.",
+      "Yeh Prem Mol Liya is directed by Sooraj R. Barjatya.",
+      "Ayushmann Khurrana stars opposite Sharvari in the film.",
+      "Yeh Prem Mol Liya is scheduled to release on November 27, 2026."
+    ],
+    "entities": {
+      "people": [
+        "Sharvari",
+        "Ayushmann Khurrana",
+        "Sooraj R. Barjatya",
+        "Anupam Kher",
+        "Seema Pahwa",
+        "Supriya Pathak",
+        "Saumya Tandon",
+        "Shaad Randhawa",
+        "Swanand Kirkire",
+        "Himesh Reshammiya",
+        "Manoj Kumar Khatoi",
+        "Shweta Venkat Mathew"
+      ],
+      "titles": [
+        "Yeh Prem Mol Liya"
+      ]
+    },
+    "keywords": [
+      "Sharvari Yeh Prem Mol Liya",
+      "Yeh Prem Mol Liya release date",
+      "Sooraj R Barjatya movie",
+      "Ayushmann Khurrana Sharvari film"
+    ],
+    "images": [
+      {
+        "url": "https://static.toiimg.com/thumb/msid-136037105,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "caption": "Sharvari Stuns in a Royal Purple Silk Ensemble at Yeh Prem Mol Liya Promotional Event",
+        "source": "Times of India — Entertainment"
+      }
+    ],
+    "published": "2026-11-20T23:45:45+05:30"
+  },
+  "iyxw5e": {
+    "id": "iyxw5e",
+    "type": "news",
+    "headline": "Re:ZERO Season 5 Confirmed With Teaser Visual Featuring Rem And Subaru Natsuki",
+    "dek": "Fans of the hit anime series can celebrate as Season 5 officially enters production, bringing Rem and Subaru back to the screen together amid warnings of a grueling narrative arc.",
+    "body": [
+      {
+        "h": "Official Season 5 Confirmation",
+        "p": [
+          "The ongoing wait for the continuation of a popular anime has reached its conclusion with the formal announcement of a fifth season. Producers confirmed the greenlight during a major milestone gathering held in the Japanese capital, marking a significant moment for the entire franchise.",
+          "The reveal took place at a dedicated anniversary celebration hosted at Tachikawa Stage Garden in Tokyo. This gathering commemorated ten years of the animated adaptation and served as the grand finale for the property's comprehensive anniversary project lineup."
+        ]
+      },
+      {
+        "h": "First Teaser Visual Highlights Rem and Subaru",
+        "p": [
+          "Accompanying the renewal announcement was an initial promotional artwork that places two familiar characters front and center. Subaru Natsuki is depicted sharing a playful moment by holding hands with Rem as they embark on a fresh journey.",
+          "A prominent promotional tagline accompanying the artwork translates to a vow of devotion, hinting at the deep emotional core of the upcoming episodes. Rather than featuring a solo portrait of the protagonist, the creative choice to include Rem places their complicated relationship at the forefront of the narrative."
+        ]
+      },
+      {
+        "h": "Unresolved Dynamics From Previous Seasons",
+        "p": [
+          "The prominence of Rem in the promotional materials carries substantial narrative weight for regular viewers. Following the events of earlier chapters, Rem spent years trapped in a magic-induced coma before finally waking up during the fourth season.",
+          "However, that awakening did not yield a straightforward happy resolution. Rem returned without any recollection of Subaru, forcing the pair to navigate a dynamic where they must effectively start over while separated from their broader group."
+        ]
+      },
+      {
+        "h": "Author Tappei Nagatsuki Warns of Extreme Difficulty",
+        "p": [
+          "Original franchise creator Tappei Nagatsuki addressed the audience and supporters with a candid assessment of what lies ahead. While expressing gratitude toward the production crew, cast, and viewers, he made it clear that the upcoming storyline will not offer an easy path.",
+          "Nagatsuki pointed out that the sixth arc, which formed the basis of the fourth season, held a reputation as the most challenging segment of the story. He explicitly cautioned that the seventh arc will match that intensity, describing its difficulty level as exceptionally harsh and grueling."
+        ]
+      },
+      {
+        "h": "Studio Production and Returning Cast Expectations",
+        "p": [
+          "The upcoming animation will continue under the stewardship of White Fox, the studio responsible for bringing the property to life since its television debut in 2016. While specific staffing details beyond the studio and previous personnel remain under wraps, the legacy of past production teams sets a high standard.",
+          "The recognized Japanese voice cast features Yūsuke Kobayashi voicing Subaru Natsuki, Rie Takahashi portraying Emilia, and Inori Minase bringing Rem to life. Audiences await further announcements regarding whether the full roster of creators from the previous season will return for this next chapter."
+        ]
+      },
+      {
+        "h": "Global Streaming Plans and Premiere Expectations",
+        "p": [
+          "An exact broadcast premiere date has not yet been established by the production committee. Because the Fall schedule was already finalized prior to the announcement, the sequel will make its debut at a later, yet-to-be-determined time.",
+          "International distribution is anticipated to follow established patterns, with Crunchyroll remaining the primary platform for viewers outside Japan. Fans across regions including the USA, UK, Canada, Australia, and India can expect the platform to host the new episodes."
+        ]
+      },
+      {
+        "h": "Fan Response and Franchise Milestones",
+        "p": [
+          "The announcement generated immediate enthusiasm across online platforms among both domestic and international followers. Japanese audiences shared lighthearted jokes about enduring long waits, while English-speaking communities quickly circulated the teaser artwork across social media within minutes of its release.",
+          "This announcement successfully concludes the extensive tenth-anniversary initiative, which encompassed special exhibitions, merchandise, and game collaborations. Alongside these milestones, the underlying light novel series has achieved a distribution milestone of over sixteen million copies."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Season 5 of the anime has been officially confirmed during a Tokyo anniversary event, accompanied by a teaser visual featuring Subaru and Rem. Original creator Tappei Nagatsuki has warned fans that the upcoming seventh arc will feature extreme difficulty, while global streaming is anticipated through Crunchyroll."
+        ]
+      }
+    ],
+    "facts": [
+      "Season 5 of Re:ZERO was confirmed on November 14, 2026.",
+      "The announcement took place at the Re:ZERO -Starting Life in Another World- 10th EVENT -Starlight Party- at Tachikawa Stage Garden in Tokyo.",
+      "The light novel series has surpassed 16 million copies in circulation.",
+      "White Fox has handled the anime series since its first season in 2016.",
+      "The Japanese voice cast includes Yūsuke Kobayashi as Subaru, Rie Takahashi as Emilia, and Inori Minase as Rem."
+    ],
+    "entities": {
+      "people": [
+        "Subaru Natsuki",
+        "Rem",
+        "Tappei Nagatsuki",
+        "Masahiro Shinohara",
+        "Masahiro Yokotani",
+        "Haruka Sagawa",
+        "Yūsuke Kobayashi",
+        "Rie Takahashi",
+        "Inori Minase",
+        "Emilia"
+      ],
+      "titles": [
+        "Re:ZERO"
+      ]
+    },
+    "keywords": [
+      "Re:ZERO Season 5",
+      "Rem and Subaru",
+      "Tappei Nagatsuki",
+      "White Fox anime"
+    ],
+    "images": [
+      {
+        "url": "https://vviptimes.com/wp-content/uploads/2026/11/webp-21.webp",
+        "caption": "Re:ZERO Season 5 Confirmed With Teaser Visual Featuring Rem And Subaru Natsuki",
+        "source": "VVIP Times"
+      }
+    ],
+    "published": "Fri, 20 Nov 2026 18:13:39 +0000"
   }
 };

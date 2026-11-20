@@ -55373,5 +55373,911 @@ window.FA_PUBLISHED = {
     "runtime": 98,
     "providers": [],
     "providers_wtw": []
+  },
+  "1828255": {
+    "id": 1828255,
+    "type": "movie",
+    "title": "Compliance Training",
+    "poster_path": "/8EplXLdLZgtqhgsmuFPWeM1abFP.jpg",
+    "backdrop_path": "/kZwYeHUw1BDgnXpYgZ7qDeuvcw7.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "Erik is a disturbed evil sorcerer and disgruntled senior employee at a competitive magazine firm. Charismatic alien jerk Garrett is the CEO's nephew, clashing with Erik in the workplace over their different visions for the August cover design. As they engage in a battle of egos, sabotaging each other in increasingly malicious ways, Erik begins to hallucinate violently killing Garrett.",
+    "industry": "world",
+    "popularity": 0.2659,
+    "original_language": "en",
+    "origin_country": [
+      "US"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-20",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Science Fiction",
+      "Fantasy",
+      "Animation",
+      "Comedy"
+    ],
+    "tagline": "",
+    "status": "In Production",
+    "production_countries": [],
+    "spoken_languages": [],
+    "certification": "",
+    "release_date": "2026-11-27",
+    "date_kind": "festival",
+    "runtime": 2,
+    "providers": [],
+    "providers_wtw": []
+  },
+  "1597242": {
+    "id": 1597242,
+    "type": "movie",
+    "title": "Cameron Winter at Carnegie Hall",
+    "poster_path": "/yQ30rrZxTQxnXIrKdSFKIpg0j3W.jpg",
+    "backdrop_path": "/7wwJh55u7y5YoUJaABy5o47d14z.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "A concert film documenting Cameron Winter's sold-out performance at Carnegie Hall.",
+    "industry": "world",
+    "popularity": 1.927,
+    "original_language": "en",
+    "origin_country": [
+      "US"
+    ],
+    "trailer": {
+      "key": "E8olY56RpkU",
+      "name": "Official Trailer",
+      "site": "YouTube"
+    },
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-20",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Documentary",
+      "Music"
+    ],
+    "tagline": "On tour. On film. This fall.",
+    "status": "Released",
+    "production_countries": [
+      "US"
+    ],
+    "spoken_languages": [
+      "en"
+    ],
+    "certification": "",
+    "release_date": "2026-11-20",
+    "date_kind": "release",
+    "runtime": 75,
+    "providers": [],
+    "providers_wtw": []
+  },
+  "339362": {
+    "id": 339362,
+    "type": "tv",
+    "title": "Çiçekçi Kız",
+    "poster_path": "/6Xr5GQqwxceVpzpKXC6ZOt42slH.jpg",
+    "backdrop_path": "/4btwfguhwJRJJ2qIeSZ9HCllWU1.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "",
+    "industry": "world",
+    "popularity": 25.8283,
+    "original_language": "tr",
+    "origin_country": [
+      "TR"
+    ],
+    "trailer": null,
+    "categories": [
+      "tv"
+    ],
+    "published_at": "2026-11-20",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Drama",
+      "Comedy"
+    ],
+    "tagline": "",
+    "status": "Returning Series",
+    "production_countries": [],
+    "spoken_languages": [
+      "tr"
+    ],
+    "certification": "",
+    "first_air_date": "2026-11-19",
+    "networks": [
+      "TOD"
+    ],
+    "number_of_seasons": 1,
+    "number_of_episodes": 3,
+    "channel": "TOD",
+    "episode_run_time": [],
+    "seasons": [
+      {
+        "season_number": 1,
+        "episode_count": 3,
+        "air_date": "2026-11-19",
+        "name": "Season 1"
+      }
+    ],
+    "created_by": [
+      "Deniz Akçay"
+    ],
+    "providers": [],
+    "providers_wtw": []
+  },
+  "300523": {
+    "id": 300523,
+    "type": "tv",
+    "title": "The Blue Road",
+    "poster_path": "/cVbilrgtgKi7gN74KK4voyV7iDR.jpg",
+    "backdrop_path": "/7ojpD6ARKYhRxnsjzMIrorOfj4T.jpg",
+    "vote_average": 7.7,
+    "vote_count": 3,
+    "overview": "Two detectives join forces when brutal murders and cryptic messages surface across borders — but the deadly truth lurks dangerously close.",
+    "industry": "world",
+    "popularity": 6.3761,
+    "original_language": "ko",
+    "origin_country": [
+      "KR"
+    ],
+    "trailer": {
+      "key": "n1omQI6g3v0",
+      "name": "Official Trailer [ENG SUB]",
+      "site": "YouTube"
+    },
+    "categories": [
+      "tv"
+    ],
+    "published_at": "2026-11-20",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Crime",
+      "Mystery"
+    ],
+    "tagline": "Brutal murders, across borders, the twisted truth awaits.",
+    "status": "Ended",
+    "production_countries": [
+      "KR"
+    ],
+    "spoken_languages": [
+      "ko",
+      "ja"
+    ],
+    "certification": "TV-MA",
+    "first_air_date": "2026-11-20",
+    "networks": [
+      "Netflix"
+    ],
+    "number_of_seasons": 1,
+    "number_of_episodes": 8,
+    "channel": "Netflix",
+    "episode_run_time": [],
+    "seasons": [
+      {
+        "season_number": 1,
+        "episode_count": 8,
+        "air_date": "2026-11-20",
+        "name": "Limited Series"
+      }
+    ],
+    "created_by": [
+      "Han Jun-hee",
+      "Jo Yoo-jin"
+    ],
+    "providers": [],
+    "providers_wtw": []
+  },
+  "1510775": {
+    "id": 1510775,
+    "type": "movie",
+    "title": "Gunmaaster G9",
+    "poster_path": "/vDYF2q48AIvBRpFiqKj6lKyM0p6.jpg",
+    "backdrop_path": "/l2mK4l8DI57CMAXlERKiaJE3v0y.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "A man in love takes extreme measures to be with the woman he desires, facing off against a dangerous adversary.",
+    "industry": "bollywood",
+    "popularity": 1.1449,
+    "original_language": "hi",
+    "origin_country": [
+      "IN"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-20",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Action",
+      "Romance"
+    ],
+    "tagline": "Doodh ya Barood, Choice is yours !!!",
+    "status": "Post Production",
+    "production_countries": [
+      "IN"
+    ],
+    "spoken_languages": [
+      "hi"
+    ],
+    "certification": "",
+    "release_date": "2026-11-27",
+    "date_kind": "release",
+    "runtime": 0,
+    "providers": [],
+    "providers_wtw": []
+  },
+  "1827616": {
+    "id": 1827616,
+    "type": "movie",
+    "title": "BURN YOUR HOUSE DOWN",
+    "poster_path": "/lhNlUEq50bA3OrkiS0FN0snhSDs.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "In honor of America's 250th Celebrations",
+    "industry": "world",
+    "popularity": 0.2633,
+    "original_language": "en",
+    "origin_country": [
+      "US"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-20",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Horror",
+      "Documentary",
+      "Comedy"
+    ],
+    "tagline": "",
+    "status": "In Production",
+    "production_countries": [],
+    "spoken_languages": [],
+    "certification": "",
+    "release_date": "2026-11-27",
+    "date_kind": "release",
+    "runtime": 6,
+    "providers": [],
+    "providers_wtw": []
+  },
+  "1015887": {
+    "id": 1015887,
+    "type": "movie",
+    "title": "Red Snow",
+    "poster_path": "/xe43Kvbi10VSMeOgqblZfldTqA7.jpg",
+    "backdrop_path": "/ore6QFjyTtm0BBMdkAQDi084X8W.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "In Finland, sixteen-year-old emo teen Johanna dreams of a glittering Twilight vampire prince. What she gets instead is Martti — a balding, beer-bellied 49-year-old bloodsucker who slips into a Santa suit to gain entry to homes and devour entire families. When Johanna crosses paths with Martti on Christmas Eve, she thinks her dark fairy tale has come true. But instead of eternal romance, she finds herself trapped in a bloody and horrific nightmare of aging masculine toxicity, family trauma, and festive slaughter. By morning, the snow will turn red.",
+    "industry": "world",
+    "popularity": 1.8299,
+    "original_language": "fi",
+    "origin_country": [
+      "FI",
+      "EE",
+      "SE"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-20",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Horror",
+      "Comedy"
+    ],
+    "tagline": "By morning, all snow will turn red",
+    "status": "Released",
+    "production_countries": [
+      "FI",
+      "SE",
+      "EE"
+    ],
+    "spoken_languages": [
+      "fi"
+    ],
+    "certification": "",
+    "release_date": "2026-11-20",
+    "date_kind": "release",
+    "runtime": 92,
+    "providers": [],
+    "providers_wtw": []
+  },
+  "203483": {
+    "id": 203483,
+    "type": "tv",
+    "title": "River of No Return",
+    "poster_path": "/7fo6B7Wm75WwIlCZP17ohjUjdLd.jpg",
+    "backdrop_path": "/chks6LF9tUpj0nMHJ98MpkwpkD3.jpg",
+    "vote_average": 8.0,
+    "vote_count": 4,
+    "overview": "In the Ming Dynasty, Crown Prince Zhu Zhanji races 2,200 miles from Nanjing to Beijing in 15 days to save himself and the empire.",
+    "industry": "world",
+    "popularity": 4.4036,
+    "original_language": "zh",
+    "origin_country": [
+      "CN"
+    ],
+    "trailer": {
+      "key": "L15XXBDu_go",
+      "name": "River of No Return: 15 Days from Liang to Jing | The Fate of a Nation Rests Upon Its People ⚖️ | ...",
+      "site": "YouTube"
+    },
+    "categories": [
+      "tv"
+    ],
+    "published_at": "2026-11-20",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Drama"
+    ],
+    "tagline": "",
+    "status": "Returning Series",
+    "production_countries": [
+      "CN"
+    ],
+    "spoken_languages": [
+      "zh"
+    ],
+    "certification": "",
+    "first_air_date": "2026-11-20",
+    "networks": [
+      "CCTV-8",
+      "iQiyi"
+    ],
+    "number_of_seasons": 1,
+    "number_of_episodes": 26,
+    "channel": "CCTV-8",
+    "episode_run_time": [],
+    "seasons": [
+      {
+        "season_number": 1,
+        "episode_count": 26,
+        "air_date": "2026-11-20",
+        "name": "Season 1"
+      }
+    ],
+    "created_by": [
+      "Ma Boyong"
+    ],
+    "providers": [],
+    "providers_wtw": []
+  },
+  "1417808": {
+    "id": 1417808,
+    "type": "movie",
+    "title": "Haindava",
+    "poster_path": "/nRVVQJVcwcsjiiOdnV9n63Aafkh.jpg",
+    "backdrop_path": "/v1rEI5dG3tuywuOZfNRKMmgB9kC.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "",
+    "industry": "bollywood",
+    "popularity": 0.985,
+    "original_language": "te",
+    "origin_country": [
+      "IN"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-20",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Fantasy",
+      "Action"
+    ],
+    "tagline": "",
+    "status": "Post Production",
+    "production_countries": [
+      "IN"
+    ],
+    "spoken_languages": [
+      "te"
+    ],
+    "certification": "",
+    "release_date": "2026-11-27",
+    "date_kind": "release",
+    "runtime": 0,
+    "providers": [],
+    "providers_wtw": []
+  },
+  "1826868": {
+    "id": 1826868,
+    "type": "movie",
+    "title": "A Woman from the other side of the Window",
+    "poster_path": "/cOiB7tuE35gva5HO3GzGoCxo3uC.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "A one single-shot of a reflection through a television screen of a woman waking up with the Sun.",
+    "industry": "world",
+    "popularity": 0.266,
+    "original_language": "fr",
+    "origin_country": [
+      "FR"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-20",
+    "source": "tmdb",
+    "budget": 30,
+    "revenue": 0,
+    "genres": [
+      "Documentary"
+    ],
+    "tagline": "",
+    "status": "Planned",
+    "production_countries": [
+      "FR"
+    ],
+    "spoken_languages": [
+      "fr"
+    ],
+    "certification": "TP",
+    "release_date": "2026-11-27",
+    "date_kind": "release",
+    "runtime": 9,
+    "providers": [],
+    "providers_wtw": []
+  },
+  "1135463": {
+    "id": 1135463,
+    "type": "movie",
+    "title": "Viana – The Legend of the Golden Hearts",
+    "poster_path": "/qVGzgIEWZLHNB561Xv1Rv23tDr9.jpg",
+    "backdrop_path": "/xjaazsQiKpoUWjORzPJkK5E6mvo.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "In the north of medieval Portugal, the beautiful Ana falls in love with Thomas, a poor artisan. Her father immediately forbids their union, demanding that his daughter’s suitors produce a jewel as proof of their nobility. But the young couple refuse to give up. With the help of their faithful companions, the generosity of the townswomen and the talent of a mysterious jewellery maker, Ana and Thomas will face many challenges out of love, including the powerful and evil Duke of Aragon.",
+    "industry": "world",
+    "popularity": 2.1053,
+    "original_language": "pt",
+    "origin_country": [
+      "PT"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-20",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Animation",
+      "Adventure",
+      "Romance",
+      "Fantasy",
+      "Music"
+    ],
+    "tagline": "In the fight for love, your greatest ally is a Heart of Gold.",
+    "status": "Released",
+    "production_countries": [
+      "PT"
+    ],
+    "spoken_languages": [
+      "en",
+      "pt"
+    ],
+    "certification": "",
+    "release_date": "2026-11-19",
+    "date_kind": "release",
+    "runtime": 107,
+    "providers": [],
+    "providers_wtw": []
+  },
+  "1553480": {
+    "id": 1553480,
+    "type": "movie",
+    "title": "Niram",
+    "poster_path": "/fFZwdY8GDMhJGfuszV5rJv5bW9B.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "",
+    "industry": "bollywood",
+    "popularity": 0.812,
+    "original_language": "ta",
+    "origin_country": [
+      "IN"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-20",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Thriller",
+      "Drama"
+    ],
+    "tagline": "",
+    "status": "In Production",
+    "production_countries": [
+      "IN"
+    ],
+    "spoken_languages": [
+      "ta"
+    ],
+    "certification": "",
+    "release_date": "2026-11-27",
+    "date_kind": "release",
+    "runtime": 0,
+    "providers": [],
+    "providers_wtw": []
+  },
+  "1824669": {
+    "id": 1824669,
+    "type": "movie",
+    "title": "606",
+    "poster_path": "/bcNDK5IffvYlzzwCXvLdOU54lSf.jpg",
+    "backdrop_path": "/r8CdDBeCCPLJDqxxLLOW5Fxf1GN.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "A father’s love knows no boundaries,but what happens when the path to his daughter lies beyond the boundaries of reality?  When supernatural forces drag his daughter into an unknown world, he risks everything, venturing into terrifying dimensions where fear, mystery, and impossible truths stand between him and the only person he cannot afford to lose.",
+    "industry": "bollywood",
+    "popularity": 0.4123,
+    "original_language": "ta",
+    "origin_country": [
+      "IN"
+    ],
+    "trailer": {
+      "key": "nMj6pIdRpIY",
+      "name": "606 Official Trailer | Nava Sree Media | Sathish Sekar | Malathy K | MRT Music",
+      "site": "YouTube"
+    },
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-20",
+    "source": "tmdb",
+    "budget": 212323,
+    "revenue": 0,
+    "genres": [
+      "Fantasy",
+      "Mystery",
+      "Thriller"
+    ],
+    "tagline": "",
+    "status": "Post Production",
+    "production_countries": [],
+    "spoken_languages": [],
+    "certification": "UA",
+    "release_date": "2026-12-11",
+    "date_kind": "release",
+    "runtime": 119,
+    "providers": [],
+    "providers_wtw": []
+  },
+  "1269278": {
+    "id": 1269278,
+    "type": "movie",
+    "title": "The Kolotun and the Magic Kingdom",
+    "poster_path": "/p30NzHHkWDrtG1g7JEEEd2hltBT.jpg",
+    "backdrop_path": "/24FUmJKSTFJyqacHckTU1MpCxff.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "The Snegirev family is preparing to celebrate the New Year together for the last time, after which Anfisa and Igor will tell their son Roma about the divorce.",
+    "industry": "world",
+    "popularity": 2.0782,
+    "original_language": "ru",
+    "origin_country": [
+      "RU"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-20",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Fantasy",
+      "Family",
+      "Adventure"
+    ],
+    "tagline": "",
+    "status": "Released",
+    "production_countries": [
+      "RU"
+    ],
+    "spoken_languages": [
+      "ru"
+    ],
+    "certification": "6+",
+    "release_date": "2026-11-19",
+    "date_kind": "release",
+    "runtime": 0,
+    "providers": [],
+    "providers_wtw": []
+  },
+  "1823449": {
+    "id": 1823449,
+    "type": "movie",
+    "title": "The Tupac Tapes With Angie Martinez",
+    "poster_path": "/hJHSHO0skbf0VWkTZ2ernyb13TB.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "After almost 30 years, Angie Martinez is releasing her interview with Tupac that took place 3 months before his death.",
+    "industry": "world",
+    "popularity": 0.2474,
+    "original_language": "en",
+    "origin_country": [
+      "US"
+    ],
+    "trailer": {
+      "key": "LO3UrX1LIPE",
+      "name": "The Tupac Tapes With Angie Martinez | Official Trailer | Netflix",
+      "site": "YouTube"
+    },
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-20",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Documentary"
+    ],
+    "tagline": "",
+    "status": "In Production",
+    "production_countries": [
+      "US"
+    ],
+    "spoken_languages": [
+      "en"
+    ],
+    "certification": "M18",
+    "release_date": "2026-11-27",
+    "date_kind": "release",
+    "runtime": 0,
+    "providers": [],
+    "providers_wtw": []
+  },
+  "1679486": {
+    "id": 1679486,
+    "type": "movie",
+    "title": "People Pleaser: Si Paling Gak Enakan",
+    "poster_path": "/m3fQU8sEid4lvUaA6dXhks7v9nf.jpg",
+    "backdrop_path": "/saHUIv7DClJ0fLDc4lfxHdSxBm1.jpg",
+    "vote_average": 8.0,
+    "vote_count": 1,
+    "overview": "Karina is a young woman who always puts others first and finds it difficult to say \"no.\" This habit leaves her exhausted and causes her to sacrifice her own dreams.",
+    "industry": "world",
+    "popularity": 1.8668,
+    "original_language": "id",
+    "origin_country": [
+      "ID"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-20",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "tagline": "",
+    "status": "Released",
+    "production_countries": [
+      "ID"
+    ],
+    "spoken_languages": [
+      "id"
+    ],
+    "certification": "13+",
+    "release_date": "2026-11-19",
+    "date_kind": "release",
+    "runtime": 107,
+    "providers": [],
+    "providers_wtw": []
+  },
+  "1822669": {
+    "id": 1822669,
+    "type": "movie",
+    "title": "What Happened On November 1st?",
+    "poster_path": "/zvKvSd4E5rrKz2DlgYHYMQIgE7t.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "A whole college skips the second day of Halloweekend to celebrate Christmas on November 1st. Dressing festive, watching Christmas movies and playing music. However, there's a mystery...why and how are people getting murdered on November 1st?",
+    "industry": "world",
+    "popularity": 0.6953,
+    "original_language": "en",
+    "origin_country": [
+      "US"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-20",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Comedy",
+      "Horror",
+      "Mystery"
+    ],
+    "tagline": "...and a partridge in a pear tree",
+    "status": "In Production",
+    "production_countries": [],
+    "spoken_languages": [],
+    "certification": "R",
+    "release_date": "2026-11-27",
+    "date_kind": "release",
+    "runtime": 20,
+    "providers": [],
+    "providers_wtw": []
+  },
+  "1698629": {
+    "id": 1698629,
+    "type": "movie",
+    "title": "Christmas En Pointe",
+    "poster_path": "/sgLWEkXBp9oLvdTUlNklrSySfOE.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "Years after breaking off their engagement, a small-town dance teacher and an ambitious senator returning home for Christmas are thrown back together to save her struggling studio, rekindling the love they once lost.",
+    "industry": "world",
+    "popularity": 1.7997,
+    "original_language": "en",
+    "origin_country": [
+      "US"
+    ],
+    "trailer": {
+      "key": "o9dyk5v_ybQ",
+      "name": "Christmas En Pointe | Nicely Entertainment | Trailer",
+      "site": "YouTube"
+    },
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-20",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Romance"
+    ],
+    "tagline": "",
+    "status": "Released",
+    "production_countries": [
+      "US"
+    ],
+    "spoken_languages": [
+      "en"
+    ],
+    "certification": "",
+    "release_date": "2026-11-19",
+    "date_kind": "release",
+    "runtime": 0,
+    "providers": [],
+    "providers_wtw": []
+  },
+  "1820426": {
+    "id": 1820426,
+    "type": "movie",
+    "title": "I’m Having Second Thoughts in my Great Aunt’s Bathroom",
+    "poster_path": "/rSx0bB1W3FmyBMlP8NsakRZaBBz.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "Liss visits her Great Aunt for a cup of tea, with an ulterior motive in her mind. Her mission seems to be simple, to ask her Aunt for money, but is thrown off by the peculiarity of Great Aunt Petunia’s house.",
+    "industry": "world",
+    "popularity": 0.1166,
+    "original_language": "en",
+    "origin_country": [
+      "GB"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-20",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Animation"
+    ],
+    "tagline": "",
+    "status": "In Production",
+    "production_countries": [
+      "GB"
+    ],
+    "spoken_languages": [
+      "en"
+    ],
+    "certification": "",
+    "release_date": "2026-11-27",
+    "date_kind": "festival",
+    "runtime": 4,
+    "providers": [],
+    "providers_wtw": []
+  },
+  "1790040": {
+    "id": 1790040,
+    "type": "movie",
+    "title": "The Royal Nannies",
+    "poster_path": "/uhiY1HVoBhgWVyoyAqH9wkAnu1R.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "Carter is tasked with serving as both nanny and protector to Princess Isabella while the King and Queen are away on a trade mission. Under the guardianship of her uncle, Prince Theo, the family is faced with unexpected challenges, and as Carter and Theo grow closer, she finds herself torn between love and duty.",
+    "industry": "world",
+    "popularity": 3.1698,
+    "original_language": "en",
+    "origin_country": [
+      "BE",
+      "CA"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-20",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [],
+    "tagline": "",
+    "status": "Released",
+    "production_countries": [
+      "BE",
+      "CA"
+    ],
+    "spoken_languages": [
+      "en"
+    ],
+    "certification": "",
+    "release_date": "2026-11-18",
+    "date_kind": "release",
+    "runtime": 0,
+    "providers": [],
+    "providers_wtw": []
   }
 };
