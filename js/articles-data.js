@@ -202076,5 +202076,302 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Fri, 20 Nov 2026 15:26:29 +0000"
+  },
+  "1nszhz2": {
+    "id": "1nszhz2",
+    "type": "news",
+    "headline": "Inside the Massive Fortunes Made and Lost by Hollywood Star Johnny Depp",
+    "dek": "A new biography sheds light on the staggering wealth Johnny Depp amassed during his peak Hollywood years and the extraordinary spending habits and financial mismanagement that drained it.",
+    "body": [
+      {
+        "h": "The Rise of a Mega-Star and Mammoth Paychecks",
+        "p": [
+          "Johnny Depp established himself among the highest-earning actors in the entire film industry following his breakout success in the Pirates of the Caribbean franchise. Starting in the summer of 2003, his involvement in major studio projects brought in massive sums of money, transforming him into an international cinematic icon.",
+          "As his fame expanded, so did his earning potential, allowing him to command enormous paydays for blockbuster cinematic features over the course of more than two decades."
+        ]
+      },
+      {
+        "h": "Insights from The Many Faces of Johnny Depp",
+        "p": [
+          "A newly released biography titled The Many Faces of Johnny Depp, written by author Mark Seal, explores the complex details of the actor's financial trajectory. Drawing on court documentation from 2017, the book outlines the astonishing figures involved in both his career earnings and subsequent financial downfall.",
+          "According to Seal, court records reveal that the actor admitted to being hundreds of millions of dollars in the hole, prompting a closer examination of how such a monumental fortune could vanish so rapidly."
+        ]
+      },
+      {
+        "h": "Lavish Lifestyle and Excessive Spending",
+        "p": [
+          "The biography highlights two primary factors behind the depletion of Depp's vast wealth: excessive spending and extensive financial mismanagement. His high-end expenditures included the acquisition of a luxury yacht, fourteen distinct residential properties, and a private island located in the Bahamas.",
+          "In addition to real estate and maritime vessels, his lifestyle expenses involved buying costly cases of wine, expensive jewelry, and funding heavy travel outlays for the large group of people who constantly surrounded him."
+        ]
+      },
+      {
+        "h": "Maintaining an Entourage and Corporate Persona",
+        "p": [
+          "At the peak of his career fame, Depp functioned not merely as an individual performer, but as a massive global brand and franchise. This status required maintaining a large entourage of staff and associates who depended entirely on him for their everyday livelihoods.",
+          "Consequently, the actor could no longer travel via commercial airlines or move about without a substantial supporting team, significantly inflating his ongoing daily expenses during the height of his career."
+        ]
+      },
+      {
+        "h": "Tax Troubles and Legal Liabilities",
+        "p": [
+          "Beyond his personal lifestyle purchases, Depp encountered severe tax burdens, including a massive $100 million debt owed in back taxes to the government. The actor publicly placed the blame for this immense liability on the financial advisors and accountants he had trusted to manage his tax obligations.",
+          "These compounding financial pressures, paired with mounting legal and reputational challenges following high-profile court battles such as his litigation involving Amber Heard, fundamentally altered his standing within the entertainment industry."
+        ]
+      },
+      {
+        "h": "Significant Pay Cuts for Recent Projects",
+        "p": [
+          "Depp's financial landscape has clearly shifted in his more recent cinematic endeavors, including his role in the theatrical release Ebenezer. For this new take on the classic holiday story, the actor accepted a significantly reduced salary of $5 million.",
+          "This figure stands in stark contrast to the massive paychecks he commanded in the past, such as the reported $90 million he earned for Dead Men Tell No Tales and the $16 million he received for Fantastic Beasts: The Crimes of Grindelwald."
+        ]
+      },
+      {
+        "h": "Uncertain Future and Ongoing Speculation",
+        "p": [
+          "While stories of soaring fortunes followed by dramatic financial declines are relatively common in the worlds of sports and entertainment, the sheer scale of the numbers surrounding Depp remains striking. Speculation persists among fans regarding a potential future return to his iconic role as Jack Sparrow, though any such comeback appears distant.",
+          "Only time will reveal whether the celebrated actor can rebuild his earnings to match the heights of his past cinematic glory."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "A new biography titled The Many Faces of Johnny Depp utilizes 2017 court documents to detail how the actor amassed and subsequently lost a massive fortune through extravagant spending and financial mismanagement. While recent projects like Ebenezer reflect substantial pay cuts compared to his past blockbusters, the actor continues to navigate his career amid lingering speculation about his future roles."
+        ]
+      }
+    ],
+    "facts": [
+      "Johnny Depp earned massive paychecks from the Pirates of the Caribbean franchise starting in the summer of 2003.",
+      "Author Mark Seal wrote the new biography The Many Faces of Johnny Depp.",
+      "Court documents from 2017 revealed that Johnny Depp admitted to being hundreds of millions of dollars in debt.",
+      "His spending included a luxury yacht, 14 homes, pricey wine cases, jewelry, and a private island in the Bahamas.",
+      "Depp owed $100 million in back taxes to Uncle Sam, which he blamed on his former accountants and advisors.",
+      "Johnny Depp was paid $5 million for his role in the movie Ebenezer.",
+      "He previously earned a reported $90 million for Dead Men Tell No Tales.",
+      "He received a $16 million paycheck for Fantastic Beasts: The Crimes of Grindelwald."
+    ],
+    "entities": {
+      "people": [
+        "Johnny Depp",
+        "Mark Seal",
+        "Amber Heard",
+        "Jack Sparrow",
+        "Scrooge"
+      ],
+      "titles": [
+        "Pirates of the Caribbean",
+        "Ebenezer",
+        "The Many Faces of Johnny Depp",
+        "Dead Men Tell No Tales",
+        "Fantastic Beasts: The Crimes of Grindelwald"
+      ]
+    },
+    "keywords": [
+      "Johnny Depp",
+      "The Many Faces of Johnny Depp",
+      "Mark Seal",
+      "Ebenezer",
+      "Pirates of the Caribbean"
+    ],
+    "images": [
+      {
+        "url": "https://cdn.mos.cms.futurecdn.net/kbrPTcXToqEN7pQsHCzDsd-2000-80.jpg",
+        "caption": "Inside the Massive Fortunes Made and Lost by Hollywood Star Johnny Depp",
+        "source": "CinemaBlend"
+      }
+    ],
+    "published": "Fri, 20 Nov 2026 16:38:27 +0000"
+  },
+  "1hm03s4": {
+    "id": "1hm03s4",
+    "type": "news",
+    "headline": "Actor Ketan Karande Claims He Quit As Aishwarya Rai's Bodyguard After Two Days Due To Salman Khan",
+    "dek": "Actor and bodybuilder Ketan Karande recently shared details on a podcast about his brief stint protecting Aishwarya Rai Bachchan following her split from Salman Khan.",
+    "body": [
+      {
+        "h": "Introduction To The Viral Claims",
+        "p": [
+          "The past relationship and subsequent breakup of Bollywood stars Salman Khan and Aishwarya Rai continue to capture public interest years after the split. Recently, throwback photos and fresh discussions have brought the former couple back into the headlines following a revealing interview.",
+          "Actor and bodybuilder Ketan Karande became the center of attention after disclosing that he briefly worked as Aishwarya Rai's bodyguard during a turbulent period following her separation from Salman Khan. According to his statements, his tenure in this protective role lasted for only two days before he decided to walk away."
+        ]
+      },
+      {
+        "h": "Who Is Ketan Karande?",
+        "p": [
+          "Ketan Karande is an established actor and bodybuilder recognized for portraying Bhima in the Gautam Rode-starrer television series Suryaputra Karn on Sony TV. His acting credentials also include notable appearances in other prominent TV shows such as Mahabharat, Jodha Akhbar, and Chidiya Ghar.",
+          "In addition to television, Karande has stepped onto the silver screen with roles in major Hindi films. His cinematic credits feature appearances in the Amitabh Bachchan and Aamir Khan project Thugs Of Hindostan alongside Ajay Devgn's Action Jackson."
+        ]
+      },
+      {
+        "h": "Hired To Protect Against Salman Khan",
+        "p": [
+          "During his appearance on the Art Media Entertainment podcast, Karande revealed that he had never previously spoken about guarding the Devdas actress. When questioned by the interviewer regarding the specific reason for his appointment, he candidly noted that he was hired to protect her from Salman Khan.",
+          "The actor explained that his presence was meant to act as a safeguard during a tense phase in the actress's life. He stated that he had been brought on specifically to handle security related to the high-profile breakup."
+        ]
+      },
+      {
+        "h": "A Tense Fashion Show Encounter",
+        "p": [
+          "Karande recalled a particular incident involving a fashion show organized by Vikram Bhatt. He recounted that his team had safely escorted Aishwarya from her residence to the event venue without any initial complications.",
+          "However, once the fashion show concluded and they emerged from the venue, Salman Khan abruptly appeared in front of them. Unsure of how to handle the sudden confrontation, the driver ultimately chose to turn the vehicle away instead of stepping into a direct conflict."
+        ]
+      },
+      {
+        "h": "Leaving The Job And Mentioning A Gun",
+        "p": [
+          "Reflecting on the tense encounter, the interviewer probed further into the situation, leading Karande to suggest that Salman might have been carrying a gun. Karande remarked that he was a bodybuilder who wanted to avoid physical violence and stated he did not want to come between two people who were once in love.",
+          "Ultimately, Karande decided to quit his position on the second day. While his comments about a firearm sparked widespread discussion, he clarified that his primary motivation for leaving was that the security work was interfering with his strict bodybuilding routine."
+        ]
+      },
+      {
+        "h": "Background Of Aishwarya And Salman",
+        "p": [
+          "The romance between Salman Khan and Aishwarya Rai blossomed while working on the film Hum Dil De Chuke Sanam, making them one of the most celebrated couples in Bollywood at the time. Their eventual split, however, was accompanied by extensive public scrutiny and media attention.",
+          "In the years following their separation, Aishwarya Rai married Abhishek Bachchan in an intimate ceremony in April 2007, and the couple now shares a daughter named Aaradhya Bachchan. Meanwhile, Salman Khan has continued his prolific film career, with upcoming projects including Maatrabhumi."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Actor and bodybuilder Ketan Karande recently revealed on a podcast that he served as Aishwarya Rai's bodyguard for just two days following her breakup with Salman Khan. Karande stated he quit the position because it disrupted his bodybuilding routine, though he also commented on a tense encounter involving Salman and suggested the superstar might have been carrying a gun."
+        ]
+      }
+    ],
+    "facts": [
+      "Ketan Karande worked as Aishwarya Rai's bodyguard for two days.",
+      "Ketan Karande played Bhima in Suryaputra Karn on Sony TV.",
+      "Aishwarya Rai married Abhishek Bachchan in April 2007.",
+      "Salman Khan is gearing up for the release of Maatrabhumi."
+    ],
+    "entities": {
+      "people": [
+        "Ketan Karande",
+        "Aishwarya Rai Bachchan",
+        "Salman Khan",
+        "Gautam Rode",
+        "Amitabh Bachchan",
+        "Aamir Khan",
+        "Ajay Devgn",
+        "Vikram Bhatt",
+        "Abhishek Bachchan",
+        "Aaradhya Bachchan"
+      ],
+      "titles": [
+        "Hum Dil De Chuke Sanam",
+        "Suryaputra Karn",
+        "Mahabharat",
+        "Jodha Akhbar",
+        "Chidiya Ghar",
+        "Thugs Of Hindostan",
+        "Action Jackson",
+        "Devdas",
+        "Maatrabhumi"
+      ]
+    },
+    "keywords": [
+      "Ketan Karande Aishwarya Rai bodyguard",
+      "Salman Khan Aishwarya Rai split",
+      "Ketan Karande podcast interview",
+      "Aishwarya Rai bodyguard Salman Khan gun"
+    ],
+    "images": [
+      {
+        "url": "https://images.filmibeat.com/img/2026/11/salmankhanaishwaryaraibodyguard-29051795190137.jpg",
+        "caption": "Actor Ketan Karande Claims He Quit As Aishwarya Rai's Bodyguard After Two Days Due To Salman Khan",
+        "source": "FilmiBeat"
+      }
+    ],
+    "published": "Fri, 20 Nov 2026 21:56:37 +0530"
+  },
+  "14zgyc5": {
+    "id": "14zgyc5",
+    "type": "news",
+    "headline": "Lagan Lagi Brings Intense Drama and Emotional Turmoil to ARY Digital",
+    "dek": "Explore the gripping narrative, stellar cast, and dramatic emotional stakes of the popular television serial Lagan Lagi broadcasting on ARY Digital.",
+    "body": [
+      {
+        "h": "Introduction to the Serial",
+        "p": [
+          "Television audiences seeking compelling storytelling have turned their attention toward Lagan Lagi, a prominent drama series airing on ARY Digital. The show features complex emotional conflicts that resonate deeply with viewers who enjoy narrative-driven television.",
+          "As relationships face severe trials and unpredictable developments unfold, the central characters are forced to make hard decisions that define their upcoming paths."
+        ]
+      },
+      {
+        "h": "Plot Dynamics and Character Journeys",
+        "p": [
+          "At the heart of the narrative is Zunaira, whose journey involves handling various shades of romantic affection, emotional betrayal, and difficult life hurdles.",
+          "The story explores how characters react under pressure, bringing forward themes of heartbreak, loyalty, and personal growth against challenging backdrops."
+        ]
+      },
+      {
+        "h": "Star-Studded Cast and Performances",
+        "p": [
+          "The television serial boasts a talented ensemble cast that brings the script's emotional depth to life. Hina Chaudhary takes on the pivotal role of Zunaira.",
+          "She is joined by Saad Qureshi portraying Zaviyar and Haris Waheed playing Daniyal, alongside a supportive cast featuring Jaweria Ali, Hamza Majeed Khan, Kinza Malik, Ayesha Toor, Salma Zafar, Imran Aslam, Maham Amir, and Momina Bajwa."
+        ]
+      },
+      {
+        "h": "Creative Direction and Writing",
+        "p": [
+          "Behind the compelling dialogue and structured pacing is writer Rabia Razzaque, whose script shapes the intricate personal relationships within the series.",
+          "Director Bilawal Hussain Abbassi oversees the visual and emotional tone, ensuring each episode captures the required dramatic intensity and character nuance."
+        ]
+      },
+      {
+        "h": "Broadcast Schedule and Platform Access",
+        "p": [
+          "For dedicated fans wanting to catch every development, Lagan Lagi broadcasts every Monday through Friday at 9 PM exclusively on ARY Digital HD.",
+          "Viewers looking to follow the complete narrative and catch up on missed episodes can also access content through the ARY Plus application."
+        ]
+      },
+      {
+        "h": "Industry Context and Channel Legacy",
+        "p": [
+          "ARY Digital continues to serve as a major hub for high-quality Pakistani television productions, known for delivering relatable stories that capture public interest.",
+          "The network maintains a strong reputation for hosting continuous entertainment, regularly engaging large audiences through its diverse lineup of serials."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Lagan Lagi continues to air on ARY Digital from Monday to Friday at 9 PM, starring Hina Chaudhary, Saad Qureshi, and Haris Waheed. Written by Rabia Razzaque and directed by Bilawal Hussain Abbassi, the serial follows Zunaira through various emotional trials."
+        ]
+      }
+    ],
+    "facts": [
+      "Lagan Lagi airs every Monday to Friday at 9 PM on ARY Digital HD",
+      "Hina Chaudhary stars as Zunaira",
+      "Saad Qureshi stars as Zaviyar",
+      "Haris Waheed stars as Daniyal",
+      "Rabia Razzaque is the writer of the show",
+      "Bilawal Hussain Abbassi is the director of the show"
+    ],
+    "entities": {
+      "people": [
+        "Hina Chaudhary",
+        "Saad Qureshi",
+        "Haris Waheed",
+        "Jaweria Ali",
+        "Hamza Majeed Khan",
+        "Kinza Malik",
+        "Ayesha Toor",
+        "Salma Zafar",
+        "Imran Aslam",
+        "Maham Amir",
+        "Momina Bajwa",
+        "Rabia Razzaque",
+        "Bilawal Hussain Abbassi"
+      ],
+      "titles": [
+        "Lagan Lagi"
+      ]
+    },
+    "keywords": [
+      "Lagan Lagi ARY Digital",
+      "Hina Chaudhary Lagan Lagi",
+      "Haris Waheed Pakistani drama",
+      "Saad Qureshi Lagan Lagi"
+    ],
+    "images": [],
+    "published": "2026-11-20T16:35:37+00:00"
   }
 };
