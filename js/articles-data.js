@@ -199905,5 +199905,421 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Fri, 20 Nov 2026 09:11:09 GMT"
+  },
+  "sbnjby": {
+    "id": "sbnjby",
+    "type": "news",
+    "headline": "Charlie Puth Set for First Ever India Performance Alongside Ellie Goulding in Mumbai",
+    "dek": "American singer-songwriter Charlie Puth and British artist Ellie Goulding will headline the debut Johnnie Co. Festival at Mumbai’s Mahalaxmi Racecourse in February 2027.",
+    "body": [
+      {
+        "h": "The Long-Awaited India Debut",
+        "p": [
+          "International pop star Charlie Puth is preparing for his very first live performance in India, marking a major milestone in his touring career. He will be joined by British chart-topper Ellie Goulding as a co-headliner for the monumental event.",
+          "The announcement has generated immense excitement among South Asian fans who have waited years to witness the American singer-songwriter perform his global hits live on home soil."
+        ]
+      },
+      {
+        "h": "Festival Details and Venue",
+        "p": [
+          "The historic occasion forms the core of the inaugural Johnnie Co. Festival, a brand-new live entertainment and creative collaboration platform launched by Johnnie Walker Luxe Blended Water.",
+          "The massive one-day musical extravaganza is officially scheduled to take place on February 13, 2027, transforming Mumbai’s iconic Mahalaxmi Racecourse into a vibrant hub for international pop culture."
+        ]
+      },
+      {
+        "h": "Artist Statements on the Upcoming Tour",
+        "p": [
+          "Expressing his enthusiasm for the upcoming journey, Charlie Puth shared that he has heard incredible things about the passion of Indian crowds. He noted that he is thrilled to finally bring his music to the region for the first time.",
+          "The artist added that he looks forward to sharing his favourite songs with everyone in Mumbai on February 13, emphasizing how live music uniquely fosters connection and shared energy among diverse audiences."
+        ]
+      },
+      {
+        "h": "Star-Studded Lineup and Local Talent",
+        "p": [
+          "While Puth and Goulding serve as the primary international headliners, the festival will also highlight a diverse array of celebrated regional Indian acts to bridge global and local sounds.",
+          "Confirmed domestic performers include Kayan, Taba Chake, Mali, and Gini, with organizers hinting that additional musical acts will be revealed closer to the event date."
+        ]
+      },
+      {
+        "h": "Musical Backgrounds of the Headliners",
+        "p": [
+          "Charlie Puth enters this landmark concert following the release of his latest studio album, titled Whatever's Clever. The four-time Grammy nominee brings a massive catalog of career-defining hits including Attention, We Don't Talk Anymore, and See You Again.",
+          "Meanwhile, British co-headliner Ellie Goulding brings her own powerhouse discography to the Mumbai stage, promising to treat fans to iconic fan-favourite anthems such as Love Me Like You Do, Burn, and Lights."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "American singer Charlie Puth and British artist Ellie Goulding will headline the first Johnnie Co. Festival at Mumbai’s Mahalaxmi Racecourse on February 13, 2027. The event marks Puth's debut performance in India and features a supporting lineup of local Indian artistes."
+        ]
+      }
+    ],
+    "facts": [
+      "Charlie Puth will make his India debut on February 13, 2027.",
+      "Ellie Goulding will perform alongside Charlie Puth at the festival.",
+      "The event is the inaugural Johnnie Co. Festival at Mumbai’s Mahalaxmi Racecourse.",
+      "Charlie Puth is a four-time Grammy nominee.",
+      "Charlie Puth's latest album is Whatever's Clever.",
+      "Indian artistes performing include Kayan, Taba Chake, Mali, and Gini."
+    ],
+    "entities": {
+      "people": [
+        "Charlie Puth",
+        "Ellie Goulding",
+        "Kayan",
+        "Taba Chake",
+        "Mali",
+        "Gini"
+      ],
+      "titles": [
+        "Attention",
+        "We Don't Talk Anymore",
+        "See You Again",
+        "Whatever's Clever",
+        "Love Me Like You Do",
+        "Burn",
+        "Lights"
+      ]
+    },
+    "keywords": [
+      "Charlie Puth India debut",
+      "Ellie Goulding Mumbai concert",
+      "Johnnie Co. Festival Mahalaxmi Racecourse",
+      "Charlie Puth February 2027"
+    ],
+    "images": [
+      {
+        "url": "https://www.hindustantimes.com/ht-img/img/2026/11/20/1600x900/logo/Charlie_and_Ellie_India_Debut__1795174361459_efOg_1795174361599_s2HR_8598e916-c44b-47d2-a522-aff7849f7152_kRHY.jpg",
+        "caption": "Charlie Puth Set for First Ever India Performance Alongside Ellie Goulding in Mumbai",
+        "source": "Hindustan Times — Entertainment"
+      }
+    ],
+    "published": "Fri, 20 Nov 2026 17:05:05 +0530"
+  },
+  "6h5y98": {
+    "id": "6h5y98",
+    "type": "news",
+    "headline": "Quentin Tarantino's Debut Play 'The Popinjay Cavalier' Expands West End Schedule and Reveals Complete Cast",
+    "dek": "The Oscar-winning filmmaker's first stage production has extended its London run at the Phoenix Theatre, featuring a star-studded ensemble led by Sacha Baron Cohen.",
+    "body": [
+      {
+        "h": "West End Extension Announced",
+        "p": [
+          "Quentin Tarantino is extending his stay in London's theater scene following significant interest in his upcoming theatrical debut. The acclaimed filmmaker's first ever stage production has pushed back its final curtain call, securing an extended performance schedule at the Phoenix Theatre.",
+          "Originally planned for a standard theatrical engagement, the production will now continue entertaining London audiences well into late 2027. The extended timeline reflects mounting anticipation for the high-profile project in the heart of the West End."
+        ]
+      },
+      {
+        "h": "Opening Timeline and Production Team",
+        "p": [
+          "The theatrical venture is scheduled to officially open its doors to audiences on March 18. Backing the ambitious project are major industry players Sony Pictures Entertainment and Sonia Friedman Productions.",
+          "Tarantino takes complete creative control over the production, serving as both the writer and director. This marks a major career shift for the Oscar-winning director as he transitions from feature films to live theater."
+        ]
+      },
+      {
+        "h": "Setting and Creative Inspiration",
+        "p": [
+          "Set against the backdrop of 1830s Europe, the production is characterized as a rambunctious comedy centered on themes of deception and disguise. Organizers describe the work as a sweeping celebration of the theater medium and its heightened romantic traditions.",
+          "While specific plot details remain closely guarded, the narrative draws clear inspiration from the classic swashbuckler genre of old Hollywood. The writer-director specifically looked to historical writings by George Bruce, Ernst Vajda, and Jesse Lasky Jr. for tone and atmosphere."
+        ]
+      },
+      {
+        "h": "Starring Sacha Baron Cohen",
+        "p": [
+          "Leading the extensive ensemble cast is prominent actor Sacha Baron Cohen, who anchors the narrative in the primary starring role. His involvement was secured swiftly after receiving the personal invitation from the director.",
+          "Reflecting on his casting last month, Baron Cohen shared his characteristic enthusiasm about the collaboration. He noted that when a top-tier director reaches out, no hesitation is necessary, humorously joking about their upcoming joint introduction to the West End."
+        ]
+      },
+      {
+        "h": "Supporting Ensemble and Musical Talent",
+        "p": [
+          "The production has officially unveiled its complete supporting roster, featuring a diverse mix of notable screen and stage actors. Joining the lead star are Harry Hadden-Paton, Mark Hadfield, Nigel Lindsay, Kat Ronney, and composer Anna Phoebe.",
+          "The remainder of the massive company includes George Blagden, Isis Cass-Clunie, Bryony Corrigan, Gavin Dunn, Ellis Elijah, James Gill, Chris Gordon, James Grimstone, Florence Guy, Shane Hampden, Tom Kelsey, Stephen Louis, Eoin McKenna, Sam Newton, Emily Odunsi, Jaden Oshenye, Sebastian Parker, Claire Price, Alfie Sherwood, Seb Slade, Hadley Smith, Jason Thorpe, John Vernon, Kai Virgo, and Amber Weston."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Quentin Tarantino's debut stage play, 'The Popinjay Cavalier,' has extended its West End run at the Phoenix Theatre through September 12, 2027, following an official opening date of March 18. Written and directed by the Oscar winner and backed by Sony Pictures Entertainment and Sonia Friedman Productions, the 1830s European comedy is led by Sacha Baron Cohen alongside a newly revealed full cast."
+        ]
+      }
+    ],
+    "facts": [
+      "Quentin Tarantino's first play is titled 'The Popinjay Cavalier'",
+      "The production performs at the Phoenix Theatre",
+      "The West End run is extended until Sep. 12 2027",
+      "The production opens on March 18",
+      "Sacha Baron Cohen leads the cast",
+      "Written and directed by Quentin Tarantino",
+      "Set in 1830s Europe",
+      "Inspired by classic swashbuckler genre of old Hollywood, including George Bruce, Ernst Vajda and Jesse Lasky Jr.",
+      "Backed by Sony Pictures Entertainment and Sonia Friedman Productions",
+      "Supporting cast includes Harry Hadden-Paton, Mark Hadfield, Nigel Lindsay, Kat Ronney, and Anna Phoebe"
+    ],
+    "entities": {
+      "people": [
+        "Quentin Tarantino",
+        "Sacha Baron Cohen",
+        "George Bruce",
+        "Ernst Vajda",
+        "Jesse Lasky Jr.",
+        "Harry Hadden-Paton",
+        "Mark Hadfield",
+        "Nigel Lindsay",
+        "Kat Ronney",
+        "Anna Phoebe",
+        "George Blagden",
+        "Isis Cass-Clunie",
+        "Bryony Corrigan",
+        "Gavin Dunn",
+        "Ellis Elijah",
+        "James Gill",
+        "Chris Gordon",
+        "James Grimstone",
+        "Florence Guy",
+        "Shane Hampden",
+        "Tom Kelsey",
+        "Stephen Louis",
+        "Eoin McKenna",
+        "Sam Newton",
+        "Emily Odunsi",
+        "Jaden Oshenye",
+        "Sebastian Parker",
+        "Claire Price",
+        "Alfie Sherwood",
+        "Seb Slade",
+        "Hadley Smith",
+        "Jason Thorpe",
+        "John Vernon",
+        "Kai Virgo",
+        "Amber Weston"
+      ],
+      "titles": [
+        "The Popinjay Cavalier",
+        "Downton Abbey",
+        "The Crown",
+        "Outlander",
+        "Wallander",
+        "Victoria",
+        "Four Lions",
+        "Finding Emily",
+        "Peaky Blinders",
+        "Black Mirror"
+      ]
+    },
+    "keywords": [
+      "The Popinjay Cavalier play",
+      "Quentin Tarantino West End",
+      "Sacha Baron Cohen play",
+      "The Popinjay Cavalier cast"
+    ],
+    "images": [
+      {
+        "url": "https://variety.com/wp-content/uploads/2026/11/The-Popinjay-Cavalier.jpg?w=1000&#038;h=563&#038;crop=1",
+        "caption": "Quentin Tarantino's Debut Play 'The Popinjay Cavalier' Expands West End Schedule and Reveals Complete Cast",
+        "source": "Variety"
+      }
+    ],
+    "published": "Fri, 20 Nov 2026 10:58:10 +0000"
+  },
+  "1tswiwr": {
+    "id": "1tswiwr",
+    "type": "news",
+    "headline": "Bigg Boss 20 Episode 76 Release Time, JioHotstar Streaming Details, and Love Gill vs Yung DSA Clash",
+    "dek": "Bigg Boss Season 20 reaches its eleventh week as Salman Khan hosts the reality show, featuring new immunity tasks, rising tensions, and a fresh clash between Love Gill and Yung DSA ahead of the weekend elimination.",
+    "body": [
+      {
+        "h": "Entering the Eleventh Week of Competition",
+        "p": [
+          "As Bigg Boss Season 20 advances into its eleventh week, the race toward the ultimate grand finale has become significantly more intense. The ongoing reality show, spearheaded by host Salman Khan, continues to put housemates under immense pressure as the competition narrows down.",
+          "With fewer participants left inside the house, securing audience votes has become vital for survival. The recent nominations have placed multiple contestants directly in the danger zone, setting the stage for high-stakes drama leading into the upcoming Weekend Ka Vaar episode."
+        ]
+      },
+      {
+        "h": "Season Eviction History So Far",
+        "p": [
+          "Ever since the reality series officially premiered on September 6, a total of six contestants have been shown the exit door through various eliminations. The growing list of evictions has steadily altered the dynamics and power structures within the house.",
+          "Rohed Khan was the first individual to be evicted from the season, followed sequentially by Isha Rikhi, Rhiti Tiwari, Aman Gandhi, Mary Kom, and Aasif Khan. The upcoming Weekend Ka Vaar carries the potential to deliver the seventh eviction of the season."
+        ]
+      },
+      {
+        "h": "Immunity Task and Arishfa Khan's Victory",
+        "p": [
+          "During the episode broadcast on November 19, an important immunity task was organized between two contrasting contestants chosen by current house captain Uditi Singh. The matchup pitted Uditi's most favored contestant, Arishfa Khan, against her least favored housemate, Love Gill.",
+          "Both participants fought hard during the physical and mental challenge, but Arishfa ultimately emerged victorious. Winning the task granted her complete immunity, successfully saving her from the chopping block and potential elimination for the week."
+        ]
+      },
+      {
+        "h": "Rising Tensions Between Love Gill and Yung DSA",
+        "p": [
+          "The competitive environment has also ignited personal conflicts, particularly between former buddies Love Gill and Yung DSA. During the recent immunity task, the two engaged in a notably heated argument that strained their relationship further.",
+          "Promos indicate that the hostility will spill over into the washroom area. Housemate Uditi Singh reportedly discovers hidden food items among the plants, leading residents to suspect Love and Gullu of hoarding supplies."
+        ]
+      },
+      {
+        "h": "Nasty Washroom Showdown and Name-Calling",
+        "p": [
+          "As the housemates actively discuss the hidden food situation, a full-blown argument erupts between Love Gill and Yung DSA. During the confrontation, Yung reportedly hurls insults at the rapper, specifically calling her a 'nevala'.",
+          "The explosive exchange has left viewers eager to witness how Love responds to the provocative remark. Such confrontations continue to shift alliances and disrupt existing equations among the remaining competitors."
+        ]
+      },
+      {
+        "h": "Streaming and Broadcast Schedule",
+        "p": [
+          "Bigg Boss 20 maintains its regular daily broadcasting format for the current week, with no alterations announced for the weekend episodes. Digital consumers can stream Episode 76 on JioHotstar starting at 9 PM.",
+          "For traditional television viewers, the episode is scheduled to air on Colors TV at 10:30 PM. This identical viewing timetable applies to the preceding episodes as well, catering to both digital and linear television audiences."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Bigg Boss 20 moves into its eleventh week with Salman Khan hosting as housemates face intense elimination pressures. An immunity task saw Arishfa Khan defeat Love Gill to secure safety, while Love and Yung DSA clashed over hidden food items."
+        ]
+      }
+    ],
+    "facts": [
+      "Bigg Boss 20 is in its 11th week.",
+      "The show premiered on September 6.",
+      "Six contestants have been evicted so far: Rohed Khan, Isha Rikhi, Rhiti Tiwari, Aman Gandhi, Mary Kom, and Aasif Khan.",
+      "Arishfa Khan won an immunity task against Love Gill on November 19.",
+      "Episode 76 streams on JioHotstar at 9 PM and telecasts on Colors TV at 10:30 PM on November 20."
+    ],
+    "entities": {
+      "people": [
+        "Salman Khan",
+        "Rohed Khan",
+        "Isha Rikhi",
+        "Rhiti Tiwari",
+        "Aman Gandhi",
+        "Mary Kom",
+        "Aasif Khan",
+        "Uditi Singh",
+        "Arishfa Khan",
+        "Love Gill",
+        "Yung DSA",
+        "Gullu"
+      ],
+      "titles": [
+        "Bigg Boss 20",
+        "Bigg Boss Season 20"
+      ]
+    },
+    "keywords": [
+      "Bigg Boss 20",
+      "Love Gill",
+      "Yung DSA",
+      "Arishfa Khan",
+      "Salman Khan"
+    ],
+    "images": [
+      {
+        "url": "https://images.filmibeat.com/img/2026/11/biggboss20nov20eptimed1-20111795173246.jpg",
+        "caption": "Bigg Boss 20 Episode 76 Release Time, JioHotstar Streaming Details, and Love Gill vs Yung DSA Clash",
+        "source": "FilmiBeat"
+      }
+    ],
+    "published": "Fri, 20 Nov 2026 16:46:31 +0530"
+  },
+  "1v7o6jf": {
+    "id": "1v7o6jf",
+    "type": "news",
+    "headline": "Yellowjackets Season 4 Final Chapter Begins on Paramount+",
+    "dek": "The acclaimed survival drama returns for its final outing, following the survivors through their 1990s rescue and new modern-day chaos.",
+    "body": [
+      {
+        "h": "The Final Chapter Begins",
+        "p": [
+          "Yellowjackets is returning for its fourth and final season, bringing the survival drama to a definitive close. More than 18 months have passed since the season 3 finale answered long-running mysteries and featured multiple unexpected deaths.",
+          "The new instalment explores two distinct timelines, dealing with the fallout of the wilderness and fresh complications in the present day."
+        ]
+      },
+      {
+        "h": "Timeline Shifts and Cast Changes",
+        "p": [
+          "In the 1990s timeline, the teen girls are finally rescued and must figure out how to keep what happened in the wilderness hidden. Meanwhile, the modern-day timeline introduces an old flame returning to town with plans of her own.",
+          "Sophie Nélisse, who plays teen Shauna, noted that the final chapter felt like a completely different show. She mentioned the surreal experience of wearing normal clothing and having a mother, though she missed sharing scenes with the entire ensemble cast."
+        ]
+      },
+      {
+        "h": "Release Schedule and Episodes",
+        "p": [
+          "Yellowjackets season 4 premiered on Paramount+ with the premium plan on 20 November 2026, with new episodes releasing weekly. The ten-episode run kicks off with the season opener titled Hivemind.",
+          "Subsequent episodes will roll out weekly through January 2027, concluding the series with a structured release pattern on the streaming platform."
+        ]
+      },
+      {
+        "h": "Returning Stars and New Additions",
+        "p": [
+          "A mix of familiar faces and new guest stars comprise the final season's ensemble. Returning actors include Melanie Lynskey as adult Shauna, Christina Ricci as adult Misty, Tawny Cypress as adult Taissa, and Sophie Nélisse as teen Shauna.",
+          "New additions joining the cast for the final run include Molly Ringwald as Vicky Palmer and June Squibb as Geraldine, expanding the world of the drama."
+        ]
+      },
+      {
+        "h": "Plot Background and Season 3 Aftermath",
+        "p": [
+          "The previous season finale resolved major mysteries, including revealing Mari as the Pit Girl and showing Shauna assume the identity of the Antler Queen. Teen Natalie also made official contact with civilisation, paving the way for the rescue.",
+          "In the present day, the group fractured further after tragic events involving Lottie, Van, and Taissa turning against Shauna, whom they blame for the ongoing chaos."
+        ]
+      },
+      {
+        "h": "Co-Creator Insights on Natalie's Role",
+        "p": [
+          "Co-creator Ashley Lyle discussed teen Natalie's pivotal role in contacting the outside world. Lyle noted that Natalie was always intended to be the tip of the spear who initiates their return home.",
+          "While salvation arrives for the survivors, Lyle hinted that what follows the rescue remains complicated and subject to debate among the characters."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Yellowjackets has returned to Paramount+ for its fourth and final season, bringing the survival drama to a close with weekly episode releases. The final outing explores the aftermath of the 1990s rescue and new conflicts in the modern-day timeline with a mix of returning and new cast members."
+        ]
+      }
+    ],
+    "facts": [
+      "Yellowjackets season 4 premiered on 20 November 2026 on Paramount+.",
+      "Sophie Nélisse plays teen Shauna in the series.",
+      "Ashley Lyle is a co-creator of Yellowjackets.",
+      "Molly Ringwald and June Squibb joined the cast for the final season."
+    ],
+    "entities": {
+      "people": [
+        "Helen Daly",
+        "Sophie Nélisse",
+        "Kevin Alves",
+        "Anisa Harris",
+        "Jenna Burgess",
+        "Courtney Eaton",
+        "Melanie Lynskey",
+        "Christina Ricci",
+        "Tawny Cypress",
+        "Sophie Thatcher",
+        "Samantha Hanratty",
+        "Liv Hewson",
+        "Warren Kole",
+        "Sarah Desjardins",
+        "Nia Sondaya",
+        "Hilary Swank",
+        "Molly Ringwald",
+        "June Squibb",
+        "Ashley Lyle"
+      ],
+      "titles": [
+        "Yellowjackets"
+      ]
+    },
+    "keywords": [
+      "Yellowjackets season 4",
+      "Yellowjackets release date",
+      "Sophie Nélisse Yellowjackets",
+      "Yellowjackets Paramount plus"
+    ],
+    "images": [
+      {
+        "url": "https://images.production.immediate.co.uk/volatile/sites/3/2023/03/adult-shauna-3a70e9c.jpg?resize=1200%2C630",
+        "caption": "Yellowjackets Season 4 Final Chapter Begins on Paramount+",
+        "source": "Radio Times"
+      }
+    ],
+    "published": "Fri, 20 Nov 2026 10:03:39 GMT"
   }
 };
