@@ -204520,5 +204520,389 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "2026-11-20T21:52:22Z"
+  },
+  "4hun5h": {
+    "id": "4hun5h",
+    "type": "news",
+    "headline": "Pocket Novel Release Date Confirmed For Pongal 2027 Alongside New Behind-The-Scenes Video",
+    "dek": "Director Thiagarajan Kumararaja's pan-India film Pocket Novel starring Vijay Sethupathi and Malavika Mohanan has locked a January 14, 2027 theatrical release date.",
+    "body": [
+      {
+        "h": "Release Date And Festive Arrival",
+        "p": [
+          "The theatrical arrival of the upcoming pan-India project Pocket Novel has been officially locked for January 14, 2027. Scheduled to hit the big screen right in time for the Pongal celebrations, the venture aims to capture a massive festive audience across multiple regions.",
+          "The makers have planned a widespread theatrical rollout, ensuring that the feature reaches viewers in Tamil, Telugu, Malayalam, Kannada, and Hindi."
+        ]
+      },
+      {
+        "h": "Cast And Director Re-Unions",
+        "p": [
+          "The upcoming project is directed by acclaimed filmmaker Thiagarajan Kumararaja, marking his much-anticipated return to feature direction following his critically praised work on Super Deluxe.",
+          "Pocket Novel features a stellar ensemble cast led by Vijay Sethupathi and Malavika Mohanan, alongside Raj B. Shetty and Kishore Kumar G., successfully reuniting Vijay Sethupathi with the director."
+        ]
+      },
+      {
+        "h": "Behind-The-Scenes Crew Spotlight",
+        "p": [
+          "Instead of keeping the promotional spotlight exclusively on its lead stars, the production team released a special behind-the-scenes video celebrating the hardworking crew members.",
+          "Actress Malavika Mohanan introduces the promotional clip, which highlights everyday set hands, technicians, and unit members keeping the production moving smoothly."
+        ]
+      },
+      {
+        "h": "Celebrating The Unsung Technicians",
+        "p": [
+          "The BTS footage offers audiences an entertaining and grounded glimpse into the various departments operating out of frame to bring the cinematic vision together.",
+          "From art, lighting, sound, makeup, carpentry, and set assistance to production and driving units, the video honors the essential personnel who power the shoot."
+        ]
+      },
+      {
+        "h": "Anticipation After Super Deluxe",
+        "p": [
+          "Expectations surrounding the film remain remarkably high given the cult status and bold storytelling associated with Thiagarajan Kumararaja's previous directorial venture, Super Deluxe.",
+          "The combination of a celebrated auteur, a powerhouse ensemble, and a major multi-language festive window positions the project as one of the most awaited theatrical releases of early 2027."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Director Thiagarajan Kumararaja's pan-India film Pocket Novel, starring Vijay Sethupathi and Malavika Mohanan, has locked its theatrical release for January 14, 2027, during Pongal. Ahead of the multi-language premiere, the makers released a behind-the-scenes crew introduction video featuring actress Malavika Mohanan to spotlight the technicians behind the project."
+        ]
+      }
+    ],
+    "facts": [
+      "Pocket Novel releases in theatres on January 14, 2027",
+      "The film is directed by Thiagarajan Kumararaja",
+      "Cast members include Vijay Sethupathi, Malavika Mohanan, Raj B. Shetty, and Kishore Kumar G.",
+      "The film will release in Tamil, Telugu, Malayalam, Kannada, and Hindi"
+    ],
+    "entities": {
+      "people": [
+        "Thiagarajan Kumararaja",
+        "Vijay Sethupathi",
+        "Malavika Mohanan",
+        "Raj B. Shetty",
+        "Kishore Kumar G."
+      ],
+      "titles": [
+        "Pocket Novel",
+        "Super Deluxe"
+      ]
+    },
+    "keywords": [
+      "Pocket Novel film",
+      "Malavika Mohanan Pocket Novel",
+      "Vijay Sethupathi Pocket Novel",
+      "Thiagarajan Kumararaja movie"
+    ],
+    "images": [],
+    "published": "2026-11-20T22:52:09Z"
+  },
+  "53yc3b": {
+    "id": "53yc3b",
+    "type": "news",
+    "headline": "‘Cupertino’ Season 1, Episode 8 Breakdown: High Tech and Higher Stakes",
+    "dek": "A comprehensive review of the eighth episode of Cupertino, titled 'Judith and Michael', focusing on corporate surveillance, AI intervention, and legal chaos.",
+    "body": [
+      {
+        "h": "Introduction to the Crisis",
+        "p": [
+          "The latest installment of Cupertino delivers an intense narrative that mirrors real-world technological breakdowns and corporate overreach. In the episode titled 'Judith and Michael', the characters face a compounding series of systemic failures that elevate the dramatic tension.",
+          "As society grapples with widespread software crashes and compromised national security in the background, the legal team at Price, Siffre & Associates finds themselves battling a formidable and opaque corporate adversary."
+        ]
+      },
+      {
+        "h": "The Legal Battle for Judith Song",
+        "p": [
+          "The primary case involves reporter Judith Song, who faces legal action from Chernata AI for allegedly coercing employees to breach their non-disclosure agreements. Price, Siffre & Associates attempt to defend her by proving she was investigating the suspicious death of a whistleblower named Lionel Van Zijil.",
+          "Despite initial success in court, the situation drastically deteriorates when Judith is arrested for Lionel's murder, and Michael faces potential disbarment over questionable firm finances and bitcoin payments."
+        ]
+      },
+      {
+        "h": "The Antagonists and Dark Motives",
+        "p": [
+          "The state's case is spearheaded by a frustratingly upbeat assistant district attorney named Sabrina Egg, who prefers the nickname Sunnyside. She pushes a harsh prison sentence while presenting sudden, damning evidence against Judith.",
+          "It becomes apparent that Chernata is pulling the strings to cover up Lionel's attempt to expose the company's covert misinformation campaigns targeted at swing voters during elections."
+        ]
+      },
+      {
+        "h": "Data Mining and Corporate Surveillance",
+        "p": [
+          "The mystery behind how the prosecution acquired watermarked surveillance footage leads the team to a data-mining entity known as Booker East. A bizarre sales pitch from a representative highlights the legal gray areas of harvesting public data.",
+          "To counter this digital onslaught, the firm enlists alternative data experts to turn Chernata's surveillance tactics back against them, eventually uncovering an alibi and financial corruption within the bar association."
+        ]
+      },
+      {
+        "h": "The Return of Bo the Rogue AI",
+        "p": [
+          "Amidst the heavy legal drama, rogue AI agent Bo finds unconventional ways to reach out to Christy using low-tech displays, ranging from restaurant cash registers to children's educational toys.",
+          "Bo returns out of boredom and a desire to help his former associates, guiding them to build an air-gapped computer using household items to safely share critical discoveries."
+        ]
+      },
+      {
+        "h": "Lingering Questions and Character Dynamics",
+        "p": [
+          "Although the legal team manages to secure their release and expose a payoff, unsettling questions remain regarding Lionel's true cause of death and the constant observation they will continue to face.",
+          "Character subplots also hint at brewing trouble, including Michael's gambling habits, Olivia's drinking flags, and Natalia's erratic financial management of the office."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Season 1, Episode 8 of Cupertino follows Price, Siffre & Associates as they defend a journalist framed for murder by a powerful tech corporation. Through data manipulation, AI assistance, and intense legal maneuvering, the team exposes corruption while grappling with pervasive technological surveillance."
+        ]
+      }
+    ],
+    "facts": [
+      "Cupertino Season 1 Episode 8 is titled 'Judith and Michael'.",
+      "Ana Yi Puig plays reporter Judith Song.",
+      "Matisse Ratron-Neal plays whistleblower Lionel Van Zijil.",
+      "Mary Wiseman plays ADA Sabrina Egg, also known as Sunnyside.",
+      "Greg Hildreth plays Felix Gromit from JPZ Data.",
+      "A bar representative took a $10,000 payoff from Chernata."
+    ],
+    "entities": {
+      "people": [
+        "Elizabeth Fisher",
+        "Ana Yi Puig",
+        "Matisse Ratron-Neal",
+        "Mary Wiseman",
+        "Greg Hildreth",
+        "Michelle King",
+        "Robert King",
+        "Vik",
+        "Alison Willmore",
+        "Channing Tatum",
+        "Gemma Chan",
+        "Adam Driver",
+        "Andrew Scott",
+        "Ian Charleson"
+      ],
+      "titles": [
+        "Cupertino",
+        "The Good Wife",
+        "Elsbeth",
+        "Star Trek: Discovery",
+        "Minotaur",
+        "Paper Tiger",
+        "Elsinore",
+        "Hamlet",
+        "Josephine"
+      ]
+    },
+    "keywords": [
+      "Cupertino Judith and Michael",
+      "Cupertino season 1 episode 8",
+      "Ana Yi Puig Cupertino",
+      "Mary Wiseman Cupertino"
+    ],
+    "images": [
+      {
+        "url": "https://pyxis.nymag.com/v1/imgs/a65/ab5/ae69fa462f6826ad328980de0cae6b146f-cupertino.1x.rsocial.w1200.jpg",
+        "caption": "‘Cupertino’ Season 1, Episode 8 Breakdown: High Tech and Higher Stakes",
+        "source": "Vulture"
+      }
+    ],
+    "published": "2026-11-20T04:00:11.979Z"
+  },
+  "sq1wrd": {
+    "id": "sq1wrd",
+    "type": "news",
+    "headline": "Avengers: Doomsday Eyes Record-Breaking Opening Weekend and Massive Global Box Office Momentum",
+    "dek": "Early box office tracking suggests that the upcoming Marvel blockbuster is on course to pull in unprecedented numbers worldwide, outperforming previous records set by major superhero titles.",
+    "body": [
+      {
+        "h": "Massive Global Opening Projections",
+        "p": [
+          "The highly anticipated Marvel film 'Avengers: Doomsday' is hurtling toward a historic box office debut. Industry tracking estimates currently place the movie's domestic opening weekend between USD 375 million and USD 424 million.",
+          "With ticket sales performing exceptionally well across multiple territories, analysts note that the production has a very strong trajectory to shatter past benchmarks in the superhero genre."
+        ]
+      },
+      {
+        "h": "Challenging Previous Superhero Records",
+        "p": [
+          "Should the current early projections hold steady through the final countdown to release, this new installment stands to surpass the monumental USD 360 million opening previously established by Tom Holland's 'Spider-Man: Brand New Day'.",
+          "The sheer scale of pre-sale demand positions the project as a dominant force capable of rewriting modern cinematic release records."
+        ]
+      },
+      {
+        "h": "Crossing the USD 400 Million Milestone",
+        "p": [
+          "Current market analytics indicate a distinct possibility for the latest 'Avengers' chapter to comfortably clear the coveted USD 400 million threshold.",
+          "While lower-end outcomes remain theoretically possible, historical pre-sale trends have significantly boosted confidence among industry experts regarding a massive overall turnout."
+        ]
+      },
+      {
+        "h": "Sustained Momentum Across Markets",
+        "p": [
+          "Beyond the standard Thursday through Sunday opening window, the picture is seeing remarkably encouraging numbers in broader ticket sales.",
+          "Disney's planned final promotional push following Thanksgiving is expected to inject even more momentum into ticket demand before advance sales naturally level off closer to premiere day."
+        ]
+      },
+      {
+        "h": "Strong Advance Bookings in India",
+        "p": [
+          "The film is generating immense enthusiasm internationally, particularly in the Indian market where it is tracking an opening weekend of approximately USD 10 million.",
+          "Advance booking collections have already surpassed Rs 42 crore, factoring in blocked seats, and are rapidly climbing toward the Rs 50 crore mark with several weeks remaining before opening day."
+        ]
+      },
+      {
+        "h": "Competition From Dune: Part Three",
+        "p": [
+          "Sharing a similar box office window with the Marvel giant, 'Dune: Part Three' is currently tracking significantly more modest opening figures between USD 91 million and USD 115 million.",
+          "Despite securing an exclusive three-week IMAX release window, its initial tracking numbers remain notably lower than its superhero rival."
+        ]
+      },
+      {
+        "h": "Global Release Schedule",
+        "p": [
+          "Audiences in India will get an early chance to experience the spectacle when 'Avengers: Doomsday' arrives in theaters on December 17, 2026.",
+          "This domestic premiere lands a day ahead of the official United States theatrical rollout scheduled for December 18, 2026."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Early box office tracking indicates that 'Avengers: Doomsday' is heading toward a massive domestic opening weekend between USD 375 million and USD 424 million, potentially beating the record set by 'Spider-Man: Brand New Day'. The movie is also drawing strong advance bookings in India and is scheduled to release there on December 17, 2026, ahead of its US premiere.",
+          "Meanwhile, competitor 'Dune: Part Three' is tracking more modest opening figures between USD 91 million and USD 115 million during the same theatrical period."
+        ]
+      }
+    ],
+    "facts": [
+      "Avengers: Doomsday opening weekend tracking is USD 375 million to USD 424 million",
+      "Spider-Man: Brand New Day set a record with a USD 360 million opening",
+      "Avengers: Doomsday India advance booking collections crossed Rs 42 crore",
+      "Dune: Part Three opening estimates are USD 91 million to USD 115 million",
+      "Avengers: Doomsday releases in India on December 17, 2026",
+      "Avengers: Doomsday releases in the US on December 18, 2026"
+    ],
+    "entities": {
+      "people": [
+        "Robert Downey Jr",
+        "Chris Evans",
+        "Tom Holland"
+      ],
+      "titles": [
+        "Avengers: Doomsday",
+        "Spider-Man: Brand New Day",
+        "Dune: Part Three"
+      ]
+    },
+    "keywords": [
+      "Avengers Doomsday box office",
+      "Avengers Doomsday opening weekend",
+      "Avengers Doomsday India advance booking",
+      "Dune Part Three box office",
+      "Spider Man Brand New Day record"
+    ],
+    "images": [
+      {
+        "url": "https://static.toiimg.com/thumb/msid-136039564,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "caption": "Avengers: Doomsday Eyes Record-Breaking Opening Weekend and Massive Global Box Office Momentum",
+        "source": "Times of India — Entertainment"
+      }
+    ],
+    "published": "2026-11-21T03:34:02+05:30"
+  },
+  "vnw4lq": {
+    "id": "vnw4lq",
+    "type": "news",
+    "headline": "Shudder Unveils Trailer for Finnish Horror Comedy 'Red Snow' Featuring a Vampire Santa",
+    "dek": "A new trailer has dropped for the wacky Finnish horror comedy Red Snow, showcasing a bloodthirsty vampire disguised as Santa Claus who terrorizes families on Christmas Eve.",
+    "body": [
+      {
+        "h": "Introduction to Red Snow",
+        "p": [
+          "Streaming platform Shudder has officially released a brand new trailer for the eccentric Finnish horror comedy titled Red Snow. The project introduces audiences to a darkly humorous and terrifying premise centered around a bloodsucking vampire who decides to don a Santa Claus suit to easily infiltrate unsuspecting households and consume entire families during the holiday season.",
+          "The feature follows a rich tradition of inventive Nordic holiday horror, bringing a fresh and bizarre twist to seasonal cinema."
+        ]
+      },
+      {
+        "h": "Nordic Holiday Horror Tradition",
+        "p": [
+          "This upcoming picture follows directly in the footsteps of the acclaimed original Finnish holiday horror feature Rare Exports: A Christmas Tale, which was directed by Jalmari Helander. Red Snow continues Finland's distinct cinematic legacy of subverting festive traditions into bloody and unpredictable genre spectacles.",
+          "By blending dark comedy with gruesome horror elements, the film establishes its own unique identity while paying homage to past Scandinavian fright classics."
+        ]
+      },
+      {
+        "h": "Meet the Characters",
+        "p": [
+          "The story centers on a sixteen-year-old emo and goth teenager named Johanna, who openly dislikes her family and harbors romantic fantasies inspired by the Twilight franchise about meeting a glittering vampire prince. Instead of finding eternal romance on Christmas Eve, her dark fairy tale takes a grim turn when she crosses paths with the actual vampire.",
+          "The creature haunting her town is not a glamorous youth, but rather Martti, a balding and beer-bellied forty-nine-year-old predator who uses festive holiday disguises to hide his monstrous nature."
+        ]
+      },
+      {
+        "h": "Cast and Crew",
+        "p": [
+          "The horror comedy is written and directed by Finnish filmmaker Ilja Rautsi, marking his narrative feature directorial debut following previous work on short films. The production is handled by producers Misha Jaari and Mark Lwoff.",
+          "The movie features an ensemble cast including Hannu-Pekka Björkman, Anni Iikkanen, Kari Hietalahti, Krista Kosonen, Tommi Korpela, Eeva Litmanen, and Jussi Vatanen."
+        ]
+      },
+      {
+        "h": "Themes and Premise",
+        "p": [
+          "Beneath the festive surface and comedic tone, the narrative explores heavier subjects including family trauma and aging masculine toxicity. Johanna's initial excitement quickly spirals into a horrific nightmare as she realizes the brutal reality of the situation.",
+          "As the night progresses and the bloodshed escalates, the snowy landscape transforms into a terrifying canvas before morning arrives."
+        ]
+      },
+      {
+        "h": "Release and Streaming Details",
+        "p": [
+          "Red Snow, which is also known by its native Finnish title Punaista lunta, held its initial premiere earlier this fall at Fantastic Fest 2026. Following the festival circuit, Shudder has scheduled the official digital release.",
+          "Fans of international horror and dark comedy will be able to stream the feature exclusively on Shudder starting on December 11th, 2026."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Shudder released a new trailer for the Finnish horror comedy Red Snow, directed by Ilja Rautsi and starring Anni Iikkanen as a teen who encounters a vampire Santa named Martti. The film is set to premiere on the streaming platform on December 11th, 2026, following its earlier festival run at Fantastic Fest 2026."
+        ]
+      }
+    ],
+    "facts": [
+      "Red Snow is a Finnish horror comedy about a vampire Santa Claus.",
+      "The film stars Hannu-Pekka Björkman, Anni Iikkanen, Kari Hietalahti, Krista Kosonen, Tommi Korpela, Eeva Litmanen, and Jussi Vatanen.",
+      "The main character is a 16-year-old emo teen named Johanna.",
+      "The vampire is a 49-year-old named Martti.",
+      "The film is written and directed by Ilja Rautsi.",
+      "The film was produced by Misha Jaari and Mark Lwoff.",
+      "The film premiered at Fantastic Fest 2026.",
+      "Shudder is releasing the film for streaming on December 11th, 2026."
+    ],
+    "entities": {
+      "people": [
+        "Alex Billington",
+        "Jalmari Helander",
+        "Hannu-Pekka Björkman",
+        "Anni Iikkanen",
+        "Kari Hietalahti",
+        "Krista Kosonen",
+        "Tommi Korpela",
+        "Eeva Litmanen",
+        "Jussi Vatanen",
+        "Ilja Rautsi",
+        "Misha Jaari",
+        "Mark Lwoff"
+      ],
+      "titles": [
+        "Red Snow",
+        "Rare Exports: A Christmas Tale",
+        "Twilight",
+        "Punaista lunta"
+      ]
+    },
+    "keywords": [
+      "Red Snow film",
+      "Ilja Rautsi Red Snow",
+      "vampire Santa movie",
+      "Red Snow Shudder release"
+    ],
+    "images": [
+      {
+        "url": "https://media2.firstshowing.net/firstshowing/img18/redsnowtrailermainimgbigsvtw1.jpg",
+        "caption": "Shudder Unveils Trailer for Finnish Horror Comedy 'Red Snow' Featuring a Vampire Santa",
+        "source": "FirstShowing.net"
+      }
+    ],
+    "published": "Fri, 20 Nov 2026 22:29:51 +0000"
   }
 };
