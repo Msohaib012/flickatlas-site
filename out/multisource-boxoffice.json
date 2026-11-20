@@ -10495,6 +10495,24 @@
         },
         "india": false
       },
+      "14": {
+        "date": "2026-11-19",
+        "extras": {
+          "occupancy": {
+            "sources": {
+              "overseas-backfill": 16.7
+            },
+            "value": 16.7
+          },
+          "shows": {
+            "sources": {
+              "overseas-backfill": 3090
+            },
+            "value": 3090
+          }
+        },
+        "india": false
+      },
       "2": {
         "ai_first": false,
         "collection_currency": "USD",

@@ -1,51 +1,51 @@
 {
   "connected": true,
-  "generated": "2026-11-20T02:41:30Z",
+  "generated": "2026-11-20T04:05:58Z",
   "realtime": {
-    "active_users": 44
+    "active_users": 46
   },
   "today": {
-    "users": 10,
-    "pageviews": 10,
-    "sessions": 10,
-    "avg_session_seconds": 8.5
+    "users": 161,
+    "pageviews": 152,
+    "sessions": 161,
+    "avg_session_seconds": 3.9
   },
   "last7": {
-    "users": 1127,
-    "pageviews": 1357,
-    "sessions": 1164,
-    "avg_session_seconds": 16.7
+    "users": 1278,
+    "pageviews": 1499,
+    "sessions": 1315,
+    "avg_session_seconds": 15.2
   },
   "top_pages": [
     {
       "path": "/person",
       "title": "Actor & Filmmaker Profile | FlickAtlas",
-      "views": 240,
-      "avg_time_seconds": 4.0
+      "views": 314,
+      "avg_time_seconds": 4.2
     },
     {
       "path": "/person",
       "title": "Actor & Filmmaker Profiles | FlickAtlas",
-      "views": 133,
-      "avg_time_seconds": 2.9
+      "views": 185,
+      "avg_time_seconds": 3.2
     },
     {
       "path": "/",
       "title": "Bollywood, World Cinema & Box Office | FlickAtlas",
       "views": 89,
-      "avg_time_seconds": 252.5
+      "avg_time_seconds": 246.2
     },
     {
       "path": "/box-office",
       "title": "Box Office Collections: Today, 7-Day & Totals | FlickAtlas",
       "views": 26,
-      "avg_time_seconds": 18.1
+      "avg_time_seconds": 19.2
     },
     {
       "path": "/ott",
       "title": "OTT Releases: Now Available & Coming Soon | FlickAtlas",
       "views": 16,
-      "avg_time_seconds": 21.0
+      "avg_time_seconds": 19.5
     },
     {
       "path": "/search",
@@ -82,14 +82,14 @@
     {
       "source": "(direct)",
       "medium": "(none)",
-      "sessions": 1132,
-      "users": 1102
+      "sessions": 1273,
+      "users": 1244
     },
     {
       "source": "(not set)",
       "medium": "(not set)",
-      "sessions": 57,
-      "users": 57
+      "sessions": 36,
+      "users": 36
     },
     {
       "source": "google",
@@ -107,49 +107,49 @@
   "countries": [
     {
       "country": "United States",
-      "users": 293
+      "users": 308
     },
     {
       "country": "Brazil",
-      "users": 169
+      "users": 199
     },
     {
       "country": "Singapore",
-      "users": 135
-    },
-    {
-      "country": "Colombia",
-      "users": 59
-    },
-    {
-      "country": "Vietnam",
-      "users": 56
+      "users": 156
     },
     {
       "country": "Hong Kong",
-      "users": 55
+      "users": 70
     },
     {
-      "country": "Indonesia",
-      "users": 54
+      "country": "Colombia",
+      "users": 66
+    },
+    {
+      "country": "Vietnam",
+      "users": 63
     },
     {
       "country": "Argentina",
-      "users": 51
+      "users": 60
     },
     {
-      "country": "Bangladesh",
-      "users": 42
+      "country": "Indonesia",
+      "users": 60
+    },
+    {
+      "country": "China",
+      "users": 50
     },
     {
       "country": "Mexico",
-      "users": 39
+      "users": 45
     }
   ],
   "devices": [
     {
       "device": "desktop",
-      "users": 1112
+      "users": 1263
     },
     {
       "device": "mobile",

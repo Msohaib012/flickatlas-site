@@ -167608,11 +167608,10 @@ window.FA_ARTICLES = {
       ]
     },
     "keywords": [
-      "2026 KBS Drama Awards",
-      "Jang Sung Kyu",
-      "Sooyoung",
-      "Moon Sang Min",
-      "To My Beloved Thief"
+      "2026 KBS Drama Awards hosts",
+      "Jang Sung Kyu Sooyoung Moon Sang Min",
+      "KBS Drama Awards ceremony",
+      "Sooyoung Moon Sang Min KBS"
     ],
     "images": [
       {
@@ -167714,10 +167713,10 @@ window.FA_ARTICLES = {
       ]
     },
     "keywords": [
-      "Scene box office collection",
-      "Suriya Scene film",
-      "Scene Day 11 collection",
-      "Scene worldwide gross"
+      "Suriya Scene worldwide milestone",
+      "Scene movie box office",
+      "Scene Tamil action comedy",
+      "Suriya Scene 250 crore"
     ],
     "images": [
       {
@@ -167796,9 +167795,9 @@ window.FA_ARTICLES = {
     },
     "keywords": [
       "Star Trek Online Return to Duty",
-      "Star Trek 60th anniversary 2026",
-      "Star Trek Online console bundles",
-      "Kobayashi Maru Supply Device"
+      "Star Trek Online starter pack",
+      "Return to Duty pack console",
+      "Star Trek Online 60th anniversary"
     ],
     "images": [
       {
@@ -167988,10 +167987,10 @@ window.FA_ARTICLES = {
       ]
     },
     "keywords": [
-      "Sunning Baseball Club",
-      "Oh Jung Se",
-      "Jeon Hye Jin",
-      "TVING baseball drama"
+      "Sunning Baseball Club cast",
+      "TVING Sunning Baseball Club",
+      "Oh Jung Se Jeon Hye Jin",
+      "Sunning Baseball Club sports drama"
     ],
     "images": [
       {
@@ -168083,10 +168082,10 @@ window.FA_ARTICLES = {
       ]
     },
     "keywords": [
-      "IFFI 2026 Goa",
-      "Dhurandhar film IFFI",
-      "Spain Country of Honour IFFI",
-      "Pramod Sawant IFFI 2026"
+      "IFFI 2026 Goa opener",
+      "Dhurandhar IFFI opening film",
+      "57th International Film Festival of India",
+      "IFFI 2026 over 230 films"
     ],
     "images": [
       {
@@ -168186,11 +168185,10 @@ window.FA_ARTICLES = {
       ]
     },
     "keywords": [
-      "Ranveer Singh Pralay look",
-      "Jai Mehta Pralay film",
-      "Pralay post-apocalyptic thriller",
-      "Kalyani Priyadarshan Pralay",
-      "Ranveer Singh producer debut"
+      "Ranveer Singh Pralay thriller",
+      "Jai Mehta Pralay set photos",
+      "Ranveer Singh rugged look Pralay",
+      "Pralay movie production Mumbai"
     ],
     "images": [
       {
@@ -168415,9 +168413,9 @@ window.FA_ARTICLES = {
     },
     "keywords": [
       "Sisyphus The Myth Netflix",
-      "Dark vs Sisyphus The Myth",
-      "Sisyphus The Myth time travel show",
-      "Sisyphus The Myth K drama"
+      "Sisyphus The Myth alternative to Dark",
+      "16-episode time travel K-drama",
+      "Sisyphus The Myth thriller"
     ],
     "images": [
       {
@@ -168512,10 +168510,10 @@ window.FA_ARTICLES = {
       ]
     },
     "keywords": [
-      "The Blue Road Netflix",
-      "Son Suk Ku The Blue Road",
-      "Nagayama Eita The Blue Road",
-      "Han Jun Hee The Blue Road"
+      "The Blue Road Netflix thriller",
+      "Son Suk Ku Nagayama Eita",
+      "The Blue Road 2002 murder investigation",
+      "The Blue Road Korean Japanese series"
     ],
     "images": [
       {
@@ -168713,10 +168711,11 @@ window.FA_ARTICLES = {
       ]
     },
     "keywords": [
-      "CIA Inside Men",
       "CIA Season 2 Episode 7",
-      "Tom Ellis CIA",
-      "CIA episode poll"
+      "CIA Inside Men review",
+      "Tom Ellis Colin Glass CIA",
+      "Tom Ellis",
+      "Nick Gehlfuss"
     ],
     "images": [],
     "published": "2026-11-17T03:00:00.378+00:00"
@@ -168827,10 +168826,10 @@ window.FA_ARTICLES = {
       ]
     },
     "keywords": [
-      "Teja Sajja engagement",
-      "Teja Sajja fiancée Mourya",
-      "Teja Sajja Hyderabad ceremony",
-      "Zombie Reddy 2 NXT LVL"
+      "Teja Sajja engagement Mourya",
+      "Teja Sajja wedding Hyderabad",
+      "Teja Sajja Taj Krishna Hotel",
+      "Teja Sajja fiancée Mourya ceremony"
     ],
     "images": [
       {
@@ -169023,10 +169022,10 @@ window.FA_ARTICLES = {
       ]
     },
     "keywords": [
-      "The Fantasticks Broadway",
+      "The Fantasticks Broadway Hayes Theater",
+      "The Fantasticks queer reimagining",
       "Christopher Gattelli The Fantasticks",
-      "Maxim Chlumecky Nathan Levy",
-      "The Fantasticks Hayes Theater"
+      "The Fantasticks Broadway debut"
     ],
     "images": [
       {
@@ -169517,9 +169516,9 @@ window.FA_ARTICLES = {
     },
     "keywords": [
       "The Expanse Osiris Reborn",
-      "Owlcat Games",
-      "Alice Himora",
-      "The Expanse game trailer"
+      "Owlcat Games The Expanse",
+      "Osiris Reborn gameplay trailer",
+      "The Expanse new crew 2027"
     ],
     "images": [
       {
@@ -169618,10 +169617,9 @@ window.FA_ARTICLES = {
     },
     "keywords": [
       "Tiger Shroff Tenu Leke Jaana",
-      "Tiger Shroff firing incident",
-      "Ketika Sharma Tenu Leke Jaana",
-      "Lag Jaa Gale release date",
-      "Tiger Shroff upcoming films"
+      "Tenu Leke Jaana romantic teaser",
+      "Tiger Shroff Ketika Sharma",
+      "Tiger Shroff social media comeback"
     ],
     "images": [
       {
@@ -169718,11 +169716,10 @@ window.FA_ARTICLES = {
       ]
     },
     "keywords": [
-      "The Terminal List",
-      "Cry Havoc prequel",
-      "Jack Carr novel",
-      "Tom Reece Navy SEAL",
-      "Amazon Prime Video"
+      "Cry Havoc prequel series",
+      "The Terminal List Cry Havoc",
+      "Tom Reece Vietnam War prequel",
+      "Jack Carr Amazon Prime Video"
     ],
     "images": [
       {
@@ -170793,10 +170790,10 @@ window.FA_ARTICLES = {
       ]
     },
     "keywords": [
-      "Below Deck Over the Rainbeau",
       "Below Deck Season 13 Episode 6",
-      "Captain Kerry Matt Alex bosun",
-      "João Franco arrested Turkey"
+      "Below Deck Over the Rainbeau",
+      "Captain Kerry Below Deck bosun",
+      "Below Deck review and recap"
     ],
     "images": [
       {
@@ -196838,5 +196835,386 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Fri, 20 Nov 2026 01:16:13 +0000"
+  },
+  "1rjb91x": {
+    "id": "1rjb91x",
+    "type": "news",
+    "headline": "Ramayana Worldwide Box Office Collection Day 15: Ranbir Kapoor and Yash Starrer Struggles Overseas",
+    "dek": "Nitesh Tiwari's directorial venture Ramayana completes fifteen days at the global box office, recording specific milestones and overseas earnings.",
+    "body": [
+      {
+        "h": "Global Box Office Performance",
+        "p": [
+          "The mythological epic Ramayana has continued to make major waves globally during its theatrical run, marking a distinct milestone in its box office journey by day fifteen. The film's theatrical presence has drawn massive audiences worldwide, keeping trade analysts closely monitoring its daily figures.",
+          "Despite its colossal run, the feature narrowly missed a major milestone, falling just short of the coveted Rs 1550cr threshold globally by the end of its fifteenth day in cinemas."
+        ]
+      },
+      {
+        "h": "Overseas Market Dynamics",
+        "p": [
+          "While domestic interest remained strong, the international markets witnessed a noticeable slowdown during the third week of release. Reports indicate that the international sectors experienced their lowest single-day overseas haul yet as the film entered its third Thursday.",
+          "On its fifteenth day, the international territories contributed a total of Rs 5cr, bringing the cumulative overseas earnings for the production to an impressive Rs 515cr."
+        ]
+      },
+      {
+        "h": "Star Cast and Creative Leadership",
+        "p": [
+          "The ambitious cinematic venture brings together a massive ensemble cast featuring Ranbir Kapoor stepping into the role of Lord Ram, alongside Sai Pallavi as Sita and Yash portraying Raavan. The creative direction is spearheaded by Nitesh Tiwari, while production duties are jointly managed by Namit Malhotra and Yash.",
+          "Supporting the main cast are several notable performers including Ravi Dubey, Lara Dutta, Arun Govil, Rakul Preet Singh, and Vivek Oberoi, contributing significantly to the scale of this mythological adaptation based on Valmiki's text."
+        ]
+      },
+      {
+        "h": "Advance Booking and Ticket Sales",
+        "p": [
+          "Audience interest for upcoming screenings remains robust, evidenced by substantial advance bookings recorded for the sixteenth day within the domestic market. Pre-sales figures for day sixteen reached Rs 8.19cr through the distribution of 3.1 lakh tickets.",
+          "This latest surge in advance sales pushed the cumulative domestic pre-sales milestone to a staggering Rs 501.27cr over fifteen days, backed by a total ticket sale count of 1.5cr."
+        ]
+      },
+      {
+        "h": "Audience Reception and Visuals",
+        "p": [
+          "The theatrical release has sparked diverse conversations among viewers since its debut during the Diwali 2026 celebrations. While many praised the overall grandeur, performances, and visual effects, others debated certain narrative choices regarding the portrayal of specific characters.",
+          "The onscreen confrontation between Ranbir Kapoor and Yash has emerged as one of the primary discussion points among fans, cementing the project as a major talking point across entertainment platforms."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "The mythological epic Ramayana finished its fifteenth day with a total worldwide collection of Rs 1547.15cr while recording Rs 5cr from overseas markets on that day. The production continues to pull in advance bookings in India, reaching Rs 501.27cr in total pre-sales."
+        ]
+      }
+    ],
+    "facts": [
+      "Diwali 2026 marked the release of the film.",
+      "Day 15 overseas collection was Rs 5cr.",
+      "Total overseas collection reached Rs 515cr.",
+      "Day 15 total worldwide collection wrapped at Rs 1547.15cr.",
+      "Day 16 advance booking in India made Rs 8.19cr with 3.1 lakh tickets sold.",
+      "Total presales reached Rs 501.27cr with the sale of 1.5cr tickets in 15 days."
+    ],
+    "entities": {
+      "people": [
+        "Ranbir Kapoor",
+        "Sai Pallavi",
+        "Yash",
+        "Nitesh Tiwari",
+        "Namit Malhotra",
+        "Ravi Dubey",
+        "Lara Dutta",
+        "Arun Govil",
+        "Rakul Preet Singh",
+        "Vivek Oberoi"
+      ],
+      "titles": [
+        "Ramayana"
+      ]
+    },
+    "keywords": [
+      "Ramayana box office collection",
+      "Ramayana Day 15 worldwide",
+      "Ranbir Kapoor Ramayana film",
+      "Ramayana overseas collection"
+    ],
+    "images": [
+      {
+        "url": "https://images.filmibeat.com/img/2026/11/ramayanaday15wwfeature1-78521795144585.jpg",
+        "caption": "Ramayana Worldwide Box Office Collection Day 15: Ranbir Kapoor and Yash Starrer Struggles Overseas",
+        "source": "FilmiBeat"
+      }
+    ],
+    "published": "Fri, 20 Nov 2026 08:48:02 +0530"
+  },
+  "1cbkbwu": {
+    "id": "1cbkbwu",
+    "type": "news",
+    "headline": "Sienna Miller and Dominic West Break Down the Final Episode of 'War'",
+    "dek": "The stars of the Sky and HBO drama discuss the surprising beach resolution, their characters' acrimonious legal battle, and the series' upcoming second season.",
+    "body": [
+      {
+        "h": "An Unexpected Beach Resolution",
+        "p": [
+          "The season finale of the drama series 'War' delivers a surprising conclusion just as the bitter divorce between warring spouses Carla Duvall and Morgan Henderson reaches its final stages. Rather than enduring a destructive courtroom conclusion orchestrated by their legal teams, the characters choose to bury the hatchet. They independently negotiate an equitable agreement before walking off together toward the sunset.",
+          "Sienna Miller reveals that this beach scene served as the final piece of footage recorded for the production. While she initially imagined a more dramatic showdown featuring dramatic confrontations, she ultimately praised the writing of creator George Kay for delivering a peaceful and resonant resolution that satisfies viewers."
+        ]
+      },
+      {
+        "h": "Reflecting on Legal Expenses and Realism",
+        "p": [
+          "Dominic West shares his initial astonishment upon reading the script, questioning the financial absurdity of spending ten million pounds on lawyers only to settle matters privately. Yet, he recognizes that this narrative choice highlights a deeper thematic point about the necessity of enduring a grueling legal conflict to truly understand the value of their shared history.",
+          "Miller connects the storyline to modern cultural conversations surrounding marital dissolution, referencing Gwyneth Paltrow as a pioneer of conscious uncoupling. She emphasizes that the narrative champions a more civilized approach to ending relationships, allowing families to avoid unnecessary devastation."
+        ]
+      },
+      {
+        "h": "Debating Who Won the Divorce",
+        "p": [
+          "Despite their characters reaching an amicable accord on screen, the actors playfully dispute regarding which spouse emerged victorious from the separation. Miller insists that her character secured the upper hand, jokingly noting that her television husband struggled to remember a specific poem during proceedings.",
+          "West counters that his tech billionaire counterpart conceded significant financial concessions, providing compensation for business ideas and operations in which his estranged wife had no direct involvement. Both performers express enthusiasm about potentially reprisal their roles if future storylines allow."
+        ]
+      },
+      {
+        "h": "Filming Confrontational Courtroom Scenes",
+        "p": [
+          "Bringing the bitter litigation to life required intense physical proximity between the two leads during courtroom cross-examinations. West describes the thrill of hurling accusations while sitting directly across from his co-star, contrasting it with the flirtatious interrogation style employed by Celia Imrie.",
+          "Miller reflects on her own perspective during the legal showdown, noting that despite battling a severe flu on the day of filming, she felt entirely justified in her character's stance. Working opposite Archie Panjabi provided an appropriately stern dynamic that kept the fictional proceedings grounded in high stakes."
+        ]
+      },
+      {
+        "h": "Drawing From Real-Life Tabloid Scrutiny",
+        "p": [
+          "Both actors brought their own extensive experience with media attention to their portrayals of fame and public scrutiny. Miller admits that playing an actress dealing with relentless photographers mirrored aspects of her past, though she remains uncertain if she would choose to portray a performer again.",
+          "West shares that he found a unique appeal in watching a wealthy billionaire endure the intense level of surveillance typically directed at young actresses by the British press. This shared public history added an authentic layer to their performances throughout the series."
+        ]
+      },
+      {
+        "h": "Looking Ahead to Season 2",
+        "p": [
+          "Following the success of the first season, 'War' is slated to return for a second installment featuring an entirely new case and fresh litigants. The upcoming episodes will shift focus to a high-stakes defamation dispute handled by fictional firms Taylor Byrne and Cathcarts.",
+          "The new season will introduce Marisa Tomei, Kelly Macdonald, and David Harewood into the principal cast. While Miller and West will not return as the central couple, both actors maintain fond memories of their time navigating the fictional legal battlefield."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Sienna Miller and Dominic West reflect on the surprising and amicable resolution of their drama series 'War', discussing their characters' final beach scene and the reality of their expensive legal battle. The actors also touch on real-life parallels with media scrutiny and look forward to the show's upcoming second season featuring a brand new cast."
+        ]
+      }
+    ],
+    "facts": [
+      "The season finale of 'War' aired on Nov. 19 on HBO and HBO Max in the U.S.",
+      "The season finale dropped on Nov. 20 on Sky and NOW in the U.K.",
+      "George Kay wrote and created the series.",
+      "Marisa Tomei, Kelly Macdonald, and David Harewood join the cast for Season 2."
+    ],
+    "entities": {
+      "people": [
+        "Sienna Miller",
+        "Dominic West",
+        "George Kay",
+        "Marisa Tomei",
+        "Kelly Macdonald",
+        "David Harewood",
+        "Celia Imrie",
+        "Archie Renaux",
+        "Gwyneth Paltrow",
+        "Archie Panjabi"
+      ],
+      "titles": [
+        "War",
+        "Hijack"
+      ]
+    },
+    "keywords": [
+      "War finale",
+      "Sienna Miller Dominic West",
+      "George Kay War series",
+      "War season 2"
+    ],
+    "images": [
+      {
+        "url": "https://variety.com/wp-content/uploads/2026/11/Sienna-Miller-Dominic-West-War.jpg?w=1000&#038;h=563&#038;crop=1",
+        "caption": "Sienna Miller and Dominic West Break Down the Final Episode of 'War'",
+        "source": "Variety"
+      }
+    ],
+    "published": "Fri, 20 Nov 2026 03:00:00 +0000"
+  },
+  "hlekaw": {
+    "id": "hlekaw",
+    "type": "news",
+    "headline": "Avengers Doomsday Advance Booking Nears Rs 50 Crore in India",
+    "dek": "Robert Downey Jr and Chris Evans starrer Avengers Doomsday is drawing massive pre-sales in India weeks before its theatrical debut.",
+    "body": [
+      {
+        "h": "Strong Pre-Release Momentum",
+        "p": [
+          "The highly anticipated Marvel feature is witnessing an overwhelming initial response at ticket counters across India well ahead of its official premiere. With nearly a month left before opening day, the superhero blockbuster has already accumulated substantial figures through advance reservations.",
+          "Enthusiasm among moviegoers has pushed the overall pre-release collections near a major financial milestone for an extended holiday timeframe, showcasing immense excitement for the Hollywood release."
+        ]
+      },
+      {
+        "h": "Breakdown of Advance Sales",
+        "p": [
+          "According to industry tracking reports from sacnilk, total pre-sales have crossed a significant threshold when factoring in blocked seats. Without these reserved spots, pure consumer bookings remain robust across various territories.",
+          "Metropolitan hubs have driven a large portion of these early numbers, with Mumbai emerging as the top-performing city for ticket reservations and contributing heavily to the nationwide advance tally."
+        ]
+      },
+      {
+        "h": "Language-Wise Performance",
+        "p": [
+          "The film is slated for a wide, multi-language rollout across the country, catering to diverse audiences. Current figures indicate that the original English version commands a massive lead in pre-sales by a wide margin.",
+          "Regional language versions have also contributed to the overall early business, though trailing significantly behind the English screenings. Surging demand has concurrently driven up ticket pricing in several regions."
+        ]
+      },
+      {
+        "h": "Viral Climax Speculation",
+        "p": [
+          "Discussion surrounding the film has intensified due to unverified online rumors detailing the final portion of the narrative. Reports suggest a darker turn during a crucial battlefield confrontation involving the primary villain.",
+          "While these claims have not received official confirmation, they have added to public discourse. Directors the Russo Brothers have previously indicated that the project will offer a distinct tone compared to prior franchise entries."
+        ]
+      },
+      {
+        "h": "An Ensemble Marvel Crossover",
+        "p": [
+          "The upcoming motion picture unites a vast array of prominent characters from multiple comic book properties, including the Avengers, Fantastic Four, and X-Men.",
+          "This expansive crossover narrative features a newly introduced central antagonist designed to be more calculating than previous foes, setting up high-stakes consequences for the overarching cinematic universe."
+        ]
+      },
+      {
+        "h": "Global and Regional Release Schedule",
+        "p": [
+          "Indian audiences will receive an early opportunity to view the movie, with theatrical screenings scheduled to commence a day prior to its formal rollout in the United States.",
+          "The strategic scheduling allows local fans to experience the continuation of the franchise ahead of international territories, further fueling local ticket sales and pre-release hype."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Robert Downey Jr and Chris Evans star in Avengers Doomsday, which is approaching the Rs 50 crore mark in advance bookings at the Indian box office with 28 days left until release. The film opens on December 17, 2026, featuring a multi-language rollout and strong pre-sales led by the English version."
+        ]
+      }
+    ],
+    "facts": [
+      "Avengers Doomsday releases in Indian theatres on December 17, 2026.",
+      "The film opens in the US on December 18, 2026.",
+      "Advance bookings have grossed Rs 42.07 crore across an extended four-day weekend.",
+      "Excluding block bookings, advance sales stand at Rs 35.13 crore.",
+      "Opening day advance collections stand at an estimated Rs 19.14 crore.",
+      "Mumbai contributed an estimated Rs 7.75 crore to overall advance sales.",
+      "English version advance collections stand at Rs 35.54 crore.",
+      "Hindi version collections stand at Rs 5.13 crore.",
+      "Tamil version collections stand at Rs 1.20 crore.",
+      "Telugu version collections stand at Rs 19.64 lakh."
+    ],
+    "entities": {
+      "people": [
+        "Robert Downey Jr",
+        "Chris Evans",
+        "Thanos"
+      ],
+      "titles": [
+        "Avengers: Doomsday",
+        "Avengers: Endgame",
+        "Avengers: Secret Wars"
+      ]
+    },
+    "keywords": [
+      "Avengers Doomsday",
+      "Avengers Doomsday advance booking",
+      "Robert Downey Jr",
+      "Chris Evans",
+      "Doctor Doom"
+    ],
+    "images": [
+      {
+        "url": "https://static.toiimg.com/thumb/msid-136010206,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "caption": "Avengers Doomsday Advance Booking Nears Rs 50 Crore in India",
+        "source": "Times of India — Entertainment"
+      }
+    ],
+    "published": "2026-11-20T07:38:20+05:30"
+  },
+  "19qac2h": {
+    "id": "19qac2h",
+    "type": "news",
+    "headline": "Darren Hayes Performs Savage Garden's 'Affirmation' at the 2026 ARIA Awards",
+    "dek": "Darren Hayes opened the 40th anniversary ARIA Awards with a performance of Savage Garden's 1999 hit \"Affirmation\" and later presented Kevin Parker with the ARIA Global Impact Award.",
+    "body": [
+      {
+        "h": "Opening the 40th Anniversary ARIAs",
+        "p": [
+          "The 40th anniversary ARIA Awards broadcast began with a memorable opening moment delivered by Darren Hayes in Sydney on Wednesday night, November 18, 2026. Taking to the stage, Hayes performed \"Affirmation,\" which served as the title track from Savage Garden's second and final album released in 1999.",
+          "Even though the Brisbane pop group has long since disbanded, the performance served as a powerful reminder of the enduring resonance of their music more than a quarter century after its initial release. The surprise rendition immediately stirred emotions for the guests in attendance and viewers tuning in from home."
+        ]
+      },
+      {
+        "h": "Presenting the ARIA Global Impact Award",
+        "p": [
+          "Hayes did not limit his involvement to his opening musical performance. Later in the evening, he returned to the stage to present the ARIA Global Impact Award to Tame Impala spearhead Kevin Parker.",
+          "The special honor recognized Parker for his extraordinary international success and substantial cultural impact over the past year."
+        ]
+      },
+      {
+        "h": "A Storied History With the ARIAs",
+        "p": [
+          "The ARIA Awards hold a historically warm and fuzzy place for Darren Hayes and his former Savage Garden bandmate Daniel Jones. At the 1997 edition of the ceremony, the pop group utterly dominated by winning a then-record 10 awards in a single night, including album of the year and group of the year.",
+          "Over the course of their active years, Savage Garden accumulated a total of 14 career ARIAs. This haul included taking home the best-selling album award in the year 2000 for their record Affirmation."
+        ]
+      },
+      {
+        "h": "Global Chart Dominance",
+        "p": [
+          "Before disbanding in 2001, the Brisbane group flew the flag high internationally, becoming one of a select handful of Australian groups to claim a No. 1 spot on the Billboard Hot 100. They achieved this feat twice, first with 1998's \"Truly Madly Deeply\" and again in 2000 with \"I Knew I Loved You.\"",
+          "In addition to their chart-toppers, their 1997 track \"I Want You\" entered the top 5 by peaking at No. 4. Their albums also found massive commercial success in the United States, with Savage Garden landing at No. 3 and Affirmation reaching No. 6 on the Billboard 200, contributing to global career album sales topping 35 million units."
+        ]
+      },
+      {
+        "h": "Recent Honors and Recognition",
+        "p": [
+          "Earlier in the year, Hayes received another major accolade when he was feted with the Excellence in Community Award at the 17th annual Music In The House charity fundraiser. That honor recognized both his work with Savage Garden and his ongoing solo career.",
+          "Furthermore, the award celebrated his dedicated community leadership and his active advocacy work for the LGBTQIA+ community."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Darren Hayes opened the 40th anniversary ARIA Awards in Sydney on Wednesday night, November 18, 2026, by performing Savage Garden's 1999 hit \"Affirmation.\" He also returned to the stage later in the event to present Kevin Parker with the ARIA Global Impact Award, reflecting on both his own storied history with the ceremony and his broader career milestones."
+        ]
+      }
+    ],
+    "facts": [
+      "Darren Hayes performed \"Affirmation\" at the 2026 ARIA Awards on Wednesday night, November 18, 2026, in Sydney.",
+      "\"Affirmation\" is the title track from Savage Garden's second and final album from 1999.",
+      "Darren Hayes presented Kevin Parker with the ARIA Global Impact Award.",
+      "Savage Garden won a then-record 10 awards at the 1997 ARIA Awards, including album of the year and group of the year.",
+      "Savage Garden collected a total of 14 career ARIAs and won best-selling album in 2000 for Affirmation before disbanding in 2001.",
+      "Savage Garden hit No. 1 on the Billboard Hot 100 twice: with \"Truly Madly Deeply\" in 1998 and \"I Knew I Loved You\" in 2000.",
+      "Savage Garden's \"I Want You\" peaked at No. 4 on the Billboard Hot 100.",
+      "Savage Garden peaked at No. 3 and Affirmation peaked at No. 6 on the Billboard 200.",
+      "Savage Garden's career album sales top 35 million units worldwide.",
+      "Darren Hayes received the Excellence in Community Award at the 17th annual Music In The House charity fundraiser earlier in the year."
+    ],
+    "entities": {
+      "people": [
+        "Darren Hayes",
+        "Kevin Parker",
+        "Daniel Jones",
+        "Doja Cat",
+        "Brothers Osborne",
+        "Cody Johnson",
+        "Eminem",
+        "Erykah Badu",
+        "Rapsody",
+        "Rihanna",
+        "Baby Rocki",
+        "50 Cent"
+      ],
+      "titles": [
+        "Affirmation",
+        "Savage Garden",
+        "GTA 6",
+        "Born And Raised Hell",
+        "The Slim Shady Show",
+        "Billions Club",
+        "Truly Madly Deeply",
+        "I Knew I Loved You",
+        "I Want You",
+        "Grand Theft Auto VI",
+        "Lady Dior"
+      ]
+    },
+    "keywords": [
+      "Darren Hayes Affirmation ARIA Awards",
+      "Savage Garden 2026 ARIAs performance",
+      "Kevin Parker ARIA Global Impact Award",
+      "Darren Hayes Savage Garden reunion awards"
+    ],
+    "images": [
+      {
+        "url": "https://www.billboard.com/wp-content/uploads/2026/11/darren-hayes-aria-awards-2026-1800-harlie-hardy.jpg?w=1024",
+        "caption": "Darren Hayes Performs Savage Garden's 'Affirmation' at the 2026 ARIA Awards",
+        "source": "Billboard"
+      }
+    ],
+    "published": "Fri, 20 Nov 2026 03:32:17 +0000"
   }
 };
