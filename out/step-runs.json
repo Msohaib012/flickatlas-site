@@ -4,45 +4,6 @@
    {
     "step": "fetch",
     "category": "Trending News",
-    "run_at": "2026-11-19T21:52:02Z",
-    "run_id": "44622787487",
-    "status": "success",
-    "checked": {
-     "candidates": 389,
-     "detail": "RSS/Atom items across 137 sources; 4 source(s) errored"
-    },
-    "changed": {
-     "added": [
-      "A Teen’s Make-A-Wish Dream Was To Be In A Hallmark Movie. She Got To Do That And So Much More",
-      "Gordon Ramsay’s Hot Take On Air Fryers Has Me Questioning The Legend",
-      "Looking For Holiday Movies To Stream? Paramount+ Has You Covered With This Amazing Discounted Deal",
-      "Hulu’s 8-Part Mystery Series Feels Like It Was Made To Be Binged",
-      "Andrew Garfield’s Artificial Movie’s Poster Is Hiding Big Secrets You Didn’t Notice at First",
-      "Olympus Has Fallen & Agents of SHIELD Actor Lance Broadway Passes Away at 43",
-      "Spider-Man 4 Extended Cut Teaser Has Big Announcement for Fans Who Want to See New MCU Footage",
-      "Brooks Nader Joins Jessica Biel & Johnny Depp’s Daughter in Cast of New NSFW Movie",
-      "World War Z 2 Gets Update, Brad Pitt Explains Bringing ‘Fresh’ Ideas to Zombie Genre",
-      "Andrew Garfield & Jude Law’s Siegfried & Roy Show Scores Apple TV Release Date, Watch Video",
-      "‘Whatever Nonsense This Is’: Disney’s New Big Trailer Release Has Avengers: Doomsday Fans Livid",
-      "Avengers: Doomsday Finally Unveils First Look at Fan-Favorite Character’s Radical Redesign",
-      "Spider-Man’s Doctor Octopus Just Got His Most Horrifying Makeover Ever From Marvel, See It Here",
-      "007’s Léa Seydoux Has a Very Bitter Response to Who the Next James Bond Girl Should Be",
-      "Watch: Pixar's 'Love on a Plate' Short Film About Food & Community",
-      "Disney+ Crime Fantasy Adaptation Officially Moves Forward 16 Years Later",
-      "'Breaking Bad' Icon Aaron Paul Officially Reunites With Netflix for Smash Hit Thriller Series",
-      "Matt Damon Responds to Christopher Nolan Calling His Odysseus the Performance of a Lifetime",
-      "HBO's Greatest Historical Miniseries Has 95% on Rotten Tomatoes & You Can Binge It in Under 6 Hours",
-      "Disney’s $1 Billion Live-Action Remake Sequel Officially Recruits ‘Spider-Man’ Star"
-     ],
-     "updated": [],
-     "count": 354,
-     "detail": "363 stories, 0 duplicates removed, 26 dropped"
-    },
-    "reason": null
-   },
-   {
-    "step": "fetch",
-    "category": "Trending News",
     "run_at": "2026-11-19T22:51:05Z",
     "run_id": "44632336485",
     "status": "success",
@@ -936,32 +897,48 @@
      "detail": "337 stories, 0 duplicates removed, 0 dropped"
     },
     "reason": null
-   }
-  ],
-  "apply_auto": [
+   },
    {
-    "step": "apply_auto",
+    "step": "fetch",
     "category": "Trending News",
-    "run_at": "2026-11-19T21:52:56Z",
-    "run_id": "44622787487",
+    "run_at": "2026-11-20T21:51:55Z",
+    "run_id": "44823846462",
     "status": "success",
     "checked": {
-     "candidates": 14,
-     "detail": "draft articles + box-office rows from out/gemini-batch.json"
+     "candidates": 534,
+     "detail": "RSS/Atom items across 137 sources; 2 source(s) errored"
     },
     "changed": {
      "added": [
-      "Amazon Secures Rights to Develop a Modern Adaptation of Cult Classic Series The Prisoner",
-      "International Men's Day 2026: Celebrating Six Indian Actors Who Blend On-Screen Macho Energy With Off-Screen Pookie Charm",
-      "Disney Drops Ice Age 6 Trailer Instead of Avengers: Doomsday, Leaving Fans Livid",
-      "Ram Pothineni Unveils Intriguing 'Lone Wolf' Pre-Look For RAPO23 On International Men's Day"
+      "article gold price crash boosts wedding season demand as buyers return to jewellery market 3162661",
+      "article shanti educational initiatives gets bse no adverse observations for grew energy restructuring 3162664",
+      "article arun govil manoj muntashir and others mourn demise of up cm yogi adityanaths mother savitri devi 3162639",
+      "article bruno mars father peter hernandez passes away at 74 singer pens emotional tribute 3162614",
+      "article newlywed anirudh ravichander wife kaviya thank fans for love and blessings as they begin a new chapter 3162593",
+      "article ravi kishan pays tribute to up cm yogi adityanaths mother savitri devi 3162653",
+      "article samantha ruth prabhu and raj nidimoru welcomes baby boy 3162622",
+      "article shah rukh khan sachin tendulkar more celebs to attend global peace honours 2026 3162592",
+      "article tiger shroff firing case look out circular issued against absconding accused abhishek pandit 3162631",
+      "article vicky kaushals father sham kaushal teases a glimpse of his extensive workout at the gym at 72 3162594",
+      "article call me bae season 2 drops new song tu keh de toh marking anuv jains music video debut 3162649",
+      "article salman khan arrives in hyderabad after maatrubhumi may war rest in peace recent music release 3162662",
+      "article dialogue of the day from the pursuit of happyness you got a dream 3162660",
+      "article malavika mohanan thiagarajan kumararaja starrer pocket novel release date locked actress shares fun bts video watch 3162658",
+      "article why did india invite pakistan minister malik despite his anti india remarks explained 3162665",
+      "article mens asia cup rising stars 2026 india a bowl nepal out for 26 seal massive 306 run win 3162663",
+      "photo gallery iffi 2026 from banaras birds on ice to krishnavataram five indian films to watch out for at film festival 3224395",
+      "video cauvery water dispute supreme court rejects tn s plea for release of extra water by karnataka 3224406",
+      "video gold rate news gold prices see massive crash in india worldwide can it fall below 1 lakh 3224417",
+      "video ind pak news patently false iaf debunks reports that 4 of india s 36 rafale jets missing 3224420"
      ],
      "updated": [],
-     "count": 4,
-     "detail": "+4 articles, +0 box-office rows, 0 rows updated"
+     "count": 395,
+     "detail": "430 stories, 0 duplicates removed, 104 dropped"
     },
     "reason": null
-   },
+   }
+  ],
+  "apply_auto": [
    {
     "step": "apply_auto",
     "category": "Trending News",
@@ -1489,27 +1466,32 @@
      "detail": "+4 articles, +0 box-office rows, 3 rows updated"
     },
     "reason": null
+   },
+   {
+    "step": "apply_auto",
+    "category": "Trending News",
+    "run_at": "2026-11-20T21:52:22Z",
+    "run_id": "44823846462",
+    "status": "success",
+    "checked": {
+     "candidates": 14,
+     "detail": "draft articles + box-office rows from out/gemini-batch.json"
+    },
+    "changed": {
+     "added": [
+      "The Day of the Jackal Season 2 Teaser Released by Peacock with March 2027 Premiere Date",
+      "Gold Price Crash Revives Wedding Season Demand As Buyers Return To Market",
+      "Why Fire Country Season 5 Is Not Airing a New Episode Tonight",
+      "Shanti Educational Initiatives Secures BSE Observation Letter for GREW Energy Restructuring"
+     ],
+     "updated": [],
+     "count": 7,
+     "detail": "+4 articles, +0 box-office rows, 3 rows updated"
+    },
+    "reason": null
    }
   ],
   "ott": [
-   {
-    "step": "ott",
-    "category": "OTT",
-    "run_at": "2026-11-19T23:52:23Z",
-    "run_id": "44640977192",
-    "status": "success",
-    "checked": {
-     "candidates": 391,
-     "detail": "OTT now/coming titles from the published catalogue"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 0,
-     "detail": "now 383, coming 8"
-    },
-    "reason": "no-new-data"
-   },
    {
     "step": "ott",
     "category": "OTT",
@@ -1923,35 +1905,27 @@
      "detail": "now 390, coming 7"
     },
     "reason": "no-new-data"
+   },
+   {
+    "step": "ott",
+    "category": "OTT",
+    "run_at": "2026-11-20T21:52:23Z",
+    "run_id": "44823846462",
+    "status": "success",
+    "checked": {
+     "candidates": 397,
+     "detail": "OTT now/coming titles from the published catalogue"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 0,
+     "detail": "now 390, coming 7"
+    },
+    "reason": "no-new-data"
    }
   ],
   "trending_weekly": [
-   {
-    "step": "trending_weekly",
-    "category": "Trending Topics",
-    "run_at": "2026-11-19T22:03:06Z",
-    "run_id": "44622787487",
-    "status": "success",
-    "checked": {
-     "candidates": 100,
-     "detail": "cached Google RSS trend/article intersection"
-    },
-    "changed": {
-     "added": [
-      "uao2gh",
-      "hwbe4b",
-      "18n49lk",
-      "1f4200i",
-      "167bv68",
-      "19a32sa",
-      "ltv81g",
-      "1x37hn2"
-     ],
-     "updated": [],
-     "count": 8
-    },
-    "reason": null
-   },
    {
     "step": "trending_weekly",
     "category": "Trending Topics",
@@ -2446,27 +2420,33 @@
      "count": 8
     },
     "reason": null
+   },
+   {
+    "step": "trending_weekly",
+    "category": "Trending Topics",
+    "run_at": "2026-11-20T22:32:26Z",
+    "run_id": "44823846462",
+    "status": "success",
+    "checked": {
+     "candidates": 100,
+     "detail": "cached Google RSS trend/article intersection"
+    },
+    "changed": {
+     "added": [
+      "11hzvq4",
+      "5gca82",
+      "xfoonf",
+      "3159w2",
+      "tvcq7i",
+      "wthlxh"
+     ],
+     "updated": [],
+     "count": 6
+    },
+    "reason": null
    }
   ],
   "multisource_boxoffice": [
-   {
-    "step": "multisource_boxoffice",
-    "category": "Box Office",
-    "run_at": "2026-11-19T22:02:34Z",
-    "run_id": "44622787487",
-    "status": "success",
-    "checked": {
-     "candidates": 718,
-     "detail": "669 collected staging rows from readers; 245 averaged across 2+ sources"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 3,
-     "detail": "+0 new rows, 3 updated rows, 691 unchanged"
-    },
-    "reason": null
-   },
    {
     "step": "multisource_boxoffice",
     "category": "Box Office",
@@ -2880,19 +2860,27 @@
      "detail": "+0 new rows, 3 updated rows, 698 unchanged"
     },
     "reason": null
+   },
+   {
+    "step": "multisource_boxoffice",
+    "category": "Box Office",
+    "run_at": "2026-11-20T22:08:27Z",
+    "run_id": "44823846462",
+    "status": "success",
+    "checked": {
+     "candidates": 726,
+     "detail": "673 collected staging rows from readers; 248 averaged across 2+ sources"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 3,
+     "detail": "+0 new rows, 3 updated rows, 698 unchanged"
+    },
+    "reason": null
    }
   ],
   "gemini_reviews": [
-   {
-    "step": "gemini_reviews",
-    "category": "Reviews",
-    "run_at": "2026-11-19T22:03:17Z",
-    "run_id": "44622787487",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "gemini_reviews",
     "category": "Reviews",
@@ -3122,32 +3110,26 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "gemini_reviews",
+    "category": "Reviews",
+    "run_at": "2026-11-20T22:32:23Z",
+    "run_id": "44823846462",
+    "status": "success",
+    "checked": {
+     "candidates": 1066,
+     "detail": "released movies without a review; Tavily searches: 1028"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 0
+    },
+    "reason": "no-new-data"
    }
   ],
   "convert_news": [
-   {
-    "step": "convert_news",
-    "category": "Trending News",
-    "run_at": "2026-11-19T22:03:05Z",
-    "run_id": "44622787487",
-    "status": "success",
-    "checked": {
-     "candidates": 600,
-     "detail": "feed entries from out/queue.json"
-    },
-    "changed": {
-     "added": [
-      "Amazon Secures Rights to Develop a Modern Adaptation of Cult Classic Series The Prisoner",
-      "International Men's Day 2026: Celebrating Six Indian Actors Who Blend On-Screen Macho Energy With Off-Screen Pookie Charm",
-      "Disney Drops Ice Age 6 Trailer Instead of Avengers: Doomsday, Leaving Fans Livid",
-      "Ram Pothineni Unveils Intriguing 'Lone Wolf' Pre-Look For RAPO23 On International Men's Day"
-     ],
-     "updated": [],
-     "count": 4,
-     "detail": "api-news.json 600 items, api-trends.json 12 items"
-    },
-    "reason": null
-   },
    {
     "step": "convert_news",
     "category": "Trending News",
@@ -3676,19 +3658,32 @@
      "detail": "api-news.json 600 items, api-trends.json 12 items"
     },
     "reason": null
+   },
+   {
+    "step": "convert_news",
+    "category": "Trending News",
+    "run_at": "2026-11-20T22:32:25Z",
+    "run_id": "44823846462",
+    "status": "success",
+    "checked": {
+     "candidates": 600,
+     "detail": "feed entries from out/queue.json"
+    },
+    "changed": {
+     "added": [
+      "Gold Price Crash Revives Wedding Season Demand As Buyers Return To Market",
+      "Why Fire Country Season 5 Is Not Airing a New Episode Tonight",
+      "Shanti Educational Initiatives Secures BSE Observation Letter for GREW Energy Restructuring",
+      "The Day of the Jackal Season 2 Teaser Released by Peacock with March 2027 Premiere Date"
+     ],
+     "updated": [],
+     "count": 4,
+     "detail": "api-news.json 600 items, api-trends.json 12 items"
+    },
+    "reason": null
    }
   ],
   "episode_guides": [
-   {
-    "step": "episode_guides",
-    "category": "Drama Episodes",
-    "run_at": "2026-11-19T22:03:17Z",
-    "run_id": "44622787487",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "episode_guides",
     "category": "Drama Episodes",
@@ -3965,19 +3960,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "title_seed": [
+   },
    {
-    "step": "title_seed",
-    "category": "Spotlight / Coming Soon / Most Awaited",
-    "run_at": "2026-11-19T22:03:17Z",
-    "run_id": "44622787487",
+    "step": "episode_guides",
+    "category": "Drama Episodes",
+    "run_at": "2026-11-20T22:32:34Z",
+    "run_id": "44823846462",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "title_seed": [
    {
     "step": "title_seed",
     "category": "Spotlight / Coming Soon / Most Awaited",
@@ -4299,31 +4294,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "title_seed",
+    "category": "Spotlight / Coming Soon / Most Awaited",
+    "run_at": "2026-11-20T22:32:34Z",
+    "run_id": "44823846462",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "gemini_batch": [
-   {
-    "step": "gemini_batch",
-    "category": "Trending News",
-    "run_at": "2026-11-19T21:52:55Z",
-    "run_id": "44622787487",
-    "status": "success",
-    "checked": {
-     "candidates": 7,
-     "detail": "news queue items drafted this run; 354 still unprocessed; today by category: movies 16/6, tv_dramas 12/4, episodes 2/2, box_office 12/6, celebrities_events 16/5, upcoming_releases 8/4, ott_streaming 6/4, trailers 6/3, awards 2/2, music_ost 3/2, viral 4/2"
-    },
-    "changed": {
-     "added": [
-      "Amazon Secures Rights to Develop a Modern Adaptation of Cult Classic Series The Prisoner",
-      "International Men's Day 2026: Celebrating Six Indian Actors Who Blend On-Screen Macho Energy With Off-Screen Pookie Charm",
-      "Disney Drops Ice Age 6 Trailer Instead of Avengers: Doomsday, Leaving Fans Livid",
-      "Ram Pothineni Unveils Intriguing 'Lone Wolf' Pre-Look For RAPO23 On International Men's Day"
-     ],
-     "updated": [],
-     "count": 4
-    },
-    "reason": null
-   },
    {
     "step": "gemini_batch",
     "category": "Trending News",
@@ -4828,26 +4811,31 @@
      "count": 4
     },
     "reason": null
+   },
+   {
+    "step": "gemini_batch",
+    "category": "Trending News",
+    "run_at": "2026-11-20T21:52:22Z",
+    "run_id": "44823846462",
+    "status": "success",
+    "checked": {
+     "candidates": 5,
+     "detail": "news queue items drafted this run; 395 still unprocessed; today by category: movies 11/6, tv_dramas 23/4, episodes 1/2, box_office 12/6, celebrities_events 19/5, upcoming_releases 3/4, ott_streaming 9/4, trailers 1/3, awards 2/2, music_ost 2/2, viral 4/2"
+    },
+    "changed": {
+     "added": [
+      "The Day of the Jackal Season 2 Teaser Released by Peacock with March 2027 Premiere Date",
+      "Gold Price Crash Revives Wedding Season Demand As Buyers Return To Market",
+      "Why Fire Country Season 5 Is Not Airing a New Episode Tonight",
+      "Shanti Educational Initiatives Secures BSE Observation Letter for GREW Energy Restructuring"
+     ],
+     "updated": [],
+     "count": 4
+    },
+    "reason": null
    }
   ],
   "overseas_ai": [
-   {
-    "step": "overseas_ai",
-    "category": "Box Office",
-    "run_at": "2026-11-19T21:54:23Z",
-    "run_id": "44622787487",
-    "status": "success",
-    "checked": {
-     "candidates": 55,
-     "detail": "published movies with missing overseas day figures; Tavily searches: 48"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 0
-    },
-    "reason": "no-new-data"
-   },
    {
     "step": "overseas_ai",
     "category": "Box Office",
@@ -5154,19 +5142,26 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "overseas_ai",
+    "category": "Box Office",
+    "run_at": "2026-11-20T21:53:46Z",
+    "run_id": "44823846462",
+    "status": "success",
+    "checked": {
+     "candidates": 55,
+     "detail": "published movies with missing overseas day figures; Tavily searches: 48"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 0
+    },
+    "reason": "no-new-data"
    }
   ],
   "publish": [
-   {
-    "step": "publish",
-    "category": "Trending News",
-    "run_at": "2026-11-19T22:03:17Z",
-    "run_id": "44622787487",
-    "status": "failed",
-    "checked": null,
-    "changed": null,
-    "reason": "error"
-   },
    {
     "step": "publish",
     "category": "Trending News",
@@ -5501,19 +5496,24 @@
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
+   },
+   {
+    "step": "publish",
+    "category": "Trending News",
+    "run_at": "2026-11-20T22:32:34Z",
+    "run_id": "44823846462",
+    "status": "success",
+    "checked": null,
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 360,
+     "detail": "lines changed in owned files; no per-item summary from script"
+    },
+    "reason": null
    }
   ],
   "stats_traffic": [
-   {
-    "step": "stats_traffic",
-    "category": "Stats / Health",
-    "run_at": "2026-11-19T22:03:17Z",
-    "run_id": "44622787487",
-    "status": "success",
-    "checked": null,
-    "changed": null,
-    "reason": "no-new-data"
-   },
    {
     "step": "stats_traffic",
     "category": "Stats / Health",
@@ -5838,19 +5838,24 @@
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
+   },
+   {
+    "step": "stats_traffic",
+    "category": "Stats / Health",
+    "run_at": "2026-11-20T22:32:34Z",
+    "run_id": "44823846462",
+    "status": "success",
+    "checked": null,
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 14,
+     "detail": "lines changed in owned files; no per-item summary from script"
+    },
+    "reason": null
    }
   ],
   "stats_pipeline": [
-   {
-    "step": "stats_pipeline",
-    "category": "Stats / Health",
-    "run_at": "2026-11-19T22:03:17Z",
-    "run_id": "44622787487",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "stats_pipeline",
     "category": "Stats / Health",
@@ -6100,19 +6105,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "stats_health": [
+   },
    {
-    "step": "stats_health",
+    "step": "stats_pipeline",
     "category": "Stats / Health",
-    "run_at": "2026-11-19T22:03:17Z",
-    "run_id": "44622787487",
+    "run_at": "2026-11-20T22:32:34Z",
+    "run_id": "44823846462",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "stats_health": [
    {
     "step": "stats_health",
     "category": "Stats / Health",
@@ -6347,19 +6352,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "metadata_refresh": [
+   },
    {
-    "step": "metadata_refresh",
-    "category": "Spotlight / Coming Soon / Most Awaited",
-    "run_at": "2026-11-19T22:03:17Z",
-    "run_id": "44622787487",
+    "step": "stats_health",
+    "category": "Stats / Health",
+    "run_at": "2026-11-20T22:32:34Z",
+    "run_id": "44823846462",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "metadata_refresh": [
    {
     "step": "metadata_refresh",
     "category": "Spotlight / Coming Soon / Most Awaited",
@@ -6641,19 +6646,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "providers_backfill": [
+   },
    {
-    "step": "providers_backfill",
-    "category": "OTT",
-    "run_at": "2026-11-19T22:03:17Z",
-    "run_id": "44622787487",
+    "step": "metadata_refresh",
+    "category": "Spotlight / Coming Soon / Most Awaited",
+    "run_at": "2026-11-20T22:32:34Z",
+    "run_id": "44823846462",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "providers_backfill": [
    {
     "step": "providers_backfill",
     "category": "OTT",
@@ -6894,19 +6899,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "providers_backfill",
+    "category": "OTT",
+    "run_at": "2026-11-20T22:32:34Z",
+    "run_id": "44823846462",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "tavily_boxoffice": [
-   {
-    "step": "tavily_boxoffice",
-    "category": "Box Office",
-    "run_at": "2026-11-19T22:03:17Z",
-    "run_id": "44622787487",
-    "status": "success",
-    "checked": null,
-    "changed": null,
-    "reason": "no-new-data"
-   },
    {
     "step": "tavily_boxoffice",
     "category": "Box Office",
@@ -7136,19 +7141,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "tavily_boxoffice",
+    "category": "Box Office",
+    "run_at": "2026-11-20T22:32:34Z",
+    "run_id": "44823846462",
+    "status": "success",
+    "checked": null,
+    "changed": null,
+    "reason": "no-new-data"
    }
   ],
   "keywords_refresh": [
-   {
-    "step": "keywords_refresh",
-    "category": "Trending News",
-    "run_at": "2026-11-19T22:03:17Z",
-    "run_id": "44622787487",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "keywords_refresh",
     "category": "Trending News",
@@ -7401,30 +7406,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "keywords_refresh",
+    "category": "Trending News",
+    "run_at": "2026-11-20T22:32:34Z",
+    "run_id": "44823846462",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "overseas_sweep": [
-   {
-    "step": "overseas_sweep",
-    "category": "Box Office",
-    "run_at": "2026-11-18T20:52:35Z",
-    "run_id": "44395225295",
-    "status": "success",
-    "checked": {
-     "candidates": 574,
-     "detail": "completed day-wise rows missing overseas; quicknews pages fetched: 13; attempt cooldown deferred: 561"
-    },
-    "changed": {
-     "added": [
-      "Ranabaali (1389379)",
-      "418 (1606527)",
-      "Nayyi Navelli (1654581)"
-     ],
-     "updated": [],
-     "count": 13
-    },
-    "reason": null
-   },
    {
     "step": "overseas_sweep",
     "category": "Box Office",
@@ -7911,19 +7905,30 @@
      "count": 13
     },
     "reason": null
+   },
+   {
+    "step": "overseas_sweep",
+    "category": "Box Office",
+    "run_at": "2026-11-20T21:52:43Z",
+    "run_id": "44823846462",
+    "status": "success",
+    "checked": {
+     "candidates": 585,
+     "detail": "completed day-wise rows missing overseas; quicknews pages fetched: 13; attempt cooldown deferred: 572"
+    },
+    "changed": {
+     "added": [
+      "Ranabaali (1389379)",
+      "418 (1606527)",
+      "Nayyi Navelli (1654581)"
+     ],
+     "updated": [],
+     "count": 13
+    },
+    "reason": null
    }
   ],
   "advance_booking": [
-   {
-    "step": "advance_booking",
-    "category": "Box Office",
-    "run_at": "2026-11-19T22:03:17Z",
-    "run_id": "44622787487",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "advance_booking",
     "category": "Box Office",
@@ -8163,19 +8168,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "advance_booking",
+    "category": "Box Office",
+    "run_at": "2026-11-20T22:32:34Z",
+    "run_id": "44823846462",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "home_boxoffice_worldwide": [
-   {
-    "step": "home_boxoffice_worldwide",
-    "category": "Box Office",
-    "run_at": "2026-11-19T22:03:17Z",
-    "run_id": "44622787487",
-    "status": "failed",
-    "checked": null,
-    "changed": null,
-    "reason": "error"
-   },
    {
     "step": "home_boxoffice_worldwide",
     "category": "Box Office",
@@ -8440,8 +8445,23 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "home_boxoffice_worldwide",
+    "category": "Box Office",
+    "run_at": "2026-11-20T22:32:34Z",
+    "run_id": "44823846462",
+    "status": "success",
+    "checked": null,
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 12759,
+     "detail": "lines changed in owned files; no per-item summary from script"
+    },
+    "reason": null
    }
   ]
  },
- "updated_at": "2026-11-20T20:51:45Z"
+ "updated_at": "2026-11-20T22:32:34Z"
 }

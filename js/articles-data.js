@@ -204160,5 +204160,365 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Fri, 20 Nov 2026 19:23:44 GMT"
+  },
+  "1pqy7lb": {
+    "id": "1pqy7lb",
+    "type": "news",
+    "headline": "The Day of the Jackal Season 2 Teaser Released by Peacock with March 2027 Premiere Date",
+    "dek": "Peacock has unveiled the official teaser and premiere window for the second season of the assassin thriller starring Eddie Redmainye.",
+    "body": [
+      {
+        "h": "Introduction to Season 2",
+        "p": [
+          "Peacock has officially released the first teaser for the upcoming second season of its hit thriller series, offering fans an exciting early look at the return of its central character. The newly dropped footage highlights the dangerous protagonist engaging in high-stakes action, including rappelling down the side of a mountain.",
+          "The streaming platform confirmed that the acclaimed assassin drama will officially make its return in March 2027. This timing sets the stage for a fresh batch of episodes following the narrative momentum of the first season."
+        ]
+      },
+      {
+        "h": "Plot and Character Motivations",
+        "p": [
+          "While specific plot details for the sophomore run are being kept largely under wraps, the narrative is expected to follow the lingering cliffhanger from the previous season. The elusive killer, portrayed by Eddie Redmayne, will likely focus heavily on tracking down his estranged wife and son while attempting to collect payment for his most recent contract.",
+          "Leading actor Eddie Redmayne previously shed light on his character's internal drivers during a discussion with Gold Derby, noting that beyond financial compensation, the driving force is a deep resentment toward individuals who let him down."
+        ]
+      },
+      {
+        "h": "New and Returning Cast Members",
+        "p": [
+          "A wave of fresh faces is expanding the ensemble for the upcoming episodes. Notable additions joining the call sheet include Pablo Schreiber, Weruche Opia, Matt Bomer, and Pia Tjelta.",
+          "They will share the screen with a robust group of returning performers alongside Redmayne, who also takes on executive producer duties. Familiar faces reprising their roles include Úrsula Corberó, Charles Dance, Chukwudi Iwuji, Eleanor Matsuura, Adam James, Christy Meyer, and Corey Johnson."
+        ]
+      },
+      {
+        "h": "Awards Recognition and Legacy",
+        "p": [
+          "The series enters its second season backed by considerable critical acclaim from its freshman run. Lead star Eddie Redmayne secured nominations at the Golden Globes, Critics Choice Awards, and the Actor Awards for his riveting performance.",
+          "Furthermore, the drama itself captured best drama nominations at both the Golden Globes and the Critics Choice Awards, while the entire ensemble was celebrated with a best ensemble nomination from the Actor Awards."
+        ]
+      },
+      {
+        "h": "Strategic Emmy Campaign Timing",
+        "p": [
+          "The decision to schedule the season 2 premiere for March 2027 serves a strategic purpose for upcoming awards consideration. Industry observers note that a spring launch provides an ideal runway for Emmy campaign momentum, contrasting with the previous season's November debut.",
+          "By positioning the release earlier in the calendar year, the network aims to keep the drama fresh in voters' minds during the crucial voting windows for television accolades."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Peacock has dropped a teaser trailer and set a March 2027 premiere for Season 2 of The Day of the Jackal. The upcoming installment will see Eddie Redmayne return as the elusive assassin alongside a mix of new and returning cast members. The strategic spring release window is designed to support the series' future Emmy ambitions following a successful first season."
+        ]
+      }
+    ],
+    "facts": [
+      "The Day of the Jackal season 2 premieres in March 2027.",
+      "Eddie Redmayne stars as the assassin and serves as an executive producer.",
+      "New cast members include Pablo Schreiber, Weruche Opia, Matt Bomer, and Pia Tjelta.",
+      "Returning cast members include Úrsula Corberó, Charles Dance, Chukwudi Iwuji, Eleanor Matsuura, Adam James, Christy Meyer, and Corey Johnson."
+    ],
+    "entities": {
+      "people": [
+        "Eddie Redmayne",
+        "Pablo Schreiber",
+        "Weruche Opia",
+        "Matt Bomer",
+        "Pia Tjelta",
+        "Úrsula Corberó",
+        "Charles Dance",
+        "Chukwudi Iwuji",
+        "Eleanor Matsuura",
+        "Adam James",
+        "Christy Meyer",
+        "Corey Johnson"
+      ],
+      "titles": [
+        "The Day of the Jackal",
+        "Halo",
+        "Genius MLK/X",
+        "White Collars",
+        "Jo Nesbø’s Detective Hole",
+        "Money Heist",
+        "Game of Thrones",
+        "Guardians of the Galaxy Vol. 3",
+        "The Walking Dead",
+        "Mr. Bates vs The Post Office",
+        "The Amateur",
+        "The Bourne Ultimatum"
+      ]
+    },
+    "keywords": [
+      "The Day of the Jackal Season 2",
+      "Eddie Redmayne",
+      "Peacock",
+      "March 2027 premiere"
+    ],
+    "images": [
+      {
+        "url": "https://www.goldderby.com/wp-content/uploads/2026/11/TheDayOfTheJackal_S2_FirstLookImage_FinalRetouched.jpg?w=650",
+        "caption": "The Day of the Jackal Season 2 Teaser Released by Peacock with March 2027 Premiere Date",
+        "source": "Gold Derby"
+      }
+    ],
+    "published": "Fri, 20 Nov 2026 20:45:00 +0000"
+  },
+  "iues0i": {
+    "id": "iues0i",
+    "type": "news",
+    "headline": "Gold Price Crash Revives Wedding Season Demand As Buyers Return To Market",
+    "dek": "A steep decline in yellow metal prices has created an unexpected buying opportunity for families preparing for upcoming weddings, drawing consumers back to jewellery stores across the domestic market.",
+    "body": [
+      {
+        "h": "Bullion Market Sees Renewed Consumer Interest",
+        "p": [
+          "The domestic retail landscape has experienced a sudden surge in consumer participation following a sharp correction in bullion prices. With recent festive celebrations concluding and the traditional wedding season commencing, buyers who had previously paused their purchases due to high costs are returning to jewellery shops in large numbers.",
+          "Industry experts note that the unexpected drop in metal valuations has transformed the seasonal shopping outlook. Rather than delaying acquisitions, families are actively utilizing the current price window to secure ornaments for upcoming marital ceremonies."
+        ]
+      },
+      {
+        "h": "Global Factors Drive Domestic Price Corrections",
+        "p": [
+          "Because the nation heavily depends on international imports to satisfy its total bullion demand, external market dynamics have played a primary role in the recent price adjustments. Market participants explain that global economic shifts have carried far more weight in lowering rates than localized domestic trends.",
+          "Traders and proprietors emphasize that such a rapid and steep descent caught many in the trade by surprise, especially following the record highs observed around previous festive periods."
+        ]
+      },
+      {
+        "h": "Retailers Highlight Attractive Entry Points",
+        "p": [
+          "Mukesh Bhai, proprietor of Radhika Jewellers based in Rajkot, observed that previous valuations had soared to approximately Rs 1.50 lakh per 10 grams during last year's Diwali period. In contrast, those same categories have now retreated to nearly Rs 1.15 lakh per 10 grams, presenting an enticing opportunity for households planning nuptials in January and February.",
+          "Commenting on future market trajectories, Bhai suggested that the precious metal is nearing its lower boundary. He noted that while a minor additional dip of 2 to 5 percent remains possible, the potential for any severe downward correction is now quite restricted."
+        ]
+      },
+      {
+        "h": "Silver And Other Precious Metals Adjust",
+        "p": [
+          "Alongside the movements in gold, silver has also experienced significant shifts following an extended rally. Industry observers indicate that silver has largely retraced back to the valuation levels witnessed roughly a year ago.",
+          "Professionals in the trade view this correction as a natural cooling-off period after an aggressive upward sprint, leaving silver in a sound position for future upward momentum."
+        ]
+      },
+      {
+        "h": "Relief For Families Shopping For Occasions",
+        "p": [
+          "Everyday retail shoppers have welcomed the financial relief provided by the declining rates. Seema Joshi, actively shopping for her son's wedding ceremony, expressed gratitude for the timely market correction.",
+          "She noted that reduced ornament prices significantly alleviate the economic pressure on households managing major seasonal expenses, potentially inspiring even greater consumer activity if these favorable rates persist."
+        ]
+      },
+      {
+        "h": "Monetary Policy And Global Pressures",
+        "p": [
+          "Underlying the retail changes are broader macroeconomic influences, including market expectations surrounding upcoming US Federal Reserve monetary policies in December. Because bullion generates no direct interest yield, investors frequently reallocate capital toward alternative assets featuring lower opportunity costs.",
+          "Simultaneously, the US dollar has strengthened significantly, approaching a 19-month peak. Because gold is globally valued in dollars, this strength elevates purchasing costs for buyers utilizing other currencies, naturally dampening international demand and triggering a domestic correction."
+        ]
+      },
+      {
+        "h": "Geopolitical Conflicts And Current Rates",
+        "p": [
+          "Ongoing geopolitical tensions near the Strait of Hormuz continue to provoke anxiety regarding potential supply chain interruptions, subsequently driving up crude oil valuations. This dynamic stokes inflation fears and increases the likelihood of further international interest rate hikes.",
+          "Within the domestic market, current gold valuations stand at Rs 12,557 per gram for 24-carat purity. Meanwhile, pricing for 22-carat and 18-carat gold categories rests at Rs 11,510 per gram and Rs 9,418 per gram, respectively."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "A sudden crash in gold and silver prices has successfully revived retail demand just as the domestic wedding season gets underway. Driven by global economic shifts, stronger US currency trends, and international monetary expectations, the reduced metal valuations have provided much-needed financial relief to families preparing for upcoming celebrations."
+        ]
+      }
+    ],
+    "facts": [
+      "Gold prices fell from around Rs 1.50 lakh per 10 grams during last year's Diwali to nearly Rs 1.15 lakh per 10 grams in some categories.",
+      "Current gold rates in India stand at Rs 12,557 per gram for 24-carat purity.",
+      "Rates for 22K and 18K gold are Rs 11,510 per gram and Rs 9,418 per gram, respectively.",
+      "The US dollar is nearing a 19-month high."
+    ],
+    "entities": {
+      "people": [
+        "Sandal Khan",
+        "Mukesh Bhai",
+        "Seema Joshi"
+      ],
+      "titles": []
+    },
+    "keywords": [
+      "Gold price crash",
+      "wedding season gold demand",
+      "Radhika Jewellers Rajkot",
+      "gold rates India 24 carat"
+    ],
+    "images": [
+      {
+        "url": "https://cdn-english.zeenews.com/sites/default/files/2026/11/20/7138-gold-9.png",
+        "caption": "Gold Price Crash Revives Wedding Season Demand As Buyers Return To Market",
+        "source": "Zee News — Entertainment"
+      }
+    ],
+    "published": "2026-11-20T21:52:22Z"
+  },
+  "1c26swd": {
+    "id": "1c26swd",
+    "type": "news",
+    "headline": "Why Fire Country Season 5 Is Not Airing a New Episode Tonight",
+    "dek": "Fans of the hit CBS drama Fire Country will have to wait for new episodes as the show enters its first scheduled break of the season.",
+    "body": [
+      {
+        "h": "The Schedule Change for Edgewater",
+        "p": [
+          "Viewers tuning into CBS for fresh drama from Edgewater will find that there is no new installment of Fire Country broadcasting tonight, Friday, November 20. The ongoing fifth season has kept audiences hooked with mounting tensions across the local fire department and its surrounding community. However, the network has temporarily pressed pause on the fictional firefighting series, leaving fans waiting a few weeks to see how current storylines will resolve.",
+          "The most recent broadcast was episode 6, which aired on Friday, November 13. While standard broadcast seasons often feature scheduled interruptions, this break arrives notably early in the fifth season's run. Instead of regular programming, CBS is shifting focus to broadcast NCAA men's basketball matches over the coming weeks."
+        ]
+      },
+      {
+        "h": "A Shorter Season Leading to an Early Mid-Season Break",
+        "p": [
+          "This current hiatus aligns with the structural shift of Fire Country season 5, which features a reduced order of 13 episodes rather than the traditional 20-episode length. Because the series has already broadcast its first six chapters, the unexpected pause actually marks the exact midpoint of the current run.",
+          "While traditional winter breaks usually occur closer to holiday periods, hitting the halfway point in November makes this early pause a logical turning point for the network schedule. The remaining seven episodes of the season will begin rolling out shortly after the temporary sports programming concludes."
+        ]
+      },
+      {
+        "h": "Recent Plot Developments in Edgewater",
+        "p": [
+          "Before going on hiatus, the series delivered plenty of dramatic developments for Bode Leone, played by Max Thieriot. With Cal Fire resources stretched thin, Bode and newcomer CJ Ryan, played by Olivia Thirlby, successfully revived the Edgewater Volunteer Fire Department with Sharon Leone's blessing to help lighten the load.",
+          "Meanwhile, Sharon, portrayed by Diane Farr, has been wrestling with severe financial trouble behind the scenes at the department. Her desperate decision to take an unclaimed bag of cash from a mobile home park fire and make an anonymous donation appears poised to backfire dramatically."
+        ]
+      },
+      {
+        "h": "Community Conflict and New Faces",
+        "p": [
+          "Aside from firefighting operations, Edgewater has seen major economic shifts with the return of former resident Mason Ellis, played by Jay Hayden. Mason has returned to town aiming to revitalize the local economy by constructing a controversial data center.",
+          "This commercial development has already sparked friction, particularly with Bode, who is prepared to push back against the project. These simmering tensions regarding the town's future will play a major role when the narrative resumes."
+        ]
+      },
+      {
+        "h": "What to Expect When Fire Country Returns",
+        "p": [
+          "When the series returns with episode 7, titled \"Fight the Future,\" on December 11, Station 42 will immediately face a high-stakes crisis involving a man buried alive in a frozen industrial accident. At the same time, Sharon will be forced to navigate a life-or-death scenario regarding her hidden secret about the stolen cash.",
+          "Following the December 11 airing, Fire Country will deliver its final episode of 2026 before entering another extended winter break. The series is scheduled to return for its final stretch of six episodes on January 8."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Fire Country season 5 is currently on a brief hiatus, with no new episode airing on Friday, November 20, due to CBS broadcasting NCAA men's basketball. The series will return with episode 7 on December 11, picking up its 13-episode mid-season run before concluding the year with a final 2026 episode."
+        ]
+      }
+    ],
+    "facts": [
+      "Fire Country season 5 episode 6 aired on Friday, November 13, 2026.",
+      "There is no new episode airing on Friday, November 20, 2026.",
+      "Fire Country season 5 episode 7, titled Fight the Future, returns on December 11, 2026.",
+      "Fire Country season 5 features a reduced order of 13 episodes.",
+      "The series is set to return for its final stretch of six episodes on January 8.",
+      "CBS is airing NCAA men's basketball during the hiatus."
+    ],
+    "entities": {
+      "people": [
+        "Cher Thompson",
+        "Max Thieriot",
+        "CJ Ryan",
+        "Olivia Thirlby",
+        "Sharon Leone",
+        "Diane Farr",
+        "Mason Ellis",
+        "Jay Hayden",
+        "Kevin Alejandro",
+        "Manny Perez"
+      ],
+      "titles": [
+        "Fire Country",
+        "Fight the Future"
+      ]
+    },
+    "keywords": [
+      "Fire Country season 5",
+      "Fire Country episode 7 release date",
+      "Max Thieriot Fire Country",
+      "Fire Country November 20"
+    ],
+    "images": [
+      {
+        "url": "https://static0.srcdn.com/wordpress/wp-content/uploads/2026/11/3247042_ficy_s5_0079b.jpg?w=1600&amp;h=900&amp;fit=crop",
+        "caption": "Why Fire Country Season 5 Is Not Airing a New Episode Tonight",
+        "source": "Screen Rant"
+      }
+    ],
+    "published": "Fri, 20 Nov 2026 21:00:19 GMT"
+  },
+  "y0sf99": {
+    "id": "y0sf99",
+    "type": "news",
+    "headline": "Shanti Educational Initiatives Secures BSE Observation Letter for GREW Energy Restructuring",
+    "dek": "Shanti Educational Initiatives Limited has cleared a major hurdle after receiving a no adverse observations letter from BSE Limited for its structured arrangement involving GREW Energy Private Limited.",
+    "body": [
+      {
+        "h": "Regulatory Clearance From BSE",
+        "p": [
+          "Shanti Educational Initiatives Limited announced that it obtained an observation letter containing no adverse observations from BSE Limited regarding a proposed Composite Scheme of Arrangement. Disclosed through a regulatory filing on November 19, 2026, the clearance acts as a vital checkpoint for the corporate restructuring involving Shanti Educational Initiatives Limited, Shanti Learning Initiatives Private Limited, and Grew Energy Private Limited.",
+          "The recent development clears a path forward for GREW Energy to advance toward becoming a publicly listed entity. With the stock exchange's nod secured, the participating entities can proceed with seeking required clearances from the Competition Commission of India, respective shareholders, creditors, and the National Company Law Tribunal."
+        ]
+      },
+      {
+        "h": "Understanding the BSE Observation Letter",
+        "p": [
+          "The no adverse observations letter signifies that BSE reviewed comments from market regulator SEBI and found no objections that would halt Shanti Educational Initiatives from bringing the scheme to the next stage. This grants the company permission to formally file the proposal with the National Company Law Tribunal.",
+          "SEBI noted that submitting documents does not translate to official endorsement or financial soundness approval. Furthermore, the BSE holds the authority to revoke the letter if submitted details turn out to be false, misleading, or incomplete, and the letter itself maintains a validity window of six months for filing."
+        ]
+      },
+      {
+        "h": "Structure of the Restructuring Plan",
+        "p": [
+          "The overall scheme centers around three distinct Chiripal Group entities: Shanti Educational Initiatives Limited, its wholly owned subsidiary Shanti Learning Initiatives Private Limited, and the solar manufacturing enterprise Grew Energy Private Limited. The initial plan involves transferring the entire education operations as a going concern to the subsidiary via a slump sale.",
+          "Once the education sector is moved, Shanti Educational Initiatives will merge directly into GREW Energy. This strategic sequence paves the way for GREW Energy to enter the stock exchanges while granting existing shareholders direct access to the solar manufacturing venture."
+        ]
+      },
+      {
+        "h": "Share Exchange Ratio and Advisers",
+        "p": [
+          "Under the formulated plan, eligible shareholders of Shanti Educational Initiatives will receive 100 fully paid equity shares of GREW Energy for every 212 fully paid equity shares they hold in Shanti Educational Initiatives, with each share carrying a face value of Re 1. Independent registered valuers Finvox Analytics and A N Gawade arrived at this specific ratio.",
+          "Transaction advisers who worked on the arrangement included Ernst Young along with P. Murali Consultants Private Limited. Additionally, the BSE confirmed that this 100 to 212 share exchange ratio remains fixed and will not alter even if any partly paid equity shares of GREW Energy face forfeiture."
+        ]
+      },
+      {
+        "h": "Public Shareholding and Disclosures",
+        "p": [
+          "BSE has mandated comprehensive transparency regarding how the restructuring shifts public and retail investor dynamics. Public shareholding will drop from 50.11 percent in Shanti Educational Initiatives down to 10.03 percent in GREW Energy following the completion of the merger.",
+          "To ensure complete clarity, the notice calling for the upcoming shareholder meeting must prominently feature a comparison table on its front page displaying pre- and post-scheme shareholding stakes for promoters, the promoter group, and public shareholders alike."
+        ]
+      },
+      {
+        "h": "Promoter Stake and Voting Transparency",
+        "p": [
+          "Management must explicitly state within the meeting notice that the arrangement increases the overall promoter shareholding percentage. Voting in favor of the proposal automatically signifies that shareholders consent to this rise in promoter stake.",
+          "Corporate leadership is required to elaborate on the exact reasoning behind the higher promoter stake and detail the direct impact on public shareholders' rights and overall holding value, urging investors to evaluate these factors carefully before casting their votes."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Shanti Educational Initiatives Limited received a no adverse observations letter from BSE Limited for a corporate restructuring plan involving GREW Energy Private Limited. The arrangement involves a slump sale of education assets, a merger into GREW Energy, a fixed share exchange ratio, and upcoming regulatory approvals from the National Company Law Tribunal and the Competition Commission of India."
+        ]
+      }
+    ],
+    "facts": [
+      "Shanti Educational Initiatives Limited disclosed the BSE observation letter in a regulatory filing on November 19, 2026.",
+      "The restructuring involves Shanti Educational Initiatives Limited, Shanti Learning Initiatives Private Limited, and Grew Energy Private Limited.",
+      "The observation letter carries a six-month validity window for filing with the National Company Law Tribunal.",
+      "SEIL shareholders will receive 100 fully paid equity shares of GREW Energy for every 212 fully paid equity shares of SEIL.",
+      "Public shareholding is set to decrease from 50.11 percent in SEIL to 10.03 percent in GREW Energy."
+    ],
+    "entities": {
+      "people": [],
+      "titles": []
+    },
+    "keywords": [
+      "Shanti Educational Initiatives",
+      "GREW Energy",
+      "BSE no adverse observations",
+      "Shanti Educational Initiatives restructuring"
+    ],
+    "images": [
+      {
+        "url": "https://cdn-english.zeenews.com/sites/default/files/2026/11/20/7140-sensex5-ani.jpg",
+        "caption": "Shanti Educational Initiatives Secures BSE Observation Letter for GREW Energy Restructuring",
+        "source": "Zee News — Entertainment"
+      }
+    ],
+    "published": "2026-11-20T21:52:22Z"
   }
 };
