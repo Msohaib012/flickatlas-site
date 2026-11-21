@@ -205259,5 +205259,373 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Fri, 20 Nov 2026 22:38:05 +0000"
+  },
+  "11123r8": {
+    "id": "11123r8",
+    "type": "news",
+    "headline": "Ramayana: Rise of a Legend Day 16 Box Office Collection: Ranbir Kapoor and Yash Starrer Maintains Steady Hold with Rs 16.30 Crore on Friday",
+    "dek": "The mythological epic continues its strong theatrical run into its third week, crossing major domestic and international milestones.",
+    "body": [
+      {
+        "h": "Third Week Box Office Performance",
+        "p": [
+          "The mythological epic Ramayana: Rise of a Legend has demonstrated remarkable staying power at the box office, maintaining a solid foothold as it entered its third week in cinemas. On Friday, November 20, the feature film pulled in Rs 16.30 crore in net earnings across the Indian domestic market.",
+          "This latest single-day collection pushes the movie's cumulative India net total to an impressive Rs 880.05 crore. Meanwhile, the domestic gross earnings have climbed to a substantial Rs 1,051.60 crore, highlighting widespread and enduring audience enthusiasm."
+        ]
+      },
+      {
+        "h": "Language-Wise Contributions and Show Counts",
+        "p": [
+          "According to tracking reports from Sacnilk, the Hindi version served as the primary driver of Friday's box office numbers, contributing Rs 12 crore from a total of 13,322 screenings. Regional language versions also maintained steady numbers, with Malayalam screenings adding Rs 1.75 crore, Tamil bringing in Rs 1.10 crore, and Kannada contributing Rs 1 crore.",
+          "The Telugu version chipped in with an additional Rs 45 lakh. Across all five linguistic versions, the feature commanded a combined total of 15,497 shows on Friday. Although the daily net collection saw a 15.8 percent dip compared to the previous day's figures, the sheer volume of screenings ensured consistent footfalls."
+        ]
+      },
+      {
+        "h": "Global Gross and International Reach",
+        "p": [
+          "Beyond domestic borders, the cinematic venture continued to draw foreign audiences, raking in an estimated Rs 8 crore from overseas territories on Friday alone. This brings the cumulative overseas gross collection to a notable Rs 523 crore.",
+          "When combined with domestic figures, the worldwide gross for Ramayana: Rise of a Legend has officially climbed to Rs 1,574.60 crore. Domestic earnings currently make up roughly 66.8 percent of this total global business, while international markets account for the remaining 33.2 percent."
+        ]
+      },
+      {
+        "h": "Milestones Across Previous Weeks",
+        "p": [
+          "The journey to these soaring figures is marked by stellar weekly performances. During its first eight days in theaters, the movie accumulated a massive Rs 564.60 crore in India net earnings, alongside a domestic gross of Rs 675.05 crore.",
+          "The second week, spanning Days 9 through 15, added another Rs 299.15 crore in net revenue and Rs 357.10 crore in gross collections. Combined with the third week's early numbers, the theatrical run has accounted for a staggering 364,736 shows over the entire reported period."
+        ]
+      },
+      {
+        "h": "Audience Attendance and Ticket Sales",
+        "p": [
+          "Audience turnout remained robust on Friday, with the movie selling an estimated 756,652 tickets. This single-day surge brought the cumulative ticket sales for the film to a towering 35,651,737 admissions since its debut.",
+          "Regional variations in theatre occupancy highlighted diverse viewer engagement. Malayalam screenings recorded the highest overall occupancy on Friday at 45.1 percent, followed by Tamil at 38.9 percent and Kannada at 32 percent, while Hindi and Telugu registered 15.4 percent and 18.2 percent respectively."
+        ]
+      },
+      {
+        "h": "Cast and Crew Overview",
+        "p": [
+          "Helmed by director Nitesh Tiwari, Ramayana: Rise of a Legend features leading men Ranbir Kapoor and Yash in prominent central roles. The grand production boasts a vast ensemble cast supporting the narrative.",
+          "Notable names in the star-studded lineup include Sai Pallavi, Sunny Deol, Ravi Dubey, Lara Dutta, Arun Govil, Kajal Aggarwal, Rakul Preet Singh, and Vivek Oberoi, contributing to the broad theatrical appeal."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Ramayana: Rise of a Legend sustained a strong theatrical hold on its sixteenth day, earning Rs 16.30 crore net in India on Friday and pushing its worldwide gross to Rs 1,574.60 crore. Directed by Nitesh Tiwari and starring Ranbir Kapoor and Yash alongside a large ensemble cast, the film continues to perform well across multiple language versions."
+        ]
+      }
+    ],
+    "facts": [
+      "The film earned Rs 16.30 cr on Friday, November 20.",
+      "Total India net collection reached Rs 880.05 cr.",
+      "Domestic gross stands at Rs 1,051.60 cr.",
+      "Worldwide gross climbed to Rs 1,574.60 cr.",
+      "Hindi version collected Rs 12 cr from 13,322 shows on Friday.",
+      "Malayalam screenings added Rs 1.75 cr.",
+      "Tamil and Kannada versions contributed Rs 1.10 cr and Rs 1 cr.",
+      "Telugu version earned Rs 45 lakh.",
+      "Total shows across five languages on Friday were 15,497.",
+      "Overseas markets collected Rs 8 cr on Friday, totaling Rs 523 cr.",
+      "First eight days India net earnings were Rs 564.60 cr.",
+      "Second week net earnings were Rs 299.15 cr.",
+      "Cumulative ticket sales reached 35,651,737.",
+      "Directed by Nitesh Tiwari.",
+      "Stars Ranbir Kapoor and Yash."
+    ],
+    "entities": {
+      "people": [
+        "Ranbir Kapoor",
+        "Yash",
+        "Nitesh Tiwari",
+        "Sai Pallavi",
+        "Sunny Deol",
+        "Ravi Dubey",
+        "Lara Dutta",
+        "Arun Govil",
+        "Kajal Aggarwal",
+        "Rakul Preet Singh",
+        "Vivek Oberoi"
+      ],
+      "titles": [
+        "Ramayana: Rise of a Legend"
+      ]
+    },
+    "keywords": [
+      "Ramayana Rise of a Legend box office",
+      "Ranbir Kapoor Yash Ramayana film",
+      "Ramayana collection day 16",
+      "Ramayana box office collection"
+    ],
+    "images": [
+      {
+        "url": "https://static.toiimg.com/thumb/msid-136042292,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "caption": "Ramayana: Rise of a Legend Day 16 Box Office Collection: Ranbir Kapoor and Yash Starrer Maintains Steady Hold with Rs 16",
+        "source": "Times of India — Entertainment"
+      }
+    ],
+    "published": "2026-11-21T06:04:37+05:30"
+  },
+  "xaw99f": {
+    "id": "xaw99f",
+    "type": "news",
+    "headline": "Nick Cannon Hospitalized Due to Lupus Battle, Requests Prayers From Supporters",
+    "dek": "The entertainer and father of 12 shared an update from a medical facility, asking fans for their thoughts as he undergoes testing for his long-term autoimmune condition.",
+    "body": [
+      {
+        "h": "Hospitalization Announcement",
+        "p": [
+          "Entertainer and media personality Nick Cannon revealed to his followers that he has been admitted to a hospital. Sharing the update publicly, he reached out to his supporters with a direct request for their prayers during this challenging medical episode.",
+          "The announcement was accompanied by a visual showing him wearing a personal protective equipment mask while lying in a hospital bed. He was connected to various medical monitoring devices as healthcare professionals performed multiple diagnostic procedures."
+        ]
+      },
+      {
+        "h": "Social Media Share and Medical Testing",
+        "p": [
+          "In his online post, which featured Donny Hathaway's track 'A Song for You', Cannon added the hashtag designating his status as a lupus warrior. He noted that the demands of the world can heavily impact an individual's physical well-being.",
+          "Additionally, he uploaded a short video clip to his Instagram Story indicating that he was preparing for a CT scan. An off-camera medical professional could be heard asking him if he had previously undergone the specific scan."
+        ]
+      },
+      {
+        "h": "Understanding the Lupus Battle",
+        "p": [
+          "Cannon has been dealing with the autoimmune condition for over a decade, having first received his diagnosis back in 2012. Medical definitions describe the illness as a state where the immune system erroneously attacks healthy internal tissues and organs.",
+          "This internal reaction generates inflammation that can potentially impact numerous bodily systems, including the joints, skin, kidneys, blood cells, brain, heart, and lungs. Throughout his journey, he has previously spoken about rare forms of the condition targeting his kidneys."
+        ]
+      },
+      {
+        "h": "Current Tour Commitments",
+        "p": [
+          "Alongside his extensive business endeavors and media projects, the 46-year-old creator of Wild 'n Out has been actively traveling. He has been on the road for his Wild 'n Out Live: The Next Generation tour.",
+          "A scheduled stop for the tour was set to take place at Houston's Toyota Center. At the time of his hospital update, it remained uncertain whether he would be well enough to make a personal appearance at the venue."
+        ]
+      },
+      {
+        "h": "Upcoming Netflix Docuseries",
+        "p": [
+          "Beyond his live touring and television projects, Cannon previously announced plans to share an intimate look at his personal life. In September, he revealed a forthcoming Netflix docuseries focused on his experiences as a father of 12.",
+          "He explained that the project aims to give audiences a comprehensive view of his lifestyle directly from him, set to premiere during the winter season."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Nick Cannon has shared an update from a hospital bed regarding his ongoing battle with lupus, asking his fans for prayers as he undergoes medical testing. The entertainer, who was diagnosed with the autoimmune disease in 2012, is currently balancing his health challenges with touring and an upcoming winter docuseries."
+        ]
+      }
+    ],
+    "facts": [
+      "Nick Cannon was hospitalized amid his battle with lupus on Friday, November 20.",
+      "He was diagnosed with lupus in 2012.",
+      "He is the father of 12 children and is 46 years old.",
+      "The Wild 'n Out Live: The Next Generation tour event was scheduled for Houston's Toyota Center on Saturday, November 21.",
+      "A Netflix docuseries about his family life is scheduled to air this winter."
+    ],
+    "entities": {
+      "people": [
+        "Nick Cannon",
+        "Donny Hathaway"
+      ],
+      "titles": [
+        "A Song for You",
+        "Wild 'n Out",
+        "Wild 'n Out Live: The Next Generation"
+      ]
+    },
+    "keywords": [
+      "Nick Cannon",
+      "Nick Cannon lupus hospital",
+      "Wild 'n Out Live",
+      "Nick Cannon Netflix docuseries"
+    ],
+    "images": [
+      {
+        "url": "https://www.billboard.com/wp-content/uploads/2026/11/2288811185-e1795218340962.jpg?w=1024",
+        "caption": "Nick Cannon Hospitalized Due to Lupus Battle, Requests Prayers From Supporters",
+        "source": "Billboard"
+      }
+    ],
+    "published": "Sat, 21 Nov 2026 00:26:42 +0000"
+  },
+  "1wjg1n2": {
+    "id": "1wjg1n2",
+    "type": "news",
+    "headline": "Salman Khan Confirms Dabangg 4 While Explaining Why a Bajrangi Bhaijaan Sequel Cannot Happen",
+    "dek": "During a recent industry summit appearance, Bollywood star Salman Khan shared major updates regarding his upcoming film projects, confirming the development of a fourth installment in his iconic action franchise while shooting down the possibility of a follow-up to his 2015 blockbuster.",
+    "body": [
+      {
+        "h": "Salman Khan Addresses Franchise Expansions",
+        "p": [
+          "Bollywood superstar Salman Khan recently addressed the media and fans regarding his upcoming slate of films and potential franchise expansions. Speaking as a guest at an industry summit, the actor offered insights into how he approaches continuing stories from his past filmography.",
+          "While maintaining a busy production schedule with various projects at different stages of completion, Khan took the opportunity to clarify which of his celebrated cinematic universes might see future installments and which ones will remain as standalone stories."
+        ]
+      },
+      {
+        "h": "Dabangg 4 Officially Confirmed",
+        "p": [
+          "Fans of the actor's mass-action persona received exciting news when Khan officially confirmed that a fourth film in the popular Dabangg franchise is definitely on the cards. The actor noted that bringing back the beloved character of Chulbul Pandey is entirely within the control of him and his collaborators.",
+          "The franchise began with the release of Dabangg in 2010, introducing audiences to the memorable cop character and subsequently spawning two sequels. Khan previously mentioned that the fourth installment will officially move forward once he and Arbaaz Khan finalize a script they mutually agree upon."
+        ]
+      },
+      {
+        "h": "Why a Bajrangi Bhaijaan Sequel Is Off the Table",
+        "p": [
+          "In contrast to the confirmation of his action franchise, Khan firmly dismissed hopes for a follow-up to his emotionally resonant drama Bajrangi Bhaijaan. He explained that making a second instalment of that specific narrative does not seem emotionally feasible.",
+          "The actor expressed concern that any secondary film would inevitably face intense comparisons to the original masterpiece, risking a dilution of the emotional impact that made the first movie so universally beloved by audiences."
+        ]
+      },
+      {
+        "h": "Reflecting on Bajrangi Bhaijaan's Legacy",
+        "p": [
+          "Released in 2015, Bajrangi Bhaijaan stands as one of the most commercially successful and critically appreciated blockbusters of Khan's legendary career. Directed by Kabir Khan, the film featured a stellar cast including Kareena Kapoor Khan, Nawazuddin Siddiqui, and Harshaali Malhotra.",
+          "The heartfelt storyline followed an Indian man undertaking a perilous journey to help a young Pakistani girl reunite with her family across the border, striking a chord with viewers globally and cementing its place in modern cinematic history."
+        ]
+      },
+      {
+        "h": "Comments on Upcoming Releases and Comparisons",
+        "p": [
+          "During the summit discussion, the conversation also touched upon his upcoming project Maatrubhumi, where Khan responded to early audience expectations and trailer commentary with characteristic humor. He emphasized that the film was made with the sincere intention of entertaining theatregoers.",
+          "Drawing thematic parallels, Khan noted that Maatrubhumi shares narrative similarities with Bajrangi Bhaijaan, centering on a significant incident at the border and exploring the profound emotional fallout it causes for ordinary families."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Bollywood actor Salman Khan confirmed during an industry summit that a fourth installment of the Dabangg franchise is in development. However, he ruled out a sequel to Bajrangi Bhaijaan, citing emotional reasons and the risk of unfavourable comparisons to the 2015 blockbuster."
+        ]
+      }
+    ],
+    "facts": [
+      "Salman Khan confirmed Dabangg 4 is happening during an ABP summit appearance.",
+      "Bajrangi Bhaijaan was released in 2015.",
+      "Kabir Khan directed Bajrangi Bhaijaan.",
+      "Bajrangi Bhaijaan starred Salman Khan, Kareena Kapoor Khan, Nawazuddin Siddiqui, and Harshaali Malhotra.",
+      "The Dabangg franchise started in 2010 with Chulbul Pandey as the lead character."
+    ],
+    "entities": {
+      "people": [
+        "Salman Khan",
+        "Kabir Khan",
+        "Kareena Kapoor Khan",
+        "Nawazuddin Siddiqui",
+        "Harshaali Malhotra",
+        "Arbaaz Khan"
+      ],
+      "titles": [
+        "Dabangg 4",
+        "Bajrangi Bhaijaan",
+        "Dabangg",
+        "Dabangg 2",
+        "Dabangg 3",
+        "Maatrubhumi",
+        "Kick",
+        "Tiger"
+      ]
+    },
+    "keywords": [
+      "Salman Khan Dabangg 4",
+      "Bajrangi Bhaijaan sequel",
+      "Salman Khan ABP summit",
+      "Dabangg franchise updates"
+    ],
+    "images": [
+      {
+        "url": "https://static.toiimg.com/thumb/msid-136042151,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "caption": "Salman Khan Confirms Dabangg 4 While Explaining Why a Bajrangi Bhaijaan Sequel Cannot Happen",
+        "source": "Times of India — Entertainment"
+      }
+    ],
+    "published": "2026-11-21T05:47:50+05:30"
+  },
+  "5xihgh": {
+    "id": "5xihgh",
+    "type": "news",
+    "headline": "IVE's MAMA Best Female Group Victory Sparks Intense Fan Backlash Over Unofficial Predictions",
+    "dek": "K-pop group IVE secured the Best Female Group title at the 2026 MAMA Awards, triggering heated online debates after fan-made charts placed them at the very bottom of the category.",
+    "body": [
+      {
+        "h": "The Unexpected MAMA Triumph",
+        "p": [
+          "The recent conclusion of the 2026 MAMA Awards brought substantial celebration for the members of IVE, but it also opened the floodgates to an unexpected wave of criticism. Winning the coveted Best Female Group trophy is typically a moment of unmitigated joy for any K-pop act, yet this particular victory immediately became a lightning rod for online friction.",
+          "Instead of universal praise, the group's triumph was greeted with a mixture of confusion and disbelief across multiple social platforms. Fans and casual observers alike began scrutinizing how the final results aligned with statistical expectations, turning what should have been a night of triumph into a contentious talking point."
+        ]
+      },
+      {
+        "h": "Unpacking the Fan-Circulated Prediction Chart",
+        "p": [
+          "The core of the dispute stems from an unofficial score breakdown shared by an X user prior to the event's conclusion. This widely circulated fan prediction chart calculated a projected total of 27.81 points for IVE, which positioned them dead last among the eight nominated groups in the category.",
+          "In stark contrast, the same unofficial metric placed LE SSERAFIM at the top with 47.44 points, followed closely by Hearts2Hearts at 41.46 points and BABYMONSTER at 40.58 points. The massive gap between these numerical projections and the actual winner fueled widespread skepticism."
+        ]
+      },
+      {
+        "h": "Breaking Down the Evaluation Criteria",
+        "p": [
+          "To understand how the final winner could diverge so sharply from public predictions, observers looked closely at the stated evaluation components. The predictive model incorporated four distinct pillars: digital performance weighted at 15 percent, album sales at 30 percent, global performance at 15 percent, and judges' scores making up the remaining 40 percent.",
+          "The quantitative figures utilized in the chart drew from verified Circle Chart data for sales and digital metrics, alongside Spotify and YouTube Music streaming statistics. Because the judges' evaluation carried a hefty 40 percent weight, analysts noted that expert panels held enough influence to sway the final outcome considerably."
+        ]
+      },
+      {
+        "h": "Online Backlash and Instiz Discussions",
+        "p": [
+          "Korean online communities quickly became hotbeds for this debate, with a prominent post on the Instiz platform capturing significant attention and driving public doubt. The author of the viral post voiced absolute astonishment that a group supposedly ranking last in predictive charts walked away with the grand prize.",
+          "Commenters echoed this sentiment, arguing that an award structure allowing a 40 percent judging panel to completely overturn massive numerical differences in sales and streaming lacks transparency. Some users suggested that if expert evaluations hold such decisive power, the category ought to be reframed entirely as a discretionary choice award."
+        ]
+      },
+      {
+        "h": "Broader Concerns About Transparency and Fairness",
+        "p": [
+          "The discourse quickly spilled past the boundaries of a single category, touching on broader anxieties regarding voting integrity and award credibility. Commenters pointed out that major agencies, including prominent girl groups from SM Entertainment, had actively participated, making the selection of a lower-ranked nominee even more puzzling to dedicated followers.",
+          "Furthermore, whispers and claims began circulating that other categories—such as the female solo race—might have experienced similar discrepancies between public favorites and eventual victors. This groundswell of doubt has highlighted a persistent friction between hard data metrics and subjective industry panels."
+        ]
+      },
+      {
+        "h": "The Weight of Unofficial Metrics",
+        "p": [
+          "It is crucial to note that the prediction chart at the center of the storm was entirely unofficial and did not represent an official disclosure of actual scores by the award organizers. The mathematical models and estimates compiled by fans remain speculative rather than confirmed empirical proof of the judges' scorecards.",
+          "Nevertheless, the existence of these charts provides a clear window into fan expectations and the growing demand for accountability. Without transparent score releases from the event organizers, the real reasoning behind the panel's decision remains veiled behind closed doors."
+        ]
+      },
+      {
+        "h": "Legacy and Ongoing Debate",
+        "p": [
+          "As the dust settles on the 2026 MAMA Awards, the controversy surrounding IVE's win serves as a reminder of the fierce passions driving the global K-pop fandom. The incident has reignited long-standing conversations about how award shows balance commercial success with expert curation.",
+          "Whether this particular debate will lead to structural changes in future award ceremonies remains uncertain. For now, the episode stands as a defining moment of friction between data-driven fan projections and traditional industry evaluations."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "IVE secured the Best Female Group award at the 2026 MAMA Awards, sparking online controversy after an unofficial fan-circulated prediction chart ranked them last out of eight nominees. The discussion highlighted concerns over transparency and the heavy weight given to judges' scores compared to quantitative metrics like album sales and digital performance."
+        ]
+      }
+    ],
+    "facts": [
+      "IVE won Best Female Group at the 2026 MAMA Awards",
+      "An X user shared a score breakdown predicting IVE with 27.81 points in last place among eight nominees",
+      "LE SSERAFIM ranked first in predictions with 47.44 points",
+      "Hearts2Hearts ranked with 41.46 points in the prediction chart",
+      "BABYMONSTER ranked with 40.58 points in the prediction chart",
+      "The prediction criteria included digital performance at 15 percent, album sales at 30 percent, global performance at 15 percent, and judges' scores at 40 percent",
+      "Data sources for predictions included Circle Chart, Spotify, and YouTube Music",
+      "Discussions and criticisms appeared on the Korean online community Instiz"
+    ],
+    "entities": {
+      "people": [
+        "Minsoo-Kim"
+      ],
+      "titles": [
+        "MAMA Awards",
+        "Circle Chart",
+        "Spotify",
+        "YouTube Music"
+      ]
+    },
+    "keywords": [
+      "IVE MAMA Best Female Group",
+      "IVE MAMA controversy 2026",
+      "MAMA Awards prediction chart",
+      "IVE LE SSERAFIM MAMA rankings"
+    ],
+    "images": [],
+    "published": "Fri, 20 Nov 2026 19:30:00 EST"
   }
 };
