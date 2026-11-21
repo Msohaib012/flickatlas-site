@@ -1,8 +1,888 @@
 {
  "source": "google-rss",
- "checked_at": "2026-11-20T22:32:24.852472Z",
+ "checked_at": "2026-11-21T00:08:25.091780Z",
  "status": "ok",
  "items": [
+  {
+   "q": "iu basketball",
+   "traffic": "2000+",
+   "geo": "US",
+   "trending_started_at": "2026-11-20T23:50:00Z",
+   "observed_at": "2026-11-21T00:08:25.091780Z",
+   "feed_url": "https://trends.google.com/trending/rss?geo=US",
+   "news": [
+    {
+     "title": "Big Blue Preview: Kentucky vs. Indiana",
+     "url": "https://ukathletics.com/news/2026/11/19/big-blue-preview-kentucky-vs-indiana-2/"
+    },
+    {
+     "title": "Where to watch IU vs. Kentucky basketball tonight, Nov. 20: Start time, roster, schedule",
+     "url": "https://www.indystar.com/story/sports/college/indiana/2026/11/19/indiana-basketball-game-tonight-vs-kentucky-start-time-where-to-watch-roster-schedule/92843591007/"
+    },
+    {
+     "title": "Kentucky vs. Indiana prediction, pick, odds, spread: Wildcats face Hooisers in blue-blood clash",
+     "url": "https://www.cbssports.com/college-basketball/news/kentucky-indiana-prediction-picks-odds-spread-where-to-watch-live/"
+    }
+   ]
+  },
+  {
+   "q": "ohsaa football playoffs",
+   "traffic": "1000+",
+   "geo": "US",
+   "trending_started_at": "2026-11-20T23:50:00Z",
+   "observed_at": "2026-11-21T00:08:25.091780Z",
+   "feed_url": "https://trends.google.com/trending/rss?geo=US",
+   "news": [
+    {
+     "title": "First & 10: Central Ohio high school football scores | Week 4 of playoffs",
+     "url": "https://www.10tv.com/article/sports/high-school/hs-football/central-ohio-high-school-football-scores-playoffs-week-4-2026/530-25bcccad-9dc1-4554-8a63-5816acef94f4"
+    },
+    {
+     "title": "28 games, 1 expert: OHSAA regional final predictions are here",
+     "url": "https://www.cleveland.com/highschoolsports/2026/11/predicting-the-winners-of-each-ohsaa-football-regional-final-ryan-isley.html"
+    },
+    {
+     "title": "Ohio high school football playoff scores tonight, OHSAA live updates",
+     "url": "https://sports.yahoo.com/articles/ohio-high-school-football-playoff-223101816.html"
+    }
+   ]
+  },
+  {
+   "q": "pacers vs cavaliers",
+   "traffic": "5000+",
+   "geo": "US",
+   "trending_started_at": "2026-11-20T23:40:00Z",
+   "observed_at": "2026-11-21T00:08:25.091780Z",
+   "feed_url": "https://trends.google.com/trending/rss?geo=US",
+   "news": [
+    {
+     "title": "Cavaliers score vs Pacers. Live game updates, injury reports, highlights",
+     "url": "https://sports.yahoo.com/articles/cavaliers-score-vs-pacers-live-230146953.html"
+    },
+    {
+     "title": "Cavs vs. Pacers: preview, odds, injury report, TV",
+     "url": "https://www.cleveland.com/cavs/2026/11/cavs-vs-pacers-preview-odds-injury-report-tv.html"
+    },
+    {
+     "title": "How to watch Pacers vs. Cavaliers: TV channel and streaming options for November 20",
+     "url": "https://www.nytimes.com/athletic/7798459/2026/11/20/pacers-vs-cavaliers-stream-how-to-watch-nov-20/"
+    }
+   ]
+  },
+  {
+   "q": "bowling green vs toledo",
+   "traffic": "1000+",
+   "geo": "US",
+   "trending_started_at": "2026-11-20T23:40:00Z",
+   "observed_at": "2026-11-21T00:08:25.091780Z",
+   "feed_url": "https://trends.google.com/trending/rss?geo=US",
+   "news": [
+    {
+     "title": "Briggs' picks: Battle of I-75 will feature new look and — without Bowling Green's band — new sound",
+     "url": "https://www.toledoblade.com/sports/college/2026/11/19/briggs-picks-toledo-bg-showdown-will-feature-new-look-and-with-no-falcons-band-n/stories/20261119085"
+    },
+    {
+     "title": "How to watch Bowling Green vs Toledo: Live stream College Football, TV channel",
+     "url": "https://sports.yahoo.com/articles/watch-bowling-green-vs-toledo-231500736.html"
+    },
+    {
+     "title": "Meet an underappreciated college football rivalry, 25 miles apart and tied in 90 games",
+     "url": "https://www.nytimes.com/athletic/7793053/2026/11/19/bowling-green-toledo-college-football-rivalries/"
+    }
+   ]
+  },
+  {
+   "q": "josh simmons",
+   "traffic": "500+",
+   "geo": "US",
+   "trending_started_at": "2026-11-20T23:40:00Z",
+   "observed_at": "2026-11-21T00:08:25.091780Z",
+   "feed_url": "https://trends.google.com/trending/rss?geo=US",
+   "news": [
+    {
+     "title": "Here’s what Andy Reid said about the status of injured left tackle Josh Simmons",
+     "url": "https://www.kansascity.com/sports/nfl/kansas-city-chiefs/article318106961.html"
+    },
+    {
+     "title": "Chiefs legend Bill Maas has a valid (and concerning) point about the Josh Simmons fiasco",
+     "url": "https://kckingdom.com/chiefs-legend-bill-maas-has-a-valid-and-concerning-point-about-the-josh-simmons-fiasco-01m7tq2w5cm3"
+    },
+    {
+     "title": "Andy Reid confirms that the Chiefs' star “may” not play again this week",
+     "url": "https://www.marca.com/en/nfl/kansas-city-chiefs/2026/11/17/andy-reid-confirms-that-the-chiefs-star-may-not-play-again-this-week.html"
+    }
+   ]
+  },
+  {
+   "q": "nick saban national championship picks",
+   "traffic": "200+",
+   "geo": "US",
+   "trending_started_at": "2026-11-20T23:40:00Z",
+   "observed_at": "2026-11-21T00:08:25.091780Z",
+   "feed_url": "https://trends.google.com/trending/rss?geo=US",
+   "news": [
+    {
+     "title": "Nick Saban says Alabama isn't in the elite tier of national championship contenders",
+     "url": "https://www.cbssports.com/college-football/news/nick-saban-alabama-elite-tier-national-championship-contenders/"
+    },
+    {
+     "title": "Nick Saban Makes Strong Statement on Alabama’s Controversial No. 3 Ranking",
+     "url": "https://sports.yahoo.com/articles/nick-saban-makes-strong-statement-233146084.html"
+    },
+    {
+     "title": "Nick Saban doesn't count Alabama among three teams with the 'right stuff,' explains why",
+     "url": "https://247sports.com/college/alabama/article/nick-saban-doesnt-count-alabama-among-three-teams-with-the-right-stuff-explains-why-293013190/"
+    }
+   ]
+  },
+  {
+   "q": "raptors vs pistons",
+   "traffic": "5000+",
+   "geo": "US",
+   "trending_started_at": "2026-11-20T23:30:00Z",
+   "observed_at": "2026-11-21T00:08:25.091780Z",
+   "feed_url": "https://trends.google.com/trending/rss?geo=US",
+   "news": [
+    {
+     "title": "How to watch Raptors vs Pistons: NBA, live stream, TV channel",
+     "url": "https://sports.yahoo.com/articles/watch-raptors-vs-pistons-nba-233000553.html"
+    },
+    {
+     "title": "Toronto Raptors vs. Detroit Pistons Live NBA Updates, Scores and Highlights",
+     "url": "https://bleacherreport.com/liveblogs/25535768-toronto-raptors-vs-detroit-pistons-live-nba-updates-scores-and-highlights"
+    },
+    {
+     "title": "Where to watch Friday's Pistons vs Raptors streaming-only game",
+     "url": "https://www.freep.com/story/sports/nba/pistons/2026/11/20/pistons-raptors-channel-time-stream/92861227007/"
+    }
+   ]
+  },
+  {
+   "q": "magic vs nets",
+   "traffic": "2000+",
+   "geo": "US",
+   "trending_started_at": "2026-11-20T23:30:00Z",
+   "observed_at": "2026-11-21T00:08:25.091780Z",
+   "feed_url": "https://trends.google.com/trending/rss?geo=US",
+   "news": [
+    {
+     "title": "Why The Orlando Magic Have A Perfect Bounce-Back Opportunity Against The Nets",
+     "url": "https://sports.yahoo.com/articles/why-orlando-magic-perfect-bounce-190003243.html"
+    },
+    {
+     "title": "Game Preview: Nets look to snap losing streak against Magic in NBA Cup",
+     "url": "https://www.netsdaily.com/nets-game-previews/116450/nets-magic-preview-nba-cup-losing-streak"
+    },
+    {
+     "title": "Orlando Magic vs Brooklyn Nets Prediction, Picks & Odds | NBA Friday",
+     "url": "https://www.sportsgambler.com/betting-tips/basketball/orlando-magic-vs-brooklyn-nets-prediction-odds-6014922/"
+    }
+   ]
+  },
+  {
+   "q": "coastal flood warning",
+   "traffic": "1000+",
+   "geo": "US",
+   "trending_started_at": "2026-11-20T23:30:00Z",
+   "observed_at": "2026-11-21T00:08:25.091780Z",
+   "feed_url": "https://trends.google.com/trending/rss?geo=US",
+   "news": [
+    {
+     "title": "Live storm updates: Bay Area cleans up after severe flooding with more storms, king tides coming",
+     "url": "https://abc7news.com/live-updates/live-bay-area-storm-updates-tornado-warning-issued-santa-cruz-county-waterspouts-spotted-san-francisco/20045464/"
+    },
+    {
+     "title": "Downtown San Francisco sets new daily rainfall record for Nov. 18",
+     "url": "https://www.nbcbayarea.com/news/local/downtown-san-francisco-new-nov-18-rainfall-record/4178295/"
+    },
+    {
+     "title": "LIVE: Storm brings heavy rain, strong winds to Bay Area | Latest weather updates",
+     "url": "https://www.ktvu.com/live-blog/news/bay-area-rain-storm-el-nino-wednesday-updates"
+    }
+   ]
+  },
+  {
+   "q": "pancreatic cancer drug daraxonrasib",
+   "traffic": "2000+",
+   "geo": "US",
+   "trending_started_at": "2026-11-20T23:30:00Z",
+   "observed_at": "2026-11-21T00:08:25.091780Z",
+   "feed_url": "https://trends.google.com/trending/rss?geo=US",
+   "news": [
+    {
+     "title": "Massive hope for pancreatic cancer pill after trial saw tumours vanish",
+     "url": "https://www.bbc.com/news/articles/cqrmgjnzz9l0o"
+    },
+    {
+     "title": "Drug-chemo combo studied at Dana-Farber is effective in pancreatic cancer fight",
+     "url": "https://www.cbsnews.com/boston/video/drug-chemo-combo-studied-at-dana-farber-is-effective-in-pancreatic-cancer-fight/"
+    },
+    {
+     "title": "Pill to treat pancreatic cancer hailed as ‘biggest breakthrough in decades’",
+     "url": "https://www.theguardian.com/society/2026/nov/20/pill-pancreatic-cancer-breakthrough-daraxonrasib"
+    }
+   ]
+  },
+  {
+   "q": "വിജയ്",
+   "traffic": "100+",
+   "geo": "IN",
+   "trending_started_at": "2026-11-20T23:50:00Z",
+   "observed_at": "2026-11-21T00:08:25.091780Z",
+   "feed_url": "https://trends.google.com/trending/rss?geo=IN",
+   "news": [
+    {
+     "title": "വി.എസ്.ബാബുവിന്റെ മരണത്തിൽ ദുരൂഹതയെന്ന് പരാതി- TVK | MLA VS Babu Death",
+     "url": "https://www.manoramaonline.com/news/latest-news/2026/11/21/tvk-mla-vs-babu-death-mystery-raises-suspicions.html"
+    },
+    {
+     "title": "മൃതദേഹം ചുമന്ന് വിജയ്; സ്റ്റാലിനെ തോൽപ്പിച്ച ടി.വി.കെ നേതാവിന് വിട | Madhyamam",
+     "url": "https://www.madhyamam.com/india/vijay-bids-farewell-to-tvk-mla-vs-babu-1574225"
+    },
+    {
+     "title": "ബാബുവിന്‍റെ മൃതദേഹം ചുമലിലേറ്റി; നഗ്നപാദനായി വാഹനത്തിനൊപ്പം നടന്ന് വിജയ്; വൈകാരിക രംഗങ്ങള്‍",
+     "url": "https://www.manoramanews.com/india/latest/2026/11/20/chief-minister-joseph-vijay-carried-the-mortal-remains-of-mla-vs-babu-on-his-shoulders.html"
+    }
+   ]
+  },
+  {
+   "q": "கடன்",
+   "traffic": "1000+",
+   "geo": "IN",
+   "trending_started_at": "2026-11-20T23:40:00Z",
+   "observed_at": "2026-11-21T00:08:25.091780Z",
+   "feed_url": "https://trends.google.com/trending/rss?geo=IN",
+   "news": [
+    {
+     "title": "பயிா்க் கடன் தள்ளுபடி: கூடுதலாக ரூ.2,578 கோடி விடுவிப்பு",
+     "url": "https://www.dinamani.com/tamilnadu/2026/Nov/18/crop-loan-waiver-additional-rs-2578-crore-released"
+    },
+    {
+     "title": "'விவசாய கடனை முழுமையாக தள்ளுபடி செய்ய வேண்டும்!' - மீண்டும் போராட்டத்தை அறிவித்த விவசாய சங்கங்கள்",
+     "url": "https://www.vikatan.com/agriculture/farmers-protest-against-tvk-government"
+    },
+    {
+     "title": "விவசாயிகளுக்கு குட் நியூஸ்... ரூ.75 ஆயிரம் கடன் தள்ளுபடி! நவம்பர் 30-க்குள் செலுத்தினால்",
+     "url": "https://tamil.abplive.com/agriculture/good-news-for-farmers-rs-75-000-loan-waiver-government-to-cover-interest-if-repaid-by-november-30-tnn-279807"
+    }
+   ]
+  },
+  {
+   "q": "జాతకం",
+   "traffic": "100+",
+   "geo": "IN",
+   "trending_started_at": "2026-11-20T23:40:00Z",
+   "observed_at": "2026-11-21T00:08:25.091780Z",
+   "feed_url": "https://trends.google.com/trending/rss?geo=IN",
+   "news": [
+    {
+     "title": "దినఫలాలు: నేడు ఈ రాశి వారికి కుటుంబ సభ్యుల నుంచి ధన సహాయం",
+     "url": "https://telugu.newsmeter.in/astrology/daily-hoscope-20-11-2026-779645"
+    },
+    {
+     "title": "Monday Horoscope: ఈ రాశుల వారికి చేతినిండా పని...ఆర్థికంగా అనుకూలం",
+     "url": "https://www.hmtvlive.com/telugu-news/astrology/today-horoscope-financial-gains-busy-schedule-213381"
+    },
+    {
+     "title": "Today Horoscope In Telugu: ఈ రాశి వారికి సన్నిహితుల నుంచి ధనలాభం",
+     "url": "https://www.sakshi.com/telugu-news/astrology/rasi-phalalu-daily-horoscope-18-11-2026-telugu-2963896"
+    }
+   ]
+  },
+  {
+   "q": "पाकिस्तान राष्ट्रीय क्रिकेट टीम",
+   "traffic": "100+",
+   "geo": "IN",
+   "trending_started_at": "2026-11-20T23:40:00Z",
+   "observed_at": "2026-11-21T00:08:25.091780Z",
+   "feed_url": "https://trends.google.com/trending/rss?geo=IN",
+   "news": [
+    {
+     "title": "Blind Cricket Asia Cup: भारत ने ट्रॉफी सेरेमनी का किया बहिष्कार, बिना फाइनल खेले पाकिस्तान बना चैम्पियन... अब आगे मैच नहीं खेलने की चेतावनी",
+     "url": "https://www.aajtak.in/sports/cricket/story/india-boycotts-blind-cricket-asia-cup-trophy-ceremony-pakistan-declared-winners-bmsp-dskc-2701579-2026-11-20"
+    },
+    {
+     "title": "बारिश में धुला IND vs PAK फाइनल, फिर भी पाकिस्तान को दे दी ट्रॉफी, भारत ने अवॉर्ड सेरेमनी का किया बहिष्कार",
+     "url": "https://www.indiatv.in/sports/cricket/ind-vs-pak-india-rejects-pakistan-controversial-asia-cup-title-demands-recognition-as-joint-winners-2026-11-20-1255435"
+    },
+    {
+     "title": "रेफरी के फैसले से मचा बवाल, भारत के खिलाफ बारिश से रद्द मैच में पाकिस्तान को विजेता का ताज, सरेआम हुई चीटिं...",
+     "url": "https://hindi.news18.com/cricket/ind-vs-pak-mens-blind-cricket-asia-cup-2026-final-washed-out-referee-declared-pakistan-winner-vs-india-spark-major-controversy-11001104.html"
+    }
+   ]
+  },
+  {
+   "q": "sam harper",
+   "traffic": "100+",
+   "geo": "IN",
+   "trending_started_at": "2026-11-20T23:20:00Z",
+   "observed_at": "2026-11-21T00:08:25.091780Z",
+   "feed_url": "https://trends.google.com/trending/rss?geo=IN",
+   "news": [
+    {
+     "title": "All you need to know for the Australia v England T20Is",
+     "url": "https://www.cricket.com.au/news/4611669/australia-v-england-t20-series-guide-preview-team-squad-news-broadcast-details-tickets-harper-debut-brook-rew-marsh-david"
+    },
+    {
+     "title": "Match Forecast: Australia vs England, 1st T20I",
+     "url": "https://www.cricbuzz.com/cricket-videos/220437/match-forecast-australia-vs-england-1st-t20i"
+    },
+    {
+     "title": "Harper's Australia debut a much-needed good story",
+     "url": "https://www.cricinfo.com/story/sam-harper-s-australia-debut-a-much-needed-good-story-1563295"
+    }
+   ]
+  },
+  {
+   "q": "kl rahul",
+   "traffic": "50000+",
+   "geo": "IN",
+   "trending_started_at": "2026-11-20T23:10:00Z",
+   "observed_at": "2026-11-21T00:08:25.091780Z",
+   "feed_url": "https://trends.google.com/trending/rss?geo=IN",
+   "news": [
+    {
+     "title": "Jaiswal & Rahul lead India's strong reply | Dinesh Karthik reviews Day 2",
+     "url": "https://m.cricbuzz.com/cricket-videos/220356/jaiswal-rahul-lead-indias-strong-reply-dinesh-karthik-reviews-day-2"
+    },
+    {
+     "title": "Nicholls braces for tougher tests against Bumrah after century in Wellington",
+     "url": "https://www.telegraphindia.com/sports/cricket/henry-nicholls-braces-for-tougher-tests-against-jasprit-bumrah-after-century-in-wellington-prnt/cid/2190375"
+    },
+    {
+     "title": "IND vs NZ: Jaiswal-Rahul show put India in strong Position",
+     "url": "https://www.thehindu.com/videos/shorts/ind-vs-nz-jaiswal-rahul-show-put-india-in-strong-position/article71724672.ece"
+    }
+   ]
+  },
+  {
+   "q": "s&p 500",
+   "traffic": "100+",
+   "geo": "IN",
+   "trending_started_at": "2026-11-20T23:00:00Z",
+   "observed_at": "2026-11-21T00:08:25.091780Z",
+   "feed_url": "https://trends.google.com/trending/rss?geo=IN",
+   "news": [
+    {
+     "title": "S&P 500 and Dow close in correction; Nasdaq erases 2026 gain as AI rout picks up steam",
+     "url": "https://www.cnbc.com/2026/11/19/stock-market-today-live-updates.html"
+    },
+    {
+     "title": "Nasdaq wipes out gains for the year as Anthropic IPO fails to quell AI nerves",
+     "url": "https://www.cnn.com/2026/11/20/investing/us-stocks-anthropic-ai"
+    },
+    {
+     "title": "Stock Market Today: Dow, S&P 500 Enter Correction Territory — Live Updates",
+     "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-20-2026"
+    }
+   ]
+  },
+  {
+   "q": "athletic bilbao vs espanyol standings",
+   "traffic": "200+",
+   "geo": "IN",
+   "trending_started_at": "2026-11-20T22:50:00Z",
+   "observed_at": "2026-11-21T00:08:25.091780Z",
+   "feed_url": "https://trends.google.com/trending/rss?geo=IN",
+   "news": [
+    {
+     "title": "Athletic Club vs Espanyol: Spanish La Liga stats & head-to-head",
+     "url": "https://www.bbc.com/sport/football/live/ckg5r28gd2l1t"
+    },
+    {
+     "title": "Espanyol returns to winning by speaking Sarabia's language",
+     "url": "https://en.ara.cat/sports/espanyol-returns-to-winning-by-speaking-sarabia-s-language_1_5918036.html"
+    },
+    {
+     "title": "Athletic line up Yeray, Prados and Sancet vs Espanyol",
+     "url": "https://www.tufutbolero.com/en/news/athletic-line-up-yeray-prados-and-sancet-vs-espanyol-93d4c1"
+    }
+   ]
+  },
+  {
+   "q": "samsung one ui 9.5 beta",
+   "traffic": "5000+",
+   "geo": "IN",
+   "trending_started_at": "2026-11-20T22:40:00Z",
+   "observed_at": "2026-11-21T00:08:25.091780Z",
+   "feed_url": "https://trends.google.com/trending/rss?geo=IN",
+   "news": [
+    {
+     "title": "One UI 9.5 could bring native full-sensor video recording to Galaxy phones",
+     "url": "https://www.androidauthority.com/one-ui-9-5-native-open-gate-recording-camera-apk-teardown-3736993/"
+    },
+    {
+     "title": "Samsung One UI 9.5 Beta Is Here: 5 New Features and Which Galaxy Phones Qualify",
+     "url": "https://www.techrepublic.com/article/news-samsung-one-ui-9-5-beta-features-eligible-phones/"
+    },
+    {
+     "title": "One UI 9.5 brings a notable change to Galaxy S26 camera",
+     "url": "https://www.sammobile.com/news/one-ui-9-5-notable-change-galaxy-s26-ultra-camera/"
+    }
+   ]
+  },
+  {
+   "q": "bayern munich vs 1. fc köln standings",
+   "traffic": "5000+",
+   "geo": "IN",
+   "trending_started_at": "2026-11-20T21:40:00Z",
+   "observed_at": "2026-11-21T00:08:25.091780Z",
+   "feed_url": "https://trends.google.com/trending/rss?geo=IN",
+   "news": [
+    {
+     "title": "Harry Kane ‘out for next few months’ after ankle ligament injury in Bayern Munich draw",
+     "url": "https://www.theguardian.com/football/2026/nov/20/harry-kane-ankle-ligament-injury-bayern-munich-england"
+    },
+    {
+     "title": "Harry Kane forced off early with injury in Bayern Munich game",
+     "url": "https://www.espn.in/football/story/_/id/50543079/harry-kane-injury-bayern-munich"
+    },
+    {
+     "title": "New face in the squad! Vincent Kompany springs a surprise with selection against Köln",
+     "url": "https://www.goal.com/en-in/news/new-face-in-the-squad-vincent-kompany-springs-a-surprise-with-selection-against-koeln/blt6362a909b6f15295"
+    }
+   ]
+  },
+  {
+   "q": "pancreatic cancer drug daraxonrasib",
+   "traffic": "5000+",
+   "geo": "GB",
+   "trending_started_at": "2026-11-20T23:50:00Z",
+   "observed_at": "2026-11-21T00:08:25.091780Z",
+   "feed_url": "https://trends.google.com/trending/rss?geo=GB",
+   "news": [
+    {
+     "title": "Massive hope for pancreatic cancer pill after trial saw tumours vanish",
+     "url": "https://www.bbc.co.uk/news/articles/cqrmgjnzz9l0o"
+    },
+    {
+     "title": "Pill to treat pancreatic cancer hailed as ‘biggest breakthrough in decades’",
+     "url": "https://www.theguardian.com/society/2026/nov/20/pill-pancreatic-cancer-breakthrough-daraxonrasib"
+    },
+    {
+     "title": "New pancreatic cancer drug halts tumour growth in 90% of patients",
+     "url": "https://www.ft.com/content/6f8575e7-48df-4537-8c8d-73433f086e87?syn-25a6b1a6=1"
+    }
+   ]
+  },
+  {
+   "q": "royal news",
+   "traffic": "2000+",
+   "geo": "GB",
+   "trending_started_at": "2026-11-20T23:40:00Z",
+   "observed_at": "2026-11-21T00:08:25.091780Z",
+   "feed_url": "https://trends.google.com/trending/rss?geo=GB",
+   "news": [
+    {
+     "title": "King volunteers to pay mansion tax",
+     "url": "https://www.telegraph.co.uk/royal-family/2026/11/20/king-charles-pay-mansion-tax-royal-palaces-voluntarily/"
+    },
+    {
+     "title": "King volunteers to pay mansion tax on royal palaces",
+     "url": "https://www.thetimes.com/uk/royal-family/article/king-pay-mansion-tax-royal-palaces-ttvbn92ts"
+    },
+    {
+     "title": "King Charles ‘will pay Burnham’s mansion tax on all his palaces’",
+     "url": "https://www.independent.co.uk/news/uk/home-news/king-charles-mansion-tax-balmoral-sandringham-b3088824.html"
+    }
+   ]
+  },
+  {
+   "q": "jesse plemons",
+   "traffic": "100+",
+   "geo": "GB",
+   "trending_started_at": "2026-11-20T23:40:00Z",
+   "observed_at": "2026-11-21T00:08:25.091780Z",
+   "feed_url": "https://trends.google.com/trending/rss?geo=GB",
+   "news": [
+    {
+     "title": "Sunrise on the Reaping's Jesse Plemons on why he didn't want role at first",
+     "url": "https://www.radiotimes.com/movies/scifi/sunrise-on-the-reaping-jesse-plemons-philip-seymour-hoffman-exclusive-newsupdate/"
+    },
+    {
+     "title": "Jesse Plemons as Plutarch Heavensbee in \"The Hunger Games: Sunrise on the Reaping.\"",
+     "url": "https://lufkindailynews.com/news_reuters/national/jesse-plemons-as-plutarch-heavensbee-in-the-hunger-games-sunrise-on-the-reaping/image_d3416329-eba9-55b5-96b4-eff5e32dce66.html"
+    },
+    {
+     "title": "New Hunger Games cast say joining the franchise is 'nerve-racking'",
+     "url": "https://www.bbc.co.uk/news/articles/c8752w5vz2zqo"
+    }
+   ]
+  },
+  {
+   "q": "fall",
+   "traffic": "1000+",
+   "geo": "GB",
+   "trending_started_at": "2026-11-20T23:30:00Z",
+   "observed_at": "2026-11-21T00:08:25.091780Z",
+   "feed_url": "https://trends.google.com/trending/rss?geo=GB",
+   "news": [
+    {
+     "title": "Tech stock sell-off drags markets down as Anthropic shares slide",
+     "url": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo"
+    },
+    {
+     "title": "Is Claude creator Anthropic really worth $1.3 trillion? - The Latest",
+     "url": "https://www.theguardian.com/news/video/2026/nov/20/is-claude-creator-anthropic-really-worth-15-trillion-the-latest"
+    },
+    {
+     "title": "Inside Anthropic’s historic IPO",
+     "url": "https://www.ft.com/content/149d497e-0567-4467-bcfb-269b8b8eb157?syn-25a6b1a6=1"
+    }
+   ]
+  },
+  {
+   "q": "bowling alley safe code gta 6",
+   "traffic": "200+",
+   "geo": "GB",
+   "trending_started_at": "2026-11-20T23:30:00Z",
+   "observed_at": "2026-11-21T00:08:25.091780Z",
+   "feed_url": "https://trends.google.com/trending/rss?geo=GB",
+   "news": [
+    {
+     "title": "All GTA 6 Safe Codes for Chapter 2 in Port Gellhorn",
+     "url": "https://www.vice.com/en/article/gta-6-chapter-2-port-gellhorn-safe-codes/"
+    },
+    {
+     "title": "All Bowling Alley Robbery Loot & Secrets Locations - GTA 6",
+     "url": "https://mobalytics.gg/gamebase/guides/grand-theft-auto-6-bowling-alley-heist"
+    },
+    {
+     "title": "La Cascara Motel Walkthrough",
+     "url": "https://www.ign.com/wikis/gta-6/La_Cascara_Motel"
+    }
+   ]
+  },
+  {
+   "q": "dakota fanning",
+   "traffic": "100+",
+   "geo": "GB",
+   "trending_started_at": "2026-11-20T23:30:00Z",
+   "observed_at": "2026-11-21T00:08:25.091780Z",
+   "feed_url": "https://trends.google.com/trending/rss?geo=GB",
+   "news": [
+    {
+     "title": "‘The Nightingale’ First Look Starring Dakota and Elle Fanning in Their First Film As Sisters: “It Certainly Brought Us Closer”",
+     "url": "https://www.vanityfair.com/story/the-nightingale-exclusive-first-look-images-dakota-elle-fanning-kristin-hannah"
+    },
+    {
+     "title": "Elle and Dakota Fanning Share Screen for First Time, Playing Sisters in ‘The Nightingale’ Trailer",
+     "url": "https://www.hollywoodreporter.com/movies/movie-news/the-nightingale-trailer-elle-fanning-dakota-fanning-hannah-1236759409/"
+    },
+    {
+     "title": "The Teaser Trailer For The Nightingale Flies In On Gilded Wings",
+     "url": "https://thefutureoftheforce.com/2026/11/19/the-teaser-trailer-for-the-nightingale-flies-in-on-gilded-wings/"
+    }
+   ]
+  },
+  {
+   "q": "jaguar land rover byd lawsuit",
+   "traffic": "200+",
+   "geo": "GB",
+   "trending_started_at": "2026-11-20T23:20:00Z",
+   "observed_at": "2026-11-21T00:08:25.091780Z",
+   "feed_url": "https://trends.google.com/trending/rss?geo=GB",
+   "news": [
+    {
+     "title": "Dutch court bars Chinese SUV in Europe over resemblance to Land Rover Defender",
+     "url": "https://www.reuters.com/world/china/chinas-byd-has-suv-that-infringes-jlr-defender-design-dutch-court-rules-2026-11-20/"
+    },
+    {
+     "title": "BYD’s ‘copycat Defender’ banned from EU after JLR court victory",
+     "url": "https://www.thetimes.com/business/companies-markets/article/jaguar-land-rover-byd-copycat-defender-china-qfv29grwv"
+    },
+    {
+     "title": "China’s BYD banned from selling ‘copycat Land Rover’ in Europe",
+     "url": "https://www.telegraph.co.uk/business/2026/11/20/chinas-byd-banned-from-selling-copycat-land-rover-in-europe/"
+    }
+   ]
+  },
+  {
+   "q": "devdutt padikkal",
+   "traffic": "5000+",
+   "geo": "GB",
+   "trending_started_at": "2026-11-20T23:20:00Z",
+   "observed_at": "2026-11-21T00:08:25.091780Z",
+   "feed_url": "https://trends.google.com/trending/rss?geo=GB",
+   "news": [
+    {
+     "title": "Ball by Ball Commentary & Live Score - NZ vs IND, 1st Test",
+     "url": "https://www.cricinfo.com/series/india-in-new-zealand-2026-27-1539421/new-zealand-vs-india-1st-test-1539442/ball-by-ball-commentary"
+    },
+    {
+     "title": "Historic first for New Zealand batter following India century",
+     "url": "https://www.icc-cricket.com/tournaments/world-test-championship/news/historic-first-for-new-zealand-batter-following-india-century"
+    },
+    {
+     "title": "Hard toil ahead of Black Caps in first India test at Basin Reserve after mixed use of reviews",
+     "url": "https://www.stuff.co.nz/sport/361061572/hard-toil-ahead-black-caps-first-india-test-basin-reserve-after-mixed-use-reviews"
+    }
+   ]
+  },
+  {
+   "q": "robbie williams",
+   "traffic": "200+",
+   "geo": "GB",
+   "trending_started_at": "2026-11-20T23:20:00Z",
+   "observed_at": "2026-11-21T00:08:25.091780Z",
+   "feed_url": "https://trends.google.com/trending/rss?geo=GB",
+   "news": [
+    {
+     "title": "Robbie Williams showed up at Jay-Z and Beyoncé’s house, and got turned away",
+     "url": "https://www.nme.com/news/music/robbie-williams-showed-up-at-jay-z-and-beyonces-house-and-got-turned-away-3976525"
+    },
+    {
+     "title": "Robbie Williams recounts how he went to Jay Z and Beyonce's house uninvited",
+     "url": "https://en.vijesti.me/fun/interesting/837287/robi-vilijams-prepricao-kako-je-nepozvan-otisao-u-kucu-dzej-zija-i-bijonse"
+    },
+    {
+     "title": "Robbie Williams’ Hilarious Mix-Up With Jay-Z And Beyoncé Has Left The Internet In Stitches",
+     "url": "https://www.aol.com/articles/robbie-williams-hilarious-mix-jay-123402000.html"
+    }
+   ]
+  },
+  {
+   "q": "maysilee donner",
+   "traffic": "100+",
+   "geo": "GB",
+   "trending_started_at": "2026-11-20T23:10:00Z",
+   "observed_at": "2026-11-21T00:08:25.091780Z",
+   "feed_url": "https://trends.google.com/trending/rss?geo=GB",
+   "news": [
+    {
+     "title": "Why Maysilee Donner From The Hunger Games: Sunrise On The Reaping Looks So Familiar",
+     "url": "https://www.imdb.com/es/news/ni66121269/?ref_=nwc_art_perm"
+    },
+    {
+     "title": "'Hunger Games' Costume Designer Confirms Tragic Maysilee Fan Theory",
+     "url": "https://www.bustle.com/entertainment/hunger-games-maysilee-costume-fan-theory"
+    },
+    {
+     "title": "Why Maysilee Donner From The Hunger Games: Sunrise On The Reaping Looks So Familiar",
+     "url": "https://www.slashfilm.com/2323450/maysilee-donner-the-hunger-games-sunrise-on-the-reaping-actress-mckenna-grace/"
+    }
+   ]
+  },
+  {
+   "q": "katie zacharia",
+   "traffic": "100+",
+   "geo": "AU",
+   "trending_started_at": "2026-11-20T23:50:00Z",
+   "observed_at": "2026-11-21T00:08:25.091780Z",
+   "feed_url": "https://trends.google.com/trending/rss?geo=AU",
+   "news": [
+    {
+     "title": "Fired White House press secretary Katie Zacharia under California state bar investigation",
+     "url": "https://www.theguardian.com/us-news/2026/nov/20/katie-zacharia-california-bar-investigation"
+    },
+    {
+     "title": "Trump Ex–Press Secretary’s Claim to Be Lawyer Comes Back to Bite Her",
+     "url": "https://newrepublic.com/post/218217/donald-trump-press-secretary-katie-zacharia-bar-investigation"
+    },
+    {
+     "title": "Katie Zacharia under investigation over legal work in California, state bar says",
+     "url": "https://www.the-independent.com/news/world/americas/us-politics/katie-zacharia-under-investigation-over-legal-work-in-california-state-bar-says-b3088281.html"
+    }
+   ]
+  },
+  {
+   "q": "hawks vs hornets",
+   "traffic": "200+",
+   "geo": "AU",
+   "trending_started_at": "2026-11-20T23:40:00Z",
+   "observed_at": "2026-11-21T00:08:25.091780Z",
+   "feed_url": "https://trends.google.com/trending/rss?geo=AU",
+   "news": [
+    {
+     "title": "Charlotte Hornets at Atlanta Hawks odds, picks and predictions",
+     "url": "https://www.visaliatimesdelta.com/story/sports/nba/2026/11/19/hornets-at-hawks-odds-picks-and-predictions/92870239007/"
+    },
+    {
+     "title": "NBA First Basket Picks Today (Nov. 20): Brandon Miller vs. Hawks",
+     "url": "https://www.lineups.com/articles/nba-first-basket-picks-today-nov-20-brandon-miller/"
+    },
+    {
+     "title": "Hawks must avoid overlooking next opponent as unexpected loss would be brutal",
+     "url": "https://soaringdownsouth.com/hawks-avoid-opponent-loss-brutal"
+    }
+   ]
+  },
+  {
+   "q": "melbourne weather forecast",
+   "traffic": "100+",
+   "geo": "AU",
+   "trending_started_at": "2026-11-20T23:40:00Z",
+   "observed_at": "2026-11-21T00:08:25.091780Z",
+   "feed_url": "https://trends.google.com/trending/rss?geo=AU",
+   "news": [
+    {
+     "title": "Weather report for Northcote",
+     "url": "https://www.heraldsun.com.au/leader/north/hyperlocal/heres-what-you-can-expect-with-todays-northcote-weather/news-story/ec2fb3bd1485634551dabee561c18e92"
+    },
+    {
+     "title": "Weather report for Caufield",
+     "url": "https://www.heraldsun.com.au/leader/inner-south/hyperlocal/heres-what-you-can-expect-with-todays-caufield-weather/news-story/4073d392745a33e31b14eef86b39c1fd"
+    },
+    {
+     "title": "Weather report for Moreland",
+     "url": "https://www.heraldsun.com.au/leader/north-west/hyperlocal/heres-what-you-can-expect-with-todays-moreland-weather/news-story/d8e78c94816b2032060631d5f0eb67bb"
+    }
+   ]
+  },
+  {
+   "q": "amal clooney",
+   "traffic": "100+",
+   "geo": "AU",
+   "trending_started_at": "2026-11-20T23:40:00Z",
+   "observed_at": "2026-11-21T00:08:25.091780Z",
+   "feed_url": "https://trends.google.com/trending/rss?geo=AU",
+   "news": [
+    {
+     "title": "Amal Clooney’s new golden-brown mini dress is a masterclass in sophisticated party season style",
+     "url": "https://www.harpersbazaar.com/uk/fashion/shopping/a74486922/amal-clooney-brown-dress/"
+    },
+    {
+     "title": "Amal Clooney Wears a Leg-Baring Olive Dress for High-Profile London Event",
+     "url": "https://www.instyle.com/amal-clooney-wears-leg-baring-olive-dress-meaningful-occasion-12265115"
+    },
+    {
+     "title": "Amal Clooney’s new golden-brown mini dress is a masterclass in sophisticated party season style",
+     "url": "https://ca.style.yahoo.com/amal-clooney-golden-brown-mini-122200047.html"
+    }
+   ]
+  },
+  {
+   "q": "nato",
+   "traffic": "500+",
+   "geo": "AU",
+   "trending_started_at": "2026-11-20T23:30:00Z",
+   "observed_at": "2026-11-21T00:08:25.091780Z",
+   "feed_url": "https://trends.google.com/trending/rss?geo=AU",
+   "news": [
+    {
+     "title": "Russian missile hits Poland as Ukraine's allies hold military exercise, says Tusk",
+     "url": "https://www.bbc.com/news/articles/cqx2x9dklxnro"
+    },
+    {
+     "title": "Trump stuns with Putin’s private claim",
+     "url": "https://www.news.com.au/world/world-news-live-russia-unleashes-one-of-the-largest-attacks-ever-against-ukraine-zelensky-says/live-coverage/27638543560e529b7a691e6e79efca32"
+    },
+    {
+     "title": "Russian missiles and drone hit Poland during attacks on Ukraine",
+     "url": "https://www.theguardian.com/world/2026/nov/20/russian-missiles-drone-poland-attacks-ukraine"
+    }
+   ]
+  },
+  {
+   "q": "devdutt padikkal",
+   "traffic": "1000+",
+   "geo": "AU",
+   "trending_started_at": "2026-11-20T23:30:00Z",
+   "observed_at": "2026-11-21T00:08:25.091780Z",
+   "feed_url": "https://trends.google.com/trending/rss?geo=AU",
+   "news": [
+    {
+     "title": "Ball by Ball Commentary & Live Score - NZ vs IND, 1st Test",
+     "url": "https://www.cricinfo.com/series/india-in-new-zealand-2026-27-1539421/new-zealand-vs-india-1st-test-1539442/ball-by-ball-commentary"
+    },
+    {
+     "title": "Black Caps made to work as India's batters dig in on day three",
+     "url": "https://www.nzherald.co.nz/sport/cricket/black-caps/black-caps-v-india-live-updates-first-test-day-three-from-wellingtons-basin-reserve/ONOQXK2WXNETXEHEDUOXJPZGSA/"
+    },
+    {
+     "title": "New Zealand v India - India in New Zealand 2026, 1st Test - Cricket Score Centre - Live Cricket Scores",
+     "url": "https://www.abc.net.au/news/sport/score-centre/cricket/2026-11-20/nzl-ind/67776"
+    }
+   ]
+  },
+  {
+   "q": "pancreatic cancer pill",
+   "traffic": "200+",
+   "geo": "AU",
+   "trending_started_at": "2026-11-20T23:20:00Z",
+   "observed_at": "2026-11-21T00:08:25.091780Z",
+   "feed_url": "https://trends.google.com/trending/rss?geo=AU",
+   "news": [
+    {
+     "title": "Pill to treat pancreatic cancer hailed as ‘biggest breakthrough in decades’",
+     "url": "https://www.theguardian.com/society/2026/nov/20/pill-pancreatic-cancer-breakthrough-daraxonrasib"
+    },
+    {
+     "title": "Massive hope for pancreatic cancer pill after trial saw tumours vanish",
+     "url": "https://www.bbc.com/news/articles/cqrmgjnzz9l0o"
+    },
+    {
+     "title": "New pancreatic cancer drug halts tumour growth in 90% of patients",
+     "url": "https://www.ft.com/content/6f8575e7-48df-4537-8c8d-73433f086e87?syn-25a6b1a6=1"
+    }
+   ]
+  },
+  {
+   "q": "robert pattinson suki waterhouse relationship",
+   "traffic": "100+",
+   "geo": "AU",
+   "trending_started_at": "2026-11-20T23:20:00Z",
+   "observed_at": "2026-11-21T00:08:25.091780Z",
+   "feed_url": "https://trends.google.com/trending/rss?geo=AU",
+   "news": [
+    {
+     "title": "Suki Waterhouse and Robert Pattinson to become Britain’s next big Hollywood power couple",
+     "url": "https://www.theguardian.com/film/2026/nov/20/suki-waterhouse-robert-pattinson-britain-hollywood-power-couple"
+    },
+    {
+     "title": "All About Robert Pattinson and Suki Waterhouse’s Relationship",
+     "url": "https://people.com/all-about-robert-pattinson-and-suki-waterhouse-relationship-12260623"
+    },
+    {
+     "title": "Suki Waterhouse Has Been Dropping James Bond Clues for Months",
+     "url": "https://www.vogue.com/article/suki-waterhouse-has-been-dropping-james-bond-clues-for-months-2026-11-18"
+    }
+   ]
+  },
+  {
+   "q": "nyt connections hints",
+   "traffic": "500+",
+   "geo": "AU",
+   "trending_started_at": "2026-11-20T23:10:00Z",
+   "observed_at": "2026-11-21T00:08:25.091780Z",
+   "feed_url": "https://trends.google.com/trending/rss?geo=AU",
+   "news": [
+    {
+     "title": "Today’s NYT Connections Hints and Answers for Friday, Nov. 20, #1258",
+     "url": "https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-november-20-1258/"
+    },
+    {
+     "title": "NYT Connections hints today: Meanings for each word for Nov. 19, 2026",
+     "url": "https://mashable.com/entertainment/nyt-connections-hints-meanings-november-19-2026"
+    },
+    {
+     "title": "NYT ‘Connections’ Hints And Answers For Friday, November 20",
+     "url": "https://www.forbes.com/sites/krisholt/2026/11/19/nyt-connections-hint-today-answer-friday-november-20-1258/"
+    }
+   ]
+  },
+  {
+   "q": "boeing 777",
+   "traffic": "100+",
+   "geo": "AU",
+   "trending_started_at": "2026-11-20T23:10:00Z",
+   "observed_at": "2026-11-21T00:08:25.091780Z",
+   "feed_url": "https://trends.google.com/trending/rss?geo=AU",
+   "news": [
+    {
+     "title": "Air France Boeing 777 to JFK is returning to Paris after mid-Atlantic U-turn due to cockpit instrument fault",
+     "url": "https://airlive.net/tracking/2026/11/20/air-france-boeing-777-to-jfk-is-returning-to-paris-after-mid-atlantic-u-turn-due-to-cockpit-instrument-fault/"
+    },
+    {
+     "title": "American phases out Flagship First on international flights",
+     "url": "https://thepointsguy.com/news/american-airlines-retires-flagship-first-international"
+    },
+    {
+     "title": "American Airlines Officially Discontinues Boeing 777-300ER Flagship First Sales",
+     "url": "https://simpleflying.com/american-airlines-officially-discontinues-boeing-777-300er-flaghship-first-sales/"
+    }
+   ]
+  },
   {
    "q": "retirement age",
    "traffic": "500+",
@@ -220,28 +1100,6 @@
     {
      "title": "Tigers, Troy Melton Agree To Six-Year Extension",
      "url": "https://www.mlbtraderumors.com/2026/11/tigers-troy-melton-agree-to-six-year-extension.html"
-    }
-   ]
-  },
-  {
-   "q": "bayern munich vs 1. fc köln standings",
-   "traffic": "2000+",
-   "geo": "IN",
-   "trending_started_at": "2026-11-20T21:40:00Z",
-   "observed_at": "2026-11-20T22:32:24.852472Z",
-   "feed_url": "https://trends.google.com/trending/rss?geo=IN",
-   "news": [
-    {
-     "title": "Harry Kane forced off early with injury in Bayern Munich game",
-     "url": "https://www.espn.in/football/story/_/id/50543079/harry-kane-injury-bayern-munich"
-    },
-    {
-     "title": "Bundesliga: Harry Kane substituted with injury for Bayern Munich",
-     "url": "https://www.bbc.com/sport/football/videos/cwly43kz02yeo"
-    },
-    {
-     "title": "Bayern Munich ratings against Köln: Jonas Urbig shines, three players get a 5 | Goal.com India",
-     "url": "https://www.goal.com/en-in/news/jonas-urbig-shines-three-bayern-munich-players-get-a-5-ratings-and-individual-assessments-from-the-draw-with-1-fc-koeln/blte49a4e840f86b5ab"
     }
    ]
   },
@@ -1342,843 +2200,6 @@
     {
      "title": "Aston Villa defender attracts ‘interest’ from Barnsley, Portsmouth and Swansea City",
      "url": "https://www.yorkshirepost.co.uk/sport/football/aston-villa-tj-carroll-barnsley-fc-portsmouth-swansea-city-9363913"
-    }
-   ]
-  },
-  {
-   "q": "farrah aldjufrie",
-   "traffic": "200+",
-   "geo": "GB",
-   "trending_started_at": "2026-11-20T20:10:00Z",
-   "observed_at": "2026-11-20T20:51:30.384594Z",
-   "feed_url": "https://trends.google.com/trending/rss?geo=GB",
-   "news": [
-    {
-     "title": "Kyle Richards’ daughter Farrah gives birth to first baby after ‘RHOBH’ star made frantic dash to the hospital mid-event",
-     "url": "https://pagesix.com/2026/11/17/parents/kyle-richards-daughter-farrah-gives-birth-to-first-baby-after-rhobh-star-made-frantic-dash-to-the-hospital-mid-event/"
-    },
-    {
-     "title": "Kyle Richards’ Daughter Farrah Welcomes First Baby with Zach Goldsmith (Exclusive)",
-     "url": "https://people.com/kyle-richards-daughter-farrah-welcomes-her-first-baby-with-zach-goldsmith-12260894"
-    },
-    {
-     "title": "Kyle Richards' Daughter Farrah Aldjufrie Gives Birth, Welcomes Baby Boy With Boyfriend Zach Goldsmith",
-     "url": "https://www.eonline.com/news/1438203/kyle-richards-daughter-farrah-aldjufrie-gives-birth-to-baby-with-boyfriend"
-    }
-   ]
-  },
-  {
-   "q": "the altruists",
-   "traffic": "500+",
-   "geo": "GB",
-   "trending_started_at": "2026-11-20T20:10:00Z",
-   "observed_at": "2026-11-20T20:51:30.384594Z",
-   "feed_url": "https://trends.google.com/trending/rss?geo=GB",
-   "news": [
-    {
-     "title": "The Altruists review – two of TV’s best actors light up this chaotic crypto tale",
-     "url": "https://www.theguardian.com/tv-and-radio/2026/nov/19/the-altruists-review-anthony-boyle-julia-garner"
-    },
-    {
-     "title": "The True Story Behind 'The Altruists' and the FTX Scandal",
-     "url": "https://time.com/article/2026/11/19/the-true-story-behind-the-altruists-sam-bankman-fried/"
-    },
-    {
-     "title": "The Altruists review — Julia Garner goes full geek in this tech-fraud drama",
-     "url": "https://www.thetimes.com/culture/tv-radio/article/the-altruists-review-julia-garner-netflix-gn9nbzmrj"
-    }
-   ]
-  },
-  {
-   "q": "victoria beckham",
-   "traffic": "200+",
-   "geo": "GB",
-   "trending_started_at": "2026-11-20T20:00:00Z",
-   "observed_at": "2026-11-20T20:51:30.384594Z",
-   "feed_url": "https://trends.google.com/trending/rss?geo=GB",
-   "news": [
-    {
-     "title": "Is Brooklyn homesick? Estranged Beckham son launches page selling British delicacies",
-     "url": "https://www.dailymail.com/tvshowbiz/article-16307513/Is-Brooklyn-homesick-Estranged-son-David-Victoria-Beckham-launches-page-selling-British-delicasies-moving-LA-cutting-family.html"
-    },
-    {
-     "title": "Brooklyn Beckham cashes in on British roots with latest career move despite ditching UK family life for LA",
-     "url": "https://www.gbnews.com/celebrity/brooklyn-beckham-british-roots-career-move-shopmy"
-    },
-    {
-     "title": "Victoria and David Beckham Join Romeo and Kim Turnbull on Red Carpet",
-     "url": "https://people.com/victoria-david-beckham-join-romeo-kim-turnbull-at-forty-love-premiere-12261776"
-    }
-   ]
-  },
-  {
-   "q": "bayern munich",
-   "traffic": "100+",
-   "geo": "AU",
-   "trending_started_at": "2026-11-20T20:30:00Z",
-   "observed_at": "2026-11-20T20:51:30.384594Z",
-   "feed_url": "https://trends.google.com/trending/rss?geo=AU",
-   "news": [
-    {
-     "title": "Kompany in 'good health' as he returns to coach Bayern after collapse",
-     "url": "https://www.espn.com.au/football/story/_/id/50530204/vincent-kompany-good-health-bayern-munich-collapse"
-    },
-    {
-     "title": "\"Everything went perfectly\" - Kompany on recovery from illness ahead of Cologne in Bundesliga",
-     "url": "https://www.thechronicle.com.au/sport/everything-went-perfectly-kompany-on-recovery-from-illness-ahead-of-cologne-in-bundesliga/video/16ff5fd00233bf8095e5094373b6b653"
-    },
-    {
-     "title": "Bayern Munich's Harry Kane injured against Cologne",
-     "url": "https://www.bundesliga.com/en/bundesliga/news/harry-kane-ankle-injury-bayern-munich-cologne-england-40055"
-    }
-   ]
-  },
-  {
-   "q": "victorian election 2026",
-   "traffic": "100+",
-   "geo": "AU",
-   "trending_started_at": "2026-11-20T20:30:00Z",
-   "observed_at": "2026-11-20T20:51:30.384594Z",
-   "feed_url": "https://trends.google.com/trending/rss?geo=AU",
-   "news": [
-    {
-     "title": "Victoria's premier could be the first to lose his seat in 80 years",
-     "url": "https://www.abc.net.au/news/2026-11-20/victorian-election-niddrie-ben-carroll-samantha-byrne/107404570"
-    },
-    {
-     "title": "New poll: Labor headed for huge loss as record number of votes already cast",
-     "url": "https://www.heraldsun.com.au/news/victoria/state-election/poll-puts-coalition-primary-vote-at-31-per-cent-one-nation-24-per-cent-labor-22-per-cent-greens-15-per-cent-and-8-per-cent-other/news-story/03b5f85d726a1206e2b6347f9e65cec4"
-    },
-    {
-     "title": "Watch 9News Latest Stories - Season 2026 - Early voting suggests Premier Ben Carroll is on track to lose Niddrie seat",
-     "url": "https://www.9now.com.au/9news-latest-news/season-2026/clip-cmwmn4n1r000q0hmp5pb0zpto"
-    }
-   ]
-  },
-  {
-   "q": "margrethe ii",
-   "traffic": "100+",
-   "geo": "AU",
-   "trending_started_at": "2026-11-20T20:20:00Z",
-   "observed_at": "2026-11-20T20:51:30.384594Z",
-   "feed_url": "https://trends.google.com/trending/rss?geo=AU",
-   "news": [
-    {
-     "title": "Queen’s death mistakenly announced days before sudden health scare",
-     "url": "https://www.nine.com.au/lifestyle/royals/queen-margrethe-ii-cancels-event-throat-infection-after-tv-station-mistaken-death-announcement-20261118-p61f3x.html"
-    },
-    {
-     "title": "Queen's death announced by TV station in huge blunder",
-     "url": "https://www.yahoo.com/news/world/articles/queens-death-announced-tv-station-102646003.html"
-    },
-    {
-     "title": "Queen Mary of Denmark Shares Update on Queen Margrethe After Death Hoax",
-     "url": "https://www.eonline.com/news/1438188/queen-mary-of-denmark-shares-update-on-queen-margrethe-after-death-hoax"
-    }
-   ]
-  },
-  {
-   "q": "paul aron",
-   "traffic": "100+",
-   "geo": "AU",
-   "trending_started_at": "2026-11-20T20:20:00Z",
-   "observed_at": "2026-11-20T20:51:30.384594Z",
-   "feed_url": "https://trends.google.com/trending/rss?geo=AU",
-   "news": [
-    {
-     "title": "Aron leaves Alpine as Vesti doubles up in reserve role for Enstone squad",
-     "url": "https://www.formula1.com/en/latest/article/aron-leaves-alpine-as-vesti-doubles-up-in-reserve-role-for-enstone-squad.78ZKSJQKTokE51DkFvRY2B"
-    },
-    {
-     "title": "Alpine suddenly releases Paul Aron from F1 reserve driver role",
-     "url": "https://www.crash.net/f1/news/1110300/1/alpine-suddenly-releases-paul-aron-f1-reserve-driver-role"
-    },
-    {
-     "title": "Alpine Paul Aron is released, Frederik Vesti is made available as a reserve by Mercedes",
-     "url": "https://www.autohebdof1.com/news/f1/alpine-libere-paul-aron-frederik-vesti-mis-a-disposition-comme-reserviste-par-mercedes.html"
-    }
-   ]
-  },
-  {
-   "q": "toowoomba weather",
-   "traffic": "100+",
-   "geo": "AU",
-   "trending_started_at": "2026-11-20T20:20:00Z",
-   "observed_at": "2026-11-20T20:51:30.384594Z",
-   "feed_url": "https://trends.google.com/trending/rss?geo=AU",
-   "news": [
-    {
-     "title": "Weather report for Toowoomba",
-     "url": "https://www.couriermail.com.au/questnews/hyperlocal/heres-what-you-can-expect-with-todays-toowoomba-weather/news-story/13c5cbd7d1b700fa98891daba672e922"
-    },
-    {
-     "title": "Weather report for Toowoomba",
-     "url": "https://www.couriermail.com.au/questnews/hyperlocal/heres-what-you-can-expect-with-todays-toowoomba-weather/news-story/b4a104b65060afa4f8947c6eb925dcfa"
-    },
-    {
-     "title": "Weather report for Toowoomba",
-     "url": "https://www.couriermail.com.au/questnews/hyperlocal/heres-what-you-can-expect-with-todays-toowoomba-weather/news-story/e4d826770bd0cdfca2878e24e3f057f6"
-    }
-   ]
-  },
-  {
-   "q": "google share price",
-   "traffic": "100+",
-   "geo": "AU",
-   "trending_started_at": "2026-11-20T20:10:00Z",
-   "observed_at": "2026-11-20T20:51:30.384594Z",
-   "feed_url": "https://trends.google.com/trending/rss?geo=AU",
-   "news": []
-  },
-  {
-   "q": "josh hazlewood",
-   "traffic": "500+",
-   "geo": "AU",
-   "trending_started_at": "2026-11-20T20:00:00Z",
-   "observed_at": "2026-11-20T20:51:30.384594Z",
-   "feed_url": "https://trends.google.com/trending/rss?geo=AU",
-   "news": [
-    {
-     "title": "Hazlewood tells all: Cummins, Cape Town and why I’m speaking out",
-     "url": "https://www.codesports.com.au/cricket/josh-hazlewood-on-the-events-of-cape-town-in-2018-and-speaking-out-to-defend-pat-cummins/news-story/9025eae95c44c60612675f9bf6f72ece"
-    },
-    {
-     "title": "Australia's Test captain candidates",
-     "url": "https://www.canberratimes.com.au/story/9394611/australias-test-captain-candidates/"
-    },
-    {
-     "title": "Test quick threatens to quit amid ‘pile on’",
-     "url": "https://www.heraldsun.com.au/sport/cricket/josh-hazlewood-subtly-threatens-to-quick-if-pat-cummins-is-forced-to-step-down-from-captaincy/news-story/e24c423e01c56483853619416ca09ec1"
-    }
-   ]
-  },
-  {
-   "q": "al-ahli saudi fc vs al-nassr standings",
-   "traffic": "1000+",
-   "geo": "AU",
-   "trending_started_at": "2026-11-20T19:50:00Z",
-   "observed_at": "2026-11-20T20:51:30.384594Z",
-   "feed_url": "https://trends.google.com/trending/rss?geo=AU",
-   "news": [
-    {
-     "title": "Cristiano Ronaldo Misses Penalty As Al Nassr Falls To 3rd In Saudio Pro League",
-     "url": "https://www.foxsports.com/stories/soccer/cristiano-ronaldo-misses-penalty-al-nassr-falls-3rd-saudio-pro-league"
-    },
-    {
-     "title": "Cristiano Ronaldo upstaged by England star as Al-Nassr beaten",
-     "url": "https://www.the-independent.com/bulletin/sport/al-ahli-al-nassr-result-cristiano-ronaldo-ivan-toney-b3088954.html"
-    },
-    {
-     "title": "Cristiano Ronaldo reaches 986 career goals: Where is Lionel Messi standing in the race to 1,000?",
-     "url": "https://bolavip.com/en/soccer/cristiano-ronaldo-reaches-986-career-goals-where-is-lionel-messi-standing-in-the-race-to-1000"
-    }
-   ]
-  },
-  {
-   "q": "thời tiết",
-   "traffic": "100+",
-   "geo": "AU",
-   "trending_started_at": "2026-11-20T19:40:00Z",
-   "observed_at": "2026-11-20T20:51:30.384594Z",
-   "feed_url": "https://trends.google.com/trending/rss?geo=AU",
-   "news": [
-    {
-     "title": "Dự báo thời tiết ngày mai 21.11 trên cả nước",
-     "url": "https://laodong.vn/moi-truong/du-bao-thoi-tiet-ngay-mai-2111-tren-ca-nuoc-1803752.ldo"
-    },
-    {
-     "title": "Dự báo thời tiết đêm nay, ngày mai - 21/11/2026: Đêm và sáng có nơi rét đậm",
-     "url": "https://truyenhinhnghean.vn/media/chuyen-muc/ban-tin-thoi-tiet/202611/du-bao-thoi-tiet-dem-nay-ngay-mai-21112026-dem-va-sang-co-noi-ret-dam-73d3ed1/"
-    },
-    {
-     "title": "Tuần tới, miền Bắc lại đón không khí lạnh mạnh",
-     "url": "https://tienphong.vn/tuan-toi-mien-bac-lai-don-khong-khi-lanh-manh-post1896138.tpo"
-    }
-   ]
-  },
-  {
-   "q": "infant",
-   "traffic": "200+",
-   "geo": "AU",
-   "trending_started_at": "2026-11-20T19:30:00Z",
-   "observed_at": "2026-11-20T20:51:30.384594Z",
-   "feed_url": "https://trends.google.com/trending/rss?geo=AU",
-   "news": [
-    {
-     "title": "Infant bouncers sold on Amazon recalled over injury concerns",
-     "url": "https://www.cleveland.com/news/2026/11/infant-bouncers-sold-on-amazon-recalled-over-injury-concerns.html"
-    },
-    {
-     "title": "Xentrawave Bed Rails Sold on Amazon Recalled After 89-Year-Old Woman Died Trapped Between Rail and Mattress",
-     "url": "https://www.medicaldaily.com/xentrawave-bed-rail-recall-entrapment-death-481503"
-    },
-    {
-     "title": "Baby bouncer recalled following reports of it collapsing while in use",
-     "url": "https://www.newsnationnow.com/us-news/recalls/baby-bouncer-recalled-collapsing/"
-    }
-   ]
-  },
-  {
-   "q": "taylor swift",
-   "traffic": "10000+",
-   "geo": "US",
-   "trending_started_at": "2026-11-20T18:00:00Z",
-   "observed_at": "2026-11-20T18:20:35.891402Z",
-   "feed_url": "https://trends.google.com/trending/rss?geo=US",
-   "news": [
-    {
-     "title": "The 10 Best Looks From the Country Music Association Awards Red Carpet",
-     "url": "https://www.nytimes.com/2026/11/18/style/cma-country-music-association-awards-red-carpet.html"
-    },
-    {
-     "title": "Taylor Swift returns to CMA Awards after 13 years, but Ella Langley takes the cake",
-     "url": "https://www.latimes.com/entertainment-arts/music/story/2026-11-19/taylor-swift-returns-to-cmas-ella-langley-makes-history"
-    },
-    {
-     "title": "CMA Awards 2026 Live Updates: Ella Langley Jokes ‘I’m Sick of Me’ as She Wins Entertainer of the Year and More",
-     "url": "https://people.com/cma-awards-2026-live-updates-12263785"
-    }
-   ]
-  },
-  {
-   "q": "marco rubio",
-   "traffic": "2000+",
-   "geo": "US",
-   "trending_started_at": "2026-11-20T18:00:00Z",
-   "observed_at": "2026-11-20T18:20:35.891402Z",
-   "feed_url": "https://trends.google.com/trending/rss?geo=US",
-   "news": [
-    {
-     "title": "Republicans face a pivot away from Trump’s dystopia in 2028",
-     "url": "https://www.cnn.com/2026/11/20/politics/marco-rubio-2028-race-vance-trump"
-    },
-    {
-     "title": "National Poll: Rubio Leads 2028 GOP Nomination Contest, Ossoff Rises Among Democrats",
-     "url": "https://emersoncollegepolling.com/national-poll-rubio-leads-2028-gop-nomination-contest-ossoff-rises-among-democrats/"
-    },
-    {
-     "title": "Rubio gains buzz while Vance’s fortunes falter in GOP race",
-     "url": "https://thehill.com/homenews/campaign/6231607-marco-rubio-trump-successor-buzz/"
-    }
-   ]
-  },
-  {
-   "q": "josh johnson nfl",
-   "traffic": "1000+",
-   "geo": "US",
-   "trending_started_at": "2026-11-20T17:50:00Z",
-   "observed_at": "2026-11-20T18:20:35.891402Z",
-   "feed_url": "https://trends.google.com/trending/rss?geo=US",
-   "news": [
-    {
-     "title": "Cardinals-Chiefs injury report: Carson Beck limited, Kenneth Walker III DNP",
-     "url": "https://arizonasports.com/arizona-cardinals-injury-report/cardinals-chiefs-injury-report"
-    },
-    {
-     "title": "Cardinals' Josh Johnson: Expected to start Sunday",
-     "url": "https://www.cbssports.com/fantasy/football/news/cardinals-josh-johnson-expected-to-start-sunday/"
-    },
-    {
-     "title": "Cardinals find troubling injury report surprise ahead of Chiefs game",
-     "url": "https://www.azcentral.com/story/sports/nfl/cardinals/2026/11/19/arizona-cardinals-qb-carson-beck-added-injury-report/92868306007/"
-    }
-   ]
-  },
-  {
-   "q": "ferdinand marcos",
-   "traffic": "500+",
-   "geo": "US",
-   "trending_started_at": "2026-11-20T17:50:00Z",
-   "observed_at": "2026-11-20T18:20:35.891402Z",
-   "feed_url": "https://trends.google.com/trending/rss?geo=US",
-   "news": [
-    {
-     "title": "Donald Trump gets a warm welcome in the Philippines",
-     "url": "https://www.economist.com/asia/2026/11/15/donald-trump-gets-a-warm-welcome-in-the-philippines"
-    },
-    {
-     "title": "The United States’ Participation in the 2026 East Asia Summit",
-     "url": "https://www.state.gov/releases/office-of-the-spokesman/2026/11/the-united-states-participation-in-the-2026-east-asia-summit"
-    },
-    {
-     "title": "Trump Meets Philippine Leader Before Flying to China",
-     "url": "https://www.nytimes.com/live/2026/11/17/world/trump-asean-summit"
-    }
-   ]
-  },
-  {
-   "q": "touchland hand sanitizer bearista",
-   "traffic": "10000+",
-   "geo": "US",
-   "trending_started_at": "2026-11-20T17:40:00Z",
-   "observed_at": "2026-11-20T18:20:35.891402Z",
-   "feed_url": "https://trends.google.com/trending/rss?geo=US",
-   "news": [
-    {
-     "title": "Starbucks launches limited-edition Bearista set with self-care brand",
-     "url": "https://www.centredaily.com/news/business/article318172679.html"
-    },
-    {
-     "title": "Starbucks Bearista Touchland drops today. What time, where to buy?",
-     "url": "https://www.northjersey.com/story/news/2026/11/20/starbucks-touchland-bearista-price-where-buy-release-date/92875201007/"
-    },
-    {
-     "title": "Starbucks teams up with Touchland for limited-edition Bearista set.",
-     "url": "https://lufkindailynews.com/news_reuters/national/starbucks-teams-up-with-touchland-for-limited-edition-bearista-set/image_62cbcc64-9397-5717-8108-7c2c2d019053.html"
-    }
-   ]
-  },
-  {
-   "q": "voo stock",
-   "traffic": "2000+",
-   "geo": "US",
-   "trending_started_at": "2026-11-20T17:40:00Z",
-   "observed_at": "2026-11-20T18:20:35.891402Z",
-   "feed_url": "https://trends.google.com/trending/rss?geo=US",
-   "news": [
-    {
-     "title": "A 66-Year-Old With $600,000 in VOO Owns Nvidia Without Ever Buying a Share. SCHD Owns None.",
-     "url": "https://finance.yahoo.com/markets/stocks/articles/66-old-600-000-voo-233251936.html"
-    },
-    {
-     "title": "A 66-Year-Old With $600,000 in VOO Owns Nvidia Without Ever Buying a Share. SCHD Owns None.",
-     "url": "https://247wallst.com/investing/etf/2026/11/19/a-66-year-old-with-600000-in-voo-owns-nvidia-without-ever-buying-a-share-schd-owns-none/"
-    },
-    {
-     "title": "Anthropic IPO live: Anthropic stock drops after first day of trading",
-     "url": "https://finance.yahoo.com/technology/live/anthropic-ipo-live-anthropic-stock-drops-after-first-day-of-trading-143300513.html"
-    }
-   ]
-  },
-  {
-   "q": "greenland",
-   "traffic": "1000+",
-   "geo": "US",
-   "trending_started_at": "2026-11-20T17:40:00Z",
-   "observed_at": "2026-11-20T18:20:35.891402Z",
-   "feed_url": "https://trends.google.com/trending/rss?geo=US",
-   "news": [
-    {
-     "title": "Trump's ‘Golden Dome’ in Greenland risks being ‘absolutely devastating’ for U.S.-European relations",
-     "url": "https://fortune.com/2026/11/20/trump-security-agreement-denmark-golden-dome-absolutely-devestating-european-relations/"
-    },
-    {
-     "title": "Denmark ratifies Trump security deal over Greenland after months of diplomatic tensions",
-     "url": "https://www.cnbc.com/2026/11/19/greenland-denmark-trump-security-military-bases.html"
-    },
-    {
-     "title": "Greenland security deal with U.S. and Denmark OK'd by Danish lawmakers",
-     "url": "https://www.cbsnews.com/news/greenland-security-deal-us-denmark-danish-lawmakers/"
-    }
-   ]
-  },
-  {
-   "q": "minnesota vs oklahoma st",
-   "traffic": "2000+",
-   "geo": "US",
-   "trending_started_at": "2026-11-20T17:30:00Z",
-   "observed_at": "2026-11-20T18:20:35.891402Z",
-   "feed_url": "https://trends.google.com/trending/rss?geo=US",
-   "news": [
-    {
-     "title": "Oklahoma State vs Minnesota Men's Basketball Preview and Prediction",
-     "url": "https://247sports.com/college/minnesota/article/oklahoma-state-minnesota-mens-basketball-preview-prediction-292972081/"
-    },
-    {
-     "title": "Hoops Preview: TV Info, Team Stats and Projected Lineups for OSU-Minnesota",
-     "url": "https://pistolsfiringblog.com/hoops-preview-tv-info-team-stats-and-projected-lineups-for-osu-minnesota/"
-    },
-    {
-     "title": "How to Watch Oklahoma State Cowboys Basketball vs. Minnesota: Time, TV Channel, Matchup to Watch",
-     "url": "https://www.si.com/college/oklahomastate/basketball/how-to-watch-oklahoma-state-cowboys-basketball-vs-minnesota-time-tv-channel-matchup-to-watch"
-    }
-   ]
-  },
-  {
-   "q": "hailey bieber rhode birthday collection",
-   "traffic": "1000+",
-   "geo": "US",
-   "trending_started_at": "2026-11-20T17:30:00Z",
-   "observed_at": "2026-11-20T18:20:35.891402Z",
-   "feed_url": "https://trends.google.com/trending/rss?geo=US",
-   "news": [
-    {
-     "title": "Hailey Bieber Goes Pantsless and Poses in Her Undies for Meaningful Photo Shoot",
-     "url": "https://www.instyle.com/hailey-bieber-poses-new-rhode-capsule-30th-birthday-12259039"
-    },
-    {
-     "title": "Dame Pat McGrath, Hailey Bieber’s Rhode, Cymbiotika and More Honored at 2026 Beauty Inc Awards",
-     "url": "https://wwd.com/beauty-industry-news/beauty-features/pat-mcgrath-hailey-bieber-rhode-beauty-awards-wwd-1239425127/"
-    },
-    {
-     "title": "rhode Launches the Navy Capsule for Hailey Bieber’s Birthday",
-     "url": "https://www.beautypackaging.com/breaking-news/rhode-launches-the-navy-capsule-for-hailey-biebers-birthday/"
-    }
-   ]
-  },
-  {
-   "q": "spy stock",
-   "traffic": "2000+",
-   "geo": "US",
-   "trending_started_at": "2026-11-20T17:30:00Z",
-   "observed_at": "2026-11-20T18:20:35.891402Z",
-   "feed_url": "https://trends.google.com/trending/rss?geo=US",
-   "news": [
-    {
-     "title": "Stocks trail SPY after analyst initiations, and a few big winners flatter the average",
-     "url": "https://www.quantisnow.com/articles/stocks-trail-spy-after-analyst-initiations-few-big-winners-lift-average"
-    },
-    {
-     "title": "SPDR S&P 500 ETF (SPY) Sells Apple and Microsoft on Nov. 18",
-     "url": "https://finance.yahoo.com/markets/stocks/articles/spdr-p-500-etf-spy-110339564.html"
-    },
-    {
-     "title": "SPDR S&P 500 ETF (SPY) Sells Apple and Nvidia on Thursday",
-     "url": "https://finance.yahoo.com/markets/stocks/articles/spdr-p-500-etf-spy-110358769.html"
-    }
-   ]
-  },
-  {
-   "q": "gta 6 ending",
-   "traffic": "200+",
-   "geo": "IN",
-   "trending_started_at": "2026-11-20T18:00:00Z",
-   "observed_at": "2026-11-20T18:20:35.891402Z",
-   "feed_url": "https://trends.google.com/trending/rss?geo=IN",
-   "news": [
-    {
-     "title": "How many endings does GTA 6 have? What decides your finale and how the post-game works",
-     "url": "https://www.clarin.com/us-news/how-many-endings-does-gta-6-have-what-decides-your-finale-and-how-the-post-game-works_0_947bez8oXt.html"
-    },
-    {
-     "title": "Does GTA 6 have multiple endings? Factors that determine the fate of the characters",
-     "url": "https://timesofindia.indiatimes.com/sports/esports/gta/does-gta-6-have-multiple-endings-factors-that-determine-the-fate-of-the-characters/articleshow/135969197.cms"
-    },
-    {
-     "title": "GTA 6 Live Coverage: News, Reviews, and More",
-     "url": "https://www.vice.com/en/article/gta-6-live-coverage-news-reviews-and-more/"
-    }
-   ]
-  },
-  {
-   "q": "shilpa shetty",
-   "traffic": "100+",
-   "geo": "IN",
-   "trending_started_at": "2026-11-20T18:00:00Z",
-   "observed_at": "2026-11-20T18:20:35.891402Z",
-   "feed_url": "https://trends.google.com/trending/rss?geo=IN",
-   "news": [
-    {
-     "title": "Sri Akal Takht Sahib denies approval for film producer Raj Kundra’s film ‘Nihang’",
-     "url": "https://www.newindianexpress.com/india/2026/Nov/20/sri-akal-takht-sahib-denies-approval-for-film-producer-raj-kundras-film-nihang"
-    },
-    {
-     "title": "Raj Kundra says wife Shilpa Shetty ‘always has my back’ as he announces film production debut with ‘Nihang’",
-     "url": "https://www.cityairnews.com/content/raj-kundra-says-wife-shilpa-shetty-always-has-my-back-as-he-announces-film-production-debut-with-nihang"
-    },
-    {
-     "title": "Sri Akal Takht Sahib denies approval to Raj Kundra’s proposed film ‘Nihang’",
-     "url": "https://www.punjabnewsline.com/news/sri-akal-takht-sahib-denies-approval-to-raj-kundras-proposed-film-nihang"
-    }
-   ]
-  },
-  {
-   "q": "तुलसी विवाह आरती",
-   "traffic": "10000+",
-   "geo": "IN",
-   "trending_started_at": "2026-11-20T17:50:00Z",
-   "observed_at": "2026-11-20T18:20:35.891402Z",
-   "feed_url": "https://trends.google.com/trending/rss?geo=IN",
-   "news": [
-    {
-     "title": "Tulsi Vivah 2026 Live: तुलसी विवाह 2026 कब है? सुख-समृद्धि के लिए इस विधि से करें माता तुलसी और भगवान शालिग",
-     "url": "https://www.indiatv.in/religion/news-tulsi-vivah-2026-date-shubh-muhurat-vidhi-samagri-list-mantra-katha-aarti-geet-rangoli-know-everything-here-1255343"
-    },
-    {
-     "title": "कन्यादान का महापुण्य पाना चाहते हैं तो जरूर कराएं तुलसी विवाह, श्रीहरि की कृपा से खुलते हैं मोक्ष के द्वार",
-     "url": "https://www.jagran.com/bihar/nalanda-tulsi-vivah-on-devotthan-ekadashi-benefits-and-rituals-in-nalanda-40442919.html"
-    },
-    {
-     "title": "Watch Video: जेठान एकादशी पर श्रद्धा और उल्लास के साथ हुआ तुलसी विवाह",
-     "url": "https://www.prabhatkhabar.com/state/bihar/lakhisarai/lakhisarai-tulsi-vivah-jethan-ekadashi"
-    }
-   ]
-  },
-  {
-   "q": "usman khawaja",
-   "traffic": "500+",
-   "geo": "IN",
-   "trending_started_at": "2026-11-20T17:50:00Z",
-   "observed_at": "2026-11-20T18:20:35.891402Z",
-   "feed_url": "https://trends.google.com/trending/rss?geo=IN",
-   "news": [
-    {
-     "title": "'They will have to face this': Irfan Pathan predicts Sandpapergate storm for Australia during 2027 Border",
-     "url": "https://timesofindia.indiatimes.com/sports/cricket/news/they-will-have-to-face-this-irfan-pathan-predicts-sandpapergate-storm-for-australia-during-2027-border-gavaskar-trophy/articleshow/136021666.cms"
-    },
-    {
-     "title": "‘Sabr’: Cricketer Usman Khawaja’s autobiography is strategic despite a sandpaper cheating bombshell",
-     "url": "https://scroll.in/article/1097099/sabr-cricketer-usman-khawajas-autobiography-is-strategic-despite-a-sandpaper-cheating-bombshell"
-    },
-    {
-     "title": "Biggest traitor I have seen: De Villiers rips Khawaja apart",
-     "url": "https://indianexpress.com/article/sports/cricket/de-villiers-khawaja-traitor-sandpapergate-reactions-10970818/"
-    }
-   ]
-  },
-  {
-   "q": "new ott releases movies",
-   "traffic": "2000+",
-   "geo": "IN",
-   "trending_started_at": "2026-11-20T17:30:00Z",
-   "observed_at": "2026-11-20T18:20:35.891402Z",
-   "feed_url": "https://trends.google.com/trending/rss?geo=IN",
-   "news": [
-    {
-     "title": "New OTT releases to watch this weekend: 15 new movies & shows on Netflix, Amazon Prime Video, JioHotstar & more",
-     "url": "https://www.gqindia.com/content/new-ott-releases-to-watch-this-weekend-15-new-movies-and-shows-on-netflix-amazon-prime-video-jiohotstar-and-more"
-    },
-    {
-     "title": "Friday OTT releases, November 20, 2026: 'Dhindora 2', 'Percy Jackson & the Olympians', and more movies, s",
-     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/friday-ott-releases-november-20-2026-dhindora-2-percy-jackson-the-olympians-and-more-movies-shows-to-watch-online/articleshow/135998428.cms"
-    },
-    {
-     "title": "OTT Releases This Week: Dhindora 2, The Odyssey, Madden",
-     "url": "https://www.rediff.com/movies/report/ott-this-week-the-odyssey-madden-anbil-avan/20261120.htm"
-    }
-   ]
-  },
-  {
-   "q": "meta share price",
-   "traffic": "200+",
-   "geo": "IN",
-   "trending_started_at": "2026-11-20T17:30:00Z",
-   "observed_at": "2026-11-20T18:20:35.891402Z",
-   "feed_url": "https://trends.google.com/trending/rss?geo=IN",
-   "news": [
-    {
-     "title": "Why Is Meta Platforms (NASDAQ:META) Scaling Up Its AI Spending Plan?",
-     "url": "https://kalkinemedia.com/us/stocks/communication/why-is-meta-platforms-nasdaqmeta-scaling-up-its-ai-spending-plan"
-    },
-    {
-     "title": "Mapping the Market: Meta shares may be about to deepen their slide",
-     "url": "https://www.reuters.com/default/global-markets-technicals-2026-11-19/"
-    },
-    {
-     "title": "Meta: Buy The AI Payoff Before The Capex Fear Fades",
-     "url": "https://seekingalpha.com/article/4969963-meta-buy-the-ai-payoff-before-the-capex-fear-fades"
-    }
-   ]
-  },
-  {
-   "q": "trending",
-   "traffic": "200+",
-   "geo": "IN",
-   "trending_started_at": "2026-11-20T17:20:00Z",
-   "observed_at": "2026-11-20T18:20:35.891402Z",
-   "feed_url": "https://trends.google.com/trending/rss?geo=IN",
-   "news": [
-    {
-     "title": "'Ramayana' cast and director take over this week’s 'IMDb Trending People In India' list",
-     "url": "https://www.millenniumpost.in/entertainment/ramayana-cast-and-director-take-over-this-weeks-imdb-trending-people-in-india-list-683976"
-    },
-    {
-     "title": "Faisal Malik Tops IMDb List At No. 1, Beats Ranbir Kapoor And Yash After Playing Kumbhakarna In Ramayana",
-     "url": "https://www.etvbharat.com/en/entertainment/faisal-malik-tops-imdb-list-at-no-1-beats-ranbir-kapoor-and-yash-after-playing-kumbhakarna-in-ramayana-enn26111806004"
-    },
-    {
-     "title": "'Ramayana', 'The Odyssey' And 'Ebenezer': How Spiritual Storytelling Is Finding Its Place At The Global Box Office",
-     "url": "https://www.filmeshilmy.com/2026/11/16/ramayana-the-odyssey-ebenezer-spiritual-storytelling-box-office/"
-    }
-   ]
-  },
-  {
-   "q": "விமர்சனம்",
-   "traffic": "2000+",
-   "geo": "IN",
-   "trending_started_at": "2026-11-20T17:10:00Z",
-   "observed_at": "2026-11-20T18:20:35.891402Z",
-   "feed_url": "https://trends.google.com/trending/rss?geo=IN",
-   "news": [
-    {
-     "title": "ரசிகர்கள் வரவேற்பு எப்படி இருக்கிறது? - ‘ஓ.ம்’ படக்குழுவினர் பதில்",
-     "url": "https://www.nakkheeran.in/cinema/om-movie-crew-members-about-movie-fdfs-reception-12827016"
-    },
-    {
-     "title": "தனுஷ் படங்களிலேயே முதலிடம்... தெலுங்கில் வசூல் சாதனை படைத்த ஓ.ம்!",
-     "url": "https://www.dinamani.com/cinema/cinema-news/2026/Nov/20/om-marks-dhanushs-highest-grossing-film-in-telugu-states-on-opening-day"
-    },
-    {
-     "title": "OM FDFS ``ஓம் படத்தில் அரசியல் குறியீடா?’’ படத்தை விட்டே வெளியே வராமல் அடுக்கிய ரசிகர்",
-     "url": "https://www.thanthitv.com/%E0%AE%9A%E0%AE%AE%E0%AF%80%E0%AE%AA%E0%AE%A4%E0%AF%8D%E0%AE%A4%E0%AE%BF%E0%AE%AF-%E0%AE%9A%E0%AF%86%E0%AE%AF%E0%AF%8D%E0%AE%A4%E0%AE%BF%E0%AE%95%E0%AE%B3%E0%AF%8D/om-fdfs-are-there-political-symbols-in-the-film-om-a-fan-still-immersed-in-the-movie-lists-his-observations"
-    }
-   ]
-  },
-  {
-   "q": "tulip siddiq",
-   "traffic": "500+",
-   "geo": "IN",
-   "trending_started_at": "2026-11-20T17:00:00Z",
-   "observed_at": "2026-11-20T18:20:35.891402Z",
-   "feed_url": "https://trends.google.com/trending/rss?geo=IN",
-   "news": [
-    {
-     "title": "Tulip Siddiq plans to sue former interim govt chief Yunus",
-     "url": "https://en.prothomalo.com/bangladesh/of3vf91avo"
-    },
-    {
-     "title": "Tulip Siddiq weighs legal action against Yunus over corruption allegations",
-     "url": "https://www.tbsnews.net/world/tulip-siddiq-weighs-legal-action-against-yunus-over-corruption-allegations-1607651"
-    },
-    {
-     "title": "British lawmaker, Hasina niece, considering legal action against former Bangladesh leader Yunus: Report",
-     "url": "https://www.socialnews.xyz/2026/11/19/british-lawmaker-hasina-niece-considering-legal-action-against-former-bangladesh-leader-yunus-report/"
-    }
-   ]
-  },
-  {
-   "q": "নবান্ন",
-   "traffic": "500+",
-   "geo": "IN",
-   "trending_started_at": "2026-11-20T16:50:00Z",
-   "observed_at": "2026-11-20T18:20:35.891402Z",
-   "feed_url": "https://trends.google.com/trending/rss?geo=IN",
-   "news": [
-    {
-     "title": "নবান্নের নির্দেশিকায় একঝটকায় বদলি তৃণমূল কর্মচারী সংগঠনের ১০ নেতা, প্রশাসনিক ‘শুদ্ধকরণ’?",
-     "url": "https://www.anandabazar.com/west-bengal/administrative-purge-of-threat-culture-nabanna-transfers-10-trinamool-employees-union-leaders-in-one-swift-move-dgtl/cid/1727481"
-    },
-    {
-     "title": "দশ আধিকারিকের বদলি ঘিরে চর্চা",
-     "url": "https://www.aaroananda.com/story/news/in-focus/west-bengal-administrative-transfer-row-involving-federation-leaders/11029134"
-    },
-    {
-     "title": "তৃণমূল সমর্থিত কর্মচারী ফেডারেশনের ১০ নেতাকে বদলি",
-     "url": "https://eisamay.com/samay-shorts/tmc-workers-federation-10-leaders-transferred/200569094.cms"
-    }
-   ]
-  },
-  {
-   "q": "home and away",
-   "traffic": "200+",
-   "geo": "GB",
-   "trending_started_at": "2026-11-20T18:00:00Z",
-   "observed_at": "2026-11-20T18:20:35.891402Z",
-   "feed_url": "https://trends.google.com/trending/rss?geo=GB",
-   "news": [
-    {
-     "title": "Home and Away teases \"killer ending\" in most emotional season finale ever",
-     "url": "https://www.digitalspy.com/soaps/home-and-away/a74489694/home-and-away-season-finale/"
-    },
-    {
-     "title": "Home and Away’s Christmas break explained as UK viewers question early finish",
-     "url": "https://soaplandtv.co.uk/article/home-and-aways-christmas-break-explained-as-uk-viewers-question-early-finish"
-    },
-    {
-     "title": "Home and Away’s Jo hides a worrying secret as her family tries to help",
-     "url": "https://soaplandtv.co.uk/article/home-and-aways-jo-hides-a-worrying-secret-as-her-family-tries-to-help"
-    }
-   ]
-  },
-  {
-   "q": "marco rubio",
-   "traffic": "200+",
-   "geo": "GB",
-   "trending_started_at": "2026-11-20T18:00:00Z",
-   "observed_at": "2026-11-20T18:20:35.891402Z",
-   "feed_url": "https://trends.google.com/trending/rss?geo=GB",
-   "news": [
-    {
-     "title": "Republicans face a pivot away from Trump’s dystopia in 2028",
-     "url": "https://www.cnn.com/2026/11/20/politics/marco-rubio-2028-race-vance-trump"
-    },
-    {
-     "title": "National Poll: Rubio Leads 2028 GOP Nomination Contest, Ossoff Rises Among Democrats",
-     "url": "https://emersoncollegepolling.com/national-poll-rubio-leads-2028-gop-nomination-contest-ossoff-rises-among-democrats/"
-    },
-    {
-     "title": "Rubio gains buzz while Vance’s fortunes falter in GOP race",
-     "url": "https://thehill.com/homenews/campaign/6231607-marco-rubio-trump-successor-buzz/"
-    }
-   ]
-  },
-  {
-   "q": "helen fraser",
-   "traffic": "200+",
-   "geo": "GB",
-   "trending_started_at": "2026-11-20T18:00:00Z",
-   "observed_at": "2026-11-20T18:20:35.891402Z",
-   "feed_url": "https://trends.google.com/trending/rss?geo=GB",
-   "news": [
-    {
-     "title": "Actress who starred in 1960s classic and a string of top TV shows dies aged 84",
-     "url": "https://www.edp24.co.uk/news/26747758.bad-girls-actress-helen-fraser-suffolk-dies-aged-84/"
-    }
-   ]
-  },
-  {
-   "q": "jimmy carter",
-   "traffic": "200+",
-   "geo": "GB",
-   "trending_started_at": "2026-11-20T17:50:00Z",
-   "observed_at": "2026-11-20T18:20:35.891402Z",
-   "feed_url": "https://trends.google.com/trending/rss?geo=GB",
-   "news": [
-    {
-     "title": "Delays mean Robert Pattinson doesn’t have to do a third Batman movie. DC Studios had better persuade him – and fast",
-     "url": "https://www.theguardian.com/film/2026/nov/20/robert-pattinson-batman-james-bond-third-movie-delays-dc"
-    },
-    {
-     "title": "Robert Pattinson’s Bond Ascent: How Pricey Screen Tests and Amazon Execs Landed a Starry 007",
-     "url": "https://variety.com/2026/film/news/bond-robert-pattinson-screen-test-amazon-execs-1236954194/"
-    },
-    {
-     "title": "Jeff Bezos says he was 'heavily involved' in casting Robert Pattinson as new Bond",
-     "url": "https://www.bbc.co.uk/news/articles/cm5y1eejk292o"
-    }
-   ]
-  },
-  {
-   "q": "loch leven",
-   "traffic": "2000+",
-   "geo": "GB",
-   "trending_started_at": "2026-11-20T17:50:00Z",
-   "observed_at": "2026-11-20T18:20:35.891402Z",
-   "feed_url": "https://trends.google.com/trending/rss?geo=GB",
-   "news": [
-    {
-     "title": "Two men killed after microlight glider crashes into Loch Leven",
-     "url": "https://news.sky.com/story/two-men-killed-after-microlight-glider-crashes-into-loch-leven-13614433"
-    },
-    {
-     "title": "The AAIB has deployed a team to Loch Leven near Kinross, Fife",
-     "url": "https://www.gov.uk/government/news/the-aaib-has-deployed-a-team-to-loch-leven-near-kinross-fife"
-    },
-    {
-     "title": "Two bodies found after glider crash at UK beauty spot",
-     "url": "https://www.independent.co.uk/news/uk/home-news/glider-crash-loch-leven-kinross-b3088884.html"
-    }
-   ]
-  },
-  {
-   "q": "oilprice.com",
-   "traffic": "200+",
-   "geo": "GB",
-   "trending_started_at": "2026-11-20T17:50:00Z",
-   "observed_at": "2026-11-20T18:20:35.891402Z",
-   "feed_url": "https://trends.google.com/trending/rss?geo=GB",
-   "news": [
-    {
-     "title": "Iran Keeps Up Unrelenting Attacks on Ships in the Strait of Hormuz",
-     "url": "https://www.nytimes.com/2026/11/19/business/iran-tanker-attack-strait-of-hormuz.html"
-    },
-    {
-     "title": "Inferno engulfs gas tanker in strait of Hormuz after reported strike – video",
-     "url": "https://www.theguardian.com/world/video/2026/nov/17/inferno-engulfs-gas-tanker-in-strait-of-hormuz-after-reported-strike-video"
-    },
-    {
-     "title": "Iran Steps Up Hormuz Tanker Attacks as Oil Prices Slide",
-     "url": "https://oilprice.com/Latest-Energy-News/World-News/Iran-Steps-Up-Hormuz-Tanker-Attacks-as-Oil-Prices-Slide.html"
     }
    ]
   }

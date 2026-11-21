@@ -4,45 +4,6 @@
    {
     "step": "fetch",
     "category": "Trending News",
-    "run_at": "2026-11-19T23:51:42Z",
-    "run_id": "44640977192",
-    "status": "success",
-    "checked": {
-     "candidates": 438,
-     "detail": "RSS/Atom items across 137 sources; 2 source(s) errored"
-    },
-    "changed": {
-     "added": [
-      "James Bond: What Do Producers Actually Look For In A 007 Actor? The Reason They Chose A 40-Year-Old Robert Pattinson After Years Of Younger Bond Rumors",
-      "Bruno Mars's father Peter Hernandez passes away at 74",
-      "'The More the Merrier': Nick Jonas and Hannah Dodd cast in rom-com",
-      "Larry Poindexter dies at 66, after being hit by car",
-      "Shankarabharanna review: A little horror, a lot of humour and one mysterious bus",
-      "Aakasamlo Oka Tara review: Dulquer Salmaan's film is a shining star in Telugu cinema",
-      "I’ve Been Waiting For A Home Town Season 11 Update, And Erin Napier Just Cleared Up The Confusion",
-      "I'm Loving Netflix's Win The Mall (And Haley Baylee), But There's One Thing I'd Like To See More Of",
-      "How To Watch Yellowjackets Season 4 Online And Stream Final Season",
-      "With Elon Musk And Skydance Taking Over, I Have Mixed Feelings About Star Trek’s Future",
-      "If You've Seen Interstellar Enough Times, You Should Ace This Crossword Puzzle Quiz",
-      "Steven Spielberg Gently Pitched Christopher Nolan The Movie Idea I Think Fans Have Been Wanting",
-      "Anne Hathaway’s 'Jurassic Park' Replacement Officially Dominates Streaming",
-      "Robert Pattinson Officially Gets His Biggest Endorsement as the New James Bond",
-      "6 Spy Shows Better Than 'Black Doves'",
-      "Stephen King's 8 Greatest Book Masterpieces, Ranked",
-      "Paramount’s 4-Part Sci-Fi Beats ‘Star Trek’ at Its Own Game",
-      "6 Best Books of 2022, Ranked",
-      "Every A Song of Ice and Fire Book, Ranked by Goodreads",
-      "The 10 Best High Fantasy Animated Movies, Ranked"
-     ],
-     "updated": [],
-     "count": 393,
-     "detail": "405 stories, 0 duplicates removed, 33 dropped"
-    },
-    "reason": null
-   },
-   {
-    "step": "fetch",
-    "category": "Trending News",
     "run_at": "2026-11-20T00:51:22Z",
     "run_id": "44649042609",
     "status": "success",
@@ -936,32 +897,48 @@
      "detail": "355 stories, 0 duplicates removed, 20 dropped"
     },
     "reason": null
-   }
-  ],
-  "apply_auto": [
+   },
    {
-    "step": "apply_auto",
+    "step": "fetch",
     "category": "Trending News",
-    "run_at": "2026-11-19T23:52:13Z",
-    "run_id": "44640977192",
+    "run_at": "2026-11-20T23:51:09Z",
+    "run_id": "44839702446",
     "status": "success",
     "checked": {
-     "candidates": 14,
-     "detail": "draft articles + box-office rows from out/gemini-batch.json"
+     "candidates": 343,
+     "detail": "RSS/Atom items across 137 sources; 0 source(s) errored"
     },
     "changed": {
      "added": [
-      "Patrick Stewart's Official Cause of Death Revealed as Alzheimer's and Lewy Body Dementia",
-      "Vishwak Sen's Cult Lands on Amazon Prime Video Following Theatrical Run",
-      "Robert Pattinson Officially Cast as the New James Bond",
-      "Alia Bhatt Affirms Commitment to Women-Led Cinema Despite Recent Box Office Setbacks"
+      "OG Mormon Wives Star Mayci Neeley Had A Candid Reaction To Her Texts Being Shown In OC",
+      "I Thought Rocky And Creed's Big Fight Scene Would Be The End Of I Play Rocky. So What Happened?",
+      "3 Best Prime Video Movies To Watch This Weekend (Nov 21-22)",
+      "'Star Trek' Officially Has a New Home Base on Apple TV",
+      "Nicolas Cage’s New Sports Movie Officially Torn Apart by Rotten Tomatoes Critics",
+      "HBO Max’s New 6-Part Rom-Com Is a Masterclass in Breaking the Genre’s Rules",
+      "Roald Dahl’s Fantasy Masterpiece Officially Finds New Streaming Success 30 Years Later",
+      "3 Best War Movies To Watch on Netflix This Weekend (November 21-22)",
+      "Harry Potter Officially Says Goodbye to Streaming Ahead of HBO Reboot",
+      "Johnny Knoxville & 2 Others Join Sony’s Hockey Movie After Heated Rivalry Breakout",
+      "Daisy Ridley & Darren Criss’ New Disturbing Thriller Movie Recruits Project Hail Mary Star",
+      "Teyana Taylor Directing Female-Driven Comedy Movie For WB After OBAA Oscar Win",
+      "The Mummy 4: Brendan Fraser Franchise Gives Fans Huge Surprise Ahead of Sequel",
+      "Toy Story 6 Update Reveals Pixar’s Bigger Future Plans for the Franchise",
+      "Zack Snyder’s Escape From New York Remake Gets Terrible Update, Backup Director Revealed",
+      "Channing Tatum’s Oscar-Worthy Movie Releases Today Ahead of Avengers: Doomsday Gambit Role",
+      "Nicolas Cage Set to Join Forces With a TV Favorite for His Return to $128 Million Thriller",
+      "Nicolas Cage's New Action Thriller Lands Jaw-Dropping Rotten Tomatoes Score",
+      "Anne Hathaway's New Sci-Fi Epic Hailed as \"Best Dinosaur Movie in Decades\" Is Now the #1 Movie Worldwide",
+      "18 Biggest ‘Hunger Games’ Easter Eggs & References in ‘Sunrise on the Reaping’"
      ],
      "updated": [],
-     "count": 7,
-     "detail": "+4 articles, +0 box-office rows, 3 rows updated"
+     "count": 333,
+     "detail": "343 stories, 0 duplicates removed, 0 dropped"
     },
     "reason": null
-   },
+   }
+  ],
+  "apply_auto": [
    {
     "step": "apply_auto",
     "category": "Trending News",
@@ -1489,27 +1466,32 @@
      "detail": "+4 articles, +0 box-office rows, 3 rows updated"
     },
     "reason": null
+   },
+   {
+    "step": "apply_auto",
+    "category": "Trending News",
+    "run_at": "2026-11-20T23:51:38Z",
+    "run_id": "44839702446",
+    "status": "success",
+    "checked": {
+     "candidates": 14,
+     "detail": "draft articles + box-office rows from out/gemini-batch.json"
+    },
+    "changed": {
+     "added": [
+      "Bruno Mars Mourns the Passing of His Father Peter Hernandez at Age 74",
+      "Financial Performance and Theatrical Run of The Hunger Games: Mockingjay — Part 2",
+      "Bollywood Figures and Political Leaders Mourn Passing of UP Chief Minister Yogi Adityanath's Mother Savitri Devi",
+      "Melania Trump Discusses Ukraine Ceasefire at New York Screening for Amazon Follow-Up Series"
+     ],
+     "updated": [],
+     "count": 7,
+     "detail": "+4 articles, +0 box-office rows, 3 rows updated"
+    },
+    "reason": null
    }
   ],
   "ott": [
-   {
-    "step": "ott",
-    "category": "OTT",
-    "run_at": "2026-11-20T00:51:47Z",
-    "run_id": "44649042609",
-    "status": "success",
-    "checked": {
-     "candidates": 391,
-     "detail": "OTT now/coming titles from the published catalogue"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 0,
-     "detail": "now 384, coming 7"
-    },
-    "reason": null
-   },
    {
     "step": "ott",
     "category": "OTT",
@@ -1923,35 +1905,27 @@
      "detail": "now 390, coming 7"
     },
     "reason": "no-new-data"
+   },
+   {
+    "step": "ott",
+    "category": "OTT",
+    "run_at": "2026-11-20T23:51:38Z",
+    "run_id": "44839702446",
+    "status": "success",
+    "checked": {
+     "candidates": 397,
+     "detail": "OTT now/coming titles from the published catalogue"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 0,
+     "detail": "now 390, coming 7"
+    },
+    "reason": "no-new-data"
    }
   ],
   "trending_weekly": [
-   {
-    "step": "trending_weekly",
-    "category": "Trending Topics",
-    "run_at": "2026-11-19T23:58:18Z",
-    "run_id": "44640977192",
-    "status": "success",
-    "checked": {
-     "candidates": 100,
-     "detail": "cached Google RSS trend/article intersection"
-    },
-    "changed": {
-     "added": [
-      "15eqb9k",
-      "uao2gh",
-      "1k985n5",
-      "167bv68",
-      "19a32sa",
-      "ltv81g",
-      "1x37hn2",
-      "ybqa1w"
-     ],
-     "updated": [],
-     "count": 8
-    },
-    "reason": null
-   },
    {
     "step": "trending_weekly",
     "category": "Trending Topics",
@@ -2435,27 +2409,33 @@
      "count": 0
     },
     "reason": "no-new-data"
+   },
+   {
+    "step": "trending_weekly",
+    "category": "Trending Topics",
+    "run_at": "2026-11-21T00:08:26Z",
+    "run_id": "44839702446",
+    "status": "success",
+    "checked": {
+     "candidates": 100,
+     "detail": "cached Google RSS trend/article intersection"
+    },
+    "changed": {
+     "added": [
+      "f4x4o1",
+      "11hzvq4",
+      "5gca82",
+      "1k985n5",
+      "uz37b5",
+      "tvcq7i"
+     ],
+     "updated": [],
+     "count": 6
+    },
+    "reason": null
    }
   ],
   "multisource_boxoffice": [
-   {
-    "step": "multisource_boxoffice",
-    "category": "Box Office",
-    "run_at": "2026-11-19T23:58:03Z",
-    "run_id": "44640977192",
-    "status": "success",
-    "checked": {
-     "candidates": 718,
-     "detail": "669 collected staging rows from readers; 245 averaged across 2+ sources"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 3,
-     "detail": "+0 new rows, 3 updated rows, 691 unchanged"
-    },
-    "reason": null
-   },
    {
     "step": "multisource_boxoffice",
     "category": "Box Office",
@@ -2869,19 +2849,27 @@
      "detail": "+0 new rows, 3 updated rows, 698 unchanged"
     },
     "reason": null
+   },
+   {
+    "step": "multisource_boxoffice",
+    "category": "Box Office",
+    "run_at": "2026-11-21T00:08:23Z",
+    "run_id": "44839702446",
+    "status": "success",
+    "checked": {
+     "candidates": 726,
+     "detail": "673 collected staging rows from readers; 248 averaged across 2+ sources"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 3,
+     "detail": "+0 new rows, 3 updated rows, 698 unchanged"
+    },
+    "reason": null
    }
   ],
   "gemini_reviews": [
-   {
-    "step": "gemini_reviews",
-    "category": "Reviews",
-    "run_at": "2026-11-19T23:58:28Z",
-    "run_id": "44640977192",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "gemini_reviews",
     "category": "Reviews",
@@ -3118,32 +3106,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "gemini_reviews",
+    "category": "Reviews",
+    "run_at": "2026-11-21T00:08:33Z",
+    "run_id": "44839702446",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "convert_news": [
-   {
-    "step": "convert_news",
-    "category": "Trending News",
-    "run_at": "2026-11-19T23:58:17Z",
-    "run_id": "44640977192",
-    "status": "success",
-    "checked": {
-     "candidates": 600,
-     "detail": "feed entries from out/queue.json"
-    },
-    "changed": {
-     "added": [
-      "Patrick Stewart's Official Cause of Death Revealed as Alzheimer's and Lewy Body Dementia",
-      "Vishwak Sen's Cult Lands on Amazon Prime Video Following Theatrical Run",
-      "Robert Pattinson Officially Cast as the New James Bond",
-      "Alia Bhatt Affirms Commitment to Women-Led Cinema Despite Recent Box Office Setbacks"
-     ],
-     "updated": [],
-     "count": 4,
-     "detail": "api-news.json 600 items, api-trends.json 12 items"
-    },
-    "reason": null
-   },
    {
     "step": "convert_news",
     "category": "Trending News",
@@ -3672,19 +3647,32 @@
      "detail": "api-news.json 600 items, api-trends.json 12 items"
     },
     "reason": null
+   },
+   {
+    "step": "convert_news",
+    "category": "Trending News",
+    "run_at": "2026-11-21T00:08:25Z",
+    "run_id": "44839702446",
+    "status": "success",
+    "checked": {
+     "candidates": 600,
+     "detail": "feed entries from out/queue.json"
+    },
+    "changed": {
+     "added": [
+      "Bruno Mars Mourns the Passing of His Father Peter Hernandez at Age 74",
+      "Financial Performance and Theatrical Run of The Hunger Games: Mockingjay — Part 2",
+      "Bollywood Figures and Political Leaders Mourn Passing of UP Chief Minister Yogi Adityanath's Mother Savitri Devi",
+      "Melania Trump Discusses Ukraine Ceasefire at New York Screening for Amazon Follow-Up Series"
+     ],
+     "updated": [],
+     "count": 4,
+     "detail": "api-news.json 600 items, api-trends.json 12 items"
+    },
+    "reason": null
    }
   ],
   "episode_guides": [
-   {
-    "step": "episode_guides",
-    "category": "Drama Episodes",
-    "run_at": "2026-11-19T23:58:28Z",
-    "run_id": "44640977192",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "episode_guides",
     "category": "Drama Episodes",
@@ -3961,19 +3949,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "title_seed": [
+   },
    {
-    "step": "title_seed",
-    "category": "Spotlight / Coming Soon / Most Awaited",
-    "run_at": "2026-11-19T23:58:28Z",
-    "run_id": "44640977192",
+    "step": "episode_guides",
+    "category": "Drama Episodes",
+    "run_at": "2026-11-21T00:08:33Z",
+    "run_id": "44839702446",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "title_seed": [
    {
     "step": "title_seed",
     "category": "Spotlight / Coming Soon / Most Awaited",
@@ -4295,31 +4283,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "title_seed",
+    "category": "Spotlight / Coming Soon / Most Awaited",
+    "run_at": "2026-11-21T00:08:33Z",
+    "run_id": "44839702446",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "gemini_batch": [
-   {
-    "step": "gemini_batch",
-    "category": "Trending News",
-    "run_at": "2026-11-19T23:52:12Z",
-    "run_id": "44640977192",
-    "status": "success",
-    "checked": {
-     "candidates": 5,
-     "detail": "news queue items drafted this run; 393 still unprocessed; today by category: movies 16/6, tv_dramas 13/4, episodes 2/2, box_office 13/6, celebrities_events 19/5, upcoming_releases 8/4, ott_streaming 9/4, trailers 6/3, awards 2/2, music_ost 3/2, viral 4/2"
-    },
-    "changed": {
-     "added": [
-      "Patrick Stewart's Official Cause of Death Revealed as Alzheimer's and Lewy Body Dementia",
-      "Vishwak Sen's Cult Lands on Amazon Prime Video Following Theatrical Run",
-      "Robert Pattinson Officially Cast as the New James Bond",
-      "Alia Bhatt Affirms Commitment to Women-Led Cinema Despite Recent Box Office Setbacks"
-     ],
-     "updated": [],
-     "count": 4
-    },
-    "reason": null
-   },
    {
     "step": "gemini_batch",
     "category": "Trending News",
@@ -4824,26 +4800,31 @@
      "count": 4
     },
     "reason": null
+   },
+   {
+    "step": "gemini_batch",
+    "category": "Trending News",
+    "run_at": "2026-11-20T23:51:37Z",
+    "run_id": "44839702446",
+    "status": "success",
+    "checked": {
+     "candidates": 4,
+     "detail": "news queue items drafted this run; 333 still unprocessed; today by category: movies 11/6, tv_dramas 24/4, episodes 1/2, box_office 14/6, celebrities_events 21/5, upcoming_releases 4/4, ott_streaming 10/4, trailers 2/3, awards 2/2, music_ost 2/2, viral 4/2"
+    },
+    "changed": {
+     "added": [
+      "Bruno Mars Mourns the Passing of His Father Peter Hernandez at Age 74",
+      "Financial Performance and Theatrical Run of The Hunger Games: Mockingjay — Part 2",
+      "Bollywood Figures and Political Leaders Mourn Passing of UP Chief Minister Yogi Adityanath's Mother Savitri Devi",
+      "Melania Trump Discusses Ukraine Ceasefire at New York Screening for Amazon Follow-Up Series"
+     ],
+     "updated": [],
+     "count": 4
+    },
+    "reason": null
    }
   ],
   "overseas_ai": [
-   {
-    "step": "overseas_ai",
-    "category": "Box Office",
-    "run_at": "2026-11-19T23:53:59Z",
-    "run_id": "44640977192",
-    "status": "success",
-    "checked": {
-     "candidates": 55,
-     "detail": "published movies with missing overseas day figures; Tavily searches: 48"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 0
-    },
-    "reason": "no-new-data"
-   },
    {
     "step": "overseas_ai",
     "category": "Box Office",
@@ -5150,19 +5131,26 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "overseas_ai",
+    "category": "Box Office",
+    "run_at": "2026-11-20T23:52:56Z",
+    "run_id": "44839702446",
+    "status": "success",
+    "checked": {
+     "candidates": 55,
+     "detail": "published movies with missing overseas day figures; Tavily searches: 48"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 0
+    },
+    "reason": "no-new-data"
    }
   ],
   "publish": [
-   {
-    "step": "publish",
-    "category": "Trending News",
-    "run_at": "2026-11-19T23:58:28Z",
-    "run_id": "44640977192",
-    "status": "failed",
-    "checked": null,
-    "changed": null,
-    "reason": "error"
-   },
    {
     "step": "publish",
     "category": "Trending News",
@@ -5507,19 +5495,24 @@
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
+   },
+   {
+    "step": "publish",
+    "category": "Trending News",
+    "run_at": "2026-11-21T00:08:33Z",
+    "run_id": "44839702446",
+    "status": "success",
+    "checked": null,
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 355,
+     "detail": "lines changed in owned files; no per-item summary from script"
+    },
+    "reason": null
    }
   ],
   "stats_traffic": [
-   {
-    "step": "stats_traffic",
-    "category": "Stats / Health",
-    "run_at": "2026-11-19T23:58:28Z",
-    "run_id": "44640977192",
-    "status": "success",
-    "checked": null,
-    "changed": null,
-    "reason": "no-new-data"
-   },
    {
     "step": "stats_traffic",
     "category": "Stats / Health",
@@ -5854,19 +5847,24 @@
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
+   },
+   {
+    "step": "stats_traffic",
+    "category": "Stats / Health",
+    "run_at": "2026-11-21T00:08:33Z",
+    "run_id": "44839702446",
+    "status": "success",
+    "checked": null,
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 14,
+     "detail": "lines changed in owned files; no per-item summary from script"
+    },
+    "reason": null
    }
   ],
   "stats_pipeline": [
-   {
-    "step": "stats_pipeline",
-    "category": "Stats / Health",
-    "run_at": "2026-11-19T23:58:28Z",
-    "run_id": "44640977192",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "stats_pipeline",
     "category": "Stats / Health",
@@ -6116,19 +6114,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "stats_health": [
+   },
    {
-    "step": "stats_health",
+    "step": "stats_pipeline",
     "category": "Stats / Health",
-    "run_at": "2026-11-19T23:58:28Z",
-    "run_id": "44640977192",
+    "run_at": "2026-11-21T00:08:33Z",
+    "run_id": "44839702446",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "stats_health": [
    {
     "step": "stats_health",
     "category": "Stats / Health",
@@ -6363,19 +6361,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "metadata_refresh": [
+   },
    {
-    "step": "metadata_refresh",
-    "category": "Spotlight / Coming Soon / Most Awaited",
-    "run_at": "2026-11-19T23:58:28Z",
-    "run_id": "44640977192",
+    "step": "stats_health",
+    "category": "Stats / Health",
+    "run_at": "2026-11-21T00:08:33Z",
+    "run_id": "44839702446",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "metadata_refresh": [
    {
     "step": "metadata_refresh",
     "category": "Spotlight / Coming Soon / Most Awaited",
@@ -6657,19 +6655,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "providers_backfill": [
+   },
    {
-    "step": "providers_backfill",
-    "category": "OTT",
-    "run_at": "2026-11-19T23:58:28Z",
-    "run_id": "44640977192",
+    "step": "metadata_refresh",
+    "category": "Spotlight / Coming Soon / Most Awaited",
+    "run_at": "2026-11-21T00:08:33Z",
+    "run_id": "44839702446",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "providers_backfill": [
    {
     "step": "providers_backfill",
     "category": "OTT",
@@ -6910,19 +6908,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "providers_backfill",
+    "category": "OTT",
+    "run_at": "2026-11-21T00:08:33Z",
+    "run_id": "44839702446",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "tavily_boxoffice": [
-   {
-    "step": "tavily_boxoffice",
-    "category": "Box Office",
-    "run_at": "2026-11-19T23:58:28Z",
-    "run_id": "44640977192",
-    "status": "success",
-    "checked": null,
-    "changed": null,
-    "reason": "no-new-data"
-   },
    {
     "step": "tavily_boxoffice",
     "category": "Box Office",
@@ -7152,19 +7150,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "tavily_boxoffice",
+    "category": "Box Office",
+    "run_at": "2026-11-21T00:08:33Z",
+    "run_id": "44839702446",
+    "status": "success",
+    "checked": null,
+    "changed": null,
+    "reason": "no-new-data"
    }
   ],
   "keywords_refresh": [
-   {
-    "step": "keywords_refresh",
-    "category": "Trending News",
-    "run_at": "2026-11-19T23:58:28Z",
-    "run_id": "44640977192",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "keywords_refresh",
     "category": "Trending News",
@@ -7417,30 +7415,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "keywords_refresh",
+    "category": "Trending News",
+    "run_at": "2026-11-21T00:08:33Z",
+    "run_id": "44839702446",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "overseas_sweep": [
-   {
-    "step": "overseas_sweep",
-    "category": "Box Office",
-    "run_at": "2026-11-18T22:52:54Z",
-    "run_id": "44415363930",
-    "status": "success",
-    "checked": {
-     "candidates": 574,
-     "detail": "completed day-wise rows missing overseas; quicknews pages fetched: 15; attempt cooldown deferred: 559"
-    },
-    "changed": {
-     "added": [
-      "Ranabaali (1389379)",
-      "418 (1606527)",
-      "Nayyi Navelli (1654581)"
-     ],
-     "updated": [],
-     "count": 13
-    },
-    "reason": null
-   },
    {
     "step": "overseas_sweep",
     "category": "Box Office",
@@ -7927,19 +7914,30 @@
      "count": 13
     },
     "reason": null
+   },
+   {
+    "step": "overseas_sweep",
+    "category": "Box Office",
+    "run_at": "2026-11-20T23:51:55Z",
+    "run_id": "44839702446",
+    "status": "success",
+    "checked": {
+     "candidates": 585,
+     "detail": "completed day-wise rows missing overseas; quicknews pages fetched: 13; attempt cooldown deferred: 572"
+    },
+    "changed": {
+     "added": [
+      "Ranabaali (1389379)",
+      "418 (1606527)",
+      "Nayyi Navelli (1654581)"
+     ],
+     "updated": [],
+     "count": 13
+    },
+    "reason": null
    }
   ],
   "advance_booking": [
-   {
-    "step": "advance_booking",
-    "category": "Box Office",
-    "run_at": "2026-11-19T23:58:28Z",
-    "run_id": "44640977192",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "advance_booking",
     "category": "Box Office",
@@ -8179,19 +8177,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "advance_booking",
+    "category": "Box Office",
+    "run_at": "2026-11-21T00:08:33Z",
+    "run_id": "44839702446",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "home_boxoffice_worldwide": [
-   {
-    "step": "home_boxoffice_worldwide",
-    "category": "Box Office",
-    "run_at": "2026-11-19T23:58:28Z",
-    "run_id": "44640977192",
-    "status": "failed",
-    "checked": null,
-    "changed": null,
-    "reason": "error"
-   },
    {
     "step": "home_boxoffice_worldwide",
     "category": "Box Office",
@@ -8461,8 +8459,18 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "home_boxoffice_worldwide",
+    "category": "Box Office",
+    "run_at": "2026-11-21T00:08:33Z",
+    "run_id": "44839702446",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ]
  },
- "updated_at": "2026-11-20T22:52:20Z"
+ "updated_at": "2026-11-21T00:08:33Z"
 }

@@ -204904,5 +204904,360 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Fri, 20 Nov 2026 22:29:51 +0000"
+  },
+  "15dc7k2": {
+    "id": "15dc7k2",
+    "type": "news",
+    "headline": "Bruno Mars Mourns the Passing of His Father Peter Hernandez at Age 74",
+    "dek": "Grammy-winning artist Bruno Mars pays an emotional online tribute to his late father, Peter Hernandez, remembering his lifelong guidance and musical inspiration.",
+    "body": [
+      {
+        "h": "The Passing of Peter Hernandez",
+        "p": [
+          "Peter Hernandez, the father of acclaimed global music star Bruno Mars, has died at the age of 74. The heartbreaking news was shared publicly by the Grammy-winning singer, who posted an emotional message on Instagram to honor his father's memory and profound impact on his life.",
+          "While mourning the loss, the artist shared a touching final memory with his followers, noting that he was able to embrace his father one last time during the week prior to his passing. The publication of the announcement drew immediate condolences and attention from fans worldwide."
+        ]
+      },
+      {
+        "h": "A Musical Foundation and Early Upbringing",
+        "p": [
+          "Born in Brooklyn before eventually relocating to Hawaii, Peter Hernandez played a monumental role in shaping his son's artistic journey. During his time in Hawaii, he established a doo-wop revival musical ensemble known as The Love Notes.",
+          "This musical environment deeply influenced the young singer's passion for performing arts. Family background and early exposure to performance set the stage for what would eventually become a legendary career in the global music industry."
+        ]
+      },
+      {
+        "h": "Family Bonds and Shared Memories",
+        "p": [
+          "The family unit included six children raised by Peter Hernandez, encompassing the singer, his brother Eric, and his sisters Tiara, Tahiti, Presley, and Jaime. The singer, who shares his father's given name of Peter Hernandez, frequently credited his parent's guidance as the foundation of everything he learned about life and music.",
+          "In his heartfelt social media post, the 41-year-old performer praised his father as the greatest dad in the world, expressing a deep sense of loss that would remain with him every day until they reunite."
+        ]
+      },
+      {
+        "h": "A Childhood in the Spotlight",
+        "p": [
+          "Reflecting on his son's early years, Peter Hernandez previously shared insights into the performer's natural inclination toward entertainment. In a 2014 interview, the elder Hernandez recalled that the young star always loved being the center of attention.",
+          "He noted that as soon as the child could walk and express himself, he sought to be involved in whatever he witnessed on television. This early enthusiasm ultimately blossomed into a celebrated career defined by global superstardom."
+        ]
+      },
+      {
+        "h": "Reuniting With Loved Ones",
+        "p": [
+          "Concluding his public tribute, the singer directed a touching message toward both his late father and his mother, Bernadette San Pedro Bayot. His mother had previously passed away in 2013 at the age of 55 following a brain aneurysm.",
+          "The performer asked his late father to convey a kiss to his mother in heaven, signing off with a declaration of love for his pops. Accompanying the emotional words were photographs capturing the embrace in a hospital bed alongside various stages of the father's life."
+        ]
+      },
+      {
+        "h": "Legacy of Love and Support",
+        "p": [
+          "Throughout his life, Peter Hernandez often spoke warmly about the affection that surrounded his famous son during his upbringing. He described the artist as the product of immense love shared by the entire family network.",
+          "The elder Hernandez also emphasized the unique depth of parental affection, remarking that no woman could ever love the star as much as his late mother, and no man could ever match the depth of love he felt for his son."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Grammy-winning singer Bruno Mars posted an emotional Instagram tribute mourning the death of his 74-year-old father, Peter Hernandez. The artist credited his late father with teaching him everything about music and life while sharing memories of his upbringing and a final hospital embrace."
+        ]
+      }
+    ],
+    "facts": [
+      "Peter Hernandez passed away at the age of 74.",
+      "Bruno Mars is 41 years old.",
+      "Peter Hernandez was born in Brooklyn and later moved to Hawaii.",
+      "Peter Hernandez founded a doo-wop revival group called The Love Notes.",
+      "Bernadette San Pedro Bayot died from a brain aneurysm in 2013 at the age of 55.",
+      "The family includes six children: Peter Hernandez (Bruno Mars), Eric, Tiara, Tahiti, Presley, and Jaime."
+    ],
+    "entities": {
+      "people": [
+        "Bruno Mars",
+        "Peter Hernandez",
+        "Bernadette San Pedro Bayot",
+        "Eric",
+        "Tiara",
+        "Tahiti",
+        "Presley",
+        "Jaime"
+      ],
+      "titles": [
+        "The Love Notes"
+      ]
+    },
+    "keywords": [
+      "Bruno Mars",
+      "Peter Hernandez",
+      "Bruno Mars father",
+      "Peter Hernandez passes away"
+    ],
+    "images": [
+      {
+        "url": "https://cdn-english.zeenews.com/sites/default/files/2026/11/20/7085-bruno-mar-s-father.png",
+        "caption": "Bruno Mars Mourns the Passing of His Father Peter Hernandez at Age 74",
+        "source": "Zee News — Entertainment"
+      }
+    ],
+    "published": "2026-11-20T23:51:37Z"
+  },
+  "1dmf37r": {
+    "id": "1dmf37r",
+    "type": "news",
+    "headline": "Financial Performance and Theatrical Run of The Hunger Games: Mockingjay — Part 2",
+    "dek": "An in-depth look at the box office metrics, international earnings, and theatrical longevity of the 2015 science fiction conclusion.",
+    "body": [
+      {
+        "h": "Theatrical Launch and Domestic Debut",
+        "p": [
+          "The Hunger Games: Mockingjay — Part 2 arrived in theaters on November 20th, 2015, distributed widely by Lionsgate alongside an IMAX version. The feature secured an opening weekend domestic gross of $102,665,981, making up over a third of its total domestic earnings.",
+          "Playing across 4,175 opening theaters, the picture achieved an average of $24,591 per theater during its initial frame. Previews on November 19th alone brought in an additional $16,000,000 before the official wide launch."
+        ]
+      },
+      {
+        "h": "Global Box Office Footprint",
+        "p": [
+          "The narrative's conclusion drew significant audiences internationally, accumulating $368,810,607 from overseas territories. Combined with its domestic takings, the feature achieved a worldwide box office gross of $650,534,509.",
+          "Key international territories contributed heavily to this total during their respective theatrical runs. For instance, Australia brought in $21,672,658, China added $21,424,204, and Brazil reached $16,890,580."
+        ]
+      },
+      {
+        "h": "Production Investment and Returns",
+        "p": [
+          "Produced on a budget of $160,000,000, the science fiction adaptation's global financial return proved substantial. Its worldwide box office gross reached roughly 4.1 times the initial production expenditure.",
+          "Domestic physical disc sales further supplemented the project's financial footprint. Estimated DVD sales contributed $23,935,072 while Blu-ray sales added $31,397,485, bringing the total home video metric to $55,332,557."
+        ]
+      },
+      {
+        "h": "Box Office Legs and Weekly Decline",
+        "p": [
+          "Following its massive debut, the feature exhibited a domestic leg multiplier of 2.74 relative to its opening weekend. Weekly performance figures show a steady descent in ticket sales as the run progressed through the winter months.",
+          "During its second weekend, the picture grossed $52,004,595 representing a 49 percent drop. By its fifth week, the weekly gross declined to $10,474,083 while playing in 2,653 locations."
+        ]
+      },
+      {
+        "h": "Late Stage Theatrical Run",
+        "p": [
+          "As the theatrical run extended into early 2016, screen counts gradually reduced across the United States. By mid-February 2016, the theater count hovered around 215 locations.",
+          "Daily tracking from late February 2016 recorded minor daily fluctuations, with daily grosses frequently falling below $50,000 as the domestic total approached its final tally of $281,723,902."
+        ]
+      },
+      {
+        "h": "Production and Creative Background",
+        "p": [
+          "Directed as a live-action science fiction adventure, the film adapts a young adult book source material. Production and financing duties were shared by Lionsgate and Color Force.",
+          "The narrative follows Katniss Everdeen alongside allies like Gale, Finnick, and Peeta as they attempt to liberate Panem and confront President Snow in a post-apocalyptic setting."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "The Hunger Games: Mockingjay — Part 2 finished its global theatrical run with $650,534,509 worldwide against a $160,000,000 production budget. Distributed by Lionsgate in November 2015, the science fiction feature achieved a $102,665,981 domestic opening weekend."
+        ]
+      }
+    ],
+    "facts": [
+      "The Hunger Games: Mockingjay — Part 2 was released on November 20th, 2015.",
+      "The production budget was $160,000,000.",
+      "The domestic box office total was $281,723,902.",
+      "The international box office total was $368,810,607.",
+      "The worldwide box office total was $650,534,509.",
+      "The opening weekend domestic gross was $102,665,981."
+    ],
+    "entities": {
+      "people": [
+        "Katniss Everdeen",
+        "President Snow",
+        "Gale",
+        "Finnick",
+        "Peeta"
+      ],
+      "titles": [
+        "The Hunger Games: Mockingjay — Part 2"
+      ]
+    },
+    "keywords": [
+      "The Hunger Games Mockingjay Part 2 box office",
+      "Katniss Everdeen Mockingjay Part 2 earnings",
+      "Hunger Games Mockingjay Part 2 worldwide gross",
+      "Lionsgate Mockingjay Part 2 box office collection"
+    ],
+    "images": [],
+    "published": "2026-11-20T23:51:37Z"
+  },
+  "itb2go": {
+    "id": "itb2go",
+    "type": "news",
+    "headline": "Bollywood Figures and Political Leaders Mourn Passing of UP Chief Minister Yogi Adityanath's Mother Savitri Devi",
+    "dek": "Members of the Hindi film fraternity and political figures express deep sorrow and offer heartfelt condolences following the passing of Savitri Devi at the age of 91.",
+    "body": [
+      {
+        "h": "Passing of Savitri Devi",
+        "p": [
+          "Savitri Devi, the mother of Uttar Pradesh Chief Minister Yogi Adityanath, passed away at the age of 91. She breathed her last at her ancestral home located in Panchur village within the Pauri Garhwal district of Uttarakhand."
+        ]
+      },
+      {
+        "h": "Family Background and Early Life",
+        "p": [
+          "She was married to Anand Singh Bisht, a retired forest ranger who passed away earlier in April 2020. Together, the couple raised a large family comprising seven children, which included four sons and three daughters.",
+          "Yogi Adityanath, who was originally born as Ajay Singh Bisht, departed from his family home during the 1990s to pursue a monastic lifestyle before eventually transitioning into public service and politics."
+        ]
+      },
+      {
+        "h": "Kangana Ranaut Shares Condolences",
+        "p": [
+          "Actress and politician Kangana Ranaut utilized the Story section of her Instagram account to share a nostalgic throwback photograph showing the Uttar Pradesh Chief Minister meeting his late mother.",
+          "Accompanying the image, she expressed her grief in writing, describing the event as the saddest news and extending her prayers and respects with the traditional sentiment of Om Shanti."
+        ]
+      },
+      {
+        "h": "Arun Govil Pays Tribute",
+        "p": [
+          "Arun Govil, a fellow politician belonging to the BJP and serving as a Member of Lok Sabha alongside his background in entertainment, also took to social media to honour the memory of Savitri Devi.",
+          "He shared two distinct photographs, with the first featuring a portrait of the Chief Minister's mother and the second mirroring the throwback image shared by Kangana Ranaut."
+        ]
+      },
+      {
+        "h": "Manoj Muntashir's Emotional Note",
+        "p": [
+          "National Award-winning lyricist Manoj Muntashir shared a monochromatic throwback image of Savitri Devi on his Instagram profile to mark her passing.",
+          "Along with the photograph, he penned an extensive caption highlighting the profound sorrow experienced by the Chief Minister, noting that even a successful leader who commands immense national respect has now lost a primary source of maternal love and compassion."
+        ]
+      },
+      {
+        "h": "Prayers for Endurance and Peace",
+        "p": [
+          "In his heartfelt message, Manoj Muntashir expressed that language falls short when trying to articulate the depth of such an unbearable loss.",
+          "He concluded his tribute by offering prayers to Lord Shri Ramchandra, asking for the strength and endurance to be granted to Yogi Adityanath during this difficult time, alongside eternal peace for the departed soul."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Savitri Devi, mother of Uttar Pradesh Chief Minister Yogi Adityanath, passed away at the age of 91 at her ancestral home in Uttarakhand. Members of the Hindi film industry and political sphere, including Kangana Ranaut, Arun Govil, and Manoj Muntashir, shared tributes and condolences on social media."
+        ]
+      }
+    ],
+    "facts": [
+      "Savitri Devi passed away at the age of 91 on November 20, 2026.",
+      "She breathed her last at her ancestral home in Panchur village, Pauri Garhwal district, Uttarakhand.",
+      "She was married to Anand Singh Bisht, a retired forest ranger who died in April 2020.",
+      "The couple had seven children, including four sons and three daughters.",
+      "Yogi Adityanath was born Ajay Singh Bisht and left home in the 1990s to embrace monastic life before entering politics."
+    ],
+    "entities": {
+      "people": [
+        "Arun Govil",
+        "Manoj Muntashir",
+        "Yogi Adityanath",
+        "Savitri Devi",
+        "Kangana Ranaut",
+        "Anand Singh Bisht"
+      ],
+      "titles": []
+    },
+    "keywords": [
+      "Yogi Adityanath mother Savitri Devi",
+      "Arun Govil Yogi Adityanath mother",
+      "Manoj Muntashir Savitri Devi",
+      "Kangana Ranaut Yogi Adityanath"
+    ],
+    "images": [
+      {
+        "url": "https://cdn-english.zeenews.com/sites/default/files/2026/11/20/7112-yogi-adityanath.webp",
+        "caption": "Bollywood Figures and Political Leaders Mourn Passing of UP Chief Minister Yogi Adityanath's Mother Savitri Devi",
+        "source": "Zee News — Entertainment"
+      }
+    ],
+    "published": "2026-11-20T23:51:37Z"
+  },
+  "r22llq": {
+    "id": "r22llq",
+    "type": "news",
+    "headline": "Melania Trump Discusses Ukraine Ceasefire at New York Screening for Amazon Follow-Up Series",
+    "dek": "The first lady addressed the Oleshky ceasefire and her broader humanitarian efforts during the premiere event for the two-episode streaming extension at Lincoln Center.",
+    "body": [
+      {
+        "h": "New York Premiere at Lincoln Center",
+        "p": [
+          "The follow-up streaming project to the earlier theatrical documentary celebrated its release with a high-security screening at Alice Tully Hall inside New York City's Lincoln Center. Billed as a two-episode continuation of the initial $40 million Amazon project, the event featured a signature black-and-white aesthetic complete with themed popcorn boxes and tickets bearing the first lady's face.",
+          "Organizers and participants downplayed any potential friction regarding the choice of venue compared to the earlier Washington debut, noting established personal and professional ties to New York. Inside the tightly guarded event, attendees gathered to watch the new footage arrive on Amazon's Prime Video."
+        ]
+      },
+      {
+        "h": "Structure and Content of the Docuseries",
+        "p": [
+          "While the preceding theatrical film focused on the two weeks leading up to the presidential inauguration, the episodic release pivots toward showcasing the first lady actively operating within her official role. Creators chose to bifurcate the narrative to give deeper focus to personal history, professional career, and philanthropic endeavors.",
+          "The project is structured around distinct thematic focal points across its episodes. Viewers are introduced to elements highlighting family dynamics alongside coverage of specific regional visits, including trips to North Carolina following Hurricane Helene and Los Angeles in the wake of the 2025 wildfires."
+        ]
+      },
+      {
+        "h": "Addressing International Peace Efforts",
+        "p": [
+          "Taking the stage at a custom podium before the screening, the subject of the project delivered remarks centered on her role in negotiating a ceasefire in Oleshky, Ukraine. She connected the diplomatic achievement to personal core values of calmness, family, trust, and resilience under pressure.",
+          "The remarks highlighted the humanitarian impact of the agreement, noting the hundreds of lives saved and the relief brought to families impacted by conflict. These themes align directly with the episodic titles and the overarching tone established within the streaming release."
+        ]
+      },
+      {
+        "h": "Behind the Production and Licensing Timeline",
+        "p": [
+          "Key figures behind the production addressed questions concerning the release schedule, clarifying that the timing adhered strictly to the original contractual agreements negotiated with Amazon. Speculation regarding perceived delays was dismissed by representatives managing the rollout.",
+          "Producers emphasized that the episodic format offers a distinct viewing experience separate from the trade edition of the accompanying memoir. The strategy is designed to provide supporters with a layered look at public service and personal history through newly curated visual material."
+        ]
+      },
+      {
+        "h": "Humanitarian Focus Over Lifestyle Ambitions",
+        "p": [
+          "While initial announcements surrounding the broader media agreement sparked discussion regarding commercial lifestyle branding, close associates redirected attention toward ongoing philanthropic missions. Particular emphasis was placed on initiatives aiding children and foster youth through educational support programs.",
+          "Advisers maintained that active international diplomacy and domestic charitable contributions hold far greater personal significance than commercial enterprises. The narrative pushed by the filmmaking team remains firmly anchored in public service achievements."
+        ]
+      },
+      {
+        "h": "Colleagues Share Personal Insights",
+        "p": [
+          "Longtime collaborators and political colleagues offered perspectives on the unique opportunity for the subject to present her own narrative directly to the public. Fashion designer Hervé Pierre and former adviser Kellyanne Conway noted that the project helps bridge the gap between a private demeanor and a very public existence.",
+          "Collaborators shared lighthearted details regarding behind-the-scenes demeanor, noting professional composure across decades of haute couture work alongside personal reactions during humorous moments. The commentary underscores an ongoing effort to share a direct, unfiltered viewpoint with audiences."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Melania Trump debuted a two-episode Amazon streaming follow-up to her earlier documentary during an event at New York's Lincoln Center. During the gathering, she spoke about her role in brokering a ceasefire in Oleshky, Ukraine, while producers and colleagues discussed the project's focus on her humanitarian work and first lady duties."
+        ]
+      }
+    ],
+    "facts": [
+      "The screening took place on Thursday night at New York's Lincoln Center.",
+      "The project is a two-episode follow-up titled Melania: The Series.",
+      "The initial documentary project cost $40 million.",
+      "The streaming release is available on Amazon's Prime Video.",
+      "The Oleshky ceasefire saved 800 lives."
+    ],
+    "entities": {
+      "people": [
+        "Melania Trump",
+        "Brett Ratner",
+        "Marc Beckman",
+        "Fernando Sulichin",
+        "Kellyanne Conway",
+        "Hervé Pierre"
+      ],
+      "titles": [
+        "Melania: The Series",
+        "Melania"
+      ]
+    },
+    "keywords": [
+      "Melania Trump Melania The Series",
+      "Melania Trump Amazon Prime Video",
+      "Melania Trump Ukraine ceasefire",
+      "Melania Trump Lincoln Center premiere"
+    ],
+    "images": [
+      {
+        "url": "https://www.hollywoodreporter.com/wp-content/uploads/2026/11/GettyImages-2306006993.jpg?crop=0px%2C132px%2C5400px%2C3022px&#038;resize=1440%2C810",
+        "caption": "Melania Trump Discusses Ukraine Ceasefire at New York Screening for Amazon Follow-Up Series",
+        "source": "The Hollywood Reporter"
+      }
+    ],
+    "published": "Fri, 20 Nov 2026 22:38:05 +0000"
   }
 };
