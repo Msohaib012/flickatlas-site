@@ -38,7 +38,7 @@
    "name": "World Cinema Movies & TV Shows",
    "url": "https://flickatlas.co.uk/category?cat=world"
   },
-  "ssr": "<article class=\"ssr-facts\">\n<h1>World Cinema Movies &amp; TV Shows</h1>\n<p>Browse international films and television series on FlickAtlas, including Hollywood titles. Explore available cast, story and release information.</p>\n<h2>Latest covered titles</h2>\n<ul><li>Mo Amor (2027)</li><li>Witch on the Holy Night (2027)</li><li>The Liberation (2027)</li><li>Elsinore (2026)</li><li>Dune: Part Three (2026)</li><li>Avengers: Doomsday (2026)</li><li>循环街区 (2026)</li><li>What Happened On November 1st? (2026)</li><li>Tsuri Komachi (2026)</li><li>Tristan Lucas &quot;Français Content&quot; (2026)</li></ul>\n</article>",
+  "ssr": "<article class=\"ssr-facts\">\n<h1>World Cinema Movies &amp; TV Shows</h1>\n<p>Browse international films and television series on FlickAtlas, including Hollywood titles. Explore available cast, story and release information.</p>\n<h2>Latest covered titles</h2>\n<ul><li>Mo Amor (2027)</li><li>Witch on the Holy Night (2027)</li><li>The Liberation (2027)</li><li>Elsinore (2026)</li><li>Dune: Part Three (2026)</li><li>Avengers: Doomsday (2026)</li><li>The Odds (2026)</li><li>La Voz en La Estática (2026)</li><li>Jeanfi Janssens - Tombé du ciel (2026)</li><li>Intersection (2026)</li></ul>\n</article>",
   "t": "World Cinema Movies & TV Shows | FlickAtlas"
  },
  "daywise:1081010": {
@@ -7386,7 +7386,7 @@
    "name": "Bollywood, World Cinema & Box Office | FlickAtlas",
    "url": "https://flickatlas.co.uk/"
   },
-  "ssr": "<article class=\"ssr-facts\">\n<h1>FlickAtlas</h1>\n<p>Explore Bollywood and Indian cinema, World Cinema, Pakistani dramas, reported box office, OTT availability, release dates and entertainment news.</p>\n<h2>Latest news</h2>\n<ul><li>Huma Qureshi Starrer Bayaan Set For Direct-To-Digital Premiere On Zee5</li><li>GTA 6 Features 1982 Bengali Song Aaj Shanibar By Rupa Biswas</li><li>Why Billy Bob Thornton&#x27;s Sports Drama Remains a Masterpiece on Streaming</li><li>Joe Russo Teases Final &#x27;Avengers: Doomsday&#x27; Trailer and Discusses Fan Engagement at Doha Film Festival</li><li>Bill Maher Discusses Grand Theft Auto VI And Robert Pattinson&#x27;s James Bond Casting On Real Time</li></ul>\n<h2>Trending titles</h2>\n<ul><li>One Piece (1999) — TMDB rating 8.8/10</li><li>MobLand (2025) — TMDB rating 8.6/10</li><li>VisionQuest (2026) — TMDB rating 8.7/10</li><li>Tulsa King (2022) — TMDB rating 8.3/10</li><li>The Odyssey (2026) — TMDB rating 8.0/10</li></ul>\n</article>",
+  "ssr": "<article class=\"ssr-facts\">\n<h1>FlickAtlas</h1>\n<p>Explore Bollywood and Indian cinema, World Cinema, Pakistani dramas, reported box office, OTT availability, release dates and entertainment news.</p>\n<h2>Latest news</h2>\n<ul><li>Huma Qureshi Starrer Bayaan Set For Direct-To-Digital Premiere On Zee5</li><li>Macaulay Culkin May Return for a New Home Alone Sequel with Seth Rogen and Evan Goldberg</li><li>Charlie Puth Set For Historic India Debut at Johnnie Co. Festival in Mumbai</li><li>GTA 6 Features 1982 Bengali Song Aaj Shanibar By Rupa Biswas</li><li>The Hunger Games: Sunrise On The Reaping Secures Massive Preview Haul At North American Box Office</li></ul>\n<h2>Trending titles</h2>\n<ul><li>One Piece (1999) — TMDB rating 8.8/10</li><li>MobLand (2025) — TMDB rating 8.6/10</li><li>VisionQuest (2026) — TMDB rating 8.7/10</li><li>Tulsa King (2022) — TMDB rating 8.3/10</li><li>The Odyssey (2026) — TMDB rating 8.0/10</li></ul>\n</article>",
   "t": "Bollywood, World Cinema & Box Office | FlickAtlas"
  },
  "movie:1003494": {
@@ -18851,6 +18851,70 @@
   "t": "Diés Iraé (2025) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
   "year": "2025"
  },
+ "movie:1400336": {
+  "d": "Focker In-Law (2026): Comedy/Romance film. Story: Henry, son of Greg and Pam Focker, aims to marry… See cast and TMDB rating 7.0/10.",
+  "img": "https://image.tmdb.org/t/p/w780/1zcCFBcqEQtAtXDh6EoBPy16RLR.jpg",
+  "industry": "world",
+  "k": "Focker In-Law, Focker In-Law movie, Focker In-Law cast, Focker In-Law story, Focker In-Law box office collection, Focker In-Law budget, Focker In-Law review, Focker In-Law rating, Focker In-Law release date, Focker In-Law trailer, Focker In-Law Comedy, Focker In-Law Romance, international movies, FlickAtlas",
+  "ld": {
+   "@context": "https://schema.org",
+   "@type": "Movie",
+   "actor": [
+    {
+     "@type": "Person",
+     "name": "Ben Stiller"
+    },
+    {
+     "@type": "Person",
+     "name": "Robert De Niro"
+    },
+    {
+     "@type": "Person",
+     "name": "Ariana Grande"
+    },
+    {
+     "@type": "Person",
+     "name": "Skyler Gisondo"
+    },
+    {
+     "@type": "Person",
+     "name": "Owen Wilson"
+    }
+   ],
+   "aggregateRating": {
+    "@type": "AggregateRating",
+    "bestRating": 10,
+    "ratingCount": 2,
+    "ratingValue": 7.0,
+    "worstRating": 0
+   },
+   "description": "Focker In-Law (2026): Comedy/Romance film. Story: Henry, son of Greg and Pam Focker, aims to marry… See cast and TMDB rating 7.0/10.",
+   "director": [
+    {
+     "@type": "Person",
+     "name": "John Hamburg"
+    }
+   ],
+   "duration": "PT105M",
+   "genre": [
+    "Comedy",
+    "Romance"
+   ],
+   "image": "https://image.tmdb.org/t/p/w780/1zcCFBcqEQtAtXDh6EoBPy16RLR.jpg",
+   "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1400336",
+   "name": "Focker In-Law",
+   "releasedEvent": {
+    "@type": "PublicationEvent",
+    "startDate": "2026-11-25"
+   },
+   "url": "https://flickatlas.co.uk/movie?id=1400336"
+  },
+  "modified": "",
+  "published": "2026-11-21",
+  "ssr": "<article class=\"ssr-facts\">\n<h1>Focker In-Law (2026)</h1>\n<p class=\"ssr-lead\">Henry, son of Greg and Pam Focker, aims to marry Olivia, a strong-willed former hostage negotiator who appears to be his complete mismatch. To Greg&#x27;s shock, stepdad Jack Byrnes takes a liking to Olivia, and her unprecedented rise into his Circle of Trust sparks chaos in the family before Jack&#x27;s 80th birthday party.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 25 November 2026</li><li>Runtime: 105 minutes</li><li>Director: John Hamburg</li><li>Genres: Comedy, Romance</li><li>TMDB rating: 7.0/10 (2 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Ben Stiller as Greg Focker</li><li>Robert De Niro as Jack Byrnes</li><li>Ariana Grande as Olivia Jones</li><li>Skyler Gisondo as Henry Focker</li><li>Owen Wilson as Kevin Rawley</li><li>Blythe Danner as Dina Byrnes</li><li>Teri Polo as Pam Byrnes-Focker</li><li>Beanie Feldstein as Samantha Focker</li><li>Eduardo Franco as Eduardo Villalobos</li><li>Liza Koshy</li></ul>\n</article>",
+  "t": "Focker In-Law (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+  "year": "2026"
+ },
  "movie:1400837": {
   "d": "Other Mommy (2026): Horror film. Story: Young Bela forms a relationship with a sinister… See cast, budget $18M, and TMDB rating 5.8/10.",
   "img": "https://image.tmdb.org/t/p/w780/ncm7djsVTHQQMX2HEbEVxMUFchG.jpg",
@@ -25076,6 +25140,62 @@
   "t": "Laya (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
   "year": "2026"
  },
+ "movie:1550356": {
+  "d": "El Director (2026): Drama film. Story: War correspondent David Jiménez becomes editor of El… See cast and release date 20 November 2026.",
+  "img": "https://image.tmdb.org/t/p/w780/2hDvcWbWaCOkh8bwrVl0w6FJNog.jpg",
+  "industry": "world",
+  "k": "El Director, El Director movie, El Director cast, El Director story, El Director box office collection, El Director budget, El Director review, El Director rating, El Director release date, El Director Drama, international movies, FlickAtlas",
+  "ld": {
+   "@context": "https://schema.org",
+   "@type": "Movie",
+   "actor": [
+    {
+     "@type": "Person",
+     "name": "David Verdaguer"
+    },
+    {
+     "@type": "Person",
+     "name": "Alberto San Juan"
+    },
+    {
+     "@type": "Person",
+     "name": "Carmen Machi"
+    },
+    {
+     "@type": "Person",
+     "name": "Emma Vilarasau"
+    },
+    {
+     "@type": "Person",
+     "name": "Fernando Colomo"
+    }
+   ],
+   "description": "El Director (2026): Drama film. Story: War correspondent David Jiménez becomes editor of El… See cast and release date 20 November 2026.",
+   "director": [
+    {
+     "@type": "Person",
+     "name": "Dani de la Orden"
+    }
+   ],
+   "duration": "PT113M",
+   "genre": [
+    "Drama"
+   ],
+   "image": "https://image.tmdb.org/t/p/w780/2hDvcWbWaCOkh8bwrVl0w6FJNog.jpg",
+   "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1550356",
+   "name": "El Director",
+   "releasedEvent": {
+    "@type": "PublicationEvent",
+    "startDate": "2026-11-20"
+   },
+   "url": "https://flickatlas.co.uk/movie?id=1550356"
+  },
+  "modified": "",
+  "published": "2026-11-21",
+  "ssr": "<article class=\"ssr-facts\">\n<h1>El Director (2026)</h1>\n<p class=\"ssr-lead\">War correspondent David Jiménez becomes editor of El Mundo newspaper and discovers hidden deals with elites while pushing digital changes. His fight for editorial independence leads to his removal after a year.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 20 November 2026</li><li>Runtime: 113 minutes</li><li>Director: Dani de la Orden</li><li>Genres: Drama</li></ul>\n<h2>Top cast</h2>\n<ul><li>David Verdaguer</li><li>Alberto San Juan</li><li>Carmen Machi</li><li>Emma Vilarasau</li><li>Fernando Colomo</li><li>Fernando Cayo</li><li>Xavi Sáez</li><li>Marc Rodríguez</li><li>Pau Durà</li><li>Joan Carreras</li></ul>\n</article>",
+  "t": "El Director (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+  "year": "2026"
+ },
  "movie:1550500": {
   "d": "The Boom Killer (2026): Comedy/Crime film. Story: A great tragedy occurs during the filming of a movie. See cast and release date 25 November 2026.",
   "img": "https://image.tmdb.org/t/p/w780/oFgnNemL7nxov4p7HEV4JSBq17Y.jpg",
@@ -26404,7 +26524,7 @@
   "year": "2026"
  },
  "movie:1568060": {
-  "d": "Perfect Liars (2026): Drama/Romance film. Story: Jude Derry arrives at the exclusive Tagus university… See cast and release date 20 November 2026.",
+  "d": "Perfect Liars (2026): Drama/Romance film. Story: Jude Derry arrives at the exclusive Tagus university… See cast and TMDB rating 6.7/10.",
   "img": "https://image.tmdb.org/t/p/w780/OiXyM1w9NxdV450GpV92B0YPMj.jpg",
   "industry": "world",
   "k": "Perfect Liars, Perfect Liars movie, Perfect Liars cast, Perfect Liars story, Perfect Liars box office collection, Perfect Liars budget, Perfect Liars review, Perfect Liars rating, Perfect Liars release date, Perfect Liars trailer, Perfect Liars Drama, Perfect Liars Romance, international movies, FlickAtlas",
@@ -26433,13 +26553,21 @@
      "name": "Asier Etxeandia"
     }
    ],
-   "description": "Perfect Liars (2026): Drama/Romance film. Story: Jude Derry arrives at the exclusive Tagus university… See cast and release date 20 November 2026.",
+   "aggregateRating": {
+    "@type": "AggregateRating",
+    "bestRating": 10,
+    "ratingCount": 9,
+    "ratingValue": 6.7,
+    "worstRating": 0
+   },
+   "description": "Perfect Liars (2026): Drama/Romance film. Story: Jude Derry arrives at the exclusive Tagus university… See cast and TMDB rating 6.7/10.",
    "director": [
     {
      "@type": "Person",
      "name": "Jesús Colmenar"
     }
    ],
+   "duration": "PT108M",
    "genre": [
     "Drama",
     "Romance"
@@ -26455,7 +26583,7 @@
   },
   "modified": "",
   "published": "2026-11-20",
-  "ssr": "<article class=\"ssr-facts\">\n<h1>Perfect Liars (2026)</h1>\n<p class=\"ssr-lead\">Jude Derry arrives at the exclusive Tagus university with a hidden mission: to infiltrate the circle of the Cash brothers and uncover the truth about her brother&#x27;s death. What begins as revenge turns into a dangerous triangle of seduction, forbidden attraction and lies, drawing her toward a truth she may not be ready to face. Based on the novel by Alex Mirez.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 20 November 2026</li><li>Director: Jesús Colmenar</li><li>Genres: Drama, Romance, Thriller</li><li>Status: Post Production</li></ul>\n<h2>Top cast</h2>\n<ul><li>Irene Balmes as Jude Derry</li><li>Gleb Abrosimov as Aegan Cash</li><li>Pau Simon as Adrik Cash</li><li>Pablo Scapigliati as Aleixandre Cash</li><li>Asier Etxeandia as Adrian Cash</li><li>Silvia Kal as Michelle Cash</li><li>Irene Ferreiro</li><li>Manuela Calle</li><li>Verónica Moral as Prof. Lauris</li><li>Muriel Sanchez as Madre de Eli</li></ul>\n<h2>Where to watch</h2>\n<ul><li>Streaming on Amazon Prime Video (IN)</li><li>Streaming on Amazon Prime Video with Ads (IN)</li></ul>\n</article>",
+  "ssr": "<article class=\"ssr-facts\">\n<h1>Perfect Liars (2026)</h1>\n<p class=\"ssr-lead\">Jude Derry arrives at the exclusive Tagus university with a hidden mission: to infiltrate the circle of the Cash brothers and uncover the truth about her brother&#x27;s death. What begins as revenge turns into a dangerous triangle of seduction, forbidden attraction and lies, drawing her toward a truth she may not be ready to face.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 20 November 2026</li><li>Runtime: 108 minutes</li><li>Director: Jesús Colmenar</li><li>Genres: Drama, Romance, Thriller</li><li>TMDB rating: 6.7/10 (9 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Irene Balmes as Jude Derry</li><li>Gleb Abrosimov as Aegan Cash</li><li>Pau Simon as Adrik Cash</li><li>Pablo Scapigliati as Aleixandre Cash</li><li>Asier Etxeandia as Adrian Cash</li><li>Silvia Kal as Michelle Cash</li><li>Irene Ferreiro</li><li>Manuela Calle</li><li>Verónica Moral as Prof. Lauris</li><li>Muriel Sanchez as Madre de Eli</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Amazon Prime Video, Amazon Prime Video with Ads</li></ul>\n<h2>Where to watch</h2>\n<ul><li>Streaming on Amazon Prime Video (IN)</li><li>Streaming on Amazon Prime Video with Ads (IN)</li></ul>\n</article>",
   "t": "Perfect Liars (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
   "year": "2026"
  },
@@ -27763,7 +27891,7 @@
   "year": "2026"
  },
  "movie:1595124": {
-  "d": "Steps (2026): Animation/Fantasy film. Story: Think you know Cinderella's 'evil' stepsisters? Think… See cast and release date 20 November 2026.",
+  "d": "Steps (2026): Animation/Fantasy film. Story: After being blamed for disrupting the Royal Ball with… See cast and TMDB rating 7.9/10.",
   "img": "https://image.tmdb.org/t/p/w780/g1bEboMx1a8JCg1jXeDCh24RtgW.jpg",
   "industry": "world",
   "k": "Steps, Steps movie, Steps cast, Steps story, Steps box office collection, Steps budget, Steps review, Steps rating, Steps release date, Steps trailer, Steps Animation, Steps Fantasy, international movies, FlickAtlas",
@@ -27792,14 +27920,21 @@
      "name": "Nikki Glaser"
     }
    ],
-   "description": "Steps (2026): Animation/Fantasy film. Story: Think you know Cinderella's 'evil' stepsisters? Think… See cast and release date 20 November 2026.",
+   "aggregateRating": {
+    "@type": "AggregateRating",
+    "bestRating": 10,
+    "ratingCount": 9,
+    "ratingValue": 7.9,
+    "worstRating": 0
+   },
+   "description": "Steps (2026): Animation/Fantasy film. Story: After being blamed for disrupting the Royal Ball with… See cast and TMDB rating 7.9/10.",
    "director": [
     {
      "@type": "Person",
      "name": "Alyce Tzue"
     }
    ],
-   "duration": "PT102M",
+   "duration": "PT107M",
    "genre": [
     "Animation",
     "Fantasy"
@@ -27815,7 +27950,7 @@
   },
   "modified": "",
   "published": "2026-11-20",
-  "ssr": "<article class=\"ssr-facts\">\n<h1>Steps (2026)</h1>\n<p class=\"ssr-lead\">Think you know Cinderella&#x27;s &#x27;evil&#x27; stepsisters? Think again! When misunderstood Lilith is blamed for hijacking the Royal Ball with a stolen magic wand, she accidentally turns her sister Margot into a frog and leaves the kingdom in the hands of a prince-obsessed mean girl. Now Lilith must team up with Cinderella — and a surprisingly dreamy troll — to save the kingdom, repair the fractured fairytale, and prove that even so-called villains deserve a shot at happily-ever-after.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 20 November 2026</li><li>Runtime: 102 minutes</li><li>Director: Alyce Tzue</li><li>Genres: Animation, Fantasy, Comedy, Family, Adventure</li></ul>\n<h2>Top cast</h2>\n<ul><li>Ali Wong as Lilith (voice)</li><li>Amanda Seyfried as Cinderella (voice)</li><li>Stephanie Hsu as Margot (voice)</li><li>Bette Midler as Fairy Godmother (voice)</li><li>Nikki Glaser as Priscilla (voice)</li><li>Peter Dinklage as Roderick (voice)</li><li>Daniel Radcliffe as The Prince (voice)</li><li>Young Mazino as Gef (voice)</li><li>Luis Martinez as Cracktor (voice)</li><li>Gwendoline Yeo as Li Mei (voice)</li></ul>\n</article>",
+  "ssr": "<article class=\"ssr-facts\">\n<h1>Steps (2026)</h1>\n<p class=\"ssr-lead\">After being blamed for disrupting the Royal Ball with a stolen magic wand, a misunderstood stepsister accidentally turns her sister into a frog and must team up with Cinderella and an unlikely ally to save the kingdom and rewrite their fairytale ending.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 20 November 2026</li><li>Runtime: 107 minutes</li><li>Director: Alyce Tzue</li><li>Genres: Animation, Fantasy, Comedy, Family, Adventure</li><li>TMDB rating: 7.9/10 (9 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Ali Wong as Lilith (voice)</li><li>Amanda Seyfried as Cinderella (voice)</li><li>Stephanie Hsu as Margot (voice)</li><li>Bette Midler as Fairy Godmother (voice)</li><li>Nikki Glaser as Priscilla (voice)</li><li>Peter Dinklage as Roderick (voice)</li><li>Daniel Radcliffe as The Prince (voice)</li><li>Young Mazino as Gef (voice)</li><li>Luis Martinez as Cracktor (voice)</li><li>Gwendoline Yeo as Li Mei (voice)</li></ul>\n</article>",
   "t": "Steps (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
   "year": "2026"
  },
@@ -27886,6 +28021,54 @@
   "published": "2026-10-26",
   "ssr": "<article class=\"ssr-facts\">\n<h1>Drive - The Pretenders (2026)</h1>\n<p class=\"ssr-lead\">A young race car mechanic fakes an engagement to the most scandalous racing star on the scene—officially for his reputation, secretly for her own chance behind the wheel. But soon the lie threatens to destroy everything, including what has long since become more than just a game.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 28 October 2026</li><li>Director: Sergej Moya</li><li>Genres: Thriller, Romance</li></ul>\n<h2>Top cast</h2>\n<ul><li>Lisa-Marie Koroll as Sarah Jenkins</li><li>Amin Baahmed as Dante Annunziata</li><li>Gustav Schmidt as Ruben Laroch</li><li>Mišel Matičević as Alexander Bronson</li><li>Lucie Heinze as Tanya Stein</li><li>Frederic Linkemann as Jack Schroder</li><li>Inka Friedrich as Irene Jenkins</li><li>Jeanette Hain as Sofia Annunziata</li><li>Philippe Brenninkmeyer as Dr. Frederic Richter</li><li>Leslie Malton as Eva Maria Fischer</li></ul>\n<h2>FlickAtlas review</h2>\n<p>Overall: 6.5/10. Drive - The Pretenders delivers a straightforward and attractive motor racing romance with solid performances from its cast. While it carries some risks with underdeveloped characterisation, it remains an entertaining watch for fans of the genre. It comes recommended for a casual evening streaming on Prime Video if you enjoy high-stakes romance tropes set against a racing backdrop.</p>\n<ul><li>Action &amp; Cinematography: 6.5/10</li><li>Comedy &amp; Entertainment: 6/10</li><li>Direction: 6.5/10</li><li>Music &amp; BGM: 6.5/10</li><li>Performances: 7/10</li><li>Story &amp; Screenplay: 6/10</li></ul>\n<h2>Where to watch</h2>\n<ul><li>Streaming on Amazon Prime Video (IN)</li><li>Streaming on Amazon Prime Video with Ads (IN)</li></ul>\n</article>",
   "t": "Drive - The Pretenders (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+  "year": "2026"
+ },
+ "movie:1596276": {
+  "d": "To Hold a Mountain (2026): Documentary film. Story: In the remote highlands of Montenegro, a shepherd… See cast and release date 20 November 2026.",
+  "img": "https://image.tmdb.org/t/p/w780/fgTEyr4hpdEXdsnzZOssqQtipTj.jpg",
+  "industry": "world",
+  "k": "To Hold a Mountain, To Hold a Mountain movie, To Hold a Mountain cast, To Hold a Mountain story, To Hold a Mountain box office collection, To Hold a Mountain budget, To Hold a Mountain review, To Hold a Mountain rating, To Hold a Mountain release date, To Hold a Mountain Documentary, international movies, FlickAtlas",
+  "ld": {
+   "@context": "https://schema.org",
+   "@type": "Movie",
+   "actor": [
+    {
+     "@type": "Person",
+     "name": "Mileva Gara Jovanović"
+    },
+    {
+     "@type": "Person",
+     "name": "Nada Stanišić"
+    }
+   ],
+   "description": "To Hold a Mountain (2026): Documentary film. Story: In the remote highlands of Montenegro, a shepherd… See cast and release date 20 November 2026.",
+   "director": [
+    {
+     "@type": "Person",
+     "name": "Biljana Tutorov"
+    },
+    {
+     "@type": "Person",
+     "name": "Petar Glomazić"
+    }
+   ],
+   "duration": "PT105M",
+   "genre": [
+    "Documentary"
+   ],
+   "image": "https://image.tmdb.org/t/p/w780/fgTEyr4hpdEXdsnzZOssqQtipTj.jpg",
+   "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1596276",
+   "name": "To Hold a Mountain",
+   "releasedEvent": {
+    "@type": "PublicationEvent",
+    "startDate": "2026-11-20"
+   },
+   "url": "https://flickatlas.co.uk/movie?id=1596276"
+  },
+  "modified": "",
+  "published": "2026-11-21",
+  "ssr": "<article class=\"ssr-facts\">\n<h1>To Hold a Mountain (2026)</h1>\n<p class=\"ssr-lead\">In the remote highlands of Montenegro, a shepherd mother and daughter proudly defend their ancestral mountain from the threat of becoming a NATO military training ground, stirring memories of the violence that shattered their family.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 20 November 2026</li><li>Runtime: 105 minutes</li><li>Director: Biljana Tutorov, Petar Glomazić</li><li>Genres: Documentary</li></ul>\n<h2>Top cast</h2>\n<ul><li>Mileva Gara Jovanović as Self</li><li>Nada Stanišić as Self</li></ul>\n</article>",
+  "t": "To Hold a Mountain (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
   "year": "2026"
  },
  "movie:1597242": {
@@ -28301,6 +28484,62 @@
   "published": "2026-11-05",
   "ssr": "<article class=\"ssr-facts\">\n<h1>Bohurupi: The Golden Daku (2026)</h1>\n<p class=\"ssr-lead\">A cop tries to track down Bikram Pramanik, a master of disguise whose wife is a pickpocket.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 15 October 2026</li><li>Runtime: 168 minutes</li><li>Director: Nandita Roy, Shiboprosad Mukherjee</li><li>Genres: Thriller, Crime, Action</li></ul>\n<h2>Top cast</h2>\n<ul><li>Shiboprosad Mukherjee as Bikram &quot;Chuni&quot; Pramanik</li><li>Jisshu Sengupta as Ayan Bandyopadhyay</li><li>Koushani Mukherjee as Jhimli</li><li>Sohini Sarkar as Reshmi Bandyopadhyay</li><li>Rajatabha Dutta</li><li>Ambarish Bhattacharya</li><li>Shantilal Mukherjee</li><li>Chandan Sen</li><li>Titiksha Das</li><li>Pradeep Bhattacharya as Khuro</li></ul>\n<h2>Box office</h2>\n<ul><li>India Net total: $968.8k</li><li>Latest: Day 23 (2026-11-06) — India Net $2.1k</li></ul>\n</article>",
   "t": "Bohurupi: The Golden Daku (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+  "year": "2026"
+ },
+ "movie:1608012": {
+  "d": "Aşk Tesadüfleri Sever 3 (2026): Drama/Romance film. See cast and release date 20 November 2026.",
+  "img": "https://image.tmdb.org/t/p/w780/k7AFQ8riD1FPEsmPIXcaT6hbWyh.jpg",
+  "industry": "world",
+  "k": "Aşk Tesadüfleri Sever 3, Aşk Tesadüfleri Sever 3 movie, Aşk Tesadüfleri Sever 3 cast, Aşk Tesadüfleri Sever 3 story, Aşk Tesadüfleri Sever 3 box office collection, Aşk Tesadüfleri Sever 3 budget, Aşk Tesadüfleri Sever 3 review, Aşk Tesadüfleri Sever 3 rating, Aşk Tesadüfleri Sever 3 release date, Aşk Tesadüfleri Sever 3 Drama, Aşk Tesadüfleri Sever 3 Romance, international movies, FlickAtlas",
+  "ld": {
+   "@context": "https://schema.org",
+   "@type": "Movie",
+   "actor": [
+    {
+     "@type": "Person",
+     "name": "Mehmet Günsür"
+    },
+    {
+     "@type": "Person",
+     "name": "Devrim Özkan"
+    },
+    {
+     "@type": "Person",
+     "name": "Ülkü Hilal Çiftçi"
+    },
+    {
+     "@type": "Person",
+     "name": "Ayda Aksel"
+    },
+    {
+     "@type": "Person",
+     "name": "Hüseyin Avni Danyal"
+    }
+   ],
+   "description": "Aşk Tesadüfleri Sever 3 (2026): Drama/Romance film. See cast and release date 20 November 2026.",
+   "director": [
+    {
+     "@type": "Person",
+     "name": "Ipek Sorak"
+    }
+   ],
+   "genre": [
+    "Drama",
+    "Romance"
+   ],
+   "image": "https://image.tmdb.org/t/p/w780/k7AFQ8riD1FPEsmPIXcaT6hbWyh.jpg",
+   "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1608012",
+   "name": "Aşk Tesadüfleri Sever 3",
+   "releasedEvent": {
+    "@type": "PublicationEvent",
+    "startDate": "2026-11-20"
+   },
+   "url": "https://flickatlas.co.uk/movie?id=1608012"
+  },
+  "modified": "",
+  "published": "2026-11-21",
+  "ssr": "<article class=\"ssr-facts\">\n<h1>Aşk Tesadüfleri Sever 3 (2026)</h1>\n<h2>Key facts</h2>\n<ul><li>Release date: 20 November 2026</li><li>Director: Ipek Sorak</li><li>Genres: Drama, Romance</li></ul>\n<h2>Top cast</h2>\n<ul><li>Mehmet Günsür as Özgür</li><li>Devrim Özkan</li><li>Ülkü Hilal Çiftçi</li><li>Ayda Aksel</li><li>Hüseyin Avni Danyal</li><li>Güler Ökten</li><li>Uğur Polat</li><li>Bennu Yıldırımlar</li><li>Emin Gürsoy</li><li>Serkan Altunorak</li></ul>\n</article>",
+  "t": "Aşk Tesadüfleri Sever 3 (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
   "year": "2026"
  },
  "movie:1608666": {
@@ -29199,6 +29438,63 @@
   "published": "2026-11-09",
   "ssr": "<article class=\"ssr-facts\">\n<h1>One Sweet Hour (2026)</h1>\n<p class=\"ssr-lead\">An ageing Elvis impersonator finally faces up to his demons as he travels through the Irish midlands with his long-lost brother, who has recently quit his life in a monastery.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 16 November 2026</li><li>Runtime: 107 minutes</li><li>Director: Declan Recks</li><li>Genres: Drama</li></ul>\n<h2>Top cast</h2>\n<ul><li>Gary Lydon as Gerry Byrne</li><li>Brían F. O&#x27;Byrne as Colum Byrne</li><li>Sofia Moloney as Amelia</li><li>John Kavanagh as Tommy</li><li>Michael Hough as Angus</li><li>Helen Behan as Eileen</li><li>Dawn Bradfield as Angela</li><li>Darragh O&#x27;Toole as Cormac</li><li>Gail Fitzpatrick as Sister Joan</li><li>Philip Judge as Lorcan</li></ul>\n</article>",
   "t": "One Sweet Hour (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+  "year": "2026"
+ },
+ "movie:1625344": {
+  "d": "The Rainbow Fish (2026): Family/Animation film. Story: The rainbow fish, an outsider obsessed with his… See cast and release date 19 November 2026.",
+  "img": "https://image.tmdb.org/t/p/w780/1LYC3PvCmGoL5Ir6MM2GglquHOa.jpg",
+  "industry": "world",
+  "k": "The Rainbow Fish, The Rainbow Fish movie, The Rainbow Fish cast, The Rainbow Fish story, The Rainbow Fish box office collection, The Rainbow Fish budget, The Rainbow Fish review, The Rainbow Fish rating, The Rainbow Fish release date, The Rainbow Fish Family, The Rainbow Fish Animation, international movies, FlickAtlas",
+  "ld": {
+   "@context": "https://schema.org",
+   "@type": "Movie",
+   "actor": [
+    {
+     "@type": "Person",
+     "name": "Jannik Schümann"
+    },
+    {
+     "@type": "Person",
+     "name": "Luna Wedler"
+    },
+    {
+     "@type": "Person",
+     "name": "Mechthild Großmann"
+    },
+    {
+     "@type": "Person",
+     "name": "Bjarne Mädel"
+    },
+    {
+     "@type": "Person",
+     "name": "Oliver Kalkofe"
+    }
+   ],
+   "description": "The Rainbow Fish (2026): Family/Animation film. Story: The rainbow fish, an outsider obsessed with his… See cast and release date 19 November 2026.",
+   "director": [
+    {
+     "@type": "Person",
+     "name": "Florian Moch"
+    }
+   ],
+   "duration": "PT68M",
+   "genre": [
+    "Family",
+    "Animation"
+   ],
+   "image": "https://image.tmdb.org/t/p/w780/1LYC3PvCmGoL5Ir6MM2GglquHOa.jpg",
+   "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1625344",
+   "name": "The Rainbow Fish",
+   "releasedEvent": {
+    "@type": "PublicationEvent",
+    "startDate": "2026-11-19"
+   },
+   "url": "https://flickatlas.co.uk/movie?id=1625344"
+  },
+  "modified": "",
+  "published": "2026-11-21",
+  "ssr": "<article class=\"ssr-facts\">\n<h1>The Rainbow Fish (2026)</h1>\n<p class=\"ssr-lead\">The rainbow fish, an outsider obsessed with his glittering scales, learns the power of friendship on an adventurous sea voyage with the little blue fish. He finds his place in a colorful fish community—and realizes that sharing brings people together.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 19 November 2026</li><li>Runtime: 68 minutes</li><li>Director: Florian Moch</li><li>Genres: Family, Animation, Adventure</li></ul>\n<h2>Top cast</h2>\n<ul><li>Jannik Schümann as Regenbogenfisch (voice)</li><li>Luna Wedler as Kleiner Blauer (voice)</li><li>Mechthild Großmann as Oktopus (voice)</li><li>Bjarne Mädel as Grummel-Grusel (voice)</li><li>Oliver Kalkofe as Humbrecht (voice)</li><li>Patrick Bach as Hysteriko (voice)</li><li>Andrea Sawatzki as Giftqualle (voice)</li><li>Bela B. as Hai-Five-Hainer (voice)</li><li>Hella von Sinnen as Wal-Traut (voice)</li><li>Michael Brandner as Zacke (voice)</li></ul>\n</article>",
+  "t": "The Rainbow Fish (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
   "year": "2026"
  },
  "movie:1625362": {
@@ -31302,6 +31598,62 @@
   "t": "Mera Lyari (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
   "year": "2026"
  },
+ "movie:1684294": {
+  "d": "Three Generations, One Christmas (2026): Comedy/Drama film. Story: Set in a close-knit American town, The Starlight is a… See cast.",
+  "img": "https://image.tmdb.org/t/p/w780/4SaOeGPnXblIq22xVMnf9KXDr5v.jpg",
+  "industry": "world",
+  "k": "Three Generations, One Christmas, Three Generations, One Christmas movie, Three Generations, One Christmas cast, Three Generations, One Christmas story, Three Generations, One Christmas box office collection, Three Generations, One Christmas budget, Three Generations, One Christmas review, Three Generations, One Christmas rating, Three Generations, One Christmas release date, Three Generations, One Christmas Comedy, Three Generations, One Christmas Drama, international movies, FlickAtlas",
+  "ld": {
+   "@context": "https://schema.org",
+   "@type": "Movie",
+   "actor": [
+    {
+     "@type": "Person",
+     "name": "Mario López"
+    },
+    {
+     "@type": "Person",
+     "name": "Tony Danza"
+    },
+    {
+     "@type": "Person",
+     "name": "Dominic Lopez"
+    },
+    {
+     "@type": "Person",
+     "name": "Taylor Kalupa"
+    },
+    {
+     "@type": "Person",
+     "name": "Natalia Cigliuti"
+    }
+   ],
+   "description": "Three Generations, One Christmas (2026): Comedy/Drama film. Story: Set in a close-knit American town, The Starlight is a… See cast.",
+   "director": [
+    {
+     "@type": "Person",
+     "name": "Jody Margolin Hahn"
+    }
+   ],
+   "genre": [
+    "Comedy",
+    "Drama"
+   ],
+   "image": "https://image.tmdb.org/t/p/w780/4SaOeGPnXblIq22xVMnf9KXDr5v.jpg",
+   "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1684294",
+   "name": "Three Generations, One Christmas",
+   "releasedEvent": {
+    "@type": "PublicationEvent",
+    "startDate": "2026-11-19"
+   },
+   "url": "https://flickatlas.co.uk/movie?id=1684294"
+  },
+  "modified": "",
+  "published": "2026-11-21",
+  "ssr": "<article class=\"ssr-facts\">\n<h1>Three Generations, One Christmas (2026)</h1>\n<p class=\"ssr-lead\">Set in a close-knit American town, The Starlight is a beloved local supper club and longtime community gathering place where generations have gathered to celebrate music, family, and Christmas traditions. Frank—a legendary song-and-dance man—prepares to sell the family’s beloved restaurant lounge after 40 years. With the future of The Starlight in question, three generations of family are drawn into an emotional journey that reminds them what is worth preserving — and how faith, family, and home can quietly lead us back to where we belong.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 19 November 2026</li><li>Director: Jody Margolin Hahn</li><li>Genres: Comedy, Drama, Family</li></ul>\n<h2>Top cast</h2>\n<ul><li>Mario López</li><li>Tony Danza</li><li>Dominic Lopez</li><li>Taylor Kalupa as Ava</li><li>Natalia Cigliuti as Lina</li><li>William Mark McCullough as Father Julian James</li><li>Jeffrey Vincent Thompson as Bob Harmon</li><li>Bailey Humiston as Courtney Clark</li><li>Alan Pietruszewski as Mark</li><li>Finn Maloney as Adam Simpson</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Pure Flix, Great American Pure Flix Amazon Channel</li></ul>\n<h2>Where to watch</h2>\n<ul><li>Streaming on Pure Flix (US)</li><li>Streaming on Great American Pure Flix Amazon Channel (US)</li></ul>\n</article>",
+  "t": "Three Generations, One Christmas (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+  "year": "2026"
+ },
  "movie:1685339": {
   "d": "Unsafe (2026): Thriller film. Story: When a young girl becomes trapped inside an airtight… See cast, review 6.5/10, and release date 29 October 2026.",
   "img": "https://image.tmdb.org/t/p/w780/cmCjykkzGw7FBgGJjkibLEjrai1.jpg",
@@ -31839,6 +32191,7 @@
      "name": "Haris Imtiyaz Khan"
     }
    ],
+   "duration": "PT109M",
    "genre": [
     "Horror",
     "Thriller"
@@ -31854,7 +32207,7 @@
   },
   "modified": "",
   "published": "2026-11-13",
-  "ssr": "<article class=\"ssr-facts\">\n<h1>Kaali Kheti (2026)</h1>\n<p class=\"ssr-lead\">A story of inheritance land, legacy, trauma and the cost of trying to bury the past to grow the future.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 20 November 2026</li><li>Director: Haris Imtiyaz Khan</li><li>Genres: Horror, Thriller</li></ul>\n<h2>Top cast</h2>\n<ul><li>Jackie Shroff</li><li>Sharad Kelkar</li><li>Neha Sargam</li><li>Veerendra Saxena</li><li>Shaji Choudhary</li></ul>\n</article>",
+  "ssr": "<article class=\"ssr-facts\">\n<h1>Kaali Kheti (2026)</h1>\n<p class=\"ssr-lead\">A story of inheritance land, legacy, trauma and the cost of trying to bury the past to grow the future.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 20 November 2026</li><li>Runtime: 109 minutes</li><li>Director: Haris Imtiyaz Khan</li><li>Genres: Horror, Thriller</li></ul>\n<h2>Top cast</h2>\n<ul><li>Jackie Shroff</li><li>Sharad Kelkar</li><li>Neha Sargam</li><li>Veerendra Saxena</li><li>Shaji Choudhary</li></ul>\n</article>",
   "t": "Kaali Kheti (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
   "year": "2026"
  },
@@ -33664,7 +34017,7 @@
   "year": "2026"
  },
  "movie:1735403": {
-  "d": "Brindavihari (2026): Romance/Drama film. See cast and release date 20 November 2026.",
+  "d": "Brindavihari (2026): Romance/Drama film. Story: Set in the enchanting world of Brindavanam… See cast and release date 20 November 2026.",
   "img": "https://image.tmdb.org/t/p/w500/92bmvgVFOtLailapv5EssB5xPbe.jpg",
   "industry": "bollywood",
   "k": "Brindavihari, Brindavihari movie, Brindavihari cast, Brindavihari story, Brindavihari box office collection, Brindavihari budget, Brindavihari review, Brindavihari rating, Brindavihari release date, Brindavihari Romance, Brindavihari Drama, Indian movies, FlickAtlas",
@@ -33693,13 +34046,14 @@
      "name": "Rangayana Raghu"
     }
    ],
-   "description": "Brindavihari (2026): Romance/Drama film. See cast and release date 20 November 2026.",
+   "description": "Brindavihari (2026): Romance/Drama film. Story: Set in the enchanting world of Brindavanam… See cast and release date 20 November 2026.",
    "director": [
     {
      "@type": "Person",
      "name": "Srinivasa Raju"
     }
    ],
+   "duration": "PT159M",
    "genre": [
     "Romance",
     "Drama"
@@ -33715,7 +34069,7 @@
   },
   "modified": "",
   "published": "2026-11-13",
-  "ssr": "<article class=\"ssr-facts\">\n<h1>Brindavihari (2026)</h1>\n<h2>Key facts</h2>\n<ul><li>Release date: 20 November 2026</li><li>Director: Srinivasa Raju</li><li>Genres: Romance, Drama</li></ul>\n<h2>Top cast</h2>\n<ul><li>Ganesh as Madhava</li><li>Devika Bhat as Radha</li><li>Malvika Sharma as Meera</li><li>Ramkumar</li><li>Rangayana Raghu</li><li>Lakshmi</li><li>Achyuth Kumar</li><li>Sadhu Kokila</li><li>Avinash</li></ul>\n</article>",
+  "ssr": "<article class=\"ssr-facts\">\n<h1>Brindavihari (2026)</h1>\n<p class=\"ssr-lead\">Set in the enchanting world of Brindavanam, Brindavihari follows Madhava, a man who falls deeply in love with Radha, only to have his world turned upside down when she leaves. As Meera enters his life, Madhava is forced to confront the truth behind his world and the very nature of love itself.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 20 November 2026</li><li>Runtime: 159 minutes</li><li>Director: Srinivasa Raju</li><li>Genres: Romance, Drama, Music</li></ul>\n<h2>Top cast</h2>\n<ul><li>Ganesh as Madhava</li><li>Devika Bhat as Radha</li><li>Malvika Sharma as Meera</li><li>Ramkumar</li><li>Rangayana Raghu</li><li>Lakshmi</li><li>Achyuth Kumar</li><li>Sadhu Kokila</li><li>Avinash</li></ul>\n</article>",
   "t": "Brindavihari (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
   "year": "2026"
  },
@@ -46686,6 +47040,62 @@
   "t": "Daredevil: Man Without Fear (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
   "year": "2026"
  },
+ "movie:1804968": {
+  "d": "The Pursuit: F1 ACADEMY (2026): Documentary film. Story: Offering unparalleled behind-the-scenes access to the… See cast and TMDB rating 1.0/10.",
+  "img": "https://image.tmdb.org/t/p/w500/uVTEtFV01czYnVziWoR1QfoW9Wu.jpg",
+  "industry": "world",
+  "k": "The Pursuit: F1 ACADEMY, The Pursuit: F1 ACADEMY movie, The Pursuit: F1 ACADEMY cast, The Pursuit: F1 ACADEMY story, The Pursuit: F1 ACADEMY box office collection, The Pursuit: F1 ACADEMY budget, The Pursuit: F1 ACADEMY review, The Pursuit: F1 ACADEMY rating, The Pursuit: F1 ACADEMY release date, The Pursuit: F1 ACADEMY Documentary, international movies, FlickAtlas",
+  "ld": {
+   "@context": "https://schema.org",
+   "@type": "Movie",
+   "actor": [
+    {
+     "@type": "Person",
+     "name": "Doriane Pin"
+    },
+    {
+     "@type": "Person",
+     "name": "Maya Weug"
+    },
+    {
+     "@type": "Person",
+     "name": "Chloe Chambers"
+    },
+    {
+     "@type": "Person",
+     "name": "Alisha Palmowski"
+    },
+    {
+     "@type": "Person",
+     "name": "Susie Wolff"
+    }
+   ],
+   "aggregateRating": {
+    "@type": "AggregateRating",
+    "bestRating": 10,
+    "ratingCount": 1,
+    "ratingValue": 1.0,
+    "worstRating": 0
+   },
+   "description": "The Pursuit: F1 ACADEMY (2026): Documentary film. Story: Offering unparalleled behind-the-scenes access to the… See cast and TMDB rating 1.0/10.",
+   "genre": [
+    "Documentary"
+   ],
+   "image": "https://image.tmdb.org/t/p/w500/uVTEtFV01czYnVziWoR1QfoW9Wu.jpg",
+   "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1804968",
+   "name": "The Pursuit: F1 ACADEMY",
+   "releasedEvent": {
+    "@type": "PublicationEvent",
+    "startDate": "2026-11-19"
+   },
+   "url": "https://flickatlas.co.uk/movie?id=1804968"
+  },
+  "modified": "",
+  "published": "2026-11-21",
+  "ssr": "<article class=\"ssr-facts\">\n<h1>The Pursuit: F1 ACADEMY (2026)</h1>\n<p class=\"ssr-lead\">Offering unparalleled behind-the-scenes access to the 2025 F1 ACADEMY season, follow a group of elite female drivers, including Doriane Pin, Maya Weug, Chloe Chambers and Alisha Palmowski, as they navigate the pressures of competition and the personal sacrifices required to break into one of the most demanding sports in the world.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 19 November 2026</li><li>Genres: Documentary</li><li>TMDB rating: 1.0/10 (1 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Doriane Pin as Self</li><li>Maya Weug as Self</li><li>Chloe Chambers as Self</li><li>Alisha Palmowski as Self</li><li>Susie Wolff as Self</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Disney Plus</li></ul>\n<h2>Where to watch</h2>\n<ul><li>Streaming on Disney Plus (US)</li></ul>\n</article>",
+  "t": "The Pursuit: F1 ACADEMY (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+  "year": "2026"
+ },
  "movie:1805276": {
   "d": "No Trees, No Seas (2026): Documentary film. Story: A people-led climate documentary rooted in Cornwall… See cast and budget $100.0k.",
   "img": "https://image.tmdb.org/t/p/w780/7TWzuiA9q5pZlR2bnlKg20RLxkb.jpg",
@@ -53925,7 +54335,7 @@
   },
   "modified": "",
   "published": "2026-11-14",
-  "ssr": "<article class=\"ssr-facts\">\n<h1>The Spirit of Zorro (2026)</h1>\n<p class=\"ssr-lead\">Cutting back and forth between a dinner and fight to save a prisoner, Don Diego De La Vega battles two worlds, as an aristocrat and the vigilante known as “El Zorro.”</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 21 November 2026</li><li>Runtime: 11 minutes</li><li>Director: David Zuckerman</li><li>Status: In Production</li></ul>\n<h2>Top cast</h2>\n<ul><li>David Zuckerman as Don Diego De La Vega/Zorro</li><li>Nathan Bexton as Don Raphael Hernandez</li><li>Liberty Cordova as Doña Maria Hernandez</li><li>Ellie Santiago as Ta&#x27;amit</li><li>Rob Wight as Peter Erickson</li><li>Mike Whittier as John Talbot</li><li>Benjamin Goodwin as Aaron Jackson</li><li>Derek Thomas May as Juan Balbuena</li><li>James Martinez as Bernardo</li></ul>\n</article>",
+  "ssr": "<article class=\"ssr-facts\">\n<h1>The Spirit of Zorro (2026)</h1>\n<p class=\"ssr-lead\">Cutting back and forth between a dinner and fight to save a prisoner, Don Diego De La Vega battles two worlds, as an aristocrat and the vigilante known as “El Zorro.”</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 21 November 2026</li><li>Runtime: 11 minutes</li><li>Director: David Zuckerman</li></ul>\n<h2>Top cast</h2>\n<ul><li>David Zuckerman as Don Diego De La Vega/Zorro</li><li>Nathan Bexton as Don Raphael Hernandez</li><li>Liberty Cordova as Doña Maria Hernandez</li><li>Ellie Santiago as Ta&#x27;amit</li><li>Rob Wight as Peter Erickson</li><li>Mike Whittier as John Talbot</li><li>Benjamin Goodwin as Aaron Jackson</li><li>Derek Thomas May as Juan Balbuena</li><li>James Martinez as Bernardo</li></ul>\n</article>",
   "t": "The Spirit of Zorro (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
   "year": "2026"
  },
@@ -54867,7 +55277,7 @@
   },
   "modified": "",
   "published": "2026-11-14",
-  "ssr": "<article class=\"ssr-facts\">\n<h1>The Whistling (2026)</h1>\n<p class=\"ssr-lead\">When an unlikely crew of Native filmmakers gather to make a film, they become trapped inside the set and, one by one, begin to disappear.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 21 November 2026</li><li>Runtime: 20 minutes</li><li>Director: Tamara Stratton</li><li>Status: In Production</li></ul>\n<h2>Top cast</h2>\n<ul><li>Frank Henry Kaash Katasse</li><li>Tamara Stratton</li><li>Rosie Katasse</li><li>Rhiana Yazzie</li><li>Marcie Price Jackson</li><li>Tony Magana</li></ul>\n</article>",
+  "ssr": "<article class=\"ssr-facts\">\n<h1>The Whistling (2026)</h1>\n<p class=\"ssr-lead\">When an unlikely crew of Native filmmakers gather to make a film, they become trapped inside the set and, one by one, begin to disappear.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 21 November 2026</li><li>Runtime: 20 minutes</li><li>Director: Tamara Stratton</li></ul>\n<h2>Top cast</h2>\n<ul><li>Frank Henry Kaash Katasse</li><li>Tamara Stratton</li><li>Rosie Katasse</li><li>Rhiana Yazzie</li><li>Marcie Price Jackson</li><li>Tony Magana</li></ul>\n</article>",
   "t": "The Whistling (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
   "year": "2026"
  },
@@ -54989,7 +55399,7 @@
   },
   "modified": "",
   "published": "2026-11-14",
-  "ssr": "<article class=\"ssr-facts\">\n<h1>Horše Hiyis (2026)</h1>\n<p class=\"ssr-lead\">Horše Hiyis is a short film about intergenerational relationships to fire and to each other that are nurtured on rematriated land.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 21 November 2026</li><li>Director: Ashley Salaz</li><li>Genres: Documentary</li><li>Status: In Production</li></ul>\n</article>",
+  "ssr": "<article class=\"ssr-facts\">\n<h1>Horše Hiyis (2026)</h1>\n<p class=\"ssr-lead\">Horše Hiyis is a short film about intergenerational relationships to fire and to each other that are nurtured on rematriated land.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 21 November 2026</li><li>Director: Ashley Salaz</li><li>Genres: Documentary</li></ul>\n</article>",
   "t": "Horše Hiyis (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
   "year": "2026"
  },
@@ -55979,7 +56389,7 @@
   },
   "modified": "",
   "published": "2026-11-14",
-  "ssr": "<article class=\"ssr-facts\">\n<h1>EKEKEKEK (2026)</h1>\n<p class=\"ssr-lead\">A man who is forced to kill his cat after it suddenly transforms into a creature tries to give it a proper farewell by burying the body with his friend.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 21 November 2026</li><li>Runtime: 9 minutes</li><li>Director: Berke Şen</li><li>Genres: Drama, Comedy</li><li>Budget: $500</li><li>Status: In Production</li></ul>\n<h2>Top cast</h2>\n<ul><li>Malik Sardogan as Protagonist</li><li>Samet Bal as Man in a Blue Suit</li><li>Berke Şen as Worker 1</li><li>Osman Şen as Worker 2</li></ul>\n</article>",
+  "ssr": "<article class=\"ssr-facts\">\n<h1>EKEKEKEK (2026)</h1>\n<p class=\"ssr-lead\">A man who is forced to kill his cat after it suddenly transforms into a creature tries to give it a proper farewell by burying the body with his friend.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 21 November 2026</li><li>Runtime: 9 minutes</li><li>Director: Berke Şen</li><li>Genres: Drama, Comedy</li><li>Budget: $500</li></ul>\n<h2>Top cast</h2>\n<ul><li>Malik Sardogan as Protagonist</li><li>Samet Bal as Man in a Blue Suit</li><li>Berke Şen as Worker 1</li><li>Osman Şen as Worker 2</li></ul>\n</article>",
   "t": "EKEKEKEK (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
   "year": "2026"
  },
@@ -56601,6 +57011,62 @@
   "published": "2026-11-04",
   "ssr": "<article class=\"ssr-facts\">\n<h1>Zaljubljeno srce moje (2026)</h1>\n<p class=\"ssr-lead\">My enslaved heart</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 11 November 2026</li><li>Runtime: 26 minutes</li><li>Director: Dzan Harba</li><li>Genres: Drama</li></ul>\n<h2>Top cast</h2>\n<ul><li>Izudin Bajrović as Avdo</li><li>Jasna Žalica as Zlatan</li><li>Muhamed Hadžović as Slobodan</li><li>Mirza Tanović as Salko</li></ul>\n</article>",
   "t": "Zaljubljeno srce moje (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+  "year": "2026"
+ },
+ "movie:1814779": {
+  "d": "Love on the Vineyard (2026): TV Movie/Drama film. Story: Jordan Wilson, a D.C. real estate executive who… See cast and release date 21 November 2026.",
+  "img": "https://image.tmdb.org/t/p/w500/sfyZUXD15yA59qKGZ9w998FNlrq.jpg",
+  "industry": "world",
+  "k": "Love on the Vineyard, Love on the Vineyard movie, Love on the Vineyard cast, Love on the Vineyard story, Love on the Vineyard box office collection, Love on the Vineyard budget, Love on the Vineyard review, Love on the Vineyard rating, Love on the Vineyard release date, Love on the Vineyard TV Movie, Love on the Vineyard Drama, international movies, FlickAtlas",
+  "ld": {
+   "@context": "https://schema.org",
+   "@type": "Movie",
+   "actor": [
+    {
+     "@type": "Person",
+     "name": "Paula Patton"
+    },
+    {
+     "@type": "Person",
+     "name": "Derek Luke"
+    },
+    {
+     "@type": "Person",
+     "name": "Janet Hubert"
+    },
+    {
+     "@type": "Person",
+     "name": "Zeiana Andrade"
+    },
+    {
+     "@type": "Person",
+     "name": "Kris Sidberry"
+    }
+   ],
+   "description": "Love on the Vineyard (2026): TV Movie/Drama film. Story: Jordan Wilson, a D.C. real estate executive who… See cast and release date 21 November 2026.",
+   "director": [
+    {
+     "@type": "Person",
+     "name": "Tailiah Breon"
+    }
+   ],
+   "genre": [
+    "TV Movie",
+    "Drama"
+   ],
+   "image": "https://image.tmdb.org/t/p/w500/sfyZUXD15yA59qKGZ9w998FNlrq.jpg",
+   "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1814779",
+   "name": "Love on the Vineyard",
+   "releasedEvent": {
+    "@type": "PublicationEvent",
+    "startDate": "2026-11-21"
+   },
+   "url": "https://flickatlas.co.uk/movie?id=1814779"
+  },
+  "modified": "",
+  "published": "2026-11-21",
+  "ssr": "<article class=\"ssr-facts\">\n<h1>Love on the Vineyard (2026)</h1>\n<p class=\"ssr-lead\">Jordan Wilson, a D.C. real estate executive who returns to Martha’s Vineyard and reconnects with her former summer love while fighting to save a historic Oak Bluffs inn.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 21 November 2026</li><li>Director: Tailiah Breon</li><li>Genres: TV Movie, Drama, Romance</li></ul>\n<h2>Top cast</h2>\n<ul><li>Paula Patton as Jordan Wilson</li><li>Derek Luke as Eric Robinson</li><li>Janet Hubert as Shirely Evans</li><li>Zeiana Andrade as Gabby Wilson</li><li>Kris Sidberry as Vanessa Robinson</li><li>Noah J. Carter as Micah</li><li>Claudia Jordan as Angie Sykes</li><li>J.C. Montgomery as Bob Evans</li><li>Sharon Shakur as Miss Ruthie</li><li>Ryan McCarthy as Dexter Shaw</li></ul>\n</article>",
+  "t": "Love on the Vineyard (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
   "year": "2026"
  },
  "movie:1814810": {
@@ -57982,7 +58448,7 @@
   },
   "modified": "",
   "published": "2026-11-14",
-  "ssr": "<article class=\"ssr-facts\">\n<h1>Virtus - The Four P&#x27;s (2026)</h1>\n<p class=\"ssr-lead\">Join Ed Jackson’s climb of the Matterhorn as he explores the values that have shaped his life after spinal cord injury: Purpose, Perspective, Progress and Perseverance.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 21 November 2026</li><li>Runtime: 12 minutes</li><li>Director: Toby Roney</li><li>Genres: Documentary</li><li>Status: In Production</li></ul>\n<h2>Top cast</h2>\n<ul><li>Ed Jackson as Self</li></ul>\n</article>",
+  "ssr": "<article class=\"ssr-facts\">\n<h1>Virtus - The Four P&#x27;s (2026)</h1>\n<p class=\"ssr-lead\">Join Ed Jackson’s climb of the Matterhorn as he explores the values that have shaped his life after spinal cord injury: Purpose, Perspective, Progress and Perseverance.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 21 November 2026</li><li>Runtime: 12 minutes</li><li>Director: Toby Roney</li><li>Genres: Documentary</li></ul>\n<h2>Top cast</h2>\n<ul><li>Ed Jackson as Self</li></ul>\n</article>",
   "t": "Virtus - The Four P's (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
   "year": "2026"
  },
@@ -58173,7 +58639,7 @@
   },
   "modified": "",
   "published": "2026-11-14",
-  "ssr": "<article class=\"ssr-facts\">\n<h1>Night Fishers (2026)</h1>\n<p class=\"ssr-lead\">Two ambitious content creators trespass on private property in the hopes of making their next viral hit.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 21 November 2026</li><li>Director: Justus Tanner</li><li>Status: In Production</li></ul>\n<h2>Top cast</h2>\n<ul><li>Kadon Niehanke as Gauge &quot;Gingy&quot; Stewart</li><li>Cole Jersek as Scott &quot;Scotty&quot; Kennedy</li></ul>\n</article>",
+  "ssr": "<article class=\"ssr-facts\">\n<h1>Night Fishers (2026)</h1>\n<p class=\"ssr-lead\">Two ambitious content creators trespass on private property in the hopes of making their next viral hit.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 21 November 2026</li><li>Director: Justus Tanner</li></ul>\n<h2>Top cast</h2>\n<ul><li>Kadon Niehanke as Gauge &quot;Gingy&quot; Stewart</li><li>Cole Jersek as Scott &quot;Scotty&quot; Kennedy</li></ul>\n</article>",
   "t": "Night Fishers (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
   "year": "2026"
  },
@@ -58266,7 +58732,7 @@
   },
   "modified": "",
   "published": "2026-11-14",
-  "ssr": "<article class=\"ssr-facts\">\n<h1>The Stay (2026)</h1>\n<p class=\"ssr-lead\">During a stay at a secluded lake house to kickstart his sobriety, a young man is confronted by mysterious phone calls, accidental murder and, worst of all, himself.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 21 November 2026</li><li>Director: Chase Clickner</li><li>Status: In Production</li></ul>\n<h2>Top cast</h2>\n<ul><li>Chase Clickner as Liam</li></ul>\n</article>",
+  "ssr": "<article class=\"ssr-facts\">\n<h1>The Stay (2026)</h1>\n<p class=\"ssr-lead\">During a stay at a secluded lake house to kickstart his sobriety, a young man is confronted by mysterious phone calls, accidental murder and, worst of all, himself.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 21 November 2026</li><li>Director: Chase Clickner</li></ul>\n<h2>Top cast</h2>\n<ul><li>Chase Clickner as Liam</li></ul>\n</article>",
   "t": "The Stay (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
   "year": "2026"
  },
@@ -58314,7 +58780,7 @@
   },
   "modified": "",
   "published": "2026-11-14",
-  "ssr": "<article class=\"ssr-facts\">\n<h1>Bard Bar (2026)</h1>\n<p class=\"ssr-lead\">At Bart’s Bard Bar, a battle of the bands gets brutally personal when a lineup of wounded musicians turn performances into public humiliations. The truth behind their former tormentors now becomes the afternoon&#x27;s entertainment.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 21 November 2026</li><li>Director: Ethan J. Faulkner</li><li>Status: In Production</li></ul>\n<h2>Top cast</h2>\n<ul><li>Patrick Hennessey as Mystic Money</li><li>Justus Tanner as Keith Strummings</li><li>Chase Clickner as David Howler</li><li>Gabriela Balleza as Missy Tristesse</li></ul>\n</article>",
+  "ssr": "<article class=\"ssr-facts\">\n<h1>Bard Bar (2026)</h1>\n<p class=\"ssr-lead\">At Bart’s Bard Bar, a battle of the bands gets brutally personal when a lineup of wounded musicians turn performances into public humiliations. The truth behind their former tormentors now becomes the afternoon&#x27;s entertainment.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 21 November 2026</li><li>Director: Ethan J. Faulkner</li></ul>\n<h2>Top cast</h2>\n<ul><li>Patrick Hennessey as Mystic Money</li><li>Justus Tanner as Keith Strummings</li><li>Chase Clickner as David Howler</li><li>Gabriela Balleza as Missy Tristesse</li></ul>\n</article>",
   "t": "Bard Bar (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
   "year": "2026"
  },
@@ -58354,7 +58820,7 @@
   },
   "modified": "",
   "published": "2026-11-14",
-  "ssr": "<article class=\"ssr-facts\">\n<h1>Head Spaces (2026)</h1>\n<p class=\"ssr-lead\">Two people struggle to get out their heads, so they arrange for someone to deliver them from their perceived prison.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 21 November 2026</li><li>Director: Cole Jersek</li><li>Status: In Production</li></ul>\n<h2>Top cast</h2>\n<ul><li>Gabriela Balleza as May</li><li>Justus Tanner as Leo</li></ul>\n</article>",
+  "ssr": "<article class=\"ssr-facts\">\n<h1>Head Spaces (2026)</h1>\n<p class=\"ssr-lead\">Two people struggle to get out their heads, so they arrange for someone to deliver them from their perceived prison.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 21 November 2026</li><li>Director: Cole Jersek</li></ul>\n<h2>Top cast</h2>\n<ul><li>Gabriela Balleza as May</li><li>Justus Tanner as Leo</li></ul>\n</article>",
   "t": "Head Spaces (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
   "year": "2026"
  },
@@ -59210,7 +59676,7 @@
   },
   "modified": "",
   "published": "2026-11-14",
-  "ssr": "<article class=\"ssr-facts\">\n<h1>la vida de las piedras (2026)</h1>\n<p class=\"ssr-lead\">all living things have a life cycle. what is the life cycle of rocks?</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 21 November 2026</li><li>Runtime: 2 minutes</li><li>Director: Aura Esther</li><li>Genres: Documentary</li><li>Status: Post Production</li></ul>\n</article>",
+  "ssr": "<article class=\"ssr-facts\">\n<h1>la vida de las piedras (2026)</h1>\n<p class=\"ssr-lead\">all living things have a life cycle. what is the life cycle of rocks?</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 21 November 2026</li><li>Runtime: 2 minutes</li><li>Director: Aura Esther</li><li>Genres: Documentary</li></ul>\n</article>",
   "t": "la vida de las piedras (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
   "year": "2026"
  },
@@ -59681,19 +60147,19 @@
   },
   "modified": "",
   "published": "2026-11-14",
-  "ssr": "<article class=\"ssr-facts\">\n<h1>I&#x27;ve Never Met Myself (2026)</h1>\n<p class=\"ssr-lead\">Back home after a night on stage, Kim strips away the remnants of her drag persona. As each layer of performance disappears, painful memories resurface, forcing her to confront what she has been trying to leave behind.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 21 November 2026</li><li>Runtime: 9 minutes</li><li>Director: Ozan Emre Kayas</li><li>Genres: Drama</li><li>Status: In Production</li></ul>\n<h2>Top cast</h2>\n<ul><li>Kim Carboni as Kim</li><li>Alois Gonzalez as Mahmoud</li><li>Klemens Valentino Laumer as Man 1</li><li>Tim Stolberg as Man 2</li><li>Mario Högemann as Host</li><li>Belina Muhongo as Assistant</li><li>Alina Vogl as Artist</li><li>Elena Zanichellli as Mamma</li></ul>\n</article>",
+  "ssr": "<article class=\"ssr-facts\">\n<h1>I&#x27;ve Never Met Myself (2026)</h1>\n<p class=\"ssr-lead\">Back home after a night on stage, Kim strips away the remnants of her drag persona. As each layer of performance disappears, painful memories resurface, forcing her to confront what she has been trying to leave behind.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 21 November 2026</li><li>Runtime: 9 minutes</li><li>Director: Ozan Emre Kayas</li><li>Genres: Drama</li></ul>\n<h2>Top cast</h2>\n<ul><li>Kim Carboni as Kim</li><li>Alois Gonzalez as Mahmoud</li><li>Klemens Valentino Laumer as Man 1</li><li>Tim Stolberg as Man 2</li><li>Mario Högemann as Host</li><li>Belina Muhongo as Assistant</li><li>Alina Vogl as Artist</li><li>Elena Zanichellli as Mamma</li></ul>\n</article>",
   "t": "I've Never Met Myself (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
   "year": "2026"
  },
  "movie:1820083": {
-  "d": "BTS WORLD TOUR 'ARIRANG' IN KAOHSIUNG: LIVE VIEWING (2026) is a film. Story: The record-breaking journey continues as BTS’s… See cast.",
-  "img": "https://image.tmdb.org/t/p/w500/kbwAR849GqMmZs01Uwm5MXL6CWd.jpg",
+  "d": "BTS WORLD TOUR 'ARIRANG' IN KAOHSIUNG: LIVE VIEWING (2026): Music film. Story: The record-breaking journey continues as BTS’s… See cast.",
+  "img": "https://image.tmdb.org/t/p/w780/aYjogDhuege2grxfxnNu9NDOqPA.jpg",
   "industry": "world",
-  "k": "BTS WORLD TOUR 'ARIRANG' IN KAOHSIUNG: LIVE VIEWING, BTS WORLD TOUR 'ARIRANG' IN KAOHSIUNG: LIVE VIEWING movie, BTS WORLD TOUR 'ARIRANG' IN KAOHSIUNG: LIVE VIEWING cast, BTS WORLD TOUR 'ARIRANG' IN KAOHSIUNG: LIVE VIEWING story, BTS WORLD TOUR 'ARIRANG' IN KAOHSIUNG: LIVE VIEWING box office collection, BTS WORLD TOUR 'ARIRANG' IN KAOHSIUNG: LIVE VIEWING budget, BTS WORLD TOUR 'ARIRANG' IN KAOHSIUNG: LIVE VIEWING review, BTS WORLD TOUR 'ARIRANG' IN KAOHSIUNG: LIVE VIEWING rating, BTS WORLD TOUR 'ARIRANG' IN KAOHSIUNG: LIVE VIEWING release date, international movies, FlickAtlas",
+  "k": "BTS WORLD TOUR 'ARIRANG' IN KAOHSIUNG: LIVE VIEWING, BTS WORLD TOUR 'ARIRANG' IN KAOHSIUNG: LIVE VIEWING movie, BTS WORLD TOUR 'ARIRANG' IN KAOHSIUNG: LIVE VIEWING cast, BTS WORLD TOUR 'ARIRANG' IN KAOHSIUNG: LIVE VIEWING story, BTS WORLD TOUR 'ARIRANG' IN KAOHSIUNG: LIVE VIEWING box office collection, BTS WORLD TOUR 'ARIRANG' IN KAOHSIUNG: LIVE VIEWING budget, BTS WORLD TOUR 'ARIRANG' IN KAOHSIUNG: LIVE VIEWING review, BTS WORLD TOUR 'ARIRANG' IN KAOHSIUNG: LIVE VIEWING rating, BTS WORLD TOUR 'ARIRANG' IN KAOHSIUNG: LIVE VIEWING release date, BTS WORLD TOUR 'ARIRANG' IN KAOHSIUNG: LIVE VIEWING Music, international movies, FlickAtlas",
   "ld": {
    "@context": "https://schema.org",
    "@type": "Movie",
-   "description": "BTS WORLD TOUR 'ARIRANG' IN KAOHSIUNG: LIVE VIEWING (2026) is a film. Story: The record-breaking journey continues as BTS’s… See cast.",
+   "description": "BTS WORLD TOUR 'ARIRANG' IN KAOHSIUNG: LIVE VIEWING (2026): Music film. Story: The record-breaking journey continues as BTS’s… See cast.",
    "director": [
     {
      "@type": "Person",
@@ -59701,7 +60167,10 @@
     }
    ],
    "duration": "PT195M",
-   "image": "https://image.tmdb.org/t/p/w500/kbwAR849GqMmZs01Uwm5MXL6CWd.jpg",
+   "genre": [
+    "Music"
+   ],
+   "image": "https://image.tmdb.org/t/p/w780/aYjogDhuege2grxfxnNu9NDOqPA.jpg",
    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1820083",
    "name": "BTS WORLD TOUR 'ARIRANG' IN KAOHSIUNG: LIVE VIEWING",
    "releasedEvent": {
@@ -59712,7 +60181,7 @@
   },
   "modified": "",
   "published": "2026-11-14",
-  "ssr": "<article class=\"ssr-facts\">\n<h1>BTS WORLD TOUR &#x27;ARIRANG&#x27; IN KAOHSIUNG: LIVE VIEWING (2026)</h1>\n<p class=\"ssr-lead\">The record-breaking journey continues as BTS’s history-making tour across Asia makes its way to the big screen. Join the roar of the crowds in Kaohsiung in November and experience the breathtaking performances and electrifying energy of BTS’s stadium tour. Don&#x27;t miss your chance to witness BTS WORLD TOUR &#x27;ARIRANG&#x27; in all its glory in cinemas worldwide.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 21 November 2026</li><li>Runtime: 195 minutes</li><li>Director: Ha Jung-jae</li><li>Status: In Production</li></ul>\n</article>",
+  "ssr": "<article class=\"ssr-facts\">\n<h1>BTS WORLD TOUR &#x27;ARIRANG&#x27; IN KAOHSIUNG: LIVE VIEWING (2026)</h1>\n<p class=\"ssr-lead\">The record-breaking journey continues as BTS’s history-making tour across Asia makes its way to the big screen. Join the roar of the crowds in Kaohsiung in November and experience the breathtaking performances and electrifying energy of BTS’s stadium tour. Don&#x27;t miss your chance to witness BTS WORLD TOUR &#x27;ARIRANG&#x27; in all its glory in cinemas worldwide.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 21 November 2026</li><li>Runtime: 195 minutes</li><li>Director: Ha Jung-jae</li><li>Genres: Music</li></ul>\n</article>",
   "t": "BTS WORLD TOUR 'ARIRANG' IN KAOHSIUNG: LIVE VIEWING (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
   "year": "2026"
  },
@@ -60856,7 +61325,7 @@
   },
   "modified": "",
   "published": "2026-11-14",
-  "ssr": "<article class=\"ssr-facts\">\n<h1>Disharmony (2026)</h1>\n<p class=\"ssr-lead\">During one night in an alternative bar, young Alex starts his trial shift. He is a punk who always felt different, but now he wants to prove himself. However, making mistakes puts him under huge pressure and Alex must face his fear of not being accepted. Disharmony is a story about finding kindness and understanding in a loud world.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 21 November 2026</li><li>Runtime: 22 minutes</li><li>Director: Šimon Dobeš</li><li>Genres: Drama</li><li>Status: In Production</li></ul>\n<h2>Top cast</h2>\n<ul><li>Finley Galovič as Alex</li><li>Roman Pomajbo as Tuccino</li><li>Matej Lipták as Oliver</li><li>Tomáš Andreutti as Karol</li></ul>\n</article>",
+  "ssr": "<article class=\"ssr-facts\">\n<h1>Disharmony (2026)</h1>\n<p class=\"ssr-lead\">During one night in an alternative bar, young Alex starts his trial shift. He is a punk who always felt different, but now he wants to prove himself. However, making mistakes puts him under huge pressure and Alex must face his fear of not being accepted. Disharmony is a story about finding kindness and understanding in a loud world.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 21 November 2026</li><li>Runtime: 22 minutes</li><li>Director: Šimon Dobeš</li><li>Genres: Drama</li></ul>\n<h2>Top cast</h2>\n<ul><li>Finley Galovič as Alex</li><li>Roman Pomajbo as Tuccino</li><li>Matej Lipták as Oliver</li><li>Tomáš Andreutti as Karol</li></ul>\n</article>",
   "t": "Disharmony (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
   "year": "2026"
  },
@@ -61104,7 +61573,7 @@
   },
   "modified": "",
   "published": "2026-11-14",
-  "ssr": "<article class=\"ssr-facts\">\n<h1>Chulita (2026)</h1>\n<p class=\"ssr-lead\">In 1994, Lucía tries to protect her cousin from the grief of knowing they are about to lose someone.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 21 November 2026</li><li>Runtime: 10 minutes</li><li>Director: Nelson Sosa</li><li>Budget: $808</li><li>Status: In Production</li></ul>\n<h2>Top cast</h2>\n<ul><li>Mon Veyra as Celia (Mamá de Oscar)</li><li>Gerardo Olán as Rodrigo (Papá de Oscar)</li><li>Paulina Castro as Sonia (Mamá de Oscar)</li><li>Santiago Marín as Oscar</li><li>Valeria Sosa as Lucía</li><li>Sara Morales as Chulita</li></ul>\n</article>",
+  "ssr": "<article class=\"ssr-facts\">\n<h1>Chulita (2026)</h1>\n<p class=\"ssr-lead\">In 1994, Lucía tries to protect her cousin from the grief of knowing they are about to lose someone.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 21 November 2026</li><li>Runtime: 10 minutes</li><li>Director: Nelson Sosa</li><li>Budget: $808</li></ul>\n<h2>Top cast</h2>\n<ul><li>Mon Veyra as Celia (Mamá de Oscar)</li><li>Gerardo Olán as Rodrigo (Papá de Oscar)</li><li>Paulina Castro as Sonia (Mamá de Oscar)</li><li>Santiago Marín as Oscar</li><li>Valeria Sosa as Lucía</li><li>Sara Morales as Chulita</li></ul>\n</article>",
   "t": "Chulita (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
   "year": "2026"
  },
@@ -61365,7 +61834,7 @@
   },
   "modified": "",
   "published": "2026-11-14",
-  "ssr": "<article class=\"ssr-facts\">\n<h1>Soap (2026)</h1>\n<p class=\"ssr-lead\">Caught in the grim atmosphere of industrial decline, a reluctant official visits the remaining factories that are about to close. To clear his conscience, he begins a search for his missing relative, with the help of a 17-year-old girl obsessed with soap.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 21 November 2026</li><li>Runtime: 111 minutes</li><li>Director: Momir Milošević</li><li>Genres: Horror, Mystery, Thriller, Drama</li><li>Status: In Production</li></ul>\n<h2>Top cast</h2>\n<ul><li>Nikola Šurbanović</li><li>Miona Ilov</li><li>Aleksej Bjelogrlić</li><li>Marija Ðelić</li><li>Milica Krstić</li></ul>\n</article>",
+  "ssr": "<article class=\"ssr-facts\">\n<h1>Soap (2026)</h1>\n<p class=\"ssr-lead\">Caught in the grim atmosphere of industrial decline, a reluctant official visits the remaining factories that are about to close. To clear his conscience, he begins a search for his missing relative, with the help of a 17-year-old girl obsessed with soap.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 21 November 2026</li><li>Runtime: 111 minutes</li><li>Director: Momir Milošević</li><li>Genres: Horror, Mystery, Thriller, Drama</li></ul>\n<h2>Top cast</h2>\n<ul><li>Nikola Šurbanović</li><li>Miona Ilov</li><li>Aleksej Bjelogrlić</li><li>Marija Ðelić</li><li>Milica Krstić</li></ul>\n</article>",
   "t": "Soap (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
   "year": "2026"
  },
@@ -61664,7 +62133,7 @@
   },
   "modified": "",
   "published": "2026-11-14",
-  "ssr": "<article class=\"ssr-facts\">\n<h1>All Things Come To Night (2026)</h1>\n<p class=\"ssr-lead\">A couple retreats to an isolated property in the woods for a spontaneous weekend away. But when unexpected visitors disturb their solitude, the night descends into a deadly mystery where danger may be closer than they realize.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 21 November 2026</li><li>Runtime: 80 minutes</li><li>Director: Lilton Stewart III</li><li>Genres: Mystery, Thriller</li><li>Budget: $70.0k</li><li>Status: Post Production</li></ul>\n<h2>Top cast</h2>\n<ul><li>Yasha Rayzberg as Benjamin Young</li><li>Courtney Lee Roberts as Carla Young</li><li>Abby Langh as Bethany Mellows</li><li>Nicolas Puorro as Noah Baker</li><li>Joanne Nguyen as Angela Walker</li><li>Nicholas Adams as Gilbert Grady</li><li>Marina Pereira as Fernanda Grady</li><li>Heidi Appe as News Anchor #1</li><li>Joshua Shikoff as News Anchor #2</li></ul>\n</article>",
+  "ssr": "<article class=\"ssr-facts\">\n<h1>All Things Come To Night (2026)</h1>\n<p class=\"ssr-lead\">A couple retreats to an isolated property in the woods for a spontaneous weekend away. But when unexpected visitors disturb their solitude, the night descends into a deadly mystery where danger may be closer than they realize.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 21 November 2026</li><li>Runtime: 80 minutes</li><li>Director: Lilton Stewart III</li><li>Genres: Mystery, Thriller</li><li>Budget: $70.0k</li></ul>\n<h2>Top cast</h2>\n<ul><li>Yasha Rayzberg as Benjamin Young</li><li>Courtney Lee Roberts as Carla Young</li><li>Abby Langh as Bethany Mellows</li><li>Nicolas Puorro as Noah Baker</li><li>Joanne Nguyen as Angela Walker</li><li>Nicholas Adams as Gilbert Grady</li><li>Marina Pereira as Fernanda Grady</li><li>Heidi Appe as News Anchor #1</li><li>Joshua Shikoff as News Anchor #2</li></ul>\n</article>",
   "t": "All Things Come To Night (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
   "year": "2026"
  },
@@ -61820,6 +62289,40 @@
   "published": "2026-11-12",
   "ssr": "<article class=\"ssr-facts\">\n<h1>This is Why (2026)</h1>\n<p class=\"ssr-lead\">During a depressive period one night, a guy discovers a ghost in his room.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 19 November 2026</li><li>Runtime: 9 minutes</li><li>Director: Mike Kamkin</li><li>Genres: Fantasy, Drama</li><li>TMDB rating: 8.0/10 (1 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Mike Kamkin as Guy / Ghost</li></ul>\n</article>",
   "t": "This is Why (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+  "year": "2026"
+ },
+ "movie:1823376": {
+  "d": "La Voz en La Estática (2026): Animation/Horror film. See cast, budget $9, and release date 28 November 2026.",
+  "img": "https://image.tmdb.org/t/p/w500/m9Hx8W4iHVyvrsZyAzP6CjIczpG.jpg",
+  "industry": "world",
+  "k": "La Voz en La Estática, La Voz en La Estática movie, La Voz en La Estática cast, La Voz en La Estática story, La Voz en La Estática box office collection, La Voz en La Estática budget, La Voz en La Estática review, La Voz en La Estática rating, La Voz en La Estática release date, La Voz en La Estática Animation, La Voz en La Estática Horror, international movies, FlickAtlas",
+  "ld": {
+   "@context": "https://schema.org",
+   "@type": "Movie",
+   "description": "La Voz en La Estática (2026): Animation/Horror film. See cast, budget $9, and release date 28 November 2026.",
+   "director": [
+    {
+     "@type": "Person",
+     "name": "Rodolfo Durán"
+    }
+   ],
+   "genre": [
+    "Animation",
+    "Horror"
+   ],
+   "image": "https://image.tmdb.org/t/p/w500/m9Hx8W4iHVyvrsZyAzP6CjIczpG.jpg",
+   "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1823376",
+   "name": "La Voz en La Estática",
+   "releasedEvent": {
+    "@type": "PublicationEvent",
+    "startDate": "2026-11-28"
+   },
+   "url": "https://flickatlas.co.uk/movie?id=1823376"
+  },
+  "modified": "",
+  "published": "2026-11-21",
+  "ssr": "<article class=\"ssr-facts\">\n<h1>La Voz en La Estática (2026)</h1>\n<h2>Key facts</h2>\n<ul><li>Release date: 28 November 2026</li><li>Director: Rodolfo Durán</li><li>Genres: Animation, Horror, Mystery</li><li>Budget: $9</li><li>Status: In Production</li></ul>\n</article>",
+  "t": "La Voz en La Estática (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
   "year": "2026"
  },
  "movie:1823438": {
@@ -62232,7 +62735,7 @@
   },
   "modified": "",
   "published": "2026-11-14",
-  "ssr": "<article class=\"ssr-facts\">\n<h1>Alain Delon da Bahia (2026)</h1>\n<h2>Key facts</h2>\n<ul><li>Release date: 21 November 2026</li><li>Director: Carmela Del Rei</li><li>Genres: Documentary</li><li>Budget: $300</li><li>Status: In Production</li></ul>\n<h2>Top cast</h2>\n<ul><li>Tânia Carvalho as Tânia Carvalho</li><li>Fabiano Del Rey as Fabiano Del Rey</li><li>Rodrigo B. Homem del Rei as Rodrigo B. Homem del Rei</li></ul>\n</article>",
+  "ssr": "<article class=\"ssr-facts\">\n<h1>Alain Delon da Bahia (2026)</h1>\n<h2>Key facts</h2>\n<ul><li>Release date: 21 November 2026</li><li>Director: Carmela Del Rei</li><li>Genres: Documentary</li><li>Budget: $300</li></ul>\n<h2>Top cast</h2>\n<ul><li>Tânia Carvalho as Tânia Carvalho</li><li>Fabiano Del Rey as Fabiano Del Rey</li><li>Rodrigo B. Homem del Rei as Rodrigo B. Homem del Rei</li></ul>\n</article>",
   "t": "Alain Delon da Bahia (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
   "year": "2026"
  },
@@ -62465,7 +62968,7 @@
   },
   "modified": "",
   "published": "2026-11-14",
-  "ssr": "<article class=\"ssr-facts\">\n<h1>Nataša (2026)</h1>\n<p class=\"ssr-lead\">In the early morning, far away from home, a filmmaker talks about his mother, Nataša, from a window overlooking the city. As we watch the buildings and the neighborhood slowly waking up, a portrait of a woman emerges beyond what we see, and the story eventually leads him to something he has never said out loud before.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 21 November 2026</li><li>Runtime: 9 minutes</li><li>Director: Marko Grba Singh</li><li>Status: In Production</li></ul>\n<h2>Top cast</h2>\n<ul><li>Marko Grba Singh as Filmmaker</li></ul>\n</article>",
+  "ssr": "<article class=\"ssr-facts\">\n<h1>Nataša (2026)</h1>\n<p class=\"ssr-lead\">In the early morning, far away from home, a filmmaker talks about his mother, Nataša, from a window overlooking the city. As we watch the buildings and the neighborhood slowly waking up, a portrait of a woman emerges beyond what we see, and the story eventually leads him to something he has never said out loud before.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 21 November 2026</li><li>Runtime: 9 minutes</li><li>Director: Marko Grba Singh</li></ul>\n<h2>Top cast</h2>\n<ul><li>Marko Grba Singh as Filmmaker</li></ul>\n</article>",
   "t": "Nataša (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
   "year": "2026"
  },
@@ -63037,6 +63540,41 @@
   "t": "Expedition: Saving Our Seas (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
   "year": "2026"
  },
+ "movie:1826465": {
+  "d": "Jayannth & The Jingo Pen (2026): Fantasy/Family film. Story: JAYANNTH and THE JINGO PEN is a heartwarming Telugu… See cast and release date 14 November 2026.",
+  "img": "https://image.tmdb.org/t/p/w500/937JWlf23XogbNXr8bfUS2dzJZ.jpg",
+  "industry": "bollywood",
+  "k": "Jayannth & The Jingo Pen, Jayannth & The Jingo Pen movie, Jayannth & The Jingo Pen cast, Jayannth & The Jingo Pen story, Jayannth & The Jingo Pen box office collection, Jayannth & The Jingo Pen budget, Jayannth & The Jingo Pen review, Jayannth & The Jingo Pen rating, Jayannth & The Jingo Pen release date, Jayannth & The Jingo Pen Fantasy, Jayannth & The Jingo Pen Family, Indian movies, FlickAtlas",
+  "ld": {
+   "@context": "https://schema.org",
+   "@type": "Movie",
+   "actor": [
+    {
+     "@type": "Person",
+     "name": "Tanikella Bharani"
+    }
+   ],
+   "description": "Jayannth & The Jingo Pen (2026): Fantasy/Family film. Story: JAYANNTH and THE JINGO PEN is a heartwarming Telugu… See cast and release date 14 November 2026.",
+   "duration": "PT131M",
+   "genre": [
+    "Fantasy",
+    "Family"
+   ],
+   "image": "https://image.tmdb.org/t/p/w500/937JWlf23XogbNXr8bfUS2dzJZ.jpg",
+   "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1826465",
+   "name": "Jayannth & The Jingo Pen",
+   "releasedEvent": {
+    "@type": "PublicationEvent",
+    "startDate": "2026-11-14"
+   },
+   "url": "https://flickatlas.co.uk/movie?id=1826465"
+  },
+  "modified": "",
+  "published": "2026-11-21",
+  "ssr": "<article class=\"ssr-facts\">\n<h1>Jayannth &amp; The Jingo Pen (2026)</h1>\n<p class=\"ssr-lead\">JAYANNTH and THE JINGO PEN is a heartwarming Telugu family entertainer celebrating childhood, imagination, friendship, and family values.The film follows Jayannth, a mischievous schoolboy who fears mathematics and uses clever tricks to escape homework and his strict Maths Teacher</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 14 November 2026</li><li>Runtime: 131 minutes</li><li>Genres: Fantasy, Family</li></ul>\n<h2>Top cast</h2>\n<ul><li>Tanikella Bharani as Tatha</li></ul>\n</article>",
+  "t": "Jayannth & The Jingo Pen (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+  "year": "2026"
+ },
  "movie:1826721": {
   "d": "Herdeiros da Cota (2026): Drama/Documentary film. See cast and release date 26 November 2026.",
   "img": "https://image.tmdb.org/t/p/w500/vB41hQAU8sUwcgHfnc3BzXDG0Gz.jpg",
@@ -63091,6 +63629,50 @@
   "published": "2026-11-19",
   "ssr": "<article class=\"ssr-facts\">\n<h1>Herdeiros da Cota (2026)</h1>\n<h2>Key facts</h2>\n<ul><li>Release date: 26 November 2026</li><li>Director: Vitória Ferreira da Silva</li><li>Genres: Drama, Documentary</li><li>Status: In Production</li></ul>\n<h2>Top cast</h2>\n<ul><li>Genivaldo Barbosa Souza as Genivaldo</li><li>Nelson dos Santos as Nelson</li><li>Aline Aparecida S. Souza Gonçalves as Aline</li><li>Cleide Souza Evangelista as Cleide</li><li>José Pedro Araújo Silva as Pedrinho</li><li>Dulcinéa Ribeiro dos Santos as Dulcinéa</li><li>Alisson Camillo de Souza as Alisson</li><li>Francisco Leite da Silva as Bigode</li></ul>\n</article>",
   "t": "Herdeiros da Cota (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+  "year": "2026"
+ },
+ "movie:1826747": {
+  "d": "Intersection (2026): Documentary film. Story: This documentary tells the story of how Shamshi… See cast and release date 28 November 2026.",
+  "img": "https://image.tmdb.org/t/p/w500/d751x8sduLXuTyOuNTVrMLFlcZq.jpg",
+  "industry": "world",
+  "k": "Intersection, Intersection movie, Intersection cast, Intersection story, Intersection box office collection, Intersection budget, Intersection review, Intersection rating, Intersection release date, Intersection Documentary, international movies, FlickAtlas",
+  "ld": {
+   "@context": "https://schema.org",
+   "@type": "Movie",
+   "actor": [
+    {
+     "@type": "Person",
+     "name": "Shamshi Kaldayakov"
+    },
+    {
+     "@type": "Person",
+     "name": "Zhumeken Nazhmidenov"
+    }
+   ],
+   "description": "Intersection (2026): Documentary film. Story: This documentary tells the story of how Shamshi… See cast and release date 28 November 2026.",
+   "director": [
+    {
+     "@type": "Person",
+     "name": "Qambar Qaidar"
+    }
+   ],
+   "duration": "PT8M",
+   "genre": [
+    "Documentary"
+   ],
+   "image": "https://image.tmdb.org/t/p/w500/d751x8sduLXuTyOuNTVrMLFlcZq.jpg",
+   "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1826747",
+   "name": "Intersection",
+   "releasedEvent": {
+    "@type": "PublicationEvent",
+    "startDate": "2026-11-28"
+   },
+   "url": "https://flickatlas.co.uk/movie?id=1826747"
+  },
+  "modified": "",
+  "published": "2026-11-21",
+  "ssr": "<article class=\"ssr-facts\">\n<h1>Intersection (2026)</h1>\n<p class=\"ssr-lead\">This documentary tells the story of how Shamshi Kaldayakov and Zhumeken Nazhimedenov wrote a song 50 years ago that became great.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 28 November 2026</li><li>Runtime: 8 minutes</li><li>Director: Qambar Qaidar</li><li>Genres: Documentary</li><li>Status: Post Production</li></ul>\n<h2>Top cast</h2>\n<ul><li>Shamshi Kaldayakov as Character of documentary</li><li>Zhumeken Nazhmidenov as Character of documentary</li></ul>\n</article>",
+  "t": "Intersection (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
   "year": "2026"
  },
  "movie:1826815": {
@@ -63325,6 +63907,93 @@
   "published": "2026-11-17",
   "ssr": "<article class=\"ssr-facts\">\n<h1>The Manhattan Projector (2026)</h1>\n<p class=\"ssr-lead\">A young movietalker attempts to prevent the end of the world via a collective collect call. A prequel to WAX OR THE DISCOVERY OF TELEVISION AMONG THE BEES, the first movie on the internet.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 24 November 2026</li><li>Runtime: 94 minutes</li><li>Genres: Science Fiction, Documentary</li><li>Status: In Production</li></ul>\n<h2>Top cast</h2>\n<ul><li>David Blair as The Movietalker</li></ul>\n</article>",
   "t": "The Manhattan Projector (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+  "year": "2026"
+ },
+ "movie:1827049": {
+  "d": "Giles Foreman (Ambassador for the Truth of What's Occurin') (2026): Comedy/Drama film. Story: Giles Foreman, an aspiring journalist, sets out to… See cast.",
+  "img": "https://image.tmdb.org/t/p/w500/xiLgtVyIogdyL1Ri8jDUu3r2Y8h.jpg",
+  "industry": "world",
+  "k": "Giles Foreman (Ambassador for the Truth of What's Occurin'), Giles Foreman (Ambassador for the Truth of What's Occurin') movie, Giles Foreman (Ambassador for the Truth of What's Occurin') cast, Giles Foreman (Ambassador for the Truth of What's Occurin') story, Giles Foreman (Ambassador for the Truth of What's Occurin') box office collection, Giles Foreman (Ambassador for the Truth of What's Occurin') budget, Giles Foreman (Ambassador for the Truth of What's Occurin') review, Giles Foreman (Ambassador for the Truth of What's Occurin') rating, Giles Foreman (Ambassador for the Truth of What's Occurin') release date, Giles Foreman (Ambassador for the Truth of What's Occurin') Comedy, Giles Foreman (Ambassador for the Truth of What's Occurin') Drama, international movies, FlickAtlas",
+  "ld": {
+   "@context": "https://schema.org",
+   "@type": "Movie",
+   "actor": [
+    {
+     "@type": "Person",
+     "name": "Jasper Morrison"
+    },
+    {
+     "@type": "Person",
+     "name": "Harry Senior"
+    }
+   ],
+   "description": "Giles Foreman (Ambassador for the Truth of What's Occurin') (2026): Comedy/Drama film. Story: Giles Foreman, an aspiring journalist, sets out to… See cast.",
+   "duration": "PT4M",
+   "genre": [
+    "Comedy",
+    "Drama"
+   ],
+   "image": "https://image.tmdb.org/t/p/w500/xiLgtVyIogdyL1Ri8jDUu3r2Y8h.jpg",
+   "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1827049",
+   "name": "Giles Foreman (Ambassador for the Truth of What's Occurin')",
+   "releasedEvent": {
+    "@type": "PublicationEvent",
+    "startDate": "2026-11-28"
+   },
+   "url": "https://flickatlas.co.uk/movie?id=1827049"
+  },
+  "modified": "",
+  "published": "2026-11-21",
+  "ssr": "<article class=\"ssr-facts\">\n<h1>Giles Foreman (Ambassador for the Truth of What&#x27;s Occurin&#x27;) (2026)</h1>\n<p class=\"ssr-lead\">Giles Foreman, an aspiring journalist, sets out to speak with the manager of Peterson and Sons, a local estate agents, to find out about his views on employing young people.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 28 November 2026</li><li>Runtime: 4 minutes</li><li>Genres: Comedy, Drama</li><li>Status: In Production</li></ul>\n<h2>Top cast</h2>\n<ul><li>Jasper Morrison as Giles Foreman</li><li>Harry Senior as Sound Guy #1</li></ul>\n</article>",
+  "t": "Giles Foreman (Ambassador for the Truth of What's Occurin') (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+  "year": "2026"
+ },
+ "movie:1827056": {
+  "d": "Maaya Oviyan (2026): Fantasy/Horror film. Story: A street artist’s life takes an unexpected turn when… See cast and release date 14 November 2026.",
+  "img": "https://image.tmdb.org/t/p/w780/d3XwTdOmPFcgzYZiCuvwdfLhpI6.jpg",
+  "industry": "bollywood",
+  "k": "Maaya Oviyan, Maaya Oviyan movie, Maaya Oviyan cast, Maaya Oviyan story, Maaya Oviyan box office collection, Maaya Oviyan budget, Maaya Oviyan review, Maaya Oviyan rating, Maaya Oviyan release date, Maaya Oviyan Fantasy, Maaya Oviyan Horror, Indian movies, FlickAtlas",
+  "ld": {
+   "@context": "https://schema.org",
+   "@type": "Movie",
+   "actor": [
+    {
+     "@type": "Person",
+     "name": "Kash Villanz"
+    },
+    {
+     "@type": "Person",
+     "name": "Nithya V.N"
+    },
+    {
+     "@type": "Person",
+     "name": "Kaajal Shivania"
+    }
+   ],
+   "description": "Maaya Oviyan (2026): Fantasy/Horror film. Story: A street artist’s life takes an unexpected turn when… See cast and release date 14 November 2026.",
+   "director": [
+    {
+     "@type": "Person",
+     "name": "Kash Villanz"
+    }
+   ],
+   "genre": [
+    "Fantasy",
+    "Horror"
+   ],
+   "image": "https://image.tmdb.org/t/p/w780/d3XwTdOmPFcgzYZiCuvwdfLhpI6.jpg",
+   "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1827056",
+   "name": "Maaya Oviyan",
+   "releasedEvent": {
+    "@type": "PublicationEvent",
+    "startDate": "2026-11-14"
+   },
+   "url": "https://flickatlas.co.uk/movie?id=1827056"
+  },
+  "modified": "",
+  "published": "2026-11-21",
+  "ssr": "<article class=\"ssr-facts\">\n<h1>Maaya Oviyan (2026)</h1>\n<p class=\"ssr-lead\">A street artist’s life takes an unexpected turn when his artwork comes to life, leading him on an emotional journey filled with mystery, love, and hidden memories.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 14 November 2026</li><li>Director: Kash Villanz</li><li>Genres: Fantasy, Horror, TV Movie, Thriller</li></ul>\n<h2>Top cast</h2>\n<ul><li>Kash Villanz</li><li>Nithya V.N</li><li>Kaajal Shivania</li></ul>\n</article>",
+  "t": "Maaya Oviyan (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
   "year": "2026"
  },
  "movie:1827159": {
@@ -63900,6 +64569,49 @@
   "t": "Starlight (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
   "year": "2026"
  },
+ "movie:1828710": {
+  "d": "The Odds (2026): Drama film. See cast and release date 28 November 2026.",
+  "img": "https://image.tmdb.org/t/p/w500/fqUBDlfhdLiWnhmtr3IltUDRzW2.jpg",
+  "industry": "world",
+  "k": "The Odds, The Odds movie, The Odds cast, The Odds story, The Odds box office collection, The Odds budget, The Odds review, The Odds rating, The Odds release date, The Odds Drama, international movies, FlickAtlas",
+  "ld": {
+   "@context": "https://schema.org",
+   "@type": "Movie",
+   "actor": [
+    {
+     "@type": "Person",
+     "name": "Asyraf Haidar Zahran"
+    },
+    {
+     "@type": "Person",
+     "name": "Duta Hartanto"
+    }
+   ],
+   "description": "The Odds (2026): Drama film. See cast and release date 28 November 2026.",
+   "director": [
+    {
+     "@type": "Person",
+     "name": "Said Najib"
+    }
+   ],
+   "genre": [
+    "Drama"
+   ],
+   "image": "https://image.tmdb.org/t/p/w500/fqUBDlfhdLiWnhmtr3IltUDRzW2.jpg",
+   "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1828710",
+   "name": "The Odds",
+   "releasedEvent": {
+    "@type": "PublicationEvent",
+    "startDate": "2026-11-28"
+   },
+   "url": "https://flickatlas.co.uk/movie?id=1828710"
+  },
+  "modified": "",
+  "published": "2026-11-21",
+  "ssr": "<article class=\"ssr-facts\">\n<h1>The Odds (2026)</h1>\n<h2>Key facts</h2>\n<ul><li>Release date: 28 November 2026</li><li>Director: Said Najib</li><li>Genres: Drama</li><li>Status: In Production</li></ul>\n<h2>Top cast</h2>\n<ul><li>Asyraf Haidar Zahran as Man 1</li><li>Duta Hartanto as Man 2</li></ul>\n</article>",
+  "t": "The Odds (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+  "year": "2026"
+ },
  "movie:1828757": {
   "d": "Alain Souchon accompagné par Ours & Pierre Souchon (2026): Music film. See cast and release date 25 November 2026.",
   "img": "https://image.tmdb.org/t/p/w780/uG1jGvBCHYNhfbIwnmQDQbnSH5L.jpg",
@@ -64048,6 +64760,108 @@
   "published": "2026-11-20",
   "ssr": "<article class=\"ssr-facts\">\n<h1>循环街区 (2026)</h1>\n<h2>Key facts</h2>\n<ul><li>Release date: 27 November 2026</li><li>Director: Lei Zheng</li><li>Genres: Romance, Science Fiction, Mystery</li><li>Status: In Production</li></ul>\n<h2>Top cast</h2>\n<ul><li>Deng Jiajia as 周杭溪</li><li>Sui Yongliang</li><li>Lan Xiya</li><li>Ye Fengchun</li><li>Zhao Xiaodong</li><li>Doris Tong</li><li>Weisen Liu</li><li>Joe Ma Tak-chung</li><li>Zhang Lixin</li><li>姜冰洁</li></ul>\n</article>",
   "t": "循环街区 (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+  "year": "2026"
+ },
+ "movie:1829062": {
+  "d": "Gestation (2026) is a film. Story: A young woman struggling to get pregnant turns to an… See cast and release date 28 November 2026.",
+  "img": "https://image.tmdb.org/t/p/w780/9TUGmEPKZcH83TwO9AQkquCe2AX.jpg",
+  "industry": "world",
+  "k": "Gestation, Gestation movie, Gestation cast, Gestation story, Gestation box office collection, Gestation budget, Gestation review, Gestation rating, Gestation release date, international movies, FlickAtlas",
+  "ld": {
+   "@context": "https://schema.org",
+   "@type": "Movie",
+   "actor": [
+    {
+     "@type": "Person",
+     "name": "Irene Muro"
+    },
+    {
+     "@type": "Person",
+     "name": "Elyre Ross"
+    },
+    {
+     "@type": "Person",
+     "name": "Nagore Iturregi"
+    },
+    {
+     "@type": "Person",
+     "name": "Iñaki Moreno"
+    }
+   ],
+   "description": "Gestation (2026) is a film. Story: A young woman struggling to get pregnant turns to an… See cast and release date 28 November 2026.",
+   "director": [
+    {
+     "@type": "Person",
+     "name": "Ernesto Aguilar"
+    }
+   ],
+   "duration": "PT78M",
+   "image": "https://image.tmdb.org/t/p/w780/9TUGmEPKZcH83TwO9AQkquCe2AX.jpg",
+   "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1829062",
+   "name": "Gestation",
+   "releasedEvent": {
+    "@type": "PublicationEvent",
+    "startDate": "2026-11-28"
+   },
+   "url": "https://flickatlas.co.uk/movie?id=1829062"
+  },
+  "modified": "",
+  "published": "2026-11-21",
+  "ssr": "<article class=\"ssr-facts\">\n<h1>Gestation (2026)</h1>\n<p class=\"ssr-lead\">A young woman struggling to get pregnant turns to an ancient witchcraft ritual. From that moment on, she is stalked by a mysterious entity. A story where everyday life turns into witchcraft.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 28 November 2026</li><li>Runtime: 78 minutes</li><li>Director: Ernesto Aguilar</li><li>Status: In Production</li></ul>\n<h2>Top cast</h2>\n<ul><li>Irene Muro as Anna</li><li>Elyre Ross as Lua</li><li>Nagore Iturregi as Xoana</li><li>Iñaki Moreno as Elber</li></ul>\n</article>",
+  "t": "Gestation (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+  "year": "2026"
+ },
+ "movie:1829240": {
+  "d": "Contra (2026) is a film. Story: A coincidence brings together the paths of a young… See cast and release date 28 November 2026.",
+  "img": "https://image.tmdb.org/t/p/w500/uDRoX2jmwcROgXQb5Yl99USyoW8.jpg",
+  "industry": "world",
+  "k": "Contra, Contra movie, Contra cast, Contra story, Contra box office collection, Contra budget, Contra review, Contra rating, Contra release date, international movies, FlickAtlas",
+  "ld": {
+   "@context": "https://schema.org",
+   "@type": "Movie",
+   "actor": [
+    {
+     "@type": "Person",
+     "name": "Magdalena Wieczorek"
+    },
+    {
+     "@type": "Person",
+     "name": "Marcin Kowalczyk"
+    },
+    {
+     "@type": "Person",
+     "name": "Roma Gąsiorowska"
+    },
+    {
+     "@type": "Person",
+     "name": "Hubert Woliński"
+    },
+    {
+     "@type": "Person",
+     "name": "Andrzej Czajka"
+    }
+   ],
+   "description": "Contra (2026) is a film. Story: A coincidence brings together the paths of a young… See cast and release date 28 November 2026.",
+   "director": [
+    {
+     "@type": "Person",
+     "name": "Michał Mieszczyk"
+    }
+   ],
+   "duration": "PT20M",
+   "image": "https://image.tmdb.org/t/p/w500/uDRoX2jmwcROgXQb5Yl99USyoW8.jpg",
+   "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1829240",
+   "name": "Contra",
+   "releasedEvent": {
+    "@type": "PublicationEvent",
+    "startDate": "2026-11-28"
+   },
+   "url": "https://flickatlas.co.uk/movie?id=1829240"
+  },
+  "modified": "",
+  "published": "2026-11-21",
+  "ssr": "<article class=\"ssr-facts\">\n<h1>Contra (2026)</h1>\n<p class=\"ssr-lead\">A coincidence brings together the paths of a young policewoman and a father fighting for contact with his son, setting in motion a chain of events that spirals into a destructive process, exposing the impossibility of understanding between people. In just one night, their lives are irreversibly altered, confronting them with violence, helplessness, and moral choices from which there is no escape.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 28 November 2026</li><li>Runtime: 20 minutes</li><li>Director: Michał Mieszczyk</li><li>Status: Post Production</li></ul>\n<h2>Top cast</h2>\n<ul><li>Magdalena Wieczorek as Anka</li><li>Marcin Kowalczyk as Groń</li><li>Roma Gąsiorowska as Magda</li><li>Hubert Woliński as Niecny</li><li>Andrzej Czajka as Funkcjonariusz BSW</li></ul>\n</article>",
+  "t": "Contra (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
   "year": "2026"
  },
  "movie:1830694": {
@@ -64291,6 +65105,78 @@
   "published": "2026-11-20",
   "ssr": "<article class=\"ssr-facts\">\n<h1>Cuando el Mundo se detiene (2026)</h1>\n<h2>Key facts</h2>\n<ul><li>Release date: 27 November 2026</li><li>Genres: Documentary</li><li>Status: Post Production</li></ul>\n</article>",
   "t": "Cuando el Mundo se detiene (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+  "year": "2026"
+ },
+ "movie:1832975": {
+  "d": "Demain La Havane (2026): Documentary film. See cast and release date 28 November 2026.",
+  "img": "https://image.tmdb.org/t/p/w780/6Yjc9qxr1MwREitaaKHZwn6Zuvo.jpg",
+  "industry": "world",
+  "k": "Demain La Havane, Demain La Havane movie, Demain La Havane cast, Demain La Havane story, Demain La Havane box office collection, Demain La Havane budget, Demain La Havane review, Demain La Havane rating, Demain La Havane release date, Demain La Havane Documentary, international movies, FlickAtlas",
+  "ld": {
+   "@context": "https://schema.org",
+   "@type": "Movie",
+   "description": "Demain La Havane (2026): Documentary film. See cast and release date 28 November 2026.",
+   "director": [
+    {
+     "@type": "Person",
+     "name": "Maïlys Khider"
+    }
+   ],
+   "genre": [
+    "Documentary"
+   ],
+   "image": "https://image.tmdb.org/t/p/w780/6Yjc9qxr1MwREitaaKHZwn6Zuvo.jpg",
+   "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1832975",
+   "name": "Demain La Havane",
+   "releasedEvent": {
+    "@type": "PublicationEvent",
+    "startDate": "2026-11-28"
+   },
+   "url": "https://flickatlas.co.uk/movie?id=1832975"
+  },
+  "modified": "",
+  "published": "2026-11-21",
+  "ssr": "<article class=\"ssr-facts\">\n<h1>Demain La Havane (2026)</h1>\n<h2>Key facts</h2>\n<ul><li>Release date: 28 November 2026</li><li>Director: Maïlys Khider</li><li>Genres: Documentary</li><li>Status: Post Production</li></ul>\n</article>",
+  "t": "Demain La Havane (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+  "year": "2026"
+ },
+ "movie:1833166": {
+  "d": "Jeanfi Janssens - Tombé du ciel (2026): Comedy film. See cast and release date 28 November 2026.",
+  "img": "https://image.tmdb.org/t/p/w780/zme00qR9FeRO6MmBn34GStjhxOZ.jpg",
+  "industry": "world",
+  "k": "Jeanfi Janssens - Tombé du ciel, Jeanfi Janssens - Tombé du ciel movie, Jeanfi Janssens - Tombé du ciel cast, Jeanfi Janssens - Tombé du ciel story, Jeanfi Janssens - Tombé du ciel box office collection, Jeanfi Janssens - Tombé du ciel budget, Jeanfi Janssens - Tombé du ciel review, Jeanfi Janssens - Tombé du ciel rating, Jeanfi Janssens - Tombé du ciel release date, Jeanfi Janssens - Tombé du ciel Comedy, international movies, FlickAtlas",
+  "ld": {
+   "@context": "https://schema.org",
+   "@type": "Movie",
+   "actor": [
+    {
+     "@type": "Person",
+     "name": "Jeanfi Janssens"
+    }
+   ],
+   "description": "Jeanfi Janssens - Tombé du ciel (2026): Comedy film. See cast and release date 28 November 2026.",
+   "director": [
+    {
+     "@type": "Person",
+     "name": "François Goetghebeur"
+    }
+   ],
+   "genre": [
+    "Comedy"
+   ],
+   "image": "https://image.tmdb.org/t/p/w780/zme00qR9FeRO6MmBn34GStjhxOZ.jpg",
+   "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1833166",
+   "name": "Jeanfi Janssens - Tombé du ciel",
+   "releasedEvent": {
+    "@type": "PublicationEvent",
+    "startDate": "2026-11-28"
+   },
+   "url": "https://flickatlas.co.uk/movie?id=1833166"
+  },
+  "modified": "",
+  "published": "2026-11-21",
+  "ssr": "<article class=\"ssr-facts\">\n<h1>Jeanfi Janssens - Tombé du ciel (2026)</h1>\n<h2>Key facts</h2>\n<ul><li>Release date: 28 November 2026</li><li>Director: François Goetghebeur</li><li>Genres: Comedy</li><li>Status: Post Production</li></ul>\n<h2>Top cast</h2>\n<ul><li>Jeanfi Janssens as Self</li></ul>\n</article>",
+  "t": "Jeanfi Janssens - Tombé du ciel (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
   "year": "2026"
  },
  "movie:447273": {
@@ -85332,6 +86218,39 @@
   "ssr": "<article class=\"ssr-facts\">\n<h1>Cha Ye Ryun&#x27;s Agency Denies Bullying Allegations and Plans Legal Action</h1>\n<p class=\"ssr-lead\">South Korean actress Cha Ye Ryun faces unverified online accusations of school violence and mistreatment, prompting her management to announce firm legal responses.</p>\n<p class=\"ssr-date\">Published 4 November 2026</p>\n<h2>The Bullying Allegations Surface Online</h2>\n<p>In late October, an anonymous online publication accused an unnamed actress born in 1985 of historical physical violence and bullying during middle school. Although the initial write-up omitted any specific names, internet users quickly began drawing conclusions based on personal details like educational background and birth year.</p>\n<p>As these speculative conversations traversed various online communities, actress Cha Ye Ryun became heavily associated with the unverified claims. Despite the widespread discussion, no objective documentation has emerged to publicly establish her connection to the original post.</p>\n<h2>Agency Issues Initial and Follow-up Denials</h2>\n<p>HB Entertainment, representing Cha Ye Ryun, stepped forward on October 30 to completely refute the circulating rumors, declaring them to be totally unfounded after internal checks. By November 2, access to the primary anonymous post experienced temporary restrictions, though this action did not serve as any official verification of truth or falsity.</p>\n<p>Despite the swift pushback from management, online commentary continued to swell. Additional remarks surfaced from accounts claiming shared educational history with the targeted celebrity, keeping the discussion active across digital spaces.</p>\n<h2>Controversy Expands to Family Members</h2>\n<p>The situation escalated beyond the initial target as critical remarks began appearing on the personal social media accounts of actor Joo Sang Wook, who is married to Cha Ye Ryun. Netizens directed frustrations toward him despite his complete lack of involvement in the original claims.</p>\n<p>This spillover prompted mounting alarm regarding how the digital controversy was negatively affecting individuals who had no direct connection to the unfolding allegations.</p>\n<h2>Additional Unverified Claims Emerge</h2>\n<p>On November 3, a secondary online claim surfaced through a different channel from an individual asserting past employment as a golf course caddie. This second account alleged poor treatment by Cha Ye Ryun during a prior encounter.</p>\n<p>Neither the employment history of this second accuser nor the circumstances of the alleged meeting have undergone independent verification or factual establishment.</p>\n<h2>HB Entertainment Announces Legal Action</h2>\n<p>Responding to the compounding rumors, HB Entertainment released a subsequent official statement on November 4. The agency expressed deep regret over public concern and voiced serious alarm regarding repeated unverified speculation and targeted family attacks.</p>\n<p>The management company confirmed plans to thoroughly gather relevant evidence for legal review, vowing to take robust measures against the malicious dissemination of false information and personal attacks.</p>\n<h2>Lack of Objective Evidence</h2>\n<p>Throughout the entire duration of the controversy, none of the specific accusations regarding school bullying or golf course mistreatment have received any form of objective verification.</p>\n<p>Management continues to maintain a stance of strict denial while preparing legal avenues to halt further escalation of the situation.</p>\n<h2>News Overview</h2>\n<p>South Korean actress Cha Ye Ryun and her husband Joo Sang Wook have become targets of unverified online allegations regarding historical school bullying and mistreatment. HB Entertainment has firmly denied these claims, expressing concern over personal attacks and announcing intentions to pursue legal action against false information.</p>\n<h2>Key facts</h2>\n<ul><li>On November 4, HB Entertainment released an official statement addressing the allegations.</li><li>The controversy began in late October when an anonymous individual published an online post.</li><li>On October 30, HB Entertainment responded to the controversy by denying the allegations.</li><li>On November 2, access to the original post had been temporarily restricted.</li><li>On November 3, a separate account was introduced on a channel by someone claiming to have worked as a golf course caddie.</li></ul>\n</article>",
   "t": "Cha Ye Ryun's Agency Denies Bullying Allegations and Plans Legal Action"
  },
+ "news:1iop9x7": {
+  "d": "Pop star Charlie Puth will perform live in India for the very first time, headlining the inaugural Johnnie Co. Festival alongside British artist Ellie Goulding.",
+  "img": "https://mm-wp-prod-uploads.s3.ap-south-1.amazonaws.com/wp-content/uploads/2026/11/20163409/Untitled-Design-2.jpg",
+  "k": "Charlie Puth India, Johnnie Co. Festival Mumbai, Ellie Goulding India, Charlie Puth mumbai concert, Charlie Puth Whatever's Clever, Whatever's Clever, Charlie Puth, Ellie Goulding Whatever's Clever, entertainment news, FlickAtlas",
+  "ld": {
+   "@context": "https://schema.org",
+   "@type": "NewsArticle",
+   "articleBody": "First-Ever India Performance\n\nAmerican singer-songwriter Charlie Puth is preparing for his long-awaited debut concert in India. The four-time Grammy-nominated musician will headline the newly launched Johnnie Co. Festival in Mumbai on February 13, 2027.\n\nThe landmark musical event is scheduled to take place at the prominent Mahalaxmi Racecourse venue, marking a major milestone for international pop acts performing in the country.\n\nStar-Studded Festival Lineup\n\nJoining the headliner as the main support act is British pop star Ellie Goulding, renowned for chart-topping hits like Love Me Like You Do, Burn, and Lights.\n\nThe initial phase of the festival lineup also incorporates notable Indian artists such as Kayan, Taba Chake, Mali, and Gini, with event organizers promising further artist announcements.\n\nArtist Background and Anticipation\n\nCharlie Puth is internationally recognized for massive hits including Attention, We Don't Talk Anymore, and See You Again. This upcoming performance follows the release of his album Whatever's Clever.\n\nExpressing his enthusiasm, Puth noted in a statement that he has heard a great deal about the energy of Indian fans and looks forward to finally performing his favorite songs live in Mumbai.\n\nPlatform and Organizer Vision\n\nThe festival serves as the launch vehicle for Johnnie Co., a cultural platform created by Johnnie Walker Luxe Blended Water focused on uniting music, sport, and fashion.\n\nDiageo India Chief Marketing Officer Ruchira Jaitly explained that the platform was designed to foster connections across diverse cultural interests, while Team Innovation founder Mohit Bijlani praised the chosen venue.\n\nTicketing and Schedule Information\n\nFans hoping to attend the inaugural festival can purchase tickets exclusively through BookMyShow.\n\nAn exclusive HSBC presale period is scheduled for November 23 and 24, 2026, which will be immediately followed by the general public ticket sale on November 25, 2026.\n\nNews Overview\n\nAmerican singer Charlie Puth is heading to India for his first-ever concert appearance at the Johnnie Co. Festival in Mumbai on February 13, 2027. He will share the stage with British artist Ellie Goulding and several local acts at Mahalaxmi Racecourse, with tickets going on sale via BookMyShow following an HSBC presale.",
+   "author": {
+    "@type": "Organization",
+    "name": "FlickAtlas"
+   },
+   "datePublished": "2026-11-21T06:52:36.000Z",
+   "description": "Pop star Charlie Puth will perform live in India for the very first time, headlining the inaugural Johnnie Co. Festival alongside British artist Ellie Goulding.",
+   "headline": "Charlie Puth Set For Historic India Debut at Johnnie Co. Festival in Mumbai",
+   "image": "https://mm-wp-prod-uploads.s3.ap-south-1.amazonaws.com/wp-content/uploads/2026/11/20163409/Untitled-Design-2.jpg",
+   "keywords": "Charlie Puth India, Johnnie Co. Festival Mumbai, Ellie Goulding India, Charlie Puth mumbai concert",
+   "mainEntityOfPage": "https://flickatlas.co.uk/news-item?id=1iop9x7",
+   "publisher": {
+    "@type": "Organization",
+    "logo": {
+     "@type": "ImageObject",
+     "url": "https://flickatlas.co.uk/icon-512.png"
+    },
+    "name": "FlickAtlas"
+   },
+   "url": "https://flickatlas.co.uk/news-item?id=1iop9x7"
+  },
+  "modified": "",
+  "published": "2026-11-21T06:52:36.000Z",
+  "ssr": "<article class=\"ssr-facts\">\n<h1>Charlie Puth Set For Historic India Debut at Johnnie Co. Festival in Mumbai</h1>\n<p class=\"ssr-lead\">Pop star Charlie Puth will perform live in India for the very first time, headlining the inaugural Johnnie Co. Festival alongside British artist Ellie Goulding.</p>\n<p class=\"ssr-date\">Published 21 November 2026</p>\n<h2>First-Ever India Performance</h2>\n<p>American singer-songwriter Charlie Puth is preparing for his long-awaited debut concert in India. The four-time Grammy-nominated musician will headline the newly launched Johnnie Co. Festival in Mumbai on February 13, 2027.</p>\n<p>The landmark musical event is scheduled to take place at the prominent Mahalaxmi Racecourse venue, marking a major milestone for international pop acts performing in the country.</p>\n<h2>Star-Studded Festival Lineup</h2>\n<p>Joining the headliner as the main support act is British pop star Ellie Goulding, renowned for chart-topping hits like Love Me Like You Do, Burn, and Lights.</p>\n<p>The initial phase of the festival lineup also incorporates notable Indian artists such as Kayan, Taba Chake, Mali, and Gini, with event organizers promising further artist announcements.</p>\n<h2>Artist Background and Anticipation</h2>\n<p>Charlie Puth is internationally recognized for massive hits including Attention, We Don&#x27;t Talk Anymore, and See You Again. This upcoming performance follows the release of his album Whatever&#x27;s Clever.</p>\n<p>Expressing his enthusiasm, Puth noted in a statement that he has heard a great deal about the energy of Indian fans and looks forward to finally performing his favorite songs live in Mumbai.</p>\n<h2>Platform and Organizer Vision</h2>\n<p>The festival serves as the launch vehicle for Johnnie Co., a cultural platform created by Johnnie Walker Luxe Blended Water focused on uniting music, sport, and fashion.</p>\n<p>Diageo India Chief Marketing Officer Ruchira Jaitly explained that the platform was designed to foster connections across diverse cultural interests, while Team Innovation founder Mohit Bijlani praised the chosen venue.</p>\n<h2>Ticketing and Schedule Information</h2>\n<p>Fans hoping to attend the inaugural festival can purchase tickets exclusively through BookMyShow.</p>\n<p>An exclusive HSBC presale period is scheduled for November 23 and 24, 2026, which will be immediately followed by the general public ticket sale on November 25, 2026.</p>\n<h2>News Overview</h2>\n<p>American singer Charlie Puth is heading to India for his first-ever concert appearance at the Johnnie Co. Festival in Mumbai on February 13, 2027. He will share the stage with British artist Ellie Goulding and several local acts at Mahalaxmi Racecourse, with tickets going on sale via BookMyShow following an HSBC presale.</p>\n<h2>Key facts</h2>\n<ul><li>Charlie Puth will perform in India for the first time on February 13, 2027</li><li>The event is the inaugural Johnnie Co. Festival in Mumbai</li><li>The festival venue is Mahalaxmi Racecourse</li><li>Ellie Goulding is the main support act</li><li>Indian artists on the lineup include Kayan, Taba Chake, Mali, and Gini</li><li>Tickets will be sold exclusively through BookMyShow</li><li>The HSBC presale is on November 23 and 24, 2026</li><li>The general sale starts on November 25, 2026</li><li>Ruchira Jaitly is the Chief Marketing Officer of Diageo India</li><li>Mohit Bijlani is the founder of Team Innovation</li></ul>\n</article>",
+  "t": "Charlie Puth Set For Historic India Debut at Johnnie Co. Festival in Mumbai"
+ },
  "news:1ioxd38": {
   "d": "Rajinikanth's action-comedy Jailer 2 maintains its steady theatrical run, recording ₹3 crore net in India on its twenty-first day to push its global gross…",
   "img": "https://images.filmibeat.com/img/2026/11/jailer2-27401793852479.jpg",
@@ -87432,6 +88351,39 @@
   "published": "2026-11-08T10:03:54.000Z",
   "ssr": "<article class=\"ssr-facts\">\n<h1>Makers of Ranbir Kapoor and Yash&#x27;s Ramayana Issue Strict Legal Warning Over Unauthorised Theatre Recordings</h1>\n<p class=\"ssr-lead\">Team Ramayana has issued a stern legal notice against individuals illegally recording and sharing footage of the mythological epic in cinemas, threatening criminal, civil, and contempt proceedings.</p>\n<p class=\"ssr-date\">Published 8 November 2026</p>\n<h2>Strict Warning Issued Against Piracy</h2>\n<p>The producers of the mythological epic Ramayana have stepped up their battle against piracy by issuing a firm legal warning to anyone caught recording the movie inside cinema halls. Following the film&#x27;s theatrical arrival, creators noticed a surge in unauthorised clips being captured and circulated across various social media channels and messaging applications.</p>\n<p>To combat this issue, the production team shared an official notice on the official Instagram handle of Ramayana. The message emphasizes that anyone found recording, uploading, or sharing any portion of the cinematic experience without explicit permission will face severe consequences without any further warnings.</p>\n<h2>Legal Framework and Court Orders</h2>\n<p>The clampdown on piracy is backed by formal directives issued by the Hon&#x27;ble Bombay High Court. Orders dated November 2, 2026, and November 6, 2026, stemming from a commercial intellectual property suit, explicitly restrain all known and unknown individuals from communicating the movie or its clips in an unauthorised manner.</p>\n<p>According to the notice, such actions constitute a direct copyright infringement. Violators face serious penalties, including potential imprisonment and fines under multiple legislative frameworks such as the Copyright Act of 1957, the Cinematograph Act of 1952, the Bharatiya Nyaya Sanhita of 2023, and the Information Technology Act of 2000, alongside direct contempt of court charges.</p>\n<h2>Mandatory Deletion of Shared Footage</h2>\n<p>The production team has instructed all offenders to immediately delete any content related to Ramayana that they have already posted online. The studio made it clear that they are actively monitoring platforms and will directly report violators to the concerned authorities.</p>\n<p>Those who ignore these directives risk immediate legal action. The warning reiterates that the studio reserves all rights to protect its intellectual property through aggressive civil, criminal, and contempt proceedings.</p>\n<h2>Star-Studded Cast and Crew</h2>\n<p>Directed by Nitesh Tiwari, Ramayana: Part 1 features a prominent ensemble cast. Ranbir Kapoor takes on the role of Lord Rama, Sai Pallavi stars as Goddess Sita, and Yash portrays the antagonist Ravana. The project has been jointly produced by Namit Malhotra and Yash.</p>\n<p>The expansive supporting cast features notable names including Ravie Dubey, Indira Krishna, Arun Govil, Vivek Oberoi, Sonal Jha, Lara Dutta, Kunal Kapoor, Rakul Preet Singh, and Kajal Aggarwal. Additionally, Anupam Kher has lent his voice to the character of Jatayu.</p>\n<h2>Future Installments and Cameos</h2>\n<p>The mythological cinematic universe is already expanding, with a second installment titled Ramayana: Part 2 scheduled to hit the big screen on Diwali in the year 2028.</p>\n<p>The first part has also generated massive excitement through its post-credit scenes, which introduced Sunny Deol as Lord Hanuman. The makers have confirmed that the actor&#x27;s complete look will be officially unveiled when the sequel arrives in theatres.</p>\n<h2>Box Office Momentum and Cultural Impact</h2>\n<p>Since hitting theatres on November 5, the film has captured widespread attention both domestically and globally. The feature has set box office numbers soaring and is rapidly approaching the prestigious Rs 200 crore club in India.</p>\n<p>The phenomenal audience turnout reflects the immense anticipation surrounding the project, which has also unfortunately led to the heightened risk of theater recording and digital piracy that the makers are now fiercely combating.</p>\n<h2>News Overview</h2>\n<p>The producers of the Nitesh Tiwari-directed mythological epic Ramayana have issued a strict legal notice against unauthorized theatre recordings and online sharing, citing specific Bombay High Court orders. Backed by multiple Indian laws, the warning threatens criminal, civil, and contempt proceedings against anyone caught pirating the Ranbir Kapoor and Yash-starrer.</p>\n<p>Featuring an ensemble cast that includes Sai Pallavi and Sunny Deol, the film continues its strong theatrical run as it nears the Rs 200 crore milestone in India.</p>\n<h2>Key facts</h2>\n<ul><li>Ramayana released in theatres on November 5, 2026.</li><li>The film is directed by Nitesh Tiwari.</li><li>Starring cast includes Ranbir Kapoor, Yash, and Sai Pallavi.</li><li>Producers of the film are Namit Malhotra and Yash.</li><li>Bombay High Court passed orders on November 2, 2026, and November 6, 2026.</li><li>Ramayana: Part 2 will release on Diwali 2028.</li><li>The film is nearing the Rs 200 crore club in India.</li></ul>\n</article>",
   "t": "Makers of Ranbir Kapoor and Yash's Ramayana Issue Strict Legal Warning Over Unauthorised Theatre Recordings"
+ },
+ "news:1ks0c7t": {
+  "d": "Tom Hardy: Paramount has officially started filming the third season of MobLand right after the conclusion of season two, bringing back its star-studded lead…",
+  "img": "https://www.justjared.com/wp-content/uploads/2026/11/mobland-season-3-production.jpg",
+  "k": "MobLand Season 3, Tom Hardy MobLand, Pierce Brosnan Helen Mirren, MobLand Paramount, MobLand, Tom Hardy, Pierce Brosnan MobLand, entertainment news, FlickAtlas",
+  "ld": {
+   "@context": "https://schema.org",
+   "@type": "NewsArticle",
+   "articleBody": "Production Starts on Season Three\n\nThe television drama MobLand is wasting no time continuing its gripping narrative, with filming for the third season officially underway. Paramount announced that cameras have started rolling on the upcoming batch of episodes shortly after the second season wrapped up its broadcast run.\n\nThe swift turnaround highlights the network's confidence in the hit show. Fans who followed the intense twists of the previous run can look forward to seeing how the overarching crime saga unfolds next.\n\nReturning Lead Cast Members\n\nViewers will see the familiar faces of the principal cast reprise their roles for the new episodes. Tom Hardy returns as the dedicated fixer Harry da Souza, steering the complex criminal underworld dynamics.\n\nAlongside him, veteran actors Pierce Brosnan and Helen Mirren are back on set. They reprise their roles as Conrad and Maeve Harrigan, the powerful heads of the crime family at the heart of the story.\n\nStudio Collaboration and Streaming Details\n\nThe latest production effort is a collaborative venture with Paramount Television Studio and 101 Studios. This partnership continues the operational structure that guided the program through its previous runs.\n\nFor audiences wanting to catch up, the entire catalog is accessible online. Every single episode from both season one and season two, including the recent season two finale, is currently streaming globally on Paramount+.\n\nPrevious Season Cast Ensemble\n\nThe expansive world of the series featured a large supporting cast across its second season. Alongside the main trio, the ensemble included performers such as Paddy Considine, Joanne Froggatt, Lara Pulver, and Anson Boon.\n\nOther notable names rounding out the sprawling roster were Mandeep Dhillon, Jasmine Jobson, Teddie Allen, Emmett J. Scanlan, Johnny Flynn, Ophelia Lovibond, Janet McTeer, and Toby Jones.\n\nAddressing Behind-the-Scenes Rumors\n\nThe official confirmation of Tom Hardy's return brings relief to followers who felt anxious earlier in the year. Prior reports had circulated alleging friction and behind-the-scenes drama involving the actor, crew, and producers.\n\nThese worries were further quieted when Pierce Brosnan publicly commented on the speculation. Brosnan expressed admiration for his co-star, stating that he thoroughly enjoys collaborating with the actor and holds great respect for his previous work.\n\nCast Support and Public Appearances\n\nHelen Mirren also contributed to putting the rumors to rest by sharing positive remarks about working alongside Tom Hardy. Her supportive words reinforced a sense of unity among the principal actors.\n\nThe camaraderie was further on display when Hardy reunited with fellow cast members at the season two premiere event, taking place months after the initial firing rumors surfaced in the press.\n\nNews Overview\n\nProduction for season 3 of MobLand has officially commenced under Paramount Television Studio and 101 Studios. Main cast members Tom Hardy, Pierce Brosnan, and Helen Mirren are all confirmed to return, putting prior behind-the-scenes rumors to rest as seasons 1 and 2 stream globally on Paramount+.",
+   "author": {
+    "@type": "Organization",
+    "name": "FlickAtlas"
+   },
+   "datePublished": "2026-11-21T04:58:57.000Z",
+   "description": "Tom Hardy: Paramount has officially started filming the third season of MobLand right after the conclusion of season two, bringing back its star-studded lead…",
+   "headline": "MobLand Season 3 Goes Into Production With Tom Hardy, Pierce Brosnan, and Helen Mirren Returning",
+   "image": "https://www.justjared.com/wp-content/uploads/2026/11/mobland-season-3-production.jpg",
+   "keywords": "MobLand Season 3, Tom Hardy MobLand, Pierce Brosnan Helen Mirren, MobLand Paramount",
+   "mainEntityOfPage": "https://flickatlas.co.uk/news-item?id=1ks0c7t",
+   "publisher": {
+    "@type": "Organization",
+    "logo": {
+     "@type": "ImageObject",
+     "url": "https://flickatlas.co.uk/icon-512.png"
+    },
+    "name": "FlickAtlas"
+   },
+   "url": "https://flickatlas.co.uk/news-item?id=1ks0c7t"
+  },
+  "modified": "",
+  "published": "2026-11-21T04:58:57.000Z",
+  "ssr": "<article class=\"ssr-facts\">\n<h1>MobLand Season 3 Goes Into Production With Tom Hardy, Pierce Brosnan, and Helen Mirren Returning</h1>\n<p class=\"ssr-lead\">Paramount has officially started filming the third season of MobLand right after the conclusion of season two, bringing back its star-studded lead cast.</p>\n<p class=\"ssr-date\">Published 21 November 2026</p>\n<h2>Production Starts on Season Three</h2>\n<p>The television drama MobLand is wasting no time continuing its gripping narrative, with filming for the third season officially underway. Paramount announced that cameras have started rolling on the upcoming batch of episodes shortly after the second season wrapped up its broadcast run.</p>\n<p>The swift turnaround highlights the network&#x27;s confidence in the hit show. Fans who followed the intense twists of the previous run can look forward to seeing how the overarching crime saga unfolds next.</p>\n<h2>Returning Lead Cast Members</h2>\n<p>Viewers will see the familiar faces of the principal cast reprise their roles for the new episodes. Tom Hardy returns as the dedicated fixer Harry da Souza, steering the complex criminal underworld dynamics.</p>\n<p>Alongside him, veteran actors Pierce Brosnan and Helen Mirren are back on set. They reprise their roles as Conrad and Maeve Harrigan, the powerful heads of the crime family at the heart of the story.</p>\n<h2>Studio Collaboration and Streaming Details</h2>\n<p>The latest production effort is a collaborative venture with Paramount Television Studio and 101 Studios. This partnership continues the operational structure that guided the program through its previous runs.</p>\n<p>For audiences wanting to catch up, the entire catalog is accessible online. Every single episode from both season one and season two, including the recent season two finale, is currently streaming globally on Paramount+.</p>\n<h2>Previous Season Cast Ensemble</h2>\n<p>The expansive world of the series featured a large supporting cast across its second season. Alongside the main trio, the ensemble included performers such as Paddy Considine, Joanne Froggatt, Lara Pulver, and Anson Boon.</p>\n<p>Other notable names rounding out the sprawling roster were Mandeep Dhillon, Jasmine Jobson, Teddie Allen, Emmett J. Scanlan, Johnny Flynn, Ophelia Lovibond, Janet McTeer, and Toby Jones.</p>\n<h2>Addressing Behind-the-Scenes Rumors</h2>\n<p>The official confirmation of Tom Hardy&#x27;s return brings relief to followers who felt anxious earlier in the year. Prior reports had circulated alleging friction and behind-the-scenes drama involving the actor, crew, and producers.</p>\n<p>These worries were further quieted when Pierce Brosnan publicly commented on the speculation. Brosnan expressed admiration for his co-star, stating that he thoroughly enjoys collaborating with the actor and holds great respect for his previous work.</p>\n<h2>Cast Support and Public Appearances</h2>\n<p>Helen Mirren also contributed to putting the rumors to rest by sharing positive remarks about working alongside Tom Hardy. Her supportive words reinforced a sense of unity among the principal actors.</p>\n<p>The camaraderie was further on display when Hardy reunited with fellow cast members at the season two premiere event, taking place months after the initial firing rumors surfaced in the press.</p>\n<h2>News Overview</h2>\n<p>Production for season 3 of MobLand has officially commenced under Paramount Television Studio and 101 Studios. Main cast members Tom Hardy, Pierce Brosnan, and Helen Mirren are all confirmed to return, putting prior behind-the-scenes rumors to rest as seasons 1 and 2 stream globally on Paramount+.</p>\n<h2>Key facts</h2>\n<ul><li>MobLand season 3 production began by Nov 20, 2026</li><li>Tom Hardy returns as Harry da Souza</li><li>Pierce Brosnan and Helen Mirren return as Conrad and Maeve Harrigan</li><li>Seasons 1 and 2 are streaming on Paramount+</li></ul>\n</article>",
+  "t": "MobLand Season 3 Goes Into Production With Tom Hardy, Pierce Brosnan, and Helen Mirren Returning"
  },
  "news:1ksbxhl": {
   "d": "Shah Rukh Khan celebrated his birthday by giving fans a romantic musical treat from his upcoming movie King, uniting him once again with Deepika Padukone.",
@@ -108146,6 +109098,39 @@
   "published": "2026-11-02T16:47:54.000Z",
   "ssr": "<article class=\"ssr-facts\">\n<h1>Comedian Druski Signs Major Multi-Year Netflix Deal and Announces New Comedy Series</h1>\n<p class=\"ssr-lead\">Comedian Druski is expanding his digital empire to Netflix through a comprehensive multi-year agreement with his production house, bringing fresh original programming starting this December.</p>\n<p class=\"ssr-date\">Published 2 November 2026</p>\n<h2>The Partnership Announcement</h2>\n<p>Comedian Druski has secured a major new home for his comedic talents following a multi-year content partnership with Netflix. Collaborating through his production banner, 4LIFERS Entertainment, the deal grants the streaming giant exclusive rights to develop brand-new original comedy shows.</p>\n<p>This strategic agreement marks a significant transition for the internet personality as he scales his distinct style of humor from digital platforms to a dedicated global subscription service.</p>\n<h2>First Project Details</h2>\n<p>The creative collaboration launches with a semi-scripted comedy series titled Collect Praise, which is scheduled to premiere on December 1. In this upcoming production, Druski steps into the starring role of a greedy megachurch pastor navigating a series of scandals and outrageous controversies.</p>\n<p>He is joined by Mike Epps, who takes on the supporting role of an unpredictable church deacon. The series successfully adapts the comedian&#x27;s popular viral megachurch persona into a full-scale television endeavor.</p>\n<h2>Promotional Video Highlights</h2>\n<p>To promote the upcoming launch, Netflix released a promotional video offering a humorous, behind-the-scenes mock setup of the show&#x27;s production process. The clip follows the star managing various creative elements, including examining customized facial prosthetic molds and evaluating skin tone options.</p>\n<p>The chaotic preview also features several unusual vignettes, including a dramatic pregnancy sequence and a sudden interruption involving a character shouting about the ATF. The teaser concludes with a media scrum questioning the comedian about his future plans.</p>\n<h2>Catalog Licensing and Future Plans</h2>\n<p>Beyond the initial premiere of Collect Praise, the multi-year pact encompasses the creation of multiple original properties for the service. Additionally, the platform will license selected titles from the creator&#x27;s existing body of work.</p>\n<p>Included in this catalog licensing arrangement are projects such as Coulda Been Love, Coulda Been Daddy, Coulda Been Records Auditions, and a collection of his well-known comedy sketches.</p>\n<h2>Executive Response</h2>\n<p>John Derderian, Netflix’s Vice President of Next Gen Content, formally welcomed the performer to the platform and commended his unique abilities. Derderian noted that the creator possesses a distinct talent for developing unforgettable characters that generate widespread public discussion.</p>\n<p>The executive further emphasized that the upcoming semi-scripted series serves merely as the foundational stepping stone for a long and expansive creative partnership.</p>\n<h2>Career Milestones</h2>\n<p>The streaming agreement arrives on the heels of numerous major professional accolades and career milestones. In the year 2026, Rolling Stone recognized him as the top entry on its Most Influential Creator List, while Complex named him the funniest person on the internet across two consecutive years.</p>\n<p>Furthermore, he recently achieved the distinction of becoming the youngest host of the BET Awards and secured a prominent feature on the cover of TIME’s TIME100 Next issue.</p>\n<h2>Upcoming Television Appearances</h2>\n<p>In addition to his streaming developments, the comedian has another high-profile television engagement scheduled shortly. He is set to take on hosting duties for Saturday Night Live on November 7.</p>\n<p>These consecutive television milestones highlight his rapid ascent across traditional broadcast networks and major digital subscription platforms alike.</p>\n<h2>News Overview</h2>\n<p>Comedian Druski and his production company 4LIFERS Entertainment have entered a multi-year partnership with Netflix to produce original comedy programming. The collaboration kicks off with the semi-scripted series Collect Praise on December 1, alongside the licensing of his previous comedy catalog.</p>\n<p>This development follows a series of major career accolades for the comedian, who is also scheduled to host Saturday Night Live.</p>\n<h2>Key facts</h2>\n<ul><li>Druski signed a multi-year deal with Netflix through his production company 4LIFERS Entertainment.</li><li>The first show under the deal is a semi-scripted comedy series titled Collect Praise, premiering on December 1.</li><li>Mike Epps co-stars in Collect Praise as an unpredictable deacon.</li><li>Netflix will license existing titles including Coulda Been Love, Coulda Been Daddy, Coulda Been Records Auditions, and comedy sketches.</li><li>John Derderian is Netflix&#x27;s VP of Next Gen Content.</li><li>Rolling Stone named Druski No. 1 on its Most Influential Creator List in 2026.</li><li>Complex named him the funniest person on the internet for two consecutive years.</li><li>He became the youngest host of the BET Awards and appeared on the cover of TIME’s TIME100 Next issue.</li><li>He is scheduled to host Saturday Night Live on November 7.</li></ul>\n</article>",
   "t": "Comedian Druski Signs Major Multi-Year Netflix Deal and Announces New Comedy Series"
+ },
+ "news:7tk3ll": {
+  "d": "The Hunger Games: Sunrise on the Reaping: The franchise installment dominates early ticket sales, clinching major records and outpacing several notable 2026…",
+  "img": "https://www.koimoi.com/wp-content/new-galleries/2026/11/the-hunger-games-sunrise-on-the-reaping-north-america-box-office-beats-two-2026-blockbusters-to-claim-the-years-2nd-biggest-preview-01.jpg",
+  "k": "The Hunger Games Sunrise on the Reaping, Sunrise on the Reaping box office, Joseph Zada Mckenna Grace, Francis Lawrence film, Joseph Zada The Hunger Games: Sunrise on the Reaping, The Hunger Games: Sunrise on the Reaping, Joseph Zada, Mckenna Grace The Hunger Games: Sunrise on the Reaping, entertainment news, FlickAtlas",
+  "ld": {
+   "@context": "https://schema.org",
+   "@type": "NewsArticle",
+   "articleBody": "Introduction To The Preview Success\n\nThe Hunger Games: Sunrise on the Reaping has made a stellar entrance at the North American box office. Powered by immense anticipation from fans, the movie secured an impressive opening through early ticket sales.\n\nThis initial triumph sets a strong foundation for the film's theatrical run. Industry analysts have closely tracked these numbers as a primary indicator of the franchise's enduring popularity.\n\nBreakdown Of The Preview Earnings\n\nAccording to the latest reports, the feature pulled in a solid $21 million from combined Wednesday and Thursday previews across North America. This robust figure highlights the heavy demand for tickets prior to the official weekend launch.\n\nSuch a strong start places the film in an elite category of early earners for the year. The preview figures surpassed initial expectations set by industry trackers.\n\nSurpassing 2026 Competitors\n\nThe preview haul successfully outpaced several prominent contenders in the market. Notably, it bypassed the preview collections of other 2026 blockbusters like The Odyssey and Michael.\n\nBy beating these rivals, the film locked in the second-biggest preview haul of 2026. It now sits just behind Spider-Man: Brand New Day in that specific yearly ranking.\n\nMilestones For The Studio And Franchise\n\nFor Lionsgate, this preview performance marks a significant company milestone. It stands as the studio's largest preview haul since The Hunger Games: Catching Fire achieved $25 million back in 2013.\n\nFurthermore, the earnings dwarf those of its predecessor. The collection is almost four times greater than the $5.8 million preview earned by The Hunger Games: Ballad of Songbirds and Snakes.\n\nAll-Time And Seasonal Rankings\n\nBeyond current-year comparisons, the movie carved out space in all-time record lists. It topped the preview hauls of Suicide Squad and Captain Marvel to secure the thirty-second spot for all-time preview earnings in North America.\n\nIn the category of November releases, it registered the seventh-biggest preview haul ever. It outperformed Wicked, which previously held a lower preview figure of $19.2 million.\n\nOpening Weekend Projections\n\nCurrent box office tracking points toward a massive three-day opening weekend. Projections indicate the film is on track to earn between $100 million and $120 million domestically.\n\nHitting this projected range would make it the fifth movie in 2026 to cross the $100 million opening mark. The film was released on November 20 under the direction of Francis Lawrence.\n\nCast And Production Context\n\nThe film features performances from Joseph Zada and Mckenna Grace in leading roles. Their involvement has been central to the marketing and audience draw for this chapter of the dystopian series.\n\nDirector Francis Lawrence helmed the project, bringing further continuity to the cinematic universe. Estimates and various sources continue to provide updates as the full weekend figures develop.\n\nNews Overview\n\nThe Hunger Games: Sunrise on the Reaping achieved the second-biggest preview haul of 2026 in North America with $21 million from Wednesday and Thursday screenings. Directed by Francis Lawrence and starring Joseph Zada and Mckenna Grace, the film surpassed competitors like The Odyssey and Michael while setting a new high for Lionsgate.",
+   "author": {
+    "@type": "Organization",
+    "name": "FlickAtlas"
+   },
+   "datePublished": "2026-11-21T05:46:50.000Z",
+   "description": "The Hunger Games: Sunrise on the Reaping: The franchise installment dominates early ticket sales, clinching major records and outpacing several notable 2026…",
+   "headline": "The Hunger Games: Sunrise On The Reaping Secures Massive Preview Haul At North American Box Office",
+   "image": "https://www.koimoi.com/wp-content/new-galleries/2026/11/the-hunger-games-sunrise-on-the-reaping-north-america-box-office-beats-two-2026-blockbusters-to-claim-the-years-2nd-biggest-preview-01.jpg",
+   "keywords": "The Hunger Games Sunrise on the Reaping, Sunrise on the Reaping box office, Joseph Zada Mckenna Grace, Francis Lawrence film",
+   "mainEntityOfPage": "https://flickatlas.co.uk/news-item?id=7tk3ll",
+   "publisher": {
+    "@type": "Organization",
+    "logo": {
+     "@type": "ImageObject",
+     "url": "https://flickatlas.co.uk/icon-512.png"
+    },
+    "name": "FlickAtlas"
+   },
+   "url": "https://flickatlas.co.uk/news-item?id=7tk3ll"
+  },
+  "modified": "",
+  "published": "2026-11-21T05:46:50.000Z",
+  "ssr": "<article class=\"ssr-facts\">\n<h1>The Hunger Games: Sunrise On The Reaping Secures Massive Preview Haul At North American Box Office</h1>\n<p class=\"ssr-lead\">The franchise installment dominates early ticket sales, clinching major records and outpacing several notable 2026 releases in North America.</p>\n<p class=\"ssr-date\">Published 21 November 2026</p>\n<h2>Introduction To The Preview Success</h2>\n<p>The Hunger Games: Sunrise on the Reaping has made a stellar entrance at the North American box office. Powered by immense anticipation from fans, the movie secured an impressive opening through early ticket sales.</p>\n<p>This initial triumph sets a strong foundation for the film&#x27;s theatrical run. Industry analysts have closely tracked these numbers as a primary indicator of the franchise&#x27;s enduring popularity.</p>\n<h2>Breakdown Of The Preview Earnings</h2>\n<p>According to the latest reports, the feature pulled in a solid $21 million from combined Wednesday and Thursday previews across North America. This robust figure highlights the heavy demand for tickets prior to the official weekend launch.</p>\n<p>Such a strong start places the film in an elite category of early earners for the year. The preview figures surpassed initial expectations set by industry trackers.</p>\n<h2>Surpassing 2026 Competitors</h2>\n<p>The preview haul successfully outpaced several prominent contenders in the market. Notably, it bypassed the preview collections of other 2026 blockbusters like The Odyssey and Michael.</p>\n<p>By beating these rivals, the film locked in the second-biggest preview haul of 2026. It now sits just behind Spider-Man: Brand New Day in that specific yearly ranking.</p>\n<h2>Milestones For The Studio And Franchise</h2>\n<p>For Lionsgate, this preview performance marks a significant company milestone. It stands as the studio&#x27;s largest preview haul since The Hunger Games: Catching Fire achieved $25 million back in 2013.</p>\n<p>Furthermore, the earnings dwarf those of its predecessor. The collection is almost four times greater than the $5.8 million preview earned by The Hunger Games: Ballad of Songbirds and Snakes.</p>\n<h2>All-Time And Seasonal Rankings</h2>\n<p>Beyond current-year comparisons, the movie carved out space in all-time record lists. It topped the preview hauls of Suicide Squad and Captain Marvel to secure the thirty-second spot for all-time preview earnings in North America.</p>\n<p>In the category of November releases, it registered the seventh-biggest preview haul ever. It outperformed Wicked, which previously held a lower preview figure of $19.2 million.</p>\n<h2>Opening Weekend Projections</h2>\n<p>Current box office tracking points toward a massive three-day opening weekend. Projections indicate the film is on track to earn between $100 million and $120 million domestically.</p>\n<p>Hitting this projected range would make it the fifth movie in 2026 to cross the $100 million opening mark. The film was released on November 20 under the direction of Francis Lawrence.</p>\n<h2>Cast And Production Context</h2>\n<p>The film features performances from Joseph Zada and Mckenna Grace in leading roles. Their involvement has been central to the marketing and audience draw for this chapter of the dystopian series.</p>\n<p>Director Francis Lawrence helmed the project, bringing further continuity to the cinematic universe. Estimates and various sources continue to provide updates as the full weekend figures develop.</p>\n<h2>News Overview</h2>\n<p>The Hunger Games: Sunrise on the Reaping achieved the second-biggest preview haul of 2026 in North America with $21 million from Wednesday and Thursday screenings. Directed by Francis Lawrence and starring Joseph Zada and Mckenna Grace, the film surpassed competitors like The Odyssey and Michael while setting a new high for Lionsgate.</p>\n<h2>Key facts</h2>\n<ul><li>The Hunger Games: Sunrise on the Reaping earned $21 million from Wednesday and Thursday previews in North America.</li><li>The film surpassed The Odyssey preview haul of $17.6 million and Michael&#x27;s $12.6 million.</li><li>It is Lionsgate&#x27;s biggest preview since The Hunger Games: Catching Fire earned $25 million in 2013.</li><li>The preview collection is nearly 4x that of The Hunger Games: Ballad of Songbirds and Snakes, which earned $5.8 million.</li><li>The film is projected to earn between $100 million and $120 million over its three-day opening weekend.</li><li>The movie was released on November 20 and is directed by Francis Lawrence, starring Joseph Zada and Mckenna Grace.</li></ul>\n</article>",
+  "t": "The Hunger Games: Sunrise On The Reaping Secures Massive Preview Haul At North American Box Office"
  },
  "news:7uwjmz": {
   "d": "Dhanush: The official Hindi trailer for Om: Chapter 1, Udhiram: The Blood Wood has been released, showcasing an intense red sandalwood smuggling thriller…",
@@ -133565,6 +134550,39 @@
   "ssr": "<article class=\"ssr-facts\">\n<h1>Kamal Haasan faces severe backlash over Sandiyar title announcement</h1>\n<p class=\"ssr-lead\">Veteran actor and politician Kamal Haasan has run into a major controversy after choosing the title Sandiyar for his upcoming film, drawing a fierce warning from political leader Krishnasamy two decades after the original dispute.</p>\n<p class=\"ssr-date\">Published 9 November 2026</p>\n<h2>Title Announcement Triggers Controversy</h2>\n<p>Renowned actor and politician Kamal Haasan has sparked a fresh wave of public debate following the announcement of his upcoming film project. Unveiled to the public on November 7, coinciding with the actor&#x27;s birthday, the movie was introduced with the title Sandiyar.</p>\n<p>Even before the release of any production details, teaser footage, or official plot outlines, the chosen name immediately captured media attention for all the wrong reasons. The decision to use this specific moniker has resurrected an old political and social debate in Tamil Nadu, reminding citizens of past controversies involving the veteran star.</p>\n<h2>Strong Political Opposition From Krishnasamy</h2>\n<p>The announcement drew swift condemnation from New Tamilagam Party president Krishnasamy. Voicing vehement opposition, he publicly cautioned the filmmakers that proceeding with the project under the current name would invite intense resistance.</p>\n<p>Krishnasamy argued that using the word Sandiyar carries the heavy potential of inciting caste-based friction and violent unrest, particularly within the southern districts of the state. He directly appealed to Kamal Haasan, reminding him of his dual standing as both a Member of Parliament and a political party leader who should exercise greater responsibility.</p>\n<h2>The 2003 Precedent and Virumaandi</h2>\n<p>This brewing controversy serves as a direct echo of events that transpired twenty-three years ago. In 2003, Kamal Haasan originally selected the exact same title for an upcoming cinematic venture, which immediately provoked widespread protests across southern Tamil Nadu due to concerns over community disharmony.</p>\n<p>Faced with mounting societal pressure and public demonstrations at the time, the makers ultimately altered the name to Virumaandi, following the counsel of then Chief Minister J Jayalalithaa. The retitled project eventually released and won appreciation for its narrative depth and character performances, embedding the title change into regional cinema lore.</p>\n<h2>Direct Ultimatums and Legal Threats</h2>\n<p>Krishnasamy made it emphatically clear that his party&#x27;s resistance would extend far beyond verbal objections or routine political statements. He asserted that an organized campaign using every available avenue, including formal legal actions, would be deployed to halt the production.</p>\n<p>In his most severe remark, the New Tamilagam Party president issued a direct ultimatum stating that if the project moves forward with the disputed title, Kamal Haasan would face expulsion from the state, intensifying the stakes surrounding the cinematic venture.</p>\n<h2>Appeals for State Intervention</h2>\n<p>Beyond addressing the actor directly, political figures have sought governmental intervention to defuse the situation before it escalates further. Krishnasamy publicly called upon Tamil Nadu Chief Minister Vijay to step into the matter.</p>\n<p>The expectation behind this appeal is that state leadership will counsel the actor and the production team to abandon the controversial moniker. Observers note that such high-level pressure significantly increases the likelihood of a formal response or a title reconsideration from the film&#x27;s creators.</p>\n<h2>Public Debate and Expected Reactions</h2>\n<p>The sudden revival of a twenty-three-year-old controversy has deeply divided public opinion across digital platforms and local circles. Thousands of internet users have actively participated in online polls and discussion forums to voice their stance on whether the title should be retained or scrapped.</p>\n<p>As public discourse intensifies and political pressure mounts from various factions, industry analysts anticipate an official statement from Kamal Haasan or his production team to address the mounting concerns and clarify the future of the project.</p>\n<h2>News Overview</h2>\n<p>Kamal Haasan has faced intense backlash after naming his newly announced film Sandiyar, a title that previously sparked caste-related controversies twenty-three years ago before being renamed Virumaandi. New Tamilagam Party president Krishnasamy strongly condemned the choice, warning of severe legal and political opposition and urging Chief Minister Vijay to intervene.</p>\n<h2>Key facts</h2>\n<ul><li>Kamal Haasan announced his upcoming film titled Sandiyar on November 7.</li><li>The title announcement was made on Kamal Haasan&#x27;s birthday.</li><li>New Tamilagam Party president Krishnasamy strongly objected to the title.</li><li>Krishnasamy warned that the title could trigger caste clashes and violence in southern districts.</li><li>Krishnasamy urged Tamil Nadu Chief Minister Vijay to intervene.</li><li>In 2003, Kamal Haasan&#x27;s film originally named Sandiyar was renamed Virumaandi.</li><li>The 2003 title change happened on the advice of then Chief Minister J Jayalalithaa.</li></ul>\n</article>",
   "t": "Kamal Haasan faces severe backlash over Sandiyar title announcement"
  },
+ "news:ve8j8g": {
+  "d": "Home Alone: Disney is reportedly developing a new entry in the classic holiday comedy franchise, with the original star collaborating on the script.",
+  "img": "https://www.rollingstone.com/wp-content/uploads/2026/11/GettyImages-2270988177.jpg?w=1600&#038;h=900&#038;crop=1",
+  "k": "Home Alone sequel, Macaulay Culkin, Seth Rogen, Evan Goldberg, Macaulay Culkin Home Alone, Home Alone, Seth Rogen Home Alone, entertainment news, FlickAtlas",
+  "ld": {
+   "@context": "https://schema.org",
+   "@type": "NewsArticle",
+   "articleBody": "A Potential Return to the Franchise\n\nReports indicate that a fresh chapter in the long-running holiday comedy series is currently in development at Disney. The project would see the return of its original child star, who has recently begun to embrace his iconic character again through various promotional appearances and live events.\n\nIf the project successfully secures a green light, it would mark the actor's first time stepping back into the movie franchise since the second installment debuted in theaters back in 1993.\n\nCollaboration on the Script\n\nIndustry tracking suggests that the lead actor is actively working alongside noted filmmakers Seth Rogen and Evan Goldberg to shape the screenplay for this prospective new motion picture.\n\nWhile specific plot points and project details remain under wraps, this creative team-up brings a distinct comedic pedigree to the development stage of the film.\n\nPast Ideas for Kevin McCallister\n\nIn late 2025, the actor expressed a willingness to revisit his signature role under specific creative conditions. His personal pitch involved an older version of the character now navigating parenthood.\n\nAccording to that conceptual framework, the grown protagonist would find himself locked out of his home, facing elaborate traps set by his own son in a reversal of the classic dynamics.\n\nUncertainty Surrounding the Plot\n\nIt remains entirely unconfirmed whether the actor's specific storyline involving a mischievous child is the actual narrative direction being pursued by the writing team.\n\nAlternatively, the creative duo of Rogen and Goldberg may have elected to construct an entirely separate storyline for the prospective franchise continuation.\n\nFranchise Context and Recent History\n\nAny new cinematic installment would arrive at a time when the broader property has experienced significant critical and commercial decline in recent years.\n\nThe sixth movie in the series, titled Home Sweet Home Alone, received overwhelmingly negative reviews and gained little traction when it premiered directly on the Disney+ streaming platform in 2021.\n\nRecent Appearances as the Character\n\nIn the decades following his last theatrical appearance in the franchise, the actor briefly voiced his famous character on an episode of Robot Chicken.\n\nMore recently, he slipped back into the role for a fast-food holiday advertising campaign designed to promote festive promotional meals.\n\nSkepticism and Industry Speculation\n\nDespite the active reports from entertainment outlets, some industry observers suggest tempering expectations until official production confirmations arrive.\n\nPast patterns from the creative team indicate that real-world entertainment developments sometimes serve as fictional fodder for television series rather than actual motion pictures.\n\nNews Overview\n\nDisney is currently developing a potential Home Alone sequel that could feature Macaulay Culkin collaborating on the script alongside Seth Rogen and Evan Goldberg. While details remain scarce and it is uncertain which plot ideas are being used, the project comes as the franchise looks to bounce back from the panned 2021 Disney+ release.",
+   "author": {
+    "@type": "Organization",
+    "name": "FlickAtlas"
+   },
+   "datePublished": "2026-11-21T06:52:36.000Z",
+   "description": "Home Alone: Disney is reportedly developing a new entry in the classic holiday comedy franchise, with the original star collaborating on the script.",
+   "headline": "Macaulay Culkin May Return for a New Home Alone Sequel with Seth Rogen and Evan Goldberg",
+   "image": "https://www.rollingstone.com/wp-content/uploads/2026/11/GettyImages-2270988177.jpg?w=1600&#038;h=900&#038;crop=1",
+   "keywords": "Home Alone sequel, Macaulay Culkin, Seth Rogen, Evan Goldberg",
+   "mainEntityOfPage": "https://flickatlas.co.uk/news-item?id=ve8j8g",
+   "publisher": {
+    "@type": "Organization",
+    "logo": {
+     "@type": "ImageObject",
+     "url": "https://flickatlas.co.uk/icon-512.png"
+    },
+    "name": "FlickAtlas"
+   },
+   "url": "https://flickatlas.co.uk/news-item?id=ve8j8g"
+  },
+  "modified": "",
+  "published": "2026-11-21T06:52:36.000Z",
+  "ssr": "<article class=\"ssr-facts\">\n<h1>Macaulay Culkin May Return for a New Home Alone Sequel with Seth Rogen and Evan Goldberg</h1>\n<p class=\"ssr-lead\">Disney is reportedly developing a new entry in the classic holiday comedy franchise, with the original star collaborating on the script.</p>\n<p class=\"ssr-date\">Published 21 November 2026</p>\n<h2>A Potential Return to the Franchise</h2>\n<p>Reports indicate that a fresh chapter in the long-running holiday comedy series is currently in development at Disney. The project would see the return of its original child star, who has recently begun to embrace his iconic character again through various promotional appearances and live events.</p>\n<p>If the project successfully secures a green light, it would mark the actor&#x27;s first time stepping back into the movie franchise since the second installment debuted in theaters back in 1993.</p>\n<h2>Collaboration on the Script</h2>\n<p>Industry tracking suggests that the lead actor is actively working alongside noted filmmakers Seth Rogen and Evan Goldberg to shape the screenplay for this prospective new motion picture.</p>\n<p>While specific plot points and project details remain under wraps, this creative team-up brings a distinct comedic pedigree to the development stage of the film.</p>\n<h2>Past Ideas for Kevin McCallister</h2>\n<p>In late 2025, the actor expressed a willingness to revisit his signature role under specific creative conditions. His personal pitch involved an older version of the character now navigating parenthood.</p>\n<p>According to that conceptual framework, the grown protagonist would find himself locked out of his home, facing elaborate traps set by his own son in a reversal of the classic dynamics.</p>\n<h2>Uncertainty Surrounding the Plot</h2>\n<p>It remains entirely unconfirmed whether the actor&#x27;s specific storyline involving a mischievous child is the actual narrative direction being pursued by the writing team.</p>\n<p>Alternatively, the creative duo of Rogen and Goldberg may have elected to construct an entirely separate storyline for the prospective franchise continuation.</p>\n<h2>Franchise Context and Recent History</h2>\n<p>Any new cinematic installment would arrive at a time when the broader property has experienced significant critical and commercial decline in recent years.</p>\n<p>The sixth movie in the series, titled Home Sweet Home Alone, received overwhelmingly negative reviews and gained little traction when it premiered directly on the Disney+ streaming platform in 2021.</p>\n<h2>Recent Appearances as the Character</h2>\n<p>In the decades following his last theatrical appearance in the franchise, the actor briefly voiced his famous character on an episode of Robot Chicken.</p>\n<p>More recently, he slipped back into the role for a fast-food holiday advertising campaign designed to promote festive promotional meals.</p>\n<h2>Skepticism and Industry Speculation</h2>\n<p>Despite the active reports from entertainment outlets, some industry observers suggest tempering expectations until official production confirmations arrive.</p>\n<p>Past patterns from the creative team indicate that real-world entertainment developments sometimes serve as fictional fodder for television series rather than actual motion pictures.</p>\n<h2>News Overview</h2>\n<p>Disney is currently developing a potential Home Alone sequel that could feature Macaulay Culkin collaborating on the script alongside Seth Rogen and Evan Goldberg. While details remain scarce and it is uncertain which plot ideas are being used, the project comes as the franchise looks to bounce back from the panned 2021 Disney+ release.</p>\n<h2>Key facts</h2>\n<ul><li>Macaulay Culkin attended the premiere of Netflix&#x27;s Running Point Season 2 on April 15, 2026</li><li>Variety reported that Disney is developing a Home Alone sequel with Culkin, Seth Rogen, and Evan Goldberg</li><li>Culkin&#x27;s last Home Alone film was 1993&#x27;s Lost in New York</li><li>In November 2025, Culkin expressed openness to reprising his role as a father locked out by his son</li><li>The sixth film in the franchise, Home Sweet Home Alone, was released on Disney+ in 2021</li></ul>\n</article>",
+  "t": "Macaulay Culkin May Return for a New Home Alone Sequel with Seth Rogen and Evan Goldberg"
+ },
  "news:vfq7c9": {
   "d": "Rajinikanth's action entertainer 'Jailer 2' continues its strong theatrical run on Day 20, drawing closer to Vijay's 'The Greatest of All Time' benchmark in…",
   "img": "https://static.toiimg.com/thumb/msid-135516739,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
@@ -145391,6 +146409,52 @@
   "published": "2026-11-20",
   "ssr": "<article class=\"ssr-facts\">\n<h1>Teen Tigada (2026)</h1>\n<p class=\"ssr-lead\">Teen Tigada is an emotional drama about ambition, unexpected love, and the meaning of family.</p>\n<h2>Key facts</h2>\n<ul><li>First air date: 19 November 2026</li><li>Seasons: 1 · Episodes: 1</li><li>Status: Returning Series</li></ul>\n</article>",
   "t": "Teen Tigada (2026) — Seasons, Episodes, Cast & Story | FlickAtlas",
+  "year": "2026"
+ },
+ "tv:342742": {
+  "d": "Lipistic (2026) is a Drama TV series. Explore its story: A bride with secret and scars. A lipstick with power…, cast, 1 season, and 4 episodes.",
+  "img": "https://image.tmdb.org/t/p/w780/z0kgI6RPnH8RAC2UergPu8zYA3s.jpg",
+  "industry": "bollywood",
+  "k": "Lipistic, Lipistic TV series, Lipistic cast, Lipistic story, Lipistic seasons, Lipistic episodes, Lipistic season 1, Lipistic 4 episodes, Lipistic first air date, Lipistic Drama, Bollywood TV series, FlickAtlas",
+  "ld": {
+   "@context": "https://schema.org",
+   "@type": "TVSeries",
+   "actor": [
+    {
+     "@type": "Person",
+     "name": "Akanksha Puri"
+    },
+    {
+     "@type": "Person",
+     "name": "Gaurav Sharma"
+    },
+    {
+     "@type": "Person",
+     "name": "Shreya Kumari"
+    }
+   ],
+   "description": "Lipistic (2026) is a Drama TV series. Explore its story: A bride with secret and scars. A lipstick with power…, cast, 1 season, and 4 episodes.",
+   "director": [
+    {
+     "@type": "Person",
+     "name": "Manmeet Singh Sodhi"
+    }
+   ],
+   "genre": [
+    "Drama"
+   ],
+   "image": "https://image.tmdb.org/t/p/w780/z0kgI6RPnH8RAC2UergPu8zYA3s.jpg",
+   "mainEntityOfPage": "https://flickatlas.co.uk/show?id=342742",
+   "name": "Lipistic",
+   "numberOfEpisodes": 4,
+   "numberOfSeasons": 1,
+   "startDate": "2026-11-20",
+   "url": "https://flickatlas.co.uk/show?id=342742"
+  },
+  "modified": "",
+  "published": "2026-11-21",
+  "ssr": "<article class=\"ssr-facts\">\n<h1>Lipistic (2026)</h1>\n<p class=\"ssr-lead\">A bride with secret and scars. A lipstick with power that people would kill for. And a rich man with dark desire. When three worlds collide in this tale of love, lust and power, nobody can escape unscathed.</p>\n<h2>Key facts</h2>\n<ul><li>First air date: 20 November 2026</li><li>Seasons: 1 · Episodes: 4</li><li>Director: Manmeet Singh Sodhi</li><li>Genres: Drama</li><li>Status: Returning Series</li></ul>\n<h2>Top cast</h2>\n<ul><li>Akanksha Puri as Madhuri</li><li>Gaurav Sharma as Vijay</li><li>Shreya Kumari as Naina</li></ul>\n</article>",
+  "t": "Lipistic (2026) — Seasons, Episodes, Cast & Story | FlickAtlas",
   "year": "2026"
  },
  "tv:37854": {

@@ -26536,7 +26536,7 @@ window.FA_PUBLISHED = {
     "status": "Released",
     "providers": [],
     "release_date": "2026-11-20",
-    "popularity": 36.7912
+    "popularity": 36.2408
   },
   "1322273": {
     "id": 1322273,
@@ -26563,7 +26563,7 @@ window.FA_PUBLISHED = {
     "status": "Released",
     "providers": [],
     "release_date": "2026-11-20",
-    "popularity": 2.5602
+    "popularity": 4.738
   },
   "1824359": {
     "id": 1824359,
@@ -26590,7 +26590,7 @@ window.FA_PUBLISHED = {
     "status": "Released",
     "providers": [],
     "release_date": "2026-11-20",
-    "popularity": 0.1274
+    "popularity": 0.1155
   },
   "1381273": {
     "id": 1381273,
@@ -26648,7 +26648,7 @@ window.FA_PUBLISHED = {
     "status": "Post Production",
     "providers": [],
     "release_date": "2026-11-20",
-    "popularity": 1.5525
+    "popularity": 1.2823
   },
   "1808244": {
     "id": 1808244,
@@ -26675,7 +26675,7 @@ window.FA_PUBLISHED = {
     "status": "Released",
     "providers": [],
     "release_date": "2026-11-20",
-    "popularity": 0.8531
+    "popularity": 0.8276
   },
   "1824287": {
     "id": 1824287,
@@ -26769,7 +26769,7 @@ window.FA_PUBLISHED = {
     "status": "Released",
     "providers": [],
     "release_date": "2026-11-20",
-    "popularity": 2.2126
+    "popularity": 2.3115
   },
   "1823756": {
     "id": 1823756,
@@ -26796,7 +26796,7 @@ window.FA_PUBLISHED = {
     "status": "Released",
     "providers": [],
     "release_date": "2026-11-20",
-    "popularity": 0.4363
+    "popularity": 0.3745
   },
   "1543469": {
     "id": 1543469,
@@ -26857,7 +26857,7 @@ window.FA_PUBLISHED = {
     "status": "Released",
     "providers": [],
     "release_date": "2026-11-20",
-    "popularity": 1.6307
+    "popularity": 1.8412
   },
   "1823052": {
     "id": 1823052,
@@ -26921,7 +26921,7 @@ window.FA_PUBLISHED = {
     "backdrop_path": null,
     "vote_average": 0.0,
     "vote_count": 0,
-    "overview": "",
+    "overview": "Set in the enchanting world of Brindavanam, Brindavihari follows Madhava, a man who falls deeply in love with Radha, only to have his world turned upside down when she leaves. As Meera enters his life, Madhava is forced to confront the truth behind his world and the very nature of love itself.",
     "industry": "bollywood",
     "original_language": "kn",
     "origin_country": [
@@ -26938,7 +26938,7 @@ window.FA_PUBLISHED = {
     "status": "Released",
     "providers": [],
     "release_date": "2026-11-20",
-    "popularity": 0.6539
+    "popularity": 0.6757
   },
   "1822771": {
     "id": 1822771,
@@ -26965,7 +26965,7 @@ window.FA_PUBLISHED = {
     "status": "Released",
     "providers": [],
     "release_date": "2026-11-20",
-    "popularity": 0.2754
+    "popularity": 0.2655
   },
   "1127282": {
     "id": 1127282,
@@ -27018,7 +27018,7 @@ window.FA_PUBLISHED = {
     "status": "Released",
     "providers": [],
     "release_date": "2026-11-20",
-    "popularity": 0.3202
+    "popularity": 0.4862
   },
   "1248820": {
     "id": 1248820,
@@ -27278,7 +27278,7 @@ window.FA_PUBLISHED = {
     "status": "Released",
     "providers": [],
     "release_date": "2026-11-20",
-    "popularity": 0.3259
+    "popularity": 0.278
   },
   "1125822": {
     "id": 1125822,
@@ -27333,7 +27333,7 @@ window.FA_PUBLISHED = {
     "status": "Released",
     "providers": [],
     "release_date": "2026-11-20",
-    "popularity": 0.157
+    "popularity": 0.2773
   },
   "1544126": {
     "id": 1544126,
@@ -27387,7 +27387,7 @@ window.FA_PUBLISHED = {
     "status": "Released",
     "providers": [],
     "release_date": "2026-11-20",
-    "popularity": 0.4845
+    "popularity": 0.4877
   },
   "1613284": {
     "id": 1613284,
@@ -27445,7 +27445,7 @@ window.FA_PUBLISHED = {
     "status": "Released",
     "providers": [],
     "release_date": "2026-11-20",
-    "popularity": 0.1194
+    "popularity": 0.0837
   },
   "1551036": {
     "id": 1551036,
@@ -27497,7 +27497,7 @@ window.FA_PUBLISHED = {
     "status": "Released",
     "providers": [],
     "release_date": "2026-11-20",
-    "popularity": 0.1732
+    "popularity": 0.1937
   },
   "1058588": {
     "id": 1058588,
@@ -27556,7 +27556,7 @@ window.FA_PUBLISHED = {
     "status": "Released",
     "providers": [],
     "release_date": "2026-11-20",
-    "popularity": 0.1196
+    "popularity": 0.0721
   },
   "1814885": {
     "id": 1814885,
@@ -27584,7 +27584,7 @@ window.FA_PUBLISHED = {
     "status": "Released",
     "providers": [],
     "release_date": "2026-11-20",
-    "popularity": 0.312
+    "popularity": 0.2796
   },
   "1824536": {
     "id": 1824536,
@@ -27608,10 +27608,10 @@ window.FA_PUBLISHED = {
     "spoken_languages": [],
     "published_at": "2026-11-14",
     "date_kind": "festival",
-    "status": "In Production",
+    "status": "Released",
     "providers": [],
     "release_date": "2026-11-21",
-    "popularity": 0.0194
+    "popularity": 0.2451
   },
   "1716604": {
     "id": 1716604,
@@ -27665,10 +27665,10 @@ window.FA_PUBLISHED = {
     "spoken_languages": [],
     "published_at": "2026-11-14",
     "date_kind": "release",
-    "status": "In Production",
+    "status": "Released",
     "providers": [],
     "release_date": "2026-11-21",
-    "popularity": 0.3043
+    "popularity": 0.1919
   },
   "1778515": {
     "id": 1778515,
@@ -27717,10 +27717,10 @@ window.FA_PUBLISHED = {
     ],
     "published_at": "2026-11-14",
     "date_kind": "festival",
-    "status": "Post Production",
+    "status": "Released",
     "providers": [],
     "release_date": "2026-11-21",
-    "popularity": 0.2199
+    "popularity": 0.3119
   },
   "1776645": {
     "id": 1776645,
@@ -27783,7 +27783,7 @@ window.FA_PUBLISHED = {
     "status": "Released",
     "providers": [],
     "release_date": "2026-11-21",
-    "popularity": 0.1218
+    "popularity": 0.0869
   },
   "1707955": {
     "id": 1707955,
@@ -27834,10 +27834,10 @@ window.FA_PUBLISHED = {
     ],
     "published_at": "2026-11-14",
     "date_kind": "festival",
-    "status": "In Production",
+    "status": "Released",
     "providers": [],
     "release_date": "2026-11-21",
-    "popularity": 0.2555
+    "popularity": 0.4526
   },
   "1236857": {
     "id": 1236857,
@@ -27888,10 +27888,10 @@ window.FA_PUBLISHED = {
     ],
     "published_at": "2026-11-14",
     "date_kind": "festival",
-    "status": "In Production",
+    "status": "Released",
     "providers": [],
     "release_date": "2026-11-21",
-    "popularity": 0.1736
+    "popularity": 0.0816
   },
   "1535652": {
     "id": 1535652,
@@ -27938,10 +27938,10 @@ window.FA_PUBLISHED = {
     "spoken_languages": [],
     "published_at": "2026-11-14",
     "date_kind": "festival",
-    "status": "In Production",
+    "status": "Released",
     "providers": [],
     "release_date": "2026-11-21",
-    "popularity": 0.2311
+    "popularity": 0.1556
   },
   "1506401": {
     "id": 1506401,
@@ -27975,7 +27975,7 @@ window.FA_PUBLISHED = {
     "type": "movie",
     "title": "BTS WORLD TOUR 'ARIRANG' IN KAOHSIUNG: LIVE VIEWING",
     "poster_path": "/kbwAR849GqMmZs01Uwm5MXL6CWd.jpg",
-    "backdrop_path": null,
+    "backdrop_path": "/aYjogDhuege2grxfxnNu9NDOqPA.jpg",
     "vote_average": 0.0,
     "vote_count": 0,
     "overview": "The record-breaking journey continues as BTS’s history-making tour across Asia makes its way to the big screen. Join the roar of the crowds in Kaohsiung in November and experience the breathtaking performances and electrifying energy of BTS’s stadium tour. Don't miss your chance to witness BTS WORLD TOUR 'ARIRANG' in all its glory in cinemas worldwide.",
@@ -27988,10 +27988,10 @@ window.FA_PUBLISHED = {
     "spoken_languages": [],
     "published_at": "2026-11-14",
     "date_kind": "release",
-    "status": "In Production",
+    "status": "Released",
     "providers": [],
     "release_date": "2026-11-21",
-    "popularity": 0.4434
+    "popularity": 1.0538
   },
   "1695819": {
     "id": 1695819,
@@ -28045,10 +28045,10 @@ window.FA_PUBLISHED = {
     "spoken_languages": [],
     "published_at": "2026-11-14",
     "date_kind": "festival",
-    "status": "In Production",
+    "status": "Released",
     "providers": [],
     "release_date": "2026-11-21",
-    "popularity": 0.167
+    "popularity": 0.3249
   },
   "1723882": {
     "id": 1723882,
@@ -28095,10 +28095,10 @@ window.FA_PUBLISHED = {
     "spoken_languages": [],
     "published_at": "2026-11-14",
     "date_kind": "release",
-    "status": "Post Production",
+    "status": "Released",
     "providers": [],
     "release_date": "2026-11-21",
-    "popularity": 0.1383
+    "popularity": 0.1385
   },
   "1716213": {
     "id": 1716213,
@@ -28206,10 +28206,10 @@ window.FA_PUBLISHED = {
     "spoken_languages": [],
     "published_at": "2026-11-14",
     "date_kind": "festival",
-    "status": "In Production",
+    "status": "Released",
     "providers": [],
     "release_date": "2026-11-21",
-    "popularity": 0.2291
+    "popularity": 0.356
   },
   "1823907": {
     "id": 1823907,
@@ -28283,10 +28283,10 @@ window.FA_PUBLISHED = {
     "spoken_languages": [],
     "published_at": "2026-11-14",
     "date_kind": "festival",
-    "status": "In Production",
+    "status": "Released",
     "providers": [],
     "release_date": "2026-11-21",
-    "popularity": 0.2458
+    "popularity": 0.1306
   },
   "1374853": {
     "id": 1374853,
@@ -28334,10 +28334,10 @@ window.FA_PUBLISHED = {
     "spoken_languages": [],
     "published_at": "2026-11-14",
     "date_kind": "festival",
-    "status": "In Production",
+    "status": "Released",
     "providers": [],
     "release_date": "2026-11-21",
-    "popularity": 0.297
+    "popularity": 0.1545
   },
   "1545966": {
     "id": 1545966,
@@ -28386,10 +28386,10 @@ window.FA_PUBLISHED = {
     ],
     "published_at": "2026-11-14",
     "date_kind": "festival",
-    "status": "In Production",
+    "status": "Released",
     "providers": [],
     "release_date": "2026-11-21",
-    "popularity": 0.341
+    "popularity": 0.2782
   },
   "1738379": {
     "id": 1738379,
@@ -28436,10 +28436,10 @@ window.FA_PUBLISHED = {
     "spoken_languages": [],
     "published_at": "2026-11-14",
     "date_kind": "festival",
-    "status": "In Production",
+    "status": "Released",
     "providers": [],
     "release_date": "2026-11-21",
-    "popularity": 0.1312
+    "popularity": 0.153
   },
   "1580582": {
     "id": 1580582,
@@ -28488,10 +28488,10 @@ window.FA_PUBLISHED = {
     "spoken_languages": [],
     "published_at": "2026-11-14",
     "date_kind": "festival",
-    "status": "In Production",
+    "status": "Released",
     "providers": [],
     "release_date": "2026-11-21",
-    "popularity": 0.2513
+    "popularity": 0.2755
   },
   "1429602": {
     "id": 1429602,
@@ -28538,10 +28538,10 @@ window.FA_PUBLISHED = {
     "spoken_languages": [],
     "published_at": "2026-11-14",
     "date_kind": "festival",
-    "status": "In Production",
+    "status": "Released",
     "providers": [],
     "release_date": "2026-11-21",
-    "popularity": 0.0721
+    "popularity": 0.0313
   },
   "1049439": {
     "id": 1049439,
@@ -28590,10 +28590,10 @@ window.FA_PUBLISHED = {
     "spoken_languages": [],
     "published_at": "2026-11-14",
     "date_kind": "festival",
-    "status": "In Production",
+    "status": "Released",
     "providers": [],
     "release_date": "2026-11-21",
-    "popularity": 0.4034
+    "popularity": 0.1382
   },
   "1387504": {
     "id": 1387504,
@@ -28642,10 +28642,10 @@ window.FA_PUBLISHED = {
     "spoken_languages": [],
     "published_at": "2026-11-14",
     "date_kind": "festival",
-    "status": "In Production",
+    "status": "Released",
     "providers": [],
     "release_date": "2026-11-21",
-    "popularity": 0.8704
+    "popularity": 0.3362
   },
   "1826011": {
     "id": 1826011,
@@ -33504,7 +33504,7 @@ window.FA_PUBLISHED = {
     "status": "Returning Series",
     "providers": [],
     "first_air_date": "2026-11-21",
-    "popularity": 0.3622
+    "popularity": 0.1934
   },
   "340280": {
     "id": 340280,
@@ -33954,7 +33954,7 @@ window.FA_PUBLISHED = {
     "status": "Released",
     "providers": [],
     "release_date": "2026-11-20",
-    "popularity": 0.8562
+    "popularity": 0.7935
   },
   "342646": {
     "id": 342646,
@@ -34067,7 +34067,9 @@ window.FA_PUBLISHED = {
     "industry": "world",
     "original_language": "en",
     "origin_country": [
-      "US"
+      "US",
+      "DE",
+      "CA"
     ],
     "production_countries": [
       "US",
@@ -34082,7 +34084,7 @@ window.FA_PUBLISHED = {
     "status": "Released",
     "providers": [],
     "release_date": "2026-11-20",
-    "popularity": 18.0382
+    "popularity": 9.2561
   },
   "1568060": {
     "id": 1568060,
@@ -34090,9 +34092,9 @@ window.FA_PUBLISHED = {
     "title": "Perfect Liars",
     "poster_path": "/kej8EipJOvfHUHFg5wtT7gQ6bNb.jpg",
     "backdrop_path": "/OiXyM1w9NxdV450GpV92B0YPMj.jpg",
-    "vote_average": 0.0,
-    "vote_count": 0,
-    "overview": "Jude Derry arrives at the exclusive Tagus university with a hidden mission: to infiltrate the circle of the Cash brothers and uncover the truth about her brother's death. What begins as revenge turns into a dangerous triangle of seduction, forbidden attraction and lies, drawing her toward a truth she may not be ready to face. Based on the novel by Alex Mirez.",
+    "vote_average": 6.7,
+    "vote_count": 9,
+    "overview": "Jude Derry arrives at the exclusive Tagus university with a hidden mission: to infiltrate the circle of the Cash brothers and uncover the truth about her brother's death. What begins as revenge turns into a dangerous triangle of seduction, forbidden attraction and lies, drawing her toward a truth she may not be ready to face.",
     "industry": "world",
     "original_language": "es",
     "origin_country": [
@@ -34108,7 +34110,7 @@ window.FA_PUBLISHED = {
     ],
     "published_at": "2026-11-20",
     "date_kind": "release",
-    "status": "Post Production",
+    "status": "Released",
     "providers": [
       {
         "name": "Amazon Prime Video",
@@ -34124,7 +34126,7 @@ window.FA_PUBLISHED = {
       }
     ],
     "release_date": "2026-11-20",
-    "popularity": 6.4281
+    "popularity": 63.3375
   },
   "1827989": {
     "id": 1827989,
@@ -34207,11 +34209,11 @@ window.FA_PUBLISHED = {
     "id": 1595124,
     "type": "movie",
     "title": "Steps",
-    "poster_path": "/c7eHnRXLK86sdCuq0rnZgp7GvS5.jpg",
+    "poster_path": "/jtfCcWZ3ZyKdgi0u7JVOxEOSSJP.jpg",
     "backdrop_path": "/g1bEboMx1a8JCg1jXeDCh24RtgW.jpg",
-    "vote_average": 0.0,
-    "vote_count": 0,
-    "overview": "Think you know Cinderella's 'evil' stepsisters? Think again! When misunderstood Lilith is blamed for hijacking the Royal Ball with a stolen magic wand, she accidentally turns her sister Margot into a frog and leaves the kingdom in the hands of a prince-obsessed mean girl. Now Lilith must team up with Cinderella — and a surprisingly dreamy troll — to save the kingdom, repair the fractured fairytale, and prove that even so-called villains deserve a shot at happily-ever-after.",
+    "vote_average": 7.889,
+    "vote_count": 9,
+    "overview": "After being blamed for disrupting the Royal Ball with a stolen magic wand, a misunderstood stepsister accidentally turns her sister into a frog and must team up with Cinderella and an unlikely ally to save the kingdom and rewrite their fairytale ending.",
     "industry": "world",
     "original_language": "en",
     "origin_country": [
@@ -34229,7 +34231,7 @@ window.FA_PUBLISHED = {
     "status": "Released",
     "providers": [],
     "release_date": "2026-11-20",
-    "popularity": 6.9544
+    "popularity": 50.8216
   },
   "1728047": {
     "id": 1728047,
@@ -34469,7 +34471,7 @@ window.FA_PUBLISHED = {
     "status": "Released",
     "providers": [],
     "release_date": "2026-11-20",
-    "popularity": 1.7385
+    "popularity": 1.5413
   },
   "1828255": {
     "id": 1828255,
@@ -34519,7 +34521,7 @@ window.FA_PUBLISHED = {
     "status": "Released",
     "providers": [],
     "release_date": "2026-11-20",
-    "popularity": 1.927
+    "popularity": 2.1352
   },
   "339362": {
     "id": 339362,
@@ -34570,7 +34572,7 @@ window.FA_PUBLISHED = {
     "status": "Ended",
     "providers": [],
     "first_air_date": "2026-11-20",
-    "popularity": 6.3761
+    "popularity": 41.2699
   },
   "1510775": {
     "id": 1510775,
@@ -34997,5 +34999,529 @@ window.FA_PUBLISHED = {
     "providers": [],
     "release_date": "2026-11-18",
     "popularity": 3.1698
+  },
+  "342742": {
+    "id": 342742,
+    "type": "tv",
+    "title": "Lipistic",
+    "poster_path": "/1v1j1ivjQk244MgNDZy2iBoggGX.jpg",
+    "backdrop_path": "/z0kgI6RPnH8RAC2UergPu8zYA3s.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "A bride with secret and scars. A lipstick with power that people would kill for. And a rich man with dark desire. When three worlds collide in this tale of love, lust and power, nobody can escape unscathed.",
+    "industry": "bollywood",
+    "original_language": "hi",
+    "origin_country": [
+      "IN"
+    ],
+    "production_countries": [],
+    "spoken_languages": [
+      "hi"
+    ],
+    "published_at": "2026-11-21",
+    "status": "Returning Series",
+    "providers": [],
+    "first_air_date": "2026-11-20",
+    "popularity": 0.0582
+  },
+  "1400336": {
+    "id": 1400336,
+    "type": "movie",
+    "title": "Focker In-Law",
+    "poster_path": "/iHJhSfqFpDMOyeMc6h6BOeHxse2.jpg",
+    "backdrop_path": "/1zcCFBcqEQtAtXDh6EoBPy16RLR.jpg",
+    "vote_average": 7.0,
+    "vote_count": 2,
+    "overview": "Henry, son of Greg and Pam Focker, aims to marry Olivia, a strong-willed former hostage negotiator who appears to be his complete mismatch. To Greg's shock, stepdad Jack Byrnes takes a liking to Olivia, and her unprecedented rise into his Circle of Trust sparks chaos in the family before Jack's 80th birthday party.",
+    "industry": "world",
+    "original_language": "en",
+    "origin_country": [
+      "US"
+    ],
+    "production_countries": [
+      "US"
+    ],
+    "spoken_languages": [
+      "en"
+    ],
+    "published_at": "2026-11-21",
+    "date_kind": "release",
+    "status": "Released",
+    "providers": [],
+    "release_date": "2026-11-25",
+    "popularity": 38.8212
+  },
+  "1827056": {
+    "id": 1827056,
+    "type": "movie",
+    "title": "Maaya Oviyan",
+    "poster_path": "/LDWB8Fi60jcKKenbYI1BKccvKb.jpg",
+    "backdrop_path": "/d3XwTdOmPFcgzYZiCuvwdfLhpI6.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "A street artist’s life takes an unexpected turn when his artwork comes to life, leading him on an emotional journey filled with mystery, love, and hidden memories.",
+    "industry": "bollywood",
+    "original_language": "ta",
+    "origin_country": [
+      "MY"
+    ],
+    "production_countries": [],
+    "spoken_languages": [
+      "ta"
+    ],
+    "published_at": "2026-11-21",
+    "date_kind": "release",
+    "status": "Released",
+    "providers": [],
+    "release_date": "2026-11-14",
+    "popularity": 0.8259
+  },
+  "1833166": {
+    "id": 1833166,
+    "type": "movie",
+    "title": "Jeanfi Janssens - Tombé du ciel",
+    "poster_path": "/fHzCuRyvfjQVkNtkCO2kbMJL20S.jpg",
+    "backdrop_path": "/zme00qR9FeRO6MmBn34GStjhxOZ.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "",
+    "industry": "world",
+    "original_language": "fr",
+    "origin_country": [
+      "FR"
+    ],
+    "production_countries": [
+      "FR"
+    ],
+    "spoken_languages": [
+      "fr"
+    ],
+    "published_at": "2026-11-21",
+    "date_kind": "release",
+    "status": "Post Production",
+    "providers": [],
+    "release_date": "2026-11-28",
+    "popularity": 0.0194
+  },
+  "1814779": {
+    "id": 1814779,
+    "type": "movie",
+    "title": "Love on the Vineyard",
+    "poster_path": "/sfyZUXD15yA59qKGZ9w998FNlrq.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "Jordan Wilson, a D.C. real estate executive who returns to Martha’s Vineyard and reconnects with her former summer love while fighting to save a historic Oak Bluffs inn.",
+    "industry": "world",
+    "original_language": "en",
+    "origin_country": [
+      "US"
+    ],
+    "production_countries": [],
+    "spoken_languages": [
+      "en"
+    ],
+    "published_at": "2026-11-21",
+    "date_kind": "festival",
+    "status": "Released",
+    "providers": [],
+    "release_date": "2026-11-21",
+    "popularity": 1.4574
+  },
+  "1826465": {
+    "id": 1826465,
+    "type": "movie",
+    "title": "Jayannth & The Jingo Pen",
+    "poster_path": "/937JWlf23XogbNXr8bfUS2dzJZ.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "JAYANNTH and THE JINGO PEN is a heartwarming Telugu family entertainer celebrating childhood, imagination, friendship, and family values.The film follows Jayannth, a mischievous schoolboy who fears mathematics and uses clever tricks to escape homework and his strict Maths Teacher",
+    "industry": "bollywood",
+    "original_language": "te",
+    "origin_country": [
+      "IN"
+    ],
+    "production_countries": [],
+    "spoken_languages": [],
+    "published_at": "2026-11-21",
+    "date_kind": "release",
+    "status": "Released",
+    "providers": [],
+    "release_date": "2026-11-14",
+    "popularity": 0.8641
+  },
+  "1832975": {
+    "id": 1832975,
+    "type": "movie",
+    "title": "Demain La Havane",
+    "poster_path": "/sNgaGHUoWsZ2cdT15dpkJhVUn2Q.jpg",
+    "backdrop_path": "/6Yjc9qxr1MwREitaaKHZwn6Zuvo.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "",
+    "industry": "world",
+    "original_language": "fr",
+    "origin_country": [
+      "FR"
+    ],
+    "production_countries": [
+      "FR"
+    ],
+    "spoken_languages": [
+      "fr",
+      "es"
+    ],
+    "published_at": "2026-11-21",
+    "date_kind": "release",
+    "status": "Post Production",
+    "providers": [],
+    "release_date": "2026-11-28",
+    "popularity": 0
+  },
+  "1608012": {
+    "id": 1608012,
+    "type": "movie",
+    "title": "Aşk Tesadüfleri Sever 3",
+    "poster_path": "/7yUyo0Z0DMuCDYn7Mrkug40UmuT.jpg",
+    "backdrop_path": "/k7AFQ8riD1FPEsmPIXcaT6hbWyh.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "",
+    "industry": "world",
+    "original_language": "tr",
+    "origin_country": [
+      "TR"
+    ],
+    "production_countries": [
+      "TR"
+    ],
+    "spoken_languages": [
+      "tr"
+    ],
+    "published_at": "2026-11-21",
+    "date_kind": "release",
+    "status": "Released",
+    "providers": [],
+    "release_date": "2026-11-20",
+    "popularity": 3.0219
+  },
+  "1829240": {
+    "id": 1829240,
+    "type": "movie",
+    "title": "Contra",
+    "poster_path": "/uDRoX2jmwcROgXQb5Yl99USyoW8.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "A coincidence brings together the paths of a young policewoman and a father fighting for contact with his son, setting in motion a chain of events that spirals into a destructive process, exposing the impossibility of understanding between people. In just one night, their lives are irreversibly altered, confronting them with violence, helplessness, and moral choices from which there is no escape.",
+    "industry": "world",
+    "original_language": "pl",
+    "origin_country": [
+      "PL"
+    ],
+    "production_countries": [
+      "PL"
+    ],
+    "spoken_languages": [
+      "pl"
+    ],
+    "published_at": "2026-11-21",
+    "date_kind": "festival",
+    "status": "Post Production",
+    "providers": [],
+    "release_date": "2026-11-28",
+    "popularity": 0.2856
+  },
+  "1596276": {
+    "id": 1596276,
+    "type": "movie",
+    "title": "To Hold a Mountain",
+    "poster_path": "/pdfOMNE7uXZ2BRoO0xwDQlwd4U.jpg",
+    "backdrop_path": "/fgTEyr4hpdEXdsnzZOssqQtipTj.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "In the remote highlands of Montenegro, a shepherd mother and daughter proudly defend their ancestral mountain from the threat of becoming a NATO military training ground, stirring memories of the violence that shattered their family.",
+    "industry": "world",
+    "original_language": "sr",
+    "origin_country": [
+      "HR",
+      "FR",
+      "ME",
+      "RS",
+      "SI"
+    ],
+    "production_countries": [
+      "RS",
+      "FR",
+      "ME",
+      "SI",
+      "HR",
+      "BE"
+    ],
+    "spoken_languages": [
+      "sr"
+    ],
+    "published_at": "2026-11-21",
+    "date_kind": "release",
+    "status": "Released",
+    "providers": [],
+    "release_date": "2026-11-20",
+    "popularity": 1.5126
+  },
+  "1829062": {
+    "id": 1829062,
+    "type": "movie",
+    "title": "Gestation",
+    "poster_path": "/2yEWaISadeAr1nR70iawFWnEZlR.jpg",
+    "backdrop_path": "/9TUGmEPKZcH83TwO9AQkquCe2AX.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "A young woman struggling to get pregnant turns to an ancient witchcraft ritual. From that moment on, she is stalked by a mysterious entity. A story where everyday life turns into witchcraft.",
+    "industry": "world",
+    "original_language": "en",
+    "origin_country": [
+      "ES"
+    ],
+    "production_countries": [
+      "ES"
+    ],
+    "spoken_languages": [
+      "en"
+    ],
+    "published_at": "2026-11-21",
+    "date_kind": "release",
+    "status": "In Production",
+    "providers": [],
+    "release_date": "2026-11-28",
+    "popularity": 0.2473
+  },
+  "1550356": {
+    "id": 1550356,
+    "type": "movie",
+    "title": "El Director",
+    "poster_path": "/9FKhEtXhX2Omvc7kVcjvDYk8DWG.jpg",
+    "backdrop_path": "/2hDvcWbWaCOkh8bwrVl0w6FJNog.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "War correspondent David Jiménez becomes editor of El Mundo newspaper and discovers hidden deals with elites while pushing digital changes. His fight for editorial independence leads to his removal after a year.",
+    "industry": "world",
+    "original_language": "es",
+    "origin_country": [
+      "ES"
+    ],
+    "production_countries": [
+      "ES"
+    ],
+    "spoken_languages": [
+      "es"
+    ],
+    "published_at": "2026-11-21",
+    "date_kind": "release",
+    "status": "Released",
+    "providers": [],
+    "release_date": "2026-11-20",
+    "popularity": 1.3206
+  },
+  "1828710": {
+    "id": 1828710,
+    "type": "movie",
+    "title": "The Odds",
+    "poster_path": "/fqUBDlfhdLiWnhmtr3IltUDRzW2.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "",
+    "industry": "world",
+    "original_language": "id",
+    "origin_country": [
+      "ID"
+    ],
+    "production_countries": [],
+    "spoken_languages": [],
+    "published_at": "2026-11-21",
+    "date_kind": "release",
+    "status": "In Production",
+    "providers": [],
+    "release_date": "2026-11-28",
+    "popularity": 0.0838
+  },
+  "1684294": {
+    "id": 1684294,
+    "type": "movie",
+    "title": "Three Generations, One Christmas",
+    "poster_path": "/z7q3dah78by61ufMSaF0tqlZqUq.jpg",
+    "backdrop_path": "/4SaOeGPnXblIq22xVMnf9KXDr5v.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "Set in a close-knit American town, The Starlight is a beloved local supper club and longtime community gathering place where generations have gathered to celebrate music, family, and Christmas traditions. Frank—a legendary song-and-dance man—prepares to sell the family’s beloved restaurant lounge after 40 years. With the future of The Starlight in question, three generations of family are drawn into an emotional journey that reminds them what is worth preserving — and how faith, family, and home can quietly lead us back to where we belong.",
+    "industry": "world",
+    "original_language": "en",
+    "origin_country": [
+      "US"
+    ],
+    "production_countries": [
+      "US"
+    ],
+    "spoken_languages": [
+      "en"
+    ],
+    "published_at": "2026-11-21",
+    "date_kind": "release",
+    "status": "Released",
+    "providers": [
+      {
+        "name": "Pure Flix",
+        "logo_path": "/qAccuffS0YOegynkbRchQeBrw7W.png",
+        "region": "US",
+        "type": "flatrate"
+      },
+      {
+        "name": "Great American Pure Flix Amazon Channel",
+        "logo_path": "/jQJseCPOtpMj1f5WWhXSSMOEdwG.png",
+        "region": "US",
+        "type": "flatrate"
+      }
+    ],
+    "release_date": "2026-11-19",
+    "popularity": 2.7207
+  },
+  "1827049": {
+    "id": 1827049,
+    "type": "movie",
+    "title": "Giles Foreman (Ambassador for the Truth of What's Occurin')",
+    "poster_path": "/xiLgtVyIogdyL1Ri8jDUu3r2Y8h.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "Giles Foreman, an aspiring journalist, sets out to speak with the manager of Peterson and Sons, a local estate agents, to find out about his views on employing young people.",
+    "industry": "world",
+    "original_language": "en",
+    "origin_country": [
+      "US"
+    ],
+    "production_countries": [],
+    "spoken_languages": [],
+    "published_at": "2026-11-21",
+    "date_kind": "festival",
+    "status": "In Production",
+    "providers": [],
+    "release_date": "2026-11-28",
+    "popularity": 0.1488
+  },
+  "1804968": {
+    "id": 1804968,
+    "type": "movie",
+    "title": "The Pursuit: F1 ACADEMY",
+    "poster_path": "/uVTEtFV01czYnVziWoR1QfoW9Wu.jpg",
+    "backdrop_path": null,
+    "vote_average": 1.0,
+    "vote_count": 1,
+    "overview": "Offering unparalleled behind-the-scenes access to the 2025 F1 ACADEMY season, follow a group of elite female drivers, including Doriane Pin, Maya Weug, Chloe Chambers and Alisha Palmowski, as they navigate the pressures of competition and the personal sacrifices required to break into one of the most demanding sports in the world.",
+    "industry": "world",
+    "original_language": "en",
+    "origin_country": [
+      "US"
+    ],
+    "production_countries": [
+      "US"
+    ],
+    "spoken_languages": [
+      "en"
+    ],
+    "published_at": "2026-11-21",
+    "date_kind": "release",
+    "status": "Released",
+    "providers": [
+      {
+        "name": "Disney Plus",
+        "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+        "region": "US",
+        "type": "flatrate"
+      }
+    ],
+    "release_date": "2026-11-19",
+    "popularity": 2.2612
+  },
+  "1826747": {
+    "id": 1826747,
+    "type": "movie",
+    "title": "Intersection",
+    "poster_path": "/d751x8sduLXuTyOuNTVrMLFlcZq.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "This documentary tells the story of how Shamshi Kaldayakov and Zhumeken Nazhimedenov wrote a song 50 years ago that became great.",
+    "industry": "world",
+    "original_language": "en",
+    "origin_country": [
+      "KZ"
+    ],
+    "production_countries": [
+      "KZ"
+    ],
+    "spoken_languages": [
+      "kk"
+    ],
+    "published_at": "2026-11-21",
+    "date_kind": "release",
+    "status": "Post Production",
+    "providers": [],
+    "release_date": "2026-11-28",
+    "popularity": 0.3343
+  },
+  "1625344": {
+    "id": 1625344,
+    "type": "movie",
+    "title": "The Rainbow Fish",
+    "poster_path": "/gjrX5FooRmMT3BXd3woiO67qp6p.jpg",
+    "backdrop_path": "/1LYC3PvCmGoL5Ir6MM2GglquHOa.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "The rainbow fish, an outsider obsessed with his glittering scales, learns the power of friendship on an adventurous sea voyage with the little blue fish. He finds his place in a colorful fish community—and realizes that sharing brings people together.",
+    "industry": "world",
+    "original_language": "de",
+    "origin_country": [
+      "DE",
+      "CH"
+    ],
+    "production_countries": [
+      "DE",
+      "CH"
+    ],
+    "spoken_languages": [
+      "de"
+    ],
+    "published_at": "2026-11-21",
+    "date_kind": "release",
+    "status": "Released",
+    "providers": [],
+    "release_date": "2026-11-19",
+    "popularity": 1.6377
+  },
+  "1823376": {
+    "id": 1823376,
+    "type": "movie",
+    "title": "La Voz en La Estática",
+    "poster_path": "/m9Hx8W4iHVyvrsZyAzP6CjIczpG.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "",
+    "industry": "world",
+    "original_language": "es",
+    "origin_country": [
+      "CL"
+    ],
+    "production_countries": [],
+    "spoken_languages": [
+      "es"
+    ],
+    "published_at": "2026-11-21",
+    "date_kind": "release",
+    "status": "In Production",
+    "providers": [],
+    "release_date": "2026-11-28",
+    "popularity": 0.0919
   }
 };

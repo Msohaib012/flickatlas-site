@@ -207582,5 +207582,406 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Sat, 21 Nov 2026 05:23:12 GMT"
+  },
+  "7tk3ll": {
+    "id": "7tk3ll",
+    "type": "news",
+    "headline": "The Hunger Games: Sunrise On The Reaping Secures Massive Preview Haul At North American Box Office",
+    "dek": "The franchise installment dominates early ticket sales, clinching major records and outpacing several notable 2026 releases in North America.",
+    "body": [
+      {
+        "h": "Introduction To The Preview Success",
+        "p": [
+          "The Hunger Games: Sunrise on the Reaping has made a stellar entrance at the North American box office. Powered by immense anticipation from fans, the movie secured an impressive opening through early ticket sales.",
+          "This initial triumph sets a strong foundation for the film's theatrical run. Industry analysts have closely tracked these numbers as a primary indicator of the franchise's enduring popularity."
+        ]
+      },
+      {
+        "h": "Breakdown Of The Preview Earnings",
+        "p": [
+          "According to the latest reports, the feature pulled in a solid $21 million from combined Wednesday and Thursday previews across North America. This robust figure highlights the heavy demand for tickets prior to the official weekend launch.",
+          "Such a strong start places the film in an elite category of early earners for the year. The preview figures surpassed initial expectations set by industry trackers."
+        ]
+      },
+      {
+        "h": "Surpassing 2026 Competitors",
+        "p": [
+          "The preview haul successfully outpaced several prominent contenders in the market. Notably, it bypassed the preview collections of other 2026 blockbusters like The Odyssey and Michael.",
+          "By beating these rivals, the film locked in the second-biggest preview haul of 2026. It now sits just behind Spider-Man: Brand New Day in that specific yearly ranking."
+        ]
+      },
+      {
+        "h": "Milestones For The Studio And Franchise",
+        "p": [
+          "For Lionsgate, this preview performance marks a significant company milestone. It stands as the studio's largest preview haul since The Hunger Games: Catching Fire achieved $25 million back in 2013.",
+          "Furthermore, the earnings dwarf those of its predecessor. The collection is almost four times greater than the $5.8 million preview earned by The Hunger Games: Ballad of Songbirds and Snakes."
+        ]
+      },
+      {
+        "h": "All-Time And Seasonal Rankings",
+        "p": [
+          "Beyond current-year comparisons, the movie carved out space in all-time record lists. It topped the preview hauls of Suicide Squad and Captain Marvel to secure the thirty-second spot for all-time preview earnings in North America.",
+          "In the category of November releases, it registered the seventh-biggest preview haul ever. It outperformed Wicked, which previously held a lower preview figure of $19.2 million."
+        ]
+      },
+      {
+        "h": "Opening Weekend Projections",
+        "p": [
+          "Current box office tracking points toward a massive three-day opening weekend. Projections indicate the film is on track to earn between $100 million and $120 million domestically.",
+          "Hitting this projected range would make it the fifth movie in 2026 to cross the $100 million opening mark. The film was released on November 20 under the direction of Francis Lawrence."
+        ]
+      },
+      {
+        "h": "Cast And Production Context",
+        "p": [
+          "The film features performances from Joseph Zada and Mckenna Grace in leading roles. Their involvement has been central to the marketing and audience draw for this chapter of the dystopian series.",
+          "Director Francis Lawrence helmed the project, bringing further continuity to the cinematic universe. Estimates and various sources continue to provide updates as the full weekend figures develop."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "The Hunger Games: Sunrise on the Reaping achieved the second-biggest preview haul of 2026 in North America with $21 million from Wednesday and Thursday screenings. Directed by Francis Lawrence and starring Joseph Zada and Mckenna Grace, the film surpassed competitors like The Odyssey and Michael while setting a new high for Lionsgate."
+        ]
+      }
+    ],
+    "facts": [
+      "The Hunger Games: Sunrise on the Reaping earned $21 million from Wednesday and Thursday previews in North America.",
+      "The film surpassed The Odyssey preview haul of $17.6 million and Michael's $12.6 million.",
+      "It is Lionsgate's biggest preview since The Hunger Games: Catching Fire earned $25 million in 2013.",
+      "The preview collection is nearly 4x that of The Hunger Games: Ballad of Songbirds and Snakes, which earned $5.8 million.",
+      "The film is projected to earn between $100 million and $120 million over its three-day opening weekend.",
+      "The movie was released on November 20 and is directed by Francis Lawrence, starring Joseph Zada and Mckenna Grace."
+    ],
+    "entities": {
+      "people": [
+        "Joseph Zada",
+        "Mckenna Grace",
+        "Francis Lawrence"
+      ],
+      "titles": [
+        "The Hunger Games: Sunrise on the Reaping",
+        "Michael",
+        "The Odyssey",
+        "Spider-Man: Brand New Day",
+        "The Hunger Games: Catching Fire",
+        "Suicide Squad",
+        "Captain Marvel",
+        "Wicked",
+        "The Hunger Games: Ballad of Songbirds and Snakes"
+      ]
+    },
+    "keywords": [
+      "The Hunger Games Sunrise on the Reaping",
+      "Sunrise on the Reaping box office",
+      "Joseph Zada Mckenna Grace",
+      "Francis Lawrence film"
+    ],
+    "images": [
+      {
+        "url": "https://www.koimoi.com/wp-content/new-galleries/2026/11/the-hunger-games-sunrise-on-the-reaping-north-america-box-office-beats-two-2026-blockbusters-to-claim-the-years-2nd-biggest-preview-01.jpg",
+        "caption": "The Hunger Games: Sunrise On The Reaping Secures Massive Preview Haul At North American Box Office",
+        "source": "Koimoi"
+      }
+    ],
+    "published": "Sat, 21 Nov 2026 05:46:50 +0000"
+  },
+  "ve8j8g": {
+    "id": "ve8j8g",
+    "type": "news",
+    "headline": "Macaulay Culkin May Return for a New Home Alone Sequel with Seth Rogen and Evan Goldberg",
+    "dek": "Disney is reportedly developing a new entry in the classic holiday comedy franchise, with the original star collaborating on the script.",
+    "body": [
+      {
+        "h": "A Potential Return to the Franchise",
+        "p": [
+          "Reports indicate that a fresh chapter in the long-running holiday comedy series is currently in development at Disney. The project would see the return of its original child star, who has recently begun to embrace his iconic character again through various promotional appearances and live events.",
+          "If the project successfully secures a green light, it would mark the actor's first time stepping back into the movie franchise since the second installment debuted in theaters back in 1993."
+        ]
+      },
+      {
+        "h": "Collaboration on the Script",
+        "p": [
+          "Industry tracking suggests that the lead actor is actively working alongside noted filmmakers Seth Rogen and Evan Goldberg to shape the screenplay for this prospective new motion picture.",
+          "While specific plot points and project details remain under wraps, this creative team-up brings a distinct comedic pedigree to the development stage of the film."
+        ]
+      },
+      {
+        "h": "Past Ideas for Kevin McCallister",
+        "p": [
+          "In late 2025, the actor expressed a willingness to revisit his signature role under specific creative conditions. His personal pitch involved an older version of the character now navigating parenthood.",
+          "According to that conceptual framework, the grown protagonist would find himself locked out of his home, facing elaborate traps set by his own son in a reversal of the classic dynamics."
+        ]
+      },
+      {
+        "h": "Uncertainty Surrounding the Plot",
+        "p": [
+          "It remains entirely unconfirmed whether the actor's specific storyline involving a mischievous child is the actual narrative direction being pursued by the writing team.",
+          "Alternatively, the creative duo of Rogen and Goldberg may have elected to construct an entirely separate storyline for the prospective franchise continuation."
+        ]
+      },
+      {
+        "h": "Franchise Context and Recent History",
+        "p": [
+          "Any new cinematic installment would arrive at a time when the broader property has experienced significant critical and commercial decline in recent years.",
+          "The sixth movie in the series, titled Home Sweet Home Alone, received overwhelmingly negative reviews and gained little traction when it premiered directly on the Disney+ streaming platform in 2021."
+        ]
+      },
+      {
+        "h": "Recent Appearances as the Character",
+        "p": [
+          "In the decades following his last theatrical appearance in the franchise, the actor briefly voiced his famous character on an episode of Robot Chicken.",
+          "More recently, he slipped back into the role for a fast-food holiday advertising campaign designed to promote festive promotional meals."
+        ]
+      },
+      {
+        "h": "Skepticism and Industry Speculation",
+        "p": [
+          "Despite the active reports from entertainment outlets, some industry observers suggest tempering expectations until official production confirmations arrive.",
+          "Past patterns from the creative team indicate that real-world entertainment developments sometimes serve as fictional fodder for television series rather than actual motion pictures."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Disney is currently developing a potential Home Alone sequel that could feature Macaulay Culkin collaborating on the script alongside Seth Rogen and Evan Goldberg. While details remain scarce and it is uncertain which plot ideas are being used, the project comes as the franchise looks to bounce back from the panned 2021 Disney+ release."
+        ]
+      }
+    ],
+    "facts": [
+      "Macaulay Culkin attended the premiere of Netflix's Running Point Season 2 on April 15, 2026",
+      "Variety reported that Disney is developing a Home Alone sequel with Culkin, Seth Rogen, and Evan Goldberg",
+      "Culkin's last Home Alone film was 1993's Lost in New York",
+      "In November 2025, Culkin expressed openness to reprising his role as a father locked out by his son",
+      "The sixth film in the franchise, Home Sweet Home Alone, was released on Disney+ in 2021"
+    ],
+    "entities": {
+      "people": [
+        "Macaulay Culkin",
+        "Seth Rogen",
+        "Evan Goldberg",
+        "Julia Garner"
+      ],
+      "titles": [
+        "Home Alone",
+        "Home Alone 2",
+        "Lost in New York",
+        "Home Sweet Home Alone",
+        "Running Point",
+        "Robot Chicken",
+        "The Studio"
+      ]
+    },
+    "keywords": [
+      "Home Alone sequel",
+      "Macaulay Culkin",
+      "Seth Rogen",
+      "Evan Goldberg"
+    ],
+    "images": [
+      {
+        "url": "https://www.rollingstone.com/wp-content/uploads/2026/11/GettyImages-2270988177.jpg?w=1600&#038;h=900&#038;crop=1",
+        "caption": "Macaulay Culkin May Return for a New Home Alone Sequel with Seth Rogen and Evan Goldberg",
+        "source": "Rolling Stone"
+      }
+    ],
+    "published": "2026-11-21T06:52:36Z"
+  },
+  "1iop9x7": {
+    "id": "1iop9x7",
+    "type": "news",
+    "headline": "Charlie Puth Set For Historic India Debut at Johnnie Co. Festival in Mumbai",
+    "dek": "Pop star Charlie Puth will perform live in India for the very first time, headlining the inaugural Johnnie Co. Festival alongside British artist Ellie Goulding.",
+    "body": [
+      {
+        "h": "First-Ever India Performance",
+        "p": [
+          "American singer-songwriter Charlie Puth is preparing for his long-awaited debut concert in India. The four-time Grammy-nominated musician will headline the newly launched Johnnie Co. Festival in Mumbai on February 13, 2027.",
+          "The landmark musical event is scheduled to take place at the prominent Mahalaxmi Racecourse venue, marking a major milestone for international pop acts performing in the country."
+        ]
+      },
+      {
+        "h": "Star-Studded Festival Lineup",
+        "p": [
+          "Joining the headliner as the main support act is British pop star Ellie Goulding, renowned for chart-topping hits like Love Me Like You Do, Burn, and Lights.",
+          "The initial phase of the festival lineup also incorporates notable Indian artists such as Kayan, Taba Chake, Mali, and Gini, with event organizers promising further artist announcements."
+        ]
+      },
+      {
+        "h": "Artist Background and Anticipation",
+        "p": [
+          "Charlie Puth is internationally recognized for massive hits including Attention, We Don't Talk Anymore, and See You Again. This upcoming performance follows the release of his album Whatever's Clever.",
+          "Expressing his enthusiasm, Puth noted in a statement that he has heard a great deal about the energy of Indian fans and looks forward to finally performing his favorite songs live in Mumbai."
+        ]
+      },
+      {
+        "h": "Platform and Organizer Vision",
+        "p": [
+          "The festival serves as the launch vehicle for Johnnie Co., a cultural platform created by Johnnie Walker Luxe Blended Water focused on uniting music, sport, and fashion.",
+          "Diageo India Chief Marketing Officer Ruchira Jaitly explained that the platform was designed to foster connections across diverse cultural interests, while Team Innovation founder Mohit Bijlani praised the chosen venue."
+        ]
+      },
+      {
+        "h": "Ticketing and Schedule Information",
+        "p": [
+          "Fans hoping to attend the inaugural festival can purchase tickets exclusively through BookMyShow.",
+          "An exclusive HSBC presale period is scheduled for November 23 and 24, 2026, which will be immediately followed by the general public ticket sale on November 25, 2026."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "American singer Charlie Puth is heading to India for his first-ever concert appearance at the Johnnie Co. Festival in Mumbai on February 13, 2027. He will share the stage with British artist Ellie Goulding and several local acts at Mahalaxmi Racecourse, with tickets going on sale via BookMyShow following an HSBC presale."
+        ]
+      }
+    ],
+    "facts": [
+      "Charlie Puth will perform in India for the first time on February 13, 2027",
+      "The event is the inaugural Johnnie Co. Festival in Mumbai",
+      "The festival venue is Mahalaxmi Racecourse",
+      "Ellie Goulding is the main support act",
+      "Indian artists on the lineup include Kayan, Taba Chake, Mali, and Gini",
+      "Tickets will be sold exclusively through BookMyShow",
+      "The HSBC presale is on November 23 and 24, 2026",
+      "The general sale starts on November 25, 2026",
+      "Ruchira Jaitly is the Chief Marketing Officer of Diageo India",
+      "Mohit Bijlani is the founder of Team Innovation"
+    ],
+    "entities": {
+      "people": [
+        "Charlie Puth",
+        "Ellie Goulding",
+        "Kayan",
+        "Taba Chake",
+        "Mali",
+        "Gini",
+        "Ruchira Jaitly",
+        "Mohit Bijlani"
+      ],
+      "titles": [
+        "Whatever's Clever",
+        "Attention",
+        "We Don’t Talk Anymore",
+        "See You Again",
+        "Love Me Like You Do",
+        "Burn",
+        "Lights"
+      ]
+    },
+    "keywords": [
+      "Charlie Puth India",
+      "Johnnie Co. Festival Mumbai",
+      "Ellie Goulding India",
+      "Charlie Puth mumbai concert"
+    ],
+    "images": [
+      {
+        "url": "https://mm-wp-prod-uploads.s3.ap-south-1.amazonaws.com/wp-content/uploads/2026/11/20163409/Untitled-Design-2.jpg",
+        "caption": "Charlie Puth Set For Historic India Debut at Johnnie Co. Festival in Mumbai",
+        "source": "MissMalini"
+      }
+    ],
+    "published": "2026-11-21T06:52:36Z"
+  },
+  "1ks0c7t": {
+    "id": "1ks0c7t",
+    "type": "news",
+    "headline": "MobLand Season 3 Goes Into Production With Tom Hardy, Pierce Brosnan, and Helen Mirren Returning",
+    "dek": "Paramount has officially started filming the third season of MobLand right after the conclusion of season two, bringing back its star-studded lead cast.",
+    "body": [
+      {
+        "h": "Production Starts on Season Three",
+        "p": [
+          "The television drama MobLand is wasting no time continuing its gripping narrative, with filming for the third season officially underway. Paramount announced that cameras have started rolling on the upcoming batch of episodes shortly after the second season wrapped up its broadcast run.",
+          "The swift turnaround highlights the network's confidence in the hit show. Fans who followed the intense twists of the previous run can look forward to seeing how the overarching crime saga unfolds next."
+        ]
+      },
+      {
+        "h": "Returning Lead Cast Members",
+        "p": [
+          "Viewers will see the familiar faces of the principal cast reprise their roles for the new episodes. Tom Hardy returns as the dedicated fixer Harry da Souza, steering the complex criminal underworld dynamics.",
+          "Alongside him, veteran actors Pierce Brosnan and Helen Mirren are back on set. They reprise their roles as Conrad and Maeve Harrigan, the powerful heads of the crime family at the heart of the story."
+        ]
+      },
+      {
+        "h": "Studio Collaboration and Streaming Details",
+        "p": [
+          "The latest production effort is a collaborative venture with Paramount Television Studio and 101 Studios. This partnership continues the operational structure that guided the program through its previous runs.",
+          "For audiences wanting to catch up, the entire catalog is accessible online. Every single episode from both season one and season two, including the recent season two finale, is currently streaming globally on Paramount+."
+        ]
+      },
+      {
+        "h": "Previous Season Cast Ensemble",
+        "p": [
+          "The expansive world of the series featured a large supporting cast across its second season. Alongside the main trio, the ensemble included performers such as Paddy Considine, Joanne Froggatt, Lara Pulver, and Anson Boon.",
+          "Other notable names rounding out the sprawling roster were Mandeep Dhillon, Jasmine Jobson, Teddie Allen, Emmett J. Scanlan, Johnny Flynn, Ophelia Lovibond, Janet McTeer, and Toby Jones."
+        ]
+      },
+      {
+        "h": "Addressing Behind-the-Scenes Rumors",
+        "p": [
+          "The official confirmation of Tom Hardy's return brings relief to followers who felt anxious earlier in the year. Prior reports had circulated alleging friction and behind-the-scenes drama involving the actor, crew, and producers.",
+          "These worries were further quieted when Pierce Brosnan publicly commented on the speculation. Brosnan expressed admiration for his co-star, stating that he thoroughly enjoys collaborating with the actor and holds great respect for his previous work."
+        ]
+      },
+      {
+        "h": "Cast Support and Public Appearances",
+        "p": [
+          "Helen Mirren also contributed to putting the rumors to rest by sharing positive remarks about working alongside Tom Hardy. Her supportive words reinforced a sense of unity among the principal actors.",
+          "The camaraderie was further on display when Hardy reunited with fellow cast members at the season two premiere event, taking place months after the initial firing rumors surfaced in the press."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Production for season 3 of MobLand has officially commenced under Paramount Television Studio and 101 Studios. Main cast members Tom Hardy, Pierce Brosnan, and Helen Mirren are all confirmed to return, putting prior behind-the-scenes rumors to rest as seasons 1 and 2 stream globally on Paramount+."
+        ]
+      }
+    ],
+    "facts": [
+      "MobLand season 3 production began by Nov 20, 2026",
+      "Tom Hardy returns as Harry da Souza",
+      "Pierce Brosnan and Helen Mirren return as Conrad and Maeve Harrigan",
+      "Seasons 1 and 2 are streaming on Paramount+"
+    ],
+    "entities": {
+      "people": [
+        "Tom Hardy",
+        "Pierce Brosnan",
+        "Helen Mirren",
+        "Harry da Souza",
+        "Conrad Harrigan",
+        "Maeve Harrigan",
+        "Paddy Considine",
+        "Joanne Froggatt",
+        "Lara Pulver",
+        "Anson Boon",
+        "Mandeep Dhillon",
+        "Jasmine Jobson",
+        "Teddie Allen",
+        "Emmett J. Scanlan",
+        "Johnny Flynn",
+        "Ophelia Lovibond",
+        "Janet McTeer",
+        "Toby Jones"
+      ],
+      "titles": [
+        "MobLand"
+      ]
+    },
+    "keywords": [
+      "MobLand Season 3",
+      "Tom Hardy MobLand",
+      "Pierce Brosnan Helen Mirren",
+      "MobLand Paramount"
+    ],
+    "images": [
+      {
+        "url": "https://www.justjared.com/wp-content/uploads/2026/11/mobland-season-3-production.jpg",
+        "caption": "MobLand Season 3 Goes Into Production With Tom Hardy, Pierce Brosnan, and Helen Mirren Returning",
+        "source": "Just Jared"
+      }
+    ],
+    "published": "Sat, 21 Nov 2026 04:58:57 +0000"
   }
 };

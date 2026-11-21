@@ -45,6 +45,84 @@ window.FA_HOME_ARTICLES = {
     ],
     "published": "Sat, 21 Nov 2026 10:30:25 +0200"
   },
+  "1iop9x7": {
+    "id": "1iop9x7",
+    "type": "news",
+    "headline": "Charlie Puth Set For Historic India Debut at Johnnie Co. Festival in Mumbai",
+    "dek": "Pop star Charlie Puth will perform live in India for the very first time, headlining the inaugural Johnnie Co. Festival alongside British artist Ellie Goulding.",
+    "entities": {
+      "people": [
+        "Charlie Puth",
+        "Ellie Goulding",
+        "Kayan",
+        "Taba Chake",
+        "Mali",
+        "Gini",
+        "Ruchira Jaitly",
+        "Mohit Bijlani"
+      ],
+      "titles": [
+        "Whatever's Clever",
+        "Attention",
+        "We Don’t Talk Anymore",
+        "See You Again",
+        "Love Me Like You Do",
+        "Burn",
+        "Lights"
+      ]
+    },
+    "keywords": [
+      "Charlie Puth India",
+      "Johnnie Co. Festival Mumbai",
+      "Ellie Goulding India",
+      "Charlie Puth mumbai concert"
+    ],
+    "images": [
+      {
+        "url": "https://mm-wp-prod-uploads.s3.ap-south-1.amazonaws.com/wp-content/uploads/2026/11/20163409/Untitled-Design-2.jpg",
+        "caption": "Charlie Puth Set For Historic India Debut at Johnnie Co. Festival in Mumbai",
+        "source": "MissMalini"
+      }
+    ],
+    "published": "2026-11-21T06:52:36Z"
+  },
+  "ve8j8g": {
+    "id": "ve8j8g",
+    "type": "news",
+    "headline": "Macaulay Culkin May Return for a New Home Alone Sequel with Seth Rogen and Evan Goldberg",
+    "dek": "Disney is reportedly developing a new entry in the classic holiday comedy franchise, with the original star collaborating on the script.",
+    "entities": {
+      "people": [
+        "Macaulay Culkin",
+        "Seth Rogen",
+        "Evan Goldberg",
+        "Julia Garner"
+      ],
+      "titles": [
+        "Home Alone",
+        "Home Alone 2",
+        "Lost in New York",
+        "Home Sweet Home Alone",
+        "Running Point",
+        "Robot Chicken",
+        "The Studio"
+      ]
+    },
+    "keywords": [
+      "Home Alone sequel",
+      "Macaulay Culkin",
+      "Seth Rogen",
+      "Evan Goldberg"
+    ],
+    "images": [
+      {
+        "url": "https://www.rollingstone.com/wp-content/uploads/2026/11/GettyImages-2270988177.jpg?w=1600&#038;h=900&#038;crop=1",
+        "caption": "Macaulay Culkin May Return for a New Home Alone Sequel with Seth Rogen and Evan Goldberg",
+        "source": "Rolling Stone"
+      }
+    ],
+    "published": "2026-11-21T06:52:36Z"
+  },
   "ucookv": {
     "id": "ucookv",
     "type": "news",
@@ -86,6 +164,44 @@ window.FA_HOME_ARTICLES = {
       }
     ],
     "published": "2026-11-21T05:52:15Z"
+  },
+  "7tk3ll": {
+    "id": "7tk3ll",
+    "type": "news",
+    "headline": "The Hunger Games: Sunrise On The Reaping Secures Massive Preview Haul At North American Box Office",
+    "dek": "The franchise installment dominates early ticket sales, clinching major records and outpacing several notable 2026 releases in North America.",
+    "entities": {
+      "people": [
+        "Joseph Zada",
+        "Mckenna Grace",
+        "Francis Lawrence"
+      ],
+      "titles": [
+        "The Hunger Games: Sunrise on the Reaping",
+        "Michael",
+        "The Odyssey",
+        "Spider-Man: Brand New Day",
+        "The Hunger Games: Catching Fire",
+        "Suicide Squad",
+        "Captain Marvel",
+        "Wicked",
+        "The Hunger Games: Ballad of Songbirds and Snakes"
+      ]
+    },
+    "keywords": [
+      "The Hunger Games Sunrise on the Reaping",
+      "Sunrise on the Reaping box office",
+      "Joseph Zada Mckenna Grace",
+      "Francis Lawrence film"
+    ],
+    "images": [
+      {
+        "url": "https://www.koimoi.com/wp-content/new-galleries/2026/11/the-hunger-games-sunrise-on-the-reaping-north-america-box-office-beats-two-2026-blockbusters-to-claim-the-years-2nd-biggest-preview-01.jpg",
+        "caption": "The Hunger Games: Sunrise On The Reaping Secures Massive Preview Haul At North American Box Office",
+        "source": "Koimoi"
+      }
+    ],
+    "published": "Sat, 21 Nov 2026 05:46:50 +0000"
   },
   "1g02dmp": {
     "id": "1g02dmp",
@@ -153,6 +269,51 @@ window.FA_HOME_ARTICLES = {
       }
     ],
     "published": "Sat, 21 Nov 2026 05:13:00 GMT"
+  },
+  "1ks0c7t": {
+    "id": "1ks0c7t",
+    "type": "news",
+    "headline": "MobLand Season 3 Goes Into Production With Tom Hardy, Pierce Brosnan, and Helen Mirren Returning",
+    "dek": "Paramount has officially started filming the third season of MobLand right after the conclusion of season two, bringing back its star-studded lead cast.",
+    "entities": {
+      "people": [
+        "Tom Hardy",
+        "Pierce Brosnan",
+        "Helen Mirren",
+        "Harry da Souza",
+        "Conrad Harrigan",
+        "Maeve Harrigan",
+        "Paddy Considine",
+        "Joanne Froggatt",
+        "Lara Pulver",
+        "Anson Boon",
+        "Mandeep Dhillon",
+        "Jasmine Jobson",
+        "Teddie Allen",
+        "Emmett J. Scanlan",
+        "Johnny Flynn",
+        "Ophelia Lovibond",
+        "Janet McTeer",
+        "Toby Jones"
+      ],
+      "titles": [
+        "MobLand"
+      ]
+    },
+    "keywords": [
+      "MobLand Season 3",
+      "Tom Hardy MobLand",
+      "Pierce Brosnan Helen Mirren",
+      "MobLand Paramount"
+    ],
+    "images": [
+      {
+        "url": "https://www.justjared.com/wp-content/uploads/2026/11/mobland-season-3-production.jpg",
+        "caption": "MobLand Season 3 Goes Into Production With Tom Hardy, Pierce Brosnan, and Helen Mirren Returning",
+        "source": "Just Jared"
+      }
+    ],
+    "published": "Sat, 21 Nov 2026 04:58:57 +0000"
   },
   "1ochw7r": {
     "id": "1ochw7r",
@@ -4381,195 +4542,6 @@ window.FA_HOME_ARTICLES = {
       }
     ],
     "published": "2026-11-20T07:38:20+05:30"
-  },
-  "esg82s": {
-    "id": "esg82s",
-    "type": "news",
-    "headline": "Lanterns Sets 2027 Physical Media Release Amid DCU Leadership Changes",
-    "dek": "Warner Bros. Home Entertainment has officially scheduled the acclaimed sci-fi series Lanterns for a February 2027 physical release across 4K Ultra HD, Blu-ray, and DVD formats.",
-    "entities": {
-      "people": [
-        "Adele Ankers-Range",
-        "James Gunn",
-        "Peter Safran",
-        "Kyle Chandler",
-        "Aaron Pierre",
-        "Chris Mundy",
-        "Jeremy Latcham",
-        "Alik Sakharov",
-        "James Hawes",
-        "Stephen Williams",
-        "Geeta Patel",
-        "Damon Lindelof",
-        "Tom King",
-        "Vanessa Baden Kelly",
-        "Justin Britt-Gibson",
-        "Breannah Gibson",
-        "Kelly Macdonald",
-        "Garret Dillahunt",
-        "Poorna Jagannathan",
-        "Jason Ritter",
-        "Chris Coy",
-        "J. Alphonse Nicholson",
-        "Cary Christopher",
-        "Shea Pritchard",
-        "Ulrich Thomsen",
-        "Nathan Fillion"
-      ],
-      "titles": [
-        "Lanterns",
-        "Lanterns: The Complete First Season"
-      ]
-    },
-    "keywords": [
-      "Lanterns physical release",
-      "Lanterns 4K Blu-ray",
-      "Lanterns HBO Max series",
-      "Lanterns season 2 renewal",
-      "Kyle Chandler Aaron Pierre Lanterns"
-    ],
-    "images": [
-      {
-        "url": "https://static0.moviewebimages.com/wordpress/wp-content/uploads/2026/11/kyle-chandler-in-lanterns.jpg?w=1600&amp;h=900&amp;fit=crop",
-        "caption": "Lanterns Sets 2027 Physical Media Release Amid DCU Leadership Changes",
-        "source": "MovieWeb"
-      }
-    ],
-    "published": "Fri, 20 Nov 2026 01:30:16 GMT"
-  },
-  "1u8ats9": {
-    "id": "1u8ats9",
-    "type": "news",
-    "headline": "Official Cause Of Death Revealed For Legendary Actor Sir Patrick Stewart",
-    "dek": "The official death certificate confirms the passing of the renowned Star Trek and X-Men star at the age of 86 due to Alzheimer's disease and Lewy body dementia.",
-    "entities": {
-      "people": [
-        "Patrick Stewart",
-        "Hugh Jackman"
-      ],
-      "titles": [
-        "Star Trek: The Next Generation",
-        "Star Trek: Picard",
-        "X-Men",
-        "Logan",
-        "Avengers: Doomsday",
-        "Star Trek: Generations",
-        "Green Room",
-        "Robin Hood: Men in Tights",
-        "Conspiracy Theory",
-        "I, Claudius",
-        "Tinker Tailor Soldier Spy",
-        "Dune",
-        "Excalibur",
-        "The Simpsons",
-        "Family Guy",
-        "American Dad!",
-        "The Prince of Egypt",
-        "Chicken Little",
-        "Jimmy Neutron: Boy Genius"
-      ]
-    },
-    "keywords": [
-      "Patrick Stewart cause of death",
-      "Sir Patrick Stewart death certificate",
-      "Patrick Stewart Alzheimer dementia",
-      "Star Trek X-Men actor Patrick Stewart"
-    ],
-    "images": [
-      {
-        "url": "https://deadline.com/wp-content/uploads/2026/11/Sir-Patrick-Stewart.webp?w=681",
-        "caption": "Official Cause Of Death Revealed For Legendary Actor Sir Patrick Stewart",
-        "source": "Deadline"
-      }
-    ],
-    "published": "Fri, 20 Nov 2026 01:16:13 +0000"
-  },
-  "3irknz": {
-    "id": "3irknz",
-    "type": "news",
-    "headline": "Ramayana Box Office Day 15: Nitesh Tiwari's Epic Nears Rs 1,600 Crore With 3.4 Crore Tickets Sold",
-    "dek": " Ranbir Kapoor, Sai Pallavi and Yash's mythological epic Ramayana continues a phenomenal theatrical journey, inching towards the Rs 1,600-crore milestone globally after strong collections on its fifteenth day.",
-    "entities": {
-      "people": [
-        "Nitesh Tiwari",
-        "Ranbir Kapoor",
-        "Sai Pallavi",
-        "Yash",
-        "Priyanka Sharma",
-        "Tanuj Virwani"
-      ],
-      "titles": [
-        "Ramayana",
-        "Pushpa 2",
-        "Dangal",
-        "Dhurandhar 2",
-        "Baahubali 2",
-        "RRR",
-        "KGF 2",
-        "Jawan",
-        "Pathaan",
-        "Animal",
-        "Amaran",
-        "KGF: Chapter 2",
-        "Dhurandhar"
-      ]
-    },
-    "keywords": [
-      "Ramayana box office Day 15",
-      "Ramayana worldwide collection",
-      "Nitesh Tiwari Ramayana ticket sales",
-      "Ranbir Kapoor Sai Pallavi Yash Ramayana"
-    ],
-    "images": [
-      {
-        "url": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202611/ramayana-200528922-16x9_0.jpg?VersionId=jBjilHnanCSQd088fk1qW3JYjOoQo0xf",
-        "caption": "Ramayana Box Office Day 15: Nitesh Tiwari's Epic Nears Rs 1,600 Crore With 3.4 Crore Tickets Sold",
-        "source": "India Today — Movies"
-      }
-    ],
-    "published": "Fri, 20 Nov 2026 06:44:04 +0530"
-  },
-  "1aws5vx": {
-    "id": "1aws5vx",
-    "type": "news",
-    "headline": "Ramayana Day 15 Box Office Collection: Ranbir Kapoor and Yash Starrer Slips Below Rs 20 Crore",
-    "dek": "The mythological epic Ramayana experienced its first drop below the Rs 20 crore mark on its second Thursday, bringing its total domestic net collection to Rs 863.75 crore.",
-    "entities": {
-      "people": [
-        "Ranbir Kapoor",
-        "Yash",
-        "Sai Pallavi",
-        "Nitesh Tiwari",
-        "Sunny Deol",
-        "Ravi Dubey",
-        "Arun Govil",
-        "Namit Malhotra"
-      ],
-      "titles": [
-        "Ramayana",
-        "Dhurandhar",
-        "Dangal",
-        "Dhurandhar: The Revenge",
-        "Pushpa 2: The Rule",
-        "Baahubali 2: The Conclusion",
-        "Yeh Prem Mol Liya",
-        "Gunmaaster G9"
-      ]
-    },
-    "keywords": [
-      "Ramayana box office collection",
-      "Ramayana Day 15 collection",
-      "Ranbir Kapoor Yash Ramayana",
-      "Nitesh Tiwari Ramayana earnings"
-    ],
-    "images": [
-      {
-        "url": "https://images.timesnownews.com/thumb/msid-156538610,thumbsize-101378,width-1280,height-720,resizemode-75/156538610.jpg",
-        "caption": "Ramayana Day 15 Box Office Collection: Ranbir Kapoor and Yash Starrer Slips Below Rs 20 Crore",
-        "source": "Times Now — Entertainment"
-      }
-    ],
-    "published": "2026-11-20T00:51:46Z"
   },
   "17r7os4": {
     "id": "17r7os4",
