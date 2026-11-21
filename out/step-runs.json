@@ -4,45 +4,6 @@
    {
     "step": "fetch",
     "category": "Trending News",
-    "run_at": "2026-11-20T22:51:37Z",
-    "run_id": "44832208132",
-    "status": "success",
-    "checked": {
-     "candidates": 375,
-     "detail": "RSS/Atom items across 137 sources; 4 source(s) errored"
-    },
-    "changed": {
-     "added": [
-      "'Avengers: Doomsday' tracking USD 424 million opening",
-      "OG Mormon Wives Star Mayci Neeley Had A Candid Reaction To Her Texts Being Shown In OC",
-      "I Thought Rocky And Creed's Big Fight Scene Would Be The End Of I Play Rocky. So What Happened?",
-      "3 Best Prime Video Movies To Watch This Weekend (Nov 21-22)",
-      "'Star Trek' Officially Has a New Home Base on Apple TV",
-      "Nicolas Cage’s New Sports Movie Officially Torn Apart by Rotten Tomatoes Critics",
-      "HBO Max’s New 6-Part Rom-Com Is a Masterclass in Breaking the Genre’s Rules",
-      "Roald Dahl’s Fantasy Masterpiece Officially Finds New Streaming Success 30 Years Later",
-      "3 Best War Movies To Watch on Netflix This Weekend (November 21-22)",
-      "Harry Potter Officially Says Goodbye to Streaming Ahead of HBO Reboot",
-      "Johnny Knoxville & 2 Others Join Sony’s Hockey Movie After Heated Rivalry Breakout",
-      "Daisy Ridley & Darren Criss’ New Disturbing Thriller Movie Recruits Project Hail Mary Star",
-      "Teyana Taylor Directing Female-Driven Comedy Movie For WB After OBAA Oscar Win",
-      "The Mummy 4: Brendan Fraser Franchise Gives Fans Huge Surprise Ahead of Sequel",
-      "Toy Story 6 Update Reveals Pixar’s Bigger Future Plans for the Franchise",
-      "Zack Snyder’s Escape From New York Remake Gets Terrible Update, Backup Director Revealed",
-      "Channing Tatum’s Oscar-Worthy Movie Releases Today Ahead of Avengers: Doomsday Gambit Role",
-      "Wacky Finnish Horror Comedy 'Red Snow' Trailer with Vampire Santa",
-      "Nicolas Cage Set to Join Forces With a TV Favorite for His Return to $128 Million Thriller",
-      "Nicolas Cage's New Action Thriller Lands Jaw-Dropping Rotten Tomatoes Score"
-     ],
-     "updated": [],
-     "count": 343,
-     "detail": "355 stories, 0 duplicates removed, 20 dropped"
-    },
-    "reason": null
-   },
-   {
-    "step": "fetch",
-    "category": "Trending News",
     "run_at": "2026-11-20T23:51:09Z",
     "run_id": "44839702446",
     "status": "success",
@@ -936,32 +897,48 @@
      "detail": "296 stories, 0 duplicates removed, 40 dropped"
     },
     "reason": null
-   }
-  ],
-  "apply_auto": [
+   },
    {
-    "step": "apply_auto",
+    "step": "fetch",
     "category": "Trending News",
-    "run_at": "2026-11-20T23:51:38Z",
-    "run_id": "44839702446",
+    "run_at": "2026-11-21T21:51:55Z",
+    "run_id": "44953617734",
     "status": "success",
     "checked": {
-     "candidates": 14,
-     "detail": "draft articles + box-office rows from out/gemini-batch.json"
+     "candidates": 275,
+     "detail": "RSS/Atom items across 137 sources; 2 source(s) errored"
     },
     "changed": {
      "added": [
-      "Bruno Mars Mourns the Passing of His Father Peter Hernandez at Age 74",
-      "Financial Performance and Theatrical Run of The Hunger Games: Mockingjay — Part 2",
-      "Bollywood Figures and Political Leaders Mourn Passing of UP Chief Minister Yogi Adityanath's Mother Savitri Devi",
-      "Melania Trump Discusses Ukraine Ceasefire at New York Screening for Amazon Follow-Up Series"
+      "Godzilla: Why Does King Ghidorah Have Three Heads? Their Origins and Powers, Explained",
+      "I’m In My Feelings Over The Chat Alfonso Ribeiro Had With Harry Shum Jr. And Jenna Johnson After Their DWTS Elimination",
+      "I Thought People Would Recognize Andrew Scott From Sherlock, But Another Role Comes Up Way More",
+      "I Didn’t See A Bikini Wax Story Coming When Ariana Grande Was Asked About Hearing Her Music In Public",
+      "Kevin Costner’s ‘Yellowstone’ Return Officially Addressed by Taylor Sheridan Star",
+      "6 Best Crime Books of the 2000s, Ranked",
+      "‘Breaking Bad’ Star’s Failed Fast & Furious Replacement Officially Races Off of Streaming",
+      "5 Most Universally Loved TV Dramas of All Time, Ranked",
+      "The 5 Most Unwatchable Thrillers Released Since 2000, Ranked",
+      "‘Criminal Minds’ Star’s New CBS Series Officially Sets Release Date With a ‘Monk’ Legend",
+      "David Tennant’s Acclaimed British Series Is Officially a Global Streaming Smash",
+      "5 Greatest Fantasy Book Series of All Time, Ranked",
+      "25 Years Later, ‘The Rings of Power’ Repeats Gandalf’s Biggest ‘Lord of the Rings’ Mistake",
+      "Original 'Hunger Games' Actor Returns Addressed By 'Sunrise on the Reaping' Producer",
+      "The \"Greatest Movie of All Time\" Is Coming to Free Streaming in Just 10 Days",
+      "10 Things I Wish I Knew Before Starting 'Grand Theft Auto 6'",
+      "Benson’s Next Major Law & Order: SVU Reunion Can Be A Lot More Satisfying Than Stabler",
+      "5 Best Hercule Poirot Movies, Ranked Worst To Best",
+      "Luca Guadagnino Confirms American Psycho Remake Is No Longer Happening",
+      "Netflix Is Adding 76 More Hours of One Piece in Just 4 Weeks"
      ],
      "updated": [],
-     "count": 7,
-     "detail": "+4 articles, +0 box-office rows, 3 rows updated"
+     "count": 254,
+     "detail": "259 stories, 0 duplicates removed, 16 dropped"
     },
     "reason": null
-   },
+   }
+  ],
+  "apply_auto": [
    {
     "step": "apply_auto",
     "category": "Trending News",
@@ -1485,27 +1462,32 @@
      "detail": "+4 articles, +0 box-office rows, 3 rows updated"
     },
     "reason": null
+   },
+   {
+    "step": "apply_auto",
+    "category": "Trending News",
+    "run_at": "2026-11-21T21:52:17Z",
+    "run_id": "44953617734",
+    "status": "success",
+    "checked": {
+     "candidates": 14,
+     "detail": "draft articles + box-office rows from out/gemini-batch.json"
+    },
+    "changed": {
+     "added": [
+      "GTA VI Shatters Records With $3.79 Billion Opening Day",
+      "Princess of Wales Opens Up About Cancer Journey in Trailer for BBC Documentary Heal",
+      "Haq Secures Two Honors at the Dadasaheb Phalke International Film Festival Awards 2026",
+      "Matthew Gray Gubler and Tony Shalhoub Join Forces in New CBS Crime Drama Einstein"
+     ],
+     "updated": [],
+     "count": 7,
+     "detail": "+4 articles, +0 box-office rows, 3 rows updated"
+    },
+    "reason": null
    }
   ],
   "ott": [
-   {
-    "step": "ott",
-    "category": "OTT",
-    "run_at": "2026-11-20T23:51:38Z",
-    "run_id": "44839702446",
-    "status": "success",
-    "checked": {
-     "candidates": 397,
-     "detail": "OTT now/coming titles from the published catalogue"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 0,
-     "detail": "now 390, coming 7"
-    },
-    "reason": "no-new-data"
-   },
    {
     "step": "ott",
     "category": "OTT",
@@ -1919,26 +1901,27 @@
      "detail": "now 399, coming 7"
     },
     "reason": "no-new-data"
-   }
-  ],
-  "trending_weekly": [
+   },
    {
-    "step": "trending_weekly",
-    "category": "Trending Topics",
-    "run_at": "2026-11-20T22:52:11Z",
-    "run_id": "44832208132",
+    "step": "ott",
+    "category": "OTT",
+    "run_at": "2026-11-21T21:52:17Z",
+    "run_id": "44953617734",
     "status": "success",
     "checked": {
-     "candidates": 100,
-     "detail": "cached Google RSS trend/article intersection"
+     "candidates": 406,
+     "detail": "OTT now/coming titles from the published catalogue"
     },
     "changed": {
      "added": [],
      "updated": [],
-     "count": 0
+     "count": 0,
+     "detail": "now 399, coming 7"
     },
     "reason": "no-new-data"
-   },
+   }
+  ],
+  "trending_weekly": [
    {
     "step": "trending_weekly",
     "category": "Trending Topics",
@@ -2381,27 +2364,32 @@
      "count": 2
     },
     "reason": null
+   },
+   {
+    "step": "trending_weekly",
+    "category": "Trending Topics",
+    "run_at": "2026-11-21T22:08:55Z",
+    "run_id": "44953617734",
+    "status": "success",
+    "checked": {
+     "candidates": 100,
+     "detail": "cached Google RSS trend/article intersection"
+    },
+    "changed": {
+     "added": [
+      "1xz05pp",
+      "14xzms9",
+      "on85d3",
+      "1v85jxc",
+      "ebc1ta"
+     ],
+     "updated": [],
+     "count": 5
+    },
+    "reason": null
    }
   ],
   "multisource_boxoffice": [
-   {
-    "step": "multisource_boxoffice",
-    "category": "Box Office",
-    "run_at": "2026-11-20T22:52:09Z",
-    "run_id": "44832208132",
-    "status": "success",
-    "checked": {
-     "candidates": 726,
-     "detail": "673 collected staging rows from readers; 248 averaged across 2+ sources"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 3,
-     "detail": "+0 new rows, 3 updated rows, 698 unchanged"
-    },
-    "reason": null
-   },
    {
     "step": "multisource_boxoffice",
     "category": "Box Office",
@@ -2815,19 +2803,27 @@
      "detail": "+0 new rows, 3 updated rows, 704 unchanged"
     },
     "reason": null
+   },
+   {
+    "step": "multisource_boxoffice",
+    "category": "Box Office",
+    "run_at": "2026-11-21T22:08:15Z",
+    "run_id": "44953617734",
+    "status": "success",
+    "checked": {
+     "candidates": 733,
+     "detail": "677 collected staging rows from readers; 250 averaged across 2+ sources"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 3,
+     "detail": "+0 new rows, 3 updated rows, 704 unchanged"
+    },
+    "reason": null
    }
   ],
   "gemini_reviews": [
-   {
-    "step": "gemini_reviews",
-    "category": "Reviews",
-    "run_at": "2026-11-20T22:52:20Z",
-    "run_id": "44832208132",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "gemini_reviews",
     "category": "Reviews",
@@ -3057,32 +3053,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "gemini_reviews",
+    "category": "Reviews",
+    "run_at": "2026-11-21T22:09:04Z",
+    "run_id": "44953617734",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "convert_news": [
-   {
-    "step": "convert_news",
-    "category": "Trending News",
-    "run_at": "2026-11-21T00:08:25Z",
-    "run_id": "44839702446",
-    "status": "success",
-    "checked": {
-     "candidates": 600,
-     "detail": "feed entries from out/queue.json"
-    },
-    "changed": {
-     "added": [
-      "Bruno Mars Mourns the Passing of His Father Peter Hernandez at Age 74",
-      "Financial Performance and Theatrical Run of The Hunger Games: Mockingjay — Part 2",
-      "Bollywood Figures and Political Leaders Mourn Passing of UP Chief Minister Yogi Adityanath's Mother Savitri Devi",
-      "Melania Trump Discusses Ukraine Ceasefire at New York Screening for Amazon Follow-Up Series"
-     ],
-     "updated": [],
-     "count": 4,
-     "detail": "api-news.json 600 items, api-trends.json 12 items"
-    },
-    "reason": null
-   },
    {
     "step": "convert_news",
     "category": "Trending News",
@@ -3608,19 +3591,32 @@
      "detail": "api-news.json 600 items, api-trends.json 12 items"
     },
     "reason": null
+   },
+   {
+    "step": "convert_news",
+    "category": "Trending News",
+    "run_at": "2026-11-21T22:08:55Z",
+    "run_id": "44953617734",
+    "status": "success",
+    "checked": {
+     "candidates": 600,
+     "detail": "feed entries from out/queue.json"
+    },
+    "changed": {
+     "added": [
+      "GTA VI Shatters Records With $3.79 Billion Opening Day",
+      "Princess of Wales Opens Up About Cancer Journey in Trailer for BBC Documentary Heal",
+      "Haq Secures Two Honors at the Dadasaheb Phalke International Film Festival Awards 2026",
+      "Matthew Gray Gubler and Tony Shalhoub Join Forces in New CBS Crime Drama Einstein"
+     ],
+     "updated": [],
+     "count": 4,
+     "detail": "api-news.json 600 items, api-trends.json 12 items"
+    },
+    "reason": null
    }
   ],
   "episode_guides": [
-   {
-    "step": "episode_guides",
-    "category": "Drama Episodes",
-    "run_at": "2026-11-20T22:52:20Z",
-    "run_id": "44832208132",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "episode_guides",
     "category": "Drama Episodes",
@@ -3911,19 +3907,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "title_seed": [
+   },
    {
-    "step": "title_seed",
-    "category": "Spotlight / Coming Soon / Most Awaited",
-    "run_at": "2026-11-20T22:52:20Z",
-    "run_id": "44832208132",
+    "step": "episode_guides",
+    "category": "Drama Episodes",
+    "run_at": "2026-11-21T22:09:04Z",
+    "run_id": "44953617734",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "title_seed": [
    {
     "step": "title_seed",
     "category": "Spotlight / Coming Soon / Most Awaited",
@@ -4244,31 +4240,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "title_seed",
+    "category": "Spotlight / Coming Soon / Most Awaited",
+    "run_at": "2026-11-21T22:09:04Z",
+    "run_id": "44953617734",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "gemini_batch": [
-   {
-    "step": "gemini_batch",
-    "category": "Trending News",
-    "run_at": "2026-11-20T22:52:09Z",
-    "run_id": "44832208132",
-    "status": "success",
-    "checked": {
-     "candidates": 4,
-     "detail": "news queue items drafted this run; 343 still unprocessed; today by category: movies 11/6, tv_dramas 24/4, episodes 1/2, box_office 13/6, celebrities_events 19/5, upcoming_releases 4/4, ott_streaming 9/4, trailers 2/3, awards 2/2, music_ost 2/2, viral 4/2"
-    },
-    "changed": {
-     "added": [
-      "Pocket Novel Release Date Confirmed For Pongal 2027 Alongside New Behind-The-Scenes Video",
-      "‘Cupertino’ Season 1, Episode 8 Breakdown: High Tech and Higher Stakes",
-      "Avengers: Doomsday Eyes Record-Breaking Opening Weekend and Massive Global Box Office Momentum",
-      "Shudder Unveils Trailer for Finnish Horror Comedy 'Red Snow' Featuring a Vampire Santa"
-     ],
-     "updated": [],
-     "count": 4
-    },
-    "reason": null
-   },
    {
     "step": "gemini_batch",
     "category": "Trending News",
@@ -4774,19 +4758,31 @@
      "count": 4
     },
     "reason": null
+   },
+   {
+    "step": "gemini_batch",
+    "category": "Trending News",
+    "run_at": "2026-11-21T21:52:16Z",
+    "run_id": "44953617734",
+    "status": "success",
+    "checked": {
+     "candidates": 4,
+     "detail": "news queue items drafted this run; 254 still unprocessed; today by category: movies 12/6, tv_dramas 14/4, episodes 1/2, box_office 19/6, celebrities_events 17/5, upcoming_releases 6/4, ott_streaming 6/4, trailers 3/3, awards 6/2, music_ost 2/2, viral 6/2"
+    },
+    "changed": {
+     "added": [
+      "GTA VI Shatters Records With $3.79 Billion Opening Day",
+      "Princess of Wales Opens Up About Cancer Journey in Trailer for BBC Documentary Heal",
+      "Haq Secures Two Honors at the Dadasaheb Phalke International Film Festival Awards 2026",
+      "Matthew Gray Gubler and Tony Shalhoub Join Forces in New CBS Crime Drama Einstein"
+     ],
+     "updated": [],
+     "count": 4
+    },
+    "reason": null
    }
   ],
   "overseas_ai": [
-   {
-    "step": "overseas_ai",
-    "category": "Box Office",
-    "run_at": "2026-11-20T22:52:20Z",
-    "run_id": "44832208132",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "overseas_ai",
     "category": "Box Office",
@@ -5093,24 +5089,26 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "publish": [
+   },
    {
-    "step": "publish",
-    "category": "Trending News",
-    "run_at": "2026-11-20T22:52:20Z",
-    "run_id": "44832208132",
+    "step": "overseas_ai",
+    "category": "Box Office",
+    "run_at": "2026-11-21T21:53:36Z",
+    "run_id": "44953617734",
     "status": "success",
-    "checked": null,
+    "checked": {
+     "candidates": 57,
+     "detail": "published movies with missing overseas day figures; Tavily searches: 48"
+    },
     "changed": {
      "added": [],
      "updated": [],
-     "count": 384,
-     "detail": "lines changed in owned files; no per-item summary from script"
+     "count": 0
     },
-    "reason": null
-   },
+    "reason": "no-new-data"
+   }
+  ],
+  "publish": [
    {
     "step": "publish",
     "category": "Trending News",
@@ -5440,24 +5438,19 @@
     "checked": null,
     "changed": null,
     "reason": "error"
+   },
+   {
+    "step": "publish",
+    "category": "Trending News",
+    "run_at": "2026-11-21T22:09:04Z",
+    "run_id": "44953617734",
+    "status": "failed",
+    "checked": null,
+    "changed": null,
+    "reason": "error"
    }
   ],
   "stats_traffic": [
-   {
-    "step": "stats_traffic",
-    "category": "Stats / Health",
-    "run_at": "2026-11-20T22:52:20Z",
-    "run_id": "44832208132",
-    "status": "success",
-    "checked": null,
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 2,
-     "detail": "lines changed in owned files; no per-item summary from script"
-    },
-    "reason": null
-   },
    {
     "step": "stats_traffic",
     "category": "Stats / Health",
@@ -5782,19 +5775,19 @@
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
+   },
+   {
+    "step": "stats_traffic",
+    "category": "Stats / Health",
+    "run_at": "2026-11-21T22:09:04Z",
+    "run_id": "44953617734",
+    "status": "success",
+    "checked": null,
+    "changed": null,
+    "reason": "no-new-data"
    }
   ],
   "stats_pipeline": [
-   {
-    "step": "stats_pipeline",
-    "category": "Stats / Health",
-    "run_at": "2026-11-20T22:52:20Z",
-    "run_id": "44832208132",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "stats_pipeline",
     "category": "Stats / Health",
@@ -6044,19 +6037,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "stats_health": [
+   },
    {
-    "step": "stats_health",
+    "step": "stats_pipeline",
     "category": "Stats / Health",
-    "run_at": "2026-11-20T22:52:20Z",
-    "run_id": "44832208132",
+    "run_at": "2026-11-21T22:09:04Z",
+    "run_id": "44953617734",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "stats_health": [
    {
     "step": "stats_health",
     "category": "Stats / Health",
@@ -6291,19 +6284,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "metadata_refresh": [
+   },
    {
-    "step": "metadata_refresh",
-    "category": "Spotlight / Coming Soon / Most Awaited",
-    "run_at": "2026-11-20T22:52:20Z",
-    "run_id": "44832208132",
+    "step": "stats_health",
+    "category": "Stats / Health",
+    "run_at": "2026-11-21T22:09:04Z",
+    "run_id": "44953617734",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "metadata_refresh": [
    {
     "step": "metadata_refresh",
     "category": "Spotlight / Coming Soon / Most Awaited",
@@ -6588,19 +6581,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "providers_backfill": [
+   },
    {
-    "step": "providers_backfill",
-    "category": "OTT",
-    "run_at": "2026-11-20T22:52:20Z",
-    "run_id": "44832208132",
+    "step": "metadata_refresh",
+    "category": "Spotlight / Coming Soon / Most Awaited",
+    "run_at": "2026-11-21T22:09:04Z",
+    "run_id": "44953617734",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "providers_backfill": [
    {
     "step": "providers_backfill",
     "category": "OTT",
@@ -6841,19 +6834,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "tavily_boxoffice": [
+   },
    {
-    "step": "tavily_boxoffice",
-    "category": "Box Office",
-    "run_at": "2026-11-20T22:52:20Z",
-    "run_id": "44832208132",
+    "step": "providers_backfill",
+    "category": "OTT",
+    "run_at": "2026-11-21T22:09:04Z",
+    "run_id": "44953617734",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "tavily_boxoffice": [
    {
     "step": "tavily_boxoffice",
     "category": "Box Office",
@@ -7083,19 +7076,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "tavily_boxoffice",
+    "category": "Box Office",
+    "run_at": "2026-11-21T22:09:04Z",
+    "run_id": "44953617734",
+    "status": "success",
+    "checked": null,
+    "changed": null,
+    "reason": "no-new-data"
    }
   ],
   "keywords_refresh": [
-   {
-    "step": "keywords_refresh",
-    "category": "Trending News",
-    "run_at": "2026-11-20T22:52:20Z",
-    "run_id": "44832208132",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "keywords_refresh",
     "category": "Trending News",
@@ -7348,30 +7341,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "keywords_refresh",
+    "category": "Trending News",
+    "run_at": "2026-11-21T22:09:04Z",
+    "run_id": "44953617734",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "overseas_sweep": [
-   {
-    "step": "overseas_sweep",
-    "category": "Box Office",
-    "run_at": "2026-11-19T21:53:14Z",
-    "run_id": "44622787487",
-    "status": "success",
-    "checked": {
-     "candidates": 579,
-     "detail": "completed day-wise rows missing overseas; quicknews pages fetched: 13; attempt cooldown deferred: 566"
-    },
-    "changed": {
-     "added": [
-      "Ranabaali (1389379)",
-      "418 (1606527)",
-      "Nayyi Navelli (1654581)"
-     ],
-     "updated": [],
-     "count": 13
-    },
-    "reason": null
-   },
    {
     "step": "overseas_sweep",
     "category": "Box Office",
@@ -7867,19 +7849,31 @@
      "count": 14
     },
     "reason": null
+   },
+   {
+    "step": "overseas_sweep",
+    "category": "Box Office",
+    "run_at": "2026-11-21T21:52:35Z",
+    "run_id": "44953617734",
+    "status": "success",
+    "checked": {
+     "candidates": 590,
+     "detail": "completed day-wise rows missing overseas; quicknews pages fetched: 14; attempt cooldown deferred: 576"
+    },
+    "changed": {
+     "added": [
+      "Jailer 2 (1234139)",
+      "Ranabaali (1389379)",
+      "418 (1606527)",
+      "Nayyi Navelli (1654581)"
+     ],
+     "updated": [],
+     "count": 14
+    },
+    "reason": null
    }
   ],
   "advance_booking": [
-   {
-    "step": "advance_booking",
-    "category": "Box Office",
-    "run_at": "2026-11-20T22:52:20Z",
-    "run_id": "44832208132",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "advance_booking",
     "category": "Box Office",
@@ -8119,19 +8113,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "home_boxoffice_worldwide": [
+   },
    {
-    "step": "home_boxoffice_worldwide",
+    "step": "advance_booking",
     "category": "Box Office",
-    "run_at": "2026-11-20T22:52:20Z",
-    "run_id": "44832208132",
+    "run_at": "2026-11-21T22:09:04Z",
+    "run_id": "44953617734",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "home_boxoffice_worldwide": [
    {
     "step": "home_boxoffice_worldwide",
     "category": "Box Office",
@@ -8396,8 +8390,23 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "home_boxoffice_worldwide",
+    "category": "Box Office",
+    "run_at": "2026-11-21T22:09:04Z",
+    "run_id": "44953617734",
+    "status": "success",
+    "checked": null,
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 4572,
+     "detail": "lines changed in owned files; no per-item summary from script"
+    },
+    "reason": null
    }
   ]
  },
- "updated_at": "2026-11-21T20:52:35Z"
+ "updated_at": "2026-11-21T22:09:04Z"
 }

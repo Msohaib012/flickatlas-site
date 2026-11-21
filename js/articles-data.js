@@ -214323,5 +214323,387 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Sat, 21 Nov 2026 20:38:44 GMT"
+  },
+  "tuw87f": {
+    "id": "tuw87f",
+    "type": "news",
+    "headline": "GTA VI Shatters Records With $3.79 Billion Opening Day",
+    "dek": "Grand Theft Auto VI has emerged as the biggest entertainment launch in history, surpassing both previous gaming milestones and global cinematic box office records within its first 24 hours.",
+    "body": [
+      {
+        "h": "A Historic 24-Hour Launch",
+        "p": [
+          "Grand Theft Auto VI has officially rewritten the history books by generating an astonishing $3.79 billion in sales during its first twenty-four hours on the market. According to reports from Reuters, this massive opening-day haul makes the title the largest entertainment launch ever witnessed.",
+          "The incredible financial performance highlights the extraordinary level of consumer demand surrounding the title, which finally arrived after more than a decade of waiting by eager fans across the globe."
+        ]
+      },
+      {
+        "h": "Surpassing Cinematic Giants",
+        "p": [
+          "In a testament to the growing commercial dominance of the gaming industry, the opening-day earnings of GTA VI successfully outpaced the worldwide box office collection of Avengers: Endgame. Media analytics firm Rentrak previously recorded the Marvel blockbuster's global lifetime collection at approximately $2.94 billion.",
+          "By eclipsing a major cinematic benchmark on its very first day, the Rockstar Games release proved that interactive entertainment can rival and even surpass the biggest Hollywood blockbusters in sheer financial power."
+        ]
+      },
+      {
+        "h": "Setting a New Gaming Benchmark",
+        "p": [
+          "The latest blockbuster has also vastly outperformed its predecessor, GTA V, which famously pulled in around $800 million on its opening day back in 2013. While that previous figure was long considered an untouchable milestone in the video game industry, the new release has raised the bar to unprecedented heights.",
+          "Before the game officially hit the market, Rockstar Games revealed that it had already sold 32.5 million copies, providing a clear indication of the immense anticipation that preceded the rollout."
+        ]
+      },
+      {
+        "h": "Return to Vise City",
+        "p": [
+          "Grand Theft Auto VI arrives more than 13 years after the release of GTA V, plunging players back into a dangerous, crime-ridden environment. The narrative follows the criminal duo of Lucia and Jason as they navigate the colourful and chaotic streets of Vise City.",
+          "Set in a fictionalized world inspired by Miami and its surrounding regions, this action-adventure experience has drawn immense attention from players, some of whom went to great lengths—such as taking time off work or making arrangements with partners—to ensure uninterrupted gameplay."
+        ]
+      },
+      {
+        "h": "Massive Development and Marketing",
+        "p": [
+          "The monumental scale of the project extends well beyond its initial sales figures, as Take-Two Interactive reportedly invested $1 billion or more into developing the title. This massive investment places it among the most expensive entertainment projects ever undertaken.",
+          "A carefully orchestrated marketing campaign helped fuel the momentum, including an extended trailer that aired on Netflix in August. According to estimates from Sensor Tower, this promotional push helped pre-orders surge significantly in the lead-up to the release."
+        ]
+      },
+      {
+        "h": "Leadership and Fan Reception",
+        "p": [
+          "Following the overwhelming response, Rockstar Games founder and president Sam Houser expressed gratitude to the global community, noting that the studio was deeply humbled by the enthusiastic reception from players everywhere.",
+          "Take-Two CEO Strauss Zelnick had previously acknowledged the considerable consumer excitement and positive early press reactions during an earnings call earlier in the month, though the company initially remained cautious about predicting commercial outcomes before launch."
+        ]
+      },
+      {
+        "h": "Future Outlook and Expansion",
+        "p": [
+          "As the spotlight remains firmly fixed on Rockstar Games, investors and fans are already looking ahead to future updates, including a potential PC version and an online mode. Analysts and industry watchers have speculated that these additions could arrive by 2027.",
+          "Take-Two is reportedly banking on the upcoming online experience to sustain robust revenue long after the initial launch window closes, further cementing the title's long-term commercial strategy."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Grand Theft Auto VI achieved the biggest entertainment launch in history by earning $3.79 billion on November 19, surpassing both GTA V's opening-day sales and the lifetime global box office collection of Avengers: Endgame. Featuring protagonists Lucia and Jason in Vise City, the game arrived following a massive marketing campaign and years of heavy anticipation from players worldwide."
+        ]
+      }
+    ],
+    "facts": [
+      "GTA VI reportedly earned $3.79 billion on Day 1.",
+      "Grand Theft Auto VI was released on November 19, 2026.",
+      "GTA V made around $800 million in its first 24 hours in 2013.",
+      "Avengers: Endgame amassed around $2.94 billion globally according to Rentrak.",
+      "Before launch, Rockstar Games revealed 32.5 million copies sold.",
+      "Take-Two Interactive reportedly spent $1 billion or more developing the title."
+    ],
+    "entities": {
+      "people": [
+        "Mimansa Shekhar",
+        "Sam Houser",
+        "Lucia",
+        "Jason",
+        "Strauss Zelnick"
+      ],
+      "titles": [
+        "GTA VI",
+        "Avengers: Endgame",
+        "GTA V",
+        "Grand Theft Auto VI"
+      ]
+    },
+    "keywords": [
+      "GTA VI",
+      "Grand Theft Auto VI",
+      "Lucia and Jason Vise City",
+      "GTA VI Avengers Endgame box office"
+    ],
+    "images": [
+      {
+        "url": "https://images.timesnownews.com/thumb/msid-156545749,thumbsize-757451,width-1280,height-720,resizemode-75/156545749.jpg",
+        "caption": "GTA VI Shatters Records With $3.79 Billion Opening Day",
+        "source": "Times Now — Entertainment"
+      }
+    ],
+    "published": "2026-11-21T21:52:17Z"
+  },
+  "fausny": {
+    "id": "fausny",
+    "type": "news",
+    "headline": "Princess of Wales Opens Up About Cancer Journey in Trailer for BBC Documentary Heal",
+    "dek": "Catherine, the Princess of Wales, reflects on physical and emotional transformation in a deeply personal new BBC film documenting her participation in the National Three Peaks Challenge.",
+    "body": [
+      {
+        "h": "First Look at Heal",
+        "p": [
+          "A brand new promotional trailer has provided audiences with an intimate first look at Heal, an upcoming BBC documentary focusing on Catherine, the Princess of Wales. Announced jointly by Kensington Palace and the BBC, the project features the Princess speaking candidly about how a cancer diagnosis profoundly reshapes an individual's life.",
+          "The documentary is scheduled to premiere on television screens next week, landing on BBC One and the BBC iPlayer streaming platform on Sunday, November 29, 2026."
+        ]
+      },
+      {
+        "h": "Reflecting on Physical and Inner Shift",
+        "p": [
+          "In the newly released preview footage, the Princess discusses the heavy physical toll of her health condition. She notes that cancer changes a person's body physically, but points out that there is also a much deeper shift that occurs internally.",
+          "Reflecting on the healing process, she emphasizes the importance of reconnecting with familiar things, rediscovering hope and joy alongside uncertainty, and recognizing that individuals are never meant to face life's major challenges in complete isolation."
+        ]
+      },
+      {
+        "h": "The National Three Peaks Challenge",
+        "p": [
+          "The core narrative of Heal follows the Princess as she takes on the grueling National Three Peaks Challenge. This endeavor involves climbing the tallest mountains situated across Scotland, England, and Wales within a strict 24-hour timeframe.",
+          "The physical test is undertaken to support The Royal Marsden Cancer Charity. Alongside tackling the peaks, the film serves as a platform for her to reflect on her own experiences while interacting with other individuals navigating personal health journeys."
+        ]
+      },
+      {
+        "h": "Advocating for Holistic Cancer Care",
+        "p": [
+          "Through the documentary, the royal aims to assist others who are dealing with diagnoses, recovery, and life after cancer. A central goal of the project is to help transform access to holistic cancer care.",
+          "The initiative focuses heavily on supporting overall wellbeing, building resilience, and maintaining a high quality of life for patients. Furthermore, all funds generated through the distribution of Heal are being directed straight to The Royal Marsden Cancer Charity."
+        ]
+      },
+      {
+        "h": "Medical Timeline and Remission",
+        "p": [
+          "The documentary's background is rooted in the Princess's personal health timeline, which began when tests following abdominal surgery in January 2024 revealed the presence of cancer. This led her to begin a course of preventative chemotherapy.",
+          "By September 2024, she confirmed that her preventative chemotherapy treatment had concluded. Following this, she announced in January 2025 that her cancer was officially in remission, though she has chosen not to disclose publicly the specific type of cancer she faced."
+        ]
+      },
+      {
+        "h": "International Broadcast Schedule",
+        "p": [
+          "Following its initial United Kingdom premiere on the BBC, Heal is slated to reach global audiences through various international broadcasting partners over subsequent days.",
+          "In the United States, the film will air on NBCUniversal on November 30, 2026. Viewers in Australia can watch it on Channel 9 on December 1, 2026, while Canadian audiences will see it broadcast on CTV and Noovo on December 7, 2026."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "The Princess of Wales discusses her cancer diagnosis and recovery in a new trailer for the upcoming BBC documentary Heal, which premieres on November 29, 2026. The film follows her participation in the National Three Peaks Challenge to support The Royal Marsden Cancer Charity and raise awareness for holistic cancer care. International broadcasts in the US, Australia, and Canada are scheduled for late November and early December 2026."
+        ]
+      }
+    ],
+    "facts": [
+      "Heal premieres on BBC One and BBC iPlayer on Sunday 29 November 2026.",
+      "The documentary follows the Princess of Wales undertaking the National Three Peaks Challenge.",
+      "All funds received through the documentary's distribution are directed to The Royal Marsden Cancer Charity.",
+      "The Princess announced in March 2024 that tests following abdominal surgery in January 2024 had found cancer.",
+      "She confirmed in September 2024 that her chemotherapy had ended and announced in January 2025 that her cancer was in remission.",
+      "The film will air in the US on NBCUniversal on 30 November 2026, in Australia on Channel 9 on 1 December 2026, and in Canada on CTV and Noovo on 7 December 2026."
+    ],
+    "entities": {
+      "people": [
+        "Catherine, the Princess of Wales",
+        "Morgan Cormack"
+      ],
+      "titles": [
+        "Heal",
+        "The Radio Times Podcast"
+      ]
+    },
+    "keywords": [
+      "Princess of Wales Heal documentary",
+      "Heal BBC documentary 2026",
+      "National Three Peaks Challenge cancer charity",
+      "The Royal Marsden Cancer Charity Heal film"
+    ],
+    "images": [
+      {
+        "url": "https://images.production.immediate.co.uk/volatile/sites/3/2026/11/heal-princess-of-wales-fc3883c.jpg?resize=1200%2C630",
+        "caption": "Princess of Wales Opens Up About Cancer Journey in Trailer for BBC Documentary Heal",
+        "source": "Radio Times"
+      }
+    ],
+    "published": "Sat, 21 Nov 2026 21:26:18 GMT"
+  },
+  "1azbbf9": {
+    "id": "1azbbf9",
+    "type": "news",
+    "headline": "Haq Secures Two Honors at the Dadasaheb Phalke International Film Festival Awards 2026",
+    "dek": "Yami Gautam Dhar and writer Reshu Nath bring home prestigious trophies for the courtroom drama Haq at the recent DPIFF ceremony in Mumbai.",
+    "body": [
+      {
+        "h": "Major Wins at DPIFF 2026",
+        "p": [
+          "The courtroom drama Haq made a significant impact at the Dadasaheb Phalke International Film Festival Awards 2026, held in Mumbai on November 20. The production secured two major accolades, highlighting both exceptional performances and strong writing.",
+          "This double victory places the film among the elite titles recognized during the annual ceremony, celebrating the creative efforts driving the project."
+        ]
+      },
+      {
+        "h": "Yami Gautam Dhar Honored for Best Actress",
+        "p": [
+          "Actor Yami Gautam Dhar received the Critics Best Actress Award for her central role in the movie. Her performance anchors the narrative around themes of justice, personal struggle, and dignity.",
+          "The recognition highlights her capability to shoulder emotionally demanding stories that address socially relevant topics, drawing critical praise for the depth she brought to the screen."
+        ]
+      },
+      {
+        "h": "Reshu Nath Recognized for Screenplay and Dialogue",
+        "p": [
+          "Writer Reshu Nath was awarded Best Screenplay and Dialogue for shaping the emotional and legal conflicts within the story. The writing effectively connects a personal narrative to broader conversations about equality and the law.",
+          "The script charts the protagonist's transition from domestic strife to a public courtroom battle, blending personal fallout with wider societal issues through character dialogue."
+        ]
+      },
+      {
+        "h": "Background and Plot of Haq",
+        "p": [
+          "Set in 1980s India, Haq follows Shazia Bano, a woman who initiates legal action against her husband after he abandons her and their children. The core plot intersects legal rights, faith, and personal dignity.",
+          "The film is a 2025 Hindi courtroom drama directed by Suparn S. Varma and produced by Vineet Jain, Vishal Gurnani, Juhi Parekh Mehta, Vicky Jain, and Harman Baweja under Junglee Pictures, Insomnia Films, and Baweja Studios."
+        ]
+      },
+      {
+        "h": "Cast and Creative Team",
+        "p": [
+          "Alongside Yami Gautam Dhar, the movie features Emraan Hashmi in a lead role. The supporting cast includes Vartika Singh, Danish Husain, and Sheeba Chadha.",
+          "The collaborative effort of the cast and crew helped bring the socially resonant storyline to life, culminating in the recent festival wins."
+        ]
+      },
+      {
+        "h": "Significance of the Double Victory",
+        "p": [
+          "The dual recognition at the festival points to the movie's overall creative strengths and the impact of its narrative structure. Both acting and writing accolades underline the project's resonance with audiences and critics alike.",
+          "By focusing on a woman's fight for justice, the film has engaged viewers in wider discussions regarding women's rights and personal perseverance."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "The film Haq won two awards at the Dadasaheb Phalke International Film Festival Awards 2026 in Mumbai on November 20. Yami Gautam Dhar received the Critics Best Actress Award, while writer Reshu Nath took home the Best Screenplay and Dialogue honor."
+        ]
+      }
+    ],
+    "facts": [
+      "Haq won two awards at the Dadasaheb Phalke International Film Festival Awards 2026 in Mumbai on November 20, 2026.",
+      "Yami Gautam Dhar received the Critics Best Actress Award.",
+      "Reshu Nath won the Best Screenplay and Dialogue Award.",
+      "Haq is a 2025 Hindi courtroom drama set in 1980s India.",
+      "The film is directed by Suparn S. Varma.",
+      "Producers include Vineet Jain, Vishal Gurnani, Juhi Parekh Mehta, Vicky Jain, and Harman Baweja under Junglee Pictures, Insomnia Films, and Baweja Studios.",
+      "The cast includes Yami Gautam Dhar, Emraan Hashmi, Vartika Singh, Danish Husain, and Sheeba Chadha."
+    ],
+    "entities": {
+      "people": [
+        "Yami Gautam Dhar",
+        "Reshu Nath",
+        "Suparn S. Varma",
+        "Emraan Hashmi",
+        "Vartika Singh",
+        "Danish Husain",
+        "Sheeba Chadha",
+        "Vineet Jain",
+        "Vishal Gurnani",
+        "Juhi Parekh Mehta",
+        "Vicky Jain",
+        "Harman Baweja"
+      ],
+      "titles": [
+        "Haq"
+      ]
+    },
+    "keywords": [
+      "Haq film",
+      "Yami Gautam Dhar Haq",
+      "Reshu Nath Haq",
+      "Dadasaheb Phalke International Film Festival Awards 2026"
+    ],
+    "images": [
+      {
+        "url": "https://images.timesnownews.com/thumb/msid-156545093,thumbsize-741348,width-1280,height-720,resizemode-75/156545093.jpg",
+        "caption": "Haq Secures Two Honors at the Dadasaheb Phalke International Film Festival Awards 2026",
+        "source": "Times Now — Entertainment"
+      }
+    ],
+    "published": "2026-11-21T21:52:17Z"
+  },
+  "ewwxmt": {
+    "id": "ewwxmt",
+    "type": "news",
+    "headline": "Matthew Gray Gubler and Tony Shalhoub Join Forces in New CBS Crime Drama Einstein",
+    "dek": "The Criminal Minds fan-favorite star is heading a brand new network procedural alongside Monk icon Tony Shalhoub, with an official premiere date now locked in.",
+    "body": [
+      {
+        "h": "A New Chapter for Matthew Gray Gubler",
+        "p": [
+          "Actor Matthew Gray Gubler is officially returning to network television in a leading capacity. Known worldwide for his extensive tenure on the CBS crime procedural Criminal Minds, the performer spent fifteen seasons portraying the brilliant genius Dr. Spencer Reid.",
+          "During his time on the long-running series, Gubler became a definitive television icon. He shaped the character with distinct quirky styling choices and genuine emotional depth before stepping away as a regular during the show's revival era."
+        ]
+      },
+      {
+        "h": "The Premise of Einstein",
+        "p": [
+          "Gubler's departure from his previous home paved the way for a brand new project on the same network. CBS picked up a fresh crime drama titled Einstein, centering the actor in a tailored starring vehicle.",
+          "In this upcoming narrative, the lead star portrays Lewis Einstein, the directionless yet brilliant great-grandson of the famous physicist Albert Einstein. Professor Einstein finds his comfortable academic routine interrupted when legal trouble forces him to assist local law enforcement."
+        ]
+      },
+      {
+        "h": "Ensemble Cast Featuring a Monk Legend",
+        "p": [
+          "Adding to the anticipation, the series has enlisted legendary television star Tony Shalhoub. Shalhoub famously spent eight seasons portraying the meticulous detective Adrian Monk, cementing his status as a master of quirky procedural characters.",
+          "Within the world of Einstein, Shalhoub takes on the role of Jack Einstein, the father of Gubler's character. The ensemble cast also features Melissa Fumero as Detective Teresa London alongside Aunjanue Ellis Taylor in the role of Captain Marcia Frost."
+        ]
+      },
+      {
+        "h": "Creative Forces Behind the Scenes",
+        "p": [
+          "The creative DNA of the new show shares direct lineage with beloved detective television of the past. The production is steered by notable creative minds who bring a wealth of procedural experience to the network schedule.",
+          "Specifically, the drama was created by Andy Breckman and executive produced by Randy Zisk. Both industry veterans are heavily involved in guiding the new series forward as executive producers."
+        ]
+      },
+      {
+        "h": "Broadcast Schedule and Time Slot",
+        "p": [
+          "CBS has officially solidified the premiere logistics for the upcoming drama. The network scheduled the series premiere to air on Fridays at 8:00 p.m. ET/PT.",
+          "Fans marking their calendars can expect the first episode to debut on February 12, 2027. The weekly time slot places the procedural right into a prominent evening broadcast window."
+        ]
+      },
+      {
+        "h": "Familiar Territory for Procedural Fans",
+        "p": [
+          "The tone of the project promises to offer a comfortable experience for viewers who miss Gubler's earlier television work. While not a direct duplicate of his past endeavors, the character dynamics lean into familiar investigative territory.",
+          "By pairing an eccentric academic with local police detectives, the production establishes a classic investigative formula while injecting fresh comedic and dramatic energy into the network lineup."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Matthew Gray Gubler is officially returning to CBS to star in the new crime drama Einstein after previously leading Criminal Minds. The series, which also features Monk actor Tony Shalhoub and creators Andy Breckman and Randy Zisk, is scheduled to premiere on February 12, 2027."
+        ]
+      }
+    ],
+    "facts": [
+      "Matthew Gray Gubler starred as Dr. Spencer Reid on Criminal Minds for 15 seasons from 2005 to 2020.",
+      "Tony Shalhoub starred on Monk for eight seasons as Adrian Monk.",
+      "Einstein stars Matthew Gray Gubler as Lewis Einstein.",
+      "Tony Shalhoub plays Jack Einstein, the father of the main character.",
+      "Melissa Fumero plays Detective Teresa London and Aunjanue Ellis Taylor plays Captain Marcia Frost.",
+      "Andy Breckman and Randy Zisk created and executive produced the series.",
+      "Einstein premieres on February 12, 2027, airing on Fridays at 8:00 p.m. ET/PT on CBS."
+    ],
+    "entities": {
+      "people": [
+        "Matthew Gray Gubler",
+        "Tony Shalhoub",
+        "Andy Breckman",
+        "Randy Zisk",
+        "Melissa Fumero",
+        "Aunjanue Ellis Taylor",
+        "Albert Einstein"
+      ],
+      "titles": [
+        "Criminal Minds",
+        "Monk",
+        "Einstein",
+        "Criminal Minds: Evolution"
+      ]
+    },
+    "keywords": [
+      "Einstein CBS series",
+      "Matthew Gray Gubler Einstein",
+      "Tony Shalhoub Einstein show",
+      "Einstein release date"
+    ],
+    "images": [
+      {
+        "url": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/02/criminal-minds-matthew-gray-gubler-1.jpg?w=1600&amp;h=900&amp;fit=crop",
+        "caption": "Matthew Gray Gubler and Tony Shalhoub Join Forces in New CBS Crime Drama Einstein",
+        "source": "Collider"
+      }
+    ],
+    "published": "Sat, 21 Nov 2026 21:01:12 GMT"
   }
 };
