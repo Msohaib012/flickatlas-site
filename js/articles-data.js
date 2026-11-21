@@ -208383,5 +208383,382 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Sat, 21 Nov 2026 06:30:18 GMT"
+  },
+  "b0v9ox": {
+    "id": "b0v9ox",
+    "type": "news",
+    "headline": "Ramayana box office Day 16: Ranbir-Yash film smashes Rs 1,500 crore, beats KGF 2",
+    "dek": "With Rs 1,574.60 crore in global gross and Rs 880.05 crore in domestic nett earnings after 16 days, Ranbir Kapoor and Yash's Ramayana: Rise of a Legend has surpassed KGF: Chapter 2 to become Yash's biggest box-office hit in India.",
+    "body": [
+      {
+        "h": "Box Office Milestone and Collections",
+        "p": [
+          "Director Nitesh Tiwari's epic drama has achieved a monumental milestone by soaring past the Rs 1,500-crore mark globally in just 16 days of its theatrical run. Industry trackers note that the feature amassed a worldwide gross of Rs 1,574.60 crore, powered by steady domestic earnings and a strong international footprint.",
+          "On the domestic front, the movie accumulated a cumulative nett collection of Rs 880.05 crore alongside a domestic gross standing at Rs 1,051.60 crore. This impressive trajectory places the title firmly among the highest-earning domestic and global releases in cinematic history."
+        ]
+      },
+      {
+        "h": "Surpassing KGF Chapter 2",
+        "p": [
+          "A major highlight of this box-office run is the feature overtaking the lifetime domestic nett collection of KGF: Chapter 2, which closed its run at Rs 859.70 crore. By eclipsing that landmark figure, the current release has officially established itself as the highest-grossing film of Yash's career within India.",
+          "The comparison between the two blockbusters highlights the sustained audience appetite for large-scale action epics and mythological dramas. The updated benchmarks underline a massive upward shift in box-office potential for the leading star."
+        ]
+      },
+      {
+        "h": "Day 16 Performance and Language Breakup",
+        "p": [
+          "On Day 16, Friday, November 20, the feature brought in Rs 16.30 crore in India nett across 15,497 shows, marking a 15.8 percent decline from the previous day's haul of Rs 19.35 crore. Ticket sales for the single day reached 7,56,652 admissions, driving cumulative admissions to 3.57 crore across 3,64,736 shows.",
+          "The Hindi version served as the primary growth engine, driving 73.6 percent of the day's business with Rs 12.00 crore from 13,322 shows to reach a 16-day nett of Rs 669.50 crore. Meanwhile, regional dubbed versions contributed notably, with Malayalam earning Rs 1.75 crore, Tamil adding Rs 1.10 crore, Kannada bringing in Rs 1.00 crore, and Telugu contributing Rs 45 lakh."
+        ]
+      },
+      {
+        "h": "Global Standings and Domestic Rankings",
+        "p": [
+          "Internationally, the epic added Rs 8 crore overseas on Day 16, elevating its international gross to Rs 523 crore. This pushed its cumulative worldwide gross past the Rs 1,500-crore landmark to settle at Rs 1,574.60 crore.",
+          "On the domestic charts, the film ranks fourth among highest-grossing Indian releases in nett collections, trailing behind Pushpa 2: The Rule, Dhurandhar: The Revenge, and Baahubali 2: The Conclusion. Globally, it holds the fifth position among all-time Indian releases behind Dangal, Dhurandhar: The Revenge, Baahubali 2: The Conclusion, and Pushpa 2: The Rule."
+        ]
+      },
+      {
+        "h": "Cast and Crew Details",
+        "p": [
+          "The grand cinematic adaptation features Ranbir Kapoor in the role of Lord Rama alongside Sai Pallavi as Goddess Sita. Ravie Dubey essays Lakshman, while Yash takes on the role of Ravana.",
+          "The star-studded ensemble also features Lara Dutta, Kajal Aggarwal, Arun Govil, Rakul Preet Singh, and Vivek Oberoi in key roles. The project was helmed by director Nitesh Tiwari and opened in theaters on November 5, 2026."
+        ]
+      },
+      {
+        "h": "Early Weekend Projections",
+        "p": [
+          "Early morning estimates for Day 17 on Saturday added Rs 78 lakh nett from 1,034 tracked shows. This brings the running domestic nett total to Rs 880.83 crore.",
+          "With these figures, the production stands just Rs 19.17 crore away from entering the exclusive Rs 900 crore India nett club as it enters its crucial third weekend."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Ramayana: Rise of a Legend has crossed Rs 1,574.60 crore in global gross and Rs 880.05 crore in domestic nett earnings after 16 days in theaters. The Nitesh Tiwari directorial surpassed KGF: Chapter 2 to become Yash's biggest career hit in India while continuing its successful box-office run across multiple language versions."
+        ]
+      }
+    ],
+    "facts": [
+      "Ranbir Kapoor and Yash's Ramayana: Rise of a Legend reached Rs 1,574.60 crore in global gross after 16 days.",
+      "Domestic nett earnings after 16 days reached Rs 880.05 crore.",
+      "The film surpassed KGF: Chapter 2's lifetime domestic nett collection of Rs 859.70 crore.",
+      "Day 16 nett collection was Rs 16.30 crore across 15,497 shows.",
+      "The film theatrically released on November 5, 2026."
+    ],
+    "entities": {
+      "people": [
+        "Ranbir Kapoor",
+        "Yash",
+        "Nitesh Tiwari",
+        "Sai Pallavi",
+        "Ravie Dubey",
+        "Lara Dutta",
+        "Kajal Aggarwal",
+        "Arun Govil",
+        "Rakul Preet Singh",
+        "Vivek Oberoi"
+      ],
+      "titles": [
+        "Ramayana: Rise of a Legend",
+        "KGF: Chapter 2",
+        "Pushpa 2: The Rule",
+        "Dhurandhar: The Revenge",
+        "Baahubali 2: The Conclusion",
+        "Dangal"
+      ]
+    },
+    "keywords": [
+      "Ramayana Rise of a Legend box office",
+      "Ramayana Day 16 collection",
+      "Ranbir Kapoor Yash Ramayana film",
+      "Ramayana beats KGF 2"
+    ],
+    "images": [
+      {
+        "url": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202611/ramayana-box-office-day-16-ranbir-yash-film-smashes-rs-1500-crore--beats-kgf-2-215134371-16x9_0.jpg?VersionId=MezQt0KPd8MgNZZgqewaFQCLJLu9uXTx",
+        "caption": "Ramayana box office Day 16: Ranbir-Yash film smashes Rs 1,500 crore, beats KGF 2",
+        "source": "India Today — Movies"
+      }
+    ],
+    "published": "Sat, 21 Nov 2026 11:22:00 +0530"
+  },
+  "rau0ie": {
+    "id": "rau0ie",
+    "type": "news",
+    "headline": "Mark Gatiss' Hit Murder Mystery Series Bookish Officially Returns in Two Months",
+    "dek": "Creator Mark Gatiss returns to the detective genre with the post-WWII period mystery series Bookish, which is heading to US screens for its second season in January.",
+    "body": [
+      {
+        "h": "The Return of a Master Sleuth",
+        "p": [
+          "Fans of classic detective television are in for a treat as a major murder mystery series created by Sherlock co-creator Mark Gatiss officially prepares for its US return in just two months. Nearly a decade after the conclusion of Sherlock, Gatiss has shifted from adapting Arthur Conan Doyle's iconic tales to crafting his very own distinct investigator. Drawing heavy inspiration from the golden age of detective fiction and the timeless works of Agatha Christie, this fresh series offers a gripping new take on the historical mystery genre.",
+          "Set against the backdrop of post-World War II Britain, the show places its narrative firmly in London in the year 1946. This specific historical era provides a rich, atmospheric canvas as citizens attempt to rebuild their shattered lives and city following the devastating conflict. The shadowy, bombed-out corners and twisting alleyways of the capital city create countless hiding spots for dangerous secrets and illicit bodies, establishing a uniquely moody environment for complex criminal investigations."
+        ]
+      },
+      {
+        "h": "Meet Gabriel Book and His Inner Circle",
+        "p": [
+          "At the heart of the investigations is antiquarian bookseller Gabriel Book, portrayed by Mark Gatiss himself. Book acts as a consulting amateur detective who gains official clearance to collaborate with local law enforcement via a mysterious letter from Winston Churchill, serving as a clever nod to psychic paper elements seen in Doctor Who. His deep familiarity with both English and international literature grants him a unique perspective on human behavior that sets him apart from traditional officers.",
+          "Book operates alongside Inspector Bliss, played by Elliott Levey, who is known for being generally kind-hearted and sharp. Furthermore, Book navigates personal complexities including a lavender marriage with his wife Trottie, played by Polly Walker, and a complicated relationship with his recent convict employee Jack, portrayed by Connor Finch. These interpersonal dynamics provide an ongoing narrative thread that runs parallel to the standalone murder cases."
+        ]
+      },
+      {
+        "h": "US Release Schedule and Future Expansions",
+        "p": [
+          "The journey to US screens arrives via PBS, which has officially confirmed that brand new episodes will drop weekly on Sundays starting January 17 and running until February 21. Viewers will be able to catch the program on PBS, PBS.org, the PBS app, and through PBS Masterpiece on Prime Video. This follows an early vote of confidence that saw the series renewed for a second season even before its initial UK premiere took place.",
+          "Beyond the upcoming US broadcast, the franchise has plenty of additional content in store. A two-part Christmas special carrying the title Bookish: The Crown of Destiny is slated to premiere in the UK next month, though a specific US release date for the special remains unannounced. Additionally, production is already underway for a third season, which is widely expected to debut in the UK by mid-2027 before eventually making its way across the Atlantic."
+        ]
+      },
+      {
+        "h": "Expanding Mysteries and Global Settings",
+        "p": [
+          "While the inaugural outing established the detective's day-to-day operations through investigations set in locations like a swanky London hotel and a big-budget movie set, the second season broadens its geographical horizons. Season 2 ventures further away from Book's cozy home street to introduce elements like a séance, the undead, a fashionable tailor shop, and a brazen book thief. The climax of the second season even transports Book and Jack all the way to a medieval German town.",
+          "The episodic structure relies on distinct, one-off investigations spanning multiple episodes per season, blending fresh suspects with diverse industrial settings. By anchoring its stories in 1946, the show manages to stand apart from other post-war cozy mystery programs like Father Brown and Grantchester by maintaining a closer proximity to the immediate aftermath of wartime devastation."
+        ]
+      },
+      {
+        "h": "Critical Acclaim and Comparisons",
+        "p": [
+          "The show has earned significant praise from critics and audiences alike, boasting a rare 100% critics' score on Rotten Tomatoes for its first season. Critics and fans frequently draw comparisons between Gabriel Book and a hybrid of Sherlock Holmes and Daniel Craig's Benoit Blanc, highlighting his eccentricities and brilliant deductive reasoning. This universal appeal places the series comfortably alongside other British genre favorites such as Vera, Poirot, and The Marlow Murder Club.",
+          "With strong audience support and endless narrative possibilities stemming from London's post-war evolution, the series possesses the potential to run for many years. As long as crimes require a specialized intellect to untangle, Gabriel Book's unique methodology ensures the stories can continue well into the future."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Sherlock co-creator Mark Gatiss' period murder mystery series Bookish is officially returning with its second season arriving in the US on PBS this January. The post-WWII London drama stars Gatiss as antiquarian bookseller and amateur detective Gabriel Book, alongside an ensemble cast featuring Polly Walker and Elliott Levey. With strong critical acclaim and future seasons already in development, the hit mystery continues to expand its reach to global audiences."
+        ]
+      }
+    ],
+    "facts": [
+      "Mark Gatiss created and wrote Bookish.",
+      "Bookish is set in London in 1946.",
+      "Mark Gatiss plays Gabriel Book.",
+      "Elliott Levey plays Inspector Bliss.",
+      "Polly Walker plays Trottie.",
+      "Connor Finch plays Jack.",
+      "PBS confirmed new episodes will drop weekly on Sundays from January 17 until February 21.",
+      "Season 1 boasts a 100% Rotten Tomatoes critics' score.",
+      "A two-part Christmas special is titled Bookish: The Crown of Destiny."
+    ],
+    "entities": {
+      "people": [
+        "Mark Gatiss",
+        "Steven Moffat",
+        "Arthur Conan Doyle",
+        "Agatha Christie",
+        "Winston Churchill",
+        "Elliott Levey",
+        "Polly Walker",
+        "Connor Finch",
+        "Daniel Craig",
+        "Carolina Giammetta",
+        "Matthew Sweet"
+      ],
+      "titles": [
+        "Sherlock",
+        "Bookish",
+        "Doctor Who",
+        "Bookish: The Crown of Destiny",
+        "Father Brown",
+        "Grantchester",
+        "Death Valley",
+        "Vera",
+        "The Marlow Murder Club",
+        "Poirot"
+      ]
+    },
+    "keywords": [
+      "Bookish season 2 PBS",
+      "Mark Gatiss Bookish show",
+      "Gabriel Book detective series",
+      "Bookish release date January"
+    ],
+    "images": [
+      {
+        "url": "https://static0.srcdn.com/wordpress/wp-content/uploads/2026/11/elliot-levey-as-inspector-bliss-in-bookish.jpg?w=1600&amp;h=900&amp;fit=crop",
+        "caption": "Mark Gatiss' Hit Murder Mystery Series Bookish Officially Returns in Two Months",
+        "source": "Screen Rant"
+      }
+    ],
+    "published": "Sat, 21 Nov 2026 07:30:18 GMT"
+  },
+  "zzlw8d": {
+    "id": "zzlw8d",
+    "type": "news",
+    "headline": "Ramayana Hits 1574 Crore Worldwide As Salman Khan Defends Maatrubhumi Trailer",
+    "dek": "Ranbir Kapoor starrer Ramayana crosses massive global box office milestones while superstar Salman Khan addresses heavy online trolling directed at the Maatrubhumi trailer.",
+    "body": [
+      {
+        "h": "Entertainment Industry Updates For November",
+        "p": [
+          "As November approaches its conclusion, the entertainment sector is operating at an accelerated pace with continuous film updates and seasonal promotional events. Bollywood alongside regional film industries is busy organizing major announcements while digital platforms heavily amplify trailers, promotional clips, and celebrity appearances.",
+          "For cinephiles and general audiences, this crowded calendar functions as a concise preview of upcoming cinematic trends. A consolidated entertainment roundup helps fans keep track of significant industry milestones without navigating across multiple independent online destinations during a festive release window."
+        ]
+      },
+      {
+        "h": "Ramayana Box Office Performance",
+        "p": [
+          "The Ranbir Kapoor led mythological feature Ramayana continues to maintain a remarkably strong commercial hold at box office counters globally. The big-budget cinematic venture has successfully accumulated a staggering worldwide total reaching 1574.6 crore rupees following its sixteenth day in theaters.",
+          "The project has demonstrated consistent box office momentum during its theatrical run, capturing widespread audience interest across various domestic and international territories as it cruises through its third consecutive week on the big screen."
+        ]
+      },
+      {
+        "h": "Overseas Collection Milestones",
+        "p": [
+          "Tracking the latest financial reports published by Sacnilk, the mythological epic pulled in an impressive collection of 8 crore rupees specifically on its sixteenth day, which corresponds to its third Friday in cinemas.",
+          "This particular single-day overseas addition successfully pushed the cumulative international earnings for the feature to a massive 523 crore rupees, further solidifying its dominant market status worldwide."
+        ]
+      },
+      {
+        "h": "Salman Khan Addresses Trailer Trolling",
+        "p": [
+          "In a separate development dominating entertainment headlines, superstar Salman Khan has publicly responded to the intense online trolling and mixed reactions surrounding the newly released Maatrubhumi trailer.",
+          "Addressing the critics who claimed the promotional preview was excessively long or revealed too much of the plot, the prominent actor urged audiences to withhold their final judgment until they experience the full feature."
+        ]
+      },
+      {
+        "h": "Defending Maatrubhumi Against Early Judgments",
+        "p": [
+          "Challenging the severe online backlash, Salman Khan emphasized the age-old proverb about never judging a book by its cover, noting that detractors had already formed definitive opinions based solely on the promotional teaser.",
+          "The actor confidently suggested that if critics managed to find numerous points to pick apart in a five-minute trailer, they would discover an immense amount of material to analyze once the complete two and a half hour film premieres on December 4."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Ranbir Kapoor starrer Ramayana achieved a worldwide collection of 1574.6 crore rupees after sixteen days in theaters, driven by a strong third Friday overseas earning of 8 crore rupees. Meanwhile, Salman Khan addressed the mixed online trolling surrounding the Maatrubhumi trailer, urging fans not to judge the project prematurely ahead of its December 4 release."
+        ]
+      }
+    ],
+    "facts": [
+      "Ramayana worldwide collection reached 1574.6 crore rupees in 16 days",
+      "Ramayana earned 8 crore rupees on day 16 on its third Friday",
+      "Overall overseas collection for Ramayana reached 523 crore rupees",
+      "Maatrubhumi trailer received mixed responses and online trolling",
+      "Salman Khan addressed criticism regarding the Maatrubhumi trailer",
+      "Maatrubhumi is scheduled to release on December 4 with a runtime of two and a half hours"
+    ],
+    "entities": {
+      "people": [
+        "Ranbir Kapoor",
+        "Salman Khan"
+      ],
+      "titles": [
+        "Ramayana",
+        "Maatrubhumi"
+      ]
+    },
+    "keywords": [
+      "Ramayana box office collection",
+      "Salman Khan Maatrubhumi trailer",
+      "Ramayana 1574 crore",
+      "Maatrubhumi trailer trolling"
+    ],
+    "images": [
+      {
+        "url": "https://images.filmibeat.com/img/2026/11/entlivenov21feature-26331795241360.jpg",
+        "caption": "Ramayana Hits 1574 Crore Worldwide As Salman Khan Defends Maatrubhumi Trailer",
+        "source": "FilmiBeat"
+      }
+    ],
+    "published": "Sat, 21 Nov 2026 11:43:13 +0530"
+  },
+  "14xzms9": {
+    "id": "14xzms9",
+    "type": "news",
+    "headline": "Netflix Crime Thriller The Law of Beasts Rises to #2 Worldwide",
+    "dek": "A newly released four-part Polish crime drama on Netflix has quickly captured global audiences by exploring a chilling real-life case and a controversial judicial turning point.",
+    "body": [
+      {
+        "h": "Global Streaming Success",
+        "p": [
+          "A fresh four-part crime thriller on Netflix has rapidly ascended the platform's charts, claiming the #2 spot worldwide. Within days of its premiere, the series has become a prominent global streaming sensation, ranking at the top in multiple countries.",
+          "Viewers looking for a concise weekend marathon have embraced the show, positioning it alongside other popular titles on the service like The Altruists and Murder in Galicia."
+        ]
+      },
+      {
+        "h": "Release Details and Competition",
+        "p": [
+          "The series, titled The Law of Beasts, officially landed on Netflix on Wednesday, November 18, 2026. It is currently pushing toward the top viewership spot on the platform.",
+          "To capture the #1 position, the show must surpass the viral psychological horror series The Body, which has also been dominating audience engagement."
+        ]
+      },
+      {
+        "h": "True Crime Inspiration",
+        "p": [
+          "The narrative is deeply rooted in actual history, drawing inspiration from a disturbing real-life murder case in Poland. The plot centers on the impending release of a serial child murderer who killed four boys aged 11 to 13.",
+          "The storyline unfolds across two distinct and overlapping timelines in 1988 and 2014, marking the beginning and the anticipated end of the criminal's 25-year prison sentence."
+        ]
+      },
+      {
+        "h": "Legal Background and the Beast Law",
+        "p": [
+          "The real-life criminal originally faced the death penalty, but received an amnesty in 1989 that reduced his punishment to a term of imprisonment. As his release date approached in 2013, intense public outcry led to significant legislative changes in Poland.",
+          "This pressure resulted in the creation of the Beast Law, enacted in January 2014. The legislation permitted courts to transfer dangerous convicts to psychiatric institutions after completing their prison sentences to prevent societal reintegration."
+        ]
+      },
+      {
+        "h": "Fictional Protagonists and Moral Conflict",
+        "p": [
+          "While the historical backdrop is authentic, the central characters were created as narrative devices to explore the legal dilemma. Anna Bersz, portrayed by Agnieszka Grochowska, is a police detective from the 1988 investigation who later became a government official focused on public safety.",
+          "Agnieszka Grabska, played by Agnieszka Żulewska, is a psychiatrist tasked with examining the killer's mental state. The two lifelong friends find themselves on opposite sides of the ethical debate surrounding the Beast Law."
+        ]
+      },
+      {
+        "h": "Historical Legacy of the Case",
+        "p": [
+          "The real-life prisoner was ultimately transferred to a specialized psychiatric facility before returning to prison in 2015 for possession of illicit material, and he ultimately passed away while in custody in 2025.",
+          "The legislative framework introduced during his case continues to exist in Poland today, forever altering the nation's legal approach to violent offenders."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Netflix has launched a four-part crime thriller titled The Law of Beasts, which has quickly climbed to #2 worldwide. The series explores a controversial Polish legal statute enacted in 2014 following the impending release of a notorious serial killer.",
+          "Through fictionalized central characters portrayed by Agnieszka Grochowska and Agnieszka Żulewska, the show examines the profound moral dilemmas that permanently changed the country's judicial system."
+        ]
+      }
+    ],
+    "facts": [
+      "The Law of Beasts was released on Netflix on Wednesday, November 18, 2026.",
+      "The series is a 4-part crime thriller.",
+      "The show reached #2 worldwide on Netflix.",
+      "The Beast Law went into effect in January 2014 in Poland.",
+      "The real-life criminal killed four boys between the ages of 11 and 13.",
+      "The real-life criminal received an amnesty in 1989.",
+      "The real-life criminal died in custody in 2025.",
+      "Agnieszka Grochowska plays Anna Bersz.",
+      "Agnieszka Żulewska plays Agnieszka Grabska."
+    ],
+    "entities": {
+      "people": [
+        "Agnieszka Grochowska",
+        "Agnieszka Zulewska",
+        "Mariusz Trynkiewicz",
+        "Greg MacArthur"
+      ],
+      "titles": [
+        "The Law of Beasts",
+        "The Body",
+        "The Altruists",
+        "Murder in Galicia"
+      ]
+    },
+    "keywords": [
+      "The Law of Beasts Netflix",
+      "The Law of Beasts series",
+      "Agnieszka Grochowska The Law of Beasts",
+      "Agnieszka Zulewska Netflix"
+    ],
+    "images": [
+      {
+        "url": "https://static0.srcdn.com/wordpress/wp-content/uploads/2026/11/netflix-the-law-of-beasts-1.jpg?w=1600&amp;h=900&amp;fit=crop",
+        "caption": "Netflix Crime Thriller The Law of Beasts Rises to #2 Worldwide",
+        "source": "Screen Rant"
+      }
+    ],
+    "published": "Sat, 21 Nov 2026 07:00:18 GMT"
   }
 };

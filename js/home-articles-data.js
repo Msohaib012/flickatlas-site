@@ -45,6 +45,53 @@ window.FA_HOME_ARTICLES = {
     ],
     "published": "Sat, 21 Nov 2026 10:30:25 +0200"
   },
+  "rau0ie": {
+    "id": "rau0ie",
+    "type": "news",
+    "headline": "Mark Gatiss' Hit Murder Mystery Series Bookish Officially Returns in Two Months",
+    "dek": "Creator Mark Gatiss returns to the detective genre with the post-WWII period mystery series Bookish, which is heading to US screens for its second season in January.",
+    "entities": {
+      "people": [
+        "Mark Gatiss",
+        "Steven Moffat",
+        "Arthur Conan Doyle",
+        "Agatha Christie",
+        "Winston Churchill",
+        "Elliott Levey",
+        "Polly Walker",
+        "Connor Finch",
+        "Daniel Craig",
+        "Carolina Giammetta",
+        "Matthew Sweet"
+      ],
+      "titles": [
+        "Sherlock",
+        "Bookish",
+        "Doctor Who",
+        "Bookish: The Crown of Destiny",
+        "Father Brown",
+        "Grantchester",
+        "Death Valley",
+        "Vera",
+        "The Marlow Murder Club",
+        "Poirot"
+      ]
+    },
+    "keywords": [
+      "Bookish season 2 PBS",
+      "Mark Gatiss Bookish show",
+      "Gabriel Book detective series",
+      "Bookish release date January"
+    ],
+    "images": [
+      {
+        "url": "https://static0.srcdn.com/wordpress/wp-content/uploads/2026/11/elliot-levey-as-inspector-bliss-in-bookish.jpg?w=1600&amp;h=900&amp;fit=crop",
+        "caption": "Mark Gatiss' Hit Murder Mystery Series Bookish Officially Returns in Two Months",
+        "source": "Screen Rant"
+      }
+    ],
+    "published": "Sat, 21 Nov 2026 07:30:18 GMT"
+  },
   "m5ss59": {
     "id": "m5ss59",
     "type": "news",
@@ -78,6 +125,40 @@ window.FA_HOME_ARTICLES = {
     ],
     "images": [],
     "published": "Sat, 21 Nov 2026 02:23:00 EST"
+  },
+  "14xzms9": {
+    "id": "14xzms9",
+    "type": "news",
+    "headline": "Netflix Crime Thriller The Law of Beasts Rises to #2 Worldwide",
+    "dek": "A newly released four-part Polish crime drama on Netflix has quickly captured global audiences by exploring a chilling real-life case and a controversial judicial turning point.",
+    "entities": {
+      "people": [
+        "Agnieszka Grochowska",
+        "Agnieszka Zulewska",
+        "Mariusz Trynkiewicz",
+        "Greg MacArthur"
+      ],
+      "titles": [
+        "The Law of Beasts",
+        "The Body",
+        "The Altruists",
+        "Murder in Galicia"
+      ]
+    },
+    "keywords": [
+      "The Law of Beasts Netflix",
+      "The Law of Beasts series",
+      "Agnieszka Grochowska The Law of Beasts",
+      "Agnieszka Zulewska Netflix"
+    ],
+    "images": [
+      {
+        "url": "https://static0.srcdn.com/wordpress/wp-content/uploads/2026/11/netflix-the-law-of-beasts-1.jpg?w=1600&amp;h=900&amp;fit=crop",
+        "caption": "Netflix Crime Thriller The Law of Beasts Rises to #2 Worldwide",
+        "source": "Screen Rant"
+      }
+    ],
+    "published": "Sat, 21 Nov 2026 07:00:18 GMT"
   },
   "1iop9x7": {
     "id": "1iop9x7",
@@ -243,6 +324,36 @@ window.FA_HOME_ARTICLES = {
     ],
     "published": "Sat, 21 Nov 2026 06:30:18 GMT"
   },
+  "zzlw8d": {
+    "id": "zzlw8d",
+    "type": "news",
+    "headline": "Ramayana Hits 1574 Crore Worldwide As Salman Khan Defends Maatrubhumi Trailer",
+    "dek": "Ranbir Kapoor starrer Ramayana crosses massive global box office milestones while superstar Salman Khan addresses heavy online trolling directed at the Maatrubhumi trailer.",
+    "entities": {
+      "people": [
+        "Ranbir Kapoor",
+        "Salman Khan"
+      ],
+      "titles": [
+        "Ramayana",
+        "Maatrubhumi"
+      ]
+    },
+    "keywords": [
+      "Ramayana box office collection",
+      "Salman Khan Maatrubhumi trailer",
+      "Ramayana 1574 crore",
+      "Maatrubhumi trailer trolling"
+    ],
+    "images": [
+      {
+        "url": "https://images.filmibeat.com/img/2026/11/entlivenov21feature-26331795241360.jpg",
+        "caption": "Ramayana Hits 1574 Crore Worldwide As Salman Khan Defends Maatrubhumi Trailer",
+        "source": "FilmiBeat"
+      }
+    ],
+    "published": "Sat, 21 Nov 2026 11:43:13 +0530"
+  },
   "1viazxs": {
     "id": "1viazxs",
     "type": "news",
@@ -316,6 +427,48 @@ window.FA_HOME_ARTICLES = {
       }
     ],
     "published": "2026-11-21T05:52:15Z"
+  },
+  "b0v9ox": {
+    "id": "b0v9ox",
+    "type": "news",
+    "headline": "Ramayana box office Day 16: Ranbir-Yash film smashes Rs 1,500 crore, beats KGF 2",
+    "dek": "With Rs 1,574.60 crore in global gross and Rs 880.05 crore in domestic nett earnings after 16 days, Ranbir Kapoor and Yash's Ramayana: Rise of a Legend has surpassed KGF: Chapter 2 to become Yash's biggest box-office hit in India.",
+    "entities": {
+      "people": [
+        "Ranbir Kapoor",
+        "Yash",
+        "Nitesh Tiwari",
+        "Sai Pallavi",
+        "Ravie Dubey",
+        "Lara Dutta",
+        "Kajal Aggarwal",
+        "Arun Govil",
+        "Rakul Preet Singh",
+        "Vivek Oberoi"
+      ],
+      "titles": [
+        "Ramayana: Rise of a Legend",
+        "KGF: Chapter 2",
+        "Pushpa 2: The Rule",
+        "Dhurandhar: The Revenge",
+        "Baahubali 2: The Conclusion",
+        "Dangal"
+      ]
+    },
+    "keywords": [
+      "Ramayana Rise of a Legend box office",
+      "Ramayana Day 16 collection",
+      "Ranbir Kapoor Yash Ramayana film",
+      "Ramayana beats KGF 2"
+    ],
+    "images": [
+      {
+        "url": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202611/ramayana-box-office-day-16-ranbir-yash-film-smashes-rs-1500-crore--beats-kgf-2-215134371-16x9_0.jpg?VersionId=MezQt0KPd8MgNZZgqewaFQCLJLu9uXTx",
+        "caption": "Ramayana box office Day 16: Ranbir-Yash film smashes Rs 1,500 crore, beats KGF 2",
+        "source": "India Today — Movies"
+      }
+    ],
+    "published": "Sat, 21 Nov 2026 11:22:00 +0530"
   },
   "7tk3ll": {
     "id": "7tk3ll",
@@ -4364,72 +4517,6 @@ window.FA_HOME_ARTICLES = {
     ],
     "published": "2026-11-20T04:00:11.979Z"
   },
-  "okl598": {
-    "id": "okl598",
-    "type": "news",
-    "headline": "Aryan Khan calls Shah Rukh Khan a beast and views legacy comparisons as a compliment",
-    "dek": "Filmmaker Aryan Khan opens up about being likened to his superstar father, his creative process, and his inclusion in the TIME100 Next India list.",
-    "entities": {
-      "people": [
-        "Aryan Khan",
-        "Shah Rukh Khan",
-        "Gauri Khan",
-        "Alia Bhatt",
-        "Payal Kapadia",
-        "Theja Rio",
-        "Pawan Kumar Chandana",
-        "Diljit Dosanjh",
-        "Anirudh Ravichander",
-        "Jitendra Kumar",
-        "Samantha Ruth Prabhu",
-        "Ali Fazal",
-        "Sai Pallavi",
-        "Anuparna Roy",
-        "Arushi Mudgal",
-        "Ipshita Chakraborty Singh",
-        "Ishaan Khatter",
-        "Nayanthara",
-        "Pa Ranjith",
-        "Vedang Raina",
-        "Vicky Kaushal",
-        "Zahan Kapoor",
-        "Arivu",
-        "Faheem Abdullah",
-        "Ishaan Ghosh",
-        "Jasleen Royal",
-        "Prateek Kuhad",
-        "Lakshya",
-        "Sahher Bambba",
-        "Bobby Deol",
-        "Raghav Juyal",
-        "Aanya Singh",
-        "Manish Chaudhari",
-        "Mona Singh",
-        "Vijayant Kohli",
-        "Manoj Pahwa",
-        "Gautami Kapoor",
-        "Rajat Bedi",
-        "Bilal Siddiqui"
-      ],
-      "titles": [
-        "The Ba***ds of Bollywood"
-      ]
-    },
-    "keywords": [
-      "Aryan Khan",
-      "Shah Rukh Khan",
-      "The Ba***ds of Bollywood",
-      "TIME100 Next India"
-    ],
-    "images": [
-      {
-        "url": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202611/aryan-khan-205723137-16x9_0.jpg?VersionId=Uiq126bMgGO5QT3SrHitZ8zTxArp.08Q",
-        "caption": "Aryan Khan calls Shah Rukh Khan a beast and views legacy comparisons as a compliment",
-        "source": "India Today — Movies"
-      }
-    ],
-    "published": "Fri, 20 Nov 2026 09:28:46 +0530"
-  },
   "uspsxv": {
     "id": "uspsxv",
     "type": "news",
@@ -4459,103 +4546,6 @@ window.FA_HOME_ARTICLES = {
       }
     ],
     "published": "Fri, 20 Nov 2026 03:51:11 +0000"
-  },
-  "11hzvq4": {
-    "id": "11hzvq4",
-    "type": "news",
-    "headline": "Grand Theft Auto VI Unveils Voice Cast and Box Office Milestone",
-    "dek": "Rockstar Games has finally revealed the performers behind Lucia and Jason in Grand Theft Auto VI, alongside a massive sales milestone.",
-    "entities": {
-      "people": [
-        "Manni L. Perez",
-        "Dylan Rourke",
-        "Bobby Moynihan",
-        "Stephen Root",
-        "Taryn Manning",
-        "Roselyn Sanchez",
-        "Denzel Curry",
-        "Edwina Rai",
-        "Tyreek Hill",
-        "Weird Al Yankovic",
-        "Brigitte Nielsen",
-        "Charlamagne tha God",
-        "Ivy Rivera",
-        "Bad Bunny",
-        "Burna Boy",
-        "Lana Del Rey",
-        "Jeremy Irons",
-        "Keith Richards",
-        "Jason Sudeikis",
-        "Christopher Nolan"
-      ],
-      "titles": [
-        "Grand Theft Auto VI",
-        "The Odyssey"
-      ]
-    },
-    "keywords": [
-      "Grand Theft Auto VI voice cast",
-      "Lucia and Jason actors GTA VI",
-      "Manni L Perez Dylan Rourke GTA 6",
-      "Grand Theft Auto VI sales record"
-    ],
-    "images": [
-      {
-        "url": "https://static.toiimg.com/thumb/msid-136011505,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "caption": "Grand Theft Auto VI Unveils Voice Cast and Box Office Milestone",
-        "source": "Times of India — Entertainment"
-      }
-    ],
-    "published": "2026-11-20T09:05:28+05:30"
-  },
-  "19qac2h": {
-    "id": "19qac2h",
-    "type": "news",
-    "headline": "Darren Hayes Performs Savage Garden's 'Affirmation' at the 2026 ARIA Awards",
-    "dek": "Darren Hayes opened the 40th anniversary ARIA Awards with a performance of Savage Garden's 1999 hit \"Affirmation\" and later presented Kevin Parker with the ARIA Global Impact Award.",
-    "entities": {
-      "people": [
-        "Darren Hayes",
-        "Kevin Parker",
-        "Daniel Jones",
-        "Doja Cat",
-        "Brothers Osborne",
-        "Cody Johnson",
-        "Eminem",
-        "Erykah Badu",
-        "Rapsody",
-        "Rihanna",
-        "Baby Rocki",
-        "50 Cent"
-      ],
-      "titles": [
-        "Affirmation",
-        "Savage Garden",
-        "GTA 6",
-        "Born And Raised Hell",
-        "The Slim Shady Show",
-        "Billions Club",
-        "Truly Madly Deeply",
-        "I Knew I Loved You",
-        "I Want You",
-        "Grand Theft Auto VI",
-        "Lady Dior"
-      ]
-    },
-    "keywords": [
-      "Darren Hayes Affirmation ARIA Awards",
-      "Savage Garden 2026 ARIAs performance",
-      "Kevin Parker ARIA Global Impact Award",
-      "Darren Hayes Savage Garden reunion awards"
-    ],
-    "images": [
-      {
-        "url": "https://www.billboard.com/wp-content/uploads/2026/11/darren-hayes-aria-awards-2026-1800-harlie-hardy.jpg?w=1024",
-        "caption": "Darren Hayes Performs Savage Garden's 'Affirmation' at the 2026 ARIA Awards",
-        "source": "Billboard"
-      }
-    ],
-    "published": "Fri, 20 Nov 2026 03:32:17 +0000"
   },
   "uaxxk7": {
     "id": "uaxxk7",
