@@ -10,7 +10,7 @@
    "name": "Bollywood Movies & TV Shows",
    "url": "https://flickatlas.co.uk/category?cat=bollywood"
   },
-  "ssr": "<article class=\"ssr-facts\">\n<h1>Bollywood Movies &amp; TV Shows</h1>\n<p>Browse Bollywood films and Indian-language cinema, plus related TV titles. Explore available cast, story and release details on FlickAtlas.</p>\n<h2>Latest covered titles</h2>\n<ul><li>King (2026)</li><li>606 (2026)</li><li>Maatrubhumi: May War Rest in Peace (2026)</li><li>Yeh Prem Mol Liya (2026)</li><li>Prempaatta (2026)</li><li>Pei Pidichirukku (2026)</li><li>Niram (2026)</li><li>Mysaa (2026)</li><li>Minnum Oar Iravu (2026)</li><li>Haindava (2026)</li></ul>\n</article>",
+  "ssr": "<article class=\"ssr-facts\">\n<h1>Bollywood Movies &amp; TV Shows</h1>\n<p>Browse Bollywood films and Indian-language cinema, plus related TV titles. Explore available cast, story and release details on FlickAtlas.</p>\n<h2>Latest covered titles</h2>\n<ul><li>King (2026)</li><li>606 (2026)</li><li>Maatrubhumi: May War Rest in Peace (2026)</li><li>Yeh Prem Mol Liya (2026)</li><li>Sathyameva (2026)</li><li>Prempaatta (2026)</li><li>Pei Pidichirukku (2026)</li><li>Niram (2026)</li><li>Mysaa (2026)</li><li>Minnum Oar Iravu (2026)</li></ul>\n</article>",
   "t": "Bollywood Movies & TV Shows | FlickAtlas"
  },
  "cat:pakistani": {
@@ -38,7 +38,7 @@
    "name": "World Cinema Movies & TV Shows",
    "url": "https://flickatlas.co.uk/category?cat=world"
   },
-  "ssr": "<article class=\"ssr-facts\">\n<h1>World Cinema Movies &amp; TV Shows</h1>\n<p>Browse international films and television series on FlickAtlas, including Hollywood titles. Explore available cast, story and release information.</p>\n<h2>Latest covered titles</h2>\n<ul><li>Mo Amor (2027)</li><li>Witch on the Holy Night (2027)</li><li>The Liberation (2027)</li><li>Elsinore (2026)</li><li>Dune: Part Three (2026)</li><li>Avengers: Doomsday (2026)</li><li>The Odds (2026)</li><li>La Voz en La Estática (2026)</li><li>Jeanfi Janssens - Tombé du ciel (2026)</li><li>Intersection (2026)</li></ul>\n</article>",
+  "ssr": "<article class=\"ssr-facts\">\n<h1>World Cinema Movies &amp; TV Shows</h1>\n<p>Browse international films and television series on FlickAtlas, including Hollywood titles. Explore available cast, story and release information.</p>\n<h2>Latest covered titles</h2>\n<ul><li>Mo Amor (2027)</li><li>Witch on the Holy Night (2027)</li><li>The Liberation (2027)</li><li>Elsinore (2026)</li><li>Dune: Part Three (2026)</li><li>Avengers: Doomsday (2026)</li><li>孤楼夜幽灵 (2026)</li><li>いかさま隆二と裏切り純子 (2026)</li><li>my hamster video (2026)</li><li>The Odds (2026)</li></ul>\n</article>",
   "t": "World Cinema Movies & TV Shows | FlickAtlas"
  },
  "daywise:1081010": {
@@ -1424,6 +1424,79 @@
   "ssr": "<article class=\"ssr-facts\">\n<h1>The Mongoose (2026) — Day-wise Box Office Collection</h1>\n<ul><li>India Net total (all days): $422.6k</li><li>Latest reported day: Day 1 — 3 November 2026</li></ul>\n<h2>Day-wise collection (India Net, USD)</h2>\n<table><tr><th>Day</th><th>Date</th><th>India Net</th><th>Overseas</th></tr><tr><td>Day 1</td><td>2026-11-03</td><td>$422.6k</td><td>—</td></tr></table>\n</article>",
   "t": "The Mongoose (2026)",
   "total_in": 422610.0,
+  "total_ov": 0.0,
+  "year": "2026"
+ },
+ "daywise:1300968": {
+  "d": "The Hunger Games: Sunrise on the Reaping (2026) box office: daily rows cover Days 1–30; later days count in totals. India Net $12.68M.",
+  "day_rows": [
+   {
+    "d": "The Hunger Games: Sunrise on the Reaping (2026) box office Day 3 (2024-11-22): India Net $12.68M.",
+    "date": "2024-11-22",
+    "day": 3
+   }
+  ],
+  "days": 1,
+  "img": "https://image.tmdb.org/t/p/w780/aqFZcr2dxSZ2UwWSo1WC6C0rwDf.jpg",
+  "k": "The Hunger Games: Sunrise on the Reaping, The Hunger Games: Sunrise on the Reaping box office collection, The Hunger Games: Sunrise on the Reaping box office collection day wise, The Hunger Games: Sunrise on the Reaping day 1 collection, box office collection, FlickAtlas",
+  "latest_date": "2024-11-22",
+  "latest_day": "Day 3",
+  "ld": {
+   "@context": "https://schema.org",
+   "@type": "Movie",
+   "actor": [
+    {
+     "@type": "Person",
+     "name": "Joseph Zada"
+    },
+    {
+     "@type": "Person",
+     "name": "Mckenna Grace"
+    },
+    {
+     "@type": "Person",
+     "name": "Ralph Fiennes"
+    },
+    {
+     "@type": "Person",
+     "name": "Jesse Plemons"
+    },
+    {
+     "@type": "Person",
+     "name": "Glenn Close"
+    }
+   ],
+   "aggregateRating": {
+    "@type": "AggregateRating",
+    "bestRating": 10,
+    "ratingCount": 37,
+    "ratingValue": 7.5,
+    "worstRating": 0
+   },
+   "description": "The Hunger Games: Sunrise on the Reaping (2026): Science Fiction/Action film. Story: Return to the world of Panem 24 years before the… See cast.",
+   "director": [
+    {
+     "@type": "Person",
+     "name": "Francis Lawrence"
+    }
+   ],
+   "duration": "PT159M",
+   "genre": [
+    "Science Fiction",
+    "Action"
+   ],
+   "image": "https://image.tmdb.org/t/p/w780/aqFZcr2dxSZ2UwWSo1WC6C0rwDf.jpg",
+   "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1300968",
+   "name": "The Hunger Games: Sunrise on the Reaping",
+   "releasedEvent": {
+    "@type": "PublicationEvent",
+    "startDate": "2026-11-18"
+   },
+   "url": "https://flickatlas.co.uk/movie?id=1300968"
+  },
+  "ssr": "<article class=\"ssr-facts\">\n<h1>The Hunger Games: Sunrise on the Reaping (2026) — Day-wise Box Office Collection</h1>\n<ul><li>India Net total (all days): $12.68M</li><li>Latest reported day: Day 3 — 22 November 2024</li></ul>\n<h2>Day-wise collection (India Net, USD)</h2>\n<table><tr><th>Day</th><th>Date</th><th>India Net</th><th>Overseas</th></tr><tr><td>Day 3</td><td>2024-11-22</td><td>$12.68M</td><td>—</td></tr></table>\n</article>",
+  "t": "The Hunger Games: Sunrise on the Reaping (2026)",
+  "total_in": 12678288.0,
   "total_ov": 0.0,
   "year": "2026"
  },
@@ -6999,7 +7072,7 @@
   "year": "2026"
  },
  "daywise:656908": {
-  "d": "Ramayana: Rise of a Legend (2026) box office: daily rows cover Days 1–30; later days count in totals. India Net $95.58M. Overseas total: $48.94M.",
+  "d": "Ramayana: Rise of a Legend (2026) box office: daily rows cover Days 1–30; later days count in totals. India Net $96.64M. Overseas total: $48.94M.",
   "day_rows": [
    {
     "d": "Ramayana: Rise of a Legend (2026) box office Day 1 (2026-11-05): India Net $6.85M. Overseas: $5.41M.",
@@ -7077,7 +7150,7 @@
     "day": 15
    },
    {
-    "d": "Ramayana: Rise of a Legend (2026) box office Day 16 (2026-11-20): India Net $1.72M. Overseas: $845.2k.",
+    "d": "Ramayana: Rise of a Legend (2026) box office Day 16 (2026-11-20): India Net $2.78M. Overseas: $845.2k.",
     "date": "2026-11-20",
     "day": 16
    },
@@ -7145,9 +7218,9 @@
    },
    "url": "https://flickatlas.co.uk/movie?id=656908"
   },
-  "ssr": "<article class=\"ssr-facts\">\n<h1>Ramayana: Rise of a Legend (2026) — Day-wise Box Office Collection</h1>\n<ul><li>India Net total (all days): $95.58M</li><li>Overseas total: $48.94M</li><li>Latest reported day: Day 17 — 21 November 2026</li></ul>\n<h2>Day-wise collection (India Net, USD)</h2>\n<table><tr><th>Day</th><th>Date</th><th>India Net</th><th>Overseas</th></tr><tr><td>Day 1</td><td>2026-11-05</td><td>$6.85M</td><td>$5.41M</td></tr><tr><td>Day 2</td><td>2026-11-06</td><td>$5.08M</td><td>$4.86M</td></tr><tr><td>Day 3</td><td>2026-11-07</td><td>$7.37M</td><td>$7.24M</td></tr><tr><td>Day 4</td><td>2026-11-08</td><td>$5.93M</td><td>$4.75M</td></tr><tr><td>Day 5</td><td>2026-11-09</td><td>$11.36M</td><td>$2.64M</td></tr><tr><td>Day 6</td><td>2026-11-10</td><td>$9.94M</td><td>$3.7M</td></tr><tr><td>Day 7</td><td>2026-11-11</td><td>$7.46M</td><td>$2.64M</td></tr><tr><td>Day 8</td><td>2026-11-12</td><td>$5.39M</td><td>$2.64M</td></tr><tr><td>Day 9</td><td>2026-11-13</td><td>$6.02M</td><td>$2.64M</td></tr><tr><td>Day 10</td><td>2026-11-14</td><td>$7.7M</td><td>$3.17M</td></tr><tr><td>Day 11</td><td>2026-11-16</td><td>$7.92M</td><td>$4.7M</td></tr><tr><td>Day 12</td><td>2026-11-16</td><td>$3.38M</td><td>$1.06M</td></tr><tr><td>Day 13</td><td>2026-11-17</td><td>$3.03M</td><td>$1.27M</td></tr><tr><td>Day 14</td><td>2026-11-18</td><td>$2.45M</td><td>$845.2k</td></tr><tr><td>Day 15</td><td>2026-11-19</td><td>$1.58M</td><td>$528.3k</td></tr><tr><td>Day 16</td><td>2026-11-20</td><td>$1.72M</td><td>$845.2k</td></tr><tr><td>Day 17</td><td>2026-11-21</td><td>$2.38M</td><td>—</td></tr></table>\n</article>",
+  "ssr": "<article class=\"ssr-facts\">\n<h1>Ramayana: Rise of a Legend (2026) — Day-wise Box Office Collection</h1>\n<ul><li>India Net total (all days): $96.64M</li><li>Overseas total: $48.94M</li><li>Latest reported day: Day 17 — 21 November 2026</li></ul>\n<h2>Day-wise collection (India Net, USD)</h2>\n<table><tr><th>Day</th><th>Date</th><th>India Net</th><th>Overseas</th></tr><tr><td>Day 1</td><td>2026-11-05</td><td>$6.85M</td><td>$5.41M</td></tr><tr><td>Day 2</td><td>2026-11-06</td><td>$5.08M</td><td>$4.86M</td></tr><tr><td>Day 3</td><td>2026-11-07</td><td>$7.37M</td><td>$7.24M</td></tr><tr><td>Day 4</td><td>2026-11-08</td><td>$5.93M</td><td>$4.75M</td></tr><tr><td>Day 5</td><td>2026-11-09</td><td>$11.36M</td><td>$2.64M</td></tr><tr><td>Day 6</td><td>2026-11-10</td><td>$9.94M</td><td>$3.7M</td></tr><tr><td>Day 7</td><td>2026-11-11</td><td>$7.46M</td><td>$2.64M</td></tr><tr><td>Day 8</td><td>2026-11-12</td><td>$5.39M</td><td>$2.64M</td></tr><tr><td>Day 9</td><td>2026-11-13</td><td>$6.02M</td><td>$2.64M</td></tr><tr><td>Day 10</td><td>2026-11-14</td><td>$7.7M</td><td>$3.17M</td></tr><tr><td>Day 11</td><td>2026-11-16</td><td>$7.92M</td><td>$4.7M</td></tr><tr><td>Day 12</td><td>2026-11-16</td><td>$3.38M</td><td>$1.06M</td></tr><tr><td>Day 13</td><td>2026-11-17</td><td>$3.03M</td><td>$1.27M</td></tr><tr><td>Day 14</td><td>2026-11-18</td><td>$2.45M</td><td>$845.2k</td></tr><tr><td>Day 15</td><td>2026-11-19</td><td>$1.58M</td><td>$528.3k</td></tr><tr><td>Day 16</td><td>2026-11-20</td><td>$2.78M</td><td>$845.2k</td></tr><tr><td>Day 17</td><td>2026-11-21</td><td>$2.38M</td><td>—</td></tr></table>\n</article>",
   "t": "Ramayana: Rise of a Legend (2026)",
-  "total_in": 95583728.0,
+  "total_in": 96639196.0,
   "total_ov": 48943476.0,
   "year": "2026"
  },
@@ -7391,7 +7464,7 @@
    "name": "Bollywood, World Cinema & Box Office | FlickAtlas",
    "url": "https://flickatlas.co.uk/"
   },
-  "ssr": "<article class=\"ssr-facts\">\n<h1>FlickAtlas</h1>\n<p>Explore Bollywood and Indian cinema, World Cinema, Pakistani dramas, reported box office, OTT availability, release dates and entertainment news.</p>\n<h2>Latest news</h2>\n<ul><li>Shah Rukh Khan&#x27;s King Trailer Reportedly Slated For Dec 14 Release</li><li>First Look At Claudia Winkleman and Gordon Ramsay For Hell&#x27;s Kitchen Celebrity Reboot</li><li>Alka Yagnik Set for Stage Comeback at Subhash Ghai&#x27;s Kya Zamaana Tha Concert After Health Hiatus</li><li>Zehar-e-Mohabbat Episode 27 — Watch Online on HUM TV</li><li>Bano Episode 38 — Watch Online on Geo TV</li></ul>\n<h2>Trending titles</h2>\n<ul><li>One Piece (1999) — TMDB rating 8.8/10</li><li>MobLand (2025) — TMDB rating 8.6/10</li><li>VisionQuest (2026) — TMDB rating 8.7/10</li><li>Tulsa King (2022) — TMDB rating 8.3/10</li><li>The Odyssey (2026) — TMDB rating 8.0/10</li></ul>\n</article>",
+  "ssr": "<article class=\"ssr-facts\">\n<h1>FlickAtlas</h1>\n<p>Explore Bollywood and Indian cinema, World Cinema, Pakistani dramas, reported box office, OTT availability, release dates and entertainment news.</p>\n<h2>Latest news</h2>\n<ul><li>Fool In Love Episode 14 Release Schedule, Spoilers, and Streaming Details</li><li>Shah Rukh Khan&#x27;s King Trailer Reportedly Slated For Dec 14 Release</li><li>First Look At Claudia Winkleman and Gordon Ramsay For Hell&#x27;s Kitchen Celebrity Reboot</li><li>Alka Yagnik Set for Stage Comeback at Subhash Ghai&#x27;s Kya Zamaana Tha Concert After Health Hiatus</li><li>The Hunger Games: Sunrise on the Reaping Heads for Massive $120 Million Opening Weekend</li></ul>\n<h2>Trending titles</h2>\n<ul><li>One Piece (1999) — TMDB rating 8.8/10</li><li>MobLand (2025) — TMDB rating 8.6/10</li><li>VisionQuest (2026) — TMDB rating 8.7/10</li><li>Tulsa King (2022) — TMDB rating 8.3/10</li><li>The Odyssey (2026) — TMDB rating 8.0/10</li></ul>\n</article>",
   "t": "Bollywood, World Cinema & Box Office | FlickAtlas"
  },
  "movie:1003494": {
@@ -15877,7 +15950,7 @@
   },
   "modified": "",
   "published": "2026-11-03",
-  "ssr": "<article class=\"ssr-facts\">\n<h1>The Hunger Games: Sunrise on the Reaping (2026)</h1>\n<p class=\"ssr-lead\">Return to the world of Panem 24 years before the events of The Hunger Games, starting on the morning of the reaping of the 50th Hunger Games, also known as the Second Quarter Quell.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 18 November 2026</li><li>Runtime: 159 minutes</li><li>Director: Francis Lawrence</li><li>Genres: Science Fiction, Action, Adventure</li><li>Budget: $185M</li><li>TMDB rating: 7.5/10 (37 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Joseph Zada as Haymitch Abernathy</li><li>Mckenna Grace as Maysilee Donner / Merrilee Donner</li><li>Ralph Fiennes as President Coriolanus Snow</li><li>Jesse Plemons as Plutarch Heavensbee</li><li>Glenn Close as Drusilla Sickle</li><li>Whitney Peak as Lenore Dove Baird</li><li>Elle Fanning as Effie Trinket</li><li>Kieran Culkin as Caesar Flickerman</li><li>Maya Hawke as Wiress</li><li>Kelvin Harrison Jr. as Beetee Latier</li></ul>\n</article>",
+  "ssr": "<article class=\"ssr-facts\">\n<h1>The Hunger Games: Sunrise on the Reaping (2026)</h1>\n<p class=\"ssr-lead\">Return to the world of Panem 24 years before the events of The Hunger Games, starting on the morning of the reaping of the 50th Hunger Games, also known as the Second Quarter Quell.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 18 November 2026</li><li>Runtime: 159 minutes</li><li>Director: Francis Lawrence</li><li>Genres: Science Fiction, Action, Adventure</li><li>Budget: $185M</li><li>TMDB rating: 7.5/10 (37 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Joseph Zada as Haymitch Abernathy</li><li>Mckenna Grace as Maysilee Donner / Merrilee Donner</li><li>Ralph Fiennes as President Coriolanus Snow</li><li>Jesse Plemons as Plutarch Heavensbee</li><li>Glenn Close as Drusilla Sickle</li><li>Whitney Peak as Lenore Dove Baird</li><li>Elle Fanning as Effie Trinket</li><li>Kieran Culkin as Caesar Flickerman</li><li>Maya Hawke as Wiress</li><li>Kelvin Harrison Jr. as Beetee Latier</li></ul>\n<h2>Box office</h2>\n<ul><li>India Net total: $12.68M</li><li>Latest: Day 3 (2024-11-22) — India Net $12.68M</li></ul>\n</article>",
   "t": "The Hunger Games: Sunrise on the Reaping (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
   "year": "2026"
  },
@@ -21390,6 +21463,62 @@
   "t": "THE FURTHER MIS-ADVENTURES OF CLIFF BOOTH (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
   "year": "2026"
  },
+ "movie:1458249": {
+  "d": "Unbearable Christmas (2026): Comedy/Family film. Story: Out-of-work weatherman Troy Tipton has one Christmas… See cast and release date 20 November 2026.",
+  "img": "https://image.tmdb.org/t/p/w780/l5F9srTwYesGHzhPdBZDrktWYk1.jpg",
+  "industry": "world",
+  "k": "Unbearable Christmas, Unbearable Christmas movie, Unbearable Christmas cast, Unbearable Christmas story, Unbearable Christmas box office collection, Unbearable Christmas budget, Unbearable Christmas review, Unbearable Christmas rating, Unbearable Christmas release date, Unbearable Christmas Comedy, Unbearable Christmas Family, international movies, FlickAtlas",
+  "ld": {
+   "@context": "https://schema.org",
+   "@type": "Movie",
+   "actor": [
+    {
+     "@type": "Person",
+     "name": "Julia Stiles"
+    },
+    {
+     "@type": "Person",
+     "name": "Alex Moffat"
+    },
+    {
+     "@type": "Person",
+     "name": "Caroline Rhea"
+    },
+    {
+     "@type": "Person",
+     "name": "Kennedy Moyer"
+    },
+    {
+     "@type": "Person",
+     "name": "Ben Lewis Doherty"
+    }
+   ],
+   "description": "Unbearable Christmas (2026): Comedy/Family film. Story: Out-of-work weatherman Troy Tipton has one Christmas… See cast and release date 20 November 2026.",
+   "director": [
+    {
+     "@type": "Person",
+     "name": "Kevin Cate"
+    }
+   ],
+   "genre": [
+    "Comedy",
+    "Family"
+   ],
+   "image": "https://image.tmdb.org/t/p/w780/l5F9srTwYesGHzhPdBZDrktWYk1.jpg",
+   "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1458249",
+   "name": "Unbearable Christmas",
+   "releasedEvent": {
+    "@type": "PublicationEvent",
+    "startDate": "2026-11-20"
+   },
+   "url": "https://flickatlas.co.uk/movie?id=1458249"
+  },
+  "modified": "",
+  "published": "2026-11-21",
+  "ssr": "<article class=\"ssr-facts\">\n<h1>Unbearable Christmas (2026)</h1>\n<p class=\"ssr-lead\">Out-of-work weatherman Troy Tipton has one Christmas mission: retrieve the beloved teddy bear he pawned for holiday cash. With wife Becca, mother-in-law Dawn, and the kids in tow, Troy hits the road from Ohio to Florida in his old news van. But the family road trip gets even wilder when they discover the cherished bear is actually a priceless Teddy Roosevelt antique worth millions.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 20 November 2026</li><li>Director: Kevin Cate</li><li>Genres: Comedy, Family</li></ul>\n<h2>Top cast</h2>\n<ul><li>Julia Stiles as Becca Tipton</li><li>Alex Moffat as Troy Tipton</li><li>Caroline Rhea as Dawn</li><li>Kennedy Moyer as Gwen</li><li>Ben Lewis Doherty as Chase</li><li>Mena Suvari as Orenda</li><li>Al Roker as Al Roker</li><li>David Cross as Barry Brown</li><li>Stephen Root as Bob</li><li>Blake Sennett as Joseph</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Peacock Premium, Peacock Premium Plus</li></ul>\n<h2>Where to watch</h2>\n<ul><li>Streaming on Peacock Premium (US)</li><li>Streaming on Peacock Premium Plus (US)</li></ul>\n</article>",
+  "t": "Unbearable Christmas (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+  "year": "2026"
+ },
  "movie:1458300": {
   "d": "The Mosquito Bowl (2026): History/Drama film. Story: In the aftermath of Pearl Harbor, four college… See cast, review 5.5/10, and TMDB rating 6.3/10.",
   "img": "https://image.tmdb.org/t/p/w780/6BQf817glhR9motzKeCPynPGySi.jpg",
@@ -23577,6 +23706,62 @@
   "published": "2026-11-09",
   "ssr": "<article class=\"ssr-facts\">\n<h1>The Nameless Ballad (2026)</h1>\n<p class=\"ssr-lead\">Under pressure from his record label, a young musician in crisis takes refuge in an isolated Italian villa to find inspiration for his next album. But the discovery of an ancient piano and a forgotten diary drags him into a spiral of twisted obsessions, supernatural visions and ghostly presences that finally push him to the brink of madness.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 5 November 2026</li><li>Runtime: 87 minutes</li><li>Director: Federico Zampaglione</li><li>Genres: Horror</li><li>TMDB rating: 4.1/10 (6 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Jamie Ward as Sam Gallo</li><li>Alana Boden as Tania</li><li>Seumas F. Sargent as Paul</li><li>Sergio Ceglie</li><li>Vincenzo De Michele</li><li>Fabrizio Ferracane</li><li>Giglia Marra</li></ul>\n</article>",
   "t": "The Nameless Ballad (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+  "year": "2026"
+ },
+ "movie:1514611": {
+  "d": "The Chosen: Season 6 Premiere (2026): Drama film. Story: The sixth season premiere of the popular Biblical… See cast and release date 14 November 2026.",
+  "img": "https://image.tmdb.org/t/p/w780/1wRJXNjw0lY1Cuh1mvUl90h5nok.jpg",
+  "industry": "world",
+  "k": "The Chosen: Season 6 Premiere, The Chosen: Season 6 Premiere movie, The Chosen: Season 6 Premiere cast, The Chosen: Season 6 Premiere story, The Chosen: Season 6 Premiere box office collection, The Chosen: Season 6 Premiere budget, The Chosen: Season 6 Premiere review, The Chosen: Season 6 Premiere rating, The Chosen: Season 6 Premiere release date, The Chosen: Season 6 Premiere trailer, The Chosen: Season 6 Premiere Drama, international movies, FlickAtlas",
+  "ld": {
+   "@context": "https://schema.org",
+   "@type": "Movie",
+   "actor": [
+    {
+     "@type": "Person",
+     "name": "Jonathan Roumie"
+    },
+    {
+     "@type": "Person",
+     "name": "Elizabeth Tabish"
+    },
+    {
+     "@type": "Person",
+     "name": "Shahar Isaac"
+    },
+    {
+     "@type": "Person",
+     "name": "Paras Patel"
+    },
+    {
+     "@type": "Person",
+     "name": "Noah James"
+    }
+   ],
+   "description": "The Chosen: Season 6 Premiere (2026): Drama film. Story: The sixth season premiere of the popular Biblical… See cast and release date 14 November 2026.",
+   "director": [
+    {
+     "@type": "Person",
+     "name": "Dallas Jenkins"
+    }
+   ],
+   "duration": "PT52M",
+   "genre": [
+    "Drama"
+   ],
+   "image": "https://image.tmdb.org/t/p/w780/1wRJXNjw0lY1Cuh1mvUl90h5nok.jpg",
+   "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1514611",
+   "name": "The Chosen: Season 6 Premiere",
+   "releasedEvent": {
+    "@type": "PublicationEvent",
+    "startDate": "2026-11-14"
+   },
+   "url": "https://flickatlas.co.uk/movie?id=1514611"
+  },
+  "modified": "",
+  "published": "2026-11-21",
+  "ssr": "<article class=\"ssr-facts\">\n<h1>The Chosen: Season 6 Premiere (2026)</h1>\n<p class=\"ssr-lead\">The sixth season premiere of the popular Biblical television series, following Jesus&#x27; arrest and trial leading up to His crucifixion.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 14 November 2026</li><li>Runtime: 52 minutes</li><li>Director: Dallas Jenkins</li><li>Genres: Drama</li></ul>\n<h2>Top cast</h2>\n<ul><li>Jonathan Roumie as Jesus of Nazareth</li><li>Elizabeth Tabish as Mary Magdalene</li><li>Shahar Isaac as Simon Peter</li><li>Paras Patel as Matthew</li><li>Noah James as Andrew</li><li>George H. Xanthis as John</li><li>Nick Shakoour as Zebedee</li><li>Luke Dimyan as Judas Iscariot</li><li>Vanessa Benavente as Mary of Nazareth</li><li>Shaan Sharma as Shmuel</li></ul>\n</article>",
+  "t": "The Chosen: Season 6 Premiere (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
   "year": "2026"
  },
  "movie:1515692": {
@@ -31931,6 +32116,63 @@
   "t": "The Night Was Completely Ruined (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
   "year": "2026"
  },
+ "movie:1694711": {
+  "d": "Armored Trooper VOTOMS: Die Graue Hexe - Part 1 (2026): Animation/Science Fiction film. Story: Set against the backdrop of the final stages of the… See cast.",
+  "img": "https://image.tmdb.org/t/p/w780/uNeXCzJUoKmrUr5Z1OFZlJ5ETyV.jpg",
+  "industry": "world",
+  "k": "Armored Trooper VOTOMS: Die Graue Hexe - Part 1, Armored Trooper VOTOMS: Die Graue Hexe - Part 1 movie, Armored Trooper VOTOMS: Die Graue Hexe - Part 1 cast, Armored Trooper VOTOMS: Die Graue Hexe - Part 1 story, Armored Trooper VOTOMS: Die Graue Hexe - Part 1 box office collection, Armored Trooper VOTOMS: Die Graue Hexe - Part 1 budget, Armored Trooper VOTOMS: Die Graue Hexe - Part 1 review, Armored Trooper VOTOMS: Die Graue Hexe - Part 1 rating, Armored Trooper VOTOMS: Die Graue Hexe - Part 1 release date, Armored Trooper VOTOMS: Die Graue Hexe - Part 1 Animation, Armored Trooper VOTOMS: Die Graue Hexe - Part 1 Science Fiction, international movies, FlickAtlas",
+  "ld": {
+   "@context": "https://schema.org",
+   "@type": "Movie",
+   "actor": [
+    {
+     "@type": "Person",
+     "name": "Miyuki Sawashiro"
+    },
+    {
+     "@type": "Person",
+     "name": "Mabuki Ando"
+    },
+    {
+     "@type": "Person",
+     "name": "Shin-ichiro Miki"
+    },
+    {
+     "@type": "Person",
+     "name": "Yuki Kaji"
+    },
+    {
+     "@type": "Person",
+     "name": "Yuichi Nakamura"
+    }
+   ],
+   "description": "Armored Trooper VOTOMS: Die Graue Hexe - Part 1 (2026): Animation/Science Fiction film. Story: Set against the backdrop of the final stages of the… See cast.",
+   "director": [
+    {
+     "@type": "Person",
+     "name": "Mamoru Oshii"
+    }
+   ],
+   "duration": "PT100M",
+   "genre": [
+    "Animation",
+    "Science Fiction"
+   ],
+   "image": "https://image.tmdb.org/t/p/w780/uNeXCzJUoKmrUr5Z1OFZlJ5ETyV.jpg",
+   "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1694711",
+   "name": "Armored Trooper VOTOMS: Die Graue Hexe - Part 1",
+   "releasedEvent": {
+    "@type": "PublicationEvent",
+    "startDate": "2026-11-20"
+   },
+   "url": "https://flickatlas.co.uk/movie?id=1694711"
+  },
+  "modified": "",
+  "published": "2026-11-21",
+  "ssr": "<article class=\"ssr-facts\">\n<h1>Armored Trooper VOTOMS: Die Graue Hexe - Part 1 (2026)</h1>\n<p class=\"ssr-lead\">Set against the backdrop of the final stages of the Hundred Year War between Gilgamesh and Balarant that ravaged the Astragius Galaxy, army officer Maki Staufenberg is assigned to Valkyria II, the second planet in the Asgard system, where she is tasked with investigating Ash Vamps, a soldier who has earned the nickname of “Witch” because of her habit of being the sole survivor in missions assigned to her ragtag band of soldiers on punishment detail.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 20 November 2026</li><li>Runtime: 100 minutes</li><li>Director: Mamoru Oshii</li><li>Genres: Animation, Science Fiction, Action, War</li></ul>\n<h2>Top cast</h2>\n<ul><li>Miyuki Sawashiro as Ash Vamps (voice)</li><li>Mabuki Ando as Maki Stauffenberg (voice)</li><li>Shin-ichiro Miki as Alix Barrack (voice)</li><li>Yuki Kaji as Ignis Schweinsteiger (voice)</li><li>Yuichi Nakamura as Fritz Gersdorf (voice)</li><li>Satoshi Tsuruoka as Brunhart Müller (voice)</li><li>Tomokazu Sugita as Adrian Dysler (voice)</li><li>Kenta Miyake as Matt Hummels (voice)</li><li>Chafurin as Soltig van Gunnar (voice)</li><li>Hochu Otsuka as Vid Hildebrandt (voice)</li></ul>\n</article>",
+  "t": "Armored Trooper VOTOMS: Die Graue Hexe - Part 1 (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+  "year": "2026"
+ },
  "movie:1695819": {
   "d": "A Royal Stables Christmas (2026): Romance film. Story: At a prestigious equestrian training center, Ella… See cast and release date 12 November 2026.",
   "img": "https://image.tmdb.org/t/p/w500/1qmDtcGNYEmPsYjYU02Dt7MvYf3.jpg",
@@ -39949,6 +40191,46 @@
   "t": "I Want to Be Human (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
   "year": "2026"
  },
+ "movie:1791730": {
+  "d": "Primetime Preacher$ (2026): Documentary film. Story: Chronicles the 1980s golden age of Christian… See cast and TMDB rating 6.0/10.",
+  "img": "https://image.tmdb.org/t/p/w780/gwrGO8A61CtuxxurWjo3OAl1wcO.jpg",
+  "industry": "world",
+  "k": "Primetime Preacher$, Primetime Preacher$ movie, Primetime Preacher$ cast, Primetime Preacher$ story, Primetime Preacher$ box office collection, Primetime Preacher$ budget, Primetime Preacher$ review, Primetime Preacher$ rating, Primetime Preacher$ release date, Primetime Preacher$ trailer, Primetime Preacher$ Documentary, international movies, FlickAtlas",
+  "ld": {
+   "@context": "https://schema.org",
+   "@type": "Movie",
+   "aggregateRating": {
+    "@type": "AggregateRating",
+    "bestRating": 10,
+    "ratingCount": 1,
+    "ratingValue": 6.0,
+    "worstRating": 0
+   },
+   "description": "Primetime Preacher$ (2026): Documentary film. Story: Chronicles the 1980s golden age of Christian… See cast and TMDB rating 6.0/10.",
+   "director": [
+    {
+     "@type": "Person",
+     "name": "Joe Berlinger"
+    }
+   ],
+   "genre": [
+    "Documentary"
+   ],
+   "image": "https://image.tmdb.org/t/p/w780/gwrGO8A61CtuxxurWjo3OAl1wcO.jpg",
+   "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1791730",
+   "name": "Primetime Preacher$",
+   "releasedEvent": {
+    "@type": "PublicationEvent",
+    "startDate": "2026-11-14"
+   },
+   "url": "https://flickatlas.co.uk/movie?id=1791730"
+  },
+  "modified": "",
+  "published": "2026-11-21",
+  "ssr": "<article class=\"ssr-facts\">\n<h1>Primetime Preacher$ (2026)</h1>\n<p class=\"ssr-lead\">Chronicles the 1980s golden age of Christian broadcasting, detailing how three of America&#x27;s most prominent televangelists shifted evangelical Christianity into a massive political force.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 14 November 2026</li><li>Director: Joe Berlinger</li><li>Genres: Documentary</li><li>TMDB rating: 6.0/10 (1 votes)</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Netflix</li></ul>\n<h2>Where to watch</h2>\n<ul><li>Streaming on Netflix (IN)</li></ul>\n</article>",
+  "t": "Primetime Preacher$ (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+  "year": "2026"
+ },
  "movie:1791735": {
   "d": "Ženy v lihu (2026): Comedy film. See cast and release date 12 November 2026.",
   "img": "https://image.tmdb.org/t/p/w500/cYZhpRNXrjGf9LTT9LdVl88MZvc.jpg",
@@ -42322,6 +42604,62 @@
   "t": "Mo Amor (2027) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
   "year": "2027"
  },
+ "movie:1796954": {
+  "d": "Pop Pop (2026): Comedy film. Story: Dustin and Dibz survived their senior year of college… See cast and release date 15 November 2026.",
+  "img": "https://image.tmdb.org/t/p/w780/mBPJxfiqUMbQv84kYIsYsTMddwk.jpg",
+  "industry": "world",
+  "k": "Pop Pop, Pop Pop movie, Pop Pop cast, Pop Pop story, Pop Pop box office collection, Pop Pop budget, Pop Pop review, Pop Pop rating, Pop Pop release date, Pop Pop Comedy, international movies, FlickAtlas",
+  "ld": {
+   "@context": "https://schema.org",
+   "@type": "Movie",
+   "actor": [
+    {
+     "@type": "Person",
+     "name": "Cashton Tate Rehklau"
+    },
+    {
+     "@type": "Person",
+     "name": "Trevor Lown"
+    },
+    {
+     "@type": "Person",
+     "name": "Lena Kutscher"
+    },
+    {
+     "@type": "Person",
+     "name": "Austin Davis"
+    },
+    {
+     "@type": "Person",
+     "name": "Djuna Knight"
+    }
+   ],
+   "description": "Pop Pop (2026): Comedy film. Story: Dustin and Dibz survived their senior year of college… See cast and release date 15 November 2026.",
+   "director": [
+    {
+     "@type": "Person",
+     "name": "Dylan Stephen Levers"
+    }
+   ],
+   "duration": "PT83M",
+   "genre": [
+    "Comedy"
+   ],
+   "image": "https://image.tmdb.org/t/p/w780/mBPJxfiqUMbQv84kYIsYsTMddwk.jpg",
+   "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1796954",
+   "name": "Pop Pop",
+   "releasedEvent": {
+    "@type": "PublicationEvent",
+    "startDate": "2026-11-15"
+   },
+   "url": "https://flickatlas.co.uk/movie?id=1796954"
+  },
+  "modified": "",
+  "published": "2026-11-21",
+  "ssr": "<article class=\"ssr-facts\">\n<h1>Pop Pop (2026)</h1>\n<p class=\"ssr-lead\">Dustin and Dibz survived their senior year of college and their future looks bright. But can they also survive cancel culture? The Manosphere? Neo-n*zis? THE 2016 ELECTION?! Will they ever discover how to be Real Live Grown Up Men in Society? Probs not.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 15 November 2026</li><li>Runtime: 83 minutes</li><li>Director: Dylan Stephen Levers</li><li>Genres: Comedy</li></ul>\n<h2>Top cast</h2>\n<ul><li>Cashton Tate Rehklau</li><li>Trevor Lown</li><li>Lena Kutscher</li><li>Austin Davis</li><li>Djuna Knight</li></ul>\n</article>",
+  "t": "Pop Pop (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+  "year": "2026"
+ },
  "movie:1797116": {
   "d": "Shores (2026) is a film. Story: Amina’s life revolves around caring for her aging… See cast, review 6.5/10, and release date 29 October 2026.",
   "img": "https://image.tmdb.org/t/p/w500/6jTjEkeRD2yZlSAgcxIUHGpNmyo.jpg",
@@ -43556,6 +43894,63 @@
   "published": "2026-10-30",
   "ssr": "<article class=\"ssr-facts\">\n<h1>Only Old Friends Left Alive (2026)</h1>\n<p class=\"ssr-lead\">Retired Lao Cao and Xiao Lai, two old men, sit on opposite sides of a drinking table under an arcade in Taipei. They toast and talk nonsense like this every day, and they have done it for more than thirty years. A young director who meant only to watch somehow ends up at the table too, spending many absurd and moving nights with them. Years pass. Someone leaves, someone falls ill, and some relationships are repaired and then break again. The two men are old, they are nearly done with drink, and they no longer see each other often.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 6 November 2026</li><li>Director: Lin Tse-yu</li><li>Genres: Documentary</li></ul>\n</article>",
   "t": "Only Old Friends Left Alive (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+  "year": "2026"
+ },
+ "movie:1799512": {
+  "d": "Christmas Everyday: Married and Bright (2026): TV Movie/Comedy film. Story: Fancy prepares for the biggest season of her life and… See cast.",
+  "img": "https://image.tmdb.org/t/p/w780/5rJhxx6X5cjMIXMYwUxNJnXql7m.jpg",
+  "industry": "world",
+  "k": "Christmas Everyday: Married and Bright, Christmas Everyday: Married and Bright movie, Christmas Everyday: Married and Bright cast, Christmas Everyday: Married and Bright story, Christmas Everyday: Married and Bright box office collection, Christmas Everyday: Married and Bright budget, Christmas Everyday: Married and Bright review, Christmas Everyday: Married and Bright rating, Christmas Everyday: Married and Bright release date, Christmas Everyday: Married and Bright TV Movie, Christmas Everyday: Married and Bright Comedy, international movies, FlickAtlas",
+  "ld": {
+   "@context": "https://schema.org",
+   "@type": "Movie",
+   "actor": [
+    {
+     "@type": "Person",
+     "name": "Brandy Norwood"
+    },
+    {
+     "@type": "Person",
+     "name": "Robert C. Riley"
+    },
+    {
+     "@type": "Person",
+     "name": "Lamman Rucker"
+    },
+    {
+     "@type": "Person",
+     "name": "Sy’Rai Smith"
+    },
+    {
+     "@type": "Person",
+     "name": "Journey Carter"
+    }
+   ],
+   "description": "Christmas Everyday: Married and Bright (2026): TV Movie/Comedy film. Story: Fancy prepares for the biggest season of her life and… See cast.",
+   "director": [
+    {
+     "@type": "Person",
+     "name": "Roger M. Bobb"
+    }
+   ],
+   "duration": "PT88M",
+   "genre": [
+    "TV Movie",
+    "Comedy"
+   ],
+   "image": "https://image.tmdb.org/t/p/w780/5rJhxx6X5cjMIXMYwUxNJnXql7m.jpg",
+   "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1799512",
+   "name": "Christmas Everyday: Married and Bright",
+   "releasedEvent": {
+    "@type": "PublicationEvent",
+    "startDate": "2026-11-28"
+   },
+   "url": "https://flickatlas.co.uk/movie?id=1799512"
+  },
+  "modified": "",
+  "published": "2026-11-21",
+  "ssr": "<article class=\"ssr-facts\">\n<h1>Christmas Everyday: Married and Bright (2026)</h1>\n<p class=\"ssr-lead\">Fancy prepares for the biggest season of her life and to secure the future of her boutique while planning her dream Christmas wedding to fiance Jaylen, with the help of her mother Evelyn and sister Belle.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 28 November 2026</li><li>Runtime: 88 minutes</li><li>Director: Roger M. Bobb</li><li>Genres: TV Movie, Comedy, Romance</li><li>Status: Post Production</li></ul>\n<h2>Top cast</h2>\n<ul><li>Brandy Norwood as Francine &#x27;Fancy&#x27; Ballantine</li><li>Robert C. Riley as Jaylen</li><li>Lamman Rucker as Richard</li><li>Sy’Rai Smith as Belle Ballantine</li><li>Journey Carter as Tia</li><li>Debbi Morgan as Evelyn Ballantine</li><li>Jeffrey Bowyer-Chapman as Germaine</li><li>Kajuana S. Marie as Deena</li><li>Bernadette Speakes as Lyla</li><li>Kelvin Hair as Anthony</li></ul>\n</article>",
+  "t": "Christmas Everyday: Married and Bright (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
   "year": "2026"
  },
  "movie:1799668": {
@@ -53584,6 +53979,30 @@
   "t": "Quand Janet dort (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
   "year": "2026"
  },
+ "movie:1810889": {
+  "d": "Disney Adventure: Charting a New Course (2026) is a film. Story: Go behind the scenes with National Geographic to… See cast and release date 28 November 2026.",
+  "img": "https://image.tmdb.org/t/p/w500/iVZrSAPYzIzv25f3oKarOsCaG4V.jpg",
+  "industry": "world",
+  "k": "Disney Adventure: Charting a New Course, Disney Adventure: Charting a New Course movie, Disney Adventure: Charting a New Course cast, Disney Adventure: Charting a New Course story, Disney Adventure: Charting a New Course box office collection, Disney Adventure: Charting a New Course budget, Disney Adventure: Charting a New Course review, Disney Adventure: Charting a New Course rating, Disney Adventure: Charting a New Course release date, international movies, FlickAtlas",
+  "ld": {
+   "@context": "https://schema.org",
+   "@type": "Movie",
+   "description": "Disney Adventure: Charting a New Course (2026) is a film. Story: Go behind the scenes with National Geographic to… See cast and release date 28 November 2026.",
+   "image": "https://image.tmdb.org/t/p/w500/iVZrSAPYzIzv25f3oKarOsCaG4V.jpg",
+   "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1810889",
+   "name": "Disney Adventure: Charting a New Course",
+   "releasedEvent": {
+    "@type": "PublicationEvent",
+    "startDate": "2026-11-28"
+   },
+   "url": "https://flickatlas.co.uk/movie?id=1810889"
+  },
+  "modified": "",
+  "published": "2026-11-21",
+  "ssr": "<article class=\"ssr-facts\">\n<h1>Disney Adventure: Charting a New Course (2026)</h1>\n<p class=\"ssr-lead\">Go behind the scenes with National Geographic to explore the massive engineering and creative journey of building Disney Cruise Line&#x27;s largest ship to date, the Disney Adventure. From its initial rescue as a partially constructed vessel to its transformation into a floating Disney wonderland, this special documents the innovative design, construction challenges, and unparalleled scale required to bring this new class of ship to life.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 28 November 2026</li><li>Status: In Production</li></ul>\n</article>",
+  "t": "Disney Adventure: Charting a New Course (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+  "year": "2026"
+ },
  "movie:1810976": {
   "d": "La Boca (2026) is a film. Story: Following a historic drop in the water level of the… See cast and release date 26 November 2026.",
   "img": "https://image.tmdb.org/t/p/w500/woTp0cjzgdSMZzJ9Vo6LazpRGSF.jpg",
@@ -56863,6 +57282,43 @@
   "t": "La Muerte te Vio Volver (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
   "year": "2026"
  },
+ "movie:1814527": {
+  "d": "Le Retour des Grands Prédateurs en Bretagne (2026): Documentary film. See cast and release date 28 November 2026.",
+  "img": "https://image.tmdb.org/t/p/w500/p3ZOKCdvASjGPaa141972D8P0n7.jpg",
+  "industry": "world",
+  "k": "Le Retour des Grands Prédateurs en Bretagne, Le Retour des Grands Prédateurs en Bretagne movie, Le Retour des Grands Prédateurs en Bretagne cast, Le Retour des Grands Prédateurs en Bretagne story, Le Retour des Grands Prédateurs en Bretagne box office collection, Le Retour des Grands Prédateurs en Bretagne budget, Le Retour des Grands Prédateurs en Bretagne review, Le Retour des Grands Prédateurs en Bretagne rating, Le Retour des Grands Prédateurs en Bretagne release date, Le Retour des Grands Prédateurs en Bretagne Documentary, international movies, FlickAtlas",
+  "ld": {
+   "@context": "https://schema.org",
+   "@type": "Movie",
+   "description": "Le Retour des Grands Prédateurs en Bretagne (2026): Documentary film. See cast and release date 28 November 2026.",
+   "director": [
+    {
+     "@type": "Person",
+     "name": "Marie Alart"
+    },
+    {
+     "@type": "Person",
+     "name": "Manuel Lefèvre"
+    }
+   ],
+   "genre": [
+    "Documentary"
+   ],
+   "image": "https://image.tmdb.org/t/p/w500/p3ZOKCdvASjGPaa141972D8P0n7.jpg",
+   "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1814527",
+   "name": "Le Retour des Grands Prédateurs en Bretagne",
+   "releasedEvent": {
+    "@type": "PublicationEvent",
+    "startDate": "2026-11-28"
+   },
+   "url": "https://flickatlas.co.uk/movie?id=1814527"
+  },
+  "modified": "",
+  "published": "2026-11-21",
+  "ssr": "<article class=\"ssr-facts\">\n<h1>Le Retour des Grands Prédateurs en Bretagne (2026)</h1>\n<h2>Key facts</h2>\n<ul><li>Release date: 28 November 2026</li><li>Director: Marie Alart, Manuel Lefèvre</li><li>Genres: Documentary</li><li>Status: In Production</li></ul>\n</article>",
+  "t": "Le Retour des Grands Prédateurs en Bretagne (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+  "year": "2026"
+ },
  "movie:1814534": {
   "d": "Videotape (2026) is a film. Story: A cinematic essay about an interrupted film, using… See cast and release date 11 November 2026.",
   "img": "https://image.tmdb.org/t/p/w500/7WQr0rqRuhfq2nRAA17LD3omX9y.jpg",
@@ -58967,6 +59423,62 @@
   "t": "Qué lejos están las fuentes y los pájaros (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
   "year": "2026"
  },
+ "movie:1816491": {
+  "d": "Sathyameva (2026): Crime/Thriller film. Story: An upcoming courtroom thriller movie directed by… See cast and release date 27 November 2026.",
+  "img": "https://image.tmdb.org/t/p/w500/b9cgbE8RdM6GpnSsu8eDufqXLQk.jpg",
+  "industry": "bollywood",
+  "k": "Sathyameva, Sathyameva movie, Sathyameva cast, Sathyameva story, Sathyameva box office collection, Sathyameva budget, Sathyameva review, Sathyameva rating, Sathyameva release date, Sathyameva Crime, Sathyameva Thriller, Indian movies, FlickAtlas",
+  "ld": {
+   "@context": "https://schema.org",
+   "@type": "Movie",
+   "actor": [
+    {
+     "@type": "Person",
+     "name": "Rony David Raj"
+    },
+    {
+     "@type": "Person",
+     "name": "Meenakshi Unnikrishnan"
+    },
+    {
+     "@type": "Person",
+     "name": "Deepu Karunakaran"
+    },
+    {
+     "@type": "Person",
+     "name": "Jayaraj Kozhikode"
+    },
+    {
+     "@type": "Person",
+     "name": "Binny Sebastian"
+    }
+   ],
+   "description": "Sathyameva (2026): Crime/Thriller film. Story: An upcoming courtroom thriller movie directed by… See cast and release date 27 November 2026.",
+   "director": [
+    {
+     "@type": "Person",
+     "name": "Deepu Karunakaran"
+    }
+   ],
+   "genre": [
+    "Crime",
+    "Thriller"
+   ],
+   "image": "https://image.tmdb.org/t/p/w500/b9cgbE8RdM6GpnSsu8eDufqXLQk.jpg",
+   "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1816491",
+   "name": "Sathyameva",
+   "releasedEvent": {
+    "@type": "PublicationEvent",
+    "startDate": "2026-11-27"
+   },
+   "url": "https://flickatlas.co.uk/movie?id=1816491"
+  },
+  "modified": "",
+  "published": "2026-11-21",
+  "ssr": "<article class=\"ssr-facts\">\n<h1>Sathyameva (2026)</h1>\n<p class=\"ssr-lead\">An upcoming courtroom thriller movie directed by Deepu Karunakaran and written by K S Aravind.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 27 November 2026</li><li>Director: Deepu Karunakaran</li><li>Genres: Crime, Thriller, Drama</li><li>Status: Post Production</li></ul>\n<h2>Top cast</h2>\n<ul><li>Rony David Raj as Advocate Rajaram</li><li>Meenakshi Unnikrishnan as Advocate Anjali</li><li>Deepu Karunakaran</li><li>Jayaraj Kozhikode as Vijayan</li><li>Binny Sebastian</li><li>Sohan Seenulal</li><li>Meera Nair</li><li>Remya Suresh</li><li>Ajith Dhanwanthari</li></ul>\n</article>",
+  "t": "Sathyameva (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+  "year": "2026"
+ },
  "movie:1816668": {
   "d": "Ninho: Fame Ain’t Worth It (2026): Documentary/Music film. Story: At the height of his success in 2025, French rap star… See cast and TMDB rating 7.0/10.",
   "img": "https://image.tmdb.org/t/p/w780/vwGjInWZImDB2AQnnrIt9775q6L.jpg",
@@ -59303,6 +59815,62 @@
   "t": "Saara (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
   "year": "2026"
  },
+ "movie:1817684": {
+  "d": "孤楼夜幽灵 (2026): Thriller/Horror film. See cast and release date 28 November 2026.",
+  "img": "https://image.tmdb.org/t/p/w500/1vHuvZ8vKuZkSkxfAMdfzSkATrj.jpg",
+  "industry": "world",
+  "k": "孤楼夜幽灵, 孤楼夜幽灵 movie, 孤楼夜幽灵 cast, 孤楼夜幽灵 story, 孤楼夜幽灵 box office collection, 孤楼夜幽灵 budget, 孤楼夜幽灵 review, 孤楼夜幽灵 rating, 孤楼夜幽灵 release date, 孤楼夜幽灵 Thriller, 孤楼夜幽灵 Horror, international movies, FlickAtlas",
+  "ld": {
+   "@context": "https://schema.org",
+   "@type": "Movie",
+   "actor": [
+    {
+     "@type": "Person",
+     "name": "Zhou Yuzhu"
+    },
+    {
+     "@type": "Person",
+     "name": "Lei Chengkun"
+    },
+    {
+     "@type": "Person",
+     "name": "Wu Dan"
+    },
+    {
+     "@type": "Person",
+     "name": "Peng Bo"
+    },
+    {
+     "@type": "Person",
+     "name": "Kai Liang"
+    }
+   ],
+   "description": "孤楼夜幽灵 (2026): Thriller/Horror film. See cast and release date 28 November 2026.",
+   "director": [
+    {
+     "@type": "Person",
+     "name": "Zhang Weihu"
+    }
+   ],
+   "genre": [
+    "Thriller",
+    "Horror"
+   ],
+   "image": "https://image.tmdb.org/t/p/w500/1vHuvZ8vKuZkSkxfAMdfzSkATrj.jpg",
+   "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1817684",
+   "name": "孤楼夜幽灵",
+   "releasedEvent": {
+    "@type": "PublicationEvent",
+    "startDate": "2026-11-28"
+   },
+   "url": "https://flickatlas.co.uk/movie?id=1817684"
+  },
+  "modified": "",
+  "published": "2026-11-21",
+  "ssr": "<article class=\"ssr-facts\">\n<h1>孤楼夜幽灵 (2026)</h1>\n<h2>Key facts</h2>\n<ul><li>Release date: 28 November 2026</li><li>Director: Zhang Weihu</li><li>Genres: Thriller, Horror</li><li>Status: In Production</li></ul>\n<h2>Top cast</h2>\n<ul><li>Zhou Yuzhu as 林梦</li><li>Lei Chengkun as 庄文南</li><li>Wu Dan as 月华</li><li>Peng Bo as 彭教授</li><li>Kai Liang as 林梦丈夫</li><li>Wu Zi as 成年珠珠</li><li>Hou Yilin as 小李</li></ul>\n</article>",
+  "t": "孤楼夜幽灵 (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+  "year": "2026"
+ },
  "movie:1817773": {
   "d": "High End: The Watch Theft Ring (2026): Documentary film. Story: Investigates Chile's high-profile Caso Relojes… See cast and TMDB rating 7.0/10.",
   "img": "https://image.tmdb.org/t/p/w780/b96GsO1Bnh0XMWHiCKRfguvPNpy.jpg",
@@ -59388,6 +59956,54 @@
   "t": "DIDIMBAL (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
   "year": "2026"
  },
+ "movie:1818380": {
+  "d": "Sguardi (2026) is a film. See cast and release date 28 November 2026.",
+  "img": "https://image.tmdb.org/t/p/w500/QUYjyM9K1KNHm27bhIpZxRWKbi.jpg",
+  "industry": "world",
+  "k": "Sguardi, Sguardi movie, Sguardi cast, Sguardi story, Sguardi box office collection, Sguardi budget, Sguardi review, Sguardi rating, Sguardi release date, international movies, FlickAtlas",
+  "ld": {
+   "@context": "https://schema.org",
+   "@type": "Movie",
+   "actor": [
+    {
+     "@type": "Person",
+     "name": "Jovanotti"
+    },
+    {
+     "@type": "Person",
+     "name": "Valeria Bruni Tedeschi"
+    },
+    {
+     "@type": "Person",
+     "name": "Alessandro Baricco"
+    },
+    {
+     "@type": "Person",
+     "name": "Luciana Littizzetto"
+    }
+   ],
+   "description": "Sguardi (2026) is a film. See cast and release date 28 November 2026.",
+   "director": [
+    {
+     "@type": "Person",
+     "name": "Marco Ponti"
+    }
+   ],
+   "image": "https://image.tmdb.org/t/p/w500/QUYjyM9K1KNHm27bhIpZxRWKbi.jpg",
+   "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1818380",
+   "name": "Sguardi",
+   "releasedEvent": {
+    "@type": "PublicationEvent",
+    "startDate": "2026-11-28"
+   },
+   "url": "https://flickatlas.co.uk/movie?id=1818380"
+  },
+  "modified": "",
+  "published": "2026-11-21",
+  "ssr": "<article class=\"ssr-facts\">\n<h1>Sguardi (2026)</h1>\n<h2>Key facts</h2>\n<ul><li>Release date: 28 November 2026</li><li>Director: Marco Ponti</li><li>Status: In Production</li></ul>\n<h2>Top cast</h2>\n<ul><li>Jovanotti</li><li>Valeria Bruni Tedeschi</li><li>Alessandro Baricco</li><li>Luciana Littizzetto</li></ul>\n</article>",
+  "t": "Sguardi (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+  "year": "2026"
+ },
  "movie:1818583": {
   "d": "Rondolino Docet (2026) is a film. See cast and release date 26 November 2026.",
   "img": "https://image.tmdb.org/t/p/w500/9IYE81ViFWgEVVswHQuc0qXFY8Y.jpg",
@@ -59416,6 +60032,42 @@
   "published": "2026-11-19",
   "ssr": "<article class=\"ssr-facts\">\n<h1>Rondolino Docet (2026)</h1>\n<h2>Key facts</h2>\n<ul><li>Release date: 26 November 2026</li><li>Director: Mimmo Calopresti</li><li>Status: In Production</li></ul>\n</article>",
   "t": "Rondolino Docet (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+  "year": "2026"
+ },
+ "movie:1818625": {
+  "d": "Il Paradiso è un posto bellissimo (2026) is a film. See cast and release date 28 November 2026.",
+  "img": "https://image.tmdb.org/t/p/w500/ud8mVeWBm1XWKYGrvImc3CrWC9w.jpg",
+  "industry": "world",
+  "k": "Il Paradiso è un posto bellissimo, Il Paradiso è un posto bellissimo movie, Il Paradiso è un posto bellissimo cast, Il Paradiso è un posto bellissimo story, Il Paradiso è un posto bellissimo box office collection, Il Paradiso è un posto bellissimo budget, Il Paradiso è un posto bellissimo review, Il Paradiso è un posto bellissimo rating, Il Paradiso è un posto bellissimo release date, international movies, FlickAtlas",
+  "ld": {
+   "@context": "https://schema.org",
+   "@type": "Movie",
+   "actor": [
+    {
+     "@type": "Person",
+     "name": "Andrea Arcangeli"
+    }
+   ],
+   "description": "Il Paradiso è un posto bellissimo (2026) is a film. See cast and release date 28 November 2026.",
+   "director": [
+    {
+     "@type": "Person",
+     "name": "David Ambrosini"
+    }
+   ],
+   "image": "https://image.tmdb.org/t/p/w500/ud8mVeWBm1XWKYGrvImc3CrWC9w.jpg",
+   "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1818625",
+   "name": "Il Paradiso è un posto bellissimo",
+   "releasedEvent": {
+    "@type": "PublicationEvent",
+    "startDate": "2026-11-28"
+   },
+   "url": "https://flickatlas.co.uk/movie?id=1818625"
+  },
+  "modified": "",
+  "published": "2026-11-21",
+  "ssr": "<article class=\"ssr-facts\">\n<h1>Il Paradiso è un posto bellissimo (2026)</h1>\n<h2>Key facts</h2>\n<ul><li>Release date: 28 November 2026</li><li>Director: David Ambrosini</li><li>Status: In Production</li></ul>\n<h2>Top cast</h2>\n<ul><li>Andrea Arcangeli</li></ul>\n</article>",
+  "t": "Il Paradiso è un posto bellissimo (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
   "year": "2026"
  },
  "movie:1818821": {
@@ -59878,6 +60530,63 @@
   "published": "2026-11-07",
   "ssr": "<article class=\"ssr-facts\">\n<h1>Human.ID (2026)</h1>\n<p class=\"ssr-lead\">Human Identity is a 5-minute extended reality (XR) project that plunges viewers into a near-future digital ecosystem question, and redefine the boundaries of human identity and consciousness.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 14 November 2026</li><li>Runtime: 5 minutes</li><li>Director: Mohamed El Araby</li></ul>\n</article>",
   "t": "Human.ID (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+  "year": "2026"
+ },
+ "movie:1819632": {
+  "d": "Gaslight (2026): Thriller/Horror film. Story: A mourning couple’s getaway spirals out of control as… See cast and release date 28 November 2026.",
+  "img": "https://image.tmdb.org/t/p/w780/9SnCrWmvSb9Ih2VYQyrVbEEsP4.jpg",
+  "industry": "world",
+  "k": "Gaslight, Gaslight movie, Gaslight cast, Gaslight story, Gaslight box office collection, Gaslight budget, Gaslight review, Gaslight rating, Gaslight release date, Gaslight Thriller, Gaslight Horror, international movies, FlickAtlas",
+  "ld": {
+   "@context": "https://schema.org",
+   "@type": "Movie",
+   "actor": [
+    {
+     "@type": "Person",
+     "name": "Anne Crisostomo"
+    },
+    {
+     "@type": "Person",
+     "name": "Andrew McCulley"
+    },
+    {
+     "@type": "Person",
+     "name": "Kristine Nevrose Bustos"
+    },
+    {
+     "@type": "Person",
+     "name": "Veronika Solomon"
+    }
+   ],
+   "description": "Gaslight (2026): Thriller/Horror film. Story: A mourning couple’s getaway spirals out of control as… See cast and release date 28 November 2026.",
+   "director": [
+    {
+     "@type": "Person",
+     "name": "Ali Robinson"
+    },
+    {
+     "@type": "Person",
+     "name": "Sahvannah Rae"
+    }
+   ],
+   "duration": "PT26M",
+   "genre": [
+    "Thriller",
+    "Horror"
+   ],
+   "image": "https://image.tmdb.org/t/p/w780/9SnCrWmvSb9Ih2VYQyrVbEEsP4.jpg",
+   "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1819632",
+   "name": "Gaslight",
+   "releasedEvent": {
+    "@type": "PublicationEvent",
+    "startDate": "2026-11-28"
+   },
+   "url": "https://flickatlas.co.uk/movie?id=1819632"
+  },
+  "modified": "",
+  "published": "2026-11-21",
+  "ssr": "<article class=\"ssr-facts\">\n<h1>Gaslight (2026)</h1>\n<p class=\"ssr-lead\">A mourning couple’s getaway spirals out of control as a man juggles his wife’s grief, his mistress’s jealousy, and the fallout from both.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 28 November 2026</li><li>Runtime: 26 minutes</li><li>Director: Ali Robinson, Sahvannah Rae</li><li>Genres: Thriller, Horror, Comedy</li><li>Status: Post Production</li></ul>\n<h2>Top cast</h2>\n<ul><li>Anne Crisostomo as Yoli</li><li>Andrew McCulley as John</li><li>Kristine Nevrose Bustos as Kimmy</li><li>Veronika Solomon as Len</li></ul>\n</article>",
+  "t": "Gaslight (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
   "year": "2026"
  },
  "movie:1819685": {
@@ -60731,6 +61440,43 @@
   "t": "Huellas (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
   "year": "2026"
  },
+ "movie:1820865": {
+  "d": "いかさま隆二と裏切り純子 (2026) is a film. See cast and release date 28 November 2026.",
+  "img": "https://image.tmdb.org/t/p/w500/kCHl4y1XA5po8QARhfmDjSz5HmV.jpg",
+  "industry": "world",
+  "k": "いかさま隆二と裏切り純子, いかさま隆二と裏切り純子 movie, いかさま隆二と裏切り純子 cast, いかさま隆二と裏切り純子 story, いかさま隆二と裏切り純子 box office collection, いかさま隆二と裏切り純子 budget, いかさま隆二と裏切り純子 review, いかさま隆二と裏切り純子 rating, いかさま隆二と裏切り純子 release date, international movies, FlickAtlas",
+  "ld": {
+   "@context": "https://schema.org",
+   "@type": "Movie",
+   "actor": [
+    {
+     "@type": "Person",
+     "name": "Yuto Nakayama"
+    }
+   ],
+   "description": "いかさま隆二と裏切り純子 (2026) is a film. See cast and release date 28 November 2026.",
+   "director": [
+    {
+     "@type": "Person",
+     "name": "マツヲトシヒコ"
+    }
+   ],
+   "duration": "PT75M",
+   "image": "https://image.tmdb.org/t/p/w500/kCHl4y1XA5po8QARhfmDjSz5HmV.jpg",
+   "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1820865",
+   "name": "いかさま隆二と裏切り純子",
+   "releasedEvent": {
+    "@type": "PublicationEvent",
+    "startDate": "2026-11-28"
+   },
+   "url": "https://flickatlas.co.uk/movie?id=1820865"
+  },
+  "modified": "",
+  "published": "2026-11-21",
+  "ssr": "<article class=\"ssr-facts\">\n<h1>いかさま隆二と裏切り純子 (2026)</h1>\n<h2>Key facts</h2>\n<ul><li>Release date: 28 November 2026</li><li>Runtime: 75 minutes</li><li>Director: マツヲトシヒコ</li><li>Status: In Production</li></ul>\n<h2>Top cast</h2>\n<ul><li>Yuto Nakayama</li></ul>\n</article>",
+  "t": "いかさま隆二と裏切り純子 (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+  "year": "2026"
+ },
  "movie:1820980": {
   "d": "Saheb's stolen Redmi (2026): Comedy/Mystery film. Story: When Saheb loses his beloved Redmi phone, a precious… See cast and budget $28.",
   "img": "https://image.tmdb.org/t/p/w500/oXSintlDKZhcRlqvUqjTwjn7EtK.jpg",
@@ -60786,6 +61532,58 @@
   "published": "2026-11-08",
   "ssr": "<article class=\"ssr-facts\">\n<h1>Saheb&#x27;s stolen Redmi (2026)</h1>\n<p class=\"ssr-lead\">When Saheb loses his beloved Redmi phone, a precious gift from his girlfriend, he is left devastated. Desperate to get it back, he seeks help from his three friends—Lal, Bahadur and Shastri. Despite their initial reluctance, the trio joins him in a chaotic search filled with hilarious encounters and unexpected drama. When their efforts fail, they turn to Baba, a quirky astrologer, for help. Eventually, they find the damaged phone and visit a mechanic, who suggests an unusual alternative: stealing a phone from the notorious Lambu Don. What follows is a madcap adventure of comedy, drama and dance, leading to an unexpected twist!</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 8 November 2026</li><li>Runtime: 32 minutes</li><li>Director: Vibhav mishra</li><li>Genres: Comedy, Mystery, Drama</li><li>Budget: $28</li></ul>\n<h2>Top cast</h2>\n<ul><li>Vibhav mishra as Laal</li><li>Hamdan Bari as Shastri</li><li>Pratyush kumar singh as Bahadur</li><li>Devayan kundu as Lambu Don</li><li>Saheb sarkar as as original as he is</li><li>Anushka saha as Lambu don&#x27;s sister</li><li>Susmit Das as Subroto nath dillon</li><li>Sumit Das as Gaurav mahana</li><li>Siddharth Jha as Microsoft BABA</li><li>Akash Mishra as Naate (Lambu don&#x27;s right hand)</li></ul>\n</article>",
   "t": "Saheb's stolen Redmi (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+  "year": "2026"
+ },
+ "movie:1821166": {
+  "d": "Beneath the Skin (2026): Horror film. Story: Mother and daughter encounter a malicious creature… See cast and release date 28 November 2026.",
+  "img": "https://image.tmdb.org/t/p/w500/7bZ4ucs20d0Ve1QhCXyT5rlLaGB.jpg",
+  "industry": "world",
+  "k": "Beneath the Skin, Beneath the Skin movie, Beneath the Skin cast, Beneath the Skin story, Beneath the Skin box office collection, Beneath the Skin budget, Beneath the Skin review, Beneath the Skin rating, Beneath the Skin release date, Beneath the Skin Horror, international movies, FlickAtlas",
+  "ld": {
+   "@context": "https://schema.org",
+   "@type": "Movie",
+   "actor": [
+    {
+     "@type": "Person",
+     "name": "Luisina Quarleri"
+    },
+    {
+     "@type": "Person",
+     "name": "Joel Ezra Hebner"
+    },
+    {
+     "@type": "Person",
+     "name": "Mia Mamurov"
+    },
+    {
+     "@type": "Person",
+     "name": "Jolie Mamurov"
+    }
+   ],
+   "description": "Beneath the Skin (2026): Horror film. Story: Mother and daughter encounter a malicious creature… See cast and release date 28 November 2026.",
+   "director": [
+    {
+     "@type": "Person",
+     "name": "Tracy Kleeman"
+    }
+   ],
+   "duration": "PT6M",
+   "genre": [
+    "Horror"
+   ],
+   "image": "https://image.tmdb.org/t/p/w500/7bZ4ucs20d0Ve1QhCXyT5rlLaGB.jpg",
+   "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1821166",
+   "name": "Beneath the Skin",
+   "releasedEvent": {
+    "@type": "PublicationEvent",
+    "startDate": "2026-11-28"
+   },
+   "url": "https://flickatlas.co.uk/movie?id=1821166"
+  },
+  "modified": "",
+  "published": "2026-11-21",
+  "ssr": "<article class=\"ssr-facts\">\n<h1>Beneath the Skin (2026)</h1>\n<p class=\"ssr-lead\">Mother and daughter encounter a malicious creature from another world.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 28 November 2026</li><li>Runtime: 6 minutes</li><li>Director: Tracy Kleeman</li><li>Genres: Horror</li><li>Status: In Production</li></ul>\n<h2>Top cast</h2>\n<ul><li>Luisina Quarleri as Mia</li><li>Joel Ezra Hebner as Creature</li><li>Mia Mamurov as Nicole</li><li>Jolie Mamurov as Nicole</li></ul>\n</article>",
+  "t": "Beneath the Skin (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
   "year": "2026"
  },
  "movie:1821168": {
@@ -62085,6 +62883,46 @@
   "t": "Darius Rucker: They Called Me Hootie (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
   "year": "2026"
  },
+ "movie:1822924": {
+  "d": "And I Maintain (2026): Drama film. Story: Shards, desire and fear: the boundaries between… See cast and release date 28 November 2026.",
+  "img": "https://image.tmdb.org/t/p/w500/flWw1Hszn0xmBjjVQdpu5wxp5ua.jpg",
+  "industry": "world",
+  "k": "And I Maintain, And I Maintain movie, And I Maintain cast, And I Maintain story, And I Maintain box office collection, And I Maintain budget, And I Maintain review, And I Maintain rating, And I Maintain release date, And I Maintain Drama, international movies, FlickAtlas",
+  "ld": {
+   "@context": "https://schema.org",
+   "@type": "Movie",
+   "actor": [
+    {
+     "@type": "Person",
+     "name": "Marco Kerler"
+    }
+   ],
+   "description": "And I Maintain (2026): Drama film. Story: Shards, desire and fear: the boundaries between… See cast and release date 28 November 2026.",
+   "director": [
+    {
+     "@type": "Person",
+     "name": "Patrick Müller"
+    }
+   ],
+   "duration": "PT3M",
+   "genre": [
+    "Drama"
+   ],
+   "image": "https://image.tmdb.org/t/p/w500/flWw1Hszn0xmBjjVQdpu5wxp5ua.jpg",
+   "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1822924",
+   "name": "And I Maintain",
+   "releasedEvent": {
+    "@type": "PublicationEvent",
+    "startDate": "2026-11-28"
+   },
+   "url": "https://flickatlas.co.uk/movie?id=1822924"
+  },
+  "modified": "",
+  "published": "2026-11-21",
+  "ssr": "<article class=\"ssr-facts\">\n<h1>And I Maintain (2026)</h1>\n<p class=\"ssr-lead\">Shards, desire and fear: the boundaries between everyday life and dreams become blurred. A film about the truthfulness of things.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 28 November 2026</li><li>Runtime: 3 minutes</li><li>Director: Patrick Müller</li><li>Genres: Drama</li></ul>\n<h2>Top cast</h2>\n<ul><li>Marco Kerler as Narrator (voice)</li></ul>\n</article>",
+  "t": "And I Maintain (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+  "year": "2026"
+ },
  "movie:1823028": {
   "d": "All Things Come To Night (2026): Mystery/Thriller film. Story: A couple retreats to an isolated property in the… See cast and budget $70.0k.",
   "img": "https://image.tmdb.org/t/p/w780/qiR1aAMevxLUlff7dPqs7paqTBX.jpg",
@@ -62248,6 +63086,62 @@
   "t": "Inferis Ostium (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
   "year": "2026"
  },
+ "movie:1823053": {
+  "d": "No dejes de leer (2026): Horror film. Story: In a family where writing horror stories is a… See cast and release date 28 November 2026.",
+  "img": "https://image.tmdb.org/t/p/w500/yWfodyiuNHYV0uAcXKKhKpLRWN7.jpg",
+  "industry": "world",
+  "k": "No dejes de leer, No dejes de leer movie, No dejes de leer cast, No dejes de leer story, No dejes de leer box office collection, No dejes de leer budget, No dejes de leer review, No dejes de leer rating, No dejes de leer release date, No dejes de leer Horror, international movies, FlickAtlas",
+  "ld": {
+   "@context": "https://schema.org",
+   "@type": "Movie",
+   "actor": [
+    {
+     "@type": "Person",
+     "name": "Catalina Vera"
+    },
+    {
+     "@type": "Person",
+     "name": "Kevin Vainer"
+    },
+    {
+     "@type": "Person",
+     "name": "Karina Machuca"
+    },
+    {
+     "@type": "Person",
+     "name": "Mariana Antunes Fernandez"
+    },
+    {
+     "@type": "Person",
+     "name": "Araceli Orellano"
+    }
+   ],
+   "description": "No dejes de leer (2026): Horror film. Story: In a family where writing horror stories is a… See cast and release date 28 November 2026.",
+   "director": [
+    {
+     "@type": "Person",
+     "name": "Leo Rodríguez"
+    }
+   ],
+   "duration": "PT83M",
+   "genre": [
+    "Horror"
+   ],
+   "image": "https://image.tmdb.org/t/p/w500/yWfodyiuNHYV0uAcXKKhKpLRWN7.jpg",
+   "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1823053",
+   "name": "No dejes de leer",
+   "releasedEvent": {
+    "@type": "PublicationEvent",
+    "startDate": "2026-11-28"
+   },
+   "url": "https://flickatlas.co.uk/movie?id=1823053"
+  },
+  "modified": "",
+  "published": "2026-11-21",
+  "ssr": "<article class=\"ssr-facts\">\n<h1>No dejes de leer (2026)</h1>\n<p class=\"ssr-lead\">In a family where writing horror stories is a tradition, a mother and grandmother entertains her daughter and granddaughter by telling them chilling tales of murder, violence, and gruesome horrors. Each story presents a different setting: a factory where a group of friends becomes trapped with a relentless killer, a bowling match that turns into a bloody hunt, and a church that hides a secret as macabre as it is deadly. What begins as a night of storytelling soon spirals into a nightmare as fiction starts to blur with reality.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 28 November 2026</li><li>Runtime: 83 minutes</li><li>Director: Leo Rodríguez</li><li>Genres: Horror</li><li>Status: In Production</li></ul>\n<h2>Top cast</h2>\n<ul><li>Catalina Vera</li><li>Kevin Vainer</li><li>Karina Machuca</li><li>Mariana Antunes Fernandez</li><li>Araceli Orellano</li><li>Eduardo Benvenuto</li><li>Franco Schafer</li><li>Gamaliel Ramirez</li><li>Gustavo Esposito</li><li>Joaquín Raggio</li></ul>\n</article>",
+  "t": "No dejes de leer (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+  "year": "2026"
+ },
  "movie:1823156": {
   "d": "This is Why (2026): Fantasy/Drama film. Story: During a depressive period one night, a guy discovers… See cast and TMDB rating 8.0/10.",
   "img": "https://image.tmdb.org/t/p/w780/dGvrdiUA8bG96XYyrzDkQCr5s9h.jpg",
@@ -62294,6 +63188,62 @@
   "published": "2026-11-12",
   "ssr": "<article class=\"ssr-facts\">\n<h1>This is Why (2026)</h1>\n<p class=\"ssr-lead\">During a depressive period one night, a guy discovers a ghost in his room.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 19 November 2026</li><li>Runtime: 9 minutes</li><li>Director: Mike Kamkin</li><li>Genres: Fantasy, Drama</li><li>TMDB rating: 8.0/10 (1 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Mike Kamkin as Guy / Ghost</li></ul>\n</article>",
   "t": "This is Why (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+  "year": "2026"
+ },
+ "movie:1823351": {
+  "d": "No dejes de leer (2026): Horror film. Story: In a family where writing horror stories is a… See cast and release date 28 November 2026.",
+  "img": "https://image.tmdb.org/t/p/w500/6yhUbMphkhoGM5352UYsPFxhVIG.jpg",
+  "industry": "world",
+  "k": "No dejes de leer, No dejes de leer movie, No dejes de leer cast, No dejes de leer story, No dejes de leer box office collection, No dejes de leer budget, No dejes de leer review, No dejes de leer rating, No dejes de leer release date, No dejes de leer Horror, international movies, FlickAtlas",
+  "ld": {
+   "@context": "https://schema.org",
+   "@type": "Movie",
+   "actor": [
+    {
+     "@type": "Person",
+     "name": "Catalina Vera"
+    },
+    {
+     "@type": "Person",
+     "name": "Kevin Vainer"
+    },
+    {
+     "@type": "Person",
+     "name": "Karina Machuca"
+    },
+    {
+     "@type": "Person",
+     "name": "Mariana Antunes Fernandez"
+    },
+    {
+     "@type": "Person",
+     "name": "Araceli Orellano"
+    }
+   ],
+   "description": "No dejes de leer (2026): Horror film. Story: In a family where writing horror stories is a… See cast and release date 28 November 2026.",
+   "director": [
+    {
+     "@type": "Person",
+     "name": "Leo Rodríguez"
+    }
+   ],
+   "duration": "PT83M",
+   "genre": [
+    "Horror"
+   ],
+   "image": "https://image.tmdb.org/t/p/w500/6yhUbMphkhoGM5352UYsPFxhVIG.jpg",
+   "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1823351",
+   "name": "No dejes de leer",
+   "releasedEvent": {
+    "@type": "PublicationEvent",
+    "startDate": "2026-11-28"
+   },
+   "url": "https://flickatlas.co.uk/movie?id=1823351"
+  },
+  "modified": "",
+  "published": "2026-11-21",
+  "ssr": "<article class=\"ssr-facts\">\n<h1>No dejes de leer (2026)</h1>\n<p class=\"ssr-lead\">In a family where writing horror stories is a tradition, a mother and grandmother entertains her daughter and granddaughter by telling them chilling tales of murder, violence, and gruesome horrors. Each story presents a different setting: a factory where a group of friends becomes trapped with a relentless killer, a bowling match that turns into a bloody hunt, and a church that hides a secret as macabre as it is deadly. What begins as a night of storytelling soon spirals into a nightmare as fiction starts to blur with reality.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 28 November 2026</li><li>Runtime: 83 minutes</li><li>Director: Leo Rodríguez</li><li>Genres: Horror</li><li>Status: In Production</li></ul>\n<h2>Top cast</h2>\n<ul><li>Catalina Vera</li><li>Kevin Vainer</li><li>Karina Machuca</li><li>Mariana Antunes Fernandez</li><li>Araceli Orellano</li><li>Eduardo Benvenuto</li><li>Franco Schafer</li><li>Gamaliel Ramirez</li><li>Gustavo Esposito</li><li>Joaquín Raggio</li></ul>\n</article>",
+  "t": "No dejes de leer (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
   "year": "2026"
  },
  "movie:1823376": {
@@ -64136,6 +65086,46 @@
   "t": "Ali, I mean Matias (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
   "year": "2026"
  },
+ "movie:1827471": {
+  "d": "Mike Ward: Modest (2026): Comedy film. Story: French-Canadian comic Mike Ward delivers an… See cast and release date 17 November 2026.",
+  "img": "https://image.tmdb.org/t/p/w500/oB9Pcb5grM5Gk0TDWZeBZ3vHhDZ.jpg",
+  "industry": "world",
+  "k": "Mike Ward: Modest, Mike Ward: Modest movie, Mike Ward: Modest cast, Mike Ward: Modest story, Mike Ward: Modest box office collection, Mike Ward: Modest budget, Mike Ward: Modest review, Mike Ward: Modest rating, Mike Ward: Modest release date, Mike Ward: Modest Comedy, international movies, FlickAtlas",
+  "ld": {
+   "@context": "https://schema.org",
+   "@type": "Movie",
+   "actor": [
+    {
+     "@type": "Person",
+     "name": "Mike Ward"
+    }
+   ],
+   "description": "Mike Ward: Modest (2026): Comedy film. Story: French-Canadian comic Mike Ward delivers an… See cast and release date 17 November 2026.",
+   "director": [
+    {
+     "@type": "Person",
+     "name": "Anthony Hamelin"
+    }
+   ],
+   "duration": "PT62M",
+   "genre": [
+    "Comedy"
+   ],
+   "image": "https://image.tmdb.org/t/p/w500/oB9Pcb5grM5Gk0TDWZeBZ3vHhDZ.jpg",
+   "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1827471",
+   "name": "Mike Ward: Modest",
+   "releasedEvent": {
+    "@type": "PublicationEvent",
+    "startDate": "2026-11-17"
+   },
+   "url": "https://flickatlas.co.uk/movie?id=1827471"
+  },
+  "modified": "",
+  "published": "2026-11-21",
+  "ssr": "<article class=\"ssr-facts\">\n<h1>Mike Ward: Modest (2026)</h1>\n<p class=\"ssr-lead\">French-Canadian comic Mike Ward delivers an unapologetically honest set, from dating after divorce to living life to the fullest - one impulse at a time</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 17 November 2026</li><li>Runtime: 62 minutes</li><li>Director: Anthony Hamelin</li><li>Genres: Comedy</li></ul>\n<h2>Top cast</h2>\n<ul><li>Mike Ward as Self</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Netflix</li></ul>\n<h2>Where to watch</h2>\n<ul><li>Streaming on Netflix (IN)</li></ul>\n</article>",
+  "t": "Mike Ward: Modest (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+  "year": "2026"
+ },
  "movie:1827515": {
   "d": "Retratos (2026): Drama film. See cast and release date 23 November 2026.",
   "img": "https://image.tmdb.org/t/p/w780/pejYBCzysHjzb1rLbj4sxu09F53.jpg",
@@ -65184,6 +66174,43 @@
   "t": "Jeanfi Janssens - Tombé du ciel (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
   "year": "2026"
  },
+ "movie:1833997": {
+  "d": "my hamster video (2026) is a film. Story: My hamster likes to eat, drink water, and run. See cast, budget $20, and release date 28 November 2026.",
+  "img": "https://image.tmdb.org/t/p/w500/yQqICOdlS5Or9wicZcLzxsz64In.jpg",
+  "industry": "world",
+  "k": "my hamster video, my hamster video movie, my hamster video cast, my hamster video story, my hamster video box office collection, my hamster video budget, my hamster video review, my hamster video rating, my hamster video release date, international movies, FlickAtlas",
+  "ld": {
+   "@context": "https://schema.org",
+   "@type": "Movie",
+   "actor": [
+    {
+     "@type": "Person",
+     "name": "Alex Hickey"
+    }
+   ],
+   "description": "my hamster video (2026) is a film. Story: My hamster likes to eat, drink water, and run. See cast, budget $20, and release date 28 November 2026.",
+   "director": [
+    {
+     "@type": "Person",
+     "name": "Alex Hickey"
+    }
+   ],
+   "duration": "PT2M",
+   "image": "https://image.tmdb.org/t/p/w500/yQqICOdlS5Or9wicZcLzxsz64In.jpg",
+   "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1833997",
+   "name": "my hamster video",
+   "releasedEvent": {
+    "@type": "PublicationEvent",
+    "startDate": "2026-11-28"
+   },
+   "url": "https://flickatlas.co.uk/movie?id=1833997"
+  },
+  "modified": "",
+  "published": "2026-11-21",
+  "ssr": "<article class=\"ssr-facts\">\n<h1>my hamster video (2026)</h1>\n<p class=\"ssr-lead\">My hamster likes to eat, drink water, and run.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 28 November 2026</li><li>Runtime: 2 minutes</li><li>Director: Alex Hickey</li><li>Budget: $20</li><li>Status: Planned</li></ul>\n<h2>Top cast</h2>\n<ul><li>Alex Hickey</li></ul>\n</article>",
+  "t": "my hamster video (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+  "year": "2026"
+ },
  "movie:447273": {
   "d": "Snow White (2025): Family/Fantasy film. Story: Following the benevolent King's disappearance, the… See cast, budget $271.6M, and review 6/10.",
   "img": "https://image.tmdb.org/t/p/w780/tyfO9jHgkhypUFizRVYD0bytPjP.jpg",
@@ -65661,7 +66688,7 @@
   },
   "modified": "",
   "published": "2026-10-26",
-  "ssr": "<article class=\"ssr-facts\">\n<h1>Ramayana: Rise of a Legend (2026)</h1>\n<p class=\"ssr-lead\">An ancient epic follows a young prince and princess whose marriage and subsequent exile mark the beginning of a legendary journey. Their story of love, duty and destiny sets the stage for greater challenges ahead.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 5 November 2026</li><li>Runtime: 208 minutes</li><li>Director: Nitesh Tiwari</li><li>Genres: Fantasy, Action, Adventure</li><li>Budget: $250M</li><li>TMDB rating: 6.6/10 (8 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Ranbir Kapoor as Prince Rama / Parashurama</li><li>Yash as Ravana</li><li>Sai Pallavi as Sita</li><li>Ravi Dubey as Lakshmana</li><li>Arun Govil as King Dashrath</li><li>Lara Dutta as Kaikeyi</li><li>Rakul Preet Singh as Surpanakha</li><li>Indira Krishnan as Kaushalya</li><li>Sonal Jha as Sumitra</li><li>Adinath Kothare as Bharata</li></ul>\n<h2>Box office</h2>\n<ul><li>India Net total: $95.58M</li><li>Overseas total: $48.94M</li><li>Latest: Day 17 (2026-11-21) — India Net $2.38M</li><li>Worldwide total: $144.53M</li></ul>\n</article>",
+  "ssr": "<article class=\"ssr-facts\">\n<h1>Ramayana: Rise of a Legend (2026)</h1>\n<p class=\"ssr-lead\">An ancient epic follows a young prince and princess whose marriage and subsequent exile mark the beginning of a legendary journey. Their story of love, duty and destiny sets the stage for greater challenges ahead.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 5 November 2026</li><li>Runtime: 208 minutes</li><li>Director: Nitesh Tiwari</li><li>Genres: Fantasy, Action, Adventure</li><li>Budget: $250M</li><li>TMDB rating: 6.6/10 (8 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Ranbir Kapoor as Prince Rama / Parashurama</li><li>Yash as Ravana</li><li>Sai Pallavi as Sita</li><li>Ravi Dubey as Lakshmana</li><li>Arun Govil as King Dashrath</li><li>Lara Dutta as Kaikeyi</li><li>Rakul Preet Singh as Surpanakha</li><li>Indira Krishnan as Kaushalya</li><li>Sonal Jha as Sumitra</li><li>Adinath Kothare as Bharata</li></ul>\n<h2>Box office</h2>\n<ul><li>India Net total: $96.64M</li><li>Overseas total: $48.94M</li><li>Latest: Day 17 (2026-11-21) — India Net $2.38M</li><li>Worldwide total: $145.58M</li></ul>\n</article>",
   "t": "Ramayana: Rise of a Legend (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
   "year": "2026"
  },
@@ -77053,6 +78080,39 @@
   "ssr": "<article class=\"ssr-facts\">\n<h1>Bigg Boss 20 Episode 73: Manish Goel, Qazi Touqeer, and Amrapali Dubey Face High Drama</h1>\n<p class=\"ssr-lead\">Episode 73 of Bigg Boss 20 brings intense nomination showdowns, personal clashes between Manish Goel and Qazi Touqeer, and heated arguments involving Amrapali Dubey and Love Gill.</p>\n<p class=\"ssr-date\">Published 17 November 2026</p>\n<h2>Rising Tensions in the House</h2>\n<p>Viewers of Bigg Boss 20 are in for a massive wave of drama as the contestants gear up for Episode 73. Housemates have officially locked horns, with several personal relationships fracturing under the intense pressure of the game.</p>\n<p>The upcoming episode places nominations at the center of the chaos, forcing participants to make strategic choices that deeply affect their standing with one another.</p>\n<h2>Manish Goel and Qazi Touqeer Clash</h2>\n<p>The most prominent talking point of Episode 73 is the severe confrontation between Manish Goel and Qazi Touqeer. The argument ignited during the nomination task when Qazi repeatedly addressed Manish as &#x27;Professor&#x27;.</p>\n<p>The Anupamaa actor took strong exception to the label. Despite Manish&#x27;s objections, Qazi persisted with the remark, resulting in a sharp and heated exchange between the two participants.</p>\n<h2>Heated Words and Personal Grievances</h2>\n<p>Visibly upset during the altercation, Manish defended his appearance and persona. He warned Qazi against raising his voice at him, asserting his identity strongly.</p>\n<p>Beyond the nickname dispute, Manish revealed deeper hurt regarding their friendship. He expressed disappointment over Qazi&#x27;s attitude, indicating a permanent shift in their equation as the nomination task brought underlying tensions to light.</p>\n<h2>Amrapali Dubey and Love Gill Face Off</h2>\n<p>In addition to the men&#x27;s clash, friction erupted between Love Gill and Amrapali Dubey. Love lashed out after the Bhojpuri actress accused her of playing the &#x27;sister card&#x27; during house conversations.</p>\n<p>Love made her displeasure clear to the entire house, warning everyone to stop involving her name or blaming her for things she had no part in.</p>\n<h2>Eviction History So Far</h2>\n<p>As the reality show progresses toward newer challenges, a total of six contestants have already been shown the door. Rohed Khan was the very first participant to be evicted.</p>\n<p>Following Rohed, housemates Isha Rikhi, Rhiti Tiwari, Aman Gandhi, Mary Kom, and Aasif Khan were progressively eliminated from the competition.</p>\n<h2>Schedule and Where to Watch</h2>\n<p>Bigg Boss 20 Episode 73 is scheduled to premiere on JioHotstar at 9 PM on November 17. Following the OTT release, it will also air on Colors TV at 10:30 PM.</p>\n<p>For viewers tracking unofficial platforms, the episode is expected to surface on Dailymotion after 11 PM. However, viewers are advised to stick to official streaming channels to avoid copyright removals.</p>\n<h2>News Overview</h2>\n<p>Episode 73 of Bigg Boss 20 brings fresh confrontations on November 17, highlighted by a sharp dispute between Manish Goel and Qazi Touqeer alongside a clash involving Amrapali Dubey and Love Gill. The episode features high-stakes nomination tasks and streaming details across official platforms.</p>\n<h2>Key facts</h2>\n<ul><li>Bigg Boss 20 Episode 73 releases on November 17</li><li>JioHotstar streams the episode at 9 PM</li><li>Colors TV airs the episode at 10:30 PM</li><li>Six contestants have been eliminated so far: Rohed Khan, Isha Rikhi, Rhiti Tiwari, Aman Gandhi, Mary Kom, and Aasif Khan</li></ul>\n</article>",
   "t": "Bigg Boss 20 Episode 73: Manish Goel, Qazi Touqeer, and Amrapali Dubey Face High Drama"
  },
+ "news:19ac64x": {
+  "d": "Everything you need to know about Fool In Love Episode 14, featuring Bank Artit and Copter Nuntapong, including release timings on iQIYI and Dailymotion, plot…",
+  "img": "https://images.filmibeat.com/img/2026/11/feature-2026-11-21t121735-715-72251795243708.jpg",
+  "k": "Fool In Love Episode 14, Fool In Love Thai BL, Bank Artit Copter Nuntapong, Fool In Love iQIYI release, Bank Artit Fool In Love, Fool In Love, Bank Artit, Copter Nuntapong Fool In Love, entertainment news, FlickAtlas",
+  "ld": {
+   "@context": "https://schema.org",
+   "@type": "NewsArticle",
+   "articleBody": "Anticipation Builds for Fool In Love Episode 14\n\nThe popular Thai BL series Fool In Love is capturing the attention of audiences worldwide following a series of devastating and emotional moments in the previous chapter. Adapted from the web novel My Beloved Fool, the show stars Bank Artit and Copter Nuntapong in lead roles.\n\nWhat initially began as a lighthearted and flirtatious story has transformed into an intense dramatic journey. Viewers have watched closely as the plot took a dark turn after Ing uncovered a web of lies and betrayal involving Yok and Itt.\n\nRecap and Spoilers: What to Expect Next\n\nThe narrative intensifies significantly in the upcoming instalment. In the prior chapter, Itt kidnapped Ing and restrained him to a bed, laying bare his obsessive feelings and malicious intentions, while Yok scrambled to track him down and mount a rescue.\n\nPreviews indicate that Episode 14 will show whether Yok reaches Ing in time. Footage depicts Yok fiercely confronting Itt in a brutal physical altercation, leaving his knuckles bloody. Another poignant scene features a deeply traumatized Ing walking away from the building, with Yok rushing to offer his jacket and comfort.\n\nFamily Conflict and Business Takeovers\n\nThe emotional weight continues to compound as Ing struggles heavily to process the aftermath of his traumatic ordeal. Meanwhile, complications mount professionally as Itt prepares to take control of Ing's business operations.\n\nIn addition to these pressures, Yok faces major personal fallout when he finally gathers the courage to confess his romantic feelings for Ing directly to his family. This bold declaration comes with heavy consequences, resulting in Yok being struck by his father.\n\nRelease Date and Streaming Platforms\n\nFans can mark their calendars for Sunday, November 22, 2026, when the fourteenth episode officially launches. The primary platform for official streaming is iQIYI, where subscribers can watch the episode featuring English subtitles.\n\nFor viewers seeking alternative or free viewing choices, fan-uploaded versions with English subtitles frequently surface on Dailymotion shortly after the primary online debut.\n\nOfficial Air Times Across Regions\n\nTiming varies depending on geographic location for the Sunday release. In Thailand, the episode is scheduled to broadcast at 8:00 PM ICT.\n\nFor fans watching from India, the local viewing time is set for 6:30 PM IST on the same day through the iQIYI application and website.\n\nHow to Watch and Download on iQIYI\n\nSubscribers with an active iQIYI VIP membership can access Episode 14 in high definition without incurring extra individual purchase fees. Users can navigate to the app or official website, log into their registered accounts, and verify their membership status.\n\nTo locate the content easily, viewers can search for Fool In Love or Fool In Love First Fall, select Episode 14, and enable English subtitles. Those utilizing mobile devices can also tap the download option for offline viewing, subject to availability.\n\nNews Overview\n\nFool In Love Episode 14 arrives on Sunday, November 22, 2026, on iQIYI and Dailymotion, bringing viewers the continuation of the popular Thai BL series starring Bank Artit and Copter Nuntapong. The new instalment features high-stakes drama including Yok rescuing Ing, a dramatic family confrontation, and business complications.\n\nFans can tune in at 8:00 PM ICT in Thailand or 6:30 PM IST in India to catch the latest developments.",
+   "author": {
+    "@type": "Organization",
+    "name": "FlickAtlas"
+   },
+   "datePublished": "2026-11-21T18:25:10.000Z",
+   "description": "Everything you need to know about Fool In Love Episode 14, featuring Bank Artit and Copter Nuntapong, including release timings on iQIYI and Dailymotion, plot…",
+   "headline": "Fool In Love Episode 14 Release Schedule, Spoilers, and Streaming Details",
+   "image": "https://images.filmibeat.com/img/2026/11/feature-2026-11-21t121735-715-72251795243708.jpg",
+   "keywords": "Fool In Love Episode 14, Fool In Love Thai BL, Bank Artit Copter Nuntapong, Fool In Love iQIYI release",
+   "mainEntityOfPage": "https://flickatlas.co.uk/news-item?id=19ac64x",
+   "publisher": {
+    "@type": "Organization",
+    "logo": {
+     "@type": "ImageObject",
+     "url": "https://flickatlas.co.uk/icon-512.png"
+    },
+    "name": "FlickAtlas"
+   },
+   "url": "https://flickatlas.co.uk/news-item?id=19ac64x"
+  },
+  "modified": "",
+  "published": "2026-11-21T18:25:10.000Z",
+  "ssr": "<article class=\"ssr-facts\">\n<h1>Fool In Love Episode 14 Release Schedule, Spoilers, and Streaming Details</h1>\n<p class=\"ssr-lead\">Everything you need to know about Fool In Love Episode 14, featuring Bank Artit and Copter Nuntapong, including release timings on iQIYI and Dailymotion, plot spoilers, and family drama.</p>\n<p class=\"ssr-date\">Published 21 November 2026</p>\n<h2>Anticipation Builds for Fool In Love Episode 14</h2>\n<p>The popular Thai BL series Fool In Love is capturing the attention of audiences worldwide following a series of devastating and emotional moments in the previous chapter. Adapted from the web novel My Beloved Fool, the show stars Bank Artit and Copter Nuntapong in lead roles.</p>\n<p>What initially began as a lighthearted and flirtatious story has transformed into an intense dramatic journey. Viewers have watched closely as the plot took a dark turn after Ing uncovered a web of lies and betrayal involving Yok and Itt.</p>\n<h2>Recap and Spoilers: What to Expect Next</h2>\n<p>The narrative intensifies significantly in the upcoming instalment. In the prior chapter, Itt kidnapped Ing and restrained him to a bed, laying bare his obsessive feelings and malicious intentions, while Yok scrambled to track him down and mount a rescue.</p>\n<p>Previews indicate that Episode 14 will show whether Yok reaches Ing in time. Footage depicts Yok fiercely confronting Itt in a brutal physical altercation, leaving his knuckles bloody. Another poignant scene features a deeply traumatized Ing walking away from the building, with Yok rushing to offer his jacket and comfort.</p>\n<h2>Family Conflict and Business Takeovers</h2>\n<p>The emotional weight continues to compound as Ing struggles heavily to process the aftermath of his traumatic ordeal. Meanwhile, complications mount professionally as Itt prepares to take control of Ing&#x27;s business operations.</p>\n<p>In addition to these pressures, Yok faces major personal fallout when he finally gathers the courage to confess his romantic feelings for Ing directly to his family. This bold declaration comes with heavy consequences, resulting in Yok being struck by his father.</p>\n<h2>Release Date and Streaming Platforms</h2>\n<p>Fans can mark their calendars for Sunday, November 22, 2026, when the fourteenth episode officially launches. The primary platform for official streaming is iQIYI, where subscribers can watch the episode featuring English subtitles.</p>\n<p>For viewers seeking alternative or free viewing choices, fan-uploaded versions with English subtitles frequently surface on Dailymotion shortly after the primary online debut.</p>\n<h2>Official Air Times Across Regions</h2>\n<p>Timing varies depending on geographic location for the Sunday release. In Thailand, the episode is scheduled to broadcast at 8:00 PM ICT.</p>\n<p>For fans watching from India, the local viewing time is set for 6:30 PM IST on the same day through the iQIYI application and website.</p>\n<h2>How to Watch and Download on iQIYI</h2>\n<p>Subscribers with an active iQIYI VIP membership can access Episode 14 in high definition without incurring extra individual purchase fees. Users can navigate to the app or official website, log into their registered accounts, and verify their membership status.</p>\n<p>To locate the content easily, viewers can search for Fool In Love or Fool In Love First Fall, select Episode 14, and enable English subtitles. Those utilizing mobile devices can also tap the download option for offline viewing, subject to availability.</p>\n<h2>News Overview</h2>\n<p>Fool In Love Episode 14 arrives on Sunday, November 22, 2026, on iQIYI and Dailymotion, bringing viewers the continuation of the popular Thai BL series starring Bank Artit and Copter Nuntapong. The new instalment features high-stakes drama including Yok rescuing Ing, a dramatic family confrontation, and business complications.</p>\n<p>Fans can tune in at 8:00 PM ICT in Thailand or 6:30 PM IST in India to catch the latest developments.</p>\n<h2>Key facts</h2>\n<ul><li>Fool In Love Episode 14 releases on November 22, 2026.</li><li>The series is adapted from the web novel My Beloved Fool.</li><li>The show stars Bank Artit and Copter Nuntapong.</li><li>The episode airs at 8:00 PM ICT in Thailand and 6:30 PM IST in India.</li><li>Episodes are hosted on iQIYI and Dailymotion.</li></ul>\n</article>",
+  "t": "Fool In Love Episode 14 Release Schedule, Spoilers, and Streaming Details"
+ },
  "news:19awbmh": {
   "d": "Veteran actor Anupam Kher opens up about exaggerated online wealth estimates, sharing his reasons for living in a rented apartment and recalling past real…",
   "img": "https://static.toiimg.com/thumb/msid-136042877,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
@@ -88161,6 +89221,39 @@
   "published": "2026-11-13T18:53:25.923Z",
   "ssr": "<article class=\"ssr-facts\">\n<h1>Ramayana: Part 1 Reaches Significant Milestone With Massive Worldwide Earnings</h1>\n<p class=\"ssr-lead\">An in-depth look at the box office performance, regional collections, and theater occupancy rates for Ramayana: Part 1 as it continues its theatrical run.</p>\n<p class=\"ssr-date\">Published 13 November 2026</p>\n<h2>Introduction to the Box Office Journey</h2>\n<p>The theatrical run of Ramayana: Part 1 continues to draw substantial attention from moviegoers and industry trackers alike. As the feature film progresses through its early weeks in cinemas, comprehensive data regarding its daily ticket sales, regional earnings, and audience turnouts provide a clear picture of its commercial performance across multiple territories.</p>\n<p>Trade analysts and box office observers have been closely monitoring the project&#x27;s financial trajectory. With figures reflecting strong initial momentum and sustained interest through its first major stretch, the title has established a prominent position in current cinematic charts.</p>\n<h2>Breaking Down the Opening Days and First Week</h2>\n<p>The cinematic venture opened to staggering numbers on its first day, pulling in a massive ₹62.5 cr net across all languages. This initial haul was led strongly by the Hindi version at ₹45 cr, alongside contributions from Kannada at ₹7.5 cr, Telugu at ₹6 cr, Tamil at ₹2.5 cr, and Malayalam at ₹1.5 cr.</p>\n<p>Following a steady second day with ₹48.75 cr and a surging third day reaching ₹70.75 cr, the feature maintained robust figures through the weekdays. By the end of its first week spanning eight days, the total net collection in India climbed to an estimated ₹564.75 cr, with the Hindi version alone accounting for ₹439.5 cr.</p>\n<h2>Mid-Week Surges and Subsequent Collections</h2>\n<p>A notable highlight of the theatrical run occurred on the fifth day, when collections experienced a dramatic peak, soaring to ₹111.25 cr net. The Hindi version drove this jump significantly with ₹92 cr, supported by steady regional numbers from Kannada, Telugu, Tamil, and Malayalam markets.</p>\n<p>Although collections experienced natural adjustments in the days that followed, dropping to ₹95 cr on day six and ₹70.5 cr on day seven, the film sustained a healthy pace. Day eight brought in ₹51 cr, and day nine added another ₹46 cr net, bringing the cumulative nine-day total in India to an estimated ₹610.75 cr.</p>\n<h2>Analyzing Hindi Version Theater Occupancy</h2>\n<p>Audience turnout for the Hindi version varied across morning, afternoon, and night shows throughout the opening stretch. The opening day kicked off with an overall occupancy of 30.17%, peaking strongly during evening and night screenings at 45-50%.</p>\n<p>The highest theater engagement was recorded on the fifth day, achieving a remarkable overall occupancy of 67.5%, with afternoon shows surging to an impressive 80%. While occupancy fluctuated on subsequent days, evening and night slots consistently maintained stronger viewer participation compared to morning shows.</p>\n<h2>Domestic and International Totals</h2>\n<p>Beyond net domestic earnings, the project&#x27;s financial footprint extends widely across gross and international markets. The India gross collection stands at an estimated ₹720.7 cr based on current tracking reports.</p>\n<p>On the global front, overseas earnings have contributed significantly to the overall tally, pulling in $37.6 million, which translates to approximately ₹354.5 crore. Combined with domestic figures, the worldwide collection for Ramayana: Part 1 has crossed the monumental threshold of ₹1075.2 cr.</p>\n<h2>Context and Industry Significance</h2>\n<p>The multi-language release strategy has played a crucial role in the film&#x27;s widespread reach. By catering simultaneously to audiences across Hindi, Kannada, Telugu, Tamil, and Malayalam markets, the project successfully mobilized diverse regional viewer bases from its very first day.</p>\n<p>Industry observers continue to evaluate these numbers against contemporary benchmarks. While figures remain subject to final producer verifications and ongoing market estimates, the current statistics firmly establish the release as a major commercial event of the season.</p>\n<h2>News Overview</h2>\n<p>Ramayana: Part 1 has accumulated an estimated India net collection of ₹610.75 cr and a worldwide total of ₹1075.2 cr over its initial theatrical run. Industry reports highlight strong regional contributions and fluctuating theater occupancy rates across multiple language versions.</p>\n<h2>Key facts</h2>\n<ul><li>The film earned ₹62.5 cr net on Day 1 across all languages.</li><li>Day 1 Hindi collection was ₹45 cr, Kannada was ₹7.5 cr, Telugu was ₹6 cr, Tamil was ₹2.5 cr, and Malayalam was ₹1.5 cr.</li><li>Day 2 collection was ₹48.75 cr.</li><li>Day 3 collection was ₹70.75 cr.</li><li>Day 4 collection was ₹55 cr.</li><li>Day 5 collection reached a peak of ₹111.25 cr.</li><li>Day 6 collection was ₹95 cr.</li><li>Day 7 collection was ₹70.5 cr.</li><li>Day 8 collection was ₹51 cr.</li><li>Week 1 (8 Days) total collection reached ₹564.75 cr.</li><li>Day 9 collection was ₹46 cr.</li><li>Total India Net after 9 days is ₹610.75 cr.</li><li>India Gross collection stands at ₹720.7 cr.</li><li>Overseas collection reached $37.6 million or ₹354.5 crore.</li><li>Worldwide collection reached ₹1075.2 cr.</li></ul>\n</article>",
   "t": "Ramayana: Part 1 Reaches Significant Milestone With Massive Worldwide Earnings"
+ },
+ "news:1k2du0i": {
+  "d": "The latest 158-minute installment in the franchise pulls in record-breaking viewer scores and box office tracking following its November release.",
+  "img": "https://static0.moviewebimages.com/wordpress/wp-content/uploads/2026/04/sunrise-on-the-reaping.jpg?w=1600&amp;h=900&amp;fit=crop",
+  "k": "Sunrise on the Reaping, Hunger Games prequel film, Haymitch Abernathy movie, Sunrise on the Reaping box office, Suzanne Collins book adaptation, Manuel Demegillo The Hunger Games, The Hunger Games, Manuel Demegillo, Suzanne Collins The Hunger Games, entertainment news",
+  "ld": {
+   "@context": "https://schema.org",
+   "@type": "NewsArticle",
+   "articleBody": "A Return to the Arena\n\nThe Hunger Games franchise has long been recognized as a defining cultural phenomenon in young adult cinema, transforming Katniss Everdeen into a generational icon. The original survival drama combined high-stakes action with commentary on media spectacles, authoritarianism, and social inequality. Eleven years following the release of Mockingjay — Part 2, the cinematic universe expands once again to explore an earlier chapter in its history.\n\nThis latest installment brings the focus to the tragic past of Haymitch Abernathy. Throughout the initial films, his heavy drinking and cynicism pointed toward deep-seated trauma originating from his time competing in the 50th Hunger Games. Author Suzanne Collins ultimately fleshed out this missing chapter in her novel Sunrise on the Reaping, which has now transitioned directly to the big screen.\n\nRecord-Breaking Audience Scores\n\nFollowing a release that also earned favorable critical reviews on Rotten Tomatoes, viewer reactions have surged on the Popcornmeter. The film secured a 95 percent score based on more than 1,000 verified viewer ratings. This milestone marks the highest score in the franchise, edging out both Catching Fire and The Ballad of Songbirds & Snakes, which previously held a tie at 89 percent.\n\nAudience members expressed immense enthusiasm regarding the visual scale, performances, and overall storytelling. Viewers highlighted how the project honors the core themes of the series while delivering an emotionally resonant cinematic experience that brings the entire narrative full circle for longtime fans.\n\nViewer Reactions and Emotional Resonance\n\nEven for fans who were already familiar with the outcome of the 50th Hunger Games, viewers noted that the narrative remained remarkably engaging. One fan described the picture as a perfect movie that stays amazing regardless of knowing the ending beforehand. Others pointed out the emotional weight of the project, noting the depth of the character portrayals.\n\nPerformances across the cast drew widespread praise from moviegoers who felt the actors fully embodied their respective roles. Reviewers described the experience as gut-wrenching and beautifully filmed, with several noting that the dramatic weight moved them deeply.\n\nAdapting Suzanne Collins's Novel\n\nAs a literary adaptation, the production made several creative choices, including cutting notable subplots from Collins's original book. While some readers debated the absence of these elements on the cutting room floor, others commended the filmmakers for carefully tying off loose ends to deliver a cohesive cinematic conclusion.\n\nAnother notable adjustment from the source material involved toning down the graphic violence, as the original book is widely considered the most explicit entry in the series. The completed film ultimately secured a PG-13 rating for strong violence, bloody images, disturbing material, smoking, and teen drinking.\n\nBox Office Momentum and Holiday Launch\n\nCommercially, the film represents a massive return to form for Lionsgate. Backed by an A- CinemaScore and timed for a prime Thanksgiving release, the project achieved a $56 million opening and is currently tracking toward a $120 million US launch.\n\nThese figures comfortably exceed initial projections, potentially doubling the opening numbers of The Ballad of Songbirds & Snakes and marking the studio's biggest launch since Mockingjay — Part 2.\n\nProduction and Creative Team\n\nDirected by Francis Lawrence, the 158-minute production features a screenplay adapted by Billy Ray, Michael Lesslie, and Suzanne Collins. Producers Nina Jacobson and Brad Simpson oversaw the project alongside Lionsgate.\n\nThe cast features Mckenna Grace as Maysilee Donner, Joseph Zada as Haymitch Abernathy, Whitney Peak as Lenore Dove Baird, and Jesse Plemons as Plutarch Heavensbee, joining the expansive cinematic legacy of the franchise.\n\nNews Overview\n\nThe Hunger Games: Sunrise on the Reaping has achieved the highest audience score in the franchise on Rotten Tomatoes alongside strong box office tracking following its November release. Audiences praised the adaptation's emotional depth and storytelling despite cuts from Suzanne Collins's original novel, propelling Lionsgate to its biggest launch since Mockingjay — Part 2.",
+   "author": {
+    "@type": "Organization",
+    "name": "FlickAtlas"
+   },
+   "datePublished": "2026-11-21T17:38:20.000Z",
+   "description": "The latest 158-minute installment in the franchise pulls in record-breaking viewer scores and box office tracking following its November release.",
+   "headline": "New Hunger Games Prequel 'Sunrise on the Reaping' Dominates Audiences and Box Office",
+   "image": "https://static0.moviewebimages.com/wordpress/wp-content/uploads/2026/04/sunrise-on-the-reaping.jpg?w=1600&amp;h=900&amp;fit=crop",
+   "keywords": "Sunrise on the Reaping, Hunger Games prequel film, Haymitch Abernathy movie, Sunrise on the Reaping box office, Suzanne Collins book adaptation",
+   "mainEntityOfPage": "https://flickatlas.co.uk/news-item?id=1k2du0i",
+   "publisher": {
+    "@type": "Organization",
+    "logo": {
+     "@type": "ImageObject",
+     "url": "https://flickatlas.co.uk/icon-512.png"
+    },
+    "name": "FlickAtlas"
+   },
+   "url": "https://flickatlas.co.uk/news-item?id=1k2du0i"
+  },
+  "modified": "",
+  "published": "2026-11-21T17:38:20.000Z",
+  "ssr": "<article class=\"ssr-facts\">\n<h1>New Hunger Games Prequel &#x27;Sunrise on the Reaping&#x27; Dominates Audiences and Box Office</h1>\n<p class=\"ssr-lead\">The latest 158-minute installment in the franchise pulls in record-breaking viewer scores and box office tracking following its November release.</p>\n<p class=\"ssr-date\">Published 21 November 2026</p>\n<h2>A Return to the Arena</h2>\n<p>The Hunger Games franchise has long been recognized as a defining cultural phenomenon in young adult cinema, transforming Katniss Everdeen into a generational icon. The original survival drama combined high-stakes action with commentary on media spectacles, authoritarianism, and social inequality. Eleven years following the release of Mockingjay — Part 2, the cinematic universe expands once again to explore an earlier chapter in its history.</p>\n<p>This latest installment brings the focus to the tragic past of Haymitch Abernathy. Throughout the initial films, his heavy drinking and cynicism pointed toward deep-seated trauma originating from his time competing in the 50th Hunger Games. Author Suzanne Collins ultimately fleshed out this missing chapter in her novel Sunrise on the Reaping, which has now transitioned directly to the big screen.</p>\n<h2>Record-Breaking Audience Scores</h2>\n<p>Following a release that also earned favorable critical reviews on Rotten Tomatoes, viewer reactions have surged on the Popcornmeter. The film secured a 95 percent score based on more than 1,000 verified viewer ratings. This milestone marks the highest score in the franchise, edging out both Catching Fire and The Ballad of Songbirds &amp; Snakes, which previously held a tie at 89 percent.</p>\n<p>Audience members expressed immense enthusiasm regarding the visual scale, performances, and overall storytelling. Viewers highlighted how the project honors the core themes of the series while delivering an emotionally resonant cinematic experience that brings the entire narrative full circle for longtime fans.</p>\n<h2>Viewer Reactions and Emotional Resonance</h2>\n<p>Even for fans who were already familiar with the outcome of the 50th Hunger Games, viewers noted that the narrative remained remarkably engaging. One fan described the picture as a perfect movie that stays amazing regardless of knowing the ending beforehand. Others pointed out the emotional weight of the project, noting the depth of the character portrayals.</p>\n<p>Performances across the cast drew widespread praise from moviegoers who felt the actors fully embodied their respective roles. Reviewers described the experience as gut-wrenching and beautifully filmed, with several noting that the dramatic weight moved them deeply.</p>\n<h2>Adapting Suzanne Collins&#x27;s Novel</h2>\n<p>As a literary adaptation, the production made several creative choices, including cutting notable subplots from Collins&#x27;s original book. While some readers debated the absence of these elements on the cutting room floor, others commended the filmmakers for carefully tying off loose ends to deliver a cohesive cinematic conclusion.</p>\n<p>Another notable adjustment from the source material involved toning down the graphic violence, as the original book is widely considered the most explicit entry in the series. The completed film ultimately secured a PG-13 rating for strong violence, bloody images, disturbing material, smoking, and teen drinking.</p>\n<h2>Box Office Momentum and Holiday Launch</h2>\n<p>Commercially, the film represents a massive return to form for Lionsgate. Backed by an A- CinemaScore and timed for a prime Thanksgiving release, the project achieved a $56 million opening and is currently tracking toward a $120 million US launch.</p>\n<p>These figures comfortably exceed initial projections, potentially doubling the opening numbers of The Ballad of Songbirds &amp; Snakes and marking the studio&#x27;s biggest launch since Mockingjay — Part 2.</p>\n<h2>Production and Creative Team</h2>\n<p>Directed by Francis Lawrence, the 158-minute production features a screenplay adapted by Billy Ray, Michael Lesslie, and Suzanne Collins. Producers Nina Jacobson and Brad Simpson oversaw the project alongside Lionsgate.</p>\n<p>The cast features Mckenna Grace as Maysilee Donner, Joseph Zada as Haymitch Abernathy, Whitney Peak as Lenore Dove Baird, and Jesse Plemons as Plutarch Heavensbee, joining the expansive cinematic legacy of the franchise.</p>\n<h2>News Overview</h2>\n<p>The Hunger Games: Sunrise on the Reaping has achieved the highest audience score in the franchise on Rotten Tomatoes alongside strong box office tracking following its November release. Audiences praised the adaptation&#x27;s emotional depth and storytelling despite cuts from Suzanne Collins&#x27;s original novel, propelling Lionsgate to its biggest launch since Mockingjay — Part 2.</p>\n<h2>Key facts</h2>\n<ul><li>The film has a runtime of 158 minutes.</li><li>It achieved a 95% score on the Popcornmeter based on over 1,000 verified ratings.</li><li>Catching Fire and The Ballad of Songbirds &amp; Snakes both hold an 89% audience score.</li><li>The movie is rated PG-13 for strong violence, bloody images, disturbing material, smoking, and teen drinking.</li><li>It opened with $56 million and is tracking for a $120 million US launch.</li><li>The release date is November 20, 2026.</li><li>Francis Lawrence directed the film.</li><li>Screenplay writers include Billy Ray, Michael Lesslie, and Suzanne Collins.</li></ul>\n</article>",
+  "t": "New Hunger Games Prequel 'Sunrise on the Reaping' Dominates Audiences and Box Office"
  },
  "news:1k32d7n": {
   "d": "Patrick Stewart: Newly surfaced documents reveal health details following the passing of the beloved X-Men and Star Trek star, alongside tributes from family…",
@@ -103117,6 +104210,39 @@
   "published": "2026-11-15T13:01:40.000Z",
   "ssr": "<article class=\"ssr-facts\">\n<h1>Vijay Deverakonda and Rashmika Mandanna Share Japan Vacation Photos After Online Backlash</h1>\n<p class=\"ssr-lead\">Following heavy criticism over their Koffee with Karan appearance, actors Vijay Deverakonda and Rashmika Mandanna shared joyful photos from their Japan trip alongside family.</p>\n<p class=\"ssr-date\">Published 15 November 2026</p>\n<h2>Recent Online Backlash and Statement</h2>\n<p>An appearance on the talk show Koffee With Karan provided fans with their first major insight into the relationship between newlywed actors Vijay Deverakonda and Rashmika Mandanna. Following the broadcast, the couple faced intense criticism across social media platforms, particularly directed at Vijay&#x27;s behavior toward Rashmika during the episode.</p>\n<p>The negative response escalated significantly, prompting the two actors to issue a joint statement on Instagram. Additionally, their management team lodged an official complaint with the Hyderabad Cyber Crime authorities regarding allegedly fake and misleading content circulating about them online.</p>\n<h2>Japan Vacation and Family Trip</h2>\n<p>In the wake of the controversy, Vijay Deverakonda posted a series of happy photographs on Instagram documenting a vacation in Japan. The trip included family members such as his brother Anand Deverakonda and his parents.</p>\n<p>The shared images captured relaxed moments from the journey, including family time during coffee and matcha breaks. Vijay highlighted these memories by referring to the gathering as a family coloring time.</p>\n<h2>Affectionate Social Media Captions</h2>\n<p>Among the newly posted images, several captured intimate moments between Vijay and Rashmika. In one photograph, Vijay held Rashmika close with the simple caption, Mine.</p>\n<p>Another picture featured him resting his head on her shoulder while she smiled warmly. Alongside this image, he wrote the word Home, accompanied by a red heart emoticon.</p>\n<h2>Background of Their Marriage and Engagement</h2>\n<p>The couple secretly engaged in October of the previous year before publicly announcing their marriage shortly before their Udaipur wedding in February. Their Koffee With Karan appearance marked the first public discussion of their romance.</p>\n<p>During the talk show segment, Vijay mentioned that Rashmika proposed to him numerous times over a year before he considered marriage. He also discussed the ring he gave her and noted that he only proposed on one knee during their pre-wedding festivities.</p>\n<h2>Controversial Talk Show Remarks</h2>\n<p>Comments made during the television interview contributed to the online friction. Vijay remarked that he felt insulted regarding discussions about a separate ring Rashmika wore, which many viewers assumed was an engagement ring not of his choosing.</p>\n<p>These remarks quickly circulated online, drawing sharp reactions from viewers and intensifying the social media scrutiny that eventually required legal and public relations intervention.</p>\n<h2>Professional Collaboration in Ranabaali</h2>\n<p>Beyond their personal lives, Vijay and Rashmika recently shared the screen in the film Ranabaali, marking their first professional collaboration since their wedding earlier in the year. The movie was directed by Rahul Sankrityan.</p>\n<p>Produced by Naveen Yerneni and Y Ravi Shankar under Mythri Movie Makers and presented by T-Series Films, the 19th-century period drama explores famine caused by colonial rule in India and features Arnold Vosloo as the antagonist.</p>\n<h2>Release and Streaming Details</h2>\n<p>Ranabaali hit theater screens on October 16, opening to mixed reviews from critics and underperforming at the box office. Following its theatrical run, the film transitioned to digital platforms.</p>\n<p>The feature made its premiere on Netflix on November 13, allowing audiences to stream the historical drama from home.</p>\n<h2>News Overview</h2>\n<p>Vijay Deverakonda and Rashmika Mandanna shared family vacation photos from Japan following intense social media backlash over their joint appearance on Koffee With Karan. The couple, who married in February after getting secretly engaged in October, recently starred together in the film Ranabaali.</p>\n<h2>Key facts</h2>\n<ul><li>Vijay Deverakonda and Rashmika Mandanna married in February after a secret engagement in October.</li><li>The couple appeared on Koffee With Karan following their wedding.</li><li>Their team filed a complaint with Hyderabad Cyber Crime authorities over misleading social media content.</li><li>Vijay shared Japan vacation photos with his brother Anand Deverakonda and his parents on Instagram on November 15, 2026.</li><li>Ranabaali was directed by Rahul Sankrityan and produced by Mythri Movie Makers.</li><li>Arnold Vosloo plays the antagonist in Ranabaali.</li><li>Ranabaali released in theaters on October 16 and premiered on Netflix on November 13.</li></ul>\n</article>",
   "t": "Vijay Deverakonda and Rashmika Mandanna Share Japan Vacation Photos After Online Backlash"
+ },
+ "news:1xz05pp": {
+  "d": "Ranbir Kapoor, Yash, and Sai Pallavi starrer Ramayana enters the 1600 crore club globally on day 16, becoming the second non-sequel Indian film to achieve the…",
+  "img": "https://www.koimoi.com/wp-content/new-galleries/2026/11/ramayana-box-office-update-0001.jpg",
+  "k": "Ramayana box office, Ramayana 1600 crore club, Ranbir Kapoor Ramayana, Ramayana worldwide collection, Ramayana, Ranbir Kapoor, Yash Ramayana, entertainment news, FlickAtlas",
+  "ld": {
+   "@context": "https://schema.org",
+   "@type": "NewsArticle",
+   "articleBody": "Entering the Third Week\n\nThe magnum opus Ramayana entered its third week at the box office by dropping below the thirty crore mark globally for the very first time. Despite witnessing a considerable collection decline on its third Friday, the feature comfortably pushed past a major worldwide milestone.\n\nDay 16 Collections\n\nOn its sixteenth day, the Bollywood production grossed 18.29 crore inside India. Internationally, the film brought in an estimated 8 crore.\n\nIn total, the worldwide collection for day 16 reached 26.29 crore. This marked a 29.44 percent drop compared to the 37.26 crore recorded on day 15.\n\nCumulative Earnings Overview\n\nThe cumulative collections of the film stand at an impressive 1081.39 crore gross within India and 531.15 crore overseas. Combining both markets, the overall worldwide gross collection has reached 1612.54 crore.\n\nBreaking down the domestic figures further, the India net collection stands at 916.43 crore, while the India gross is registered at 1081.39 crore.\n\nA Rare Non-Sequel Milestone\n\nBy crossing the 1600 crore mark globally in just 16 days, the project has cemented a unique record. It is now officially the second non-sequel Indian film in history to enter the exclusive 1600 crore club, following Dangal.\n\nAcross all Indian cinema, it stands as the fifth film overall to touch this monumental financial threshold.\n\nGlobal Grossers Ranking\n\nWith its current worldwide haul of 1612.54 crore, the feature holds the position of the fifth-highest-grossing Indian film globally. The top tier includes Dangal at 2070.3 crore, Dhurandhar 2 at 1850.82 crore, Baahubali 2 at 1788.06 crore, and Pushpa 2 at 1764.85 crore.\n\nFurther down the global list sit titles such as Dhurandhar, RRR, KGF Chapter 2, Jawan, and Pathaan.\n\nCast, Crew and Production\n\nThe film is directed by Nitesh Tiwari and produced by Namit Malhotra alongside Yash under Prime Focus Studios, Monster Mind Creations, and DNEG. The ensemble cast features Ranbir Kapoor, Sai Pallavi, Yash, Ravi Dubey, Arun Govil, Lara Dutta, Indira Krishnan, Rakul Preet Singh, Sonal Jha, and Vivek Oberoi.\n\nMusical scoring for the project is handled jointly by AR Rahman and Hans Zimmer.\n\nNews Overview\n\nRamayana crossed the 1600 crore worldwide milestone on day 16, dropping under the thirty crore mark globally for the first time on its third Friday. The film secured its place as the second non-sequel Indian film to enter the 1600 crore club and the fifth-highest-grossing Indian film globally.",
+   "author": {
+    "@type": "Organization",
+    "name": "FlickAtlas"
+   },
+   "datePublished": "2026-11-21T17:29:09.000Z",
+   "description": "Ranbir Kapoor, Yash, and Sai Pallavi starrer Ramayana enters the 1600 crore club globally on day 16, becoming the second non-sequel Indian film to achieve the…",
+   "headline": "Ramayana Worldwide Box Office Day 16: Enters 1600 Crore Club",
+   "image": "https://www.koimoi.com/wp-content/new-galleries/2026/11/ramayana-box-office-update-0001.jpg",
+   "keywords": "Ramayana box office, Ramayana 1600 crore club, Ranbir Kapoor Ramayana, Ramayana worldwide collection",
+   "mainEntityOfPage": "https://flickatlas.co.uk/news-item?id=1xz05pp",
+   "publisher": {
+    "@type": "Organization",
+    "logo": {
+     "@type": "ImageObject",
+     "url": "https://flickatlas.co.uk/icon-512.png"
+    },
+    "name": "FlickAtlas"
+   },
+   "url": "https://flickatlas.co.uk/news-item?id=1xz05pp"
+  },
+  "modified": "",
+  "published": "2026-11-21T17:29:09.000Z",
+  "ssr": "<article class=\"ssr-facts\">\n<h1>Ramayana Worldwide Box Office Day 16: Enters 1600 Crore Club</h1>\n<p class=\"ssr-lead\">Ranbir Kapoor, Yash, and Sai Pallavi starrer Ramayana enters the 1600 crore club globally on day 16, becoming the second non-sequel Indian film to achieve the feat.</p>\n<p class=\"ssr-date\">Published 21 November 2026</p>\n<h2>Entering the Third Week</h2>\n<p>The magnum opus Ramayana entered its third week at the box office by dropping below the thirty crore mark globally for the very first time. Despite witnessing a considerable collection decline on its third Friday, the feature comfortably pushed past a major worldwide milestone.</p>\n<h2>Day 16 Collections</h2>\n<p>On its sixteenth day, the Bollywood production grossed 18.29 crore inside India. Internationally, the film brought in an estimated 8 crore.</p>\n<p>In total, the worldwide collection for day 16 reached 26.29 crore. This marked a 29.44 percent drop compared to the 37.26 crore recorded on day 15.</p>\n<h2>Cumulative Earnings Overview</h2>\n<p>The cumulative collections of the film stand at an impressive 1081.39 crore gross within India and 531.15 crore overseas. Combining both markets, the overall worldwide gross collection has reached 1612.54 crore.</p>\n<p>Breaking down the domestic figures further, the India net collection stands at 916.43 crore, while the India gross is registered at 1081.39 crore.</p>\n<h2>A Rare Non-Sequel Milestone</h2>\n<p>By crossing the 1600 crore mark globally in just 16 days, the project has cemented a unique record. It is now officially the second non-sequel Indian film in history to enter the exclusive 1600 crore club, following Dangal.</p>\n<p>Across all Indian cinema, it stands as the fifth film overall to touch this monumental financial threshold.</p>\n<h2>Global Grossers Ranking</h2>\n<p>With its current worldwide haul of 1612.54 crore, the feature holds the position of the fifth-highest-grossing Indian film globally. The top tier includes Dangal at 2070.3 crore, Dhurandhar 2 at 1850.82 crore, Baahubali 2 at 1788.06 crore, and Pushpa 2 at 1764.85 crore.</p>\n<p>Further down the global list sit titles such as Dhurandhar, RRR, KGF Chapter 2, Jawan, and Pathaan.</p>\n<h2>Cast, Crew and Production</h2>\n<p>The film is directed by Nitesh Tiwari and produced by Namit Malhotra alongside Yash under Prime Focus Studios, Monster Mind Creations, and DNEG. The ensemble cast features Ranbir Kapoor, Sai Pallavi, Yash, Ravi Dubey, Arun Govil, Lara Dutta, Indira Krishnan, Rakul Preet Singh, Sonal Jha, and Vivek Oberoi.</p>\n<p>Musical scoring for the project is handled jointly by AR Rahman and Hans Zimmer.</p>\n<h2>News Overview</h2>\n<p>Ramayana crossed the 1600 crore worldwide milestone on day 16, dropping under the thirty crore mark globally for the first time on its third Friday. The film secured its place as the second non-sequel Indian film to enter the 1600 crore club and the fifth-highest-grossing Indian film globally.</p>\n<h2>Key facts</h2>\n<ul><li>Ramayana grossed 18.29 crore in India on its third Friday.</li><li>International gross on day 16 was estimated at 8 crore.</li><li>Total worldwide collection on day 16 was 26.29 crore.</li><li>Day 16 collections dropped 29.44 percent from day 15&#x27;s 37.26 crore.</li><li>Total Indian gross stands at 1081.39 crore.</li><li>Total overseas gross stands at 531.15 crore.</li><li>Total worldwide gross stands at 1612.54 crore.</li><li>India net stands at 916.43 crore.</li><li>Ramayana is the second non-sequel Indian film to enter the 1600 crore club.</li></ul>\n</article>",
+  "t": "Ramayana Worldwide Box Office Day 16: Enters 1600 Crore Club"
  },
  "news:1xz6e1p": {
   "d": "Vijay Sethupathi: The acclaimed star is set to break new ground on the global stage by appearing as a presenter at the upcoming ceremony in New York.",
@@ -118173,6 +119299,39 @@
   "published": "2026-11-11T04:43:25.000Z",
   "ssr": "<article class=\"ssr-facts\">\n<h1>VisionQuest Season 1 Finale Teases a Major Character Return for Avengers: Doomsday</h1>\n<p class=\"ssr-lead\">The Season 1 conclusion of VisionQuest features a post-credits sequence hinting at a dramatic return within the Marvel Cinematic Universe.</p>\n<p class=\"ssr-date\">Published 11 November 2026</p>\n<h2>The Season 1 Finale Delivers Major MCU Surprises</h2>\n<p>The conclusion of VisionQuest Season 1 has left viewers talking about a potentially huge development for the wider Marvel Cinematic Universe. Titled &#x27;Forever&#x27;, the finale episode dropped significant narrative hints during its closing moments.</p>\n<p>Fans tuning into the streaming series discovered that the storyline ties directly into upcoming cinematic projects, sparking intense speculation across fan communities.</p>\n<h2>A Post-Credits Scene Teases Doctor Doom and Scarlet Witch</h2>\n<p>In the post-credits sequence of the Tuesday finale, a hooded figure appearing to be Robert Downey Jr.&#x27;s Doctor Doom lifts the rubble of Wundagore.</p>\n<p>Underneath lies Wanda Maximoff, also known as Scarlet Witch, played by Elizabeth Olsen. She had seemingly perished under the collapsing mountain previously in Doctor Strange in the Multiverse of Madness.</p>\n<h2>Dialogue Hints at Future Conflicts</h2>\n<p>During this cryptic encounter, the hooded character addresses the fallen witch directly, stating, &#x27;Scarlet Witch, awaken. Your power will be mine.&#x27;</p>\n<p>This interaction strongly suggests that the character&#x27;s journey in the franchise is far from over, paving the way for further confrontations.</p>\n<h2>Connections to Avengers: Doomsday</h2>\n<p>The surprising teaser sequence appears to point toward Elizabeth Olsen making her return in Avengers: Doomsday, which is scheduled to premiere in theaters on Dec. 18.</p>\n<p>This follows other major developments in the finale, where Vision, portrayed by Paul Bettany, successfully reunited with their sons Tommy and Billy, played by Ruaridh Mollica and Joe Locke.</p>\n<h2>Tracing the Family Reunion Across Series</h2>\n<p>The emotional family reunion in the finale builds upon the continuity established in earlier projects like WandaVision and Agatha All Along.</p>\n<p>Adding to the excitement, Marvel Studios shared a binary code message on social media prior to the episode&#x27;s release that translated to a familiar sentiment previously spoken by Wanda to her sons.</p>\n<h2>Elizabeth Olsen Addresses Potential Return</h2>\n<p>Despite the heavy teasing from the series itself, actress Elizabeth Olsen has previously maintained a stance of complete uncertainty regarding her future in the franchise.</p>\n<p>Speaking in March, she noted that she prefers knowing nothing about upcoming storylines so she cannot accidentally leak or compromise any details in interviews.</p>\n<h2>News Overview</h2>\n<p>The Season 1 finale of VisionQuest includes a post-credits sequence featuring a hooded figure appearing to be Robert Downey Jr.&#x27;s Doctor Doom interacting with Elizabeth Olsen&#x27;s Scarlet Witch. This teaser hints at a potential character appearance in Avengers: Doomsday alongside family plot threads continuing from WandaVision.</p>\n<h2>Key facts</h2>\n<ul><li>VisionQuest Season 1 finale is titled &#x27;Forever&#x27;.</li><li>The finale episode aired on a Tuesday in November 2026.</li><li>Avengers: Doomsday premieres in theaters on Dec. 18.</li><li>Elizabeth Olsen previously stated in March that she knows nothing about her potential return.</li><li>Doctor Strange in the Multiverse of Madness was released in 2022.</li><li>WandaVision was released in 2021.</li><li>Agatha All Along was released in 2024.</li></ul>\n</article>",
   "t": "VisionQuest Season 1 Finale Teases a Major Character Return for Avengers: Doomsday"
+ },
+ "news:f1k4cc": {
+  "d": "The Hunger Games: Sunrise on the Reaping: The latest installment in the dystopian franchise is defying early predictions with a massive debut, while other…",
+  "img": "https://www.joblo.com/wp-content/uploads/2026/11/hunger-games-sunrise.jpg",
+  "k": "The Hunger Games Sunrise on the Reaping box office, Sunrise on the Reaping 120 million opening, Joseph Zada Haymitch Abernathy, I Play Rocky CinemaScore, Suzanne Collins The Hunger Games: Sunrise on the Reaping, The Hunger Games: Sunrise on the Reaping, Suzanne Collins, Haymitch Abernathy The Hunger Games: Sunrise on the Reaping, entertainment news, FlickAtlas",
+  "ld": {
+   "@context": "https://schema.org",
+   "@type": "NewsArticle",
+   "articleBody": "Box Office Expectations Smashed\n\nThe theatrical marketplace is experiencing a major surge as the newest chapter in a popular franchise outperforms initial projections. Early estimates indicate that the film is racing toward an enormous debut weekend.\n\nWhile previous forecasts pointed to a strong performance, current tracking numbers suggest the actual earnings will surpass those expectations by a substantial margin, securing its place among the top franchise debuts.\n\nComparing Franchise Openings\n\nPlacing the current figures into historical context reveals how the new release stacks up against its predecessors. The franchise historically commands massive opening weekends, with earlier titles setting exceptionally high bars.\n\nThis latest projection places the movie just behind previous middle-chapter highs, while performing remarkably stronger than some of the spin-offs or subsequent entries that experienced softer openings in the past.\n\nThe Appeal of Familiar Faces\n\nA primary driver behind the strong turnout appears to be the connection to the original cinematic universe. The inclusion of beloved legacy figures and returning cast members has generated considerable excitement among long-time followers of the series.\n\nFurthermore, the narrative focus on a younger version of a legendary character has resonated well with viewers, bridging the gap between nostalgic attachment and fresh storytelling.\n\nAudience Reception and CinemaScores\n\nViewer sentiment has generally leaned positive, reflecting steady enthusiasm inside cinema halls across the country. This favorable reception helps sustain momentum during the crucial opening days.\n\nDifferent releases currently playing in theaters are experiencing varied word-of-mouth effects, with some smaller debuts achieving stellar grades despite lower overall box office takes.\n\nPerformance of Fellow Contenders\n\nOther titles currently sharing marquee space are experiencing distinct box office trajectories. Last weekend's leading film is facing a sharper decline than initially anticipated as new competitors enter the market.\n\nMeanwhile, holdovers and family-friendly choices continue to accumulate steady totals, inching closer to crossing specific domestic milestones before concluding their theatrical runs.\n\nNews Overview\n\nThe Hunger Games: Sunrise on the Reaping is tracking for a massive $120 million opening weekend, significantly outperforming initial predictions. Strong fan response to returning characters and franchise continuity is driving the impressive box office numbers.",
+   "author": {
+    "@type": "Organization",
+    "name": "FlickAtlas"
+   },
+   "datePublished": "2026-11-21T17:43:58.000Z",
+   "description": "The Hunger Games: Sunrise on the Reaping: The latest installment in the dystopian franchise is defying early predictions with a massive debut, while other…",
+   "headline": "The Hunger Games: Sunrise on the Reaping Heads for Massive $120 Million Opening Weekend",
+   "image": "https://www.joblo.com/wp-content/uploads/2026/11/hunger-games-sunrise.jpg",
+   "keywords": "The Hunger Games Sunrise on the Reaping box office, Sunrise on the Reaping 120 million opening, Joseph Zada Haymitch Abernathy, I Play Rocky CinemaScore",
+   "mainEntityOfPage": "https://flickatlas.co.uk/news-item?id=f1k4cc",
+   "publisher": {
+    "@type": "Organization",
+    "logo": {
+     "@type": "ImageObject",
+     "url": "https://flickatlas.co.uk/icon-512.png"
+    },
+    "name": "FlickAtlas"
+   },
+   "url": "https://flickatlas.co.uk/news-item?id=f1k4cc"
+  },
+  "modified": "",
+  "published": "2026-11-21T17:43:58.000Z",
+  "ssr": "<article class=\"ssr-facts\">\n<h1>The Hunger Games: Sunrise on the Reaping Heads for Massive $120 Million Opening Weekend</h1>\n<p class=\"ssr-lead\">The latest installment in the dystopian franchise is defying early predictions with a massive debut, while other films like I Play Rocky and Ebenezer navigate contrasting box office fortunes.</p>\n<p class=\"ssr-date\">Published 21 November 2026</p>\n<h2>Box Office Expectations Smashed</h2>\n<p>The theatrical marketplace is experiencing a major surge as the newest chapter in a popular franchise outperforms initial projections. Early estimates indicate that the film is racing toward an enormous debut weekend.</p>\n<p>While previous forecasts pointed to a strong performance, current tracking numbers suggest the actual earnings will surpass those expectations by a substantial margin, securing its place among the top franchise debuts.</p>\n<h2>Comparing Franchise Openings</h2>\n<p>Placing the current figures into historical context reveals how the new release stacks up against its predecessors. The franchise historically commands massive opening weekends, with earlier titles setting exceptionally high bars.</p>\n<p>This latest projection places the movie just behind previous middle-chapter highs, while performing remarkably stronger than some of the spin-offs or subsequent entries that experienced softer openings in the past.</p>\n<h2>The Appeal of Familiar Faces</h2>\n<p>A primary driver behind the strong turnout appears to be the connection to the original cinematic universe. The inclusion of beloved legacy figures and returning cast members has generated considerable excitement among long-time followers of the series.</p>\n<p>Furthermore, the narrative focus on a younger version of a legendary character has resonated well with viewers, bridging the gap between nostalgic attachment and fresh storytelling.</p>\n<h2>Audience Reception and CinemaScores</h2>\n<p>Viewer sentiment has generally leaned positive, reflecting steady enthusiasm inside cinema halls across the country. This favorable reception helps sustain momentum during the crucial opening days.</p>\n<p>Different releases currently playing in theaters are experiencing varied word-of-mouth effects, with some smaller debuts achieving stellar grades despite lower overall box office takes.</p>\n<h2>Performance of Fellow Contenders</h2>\n<p>Other titles currently sharing marquee space are experiencing distinct box office trajectories. Last weekend&#x27;s leading film is facing a sharper decline than initially anticipated as new competitors enter the market.</p>\n<p>Meanwhile, holdovers and family-friendly choices continue to accumulate steady totals, inching closer to crossing specific domestic milestones before concluding their theatrical runs.</p>\n<h2>News Overview</h2>\n<p>The Hunger Games: Sunrise on the Reaping is tracking for a massive $120 million opening weekend, significantly outperforming initial predictions. Strong fan response to returning characters and franchise continuity is driving the impressive box office numbers.</p>\n<h2>Key facts</h2>\n<ul><li>The Hunger Games: Sunrise on the Reaping is heading for a $120 million opening.</li><li>The original Hunger Games opened with $152.5 million.</li><li>Catching Fire made $158 million.</li><li>Mockingjay – Part 1 opened with $121 million.</li><li>The Ballad of Songbirds Snakes opened to $44 million.</li><li>Godzilla Minus Zero domestic haul is north of $55 million.</li></ul>\n</article>",
+  "t": "The Hunger Games: Sunrise on the Reaping Heads for Massive $120 Million Opening Weekend"
  },
  "news:f21eym": {
   "d": "Across just a handful of appearances in the hit Hulu series, Jon Bernthal shapes the complex, tragic figure of Mikey Berzatto into the beating heart of the…",

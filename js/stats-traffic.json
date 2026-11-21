@@ -1,18 +1,18 @@
 {
   "connected": true,
-  "generated": "2026-11-21T18:27:35Z",
+  "generated": "2026-11-21T18:53:41Z",
   "realtime": {
     "active_users": 0
   },
   "today": {
     "users": 32,
-    "pageviews": 39,
-    "sessions": 32,
-    "avg_session_seconds": 12.4
+    "pageviews": 40,
+    "sessions": 33,
+    "avg_session_seconds": 12.9
   },
   "last7": {
     "users": 3175,
-    "pageviews": 3272,
+    "pageviews": 3273,
     "sessions": 3164,
     "avg_session_seconds": 8.7
   },
@@ -94,7 +94,7 @@
     {
       "source": "google",
       "medium": "organic",
-      "sessions": 14,
+      "sessions": 15,
       "users": 12
     },
     {

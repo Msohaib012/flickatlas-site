@@ -57181,5 +57181,852 @@ window.FA_PUBLISHED = {
     "runtime": 0,
     "providers": [],
     "providers_wtw": []
+  },
+  "1833997": {
+    "id": 1833997,
+    "type": "movie",
+    "title": "my hamster video",
+    "poster_path": "/yQqICOdlS5Or9wicZcLzxsz64In.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "My hamster likes to eat, drink water, and run.",
+    "industry": "world",
+    "popularity": 0,
+    "original_language": "en",
+    "origin_country": [
+      "US"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-21",
+    "source": "tmdb",
+    "budget": 20,
+    "revenue": 0,
+    "genres": [],
+    "tagline": "",
+    "status": "Planned",
+    "production_countries": [],
+    "spoken_languages": [],
+    "certification": "",
+    "release_date": "2026-11-28",
+    "date_kind": "release",
+    "runtime": 2,
+    "providers": [],
+    "providers_wtw": []
+  },
+  "1458249": {
+    "id": 1458249,
+    "type": "movie",
+    "title": "Unbearable Christmas",
+    "poster_path": "/8GFwwkwj4X7a5ejPlsRGuWSZ6PU.jpg",
+    "backdrop_path": "/l5F9srTwYesGHzhPdBZDrktWYk1.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "Out-of-work weatherman Troy Tipton has one Christmas mission: retrieve the beloved teddy bear he pawned for holiday cash. With wife Becca, mother-in-law Dawn, and the kids in tow, Troy hits the road from Ohio to Florida in his old news van. But the family road trip gets even wilder when they discover the cherished bear is actually a priceless Teddy Roosevelt antique worth millions.",
+    "industry": "world",
+    "popularity": 4.13,
+    "original_language": "en",
+    "origin_country": [
+      "US"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-21",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Comedy",
+      "Family"
+    ],
+    "tagline": "There's always a 10% chance of a miracle.",
+    "status": "Released",
+    "production_countries": [
+      "US"
+    ],
+    "spoken_languages": [
+      "en"
+    ],
+    "certification": "",
+    "release_date": "2026-11-20",
+    "date_kind": "release",
+    "runtime": 0,
+    "providers": [
+      {
+        "name": "Peacock Premium",
+        "logo_path": "/a1UIdq5BrkcAxnxcUhFsNbXnxeu.png",
+        "region": "US",
+        "type": "flatrate"
+      },
+      {
+        "name": "Peacock Premium Plus",
+        "logo_path": "/yrEwyMzEKdqAoGhaWUARtIxByol.png",
+        "region": "US",
+        "type": "flatrate"
+      }
+    ],
+    "providers_wtw": [
+      {
+        "name": "Peacock Premium",
+        "logo_path": "/a1UIdq5BrkcAxnxcUhFsNbXnxeu.png",
+        "region": "US",
+        "kind": "flatrate"
+      },
+      {
+        "name": "Peacock Premium Plus",
+        "logo_path": "/yrEwyMzEKdqAoGhaWUARtIxByol.png",
+        "region": "US",
+        "kind": "flatrate"
+      }
+    ]
+  },
+  "1816491": {
+    "id": 1816491,
+    "type": "movie",
+    "title": "Sathyameva",
+    "poster_path": "/b9cgbE8RdM6GpnSsu8eDufqXLQk.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "An upcoming courtroom thriller movie directed by Deepu Karunakaran and written by K S Aravind.",
+    "industry": "bollywood",
+    "popularity": 0.8543,
+    "original_language": "ml",
+    "origin_country": [
+      "IN"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-21",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Crime",
+      "Thriller",
+      "Drama"
+    ],
+    "tagline": "",
+    "status": "Post Production",
+    "production_countries": [
+      "IN"
+    ],
+    "spoken_languages": [
+      "ml"
+    ],
+    "certification": "U/A 16+",
+    "release_date": "2026-11-27",
+    "date_kind": "release",
+    "runtime": 0,
+    "providers": [],
+    "providers_wtw": []
+  },
+  "1823351": {
+    "id": 1823351,
+    "type": "movie",
+    "title": "No dejes de leer",
+    "poster_path": "/6yhUbMphkhoGM5352UYsPFxhVIG.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "In a family where writing horror stories is a tradition, a mother and grandmother entertains her daughter and granddaughter by telling them chilling tales of murder, violence, and gruesome horrors. Each story presents a different setting: a factory where a group of friends becomes trapped with a relentless killer, a bowling match that turns into a bloody hunt, and a church that hides a secret as macabre as it is deadly. What begins as a night of storytelling soon spirals into a nightmare as fiction starts to blur with reality.",
+    "industry": "world",
+    "popularity": 0.2386,
+    "original_language": "es",
+    "origin_country": [
+      "AR"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-21",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Horror"
+    ],
+    "tagline": "",
+    "status": "In Production",
+    "production_countries": [
+      "AR"
+    ],
+    "spoken_languages": [
+      "es"
+    ],
+    "certification": "",
+    "release_date": "2026-11-28",
+    "date_kind": "release",
+    "runtime": 83,
+    "providers": [],
+    "providers_wtw": []
+  },
+  "1694711": {
+    "id": 1694711,
+    "type": "movie",
+    "title": "Armored Trooper VOTOMS: Die Graue Hexe - Part 1",
+    "poster_path": "/2EQ3JA0NT6bDg0xoZlYWGSBbzqO.jpg",
+    "backdrop_path": "/uNeXCzJUoKmrUr5Z1OFZlJ5ETyV.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "Set against the backdrop of the final stages of the Hundred Year War between Gilgamesh and Balarant that ravaged the Astragius Galaxy, army officer Maki Staufenberg is assigned to Valkyria II, the second planet in the Asgard system, where she is tasked with investigating Ash Vamps, a soldier who has earned the nickname of “Witch” because of her habit of being the sole survivor in missions assigned to her ragtag band of soldiers on punishment detail.",
+    "industry": "world",
+    "popularity": 1.7286,
+    "original_language": "ja",
+    "origin_country": [
+      "JP"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-21",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Animation",
+      "Science Fiction",
+      "Action",
+      "War"
+    ],
+    "tagline": "",
+    "status": "Released",
+    "production_countries": [
+      "JP"
+    ],
+    "spoken_languages": [
+      "ja"
+    ],
+    "certification": "",
+    "release_date": "2026-11-20",
+    "date_kind": "release",
+    "runtime": 100,
+    "providers": [],
+    "providers_wtw": []
+  },
+  "1823053": {
+    "id": 1823053,
+    "type": "movie",
+    "title": "No dejes de leer",
+    "poster_path": "/yWfodyiuNHYV0uAcXKKhKpLRWN7.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "In a family where writing horror stories is a tradition, a mother and grandmother entertains her daughter and granddaughter by telling them chilling tales of murder, violence, and gruesome horrors. Each story presents a different setting: a factory where a group of friends becomes trapped with a relentless killer, a bowling match that turns into a bloody hunt, and a church that hides a secret as macabre as it is deadly. What begins as a night of storytelling soon spirals into a nightmare as fiction starts to blur with reality.",
+    "industry": "world",
+    "popularity": 0.2051,
+    "original_language": "es",
+    "origin_country": [
+      "AR"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-21",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Horror"
+    ],
+    "tagline": "",
+    "status": "In Production",
+    "production_countries": [
+      "AR"
+    ],
+    "spoken_languages": [
+      "es"
+    ],
+    "certification": "",
+    "release_date": "2026-11-28",
+    "date_kind": "release",
+    "runtime": 83,
+    "providers": [],
+    "providers_wtw": []
+  },
+  "1827471": {
+    "id": 1827471,
+    "type": "movie",
+    "title": "Mike Ward: Modest",
+    "poster_path": "/oB9Pcb5grM5Gk0TDWZeBZ3vHhDZ.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "French-Canadian comic Mike Ward delivers an unapologetically honest set, from dating after divorce to living life to the fullest - one impulse at a time",
+    "industry": "world",
+    "popularity": 1.762,
+    "original_language": "fr",
+    "origin_country": [
+      "CA"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-21",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Comedy"
+    ],
+    "tagline": "",
+    "status": "Released",
+    "production_countries": [],
+    "spoken_languages": [
+      "fr"
+    ],
+    "certification": "M18",
+    "release_date": "2026-11-17",
+    "date_kind": "release",
+    "runtime": 62,
+    "providers": [
+      {
+        "name": "Netflix",
+        "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+        "region": "IN",
+        "type": "flatrate"
+      }
+    ],
+    "providers_wtw": [
+      {
+        "name": "Netflix",
+        "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+        "region": "IN",
+        "kind": "flatrate"
+      }
+    ]
+  },
+  "1822924": {
+    "id": 1822924,
+    "type": "movie",
+    "title": "And I Maintain",
+    "poster_path": "/flWw1Hszn0xmBjjVQdpu5wxp5ua.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "Shards, desire and fear: the boundaries between everyday life and dreams become blurred. A film about the truthfulness of things.",
+    "industry": "world",
+    "popularity": 0.2715,
+    "original_language": "de",
+    "origin_country": [
+      "DE"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-21",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Drama"
+    ],
+    "tagline": "",
+    "status": "Released",
+    "production_countries": [
+      "DE"
+    ],
+    "spoken_languages": [
+      "de"
+    ],
+    "certification": "",
+    "release_date": "2026-11-28",
+    "date_kind": "release",
+    "runtime": 3,
+    "providers": [],
+    "providers_wtw": []
+  },
+  "1796954": {
+    "id": 1796954,
+    "type": "movie",
+    "title": "Pop Pop",
+    "poster_path": "/o58DajrFPY01nqTFGU5pY73Xmvs.jpg",
+    "backdrop_path": "/mBPJxfiqUMbQv84kYIsYsTMddwk.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "Dustin and Dibz survived their senior year of college and their future looks bright. But can they also survive cancel culture? The Manosphere? Neo-n*zis? THE 2016 ELECTION?! Will they ever discover how to be Real Live Grown Up Men in Society? Probs not.",
+    "industry": "world",
+    "popularity": 0.9664,
+    "original_language": "en",
+    "origin_country": [
+      "US"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-21",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Comedy"
+    ],
+    "tagline": "",
+    "status": "Released",
+    "production_countries": [
+      "US"
+    ],
+    "spoken_languages": [
+      "en"
+    ],
+    "certification": "",
+    "release_date": "2026-11-15",
+    "date_kind": "festival",
+    "runtime": 83,
+    "providers": [],
+    "providers_wtw": []
+  },
+  "1821166": {
+    "id": 1821166,
+    "type": "movie",
+    "title": "Beneath the Skin",
+    "poster_path": "/7bZ4ucs20d0Ve1QhCXyT5rlLaGB.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "Mother and daughter encounter a malicious creature from another world.",
+    "industry": "world",
+    "popularity": 0.2506,
+    "original_language": "en",
+    "origin_country": [
+      "US"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-21",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Horror"
+    ],
+    "tagline": "",
+    "status": "In Production",
+    "production_countries": [],
+    "spoken_languages": [],
+    "certification": "",
+    "release_date": "2026-11-28",
+    "date_kind": "release",
+    "runtime": 6,
+    "providers": [],
+    "providers_wtw": []
+  },
+  "1791730": {
+    "id": 1791730,
+    "type": "movie",
+    "title": "Primetime Preacher$",
+    "poster_path": "/ilFRKYUhsYyW0mpSifpFZmpR9yo.jpg",
+    "backdrop_path": "/gwrGO8A61CtuxxurWjo3OAl1wcO.jpg",
+    "vote_average": 6.0,
+    "vote_count": 1,
+    "overview": "Chronicles the 1980s golden age of Christian broadcasting, detailing how three of America's most prominent televangelists shifted evangelical Christianity into a massive political force.",
+    "industry": "world",
+    "popularity": 6.6436,
+    "original_language": "en",
+    "origin_country": [
+      "US"
+    ],
+    "trailer": {
+      "key": "bkttnVxwp70",
+      "name": "Primetime Preacher$ | Official Trailer | Netflix",
+      "site": "YouTube"
+    },
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-21",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Documentary"
+    ],
+    "tagline": "",
+    "status": "Released",
+    "production_countries": [
+      "US"
+    ],
+    "spoken_languages": [
+      "en"
+    ],
+    "certification": "14",
+    "release_date": "2026-11-14",
+    "date_kind": "release",
+    "runtime": 0,
+    "providers": [
+      {
+        "name": "Netflix",
+        "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+        "region": "IN",
+        "type": "flatrate"
+      }
+    ],
+    "providers_wtw": [
+      {
+        "name": "Netflix",
+        "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+        "region": "IN",
+        "kind": "flatrate"
+      }
+    ]
+  },
+  "1820865": {
+    "id": 1820865,
+    "type": "movie",
+    "title": "いかさま隆二と裏切り純子",
+    "poster_path": "/kCHl4y1XA5po8QARhfmDjSz5HmV.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "",
+    "industry": "world",
+    "popularity": 0.4382,
+    "original_language": "ja",
+    "origin_country": [
+      "JP"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-21",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [],
+    "tagline": "",
+    "status": "In Production",
+    "production_countries": [],
+    "spoken_languages": [],
+    "certification": "",
+    "release_date": "2026-11-28",
+    "date_kind": "release",
+    "runtime": 75,
+    "providers": [],
+    "providers_wtw": []
+  },
+  "1514611": {
+    "id": 1514611,
+    "type": "movie",
+    "title": "The Chosen: Season 6 Premiere",
+    "poster_path": "/mPCa5zdJchjxd81R25UU1e0mjj7.jpg",
+    "backdrop_path": "/1wRJXNjw0lY1Cuh1mvUl90h5nok.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "The sixth season premiere of the popular Biblical television series, following Jesus' arrest and trial leading up to His crucifixion.",
+    "industry": "world",
+    "popularity": 1.4148,
+    "original_language": "en",
+    "origin_country": [
+      "US"
+    ],
+    "trailer": {
+      "key": "VVqrE7azRqw",
+      "name": "The Chosen: Season 6 Official Trailer",
+      "site": "YouTube"
+    },
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-21",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Drama"
+    ],
+    "tagline": "",
+    "status": "Released",
+    "production_countries": [
+      "US"
+    ],
+    "spoken_languages": [
+      "en"
+    ],
+    "certification": "",
+    "release_date": "2026-11-14",
+    "date_kind": "festival",
+    "runtime": 52,
+    "providers": [],
+    "providers_wtw": []
+  },
+  "1819632": {
+    "id": 1819632,
+    "type": "movie",
+    "title": "Gaslight",
+    "poster_path": "/w4rALzITn1hE5IOPkMOdsS5ZOTH.jpg",
+    "backdrop_path": "/9SnCrWmvSb9Ih2VYQyrVbEEsP4.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "A mourning couple’s getaway spirals out of control as a man juggles his wife’s grief, his mistress’s jealousy, and the fallout from both.",
+    "industry": "world",
+    "popularity": 0.2276,
+    "original_language": "en",
+    "origin_country": [
+      "US"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-21",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Thriller",
+      "Horror",
+      "Comedy"
+    ],
+    "tagline": "John loves melons",
+    "status": "Post Production",
+    "production_countries": [],
+    "spoken_languages": [],
+    "certification": "",
+    "release_date": "2026-11-28",
+    "date_kind": "festival",
+    "runtime": 26,
+    "providers": [],
+    "providers_wtw": []
+  },
+  "1818625": {
+    "id": 1818625,
+    "type": "movie",
+    "title": "Il Paradiso è un posto bellissimo",
+    "poster_path": "/ud8mVeWBm1XWKYGrvImc3CrWC9w.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "",
+    "industry": "world",
+    "popularity": 0.2934,
+    "original_language": "it",
+    "origin_country": [
+      "IT"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-21",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [],
+    "tagline": "",
+    "status": "In Production",
+    "production_countries": [],
+    "spoken_languages": [],
+    "certification": "",
+    "release_date": "2026-11-28",
+    "date_kind": "festival",
+    "runtime": 0,
+    "providers": [],
+    "providers_wtw": []
+  },
+  "1818380": {
+    "id": 1818380,
+    "type": "movie",
+    "title": "Sguardi",
+    "poster_path": "/QUYjyM9K1KNHm27bhIpZxRWKbi.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "",
+    "industry": "world",
+    "popularity": 0.1585,
+    "original_language": "it",
+    "origin_country": [
+      "IT"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-21",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [],
+    "tagline": "",
+    "status": "In Production",
+    "production_countries": [],
+    "spoken_languages": [],
+    "certification": "",
+    "release_date": "2026-11-28",
+    "date_kind": "festival",
+    "runtime": 0,
+    "providers": [],
+    "providers_wtw": []
+  },
+  "1817684": {
+    "id": 1817684,
+    "type": "movie",
+    "title": "孤楼夜幽灵",
+    "poster_path": "/1vHuvZ8vKuZkSkxfAMdfzSkATrj.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "",
+    "industry": "world",
+    "popularity": 0.3628,
+    "original_language": "zh",
+    "origin_country": [
+      "CN"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-21",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Thriller",
+      "Horror"
+    ],
+    "tagline": "",
+    "status": "In Production",
+    "production_countries": [],
+    "spoken_languages": [],
+    "certification": "",
+    "release_date": "2026-11-28",
+    "date_kind": "release",
+    "runtime": 0,
+    "providers": [],
+    "providers_wtw": []
+  },
+  "1814527": {
+    "id": 1814527,
+    "type": "movie",
+    "title": "Le Retour des Grands Prédateurs en Bretagne",
+    "poster_path": "/p3ZOKCdvASjGPaa141972D8P0n7.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "",
+    "industry": "world",
+    "popularity": 0.3435,
+    "original_language": "fr",
+    "origin_country": [
+      "FR"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-21",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Documentary"
+    ],
+    "tagline": "",
+    "status": "In Production",
+    "production_countries": [
+      "FR"
+    ],
+    "spoken_languages": [],
+    "certification": "",
+    "release_date": "2026-11-28",
+    "date_kind": "release",
+    "runtime": 0,
+    "providers": [],
+    "providers_wtw": []
+  },
+  "1810889": {
+    "id": 1810889,
+    "type": "movie",
+    "title": "Disney Adventure: Charting a New Course",
+    "poster_path": "/iVZrSAPYzIzv25f3oKarOsCaG4V.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "Go behind the scenes with National Geographic to explore the massive engineering and creative journey of building Disney Cruise Line's largest ship to date, the Disney Adventure. From its initial rescue as a partially constructed vessel to its transformation into a floating Disney wonderland, this special documents the innovative design, construction challenges, and unparalleled scale required to bring this new class of ship to life.",
+    "industry": "world",
+    "popularity": 0.1496,
+    "original_language": "en",
+    "origin_country": [
+      "US"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-21",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [],
+    "tagline": "",
+    "status": "In Production",
+    "production_countries": [],
+    "spoken_languages": [],
+    "certification": "",
+    "release_date": "2026-11-28",
+    "date_kind": "release",
+    "runtime": 0,
+    "providers": [],
+    "providers_wtw": []
+  },
+  "1799512": {
+    "id": 1799512,
+    "type": "movie",
+    "title": "Christmas Everyday: Married and Bright",
+    "poster_path": "/gnJSy1aIionrDRFvsLc5YGj7o5J.jpg",
+    "backdrop_path": "/5rJhxx6X5cjMIXMYwUxNJnXql7m.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "Fancy prepares for the biggest season of her life and to secure the future of her boutique while planning her dream Christmas wedding to fiance Jaylen, with the help of her mother Evelyn and sister Belle.",
+    "industry": "world",
+    "popularity": 0.7534,
+    "original_language": "en",
+    "origin_country": [
+      "US"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-21",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "TV Movie",
+      "Comedy",
+      "Romance"
+    ],
+    "tagline": "",
+    "status": "Post Production",
+    "production_countries": [
+      "US"
+    ],
+    "spoken_languages": [
+      "en"
+    ],
+    "certification": "",
+    "release_date": "2026-11-28",
+    "date_kind": "release",
+    "runtime": 88,
+    "providers": [],
+    "providers_wtw": []
   }
 };

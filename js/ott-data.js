@@ -91,6 +91,22 @@ window.FA_OTT = {
       "type": "movie"
     },
     {
+      "date": "2026-11-20",
+      "date_kind": "release",
+      "id": 1458249,
+      "providers": [
+        {
+          "logo_path": "/a1UIdq5BrkcAxnxcUhFsNbXnxeu.png",
+          "name": "Peacock Premium"
+        },
+        {
+          "logo_path": "/yrEwyMzEKdqAoGhaWUARtIxByol.png",
+          "name": "Peacock Premium Plus"
+        }
+      ],
+      "type": "movie"
+    },
+    {
       "country": "US",
       "date": "2026-11-20",
       "date_kind": "digital",
@@ -309,6 +325,18 @@ window.FA_OTT = {
       "type": "movie"
     },
     {
+      "date": "2026-11-17",
+      "date_kind": "release",
+      "id": 1827471,
+      "providers": [
+        {
+          "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        }
+      ],
+      "type": "movie"
+    },
+    {
       "country": "US",
       "date": "2026-11-17",
       "date_kind": "digital",
@@ -491,6 +519,18 @@ window.FA_OTT = {
         }
       ],
       "type": "tv"
+    },
+    {
+      "date": "2026-11-14",
+      "date_kind": "release",
+      "id": 1791730,
+      "providers": [
+        {
+          "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        }
+      ],
+      "type": "movie"
     },
     {
       "date": "2026-11-14",

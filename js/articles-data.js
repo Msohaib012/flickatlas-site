@@ -213082,5 +213082,414 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Sat, 21 Nov 2026 16:41:53 GMT"
+  },
+  "19ac64x": {
+    "id": "19ac64x",
+    "type": "news",
+    "headline": "Fool In Love Episode 14 Release Schedule, Spoilers, and Streaming Details",
+    "dek": "Everything you need to know about Fool In Love Episode 14, featuring Bank Artit and Copter Nuntapong, including release timings on iQIYI and Dailymotion, plot spoilers, and family drama.",
+    "body": [
+      {
+        "h": "Anticipation Builds for Fool In Love Episode 14",
+        "p": [
+          "The popular Thai BL series Fool In Love is capturing the attention of audiences worldwide following a series of devastating and emotional moments in the previous chapter. Adapted from the web novel My Beloved Fool, the show stars Bank Artit and Copter Nuntapong in lead roles.",
+          "What initially began as a lighthearted and flirtatious story has transformed into an intense dramatic journey. Viewers have watched closely as the plot took a dark turn after Ing uncovered a web of lies and betrayal involving Yok and Itt."
+        ]
+      },
+      {
+        "h": "Recap and Spoilers: What to Expect Next",
+        "p": [
+          "The narrative intensifies significantly in the upcoming instalment. In the prior chapter, Itt kidnapped Ing and restrained him to a bed, laying bare his obsessive feelings and malicious intentions, while Yok scrambled to track him down and mount a rescue.",
+          "Previews indicate that Episode 14 will show whether Yok reaches Ing in time. Footage depicts Yok fiercely confronting Itt in a brutal physical altercation, leaving his knuckles bloody. Another poignant scene features a deeply traumatized Ing walking away from the building, with Yok rushing to offer his jacket and comfort."
+        ]
+      },
+      {
+        "h": "Family Conflict and Business Takeovers",
+        "p": [
+          "The emotional weight continues to compound as Ing struggles heavily to process the aftermath of his traumatic ordeal. Meanwhile, complications mount professionally as Itt prepares to take control of Ing's business operations.",
+          "In addition to these pressures, Yok faces major personal fallout when he finally gathers the courage to confess his romantic feelings for Ing directly to his family. This bold declaration comes with heavy consequences, resulting in Yok being struck by his father."
+        ]
+      },
+      {
+        "h": "Release Date and Streaming Platforms",
+        "p": [
+          "Fans can mark their calendars for Sunday, November 22, 2026, when the fourteenth episode officially launches. The primary platform for official streaming is iQIYI, where subscribers can watch the episode featuring English subtitles.",
+          "For viewers seeking alternative or free viewing choices, fan-uploaded versions with English subtitles frequently surface on Dailymotion shortly after the primary online debut."
+        ]
+      },
+      {
+        "h": "Official Air Times Across Regions",
+        "p": [
+          "Timing varies depending on geographic location for the Sunday release. In Thailand, the episode is scheduled to broadcast at 8:00 PM ICT.",
+          "For fans watching from India, the local viewing time is set for 6:30 PM IST on the same day through the iQIYI application and website."
+        ]
+      },
+      {
+        "h": "How to Watch and Download on iQIYI",
+        "p": [
+          "Subscribers with an active iQIYI VIP membership can access Episode 14 in high definition without incurring extra individual purchase fees. Users can navigate to the app or official website, log into their registered accounts, and verify their membership status.",
+          "To locate the content easily, viewers can search for Fool In Love or Fool In Love First Fall, select Episode 14, and enable English subtitles. Those utilizing mobile devices can also tap the download option for offline viewing, subject to availability."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Fool In Love Episode 14 arrives on Sunday, November 22, 2026, on iQIYI and Dailymotion, bringing viewers the continuation of the popular Thai BL series starring Bank Artit and Copter Nuntapong. The new instalment features high-stakes drama including Yok rescuing Ing, a dramatic family confrontation, and business complications.",
+          "Fans can tune in at 8:00 PM ICT in Thailand or 6:30 PM IST in India to catch the latest developments."
+        ]
+      }
+    ],
+    "facts": [
+      "Fool In Love Episode 14 releases on November 22, 2026.",
+      "The series is adapted from the web novel My Beloved Fool.",
+      "The show stars Bank Artit and Copter Nuntapong.",
+      "The episode airs at 8:00 PM ICT in Thailand and 6:30 PM IST in India.",
+      "Episodes are hosted on iQIYI and Dailymotion."
+    ],
+    "entities": {
+      "people": [
+        "Bank Artit",
+        "Copter Nuntapong",
+        "Yok",
+        "Ing",
+        "Itt"
+      ],
+      "titles": [
+        "Fool In Love",
+        "My Beloved Fool",
+        "Fool In Love First Fall"
+      ]
+    },
+    "keywords": [
+      "Fool In Love Episode 14",
+      "Fool In Love Thai BL",
+      "Bank Artit Copter Nuntapong",
+      "Fool In Love iQIYI release"
+    ],
+    "images": [
+      {
+        "url": "https://images.filmibeat.com/img/2026/11/feature-2026-11-21t121735-715-72251795243708.jpg",
+        "caption": "Fool In Love Episode 14 Release Schedule, Spoilers, and Streaming Details",
+        "source": "FilmiBeat"
+      }
+    ],
+    "published": "Sat, 21 Nov 2026 23:55:10 +0530"
+  },
+  "f1k4cc": {
+    "id": "f1k4cc",
+    "type": "news",
+    "headline": "The Hunger Games: Sunrise on the Reaping Heads for Massive $120 Million Opening Weekend",
+    "dek": "The latest installment in the dystopian franchise is defying early predictions with a massive debut, while other films like I Play Rocky and Ebenezer navigate contrasting box office fortunes.",
+    "body": [
+      {
+        "h": "Box Office Expectations Smashed",
+        "p": [
+          "The theatrical marketplace is experiencing a major surge as the newest chapter in a popular franchise outperforms initial projections. Early estimates indicate that the film is racing toward an enormous debut weekend.",
+          "While previous forecasts pointed to a strong performance, current tracking numbers suggest the actual earnings will surpass those expectations by a substantial margin, securing its place among the top franchise debuts."
+        ]
+      },
+      {
+        "h": "Comparing Franchise Openings",
+        "p": [
+          "Placing the current figures into historical context reveals how the new release stacks up against its predecessors. The franchise historically commands massive opening weekends, with earlier titles setting exceptionally high bars.",
+          "This latest projection places the movie just behind previous middle-chapter highs, while performing remarkably stronger than some of the spin-offs or subsequent entries that experienced softer openings in the past."
+        ]
+      },
+      {
+        "h": "The Appeal of Familiar Faces",
+        "p": [
+          "A primary driver behind the strong turnout appears to be the connection to the original cinematic universe. The inclusion of beloved legacy figures and returning cast members has generated considerable excitement among long-time followers of the series.",
+          "Furthermore, the narrative focus on a younger version of a legendary character has resonated well with viewers, bridging the gap between nostalgic attachment and fresh storytelling."
+        ]
+      },
+      {
+        "h": "Audience Reception and CinemaScores",
+        "p": [
+          "Viewer sentiment has generally leaned positive, reflecting steady enthusiasm inside cinema halls across the country. This favorable reception helps sustain momentum during the crucial opening days.",
+          "Different releases currently playing in theaters are experiencing varied word-of-mouth effects, with some smaller debuts achieving stellar grades despite lower overall box office takes."
+        ]
+      },
+      {
+        "h": "Performance of Fellow Contenders",
+        "p": [
+          "Other titles currently sharing marquee space are experiencing distinct box office trajectories. Last weekend's leading film is facing a sharper decline than initially anticipated as new competitors enter the market.",
+          "Meanwhile, holdovers and family-friendly choices continue to accumulate steady totals, inching closer to crossing specific domestic milestones before concluding their theatrical runs."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "The Hunger Games: Sunrise on the Reaping is tracking for a massive $120 million opening weekend, significantly outperforming initial predictions. Strong fan response to returning characters and franchise continuity is driving the impressive box office numbers."
+        ]
+      }
+    ],
+    "facts": [
+      "The Hunger Games: Sunrise on the Reaping is heading for a $120 million opening.",
+      "The original Hunger Games opened with $152.5 million.",
+      "Catching Fire made $158 million.",
+      "Mockingjay – Part 1 opened with $121 million.",
+      "The Ballad of Songbirds Snakes opened to $44 million.",
+      "Godzilla Minus Zero domestic haul is north of $55 million."
+    ],
+    "entities": {
+      "people": [
+        "Suzanne Collins",
+        "Haymitch Abernathy",
+        "Woody Harrelson",
+        "Joseph Zada",
+        "Jennifer Lawrence",
+        "Josh Hutcherson",
+        "Chris Bumbray"
+      ],
+      "titles": [
+        "The Hunger Games: Sunrise on the Reaping",
+        "Catching Fire",
+        "Mockingjay – Part 1",
+        "The Ballad of Songbirds Snakes",
+        "I Play Rocky",
+        "Ebenezer",
+        "The Cat in the Hat",
+        "Godzilla Minus Zero"
+      ]
+    },
+    "keywords": [
+      "The Hunger Games Sunrise on the Reaping box office",
+      "Sunrise on the Reaping 120 million opening",
+      "Joseph Zada Haymitch Abernathy",
+      "I Play Rocky CinemaScore"
+    ],
+    "images": [
+      {
+        "url": "https://www.joblo.com/wp-content/uploads/2026/11/hunger-games-sunrise.jpg",
+        "caption": "The Hunger Games: Sunrise on the Reaping Heads for Massive $120 Million Opening Weekend",
+        "source": "JoBlo"
+      }
+    ],
+    "published": "Sat, 21 Nov 2026 17:43:58 +0000"
+  },
+  "1xz05pp": {
+    "id": "1xz05pp",
+    "type": "news",
+    "headline": "Ramayana Worldwide Box Office Day 16: Enters 1600 Crore Club",
+    "dek": "Ranbir Kapoor, Yash, and Sai Pallavi starrer Ramayana enters the 1600 crore club globally on day 16, becoming the second non-sequel Indian film to achieve the feat.",
+    "body": [
+      {
+        "h": "Entering the Third Week",
+        "p": [
+          "The magnum opus Ramayana entered its third week at the box office by dropping below the thirty crore mark globally for the very first time. Despite witnessing a considerable collection decline on its third Friday, the feature comfortably pushed past a major worldwide milestone."
+        ]
+      },
+      {
+        "h": "Day 16 Collections",
+        "p": [
+          "On its sixteenth day, the Bollywood production grossed 18.29 crore inside India. Internationally, the film brought in an estimated 8 crore.",
+          "In total, the worldwide collection for day 16 reached 26.29 crore. This marked a 29.44 percent drop compared to the 37.26 crore recorded on day 15."
+        ]
+      },
+      {
+        "h": "Cumulative Earnings Overview",
+        "p": [
+          "The cumulative collections of the film stand at an impressive 1081.39 crore gross within India and 531.15 crore overseas. Combining both markets, the overall worldwide gross collection has reached 1612.54 crore.",
+          "Breaking down the domestic figures further, the India net collection stands at 916.43 crore, while the India gross is registered at 1081.39 crore."
+        ]
+      },
+      {
+        "h": "A Rare Non-Sequel Milestone",
+        "p": [
+          "By crossing the 1600 crore mark globally in just 16 days, the project has cemented a unique record. It is now officially the second non-sequel Indian film in history to enter the exclusive 1600 crore club, following Dangal.",
+          "Across all Indian cinema, it stands as the fifth film overall to touch this monumental financial threshold."
+        ]
+      },
+      {
+        "h": "Global Grossers Ranking",
+        "p": [
+          "With its current worldwide haul of 1612.54 crore, the feature holds the position of the fifth-highest-grossing Indian film globally. The top tier includes Dangal at 2070.3 crore, Dhurandhar 2 at 1850.82 crore, Baahubali 2 at 1788.06 crore, and Pushpa 2 at 1764.85 crore.",
+          "Further down the global list sit titles such as Dhurandhar, RRR, KGF Chapter 2, Jawan, and Pathaan."
+        ]
+      },
+      {
+        "h": "Cast, Crew and Production",
+        "p": [
+          "The film is directed by Nitesh Tiwari and produced by Namit Malhotra alongside Yash under Prime Focus Studios, Monster Mind Creations, and DNEG. The ensemble cast features Ranbir Kapoor, Sai Pallavi, Yash, Ravi Dubey, Arun Govil, Lara Dutta, Indira Krishnan, Rakul Preet Singh, Sonal Jha, and Vivek Oberoi.",
+          "Musical scoring for the project is handled jointly by AR Rahman and Hans Zimmer."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Ramayana crossed the 1600 crore worldwide milestone on day 16, dropping under the thirty crore mark globally for the first time on its third Friday. The film secured its place as the second non-sequel Indian film to enter the 1600 crore club and the fifth-highest-grossing Indian film globally."
+        ]
+      }
+    ],
+    "facts": [
+      "Ramayana grossed 18.29 crore in India on its third Friday.",
+      "International gross on day 16 was estimated at 8 crore.",
+      "Total worldwide collection on day 16 was 26.29 crore.",
+      "Day 16 collections dropped 29.44 percent from day 15's 37.26 crore.",
+      "Total Indian gross stands at 1081.39 crore.",
+      "Total overseas gross stands at 531.15 crore.",
+      "Total worldwide gross stands at 1612.54 crore.",
+      "India net stands at 916.43 crore.",
+      "Ramayana is the second non-sequel Indian film to enter the 1600 crore club."
+    ],
+    "entities": {
+      "people": [
+        "Ranbir Kapoor",
+        "Yash",
+        "Sai Pallavi",
+        "Nitesh Tiwari",
+        "Namit Malhotra",
+        "Ravi Dubey",
+        "Arun Govil",
+        "Lara Dutta",
+        "Indira Krishnan",
+        "Rakul Preet Singh",
+        "Sonal Jha",
+        "Vivek Oberoi",
+        "AR Rahman",
+        "Hans Zimmer"
+      ],
+      "titles": [
+        "Ramayana",
+        "Dangal",
+        "Dhurandhar 2",
+        "Baahubali 2",
+        "Pushpa 2",
+        "Dhurandhar",
+        "RRR",
+        "KGF Chapter 2",
+        "Jawan",
+        "Pathaan"
+      ]
+    },
+    "keywords": [
+      "Ramayana box office",
+      "Ramayana 1600 crore club",
+      "Ranbir Kapoor Ramayana",
+      "Ramayana worldwide collection"
+    ],
+    "images": [
+      {
+        "url": "https://www.koimoi.com/wp-content/new-galleries/2026/11/ramayana-box-office-update-0001.jpg",
+        "caption": "Ramayana Worldwide Box Office Day 16: Enters 1600 Crore Club",
+        "source": "Koimoi"
+      }
+    ],
+    "published": "Sat, 21 Nov 2026 17:29:09 +0000"
+  },
+  "1k2du0i": {
+    "id": "1k2du0i",
+    "type": "news",
+    "headline": "New Hunger Games Prequel 'Sunrise on the Reaping' Dominates Audiences and Box Office",
+    "dek": "The latest 158-minute installment in the franchise pulls in record-breaking viewer scores and box office tracking following its November release.",
+    "body": [
+      {
+        "h": "A Return to the Arena",
+        "p": [
+          "The Hunger Games franchise has long been recognized as a defining cultural phenomenon in young adult cinema, transforming Katniss Everdeen into a generational icon. The original survival drama combined high-stakes action with commentary on media spectacles, authoritarianism, and social inequality. Eleven years following the release of Mockingjay — Part 2, the cinematic universe expands once again to explore an earlier chapter in its history.",
+          "This latest installment brings the focus to the tragic past of Haymitch Abernathy. Throughout the initial films, his heavy drinking and cynicism pointed toward deep-seated trauma originating from his time competing in the 50th Hunger Games. Author Suzanne Collins ultimately fleshed out this missing chapter in her novel Sunrise on the Reaping, which has now transitioned directly to the big screen."
+        ]
+      },
+      {
+        "h": "Record-Breaking Audience Scores",
+        "p": [
+          "Following a release that also earned favorable critical reviews on Rotten Tomatoes, viewer reactions have surged on the Popcornmeter. The film secured a 95 percent score based on more than 1,000 verified viewer ratings. This milestone marks the highest score in the franchise, edging out both Catching Fire and The Ballad of Songbirds & Snakes, which previously held a tie at 89 percent.",
+          "Audience members expressed immense enthusiasm regarding the visual scale, performances, and overall storytelling. Viewers highlighted how the project honors the core themes of the series while delivering an emotionally resonant cinematic experience that brings the entire narrative full circle for longtime fans."
+        ]
+      },
+      {
+        "h": "Viewer Reactions and Emotional Resonance",
+        "p": [
+          "Even for fans who were already familiar with the outcome of the 50th Hunger Games, viewers noted that the narrative remained remarkably engaging. One fan described the picture as a perfect movie that stays amazing regardless of knowing the ending beforehand. Others pointed out the emotional weight of the project, noting the depth of the character portrayals.",
+          "Performances across the cast drew widespread praise from moviegoers who felt the actors fully embodied their respective roles. Reviewers described the experience as gut-wrenching and beautifully filmed, with several noting that the dramatic weight moved them deeply."
+        ]
+      },
+      {
+        "h": "Adapting Suzanne Collins's Novel",
+        "p": [
+          "As a literary adaptation, the production made several creative choices, including cutting notable subplots from Collins's original book. While some readers debated the absence of these elements on the cutting room floor, others commended the filmmakers for carefully tying off loose ends to deliver a cohesive cinematic conclusion.",
+          "Another notable adjustment from the source material involved toning down the graphic violence, as the original book is widely considered the most explicit entry in the series. The completed film ultimately secured a PG-13 rating for strong violence, bloody images, disturbing material, smoking, and teen drinking."
+        ]
+      },
+      {
+        "h": "Box Office Momentum and Holiday Launch",
+        "p": [
+          "Commercially, the film represents a massive return to form for Lionsgate. Backed by an A- CinemaScore and timed for a prime Thanksgiving release, the project achieved a $56 million opening and is currently tracking toward a $120 million US launch.",
+          "These figures comfortably exceed initial projections, potentially doubling the opening numbers of The Ballad of Songbirds & Snakes and marking the studio's biggest launch since Mockingjay — Part 2."
+        ]
+      },
+      {
+        "h": "Production and Creative Team",
+        "p": [
+          "Directed by Francis Lawrence, the 158-minute production features a screenplay adapted by Billy Ray, Michael Lesslie, and Suzanne Collins. Producers Nina Jacobson and Brad Simpson oversaw the project alongside Lionsgate.",
+          "The cast features Mckenna Grace as Maysilee Donner, Joseph Zada as Haymitch Abernathy, Whitney Peak as Lenore Dove Baird, and Jesse Plemons as Plutarch Heavensbee, joining the expansive cinematic legacy of the franchise."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "The Hunger Games: Sunrise on the Reaping has achieved the highest audience score in the franchise on Rotten Tomatoes alongside strong box office tracking following its November release. Audiences praised the adaptation's emotional depth and storytelling despite cuts from Suzanne Collins's original novel, propelling Lionsgate to its biggest launch since Mockingjay — Part 2."
+        ]
+      }
+    ],
+    "facts": [
+      "The film has a runtime of 158 minutes.",
+      "It achieved a 95% score on the Popcornmeter based on over 1,000 verified ratings.",
+      "Catching Fire and The Ballad of Songbirds & Snakes both hold an 89% audience score.",
+      "The movie is rated PG-13 for strong violence, bloody images, disturbing material, smoking, and teen drinking.",
+      "It opened with $56 million and is tracking for a $120 million US launch.",
+      "The release date is November 20, 2026.",
+      "Francis Lawrence directed the film.",
+      "Screenplay writers include Billy Ray, Michael Lesslie, and Suzanne Collins."
+    ],
+    "entities": {
+      "people": [
+        "Manuel Demegillo",
+        "Suzanne Collins",
+        "John",
+        "Mr O",
+        "Ashton",
+        "Christine",
+        "Daniella",
+        "Janet G",
+        "Joanna",
+        "Francis Lawrence",
+        "Mckenna Grace",
+        "Joseph Zada",
+        "Whitney Peak",
+        "Jesse Plemons",
+        "Billy Ray",
+        "Michael Lesslie",
+        "Brad Simpson",
+        "Nina Jacobson"
+      ],
+      "titles": [
+        "The Hunger Games",
+        "Mockingjay — Part 2",
+        "Sunrise on the Reaping",
+        "Catching Fire",
+        "The Ballad of Songbirds Snakes",
+        "The Ballad of Songbirds & Snakes",
+        "The Hunger Games: Catching Fire",
+        "The Hunger Games: Mockingjay Part 1",
+        "The Hunger Games: Mockingjay Part 2",
+        "The Hunger Games: The Ballad of Songbirds and Snakes"
+      ]
+    },
+    "keywords": [
+      "Sunrise on the Reaping",
+      "Hunger Games prequel film",
+      "Haymitch Abernathy movie",
+      "Sunrise on the Reaping box office",
+      "Suzanne Collins book adaptation"
+    ],
+    "images": [
+      {
+        "url": "https://static0.moviewebimages.com/wordpress/wp-content/uploads/2026/04/sunrise-on-the-reaping.jpg?w=1600&amp;h=900&amp;fit=crop",
+        "caption": "New Hunger Games Prequel 'Sunrise on the Reaping' Dominates Audiences and Box Office",
+        "source": "MovieWeb"
+      }
+    ],
+    "published": "Sat, 21 Nov 2026 17:38:20 GMT"
   }
 };
