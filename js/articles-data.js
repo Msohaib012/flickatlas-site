@@ -202494,13 +202494,20 @@ window.FA_ARTICLES = {
           "Bano Episode 37 aired on 2026-11-20 on Geo TV. The full episode is available on the channel's official YouTube page.",
           "Watch the full episode here: https://www.youtube.com/watch?v=W94iRxwJZ_U"
         ]
+      },
+      {
+        "h": "Episode Summary",
+        "p": [
+          "Is episode mein Murtaza, Tooba aur Shehryar ek naye project par behas karte hain, lekin Shehryar Bano ke saath apna trip cancel karne se inkar kar deta hai. Bahar, Jafri Murtaza ki ma ko bura bhala kehta hai aur Noman se phone par baat karte hue ek gaadi ki takkar se zakhmi hokar dam tod deta hai. Murtaza Bano ke samne Jafri ki maut par guroor jatata hai, lekin Bano usay saaf kehti hai ke woh kabhi uski nahi hogi. Shehryar Jaf"
+        ]
       }
     ],
     "facts": [
       "Bano Episode 37 aired on 2026-11-20.",
       "Channel: Geo TV.",
       "Watch the full episode: https://www.youtube.com/watch?v=W94iRxwJZ_U",
-      "YouTube views: 125,081."
+      "YouTube views: 125,081.",
+      "Episode summary added 2026-11-21."
     ],
     "entities": {
       "titles": [
@@ -211157,13 +211164,20 @@ window.FA_ARTICLES = {
           "Khushi Episode 70 aired on 2026-11-21 on HUM TV. The full episode is available on the channel's official YouTube page.",
           "Watch the full episode here: https://www.youtube.com/watch?v=p7N5KF4qgIo"
         ]
+      },
+      {
+        "h": "Episode Summary",
+        "p": [
+          "Is episode mein, Haroon Khushi ki admission fee ke paise Aiza ko deta hai, par Aiza is par aitraaz karti hai. Khushi yeh paise lene se in"
+        ]
       }
     ],
     "facts": [
       "Khushi Episode 70 aired on 2026-11-21.",
       "Channel: HUM TV.",
       "Watch the full episode: https://www.youtube.com/watch?v=p7N5KF4qgIo",
-      "YouTube views: 115,507."
+      "YouTube views: 115,507.",
+      "Episode summary added 2026-11-21."
     ],
     "entities": {
       "titles": [
@@ -212511,13 +212525,20 @@ window.FA_ARTICLES = {
           "Bano Episode 38 aired on 2026-11-21 on Geo TV. The full episode is available on the channel's official YouTube page.",
           "Watch the full episode here: https://www.youtube.com/watch?v=UwoV1V76f_Y"
         ]
+      },
+      {
+        "h": "Episode Summary",
+        "p": [
+          "Episode 38 mein, Noman Qureshi Noor Jabbar ko Bano ke bachay aur Jafri ke hissay ke baare mein dhamki deta hai. Dusri taraf"
+        ]
       }
     ],
     "facts": [
       "Bano Episode 38 aired on 2026-11-21.",
       "Channel: Geo TV.",
       "Watch the full episode: https://www.youtube.com/watch?v=UwoV1V76f_Y",
-      "YouTube views: 129,136."
+      "YouTube views: 129,136.",
+      "Episode summary added 2026-11-21."
     ],
     "entities": {
       "titles": [
@@ -212552,6 +212573,12 @@ window.FA_ARTICLES = {
         "p": [
           "Set before 1940s, a Hindustani family that was divided mercilessly before the partition of Pakistan by the unfortunate time incidents."
         ]
+      },
+      {
+        "h": "Episode Summary",
+        "p": [
+          "Aangan ke episode 16 mein, ghar mein hungama hota hai jab Jamil apne chote bhai ko peetta hai aur ghar walon ko batata hai ke woh Lahore mein Muslim League"
+        ]
       }
     ],
     "facts": [
@@ -212559,7 +212586,8 @@ window.FA_ARTICLES = {
       "Channel: HUM TV.",
       "Watch the full episode: https://www.youtube.com/watch?v=BuE-8wO_v2c",
       "YouTube views: 115,116.",
-      "TMDB: Aangan (id 90172)."
+      "TMDB: Aangan (id 90172).",
+      "Episode summary added 2026-11-21."
     ],
     "entities": {
       "titles": [
@@ -213491,5 +213519,419 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Sat, 21 Nov 2026 17:38:20 GMT"
+  },
+  "10sn0by": {
+    "id": "10sn0by",
+    "type": "news",
+    "headline": "Can Sylvester Stallone's Biopic I Play Rocky Surpass The First Creed's Worldwide Collection?",
+    "dek": "Sylvester Stallone biographical drama I Play Rocky faces unique box office challenges as it targets the lifetime global collection of the first Creed movie.",
+    "body": [
+      {
+        "h": "The Release Strategy Of I Play Rocky",
+        "p": [
+          "The biographical drama I Play Rocky recently secured an extended release in North America over the weekend. However, the film is experiencing a staggered rollout across various overseas markets.",
+          "This particular release pattern makes it more difficult for the feature to compete globally against other action movies currently playing in theaters."
+        ]
+      },
+      {
+        "h": "Comparisons With The Boxing Legacy",
+        "p": [
+          "By bringing a fresh underdog story back to the big screen, the project naturally invites comparisons with the widely popular Creed franchise.",
+          "Sylvester Stallone's legendary boxing history has inspired multiple cinematic hits over the decades, raising questions about how this new biographical drama will measure up commercially."
+        ]
+      },
+      {
+        "h": "Examining The Lowest-Grossing Creed Movie",
+        "p": [
+          "The first film in the Creed franchise serves as the benchmark for this box office comparison, as it stands as the lowest-grossing installment in the series.",
+          "Directed by Ryan Coogler, the motion picture acts as a spin-off and sequel to Rocky Balboa, featuring a notable cast including Michael B. Jordan, Sylvester Stallone, Tessa Thompson, Phylicia Rashad, Tony Bellew, and Graham McTavish."
+        ]
+      },
+      {
+        "h": "Lifetime Box Office Earnings Of Creed",
+        "p": [
+          "Data from Box Office Mojo indicates that the initial Creed movie pulled in a lifetime worldwide box office haul of $174.2 million.",
+          "This total breaks down into $109.8 million domestically and $64.4 million internationally, making it the lowest-earning entry in the entire trilogy since both of its sequels managed to cross the $200 million mark globally."
+        ]
+      },
+      {
+        "h": "The Target Number For I Play Rocky",
+        "p": [
+          "Because I Play Rocky is not structured as a typical mainstream movie, analysts note it will require extraordinary theatrical performance to match the global numbers of its predecessor.",
+          "To officially surpass the worldwide lifetime collection established by the Michael B. Jordan-led Creed, the new biographical feature needs to cross a threshold of $175 million globally."
+        ]
+      },
+      {
+        "h": "Cast, Crew, And Plot Details",
+        "p": [
+          "Peter Farrelly serves as the director of I Play Rocky, leading a cast that features Anthony Ippolito portraying Sylvester Stallone alongside AnnaSophia Robb, Toby Kebbell, P. J. Byrne, Jay Duplass, Matt Dillon, Stephan James, and Tracy Letts.",
+          "The narrative explores the true story of an unknown actor who aspires not only to write the screenplay for Rocky but also to star as the iconic protagonist, Rocky Balboa, refusing to surrender despite immense rejections."
+        ]
+      },
+      {
+        "h": "Release Timeline",
+        "p": [
+          "The biographical drama made its way to wide audiences on November 20.",
+          "Followers of the industry continue to monitor its daily performance as the feature navigates its domestic and international theatrical journey."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "The biographical drama I Play Rocky has received an extended North American release and a staggered overseas rollout while pursuing the global box office benchmark set by the first Creed film. To beat that predecessor's worldwide lifetime haul, the Peter Farrelly-directed feature starring Anthony Ippolito must reach $175 million."
+        ]
+      }
+    ],
+    "facts": [
+      "I Play Rocky received an extended release in North America over the weekend.",
+      "Creed collected $174.2 million at the worldwide box office in its lifetime according to Box Office Mojo.",
+      "Creed earned $109.8 million domestically and $64.4 million internationally.",
+      "I Play Rocky needs to earn $175 million to surpass Creed's global haul.",
+      "Peter Farrelly directed I Play Rocky.",
+      "Anthony Ippolito stars as Sylvester Stallone in I Play Rocky.",
+      "I Play Rocky was released widely on November 20."
+    ],
+    "entities": {
+      "people": [
+        "Sylvester Stallone",
+        "Ryan Coogler",
+        "Michael B. Jordan",
+        "Tessa Thompson",
+        "Phylicia Rashad",
+        "Tony Bellew",
+        "Graham McTavish",
+        "Peter Farrelly",
+        "Anthony Ippolito",
+        "AnnaSophia Robb",
+        "Toby Kebbell",
+        "P. J. Byrne",
+        "Jay Duplass",
+        "Matt Dillon",
+        "Stephan James",
+        "Tracy Letts"
+      ],
+      "titles": [
+        "I Play Rocky",
+        "Creed",
+        "Rocky Balboa",
+        "Rocky"
+      ]
+    },
+    "keywords": [
+      "I Play Rocky",
+      "Sylvester Stallone",
+      "Creed movie box office",
+      "Peter Farrelly film"
+    ],
+    "images": [
+      {
+        "url": "https://www.koimoi.com/wp-content/new-galleries/2026/11/i-play-rocky-box-office-can-sylvester-stallones-biopic-surpass-the-first-creeds-worldwide-collection-001.jpg",
+        "caption": "Can Sylvester Stallone's Biopic I Play Rocky Surpass The First Creed's Worldwide Collection?",
+        "source": "Koimoi"
+      }
+    ],
+    "published": "Sat, 21 Nov 2026 17:54:46 +0000"
+  },
+  "1glireg": {
+    "id": "1glireg",
+    "type": "news",
+    "headline": "Alan Ritchson's Reacher Dominates Prime Video as 2026's Most-Watched Series",
+    "dek": "Led by breakout action star Alan Ritchson, Prime Video's adaptation of Lee Child's novels secures its place at the top of the streaming charts.",
+    "body": [
+      {
+        "h": "A Milestone Year for the Action Genre",
+        "p": [
+          "The year 2026 has proven to be an exceptional period for leading man Alan Ritchson, who has firmly cemented his status among the most prominent action stars in the entertainment industry today. His relentless momentum on both streaming platforms and traditional screens has captured the attention of global audiences, establishing him as a bankable lead for high-profile projects. Through a combination of gritty performances and physical dedication, Ritchson has delivered multiple high-profile releases throughout the calendar year, each contributing to a rapidly expanding fanbase and newfound commercial dominance.",
+          "Industry analysts have closely monitored his ascent, noting that his ability to draw viewers across vastly different genres highlights a rare crossover appeal. Whether handling complex tactical sequences or anchoring dramatic character beats, the actor has consistently demonstrated a commanding screen presence. This widespread visibility has not only elevated his individual star power but has also positioned the various properties he leads as premier events within the digital entertainment landscape."
+        ]
+      },
+      {
+        "h": "The Foundation of Stardom on Prime Video",
+        "p": [
+          "At the core of Ritchson's current success is his defining role in Prime Video's hit series Reacher, an adaptation of the celebrated book series authored by Lee Child. Stepping into the shoes of the formidable wandering veteran, Ritchson won over both dedicated book purists and casual viewers alike with his imposing physical stature and sharp delivery. As the production has progressed over multiple installments, audience engagement has steadily escalated, turning the project into a cornerstone for the platform's scripted programming strategy.",
+          "The creative team's faithfulness to the source material has been widely praised, ensuring that the brutal action and investigative elements resonate effectively on screen. Each successive outing has expanded the scope of the narrative while keeping the core appeal of the wandering protagonist intact. This consistency has cultivated a fiercely loyal audience base that returns faithfully with every new batch of episodes."
+        ]
+      },
+      {
+        "h": "Dominating the 2026 Streaming Charts",
+        "p": [
+          "Following a lengthy build-up and considerable anticipation from subscribers, Prime Video debuted the fourth season of Reacher in August. Even prior to its arrival, confidence within the network was exceptionally high, culminating in an early renewal for a fifth season several months ahead of the fourth season premiere. This preemptive vote of confidence proved entirely justified as viewership numbers shattered internal metrics following the conclusion of the fourth season's run.",
+          "Weeks after the finale rolled out across the platform, sustained viewership propelled the title past all internal and external competition. Prime Video officially confirmed that the series stands as its most-watched television offering of 2026. The milestone underscores the staying power of serialized action content when paired with a recognizable brand and a charismatic lead performer."
+        ]
+      },
+      {
+        "h": "Expanding Horizons Into Cinematic Releases",
+        "p": [
+          "Beyond his television commitments, Ritchson has made significant waves in the feature film space throughout the year. In March, he made his official Netflix debut in War Machine, a high-budget science fiction thriller that quickly became a massive cultural talking point. The movie accumulated more than 135 million views within its initial ninety days on the service, placing it securely among the platform's top ten most-watched films of all time.",
+          "The overwhelming reception of that sci-fi venture prompted Netflix leadership to greenlight a direct sequel titled War Machines, with Ritchson officially attached to reprise his role. Although other cinematic ventures such as Motor City and Runner experienced softer showings upon their initial theatrical rollouts, they subsequently found a second life and enthusiastic audiences upon transitioning to digital streaming libraries."
+        ]
+      },
+      {
+        "h": "Lee Child's Vision Brought to Life",
+        "p": [
+          "The enduring appeal of the television adaptation traces directly back to the rich source material provided by novelist Lee Child. The literary character's distinct blend of stoicism, sharp observational skills, and uncompromising justice translated seamlessly into the television format. By preserving the wandering nature of the protagonist, the creative team has kept the narrative grounded in traditional action tropes while maintaining a modern sensibility.",
+          "Fans of the original books have frequently noted how closely the visual portrayal aligns with the descriptions found in print. This fidelity has bridged the gap between traditional readers and contemporary streaming audiences, creating a unified fandom that eagerly anticipates every narrative twist and physical confrontation featured in the episodes."
+        ]
+      },
+      {
+        "h": "Future Prospects and Expanding Franchises",
+        "p": [
+          "With multiple high-profile projects locked in for the future, Ritchson's trajectory shows no signs of slowing down. The confirmed continuation of his Netflix sci-fi universe alongside the ongoing expansion of his Prime Video franchise guarantees a steady presence on screens for the foreseeable future. Producers and casting directors increasingly view him as a reliable anchor capable of carrying multi-season arcs and big-budget cinematic properties alike.",
+          "This sustained demand reflects a broader shift in how modern action stars are cultivated through streaming data and global accessibility. As platforms continue to prioritize proven intellectual properties backed by charismatic leads, projects tied to his name remain top priorities for studio executives looking to capture widespread attention."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Alan Ritchson has achieved major streaming success in 2026, highlighted by his role in Prime Video's Reacher becoming the platform's most-watched show of the year following its fourth season. Alongside this television milestone, his Netflix sci-fi thriller War Machine pulled in over 135 million views, securing a confirmed sequel titled War Machines."
+        ]
+      }
+    ],
+    "facts": [
+      "Alan Ritchson stars in Reacher on Prime Video.",
+      "Reacher Season 4 premiered in August.",
+      "Reacher was renewed for Season 5 months before the Season 4 premiere.",
+      "Reacher is Prime Video's most-watched show of 2026.",
+      "War Machine was released on Netflix in March.",
+      "War Machine earned over 135 million views during its first 90 days.",
+      "A sequel to War Machine titled War Machines is officially in the works with Ritchson returning.",
+      "Motor City and Runner underwhelmed at the box office but found success on streaming."
+    ],
+    "entities": {
+      "people": [
+        "Alan Ritchson",
+        "Lee Child",
+        "Adam Blevins"
+      ],
+      "titles": [
+        "Reacher",
+        "War Machine",
+        "War Machines",
+        "Motor City",
+        "Runner",
+        "The Gray Man"
+      ]
+    },
+    "keywords": [
+      "Alan Ritchson Reacher",
+      "Reacher Season 4 Prime Video",
+      "War Machine Netflix Alan Ritchson",
+      "War Machines sequel"
+    ],
+    "images": [
+      {
+        "url": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/11/the-teacher.jpg?w=1600&amp;h=900&amp;fit=crop",
+        "caption": "Alan Ritchson's Reacher Dominates Prime Video as 2026's Most-Watched Series",
+        "source": "Collider"
+      }
+    ],
+    "published": "Sat, 21 Nov 2026 17:30:12 GMT"
+  },
+  "bdw24p": {
+    "id": "bdw24p",
+    "type": "news",
+    "headline": "Jumanji: Open World Worldwide Box Office Journey: What It Needs To Top Dwayne Johnson's All-Time Best",
+    "dek": "As Jumanji: Open World gears up for release, the film faces a monumental global target to surpass Dwayne Johnson's highest-grossing career milestone.",
+    "body": [
+      {
+        "h": "The Grand Challenge Ahead",
+        "p": [
+          "The upcoming release of Jumanji: Open World brings a massive box office challenge for its leading man. As the third installment featuring Dwayne Johnson and Jack Black in the popular franchise, expectations are running high across the globe.",
+          "However, to secure the title of Dwayne Johnson's absolute highest-grossing film of all time, this new feature must clear an exceptionally high revenue benchmark set by his previous blockbuster hits."
+        ]
+      },
+      {
+        "h": "Furious 7 As The Reigning Champion",
+        "p": [
+          "Currently, the ultimate record-holder in Dwayne Johnson's filmography is Furious 7. Directed by James Wan, the seventh installment of the action-heavy franchise pulled in a staggering global collection of $1.51 billion during its theatrical run.",
+          "Released in 2015, the movie also holds deep sentimental value as the final film role for the late Paul Walker. Alongside Johnson and Walker, the ensemble featured prominent stars like Vin Diesel, Michelle Rodriguez, and Jason Statham."
+        ]
+      },
+      {
+        "h": "Breaking Down The Record Figures",
+        "p": [
+          "The financial footprint of Furious 7 remains unmatched within Johnson's career. Out of its total global gross, the film accumulated $353.0 million domestically alongside an enormous $1.16 billion from international markets.",
+          "Having maintained its status as his top-performing global release for over a decade, no other project starring the actor, whether live-action or animated, has managed to surpass its milestone."
+        ]
+      },
+      {
+        "h": "Setting The Target For Open World",
+        "p": [
+          "To dethrone Furious 7, Jumanji: Open World needs to earn more than $1.51 billion worldwide throughout its entire theatrical lifetime. Achieving this figure will require unprecedented momentum at the global box office.",
+          "Previous entries in the franchise set strong numbers, with the first Dwayne-led film reaching $962.5 million globally. Yet, that installment fell short of the one-billion-dollar milestone, and the subsequent sequel experienced a downward collection trend."
+        ]
+      },
+      {
+        "h": "Fierce Competition On The Horizon",
+        "p": [
+          "The path to breaking records is further complicated by a crowded release schedule. Jumanji: Open World is slated to hit theaters the exact same month as major blockbusters like Avengers: Doomsday and Dune 3.",
+          "This heavy competition will undoubtedly test the film's stamina and box office pull, making the journey toward the $1.51 billion mark an intensely difficult endeavor."
+        ]
+      },
+      {
+        "h": "Plot And Release Details",
+        "p": [
+          "The storyline follows the familiar characters Spencer, Fridge, Bethany, and Martha diving into another adventure. This time, the game escapes the console, bringing Bravestone, Shelly, Mouse, and Ruby into the real world in demo mode.",
+          "Fans will be able to experience the adventure when Jumanji: Open World officially releases on December 25."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Jumanji: Open World faces a massive global target of over $1.51 billion to surpass Furious 7 as Dwayne Johnson's highest-grossing film ever. With fierce competition from other major releases arriving the same month, the December 25 film has a challenging road ahead."
+        ]
+      }
+    ],
+    "facts": [
+      "Furious 7 collected $1.51 billion at the worldwide box office.",
+      "Furious 7 earned $353.0 million domestically and $1.16 billion internationally.",
+      "Furious 7 was released in 2015 and directed by James Wan.",
+      "Jumanji: Welcome to the Jungle ended its run with $962.5 million worldwide.",
+      "Jumanji: Open World is scheduled for release on December 25."
+    ],
+    "entities": {
+      "people": [
+        "Dwayne Johnson",
+        "Jack Black",
+        "James Wan",
+        "Paul Walker",
+        "Vin Diesel",
+        "Michelle Rodriguez",
+        "Tyrese Gibson",
+        "Ludacris",
+        "Jordana Brewster",
+        "Djimon Hounsou",
+        "Kurt Russell",
+        "Jason Statham"
+      ],
+      "titles": [
+        "Jumanji: Open World",
+        "Furious 7",
+        "Fast Furious 6",
+        "Jumanji: Welcome to the Jungle",
+        "Avengers: Doomsday",
+        "Dune 3"
+      ]
+    },
+    "keywords": [
+      "Jumanji Open World",
+      "Dwayne Johnson highest grossing film",
+      "Furious 7 box office",
+      "Jumanji Open World release date"
+    ],
+    "images": [
+      {
+        "url": "https://www.koimoi.com/wp-content/new-galleries/2026/11/jumanji-open-world-box-office-can-dwayne-johnsons-upcoming-film-beat-his-biggest-global-hit-0001.jpg",
+        "caption": "Jumanji: Open World Worldwide Box Office Journey: What It Needs To Top Dwayne Johnson's All-Time Best",
+        "source": "Koimoi"
+      }
+    ],
+    "published": "Sat, 21 Nov 2026 17:50:15 +0000"
+  },
+  "kxqwtz": {
+    "id": "kxqwtz",
+    "type": "news",
+    "headline": "Stephan James on Channeling Carl Weathers and Transforming for 'I Play Rocky'",
+    "dek": "The actor opens up about stepping into the iconic shoes of Carl Weathers for Peter Farrelly's new biographical drama, undergoing intense physical training, and honoring a cinematic legacy.",
+    "body": [
+      {
+        "h": "Stephan James Takes on the Role of Carl Weathers",
+        "p": [
+          "Stephan James is no stranger to portraying real-life figures, having previously brought historical icons like Jesse Owens and John Lewis to life on screen. For his latest venture, the Canadian actor takes on the formidable challenge of embodying the late Carl Weathers in Peter Farrelly's biographical drama 'I Play Rocky'.",
+          "The project explores the untold true story of how Sylvester Stallone authored and starred in the original classic. Within the narrative, James delivers a standout introduction as Weathers, capturing the charisma and boldness of a former professional football player transitioning into acting."
+        ]
+      },
+      {
+        "h": "Channeling the Swagger and Warmth of Apollo Creed",
+        "p": [
+          "Recreating the memorable audition sequence where Weathers secured his breakthrough role required a careful balance of sharp comedy and commanding presence. James focused on projecting natural charm while leaning into the playful rivalry between Weathers and Stallone.",
+          "Beyond the tough exterior and impressive physical stature, James sought to highlight the underlying kindness that defined Weathers. Conversations with individuals who knew the late star personally informed this softer, more approachable dimension of the performance."
+        ]
+      },
+      {
+        "h": "Rigorous Boxing Training and Physical Transformation",
+        "p": [
+          "Preparing for the demanding physical requirements of the film meant undertaking a dramatic body transformation over a tight two-month window. Starting out at just over 200 pounds, James worked alongside trainer Jennifer Huggins at the Kingsway Boxing Club in Toronto.",
+          "Rather than simply bulking up, the regimen focused on reducing body fat percentage while preserving muscle mass. Through intensive cardio, footwork conditioning, and weight training, James successfully dropped between 20 and 25 pounds to reach a leaner fighting weight of roughly 170 to 175 pounds."
+        ]
+      },
+      {
+        "h": "Building Chemistry With Anthony Ippolito",
+        "p": [
+          "Sharing the screen with Anthony Ippolito, who portrays Sylvester Stallone, involved executing tightly choreographed boxing sequences. Developing mutual trust and an off-screen bond was essential for navigating the physical demands of these dramatic encounters.",
+          "The playful yet intense dynamic between the two actors mirrors the adversarial relationship shared by their respective characters. James noted that the dedication required to honor the art of boxing added depth to their collaborative scenes."
+        ]
+      },
+      {
+        "h": "Connecting With the Multi-Generational Franchise",
+        "p": [
+          "The release of 'I Play Rocky' coincides with the 50th anniversary of the original cinematic masterpiece that started it all. The timing also follows the successful continuation of the franchise through the 'Creed' trilogy led by Michael B. Jordan and Ryan Coogler.",
+          "While joking about whether he should consult his on-screen descendant Jordan regarding the family business, James expressed deep gratitude for becoming part of such an enduring cinematic lineage that continues to resonate with modern audiences."
+        ]
+      },
+      {
+        "h": "A Fast-Tracked Decision and Lasting Legacy",
+        "p": [
+          "When the opportunity to audition for the biographical project first arose through his management, James accepted the script without hesitation. Recognizing the unique weight and historical importance of the character, he felt an immediate conviction that the part belonged to him.",
+          "Reflecting on the profound cultural impact left by Weathers across multiple decades, James shared that he would have loved to ask the late actor if he anticipated the massive multi-generational phenomenon his early contributions would ultimately spark."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Actor Stephan James stars as Carl Weathers in Peter Farrelly's biographical film 'I Play Rocky', which explores the making of the classic boxing franchise. To prepare for the role, James underwent a strict two-month physical transformation involving intense training in Toronto before sharing the screen with co-star Anthony Ippolito."
+        ]
+      }
+    ],
+    "facts": [
+      "Carl Weathers died in 2024 at the age of 76.",
+      "Peter Farrelly directed 'I Play Rocky'.",
+      "Anthony Ippolito portrays Sylvester Stallone in the film.",
+      "Stephan James is a 32-year-old Canadian star.",
+      "Stephan James dropped between 20 and 25 pounds in two months for the role.",
+      "Training took place at Kingsway Boxing Club in Toronto with trainer Jennifer Huggins."
+    ],
+    "entities": {
+      "people": [
+        "Stephan James",
+        "Carl Weathers",
+        "Sylvester Stallone",
+        "Peter Farrelly",
+        "Anthony Ippolito",
+        "Jesse Owens",
+        "John Lewis",
+        "Michael B. Jordan",
+        "Ryan Coogler",
+        "Jennifer Huggins"
+      ],
+      "titles": [
+        "Race",
+        "Selma",
+        "Good Times",
+        "The Six Million Dollar Man",
+        "Kung Fu",
+        "If Beale Street Could Talk",
+        "Homecoming",
+        "The Piano Lesson",
+        "Ricky",
+        "Rocky",
+        "Creed",
+        "I Play Rocky"
+      ]
+    },
+    "keywords": [
+      "Stephan James I Play Rocky",
+      "Carl Weathers I Play Rocky",
+      "Peter Farrelly I Play Rocky",
+      "Anthony Ippolito Sylvester Stallone"
+    ],
+    "images": [
+      {
+        "url": "https://variety.com/wp-content/uploads/2026/11/GettyImages-2294889046.jpg?crop=0px%2C103px%2C5000px%2C2812px&#038;resize=1000%2C563",
+        "caption": "Stephan James on Channeling Carl Weathers and Transforming for 'I Play Rocky'",
+        "source": "Variety"
+      }
+    ],
+    "published": "Sat, 21 Nov 2026 18:30:00 +0000"
   }
 };
