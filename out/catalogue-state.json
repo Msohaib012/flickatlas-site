@@ -3907,6 +3907,7 @@
   "movie:4780": "2026-11-14",
   "movie:47854": "2026-11-13",
   "movie:4787": "2026-11-15",
+  "movie:47886": "2026-11-21",
   "movie:478860": "2026-11-13",
   "movie:479040": "2026-11-13",
   "movie:47909": "2026-11-14",
@@ -7166,7 +7167,7 @@
    "skipped": 0
   },
   "discover:movie:sort_by=vote_count.desc&vote_count.gte=300&vote_count.lte=499": {
-   "added": 0,
+   "added": 1,
    "at": "2026-11-21",
    "limit": 800,
    "skipped": 4
@@ -7210,5 +7211,5 @@
   "tv:333096": "thin-overview",
   "tv:80825": "thin-overview"
  },
- "updated": "2026-11-21T12:32:46.970741+00:00"
+ "updated": "2026-11-21T21:37:35.339646+00:00"
 }

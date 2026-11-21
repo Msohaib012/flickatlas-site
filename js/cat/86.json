@@ -1,6 +1,6 @@
 {
  "bucket": "86",
- "count": 71,
+ "count": 72,
  "titles": {
   "movie:1064486": {
    "backdrop_path": "/jl2YIADk391yc6Qjy9JhgCRkHJk.jpg",
@@ -5057,6 +5057,156 @@
    "type": "movie",
    "vote_average": 6.6,
    "vote_count": 379
+  },
+  "movie:47886": {
+   "backdrop_path": "/2ToE0hZaf16U4cM0D84L4DzQnSx.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Det. Lt. Bracken",
+     "n": "Christopher George"
+    },
+    {
+     "c": "Mary Riggs",
+     "n": "Lynda Day George"
+    },
+    {
+     "c": "Det. Sgt. Holden",
+     "n": "Frank Braña"
+    },
+    {
+     "c": "The Dean",
+     "n": "Edmund Purdom"
+    },
+    {
+     "c": "Kendall James",
+     "n": "Ian Sera"
+    },
+    {
+     "c": "Willard",
+     "n": "Paul L. Smith"
+    },
+    {
+     "c": "Prof. Arthur Brown",
+     "n": "Jack Taylor"
+    },
+    {
+     "c": "Dr. Jennings",
+     "n": "Gérard Tichy"
+    },
+    {
+     "c": "Mrs. Reston",
+     "n": "May Heatherly"
+    },
+    {
+     "c": "Suzie - Locker Room Victim",
+     "n": "Leticia Marfil"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Juan Piquer Simón"
+   ],
+   "genres": [
+    "Horror",
+    "Thriller"
+   ],
+   "id": 47886,
+   "industry": "world",
+   "origin_country": [
+    "ES"
+   ],
+   "original_language": "es",
+   "overview": "A frustrated Boston detective searches for the maniac responsible for mutilating a number of university coeds.",
+   "popularity": 1.7682,
+   "poster_path": "/pYviMR1o0g8VMUZJK5WTvnZBS2g.jpg",
+   "production_countries": [
+    "ES"
+   ],
+   "providers": [
+    {
+     "name": "Bloodstream"
+    },
+    {
+     "name": "Artiflix"
+    },
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "Philo"
+    },
+    {
+     "name": "AMC+ Amazon Channel"
+    },
+    {
+     "name": "Fandor"
+    },
+    {
+     "name": "Shudder"
+    },
+    {
+     "name": "Night Flight Plus"
+    },
+    {
+     "name": "Shudder Amazon Channel"
+    },
+    {
+     "name": "Screambox Amazon Channel"
+    },
+    {
+     "name": "Shudder Apple TV channel"
+    },
+    {
+     "name": "Troma NOW"
+    },
+    {
+     "name": "Cineverse Amazon Channel"
+    },
+    {
+     "name": "Arrow Video Amazon Channel"
+    },
+    {
+     "name": "ARROW"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/grSWrznc2QaymD5bM0MxMmcdrQl.png",
+     "name": "Bloodstream",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/hO4tZhtSJ7VrVnJusimkY3MltSx.png",
+     "name": "Artiflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-21",
+   "release_date": "1982-08-23",
+   "revenue": 1198346,
+   "runtime": 85,
+   "source": "catalogue",
+   "spoken_languages": [
+    "it",
+    "en",
+    "es"
+   ],
+   "status": "Released",
+   "tagline": "You don't have to go to Texas for a chainsaw massacre!",
+   "title": "Pieces",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 5.935,
+   "vote_count": 301
   },
   "movie:48186": {
    "backdrop_path": "/1tmcsKQo0QzAzpvm1Akmkmxstjq.jpg",
