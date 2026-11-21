@@ -209162,5 +209162,379 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Sat, 21 Nov 2026 14:36:13 +0530"
+  },
+  "euefi2": {
+    "id": "euefi2",
+    "type": "news",
+    "headline": "‘HanuMan 2: The Rise of Vanaras’ Announced With Panja Vaisshnav Tej",
+    "dek": "The makers of the 2024 blockbuster have revealed their next fantasy adventure, prompting fan inquiries about original star Teja Sajja and its connection to Jai Hanuman.",
+    "body": [
+      {
+        "h": "The Official Announcement",
+        "p": [
+          "The creative minds behind the massive cinematic success of the 2024 film 'Hanu-Man' have officially declared their next grand venture. Titled 'HanuMan 2: The Rise of Vanaras', the upcoming fantasy adventure promises to expand upon the mystical foundation laid by its predecessor.",
+          "The project was revealed to the public through the production banner's official X account. Along with the title reveal, they shared an engaging announcement poster that offers audiences a glimpse into an expansive and ethereal world."
+        ]
+      },
+      {
+        "h": "Visuals and Creative Vision",
+        "p": [
+          "The newly released promotional artwork showcases a muscular figure with dark curly hair wearing a rust-orange dhoti. This character is depicted floating above an endless layer of clouds while a massive tail wraps around his body.",
+          "In the background of this striking poster, a giant translucent figure of Lord Hanuman emerges, illuminated by warm golden light alongside a faint rainbow. The makers expressed excitement about taking their established legacy forward with an even bigger vision."
+        ]
+      },
+      {
+        "h": "Cast and Crew Details",
+        "p": [
+          "While Teja Sajja led the previous installment, this upcoming sequel will feature Panja Vaisshnav Tej in the primary lead role. The film is set to be directed by Vi Anand, who steps in to helm the ambitious project.",
+          "Additional supporting cast members announced for the film include Vinay Rai, Vennela Kishore, and Samuthirakani. The production team has indicated that further information regarding the storyline and character additions will be shared at a later date."
+        ]
+      },
+      {
+        "h": "Multilingual Release Strategy",
+        "p": [
+          "In an effort to reach a broad nationwide audience, the makers have planned a wide linguistic launch. The fantasy feature is scheduled to hit theaters in multiple regional languages.",
+          "Audience members across different states will be able to experience the adventure in Telugu, Hindi, Tamil, Malayalam, and Kannada, mirroring the widespread appeal of the earlier film."
+        ]
+      },
+      {
+        "h": "Audience Reactions and Queries",
+        "p": [
+          "The announcement of the new lead actor immediately sparked discussions and questions across social media platforms. Netizens and dedicated fans flooded comment sections to ask about the involvement of original star Teja Sajja in this new chapter.",
+          "Furthermore, followers began questioning how this specific project links to 'Jai Hanuman', another previously announced film associated with actor Rishab Shetty. As of now, the production team has not provided official clarification regarding these fan inquiries."
+        ]
+      },
+      {
+        "h": "Legacy of the 2024 Predecessor",
+        "p": [
+          "The excitement surrounding the sequel stems largely from the massive cultural and commercial impact of the original 2024 film. Directed by Prasanth Varma, 'Hanu-Man' captured the imagination of viewers with its blend of mythology and superhero action.",
+          "According to tracking data from Sacnilk, the first film achieved remarkable box office success by pulling in a gross worldwide collection exceeding Rs 295 crore, setting a high standard for the franchise's future."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "The makers of the 2024 hit 'Hanu-Man' have announced a sequel titled 'HanuMan 2: The Rise of Vanaras', starring Panja Vaisshnav Tej and directed by Vi Anand. The announcement has sparked fan questions regarding Teja Sajja's absence and its relation to Rishab Shetty's 'Jai Hanuman'."
+        ]
+      }
+    ],
+    "facts": [
+      "HanuMan 2: The Rise of Vanaras was announced on November 21, 2026.",
+      "Panja Vaisshnav Tej stars in the lead role of the sequel.",
+      "Vi Anand is the director of HanuMan 2: The Rise of Vanaras.",
+      "The original 2024 film Hanu-Man was directed by Prasanth Varma and starred Teja Sajja.",
+      "The 2024 film grossed over Rs 295 crore worldwide according to Sacnilk.",
+      "Jai Hanuman is a previously announced film featuring Rishab Shetty."
+    ],
+    "entities": {
+      "people": [
+        "Panja Vaisshnav Tej",
+        "Vi Anand",
+        "Teja Sajja",
+        "Rishab Shetty",
+        "Vinay Rai",
+        "Vennela Kishore",
+        "Samuthirakani",
+        "Prasanth Varma"
+      ],
+      "titles": [
+        "HanuMan 2: The Rise of Vanaras",
+        "Hanu-Man",
+        "Jai Hanuman"
+      ]
+    },
+    "keywords": [
+      "HanuMan 2 The Rise of Vanaras",
+      "Panja Vaisshnav Tej HanuMan 2",
+      "Teja Sajja HanuMan",
+      "Jai Hanuman Rishab Shetty"
+    ],
+    "images": [
+      {
+        "url": "https://static.toiimg.com/thumb/msid-136048862,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "caption": "‘HanuMan 2: The Rise of Vanaras’ Announced With Panja Vaisshnav Tej",
+        "source": "Times of India — Entertainment"
+      }
+    ],
+    "published": "2026-11-21T13:44:26+05:30"
+  },
+  "11xa2nz": {
+    "id": "11xa2nz",
+    "type": "news",
+    "headline": "Conan O’Brien Campaigns for a Role in Hallmark's 2027 Christmas Movie",
+    "dek": "The renowned comedian has set his sights on a festive acting gig after his assistant's hometown secured the winning spot for a future holiday production.",
+    "body": [
+      {
+        "h": "The Comedian's Holiday Ambitions",
+        "p": [
+          "Conan O’Brien has expressed a strong desire to land a role in an upcoming holiday feature produced by the popular network. The 63-year-old entertainer revealed his festive aspirations during a recent installment of his podcast.",
+          "Rather than sticking strictly to his usual talk-show and podcast format, the host made it clear he is eager to step into the world of seasonal romance films, even if it means taking on a minor role."
+        ]
+      },
+      {
+        "h": "The Carlinville Connection",
+        "p": [
+          "The inspiration for the comedic pitch came from David Hopping, the host's assistant, whose hometown of Carlinville, Illinois recently won the Official Hallmark Christmas Town contest.",
+          "Because of this victory, the network is scheduled to film a new holiday feature in the area, which is slated to premiere during the holiday season in the year 2027."
+        ]
+      },
+      {
+        "h": "Pitching the Ideal Characters",
+        "p": [
+          "Upon hearing the news about the upcoming local shoot, O'Brien immediately suggested that both he and his assistant secure background parts in the production. The playful pitch quickly evolved into more elaborate character concepts.",
+          "O'Brien joked about portraying a Chestnut roaster while his assistant played a simple-minded helper, before escalating the comedic idea to higher positions of authority within the fictional storyline."
+        ]
+      },
+      {
+        "h": "Mayor Biff Biffley Takes Center Stage",
+        "p": [
+          "Rejecting the idea of simply portraying himself on screen, the podcast host insisted on flexing his dramatic chops by playing a fictional politician.",
+          "He specifically stated a desire to step into the role of Mayor Biff Biffley, assigning his assistant the job of writing speeches for the fictitious town leader."
+        ]
+      },
+      {
+        "h": "The Network Responds to the Pitch",
+        "p": [
+          "After the team shared the podcast clip on the official Team Coco Instagram page and tagged the network, the broadcaster humorously replied to the public audition tape.",
+          "The channel officially designated the comedic pitch as an actual audition, complete with celebratory digital emojis to signal their amusement."
+        ]
+      },
+      {
+        "h": "Support from Familiar Faces",
+        "p": [
+          "The online exchange quickly drew the attention of several well-known actors who regularly star in the network's seasonal romance projects.",
+          "Performers such as Benjamin Ayres, Kimberley Sustad, and Rachel Boston chimed in with enthusiastic comments expressing excitement at the prospect of the comedian joining the cast."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Conan O'Brien humorously campaigned for a role in a future Hallmark Christmas movie after his assistant's hometown won a special holiday town contest. The network responded by treating the pitch as an official audition, drawing enthusiastic reactions from several prominent holiday film stars."
+        ]
+      }
+    ],
+    "facts": [
+      "Conan O'Brien is 63 years old.",
+      "The podcast is titled Conan O'Brien Needs a Friend.",
+      "David Hopping is Conan O'Brien's assistant.",
+      "David Hopping's hometown is Carlinville, Illinois.",
+      "Carlinville won the Official Hallmark Christmas Town contest.",
+      "The Hallmark Christmas movie will be filmed to air during the 2027 season.",
+      "Benjamin Ayres, Kimberley Sustad, and Rachel Boston commented on the post."
+    ],
+    "entities": {
+      "people": [
+        "Conan O'Brien",
+        "David Hopping",
+        "Benjamin Ayres",
+        "Kimberley Sustad",
+        "Rachel Boston"
+      ],
+      "titles": [
+        "Conan O'Brien Needs a Friend"
+      ]
+    },
+    "keywords": [
+      "Conan O'Brien",
+      "Hallmark Christmas movie",
+      "David Hopping",
+      "Carlinville Illinois"
+    ],
+    "images": [
+      {
+        "url": "https://www.justjared.com/wp-content/uploads/2026/11/conan-obrien-hallmark-christmas-movie.jpg",
+        "caption": "Conan O’Brien Campaigns for a Role in Hallmark's 2027 Christmas Movie",
+        "source": "Just Jared"
+      }
+    ],
+    "published": "Sat, 21 Nov 2026 08:00:24 +0000"
+  },
+  "qkykd6": {
+    "id": "qkykd6",
+    "type": "news",
+    "headline": "Godzilla Minus Zero Approaches Street Fighter Domestic Box Office Total in North America",
+    "dek": "Godzilla Minus Zero continues its strong theatrical run in North America, inching closer to overtaking the domestic earnings of Street Fighter despite facing sharp daily percentage drops.",
+    "body": [
+      {
+        "h": "North American Box Office Performance",
+        "p": [
+          "Godzilla Minus Zero has experienced a noticeable slowdown in its daily earnings across North America, yet it continues to hold ground better than many competing major Hollywood productions. The film brought in $383k on its second Thursday in the region, marking a 73.3% decline compared to the previous Thursday.",
+          "Despite the steep percentage drop, the R-rated sequel has managed to accumulate a solid domestic total of $51.9 million over its first 14 days in release. This performance underscores the enduring appeal of the monster feature even as it moves deeper into its theatrical run."
+        ]
+      },
+      {
+        "h": "Chasing the Street Fighter Milestone",
+        "p": [
+          "The Japanese live-action sequel is now locked in a race to surpass the North American earnings of Street Fighter. The video game adaptation, based on the Capcom property and featuring an ensemble cast, currently sits at $59.3 million domestically according to Box Office Mojo data.",
+          "With Godzilla Minus Zero sitting approximately $8 million away from this domestic milestone, it is well-positioned to eclipse the Hollywood martial arts film in North America soon, marking another notable triumph for foreign-language cinema against major western releases."
+        ]
+      },
+      {
+        "h": "Global Standings and Comparisons",
+        "p": [
+          "While domestic figures show a narrowing gap between the two titles, Godzilla Minus Zero has already outpaced Street Fighter on a global scale. The R-rated sequel has achieved a worldwide gross of $107 million, breaking down into $51.9 million domestically and $55.1 million internationally.",
+          "Street Fighter recently crossed the $100 million milestone globally, but the monster feature's international strength gives it a decisive advantage in total worldwide earnings between the two competing theatrical runs."
+        ]
+      },
+      {
+        "h": "Foreign-Language Success in North America",
+        "p": [
+          "The box office trajectory of Godzilla Minus Zero cements its status as a standout foreign-language release in the North American market. It currently ranks among the top 10 highest-grossing foreign-language films in the region.",
+          "Industry observers note that the film's strong reception demonstrates how compelling storytelling and quality execution can resonate deeply with global audiences, transcending language barriers to outperform several traditional Hollywood blockbusters."
+        ]
+      },
+      {
+        "h": "Plot Background and Release Context",
+        "p": [
+          "The narrative of Godzilla Minus Zero picks up two years after the devastating aftermath of war and an initial attack by the iconic monster, placing a struggling Japan in a state of profound despair as the nation attempts to rebuild.",
+          "Just as society begins to inch back toward a hard-earned peace, a brand-new threat emerges to shatter the fragile recovery. The film officially debuted in theaters on November 6, kicking off its ongoing theatrical journey."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Godzilla Minus Zero is nearing the North American box office total of Street Fighter, maintaining a strong domestic tally of $51.9 million after 14 days in theaters. The R-rated sequel has already surpassed its competitor globally with $107 million worldwide, cementing its place among top foreign-language releases in North America."
+        ]
+      }
+    ],
+    "facts": [
+      "Godzilla Minus Zero collected $383k on its second Thursday in North America.",
+      "The film experienced a 73.3% decline from the previous Thursday.",
+      "The 14-day domestic box-office total for Godzilla Minus Zero is $51.9 million.",
+      "Street Fighter collected $59.3 million to date at the North American box office.",
+      "Godzilla Minus Zero is around $8 million away from surpassing Street Fighter in North America.",
+      "Street Fighter recently crossed the $100 million milestone worldwide.",
+      "Godzilla Minus Zero was released on November 6.",
+      "Godzilla Minus Zero domestic total is $51.9 million, international is $55.1 million, and worldwide is $107 million."
+    ],
+    "entities": {
+      "people": [],
+      "titles": [
+        "Godzilla Minus Zero",
+        "Street Fighter"
+      ]
+    },
+    "keywords": [
+      "Godzilla Minus Zero",
+      "Street Fighter box office",
+      "Godzilla Minus Zero North America",
+      "Godzilla Minus Zero box office"
+    ],
+    "images": [
+      {
+        "url": "https://www.koimoi.com/wp-content/new-galleries/2026/11/godzilla-minus-zero-north-america-box-office-set-to-outgross-street-fighter-01.jpg",
+        "caption": "Godzilla Minus Zero Approaches Street Fighter Domestic Box Office Total in North America",
+        "source": "Koimoi"
+      }
+    ],
+    "published": "Sat, 21 Nov 2026 08:15:17 +0000"
+  },
+  "2zmf7m": {
+    "id": "2zmf7m",
+    "type": "news",
+    "headline": "Akshay Kumar and Ravi Kishan Bring High Energy and Laughs in Koffee with Karan Season 9 Promo",
+    "dek": "An unusual pairing on the Koffee couch features Bollywood star Akshay Kumar and actor-politician Ravi Kishan trading witty remarks, discussing past cinematic collaborations, and attempting a viral dance step in the latest Season 9 teaser.",
+    "body": [
+      {
+        "h": "An Unexpected Pairing on the Koffee Couch",
+        "p": [
+          "The popular celebrity talk show Koffee with Karan is returning with another entertaining instalment in Season 9, featuring an unexpected combination of guests. Bollywood stalwart Akshay Kumar and actor-politician Ravi Kishan are set to share the iconic couch for the very first time. According to the show's host, Karan Johar, this unique pairing was actually proposed by Akshay himself.",
+          "Although they come from slightly different professional spheres, the two actors share a longstanding bond and have previously worked together in films. Their established comfort level is immediately apparent in the promotional teaser, where they trade lighthearted barbs and share fond memories from their respective journeys in the entertainment industry."
+        ]
+      },
+      {
+        "h": "Learning the Viral Hook Step",
+        "p": [
+          "One of the standout moments from the newly released promotional video features Ravi Kishan teaching Akshay Kumar his now-viral hook step. The duo playfully transforms the studio set into an impromptu dance floor as Akshay makes an enthusiastic effort to master the signature moves.",
+          "Beyond the dancing, Ravi embraces his self-proclaimed moniker of 'Bihar ka Brad Pitt' while reflecting on his arduous climb to success in the film industry. His candid reflections add a touch of genuine personal history to the lighthearted proceedings of the episode."
+        ]
+      },
+      {
+        "h": "Witty Exchanges and Rapid Fire Highlights",
+        "p": [
+          "True to the traditions of the chat show, the Rapid Fire round delivers its usual share of memorable quips. When faced with a classic dilemma by the host regarding choosing between a year without physical intimacy or a year without working out, Akshay delivers a characteristically cheeky response, asking if sex itself is not the ultimate workout.",
+          "The promo highlights how Akshay's trademark deadpan humour complements Ravi's energetic presence, resulting in a segment that promises substantial entertainment and plenty of laughter for viewers tuning into the upcoming broadcast."
+        ]
+      },
+      {
+        "h": "Akshay Kumar's History on the Show",
+        "p": [
+          "This upcoming appearance marks a notable milestone for Akshay Kumar, representing his fifth time sitting on the Koffee with Karan couch across multiple seasons. He made his debut on the program during Season 4 back in 2014.",
+          "In subsequent years, he returned alongside different co-guests and family members, featuring with his wife Twinkle Khanna in Season 5 in 2016, sharing the stage with actor Ranveer Singh in Season 6 in 2018, and most recently appearing alongside Samantha Ruth Prabhu during Season 7 in 2022. For Ravi Kishan, however, this episode serves as his very first appearance on the talk show."
+        ]
+      },
+      {
+        "h": "Season 9 Lineup and Broadcast Details",
+        "p": [
+          "Koffee with Karan Season 9 commenced its run with superstar Salman Khan appearing as a solo guest alongside a special appearance by Karisma Kapoor. The opening episode was followed by various pairing combinations including Vijay Deverakonda and Rashmika Mandanna, Varun Dhawan, Janhvi Kapoor, and Arjun Kapoor, Saif Ali Khan and Kareena Kapoor Khan, Kiara Advani and Sidharth Malhotra, Ananya Birla and Ananya Panday, and Shanaya Kapoor.",
+          "The new episode featuring Akshay Kumar and Ravi Kishan is scheduled to stream this Wednesday at 7 PM exclusively on The Peacock Hub on JioHotstar. Additional guests anticipated throughout the rest of the season include Alia Bhatt and Shaheen Shaffeen, Farah Khan alongside Tanmay Bhat and Samay Raina, Vedang Raina and Sharvari, and Aneet Padda with Ahaan Panday, with Shah Rukh Khan reportedly slated for the season finale."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Bollywood star Akshay Kumar and actor-politician Ravi Kishan appear together for the first time in an upcoming episode of Koffee with Karan Season 9, which streams this Wednesday at 7 PM on JioHotstar. The promotional teaser showcases Ravi teaching Akshay his viral hook step, alongside witty banter and humorous moments from the Rapid Fire round.",
+          "This marks Akshay's fifth appearance on the chat show since his debut in 2014, while serving as Ravi's inaugural appearance on the programme."
+        ]
+      }
+    ],
+    "facts": [
+      "Akshay Kumar and Ravi Kishan appear together in an upcoming episode of Koffee with Karan Season 9.",
+      "The promotional teaser was released in November 2026.",
+      "Akshay Kumar has previously appeared on Koffee with Karan four times: Season 4 in 2014, Season 5 in 2016 with Twinkle Khanna, Season 6 in 2018 with Ranveer Singh, and Season 7 in 2022 with Samantha Ruth Prabhu.",
+      "This appearance marks Akshay Kumar's fifth time on the show and Ravi Kishan's first.",
+      "The new episode streams on Wednesday at 7 PM on The Peacock Hub on JioHotstar."
+    ],
+    "entities": {
+      "people": [
+        "Akshay Kumar",
+        "Ravi Kishan",
+        "Karan Johar",
+        "Twinkle Khanna",
+        "Ranveer Singh",
+        "Samantha Ruth Prabhu",
+        "Salman Khan",
+        "Karisma Kapoor",
+        "Vijay Deverakonda",
+        "Rashmika Mandanna",
+        "Varun Dhawan",
+        "Janhvi Kapoor",
+        "Arjun Kapoor",
+        "Saif Ali Khan",
+        "Kareena Kapoor Khan",
+        "Kiara Advani",
+        "Sidharth Malhotra",
+        "Ananya Birla",
+        "Ananya Panday",
+        "Shanaya Kapoor",
+        "Alia Bhatt",
+        "Shaheen",
+        "Farah Khan",
+        "Tanmay Bhat",
+        "Samay Raina",
+        "Vedang Raina",
+        "Sharvari",
+        "Aneet Padda",
+        "Ahaan Panday",
+        "Shah Rukh Khan"
+      ],
+      "titles": [
+        "Koffee with Karan"
+      ]
+    },
+    "keywords": [
+      "Akshay Kumar Koffee with Karan",
+      "Ravi Kishan Koffee with Karan",
+      "Koffee with Karan Season 9",
+      "Akshay Kumar Ravi Kishan promo"
+    ],
+    "images": [
+      {
+        "url": "https://www.hindustantimes.com/ht-img/img/2026/11/21/1600x900/logo/Ravi_Kishan_Akshay_Kumar_1795251496917_SSzs_1795251497039_rt0T_c361b175-fd41-4138-ab77-e25d15fb4d1b_0VfV.jpg",
+        "caption": "Akshay Kumar and Ravi Kishan Bring High Energy and Laughs in Koffee with Karan Season 9 Promo",
+        "source": "Hindustan Times — Entertainment"
+      }
+    ],
+    "published": "Sat, 21 Nov 2026 14:36:40 +0530"
   }
 };

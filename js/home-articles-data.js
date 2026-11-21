@@ -36,6 +36,63 @@ window.FA_HOME_ARTICLES = {
     ],
     "published": "Sat, 21 Nov 2026 14:55:56 +0530"
   },
+  "2zmf7m": {
+    "id": "2zmf7m",
+    "type": "news",
+    "headline": "Akshay Kumar and Ravi Kishan Bring High Energy and Laughs in Koffee with Karan Season 9 Promo",
+    "dek": "An unusual pairing on the Koffee couch features Bollywood star Akshay Kumar and actor-politician Ravi Kishan trading witty remarks, discussing past cinematic collaborations, and attempting a viral dance step in the latest Season 9 teaser.",
+    "entities": {
+      "people": [
+        "Akshay Kumar",
+        "Ravi Kishan",
+        "Karan Johar",
+        "Twinkle Khanna",
+        "Ranveer Singh",
+        "Samantha Ruth Prabhu",
+        "Salman Khan",
+        "Karisma Kapoor",
+        "Vijay Deverakonda",
+        "Rashmika Mandanna",
+        "Varun Dhawan",
+        "Janhvi Kapoor",
+        "Arjun Kapoor",
+        "Saif Ali Khan",
+        "Kareena Kapoor Khan",
+        "Kiara Advani",
+        "Sidharth Malhotra",
+        "Ananya Birla",
+        "Ananya Panday",
+        "Shanaya Kapoor",
+        "Alia Bhatt",
+        "Shaheen",
+        "Farah Khan",
+        "Tanmay Bhat",
+        "Samay Raina",
+        "Vedang Raina",
+        "Sharvari",
+        "Aneet Padda",
+        "Ahaan Panday",
+        "Shah Rukh Khan"
+      ],
+      "titles": [
+        "Koffee with Karan"
+      ]
+    },
+    "keywords": [
+      "Akshay Kumar Koffee with Karan",
+      "Ravi Kishan Koffee with Karan",
+      "Koffee with Karan Season 9",
+      "Akshay Kumar Ravi Kishan promo"
+    ],
+    "images": [
+      {
+        "url": "https://www.hindustantimes.com/ht-img/img/2026/11/21/1600x900/logo/Ravi_Kishan_Akshay_Kumar_1795251496917_SSzs_1795251497039_rt0T_c361b175-fd41-4138-ab77-e25d15fb4d1b_0VfV.jpg",
+        "caption": "Akshay Kumar and Ravi Kishan Bring High Energy and Laughs in Koffee with Karan Season 9 Promo",
+        "source": "Hindustan Times — Entertainment"
+      }
+    ],
+    "published": "Sat, 21 Nov 2026 14:36:40 +0530"
+  },
   "tteq0c": {
     "id": "tteq0c",
     "type": "news",
@@ -190,6 +247,102 @@ window.FA_HOME_ARTICLES = {
       }
     ],
     "published": "Sat, 21 Nov 2026 10:30:25 +0200"
+  },
+  "qkykd6": {
+    "id": "qkykd6",
+    "type": "news",
+    "headline": "Godzilla Minus Zero Approaches Street Fighter Domestic Box Office Total in North America",
+    "dek": "Godzilla Minus Zero continues its strong theatrical run in North America, inching closer to overtaking the domestic earnings of Street Fighter despite facing sharp daily percentage drops.",
+    "entities": {
+      "people": [],
+      "titles": [
+        "Godzilla Minus Zero",
+        "Street Fighter"
+      ]
+    },
+    "keywords": [
+      "Godzilla Minus Zero",
+      "Street Fighter box office",
+      "Godzilla Minus Zero North America",
+      "Godzilla Minus Zero box office"
+    ],
+    "images": [
+      {
+        "url": "https://www.koimoi.com/wp-content/new-galleries/2026/11/godzilla-minus-zero-north-america-box-office-set-to-outgross-street-fighter-01.jpg",
+        "caption": "Godzilla Minus Zero Approaches Street Fighter Domestic Box Office Total in North America",
+        "source": "Koimoi"
+      }
+    ],
+    "published": "Sat, 21 Nov 2026 08:15:17 +0000"
+  },
+  "euefi2": {
+    "id": "euefi2",
+    "type": "news",
+    "headline": "‘HanuMan 2: The Rise of Vanaras’ Announced With Panja Vaisshnav Tej",
+    "dek": "The makers of the 2024 blockbuster have revealed their next fantasy adventure, prompting fan inquiries about original star Teja Sajja and its connection to Jai Hanuman.",
+    "entities": {
+      "people": [
+        "Panja Vaisshnav Tej",
+        "Vi Anand",
+        "Teja Sajja",
+        "Rishab Shetty",
+        "Vinay Rai",
+        "Vennela Kishore",
+        "Samuthirakani",
+        "Prasanth Varma"
+      ],
+      "titles": [
+        "HanuMan 2: The Rise of Vanaras",
+        "Hanu-Man",
+        "Jai Hanuman"
+      ]
+    },
+    "keywords": [
+      "HanuMan 2 The Rise of Vanaras",
+      "Panja Vaisshnav Tej HanuMan 2",
+      "Teja Sajja HanuMan",
+      "Jai Hanuman Rishab Shetty"
+    ],
+    "images": [
+      {
+        "url": "https://static.toiimg.com/thumb/msid-136048862,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "caption": "‘HanuMan 2: The Rise of Vanaras’ Announced With Panja Vaisshnav Tej",
+        "source": "Times of India — Entertainment"
+      }
+    ],
+    "published": "2026-11-21T13:44:26+05:30"
+  },
+  "11xa2nz": {
+    "id": "11xa2nz",
+    "type": "news",
+    "headline": "Conan O’Brien Campaigns for a Role in Hallmark's 2027 Christmas Movie",
+    "dek": "The renowned comedian has set his sights on a festive acting gig after his assistant's hometown secured the winning spot for a future holiday production.",
+    "entities": {
+      "people": [
+        "Conan O'Brien",
+        "David Hopping",
+        "Benjamin Ayres",
+        "Kimberley Sustad",
+        "Rachel Boston"
+      ],
+      "titles": [
+        "Conan O'Brien Needs a Friend"
+      ]
+    },
+    "keywords": [
+      "Conan O'Brien",
+      "Hallmark Christmas movie",
+      "David Hopping",
+      "Carlinville Illinois"
+    ],
+    "images": [
+      {
+        "url": "https://www.justjared.com/wp-content/uploads/2026/11/conan-obrien-hallmark-christmas-movie.jpg",
+        "caption": "Conan O’Brien Campaigns for a Role in Hallmark's 2027 Christmas Movie",
+        "source": "Just Jared"
+      }
+    ],
+    "published": "Sat, 21 Nov 2026 08:00:24 +0000"
   },
   "rau0ie": {
     "id": "rau0ie",
@@ -4339,155 +4492,6 @@ window.FA_HOME_ARTICLES = {
       }
     ],
     "published": "Fri, 20 Nov 2026 11:30:36 +0530"
-  },
-  "15403ov": {
-    "id": "15403ov",
-    "type": "news",
-    "headline": "Ebenezer Review: Johnny Depp Stars In Ti West's Gothic Take On A Christmas Carol",
-    "dek": "Ti West directs Johnny Depp as Ebenezer Scrooge in a dark, horror-infused adaptation of Charles Dickens' classic 1843 novella.",
-    "entities": {
-      "people": [
-        "Johnny Depp",
-        "Ti West",
-        "Charles Dickens",
-        "Ian McKellen",
-        "Rupert Grint",
-        "Sam Claflin",
-        "Daisy Ridley",
-        "Tramell Tillman",
-        "Andrea Riseborough",
-        "Bhavna Agarwal"
-      ],
-      "titles": [
-        "Ebenezer",
-        "A Christmas Carol"
-      ]
-    },
-    "keywords": [
-      "Ebenezer film",
-      "Johnny Depp Ebenezer Scrooge",
-      "Ti West A Christmas Carol adaptation",
-      "Ebenezer review"
-    ],
-    "images": [
-      {
-        "url": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202611/johnny-depp-in-ebenezer-from-paramount-pictures-204451850-16x9_0.jpg?VersionId=t0W_6fpxC1BX_Inhst.z5Ldu96Id6QaJ",
-        "caption": "Ebenezer Review: Johnny Depp Stars In Ti West's Gothic Take On A Christmas Carol",
-        "source": "India Today — Movies"
-      }
-    ],
-    "published": "Fri, 20 Nov 2026 11:27:44 +0530"
-  },
-  "11gwvrh": {
-    "id": "11gwvrh",
-    "type": "news",
-    "headline": "Shiv Sena Leader Neelam Gorhe Assures Action Following Threat to Saif Ali Khan",
-    "dek": "Shiv Sena MLC Neelam Gorhe has addressed the recent security concerns surrounding Bollywood star Saif Ali Khan, asserting that state authorities will take swift action.",
-    "entities": {
-      "people": [
-        "Neelam Gorhe",
-        "Saif Ali Khan",
-        "Balasaheb Thackeray",
-        "Eknath Shinde",
-        "Amitabh Bachchan",
-        "Tiger Shroff",
-        "Baba Siddiqui"
-      ],
-      "titles": []
-    },
-    "keywords": [
-      "Neelam Gorhe Saif Ali Khan threat",
-      "Saif Ali Khan death threat",
-      "Tiger Shroff attack Kota arrest",
-      "Amitabh Bachchan bomb threat email"
-    ],
-    "images": [
-      {
-        "url": "https://cdn-english.zeenews.com/sites/default/files/2026/11/19/7023-n-jn.jpg",
-        "caption": "Shiv Sena Leader Neelam Gorhe Assures Action Following Threat to Saif Ali Khan",
-        "source": "Zee News — Entertainment"
-      }
-    ],
-    "published": "2026-11-20T05:51:25Z"
-  },
-  "fsmggk": {
-    "id": "fsmggk",
-    "type": "news",
-    "headline": "Alia Bhatt Backs Deepika Padukone's Demand For Eight-Hour Workdays In Bollywood",
-    "dek": "Alia Bhatt has added her voice to the ongoing industry conversation regarding fair work hours, supporting Deepika Padukone's stance on shift limits and highlighting basic on-set needs.",
-    "entities": {
-      "people": [
-        "Alia Bhatt",
-        "Deepika Padukone",
-        "Sandeep Reddy Vanga",
-        "Kajol",
-        "Kareena Kapoor Khan",
-        "Sharvari",
-        "Sanjay Leela Bhansali",
-        "Ranbir Kapoor",
-        "Vicky Kaushal"
-      ],
-      "titles": [
-        "Spirit",
-        "Alpha",
-        "Love War"
-      ]
-    },
-    "keywords": [
-      "Alia Bhatt",
-      "Deepika Padukone 8-hour shift demand",
-      "Love War Sanjay Leela Bhansali",
-      "Alpha movie Sharvari"
-    ],
-    "images": [
-      {
-        "url": "https://mm-wp-prod-uploads.s3.ap-south-1.amazonaws.com/wp-content/uploads/2026/11/19165222/Miss-Malini-Wordpress-Images-2026-11-19T165152.147.jpg",
-        "caption": "Alia Bhatt Backs Deepika Padukone's Demand For Eight-Hour Workdays In Bollywood",
-        "source": "MissMalini"
-      }
-    ],
-    "published": "2026-11-20T05:51:25Z"
-  },
-  "71zf1d": {
-    "id": "71zf1d",
-    "type": "news",
-    "headline": "Teen Tigada Review: A Campus Romance Constrained by Shallow Depth",
-    "dek": "Reviewing the Zee5 series Teen Tigada, directed by Rajeev Raj and starring Prasanna Bisht and Danesh Razvi.",
-    "entities": {
-      "people": [
-        "Devesh Sharma",
-        "Prasanna Bisht",
-        "Danesh Razvi",
-        "Tanya Bhardwaj",
-        "Isha Narayan Singh",
-        "Divyanshu Bisht",
-        "Archika Arora",
-        "Grusha Kapoor",
-        "Sagar Deshmukh",
-        "Aditi Sarangdhar",
-        "Rajeev Raj",
-        "Aditya Pratap Singh",
-        "Smarth Mehta"
-      ],
-      "titles": [
-        "Teen Tigada"
-      ]
-    },
-    "keywords": [
-      "Teen Tigada",
-      "Prasanna Bisht",
-      "Danesh Razvi",
-      "Rajeev Raj",
-      "Teen Tigada series review"
-    ],
-    "images": [
-      {
-        "url": "https://filmfare.wwmindia.com/content/2026/nov/teen-tigada1795108011.jpg",
-        "caption": "Teen Tigada Review: A Campus Romance Constrained by Shallow Depth",
-        "source": "Filmfare"
-      }
-    ],
-    "published": "2026-11-20T10:56:16+05:30"
   },
   "uspsxv": {
     "id": "uspsxv",

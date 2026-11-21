@@ -4,45 +4,6 @@
    {
     "step": "fetch",
     "category": "Trending News",
-    "run_at": "2026-11-20T10:22:37Z",
-    "run_id": "44718512262",
-    "status": "success",
-    "checked": {
-     "candidates": 318,
-     "detail": "RSS/Atom items across 137 sources; 3 source(s) errored"
-    },
-    "changed": {
-     "added": [
-      "EXCLUSIVE: Sanjay Kapoor, Prashant Narayanan and Esther Anil to star in crime thriller UNEXPECTED – SAFED SACH, first-look poster unveiled",
-      "OM Box Office Collection Day 1 (Mrng Trend): Dhanush's Film Mints Twice Of Ramayana's Opening Day Number",
-      "Bigg Boss 20: Love Gill Takes On Qazi Despite Period Pain, Task Ends In Tie- What Happened?",
-      "2026 MAMA Awards Day 1 Full Winners List: ENHYPEN Bags The FIRST Award; WHO Is Winning What?",
-      "Ramayana Box Office Collection Day 15: Surpasses Dhurandhar To Become 4th Highest-Grossing Film In India",
-      "Drummer Boy North America Box Office: Inches Away From Beating Tom Cruise’s Digger!",
-      "Baththa North America Box Office (Closing Collection): Vijay Sethupathi’s Film Is A Hit – 8th Highest Tamil Grosser Of 2026 In The Territory!",
-      "OM Box Office Day 1 Occupancy & BMS Sales Report: Opens 122% Higher Than Dhanush’s Last Outing, Sold 200 Tickets Every Single Minute In Last 6 Hours!",
-      "Box Office: Ramayana Becomes The Only Bollywood Film To Hit These Two Huge Milestones With Its Dubbed Versions!",
-      "Love & War: Sanjay Leela Bhansali Plans to Release First Song Before Trailer, Repeating His Bajirao Mastani Strategy",
-      "'Ramayana' box office collection day 16 (LIVE)",
-      "Samantha, Raj blessed with a baby boy, announce his name : PIC",
-      "Alka Yagnik to make RARE appearance amid health issue, joins Subhash Ghai for Dec 11 concert",
-      "Samantha, Raj Nidimoru's baby boy Dev Nidimoru's name meaning revealed",
-      "Celebrities congratulate Samantha and Raj on baby boy’s birth",
-      "'Sathyavan Savithri' Twitter review: Keerthy Suresh, Mysskin impress fans",
-      "Movie Review: O.M: Operation Mole - 3/5",
-      "Ananya says Gen Z still seeks true love",
-      "Sathyavan Savithiri review: Keerthy-Mysskin's courtroom drama fails test of justice",
-      "7 Actresses Who Should Be the New Bond Girl"
-     ],
-     "updated": [],
-     "count": 295,
-     "detail": "304 stories, 2 duplicates removed, 14 dropped"
-    },
-    "reason": null
-   },
-   {
-    "step": "fetch",
-    "category": "Trending News",
     "run_at": "2026-11-20T11:51:52Z",
     "run_id": "44730855922",
     "status": "success",
@@ -936,32 +897,48 @@
      "detail": "307 stories, 3 duplicates removed, 16 dropped"
     },
     "reason": null
-   }
-  ],
-  "apply_auto": [
+   },
    {
-    "step": "apply_auto",
+    "step": "fetch",
     "category": "Trending News",
-    "run_at": "2026-11-20T11:52:27Z",
-    "run_id": "44730855922",
+    "run_at": "2026-11-21T10:51:03Z",
+    "run_id": "44896234559",
     "status": "success",
     "checked": {
-     "candidates": 14,
-     "detail": "draft articles + box-office rows from out/gemini-batch.json"
+     "candidates": 305,
+     "detail": "RSS/Atom items across 137 sources; 0 source(s) errored"
     },
     "changed": {
      "added": [
-      "Charlie Puth Set for First Ever India Performance Alongside Ellie Goulding in Mumbai",
-      "Quentin Tarantino's Debut Play 'The Popinjay Cavalier' Expands West End Schedule and Reveals Complete Cast",
-      "Bigg Boss 20 Episode 76 Release Time, JioHotstar Streaming Details, and Love Gill vs Yung DSA Clash",
-      "Yellowjackets Season 4 Final Chapter Begins on Paramount+"
+      "Sunny Deol adds limited-edition Land Rover Defender OCTA Edition One to his luxury car collection",
+      "The Blue Road Ending Explained: Who Was Behind The Killings & What Happened To Kim Seok?",
+      "Bachelor Party Deux Box Office: Suffers 77% Drop On Day 2 Amid Negative Word Of Mouth",
+      "ENE Repeat Worldwide Box Office: Less Than 4 Crore Away From Becoming Vishwak Sen’s Highest Grosser",
+      "Pyaade Teaser Out: Jimmy Shergill & Adhyayan Suman Face Off In An Intense Interrogation Sequence",
+      "Godzilla Minus Zero North America Box Office: Inches Closer To Surpassing Street Fighter’s Domestic Total!",
+      "Avengers: Doomsday: Joe Russo Reveals How Stephen McFeely’s ‘What If’ Idea Shaped The Story",
+      "Rashmika Mandanna says she was ‘scared’ to recreate Vijayashanthi’s iconic ‘Osey Ramulamma’",
+      "‘HanuMan 2: The Rise of Vanaras’ announced, Panja Vaisshnav Tej to lead",
+      "'O.M' BO Day 2 [Live]: Dhanush-Mammootty starrer maintains steady momentum",
+      "Allu Arjun calls daughter Allu Arha the ‘Joy’ of his life on her 10th birthday",
+      "Jiiva's 'Jolliya Irrundha Oruthan' gets U/A certificate",
+      "Dadasaheb Phalke International Film Festival Awards 2026: 'Dhurandhar' dominates with six wins",
+      "Akshay Kumar makes a cheeky joke as Ravi Kishan brings his viral hook step to Koffee with Karan 9 promo",
+      "After Koffee with Karan fiasco, Rashmika Mandanna shares what she loves the most about Vijay Deverakonda: ‘He does not have to say it, I see it’",
+      "Rashmika Mandanna got ‘really scared’ about Vijayashanthi's iconic Osey Ramulamma song being recreated for Mysaa 29 years later",
+      "Anirudh-Kavya host Chennai reception today; Mahesh Babu, VIP guests arrive for event",
+      "Former FTII chief Gajendra Chauhan on Mahabharat, praises Salman's cancer ward visit",
+      "Kareena Kapoor, Prithviraj Sukumaran’s Daayra Outperforms Big-Star Sequels On Netflix Debut Week",
+      "Pyaade Teaser Out! Jimmy Shergill’s Intense Interrogation with Adhyayan Suman Takes Centre Stage- Watch"
      ],
      "updated": [],
-     "count": 7,
-     "detail": "+4 articles, +0 box-office rows, 3 rows updated"
+     "count": 296,
+     "detail": "305 stories, 0 duplicates removed, 0 dropped"
     },
     "reason": null
-   },
+   }
+  ],
+  "apply_auto": [
    {
     "step": "apply_auto",
     "category": "Trending News",
@@ -1484,27 +1461,32 @@
      "detail": "+4 articles, +1 box-office rows, 3 rows updated"
     },
     "reason": null
+   },
+   {
+    "step": "apply_auto",
+    "category": "Trending News",
+    "run_at": "2026-11-21T10:51:35Z",
+    "run_id": "44896234559",
+    "status": "success",
+    "checked": {
+     "candidates": 14,
+     "detail": "draft articles + box-office rows from out/gemini-batch.json"
+    },
+    "changed": {
+     "added": [
+      "‘HanuMan 2: The Rise of Vanaras’ Announced With Panja Vaisshnav Tej",
+      "Conan O’Brien Campaigns for a Role in Hallmark's 2027 Christmas Movie",
+      "Godzilla Minus Zero Approaches Street Fighter Domestic Box Office Total in North America",
+      "Akshay Kumar and Ravi Kishan Bring High Energy and Laughs in Koffee with Karan Season 9 Promo"
+     ],
+     "updated": [],
+     "count": 7,
+     "detail": "+4 articles, +0 box-office rows, 3 rows updated"
+    },
+    "reason": null
    }
   ],
   "ott": [
-   {
-    "step": "ott",
-    "category": "OTT",
-    "run_at": "2026-11-20T11:52:27Z",
-    "run_id": "44730855922",
-    "status": "success",
-    "checked": {
-     "candidates": 397,
-     "detail": "OTT now/coming titles from the published catalogue"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 0,
-     "detail": "now 390, coming 7"
-    },
-    "reason": "no-new-data"
-   },
    {
     "step": "ott",
     "category": "OTT",
@@ -1918,26 +1900,27 @@
      "detail": "now 396, coming 7"
     },
     "reason": "no-new-data"
-   }
-  ],
-  "trending_weekly": [
+   },
    {
-    "step": "trending_weekly",
-    "category": "Trending Topics",
-    "run_at": "2026-11-20T10:28:05Z",
-    "run_id": "44718512262",
+    "step": "ott",
+    "category": "OTT",
+    "run_at": "2026-11-21T10:51:35Z",
+    "run_id": "44896234559",
     "status": "success",
     "checked": {
-     "candidates": 100,
-     "detail": "cached Google RSS trend/article intersection"
+     "candidates": 403,
+     "detail": "OTT now/coming titles from the published catalogue"
     },
     "changed": {
      "added": [],
      "updated": [],
-     "count": 0
+     "count": 0,
+     "detail": "now 396, coming 7"
     },
     "reason": "no-new-data"
-   },
+   }
+  ],
+  "trending_weekly": [
    {
     "step": "trending_weekly",
     "category": "Trending Topics",
@@ -2412,27 +2395,26 @@
      "count": 7
     },
     "reason": null
-   }
-  ],
-  "multisource_boxoffice": [
+   },
    {
-    "step": "multisource_boxoffice",
-    "category": "Box Office",
-    "run_at": "2026-11-20T10:28:04Z",
-    "run_id": "44718512262",
+    "step": "trending_weekly",
+    "category": "Trending Topics",
+    "run_at": "2026-11-21T10:51:38Z",
+    "run_id": "44896234559",
     "status": "success",
     "checked": {
-     "candidates": 725,
-     "detail": "673 collected staging rows from readers; 248 averaged across 2+ sources"
+     "candidates": 100,
+     "detail": "cached Google RSS trend/article intersection"
     },
     "changed": {
      "added": [],
      "updated": [],
-     "count": 3,
-     "detail": "+0 new rows, 3 updated rows, 698 unchanged"
+     "count": 0
     },
-    "reason": null
-   },
+    "reason": "no-new-data"
+   }
+  ],
+  "multisource_boxoffice": [
    {
     "step": "multisource_boxoffice",
     "category": "Box Office",
@@ -2846,19 +2828,27 @@
      "detail": "+0 new rows, 3 updated rows, 704 unchanged"
     },
     "reason": null
+   },
+   {
+    "step": "multisource_boxoffice",
+    "category": "Box Office",
+    "run_at": "2026-11-21T10:51:36Z",
+    "run_id": "44896234559",
+    "status": "success",
+    "checked": {
+     "candidates": 733,
+     "detail": "677 collected staging rows from readers; 250 averaged across 2+ sources"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 3,
+     "detail": "+0 new rows, 3 updated rows, 704 unchanged"
+    },
+    "reason": null
    }
   ],
   "gemini_reviews": [
-   {
-    "step": "gemini_reviews",
-    "category": "Reviews",
-    "run_at": "2026-11-20T10:28:14Z",
-    "run_id": "44718512262",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "gemini_reviews",
     "category": "Reviews",
@@ -3095,32 +3085,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "gemini_reviews",
+    "category": "Reviews",
+    "run_at": "2026-11-21T10:51:45Z",
+    "run_id": "44896234559",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "convert_news": [
-   {
-    "step": "convert_news",
-    "category": "Trending News",
-    "run_at": "2026-11-20T12:02:18Z",
-    "run_id": "44730855922",
-    "status": "success",
-    "checked": {
-     "candidates": 600,
-     "detail": "feed entries from out/queue.json"
-    },
-    "changed": {
-     "added": [
-      "Quentin Tarantino's Debut Play 'The Popinjay Cavalier' Expands West End Schedule and Reveals Complete Cast",
-      "Bigg Boss 20 Episode 76 Release Time, JioHotstar Streaming Details, and Love Gill vs Yung DSA Clash",
-      "Yellowjackets Season 4 Final Chapter Begins on Paramount+",
-      "Charlie Puth Set for First Ever India Performance Alongside Ellie Goulding in Mumbai"
-     ],
-     "updated": [],
-     "count": 4,
-     "detail": "api-news.json 600 items, api-trends.json 12 items"
-    },
-    "reason": null
-   },
    {
     "step": "convert_news",
     "category": "Trending News",
@@ -3644,19 +3621,32 @@
      "detail": "api-news.json 600 items, api-trends.json 12 items"
     },
     "reason": null
+   },
+   {
+    "step": "convert_news",
+    "category": "Trending News",
+    "run_at": "2026-11-21T10:51:37Z",
+    "run_id": "44896234559",
+    "status": "success",
+    "checked": {
+     "candidates": 600,
+     "detail": "feed entries from out/queue.json"
+    },
+    "changed": {
+     "added": [
+      "Conan O’Brien Campaigns for a Role in Hallmark's 2027 Christmas Movie",
+      "Godzilla Minus Zero Approaches Street Fighter Domestic Box Office Total in North America",
+      "Akshay Kumar and Ravi Kishan Bring High Energy and Laughs in Koffee with Karan Season 9 Promo",
+      "‘HanuMan 2: The Rise of Vanaras’ Announced With Panja Vaisshnav Tej"
+     ],
+     "updated": [],
+     "count": 4,
+     "detail": "api-news.json 600 items, api-trends.json 12 items"
+    },
+    "reason": null
    }
   ],
   "episode_guides": [
-   {
-    "step": "episode_guides",
-    "category": "Drama Episodes",
-    "run_at": "2026-11-20T10:28:14Z",
-    "run_id": "44718512262",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "episode_guides",
     "category": "Drama Episodes",
@@ -3933,19 +3923,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "title_seed": [
+   },
    {
-    "step": "title_seed",
-    "category": "Spotlight / Coming Soon / Most Awaited",
-    "run_at": "2026-11-20T10:28:14Z",
-    "run_id": "44718512262",
+    "step": "episode_guides",
+    "category": "Drama Episodes",
+    "run_at": "2026-11-21T10:51:45Z",
+    "run_id": "44896234559",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "title_seed": [
    {
     "step": "title_seed",
     "category": "Spotlight / Coming Soon / Most Awaited",
@@ -4266,31 +4256,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "title_seed",
+    "category": "Spotlight / Coming Soon / Most Awaited",
+    "run_at": "2026-11-21T10:51:45Z",
+    "run_id": "44896234559",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "gemini_batch": [
-   {
-    "step": "gemini_batch",
-    "category": "Trending News",
-    "run_at": "2026-11-20T10:23:02Z",
-    "run_id": "44718512262",
-    "status": "success",
-    "checked": {
-     "candidates": 4,
-     "detail": "news queue items drafted this run; 295 still unprocessed; today by category: movies 5/6, tv_dramas 9/4, episodes 1/2, box_office 7/6, celebrities_events 9/5, upcoming_releases 2/4, ott_streaming 8/4, trailers 0/3, awards 2/2, music_ost 1/2, viral 0/2"
-    },
-    "changed": {
-     "added": [
-      "O.M: Operation Mole Movie Review: Dhanush Starrer Delivers Earnest Thrills But Lacks Bite",
-      "Emmy Winner Owen Cooper Leads New Beatles Music Video for In My Life",
-      "2026 MAMA Awards Day 1 Winners List: ENHYPEN and ILLIT Take Home Early Trophies in Osaka",
-      "How Babylon 5 Redefined Space Operas Long Before Firefly"
-     ],
-     "updated": [],
-     "count": 4
-    },
-    "reason": null
-   },
    {
     "step": "gemini_batch",
     "category": "Trending News",
@@ -4795,19 +4773,31 @@
      "count": 4
     },
     "reason": null
+   },
+   {
+    "step": "gemini_batch",
+    "category": "Trending News",
+    "run_at": "2026-11-21T10:51:35Z",
+    "run_id": "44896234559",
+    "status": "success",
+    "checked": {
+     "candidates": 7,
+     "detail": "news queue items drafted this run; 296 still unprocessed; today by category: movies 6/6, tv_dramas 5/4, episodes 0/2, box_office 9/6, celebrities_events 8/5, upcoming_releases 4/4, ott_streaming 4/4, trailers 0/3, awards 3/2, music_ost 1/2, viral 4/2"
+    },
+    "changed": {
+     "added": [
+      "‘HanuMan 2: The Rise of Vanaras’ Announced With Panja Vaisshnav Tej",
+      "Conan O’Brien Campaigns for a Role in Hallmark's 2027 Christmas Movie",
+      "Godzilla Minus Zero Approaches Street Fighter Domestic Box Office Total in North America",
+      "Akshay Kumar and Ravi Kishan Bring High Energy and Laughs in Koffee with Karan Season 9 Promo"
+     ],
+     "updated": [],
+     "count": 4
+    },
+    "reason": null
    }
   ],
   "overseas_ai": [
-   {
-    "step": "overseas_ai",
-    "category": "Box Office",
-    "run_at": "2026-11-20T10:28:14Z",
-    "run_id": "44718512262",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "overseas_ai",
     "category": "Box Office",
@@ -5121,24 +5111,19 @@
      "count": 0
     },
     "reason": "no-new-data"
+   },
+   {
+    "step": "overseas_ai",
+    "category": "Box Office",
+    "run_at": "2026-11-21T10:51:45Z",
+    "run_id": "44896234559",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "publish": [
-   {
-    "step": "publish",
-    "category": "Trending News",
-    "run_at": "2026-11-20T10:28:14Z",
-    "run_id": "44718512262",
-    "status": "success",
-    "checked": null,
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 390,
-     "detail": "lines changed in owned files; no per-item summary from script"
-    },
-    "reason": null
-   },
    {
     "step": "publish",
     "category": "Trending News",
@@ -5483,24 +5468,24 @@
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
-   }
-  ],
-  "stats_traffic": [
+   },
    {
-    "step": "stats_traffic",
-    "category": "Stats / Health",
-    "run_at": "2026-11-20T10:28:14Z",
-    "run_id": "44718512262",
+    "step": "publish",
+    "category": "Trending News",
+    "run_at": "2026-11-21T10:51:45Z",
+    "run_id": "44896234559",
     "status": "success",
     "checked": null,
     "changed": {
      "added": [],
      "updated": [],
-     "count": 27,
+     "count": 374,
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
-   },
+   }
+  ],
+  "stats_traffic": [
    {
     "step": "stats_traffic",
     "category": "Stats / Health",
@@ -5830,19 +5815,24 @@
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
+   },
+   {
+    "step": "stats_traffic",
+    "category": "Stats / Health",
+    "run_at": "2026-11-21T10:51:45Z",
+    "run_id": "44896234559",
+    "status": "success",
+    "checked": null,
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 2,
+     "detail": "lines changed in owned files; no per-item summary from script"
+    },
+    "reason": null
    }
   ],
   "stats_pipeline": [
-   {
-    "step": "stats_pipeline",
-    "category": "Stats / Health",
-    "run_at": "2026-11-20T10:28:14Z",
-    "run_id": "44718512262",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "stats_pipeline",
     "category": "Stats / Health",
@@ -6092,19 +6082,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "stats_health": [
+   },
    {
-    "step": "stats_health",
+    "step": "stats_pipeline",
     "category": "Stats / Health",
-    "run_at": "2026-11-20T10:28:14Z",
-    "run_id": "44718512262",
+    "run_at": "2026-11-21T10:51:45Z",
+    "run_id": "44896234559",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "stats_health": [
    {
     "step": "stats_health",
     "category": "Stats / Health",
@@ -6339,19 +6329,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "metadata_refresh": [
+   },
    {
-    "step": "metadata_refresh",
-    "category": "Spotlight / Coming Soon / Most Awaited",
-    "run_at": "2026-11-20T10:28:14Z",
-    "run_id": "44718512262",
+    "step": "stats_health",
+    "category": "Stats / Health",
+    "run_at": "2026-11-21T10:51:45Z",
+    "run_id": "44896234559",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "metadata_refresh": [
    {
     "step": "metadata_refresh",
     "category": "Spotlight / Coming Soon / Most Awaited",
@@ -6636,19 +6626,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "providers_backfill": [
+   },
    {
-    "step": "providers_backfill",
-    "category": "OTT",
-    "run_at": "2026-11-20T10:28:14Z",
-    "run_id": "44718512262",
+    "step": "metadata_refresh",
+    "category": "Spotlight / Coming Soon / Most Awaited",
+    "run_at": "2026-11-21T10:51:45Z",
+    "run_id": "44896234559",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "providers_backfill": [
    {
     "step": "providers_backfill",
     "category": "OTT",
@@ -6889,19 +6879,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "tavily_boxoffice": [
+   },
    {
-    "step": "tavily_boxoffice",
-    "category": "Box Office",
-    "run_at": "2026-11-20T10:28:14Z",
-    "run_id": "44718512262",
+    "step": "providers_backfill",
+    "category": "OTT",
+    "run_at": "2026-11-21T10:51:45Z",
+    "run_id": "44896234559",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "tavily_boxoffice": [
    {
     "step": "tavily_boxoffice",
     "category": "Box Office",
@@ -7131,19 +7121,19 @@
     "checked": null,
     "changed": null,
     "reason": "no-new-data"
-   }
-  ],
-  "keywords_refresh": [
+   },
    {
-    "step": "keywords_refresh",
-    "category": "Trending News",
-    "run_at": "2026-11-20T10:28:14Z",
-    "run_id": "44718512262",
+    "step": "tavily_boxoffice",
+    "category": "Box Office",
+    "run_at": "2026-11-21T10:51:45Z",
+    "run_id": "44896234559",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "keywords_refresh": [
    {
     "step": "keywords_refresh",
     "category": "Trending News",
@@ -7392,6 +7382,16 @@
     "category": "Trending News",
     "run_at": "2026-11-21T10:02:11Z",
     "run_id": "44891474783",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
+   },
+   {
+    "step": "keywords_refresh",
+    "category": "Trending News",
+    "run_at": "2026-11-21T10:51:45Z",
+    "run_id": "44896234559",
     "status": "skipped",
     "checked": null,
     "changed": null,
@@ -7916,16 +7916,6 @@
    {
     "step": "advance_booking",
     "category": "Box Office",
-    "run_at": "2026-11-20T10:28:14Z",
-    "run_id": "44718512262",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
-   {
-    "step": "advance_booking",
-    "category": "Box Office",
     "run_at": "2026-11-20T12:02:29Z",
     "run_id": "44730855922",
     "status": "skipped",
@@ -8162,19 +8152,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "home_boxoffice_worldwide": [
+   },
    {
-    "step": "home_boxoffice_worldwide",
+    "step": "advance_booking",
     "category": "Box Office",
-    "run_at": "2026-11-20T10:28:14Z",
-    "run_id": "44718512262",
+    "run_at": "2026-11-21T10:51:45Z",
+    "run_id": "44896234559",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "home_boxoffice_worldwide": [
    {
     "step": "home_boxoffice_worldwide",
     "category": "Box Office",
@@ -8444,8 +8434,18 @@
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
+   },
+   {
+    "step": "home_boxoffice_worldwide",
+    "category": "Box Office",
+    "run_at": "2026-11-21T10:51:45Z",
+    "run_id": "44896234559",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ]
  },
- "updated_at": "2026-11-21T10:02:11Z"
+ "updated_at": "2026-11-21T10:51:45Z"
 }
