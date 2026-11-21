@@ -127591,13 +127591,20 @@ window.FA_ARTICLES = {
           "Bano Episode 29 aired on 2026-11-12 on Geo TV. The full episode is available on the channel's official YouTube page.",
           "Watch the full episode here: https://www.youtube.com/watch?v=LMtKOtqvmxM"
         ]
+      },
+      {
+        "h": "Episode Summary",
+        "p": [
+          "Is episode mein Murtaza aur Tuba ke darmyan gari aur office ke mamlaat par baat hoti hai. Doosri taraf, Rabia apne shohar Jafri ko Noman ke"
+        ]
       }
     ],
     "facts": [
       "Bano Episode 29 aired on 2026-11-12.",
       "Channel: Geo TV.",
       "Watch the full episode: https://www.youtube.com/watch?v=LMtKOtqvmxM",
-      "YouTube views: 179,861."
+      "YouTube views: 179,861.",
+      "Episode summary added 2026-11-21."
     ],
     "entities": {
       "titles": [
@@ -147405,13 +147412,20 @@ window.FA_ARTICLES = {
           "Khushi Episode 63 aired on 2026-11-14 on HUM TV. The full episode is available on the channel's official YouTube page.",
           "Watch the full episode here: https://www.youtube.com/watch?v=Oyt7TXJEMI4"
         ]
+      },
+      {
+        "h": "Episode Summary",
+        "p": [
+          "Is episode mein Saim Khushi ko tabiyat kharab hone par uske ghar ke paas drop karta hai, lekin Khushi Ammar ke dar se pehle hi utar jati hai. Am"
+        ]
       }
     ],
     "facts": [
       "Khushi Episode 63 aired on 2026-11-14.",
       "Channel: HUM TV.",
       "Watch the full episode: https://www.youtube.com/watch?v=Oyt7TXJEMI4",
-      "YouTube views: 280,287."
+      "YouTube views: 280,287.",
+      "Episode summary added 2026-11-21."
     ],
     "entities": {
       "titles": [
@@ -148351,13 +148365,20 @@ window.FA_ARTICLES = {
           "Bano Episode 31 aired on 2026-11-14 on Geo TV. The full episode is available on the channel's official YouTube page.",
           "Watch the full episode here: https://www.youtube.com/watch?v=iom21w9SQr8"
         ]
+      },
+      {
+        "h": "Episode Summary",
+        "p": [
+          "Is episode mein Murtaza ko pata chalta hai ke uski ma Nusrat ne Dolly se uski shadi ke dabao mein khudkushi ki koshish ki hai. Nusrat Murt"
+        ]
       }
     ],
     "facts": [
       "Bano Episode 31 aired on 2026-11-14.",
       "Channel: Geo TV.",
       "Watch the full episode: https://www.youtube.com/watch?v=iom21w9SQr8",
-      "YouTube views: 426,253."
+      "YouTube views: 426,253.",
+      "Episode summary added 2026-11-21."
     ],
     "entities": {
       "titles": [
@@ -182934,13 +182955,20 @@ window.FA_ARTICLES = {
           "Khushi Episode 67 aired on 2026-11-18 on HUM TV. The full episode is available on the channel's official YouTube page.",
           "Watch the full episode here: https://www.youtube.com/watch?v=d7Rl4D26jJ4"
         ]
+      },
+      {
+        "h": "Episode Summary",
+        "p": [
+          "Is episode mein Khushi ki apni dost se baat chait par Aiza us se hassad mehsus karti hai. Dusri taraf, Ammar Saim par ilzam lag"
+        ]
       }
     ],
     "facts": [
       "Khushi Episode 67 aired on 2026-11-18.",
       "Channel: HUM TV.",
       "Watch the full episode: https://www.youtube.com/watch?v=d7Rl4D26jJ4",
-      "YouTube views: 310,029."
+      "YouTube views: 310,029.",
+      "Episode summary added 2026-11-21."
     ],
     "entities": {
       "titles": [
@@ -183510,13 +183538,20 @@ window.FA_ARTICLES = {
           "Bano Episode 35 aired on 2026-11-18 on Geo TV. The full episode is available on the channel's official YouTube page.",
           "Watch the full episode here: https://www.youtube.com/watch?v=6yDMqBUJwfw"
         ]
+      },
+      {
+        "h": "Episode Summary",
+        "p": [
+          "Is episode mein Farhana Tooba aur Murtaza ke kamre mein aati hai, jisse Murtaza naraz hokar batameezi karta hai. Farhana kitchen mein Bano"
+        ]
       }
     ],
     "facts": [
       "Bano Episode 35 aired on 2026-11-18.",
       "Channel: Geo TV.",
       "Watch the full episode: https://www.youtube.com/watch?v=6yDMqBUJwfw",
-      "YouTube views: 219,118."
+      "YouTube views: 219,118.",
+      "Episode summary added 2026-11-21."
     ],
     "entities": {
       "titles": [
@@ -192004,13 +192039,20 @@ window.FA_ARTICLES = {
           "Khushi Episode 68 aired on 2026-11-19 on HUM TV. The full episode is available on the channel's official YouTube page.",
           "Watch the full episode here: https://www.youtube.com/watch?v=iws1B7RhSX0"
         ]
+      },
+      {
+        "h": "Episode Summary",
+        "p": [
+          "Is episode mein Ammar ki zid aur shuk ki wajah se poore khandaan par gham ka pahad toot padta hai. Mall ke parking area mein Khushi aur Saim"
+        ]
       }
     ],
     "facts": [
       "Khushi Episode 68 aired on 2026-11-19.",
       "Channel: HUM TV.",
       "Watch the full episode: https://www.youtube.com/watch?v=iws1B7RhSX0",
-      "YouTube views: 198,428."
+      "YouTube views: 198,428.",
+      "Episode summary added 2026-11-21."
     ],
     "entities": {
       "titles": [
@@ -201639,13 +201681,20 @@ window.FA_ARTICLES = {
           "Khushi Episode 69 aired on 2026-11-20 on HUM TV. The full episode is available on the channel's official YouTube page.",
           "Watch the full episode here: https://www.youtube.com/watch?v=lyPplOgbgKs"
         ]
+      },
+      {
+        "h": "Episode Summary",
+        "p": [
+          "Is episode mein Khushi ki divorce ke baad ke halat dikhaye gaye hain. Khushi apne kamre mein udas rehti hai aur uski ma use samjhane aur"
+        ]
       }
     ],
     "facts": [
       "Khushi Episode 69 aired on 2026-11-20.",
       "Channel: HUM TV.",
       "Watch the full episode: https://www.youtube.com/watch?v=lyPplOgbgKs",
-      "YouTube views: 194,715."
+      "YouTube views: 194,715.",
+      "Episode summary added 2026-11-21."
     ],
     "entities": {
       "titles": [
@@ -210284,5 +210333,410 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Sat, 21 Nov 2026 10:00:18 GMT"
+  },
+  "1vkoodd": {
+    "id": "1vkoodd",
+    "type": "news",
+    "headline": "Shah Rukh Khan's King Trailer Expected to Release on December 14",
+    "dek": "Excitement surrounding the action thriller King reaches new heights as reports reveal the anticipated trailer release date ahead of its December theatrical arrival.",
+    "body": [
+      {
+        "h": "Anticipated Trailer Launch Date",
+        "p": [
+          "Enthusiasm for Shah Rukh Khan's upcoming action thriller has reached a fever pitch as audiences await official promotional material. Industry reports indicate that the promotional cut will debut ten days prior to the theatrical launch.",
+          "Followers of the superstar can circle December 14 on their calendars, as this is when the promotional video is expected to arrive. The countdown has intensified interest across cinema circles."
+        ]
+      },
+      {
+        "h": "Father-Daughter Duo on the Big Screen",
+        "p": [
+          "The project has drawn immense attention because it features Shah Rukh Khan sharing screen space with Suhana Khan for the very first time. While Suhana previously made her screen bow in The Archies, this venture marks her theatrical debut.",
+          "The pairing of the veteran actor with his daughter has been a primary talking point since the movie was announced. Cinephiles are eager to observe their chemistry within a feature-length narrative."
+        ]
+      },
+      {
+        "h": "Directorial Vision and Production Backing",
+        "p": [
+          "Helming the project is director Siddharth Anand, whose signature style promises a large-scale, stylish treatment for the action thriller. His past work suggests a visually grand cinematic experience.",
+          "Production duties are handled jointly by Red Chillies Entertainment and Marflix Pictures. Their collaboration ensures significant backing and high production standards for the venture."
+        ]
+      },
+      {
+        "h": "A Star-Studded Ensemble Cast",
+        "p": [
+          "Beyond the lead actors, the film boasts a reported ensemble cast featuring numerous prominent names from the industry. The lineup includes Abhishek Bachchan, Deepika Padukone, Anil Kapoor, and Rani Mukerji.",
+          "Rounding out the supporting players are Jaideep Ahlawat, Jackie Shroff, Raghav Juyal, and Abhay Verma. This diverse roster has further amplified curiosity among moviegoers."
+        ]
+      },
+      {
+        "h": "Continuing a Historic Collaboration",
+        "p": [
+          "The project marks the sixth collaboration between Shah Rukh Khan and Deepika Padukone. Their previous joint ventures include Om Shanti Om, Chennai Express, Happy New Year, Pathaan, and Jawan, where Deepika made a cameo appearance.",
+          "Their enduring on-screen partnership continues to be a major draw for audiences. Fans have consistently celebrated their cinematic pairings over the years."
+        ]
+      },
+      {
+        "h": "Musical Success and Chartbuster Status",
+        "p": [
+          "Ahead of the visual previews, the music associated with the project has already captured the public imagination. Specifically, the track Tu Mil Jaaye has emerged as a complete chartbuster.",
+          "The song has turned into a massive rage among listeners, circulating widely and generating substantial viral buzz. Its success has provided a strong promotional foundation for the movie."
+        ]
+      },
+      {
+        "h": "Box Office Potential and Expert Predictions",
+        "p": [
+          "Industry analyst Sumit Kadel has shared insights regarding the commercial prospects of the film, noting that the upcoming promotional clip will heavily dictate its box office trajectory. He suggested that a strong promotional campaign akin to Pathaan or Jawan could secure a Hindi opening day collection between Rs 55 crore and Rs 65 crore on December 24.",
+          "Kadel added that favorable reception could lead to extraordinary business through the subsequent Christmas weekend spanning December 25, 26, and 27, fueled in part by the widespread popularity of its hit music."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "The highly discussed action thriller King, directed by Siddharth Anand and backed by Red Chillies Entertainment and Marflix Pictures, is slated to release its trailer on December 14, ten days before its theatrical debut on December 24. The film features Shah Rukh Khan and Suhana Khan alongside a large ensemble cast, while industry expert Sumit Kadel predicts a strong opening weekend supported by the viral success of its hit song Tu Mil Jaaye."
+        ]
+      }
+    ],
+    "facts": [
+      "Shah Rukh Khan's film King trailer is expected to release on December 14.",
+      "King is scheduled for a theatrical release on December 24.",
+      "King is directed by Siddharth Anand.",
+      "The film is backed by Red Chillies Entertainment and Marflix Pictures.",
+      "Suhana Khan makes her theatrical debut in King after appearing in The Archies.",
+      "King marks Shah Rukh Khan's 6th collaboration with Deepika Padukone.",
+      "Previous collaborations between Shah Rukh Khan and Deepika Padukone include Om Shanti Om, Chennai Express, Happy New Year, Pathaan, and Jawan.",
+      "A song from the film is titled Tu Mil Jaaye.",
+      "Sumit Kadel predicted a Hindi opening of Rs 55-65cr on December 24 if the trailer matches the scale of Pathaan or Jawan."
+    ],
+    "entities": {
+      "people": [
+        "Shah Rukh Khan",
+        "Suhana Khan",
+        "Siddharth Anand",
+        "Abhishek Bachchan",
+        "Deepika Padukone",
+        "Anil Kapoor",
+        "Rani Mukerji",
+        "Jaideep Ahlawat",
+        "Jackie Shroff",
+        "Raghav Juyal",
+        "Abhay Verma",
+        "Sumit Kadel"
+      ],
+      "titles": [
+        "King",
+        "The Archies",
+        "Om Shanti Om",
+        "Chennai Express",
+        "Happy New Year",
+        "Pathaan",
+        "Jawan",
+        "Tu Mil Jaaye"
+      ]
+    },
+    "keywords": [
+      "King trailer release date",
+      "Shah Rukh Khan King movie",
+      "Suhana Khan theatrical debut",
+      "Siddharth Anand King film"
+    ],
+    "images": [
+      {
+        "url": "https://images.filmibeat.com/img/2026/11/kingupdatefeature-53491795266661.jpg",
+        "caption": "Shah Rukh Khan's King Trailer Expected to Release on December 14",
+        "source": "FilmiBeat"
+      }
+    ],
+    "published": "Sat, 21 Nov 2026 18:42:08 +0530"
+  },
+  "1r5bzr": {
+    "id": "1r5bzr",
+    "type": "news",
+    "headline": "OsamaSon Concert in New York City Turns Chaotic Following Crowd Crush",
+    "dek": "A sold-out rap concert at Terminal 5 in Manhattan descended into pandemonium after a DJ announcement triggered a massive rush for merchandise.",
+    "body": [
+      {
+        "h": "Concert Chaos at Terminal 5",
+        "p": [
+          "A recent rap performance in New York City took a dangerous turn when a massive gathering at the venue resulted in a severe crowd crush. The sold-out event, featuring rapper OsamaSon, was held at the popular Terminal 5 concert hall in Manhattan on Thursday night.",
+          "Attendees found themselves packed tightly together as panic spread through the venue. Video footage shared across social media platforms captured the alarming scene, showing fans screaming in distress and detailing injuries sustained during the sudden surge."
+        ]
+      },
+      {
+        "h": "The Spark Behind the Stampede",
+        "p": [
+          "The dangerous situation reportedly began when instructions were given to the audience regarding promotional items. According to reports, the event's DJ directed the packed room of fans to move toward another area of the venue to retrieve free merchandise.",
+          "This instruction prompted an immediate and chaotic rush toward the designated space. The sudden movement of a large volume of people generated immense pressure, trapping numerous attendees and precipitating the crowd crush."
+        ]
+      },
+      {
+        "h": "Injuries and Emergency Response",
+        "p": [
+          "First responders quickly arrived at the Manhattan venue following urgent calls for assistance. The New York Police Department reported encountering a disorderly crowd upon their arrival alongside individuals in need of medical attention.",
+          "Authorities confirmed that four people sustained minor injuries during the incident. Emergency medical services transported two of the injured individuals to local hospitals, where they were subsequently listed in stable condition."
+        ]
+      },
+      {
+        "h": "Law Enforcement Intervention",
+        "p": [
+          "Police and medical personnel coordinated efforts to manage the chaotic scene outside and inside the concert hall. Officers worked to restore order among the disgruntled and disordered crowd gathered at the venue.",
+          "Despite the injuries and the disorderly atmosphere reported by the police department, law enforcement officials confirmed that no arrests were made in connection with the incident."
+        ]
+      },
+      {
+        "h": "Visual Evidence on Social Media",
+        "p": [
+          "The severity of the incident quickly came to light as audience members uploaded footage of the event to various online platforms. Videos displayed individuals packed tightly together like sardines while voicing their panic.",
+          "Other visual segments highlighted specific concertgoers in visible agony, including one attendee shouting about a leg injury with a distressed expression, further illustrating the perilous conditions inside the hall."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "A sold-out OsamaSon concert at Manhattan's Terminal 5 venue turned chaotic on Thursday night after a DJ told the crowd to fetch free merchandise in another room, resulting in a stampede and crowd crush. Four people sustained minor injuries, with two being transported to local hospitals in stable condition, while police confirmed no arrests were made."
+        ]
+      }
+    ],
+    "facts": [
+      "The incident occurred on Thursday night.",
+      "The concert took place at Terminal 5 in Manhattan.",
+      "Four people sustained minor injuries.",
+      "Two of the injured were transported to local hospitals in stable condition.",
+      "No arrests were made by the police."
+    ],
+    "entities": {
+      "people": [
+        "OsamaSon"
+      ],
+      "titles": []
+    },
+    "keywords": [
+      "OsamaSon concert",
+      "Terminal 5 crowd crush",
+      "OsamaSon Manhattan show",
+      "Terminal 5 injuries"
+    ],
+    "images": [
+      {
+        "url": "https://imagez.tmz.com/image/0b/16by9/2026/11/21/0bbfed1e23654c1787ca3867aac1be64_xl.jpg",
+        "caption": "OsamaSon Concert in New York City Turns Chaotic Following Crowd Crush",
+        "source": "TMZ"
+      }
+    ],
+    "published": "2026-11-21T05:24:52-08:00"
+  },
+  "13n8v4m": {
+    "id": "13n8v4m",
+    "type": "news",
+    "headline": "Anushree Shukla Opens Up On Her Journey And Experience In Student Of The Year: After Dark",
+    "dek": "Actress Anushree Shukla discusses her role as Mini in the JioHotstar web series Student of the Year: After Dark, working with director Reema Maya, her background in Kathak, and her future aspirations.",
+    "body": [
+      {
+        "h": "Stepping Into The World Of Dharmatic Entertainment",
+        "p": [
+          "Actress Anushree Shukla has been gaining attention for her performance as Mini in the JioHotstar web series Student of the Year: After Dark. The project, backed by Dharmatic Entertainment and directed by Reema Maya, offered Shukla a significant platform to make her official OTT debut.",
+          "When she first learned about the audition through Garv at Kavish Sinha's casting company, the prospect of working within the Dharma banner immediately caught her attention. Having already appreciated Reema Maya's previous work, the opportunity felt like a dream come true for the rising performer."
+        ]
+      },
+      {
+        "h": "Portraying The Complexities Of Character Mini",
+        "p": [
+          "In the series, Shukla plays Mini, a participant who unfortunately loses out in the central Student of the Year competition. Rather than viewing the character superficially, the actress focused on understanding the core insecurities and emotional beats woven into the script.",
+          "Director Reema Maya appreciated Shukla's initial audition and encouraged her to retain that exact quality. This gave the actress substantial creative freedom to infuse her own distinct interpretation into Mini's journey throughout the show."
+        ]
+      },
+      {
+        "h": "Embracing A Darker Narrative Style",
+        "p": [
+          "While the Student of the Year franchise has traditionally been known for romance, glamour, and youthful college drama, this iteration leans into a much darker, thriller-oriented aesthetic. Shukla welcomed this shift, noting that thrillers happen to be one of her favourite genres to perform.",
+          "Her past experience includes playing diverse and intense roles, such as a lead performance in Trapido directed by Vighnesh Shinde alongside Hardik Thakkar, a split-personality character in Prison, and layered stage characters in notable theatre productions like A Streetcar Named Desire and Khamosh! Adalat Jaari Hai."
+        ]
+      },
+      {
+        "h": "The Influence Of Kathak And Voice Work",
+        "p": [
+          "Beyond traditional acting, Shukla is a trained Kathak dancer and a skilled voice artist. She credits her dance training with helping her master body rhythm, pacing, and natural facial expressions that ultimately added a distinct vibe to her portrayal of Mini.",
+          "Additionally, her background in voice work and dialect training—ranging from Awadhi and UP Hindi to British, French, American, and Bandra accents—has allowed her to approach character development from various unique starting points."
+        ]
+      },
+      {
+        "h": "Memorable Set Moments And Cast Camaraderie",
+        "p": [
+          "The production schedule involved multiple locations, including Nainital and a demanding night shoot at Essel World. Wrapping up that particular schedule in the early morning hours left the cast, including Reema Maya and Manya Divik, in a state of delirious, sleep-deprived laughter.",
+          "Off-camera bonds formed naturally among the ensemble. Shukla spent quality time discussing cinema with Abhinav, hanging out with Deeya, and bonding with Manya and Divik during the Nainital schedule, alongside appreciating the hard work of the camera and makeup teams."
+        ]
+      },
+      {
+        "h": "Looking Ahead To New Creative Horizons",
+        "p": [
+          "With Student of the Year: After Dark now streaming, Shukla is actively participating in auditions and aiming to connect with prominent filmmakers. She hopes to collaborate with directors like Karan Johar, Zoya Akhtar, Gurinder Chadha, Roshan Sethi, and Aranya Sahay in the future.",
+          "She is also interested in developing her own projects alongside young filmmakers like Shlok Sharma and exploring entrepreneurial intersections within the entertainment business by connecting with figures like Ananya Birla."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Actress Anushree Shukla shares her experience starring as Mini in the JioHotstar web series Student of the Year: After Dark. She discusses her collaboration with director Reema Maya, her background in theatre and Kathak, and her future career goals."
+        ]
+      }
+    ],
+    "facts": [
+      "Student of the Year: After Dark premiered on JioHotstar",
+      "Anushree Shukla played the role of Mini in the series",
+      "Reema Maya directed the web series",
+      "Anushree Shukla won the Best Actress award at the Kullu Manali Film Festival for Trapido",
+      "Trapido was directed by Vighnesh Shinde and starred Hardik Thakkar",
+      "Anushree Shukla has a background in Kathak and voice acting"
+    ],
+    "entities": {
+      "people": [
+        "Anushree Shukla",
+        "Shanaya Kapoor",
+        "Manya Divik",
+        "Abhishek Ranjit",
+        "Garv",
+        "Kavish Sinha",
+        "Reema Maya",
+        "Vighnesh Shinde",
+        "Hardik Thakkar",
+        "Deeya",
+        "Abhinav",
+        "Harshvir",
+        "Arpit",
+        "Vanishika",
+        "Ganesh",
+        "Radhika",
+        "Kavita",
+        "Anand Raichura",
+        "Mohit",
+        "Karan Johar",
+        "Zoya Akhtar",
+        "Gurinder Chadha",
+        "Roshan Sethi",
+        "Aranya Sahay",
+        "Shlok Sharma",
+        "Ananya Birla"
+      ],
+      "titles": [
+        "Student of the Year: After Dark",
+        "Trapido",
+        "Prison",
+        "A Streetcar Named Desire",
+        "Khamosh! Adalat Jaari Hai"
+      ]
+    },
+    "keywords": [
+      "Student of the Year After Dark",
+      "Anushree Shukla",
+      "Reema Maya",
+      "JioHotstar"
+    ],
+    "images": [
+      {
+        "url": "https://images.filmibeat.com/img/2026/11/anushreeshuklainterviewsotyafterdark-14641795265759.jpg",
+        "caption": "Anushree Shukla Opens Up On Her Journey And Experience In Student Of The Year: After Dark",
+        "source": "FilmiBeat"
+      }
+    ],
+    "published": "Sat, 21 Nov 2026 18:29:25 +0530"
+  },
+  "1p13hdx": {
+    "id": "1p13hdx",
+    "type": "news",
+    "headline": "Why Jon Bernthal's Short-Lived Noir Crime Thriller Mob City Deserved a Better Fate",
+    "dek": "TNT's period crime drama Mob City offered a gritty, stylish dive into 1947 Los Angeles, cementing its status as an underrated gem.",
+    "body": [
+      {
+        "h": "The Essence of Classic Noir",
+        "p": [
+          "The traditional noir detective arrives equipped with very specific staples: a reliable firearm, a persistent smoking habit, and a tailored three-piece suit. Throughout television and film history, numerous performers have tried on the archetype, yet few embody the disillusioned investigator quite like Jon Bernthal does in TNT's period crime drama Mob City."
+        ]
+      },
+      {
+        "h": "Adapting L.A. Noir History",
+        "p": [
+          "Drawing its foundation from John Buntin's historical book L.A. Noir: The Struggle for the Soul of America's Most Seductive City, the television program plunges straight into the murky criminal underground of 1947 Los Angeles. Within this gritty version of history, a fictionalized portrayal of infamous mobster Mickey Cohen dominates the municipal landscape."
+        ]
+      },
+      {
+        "h": "The Dangerous Balancing Act",
+        "p": [
+          "Jon Bernthal stars as LAPD Detective Joe Teague, a cop who finds himself right in the middle of an escalating war between Cohen's expanding syndicate and the police department. Cops, criminals, fixers, and other dangerous underworld players are constantly caught in the bloody crossfire.",
+          "Joe is assigned to a specialized police unit tasked with dismantling the mafia permanently. However, the detective carries a personal agenda that begins to unravel rapidly the moment he crosses paths with Hecky Nash, a comedian tangled up with mob interests."
+        ]
+      },
+      {
+        "h": "Complicity and High Stakes",
+        "p": [
+          "After a chain of unpredictable events, Joe accidentally commits a serious offense that threatens to land him behind bars. Desperate for protection, he approaches a mafia-connected acquaintance named Ned Stax to help conceal his tracks, though his dangerous moves do not escape notice.",
+          "With both Mickey Cohen and LAPD Captain William Parker monitoring his every move, Detective Joe must tread carefully along a thin, perilous line dividing the two opposing forces of a brutal gang war."
+        ]
+      },
+      {
+        "h": "Creative Vision and Moral Ambiguity",
+        "p": [
+          "Helmed by showrunner Frank Darabont—who also worked with Bernthal on The Walking Dead—Mob City places equal importance on deep character study and high-tension thriller sequences. The narrative refuses to paint either side with a completely clean brush, leaving viewers questioning whether true righteousness can even exist in the metropolis."
+        ]
+      },
+      {
+        "h": "Recreating 1940s Los Angeles",
+        "p": [
+          "Visually, the production excels at resurrecting the seediest corners of mid-century Los Angeles. Smoky jazz establishments, shadowy gambling dens, and dim neon street signs combine to grant the television project a cinematic aesthetic rarely found on standard network broadcasts.",
+          "Underneath this hazy glamour lies a vicious criminal underworld where gunfire can shatter the peace without warning, whether inside an empty park or a crowded dining room, establishing a memorable throwback atmosphere."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Jon Bernthal's short-lived period crime drama Mob City stands out as an underrated television gem that captured the gritty criminal underworld of 1947 Los Angeles. Despite its atmospheric blend of classic noir style, sharp dialogue, and strong performances under showrunner Frank Darabont, the series ultimately deserved a longer run."
+        ]
+      }
+    ],
+    "facts": [
+      "Mob City is a 6-episode noir crime thriller series.",
+      "The show aired on TNT.",
+      "The series is based on John Buntin's book L.A. Noir: The Struggle for the Soul of America's Most Seductive City.",
+      "The story is set in 1947 Los Angeles.",
+      "Jon Bernthal stars as LAPD Detective Joe Teague.",
+      "Frank Darabont serves as the showrunner.",
+      "Other cast members include Jeremy Luke, Edward Burns, Robert Knepper, Simon Pegg, Milo Ventimiglia, Neal McDonough, and Alexa Davalos."
+    ],
+    "entities": {
+      "people": [
+        "Jon Bernthal",
+        "John Buntin",
+        "Mickey Cohen",
+        "Jeremy Luke",
+        "Edward Burns",
+        "Robert Knepper",
+        "Simon Pegg",
+        "Ned Stax",
+        "Milo Ventimiglia",
+        "William Parker",
+        "Neal McDonough",
+        "Frank Darabont",
+        "Alexa Davalos",
+        "Joe Teague",
+        "Hecky Nash"
+      ],
+      "titles": [
+        "Mob City",
+        "L.A. Noir: The Struggle for the Soul of America’s Most Seductive City",
+        "The Walking Dead"
+      ]
+    },
+    "keywords": [
+      "Mob City",
+      "Jon Bernthal Mob City",
+      "Frank Darabont Mob City",
+      "Mob City TNT series"
+    ],
+    "images": [
+      {
+        "url": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/08/jon-bernthal.jpg?w=1600&amp;h=900&amp;fit=crop",
+        "caption": "Why Jon Bernthal's Short-Lived Noir Crime Thriller Mob City Deserved a Better Fate",
+        "source": "Collider"
+      }
+    ],
+    "published": "Sat, 21 Nov 2026 12:47:12 GMT"
   }
 };

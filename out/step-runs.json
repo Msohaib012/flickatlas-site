@@ -4,45 +4,6 @@
    {
     "step": "fetch",
     "category": "Trending News",
-    "run_at": "2026-11-20T13:51:46Z",
-    "run_id": "44747863583",
-    "status": "success",
-    "checked": {
-     "candidates": 528,
-     "detail": "RSS/Atom items across 137 sources; 3 source(s) errored"
-    },
-    "changed": {
-     "added": [
-      "Shah Rukh Khan, Aryan Khan brand D’YAVOL X collaborates with Golden Goose for exclusive collection; pieces to feature in King",
-      "MTV Roadies 21 Episode 11 Dailymotion: Who Got Selected In Last PI? Abhishek Malhan Vs Prince Narula",
-      "418 Now Streaming On OTT: Where To Watch Chaithra J Achar And Surya Raj Veerabathini's Film Online",
-      "EXCL! I-Popstar 2 Winner Nishant On Why He Almost Gave Up Before Eviction; 'When I Got The Wildcard Entry...'",
-      "Heart Beat 3, Resort, Dhootha & More: 7 South Indian OTT Shows Across Tamil, Telugu & Malayalam Not To Miss",
-      "Drones Now Streaming On OTT: Where To Watch Siddhi Idnani And Anjali Nair's Horror Comedy Film Online",
-      "MTV Roadies 21 Episode 11 Release Time Today: When Will Roadies Rebirth Final PI Episode Air On MTV? Schedule",
-      "Project Hail Mary Box Office: How Much Does Ryan Gosling’s Film Need From Its December Re-Release To Cross $700M Worldwide?",
-      "Avengers Doomsday India Box Office Day 1 Advance Booking: 3rd Biggest Hollywood Opener Of 2026, 27 Days Before Release – 67 Houseful Shows!",
-      "Resident Evil North America Box Office: Becomes The 4th Highest-Grossing Video Game Adaptation Of All Time!",
-      "Ramayana Worldwide Box Office: Hits 2000+ Crore For Sai Pallavi Post-COVID, 3000+ Crore Each For Ranbir Kapoor & Yash – Guess Who Leads!",
-      "Ashwin Kumar marries late director Rajasekar's daughter Bhuvaneswari",
-      "Amanda Seyfried's cheeky 'Am I too old?' comment on the Bond girl shortlist goes viral",
-      "'Hanuman Ansh' director says none of the big production houses congratulated",
-      "Inside 'OM' actor Dhanush's Rs 150 crore poes garden mansion",
-      "Director Rajkumar Periasamy clarifies Dhanush's 'O.M' plot",
-      "Aishwarya's ex-bodyguard recalls tense encounter with Salman",
-      "Imran Khan, Hrithik Roshan, Kunal Kapoor and Lekha Washington catch up and pose for a pic",
-      "Quote of the day by Ralph Fiennes",
-      "Anil Kapoor meets French President Emmanuel Macron in Paris, gets a tour of his office"
-     ],
-     "updated": [],
-     "count": 480,
-     "detail": "503 stories, 2 duplicates removed, 25 dropped"
-    },
-    "reason": null
-   },
-   {
-    "step": "fetch",
-    "category": "Trending News",
     "run_at": "2026-11-20T14:51:07Z",
     "run_id": "44757336334",
     "status": "success",
@@ -936,32 +897,48 @@
      "detail": "359 stories, 8 duplicates removed, 103 dropped"
     },
     "reason": null
-   }
-  ],
-  "apply_auto": [
+   },
    {
-    "step": "apply_auto",
+    "step": "fetch",
     "category": "Trending News",
-    "run_at": "2026-11-20T14:52:58Z",
-    "run_id": "44757336334",
+    "run_at": "2026-11-21T13:51:43Z",
+    "run_id": "44910866965",
     "status": "success",
     "checked": {
-     "candidates": 14,
-     "detail": "draft articles + box-office rows from out/gemini-batch.json"
+     "candidates": 390,
+     "detail": "RSS/Atom items across 137 sources; 3 source(s) errored"
     },
     "changed": {
      "added": [
-      "MTV Roadies 21 Episode 11: What to Expect from the Final Round of Personal Interviews",
-      "The Rookie: North Trailer Explores New Frontiers and Fresh Faces in Spin-off",
-      "Shah Rukh Khan and Aryan Khan’s Brand D’YAVOL X Partners with Golden Goose for Exclusive Fashion Line",
-      "Reinaldo Dennes Execution in Texas Lasts Over an Hour Amid Pain Complaints"
+      "Anirudh-Kavya Wedding Reception LIVE Updates: Newlyweds Host Grand Bash In Chennai; Pose With Family",
+      "Bigg Boss 20: Why Did Scout Choose Chopping Duty With Love Gill? Mahhi Vij Questions His Intentions",
+      "King Trailer Release Date: Here's When Shah Rukh Khan's Movie's Trailer Will Be Out",
+      "Student Of The Year: After Dark EXCLUSIVE! Anushree Shukla On Working With Shanaya Kapoor, Dharma Debut & More",
+      "Neha Bisht Stalker Case: WHO's YouTuber's Fiancé? 25-Yr-Old Man Beaten To Death After He Tried To Stop Wedding",
+      "Bigg Boss 20: Qazi Touqueer's Professor Act Crosses 47 Million Views, Fans Call Him 'TRP King'",
+      "Aadarsha Kutumbam House No: 47 Box Office (Closing Collection): Venkatesh Starrer Wraps Up With A Huge 61% Deficit",
+      "How Is Duncan Idaho Alive In Dune 3 After Dying In The First Movie?",
+      "You Can See Everything Worldwide Box Office: A24 Documentary Is Set To Achieve A Major Milestone This Weekend",
+      "Ramayana Hindi Box Office Day 16: Becomes Only 4th Hindi Film In History To Enter The 700 Crore Club!",
+      "418 Movie Review: Chaithra Achar Shines, But This Horror Film Forgets To Be Scary",
+      "'Grammys, who?': Netizens on Taylor winning Dadasaheb Phalke International Film Festival award",
+      "Suniel Shetty hails son-in-law KL Rahul after historic century",
+      "'Brad Pitt of Bihar' Ravi Kishan teaches Akshay Kumar his viral hookstep on 'KWK9'",
+      "Anirudh surprises fans with Rajinikanth's 'Jailer 2' OST",
+      "Amit Sadh on theatrical comeback with Pratap: Getting a perfect release is tough for an indie filmmaker",
+      "Suriya thanks audience for making 2026 a special year with Karuppu, Vishwanath & Sons and Scene turning out to be box office successes",
+      "Dheeraj Dhoopar and Vinny Arora expecting second child as the actor confirms pregnancy with baby bump video",
+      "Hanuman Ansh director Vishal Chaturvedi calls out industry silence after 452 crore success, says no big production house has made a statement",
+      "Anirudh-Kavya host Chennai reception: PM Modi, Sonia Gandhi send wishes to couple"
      ],
      "updated": [],
-     "count": 7,
-     "detail": "+4 articles, +0 box-office rows, 3 rows updated"
+     "count": 369,
+     "detail": "370 stories, 1 duplicates removed, 20 dropped"
     },
     "reason": null
-   },
+   }
+  ],
+  "apply_auto": [
    {
     "step": "apply_auto",
     "category": "Trending News",
@@ -1484,27 +1461,32 @@
      "detail": "+4 articles, +0 box-office rows, 3 rows updated"
     },
     "reason": null
+   },
+   {
+    "step": "apply_auto",
+    "category": "Trending News",
+    "run_at": "2026-11-21T14:08:26Z",
+    "run_id": "44910866965",
+    "status": "success",
+    "checked": {
+     "candidates": 14,
+     "detail": "draft articles + box-office rows from out/gemini-batch.json"
+    },
+    "changed": {
+     "added": [
+      "Shah Rukh Khan's King Trailer Expected to Release on December 14",
+      "OsamaSon Concert in New York City Turns Chaotic Following Crowd Crush",
+      "Anushree Shukla Opens Up On Her Journey And Experience In Student Of The Year: After Dark",
+      "Why Jon Bernthal's Short-Lived Noir Crime Thriller Mob City Deserved a Better Fate"
+     ],
+     "updated": [],
+     "count": 7,
+     "detail": "+4 articles, +0 box-office rows, 3 rows updated"
+    },
+    "reason": null
    }
   ],
   "ott": [
-   {
-    "step": "ott",
-    "category": "OTT",
-    "run_at": "2026-11-20T14:52:59Z",
-    "run_id": "44757336334",
-    "status": "success",
-    "checked": {
-     "candidates": 397,
-     "detail": "OTT now/coming titles from the published catalogue"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 0,
-     "detail": "now 390, coming 7"
-    },
-    "reason": "no-new-data"
-   },
    {
     "step": "ott",
     "category": "OTT",
@@ -1918,34 +1900,27 @@
      "detail": "now 396, coming 7"
     },
     "reason": "no-new-data"
+   },
+   {
+    "step": "ott",
+    "category": "OTT",
+    "run_at": "2026-11-21T14:08:26Z",
+    "run_id": "44910866965",
+    "status": "success",
+    "checked": {
+     "candidates": 403,
+     "detail": "OTT now/coming titles from the published catalogue"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 0,
+     "detail": "now 396, coming 7"
+    },
+    "reason": "no-new-data"
    }
   ],
   "trending_weekly": [
-   {
-    "step": "trending_weekly",
-    "category": "Trending Topics",
-    "run_at": "2026-11-20T14:27:44Z",
-    "run_id": "44747863583",
-    "status": "success",
-    "checked": {
-     "candidates": 100,
-     "detail": "cached Google RSS trend/article intersection"
-    },
-    "changed": {
-     "added": [
-      "16le2de",
-      "15eqb9k",
-      "1w9f5d5",
-      "qq6x0q",
-      "tvcq7i",
-      "p2dq2x",
-      "it29do"
-     ],
-     "updated": [],
-     "count": 7
-    },
-    "reason": null
-   },
    {
     "step": "trending_weekly",
     "category": "Trending Topics",
@@ -2411,27 +2386,34 @@
      "count": 0
     },
     "reason": "no-new-data"
+   },
+   {
+    "step": "trending_weekly",
+    "category": "Trending Topics",
+    "run_at": "2026-11-21T14:18:22Z",
+    "run_id": "44910866965",
+    "status": "success",
+    "checked": {
+     "candidates": 100,
+     "detail": "cached Google RSS trend/article intersection"
+    },
+    "changed": {
+     "added": [
+      "1p13hdx",
+      "14xzms9",
+      "ucookv",
+      "6h5y98",
+      "1w3euur",
+      "3sr93c",
+      "6ggosc"
+     ],
+     "updated": [],
+     "count": 7
+    },
+    "reason": null
    }
   ],
   "multisource_boxoffice": [
-   {
-    "step": "multisource_boxoffice",
-    "category": "Box Office",
-    "run_at": "2026-11-20T14:27:42Z",
-    "run_id": "44747863583",
-    "status": "success",
-    "checked": {
-     "candidates": 726,
-     "detail": "673 collected staging rows from readers; 248 averaged across 2+ sources"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 3,
-     "detail": "+0 new rows, 3 updated rows, 698 unchanged"
-    },
-    "reason": null
-   },
    {
     "step": "multisource_boxoffice",
     "category": "Box Office",
@@ -2845,19 +2827,27 @@
      "detail": "+0 new rows, 6 updated rows, 701 unchanged"
     },
     "reason": null
+   },
+   {
+    "step": "multisource_boxoffice",
+    "category": "Box Office",
+    "run_at": "2026-11-21T14:18:19Z",
+    "run_id": "44910866965",
+    "status": "success",
+    "checked": {
+     "candidates": 733,
+     "detail": "677 collected staging rows from readers; 250 averaged across 2+ sources"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 3,
+     "detail": "+0 new rows, 3 updated rows, 704 unchanged"
+    },
+    "reason": null
    }
   ],
   "gemini_reviews": [
-   {
-    "step": "gemini_reviews",
-    "category": "Reviews",
-    "run_at": "2026-11-20T14:27:53Z",
-    "run_id": "44747863583",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "gemini_reviews",
     "category": "Reviews",
@@ -3094,32 +3084,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "gemini_reviews",
+    "category": "Reviews",
+    "run_at": "2026-11-21T14:18:30Z",
+    "run_id": "44910866965",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "convert_news": [
-   {
-    "step": "convert_news",
-    "category": "Trending News",
-    "run_at": "2026-11-20T14:53:00Z",
-    "run_id": "44757336334",
-    "status": "success",
-    "checked": {
-     "candidates": 600,
-     "detail": "feed entries from out/queue.json"
-    },
-    "changed": {
-     "added": [
-      "MTV Roadies 21 Episode 11: What to Expect from the Final Round of Personal Interviews",
-      "The Rookie: North Trailer Explores New Frontiers and Fresh Faces in Spin-off",
-      "Shah Rukh Khan and Aryan Khan’s Brand D’YAVOL X Partners with Golden Goose for Exclusive Fashion Line",
-      "Reinaldo Dennes Execution in Texas Lasts Over an Hour Amid Pain Complaints"
-     ],
-     "updated": [],
-     "count": 4,
-     "detail": "api-news.json 600 items, api-trends.json 12 items"
-    },
-    "reason": null
-   },
    {
     "step": "convert_news",
     "category": "Trending News",
@@ -3642,19 +3619,33 @@
      "detail": "api-news.json 600 items, api-trends.json 12 items"
     },
     "reason": null
+   },
+   {
+    "step": "convert_news",
+    "category": "Trending News",
+    "run_at": "2026-11-21T14:18:21Z",
+    "run_id": "44910866965",
+    "status": "success",
+    "checked": {
+     "candidates": 600,
+     "detail": "feed entries from out/queue.json"
+    },
+    "changed": {
+     "added": [
+      "Shah Rukh Khan's King Trailer Expected to Release on December 14",
+      "Anushree Shukla Opens Up On Her Journey And Experience In Student Of The Year: After Dark",
+      "Why Jon Bernthal's Short-Lived Noir Crime Thriller Mob City Deserved a Better Fate",
+      "OsamaSon Concert in New York City Turns Chaotic Following Crowd Crush",
+      "Prime Video's Cryptic Teaser Sparks Rumors Over Panchayat Season 5 Release Timeline"
+     ],
+     "updated": [],
+     "count": 5,
+     "detail": "api-news.json 600 items, api-trends.json 12 items"
+    },
+    "reason": null
    }
   ],
   "episode_guides": [
-   {
-    "step": "episode_guides",
-    "category": "Drama Episodes",
-    "run_at": "2026-11-20T14:27:53Z",
-    "run_id": "44747863583",
-    "status": "failed",
-    "checked": null,
-    "changed": null,
-    "reason": "error"
-   },
    {
     "step": "episode_guides",
     "category": "Drama Episodes",
@@ -3931,19 +3922,34 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "episode_guides",
+    "category": "Drama Episodes",
+    "run_at": "2026-11-21T14:07:48Z",
+    "run_id": "44910866965",
+    "status": "success",
+    "checked": {
+     "candidates": 23,
+     "detail": "YouTube episodes on the 4 official PK channels (+ intl 1M+ views); 8 new detected"
+    },
+    "changed": {
+     "added": [],
+     "updated": [
+      "Bano Ep 31",
+      "Khushi Ep 67",
+      "Khushi Ep 63",
+      "Bano Ep 35",
+      "Khushi Ep 68",
+      "Khushi Ep 69",
+      "Bano Ep 29"
+     ],
+     "count": 7
+    },
+    "reason": null
    }
   ],
   "title_seed": [
-   {
-    "step": "title_seed",
-    "category": "Spotlight / Coming Soon / Most Awaited",
-    "run_at": "2026-11-20T14:27:53Z",
-    "run_id": "44747863583",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "title_seed",
     "category": "Spotlight / Coming Soon / Most Awaited",
@@ -4264,31 +4270,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "title_seed",
+    "category": "Spotlight / Coming Soon / Most Awaited",
+    "run_at": "2026-11-21T14:18:30Z",
+    "run_id": "44910866965",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "gemini_batch": [
-   {
-    "step": "gemini_batch",
-    "category": "Trending News",
-    "run_at": "2026-11-20T14:14:11Z",
-    "run_id": "44747863583",
-    "status": "success",
-    "checked": {
-     "candidates": 4,
-     "detail": "news queue items drafted this run; 480 still unprocessed; today by category: movies 8/6, tv_dramas 13/4, episodes 1/2, box_office 7/6, celebrities_events 14/5, upcoming_releases 2/4, ott_streaming 8/4, trailers 0/3, awards 2/2, music_ost 1/2, viral 0/2"
-    },
-    "changed": {
-     "added": [
-      "Anil Kapoor Meets French President Emmanuel Macron in Paris",
-      "Invincible Season 5 Sets February 2027 Premiere Date With New Burger Mart Teaser",
-      "Amanda Seyfried's Playful 'Am I Too Old?' Remark Sparks Internet Buzz Around New James Bond Film",
-      "Hell's Kitchen Reboot Unveils First Look With Gordon Ramsay and Claudia Winkleman"
-     ],
-     "updated": [],
-     "count": 4
-    },
-    "reason": null
-   },
    {
     "step": "gemini_batch",
     "category": "Trending News",
@@ -4793,26 +4787,31 @@
      "count": 4
     },
     "reason": null
+   },
+   {
+    "step": "gemini_batch",
+    "category": "Trending News",
+    "run_at": "2026-11-21T14:08:25Z",
+    "run_id": "44910866965",
+    "status": "success",
+    "checked": {
+     "candidates": 4,
+     "detail": "news queue items drafted this run; 369 still unprocessed; today by category: movies 6/6, tv_dramas 7/4, episodes 0/2, box_office 10/6, celebrities_events 11/5, upcoming_releases 5/4, ott_streaming 5/4, trailers 1/3, awards 5/2, music_ost 1/2, viral 5/2"
+    },
+    "changed": {
+     "added": [
+      "Shah Rukh Khan's King Trailer Expected to Release on December 14",
+      "OsamaSon Concert in New York City Turns Chaotic Following Crowd Crush",
+      "Anushree Shukla Opens Up On Her Journey And Experience In Student Of The Year: After Dark",
+      "Why Jon Bernthal's Short-Lived Noir Crime Thriller Mob City Deserved a Better Fate"
+     ],
+     "updated": [],
+     "count": 4
+    },
+    "reason": null
    }
   ],
   "overseas_ai": [
-   {
-    "step": "overseas_ai",
-    "category": "Box Office",
-    "run_at": "2026-11-20T14:15:19Z",
-    "run_id": "44747863583",
-    "status": "success",
-    "checked": {
-     "candidates": 55,
-     "detail": "published movies with missing overseas day figures; Tavily searches: 48"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 0
-    },
-    "reason": "no-new-data"
-   },
    {
     "step": "overseas_ai",
     "category": "Box Office",
@@ -5119,24 +5118,26 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "publish": [
+   },
    {
-    "step": "publish",
-    "category": "Trending News",
-    "run_at": "2026-11-20T14:27:53Z",
-    "run_id": "44747863583",
+    "step": "overseas_ai",
+    "category": "Box Office",
+    "run_at": "2026-11-21T14:09:37Z",
+    "run_id": "44910866965",
     "status": "success",
-    "checked": null,
+    "checked": {
+     "candidates": 56,
+     "detail": "published movies with missing overseas day figures; Tavily searches: 48"
+    },
     "changed": {
      "added": [],
      "updated": [],
-     "count": 424,
-     "detail": "lines changed in owned files; no per-item summary from script"
+     "count": 0
     },
-    "reason": null
-   },
+    "reason": "no-new-data"
+   }
+  ],
+  "publish": [
    {
     "step": "publish",
     "category": "Trending News",
@@ -5481,24 +5482,24 @@
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
-   }
-  ],
-  "stats_traffic": [
+   },
    {
-    "step": "stats_traffic",
-    "category": "Stats / Health",
-    "run_at": "2026-11-20T14:27:53Z",
-    "run_id": "44747863583",
+    "step": "publish",
+    "category": "Trending News",
+    "run_at": "2026-11-21T14:18:30Z",
+    "run_id": "44910866965",
     "status": "success",
     "checked": null,
     "changed": {
      "added": [],
      "updated": [],
-     "count": 34,
+     "count": 461,
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
-   },
+   }
+  ],
+  "stats_traffic": [
    {
     "step": "stats_traffic",
     "category": "Stats / Health",
@@ -5828,19 +5829,24 @@
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
+   },
+   {
+    "step": "stats_traffic",
+    "category": "Stats / Health",
+    "run_at": "2026-11-21T14:18:30Z",
+    "run_id": "44910866965",
+    "status": "success",
+    "checked": null,
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 10,
+     "detail": "lines changed in owned files; no per-item summary from script"
+    },
+    "reason": null
    }
   ],
   "stats_pipeline": [
-   {
-    "step": "stats_pipeline",
-    "category": "Stats / Health",
-    "run_at": "2026-11-20T14:27:53Z",
-    "run_id": "44747863583",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "stats_pipeline",
     "category": "Stats / Health",
@@ -6090,19 +6096,19 @@
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
-   }
-  ],
-  "stats_health": [
+   },
    {
-    "step": "stats_health",
+    "step": "stats_pipeline",
     "category": "Stats / Health",
-    "run_at": "2026-11-20T14:27:53Z",
-    "run_id": "44747863583",
+    "run_at": "2026-11-21T14:18:30Z",
+    "run_id": "44910866965",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "stats_health": [
    {
     "step": "stats_health",
     "category": "Stats / Health",
@@ -6337,19 +6343,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "metadata_refresh": [
+   },
    {
-    "step": "metadata_refresh",
-    "category": "Spotlight / Coming Soon / Most Awaited",
-    "run_at": "2026-11-20T14:27:53Z",
-    "run_id": "44747863583",
+    "step": "stats_health",
+    "category": "Stats / Health",
+    "run_at": "2026-11-21T14:18:30Z",
+    "run_id": "44910866965",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "metadata_refresh": [
    {
     "step": "metadata_refresh",
     "category": "Spotlight / Coming Soon / Most Awaited",
@@ -6634,19 +6640,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "providers_backfill": [
+   },
    {
-    "step": "providers_backfill",
-    "category": "OTT",
-    "run_at": "2026-11-20T14:27:53Z",
-    "run_id": "44747863583",
+    "step": "metadata_refresh",
+    "category": "Spotlight / Coming Soon / Most Awaited",
+    "run_at": "2026-11-21T14:18:30Z",
+    "run_id": "44910866965",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "providers_backfill": [
    {
     "step": "providers_backfill",
     "category": "OTT",
@@ -6887,19 +6893,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "providers_backfill",
+    "category": "OTT",
+    "run_at": "2026-11-21T14:18:30Z",
+    "run_id": "44910866965",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "tavily_boxoffice": [
-   {
-    "step": "tavily_boxoffice",
-    "category": "Box Office",
-    "run_at": "2026-11-20T14:27:53Z",
-    "run_id": "44747863583",
-    "status": "success",
-    "checked": null,
-    "changed": null,
-    "reason": "no-new-data"
-   },
    {
     "step": "tavily_boxoffice",
     "category": "Box Office",
@@ -7129,19 +7135,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "tavily_boxoffice",
+    "category": "Box Office",
+    "run_at": "2026-11-21T14:18:30Z",
+    "run_id": "44910866965",
+    "status": "success",
+    "checked": null,
+    "changed": null,
+    "reason": "no-new-data"
    }
   ],
   "keywords_refresh": [
-   {
-    "step": "keywords_refresh",
-    "category": "Trending News",
-    "run_at": "2026-11-20T14:27:53Z",
-    "run_id": "44747863583",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "keywords_refresh",
     "category": "Trending News",
@@ -7394,30 +7400,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "keywords_refresh",
+    "category": "Trending News",
+    "run_at": "2026-11-21T14:18:30Z",
+    "run_id": "44910866965",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "overseas_sweep": [
-   {
-    "step": "overseas_sweep",
-    "category": "Box Office",
-    "run_at": "2026-11-19T14:14:00Z",
-    "run_id": "44537472370",
-    "status": "success",
-    "checked": {
-     "candidates": 579,
-     "detail": "completed day-wise rows missing overseas; quicknews pages fetched: 15; attempt cooldown deferred: 564"
-    },
-    "changed": {
-     "added": [
-      "Ranabaali (1389379)",
-      "418 (1606527)",
-      "Nayyi Navelli (1654581)"
-     ],
-     "updated": [],
-     "count": 13
-    },
-    "reason": null
-   },
    {
     "step": "overseas_sweep",
     "category": "Box Office",
@@ -7909,19 +7904,31 @@
      "count": 14
     },
     "reason": null
+   },
+   {
+    "step": "overseas_sweep",
+    "category": "Box Office",
+    "run_at": "2026-11-21T14:08:43Z",
+    "run_id": "44910866965",
+    "status": "success",
+    "checked": {
+     "candidates": 589,
+     "detail": "completed day-wise rows missing overseas; quicknews pages fetched: 14; attempt cooldown deferred: 575"
+    },
+    "changed": {
+     "added": [
+      "Jailer 2 (1234139)",
+      "Ranabaali (1389379)",
+      "418 (1606527)",
+      "Nayyi Navelli (1654581)"
+     ],
+     "updated": [],
+     "count": 14
+    },
+    "reason": null
    }
   ],
   "advance_booking": [
-   {
-    "step": "advance_booking",
-    "category": "Box Office",
-    "run_at": "2026-11-20T14:27:53Z",
-    "run_id": "44747863583",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "advance_booking",
     "category": "Box Office",
@@ -8161,19 +8168,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "home_boxoffice_worldwide": [
+   },
    {
-    "step": "home_boxoffice_worldwide",
+    "step": "advance_booking",
     "category": "Box Office",
-    "run_at": "2026-11-20T14:27:53Z",
-    "run_id": "44747863583",
+    "run_at": "2026-11-21T14:18:30Z",
+    "run_id": "44910866965",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "home_boxoffice_worldwide": [
    {
     "step": "home_boxoffice_worldwide",
     "category": "Box Office",
@@ -8443,8 +8450,18 @@
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
+   },
+   {
+    "step": "home_boxoffice_worldwide",
+    "category": "Box Office",
+    "run_at": "2026-11-21T14:18:30Z",
+    "run_id": "44910866965",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ]
  },
- "updated_at": "2026-11-21T13:00:23Z"
+ "updated_at": "2026-11-21T14:18:30Z"
 }

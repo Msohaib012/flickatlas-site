@@ -1,18 +1,18 @@
 {
   "connected": true,
-  "generated": "2026-11-21T13:00:21Z",
+  "generated": "2026-11-21T14:18:30Z",
   "realtime": {
     "active_users": 2
   },
   "today": {
-    "users": 24,
-    "pageviews": 27,
-    "sessions": 24,
-    "avg_session_seconds": 8.3
+    "users": 25,
+    "pageviews": 28,
+    "sessions": 25,
+    "avg_session_seconds": 7.9
   },
   "last7": {
-    "users": 3168,
-    "pageviews": 3260,
+    "users": 3169,
+    "pageviews": 3261,
     "sessions": 3161,
     "avg_session_seconds": 8.6
   },
@@ -20,7 +20,7 @@
     {
       "path": "/person",
       "title": "Actor & Filmmaker Profile | FlickAtlas",
-      "views": 1420,
+      "views": 1421,
       "avg_time_seconds": 4.1
     },
     {
@@ -83,7 +83,7 @@
       "source": "(direct)",
       "medium": "(none)",
       "sessions": 2992,
-      "users": 3023
+      "users": 3024
     },
     {
       "source": "(not set)",
@@ -149,7 +149,7 @@
   "devices": [
     {
       "device": "desktop",
-      "users": 3151
+      "users": 3152
     },
     {
       "device": "mobile",
