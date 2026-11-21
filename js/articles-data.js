@@ -214705,5 +214705,377 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Sat, 21 Nov 2026 21:01:12 GMT"
+  },
+  "116223z": {
+    "id": "116223z",
+    "type": "news",
+    "headline": "OM Box Office Collection Day 1: Dhanush Film Opens With Rs 17.70 Crore",
+    "dek": "Dhanush's action thriller OM: Operation Mole opened in cinemas on November 20, pulling in a worldwide collection of over thirty crore rupees on its first day.",
+    "body": [
+      {
+        "h": "Opening Day Box Office Numbers",
+        "p": [
+          "Dhanush's newly released action thriller OM: Operation Mole arrived in theatres on November 20, generating considerable early interest among moviegoers. According to tracking data, the film pulled in an opening day collection of seventeen crore seventy lakh rupees across thousands of shows nationwide. The project faced direct box office competition from Dulquer Salmaan's Aakasamlo Oka Tara upon its theatrical arrival.",
+          "The primary financial contribution for the action project arrived through its Tamil version, which brought in thirteen crore thirty-five lakh rupees across four thousand twenty-three shows. Meanwhile, the Telugu language version contributed four crore rupees from one thousand six hundred fifteen shows, and the Hindi version added forty lakh rupees across nine hundred ninety shows."
+        ]
+      },
+      {
+        "h": "Domestic Gross And Overseas Earnings",
+        "p": [
+          "Beyond its net domestic figures, the action thriller successfully crossed the twenty crore mark in terms of India gross earnings. Ticket sales across various regions pushed the domestic gross total to twenty crore fifty-five lakh rupees on day one.",
+          "International markets also added to the overall tally during the opening rollout. The project collected eleven crore rupees overseas, bringing its combined worldwide day one gross collection to thirty-one crore fifty-five lakh rupees."
+        ]
+      },
+      {
+        "h": "Comparison With Suriya's Scene",
+        "p": [
+          "Despite its strong performance, the opening figures for the Dhanush vehicle fell short of surpassing the first-day earnings recorded by Suriya's action comedy. That competing film successfully minted nineteen crore fifteen lakh rupees in net domestic collections across six thousand one hundred sixty-seven shows.",
+          "The breakdown for the competing film included sixteen crore fifteen lakh rupees from its Tamil version and three crore rupees from its Telugu version. Furthermore, its worldwide total reached forty crore rupees, driven by twenty-two crore twenty-five lakh rupees in domestic gross and seventeen crore seventy-five lakh rupees from international territories."
+        ]
+      },
+      {
+        "h": "Cast And Crew Highlights",
+        "p": [
+          "The theatrical release is directed by filmmaker Rajkumar Periasamy, whose creative vision was heavily praised by the lead star ahead of the premiere. At an audio launch gathering for the project, Dhanush described the venture as a multi-hero film and commended the director's deep confidence in his script and his ability to manage a large team effectively.",
+          "During the promotional event, the lead actor also shared behind-the-scenes insights regarding specific musical numbers. He mentioned discussing the track Alaakaa Loova with the director, noting that while the song might not have been strictly necessary for the narrative, the filmmaker insisted on including it as a treat for devoted fans."
+        ]
+      },
+      {
+        "h": "Star-Studded Ensemble Cast",
+        "p": [
+          "Alongside the main lead, the action thriller features several prominent actors sharing screen space in pivotal roles. The extensive ensemble lineup includes Sai Pallavi, Mammootty, and Sreeleela.",
+          "Other notable performers rounding out the supporting cast include veteran actor Naseeruddin Shah, Indrans, and Renu. Each of these performers contributes to the core narrative of the theatrical release."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Dhanush's action thriller OM: Operation Mole debuted in cinemas on November 20 under the direction of Rajkumar Periasamy, collecting seventeen crore seventy lakh rupees in net domestic earnings on its opening day. While the project achieved a combined worldwide total of thirty-one crore fifty-five lakh rupees, it did not manage to outpace the day one collection of Suriya's competing film, Scene."
+        ]
+      }
+    ],
+    "facts": [
+      "OM: Operation Mole released on November 20, 2026.",
+      "The film earned Rs 17.70 crore on day one.",
+      "Tamil version contributed Rs 13.35 crore.",
+      "Telugu version contributed Rs 4 crore.",
+      "Hindi version contributed Rs 40 lakh.",
+      "Worldwide collection reached Rs 31.55 crore.",
+      "Suriya's film Scene collected Rs 19.15 crore on day one."
+    ],
+    "entities": {
+      "people": [
+        "Dhanush",
+        "Rajkumar Periasamy",
+        "Dulquer Salmaan",
+        "Suriya",
+        "Sai Pallavi",
+        "Mammootty",
+        "Sreeleela",
+        "Naseeruddin Shah",
+        "Indrans",
+        "Renu"
+      ],
+      "titles": [
+        "OM: Operation Mole",
+        "Aakasamlo Oka Tara",
+        "Scene",
+        "Alaakaa Loova"
+      ]
+    },
+    "keywords": [
+      "OM Operation Mole box office",
+      "Dhanush OM movie",
+      "Rajkumar Periasamy film",
+      "Suriya Scene collection"
+    ],
+    "images": [
+      {
+        "url": "https://images.timesnownews.com/thumb/msid-156544307,thumbsize-76358,width-1280,height-720,resizemode-75/156544307.jpg",
+        "caption": "OM Box Office Collection Day 1: Dhanush Film Opens With Rs 17.70 Crore",
+        "source": "Times Now — Entertainment"
+      }
+    ],
+    "published": "2026-11-21T22:19:26Z"
+  },
+  "1ay8i7a": {
+    "id": "1ay8i7a",
+    "type": "news",
+    "headline": "War Finale Ending Explained: Sienna Miller and Dominic West Break Down the Big Divorce Twist",
+    "dek": "The explosive season one finale of Sky drama War has finally aired, bringing the bitter legal battle between Carla Duvall and Morgan Henderson to a surprising head.",
+    "body": [
+      {
+        "h": "The Conclusion of a Cutthroat Divorce",
+        "p": [
+          "The gripping Sky drama War has officially concluded its first season with the release of the episode 8 finale. Throughout the season, audiences watched an intensely bitter split unfold between actress Carla Duvall and tech tycoon Morgan Henderson.",
+          "The narrative explored the extremes of high-net-worth separations, driven by continuous animosity, calculated manipulation, and high-stakes legal maneuvering that kept viewers hooked week after week."
+        ]
+      },
+      {
+        "h": "How the Battle Began",
+        "p": [
+          "The foundations of the bitter feud were laid right at the start of the series when Carla honeytrapped her husband in an effort to secure undeniable proof of his infidelity. Not long after, Morgan retaliated swiftly by having divorce papers served to her while she was posing on a red carpet at her movie premiere.",
+          "These initial salvos set a ruthless tone for the rest of the season, establishing the intense psychological warfare that would come to define the dissolution of their marriage."
+        ]
+      },
+      {
+        "h": "Rival Law Firms Go Head-to-Head",
+        "p": [
+          "Central to the overarching plot of War is the fierce rivalry between two prominent legal entities: Cathcarts and Taylor & Byrne. These firms represented the opposing sides in headline-grabbing court battles.",
+          "The legal representation amplified the personal conflict, turning the divorce proceedings into a massive corporate and social spectacle that played out under the public eye."
+        ]
+      },
+      {
+        "h": "The Final Court Showdown",
+        "p": [
+          "As expected, the season finale culminated in a major courtroom face-off rather than a quiet resolution in mediation. The final episode delivered unexpected developments regarding how the settlement was ultimately reached.",
+          "The dramatic courtroom events provided a definitive climax to the intense legal sparring that characterized the entire run of the first season."
+        ]
+      },
+      {
+        "h": "Cast Reflections on the Twist",
+        "p": [
+          "Stars Sienna Miller and Dominic West have spoken out about the trajectory of their characters and the shocking nature of the finale's big twist. Their real-life chemistry helped elevate the visceral impact of the on-screen hostility.",
+          "The actors embraced the complexity of playing characters who were willing to go to such extreme lengths to destroy each other throughout the divorce proceedings."
+        ]
+      },
+      {
+        "h": "Looking Ahead to Season 2",
+        "p": [
+          "Even as the first season wraps up its primary narrative threads, fans can take comfort in the confirmation that War will return for a second season. The renewal guarantees that the dramatic fallout from the finale will be thoroughly explored.",
+          "Viewers are left anticipating how the dynamics between the legal firms and the principal characters will shift when the series makes its eventual comeback."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "The Sky drama War concluded its first season with an episode 8 finale that settled the bitter divorce between Carla Duvall and Morgan Henderson. Stars Sienna Miller and Dominic West broke down the dramatic courtroom conclusion, while the series has already been confirmed for a second season."
+        ]
+      }
+    ],
+    "facts": [
+      "War is a Sky drama series.",
+      "The season one finale is episode 8.",
+      "Carla Duvall is played by Sienna Miller.",
+      "Morgan Henderson is played by Dominic West.",
+      "The rival law firms in the show are Cathcarts and Taylor & Byrne."
+    ],
+    "entities": {
+      "people": [
+        "Sienna Miller",
+        "Dominic West",
+        "Carla Duvall",
+        "Morgan Henderson"
+      ],
+      "titles": [
+        "War"
+      ]
+    },
+    "keywords": [
+      "War",
+      "Sienna Miller",
+      "Dominic West",
+      "Carla Duvall",
+      "Morgan Henderson"
+    ],
+    "images": [],
+    "published": "2026-11-21T22:19:26Z"
+  },
+  "1kuu4n6": {
+    "id": "1kuu4n6",
+    "type": "news",
+    "headline": "Anuv Jain Makes Music Video Debut with Tu Keh De Toh for Call Me Bae Season 2",
+    "dek": "Popular singer-songwriter Anuv Jain has dropped his latest track Tu Keh De Toh for Prime Video series Call Me Bae Season 2, marking his first OTT collaboration and music video appearance alongside Ananya Panday.",
+    "body": [
+      {
+        "h": "The Release of Tu Keh De Toh",
+        "p": [
+          "Singer-songwriter Anuv Jain has released his brand-new track titled Tu Keh De Toh. The song serves as a musical addition to the upcoming streaming series Call Me Bae Season 2 on Prime Video.",
+          "This release marks a significant milestone for the artist, as it represents his very first collaboration with an OTT series and his debut appearance in a music video."
+        ]
+      },
+      {
+        "h": "First Look at the Kochi Concert",
+        "p": [
+          "Before the official release, Anuv gave fans a special preview of the unreleased track during his live concert performance in Kochi.",
+          "Clips from the live event circulated widely across social media platforms, building anticipation among listeners who waited for the full track to drop."
+        ]
+      },
+      {
+        "h": "Behind the Track's Creation",
+        "p": [
+          "Anuv Jain took complete creative charge of the song, writing, composing, singing, and producing the track alongside co-producer Rishab Joshi.",
+          "Lyrically, the song explores the hesitation individuals feel when trying to articulate their true emotions and waiting for someone else to initiate the conversation."
+        ]
+      },
+      {
+        "h": "Artist Reflections on the Launch",
+        "p": [
+          "Reflecting on the early response in Kochi, Anuv expressed gratitude for the positive energy and love the audience showed before the song was even officially out.",
+          "He shared that seeing listeners connect with the unreleased version made the experience of sharing the final project even more exciting for him."
+        ]
+      },
+      {
+        "h": "Ananya Panday's Experience",
+        "p": [
+          "Lead actress Ananya Panday, who reprises her role as Bae in the series, expressed admiration for Anuv's music and his relatable songwriting style.",
+          "She noted that she instantly connected with Tu Keh De Toh and described sharing the music video space with the singer as a memorable experience."
+        ]
+      },
+      {
+        "h": "About Call Me Bae Season 2",
+        "p": [
+          "Call Me Bae Season 2 is scheduled to premiere globally on Prime Video on December 17. The eight-episode comedy-drama is created by Ishita Moitra and directed by Collin D'Cunha.",
+          "The upcoming season features the protagonist embarking on a career journey with her own news show while navigating shifts in her personal life."
+        ]
+      },
+      {
+        "h": "Cast and Production Details",
+        "p": [
+          "The returning cast features Ananya Panday alongside Vir Das, Gurfateh Pirzada, Varun Sood, Vihaan Samat, Muskkaan Jaferi, Niharika Lyra Dutt, Lisa Mishra, and Mini Mathur, with Shruti Haasan joining the ensemble.",
+          "The series is backed by Dharmatic Entertainment and will stream in India and international territories."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Singer-songwriter Anuv Jain has released his new track Tu Keh De Toh for Prime Video's Call Me Bae Season 2, marking his first OTT collaboration and music video debut alongside Ananya Panday. The comedy-drama series is produced by Dharmatic Entertainment and is set to premiere globally on December 17."
+        ]
+      }
+    ],
+    "facts": [
+      "Anuv Jain released the new track Tu Keh De Toh for Prime Video's Call Me Bae Season 2.",
+      "The release marks Anuv Jain's first OTT series collaboration and music video debut.",
+      "Anuv Jain performed the unreleased song at his Kochi concert before the official release on Friday.",
+      "Tu Keh De Toh was written, composed, sung, and produced by Anuv Jain, with additional production by Rishab Joshi.",
+      "Call Me Bae Season 2 is set to premiere on Prime Video on December 17.",
+      "The eight-episode comedy-drama is created by Ishita Moitra and directed by Collin D'Cunha.",
+      "The series is produced by Dharmatic Entertainment."
+    ],
+    "entities": {
+      "people": [
+        "Anuv Jain",
+        "Ananya Panday",
+        "Rishab Joshi",
+        "Ishita Moitra",
+        "Collin D'Cunha",
+        "Gurfateh Pirzada",
+        "Vihaan Samat",
+        "Vir Das",
+        "Varun Sood",
+        "Muskkaan Jaferi",
+        "Niharika Lyra Dutt",
+        "Lisa Mishra",
+        "Mini Mathur",
+        "Shruti Haasan"
+      ],
+      "titles": [
+        "Call Me Bae",
+        "Tu Keh De Toh"
+      ]
+    },
+    "keywords": [
+      "Call Me Bae Season 2",
+      "Anuv Jain Tu Keh De Toh",
+      "Ananya Panday Call Me Bae",
+      "Anuv Jain music video debut"
+    ],
+    "images": [
+      {
+        "url": "https://cdn-english.zeenews.com/sites/default/files/2026/11/20/7124-anuv-jain.png",
+        "caption": "Anuv Jain Makes Music Video Debut with Tu Keh De Toh for Call Me Bae Season 2",
+        "source": "Zee News — Entertainment"
+      }
+    ],
+    "published": "2026-11-21T22:19:26Z"
+  },
+  "4bqedy": {
+    "id": "4bqedy",
+    "type": "news",
+    "headline": "David Fincher Discusses Directing ‘Cliff Booth’ and Editing Quentin Tarantino’s Script",
+    "dek": "After removing 60 pages from Quentin Tarantino’s original screenplay, David Fincher explains how he tightened the dialogue, expanded Elizabeth Debicki’s role, and preserved every filmed scene.",
+    "body": [
+      {
+        "h": "Handling Tarantino's Lengthy Writing Style",
+        "p": [
+          "Quentin Tarantino is well known for crafting massive screenplays, often exceeding 165 pages and traditionally avoiding brevity. When David Fincher stepped up to direct ‘The Further Mis-Adventures Of Cliff Booth’, he inherited an extensive 230-page script that required substantial streamlining before production could even begin.",
+          "The sheer volume of text presented a unique challenge for any filmmaker, demanding careful choices about what to keep and what to adjust to fit a manageable cinematic runtime without losing the distinct voice of the original writing."
+        ]
+      },
+      {
+        "h": "Trimming Pages and Refining the Runtime",
+        "p": [
+          "Fincher previously disclosed that he successfully cut 60 pages from the initial screenplay to shape the project into a workable shooting draft. However, the process of tightening the narrative did not stop at the preliminary script stage.",
+          "During post-production and editing, the filmmaker continued to look for ways to streamline the pacing, ensuring that the final feature maintained a brisk and engaging momentum for audiences."
+        ]
+      },
+      {
+        "h": "Preserving Every Filmed Scene",
+        "p": [
+          "Despite the aggressive cuts made during the writing phase, Fincher revealed a surprising detail about the assembly of the movie during a recent Los Angeles screening. He stated that he did not end up cutting a single scene from the footage he actually shot.",
+          "Instead of deleting entire sequences on the editing floor, the director focused his efforts on pacing the material internally, keeping all narrative beats intact while managing how the scenes played out on screen."
+        ]
+      },
+      {
+        "h": "Compressing Lengthy Dialogue",
+        "p": [
+          "Rather than removing whole blocks of narrative, Fincher concentrated heavily on dialogue compression. He worked to tighten the extensive conversations written by Tarantino, speeding up the cadence between characters.",
+          "This method allowed the project to retain all of its scripted story beats while significantly reducing the time spent lingering on individual verbal exchanges, resulting in a punchier cinematic delivery."
+        ]
+      },
+      {
+        "h": "Expanding Key Roles Like Elizabeth Debicki",
+        "p": [
+          "Alongside the structural adjustments to the screenplay and dialogue, the production also involved deliberate character work. Notably, Elizabeth Debicki saw her role expanded within the narrative framework of the film.",
+          "This enhancement gave more depth to her character's presence on screen, balancing the overarching action and stylistic choices with strong supporting performances."
+        ]
+      },
+      {
+        "h": "Insights From the Los Angeles Screening",
+        "p": [
+          "The details regarding Fincher's editing process came to light during a special Los Angeles screening of the film. The post-screening conversation offered attendees a rare look behind the scenes of the production.",
+          "Actor Jason Bateman moderated the discussion, prompting the director to share specific anecdotes about navigating Tarantino's notorious writing habits and bringing the unique project to the big screen."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "David Fincher discussed how he handled Quentin Tarantino's massive 230-page script for 'The Further Mis-Adventures Of Cliff Booth' by cutting 60 pages and compressing lengthy dialogue. During a Los Angeles screening moderated by Jason Bateman, the director noted that while he streamlined conversations and expanded Elizabeth Debicki's role, he ultimately did not remove a single filmed scene."
+        ]
+      }
+    ],
+    "facts": [
+      "Quentin Tarantino wrote a 230-page screenplay for The Further Mis-Adventures Of Cliff Booth",
+      "David Fincher cut 60 pages from the initial script",
+      "Fincher did not cut a single scene from the version he shot",
+      "Elizabeth Debicki's role was expanded",
+      "Jason Bateman moderated a Los Angeles screening of the film"
+    ],
+    "entities": {
+      "people": [
+        "David Fincher",
+        "Quentin Tarantino",
+        "Elizabeth Debicki",
+        "Jason Bateman"
+      ],
+      "titles": [
+        "The Further Mis-Adventures Of Cliff Booth",
+        "Cliff Booth"
+      ]
+    },
+    "keywords": [
+      "Cliff Booth film",
+      "David Fincher Cliff Booth",
+      "Quentin Tarantino script",
+      "Elizabeth Debicki"
+    ],
+    "images": [
+      {
+        "url": "https://cdn.theplaylist.net/wp-content/uploads/2026/11/20155440/david-fincher-CLIFF-BOOTH-Production-Notes-FINAL-9.jpg",
+        "caption": "David Fincher Discusses Directing ‘Cliff Booth’ and Editing Quentin Tarantino’s Script",
+        "source": "The Playlist"
+      }
+    ],
+    "published": "Sat, 21 Nov 2026 21:51:18 +0000"
   }
 };
