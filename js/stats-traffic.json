@@ -1,39 +1,39 @@
 {
   "connected": true,
-  "generated": "2026-11-21T02:58:38Z",
+  "generated": "2026-11-21T04:00:32Z",
   "realtime": {
-    "active_users": 1
+    "active_users": 0
   },
   "today": {
-    "users": 7,
-    "pageviews": 8,
-    "sessions": 7,
-    "avg_session_seconds": 15.0
+    "users": 11,
+    "pageviews": 11,
+    "sessions": 11,
+    "avg_session_seconds": 10.8
   },
   "last7": {
-    "users": 3151,
-    "pageviews": 3241,
-    "sessions": 3178,
-    "avg_session_seconds": 8.3
+    "users": 3155,
+    "pageviews": 3244,
+    "sessions": 3147,
+    "avg_session_seconds": 8.6
   },
   "top_pages": [
     {
       "path": "/person",
       "title": "Actor & Filmmaker Profile | FlickAtlas",
-      "views": 1417,
-      "avg_time_seconds": 3.7
+      "views": 1419,
+      "avg_time_seconds": 4.1
     },
     {
       "path": "/person",
       "title": "Actor & Filmmaker Profiles | FlickAtlas",
-      "views": 857,
-      "avg_time_seconds": 2.9
+      "views": 858,
+      "avg_time_seconds": 3.2
     },
     {
       "path": "/",
       "title": "Bollywood, World Cinema & Box Office | FlickAtlas",
       "views": 86,
-      "avg_time_seconds": 262.0
+      "avg_time_seconds": 264.3
     },
     {
       "path": "/box-office",
@@ -82,14 +82,14 @@
     {
       "source": "(direct)",
       "medium": "(none)",
-      "sessions": 3053,
-      "users": 3009
+      "sessions": 2982,
+      "users": 3012
     },
     {
       "source": "(not set)",
       "medium": "(not set)",
-      "sessions": 294,
-      "users": 294
+      "sessions": 137,
+      "users": 137
     },
     {
       "source": "google",
@@ -131,7 +131,7 @@
     },
     {
       "country": "Vietnam",
-      "users": 153
+      "users": 154
     },
     {
       "country": "Colombia",
@@ -149,7 +149,7 @@
   "devices": [
     {
       "device": "desktop",
-      "users": 3136
+      "users": 3140
     },
     {
       "device": "mobile",

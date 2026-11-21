@@ -12901,6 +12901,37 @@
         }
       }
     },
+    "1505644": {
+      "2": {
+        "date": "2026-11-20",
+        "extras": {
+          "occupancy": {
+            "sources": {
+              "overseas-backfill": 37.1
+            },
+            "value": 37.1
+          },
+          "overseas": {
+            "crore": 2.5,
+            "currency": "USD",
+            "date": "2026-11-20",
+            "date_disagreed": false,
+            "scope": "overseas_gross",
+            "sources": {
+              "overseas-backfill": 2.5
+            },
+            "value": 264131
+          },
+          "shows": {
+            "sources": {
+              "overseas-backfill": 1400
+            },
+            "value": 1400
+          }
+        },
+        "india": false
+      }
+    },
     "1515692": {
       "1": {
         "ai_first": false,

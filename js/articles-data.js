@@ -176628,10 +176628,10 @@ window.FA_ARTICLES = {
       ]
     },
     "keywords": [
-      "Grand Theft Auto VI",
-      "Grand Theft Auto VI Game Awards",
-      "GTA VI nominations",
-      "Game of the Year nominees"
+      "Grand Theft Auto VI Game Awards nominations",
+      "Grand Theft Auto VI eight nods",
+      "Grand Theft Auto VI Game of the Year",
+      "GTA VI presales Game Awards"
     ],
     "images": [
       {
@@ -176718,10 +176718,10 @@ window.FA_ARTICLES = {
       ]
     },
     "keywords": [
-      "Sunil Lahri Ramayan",
-      "Ranbir Kapoor Ramayana Part 1",
-      "Sunil Lahri comments",
-      "Varun Grover Ramayana"
+      "Sunil Lahri Ranbir Kapoor Ramayana",
+      "Sunil Lahri entitlement debate Ramayan",
+      "Ramayan 1987 cast Nitesh Tiwari adaptation",
+      "Sunil Lahri Lakshman Ramayan remarks"
     ],
     "images": [
       {
@@ -176833,11 +176833,10 @@ window.FA_ARTICLES = {
       ]
     },
     "keywords": [
-      "Howard Lee exits Skydance",
-      "Skydance Global Cable Media",
-      "Channing Dungey cable structure",
-      "Howard Lee Discovery TLC",
-      "Skydance Television Animation"
+      "Howard Lee departs Skydance",
+      "Skydance Global Cable Media Channing Dungey",
+      "Warner Bros Discovery Paramount Global cable networks",
+      "Howard Lee Discovery departure"
     ],
     "images": [
       {
@@ -176937,11 +176936,10 @@ window.FA_ARTICLES = {
       ]
     },
     "keywords": [
-      "Ramayana box office",
-      "Ramayana Day 13 collection",
-      "Ramayana IMDb ranking",
-      "Nitesh Tiwari Ramayana",
-      "Ranbir Kapoor Yash Ramayana"
+      "Ramayana box office Rs 1483 crore",
+      "Ramayana Nitesh Tiwari global milestone",
+      "Ramayana outranks The Odyssey IMDb",
+      "Ramayana Ranbir Kapoor Sai Pallavi"
     ],
     "images": [
       {
@@ -177046,10 +177044,10 @@ window.FA_ARTICLES = {
       ]
     },
     "keywords": [
-      "Mookuthi Amman 2 box office",
-      "Nayanthara Mookuthi Amman 2 collection",
-      "Sundar C film earnings",
-      "Mookuthi Amman 2 day 12 box office"
+      "Mookuthi Amman 2 box office collection day 12",
+      "Nayanthara Mookuthi Amman 2 sharp decline",
+      "Mookuthi Amman 2 Sundar C ticket sales",
+      "Mookuthi Amman 2 domestic markets"
     ],
     "images": [
       {
@@ -177151,10 +177149,10 @@ window.FA_ARTICLES = {
       ]
     },
     "keywords": [
-      "Bouma box office collection",
-      "Sagar Surya Bouma thriller",
-      "Bouma Malayalam movie day 6",
-      "Bouma sequel announcement"
+      "Bouma box office day 6",
+      "Sagar Surya Bouma horror thriller",
+      "Bouma crosses Rs 5.68 crore",
+      "Bouma Malayalam thriller collection"
     ],
     "images": [
       {
@@ -177243,10 +177241,10 @@ window.FA_ARTICLES = {
       ]
     },
     "keywords": [
-      "Scene box office collection",
-      "Suriya Naslen Scene movie",
-      "Scene day 12 worldwide earnings",
-      "Scene surpasses Vishwanath and Sons"
+      "Suriya Naslen Scene movie box office",
+      "Scene crosses Rs 252 crore worldwide",
+      "Suriya starrer Scene day 12",
+      "Scene and Vishwanath and Sons"
     ],
     "images": [
       {
@@ -177333,10 +177331,10 @@ window.FA_ARTICLES = {
       ]
     },
     "keywords": [
-      "Avengers Doomsday",
       "Avengers Doomsday advance booking India",
-      "Robert Downey Jr. Doctor Doom",
-      "Anthony and Joe Russo Avengers"
+      "Avengers Doomsday ticket sales frenzy",
+      "Avengers Doomsday theatrical premiere India",
+      "Avengers Doomsday advance tickets"
     ],
     "images": [
       {
@@ -177424,10 +177422,10 @@ window.FA_ARTICLES = {
       ]
     },
     "keywords": [
-      "Harshvardhan Rane Land Rover",
-      "Deepak Mukut gift to Harshvardhan Rane",
-      "Sanam Teri Kasam re-release",
-      "Sanam Teri Kasam 2"
+      "Sanam Teri Kasam producer Deepak Mukut",
+      "Harshvardhan Rane luxury car Land Rover",
+      "Sanam Teri Kasam sequel campaign",
+      "Harshvardhan Rane Sanam Teri Kasam"
     ],
     "images": [
       {
@@ -177529,10 +177527,10 @@ window.FA_ARTICLES = {
       ]
     },
     "keywords": [
-      "Obsession Netflix streaming",
-      "Curry Barker Obsession movie",
-      "Obsession horror film 500 million",
-      "Obsession box office earnings"
+      "Obsession horror movie Netflix United States",
+      "Curry Barker Obsession streaming",
+      "Obsession movie Netflix release",
+      "Obsession box office milestones"
     ],
     "images": [
       {
@@ -177635,10 +177633,10 @@ window.FA_ARTICLES = {
       ]
     },
     "keywords": [
-      "Gondhal film",
-      "Santosh Davakhar",
-      "India Oscar entry",
-      "Ramayana Rise of a Legend"
+      "Gondhal India official Oscar entry",
+      "Santosh Davakhar Gondhal Marathi film",
+      "Gondhal 99th Academy Awards",
+      "Santosh Davakhar Oscar entry"
     ],
     "images": [
       {
@@ -177737,11 +177735,10 @@ window.FA_ARTICLES = {
       ]
     },
     "keywords": [
-      "Avengers Doomsday",
-      "Robert Downey Jr Doctor Doom",
-      "Avengers Doomsday rating",
-      "Avengers Doomsday runtime",
-      "Chris Evans Steve Rogers"
+      "Avengers Doomsday official rating runtime",
+      "Avengers Doomsday box office advance bookings India",
+      "Avengers Doomsday PG-13 content warnings",
+      "Avengers Doomsday December release"
     ],
     "images": [
       {
@@ -177857,10 +177854,10 @@ window.FA_ARTICLES = {
       ]
     },
     "keywords": [
-      "Harry Shum Jr",
-      "Jenna Johnson",
-      "Dancing With the Stars",
-      "DWTS Season 35 finale"
+      "Dancing With the Stars Harry Shum Jr elimination",
+      "Jenna Johnson Dancing With the Stars semi-finals",
+      "Dancing With the Stars Season 35 surprise",
+      "Harry Shum Jr and Jenna Johnson sent home"
     ],
     "images": [
       {
@@ -177966,10 +177963,10 @@ window.FA_ARTICLES = {
       ]
     },
     "keywords": [
-      "Only Murders in London",
-      "Only Murders in the Building Season 6",
-      "Steve Martin Martin Short Selena Gomez",
-      "Only Murders in London trailer release"
+      "Only Murders in London Season 6 trailer",
+      "Only Murders in London Selena Gomez Steve Martin",
+      "Only Murders in London premiere date",
+      "Only Murders in London Meryl Streep"
     ],
     "images": [
       {
@@ -178055,11 +178052,10 @@ window.FA_ARTICLES = {
       ]
     },
     "keywords": [
-      "Patrick Mahomes",
-      "Brittany Mahomes",
-      "baby number four",
-      "gender reveal",
-      "Kansas City Chiefs"
+      "Patrick and Brittany Mahomes gender reveal",
+      "Brittany Mahomes baby no 4 son",
+      "Patrick Mahomes baby family",
+      "Patrick and Brittany Mahomes expecting"
     ],
     "images": [
       {
@@ -206401,5 +206397,376 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Sat, 21 Nov 2026 01:53:50 +0000"
+  },
+  "106hlp": {
+    "id": "106hlp",
+    "type": "news",
+    "headline": "Guy Ritchie Crime Thriller Loses Top Streaming Spot After Lengthy Run",
+    "dek": "Following a prolonged period at the peak of the domestic Starz charts, the latest feature from filmmaker Guy Ritchie has finally been dethroned.",
+    "body": [
+      {
+        "h": "The Streaming Reign Comes to an End",
+        "p": [
+          "The latest cinematic venture directed by Guy Ritchie has officially relinquished its hold on the primary streaming position.",
+          "After maintaining dominance atop the domestic Starz leaderboard for over two months, the feature has finally dropped to second place."
+        ]
+      },
+      {
+        "h": "Theatrical Struggles and Home Video Strategy",
+        "p": [
+          "In a pattern mirroring several other motion pictures helmed by the director over the past half-decade, this specific title faced severe challenges during its initial theatrical exhibition.",
+          "Rather than relying on box office numbers alone, projects from this filmmaker frequently use their theatrical windows primarily to build awareness for subsequent home video and digital distribution outlets."
+        ]
+      },
+      {
+        "h": "Star-Studded Cast and Financial Performance",
+        "p": [
+          "The project brought the director back together with multiple performers he had collaborated with previously, including Eiza González, Jake Gyllenhaal, and Henry Cavill.",
+          "Despite the recognizable faces, the production encountered significant box office headwinds, pulling in approximately $27 million globally against an estimated production budget of $70 million."
+        ]
+      },
+      {
+        "h": "Domestic Earnings and Historic Lows",
+        "p": [
+          "Out of the total global earnings, only a small fraction came from domestic audiences in the United States, bringing in roughly $5.7 million.",
+          "These figures marked the lowest overall theatrical earnings for a film by this director in more than twenty years."
+        ]
+      },
+      {
+        "h": "Audience Reception Versus Critic Scores",
+        "p": [
+          "Critical reception upon release was generally mixed, leaving the production holding a modest critical approval rating on major review aggregator platforms.",
+          "Conversely, viewer sentiment proved far more favorable, reflected by a significantly higher audience score that demonstrated strong appreciation among home viewers."
+        ]
+      },
+      {
+        "h": "Future Projects and Television Slate",
+        "p": [
+          "Amidst the shifting fortunes of his recent cinematic releases, the filmmaker continues to maintain an exceptionally packed schedule across both film and television.",
+          "Current television endeavors involve multiple seasons of various streaming series, including upcoming runs for police and crime dramas distributed across major platforms like Prime Video, Netflix, and Paramount+."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Guy Ritchie's recent crime thriller has lost its number one spot on the domestic Starz streaming chart after holding the top position for over two months.",
+          "Despite struggling significantly at the box office with low global earnings and mixed critical reviews, the movie found redemption on streaming before finally being replaced by Jurassic World."
+        ]
+      }
+    ],
+    "facts": [
+      "The movie spent more than two months atop the domestic Starz leaderboard.",
+      "The film grossed around $27 million worldwide.",
+      "The production budget was reported at $70 million.",
+      "Domestic earnings from the United States totaled $5.7 million.",
+      "The critics' score on Rotten Tomatoes is 53% with an 82% audience score.",
+      "The cast includes Eiza González, Jake Gyllenhaal, and Henry Cavill."
+    ],
+    "entities": {
+      "people": [
+        "Guy Ritchie",
+        "Eiza González",
+        "Jake Gyllenhaal",
+        "Henry Cavill",
+        "Rohan Naahar",
+        "Francois Ozon",
+        "David Fincher",
+        "Ivan Atkinson",
+        "Dave Caplan",
+        "John Friedberg"
+      ],
+      "titles": [
+        "In the Grey",
+        "Jurassic World",
+        "The Ministry of Ungentlemanly Warfare",
+        "Fountain of Youth",
+        "The Covenant",
+        "Young Sherlock",
+        "MobLand",
+        "The Gentlemen",
+        "Capital"
+      ]
+    },
+    "keywords": [
+      "Guy Ritchie In the Grey",
+      "In the Grey streaming Starz",
+      "Henry Cavill Jake Gyllenhaal movie",
+      "In the Grey box office flop"
+    ],
+    "images": [
+      {
+        "url": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2025/06/guy-ritchie-2.jpg?w=1200&amp;h=675&amp;fit=crop",
+        "caption": "Guy Ritchie Crime Thriller Loses Top Streaming Spot After Lengthy Run",
+        "source": "Collider"
+      }
+    ],
+    "published": "Sat, 21 Nov 2026 02:45:12 GMT"
+  },
+  "19awbmh": {
+    "id": "19awbmh",
+    "type": "news",
+    "headline": "Anupam Kher Addresses Online Net Worth Rumors and Explains His Choice of Rented Living",
+    "dek": "Veteran actor Anupam Kher opens up about exaggerated online wealth estimates, sharing his reasons for living in a rented apartment and recalling past real estate decisions.",
+    "body": [
+      {
+        "h": "Challenging Exaggerated Net Worth Figures",
+        "p": [
+          "Veteran Bollywood actor Anupam Kher recently spoke out against unverified internet reports placing his personal wealth between Rs 400 crore and Rs 500 crore. During a candid appearance on a digital interview program, the actor firmly dismissed these financial estimates as completely inaccurate. He noted that these inflated figures often create a skewed public perception of his actual financial standing.",
+          "According to Kher, the online estimates are so wildly exaggerated that they frequently become a source of amusement among his personal friends. He remarked that he does not possess even a tenth of the massive sums being cited across various web search results and social media discussions."
+        ]
+      },
+      {
+        "h": "The Choice to Live in Rented Accommodation",
+        "p": [
+          "Explaining his lifestyle choices, Kher revealed that he made a deliberate decision roughly a decade ago to reside in a rented apartment. By letting go of property ownership responsibilities, he felt a strong sense of personal liberation. His brother also shares this preference, opting to live in a rented home rather than purchasing multiple properties.",
+          "The shift in his living arrangements coincided with a significant period in his personal life. Around the time he sold his Mumbai property to fellow actor Alia Bhatt, his wife Kirron Kher assumed office as a Member of Parliament and relocated to Chandigarh, leaving him with little reason to acquire another permanent residence in the city."
+        ]
+      },
+      {
+        "h": "Maintaining Personal Comfort Without Property Stress",
+        "p": [
+          "Kher clarified that his preference for renting does not stem from any desire to compromise on his standard of living. He continues to frequent upscale restaurants, travel comfortably, and stay at premium hospitality locations. His decision is strictly centered on eliminating the stress and administrative burdens associated with managing real estate.",
+          "The actor emphasized that true personal development involves recognizing the limits of material accumulation. Reflecting on his early days in the film industry, when he earned a modest sum of Rs 10,000 for his acclaimed film 'Saransh', he believes that greater professional success should not automatically compel a person to hoard unnecessary assets."
+        ]
+      },
+      {
+        "h": "Buying a Home for His Mother in Shimla",
+        "p": [
+          "Despite his general aversion to owning multiple properties, Kher made a notable exception for his mother. After spending approximately six0 years living in rented homes, she expressed a heartfelt desire to finally own a house in Shimla. Although her initial request was for a modest one-bedroom space, the actor chose to purchase an expansive eight-bedroom house complete with a hall.",
+          "Kher described this acquisition as a symbolic gesture meant to honor his mother's long-held wish rather than a shift in his personal philosophy. He wanted to reward her patience and set a meaningful example for his family."
+        ]
+      },
+      {
+        "h": "Avoiding Family Disputes and Material Burdens",
+        "p": [
+          "The veteran actor also shared observations regarding common domestic conflicts, particularly those involving property inheritance disputes among families. He noted that witnessing older parents struggle with litigation or pressure from relatives over wills reinforced his commitment to keeping his own life free from material complications.",
+          "Kher believes that maintaining a lighter footprint of possessions allows an individual to experience greater peace of mind. By avoiding unnecessary property ownership, he aims to safeguard his family from future disputes and maintain harmonious relationships."
+        ]
+      },
+      {
+        "h": "Recent Professional Endeavors",
+        "p": [
+          "On the career front, Kher continues to take on notable acting assignments within the Indian film industry. Most recently, he lent his voice to the character of Jatayu in Nitesh Tiwari's anticipated 2026 mythological epic 'Ramayana: Part 1'.",
+          "His character plays a dramatic role in the narrative's climax, engaging in a fierce battle against Ravana in a valiant attempt to rescue Sita, adding another high-profile project to his extensive filmography."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Anupam Kher has publicly dismissed online claims suggesting his net worth is between Rs 400 crore and Rs 500 crore, clarifying that his actual wealth is significantly lower. He explained that his choice to live in rented accommodation for the past ten years frees him from property-related stress, following the sale of his Mumbai home to Alia Bhatt. Additionally, the actor discussed his recent voice role in 'Ramayana: Part 1' and his philosophy on avoiding material burdens."
+        ]
+      }
+    ],
+    "facts": [
+      "Anupam Kher's net worth was falsely estimated online between Rs 400 crore and Rs 500 crore.",
+      "Anupam Kher sold his Mumbai property to Alia Bhatt.",
+      "Anupam Kher earned Rs 10,000 for his film 'Saransh'.",
+      "Anupam Kher's mother lived in rented houses for 60 years before he bought her an eight-bedroom house in Shimla.",
+      "Anupam Kher voiced Jatayu in Nitesh Tiwari's 2026 mythological epic 'Ramayana: Part 1'."
+    ],
+    "entities": {
+      "people": [
+        "Anupam Kher",
+        "Alia Bhatt",
+        "Kirron Kher",
+        "Nitesh Tiwari"
+      ],
+      "titles": [
+        "Saransh",
+        "Ramayana: Part 1"
+      ]
+    },
+    "keywords": [
+      "Anupam Kher net worth",
+      "Anupam Kher Alia Bhatt property",
+      "Ramayana Part 1 Anupam Kher",
+      "Anupam Kher rented apartment"
+    ],
+    "images": [
+      {
+        "url": "https://static.toiimg.com/thumb/msid-136042877,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "caption": "Anupam Kher Addresses Online Net Worth Rumors and Explains His Choice of Rented Living",
+        "source": "Times of India — Entertainment"
+      }
+    ],
+    "published": "2026-11-21T07:33:52+05:30"
+  },
+  "k4xkah": {
+    "id": "k4xkah",
+    "type": "news",
+    "headline": "MAMAMOO Member Moon Byul Sells Out Solo Birthday Fan Meeting Tickets in Five Minutes",
+    "dek": "Moon Byul of MAMAMOO proved her immense ticket-selling power by clearing all available seats for her upcoming solo birthday fan meeting in record time.",
+    "body": [
+      {
+        "h": "Rapid Ticket Sellout",
+        "p": [
+          "MAMAMOO member Moon Byul has once again demonstrated her remarkable popularity and commercial drawing power. All tickets for her highly anticipated solo fan meeting vanished completely in a mere five minutes after the fan club presale kicked off.",
+          "This lightning-fast sellout highlights the devoted backing she continuously attracts from her loyal supporters, cementing her status as a powerhouse performer capable of driving massive engagement instantly."
+        ]
+      },
+      {
+        "h": "Event Details and Venue",
+        "p": [
+          "The special birthday gathering is officially titled BDAY OFF THE RECORD : 1222 and is scheduled to be held on December 22. The venue chosen for this intimate celebration is XSCALA, located in the Jung-gu district of Seoul.",
+          "Fans who managed to secure their passes during the brief presale window will gather at the venue to celebrate the artist's special day in person."
+        ]
+      },
+      {
+        "h": "The Meaning Behind the Title",
+        "p": [
+          "The moniker BDAY OFF THE RECORD : 1222 was carefully chosen to reflect the personal nature of the gathering. It hints at an experience that strips away the usual high-energy stage persona.",
+          "Attendees can anticipate a much more relaxed, candid environment where the performer can interact freely with her supporters, offering a fresh perspective away from typical concert settings."
+        ]
+      },
+      {
+        "h": "Strategic Poster Reveal",
+        "p": [
+          "Ahead of the ticket launch, the official promotional poster for the event was shared across MAMAMOO's designated social media networks. The release was strategically timed to match the singer's identity.",
+          "The poster went live precisely at 12:22 PM, cleverly referencing the calendar date of her birth on December 22 to build anticipation among the fandom."
+        ]
+      },
+      {
+        "h": "Connecting Beyond Music",
+        "p": [
+          "While fans are accustomed to witnessing her intense charisma and musical talent on stage, this event aims to foster a deeper, more personal dialogue. The gathering provides a unique platform for mutual appreciation.",
+          "Organizers and the artist herself designed the schedule to ensure memorable interactions, giving followers a rare chance to connect on a human level outside of standard promotional cycles."
+        ]
+      },
+      {
+        "h": "Sustained Fandom Support",
+        "p": [
+          "The unprecedented speed at which the venue filled up underscores the unwavering dedication of her following. Such milestones reinforce the strong bond shared between the idol and her community.",
+          "This successful ticketing event serves as yet another testament to her enduring influence within the entertainment sphere as both a group member and a solo entity."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Moon Byul of MAMAMOO sold out all tickets for her solo birthday fan meeting, titled BDAY OFF THE RECORD : 1222, within five minutes of the fan club presale opening on November 20. The event is set to take place on December 22 at XSCALA in Jung-gu, Seoul, offering a relaxed atmosphere for the artist to connect personally with her supporters."
+        ]
+      }
+    ],
+    "facts": [
+      "Moon Byul is a member of MAMAMOO.",
+      "Tickets for the fan meeting sold out in approximately five minutes.",
+      "The fan club presale opened on November 20, 2026.",
+      "The event is titled BDAY OFF THE RECORD : 1222.",
+      "The fan meeting will take place on December 22.",
+      "The venue is XSCALA in Jung-gu, Seoul.",
+      "The official poster was released at 12:22 PM."
+    ],
+    "entities": {
+      "people": [
+        "Moon Byul"
+      ],
+      "titles": [
+        "BDAY OFF THE RECORD : 1222",
+        "MAMAMOO"
+      ]
+    },
+    "keywords": [
+      "Moon Byul",
+      "MAMAMOO",
+      "BDAY OFF THE RECORD : 1222",
+      "Moon Byul fan meeting"
+    ],
+    "images": [],
+    "published": "Fri, 20 Nov 2026 21:00:00 EST"
+  },
+  "1v3glhw": {
+    "id": "1v3glhw",
+    "type": "news",
+    "headline": "Charlie Puth To Make India Debut With Ellie Goulding At Mumbai Festival",
+    "dek": "American pop star Charlie Puth will perform in India for the first time alongside British singer Ellie Goulding at the inaugural Johnnie Co. Festival in Mumbai.",
+    "body": [
+      {
+        "h": "The Long-Awaited India Debut",
+        "p": [
+          "Music fans across India are gearing up for a major live entertainment milestone as Grammy-nominated American pop sensation Charlie Puth prepares for his very first concert appearance in the country. Known globally for chart-topping smashes and major collaborations, Puth will headline an upcoming celebration of international and local talent in Mumbai.",
+          "The announcement has generated immense excitement among his massive domestic fan base, marking a significant addition to the country's growing calendar of major global artist tours."
+        ]
+      },
+      {
+        "h": "Event Date And Venue",
+        "p": [
+          "The inaugural edition of the Johnnie Co. Festival is scheduled to take place on February 13, 2027. Organisers have chosen the spacious Mahalaxmi Racecourse in Mumbai as the host venue for the one-day musical extravaganza.",
+          "Production teams are expecting a massive turnout, projecting an audience attendance of over 35,000 music enthusiasts for the landmark evening."
+        ]
+      },
+      {
+        "h": "Star-Studded Lineup Featuring Ellie Goulding",
+        "p": [
+          "Joining Charlie Puth on the international roster is celebrated British singer Ellie Goulding, who will serve as the main supporting act. Goulding brings her own catalogue of major pop hits to the Mumbai stage.",
+          "In addition to the international headliners, the festival will showcase a diverse array of homegrown Indian musical acts, including Kayan, Taba Chake, Mali, and Gini, with further artist announcements expected soon."
+        ]
+      },
+      {
+        "h": "Artist Background And Hit Catalogues",
+        "p": [
+          "Charlie Puth arrives in India on the heels of his latest studio album, Whatever's Clever. He is widely recognised for iconic global tracks such as Attention, We Don't Talk Anymore, and See You Again, cementing his reputation as a four-time Grammy-nominated artiste.",
+          "Co-headliner Ellie Goulding boasts an equally impressive musical background, famous for widespread radio favourites like Love Me Like You Do, Burn, and Lights."
+        ]
+      },
+      {
+        "h": "Artist Quotes And Anticipation",
+        "p": [
+          "Expressing his enthusiasm for the upcoming concert, Charlie Puth shared his thoughts in an official release regarding his connection with local followers.",
+          "He stated that he has heard a great deal about the energy of Indian fans, expressing his eagerness to finally perform live in the country, celebrate the unifying power of music, and share his favourite songs in Mumbai on February 13."
+        ]
+      },
+      {
+        "h": "Ticket Sales And Organiser Details",
+        "p": [
+          "The upcoming festival is being organised by Team Innovation and co-powered by HSBC as part of a broader cultural initiative spanning music, sports, and fashion slated for 2027.",
+          "Tickets will be sold exclusively through BookMyShow, featuring an HSBC pre-sale window on November 23 and 24, 2026, followed by the general public ticket sale opening on November 25, 2026."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Charlie Puth is set to perform his first-ever concert in India at the inaugural Johnnie Co. Festival in Mumbai on February 13, 2027. He will be joined by British singer Ellie Goulding and several Indian artists at the Mahalaxmi Racecourse, with tickets going on sale via BookMyShow starting late November 2026."
+        ]
+      }
+    ],
+    "facts": [
+      "Charlie Puth will perform in India for the first time on February 13, 2027.",
+      "The event is the inaugural Johnnie Co. Festival at the Mahalaxmi Racecourse in Mumbai.",
+      "Ellie Goulding is the main supporting act.",
+      "Tickets go on general sale on November 25, 2026, exclusively via BookMyShow."
+    ],
+    "entities": {
+      "people": [
+        "Charlie Puth",
+        "Ellie Goulding",
+        "Kayan",
+        "Taba Chake",
+        "Mali",
+        "Gini",
+        "Arpita Sarkar"
+      ],
+      "titles": [
+        "Whatever's Clever",
+        "Attention",
+        "We Don't Talk Anymore",
+        "See You Again",
+        "Love Me Like You Do",
+        "Burn",
+        "Lights"
+      ]
+    },
+    "keywords": [
+      "Charlie Puth India debut",
+      "Johnnie Co. Festival Mumbai",
+      "Charlie Puth Ellie Goulding concert",
+      "Johnnie Co. Festival tickets BookMyShow"
+    ],
+    "images": [
+      {
+        "url": "https://images.timesnownews.com/thumb/msid-156542983,thumbsize-215771,width-1280,height-720,resizemode-75/156542983.jpg",
+        "caption": "Charlie Puth To Make India Debut With Ellie Goulding At Mumbai Festival",
+        "source": "Times Now — Entertainment"
+      }
+    ],
+    "published": "2026-11-21T03:51:57Z"
   }
 };
