@@ -1,20 +1,20 @@
 {
   "connected": true,
-  "generated": "2026-11-21T18:53:41Z",
+  "generated": "2026-11-21T20:52:35Z",
   "realtime": {
     "active_users": 0
   },
   "today": {
-    "users": 32,
-    "pageviews": 40,
-    "sessions": 33,
-    "avg_session_seconds": 12.9
+    "users": 0,
+    "pageviews": 0,
+    "sessions": 0,
+    "avg_session_seconds": 0
   },
   "last7": {
-    "users": 3175,
-    "pageviews": 3273,
-    "sessions": 3164,
-    "avg_session_seconds": 8.7
+    "users": 3050,
+    "pageviews": 3042,
+    "sessions": 3029,
+    "avg_session_seconds": 5.3
   },
   "top_pages": [
     {
@@ -32,128 +32,128 @@
     {
       "path": "/",
       "title": "Bollywood, World Cinema & Box Office | FlickAtlas",
-      "views": 89,
-      "avg_time_seconds": 259.5
+      "views": 42,
+      "avg_time_seconds": 67.7
     },
     {
       "path": "/box-office",
       "title": "Box Office Collections: Today, 7-Day & Totals | FlickAtlas",
-      "views": 24,
-      "avg_time_seconds": 20.1
-    },
-    {
-      "path": "/movie",
-      "title": "Movie Details: Cast, Story & Box Office | FlickAtlas",
-      "views": 13,
-      "avg_time_seconds": 11.0
+      "views": 16,
+      "avg_time_seconds": 16.0
     },
     {
       "path": "/ott",
       "title": "OTT Releases: Now Available & Coming Soon | FlickAtlas",
-      "views": 13,
-      "avg_time_seconds": 20.4
+      "views": 11,
+      "avg_time_seconds": 22.8
     },
     {
       "path": "/episode-guides",
       "title": "Pakistani Drama Episode Guides | FlickAtlas",
-      "views": 11,
-      "avg_time_seconds": 9.0
+      "views": 9,
+      "avg_time_seconds": 9.7
     },
     {
       "path": "/most-awaited",
       "title": "Upcoming Movies: Coming Soon Releases | FlickAtlas",
-      "views": 11,
-      "avg_time_seconds": 7.9
+      "views": 9,
+      "avg_time_seconds": 8.8
     },
     {
       "path": "/upcoming",
       "title": "Upcoming Movies & TV Release Dates | FlickAtlas",
-      "views": 11,
+      "views": 9,
       "avg_time_seconds": 7.9
     },
     {
       "path": "/movies",
       "title": "Bollywood, World & Pakistani Movies | FlickAtlas",
-      "views": 10,
-      "avg_time_seconds": 31.6
+      "views": 8,
+      "avg_time_seconds": 32.2
+    },
+    {
+      "path": "/news",
+      "title": "Bollywood & Entertainment News | FlickAtlas",
+      "views": 8,
+      "avg_time_seconds": 6.4
     }
   ],
   "sources": [
     {
       "source": "(direct)",
       "medium": "(none)",
-      "sessions": 2992,
-      "users": 3027
+      "sessions": 2865,
+      "users": 2904
     },
     {
       "source": "(not set)",
       "medium": "(not set)",
-      "sessions": 138,
-      "users": 138
+      "sessions": 136,
+      "users": 136
     },
     {
       "source": "google",
       "medium": "organic",
-      "sessions": 15,
+      "sessions": 16,
       "users": 12
     },
     {
       "source": "search.google.com",
       "medium": "referral",
-      "sessions": 7,
+      "sessions": 2,
       "users": 1
     }
   ],
   "countries": [
     {
       "country": "Brazil",
-      "users": 603
+      "users": 586
     },
     {
       "country": "United States",
-      "users": 522
+      "users": 490
     },
     {
       "country": "Singapore",
-      "users": 473
+      "users": 452
     },
     {
       "country": "Argentina",
-      "users": 195
+      "users": 186
     },
     {
       "country": "Hong Kong",
-      "users": 161
+      "users": 157
     },
     {
       "country": "China",
-      "users": 154
+      "users": 153
     },
     {
       "country": "Vietnam",
-      "users": 154
+      "users": 145
     },
     {
       "country": "Colombia",
-      "users": 143
+      "users": 140
     },
     {
       "country": "Mexico",
-      "users": 129
+      "users": 127
     },
     {
-      "country": "Indonesia",
-      "users": 120
+      "country": "Pakistan",
+      "users": 118
     }
   ],
   "devices": [
     {
       "device": "desktop",
-      "users": 3155
+      "users": 3032
     },
     {
       "device": "mobile",
-      "users": 20
+      "users": 18
     }
   ],
   "per_post": {}

@@ -213933,5 +213933,395 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Sat, 21 Nov 2026 18:30:00 +0000"
+  },
+  "1fhqb99": {
+    "id": "1fhqb99",
+    "type": "news",
+    "headline": "Ramayana: Part 1 Continues Phenomenal Box Office Run",
+    "dek": "An overview of the box office collections, occupancy rates, and regional earnings for Ramayana: Part 1 as it progresses through its theatrical run.",
+    "body": [
+      {
+        "h": "Introduction to the Theatrical Journey",
+        "p": [
+          "The cinematic release Ramayana: Part 1 has continued to capture audience attention, maintaining a strong presence at the box office. Industry trackers and enthusiasts have closely monitored its daily performance as the feature progresses through its theatrical run.",
+          "With ongoing evaluations of early estimates and regional numbers, the feature continues to generate substantial discourse across entertainment circles."
+        ]
+      },
+      {
+        "h": "Hindi Version Occupancy Trends",
+        "p": [
+          "The occupancy rates for the Hindi version of the feature have fluctuated across morning, afternoon, and night shows throughout the weeks. Notable peaks were observed during earlier dates such as day five, which registered an overall occupancy of sixty-seven point six seven percent.",
+          "While weekend slots generally drew larger crowds with higher percentages during evening and night screenings, weekday figures experienced standard adjustments in audience turnout."
+        ]
+      },
+      {
+        "h": "First Week Milestones",
+        "p": [
+          "During its opening week spanning the first eight days, the production accumulated significant figures across multiple language versions. The total earnings for this initial period reached an estimated five hundred sixty-four point seven five crore net in India.",
+          "Out of this impressive total, the Hindi language contribution stood at four hundred thirty-nine point five crore, establishing a strong foundation for the subsequent weeks."
+        ]
+      },
+      {
+        "h": "Second Week Progression",
+        "p": [
+          "As the feature entered its second week, collections maintained a steady flow despite natural weekday dips. The second week closed with a recorded estimate of two hundred ninety-five point seven five crore net domestically.",
+          "The Hindi segment during this second week accounted for two hundred twenty point five crore of the regional split, keeping the momentum alive."
+        ]
+      },
+      {
+        "h": "Multilingual Language Breakdown",
+        "p": [
+          "The feature drew revenues from various regional circuits including Kannada, Telugu, Tamil, and Malayalam alongside the primary Hindi version. On its opening day, the collections were distributed with forty-five crore from Hindi, seven point five crore from Kannada, six crore from Telugu, two point five crore from Tamil, and one point five crore from Malayalam.",
+          "Subsequent days continued to pull contributions from these diverse language markets, reflecting a widespread reach across different states."
+        ]
+      },
+      {
+        "h": "Overall Box Office Verdict and Totals",
+        "p": [
+          "Total earnings up to day seventeen have reached an estimated nine hundred one point seven five crore net within India. When factoring in gross figures and international markets, the worldwide collection stands at an estimated fifteen ninety crore.",
+          "The overseas contribution has been marked at fifty-five point six five million dollars, translating to approximately five hundred twenty-six crore, leading to an official verdict of a hit."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Ramayana: Part 1 has maintained a strong theatrical performance, accumulating substantial box-office collections across multiple language versions up to day seventeen. Backed by steady occupancy rates and robust overseas numbers, the feature has achieved a hit verdict with significant overall earnings."
+        ]
+      }
+    ],
+    "facts": [
+      "Ramayana: Part 1 reached a total net collection of 901.75 crore up to day 17 in India.",
+      "The worldwide collection for Ramayana: Part 1 is estimated at 1590 crore.",
+      "Overseas earnings for the feature stand at 55.65 million dollars.",
+      "The first week total earnings reached 564.75 crore net."
+    ],
+    "entities": {
+      "people": [
+        "Ankur Baruah"
+      ],
+      "titles": [
+        "Ramayana: Part 1"
+      ]
+    },
+    "keywords": [
+      "Ramayana Part 1 box office",
+      "Ramayana Part 1 collection",
+      "Ramayana Part 1 day 18",
+      "Ramayana Part 1 occupancy"
+    ],
+    "images": [
+      {
+        "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEga6s7W_s2hJ1dT6c56gFR5_6Gs_srglXVd_LmIlTW1Ci7g_-WDEimI69NpOET_VOWZq5jZpkcSMrHTURJczsOXylf_WUrFcAqHkKin1fy28iM5f5NPVYNhpnYDwHg18oW1dsVsDCtBGj-w06UntVP0cuc2sYGrbtC63k_HdWln4iXP4fAyEYlqModrksQ/w1600/ramayana-part-1-day-18-box-office-collection.jpg",
+        "caption": "Ramayana: Part 1 Continues Phenomenal Box Office Run",
+        "source": "AddaToday"
+      }
+    ],
+    "published": "2026-11-22T00:39:32.707+05:30"
+  },
+  "4onnrk": {
+    "id": "4onnrk",
+    "type": "news",
+    "headline": "Marvel Star Hayley Atwell Hints at New 'Avengers: Doomsday' Trailer Arriving Soon",
+    "dek": "MCU veteran Hayley Atwell has seemingly let slip that a brand new promotional clip for the upcoming blockbuster Avengers: Doomsday will release on Monday.",
+    "body": [
+      {
+        "h": "Upcoming Release and Scale",
+        "p": [
+          "Marvel Studios is rapidly approaching the release of its massive blockbuster, Avengers: Doomsday, which is scheduled to hit theaters on December 18, 2026. This upcoming installment serves as the fifth major ensemble film in the franchise and promises to elevate the overarching narrative to unprecedented heights.",
+          "The production is set to feature the largest assembly of characters ever seen in a comic book adaptation. Alongside Earth's Mightiest Heroes, viewers will witness the integration of the Fantastic Four, the X-Men, and numerous other surprise appearances throughout the runtime."
+        ]
+      },
+      {
+        "h": "The Return of Robert Downey Jr.",
+        "p": [
+          "One of the most talked-about aspects of this fifth Avengers picture is the return of franchise icon Robert Downey Jr. Instead of reprising his historical role as Tony Stark, he will step into the shoes of the iconic antagonist Victor Von Doom.",
+          "As Doctor Doom, his character serves as the central threat facing the sprawling roster of heroes. Disney and Marvel have amplified marketing efforts to showcase the formidable opposition standing in the villain's path."
+        ]
+      },
+      {
+        "h": "Trailer Leak from Hayley Atwell",
+        "p": [
+          "Excitement reached a new peak following an accidental or early disclosure by MCU star Hayley Atwell. While speaking to fans backstage after a Broadway performance of Much Ado About Nothing, she hinted at promotional developments.",
+          "Atwell mentioned to supporters that a fresh promotional preview would be launching soon, specifically pointing to Monday, November 23. She expressed her enthusiasm to the crowd after having already viewed the upcoming footage."
+        ]
+      },
+      {
+        "h": "Cast and Character Speculation",
+        "p": [
+          "Atwell's comments have naturally fueled speculation about whether her own character, Peggy Carter, might make an appearance in the upcoming feature. Her most recent live-action performance within the franchise occurred in 2022's Doctor Strange in the Multiverse of Madness.",
+          "Other notable additions spotted in promotional materials include Kathryn Newton's Cassie Lang. Fans are also wondering how narrative threads involving legacy characters and family dynamics will factor into the overarching conflict."
+        ]
+      },
+      {
+        "h": "Pre-Sales and Box Office Momentum",
+        "p": [
+          "Even before its official theatrical debut, the film has achieved massive milestones in ticket pre-sales. Reports indicate that advance purchases have already crossed the $150 million mark four weeks prior to opening day.",
+          "This strong financial indicator positions the movie to break records upon arrival. Disney and Marvel continue to maintain high public interest through strategic marketing and teaser spots."
+        ]
+      },
+      {
+        "h": "Production and Creative Team",
+        "p": [
+          "The massive project is guided by directors Anthony and Joe Russo, who return to helm the epic crossover event. The screenplay was penned by writers Stephen McFeely and Michael Waldron.",
+          "Production duties are shared by key studio executives including Kevin Feige, Louis D'Esposito, and Jonathan Schwartz. The feature continues a massive multi-franchise continuity spanning multiple cinematic eras."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "MCU actor Hayley Atwell recently teased the arrival of a new trailer for Avengers: Doomsday during a backstage interaction following a Broadway show. The highly anticipated fifth Avengers movie, directed by Anthony and Joe Russo and starring Robert Downey Jr. as Victor Von Doom, is slated for a December 18, 2026 release."
+        ]
+      }
+    ],
+    "facts": [
+      "Avengers: Doomsday releases on Dec. 18, 2026.",
+      "Ticket pre-sales surpassed $150 million four weeks before release.",
+      "Hayley Atwell hinted at a new trailer dropping on Monday, Nov. 23.",
+      "Robert Downey Jr. plays Victor Von Doom.",
+      "Anthony Russo and Joe Russo are the directors."
+    ],
+    "entities": {
+      "people": [
+        "Hayley Atwell",
+        "Robert Downey Jr.",
+        "Tom Hiddleston",
+        "Kathryn Newton",
+        "Pedro Pascal",
+        "Chris Hemsworth",
+        "Vanessa Kirby",
+        "Stephen McFeely",
+        "Michael Waldron",
+        "Anthony Russo",
+        "Joe Russo",
+        "Kevin Feige",
+        "Louis D'Esposito",
+        "Jonathan Schwartz",
+        "Steve Rogers"
+      ],
+      "titles": [
+        "Avengers: Doomsday",
+        "Much Ado About Nothing",
+        "Doctor Strange in the Multiverse of Madness",
+        "Avengers: Endgame",
+        "Spider-Man: Brand New Day",
+        "Avengers: Secret Wars",
+        "Fantastic Four",
+        "Black Panther",
+        "Thor",
+        "X-Men",
+        "Ray Gunn",
+        "Insidious: Out of the Further"
+      ]
+    },
+    "keywords": [
+      "Avengers: Doomsday trailer",
+      "Hayley Atwell Avengers",
+      "Robert Downey Jr Doctor Doom",
+      "Avengers: Doomsday release date"
+    ],
+    "images": [
+      {
+        "url": "https://static0.moviewebimages.com/wordpress/wp-content/uploads/2026/07/chris-hemsworth-in-avengers-doomsday.png?w=1600&amp;h=900&amp;fit=crop",
+        "caption": "Marvel Star Hayley Atwell Hints at New 'Avengers: Doomsday' Trailer Arriving Soon",
+        "source": "MovieWeb"
+      }
+    ],
+    "published": "Sat, 21 Nov 2026 19:01:10 GMT"
+  },
+  "b3jwhu": {
+    "id": "b3jwhu",
+    "type": "news",
+    "headline": "Why Indian Audiences Are Obsessed With Avengers Doomsday Ahead of Its Release",
+    "dek": "As anticipation builds for December blockbusters, Marvel's upcoming tentpole is shattering advance booking milestones in India, fueled by massive star returns and multi-universe storytelling.",
+    "body": [
+      {
+        "h": "The December Clash of Cinematic Giants",
+        "p": [
+          "As the month of November draws to a close, film enthusiasts are gearing up for a massive wave of high-profile theatrical releases. Among the most anticipated titles generating immense buzz are Shah Rukh Khan's upcoming drama and Marvel's latest blockbuster event. Both Hollywood and Bollywood are poised to dominate the box office, but the competitive landscape indicates a fierce battle for viewer attention.",
+          "While Bollywood fans eagerly await the return of a major superstar after a three-year hiatus, Hollywood spectacle is carving out its own unprecedented path. The impending clash highlights a vibrant entertainment season where local stardom meets colossal international franchises on Indian screens."
+        ]
+      },
+      {
+        "h": "Unprecedented Advance Bookings in India",
+        "p": [
+          "The excitement surrounding the Marvel tentpole has translated into staggering numbers at the Indian ticket counters weeks before its official premiere. Opening its advance ticket window well ahead of schedule, the project immediately broke conventional Hollywood opening records in the region. Including blocked seats, early sales have surged past significant financial milestones within just a few days.",
+          "Industry estimates project that the opening day collections could cross monumental figures upon release, setting a potential benchmark for international titles in the territory. Such massive enthusiasm for a Hollywood project is a rare occurrence in recent years, signaling a renewed appetite for grand cinematic experiences among local moviegoers."
+        ]
+      },
+      {
+        "h": "The Grand Return of Robert Downey Jr.",
+        "p": [
+          "The primary catalyst behind the extraordinary fan frenzy is the highly publicized return of Robert Downey Jr. to the franchise. Having previously met a heroic end in a prior installment, the acclaimed actor is now stepping back into the cinematic universe in a startling antagonist role as a formidable doctor.",
+          "This surprising character shift has electrified comic book enthusiasts and mainstream viewers alike. The prospect of seeing a beloved former hero transform into the overarching menace of the narrative has driven much of the online and offline anticipation."
+        ]
+      },
+      {
+        "h": "A Massive Ensemble of Heroes and Cameos",
+        "p": [
+          "Beyond the headline-grabbing casting choice, the narrative boasts an extensive roster of fan-favorite characters appearing together. Audiences can expect to witness the new superhero team uniting alongside legacy figures, including the original patriotic leader and members of various mutant and futuristic teams.",
+          "Furthermore, persistent rumors of cross-franchise appearances and fierce confrontations between masked vigilantes have amplified the speculation. These overlapping storylines are designed to converge as characters from different realities attempt to preserve their collapsing multiverses."
+        ]
+      },
+      {
+        "h": "Directorial Comeback and Multiverse Stakes",
+        "p": [
+          "Directing duties for the feature are handled by the acclaimed filmmakers responsible for past milestone entries in the superhero saga. Their return to the director's chair serves as another major selling point for fans who associate their leadership with past cinematic triumphs.",
+          "The overarching plot focuses on the collapse of the multiverse, forcing diverse factions to put aside differences and fight for survival. This high-stakes premise provides a narrative justification for the unprecedented gathering of cinematic icons on a single screen."
+        ]
+      },
+      {
+        "h": "Competition With Bollywood Stardom",
+        "p": [
+          "While the Hollywood juggernaut commands immense traction, it shares the December spotlight with major domestic offerings. The Bollywood superstar's upcoming venture carries immense expectations, driven by dedicated fandoms and the actor's proven ability to command massive box office returns.",
+          "Despite this formidable domestic competition, the international blockbuster continues to hold a distinct edge in advanced ticket sales and public discourse. The simultaneous arrival of these titles promises one of the most competitive exhibition periods in recent memory."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Marvel's upcoming release is generating historic advance booking numbers in India, outperforming typical Hollywood benchmarks ahead of its December arrival. The overwhelming audience excitement is primarily driven by the return of a major actor as a villain, alongside a vast ensemble of heroes and the reunion of key directors."
+        ]
+      }
+    ],
+    "facts": [
+      "The article was published on November 21, 2026.",
+      "Shah Rukh Khan's film King is scheduled for release on December 24.",
+      "Avengers Doomsday is scheduled to release in India on December 17.",
+      "Avengers Doomsday collected over 40 crore in four days of advance bookings including blocked tickets.",
+      "Robert Downey Jr. is returning to the MCU as Dr. Doom."
+    ],
+    "entities": {
+      "people": [
+        "Shah Rukh Khan",
+        "Robert Downey Jr.",
+        "Steve Rogers",
+        "Tobey Maguire",
+        "Anthony Russo"
+      ],
+      "titles": [
+        "Avengers Doomsday",
+        "King",
+        "Endgame",
+        "Spider-Man",
+        "Deadpool",
+        "Wolverine"
+      ]
+    },
+    "keywords": [
+      "Avengers Doomsday Indian advance booking",
+      "Avengers Doomsday release date India",
+      "Robert Downey Jr Doctor Doom Marvel",
+      "Shah Rukh Khan King December release"
+    ],
+    "images": [
+      {
+        "url": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202611/6b0016d5c614e-king-to-get-tough-competition-from-avengers-doomsday-204556553-16x9.jpg",
+        "caption": "Why Indian Audiences Are Obsessed With Avengers Doomsday Ahead of Its Release",
+        "source": "Aaj Tak — Entertainment"
+      }
+    ],
+    "published": "2026-11-21T20:52:26Z"
+  },
+  "1skiadg": {
+    "id": "1skiadg",
+    "type": "news",
+    "headline": "Taylor Sheridan Crime Hit Tulsa King Scores Half a Billion Streams",
+    "dek": "Paramount+ series Tulsa King reached 504 million minutes viewed in a single week according to Nielsen ratings, defying typical weekly-release trends as its fourth season continues.",
+    "body": [
+      {
+        "h": "Streaming Dominance for Paramount+",
+        "p": [
+          "While Netflix regularly anchors weekly streaming charts with large subscriber pools and binge-drop releases, smaller platforms occasionally carve out notable spaces. Paramount+ has maintained strong audience engagement through content created by Taylor Sheridan, keeping competitive numbers on domestic charts over long stretches.",
+          "Recent Nielsen data highlights this sustained interest, showing that major network titles continue to draw significant viewership even when competing against massive library releases from dominant market leaders."
+        ]
+      },
+      {
+        "h": "Nielsen Chart Success",
+        "p": [
+          "The crime drama Tulsa King secured 504 million minutes watched across its 33 available episodes during the week of November 2 to November 8. This figure placed the series in fourth position overall on Nielsen's Original Streaming Top 10 chart.",
+          "Notably, the show stood out as the only non-Netflix scripted drama positioned in the upper half of the rankings. This performance is especially unique because the series airs on a weekly release schedule, which typically disperses viewership figures compared to complete season drops."
+        ]
+      },
+      {
+        "h": "Chart Placement and Competitors",
+        "p": [
+          "During the same tracking week, Love Is Blind topped the chart with 691 million minutes, followed by Nobody Wants This at 559 million and The Diplomat at 545 million. Disney+'s VisionQuest and Prime Video's The Terminal List trailed closely behind Tulsa King.",
+          "The three leading Netflix titles benefited from full-season binge releases and a substantially larger user base, making the strong placement of a weekly platform series even more distinct."
+        ]
+      },
+      {
+        "h": "Sustained Platform Performance",
+        "p": [
+          "Beyond its Nielsen charting, the series has maintained a firm grip on Paramount+'s domestic top 10 list for more than 400 consecutive days according to FlixPatrol tracking metrics. This prolonged streak recently allowed the show to surpass South Park and Tom Hardy's MobLand to capture the platform's top spot.",
+          "This trajectory runs counter to standard television patterns where streaming dramas typically shed audience numbers as they age into later seasons. Instead, the series continues to expand its footprint."
+        ]
+      },
+      {
+        "h": "Sylvester Stallone and Dwight Manfredi",
+        "p": [
+          "At the center of the show's ongoing appeal is Sylvester Stallone in the role of mobster Dwight Manfredi. The fish-out-of-water premise has successfully sustained four seasons by blending dark crime drama, action, and a degree of loose humor.",
+          "Critics have also warmed to the production over time, resulting in an 86% approval rating on Rotten Tomatoes for its fourth season. The character's enduring appeal remains the primary engine driving these sustained viewership milestones."
+        ]
+      },
+      {
+        "h": "Upcoming Spinoff and Future Strategy",
+        "p": [
+          "Paramount+ has demonstrated strong confidence in the franchise's future, renewing the main show for a fifth season before the fourth season even premiered. Additionally, a spinoff titled Frisco King, starring Samuel L. Jackson, is scheduled to launch on December 18.",
+          "The debut of the spinoff coincides directly with the current season's finale. This deliberate scheduling choice is designed to channel the established weekly audience straight into the new expansion series."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Taylor Sheridan's crime drama Tulsa King logged 504 million minutes viewed across its 33 available episodes for the week of Nov. 2 to 8, securing fourth place on Nielsen's Original Streaming Top 10. The series continues to perform strongly on Paramount+ as its fourth season airs weekly, backed by a planned franchise expansion featuring Samuel L. Jackson."
+        ]
+      }
+    ],
+    "facts": [
+      "Tulsa King logged 504 million minutes viewed for the week of Nov. 2 to 8",
+      "The series has 33 available episodes",
+      "Tulsa King ranked fourth place overall on Nielsen's Original Streaming Top 10",
+      "Love Is Blind led the week with 691 million minutes",
+      "Nobody Wants This had 559 million minutes",
+      "The Diplomat had 545 million minutes",
+      "Tulsa King has been on Paramount+'s domestic top 10 for more than 400 consecutive days",
+      "Season 4 of Tulsa King sits at 86% on Rotten Tomatoes",
+      "Season 5 of Tulsa King was renewed before season 4 premiered",
+      "The spinoff Frisco King arrives Dec. 18",
+      "Season 2 premiere drew 21.1 million global viewers"
+    ],
+    "entities": {
+      "people": [
+        "Taylor Sheridan",
+        "Sylvester Stallone",
+        "Tom Hardy",
+        "Samuel L. Jackson"
+      ],
+      "titles": [
+        "Tulsa King",
+        "Love Is Blind",
+        "Nobody Wants This",
+        "The Diplomat",
+        "VisionQuest",
+        "The Terminal List",
+        "South Park",
+        "MobLand",
+        "Frisco King"
+      ]
+    },
+    "keywords": [
+      "Tulsa King",
+      "Taylor Sheridan",
+      "Sylvester Stallone",
+      "Frisco King"
+    ],
+    "images": [
+      {
+        "url": "https://static0.moviewebimages.com/wordpress/wp-content/uploads/2026/06/taylor-sheridan-tulsa-king-streaming-success-action-thriller-paramount-1.jpg?w=1600&amp;h=900&amp;fit=crop",
+        "caption": "Taylor Sheridan Crime Hit Tulsa King Scores Half a Billion Streams",
+        "source": "MovieWeb"
+      }
+    ],
+    "published": "Sat, 21 Nov 2026 20:38:44 GMT"
   }
 };
