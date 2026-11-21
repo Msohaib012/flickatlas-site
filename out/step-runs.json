@@ -942,29 +942,6 @@
    {
     "step": "apply_auto",
     "category": "Trending News",
-    "run_at": "2026-11-20T01:52:12Z",
-    "run_id": "44656519970",
-    "status": "success",
-    "checked": {
-     "candidates": 16,
-     "detail": "draft articles + box-office rows from out/gemini-batch.json"
-    },
-    "changed": {
-     "added": [
-      "Ramayana Box Office Day 15: Nitesh Tiwari's Epic Nears Rs 1,600 Crore With 3.4 Crore Tickets Sold",
-      "Lanterns Sets 2027 Physical Media Release Amid DCU Leadership Changes",
-      "Bachelor Party Deux Box Office Collection Day 1: Naslen and Kunchacko Boban Starrer Earns Rs 2.55 Cr Net",
-      "Vijay Antony's Wife Shares Moving Details About His Life After Their Daughter's Passing"
-     ],
-     "updated": [],
-     "count": 8,
-     "detail": "+4 articles, +0 box-office rows, 4 rows updated"
-    },
-    "reason": null
-   },
-   {
-    "step": "apply_auto",
-    "category": "Trending News",
     "run_at": "2026-11-20T02:31:18Z",
     "run_id": "44661270477",
     "status": "success",
@@ -1487,6 +1464,24 @@
      "updated": [],
      "count": 8,
      "detail": "+4 articles, +0 box-office rows, 4 rows updated"
+    },
+    "reason": null
+   },
+   {
+    "step": "apply_auto",
+    "category": "Trending News",
+    "run_at": "2026-11-21T01:00:53Z",
+    "run_id": "44846889606",
+    "status": "success",
+    "checked": {
+     "candidates": 15,
+     "detail": "draft articles + box-office rows from out/gemini-batch.json"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 3,
+     "detail": "+0 articles, +0 box-office rows, 3 rows updated"
     },
     "reason": null
    }
@@ -3122,29 +3117,6 @@
    {
     "step": "convert_news",
     "category": "Trending News",
-    "run_at": "2026-11-20T02:00:40Z",
-    "run_id": "44656519970",
-    "status": "success",
-    "checked": {
-     "candidates": 600,
-     "detail": "feed entries from out/queue.json"
-    },
-    "changed": {
-     "added": [
-      "Ramayana Box Office Day 15: Nitesh Tiwari's Epic Nears Rs 1,600 Crore With 3.4 Crore Tickets Sold",
-      "Lanterns Sets 2027 Physical Media Release Amid DCU Leadership Changes",
-      "Vijay Antony's Wife Shares Moving Details About His Life After Their Daughter's Passing",
-      "Bachelor Party Deux Box Office Collection Day 1: Naslen and Kunchacko Boban Starrer Earns Rs 2.55 Cr Net"
-     ],
-     "updated": [],
-     "count": 4,
-     "detail": "api-news.json 600 items, api-trends.json 12 items"
-    },
-    "reason": null
-   },
-   {
-    "step": "convert_news",
-    "category": "Trending News",
     "run_at": "2026-11-20T02:41:22Z",
     "run_id": "44661270477",
     "status": "success",
@@ -3670,6 +3642,24 @@
      "detail": "api-news.json 600 items, api-trends.json 12 items"
     },
     "reason": null
+   },
+   {
+    "step": "convert_news",
+    "category": "Trending News",
+    "run_at": "2026-11-21T01:00:53Z",
+    "run_id": "44846889606",
+    "status": "success",
+    "checked": {
+     "candidates": 600,
+     "detail": "feed entries from out/queue.json"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 0,
+     "detail": "api-news.json 600 items, api-trends.json 12 items"
+    },
+    "reason": "no-new-data"
    }
   ],
   "episode_guides": [
@@ -8477,5 +8467,5 @@
    }
   ]
  },
- "updated_at": "2026-11-21T00:56:12Z"
+ "updated_at": "2026-11-21T01:00:53Z"
 }
