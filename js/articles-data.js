@@ -212029,5 +212029,425 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Sat, 21 Nov 2026 15:00:00 +0000"
+  },
+  "1p74nci": {
+    "id": "1p74nci",
+    "type": "news",
+    "headline": "When Calls the Heart Season 14 Trailer Sparks Fan Frenzy Over Elizabeth and Nathan's Wedding",
+    "dek": "Hallmark Channel has released a brand-new wedding-focused trailer for When Calls the Heart Season 14, sending the fandom into high anticipation for the upcoming January premiere.",
+    "body": [
+      {
+        "h": "The Long-Awaited Hope Valley Wedding",
+        "p": [
+          "The residents of Hope Valley are buzzing with activity as preparations ramp up for a monumental celebration. Following the dramatic conclusion of Season 13, which featured a heartfelt proposal during the 2026 TV schedule, dedicated viewers have eagerly awaited further developments. Fan-favorite couple Elizabeth Thornton and Nathan Grant are finally set to tie the knot, marking a major milestone in the long-running Hallmark drama.",
+          "The romance between Elizabeth and Nathan has been a central focus for quite some time, developing after a complex love triangle that also involved Lucas. Having navigated numerous emotional hurdles both together and apart, the couple's impending union has brought immense joy to the show's loyal viewer base."
+        ]
+      },
+      {
+        "h": "First Look Trailer Ignites Fan Excitement",
+        "p": [
+          "Hallmark Channel recently surprised the fandom by dropping an official trailer for Season 14, centering entirely on the much-anticipated nuptials and the town's festive preparations. Glimpses from the teaser show both characters looking content and ready to embark on this new chapter. The promotional release has successfully escalated excitement levels across social media platforms.",
+          "Devoted followers, often known as Hearties, quickly flooded the comments section of the official Instagram video to express their overwhelming enthusiasm. Many referred to the early look as the ultimate holiday present, noting that the teaser arrived just in time to fuel anticipation ahead of the new year."
+        ]
+      },
+      {
+        "h": "Navigating the Wait Until January",
+        "p": [
+          "While the release of the promotional footage provided a welcome glimpse into the upcoming episodes, it has also intensified the yearning for the show's return. Since the Season 13 finale concluded in March, the hiatus has felt particularly lengthy for viewers eager to see how the storyline unfolds.",
+          "Despite the challenging wait, fans remain deeply appreciative of any sneak peeks provided by the network. The consensus among the community is that the promotional clip has successfully heightened the hype, making the countdown to the premiere even more thrilling."
+        ]
+      },
+      {
+        "h": "The Return of Abigail Stanton",
+        "p": [
+          "In addition to the central wedding plotline, Season 14 brings another major cause for celebration with the official return of Abigail Stanton, played by Lori Loughlin. The character's comeback was first teased at the very end of the Season 13 finale, marking a significant return to Hope Valley.",
+          "Loughlin's departure during Season 6 had left a notable absence in the series, making her reintegration into the community a heavily discussed topic among viewers. The confirmation of her recurring presence has generated an extra layer of excitement for the upcoming batch of episodes."
+        ]
+      },
+      {
+        "h": "Production Wrap and Premiere Details",
+        "p": [
+          "Production on the fourteenth season is currently wrapping up, aligning with the show's traditional timeline of returning early in the calendar year. The combination of an impending wedding and familiar faces returning to the screen has set high expectations for what producers have in store.",
+          "Viewers won't have to wait much longer to witness the festivities unfold on screen. When Calls the Heart Season 14 is officially scheduled to premiere on Sunday, January 3 at 8 p.m. ET on the Hallmark Channel."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Hallmark Channel has released a new trailer for When Calls the Heart Season 14, highlighting the upcoming wedding of Elizabeth Thornton and Nathan Grant alongside the return of Abigail Stanton. The preview has generated massive excitement among fans as production wraps up for the new season. The show is set to premiere on Sunday, January 3 at 8 p.m. ET."
+        ]
+      }
+    ],
+    "facts": [
+      "When Calls the Heart Season 14 premieres on Sunday, January 3 at 8 p.m. ET on Hallmark Channel.",
+      "Elizabeth Thornton is played by Erin Krakow.",
+      "Nathan Grant is played by Kevin McGarry.",
+      "Lucas is played by Chris McNally.",
+      "Abigail Stanton is played by Lori Loughlin.",
+      "Lori Loughlin previously exited the show during Season 6."
+    ],
+    "entities": {
+      "people": [
+        "Erin Krakow",
+        "Kevin McGarry",
+        "Chris McNally",
+        "Lori Loughlin",
+        "Megan Behnke",
+        "Ben Rosenbaum",
+        "Mariska Hargitay",
+        "Erin Napier",
+        "Luke Grimes"
+      ],
+      "titles": [
+        "When Calls the Heart",
+        "Full House",
+        "Law Order",
+        "Home Town",
+        "Grey s Anatomy",
+        "The X Files",
+        "Grand Theft Auto VI",
+        "Survivor",
+        "Friends",
+        "Batman",
+        "James Bond",
+        "Smoke Signals"
+      ]
+    },
+    "keywords": [
+      "When Calls the Heart Season 14",
+      "Elizabeth and Nathan wedding",
+      "When Calls the Heart trailer",
+      "Lori Loughlin return",
+      "Hallmark Channel Sunday January 3"
+    ],
+    "images": [
+      {
+        "url": "https://cdn.mos.cms.futurecdn.net/yWdppXCmrywcyEUau9j2Q8-2000-80.jpg",
+        "caption": "When Calls the Heart Season 14 Trailer Sparks Fan Frenzy Over Elizabeth and Nathan's Wedding",
+        "source": "CinemaBlend"
+      }
+    ],
+    "published": "Sat, 21 Nov 2026 16:20:59 +0000"
+  },
+  "1umeaxe": {
+    "id": "1umeaxe",
+    "type": "news",
+    "headline": "Daayra Dominates OTT Space In Debut Week With Impressive Netflix Numbers",
+    "dek": "Meghna Gulzar's directorial venture Daayra has surpassed several high-profile franchise sequels on Netflix during its opening week.",
+    "body": [
+      {
+        "h": "Strong Opening Week Performance",
+        "p": [
+          "Meghna Gulzar's film Daayra has secured a massive 3.2 million views on Netflix during its debut week. This impressive viewership figure allowed the project to outperform several major star-studded and franchise-backed titles on the streaming platform.",
+          "Among the prominent releases left behind in opening week viewership were Shahid Kapoor's Cocktail 2 with 2.9 million views, Ajay Devgn's Dhamaal 4 at 2.6 million, Ayushmann Khurrana's Pati Patni Aur Woh Do drawing 1.8 million, and Diljit Dosanjh's Main Wapas Aaunga with 1.6 million views."
+        ]
+      },
+      {
+        "h": "Rapid Global And Domestic Trends",
+        "p": [
+          "The digital release quickly captured audience attention by claiming the number one trending spot in India within twenty-four hours of its premiere on Netflix.",
+          "Building on its domestic success, the feature also broke into the global Top 10 rankings at position number nine, managing to trend across a total of fourteen different countries."
+        ]
+      },
+      {
+        "h": "Acclaimed Lead Cast And Direction",
+        "p": [
+          "Headlined by Kareena Kapoor Khan and Prithviraj Sukumaran, the drama has drawn considerable praise for its lead performances. Audiences have specifically commended Kareena for her nuanced character portrayal and Prithviraj for his impactful screen presence.",
+          "The project is directed and co-written by Meghna Gulzar. Viewers and critics have frequently noted how the film's intense style matches the thought-provoking impact of her previous acclaimed works."
+        ]
+      },
+      {
+        "h": "Ensemble Supporting Cast",
+        "p": [
+          "Alongside the main leads, the movie features a robust supporting ensemble. The cast includes recognized actors such as Jitendra Joshi, Kanwaljit Singh, Achint Kaur, Anuja Sathe, Seema Azmi, and Biswapati Sarkar.",
+          "This diverse group of performers contributes significantly to the narrative depth and the grounded nature of the story."
+        ]
+      },
+      {
+        "h": "Inspiration And Production Background",
+        "p": [
+          "The narrative of the movie draws its foundation from real-life incidents. It is produced collaboratively by Junglee Pictures and Pen Studios.",
+          "This release marks another creative partnership between director Meghna Gulzar and Junglee Pictures, following their earlier successful collaborations on acclaimed projects like Talvar and Raazi."
+        ]
+      },
+      {
+        "h": "Audience Reactions And Social Media Buzz",
+        "p": [
+          "Social media platforms like X have been flooded with discussions, debates, and positive reviews regarding the plot and direction. Viewers have noted that the feature successfully ignites meaningful conversations among audiences.",
+          "Some commentators even drew direct comparisons to the filmmaker's earlier work Talvar, describing that past title as an absolute masterpiece while celebrating the brilliance of this new release."
+        ]
+      },
+      {
+        "h": "Significance Of Franchise-Free Success",
+        "p": [
+          "A notable aspect of the film's digital milestone is that it achieved these viewing numbers without the benefit of an established franchise, sequel recognition, or conventional star-driven marketing positioning.",
+          "This performance serves as an encouraging sign for the project, proving its capacity to resonate with viewers well beyond its theatrical run through pure storytelling strength."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Meghna Gulzar's Daayra achieved 3.2 million views on Netflix during its debut week, outperforming major franchise sequels like Cocktail 2, Dhamaal 4, Pati Patni Aur Woh Do, and Main Wapas Aaunga.",
+          "Starring Kareena Kapoor Khan and Prithviraj Sukumaran, the film rapidly claimed the top trending spot in India and entered the global Top 10 across 14 countries."
+        ]
+      }
+    ],
+    "facts": [
+      "Daayra achieved 3.2 million views in its Netflix debut week.",
+      "Cocktail 2 garnered 2.9 million views.",
+      "Dhamaal 4 achieved 2.6 million views.",
+      "Pati Patni Aur Woh Do recorded 1.8 million views.",
+      "Main Wapas Aaunga brought in 1.6 million views.",
+      "Daayra trended at No. 1 in India within 24 hours of its Netflix release.",
+      "The film entered the global Top 10 at number 9, trending in 14 countries.",
+      "The article was published on Nov 21, 2026."
+    ],
+    "entities": {
+      "people": [
+        "Srijita Sen",
+        "Meghna Gulzar",
+        "Kareena Kapoor Khan",
+        "Prithviraj Sukumaran",
+        "Shahid Kapoor",
+        "Ajay Devgn",
+        "Ayushmann Khurrana",
+        "Diljit Dosanjh",
+        "Jitendra Joshi",
+        "Kanwaljit Singh",
+        "Achint Kaur",
+        "Anuja Sathe",
+        "Seema Azmi",
+        "Biswapati Sarkar",
+        "Salman Khan",
+        "Shah Rukh Khan"
+      ],
+      "titles": [
+        "Daayra",
+        "Cocktail 2",
+        "Dhamaal 4",
+        "Pati Patni Aur Woh Do",
+        "Main Wapas Aaunga",
+        "Talvar",
+        "Raazi",
+        "Maatrubhumi",
+        "Eetha",
+        "King"
+      ]
+    },
+    "keywords": [
+      "Daayra Netflix debut",
+      "Kareena Kapoor Khan Daayra",
+      "Prithviraj Sukumaran film",
+      "Meghna Gulzar Daayra",
+      "Daayra OTT views"
+    ],
+    "images": [
+      {
+        "url": "https://filmfare.wwmindia.com/content/2026/nov/daayra1795264846.jpg",
+        "caption": "Daayra Dominates OTT Space In Debut Week With Impressive Netflix Numbers",
+        "source": "Filmfare"
+      }
+    ],
+    "published": "2026-11-21T18:14:59+05:30"
+  },
+  "mhxn5j": {
+    "id": "mhxn5j",
+    "type": "news",
+    "headline": "How Hulu Successfully Adapted R.L. Stine's Classic Horror Books Into an 18-Episode Series",
+    "dek": "Exploring how the streaming era redefined young adult book adaptations through Hulu's serialized take on R.L. Stine's famous Goosebumps novels.",
+    "body": [
+      {
+        "h": "The Streaming Evolution of Young Adult Book Adaptations",
+        "p": [
+          "The pipeline bringing young adult and children's literature to television has achieved remarkable strength throughout the streaming age. Projects that previously struggled or failed to find their footing as feature films have discovered a second life as serialized television streaming shows.",
+          "While historical attempts on the big screen often stumbled, modern platforms provide the runtime and structure necessary to do justice to beloved source material. This shift allows complex worlds to breathe and develop characters far beyond the limitations of a standard two-hour movie format."
+        ]
+      },
+      {
+        "h": "Past Adaptation Hurdles for Classic Series",
+        "p": [
+          "Several notable literary properties experienced rocky roads before finding success on television. The 2004 feature film adaptation of Lemony Snicket's A Series of Unfortunate Events starring Jim Carrey failed to progress past the third book, whereas Netflix later produced a complete and faithful recreation of all thirteen books.",
+          "Similarly, the 2010 film adaptation of Percy Jackson & the Olympians: The Lightning Thief along with its sequel faced widespread panning. In contrast, the subsequent Disney+ episodic television series progressed smoothly toward its third season."
+        ]
+      },
+      {
+        "h": "The Distinctive Approach of Hulu's Goosebumps",
+        "p": [
+          "R.L. Stine's literary universe received a definitive treatment through Hulu's 18-episode Goosebumps television series. Running across two seasons between 2023 and 2025, the show departed from the episodic, monster-of-the-week anthology format of the 1995 television adaptation.",
+          "Instead, the Hulu iteration maintained a serialized narrative across each season, shifting storylines exclusively between seasons. In the opening season, a cohort of five high school students investigated the tragic death of a teenager that occurred thirty years prior."
+        ]
+      },
+      {
+        "h": "Navigating Season Two and Maintaining Creepy Tones",
+        "p": [
+          "During the second season, twin characters named Cece and Devin embarked on a vacation alongside their father, ultimately stumbling into an abandoned fort housing a decades-old mystery.",
+          "The production successfully captured the genuine vibe of the original literary works. Although marketed primarily toward younger readers, the source material contains unsettling elements and dark endings that the television series embraced without softening its frightening tone."
+        ]
+      },
+      {
+        "h": "Balancing Original Plots With Classic Book References",
+        "p": [
+          "Rather than executing a strict, beat-for-beat recreation, the series wove an original overarching plot around the existing stories. Every episode was titled after one of the books and incorporated specific monsters and iconic moments into the narrative.",
+          "This structural choice helped solve a fundamental issue regarding adaptation length. Because individual books in the series are short, a direct one-for-one translation would struggle to fill television runtimes, whereas the added original plot padded out the storytelling to make the scares far more effective."
+        ]
+      },
+      {
+        "h": "Cancellation and Viewership Statistics",
+        "p": [
+          "Despite boasting an extensive lineup of source material with sixty-two official books alongside various spin-off series, the television show was canceled in August 2025. Disney refrained from providing a public explanation for the cancellation decision.",
+          "Industry observers pointed toward potential budgetary factors as the primary cause, especially given that viewing metrics were remarkably strong. The project accumulated a combined total of seventy-five million hours viewed across its two seasons in the United States."
+        ]
+      },
+      {
+        "h": "Future Prospects and Potential Revival",
+        "p": [
+          "Following the cancellation announcement, studio partners indicated plans to shop the television series to alternative broadcast and streaming outlets. This openness leaves an opening for the possibility that a third season could eventually materialize.",
+          "As streaming platforms continue to reevaluate their content pipelines, the legacy of this specific adaptation remains a notable example of how to successfully translate short-form horror literature into a longer television format."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Hulu's 18-episode Goosebumps series successfully adapted R.L. Stine's classic books by utilizing a serialized format and original plots rather than strict beat-for-beat translations. Despite strong viewership numbers totaling 75 million hours watched across two seasons, Disney canceled the show in August 2025, prompting Sony to explore shopping the series to other outlets."
+        ]
+      }
+    ],
+    "facts": [
+      "Hulu had an 18-episode fantasy series titled Goosebumps.",
+      "Goosebumps ran for two seasons between 2023 and 2025.",
+      "The series was canceled in August 2025.",
+      "The show had a combined 75 million hours viewed across two seasons in the United States.",
+      "There are 62 books in the official Goosebumps lineup.",
+      "Lemony Snicket's A Series of Unfortunate Events starring Jim Carrey came out in 2004.",
+      "Percy Jackson the Olympians: The Lightning Thief and its sequel Sea of Monsters were released in 2010.",
+      "Goosebumps 2: Haunted Halloween was released in 2018."
+    ],
+    "entities": {
+      "people": [
+        "Zach Moser",
+        "Jim Carrey",
+        "R.L. Stine",
+        "Jayden Bartels",
+        "Sam McCarthy",
+        "Kevin Murphy",
+        "Nicholas Stoller",
+        "Rob Letterman",
+        "David Schwimmer"
+      ],
+      "titles": [
+        "Goosebumps",
+        "Lemony Snicket's A Series of Unfortunate Events",
+        "Percy Jackson the Olympians: The Lightning Thief",
+        "Percy Jackson: Sea of Monsters",
+        "Goosebumps 2: Haunted Halloween"
+      ]
+    },
+    "keywords": [
+      "Goosebumps Hulu series",
+      "Goosebumps book adaptation",
+      "R.L. Stine Goosebumps TV show",
+      "Goosebumps canceled Disney"
+    ],
+    "images": [
+      {
+        "url": "https://static0.srcdn.com/wordpress/wp-content/uploads/2026/11/goosebumps_3tzqax-1.jpg?w=1600&amp;h=900&amp;fit=crop",
+        "caption": "How Hulu Successfully Adapted R.L. Stine's Classic Horror Books Into an 18-Episode Series",
+        "source": "Screen Rant"
+      }
+    ],
+    "published": "Sat, 21 Nov 2026 16:30:20 GMT"
+  },
+  "134ob12": {
+    "id": "134ob12",
+    "type": "news",
+    "headline": "Chris Evans Corrects Fan Calling Him Captain America Ahead Of Avengers: Doomsday",
+    "dek": "Chris Evans went viral for clarifying that Anthony Mackie is the current Captain America, insisting he is now just Steve Rogers.",
+    "body": [
+      {
+        "h": "The Viral Fan Interaction",
+        "p": [
+          "Chris Evans recently grabbed significant attention online following an interaction with a fan at an event titled A Starting Point. Dressed in a dark suit and glasses, the actor was addressed by someone in the audience as Captain America, a title he famously held for years within the Marvel Cinematic Universe.",
+          "Instead of accepting the superhero moniker, Evans immediately stepped in to correct the attendee. He made his current stance explicitly clear, noting that Anthony Mackie now holds the shield and that he is solely Steve Rogers."
+        ]
+      },
+      {
+        "h": "Upholding Anthony Mackie's Mantle",
+        "p": [
+          "This public correction is part of a long-standing pattern of support from Evans toward his former co-star. Ever since Steve Rogers passed the iconic shield to Sam Wilson at the conclusion of Avengers: Endgame, Evans has consistently championed Mackie as the new face of the hero.",
+          "When reports surfaced regarding a fourth Captain America film in 2022, Evans publicly endorsed Mackie on social media. His repeated acknowledgments highlight a strong mutual respect for the transition of the superhero identity within the franchise."
+        ]
+      },
+      {
+        "h": "Social Media Reactions And Fan Sentiment",
+        "p": [
+          "The viral video sparked widespread and affectionate commentary across various social media platforms. While many followers lauded Evans for gracefully yielding the title to Mackie, others confessed they would continue calling Evans Cap out of pure habit.",
+          "Several online users found his remark entirely fitting for his former persona, with one comparing the title to a presidential honor that stays with a person for life. Meanwhile, emotional fans flooded timelines with declarations celebrating him as their definitive Steve Rogers."
+        ]
+      },
+      {
+        "h": "Previous Comments On Returning To The Role",
+        "p": [
+          "Before this recent event, Evans addressed the possibility of reprising his role during an appearance on the Disney D23 Podcast. He admitted that returning to play Captain America would feel unsettling because the character's narrative journey as the superhero has already concluded.",
+          "Despite those creative hesitations, the actor is indeed slated to step back into the Marvel Cinematic Universe, shifting the focus entirely back to how the upcoming crossover film will handle his character's evolution."
+        ]
+      },
+      {
+        "h": "Return In Avengers: Doomsday",
+        "p": [
+          "Evans' connection to the franchise has surged back into the headlines following confirmation of his involvement in Avengers: Doomsday. The upcoming Marvel film is scheduled to hit Indian theatres on December 17, 2026, and will be released more broadly on December 18, 2026.",
+          "Marvel first generated massive excitement in 2025 by releasing a teaser featuring Steve Rogers riding a motorcycle. Notably, promotional materials referred to him strictly by his given name rather than his superhero mantle, a distinction that Anthony Mackie also emphasized after a San Diego Comic-Con panel."
+        ]
+      },
+      {
+        "h": "Directorial Leadership And Plot Expectations",
+        "p": [
+          "Avengers: Doomsday is being directed by Joe and Anthony Russo, bringing back familiar creative leadership to the massive cinematic enterprise. The return of Steve Rogers introduces an extra layer of anticipation for viewers eager to see how the story unfolds.",
+          "While specific plot details remain closely guarded secrets, the movie faces the central challenge of balancing deep nostalgia for the original Avengers team with the presence of newer superheroes, leaving audiences curious about how Evans and Mackie will share the screen."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Chris Evans went viral for politely correcting a fan who addressed him as Captain America, emphasizing that Anthony Mackie now holds the title while he is simply Steve Rogers. The interaction arrives as Evans prepares for his return to the Marvel Cinematic Universe in Avengers: Doomsday, directed by Joe and Anthony Russo and scheduled for release in December 2026."
+        ]
+      }
+    ],
+    "facts": [
+      "Chris Evans attended an event titled A Starting Point dressed in a dark suit and glasses.",
+      "Anthony Mackie plays Captain America / Sam Wilson.",
+      "Chris Evans passed the shield to Sam Wilson at the end of Avengers: Endgame.",
+      "Chris Evans spoke about returning to the role on the Disney D23 Podcast.",
+      "Avengers: Doomsday is directed by Joe and Anthony Russo.",
+      "Avengers: Doomsday is scheduled to release in Indian theatres on December 17, 2026, and globally on December 18, 2026."
+    ],
+    "entities": {
+      "people": [
+        "Chris Evans",
+        "Anthony Mackie",
+        "Steve Rogers",
+        "Sam Wilson",
+        "Joe Russo",
+        "Anthony Russo"
+      ],
+      "titles": [
+        "Avengers: Doomsday",
+        "Avengers: Endgame",
+        "A Starting Point"
+      ]
+    },
+    "keywords": [
+      "Chris Evans Captain America",
+      "Avengers Doomsday",
+      "Anthony Mackie Steve Rogers",
+      "Chris Evans viral video"
+    ],
+    "images": [
+      {
+        "url": "https://images.timesnownews.com/thumb/msid-156546856,thumbsize-164916,width-1280,height-720,resizemode-75/156546856.jpg",
+        "caption": "Chris Evans Corrects Fan Calling Him Captain America Ahead Of Avengers: Doomsday",
+        "source": "Times Now — Entertainment"
+      }
+    ],
+    "published": "2026-11-21T16:56:35Z"
   }
 };
