@@ -211664,5 +211664,370 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Sat, 21 Nov 2026 14:55:49 GMT"
+  },
+  "1b0q4i2": {
+    "id": "1b0q4i2",
+    "type": "news",
+    "headline": "CM Vijay Greets Rajinikanth And MK Stalin At Anirudh Ravichander And Kavya Maran's Wedding Reception",
+    "dek": "Tamil Nadu CM Vijay attended the grand wedding reception of Anirudh Ravichander and Kavya Maran in Chennai, sharing the frame with Rajinikanth and MK Stalin.",
+    "body": [
+      {
+        "h": "Grand Reception in Chennai",
+        "p": [
+          "All eyes were on Tamil Nadu Chief Minister Vijay as he arrived to attend the grand wedding reception of Anirudh Ravichander and Kavya Maran in Chennai on Saturday. The official X account of Sun News shared pictures from the high-profile event, showing CM Vijay presenting a bouquet of flowers to the newlywed couple.",
+          "The celebration brought together prominent figures from the political and cinematic worlds, marking a major social gathering in the region following the couple's recent nuptials."
+        ]
+      },
+      {
+        "h": "A Notable Political and Cinematic Frame",
+        "p": [
+          "One particular photograph from the reception quickly captured widespread attention, featuring CM Vijay sharing the same frame with Superstar Rajinikanth and former Tamil Nadu Chief Minister MK Stalin. Vijay appeared all smiles as he greeted both veterans and posed alongside them for the cameras.",
+          "This interaction offered a notable visual moment for observers of South Indian cinema and politics, highlighting a meeting of major cultural and political powerhouses at the venue."
+        ]
+      },
+      {
+        "h": "Clearing Past Airs and Rumours",
+        "p": [
+          "The gathering also served to put persistent speculation to rest regarding political dynamics. Earlier, following Vijay's victory in the Tamil Nadu elections, rumours circulated suggesting that Rajinikanth was unhappy with the electoral outcome.",
+          "To dispel these claims, Rajinikanth previously held a press conference at his Chennai residence, clarifying that he maintained friendly ties with former CM MK Stalin and addressing talk about his stance on Vijay's electoral success."
+        ]
+      },
+      {
+        "h": "Journey to the Wedding",
+        "p": [
+          "Rumours regarding Anirudh Ravichander and Kavya Maran's relationship first surfaced in 2025, though the composer initially dispelled them despite the duo being spotted together frequently. Speculation grew stronger when Anirudh's uncle, Y Gee Mahendran, hinted at an upcoming family wedding.",
+          "The pair also attended a screening of Rajinikanth’s Jailer 2, further fueling reports. Confirmation arrived in October when Telangana Chief Minister Revanth Reddy leaked details about the wedding and reception schedule."
+        ]
+      },
+      {
+        "h": "Celebrations Across Borders",
+        "p": [
+          "Following the public revelation of the wedding plans, Kavya's parents, Kalanithi Maran and Kavery Maran, personally extended invitations to various political leaders and celebrities.",
+          "The pre-wedding festivities officially commenced in Greece on November 10, with the couple tying the knot a day later before returning to Chennai for the grand reception on November 21."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Tamil Nadu CM Vijay attended the wedding reception of Anirudh Ravichander and Kavya Maran in Chennai on November 21, 2026. During the event, he shared a frame with Rajinikanth and former CM MK Stalin."
+        ]
+      }
+    ],
+    "facts": [
+      "Published on: Nov 21, 2026, 20:18:35 IST",
+      "Pre-wedding celebrations kicked off in Greece on November 10",
+      "Couple tied the knot a day after November 10",
+      "Reception held in Chennai on November 21"
+    ],
+    "entities": {
+      "people": [
+        "Vijay",
+        "Rajinikanth",
+        "MK Stalin",
+        "Anirudh Ravichander",
+        "Kavya Maran",
+        "Y Gee Mahendran",
+        "Revanth Reddy",
+        "Kalanithi Maran",
+        "Kavery Maran",
+        "Santanu Das"
+      ],
+      "titles": [
+        "Jailer 2"
+      ]
+    },
+    "keywords": [
+      "Anirudh Ravichander",
+      "Kavya Maran",
+      "CM Vijay",
+      "Rajinikanth",
+      "MK Stalin"
+    ],
+    "images": [
+      {
+        "url": "https://www.hindustantimes.com/ht-img/img/2026/11/21/1600x900/logo/rajinikanth_cm_vijay_1795271893955_4UsT_1795271894160_GqpO_ff699a21-a447-4056-af28-fb00b780c7f9_OtRW.jpg",
+        "caption": "CM Vijay Greets Rajinikanth And MK Stalin At Anirudh Ravichander And Kavya Maran's Wedding Reception",
+        "source": "Hindustan Times — Entertainment"
+      }
+    ],
+    "published": "Sat, 21 Nov 2026 20:18:35 +0530"
+  },
+  "1qbd58h": {
+    "id": "1qbd58h",
+    "type": "news",
+    "headline": "Kate Middleton Unveils Surprise Cancer Journey Documentary Titled Heal",
+    "dek": "A newly released trailer showcases Kate Middleton tackling the National Three Peaks Challenge and reflecting on her health battle in a secret documentary.",
+    "body": [
+      {
+        "h": "Secret Documentary Surprise",
+        "p": [
+          "Royal observers received an unexpected revelation when a preview for a covertly produced documentary project surfaced. Titled Heal, the upcoming release chronicles personal aspects of the health struggles faced by Kate Middleton, highlighting her resilience and physical recovery.",
+          "The newly debuted promotional clip immediately drew widespread public attention, capturing intimate details about her diagnosis and subsequent medical treatments while offering viewers a rare look into her private experiences during a challenging period."
+        ]
+      },
+      {
+        "h": "Tackling the National Three Peaks Challenge",
+        "p": [
+          "A central focus of the documentary involves the arduous National Three Peaks Challenge, where Kate undertook the demanding task of climbing the three highest mountains located across England, Scotland, and Wales. Her strenuous efforts during the trek served a philanthropic purpose, raising funds dedicated to supporting The Royal Marsden Cancer Charity.",
+          "During portions of the expedition, she was accompanied by her brother James Middleton. Their shared moments on the trail provided deep emotional reflections, particularly when discussing her experiences at the medical facility where she received care."
+        ]
+      },
+      {
+        "h": "Reflecting on Life Altering Changes",
+        "p": [
+          "In the footage, Kate speaks candidly about how her health crisis fundamentally shifted her perspective. She remarks that the condition alters a person both physically and in much deeper, internal ways.",
+          "The project emphasizes the psychological and emotional transformation that accompanies such a severe diagnosis, giving supporters a profound understanding of her journey toward healing and renewed strength."
+        ]
+      },
+      {
+        "h": "A Meaningful Symbol of Completion",
+        "p": [
+          "A poignant moment in the trailer highlights a distinct milestone regarding her medical care. Because she never officially rang the traditional bell upon concluding her treatments at the Royal Marsden hospital, her brother James suggests the grueling mountain climb could serve as her symbolic replacement for that ritual.",
+          "This unique perspective brings a sense of closure and personal triumph to her ordeal, framing the physical exertion of the mountain trek as a victorious celebration of survival."
+        ]
+      },
+      {
+        "h": "Heartwarming Family Reunion",
+        "p": [
+          "The emotional preview concludes on a tender note by featuring a joyful reunion. Kate is shown coming back together with Prince William and their three children after completing the grueling expedition.",
+          "This family-centric conclusion underscores the vital support system that stood by her side throughout the ordeal, reinforcing themes of unity and domestic harmony following years of intense public scrutiny and personal worry."
+        ]
+      },
+      {
+        "h": "Timeline of Recovery",
+        "p": [
+          "The release of this documentary project follows a heavily documented medical timeline for the royal figure. Initial disclosure of her cancer diagnosis occurred back in March 2024.",
+          "Subsequent updates brought reassuring news to the public when it was revealed that she had officially entered remission in 2025, paving the way for her ongoing advocacy and this surprising visual project."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Kate Middleton has surprised royal watchers by releasing a trailer for a secret documentary titled Heal, which captures her participation in the National Three Peaks Challenge to benefit The Royal Marsden Cancer Charity. Accompanied by her brother James Middleton and later reuniting with Prince William and their children, the project reflects on her diagnosis from March 2024 and her remission in 2025."
+        ]
+      }
+    ],
+    "facts": [
+      "Kate Middleton was diagnosed with cancer in March 2024.",
+      "Kate Middleton revealed she was in remission in 2025.",
+      "The documentary project is titled Heal.",
+      "Kate undertook the National Three Peaks Challenge across England, Scotland, and Wales.",
+      "James Middleton joined Kate on part of her trek.",
+      "The challenge raised money for The Royal Marsden Cancer Charity."
+    ],
+    "entities": {
+      "people": [
+        "Kate Middleton",
+        "James Middleton",
+        "Prince William"
+      ],
+      "titles": [
+        "Heal"
+      ]
+    },
+    "keywords": [
+      "Kate Middleton Heal documentary",
+      "Kate Middleton cancer journey",
+      "National Three Peaks Challenge",
+      "James Middleton Kate Middleton",
+      "The Royal Marsden Cancer Charity"
+    ],
+    "images": [
+      {
+        "url": "https://imagez.tmz.com/image/75/16by9/2026/11/21/757ce318245b4817a4f51be72409527e_xl.jpg",
+        "caption": "Kate Middleton Unveils Surprise Cancer Journey Documentary Titled Heal",
+        "source": "TMZ"
+      }
+    ],
+    "published": "2026-11-21T06:55:12-08:00"
+  },
+  "fxykyx": {
+    "id": "fxykyx",
+    "type": "news",
+    "headline": "Salman Khan Apologizes to Shraddha Kapoor Over Clash, Clarifies Stance on Shah Rukh Khan's King",
+    "dek": "Superstar Salman Khan addressed the box office clash between his upcoming film Maatrubhumi and Shraddha Kapoor's Eetha, explaining why he reached out to apologize and clarifying his position on avoiding a collision with Shah Rukh Khan's King.",
+    "body": [
+      {
+        "h": "Unintentional Conflict With Eetha",
+        "p": [
+          "Bollywood superstar Salman Khan recently opened up about the scheduling collision between his upcoming project Maatrubhumi and Shraddha Kapoor's film Eetha, which are both slated to hit the big screen on December 4. The actor revealed that he was completely unaware that another major release was already scheduled for the exact same date when his team finalized the slot.",
+          "The realization of the simultaneous release brought a sense of regret to the actor, who emphasized that he never intended to crowd out a contemporary's film or create unnecessary theatrical competition within the industry."
+        ]
+      },
+      {
+        "h": "Reaching Out With an Apology",
+        "p": [
+          "Upon discovering the overlapping release dates, Salman personally contacted Shraddha Kapoor over the phone to clear the air. During their conversation, he offered a sincere apology for the unintentional scheduling conflict.",
+          "According to the actor, Shraddha responded with immense grace, reassuring him that the box office has ample space to accommodate multiple films simultaneously. Her positive attitude brought relief to Salman, who subsequently urged audiences to watch Eetha and even shared its promotional poster online to wish the team success."
+        ]
+      },
+      {
+        "h": "Clear Stance on Shah Rukh Khan's King",
+        "p": [
+          "During the same media interaction, the discussion shifted toward the heavily packed calendar spanning December, January, February, and March. Salman made it clear that while careful planning is necessary, he actively steers clear of certain high-profile projects.",
+          "He explicitly stated that he would never choose to clash with Shah Rukh Khan and Suhana Khan's upcoming film King, nor would he want a theatrical standoff with Sanjay Leela Bhansali's Love and War during the late January window."
+        ]
+      },
+      {
+        "h": "Navigating a Crowded Hollywood and Bollywood Calendar",
+        "p": [
+          "The winter and early spring release schedule is exceptionally crowded, featuring several high-profile domestic and international titles vying for viewer attention. Salman noted that the congested marketplace requires strategic planning from filmmakers to ensure every project gets breathing room.",
+          "Despite his caution regarding major Bollywood banner films, the actor humorously remarked that he would not hesitate to go up against Hollywood heavyweights like Avengers: Doomsday or Dune 3 if the situation called for it."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Salman Khan addressed the theatrical clash between his film Maatrubhumi and Shraddha Kapoor's Eetha on December 4, explaining that he was initially unaware of the overlap and personally apologized to Shraddha. He also clarified that while he is willing to compete with Hollywood releases, he avoids scheduling conflicts with Bollywood projects like Shah Rukh Khan and Suhana Khan's King."
+        ]
+      }
+    ],
+    "facts": [
+      "Salman Khan is releasing his film Maatrubhumi on December 4.",
+      "Shraddha Kapoor's film Eetha is also scheduled for release on December 4.",
+      "Salman Khan called Shraddha Kapoor to apologize for the clash.",
+      "Shah Rukh Khan and Suhana Khan are starring in the film King."
+    ],
+    "entities": {
+      "people": [
+        "Salman Khan",
+        "Shraddha Kapoor",
+        "Shah Rukh Khan",
+        "Suhana Khan",
+        "Sanjay Leela Bhansali"
+      ],
+      "titles": [
+        "Maatrubhumi",
+        "Eetha",
+        "King",
+        "Avengers: Doomsday",
+        "Dune",
+        "Love and War"
+      ]
+    },
+    "keywords": [
+      "Salman Khan Maatrubhumi",
+      "Shraddha Kapoor Eetha",
+      "Salman Khan King clash",
+      "Maatrubhumi release date"
+    ],
+    "images": [
+      {
+        "url": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202611/6b016ba84a98b-salman-khan-on-maatrubhumi-clash-with-eeetha-210006748-16x9.jpg",
+        "caption": "Salman Khan Apologizes to Shraddha Kapoor Over Clash, Clarifies Stance on Shah Rukh Khan's King",
+        "source": "Aaj Tak — Entertainment"
+      }
+    ],
+    "published": "2026-11-21T16:51:38Z"
+  },
+  "4y0wi2": {
+    "id": "4y0wi2",
+    "type": "news",
+    "headline": "Latin Stars Prepare for the Centennial Macy’s Thanksgiving Day Parade",
+    "dek": "Feid and Anthony Ramos are set to perform at the historic 100th edition of the Macy’s Thanksgiving Day Parade in New York.",
+    "body": [
+      {
+        "h": "Latin Representation at the Centennial Parade",
+        "p": [
+          "The landmark 100th edition of the Macy’s Thanksgiving Day Parade will feature notable Latin music representation through performances by artists Feid and Anthony Ramos. The milestone celebration is scheduled for Thursday, November 26, bringing major musical acts to the streets of New York City.",
+          "Organizers have arranged for the festivities to kick off at 8:30 a.m. ET. Viewers at home will be able to watch the broadcast live on NBC and Telemundo, alongside a simultaneous streaming option on Peacock."
+        ]
+      },
+      {
+        "h": "A Packed Star-Studded Lineup",
+        "p": [
+          "Alongside the Latin stars, the massive holiday lineup includes diverse acts such as Baha Men, Natasha Bedingfield, Blues Traveler, DEVO, Wyclef Jean, Queen Latifah, Keke Palmer, RIIZE, and Smash Mouth. Additionally, Megan Hilty will lead a special Dolly Parton tribute, while EJAE delivers a featured performance.",
+          "Performances at Herald Square will highlight artists Megan Moroney and Teddy Swims. Several Broadway shows are also slated to join in the special holiday celebration."
+        ]
+      },
+      {
+        "h": "Record-Breaking Scale and Spectacle",
+        "p": [
+          "The centennial anniversary parade is scaling up significantly to mark its historic run. Organizers have planned a record 100 inflatables alongside six brand-new floats to traverse the parade route.",
+          "More than 11,000 volunteers and participants will take part in the massive milestone march to entertain spectators gathered in New York City."
+        ]
+      },
+      {
+        "h": "Erika Ender Celebrates 35 Years in Panama",
+        "p": [
+          "In other Latin music news, Panamanian singer-songwriter Erika Ender marked her 35-year musical career in Panama. The celebration included the premiere of a musical based on her life and the presentation of her book, AprEnder El Éxito.",
+          "Written and directed by Venezuelan playwright Benjamín Cohen, the theatrical production features a cast of approximately 80 performers and held its international premiere at the National Theater in Panama City."
+        ]
+      },
+      {
+        "h": "Industry Figures Gather for Ender's Tribute",
+        "p": [
+          "The premiere event welcomed various prominent figures from the entertainment industry, including Desmond Child, Elena Rose, Elvis Crespo, Aymée Nuviola, Diana Reyes, and boxing legend Roberto Durán. Randy Cuevas of the band Rabanes also attended, having handled the musical arrangements for the production.",
+          "Prior to the show, Panama’s Minister of Culture, Maruja Herrera, presented Ender with a medal honoring her exceptional artistic career and cultural contributions."
+        ]
+      },
+      {
+        "h": "Eladio Carrión's Golf Tournament Returns",
+        "p": [
+          "In Puerto Rico, Eladio Carrión’s Sauce Boyz Country Club Golf Tournament is returning to the Coco Beach Golf Country Club in Río Grande on December 2. The event brings together artists, athletes, and community supporters for social initiatives.",
+          "The tournament's inaugural edition successfully raised $179,300 for social programs across the island, with this year's gathering aiming to further support children and young people."
+        ]
+      },
+      {
+        "h": "Red Bull Batalla U.S. National Final",
+        "p": [
+          "Red Bull Batalla has revealed the 16 MCs selected to compete in its 2026-27 U.S. National Final in Los Angeles. The tournament will take place at The Bellwether on February 20, 2027.",
+          "Competitors include three-time national champion Reverse, two-time champion Yartzi, and Dajamii Alien, who could make history as the first woman to claim the U.S. national title."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Feid and Anthony Ramos are preparing to perform at the 100th Macy’s Thanksgiving Day Parade on Thursday, November 26. Meanwhile, Erika Ender celebrated her 35-year career in Panama with a biographical musical and book presentation, and Eladio Carrión announced the return of his charity golf tournament in Puerto Rico."
+        ]
+      }
+    ],
+    "facts": [
+      "Feid and Anthony Ramos are performing at the Macy’s Thanksgiving Day Parade",
+      "The Macy’s Thanksgiving Day Parade is celebrating its 100th edition on Thursday, November 26",
+      "Erika Ender celebrated her 35-year musical career in Panama",
+      "Eladio Carrión’s golf tournament returns to Puerto Rico on December 2",
+      "Red Bull Batalla U.S. National Final takes place on February 20, 2027"
+    ],
+    "entities": {
+      "people": [
+        "Feid",
+        "Anthony Ramos",
+        "Erika Ender",
+        "Eladio Carrión",
+        "Benjamín Cohen",
+        "Desmond Child",
+        "Elena Rose",
+        "Elvis Crespo",
+        "Aymée Nuviola",
+        "Diana Reyes",
+        "Roberto Durán",
+        "Randy Cuevas",
+        "Maruja Herrera",
+        "Ismael Cala",
+        "Reverse",
+        "Yartzi",
+        "Dajamii Alien"
+      ],
+      "titles": [
+        "AprEnder El Éxito",
+        "Sauce Boyz Country Club Golf Tournament"
+      ]
+    },
+    "keywords": [
+      "Feid Macys Thanksgiving Day Parade",
+      "Anthony Ramos Macys Parade",
+      "Erika Ender Panama musical",
+      "Eladio Carrion Sauce Boyz golf tournament",
+      "Red Bull Batalla US National Final"
+    ],
+    "images": [
+      {
+        "url": "https://www.billboard.com/wp-content/uploads/2026/11/1444204795-e1795213231305.jpg?w=1024",
+        "caption": "Latin Stars Prepare for the Centennial Macy’s Thanksgiving Day Parade",
+        "source": "Billboard"
+      }
+    ],
+    "published": "Sat, 21 Nov 2026 15:00:00 +0000"
   }
 };
