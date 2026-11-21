@@ -1917,15 +1917,17 @@
         "extras": {
           "occupancy": {
             "sources": {
-              "filmynewsnetwork": 22.5
+              "filmynewsnetwork": 22.5,
+              "overseas-backfill": 26.6
             },
-            "value": 22.5
+            "value": 24.6
           },
           "shows": {
             "sources": {
-              "filmynewsnetwork": 337
+              "filmynewsnetwork": 337,
+              "overseas-backfill": 341
             },
-            "value": 337
+            "value": 339
           },
           "tickets": {
             "sources": {
@@ -22066,6 +22068,35 @@
               "overseas-backfill": 21437
             },
             "value": 21437
+          }
+        },
+        "india": false
+      },
+      "16": {
+        "date": "2026-11-20",
+        "extras": {
+          "occupancy": {
+            "sources": {
+              "overseas-backfill": 18.2
+            },
+            "value": 18.2
+          },
+          "overseas": {
+            "crore": 8.0,
+            "currency": "USD",
+            "date": "2026-11-20",
+            "date_disagreed": false,
+            "scope": "overseas_gross",
+            "sources": {
+              "overseas-backfill": 8.0
+            },
+            "value": 845219
+          },
+          "shows": {
+            "sources": {
+              "overseas-backfill": 15497
+            },
+            "value": 15497
           }
         },
         "india": false

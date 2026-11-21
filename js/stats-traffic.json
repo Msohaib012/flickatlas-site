@@ -1,20 +1,20 @@
 {
   "connected": true,
-  "generated": "2026-11-21T00:56:09Z",
+  "generated": "2026-11-21T02:04:46Z",
   "realtime": {
     "active_users": 2
   },
   "today": {
-    "users": 2,
-    "pageviews": 2,
-    "sessions": 2,
-    "avg_session_seconds": 2.8
+    "users": 4,
+    "pageviews": 5,
+    "sessions": 4,
+    "avg_session_seconds": 25.9
   },
   "last7": {
-    "users": 3146,
-    "pageviews": 3235,
+    "users": 3148,
+    "pageviews": 3238,
     "sessions": 3176,
-    "avg_session_seconds": 8.2
+    "avg_session_seconds": 8.3
   },
   "top_pages": [
     {
@@ -26,8 +26,8 @@
     {
       "path": "/person",
       "title": "Actor & Filmmaker Profiles | FlickAtlas",
-      "views": 855,
-      "avg_time_seconds": 2.8
+      "views": 857,
+      "avg_time_seconds": 2.9
     },
     {
       "path": "/",
@@ -83,13 +83,13 @@
       "source": "(direct)",
       "medium": "(none)",
       "sessions": 3048,
-      "users": 3005
+      "users": 3006
     },
     {
       "source": "(not set)",
       "medium": "(not set)",
-      "sessions": 292,
-      "users": 292
+      "sessions": 294,
+      "users": 294
     },
     {
       "source": "google",
@@ -107,7 +107,7 @@
   "countries": [
     {
       "country": "Brazil",
-      "users": 600
+      "users": 602
     },
     {
       "country": "United States",
@@ -131,11 +131,11 @@
     },
     {
       "country": "Vietnam",
-      "users": 152
+      "users": 153
     },
     {
       "country": "Colombia",
-      "users": 141
+      "users": 142
     },
     {
       "country": "Mexico",
@@ -149,7 +149,7 @@
   "devices": [
     {
       "device": "desktop",
-      "users": 3131
+      "users": 3133
     },
     {
       "device": "mobile",

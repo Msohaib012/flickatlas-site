@@ -205627,5 +205627,400 @@ window.FA_ARTICLES = {
     ],
     "images": [],
     "published": "Fri, 20 Nov 2026 19:30:00 EST"
+  },
+  "67bdvi": {
+    "id": "67bdvi",
+    "type": "news",
+    "headline": "Ramayana Day 16 Box Office: Epic Inches Closer To Rs 900 Crore In India On Third Friday",
+    "dek": "Ranbir Kapoor, Sai Pallavi, and Yash starrer Ramayana continues its extraordinary box office journey, closing in on the Rs 900 crore domestic net milestone as it enters its third week.",
+    "body": [
+      {
+        "h": "Continuing Strong Theatrical Run",
+        "p": [
+          "The mythological epic Ramayana remains a dominant force at the Indian box office, steadily approaching the historic Rs 900 crore domestic net collection mark. Despite entering its third week in theatres, the multi-lingual feature continues to attract moviegoers across the country.",
+          "Helmed by filmmaker Nitesh Tiwari, the movie has maintained solid box office momentum following its grand theatrical release. The feature has successfully sustained audience interest well beyond its opening weeks."
+        ]
+      },
+      {
+        "h": "Day 16 Collections And Language Breakdown",
+        "p": [
+          "On its sixteenth day, which marked the third Friday of its run, the feature recorded an estimated domestic net collection of Rs 16.30 crore. According to data from Sacnilk, this revenue was generated across a massive count of 15,492 shows nationwide.",
+          "The Hindi version continued to dominate earnings as the primary contributor, pulling in Rs 12 crore from 13,320 shows. Regional markets also contributed significantly, with the Malayalam version bringing in Rs 1.75 crore from 792 shows and the Tamil version adding Rs 1.10 crore from 532 shows."
+        ]
+      },
+      {
+        "h": "Regional Performances Across India",
+        "p": [
+          "Further bolstering the third Friday numbers, the Kannada language version contributed Rs 1 crore from 399 shows. Meanwhile, the Telugu version added Rs 45 lakh to the day's tally from 449 shows.",
+          "This diverse regional performance highlights the widespread appeal of the mythological drama, allowing it to maintain healthy screening counts across various states."
+        ]
+      },
+      {
+        "h": "Milestones And Cumulative Domestic Totals",
+        "p": [
+          "With the latest figures added to its ledger, the total India net collection for the film has reached an impressive Rs 880.05 crore. Simultaneously, the domestic gross collection has climbed to Rs 1051.60 crore, placing the coveted Rs 900 crore net milestone well within reach.",
+          "The journey to this point has seen staggering daily fluctuations, highlighted by a massive Rs 107.50 crore haul on its fifth day and steady earnings through its second week before settling into its current third-week phase."
+        ]
+      },
+      {
+        "h": "Global Box Office And Overseas Success",
+        "p": [
+          "Beyond domestic borders, the cinematic venture has performed remarkably well in international territories. The overseas market contributed an additional Rs 8 crore in gross collections on its sixteenth day alone.",
+          "This overseas performance brings the total international gross to an estimated Rs 523 crore. When combined with the domestic gross, the worldwide gross for the epic has soared to an incredible Rs 1574.60 crore."
+        ]
+      },
+      {
+        "h": "Ticket Sales And Star-Studded Cast",
+        "p": [
+          "Audience turnout remains robust, with an estimated 7,56,652 tickets sold on Day 16 alone. This single-day figure pushes the cumulative ticket sales across the entire theatrical run to a massive 3,56,51,737 tickets.",
+          "The film's massive commercial success is anchored by its star-studded lead cast. Ranbir Kapoor portrays Lord Rama, Sai Pallavi takes on the role of Sita, and Yash stars as the formidable Ravana under Nitesh Tiwari's direction."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Ranbir Kapoor, Sai Pallavi, and Yash starrer Ramayana is inching closer to the Rs 900 crore domestic net milestone after recording Rs 16.30 crore on its sixteenth day. Directed by Nitesh Tiwari, the mythological epic has now achieved a total worldwide gross of Rs 1574.60 crore."
+        ]
+      }
+    ],
+    "facts": [
+      "Ranbir Kapoor plays Lord Rama, Sai Pallavi plays Sita, and Yash plays Ravana",
+      "Ramayana is directed by Nitesh Tiwari",
+      "Day 16 net collection in India was Rs 16.30 crore across 15,492 shows",
+      "Hindi version collected Rs 12 crore from 13,320 shows on Day 16",
+      "Malayalam version collected Rs 1.75 crore from 792 shows on Day 16",
+      "Tamil version collected Rs 1.10 crore from 532 shows on Day 16",
+      "Kannada version collected Rs 1 crore from 399 shows on Day 16",
+      "Telugu version collected Rs 45 lakh from 449 shows on Day 16",
+      "Total India net collection reached Rs 880.05 crore",
+      "Domestic gross collection stands at Rs 1051.60 crore",
+      "Overseas gross collection reached Rs 523 crore",
+      "Worldwide gross reached Rs 1574.60 crore",
+      "Day 16 ticket sales reached an estimated 7,56,652",
+      "Cumulative ticket sales reached an estimated 3,56,51,737"
+    ],
+    "entities": {
+      "people": [
+        "Ranbir Kapoor",
+        "Sai Pallavi",
+        "Yash",
+        "Nitesh Tiwari"
+      ],
+      "titles": [
+        "Ramayana"
+      ]
+    },
+    "keywords": [
+      "Ramayana box office",
+      "Ramayana Day 16 collection",
+      "Ranbir Kapoor Yash Ramayana",
+      "Nitesh Tiwari Ramayana India net"
+    ],
+    "images": [
+      {
+        "url": "https://images.timesnownews.com/thumb/msid-156543574,thumbsize-132685,width-1280,height-720,resizemode-75/156543574.jpg",
+        "caption": "Ramayana Day 16 Box Office: Epic Inches Closer To Rs 900 Crore In India On Third Friday",
+        "source": "Times Now — Entertainment"
+      }
+    ],
+    "published": "2026-11-21T01:51:35Z"
+  },
+  "yfpt3e": {
+    "id": "yfpt3e",
+    "type": "news",
+    "headline": "Taylor Swift Sparks Major Ratings Surge for the 60th Annual CMA Awards",
+    "dek": "The country music ceremony enjoyed its highest viewership in seven years following a massive return by Taylor Swift and a historic night for Ella Langley.",
+    "body": [
+      {
+        "h": "The Return of Taylor Swift",
+        "p": [
+          "The 60th annual CMA Awards telecast experienced a dramatic resurgence in viewership, largely driven by the highly anticipated return of Taylor Swift. Industry insiders anticipated that her presence would spark significant interest, but the actual metrics exceeded most expectations. Her participation marked her first performance on the awards show stage since 2013 and her first appearance at the event since 2016.",
+          "Network executives at ABC capitalized on the massive interest generated by Swift's confirmation. The network reportedly re-opened previously closed advertising slots for the three-hour broadcast after she officially signed on to perform. Her appearance followed her nomination for a Disney-Pixar film theme song, keeping her firmly in the spotlight across multiple entertainment sectors."
+        ]
+      },
+      {
+        "h": "Impressive Ratings and Viewership Growth",
+        "p": [
+          "Official data released following the broadcast revealed a staggering 26 percent increase in total viewers compared to the previous year. The telecast drew an audience of 7.62 million total viewers, rising notably from the 6.03 million who tuned in during 2025. This milestone gave the ceremony its highest overall viewership figures in seven years.",
+          "The growth was even more pronounced within key demographic groups. The telecast achieved a 55 percent gain in the critical 18-49 adult demographic, pulling in a 1.01 rating compared to the 0.65 share recorded the prior year."
+        ]
+      },
+      {
+        "h": "An Elaborate Musical Medley",
+        "p": [
+          "Taylor Swift crafted a sprawling, multi-part musical segment for her return to the country music stage. The performance began with a pre-recorded, highly choreographed walk through the backstage areas. During this journey, she interacted warmly with numerous familiar faces, including Lainey Wilson, Eric Church, Sugarland, Little Big Town, Brad Paisley, and Brooks Dunn.",
+          "Transitioning to the live stage on a Toy Story-themed set, she performed a medley blending \"I Knew It, I Knew You\" and a snippet of her classic hit \"Our Song.\" The live portion featured accompaniment by Keith Urban on the ganjo and included a symbolic handoff with Grand Ole Opry member Bill Anderson."
+        ]
+      },
+      {
+        "h": "Ella Langley Makes History",
+        "p": [
+          "While Swift commanded a massive share of the broadcast attention, Ella Langley delivered a historic night of her own. Langley swept nearly every category she was nominated in, securing a record-breaking six CMA Awards during a single evening, including the coveted title of Entertainer of the Year.",
+          "Her dominating night followed a strong commercial run for her music. Her track \"Choosin' Texas\" has maintained a dominant position on the charts, marking a historic achievement on Billboard's Hot 100. During the ceremony, however, she opted to perform her newer single, \"Loving Life Again.\""
+        ]
+      },
+      {
+        "h": "Tributes and Star-Studded Performances",
+        "p": [
+          "Anticipation for the event was further fueled by a special tribute dedicated to Dolly Parton. Host Lainey Wilson and Vince Gill opened the broadcast with a well-received duet of the iconic ballad \"I Will Always Love You.\" This television homage followed a broader all-star tribute special organized earlier in the autumn.",
+          "The evening featured performances and appearances from several prominent country music figures, such as Kacey Musgraves, Miranda Lambert, Tucker Wetmore, Chris Stapleton, Megan Moroney, and Luke Combs. Later in the event, Taylor Swift returned to the stage to present a lifetime achievement award to Brooks Dunn."
+        ]
+      },
+      {
+        "h": "Expanded Programming and Future Prospects",
+        "p": [
+          "ABC expanded its coverage surrounding the main event by broadcasting a preview special the preceding night. Titled \"Darius, Dolly and 60 Years of Celebration: Countdown to the CMAs with Robin Roberts,\" the Tuesday night preview brought in 2.99 million total viewers.",
+          "The performance of \"I Knew It, I Knew You\" marked its public television debut, following earlier renditions at private industry events. With recent Grammy nominations secured and potential Academy Award considerations on the horizon, industry observers expect further high-profile television appearances from Swift in the coming months."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "The 60th annual CMA Awards achieved a massive 26 percent increase in total viewers and a 55 percent jump in the 18-49 demographic, fueled largely by Taylor Swift's first performance on the show in over a decade. Alongside Swift's elaborate medley and lifetime achievement presentation, Ella Langley set a new record by winning six awards in a single night. The broadcast also featured notable tributes and strong preliminary programming, resulting in the highest overall viewership for the ceremony in seven years."
+        ]
+      }
+    ],
+    "facts": [
+      "The 2026 CMA Awards telecast was up 26% in total viewers and 55% in the 18-49 demo compared to 2025.",
+      "The show drew 7.62 million total viewers compared to 6.03 million in 2025.",
+      "The 18-49 demo rating was 1.01 compared to 0.65 last year.",
+      "Ella Langley won a record six CMA Awards in one night, including Entertainer of the Year.",
+      "Taylor Swift last performed on the CMA Awards telecast in 2013 and last appeared in 2016.",
+      "The preview show 'Darius, Dolly and 60 Years of Celebration: Countdown to the CMAs with Robin Roberts' drew 2.99 million total viewers."
+    ],
+    "entities": {
+      "people": [
+        "Taylor Swift",
+        "Ella Langley",
+        "Lainey Wilson",
+        "Vince Gill",
+        "Dolly Parton",
+        "Kacey Musgraves",
+        "Miranda Lambert",
+        "Tucker Wetmore",
+        "Chris Stapleton",
+        "Megan Moroney",
+        "Luke Combs",
+        "Eric Church",
+        "Brad Paisley",
+        "Bill Anderson",
+        "Keith Urban",
+        "Brooks Dunn",
+        "Robin Roberts",
+        "Darius"
+      ],
+      "titles": [
+        "Choosin' Texas",
+        "Loving Life Again",
+        "I Will Always Love You",
+        "I Knew It, I Knew You",
+        "Our Song",
+        "Toy Story 5",
+        "Darius, Dolly and 60 Years of Celebration: Countdown to the CMAs with Robin Roberts"
+      ]
+    },
+    "keywords": [
+      "CMA Awards Taylor Swift",
+      "Taylor Swift CMA performance",
+      "Ella Langley CMA Awards",
+      "CMA Awards ratings 2026"
+    ],
+    "images": [
+      {
+        "url": "https://variety.com/wp-content/uploads/2026/11/MAB_4944.jpg?w=1000&#038;h=563&#038;crop=1",
+        "caption": "Taylor Swift Sparks Major Ratings Surge for the 60th Annual CMA Awards",
+        "source": "Variety"
+      }
+    ],
+    "published": "Fri, 20 Nov 2026 23:21:58 +0000"
+  },
+  "1507c2": {
+    "id": "1507c2",
+    "type": "news",
+    "headline": "Salman Khan Defends Maatrubhumi Trailer Amid Heavy Online Trolling Over VFX and AI",
+    "dek": "Bollywood superstar Salman Khan has hit back at critics who slammed the trailer of his upcoming military drama Maatrubhumi for its visual effects and artificial intelligence, asserting that the film focuses on the Indian Army and patriotism.",
+    "body": [
+      {
+        "h": "Addressing the Backlash",
+        "p": [
+          "Bollywood star Salman Khan has firmly stood his ground following intense online trolling directed at the promotional footage for his upcoming cinematic project. Viewers and commentators online quickly pointed out perceived flaws in the visual elements, sparking widespread discussions across digital platforms regarding the quality of computer-generated imagery and the alleged employment of artificial technology in crafting the preview scenes.",
+          "Rather than avoiding the controversy, the lead actor directly confronted the negative commentary during a public appearance. His outspoken stance has brought the project into intense media focus, igniting conversations about how promotional clips are scrutinized in modern digital culture before a feature reaches cinemas."
+        ]
+      },
+      {
+        "h": "The Core Subject vs. Visuals",
+        "p": [
+          "During his interaction at the ABP Conclave, the actor expressed visible frustration that public discourse centered almost exclusively on technical execution rather than the narrative foundation. He emphasized that the project was crafted to honor national service members and highlight the sacrifices made by the armed forces on the frontlines rather than serving as a showcase for digital wizardry.",
+          "He questioned the priorities of online commentators who chose to pick apart technical parameters while ignoring the deeper themes of courage, honor, and national duty. Pointing out that the crew filmed across actual, authentic locations, he argued that the emotional narrative deserved far more attention than individual computer graphics frames."
+        ]
+      },
+      {
+        "h": "Sarcastic Remarks to Critics",
+        "p": [
+          "Addressing the media inquiries about the persistent online mockery, the celebrity adopted a sarcastic tone to highlight what he perceived as misplaced priorities among internet users. He remarked that critics were welcome to obsess over digital aesthetics while completely bypassing the emotional core and military themes embedded in the script.",
+          "This sharp retort highlighted his belief that modern audiences often get distracted by superficial elements in promotional material. By calling out the fixation on computer rendering, he signaled his unwavering support for the creative choices made by the production team."
+        ]
+      },
+      {
+        "h": "Patience and Final Verdict",
+        "p": [
+          "Urging viewers to exercise patience, the actor reminded everyone of the old adage advising against forming hasty opinions based entirely on superficial previews. He stressed that promotional snippets cannot fully capture the emotional weight and narrative depth of a complete cinematic presentation.",
+          "Expressing absolute faith in the final product, he declared that the feature would ultimately silence detractors once it reached theaters. His remarks reinforced the notion that a movie must be experienced in its entirety before any final judgments are rendered by the public."
+        ]
+      },
+      {
+        "h": "Behind the Scenes of the Military Drama",
+        "p": [
+          "Titled Maatrubhumi: May War Rest in Peace, the upcoming theatrical venture draws inspiration from the historical context of the 2020 Galwan Valley military standoff involving Indian and Chinese troops. The plot aims to examine the human toll of geopolitical friction and the resilience of soldiers stationed at volatile borders.",
+          "Helmed by director Apoorva Lakhia, the production brings together powerful elements of sacrifice, loyalty, and patriotism. The collaborative effort focuses heavily on the lived experiences of frontline defenders and the families impacted by military service."
+        ]
+      },
+      {
+        "h": "Release Details and Expectations",
+        "p": [
+          "The theatrical rollout for the patriotic drama is officially locked in for December 4, 2026. As anticipation builds following the recent controversy, trade analysts and fans alike are watching closely to see how the project performs upon its big-screen debut.",
+          "The recent wave of publicity, driven largely by the lead star's unfiltered comments, has significantly amplified awareness around the project. Moviegoers are now eager to witness whether the final release matches the ambitious emotional scope promised by the makers."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Salman Khan responded to harsh criticism and online trolling directed at the trailer of his upcoming military drama Maatrubhumi over its visual effects and alleged AI use. Defending the film at the ABP Conclave, he emphasized that the project honors the Indian Army and the Galwan Valley clash rather than focusing on digital aesthetics. Directed by Apoorva Lakhia and slated for a December 4, 2026 release, the actor expressed confidence that the film will ultimately answer all its critics."
+        ]
+      }
+    ],
+    "facts": [
+      "Updated on Nov 21, 2026, 01:50 IST",
+      "Salman Khan responded to criticism at ABP Conclave",
+      "Maatrubhumi is subtitled May War Rest in Peace",
+      "The film is based on the backdrop of the 2020 Galwan Valley clash between Indian and Chinese troops",
+      "Directed by Apoorva Lakhia",
+      "Scheduled for a December 4, 2026 theatrical release"
+    ],
+    "entities": {
+      "people": [
+        "Salman Khan",
+        "Arpita Sarkar",
+        "Apoorva Lakhia"
+      ],
+      "titles": [
+        "Maatrubhumi",
+        "Maatrubhumi: May War Rest in Peace"
+      ]
+    },
+    "keywords": [
+      "Salman Khan Maatrubhumi",
+      "Maatrubhumi trailer VFX AI",
+      "Salman Khan ABP Conclave",
+      "Maatrubhumi release date"
+    ],
+    "images": [
+      {
+        "url": "https://images.timesnownews.com/thumb/msid-156543133,thumbsize-132407,width-1280,height-720,resizemode-75/156543133.jpg",
+        "caption": "Salman Khan Defends Maatrubhumi Trailer Amid Heavy Online Trolling Over VFX and AI",
+        "source": "Times Now — Entertainment"
+      }
+    ],
+    "published": "2026-11-21T01:51:35Z"
+  },
+  "uq518n": {
+    "id": "uq518n",
+    "type": "news",
+    "headline": "Henry Cavill Takes On Secret Agent Role in New Netflix Thriller After Missing Out on James Bond",
+    "dek": "Although Robert Pattinson secured the coveted role of 007 under Amazon, Henry Cavill is stepping into his own spy thriller for Netflix alongside Kevin Hart.",
+    "body": [
+      {
+        "h": "The Search for a New Secret Agent",
+        "p": [
+          "The cinematic landscape surrounding the iconic secret agent franchise has witnessed considerable activity over recent years. Following Daniel Craig concluding his historic run after five films, the entertainment industry began a massive search for a suitable successor to handle assignments for His Majesty's Secret Service.",
+          "Daniel Craig established a remarkably long tenure in the role across features like Casino Royale, Quantum of Solace, Skyfall, Spectre, and No Time to Die. This extensive cinematic journey set high benchmarks for anyone attempting to step into the legendary tuxedo."
+        ]
+      },
+      {
+        "h": "Robert Pattinson Secures the Franchise Lead",
+        "p": [
+          "After enduring an intensive and heavily scrutinized casting evaluation process, Robert Pattinson emerged as the chosen actor to portray the next incarnation of the famous spy. Amazon aims to steer the intellectual property into a fresh creative direction.",
+          "Reports indicate that Denis Villeneuve is attached to helm the upcoming feature film starring Pattinson. This transition officially turns a new page for the literary creation originally penned by author Ian Fleming."
+        ]
+      },
+      {
+        "h": "Henry Cavill Pivots to Streaming",
+        "p": [
+          "While Pattinson claimed the coveted role, another fan favorite missed out on joining the traditional lineage of cinematic secret agents. Henry Cavill, widely recognized for his previous work, will not be stepping into the shoes historically worn by actors like Sean Connery, George Lazenby, Roger Moore, Timothy Dalton, Pierce Brosnan, and Daniel Craig.",
+          "Nevertheless, the former Witcher star is finding his own path within the espionage genre. Netflix has positioned its own major project to rival traditional spy franchises, placing Cavill at the forefront of a brand new espionage narrative."
+        ]
+      },
+      {
+        "h": "Pairing Up With Kevin Hart",
+        "p": [
+          "For this high-stakes streaming project, Cavill is sharing the screen with Jumanji star Kevin Hart. The unexpected pairing brings together two very different cinematic energies for an espionage adventure.",
+          "Industry reports suggest the upcoming film carries the working title The Serpent and The Snake. Production has already generated significant online buzz through early promotional materials and glimpses from the set."
+        ]
+      },
+      {
+        "h": "Production Sights in Budapest",
+        "p": [
+          "Behind-the-scenes footage and production updates have captured Cavill actively filming sequences for the spy thriller in Budapest, Hungary. The European location has provided a dramatic backdrop for the project's complex action sequences.",
+          "Observers noting the visual style of the production have pointed out that the set designs carry a distinct aesthetic reminiscent of classic espionage ensembles, heightening anticipation among genre enthusiasts."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Robert Pattinson has been chosen to lead the next era of the legendary spy franchise under Amazon, directed by Denis Villeneuve, after a rigorous casting process following Daniel Craig's departure. Consequently, Henry Cavill missed out on playing the famous character, but he is instead starring in a new Netflix spy thriller with Kevin Hart, provisionally titled The Serpent and The Snake, with production underway in Budapest."
+        ]
+      }
+    ],
+    "facts": [
+      "Daniel Craig appeared in five Bond films: Casino Royale, Quantum of Solace, Skyfall, Spectre, and No Time to Die.",
+      "Robert Pattinson was officially announced as the next James Bond.",
+      "Denis Villeneuve is set to direct the upcoming 007 movie.",
+      "Henry Cavill is starring in a Netflix spy thriller alongside Kevin Hart.",
+      "The upcoming Netflix movie is allegedly titled The Serpent and The Snake.",
+      "Filming for the new thriller has taken place in Budapest, Hungary."
+    ],
+    "entities": {
+      "people": [
+        "Daniel Craig",
+        "Robert Pattinson",
+        "Ian Fleming",
+        "Denis Villeneuve",
+        "Henry Cavill",
+        "Sean Connery",
+        "George Lazenby",
+        "Roger Moore",
+        "Timothy Dalton",
+        "Pierce Brosnan",
+        "Kevin Hart"
+      ],
+      "titles": [
+        "Casino Royale",
+        "Quantum of Solace",
+        "Skyfall",
+        "Spectre",
+        "No Time to Die",
+        "The Batman",
+        "The Odyssey",
+        "Dune",
+        "The Witcher",
+        "Jumanji",
+        "The Serpent and The Snake",
+        "The Man of Steel"
+      ]
+    },
+    "keywords": [
+      "Henry Cavill spy thriller Netflix",
+      "Robert Pattinson James Bond",
+      "The Serpent and The Snake movie",
+      "Henry Cavill Kevin Hart"
+    ],
+    "images": [
+      {
+        "url": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/02/henry-cavill-red-carpet.jpg?w=1600&amp;h=900&amp;fit=crop",
+        "caption": "Henry Cavill Takes On Secret Agent Role in New Netflix Thriller After Missing Out on James Bond",
+        "source": "Collider"
+      }
+    ],
+    "published": "Fri, 20 Nov 2026 23:30:12 GMT"
   }
 };
