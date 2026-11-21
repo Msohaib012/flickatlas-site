@@ -126845,13 +126845,20 @@ window.FA_ARTICLES = {
           "Uswah Episode 50 aired on 2026-11-12 on Geo TV. The full episode is available on the channel's official YouTube page.",
           "Watch the full episode here: https://www.youtube.com/watch?v=X2kI6HpeBLE"
         ]
+      },
+      {
+        "h": "Episode Summary",
+        "p": [
+          "Is episode ki shuruaat mein Uswah jaanemaaz par ro rahi hoti hai. Issa uske paas aakar poochta hai ke kya woh is ghar se jaane ke g"
+        ]
       }
     ],
     "facts": [
       "Uswah Episode 50 aired on 2026-11-12.",
       "Channel: Geo TV.",
       "Watch the full episode: https://www.youtube.com/watch?v=X2kI6HpeBLE",
-      "YouTube views: 172,205."
+      "YouTube views: 172,205.",
+      "Episode summary added 2026-11-21."
     ],
     "entities": {
       "titles": [
@@ -136531,13 +136538,20 @@ window.FA_ARTICLES = {
           "Khushi Episode 62 aired on 2026-11-13 on HUM TV. The full episode is available on the channel's official YouTube page.",
           "Watch the full episode here: https://www.youtube.com/watch?v=EDv94RxGqeU"
         ]
+      },
+      {
+        "h": "Episode Summary",
+        "p": [
+          "Is episode mein doctor batati hai ke Khushi ki jaan toh bach gayi hai lekin miscarriage ki wajah se unka bacha nahi raha. Is khabar se Ammar shadeed"
+        ]
       }
     ],
     "facts": [
       "Khushi Episode 62 aired on 2026-11-13.",
       "Channel: HUM TV.",
       "Watch the full episode: https://www.youtube.com/watch?v=EDv94RxGqeU",
-      "YouTube views: 171,961."
+      "YouTube views: 171,961.",
+      "Episode summary added 2026-11-21."
     ],
     "entities": {
       "titles": [
@@ -211116,5 +211130,539 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Sat, 21 Nov 2026 14:26:23 +0000"
+  },
+  "682jou": {
+    "id": "682jou",
+    "type": "news",
+    "headline": "Khushi Episode 70 — Watch Online on HUM TV",
+    "dek": "Khushi episode 70 aired on 2026-11-21 — watch the full episode on HUM TV.",
+    "body": [
+      {
+        "h": "Episode Details",
+        "p": [
+          "Khushi Episode 70 aired on 2026-11-21 on HUM TV. The full episode is available on the channel's official YouTube page.",
+          "Watch the full episode here: https://www.youtube.com/watch?v=p7N5KF4qgIo"
+        ]
+      }
+    ],
+    "facts": [
+      "Khushi Episode 70 aired on 2026-11-21.",
+      "Channel: HUM TV.",
+      "Watch the full episode: https://www.youtube.com/watch?v=p7N5KF4qgIo",
+      "YouTube views: 115,507."
+    ],
+    "entities": {
+      "titles": [
+        "Khushi"
+      ],
+      "people": []
+    },
+    "images": [
+      {
+        "url": "https://i.ytimg.com/vi/p7N5KF4qgIo/hqdefault.jpg",
+        "caption": "Khushi Episode 70",
+        "source": "HUM TV"
+      }
+    ],
+    "published": "2026-11-21T15:00:21Z"
+  },
+  "1e8ye6k": {
+    "id": "1e8ye6k",
+    "type": "news",
+    "headline": "Mera Ghar Episode 5 — Watch Online on ARY Digital",
+    "dek": "Mera Ghar episode 5 aired on 2026-11-21 — watch the full episode on ARY Digital.",
+    "body": [
+      {
+        "h": "Episode Details",
+        "p": [
+          "Mera Ghar Episode 5 aired on 2026-11-21 on ARY Digital. The full episode is available on the channel's official YouTube page.",
+          "Watch the full episode here: https://www.youtube.com/watch?v=0vQVC51KIy8"
+        ]
+      }
+    ],
+    "facts": [
+      "Mera Ghar Episode 5 aired on 2026-11-21.",
+      "Channel: ARY Digital.",
+      "Watch the full episode: https://www.youtube.com/watch?v=0vQVC51KIy8",
+      "YouTube views: 8,302."
+    ],
+    "entities": {
+      "titles": [
+        "Mera Ghar"
+      ],
+      "people": []
+    },
+    "images": [
+      {
+        "url": "https://i.ytimg.com/vi/0vQVC51KIy8/hqdefault.jpg",
+        "caption": "Mera Ghar Episode 5",
+        "source": "ARY Digital"
+      }
+    ],
+    "published": "2026-11-21T15:00:20Z"
+  },
+  "elm815": {
+    "id": "elm815",
+    "type": "news",
+    "headline": "Uswah Episode 59 — Watch Online on Geo TV",
+    "dek": "Uswah episode 59 aired on 2026-11-21 — watch the full episode on Geo TV.",
+    "body": [
+      {
+        "h": "Episode Details",
+        "p": [
+          "Uswah Episode 59 aired on 2026-11-21 on Geo TV. The full episode is available on the channel's official YouTube page.",
+          "Watch the full episode here: https://www.youtube.com/watch?v=cWfeJ0Jf-t0"
+        ]
+      },
+      {
+        "h": "Episode Summary",
+        "p": [
+          "Is episode mein Issa aur Faria ke darmian Uswah ko lekar behas hoti hai, jahan Issa Uswah ki sachai aur ghar walon ke sath uske ache"
+        ]
+      }
+    ],
+    "facts": [
+      "Uswah Episode 59 aired on 2026-11-21.",
+      "Channel: Geo TV.",
+      "Watch the full episode: https://www.youtube.com/watch?v=cWfeJ0Jf-t0",
+      "YouTube views: 345,492.",
+      "Episode summary added 2026-11-21."
+    ],
+    "entities": {
+      "titles": [
+        "Uswah"
+      ],
+      "people": []
+    },
+    "images": [
+      {
+        "url": "https://i.ytimg.com/vi/cWfeJ0Jf-t0/hqdefault.jpg",
+        "caption": "Uswah Episode 59",
+        "source": "Geo TV"
+      }
+    ],
+    "published": "2026-11-21T15:00:10Z"
+  },
+  "y4vz7p": {
+    "id": "y4vz7p",
+    "type": "news",
+    "headline": "Dastoor Episode 92 — Watch Online on Green TV",
+    "dek": "Dastoor episode 92 aired on 2026-11-21 — watch the full episode on Green TV.",
+    "body": [
+      {
+        "h": "Episode Details",
+        "p": [
+          "Dastoor Episode 92 aired on 2026-11-21 on Green TV. The full episode is available on the channel's official YouTube page.",
+          "Watch the full episode here: https://www.youtube.com/watch?v=uO563OZjPvo"
+        ]
+      },
+      {
+        "h": "About Dastoor",
+        "p": [
+          "Dastoor is a heartfelt family drama filled with love, sacrifice, family conflicts, secrets, and emotional twists. Follow the journey of a mother and her daughters as they face difficult choices, broken relationships, and unexpected turns of fate a story of love, pain, forgiveness, and second chances."
+        ]
+      }
+    ],
+    "facts": [
+      "Dastoor Episode 92 aired on 2026-11-21.",
+      "Channel: Green TV.",
+      "Watch the full episode: https://www.youtube.com/watch?v=uO563OZjPvo",
+      "YouTube views: 57,229.",
+      "TMDB: Dastoor (id 329481)."
+    ],
+    "entities": {
+      "titles": [
+        "Dastoor"
+      ],
+      "people": [
+        "Hibba Aziz",
+        "Danial Afzal Khan",
+        "Areej Mohyudin",
+        "Faraz Farooqui",
+        "Azra Mohyeddin"
+      ]
+    },
+    "images": [
+      {
+        "url": "https://i.ytimg.com/vi/uO563OZjPvo/hqdefault.jpg",
+        "caption": "Dastoor Episode 92",
+        "source": "Green TV"
+      }
+    ],
+    "published": "2026-11-21T14:45:06Z"
+  },
+  "1jv13rt": {
+    "id": "1jv13rt",
+    "type": "news",
+    "headline": "Ranbir Kapoor Surpasses Ajay Devgn And Shah Rukh Khan In Star Rankings Following Ramayana Milestone",
+    "dek": "Ranbir Kapoor climbs to the fourth position in the Koimoi Star Ranking after his latest epic crosses the massive 900 crore net milestone domestically.",
+    "body": [
+      {
+        "h": "Milestone Achievement At The Box Office",
+        "p": [
+          "The theatrical run of the magnum opus has achieved yet another significant financial milestone by officially entering the 900 crore net club at the Indian box office. This major accomplishment occurred on the third Friday, marking day 15 of its ongoing theatrical run.",
+          "The continuous stream of positive ticket sales has allowed the feature to cement its place in cinematic history, driving substantial gains for its lead actor in industry power indices."
+        ]
+      },
+      {
+        "h": "Climbing The Koimoi Star Ranking",
+        "p": [
+          "In the wake of this monumental domestic collection, the leading man has witnessed a major upward shift in the Koimoi Star Power Index. By accumulating additional points from the latest release, he successfully leapfrogged several prominent industry names.",
+          "He now stands above high-profile contemporaries, securing a coveted spot near the very top of the performance-based ranking system."
+        ]
+      },
+      {
+        "h": "How The Star Power Index Works",
+        "p": [
+          "The evaluation system awards points to actors depending on the box office milestones their Hindi-language films achieve in domestic collections. Specific thresholds like the 100 crore club, 200 crore club, and higher tiers grant a proportionate number of points.",
+          "Additionally, actors can earn extra bonuses if their cinematic projects feature among the top ten overseas grossers for Bollywood, though regional films are evaluated strictly on their Hindi-dubbed earnings."
+        ]
+      },
+      {
+        "h": "Points Breakdown For The Lead Star",
+        "p": [
+          "Before the release of this recent epic, the actor held a baseline score of 1450 points. With the latest feature crossing the 900 crore mark, he received an addition of 900 points to his overall tally.",
+          "Although the film entered the top 10 Bollywood overseas grossers, it incidentally pushed another of his previous blockbusters off that specific list, keeping those supplementary points neutral and bringing his total standing to 2350 points."
+        ]
+      },
+      {
+        "h": "Overtaking Shah Rukh Khan And Ajay Devgn",
+        "p": [
+          "With his new aggregate of 2350 points, the performer moved past both Shah Rukh Khan and Ajay Devgn, who each sit at 2300 points. This strategic leap places him firmly in the fourth rank.",
+          "Industry analysts are watching closely to see if upcoming milestones could propel him even further up the ladder."
+        ]
+      },
+      {
+        "h": "Potential For Further Advancement",
+        "p": [
+          "There remains a distinct possibility that the film could push past the 1000 crore net club threshold in the domestic market. Should that milestone occur, the actor could gain enough momentum to overtake Akshay Kumar.",
+          "Such a progression would secure him the third spot in the overall index standings."
+        ]
+      },
+      {
+        "h": "Comprehensive Career Contributions",
+        "p": [
+          "The actor's impressive 2350 points are compiled from a diverse array of successful titles across different box office brackets. His tally includes multiple films in the 100 crore club such as Barfi, Yeh Jawaani Hai Deewani, Ae Dil Hai Mushkil, and Tu Jhoothi Main Makkaar.",
+          "Further contributions come from Brahmastra in the 200 crore club, Sanju in the 300 crore club, Animal in the 500 crore club, and the latest monumental addition."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Ranbir Kapoor has overtaken Shah Rukh Khan and Ajay Devgn in the Koimoi Star Ranking after Ramayana entered the 900 crore net club on day 15. This box office milestone brought his total score to 2350 points, placing him fourth overall."
+        ]
+      }
+    ],
+    "facts": [
+      "Ranbir Kapoor has 2350 points in the Koimoi Star Ranking.",
+      "Shah Rukh Khan and Ajay Devgn each have 2300 points.",
+      "Ramayana entered the 900 crore net club on the third Friday, day 15.",
+      "Akshay Kumar stands at 2400 points."
+    ],
+    "entities": {
+      "people": [
+        "Ranbir Kapoor",
+        "Ajay Devgn",
+        "Shah Rukh Khan",
+        "Akshay Kumar"
+      ],
+      "titles": [
+        "Ramayana",
+        "Barfi",
+        "Yeh Jawaani Hai Deewani",
+        "Ae Dil Hai Mushkil",
+        "Tu Jhoothi Main Makkaar",
+        "Brahmastra",
+        "Sanju",
+        "Animal"
+      ]
+    },
+    "keywords": [
+      "Ramayana box office",
+      "Ranbir Kapoor Ramayana",
+      "Koimoi Star Ranking",
+      "Ranbir Kapoor Ajay Devgn Shah Rukh Khan"
+    ],
+    "images": [
+      {
+        "url": "https://www.koimoi.com/wp-content/new-galleries/2026/11/ranbir-from-ramayana-vs-srk-ajay-devgn-from-drishyam-3-box-office-01.jpg-2.jpeg",
+        "caption": "Ranbir Kapoor Surpasses Ajay Devgn And Shah Rukh Khan In Star Rankings Following Ramayana Milestone",
+        "source": "Koimoi"
+      }
+    ],
+    "published": "Sat, 21 Nov 2026 15:03:02 +0000"
+  },
+  "pcxr8p": {
+    "id": "pcxr8p",
+    "type": "news",
+    "headline": "Netflix's Leading Awards Contender Exits Theaters Ahead of Domestic Streaming Launch",
+    "dek": "A celebrated Spanish-language epic from Netflix's awards slate departs from hundreds of screens to prepare for its home platform debut.",
+    "body": [
+      {
+        "h": "The Shift in Distribution Strategy",
+        "p": [
+          "As the streaming giant continues its pursuit of the Academy Award for Best Picture, its current season slate has generated varied responses. While the platform remains intensely focused on ultimate recognition, the overall roster of contenders appears notably smaller compared to previous years.",
+          "Among the prominent titles, the World War II project directed by Peter Berg faced mixed critical reception upon release. Meanwhile, other upcoming titles occupy ambiguous positions regarding their potential for major accolades, turning attention toward a critically acclaimed Spanish-language epic."
+        ]
+      },
+      {
+        "h": "A Standout International Contender",
+        "p": [
+          "Originating from a prestigious premiere at the Cannes Film Festival, the acclaimed foreign-language feature has emerged as the clear frontrunner for awards consideration within the company's lineup.",
+          "The project also represents a significant turning point in the streaming service's recent experiments with traditional theatrical rollouts, offering audiences a chance to experience the scale of the production on the big screen."
+        ]
+      },
+      {
+        "h": "Historic Theatrical Run",
+        "p": [
+          "Breaking previous benchmarks established by past platform releases like Marriage Story, this foreign-language epic achieved a uniquely prolonged theatrical window. It officially opened in cinemas on October 16.",
+          "Following its domestic presence, the feature is scheduled to land on the platform for home viewing on December 2, signaling a structured transition from traditional exhibition to digital streaming."
+        ]
+      },
+      {
+        "h": "Global Box Office Performance",
+        "p": [
+          "Before its digital availability, the picture secured distribution across multiple international territories through various local partner companies, contributing heavily to its financial footprint.",
+          "To date, the worldwide earnings have approached nearly $50 million globally, with domestic venues generating close to $4 million of that overall cumulative figure."
+        ]
+      },
+      {
+        "h": "Star-Studded Cast and Crew",
+        "p": [
+          "The ambitious production features a prominent ensemble cast led by musician Guitarricadelafuente in the central role.",
+          "The stellar lineup is further elevated by the inclusion of internationally renowned performers Penélope Cruz and Glenn Close, adding considerable star power to the acclaimed epic."
+        ]
+      },
+      {
+        "h": "Broader Platform Slate Context",
+        "p": [
+          "Alongside the Spanish-language frontrunner, other high-profile projects have navigated varying distribution paths. Peter Berg's war drama received a restricted theatrical footprint before transitioning to the platform.",
+          "Additionally, separate features on the roster have secured brief, exclusive engagements in select specialty venues, such as a planned two-week IMAX run for alternative titles."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Netflix's leading awards hopeful, a critically praised Spanish-language epic, has departed from hundreds of theaters ahead of its domestic streaming debut. The film, which features a cast including Penélope Cruz, Glenn Close, and Guitarricadelafuente, previously achieved a record-breaking theatrical window for the platform and grossed nearly $50 million worldwide."
+        ]
+      }
+    ],
+    "facts": [
+      "Published on Nov 21, 2026",
+      "The Spanish-language epic debuted theatrically on October 16",
+      "The film will be released on Netflix domestically on December 2",
+      "The film has grossed nearly $50 million worldwide",
+      "Domestic theaters have contributed nearly $4 million to the box office total"
+    ],
+    "entities": {
+      "people": [
+        "Peter Berg",
+        "Guitarricadelafuente",
+        "Penélope Cruz",
+        "Glenn Close"
+      ],
+      "titles": [
+        "The Mosquito Bowl",
+        "The Further Mis-Adventures of Cliff Booth",
+        "Marriage Story"
+      ]
+    },
+    "keywords": [
+      "The Further Mis-Adventures of Cliff Booth",
+      "The Mosquito Bowl",
+      "Penelope Cruz Netflix movie",
+      "Netflix Oscar hopeful 2026"
+    ],
+    "images": [
+      {
+        "url": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/11/la-bola-negra.jpg?w=1600&amp;h=900&amp;fit=crop",
+        "caption": "Netflix's Leading Awards Contender Exits Theaters Ahead of Domestic Streaming Launch",
+        "source": "Collider"
+      }
+    ],
+    "published": "Sat, 21 Nov 2026 15:00:12 GMT"
+  },
+  "7w1xre": {
+    "id": "7w1xre",
+    "type": "news",
+    "headline": "Sidharth Malhotra and Kiara Advani Enjoy Mumbai Dinner Date",
+    "dek": "Expectant parents Sidharth Malhotra and Kiara Advani stepped out in Mumbai for a quiet evening, drawing public attention when a heartwarming fan interaction captured by the paparazzi went viral across digital platforms.",
+    "body": [
+      {
+        "h": "The Mumbai Dinner Outing",
+        "p": [
+          "Bollywood couple Sidharth Malhotra and Kiara Advani were recently spotted by photographers while heading out for a dinner date in Mumbai. The expecting parents chose to spend a quiet evening together at a local restaurant, drawing immediate attention from shutterbugs stationed outside.",
+          "As public figures, their outings frequently attract notice, but this particular evening turned into a memorable public appearance due to an unexpected and charming encounter with an admirer right outside the venue."
+        ]
+      },
+      {
+        "h": "Expecting Their Second Child",
+        "p": [
+          "The celebrity couple is currently anticipating the arrival of their second child together. Their growing family has been a frequent topic of interest among entertainment enthusiasts following their marriage and subsequent life updates.",
+          "Despite the steady media glare and the attention surrounding their personal lives, the duo continues to make public appearances together, maintaining a low-key yet graceful presence during their outings."
+        ]
+      },
+      {
+        "h": "A Heartwarming Fan Encounter",
+        "p": [
+          "While leaving the restaurant, Kiara Advani settled into their waiting vehicle while Sidharth Malhotra walked toward the car. During this brief moment, the actor noticed a young boy being held by his father near the exit.",
+          "Rather than walking past, Sidharth acknowledged the family and paused to pose for a quick photograph with the child, creating an instant connection that delighted onlookers and cameras alike."
+        ]
+      },
+      {
+        "h": "An Adorable Interaction",
+        "p": [
+          "The small interaction quickly escalated into a memorable highlight of the evening when the little fan reached out and placed his hands on the actor's face. The child then planted an affectionate kiss on Sidharth's cheek.",
+          "Caught by surprise, the actor responded with a warm smile, visibly touched by the innocent gesture from his young admirer before finally stepping into the vehicle to join Kiara."
+        ]
+      },
+      {
+        "h": "Going Viral Online",
+        "p": [
+          "Photographs and video clips capturing the heartwarming cheek-kiss moment spread rapidly across social media channels shortly after the incident took place. Followers and fan clubs shared the visuals extensively, turning the simple dinner outing into a trending topic online.",
+          "The widespread digital reaction highlighted the public's affection for the couple and the genuine, unscripted warmth displayed by the actor toward his young supporter."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Parents-to-be Sidharth Malhotra and Kiara Advani were recently photographed during a dinner outing in Mumbai. While leaving the restaurant, Sidharth shared a sweet moment with a young fan who kissed his cheek, and the adorable interaction quickly went viral online."
+        ]
+      }
+    ],
+    "facts": [
+      "Sidharth Malhotra and Kiara Advani went on a dinner date in Mumbai on November 21, 2026.",
+      "The couple is expecting their second child together.",
+      "Sidharth Malhotra interacted with a young boy held by his father and posed for a picture.",
+      "The young fan kissed Sidharth Malhotra on the cheek, causing the actor to smile."
+    ],
+    "entities": {
+      "people": [
+        "Sidharth Malhotra",
+        "Kiara Advani",
+        "Srijita Sen"
+      ],
+      "titles": []
+    },
+    "keywords": [
+      "Sidharth Malhotra Kiara Advani",
+      "Sidharth Malhotra fan moment",
+      "Kiara Advani pregnancy dinner date",
+      "Sidharth Malhotra viral video"
+    ],
+    "images": [
+      {
+        "url": "https://filmfare.wwmindia.com/content/2026/nov/kiara-sidharth1795245493.jpg",
+        "caption": "Sidharth Malhotra and Kiara Advani Enjoy Mumbai Dinner Date",
+        "source": "Filmfare"
+      }
+    ],
+    "published": "2026-11-21T13:40:32+05:30"
+  },
+  "aeejwy": {
+    "id": "aeejwy",
+    "type": "news",
+    "headline": "Rush Hour 4 Reports Reveal Potential Filming Schedule and 2028 Release Plan",
+    "dek": "After nearly two decades of waiting, the long-rumored fourth installment of the buddy-cop comedy franchise has received a potential production timeline and international shooting locations.",
+    "body": [
+      {
+        "h": "Production Timeline and Global Locations",
+        "p": [
+          "The long-gestating action-comedy sequel Rush Hour 4 is targeting a spring filming start. Producer Arthur Sarkissian has indicated that production will span multiple international territories.",
+          "The planned locations for the upcoming $120 million-budgeted project include shoots in Africa, China, Italy, and Saudi Arabia, with creators eyeing a release window in 2028."
+        ]
+      },
+      {
+        "h": "Cast and Director Return",
+        "p": [
+          "The franchise's iconic lead duo is expected to reunite for the fourth film. Jackie Chan has already signed his deal to reprise his role as Hong Kong police inspector Lee.",
+          "Chris Tucker is reportedly close to finalizing his agreement to return as LAPD detective James Carter. Meanwhile, Brett Ratner is slated to return behind the camera to direct the sequel."
+        ]
+      },
+      {
+        "h": "Franchise Background and History",
+        "p": [
+          "Created by Ross LaManna and originally directed by Brett Ratner, the Rush Hour series became a massive global phenomenon. The first three theatrical releases generated around $850 million worldwide between 1998 and 2007.",
+          "The brand also expanded into television with a short-lived series adaptation in 2016, though that project struggled to find an audience and failed to launch successfully."
+        ]
+      },
+      {
+        "h": "Studio Involvement and Development Origins",
+        "p": [
+          "Recent media reports claimed that political pressures influenced the involvement of Skydance and Paramount in distributing the upcoming sequel. However, Skydance CEO David Ellison addressed these claims at The New York Times DealBook Summit.",
+          "Ellison dismissed the rumors of external pressure as entirely fabricated stories. He clarified that the project gained momentum organically when Josh Greenstein, one of the film studio heads, first brought the concept into his office."
+        ]
+      },
+      {
+        "h": "Director Connections and Recent Projects",
+        "p": [
+          "Director Brett Ratner has been heavily involved in development preparations for the upcoming action sequel. Earlier in the year, he joined a trip on Air Force One to China, which reportedly involved scouting international locations for the movie.",
+          "In addition to his work on the action franchise, Ratner's recent directorial credits include Melania, an Amazon documentary centered on First Lady Melania Trump."
+        ]
+      },
+      {
+        "h": "Fan Anticipation After Two Decades",
+        "p": [
+          "It has been nearly twenty years since the theatrical release of Rush Hour 3, leaving many enthusiasts to wonder if a fourth movie would ever materialize. The latest updates provide a renewed sense of optimism.",
+          "While development has moved slowly over the years, the prospect of seeing the original comedic pairing back on the silver screen in 2028 has revitalized interest in the franchise."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Producer Arthur Sarkissian announced that Rush Hour 4 is aiming for a spring filming schedule with a $120 million budget across multiple global locations, targeting a 2028 release. Jackie Chan has signed on to return alongside Chris Tucker, while studio head David Ellison refuted rumors of political pressure regarding the project's distribution."
+        ]
+      }
+    ],
+    "facts": [
+      "The first three Rush Hour films grossed around $850 million worldwide between 1998 and 2007.",
+      "A short-lived TV adaptation of Rush Hour was released in 2016.",
+      "Producer Arthur Sarkissian stated that the plan is for director Brett Ratner to shoot Rush Hour 4 in the spring.",
+      "The budget for Rush Hour 4 is reported to be $120 million.",
+      "Filming locations for the sequel include Africa, China, Italy, and Saudi Arabia.",
+      "The planned release window for Rush Hour 4 is sometime in 2028.",
+      "Jackie Chan has signed a deal to return for the fourth film.",
+      "Arthur Sarkissian has been with the series since coming up with the idea in 1995.",
+      "Skydance CEO David Ellison spoke about the project at The New York Times DealBook Summit.",
+      "Josh Greenstein is one of the heads of the film studio who brought Rush Hour 4 to Ellison's office.",
+      "Brett Ratner's latest release is the Amazon documentary Melania."
+    ],
+    "entities": {
+      "people": [
+        "Rianna de Bono-Smith",
+        "Lee",
+        "James Carter",
+        "Ross LaManna",
+        "Brett Ratner",
+        "Arthur Sarkissian",
+        "Donald Trump",
+        "David Ellison",
+        "Josh Greenstein",
+        "Melania Trump",
+        "Mel Gibson"
+      ],
+      "titles": [
+        "Rush Hour 4",
+        "Rush Hour",
+        "Rush Hour 3",
+        "Rush Hour 2",
+        "Melania",
+        "Lethal Weapon 5"
+      ]
+    },
+    "keywords": [
+      "Rush Hour 4",
+      "Jackie Chan Chris Tucker",
+      "Arthur Sarkissian",
+      "Brett Ratner"
+    ],
+    "images": [
+      {
+        "url": "https://static0.srcdn.com/wordpress/wp-content/uploads/2025/11/rush-hour-2.jpg?w=1600&amp;h=900&amp;fit=crop",
+        "caption": "Rush Hour 4 Reports Reveal Potential Filming Schedule and 2028 Release Plan",
+        "source": "Screen Rant"
+      }
+    ],
+    "published": "Sat, 21 Nov 2026 14:55:49 GMT"
   }
 };
