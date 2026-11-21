@@ -208760,5 +208760,407 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Sat, 21 Nov 2026 07:00:18 GMT"
+  },
+  "t6ufyf": {
+    "id": "t6ufyf",
+    "type": "news",
+    "headline": "Sonu Nigam Turns Raipur-Mumbai Flight Into Impromptu Live Concert",
+    "dek": "Passengers on an IndiGo flight surprised veteran playback singer Sonu Nigam by singing his classic hits, prompting an unforgettable mid-air musical performance.",
+    "body": [
+      {
+        "h": "An Unexpected Mid-Air Concert",
+        "p": [
+          "A routine flight from Raipur to Mumbai turned into a memorable celebration of music when passengers unexpectedly broke into song. Acclaimed playback singer Sonu Nigam found himself surrounded by fans who recognized him on board the aircraft. Touched by the spontaneous outpouring of affection, the renowned artist decided to return the gesture by treating everyone present to a live performance right in the cabin aisles.",
+          "The heartwarming encounter quickly captured widespread attention after footage of the event surfaced online. Music lovers on social media praised the rare interaction between a major celebrity and everyday travelers, highlighting the genuine connection shared between the artist and his admirers during the routine commercial flight."
+        ]
+      },
+      {
+        "h": "Origins of the Journey",
+        "p": [
+          "The memorable incident occurred on an IndiGo flight following a busy weekend of performances. Sonu Nigam was traveling back home after headlining a successful concert event a day earlier at Oriana Fest, hosted at AIIMS Raipur. Travelers who boarded the same aircraft quickly spotted the iconic voice behind numerous Bollywood blockbusters seated among them.",
+          "As word spread through the cabin that the celebrated singer was on their flight, excitement began to build. Passengers started humming familiar tunes, gradually turning the quiet commercial cabin into an enthusiastic chorus of some of the most beloved melodies in modern Indian cinema history."
+        ]
+      },
+      {
+        "h": "Singing Along to Bollywood Classics",
+        "p": [
+          "The impromptu singalong featured several iconic tracks associated with Sonu Nigam's illustrious career. Travelers began harmonizing to memorable numbers such as 'Kal Ho Naa Ho' and 'Main Agar Kahoon' from the hit film 'Om Shanti Om'. The singer pulled out his phone to record the unexpected display of affection, later describing the musical provocation as a wonderfully unique experience.",
+          "The collective enthusiasm in the cabin demonstrated the enduring popularity of his discography. Hearing their favorite tracks echoed back by a crowd of strangers left the celebrated vocalist visibly moved by the unexpected tribute taking place thousands of feet in the air."
+        ]
+      },
+      {
+        "h": "Patience Paid Off After Landing",
+        "p": [
+          "The dedication of the passengers extended even after the aircraft safely touched down at its destination. Although the seat belt signs were switched off and travelers were permitted to exit, the majority of the passengers chose to remain seated in anticipation of a full performance. Their clear expectation for a show prompted the singer to acknowledge their unwavering patience.",
+          "Observing that nobody was eager to rush toward the exit, Sonu Nigam shared a glimpse of the moment on social media. He noted that the sight of passengers staying firmly in their seats long after landing was a clear indicator that they were eagerly waiting for the music to officially begin."
+        ]
+      },
+      {
+        "h": "An Impromptu Performance in the Aisle",
+        "p": [
+          "Responding to the clear enthusiasm of the crowd, Sonu Nigam stepped into the aircraft aisle to deliver an unplanned concert. He opened his mini-recital with 'Kiska Hai Tumko Intezaar', swiftly followed by 'Main Hoon Na', 'Tujhe Lage Na Nazariya', and another rendition of 'Kal Ho Naa Ho'.",
+          "As enthusiastic requests echoed from different rows, the performer continued with beloved tracks including 'Bijuria' and 'Har Ghadi Badal Rahi Hai Zindagi'. The passengers cheered and sang along, creating an electric atmosphere inside the confined space of the commercial airliner."
+        ]
+      },
+      {
+        "h": "Expressing Gratitude Online",
+        "p": [
+          "Following the flight, Sonu Nigam uploaded footage of the unplanned musical session to express his gratitude to the passengers. He described the encounter as a magical experience that felt surreal, noting that the depth of affection displayed by the travelers belonged to the realm of dreams.",
+          "The online post resonated deeply with fans across the country, garnering widespread appreciation for his humility and willingness to engage with everyday travelers. The clip added another cherished chapter to his decades-long journey as one of the nation's most celebrated musical talents."
+        ]
+      },
+      {
+        "h": "A Storied Musical Career",
+        "p": [
+          "Born on July 30, 1973, in Faridabad, Haryana, Sonu Nigam developed an early passion for music under the guidance of his father, Agam Kumar Nigam, with whom he performed on stage from a young age. Over a career spanning several decades, he has established himself as a premier playback singer in Hindi and multiple other Indian languages.",
+          "His significant contributions to the arts were formally recognized when he received the Padma Shri in 2022, marking him as one of the nation's distinguished civilian honorees. Away from the recording studios and concert stages, he shares his life with his wife, Madhurima Nigam, and their son, Nevaan."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Singer Sonu Nigam transformed a commercial flight from Raipur to Mumbai into an impromptu concert after fellow passengers began singing his famous tracks. The artist obliged the enthusiastic crowd by walking down the aisle to perform several of his biggest hits following the plane's arrival.",
+          "The memorable mid-air interaction was captured on video and later shared online, where the vocalist expressed deep gratitude for the unexpected display of affection from his fans."
+        ]
+      }
+    ],
+    "facts": [
+      "The incident took place on Friday, November 20, 2026.",
+      "The flight was an IndiGo aircraft traveling from Raipur to Mumbai.",
+      "Sonu Nigam had performed a day earlier at Oriana Fest, held at AIIMS Raipur.",
+      "Sonu Nigam was born on July 30, 1973, in Faridabad, Haryana.",
+      "Sonu Nigam received the Padma Shri in 2022.",
+      "Sonu Nigam is married to Madhurima Nigam and they have a son named Nevaan."
+    ],
+    "entities": {
+      "people": [
+        "Sonu Nigam",
+        "Agam Kumar Nigam",
+        "Madhurima Nigam",
+        "Nevaan"
+      ],
+      "titles": [
+        "Kal Ho Naa Ho",
+        "Main Agar Kahoon",
+        "Om Shanti Om",
+        "Main Hoon Na",
+        "Bijuria",
+        "Har Ghadi Badal Rahi Hai Zindagi"
+      ]
+    },
+    "keywords": [
+      "Sonu Nigam flight",
+      "Sonu Nigam Raipur Mumbai",
+      "Sonu Nigam IndiGo concert",
+      "Sonu Nigam viral video"
+    ],
+    "images": [
+      {
+        "url": "https://static.toiimg.com/thumb/msid-136049664,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "caption": "Sonu Nigam Turns Raipur-Mumbai Flight Into Impromptu Live Concert",
+        "source": "Times of India — Entertainment"
+      }
+    ],
+    "published": "2026-11-21T14:30:29+05:30"
+  },
+  "1hnn48e": {
+    "id": "1hnn48e",
+    "type": "news",
+    "headline": "Khemjira Forever Episode 4 Finale Release Timing and Streaming Details",
+    "dek": "The Thai BL special series Khemjira Forever concludes its run with the fourth and final episode premiering tonight across television and digital platforms.",
+    "body": [
+      {
+        "h": "The Conclusion of Khemjira Forever",
+        "p": [
+          "The Thai BL series Khemjira Forever reaches its narrative conclusion with the release of its fourth and final episode. Following the popularity of the original run last year, this special follow-up brought back characters Khem and Peem for a compact and limited television event.",
+          "Viewers have eagerly followed the characters as they navigate their final mission together. The primary objective centers on rescuing Khem safely prior to his wedding ceremony, adding substantial emotional stakes to the closing chapter."
+        ]
+      },
+      {
+        "h": "Lead Cast and Character Chemistry",
+        "p": [
+          "The series stars Keng Harit and Namping in the primary lead roles. Their established chemistry has been a core highlight of the special season, drawing strong appreciation from longtime fans of the franchise.",
+          "The dynamic between the central characters has successfully evoked nostalgia for the original series while forging a unique narrative path in these concluding instalments."
+        ]
+      },
+      {
+        "h": "Broadcast Schedule in Thailand and India",
+        "p": [
+          "The finale is scheduled to broadcast on the television channel ONE31 in Thailand. Local viewers can catch the initial telecast during the evening time slot.",
+          "For international audiences, particularly in India, the release timing is adjusted to accommodate time zone differences, allowing fans to follow the broadcast alongside regional streaming updates."
+        ]
+      },
+      {
+        "h": "Digital Streaming Platforms and iQIYI Release",
+        "p": [
+          "Aside from the initial television broadcast, an uncut edition of the fourth episode becomes available on the digital streaming platform iQIYI.",
+          "Subscribers can access the platform to view the final chapter with English subtitles shortly after its television premiere."
+        ]
+      },
+      {
+        "h": "Offline Viewing and Subscription Access",
+        "p": [
+          "Users with active VIP memberships on iQIYI can stream the finale without incurring additional charges. The platform also supports content downloads for offline viewing.",
+          "To utilize the download feature, viewers need to log into the mobile application, navigate to the title page, select the final chapter, and choose the desired video resolution."
+        ]
+      },
+      {
+        "h": "Alternative Viewing Options on Dailymotion",
+        "p": [
+          "In addition to official channels, fan-uploaded clips and full-episode variants occasionally surface on alternative hosting platforms like Dailymotion.",
+          "These unofficial uploads typically appear hours after the official broadcast concludes, serving as an alternative avenue for viewers seeking free access."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Khemjira Forever concludes its four-episode run tonight with the release of its final chapter on ONE31 and iQIYI. Fans can watch the uncut finale online with English subtitles or utilize platform features for offline viewing."
+        ]
+      }
+    ],
+    "facts": [
+      "Khemjira Forever features a limited run of four episodes.",
+      "The final episode airs on Saturday, November 21, 2026.",
+      "The show stars Keng Harit and Namping in lead roles.",
+      "The television broadcast airs on ONE31 at 8:30 PM ICT.",
+      "Indian viewers can stream the episode at 8:00 PM IST on iQIYI."
+    ],
+    "entities": {
+      "people": [
+        "Keng Harit",
+        "Namping",
+        "Khem",
+        "Peem",
+        "Pharan",
+        "CharnJet",
+        "TleFirstone"
+      ],
+      "titles": [
+        "Khemjira Forever",
+        "Khemjira"
+      ]
+    },
+    "keywords": [
+      "Khemjira Forever Episode 4",
+      "Keng Harit Namping",
+      "Khemjira Season 2 finale",
+      "Khemjira Forever iQIYI",
+      "Khemjira Forever release time"
+    ],
+    "images": [
+      {
+        "url": "https://images.filmibeat.com/img/2026/11/feature-2026-11-21t140531-090-64731795250138.jpg",
+        "caption": "Khemjira Forever Episode 4 Finale Release Timing and Streaming Details",
+        "source": "FilmiBeat"
+      }
+    ],
+    "published": "Sat, 21 Nov 2026 14:55:56 +0530"
+  },
+  "mba7q8": {
+    "id": "mba7q8",
+    "type": "news",
+    "headline": "Won Bin's Real Estate Portfolio Surges in Value",
+    "dek": "A property acquired by the actor twelve years ago in Seongsu-dong has seen its market value more than triple.",
+    "body": [
+      {
+        "h": "Property Value Surge in Seongsu-dong",
+        "p": [
+          "A commercial property purchased by South Korean actor Won Bin over a decade ago has experienced a massive increase in market worth. According to data highlighted by a real estate YouTube channel, the asset has more than tripled in financial value since its initial acquisition.",
+          "The structure is situated in the Seongsu-dong area of the Seongdong District in Seoul, specifically near Atelier-gil. Reports indicate that the current estimated worth of this real estate exceeds $4.8 million."
+        ]
+      },
+      {
+        "h": "Initial Purchase and Market Skepticism",
+        "p": [
+          "The actor originally acquired the building in October 2014 for an approximate cost of $1.4 million. At the time of the purchase, industry observers suggested that the price paid was above the standard market rate for the area.",
+          "Despite early doubts regarding the investment decision, the neighborhood underwent a significant transformation over the ensuing years. Seongsu-dong successfully developed into one of Seoul's premier districts for shopping and cafes, driving up local property values."
+        ]
+      },
+      {
+        "h": "Building Specifications and Layout",
+        "p": [
+          "The property in question features a distinct architectural layout tailored for urban commercial use. It consists of one basement level alongside four stories situated above ground.",
+          "Its strategic location within the bustling Atelier-gil sector contributed greatly to its commercial viability and the subsequent appreciation of its overall asset value."
+        ]
+      },
+      {
+        "h": "Additional Real Estate Holdings",
+        "p": [
+          "Beyond the Seongsu-dong asset, the actor and his spouse share ownership of another prominent commercial building. This additional property is located in Cheongdam-dong within the Gangnam District.",
+          "Purchased jointly in 2018 for roughly $10 million, this Gangnam property has also appreciated significantly and is presently estimated to be worth around $29.8 million."
+        ]
+      },
+      {
+        "h": "Total Estimated Portfolio Worth",
+        "p": [
+          "When combining the market estimates of both major real estate holdings, the total value of the actor's property portfolio is substantial. Analysts estimate the combined worth to be approximately $34.5 million.",
+          "This impressive figure highlights a highly successful venture into Seoul's competitive commercial real estate market over the past several years."
+        ]
+      },
+      {
+        "h": "Acting Career and Background",
+        "p": [
+          "Born in 1977, Won Bin launched his professional acting career in 1997 and built a recognized film and television resume. Notable early credits include the television drama \"Autumn in My Heart\" and feature films such as \"Tae Guk Gi: The Brotherhood of War\" and \"Mother.\"",
+          "Despite his lasting fame in the entertainment industry, the performer has not taken on any new acting projects since starring in the film \"The Man from Nowhere\" in 2010."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "A building purchased by Won Bin in Seongsu-dong in October 2014 has more than tripled in value to over $4.8 million. Combined with a Cheongdam-dong property owned with his wife Lee Na Young, his real estate portfolio is now estimated at approximately $34.5 million."
+        ]
+      }
+    ],
+    "facts": [
+      "Won Bin bought a building in Seongsu-dong, Seongdong District, Seoul, for about $1.4 million in October 2014.",
+      "The Seongsu-dong building is now estimated to be worth more than $4.8 million.",
+      "Won Bin and his wife Lee Na Young bought a building in Cheongdam-dong, Gangnam District, in 2018 for about $10 million.",
+      "The Cheongdam-dong building is now estimated at around $29.8 million.",
+      "Won Bin's total real estate is said to be worth about $34.5 million.",
+      "Won Bin was born in 1977 and debuted in 1997.",
+      "Won Bin starred in the drama \"Autumn in My Heart\" and films \"Tae Guk Gi: The Brotherhood of War\", \"Mother\", and \"The Man from Nowhere\"."
+    ],
+    "entities": {
+      "people": [
+        "Won Bin",
+        "Lee Na Young"
+      ],
+      "titles": [
+        "Autumn in My Heart",
+        "Tae Guk Gi: The Brotherhood of War",
+        "Mother",
+        "The Man from Nowhere"
+      ]
+    },
+    "keywords": [
+      "Won Bin Seongsu building",
+      "Won Bin real estate",
+      "Won Bin Lee Na Young building",
+      "Won Bin building value"
+    ],
+    "images": [
+      {
+        "url": "https://i.mydramalist.com/L228eL_2d.jpg",
+        "caption": "Won Bin's Real Estate Portfolio Surges in Value",
+        "source": "MyDramaList"
+      }
+    ],
+    "published": "Sat, 21 Nov 2026 08:42:39 +0000"
+  },
+  "tteq0c": {
+    "id": "tteq0c",
+    "type": "news",
+    "headline": "Ramayana Day 17 Box Office Collection Prediction: Ranbir Kapoor and Yash Starrer Eyes Rs 900 Crore Milestone",
+    "dek": "Nitesh Tiwari's mythological epic Ramayana maintains its steady theatrical run, recording notable occupancy numbers on its third Saturday and racing toward massive box office benchmarks.",
+    "body": [
+      {
+        "h": "The Scale and Ambition of Ramayana",
+        "p": [
+          "Nitesh Tiwari's directorial venture Ramayana continues to generate immense curiosity and dominate entertainment discussions across the country. Built on a massive budget, the project has drawn widespread attention for its ambitious attempt to translate a deeply familiar Indian epic into a cutting-edge theatrical format. The film's grand scale and visual presentation have kept trade circles and moviegoers thoroughly engaged since its release.",
+          "Central to the film's immense recall value is its high-profile casting, which brings together two major cinematic forces. The pairing of Ranbir Kapoor and Yash on the big screen for the first time has created a massive talking point. Ranbir Kapoor steps into the role of Lord Ram, while Yash portrays Raavan, setting the stage for a much-discussed dramatic face-off between the two leading stars."
+        ]
+      },
+      {
+        "h": "An Extensive Ensemble Cast",
+        "p": [
+          "Beyond the primary lead actors, Ramayana features a sprawling and diverse ensemble cast that adds to its widespread appeal. The prominent names attached to the project include Sai Pallavi, Ravi Dubey, Arun Govil, Vivek Oberoi, Rakul Preet Singh, Sheeba Chaddha, Adinath Kothare, and Lara Dutta.",
+          "In addition to the visible cast members, the film features notable voice contributions that have added to the pre-release and post-release buzz. Veteran actor Anupam Kher reportedly lends his distinctive voice to the character of Jatayu, enriching the mythological storytelling experience."
+        ]
+      },
+      {
+        "h": "Audience Reception and Market Dynamics",
+        "p": [
+          "The theatrical journey of the film has witnessed varied public responses, with viewers expressing divided opinions concerning the visual effects and specific actor performances. Despite these mixed reactions, the project has successfully maintained its commercial momentum throughout its two-week theatrical run.",
+          "The ongoing box office performance has provided interesting insights into how contemporary audiences receive large-scale mythological spectacles. With Ranbir Kapoor and Yash steering the narrative forward, the film remains one of the most heavily debated Indian cinematic releases among general audiences and industry analysts alike."
+        ]
+      },
+      {
+        "h": "Third Weekend Growth Expectations",
+        "p": [
+          "Although the film has experienced a natural deceleration as it entered its third week of theatrical exhibition, trade analysts anticipate a renewed surge in ticket sales. With no major competing films scheduled for release in the immediate vicinity, the project is poised to pick up considerable pace during its third weekend.",
+          "This absence of fresh theatrical competition provides a clear window for the feature to maximize its earnings and sustain its presence across cinema halls throughout the country."
+        ]
+      },
+      {
+        "h": "Morning Show Occupancy on Day 17",
+        "p": [
+          "Tracking data published by Sacnilk indicates that the feature maintained a visible presence in theaters as it entered its third Saturday. The early screenings recorded a solid morning show occupancy rate of 21.85%.",
+          "This stable turnout during the morning slots underscores the persistent localized demand for the mythological drama even weeks after its initial theatrical debut."
+        ]
+      },
+      {
+        "h": "Day 17 Box Office Projections and Earnings",
+        "p": [
+          "Current market projections estimate that the film will pull in between Rs 20 crore and Rs 25 crore domestically on its seventeenth day. Furthermore, this projected surge is expected to push the cumulative domestic earnings past the monumental Rs 900 crore milestone in India, while concurrently inching close to the Rs 700 crore mark within the Hindi-speaking market alone.",
+          "Early collection figures up to 1 PM on the same day recorded a total of Rs 6.25 crore across various regions. This subtotal breaks down into Rs 4.96 crore from the Hindi market, Rs 57 lakh from Tamil screenings, Rs 50 lakh from Kannada versions, and Rs 22 lakh from Telugu presentations."
+        ]
+      },
+      {
+        "h": "Challenging Precedents and Overseas Strength",
+        "p": [
+          "If the current day seventeen predictions hold true, the epic will outpace Baahubali 2 to become the third fastest movie to breach the Rs 900 crore threshold in India. In this elite club, Pushpa 2 holds the record at 11 days, followed by Dhurandhar 2 at 14 days, whereas Baahubali 2 required 19 days to achieve the identical milestone.",
+          "On the international front, the feature demonstrated consistent staying power by raking in Rs 8 crore on its sixteenth day overseas. This pushed the aggregate overseas collections to Rs 523 crore, bringing the cumulative worldwide box office total to a staggering Rs 1574.6 crore after 16 days of release."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Ramayana continues its strong theatrical journey by recording a 21.85% morning occupancy on day 17 and eyeing a daily collection of Rs 20-25 crore to cross the Rs 900 crore mark in India. The Nitesh Tiwari directorial is on track to surpass Baahubali 2 as the third fastest film to reach this milestone, supported by steady domestic momentum and a massive Rs 1574.6 crore worldwide total after 16 days."
+        ]
+      }
+    ],
+    "facts": [
+      "Ramayana is directed by Nitesh Tiwari",
+      "Ranbir Kapoor plays Lord Ram",
+      "Yash plays Raavan",
+      "Cast includes Sai Pallavi, Ravi Dubey, Arun Govil, Vivek Oberoi, Rakul Preet Singh, Sheeba Chaddha, Adinath Kothare, and Lara Dutta",
+      "Anupam Kher reportedly voices Jatayu",
+      "Day 17 morning show occupancy was 21.85% on the third Saturday",
+      "Day 17 box office prediction is Rs 20-25 crore",
+      "Day 17 earnings reached Rs 6.25 crore by 1 pm, including Rs 4.96 crore in Hindi, Rs 57 lakh in Tamil, Rs 50 lakh in Kannada, and Rs 22 lakh in Telugu",
+      "Overseas collection on day 16 was Rs 8 crore",
+      "Total overseas collection reached Rs 523 crore after 16 days",
+      "Total worldwide collection reached Rs 1574.6 crore after 16 days",
+      "Pushpa 2 achieved Rs 900 crore in 11 days",
+      "Dhurandhar 2 achieved Rs 900 crore in 14 days",
+      "Baahubali 2 took 19 days to reach Rs 900 crore",
+      "Story published on November 21, 2026"
+    ],
+    "entities": {
+      "people": [
+        "Nitesh Tiwari",
+        "Ranbir Kapoor",
+        "Yash",
+        "Sai Pallavi",
+        "Ravi Dubey",
+        "Arun Govil",
+        "Vivek Oberoi",
+        "Rakul Preet Singh",
+        "Sheeba Chaddha",
+        "Adinath Kothare",
+        "Lara Dutta",
+        "Anupam Kher"
+      ],
+      "titles": [
+        "Ramayana",
+        "Baahubali 2",
+        "Pushpa 2",
+        "Dhurandhar 2"
+      ]
+    },
+    "keywords": [
+      "Ramayana film box office collection",
+      "Ranbir Kapoor Yash Ramayana",
+      "Ramayana day 17 collection prediction",
+      "Nitesh Tiwari Ramayana movie"
+    ],
+    "images": [
+      {
+        "url": "https://images.filmibeat.com/img/2026/11/ramayanaday17feature-53881795251875.jpg",
+        "caption": "Ramayana Day 17 Box Office Collection Prediction: Ranbir Kapoor and Yash Starrer Eyes Rs 900 Crore Milestone",
+        "source": "FilmiBeat"
+      }
+    ],
+    "published": "Sat, 21 Nov 2026 14:36:13 +0530"
   }
 };
