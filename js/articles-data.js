@@ -207193,5 +207193,394 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Sat, 21 Nov 2026 03:03:06 +0000"
+  },
+  "1d4dtfu": {
+    "id": "1d4dtfu",
+    "type": "news",
+    "headline": "Huma Qureshi Starrer Bayaan Set For Direct-To-Digital Premiere On Zee5",
+    "dek": "The investigative drama Bayaan, starring Huma Qureshi and directed by Bikas Ranjan Mishra, is skipping theatrical release for an OTT launch on Zee5.",
+    "body": [
+      {
+        "h": "Direct-To-Digital Premiere Planned",
+        "p": [
+          "The upcoming feature film Bayaan, headlined by actor Huma Qureshi, is bypassing a traditional theatrical run to premiere directly on the digital streaming platform Zee5. Trade insiders revealed that the platform acquired the distribution rights following high praise for the movie's realism, thematic depth, and standout performances.",
+          "Streaming executives anticipate that the narrative will resonate broadly with viewers across different demographics. Present projections point toward a launch window scheduled for either December 2026 or January 2027."
+        ]
+      },
+      {
+        "h": "Censor Board Certification Details",
+        "p": [
+          "Before locking its digital debut, the project successfully cleared the Central Board of Film Certification with specific guidelines. Officials awarded the motion picture a U/A 16+ certification.",
+          "This classification indicates that the content is deemed suitable for mature teenagers and adults alike, ensuring that viewership is not strictly limited to older audiences."
+        ]
+      },
+      {
+        "h": "Plot and Character Dynamics",
+        "p": [
+          "Within the storyline, Huma Qureshi takes on the role of a rookie police officer stationed in Rajasthan. Her character is tasked with navigating a highly sensitive and dangerous investigation involving a powerful cult leader referred to as a Maharaj.",
+          "The central antagonist stands accused of multiple counts of sexual assault against young girls at his ashram. Because the godman commands deep influence over both local law enforcement and political structures, the young investigator faces immense systemic hurdles while attempting to secure a vital testimony, known as a bayaan, to jail him."
+        ]
+      },
+      {
+        "h": "Ensemble Cast and Key Roles",
+        "p": [
+          "Aside from the lead protagonist, the project features a diverse supporting cast including Chandrachur Singh, Sachin Khedekar, Vibhore Mayank, Swati Das, and Sampa Mandal.",
+          "Earlier announcements confirmed that Chandrachur Singh portrays the corrupt religious leader at the center of the criminal investigation."
+        ]
+      },
+      {
+        "h": "Production Team and Creative Leadership",
+        "p": [
+          "The creative vision behind the picture is guided by director Bikas Ranjan Mishra. Production responsibilities are shared among Shiladitya Bora’s Platoon One Films, Summit Studios, and Guidant Films.",
+          "In addition to her primary acting duties, lead star Huma Qureshi is also officially credited as an executive producer on the feature."
+        ]
+      },
+      {
+        "h": "Festival Circuit Background",
+        "p": [
+          "Prior to securing its streaming destination, the drama built critical momentum on the international festival circuit. In September 2025, the title was selected for screening at the prestigious 50th Toronto International Film Festival.",
+          "That year's festival lineup also showcased other notable Indian projects, such as Neeraj Ghaywan’s Homebound and Anurag Kashyap’s Bandar, which stars Bobby Deol."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Huma Qureshi's upcoming movie Bayaan is scheduled for a direct-to-digital premiere on Zee5 in late 2026 or early 2027 after securing a U/A 16+ certificate from the Censor Board. The investigative drama features the actor as a rookie police officer in Rajasthan pursuing a powerful, corrupt godman played by Chandrachur Singh."
+        ]
+      }
+    ],
+    "facts": [
+      "Bayaan is premiering directly on Zee5.",
+      "The film is expected to release in December 2026 or January 2027.",
+      "The CBFC gave the film a U/A 16+ certificate.",
+      "Huma Qureshi plays a rookie police officer in Rajasthan.",
+      "Chandrachur Singh plays a corrupt godman in the film.",
+      "The film was screened at the 50th Toronto International Film Festival in September 2025.",
+      "Bikas Ranjan Mishra is the director of Bayaan.",
+      "Shiladitya Bora’s Platoon One Films, Summit Studios, and Guidant Films produced the movie."
+    ],
+    "entities": {
+      "people": [
+        "Huma Qureshi",
+        "Bikas Ranjan Mishra",
+        "Shiladitya Bora",
+        "Chandrachur Singh",
+        "Sachin Khedekar",
+        "Vibhore Mayank",
+        "Swati Das",
+        "Sampa Mandal",
+        "Neeraj Ghaywan",
+        "Anurag Kashyap",
+        "Bobby Deol",
+        "Yash"
+      ],
+      "titles": [
+        "Bayaan",
+        "Baby Do Die Do",
+        "Toxic",
+        "Pooja Meri Jaan",
+        "Homebound",
+        "Bandar",
+        "Guzarish"
+      ]
+    },
+    "keywords": [
+      "Bayaan film",
+      "Huma Qureshi Bayaan",
+      "Chandrachur Singh Bayaan",
+      "Bayaan Zee5 release"
+    ],
+    "images": [
+      {
+        "url": "https://stat4.bollywoodhungama.in/wp-content/uploads/2026/11/EXCLUSIVE-Huma-Qureshi-starrer-Bayaan-to-have-a-direct-to-digital-release-on-Zee-5.jpg",
+        "caption": "Huma Qureshi Starrer Bayaan Set For Direct-To-Digital Premiere On Zee5",
+        "source": "Bollywood Hungama"
+      }
+    ],
+    "published": "Sat, 21 Nov 2026 10:30:25 +0200"
+  },
+  "1aylaoj": {
+    "id": "1aylaoj",
+    "type": "news",
+    "headline": "Joe Russo Teases Final 'Avengers: Doomsday' Trailer and Discusses Fan Engagement at Doha Film Festival",
+    "dek": "Co-director Joe Russo dropped hints about a potential final trailer release ahead of the film's December premiere while speaking at Qatar's Doha Film Festival.",
+    "body": [
+      {
+        "h": "Teasing the Final Trailer",
+        "p": [
+          "Co-director Joe Russo recently hinted that a final trailer for the highly anticipated blockbuster might drop in the remaining four weeks leading up to its theatrical debut. Speaking at the Doha Industry Days during the Doha Film Festival in Qatar, Russo addressed whether audiences could expect a final preview shortly.",
+          "When questioned about an imminent final trailer release, Russo advised attendees and fans to keep monitoring their social media feeds. The film, distributed by Disney, is scheduled to hit theaters on December 18."
+        ]
+      },
+      {
+        "h": "An Extended Promotional Strategy",
+        "p": [
+          "The promotional rollout for the movie has spanned the last eleven months, breaking traditional marketing patterns. It began last December with a brief teaser attached to screenings of Disney's Avatar: Fire And Ash, which confirmed the return of Steve Rogers, played by Chris Evans.",
+          "Subsequent teasers and promotional material gradually confirmed the appearance of other major characters and groups, including Thor, the X-Men, the Wakandans, and the Fantastic Four. A full trailer debuted at CinemaCon in April before arriving online in July, followed by an additional special look in August."
+        ]
+      },
+      {
+        "h": "Interacting with Audiences and Adapting the Story",
+        "p": [
+          "Russo explained that this extended rollout was designed to engage viewers over a longer period, noting that internet conversations move significantly faster now than they did in 2018 and 2019. By starting the narrative a year early through scattered promotional clips, the filmmakers hoped to build emotional investment piece by piece.",
+          "This approach also allowed the creative team to monitor audience reactions and gauge whether viewers were tracking complex plot points accurately. Russo noted that he could make adjustments based on public reception, ensuring that fans remained on track with the intricate story bill."
+        ]
+      },
+      {
+        "h": "Navigating Fan Passion and Internet Noise",
+        "p": [
+          "Addressing the dynamic surrounding the project, Russo acknowledged the intense eagerness of the fanbase. He joked that whenever non-trailer content was posted, the comments section would quickly fill with complaints from anxious fans waiting for more footage.",
+          "While recognizing the presence of negativity and hostile voices online, Russo emphasized his appreciation for the genuine, passionate supporters. He stated that true fans want to immerse themselves, participate in the conversation, and connect with others who share their enthusiasm."
+        ]
+      },
+      {
+        "h": "Reflecting on a Cinematic Journey",
+        "p": [
+          "With the release date just four weeks away, Russo reflected on his career alongside his brother and co-director Anthony Russo. Expressing disbelief at their current success, he recalled starting out as two filmmakers from Cleveland working on borrowed time.",
+          "Russo shared that he often thinks back to being a ten-year-old child sitting in the front row watching The Empire Strikes Back multiple times in a single day. His ultimate goal with the franchise is to recreate that same sense of fascination and wonder for young audiences everywhere."
+        ]
+      },
+      {
+        "h": "Event Background and Context",
+        "p": [
+          "The remarks were delivered during the Doha Industry Days at the Doha Film Festival, an event organized by the Film Committee at Media City Qatar. The festival itself runs through Friday, November 27, while the industry sessions concluded the day prior.",
+          "The event has also featured various other announcements, including discussions on a global AI certification standard by John Penotti and the unveiling of regional talent showcases, highlighting Qatar's growing role in the international film community."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Joe Russo teased a potential final trailer for Avengers: Doomsday during an appearance at the Doha Film Festival in Qatar. He discussed the film's year-long rollout strategy, fan engagement, and his lifelong passion for cinema ahead of the film's December 18 release through Disney."
+        ]
+      }
+    ],
+    "facts": [
+      "Joe Russo spoke at the Doha Industry Days at Qatar's Doha Film Festival.",
+      "Avengers: Doomsday is scheduled for release on December 18 through Disney.",
+      "The Russo brothers produce the film through their company AGBO.",
+      "The first teaser for the film was released in December preceding Avatar: Fire And Ash.",
+      "A full trailer launched at CinemaCon in April 2026 before releasing online on July 20.",
+      "A special look was released online on August 15, 2026.",
+      "The Doha Film Festival runs until Friday, November 27."
+    ],
+    "entities": {
+      "people": [
+        "Joe Russo",
+        "Anthony Russo",
+        "Chris Evans",
+        "Chris Hemsworth",
+        "John Penotti"
+      ],
+      "titles": [
+        "Avengers: Doomsday",
+        "Avatar: Fire And Ash",
+        "The Empire Strikes Back"
+      ]
+    },
+    "keywords": [
+      "Avengers Doomsday trailer",
+      "Joe Russo Doha Film Festival",
+      "Avengers Doomsday release date",
+      "Disney Marvel Studios"
+    ],
+    "images": [
+      {
+        "url": "https://d1nslcd7m2225b.cloudfront.net/Pictures/1024x536/7/9/8/1492798_01213_243604.jpg",
+        "caption": "Joe Russo Teases Final 'Avengers: Doomsday' Trailer and Discusses Fan Engagement at Doha Film Festival",
+        "source": "Screen Daily"
+      }
+    ],
+    "published": "Sat, 21 Nov 2026 05:13:00 GMT"
+  },
+  "ucookv": {
+    "id": "ucookv",
+    "type": "news",
+    "headline": "GTA 6 Features 1982 Bengali Song Aaj Shanibar By Rupa Biswas",
+    "dek": "Indian gamers stumbled upon a delightful surprise in Grand Theft Auto 6 as a vintage 1982 Bengali track by Rupa Biswas started playing on the in-game radio.",
+    "body": [
+      {
+        "h": "The Unexpected Musical Discovery in Grand Theft Auto 6",
+        "p": [
+          "Players exploring the expansive virtual world of Grand Theft Auto 6 have uncovered a charming auditory easter egg that has quickly captured the internet's attention. Instead of familiar Bollywood chartbusters, a vintage Bengali track from four decades ago has been spotted broadcasting on the game's virtual radio stations. Indian players were the first to catch the nostalgic tune and immediately shared clips across social media platforms.",
+          "The track in question is the 1982 song Aaj Shanibar, which translates literally to 'Today is Saturday.' Its inclusion by Rockstar Games represents an unexpected crossover between retro regional Indian music and a massive global video game franchise, delighting both longtime fans of the artist and surprised gamers worldwide."
+        ]
+      },
+      {
+        "h": "Background of the Vintage Track and Artist Rupa Biswas",
+        "p": [
+          "The newly rediscovered song was originally released in 1982 as part of an album titled Disco Jazz by Kolkata-based singer Rupa Biswas. The record was composed and arranged by Aashish Khan, featuring a unique blend of musical styles that included both Bengali and Hindi language tracks.",
+          "While some dedicated music enthusiasts and older listeners were already familiar with the classic record, a vast majority of the game's global audience is discovering the Kolkata singer and her work for the very first time through this virtual platform."
+        ]
+      },
+      {
+        "h": "Launch and Reception of Grand Theft Auto 6",
+        "p": [
+          "The highly anticipated video game officially launched on November 19, 2026, ending a lengthy wait of more than thirteen years since the release of its predecessor, Grand Theft Auto 5, in 2013. Within a single day of its release, players around the world began scouring the map for hidden tricks, easter eggs, and unique features.",
+          "The discovery of the Bengali disco track has easily emerged as one of the most heartwarming surprises for the gaming community. Fans have taken to social media to express their joy, leaving comments praising the developers for giving the classic artist well-deserved recognition on a global stage."
+        ]
+      },
+      {
+        "h": "Setting and Characters of the New Game",
+        "p": [
+          "Grand Theft Auto 6 is set in the fictional state of Leonida, specifically within the fictional town of Vice City, which serves as a thematic stand-in for Miami, Florida. The narrative centers on a Bonnie and Clyde-style duo consisting of protagonists Jason Duval and Lucia Caminos as they attempt to navigate criminal life while dodging corrupt police officers.",
+          "The main characters are brought to life by a talented voice cast, with Dylan Rourke voicing Jason Duval and Manni L. Perez voicing Lucia Caminos. The broader cast includes supporting figures like Jason's friend Cal Hampton, voiced by Bobby Moynihan, and businessman Boobie Ike, voiced by Mike Forbs."
+        ]
+      },
+      {
+        "h": "Supporting Cast and In-Game World Details",
+        "p": [
+          "The immersive world of Vice City is populated by a diverse array of colorful individuals and enterprises. Dre'Quan Priest, the owner of the record label Only Raw Records, is voiced by Naiqui Macabroad, while the musical duo Bae-Luxe and Roxy are brought to life by Hood Brat and Krissy Celess respectively.",
+          "Additional characters featured in the storyline include bank robber Raul Bautista, voiced by Manny Pérez, and Jason's landlord and drug runner Brian Heder, voiced by Stephen Root. These performances add depth to the criminal underworld players navigate while listening to the game's eclectic radio selection."
+        ]
+      },
+      {
+        "h": "Fan Reactions and Cultural Impact",
+        "p": [
+          "The appearance of a 1982 regional Indian song inside a multi-billion-dollar western entertainment property highlights the expanding reach of global music curation in modern video games. Streaming clips featuring the vintage track have accumulated widespread engagement online.",
+          "Comments from delighted listeners range from long-time admirers expressing happiness that Rupa Biswas is receiving fresh appreciation to shocked newcomers enjoying the upbeat retro rhythm during their in-game vehicle drives."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Indian gamers playing Grand Theft Auto 6 discovered the 1982 Bengali song Aaj Shanibar by Kolkata singer Rupa Biswas playing on the in-game radio. The track, originally from the album Disco Jazz, has brought unexpected global fame to the four-decade-old music within days of the game's launch."
+        ]
+      }
+    ],
+    "facts": [
+      "Grand Theft Auto 6 launched on November 19, 2026.",
+      "The song Aaj Shanibar was released in 1982.",
+      "Rupa Biswas is a singer from Kolkata.",
+      "The album containing the track is titled Disco Jazz.",
+      "Aashish Khan composed and arranged the album Disco Jazz.",
+      "Grand Theft Auto 5 was released in 2013.",
+      "Jason Duval is voiced by Dylan Rourke.",
+      "Lucia Caminos is voiced by Manni L. Perez."
+    ],
+    "entities": {
+      "people": [
+        "Rupa Biswas",
+        "Aashish Khan",
+        "Dylan Rourke",
+        "Manni L. Perez",
+        "Bobby Moynihan",
+        "Mike Forbs",
+        "Naiqui Macabroad",
+        "Hood Brat",
+        "Krissy Celess",
+        "Manny Pérez",
+        "Stephen Root"
+      ],
+      "titles": [
+        "Grand Theft Auto 6",
+        "Grand Theft Auto 5",
+        "Aaj Shanibar",
+        "Disco Jazz",
+        "Humpty Sharma Ki Dulhania"
+      ]
+    },
+    "keywords": [
+      "Grand Theft Auto 6",
+      "Aaj Shanibar song",
+      "Rupa Biswas",
+      "Disco Jazz album"
+    ],
+    "images": [
+      {
+        "url": "https://images.timesnownews.com/thumb/msid-156543785,thumbsize-1406274,width-1280,height-720,resizemode-75/156543785.jpg",
+        "caption": "GTA 6 Features 1982 Bengali Song Aaj Shanibar By Rupa Biswas",
+        "source": "Times Now — Entertainment"
+      }
+    ],
+    "published": "2026-11-21T05:52:15Z"
+  },
+  "1g02dmp": {
+    "id": "1g02dmp",
+    "type": "news",
+    "headline": "Why Billy Bob Thornton's Sports Drama Remains a Masterpiece on Streaming",
+    "dek": "An exploration of the 2004 football film that continues to captivate audiences on streaming platforms through its authentic performances and nuanced storytelling.",
+    "body": [
+      {
+        "h": "Capturing the Raw Essence of American Sports",
+        "p": [
+          "Translating the unpredictable nature of sports onto the screen is often an uphill battle for filmmakers. Capturing the genuine passion of crowds, the heartbreak of defeat, and the elation of victory requires a delicate touch that few productions manage to achieve successfully. Yet, the 2004 cinematic adaptation managed to encapsulate precisely what it feels like to live and breathe a local sports culture.",
+          "Based on real-world events from a specific Texas high school season, the feature resonated with audiences and critics alike. It combined grounded storytelling with an astute understanding of how communities rally behind their local teams, setting a high standard for future athletic dramas."
+        ]
+      },
+      {
+        "h": "Inside the Permian Panthers High Stakes World",
+        "p": [
+          "Set in Odessa, Texas, the narrative centers around Permian High School and its revered football squad, the Permian Panthers. Leading the charge is Coach Gary Gaines, who faces immense pressure to secure a state championship title. The squad's aspirations largely rest on the shoulders of star running back James Boobie Miles.",
+          "However, adversity strikes when a minor injury during a routine game throws the entire season into jeopardy. This unexpected setback forces the teenage athletes to confront personal obstacles, intense community scrutiny, and adolescent struggles far beyond their years."
+        ]
+      },
+      {
+        "h": "Off the Field Drama and Community Obsession",
+        "p": [
+          "While the gridiron action drives the plot forward, the most compelling conflict occurs away from the field. The film examines the fragile nature of youthful ambition when an entire town's hopes are pinned on teenagers who are still discovering their identities. Winning does not magically erase personal hardships, and losing does not destroy a player's worth.",
+          "At the same time, the project shines a light on the heavy burden of local obsession. Parents, alumni, and school staff create a high-pressure environment that offers opportunities but also holds young athletes accountable for outcomes well beyond their control."
+        ]
+      },
+      {
+        "h": "A Quietly Powerful Leadership Style",
+        "p": [
+          "Portraying a sports coach often invites clichés of explosive outbursts and loud locker room lectures. Billy Bob Thornton avoids these tired tropes by delivering a remarkably restrained performance as Coach Gaines. His portrayal conveys deep emotion quietly, balancing the need to protect his players with the heavy responsibility of answering to a furious fanbase.",
+          "Thornton's memorable delivery of the team's core philosophy emphasizes living fully in the present moment with clear eyes and joy in the heart. This understated approach makes his character an anchor for the younger cast members navigating chaotic circumstances."
+        ]
+      },
+      {
+        "h": "A Launchpad for Future Stars",
+        "p": [
+          "The production benefited greatly from a talented ensemble of emerging actors who would later build prominent careers in television and film. Performers like Jay Hernandez, Taylor Kitsch, and Lucas Black brought depth to their roles, elevating the characters above typical athletic stereotypes.",
+          "These up-and-coming actors effectively portrayed the vulnerability of adolescence under extreme scrutiny, offering a realistic look at young adults expected to handle massive responsibilities without adequate preparation or guidance."
+        ]
+      },
+      {
+        "h": "Lasting Cultural Impact and Legacy",
+        "p": [
+          "The success of the 2004 movie extended far beyond its initial theatrical run, paving the way for a celebrated television spin-off that broadcast across multiple seasons from 2006 to 2011. The original film's enduring popularity on streaming services proves that its themes regarding community, pressure, and perseverance remain universally relevant.",
+          "By focusing on the human elements behind the athletic competition, the project secured its place as a classic within the genre, continuing to attract new viewers discovering its timeless narrative today."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "The 2004 sports drama film starring Billy Bob Thornton continues to draw strong viewership on streaming platforms due to its authentic portrayal of high school football culture and adolescent pressure. Directed by Peter Berg and based on real events from 1988, the movie remains celebrated for its nuanced performances and lasting cultural influence."
+        ]
+      }
+    ],
+    "facts": [
+      "The film was released in 2004.",
+      "The story is based on the real-life Permian Panthers during their 1988 season.",
+      "The television spin-off ran for five seasons between 2006 and 2011.",
+      "Billy Bob Thornton stars as Coach Gary Gaines."
+    ],
+    "entities": {
+      "people": [
+        "Billy Bob Thornton",
+        "Peter Berg",
+        "Derek Luke",
+        "Jay Hernandez",
+        "Taylor Kitsch",
+        "Lucas Black"
+      ],
+      "titles": [
+        "Friday Night Lights"
+      ]
+    },
+    "keywords": [
+      "Friday Night Lights",
+      "Billy Bob Thornton",
+      "Permian Panthers",
+      "Peter Berg"
+    ],
+    "images": [
+      {
+        "url": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/01/billy-bob-thornton-friday-night-lights.jpg?w=1600&amp;h=900&amp;fit=crop",
+        "caption": "Why Billy Bob Thornton's Sports Drama Remains a Masterpiece on Streaming",
+        "source": "Collider"
+      }
+    ],
+    "published": "Sat, 21 Nov 2026 05:23:12 GMT"
   }
 };
