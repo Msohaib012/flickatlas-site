@@ -1,6 +1,6 @@
 {
  "bucket": "21",
- "count": 83,
+ "count": 84,
  "titles": {
   "movie:1010821": {
    "backdrop_path": "/hlAPsSBPnwGVeBuhCd8llKYBsNT.jpg",
@@ -8761,6 +8761,109 @@
    "type": "movie",
    "vote_average": 6.869,
    "vote_count": 367
+  },
+  "movie:943221": {
+   "backdrop_path": "/xOcwcyLM2lqXCrZG8AIHC8DXElF.jpg",
+   "budget": 1704500,
+   "cast": [
+    {
+     "c": "Josefa",
+     "n": "Ofelia Medina"
+    },
+    {
+     "c": "Nala",
+     "n": "Paola Miguel"
+    },
+    {
+     "c": "Luna",
+     "n": "Ivanna Sofia Ferro"
+    },
+    {
+     "c": "Rebecca",
+     "n": "Samantha Castillo"
+    },
+    {
+     "c": "Guillermo",
+     "n": "Arap Bethke"
+    },
+    {
+     "c": "Pedro",
+     "n": "Mauro González"
+    },
+    {
+     "c": "Vecina",
+     "n": "Mildred Motta"
+    },
+    {
+     "c": "Abigail",
+     "n": "Paloma Alvamar"
+    },
+    {
+     "c": "Mercader",
+     "n": "Pablo Guisa Koestinger"
+    },
+    {
+     "c": "Hombre del pasado",
+     "n": "Carlos Castillo P."
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "12",
+   "date_kind": "release",
+   "director": [
+    "Isaac Ezban"
+   ],
+   "genres": [
+    "Horror"
+   ],
+   "id": 943221,
+   "industry": "world",
+   "origin_country": [
+    "MX"
+   ],
+   "original_language": "es",
+   "overview": "Nala, a thirteen-year-old girl from the city, travels with her family to her grandmother's home in the countryside, to try to find a cure for her little sister's mysterious illness - But she'll soon find her granny is not exactly what she seems...",
+   "popularity": 1.0401,
+   "poster_path": "/vcym9A0idLCFI1iIMRFiXKRvnbs.jpg",
+   "production_countries": [
+    "MX"
+   ],
+   "providers": [
+    {
+     "name": "ViX Premium Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/dZn7SR1rarhMVKnO0OXCAvMjbcv.png",
+     "name": "ViX Premium Amazon Channel",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-21",
+   "release_date": "2022-09-22",
+   "revenue": 0,
+   "runtime": 100,
+   "source": "catalogue",
+   "spoken_languages": [
+    "es"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Evil Eye",
+   "trailer": {
+    "key": "TXtAhO72KqM",
+    "name": "Official Trailer [Subtitled]",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.7,
+   "vote_count": 299
   },
   "movie:96721": {
    "backdrop_path": "/caKZWDGmv5iW2U99skHs75MmOmU.jpg",
