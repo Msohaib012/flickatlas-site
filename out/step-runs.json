@@ -4,45 +4,6 @@
    {
     "step": "fetch",
     "category": "Trending News",
-    "run_at": "2026-11-20T18:46:14Z",
-    "run_id": "44795641115",
-    "status": "success",
-    "checked": {
-     "candidates": 560,
-     "detail": "RSS/Atom items across 137 sources; 10 source(s) errored"
-    },
-    "changed": {
-     "added": [
-      "Niharika Chouksey Opens Up About Her Bond With Tumm Se Tumm Tak Co-Star Angad Hasija: I Have Been His Fan...",
-      "EXCLUSIVE! Farman Haider On His Journey With Jagadhatri: Playing Shivaay For More Than A Year Has Taught...",
-      "EXCL! Has Ssanjay Gaggnani Bid Goodbye To Daily Soaps After Kundali Bhagya? Actor Reveals His Plans",
-      "EXCLUSIVE! Prateik Chaudhary Says SRK, Sushant Singh Rajput Proved TV Actors Can Dream Big: Talent Is Not…",
-      "EXCLUSIVE: What Does Baby Dev's Name Mean Numerologically? Astrologer Decodes Samantha-Raj's Son's Birth Date",
-      "Scene Box Office Collection Day 14: Scores Suriya’s 2nd Biggest Second Week In India!",
-      "Sharvari stuns in a purple hand-embroidered Muga silk kurta-palazzo set worth Rs 1,09,900",
-      "'GTA 6' surprises Indian players with a 40-year-old Bengali track from the album 'Disco Jazz'",
-      "Vin Diesel steps away from 'Fast' series and 'Guardians of the Galaxy' for his original action film ‘Burial Hill’",
-      "Soni Razdan's emotional post for Alia, Shaheen wins hearts: 'Come back, just for a day'",
-      "OM box office collection day 1: Dhanush gets his highest opening after beating Tere Ishk Mein, but lags behind Scene",
-      "Taylor Swift to James Cameron: Full list of Dadasaheb Phalke Awards 2026 winners",
-      "Fired Home Alone Star Sad ‘Every Christmas’ He Has To ‘Put Up’ With More Stories About What Happened",
-      "After All Those Holiday Rumors, Prince Harry Just Revealed What He And Meghan Markle Have Planned",
-      "This Sunrise On The Reaping BTS Photodump Just Solved A Huge Hunger Games Mystery",
-      "Mckenna Grace Rocked Purple, And I Can’t Decide If It’s A Tribute To Maysilee Or Scooby-Doo’s Daphne",
-      "I’m Shocked That A Big Brother Houseguest Is In Grand Theft Auto VI",
-      "New Home Alone Movie Officially in Development With Macaulay Culkin Returning",
-      "Harlan Coben’s Most Famous Hero Is Officially Filming a New Netflix Series",
-      "6 Upcoming Fantasy Films, Ranked by Hype"
-     ],
-     "updated": [],
-     "count": 529,
-     "detail": "546 stories, 0 duplicates removed, 14 dropped"
-    },
-    "reason": null
-   },
-   {
-    "step": "fetch",
-    "category": "Trending News",
     "run_at": "2026-11-20T19:52:19Z",
     "run_id": "44805874590",
     "status": "success",
@@ -936,32 +897,48 @@
      "detail": "331 stories, 2 duplicates removed, 11 dropped"
     },
     "reason": null
-   }
-  ],
-  "apply_auto": [
+   },
    {
-    "step": "apply_auto",
+    "step": "fetch",
     "category": "Trending News",
-    "run_at": "2026-11-20T20:11:42Z",
-    "run_id": "44805874590",
+    "run_at": "2026-11-21T17:51:11Z",
+    "run_id": "44932228567",
     "status": "success",
     "checked": {
-     "candidates": 14,
-     "detail": "draft articles + box-office rows from out/gemini-batch.json"
+     "candidates": 322,
+     "detail": "RSS/Atom items across 137 sources; 0 source(s) errored"
     },
     "changed": {
      "added": [
-      "Avengers Doomsday Advance Booking Points to Record Hollywood Opening in India",
-      "Spice and Wolf Season 2 Confirmed for January 2027 Release with New Lenos Arc and Returning Cast",
-      "Eight Heart-Wrenching Romantic Web Series That Explore Pain and Love",
-      "Sony Pictures Releases First Teaser Trailer for World War II Drama The Nightingale"
+      "EXCL! Ssanjay Gaggnani Reveals If Real Friendships Exist In Showbiz; Talks About His Bond With Nupur Sanon",
+      "Scene Worldwide Box Office Day 15: Suriya Starrer To Wrap Up As Kollywood’s 4th Highest-Grosser Of 2026",
+      "Prime Video's Next Biggest Action Thriller Franchise Is Beating 'Reacher' at Its Own Game",
+      "John Malkovich and Sam Rockwell’s New Movie Officially Removed From 175 Theaters",
+      "Mark Ruffalo’s $686M Non-MCU Hits Are Headed to Netflix Very Soon",
+      "Emma Watson’s $1.034 Billion Movie Is Getting an Elaborate Remake Very Soon",
+      "10 Most-Watched Netflix Series of All Time, Ranked",
+      "26 Years Before 'Yellowstone,' Cole Hauser Made His Film Debut in an Underrated Sports Drama",
+      "'Lioness' Star's Real-Life 144-Minute Military Action Flop Is Being Cut From Free Streaming",
+      "The Witcher 4 Gets Official Update After Winning Its First Award",
+      "Bollywood Epic Set To Smash All-Time Box Office Record This Weekend",
+      "Prime Video’s Next Fantasy Event Is Already Renewed For Season 2 Before Season 1 Premieres",
+      "Christian Bale's New R-Rated Movie Sets Rotten Tomatoes Audience Record After 8 Years",
+      "How Old The O.C. Cast Was Compared To Their Characters",
+      "Marvel Replaces Hulk For His Next Crossover Appearance",
+      "Forget Doomsday, The X-Men Movies Had A Perfect Sequel 9 Years Ago",
+      "21 Short and Sweet Books to Help Hit Your Goodreads Goal Before the Year Ends",
+      "Box Office: ‘The Hunger Games: Sunrise on the Reaping’ Scores $56 Million on Friday, ‘I Play Rocky’ Follows With $3.8 Million",
+      "Liz Daly Byrne, Model and Wife of PMC Vice Chairman Gerry Byrne, Dies at 81",
+      "Lindsay Hubbard Teases ‘Summer House’ Spinoff ‘In the City’ Season 2: “Better Than Season One”"
      ],
      "updated": [],
-     "count": 7,
-     "detail": "+4 articles, +0 box-office rows, 3 rows updated"
+     "count": 299,
+     "detail": "322 stories, 0 duplicates removed, 0 dropped"
     },
     "reason": null
-   },
+   }
+  ],
+  "apply_auto": [
    {
     "step": "apply_auto",
     "category": "Trending News",
@@ -1485,27 +1462,32 @@
      "detail": "+4 articles, +0 box-office rows, 3 rows updated"
     },
     "reason": null
+   },
+   {
+    "step": "apply_auto",
+    "category": "Trending News",
+    "run_at": "2026-11-21T18:10:35Z",
+    "run_id": "44932228567",
+    "status": "success",
+    "checked": {
+     "candidates": 14,
+     "detail": "draft articles + box-office rows from out/gemini-batch.json"
+    },
+    "changed": {
+     "added": [
+      "Shah Rukh Khan's King Trailer Reportedly Slated For Dec 14 Release",
+      "First Look At Claudia Winkleman and Gordon Ramsay For Hell's Kitchen Celebrity Reboot",
+      "Alka Yagnik Set for Stage Comeback at Subhash Ghai's Kya Zamaana Tha Concert After Health Hiatus",
+      "Ramayana: Rise of a Legend Set to Break Domestic Box Office Records"
+     ],
+     "updated": [],
+     "count": 7,
+     "detail": "+4 articles, +0 box-office rows, 3 rows updated"
+    },
+    "reason": null
    }
   ],
   "ott": [
-   {
-    "step": "ott",
-    "category": "OTT",
-    "run_at": "2026-11-20T20:11:42Z",
-    "run_id": "44805874590",
-    "status": "success",
-    "checked": {
-     "candidates": 397,
-     "detail": "OTT now/coming titles from the published catalogue"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 0,
-     "detail": "now 390, coming 7"
-    },
-    "reason": "no-new-data"
-   },
    {
     "step": "ott",
     "category": "OTT",
@@ -1919,26 +1901,27 @@
      "detail": "now 396, coming 7"
     },
     "reason": "no-new-data"
-   }
-  ],
-  "trending_weekly": [
+   },
    {
-    "step": "trending_weekly",
-    "category": "Trending Topics",
-    "run_at": "2026-11-20T18:47:58Z",
-    "run_id": "44795641115",
+    "step": "ott",
+    "category": "OTT",
+    "run_at": "2026-11-21T18:10:35Z",
+    "run_id": "44932228567",
     "status": "success",
     "checked": {
-     "candidates": 100,
-     "detail": "cached Google RSS trend/article intersection"
+     "candidates": 403,
+     "detail": "OTT now/coming titles from the published catalogue"
     },
     "changed": {
      "added": [],
      "updated": [],
-     "count": 0
+     "count": 0,
+     "detail": "now 396, coming 7"
     },
     "reason": "no-new-data"
-   },
+   }
+  ],
+  "trending_weekly": [
    {
     "step": "trending_weekly",
     "category": "Trending Topics",
@@ -2394,27 +2377,26 @@
      "count": 0
     },
     "reason": "no-new-data"
-   }
-  ],
-  "multisource_boxoffice": [
+   },
    {
-    "step": "multisource_boxoffice",
-    "category": "Box Office",
-    "run_at": "2026-11-20T18:47:22Z",
-    "run_id": "44795641115",
+    "step": "trending_weekly",
+    "category": "Trending Topics",
+    "run_at": "2026-11-21T18:27:27Z",
+    "run_id": "44932228567",
     "status": "success",
     "checked": {
-     "candidates": 726,
-     "detail": "673 collected staging rows from readers; 248 averaged across 2+ sources"
+     "candidates": 100,
+     "detail": "cached Google RSS trend/article intersection"
     },
     "changed": {
      "added": [],
      "updated": [],
-     "count": 3,
-     "detail": "+0 new rows, 3 updated rows, 698 unchanged"
+     "count": 0
     },
     "reason": null
-   },
+   }
+  ],
+  "multisource_boxoffice": [
    {
     "step": "multisource_boxoffice",
     "category": "Box Office",
@@ -2828,19 +2810,27 @@
      "detail": "+0 new rows, 3 updated rows, 704 unchanged"
     },
     "reason": null
+   },
+   {
+    "step": "multisource_boxoffice",
+    "category": "Box Office",
+    "run_at": "2026-11-21T18:27:25Z",
+    "run_id": "44932228567",
+    "status": "success",
+    "checked": {
+     "candidates": 733,
+     "detail": "677 collected staging rows from readers; 250 averaged across 2+ sources"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 3,
+     "detail": "+0 new rows, 3 updated rows, 704 unchanged"
+    },
+    "reason": null
    }
   ],
   "gemini_reviews": [
-   {
-    "step": "gemini_reviews",
-    "category": "Reviews",
-    "run_at": "2026-11-20T18:48:08Z",
-    "run_id": "44795641115",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "gemini_reviews",
     "category": "Reviews",
@@ -3077,19 +3067,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "gemini_reviews",
+    "category": "Reviews",
+    "run_at": "2026-11-21T18:27:36Z",
+    "run_id": "44932228567",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "convert_news": [
-   {
-    "step": "convert_news",
-    "category": "Trending News",
-    "run_at": "2026-11-20T20:40:48Z",
-    "run_id": "44805874590",
-    "status": "success",
-    "checked": null,
-    "changed": null,
-    "reason": "no-new-data"
-   },
    {
     "step": "convert_news",
     "category": "Trending News",
@@ -3623,19 +3613,37 @@
      "detail": "api-news.json 600 items, api-trends.json 12 items"
     },
     "reason": null
+   },
+   {
+    "step": "convert_news",
+    "category": "Trending News",
+    "run_at": "2026-11-21T18:27:26Z",
+    "run_id": "44932228567",
+    "status": "success",
+    "checked": {
+     "candidates": 600,
+     "detail": "feed entries from out/queue.json"
+    },
+    "changed": {
+     "added": [
+      "Shah Rukh Khan's King Trailer Reportedly Slated For Dec 14 Release",
+      "First Look At Claudia Winkleman and Gordon Ramsay For Hell's Kitchen Celebrity Reboot",
+      "Alka Yagnik Set for Stage Comeback at Subhash Ghai's Kya Zamaana Tha Concert After Health Hiatus",
+      "Ramayana: Rise of a Legend Set to Break Domestic Box Office Records",
+      "Zehar-e-Mohabbat Episode 27 — Watch Online on HUM TV",
+      "Bano Episode 38 — Watch Online on Geo TV",
+      "Aangan Episode 16 — Watch Online on HUM TV",
+      "Dar-E-Nijaat Episode 33 — Watch Online on ARY Digital",
+      "Nashtar Episode 34 — Watch Online on Geo TV"
+     ],
+     "updated": [],
+     "count": 9,
+     "detail": "api-news.json 600 items, api-trends.json 12 items"
+    },
+    "reason": null
    }
   ],
   "episode_guides": [
-   {
-    "step": "episode_guides",
-    "category": "Drama Episodes",
-    "run_at": "2026-11-20T18:48:08Z",
-    "run_id": "44795641115",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "episode_guides",
     "category": "Drama Episodes",
@@ -3908,65 +3916,37 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "title_seed": [
+   },
    {
-    "step": "title_seed",
-    "category": "Spotlight / Coming Soon / Most Awaited",
-    "run_at": "2026-11-20T18:46:50Z",
-    "run_id": "44795641115",
+    "step": "episode_guides",
+    "category": "Drama Episodes",
+    "run_at": "2026-11-21T18:09:09Z",
+    "run_id": "44932228567",
     "status": "success",
     "checked": {
-     "candidates": 516,
-     "sources": {
-      "trending": 20,
-      "trending_tv": 20,
-      "now_playing": 40,
-      "upcoming": 40,
-      "bollywood": 40,
-      "hindi_recent_movies": 100,
-      "india_window": 40,
-      "world_window": 40,
-      "world_recent": 60,
-      "pk_dramas": 20,
-      "new_tv": 40,
-      "hindi_recent_tv": 39,
-      "pk_movies": 17
-     },
-     "picked": 20,
-     "skipped": 0,
-     "cap": 20,
-     "detail": "Hindi recent movies/TV date-ranked p1-5 + existing regional/trending sources retained"
+     "candidates": 22,
+     "detail": "YouTube episodes on the 4 official PK channels (+ intl 1M+ views); 9 new detected"
     },
     "changed": {
      "added": [
-      "Compliance Training (1828255)",
-      "Cameron Winter at Carnegie Hall (1597242)",
-      "Çiçekçi Kız (339362)",
-      "The Blue Road (300523)",
-      "Gunmaaster G9 (1510775)",
-      "BURN YOUR HOUSE DOWN (1827616)",
-      "Red Snow (1015887)",
-      "River of No Return (203483)",
-      "Haindava (1417808)",
-      "A Woman from the other side of the Window (1826868)",
-      "Viana – The Legend of the Golden Hearts (1135463)",
-      "Niram (1553480)",
-      "606 (1824669)",
-      "The Kolotun and the Magic Kingdom (1269278)",
-      "The Tupac Tapes With Angie Martinez (1823449)",
-      "People Pleaser: Si Paling Gak Enakan (1679486)",
-      "What Happened On November 1st? (1822669)",
-      "Christmas En Pointe (1698629)",
-      "I’m Having Second Thoughts in my Great Aunt’s Bathroom (1820426)",
-      "The Royal Nannies (1790040)"
+      "Zehar-e-Mohabbat Ep 27",
+      "Bano Ep 38",
+      "Aangan Ep 16",
+      "Dar-E-Nijaat Ep 33",
+      "Nashtar Ep 34"
      ],
-     "updated": [],
-     "count": 20
+     "updated": [
+      "Dar-E-Nijaat Ep 33",
+      "Nashtar Ep 34",
+      "Bano Ep 36",
+      "Mera Ghar Ep 3"
+     ],
+     "count": 9
     },
     "reason": null
-   },
+   }
+  ],
+  "title_seed": [
    {
     "step": "title_seed",
     "category": "Spotlight / Coming Soon / Most Awaited",
@@ -4241,31 +4221,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "title_seed",
+    "category": "Spotlight / Coming Soon / Most Awaited",
+    "run_at": "2026-11-21T18:27:36Z",
+    "run_id": "44932228567",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "gemini_batch": [
-   {
-    "step": "gemini_batch",
-    "category": "Trending News",
-    "run_at": "2026-11-20T18:47:21Z",
-    "run_id": "44795641115",
-    "status": "success",
-    "checked": {
-     "candidates": 4,
-     "detail": "news queue items drafted this run; 529 still unprocessed; today by category: movies 10/6, tv_dramas 18/4, episodes 1/2, box_office 11/6, celebrities_events 17/5, upcoming_releases 2/4, ott_streaming 9/4, trailers 1/3, awards 2/2, music_ost 2/2, viral 2/2"
-    },
-    "changed": {
-     "added": [
-      "Scene Box Office Collection Day 14: Registers Suriya’s Second Biggest Second Week in India",
-      "Matthew McConaughey's The Rivals of Amziah King Sets Official Hulu Streaming Release Date",
-      "Sharvari Stuns in a Royal Purple Silk Ensemble at Yeh Prem Mol Liya Promotional Event",
-      "Re:ZERO Season 5 Confirmed With Teaser Visual Featuring Rem And Subaru Natsuki"
-     ],
-     "updated": [],
-     "count": 4
-    },
-    "reason": null
-   },
    {
     "step": "gemini_batch",
     "category": "Trending News",
@@ -4771,19 +4739,31 @@
      "count": 4
     },
     "reason": null
+   },
+   {
+    "step": "gemini_batch",
+    "category": "Trending News",
+    "run_at": "2026-11-21T18:10:34Z",
+    "run_id": "44932228567",
+    "status": "success",
+    "checked": {
+     "candidates": 4,
+     "detail": "news queue items drafted this run; 299 still unprocessed; today by category: movies 9/6, tv_dramas 10/4, episodes 0/2, box_office 13/6, celebrities_events 17/5, upcoming_releases 6/4, ott_streaming 6/4, trailers 2/3, awards 5/2, music_ost 2/2, viral 6/2"
+    },
+    "changed": {
+     "added": [
+      "Shah Rukh Khan's King Trailer Reportedly Slated For Dec 14 Release",
+      "First Look At Claudia Winkleman and Gordon Ramsay For Hell's Kitchen Celebrity Reboot",
+      "Alka Yagnik Set for Stage Comeback at Subhash Ghai's Kya Zamaana Tha Concert After Health Hiatus",
+      "Ramayana: Rise of a Legend Set to Break Domestic Box Office Records"
+     ],
+     "updated": [],
+     "count": 4
+    },
+    "reason": null
    }
   ],
   "overseas_ai": [
-   {
-    "step": "overseas_ai",
-    "category": "Box Office",
-    "run_at": "2026-11-20T18:48:08Z",
-    "run_id": "44795641115",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "overseas_ai",
     "category": "Box Office",
@@ -5090,24 +5070,26 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "publish": [
+   },
    {
-    "step": "publish",
-    "category": "Trending News",
-    "run_at": "2026-11-20T18:48:08Z",
-    "run_id": "44795641115",
+    "step": "overseas_ai",
+    "category": "Box Office",
+    "run_at": "2026-11-21T18:11:59Z",
+    "run_id": "44932228567",
     "status": "success",
-    "checked": null,
+    "checked": {
+     "candidates": 56,
+     "detail": "published movies with missing overseas day figures; Tavily searches: 48"
+    },
     "changed": {
      "added": [],
      "updated": [],
-     "count": 381,
-     "detail": "lines changed in owned files; no per-item summary from script"
+     "count": 0
     },
-    "reason": null
-   },
+    "reason": "no-new-data"
+   }
+  ],
+  "publish": [
    {
     "step": "publish",
     "category": "Trending News",
@@ -5452,19 +5434,19 @@
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
+   },
+   {
+    "step": "publish",
+    "category": "Trending News",
+    "run_at": "2026-11-21T18:27:36Z",
+    "run_id": "44932228567",
+    "status": "failed",
+    "checked": null,
+    "changed": null,
+    "reason": "error"
    }
   ],
   "stats_traffic": [
-   {
-    "step": "stats_traffic",
-    "category": "Stats / Health",
-    "run_at": "2026-11-20T18:48:08Z",
-    "run_id": "44795641115",
-    "status": "success",
-    "checked": null,
-    "changed": null,
-    "reason": "no-new-data"
-   },
    {
     "step": "stats_traffic",
     "category": "Stats / Health",
@@ -5789,24 +5771,24 @@
     "checked": null,
     "changed": null,
     "reason": "no-new-data"
-   }
-  ],
-  "stats_pipeline": [
+   },
    {
-    "step": "stats_pipeline",
+    "step": "stats_traffic",
     "category": "Stats / Health",
-    "run_at": "2026-11-20T18:48:08Z",
-    "run_id": "44795641115",
+    "run_at": "2026-11-21T18:27:36Z",
+    "run_id": "44932228567",
     "status": "success",
     "checked": null,
     "changed": {
      "added": [],
      "updated": [],
-     "count": 82,
+     "count": 17,
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
-   },
+   }
+  ],
+  "stats_pipeline": [
    {
     "step": "stats_pipeline",
     "category": "Stats / Health",
@@ -6051,19 +6033,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "stats_health": [
+   },
    {
-    "step": "stats_health",
+    "step": "stats_pipeline",
     "category": "Stats / Health",
-    "run_at": "2026-11-20T18:48:08Z",
-    "run_id": "44795641115",
+    "run_at": "2026-11-21T18:27:36Z",
+    "run_id": "44932228567",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "stats_health": [
    {
     "step": "stats_health",
     "category": "Stats / Health",
@@ -6298,19 +6280,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "metadata_refresh": [
+   },
    {
-    "step": "metadata_refresh",
-    "category": "Spotlight / Coming Soon / Most Awaited",
-    "run_at": "2026-11-20T18:48:08Z",
-    "run_id": "44795641115",
+    "step": "stats_health",
+    "category": "Stats / Health",
+    "run_at": "2026-11-21T18:27:36Z",
+    "run_id": "44932228567",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "metadata_refresh": [
    {
     "step": "metadata_refresh",
     "category": "Spotlight / Coming Soon / Most Awaited",
@@ -6595,19 +6577,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "providers_backfill": [
+   },
    {
-    "step": "providers_backfill",
-    "category": "OTT",
-    "run_at": "2026-11-20T18:48:08Z",
-    "run_id": "44795641115",
+    "step": "metadata_refresh",
+    "category": "Spotlight / Coming Soon / Most Awaited",
+    "run_at": "2026-11-21T18:27:36Z",
+    "run_id": "44932228567",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "providers_backfill": [
    {
     "step": "providers_backfill",
     "category": "OTT",
@@ -6848,19 +6830,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "tavily_boxoffice": [
+   },
    {
-    "step": "tavily_boxoffice",
-    "category": "Box Office",
-    "run_at": "2026-11-20T18:48:08Z",
-    "run_id": "44795641115",
+    "step": "providers_backfill",
+    "category": "OTT",
+    "run_at": "2026-11-21T18:27:36Z",
+    "run_id": "44932228567",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "tavily_boxoffice": [
    {
     "step": "tavily_boxoffice",
     "category": "Box Office",
@@ -7090,19 +7072,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "tavily_boxoffice",
+    "category": "Box Office",
+    "run_at": "2026-11-21T18:27:36Z",
+    "run_id": "44932228567",
+    "status": "success",
+    "checked": null,
+    "changed": null,
+    "reason": "no-new-data"
    }
   ],
   "keywords_refresh": [
-   {
-    "step": "keywords_refresh",
-    "category": "Trending News",
-    "run_at": "2026-11-20T18:48:08Z",
-    "run_id": "44795641115",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "keywords_refresh",
     "category": "Trending News",
@@ -7355,30 +7337,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "keywords_refresh",
+    "category": "Trending News",
+    "run_at": "2026-11-21T18:27:36Z",
+    "run_id": "44932228567",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "overseas_sweep": [
-   {
-    "step": "overseas_sweep",
-    "category": "Box Office",
-    "run_at": "2026-11-19T18:14:00Z",
-    "run_id": "44581472003",
-    "status": "success",
-    "checked": {
-     "candidates": 579,
-     "detail": "completed day-wise rows missing overseas; quicknews pages fetched: 13; attempt cooldown deferred: 566"
-    },
-    "changed": {
-     "added": [
-      "Ranabaali (1389379)",
-      "418 (1606527)",
-      "Nayyi Navelli (1654581)"
-     ],
-     "updated": [],
-     "count": 13
-    },
-    "reason": null
-   },
    {
     "step": "overseas_sweep",
     "category": "Box Office",
@@ -7872,24 +7843,31 @@
      "count": 14
     },
     "reason": null
+   },
+   {
+    "step": "overseas_sweep",
+    "category": "Box Office",
+    "run_at": "2026-11-21T18:10:56Z",
+    "run_id": "44932228567",
+    "status": "success",
+    "checked": {
+     "candidates": 589,
+     "detail": "completed day-wise rows missing overseas; quicknews pages fetched: 14; attempt cooldown deferred: 575"
+    },
+    "changed": {
+     "added": [
+      "Jailer 2 (1234139)",
+      "Ranabaali (1389379)",
+      "418 (1606527)",
+      "Nayyi Navelli (1654581)"
+     ],
+     "updated": [],
+     "count": 14
+    },
+    "reason": null
    }
   ],
   "advance_booking": [
-   {
-    "step": "advance_booking",
-    "category": "Box Office",
-    "run_at": "2026-11-20T18:48:08Z",
-    "run_id": "44795641115",
-    "status": "success",
-    "checked": null,
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 62,
-     "detail": "lines changed in owned files; no per-item summary from script"
-    },
-    "reason": null
-   },
    {
     "step": "advance_booking",
     "category": "Box Office",
@@ -8124,24 +8102,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "advance_booking",
+    "category": "Box Office",
+    "run_at": "2026-11-21T18:27:36Z",
+    "run_id": "44932228567",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "home_boxoffice_worldwide": [
-   {
-    "step": "home_boxoffice_worldwide",
-    "category": "Box Office",
-    "run_at": "2026-11-20T18:48:08Z",
-    "run_id": "44795641115",
-    "status": "success",
-    "checked": null,
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 10955,
-     "detail": "lines changed in owned files; no per-item summary from script"
-    },
-    "reason": null
-   },
    {
     "step": "home_boxoffice_worldwide",
     "category": "Box Office",
@@ -8406,8 +8379,18 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "home_boxoffice_worldwide",
+    "category": "Box Office",
+    "run_at": "2026-11-21T18:27:36Z",
+    "run_id": "44932228567",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ]
  },
- "updated_at": "2026-11-21T16:56:45Z"
+ "updated_at": "2026-11-21T18:27:36Z"
 }

@@ -1,19 +1,19 @@
 {
   "connected": true,
-  "generated": "2026-11-21T16:23:46Z",
+  "generated": "2026-11-21T18:27:35Z",
   "realtime": {
     "active_users": 0
   },
   "today": {
-    "users": 29,
-    "pageviews": 34,
-    "sessions": 29,
-    "avg_session_seconds": 11.0
+    "users": 32,
+    "pageviews": 39,
+    "sessions": 32,
+    "avg_session_seconds": 12.4
   },
   "last7": {
-    "users": 3173,
-    "pageviews": 3267,
-    "sessions": 3162,
+    "users": 3175,
+    "pageviews": 3272,
+    "sessions": 3164,
     "avg_session_seconds": 8.7
   },
   "top_pages": [
@@ -26,14 +26,14 @@
     {
       "path": "/person",
       "title": "Actor & Filmmaker Profiles | FlickAtlas",
-      "views": 859,
+      "views": 860,
       "avg_time_seconds": 3.1
     },
     {
       "path": "/",
       "title": "Bollywood, World Cinema & Box Office | FlickAtlas",
-      "views": 86,
-      "avg_time_seconds": 264.3
+      "views": 89,
+      "avg_time_seconds": 259.5
     },
     {
       "path": "/box-office",
@@ -83,7 +83,7 @@
       "source": "(direct)",
       "medium": "(none)",
       "sessions": 2992,
-      "users": 3026
+      "users": 3027
     },
     {
       "source": "(not set)",
@@ -94,8 +94,8 @@
     {
       "source": "google",
       "medium": "organic",
-      "sessions": 12,
-      "users": 11
+      "sessions": 14,
+      "users": 12
     },
     {
       "source": "search.google.com",
@@ -139,7 +139,7 @@
     },
     {
       "country": "Mexico",
-      "users": 128
+      "users": 129
     },
     {
       "country": "Indonesia",
@@ -149,11 +149,11 @@
   "devices": [
     {
       "device": "desktop",
-      "users": 3154
+      "users": 3155
     },
     {
       "device": "mobile",
-      "users": 19
+      "users": 20
     }
   ],
   "per_post": {}

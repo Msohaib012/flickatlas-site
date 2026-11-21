@@ -192926,13 +192926,20 @@ window.FA_ARTICLES = {
           "Bano Episode 36 aired on 2026-11-19 on Geo TV. The full episode is available on the channel's official YouTube page.",
           "Watch the full episode here: https://www.youtube.com/watch?v=t-1WAqaKETY"
         ]
+      },
+      {
+        "h": "Episode Summary",
+        "p": [
+          "Is episode mein Murtaza apne maazi ke gham aur nafrat mein uljha hua hai aur Bano ki khushiyon ko barbad karne ki kasam khata hai. Dusri taraf"
+        ]
       }
     ],
     "facts": [
       "Bano Episode 36 aired on 2026-11-19.",
       "Channel: Geo TV.",
       "Watch the full episode: https://www.youtube.com/watch?v=t-1WAqaKETY",
-      "YouTube views: 142,819."
+      "YouTube views: 142,819.",
+      "Episode summary added 2026-11-21."
     ],
     "entities": {
       "titles": [
@@ -193741,13 +193748,20 @@ window.FA_ARTICLES = {
           "Mera Ghar Episode 3 aired on 2026-11-19 on ARY Digital. The full episode is available on the channel's official YouTube page.",
           "Watch the full episode here: https://www.youtube.com/watch?v=ditH_Sav94s"
         ]
+      },
+      {
+        "h": "Episode Summary",
+        "p": [
+          "Is episode mein Farkhanda Maryam ko samjhati hai ke woh Junaid ka dhyan rakhe aur Maha ko uske qareeb na aane de, jab"
+        ]
       }
     ],
     "facts": [
       "Mera Ghar Episode 3 aired on 2026-11-19.",
       "Channel: ARY Digital.",
       "Watch the full episode: https://www.youtube.com/watch?v=ditH_Sav94s",
-      "YouTube views: 132,850."
+      "YouTube views: 132,850.",
+      "Episode summary added 2026-11-21."
     ],
     "entities": {
       "titles": [
@@ -212449,5 +212463,624 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "2026-11-21T16:56:35Z"
+  },
+  "1pqbmve": {
+    "id": "1pqbmve",
+    "type": "news",
+    "headline": "Zehar-e-Mohabbat Episode 27 — Watch Online on HUM TV",
+    "dek": "Zehar-e-Mohabbat episode 27 aired on 2026-11-21 — watch the full episode on HUM TV.",
+    "body": [
+      {
+        "h": "Episode Details",
+        "p": [
+          "Zehar-e-Mohabbat Episode 27 aired on 2026-11-21 on HUM TV. The full episode is available on the channel's official YouTube page.",
+          "Watch the full episode here: https://www.youtube.com/watch?v=mNLRuWUewNc"
+        ]
+      }
+    ],
+    "facts": [
+      "Zehar-e-Mohabbat Episode 27 aired on 2026-11-21.",
+      "Channel: HUM TV.",
+      "Watch the full episode: https://www.youtube.com/watch?v=mNLRuWUewNc",
+      "YouTube views: 15,378."
+    ],
+    "entities": {
+      "titles": [
+        "Zehar-e-Mohabbat"
+      ],
+      "people": []
+    },
+    "images": [
+      {
+        "url": "https://i.ytimg.com/vi/mNLRuWUewNc/hqdefault.jpg",
+        "caption": "Zehar-e-Mohabbat Episode 27",
+        "source": "HUM TV"
+      }
+    ],
+    "published": "2026-11-21T17:00:38Z"
+  },
+  "1ueo832": {
+    "id": "1ueo832",
+    "type": "news",
+    "headline": "Bano Episode 38 — Watch Online on Geo TV",
+    "dek": "Bano episode 38 aired on 2026-11-21 — watch the full episode on Geo TV.",
+    "body": [
+      {
+        "h": "Episode Details",
+        "p": [
+          "Bano Episode 38 aired on 2026-11-21 on Geo TV. The full episode is available on the channel's official YouTube page.",
+          "Watch the full episode here: https://www.youtube.com/watch?v=UwoV1V76f_Y"
+        ]
+      }
+    ],
+    "facts": [
+      "Bano Episode 38 aired on 2026-11-21.",
+      "Channel: Geo TV.",
+      "Watch the full episode: https://www.youtube.com/watch?v=UwoV1V76f_Y",
+      "YouTube views: 129,136."
+    ],
+    "entities": {
+      "titles": [
+        "Bano"
+      ],
+      "people": []
+    },
+    "images": [
+      {
+        "url": "https://i.ytimg.com/vi/UwoV1V76f_Y/hqdefault.jpg",
+        "caption": "Bano Episode 38",
+        "source": "Geo TV"
+      }
+    ],
+    "published": "2026-11-21T17:00:04Z"
+  },
+  "2dsvew": {
+    "id": "2dsvew",
+    "type": "news",
+    "headline": "Aangan Episode 16 — Watch Online on HUM TV",
+    "dek": "Aangan episode 16 aired on 2026-11-21 — watch the full episode on HUM TV.",
+    "body": [
+      {
+        "h": "Episode Details",
+        "p": [
+          "Aangan Episode 16 aired on 2026-11-21 on HUM TV. The full episode is available on the channel's official YouTube page.",
+          "Watch the full episode here: https://www.youtube.com/watch?v=BuE-8wO_v2c"
+        ]
+      },
+      {
+        "h": "About Aangan",
+        "p": [
+          "Set before 1940s, a Hindustani family that was divided mercilessly before the partition of Pakistan by the unfortunate time incidents."
+        ]
+      }
+    ],
+    "facts": [
+      "Aangan Episode 16 aired on 2026-11-21.",
+      "Channel: HUM TV.",
+      "Watch the full episode: https://www.youtube.com/watch?v=BuE-8wO_v2c",
+      "YouTube views: 115,116.",
+      "TMDB: Aangan (id 90172)."
+    ],
+    "entities": {
+      "titles": [
+        "Aangan"
+      ],
+      "people": [
+        "Ahad Raza Mir",
+        "Sonya Husyn",
+        "Sajal Ali",
+        "Mawra Hocane",
+        "Ahsan Khan"
+      ]
+    },
+    "images": [
+      {
+        "url": "https://i.ytimg.com/vi/BuE-8wO_v2c/hqdefault.jpg",
+        "caption": "Aangan Episode 16",
+        "source": "HUM TV"
+      }
+    ],
+    "published": "2026-11-21T16:00:39Z"
+  },
+  "1huythv": {
+    "id": "1huythv",
+    "type": "news",
+    "headline": "Dar-E-Nijaat Episode 33 — Watch Online on ARY Digital",
+    "dek": "Dar-E-Nijaat episode 33 aired on 2026-11-21 — watch the full episode on ARY Digital.",
+    "body": [
+      {
+        "h": "Episode Details",
+        "p": [
+          "Dar-E-Nijaat Episode 33 aired on 2026-11-21 on ARY Digital. The full episode is available on the channel's official YouTube page.",
+          "Watch the full episode here: https://www.youtube.com/watch?v=_pRYa5D0ZgY"
+        ]
+      },
+      {
+        "h": "About Dar-E-Nijaat",
+        "p": [
+          "Some stories begin with love. Some are tested by loss. And some are remembered for the courage it takes to forgive."
+        ]
+      },
+      {
+        "h": "Episode Summary",
+        "p": [
+          "Is episode mein Bela apne purane dino ko yaad karti hai jab uske tutor Amaan ke sath uska ishq parwan charh raha tha. Amaan usse chupkar muhabbat bhare paighamat likhta hai aur ek din park mein usse shadi ki"
+        ]
+      }
+    ],
+    "facts": [
+      "Dar-E-Nijaat Episode 33 aired on 2026-11-21.",
+      "Channel: ARY Digital.",
+      "Watch the full episode: https://www.youtube.com/watch?v=_pRYa5D0ZgY",
+      "YouTube views: 742,197.",
+      "TMDB: Dar-E-Nijaat (id 328722).",
+      "Episode summary added 2026-11-21."
+    ],
+    "entities": {
+      "titles": [
+        "Dar-E-Nijaat"
+      ],
+      "people": [
+        "Sheheryar Munawar Siddiqui",
+        "Dur-e-Fishan Saleem",
+        "Nameer Nawaz Khan",
+        "Faran Tahir",
+        "Romaisa Khan"
+      ]
+    },
+    "images": [
+      {
+        "url": "https://i.ytimg.com/vi/_pRYa5D0ZgY/hqdefault.jpg",
+        "caption": "Dar-E-Nijaat Episode 33",
+        "source": "ARY Digital"
+      }
+    ],
+    "published": "2026-11-21T16:00:36Z"
+  },
+  "ab8cdw": {
+    "id": "ab8cdw",
+    "type": "news",
+    "headline": "Nashtar Episode 34 — Watch Online on Geo TV",
+    "dek": "Nashtar episode 34 aired on 2026-11-21 — watch the full episode on Geo TV.",
+    "body": [
+      {
+        "h": "Episode Details",
+        "p": [
+          "Nashtar Episode 34 aired on 2026-11-21 on Geo TV. The full episode is available on the channel's official YouTube page.",
+          "Watch the full episode here: https://www.youtube.com/watch?v=18hDt-lssvI"
+        ]
+      },
+      {
+        "h": "About Nashtar",
+        "p": [
+          "Shah Dawood, the arrogant heir to a powerful landowning family, clashes with Bareera Aijaz, a principled university student who refuses to bow to his authority. Forced into an unexpected marriage, their constant battles gradually give way to respect and love. But when Tamseel, Shah’s longtime admirer, refuses to accept Bareera, their fragile relationship is put to the ultimate test. Can Shah and Bareera overcome jealousy, family pressure, and their differences to find lasting love?"
+        ]
+      },
+      {
+        "h": "Episode Summary",
+        "p": [
+          "Is episode ki shuruat mein Arbaz ke ghar walay us par barham hote hain ke woh ek gair larki (Tamseel) ko haveli le aaya hai. Doosri"
+        ]
+      }
+    ],
+    "facts": [
+      "Nashtar Episode 34 aired on 2026-11-21.",
+      "Channel: Geo TV.",
+      "Watch the full episode: https://www.youtube.com/watch?v=18hDt-lssvI",
+      "YouTube views: 629,575.",
+      "TMDB: Nashtar (id 332312).",
+      "Episode summary added 2026-11-21."
+    ],
+    "entities": {
+      "titles": [
+        "Nashtar"
+      ],
+      "people": [
+        "Danish Taimoor",
+        "Anmol Baloch",
+        "Naeema Butt"
+      ]
+    },
+    "images": [
+      {
+        "url": "https://i.ytimg.com/vi/18hDt-lssvI/hqdefault.jpg",
+        "caption": "Nashtar Episode 34",
+        "source": "Geo TV"
+      }
+    ],
+    "published": "2026-11-21T16:00:08Z"
+  },
+  "11e4m83": {
+    "id": "11e4m83",
+    "type": "news",
+    "headline": "Shah Rukh Khan's King Trailer Reportedly Slated For Dec 14 Release",
+    "dek": "The makers of the upcoming action thriller King are reportedly gearing up to launch the official trailer ten days before its big screen premiere.",
+    "body": [
+      {
+        "h": "Upcoming Trailer Launch Strategy",
+        "p": [
+          "Reports indicate that the promotional campaign for the upcoming action thriller King is moving into high gear with a potential trailer launch. According to media sources, the official preview is expected to debut on December 14, setting the stage for the film's arrival.",
+          "This timing would place the trailer release exactly ten days prior to the picture's official theatrical run. Industry observers note that the strategy aims to capture widespread public attention as the year draws to a close."
+        ]
+      },
+      {
+        "h": "Recent Promotional Assets",
+        "p": [
+          "Excitement surrounding the project began building significantly when the first musical track, titled Tu Mil Jaaye, dropped on November 2. The promotional asset was unveiled on the leading man's birthday, featuring smooth choreography alongside co-star Deepika Padukone.",
+          "Following the enthusiastic response online, the production team plans to roll out additional promotional material. Another track from the musical soundtrack, composed by Sachin-Jigar, is reportedly scheduled for release later in the month."
+        ]
+      },
+      {
+        "h": "The Cast and Creative Team",
+        "p": [
+          "The upcoming venture is helmed by director Siddharth Anand, bringing together a prominent creative team for this high-octane action piece. The film also marks a major reunion for Bollywood's popular onscreen pair, Shah Rukh Khan and Deepika Padukone.",
+          "The two actors have previously collaborated on several notable projects, including Om Shanti Om, Chennai Express, Pathaan, and Jawan. Additionally, the project features a notable family milestone as the leading man shares the 70mm screen with his daughter, Suhana Khan, for the first time."
+        ]
+      },
+      {
+        "h": "Meaning Behind the Title",
+        "p": [
+          "In a previous interview with PTI, the lead actor reflected on the significance of the film's title and what it represents personally. He stated that the word has never symbolized mere power in his view.",
+          "Instead, he explained that the title carries a sense of responsibility toward the audiences who place their trust in him and the narratives he chooses to share on screen."
+        ]
+      },
+      {
+        "h": "Return to the Big Screen",
+        "p": [
+          "The theatrical release marks a notable return for the superstar following a three-year hiatus from the big screen. His previous cinema appearance was in Rajkumar Hirani's Dunki, where he acted alongside Boman Irani, Vicky Kaushal, and Taapsee Pannu.",
+          "Prior to that project, the actor delivered massive commercial hits, including Jawan and Pathaan. Records indicate that Jawan achieved a domestic collection of Rs 640.25 crore and a gross of Rs 400 crore in India, while Pathaan also shattered prior box office milestones."
+        ]
+      },
+      {
+        "h": "Theatrical Release Schedule",
+        "p": [
+          "Fans eagerly awaiting the film's debut will not have to wait much longer for the full cinematic experience. The action thriller is officially scheduled for a grand theatrical release on December 24.",
+          "As the production team finalizes the remaining promotional assets, audiences continue to share their anticipation across various social media platforms ahead of the holiday premiere."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Reports indicate that the official trailer for the upcoming action thriller King, directed by Siddharth Anand, is expected to release on December 14. Starring Shah Rukh Khan and Deepika Padukone, the film is scheduled for a theatrical premiere on December 24."
+        ]
+      }
+    ],
+    "facts": [
+      "King is directed by Siddharth Anand.",
+      "The film is scheduled for release on December 24.",
+      "The official trailer is reportedly releasing on December 14.",
+      "The first song, Tu Mil Jaaye, was released on November 2.",
+      "Jawan achieved a domestic box office collection of Rs 640.25 crore and grossed Rs 400 crore in India."
+    ],
+    "entities": {
+      "people": [
+        "Shah Rukh Khan",
+        "Siddharth Anand",
+        "Deepika Padukone",
+        "Suhana Khan",
+        "Sachin-Jigar",
+        "Rajkumar Hirani",
+        "Boman Irani",
+        "Vicky Kaushal",
+        "Taapsee Pannu",
+        "John Abraham"
+      ],
+      "titles": [
+        "King",
+        "Tu Mil Jaaye",
+        "Om Shanti Om",
+        "Chennai Express",
+        "Pathaan",
+        "Jawan",
+        "The Archies",
+        "Dunki"
+      ]
+    },
+    "keywords": [
+      "King trailer release date",
+      "Shah Rukh Khan King movie",
+      "Siddharth Anand King film",
+      "King theatrical release December 24"
+    ],
+    "images": [
+      {
+        "url": "https://images.timesnownews.com/thumb/msid-156545369,thumbsize-1694330,width-1280,height-720,resizemode-75/156545369.jpg",
+        "caption": "Shah Rukh Khan's King Trailer Reportedly Slated For Dec 14 Release",
+        "source": "Times Now — Entertainment"
+      }
+    ],
+    "published": "2026-11-21T18:10:35Z"
+  },
+  "1h8pldw": {
+    "id": "1h8pldw",
+    "type": "news",
+    "headline": "First Look At Claudia Winkleman and Gordon Ramsay For Hell's Kitchen Celebrity Reboot",
+    "dek": "Television presenter Claudia Winkleman joins forces with chef Gordon Ramsay for the upcoming revival of Hell's Kitchen on ITV, sparking headlines over network loyalty.",
+    "body": [
+      {
+        "h": "The First Look Reveal",
+        "p": [
+          "Promotional images have finally surfaced showing television presenter Claudia Winkleman posing alongside celebrity chef Gordon Ramsay for the highly anticipated return of Hell's Kitchen. The new promotional snapshots give fans an exciting early glimpse of the revamped celebrity cooking competition, which is officially scheduled to return to British television screens in 2027.",
+          "The announcement of Winkleman joining the project follows recent reports claiming the presenter had turned her back on the BBC by signing with rival broadcaster ITV. Despite the surrounding media furore and accusations of abandoning her previous network roots, Winkleman appeared confident alongside Ramsay in the new promotional material."
+        ]
+      },
+      {
+        "h": "Joining Forces On ITV",
+        "p": [
+          "Winkleman expressed genuine enthusiasm regarding her new hosting duties, describing the program as fast, thrilling, and completely unpredictable live television. She noted her excitement about guiding viewers through the intense heat of the kitchen while jokingly hoping that her co-star would go easy on the contestants and simply ask them to make toast.",
+          "Gordon Ramsay echoed similar sentiments about the ambitious relaunch, promising that the upcoming iteration will be bigger, bolder, and significantly hotter than previous seasons. According to Ramsay, the revamped show will feature a brand-new restaurant setup, an all-star cast of celebrities, and intense culinary challenges designed to test even the most confident cooks."
+        ]
+      },
+      {
+        "h": "Format And High-Stakes Pressure",
+        "p": [
+          "The upcoming 10-part series is set to thrust an all-star celebrity line-up directly into the exceptionally high-pressure environment of a world-class restaurant kitchen. Participants will be tasked with preparing and delivering Michelin-standard dishes to hungry diners night after night under strict scrutiny.",
+          "To assist the competitors, two new sous chefs and a maître d will join the kitchen staff to provide expert guidance, encouragement, and support. However, with live eliminations, skyrocketing stakes, and zero room for excuses, Ramsay warned that every single service will be a grueling battle determining who stays and who goes."
+        ]
+      },
+      {
+        "h": "Exclusive Dining And Live Vote-Offs",
+        "p": [
+          "The pop-up restaurant will remain open for two weeks only, welcoming one hundred diners each evening, including superstar guests, friends and family of the celebrity chefs, and everyday members of the public. The unique format successfully blends red-carpet glamour with exclusive Chef's Table dining experiences.",
+          "In addition to standard culinary tasks and shocking format twists, the series features high-tension live vote-offs where the studio audience holds ultimate power over the remaining contestants. This interactive element aims to keep viewers on the edge of their seats throughout the entire run."
+        ]
+      },
+      {
+        "h": "Network Switch And BBC Backstory",
+        "p": [
+          "Talks regarding Winkleman heading up Ramsay's cooking competition began earlier in the month following her departure from Strictly Come Dancing alongside Tess Daly. The strategic career move marks her first time working with ITV since 2009, when she previously presented the fourth series of the program.",
+          "Although she has officially signed her new contract with ITV, industry sources confirm she will remain faithful to hosting her immensely popular BBC game show, The Traitors, alongside its corresponding celebrity spin-off series. Observers noted that securing Winkleman represents a major television coup for ITV."
+        ]
+      },
+      {
+        "h": "History Of Hell's Kitchen",
+        "p": [
+          "Hell's Kitchen originally debuted on British television screens via ITV back in 2004, with Gordon Ramsay serving as the initial head chef. The reality format proved immediately popular with audiences, pulling in a massive seven million viewers during its premiere episode.",
+          "Following the chaotic success of the UK debut, Ramsay relocated to launch the American edition in 2005, where the show achieved two decades of continuous success and transformed him into an international superstar. Meanwhile, subsequent UK revivals aired with alternative chefs like Gary Rhodes and Jean-Christophe Novelli before the franchise went on hiatus."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Claudia Winkleman and Gordon Ramsay have been revealed in first look promotional images for the upcoming 2027 celebrity reboot of Hell's Kitchen on ITV. The partnership comes amid media discussions regarding Winkleman signing with ITV after her departure from Strictly Come Dancing, though she will continue hosting her BBC shows.",
+          "The 10-part series will feature an all-star cast cooking for live diners under intense pressure, reviving a format that originally premiered on British television in 2004."
+        ]
+      }
+    ],
+    "facts": [
+      "Claudia Winkleman is 54 years old.",
+      "Gordon Ramsay is 60 years old.",
+      "The reboot of Hell's Kitchen is scheduled to air in 2027.",
+      "The new series will run for 10 parts.",
+      "Hell's Kitchen first aired in Britain on ITV in 2004.",
+      "The first episode of the original UK series drew seven million viewers.",
+      "Claudia Winkleman previously presented the fourth series of Hell's Kitchen in 2009."
+    ],
+    "entities": {
+      "people": [
+        "Claudia Winkleman",
+        "Gordon Ramsay",
+        "Tess Daly",
+        "Gary Rhodes",
+        "Jean-Christophe Novelli"
+      ],
+      "titles": [
+        "Hell's Kitchen",
+        "The Traitors",
+        "Strictly Come Dancing"
+      ]
+    },
+    "keywords": [
+      "Claudia Winkleman",
+      "Gordon Ramsay",
+      "Hell's Kitchen",
+      "The Traitors",
+      "Strictly Come Dancing"
+    ],
+    "images": [],
+    "published": "2026-11-21T18:10:35Z"
+  },
+  "6vzlm": {
+    "id": "6vzlm",
+    "type": "news",
+    "headline": "Alka Yagnik Set for Stage Comeback at Subhash Ghai's Kya Zamaana Tha Concert After Health Hiatus",
+    "dek": "Renowned playback singer Alka Yagnik is preparing for a special public appearance at filmmaker Subhash Ghai's upcoming musical tribute concert following her prolonged break due to hearing health challenges.",
+    "body": [
+      {
+        "h": "The Long-Awaited Return",
+        "p": [
+          "Playback singer Alka Yagnik is preparing for a notable return to the stage, marking a major milestone after a prolonged period away from public view. The artist has accepted a personal invitation to appear at the upcoming musical event titled Kya Zamaana Tha.",
+          "Her upcoming presence has generated significant excitement among devoted fans and industry followers who have missed her voice and stage presence. This engagement signifies a welcome step back into the spotlight for one of Bollywood's most celebrated musical icons."
+        ]
+      },
+      {
+        "h": "Personal Invitation From Subhash Ghai",
+        "p": [
+          "Filmmaker Subhash Ghai personally visited the singer at her residence to extend the invitation for his milestone celebration. The veteran director sought to honor his long association with the artist by having her present at the upcoming gathering.",
+          "Following the visit, Ghai shared his joy on social media, highlighting her enduring energy and positive outlook. He recounted how enthusiastically she accepted the offer to attend the special evening celebrating his cinematic milestones."
+        ]
+      },
+      {
+        "h": "A Storied Musical Partnership",
+        "p": [
+          "The reunion of Alka Yagnik and Subhash Ghai brings attention to a rich collaborative history that has produced numerous memorable melodies for Hindi cinema. Her distinctive voice has served as the musical cornerstone for several of the filmmaker's most successful cinematic ventures over the decades.",
+          "Together, their creative partnership helped define the acoustic identity of multiple hit movies, leaving a lasting impact on Bollywood music history. Their upcoming convergence on stage revives memories of these iconic soundtracks for contemporary audiences."
+        ]
+      },
+      {
+        "h": "Health Challenges and Previous Hiatus",
+        "p": [
+          "The singer's retreat from professional commitments followed a serious health setback revealed in 2024, when she was diagnosed with a rare sensorineural hearing loss triggered by a viral infection. The sudden condition impaired her hearing capacity shortly after a flight, prompting a necessary break from singing assignments.",
+          "Since that diagnosis, admirers have monitored her well-being closely while hoping for a future return to public engagements. Her decision to attend this high-profile musical tribute has consequently provided immense encouragement to her supporters."
+        ]
+      },
+      {
+        "h": "Details of the Kya Zamaana Tha Concert",
+        "p": [
+          "The Kya Zamaana Tha concert is structured as a grand musical tribute honoring Subhash Ghai's fifty-year journey in the film industry. The production will feature a large seventy-member orchestra alongside composer Mithoon, who is set to introduce fresh arrangements for classic melodies from the director's filmography.",
+          "Scheduled for December 11 at Jio World Garden in Mumbai, the event aims to celebrate the enduring legacy of the acclaimed filmmaker through live performances of his most cherished cinematic songs."
+        ]
+      },
+      {
+        "h": "Legacy and Honors",
+        "p": [
+          "Alka Yagnik continues to hold a revered status within the Indian music industry, underlined by significant national recognition earlier in the year when she was awarded the Padma Bhushan. Her remarkable catalogue of songs spans generations, maintaining a firm place in the cultural landscape despite her recent professional scaling down.",
+          "Her participation in the December celebration not only underscores her resilience in overcoming health obstacles but also reinforces the timeless nature of her contribution to Indian film music."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Playback singer Alka Yagnik is preparing to make a special stage appearance at filmmaker Subhash Ghai's Kya Zamaana Tha concert in Mumbai after stepping back from public life due to a rare sensorineural hearing loss diagnosis. Ghai personally invited the singer to his December 11 milestone celebration, prompting an enthusiastic acceptance that has delighted fans following her recovery. The event will honor Ghai's fifty-year cinematic journey with a large orchestra and newly arranged renditions of songs from their past film collaborations."
+        ]
+      }
+    ],
+    "facts": [
+      "Alka Yagnik is set to appear at Subhash Ghai's Kya Zamaana Tha concert.",
+      "The event celebrates Subhash Ghai's 50 years in cinema.",
+      "The concert will take place on December 11 at Jio World Garden in Mumbai.",
+      "Subhash Ghai personally visited Alka Yagnik at her home to invite her.",
+      "Alka Yagnik was diagnosed with rare sensorineural hearing loss caused by a viral infection in 2024.",
+      "Alka Yagnik received the Padma Bhushan earlier this year.",
+      "The concert will feature a 70-member orchestra and composer Mithoon."
+    ],
+    "entities": {
+      "people": [
+        "Alka Yagnik",
+        "Subhash Ghai",
+        "Mithoon"
+      ],
+      "titles": [
+        "Kya Zamaana Tha",
+        "Khalnayak",
+        "Taal",
+        "Pardes",
+        "Yaadein"
+      ]
+    },
+    "keywords": [
+      "Alka Yagnik comeback",
+      "Subhash Ghai Kya Zamaana Tha concert",
+      "Alka Yagnik health update",
+      "Alka Yagnik Subhash Ghai"
+    ],
+    "images": [
+      {
+        "url": "https://images.timesnownews.com/thumb/msid-156546050,thumbsize-2820100,width-1280,height-720,resizemode-75/156546050.jpg",
+        "caption": "Alka Yagnik Set for Stage Comeback at Subhash Ghai's Kya Zamaana Tha Concert After Health Hiatus",
+        "source": "Times Now — Entertainment"
+      }
+    ],
+    "published": "2026-11-21T18:10:35Z"
+  },
+  "a3jw7r": {
+    "id": "a3jw7r",
+    "type": "news",
+    "headline": "Ramayana: Rise of a Legend Set to Break Domestic Box Office Records",
+    "dek": "Nitesh Tiwari's blockbuster adaptation is on track to become the highest-grossing Indian film in domestic box office history.",
+    "body": [
+      {
+        "h": "The Record-Breaking Run",
+        "p": [
+          "Ramayana: Rise of a Legend is rapidly cementing its legendary status at the box office. The new Bollywood epic has already grossed more than $150 million worldwide ahead of its third weekend in theaters.",
+          "Projections indicate that the film will earn a three-day total of $2 million at the domestic box office by the conclusion of its third weekend, pushing its cumulative domestic gross to $28.344 million."
+        ]
+      },
+      {
+        "h": "Surpassing Previous Milestones",
+        "p": [
+          "If these projected numbers hold true, the movie will officially surpass 2026's Dhurandhar: The Revenge, which previously secured $28.1 million in North America.",
+          "This achievement will crown Ramayana: Rise of a Legend as the single highest-grossing Indian film in the history of the domestic box office."
+        ]
+      },
+      {
+        "h": "Cast, Crew, and Creative Vision",
+        "p": [
+          "The ambitious film is directed and co-written by Nitesh Tiwari, drawing inspiration from the foundational Hindu epic poem. The feature is the first part of an epic duology.",
+          "The star-studded cast features Ranbir Kapoor stepping into the role of Rama, alongside Sai Pallavi as Sita, and Kannada-language cinema superstar Yash making his Bollywood debut as the antagonist Ravana."
+        ]
+      },
+      {
+        "h": "Massive Budgets and Financial Stakes",
+        "p": [
+          "While achieving this milestone is a remarkable triumph, the financial stakes are exceptionally high for the production. Ramayana: Rise of a Legend and its upcoming sequel, Ramayana: Part 2, carry a combined budget of ₹4,000 crore, equating to roughly $425 million.",
+          "With individual budgets estimated at ₹2,000 crore or $212.5 million each, both installments stand as the most expensive Indian films ever produced, surpassing upcoming projects like S. S. Rajamouli's Varanasi."
+        ]
+      },
+      {
+        "h": "Global Box Office Context",
+        "p": [
+          "Given the enormous production expenditure, the movie requires unprecedented worldwide earnings to turn a profit. Standard blockbuster multipliers suggest its break-even point could climb as high as $531.25 million.",
+          "For historical context, the current highest-grossing Indian movie globally is 2016's Dangal, which amassed between ₹1,968 crore and ₹2,054 crore."
+        ]
+      },
+      {
+        "h": "Critical Reception and Audience Response",
+        "p": [
+          "Beyond commercial projections, the movie has benefited greatly from positive critical notices and enthusiastic viewer reception. Reviews have propelled the title to a solid 77% score on the Rotten Tomatoes Popcornmeter.",
+          "Additionally, the film achieved a superb, Verified Hot score of 93% from audiences on the same platform, reflecting strong word-of-mouth enthusiasm."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Ramayana: Rise of a Legend is projected to surpass Dhurandhar: The Revenge and become the highest-grossing Indian film in domestic box office history by the end of its third weekend. Despite facing monumental production budgets, the film continues to draw strong global earnings and positive audience reception."
+        ]
+      }
+    ],
+    "facts": [
+      "Ramayana: Rise of a Legend opened on November 5, 2026.",
+      "The film has grossed more than $150 million worldwide.",
+      "It is projected to earn a 3-day total of $2 million at the domestic box office in its third weekend.",
+      "Its cumulative domestic box office gross is projected to reach $28.344 million.",
+      "Dhurandhar: The Revenge grossed $28.1 million in North America.",
+      "The collective budget for Ramayana: Rise of a Legend and Ramayana: Part 2 is ₹4,000 crore or $425 million.",
+      "Dangal earned between ₹1,968 crore and ₹2,054 crore globally.",
+      "The film holds a Rotten Tomatoes audience Popcornmeter score of 93%."
+    ],
+    "entities": {
+      "people": [
+        "Brennan Klein",
+        "Nitesh Tiwari",
+        "Ranbir Kapoor",
+        "Yash",
+        "Shridhar Raghavan",
+        "Namit Malhotra",
+        "Sai Pallavi",
+        "S. S. Rajamouli"
+      ],
+      "titles": [
+        "Ramayana: Rise of a Legend",
+        "Dhurandhar: The Revenge",
+        "La bola negra",
+        "Godzilla Minus Zero",
+        "Spider-Man: Brand New Day",
+        "The History of Concrete",
+        "The Moment",
+        "Scene",
+        "Fjord",
+        "Fatherland",
+        "Aadarsha Kutumbam House No: 47 - AK 47",
+        "RRR",
+        "Varanasi",
+        "Dangal",
+        "Ramayana: Part 2",
+        "Ramayana"
+      ]
+    },
+    "keywords": [
+      "Ramayana Rise of a Legend",
+      "Ramayana movie box office",
+      "Ranbir Kapoor Ramayana",
+      "Nitesh Tiwari Ramayana film"
+    ],
+    "images": [
+      {
+        "url": "https://static0.srcdn.com/wordpress/wp-content/uploads/2026/11/a-woman-holding-a-tray-of-candles-in-ramayana-rise-of-a-legend.jpg?w=1600&amp;h=900&amp;fit=crop",
+        "caption": "Ramayana: Rise of a Legend Set to Break Domestic Box Office Records",
+        "source": "Screen Rant"
+      }
+    ],
+    "published": "Sat, 21 Nov 2026 16:41:53 GMT"
   }
 };
