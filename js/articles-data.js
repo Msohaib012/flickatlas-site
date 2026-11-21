@@ -210738,5 +210738,383 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Sat, 21 Nov 2026 12:47:12 GMT"
+  },
+  "9vhh2k": {
+    "id": "9vhh2k",
+    "type": "news",
+    "headline": "Ramayana Box Office Collection Day 16: Mythological Drama Crosses Rs 880 Crore Domestic Net",
+    "dek": "The Ranbir Kapoor, Sai Pallavi and Yash starrer Ramayana maintains strong momentum in its third week, crossing major milestone figures globally.",
+    "body": [
+      {
+        "h": "Third Week Box Office Momentum",
+        "p": [
+          "The theatrical run of Ramayana remains exceptionally strong as the feature film steps into its third week in cinemas. Audience enthusiasm for the mythological epic shows little sign of diminishing, allowing the production to continue posting impressive financial numbers across domestic and international markets."
+        ]
+      },
+      {
+        "h": "Sixteenth Day Earnings",
+        "p": [
+          "On its sixteenth day in theaters, corresponding to Friday, November 20, 2026, the feature brought in Rs 16.30 crore net within the domestic market according to Sacnilk data. This single-day addition elevated the overall domestic net collection to Rs 880.05 crore, while the domestic gross reached Rs 1,051.60 crore.",
+          "The Friday figures represented a 15.8 percent reduction when compared to the earnings recorded on the preceding Thursday, which stood at Rs 19.35 crore."
+        ]
+      },
+      {
+        "h": "Language-Wise Performance Breakdown",
+        "p": [
+          "Geographical language versions displayed varied contributions to the domestic tally on Day 16, with the Hindi language edition maintaining the strongest lead by bringing in Rs 12 crore.",
+          "Additional regional languages also supported the box office totals on the sixteenth day, featuring Rs 1.75 crore from the Malayalam edition, Rs 1.10 crore from the Tamil version, Rs 1 crore from Kannada, and Rs 45 lakh from Telugu. In total, the production operated across 15,497 shows on this day across all five linguistic formats."
+        ]
+      },
+      {
+        "h": "Global and Overseas Collections",
+        "p": [
+          "Beyond national borders, the cinematic release has secured substantial financial returns from international audiences. An estimated Rs 8 crore was generated overseas on Friday alone, bringing the cumulative overseas gross to a noteworthy Rs 523 crore.",
+          "Combined domestic and international figures push the total worldwide gross collection to an impressive Rs 1,574.60 crore."
+        ]
+      },
+      {
+        "h": "Weekly Earnings Progression",
+        "p": [
+          "A look at the weekly financial trajectory reveals that the feature earned Rs 564.60 crore net in India during its initial eight days in release. Following this strong start, an additional Rs 299.15 crore was accumulated over the course of the second week, successfully pushing the domestic net past the Rs 850 crore threshold ahead of the third week."
+        ]
+      },
+      {
+        "h": "Cast, Direction, and Future Plans",
+        "p": [
+          "Helmed by director Nitesh Tiwari, the cinematic project is structured as a two-part release. The main ensemble cast features prominent names such as Ranbir Kapoor, Sai Pallavi, Yash, Ravi Dubey, Anupam Kher, Kajal Aggarwal, Rakul Preet Singh, Vivek Oberoi, and Adinath Kothare.",
+          "Following the theatrical success of the initial installment, the second part of the narrative is scheduled to release in the year 2028."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Ramayana continues its strong box office performance into its third week, registering a domestic net collection of Rs 880.05 crore by its sixteenth day. The Nitesh Tiwari directorial features a large ensemble cast led by Ranbir Kapoor, Sai Pallavi, and Yash, with its worldwide gross reaching Rs 1,574.60 crore."
+        ]
+      }
+    ],
+    "facts": [
+      "Ramayana total domestic net collection reached Rs 880.05 crore by Day 16",
+      "Day 16 collection was Rs 16.30 crore net in India on Friday, November 20, 2026",
+      "India gross collection stands at Rs 1,051.60 crore",
+      "Worldwide gross collection has reached Rs 1,574.60 crore",
+      "First week earnings totaled Rs 564.60 crore net in India during the first eight days",
+      "Second week earnings added Rs 299.15 crore",
+      "Hindi version earned Rs 12 crore on Friday",
+      "Malayalam version earned Rs 1.75 crore on Friday",
+      "Tamil version earned Rs 1.10 crore on Friday",
+      "Kannada version earned Rs 1 crore on Friday",
+      "Telugu version earned Rs 45 lakh on Friday",
+      "Total shows on Day 16 across all five languages were 15,497",
+      "Overseas gross collection reached Rs 523 crore",
+      "Director of the film is Nitesh Tiwari",
+      "Cast members include Ranbir Kapoor, Sai Pallavi, Yash, Ravi Dubey, Anupam Kher, Kajal Aggarwal, Rakul Preet Singh, Vivek Oberoi, and Adinath Kothare",
+      "The second part of the film will be released in 2028"
+    ],
+    "entities": {
+      "people": [
+        "Srijita Sen",
+        "Ranbir Kapoor",
+        "Sai Pallavi",
+        "Yash",
+        "Nitesh Tiwari",
+        "Ravi Dubey",
+        "Anupam Kher",
+        "Kajal Aggarwal",
+        "Rakul Preet Singh",
+        "Vivek Oberoi",
+        "Adinath Kothare",
+        "Javed Akhtar",
+        "Zoya Akhtar",
+        "Darsheel Safary",
+        "Zain Khan Durrani"
+      ],
+      "titles": [
+        "Ramayana"
+      ]
+    },
+    "keywords": [
+      "Ramayana box office",
+      "Ramayana India net collection",
+      "Ranbir Kapoor Ramayana film",
+      "Ramayana day 16 collection"
+    ],
+    "images": [
+      {
+        "url": "https://filmfare.wwmindia.com/content/2026/nov/ramayana1795244386.jpg",
+        "caption": "Ramayana Box Office Collection Day 16: Mythological Drama Crosses Rs 880 Crore Domestic Net",
+        "source": "Filmfare"
+      }
+    ],
+    "published": "2026-11-21T14:31:58+05:30"
+  },
+  "nr16z8": {
+    "id": "nr16z8",
+    "type": "news",
+    "headline": "Jay Park Criticizes 2026 MAMA Awards Over LNGSHOT Joint Stage And Agency Politics",
+    "dek": "MORE VISION CEO Jay Park has sparked online debate after publicly expressing frustration over his rookie boy group LNGSHOT's performance arrangements and award results at the 2026 MAMA Awards.",
+    "body": [
+      {
+        "h": "The Controversy At The 2026 MAMA Awards",
+        "p": [
+          "Jay Park has openly criticized the handling of the 2026 MAMA Awards, sparking considerable discussion online regarding industry politics and the treatment of rookie groups. The public remarks came on the heels of his rookie boy group LNGSHOT making their debut appearance at the prominent awards ceremony.",
+          "Held at the Kyocera Dome in Japan, the event brought together numerous rising acts. However, the subsequent commentary from the MORE VISION head quickly shifted focus from the performances themselves to behind-the-scenes grievances about fairness and stage allocation."
+        ]
+      },
+      {
+        "h": "LNGSHOT's Performance And Award Results",
+        "p": [
+          "On November 20, LNGSHOT stepped onto the MAMA stage for the first time as one of ten nominees for the 'Best New Artist' category. Rather than executing a solo set, the members joined forces with fellow rookies MODYSSEY and TUIDE to perform 'Bananas', followed by a collaborative 'That That' stage.",
+          "When the trophies were distributed, the 'Best New Artist' honors ultimately went to co-winners ALPHA DRIVE ONE and TUIDE. Meanwhile, LNGSHOT secured recognition as one of the winners in the 'Fans’ Choice Top 10 Male' category."
+        ]
+      },
+      {
+        "h": "Contrasting Melon Music Awards Experience",
+        "p": [
+          "The situation stood in sharp contrast to the group's appearance at the 2026 Melon Music Awards just days prior. At that earlier event, LNGSHOT delivered a medley featuring their own tracks and walked away with the 'New Artist of the Year' title.",
+          "That vastly different experience served as a major point of comparison for their agency leadership, highlighting the limitations placed on them during the subsequent Japanese dome ceremony."
+        ]
+      },
+      {
+        "h": "Cryptic Messages And Direct Accusations",
+        "p": [
+          "Hours after the ceremony concluded, Jay Park turned to social media to voice his discontent. Starting with a cryptic post on X, he quickly followed up with explicit statements claiming indifference toward the actual trophy while faulting industry politics and the hardships faced by smaller companies.",
+          "He argued that LNGSHOT was fully capable of delivering a much larger showcase, pointing directly to their earlier Melon Music Awards performance as proof of their untapped potential on a grand scale."
+        ]
+      },
+      {
+        "h": "Denials Of Bitterness And Instagram Doubling Down",
+        "p": [
+          "As users reacted to his remarks, one fan accused the executive of displaying bitterness and entitlement. Jay Park immediately pushed back against the criticism, insisting he was simply standing up for his artists without diminishing the achievements of others.",
+          "He reiterated that his core issue was the lack of opportunity to fully showcase the group's capabilities. He further emphasized this stance through an Instagram story, arguing that the group deserved their own dedicated stage after releasing five projects in less than a year."
+        ]
+      },
+      {
+        "h": "Netizen Backlash And Industry Scrutiny",
+        "p": [
+          "The public reaction to the executive's statements was largely mixed, with many netizens pushing back against his complaints. Critics questioned his characterization of MORE VISION as a small company, pointing out that Kakao holds a twenty percent stake in the agency.",
+          "Other commentators expressed disappointment, arguing that a label CEO should navigate the industry's difficulties with greater care rather than casting shade. Some users even suggested that such public remarks unfairly undermined the success of the official award winners, while wider discussions surrounding the 2026 MAMAs continued across the K-Pop community."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "MORE VISION CEO Jay Park expressed frustration on social media regarding his rookie group LNGSHOT's joint stage and award results at the 2026 MAMA Awards. His comments blaming industry politics and smaller company struggles drew mixed public reactions and online backlash from netizens."
+        ]
+      }
+    ],
+    "facts": [
+      "Jay Park lashed out at the 2026 MAMA Awards on November 20 and November 21, 2026.",
+      "LNGSHOT is a rookie boy group under Jay Park's agency, MORE VISION.",
+      "The 2026 MAMA Awards were held at Kyocera Dome, Japan.",
+      "LNGSHOT performed 'Bananas' and participated in a 'That That' collaboration stage.",
+      "'Best New Artist' went to co-winners ALPHA DRIVE ONE and TUIDE.",
+      "LNGSHOT won 'Fans’ Choice Top 10 Male'.",
+      "Kakao holds a 20 percent stake in MORE VISION."
+    ],
+    "entities": {
+      "people": [
+        "Jay Park",
+        "SUGA"
+      ],
+      "titles": [
+        "LNGSHOT",
+        "MODYSSEY",
+        "TUIDE",
+        "Bananas",
+        "That That",
+        "ALPHA DRIVE ONE"
+      ]
+    },
+    "keywords": [
+      "Jay Park MAMA Awards",
+      "LNGSHOT 2026 MAMA",
+      "Jay Park MORE VISION",
+      "LNGSHOT Best New Artist"
+    ],
+    "images": [
+      {
+        "url": "https://image.koreaboo.com/2026/11/jayparkMAMA-FI.jpg?imop=Resize%2Cwidth%3D1230%3BConvert%2Cformat%3Djpeg&amp;Expires=1795327200&amp;KeyName=kb&amp;Signature=KsdmIMBP6PgdMpSUmkjd8GATpeU=",
+        "caption": "Jay Park Criticizes 2026 MAMA Awards Over LNGSHOT Joint Stage And Agency Politics",
+        "source": "Koreaboo"
+      }
+    ],
+    "published": "Sat, 21 Nov 2026 14:32:19 +0000"
+  },
+  "1kv4tjc": {
+    "id": "1kv4tjc",
+    "type": "news",
+    "headline": "Salman Khan Discusses Maatrubhumi Release, Shraddha Kapoor Clash Apology, and Avoiding Shah Rukh Khan",
+    "dek": "Salman Khan opens up about scheduling Maatrubhumi: May War Rest in Peace on December 4, why he called Shraddha Kapoor to apologize for the clash with Eetha, and how he strategically avoided overlapping with Shah Rukh Khan and Sanjay Leela Bhansali.",
+    "body": [
+      {
+        "h": "The Long-Awaited Arrival of Maatrubhumi",
+        "p": [
+          "Salman Khan's upcoming feature film Maatrubhumi: May War Rest in Peace is finally heading to cinema halls after facing multiple delays. The project has generated considerable anticipation among fans eager to see the superstar back on the big screen.",
+          "Directed by Apoorva Lakhia and backed by Salman Khan Films, the venture features Salman Khan and Chitrangda Singh in prominent roles. Furthermore, distribution duties are handled by Jio Studios domestically and Zee Studios internationally."
+        ]
+      },
+      {
+        "h": "An Unplanned Clash With Shraddha Kapoor",
+        "p": [
+          "Setting a December 4 release date, the film inadvertently landed on the same day as Shraddha Kapoor's movie Eetha. Speaking at an ABP summit in Hyderabad, Salman explained that he was completely unaware of the concurrent release when locking in the date.",
+          "The actor expressed genuine remorse over the situation, admitting that he felt very bad upon realizing both films would hit theatres simultaneously. His lack of prior knowledge led him to take direct action to address the scheduling overlap with his younger colleague."
+        ]
+      },
+      {
+        "h": "A Personal Apology and Warm Exchange",
+        "p": [
+          "Recognizing Shraddha from her childhood, Salman picked up the phone to personally call and apologize for the inadvertent competition. He explained to her that he would have avoided the date entirely had he known about her project beforehand.",
+          "According to the superstar, Shraddha responded graciously by assuring him there was enough breathing room at the box office for both titles to succeed. Salman noted that he was very happy with her sportsmanlike and positive attitude."
+        ]
+      },
+      {
+        "h": "Steering Clear of Shah Rukh Khan and Suhana",
+        "p": [
+          "During the summit discussion, Salman also shed light on why other December slots were bypassed. With Shah Rukh Khan slated to arrive with his film King—featuring his daughter Suhana—on December 24, Salman made it clear he would never schedule a direct contest against them.",
+          "He emphasized that going head-to-head with Shah Rukh was completely out of the question, choosing instead to secure a window that keeps his project safely away from his close friend and colleague's holiday release."
+        ]
+      },
+      {
+        "h": "Navigating Hollywood Giants and January Blockbusters",
+        "p": [
+          "While avoiding fellow Bollywood icons, Salman displayed no hesitation regarding major Hollywood releases like Avengers: Doomsday and Dune: Part Three. Because those massive international titles drop a week before his own movie, he viewed them as acceptable neighbors on the calendar.",
+          "Looking further ahead, January 26 was also dismissed as a viable option to prevent stepping on the toes of Sanjay Leela Bhansali's upcoming feature starring Vicky, Ranbir, and Alia. Additionally, a potential March slot was ruled out because of another project titled Monster, leading Salman to joke about avoiding a clash with himself."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Salman Khan discussed the upcoming December 4 theatrical release of his film Maatrubhumi: May War Rest in Peace at an ABP summit in Hyderabad. He revealed that he called Shraddha Kapoor to apologize for an accidental box office clash with her film Eetha, and detailed his deliberate strategy to avoid overlapping with Shah Rukh Khan and Sanjay Leela Bhansali."
+        ]
+      }
+    ],
+    "facts": [
+      "Salman Khan announced a December 4 release date for Maatrubhumi: May War Rest in Peace.",
+      "The film clashes with Shraddha Kapoor's Eetha.",
+      "Salman Khan called Shraddha Kapoor to apologize for the clash.",
+      "Shah Rukh Khan's film King, featuring Suhana, is releasing on December 24.",
+      "January 26 features a film by Sanjay Leela Bhansali starring Vicky, Ranbir, and Alia.",
+      "Maatrubhumi is directed by Apoorva Lakhia and produced by Salman Khan Films.",
+      "Jio Studios handles all-India distribution and Zee Studios handles overseas distribution for Maatrubhumi.",
+      "Maatrubhumi stars Salman Khan and Chitrangda Singh in key roles."
+    ],
+    "entities": {
+      "people": [
+        "Salman Khan",
+        "Shraddha Kapoor",
+        "Shah Rukh Khan",
+        "Suhana",
+        "Sanjay Leela Bhansali",
+        "Vicky",
+        "Ranbir",
+        "Alia",
+        "Apoorva Lakhia",
+        "Chitrangda Singh"
+      ],
+      "titles": [
+        "Maatrubhumi: May War Rest in Peace",
+        "Eetha",
+        "King",
+        "Avengers: Doomsday",
+        "Dune: Part Three",
+        "Monster"
+      ]
+    },
+    "keywords": [
+      "Salman Khan Maatrubhumi",
+      "Shraddha Kapoor Eetha",
+      "Maatrubhumi release date",
+      "Salman Khan Shah Rukh Khan King"
+    ],
+    "images": [
+      {
+        "url": "https://filmfare.wwmindia.com/content/2026/nov/salmankhan11795252086.jpg",
+        "caption": "Salman Khan Discusses Maatrubhumi Release, Shraddha Kapoor Clash Apology, and Avoiding Shah Rukh Khan",
+        "source": "Filmfare"
+      }
+    ],
+    "published": "2026-11-21T14:41:20+05:30"
+  },
+  "1u8p0bl": {
+    "id": "1u8p0bl",
+    "type": "news",
+    "headline": "LE SSERAFIM Faces Severe Fan Backlash Over Live Vocals and Arrangements at the 2026 MAMA Awards",
+    "dek": "The girl group's long-awaited return to the MAMA stage drew harsh criticism from K-Pop fans online, with some labeling their set one of the worst in the award show's history.",
+    "body": [
+      {
+        "h": "The Long-Awaited Return",
+        "p": [
+          "LE SSERAFIM made their much-anticipated comeback to the MAMA stage this weekend, performing on the second night of the ceremony. This appearance marked their first time participating in the event in three years, generating massive excitement among their supporters before the show began.",
+          "The group descended upon the Kyocera Dome in Japan on November 21 to deliver their grand return. Fans had eagerly awaited what the group would bring to the stage after years away from the program's lineup."
+        ]
+      },
+      {
+        "h": "Stage Setup and Track Selections",
+        "p": [
+          "For their opening number, the group performed \"SAKI\" featuring Aliyah's Interlude, taken from their second full album PUREFLOW pt.1. They subsequently transitioned into a special version of \"SPAGHETTI,\" which featured j-hope of BTS.",
+          "Despite the heavy anticipation and the high-profile collaborations, the actual execution of the set failed to resonate universally with observers."
+        ]
+      },
+      {
+        "h": "Awards Won During the Ceremony",
+        "p": [
+          "Even though the performance faced criticism, the track \"SPAGHETTI\" proved successful in other ways during the night. The song earned the group a \"Best Song Top 10\" award alongside a trophy for \"Best Collaboration.\"",
+          "However, these accolades did little to shield the group from the wave of negative attention that followed their time on stage."
+        ]
+      },
+      {
+        "h": "Harsh Online Reactions",
+        "p": [
+          "As video clips of the performance circulated widely across social media platforms, numerous K-Pop fans voiced sharp disapproval. Observers pointed to what they described as messy live vocals, while others directed criticism toward the song arrangements themselves.",
+          "The commentary quickly escalated online, with multiple users posting overwhelmingly harsh remarks and going so far as to label the appearance the worst performance the MAMA awards have ever witnessed."
+        ]
+      },
+      {
+        "h": "Broader Award Show Controversy",
+        "p": [
+          "The negative response to the performance followed an already controversial weekend for the group at the 2026 MAMAs. Prior to the stage critique, discussion had swirled around the \"Best Female Group\" category.",
+          "Although LE SSERAFIM had been widely predicted as the most likely contender to win, the award ultimately went to IVE, sparking accusations from viewers regarding the legitimacy of several wins during the ceremony."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "LE SSERAFIM faced heavy criticism from K-Pop fans following their live performance at the 2026 MAMA Awards on November 21 at the Kyocera Dome in Japan. Despite winning awards for \"SPAGHETTI,\" clips of their vocals and musical arrangement drew severe online backlash."
+        ]
+      }
+    ],
+    "facts": [
+      "LE SSERAFIM performed on November 21, 2026.",
+      "The event took place at Kyocera Dome in Japan during the 2026 MAMA Awards.",
+      "The group won \"Best Song Top 10\" and \"Best Collaboration\" for \"SPAGHETTI.\"",
+      "IVE won the \"Best Female Group\" award."
+    ],
+    "entities": {
+      "people": [
+        "Aliyah",
+        "j-hope",
+        "Min Hee Jin",
+        "Sakura"
+      ],
+      "titles": [
+        "SAKI",
+        "PUREFLOW pt.1",
+        "SPAGHETTI"
+      ]
+    },
+    "keywords": [
+      "LE SSERAFIM MAMA Awards",
+      "2026 MAMA Awards performance",
+      "LE SSERAFIM SPAGHETTI",
+      "LE SSERAFIM live vocals"
+    ],
+    "images": [
+      {
+        "url": "https://image.koreaboo.com/2026/11/lsrfmMAMA-FI.jpg?imop=Resize%2Cwidth%3D1230%3BConvert%2Cformat%3Djpeg&amp;Expires=1795327200&amp;KeyName=kb&amp;Signature=A3-T3ZrdULfyrWLCoo7JlJggCpw=",
+        "caption": "LE SSERAFIM Faces Severe Fan Backlash Over Live Vocals and Arrangements at the 2026 MAMA Awards",
+        "source": "Koreaboo"
+      }
+    ],
+    "published": "Sat, 21 Nov 2026 14:26:23 +0000"
   }
 };
