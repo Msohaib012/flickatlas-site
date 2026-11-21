@@ -45,6 +45,40 @@ window.FA_HOME_ARTICLES = {
     ],
     "published": "Sat, 21 Nov 2026 10:30:25 +0200"
   },
+  "m5ss59": {
+    "id": "m5ss59",
+    "type": "news",
+    "headline": "BIGBANG Triumphs at the 2026 MAMA Awards While G-Dragon Captures Attention with Traditional Styling",
+    "dek": "The legendary K-pop group gathered as a trio to accept the Best Music Video award for their comeback track, highlighted by standout fashion and heartfelt speeches.",
+    "entities": {
+      "people": [
+        "G-Dragon",
+        "Taeyang",
+        "Daesung",
+        "Park Bo Gum",
+        "Seo In Young",
+        "Lee Dae Hwi"
+      ],
+      "titles": [
+        "BiiiG",
+        "GiiiRIP",
+        "Lies",
+        "Last Farewell",
+        "Haru Haru",
+        "FANTASTIC BABY",
+        "BANG BANG BANG",
+        "Still Life"
+      ]
+    },
+    "keywords": [
+      "BIGBANG 2026 MAMA",
+      "G-Dragon red hairpin",
+      "BIGBANG BiiiG music video",
+      "BIGBANG MAMA Awards win"
+    ],
+    "images": [],
+    "published": "Sat, 21 Nov 2026 02:23:00 EST"
+  },
   "1iop9x7": {
     "id": "1iop9x7",
     "type": "news",
@@ -122,6 +156,124 @@ window.FA_HOME_ARTICLES = {
       }
     ],
     "published": "2026-11-21T06:52:36Z"
+  },
+  "126lxxk": {
+    "id": "126lxxk",
+    "type": "news",
+    "headline": "GTA VI Eclipses Avengers: Endgame's Lifetime Earnings With Record-Breaking Launch",
+    "dek": "Rockstar Games' Grand Theft Auto VI has shattered records by pulling in $3.79 billion in its first 24 hours, comfortably surpassing the lifetime theatrical gross of Avengers: Endgame.",
+    "entities": {
+      "people": [
+        "Manni L. Perez",
+        "Jason",
+        "Lucia"
+      ],
+      "titles": [
+        "Grand Theft Auto VI",
+        "Avengers: Endgame",
+        "Grand Theft Auto V",
+        "The Legend of Zelda: Ocarina of Time"
+      ]
+    },
+    "keywords": [
+      "Grand Theft Auto VI",
+      "GTA VI box office record",
+      "Rockstar Games GTA 6",
+      "GTA VI earnings Avengers Endgame"
+    ],
+    "images": [
+      {
+        "url": "https://www.hindustantimes.com/ht-img/img/2026/11/21/1600x900/logo/GTA_6_1795242657555_1BBr_1795242661250_P4z9_11857133-392f-4853-b46d-e60a97e23307_9Xmf.jpg",
+        "caption": "GTA VI Eclipses Avengers: Endgame's Lifetime Earnings With Record-Breaking Launch",
+        "source": "Hindustan Times — Entertainment"
+      }
+    ],
+    "published": "Sat, 21 Nov 2026 12:09:57 +0530"
+  },
+  "1hsrctr": {
+    "id": "1hsrctr",
+    "type": "news",
+    "headline": "Capcom Announces Resident Evil Remake Collection And Code: Veronica Remake Plans",
+    "dek": "The iconic survival horror franchise reaches its 30th anniversary milestone with new Nintendo Switch 2 digital releases and future 2027 remake plans.",
+    "entities": {
+      "people": [
+        "Angharad Redden",
+        "Chris Carter",
+        "Claire",
+        "Chris"
+      ],
+      "titles": [
+        "Resident Evil",
+        "Cyberpunk 2077",
+        "Resident Evil 6",
+        "Resident Evil Requiem",
+        "Resident Evil 2 Deluxe Edition",
+        "Resident Evil 3",
+        "Resident Evil 4 Gold Edition",
+        "Grand Theft Auto VI",
+        "Resident Evil - Code: Veronica",
+        "Resident Evil: Apocalypse",
+        "Resident Evil: Extinction",
+        "Resident Evil: Afterlife",
+        "Resident Evil: Retribution",
+        "Resident Evil: The Final Chapter",
+        "Resident Evil: Welcome to Raccoon City",
+        "Resident Evil 2",
+        "Resident Evil 3: Nemesis",
+        "Resident Evil: Code Veronica X HD",
+        "Resident Evil Zero",
+        "Resident Evil 4",
+        "Resident Evil 5",
+        "Resident Evil 7: Biohazard",
+        "Resident Evil Village"
+      ]
+    },
+    "keywords": [
+      "Resident Evil Nintendo Switch 2",
+      "Resident Evil Code Veronica remake",
+      "Resident Evil 35.9GB collection",
+      "Capcom Resident Evil 2027"
+    ],
+    "images": [
+      {
+        "url": "https://static0.srcdn.com/wordpress/wp-content/uploads/2026/09/resident-evil-2-remake.jpg?w=1600&amp;h=900&amp;fit=crop",
+        "caption": "Capcom Announces Resident Evil Remake Collection And Code: Veronica Remake Plans",
+        "source": "Screen Rant"
+      }
+    ],
+    "published": "Sat, 21 Nov 2026 06:30:18 GMT"
+  },
+  "1viazxs": {
+    "id": "1viazxs",
+    "type": "news",
+    "headline": "Ramayana Part One Box Office Collections: Ranbir Kapoor and Yash starrer nets Rs. 15 Cr on 3rd Friday for Rs. 850 Cr cume",
+    "dek": "Ranbir Kapoor and Yash starrer Ramayana Part One has brought in Rs. 15 crore nett on its third Friday, bringing its total collection to an impressive Rs. 850 crore nett while continuing to make history across southern markets.",
+    "entities": {
+      "people": [
+        "Ranbir Kapoor",
+        "Yash",
+        "Jatinder Singh"
+      ],
+      "titles": [
+        "Ramayana Part One",
+        "Ramayana: Part One",
+        "Ramayana"
+      ]
+    },
+    "keywords": [
+      "Ramayana Part One Box Office",
+      "Ramayan Ranbir Kapoor Yash",
+      "Ramayana Part One collections",
+      "Ramayana Kerala box office"
+    ],
+    "images": [
+      {
+        "url": "https://www.pinkvilla.com/images/2026-11/1927601329_ramayan-3.jpg",
+        "caption": "Ramayana Part One Box Office Collections: Ranbir Kapoor and Yash starrer nets Rs. 15 Cr on 3rd Friday for Rs. 850 Cr cum",
+        "source": "Pinkvilla"
+      }
+    ],
+    "published": "Sat, 21 Nov 2026 11:39:23 +0530"
   },
   "ucookv": {
     "id": "ucookv",
@@ -4405,185 +4557,6 @@ window.FA_HOME_ARTICLES = {
     ],
     "published": "Fri, 20 Nov 2026 03:32:17 +0000"
   },
-  "1rjb91x": {
-    "id": "1rjb91x",
-    "type": "news",
-    "headline": "Ramayana Worldwide Box Office Collection Day 15: Ranbir Kapoor and Yash Starrer Struggles Overseas",
-    "dek": "Nitesh Tiwari's directorial venture Ramayana completes fifteen days at the global box office, recording specific milestones and overseas earnings.",
-    "entities": {
-      "people": [
-        "Ranbir Kapoor",
-        "Sai Pallavi",
-        "Yash",
-        "Nitesh Tiwari",
-        "Namit Malhotra",
-        "Ravi Dubey",
-        "Lara Dutta",
-        "Arun Govil",
-        "Rakul Preet Singh",
-        "Vivek Oberoi"
-      ],
-      "titles": [
-        "Ramayana"
-      ]
-    },
-    "keywords": [
-      "Ramayana box office collection",
-      "Ramayana Day 15 worldwide",
-      "Ranbir Kapoor Ramayana film",
-      "Ramayana overseas collection"
-    ],
-    "images": [
-      {
-        "url": "https://images.filmibeat.com/img/2026/11/ramayanaday15wwfeature1-78521795144585.jpg",
-        "caption": "Ramayana Worldwide Box Office Collection Day 15: Ranbir Kapoor and Yash Starrer Struggles Overseas",
-        "source": "FilmiBeat"
-      }
-    ],
-    "published": "Fri, 20 Nov 2026 08:48:02 +0530"
-  },
-  "1cbkbwu": {
-    "id": "1cbkbwu",
-    "type": "news",
-    "headline": "Sienna Miller and Dominic West Break Down the Final Episode of 'War'",
-    "dek": "The stars of the Sky and HBO drama discuss the surprising beach resolution, their characters' acrimonious legal battle, and the series' upcoming second season.",
-    "entities": {
-      "people": [
-        "Sienna Miller",
-        "Dominic West",
-        "George Kay",
-        "Marisa Tomei",
-        "Kelly Macdonald",
-        "David Harewood",
-        "Celia Imrie",
-        "Archie Renaux",
-        "Gwyneth Paltrow",
-        "Archie Panjabi"
-      ],
-      "titles": [
-        "War",
-        "Hijack"
-      ]
-    },
-    "keywords": [
-      "War finale",
-      "Sienna Miller Dominic West",
-      "George Kay War series",
-      "War season 2"
-    ],
-    "images": [
-      {
-        "url": "https://variety.com/wp-content/uploads/2026/11/Sienna-Miller-Dominic-West-War.jpg?w=1000&#038;h=563&#038;crop=1",
-        "caption": "Sienna Miller and Dominic West Break Down the Final Episode of 'War'",
-        "source": "Variety"
-      }
-    ],
-    "published": "Fri, 20 Nov 2026 03:00:00 +0000"
-  },
-  "y68cb8": {
-    "id": "y68cb8",
-    "type": "news",
-    "headline": "Bruno Mars Mourns the Passing of His Father and Lifelong Musical Mentor, Peter Hernandez Sr.",
-    "dek": "The acclaimed performer shared a heartfelt tribute on social media following the death of his father at age 74, remembering his foundational influence on his life and iconic style.",
-    "entities": {
-      "people": [
-        "Bruno Mars",
-        "Peter Hernandez Sr.",
-        "Bernadette San Pedro Bayot"
-      ],
-      "titles": [
-        "The Romantic"
-      ]
-    },
-    "keywords": [
-      "Bruno Mars father",
-      "Peter Hernandez Sr.",
-      "Bruno Mars dad death",
-      "The Romantic tour"
-    ],
-    "images": [
-      {
-        "url": "https://pyxis.nymag.com/v1/imgs/356/1c0/654ae3d4a48449b36797ed760843014bef-bruno-mars.1x.rsocial.w1200.jpg",
-        "caption": "Bruno Mars Mourns the Passing of His Father and Lifelong Musical Mentor, Peter Hernandez Sr.",
-        "source": "Vulture"
-      }
-    ],
-    "published": "2026-11-20T02:09:04.274Z"
-  },
-  "hlekaw": {
-    "id": "hlekaw",
-    "type": "news",
-    "headline": "Avengers Doomsday Advance Booking Nears Rs 50 Crore in India",
-    "dek": "Robert Downey Jr and Chris Evans starrer Avengers Doomsday is drawing massive pre-sales in India weeks before its theatrical debut.",
-    "entities": {
-      "people": [
-        "Robert Downey Jr",
-        "Chris Evans",
-        "Thanos"
-      ],
-      "titles": [
-        "Avengers: Doomsday",
-        "Avengers: Endgame",
-        "Avengers: Secret Wars"
-      ]
-    },
-    "keywords": [
-      "Avengers Doomsday",
-      "Avengers Doomsday advance booking",
-      "Robert Downey Jr",
-      "Chris Evans",
-      "Doctor Doom"
-    ],
-    "images": [
-      {
-        "url": "https://static.toiimg.com/thumb/msid-136010206,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "caption": "Avengers Doomsday Advance Booking Nears Rs 50 Crore in India",
-        "source": "Times of India — Entertainment"
-      }
-    ],
-    "published": "2026-11-20T07:38:20+05:30"
-  },
-  "17r7os4": {
-    "id": "17r7os4",
-    "type": "news",
-    "headline": "Vishwak Sen's Cult Lands on Amazon Prime Video Following Theatrical Run",
-    "dek": "The Telugu slasher thriller Cult makes its digital debut on Amazon Prime Video just twenty days after hitting theaters, offering viewers a mix of psychological suspense and survival horror across five languages.",
-    "entities": {
-      "people": [
-        "Vishwak Sen",
-        "Gayatri Bharadwaj",
-        "Tarak Ponnappa",
-        "Murali Sharma",
-        "Srikanth Iyengar",
-        "Prajna",
-        "Tharun Bhascker",
-        "Ravi Basrur",
-        "Sachin",
-        "Sandeep Kakarala",
-        "Karate Raju"
-      ],
-      "titles": [
-        "Cult",
-        "Falaknuma Das",
-        "Das Ka Dhamki",
-        "Animal"
-      ]
-    },
-    "keywords": [
-      "Cult OTT release date",
-      "Vishwak Sen Cult film",
-      "Cult Amazon Prime Video",
-      "Cult Telugu thriller cast"
-    ],
-    "images": [
-      {
-        "url": "https://images.timesnownews.com/thumb/msid-156535340,thumbsize-525620,width-1280,height-720,resizemode-75/156535340.jpg",
-        "caption": "Vishwak Sen's Cult Lands on Amazon Prime Video Following Theatrical Run",
-        "source": "Times Now — Entertainment"
-      }
-    ],
-    "published": "2026-11-19T23:52:12Z"
-  },
   "uaxxk7": {
     "id": "uaxxk7",
     "type": "news",
@@ -4967,44 +4940,40 @@ window.FA_HOME_ARTICLES = {
     ],
     "published": "2026-11-17T14:45:39Z"
   },
-  "1b9mj15": {
-    "id": "1b9mj15",
+  "1x07923": {
+    "id": "1x07923",
     "type": "news",
-    "headline": "Amazon Prime Video Expands The Terminal List Universe With Cry Havoc Prequel",
-    "dek": "The hit action franchise on Amazon is growing with a brand new Vietnam War prequel series centered on Tom Reece.",
+    "headline": "Vijay Antony's Wife Fatima Reveals the Heartbreaking Reason Behind the Actor's Barefoot Lifestyle at 'Appa Kutty' Event",
+    "dek": "During a promotional event for the upcoming film 'Appa Kutty', Fatima Antony shared emotional details regarding her late daughter Meera and explained why Vijay Antony has chosen to stop wearing regular footwear.",
     "entities": {
       "people": [
-        "Jack Carr",
-        "Tom Reece",
-        "James Reece",
-        "David Keeley",
-        "Chris Pratt",
-        "Taylor Kitsch",
-        "Max Adams",
-        "Jared Shaw",
-        "David Digilio"
+        "Vijay Antony",
+        "Fatima Antony",
+        "Meera",
+        "Laura",
+        "Mu Maran",
+        "Preethi Asrani",
+        "Baby Lithanya",
+        "Bhagavathi Perumal"
       ],
       "titles": [
-        "The Terminal List",
-        "Cry Havoc",
-        "The Terminal List: Dark Wolf",
-        "Savage Son"
+        "Appa Kutty"
       ]
     },
     "keywords": [
-      "Cry Havoc prequel series",
-      "The Terminal List Cry Havoc",
-      "Tom Reece Vietnam War prequel",
-      "Jack Carr Amazon Prime Video"
+      "Appa Kutty film",
+      "Vijay Antony wife Fatima",
+      "Vijay Antony Appa Kutty event",
+      "Meera Vijay Antony footwear"
     ],
     "images": [
       {
-        "url": "https://www.justjared.com/wp-content/uploads/2026/11/cry-havoc-terminal-list-prequel.jpg",
-        "caption": "Amazon Prime Video Expands The Terminal List Universe With Cry Havoc Prequel",
-        "source": "Just Jared"
+        "url": "https://static.toiimg.com/thumb/msid-135928798,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "caption": "Vijay Antony's Wife Fatima Reveals the Heartbreaking Reason Behind the Actor's Barefoot Lifestyle at 'Appa Kutty' Event",
+        "source": "Times of India — Entertainment"
       }
     ],
-    "published": "Tue, 17 Nov 2026 04:00:13 +0000"
+    "published": "2026-11-17T19:37:29+05:30"
   },
   "196ll1": {
     "id": "196ll1",

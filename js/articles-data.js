@@ -207983,5 +207983,405 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Sat, 21 Nov 2026 04:58:57 +0000"
+  },
+  "126lxxk": {
+    "id": "126lxxk",
+    "type": "news",
+    "headline": "GTA VI Eclipses Avengers: Endgame's Lifetime Earnings With Record-Breaking Launch",
+    "dek": "Rockstar Games' Grand Theft Auto VI has shattered records by pulling in $3.79 billion in its first 24 hours, comfortably surpassing the lifetime theatrical gross of Avengers: Endgame.",
+    "body": [
+      {
+        "h": "A Historic 24-Hour Launch",
+        "p": [
+          "The entertainment industry witnessed a seismic shift as Rockstar Games unleashed Grand Theft Auto VI to unprecedented demand. Within its initial twenty-four hours on the market, the blockbuster title generated a staggering $3.79 billion in revenue.",
+          "This monumental opening day easily outpaced the worldwide lifetime theatrical box office of Marvel's mega-hit Avengers: Endgame. Industry analysts and fans alike were left stunned by the sheer velocity of the game's commercial triumph."
+        ]
+      },
+      {
+        "h": "Surpassing Marvel's Cinematic Giant",
+        "p": [
+          "To contextualize the achievement, Avengers: Endgame accumulated between $2.79 billion and $2.94 billion globally over its entire theatrical lifespan, which included special re-releases. GTA VI managed to eclipse that massive total in a single day, pulling in roughly $850 million more than the movie's cumulative earnings.",
+          "The comparison highlights how modern interactive entertainment can rival and even surpass the highest-grossing cinematic endeavors in history, setting a lofty new standard for global entertainment launches."
+        ]
+      },
+      {
+        "h": "Massive Pre-Release Sales and Franchise Growth",
+        "p": [
+          "The staggering financial figures were backed by massive unit sales across pre-orders and early launch windows. Players around the globe purchased a combined 32.5 million copies, setting a brand-new benchmark for consumer uptake.",
+          "This stellar performance dwarfs the opening day of its predecessor, Grand Theft Auto V, which brought in around $800 million back in 2013. The newest iteration made nearly five times that amount on day one, reflecting thirteen years of pent-up fan anticipation."
+        ]
+      },
+      {
+        "h": "Platforms and Pricing Details",
+        "p": [
+          "Gamers eager to dive into the new virtual world can access the title on current-generation hardware, specifically PlayStation 5 and Xbox Series X|S. The game officially arrived on November 19, 2026.",
+          "Publishers structured the release with multiple tiers for buyers. The Standard Edition was made available at a price point of $80, while the more comprehensive Ultimate Edition retailed for $100."
+        ]
+      },
+      {
+        "h": "Critical Acclaim and Award Nominations",
+        "p": [
+          "Beyond commercial success, the title has achieved near-universal praise from critics worldwide. It secured a phenomenal Metacritic score of 99, putting it in elite historical company alongside the legendary 1998 release of The Legend of Zelda: Ocarina of Time.",
+          "The acclaim translated directly into industry recognition, with the title earning eight nominations at The Game Awards 2026. Categories include prestigious honors like Game of the Year, Best Game Direction, Best Narrative, and a Best Performance nomination for Manni L. Perez for her role as Lucia."
+        ]
+      },
+      {
+        "h": "Story Setting and Franchise Legacy",
+        "p": [
+          "The narrative unfolds within the fictional state of Leonida, bringing players back to Vice City, Rockstar's satirical recreation of Miami. The main plot follows characters Jason and Lucia as they dive into a high-stakes life of crime, requiring roughly 80 hours to fully complete.",
+          "This launch continues the incredible legacy of the franchise, which publisher Take-Two Interactive notes has sold over 470 million units worldwide across its history. Grand Theft Auto V alone contributed massively to this milestone, surpassing 230 million copies sold since its 2013 debut."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Grand Theft Auto VI achieved a record-shattering launch on November 19, 2026, earning $3.79 billion in its first 24 hours to surpass the lifetime box office of Avengers: Endgame. Released on PlayStation 5 and Xbox Series X|S, the game also scored a 99 on Metacritic and collected eight nominations at The Game Awards 2026."
+        ]
+      }
+    ],
+    "facts": [
+      "GTA VI was released on November 19, 2026.",
+      "GTA VI made $3.79 billion in its first 24 hours.",
+      "GTA VI sold 32.5 million copies during its pre-release and launch window.",
+      "Avengers: Endgame earned between $2.79 billion and $2.94 billion worldwide over its lifetime.",
+      "GTA V earned around $800 million on its opening day in 2013.",
+      "GTA VI received a Metacritic score of 99.",
+      "GTA VI received eight nominations at The Game Awards 2026.",
+      "The Standard Edition of GTA VI was priced at $80 and the Ultimate Edition at $100.",
+      "The Grand Theft Auto franchise has sold over 470 million units worldwide."
+    ],
+    "entities": {
+      "people": [
+        "Manni L. Perez",
+        "Jason",
+        "Lucia"
+      ],
+      "titles": [
+        "Grand Theft Auto VI",
+        "Avengers: Endgame",
+        "Grand Theft Auto V",
+        "The Legend of Zelda: Ocarina of Time"
+      ]
+    },
+    "keywords": [
+      "Grand Theft Auto VI",
+      "GTA VI box office record",
+      "Rockstar Games GTA 6",
+      "GTA VI earnings Avengers Endgame"
+    ],
+    "images": [
+      {
+        "url": "https://www.hindustantimes.com/ht-img/img/2026/11/21/1600x900/logo/GTA_6_1795242657555_1BBr_1795242661250_P4z9_11857133-392f-4853-b46d-e60a97e23307_9Xmf.jpg",
+        "caption": "GTA VI Eclipses Avengers: Endgame's Lifetime Earnings With Record-Breaking Launch",
+        "source": "Hindustan Times — Entertainment"
+      }
+    ],
+    "published": "Sat, 21 Nov 2026 12:09:57 +0530"
+  },
+  "m5ss59": {
+    "id": "m5ss59",
+    "type": "news",
+    "headline": "BIGBANG Triumphs at the 2026 MAMA Awards While G-Dragon Captures Attention with Traditional Styling",
+    "dek": "The legendary K-pop group gathered as a trio to accept the Best Music Video award for their comeback track, highlighted by standout fashion and heartfelt speeches.",
+    "body": [
+      {
+        "h": "The Return of BIGBANG at the 2026 MAMA Awards",
+        "p": [
+          "The global music scene witnessed a significant reunion as members of BIGBANG stepped onto the stage together at the 2026 MAMA Awards. G-Dragon, Taeyang, and Daesung made a collective appearance to accept the Best Music Video with YouTube accolade for their popular song \"BiiiG\".",
+          "Broadcasted via Mnet, the ceremony brought back artists whose footprint in the industry has spanned multiple generations. The event featured notable figures guiding the evening, with Park Bo Gum acting as the master of ceremonies and storyteller."
+        ]
+      },
+      {
+        "h": "Presenters and Event Highlights",
+        "p": [
+          "The award was officially presented by singer Seo In Young and idol Lee Dae Hwi. During their time on stage, Seo expressed her happiness about returning to the MAMA event after a considerable hiatus and playfully asked Lee if he would write a track for her in the future.",
+          "When BIGBANG was announced as the winner, the trio walked up to rapturous applause from the attendees. They took a brief moment to find their footing around the central microphone before addressing the audience."
+        ]
+      },
+      {
+        "h": "Humor and Agency Acknowledgments",
+        "p": [
+          "G-Dragon opened their acceptance speech with lighthearted humor, pointing out that it had been quite a while since the three artists stood together to receive an honor, making it slightly amusing to figure out their stage spacing.",
+          "Daesung followed by expressing appreciation to the various entities supporting their current endeavors. He noted that the members are presently signed to separate companies—Galaxy Corporation, THEBLACKLABEL, and RND Company—and thanked everyone involved in producing their celebrated video."
+        ]
+      },
+      {
+        "h": "Fans' Choice Recognition",
+        "p": [
+          "Taeyang took the opportunity to mention another accolade the group secured during the multi-day event. He thanked the dedicated fanbase for voting to grant them a Fans' Choice award the day prior, even though the members were unable to attend that specific session.",
+          "The acknowledgment underscored the enduring loyalty of their global supporters who continue to rally behind the group's releases across different platforms and voting categories."
+        ]
+      },
+      {
+        "h": "G-Dragon's Striking Fashion Choice",
+        "p": [
+          "Beyond the group's musical triumph, G-Dragon heavily drew the attention of fashion critics and viewers with his unique attire. He accessorized his outfit with a vivid red binyeo, which is a traditional Korean hairpin, coupled with a matching red floral brooch.",
+          "The distinct styling choice added a definitive artistic flair to his appearance, quickly becoming one of the most talked-about visual highlights of the entire evening."
+        ]
+      },
+      {
+        "h": "A Legacy of Hits and Recent Releases",
+        "p": [
+          "Ever since their initial debut in 2006, BIGBANG has accumulated a massive repertoire of iconic songs, including \"Lies\", \"Last Farewell\", \"Haru Haru\", \"FANTASTIC BABY\", \"BANG BANG BANG\", and \"Still Life\".",
+          "The group revitalized their group activities in August by releasing \"BiiiG\" as a trio, quickly following it up with another new track titled \"GiiiRIP\" just three months later, ahead of staging their latest performances at the ceremony."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "BIGBANG members G-Dragon, Taeyang, and Daesung reunited at the 2026 MAMA Awards to win Best Music Video with YouTube for their comeback song \"BiiiG\". Alongside accepting multiple accolades including a Fans' Choice award, the group drew significant attention through G-Dragon's traditional red hairpin styling and heartfelt acknowledgments of their respective agencies."
+        ]
+      }
+    ],
+    "facts": [
+      "BIGBANG members G-Dragon, Taeyang, and Daesung appeared together at the 2026 MAMA Awards.",
+      "They won the Best Music Video with YouTube award for their song \"BiiiG\".",
+      "The awards ceremony was broadcast on Mnet on November 21, 2026.",
+      "Park Bo Gum hosted the ceremony as storyteller.",
+      "Seo In Young and Lee Dae Hwi served as presenters.",
+      "The members are currently with Galaxy Corporation, THEBLACKLABEL, and RND Company.",
+      "BIGBANG debuted in 2006.",
+      "G-Dragon wore a traditional Korean hairpin called a binyeo along with a red floral brooch."
+    ],
+    "entities": {
+      "people": [
+        "G-Dragon",
+        "Taeyang",
+        "Daesung",
+        "Park Bo Gum",
+        "Seo In Young",
+        "Lee Dae Hwi"
+      ],
+      "titles": [
+        "BiiiG",
+        "GiiiRIP",
+        "Lies",
+        "Last Farewell",
+        "Haru Haru",
+        "FANTASTIC BABY",
+        "BANG BANG BANG",
+        "Still Life"
+      ]
+    },
+    "keywords": [
+      "BIGBANG 2026 MAMA",
+      "G-Dragon red hairpin",
+      "BIGBANG BiiiG music video",
+      "BIGBANG MAMA Awards win"
+    ],
+    "images": [],
+    "published": "Sat, 21 Nov 2026 02:23:00 EST"
+  },
+  "1viazxs": {
+    "id": "1viazxs",
+    "type": "news",
+    "headline": "Ramayana Part One Box Office Collections: Ranbir Kapoor and Yash starrer nets Rs. 15 Cr on 3rd Friday for Rs. 850 Cr cume",
+    "dek": "Ranbir Kapoor and Yash starrer Ramayana Part One has brought in Rs. 15 crore nett on its third Friday, bringing its total collection to an impressive Rs. 850 crore nett while continuing to make history across southern markets.",
+    "body": [
+      {
+        "h": "Third Friday Box Office Performance",
+        "p": [
+          "The theatrical run of Ramayana Part One reached its third Friday with a collection of approximately Rs. 15 crore nett across the domestic market. Out of this daily sum, the Hindi version contributed Rs. 10.75 crore nett, while the various South-dubbed versions added another Rs. 4 crore nett to the overall tally.",
+          "This performance marked a 15 percent drop compared to the previous day, while the week-on-week decline proved to be rather steep at nearly 70 percent. Despite enjoying an open week devoid of major new theatrical competition, the film failed to maintain the flat or upward trajectory typically seen in larger urban centers on Fridays."
+        ]
+      },
+      {
+        "h": "Overall Cume and Regional Milestones",
+        "p": [
+          "With the latest figures added, the cumulative domestic box office collection for the Ranbir Kapoor and Yash starrer stands at Rs. 850 crore nett. While earlier projections anticipated an even higher lifetime trajectory, current trends indicate a likely final finish around the Rs. 750 crore nett mark as collections experience normal cooling.",
+          "Conversely, the regional performance in southern territories has been nothing short of historic. The South-dubbed versions officially crossed the major milestone of Rs. 200 crore nett, establishing a first-of-its-kind record for the industry. Specifically, Kerala has delivered a sensational run where the feature grossed over Rs. 60 crore within fifteen days, positioning it to potentially become the biggest non-Mollywood film in the state."
+        ]
+      },
+      {
+        "h": "Circuit-Wise Breakdown Across India",
+        "p": [
+          "Beyond Kerala, the movie has continued to pull impressive numbers in neighboring states, surpassing the Rs. 50 crore threshold in Tamil Nadu while marching steadily toward a Rs. 150 crore milestone in Karnataka. These robust southern tallies have heavily bolstered the overall box office health during a period when northern circuits witnessed softer numbers.",
+          "Despite its massive scale, the feature experienced relative underperformance within the Hindi heartland circuits. Industry analysts noted the irony of this trend, given that these particular regions are traditionally expected to serve as primary strongholds for a cinematic adaptation centered on the epic of Ramayana."
+        ]
+      },
+      {
+        "h": "Footfalls and Pricing Concerns",
+        "p": [
+          "An analysis of total footfalls reveals a more challenging underlying picture, with the overall ticket counts barely pushing past two crores over the span of two weeks. Observers point out that aggressive ticket pricing models throughout the year have created an inflated baseline on weekdays, which ultimately eliminated the traditional weekend bump in ticket sales that helps drive higher overall occupancies.",
+          "Furthermore, experts suggest that high admission prices have increasingly become a deterrent for casual moviegoers, preventing the feature from fully capitalizing on its widespread appeal and generating the kind of repetitive viewing cycles needed to reach unprecedented blockbusting tiers."
+        ]
+      },
+      {
+        "h": "Cultural Adaptation and Narrative Style",
+        "p": [
+          "The softer performance in specific northern segments has also been attributed to a shift in narrative tone. For generations, audiences have predominantly engaged with the Ramayana through television serials that heavily emphasized emotional depth and traditional melodrama.",
+          "In contrast, this cinematic iteration adopted a grand, Hollywood-style visual spectacle. While visually ambitious, this stylistic departure may have created a disconnect with traditional viewers who sought a more familiar emotional cadence from the storytelling."
+        ]
+      },
+      {
+        "h": "External Challenges and Marketing Factors",
+        "p": [
+          "Additional headwinds included persistent negativity surrounding the production over the course of the preceding year. Observers noted that these recurring criticisms inevitably weighed down public sentiment, especially given that the official marketing campaign remained relatively subdued and failed to mount a robust counter-narrative.",
+          "The combination of these compounding factors meant that while the project's financial status remains solidly in blockbuster territory, its ultimate commercial footprint fell somewhat short of the monumental potential expected from a venture of this magnitude."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Ranbir Kapoor and Yash starrer Ramayana Part One brought in Rs. 15 crore nett on its third Friday, pushing its total domestic cume to Rs. 850 crore nett amid strong southern numbers and softer northern heartland footfalls.",
+          "While southern markets like Kerala and Karnataka delivered record-breaking tallies, overall growth was impacted by steep weekday-to-weekend trends, high ticket pricing strategies, and differing audience expectations regarding the epic's narrative presentation."
+        ]
+      }
+    ],
+    "facts": [
+      "Ramayana Part One collected around Rs. 15 crore nett on its 3rd Friday at the Indian box office.",
+      "The Hindi version accounted for Rs. 10.75 crore nett on the 3rd Friday.",
+      "The South-dubbed versions brought in Rs. 4 crore nett on the 3rd Friday.",
+      "The cumulative box office collections for the Ranbir Kapoor and Yash starrer stand at Rs. 850 crore nett.",
+      "The South-dubbed versions crossed the Rs. 200 crore nett mark.",
+      "The film has grossed over Rs. 60 crore in Kerala in 15 days.",
+      "The film crossed Rs. 50 crore in Tamil Nadu."
+    ],
+    "entities": {
+      "people": [
+        "Ranbir Kapoor",
+        "Yash",
+        "Jatinder Singh"
+      ],
+      "titles": [
+        "Ramayana Part One",
+        "Ramayana: Part One",
+        "Ramayana"
+      ]
+    },
+    "keywords": [
+      "Ramayana Part One Box Office",
+      "Ramayan Ranbir Kapoor Yash",
+      "Ramayana Part One collections",
+      "Ramayana Kerala box office"
+    ],
+    "images": [
+      {
+        "url": "https://www.pinkvilla.com/images/2026-11/1927601329_ramayan-3.jpg",
+        "caption": "Ramayana Part One Box Office Collections: Ranbir Kapoor and Yash starrer nets Rs. 15 Cr on 3rd Friday for Rs. 850 Cr cum",
+        "source": "Pinkvilla"
+      }
+    ],
+    "published": "Sat, 21 Nov 2026 11:39:23 +0530"
+  },
+  "1hsrctr": {
+    "id": "1hsrctr",
+    "type": "news",
+    "headline": "Capcom Announces Resident Evil Remake Collection And Code: Veronica Remake Plans",
+    "dek": "The iconic survival horror franchise reaches its 30th anniversary milestone with new Nintendo Switch 2 digital releases and future 2027 remake plans.",
+    "body": [
+      {
+        "h": "Thirty Years of Survival Horror",
+        "p": [
+          "The acclaimed survival horror franchise originally debuted in March 1996 and is currently observing its 30th anniversary. Across its extensive history, the property has expanded to include twelve mainline titles alongside more than sixty total releases spanning mobile platforms, spin-offs, and remakes.",
+          "Capcom has established a strong legacy in the horror genre over the decades. The brand remains a prominent force in digital storytelling, continuously drawing in both long-time devotees and fresh audiences."
+        ]
+      },
+      {
+        "h": "Recent Success With Resident Evil Requiem",
+        "p": [
+          "Earlier in the year, the franchise saw the launch of Resident Evil Requiem, which made a significant impact upon release. The latest mainline installment earned critical praise, including a nearly flawless 9/10 score from reviewers who highlighted its bold execution.",
+          "The title's success stemmed largely from its innovative dual-character mechanics, which surpassed previous experiments seen in older entries. Developers successfully refined the first-person perspective, leaving supporters hopeful for eventual virtual reality integration."
+        ]
+      },
+      {
+        "h": "Nintendo Switch 2 Digital Bundle",
+        "p": [
+          "Building upon the franchise's ongoing momentum, Capcom brought three modern remakes to the Nintendo Switch 2 platform. The digital package launched on October 16, offering a substantial 55.9GB of gameplay content for players to explore.",
+          "The collection introduces newcomers to classic survival horror experiences directly through the digital storefront. These editions provide modern platforms with updated versions of foundational titles in the series."
+        ]
+      },
+      {
+        "h": "Included Titles and Comprehensive DLC",
+        "p": [
+          "The digital release package specifically incorporates the Resident Evil 2 Deluxe Edition, Resident Evil 3, and Resident Evil 4 Gold Edition. Each title comes fully equipped with its respective downloadable content offerings.",
+          "For instance, the inclusion of the Resident Evil 4 Gold Edition ensures that players receive both the core adventure and the highly celebrated Separate Ways expansion as part of the package."
+        ]
+      },
+      {
+        "h": "Physical Release Anticipation for 2027",
+        "p": [
+          "While digital buyers gained immediate access through the store, fans preferring physical media face an extended wait. A physical counterpart release has been slated for January 2027.",
+          "Uncertainty remains regarding whether the upcoming January 2027 launch will feature a traditional physical cartridge or simply supply a digital download code inside the packaging."
+        ]
+      },
+      {
+        "h": "Upcoming Resident Evil - Code: Veronica Remake",
+        "p": [
+          "Looking further ahead, the horror series is set to continue with a brand-new remake of Resident Evil - Code: Veronica. This upcoming project is anticipated to arrive sometime in 2027.",
+          "The original version launched back in 2000, making a modernization long overdue. The upcoming project represents the sole currently known entry in active development for the franchise."
+        ]
+      },
+      {
+        "h": "Returning to Rockfort Island",
+        "p": [
+          "The forthcoming remake will transport players back to the ominous setting of Rockfort Island. The narrative centers on siblings Claire and Chris, following Claire's initial capture by the Umbrella Corporation.",
+          "This upcoming project gives enthusiasts another opportunity to revisit foundational narrative arcs within the overarching survival horror timeline."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "The Resident Evil franchise marks its 30th anniversary alongside recent digital releases on the Nintendo Switch 2 and high critical praise for Resident Evil Requiem. Additionally, Capcom is preparing a physical release window for January 2027 and developing a Code: Veronica remake for the future."
+        ]
+      }
+    ],
+    "facts": [
+      "Resident Evil originally launched in March 1996.",
+      "The franchise features twelve mainline titles and over sixty total releases.",
+      "Resident Evil Requiem was released in 2026 and received a 9/10 score.",
+      "Three modern remakes arrived digitally on the Nintendo Switch 2 on October 16 with 55.9GB of gameplay.",
+      "The Switch 2 remakes include Resident Evil 2 Deluxe Edition, Resident Evil 3, and Resident Evil 4 Gold Edition.",
+      "Resident Evil 4 Gold Edition contains the Separate Ways DLC.",
+      "A physical release for the Switch 2 collection is expected in January 2027.",
+      "The Resident Evil - Code: Veronica remake is expected to arrive in 2027 and is based on the original 2000 game set on Rockfort Island following siblings Claire and Chris."
+    ],
+    "entities": {
+      "people": [
+        "Angharad Redden",
+        "Chris Carter",
+        "Claire",
+        "Chris"
+      ],
+      "titles": [
+        "Resident Evil",
+        "Cyberpunk 2077",
+        "Resident Evil 6",
+        "Resident Evil Requiem",
+        "Resident Evil 2 Deluxe Edition",
+        "Resident Evil 3",
+        "Resident Evil 4 Gold Edition",
+        "Grand Theft Auto VI",
+        "Resident Evil - Code: Veronica",
+        "Resident Evil: Apocalypse",
+        "Resident Evil: Extinction",
+        "Resident Evil: Afterlife",
+        "Resident Evil: Retribution",
+        "Resident Evil: The Final Chapter",
+        "Resident Evil: Welcome to Raccoon City",
+        "Resident Evil 2",
+        "Resident Evil 3: Nemesis",
+        "Resident Evil: Code Veronica X HD",
+        "Resident Evil Zero",
+        "Resident Evil 4",
+        "Resident Evil 5",
+        "Resident Evil 7: Biohazard",
+        "Resident Evil Village"
+      ]
+    },
+    "keywords": [
+      "Resident Evil Nintendo Switch 2",
+      "Resident Evil Code Veronica remake",
+      "Resident Evil 35.9GB collection",
+      "Capcom Resident Evil 2027"
+    ],
+    "images": [
+      {
+        "url": "https://static0.srcdn.com/wordpress/wp-content/uploads/2026/09/resident-evil-2-remake.jpg?w=1600&amp;h=900&amp;fit=crop",
+        "caption": "Capcom Announces Resident Evil Remake Collection And Code: Veronica Remake Plans",
+        "source": "Screen Rant"
+      }
+    ],
+    "published": "Sat, 21 Nov 2026 06:30:18 GMT"
   }
 };
