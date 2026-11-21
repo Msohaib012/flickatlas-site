@@ -4,45 +4,6 @@
    {
     "step": "fetch",
     "category": "Trending News",
-    "run_at": "2026-11-20T04:51:46Z",
-    "run_id": "44677066856",
-    "status": "success",
-    "checked": {
-     "candidates": 257,
-     "detail": "RSS/Atom items across 137 sources; 4 source(s) errored"
-    },
-    "changed": {
-     "added": [
-      "Echo Of A Letter Episodes 13-14 Timings: Finale ALERT! Will Chen Wan-Zhao Sheng Get A Happy Or Sad Ending?",
-      "Ramayana Box Office Collection Day 15: Ranbir’s Film Beats KGF 2 Lifetime Collection; Creates A New Record",
-      "Jon Hamm and Anna Osceola have their first baby together",
-      "'O.M: Operation Mole' X review: Mammootty's dance sequence",
-      "'GTA VI' finally reveals actors behind Lucia and Jason",
-      "Aryan Khan calls Shah Rukh a beast, says comparisons are a compliment",
-      "Robert Pattinson’s Crime Thriller Is Still His Greatest Movie 9 Years Later",
-      "This 10/10 Action Thriller Is Still Jason Statham’s Greatest Movie 8 Years Later",
-      "New Grown Ups Project Sets 2027 Release Date, but It Doesn’t Star Adam Sandler",
-      "Christopher Nolan Reveals Why The Odyssey Blu-ray Has No Deleted Scenes",
-      "General Hospital’s Dominic Zamprogna Makes His Feelings Clear on Rebecca Herbst: ‘There is Drama’",
-      "7 ‘Calvin and Hobbes’ Quotes That Hit Harder as an Adult",
-      "The MCU’s Doctor Doom Setup Officially Makes More Sense Than The Infinity Saga’s Thanos Story",
-      "‘Project 11,’ Shot by 11 Directors in 11 Global Cities, Returns on Oh Short Flips (EXCLUSIVE)",
-      "‘Sunrise On The Reaping’ Epilogue Scene Explained: How Everything Ties Together",
-      "How High Can ‘Hunger Games: Sunrise on the Reaping’ Reach in Its Box Office Opening?",
-      "Dude, Where Are My Billions? Ashton Kutcher Edging Closer to Super Rich Status After Anthropic IPO",
-      "‘Real Housewives of Orange County’ Alum Katie Ginella Embarks on Search for Birth Family in New NBCU Docuseries",
-      "Bowen Yang Under Fire for Antisemitic Remark About Regina Spektor: ‘Incredibly Disappointing’",
-      "Grey's Anatomy - Till I Collapse (23.06) - Rate the Episode!"
-     ],
-     "updated": [],
-     "count": 250,
-     "detail": "250 stories, 0 duplicates removed, 7 dropped"
-    },
-    "reason": null
-   },
-   {
-    "step": "fetch",
-    "category": "Trending News",
     "run_at": "2026-11-20T05:51:07Z",
     "run_id": "44683693590",
     "status": "success",
@@ -936,32 +897,48 @@
      "detail": "280 stories, 0 duplicates removed, 0 dropped"
     },
     "reason": null
-   }
-  ],
-  "apply_auto": [
+   },
    {
-    "step": "apply_auto",
+    "step": "fetch",
     "category": "Trending News",
-    "run_at": "2026-11-20T05:51:25Z",
-    "run_id": "44683693590",
+    "run_at": "2026-11-21T04:51:49Z",
+    "run_id": "44868034430",
     "status": "success",
     "checked": {
-     "candidates": 14,
-     "detail": "draft articles + box-office rows from out/gemini-batch.json"
+     "candidates": 303,
+     "detail": "RSS/Atom items across 137 sources; 4 source(s) errored"
     },
     "changed": {
      "added": [
-      "Shiv Sena Leader Neelam Gorhe Assures Action Following Threat to Saif Ali Khan",
-      "War Season 2 Cast Updates: Who Is Returning and Who Is Leaving",
-      "Alia Bhatt Backs Deepika Padukone's Demand For Eight-Hour Workdays In Bollywood",
-      "Katie Ginella of The Real Housewives of Orange County to Search for Birth Family in New Docuseries"
+      "OM Box Office Day 1: Dhanush Gets His Highest Opener As OM Beats Raayan, Tere Ishk Mein; Did It Beat Scene?",
+      "Ramayana (Hindi) Box Office Day 16: Ranbir's Film Beats Pushpa 2 To Create New Record; Crosses 880Cr In India",
+      "AICWA Demands Tighter Security For Saif Ali Khan, Amitabh Bachchan & Abhishek Amid Death Threats",
+      "Ramayana Set to Enter ₹900 Crore India Net Club on Day 17, Becomes Third Fastest Indian Film After Pushpa 2 and Dhurandhar 2",
+      "GTA 6 Creates History With $4 Billion First-Day Sales, Becomes Biggest Entertainment Launch of All Time",
+      "Yash’s diet and workout routine to maintain his physique",
+      "MrBeast reaches settlement with former employee Leroy Nabors",
+      "Here's why Robert Pattinson bagged James Bond role",
+      "‘Vrushakarma’: Naga Chaitanya’s second single ‘Chalo Padhave’ out now",
+      "Katy poses with Justin as past marriage to Russell Brand hits headlines",
+      "Look inside 'Eetha' actor Shraddha Kapoor's Rs 60 crore Juhu home",
+      "Ronny Hallin passes away at 88",
+      "Sreeleela makes special appearance at Chennai theatre for ‘O.M: Operation Mole’ FDFS",
+      "Before 'Bouma', Prithviraj Sukumaran's THIS film explored black magic",
+      "Salman Khan says there's ‘no way’ Maatrubhumi would clash with Shah Rukh Khan and Suhana's King; okay to face off Avengers Doomsday, Dune 3",
+      "Macaulay Culkin to return as Kevin McCallister to Home Alone franchise 36 years after the first film",
+      "The many worlds of Sai Pallavi and why she is never where you expect her to be",
+      "Cyrus Broacha makes amends with Farah Khan's cook Dileep after calling him a 'fraud'",
+      "10 Thriller Books That Hooked Me From the Opening Chapter",
+      "‘9-1-1’ Is Officially Switching Protagonists, but There’s a Big Problem"
      ],
      "updated": [],
-     "count": 7,
-     "detail": "+4 articles, +0 box-office rows, 3 rows updated"
+     "count": 278,
+     "detail": "284 stories, 0 duplicates removed, 19 dropped"
     },
     "reason": null
-   },
+   }
+  ],
+  "apply_auto": [
    {
     "step": "apply_auto",
     "category": "Trending News",
@@ -1484,27 +1461,32 @@
      "detail": "+4 articles, +0 box-office rows, 3 rows updated"
     },
     "reason": null
+   },
+   {
+    "step": "apply_auto",
+    "category": "Trending News",
+    "run_at": "2026-11-21T04:52:20Z",
+    "run_id": "44868034430",
+    "status": "success",
+    "checked": {
+     "candidates": 14,
+     "detail": "draft articles + box-office rows from out/gemini-batch.json"
+    },
+    "changed": {
+     "added": [
+      "Grand Theft Auto VI Smashes Entertainment History With Massive Opening Day",
+      "Bill Maher Discusses Grand Theft Auto VI And Robert Pattinson's James Bond Casting On Real Time",
+      "‘Vrushakarma’ Second Single ‘Chalo Padhave’ Explores Naga Chaitanya and Kiara Khanna's Emotional Bond",
+      "Presumed Innocent Season 2: Everything We Know About the Apple TV+ Legal Drama"
+     ],
+     "updated": [],
+     "count": 7,
+     "detail": "+4 articles, +0 box-office rows, 3 rows updated"
+    },
+    "reason": null
    }
   ],
   "ott": [
-   {
-    "step": "ott",
-    "category": "OTT",
-    "run_at": "2026-11-20T04:52:21Z",
-    "run_id": "44677066856",
-    "status": "success",
-    "checked": {
-     "candidates": 397,
-     "detail": "OTT now/coming titles from the published catalogue"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 0,
-     "detail": "now 390, coming 7"
-    },
-    "reason": "no-new-data"
-   },
    {
     "step": "ott",
     "category": "OTT",
@@ -1918,26 +1900,27 @@
      "detail": "now 394, coming 7"
     },
     "reason": "no-new-data"
-   }
-  ],
-  "trending_weekly": [
+   },
    {
-    "step": "trending_weekly",
-    "category": "Trending Topics",
-    "run_at": "2026-11-20T04:54:07Z",
-    "run_id": "44677066856",
+    "step": "ott",
+    "category": "OTT",
+    "run_at": "2026-11-21T04:52:21Z",
+    "run_id": "44868034430",
     "status": "success",
     "checked": {
-     "candidates": 100,
-     "detail": "cached Google RSS trend/article intersection"
+     "candidates": 401,
+     "detail": "OTT now/coming titles from the published catalogue"
     },
     "changed": {
      "added": [],
      "updated": [],
-     "count": 0
+     "count": 0,
+     "detail": "now 394, coming 7"
     },
     "reason": "no-new-data"
-   },
+   }
+  ],
+  "trending_weekly": [
    {
     "step": "trending_weekly",
     "category": "Trending Topics",
@@ -2416,27 +2399,26 @@
      "count": 5
     },
     "reason": null
-   }
-  ],
-  "multisource_boxoffice": [
+   },
    {
-    "step": "multisource_boxoffice",
-    "category": "Box Office",
-    "run_at": "2026-11-20T04:54:05Z",
-    "run_id": "44677066856",
+    "step": "trending_weekly",
+    "category": "Trending Topics",
+    "run_at": "2026-11-21T04:54:11Z",
+    "run_id": "44868034430",
     "status": "success",
     "checked": {
-     "candidates": 725,
-     "detail": "673 collected staging rows from readers; 247 averaged across 2+ sources"
+     "candidates": 100,
+     "detail": "cached Google RSS trend/article intersection"
     },
     "changed": {
      "added": [],
      "updated": [],
-     "count": 6,
-     "detail": "+3 new rows, 3 updated rows, 695 unchanged"
+     "count": 0
     },
-    "reason": null
-   },
+    "reason": "no-new-data"
+   }
+  ],
+  "multisource_boxoffice": [
    {
     "step": "multisource_boxoffice",
     "category": "Box Office",
@@ -2850,19 +2832,27 @@
      "detail": "+0 new rows, 4 updated rows, 700 unchanged"
     },
     "reason": null
+   },
+   {
+    "step": "multisource_boxoffice",
+    "category": "Box Office",
+    "run_at": "2026-11-21T04:54:09Z",
+    "run_id": "44868034430",
+    "status": "success",
+    "checked": {
+     "candidates": 732,
+     "detail": "677 collected staging rows from readers; 250 averaged across 2+ sources"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 6,
+     "detail": "+3 new rows, 3 updated rows, 701 unchanged"
+    },
+    "reason": null
    }
   ],
   "gemini_reviews": [
-   {
-    "step": "gemini_reviews",
-    "category": "Reviews",
-    "run_at": "2026-11-20T04:54:15Z",
-    "run_id": "44677066856",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "gemini_reviews",
     "category": "Reviews",
@@ -3099,32 +3089,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "gemini_reviews",
+    "category": "Reviews",
+    "run_at": "2026-11-21T04:54:19Z",
+    "run_id": "44868034430",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "convert_news": [
-   {
-    "step": "convert_news",
-    "category": "Trending News",
-    "run_at": "2026-11-20T06:00:17Z",
-    "run_id": "44683693590",
-    "status": "success",
-    "checked": {
-     "candidates": 600,
-     "detail": "feed entries from out/queue.json"
-    },
-    "changed": {
-     "added": [
-      "War Season 2 Cast Updates: Who Is Returning and Who Is Leaving",
-      "Alia Bhatt Backs Deepika Padukone's Demand For Eight-Hour Workdays In Bollywood",
-      "Katie Ginella of The Real Housewives of Orange County to Search for Birth Family in New Docuseries",
-      "Shiv Sena Leader Neelam Gorhe Assures Action Following Threat to Saif Ali Khan"
-     ],
-     "updated": [],
-     "count": 4,
-     "detail": "api-news.json 600 items, api-trends.json 12 items"
-    },
-    "reason": null
-   },
    {
     "step": "convert_news",
     "category": "Trending News",
@@ -3648,19 +3625,32 @@
      "detail": "api-news.json 600 items, api-trends.json 12 items"
     },
     "reason": null
+   },
+   {
+    "step": "convert_news",
+    "category": "Trending News",
+    "run_at": "2026-11-21T04:54:11Z",
+    "run_id": "44868034430",
+    "status": "success",
+    "checked": {
+     "candidates": 600,
+     "detail": "feed entries from out/queue.json"
+    },
+    "changed": {
+     "added": [
+      "Grand Theft Auto VI Smashes Entertainment History With Massive Opening Day",
+      "Bill Maher Discusses Grand Theft Auto VI And Robert Pattinson's James Bond Casting On Real Time",
+      "Presumed Innocent Season 2: Everything We Know About the Apple TV+ Legal Drama",
+      "‘Vrushakarma’ Second Single ‘Chalo Padhave’ Explores Naga Chaitanya and Kiara Khanna's Emotional Bond"
+     ],
+     "updated": [],
+     "count": 4,
+     "detail": "api-news.json 600 items, api-trends.json 12 items"
+    },
+    "reason": null
    }
   ],
   "episode_guides": [
-   {
-    "step": "episode_guides",
-    "category": "Drama Episodes",
-    "run_at": "2026-11-20T04:54:15Z",
-    "run_id": "44677066856",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "episode_guides",
     "category": "Drama Episodes",
@@ -3937,19 +3927,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "title_seed": [
+   },
    {
-    "step": "title_seed",
-    "category": "Spotlight / Coming Soon / Most Awaited",
-    "run_at": "2026-11-20T04:54:15Z",
-    "run_id": "44677066856",
+    "step": "episode_guides",
+    "category": "Drama Episodes",
+    "run_at": "2026-11-21T04:54:19Z",
+    "run_id": "44868034430",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "title_seed": [
    {
     "step": "title_seed",
     "category": "Spotlight / Coming Soon / Most Awaited",
@@ -4271,31 +4261,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "title_seed",
+    "category": "Spotlight / Coming Soon / Most Awaited",
+    "run_at": "2026-11-21T04:54:19Z",
+    "run_id": "44868034430",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "gemini_batch": [
-   {
-    "step": "gemini_batch",
-    "category": "Trending News",
-    "run_at": "2026-11-20T04:52:13Z",
-    "run_id": "44677066856",
-    "status": "success",
-    "checked": {
-     "candidates": 5,
-     "detail": "news queue items drafted this run; 250 still unprocessed; today by category: movies 0/6, tv_dramas 3/4, episodes 0/2, box_office 7/6, celebrities_events 4/5, upcoming_releases 0/4, ott_streaming 5/4, trailers 0/3, awards 1/2, music_ost 0/2, viral 0/2"
-    },
-    "changed": {
-     "added": [
-      "Grand Theft Auto VI Unveils Voice Cast and Box Office Milestone",
-      "Dominic Zamprogna Opens Up About Working With Rebecca Herbst on General Hospital",
-      "Aryan Khan calls Shah Rukh Khan a beast and views legacy comparisons as a compliment",
-      "Shah Rukh Khan Becomes the Only Indian Actor Featured in Variety's 100 Greatest Movie Stars List"
-     ],
-     "updated": [],
-     "count": 4
-    },
-    "reason": null
-   },
    {
     "step": "gemini_batch",
     "category": "Trending News",
@@ -4800,19 +4778,31 @@
      "count": 4
     },
     "reason": null
+   },
+   {
+    "step": "gemini_batch",
+    "category": "Trending News",
+    "run_at": "2026-11-21T04:52:20Z",
+    "run_id": "44868034430",
+    "status": "success",
+    "checked": {
+     "candidates": 4,
+     "detail": "news queue items drafted this run; 278 still unprocessed; today by category: movies 3/6, tv_dramas 2/4, episodes 0/2, box_office 3/6, celebrities_events 5/5, upcoming_releases 1/4, ott_streaming 1/4, trailers 0/3, awards 2/2, music_ost 1/2, viral 2/2"
+    },
+    "changed": {
+     "added": [
+      "Grand Theft Auto VI Smashes Entertainment History With Massive Opening Day",
+      "Bill Maher Discusses Grand Theft Auto VI And Robert Pattinson's James Bond Casting On Real Time",
+      "‘Vrushakarma’ Second Single ‘Chalo Padhave’ Explores Naga Chaitanya and Kiara Khanna's Emotional Bond",
+      "Presumed Innocent Season 2: Everything We Know About the Apple TV+ Legal Drama"
+     ],
+     "updated": [],
+     "count": 4
+    },
+    "reason": null
    }
   ],
   "overseas_ai": [
-   {
-    "step": "overseas_ai",
-    "category": "Box Office",
-    "run_at": "2026-11-20T04:54:15Z",
-    "run_id": "44677066856",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "overseas_ai",
     "category": "Box Office",
@@ -5126,24 +5116,19 @@
      "count": 0
     },
     "reason": "no-new-data"
+   },
+   {
+    "step": "overseas_ai",
+    "category": "Box Office",
+    "run_at": "2026-11-21T04:54:19Z",
+    "run_id": "44868034430",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "publish": [
-   {
-    "step": "publish",
-    "category": "Trending News",
-    "run_at": "2026-11-20T04:54:15Z",
-    "run_id": "44677066856",
-    "status": "success",
-    "checked": null,
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 406,
-     "detail": "lines changed in owned files; no per-item summary from script"
-    },
-    "reason": null
-   },
    {
     "step": "publish",
     "category": "Trending News",
@@ -5488,24 +5473,24 @@
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
-   }
-  ],
-  "stats_traffic": [
+   },
    {
-    "step": "stats_traffic",
-    "category": "Stats / Health",
-    "run_at": "2026-11-20T04:54:15Z",
-    "run_id": "44677066856",
+    "step": "publish",
+    "category": "Trending News",
+    "run_at": "2026-11-21T04:54:19Z",
+    "run_id": "44868034430",
     "status": "success",
     "checked": null,
     "changed": {
      "added": [],
      "updated": [],
-     "count": 29,
+     "count": 425,
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
-   },
+   }
+  ],
+  "stats_traffic": [
    {
     "step": "stats_traffic",
     "category": "Stats / Health",
@@ -5840,19 +5825,24 @@
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
+   },
+   {
+    "step": "stats_traffic",
+    "category": "Stats / Health",
+    "run_at": "2026-11-21T04:54:19Z",
+    "run_id": "44868034430",
+    "status": "success",
+    "checked": null,
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 10,
+     "detail": "lines changed in owned files; no per-item summary from script"
+    },
+    "reason": null
    }
   ],
   "stats_pipeline": [
-   {
-    "step": "stats_pipeline",
-    "category": "Stats / Health",
-    "run_at": "2026-11-20T04:54:15Z",
-    "run_id": "44677066856",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "stats_pipeline",
     "category": "Stats / Health",
@@ -6102,19 +6092,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "stats_health": [
+   },
    {
-    "step": "stats_health",
+    "step": "stats_pipeline",
     "category": "Stats / Health",
-    "run_at": "2026-11-20T04:54:15Z",
-    "run_id": "44677066856",
+    "run_at": "2026-11-21T04:54:19Z",
+    "run_id": "44868034430",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "stats_health": [
    {
     "step": "stats_health",
     "category": "Stats / Health",
@@ -6349,19 +6339,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "metadata_refresh": [
+   },
    {
-    "step": "metadata_refresh",
-    "category": "Spotlight / Coming Soon / Most Awaited",
-    "run_at": "2026-11-20T04:54:15Z",
-    "run_id": "44677066856",
+    "step": "stats_health",
+    "category": "Stats / Health",
+    "run_at": "2026-11-21T04:54:19Z",
+    "run_id": "44868034430",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "metadata_refresh": [
    {
     "step": "metadata_refresh",
     "category": "Spotlight / Coming Soon / Most Awaited",
@@ -6643,19 +6633,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "providers_backfill": [
+   },
    {
-    "step": "providers_backfill",
-    "category": "OTT",
-    "run_at": "2026-11-20T04:54:15Z",
-    "run_id": "44677066856",
+    "step": "metadata_refresh",
+    "category": "Spotlight / Coming Soon / Most Awaited",
+    "run_at": "2026-11-21T04:54:19Z",
+    "run_id": "44868034430",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "providers_backfill": [
    {
     "step": "providers_backfill",
     "category": "OTT",
@@ -6896,19 +6886,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "tavily_boxoffice": [
+   },
    {
-    "step": "tavily_boxoffice",
-    "category": "Box Office",
-    "run_at": "2026-11-20T04:54:15Z",
-    "run_id": "44677066856",
+    "step": "providers_backfill",
+    "category": "OTT",
+    "run_at": "2026-11-21T04:54:19Z",
+    "run_id": "44868034430",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "tavily_boxoffice": [
    {
     "step": "tavily_boxoffice",
     "category": "Box Office",
@@ -7138,19 +7128,19 @@
     "checked": null,
     "changed": null,
     "reason": "no-new-data"
-   }
-  ],
-  "keywords_refresh": [
+   },
    {
-    "step": "keywords_refresh",
-    "category": "Trending News",
-    "run_at": "2026-11-20T04:54:15Z",
-    "run_id": "44677066856",
+    "step": "tavily_boxoffice",
+    "category": "Box Office",
+    "run_at": "2026-11-21T04:54:19Z",
+    "run_id": "44868034430",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "keywords_refresh": [
    {
     "step": "keywords_refresh",
     "category": "Trending News",
@@ -7403,6 +7393,16 @@
      "count": 15
     },
     "reason": null
+   },
+   {
+    "step": "keywords_refresh",
+    "category": "Trending News",
+    "run_at": "2026-11-21T04:54:19Z",
+    "run_id": "44868034430",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "overseas_sweep": [
@@ -7921,16 +7921,6 @@
    {
     "step": "advance_booking",
     "category": "Box Office",
-    "run_at": "2026-11-20T04:54:15Z",
-    "run_id": "44677066856",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
-   {
-    "step": "advance_booking",
-    "category": "Box Office",
     "run_at": "2026-11-20T06:00:29Z",
     "run_id": "44683693590",
     "status": "skipped",
@@ -8167,19 +8157,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "home_boxoffice_worldwide": [
+   },
    {
-    "step": "home_boxoffice_worldwide",
+    "step": "advance_booking",
     "category": "Box Office",
-    "run_at": "2026-11-20T04:54:15Z",
-    "run_id": "44677066856",
+    "run_at": "2026-11-21T04:54:19Z",
+    "run_id": "44868034430",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "home_boxoffice_worldwide": [
    {
     "step": "home_boxoffice_worldwide",
     "category": "Box Office",
@@ -8449,8 +8439,18 @@
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
+   },
+   {
+    "step": "home_boxoffice_worldwide",
+    "category": "Box Office",
+    "run_at": "2026-11-21T04:54:19Z",
+    "run_id": "44868034430",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ]
  },
- "updated_at": "2026-11-21T04:00:33Z"
+ "updated_at": "2026-11-21T04:54:19Z"
 }
