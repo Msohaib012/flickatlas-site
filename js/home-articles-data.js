@@ -33,6 +33,39 @@ window.FA_HOME_ARTICLES = {
     ],
     "published": "Sat, 21 Nov 2026 15:22:02 +0200"
   },
+  "1ttd2qw": {
+    "id": "1ttd2qw",
+    "type": "news",
+    "headline": "Diljit Dosanjh Faces Legal Warning Over Setlist Ahead of Major Ahmedabad Live Performance",
+    "dek": "A Chandigarh-based academic has issued a stern legal threat against singer Diljit Dosanjh, demanding that four specific tracks be removed from his upcoming concert setlist in Ahmedabad.",
+    "entities": {
+      "people": [
+        "Diljit Dosanjh",
+        "Dr Pandit Rao Dharennavar",
+        "Anupam Singh Gehlot"
+      ],
+      "titles": [
+        "Patiala Peg",
+        "Panj Tara",
+        "Je Bichcho Feem Labbiya",
+        "Jatt Utthe Fire Karda"
+      ]
+    },
+    "keywords": [
+      "Diljit Dosanjh Ahmedabad concert",
+      "Diljit Dosanjh songs objection",
+      "Dr Pandit Rao Dharennavar Diljit Dosanjh",
+      "Ahmedabad concert security Anupam Singh Gehlot"
+    ],
+    "images": [
+      {
+        "url": "https://static.toiimg.com/thumb/msid-136053031,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "caption": "Diljit Dosanjh Faces Legal Warning Over Setlist Ahead of Major Ahmedabad Live Performance",
+        "source": "Times of India — Entertainment"
+      }
+    ],
+    "published": "2026-11-21T17:08:47+05:30"
+  },
   "124zzl0": {
     "id": "124zzl0",
     "type": "news",
@@ -93,6 +126,46 @@ window.FA_HOME_ARTICLES = {
     ],
     "published": "Sat, 21 Nov 2026 11:10:08 +0000"
   },
+  "e43qos": {
+    "id": "e43qos",
+    "type": "news",
+    "headline": "Dhanush Scores Career-Best Domestic Opening As OM Operation Mole Pulls In 21 Crore On Day One",
+    "dek": "OM Operation Mole has established a fresh domestic benchmark for Dhanush, pulling ahead of Tere Ishk Mein with a strong multi-state opening.",
+    "entities": {
+      "people": [
+        "Dhanush",
+        "Mammootty",
+        "Sai Pallavi",
+        "Rajkumar Periasamy",
+        "Namit Malhotra",
+        "Suriya"
+      ],
+      "titles": [
+        "OM: Operation Mole",
+        "Tere Ishk Mein",
+        "Kuberaa",
+        "Raayan",
+        "Idli Kadai",
+        "Ramayana",
+        "Scene",
+        "Amaran"
+      ]
+    },
+    "keywords": [
+      "OM Operation Mole",
+      "Dhanush OM Operation Mole",
+      "OM Operation Mole box office",
+      "Tere Ishk Mein"
+    ],
+    "images": [
+      {
+        "url": "https://cdn.sacnilk.com/image/news300/1000028665.jpg",
+        "caption": "Dhanush Scores Career-Best Domestic Opening As OM Operation Mole Pulls In 21 Crore On Day One",
+        "source": "Sacnilk"
+      }
+    ],
+    "published": "Sat, 21 Nov 2026 11:07:09 +0000"
+  },
   "hh8oze": {
     "id": "hh8oze",
     "type": "news",
@@ -127,6 +200,85 @@ window.FA_HOME_ARTICLES = {
       }
     ],
     "published": "Sat, 21 Nov 2026 10:34:50 +0000"
+  },
+  "rjfup3": {
+    "id": "rjfup3",
+    "type": "news",
+    "headline": "Jo Se Ho Attempts YouTube Comeback As Wife Makes Public Plea For Subscribers",
+    "dek": "Following a major scandal last December and subsequent television departures, entertainer Jo Se Ho is trying to rebuild his career online with the active backing of his wife.",
+    "entities": {
+      "people": [
+        "Jo Se Ho"
+      ],
+      "titles": [
+        "You Quiz on the Block",
+        "2 Days 1 Night",
+        "Screwballs Season 6"
+      ]
+    },
+    "keywords": [
+      "Jo Se Ho YouTube",
+      "Jo Se Ho scandal",
+      "Jo Se Ho wife",
+      "You Quiz on the Block"
+    ],
+    "images": [
+      {
+        "url": "https://image.koreaboo.com/2026/11/Jo-Se-Ho-FI-3.jpg?imop=Resize%2Cwidth%3D1230%3BConvert%2Cformat%3Djpeg&amp;Expires=1795327200&amp;KeyName=kb&amp;Signature=sZ-Kd5Vds_LGMvt4rUV_toa9H4Y=",
+        "caption": "Jo Se Ho Attempts YouTube Comeback As Wife Makes Public Plea For Subscribers",
+        "source": "Koreaboo"
+      }
+    ],
+    "published": "Sat, 21 Nov 2026 10:01:02 +0000"
+  },
+  "74e0mp": {
+    "id": "74e0mp",
+    "type": "news",
+    "headline": "How a 34-Episode BBC Sitcom Conquered Global Television and Inspired Six International Remakes",
+    "dek": "Discover how the acclaimed British comedy Ghosts became a massive international phenomenon, sparking six overseas adaptations and a feature film sequel.",
+    "entities": {
+      "people": [
+        "El Kuiper",
+        "Mark Johnson",
+        "Hannah Postlethwait",
+        "Tom Kingsley",
+        "Christopher Villiers",
+        "Simeon",
+        "Jason Thorpe"
+      ],
+      "titles": [
+        "Ghosts",
+        "Fawlty Towers",
+        "Only Fools and Horses",
+        "Blackadder",
+        "Yes, Minister",
+        "Yes, Prime Minister",
+        "The Office",
+        "Fleabag",
+        "Motherland",
+        "Dreaming Whilst Black",
+        "Horrible Histories",
+        "The IT Crowd",
+        "The Inbetweeners",
+        "Ghosts: The Possession of Button House",
+        "The Simpsons",
+        "Sex and the City"
+      ]
+    },
+    "keywords": [
+      "Ghosts BBC sitcom",
+      "Ghosts international remakes",
+      "Ghosts The Possession of Button House",
+      "Ghosts UK TV show"
+    ],
+    "images": [
+      {
+        "url": "https://static0.srcdn.com/wordpress/wp-content/uploads/2026/11/ben-willbond-steve-oram-in-ghosts-uk-season-1-episode-3.jpg?w=1600&amp;h=900&amp;fit=crop",
+        "caption": "How a 34-Episode BBC Sitcom Conquered Global Television and Inspired Six International Remakes",
+        "source": "Screen Rant"
+      }
+    ],
+    "published": "Sat, 21 Nov 2026 10:00:18 GMT"
   },
   "1hnn48e": {
     "id": "1hnn48e",
@@ -4301,162 +4453,6 @@ window.FA_HOME_ARTICLES = {
       }
     ],
     "published": "2026-11-20T13:24:38+05:30"
-  },
-  "rbtiv8": {
-    "id": "rbtiv8",
-    "type": "news",
-    "headline": "Vidya Malavade opens up about intimate scenes in Dr. Arora",
-    "dek": "Actress Vidya Malavade discusses her hesitations and experiences filming emotional intimate sequences with co-star Kumud Mishra in the web series Dr. Arora, under the guidance of Imtiaz Ali.",
-    "entities": {
-      "people": [
-        "Vidya Malavade",
-        "Kumud Mishra",
-        "Imtiaz Ali"
-      ],
-      "titles": [
-        "Dr. Arora"
-      ]
-    },
-    "keywords": [
-      "Dr. Arora",
-      "Vidya Malavade",
-      "Kumud Mishra",
-      "Imtiaz Ali"
-    ],
-    "images": [
-      {
-        "url": "https://akm-img-a-in.tosshub.com/aajtak/images/photo_gallery/202611/6aff2462649ce-vidya-malavade-193129317-16x9.jpg",
-        "caption": "Vidya Malavade opens up about intimate scenes in Dr. Arora",
-        "source": "Aaj Tak — Entertainment"
-      }
-    ],
-    "published": "2026-11-20T07:53:58Z"
-  },
-  "w7q3wz": {
-    "id": "w7q3wz",
-    "type": "news",
-    "headline": "Shah Rukh Khan Reaches Out to Josh Co-Star Sharad Kapoor Following Viral Work Appeal",
-    "dek": "After an emotional video by actor Sharad Kapoor seeking work and detailing personal struggles went viral, superstar Shah Rukh Khan personally contacted him to offer support and a meeting with Aryan Khan.",
-    "entities": {
-      "people": [
-        "Shah Rukh Khan",
-        "Sharad Kapoor",
-        "Aryan Khan",
-        "Mansoor Khan",
-        "Salman Khan",
-        "Sonu Sood",
-        "Rohit Shetty",
-        "Ahmed Khan",
-        "Amitabh Bachchan",
-        "Sanjay Dutt",
-        "Rajpal Yadav",
-        "Javed Akhtar"
-      ],
-      "titles": [
-        "Josh"
-      ]
-    },
-    "keywords": [
-      "Shah Rukh Khan Sharad Kapoor",
-      "Sharad Kapoor Josh work appeal",
-      "Sharad Kapoor viral video",
-      "Sharad Kapoor Hollywood debut"
-    ],
-    "images": [
-      {
-        "url": "https://filmfare.wwmindia.com/content/2026/nov/shah-rukh-khan-calls-josh-co-star-sharad-kapoor-after-viral-work-appeal-offers1795158697.jpg",
-        "caption": "Shah Rukh Khan Reaches Out to Josh Co-Star Sharad Kapoor Following Viral Work Appeal",
-        "source": "Filmfare"
-      }
-    ],
-    "published": "2026-11-20T13:12:02+05:30"
-  },
-  "1g342q9": {
-    "id": "1g342q9",
-    "type": "news",
-    "headline": "Ahaan Panday's Astrological Forecast Reveals Potential for Defining Stardom",
-    "dek": "An in-depth astrological look at breakout actor Ahaan Panday suggests a long and successful career in Hindi cinema, drawing comparisons to legendary stars.",
-    "entities": {
-      "people": [
-        "Ahaan Panday",
-        "Aneet Padda",
-        "Mohit Suri",
-        "Shah Rukh Khan",
-        "Vikkramm Chandirramani",
-        "Alia Bhatt",
-        "Aamir Khan",
-        "Sunny Deol"
-      ],
-      "titles": [
-        "Saiyaara",
-        "Beparwah",
-        "Mardaani 2",
-        "The Railway Men",
-        "Batwara 1947"
-      ]
-    },
-    "keywords": [
-      "Ahaan Panday",
-      "Saiyaara film",
-      "Beparwah movie",
-      "Mohit Suri Saiyaara"
-    ],
-    "images": [
-      {
-        "url": "https://www.koimoi.com/wp-content/new-galleries/2026/11/a-look-into-ahaan-pandays-astrological-insight-forecast-001.jpg",
-        "caption": "Ahaan Panday's Astrological Forecast Reveals Potential for Defining Stardom",
-        "source": "Koimoi"
-      }
-    ],
-    "published": "Fri, 20 Nov 2026 07:36:58 +0000"
-  },
-  "1xcnayy": {
-    "id": "1xcnayy",
-    "type": "news",
-    "headline": "Coronation Street Spoilers: Ross Pushes Tyrone Too Far and Family Tensions Explode",
-    "dek": "Dive into the latest Coronation Street developments as Ross crosses the line with Tyrone, Adam leaves Daniel out in the cold, and Lily faces a perilous situation.",
-    "entities": {
-      "people": [
-        "Ross",
-        "Tyrone",
-        "Fiz",
-        "Chesney",
-        "Hope",
-        "Ruby",
-        "Daniel",
-        "Adam",
-        "Ken",
-        "Tracy",
-        "Lily",
-        "Jake",
-        "Doug",
-        "David",
-        "Shona",
-        "Jodie",
-        "Brody",
-        "Sean",
-        "Carla",
-        "Lisa"
-      ],
-      "titles": [
-        "Coronation Street",
-        "The Rovers"
-      ]
-    },
-    "keywords": [
-      "Coronation Street Ross Tyrone",
-      "Daniel and Adam Coronation Street",
-      "Lily fireworks Coronation Street",
-      "Coronation Street spoilers November"
-    ],
-    "images": [
-      {
-        "url": "https://hips.hearstapps.com/hmg-prod/images/c0274881-6ad1-41a0-8ae1-906cde4b459e.jpg?crop=1.00xw:0.718xh;0,0.0886xh&amp;resize=1200:*",
-        "caption": "Coronation Street Spoilers: Ross Pushes Tyrone Too Far and Family Tensions Explode",
-        "source": "Digital Spy"
-      }
-    ],
-    "published": "Fri, 20 Nov 2026 07:00:00 +0000"
   },
   "uaxxk7": {
     "id": "uaxxk7",

@@ -209892,5 +209892,397 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Sat, 21 Nov 2026 11:10:08 +0000"
+  },
+  "1ttd2qw": {
+    "id": "1ttd2qw",
+    "type": "news",
+    "headline": "Diljit Dosanjh Faces Legal Warning Over Setlist Ahead of Major Ahmedabad Live Performance",
+    "dek": "A Chandigarh-based academic has issued a stern legal threat against singer Diljit Dosanjh, demanding that four specific tracks be removed from his upcoming concert setlist in Ahmedabad.",
+    "body": [
+      {
+        "h": "Controversial Song Selection Sparks Legal Notice",
+        "p": [
+          "As anticipation builds for a massive live musical event at the Narendra Modi Stadium in Ahmedabad, performer Diljit Dosanjh has encountered a significant legal challenge. A Chandigarh-based academic has formally requested the singer to drop four specific tracks from his scheduled performance list.",
+          "The tracks in question include 'Patiala Peg', 'Panj Tara', 'Je Bichcho Feem Labbiya', and 'Jatt Utthe Fire Karda'. According to the objection raised, these particular compositions feature lyrics that allegedly promote alcohol consumption, illicit substances, and a dangerous gun culture."
+        ]
+      },
+      {
+        "h": "Academic Cites Prior Judicial Rulings",
+        "p": [
+          "Dr Pandit Rao Dharennavar, an associate professor of sociology at PGGC-46 in Chandigarh, is leading the objection. He has warned of potential legal consequences if the artist proceeds with playing the contested tracks during the live show.",
+          "The professor referenced a 2019 legal case in the Punjab and Haryana High Court, which he claims resulted in clear directives prohibiting the stage performance of songs that encourage substance abuse. He argues that performing these numbers at recent concerts in Indore and Delhi violated those judicial principles."
+        ]
+      },
+      {
+        "h": "Reference to National Anti-Drug Initiatives",
+        "p": [
+          "Beyond the legal argument, the protest is tied to broader social campaigns aimed at curbing substance abuse across the country. The academic emphasized the ongoing government-led Nasha Mukt Bharat campaign, which involves public representatives and educators raising awareness against drugs.",
+          "Highlighting this initiative, the objector asserted that featuring material perceived as glorifying narcotics before large audiences, including children, runs counter to national public health and awareness goals."
+        ]
+      },
+      {
+        "h": "Threat of Contempt Proceedings in High Court",
+        "p": [
+          "The warning concluded with a definitive ultimatum directed at the touring artist and his management team. If the performer includes the disputed songs in his Ahmedabad setlist, legal action will follow swiftly.",
+          "The professor stated his intention to approach the Gujarat High Court directly to file a contempt of court case, holding the performer accountable for allegedly ignoring past judicial precedents regarding stage performances."
+        ]
+      },
+      {
+        "h": "Massive Security Deployment at the Stadium",
+        "p": [
+          "While the legal dispute unfolds, local authorities have prepared for an enormous gathering at the venue. Ahmedabad Police Commissioner Anupam Singh Gehlot outlined a comprehensive security framework to manage the massive influx of attendees.",
+          "Approximately 2,000 police personnel have been assigned to oversee the venue, supported by specialized units including three companies of the State Reserve Police, bomb detection and disposal squads, quick response teams, crime branch officials, and special operations group personnel."
+        ]
+      },
+      {
+        "h": "Expected Crowd Size and Surveillance Measures",
+        "p": [
+          "The event is projected to draw a massive audience, with estimates suggesting around 85,000 spectators and a total of over 90,000 people inside the stadium when accounting for support staff and security details.",
+          "To maintain order and safety, organizers and law enforcement have installed hundreds of CCTV cameras, door-frame metal detectors, and deployed private security guards to assist with crowd management and entry protocols."
+        ]
+      },
+      {
+        "h": "Strict Entry Regulations and Traffic Management",
+        "p": [
+          "Authorities have implemented specific restrictions on items permitted inside the venue to streamline security checks. Prohibited items include water bottles and standard bags, though designated locker facilities have been arranged outside.",
+          "Additional provisions allow female attendees to carry small power banks, while distinct entry and exit corridors have been established to prevent congestion and ensure smooth traffic flow around the stadium area."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "A Chandigarh academic has warned Diljit Dosanjh to drop four songs from his Ahmedabad concert setlist or face a contempt case in the Gujarat High Court. Meanwhile, local police have deployed thousands of personnel and security systems to manage a massive expected turnout of tens of thousands of spectators."
+        ]
+      }
+    ],
+    "facts": [
+      "Diljit Dosanjh is scheduled for a live concert at Narendra Modi Stadium in Ahmedabad.",
+      "Dr Pandit Rao Dharennavar is an associate professor of sociology at PGGC-46, Chandigarh.",
+      "The four contested songs are 'Patiala Peg', 'Panj Tara', 'Je Bichcho Feem Labbiya', and 'Jatt Utthe Fire Karda'.",
+      "Ahmedabad Police Commissioner Anupam Singh Gehlot confirmed the security arrangements.",
+      "Around 2,000 police personnel and 1,500 private security guards have been deployed.",
+      "Roughly 85,000 spectators and over 90,000 total people are expected at the venue."
+    ],
+    "entities": {
+      "people": [
+        "Diljit Dosanjh",
+        "Dr Pandit Rao Dharennavar",
+        "Anupam Singh Gehlot"
+      ],
+      "titles": [
+        "Patiala Peg",
+        "Panj Tara",
+        "Je Bichcho Feem Labbiya",
+        "Jatt Utthe Fire Karda"
+      ]
+    },
+    "keywords": [
+      "Diljit Dosanjh Ahmedabad concert",
+      "Diljit Dosanjh songs objection",
+      "Dr Pandit Rao Dharennavar Diljit Dosanjh",
+      "Ahmedabad concert security Anupam Singh Gehlot"
+    ],
+    "images": [
+      {
+        "url": "https://static.toiimg.com/thumb/msid-136053031,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "caption": "Diljit Dosanjh Faces Legal Warning Over Setlist Ahead of Major Ahmedabad Live Performance",
+        "source": "Times of India — Entertainment"
+      }
+    ],
+    "published": "2026-11-21T17:08:47+05:30"
+  },
+  "rjfup3": {
+    "id": "rjfup3",
+    "type": "news",
+    "headline": "Jo Se Ho Attempts YouTube Comeback As Wife Makes Public Plea For Subscribers",
+    "dek": "Following a major scandal last December and subsequent television departures, entertainer Jo Se Ho is trying to rebuild his career online with the active backing of his wife.",
+    "body": [
+      {
+        "h": "Resuming Activities Online",
+        "p": [
+          "Controversial star Jo Se Ho has officially returned to digital content creation, launching a fresh start on his YouTube channel eleven months after becoming entangled in a serious public scandal. His recent digital output includes an apology video released earlier in the month, where he addressed past controversies and discussed his future plans with viewers."
+        ]
+      },
+      {
+        "h": "The Wife's Public Appeal",
+        "p": [
+          "In an effort to bolster her husband's digital presence, Jo Se Ho's wife took to her personal social media account to champion his channel. Sharing one of his latest videos, she made a direct and heartfelt plea for followers by writing that people should please subscribe."
+        ]
+      },
+      {
+        "h": "Lukewarm Public Response",
+        "p": [
+          "Despite the promotional push from his spouse, audience engagement has remained relatively modest since the relaunch. Approximately two weeks after his initial comeback video went live, view counts have hovered around sixty-six thousand, while a subsequent upload garnered roughly eleven thousand views."
+        ]
+      },
+      {
+        "h": "Subscriber Growth Analysis",
+        "p": [
+          "Statistical movement on the channel has shown only a marginal upward trend following the rebranding effort. Prior to the relaunch, the platform held around one hundred twelve thousand subscribers, a figure that has since crept up to roughly one hundred fourteen thousand over a two-week period."
+        ]
+      },
+      {
+        "h": "Background Of The Scandal",
+        "p": [
+          "The entertainer's troubles began in December of the previous year when he faced suspicions regarding alleged associations with organized crime groups. Although he firmly denied any involvement in bribery or other illicit activities, the fallout led to significant professional consequences."
+        ]
+      },
+      {
+        "h": "Television Departures",
+        "p": [
+          "The fallout from the controversy resulted in Jo Se Ho stepping down from several prominent television roles, including tvN program You Quiz on the Block and KBS2 show 2 Days 1 Night. Additionally, the Netflix variety show Screwballs Season 6, featuring his appearance, is scheduled to conclude on the twenty-first."
+        ]
+      },
+      {
+        "h": "Ongoing Family Support",
+        "p": [
+          "Throughout the ordeal, his wife has maintained a steadfast position of support by offering glimpses of their daily life on social media. By publicly advocating for his YouTube channel, she has solidified her role as his primary champion during this career transition."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Jo Se Ho has resumed activities on YouTube eleven months after facing a scandal involving suspected ties to organized crime, which led to his departure from shows like You Quiz on the Block and 2 Days 1 Night. Amid a lukewarm public response and modest subscriber growth, his wife has stepped in to promote his channel and support his career comeback."
+        ]
+      }
+    ],
+    "facts": [
+      "Jo Se Ho resumed activities on YouTube 11 months after a scandal.",
+      "On November 19th, Jo Se Ho's wife shared his YouTube video and asked people to subscribe.",
+      "On the 5th, Jo Se Ho revamped his YouTube channel and posted an apology video.",
+      "The first comeback video garnered approximately 66,000 views.",
+      "The video posted on the 19th has about 11,000 views.",
+      "Subscribers increased from around 112,000 to roughly 114,000 over two weeks.",
+      "Jo Se Ho faced suspicions of association with organized crime groups in December last year.",
+      "He stepped down from tvN's You Quiz on the Block and KBS2's 2 Days 1 Night.",
+      "Screwballs Season 6 is set to conclude on the 21st."
+    ],
+    "entities": {
+      "people": [
+        "Jo Se Ho"
+      ],
+      "titles": [
+        "You Quiz on the Block",
+        "2 Days 1 Night",
+        "Screwballs Season 6"
+      ]
+    },
+    "keywords": [
+      "Jo Se Ho YouTube",
+      "Jo Se Ho scandal",
+      "Jo Se Ho wife",
+      "You Quiz on the Block"
+    ],
+    "images": [
+      {
+        "url": "https://image.koreaboo.com/2026/11/Jo-Se-Ho-FI-3.jpg?imop=Resize%2Cwidth%3D1230%3BConvert%2Cformat%3Djpeg&amp;Expires=1795327200&amp;KeyName=kb&amp;Signature=sZ-Kd5Vds_LGMvt4rUV_toa9H4Y=",
+        "caption": "Jo Se Ho Attempts YouTube Comeback As Wife Makes Public Plea For Subscribers",
+        "source": "Koreaboo"
+      }
+    ],
+    "published": "Sat, 21 Nov 2026 10:01:02 +0000"
+  },
+  "e43qos": {
+    "id": "e43qos",
+    "type": "news",
+    "headline": "Dhanush Scores Career-Best Domestic Opening As OM Operation Mole Pulls In 21 Crore On Day One",
+    "dek": "OM Operation Mole has established a fresh domestic benchmark for Dhanush, pulling ahead of Tere Ishk Mein with a strong multi-state opening.",
+    "body": [
+      {
+        "h": "Record-Breaking Opening Day",
+        "p": [
+          "Actor Dhanush has officially crossed the twenty crore opening-day threshold at the domestic box office for the very first time. His latest cinematic venture, OM: Operation Mole, has secured the biggest domestic debut of his entire career. This impressive performance comfortably eclipses the previous personal benchmark set by Tere Ishk Mein just last year.",
+          "The milestone arrives during a fascinating period for the actor, following several recent projects that experienced varied commercial receptions across different language markets. By pulling in robust numbers right out of the gate, this new release demonstrates an expanding ability to draw crowds on opening day."
+        ]
+      },
+      {
+        "h": "Director and Star-Studded Cast",
+        "p": [
+          "At the helm of this project is director Rajkumar Periasamy, who previously tasted success with Amaran. The film features a prominent ensemble cast that brings together multiple regional star powers, including acclaimed veteran Mammootty and leading actress Sai Pallavi.",
+          "Released on Friday, November 20, 2026, the feature managed to secure an estimated twenty-one crore India gross. It achieved a forty-five point six percent overall occupancy rate across six thousand six hundred and twenty-eight online shows nationwide."
+        ]
+      },
+      {
+        "h": "Navigating Heavy Box Office Competition",
+        "p": [
+          "Achieving this massive opening required holding ground against substantial theatrical competition. Major screens across prominent Indian markets continued to be heavily occupied by Namit Malhotra's Ramayana and Suriya's Scene.",
+          "Despite sharing the spotlight with these high-profile releases, the action thriller managed to carve out a massive audience. Its ability to stand firm amid crowded movie halls highlights the strong initial curiosity surrounding the project."
+        ]
+      },
+      {
+        "h": "Surpassing Past Milestones",
+        "p": [
+          "A look at recent history shows just how far this release has climbed above previous benchmarks. While Tere Ishk Mein previously held the top spot by bringing in nineteen crore on day one, the new film has pushed past that figure with ease.",
+          "Further down the list, it outperformed Kuberaa at seventeen crore and Raayan at fifteen point six five crore, while also leaving Idli Kadai behind at twelve point seven five crore. This represents a twenty-three percent increase over Kuberaa and a thirty-four percent jump over Raayan."
+        ]
+      },
+      {
+        "h": "Strong Regional Diversification",
+        "p": [
+          "One of the most notable aspects of the film's debut is its broad geographic distribution. While Tamil Nadu remains the primary home market, it accounted for only about forty-six percent of the total domestic gross, bringing in nine point seven five crore.",
+          "The Telugu states of Andhra Pradesh and Telangana contributed four point seven five crore, while Kerala added another three point eight zero crore thanks in part to Mammootty's significant fan base. Karnataka contributed two point one zero crore, and the rest of India brought in zero point six zero crore."
+        ]
+      },
+      {
+        "h": "Global Figures and Overseas Support",
+        "p": [
+          "International markets added considerable weight to the opening day tally. Overseas screenings generated an estimated eleven crore, elevating the worldwide day one gross to approximately thirty-two crore.",
+          "This robust overseas contribution accounts for roughly one-third of the global total, providing the leading man with another personal best outside of India. The combination of Tamil overseas appeal and Gulf audiences for Mammootty proved vital."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Dhanush has achieved a career-best domestic opening with OM Operation Mole, collecting twenty-one crore on its first day and surpassing his previous record-holder Tere Ishk Mein. Bolstered by strong contributions from regions outside Tamil Nadu and an international total reaching thirty-two crore, the film establishes a powerful new benchmark."
+        ]
+      }
+    ],
+    "facts": [
+      "OM: Operation Mole released on Friday, November 20, 2026.",
+      "The film collected an estimated 21 crore India gross on its opening day.",
+      "OM registered 45.6% overall occupancy across 6,628 online shows.",
+      "Worldwide Day 1 gross reached approximately 32 crore, including 11 crore overseas.",
+      "Tamil Nadu contributed 9.75 crore, Andhra Pradesh and Telangana contributed 4.75 crore, Kerala contributed 3.80 crore, Karnataka contributed 2.10 crore, and the rest of India contributed 0.60 crore to the Day 1 gross."
+    ],
+    "entities": {
+      "people": [
+        "Dhanush",
+        "Mammootty",
+        "Sai Pallavi",
+        "Rajkumar Periasamy",
+        "Namit Malhotra",
+        "Suriya"
+      ],
+      "titles": [
+        "OM: Operation Mole",
+        "Tere Ishk Mein",
+        "Kuberaa",
+        "Raayan",
+        "Idli Kadai",
+        "Ramayana",
+        "Scene",
+        "Amaran"
+      ]
+    },
+    "keywords": [
+      "OM Operation Mole",
+      "Dhanush OM Operation Mole",
+      "OM Operation Mole box office",
+      "Tere Ishk Mein"
+    ],
+    "images": [
+      {
+        "url": "https://cdn.sacnilk.com/image/news300/1000028665.jpg",
+        "caption": "Dhanush Scores Career-Best Domestic Opening As OM Operation Mole Pulls In 21 Crore On Day One",
+        "source": "Sacnilk"
+      }
+    ],
+    "published": "Sat, 21 Nov 2026 11:07:09 +0000"
+  },
+  "74e0mp": {
+    "id": "74e0mp",
+    "type": "news",
+    "headline": "How a 34-Episode BBC Sitcom Conquered Global Television and Inspired Six International Remakes",
+    "dek": "Discover how the acclaimed British comedy Ghosts became a massive international phenomenon, sparking six overseas adaptations and a feature film sequel.",
+    "body": [
+      {
+        "h": "A Landmark BBC Comedy",
+        "p": [
+          "The BBC has long been celebrated for producing exceptional television, ranging from gritty dramas to timeless sitcoms. Alongside classic comedies like Fawlty Towers, Only Fools and Horses, Blackadder, Yes, Minister, and Ricky Gervais' The Office, recent hits such as Fleabag have showcased Britain's top comedic talents.",
+          "Among these celebrated titles, one 34-episode BBC sitcom has carved out a unique legacy. Its hilarious and heartwarming premise proved so universally appealing that it quickly captured the attention of international networks looking to bring the concept to local audiences."
+        ]
+      },
+      {
+        "h": "The Premise of Ghosts",
+        "p": [
+          "Premiering in 2019, Ghosts follows estate inheritors Alison and Mike as they attempt to convert a crumbling mansion into a luxurious hotel. Their plans take an extraordinary turn when a near-death experience grants Alison the ability to see the diverse group of spirits haunting the property.",
+          "The ghostly residents span multiple eras of history, including a caveman, a Georgian noblewoman, a Regency poet, a World War II officer, and a 1980s scout leader. Created by the same troupe behind Horrible Histories, the show blends sharp wit with historical elements."
+        ]
+      },
+      {
+        "h": "Balancing Humor and Heart",
+        "p": [
+          "Ghosts successfully bridges the gap between family-friendly viewing and clever adult humor. The series features running gags about the afterlife, political corruption, and murder, balanced with slapstick comedy and touching character moments.",
+          "Rather than relying on overly complex worldbuilding, the series keeps its mythology simple. This allows the evolving relationships between the living couple and the spectral roommates to remain the emotional core of the narrative."
+        ]
+      },
+      {
+        "h": "Global Adaptations and Remakes",
+        "p": [
+          "The core concept of Ghosts proved easily adaptable across different cultures and histories, unlike some British comedies that struggled in translation. This universal appeal led to six separate international remakes.",
+          "Networks in the US, Australia, Germany, France, Greece, and Czechia all developed their own versions of the show, proving that the blend of supernatural fantasy and domestic sitcom works on a global scale."
+        ]
+      },
+      {
+        "h": "Cultural Impact and Legacy",
+        "p": [
+          "Even three years after its final television season wrapped up, Ghosts remains a powerhouse in British pop culture. The American adaptation has also achieved massive success, surpassing the original series in episode count.",
+          "The show's ability to maintain high quality across its five-season run solidified its status as a modern classic, influencing how supernatural sitcoms are structured and produced today."
+        ]
+      },
+      {
+        "h": "The Feature Film Continuation",
+        "p": [
+          "Demonstrating its lasting popularity, the entire cast reunited for a theatrical feature film titled Ghosts: The Possession of Button House. Set months after the series finale, the story follows the ghosts as they interact with teenage trespassers.",
+          "Transitioning a sitcom into a feature film is a rare achievement, placing Ghosts alongside select titles like The Simpsons Movie, The Inbetweeners Movie, and Sex and the City."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "A 34-episode BBC sitcom titled Ghosts has achieved widespread international acclaim and inspired six different remakes across the US, Australia, Germany, France, Greece, and Czechia. The acclaimed comedy series also transitioned to the big screen with a feature film sequel following its television run."
+        ]
+      }
+    ],
+    "facts": [
+      "The BBC sitcom consists of 34 episodes.",
+      "The show premiered in 2019.",
+      "It inspired 6 international remakes in the US, Australia, Germany, France, Greece, and Czechia.",
+      "The cast reunited for a feature film titled Ghosts: The Possession of Button House.",
+      "The series ran for 5 seasons."
+    ],
+    "entities": {
+      "people": [
+        "El Kuiper",
+        "Mark Johnson",
+        "Hannah Postlethwait",
+        "Tom Kingsley",
+        "Christopher Villiers",
+        "Simeon",
+        "Jason Thorpe"
+      ],
+      "titles": [
+        "Ghosts",
+        "Fawlty Towers",
+        "Only Fools and Horses",
+        "Blackadder",
+        "Yes, Minister",
+        "Yes, Prime Minister",
+        "The Office",
+        "Fleabag",
+        "Motherland",
+        "Dreaming Whilst Black",
+        "Horrible Histories",
+        "The IT Crowd",
+        "The Inbetweeners",
+        "Ghosts: The Possession of Button House",
+        "The Simpsons",
+        "Sex and the City"
+      ]
+    },
+    "keywords": [
+      "Ghosts BBC sitcom",
+      "Ghosts international remakes",
+      "Ghosts The Possession of Button House",
+      "Ghosts UK TV show"
+    ],
+    "images": [
+      {
+        "url": "https://static0.srcdn.com/wordpress/wp-content/uploads/2026/11/ben-willbond-steve-oram-in-ghosts-uk-season-1-episode-3.jpg?w=1600&amp;h=900&amp;fit=crop",
+        "caption": "How a 34-Episode BBC Sitcom Conquered Global Television and Inspired Six International Remakes",
+        "source": "Screen Rant"
+      }
+    ],
+    "published": "Sat, 21 Nov 2026 10:00:18 GMT"
   }
 };
