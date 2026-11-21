@@ -75,6 +75,22 @@ window.FA_OTT = {
   ],
   "now": [
     {
+      "date": "2026-11-20",
+      "date_kind": "release",
+      "id": 1568060,
+      "providers": [
+        {
+          "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+          "name": "Amazon Prime Video"
+        },
+        {
+          "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+          "name": "Amazon Prime Video with Ads"
+        }
+      ],
+      "type": "movie"
+    },
+    {
       "country": "US",
       "date": "2026-11-20",
       "date_kind": "digital",
@@ -86,6 +102,18 @@ window.FA_OTT = {
         }
       ],
       "type": "movie"
+    },
+    {
+      "date": "2026-11-19",
+      "date_kind": "release",
+      "id": 308007,
+      "providers": [
+        {
+          "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        }
+      ],
+      "type": "tv"
     },
     {
       "date": "2026-11-19",
@@ -898,6 +926,18 @@ window.FA_OTT = {
     {
       "date": "2026-11-11",
       "date_kind": "release",
+      "id": 326975,
+      "providers": [
+        {
+          "logo_path": "/AoNsevRecTdVv4xQEf1oLRGO2yh.png",
+          "name": "Rakuten Viki"
+        }
+      ],
+      "type": "tv"
+    },
+    {
+      "date": "2026-11-11",
+      "date_kind": "release",
       "id": 1664682,
       "providers": [
         {
@@ -1198,6 +1238,10 @@ window.FA_OTT = {
       "date_kind": "release",
       "id": 1773357,
       "providers": [
+        {
+          "logo_path": "/3wF8xISfVlcrc8X3jaa3uMUFGAr.png",
+          "name": "fuboTV"
+        },
         {
           "logo_path": "/mfbhzQwmQKjm7bLZPF5CTeu3Ilc.png",
           "name": "Philo"
@@ -2116,11 +2160,11 @@ window.FA_OTT = {
       "id": 292741,
       "providers": [
         {
-          "logo_path": "/9icYBfYFcwgCbky5VdGUIKJ4C5i.png",
+          "logo_path": "/v9SnyvYt0U3KGgBH3Sbh3z4yODe.png",
           "name": "Apple TV"
         },
         {
-          "logo_path": "/rerVCu9auZrgxTTiZu1criqrQzg.png",
+          "logo_path": "/giKLP7saeUA0WykEPRyZUcOVv92.png",
           "name": "Apple TV Amazon Channel"
         }
       ],
@@ -2533,11 +2577,11 @@ window.FA_OTT = {
       "id": 1288069,
       "providers": [
         {
-          "logo_path": "/9icYBfYFcwgCbky5VdGUIKJ4C5i.png",
+          "logo_path": "/v9SnyvYt0U3KGgBH3Sbh3z4yODe.png",
           "name": "Apple TV"
         },
         {
-          "logo_path": "/rerVCu9auZrgxTTiZu1criqrQzg.png",
+          "logo_path": "/giKLP7saeUA0WykEPRyZUcOVv92.png",
           "name": "Apple TV Amazon Channel"
         }
       ],
@@ -2558,6 +2602,22 @@ window.FA_OTT = {
         }
       ],
       "type": "tv"
+    },
+    {
+      "date": "2026-10-16",
+      "date_kind": "release",
+      "id": 1728763,
+      "providers": [
+        {
+          "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+          "name": "Amazon Prime Video"
+        },
+        {
+          "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+          "name": "Amazon Prime Video with Ads"
+        }
+      ],
+      "type": "movie"
     },
     {
       "date": "2026-10-16",

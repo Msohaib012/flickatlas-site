@@ -206022,5 +206022,384 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Fri, 20 Nov 2026 23:30:12 GMT"
+  },
+  "7zkobg": {
+    "id": "7zkobg",
+    "type": "news",
+    "headline": "Anil Kapoor Discusses Art and Cinema with French President Emmanuel Macron in Paris",
+    "dek": "Bollywood veteran Anil Kapoor met with French President Emmanuel Macron in Paris to discuss a wide range of topics, including culture, cinema, and artificial intelligence.",
+    "body": [
+      {
+        "h": "A Memorable Meeting in Paris",
+        "p": [
+          "Renowned Bollywood actor Anil Kapoor recently travelled to Paris, where he had the distinct honour of meeting French President Emmanuel Macron. The celebrated star took to his social media platforms to share photographs from the gathering, giving fans a glimpse into their engaging interaction.",
+          "Dressed elegantly in a classic black suit, the 'Mr India' actor was seen sharing a warm embrace and deep conversation with the French leader. Kapoor expressed his gratitude for the hospitality shown to both him and his nephew during their time in the capital."
+        ]
+      },
+      {
+        "h": "Reflecting on Past Connections",
+        "p": [
+          "Recalling their prior interaction, Kapoor noted that his first meeting with President Macron took place in India. According to the actor, their dialogue flowed with such effortless ease that it immediately fostered a sense of long-standing familiarity.",
+          "Reuniting with the French President in Paris revived that exact same warmth and personal connection. Kapoor thanked Macron directly for his kindness, emphasizing how welcomed he and his family felt throughout the visit."
+        ]
+      },
+      {
+        "h": "A Broad Dialogue on Global Topics",
+        "p": [
+          "The conversation between the actor and the politician extended far beyond simple pleasantries. Their extensive dialogue touched upon crucial contemporary subjects such as art, culture, and the evolving landscape of global cinema.",
+          "In addition to the arts, both figures delved into advanced technological and infrastructural themes, discussing artificial intelligence, energy policies, and architectural history during their time together."
+        ]
+      },
+      {
+        "h": "Exploring Historic Artifacts",
+        "p": [
+          "During the visit inside the official office, the conversation took a historical turn as the duo examined various preserved artifacts. They explored remarkable pieces housed within the office that date all the way back to Napoleon's time.",
+          "This unique encounter with history allowed them to bridge past eras with modern discussions, reflecting on historical lessons and considering the future world that upcoming generations will inherit."
+        ]
+      },
+      {
+        "h": "Extending an Invitation",
+        "p": [
+          "Expressing his appreciation for the diplomatic and personal bond they share, Kapoor voiced his enthusiasm for future encounters. He explicitly mentioned his desire to host the French leader when he next travels to India.",
+          "The actor affirmed his joy regarding their developing friendship, closing his remarks by looking forward to welcoming President Macron back to the subcontinent."
+        ]
+      },
+      {
+        "h": "Recent Cinematic Ventures",
+        "p": [
+          "Away from his diplomatic engagements, Anil Kapoor has continued to stay active within the entertainment industry. He was recently seen on the silver screen in the Alia Bhatt-starrer action film titled 'Alpha'.",
+          "The veteran actor also shared reflections on his intensive work for 'India Ke Top 1%', describing a rigorous 50-day process that pushed his professional boundaries and tested his endurance as a performer."
+        ]
+      },
+      {
+        "h": "Dedication to Craft",
+        "p": [
+          "Discussing his recent artistic commitments, Kapoor revealed the extreme dedication required for large-scale projects. He spent fifty days meticulously dissecting every single frame of production and refusing to compromise on a single take.",
+          "Even after spending decades building a legendary career in cinema, the actor emphasized that stepping onto modern stages of such immense scale demands absolute commitment, an approach he embraces wholeheartedly."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Bollywood actor Anil Kapoor recently met French President Emmanuel Macron in Paris for a discussion covering art, culture, cinema, AI, energy, and history. Kapoor shared details of the enriching exchange on social media alongside photos from the visit, while also reflecting on his recent work in projects like 'Alpha'."
+        ]
+      }
+    ],
+    "facts": [
+      "Anil Kapoor met French President Emmanuel Macron in Paris",
+      "The conversation included topics like art, culture, cinema, AI, energy, and architecture",
+      "Anil Kapoor was last seen in the Alia Bhatt-starrer 'Alpha'",
+      "Anil Kapoor spent 50 days reviewing frames for 'India Ke Top 1%'"
+    ],
+    "entities": {
+      "people": [
+        "Anil Kapoor",
+        "Emmanuel Macron",
+        "Alia Bhatt",
+        "Napoleon"
+      ],
+      "titles": [
+        "Mr India",
+        "Alpha",
+        "India Ke Top 1%"
+      ]
+    },
+    "keywords": [
+      "Anil Kapoor Emmanuel Macron",
+      "Anil Kapoor Paris meeting",
+      "Anil Kapoor Alpha",
+      "Anil Kapoor India Ke Top 1%"
+    ],
+    "images": [
+      {
+        "url": "https://static.toiimg.com/thumb/msid-136042520,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "caption": "Anil Kapoor Discusses Art and Cinema with French President Emmanuel Macron in Paris",
+        "source": "Times of India — Entertainment"
+      }
+    ],
+    "published": "2026-11-21T07:07:45+05:30"
+  },
+  "chmhwo": {
+    "id": "chmhwo",
+    "type": "news",
+    "headline": "Grand Theft Auto VI Shatters Entertainment Records With Massive Day-One Sales",
+    "dek": "Rockstar Games' latest blockbuster makes Hollywood box-office milestones look small by pulling in billions in retail sales within its first 24 hours.",
+    "body": [
+      {
+        "h": "The Scale of the Launch",
+        "p": [
+          "The perpetual debate regarding the financial scale of movies versus video games has taken a dramatic turn. Back in 2013, Grand Theft Auto V generated approximately $800 million on its first day, setting a high bar that most theatrical releases could only dream of reaching. However, the entertainment industry largely viewed that milestone as an isolated exception rather than an industry-wide trend.",
+          "Thirteen years later, the arrival of Grand Theft Auto VI has completely shifted that perspective. Following years of intense anticipation, two public delays, and a rumored budget exceeding $1 billion, the title faced immense pressure to justify its unprecedented expectations. Consumers proved their dedication immediately, showing up in numbers that shattered previous benchmarks."
+        ]
+      },
+      {
+        "h": "Record-Breaking Sales Figures",
+        "p": [
+          "Rockstar Games and its parent company, Take-Two, officially announced that the game accumulated an astounding $3.79 billion in retail sales through the end of Thursday. This figure officially marks the launch as the largest entertainment debut in history across any medium, surpassing all traditional expectations.",
+          "Prior to its official release, the title had already moved 32.5 million units via pre-orders across all platforms. This pre-release milestone alone set a new record, eclipsing the total lifetime sales of major gaming titles like Elden Ring since its 2022 launch."
+        ]
+      },
+      {
+        "h": "Dwarfing Hollywood's Biggest Box Office",
+        "p": [
+          "To put the financial triumph into a recognizable perspective, consider the historic run of Avengers: Endgame. That cinematic blockbuster required its entire theatrical run, alongside a later re-release, to accumulate roughly $2.9 billion and capture the all-time box office crown.",
+          "Grand Theft Auto VI cleared that lifetime box office total before players around the world could even finish their first evening exploring Vice City. Industry reporter Jason Schreier highlighted this staggering disparity, noting that the game earned roughly $850 million more in a single day than the highest-grossing film in history managed across its entire theatrical lifespan."
+        ]
+      },
+      {
+        "h": "Leadership Perspectives and Gratitude",
+        "p": [
+          "Leading up to the launch, Take-Two CEO Strauss Zelnick frequently described consumer demand simply as unprecedented, while deliberately avoiding specific predictions. Speaking to investors, Zelnick maintained a cautious stance, emphasizing that leadership prefers to avoid claiming success before it physically manifests.",
+          "Once the official numbers were tallied and released, Rockstar founder Sam Houser expressed deep appreciation for the community. Houser stated that it is with immense gratitude that the company enters this new chapter of Rockstar Games alongside the worldwide release of the title."
+        ]
+      },
+      {
+        "h": "Critical Acclaim and Platform Strategy",
+        "p": [
+          "Beyond commercial dominance, the game achieved critical perfection, holding a score of 99 on Metacritic. According to Rockstar, this distinction makes it the highest-rated title ever recorded across review aggregates.",
+          "This historic performance is even more remarkable considering the game launched exclusively on current-generation consoles, specifically the PlayStation 5 and Xbox Series X|S. Crucial components of the franchise's future—such as a personal computer port and the eventual online successor designed to mirror the longevity of its predecessor—remain entirely unreleased."
+        ]
+      },
+      {
+        "h": "Future Implications for Entertainment",
+        "p": [
+          "With day-one figures vastly overshadowing the most successful motion pictures in cinematic history, Hollywood faces an uncomfortable new reality. Analysts and fans alike are left wondering how massive the final revenue figures will climb once the developers deploy the rest of their strategic rollout.",
+          "As interactive media continues to outpace traditional cinematic achievements, the boundary separating gaming from mainstream Hollywood entertainment blurs further. The immense financial power demonstrated by this single launch proves that interactive entertainment commands unprecedented consumer loyalty and capital."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Grand Theft Auto VI made history by generating $3.79 billion in retail sales within its first 24 hours, officially securing the largest entertainment debut of all time. The title surpassed the lifetime box-office earnings of Avengers: Endgame in just a single day while selling 32.5 million units prior to release. Executives Strauss Zelnick and Sam Houser celebrated the unprecedented consumer demand as the game launched exclusively on current-generation consoles with a critical score of 99 on Metacritic."
+        ]
+      }
+    ],
+    "facts": [
+      "Grand Theft Auto V made roughly $800 million in its first 24 hours in 2013.",
+      "Grand Theft Auto VI made $3.79 billion in day-one retail sales through the end of Thursday.",
+      "Avengers: Endgame reached about $2.9 billion across its entire theatrical run.",
+      "Take-Two announced 32.5 million units sold before release.",
+      "Grand Theft Auto VI launched solely on PS5 and Xbox Series X|S.",
+      "Grand Theft Auto VI holds a 99 on Metacritic."
+    ],
+    "entities": {
+      "people": [
+        "Jason Schreier",
+        "Strauss Zelnick",
+        "Sam Houser"
+      ],
+      "titles": [
+        "Grand Theft Auto V",
+        "Grand Theft Auto VI",
+        "Avengers: Endgame",
+        "Avatar",
+        "Elden Ring"
+      ]
+    },
+    "keywords": [
+      "Grand Theft Auto VI",
+      "GTA 6 sales record",
+      "Rockstar Games GTA 6",
+      "GTA 6 day one sales"
+    ],
+    "images": [
+      {
+        "url": "https://static0.moviewebimages.com/wordpress/wp-content/uploads/2026/11/gta-vi-yellow-white-avalon-hotel-classic-car.jpg?w=1600&amp;h=900&amp;fit=crop",
+        "caption": "Grand Theft Auto VI Shatters Entertainment Records With Massive Day-One Sales",
+        "source": "MovieWeb"
+      }
+    ],
+    "published": "Sat, 21 Nov 2026 01:00:16 GMT"
+  },
+  "1fauba2": {
+    "id": "1fauba2",
+    "type": "news",
+    "headline": "ENE Repeat Day 2 Box Office Collection: Vishwak Sen Film Sees 47% Drop and Reaches Rs 19.40 Crore Worldwide",
+    "dek": "Tharun Bhascker's Telugu film ENE Repeat experienced a notable decline on its second day in theaters, bringing its total worldwide gross to Rs 19.40 crore.",
+    "body": [
+      {
+        "h": "Global Collection Update",
+        "p": [
+          "The Telugu film ENE Repeat has officially crossed a major milestone, pulling in a cumulative worldwide gross of Rs 19.40 crore following its first two days in theaters. Directed by Tharun Bhascker, the feature continues to attract crowds both across domestic regions and in various overseas territories.",
+          "Even with a dip in momentum after its initial launch, international markets have contributed significantly to the overall tally, keeping the film's global run steady as it moves through its first theatrical weekend."
+        ]
+      },
+      {
+        "h": "Domestic Performance and Second-Day Drop",
+        "p": [
+          "In the domestic market, ENE Repeat brought in Rs 3.10 crore in India net collections on its second day, which fell on Friday. This figure corresponds to a domestic gross of Rs 3.60 crore achieved across 1,400 running shows.",
+          "The latest numbers mark a 47 percent decline when compared to the opening day net collection of Rs 5.85 crore. Nevertheless, the movie managed to sustain steady footfall across the country despite the weekday-transition drop."
+        ]
+      },
+      {
+        "h": "Cumulative Two-Day Domestic Totals",
+        "p": [
+          "Following the conclusion of its second day, the film's total domestic net collections stand at Rs 8.95 crore. Meanwhile, the cumulative domestic gross has reached Rs 10.40 crore.",
+          "For context, the opening day had pulled in an India gross of Rs 6.80 crore utilizing 1,681 shows, which translated to an overall occupancy rate of 44.2 percent. On Friday, the national occupancy across all screenings adjusted to 37.1 percent."
+        ]
+      },
+      {
+        "h": "International Contribution and Ticket Sales",
+        "p": [
+          "Audiences abroad played a crucial role in bolstering the project's overall earnings, contributing Rs 2.50 crore on Friday alone. This pushed the international gross up to a total of Rs 9 crore.",
+          "Trade reports indicate that approximately 234,839 tickets were purchased by moviegoers on the second day alone. This brings the cumulative ticket sales for the opening two-day window to an impressive 684,771 admissions."
+        ]
+      },
+      {
+        "h": "Screening Occupancy and Show Timings",
+        "p": [
+          "An analysis of the Telugu 2D version reveals an overall occupancy rate of 35.67 percent on Friday. Viewer turnout varied notably depending on the time of day, showing a clear preference for evening and late-night slots.",
+          "Night screenings drew the highest audience turnout with 57.69 percent occupancy. Afternoon shows followed with 32.23 percent, evening screenings recorded 32.38 percent, and morning shows registered the lowest turnout at 20.38 percent."
+        ]
+      },
+      {
+        "h": "State-Wise Contribution Breakdown",
+        "p": [
+          "The states of Andhra Pradesh and Telangana remained the absolute strongest territories for the feature, supplying Rs 3.10 crore toward the Friday gross of Rs 3.60 crore.",
+          "Karnataka followed as the next major contributor by adding Rs 35 lakh. Smaller shares came from other regions, including Rs 10 lakh from the rest of India, Rs 4 lakh from Tamil Nadu, and Rs 1 lakh from Kerala."
+        ]
+      },
+      {
+        "h": "Cast and Creative Background",
+        "p": [
+          "ENE Repeat reunites the popular central gang originally seen in Ee Nagaraniki Emaindi, once again exploring themes of friendship, youthful chaos, and a carefree philosophy on life.",
+          "Helmed by filmmaker Tharun Bhascker, the star-studded ensemble cast features performances by Vishwak Sen, Abhinav Gomatam, Venkatesh Kakumanu, Maganti Srinath, Meher Ramesh, Anisha Ambrose, and Shivathmika Rajashekar."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Director Tharun Bhascker's ENE Repeat recorded a 47 percent drop in domestic net earnings on its second day, bringing in Rs 3.10 crore on Friday, November 20, 2026. Despite the domestic decline, overseas contributions helped push the film's cumulative worldwide gross to Rs 19.40 crore after two days in theaters."
+        ]
+      }
+    ],
+    "facts": [
+      "ENE Repeat earned a worldwide gross collection of Rs 19.40 cr after two days in theaters.",
+      "The film collected Rs 3.10 cr in India net earnings on Friday, November 20, 2026.",
+      "The second-day figures represent a 47% decline from its opening-day net collection of Rs 5.85 cr.",
+      "After two days, Ene Repeat accumulated Rs 8.95 cr in India net collections and a domestic gross of Rs 10.40 cr.",
+      "Overseas earnings on Friday amounted to Rs 2.50 cr, taking international gross to Rs 9 cr.",
+      "Total ticket sales across the opening two days reached 684,771, with 234,839 tickets sold on day 2.",
+      "Andhra Pradesh and Telangana contributed Rs 3.10 cr to the Friday gross, while Karnataka added Rs 35 lakh."
+    ],
+    "entities": {
+      "people": [
+        "Vishwak Sen",
+        "Tharun Bhascker",
+        "Abhinav Gomatam",
+        "Venkatesh Kakumanu",
+        "Maganti Srinath",
+        "Meher Ramesh",
+        "Anisha Ambrose",
+        "Shivathmika Rajashekar"
+      ],
+      "titles": [
+        "ENE Repeat",
+        "Ee Nagaraniki Emaindi"
+      ]
+    },
+    "keywords": [
+      "ENE Repeat box office",
+      "Vishwak Sen ENE Repeat film",
+      "Tharun Bhascker ENE Repeat",
+      "ENE Repeat collection day 2"
+    ],
+    "images": [
+      {
+        "url": "https://static.toiimg.com/thumb/msid-136042725,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "caption": "ENE Repeat Day 2 Box Office Collection: Vishwak Sen Film Sees 47% Drop and Reaches Rs 19.40 Crore Worldwide",
+        "source": "Times of India — Entertainment"
+      }
+    ],
+    "published": "2026-11-21T07:15:30+05:30"
+  },
+  "1ci4zb8": {
+    "id": "1ci4zb8",
+    "type": "news",
+    "headline": "Squid Game Creator Hwang Dong-hyuk Hopes to Revisit the Franchise, but Netflix Holds the IP Rights",
+    "dek": "While Squid Game wrapped up its final television season in 2025, creator Hwang Dong-hyuk is open to returning to the universe eventually if the right inspiration strikes.",
+    "body": [
+      {
+        "h": "Creator Open to Future Return",
+        "p": [
+          "The creative mind behind the massive global television success has expressed a desire to revisit the fictional universe. During a panel appearance at the Doha Industry Days at the Doha Film Festival, the visionary spoke about potential future directions for the franchise.",
+          "Having concluded the main narrative arc with the third season in 2025, the filmmaker reflected on the possibility of exploring the world again. Although the main series has wrapped up, the appetite for more stories within this universe remains strong among fans."
+        ]
+      },
+      {
+        "h": "Netflix Holds Final Decision",
+        "p": [
+          "Any potential continuation of the franchise ultimately rests in the hands of the streaming platform. Because the company owns the intellectual property, the creator does not have the final say regarding how the universe might expand in the future.",
+          "Addressing the crowd at the festival event, the director clarified that the decision does not belong to him. Nevertheless, he noted that if a genuinely great concept comes to mind down the road, he would love to bring another installment to life."
+        ]
+      },
+      {
+        "h": "Franchise Expansion and Reality TV",
+        "p": [
+          "Since the inception of the flagship drama, the property has branched out into other forms of entertainment. This includes the unscripted reality competition television series titled Squid Game: The Challenge, which was launched by the platform.",
+          "While the reality adaptation expanded the brand into unscripted territory, the scripted universe itself remains under the complete control of the streaming service, leaving fans wondering if a fourth season could ever materialize."
+        ]
+      },
+      {
+        "h": "Moving On to New Projects",
+        "p": [
+          "While pondering a potential return to the hit franchise, the acclaimed filmmaker is currently directing his attention toward a brand new feature film project. This upcoming cinematic endeavor is titled K.O. Club and marks an exciting new chapter for the director.",
+          "The upcoming film will also feature a notable reunion, bringing back a prominent star from the dystopian television phenomenon for this fresh creative collaboration."
+        ]
+      },
+      {
+        "h": "Details About K.O. Club",
+        "p": [
+          "The new feature is envisioned as a dystopian science fiction story taking place approximately two decades into the future. In this setting, the wealthy elite possess the ability to purchase eternal youth, creating deep societal divides.",
+          "Reacting to this bleak economic disparity, a disillusioned and frustrated younger generation forms a group known as the Killing Old Men Club. Their primary objective in the narrative is to organize targeted assassinations against powerful and wealthy individuals aged over 80."
+        ]
+      },
+      {
+        "h": "Reuniting With Star Talent",
+        "p": [
+          "The upcoming dystopian feature will team the director up once again with a familiar face from his previous streaming success. Actor Lee Byung-hun is set to star in the new movie, bridging the creator's past television work with his upcoming cinematic venture.",
+          "This collaboration adds significant anticipation for the project, as the actor and director look to capture a similar level of gripping storytelling in their next venture."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Squid Game creator Hwang Dong-hyuk has expressed interest in eventually returning to the popular franchise, though he noted that Netflix owns the intellectual property and will make the final decision on any expansion. While the flagship series concluded its third season in 2025, the filmmaker is currently focusing on his upcoming dystopian sci-fi feature film K.O. Club, which reunites him with actor Lee Byung-hun."
+        ]
+      }
+    ],
+    "facts": [
+      "Hwang Dong-hyuk attended a panel at the Doha Industry Days at the Doha Film Festival.",
+      "Squid Game wrapped with its third season in 2025.",
+      "Netflix launched a reality competition series called Squid Game: The Challenge.",
+      "Hwang Dong-hyuk's new feature is titled K.O. Club.",
+      "K.O. Club reunites Hwang Dong-hyuk with Squid Game star Lee Byung-hun.",
+      "K.O. Club is a dystopian sci-fi set around 20 years in the future."
+    ],
+    "entities": {
+      "people": [
+        "Hwang Dong-hyuk",
+        "Lee Byung-hun"
+      ],
+      "titles": [
+        "Squid Game",
+        "Squid Game: The Challenge",
+        "K.O. Club"
+      ]
+    },
+    "keywords": [
+      "Squid Game creator Hwang Dong-hyuk",
+      "K.O. Club movie",
+      "Lee Byung-hun K.O. Club",
+      "Squid Game season 4 Netflix"
+    ],
+    "images": [
+      {
+        "url": "https://www.justjared.com/wp-content/uploads/2026/11/squid-game-creator-teases-future.jpg",
+        "caption": "Squid Game Creator Hwang Dong-hyuk Hopes to Revisit the Franchise, but Netflix Holds the IP Rights",
+        "source": "Just Jared"
+      }
+    ],
+    "published": "Sat, 21 Nov 2026 01:53:50 +0000"
   }
 };

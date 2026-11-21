@@ -5284,13 +5284,13 @@ window.FA_PUBLISHED = {
     "providers": [
       {
         "name": "Apple TV",
-        "logo_path": "/9icYBfYFcwgCbky5VdGUIKJ4C5i.png",
+        "logo_path": "/v9SnyvYt0U3KGgBH3Sbh3z4yODe.png",
         "region": "IN",
         "type": "flatrate"
       },
       {
         "name": "Apple TV Amazon Channel",
-        "logo_path": "/rerVCu9auZrgxTTiZu1criqrQzg.png",
+        "logo_path": "/giKLP7saeUA0WykEPRyZUcOVv92.png",
         "region": "IN",
         "type": "flatrate"
       }
@@ -9541,13 +9541,13 @@ window.FA_PUBLISHED = {
     "providers": [
       {
         "name": "Apple TV",
-        "logo_path": "/9icYBfYFcwgCbky5VdGUIKJ4C5i.png",
+        "logo_path": "/v9SnyvYt0U3KGgBH3Sbh3z4yODe.png",
         "region": "IN",
         "type": "flatrate"
       },
       {
         "name": "Apple TV Amazon Channel",
-        "logo_path": "/rerVCu9auZrgxTTiZu1criqrQzg.png",
+        "logo_path": "/giKLP7saeUA0WykEPRyZUcOVv92.png",
         "region": "IN",
         "type": "flatrate"
       }
@@ -22642,6 +22642,12 @@ window.FA_PUBLISHED = {
     "status": "Released",
     "providers": [
       {
+        "name": "fuboTV",
+        "logo_path": "/3wF8xISfVlcrc8X3jaa3uMUFGAr.png",
+        "region": "US",
+        "type": "flatrate"
+      },
+      {
         "name": "Philo",
         "logo_path": "/mfbhzQwmQKjm7bLZPF5CTeu3Ilc.png",
         "region": "US",
@@ -25429,7 +25435,14 @@ window.FA_PUBLISHED = {
     ],
     "published_at": "2026-11-12",
     "status": "Returning Series",
-    "providers": [],
+    "providers": [
+      {
+        "name": "Rakuten Viki",
+        "logo_path": "/AoNsevRecTdVv4xQEf1oLRGO2yh.png",
+        "region": "US",
+        "type": "flatrate"
+      }
+    ],
     "first_air_date": "2026-11-11",
     "popularity": 9.5778
   },
@@ -30691,7 +30704,20 @@ window.FA_PUBLISHED = {
     "published_at": "2026-11-16",
     "date_kind": "release",
     "status": "Released",
-    "providers": [],
+    "providers": [
+      {
+        "name": "Amazon Prime Video",
+        "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+        "region": "IN",
+        "type": "flatrate"
+      },
+      {
+        "name": "Amazon Prime Video with Ads",
+        "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+        "region": "IN",
+        "type": "flatrate"
+      }
+    ],
     "release_date": "2026-10-16",
     "popularity": 1.4104
   },
@@ -33535,7 +33561,14 @@ window.FA_PUBLISHED = {
     ],
     "published_at": "2026-11-19",
     "status": "Ended",
-    "providers": [],
+    "providers": [
+      {
+        "name": "Netflix",
+        "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+        "region": "IN",
+        "type": "flatrate"
+      }
+    ],
     "first_air_date": "2026-11-19",
     "popularity": 6.9437
   },
@@ -34076,7 +34109,20 @@ window.FA_PUBLISHED = {
     "published_at": "2026-11-20",
     "date_kind": "release",
     "status": "Post Production",
-    "providers": [],
+    "providers": [
+      {
+        "name": "Amazon Prime Video",
+        "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+        "region": "IN",
+        "type": "flatrate"
+      },
+      {
+        "name": "Amazon Prime Video with Ads",
+        "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+        "region": "IN",
+        "type": "flatrate"
+      }
+    ],
     "release_date": "2026-11-20",
     "popularity": 6.4281
   },
