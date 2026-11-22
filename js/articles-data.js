@@ -220626,5 +220626,382 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Sun, 22 Nov 2026 12:00:12 GMT"
+  },
+  "pgi0bj": {
+    "id": "pgi0bj",
+    "type": "news",
+    "headline": "The Mystery of Michael Jackson's Missing Gone With The Wind Oscar",
+    "dek": "Decades after the pop icon purchased producer David O. Selznick's historic Academy Award for a staggering $1.54 million, the prized statuette remains unaccounted for following its disappearance.",
+    "body": [
+      {
+        "h": "A Multi-Million Dollar Purchase",
+        "p": [
+          "Back on June 12, 1999, pop icon Michael Jackson made a remarkable splash in the auction world by acquiring a legendary piece of cinematic history. Competing against various interested parties via a telephone bid at a Sotheby's event in New York City, the singer secured producer David O. Selznick's Best Picture Academy Award statuette for the timeless 1939 classic Gone With the Wind.",
+          "The winning bid reached an astonishing USD 1.54 million, which included the buyer's premium. Recognized formally by the Guinness Book of World Records, this transaction cemented the trophy as the most expensive Oscar ever sold in history."
+        ]
+      },
+      {
+        "h": "The Legal Loophole That Allowed the Sale",
+        "p": [
+          "The acquisition was made possible because of when the trophy was originally issued. The famous motion picture picture won its accolades at the 12th Academy Awards ceremony held on February 29, 1940.",
+          "Decades later, in 1950 and 1951, the Academy of Motion Picture Arts and Sciences established a right-of-first-refusal rule. This regulation prohibited winners and their descendants from selling statuettes on the open market without first offering them back to the Academy for a single dollar. Because Selznick's trophy predated this policy, his estate was legally permitted to put it up for public auction without restrictions."
+        ]
+      },
+      {
+        "h": "Storage at Neverland Ranch and Holmby Hills",
+        "p": [
+          "As an avid collector of classic Hollywood memorabilia, the singer safely housed the prestigious Academy Award alongside his vast array of personal treasures. Initially, the statuette was kept at his famous Neverland Ranch located in the Santa Ynez Valley of California.",
+          "Later on, as his living arrangements shifted, the piece was moved to the rented Holmby Hills estate in Los Angeles, where the artist ultimately spent his final days."
+        ]
+      },
+      {
+        "h": "Disappearance Following the Singer's Demise",
+        "p": [
+          "Following the sudden passing of Michael Jackson on June 25, 2009, executors managing his estate undertook an exhaustive inventory of all his properties, storage warehouses, and the Holmby Hills mansion. To their dismay, the million-dollar trophy was completely missing from the premises.",
+          "Representatives for the estate publicly acknowledged the loss to the media, noting their strong desire to recover the item specifically because it rightful belongs to the entertainer's children."
+        ]
+      },
+      {
+        "h": "The Ongoing Investigation and Theories",
+        "p": [
+          "Although the missing status of the property was formally reported nearly a decade ago in 2016, authorities and estate representatives have uncovered no concrete answers. To this day, nobody knows the exact whereabouts of the statuette or who currently holds it.",
+          "Numerous theories have circulated online regarding its fate. Speculation ranges from unauthorized removal by staff or family members to the possibility that it remains tucked away inside an unverified, forgotten storage unit linked to the singer's past."
+        ]
+      },
+      {
+        "h": "Another Disappearing Gone With The Wind Award",
+        "p": [
+          "Interestingly, the missing Selznick trophy is not the only Academy Award tied to the classic 1939 film that has vanished over the decades. Actress Hattie McDaniel, who made history by winning the Best Supporting Actress Oscar for her unforgettable role, chose to donate her award to Howard University.",
+          "During the 1960s and 1970s, that particular statuette also went missing from the university grounds, and its location remains a mystery to this day."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "In 1999, Michael Jackson purchased David O. Selznick's Gone With the Wind Best Picture Oscar for $1.54 million at a Sotheby's auction. Following the singer's death in 2009, the record-breaking statuette was found to be missing and was formally reported stolen in 2016, remaining unrecovered to this day."
+        ]
+      }
+    ],
+    "facts": [
+      "In 1999, Michael Jackson paid $1.54M for David O. Selznick's Gone With The Wind Oscar award.",
+      "The purchase took place at a Sotheby's auction in New York City on June 12, 1999.",
+      "The trophy was presented at the 12th Academy Awards ceremony on February 29, 1940.",
+      "Michael Jackson passed away on June 25, 2009.",
+      "The disappearance of the trophy was reported as stolen in 2016.",
+      "Hattie McDaniel won the Best Supporting Actress Oscar for Gone With the Wind and donated it to Howard University, where it also disappeared in the 1960s and 1970s."
+    ],
+    "entities": {
+      "people": [
+        "Michael Jackson",
+        "David O. Selznick",
+        "Hattie McDaniel"
+      ],
+      "titles": [
+        "Gone With the Wind"
+      ]
+    },
+    "keywords": [
+      "Michael Jackson Oscar Gone With The Wind",
+      "David O Selznick Academy Award",
+      "stolen Michael Jackson Oscar 2016",
+      "Gone With The Wind missing Oscar award"
+    ],
+    "images": [
+      {
+        "url": "https://static.toiimg.com/thumb/msid-136072426,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "caption": "The Mystery of Michael Jackson's Missing Gone With The Wind Oscar",
+        "source": "Times of India — Entertainment"
+      }
+    ],
+    "published": "2026-11-22T19:30:00+05:30"
+  },
+  "1q34ejh": {
+    "id": "1q34ejh",
+    "type": "news",
+    "headline": "The Most Controversial Christmas Horror Film Gets a Modern Remake",
+    "dek": "Decades after being pulled from theaters amid fierce protests, the notorious holiday slasher Silent Night, Deadly Night has returned with a brand new reboot.",
+    "body": [
+      {
+        "h": "The Return of a Holiday Horror",
+        "p": [
+          "A notorious holiday horror picture that shocked audiences decades ago has officially made its return to the screen with a modern remake. Originally released forty-one years prior, the project blends festive cheer with dark slasher elements.",
+          "While modern viewers are accustomed to extreme holiday-themed frights, the original feature caused a massive uproar upon its debut due to its depiction of a murderer dressed in Santa Claus gear."
+        ]
+      },
+      {
+        "h": "Original Backlash and Theatrical Pull",
+        "p": [
+          "When the original film first premiered in cinemas across the United States, it triggered intense public outrage and even prompted physical protests outside theaters. The backlash forced the distributor, TriStar, to yank the picture from screens just one week after its initial release.",
+          "Despite its brief theatrical window and heavy controversy, the movie managed to build a dedicated following over the years through home video formats like VCR and DVD sales."
+        ]
+      },
+      {
+        "h": "Plot and Background",
+        "p": [
+          "The narrative centers on a young boy named Billy Chapman, who witnesses his parents get murdered by an assailant disguised as Santa Claus. Following the tragic event, Billy grows up inside a strict Catholic orphanage where staff instill strict ideas about punishing 'naughty' children.",
+          "After maturing and taking a job at a toy store, the deeply traumatized character eventually dons a Santa costume himself and embarks on a violent Christmas Eve killing spree."
+        ]
+      },
+      {
+        "h": "Cast and Legacy",
+        "p": [
+          "The original picture featured performances from actors such as Lilyan Chauvin and Gilmer McCormick. Its sudden removal cemented its status as a piece of controversial cinema history.",
+          "Decades later, the landscape of horror has evolved significantly, clearing the path for a fresh interpretation of the classic story with a brand new cast leading the production."
+        ]
+      },
+      {
+        "h": "The Modern Remake and Cast",
+        "p": [
+          "The newly released reboot brings fresh talent to the franchise, starring performers like Rohan Campbell, Ruby Modine, and David Tomlinson in major roles.",
+          "With modern cinematic effects and a different approach to the material, the reboot aims to offer a fresh perspective on the infamous killer Santa narrative."
+        ]
+      },
+      {
+        "h": "Audience and Critic Reception",
+        "p": [
+          "Audience reactions on platforms like Rotten Tomatoes have been largely receptive, with many praising the reboot as an entertaining slasher that respects its roots while offering clever updates.",
+          "Conversely, some critics and viewers remained unimpressed, arguing that the project failed to improve upon the low bar set by the original B-movie or dismissing the quality of the acting."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "A controversial Christmas horror movie that was pulled from theaters forty-one years ago has received a brand new remake starring Rohan Campbell, Ruby Modine, and David Tomlinson. While the original release faced intense protests and was quickly dropped by its distributor, the modern reboot has sparked mixed reactions among contemporary audiences and critics."
+        ]
+      }
+    ],
+    "facts": [
+      "The original release was 41 years ago.",
+      "The original film was pulled just one week after screening in the US.",
+      "The original distributor was TriStar.",
+      "The original cast included Lilyan Chauvin and Gilmer McCormick.",
+      "The remake stars Rohan Campbell, Ruby Modine, and David Tomlinson."
+    ],
+    "entities": {
+      "people": [
+        "Britt Jones",
+        "Lilyan Chauvin",
+        "Gilmer McCormick",
+        "Rohan Campbell",
+        "Ruby Modine",
+        "David Tomlinson"
+      ],
+      "titles": [
+        "Silent Night, Deadly Night",
+        "Black Christmas",
+        "Gremlins",
+        "Christmas Evil",
+        "Krampus"
+      ]
+    },
+    "keywords": [
+      "Silent Night Deadly Night remake",
+      "Billy Chapman killer Santa",
+      "Rohan Campbell Ruby Modine",
+      "TriStar Christmas horror movie"
+    ],
+    "images": [
+      {
+        "url": "https://resizer.ladbiblegroup.com/ogimage/v3/assets/blt949ea8e16e463049/blt39ebd116f9b53199/6b02e5e433d006319389a636/controversial-christmas-film-deadly-night.jpeg",
+        "caption": "The Most Controversial Christmas Horror Film Gets a Modern Remake",
+        "source": "UNILAD"
+      }
+    ],
+    "published": "2026-11-22T13:49:56.283Z"
+  },
+  "clzbvd": {
+    "id": "clzbvd",
+    "type": "news",
+    "headline": "Naga Chaitanya Discusses His Admiration for Wife Sobhita Dhulipala and Explains How She Made Him More Spontaneous",
+    "dek": "During a fan townhall while promoting his upcoming film Vrushakarma, actor Naga Chaitanya shared details about his relationship with Sobhita Dhulipala, describing her in one word as love.",
+    "body": [
+      {
+        "h": "Actor Discusses Wife During Promotional Event",
+        "p": [
+          "Actor Naga Chaitanya recently opened up about his marriage and personal life while interacting with fans at an honest townhall event. The gathering took place as part of his promotional tour for his upcoming feature release.",
+          "During the session, the actor addressed various aspects of his career, family background, and future acting aspirations, while dedicating a significant portion of the conversation to his partner."
+        ]
+      },
+      {
+        "h": "Admiring Her Dynamic Nature",
+        "p": [
+          "When asked by a fan to name the single quality he admires most in his wife, the actor highlighted her dynamic personality. He noted that she represents a distinct blend of traditional culture and contemporary outlook.",
+          "He further explained that her openness to new experiences and willingness to explore the world around her stands out as one of her defining traits."
+        ]
+      },
+      {
+        "h": "Learning to Be Impromptu",
+        "p": [
+          "Elaborating on her influence, Chaitanya shared an anecdote about their travels together. He contrasted his own rigid vacation planning with her ability to adapt when things do not go according to schedule.",
+          "According to the actor, her knack for taking the lead in unpredictable situations has helped him become much more spontaneous, leading to entirely new discoveries."
+        ]
+      },
+      {
+        "h": "Describing Her in One Word",
+        "p": [
+          "Later in the event during a rapid-fire question segment, the actor was challenged to sum up his spouse in a single word. Without hesitation, he chose the word love.",
+          "The lighthearted moment gave fans a glimpse into their bond, building on previous public disclosures about their relationship journey."
+        ]
+      },
+      {
+        "h": "Relationship Background and Timeline",
+        "p": [
+          "The couple first crossed paths when Sobhita visited Nagarjuna Akkineni, and they eventually began dating in secret. Their romance became public knowledge after a chef shared a vacation photograph online, followed by similar social media backgrounds posted by the pair.",
+          "They made their relationship official with an engagement ceremony in Hyderabad in August 2024, culminating in a wedding in December of that same year at Annapurna Studios after dating for two years."
+        ]
+      },
+      {
+        "h": "Addressing Past Speculation",
+        "p": [
+          "Previously, the actor spoke on a podcast in February 2025 regarding his 2021 divorce from Samantha Ruth Prabhu. He defended his current wife against online speculation and criticism.",
+          "He emphasized that she entered his life organically through social media and casual meetings, bearing no connection to his past, and expressed regret over unfair public scrutiny directed at her."
+        ]
+      },
+      {
+        "h": "Upcoming Professional Projects",
+        "p": [
+          "On the professional front, the actor is gearing up for the release of his next major cinematic project. The film is titled Vrushakarma and is directed by Karthik Varma Dandu.",
+          "Audiences can expect the movie to hit the big screen on December 4, as promotional activities continue to ramp up across various platforms."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Naga Chaitanya spoke about his wife Sobhita Dhulipala during a fan townhall while promoting Vrushakarma, stating that the word he associates with her is love. He credited her with teaching him how to be more impromptu during their travels, while also reflecting on their relationship timeline and past public discussions."
+        ]
+      }
+    ],
+    "facts": [
+      "Naga Chaitanya and Sobhita Dhulipala dated for two years before marrying in December 2024 at Annapurna Studios in Hyderabad.",
+      "The couple got engaged in Hyderabad in August 2024.",
+      "Naga Chaitanya spoke about his wife during an honest townhall while promoting Vrushakarma, directed by Karthik Varma Dandu, which releases on December 4.",
+      "Naga Chaitanya was previously married to Samantha Ruth Prabhu, divorcing in 2021."
+    ],
+    "entities": {
+      "people": [
+        "Naga Chaitanya",
+        "Sobhita Dhulipala",
+        "Nagarjuna Akkineni",
+        "Karthik Varma Dandu",
+        "Samantha Ruth Prabhu",
+        "Neeshita Nyayapati"
+      ],
+      "titles": [
+        "Vrushakarma"
+      ]
+    },
+    "keywords": [
+      "Naga Chaitanya Sobhita Dhulipala",
+      "Vrushakarma film release",
+      "Naga Chaitanya townhall",
+      "Karthik Varma Dandu Vrushakarma"
+    ],
+    "images": [
+      {
+        "url": "https://www.hindustantimes.com/ht-img/img/2026/11/22/1600x900/logo/Naga_Chaitanya_Sobhita_1795352816313_wxh5_1795352834112_TAHL_f61565aa-8cae-4588-9caf-ed1fb250ba8c_VQfP.jpg",
+        "caption": "Naga Chaitanya Discusses His Admiration for Wife Sobhita Dhulipala and Explains How She Made Him More Spontaneous",
+        "source": "Hindustan Times — Entertainment"
+      }
+    ],
+    "published": "Sun, 22 Nov 2026 19:03:27 +0530"
+  },
+  "1dr86px": {
+    "id": "1dr86px",
+    "type": "news",
+    "headline": "J.A. Bayona, Guneet Monga Kapoor, and Vikas Khanna Board Short Film 'The Dragon Letter' as Executive Producers",
+    "dek": "Stanzin Jigmet's Student Academy Award-winning short 'The Dragon Letter' secures high-profile executive producers and eyes a feature adaptation.",
+    "body": [
+      {
+        "h": "New Executive Producers Join Award-Winning Short",
+        "p": [
+          "A notable trio of global filmmakers has stepped up to support the acclaimed short film 'The Dragon Letter'. Spanish director J.A. Bayona, Oscar-winning producer Guneet Monga Kapoor, and Michelin-starred chef and filmmaker Vikas Khanna have officially come on board the project as executive producers.",
+          "The project has already achieved significant milestones, notably winning the narrative Gold distinction at the 53rd Student Academy Awards. It has also been entered into the live-action short category race for the upcoming 99th Academy Awards."
+        ]
+      },
+      {
+        "h": "Roots and Production Journey",
+        "p": [
+          "The film's narrative draws heavily from the childhood experiences of Ladakhi director Stanzin Jigmet, specifically his time spent at a Himalayan boarding school. In the story, a ten-year-old child named Skarma is tasked with writing a mandatory note to his sponsor located in Barcelona, while defying expectations of copying a standard template.",
+          "Production on the project was divided between Ladakh and Barcelona. The film was produced by Spain's ESCAC Films in association with India's Sikhya Entertainment, utilizing local children in Ladakh and professional crews for the European sequences."
+        ]
+      },
+      {
+        "h": "Director's Unique Background",
+        "p": [
+          "Hailing from Mulbekh, a remote Himalayan village without any local cinemas, Jigmet initially taught himself filmmaking through online video tutorials. He eventually launched Pixel Challenger Films before receiving a scholarship for a master's program in film directing at ESCAC in Barcelona.",
+          "Despite warnings from professors regarding the immense difficulties of directing projects involving large numbers of children, Jigmet successfully managed a cast of seventy-five kids for the ambitious production."
+        ]
+      },
+      {
+        "h": "Perspectives from the Production Team",
+        "p": [
+          "J.A. Bayona praised the short for translating a deeply local Himalayan narrative into a universally relatable story concerning friendship and individuality. He noted that the project demonstrates how intimate narratives can bridge global gaps.",
+          "Guneet Monga Kapoor highlighted the emotional resonance of childhood bonds within the script. She also pointed out that her involvement will help guide the independent film through international award campaigns and public relations networks."
+        ]
+      },
+      {
+        "h": "Feature Adaptation Plans",
+        "p": [
+          "While currently navigating the demanding circuit of award campaigns for the short film, director Stanzin Jigmet is actively looking toward the future. He has confirmed that plans are already underway to develop a full-length feature version of 'The Dragon Letter'.",
+          "The announcement of the feature development and the new executive producers was highlighted during the WAVES Film Bazaar, which serves as the market component of the International Film Festival of India."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "J.A. Bayona, Guneet Monga Kapoor, and Vikas Khanna have joined the Student Academy Award-winning short 'The Dragon Letter' as executive producers. Director Stanzin Jigmet is currently managing the short's Oscar campaign while preparing to develop a feature-length adaptation of the story."
+        ]
+      }
+    ],
+    "facts": [
+      "The Dragon Letter won narrative Gold at the 53rd Student Academy Awards.",
+      "The film has been entered in the live-action short race for the 99th Academy Awards.",
+      "ESCAC Films produced the movie in association with Sikhya Entertainment.",
+      "Stanzin Jigmet is developing a feature version of the short."
+    ],
+    "entities": {
+      "people": [
+        "J.A. Bayona",
+        "Guneet Monga Kapoor",
+        "Vikas Khanna",
+        "Stanzin Jigmet",
+        "Skarma"
+      ],
+      "titles": [
+        "The Dragon Letter",
+        "The Orphanage",
+        "The Impossible",
+        "A Monster Calls",
+        "Jurassic World: Fallen Kingdom",
+        "Society of the Snow",
+        "The Elephant Whisperers",
+        "Period. End of Sentence.",
+        "The Last Color",
+        "12th Fail",
+        "The Lunchbox",
+        "Masaan",
+        "Pagglait",
+        "Kill",
+        "Kathal – A Jackfruit Mystery",
+        "Soorarai Pottru",
+        "Dorothy",
+        "Udta Teer"
+      ]
+    },
+    "keywords": [
+      "The Dragon Letter",
+      "Stanzin Jigmet",
+      "J.A. Bayona",
+      "Guneet Monga Kapoor",
+      "Vikas Khanna"
+    ],
+    "images": [
+      {
+        "url": "https://variety.com/wp-content/uploads/2026/11/The-Dragon-Letter.jpg?w=1000&#038;h=563&#038;crop=1",
+        "caption": "J.A. Bayona, Guneet Monga Kapoor, and Vikas Khanna Board Short Film 'The Dragon Letter' as Executive Producers",
+        "source": "Variety"
+      }
+    ],
+    "published": "Sun, 22 Nov 2026 14:25:29 +0000"
   }
 };
