@@ -38,7 +38,7 @@
    "name": "World Cinema Movies & TV Shows",
    "url": "https://flickatlas.co.uk/category?cat=world"
   },
-  "ssr": "<article class=\"ssr-facts\">\n<h1>World Cinema Movies &amp; TV Shows</h1>\n<p>Browse international films and television series on FlickAtlas, including Hollywood titles. Explore available cast, story and release information.</p>\n<h2>Latest covered titles</h2>\n<ul><li>Mo Amor (2027)</li><li>Witch on the Holy Night (2027)</li><li>The Liberation (2027)</li><li>Elsinore (2026)</li><li>Dune: Part Three (2026)</li><li>Avengers: Doomsday (2026)</li><li>孤楼夜幽灵 (2026)</li><li>いかさま隆二と裏切り純子 (2026)</li><li>my hamster video (2026)</li><li>The Odds (2026)</li></ul>\n</article>",
+  "ssr": "<article class=\"ssr-facts\">\n<h1>World Cinema Movies &amp; TV Shows</h1>\n<p>Browse international films and television series on FlickAtlas, including Hollywood titles. Explore available cast, story and release information.</p>\n<h2>Latest covered titles</h2>\n<ul><li>Ultra Women (2027)</li><li>Mo Amor (2027)</li><li>Witch on the Holy Night (2027)</li><li>The Liberation (2027)</li><li>Elsinore (2026)</li><li>Dune: Part Three (2026)</li><li>Avengers: Doomsday (2026)</li><li>Victor the Virus King (2026)</li><li>Unspoken (2026)</li><li>Under the Rain (2026)</li></ul>\n</article>",
   "t": "World Cinema Movies & TV Shows | FlickAtlas"
  },
  "daywise:1081010": {
@@ -2369,6 +2369,13 @@
      "name": "Naseeruddin Shah"
     }
    ],
+   "aggregateRating": {
+    "@type": "AggregateRating",
+    "bestRating": 10,
+    "ratingCount": 2,
+    "ratingValue": 8.5,
+    "worstRating": 0
+   },
    "description": "O.M: Operation Mole (2026): Crime/Action film. Story: Set across the temple corridors of Tirupati and… See cast and box office collection $1.63M.",
    "director": [
     {
@@ -7535,8 +7542,65 @@
    "name": "Bollywood, World Cinema & Box Office | FlickAtlas",
    "url": "https://flickatlas.co.uk/"
   },
-  "ssr": "<article class=\"ssr-facts\">\n<h1>FlickAtlas</h1>\n<p>Explore Bollywood and Indian cinema, World Cinema, Pakistani dramas, reported box office, OTT availability, release dates and entertainment news.</p>\n<h2>Latest news</h2>\n<ul><li>Vijay Prakash Recalls Working With AR Rahman and Shah Rukh Khan on Swades</li><li>Youth Congress Protests at Meta Offices Trigger Intense Debate Over Free Expression</li><li>National Award-Winning Filmmaker Prakash Belawadi Criticises Karnataka&#x27;s Economic Disparity And Bengaluru Traffic</li><li>Diljit Dosanjh Criticizes Double Standards Over Track Lyrics and Compares Treatment with Coldplay</li><li>Apple TV Takes Over Sci-Fi Landscape With New 10-Part Neuromancer Series Following The Peripheral&#x27;s Cancellation</li></ul>\n<h2>Trending titles</h2>\n<ul><li>One Piece (1999) — TMDB rating 8.8/10</li><li>MobLand (2025) — TMDB rating 8.6/10</li><li>VisionQuest (2026) — TMDB rating 8.7/10</li><li>Tulsa King (2022) — TMDB rating 8.3/10</li><li>The Odyssey (2026) — TMDB rating 8.0/10</li></ul>\n</article>",
+  "ssr": "<article class=\"ssr-facts\">\n<h1>FlickAtlas</h1>\n<p>Explore Bollywood and Indian cinema, World Cinema, Pakistani dramas, reported box office, OTT availability, release dates and entertainment news.</p>\n<h2>Latest news</h2>\n<ul><li>Netflix Fantasy Mystery Series Shines As A Faithful Book Adaptation</li><li>Ramayana Box Office Day 17: Film Tops 1,616 Crore and Becomes 3rd Highest-Grosser</li><li>Vijay Prakash Recalls Working With AR Rahman and Shah Rukh Khan on Swades</li><li>Youth Congress Protests at Meta Offices Trigger Intense Debate Over Free Expression</li><li>National Award-Winning Filmmaker Prakash Belawadi Criticises Karnataka&#x27;s Economic Disparity And Bengaluru Traffic</li></ul>\n<h2>Trending titles</h2>\n<ul><li>One Piece (1999) — TMDB rating 8.8/10</li><li>MobLand (2025) — TMDB rating 8.6/10</li><li>VisionQuest (2026) — TMDB rating 8.7/10</li><li>Tulsa King (2022) — TMDB rating 8.3/10</li><li>The Odyssey (2026) — TMDB rating 8.0/10</li></ul>\n</article>",
   "t": "Bollywood, World Cinema & Box Office | FlickAtlas"
+ },
+ "movie:1000848": {
+  "d": "When She Hears the Bells (2026): Drama/Action film. Story: Afghanistan, summer 2021. As the Taliban gradually… See cast and release date 18 November 2026.",
+  "img": "https://image.tmdb.org/t/p/w780/tRsExzFbRNhcffbsJzBEgq83Xrh.jpg",
+  "industry": "world",
+  "k": "When She Hears the Bells, When She Hears the Bells movie, When She Hears the Bells cast, When She Hears the Bells story, When She Hears the Bells box office collection, When She Hears the Bells budget, When She Hears the Bells review, When She Hears the Bells rating, When She Hears the Bells release date, When She Hears the Bells Drama, When She Hears the Bells Action, international movies, FlickAtlas",
+  "ld": {
+   "@context": "https://schema.org",
+   "@type": "Movie",
+   "actor": [
+    {
+     "@type": "Person",
+     "name": "Golshifteh Farahani"
+    },
+    {
+     "@type": "Person",
+     "name": "Rohed Khan"
+    },
+    {
+     "@type": "Person",
+     "name": "Sayed Hashimi"
+    },
+    {
+     "@type": "Person",
+     "name": "Azizullah Hamrah"
+    },
+    {
+     "@type": "Person",
+     "name": "Zobair Padash"
+    }
+   ],
+   "description": "When She Hears the Bells (2026): Drama/Action film. Story: Afghanistan, summer 2021. As the Taliban gradually… See cast and release date 18 November 2026.",
+   "director": [
+    {
+     "@type": "Person",
+     "name": "Chabname Zariab"
+    }
+   ],
+   "duration": "PT83M",
+   "genre": [
+    "Drama",
+    "Action"
+   ],
+   "image": "https://image.tmdb.org/t/p/w780/tRsExzFbRNhcffbsJzBEgq83Xrh.jpg",
+   "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1000848",
+   "name": "When She Hears the Bells",
+   "releasedEvent": {
+    "@type": "PublicationEvent",
+    "startDate": "2026-11-18"
+   },
+   "url": "https://flickatlas.co.uk/movie?id=1000848"
+  },
+  "modified": "",
+  "published": "2026-11-22",
+  "ssr": "<article class=\"ssr-facts\">\n<h1>When She Hears the Bells (2026)</h1>\n<p class=\"ssr-lead\">Afghanistan, summer 2021. As the Taliban gradually seize control of the country, Leila, a young widow, arrives in Kabul. She begins working in a kitchen that she discovers is part of a Bacha Bazi house. Very young, androgynous boys there dance dressed as women before audiences of men. She meets Tamim, a Bacha whom she decides to help. She will try to save other young boys and leave the country before the city falls.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 18 November 2026</li><li>Runtime: 83 minutes</li><li>Director: Chabname Zariab</li><li>Genres: Drama, Action</li></ul>\n<h2>Top cast</h2>\n<ul><li>Golshifteh Farahani as Leila</li><li>Rohed Khan as Milad</li><li>Sayed Hashimi as Mahmood</li><li>Azizullah Hamrah as Haji</li><li>Zobair Padash as Imam Rahman</li><li>Forouzan Jamshidnejad as Fazila</li><li>Venus Nazari as Roya</li><li>Fatima Tawakkuli as Marie</li></ul>\n</article>",
+  "t": "When She Hears the Bells (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+  "year": "2026"
  },
  "movie:1003494": {
   "d": "Women on Trial (2026): History/Drama film. Story: 1972. A landmark trial shakes France as young… See cast and release date 4 November 2026.",
@@ -14131,6 +14195,63 @@
   "t": "The Blood Countess (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
   "year": "2026"
  },
+ "movie:1255582": {
+  "d": "I Am Going to Miss You (2026): Drama/Romance film. Story: Amanda and Caio are a trans couple who share seven… See cast and release date 19 November 2026.",
+  "img": "https://image.tmdb.org/t/p/w780/vlrfwLFmhYp1trKxIkezE28YC1z.jpg",
+  "industry": "world",
+  "k": "I Am Going to Miss You, I Am Going to Miss You movie, I Am Going to Miss You cast, I Am Going to Miss You story, I Am Going to Miss You box office collection, I Am Going to Miss You budget, I Am Going to Miss You review, I Am Going to Miss You rating, I Am Going to Miss You release date, I Am Going to Miss You Drama, I Am Going to Miss You Romance, international movies, FlickAtlas",
+  "ld": {
+   "@context": "https://schema.org",
+   "@type": "Movie",
+   "actor": [
+    {
+     "@type": "Person",
+     "name": "Alice Marcone"
+    },
+    {
+     "@type": "Person",
+     "name": "Gabriel Lodi"
+    },
+    {
+     "@type": "Person",
+     "name": "Maite Schneider"
+    },
+    {
+     "@type": "Person",
+     "name": "Luca Scarpelli"
+    },
+    {
+     "@type": "Person",
+     "name": "Leona Jhovs"
+    }
+   ],
+   "description": "I Am Going to Miss You (2026): Drama/Romance film. Story: Amanda and Caio are a trans couple who share seven… See cast and release date 19 November 2026.",
+   "director": [
+    {
+     "@type": "Person",
+     "name": "Daniel Ribeiro"
+    }
+   ],
+   "duration": "PT87M",
+   "genre": [
+    "Drama",
+    "Romance"
+   ],
+   "image": "https://image.tmdb.org/t/p/w780/vlrfwLFmhYp1trKxIkezE28YC1z.jpg",
+   "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1255582",
+   "name": "I Am Going to Miss You",
+   "releasedEvent": {
+    "@type": "PublicationEvent",
+    "startDate": "2026-11-19"
+   },
+   "url": "https://flickatlas.co.uk/movie?id=1255582"
+  },
+  "modified": "",
+  "published": "2026-11-22",
+  "ssr": "<article class=\"ssr-facts\">\n<h1>I Am Going to Miss You (2026)</h1>\n<p class=\"ssr-lead\">Amanda and Caio are a trans couple who share seven years of love and dreams. However, when they decide to live together, the differences between them begin to take their toll.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 19 November 2026</li><li>Runtime: 87 minutes</li><li>Director: Daniel Ribeiro</li><li>Genres: Drama, Romance</li></ul>\n<h2>Top cast</h2>\n<ul><li>Alice Marcone as Amanda</li><li>Gabriel Lodi as Caio</li><li>Maite Schneider as Vivian</li><li>Luca Scarpelli as João</li><li>Leona Jhovs as Sandra</li><li>Rodolpho Correa as Danilo</li><li>Clodd Dias as Olivia</li><li>Olivia Lopes as Bruna</li><li>Daniel Veiga as Rodolfo</li><li>Jhonnã Bao as Priscila</li></ul>\n</article>",
+  "t": "I Am Going to Miss You (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+  "year": "2026"
+ },
  "movie:1257960": {
   "d": "Sikandar (2025): Action/Drama film. Story: A tragic accident pushes the powerful Sikandar to… See cast, budget $23.5M, review 5.5/10, and TMDB rating 4.8/10.",
   "img": "https://image.tmdb.org/t/p/w780/4MNRH73XmwBK2ycv3qvLpa07O5F.jpg",
@@ -18528,6 +18649,13 @@
      "name": "Naseeruddin Shah"
     }
    ],
+   "aggregateRating": {
+    "@type": "AggregateRating",
+    "bestRating": 10,
+    "ratingCount": 2,
+    "ratingValue": 8.5,
+    "worstRating": 0
+   },
    "description": "O.M: Operation Mole (2026): Crime/Action film. Story: Set across the temple corridors of Tirupati and… See cast and box office collection $1.63M.",
    "director": [
     {
@@ -18551,7 +18679,7 @@
   },
   "modified": "",
   "published": "2026-11-13",
-  "ssr": "<article class=\"ssr-facts\">\n<h1>O.M: Operation Mole (2026)</h1>\n<p class=\"ssr-lead\">Set across the temple corridors of Tirupati and Tiruvannamalai, an elite undercover operative infiltrates a sprawling transnational red sanders syndicate. As criminal politics escalate, a covert task force launches Operation Mole to dismantle the cartel from within.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 20 November 2026</li><li>Runtime: 178 minutes</li><li>Director: Rajkumar Periasamy</li><li>Genres: Crime, Action, Thriller</li></ul>\n<h2>Top cast</h2>\n<ul><li>Dhanush as Chezhiyan / Thirukumaran</li><li>Mammootty as Burma &#x27;Siya&#x27; Karthikeyan</li><li>Sai Pallavi as Nithya Reddy</li><li>Sreeleela as Roja</li><li>Naseeruddin Shah</li><li>Indrans</li><li>Chaitu Jonnalagadda</li><li>Saravana Kumar</li><li>Lallu Prasath</li><li>Renu Desai</li></ul>\n<h2>Box office</h2>\n<ul><li>India Net total: $1.63M</li><li>Latest: Day 2 (2026-11-21) — India Net $1.63M</li></ul>\n</article>",
+  "ssr": "<article class=\"ssr-facts\">\n<h1>O.M: Operation Mole (2026)</h1>\n<p class=\"ssr-lead\">Set across the temple corridors of Tirupati and Tiruvannamalai, an elite undercover operative infiltrates a sprawling transnational red sanders syndicate. As criminal politics escalate, a covert task force launches Operation Mole to dismantle the cartel from within.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 20 November 2026</li><li>Runtime: 178 minutes</li><li>Director: Rajkumar Periasamy</li><li>Genres: Crime, Action, Thriller</li><li>TMDB rating: 8.5/10 (2 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Dhanush as Chezhiyan / Thirukumaran</li><li>Mammootty as Burma &#x27;Siya&#x27; Karthikeyan</li><li>Sai Pallavi as Nithya Reddy</li><li>Sreeleela as Roja</li><li>Naseeruddin Shah</li><li>Indrans</li><li>Chaitu Jonnalagadda</li><li>Saravana Kumar</li><li>Lallu Prasath</li><li>Renu Desai</li></ul>\n<h2>Box office</h2>\n<ul><li>India Net total: $1.63M</li><li>Latest: Day 2 (2026-11-21) — India Net $1.63M</li></ul>\n</article>",
   "t": "O.M: Operation Mole (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
   "year": "2026"
  },
@@ -23583,6 +23711,69 @@
   "t": "With Love (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
   "year": "2026"
  },
+ "movie:1509399": {
+  "d": "Triple je (2026): Comedy/TV Movie film. See cast, TMDB rating 5.7/10, and release date 19 November 2026.",
+  "img": "https://image.tmdb.org/t/p/w780/dl6Z0aQL3sGgdSQ3X8Lvwaj3czM.jpg",
+  "industry": "world",
+  "k": "Triple je, Triple je movie, Triple je cast, Triple je story, Triple je box office collection, Triple je budget, Triple je review, Triple je rating, Triple je release date, Triple je Comedy, Triple je TV Movie, international movies, FlickAtlas",
+  "ld": {
+   "@context": "https://schema.org",
+   "@type": "Movie",
+   "actor": [
+    {
+     "@type": "Person",
+     "name": "Arnaud Ducret"
+    },
+    {
+     "@type": "Person",
+     "name": "Barbara Schulz"
+    },
+    {
+     "@type": "Person",
+     "name": "Julien Boisselier"
+    },
+    {
+     "@type": "Person",
+     "name": "François Levantal"
+    },
+    {
+     "@type": "Person",
+     "name": "Noam Sinseau"
+    }
+   ],
+   "aggregateRating": {
+    "@type": "AggregateRating",
+    "bestRating": 10,
+    "ratingCount": 3,
+    "ratingValue": 5.7,
+    "worstRating": 0
+   },
+   "description": "Triple je (2026): Comedy/TV Movie film. See cast, TMDB rating 5.7/10, and release date 19 November 2026.",
+   "director": [
+    {
+     "@type": "Person",
+     "name": "Gaël Leforestier"
+    }
+   ],
+   "genre": [
+    "Comedy",
+    "TV Movie"
+   ],
+   "image": "https://image.tmdb.org/t/p/w780/dl6Z0aQL3sGgdSQ3X8Lvwaj3czM.jpg",
+   "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1509399",
+   "name": "Triple je",
+   "releasedEvent": {
+    "@type": "PublicationEvent",
+    "startDate": "2026-11-19"
+   },
+   "url": "https://flickatlas.co.uk/movie?id=1509399"
+  },
+  "modified": "",
+  "published": "2026-11-22",
+  "ssr": "<article class=\"ssr-facts\">\n<h1>Triple je (2026)</h1>\n<h2>Key facts</h2>\n<ul><li>Release date: 19 November 2026</li><li>Director: Gaël Leforestier</li><li>Genres: Comedy, TV Movie</li><li>TMDB rating: 5.7/10 (3 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Arnaud Ducret as Richard Deltour / David / José</li><li>Barbara Schulz as Alice</li><li>Julien Boisselier as Patrice Charron</li><li>François Levantal</li><li>Noam Sinseau</li><li>Kody Kim</li><li>Marie Vincent</li><li>Firmine Richard</li></ul>\n</article>",
+  "t": "Triple je (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+  "year": "2026"
+ },
  "movie:1510775": {
   "d": "Gunmaaster G9 (2026): Action/Romance film. Story: A man in love takes extreme measures to be with the… See cast and release date 27 November 2026.",
   "img": "https://image.tmdb.org/t/p/w780/l2mK4l8DI57CMAXlERKiaJE3v0y.jpg",
@@ -28373,6 +28564,48 @@
   "t": "Cameron Winter at Carnegie Hall (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
   "year": "2026"
  },
+ "movie:1599184": {
+  "d": "Battle Through the Heavens Movie：Duel of the Two Dou Emperors (2026): Animation/Adventure film. See cast and release date 22 November 2026.",
+  "img": "https://image.tmdb.org/t/p/w780/9uMWGlxHR3bpyhzKQLYL83m5puq.jpg",
+  "industry": "world",
+  "k": "Battle Through the Heavens Movie：Duel of the Two Dou Emperors, Battle Through the Heavens Movie：Duel of the Two Dou Emperors movie, Battle Through the Heavens Movie：Duel of the Two Dou Emperors cast, Battle Through the Heavens Movie：Duel of the Two Dou Emperors story, Battle Through the Heavens Movie：Duel of the Two Dou Emperors box office collection, Battle Through the Heavens Movie：Duel of the Two Dou Emperors budget, Battle Through the Heavens Movie：Duel of the Two Dou Emperors review, Battle Through the Heavens Movie：Duel of the Two Dou Emperors rating, Battle Through the Heavens Movie：Duel of the Two Dou Emperors release date, Battle Through the Heavens Movie：Duel of the Two Dou Emperors Animation, Battle Through the Heavens Movie：Duel of the Two Dou Emperors Adventure, international movies, FlickAtlas",
+  "ld": {
+   "@context": "https://schema.org",
+   "@type": "Movie",
+   "actor": [
+    {
+     "@type": "Person",
+     "name": "Bu Yi"
+    },
+    {
+     "@type": "Person",
+     "name": "Liu Yuxuan"
+    },
+    {
+     "@type": "Person",
+     "name": "Chen Yiwen"
+    }
+   ],
+   "description": "Battle Through the Heavens Movie：Duel of the Two Dou Emperors (2026): Animation/Adventure film. See cast and release date 22 November 2026.",
+   "genre": [
+    "Animation",
+    "Adventure"
+   ],
+   "image": "https://image.tmdb.org/t/p/w780/9uMWGlxHR3bpyhzKQLYL83m5puq.jpg",
+   "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1599184",
+   "name": "Battle Through the Heavens Movie：Duel of the Two Dou Emperors",
+   "releasedEvent": {
+    "@type": "PublicationEvent",
+    "startDate": "2026-11-22"
+   },
+   "url": "https://flickatlas.co.uk/movie?id=1599184"
+  },
+  "modified": "",
+  "published": "2026-11-22",
+  "ssr": "<article class=\"ssr-facts\">\n<h1>Battle Through the Heavens Movie：Duel of the Two Dou Emperors (2026)</h1>\n<h2>Key facts</h2>\n<ul><li>Release date: 22 November 2026</li><li>Genres: Animation, Adventure</li></ul>\n<h2>Top cast</h2>\n<ul><li>Bu Yi as Voice</li><li>Liu Yuxuan as Voice</li><li>Chen Yiwen as Voice</li></ul>\n</article>",
+  "t": "Battle Through the Heavens Movie：Duel of the Two Dou Emperors (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+  "year": "2026"
+ },
  "movie:1599230": {
   "d": "Elsinore (2026): Drama film. Story: The deeply emotional and inspirational true story of… See cast and release date 24 December 2026.",
   "img": "https://image.tmdb.org/t/p/w780/AlUUcnCiPbZUcAKoiS7GyXN7y6Z.jpg",
@@ -32699,6 +32932,63 @@
   "t": "Zombeid (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
   "year": "2026"
  },
+ "movie:1702665": {
+  "d": "Traveler's Hell (2026): Horror/Thriller film. Story: On an isolated road late at night, a young woman… See cast and release date 19 November 2026.",
+  "img": "https://image.tmdb.org/t/p/w780/ad1AoWcd42SYBXC3cVuDvuJeDWj.jpg",
+  "industry": "world",
+  "k": "Traveler's Hell, Traveler's Hell movie, Traveler's Hell cast, Traveler's Hell story, Traveler's Hell box office collection, Traveler's Hell budget, Traveler's Hell review, Traveler's Hell rating, Traveler's Hell release date, Traveler's Hell Horror, Traveler's Hell Thriller, international movies, FlickAtlas",
+  "ld": {
+   "@context": "https://schema.org",
+   "@type": "Movie",
+   "actor": [
+    {
+     "@type": "Person",
+     "name": "Adwa Bader"
+    },
+    {
+     "@type": "Person",
+     "name": "Basil Al-Sole"
+    },
+    {
+     "@type": "Person",
+     "name": "Mohammed Ali"
+    },
+    {
+     "@type": "Person",
+     "name": "Aziz Gharbawi"
+    },
+    {
+     "@type": "Person",
+     "name": "Shujaa Nashatt"
+    }
+   ],
+   "description": "Traveler's Hell (2026): Horror/Thriller film. Story: On an isolated road late at night, a young woman… See cast and release date 19 November 2026.",
+   "director": [
+    {
+     "@type": "Person",
+     "name": "Hana Allomair"
+    }
+   ],
+   "duration": "PT90M",
+   "genre": [
+    "Horror",
+    "Thriller"
+   ],
+   "image": "https://image.tmdb.org/t/p/w780/ad1AoWcd42SYBXC3cVuDvuJeDWj.jpg",
+   "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1702665",
+   "name": "Traveler's Hell",
+   "releasedEvent": {
+    "@type": "PublicationEvent",
+    "startDate": "2026-11-19"
+   },
+   "url": "https://flickatlas.co.uk/movie?id=1702665"
+  },
+  "modified": "",
+  "published": "2026-11-22",
+  "ssr": "<article class=\"ssr-facts\">\n<h1>Traveler&#x27;s Hell (2026)</h1>\n<p class=\"ssr-lead\">On an isolated road late at night, a young woman, driving alone, comes across a stranded male driver whose car has broken down on a mountain road notorious for disappearances and murders. Choosing empathy over a creeping sense of foreboding, she offers him a ride to the nearest station. That single choice unleashes a harrowing chain of strange and terrifying events in the dead of night, turning a simple gesture of kindness into a real-life nightmare.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 19 November 2026</li><li>Runtime: 90 minutes</li><li>Director: Hana Allomair</li><li>Genres: Horror, Thriller</li></ul>\n<h2>Top cast</h2>\n<ul><li>Adwa Bader as Yumna</li><li>Basil Al-Sole as Asim</li><li>Mohammed Ali as Bader</li><li>Aziz Gharbawi as Hesham</li><li>Shujaa Nashatt as Saad</li><li>Ahmed Al-Bayed as Qasim</li><li>Osamah Almuslim</li><li>Mohammad Al Jabarti</li></ul>\n</article>",
+  "t": "Traveler's Hell (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+  "year": "2026"
+ },
  "movie:1703273": {
   "d": "L'Autre (2026): Thriller/Comedy film. Story: Bedridden following a severe cancer, a man sees his… See cast and release date 14 November 2026.",
   "img": "https://image.tmdb.org/t/p/w780/SI0bfMSGMLXITcuANK15TlBTVz.jpg",
@@ -36799,6 +37089,54 @@
   "t": "Confession (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
   "year": "2026"
  },
+ "movie:1773334": {
+  "d": "Our Holiday Playbook (2026): Romance/TV Movie film. Story: Returning home for Christmas, Lexi recruits a former… See cast and release date 20 November 2026.",
+  "img": "https://image.tmdb.org/t/p/w780/uXMzojW1TAyqlZej4ro5mbj2wli.jpg",
+  "industry": "world",
+  "k": "Our Holiday Playbook, Our Holiday Playbook movie, Our Holiday Playbook cast, Our Holiday Playbook story, Our Holiday Playbook box office collection, Our Holiday Playbook budget, Our Holiday Playbook review, Our Holiday Playbook rating, Our Holiday Playbook release date, Our Holiday Playbook Romance, Our Holiday Playbook TV Movie, international movies, FlickAtlas",
+  "ld": {
+   "@context": "https://schema.org",
+   "@type": "Movie",
+   "actor": [
+    {
+     "@type": "Person",
+     "name": "Charles Michael Davis"
+    },
+    {
+     "@type": "Person",
+     "name": "Taylor Cole"
+    },
+    {
+     "@type": "Person",
+     "name": "Paul McGillion"
+    }
+   ],
+   "description": "Our Holiday Playbook (2026): Romance/TV Movie film. Story: Returning home for Christmas, Lexi recruits a former… See cast and release date 20 November 2026.",
+   "director": [
+    {
+     "@type": "Person",
+     "name": "Terry Ingram"
+    }
+   ],
+   "genre": [
+    "Romance",
+    "TV Movie"
+   ],
+   "image": "https://image.tmdb.org/t/p/w780/uXMzojW1TAyqlZej4ro5mbj2wli.jpg",
+   "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1773334",
+   "name": "Our Holiday Playbook",
+   "releasedEvent": {
+    "@type": "PublicationEvent",
+    "startDate": "2026-11-20"
+   },
+   "url": "https://flickatlas.co.uk/movie?id=1773334"
+  },
+  "modified": "",
+  "published": "2026-11-22",
+  "ssr": "<article class=\"ssr-facts\">\n<h1>Our Holiday Playbook (2026)</h1>\n<p class=\"ssr-lead\">Returning home for Christmas, Lexi recruits a former football star to pose as her boyfriend for her family&#x27;s annual flag football rivalry, but their fake romance soon turns into something real.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 20 November 2026</li><li>Director: Terry Ingram</li><li>Genres: Romance, TV Movie, Comedy</li></ul>\n<h2>Top cast</h2>\n<ul><li>Charles Michael Davis as Eddie</li><li>Taylor Cole as Lexi Bell</li><li>Paul McGillion as Jack</li></ul>\n</article>",
+  "t": "Our Holiday Playbook (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+  "year": "2026"
+ },
  "movie:1773340": {
   "d": "Mistletoe and Mimosas (2026): Romance/Comedy film. Story: After inheriting her uncle's struggling… See cast and release date 15 November 2026.",
   "img": "https://image.tmdb.org/t/p/w780/mUpleDBBpu1W2uzkCO61ccaRTSp.jpg",
@@ -39519,7 +39857,7 @@
   },
   "modified": "",
   "published": "2026-11-15",
-  "ssr": "<article class=\"ssr-facts\">\n<h1>Nice to Meet You, Amigo (2026)</h1>\n<p class=\"ssr-lead\">TTFC-exclusive movie of Super Space Sheriff Gavan Infinity that takes place in a parallel universe, featuring the main cast in different roles: a mysterious alien named Amigo appears before an elementary school student named Taiyo! Amigo, who came to Earth for a certain investigation, asks Taiyo for his cooperation, but Taiyo is completely bewildered by the strange request. Amigo says &quot;On my planet, it&#x27;s so much easier to become friends&quot;, and Taiyo gets dragged into the situation. Will friendship blossom between the boy and the alien?</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 22 November 2026</li><li>Director: Kyouhei Yamaguchi</li><li>Genres: Comedy, Science Fiction</li><li>Status: Post Production</li></ul>\n<h2>Top cast</h2>\n<ul><li>Ayako Kawasumi as Amigo (voice)</li><li>Yahiro Nagase as Taiyo Oizumi</li><li>Ryuga Akahane as Mamoru Oizumi</li><li>Anna Iriyama as Ai Oizumi</li><li>Kokona Sumi as Kokoro Oizumi</li><li>Lana Tanida as Mirai Hoshi</li><li>Kohei Nagata as Kohei Atsui</li><li>Hiroto Yasuda as Yuki Niwa</li><li>Yuta Hiraoka as Karenai Hoshi</li></ul>\n</article>",
+  "ssr": "<article class=\"ssr-facts\">\n<h1>Nice to Meet You, Amigo (2026)</h1>\n<p class=\"ssr-lead\">TTFC-exclusive movie of Super Space Sheriff Gavan Infinity that takes place in a parallel universe, featuring the main cast in different roles: a mysterious alien named Amigo appears before an elementary school student named Taiyo! Amigo, who came to Earth for a certain investigation, asks Taiyo for his cooperation, but Taiyo is completely bewildered by the strange request. Amigo says &quot;On my planet, it&#x27;s so much easier to become friends&quot;, and Taiyo gets dragged into the situation. Will friendship blossom between the boy and the alien?</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 22 November 2026</li><li>Director: Kyouhei Yamaguchi</li><li>Genres: Comedy, Science Fiction</li></ul>\n<h2>Top cast</h2>\n<ul><li>Ayako Kawasumi as Amigo (voice)</li><li>Yahiro Nagase as Taiyo Oizumi</li><li>Ryuga Akahane as Mamoru Oizumi</li><li>Anna Iriyama as Ai Oizumi</li><li>Kokona Sumi as Kokoro Oizumi</li><li>Lana Tanida as Mirai Hoshi</li><li>Kohei Nagata as Kohei Atsui</li><li>Hiroto Yasuda as Yuki Niwa</li><li>Yuta Hiraoka as Karenai Hoshi</li></ul>\n</article>",
   "t": "Nice to Meet You, Amigo (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
   "year": "2026"
  },
@@ -43025,7 +43363,7 @@
   },
   "modified": "",
   "published": "2026-11-15",
-  "ssr": "<article class=\"ssr-facts\">\n<h1>This Land (2026)</h1>\n<p class=\"ssr-lead\">Laura Orson, a disabled elderly woman, has nightmares of a startling creature that begin to haunt her daily life. As she grapples with her guilt over her deceased father, the creature closes in until she has no choice but to ask for help.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 22 November 2026</li><li>Runtime: 14 minutes</li><li>Director: Aiyana Shuler</li><li>Genres: Horror</li><li>Status: In Production</li></ul>\n<h2>Top cast</h2>\n<ul><li>Renee Pezzotta as Laura Orson</li></ul>\n</article>",
+  "ssr": "<article class=\"ssr-facts\">\n<h1>This Land (2026)</h1>\n<p class=\"ssr-lead\">Laura Orson, a disabled elderly woman, has nightmares of a startling creature that begin to haunt her daily life. As she grapples with her guilt over her deceased father, the creature closes in until she has no choice but to ask for help.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 22 November 2026</li><li>Runtime: 14 minutes</li><li>Director: Aiyana Shuler</li><li>Genres: Horror</li></ul>\n<h2>Top cast</h2>\n<ul><li>Renee Pezzotta as Laura Orson</li></ul>\n</article>",
   "t": "This Land (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
   "year": "2026"
  },
@@ -43406,7 +43744,7 @@
   },
   "modified": "",
   "published": "2026-11-15",
-  "ssr": "<article class=\"ssr-facts\">\n<h1>LVX (2026)</h1>\n<p class=\"ssr-lead\">In times of the Belle Époque. Amidst a thriving society a young woman no longer recognizes herself. She has lost her inner light. In her desperation, the woman seeks out a peculiar place where someone has supposedly developed a new method for treating such deep inner darkness.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 22 November 2026</li><li>Runtime: 20 minutes</li><li>Director: Fabian Villiger</li><li>Genres: Drama</li><li>Status: In Production</li></ul>\n<h2>Top cast</h2>\n<ul><li>Christina Brandenberg as Lucy</li><li>André David Winter as Sigmund</li></ul>\n</article>",
+  "ssr": "<article class=\"ssr-facts\">\n<h1>LVX (2026)</h1>\n<p class=\"ssr-lead\">In times of the Belle Époque. Amidst a thriving society a young woman no longer recognizes herself. She has lost her inner light. In her desperation, the woman seeks out a peculiar place where someone has supposedly developed a new method for treating such deep inner darkness.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 22 November 2026</li><li>Runtime: 20 minutes</li><li>Director: Fabian Villiger</li><li>Genres: Drama</li></ul>\n<h2>Top cast</h2>\n<ul><li>Christina Brandenberg as Lucy</li><li>André David Winter as Sigmund</li></ul>\n</article>",
   "t": "LVX (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
   "year": "2026"
  },
@@ -45897,7 +46235,7 @@
   },
   "modified": "",
   "published": "2026-11-15",
-  "ssr": "<article class=\"ssr-facts\">\n<h1>A Song from Beyond (2026)</h1>\n<p class=\"ssr-lead\">One day, when photographer Momoko is eating lunch at a cafe, a university student studying film production asks her to appear in their graduation film. On the day of the shoot, the man cast to play her father turns out to be her real father, who she hasn&#x27;t seen for years.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 22 November 2026</li><li>Runtime: 80 minutes</li><li>Director: Kyoshi Sugita</li><li>Genres: Drama</li><li>Status: Post Production</li></ul>\n<h2>Top cast</h2>\n<ul><li>Saori as Momoko</li><li>Kazuhiro Suzuki as Ippaku, Momoko&#x27;s father</li><li>Yukino Murakami</li></ul>\n</article>",
+  "ssr": "<article class=\"ssr-facts\">\n<h1>A Song from Beyond (2026)</h1>\n<p class=\"ssr-lead\">One day, when photographer Momoko is eating lunch at a cafe, a university student studying film production asks her to appear in their graduation film. On the day of the shoot, the man cast to play her father turns out to be her real father, who she hasn&#x27;t seen for years.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 22 November 2026</li><li>Runtime: 80 minutes</li><li>Director: Kyoshi Sugita</li><li>Genres: Drama</li></ul>\n<h2>Top cast</h2>\n<ul><li>Saori as Momoko</li><li>Kazuhiro Suzuki as Ippaku, Momoko&#x27;s father</li><li>Yukino Murakami</li></ul>\n</article>",
   "t": "A Song from Beyond (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
   "year": "2026"
  },
@@ -47267,7 +47605,7 @@
   },
   "modified": "",
   "published": "2026-11-15",
-  "ssr": "<article class=\"ssr-facts\">\n<h1>Forgotten Founder: The Untold Story of Samson Occom and Dartmouth (2026)</h1>\n<p class=\"ssr-lead\">Despite his central role in the founding of Dartmouth College, Samson Occom, a Mohegan minister, educator and Indigenous intellectual, was erased from the historical record along with the promises made to Native communities.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 22 November 2026</li><li>Runtime: 29 minutes</li><li>Director: Signe Margueritte Taylor, Melissa Tantaquidgeon Zobel</li><li>Status: In Production</li></ul>\n<h2>Top cast</h2>\n<ul><li>Bruce Two Dogs Bozsum as Self</li></ul>\n</article>",
+  "ssr": "<article class=\"ssr-facts\">\n<h1>Forgotten Founder: The Untold Story of Samson Occom and Dartmouth (2026)</h1>\n<p class=\"ssr-lead\">Despite his central role in the founding of Dartmouth College, Samson Occom, a Mohegan minister, educator and Indigenous intellectual, was erased from the historical record along with the promises made to Native communities.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 22 November 2026</li><li>Runtime: 29 minutes</li><li>Director: Signe Margueritte Taylor, Melissa Tantaquidgeon Zobel</li></ul>\n<h2>Top cast</h2>\n<ul><li>Bruce Two Dogs Bozsum as Self</li></ul>\n</article>",
   "t": "Forgotten Founder: The Untold Story of Samson Occom and Dartmouth (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
   "year": "2026"
  },
@@ -53909,7 +54247,7 @@
   },
   "modified": "",
   "published": "2026-11-15",
-  "ssr": "<article class=\"ssr-facts\">\n<h1>In the Sweet Arms (2026)</h1>\n<p class=\"ssr-lead\">When night falls, director Julian Flavin hosts a radio show, pondering the meaning and scope, both latent and overt, of music. Guided by an enthralling voice and a camera that captures time suspended in the city at night, In The Sweet Arms shows music in its most unusual forms: a choir singing to those on their deathbeds, a U.S. Army rock group rehearsal, a superstar moved by the crowd during a concert, a teenager setting Call of Duty clips to music, an AI-generated song mimicking the band that the filmmaker once belonged to. These encounters probe the ideological, social and political dimensions of music and what it reveals about how we see the world.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 22 November 2026</li><li>Runtime: 94 minutes</li><li>Director: Julian Flavin</li><li>Status: In Production</li></ul>\n</article>",
+  "ssr": "<article class=\"ssr-facts\">\n<h1>In the Sweet Arms (2026)</h1>\n<p class=\"ssr-lead\">When night falls, director Julian Flavin hosts a radio show, pondering the meaning and scope, both latent and overt, of music. Guided by an enthralling voice and a camera that captures time suspended in the city at night, In The Sweet Arms shows music in its most unusual forms: a choir singing to those on their deathbeds, a U.S. Army rock group rehearsal, a superstar moved by the crowd during a concert, a teenager setting Call of Duty clips to music, an AI-generated song mimicking the band that the filmmaker once belonged to. These encounters probe the ideological, social and political dimensions of music and what it reveals about how we see the world.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 22 November 2026</li><li>Runtime: 94 minutes</li><li>Director: Julian Flavin</li></ul>\n</article>",
   "t": "In the Sweet Arms (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
   "year": "2026"
  },
@@ -55662,7 +56000,7 @@
   },
   "modified": "",
   "published": "2026-11-15",
-  "ssr": "<article class=\"ssr-facts\">\n<h1>Oly&#x27;s Dean (2026)</h1>\n<p class=\"ssr-lead\">Set along British Columbia’s remote Dean River, the film follows 9-year-old Oly Hickman as he moves through his family’s fishing lodge in the heart of steelhead country.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 22 November 2026</li><li>Runtime: 20 minutes</li><li>Director: Asher Koles</li><li>Genres: Documentary</li><li>Status: In Production</li></ul>\n<h2>Top cast</h2>\n<ul><li>Oly Hickman as Self</li></ul>\n</article>",
+  "ssr": "<article class=\"ssr-facts\">\n<h1>Oly&#x27;s Dean (2026)</h1>\n<p class=\"ssr-lead\">Set along British Columbia’s remote Dean River, the film follows 9-year-old Oly Hickman as he moves through his family’s fishing lodge in the heart of steelhead country.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 22 November 2026</li><li>Runtime: 20 minutes</li><li>Director: Asher Koles</li><li>Genres: Documentary</li></ul>\n<h2>Top cast</h2>\n<ul><li>Oly Hickman as Self</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Eventive</li></ul>\n</article>",
   "t": "Oly's Dean (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
   "year": "2026"
  },
@@ -56002,7 +56340,7 @@
   },
   "modified": "",
   "published": "2026-11-15",
-  "ssr": "<article class=\"ssr-facts\">\n<h1>Lotería (2026)</h1>\n<p class=\"ssr-lead\">East Side High seniors discover a haunted Lotería deck where every card they’re dealt exposes who they truly are and the horrifying way they’ll die.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 22 November 2026</li><li>Director: Daniel Osorio, Nobe</li><li>Genres: Horror</li><li>Status: In Production</li></ul>\n<h2>Top cast</h2>\n<ul><li>Jorge Garcia</li><li>Nicholas Greer as Nick</li><li>Josephine Hernandez</li><li>Dominic Moreno</li><li>Naomi Sacara-Gullov</li><li>Rosa Saldaña</li><li>Himank Sharma</li><li>Ala Walczak as Alice</li><li>Phoenix Campbell as Phoenix</li></ul>\n</article>",
+  "ssr": "<article class=\"ssr-facts\">\n<h1>Lotería (2026)</h1>\n<p class=\"ssr-lead\">East Side High seniors discover a haunted Lotería deck where every card they’re dealt exposes who they truly are and the horrifying way they’ll die.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 22 November 2026</li><li>Director: Daniel Osorio, Nobe</li><li>Genres: Horror</li></ul>\n<h2>Top cast</h2>\n<ul><li>Jorge Garcia</li><li>Nicholas Greer as Nick</li><li>Josephine Hernandez</li><li>Dominic Moreno</li><li>Naomi Sacara-Gullov</li><li>Rosa Saldaña</li><li>Himank Sharma</li><li>Ala Walczak as Alice</li><li>Phoenix Campbell as Phoenix</li></ul>\n</article>",
   "t": "Lotería (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
   "year": "2026"
  },
@@ -56833,6 +57171,66 @@
   "published": "2026-11-19",
   "ssr": "<article class=\"ssr-facts\">\n<h1>Because You&#x27;re Mine (2026)</h1>\n<p class=\"ssr-lead\">In a desperate attempt to find solace, a young man joins a local support group where he meets a stranger whose outward charm masks far darker intentions.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 26 November 2026</li><li>Director: Lilliana Benger, Chloe Evensen</li><li>Genres: Thriller</li><li>Status: In Production</li></ul>\n<h2>Top cast</h2>\n<ul><li>Shaun Gonzalvo as Caleb</li><li>Poppy Marinovich as Quinn</li><li>Jesse Vakatini as Jake</li><li>Amanda Corrie as Phoebe</li></ul>\n</article>",
   "t": "Because You're Mine (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+  "year": "2026"
+ },
+ "movie:1814261": {
+  "d": "Brighter Than Fire (2026): Drama film. Story: At seventeen, HSU I-NING drifts into a precarious… See cast and release date 18 November 2026.",
+  "img": "https://image.tmdb.org/t/p/w780/xcK2IKbs87ObumZWUI36cr4ZxX.jpg",
+  "industry": "world",
+  "k": "Brighter Than Fire, Brighter Than Fire movie, Brighter Than Fire cast, Brighter Than Fire story, Brighter Than Fire box office collection, Brighter Than Fire budget, Brighter Than Fire review, Brighter Than Fire rating, Brighter Than Fire release date, Brighter Than Fire Drama, international movies, FlickAtlas",
+  "ld": {
+   "@context": "https://schema.org",
+   "@type": "Movie",
+   "actor": [
+    {
+     "@type": "Person",
+     "name": "Yao Ai-ning"
+    },
+    {
+     "@type": "Person",
+     "name": "Tseng Hua-hsuan"
+    },
+    {
+     "@type": "Person",
+     "name": "River Huang"
+    }
+   ],
+   "description": "Brighter Than Fire (2026): Drama film. Story: At seventeen, HSU I-NING drifts into a precarious… See cast and release date 18 November 2026.",
+   "director": [
+    {
+     "@type": "Person",
+     "name": "Zhu Linwei"
+    },
+    {
+     "@type": "Person",
+     "name": "Lionel Seah"
+    },
+    {
+     "@type": "Person",
+     "name": "Yu Chih-chieh"
+    },
+    {
+     "@type": "Person",
+     "name": "Li Mengfei"
+    }
+   ],
+   "duration": "PT30M",
+   "genre": [
+    "Drama"
+   ],
+   "image": "https://image.tmdb.org/t/p/w780/xcK2IKbs87ObumZWUI36cr4ZxX.jpg",
+   "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1814261",
+   "name": "Brighter Than Fire",
+   "releasedEvent": {
+    "@type": "PublicationEvent",
+    "startDate": "2026-11-18"
+   },
+   "url": "https://flickatlas.co.uk/movie?id=1814261"
+  },
+  "modified": "",
+  "published": "2026-11-22",
+  "ssr": "<article class=\"ssr-facts\">\n<h1>Brighter Than Fire (2026)</h1>\n<p class=\"ssr-lead\">At seventeen, HSU I-NING drifts into a precarious, power-unequal relationship with her teacher, HSUEH, and meets a mysterious BOY freeing a pomelo from a car on the same night. Ten years later, trapped in a stifling marriage, she reunites with the same mysterious boy. After her husband vanishes, I-Ning returns to the rooftop, where burning pomelo peel reignites her lost self.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 18 November 2026</li><li>Runtime: 30 minutes</li><li>Director: Zhu Linwei, Lionel Seah, Yu Chih-chieh, Li Mengfei</li><li>Genres: Drama</li></ul>\n<h2>Top cast</h2>\n<ul><li>Yao Ai-ning</li><li>Tseng Hua-hsuan</li><li>River Huang</li></ul>\n</article>",
+  "t": "Brighter Than Fire (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
   "year": "2026"
  },
  "movie:1814364": {
@@ -58800,7 +59198,7 @@
   "year": "2026"
  },
  "movie:1815790": {
-  "d": "Ultra Women (2026): Documentary film. Story: The Spine Race is one of the world’s toughest ultra… See cast and release date 22 November 2026.",
+  "d": "Ultra Women (2027): Documentary film. Story: The Spine Race is one of the world’s toughest ultra… See cast and release date 12 February 2027.",
   "img": "https://image.tmdb.org/t/p/w500/v3h8AAsP995H1A8qqPLzMaNSkjX.jpg",
   "industry": "world",
   "k": "Ultra Women, Ultra Women movie, Ultra Women cast, Ultra Women story, Ultra Women box office collection, Ultra Women budget, Ultra Women review, Ultra Women rating, Ultra Women release date, Ultra Women Documentary, international movies, FlickAtlas",
@@ -58825,7 +59223,7 @@
      "name": "Llinos Proctor"
     }
    ],
-   "description": "Ultra Women (2026): Documentary film. Story: The Spine Race is one of the world’s toughest ultra… See cast and release date 22 November 2026.",
+   "description": "Ultra Women (2027): Documentary film. Story: The Spine Race is one of the world’s toughest ultra… See cast and release date 12 February 2027.",
    "director": [
     {
      "@type": "Person",
@@ -58841,15 +59239,15 @@
    "name": "Ultra Women",
    "releasedEvent": {
     "@type": "PublicationEvent",
-    "startDate": "2026-11-22"
+    "startDate": "2027-02-12"
    },
    "url": "https://flickatlas.co.uk/movie?id=1815790"
   },
   "modified": "",
   "published": "2026-11-15",
-  "ssr": "<article class=\"ssr-facts\">\n<h1>Ultra Women (2026)</h1>\n<p class=\"ssr-lead\">The Spine Race is one of the world’s toughest ultra marathons: 268 miles along the backbone of England, through some of the country’s wildest and most unforgiving terrain in the depths of winter. Ultra Women isn&#x27;t just a film about running. It asks a deeper question: why do we choose to push ourselves beyond what seems possible? Following the stories of Anna, Llinos, Allie and Sal, we explore what drives four women to take on a challenge that takes them to their physical and emotional limits. Through exhaustion, injury, doubt and moments of unexpected strength, four very different journeys reveal what it really takes to face the winter Spine race.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 22 November 2026</li><li>Runtime: 40 minutes</li><li>Director: Lizzie Jenkins</li><li>Genres: Documentary</li><li>Status: In Production</li></ul>\n<h2>Top cast</h2>\n<ul><li>Anna Troup as Self</li><li>Sal Thornton as Self</li><li>Allie Bailey as Self</li><li>Llinos Proctor as Self</li></ul>\n</article>",
-  "t": "Ultra Women (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
-  "year": "2026"
+  "ssr": "<article class=\"ssr-facts\">\n<h1>Ultra Women (2027)</h1>\n<p class=\"ssr-lead\">The Spine Race is one of the world’s toughest ultra marathons: 268 miles along the backbone of England, through some of the country’s wildest and most unforgiving terrain in the depths of winter. Ultra Women isn&#x27;t just a film about running. It asks a deeper question: why do we choose to push ourselves beyond what seems possible? Following the stories of Anna, Llinos, Allie and Sal, we explore what drives four women to take on a challenge that takes them to their physical and emotional limits. Through exhaustion, injury, doubt and moments of unexpected strength, four very different journeys reveal what it really takes to face the winter Spine race.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 12 February 2027</li><li>Runtime: 40 minutes</li><li>Director: Lizzie Jenkins</li><li>Genres: Documentary</li></ul>\n<h2>Top cast</h2>\n<ul><li>Anna Troup as Self</li><li>Sal Thornton as Self</li><li>Allie Bailey as Self</li><li>Llinos Proctor as Self</li></ul>\n</article>",
+  "t": "Ultra Women (2027) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+  "year": "2027"
  },
  "movie:1815821": {
   "d": "One Minute (2026): Drama film. Story: During a brief stop in the heart of a forest, Selvan… See cast, budget $2, and release date 19 November 2026.",
@@ -60075,6 +60473,54 @@
   "t": "Sguardi (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
   "year": "2026"
  },
+ "movie:1818534": {
+  "d": "Under the Rain (2026) is a film. See cast and release date 29 November 2026.",
+  "img": "https://image.tmdb.org/t/p/w500/iYWDAc7lL6gbgo92N6VMPQ1EaJA.jpg",
+  "industry": "world",
+  "k": "Under the Rain, Under the Rain movie, Under the Rain cast, Under the Rain story, Under the Rain box office collection, Under the Rain budget, Under the Rain review, Under the Rain rating, Under the Rain release date, international movies, FlickAtlas",
+  "ld": {
+   "@context": "https://schema.org",
+   "@type": "Movie",
+   "actor": [
+    {
+     "@type": "Person",
+     "name": "Vincent Riotta"
+    },
+    {
+     "@type": "Person",
+     "name": "Giuseppe Battiston"
+    },
+    {
+     "@type": "Person",
+     "name": "Connie Nielsen"
+    },
+    {
+     "@type": "Person",
+     "name": "Francesco Pannofino"
+    }
+   ],
+   "description": "Under the Rain (2026) is a film. See cast and release date 29 November 2026.",
+   "director": [
+    {
+     "@type": "Person",
+     "name": "Fabrizio Maria Cortese"
+    }
+   ],
+   "image": "https://image.tmdb.org/t/p/w500/iYWDAc7lL6gbgo92N6VMPQ1EaJA.jpg",
+   "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1818534",
+   "name": "Under the Rain",
+   "releasedEvent": {
+    "@type": "PublicationEvent",
+    "startDate": "2026-11-29"
+   },
+   "url": "https://flickatlas.co.uk/movie?id=1818534"
+  },
+  "modified": "",
+  "published": "2026-11-22",
+  "ssr": "<article class=\"ssr-facts\">\n<h1>Under the Rain (2026)</h1>\n<h2>Key facts</h2>\n<ul><li>Release date: 29 November 2026</li><li>Director: Fabrizio Maria Cortese</li><li>Status: In Production</li></ul>\n<h2>Top cast</h2>\n<ul><li>Vincent Riotta</li><li>Giuseppe Battiston</li><li>Connie Nielsen</li><li>Francesco Pannofino</li></ul>\n</article>",
+  "t": "Under the Rain (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+  "year": "2026"
+ },
  "movie:1818583": {
   "d": "Rondolino Docet (2026) is a film. See cast and release date 26 November 2026.",
   "img": "https://image.tmdb.org/t/p/w500/9IYE81ViFWgEVVswHQuc0qXFY8Y.jpg",
@@ -60323,6 +60769,59 @@
   "published": "2026-11-06",
   "ssr": "<article class=\"ssr-facts\">\n<h1>Vincent Niclo et le Choeur symphonique : Bel Canto Tour (2026)</h1>\n<h2>Key facts</h2>\n<ul><li>Release date: 13 November 2026</li><li>Director: Richard Michel</li><li>Genres: Music</li></ul>\n<h2>Top cast</h2>\n<ul><li>Vincent Niclo as Self</li></ul>\n</article>",
   "t": "Vincent Niclo et le Choeur symphonique : Bel Canto Tour (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+  "year": "2026"
+ },
+ "movie:1819257": {
+  "d": "Nothing Hurts Forever (2026): Drama/Family film. Story: A teenager struggles to find his place alongside his… See cast and budget $15.0k.",
+  "img": "https://image.tmdb.org/t/p/w500/Vriv4HOUVqiUzzrG94ce7XvVWL.jpg",
+  "industry": "world",
+  "k": "Nothing Hurts Forever, Nothing Hurts Forever movie, Nothing Hurts Forever cast, Nothing Hurts Forever story, Nothing Hurts Forever box office collection, Nothing Hurts Forever budget, Nothing Hurts Forever review, Nothing Hurts Forever rating, Nothing Hurts Forever release date, Nothing Hurts Forever Drama, Nothing Hurts Forever Family, international movies, FlickAtlas",
+  "ld": {
+   "@context": "https://schema.org",
+   "@type": "Movie",
+   "actor": [
+    {
+     "@type": "Person",
+     "name": "Rover de Hauwere"
+    },
+    {
+     "@type": "Person",
+     "name": "Tibbe Walckiers"
+    },
+    {
+     "@type": "Person",
+     "name": "Leen Diependaele"
+    },
+    {
+     "@type": "Person",
+     "name": "Stephane Croughs"
+    }
+   ],
+   "description": "Nothing Hurts Forever (2026): Drama/Family film. Story: A teenager struggles to find his place alongside his… See cast and budget $15.0k.",
+   "director": [
+    {
+     "@type": "Person",
+     "name": "Pierre Dhondt"
+    }
+   ],
+   "duration": "PT17M",
+   "genre": [
+    "Drama",
+    "Family"
+   ],
+   "image": "https://image.tmdb.org/t/p/w500/Vriv4HOUVqiUzzrG94ce7XvVWL.jpg",
+   "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1819257",
+   "name": "Nothing Hurts Forever",
+   "releasedEvent": {
+    "@type": "PublicationEvent",
+    "startDate": "2026-11-29"
+   },
+   "url": "https://flickatlas.co.uk/movie?id=1819257"
+  },
+  "modified": "",
+  "published": "2026-11-22",
+  "ssr": "<article class=\"ssr-facts\">\n<h1>Nothing Hurts Forever (2026)</h1>\n<p class=\"ssr-lead\">A teenager struggles to find his place alongside his older brother, whose past struggles with addiction cast a shadow over their relationship. Their bond shifts between admiration, affection and distance. Set against the rolling hills surrounding Ronse, the film tells a story of brotherhood, growing up and everything that remains unspoken.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 29 November 2026</li><li>Runtime: 17 minutes</li><li>Director: Pierre Dhondt</li><li>Genres: Drama, Family</li><li>Budget: $15.0k</li><li>Status: Planned</li></ul>\n<h2>Top cast</h2>\n<ul><li>Rover de Hauwere as Kamiel</li><li>Tibbe Walckiers as Basiel</li><li>Leen Diependaele as Mama</li><li>Stephane Croughs as Papa</li></ul>\n</article>",
+  "t": "Nothing Hurts Forever (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
   "year": "2026"
  },
  "movie:1819266": {
@@ -60725,7 +61224,7 @@
   },
   "modified": "",
   "published": "2026-11-15",
-  "ssr": "<article class=\"ssr-facts\">\n<h1>Neska bat desagertu da (2026)</h1>\n<p class=\"ssr-lead\">People, objects, and places have changed the way they relate—or at least, that’s how Oihana perceives it. Now the emptiness takes up space. A path, a window, a bed, a wardrobe, a mirror. With these, and what fits into a hiking backpack, she has all she needs to reset her coordinates and rest.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 22 November 2026</li><li>Runtime: 20 minutes</li><li>Director: Mikele Landa Eiguren</li><li>Genres: Drama</li><li>Status: In Production</li></ul>\n</article>",
+  "ssr": "<article class=\"ssr-facts\">\n<h1>Neska bat desagertu da (2026)</h1>\n<p class=\"ssr-lead\">People, objects, and places have changed the way they relate—or at least, that’s how Oihana perceives it. Now the emptiness takes up space. A path, a window, a bed, a wardrobe, a mirror. With these, and what fits into a hiking backpack, she has all she needs to reset her coordinates and rest.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 22 November 2026</li><li>Runtime: 20 minutes</li><li>Director: Mikele Landa Eiguren</li><li>Genres: Drama</li></ul>\n</article>",
   "t": "Neska bat desagertu da (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
   "year": "2026"
  },
@@ -60763,7 +61262,7 @@
   },
   "modified": "",
   "published": "2026-11-15",
-  "ssr": "<article class=\"ssr-facts\">\n<h1>Guretako eztia (2026)</h1>\n<p class=\"ssr-lead\">Through a series of encounters between a researcher, a beekeeper, and a group of children, the film explores the intertwined relationships between bees, beeswax, and mourning in the Basque Country.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 22 November 2026</li><li>Runtime: 11 minutes</li><li>Director: Violette Bellet, Maia Iribarne</li><li>Genres: Documentary</li><li>Status: In Production</li></ul>\n</article>",
+  "ssr": "<article class=\"ssr-facts\">\n<h1>Guretako eztia (2026)</h1>\n<p class=\"ssr-lead\">Through a series of encounters between a researcher, a beekeeper, and a group of children, the film explores the intertwined relationships between bees, beeswax, and mourning in the Basque Country.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 22 November 2026</li><li>Runtime: 11 minutes</li><li>Director: Violette Bellet, Maia Iribarne</li><li>Genres: Documentary</li></ul>\n</article>",
   "t": "Guretako eztia (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
   "year": "2026"
  },
@@ -60876,7 +61375,7 @@
   },
   "modified": "",
   "published": "2026-11-15",
-  "ssr": "<article class=\"ssr-facts\">\n<h1>Soy Boy: The Soyfather (2026)</h1>\n<p class=\"ssr-lead\">An absurdist neo-noir comedy about two rival Soy Sauce distributors. Using student politics, manipulation and violence to get their revenge.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 22 November 2026</li><li>Runtime: 70 minutes</li><li>Director: Sam Haley</li><li>Genres: Comedy, Crime</li><li>Budget: $1.0k</li><li>Status: In Production</li></ul>\n<h2>Top cast</h2>\n<ul><li>David Ilijevski as David Ilijevski</li><li>Joshua Hughes as Joshua Hughes</li><li>Calder Hosgood as Calder</li><li>William Cohen as William Cohen</li><li>Max Murrell as Max Murrell</li><li>Sam King as Max Murrell (Recast)</li><li>Tsuyoshi Bigmore as Student 1</li><li>Harrison Ding as Student 2</li><li>Oscar Slaviero as Oscar Slaviero</li><li>Tristan Storey as Guard</li></ul>\n</article>",
+  "ssr": "<article class=\"ssr-facts\">\n<h1>Soy Boy: The Soyfather (2026)</h1>\n<p class=\"ssr-lead\">An absurdist neo-noir comedy about two rival Soy Sauce distributors. Using student politics, manipulation and violence to get their revenge.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 22 November 2026</li><li>Runtime: 70 minutes</li><li>Director: Sam Haley</li><li>Genres: Comedy, Crime</li><li>Budget: $1.0k</li></ul>\n<h2>Top cast</h2>\n<ul><li>David Ilijevski as David Ilijevski</li><li>Joshua Hughes as Joshua Hughes</li><li>Calder Hosgood as Calder</li><li>William Cohen as William Cohen</li><li>Max Murrell as Max Murrell</li><li>Sam King as Max Murrell (Recast)</li><li>Tsuyoshi Bigmore as Student 1</li><li>Harrison Ding as Student 2</li><li>Oscar Slaviero as Oscar Slaviero</li><li>Tristan Storey as Guard</li></ul>\n</article>",
   "t": "Soy Boy: The Soyfather (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
   "year": "2026"
  },
@@ -61241,6 +61740,54 @@
   "t": "The Mad Pooper (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
   "year": "2026"
  },
+ "movie:1820396": {
+  "d": "Ultramarine Blue, Pearl White, and a Hint of Honey Yellow (2026): Drama film. Story: “Art does not come from happiness:” this is the… See cast.",
+  "img": "https://image.tmdb.org/t/p/w500/jQfUohx1eqaLZpaPFKOOgSTwcD5.jpg",
+  "industry": "world",
+  "k": "Ultramarine Blue, Pearl White, and a Hint of Honey Yellow, Ultramarine Blue, Pearl White, and a Hint of Honey Yellow movie, Ultramarine Blue, Pearl White, and a Hint of Honey Yellow cast, Ultramarine Blue, Pearl White, and a Hint of Honey Yellow story, Ultramarine Blue, Pearl White, and a Hint of Honey Yellow box office collection, Ultramarine Blue, Pearl White, and a Hint of Honey Yellow budget, Ultramarine Blue, Pearl White, and a Hint of Honey Yellow review, Ultramarine Blue, Pearl White, and a Hint of Honey Yellow rating, Ultramarine Blue, Pearl White, and a Hint of Honey Yellow release date, Ultramarine Blue, Pearl White, and a Hint of Honey Yellow Drama, international movies, FlickAtlas",
+  "ld": {
+   "@context": "https://schema.org",
+   "@type": "Movie",
+   "actor": [
+    {
+     "@type": "Person",
+     "name": "Francesco Gheghi"
+    },
+    {
+     "@type": "Person",
+     "name": "Carlotta Gamba"
+    },
+    {
+     "@type": "Person",
+     "name": "Enrico Borello"
+    }
+   ],
+   "description": "Ultramarine Blue, Pearl White, and a Hint of Honey Yellow (2026): Drama film. Story: “Art does not come from happiness:” this is the… See cast.",
+   "director": [
+    {
+     "@type": "Person",
+     "name": "Francesco Gheghi"
+    }
+   ],
+   "duration": "PT21M",
+   "genre": [
+    "Drama"
+   ],
+   "image": "https://image.tmdb.org/t/p/w500/jQfUohx1eqaLZpaPFKOOgSTwcD5.jpg",
+   "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1820396",
+   "name": "Ultramarine Blue, Pearl White, and a Hint of Honey Yellow",
+   "releasedEvent": {
+    "@type": "PublicationEvent",
+    "startDate": "2026-11-29"
+   },
+   "url": "https://flickatlas.co.uk/movie?id=1820396"
+  },
+  "modified": "",
+  "published": "2026-11-22",
+  "ssr": "<article class=\"ssr-facts\">\n<h1>Ultramarine Blue, Pearl White, and a Hint of Honey Yellow (2026)</h1>\n<p class=\"ssr-lead\">“Art does not come from happiness:” this is the belief of Ennio, a talented young painter. After reaching the lowest point of his sadness, he is convinced that he will succeed in creating a great work of art… But no, he fails, he has lost his inspiration.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 29 November 2026</li><li>Runtime: 21 minutes</li><li>Director: Francesco Gheghi</li><li>Genres: Drama</li><li>Status: Post Production</li></ul>\n<h2>Top cast</h2>\n<ul><li>Francesco Gheghi</li><li>Carlotta Gamba</li><li>Enrico Borello</li></ul>\n</article>",
+  "t": "Ultramarine Blue, Pearl White, and a Hint of Honey Yellow (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+  "year": "2026"
+ },
  "movie:1820426": {
   "d": "I’m Having Second Thoughts in my Great Aunt’s Bathroom (2026): Animation film. Story: Liss visits her Great Aunt for a cup of tea, with an… See cast.",
   "img": "https://image.tmdb.org/t/p/w500/rSx0bB1W3FmyBMlP8NsakRZaBBz.jpg",
@@ -61472,6 +62019,62 @@
   "t": "Some Pages, Some People (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
   "year": "2026"
  },
+ "movie:1820637": {
+  "d": "Priyanka! What's My Name? (2026): Documentary film. Story: After hitting a breaking point, drag superstar… See cast and release date 29 November 2026.",
+  "img": "https://image.tmdb.org/t/p/w780/2Vc2pLV3gFLYB1N8CIc6XGPAe8f.jpg",
+  "industry": "world",
+  "k": "Priyanka! What's My Name?, Priyanka! What's My Name? movie, Priyanka! What's My Name? cast, Priyanka! What's My Name? story, Priyanka! What's My Name? box office collection, Priyanka! What's My Name? budget, Priyanka! What's My Name? review, Priyanka! What's My Name? rating, Priyanka! What's My Name? release date, Priyanka! What's My Name? Documentary, international movies, FlickAtlas",
+  "ld": {
+   "@context": "https://schema.org",
+   "@type": "Movie",
+   "actor": [
+    {
+     "@type": "Person",
+     "name": "Priyanka"
+    },
+    {
+     "@type": "Person",
+     "name": "bbno$"
+    },
+    {
+     "@type": "Person",
+     "name": "Rhea Raj"
+    },
+    {
+     "@type": "Person",
+     "name": "Sasha Velour"
+    },
+    {
+     "@type": "Person",
+     "name": "Scott Hoying"
+    }
+   ],
+   "description": "Priyanka! What's My Name? (2026): Documentary film. Story: After hitting a breaking point, drag superstar… See cast and release date 29 November 2026.",
+   "director": [
+    {
+     "@type": "Person",
+     "name": "Simon Paluck"
+    }
+   ],
+   "duration": "PT44M",
+   "genre": [
+    "Documentary"
+   ],
+   "image": "https://image.tmdb.org/t/p/w780/2Vc2pLV3gFLYB1N8CIc6XGPAe8f.jpg",
+   "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1820637",
+   "name": "Priyanka! What's My Name?",
+   "releasedEvent": {
+    "@type": "PublicationEvent",
+    "startDate": "2026-11-29"
+   },
+   "url": "https://flickatlas.co.uk/movie?id=1820637"
+  },
+  "modified": "",
+  "published": "2026-11-22",
+  "ssr": "<article class=\"ssr-facts\">\n<h1>Priyanka! What&#x27;s My Name? (2026)</h1>\n<p class=\"ssr-lead\">After hitting a breaking point, drag superstar Priyanka is forced to reevaluate her life, identity, and relationships.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 29 November 2026</li><li>Runtime: 44 minutes</li><li>Director: Simon Paluck</li><li>Genres: Documentary</li><li>Status: In Production</li></ul>\n<h2>Top cast</h2>\n<ul><li>Priyanka as Self</li><li>bbno$ as Self</li><li>Rhea Raj as Self</li><li>Sasha Velour as Self</li><li>Scott Hoying as Self</li><li>Brooke Lynn Hytes as Self</li><li>Traci Melchor as Self</li><li>Lisa Gilroy as Self</li><li>Carlos Bustamante as Self</li><li>Jimbo as Self</li></ul>\n</article>",
+  "t": "Priyanka! What's My Name? (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+  "year": "2026"
+ },
  "movie:1820765": {
   "d": "Huellas (2026): Drama film. Story: A drama with significant social impact that seeks to… See cast and release date 25 November 2026.",
   "img": "https://image.tmdb.org/t/p/w500/fUa66HJg4J8BJfNo3eo2yLZnLjY.jpg",
@@ -61546,6 +62149,47 @@
   "published": "2026-11-21",
   "ssr": "<article class=\"ssr-facts\">\n<h1>いかさま隆二と裏切り純子 (2026)</h1>\n<h2>Key facts</h2>\n<ul><li>Release date: 28 November 2026</li><li>Runtime: 75 minutes</li><li>Director: マツヲトシヒコ</li><li>Status: In Production</li></ul>\n<h2>Top cast</h2>\n<ul><li>Yuto Nakayama</li></ul>\n</article>",
   "t": "いかさま隆二と裏切り純子 (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+  "year": "2026"
+ },
+ "movie:1820871": {
+  "d": "Victor the Virus King (2026): Animation/Comedy film. Story: Victor, the king of all viruses, is determined to… See cast and release date 29 November 2026.",
+  "img": "https://image.tmdb.org/t/p/w500/qr16i8fSl3h7FnxTQZ652hIPcnT.jpg",
+  "industry": "world",
+  "k": "Victor the Virus King, Victor the Virus King movie, Victor the Virus King cast, Victor the Virus King story, Victor the Virus King box office collection, Victor the Virus King budget, Victor the Virus King review, Victor the Virus King rating, Victor the Virus King release date, Victor the Virus King Animation, Victor the Virus King Comedy, international movies, FlickAtlas",
+  "ld": {
+   "@context": "https://schema.org",
+   "@type": "Movie",
+   "actor": [
+    {
+     "@type": "Person",
+     "name": "Michaela Schiffl"
+    }
+   ],
+   "description": "Victor the Virus King (2026): Animation/Comedy film. Story: Victor, the king of all viruses, is determined to… See cast and release date 29 November 2026.",
+   "director": [
+    {
+     "@type": "Person",
+     "name": "Fiona Bredebusch"
+    }
+   ],
+   "duration": "PT3M",
+   "genre": [
+    "Animation",
+    "Comedy"
+   ],
+   "image": "https://image.tmdb.org/t/p/w500/qr16i8fSl3h7FnxTQZ652hIPcnT.jpg",
+   "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1820871",
+   "name": "Victor the Virus King",
+   "releasedEvent": {
+    "@type": "PublicationEvent",
+    "startDate": "2026-11-29"
+   },
+   "url": "https://flickatlas.co.uk/movie?id=1820871"
+  },
+  "modified": "",
+  "published": "2026-11-22",
+  "ssr": "<article class=\"ssr-facts\">\n<h1>Victor the Virus King (2026)</h1>\n<p class=\"ssr-lead\">Victor, the king of all viruses, is determined to unleash a new pandemic. To achieve this, he sends his legion though sliding doors into the the world to infect humanity. Proudly, he watches as his plan gradually becomes reality and his legion continue to spread further and further. But beyond the boundaries of his kingdom, a truth awaits that change everything…</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 29 November 2026</li><li>Runtime: 3 minutes</li><li>Director: Fiona Bredebusch</li><li>Genres: Animation, Comedy</li><li>Status: In Production</li></ul>\n<h2>Top cast</h2>\n<ul><li>Michaela Schiffl as Victor (voice)</li></ul>\n</article>",
+  "t": "Victor the Virus King (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
   "year": "2026"
  },
  "movie:1820980": {
@@ -62024,7 +62668,7 @@
   },
   "modified": "",
   "published": "2026-11-15",
-  "ssr": "<article class=\"ssr-facts\">\n<h1>FOOSED (2026)</h1>\n<p class=\"ssr-lead\">Johnny Johnson wants to be a foosball legend, like his dad. There’s just one problem- he’s really, REALLY bad at foosball. Also, his mother wants him to continue working at her diner instead of playing a silly game. So when Johnny runs into his dad’s former coach, he is determined to train in secret in order to play in the upcoming tournament - because when you foose, you never lose. Inspired by the 2022 unfinished MG&amp;J Studios short film of the same name, FOOSED has everything you want in an underdog story - and more!</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 22 November 2026</li><li>Runtime: 38 minutes</li><li>Director: Marley Eickelberg</li><li>Genres: Comedy, Drama</li><li>Status: In Production</li></ul>\n<h2>Top cast</h2>\n<ul><li>Gavin Eickelberg as Johnny Johnson</li><li>Marley Eickelberg as Coach Harry Pitts</li><li>Jovie Eickelberg as Johnny&#x27;s Mom</li><li>Andrew O&#x27;Neil as Paul</li><li>Nathan Fitch as Herb</li><li>Nora Spooner as Martha</li><li>Evan Friesen as Brunt Chair</li><li>Lars Dodd as Coach Vladimir</li><li>Elle Wedeking as Caroleena Schmubertte</li><li>Andrew Ver Ploeg as Referee</li></ul>\n</article>",
+  "ssr": "<article class=\"ssr-facts\">\n<h1>FOOSED (2026)</h1>\n<p class=\"ssr-lead\">Johnny Johnson wants to be a foosball legend, like his dad. There’s just one problem- he’s really, REALLY bad at foosball. Also, his mother wants him to continue working at her diner instead of playing a silly game. So when Johnny runs into his dad’s former coach, he is determined to train in secret in order to play in the upcoming tournament - because when you foose, you never lose. Inspired by the 2022 unfinished MG&amp;J Studios short film of the same name, FOOSED has everything you want in an underdog story - and more!</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 22 November 2026</li><li>Runtime: 38 minutes</li><li>Director: Marley Eickelberg</li><li>Genres: Comedy, Drama</li></ul>\n<h2>Top cast</h2>\n<ul><li>Gavin Eickelberg as Johnny Johnson</li><li>Marley Eickelberg as Coach Harry Pitts</li><li>Jovie Eickelberg as Johnny&#x27;s Mom</li><li>Andrew O&#x27;Neil as Paul</li><li>Nathan Fitch as Herb</li><li>Nora Spooner as Martha</li><li>Evan Friesen as Brunt Chair</li><li>Lars Dodd as Coach Vladimir</li><li>Elle Wedeking as Caroleena Schmubertte</li><li>Andrew Ver Ploeg as Referee</li></ul>\n</article>",
   "t": "FOOSED (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
   "year": "2026"
  },
@@ -62151,6 +62795,62 @@
   "t": "Beyond the beyond (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
   "year": "2026"
  },
+ "movie:1821960": {
+  "d": "Unspoken (2026): Drama film. Story: After being separated for many years, orphans Thandi… See cast and release date 29 November 2026.",
+  "img": "https://image.tmdb.org/t/p/w780/50EN8B3yjnQ8QO8UWzlCjCycmlk.jpg",
+  "industry": "world",
+  "k": "Unspoken, Unspoken movie, Unspoken cast, Unspoken story, Unspoken box office collection, Unspoken budget, Unspoken review, Unspoken rating, Unspoken release date, Unspoken Drama, international movies, FlickAtlas",
+  "ld": {
+   "@context": "https://schema.org",
+   "@type": "Movie",
+   "actor": [
+    {
+     "@type": "Person",
+     "name": "Siphokazi Khuboni"
+    },
+    {
+     "@type": "Person",
+     "name": "Vuyo Sekonyela"
+    },
+    {
+     "@type": "Person",
+     "name": "Fezeka Nontlanga"
+    },
+    {
+     "@type": "Person",
+     "name": "Qhayiya Ngwane"
+    },
+    {
+     "@type": "Person",
+     "name": "Zolile Ntaka-Lock"
+    }
+   ],
+   "description": "Unspoken (2026): Drama film. Story: After being separated for many years, orphans Thandi… See cast and release date 29 November 2026.",
+   "director": [
+    {
+     "@type": "Person",
+     "name": "Stephen Nagel"
+    }
+   ],
+   "duration": "PT13M",
+   "genre": [
+    "Drama"
+   ],
+   "image": "https://image.tmdb.org/t/p/w780/50EN8B3yjnQ8QO8UWzlCjCycmlk.jpg",
+   "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1821960",
+   "name": "Unspoken",
+   "releasedEvent": {
+    "@type": "PublicationEvent",
+    "startDate": "2026-11-29"
+   },
+   "url": "https://flickatlas.co.uk/movie?id=1821960"
+  },
+  "modified": "",
+  "published": "2026-11-22",
+  "ssr": "<article class=\"ssr-facts\">\n<h1>Unspoken (2026)</h1>\n<p class=\"ssr-lead\">After being separated for many years, orphans Thandi and Lunghelo meet up for a coffee. But they don&#x27;t speak the same language anymore. Their sibling bond is tested as they try to reconnect.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 29 November 2026</li><li>Runtime: 13 minutes</li><li>Director: Stephen Nagel</li><li>Genres: Drama</li><li>Status: Planned</li></ul>\n<h2>Top cast</h2>\n<ul><li>Siphokazi Khuboni as Thandi</li><li>Vuyo Sekonyela as Lunghelo</li><li>Fezeka Nontlanga as Nomakhaya</li><li>Qhayiya Ngwane as Young Thandi</li><li>Zolile Ntaka-Lock as Young Lunghelo</li></ul>\n</article>",
+  "t": "Unspoken (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+  "year": "2026"
+ },
  "movie:1821967": {
   "d": "Disharmony (2026): Drama film. Story: During one night in an alternative bar, young Alex… See cast and release date 21 November 2026.",
   "img": "https://image.tmdb.org/t/p/w780/tvZ0AJyV2tpjaO0jBziy86Z2984.jpg",
@@ -62247,7 +62947,7 @@
   },
   "modified": "",
   "published": "2026-11-15",
-  "ssr": "<article class=\"ssr-facts\">\n<h1>DRACHEN (2026)</h1>\n<h2>Key facts</h2>\n<ul><li>Release date: 22 November 2026</li><li>Director: Emely Göttsche, Pauline Göttsche</li><li>Status: In Production</li></ul>\n<h2>Top cast</h2>\n<ul><li>Emely Göttsche as Junge Frau</li><li>Sascha Göttsche as Vater</li><li>Beeke as Mädchen</li></ul>\n</article>",
+  "ssr": "<article class=\"ssr-facts\">\n<h1>DRACHEN (2026)</h1>\n<h2>Key facts</h2>\n<ul><li>Release date: 22 November 2026</li><li>Director: Emely Göttsche, Pauline Göttsche</li></ul>\n<h2>Top cast</h2>\n<ul><li>Emely Göttsche as Junge Frau</li><li>Sascha Göttsche as Vater</li><li>Beeke as Mädchen</li></ul>\n</article>",
   "t": "DRACHEN (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
   "year": "2026"
  },
@@ -62396,6 +63096,63 @@
   "published": "2026-11-12",
   "ssr": "<article class=\"ssr-facts\">\n<h1>Marseille, la révolution Tapie (2026)</h1>\n<h2>Key facts</h2>\n<ul><li>Release date: 19 November 2026</li><li>Director: Julien Lafont, Benjamin Courmes</li><li>Genres: Documentary</li></ul>\n<h2>Top cast</h2>\n<ul><li>Bernard Tapie as Self (archive footage)</li><li>Dominique Tapie as Self (archive footage)</li><li>Jean-Pierre Papin as Self</li><li>Eric Di Meco as Self</li><li>Gérard Gili as Self</li><li>Christophe Galtier as Self</li><li>Rachid Zéroual as Self</li><li>Michel Platini as Self (archive footage)</li><li>José Anigo as Self (archive footage)</li><li>Dimitri Payet as Self (archive footage)</li></ul>\n</article>",
   "t": "Marseille, la révolution Tapie (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+  "year": "2026"
+ },
+ "movie:1822090": {
+  "d": "Submission (2026): Horror/Science Fiction film. Story: Four students return to their school after hours to… See cast and release date 29 November 2026.",
+  "img": "https://image.tmdb.org/t/p/w780/uli2MM5sglWYD4HM7fjKZoaX6KG.jpg",
+  "industry": "world",
+  "k": "Submission, Submission movie, Submission cast, Submission story, Submission box office collection, Submission budget, Submission review, Submission rating, Submission release date, Submission Horror, Submission Science Fiction, international movies, FlickAtlas",
+  "ld": {
+   "@context": "https://schema.org",
+   "@type": "Movie",
+   "actor": [
+    {
+     "@type": "Person",
+     "name": "Ryan J. Bielik"
+    },
+    {
+     "@type": "Person",
+     "name": "Wyatt Grant"
+    },
+    {
+     "@type": "Person",
+     "name": "Lauren Perry"
+    },
+    {
+     "@type": "Person",
+     "name": "Georgia Glass"
+    },
+    {
+     "@type": "Person",
+     "name": "Sofia Saunders"
+    }
+   ],
+   "description": "Submission (2026): Horror/Science Fiction film. Story: Four students return to their school after hours to… See cast and release date 29 November 2026.",
+   "director": [
+    {
+     "@type": "Person",
+     "name": "Sid Bhatia"
+    }
+   ],
+   "duration": "PT12M",
+   "genre": [
+    "Horror",
+    "Science Fiction"
+   ],
+   "image": "https://image.tmdb.org/t/p/w780/uli2MM5sglWYD4HM7fjKZoaX6KG.jpg",
+   "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1822090",
+   "name": "Submission",
+   "releasedEvent": {
+    "@type": "PublicationEvent",
+    "startDate": "2026-11-29"
+   },
+   "url": "https://flickatlas.co.uk/movie?id=1822090"
+  },
+  "modified": "",
+  "published": "2026-11-22",
+  "ssr": "<article class=\"ssr-facts\">\n<h1>Submission (2026)</h1>\n<p class=\"ssr-lead\">Four students return to their school after hours to film a project, but what starts as a simple shoot quickly turns into something sinister. As unsettling occurrences disrupt their night, they begin to realize that some things are better left undisturbed.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 29 November 2026</li><li>Runtime: 12 minutes</li><li>Director: Sid Bhatia</li><li>Genres: Horror, Science Fiction</li><li>Status: In Production</li></ul>\n<h2>Top cast</h2>\n<ul><li>Ryan J. Bielik as Noah</li><li>Wyatt Grant as Jason</li><li>Lauren Perry as Maya</li><li>Georgia Glass as Leah</li><li>Sofia Saunders as PA System</li></ul>\n</article>",
+  "t": "Submission (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
   "year": "2026"
  },
  "movie:1822294": {
@@ -62596,6 +63353,50 @@
   "published": "2026-11-10",
   "ssr": "<article class=\"ssr-facts\">\n<h1>Vandycorn (2026)</h1>\n<p class=\"ssr-lead\">As recent heir of the Vandycorn company, Cash J. Butters explores cheaper ways to run the family business.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 17 November 2026</li><li>Runtime: 25 minutes</li><li>Director: Noah Randle, Ryder Jensen</li><li>Genres: Comedy, Horror, Science Fiction</li><li>Budget: $6.4k</li><li>TMDB rating: 10.0/10 (1 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Paul Zachos as The Chemist</li><li>Bentley Little as Cash J. Butters</li><li>Ken McKinney as Vandy Kernel Butters</li><li>Michelle Ford as Myrtle Butters</li><li>Haley Myers as Bella Butters</li><li>Jacob Bell as Child</li><li>Chris Wolf as Dumpster Diver</li><li>Eli Minor as Volunteer Test Subject One</li><li>Knox Arthur as Volunteer Test Subject Two</li><li>Cecilia Bontekoe as Volunteer Test Subject Three</li></ul>\n</article>",
   "t": "Vandycorn (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+  "year": "2026"
+ },
+ "movie:1822515": {
+  "d": "The Wolf of Verdun (2026): Thriller film. Story: After an explosion strands two enemy soldiers during… See cast and budget $1.8k.",
+  "img": "https://image.tmdb.org/t/p/w780/jwJncrMYjKENtKD7NbZRA830TW0.jpg",
+  "industry": "world",
+  "k": "The Wolf of Verdun, The Wolf of Verdun movie, The Wolf of Verdun cast, The Wolf of Verdun story, The Wolf of Verdun box office collection, The Wolf of Verdun budget, The Wolf of Verdun review, The Wolf of Verdun rating, The Wolf of Verdun release date, The Wolf of Verdun Thriller, international movies, FlickAtlas",
+  "ld": {
+   "@context": "https://schema.org",
+   "@type": "Movie",
+   "actor": [
+    {
+     "@type": "Person",
+     "name": "Sven Ruygrok"
+    },
+    {
+     "@type": "Person",
+     "name": "Marc Pleass"
+    }
+   ],
+   "description": "The Wolf of Verdun (2026): Thriller film. Story: After an explosion strands two enemy soldiers during… See cast and budget $1.8k.",
+   "director": [
+    {
+     "@type": "Person",
+     "name": "Craig Parker"
+    }
+   ],
+   "duration": "PT15M",
+   "genre": [
+    "Thriller"
+   ],
+   "image": "https://image.tmdb.org/t/p/w780/jwJncrMYjKENtKD7NbZRA830TW0.jpg",
+   "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1822515",
+   "name": "The Wolf of Verdun",
+   "releasedEvent": {
+    "@type": "PublicationEvent",
+    "startDate": "2026-11-29"
+   },
+   "url": "https://flickatlas.co.uk/movie?id=1822515"
+  },
+  "modified": "",
+  "published": "2026-11-22",
+  "ssr": "<article class=\"ssr-facts\">\n<h1>The Wolf of Verdun (2026)</h1>\n<p class=\"ssr-lead\">After an explosion strands two enemy soldiers during World War I, the arrival of a starving wolf forces the men to work together through the night - only for them to discover that the creature has haunted dying warriors throughout history.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 29 November 2026</li><li>Runtime: 15 minutes</li><li>Director: Craig Parker</li><li>Genres: Thriller</li><li>Budget: $1.8k</li><li>Status: In Production</li></ul>\n<h2>Top cast</h2>\n<ul><li>Sven Ruygrok as German Soldier</li><li>Marc Pleass as French Officer</li></ul>\n</article>",
+  "t": "The Wolf of Verdun (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
   "year": "2026"
  },
  "movie:1822669": {
@@ -63383,7 +64184,7 @@
   },
   "modified": "",
   "published": "2026-11-15",
-  "ssr": "<article class=\"ssr-facts\">\n<h1>บรรยากาศฝนตก (2026)</h1>\n<h2>Key facts</h2>\n<ul><li>Release date: 22 November 2026</li><li>Director: Kasidid Kangkarn</li><li>Status: In Production</li></ul>\n<h2>Top cast</h2>\n<ul><li>Kasidid Kangkarn</li></ul>\n</article>",
+  "ssr": "<article class=\"ssr-facts\">\n<h1>บรรยากาศฝนตก (2026)</h1>\n<h2>Key facts</h2>\n<ul><li>Release date: 22 November 2026</li><li>Director: Kasidid Kangkarn</li></ul>\n<h2>Top cast</h2>\n<ul><li>Kasidid Kangkarn</li></ul>\n</article>",
   "t": "บรรยากาศฝนตก (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
   "year": "2026"
  },
@@ -63643,6 +64444,62 @@
   "published": "2026-11-14",
   "ssr": "<article class=\"ssr-facts\">\n<h1>Russell Brand: Open Secret (2026)</h1>\n<p class=\"ssr-lead\">From comedy stardom to a criminal trial, inside voices and archive footage charts British comedian Russell Brand&#x27;s meteoric rise and steep fall following allegations of sexual offences.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 13 November 2026</li><li>Runtime: 83 minutes</li><li>Director: Olivia Issacs</li><li>Genres: Documentary</li></ul>\n<h2>Top cast</h2>\n<ul><li>Russell Brand as Self (archive footage)</li><li>George Monbiot as Self - Journalist</li><li>Nish Kumar as Self</li><li>Amanda Alguero Alejos as Self</li><li>Mark Pinheiro as Self</li><li>Harriet Kemsley as Self</li><li>Rosamund Urwin as Self</li><li>Charlotte Wace as Self</li><li>Jordan Martin as Self</li><li>Katy Perry as Self (archive footage)</li></ul>\n</article>",
   "t": "Russell Brand: Open Secret (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+  "year": "2026"
+ },
+ "movie:1824086": {
+  "d": "NMIXX 1ST WORLD TOUR 〈EPISODE 1: ZERO FRONTIER〉 FINALE IN INCHEON LIVE VIEWING (2026): Music film.",
+  "img": "https://image.tmdb.org/t/p/w500/pjkFMUo2Cm4mQkveSeInd7m1Iwq.jpg",
+  "industry": "world",
+  "k": "NMIXX 1ST WORLD TOUR 〈EPISODE 1: ZERO FRONTIER〉 FINALE IN INCHEON LIVE VIEWING, NMIXX 1ST WORLD TOUR 〈EPISODE 1: ZERO FRONTIER〉 FINALE IN INCHEON LIVE VIEWING movie, NMIXX 1ST WORLD TOUR 〈EPISODE 1: ZERO FRONTIER〉 FINALE IN INCHEON LIVE VIEWING cast, NMIXX 1ST WORLD TOUR 〈EPISODE 1: ZERO FRONTIER〉 FINALE IN INCHEON LIVE VIEWING story, NMIXX 1ST WORLD TOUR 〈EPISODE 1: ZERO FRONTIER〉 FINALE IN INCHEON LIVE VIEWING box office collection, NMIXX 1ST WORLD TOUR 〈EPISODE 1: ZERO FRONTIER〉 FINALE IN INCHEON LIVE VIEWING budget, NMIXX 1ST WORLD TOUR 〈EPISODE 1: ZERO FRONTIER〉 FINALE IN INCHEON LIVE VIEWING review, NMIXX 1ST WORLD TOUR 〈EPISODE 1: ZERO FRONTIER〉 FINALE IN INCHEON LIVE VIEWING rating, NMIXX 1ST WORLD TOUR 〈EPISODE 1: ZERO FRONTIER〉 FINALE IN INCHEON LIVE VIEWING release date, NMIXX 1ST WORLD TOUR 〈EPISODE 1: ZERO FRONTIER〉 FINALE IN INCHEON LIVE VIEWING Music, international movies, FlickAtlas",
+  "ld": {
+   "@context": "https://schema.org",
+   "@type": "Movie",
+   "actor": [
+    {
+     "@type": "Person",
+     "name": "Lily Jin Morrow"
+    },
+    {
+     "@type": "Person",
+     "name": "Oh Hae-won"
+    },
+    {
+     "@type": "Person",
+     "name": "Bae"
+    },
+    {
+     "@type": "Person",
+     "name": "Jang Kyu-jin"
+    },
+    {
+     "@type": "Person",
+     "name": "Sullyoon"
+    }
+   ],
+   "description": "NMIXX 1ST WORLD TOUR 〈EPISODE 1: ZERO FRONTIER〉 FINALE IN INCHEON LIVE VIEWING (2026): Music film.",
+   "director": [
+    {
+     "@type": "Person",
+     "name": "Yoon Dong Oh"
+    }
+   ],
+   "duration": "PT210M",
+   "genre": [
+    "Music"
+   ],
+   "image": "https://image.tmdb.org/t/p/w500/pjkFMUo2Cm4mQkveSeInd7m1Iwq.jpg",
+   "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1824086",
+   "name": "NMIXX 1ST WORLD TOUR 〈EPISODE 1: ZERO FRONTIER〉 FINALE IN INCHEON LIVE VIEWING",
+   "releasedEvent": {
+    "@type": "PublicationEvent",
+    "startDate": "2026-11-29"
+   },
+   "url": "https://flickatlas.co.uk/movie?id=1824086"
+  },
+  "modified": "",
+  "published": "2026-11-22",
+  "ssr": "<article class=\"ssr-facts\">\n<h1>NMIXX 1ST WORLD TOUR 〈EPISODE 1: ZERO FRONTIER〉 FINALE IN INCHEON LIVE VIEWING (2026)</h1>\n<p class=\"ssr-lead\">From Incheon to the world, and back to where it all began. NMIXX brings their first world tour to an unforgettable finale, broadcast live to cinemas worldwide for NSWER to experience together.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 29 November 2026</li><li>Runtime: 210 minutes</li><li>Director: Yoon Dong Oh</li><li>Genres: Music</li><li>Status: In Production</li></ul>\n<h2>Top cast</h2>\n<ul><li>Lily Jin Morrow as Self</li><li>Oh Hae-won as Self</li><li>Bae as Self</li><li>Jang Kyu-jin as Self</li><li>Sullyoon as Self</li><li>Kim Ji-woo as Self</li></ul>\n</article>",
+  "t": "NMIXX 1ST WORLD TOUR 〈EPISODE 1: ZERO FRONTIER〉 FINALE IN INCHEON LIVE VIEWING (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
   "year": "2026"
  },
  "movie:1824177": {
@@ -64104,6 +64961,47 @@
   "published": "2026-11-19",
   "ssr": "<article class=\"ssr-facts\">\n<h1>APESTOR (2026)</h1>\n<h2>Key facts</h2>\n<ul><li>Release date: 26 November 2026</li><li>Director: Facundo Schlegel</li><li>Genres: Horror</li><li>Status: Planned</li></ul>\n<h2>Top cast</h2>\n<ul><li>Paula Beovide as Liliana</li><li>Andrés Granier as Director de Escuela</li><li>Abel Schlegel as Miguel (Voz)</li><li>Joaquin Morales as Bruno (Voz)</li></ul>\n</article>",
   "t": "APESTOR (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+  "year": "2026"
+ },
+ "movie:1824884": {
+  "d": "Adieu Simone (2026) is a film. Story: After a chance encounter with a homeless woman, a… See cast and release date 29 November 2026.",
+  "img": "https://image.tmdb.org/t/p/w500/y7t0MjgZQ9CyB9L4t8MrHL6Pg2N.jpg",
+  "industry": "world",
+  "k": "Adieu Simone, Adieu Simone movie, Adieu Simone cast, Adieu Simone story, Adieu Simone box office collection, Adieu Simone budget, Adieu Simone review, Adieu Simone rating, Adieu Simone release date, international movies, FlickAtlas",
+  "ld": {
+   "@context": "https://schema.org",
+   "@type": "Movie",
+   "actor": [
+    {
+     "@type": "Person",
+     "name": "Seppe Vivek"
+    },
+    {
+     "@type": "Person",
+     "name": "Jo Deseure"
+    }
+   ],
+   "description": "Adieu Simone (2026) is a film. Story: After a chance encounter with a homeless woman, a… See cast and release date 29 November 2026.",
+   "director": [
+    {
+     "@type": "Person",
+     "name": "Loula Burnus"
+    }
+   ],
+   "duration": "PT20M",
+   "image": "https://image.tmdb.org/t/p/w500/y7t0MjgZQ9CyB9L4t8MrHL6Pg2N.jpg",
+   "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1824884",
+   "name": "Adieu Simone",
+   "releasedEvent": {
+    "@type": "PublicationEvent",
+    "startDate": "2026-11-29"
+   },
+   "url": "https://flickatlas.co.uk/movie?id=1824884"
+  },
+  "modified": "",
+  "published": "2026-11-22",
+  "ssr": "<article class=\"ssr-facts\">\n<h1>Adieu Simone (2026)</h1>\n<p class=\"ssr-lead\">After a chance encounter with a homeless woman, a young man is drawn into a quiet search for connection, belonging and family.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 29 November 2026</li><li>Runtime: 20 minutes</li><li>Director: Loula Burnus</li><li>Status: In Production</li></ul>\n<h2>Top cast</h2>\n<ul><li>Seppe Vivek</li><li>Jo Deseure as Simone</li></ul>\n</article>",
+  "t": "Adieu Simone (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
   "year": "2026"
  },
  "movie:1825074": {
@@ -64809,7 +65707,7 @@
   },
   "modified": "",
   "published": "2026-11-16",
-  "ssr": "<article class=\"ssr-facts\">\n<h1>Revolution for Beginners (2026)</h1>\n<p class=\"ssr-lead\">Romania, 1989. December 21st, the day the anti-communist revolution fully erupted. Everything is turned upside down. In a provincial town, &quot;neither big nor small, neither nice nor ugly&quot; - as the ever-present narrator describes it, a small, motley group of people tries to seize power &quot;in the name of the people.”</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 22 November 2026</li><li>Runtime: 84 minutes</li><li>Director: Siniša Dragin</li><li>Genres: Documentary</li><li>Status: Planned</li></ul>\n<h2>Top cast</h2>\n<ul><li>Ciprian Nicula</li><li>Șerban Pavlu</li><li>Liviu Chitu</li><li>Florentina Năstase</li><li>Ioana Bugarin</li><li>Tania Popa</li><li>Ștefan Iancu</li></ul>\n</article>",
+  "ssr": "<article class=\"ssr-facts\">\n<h1>Revolution for Beginners (2026)</h1>\n<p class=\"ssr-lead\">Romania, 1989. December 21st, the day the anti-communist revolution fully erupted. Everything is turned upside down. In a provincial town, &quot;neither big nor small, neither nice nor ugly&quot; - as the ever-present narrator describes it, a small, motley group of people tries to seize power &quot;in the name of the people.”</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 22 November 2026</li><li>Runtime: 84 minutes</li><li>Director: Siniša Dragin</li><li>Genres: Documentary</li></ul>\n<h2>Top cast</h2>\n<ul><li>Ciprian Nicula</li><li>Șerban Pavlu</li><li>Liviu Chitu</li><li>Florentina Năstase</li><li>Ioana Bugarin</li><li>Tania Popa</li><li>Ștefan Iancu</li></ul>\n</article>",
   "t": "Revolution for Beginners (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
   "year": "2026"
  },
@@ -65828,6 +66726,50 @@
   "t": "循环街区 (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
   "year": "2026"
  },
+ "movie:1828903": {
+  "d": "The Eternal of Takada (2026): Documentary film. Story: The Mondial is the oldest movie theater in Japan… See cast and release date 29 November 2026.",
+  "img": "https://image.tmdb.org/t/p/w780/vPt6wNHBUDJrP7uZOTtoWuwUKo4.jpg",
+  "industry": "world",
+  "k": "The Eternal of Takada, The Eternal of Takada movie, The Eternal of Takada cast, The Eternal of Takada story, The Eternal of Takada box office collection, The Eternal of Takada budget, The Eternal of Takada review, The Eternal of Takada rating, The Eternal of Takada release date, The Eternal of Takada Documentary, international movies, FlickAtlas",
+  "ld": {
+   "@context": "https://schema.org",
+   "@type": "Movie",
+   "actor": [
+    {
+     "@type": "Person",
+     "name": "Shun-ichi Masumura"
+    },
+    {
+     "@type": "Person",
+     "name": "Michinari Ueno"
+    }
+   ],
+   "description": "The Eternal of Takada (2026): Documentary film. Story: The Mondial is the oldest movie theater in Japan… See cast and release date 29 November 2026.",
+   "director": [
+    {
+     "@type": "Person",
+     "name": "Atsushi Hirai"
+    }
+   ],
+   "duration": "PT52M",
+   "genre": [
+    "Documentary"
+   ],
+   "image": "https://image.tmdb.org/t/p/w780/vPt6wNHBUDJrP7uZOTtoWuwUKo4.jpg",
+   "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1828903",
+   "name": "The Eternal of Takada",
+   "releasedEvent": {
+    "@type": "PublicationEvent",
+    "startDate": "2026-11-29"
+   },
+   "url": "https://flickatlas.co.uk/movie?id=1828903"
+  },
+  "modified": "",
+  "published": "2026-11-22",
+  "ssr": "<article class=\"ssr-facts\">\n<h1>The Eternal of Takada (2026)</h1>\n<p class=\"ssr-lead\">The Mondial is the oldest movie theater in Japan still in operation. It was built in 1911, in northern Japan, in Takada, then a garrison town. In the 1960s, the military abandoned it. Only the heart of the small town, made up of traditional wooden houses, remained. The outskirts became a ghost town. Threatened with bankruptcy, the Mondial was saved for the first time by Studio Nikkatsu, a producer of erotic films. At the end of the 1970s, the Mondial, a victim of an earthquake, would have been permanently destroyed if a man—Mr. Masumura—a monk, film buff, and jazz lover, and a few friends had not fought to save it and organize a film club there. The members are now his age, in their 70s, and one of the members is over 90, but the fervor remains intact. This is all the more true as the film club is preparing a new screening to celebrate the end of winter.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 29 November 2026</li><li>Runtime: 52 minutes</li><li>Director: Atsushi Hirai</li><li>Genres: Documentary</li></ul>\n<h2>Top cast</h2>\n<ul><li>Shun-ichi Masumura as Self</li><li>Michinari Ueno as Self</li></ul>\n</article>",
+  "t": "The Eternal of Takada (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+  "year": "2026"
+ },
  "movie:1829062": {
   "d": "Gestation (2026) is a film. Story: A young woman struggling to get pregnant turns to an… See cast and release date 28 November 2026.",
   "img": "https://image.tmdb.org/t/p/w780/9TUGmEPKZcH83TwO9AQkquCe2AX.jpg",
@@ -66280,6 +67222,63 @@
   "published": "2026-11-21",
   "ssr": "<article class=\"ssr-facts\">\n<h1>my hamster video (2026)</h1>\n<p class=\"ssr-lead\">My hamster likes to eat, drink water, and run.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 28 November 2026</li><li>Runtime: 2 minutes</li><li>Director: Alex Hickey</li><li>Budget: $20</li><li>Status: Planned</li></ul>\n<h2>Top cast</h2>\n<ul><li>Alex Hickey</li></ul>\n</article>",
   "t": "my hamster video (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+  "year": "2026"
+ },
+ "movie:1836066": {
+  "d": "Nanhey Dil (2026): Drama/Family film. Story: Set against the contrasting worlds of Mumbai's slums… See cast and release date 20 November 2026.",
+  "img": "https://image.tmdb.org/t/p/w500/h1LPSURZsmyB7R4HeANIoJzK8Om.jpg",
+  "industry": "bollywood",
+  "k": "Nanhey Dil, Nanhey Dil movie, Nanhey Dil cast, Nanhey Dil story, Nanhey Dil box office collection, Nanhey Dil budget, Nanhey Dil review, Nanhey Dil rating, Nanhey Dil release date, Nanhey Dil Drama, Nanhey Dil Family, Indian movies, FlickAtlas",
+  "ld": {
+   "@context": "https://schema.org",
+   "@type": "Movie",
+   "actor": [
+    {
+     "@type": "Person",
+     "name": "Suniel Shetty"
+    },
+    {
+     "@type": "Person",
+     "name": "Sarvesh Satish Adawade"
+    },
+    {
+     "@type": "Person",
+     "name": "Surendra Pal"
+    },
+    {
+     "@type": "Person",
+     "name": "Rajgopal Iyer"
+    },
+    {
+     "@type": "Person",
+     "name": "Mona Sunil Chandran"
+    }
+   ],
+   "description": "Nanhey Dil (2026): Drama/Family film. Story: Set against the contrasting worlds of Mumbai's slums… See cast and release date 20 November 2026.",
+   "director": [
+    {
+     "@type": "Person",
+     "name": "Swarupraj Medara"
+    }
+   ],
+   "duration": "PT100M",
+   "genre": [
+    "Drama",
+    "Family"
+   ],
+   "image": "https://image.tmdb.org/t/p/w500/h1LPSURZsmyB7R4HeANIoJzK8Om.jpg",
+   "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1836066",
+   "name": "Nanhey Dil",
+   "releasedEvent": {
+    "@type": "PublicationEvent",
+    "startDate": "2026-11-20"
+   },
+   "url": "https://flickatlas.co.uk/movie?id=1836066"
+  },
+  "modified": "",
+  "published": "2026-11-22",
+  "ssr": "<article class=\"ssr-facts\">\n<h1>Nanhey Dil (2026)</h1>\n<p class=\"ssr-lead\">Set against the contrasting worlds of Mumbai&#x27;s slums and elite educational institutions, Nanhey Dil follows the journey of Raghu Jadhav, the young son of a dhobi whose life takes an unexpected turn when he secures admission to a prestigious school. The opportunity comes through Principal Anthony, who believes that every child deserves access to quality education, rega...</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 20 November 2026</li><li>Runtime: 100 minutes</li><li>Director: Swarupraj Medara</li><li>Genres: Drama, Family</li></ul>\n<h2>Top cast</h2>\n<ul><li>Suniel Shetty as Principal Anthony</li><li>Sarvesh Satish Adawade as Raghu</li><li>Surendra Pal as Head .Trustee ( Vikram Dalmia)</li><li>Rajgopal Iyer as Professor</li><li>Mona Sunil Chandran as Trustee</li><li>Tvisha Seema as Anjali</li><li>Kavya Dave as Rohit</li></ul>\n</article>",
+  "t": "Nanhey Dil (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
   "year": "2026"
  },
  "movie:447273": {
@@ -83248,6 +84247,39 @@
   "published": "2026-11-03T16:00:20.000Z",
   "ssr": "<article class=\"ssr-facts\">\n<h1>Hurmat Episode 10 — Watch Online on HUM TV</h1>\n<p class=\"ssr-lead\">Hurmat episode 10 aired on 2026-11-03 — watch the full episode on HUM TV.</p>\n<p class=\"ssr-date\">Published 3 November 2026</p>\n<h2>Episode Details</h2>\n<p>Hurmat Episode 10 aired on 2026-11-03 on HUM TV. The full episode is available on the channel&#x27;s official YouTube page.</p>\n<p>Watch the full episode here: https://www.youtube.com/watch?v=4qhw1PAIjxs</p>\n<h2>About Hurmat</h2>\n<p>Hurmat follows the journey of a bright and ambitious young woman trapped under strict family and societal restrictions. Raised in a highly conservative household, her choices are entirely controlled by her authoritarian father, who initially forbids her from pursuing higher education. When a supportive uncle steps in to help her enroll in a university, she moves to a modern city, catching a glimpse of a world beyond her boundaries and finding a new sense of independence. However, her life takes a darker, more complex turn as she falls for a classmate, throwing her into a turbulent storm of intense family conflicts, hidden secrets, betrayal, and high-stakes legal battles.</p>\n<h2>Episode Summary</h2>\n<p>Is episode mein Hurmat apne kaam aur university mein pareshan rehti hai kyunki uske abu ke guzar jane ke baad uska dil kisi kaam mein nahi lagta. Tabish usse milne aur baat karne ki koshish karta hai aur woh dono apni zindagi aur mushkilat ke bare mein baat karte hain. Tabish Hurmat ko yeh yakeen dilata hai ke woh uske sath hai aur unhe ye rishtha khatam nahi karna chahiye. Tabish ke ghar walon ke kehne par uski mangni ki baat chalti hai, aur Zafar sahab Tabish ko ek business assignment dete hain jisme Hurmat bhi shamil hoti hai. Office mein ek meeting ke dauran Tabish aur Hurmat ke darmiyan kuch baatein hoti hain. Dusri taraf, Hurmat ki ammi uske rishte aur tabiyat ko le kar pareshan hoti hain, woh chahti hain ke Hurmat Tabish se shadi kar le kyunki unhe lagta hai ke Hurmat ki bhalayi isi mein hai. Episode ke aakhir mein Hurmat aur ammi ke darmiyan is rishte aur shadi ke mauzu par baat hoti hai aur ammi Allah se dua karti hain ke Hurmat ke liye behtar faisla ho.</p>\n<h2>Key facts</h2>\n<ul><li>Hurmat Episode 10 aired on 2026-11-03.</li><li>Channel: HUM TV.</li><li>Watch the full episode: https://www.youtube.com/watch?v=4qhw1PAIjxs</li><li>YouTube views: 650,471.</li><li>TMDB: Hurmat (id 337670).</li><li>Episode summary added 2026-11-03.</li></ul>\n</article>",
   "t": "Hurmat Episode 10 — Watch Online on HUM TV"
+ },
+ "news:1dutqpx": {
+  "d": "Nitesh Tiwari's epic adaptation Ramayana: Rise of a Legend crosses the Rs 1,600-crore milestone globally on its third Saturday, cementing its place as the…",
+  "img": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202611/ramayana-box-office-day-17-film-tops-1-616-crore--becomes-3rd-highest-grosser-220210333-16x9_0.png?VersionId=_x64c88uqAJmvxt8ymp8Rng4KAyz.l33",
+  "k": "Ramayana Rise of a Legend box office, Ramayana Day 17 collection, Ranbir Kapoor Ramayana film, Ramayana 1616 crore worldwide, Ranbir Kapoor Ramayana: Rise of a Legend, Ramayana: Rise of a Legend, Ranbir Kapoor, Sai Pallavi Ramayana: Rise of a Legend, entertainment news, FlickAtlas",
+  "ld": {
+   "@context": "https://schema.org",
+   "@type": "NewsArticle",
+   "articleBody": "Global Milestone Reached\n\nThe epic cinematic feature Ramayana: Rise of a Legend has successfully crossed the massive financial threshold of Rs 1,616.70 crore worldwide. This global total was achieved by the seventeenth day of its theatrical run.\n\nTrade trackers and industry reports highlight that the production crossed the Rs 1,600-crore milestone specifically on its third Saturday. This strong international and domestic performance places the project among the most lucrative cinematic ventures in Indian film history.\n\nDomestic Nett and Weekend Surge\n\nAt the domestic box office, the feature recorded a notable seventy-four per cent jump on its third Saturday. Across all languages in India, the film brought in Rs 27.40 crore nett on Day 17, marking a sharp increase from the Rs 15.75 crore earned on Friday.\n\nWith this weekend surge included, the seventeen-day India net collection reached Rs 906.90 crore, translating to an India gross total of Rs 1,083.70 crore. Meanwhile, overseas markets contributed an additional Rs 533 crore to the worldwide tally.\n\nRecord-Breaking Club Entry\n\nRamayana: Rise of a Legend has officially emerged as the third-fastest Indian release to breach the Rs 900-crore India nett mark. In this regard, it trails only Pushpa 2: The Rule and Dhurandhar 2.\n\nFurthermore, the production is only the fourth Indian film in history to enter the elite Rs 900-crore domestic nett club. The other titles sharing this distinction are Baahubali 2: The Conclusion, Pushpa 2: The Rule, and Dhurandhar 2.\n\nLanguage-Wise Performance Breakdown\n\nThe Hindi version continued to dominate ticket sales, contributing the bulk of Saturday's business with Rs 20.25 crore nett from 13,553 shows. This brought its seventeen-day Hindi nett tally to a staggering Rs 689.25 crore.\n\nAmong the regional dubbed offerings, Malayalam led the Day 17 earnings with Rs 2.75 crore. It was followed by Tamil at Rs 2 crore, Kannada at Rs 1.65 crore, and Telugu at Rs 75 lakh.\n\nOccupancy Rates and Key Markets\n\nOverall audience occupancy across 15,851 shows saw a positive upward trend, rising from 18.2 per cent on Friday to 29.7 per cent on Saturday. Certain urban centers performed exceptionally well during this period.\n\nNotably, Chennai led the Hindi 3D occupancy figures by recording an impressive 86 per cent turnout on the third Saturday, reflecting sustained regional enthusiasm for the cinematic adaptation.\n\nCast, Crew and Production Background\n\nHelmed by director Nitesh Tiwari, the movie features Ranbir Kapoor as Lord Rama, Sai Pallavi as Sita, Yash as Ravana, and Ravie Dubey as Lakshman. The expansive star cast also includes Lara Dutta, Rakul Preet Singh, Kajal Aggarwal, and Vivek Oberoi.\n\nThe feature was produced by Namit Malhotra’s Prime Focus Studios in collaboration with Yash’s Monster Mind Creations. Musical accompaniment for the project was composed by AR Rahman and Hans Zimmer, leading up to its theatrical premiere ahead of Diwali on November 5, 2026.\n\nNews Overview\n\nRamayana: Rise of a Legend reached Rs 1,616.70 crore worldwide by its seventeenth day, solidifying its status as the third-highest-grossing Indian film. The feature secured a Rs 27.40 crore nett collection on its third Saturday, driving its domestic total to Rs 906.90 crore and making it the fourth Indian film to enter the Rs 900-crore domestic nett club.",
+   "author": {
+    "@type": "Organization",
+    "name": "FlickAtlas"
+   },
+   "datePublished": "2026-11-22T06:02:28.000Z",
+   "description": "Nitesh Tiwari's epic adaptation Ramayana: Rise of a Legend crosses the Rs 1,600-crore milestone globally on its third Saturday, cementing its place as the…",
+   "headline": "Ramayana Box Office Day 17: Film Tops 1,616 Crore and Becomes 3rd Highest-Grosser",
+   "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202611/ramayana-box-office-day-17-film-tops-1-616-crore--becomes-3rd-highest-grosser-220210333-16x9_0.png?VersionId=_x64c88uqAJmvxt8ymp8Rng4KAyz.l33",
+   "keywords": "Ramayana Rise of a Legend box office, Ramayana Day 17 collection, Ranbir Kapoor Ramayana film, Ramayana 1616 crore worldwide",
+   "mainEntityOfPage": "https://flickatlas.co.uk/news-item?id=1dutqpx",
+   "publisher": {
+    "@type": "Organization",
+    "logo": {
+     "@type": "ImageObject",
+     "url": "https://flickatlas.co.uk/icon-512.png"
+    },
+    "name": "FlickAtlas"
+   },
+   "url": "https://flickatlas.co.uk/news-item?id=1dutqpx"
+  },
+  "modified": "",
+  "published": "2026-11-22T06:02:28.000Z",
+  "ssr": "<article class=\"ssr-facts\">\n<h1>Ramayana Box Office Day 17: Film Tops 1,616 Crore and Becomes 3rd Highest-Grosser</h1>\n<p class=\"ssr-lead\">Nitesh Tiwari&#x27;s epic adaptation Ramayana: Rise of a Legend crosses the Rs 1,600-crore milestone globally on its third Saturday, cementing its place as the third-highest-grossing Indian film.</p>\n<p class=\"ssr-date\">Published 22 November 2026</p>\n<h2>Global Milestone Reached</h2>\n<p>The epic cinematic feature Ramayana: Rise of a Legend has successfully crossed the massive financial threshold of Rs 1,616.70 crore worldwide. This global total was achieved by the seventeenth day of its theatrical run.</p>\n<p>Trade trackers and industry reports highlight that the production crossed the Rs 1,600-crore milestone specifically on its third Saturday. This strong international and domestic performance places the project among the most lucrative cinematic ventures in Indian film history.</p>\n<h2>Domestic Nett and Weekend Surge</h2>\n<p>At the domestic box office, the feature recorded a notable seventy-four per cent jump on its third Saturday. Across all languages in India, the film brought in Rs 27.40 crore nett on Day 17, marking a sharp increase from the Rs 15.75 crore earned on Friday.</p>\n<p>With this weekend surge included, the seventeen-day India net collection reached Rs 906.90 crore, translating to an India gross total of Rs 1,083.70 crore. Meanwhile, overseas markets contributed an additional Rs 533 crore to the worldwide tally.</p>\n<h2>Record-Breaking Club Entry</h2>\n<p>Ramayana: Rise of a Legend has officially emerged as the third-fastest Indian release to breach the Rs 900-crore India nett mark. In this regard, it trails only Pushpa 2: The Rule and Dhurandhar 2.</p>\n<p>Furthermore, the production is only the fourth Indian film in history to enter the elite Rs 900-crore domestic nett club. The other titles sharing this distinction are Baahubali 2: The Conclusion, Pushpa 2: The Rule, and Dhurandhar 2.</p>\n<h2>Language-Wise Performance Breakdown</h2>\n<p>The Hindi version continued to dominate ticket sales, contributing the bulk of Saturday&#x27;s business with Rs 20.25 crore nett from 13,553 shows. This brought its seventeen-day Hindi nett tally to a staggering Rs 689.25 crore.</p>\n<p>Among the regional dubbed offerings, Malayalam led the Day 17 earnings with Rs 2.75 crore. It was followed by Tamil at Rs 2 crore, Kannada at Rs 1.65 crore, and Telugu at Rs 75 lakh.</p>\n<h2>Occupancy Rates and Key Markets</h2>\n<p>Overall audience occupancy across 15,851 shows saw a positive upward trend, rising from 18.2 per cent on Friday to 29.7 per cent on Saturday. Certain urban centers performed exceptionally well during this period.</p>\n<p>Notably, Chennai led the Hindi 3D occupancy figures by recording an impressive 86 per cent turnout on the third Saturday, reflecting sustained regional enthusiasm for the cinematic adaptation.</p>\n<h2>Cast, Crew and Production Background</h2>\n<p>Helmed by director Nitesh Tiwari, the movie features Ranbir Kapoor as Lord Rama, Sai Pallavi as Sita, Yash as Ravana, and Ravie Dubey as Lakshman. The expansive star cast also includes Lara Dutta, Rakul Preet Singh, Kajal Aggarwal, and Vivek Oberoi.</p>\n<p>The feature was produced by Namit Malhotra’s Prime Focus Studios in collaboration with Yash’s Monster Mind Creations. Musical accompaniment for the project was composed by AR Rahman and Hans Zimmer, leading up to its theatrical premiere ahead of Diwali on November 5, 2026.</p>\n<h2>News Overview</h2>\n<p>Ramayana: Rise of a Legend reached Rs 1,616.70 crore worldwide by its seventeenth day, solidifying its status as the third-highest-grossing Indian film. The feature secured a Rs 27.40 crore nett collection on its third Saturday, driving its domestic total to Rs 906.90 crore and making it the fourth Indian film to enter the Rs 900-crore domestic nett club.</p>\n<h2>Key facts</h2>\n<ul><li>Ramayana: Rise of a Legend reached Rs 1,616.70 crore worldwide on Day 17.</li><li>The 17-day India net collection stands at Rs 906.90 crore.</li><li>Day 17 (Third Saturday) collection in India was Rs 27.40 crore.</li><li>Day 16 (Third Friday) collection in India was Rs 15.75 crore.</li><li>The film was released in theatres on November 5 ahead of Diwali.</li><li>The Hindi version&#x27;s 17-day nett tally reached Rs 689.25 crore.</li></ul>\n</article>",
+  "t": "Ramayana Box Office Day 17: Film Tops 1,616 Crore and Becomes 3rd Highest-Grosser"
  },
  "news:1dw1wix": {
   "d": "Actor Arjun Sarja has taken legal action after facing persistent speculation and derogatory remarks regarding his elder daughter Aishwarya Arjun and her…",
@@ -120460,6 +121492,39 @@
   "ssr": "<article class=\"ssr-facts\">\n<h1>VisionQuest Season 1 Finale Teases a Major Character Return for Avengers: Doomsday</h1>\n<p class=\"ssr-lead\">The Season 1 conclusion of VisionQuest features a post-credits sequence hinting at a dramatic return within the Marvel Cinematic Universe.</p>\n<p class=\"ssr-date\">Published 11 November 2026</p>\n<h2>The Season 1 Finale Delivers Major MCU Surprises</h2>\n<p>The conclusion of VisionQuest Season 1 has left viewers talking about a potentially huge development for the wider Marvel Cinematic Universe. Titled &#x27;Forever&#x27;, the finale episode dropped significant narrative hints during its closing moments.</p>\n<p>Fans tuning into the streaming series discovered that the storyline ties directly into upcoming cinematic projects, sparking intense speculation across fan communities.</p>\n<h2>A Post-Credits Scene Teases Doctor Doom and Scarlet Witch</h2>\n<p>In the post-credits sequence of the Tuesday finale, a hooded figure appearing to be Robert Downey Jr.&#x27;s Doctor Doom lifts the rubble of Wundagore.</p>\n<p>Underneath lies Wanda Maximoff, also known as Scarlet Witch, played by Elizabeth Olsen. She had seemingly perished under the collapsing mountain previously in Doctor Strange in the Multiverse of Madness.</p>\n<h2>Dialogue Hints at Future Conflicts</h2>\n<p>During this cryptic encounter, the hooded character addresses the fallen witch directly, stating, &#x27;Scarlet Witch, awaken. Your power will be mine.&#x27;</p>\n<p>This interaction strongly suggests that the character&#x27;s journey in the franchise is far from over, paving the way for further confrontations.</p>\n<h2>Connections to Avengers: Doomsday</h2>\n<p>The surprising teaser sequence appears to point toward Elizabeth Olsen making her return in Avengers: Doomsday, which is scheduled to premiere in theaters on Dec. 18.</p>\n<p>This follows other major developments in the finale, where Vision, portrayed by Paul Bettany, successfully reunited with their sons Tommy and Billy, played by Ruaridh Mollica and Joe Locke.</p>\n<h2>Tracing the Family Reunion Across Series</h2>\n<p>The emotional family reunion in the finale builds upon the continuity established in earlier projects like WandaVision and Agatha All Along.</p>\n<p>Adding to the excitement, Marvel Studios shared a binary code message on social media prior to the episode&#x27;s release that translated to a familiar sentiment previously spoken by Wanda to her sons.</p>\n<h2>Elizabeth Olsen Addresses Potential Return</h2>\n<p>Despite the heavy teasing from the series itself, actress Elizabeth Olsen has previously maintained a stance of complete uncertainty regarding her future in the franchise.</p>\n<p>Speaking in March, she noted that she prefers knowing nothing about upcoming storylines so she cannot accidentally leak or compromise any details in interviews.</p>\n<h2>News Overview</h2>\n<p>The Season 1 finale of VisionQuest includes a post-credits sequence featuring a hooded figure appearing to be Robert Downey Jr.&#x27;s Doctor Doom interacting with Elizabeth Olsen&#x27;s Scarlet Witch. This teaser hints at a potential character appearance in Avengers: Doomsday alongside family plot threads continuing from WandaVision.</p>\n<h2>Key facts</h2>\n<ul><li>VisionQuest Season 1 finale is titled &#x27;Forever&#x27;.</li><li>The finale episode aired on a Tuesday in November 2026.</li><li>Avengers: Doomsday premieres in theaters on Dec. 18.</li><li>Elizabeth Olsen previously stated in March that she knows nothing about her potential return.</li><li>Doctor Strange in the Multiverse of Madness was released in 2022.</li><li>WandaVision was released in 2021.</li><li>Agatha All Along was released in 2024.</li></ul>\n</article>",
   "t": "VisionQuest Season 1 Finale Teases a Major Character Return for Avengers: Doomsday"
  },
+ "news:f16xu7": {
+  "d": "The chart-topping success of an artificial intelligence-assisted song on a major music platform has ignited fierce discussions regarding ownership…",
+  "img": "https://flickatlas.co.uk/icon-512.png",
+  "k": "MEOMURU, Have You Become the Adult You Dreamed Of?, GLORYWAVE, Melon chart, Suno AI music, Lee Yong Seok Have You Become the Adult You Dreamed Of?, Lee Yong Seok, Martin East Have You Become the Adult You Dreamed Of?, entertainment news, FlickAtlas",
+  "ld": {
+   "@context": "https://schema.org",
+   "@type": "NewsArticle",
+   "articleBody": "Record-Breaking Chart Success\n\nThe track titled 'Have You Become the Adult You Dreamed Of?' by the musical act MEOMURU achieved a historic milestone by securing the top position on a prominent domestic streaming platform's main chart. Maintaining this peak status for over a consecutive week, the track captured widespread attention across the digital landscape.\n\nThis performance marks the initial instance where a composition heavily reliant on artificial intelligence reached the summit of this specific chart. By outperforming established human artists and popular groups, the song pushed technological boundaries into mainstream commercial music territory.\n\nOrigins and Production Methods\n\nOriginally introduced months prior, the viral track gained massive traction after gaining exposure through short-form video content platforms. Listeners began utilizing the melody as background audio, propelling its gradual ascent to widespread popularity.\n\nThe creative process behind the project involved a specialized production team known as GLORYWAVE. While human professionals carefully mapped out the structural framework, conceptual direction, and written lyrics, the vocal delivery was entirely generated through automated software systems.\n\nBlurring Lines Between Human and Machine\n\nIndustry analysts and commentators have pointed out that this achievement demonstrates how sophisticated automated tools have become. Telling the difference between traditional studio recordings and algorithmically produced tracks is increasingly difficult for the average listener.\n\nObservers suggest that technological integration is inevitable as generative tools find acceptance in diverse creative fields. However, experts emphasize the urgent need for robust identification technologies to clearly label automated components within modern commercial audio.\n\nTransparency and Disclosure Gaps\n\nWhile the creators openly acknowledged the inclusion of synthesized vocals within the album introduction, regulatory frameworks currently lack strict disclosure mandates. There are no definitive standards requiring artists to publicly declare the exact degree of artificial involvement during the composition phase.\n\nThis ambiguity leaves consumers largely uninformed about how much human effort went into a given piece of work. Policymakers face growing pressure to establish clear guidelines that mandate complete transparency regarding automated audio generation.\n\nCopyright Complexities and Royalties\n\nDespite its massive commercial footprint, the song remains unregistered with major collective management organizations like the copyright association. Current legal frameworks generally restrict copyright protection strictly to tangible human creative output, complicating official registration for works co-created with machines.\n\nNevertheless, a lack of traditional copyright registration does not entirely cut off income streams. The project continues to secure revenue through alternative channels, such as neighboring rights tied directly to the commercial sound recording production.\n\nRegulatory Hurdles and Future Rules\n\nGoverning bodies have previously attempted to introduce trust registration standards specifically designed for hybrid works involving both human ingenuity and computational assistance. However, these proposed policies faced swift withdrawal following demands for deeper public debate and industry consensus.\n\nThe unprecedented rise of algorithmically produced chart-toppers has injected fresh urgency into ongoing legislative discussions. Lawmakers and industry stakeholders must soon define precise rules regarding authorship attribution and equitable financial compensation.\n\nNews Overview\n\nMEOMURU's track 'Have You Become the Adult You Dreamed Of?' achieved a milestone by topping a major music chart for over a week using AI-generated vocals. This success has sparked intense debates regarding copyright laws, transparency, and revenue distribution within the modern music industry.",
+   "author": {
+    "@type": "Organization",
+    "name": "FlickAtlas"
+   },
+   "datePublished": "2026-11-22T05:26:00.000Z",
+   "description": "The chart-topping success of an artificial intelligence-assisted song on a major music platform has ignited fierce discussions regarding ownership…",
+   "headline": "MEOMURU’s AI-Created Track Dominates Charts and Sparks Industry Debate",
+   "image": "https://flickatlas.co.uk/icon-512.png",
+   "keywords": "MEOMURU, Have You Become the Adult You Dreamed Of?, GLORYWAVE, Melon chart, Suno AI music",
+   "mainEntityOfPage": "https://flickatlas.co.uk/news-item?id=f16xu7",
+   "publisher": {
+    "@type": "Organization",
+    "logo": {
+     "@type": "ImageObject",
+     "url": "https://flickatlas.co.uk/icon-512.png"
+    },
+    "name": "FlickAtlas"
+   },
+   "url": "https://flickatlas.co.uk/news-item?id=f16xu7"
+  },
+  "modified": "",
+  "published": "2026-11-22T05:26:00.000Z",
+  "ssr": "<article class=\"ssr-facts\">\n<h1>MEOMURU’s AI-Created Track Dominates Charts and Sparks Industry Debate</h1>\n<p class=\"ssr-lead\">The chart-topping success of an artificial intelligence-assisted song on a major music platform has ignited fierce discussions regarding ownership, transparency, and legal protections.</p>\n<p class=\"ssr-date\">Published 22 November 2026</p>\n<h2>Record-Breaking Chart Success</h2>\n<p>The track titled &#x27;Have You Become the Adult You Dreamed Of?&#x27; by the musical act MEOMURU achieved a historic milestone by securing the top position on a prominent domestic streaming platform&#x27;s main chart. Maintaining this peak status for over a consecutive week, the track captured widespread attention across the digital landscape.</p>\n<p>This performance marks the initial instance where a composition heavily reliant on artificial intelligence reached the summit of this specific chart. By outperforming established human artists and popular groups, the song pushed technological boundaries into mainstream commercial music territory.</p>\n<h2>Origins and Production Methods</h2>\n<p>Originally introduced months prior, the viral track gained massive traction after gaining exposure through short-form video content platforms. Listeners began utilizing the melody as background audio, propelling its gradual ascent to widespread popularity.</p>\n<p>The creative process behind the project involved a specialized production team known as GLORYWAVE. While human professionals carefully mapped out the structural framework, conceptual direction, and written lyrics, the vocal delivery was entirely generated through automated software systems.</p>\n<h2>Blurring Lines Between Human and Machine</h2>\n<p>Industry analysts and commentators have pointed out that this achievement demonstrates how sophisticated automated tools have become. Telling the difference between traditional studio recordings and algorithmically produced tracks is increasingly difficult for the average listener.</p>\n<p>Observers suggest that technological integration is inevitable as generative tools find acceptance in diverse creative fields. However, experts emphasize the urgent need for robust identification technologies to clearly label automated components within modern commercial audio.</p>\n<h2>Transparency and Disclosure Gaps</h2>\n<p>While the creators openly acknowledged the inclusion of synthesized vocals within the album introduction, regulatory frameworks currently lack strict disclosure mandates. There are no definitive standards requiring artists to publicly declare the exact degree of artificial involvement during the composition phase.</p>\n<p>This ambiguity leaves consumers largely uninformed about how much human effort went into a given piece of work. Policymakers face growing pressure to establish clear guidelines that mandate complete transparency regarding automated audio generation.</p>\n<h2>Copyright Complexities and Royalties</h2>\n<p>Despite its massive commercial footprint, the song remains unregistered with major collective management organizations like the copyright association. Current legal frameworks generally restrict copyright protection strictly to tangible human creative output, complicating official registration for works co-created with machines.</p>\n<p>Nevertheless, a lack of traditional copyright registration does not entirely cut off income streams. The project continues to secure revenue through alternative channels, such as neighboring rights tied directly to the commercial sound recording production.</p>\n<h2>Regulatory Hurdles and Future Rules</h2>\n<p>Governing bodies have previously attempted to introduce trust registration standards specifically designed for hybrid works involving both human ingenuity and computational assistance. However, these proposed policies faced swift withdrawal following demands for deeper public debate and industry consensus.</p>\n<p>The unprecedented rise of algorithmically produced chart-toppers has injected fresh urgency into ongoing legislative discussions. Lawmakers and industry stakeholders must soon define precise rules regarding authorship attribution and equitable financial compensation.</p>\n<h2>News Overview</h2>\n<p>MEOMURU&#x27;s track &#x27;Have You Become the Adult You Dreamed Of?&#x27; achieved a milestone by topping a major music chart for over a week using AI-generated vocals. This success has sparked intense debates regarding copyright laws, transparency, and revenue distribution within the modern music industry.</p>\n<h2>Key facts</h2>\n<ul><li>MEOMURU released the song &#x27;Have You Become the Adult You Dreamed Of?&#x27; in June.</li><li>The song reached No. 1 on Melon&#x27;s TOP 100 on November 13.</li><li>The track held the top spot for over a week through November 20.</li><li>GLORYWAVE is the production team behind the track, consisting of Lee Yong Seok (Martin East) and Choi Sung Hyuk (Beatjaru).</li><li>The team used the Suno AI platform to produce the vocals.</li><li>Park Hee Ah is a music critic who commented on the track.</li><li>The Korea Music Copyright Association (KOMCA) introduced and later withdrew proposed trust registration standards for AI-assisted music in August.</li></ul>\n</article>",
+  "t": "MEOMURU’s AI-Created Track Dominates Charts and Sparks Industry Debate"
+ },
  "news:f1k4cc": {
   "d": "The Hunger Games: Sunrise on the Reaping: The latest installment in the dystopian franchise is defying early predictions with a massive debut, while other…",
   "img": "https://www.joblo.com/wp-content/uploads/2026/11/hunger-games-sunrise.jpg",
@@ -122727,6 +123792,39 @@
   "published": "2026-11-13T16:38:13.000Z",
   "ssr": "<article class=\"ssr-facts\">\n<h1>Ramayana crosses ₹600 crore on day 9 and beats Chhaava lifetime earnings</h1>\n<p class=\"ssr-lead\">Nitesh Tiwari&#x27;s Ramayana crosses the ₹600 crore milestone on its ninth day, surpassing the lifetime box office collections of major hits like Chhaava, Pathaan, and Animal.</p>\n<p class=\"ssr-date\">Published 13 November 2026</p>\n<h2>Box Office Milestone Achieved</h2>\n<p>The theatrical release of Nitesh Tiwari&#x27;s epic project has achieved a major box office milestone by crossing the ₹600 crore mark globally and domestically across its early run.</p>\n<p>On its ninth day in theatres, the feature recorded collection figures that pushed its cumulative earnings past previous industry benchmarks, cementing its status as a major commercial success.</p>\n<h2>Opening Records and Advance Bookings</h2>\n<p>Anticipation for the mythological adaptation began building well ahead of its theatrical debut, with ticket windows opening on Dussehra, a full fifteen days prior to release.</p>\n<p>By its premiere date, ticket sales had already generated ₹200 crore globally, leading to a massive opening day collection of ₹64.85 crore within India.</p>\n<h2>Holiday Surge and Historic Days</h2>\n<p>Following a slight dip on its first Friday, the feature witnessed a massive upswing over the extended Diwali holiday frame, breaking records with historic single-day numbers.</p>\n<p>The project pulled in ₹107 crore net on Monday followed by ₹94 crore net on Tuesday, marking the highest figures recorded in Indian cinema history for those specific periods.</p>\n<h2>Surpassing Major Lifetime Hauls</h2>\n<p>With its latest earnings update, the feature officially surpassed the lifetime box office haul of last year&#x27;s historical hit Chhaava, which had finished its run at ₹601.57 crore.</p>\n<p>Earlier in its run, the adaptation also sailed past the lifetime theatrical totals of Shah Rukh Khan&#x27;s Pathaan and Ranbir Kapoor&#x27;s own previous release Animal.</p>\n<h2>Cast and Creative Team</h2>\n<p>The cinematic adaptation of Valmiki&#x27;s epic features a prominent ensemble cast led by Ranbir Kapoor as Lord Rama, Sai Pallavi as Sita, and Yash in the role of Ravana.</p>\n<p>Additional key cast members include Ravie Dubey as Lakshman and Sunny Deol as Lord Hanuman, bringing the classic mythological characters to the big screen.</p>\n<h2>Production Scale and Part Two Plans</h2>\n<p>Helmed by director Nitesh Tiwari, the multi-part project is produced by Namit Malhotra&#x27;s Prime Focus Studios alongside DNEG and Yash&#x27;s Monster Mind Creations.</p>\n<p>The overarching narrative has been structured as a two-part cinematic event, with the second installment already scheduled for a Diwali release in 2028.</p>\n<h2>News Overview</h2>\n<p>Nitesh Tiwari&#x27;s Ramayana has crossed the ₹600 crore milestone on its ninth day in theatres, outpacing the lifetime earnings of major titles like Chhaava. The star-studded mythological adaptation continues to maintain strong momentum following its pre-Diwali release.</p>\n<h2>Key facts</h2>\n<ul><li>Ramayana released in theatres on November 5, 2026.</li><li>The film is directed by Nitesh Tiwari.</li><li>Advance bookings opened on Dussehra, 15 days before release.</li><li>Worldwide ticket sales reached ₹200 crore before release.</li><li>Opening day collection in India was ₹64.85 crore.</li><li>Friday collection dropped to ₹48.05 crore.</li><li>Saturday collection rose to ₹69.80 crore.</li><li>Monday collection reached ₹107 crore net.</li><li>Tuesday collection reached ₹94 crore net.</li><li>Day 9 collection was ₹39.67 crore.</li><li>Total box office collection reached ₹604.27 crore by day 9.</li><li>Chhaava lifetime collection stood at ₹601.57 crore.</li><li>Pathaan lifetime collection stood at ₹544.28 crore.</li><li>Animal lifetime collection stood at ₹556.36 crore.</li><li>The second part of Ramayana will release in Diwali 2028.</li></ul>\n</article>",
   "t": "Ramayana crosses ₹600 crore on day 9 and beats Chhaava lifetime earnings"
+ },
+ "news:ham19m": {
+  "d": "Actor Ajay Devgn is reportedly nearing a deal with producer Bhushan Kumar for a massive espionage thriller, with plans to begin filming in 2027 and target a…",
+  "img": "https://static.toiimg.com/thumb/msid-136067876,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+  "k": "Ajay Devgn spy thriller, Bhushan Kumar Ajay Devgn film, Ajay Devgn upcoming movies 2028, Drishyam 3 Ajay Devgn, Ajay Devgn Tanhaji: The Unsung Warrior, Tanhaji: The Unsung Warrior, Ajay Devgn, Bhushan Kumar Tanhaji: The Unsung Warrior, entertainment news, FlickAtlas",
+  "ld": {
+   "@context": "https://schema.org",
+   "@type": "NewsArticle",
+   "articleBody": "A Proven Partnership in Bollywood\n\nOver the years, actor Ajay Devgn and producer Bhushan Kumar have established one of the most successful collaborative relationships in the Hindi film industry. Their previous joint ventures have consistently struck a chord with audiences at the box office, delivering notable hits that span various genres.\n\nSome of the most prominent titles emerging from their past collaborations include 'Tanhaji: The Unsung Warrior', 'Raid 2', 'Drishyam 2', 'Dhamaal 4', and 'De De Pyaar De'. Building on this established track record of commercial success, the duo is now exploring yet another major creative collaboration.\n\nThe New Espionage Project\n\nAccording to reports from Bollywood Hungama, Ajay Devgn is currently in advanced talks to lock in a brand-new, high-budget spy thriller spearheaded by Bhushan Kumar. The producer has reportedly developed a fresh and unexplored narrative set against the backdrop of Indian espionage.\n\nSources indicate that Devgn is keenly interested in the project, having already participated in several introductory meetings. Those close to the development have described the scope and tone of the script as being just as gripping as 'Dhurandhar'.\n\nProduction Timeline and Projected Release\n\nWhile official details regarding the director and remaining cast members are still being kept strictly confidential, preliminary schedules for the film's production have begun to take shape. Industry insiders suggest that if Devgn officially signs on, principal photography will kick off in 2027.\n\nThe makers are eyeing a theatrical premiere around mid-2028. Given the massive financial backing and scale of the narrative, the film is expected to rank among the biggest tentpole releases of Devgn's entire acting career.\n\nDevgn's Recent Success with 'Drishyam 3'\n\nThis upcoming venture follows a period of immense professional momentum for the actor. Ajay Devgn is currently riding high on the critical and commercial success of 'Drishyam 3', the latest installment in his popular suspense franchise.\n\nThe release of 'Drishyam 3' notably marked the biggest opening of Devgn's career thus far, further cementing his box-office dominance in the thriller genre and setting a high bar for his subsequent projects.\n\nA Packed Professional Slate\n\nBeyond the newly discussed spy thriller, Devgn has a heavily packed roster of upcoming films lined up for release. His future projects feature major collaborations with some of Bollywood's most prominent filmmakers and production houses.\n\nAmong his confirmed upcoming appearances is Rohit Shetty's comedy sequel 'Golmaal 5'. Additionally, he is set to star in 'Ranger', an action-adventure film helmed by Jagan Shakti, backed by Luv Ranjan, Ankur Garg, Ajay Devgn, and Anand Pandit, with Sanjay Dutt playing the antagonist. Another key project on his slate is 'Chauhaan', directed by Neeraj Yadav.\n\nNews Overview\n\nActor Ajay Devgn and producer Bhushan Kumar are reportedly in talks for a major Indian espionage thriller, building on their history of successful collaborations. The high-budget project is slated to begin filming in 2027 with a target release in 2028, adding to Devgn's already busy upcoming slate that includes 'Drishyam 3', 'Golmaal 5', 'Ranger', and 'Chauhaan'.",
+   "author": {
+    "@type": "Organization",
+    "name": "FlickAtlas"
+   },
+   "datePublished": "2026-11-22T05:19:53.000Z",
+   "description": "Actor Ajay Devgn is reportedly nearing a deal with producer Bhushan Kumar for a massive espionage thriller, with plans to begin filming in 2027 and target a…",
+   "headline": "Ajay Devgn and Bhushan Kumar to Join Forces for High-Budget Indian Espionage Thriller",
+   "image": "https://static.toiimg.com/thumb/msid-136067876,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+   "keywords": "Ajay Devgn spy thriller, Bhushan Kumar Ajay Devgn film, Ajay Devgn upcoming movies 2028, Drishyam 3 Ajay Devgn",
+   "mainEntityOfPage": "https://flickatlas.co.uk/news-item?id=ham19m",
+   "publisher": {
+    "@type": "Organization",
+    "logo": {
+     "@type": "ImageObject",
+     "url": "https://flickatlas.co.uk/icon-512.png"
+    },
+    "name": "FlickAtlas"
+   },
+   "url": "https://flickatlas.co.uk/news-item?id=ham19m"
+  },
+  "modified": "",
+  "published": "2026-11-22T05:19:53.000Z",
+  "ssr": "<article class=\"ssr-facts\">\n<h1>Ajay Devgn and Bhushan Kumar to Join Forces for High-Budget Indian Espionage Thriller</h1>\n<p class=\"ssr-lead\">Actor Ajay Devgn is reportedly nearing a deal with producer Bhushan Kumar for a massive espionage thriller, with plans to begin filming in 2027 and target a mid-2028 theatrical release.</p>\n<p class=\"ssr-date\">Published 22 November 2026</p>\n<h2>A Proven Partnership in Bollywood</h2>\n<p>Over the years, actor Ajay Devgn and producer Bhushan Kumar have established one of the most successful collaborative relationships in the Hindi film industry. Their previous joint ventures have consistently struck a chord with audiences at the box office, delivering notable hits that span various genres.</p>\n<p>Some of the most prominent titles emerging from their past collaborations include &#x27;Tanhaji: The Unsung Warrior&#x27;, &#x27;Raid 2&#x27;, &#x27;Drishyam 2&#x27;, &#x27;Dhamaal 4&#x27;, and &#x27;De De Pyaar De&#x27;. Building on this established track record of commercial success, the duo is now exploring yet another major creative collaboration.</p>\n<h2>The New Espionage Project</h2>\n<p>According to reports from Bollywood Hungama, Ajay Devgn is currently in advanced talks to lock in a brand-new, high-budget spy thriller spearheaded by Bhushan Kumar. The producer has reportedly developed a fresh and unexplored narrative set against the backdrop of Indian espionage.</p>\n<p>Sources indicate that Devgn is keenly interested in the project, having already participated in several introductory meetings. Those close to the development have described the scope and tone of the script as being just as gripping as &#x27;Dhurandhar&#x27;.</p>\n<h2>Production Timeline and Projected Release</h2>\n<p>While official details regarding the director and remaining cast members are still being kept strictly confidential, preliminary schedules for the film&#x27;s production have begun to take shape. Industry insiders suggest that if Devgn officially signs on, principal photography will kick off in 2027.</p>\n<p>The makers are eyeing a theatrical premiere around mid-2028. Given the massive financial backing and scale of the narrative, the film is expected to rank among the biggest tentpole releases of Devgn&#x27;s entire acting career.</p>\n<h2>Devgn&#x27;s Recent Success with &#x27;Drishyam 3&#x27;</h2>\n<p>This upcoming venture follows a period of immense professional momentum for the actor. Ajay Devgn is currently riding high on the critical and commercial success of &#x27;Drishyam 3&#x27;, the latest installment in his popular suspense franchise.</p>\n<p>The release of &#x27;Drishyam 3&#x27; notably marked the biggest opening of Devgn&#x27;s career thus far, further cementing his box-office dominance in the thriller genre and setting a high bar for his subsequent projects.</p>\n<h2>A Packed Professional Slate</h2>\n<p>Beyond the newly discussed spy thriller, Devgn has a heavily packed roster of upcoming films lined up for release. His future projects feature major collaborations with some of Bollywood&#x27;s most prominent filmmakers and production houses.</p>\n<p>Among his confirmed upcoming appearances is Rohit Shetty&#x27;s comedy sequel &#x27;Golmaal 5&#x27;. Additionally, he is set to star in &#x27;Ranger&#x27;, an action-adventure film helmed by Jagan Shakti, backed by Luv Ranjan, Ankur Garg, Ajay Devgn, and Anand Pandit, with Sanjay Dutt playing the antagonist. Another key project on his slate is &#x27;Chauhaan&#x27;, directed by Neeraj Yadav.</p>\n<h2>News Overview</h2>\n<p>Actor Ajay Devgn and producer Bhushan Kumar are reportedly in talks for a major Indian espionage thriller, building on their history of successful collaborations. The high-budget project is slated to begin filming in 2027 with a target release in 2028, adding to Devgn&#x27;s already busy upcoming slate that includes &#x27;Drishyam 3&#x27;, &#x27;Golmaal 5&#x27;, &#x27;Ranger&#x27;, and &#x27;Chauhaan&#x27;.</p>\n<h2>Key facts</h2>\n<ul><li>Ajay Devgn and Bhushan Kumar have previously collaborated on Tanhaji: The Unsung Warrior, Raid 2, Drishyam 2, Dhamaal 4, and De De Pyaar De</li><li>The new espionage thriller is slated to begin shooting in 2027</li><li>The theatrical release is targeted for mid-2028</li><li>Drishyam 3 marked the biggest opening of Ajay Devgn&#x27;s career</li><li>Ajay Devgn&#x27;s upcoming films include Golmaal 5, Ranger, and Chauhaan</li></ul>\n</article>",
+  "t": "Ajay Devgn and Bhushan Kumar to Join Forces for High-Budget Indian Espionage Thriller"
  },
  "news:ham6mf": {
   "d": "A fresh trailer for Wolf Creek 3 has been released, showcasing the return of John Jarratt as the infamous serial killer Mick Taylor.",
@@ -126247,6 +127345,39 @@
   "published": "2026-11-05T00:51:25.000Z",
   "ssr": "<article class=\"ssr-facts\">\n<h1>Allu Arjun and Rishab Shetty Praise Ranbir Kapoor Starrer Ramayana</h1>\n<p class=\"ssr-lead\">Prominent film stars Allu Arjun and Rishab Shetty have extended their best wishes to the team behind Ramayana: Part 1, calling it much more than a standard cinematic release ahead of its theatrical debut.</p>\n<p class=\"ssr-date\">Published 5 November 2026</p>\n<h2>Support from South Indian Stars</h2>\n<p>As the highly anticipated theatrical release approaches, several prominent figures from the film industry have come forward to back the massive mythological project. Actor Allu Arjun took to social media to urge fans and audiences to support the movie, emphasizing that it transcends a regular cinematic experience. He described the project as a vital representation of Indian culture and an ambitious effort to elevate the overall standard of Indian cinema.</p>\n<p>In his public message, Allu Arjun encouraged everyone to rally behind the creation, noting that it highlights native stories and national heritage. Kannada actor Rishab Shetty similarly expressed his admiration for the undertaking. He highlighted the unique impact of witnessing ancient narratives brought to life on such an expansive canvas, calling it a moment of immense pride for the entire national film fraternity.</p>\n<h2>Cast and Creative Vision</h2>\n<p>Directed by Nitesh Tiwari, the grand two-part epic features a high-profile ensemble cast portraying legendary characters. Ranbir Kapoor stars as Lord Ram, with Sai Pallavi stepping into the role of Sita and Yash appearing as Ravan. Additionally, Sunny देओल takes on the part of Hanuman, while Ravi Dubey portrays Lakshman.</p>\n<p>The production is backed by producers Namit Malhotra and Yash, bringing together top-tier creative talent. The musical score for the ambitious venture is composed by the renowned duo of A.R. Rahman and Hans Zimmer, ensuring a grand auditory experience to match the visual scale.</p>\n<h2>Personal Reactions and Family Sentiments</h2>\n<p>Bollywood actor Arjun Rampal also shared his excitement for the premiere, recounting a touching moment involving his young son. He revealed that his son brought home an idol of Lord Ram and declared him a favorite new superhero. Rampal expressed profound pride as an artist, noting his anticipation of experiencing the grand spectacle alongside his family.</p>\n<p>Meanwhile, musician Badshah was also reported to have shared an emotional reaction online after viewing the feature. The outpouring of positive sentiments from industry peers highlights the massive anticipation surrounding the mythological adaptation as it prepares for its worldwide audience.</p>\n<h2>Global Screenings and Advance Bookings</h2>\n<p>The project has been generating substantial buzz internationally, having recently held a well-received premiere at the Academy Museum of Motion Pictures in Los Angeles. Following the screening, the film received favorable initial responses, paving the way for strong momentum in its advance booking phase.</p>\n<p>Domestic pre-sales gained significant traction leading up to the opening weekend. Reports indicate that advance bookings crossed notable milestones, with a substantial portion of the earnings coming directly from opening-day ticket reservations across various theaters.</p>\n<h2>Ticketing Delays in Domestic Markets</h2>\n<p>Despite immense enthusiasm from moviegoers, the rollout of ticket sales in domestic theaters faced unexpected hurdles. While international audiences enjoyed immediate access to pre-sales following Dussehra on October 15, ticket availability in India was delayed.</p>\n<p>The delay was primarily caused by ongoing discussions and disagreements between film distributors and theater owners regarding revenue-sharing models. As a result, domestic viewers had to wait until approximately five days before the official premiere to secure their seats.</p>\n<h2>News Overview</h2>\n<p>Actors Allu Arjun and Rishab Shetty praised the upcoming theatrical release of Ramayana, describing it as a grand celebration of culture rather than just a movie. Directed by Nitesh Tiwari and starring Ranbir Kapoor, the epic generated strong pre-release buzz, robust advance bookings, and widespread appreciation from industry colleagues ahead of its November 5 release.</p>\n<h2>Key facts</h2>\n<ul><li>Release date is November 5, 2026</li><li>Dussehra fell on October 15</li><li>Opening weekend pre-sales reached approximately 100 crore rupees</li><li>Opening-day booking collections reached approximately 33 crore rupees</li><li>Director is Nitesh Tiwari</li></ul>\n</article>",
   "t": "Allu Arjun and Rishab Shetty Praise Ranbir Kapoor Starrer Ramayana"
+ },
+ "news:k863hl": {
+  "d": "Adapting a beloved book series to television is often fraught with risk, but one eight-episode Netflix release managed to honor its literary roots while…",
+  "img": "https://static0.srcdn.com/wordpress/wp-content/uploads/2026/11/fairfax-and-ellie-in-lockwood-co-netflix.jpg?w=1600&amp;h=900&amp;fit=crop",
+  "k": "Lockwood Co Netflix, Jonathan Stroud books adaptation, Cameron Chapman Lockwood Co, Lockwood Co season cancellation, El Kuiper Lockwood Co., Lockwood Co., El Kuiper, Jonathan Stroud Lockwood Co., entertainment news, FlickAtlas",
+  "ld": {
+   "@context": "https://schema.org",
+   "@type": "NewsArticle",
+   "articleBody": "Bringing A Paranormal World To Life\n\nTranslating a fantasy or science fiction novel to the screen comes with distinct challenges. While television formats allow for greater detail than a standard film script, they carry the constant danger of alienating readers, altering core characters, or rushing through vital plot timelines.\n\nDespite these obstacles, certain adaptations manage to strike the right balance. They maintain fidelity to the original source material while offering a fresh, engaging interpretation that appeals to both newcomers and longtime fans of the books.\n\nThe Premise Of Lockwood Co\n\nThis success is evident in Netflix's eight-episode adaptation of Lockwood Co., based on the young adult supernatural book series by author Jonathan Stroud. The story unfolds in an alternate, 1980s-inspired version of the UK where aggressive ghosts have overrun society.\n\nIn this reality, only children and teenagers possess the psychic abilities required to see, hear, and combat the paranormal threat. Independent agents Anthony Lockwood, Lucy Carlyle, and George Karim operate out of a London base on Portland Row, tackling terrifying hauntings.\n\nCharacters And Atmosphere\n\nThe television series successfully captures the eerie, vintage atmosphere of the novels without ever skimping on genuine horror. Although Stroud's five-book saga targets a younger demographic, the narrative remains richly layered and complex, suitable for audiences of all ages.\n\nCentral to this appeal is the strong chemistry among the principal cast members. Cameron Chapman delivers a standout performance as the witty yet vulnerable ringleader Anthony Lockwood, supported by Ruby Stokes as Lucy and Ali Hadji-Heshmati as George.\n\nClever Book Adaptations\n\nBeyond aesthetics and casting, the show remains remarkably faithful to the books by combining the first two novels in Stroud's series, The Screaming Staircase and The Whispering Skull, into a single eight-episode season without sacrificing character depth.\n\nAccording to director Joe Cornish, the production omitted only one major set piece from the opening books. The adaptation also updated certain elements, such as renaming George to George Karim to reflect Hadji-Heshmati's British-Iranian heritage.\n\nExpanding Backstories\n\nThe screen version also expands upon Lucy Carlyle's history in the countryside before she arrives in London. It directly depicts her past trauma, including an incident where her fellow agent Norrie becomes ghost-locked in a paralytic coma.\n\nThis expanded background helps solidify Lucy's resolve and strengthens her interpersonal dynamics with her co-workers Anthony and George as they navigate dangerous encounters in the competitive paranormal detection industry.\n\nAn Untimely Cancellation\n\nTragically, despite its high quality, Lockwood Co. faced cancellation after its inaugural season, joining the ranks of many short-lived supernatural dramas on the streaming platform. Industry reports note that Netflix productions often face increased financial hurdles after three seasons.\n\nEven with a truncated run, the series earned widespread acclaim from both critics and general audiences, securing a rare 100 percent critics' score and a 94 percent audience score on Rotten Tomatoes.\n\nNews Overview\n\nNetflix's eight-episode adaptation of Jonathan Stroud's book series successfully brought a supernatural fantasy mystery to the screen before facing cancellation after its first season. Despite its brief run, the show earned high critical praise and faithfully combined elements from the first two novels while introducing minor character updates.",
+   "author": {
+    "@type": "Organization",
+    "name": "FlickAtlas"
+   },
+   "datePublished": "2026-11-22T06:45:18.000Z",
+   "description": "Adapting a beloved book series to television is often fraught with risk, but one eight-episode Netflix release managed to honor its literary roots while…",
+   "headline": "Netflix Fantasy Mystery Series Shines As A Faithful Book Adaptation",
+   "image": "https://static0.srcdn.com/wordpress/wp-content/uploads/2026/11/fairfax-and-ellie-in-lockwood-co-netflix.jpg?w=1600&amp;h=900&amp;fit=crop",
+   "keywords": "Lockwood Co Netflix, Jonathan Stroud books adaptation, Cameron Chapman Lockwood Co, Lockwood Co season cancellation",
+   "mainEntityOfPage": "https://flickatlas.co.uk/news-item?id=k863hl",
+   "publisher": {
+    "@type": "Organization",
+    "logo": {
+     "@type": "ImageObject",
+     "url": "https://flickatlas.co.uk/icon-512.png"
+    },
+    "name": "FlickAtlas"
+   },
+   "url": "https://flickatlas.co.uk/news-item?id=k863hl"
+  },
+  "modified": "",
+  "published": "2026-11-22T06:45:18.000Z",
+  "ssr": "<article class=\"ssr-facts\">\n<h1>Netflix Fantasy Mystery Series Shines As A Faithful Book Adaptation</h1>\n<p class=\"ssr-lead\">Adapting a beloved book series to television is often fraught with risk, but one eight-episode Netflix release managed to honor its literary roots while delivering a captivating supernatural adventure.</p>\n<p class=\"ssr-date\">Published 22 November 2026</p>\n<h2>Bringing A Paranormal World To Life</h2>\n<p>Translating a fantasy or science fiction novel to the screen comes with distinct challenges. While television formats allow for greater detail than a standard film script, they carry the constant danger of alienating readers, altering core characters, or rushing through vital plot timelines.</p>\n<p>Despite these obstacles, certain adaptations manage to strike the right balance. They maintain fidelity to the original source material while offering a fresh, engaging interpretation that appeals to both newcomers and longtime fans of the books.</p>\n<h2>The Premise Of Lockwood Co</h2>\n<p>This success is evident in Netflix&#x27;s eight-episode adaptation of Lockwood Co., based on the young adult supernatural book series by author Jonathan Stroud. The story unfolds in an alternate, 1980s-inspired version of the UK where aggressive ghosts have overrun society.</p>\n<p>In this reality, only children and teenagers possess the psychic abilities required to see, hear, and combat the paranormal threat. Independent agents Anthony Lockwood, Lucy Carlyle, and George Karim operate out of a London base on Portland Row, tackling terrifying hauntings.</p>\n<h2>Characters And Atmosphere</h2>\n<p>The television series successfully captures the eerie, vintage atmosphere of the novels without ever skimping on genuine horror. Although Stroud&#x27;s five-book saga targets a younger demographic, the narrative remains richly layered and complex, suitable for audiences of all ages.</p>\n<p>Central to this appeal is the strong chemistry among the principal cast members. Cameron Chapman delivers a standout performance as the witty yet vulnerable ringleader Anthony Lockwood, supported by Ruby Stokes as Lucy and Ali Hadji-Heshmati as George.</p>\n<h2>Clever Book Adaptations</h2>\n<p>Beyond aesthetics and casting, the show remains remarkably faithful to the books by combining the first two novels in Stroud&#x27;s series, The Screaming Staircase and The Whispering Skull, into a single eight-episode season without sacrificing character depth.</p>\n<p>According to director Joe Cornish, the production omitted only one major set piece from the opening books. The adaptation also updated certain elements, such as renaming George to George Karim to reflect Hadji-Heshmati&#x27;s British-Iranian heritage.</p>\n<h2>Expanding Backstories</h2>\n<p>The screen version also expands upon Lucy Carlyle&#x27;s history in the countryside before she arrives in London. It directly depicts her past trauma, including an incident where her fellow agent Norrie becomes ghost-locked in a paralytic coma.</p>\n<p>This expanded background helps solidify Lucy&#x27;s resolve and strengthens her interpersonal dynamics with her co-workers Anthony and George as they navigate dangerous encounters in the competitive paranormal detection industry.</p>\n<h2>An Untimely Cancellation</h2>\n<p>Tragically, despite its high quality, Lockwood Co. faced cancellation after its inaugural season, joining the ranks of many short-lived supernatural dramas on the streaming platform. Industry reports note that Netflix productions often face increased financial hurdles after three seasons.</p>\n<p>Even with a truncated run, the series earned widespread acclaim from both critics and general audiences, securing a rare 100 percent critics&#x27; score and a 94 percent audience score on Rotten Tomatoes.</p>\n<h2>News Overview</h2>\n<p>Netflix&#x27;s eight-episode adaptation of Jonathan Stroud&#x27;s book series successfully brought a supernatural fantasy mystery to the screen before facing cancellation after its first season. Despite its brief run, the show earned high critical praise and faithfully combined elements from the first two novels while introducing minor character updates.</p>\n<h2>Key facts</h2>\n<ul><li>Lockwood Co. is an eight-episode fantasy mystery series on Netflix.</li><li>The show is based on the books by YA author Jonathan Stroud.</li><li>The main characters are Anthony Lockwood, Lucy Carlyle, and George Karim.</li><li>The cast includes Cameron Chapman, Ruby Stokes, and Ali Hadji-Heshmati.</li><li>The first season adapts the books The Screaming Staircase and The Whispering Skull.</li><li>The series received a 100 percent critics&#x27; score and a 94 percent audience score on Rotten Tomatoes.</li><li>The show was canceled after its first season.</li></ul>\n</article>",
+  "t": "Netflix Fantasy Mystery Series Shines As A Faithful Book Adaptation"
  },
  "news:k9d3s6": {
   "d": "A new documentary captures the explosive arguments, management interventions, and Mikey Graham's anxious return during Boyzone's final concert series.",
@@ -150000,6 +151131,39 @@
   "published": "2026-11-19",
   "ssr": "<article class=\"ssr-facts\">\n<h1>Lo Chudail Chali Sasural (2026)</h1>\n<p class=\"ssr-lead\">Urvashi, a chudail longing for a human family, marries Aarav Patel and joins his lively Gujarati joint family. As her magic causes hilarious mishaps, Aarav struggles to protect her secret while her human-hating mother Kamini fuels the chaos. Amid magical mayhem, and family drama, love finds a way.</p>\n<h2>Key facts</h2>\n<ul><li>First air date: 18 November 2026</li><li>Seasons: 1 · Episodes: 1</li><li>Created by: Vipul D. Shah</li><li>Director: Ritwik Mukherjee</li><li>Genres: Comedy, Drama</li><li>Status: Returning Series</li></ul>\n<h2>Top cast</h2>\n<ul><li>Hiba Nawab</li><li>Adhik Mehta</li><li>Rakhee Tandon</li><li>Reema Worah</li><li>Khanjan Thumber</li><li>Ashish Bhatt</li></ul>\n<h2>Where to watch</h2>\n<ul><li>Streaming on Sonyliv Amazon Channel (IN)</li></ul>\n</article>",
   "t": "Lo Chudail Chali Sasural (2026) — Seasons, Episodes, Cast & Story | FlickAtlas",
+  "year": "2026"
+ },
+ "tv:338740": {
+  "d": "Supreme Solaris (2026) is an Animation and Action & Adventure TV series. Explore its story: Seventeen-year-old Veer Singh's life changes forever… and cast.",
+  "img": "https://image.tmdb.org/t/p/w780/p3SEhttAEap556IdWd1hMsmJz5q.jpg",
+  "industry": "bollywood",
+  "k": "Supreme Solaris, Supreme Solaris TV series, Supreme Solaris cast, Supreme Solaris story, Supreme Solaris seasons, Supreme Solaris episodes, Supreme Solaris season 1, Supreme Solaris 5 episodes, Supreme Solaris first air date, Supreme Solaris Animation, Supreme Solaris Action & Adventure, Bollywood TV series, FlickAtlas",
+  "ld": {
+   "@context": "https://schema.org",
+   "@type": "TVSeries",
+   "description": "Supreme Solaris (2026) is an Animation and Action & Adventure TV series. Explore its story: Seventeen-year-old Veer Singh's life changes forever… and cast.",
+   "director": [
+    {
+     "@type": "Person",
+     "name": "Abhishek Saini"
+    }
+   ],
+   "genre": [
+    "Animation",
+    "Action & Adventure"
+   ],
+   "image": "https://image.tmdb.org/t/p/w780/p3SEhttAEap556IdWd1hMsmJz5q.jpg",
+   "mainEntityOfPage": "https://flickatlas.co.uk/show?id=338740",
+   "name": "Supreme Solaris",
+   "numberOfEpisodes": 5,
+   "numberOfSeasons": 1,
+   "startDate": "2026-11-22",
+   "url": "https://flickatlas.co.uk/show?id=338740"
+  },
+  "modified": "",
+  "published": "2026-11-22",
+  "ssr": "<article class=\"ssr-facts\">\n<h1>Supreme Solaris (2026)</h1>\n<p class=\"ssr-lead\">Seventeen-year-old Veer Singh&#x27;s life changes forever when an extraordinary alien device known as Xion bonds with his chest, awakening powers beyond human comprehension. As the ancient cosmic intelligence within Xion guides him through a dangerous journey of discovery and training, Veer must learn to control his newfound abilities and confront the responsibility that comes with them. But becoming a hero demands more than extraordinary power. Faced with fear, difficult choices, and threats that extend far beyond Earth, Veer must discover what it truly means to become Supreme Solaris—the one who stands as a beacon of hope when darkness threatens humanity.</p>\n<h2>Key facts</h2>\n<ul><li>First air date: 22 November 2026</li><li>Seasons: 1 · Episodes: 5</li><li>Created by: Abhishek Saini</li><li>Director: Abhishek Saini</li><li>Genres: Animation, Action &amp; Adventure, Sci-Fi &amp; Fantasy</li><li>Status: Returning Series</li></ul>\n</article>",
+  "t": "Supreme Solaris (2026) — Seasons, Episodes, Cast & Story | FlickAtlas",
   "year": "2026"
  },
  "tv:338849": {

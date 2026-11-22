@@ -217453,5 +217453,406 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "2026-11-22T05:52:20Z"
+  },
+  "1dutqpx": {
+    "id": "1dutqpx",
+    "type": "news",
+    "headline": "Ramayana Box Office Day 17: Film Tops 1,616 Crore and Becomes 3rd Highest-Grosser",
+    "dek": "Nitesh Tiwari's epic adaptation Ramayana: Rise of a Legend crosses the Rs 1,600-crore milestone globally on its third Saturday, cementing its place as the third-highest-grossing Indian film.",
+    "body": [
+      {
+        "h": "Global Milestone Reached",
+        "p": [
+          "The epic cinematic feature Ramayana: Rise of a Legend has successfully crossed the massive financial threshold of Rs 1,616.70 crore worldwide. This global total was achieved by the seventeenth day of its theatrical run.",
+          "Trade trackers and industry reports highlight that the production crossed the Rs 1,600-crore milestone specifically on its third Saturday. This strong international and domestic performance places the project among the most lucrative cinematic ventures in Indian film history."
+        ]
+      },
+      {
+        "h": "Domestic Nett and Weekend Surge",
+        "p": [
+          "At the domestic box office, the feature recorded a notable seventy-four per cent jump on its third Saturday. Across all languages in India, the film brought in Rs 27.40 crore nett on Day 17, marking a sharp increase from the Rs 15.75 crore earned on Friday.",
+          "With this weekend surge included, the seventeen-day India net collection reached Rs 906.90 crore, translating to an India gross total of Rs 1,083.70 crore. Meanwhile, overseas markets contributed an additional Rs 533 crore to the worldwide tally."
+        ]
+      },
+      {
+        "h": "Record-Breaking Club Entry",
+        "p": [
+          "Ramayana: Rise of a Legend has officially emerged as the third-fastest Indian release to breach the Rs 900-crore India nett mark. In this regard, it trails only Pushpa 2: The Rule and Dhurandhar 2.",
+          "Furthermore, the production is only the fourth Indian film in history to enter the elite Rs 900-crore domestic nett club. The other titles sharing this distinction are Baahubali 2: The Conclusion, Pushpa 2: The Rule, and Dhurandhar 2."
+        ]
+      },
+      {
+        "h": "Language-Wise Performance Breakdown",
+        "p": [
+          "The Hindi version continued to dominate ticket sales, contributing the bulk of Saturday's business with Rs 20.25 crore nett from 13,553 shows. This brought its seventeen-day Hindi nett tally to a staggering Rs 689.25 crore.",
+          "Among the regional dubbed offerings, Malayalam led the Day 17 earnings with Rs 2.75 crore. It was followed by Tamil at Rs 2 crore, Kannada at Rs 1.65 crore, and Telugu at Rs 75 lakh."
+        ]
+      },
+      {
+        "h": "Occupancy Rates and Key Markets",
+        "p": [
+          "Overall audience occupancy across 15,851 shows saw a positive upward trend, rising from 18.2 per cent on Friday to 29.7 per cent on Saturday. Certain urban centers performed exceptionally well during this period.",
+          "Notably, Chennai led the Hindi 3D occupancy figures by recording an impressive 86 per cent turnout on the third Saturday, reflecting sustained regional enthusiasm for the cinematic adaptation."
+        ]
+      },
+      {
+        "h": "Cast, Crew and Production Background",
+        "p": [
+          "Helmed by director Nitesh Tiwari, the movie features Ranbir Kapoor as Lord Rama, Sai Pallavi as Sita, Yash as Ravana, and Ravie Dubey as Lakshman. The expansive star cast also includes Lara Dutta, Rakul Preet Singh, Kajal Aggarwal, and Vivek Oberoi.",
+          "The feature was produced by Namit Malhotra’s Prime Focus Studios in collaboration with Yash’s Monster Mind Creations. Musical accompaniment for the project was composed by AR Rahman and Hans Zimmer, leading up to its theatrical premiere ahead of Diwali on November 5, 2026."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Ramayana: Rise of a Legend reached Rs 1,616.70 crore worldwide by its seventeenth day, solidifying its status as the third-highest-grossing Indian film. The feature secured a Rs 27.40 crore nett collection on its third Saturday, driving its domestic total to Rs 906.90 crore and making it the fourth Indian film to enter the Rs 900-crore domestic nett club."
+        ]
+      }
+    ],
+    "facts": [
+      "Ramayana: Rise of a Legend reached Rs 1,616.70 crore worldwide on Day 17.",
+      "The 17-day India net collection stands at Rs 906.90 crore.",
+      "Day 17 (Third Saturday) collection in India was Rs 27.40 crore.",
+      "Day 16 (Third Friday) collection in India was Rs 15.75 crore.",
+      "The film was released in theatres on November 5 ahead of Diwali.",
+      "The Hindi version's 17-day nett tally reached Rs 689.25 crore."
+    ],
+    "entities": {
+      "people": [
+        "Ranbir Kapoor",
+        "Sai Pallavi",
+        "Ravie Dubey",
+        "Yash",
+        "Nitesh Tiwari",
+        "Allu Arjun",
+        "Ranveer Singh",
+        "SS Rajamouli",
+        "Lara Dutta",
+        "Rakul Preet Singh",
+        "Kajal Aggarwal",
+        "Vivek Oberoi",
+        "Arun Govil",
+        "Indira Krishnan",
+        "Sheeba Chaddha",
+        "AR Rahman",
+        "Hans Zimmer",
+        "Namit Malhotra"
+      ],
+      "titles": [
+        "Ramayana: Rise of a Legend",
+        "Pushpa 2: The Rule",
+        "Dhurandhar 2",
+        "Baahubali 2: The Conclusion"
+      ]
+    },
+    "keywords": [
+      "Ramayana Rise of a Legend box office",
+      "Ramayana Day 17 collection",
+      "Ranbir Kapoor Ramayana film",
+      "Ramayana 1616 crore worldwide"
+    ],
+    "images": [
+      {
+        "url": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202611/ramayana-box-office-day-17-film-tops-1-616-crore--becomes-3rd-highest-grosser-220210333-16x9_0.png?VersionId=_x64c88uqAJmvxt8ymp8Rng4KAyz.l33",
+        "caption": "Ramayana Box Office Day 17: Film Tops 1,616 Crore and Becomes 3rd Highest-Grosser",
+        "source": "India Today — Movies"
+      }
+    ],
+    "published": "Sun, 22 Nov 2026 11:32:28 +0530"
+  },
+  "k863hl": {
+    "id": "k863hl",
+    "type": "news",
+    "headline": "Netflix Fantasy Mystery Series Shines As A Faithful Book Adaptation",
+    "dek": "Adapting a beloved book series to television is often fraught with risk, but one eight-episode Netflix release managed to honor its literary roots while delivering a captivating supernatural adventure.",
+    "body": [
+      {
+        "h": "Bringing A Paranormal World To Life",
+        "p": [
+          "Translating a fantasy or science fiction novel to the screen comes with distinct challenges. While television formats allow for greater detail than a standard film script, they carry the constant danger of alienating readers, altering core characters, or rushing through vital plot timelines.",
+          "Despite these obstacles, certain adaptations manage to strike the right balance. They maintain fidelity to the original source material while offering a fresh, engaging interpretation that appeals to both newcomers and longtime fans of the books."
+        ]
+      },
+      {
+        "h": "The Premise Of Lockwood Co",
+        "p": [
+          "This success is evident in Netflix's eight-episode adaptation of Lockwood Co., based on the young adult supernatural book series by author Jonathan Stroud. The story unfolds in an alternate, 1980s-inspired version of the UK where aggressive ghosts have overrun society.",
+          "In this reality, only children and teenagers possess the psychic abilities required to see, hear, and combat the paranormal threat. Independent agents Anthony Lockwood, Lucy Carlyle, and George Karim operate out of a London base on Portland Row, tackling terrifying hauntings."
+        ]
+      },
+      {
+        "h": "Characters And Atmosphere",
+        "p": [
+          "The television series successfully captures the eerie, vintage atmosphere of the novels without ever skimping on genuine horror. Although Stroud's five-book saga targets a younger demographic, the narrative remains richly layered and complex, suitable for audiences of all ages.",
+          "Central to this appeal is the strong chemistry among the principal cast members. Cameron Chapman delivers a standout performance as the witty yet vulnerable ringleader Anthony Lockwood, supported by Ruby Stokes as Lucy and Ali Hadji-Heshmati as George."
+        ]
+      },
+      {
+        "h": "Clever Book Adaptations",
+        "p": [
+          "Beyond aesthetics and casting, the show remains remarkably faithful to the books by combining the first two novels in Stroud's series, The Screaming Staircase and The Whispering Skull, into a single eight-episode season without sacrificing character depth.",
+          "According to director Joe Cornish, the production omitted only one major set piece from the opening books. The adaptation also updated certain elements, such as renaming George to George Karim to reflect Hadji-Heshmati's British-Iranian heritage."
+        ]
+      },
+      {
+        "h": "Expanding Backstories",
+        "p": [
+          "The screen version also expands upon Lucy Carlyle's history in the countryside before she arrives in London. It directly depicts her past trauma, including an incident where her fellow agent Norrie becomes ghost-locked in a paralytic coma.",
+          "This expanded background helps solidify Lucy's resolve and strengthens her interpersonal dynamics with her co-workers Anthony and George as they navigate dangerous encounters in the competitive paranormal detection industry."
+        ]
+      },
+      {
+        "h": "An Untimely Cancellation",
+        "p": [
+          "Tragically, despite its high quality, Lockwood Co. faced cancellation after its inaugural season, joining the ranks of many short-lived supernatural dramas on the streaming platform. Industry reports note that Netflix productions often face increased financial hurdles after three seasons.",
+          "Even with a truncated run, the series earned widespread acclaim from both critics and general audiences, securing a rare 100 percent critics' score and a 94 percent audience score on Rotten Tomatoes."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Netflix's eight-episode adaptation of Jonathan Stroud's book series successfully brought a supernatural fantasy mystery to the screen before facing cancellation after its first season. Despite its brief run, the show earned high critical praise and faithfully combined elements from the first two novels while introducing minor character updates."
+        ]
+      }
+    ],
+    "facts": [
+      "Lockwood Co. is an eight-episode fantasy mystery series on Netflix.",
+      "The show is based on the books by YA author Jonathan Stroud.",
+      "The main characters are Anthony Lockwood, Lucy Carlyle, and George Karim.",
+      "The cast includes Cameron Chapman, Ruby Stokes, and Ali Hadji-Heshmati.",
+      "The first season adapts the books The Screaming Staircase and The Whispering Skull.",
+      "The series received a 100 percent critics' score and a 94 percent audience score on Rotten Tomatoes.",
+      "The show was canceled after its first season."
+    ],
+    "entities": {
+      "people": [
+        "El Kuiper",
+        "Jonathan Stroud",
+        "Anthony Lockwood",
+        "Lucy Carlyle",
+        "George Karim",
+        "Cameron Chapman",
+        "Ruby Stokes",
+        "Ali Hadji-Heshmati",
+        "Joe Cornish",
+        "Norrie",
+        "George Cubbins",
+        "Antonella Gugliersi",
+        "Ivanno Jeremiah",
+        "Catherine Morshead",
+        "William McGregor",
+        "Joy Wilkinson",
+        "Ed Hime",
+        "Kara Smith"
+      ],
+      "titles": [
+        "Lockwood Co.",
+        "The Screaming Staircase",
+        "The Whispering Skull",
+        "The Dagger in the Desk",
+        "The Hollow Boy",
+        "The Creeping Shadow",
+        "The Empty Grave",
+        "Stranger Things",
+        "Wednesday",
+        "Bridgerton",
+        "Black Mirror"
+      ]
+    },
+    "keywords": [
+      "Lockwood Co Netflix",
+      "Jonathan Stroud books adaptation",
+      "Cameron Chapman Lockwood Co",
+      "Lockwood Co season cancellation"
+    ],
+    "images": [
+      {
+        "url": "https://static0.srcdn.com/wordpress/wp-content/uploads/2026/11/fairfax-and-ellie-in-lockwood-co-netflix.jpg?w=1600&amp;h=900&amp;fit=crop",
+        "caption": "Netflix Fantasy Mystery Series Shines As A Faithful Book Adaptation",
+        "source": "Screen Rant"
+      }
+    ],
+    "published": "Sun, 22 Nov 2026 06:45:18 GMT"
+  },
+  "ham19m": {
+    "id": "ham19m",
+    "type": "news",
+    "headline": "Ajay Devgn and Bhushan Kumar to Join Forces for High-Budget Indian Espionage Thriller",
+    "dek": "Actor Ajay Devgn is reportedly nearing a deal with producer Bhushan Kumar for a massive espionage thriller, with plans to begin filming in 2027 and target a mid-2028 theatrical release.",
+    "body": [
+      {
+        "h": "A Proven Partnership in Bollywood",
+        "p": [
+          "Over the years, actor Ajay Devgn and producer Bhushan Kumar have established one of the most successful collaborative relationships in the Hindi film industry. Their previous joint ventures have consistently struck a chord with audiences at the box office, delivering notable hits that span various genres.",
+          "Some of the most prominent titles emerging from their past collaborations include 'Tanhaji: The Unsung Warrior', 'Raid 2', 'Drishyam 2', 'Dhamaal 4', and 'De De Pyaar De'. Building on this established track record of commercial success, the duo is now exploring yet another major creative collaboration."
+        ]
+      },
+      {
+        "h": "The New Espionage Project",
+        "p": [
+          "According to reports from Bollywood Hungama, Ajay Devgn is currently in advanced talks to lock in a brand-new, high-budget spy thriller spearheaded by Bhushan Kumar. The producer has reportedly developed a fresh and unexplored narrative set against the backdrop of Indian espionage.",
+          "Sources indicate that Devgn is keenly interested in the project, having already participated in several introductory meetings. Those close to the development have described the scope and tone of the script as being just as gripping as 'Dhurandhar'."
+        ]
+      },
+      {
+        "h": "Production Timeline and Projected Release",
+        "p": [
+          "While official details regarding the director and remaining cast members are still being kept strictly confidential, preliminary schedules for the film's production have begun to take shape. Industry insiders suggest that if Devgn officially signs on, principal photography will kick off in 2027.",
+          "The makers are eyeing a theatrical premiere around mid-2028. Given the massive financial backing and scale of the narrative, the film is expected to rank among the biggest tentpole releases of Devgn's entire acting career."
+        ]
+      },
+      {
+        "h": "Devgn's Recent Success with 'Drishyam 3'",
+        "p": [
+          "This upcoming venture follows a period of immense professional momentum for the actor. Ajay Devgn is currently riding high on the critical and commercial success of 'Drishyam 3', the latest installment in his popular suspense franchise.",
+          "The release of 'Drishyam 3' notably marked the biggest opening of Devgn's career thus far, further cementing his box-office dominance in the thriller genre and setting a high bar for his subsequent projects."
+        ]
+      },
+      {
+        "h": "A Packed Professional Slate",
+        "p": [
+          "Beyond the newly discussed spy thriller, Devgn has a heavily packed roster of upcoming films lined up for release. His future projects feature major collaborations with some of Bollywood's most prominent filmmakers and production houses.",
+          "Among his confirmed upcoming appearances is Rohit Shetty's comedy sequel 'Golmaal 5'. Additionally, he is set to star in 'Ranger', an action-adventure film helmed by Jagan Shakti, backed by Luv Ranjan, Ankur Garg, Ajay Devgn, and Anand Pandit, with Sanjay Dutt playing the antagonist. Another key project on his slate is 'Chauhaan', directed by Neeraj Yadav."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Actor Ajay Devgn and producer Bhushan Kumar are reportedly in talks for a major Indian espionage thriller, building on their history of successful collaborations. The high-budget project is slated to begin filming in 2027 with a target release in 2028, adding to Devgn's already busy upcoming slate that includes 'Drishyam 3', 'Golmaal 5', 'Ranger', and 'Chauhaan'."
+        ]
+      }
+    ],
+    "facts": [
+      "Ajay Devgn and Bhushan Kumar have previously collaborated on Tanhaji: The Unsung Warrior, Raid 2, Drishyam 2, Dhamaal 4, and De De Pyaar De",
+      "The new espionage thriller is slated to begin shooting in 2027",
+      "The theatrical release is targeted for mid-2028",
+      "Drishyam 3 marked the biggest opening of Ajay Devgn's career",
+      "Ajay Devgn's upcoming films include Golmaal 5, Ranger, and Chauhaan"
+    ],
+    "entities": {
+      "people": [
+        "Ajay Devgn",
+        "Bhushan Kumar",
+        "Rohit Shetty",
+        "Jagan Shakti",
+        "Luv Ranjan",
+        "Ankur Garg",
+        "Anand Pandit",
+        "Sanjay Dutt",
+        "Neeraj Yadav"
+      ],
+      "titles": [
+        "Tanhaji: The Unsung Warrior",
+        "Raid 2",
+        "Drishyam 2",
+        "Dhamaal 4",
+        "De De Pyaar De",
+        "Dhurandhar",
+        "Drishyam 3",
+        "Golmaal 5",
+        "Ranger",
+        "Chauhaan"
+      ]
+    },
+    "keywords": [
+      "Ajay Devgn spy thriller",
+      "Bhushan Kumar Ajay Devgn film",
+      "Ajay Devgn upcoming movies 2028",
+      "Drishyam 3 Ajay Devgn"
+    ],
+    "images": [
+      {
+        "url": "https://static.toiimg.com/thumb/msid-136067876,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "caption": "Ajay Devgn and Bhushan Kumar to Join Forces for High-Budget Indian Espionage Thriller",
+        "source": "Times of India — Entertainment"
+      }
+    ],
+    "published": "2026-11-22T10:49:53+05:30"
+  },
+  "f16xu7": {
+    "id": "f16xu7",
+    "type": "news",
+    "headline": "MEOMURU’s AI-Created Track Dominates Charts and Sparks Industry Debate",
+    "dek": "The chart-topping success of an artificial intelligence-assisted song on a major music platform has ignited fierce discussions regarding ownership, transparency, and legal protections.",
+    "body": [
+      {
+        "h": "Record-Breaking Chart Success",
+        "p": [
+          "The track titled 'Have You Become the Adult You Dreamed Of?' by the musical act MEOMURU achieved a historic milestone by securing the top position on a prominent domestic streaming platform's main chart. Maintaining this peak status for over a consecutive week, the track captured widespread attention across the digital landscape.",
+          "This performance marks the initial instance where a composition heavily reliant on artificial intelligence reached the summit of this specific chart. By outperforming established human artists and popular groups, the song pushed technological boundaries into mainstream commercial music territory."
+        ]
+      },
+      {
+        "h": "Origins and Production Methods",
+        "p": [
+          "Originally introduced months prior, the viral track gained massive traction after gaining exposure through short-form video content platforms. Listeners began utilizing the melody as background audio, propelling its gradual ascent to widespread popularity.",
+          "The creative process behind the project involved a specialized production team known as GLORYWAVE. While human professionals carefully mapped out the structural framework, conceptual direction, and written lyrics, the vocal delivery was entirely generated through automated software systems."
+        ]
+      },
+      {
+        "h": "Blurring Lines Between Human and Machine",
+        "p": [
+          "Industry analysts and commentators have pointed out that this achievement demonstrates how sophisticated automated tools have become. Telling the difference between traditional studio recordings and algorithmically produced tracks is increasingly difficult for the average listener.",
+          "Observers suggest that technological integration is inevitable as generative tools find acceptance in diverse creative fields. However, experts emphasize the urgent need for robust identification technologies to clearly label automated components within modern commercial audio."
+        ]
+      },
+      {
+        "h": "Transparency and Disclosure Gaps",
+        "p": [
+          "While the creators openly acknowledged the inclusion of synthesized vocals within the album introduction, regulatory frameworks currently lack strict disclosure mandates. There are no definitive standards requiring artists to publicly declare the exact degree of artificial involvement during the composition phase.",
+          "This ambiguity leaves consumers largely uninformed about how much human effort went into a given piece of work. Policymakers face growing pressure to establish clear guidelines that mandate complete transparency regarding automated audio generation."
+        ]
+      },
+      {
+        "h": "Copyright Complexities and Royalties",
+        "p": [
+          "Despite its massive commercial footprint, the song remains unregistered with major collective management organizations like the copyright association. Current legal frameworks generally restrict copyright protection strictly to tangible human creative output, complicating official registration for works co-created with machines.",
+          "Nevertheless, a lack of traditional copyright registration does not entirely cut off income streams. The project continues to secure revenue through alternative channels, such as neighboring rights tied directly to the commercial sound recording production."
+        ]
+      },
+      {
+        "h": "Regulatory Hurdles and Future Rules",
+        "p": [
+          "Governing bodies have previously attempted to introduce trust registration standards specifically designed for hybrid works involving both human ingenuity and computational assistance. However, these proposed policies faced swift withdrawal following demands for deeper public debate and industry consensus.",
+          "The unprecedented rise of algorithmically produced chart-toppers has injected fresh urgency into ongoing legislative discussions. Lawmakers and industry stakeholders must soon define precise rules regarding authorship attribution and equitable financial compensation."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "MEOMURU's track 'Have You Become the Adult You Dreamed Of?' achieved a milestone by topping a major music chart for over a week using AI-generated vocals. This success has sparked intense debates regarding copyright laws, transparency, and revenue distribution within the modern music industry."
+        ]
+      }
+    ],
+    "facts": [
+      "MEOMURU released the song 'Have You Become the Adult You Dreamed Of?' in June.",
+      "The song reached No. 1 on Melon's TOP 100 on November 13.",
+      "The track held the top spot for over a week through November 20.",
+      "GLORYWAVE is the production team behind the track, consisting of Lee Yong Seok (Martin East) and Choi Sung Hyuk (Beatjaru).",
+      "The team used the Suno AI platform to produce the vocals.",
+      "Park Hee Ah is a music critic who commented on the track.",
+      "The Korea Music Copyright Association (KOMCA) introduced and later withdrew proposed trust registration standards for AI-assisted music in August."
+    ],
+    "entities": {
+      "people": [
+        "Lee Yong Seok",
+        "Martin East",
+        "Choi Sung Hyuk",
+        "Beatjaru",
+        "Park Hee Ah"
+      ],
+      "titles": [
+        "Have You Become the Adult You Dreamed Of?"
+      ]
+    },
+    "keywords": [
+      "MEOMURU",
+      "Have You Become the Adult You Dreamed Of?",
+      "GLORYWAVE",
+      "Melon chart",
+      "Suno AI music"
+    ],
+    "images": [],
+    "published": "Sun, 22 Nov 2026 00:26:00 EST"
   }
 };
