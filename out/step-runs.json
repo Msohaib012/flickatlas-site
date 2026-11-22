@@ -4,45 +4,6 @@
    {
     "step": "fetch",
     "category": "Trending News",
-    "run_at": "2026-11-21T04:51:49Z",
-    "run_id": "44868034430",
-    "status": "success",
-    "checked": {
-     "candidates": 303,
-     "detail": "RSS/Atom items across 137 sources; 4 source(s) errored"
-    },
-    "changed": {
-     "added": [
-      "OM Box Office Day 1: Dhanush Gets His Highest Opener As OM Beats Raayan, Tere Ishk Mein; Did It Beat Scene?",
-      "Ramayana (Hindi) Box Office Day 16: Ranbir's Film Beats Pushpa 2 To Create New Record; Crosses 880Cr In India",
-      "AICWA Demands Tighter Security For Saif Ali Khan, Amitabh Bachchan & Abhishek Amid Death Threats",
-      "Ramayana Set to Enter ₹900 Crore India Net Club on Day 17, Becomes Third Fastest Indian Film After Pushpa 2 and Dhurandhar 2",
-      "GTA 6 Creates History With $4 Billion First-Day Sales, Becomes Biggest Entertainment Launch of All Time",
-      "Yash’s diet and workout routine to maintain his physique",
-      "MrBeast reaches settlement with former employee Leroy Nabors",
-      "Here's why Robert Pattinson bagged James Bond role",
-      "‘Vrushakarma’: Naga Chaitanya’s second single ‘Chalo Padhave’ out now",
-      "Katy poses with Justin as past marriage to Russell Brand hits headlines",
-      "Look inside 'Eetha' actor Shraddha Kapoor's Rs 60 crore Juhu home",
-      "Ronny Hallin passes away at 88",
-      "Sreeleela makes special appearance at Chennai theatre for ‘O.M: Operation Mole’ FDFS",
-      "Before 'Bouma', Prithviraj Sukumaran's THIS film explored black magic",
-      "Salman Khan says there's ‘no way’ Maatrubhumi would clash with Shah Rukh Khan and Suhana's King; okay to face off Avengers Doomsday, Dune 3",
-      "Macaulay Culkin to return as Kevin McCallister to Home Alone franchise 36 years after the first film",
-      "The many worlds of Sai Pallavi and why she is never where you expect her to be",
-      "Cyrus Broacha makes amends with Farah Khan's cook Dileep after calling him a 'fraud'",
-      "10 Thriller Books That Hooked Me From the Opening Chapter",
-      "‘9-1-1’ Is Officially Switching Protagonists, but There’s a Big Problem"
-     ],
-     "updated": [],
-     "count": 278,
-     "detail": "284 stories, 0 duplicates removed, 19 dropped"
-    },
-    "reason": null
-   },
-   {
-    "step": "fetch",
-    "category": "Trending News",
     "run_at": "2026-11-21T05:51:44Z",
     "run_id": "44872737325",
     "status": "success",
@@ -936,32 +897,48 @@
      "detail": "236 stories, 0 duplicates removed, 4 dropped"
     },
     "reason": null
-   }
-  ],
-  "apply_auto": [
+   },
    {
-    "step": "apply_auto",
+    "step": "fetch",
     "category": "Trending News",
-    "run_at": "2026-11-21T04:52:20Z",
-    "run_id": "44868034430",
+    "run_at": "2026-11-22T03:51:46Z",
+    "run_id": "44982428689",
     "status": "success",
     "checked": {
-     "candidates": 14,
-     "detail": "draft articles + box-office rows from out/gemini-batch.json"
+     "candidates": 236,
+     "detail": "RSS/Atom items across 137 sources; 3 source(s) errored"
     },
     "changed": {
      "added": [
-      "Grand Theft Auto VI Smashes Entertainment History With Massive Opening Day",
-      "Bill Maher Discusses Grand Theft Auto VI And Robert Pattinson's James Bond Casting On Real Time",
-      "‘Vrushakarma’ Second Single ‘Chalo Padhave’ Explores Naga Chaitanya and Kiara Khanna's Emotional Bond",
-      "Presumed Innocent Season 2: Everything We Know About the Apple TV+ Legal Drama"
+      "Arun Gopy calls Dulquer Salmaan’s performance in ‘Aakasamlo Oka Tara’ ‘pure happiness’",
+      "‘Avengers: Doomsday’ advance booking sales close in on the Rs 50 crore mark",
+      "'Varanasi' targets 18 theatrical formats worldwide",
+      "‘YellowJackets’ star Christina Ricci says that Cher still holds a grudge against her",
+      "Rashmika Mandanna reveals what she loves most about husband Vijay Deverakonda",
+      "Miley Cyrus and Maxx Morando tie the knot in Palm Springs",
+      "Rana Daggubati and Nikkhil Advani back 'We Were Here'",
+      "Sarah Michelle Gellar and Freddie Prinze Jr.'s daughter takes classes from their old acting coach",
+      "Vikrant Massey helps Shah Rukh Khan fix his trousers at an award function",
+      "Shah Rukh Khan's 'King' trailer to drop on December 14",
+      "Megan Moroney shared a glimpse of Taylor Swift’s handwritten note at the CMAs",
+      "Eva Longoria takes on a new role as godmother of luxury cruise ship Seven Seas Prestige",
+      "Rashmika Mandanna's 'Mysaa' release may be postponed",
+      "Salma Hayek's pet owl journey took a sad turn after a fox entered its aviary",
+      "'Gone Girl' to 'The Sixth Sense': 7 Hollywood suspense thrillers that are worth watching",
+      "Shah Rukh Khan calls for dialogue over violence at Global Peace Honours event, pays tribute to victims of 26/11 and Pahalgam attack",
+      "All 8 'Lord of the Rings' Ring-Bearers, Ranked by Their Strength To Resist It",
+      "12 Greatest Dystopian Movies Of All Time, Ranked",
+      "10 Best Far Side Strips That Turned 40 In 2026",
+      "GTA 6: Should You Help Mario & Frankie In \"Afternoon Delight\""
      ],
      "updated": [],
-     "count": 7,
-     "detail": "+4 articles, +0 box-office rows, 3 rows updated"
+     "count": 213,
+     "detail": "216 stories, 0 duplicates removed, 20 dropped"
     },
     "reason": null
-   },
+   }
+  ],
+  "apply_auto": [
    {
     "step": "apply_auto",
     "category": "Trending News",
@@ -1485,27 +1462,32 @@
      "detail": "+4 articles, +0 box-office rows, 4 rows updated"
     },
     "reason": null
+   },
+   {
+    "step": "apply_auto",
+    "category": "Trending News",
+    "run_at": "2026-11-22T03:52:34Z",
+    "run_id": "44982428689",
+    "status": "success",
+    "checked": {
+     "candidates": 14,
+     "detail": "draft articles + box-office rows from out/gemini-batch.json"
+    },
+    "changed": {
+     "added": [
+      "Shah Rukh Khan's 'King' Trailer Set for December Release Ahead of Christmas Weekend",
+      "TNAGR Prepares to Debut as OUI Entertainment's First New Boy Group in Six Years",
+      "Avengers Doomsday Advance Booking Crosses Rs 47 Crore in India",
+      "Netflix BioShock Adaptation Receives a Fresh Update from Director Francis Lawrence"
+     ],
+     "updated": [],
+     "count": 7,
+     "detail": "+4 articles, +0 box-office rows, 3 rows updated"
+    },
+    "reason": null
    }
   ],
   "ott": [
-   {
-    "step": "ott",
-    "category": "OTT",
-    "run_at": "2026-11-21T05:52:15Z",
-    "run_id": "44872737325",
-    "status": "success",
-    "checked": {
-     "candidates": 401,
-     "detail": "OTT now/coming titles from the published catalogue"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 0,
-     "detail": "now 394, coming 7"
-    },
-    "reason": "no-new-data"
-   },
    {
     "step": "ott",
     "category": "OTT",
@@ -1919,26 +1901,27 @@
      "detail": "now 405, coming 7"
     },
     "reason": null
-   }
-  ],
-  "trending_weekly": [
+   },
    {
-    "step": "trending_weekly",
-    "category": "Trending Topics",
-    "run_at": "2026-11-21T04:54:11Z",
-    "run_id": "44868034430",
+    "step": "ott",
+    "category": "OTT",
+    "run_at": "2026-11-22T03:52:34Z",
+    "run_id": "44982428689",
     "status": "success",
     "checked": {
-     "candidates": 100,
-     "detail": "cached Google RSS trend/article intersection"
+     "candidates": 412,
+     "detail": "OTT now/coming titles from the published catalogue"
     },
     "changed": {
      "added": [],
      "updated": [],
-     "count": 0
+     "count": 0,
+     "detail": "now 405, coming 7"
     },
     "reason": "no-new-data"
-   },
+   }
+  ],
+  "trending_weekly": [
    {
     "step": "trending_weekly",
     "category": "Trending Topics",
@@ -2388,27 +2371,33 @@
      "count": 0
     },
     "reason": "no-new-data"
+   },
+   {
+    "step": "trending_weekly",
+    "category": "Trending Topics",
+    "run_at": "2026-11-22T04:04:31Z",
+    "run_id": "44982428689",
+    "status": "success",
+    "checked": {
+     "candidates": 100,
+     "detail": "cached Google RSS trend/article intersection"
+    },
+    "changed": {
+     "added": [
+      "f1k4cc",
+      "1k2du0i",
+      "blqm9a",
+      "1m1b6w1",
+      "hynwyb",
+      "88uxhp"
+     ],
+     "updated": [],
+     "count": 6
+    },
+    "reason": null
    }
   ],
   "multisource_boxoffice": [
-   {
-    "step": "multisource_boxoffice",
-    "category": "Box Office",
-    "run_at": "2026-11-21T04:54:09Z",
-    "run_id": "44868034430",
-    "status": "success",
-    "checked": {
-     "candidates": 732,
-     "detail": "677 collected staging rows from readers; 250 averaged across 2+ sources"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 6,
-     "detail": "+3 new rows, 3 updated rows, 701 unchanged"
-    },
-    "reason": null
-   },
    {
     "step": "multisource_boxoffice",
     "category": "Box Office",
@@ -2822,19 +2811,27 @@
      "detail": "+0 new rows, 3 updated rows, 707 unchanged"
     },
     "reason": null
+   },
+   {
+    "step": "multisource_boxoffice",
+    "category": "Box Office",
+    "run_at": "2026-11-22T04:03:56Z",
+    "run_id": "44982428689",
+    "status": "success",
+    "checked": {
+     "candidates": 739,
+     "detail": "678 collected staging rows from readers; 252 averaged across 2+ sources"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 3,
+     "detail": "+0 new rows, 3 updated rows, 707 unchanged"
+    },
+    "reason": null
    }
   ],
   "gemini_reviews": [
-   {
-    "step": "gemini_reviews",
-    "category": "Reviews",
-    "run_at": "2026-11-21T04:54:19Z",
-    "run_id": "44868034430",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "gemini_reviews",
     "category": "Reviews",
@@ -3071,32 +3068,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "gemini_reviews",
+    "category": "Reviews",
+    "run_at": "2026-11-22T04:04:39Z",
+    "run_id": "44982428689",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "convert_news": [
-   {
-    "step": "convert_news",
-    "category": "Trending News",
-    "run_at": "2026-11-21T04:54:11Z",
-    "run_id": "44868034430",
-    "status": "success",
-    "checked": {
-     "candidates": 600,
-     "detail": "feed entries from out/queue.json"
-    },
-    "changed": {
-     "added": [
-      "Grand Theft Auto VI Smashes Entertainment History With Massive Opening Day",
-      "Bill Maher Discusses Grand Theft Auto VI And Robert Pattinson's James Bond Casting On Real Time",
-      "Presumed Innocent Season 2: Everything We Know About the Apple TV+ Legal Drama",
-      "‘Vrushakarma’ Second Single ‘Chalo Padhave’ Explores Naga Chaitanya and Kiara Khanna's Emotional Bond"
-     ],
-     "updated": [],
-     "count": 4,
-     "detail": "api-news.json 600 items, api-trends.json 12 items"
-    },
-    "reason": null
-   },
    {
     "step": "convert_news",
     "category": "Trending News",
@@ -3622,19 +3606,32 @@
      "detail": "api-news.json 600 items, api-trends.json 12 items"
     },
     "reason": null
+   },
+   {
+    "step": "convert_news",
+    "category": "Trending News",
+    "run_at": "2026-11-22T04:04:30Z",
+    "run_id": "44982428689",
+    "status": "success",
+    "checked": {
+     "candidates": 600,
+     "detail": "feed entries from out/queue.json"
+    },
+    "changed": {
+     "added": [
+      "TNAGR Prepares to Debut as OUI Entertainment's First New Boy Group in Six Years",
+      "Netflix BioShock Adaptation Receives a Fresh Update from Director Francis Lawrence",
+      "Avengers Doomsday Advance Booking Crosses Rs 47 Crore in India",
+      "Shah Rukh Khan's 'King' Trailer Set for December Release Ahead of Christmas Weekend"
+     ],
+     "updated": [],
+     "count": 4,
+     "detail": "api-news.json 600 items, api-trends.json 12 items"
+    },
+    "reason": null
    }
   ],
   "episode_guides": [
-   {
-    "step": "episode_guides",
-    "category": "Drama Episodes",
-    "run_at": "2026-11-21T04:54:19Z",
-    "run_id": "44868034430",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "episode_guides",
     "category": "Drama Episodes",
@@ -3925,19 +3922,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "title_seed": [
+   },
    {
-    "step": "title_seed",
-    "category": "Spotlight / Coming Soon / Most Awaited",
-    "run_at": "2026-11-21T04:54:19Z",
-    "run_id": "44868034430",
+    "step": "episode_guides",
+    "category": "Drama Episodes",
+    "run_at": "2026-11-22T04:04:39Z",
+    "run_id": "44982428689",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "title_seed": [
    {
     "step": "title_seed",
     "category": "Spotlight / Coming Soon / Most Awaited",
@@ -4258,31 +4255,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "title_seed",
+    "category": "Spotlight / Coming Soon / Most Awaited",
+    "run_at": "2026-11-22T04:04:39Z",
+    "run_id": "44982428689",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "gemini_batch": [
-   {
-    "step": "gemini_batch",
-    "category": "Trending News",
-    "run_at": "2026-11-21T04:52:20Z",
-    "run_id": "44868034430",
-    "status": "success",
-    "checked": {
-     "candidates": 4,
-     "detail": "news queue items drafted this run; 278 still unprocessed; today by category: movies 3/6, tv_dramas 2/4, episodes 0/2, box_office 3/6, celebrities_events 5/5, upcoming_releases 1/4, ott_streaming 1/4, trailers 0/3, awards 2/2, music_ost 1/2, viral 2/2"
-    },
-    "changed": {
-     "added": [
-      "Grand Theft Auto VI Smashes Entertainment History With Massive Opening Day",
-      "Bill Maher Discusses Grand Theft Auto VI And Robert Pattinson's James Bond Casting On Real Time",
-      "‘Vrushakarma’ Second Single ‘Chalo Padhave’ Explores Naga Chaitanya and Kiara Khanna's Emotional Bond",
-      "Presumed Innocent Season 2: Everything We Know About the Apple TV+ Legal Drama"
-     ],
-     "updated": [],
-     "count": 4
-    },
-    "reason": null
-   },
    {
     "step": "gemini_batch",
     "category": "Trending News",
@@ -4783,19 +4768,31 @@
      "count": 4
     },
     "reason": null
+   },
+   {
+    "step": "gemini_batch",
+    "category": "Trending News",
+    "run_at": "2026-11-22T03:52:34Z",
+    "run_id": "44982428689",
+    "status": "success",
+    "checked": {
+     "candidates": 4,
+     "detail": "news queue items drafted this run; 213 still unprocessed; today by category: movies 2/6, tv_dramas 2/4, episodes 0/2, box_office 4/6, celebrities_events 4/5, upcoming_releases 0/4, ott_streaming 4/4, trailers 0/3, awards 0/2, music_ost 0/2, viral 0/2"
+    },
+    "changed": {
+     "added": [
+      "Shah Rukh Khan's 'King' Trailer Set for December Release Ahead of Christmas Weekend",
+      "TNAGR Prepares to Debut as OUI Entertainment's First New Boy Group in Six Years",
+      "Avengers Doomsday Advance Booking Crosses Rs 47 Crore in India",
+      "Netflix BioShock Adaptation Receives a Fresh Update from Director Francis Lawrence"
+     ],
+     "updated": [],
+     "count": 4
+    },
+    "reason": null
    }
   ],
   "overseas_ai": [
-   {
-    "step": "overseas_ai",
-    "category": "Box Office",
-    "run_at": "2026-11-21T04:54:19Z",
-    "run_id": "44868034430",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "overseas_ai",
     "category": "Box Office",
@@ -5102,24 +5099,26 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "publish": [
+   },
    {
-    "step": "publish",
-    "category": "Trending News",
-    "run_at": "2026-11-21T04:54:19Z",
-    "run_id": "44868034430",
+    "step": "overseas_ai",
+    "category": "Box Office",
+    "run_at": "2026-11-22T03:53:55Z",
+    "run_id": "44982428689",
     "status": "success",
-    "checked": null,
+    "checked": {
+     "candidates": 58,
+     "detail": "published movies with missing overseas day figures; Tavily searches: 48"
+    },
     "changed": {
      "added": [],
      "updated": [],
-     "count": 425,
-     "detail": "lines changed in owned files; no per-item summary from script"
+     "count": 0
     },
-    "reason": null
-   },
+    "reason": "no-new-data"
+   }
+  ],
+  "publish": [
    {
     "step": "publish",
     "category": "Trending News",
@@ -5434,24 +5433,24 @@
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
-   }
-  ],
-  "stats_traffic": [
+   },
    {
-    "step": "stats_traffic",
-    "category": "Stats / Health",
-    "run_at": "2026-11-21T04:54:19Z",
-    "run_id": "44868034430",
+    "step": "publish",
+    "category": "Trending News",
+    "run_at": "2026-11-22T04:04:39Z",
+    "run_id": "44982428689",
     "status": "success",
     "checked": null,
     "changed": {
      "added": [],
      "updated": [],
-     "count": 10,
+     "count": 462,
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
-   },
+   }
+  ],
+  "stats_traffic": [
    {
     "step": "stats_traffic",
     "category": "Stats / Health",
@@ -5756,19 +5755,24 @@
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
+   },
+   {
+    "step": "stats_traffic",
+    "category": "Stats / Health",
+    "run_at": "2026-11-22T04:04:39Z",
+    "run_id": "44982428689",
+    "status": "success",
+    "checked": null,
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 15,
+     "detail": "lines changed in owned files; no per-item summary from script"
+    },
+    "reason": null
    }
   ],
   "stats_pipeline": [
-   {
-    "step": "stats_pipeline",
-    "category": "Stats / Health",
-    "run_at": "2026-11-21T04:54:19Z",
-    "run_id": "44868034430",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "stats_pipeline",
     "category": "Stats / Health",
@@ -6018,19 +6022,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "stats_health": [
+   },
    {
-    "step": "stats_health",
+    "step": "stats_pipeline",
     "category": "Stats / Health",
-    "run_at": "2026-11-21T04:54:19Z",
-    "run_id": "44868034430",
+    "run_at": "2026-11-22T04:04:39Z",
+    "run_id": "44982428689",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "stats_health": [
    {
     "step": "stats_health",
     "category": "Stats / Health",
@@ -6265,19 +6269,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "metadata_refresh": [
+   },
    {
-    "step": "metadata_refresh",
-    "category": "Spotlight / Coming Soon / Most Awaited",
-    "run_at": "2026-11-21T04:54:19Z",
-    "run_id": "44868034430",
+    "step": "stats_health",
+    "category": "Stats / Health",
+    "run_at": "2026-11-22T04:04:39Z",
+    "run_id": "44982428689",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "metadata_refresh": [
    {
     "step": "metadata_refresh",
     "category": "Spotlight / Coming Soon / Most Awaited",
@@ -6562,19 +6566,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "providers_backfill": [
+   },
    {
-    "step": "providers_backfill",
-    "category": "OTT",
-    "run_at": "2026-11-21T04:54:19Z",
-    "run_id": "44868034430",
+    "step": "metadata_refresh",
+    "category": "Spotlight / Coming Soon / Most Awaited",
+    "run_at": "2026-11-22T04:04:39Z",
+    "run_id": "44982428689",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "providers_backfill": [
    {
     "step": "providers_backfill",
     "category": "OTT",
@@ -6815,22 +6819,22 @@
      "count": 959
     },
     "reason": null
+   },
+   {
+    "step": "providers_backfill",
+    "category": "OTT",
+    "run_at": "2026-11-22T04:04:39Z",
+    "run_id": "44982428689",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "tavily_boxoffice": [
    {
     "step": "tavily_boxoffice",
     "category": "Box Office",
-    "run_at": "2026-11-21T04:54:19Z",
-    "run_id": "44868034430",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
-   {
-    "step": "tavily_boxoffice",
-    "category": "Box Office",
     "run_at": "2026-11-21T06:12:25Z",
     "run_id": "44872737325",
     "status": "success",
@@ -7057,22 +7061,22 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "tavily_boxoffice",
+    "category": "Box Office",
+    "run_at": "2026-11-22T04:04:39Z",
+    "run_id": "44982428689",
+    "status": "success",
+    "checked": null,
+    "changed": null,
+    "reason": "no-new-data"
    }
   ],
   "keywords_refresh": [
    {
     "step": "keywords_refresh",
     "category": "Trending News",
-    "run_at": "2026-11-21T04:54:19Z",
-    "run_id": "44868034430",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
-   {
-    "step": "keywords_refresh",
-    "category": "Trending News",
     "run_at": "2026-11-21T06:12:25Z",
     "run_id": "44872737325",
     "status": "skipped",
@@ -7299,30 +7303,42 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "keywords_refresh",
+    "category": "Trending News",
+    "run_at": "2026-11-22T04:04:29Z",
+    "run_id": "44982428689",
+    "status": "success",
+    "checked": {
+     "candidates": 15,
+     "detail": "keyword refresh: 15 articles, sources {'gemini': 15}"
+    },
+    "changed": {
+     "added": [],
+     "updated": [
+      "Fool In Love Episode 13 Release Date, Timings, and Kidnapping Twist on iQIYI",
+      "Dhanush Thanks CM Vijay For 6 AM Shows For OM: Operation Mole",
+      "Ramayana Reaches Rs 1,500 Crore Worldwide on Day 14",
+      "Eight Near-Perfect Prime Video Series With Ten Episodes Or Fewer",
+      "Chicago Fire Season 15 Episode 07 No Love Lost Viewer Rating and Character Spotl",
+      "Avengers Doomsday Advance Booking Crosses Rs 30 Crore in India Ahead of December",
+      "Pierce Brosnan and Hollywood Support Robert Pattinson as the New James Bond",
+      "Lainey Wilson and Vince Gill Open 2026 CMA Awards with Touching Tribute to Dolly",
+      "Horror Box Office Crosses $2.49 Billion in 2026 Led by Blumhouse Atomic Hits",
+      "Sooraj Barjatya Talks Yeh Prem Mol Liya And Rejects Dhurandhar Comparisons",
+      "Sameera Reddy Recalls Nana Patekar's Quiet Philanthropy During Film Collaboratio",
+      "Sooraj Barjatya explains casting Ayushmann Khurrana for Yeh Prem Mol Liya",
+      "Ella Langley Leads Nominations and Taylor Swift Returns for the 2026 CMA Awards",
+      "'Ramayana' Box Office Collection Day 14: Ranbir Kapoor and Yash Starrer Crosses ",
+      "'Mookuthi Amman 2' Box Office Collections Day 13: Nayanthara Starrer Collects Rs"
+     ],
+     "count": 15
+    },
+    "reason": null
    }
   ],
   "overseas_sweep": [
-   {
-    "step": "overseas_sweep",
-    "category": "Box Office",
-    "run_at": "2026-11-20T03:52:38Z",
-    "run_id": "44670413411",
-    "status": "success",
-    "checked": {
-     "candidates": 585,
-     "detail": "completed day-wise rows missing overseas; quicknews pages fetched: 22; attempt cooldown deferred: 563"
-    },
-    "changed": {
-     "added": [
-      "Ranabaali (1389379)",
-      "418 (1606527)",
-      "Nayyi Navelli (1654581)"
-     ],
-     "updated": [],
-     "count": 13
-    },
-    "reason": null
-   },
    {
     "step": "overseas_sweep",
     "category": "Box Office",
@@ -7821,19 +7837,31 @@
      "count": 15
     },
     "reason": null
+   },
+   {
+    "step": "overseas_sweep",
+    "category": "Box Office",
+    "run_at": "2026-11-22T03:52:54Z",
+    "run_id": "44982428689",
+    "status": "success",
+    "checked": {
+     "candidates": 595,
+     "detail": "completed day-wise rows missing overseas; quicknews pages fetched: 15; attempt cooldown deferred: 580"
+    },
+    "changed": {
+     "added": [
+      "Jailer 2 (1234139)",
+      "Ranabaali (1389379)",
+      "418 (1606527)",
+      "Nayyi Navelli (1654581)"
+     ],
+     "updated": [],
+     "count": 14
+    },
+    "reason": null
    }
   ],
   "advance_booking": [
-   {
-    "step": "advance_booking",
-    "category": "Box Office",
-    "run_at": "2026-11-21T04:54:19Z",
-    "run_id": "44868034430",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "advance_booking",
     "category": "Box Office",
@@ -8073,19 +8101,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "home_boxoffice_worldwide": [
+   },
    {
-    "step": "home_boxoffice_worldwide",
+    "step": "advance_booking",
     "category": "Box Office",
-    "run_at": "2026-11-21T04:54:19Z",
-    "run_id": "44868034430",
+    "run_at": "2026-11-22T04:04:39Z",
+    "run_id": "44982428689",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "home_boxoffice_worldwide": [
    {
     "step": "home_boxoffice_worldwide",
     "category": "Box Office",
@@ -8350,8 +8378,23 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "home_boxoffice_worldwide",
+    "category": "Box Office",
+    "run_at": "2026-11-22T04:04:39Z",
+    "run_id": "44982428689",
+    "status": "success",
+    "checked": null,
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 4840,
+     "detail": "lines changed in owned files; no per-item summary from script"
+    },
+    "reason": null
    }
   ]
  },
- "updated_at": "2026-11-22T02:45:56Z"
+ "updated_at": "2026-11-22T04:04:39Z"
 }
