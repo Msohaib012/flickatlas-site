@@ -58914,5 +58914,862 @@ window.FA_PUBLISHED = {
     "runtime": 0,
     "providers": [],
     "providers_wtw": []
+  },
+  "1773330": {
+    "id": 1773330,
+    "type": "movie",
+    "title": "Christmas in Blue Dog Valley",
+    "poster_path": "/zlS8mSS7oXDBdfICfOI3bTavvjw.jpg",
+    "backdrop_path": "/rMY8eSDKrZhm4MyU6BiC2fzoowV.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "On-set veterinarian Goldie MacKenzie (Cahill) leaves the glamour of Hollywood behind to buy a family-run veterinary clinic in tight-knit Blue Dog Valley, arriving just in time for the town's cherished Christmas season. When Dr. Gable, the clinic's longtime owner, unexpectedly ends up out of town, Goldie is hosted by his handsome son Cohen (Walker), the black sheep of the family because he decided to forego their expectation of becoming a vet. Cohen and Goldie get off on the wrong foot, but when the folks of Blue Dog Valley cold shoulder \"the newcomer,\" Cohen teams up with Goldie to win over even the frostiest of community members. Goldie is also aided by the mysterious canine she dubs Blue whose spontaneous appearances always seem to guide Goldie to exactly where she needs to be. As Goldie works hard to prove herself to the townspeople when furry and Christmas crises arise, she finds herself pulled towards the very heart of her new-found home... and a certain black sheep.",
+    "industry": "world",
+    "popularity": 1.5377,
+    "original_language": "en",
+    "origin_country": [
+      "US"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-22",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Romance",
+      "TV Movie",
+      "Comedy"
+    ],
+    "tagline": "",
+    "status": "Released",
+    "production_countries": [
+      "CA"
+    ],
+    "spoken_languages": [
+      "en"
+    ],
+    "certification": "",
+    "release_date": "2026-11-21",
+    "date_kind": "release",
+    "runtime": 0,
+    "providers": [],
+    "providers_wtw": []
+  },
+  "340566": {
+    "id": 340566,
+    "type": "tv",
+    "title": "The Witch Farm",
+    "poster_path": "/hglk1OHLnaqZkaEcqK8maEJP1t4.jpg",
+    "backdrop_path": "/tWOCuHK7sHagj6lR9p6pavApqsT.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "Follows Bill and Liz Rich who move to a remote Welsh farmhouse in 1989 for a fresh start, but after Liz sees a ghostly figure during a traumatic home birth, they face escalating paranormal disturbances.",
+    "industry": "world",
+    "popularity": 2.3156,
+    "original_language": "en",
+    "origin_country": [
+      "GB"
+    ],
+    "trailer": {
+      "key": "oj6FPgDOI-I",
+      "name": "Official Trailer",
+      "site": "YouTube"
+    },
+    "categories": [
+      "tv"
+    ],
+    "published_at": "2026-11-22",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Mystery"
+    ],
+    "tagline": "",
+    "status": "Returning Series",
+    "production_countries": [
+      "GB"
+    ],
+    "spoken_languages": [
+      "en"
+    ],
+    "certification": "",
+    "first_air_date": "2026-11-22",
+    "networks": [
+      "BBC One"
+    ],
+    "number_of_seasons": 1,
+    "number_of_episodes": 4,
+    "channel": "BBC One",
+    "episode_run_time": [
+      58
+    ],
+    "seasons": [
+      {
+        "season_number": 1,
+        "episode_count": 4,
+        "air_date": "2026-11-22",
+        "name": "Series 1"
+      }
+    ],
+    "created_by": [
+      "Danny Robins"
+    ],
+    "providers": [],
+    "providers_wtw": []
+  },
+  "1153093": {
+    "id": 1153093,
+    "type": "movie",
+    "title": "Heil Jupiter!",
+    "poster_path": "/oYxBJuatx5pJPmbmNOQPiC5Gdrm.jpg",
+    "backdrop_path": "/4gK4T46Fu6EVuaK9TFYWNeMiAJa.jpg",
+    "vote_average": 6.0,
+    "vote_count": 1,
+    "overview": "Amidst crashing waves and monumental rocks on a distant coast, two young couples open up a realm of shifting realities. Unbeknownst to them, a mysterious entity watches from high above with Godlike judgment. Between these spaces exists a world balanced on the edge of the modern and the primitive, the high-tech and the rural, the corporeal and the mythic.",
+    "industry": "world",
+    "popularity": 1.6426,
+    "original_language": "es",
+    "origin_country": [
+      "MX"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-22",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Drama",
+      "Fantasy"
+    ],
+    "tagline": "",
+    "status": "Released",
+    "production_countries": [
+      "MX",
+      "PL",
+      "PT",
+      "NO",
+      "SE",
+      "CH",
+      "US",
+      "DK",
+      "GB"
+    ],
+    "spoken_languages": [
+      "es",
+      "en",
+      "pl"
+    ],
+    "certification": "",
+    "release_date": "2026-09-27",
+    "date_kind": "festival",
+    "runtime": 158,
+    "providers": [],
+    "providers_wtw": []
+  },
+  "1837182": {
+    "id": 1837182,
+    "type": "movie",
+    "title": "DOMANI",
+    "poster_path": "/tCY2rLK828H1iLY6fzoT1kBMbpI.jpg",
+    "backdrop_path": "/2iVP7kFHrMxRtHBBINdgLH0PeO7.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "",
+    "industry": "world",
+    "popularity": 0,
+    "original_language": "it",
+    "origin_country": [
+      "IT"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-22",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Drama"
+    ],
+    "tagline": "",
+    "status": "Released",
+    "production_countries": [],
+    "spoken_languages": [
+      "it",
+      "en"
+    ],
+    "certification": "14+",
+    "release_date": "2026-11-29",
+    "date_kind": "release",
+    "runtime": 0,
+    "providers": [],
+    "providers_wtw": []
+  },
+  "1818432": {
+    "id": 1818432,
+    "type": "movie",
+    "title": "Hamerkop",
+    "poster_path": "/gtcCamsPxobsWDKtLQTaP3Bw4J0.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "",
+    "industry": "world",
+    "popularity": 0.0971,
+    "original_language": "pt",
+    "origin_country": [
+      "MZ",
+      "PT"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-22",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [],
+    "tagline": "",
+    "status": "In Production",
+    "production_countries": [],
+    "spoken_languages": [],
+    "certification": "",
+    "release_date": "2026-11-29",
+    "date_kind": "festival",
+    "runtime": 0,
+    "providers": [],
+    "providers_wtw": []
+  },
+  "1817427": {
+    "id": 1817427,
+    "type": "movie",
+    "title": "Fireman Ket and Death",
+    "poster_path": "/6juEnTUt7xA6mTHo0vm1b2u17ok.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "An aimless psychonaut scores a bad batch of ketamine and is forced to confront his deepest fears as he drifts between memories and hallucinations.",
+    "industry": "world",
+    "popularity": 0.2085,
+    "original_language": "en",
+    "origin_country": [
+      "CA"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-22",
+    "source": "tmdb",
+    "budget": 150,
+    "revenue": 0,
+    "genres": [
+      "Adventure",
+      "Drama",
+      "Comedy"
+    ],
+    "tagline": "You're unwinding, man",
+    "status": "Post Production",
+    "production_countries": [
+      "CA"
+    ],
+    "spoken_languages": [
+      "en"
+    ],
+    "certification": "",
+    "release_date": "2026-11-29",
+    "date_kind": "release",
+    "runtime": 14,
+    "providers": [],
+    "providers_wtw": []
+  },
+  "1814139": {
+    "id": 1814139,
+    "type": "movie",
+    "title": "Calcomanía de poltrona",
+    "poster_path": "/gfQ4AEfAg0j4VW5QEoxQcjSiaXu.jpg",
+    "backdrop_path": "/lLZaXnpPpEJBraZhFLwhbDz5JJL.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "",
+    "industry": "world",
+    "popularity": 0.0985,
+    "original_language": "es",
+    "origin_country": [
+      "AR"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-22",
+    "source": "tmdb",
+    "budget": 150,
+    "revenue": 0,
+    "genres": [
+      "Comedy",
+      "Horror"
+    ],
+    "tagline": "",
+    "status": "In Production",
+    "production_countries": [
+      "AR"
+    ],
+    "spoken_languages": [
+      "es"
+    ],
+    "certification": "",
+    "release_date": "2026-11-29",
+    "date_kind": "release",
+    "runtime": 0,
+    "providers": [],
+    "providers_wtw": []
+  },
+  "1802883": {
+    "id": 1802883,
+    "type": "movie",
+    "title": "Ephemeral: part 2",
+    "poster_path": "/2C1rpy8r8Z21VbfvIvQZ3q4Zk5o.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "After the final day and the last farewell, all that remains is the graduation—the ultimate send-off for our protagonists.",
+    "industry": "world",
+    "popularity": 0.134,
+    "original_language": "en",
+    "origin_country": [
+      "US"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-22",
+    "source": "tmdb",
+    "budget": 69,
+    "revenue": 0,
+    "genres": [],
+    "tagline": "",
+    "status": "In Production",
+    "production_countries": [],
+    "spoken_languages": [],
+    "certification": "",
+    "release_date": "2026-11-29",
+    "date_kind": "release",
+    "runtime": 30,
+    "providers": [],
+    "providers_wtw": []
+  },
+  "1798641": {
+    "id": 1798641,
+    "type": "movie",
+    "title": "First Date Trial",
+    "poster_path": "/kXSQInNpsYhD4wU0V5KXL9MhFqr.jpg",
+    "backdrop_path": "/jcSlpQMv7HdljTvWLDtZ9JXm8mR.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "",
+    "industry": "world",
+    "popularity": 0.1324,
+    "original_language": "id",
+    "origin_country": [
+      "ID"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-22",
+    "source": "tmdb",
+    "budget": 24,
+    "revenue": 0,
+    "genres": [
+      "Romance",
+      "Comedy"
+    ],
+    "tagline": "",
+    "status": "In Production",
+    "production_countries": [
+      "ID"
+    ],
+    "spoken_languages": [
+      "id"
+    ],
+    "certification": "13+",
+    "release_date": "2026-11-29",
+    "date_kind": "festival",
+    "runtime": 0,
+    "providers": [],
+    "providers_wtw": []
+  },
+  "1795163": {
+    "id": 1795163,
+    "type": "movie",
+    "title": "Emmy",
+    "poster_path": "/kCP2ohkqCvezGY4YmIV14TURLyQ.jpg",
+    "backdrop_path": "/vW5r5ZVG7ozEmmX3JHf4q4Cu9YN.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "In 1945, the Dutch were preoccupied with the resistance led by Robert Wolter Mongisidi and his fighters. Bote, as he was known, caught the attention of Emmy Saelan, a nurse at Stella Maris Hospital, through his daring acts. Emmy joined Bote’s group, prompting the Dutch to order the ruthless psychopath Raymond Westerling to hunt them down, dead or alive. What fate awaits Bote and Emmy as they become the targets of a relentless manhunt?",
+    "industry": "world",
+    "popularity": 0.4279,
+    "original_language": "id",
+    "origin_country": [
+      "ID"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-22",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Drama",
+      "History",
+      "Romance"
+    ],
+    "tagline": "",
+    "status": "Post Production",
+    "production_countries": [
+      "ID"
+    ],
+    "spoken_languages": [
+      "id",
+      "nl"
+    ],
+    "certification": "",
+    "release_date": "2026-11-29",
+    "date_kind": "festival",
+    "runtime": 140,
+    "providers": [],
+    "providers_wtw": []
+  },
+  "1776670": {
+    "id": 1776670,
+    "type": "movie",
+    "title": "The Greatest Christmas Gift",
+    "poster_path": "/qG9WzQJDJDmUkc9XCCnqAOuXWyD.jpg",
+    "backdrop_path": "/wMjcmwVHTHSWA2wfL0EvSXRGXO7.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "When an unexpected setback threatens their Christmas wedding, Emma and Caleb discover that the greatest gifts are found in faith, selfless love and a community that reminds them to keep believing.",
+    "industry": "world",
+    "popularity": 0.5949,
+    "original_language": "en",
+    "origin_country": [
+      "US"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-22",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "TV Movie",
+      "Comedy",
+      "Romance"
+    ],
+    "tagline": "",
+    "status": "In Production",
+    "production_countries": [
+      "US",
+      "CA"
+    ],
+    "spoken_languages": [
+      "en"
+    ],
+    "certification": "",
+    "release_date": "2026-11-29",
+    "date_kind": "release",
+    "runtime": 0,
+    "providers": [],
+    "providers_wtw": []
+  },
+  "1773298": {
+    "id": 1773298,
+    "type": "movie",
+    "title": "Eight Nights for Love",
+    "poster_path": "/9inLmaDxiooJZr76IrlA65vjtQA.jpg",
+    "backdrop_path": "/qOtOr5LH3oltLpVN99PHgguIlNy.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "Hannah, who works for a large auction house in New York City, is excited for her best friend Ethan to return home for a visit during Hanukkah and is looking forward to some time off from work That plan is short-lived when Ethan shares the news that he's convinced the daughter of his wealthy boss to use Hannah's auction house to sell their family's collection of Judaica with the condition that Hannah handles the sale. Complicating her holiday further, she meets the mysterious Pearl, who gifts her with an antique menorah that is anything but ordinary as it takes her back to a different times of her life each night of Hanukkah, with Pearl as her guide. This front row seat to past moments leads Hannah to reflect, break out of her comfort zone and overcome her fear of failure. Thanks to her trips through the past, and as she and Ethan spend time together in the present, Hannah realizes she has feelings for him she never acknowledged.",
+    "industry": "world",
+    "popularity": 0.7129,
+    "original_language": "en",
+    "origin_country": [
+      "US"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-22",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Romance",
+      "TV Movie",
+      "Comedy",
+      "Drama"
+    ],
+    "tagline": "",
+    "status": "Post Production",
+    "production_countries": [
+      "CA"
+    ],
+    "spoken_languages": [],
+    "certification": "",
+    "release_date": "2026-11-29",
+    "date_kind": "release",
+    "runtime": 0,
+    "providers": [],
+    "providers_wtw": []
+  },
+  "1773293": {
+    "id": 1773293,
+    "type": "movie",
+    "title": "Miles to Christmas",
+    "poster_path": "/skPWXVfFUj9qanG4AMurE0szA3P.jpg",
+    "backdrop_path": "/lwg9QSXXo2hrfLI1bqtq37wXdie.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "When an early snowstorm sweeps through the Midwest, punctual, straight-laced \"suit\" Cassidy Fields is forced to hitch a ride with free spirited, music loving Johanna \"Jo\" Woods in her bother Chase's 18-wheeler to the nearest airport to catch another flight. However, when Jo's flight successfully takes off and Cassidy's is cancelled again at the last minute, she joins Chase on the road back to Tennessee from Chicago to make it home in time to spend Christmas with her father. Quickly, Cassidy and Chase's connection begins to spark. Through losing the car keys, stopping to partake in a Mrs. Claus parade and a surprise run-in with Jo, whose plane got grounded mid-flight due to weather, Cassidy builds bonds with both siblings as they all challenge one another's life philosophies. As the trio pushes past every obstacle, they work to embrace their differences and find that the fastest way home is when they lean on one another for help.",
+    "industry": "world",
+    "popularity": 0.636,
+    "original_language": "en",
+    "origin_country": [
+      "US"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-22",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Romance",
+      "TV Movie",
+      "Comedy"
+    ],
+    "tagline": "",
+    "status": "Post Production",
+    "production_countries": [
+      "US",
+      "CA"
+    ],
+    "spoken_languages": [],
+    "certification": "",
+    "release_date": "2026-11-29",
+    "date_kind": "release",
+    "runtime": 0,
+    "providers": [],
+    "providers_wtw": []
+  },
+  "1702761": {
+    "id": 1702761,
+    "type": "movie",
+    "title": "Royal Ballet & Opera 2026/27: The Nutcracker",
+    "poster_path": "/cNRsvKn2hg9osBglDUultULrg1C.jpg",
+    "backdrop_path": "/gOz5N5xERQQjZ5Jn2sqCWtsP04K.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "At a cosy Christmas party, young Clara meets the mysterious magician Drosselmeyer, who gives her a nutcracker doll. When the guests have departed and the house is asleep, Clara sneaks downstairs in search of her favourite gift. Instead, she finds Drosselmeyer, who whisks her away on a journey into a whole world of enchantment: fantastical landscapes of flurried snow and glittering confection where toys come alive and the magic never stops.",
+    "industry": "world",
+    "popularity": 0.2283,
+    "original_language": "en",
+    "origin_country": [
+      "GB"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-22",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [],
+    "tagline": "Ballet and dance",
+    "status": "In Production",
+    "production_countries": [],
+    "spoken_languages": [],
+    "certification": "6",
+    "release_date": "2026-11-29",
+    "date_kind": "release",
+    "runtime": 0,
+    "providers": [],
+    "providers_wtw": []
+  },
+  "1648099": {
+    "id": 1648099,
+    "type": "movie",
+    "title": "When Worlds Collide",
+    "poster_path": "/3hiNy4ZFfYSvA0RAAHnVn72tuTW.jpg",
+    "backdrop_path": "/wRxdGW4xSOLZWnDz1gL1yHrVmgW.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "Lana Maxwell becomes the prime suspect in the murder of her friend Veronica. Watch as her life unfolds and she deals with the challenges that being a teenager brings. Meanwhile Evelyn Jackson is going through friend group problems, and decides to make friends with a controversial figure.",
+    "industry": "world",
+    "popularity": 0.3135,
+    "original_language": "en",
+    "origin_country": [
+      "AU"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-22",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Drama",
+      "Mystery",
+      "Crime"
+    ],
+    "tagline": "Once they met, everything changed",
+    "status": "In Production",
+    "production_countries": [
+      "AU"
+    ],
+    "spoken_languages": [
+      "en"
+    ],
+    "certification": "M",
+    "release_date": "2026-11-29",
+    "date_kind": "festival",
+    "runtime": 81,
+    "providers": [],
+    "providers_wtw": []
+  },
+  "1616675": {
+    "id": 1616675,
+    "type": "movie",
+    "title": "Secrets",
+    "poster_path": "/90yNHQTpci3X3PdvM2HmLHP8OyP.jpg",
+    "backdrop_path": "/kIRulLmC9Q4UlQXqs5om4LxS40Y.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "A single mother’s carefully rebuilt life with her daughter is threatened when her dark, violent past resurfaces, forcing her to confront old wounds and hidden truths that could unravel everything she has fought for.",
+    "industry": "world",
+    "popularity": 1.5304,
+    "original_language": "id",
+    "origin_country": [
+      "ID"
+    ],
+    "trailer": {
+      "key": "sp3iPAOs0UQ",
+      "name": "Secrets | Official Trailer | Netflix",
+      "site": "YouTube"
+    },
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-22",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Drama",
+      "Thriller"
+    ],
+    "tagline": "",
+    "status": "Post Production",
+    "production_countries": [
+      "ID"
+    ],
+    "spoken_languages": [
+      "id"
+    ],
+    "certification": "R",
+    "release_date": "2026-11-29",
+    "date_kind": "release",
+    "runtime": 129,
+    "providers": [],
+    "providers_wtw": []
+  },
+  "1615697": {
+    "id": 1615697,
+    "type": "movie",
+    "title": "The Place",
+    "poster_path": "/lZf6RKzG5vvx9bTuDsrwy9YLpWY.jpg",
+    "backdrop_path": "/h2yDss1CZiMKisrNZHWPkD3XIPT.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "On the edge of town, in a dilapidated former public bathhouse, two young artists share a precarious roof, a common dream, and the constant fear of disappearing. By repainting the cracked tiles of this borrowed space, they attempt to rebuild much more than a physical place: an identity, a future, and a sense of belonging. Their daily lives become a poignant exploration of what it means to have—and lose—a place of one's own.",
+    "industry": "world",
+    "popularity": 0.2403,
+    "original_language": "ko",
+    "origin_country": [
+      "KR"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-22",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Drama"
+    ],
+    "tagline": "Where was our \"place\" then?",
+    "status": "Post Production",
+    "production_countries": [],
+    "spoken_languages": [
+      "ko"
+    ],
+    "certification": "ALL",
+    "release_date": "2026-11-29",
+    "date_kind": "festival",
+    "runtime": 77,
+    "providers": [],
+    "providers_wtw": []
+  },
+  "1612038": {
+    "id": 1612038,
+    "type": "movie",
+    "title": "A Madman",
+    "poster_path": "/75bSrtfiTHLxoQE294KboMosJxo.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "",
+    "industry": "world",
+    "popularity": 0.2583,
+    "original_language": "zh",
+    "origin_country": [
+      "TW"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-22",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Drama",
+      "TV Movie"
+    ],
+    "tagline": "",
+    "status": "Post Production",
+    "production_countries": [
+      "TW"
+    ],
+    "spoken_languages": [
+      "zh"
+    ],
+    "certification": "",
+    "release_date": "2026-11-29",
+    "date_kind": "release",
+    "runtime": 0,
+    "providers": [],
+    "providers_wtw": []
+  },
+  "293607": {
+    "id": 293607,
+    "type": "tv",
+    "title": "100 Days of Deception",
+    "poster_path": "/nzZRLsIPf4545w2vwvBz5xTdp3.jpg",
+    "backdrop_path": "/yeMmiOzXkAdbbRgy2W41H3c2lLQ.jpg",
+    "vote_average": 8.8,
+    "vote_count": 20,
+    "overview": "Hoping for freedom, Gyeongseong's top pickpocket infiltrates the Japanese colonial government to steal secrets — only to fall for her target's son.",
+    "industry": "world",
+    "popularity": 41.9419,
+    "original_language": "ko",
+    "origin_country": [
+      "KR"
+    ],
+    "trailer": {
+      "key": "P0ElxnFyfXY",
+      "name": "Official Trailer [Subtitled]",
+      "site": "YouTube"
+    },
+    "categories": [
+      "tv"
+    ],
+    "published_at": "2026-11-22",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Action & Adventure",
+      "Drama"
+    ],
+    "tagline": "Hide who you are, hide how you feel.",
+    "status": "Returning Series",
+    "production_countries": [
+      "KR"
+    ],
+    "spoken_languages": [
+      "ko"
+    ],
+    "certification": "TV-14",
+    "first_air_date": "2026-10-10",
+    "networks": [
+      "tvN"
+    ],
+    "number_of_seasons": 1,
+    "number_of_episodes": 16,
+    "channel": "tvN",
+    "episode_run_time": [],
+    "seasons": [
+      {
+        "season_number": 0,
+        "episode_count": 1,
+        "air_date": "2026-10-03",
+        "name": "Specials"
+      },
+      {
+        "season_number": 1,
+        "episode_count": 16,
+        "air_date": "2026-10-10",
+        "name": "Season 1"
+      }
+    ],
+    "created_by": [
+      "Ryu Bo-ri",
+      "Yoo In-sik",
+      "Kim Yoon-jin"
+    ],
+    "providers": [
+      {
+        "name": "Netflix",
+        "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+        "region": "IN",
+        "type": "flatrate"
+      }
+    ],
+    "providers_wtw": [
+      {
+        "name": "Netflix",
+        "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+        "region": "IN",
+        "kind": "flatrate"
+      }
+    ]
   }
 };

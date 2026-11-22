@@ -222034,5 +222034,388 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "2026-11-22T16:00:10Z"
+  },
+  "shrim0": {
+    "id": "shrim0",
+    "type": "news",
+    "headline": "Banrakas Takes Over Phulera In Panchayat Season 5 Promo As Trailer Launch Date Is Announced",
+    "dek": "Durgesh Kumar's character Banrakas assumes power in the fictional village of Phulera, revealing the trailer release date for the upcoming season of the Amazon Prime Video series.",
+    "body": [
+      {
+        "h": "Phulera Under New Management",
+        "p": [
+          "The popular comedy series Panchayat is returning to the small screen for its fifth instalment, bringing major political shifts to the fictional village of Phulera. With a new administration stepping into governance, the dynamics of the rural town are set for a complete overhaul.",
+          "The shift in power comes after the previous local elections resulted in a narrow defeat for the incumbent leadership. Fans can expect a very different atmosphere as the newly empowered authorities take charge of village affairs."
+        ]
+      },
+      {
+        "h": "Banrakas Announces The Trailer Release",
+        "p": [
+          "In a promotional video released by the streaming platform, the character Banrakas, also known as Bhushan Sharma and played by Durgesh Kumar, humorously takes control of the announcements. Donning a cap emblazoned with the phrase Make Phulera Great Again, the newly minted Pradhan Pati declared that the much-awaited trailer for the fifth season would arrive on November 23, 2026.",
+          "The high-concept promotional clip features Banrakas walking through an exaggerated, futuristic vision of Phulera. Complete with flying cars, monorails, paved streets, and modernised government buildings, the teaser sets a playful tone for the power transition."
+        ]
+      },
+      {
+        "h": "Streaming Details And Premiere Date",
+        "p": [
+          "The upcoming comedy series is scheduled to make its official return on December 3, 2026. Viewers will be able to stream the new episodes exclusively on Amazon Prime Video.",
+          "The promotional buildup for this instalment began earlier in November with the launch of a dedicated social media account for the character, steadily building anticipation for the clash between the old and new village regimes."
+        ]
+      },
+      {
+        "h": "Returning Cast And Characters",
+        "p": [
+          "Audiences will see several familiar faces reprise their beloved roles in the upcoming episodes. Jitendra Kumar returns as the central protagonist Abhishek Tripathi, alongside Raghubir Yadav as Brij Bhushan Dubey and Neena Gupta as Manju Devi.",
+          "The supporting ensemble will also return to their respective roles, including Chandan Roy, Faisal Malik, Sanvikaa, Ashok Pathak, Pankaj Jha, and Sunita Rajwar as Kranti Devi, the wife of the new village leader."
+        ]
+      },
+      {
+        "h": "Plot Dynamics And Challenges Ahead",
+        "p": [
+          "The narrative picks up in the wake of the previous election results where Manju Devi lost by a margin of 73 votes. This political upset paves the way for a hostile work environment for Abhishek Tripathi, who must navigate a vengeful leadership under Kranti Devi and Banrakas.",
+          "At the same time, Abhishek is preparing to move forward with his MBA aspirations. Before he can transition to the next phase of his life, he must conclude his tenure in Phulera while managing his deep bonds with the Dubey family, Prahlad, and Vikas."
+        ]
+      },
+      {
+        "h": "Creators And Production Background",
+        "p": [
+          "The acclaimed comedy-drama was created by Chandan Kumar and Arunabh Kumar under the banner of The Viral Fever. Director Deepak Kumar Mishra, who has been steering the project since its initial premiere in April 2020, returns once again to helm this chapter.",
+          "The series has consistently drawn praise for its grounded depiction of rural life combined with sharp political satire, making each new instalment a major event for OTT viewers."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Banrakas character actor Durgesh Kumar announced the upcoming trailer release date for Panchayat Season 5 via a promotional video set in a futuristic Phulera. The Amazon Prime Video comedy series created by The Viral Fever is scheduled to premiere its new season on December 3, 2026, featuring returning cast members Jitendra Kumar, Raghubir Yadav, and Neena Gupta."
+        ]
+      }
+    ],
+    "facts": [
+      "Panchayat Season 5 premieres on December 3, 2026",
+      "The trailer was announced for release on November 23, 2026",
+      "Manju Devi lost the election by 73 votes",
+      "A dedicated Instagram account @mainhoonbanrakas was created on November 15, 2026",
+      "The series originally premiered in April 2020"
+    ],
+    "entities": {
+      "people": [
+        "Sonal Pandya",
+        "Durgesh Kumar",
+        "Jitendra Kumar",
+        "Raghubir Yadav",
+        "Neena Gupta",
+        "Sunita Rajwar",
+        "Chandan Roy",
+        "Faisal Malik",
+        "Sanvikaa",
+        "Ashok Pathak",
+        "Pankaj Jha",
+        "Chandan Kumar",
+        "Arunabh Kumar",
+        "Deepak Kumar Mishra",
+        "Gaurav Khanna",
+        "Eisha Singh",
+        "Avinash Mishra",
+        "Tom Holland",
+        "Zendaya",
+        "Shah Rukh Khan",
+        "Divik Sharma"
+      ],
+      "titles": [
+        "Panchayat Season 5",
+        "Panchayat",
+        "Anupamaa",
+        "Dil Ki Bewafaiyaann",
+        "Spider-Man"
+      ]
+    },
+    "keywords": [
+      "Panchayat Season 5",
+      "Banrakas Phulera trailer",
+      "Jitendra Kumar Panchayat",
+      "Amazon Prime Video Panchayat"
+    ],
+    "images": [
+      {
+        "url": "https://images.timesnownews.com/thumb/msid-156550370,thumbsize-1628675,width-1280,height-720,resizemode-75/156550370.jpg",
+        "caption": "Banrakas Takes Over Phulera In Panchayat Season 5 Promo As Trailer Launch Date Is Announced",
+        "source": "Times Now — Entertainment"
+      }
+    ],
+    "published": "2026-11-22T18:47:55Z"
+  },
+  "qkgbc3": {
+    "id": "qkgbc3",
+    "type": "news",
+    "headline": "Zhao Li Ying Honored Among Asia-Pacific's Most Influential Young Women",
+    "dek": "Chinese actress Zhao Li Ying has been recognized as one of the 2026 Top 100 Most Influential Young Women in the Asia-Pacific for her acclaimed acting career and extensive industry contributions.",
+    "body": [
+      {
+        "h": "Major Regional Recognition",
+        "p": [
+          "Chinese actress Zhao Li Ying has secured a place on the 2026 Top 100 Most Influential Young Women in the Asia-Pacific list. Published by the Asia-Pacific Young Leaders Program during the 2026 APEC Summit, the compilation highlights young women spanning multiple economies and various industries.",
+          "Zhao is featured specifically within the Film and Television Entertainment category. The recognition underscores her standing as a prominent representative of China's film and television acting sector on a cross-industry platform."
+        ]
+      },
+      {
+        "h": "Selection Criteria and Scope",
+        "p": [
+          "The Asia-Pacific Young Leaders Program lists encompass multiple fields, including business, technology, culture, sports, and academia. Organizers have noted that the selection functions as more than a simple popularity ranking based solely on online traffic or general public attention.",
+          "Instead, the inclusion of figures like Zhao highlights substantial professional achievements and broader industry impact. Other women featured alongside her across diverse fields include Zendaya, Zhang Wei Li, Zhang Yi Ning, Zheng Qin Wen, Zhou Dong Yu, and Zong Fu Li."
+        ]
+      },
+      {
+        "h": "Award-Winning Acting Career",
+        "p": [
+          "Zhao's recognition is built upon a decorated acting career that includes prestigious accolades. She has won both the Feitian Award and the Golden Eagle Award for Best Actress, alongside receiving the Hundred Flowers Award for Best Supporting Actress.",
+          "Industry records indicate she is the sole actress born within the 1985 to 1989 generation to have secured all three of these major mainstream acting awards, marking a significant milestone for her demographic."
+        ]
+      },
+      {
+        "h": "Extensive Portfolio of Works",
+        "p": [
+          "Over the years, the actress has developed a diverse portfolio featuring both historical and modern dramas. Her notable television and streaming titles include The Legend of Zu, Princess Agents, The Story of Ming Lan, The Story of Xing Fu, Wild Bloom, and The Legend of Shen Li.",
+          "These representative projects have consistently achieved strong viewership numbers alongside positive audience reception, cementing her versatility and enduring appeal across different genres."
+        ]
+      },
+      {
+        "h": "Industry Leadership and Judging Roles",
+        "p": [
+          "Beyond acting in front of the camera, Zhao has actively contributed to the broader film ecosystem. This year, she served as the chief judge of the main competition unit at the 8th Golden Rooster Film Venture Capital Conference.",
+          "Working alongside fellow industry figures Huang Jianxin and Yan Ni, she evaluated and voted on funding support for scripts written by emerging screenwriters. Her role as a judge highlights the list's focus on diverse forms of female leadership."
+        ]
+      },
+      {
+        "h": "Ecosystem Contribution and Significance",
+        "p": [
+          "Zhao's overall influence extends past the individual titles in which she stars. Her active participation in industry initiatives and talent support structures demonstrates her dedication to nurturing the next generation of filmmakers.",
+          "By combining a robust award-winning performance history with active mentorship and critical evaluation roles, she continues to shape the professional standards of the entertainment industry."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Chinese actress Zhao Li Ying has been named to the 2026 Top 100 Most Influential Young Women in the Asia-Pacific list during the 2026 APEC Summit. Her inclusion reflects her major acting awards, extensive drama portfolio, and recent role as chief judge at the Golden Rooster Film Venture Capital Conference."
+        ]
+      }
+    ],
+    "facts": [
+      "Zhao Li Ying was named one of the 2026 Top 100 Most Influential Young Women in the Asia-Pacific.",
+      "The list was released by the Asia-Pacific Young Leaders Program (APEA) during the 2026 APEC Summit.",
+      "Zhao Li Ying has won the Feitian Award, the Golden Eagle Award for Best Actress, and the Hundred Flowers Award for Best Supporting Actress.",
+      "She served as the chief judge of the main competition unit at the 8th Golden Rooster Film Venture Capital Conference alongside Huang Jianxin and Yan Ni."
+    ],
+    "entities": {
+      "people": [
+        "Zhao Li Ying",
+        "Zendaya",
+        "Zhang Wei Li",
+        "Zhang Yi Ning",
+        "Zheng Qin Wen",
+        "Zhou Dong Yu",
+        "Zong Fu Li",
+        "Huang Jianxin",
+        "Yan Ni"
+      ],
+      "titles": [
+        "The Legend of Zu",
+        "Princess Agents",
+        "The Story of Ming Lan",
+        "The Story of Xing Fu",
+        "Wild Bloom",
+        "The Legend of Shen Li"
+      ]
+    },
+    "keywords": [
+      "Zhao Li Ying",
+      "Asia-Pacific Young Leaders Program",
+      "Golden Rooster Film Venture Capital Conference",
+      "2026 APEC Summit"
+    ],
+    "images": [
+      {
+        "url": "https://i.mydramalist.com/nKKNzB_2d.jpg",
+        "caption": "Zhao Li Ying Honored Among Asia-Pacific's Most Influential Young Women",
+        "source": "MyDramaList"
+      }
+    ],
+    "published": "Sun, 22 Nov 2026 15:20:08 +0000"
+  },
+  "1yaww0u": {
+    "id": "1yaww0u",
+    "type": "news",
+    "headline": "IShowSpeed Completes GTA 6 in 52 Hours Without Sleep, Breaks Down Over Game Ending",
+    "dek": "Popular YouTuber IShowSpeed streamed for over 52 hours straight to finish Grand Theft Auto 6, but his exhaustion and disappointment with the final credits left him weeping on camera.",
+    "body": [
+      {
+        "h": "The Unprecedented GTA 6 Marathon",
+        "p": [
+          "The release of Grand Theft Auto 6 has sparked a massive wave of excitement across the globe, capturing the attention of prominent creators and actors alike. Among the digital landscape's most recognizable names, the popular content creator known as IShowSpeed took his passion for the title to extreme lengths.",
+          "Instead of pacing himself through the massive open-world environment, he embarked on an intense continuous livestream. Viewers tuned in by the thousands to watch him tackle missions back-to-back without taking a single break to rest."
+        ]
+      },
+      {
+        "h": "Fifty-Two Hours Without Sleep",
+        "p": [
+          "The content creator dedicated nearly all of his time over a two-day span entirely to the game. Pushing through exhaustion, he managed to clear over 80 percent of the main storyline within the first 40 hours of gameplay.",
+          "Refusing to give up despite mounting fatigue, he kept going until the clock struck approximately 52 hours and 30 minutes, at which point the final end credits began to roll on his broadcast."
+        ]
+      },
+      {
+        "h": "Exhaustion and Irritability on Stream",
+        "p": [
+          "Continuous playing without sleep took a severe physical and emotional toll on the internet personality. Throughout the marathon broadcast, signs of extreme tiredness became increasingly evident to his audience.",
+          "Deprived of rest, he appeared visibly irritable and downcast as the hours dragged on. The lack of sleep transformed what started as an exciting gaming session into a grueling endurance test."
+        ]
+      },
+      {
+        "h": "Emotional Breakdown Over the Ending",
+        "p": [
+          "Rather than celebrating a triumphant victory upon reaching the conclusion of the narrative, the creator found himself deeply let down by how things wrapped up. He expressed explicit dissatisfaction with the climax and final twists of the storyline.",
+          "Overwhelmed by disappointment regarding specific narrative developments and drained by extreme sleep deprivation, he broke down and began crying directly in front of the camera, creating a viral moment across social media platforms."
+        ]
+      },
+      {
+        "h": "Not the Absolute First to Finish",
+        "p": [
+          "Despite the monumental effort required to complete the title in just over two days, he was not actually the very first streamer in the world to reach the end credits of the game.",
+          "A creator from New Zealand named BrycexD managed to clear the storyline in under 40 hours, reportedly aided by an earlier regional release schedule in that part of the world."
+        ]
+      },
+      {
+        "h": "A Lasting Internet Talking Point",
+        "p": [
+          "Even though he missed out on the record for the fastest completion time, the sheer scale of his feat captured public attention. Streaming continuously for over 52 hours without sleep generated widespread discussion online.",
+          "His raw, emotional reaction to the conclusion added another unforgettable chapter to his history of viral internet moments, drawing reactions and sympathy from fans across multiple platforms."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Content creator IShowSpeed spent over 52 hours continuously streaming Grand Theft Auto 6 without taking any time to sleep. Though another streamer finished the game faster, his exhaustion and disappointment with the ending caused him to break down in tears on camera, sparking viral discussions online."
+        ]
+      }
+    ],
+    "facts": [
+      "IShowSpeed completed GTA 6 in 52 hours and 30 minutes.",
+      "He did not sleep during the entire gaming session.",
+      "He completed over 80 percent of the game's story within the first 40 hours.",
+      "A New Zealand streamer named BrycexD finished the game in under 40 hours.",
+      "The article was published on November 22, 2026."
+    ],
+    "entities": {
+      "people": [
+        "IShowSpeed",
+        "BrycexD"
+      ],
+      "titles": [
+        "Grand Theft Auto 6",
+        "GTA 6"
+      ]
+    },
+    "keywords": [
+      "IShowSpeed GTA 6",
+      "IShowSpeed 52 hours stream",
+      "GTA 6 ending reaction",
+      "IShowSpeed crying GTA 6"
+    ],
+    "images": [
+      {
+        "url": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202611/6b02797d694e8-ishowspeed-completes-gta-6-221124124-16x9.jpg",
+        "caption": "IShowSpeed Completes GTA 6 in 52 Hours Without Sleep, Breaks Down Over Game Ending",
+        "source": "Aaj Tak — Entertainment"
+      }
+    ],
+    "published": "2026-11-22T18:47:55Z"
+  },
+  "rdwnug": {
+    "id": "rdwnug",
+    "type": "news",
+    "headline": "BÉIS Launches Massive Black Friday Sale With Discounts Across Popular Travel Gear",
+    "dek": "Travel lovers and holiday vacationers can now purchase popular luggage pieces, weekenders, and totes at significant price reductions during the newly announced event.",
+    "body": [
+      {
+        "h": "The Black Friday Event Details",
+        "p": [
+          "Shoppers preparing for seasonal trips can take advantage of a newly announced shopping event offering substantial price cuts across popular travel accessories. The travel brand is currently hosting a promotion that reduces prices by twenty-five percent sitewide. Additionally, select merchandise features even steeper markdowns reaching up to fifty percent off regular retail prices.",
+          "This shopping occasion arrives shortly after the travel label introduced a complete redesign of its primary product lineup earlier in the year. Consumers looking to upgrade their vacation gear can now experience the updated designs and features for themselves at lower costs during the limited-time shopping window."
+        ]
+      },
+      {
+        "h": "Highlighted Travel Essentials",
+        "p": [
+          "Several signature items stand out within the promotional lineup, including fan-favorite overnight bags and luggage rollers. The highly sought-after Weekender bag, priced at eighty-eight dollars and fifty cents down from one hundred eighteen dollars, offers a lightweight structure designed to simplify travel days without sacrificing capacity or aesthetic appeal.",
+          "For larger holiday trips requiring checked luggage, the Large Check-In Roller provides expansive storage options at two hundred seventy-six dollars instead of three hundred sixty-eight dollars. Meanwhile, the standard Carry-On Roller features an expandable frame and compression technology, now available for two hundred one dollars compared to its original price of two hundred sixty-eight dollars."
+        ]
+      },
+      {
+        "h": "Versatile Totes and Daily Kits",
+        "p": [
+          "Beyond major luggage pieces, the catalog includes functional accessories tailored for daily commutes and personal routines. The Catchall Tote sports a glossy, crocodile-inspired finish and an exceptionally roomy interior, allowing users to transition smoothly from morning fitness classes to office hours and evening outings for one hundred three dollars and fifty cents.",
+          "Grooming and personal care items also receive price reductions through products like the Dopp Kit. Available for fifty-one dollars instead of sixty-eight dollars, this spill-proof accessory features a wide opening along with separate top and bottom compartments outfitted with wipeable interiors to keep routines organized on the go."
+        ]
+      },
+      {
+        "h": "Options for New Parents and Gift Givers",
+        "p": [
+          "Gift shoppers seeking items for loved ones can find numerous choices suitable for travel enthusiasts and frequent flyers alike. The product lineup extends to practical solutions designed specifically for caregivers navigating trips with infants.",
+          "The Ultimate Diaper Backpack offers thoughtful organization features for both baby and parent essentials, discounted to one hundred forty-eight dollars and fifty cents from one hundred ninety-eight dollars. Every featured item comes in a variety of sophisticated colorways, such as Atlas Pink, Maple, and Olive."
+        ]
+      },
+      {
+        "h": "Daily Deals and Timing",
+        "p": [
+          "In addition to the overarching sitewide price reductions, buyers can anticipate extra promotions rolling out over a specific four-day window. Special daily deals are scheduled to go live sequentially for limited periods.",
+          "These rotating offers will become available to shoppers starting on November 27 and will continue through November 30. Consumers are encouraged to monitor the inventory closely as high-demand items are expected to sell out quickly."
+        ]
+      },
+      {
+        "h": "Brand Background and Founder",
+        "p": [
+          "The popular travel accessories company was established by celebrity founder Shay Mitchell. Known for combining fashion-forward aesthetics with practical functionality, the brand has garnered significant consumer interest since its inception.",
+          "The current promotional event highlights items from the refreshed core collection, giving both loyal customers and first-time buyers an accessible entry point into the brand's widely discussed travel gear ecosystem."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "The brand founded by Shay Mitchell has launched a Black Friday promotion offering twenty-five percent off sitewide and up to fifty percent off select items. Shoppers can purchase popular items like the Weekender, rollers, and totes at discounted prices alongside limited daily deals running from November 27 to November 30."
+        ]
+      }
+    ],
+    "facts": [
+      "The BÉIS Black Friday Sale offers 25% off sitewide and select styles up to 50% off.",
+      "The brand was founded by Shay Mitchell.",
+      "The Weekender bag is priced at $88.50 down from $118.",
+      "The Dopp Kit is priced at $51 down from $68.",
+      "The Carry-On Roller is priced at $201 down from $268.",
+      "The Ultimate Diaper Backpack is priced at $148.50 down from $198.",
+      "The Catchall Tote is priced at $103.50 down from $138.",
+      "The Large Check-In Roller is priced at $276 down from $368.",
+      "Daily deals drop from 11/27 to 11/30.",
+      "Available colors include Atlas Pink, Maple, and Olive."
+    ],
+    "entities": {
+      "people": [
+        "Shay Mitchell"
+      ],
+      "titles": [
+        "BÉIS"
+      ]
+    },
+    "keywords": [
+      "BÉIS Black Friday Sale",
+      "Shay Mitchell travel brand",
+      "BÉIS Weekender bag",
+      "BÉIS luggage sale"
+    ],
+    "images": [
+      {
+        "url": "https://akns-images.eonline.com/eol_images/Entire_Site/20261119/9ed9c83e-e9e4-4556-9ade-2c887b498994_1795159065.jpg?fit=around%7C1200:1200&output-quality=90&crop=1200:1200;center,top",
+        "caption": "BÉIS Launches Massive Black Friday Sale With Discounts Across Popular Travel Gear",
+        "source": "E! News"
+      }
+    ],
+    "published": "Sun, 22 Nov 2026 16:00:00 GMT"
   }
 };
