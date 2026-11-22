@@ -221457,5 +221457,417 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "2026-11-22T12:54:25+05:30"
+  },
+  "rax18d": {
+    "id": "rax18d",
+    "type": "news",
+    "headline": "Krrish 4 News: Ramayana Producer Namit Malhotra Reportedly in Talks with Hrithik Roshan",
+    "dek": "Speculation surrounds the potential collaboration between Hrithik Roshan and Ramayana producer Namit Malhotra to bring the mega-budget superhero sequel Krrish 4 to life on an epic scale.",
+    "body": [
+      {
+        "h": "Anticipation Surrounding Hrithik Roshan's Next Project",
+        "p": [
+          "Fans have been eagerly awaiting Hrithik Roshan's return to the silver screen following his striking cameo in Jailer 2. The actor has remained the subject of immense curiosity regarding his upcoming cinematic endeavors, with audiences keen to discover his next big venture.",
+          "While details have largely remained under wraps by the star himself, fresh and exciting updates have emerged concerning the fourth installment of his iconic superhero franchise, generating significant buzz across the entertainment industry."
+        ]
+      },
+      {
+        "h": "Potential Collaboration with Ramayana Producer",
+        "p": [
+          "According to reports from Deccan Chronicle, discussions are currently underway between Hrithik Roshan and producer Namit Malhotra to potentially collaborate on the highly anticipated superhero sequel.",
+          "Malhotra, fresh off his monumental success producing Ramayana, is reportedly in talks to join the project and play a pivotal role in ensuring the film achieves a massive, grand-scale execution."
+        ]
+      },
+      {
+        "h": "A Massive Budget and Hollywood-Grade Visuals",
+        "p": [
+          "Industry circles indicate that Krrish 4 is being planned with a colossal budget ranging between 700 to 800 crore rupees, reflecting the ambitious scope envisioned for the upcoming production.",
+          "Namit Malhotra brings extensive experience in handling high-budget spectacles, having recently helmed Ramayana, which was declared a box office hit. As the CEO of the Oscar-winning visual effects studio DNEG, his involvement could potentially elevate the film's visual effects to international standards."
+        ]
+      },
+      {
+        "h": "Past Associations and Technical Expertise",
+        "p": [
+          "The connection between Malhotra's visual effects powerhouse and the star is already established, as DNEG previously contributed to the VFX work on Hrithik Roshan's action film Fighter.",
+          "This existing professional rapport further fuels speculation that the upcoming superhero epic will feature cutting-edge visual presentation matching Hollywood blockbuster benchmarks."
+        ]
+      },
+      {
+        "h": "Fresh Plot Concepts and Direction",
+        "p": [
+          "Reports suggest that the upcoming sequel will explore innovative narrative concepts, including elements of time travel and a multiverse plot structure to expand the franchise's universe.",
+          "In a major shift behind the camera, Hrithik Roshan will take on directorial responsibilities for this installment, stepping into the role previously held by his father, Rakesh Roshan, who had earlier announced his son taking over the director's chair."
+        ]
+      },
+      {
+        "h": "Awaiting Official Confirmation",
+        "p": [
+          "Despite widespread industry reports and mounting speculation regarding the high-profile meetings, there has been no official confirmation from the production side.",
+          "Observers note that the rumors will remain unverified until an official statement is released directly by Hrithik Roshan or his father, Rakesh Roshan."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Reports indicate that actor Hrithik Roshan has held discussions with Ramayana producer Namit Malhotra regarding a potential collaboration on the high-budget superhero sequel Krrish 4. While the project is rumored to feature a massive budget and advanced visual effects through DNEG, official verification from the Roshan family is still awaited."
+        ]
+      }
+    ],
+    "facts": [
+      "Hrithik Roshan made a cameo appearance in Jailer 2.",
+      "Deccan Chronicle reported talks between Hrithik Roshan and producer Namit Malhotra.",
+      "Namit Malhotra is the producer of Ramayana and CEO of DNEG.",
+      "Krrish 4 is projected to have a budget of 700 to 800 crore rupees.",
+      "DNEG previously worked on the visual effects for Hrithik Roshan's film Fighter.",
+      "Rakesh Roshan previously announced that Hrithik Roshan will direct Krrish 4."
+    ],
+    "entities": {
+      "people": [
+        "Hrithik Roshan",
+        "Namit Malhotra",
+        "Rakesh Roshan"
+      ],
+      "titles": [
+        "Krrish 4",
+        "Jailer 2",
+        "Ramayana",
+        "Fighter"
+      ]
+    },
+    "keywords": [
+      "Krrish 4",
+      "Hrithik Roshan",
+      "Namit Malhotra",
+      "Ramayana producer",
+      "Rakesh Roshan"
+    ],
+    "images": [
+      {
+        "url": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202611/6b0295d2cd39b-hrithik-roshan--namit-malhotra-221217756-16x9.jpg",
+        "caption": "Krrish 4 News: Ramayana Producer Namit Malhotra Reportedly in Talks with Hrithik Roshan",
+        "source": "Aaj Tak — Entertainment"
+      }
+    ],
+    "published": "2026-11-22T16:52:29Z"
+  },
+  "1w331q3": {
+    "id": "1w331q3",
+    "type": "news",
+    "headline": "Hulu November 2026 Releases Feature Alan Ritchson's Runner and More",
+    "dek": "Discover the top movie and show additions coming to Hulu for the week of November 23 to November 29, 2026, featuring major titles like Alan Ritchson's Runner and Alice Winocour's Couture.",
+    "body": [
+      {
+        "h": "Introduction to Hulu's Weekly Lineup",
+        "p": [
+          "Hulu has unveiled its exciting collection of film and television additions scheduled for the final week of November 2026. Spanning from November 23 to November 29, the streaming platform's latest schedule brings a diverse variety of action features, dramas, and documentary series to audiences.",
+          "Among the most anticipated arrivals are star-studded feature films making their way onto the platform. Viewers looking for fresh entertainment will find options ranging from adrenaline-fueled action comedies to high-fashion dramatic features."
+        ]
+      },
+      {
+        "h": "Alan Ritchson Leads Action Comedy Runner",
+        "p": [
+          "Set for release on November 27, Runner is an Australia-based action comedy focusing on the character Hank Malone. Portrayed by Alan Ritchson, Hank is a former Navy SEAL who maintains his sobriety while working as a premium medical courier in Brisbane.",
+          "After marking one year of sobriety, he accepts a dangerous assignment to transport a rare human liver. The organ is urgently needed for Ellie, a 7-year-old girl played by Scarlett Crabtree, who possesses the rare golden blood type and faces a serious illness."
+        ]
+      },
+      {
+        "h": "Borderlands Brings Sci-Fi Action to the Platform",
+        "p": [
+          "The 2024 sci-fi action comedy Borderlands joins the Hulu library on November 25. The narrative follows Lilith, an infamous outlaw burdened by a troubled past, who is portrayed by Cate Blanchett.",
+          "Lilith reluctantly returns to her chaotic home planet of Pandora. Once there, she is hired by the powerful corporate arms dealer Atlas, played by Édgar Ramírez, to track down his missing daughter, Tiny Tina, brought to life by Ariana Greenblatt."
+        ]
+      },
+      {
+        "h": "Couture Explores the World of Paris Fashion Week",
+        "p": [
+          "Scheduled for release on November 27, the 2025 drama Couture is directed by Alice Winocour. Set against the high-stakes backdrop of Paris Fashion Week, the film holds the distinction of being the first fictional motion picture permitted to shoot inside Chanel's showroom and atelier.",
+          "The storyline centers on three women whose lives intersect while dealing with personal struggles, physical pressures, and the unseen labor sustaining the fashion industry. The prominent ensemble cast includes Angelina Jolie, Anyier Anei, Louis Garrel, Ella Rumpf, Vincent Lindon, Garance Marillier, Grégoire Colin, Aurore Clément, and Finnegan Oldfield."
+        ]
+      },
+      {
+        "h": "Additional Movies Arriving This Week",
+        "p": [
+          "The weekly slate features several other notable film offerings spanning multiple genres. Mickey 17 is slated for release on November 23.",
+          "Later in the week, Mummies arrives on November 26, followed by Toys and Colors Elf Academy on November 27."
+        ]
+      },
+      {
+        "h": "Documentary and Series Premieres",
+        "p": [
+          "Fans of non-fiction programming and television series have plenty of options to explore throughout the week. MAO Season 1 Part 2 premieres with its dub and Spanish dub options on November 23.",
+          "November 26 brings a broad assortment of factual programming, including Chuck Norris's Epic Guide to Military Vehicles, The Curse of Oak Island Season 13, History's Greatest Warriors Season 1, Hot Rods and Muscle Cars, Speed Demons, and The UnBelievable With Dan Aykroyd Season 3."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Hulu's release schedule for the week of November 23 to 29, 2026, features notable titles such as Alan Ritchson's Runner, the sci-fi comedy Borderlands, and Alice Winocour's fashion-industry drama Couture. The lineup provides viewers with a diverse selection of action movies, series, and documentary programming."
+        ]
+      }
+    ],
+    "facts": [
+      "Runner releases on November 27, 2026",
+      "Borderlands releases on November 25, 2024",
+      "Couture releases on November 27, 2025",
+      "Alan Ritchson plays Hank Malone",
+      "Scarlett Crabtree plays Ellie",
+      "Cate Blanchett plays Lilith",
+      "Édgar Ramírez plays Atlas",
+      "Ariana Greenblatt plays Tiny Tina"
+    ],
+    "entities": {
+      "people": [
+        "Alan Ritchson",
+        "Scarlett Crabtree",
+        "Cate Blanchett",
+        "Édgar Ramírez",
+        "Ariana Greenblatt",
+        "Alice Winocour",
+        "Angelina Jolie",
+        "Anyier Anei",
+        "Louis Garrel",
+        "Ella Rumpf",
+        "Vincent Lindon",
+        "Garance Marillier",
+        "Grégoire Colin",
+        "Aurore Clément",
+        "Finnegan Oldfield",
+        "Dan Aykroyd",
+        "Chuck Norris",
+        "Sibanee Gogoi"
+      ],
+      "titles": [
+        "Runner",
+        "Borderlands",
+        "Couture",
+        "MAO",
+        "MAO En Español",
+        "Mickey 17",
+        "Chuck Norris’s Epic Guide to Military Vehicles",
+        "The Curse of Oak Island",
+        "History’s Greatest Warriors",
+        "Hot Rods and Muscle Cars",
+        "Speed Demons",
+        "The UnBelievable With Dan Aykroyd",
+        "Mummies",
+        "Toys and Colors Elf Academy"
+      ]
+    },
+    "keywords": [
+      "Alan Ritchson Runner",
+      "Hulu releases November 2026",
+      "Couture movie Alice Winocour",
+      "Borderlands Hulu streaming"
+    ],
+    "images": [
+      {
+        "url": "https://www.comingsoon.net/wp-content/uploads/sites/3/2026/11/runneralan.webp?resize=1200,630",
+        "caption": "Hulu November 2026 Releases Feature Alan Ritchson's Runner and More",
+        "source": "ComingSoon.net"
+      }
+    ],
+    "published": "Sun, 22 Nov 2026 16:00:00 +0000"
+  },
+  "196ujfz": {
+    "id": "196ujfz",
+    "type": "news",
+    "headline": "Ramayana Box Office Collection Day 18: Ranbir Kapoor-Yash Film Has Another Bumper Sunday, Collects ₹35 Crore",
+    "dek": "Ranbir Kapoor and Yash's mythological epic Ramayana continues its strong theatrical run, pulling in robust numbers on its eighteenth day at the box office.",
+    "body": [
+      {
+        "h": "The Box Office Journey",
+        "p": [
+          "The mythological epic Ramayana has maintained a powerful momentum at the box office, drawing packed audiences even after weeks of release. Having arrived in cinemas ahead of Diwali on November 5, 2026, the film has sustained a remarkable presence in theatres.",
+          "Now well into its third week, the film reached its eighteenth day with another stellar Sunday performance, proving its enduring appeal despite the cooling down of the initial festive rush."
+        ]
+      },
+      {
+        "h": "Day 18 Earnings and Language Breakdown",
+        "p": [
+          "According to trade tracker Sacnilk, the feature pulled in a net collection of ₹35.60 crore across India on its eighteenth day from a massive count of 16,270 shows.",
+          "The Hindi version spearheaded these earnings with ₹26.25 crore across 13,850 shows, while the Malayalam language run brought in ₹3.40 crore from 869 shows. Meanwhile, the Kannada version collected ₹2.50 crore from 449 shows, Tamil screenings added ₹2.40 crore across 645 shows, and the Telugu version contributed ₹1.05 crore from 457 shows, pushing the overall net collection to ₹942.75 crore."
+        ]
+      },
+      {
+        "h": "Record-Breaking Opening and Early Trends",
+        "p": [
+          "The monumental commercial success was foreshadowed by heavy advance bookings that commenced on Dussehra, 15 days prior to the theatrical premiere. By the time the movie debuted on the big screen, it had already amassed ₹200 crore worldwide through pre-sales.",
+          "It opened to an enormous ₹64.85 crore net in India, marking the fourth-biggest opening in Bollywood history. The momentum surged further during the opening week with staggering single-day spikes, including ₹107 crore net on Monday and ₹94 crore net on Tuesday, eventually crossing the ₹500-crore milestone by the end of its first week."
+        ]
+      },
+      {
+        "h": "Cast and Creative Leadership",
+        "p": [
+          "Nitesh Tiwari, acclaimed for directing Dangal and Chhichhore, steers this massive two-part cinematic adaptation. The grand project features Ranbir Kapoor as Lord Rama, Sai Pallavi as Goddess Sita, and Yash in the role of Ravana.",
+          "The extensive ensemble cast also includes Ravie Dubey as Lakshman, Rakul Preet Singh as Surpanakha, Lara Dutta as Queen Kaikeyi, Arun Govil as King Dashrath, and Kajal Aggarwal as Mandodari."
+        ]
+      },
+      {
+        "h": "Production Scale and Visuals",
+        "p": [
+          "Bankrolled by producers Namit Malhotra and Yash under the banners of Prime Focus Studios and Monster Mind Creations, the venture ranks among the most ambitious Indian film projects ever undertaken.",
+          "To bring the epic world to visual life, top-tier visual effects studios DNEG and ReDefine were brought on board. Additionally, the original score was crafted through the historic collaboration of Oscar-winning composers Hans Zimmer and AR Rahman."
+        ]
+      },
+      {
+        "h": "Sequel Timeline Update",
+        "p": [
+          "Alongside the ongoing box office triumph of the first installment, the creative team updated audiences regarding the future of the franchise.",
+          "Toward the conclusion of the current film, the makers officially confirmed that the second installment, Ramayana: Part 2, will arrive in cinemas during Diwali 2028 instead of its previously anticipated 2027 release window."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "The Ranbir Kapoor and Yash-starrer Ramayana pulled in a net collection of ₹35.60 crore across India on its eighteenth day, bringing its total net collection to ₹942.75 crore. Directed by Nitesh Tiwari, the mythological epic continues its strong theatrical run while its sequel, Ramayana: Part 2, has been confirmed for a Diwali 2028 release."
+        ]
+      }
+    ],
+    "facts": [
+      "Ramayana released on November 5, 2026.",
+      "On day 18, Ramayana collected ₹35.60 crore net in India.",
+      "The film's total net collection stands at ₹942.75 crore.",
+      "Ramayana: Part 2 will release in Diwali 2028."
+    ],
+    "entities": {
+      "people": [
+        "Ranbir Kapoor",
+        "Yash",
+        "Sai Pallavi",
+        "Ravie Dubey",
+        "Rakul Preet Singh",
+        "Lara Dutta",
+        "Arun Govil",
+        "Kajal Aggarwal",
+        "Namit Malhotra",
+        "Nitesh Tiwari",
+        "Hans Zimmer",
+        "AR Rahman"
+      ],
+      "titles": [
+        "Ramayana",
+        "Ramayana: Part 1",
+        "Ramayana: Rise of a Legend",
+        "Ramayana: Part 2",
+        "Dangal",
+        "Chhichhore"
+      ]
+    },
+    "keywords": [
+      "Ramayana box office collection",
+      "Ramayana day 18 collection",
+      "Ranbir Kapoor Yash Ramayana",
+      "Ramayana Part 2 release date",
+      "Nitesh Tiwari Ramayana film"
+    ],
+    "images": [
+      {
+        "url": "https://www.hindustantimes.com/ht-img/img/2026/11/22/1600x900/logo/Screenshot_2026-11-22_151549_1795340770793_BnaZ_1795340792862_BBWk_a5546024-d8c2-4e54-ba26-e11556dd035d_vD2D.png",
+        "caption": "Ramayana Box Office Collection Day 18: Ranbir Kapoor-Yash Film Has Another Bumper Sunday, Collects ₹35 Crore",
+        "source": "Hindustan Times — Entertainment"
+      }
+    ],
+    "published": "Sun, 22 Nov 2026 22:12:35 +0530"
+  },
+  "cgqj8t": {
+    "id": "cgqj8t",
+    "type": "news",
+    "headline": "Tomi Adeyimi Reverses Boycott of Paramount Fantasy Adaptation Children of Blood and Bone",
+    "dek": "Author Tomi Adeyimi has changed her stance on the upcoming Paramount fantasy adaptation Children of Blood and Bone, sharing the latest trailer and encouraging fans to see the movie in theaters.",
+    "body": [
+      {
+        "h": "Author Reverses Course on Adaptation",
+        "p": [
+          "Author Tomi Adeyimi has publicly shifted her perspective regarding the upcoming Paramount Pictures fantasy epic adaptation Children of Blood and Bone. With the film's release approaching in under two months, Adeyimi took to Instagram to share the latest trailer and offer a completely new message to her followers.",
+          "Rather than continuing her previously announced distance from the project, the author expressed deep hope that audiences will feel empowered, celebrated, and magical when experiencing the story on the big screen. Her latest statement marks a notable turnaround from her earlier decision to boycott the movie."
+        ]
+      },
+      {
+        "h": "Origins and Plot of the Fantasy Epic",
+        "p": [
+          "The upcoming film is based on Adeyimi's bestselling 2018 fantasy novel set in the mystical country of Orïsha. The narrative follows a young woman named Zélie as she fights against the ruthless King Saran, who has kept oppressed a class of magic users known as divîners.",
+          "Zélie receives assistance in her quest to return magic to the world from her brother Tzain and the king's daughter, Princess Amari. The cinematic adaptation brings this expansive world to life after originally gaining momentum at Paramount following its time at Lucasfilm."
+        ]
+      },
+      {
+        "h": "Star-Studded Cast and Creative Team",
+        "p": [
+          "Paramount's adaptation features a prominent ensemble cast led by Thuso Mbedu portraying the central character Zélie. Amandla Stenberg takes on the role of Princess Amari, while Tosin Cole plays Zélie's brother Tzain.",
+          "The roster also includes Damson Idris as Amari's brother Inan and Chiwetel Ejiofor as King Saran. Behind the camera, the script was co-written by Tomi Adeyimi alongside director Gina Prince-Bythewood."
+        ]
+      },
+      {
+        "h": "Previous Controversy and Emotional Hurdles",
+        "p": [
+          "The journey to the film's release has experienced significant turbulence following high initial anticipation. Adeyimi previously stepped away from the adaptation, citing various emotional hurdles encountered during production and alluding to issues involving co-star Amandla Stenberg.",
+          "At one point, the author denounced the movie as the worst thing of her life and declared she would not permit further adaptations of her works. Reports indicated her frustration partly stemmed from a video where Stenberg defended her casting against colorism backlash."
+        ]
+      },
+      {
+        "h": "Gratitude and Praise for Production Crew",
+        "p": [
+          "In her recent social media update, Adeyimi chose to focus her attention on celebrating the massive effort required to bring the novel to cinemas. She thanked the director, Gina Prince-Bythewood, alongside the hundreds of cast and crew members who worked extensively on the production.",
+          "The author also expressed gratitude toward her family, mentors, and fans who supported her over the past ten years through both high and low points. She confirmed her excitement to attend theatrical screenings with her supporters."
+        ]
+      },
+      {
+        "h": "Significance for Future Installments",
+        "p": [
+          "While some observers have questioned whether the author's renewed support stems from contractual obligations, the public reversal carries genuine emotion that could encourage loyal readers to attend screenings. This shift could provide the fantasy epic with a valuable box office boost.",
+          "A stronger financial performance at the box office might also influence Paramount's potential to adapt the second and third installments of the Legacy of Orïsha trilogy, provided the author grants future rights to the studio."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Author Tomi Adeyimi has reversed her previous boycott of Paramount's upcoming fantasy adaptation Children of Blood and Bone by sharing the latest trailer and urging fans to see the film in theaters. Despite earlier emotional turmoil and public fallout surrounding the production, Adeyimi expressed appreciation for the cast and crew's hard work. The film, directed by Gina Prince-Bythewood and starring Thuso Mbedu and Amandla Stenberg, is scheduled for release on January 15, 2027."
+        ]
+      }
+    ],
+    "facts": [
+      "Tomi Adeyimi wrote the 2018 fantasy epic novel Children of Blood and Bone.",
+      "The film adaptation is scheduled for release on January 15, 2027.",
+      "Gina Prince-Bythewood directed the movie and co-wrote the script with Tomi Adeyimi.",
+      "The cast includes Thuso Mbedu, Amandla Stenberg, Tosin Cole, Damson Idris, and Chiwetel Ejiofor."
+    ],
+    "entities": {
+      "people": [
+        "Tomi Adeyimi",
+        "Grant Hermanns",
+        "Gina Prince-Bythewood",
+        "Thuso Mbedu",
+        "Amandla Stenberg",
+        "Tosin Cole",
+        "Damson Idris",
+        "Chiwetel Ejiofor",
+        "Idris Elba",
+        "Viola Davis",
+        "Matthew Rudoy",
+        "Reggie Rock Bythewood",
+        "Wyck Godfrey",
+        "Karen Rosenfelt",
+        "Marty Bowen"
+      ],
+      "titles": [
+        "Children of Blood and Bone",
+        "Legacy of Orïsha",
+        "The Woman King",
+        "Evil Dead Burn"
+      ]
+    },
+    "keywords": [
+      "Children of Blood and Bone",
+      "Tomi Adeyimi",
+      "Gina Prince-Bythewood",
+      "Thuso Mbedu"
+    ],
+    "images": [
+      {
+        "url": "https://static0.srcdn.com/wordpress/wp-content/uploads/2026/11/damson-idris-prince-inan-standing-intimidatingly-with-creatures-behind-him-in-children-of-blood-and-bone.jpg?w=1600&amp;h=900&amp;fit=crop",
+        "caption": "Tomi Adeyimi Reverses Boycott of Paramount Fantasy Adaptation Children of Blood and Bone",
+        "source": "Screen Rant"
+      }
+    ],
+    "published": "Sun, 22 Nov 2026 16:00:18 GMT"
   }
 };
