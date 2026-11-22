@@ -219027,5 +219027,376 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Sun, 22 Nov 2026 09:31:18 GMT"
+  },
+  "fjel2v": {
+    "id": "fjel2v",
+    "type": "news",
+    "headline": "Former Los Angeles Resident Convicted for Igniting the Historic Palisades Fire",
+    "dek": "A federal jury has found Jonathan Rinderknecht guilty of arson and property destruction for starting the blaze that escalated into the devastating January 2025 Palisades Fire.",
+    "body": [
+      {
+        "h": "The Guilty Verdict",
+        "p": [
+          "A federal jury has reached a verdict regarding the catastrophic events of early 2025, convicting a former Los Angeles resident for his role in starting the historical wildfire. Jonathan Rinderknecht, age 30, was found guilty of one count of destruction of property by means of fire and one count of arson affecting property used in interstate commerce. Federal prosecutors successfully argued that his deliberate actions initiated the sequence of events leading to the disaster.",
+          "The outcome follows a previous legal proceeding that ended in a mistrial when a federal jury deadlocked in June. After narrowing the charges to two felonies, the prosecution secured convictions that hold the defendant legally responsible for the catastrophic environmental damage and loss of life."
+        ]
+      },
+      {
+        "h": "How the Disaster Began",
+        "p": [
+          "The catastrophic chain of events began on New Year's Eve in 2024, when Rinderknecht was working as an Uber driver. According to investigator affidavits, he grew agitated and frustrated after failing to find companionship that evening. He drove to a Pacific Palisades trailhead where he watched a music video titled 'Un Zder, Un Thé' and unsuccessfully attempted to contact an old friend.",
+          "Investigators stated that he deliberately ignited the initial blaze, known as the Lachman fire, shortly after midnight on January 1, 2025. Although environmental sensing platforms recorded the start of the fire around 12:12 a.m., and the defendant made attempts to contact emergency services, the initial flames were swiftly suppressed by firefighters."
+        ]
+      },
+      {
+        "h": "The Underground Embers and Gale Winds",
+        "p": [
+          "While authorities believed the New Year's Day fire had been completely neutralized, embers continued to smolder undetected beneath the surface. For days, the hidden threat remained dormant until severe weather conditions arrived in the region.",
+          "On January 7, heavy winds swept through the area and reignited the subterranean embers. The wind-driven flames surfaced rapidly, transforming the small, hidden flare-up into the most destructive wildfire in Los Angeles history."
+        ]
+      },
+      {
+        "h": "Devastation Across Pacific Palisades",
+        "p": [
+          "The resulting Palisades Fire tore through the Pacific Palisades region with terrifying speed. The inferno ultimately claimed twelve lives and destroyed approximately 23,448 acres of land.",
+          "In addition to the tragic loss of human life, nearly 7,000 structures were obliterated. Entire communities were upended, leaving families devastated and displacing thousands of residents across the region."
+        ]
+      },
+      {
+        "h": "ChatGPT Query and Legal Arguments",
+        "p": [
+          "During the investigation, authorities uncovered unusual digital evidence from the night the fire was set. Records indicated that while attempting to reach emergency services via his iPhone, the defendant typed a query into ChatGPT asking if a person is at fault if a fire is lit because of a cigarette. The artificial intelligence tool responded affirmatively.",
+          "Defense attorney Steve Haney represented Rinderknecht through both trials and expressed disappointment with the jury's final decision. Haney noted that the defense plans to appeal the verdict while acknowledging that the jury deliberated thoroughly."
+        ]
+      },
+      {
+        "h": "Reactions from Federal Officials",
+        "p": [
+          "Top federal law enforcement and justice officials issued strong statements following the verdict, emphasizing the gravity of the crimes and the justice delivered to victims' families. Attorney General Todd Blanche highlighted that malicious conduct cost twelve people their lives and thousands their homes.",
+          "First Assistant United States Attorney Bill Essayli echoed those sentiments, noting that the verdict brings a measure of justice to families who lost loved ones and to those whose lives were permanently altered by the disaster."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "A federal jury convicted 30-year-old Jonathan Rinderknecht of arson and property destruction for starting the initial Lachman fire that later reignited into the devastating January 2025 Palisades Fire. The disaster killed 12 people, destroyed nearly 7,000 structures, and scorched 23,448 acres across the Pacific Palisades region. Despite plans from the defense to appeal the verdict, federal prosecutors successfully held the defendant accountable for the tragedy."
+        ]
+      }
+    ],
+    "facts": [
+      "Jonathan Rinderknecht is 30 years old.",
+      "The initial Lachman fire started just after midnight on January 1, 2025.",
+      "The Palisades Fire reignited on January 7, 2025.",
+      "The wildfire killed 12 people.",
+      "The blaze decimated 23,448 acres of land and nearly 7,000 structures."
+    ],
+    "entities": {
+      "people": [
+        "Jonathan Rinderknecht",
+        "Todd Blanche",
+        "Bill Essayli",
+        "Steve Haney"
+      ],
+      "titles": [
+        "Un Zder, Un Thé"
+      ]
+    },
+    "keywords": [
+      "Jonathan Rinderknecht",
+      "Palisades Fire",
+      "Lachman fire",
+      "Todd Blanche",
+      "Steve Haney"
+    ],
+    "images": [
+      {
+        "url": "https://www.rollingstone.com/wp-content/uploads/2026/11/palisades-fire-man-found-guilty.jpg?w=1600&#038;h=900&#038;crop=1",
+        "caption": "Former Los Angeles Resident Convicted for Igniting the Historic Palisades Fire",
+        "source": "Rolling Stone"
+      }
+    ],
+    "published": "2026-11-22T10:13:00Z"
+  },
+  "srad4f": {
+    "id": "srad4f",
+    "type": "news",
+    "headline": "Ramya Explains Why CM Vijay Won 2026 Tamil Nadu Polls: He Resonates With People",
+    "dek": "Ramya, also known as Divya Spandana, opened up exclusively at the Times Now Summit Karnataka about Tamil Nadu Chief Minister C. Joseph Vijay's massive electoral victory and her own political journey.",
+    "body": [
+      {
+        "h": "Exclusive Summit Insights",
+        "p": [
+          "Ramya, widely known by her screen name Divya Spandana, made a notable appearance at the Times Now Summit Karnataka held in Bengaluru on November 21, 2026. During this exclusive gathering, she engaged in a candid conversation with Times Now’s Managing Editor, Zakka Jacob.",
+          "The discussion provided unique perspectives on contemporary politics, shedding light on the intersection of cinema stardom and public service in South India."
+        ]
+      },
+      {
+        "h": "Praising Chief Minister C. Joseph Vijay",
+        "p": [
+          "A major focal point of the conversation was the remarkable political rise of Tamil Nadu Chief Minister C. Joseph Vijay. Ramya showered praise on Vijay for securing a commanding victory in the assembly elections on his very first attempt.",
+          "Vijay famously stepped away from acting after dedicating 34 years to the film industry, transitioning fully into his political career before achieving this historic milestone."
+        ]
+      },
+      {
+        "h": "The Connection With Voters",
+        "p": [
+          "When questioned about the massive margin of Vijay's win, Ramya explained that his triumph stems from a deep personal connection with the public. She noted that his resonance with the citizens of Tamil Nadu was heavily built upon the relatable characters he portrayed on the silver screen throughout his cinematic tenure.",
+          "Drawing comparisons within the region, she observed that while several actors in Karnataka have previously ventured into politics without securing wins, she herself remains an exception to that trend."
+        ]
+      },
+      {
+        "h": "Candid Take on Celebrity Politicians",
+        "p": [
+          "Elaborating further on the phenomenon of actors entering public office, Ramya emphasized that success is heavily dependent on the individual candidate rather than any specific political party structure.",
+          "She reflected on her own career, acknowledging that her background in films granted her an easily accessible platform when she stepped into the political arena."
+        ]
+      },
+      {
+        "h": "Personal Trials in 2013",
+        "p": [
+          "Shifting focus to her own past, Ramya shared a deeply emotional recollection from her 2013 election campaign. She revealed that her father, RT Narayan, passed away on the exact same day she submitted her official nomination forms.",
+          "Despite the profound personal tragedy, external pressures arose immediately when a politician visited her that very evening to advise withdrawing her candidacy."
+        ]
+      },
+      {
+        "h": "Entering Parliament Amid Grief",
+        "p": [
+          "Refusing to back down despite the advice, Ramya faced procedural constraints as well. Senior figures like Digvijay Singh informed her that the deadline had passed, making it impossible to withdraw her papers and mandating that she stay in the race.",
+          "She contested the polls, emerged victorious, and found herself seated in the parliament just ten days later, navigating her new role without even getting the chance to properly grieve her father's passing."
+        ]
+      },
+      {
+        "h": "Cinematic Background and Return",
+        "p": [
+          "Beyond her political reflections, Ramya has maintained ties to the entertainment world through various ventures. She made an acting comeback in the Kannada film Raktha Kashmira, starring opposite Upendra.",
+          "Additionally, she expanded her footprint in the industry by producing the film Swathi Mutthina Male Haniye in 2023."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "During her exclusive interaction at the Times Now Summit Karnataka on November 21, 2026, Ramya discussed Tamil Nadu Chief Minister C. Joseph Vijay's massive electoral success and her own political entry in 2013. She highlighted that Vijay's connection with the public stems from his cinematic career, while also recounting how she won her own parliamentary seat shortly after her father RT Narayan's passing."
+        ]
+      }
+    ],
+    "facts": [
+      "Ramya spoke at the Times Now Summit Karnataka in Bengaluru on November 21, 2026.",
+      "Zakka Jacob is the Managing Editor of Times Now.",
+      "C. Joseph Vijay won the 2026 Tamil Nadu assembly elections on his first attempt after acting for 34 years.",
+      "Ramya's father, RT Narayan, died on the day she submitted her nomination form in 2013.",
+      "Ramya acted in the Kannada film Raktha Kashmira opposite Upendra and produced Swathi Mutthina Male Haniye in 2023."
+    ],
+    "entities": {
+      "people": [
+        "Ramya",
+        "Divya Spandana",
+        "Zakka Jacob",
+        "C. Joseph Vijay",
+        "Thalapathy Vijay",
+        "RT Narayan",
+        "Digvijay Singh",
+        "Upendra",
+        "Sumit Rajguru"
+      ],
+      "titles": [
+        "Raktha Kashmira",
+        "Swathi Mutthina Male Haniye"
+      ]
+    },
+    "keywords": [
+      "Ramya C. Joseph Vijay",
+      "Divya Spandana Times Now Summit",
+      "CM Vijay 2026 Tamil Nadu polls",
+      "Ramya interview Zakka Jacob",
+      "RT Narayan 2013 elections"
+    ],
+    "images": [
+      {
+        "url": "https://images.timesnownews.com/thumb/msid-156547367,thumbsize-535093,width-1280,height-720,resizemode-75/156547367.jpg",
+        "caption": "Ramya Explains Why CM Vijay Won 2026 Tamil Nadu Polls: He Resonates With People",
+        "source": "Times Now — Entertainment"
+      }
+    ],
+    "published": "2026-11-22T10:13:00Z"
+  },
+  "ll738d": {
+    "id": "ll738d",
+    "type": "news",
+    "headline": "Congress MP Imran Masood Alleges Mohammad Siraj Ousted From Team Over Religion",
+    "dek": "A political storm has erupted after Congress parliamentarian Imran Masood claimed that cricketer Mohammad Siraj was left out of the Indian playing XI because of his religious background.",
+    "body": [
+      {
+        "h": "The Controversial Remark",
+        "p": [
+          "Congress MP Imran Masood has stirred up a major controversy by publicly asserting that fast bowler Mohammad Siraj was omitted from the Indian cricket team playing XI due to his faith.",
+          "The parliamentarian's assertions have immediately triggered fierce pushback from numerous circles, with detractors accusing him of injecting communal narratives into athletic selections for political leverage."
+        ]
+      },
+      {
+        "h": "Challenging Merit-Based Selection",
+        "p": [
+          "The inflammatory claim suggests that the removal of a key Muslim cricketer was driven by religious bias rather than standard athletic assessments of form and physical fitness.",
+          "Commentators and analysts have countered that such accusations fundamentally disrespect the rigorous, merit-based selection protocols that sustain professional cricket in India."
+        ]
+      },
+      {
+        "h": "Voices From Cricket Experts",
+        "p": [
+          "While prominent cricketing voices and expert analysts like Sunil Gavaskar and Ravi Shastri have previously raised questions regarding the exclusion of Siraj from the squad, none have supported any theory of religious prejudice.",
+          "Observers emphasize that turning a routine roster decision into an ideological debate misrepresents standard athletic management."
+        ]
+      },
+      {
+        "h": "Political Backlash and Division",
+        "p": [
+          "Political adversaries and public commentators have strongly condemned Masood's viewpoint, describing the rhetoric as deeply divisive and hazardous.",
+          "Critics warn that framing professional sports choices as communal conflicts threatens the foundational spirit of teamwork and national unity."
+        ]
+      },
+      {
+        "h": "Demands for Party Distance",
+        "p": [
+          "Calls have emerged urging the broader Congress leadership to officially dissociate themselves from the MP's remarks to prevent lasting damage to their public standing.",
+          "The incident underscores ongoing concerns regarding identity politics infiltrating arenas that traditionally transcend societal divisions."
+        ]
+      },
+      {
+        "h": "Broader Societal Implications",
+        "p": [
+          "This latest episode casts a spotlight on the recurring trend of leveraging religious identity for political mobilization within the country.",
+          "Many analysts argue that such practices pose a continuous challenge to the secular ethos upheld across public institutions."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Congress MP Imran Masood has sparked widespread criticism by claiming Mohammad Siraj was dropped from the cricket team due to religion. Political opponents and experts condemned the remarks as a divisive attempt to politicize routine sports selections."
+        ]
+      }
+    ],
+    "facts": [
+      "Imran Masood is a Congress MP.",
+      "Mohammad Siraj is a cricketer.",
+      "Sunil Gavaskar and Ravi Shastri are former cricketers and commentators.",
+      "The update date for the source report is Nov 21, 2026, 22:23 IST."
+    ],
+    "entities": {
+      "people": [
+        "Imran Masood",
+        "Mohammad Siraj",
+        "Sunil Gavaskar",
+        "Ravi Shastri"
+      ],
+      "titles": []
+    },
+    "keywords": [
+      "Imran Masood Mohammad Siraj",
+      "Mohammad Siraj team exclusion",
+      "Congress MP Imran Masood",
+      "Mohammad Siraj religion controversy"
+    ],
+    "images": [
+      {
+        "url": "https://images.timesnownews.com/thumb/msid-156547608,thumbsize-147252,width-1280,height-720,resizemode-75/156547608.jpg",
+        "caption": "Congress MP Imran Masood Alleges Mohammad Siraj Ousted From Team Over Religion",
+        "source": "Times Now — Entertainment"
+      }
+    ],
+    "published": "2026-11-22T10:13:00Z"
+  },
+  "1kmy25p": {
+    "id": "1kmy25p",
+    "type": "news",
+    "headline": "Leslie Jones Reflects on Her Unconventional Comedy Journey, SNL Stint, and Life Advice",
+    "dek": "The veteran comedian opens up about joining Saturday Night Live at 47, nearly blowing off her audition, and her extensive career in television and film.",
+    "body": [
+      {
+        "h": "The Long and Winding Road to Comedy",
+        "p": [
+          "Comedian Leslie Jones is widely recognized as one of the entertainment industry's most prominent late-bloomers. Before achieving mainstream recognition, she spent two decades working hard in the stand-up circuit, dealing with difficult sets, late-night performances, and various side jobs.",
+          "Reflecting on her unconventional path, Jones expresses zero regrets about how long it took her to make it. She maintains that finding success any earlier would have turned her into a cautionary tale, as she believes she would have made severe mistakes during her youth."
+        ]
+      },
+      {
+        "h": "A Memorable Start on Saturday Night Live",
+        "p": [
+          "In 2014, Jones joined Saturday Night Live initially as a writer before stepping up as a featured cast member. At 47 years old, she became the oldest person ever to join the iconic sketch comedy program.",
+          "Her path to the show almost did not happen due to a dramatic reaction to her initial audition offer. After fellow comic Chris Rock connected her with Lorne Michaels, Jones was initially furious and dismissive because her brother had recently passed away, requiring strict intervention from her manager to get her to the venue."
+        ]
+      },
+      {
+        "h": "Memorable Mentorship and Early Jobs",
+        "p": [
+          "Long before her time on late-night television, a young Jones received pivotal career advice from Jamie Foxx after bombing a set at the World Comedy Club in Times Square. Foxx advised the nineteen-year-old to go out and experience life, get her heart broken, and work regular jobs to build material.",
+          "Taking that guidance to heart, she worked a series of jobs ranging from Denny's and a post office to a local justice of the peace and waiting tables at Spoons Grill Bar in Orange County, where she believes she once served future SNL castmate Mikey Day."
+        ]
+      },
+      {
+        "h": "Expanding Horizons in Film and Television",
+        "p": [
+          "During her five-season tenure on Saturday Night Live, Jones made a distinct impact with daring segments on Weekend Update and various memorable sketches. She eventually realized it was time to step away to avoid letting the show become her permanent career ceiling.",
+          "Following her departure, she expanded her portfolio into major Hollywood film and television projects, including roles in Ghostbusters and Coming 2 America. She also served as a special Olympics commentator for NBC and released her New York Times-bestselling memoir, Leslie Fcking Jones."
+        ]
+      },
+      {
+        "h": "Hosting Roast My Rental and Handling Hecklers",
+        "p": [
+          "Jones continues to display her trademark humor across diverse mediums, including hosting the HGTV short-term rental renovation series Roast My Rental. Her television work is matched by personal experiences with terrible vacation stays, such as finding an active beehive hidden inside a rental wall.",
+          "When it comes to dealing with disruptive audience members during live stand-up performances, Jones maintains a sharp approach. She handles nice hecklers with playful banter, but applies a much harsher treatment to rude or aggressive audience interruptions."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Leslie Jones reflects on her decades-long comedy career, detailing her historic casting on Saturday Night Live at age 47 and her initial reluctance to attend the audition. She shares insights on receiving career advice from Jamie Foxx, working various odd jobs before fame, and expanding her portfolio into books, television hosting, and major film roles."
+        ]
+      }
+    ],
+    "facts": [
+      "Leslie Jones joined Saturday Night Live in 2014 at 47 years old.",
+      "She spent five seasons as a cast member on Saturday Night Live.",
+      "Jamie Foxx gave her career advice in November 1987 at the World Comedy Club in Times Square.",
+      "Her memoir is titled Leslie Fcking Jones.",
+      "She served as Chief Super Fan Commentator for NBC's 2024 Paris Olympics broadcasts."
+    ],
+    "entities": {
+      "people": [
+        "Leslie Jones",
+        "Colin Jost",
+        "Chris Rock",
+        "Lorne Michaels",
+        "Jamie Foxx",
+        "Mikey Day",
+        "Stevie Wonder",
+        "Donny Hathaway",
+        "Whoopi Goldberg",
+        "Arsenio Hall",
+        "Damon Wayans",
+        "Bill Bellamy",
+        "Greg Fitzsimmons"
+      ],
+      "titles": [
+        "Saturday Night Live",
+        "Ghostbusters",
+        "Coming 2 America",
+        "Leslie Fcking Jones",
+        "Roast My Rental",
+        "Talking Book"
+      ]
+    },
+    "keywords": [
+      "Leslie Jones",
+      "Leslie Jones SNL",
+      "Roast My Rental",
+      "Leslie Fcking Jones"
+    ],
+    "images": [
+      {
+        "url": "https://www.rollingstone.com/wp-content/uploads/2026/11/RollingStone_2026_LeslieJones_FINAL.jpg?crop=0px%2C346px%2C1246px%2C703px&#038;resize=1600%2C900",
+        "caption": "Leslie Jones Reflects on Her Unconventional Comedy Journey, SNL Stint, and Life Advice",
+        "source": "Rolling Stone"
+      }
+    ],
+    "published": "2026-11-22T10:13:00Z"
   }
 };

@@ -4,45 +4,6 @@
    {
     "step": "fetch",
     "category": "Trending News",
-    "run_at": "2026-11-21T11:51:58Z",
-    "run_id": "44901004308",
-    "status": "success",
-    "checked": {
-     "candidates": 336,
-     "detail": "RSS/Atom items across 137 sources; 2 source(s) errored"
-    },
-    "changed": {
-     "added": [
-      "Salman Khan responds to Maatrubhumi trailer criticism; tells audience not to judge the film by its five-minute trailer",
-      "Dil Ki Bewafaiyaan: Gaurav Khanna-Tanya Mittal's Ekta Kapoor Connection- Farah Khan Shares Bigg Boss 19 Twist",
-      "OM Box Office Collection Day 2 Prediction: Will Dhanush’s Film Touch 50Cr In India & Worldwide On 1st Saturday",
-      "Dil Ki Bewafaiyaan Launch EXCLUSIVE: Why Gaurav Khanna Left Corporate Job With 'Fat Package' For Acting?",
-      "The Law Of Beasts: 3 Reasons To Watch This Polish Legal Thriller On Netflix",
-      "OM: Operation Mole Box Office: Dhanush Scores Career-Best Domestic Opening, Surpasses Tere Ishk Mein",
-      "Diljit's Ahmedabad concert faces objection over four songs: 'If he performs these songs...'",
-      "'Yeh Prem Mol Liya' OTT platform: When and where to watch online after its theatrical run",
-      "Kajal Aggarwal recalls narrow escape from 'Indian 2' crane accident",
-      "Manoj Bajpayee slams Hindi film industry's lack of unity: 'Nobody raises a voice'",
-      "Arbaaz and Sshura revisit restaurant where it all began: 'From a first date to my forever date'",
-      "Premgi Amaren celebrates daughter’s first birthday",
-      "Macaulay Culkin in Home Alone to Brendan Fraser in The Mummy, Hollywood stars who returned to their iconic roles",
-      "2026 MAMA Awards full winners list: BTS make history with eighth Artist of the Year win; K-pop group Enhypen shed tears amid grand prize win",
-      "Amala Akkineni recalls working 9-to-9 with no breaks for 8 years when audiences stopped coming to theatres due to cable TV",
-      "Keerthy Suresh gushes about supportive husband Antony Thattil; says it would hurt when she was linked to actors",
-      "Madhur Bhandarkar says Dhurandhar was the right choice for Indian Panorama opening film at IFFI",
-      "MAMA Awards 2026 Winners: BTS, Cortis take top honour; Bigbang, Hwasa win big",
-      "Ravi Kishan makes Koffee With Karan debut, joins Akshay Kumar on the couch. Watch promo",
-      "Macaulay Culkin to return as Kevin McCallister in Home Alone sequel"
-     ],
-     "updated": [],
-     "count": 315,
-     "detail": "317 stories, 1 duplicates removed, 19 dropped"
-    },
-    "reason": null
-   },
-   {
-    "step": "fetch",
-    "category": "Trending News",
     "run_at": "2026-11-21T12:51:31Z",
     "run_id": "44905887160",
     "status": "success",
@@ -936,32 +897,48 @@
      "detail": "212 stories, 0 duplicates removed, 6 dropped"
     },
     "reason": null
-   }
-  ],
-  "apply_auto": [
+   },
    {
-    "step": "apply_auto",
+    "step": "fetch",
     "category": "Trending News",
-    "run_at": "2026-11-21T11:53:07Z",
-    "run_id": "44901004308",
+    "run_at": "2026-11-22T10:12:19Z",
+    "run_id": "45011227364",
     "status": "success",
     "checked": {
-     "candidates": 14,
-     "detail": "draft articles + box-office rows from out/gemini-batch.json"
+     "candidates": 209,
+     "detail": "RSS/Atom items across 137 sources; 0 source(s) errored"
     },
     "changed": {
      "added": [
-      "Ravi Kishan Makes His Koffee With Karan Debut Alongside Akshay Kumar in Season 9",
-      "Hwa Sa Shares Candid Thoughts on MAMA Performance Following Her Second Win",
-      "Salman Khan Addresses Criticism Surrounding the Extended Trailer of His Next Project",
-      "2026 MAMA Awards Faces Intense Backlash After HYBE Artists Sweep All Daesangs"
+      "Kaziah Liz Mejo's Miss Universe 2026 National Costume Explained: Kerala Heritage, Indian Textiles & Designer",
+      "I Play Rocky North America Box Office: From 29 To 2,477 Theaters, Sylvester Stallone Biopic Makes A Strong Nationwide Push!",
+      "ENE Repeat Worldwide Box Office: Registers Vishwak Sen’s Highest-Grossing Film Ever In Just 3 Days!",
+      "Dhanush's absence at Anirudh-Kavya's wedding reception sparks rift rumours",
+      "'Ramayana' box office Day 18 [LIVE]: Ranbir starrer is set to cross Rs 935 crore net in India",
+      "Sachin says Ranveer Singh could make good cricketer",
+      "‘Mysaa’ postponed: Makers explain reason behind Rashmika Mandanna’s film delay",
+      "Drishyam The Conclusion OTT release: Ajay Devgn’s film to premiere on Netflix on November 27 after  ₹589 crore box office success worldwide",
+      "Global Peace Honours: Shah Rukh Khan, Ranveer Singh, Akshay Kumar, Amruta Fadnavis celebrate peace and patriotism",
+      "O.M Box Office Day 2: Dhanush, Sai Pallavi Starrer Sees Dip, Crosses Rs 33 Cr",
+      "Matt Damon’s $630M Sci-Fi Masterpiece Officially Reaches a Major Streaming Milestone",
+      "Guy Ritchie’s ‘The Gentlemen’ Season 3 Officially Lands Its First Major Update",
+      "Guy Ritchie's 129-Minute Mystery Thriller Officially Returns to HBO Max",
+      "SXSW Forges Partnership With Egypt’s UTH Festival Dedicated to Youth Culture",
+      "Neon-Backed Biopic ‘Caesar,’ About Syrian Officer Who Blew the Whistle on Assad Regime Torture, to Be Directed by Ameer Fakher Eldin",
+      "POLL: What are you watching Tonight? - 22nd November 2026",
+      "Hadi Itna Gussa!! Tum tou aise nahi they 😔 | Rutba | ARY Digital Drama",
+      "Mera Ghar #shorts #arydigital",
+      "Mere baap ne mujhe sone se laad diya tha 😍 | Dar e Nijaat | ARY Digital Drama",
+      "Hadi se Mulaqatein tou hoti rahengi 😱 | Rutba | ARY Digital Drama"
      ],
      "updated": [],
-     "count": 7,
-     "detail": "+4 articles, +0 box-office rows, 3 rows updated"
+     "count": 203,
+     "detail": "209 stories, 0 duplicates removed, 0 dropped"
     },
     "reason": null
-   },
+   }
+  ],
+  "apply_auto": [
    {
     "step": "apply_auto",
     "category": "Trending News",
@@ -1485,27 +1462,32 @@
      "detail": "+4 articles, +0 box-office rows, 3 rows updated"
     },
     "reason": null
+   },
+   {
+    "step": "apply_auto",
+    "category": "Trending News",
+    "run_at": "2026-11-22T10:13:01Z",
+    "run_id": "45011227364",
+    "status": "success",
+    "checked": {
+     "candidates": 14,
+     "detail": "draft articles + box-office rows from out/gemini-batch.json"
+    },
+    "changed": {
+     "added": [
+      "Former Los Angeles Resident Convicted for Igniting the Historic Palisades Fire",
+      "Ramya Explains Why CM Vijay Won 2026 Tamil Nadu Polls: He Resonates With People",
+      "Congress MP Imran Masood Alleges Mohammad Siraj Ousted From Team Over Religion",
+      "Leslie Jones Reflects on Her Unconventional Comedy Journey, SNL Stint, and Life Advice"
+     ],
+     "updated": [],
+     "count": 7,
+     "detail": "+4 articles, +0 box-office rows, 3 rows updated"
+    },
+    "reason": null
    }
   ],
   "ott": [
-   {
-    "step": "ott",
-    "category": "OTT",
-    "run_at": "2026-11-21T11:53:07Z",
-    "run_id": "44901004308",
-    "status": "success",
-    "checked": {
-     "candidates": 403,
-     "detail": "OTT now/coming titles from the published catalogue"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 0,
-     "detail": "now 396, coming 7"
-    },
-    "reason": "no-new-data"
-   },
    {
     "step": "ott",
     "category": "OTT",
@@ -1919,34 +1901,27 @@
      "detail": "now 405, coming 7"
     },
     "reason": "no-new-data"
+   },
+   {
+    "step": "ott",
+    "category": "OTT",
+    "run_at": "2026-11-22T10:13:01Z",
+    "run_id": "45011227364",
+    "status": "success",
+    "checked": {
+     "candidates": 412,
+     "detail": "OTT now/coming titles from the published catalogue"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 0,
+     "detail": "now 405, coming 7"
+    },
+    "reason": "no-new-data"
    }
   ],
   "trending_weekly": [
-   {
-    "step": "trending_weekly",
-    "category": "Trending Topics",
-    "run_at": "2026-11-21T12:03:18Z",
-    "run_id": "44901004308",
-    "status": "success",
-    "checked": {
-     "candidates": 100,
-     "detail": "cached Google RSS trend/article intersection"
-    },
-    "changed": {
-     "added": [
-      "14xzms9",
-      "ucookv",
-      "106hlp",
-      "6h5y98",
-      "18ajq47",
-      "1x07923",
-      "3sr93c"
-     ],
-     "updated": [],
-     "count": 7
-    },
-    "reason": null
-   },
    {
     "step": "trending_weekly",
     "category": "Trending Topics",
@@ -2396,27 +2371,26 @@
      "count": 3
     },
     "reason": null
-   }
-  ],
-  "multisource_boxoffice": [
+   },
    {
-    "step": "multisource_boxoffice",
-    "category": "Box Office",
-    "run_at": "2026-11-21T12:03:16Z",
-    "run_id": "44901004308",
+    "step": "trending_weekly",
+    "category": "Trending Topics",
+    "run_at": "2026-11-22T10:13:04Z",
+    "run_id": "45011227364",
     "status": "success",
     "checked": {
-     "candidates": 733,
-     "detail": "677 collected staging rows from readers; 250 averaged across 2+ sources"
+     "candidates": 100,
+     "detail": "cached Google RSS trend/article intersection"
     },
     "changed": {
      "added": [],
      "updated": [],
-     "count": 3,
-     "detail": "+0 new rows, 3 updated rows, 704 unchanged"
+     "count": 0
     },
-    "reason": null
-   },
+    "reason": "no-new-data"
+   }
+  ],
+  "multisource_boxoffice": [
    {
     "step": "multisource_boxoffice",
     "category": "Box Office",
@@ -2830,19 +2804,27 @@
      "detail": "+0 new rows, 3 updated rows, 710 unchanged"
     },
     "reason": null
+   },
+   {
+    "step": "multisource_boxoffice",
+    "category": "Box Office",
+    "run_at": "2026-11-22T10:13:02Z",
+    "run_id": "45011227364",
+    "status": "success",
+    "checked": {
+     "candidates": 739,
+     "detail": "681 collected staging rows from readers; 252 averaged across 2+ sources"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 3,
+     "detail": "+0 new rows, 3 updated rows, 710 unchanged"
+    },
+    "reason": null
    }
   ],
   "gemini_reviews": [
-   {
-    "step": "gemini_reviews",
-    "category": "Reviews",
-    "run_at": "2026-11-21T12:03:27Z",
-    "run_id": "44901004308",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "gemini_reviews",
     "category": "Reviews",
@@ -3079,32 +3061,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "gemini_reviews",
+    "category": "Reviews",
+    "run_at": "2026-11-22T10:13:13Z",
+    "run_id": "45011227364",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "convert_news": [
-   {
-    "step": "convert_news",
-    "category": "Trending News",
-    "run_at": "2026-11-21T12:03:17Z",
-    "run_id": "44901004308",
-    "status": "success",
-    "checked": {
-     "candidates": 600,
-     "detail": "feed entries from out/queue.json"
-    },
-    "changed": {
-     "added": [
-      "Ravi Kishan Makes His Koffee With Karan Debut Alongside Akshay Kumar in Season 9",
-      "Hwa Sa Shares Candid Thoughts on MAMA Performance Following Her Second Win",
-      "Salman Khan Addresses Criticism Surrounding the Extended Trailer of His Next Project",
-      "2026 MAMA Awards Faces Intense Backlash After HYBE Artists Sweep All Daesangs"
-     ],
-     "updated": [],
-     "count": 4,
-     "detail": "api-news.json 600 items, api-trends.json 12 items"
-    },
-    "reason": null
-   },
    {
     "step": "convert_news",
     "category": "Trending News",
@@ -3630,19 +3599,32 @@
      "detail": "api-news.json 600 items, api-trends.json 12 items"
     },
     "reason": null
+   },
+   {
+    "step": "convert_news",
+    "category": "Trending News",
+    "run_at": "2026-11-22T10:13:03Z",
+    "run_id": "45011227364",
+    "status": "success",
+    "checked": {
+     "candidates": 600,
+     "detail": "feed entries from out/queue.json"
+    },
+    "changed": {
+     "added": [
+      "Former Los Angeles Resident Convicted for Igniting the Historic Palisades Fire",
+      "Ramya Explains Why CM Vijay Won 2026 Tamil Nadu Polls: He Resonates With People",
+      "Congress MP Imran Masood Alleges Mohammad Siraj Ousted From Team Over Religion",
+      "Leslie Jones Reflects on Her Unconventional Comedy Journey, SNL Stint, and Life Advice"
+     ],
+     "updated": [],
+     "count": 4,
+     "detail": "api-news.json 600 items, api-trends.json 12 items"
+    },
+    "reason": null
    }
   ],
   "episode_guides": [
-   {
-    "step": "episode_guides",
-    "category": "Drama Episodes",
-    "run_at": "2026-11-21T12:03:27Z",
-    "run_id": "44901004308",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "episode_guides",
     "category": "Drama Episodes",
@@ -3933,19 +3915,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "title_seed": [
+   },
    {
-    "step": "title_seed",
-    "category": "Spotlight / Coming Soon / Most Awaited",
-    "run_at": "2026-11-21T12:03:27Z",
-    "run_id": "44901004308",
+    "step": "episode_guides",
+    "category": "Drama Episodes",
+    "run_at": "2026-11-22T10:13:13Z",
+    "run_id": "45011227364",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "title_seed": [
    {
     "step": "title_seed",
     "category": "Spotlight / Coming Soon / Most Awaited",
@@ -4267,31 +4249,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "title_seed",
+    "category": "Spotlight / Coming Soon / Most Awaited",
+    "run_at": "2026-11-22T10:13:13Z",
+    "run_id": "45011227364",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "gemini_batch": [
-   {
-    "step": "gemini_batch",
-    "category": "Trending News",
-    "run_at": "2026-11-21T11:53:07Z",
-    "run_id": "44901004308",
-    "status": "success",
-    "checked": {
-     "candidates": 4,
-     "detail": "news queue items drafted this run; 315 still unprocessed; today by category: movies 6/6, tv_dramas 5/4, episodes 0/2, box_office 9/6, celebrities_events 9/5, upcoming_releases 5/4, ott_streaming 4/4, trailers 0/3, awards 5/2, music_ost 1/2, viral 4/2"
-    },
-    "changed": {
-     "added": [
-      "Ravi Kishan Makes His Koffee With Karan Debut Alongside Akshay Kumar in Season 9",
-      "Hwa Sa Shares Candid Thoughts on MAMA Performance Following Her Second Win",
-      "Salman Khan Addresses Criticism Surrounding the Extended Trailer of His Next Project",
-      "2026 MAMA Awards Faces Intense Backlash After HYBE Artists Sweep All Daesangs"
-     ],
-     "updated": [],
-     "count": 4
-    },
-    "reason": null
-   },
    {
     "step": "gemini_batch",
     "category": "Trending News",
@@ -4792,26 +4762,31 @@
      "count": 4
     },
     "reason": null
+   },
+   {
+    "step": "gemini_batch",
+    "category": "Trending News",
+    "run_at": "2026-11-22T10:13:00Z",
+    "run_id": "45011227364",
+    "status": "success",
+    "checked": {
+     "candidates": 6,
+     "detail": "news queue items drafted this run; 203 still unprocessed; today by category: movies 6/6, tv_dramas 6/4, episodes 0/2, box_office 7/6, celebrities_events 14/5, upcoming_releases 2/4, ott_streaming 5/4, trailers 1/3, awards 0/2, music_ost 2/2, viral 1/2"
+    },
+    "changed": {
+     "added": [
+      "Former Los Angeles Resident Convicted for Igniting the Historic Palisades Fire",
+      "Ramya Explains Why CM Vijay Won 2026 Tamil Nadu Polls: He Resonates With People",
+      "Congress MP Imran Masood Alleges Mohammad Siraj Ousted From Team Over Religion",
+      "Leslie Jones Reflects on Her Unconventional Comedy Journey, SNL Stint, and Life Advice"
+     ],
+     "updated": [],
+     "count": 4
+    },
+    "reason": null
    }
   ],
   "overseas_ai": [
-   {
-    "step": "overseas_ai",
-    "category": "Box Office",
-    "run_at": "2026-11-21T11:54:26Z",
-    "run_id": "44901004308",
-    "status": "success",
-    "checked": {
-     "candidates": 56,
-     "detail": "published movies with missing overseas day figures; Tavily searches: 48"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 0
-    },
-    "reason": "no-new-data"
-   },
    {
     "step": "overseas_ai",
     "category": "Box Office",
@@ -5118,24 +5093,19 @@
      "count": 0
     },
     "reason": "no-new-data"
+   },
+   {
+    "step": "overseas_ai",
+    "category": "Box Office",
+    "run_at": "2026-11-22T10:13:13Z",
+    "run_id": "45011227364",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "publish": [
-   {
-    "step": "publish",
-    "category": "Trending News",
-    "run_at": "2026-11-21T12:03:27Z",
-    "run_id": "44901004308",
-    "status": "success",
-    "checked": null,
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 356,
-     "detail": "lines changed in owned files; no per-item summary from script"
-    },
-    "reason": null
-   },
    {
     "step": "publish",
     "category": "Trending News",
@@ -5450,24 +5420,24 @@
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
-   }
-  ],
-  "stats_traffic": [
+   },
    {
-    "step": "stats_traffic",
-    "category": "Stats / Health",
-    "run_at": "2026-11-21T12:03:27Z",
-    "run_id": "44901004308",
+    "step": "publish",
+    "category": "Trending News",
+    "run_at": "2026-11-22T10:13:13Z",
+    "run_id": "45011227364",
     "status": "success",
     "checked": null,
     "changed": {
      "added": [],
      "updated": [],
-     "count": 12,
+     "count": 371,
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
-   },
+   }
+  ],
+  "stats_traffic": [
    {
     "step": "stats_traffic",
     "category": "Stats / Health",
@@ -5777,19 +5747,24 @@
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
+   },
+   {
+    "step": "stats_traffic",
+    "category": "Stats / Health",
+    "run_at": "2026-11-22T10:13:13Z",
+    "run_id": "45011227364",
+    "status": "success",
+    "checked": null,
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 3,
+     "detail": "lines changed in owned files; no per-item summary from script"
+    },
+    "reason": null
    }
   ],
   "stats_pipeline": [
-   {
-    "step": "stats_pipeline",
-    "category": "Stats / Health",
-    "run_at": "2026-11-21T12:03:27Z",
-    "run_id": "44901004308",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "stats_pipeline",
     "category": "Stats / Health",
@@ -6039,19 +6014,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "stats_health": [
+   },
    {
-    "step": "stats_health",
+    "step": "stats_pipeline",
     "category": "Stats / Health",
-    "run_at": "2026-11-21T12:03:27Z",
-    "run_id": "44901004308",
+    "run_at": "2026-11-22T10:13:13Z",
+    "run_id": "45011227364",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "stats_health": [
    {
     "step": "stats_health",
     "category": "Stats / Health",
@@ -6286,19 +6261,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "metadata_refresh": [
+   },
    {
-    "step": "metadata_refresh",
-    "category": "Spotlight / Coming Soon / Most Awaited",
-    "run_at": "2026-11-21T12:03:27Z",
-    "run_id": "44901004308",
+    "step": "stats_health",
+    "category": "Stats / Health",
+    "run_at": "2026-11-22T10:13:13Z",
+    "run_id": "45011227364",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "metadata_refresh": [
    {
     "step": "metadata_refresh",
     "category": "Spotlight / Coming Soon / Most Awaited",
@@ -6584,19 +6559,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "providers_backfill": [
+   },
    {
-    "step": "providers_backfill",
-    "category": "OTT",
-    "run_at": "2026-11-21T12:03:27Z",
-    "run_id": "44901004308",
+    "step": "metadata_refresh",
+    "category": "Spotlight / Coming Soon / Most Awaited",
+    "run_at": "2026-11-22T10:13:13Z",
+    "run_id": "45011227364",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "providers_backfill": [
    {
     "step": "providers_backfill",
     "category": "OTT",
@@ -6837,19 +6812,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "providers_backfill",
+    "category": "OTT",
+    "run_at": "2026-11-22T10:13:13Z",
+    "run_id": "45011227364",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "tavily_boxoffice": [
-   {
-    "step": "tavily_boxoffice",
-    "category": "Box Office",
-    "run_at": "2026-11-21T12:03:27Z",
-    "run_id": "44901004308",
-    "status": "success",
-    "checked": null,
-    "changed": null,
-    "reason": "no-new-data"
-   },
    {
     "step": "tavily_boxoffice",
     "category": "Box Office",
@@ -7079,19 +7054,19 @@
     "checked": null,
     "changed": null,
     "reason": "no-new-data"
-   }
-  ],
-  "keywords_refresh": [
+   },
    {
-    "step": "keywords_refresh",
-    "category": "Trending News",
-    "run_at": "2026-11-21T12:03:27Z",
-    "run_id": "44901004308",
+    "step": "tavily_boxoffice",
+    "category": "Box Office",
+    "run_at": "2026-11-22T10:13:13Z",
+    "run_id": "45011227364",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "keywords_refresh": [
    {
     "step": "keywords_refresh",
     "category": "Trending News",
@@ -7340,6 +7315,16 @@
     "category": "Trending News",
     "run_at": "2026-11-22T10:08:56Z",
     "run_id": "45009484956",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
+   },
+   {
+    "step": "keywords_refresh",
+    "category": "Trending News",
+    "run_at": "2026-11-22T10:13:13Z",
+    "run_id": "45011227364",
     "status": "skipped",
     "checked": null,
     "changed": null,
@@ -7876,16 +7861,6 @@
    {
     "step": "advance_booking",
     "category": "Box Office",
-    "run_at": "2026-11-21T12:03:27Z",
-    "run_id": "44901004308",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
-   {
-    "step": "advance_booking",
-    "category": "Box Office",
     "run_at": "2026-11-21T13:00:23Z",
     "run_id": "44905887160",
     "status": "skipped",
@@ -8122,19 +8097,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "home_boxoffice_worldwide": [
+   },
    {
-    "step": "home_boxoffice_worldwide",
+    "step": "advance_booking",
     "category": "Box Office",
-    "run_at": "2026-11-21T12:03:27Z",
-    "run_id": "44901004308",
+    "run_at": "2026-11-22T10:13:13Z",
+    "run_id": "45011227364",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "home_boxoffice_worldwide": [
    {
     "step": "home_boxoffice_worldwide",
     "category": "Box Office",
@@ -8404,8 +8379,18 @@
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
+   },
+   {
+    "step": "home_boxoffice_worldwide",
+    "category": "Box Office",
+    "run_at": "2026-11-22T10:13:13Z",
+    "run_id": "45011227364",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ]
  },
- "updated_at": "2026-11-22T10:08:56Z"
+ "updated_at": "2026-11-22T10:13:13Z"
 }
