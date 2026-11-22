@@ -136628,6 +136628,12 @@ window.FA_ARTICLES = {
         "p": [
           "Dastoor is a heartfelt family drama filled with love, sacrifice, family conflicts, secrets, and emotional twists. Follow the journey of a mother and her daughters as they face difficult choices, broken relationships, and unexpected turns of fate a story of love, pain, forgiveness, and second chances."
         ]
+      },
+      {
+        "h": "Episode Summary",
+        "p": [
+          "Is episode mein Shiza Aalyan ko maaf karne se inkaar kar deti hai aur use apni behen Ammara ki maut ka zimmadar tehrati"
+        ]
       }
     ],
     "facts": [
@@ -136635,7 +136641,8 @@ window.FA_ARTICLES = {
       "Channel: Green TV.",
       "Watch the full episode: https://www.youtube.com/watch?v=J30AgzvwYRU",
       "YouTube views: 78,507.",
-      "TMDB: Dastoor (id 329481)."
+      "TMDB: Dastoor (id 329481).",
+      "Episode summary added 2026-11-22."
     ],
     "entities": {
       "titles": [
@@ -137506,13 +137513,20 @@ window.FA_ARTICLES = {
           "Bano Episode 30 aired on 2026-11-13 on Geo TV. The full episode is available on the channel's official YouTube page.",
           "Watch the full episode here: https://www.youtube.com/watch?v=Dr3XrPHryi8"
         ]
+      },
+      {
+        "h": "Episode Summary",
+        "p": [
+          "Is episode ki shuruaat mein Bano aur Shehryar aik doosre ke sath khushgawar lamhat guzarte hain. Doosri taraf, B"
+        ]
       }
     ],
     "facts": [
       "Bano Episode 30 aired on 2026-11-13.",
       "Channel: Geo TV.",
       "Watch the full episode: https://www.youtube.com/watch?v=Dr3XrPHryi8",
-      "YouTube views: 78,319."
+      "YouTube views: 78,319.",
+      "Episode summary added 2026-11-22."
     ],
     "entities": {
       "titles": [
@@ -137703,6 +137717,12 @@ window.FA_ARTICLES = {
         "p": [
           "Set before 1940s, a Hindustani family that was divided mercilessly before the partition of Pakistan by the unfortunate time incidents."
         ]
+      },
+      {
+        "h": "Episode Summary",
+        "p": [
+          "Is episode mein Jamil ghar ke aangan mein apni ammi aur baqi ghar walon se abba ki siyasat aur Mazhar chacha ke jail jaane par baat karta hai."
+        ]
       }
     ],
     "facts": [
@@ -137710,7 +137730,8 @@ window.FA_ARTICLES = {
       "Channel: HUM TV.",
       "Watch the full episode: https://www.youtube.com/watch?v=3g9CYw-jXwI",
       "YouTube views: 76,936.",
-      "TMDB: Aangan (id 90172)."
+      "TMDB: Aangan (id 90172).",
+      "Episode summary added 2026-11-22."
     ],
     "entities": {
       "titles": [
@@ -192141,6 +192162,12 @@ window.FA_ARTICLES = {
         "p": [
           "Dastoor is a heartfelt family drama filled with love, sacrifice, family conflicts, secrets, and emotional twists. Follow the journey of a mother and her daughters as they face difficult choices, broken relationships, and unexpected turns of fate a story of love, pain, forgiveness, and second chances."
         ]
+      },
+      {
+        "h": "Episode Summary",
+        "p": [
+          "Is episode mein Zebun Nisa (Dado), Shahryar aur Mustafa company ke mali بحران (crisis) aur investors ke paise wapas karne par behas karte hain. Dado zidd par"
+        ]
       }
     ],
     "facts": [
@@ -192148,7 +192175,8 @@ window.FA_ARTICLES = {
       "Channel: Green TV.",
       "Watch the full episode: https://www.youtube.com/watch?v=Kn0ajlAn61g",
       "YouTube views: 78,709.",
-      "TMDB: Dastoor (id 329481)."
+      "TMDB: Dastoor (id 329481).",
+      "Episode summary added 2026-11-22."
     ],
     "entities": {
       "titles": [
@@ -222012,13 +222040,20 @@ window.FA_ARTICLES = {
           "Mohabbat Mukhtasir Episode 9 aired on 2026-11-22 on HUM TV. The full episode is available on the channel's official YouTube page.",
           "Watch the full episode here: https://www.youtube.com/watch?v=e1nFXac_YcE"
         ]
+      },
+      {
+        "h": "Episode Summary",
+        "p": [
+          ")**:\n    - Maaz goes to watch shops, finds Mirha's father's watch in a display case, and buys it back to return to Mirha later."
+        ]
       }
     ],
     "facts": [
       "Mohabbat Mukhtasir Episode 9 aired on 2026-11-22.",
       "Channel: HUM TV.",
       "Watch the full episode: https://www.youtube.com/watch?v=e1nFXac_YcE",
-      "YouTube views: 113,709."
+      "YouTube views: 113,709.",
+      "Episode summary added 2026-11-22."
     ],
     "entities": {
       "titles": [
@@ -222844,5 +222879,428 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Sun, 22 Nov 2026 16:09:46 GMT"
+  },
+  "1rd13f": {
+    "id": "1rd13f",
+    "type": "news",
+    "headline": "Rashmika Mandanna Starrer Mysaa Postponed, New Theatrical Date Awaited",
+    "dek": "UnFormula Films has officially delayed the theatrical release of the period action thriller Mysaa, starring Rashmika Mandanna, which was originally scheduled to premiere on November 27.",
+    "body": [
+      {
+        "h": "The Official Postponement Announcement",
+        "p": [
+          "The theatrical arrival of the highly anticipated period action thriller Mysaa has been officially pushed back by its production banner, UnFormula Films. The movie was originally slated to hit cinema screens on November 27, but the makers confirmed that this launch window will be missed.",
+          "While speculations and earlier reports hinted towards a potential revised premiere date of December 11, the studio has clarified that no final launch date has been locked in yet. Audiences have been assured that a formal announcement regarding the new schedule will be shared shortly."
+        ]
+      },
+      {
+        "h": "Reasons Behind the Delay",
+        "p": [
+          "According to the official statement released by UnFormula Films, the decision to defer the release stems from a commitment to deliver a technically ambitious project. The production team emphasized that Telugu cinema has been continually elevating its technical benchmarks.",
+          "The studio noted that Mysaa was envisioned specifically to contribute to this evolving phase of filmmaking. To ensure that this creative vision reaches audiences on the big screen without any compromises, the collective leadership decided to postpone the November rollout."
+        ]
+      },
+      {
+        "h": "Premise and Character Details",
+        "p": [
+          "Mysaa positions itself as an action spectacle that tells a compelling narrative about a Gond tribal woman. The protagonist rises up against injustice, offering a dramatic tale of resilience and courage.",
+          "For lead star Rashmika Mandanna, this project marks a distinct and powerful departure from her previous outings. Playing the central character in a period action setting allows the actress to explore a much heavier dramatic and physical space."
+        ]
+      },
+      {
+        "h": "Recreating the Iconic Osey Ramulamma Song",
+        "p": [
+          "Adding to the pre-release buzz, the makers recently unveiled a promotional track titled Osey Ramulamma. The song is inspired by a historic and popular number originally associated with veteran star Vijayashanthi.",
+          "During the song launch event held in Hyderabad on Friday, Rashmika Mandanna candidly discussed her initial reaction to the idea. She admitted feeling nervous and scared when director Rawindra Pulle first pitched the recreation of such an iconic piece of cinema history."
+        ]
+      },
+      {
+        "h": "Taking on Historical Legacy with Responsibility",
+        "p": [
+          "Rashmika expressed that while she was thrilled to take on the challenge, she immediately felt a heavy sense of responsibility. Knowing how deeply the original track resonates with audiences made her anxious about doing justice to its legacy.",
+          "Despite her initial hesitations, the team moved forward with the project, hoping the recreated number will connect strongly with viewers once the feature film finally arrives in theaters."
+        ]
+      },
+      {
+        "h": "Technical Crew and Multilingual Scale",
+        "p": [
+          "Behind the camera, Mysaa boasts a strong technical roster. Shreyaas P Krishna is managing the cinematography, framing the grand scale of the period setting.",
+          "Additionally, international action choreographer Kecha has been brought on board to oversee the high-octane stunt sequences. To maximize its reach, the film is slated for a pan-Indian theatrical release in Telugu, Tamil, Kannada, Malayalam, and Hindi."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "UnFormula Films has postponed the November 27 theatrical release of Rashmika Mandanna's period action thriller Mysaa to ensure high technical standards. A new release date will be announced soon by the production house following the recent launch of its promotional song Osey Ramulamma."
+        ]
+      }
+    ],
+    "facts": [
+      "Rashmika Mandanna stars in Mysaa",
+      "UnFormula Films is the production house for Mysaa",
+      "Mysaa missed its original November 27 theatrical release date",
+      "The promotional song Osey Ramulamma was launched at an event in Hyderabad on Friday",
+      "Rawindra Pulle is the director of Mysaa",
+      "Shreyaas P Krishna is handling cinematography for Mysaa",
+      "Kecha is the international action choreographer for Mysaa"
+    ],
+    "entities": {
+      "people": [
+        "Rashmika Mandanna",
+        "Vijayashanthi",
+        "Rawindra Pulle",
+        "Shreyaas P Krishna",
+        "Kecha",
+        "Raisa Nasreen"
+      ],
+      "titles": [
+        "Mysaa",
+        "Osey Ramulamma"
+      ]
+    },
+    "keywords": [
+      "Mysaa film",
+      "Rashmika Mandanna Mysaa",
+      "Mysaa postponed",
+      "UnFormula Films Mysaa",
+      "Osey Ramulamma song"
+    ],
+    "images": [
+      {
+        "url": "https://images.timesnownews.com/thumb/msid-156549463,thumbsize-819155,width-1280,height-720,resizemode-75/156549463.jpg",
+        "caption": "Rashmika Mandanna Starrer Mysaa Postponed, New Theatrical Date Awaited",
+        "source": "Times Now — Entertainment"
+      }
+    ],
+    "published": "2026-11-22T20:11:10Z"
+  },
+  "qyxwxv": {
+    "id": "qyxwxv",
+    "type": "news",
+    "headline": "Netflix Sci-Fi Series 3 Body Problem Confirms Reduced Episode Order for Season 2",
+    "dek": "The creators of the hit science fiction adaptation have announced a shorter run of episodes for the upcoming second season on Netflix.",
+    "body": [
+      {
+        "h": "Season 2 Episode Count Reduction",
+        "p": [
+          "Followers of the platform's high-profile science fiction adaptation face a slight adjustment in length for the upcoming chapters. Netflix has officially confirmed that the second season of the series will consist of six episodes, marking a decrease from the eight installments that comprised the initial run.",
+          "The program adapts the acclaimed literary trilogy by a well-known author, exploring a scenario where humanity has centuries to prepare for an impending extraterrestrial arrival. Viewers waiting for the narrative to resume will find that the forthcoming chapters scale down the episode count while continuing the expansive plot."
+        ]
+      },
+      {
+        "h": "Background and Creative Team",
+        "p": [
+          "The television project was developed by a team of experienced showrunners known for prior large-scale fantasy adaptations. David Benioff, D.B. Weiss, and Alexander Woo brought the property to the streaming service, launching the initial batch of episodes in March 2024.",
+          "The storyline centers on mysterious occurrences involving vanishing scientists and impossible technology, tied to an adversarial alien presence known as the San-Ti that will not reach Earth for hundreds of years. The creators have structured the narrative to conclude across a planned total of three seasons."
+        ]
+      },
+      {
+        "h": "Upcoming Plot Directions",
+        "p": [
+          "As the narrative progresses into its second iteration, the focus shifts heavily toward the preparations being made by humanity both on the ground and in outer space. A fleet is slated to embark on a mission that requires centuries to reach completion.",
+          "Concurrently, a critical secret concealed inside the mind of a single individual represents one of the primary hopes for survival against the looming invasion. The showrunners have teased that the upcoming events will become significantly more unconventional and complex."
+        ]
+      },
+      {
+        "h": "Directing Talent and Collaborations",
+        "p": [
+          "To helm the reduced episode lineup, the showrunners have enlisted notable directors with whom they share a history of prior television collaborations. Jeremy Podeswa, recognized for his work on previous fantasy epics, is set to direct the first three episodes of the season.",
+          "Additionally, Miguel Sapochnik, known for handling major prequel and fantasy drama segments, will take charge of the remaining installments, directing episodes four through six."
+        ]
+      },
+      {
+        "h": "Returning Cast and New Additions",
+        "p": [
+          "A substantial portion of the principal ensemble is scheduled to reprise their roles for the continuation of the story. Confirmed returning performers include Jess Hong portraying Jin Cheng, Benedict Wong as Da Shi, and Eiza González taking on the role of Auggie Salazar.",
+          "Other returning cast members involve Jovan Adepo as Saul Durand, Liam Cunningham as Thomas Wade, and Marlo Kelly as Tatiana Haas. The roster expands further with newly announced actors joining the production for the upcoming phase."
+        ]
+      },
+      {
+        "h": "Expanded Ensemble and Legacy",
+        "p": [
+          "The growing cast list incorporates several fresh faces to help populate the expanding narrative scope. Claudia Doumit and Ellie de Lange are among the new performers announced for the upcoming season.",
+          "The series continues to build on its complex mythology, drawing heavily from the foundational novels to chart humanity's long-term struggle against an unstoppable cosmic threat."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Netflix has officially confirmed that the second season of 3 Body Problem will feature six hour-long episodes, down from the eight episodes of Season 1. The upcoming season will be directed by Jeremy Podeswa and Miguel Sapochnik, featuring returning cast members alongside new additions as humanity prepares for the arrival of the San-Ti."
+        ]
+      }
+    ],
+    "facts": [
+      "Netflix confirmed 3 Body Problem Season 2 will have six episodes",
+      "Season 1 consisted of eight episodes",
+      "The series premiered in March 2024",
+      "David Benioff, D.B. Weiss, and Alexander Woo created the series",
+      "Jeremy Podeswa directs Episodes 1-3",
+      "Miguel Sapochnik directs Episodes 4-6"
+    ],
+    "entities": {
+      "people": [
+        "Chris McPherson",
+        "David Benioff",
+        "D.B. Weiss",
+        "Alexander Woo",
+        "Liu Cixin",
+        "Jeremy Podeswa",
+        "Miguel Sapochnik",
+        "Jess Hong",
+        "Benedict Wong",
+        "Eiza González",
+        "Jovan Adepo",
+        "Liam Cunningham",
+        "Marlo Kelly",
+        "Claudia Doumit",
+        "Ellie de Lange",
+        "Alfie Allen"
+      ],
+      "titles": [
+        "3 Body Problem",
+        "Bosch",
+        "Mission: Impossible",
+        "Yellowstone",
+        "Gilmore Girls",
+        "Silo",
+        "The Matrix",
+        "Mad Max",
+        "Blade Runner",
+        "Dune",
+        "Star Wars",
+        "Fight Club",
+        "eXistenZ",
+        "Mad Max: Fury Road",
+        "Furiosa: A Mad Max Saga",
+        "Blade Runner 2049",
+        "Tenet",
+        "Andor",
+        "Game of Thrones",
+        "House of the Dragon",
+        "Inked",
+        "Doctor Strange",
+        "Baby Driver",
+        "Watchmen",
+        "Dare Me",
+        "The Boys",
+        "Wolf Hall"
+      ]
+    },
+    "keywords": [
+      "3 Body Problem Season 2",
+      "Netflix 3 Body Problem episodes",
+      "David Benioff 3 Body Problem",
+      "3 Body Problem cast season 2"
+    ],
+    "images": [
+      {
+        "url": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/03/3-body-problem.jpg?w=1600&amp;h=900&amp;fit=crop",
+        "caption": "Netflix Sci-Fi Series 3 Body Problem Confirms Reduced Episode Order for Season 2",
+        "source": "Collider"
+      }
+    ],
+    "published": "Sun, 22 Nov 2026 19:00:12 GMT"
+  },
+  "1kx4fx1": {
+    "id": "1kx4fx1",
+    "type": "news",
+    "headline": "Blackpink's Jennie Makes History on Grand Theft Auto VI Soundtrack With 'Power Trip'",
+    "dek": "The K-pop sensation joins the official album for Rockstar Games' latest release alongside global stars like Dua Lipa and Burna Boy, while fellow bandmate Jisoo's track also lands in the game.",
+    "body": [
+      {
+        "h": "Official Confirmation From Rockstar Games",
+        "p": [
+          "Rockstar Games has officially confirmed the inclusion of Blackpink member Jennie on the musical lineup for Grand Theft Auto VI. Her song Power Trip has been revealed as the twenty-first track on the expansive thirty-four-song original album.",
+          "This announcement puts an end to earlier speculation that arose after vinyl sleeve photos leaked online. With this placement, Jennie officially becomes the first and only K-pop artist to have an original song featured on a Rockstar Games release."
+        ]
+      },
+      {
+        "h": "Writing Credits and Leak Background",
+        "p": [
+          "Before the official tracklist release, rumors regarding Jennie's involvement began circulating when images of the album's vinyl packaging appeared on the internet. Fans eagerly awaited confirmation, which eventually arrived directly from the developers.",
+          "In addition to performing the track, Jennie is credited as a co-writer on Power Trip. Her collaborators on the songwriting credits include Alexander Guy Cook, Badriia Bibi Bourelly, and Corey Marlon Lindsay-Keay."
+        ]
+      },
+      {
+        "h": "Chart Success and Streaming Numbers",
+        "p": [
+          "Following its release, Power Trip quickly made waves on global music charts. Reports indicate the track secured the fourth highest new entry at number thirteen on the Worldwide iTunes song chart.",
+          "Furthermore, it achieved the second highest debut for any song from Grand Theft Auto VI: The Album, debuting at number twenty-seven on European iTunes after reaching the top spot in multiple countries, alongside a spot on US iTunes. On Spotify, the track accumulated 73,388 streams during its partial day debut without the aid of playlist additions."
+        ]
+      },
+      {
+        "h": "Star-Studded Collaboration and Album Details",
+        "p": [
+          "Grand Theft Auto VI: The Album is a joint venture between Rockstar Games and Atlantic Records, blending world-renowned artists with music created exclusively for the gaming experience. The soundtrack features major international acts such as Dua Lipa, Lana Del Rey, and Burna Boy.",
+          "The full album is currently available across all major digital streaming platforms, with physical collectors also able to purchase limited edition vinyl and CD configurations."
+        ]
+      },
+      {
+        "h": "Jisoo's Contribution to In-Game Radio",
+        "p": [
+          "Jennie is not the only member of Blackpink to leave her musical mark on the video game. Her bandmate Jisoo has also contributed to the world of Grand Theft Auto VI through her solo song Earthquake.",
+          "Earthquake has been added to the in-game pop radio station Flash FM, joining a diverse playlist of pop acts from around the globe. Official credits from Rockstar Games confirm Jisoo's track and its writing credits within the game environment."
+        ]
+      },
+      {
+        "h": "Additional Soundtrack Work for Jennie",
+        "p": [
+          "The high-profile gaming feature is not the only musical project Jennie has landed this month. She has also recorded a track titled Someone to Hold for the Netflix animated film Steps.",
+          "The film offers a contemporary spin on the traditional Cinderella fairytale by shifting narrative focus toward the princess's stepsisters."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Blackpink member Jennie has joined the official Grand Theft Auto VI soundtrack with her song Power Trip, making history as the first K-pop artist on a Rockstar Games release. The project features other major international stars, while her bandmate Jisoo's track Earthquake has also been featured on the game's in-game radio."
+        ]
+      }
+    ],
+    "facts": [
+      "Grand Theft Auto VI was released on November 19, 2026, for PlayStation 5 and Xbox Series X|S.",
+      "Jennie's song Power Trip is the 21st song on the 34-track album.",
+      "Power Trip scored 73,388 streams on its partial day on Spotify.",
+      "Power Trip debuted at No 27 on European iTunes and No 119 on US iTunes."
+    ],
+    "entities": {
+      "people": [
+        "Jennie",
+        "Dua Lipa",
+        "Lana Del Rey",
+        "Burna Boy",
+        "Alexander Guy Cook",
+        "Badriia Bibi Bourelly",
+        "Corey Marlon Lindsay-Keay",
+        "Travis Scott",
+        "Yung Lean",
+        "Future",
+        "Metro Boomin",
+        "Jisoo"
+      ],
+      "titles": [
+        "Grand Theft Auto VI",
+        "Power Trip",
+        "Grand Theft Auto VI: The Album",
+        "RHYNO",
+        "That's It",
+        "Steps",
+        "Someone to Hold",
+        "Earthquake",
+        "Flash FM"
+      ]
+    },
+    "keywords": [
+      "Jennie Power Trip",
+      "GTA VI Soundtrack",
+      "Blackpink Jennie GTA 6",
+      "Jisoo Earthquake GTA VI"
+    ],
+    "images": [
+      {
+        "url": "https://images.timesnownews.com/thumb/msid-156549584,thumbsize-759479,width-1280,height-720,resizemode-75/156549584.jpg",
+        "caption": "Blackpink's Jennie Makes History on Grand Theft Auto VI Soundtrack With 'Power Trip'",
+        "source": "Times Now — Entertainment"
+      }
+    ],
+    "published": "2026-11-22T20:11:10Z"
+  },
+  "m77gj4": {
+    "id": "m77gj4",
+    "type": "news",
+    "headline": "Why Noah Kahan Was Nearly Shut Out of the Grammys Despite a Massive Year",
+    "dek": "Music critics and fans were left stunned when superstar Noah Kahan received only a single nomination for his blockbuster album, raising questions about genre boundaries and voting demographics.",
+    "body": [
+      {
+        "h": "The Shocking Grammy Snub",
+        "p": [
+          "Music industry forecasters and dedicated fans alike experienced genuine disbelief when blockbuster artist Noah Kahan was nearly excluded from the major Grammy categories. Going into the announcement, professional prognosticators across multiple entertainment outlets anticipated that his acclaimed work would easily secure multiple top-tier nominations. Instead, the superstar found himself entirely passed over for the major fields, landing just a single, relatively modest nod.",
+          "The unexpected outcome triggered an outpouring of disappointment from his base, while prompting critics to examine how consensus polling could be so thoroughly mistaken. In an era where artists openly share their career milestones and disappointments, the episode quickly evolved into a widely discussed industry talking point about popularity versus institutional recognition."
+        ]
+      },
+      {
+        "h": "An Up-Front and Candid Reaction",
+        "p": [
+          "Rather than retreating into silence or bitter retaliation, the singer-songwriter navigated his disappointment through a very public sequence of emotional phases. Observers noted that he bypassed initial anger entirely, instead treating supporters to a transparent view of his personal processing. From an early wry message hinting at lowered expectations to gallows humor on stage involving a mock phone call from the awards committee, he kept his audience close.",
+          "His ultimate acceptance of the situation materialized during a poignant stage monologue where he reflected on misplacing personal value in external validation. Even while addressing the elephant in the room, he managed to maintain his characteristic humility, comforted by the reality of selling out consecutive stadium venues."
+        ]
+      },
+      {
+        "h": "Blockbuster Success and High Expectations",
+        "p": [
+          "The surprise surrounding the near-shutout stemmed directly from the sheer commercial and critical dominance displayed throughout the year. The artist stood out as a rare constant, maintaining multiple albums simultaneously within the top tier of the charts over an extended period. Furthermore, ticket sales soared to unprecedented heights, cementing his status as a premier live attraction in the contemporary music landscape.",
+          "Major trade publications and prediction platforms universally projected that his headline project and its central tracks would anchor the major categories. Reviewers had largely warmed to his distinct output, creating an overwhelming industry expectation that a multi-nomination sweep was all but guaranteed."
+        ]
+      },
+      {
+        "h": "Genre Confusion and Geographic Hurdles",
+        "p": [
+          "A primary obstacle facing the campaign involved the tricky matter of classification across dozens of stylistically divided voting fields. While major charts categorized his upbeat tracks firmly within rock formats, dedicated rock voters often lean toward heavier styles, leaving him out of place. Simultaneously, the roots and Americana communities had not fully embraced him, viewing his rapid ascent with slight hesitation.",
+          "Geographic factors also played a subtle role within the voting body, given that regional chapters do not neatly represent every corner of the country. Without a natural voting bloc originating from his home region, securing broad consensus across varied stylistic subsets proved to be an uphill battle."
+        ]
+      },
+      {
+        "h": "Shifting Demographics Within the Academy",
+        "p": [
+          "Broader cultural shifts within the voting institution also help explain why certain traditional singer-songwriter formats may face an uphill climb. Recent membership drives have intentionally brought in thousands of younger professionals and a significant majority of individuals representing diverse backgrounds. Consequently, the traditional voting blocs that historically favored classic guitar-driven styles no longer dominate the electorate.",
+          "This evolving demographic naturally shifts focus toward different artistic sensibilities, aligning with a broader trend seen across other legacy acts as well. Observers noted that these modernized voting patterns continue to get results right on artistic merit, even if established favorites occasionally get squeezed out."
+        ]
+      },
+      {
+        "h": "Evaluating the Competition",
+        "p": [
+          "Examining the final lineup of top nominees reveals that the competition was simply too fierce to easily dismiss the artists who made the cut. Acclaimed projects from acclaimed peers successfully claimed the available slots, with female artists prominently representing a large portion of the major categories on pure merit. Critics noted that finding an expendable nominee among the chosen finalists remains an exceedingly difficult task.",
+          "Because the upper categories maintain a strict limit on finalists, strong contenders frequently miss the final cut during exceptionally competitive cycles. Some commentators suggested that expanding the top general-field categories back to ten slots, similar to past years, might accommodate more of these deserving heavyweights in the future."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Despite dominating commercial charts and selling out massive stadium tours throughout the year, Noah Kahan received only a single nomination for contemporary folk recording at the upcoming Grammys. Industry forecasters had widely predicted multiple major nods for his blockbuster release, but genre ambiguity and shifting voting demographics ultimately left him out of the top fields. The artist addressed the disappointment candidly with his fanbase while his supporters processed the unexpected results."
+        ]
+      }
+    ],
+    "facts": [
+      "Noah Kahan received only one nomination for contemporary folk recording.",
+      "The Grammy nominations were discussed in November 2026.",
+      "The Recording Academy invited 3,600 professionals to join as voting members in the class of 2025.",
+      "The class of 2025 voting members consisted of 56 percent people of color and 60 percent under 40."
+    ],
+    "entities": {
+      "people": [
+        "Noah Kahan",
+        "Chris Willman",
+        "John Summit",
+        "Victoria Monet",
+        "Kelsea Ballerini",
+        "Zach Bryan",
+        "Paul McCartney",
+        "Phoebe Bridgers",
+        "Rosalia",
+        "Raye",
+        "Sienna Spiro"
+      ],
+      "titles": [
+        "Great Divide",
+        "Stick Season",
+        "Orbiter",
+        "Draw You Out",
+        "Boys of Dungeon Lane",
+        "Lost Weekend"
+      ]
+    },
+    "keywords": [
+      "Noah Kahan",
+      "Grammy nominations",
+      "The Great Divide",
+      "Recording Academy"
+    ],
+    "images": [
+      {
+        "url": "https://variety.com/wp-content/uploads/2026/11/MAB_2419-e1795368424397.jpg?w=1000&#038;h=563&#038;crop=1",
+        "caption": "Why Noah Kahan Was Nearly Shut Out of the Grammys Despite a Massive Year",
+        "source": "Variety"
+      }
+    ],
+    "published": "Sun, 22 Nov 2026 19:30:19 +0000"
   }
 };
