@@ -215077,5 +215077,422 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Sat, 21 Nov 2026 21:51:18 +0000"
+  },
+  "11gdkq9": {
+    "id": "11gdkq9",
+    "type": "news",
+    "headline": "Ramayana Day 17 Box Office: Ranbir Kapoor-Yash Film Sees BIG Jump On Third Saturday; Crosses Rs 900 Crore",
+    "dek": "Nitesh Tiwari's mythological epic Ramayana has crossed the Rs 900 crore mark at the domestic box office after registering a massive surge on its third Saturday.",
+    "body": [
+      {
+        "h": "Third Saturday Surge",
+        "p": [
+          "The mythological epic Ramayana experienced a notable upswing in ticket sales as it entered its third weekend in cinemas. Despite encountering typical weekday dips previously, the movie demonstrated that audience interest remains robust more than two weeks after its theatrical debut.",
+          "Trade trackers reported that the feature attracted substantial crowds on Saturday, November 21, propelling its financial journey forward with renewed momentum."
+        ]
+      },
+      {
+        "h": "Day 17 Collections And Total Earnings",
+        "p": [
+          "According to the latest Sacnilk figures, the Nitesh Tiwari directorial earned Rs 43.15 crore on its seventeenth day in theatres. This strong single-day performance lifted its overall domestic box office collections to an impressive Rs 906.90 crore.",
+          "Crossing the Rs 900 crore threshold stands as a monumental achievement for the big-budget production, cementing its status among the most commercially successful ventures in Indian cinema history."
+        ]
+      },
+      {
+        "h": "Early Box Office Milestones",
+        "p": [
+          "The film's trajectory to this milestone has been remarkably swift since its launch. It surpassed the Rs 500 crore milestone within its first six days following an opening day collection of Rs 64.85 crore.",
+          "Benefiting from an extended Diwali holiday window, the spectacle consistently shattered expectations and outpaced several major previous blockbusters."
+        ]
+      },
+      {
+        "h": "Surpassing Past Blockbusters",
+        "p": [
+          "With its current earnings, the feature has successfully overtaken the lifetime domestic collections of multiple prominent movies. Among the surpassed titles are Ranveer Singh's Dhurandhar, Vicky Kaushal's Chhaava, Shah Rukh Khan's Pathaan, and Ranbir Kapoor's own film Animal.",
+          "Attention is now turning toward how swiftly the movie can march ahead to claim the even grander Rs 1,000 crore milestone in the coming days."
+        ]
+      },
+      {
+        "h": "Plot And Narrative Scope",
+        "p": [
+          "Directed by Nitesh Tiwari, Ramayana: Part 1 focuses on the initial half of the legendary narrative. It explores Ravana's origins and ascension alongside Lord Rama's journey departing from Ayodhya into a 14-year forest exile.",
+          "The storyline covers Rama, Sita, and Lakshmana's life in the wilderness up to the pivotal moment of Sita's abduction by Ravana, blending familial drama with visual spectacle."
+        ]
+      },
+      {
+        "h": "Cast And Future Battles",
+        "p": [
+          "The grand project features a prominent star cast, with Ranbir Kapoor portraying Lord Rama, Sai Pallavi as Goddess Sita, and Yash stepping into the role of the antagonist, Ravana.",
+          "This first installment sets the stage for the ultimate confrontation between Rama and Ravana, with the full-scale battle for Lanka reserved to unfold in the upcoming sequel."
+        ]
+      },
+      {
+        "h": "Anticipated OTT Streaming Plans",
+        "p": [
+          "Beyond its theatrical triumphs, details regarding the film's digital future have begun to emerge. Sources close to the production indicated that the movie is expected to land on JioHotstar.",
+          "Reports suggest it will follow a pay-per-view model, requiring audiences to purchase individual access rather than streaming it through standard active subscriptions."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Nitesh Tiwari's Ramayana crossed the Rs 900 crore domestic box office milestone after earning Rs 43.15 crore on its third Saturday. Starring Ranbir Kapoor, Sai Pallavi, and Yash, the mythological epic continues its strong theatrical run and is expected to premiere on JioHotstar via a pay-per-view model."
+        ]
+      }
+    ],
+    "facts": [
+      "Ramayana collected Rs 43.15 crore on its third Saturday, which was Day 17.",
+      "The film's total domestic box office earnings reached Rs 906.90 crore on Saturday, November 21, 2026.",
+      "The movie crossed Rs 500 crore within its first six days of release.",
+      "Opening day collection was Rs 64.85 crore.",
+      "The cast includes Ranbir Kapoor as Lord Rama, Sai Pallavi as Goddess Sita, and Yash as Ravana."
+    ],
+    "entities": {
+      "people": [
+        "Ranbir Kapoor",
+        "Yash",
+        "Sai Pallavi",
+        "Nitesh Tiwari",
+        "Ranveer Singh",
+        "Vicky Kaushal",
+        "Shah Rukh Khan",
+        "Arpita Sarkar"
+      ],
+      "titles": [
+        "Ramayana",
+        "Dhurandhar",
+        "Chhaava",
+        "Pathaan",
+        "Animal"
+      ]
+    },
+    "keywords": [
+      "Ramayana box office collection",
+      "Ramayana Day 17",
+      "Ranbir Kapoor Yash film",
+      "Nitesh Tiwari Ramayana"
+    ],
+    "images": [
+      {
+        "url": "https://images.timesnownews.com/thumb/msid-156547651,thumbsize-379524,width-1280,height-720,resizemode-75/156547651.jpg",
+        "caption": "Ramayana Day 17 Box Office: Ranbir Kapoor-Yash Film Sees BIG Jump On Third Saturday; Crosses Rs 900 Crore",
+        "source": "Times Now — Entertainment"
+      }
+    ],
+    "published": "2026-11-22T00:52:26Z"
+  },
+  "ptza5t": {
+    "id": "ptza5t",
+    "type": "news",
+    "headline": "Suriya Expresses Gratitude to Fans Following the Phenomenal Triple Success of 2026 Releases",
+    "dek": "Tamil star Suriya celebrates a remarkable hat-trick year as his three 2026 films cross the Rs 200 crore global mark, sharing a heartfelt video message with his supporters.",
+    "body": [
+      {
+        "h": "A Remarkable Triple Success",
+        "p": [
+          "Tamil cinema star Suriya has achieved a remarkable milestone this year by delivering a hat-trick of major cinematic hits. His three consecutive releases in 2026 have all managed to surpass the massive Rs 200 crore milestone at the global box office, solidifying his status as a powerhouse performer.",
+          "To acknowledge this incredible feat and the overwhelming affection from the public, the actor took to social media to share a special video message. He expressed immense appreciation for the continuous dedication and love shown by moviegoers throughout the year."
+        ]
+      },
+      {
+        "h": "Gratitude for Scene",
+        "p": [
+          "One week following the Diwali festivities, the actor posted an Instagram video specifically addressing his latest theatrical outing, Scene. The action comedy was brought to the big screen on November 6, 2026, just ahead of Diwali.",
+          "Written and directed by Jithu Madhavan, the movie features co-stars Naslen and Nazriya Nazim alongside the lead actor. It has quickly emerged as one of the most prominent Tamil cinematic releases of the entire year."
+        ]
+      },
+      {
+        "h": "A Special Video Message in Tamil",
+        "p": [
+          "Speaking directly to his audience in Tamil via the Instagram video captioned Nandri, My Dear All, the performer thanked everyone who visited theatres to watch, celebrate, and review his latest project. He expressed deep joy in seeing fans analyze the film from various angles and decode its elements.",
+          "The leading man noted that while the cast and crew naturally feel glad when a project performs well commercially, seeing the heightened enthusiasm and happiness of the fans brought him an even greater sense of fulfillment."
+        ]
+      },
+      {
+        "h": "Acknowledging the Entire Industry",
+        "p": [
+          "Towards the conclusion of his video message, the star extended his heartfelt appreciation and utmost respect to all viewers across different language regions. He made sure to thank theatre proprietors, the press, media personnel, reviewers, critics, and social media influencers for their collective support.",
+          "He credited everyone involved in championing the films and closed his heartfelt address by promising to return soon, thanking his supporters once more for making his professional year extraordinarily special."
+        ]
+      },
+      {
+        "h": "Looking Back at Karuppu",
+        "p": [
+          "The actor initially kicked off his stellar 2026 box office run with a fantasy drama titled Karuppu, directed by RJ Balaji. In this project, he shared screen space with filmmaker RJ Balaji and co-star Trisha Krishnan.",
+          "Released in theatres on May 15, 2026, the film featured the lead star portraying a guardian deity named Vettai Karuppu who assumes the disguise of a lawyer to fight against a corrupt institutional system."
+        ]
+      },
+      {
+        "h": "Continuing with Vishwanath Sons",
+        "p": [
+          "Following his fantasy drama venture, the actor transitioned into the romantic comedy genre with Vishwanath Sons. The project was helmed by director Venky Atluri.",
+          "For this rom-com, the lead actor was paired opposite Mamitha Baiju from the Bethelem Kadumba Unit, adding another commercially successful title to his impressive lineup for the year."
+        ]
+      },
+      {
+        "h": "Diving into Action and Future Projects",
+        "p": [
+          "Rounding out his trio of 2026 hits is the action comedy Scene, where he steps into the role of DSP Inbaraj Inba Irudhayaraj. His character notably masks the reality that he is blind throughout the narrative.",
+          "Looking forward to his future cinematic endeavors, the Tamil star is already lined up for his next major film, temporarily titled Suriya 48, which is set to be directed by TJ Gnanavel."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Tamil star Suriya thanked his fans via social media following the global box office success of his three 2026 releases, Karuppu, Vishwanath Sons, and Scene. Each of these films crossed the Rs 200 crore mark worldwide, prompting the actor to express deep gratitude to audiences, theatre owners, and critics alike."
+        ]
+      }
+    ],
+    "facts": [
+      "Suriya released three films in 2026: Karuppu, Vishwanath Sons, and Scene.",
+      "All three films crossed the Rs 200 crore mark globally.",
+      "Scene was released in theatres on November 6, 2026, ahead of Diwali.",
+      "Scene is written and directed by Jithu Madhavan and co-stars Naslen and Nazriya Nazim.",
+      "Karuppu was released on May 15, 2026, directed by RJ Balaji and co-starring Trisha Krishnan.",
+      "Vishwanath Sons was directed by Venky Atluri and co-starred Mamitha Baiju.",
+      "Suriya's next film is Suriya 48, directed by TJ Gnanavel."
+    ],
+    "entities": {
+      "people": [
+        "Suriya",
+        "Jithu Madhavan",
+        "Naslen",
+        "Nazriya Nazim",
+        "RJ Balaji",
+        "Trisha Krishnan",
+        "Venky Atluri",
+        "Mamitha Baiju",
+        "TJ Gnanavel"
+      ],
+      "titles": [
+        "Karuppu",
+        "Vishwanath Sons",
+        "Scene",
+        "Suriya 48"
+      ]
+    },
+    "keywords": [
+      "Suriya Karuppu Vishwanath Sons Scene",
+      "Suriya box office success 2026",
+      "Scene movie Jithu Madhavan Naslen",
+      "Suriya Instagram message fans Nandri My Dear All"
+    ],
+    "images": [
+      {
+        "url": "https://images.timesnownews.com/thumb/msid-156547703,thumbsize-1028763,width-1280,height-720,resizemode-75/156547703.jpg",
+        "caption": "Suriya Expresses Gratitude to Fans Following the Phenomenal Triple Success of 2026 Releases",
+        "source": "Times Now — Entertainment"
+      }
+    ],
+    "published": "2026-11-22T00:52:26Z"
+  },
+  "6js62q": {
+    "id": "6js62q",
+    "type": "news",
+    "headline": "Netflix Premieres Polish Crime Thriller 'The Law of Beasts'",
+    "dek": "A new four-part miniseries blends the investigative depth of classic crime dramas, exploring a chilling true story across two distinct timelines on Netflix.",
+    "body": [
+      {
+        "h": "Introduction to The Law of Beasts",
+        "p": [
+          "Netflix has expanded its international crime drama catalog with the arrival of a tense four-part Polish miniseries. Titled The Law of Beasts, the production made its global debut on November 18, bringing a compact narrative that viewers can comfortably complete across a single evening or weekend sitting. Totaling roughly three hours in length, the projectdives straight into dark historical subject matter without unnecessary padding.",
+          "The story centers on a complex web of investigation and institutional responsibility, drawing comparisons to revered procedural dramas. Rather than focusing solely on standard detective tropes, the narrative examines the heavy burden carried by those tasked with tracking dangerous criminals and deciding when or if they can safely return to society."
+        ]
+      },
+      {
+        "h": "Dual Timelines and Core Characters",
+        "p": [
+          "The plot unfolds across two distinct historical periods, charting the professional trajectory of two women involved in a notorious real-life case. In the 1988 timeline, investigator Anna and psychiatric professional Agnieszka work together while the perpetrator is still considered a suspect. Agnieszka is brought in to assess the suspect's mental state, establishing an early professional bond.",
+          "Decades later, as the offender approaches the end of a heavily modified prison sentence, the two women are thrust back into the same orbit. Agnieszka is summoned once more to evaluate the inmate, with the crucial task of determining whether he still constitutes a severe threat to the general public upon his eventual release."
+        ]
+      },
+      {
+        "h": "Real-Life Roots and the Beasts Act",
+        "p": [
+          "The fictionalized miniseries is heavily rooted in chilling historical events from Poland. The character of the perpetrator is based on Mariusz Trynkiewicz, a real individual convicted of murdering four young boys in the Polish city of Piotrków Trybunalski in 1988. Following a death sentence handed down in 1989, a subsequent amnesty reduced his punishment to twenty-five years behind bars.",
+          "As his release date neared in 2014, the Polish government rushed through specific legislation colloquially known as the Beasts Act. This legal framework allowed courts to mandate secure medical treatment for specific offenders even after their formal prison terms had concluded, sparking intense legal and public debates that directly influenced the timeline of the show."
+        ]
+      },
+      {
+        "h": "Creative Vision and Realism",
+        "p": [
+          "While the central male criminal is based on a documented historical figure, the two primary female leads were invented for the series. Director Kasper Bajon and writer Anna Kasińska developed Anna and Agnieszka after researching the historical archives and discovering that women often shouldered the ultimate responsibility for critical decisions during the real-life ordeal.",
+          "According to statements shared with Netflix, Bajon noted that while men frequently debated solutions at length, the actual weight of administrative and moral choices frequently fell upon female officials. The creative team incorporated traits from several real individuals they encountered during their research to ensure the fictional protagonists felt grounded and authentic."
+        ]
+      },
+      {
+        "h": "Cast and Production Team",
+        "p": [
+          "The compact thriller features a notable ensemble of Polish acting talent to bring its heavy historical drama to life. Agnieszka Grochowska steps into the role of Anna, capturing the weathered perspective of an investigator who has lived with the case for decades. Alongside her, Agnieszka Żulewska portrays Agnieszka, the psychiatrist tasked with assessing the psychological profile of the prisoner.",
+          "The role of the convicted murderer is handled by Michał Pawlik. Behind the camera, the creative direction was spearheaded by Kasper Bajon, who also collaborated closely with Anna Kasińska on the script to maintain a brisk, engaging pace across the four available episodes."
+        ]
+      },
+      {
+        "h": "Streaming Availability",
+        "p": [
+          "All four episodes of The Law of Beasts became available for streaming globally on Netflix starting November 18. Because the total run time clocks in at roughly three hours, the platform is positioning the release as an ideal binge-watch for fans of gritty European crime dramas who prefer concise, self-contained storytelling over multi-season commitments.",
+          "The release adds to Netflix's growing library of international thrillers, offering subscribers a deep dive into a dark chapter of modern legal history through a heavily character-driven lens."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Netflix has released a new four-part Polish crime thriller titled The Law of Beasts, which premiered on November 18. The series explores the true story of a convicted murderer across two timelines, starring Agnieszka Grochowska, Agnieszka Żulewska, and Michał Pawlik."
+        ]
+      }
+    ],
+    "facts": [
+      "The Law of Beasts is a four-part Polish crime thriller.",
+      "The series premiered on Netflix on November 18.",
+      "The total runtime of the series is roughly three hours.",
+      "Agnieszka Grochowska stars as Anna.",
+      "Agnieszka Żulewska stars as Agnieszka.",
+      "Michał Pawlik plays Trynkiewicz.",
+      "Kasper Bajon directed the series and wrote it with Anna Kasińska.",
+      "Mariusz Trynkiewicz was convicted of murdering four boys in Piotrków Trybunalski in 1988.",
+      "Trynkiewicz's original death sentence was reduced to 25 years under a 1989 amnesty.",
+      "The Beasts Act was passed in Poland as Trynkiewicz's release approached in 2014."
+    ],
+    "entities": {
+      "people": [
+        "Anna Bersz",
+        "Mariusz Trynkiewicz",
+        "Agnieszka Grabska",
+        "Agnieszka Grochowska",
+        "Agnieszka Żulewska",
+        "Michał Pawlik",
+        "Kasper Bajon",
+        "Anna Kasińska"
+      ],
+      "titles": [
+        "The Law of Beasts",
+        "Mindhunter",
+        "True Detective",
+        "Columbo",
+        "Knives Out",
+        "Murder, She Wrote",
+        "The Big Sleep"
+      ]
+    },
+    "keywords": [
+      "The Law of Beasts",
+      "The Law of Beasts Netflix",
+      "Mariusz Trynkiewicz true story",
+      "Agnieszka Grochowska The Law of Beasts"
+    ],
+    "images": [
+      {
+        "url": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/11/prawo_bestii_netflix_fot-j-sosinski_08.jpg?w=1600&amp;h=900&amp;fit=crop",
+        "caption": "Netflix Premieres Polish Crime Thriller 'The Law of Beasts'",
+        "source": "Collider"
+      }
+    ],
+    "published": "Sun, 22 Nov 2026 00:45:12 GMT"
+  },
+  "mvjgsq": {
+    "id": "mvjgsq",
+    "type": "news",
+    "headline": "Tiger Shroff Makes First Public Appearance At Global Peace Honours 2026 Following Firing Incident",
+    "dek": "Tiger Shroff returned to the public eye as the opening performer at the Global Peace Honours 2026 in Mumbai, marking his first appearance since the October 18 firing incident.",
+    "body": [
+      {
+        "h": "First Public Appearance After The Firing Incident",
+        "p": [
+          "Bollywood actor Tiger Shroff made his highly anticipated return to the public eye by headlining the opening performance at the Global Peace Honours 2026 in Mumbai. Taking place just a month after a harrowing attempt on his life involving three assailants who fired near his car on October 18, 2026, the event served as his formal step back into the entertainment limelight.",
+          "The actor stepped onto the stage at the Gateway of India to deliver a high-energy routine, demonstrating absolute dedication to his craft despite the heavy security and personal ordeal he recently faced."
+        ]
+      },
+      {
+        "h": "An Energetic Tribute Performance",
+        "p": [
+          "For his opening act, Tiger danced to the popular track Deva Shree Ganesha from Agneepath, dressed in a striking red costume complemented by heavy jewellery. Executing the complex choreography flawlessly, he brought immense energy to the memorial gathering.",
+          "At the conclusion of his routine, the actor shared a warm smile, sent a flying kiss to the enthusiastic crowd, and reverently touched the stage to show his respect before exiting."
+        ]
+      },
+      {
+        "h": "Background Of The Global Peace Honours 2026",
+        "p": [
+          "The Global Peace Honours 2026 was organized by the Divyaj Foundation, founded by Amruta Fadnavis, who attended alongside her husband, Maharashtra Chief Minister Devendra Fadnavis. The annual event is dedicated to honoring the spirit of peace, courage, and humanity.",
+          "Held ahead of the 18th anniversary of the 26/11 attacks, the memorial gathering pays homage to the heroes and victims of terrorism while strongly emphasizing the values of compassion, solidarity, and unity."
+        ]
+      },
+      {
+        "h": "Star-Studded Attendance And Notable Personalities",
+        "p": [
+          "The event drew a massive gathering of prominent figures from various fields, including sports and cinema. Among those slated to attend or participating in the tribute were Shah Rukh Khan, Sachin Tendulkar, Akshay Kumar, and Vikrant Massey.",
+          "Additional notable personalities expected or present at the proceedings included Ranveer Singh, Suniel Shetty, Boman Irani, and Sukhwinder Singh, adding significant star power to the evening of remembrance."
+        ]
+      },
+      {
+        "h": "Resuming Professional Commitments",
+        "p": [
+          "Aside from his stage appearance, Tiger has steadily returned to his professional responsibilities earlier this month. The actor reportedly resumed shooting for his upcoming Hindi feature film titled Lag Jaa Gale.",
+          "Directed by Raj Mehta and produced by Dharma Productions, the project recently wrapped up its Pune schedule, with hair and makeup artist Sourav Roy confirming the milestone on social media while makers kept the exact location under wraps."
+        ]
+      },
+      {
+        "h": "Cast Details For Lag Jaa Gale",
+        "p": [
+          "Tiger's return to the film set pairs him alongside co-star Janhvi Kapoor for the Pune shooting schedule. The project brings together a vibrant ensemble cast.",
+          "In addition to the lead pair, the film features performances by actors Vidyut Jammwal and Lakshya, rounding out the main lineup for the Dharma Productions venture."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Tiger Shroff stepped out for his first public appearance since an October 18 firing incident by performing at the Global Peace Honours 2026 in Mumbai. Alongside returning to the stage, the actor has also resumed his film shooting schedules for Dharma Productions."
+        ]
+      }
+    ],
+    "facts": [
+      "Tiger Shroff performed at the Global Peace Honours 2026 in Mumbai.",
+      "The firing incident near Tiger Shroff's car occurred on October 18, 2026.",
+      "The event was organized by the Divyaj Foundation at the Gateway of India.",
+      "Tiger Shroff danced to the song Deva Shree Ganesha from Agneepath (2012).",
+      "Tiger Shroff resumed shooting for Lag Jaa Gale, directed by Raj Mehta and produced by Dharma Productions.",
+      "Janhvi Kapoor, Vidyut Jammwal, and Lakshya are part of Lag Jaa Gale."
+    ],
+    "entities": {
+      "people": [
+        "Tiger Shroff",
+        "Sonal Pandya",
+        "Ajay Gogavale",
+        "Devendra Fadnavis",
+        "Amruta Fadnavis",
+        "Shah Rukh Khan",
+        "Sachin Tendulkar",
+        "Akshay Kumar",
+        "Vikrant Massey",
+        "Ranveer Singh",
+        "Suniel Shetty",
+        "Boman Irani",
+        "Sukhwinder Singh",
+        "Raj Mehta",
+        "Janhvi Kapoor",
+        "Sourav Roy",
+        "Vidyut Jammwal",
+        "Lakshya"
+      ],
+      "titles": [
+        "Global Peace Honours 2026",
+        "Deva Shree Ganesha",
+        "Agneepath",
+        "Lag Jaa Gale"
+      ]
+    },
+    "keywords": [
+      "Tiger Shroff Global Peace Honours 2026",
+      "Tiger Shroff firing incident",
+      "Lag Jaa Gale film",
+      "Tiger Shroff Janhvi Kapoor"
+    ],
+    "images": [
+      {
+        "url": "https://images.timesnownews.com/thumb/msid-156547494,thumbsize-1027631,width-1280,height-720,resizemode-75/156547494.jpg",
+        "caption": "Tiger Shroff Makes First Public Appearance At Global Peace Honours 2026 Following Firing Incident",
+        "source": "Times Now — Entertainment"
+      }
+    ],
+    "published": "2026-11-22T00:52:26Z"
   }
 };
