@@ -1,19 +1,19 @@
 {
   "connected": true,
-  "generated": "2026-11-22T09:00:10Z",
+  "generated": "2026-11-22T10:08:55Z",
   "realtime": {
-    "active_users": 15
+    "active_users": 2
   },
   "today": {
-    "users": 6,
-    "pageviews": 9,
-    "sessions": 6,
-    "avg_session_seconds": 14.2
+    "users": 9,
+    "pageviews": 14,
+    "sessions": 9,
+    "avg_session_seconds": 15.2
   },
   "last7": {
-    "users": 3056,
-    "pageviews": 3051,
-    "sessions": 3042,
+    "users": 3059,
+    "pageviews": 3056,
+    "sessions": 3044,
     "avg_session_seconds": 5.3
   },
   "top_pages": [
@@ -26,7 +26,7 @@
     {
       "path": "/person",
       "title": "Actor & Filmmaker Profiles | FlickAtlas",
-      "views": 863,
+      "views": 866,
       "avg_time_seconds": 3.1
     },
     {
@@ -83,7 +83,7 @@
       "source": "(direct)",
       "medium": "(none)",
       "sessions": 2875,
-      "users": 2909
+      "users": 2911
     },
     {
       "source": "(not set)",
@@ -94,8 +94,8 @@
     {
       "source": "google",
       "medium": "organic",
-      "sessions": 17,
-      "users": 13
+      "sessions": 18,
+      "users": 14
     },
     {
       "source": "search.google.com",
@@ -119,7 +119,7 @@
     },
     {
       "country": "Argentina",
-      "users": 186
+      "users": 187
     },
     {
       "country": "Hong Kong",
@@ -149,11 +149,11 @@
   "devices": [
     {
       "device": "desktop",
-      "users": 3037
+      "users": 3039
     },
     {
       "device": "mobile",
-      "users": 19
+      "users": 20
     }
   ],
   "per_post": {}

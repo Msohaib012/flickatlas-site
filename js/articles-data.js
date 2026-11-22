@@ -218632,5 +218632,400 @@ window.FA_ARTICLES = {
     ],
     "images": [],
     "published": "2026-11-22T08:53:08Z"
+  },
+  "3ib17i": {
+    "id": "3ib17i",
+    "type": "news",
+    "headline": "Panchayat 5 Trailer Release Date Announced: Prime Video Sets Tomorrow for Phulera Preview",
+    "dek": "Prime Video has shared a sneak peek featuring Banrakas and confirmed the trailer release date for the upcoming fifth season of Panchayat.",
+    "body": [
+      {
+        "h": "Introduction to the Upcoming Season",
+        "p": [
+          "Audiences eagerly awaiting the next chapter of village politics in Phulera received an exciting update regarding the popular streaming series Panchayat. Prime Video revealed a fresh promotional clip featuring the character Banrakas, which hints at substantial changes heading to the rural setting in the fifth installment.",
+          "The newly released promotional material gives fans a clear look at how the village administration might shift under new leadership, setting expectations high for the forthcoming season."
+        ]
+      },
+      {
+        "h": "Banrakas Takes Charge in Phulera",
+        "p": [
+          "In the newly dropped video, the character Banrakas is seen strolling through a noticeably transformed Phulera village. Sporting a modernized aesthetic and hinting at ambitious developmental strategies, he appears ready to steer the community in an entirely new direction.",
+          "His bold declaration in the clip signifies his intense ambitions for local governance. Having established himself as a memorable personality in the comedy-drama, his rise in the village administration guarantees fresh comedic conflict and unexpected narrative twists."
+        ]
+      },
+      {
+        "h": "Anticipating the Full Trailer",
+        "p": [
+          "While the promotional teaser offers a glimpse of the modernized village layout, the ultimate impact of these proposed developments on local residents remains to be seen. The impending trailer is expected to shed more light on upcoming plot conflicts and character dynamics.",
+          "Viewers will not have to wait much longer to get a comprehensive look at the storyline, as the platform has lined up the official preview for an imminent release."
+        ]
+      },
+      {
+        "h": "Cast and Creative Team",
+        "p": [
+          "The acclaimed comedy-drama continues under the creative vision of Deepak Kumar Mishra, Chandan Kumar, and Arunabh Kumar, with Deepak Kumar Mishra directing and Chandan Kumar penning the script. Production duties are handled by The Viral Fever.",
+          "Fans can look forward to seeing familiar faces return to their beloved roles, including Jitendra Kumar, Raghubir Yadav, Neena Gupta, Sunita Rajwar, Faizal Malik, Chandan Roy, Sanvikaa, Durgesh Kumar, and Ashok Pathak."
+        ]
+      },
+      {
+        "h": "Global Streaming Details",
+        "p": [
+          "The fifth season of the show is slated for an exclusive digital premiere on Prime Video. Followers across India and in over 240 countries and territories worldwide will be able to stream the new episodes simultaneously.",
+          "This widespread availability highlights the massive global audience the series has cultivated since its initial launch on the streaming platform."
+        ]
+      },
+      {
+        "h": "Official Schedule and Dates",
+        "p": [
+          "Prime Video has officially confirmed that the trailer for the fifth season will be unveiled tomorrow, falling on November 23, 2026. This gives eager fans an immediate date to mark on their calendars.",
+          "Following the trailer drop, the complete fifth season of the Jitendra Kumar-headlined comedy-drama is scheduled to officially premiere on December 3, 2026."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Prime Video has announced that the trailer for Panchayat 5 will premiere tomorrow, November 23, 2026, followed by the full season release on December 3, 2026. The upcoming season highlights Banrakas taking charge of a transformed Phulera village with ambitious development plans."
+        ]
+      }
+    ],
+    "facts": [
+      "Trailer release date is November 23, 2026",
+      "Season 5 premiere date is December 3, 2026",
+      "Streamed exclusively on Prime Video in India and over 240 countries and territories",
+      "Created by Deepak Kumar Mishra, Chandan Kumar, and Arunabh Kumar",
+      "Produced by The Viral Fever",
+      "Cast includes Jitendra Kumar, Raghubir Yadav, Neena Gupta, Sunita Rajwar, Faizal Malik, Chandan Roy, Sanvikaa, Durgesh Kumar, and Ashok Pathak"
+    ],
+    "entities": {
+      "people": [
+        "Durgesh Kumar",
+        "Deepak Kumar Mishra",
+        "Chandan Kumar",
+        "Arunabh Kumar",
+        "Jitendra Kumar",
+        "Raghubir Yadav",
+        "Neena Gupta",
+        "Sunita Rajwar",
+        "Faizal Malik",
+        "Chandan Roy",
+        "Sanvikaa",
+        "Ashok Pathak"
+      ],
+      "titles": [
+        "Panchayat",
+        "Panchayat 5"
+      ]
+    },
+    "keywords": [
+      "Panchayat 5",
+      "Panchayat Season 5 trailer",
+      "Prime Video Panchayat",
+      "Banrakas Phulera",
+      "Jitendra Kumar Panchayat"
+    ],
+    "images": [
+      {
+        "url": "https://images.filmibeat.com/img/2026/11/panchayat5trailerreleasedated1-66961795340507.jpg",
+        "caption": "Panchayat 5 Trailer Release Date Announced: Prime Video Sets Tomorrow for Phulera Preview",
+        "source": "FilmiBeat"
+      }
+    ],
+    "published": "Sun, 22 Nov 2026 15:14:34 +0530"
+  },
+  "pnl7bf": {
+    "id": "pnl7bf",
+    "type": "news",
+    "headline": "G-Dragon Grabs Attention with Bold Hairstyle at the 2026 MAMA Awards",
+    "dek": "The BIGBANG leader debuted a striking waist-length look at the music event in Japan, drawing comparisons to iconic Korean rock musicians.",
+    "body": [
+      {
+        "h": "The Grand Entrance at Kyocera Dome Osaka",
+        "p": [
+          "The second night of the music ceremony brought immense excitement as major K-pop acts gathered in Japan. Taking place at Kyocera Dome Osaka, the evening featured high-profile performances and striking visual presentations that immediately caught the attention of fans worldwide.",
+          "Among all the attendees, BIGBANG member G-Dragon became the central focus of the evening. His daring aesthetic choice instantly shifted the energy in the venue, setting a dramatic tone for the group's highly anticipated appearance."
+        ]
+      },
+      {
+        "h": "A Dramatic and Colorful Hairstyle Shift",
+        "p": [
+          "Stepping onto the venue grounds, the singer unveiled waist-length, pin-straight locks infused with a vibrant combination of black, hot pink, and red hues. This radical aesthetic served as a massive departure from the shorter and bleached hairstyles that have defined much of his historic career.",
+          "The bold look immediately triggered widespread online chatter. Observers drew immediate parallels between his flowing tresses and the signature styles of South Korea's most celebrated rock icons."
+        ]
+      },
+      {
+        "h": "Theatrical Resurrection Theme on Stage",
+        "p": [
+          "The striking hair choice served as a visual anchor for BIGBANG's elaborate stage production. G-Dragon, alongside bandmates Taeyang and Daesung, delivered a powerful set that began with an unforgettable entrance.",
+          "Emerging through a coffin-shaped prop adorned with the Latin inscription 'VENI VIDI VICI'—meaning 'I came, I saw, I conquered'—the star broke through the structure amidst swirling smoke. This resurrection-inspired display highlighted his new hair and electrified the arena."
+        ]
+      },
+      {
+        "h": "Live Debut of Surprise Single 'GiiiRIP'",
+        "p": [
+          "Beyond the visual spectacle, the legendary group used the platform to deliver powerful musical moments. They treated the audience to the first-ever live performance of their surprise single titled 'GiiiRIP'.",
+          "The track dropped shortly before the ceremony, adding extra momentum to their appearance. The performance demonstrated that the group remains at the top of their game creatively."
+        ]
+      },
+      {
+        "h": "A Humorous Mic-Moment During Acceptance",
+        "p": [
+          "The extravagant length of the hair also led to a delightfully comical episode on stage. While accepting the award for Music Visionary of the Year, the frontman struggled as his strands repeatedly fell across his face while speaking into the microphone.",
+          "In a display of camaraderie, Daesung quickly stepped in to hold the hair out of the way with both hands, soon joined by Taeyang. The heartwarming and playful interaction left the audience laughing and cheering."
+        ]
+      },
+      {
+        "h": "Comparisons to Legendary Rock Musicians",
+        "p": [
+          "Following the broadcast, viewers and commentators flooded social media platforms with discussions about his appearance. Many noted that the aesthetic echoed the late Shin Hae Chul, fondly remembered as the 'Demon King' of Korean rock.",
+          "Others pointed out similarities to veteran rock vocalists Park Wan Kyu and Kim Kyung Ho, both famous for their long manes. Fans praised his ability to continuously reinvent his image without losing his unique artistic edge."
+        ]
+      },
+      {
+        "h": "Anniversary Triumphs and Ongoing Global Tour",
+        "p": [
+          "Marking their 20th anniversary since debut, the group secured three major honors at the event. Aside from Music Visionary of the Year, they won Fans' Choice Male Top 10 and Best Music Video with YouTube for their release 'BiiiG'.",
+          "Currently, the members are actively meeting international supporters through their 'XX : COSMOS' concert tour while continuing active promotions for their latest musical output."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "G-Dragon drew widespread attention at the 2026 MAMA Awards in Osaka with a dramatic waist-length hairstyle featuring black, hot pink, and red tones. The look complemented BIGBANG's theatrical stage entrance and sparked comparisons to legendary Korean rock musicians, all while the group celebrated multiple wins and performed their new single during their 20th anniversary year."
+        ]
+      }
+    ],
+    "facts": [
+      "The 2026 MAMA Awards were held at Kyocera Dome Osaka in Japan on November 21, 2026.",
+      "G-Dragon appeared with waist-length, pin-straight hair mixing black, hot pink, and red.",
+      "BIGBANG performed their surprise new single 'GiiiRIP' live for the first time.",
+      "BIGBANG won three honors at the ceremony: Music Visionary of the Year, Fans' Choice Male Top 10, and Best Music Video with YouTube for 'BiiiG'.",
+      "The group is celebrating the 20th anniversary of their debut this year."
+    ],
+    "entities": {
+      "people": [
+        "G-Dragon",
+        "Taeyang",
+        "Daesung",
+        "Shin Hae Chul",
+        "Park Wan Kyu",
+        "Kim Kyung Ho"
+      ],
+      "titles": [
+        "GiiiRIP",
+        "BiiiG"
+      ]
+    },
+    "keywords": [
+      "G-Dragon hair 2026 MAMA Awards",
+      "BIGBANG MAMA Awards Osaka",
+      "G-Dragon long hair rock star look",
+      "BIGBANG GiiiRIP live performance"
+    ],
+    "images": [],
+    "published": "Sun, 22 Nov 2026 03:59:00 EST"
+  },
+  "12a38ry": {
+    "id": "12a38ry",
+    "type": "news",
+    "headline": "Bigg Boss 20 Week 11 Eviction: Voting Trends And Nominated Contestants Update",
+    "dek": "As Bigg Boss 20 reaches Week 11, ten contestants find themselves in the danger zone. Early unofficial voting trends suggest tight competition at the top and bottom of the list ahead of the Weekend Ka Vaar episode.",
+    "body": [
+      {
+        "h": "Intensifying Competition In Week 11",
+        "p": [
+          "The survival battle inside the Bigg Boss 20 house grows fiercer as the reality program progresses into its eleventh week. With the next Weekend Ka Vaar approaching rapidly, followers of the program are closely tracking audience support numbers to see who will maintain their place in the residence.",
+          "The current nomination cycle has introduced elevated tension among the remaining participants, forcing them to rely heavily on public votes to escape potential elimination."
+        ]
+      },
+      {
+        "h": "Season Background And Previous Evictions",
+        "p": [
+          "Guided by host Salman Khan, Bigg Boss 20 debuted on September 6 and has already experienced six eliminations over the course of its run. Rohed Khan was the initial housemate to exit, followed subsequently by Isha Rikhi, Rhiti Tiwari, Aman Gandhi, Mary Kom, and Aasif Khan.",
+          "With six individuals already forced out of the competition, the remaining participants face an increasingly difficult challenge as the stakes continue to rise."
+        ]
+      },
+      {
+        "h": "The Nominated Contestants Lineup",
+        "p": [
+          "The recent nomination challenge placed ten specific participants into the danger zone for this round. Notably, Uditi Singh stands out as the sole resident who successfully managed to remain secure, while everyone else must depend on audience backing to dodge elimination.",
+          "The group facing the risk includes Aamrapali Dubey, Gullu, Love Gill, Scout OP, Kanika Mann, Yung DSA, Arishfa Khan, Qazi Touqeer, Mahhi Vij, and Manish Goel."
+        ]
+      },
+      {
+        "h": "Unofficial Voting Trends And Rankings",
+        "p": [
+          "According to early unofficial rankings, Qazi Touqeer is reportedly leading the Week 11 voting charts. The singer currently holds the top position, while Yug DSA and Scout OP follow closely behind at the second and third spots.",
+          "Meanwhile, Arishfa Khan, Gullu, Kanika Mann, Love Gill, Uditi Singh, and Aamrapali Dubey are positioned in the middle sector of the reported voting chart."
+        ]
+      },
+      {
+        "h": "Bottom Two Placements And Uncertainty",
+        "p": [
+          "At the lower end of the unofficial tallies, Mahhi Vij and Manish Goel have landed in the bottom two positions. This placement places intense focus on them as the upcoming Weekend Ka Vaar draws closer.",
+          "Observers and followers remain eager to see how these numbers will translate into the final outcome, though these early trends do not guarantee a definitive result."
+        ]
+      },
+      {
+        "h": "The Final Verdict Awaits",
+        "p": [
+          "The unofficial voting lists circulating online should not be treated as absolute outcomes because the program's makers have not disclosed actual voting figures. The official elimination decision will be revealed during Salman Khan's upcoming Weekend Ka Vaar episode.",
+          "As the house dynamics shift based on viewer choices, the ultimate authority on who leaves the show remains with the production team."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Bigg Boss 20 has entered Week 11 with ten contestants nominated for elimination after a recent task, leaving only Uditi Singh safe. Unofficial voting trends point to Qazi Touqeer leading the chart, while Mahhi Vij and Manish Goel occupy the bottom spots. The definitive eviction choice will be announced by host Salman Khan during the Weekend Ka Vaar episode."
+        ]
+      }
+    ],
+    "facts": [
+      "Bigg Boss 20 premiered on September 6",
+      "Six contestants have been eliminated so far: Rohed Khan, Isha Rikhi, Rhiti Tiwari, Aman Gandhi, Mary Kom, and Aasif Khan",
+      "Uditi Singh is the only housemate safe from nominations in Week 11",
+      "Ten contestants are nominated in Week 11: Aamrapali Dubey, Gullu, Love Gill, Scout OP, Kanika Mann, Yung DSA, Arishfa Khan, Qazi Touqeer, Mahhi Vij, and Manish Goel",
+      "Qazi Touqeer is reportedly leading the Week 11 voting trends",
+      "Mahhi Vij and Manish Goel are reportedly in the bottom two positions",
+      "The story was published on Sunday, November 22, 2026"
+    ],
+    "entities": {
+      "people": [
+        "Salman Khan",
+        "Rohed Khan",
+        "Isha Rikhi",
+        "Rhiti Tiwari",
+        "Aman Gandhi",
+        "Mary Kom",
+        "Aasif Khan",
+        "Uditi Singh",
+        "Aamrapali Dubey",
+        "Gullu",
+        "Love Gill",
+        "Scout OP",
+        "Kanika Mann",
+        "Yung DSA",
+        "Arishfa Khan",
+        "Qazi Touqeer",
+        "Mahhi Vij",
+        "Manish Goel",
+        "Yug DSA"
+      ],
+      "titles": [
+        "Bigg Boss 20"
+      ]
+    },
+    "keywords": [
+      "Bigg Boss 20",
+      "Bigg Boss 20 Week 11 voting",
+      "Qazi Touqeer Bigg Boss 20",
+      "Salman Khan Bigg Boss 20"
+    ],
+    "images": [
+      {
+        "url": "https://images.filmibeat.com/img/2026/11/biggboss20week11votingd1-29181795338211.jpg",
+        "caption": "Bigg Boss 20 Week 11 Eviction: Voting Trends And Nominated Contestants Update",
+        "source": "FilmiBeat"
+      }
+    ],
+    "published": "Sun, 22 Nov 2026 14:37:26 +0530"
+  },
+  "17ajcmp": {
+    "id": "17ajcmp",
+    "type": "news",
+    "headline": "Apple TV's 30-Episode Space Opera Masterpiece Is An S-Tier Sci-Fi Series",
+    "dek": "Explore how Apple TV's Foundation evolved into an S-tier sci-fi masterpiece by taking bold creative liberties with Isaac Asimov's legendary book series.",
+    "body": [
+      {
+        "h": "Introduction To The Sci-Fi Masterpiece",
+        "p": [
+          "Space may be infinite, but truly incredible space operas are anything but, with only a select few universes worth getting lost in. Apple TV's Foundation immerses viewers in a grand and scintillating space opera that leaves audiences in complete awe of its scale.",
+          "Loosely based on Isaac Asimov's book series of the same name, the series has proven that it is not another run-of-the-mill, bottom-tier sci-fi show. Its sheer brilliance stems from its ability to drift away from the source material while retaining the core themes."
+        ]
+      },
+      {
+        "h": "Overcoming Early Struggles And Division",
+        "p": [
+          "Unlike most epic science fiction shows on television, Foundation initially stumbled and struggled to find its footing during its early run. Season 1 earned a mixed reception from both viewers and critics alike, with many calling out the extreme creative liberties taken by the creators.",
+          "Just when it looked like the Apple TV series might turn into another forgotten adaptation, it leveled up significantly. Although it remains somewhat divisive among purist book readers, it has solidified its status as an S-tier series."
+        ]
+      },
+      {
+        "h": "Reinventing Asimov's Books For Television",
+        "p": [
+          "Rather than delivering a direct page-to-page translation of the novels, the television adaptation uses the sprawling universe simply as a foundational launching pad. It borrows core concepts such as psychohistory and applies the Socratic method before taking major detours into original lore.",
+          "Adapting Asimov's stories presented a massive challenge because the source material spans across centuries. The series avoids changing its main characters every few chapters, recognizing that audiovisual storytelling requires long-term, rootable characters rather than constantly shifting perspectives."
+        ]
+      },
+      {
+        "h": "Introducing Original Lore And Long-Running Arcs",
+        "p": [
+          "To support long-running character arcs instead of relying purely on abstract ideas, history, and mathematical predictions, the television show introduced original narrative elements. These creative additions include concepts like cloning and digital consciousness.",
+          "Across three seasons so far, the project has drifted far enough from the novels to be seen as its own standalone entity. While overlaps remain, the show functions best as an original and elite addition to the genre."
+        ]
+      },
+      {
+        "h": "Matching Massive Hollywood Production Values",
+        "p": [
+          "One of the biggest strengths of the Apple TV sci-fi drama is its epic visual flair, which easily rivals massive Hollywood blockbusters. The series never looks bogged down by small-screen budgetary limits, bringing abstract literary ideas into stunning tangible reality.",
+          "From the colossal Star Bridge collapsing onto Trantor to the brutalist geometry of The Vault on Terminus, every single frame demands attention to detail and realism."
+        ]
+      },
+      {
+        "h": "Cinematic Scale And Musical Composition",
+        "p": [
+          "When the show's breathtaking visual design is paired together with Bear McCreary’s evocative musical compositions, it achieves a mythic quality. The overall experience feels just as grand as major cinematic releases like Dune and Interstellar.",
+          "Debates may continue over whether space opera adaptations should take such significant creative leaps. However, the true genius lies in its refusal to simply dumb down the story for casual screens."
+        ]
+      },
+      {
+        "h": "Legacy And Intelligent Adaptation",
+        "p": [
+          "By refusing to blindly copy every page, the series proves that new ideas and worlds can successfully be born out of classic literary works. It remains an intelligent space opera that respects the spirit of its origins while forging a unique path.",
+          "The project demonstrates that creative adaptation can elevate science fiction storytelling to remarkable heights when handled with grand ambition and visual mastery."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Apple TV's Foundation has evolved from a divisive season one into an S-tier sci-fi space opera across its three seasons. By taking bold creative liberties with Isaac Asimov's books and introducing original elements like cloning, the series delivers Hollywood-scale visuals and long-running character arcs."
+        ]
+      }
+    ],
+    "facts": [
+      "Foundation is an Apple TV+ series loosely based on Isaac Asimov's book series.",
+      "The show spans 3 seasons.",
+      "Season 1 was released on September 23, 2021.",
+      "The show features music composed by Bear McCreary."
+    ],
+    "entities": {
+      "people": [
+        "Isaac Asimov",
+        "Bear McCreary",
+        "Dhruv Sharma",
+        "David S. Goyer",
+        "Josh Friedman",
+        "Jared Harris",
+        "Lee Pace"
+      ],
+      "titles": [
+        "Foundation",
+        "Dune",
+        "Interstellar"
+      ]
+    },
+    "keywords": [
+      "Foundation Apple TV",
+      "Isaac Asimov Foundation series",
+      "Foundation sci-fi show",
+      "Apple TV space opera"
+    ],
+    "images": [
+      {
+        "url": "https://static0.srcdn.com/wordpress/wp-content/uploads/2026/11/080c5574-4f25-4df2-9460-d2e0ea6406fd.jpeg?w=1600&amp;h=900&amp;fit=crop",
+        "caption": "Apple TV's 30-Episode Space Opera Masterpiece Is An S-Tier Sci-Fi Series",
+        "source": "Screen Rant"
+      }
+    ],
+    "published": "Sun, 22 Nov 2026 09:31:18 GMT"
   }
 };
