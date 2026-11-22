@@ -218253,5 +218253,384 @@ window.FA_ARTICLES = {
     ],
     "images": [],
     "published": "Sun, 22 Nov 2026 07:00:00 +0000"
+  },
+  "zz74aa": {
+    "id": "zz74aa",
+    "type": "news",
+    "headline": "Decoding Economics of Ranbir Kapoor and Yash starrer Ramayana Part One: The numbers behind Biggest Indian film ever",
+    "dek": "The non-theatrical rights for the Indian languages have fetched another Rs. 300 crore, giving it a total of around Rs. 1050 crore in recoveries, the highest ever for any Indian film.",
+    "body": [
+      {
+        "h": "Global Theatrical Run and Expectations",
+        "p": [
+          "Ramayana: Part One is currently entering the final stages of its initial theatrical run. As of yesterday, the project has grossed approximately Rs. 1592 crore globally.",
+          "Analysts expect the venture to close its theatrical run at around Rs. 1825 crore, establishing a massive footprint worldwide."
+        ]
+      },
+      {
+        "h": "Understanding Ongoing Financial Recoveries",
+        "p": [
+          "Before diving deeper into the ledger, it is vital to note that the financial picture is still incomplete. Unlike most productions, Ramayana: Part One has significant future recoveries lined up.",
+          "These include a second-phase overseas release, alongside digital and television rights sales for international versions, though no official timeline has been set yet."
+        ]
+      },
+      {
+        "h": "Production Costs and Budget Splitting",
+        "p": [
+          "Ramayana stands as the costliest film made in the history of Indian cinema. Because it is structured as a two-parter, the production costs are divided across two films.",
+          "Without a reliable split available between the parts, the costs have been divided equally for this analysis, drawing from industry sources rather than formal paper filings."
+        ]
+      },
+      {
+        "h": "Net Cost of Production After Tax Rebates",
+        "p": [
+          "The gross cost of production for the film is cited at Rs. 1200 crore. However, this excludes a tax rebate from the UK and Canada estimated at around Rs. 300 crore.",
+          "Accounting for that rebate brings the net cost of production down to Rs. 900 crore for the film."
+        ]
+      },
+      {
+        "h": "Marketing and Advertising Expenses",
+        "p": [
+          "Apart from the cost of production, the project has spent heavily on its promotional rollout. Print and advertising expenses have crossed over Rs. 200 crore.",
+          "This marketing figure may already include dedicated funds earmarked for the upcoming second-phase overseas release."
+        ]
+      },
+      {
+        "h": "Record-Breaking Recoveries and Current Deficit",
+        "p": [
+          "Recoveries for the film are sitting at record levels. The theatrical share from the original release will yield nearly Rs. 750 crore.",
+          "Combined with Rs. 300 crore from Indian language non-theatrical rights, total recoveries stand at around Rs. 1050 crore, leaving a current deficit of about Rs. 150 crore after distribution fees."
+        ]
+      },
+      {
+        "h": "Future Revenue Avenues and Second Part Outlook",
+        "p": [
+          "Upcoming international releases in China, Japan, South Korea, Taiwan, and Russia next year will add to the overall totals, alongside merchandising and gaming avenues.",
+          "Ultimately, the final economics will only be known after the release of the second part, when total project revenues and expenses are assessed together."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Ramayana: Part One has grossed Rs. 1592 crore globally with expectations to close its run near Rs. 1825 crore. Despite record-breaking recoveries of around Rs. 1050 crore against a net production cost of Rs. 900 crore, the film currently faces a deficit of about Rs. 150 crore that will be covered by upcoming international releases and ancillary revenue streams."
+        ]
+      }
+    ],
+    "facts": [
+      "Ramayana: Part One global gross is Rs. 1592 crore",
+      "Expected final global gross is Rs. 1825 crore",
+      "Production cost is Rs. 1200 crore",
+      "UK and Canada tax rebate is Rs. 300 crore",
+      "Net cost of production is Rs. 900 crore",
+      "Print and advertising expense is over Rs. 200 crore",
+      "Theatrical share from original release is nearly Rs. 750 crore",
+      "Indian language non-theatrical rights fetched Rs. 300 crore",
+      "Total recoveries stand at around Rs. 1050 crore",
+      "Current deficit is around Rs. 150 crore",
+      "Hindi theatrical share is Rs. 375.00 cr"
+    ],
+    "entities": {
+      "people": [
+        "Ranbir Kapoor",
+        "Yash",
+        "Jatinder Singh"
+      ],
+      "titles": [
+        "Ramayana Part One",
+        "Ramayana: Part One"
+      ]
+    },
+    "keywords": [
+      "Ramayana Part One",
+      "Ranbir Kapoor Yash Ramayana",
+      "Ramayana Part One box office",
+      "Ramayana Part One economics"
+    ],
+    "images": [
+      {
+        "url": "https://www.pinkvilla.com/images/2026-11/118018688_ramayan-4.jpg",
+        "caption": "Decoding Economics of Ranbir Kapoor and Yash starrer Ramayana Part One: The numbers behind Biggest Indian film ever",
+        "source": "Pinkvilla"
+      }
+    ],
+    "published": "Sun, 22 Nov 2026 12:05:56 +0530"
+  },
+  "1jg3pi8": {
+    "id": "1jg3pi8",
+    "type": "news",
+    "headline": "Kim Kardashian Sports Racy Red Ensemble in Las Vegas to Support Racing Driver Lewis Hamilton",
+    "dek": "The reality star turned heads in a low-cut red leather catsuit and black trench coat as she cheered on her boyfriend during the Vegas Grand Prix weekend.",
+    "body": [
+      {
+        "h": "A Stunning Arrival in Las Vegas",
+        "p": [
+          "Reality television star and entrepreneur Kim Kardashian made a striking entrance in Las Vegas on Friday as she arrived to support her boyfriend, professional racing driver Lewis Hamilton. Capturing immediate attention from onlookers and photographers alike, the 46-year-old style mogul wore a daring, low-cut red leather catsuit featuring intricate lace-tied detailing trailing up her legs. She paired the bold garment with a set of strappy red heels.",
+          "To balance the vibrant and daring look while navigating the venue, she layered a stylish black leather trench coat over the outfit. Large dark sunglasses completed her public appearance as she prepared to watch the racing action unfold from the garage."
+        ]
+      },
+      {
+        "h": "Romance Blossoms Publicly",
+        "p": [
+          "The high-profile pair have been romantically linked since February, steadily building a strong connection that has since gone official on social media. Their relationship appears to be progressing rapidly, with the couple marking milestones through various international getaways earlier in the year.",
+          "Prior to their trip to Las Vegas, the couple visited Paris, took a trip to Japan, and spent a weekend away at the luxury hotel Estelle Manor located in the Cotswolds. Their public appearances have also included a high-profile outing at the Super Bowl, where they were featured on the stadium big screen during the game between the New England Patriots and the Seattle Seahawks."
+        ]
+      },
+      {
+        "h": "Blending Families and Bonding",
+        "p": [
+          "As their relationship deepens, Hamilton has been actively integrating into family life with Kardashian's four children: North, Saint, Chicago, and Psalm, whom she shares with her ex-husband, Kanye West. In a recent interview, the racing driver expressed his genuine fondness for spending time with the children, noting that he enjoys playing a role in their day-to-day activities.",
+          "Adding to the domestic bond, Hamilton gifted the family a dog named Halo earlier in the year. Insiders close to the couple have noted that Kardashian's family holds a positive view of the racing driver, appreciating his easy-going personality and energetic demeanor."
+        ]
+      },
+      {
+        "h": "Hitting All the Right Criteria",
+        "p": [
+          "Kardashian recently opened up about her relationship status during an episode of her reality show, The Kardashians. While speaking with comedian Nikki Glaser on the set of their film The Fifth Wheel, she discussed having a demanding checklist of more than 50 essential qualities for an ideal partner.",
+          "When producers and co-stars pressed her for details regarding her mystery man, she offered a coy admission, stating that she is simply very happy and suggesting that her current partner meets every requirement on her comprehensive list."
+        ]
+      },
+      {
+        "h": "Taking Time to Heal",
+        "p": [
+          "Before entering into her current romance, Kardashian intentionally spent five years single in order to focus entirely on her personal growth and her children. In a recent interview with The Times, she explained that taking an extended break from dating allowed her to completely heal without feeling any sense of emptiness.",
+          "She emphasized that she felt no rush to re-enter the dating world, choosing instead to dedicate her time and energy to her kids and various professional projects until she felt completely ready to open up to a new relationship."
+        ]
+      },
+      {
+        "h": "Star-Studded Paddock",
+        "p": [
+          "The Las Vegas event drew a large gathering of high-profile celebrities alongside Kardashian. Among those spotted in the paddock and surrounding areas were actor Keanu Reeves, who was seen enjoying some candy floss while wearing a smart black blazer and beanie hat.",
+          "Chef Gordon Ramsay was also in attendance, accompanied by his wife Tana and daughter Tilly. Other notable figures spotted taking in the atmosphere included actor Colin Farrell and musician Gabriella Sarmiento Wilson, widely known as H.E.R."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Kim Kardashian traveled to Las Vegas to support her boyfriend Lewis Hamilton while wearing a striking red catsuit and black trench coat. The couple, who have been linked since February, continue to grow closer as Hamilton bonds with her four children following Kardashian's five-year hiatus from dating."
+        ]
+      }
+    ],
+    "facts": [
+      "Kim Kardashian is 46 years old.",
+      "Lewis Hamilton and Kim Kardashian have been romantically linked since February.",
+      "Kim Kardashian has four children: North (13), Saint (10), Chicago (8), and Psalm (7).",
+      "Nikki Glaser is 42 years old.",
+      "Nicole Scherzinger is 48 years old.",
+      "Sofía Vergara is 54 years old."
+    ],
+    "entities": {
+      "people": [
+        "Kim Kardashian",
+        "Lewis Hamilton",
+        "Kanye West",
+        "Nikki Glaser",
+        "Nicole Scherzinger",
+        "Sofía Vergara",
+        "Keanu Reeves",
+        "Gordon Ramsay",
+        "Tana Ramsay",
+        "Tilly Ramsay",
+        "Colin Farrell",
+        "Gabriella Sarmiento Wilson",
+        "H.E.R.",
+        "North",
+        "Saint",
+        "Chicago",
+        "Psalm"
+      ],
+      "titles": [
+        "The Kardashians",
+        "The Fifth Wheel"
+      ]
+    },
+    "keywords": [
+      "Kim Kardashian Lewis Hamilton",
+      "Kim Kardashian Vegas Grand Prix",
+      "Kim Kardashian red catsuit",
+      "Lewis Hamilton girlfriend"
+    ],
+    "images": [],
+    "published": "2026-11-22T08:53:08Z"
+  },
+  "sbh50": {
+    "id": "sbh50",
+    "type": "news",
+    "headline": "Makers of Naga Chaitanya Starrer 'Vrushakarma' Announce Trailer Release Date with New Poster",
+    "dek": "The creators of the mystical adventure thriller ‘Vrushakarma’ have revealed that the official trailer will drop on November 25, alongside a brand-new poster highlighting the main cast.",
+    "body": [
+      {
+        "h": "Upcoming Mystical Adventure Thriller",
+        "p": [
+          "Actor Naga Chaitanya is getting ready for the grand theatrical arrival of his upcoming mystical adventure thriller titled 'Vrushakarma'. The movie has generated considerable curiosity among fans owing to its unique genre and the high-profile talent attached to the project. Directed by Karthik Varma Dandu, the feature film is officially scheduled to premiere in cinemas worldwide on December 4.",
+          "As the release date draws closer, the promotional campaign has shifted into high gear. The production team is steadily building anticipation by sharing glimpses of the mysterious world they have crafted for the silver screen, keeping audiences engaged with regular updates."
+        ]
+      },
+      {
+        "h": "Trailer Launch Date and New Poster Reveal",
+        "p": [
+          "In the latest promotional rollout, the creative team announced the exact date for the much-awaited trailer release. Fans can look forward to watching the official trailer on November 25. Alongside this exciting announcement, a fresh poster was unveiled across social media platforms to give viewers another look at the central characters.",
+          "Accompanying the new poster release, the makers shared a cryptic message on social media that read that audiences have seen the glimpses and felt the mystery, and it is now time to witness what has been waiting to unfold, pointing directly to the upcoming November 25 trailer launch."
+        ]
+      },
+      {
+        "h": "Character Looks in the Promotional Poster",
+        "p": [
+          "The newly released promotional poster puts the primary cast members in the spotlight. Naga Chaitanya occupies the center of the frame, dressed in a light-coloured shirt with a dark rope coiled purposefully across his torso and shoulder.",
+          "Joining him on the poster is Meenakshi Chaudhary, who essays the female lead. She is depicted wearing glasses while holding a lit red flare that discharges visible smoke and sparks into the air. Actor Jayaram also features prominently in the artwork, sporting a distinct look characterized by a beard and glasses."
+        ]
+      },
+      {
+        "h": "Recent Musical Releases and Child Artist Appearance",
+        "p": [
+          "Earlier in the promotional timeline, the creative team launched the film's second single, titled 'Chalo Padhave'. This melodic track highlights a touching emotional connection between Naga Chaitanya's character and child actor Kiara Khanna, who previously appeared in 'Hi Nanna'.",
+          "The inclusion of these emotional beats demonstrates that the narrative will balance its mystical adventure elements with strong interpersonal dynamics, offering a well-rounded storytelling experience for moviegoers."
+        ]
+      },
+      {
+        "h": "Antagonist and Supporting Cast Details",
+        "p": [
+          "The project features a compelling ensemble cast, including Sparsh Srivastava of 'Laapataa Ladies' fame, who takes on the role of the primary antagonist. An earlier teaser introduced his character in a mysterious light, showing him making haunting sketches before seemingly falling under the influence of dark forces.",
+          "In addition to the main leads and the villain, actor Satya is confirmed to appear in a key supporting role. While the team has kept detailed plot points under wraps, these character introductions hint at a dark and gripping cinematic journey."
+        ]
+      },
+      {
+        "h": "Behind-the-Lens Technical Crew",
+        "p": [
+          "A strong technical crew has been assembled to bring the mystical world of 'Vrushakarma' to life. Ragul D Herian serves as the cinematographer, capturing the atmospheric visuals of the thriller.",
+          "The production design is handled by Sri Nagendra Tangala, while Naveen Nooli takes charge as the editor. Additionally, Ajaneesh Loknath is composing the background score to enhance the suspenseful tone of the film."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "The creators of the mystical adventure thriller 'Vrushakarma', directed by Karthik Varma Dandu and starring Naga Chaitanya, have announced that the official trailer will premiere on November 25, supported by a new poster featuring the lead actors. The film is slated for a worldwide theatrical release on December 4, with a supporting cast that includes Meenakshi Chaudhary, Jayaram, and Sparsh Srivastava."
+        ]
+      }
+    ],
+    "facts": [
+      "Vrushakarma releases in theatres on December 4",
+      "The trailer will be released on November 25",
+      "Karthik Varma Dandu is the director of Vrushakarma",
+      "Naga Chaitanya, Meenakshi Chaudhary, and Jayaram star in the film",
+      "Sparsh Srivastava plays the main antagonist",
+      "Ragul D Herian is the cinematographer",
+      "Sri Nagendra Tangala is the production designer",
+      "Naveen Nooli is the editor",
+      "Ajaneesh Loknath is the music composer for the background score"
+    ],
+    "entities": {
+      "people": [
+        "Naga Chaitanya",
+        "Meenakshi Chaudhary",
+        "Jayaram",
+        "Karthik Varma Dandu",
+        "Kiara Khanna",
+        "Sparsh Srivastava",
+        "Satya",
+        "Ragul D Herian",
+        "Sri Nagendra Tangala",
+        "Naveen Nooli",
+        "Ajaneesh Loknath"
+      ],
+      "titles": [
+        "Vrushakarma",
+        "Hi Nanna",
+        "Laapataa Ladies"
+      ]
+    },
+    "keywords": [
+      "Vrushakarma trailer release date",
+      "Naga Chaitanya Vrushakarma film",
+      "Karthik Varma Dandu Vrushakarma",
+      "Vrushakarma new poster cast"
+    ],
+    "images": [
+      {
+        "url": "https://static.toiimg.com/thumb/msid-136070061,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "caption": "Makers of Naga Chaitanya Starrer 'Vrushakarma' Announce Trailer Release Date with New Poster",
+        "source": "Times of India — Entertainment"
+      }
+    ],
+    "published": "2026-11-22T13:31:42+05:30"
+  },
+  "bdmc9e": {
+    "id": "bdmc9e",
+    "type": "news",
+    "headline": "George Clooney and Jane Fonda Spotted Filming New Movie In Love in New Jersey",
+    "dek": "Hollywood stars George Clooney and Jane Fonda have been spotted together on set for the very first time as production gets underway for the new movie In Love.",
+    "body": [
+      {
+        "h": "First Sighting on Set",
+        "p": [
+          "Production on the upcoming feature film In Love is officially underway, with Hollywood icons George Clooney and Jane Fonda spotted together on set for the very first time. The actors were photographed earlier this week working on location in New Jersey.",
+          "In between filming takes, Clooney, 65, was seen sharing a light moment with Fonda, 88, as he showed her something on his personal phone. The on-set sighting offers fans their first glimpse into the highly anticipated production."
+        ]
+      },
+      {
+        "h": "Literary Origins and Creative Team",
+        "p": [
+          "The feature film is directed by filmmaker Paul Weitz. The narrative is adapted from the acclaimed biographical memoir titled In Love: A Memoir of Love and Loss, written by author Amy Bloom.",
+          "Bloom, who previously worked as a Yale scholar, also co-wrote the screenplay for the movie adaptation. Supporters of the project note that her written work focuses heavily on themes of autonomy, intimacy, and truth-telling regarding the right to face mortality without shame."
+        ]
+      },
+      {
+        "h": "Plot and Character Roles",
+        "p": [
+          "The story centers on a Connecticut couple: author Amy Bloom and her husband Brian Ameche, who is an architect. Ameche receives a devastating diagnosis of early-onset Alzheimer's disease while in his mid-sixties.",
+          "Rather than endure the progressive mental decline, Ameche chooses to seek out the Swiss assisted dying clinic Dignitas to end his life on his own terms. George Clooney stars as Brian Ameche, Annette Bening portrays Amy Bloom, and Jane Fonda plays Brian's mother Yvonne, who supports their difficult choice."
+        ]
+      },
+      {
+        "h": "Controversy and Medical Backlash",
+        "p": [
+          "Despite anticipation for the star-studded drama, the subject matter has sparked intense ethical debate and criticism. A family physician from Ontario, Canada, named Dr. Ramona Coelho, strongly blasted the project in an interview.",
+          "Dr. Coelho, who spent years caring for her own father through his terminal dementia, argued that the film is dangerous and irresponsible. She claimed that turning assisted suicide into a Hollywood romance risks romanticizing death and could trigger a suicide contagion among vulnerable individuals."
+        ]
+      },
+      {
+        "h": "Counter-Perspectives and Production Stance",
+        "p": [
+          "In response to the ethical concerns raised by medical professionals, defenders of the film emphasize that the project aims to portray a genuine couple's personal journey with deep honesty and love rather than promote self-harm.",
+          "Insiders close to the production have noted that George Clooney has a long-standing history of supporting cinematic projects that tackle complex moral dilemmas. Representatives connected to the film have indicated that the sensitive topic will be handled with utmost care and without sensationalism."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "George Clooney and Jane Fonda were seen filming the upcoming movie In Love in New Jersey. Based on Amy Bloom's memoir about a couple facing early-onset Alzheimer's, the production has drawn both anticipation for its stellar cast and fierce criticism from medical experts over its depiction of assisted dying."
+        ]
+      }
+    ],
+    "facts": [
+      "George Clooney is 65 years old.",
+      "Jane Fonda is 88 years old.",
+      "The film In Love is directed by Paul Weitz.",
+      "The movie is based on Amy Bloom's memoir In Love: A Memoir of Love and Loss.",
+      "Dr. Ramona Coelho is a family physician from Ontario, Canada."
+    ],
+    "entities": {
+      "people": [
+        "George Clooney",
+        "Jane Fonda",
+        "Paul Weitz",
+        "Amy Bloom",
+        "Brian Ameche",
+        "Annette Bening",
+        "Yvonne",
+        "Dr. Ramona Coelho"
+      ],
+      "titles": [
+        "In Love",
+        "In Love: A Memoir of Love and Loss"
+      ]
+    },
+    "keywords": [
+      "George Clooney In Love movie",
+      "Jane Fonda In Love New Jersey",
+      "In Love Amy Bloom memoir film",
+      "Paul Weitz In Love movie"
+    ],
+    "images": [],
+    "published": "2026-11-22T08:53:08Z"
   }
 };
