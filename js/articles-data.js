@@ -217854,5 +217854,404 @@ window.FA_ARTICLES = {
     ],
     "images": [],
     "published": "Sun, 22 Nov 2026 00:26:00 EST"
+  },
+  "7cf4t": {
+    "id": "7cf4t",
+    "type": "news",
+    "headline": "OM Ending Explained: Decoding the Fate of Dhanush, Mammootty, and the Red Sandalwood Ring",
+    "dek": "An in-depth breakdown of Rajkumar Periasamy's Tamil drama OM, exploring undercover operations, police brutality, and the climactic twists surrounding its main characters.",
+    "body": [
+      {
+        "h": "Introduction to the Tamil Drama",
+        "p": [
+          "Rajkumar Periasamy's directorial venture titled OM brings together a prominent ensemble cast featuring Dhanush, Mammootty, Sai Pallavi, and Sreeleela. Positioned as a major Tamil drama, the narrative takes inspiration from authentic incidents of red sandalwood smuggling occurring across Tamil Nadu and Andhra Pradesh. The geographical setting serves as a backdrop for a high-stakes cat-and-mouse game between law enforcement and an underground smuggling network.",
+          "With such renowned names leading the project, the feature generated substantial excitement prior to its release. The storytelling moves beyond conventional action tropes to examine systemic corruption, the human cost of illegal trades, and the moral complexities faced by individuals operating on both sides of the law."
+        ]
+      },
+      {
+        "h": "The Premise and Undercover Mission",
+        "p": [
+          "The plot centers around a specialized task force headed by Nithya Reddy, played by Sai Pallavi, whose primary objective is to capture the mastermind behind a massive red sandalwood smuggling syndicate. This kingpin, known as Abdul Hameed, operates out of Dubai and has managed to keep his physical identity completely concealed from authorities. To reach Hameed, the task force deploys an undercover operative.",
+          "Dhanush steps into the role of Pazhanivel, an operative who assumes the false identity of a photographer named Thirukumaran. His assignment is to infiltrate the inner circle of Karthikeyan, a powerful smuggling figure portrayed by Mammootty. By orchestrating a simulated life-threatening situation and rescuing Karthikeyan, Thirukumaran successfully gains the gang leader's trust and becomes his close aide."
+        ]
+      },
+      {
+        "h": "Exploring Perspectives and Personal Strain",
+        "p": [
+          "While spy thrillers typically focus strictly on tactical procedures and betrayal, director Periasamy adopts a multi-perspective approach. The film highlights how an undercover officer begins to reevaluate the justice system after interacting with Karthikeyan, a man driven into criminal enterprises by difficult life circumstances. Furthermore, the narrative portrays a female commander handling a major investigation without resorting to cruelty.",
+          "On the domestic front, Thirukumaran's professional obligations create immense friction in his personal life. His true profession remains a secret from his wife Roja, played by Sreeleela, pushing their marriage to the verge of dissolution and shedding light on the psychological burdens carried by intelligence personnel."
+        ]
+      },
+      {
+        "h": "Moral Dilemmas and Police Brutality",
+        "p": [
+          "As Thirukumaran gathers intelligence and feeds it to the special task force, he develops a nuanced understanding of Karthikeyan's character, recognizing his innate kindness towards others. Karthikeyan even confides that he intends to quit the illicit trade following one final shipment of red sandalwood. These developments cause internal conflict for the undercover agent, who briefly attempts to persuade his superiors to show leniency.",
+          "A critical turning point occurs when Thirukumaran loses his father, played by Indrans, during a staged police encounter on the exact night the task force ambushes Karthikeyan's network. This tragedy uncovers a darker reality where impoverished tribal individuals are wrongfully eliminated in fake encounters and labeled as smugglers by corrupt elements within the police force. Thirukumaran reports this brutality to Nithya Reddy, prompting her to demand an independent inquiry."
+        ]
+      },
+      {
+        "h": "The Climax and Legal Proceedings",
+        "p": [
+          "Despite his sympathies and personal grief, Thirukumaran remains committed to his duty, supplying the crucial intelligence that allows Nithya Reddy's team to finally apprehend Karthikeyan. During subsequent court proceedings, Thirukumaran testifies against the gang leader via a remote audio call while keeping his identity hidden. However, the court demands his physical presence, leading to a poignant revelation where Karthikeyan discovers that his most trusted confidant was the informant all along.",
+          "With Karthikeyan taken into custody, the authorities also succeed in capturing Abdul Hameed, bringing him to India for imprisonment. To secure a reduced sentence, Karthikeyan agrees to testify as a government witness against Hameed. In retaliation, Hameed attempts to orchestrate an attack on Karthikeyan within the prison system, sparking a massive riot where Nithya Reddy risks her life to ensure his safety."
+        ]
+      },
+      {
+        "h": "Resolution and Final Fates",
+        "p": [
+          "The conclusion of the film sees Karthikeyan cleared of major penalties due to his cooperation with the state against Hameed. In the final sequences, Karthikeyan and his spouse are shown uniting with Pazhanivel and Roja, blending their lives into a single extended family circle. The resolution brings together the various narrative threads of duty, betrayal, and unexpected reconciliation.",
+          "The project successfully blends elements of a traditional cat-and-mouse thriller with emotional family dynamics and social commentary. Through the journeys of Thirukumaran, Karthikeyan, and Nithya Reddy, the story provides a comprehensive look at how individuals navigate institutional corruption and personal accountability."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Rajkumar Periasamy's Tamil drama OM details an undercover operation involving an agent who infiltrates a red sandalwood smuggling ring led by Mammootty's character. The film explores moral dilemmas, police corruption, and personal sacrifices before concluding with the arrest of the syndicate leaders and an unexpected reconciliation."
+        ]
+      }
+    ],
+    "facts": [
+      "Rajkumar Periasamy directed OM (Operation Mole).",
+      "The film stars Dhanush, Mammootty, Sai Pallavi, and Sreeleela.",
+      "Dhanush plays Pazhanivel, also known as the undercover photographer Thirukumaran.",
+      "Mammootty plays Karthikeyan.",
+      "Sai Pallavi plays special task force leader Nithya Reddy.",
+      "Sreeleela plays Roja, the wife of Dhanush's character.",
+      "Indrans plays the father of Dhanush's character.",
+      "Naseeruddin Shah plays Abdul Hameed."
+    ],
+    "entities": {
+      "people": [
+        "Rajkumar Periasamy",
+        "Dhanush",
+        "Mammootty",
+        "Sai Pallavi",
+        "Sreeleela",
+        "Indrans",
+        "Naseeruddin Shah"
+      ],
+      "titles": [
+        "OM",
+        "Operation Mole"
+      ]
+    },
+    "keywords": [
+      "OM Tamil movie",
+      "Dhanush Mammootty OM",
+      "Rajkumar Periasamy film",
+      "OM ending explained"
+    ],
+    "images": [
+      {
+        "url": "https://www.koimoi.com/wp-content/new-galleries/2026/11/om-movie-ending-explained-0001.jpg",
+        "caption": "OM Ending Explained: Decoding the Fate of Dhanush, Mammootty, and the Red Sandalwood Ring",
+        "source": "Koimoi"
+      }
+    ],
+    "published": "Sun, 22 Nov 2026 07:00:17 +0000"
+  },
+  "fk2d18": {
+    "id": "fk2d18",
+    "type": "news",
+    "headline": "Karla Sofía Gascón Addresses Emilia Pérez Oscar Controversy and Trans Rights at IFFI Goa",
+    "dek": "Spanish actor Karla Sofía Gascón opened up about the awards season storm surrounding her historic Oscar nomination, discussing global political regressions, her craft, and her latest projects at the International Film Festival of India.",
+    "body": [
+      {
+        "h": "The Oscar Campaign Storm",
+        "p": [
+          "Spanish actor Karla Sofía Gascón recently addressed the intense public scrutiny and online controversy that shadowed her groundbreaking awards campaign for the film Emilia Pérez. Her acclaimed performance in the movie made history by securing her the distinction of being the first transgender actor ever to land an Academy Award nomination.",
+          "Reflecting on the turbulent period at the International Film Festival of India in Goa, Gascón asserted that the uproar was manufactured by individuals who fundamentally opposed the idea of someone from her community receiving such a major accolade. She noted that old social media posts were weaponized against her despite a complete lack of proof that she ever wrote anything harmful."
+        ]
+      },
+      {
+        "h": "Navigating Political Pressures in Cinema",
+        "p": [
+          "The actor described the grueling multi-month awards push as a draining ordeal complicated by various political interests trying to sway outcomes. She emphasized that artists should be allowed to focus purely on their work and let audiences form their own opinions rather than being utilized for political or economic agendas.",
+          "In Gascón's view, cinema carries a vital social responsibility to showcase the best of humanity, balancing art with business. When political motives and public talent are unnecessarily mixed together, she believes it dilutes the core purpose of acting, which relies on breathing life into characters and provoking deep thought."
+        ]
+      },
+      {
+        "h": "A Global Regression in Trans Rights",
+        "p": [
+          "Beyond the film industry, Gascón spoke candidly about the broader societal challenges facing sexual diversity today. She pointed out that the world is currently experiencing a concerning regression when it comes to the rights and protections afforded to transgender individuals.",
+          "According to the actor, shifting global political climates continue to stack the odds against marginalized groups, particularly trans people who are frequently treated as the lowest tier of society worldwide. She clarified that her perspective on the opposition she faced during awards season serves as an explanation of systemic bias rather than an excuse."
+        ]
+      },
+      {
+        "h": "Milestones and Career Shifts After Emilia Pérez",
+        "p": [
+          "Directed by Jacques Audiard, Emilia Pérez earned Gascón best actress accolades at the Cannes Film Festival, the European Film Awards, and the Lumiere Awards, alongside prestigious nominations at the Golden Globes and BAFTAs. She praised Audiard as the finest director she has collaborated with, crediting him with granting actors true creative freedom on set.",
+          "Looking at how her professional life has transformed since the film's success, Gascón highlighted a very practical perk: she no longer has to go through the audition process. Having started her journey in acting at age 16 and accumulated over three decades of experience, she has since expanded her horizons by working on international projects like the Italian feature Scuola di Seduzione."
+        ]
+      },
+      {
+        "h": "Embracing Cross-Cultural Projects",
+        "p": [
+          "Gascón also discussed her upcoming slate, including Las Malas, an adaptation of Camila Sosa Villada's novel directed by Armando Bo. In the film, she portrays Tia Encarna, a role she counts among the most rewarding of her entire career following a four-month shoot across Argentina and Uruguay.",
+          "Working across multiple languages, cultures, and nations is something the actor deeply cherishes. She believes international collaborations enrich her both as a human being and as a professional, fostering a deeper empathy and understanding of diverse human experiences."
+        ]
+      },
+      {
+        "h": "Bringing Trinidad to Life",
+        "p": [
+          "While attending the festival in Goa, where she was honored by India's Ministry of Information and Broadcasting secretary Chanchal Kumar, Gascón discussed her world-premiering Spanish Western, Trinidad. In the 19th-century tale, she plays the villainous role of a gun-wielding outlaw confined to a wheelchair.",
+          "Initially expecting a traditional action role involving horses and firearms, she quickly discovered her character had no physical mobility. Rather than being disappointed, she viewed the physical limitation as a unique opportunity to explore a different perspective of human vulnerability, building the character's voice from a soft and calm register outward."
+        ]
+      },
+      {
+        "h": "Deep Affection for Indian Cinema",
+        "p": [
+          "During her festival masterclass, Gascón shared her long-standing admiration for Indian cinema and culture, recalling how deeply she was moved by Deepa Mehta's film Water at a Madrid screening years ago. She also named acclaimed Indian musician A.R. Rahman as her favorite composer.",
+          "Drawing comparisons between the high-emotion performance styles found in Mexican telenovelas and Indian cinema, she argued that heightened theatricality and genuine emotional truth can easily coexist. She expressed a desire for filmmakers to look past restrictive casting labels like nationality or gender and trust an actor's true range."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Spanish actor Karla Sofía Gascón stated at the International Film Festival of India that the controversy surrounding her Oscar campaign for Emilia Pérez stemmed from individuals resistant to a transgender woman winning a major award. During her festival appearance, she also discussed the broader regression of trans rights globally, reflected on her extensive three-decade acting career, and introduced her latest starring role in the Western film Trinidad."
+        ]
+      }
+    ],
+    "facts": [
+      "Karla Sofia Gascon is a Spanish actor.",
+      "Karla Sofia Gascon made history as the first transgender actor to land an Oscar nomination.",
+      "Emilia Perez was directed by Jacques Audiard.",
+      "Gascon won best actress for Emilia Perez at the Cannes Film Festival, European Film Awards, and Lumiere Awards.",
+      "Gascon received Golden Globe and BAFTA nominations for Emilia Perez.",
+      "Gascon began her acting career at 16 and has more than 30 years of experience.",
+      "Gascon starred in the Italian film Scuola di Seduzione.",
+      "Gascon's Spanish Western Trinidad world premiered at the International Film Festival of India in Goa.",
+      "Gascon was honored at the festival by Chanchal Kumar, secretary of India's Ministry of Information and Broadcasting.",
+      "Las Malas is Armando Bo's adaptation of Camila Sosa Villada's novel, starring Gascon as Tia Encarna."
+    ],
+    "entities": {
+      "people": [
+        "Karla Sofia Gascon",
+        "Jacques Audiard",
+        "Armando Bo",
+        "Camila Sosa Villada",
+        "Chanchal Kumar",
+        "Deepa Mehta",
+        "A.R. Rahman"
+      ],
+      "titles": [
+        "Emilia Perez",
+        "Trinidad",
+        "Scuola di Seduzione",
+        "Las Malas",
+        "Water"
+      ]
+    },
+    "keywords": [
+      "Karla Sofia Gascon Emilia Perez",
+      "Karla Sofia Gascon Oscar controversy",
+      "Emilia Perez trans rights",
+      "Karla Sofia Gascon Trinidad IFFI Goa"
+    ],
+    "images": [
+      {
+        "url": "https://variety.com/wp-content/uploads/2026/11/Karla-Sofia-Gascon.jpg?w=1000&#038;h=563&#038;crop=1",
+        "caption": "Karla Sofía Gascón Addresses Emilia Pérez Oscar Controversy and Trans Rights at IFFI Goa",
+        "source": "Variety"
+      }
+    ],
+    "published": "Sun, 22 Nov 2026 07:39:54 +0000"
+  },
+  "1xe867l": {
+    "id": "1xe867l",
+    "type": "news",
+    "headline": "Kichcha Sudeep Sets November 27 for Title Teaser Launch of Upcoming Film with Director Prem",
+    "dek": "Kannada star Kichcha Sudeep reveals that the title and teaser for his much-anticipated collaboration with director Prem will debut in Bengaluru on November 27.",
+    "body": [
+      {
+        "h": "Announcement of the Title Teaser",
+        "p": [
+          "Kannada cinema star Kichcha Sudeep is preparing for the official unveiling of his next major cinematic venture alongside director Prem. The lead actor recently took to social media to share a major update regarding the project, informing fans that both the official title and the introductory teaser will be revealed on Friday, November 27.",
+          "The actor posted an update via his Instagram Stories, generating significant curiosity among followers by providing specific details about the impending launch event. The announcement marks a major milestone in the pre-release promotional campaign for the highly awaited movie."
+        ]
+      },
+      {
+        "h": "Teaser Poster Clues and Venue",
+        "p": [
+          "Accompanying the date announcement, the shared promotional poster featured intriguing imagery, displaying a dark-covered Indian passport resting on a wooden surface alongside red heart-shaped sunglasses. This stylized visual tease offered little narrative context but successfully piqued audience interest.",
+          "The physical launch event is officially scheduled to take place at Orion Mall in Bengaluru, starting at 6 pm. Prior to the Instagram post, the actor had also dropped a short hint on X, simply telling his followers that the title teaser announcement date was arriving soon."
+        ]
+      },
+      {
+        "h": "Keeping Details Under Wraps",
+        "p": [
+          "Despite the excitement surrounding the upcoming November 27 event, the makers have intentionally kept major plot elements and production details tightly under wraps. Neither the official title nor any concrete information regarding the full supporting cast and crew has been shared with the public yet.",
+          "Fans and industry analysts are eagerly awaiting the upcoming launch event at Orion Mall to finally discover what title the actor and director have chosen for their ambitious collaborative project."
+        ]
+      },
+      {
+        "h": "Collaboration History Between Sudeep and Prem",
+        "p": [
+          "This upcoming venture represents the second major cinematic collaboration between actor Kichcha Sudeep and director Prem. Their previous joint endeavor brought together powerhouse leading men, uniting Sudeep and Shiva Rajkumar in prominent lead roles for a memorable Kannada film.",
+          "That earlier project featured a sprawling cast including Amy Jackson, Mithun Chakraborty, Srikanth, and Saranya Ponvannan, with music composed by Arjun Janya. Furthermore, Sudeep recently made a special cameo appearance in Prem's action film 'KD: The Devil', which featured Dhruva Sarja in the lead."
+        ]
+      },
+      {
+        "h": "Sudeep's Busy Lineup of Future Projects",
+        "p": [
+          "Beyond his ongoing collaboration with director Prem, Kichcha Sudeep has several other high-profile cinematic commitments currently in development. He is slated to work alongside director Anup Bhandari on an epic film titled 'Billa Ranga Baasha'.",
+          "Additionally, the actor is attached to 'Devaraaya', a historical period film that was officially announced on his birthday last September. Aside from his silver screen commitments, Sudeep continues his television work as the host of Bigg Boss Kannada Season 13."
+        ]
+      },
+      {
+        "h": "Personal Milestones and Recent Celebrations",
+        "p": [
+          "Away from his busy professional schedule on film sets and television stages, Sudeep recently observed a major personal milestone. Last month, the actor and his wife Priya celebrated twenty-five years of marriage after tying the knot on October 18, 2001.",
+          "The silver jubilee anniversary was marked by an intimate ceremony held at their Bengaluru residence, where the couple exchanged garlands in the presence of close family members and friends, with video footage of the celebration later emerging online."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Kannada actor Kichcha Sudeep has announced that the title and teaser for his upcoming film with director Prem will be launched at Orion Mall in Bengaluru on November 27. The project marks their second major collaboration following previous work together and a cameo in 'KD: The Devil'. Alongside this announcement, Sudeep maintains a busy slate including other upcoming films and his television hosting duties."
+        ]
+      }
+    ],
+    "facts": [
+      "Kichcha Sudeep is collaborating with director Prem on an upcoming film.",
+      "The title and teaser launch is scheduled for November 27, 2026.",
+      "The launch event will be held at Orion Mall in Bengaluru at 6 pm.",
+      "The film marks the second collaboration between Sudeep and Prem.",
+      "Sudeep made a cameo appearance in Prem's 2026 action film 'KD: The Devil'.",
+      "Sudeep's upcoming films include 'Billa Ranga Baasha' with Anup Bhandari and the period film 'Devaraaya'.",
+      "Sudeep hosts Bigg Boss Kannada Season 13.",
+      "Sudeep and his wife Priya celebrated 25 years of marriage, having tied the knot on October 18, 2001."
+    ],
+    "entities": {
+      "people": [
+        "Kichcha Sudeep",
+        "Prem",
+        "Shiva Rajkumar",
+        "Amy Jackson",
+        "Mithun Chakraborty",
+        "Srikanth",
+        "Saranya Ponvannan",
+        "Arjun Janya",
+        "Dhruva Sarja",
+        "Anup Bhandari",
+        "Priya"
+      ],
+      "titles": [
+        "KD: The Devil",
+        "Billa Ranga Baasha",
+        "Devaraaya",
+        "Bigg Boss Kannada"
+      ]
+    },
+    "keywords": [
+      "Kichcha Sudeep Prem film",
+      "Kichcha Sudeep title teaser launch",
+      "Kichcha Sudeep upcoming movie Bengaluru",
+      "Prem director Kannada movie"
+    ],
+    "images": [
+      {
+        "url": "https://static.toiimg.com/thumb/msid-136069420,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "caption": "Kichcha Sudeep Sets November 27 for Title Teaser Launch of Upcoming Film with Director Prem",
+        "source": "Times of India — Entertainment"
+      }
+    ],
+    "published": "2026-11-22T12:40:17+05:30"
+  },
+  "9mhdlw": {
+    "id": "9mhdlw",
+    "type": "news",
+    "headline": "BBC Transforms Classic Agatha Christie Mystery into a Fresh, Riveting Crime Drama",
+    "dek": "John Malkovich takes on the role of an aging Hercule Poirot in a stylish adaptation of The ABC Murders, captivating audiences with its fresh take on a beloved classic.",
+    "body": [
+      {
+        "h": "A Fresh Take on a Timeless Detective",
+        "p": [
+          "The BBC has adapted a classic Agatha Christie novel into a crime drama that has drawn high praise from viewers and critics alike. Featuring John Malkovich as a seasoned and sidelined Hercule Poirot, the production reimagines the legendary detective as he grapples with a deeply disturbing series of crimes.",
+          "Instead of the traditional portrayal, this version presents an older Poirot facing a decline in his career. The series breathes new life into the well-known narrative by giving the iconic character a different background story while retaining the suspense of the original whodunnit."
+        ]
+      },
+      {
+        "h": "The Alphabetical Killer",
+        "p": [
+          "Set in 1933 Britain, the plot kicks off when Poirot begins receiving mocking, unsigned correspondence signed simply \"A.B.C.\". The perpetrator embarks on a systematic killing spree, eliminating targets in alphabetical order.",
+          "To add a taunting layer to the mystery, the killer leaves an ABC Railway Guide beside the body of every victim. This chilling motif forces Poirot to race against time to figure out who is targeted next and uncover the motive behind the structured bloodshed."
+        ]
+      },
+      {
+        "h": "An All-Star Supporting Cast",
+        "p": [
+          "Alongside John Malkovich's commanding lead performance, the drama boasts a talented ensemble cast. Rupert Grint steps into the shoes of Inspector Crome, working within the tense atmosphere of the investigation.",
+          "The supporting roster also includes Eamon Farren, Andrew Buchan, and Shirley Henderson. Together, these actors portray a mix of cold-hearted villains and pleasant souls who interact seamlessly with Poirot as the dark plot unfolds."
+        ]
+      },
+      {
+        "h": "Creative Direction and Production Values",
+        "p": [
+          "The adaptation was helmed by director Alex Gabassi and written by Agatha Christie veteran Sarah Phelps. Reviewers have lauded the production for its artistic and stylish direction, noting that it manages to feel both fresh and intellectual.",
+          "Viewers have also singled out the brilliant set design, wardrobe, and musical score for praise. The production relies on traditional cinematic craftsmanship without relying on heavy computer enhancements or Hollywood gimmicks."
+        ]
+      },
+      {
+        "h": "Audience Reception and Critical Acclaim",
+        "p": [
+          "Audiences have taken to review platforms to share their enthusiasm for the miniseries, describing it as gripping, thought-provoking, and witty. One IMDb reviewer praised the artistic direction and Malkovich's conviction in the role, noting that every minute of the three-hour runtime was thoroughly enjoyable.",
+          "Another viewer commended the intelligent exploration of themes like ego, gender roles, politics, and the friction between experience and ambition. The psychological depth and focus on detail have resonated strongly with fans of mystery adaptations."
+        ]
+      },
+      {
+        "h": "Embracing Creative Liberties",
+        "p": [
+          "While some purists might prefer strictly traditional adaptations, reviewers have defended the creative changes made to Christie's source material. Supporters point out that screenwriters benefit from having the freedom to alter elements to create something new and engaging.",
+          "Comparisons have even been drawn to earlier cinematic treatments like the 1972 adaptation of Murder on the Orient Express, which also departed from the strict text of the novel to deliver a compelling screen experience."
+        ]
+      },
+      {
+        "h": "Streaming Availability",
+        "p": [
+          "For fans eager to dive into the mystery or rewatch the suspenseful narrative, the entire series is accessible for streaming. Viewers in the UK can watch the production in its entirety on BBC iPlayer."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "The BBC has adapted Agatha Christie's The ABC Murders into a crime drama starring John Malkovich as an older Hercule Poirot. Featuring a supporting cast including Rupert Grint, the series has earned praise from viewers for its stylish direction and fresh take on the classic mystery."
+        ]
+      }
+    ],
+    "facts": [
+      "The BBC crime drama stars John Malkovich as Hercule Poirot.",
+      "Rupert Grint stars as Inspector Crome in the series.",
+      "The cast also includes Eamon Farren, Andrew Buchan, and Shirley Henderson.",
+      "The series was directed by Alex Gabassi and written by Sarah Phelps.",
+      "The story is set in 1933 Britain.",
+      "The ABC Murders is available to stream on BBC iPlayer."
+    ],
+    "entities": {
+      "people": [
+        "John Malkovich",
+        "Rupert Grint",
+        "Eamon Farren",
+        "Andrew Buchan",
+        "Shirley Henderson",
+        "Alex Gabassi",
+        "Sarah Phelps",
+        "Agatha Christie",
+        "Hercule Poirot",
+        "Inspector Crome"
+      ],
+      "titles": [
+        "The ABC Murders",
+        "Murder on the Orient Express"
+      ]
+    },
+    "keywords": [
+      "The ABC Murders",
+      "John Malkovich Poirot",
+      "BBC Agatha Christie drama",
+      "Rupert Grint Inspector Crome"
+    ],
+    "images": [],
+    "published": "Sun, 22 Nov 2026 07:00:00 +0000"
   }
 };
