@@ -663,6 +663,15 @@
       "source": "overseas-backfill"
     }
   ],
+  "1381071": [
+    {
+      "date": "2026-11-06",
+      "day": 1,
+      "occupancy_pct": 19.2,
+      "shows": 726,
+      "source": "overseas-backfill"
+    }
+  ],
   "1389379": [
     {
       "date": "2026-10-16",
@@ -1814,6 +1823,14 @@
       "occupancy_pct": 18.2,
       "overseas_inr_cr": 8.0,
       "shows": 15497,
+      "source": "overseas-backfill"
+    },
+    {
+      "date": "2026-11-21",
+      "day": 17,
+      "occupancy_pct": 29.7,
+      "overseas_inr_cr": 10.0,
+      "shows": 15851,
       "source": "overseas-backfill"
     }
   ],

@@ -8619,6 +8619,26 @@
         }
       }
     },
+    "1381071": {
+      "1": {
+        "date": "2026-11-06",
+        "extras": {
+          "occupancy": {
+            "sources": {
+              "overseas-backfill": 19.2
+            },
+            "value": 19.2
+          },
+          "shows": {
+            "sources": {
+              "overseas-backfill": 726
+            },
+            "value": 726
+          }
+        },
+        "india": false
+      }
+    },
     "1389379": {
       "1": {
         "ai_first": false,
@@ -22266,6 +22286,35 @@
               "overseas-backfill": 15497
             },
             "value": 15497
+          }
+        },
+        "india": false
+      },
+      "17": {
+        "date": "2026-11-21",
+        "extras": {
+          "occupancy": {
+            "sources": {
+              "overseas-backfill": 29.7
+            },
+            "value": 29.7
+          },
+          "overseas": {
+            "crore": 10.0,
+            "currency": "USD",
+            "date": "2026-11-21",
+            "date_disagreed": false,
+            "scope": "overseas_gross",
+            "sources": {
+              "overseas-backfill": 10.0
+            },
+            "value": 1056524
+          },
+          "shows": {
+            "sources": {
+              "overseas-backfill": 15851
+            },
+            "value": 15851
           }
         },
         "india": false

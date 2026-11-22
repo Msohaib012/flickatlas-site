@@ -4,45 +4,6 @@
    {
     "step": "fetch",
     "category": "Trending News",
-    "run_at": "2026-11-21T02:51:45Z",
-    "run_id": "44858040629",
-    "status": "success",
-    "checked": {
-     "candidates": 297,
-     "detail": "RSS/Atom items across 137 sources; 4 source(s) errored"
-    },
-    "changed": {
-     "added": [
-      "Dadasaheb Phalke International Film Festival Awards 2026 Winners List: Ranveer Singh, Taylor Swift Win Big",
-      "Anupam Kher denies Rs 400-500 crore net worth claims;",
-      "'ENE Repeat' BO day 2: Vishwak Sen's film sees 47% drop",
-      "Anil Kapoor meets French President Emmanuel Macron: PICS",
-      "Jackie Shroff recalls Danny Denzongpa praising Tiger Shroff's voice",
-      "'Bachelor Party D'eux' BO day 2",
-      "Miley Cyrus to marry Maxx Morando this weekend: Reports",
-      "Robert Pattinson reacts humbly as he gets a round of applause at The Odyssey screening for being cast as James Bond; Tom Holland cheers",
-      "Interview | European Union Film Festival curator Artur Zaborski hopes to create a mutual exchange with India: ‘We want to build bridges’",
-      "Charlie Jeer on India tour, Punjabi roots and working with Arjun Kanungo and Simone Ashley and why he is playing the long game | Interview",
-      "Exclusive | ENHYPEN on THE SIN finale, six years of music and a taste of India",
-      "Someone Made Obsession Look Like A Disney Channel Movie, And Why Does This Fit SO Well?",
-      "Guy Ritchie’s Latest Crime Thriller Officially Loses No. 1 Streaming Spot",
-      "Apple TV's 10/10 Spy Thriller Just Made a Totally Ambitious Move",
-      "3 Ways Robert Pattinson Makes Sense as James Bond and 1 Way He Doesn't",
-      "Taylor Sheridan’s 10/10 Crime Thriller Officially Surges Ahead of New Spin-Off",
-      "Netflix Officially Finds Its Next No. 1 Series in New Psychological Thriller",
-      "Every Hunger Games Book, Ranked",
-      "A Legendary Pokémon Is Officially Returning for Only 3 Hours",
-      "'The Bear’s 6-Season Replacement Officially Finds a Home on Netflix"
-     ],
-     "updated": [],
-     "count": 280,
-     "detail": "286 stories, 0 duplicates removed, 11 dropped"
-    },
-    "reason": null
-   },
-   {
-    "step": "fetch",
-    "category": "Trending News",
     "run_at": "2026-11-21T03:51:09Z",
     "run_id": "44863145471",
     "status": "success",
@@ -936,32 +897,48 @@
      "detail": "242 stories, 7 duplicates removed, 105 dropped"
     },
     "reason": null
-   }
-  ],
-  "apply_auto": [
+   },
    {
-    "step": "apply_auto",
+    "step": "fetch",
     "category": "Trending News",
-    "run_at": "2026-11-21T02:52:10Z",
-    "run_id": "44858040629",
+    "run_at": "2026-11-22T01:51:09Z",
+    "run_id": "44973321901",
     "status": "success",
     "checked": {
-     "candidates": 15,
-     "detail": "draft articles + box-office rows from out/gemini-batch.json"
+     "candidates": 236,
+     "detail": "RSS/Atom items across 137 sources; 0 source(s) errored"
     },
     "changed": {
      "added": [
-      "Anil Kapoor Discusses Art and Cinema with French President Emmanuel Macron in Paris",
-      "Grand Theft Auto VI Shatters Entertainment Records With Massive Day-One Sales",
-      "ENE Repeat Day 2 Box Office Collection: Vishwak Sen Film Sees 47% Drop and Reaches Rs 19.40 Crore Worldwide",
-      "Squid Game Creator Hwang Dong-hyuk Hopes to Revisit the Franchise, but Netflix Holds the IP Rights"
+      "'O.M: Operation Mole' BO day 2: Dhanush film trails 'Amaran'",
+      "shah rukh khan ex bodyguard yaseen khan travelled private jets stayed five star hotels 8 passports sachin tendulkar yuvraj singh tmovb 2702375 2026 11 21",
+      "diljit dosanjh ahmedabad narendra modi stadium calls out double standards over concert complaints tmovg dskc 2702524 2026 11 21",
+      "taarak mehta rita reporter aka ramsha farooqui participated in roadies rebirth fitness transformation emotional tmovh dskc 2702316 2026 11 21",
+      "sachin tendulkar daughter sara tendulkar arjun wife saaniya chandhok look fashion mumbai mmtc 2702363 2026 11 21",
+      "samantha ruth prabhu raj nidimoru welcomes baby boy sheetal nidimoru temple dargah church mmtc 2702477 2026 11 21",
+      "tv actress ankita lokhande vicky jain farm house inside photos mumbai apartment flat school mmtc 2702485 2026 11 22",
+      "after robert pattinson announcement uk pinewood studios bids to return as home of james bond article 156547389",
+      "ranveer singhs nostalgic sachin tendulkar tribute steals the show at global peace honours 2026 we wanted you at the crease article 156547793",
+      "shah rukh khan thanks vikrant massey after he helps king actor adjust his outfit at global peace honours 2026 watch article 156547791",
+      "vijay prakash on working with ar rahman for swades song and being offered another track who am i to say no exclusive article 156547048",
+      "bts jin wants female fans boyfriend to become army heres why article 156547622",
+      "anirudh ravichander kavya maran wedding pm modi extends wishes to newly married couple ahead of chennai reception article 156547135",
+      "filmmaker prakash belawadi questions bengalurus infrastructure plans city is planning only for people in cars exclusive article 156547501",
+      "national award winning filmmaker prakash belawadi calls karnatakas economic disparity cruel exclusive article 156546171",
+      "ramya explains why cm vijay won 2026 tamil nadu polls he resonates with people exclusive article 156547231",
+      "ramya recalls father death days before contesting elections in 2013 didnt get time to grieve exclusive article 156547066",
+      "bigg boss 20 episode 77 highlights salman khan exposes scoutop mahhi vij supports yung dsa article 156547731",
+      "dheeraj dhoopar wife vinny arora confirms second pregnancy flaunts baby bump in cute announcement video article 156547274",
+      "congress mp claims siraj dropped due to religion video 156547608"
      ],
      "updated": [],
-     "count": 8,
-     "detail": "+4 articles, +1 box-office rows, 3 rows updated"
+     "count": 216,
+     "detail": "236 stories, 0 duplicates removed, 0 dropped"
     },
     "reason": null
-   },
+   }
+  ],
+  "apply_auto": [
    {
     "step": "apply_auto",
     "category": "Trending News",
@@ -1485,27 +1462,32 @@
      "detail": "+4 articles, +0 box-office rows, 4 rows updated"
     },
     "reason": null
+   },
+   {
+    "step": "apply_auto",
+    "category": "Trending News",
+    "run_at": "2026-11-22T01:51:50Z",
+    "run_id": "44973321901",
+    "status": "success",
+    "checked": {
+     "candidates": 15,
+     "detail": "draft articles + box-office rows from out/gemini-batch.json"
+    },
+    "changed": {
+     "added": [
+      "Ranveer Singh Delivers Heartfelt Tribute to Sachin Tendulkar at Global Peace Honours 2026",
+      "Son Suk Ku and Nagayama Eita's 'The Blue Road' Reaches No. 1 on Netflix Korea",
+      "Exploring Eleven K-Dramas Showcasing Unflinching and Brilliant Female Medical Professionals",
+      "O.M: Operation Mole Box Office Collection Day 2: Dhanush and Mammootty Starrer Reaches Rs 60.90 Crore Worldwide"
+     ],
+     "updated": [],
+     "count": 8,
+     "detail": "+4 articles, +1 box-office rows, 3 rows updated"
+    },
+    "reason": null
    }
   ],
   "ott": [
-   {
-    "step": "ott",
-    "category": "OTT",
-    "run_at": "2026-11-21T03:51:57Z",
-    "run_id": "44863145471",
-    "status": "success",
-    "checked": {
-     "candidates": 401,
-     "detail": "OTT now/coming titles from the published catalogue"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 0,
-     "detail": "now 394, coming 7"
-    },
-    "reason": "no-new-data"
-   },
    {
     "step": "ott",
     "category": "OTT",
@@ -1919,26 +1901,27 @@
      "detail": "now 399, coming 7"
     },
     "reason": "no-new-data"
-   }
-  ],
-  "trending_weekly": [
+   },
    {
-    "step": "trending_weekly",
-    "category": "Trending Topics",
-    "run_at": "2026-11-21T02:58:29Z",
-    "run_id": "44858040629",
+    "step": "ott",
+    "category": "OTT",
+    "run_at": "2026-11-22T01:51:50Z",
+    "run_id": "44973321901",
     "status": "success",
     "checked": {
-     "candidates": 100,
-     "detail": "cached Google RSS trend/article intersection"
+     "candidates": 406,
+     "detail": "OTT now/coming titles from the published catalogue"
     },
     "changed": {
      "added": [],
      "updated": [],
-     "count": 0
+     "count": 0,
+     "detail": "now 399, coming 7"
     },
     "reason": "no-new-data"
-   },
+   }
+  ],
+  "trending_weekly": [
    {
     "step": "trending_weekly",
     "category": "Trending Topics",
@@ -2385,27 +2368,35 @@
      "count": 0
     },
     "reason": "no-new-data"
+   },
+   {
+    "step": "trending_weekly",
+    "category": "Trending Topics",
+    "run_at": "2026-11-22T02:00:57Z",
+    "run_id": "44973321901",
+    "status": "success",
+    "checked": {
+     "candidates": 100,
+     "detail": "cached Google RSS trend/article intersection"
+    },
+    "changed": {
+     "added": [
+      "15yyusi",
+      "f1k4cc",
+      "1k2du0i",
+      "1xz05pp",
+      "1hm03s4",
+      "blqm9a",
+      "ra7yhy",
+      "1m1b6w1"
+     ],
+     "updated": [],
+     "count": 8
+    },
+    "reason": null
    }
   ],
   "multisource_boxoffice": [
-   {
-    "step": "multisource_boxoffice",
-    "category": "Box Office",
-    "run_at": "2026-11-21T02:58:27Z",
-    "run_id": "44858040629",
-    "status": "success",
-    "checked": {
-     "candidates": 731,
-     "detail": "674 collected staging rows from readers; 250 averaged across 2+ sources"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 3,
-     "detail": "+0 new rows, 3 updated rows, 700 unchanged"
-    },
-    "reason": null
-   },
    {
     "step": "multisource_boxoffice",
     "category": "Box Office",
@@ -2819,19 +2810,27 @@
      "detail": "+1 new rows, 5 updated rows, 702 unchanged"
     },
     "reason": null
+   },
+   {
+    "step": "multisource_boxoffice",
+    "category": "Box Office",
+    "run_at": "2026-11-22T02:00:55Z",
+    "run_id": "44973321901",
+    "status": "success",
+    "checked": {
+     "candidates": 739,
+     "detail": "678 collected staging rows from readers; 252 averaged across 2+ sources"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 5,
+     "detail": "+0 new rows, 5 updated rows, 705 unchanged"
+    },
+    "reason": null
    }
   ],
   "gemini_reviews": [
-   {
-    "step": "gemini_reviews",
-    "category": "Reviews",
-    "run_at": "2026-11-21T02:58:39Z",
-    "run_id": "44858040629",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "gemini_reviews",
     "category": "Reviews",
@@ -3068,32 +3067,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "gemini_reviews",
+    "category": "Reviews",
+    "run_at": "2026-11-22T02:01:06Z",
+    "run_id": "44973321901",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "convert_news": [
-   {
-    "step": "convert_news",
-    "category": "Trending News",
-    "run_at": "2026-11-21T02:58:28Z",
-    "run_id": "44858040629",
-    "status": "success",
-    "checked": {
-     "candidates": 600,
-     "detail": "feed entries from out/queue.json"
-    },
-    "changed": {
-     "added": [
-      "Grand Theft Auto VI Shatters Entertainment Records With Massive Day-One Sales",
-      "Squid Game Creator Hwang Dong-hyuk Hopes to Revisit the Franchise, but Netflix Holds the IP Rights",
-      "ENE Repeat Day 2 Box Office Collection: Vishwak Sen Film Sees 47% Drop and Reaches Rs 19.40 Crore Worldwide",
-      "Anil Kapoor Discusses Art and Cinema with French President Emmanuel Macron in Paris"
-     ],
-     "updated": [],
-     "count": 4,
-     "detail": "api-news.json 600 items, api-trends.json 12 items"
-    },
-    "reason": null
-   },
    {
     "step": "convert_news",
     "category": "Trending News",
@@ -3619,19 +3605,32 @@
      "detail": "api-news.json 600 items, api-trends.json 12 items"
     },
     "reason": null
+   },
+   {
+    "step": "convert_news",
+    "category": "Trending News",
+    "run_at": "2026-11-22T02:00:56Z",
+    "run_id": "44973321901",
+    "status": "success",
+    "checked": {
+     "candidates": 600,
+     "detail": "feed entries from out/queue.json"
+    },
+    "changed": {
+     "added": [
+      "Ranveer Singh Delivers Heartfelt Tribute to Sachin Tendulkar at Global Peace Honours 2026",
+      "Son Suk Ku and Nagayama Eita's 'The Blue Road' Reaches No. 1 on Netflix Korea",
+      "Exploring Eleven K-Dramas Showcasing Unflinching and Brilliant Female Medical Professionals",
+      "O.M: Operation Mole Box Office Collection Day 2: Dhanush and Mammootty Starrer Reaches Rs 60.90 Crore Worldwide"
+     ],
+     "updated": [],
+     "count": 4,
+     "detail": "api-news.json 600 items, api-trends.json 12 items"
+    },
+    "reason": null
    }
   ],
   "episode_guides": [
-   {
-    "step": "episode_guides",
-    "category": "Drama Episodes",
-    "run_at": "2026-11-21T02:58:39Z",
-    "run_id": "44858040629",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "episode_guides",
     "category": "Drama Episodes",
@@ -3922,19 +3921,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "title_seed": [
+   },
    {
-    "step": "title_seed",
-    "category": "Spotlight / Coming Soon / Most Awaited",
-    "run_at": "2026-11-21T02:58:39Z",
-    "run_id": "44858040629",
+    "step": "episode_guides",
+    "category": "Drama Episodes",
+    "run_at": "2026-11-22T02:01:06Z",
+    "run_id": "44973321901",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "title_seed": [
    {
     "step": "title_seed",
     "category": "Spotlight / Coming Soon / Most Awaited",
@@ -4255,31 +4254,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "title_seed",
+    "category": "Spotlight / Coming Soon / Most Awaited",
+    "run_at": "2026-11-22T02:01:06Z",
+    "run_id": "44973321901",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "gemini_batch": [
-   {
-    "step": "gemini_batch",
-    "category": "Trending News",
-    "run_at": "2026-11-21T02:52:09Z",
-    "run_id": "44858040629",
-    "status": "success",
-    "checked": {
-     "candidates": 4,
-     "detail": "news queue items drafted this run; 280 still unprocessed; today by category: movies 2/6, tv_dramas 1/4, episodes 0/2, box_office 3/6, celebrities_events 2/5, upcoming_releases 1/4, ott_streaming 0/4, trailers 0/3, awards 2/2, music_ost 0/2, viral 1/2"
-    },
-    "changed": {
-     "added": [
-      "Anil Kapoor Discusses Art and Cinema with French President Emmanuel Macron in Paris",
-      "Grand Theft Auto VI Shatters Entertainment Records With Massive Day-One Sales",
-      "ENE Repeat Day 2 Box Office Collection: Vishwak Sen Film Sees 47% Drop and Reaches Rs 19.40 Crore Worldwide",
-      "Squid Game Creator Hwang Dong-hyuk Hopes to Revisit the Franchise, but Netflix Holds the IP Rights"
-     ],
-     "updated": [],
-     "count": 4
-    },
-    "reason": null
-   },
    {
     "step": "gemini_batch",
     "category": "Trending News",
@@ -4780,19 +4767,31 @@
      "count": 4
     },
     "reason": null
+   },
+   {
+    "step": "gemini_batch",
+    "category": "Trending News",
+    "run_at": "2026-11-22T01:51:49Z",
+    "run_id": "44973321901",
+    "status": "success",
+    "checked": {
+     "candidates": 7,
+     "detail": "news queue items drafted this run; 216 still unprocessed; today by category: movies 0/6, tv_dramas 1/4, episodes 0/2, box_office 2/6, celebrities_events 3/5, upcoming_releases 0/4, ott_streaming 2/4, trailers 0/3, awards 0/2, music_ost 0/2, viral 0/2"
+    },
+    "changed": {
+     "added": [
+      "Ranveer Singh Delivers Heartfelt Tribute to Sachin Tendulkar at Global Peace Honours 2026",
+      "Son Suk Ku and Nagayama Eita's 'The Blue Road' Reaches No. 1 on Netflix Korea",
+      "Exploring Eleven K-Dramas Showcasing Unflinching and Brilliant Female Medical Professionals",
+      "O.M: Operation Mole Box Office Collection Day 2: Dhanush and Mammootty Starrer Reaches Rs 60.90 Crore Worldwide"
+     ],
+     "updated": [],
+     "count": 4
+    },
+    "reason": null
    }
   ],
   "overseas_ai": [
-   {
-    "step": "overseas_ai",
-    "category": "Box Office",
-    "run_at": "2026-11-21T02:58:39Z",
-    "run_id": "44858040629",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "overseas_ai",
     "category": "Box Office",
@@ -5099,24 +5098,26 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "publish": [
+   },
    {
-    "step": "publish",
-    "category": "Trending News",
-    "run_at": "2026-11-21T02:58:39Z",
-    "run_id": "44858040629",
+    "step": "overseas_ai",
+    "category": "Box Office",
+    "run_at": "2026-11-22T01:53:24Z",
+    "run_id": "44973321901",
     "status": "success",
-    "checked": null,
+    "checked": {
+     "candidates": 58,
+     "detail": "published movies with missing overseas day figures; Tavily searches: 48"
+    },
     "changed": {
      "added": [],
      "updated": [],
-     "count": 379,
-     "detail": "lines changed in owned files; no per-item summary from script"
+     "count": 0
     },
-    "reason": null
-   },
+    "reason": "no-new-data"
+   }
+  ],
+  "publish": [
    {
     "step": "publish",
     "category": "Trending News",
@@ -5431,24 +5432,24 @@
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
-   }
-  ],
-  "stats_traffic": [
+   },
    {
-    "step": "stats_traffic",
-    "category": "Stats / Health",
-    "run_at": "2026-11-21T02:58:39Z",
-    "run_id": "44858040629",
+    "step": "publish",
+    "category": "Trending News",
+    "run_at": "2026-11-22T02:01:06Z",
+    "run_id": "44973321901",
     "status": "success",
     "checked": null,
     "changed": {
      "added": [],
      "updated": [],
-     "count": 15,
+     "count": 408,
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
-   },
+   }
+  ],
+  "stats_traffic": [
    {
     "step": "stats_traffic",
     "category": "Stats / Health",
@@ -5753,19 +5754,24 @@
     "checked": null,
     "changed": null,
     "reason": "no-new-data"
+   },
+   {
+    "step": "stats_traffic",
+    "category": "Stats / Health",
+    "run_at": "2026-11-22T02:01:06Z",
+    "run_id": "44973321901",
+    "status": "success",
+    "checked": null,
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 2,
+     "detail": "lines changed in owned files; no per-item summary from script"
+    },
+    "reason": null
    }
   ],
   "stats_pipeline": [
-   {
-    "step": "stats_pipeline",
-    "category": "Stats / Health",
-    "run_at": "2026-11-21T02:58:39Z",
-    "run_id": "44858040629",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "stats_pipeline",
     "category": "Stats / Health",
@@ -6015,19 +6021,19 @@
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
-   }
-  ],
-  "stats_health": [
+   },
    {
-    "step": "stats_health",
+    "step": "stats_pipeline",
     "category": "Stats / Health",
-    "run_at": "2026-11-21T02:58:39Z",
-    "run_id": "44858040629",
+    "run_at": "2026-11-22T02:01:06Z",
+    "run_id": "44973321901",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "stats_health": [
    {
     "step": "stats_health",
     "category": "Stats / Health",
@@ -6262,19 +6268,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "metadata_refresh": [
+   },
    {
-    "step": "metadata_refresh",
-    "category": "Spotlight / Coming Soon / Most Awaited",
-    "run_at": "2026-11-21T02:58:39Z",
-    "run_id": "44858040629",
+    "step": "stats_health",
+    "category": "Stats / Health",
+    "run_at": "2026-11-22T02:01:06Z",
+    "run_id": "44973321901",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "metadata_refresh": [
    {
     "step": "metadata_refresh",
     "category": "Spotlight / Coming Soon / Most Awaited",
@@ -6559,30 +6565,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "metadata_refresh",
+    "category": "Spotlight / Coming Soon / Most Awaited",
+    "run_at": "2026-11-22T02:01:06Z",
+    "run_id": "44973321901",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "providers_backfill": [
-   {
-    "step": "providers_backfill",
-    "category": "OTT",
-    "run_at": "2026-11-21T02:58:22Z",
-    "run_id": "44858040629",
-    "status": "success",
-    "checked": {
-     "candidates": 929,
-     "processed": 929,
-     "succeeded": 929,
-     "failed": 0,
-     "already_have_providers": 274,
-     "detail": "missing-provider titles fetched first, then the --rotate stalest provider-carrying titles; processed counts only upstream requests; zero processed means unchanged check, not a new upstream fetch"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 929
-    },
-    "reason": null
-   },
    {
     "step": "providers_backfill",
     "category": "OTT",
@@ -6808,6 +6803,16 @@
     "category": "OTT",
     "run_at": "2026-11-22T00:55:31Z",
     "run_id": "44968578896",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
+   },
+   {
+    "step": "providers_backfill",
+    "category": "OTT",
+    "run_at": "2026-11-22T02:01:06Z",
+    "run_id": "44973321901",
     "status": "skipped",
     "checked": null,
     "changed": null,
@@ -6818,16 +6823,6 @@
    {
     "step": "tavily_boxoffice",
     "category": "Box Office",
-    "run_at": "2026-11-21T02:58:39Z",
-    "run_id": "44858040629",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
-   {
-    "step": "tavily_boxoffice",
-    "category": "Box Office",
     "run_at": "2026-11-21T04:00:33Z",
     "run_id": "44863145471",
     "status": "success",
@@ -7054,19 +7049,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "tavily_boxoffice",
+    "category": "Box Office",
+    "run_at": "2026-11-22T02:01:06Z",
+    "run_id": "44973321901",
+    "status": "success",
+    "checked": null,
+    "changed": null,
+    "reason": "no-new-data"
    }
   ],
   "keywords_refresh": [
-   {
-    "step": "keywords_refresh",
-    "category": "Trending News",
-    "run_at": "2026-11-21T02:58:39Z",
-    "run_id": "44858040629",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "keywords_refresh",
     "category": "Trending News",
@@ -7319,31 +7314,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "keywords_refresh",
+    "category": "Trending News",
+    "run_at": "2026-11-22T02:01:06Z",
+    "run_id": "44973321901",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "overseas_sweep": [
-   {
-    "step": "overseas_sweep",
-    "category": "Box Office",
-    "run_at": "2026-11-20T01:52:51Z",
-    "run_id": "44656519970",
-    "status": "success",
-    "checked": {
-     "candidates": 585,
-     "detail": "completed day-wise rows missing overseas; quicknews pages fetched: 31; attempt cooldown deferred: 554"
-    },
-    "changed": {
-     "added": [
-      "Ramayana: Rise of a Legend (656908)",
-      "Ranabaali (1389379)",
-      "418 (1606527)",
-      "Nayyi Navelli (1654581)"
-     ],
-     "updated": [],
-     "count": 14
-    },
-    "reason": null
-   },
    {
     "step": "overseas_sweep",
     "category": "Box Office",
@@ -7840,19 +7823,32 @@
      "count": 14
     },
     "reason": null
+   },
+   {
+    "step": "overseas_sweep",
+    "category": "Box Office",
+    "run_at": "2026-11-22T01:52:32Z",
+    "run_id": "44973321901",
+    "status": "success",
+    "checked": {
+     "candidates": 596,
+     "detail": "completed day-wise rows missing overseas; quicknews pages fetched: 39; attempt cooldown deferred: 557"
+    },
+    "changed": {
+     "added": [
+      "Ramayana: Rise of a Legend (656908)",
+      "Jailer 2 (1234139)",
+      "Ranabaali (1389379)",
+      "418 (1606527)",
+      "Nayyi Navelli (1654581)"
+     ],
+     "updated": [],
+     "count": 15
+    },
+    "reason": null
    }
   ],
   "advance_booking": [
-   {
-    "step": "advance_booking",
-    "category": "Box Office",
-    "run_at": "2026-11-21T02:58:39Z",
-    "run_id": "44858040629",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "advance_booking",
     "category": "Box Office",
@@ -8092,19 +8088,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "home_boxoffice_worldwide": [
+   },
    {
-    "step": "home_boxoffice_worldwide",
+    "step": "advance_booking",
     "category": "Box Office",
-    "run_at": "2026-11-21T02:58:39Z",
-    "run_id": "44858040629",
+    "run_at": "2026-11-22T02:01:06Z",
+    "run_id": "44973321901",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "home_boxoffice_worldwide": [
    {
     "step": "home_boxoffice_worldwide",
     "category": "Box Office",
@@ -8374,8 +8370,18 @@
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
+   },
+   {
+    "step": "home_boxoffice_worldwide",
+    "category": "Box Office",
+    "run_at": "2026-11-22T02:01:06Z",
+    "run_id": "44973321901",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ]
  },
- "updated_at": "2026-11-22T00:55:31Z"
+ "updated_at": "2026-11-22T02:01:06Z"
 }

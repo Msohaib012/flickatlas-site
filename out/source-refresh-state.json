@@ -9,11 +9,11 @@
    "detail": "valid top 20 snapshot"
   },
   "sacnilk_boxoffice": {
-   "last_attempt_at": "2026-11-21T21:58:36Z",
-   "last_run": "2026-11-21T21:58:36Z",
+   "last_attempt_at": "2026-11-22T01:58:24Z",
+   "last_run": "2026-11-22T01:58:24Z",
    "last_status": "failed",
    "last_success": "2026-11-08T11:57:48Z",
-   "consecutive_failures": 82,
+   "consecutive_failures": 83,
    "detail": "reader timed out; last-good staging retained"
   },
   "fnn_boxoffice": {
@@ -73,5 +73,5 @@
    "detail": "reader timed out; last-good staging retained"
   }
  },
- "updated_at": "2026-11-22T00:54:58Z"
+ "updated_at": "2026-11-22T01:58:24Z"
 }

@@ -215494,5 +215494,413 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "2026-11-22T00:52:26Z"
+  },
+  "1gmceuk": {
+    "id": "1gmceuk",
+    "type": "news",
+    "headline": "Ranveer Singh Delivers Heartfelt Tribute to Sachin Tendulkar at Global Peace Honours 2026",
+    "dek": "Actor Ranveer Singh shared a nostalgic moment with cricket icon Sachin Tendulkar at the Global Peace Honours 2026 in Mumbai, reflecting on his legendary career and ongoing philanthropic efforts.",
+    "body": [
+      {
+        "h": "The Global Peace Honours 2026 Gathering",
+        "p": [
+          "The Global Peace Honours 2026 brought together prominent figures from the worlds of cinema, sports, and public life for a memorable evening in Mumbai. Held at the historic Gateway of India on Saturday, November 21, the star-studded ceremony served as a major gathering for celebrated personalities.",
+          "Organised by the Amruta Fadnavis-founded Divyaj Foundation, the annual event marked the 18th anniversary of the 26/11 Mumbai terror attacks. It aimed to pay tribute to the victims and martyrs while promoting messages of unity, peace, and resilience."
+        ]
+      },
+      {
+        "h": "Ranveer Singh Honors Sachin Tendulkar",
+        "p": [
+          "Among the standout moments of the evening was an exchange between actor Ranveer Singh and legendary cricketer Sachin Tendulkar. Taking to the stage, the actor delivered a warm tribute to the sporting icon, fondly addressing him by his widely recognized title of Master Blaster.",
+          "Ranveer reminisced about Tendulkar's active playing days, capturing the collective sentiment of millions of cricket enthusiasts across the nation during major matches."
+        ]
+      },
+      {
+        "h": "A Nostalgic Look at the Crease",
+        "p": [
+          "During his speech, the actor vividly recalled how Indian fans felt whenever the legendary batsman walked out to the pitch. He expressed that regardless of the match situation, supporters shared a single overriding desire to see the cricket legend remain at the crease.",
+          "The heartfelt reflection resonated with the audience, celebrating the intense anticipation and emotional connection fans experienced watching Tendulkar bat throughout his illustrious career."
+        ]
+      },
+      {
+        "h": "Continuing a New Innings Off the Field",
+        "p": [
+          "Shifting focus from athletic achievements to social impact, Ranveer praised Tendulkar for his ongoing commitment to philanthropy. He described the cricket icon's current social work as another vital innings dedicated to the betterment of society.",
+          "The actor specifically acknowledged Tendulkar's continued efforts in supporting children's education, health, sports, and overall future dreams, highlighting his lasting influence beyond the sports arena."
+        ]
+      },
+      {
+        "h": "Star-Studded Attendance in Mumbai",
+        "p": [
+          "The ceremony at the Gateway of India drew a large roster of Bollywood elite alongside sports personalities. Notable attendees at the venue included Shah Rukh Khan, Amitabh Bachchan, Akshay Kumar, Vikrant Massey, and Tiger Shroff.",
+          "Tiger Shroff made his first public appearance at the event following a recent firing incident, drawing significant attention from attendees and media personnel alike."
+        ]
+      },
+      {
+        "h": "Tributes to 26/11 Victims",
+        "p": [
+          "Beyond the entertainment and sports accolades, the evening retained a solemn undertone honoring the anniversary of the 26/11 terror attacks. Amitabh Bachchan delivered a special video message during the ceremony.",
+          "The veteran actor's tribute recognized the extraordinary courage displayed during the tragic events, honoring both the martyrs and the victims as part of the foundation's commemorative mission."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Ranveer Singh honored Sachin Tendulkar at the Global Peace Honours 2026 in Mumbai with a nostalgic tribute recalling his legendary cricketing days. The event, organised by the Divyaj Foundation at the Gateway of India on November 21, also featured numerous Bollywood stars and marked the 18th anniversary of the 26/11 Mumbai terror attacks."
+        ]
+      }
+    ],
+    "facts": [
+      "The Global Peace Honours 2026 was held on Saturday, November 21, 2026.",
+      "The event took place at the Gateway of India in Mumbai.",
+      "The ceremony marked the 18th anniversary of the 26/11 Mumbai terror attacks.",
+      "The event was organised by the Amruta Fadnavis-founded Divyaj Foundation.",
+      "Celebrities in attendance included Ranveer Singh, Sachin Tendulkar, Shah Rukh Khan, Amitabh Bachchan, Akshay Kumar, Vikrant Massey, and Tiger Shroff."
+    ],
+    "entities": {
+      "people": [
+        "Ranveer Singh",
+        "Sachin Tendulkar",
+        "Amruta Fadnavis",
+        "Shah Rukh Khan",
+        "Amitabh Bachchan",
+        "Akshay Kumar",
+        "Vikrant Massey",
+        "Tiger Shroff"
+      ],
+      "titles": []
+    },
+    "keywords": [
+      "Ranveer Singh Sachin Tendulkar",
+      "Global Peace Honours 2026",
+      "Divyaj Foundation Mumbai",
+      "Gateway of India event"
+    ],
+    "images": [
+      {
+        "url": "https://images.timesnownews.com/thumb/msid-156547798,thumbsize-127332,width-1280,height-720,resizemode-75/156547798.jpg",
+        "caption": "Ranveer Singh Delivers Heartfelt Tribute to Sachin Tendulkar at Global Peace Honours 2026",
+        "source": "Times Now — Entertainment"
+      }
+    ],
+    "published": "2026-11-22T01:51:50Z"
+  },
+  "1nfukqh": {
+    "id": "1nfukqh",
+    "type": "news",
+    "headline": "Son Suk Ku and Nagayama Eita's 'The Blue Road' Reaches No. 1 on Netflix Korea",
+    "dek": "The crime thriller series starring Son Suk Ku and Nagayama Eita has quickly claimed the top spot on Netflix in South Korea shortly after its premiere.",
+    "body": [
+      {
+        "h": "Immediate Success on Streaming Charts",
+        "p": [
+          "The crime thriller series \"The Blue Road\" has quickly achieved major streaming success. Starring Son Suk Ku and Nagayama Eita, the production climbed directly to the No. 1 position in South Korea just one day after its official debut on Netflix.",
+          "According to official data provided by Netflix, the title secured the top ranking on the \"Today's Top 10 Series in South Korea\" chart. This swift ascent highlights strong early viewer interest in the newly released streaming project."
+        ]
+      },
+      {
+        "h": "Release Details and Content Rating",
+        "p": [
+          "Audiences were given immediate access to the entire narrative when the platform dropped all eight episodes at once. The release occurred at 5 p.m. KST on November 20.",
+          "Due to its mature thematic elements and intense narrative content, the streaming platform has designated the series with an age restriction, rating it strictly for viewers aged 19 and older."
+        ]
+      },
+      {
+        "h": "Plot Premise and Cross-Border Manhunt",
+        "p": [
+          "Set against the historical backdrop of 2002, the year South Korea and Japan co-hosted the World Cup, the storyline follows a complex international manhunt. Investigators pursue a dangerous serial killer whose victims are discovered across both Seoul and Tokyo.",
+          "Every crime scene left behind by the perpetrator features a chilling and mysterious message written in blood, connecting the jurisdictions and forcing the law enforcement agencies to work in tandem."
+        ]
+      },
+      {
+        "h": "Lead Characters and Detective Dynamic",
+        "p": [
+          "Actor Son Suk Ku takes on the role of Kim Seok, described as a calm and well-guarded detective belonging to the mobile investigation unit in Seoul.",
+          "Opposite him, actor Nagayama Eita portrays Inose Hiroshi, a notably hot-tempered investigator working with the Tokyo Metropolitan Police, creating a stark contrast in their investigative styles."
+        ]
+      },
+      {
+        "h": "Creative Team and Source Material",
+        "p": [
+          "The narrative is rooted in a collaborative Korea-Japan comic created jointly by Edogawa Keishi and Kwon Ga Ya. The adaptation brings this cross-cultural graphic novel to life on the screen.",
+          "Director Han Jun Hee, recognized for previous works such as \"D.P.\" and \"Coin Locker Girl\", helmed the project and co-wrote the script alongside writer Jo Yu Jin."
+        ]
+      },
+      {
+        "h": "Festival Preview and Global Production",
+        "p": [
+          "Prior to its wide streaming release, the project received an early preview when its first three episodes were screened during the On Screen section at the 31st Busan International Film Festival.",
+          "Production on the series was extensive and international in scope, with filming taking place across multiple locations including Seoul, Tokyo, Hong Kong, and Central Asia."
+        ]
+      },
+      {
+        "h": "Reunion and Industry Significance",
+        "p": [
+          "The project marks a notable creative reunion between lead actor Son Suk Ku and director Han Jun Hee following their previous collaboration on \"D.P.\". Son Suk Ku noted that feeling professionally stuck at a personal limit was part of his motivation for accepting the role.",
+          "Additionally, the release arrives as part of a broader seasonal wave of collaborative drama productions between South Korea and Japan, highlighting shifting trends in international media partnerships."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Netflix's crime thriller series \"The Blue Road\", starring Son Suk Ku and Nagayama Eita, reached No. 1 on the South Korea streaming charts just a day after all eight episodes dropped on November 20. The Korea-Japan co-production follows two contrasting detectives tracking a serial killer across borders in 2002."
+        ]
+      }
+    ],
+    "facts": [
+      "The Blue Road reached No. 1 on the Today's Top 10 Series in South Korea chart on November 21.",
+      "All eight episodes were released at 5 p.m. KST on November 20.",
+      "The series is set in 2002 during the World Cup co-hosted by Korea and Japan.",
+      "Son Suk Ku plays detective Kim Seok and Nagayama Eita plays detective Inose Hiroshi.",
+      "The show is based on a comic by Edogawa Keishi and Kwon Ga Ya.",
+      "Director Han Jun Hee co-wrote the script with Jo Yu Jin.",
+      "The first three episodes were screened at the 31st Busan International Film Festival."
+    ],
+    "entities": {
+      "people": [
+        "Son Suk Ku",
+        "Nagayama Eita",
+        "Edogawa Keishi",
+        "Kwon Ga Ya",
+        "Han Jun Hee",
+        "Jo Yu Jin"
+      ],
+      "titles": [
+        "The Blue Road",
+        "D.P.",
+        "Coin Locker Girl"
+      ]
+    },
+    "keywords": [
+      "The Blue Road",
+      "Son Suk Ku",
+      "Nagayama Eita",
+      "The Blue Road Netflix"
+    ],
+    "images": [
+      {
+        "url": "https://i.mydramalist.com/KnnED0_2d.jpg",
+        "caption": "Son Suk Ku and Nagayama Eita's 'The Blue Road' Reaches No. 1 on Netflix Korea",
+        "source": "MyDramaList"
+      }
+    ],
+    "published": "Sun, 22 Nov 2026 00:40:06 +0000"
+  },
+  "17mei5l": {
+    "id": "17mei5l",
+    "type": "news",
+    "headline": "Exploring Eleven K-Dramas Showcasing Unflinching and Brilliant Female Medical Professionals",
+    "dek": "From gritty institutional battles to inspiring personal reinventions, Korean television features some of the most memorable and formidable women in medicine.",
+    "body": [
+      {
+        "h": "Challenging Corrupt Systems in Doctor X",
+        "p": [
+          "Korean dramas have consistently pushed boundaries by introducing intelligent, fiercely independent women who refuse to let hospital hierarchies define their careers. In Doctor X, gifted surgeon Gye Soo Jung, played by Kim Ji Won, relies entirely on her exceptional medical expertise rather than political connections or institutional favoritism.",
+          "When she enters a medical facility riddled with corruption, she directly confronts an establishment that prioritizes power and wealth over patient welfare. Her uncompromising attitude and unconventional methods make her a formidable presence inside the operating room, offering viewers an engaging narrative of a talented woman taking on a broken system."
+        ]
+      },
+      {
+        "h": "Navigating Vulnerability and Brilliance in Dr. Romantic",
+        "p": [
+          "Set against the backdrop of a provincial hospital, the multiple seasons of Dr. Romantic follow the mentorship of the brilliant and unconventional Teacher Kim, portrayed by Han Suk Kyu. The series explores the deep emotional and professional challenges faced by its leading women.",
+          "In the inaugural season, Seo Hyun Jins character Yoon Seo Jung battles intense personal struggles, while Lee Sung Kyung joins later as Cha Eun Jae, a cardiothoracic surgeon grappling with severe operating room anxiety. Both actresses infuse their roles with vital strengths and human vulnerabilities, matching the intensity of the medical emergencies around them."
+        ]
+      },
+      {
+        "h": "High Stakes and Romance in Descendants of the Sun",
+        "p": [
+          "Medicine intersects seamlessly with military action and sweeping romance in the globally popular series Descendants of the Sun. Song Hye Kyo stars as Kang Mo Yeon, a dedicated cardiothoracic surgeon whose commitment to preserving life leads her to a fictional war-torn zone.",
+          "Alongside her is first lieutenant and army surgeon Yoon Myung Joo, also brought to life by Kim Ji Won, who remains steadfast in her career and romantic pursuits. Facing extreme humanitarian crises, these characters highlight extraordinary courage under intense pressure."
+        ]
+      },
+      {
+        "h": "Psychological Intensity in Hyper Knife and Hunter with a Scalpel",
+        "p": [
+          "For viewers drawn to darker and more morally complex narratives, shows like Hyper Knife and Hunter with a Scalpel deliver gripping suspense. Hyper Knife features Park Eun Bin as Jung Se Ok, a former neurosurgical prodigy whose career stalls after a bitter fallout with her mentor, played by Sul Kyung Gu.",
+          "Meanwhile, Hunter with a Scalpel stars Park Ju Hyun as forensic pathologist Seo Se Hyun, whose exceptional investigative abilities are tested when she uncovers evidence linking her deceased father to a murder. These psychological thrillers showcase intellectual female leads dealing with troubled pasts and high-stakes mysteries."
+        ]
+      },
+      {
+        "h": "Transformation and Second Chances in Doctors and Doctor Cha",
+        "p": [
+          "Personal growth and reinvention remain central themes in dramas like Doctors and Doctor Cha. In Doctors, Park Shin Hye portrays Yoo Hye Jung, a rebellious young woman who transforms into a skilled neurosurgeon after finding mentorship under Hong Ji Hong, played by Kim Rae Won.",
+          "On the other hand, Doctor Cha stars Uhm Jung Hwa as Cha Jeong Suk, a woman who returns to medicine and resumes her residency after spending two decades as a housewife. Navigating hospital life alongside younger peers, Jeong Suk proves that it is never too late to reclaim an abandoned dream."
+        ]
+      },
+      {
+        "h": "Burnout, Fantasy, and Friendship in Doctor Slump and Beyond",
+        "p": [
+          "Medical narratives also explore recovery, historical settings, and tight-knit companionship. In Doctor Slump, Park Shin Hye returns as Nam Ha Neul, an exhausted anaesthesiologist who reconnects with her former academic rival Yeo Jung Woo, played by Park Hyung Sik, while navigating career burnout.",
+          "Additionally, historical fantasy blends with medicine in The Great Doctor, featuring Kim Hee Sun as a modern plastic surgeon transported to the Goryeo era. Finally, Hospital Playlist and New Heart round out the spectrum by highlighting deep friendships, technical surgical pressures, and the everyday realities of hospital life."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "A recent feature highlights eleven notable Korean dramas that center around strong, complex, and fiercely independent female medical professionals. These series span various genres including institutional thrillers, historical fantasy, romantic dramas, and psychological mysteries, celebrating women who redefine heroism in the medical field."
+        ]
+      }
+    ],
+    "facts": [
+      "Kim Ji Won stars as Gye Soo Jung in Doctor X and Yoon Myung Joo in Descendants of the Sun.",
+      "Han Suk Kyu plays Teacher Kim in Dr. Romantic.",
+      "Seo Hyun Jin and Lee Sung Kyung star across different seasons of Dr. Romantic.",
+      "Song Hye Kyo plays Kang Mo Yeon in Descendants of the Sun.",
+      "Park Eun Bin and Sul Kyung Gu star in Hyper Knife.",
+      "Park Ju Hyun stars in Hunter with a Scalpel.",
+      "Park Shin Hye stars in Doctors and Doctor Slump.",
+      "Kim Rae Won plays Hong Ji Hong in Doctors.",
+      "Uhm Jung Hwa stars as Cha Jeong Suk in Doctor Cha.",
+      "Park Hyung Sik stars in Doctor Slump.",
+      "Kim Hee Sun and Lee Min Ho star in The Great Doctor.",
+      "Jeon Mi Do stars in Hospital Playlist.",
+      "Kim Min Jung stars in New Heart."
+    ],
+    "entities": {
+      "people": [
+        "P Talwar",
+        "Kim Ji Won",
+        "Han Suk Kyu",
+        "Seo Hyun Jin",
+        "Lee Sung Kyung",
+        "Song Hye Kyo",
+        "Park Eun Bin",
+        "Sul Kyung Gu",
+        "Park Ju Hyun",
+        "Park Shin Hye",
+        "Kim Rae Won",
+        "Uhm Jung Hwa",
+        "Park Hyung Sik",
+        "Kim Hee Sun",
+        "Lee Min Ho",
+        "Jeon Mi Do",
+        "Kim Min Jung",
+        "Puja Talwar",
+        "Gong Yoo",
+        "Cha Eun Woo",
+        "Ji Chang Wook",
+        "Jing Bo Ran",
+        "Lee Junho"
+      ],
+      "titles": [
+        "Doctor X",
+        "Dr. Romantic",
+        "Descendants of the Sun",
+        "Hyper Knife",
+        "Hunter with a Scalpel",
+        "Doctors",
+        "Doctor Cha",
+        "Doctor Slump",
+        "The Great Doctor",
+        "Hospital Playlist",
+        "New Heart"
+      ]
+    },
+    "keywords": [
+      "Doctor X",
+      "Dr. Romantic",
+      "Descendants of the Sun",
+      "Hyper Knife",
+      "Doctor Cha"
+    ],
+    "images": [
+      {
+        "url": "https://0.soompi.io/wp-content/uploads/2026/10/20093914/Doctor-X-Dr.-Romantic.jpg",
+        "caption": "Exploring Eleven K-Dramas Showcasing Unflinching and Brilliant Female Medical Professionals",
+        "source": "Soompi"
+      }
+    ],
+    "published": "Sat, 21 Nov 2026 23:45:00 +0000"
+  },
+  "15yyusi": {
+    "id": "15yyusi",
+    "type": "news",
+    "headline": "O.M: Operation Mole Box Office Collection Day 2: Dhanush and Mammootty Starrer Reaches Rs 60.90 Crore Worldwide",
+    "dek": "The multilingual action thriller O.M: Operation Mole experienced a minor dip on its second day in theaters, bringing its global gross to Rs 60.90 crore while continuing to lag behind Amaran's earlier benchmarks.",
+    "body": [
+      {
+        "h": "Second Day Theatrical Performance",
+        "p": [
+          "The theatrical run of the action thriller O.M: Operation Mole encountered a modest cooling off period on its second day at the box office. Featuring a high-profile ensemble cast, the movie pulled in Rs 15.40 crore in net domestic earnings across India on Saturday, November 21. Exhibited across 6,488 shows in three distinct languages, the feature experienced a 14.9 percent contraction compared to its opening day collection of Rs 18.10 crore.",
+          "This latest single-day intake elevates the movie's cumulative domestic net total to Rs 33.50 crore. Meanwhile, the domestic gross has advanced to Rs 38.90 crore. Bolstered by international ticket sales, the cumulative worldwide gross for the first two days has scaled up to Rs 60.90 crore."
+        ]
+      },
+      {
+        "h": "Language-Wise Contribution and Show Counts",
+        "p": [
+          "Distributed in Tamil, Telugu, and Hindi, the project saw varying levels of traction across regions. The Tamil version served as the primary revenue engine, pulling in Rs 11.40 crore from 3,768 shows. The Telugu edition secured Rs 3.50 crore across 1,645 screenings, whereas the Hindi translation generated Rs 50 lakh through 1,075 shows.",
+          "Altogether, the production maintained a total of 13,116 shows over the opening two days. On Saturday, the release registered an average collection of Rs 23,736 per show, accompanied by an overall national occupancy rate of 42.3 percent, slipping slightly from the 45.6 percent recorded on opening day."
+        ]
+      },
+      {
+        "h": "Detailed Occupancy Rates Across Versions",
+        "p": [
+          "Audience turnout varied notably depending on the language track and time of day. The Tamil 2D version led regional metrics with an overall occupancy of 53.35 percent, peaking during night shows at 71.77 percent. Morning, afternoon, and evening screenings for the Tamil version recorded 31.92 percent, 53.38 percent, and 56.31 percent respectively.",
+          "The Telugu 2D version achieved an overall occupancy of 44.14 percent, scaling from 21.64 percent in the morning to 62.55 percent by night. Conversely, the Hindi 2D version reported a more modest 18.38 percent overall occupancy, registering 10.20 percent in the morning and climbing to a peak of 24.30 percent during night shows."
+        ]
+      },
+      {
+        "h": "Regional Dominance in Domestic Gross",
+        "p": [
+          "Within the domestic market, Tamil Nadu emerged as the single largest contributor to the day-two gross figures. The state yielded Rs 7.75 crore, representing 43.3 percent of the day's total India gross. The neighboring states of Andhra Pradesh and Telangana jointly contributed Rs 4.25 crore, claiming a 23.7 percent share.",
+          "Further contributions came from Kerala, which added Rs 3.15 crore, and Karnataka, which chipped in with Rs 1.90 crore. Remaining territories across India collectively accounted for the final portion of the domestic gross with Rs 85 lakh."
+        ]
+      },
+      {
+        "h": "Overseas Market Performance",
+        "p": [
+          "International territories continued to bolster the overall financial standing of the feature. On Saturday alone, the movie added Rs 10 crore in overseas gross collections. This international surge brought the cumulative overseas gross total to Rs 22 crore.",
+          "Combined with domestic figures, the overseas earnings proved vital in pushing the worldwide gross past the sixty-crore threshold. Tamil language collections specifically accounted for 74.6 percent of domestic earnings, followed by Telugu at 22.7 percent and Hindi at 2.7 percent."
+        ]
+      },
+      {
+        "h": "Comparison with Amaran",
+        "p": [
+          "In terms of box office trajectory, O.M: Operation Mole currently tracks behind director Rajkumar Periasamy's previous venture, Amaran. The 2024 film pulled in a higher second-day net collection of Rs 19.15 crore in India, alongside a domestic gross of Rs 22.16 crore after a milder 10.5 percent drop from its opening day.",
+          "Furthermore, Amaran had amassed a worldwide gross of Rs 68.90 crore by the end of its second day, supported by 4,551 shows and an average occupancy of 68.3 percent, outpacing the current metrics of the Dhanush and Sai Pallavi starrer."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "O.M: Operation Mole recorded Rs 15.40 crore in India net collections on its second day, bringing its worldwide gross to Rs 60.90 crore. The multilingual action thriller continues to trail behind the director's previous release, Amaran, while maintaining strong regional contributions primarily led by Tamil Nadu."
+        ]
+      }
+    ],
+    "facts": [
+      "O.M: Operation Mole earned Rs 15.40 cr in India net collections on Saturday, November 21.",
+      "The film's second-day earnings marked a 14.9% drop compared to its opening-day earnings of Rs 18.10 cr.",
+      "Cumulative India net collection reached Rs 33.50 cr.",
+      "Worldwide gross reached Rs 60.90 cr in its first two days.",
+      "The Tamil version earned Rs 11.40 cr, the Telugu version added Rs 3.50 cr, and the Hindi version contributed Rs 50 lakh on day 2.",
+      "Tamil Nadu generated Rs 7.75 cr on Saturday."
+    ],
+    "entities": {
+      "people": [
+        "Dhanush",
+        "Mammootty",
+        "Sai Pallavi",
+        "Rajkumar Periasamy",
+        "Sivakarthikeyan"
+      ],
+      "titles": [
+        "O.M: Operation Mole",
+        "Amaran"
+      ]
+    },
+    "keywords": [
+      "OM Operation Mole box office collection",
+      "Dhanush Mammootty Sai Pallavi film",
+      "OM Operation Mole day 2 collection",
+      "Amaran box office comparison"
+    ],
+    "images": [
+      {
+        "url": "https://static.toiimg.com/thumb/msid-136065345,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "caption": "O.M: Operation Mole Box Office Collection Day 2: Dhanush and Mammootty Starrer Reaches Rs 60.90 Crore Worldwide",
+        "source": "Times of India — Entertainment"
+      }
+    ],
+    "published": "2026-11-22T05:40:06+05:30"
   }
 };
