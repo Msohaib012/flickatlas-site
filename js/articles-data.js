@@ -221869,5 +221869,170 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Sun, 22 Nov 2026 16:00:18 GMT"
+  },
+  "f4chlg": {
+    "id": "f4chlg",
+    "type": "news",
+    "headline": "Bano Episode 39 — Watch Online on Geo TV",
+    "dek": "Bano episode 39 aired on 2026-11-22 — watch the full episode on Geo TV.",
+    "body": [
+      {
+        "h": "Episode Details",
+        "p": [
+          "Bano Episode 39 aired on 2026-11-22 on Geo TV. The full episode is available on the channel's official YouTube page.",
+          "Watch the full episode here: https://www.youtube.com/watch?v=SIIVotPnqgA"
+        ]
+      },
+      {
+        "h": "Episode Summary",
+        "p": [
+          "Is episode mein Shehryar akele waqt guzarte hue apni family aur Bano ke baare mein sochta hai. Bano usse phone par tasalli deti hai aur ghar a"
+        ]
+      }
+    ],
+    "facts": [
+      "Bano Episode 39 aired on 2026-11-22.",
+      "Channel: Geo TV.",
+      "Watch the full episode: https://www.youtube.com/watch?v=SIIVotPnqgA",
+      "YouTube views: 117,186.",
+      "Episode summary added 2026-11-22."
+    ],
+    "entities": {
+      "titles": [
+        "Bano"
+      ],
+      "people": []
+    },
+    "images": [
+      {
+        "url": "https://i.ytimg.com/vi/SIIVotPnqgA/hqdefault.jpg",
+        "caption": "Bano Episode 39",
+        "source": "Geo TV"
+      }
+    ],
+    "published": "2026-11-22T17:00:31Z"
+  },
+  "6w6uf0": {
+    "id": "6w6uf0",
+    "type": "news",
+    "headline": "Zehar-e-Mohabbat Episode 28 — Watch Online on HUM TV",
+    "dek": "Zehar-e-Mohabbat episode 28 aired on 2026-11-22 — watch the full episode on HUM TV.",
+    "body": [
+      {
+        "h": "Episode Details",
+        "p": [
+          "Zehar-e-Mohabbat Episode 28 aired on 2026-11-22 on HUM TV. The full episode is available on the channel's official YouTube page.",
+          "Watch the full episode here: https://www.youtube.com/watch?v=W1Zsi9VeBLU"
+        ]
+      }
+    ],
+    "facts": [
+      "Zehar-e-Mohabbat Episode 28 aired on 2026-11-22.",
+      "Channel: HUM TV.",
+      "Watch the full episode: https://www.youtube.com/watch?v=W1Zsi9VeBLU",
+      "YouTube views: 14,725."
+    ],
+    "entities": {
+      "titles": [
+        "Zehar-e-Mohabbat"
+      ],
+      "people": []
+    },
+    "images": [
+      {
+        "url": "https://i.ytimg.com/vi/W1Zsi9VeBLU/hqdefault.jpg",
+        "caption": "Zehar-e-Mohabbat Episode 28",
+        "source": "HUM TV"
+      }
+    ],
+    "published": "2026-11-22T17:00:06Z"
+  },
+  "1wji2i2": {
+    "id": "1wji2i2",
+    "type": "news",
+    "headline": "Nashtar Episode 35 — Watch Online on Geo TV",
+    "dek": "Nashtar episode 35 aired on 2026-11-22 — watch the full episode on Geo TV.",
+    "body": [
+      {
+        "h": "Episode Details",
+        "p": [
+          "Nashtar Episode 35 aired on 2026-11-22 on Geo TV. The full episode is available on the channel's official YouTube page.",
+          "Watch the full episode here: https://www.youtube.com/watch?v=bEeYCzrZQgk"
+        ]
+      },
+      {
+        "h": "About Nashtar",
+        "p": [
+          "Shah Dawood, the arrogant heir to a powerful landowning family, clashes with Bareera Aijaz, a principled university student who refuses to bow to his authority. Forced into an unexpected marriage, their constant battles gradually give way to respect and love. But when Tamseel, Shah’s longtime admirer, refuses to accept Bareera, their fragile relationship is put to the ultimate test. Can Shah and Bareera overcome jealousy, family pressure, and their differences to find lasting love?"
+        ]
+      },
+      {
+        "h": "Episode Summary",
+        "p": [
+          "Episode 35 mein Rafe, Shah Dawood ko Barira ke purane voice notes sunata hai taakay unke darmiyan doori paida ho sake"
+        ]
+      }
+    ],
+    "facts": [
+      "Nashtar Episode 35 aired on 2026-11-22.",
+      "Channel: Geo TV.",
+      "Watch the full episode: https://www.youtube.com/watch?v=bEeYCzrZQgk",
+      "YouTube views: 609,520.",
+      "TMDB: Nashtar (id 332312).",
+      "Episode summary added 2026-11-22."
+    ],
+    "entities": {
+      "titles": [
+        "Nashtar"
+      ],
+      "people": [
+        "Danish Taimoor",
+        "Anmol Baloch",
+        "Naeema Butt"
+      ]
+    },
+    "images": [
+      {
+        "url": "https://i.ytimg.com/vi/bEeYCzrZQgk/hqdefault.jpg",
+        "caption": "Nashtar Episode 35",
+        "source": "Geo TV"
+      }
+    ],
+    "published": "2026-11-22T16:00:20Z"
+  },
+  "1q75g1v": {
+    "id": "1q75g1v",
+    "type": "news",
+    "headline": "Mohabbat Mukhtasir Episode 9 — Watch Online on HUM TV",
+    "dek": "Mohabbat Mukhtasir episode 9 aired on 2026-11-22 — watch the full episode on HUM TV.",
+    "body": [
+      {
+        "h": "Episode Details",
+        "p": [
+          "Mohabbat Mukhtasir Episode 9 aired on 2026-11-22 on HUM TV. The full episode is available on the channel's official YouTube page.",
+          "Watch the full episode here: https://www.youtube.com/watch?v=e1nFXac_YcE"
+        ]
+      }
+    ],
+    "facts": [
+      "Mohabbat Mukhtasir Episode 9 aired on 2026-11-22.",
+      "Channel: HUM TV.",
+      "Watch the full episode: https://www.youtube.com/watch?v=e1nFXac_YcE",
+      "YouTube views: 113,709."
+    ],
+    "entities": {
+      "titles": [
+        "Mohabbat Mukhtasir"
+      ],
+      "people": []
+    },
+    "images": [
+      {
+        "url": "https://i.ytimg.com/vi/e1nFXac_YcE/hqdefault.jpg",
+        "caption": "Mohabbat Mukhtasir Episode 9",
+        "source": "HUM TV"
+      }
+    ],
+    "published": "2026-11-22T16:00:10Z"
   }
 };
