@@ -223684,5 +223684,356 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "2026-11-22T20:51:36Z"
+  },
+  "136mkaq": {
+    "id": "136mkaq",
+    "type": "news",
+    "headline": "Aamrpali Dubey's 2-Month Transformation on Bigg Boss Turns Heads and Silences Critics",
+    "dek": "Bhojpuri actress Aamrpali Dubey stunned audiences with her striking physical transformation inside the Bigg Boss house, completely turning the narrative around after facing severe body-shaming.",
+    "body": [
+      {
+        "h": "Stunning Transformation Inside the Bigg Boss House",
+        "p": [
+          "Aamrpali Dubey has captured widespread attention through her remarkable presence, distinct style, and growing confidence on Bigg Boss. Her physical transformation became a major talking point among viewers, who closely followed her journey as she showcased a notable shift in her fitness and overall look during her time on the show.",
+          "The well-known Bhojpuri cinema star received immense appreciation from her fans across social media platforms. Her evolving presence demonstrated a seamless blend of striking screen appeal, renewed energy, and a high level of self-assurance."
+        ]
+      },
+      {
+        "h": "Overcoming Hard Work and Physical Challenges",
+        "p": [
+          "This inspiring journey goes far beyond a simple physical change, serving as a powerful testament to her dedication, rigorous efforts, and mental strength. For a considerable period, the actress had to endure taunts regarding her rising weight from critics and online trolls.",
+          "However, she completely altered her physique and redefined her personal presentation within a span of just two months. This impressive makeover silenced her detractors and proved that hard work and perseverance can overcome negative commentary."
+        ]
+      },
+      {
+        "h": "Facing Body-Shaming Controversy",
+        "p": [
+          "Despite her positive strides, her time in the reality show also sparked intense debates regarding body-shaming. Fellow participant Mahi Vij made a harsh remark by comparing her to a sack of potatoes while questioning her gameplay strategy.",
+          "Although the comment was initially framed around her performance in the house, audiences and supporters quickly identified it as a direct attack on her physical appearance. This incident ignited widespread discussions about body-shaming and the harsh realities performers face on television."
+        ]
+      },
+      {
+        "h": "Praise from Gauahar Khan and Support",
+        "p": [
+          "Amidst the criticisms and house tensions, Aamrpali maintained a calm composure and a stylish demeanor that kept her in the headlines. Her graceful handling of difficult situations earned her admiration from notable figures.",
+          "Gauahar Khan openly expressed appreciation for her simplicity and charm, becoming one of her prominent supporters. This backing from industry peers helped reinforce a positive narrative around her television stint."
+        ]
+      },
+      {
+        "h": "Standing Out to Host Salman Khan",
+        "p": [
+          "Her compelling gameplay and balanced perspective also caught the attention of the show's host, Salman Khan. The superstar frequently expressed curiosity regarding her viewpoints on various house matters.",
+          "Because of her steady approach and thoughtful insights, her opinions consistently held weight for the host during weekend interactions, further elevating her stature in the competition."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Aamrpali Dubey surprised fans and silenced her critics by achieving a major physical transformation within two months on Bigg Boss. Despite facing body-shaming remarks from Mahi Vij, she earned praise from Gauahar Khan and valued attention from host Salman Khan."
+        ]
+      }
+    ],
+    "facts": [
+      "Aamrpali Dubey reduced her weight in 2 months",
+      "Mahi Vij called Aamrpali Dubey a sack of potato in the show",
+      "Gauahar Khan praised Aamrpali Dubey",
+      "Salman Khan is interested in Aamrpali Dubey's thoughts on the game",
+      "The news was updated on 22nd Nov 2026"
+    ],
+    "entities": {
+      "people": [
+        "Aamrpali Dubey",
+        "Mahi Vij",
+        "Gauahar Khan",
+        "Salman Khan"
+      ],
+      "titles": [
+        "Bigg Boss"
+      ]
+    },
+    "keywords": [
+      "Aamrpali Dubey transformation",
+      "Aamrpali Dubey weight loss",
+      "Aamrpali Dubey Bigg Boss",
+      "Mahi Vij Aamrpali Dubey"
+    ],
+    "images": [
+      {
+        "url": "https://akm-img-a-in.tosshub.com/aajtak/images/photo_gallery/202611/6b02c81ba4eb7-aamrpali-dubey-224650731-16x9.jpg",
+        "caption": "Aamrpali Dubey's 2-Month Transformation on Bigg Boss Turns Heads and Silences Critics",
+        "source": "Aaj Tak — Entertainment"
+      }
+    ],
+    "published": "2026-11-22T21:51:58Z"
+  },
+  "lmrd6q": {
+    "id": "lmrd6q",
+    "type": "news",
+    "headline": "Marvel Unveils New Street-Verse Design For Lady Loki and Alligator Loki",
+    "dek": "Marvel has revealed a fresh winter-inspired variant cover by InHyuk Lee for Thor #806, featuring Lady Loki and Alligator Loki in stylish new streetwear.",
+    "body": [
+      {
+        "h": "The Art of Loki Shapeshifting",
+        "p": [
+          "Marvel's God of Mischief has long utilized illusion magic and shapeshifting to conjure an endless array of outfits, ranging from traditional Asgardian battle armor to modern three-piece suits. This effortless control over physical appearance has always stood at the core of the character's signature deceptions across various comic book runs and media adaptations."
+        ]
+      },
+      {
+        "h": "A History of Iconic Loki Variants",
+        "p": [
+          "Every major incarnation of the character has expressed personal aesthetic freedom through unique attire. Classic Silver Age Loki favored emerald-and-gold tights with curved horns, while Kid Loki opted for a casual vest, scarf, and headband. Later variations like Agent of Asgard embraced rocker-chic leather, President Loki wore campaign suits, and Alligator Loki famously needed only a tiny golden horned crown."
+        ]
+      },
+      {
+        "h": "Lady Loki's New Winter Street-Verse Look",
+        "p": [
+          "In a stylish Street-Verse variant cover for Thor #806 by InHyuk Lee, Lady Loki receives a modern Midgardian winter makeover. She wears a cropped olive-green bomber coat with dark fur trim, metallic gold scale-like shoulder accents, and long green-and-fur coat tails translating traditional armor into streetwear.",
+          "Underneath the coat, Lady Loki sports a dark charcoal top with sunglasses at the neckline, high-waisted black utility trousers with a belted sash, and lace-up green heels, all completed by her traditional golden horns."
+        ]
+      },
+      {
+        "h": "Alligator Loki's Matching Winter Attire",
+        "p": [
+          "Accompanying Lady Loki in the Street-Verse artwork is a bundled-up Alligator Loki sporting his own adorable winter streetwear. The multiversal reptile variant wears a dark quilted puffer vest, a thick red scarf, and a cozy trapper hat with ear flaps modified specifically to accommodate his signature golden horned crown."
+        ]
+      },
+      {
+        "h": "Lady Loki's Reputation For High Fashion",
+        "p": [
+          "Lady Loki has consistently earned recognition as a remarkably well-dressed incarnation of the character, favoring glamorous high-fashion couture over stealth. From her debut in the Thor run by J. Michael Straczynski and Olivier Coipel to appearances in Agent of Asgard and Defenders: Beyond, she consistently features ornate outfits while retaining her long golden horns."
+        ]
+      },
+      {
+        "h": "Confidence In The Female Form",
+        "p": [
+          "This distinct fashion flair stems from the daring confidence channeled whenever the trickster adopts a female form. While male incarnations often display theatrical mischief, Lady Loki embraces a solemn charisma and poise, utilizing opulent fabrics and dramatic fur collars as statement pieces."
+        ]
+      },
+      {
+        "h": "Release Information For Thor #806",
+        "p": [
+          "Fans interested in seeing these new variant covers can look forward to the release of Thor #806 from Marvel Comics. The issue is scheduled to arrive on February 17, bringing InHyuk Lee's latest Street-Verse redesigns to comic book shelves."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Marvel Comics revealed a new Street-Verse variant cover by InHyuk Lee for Thor #806, showcasing winter streetwear designs for Lady Loki and Alligator Loki. The issue is scheduled to be released on February 17."
+        ]
+      }
+    ],
+    "facts": [
+      "Marvel revealed a Street-Verse variant cover for Thor #806 by InHyuk Lee.",
+      "Thor #806 is available on February 17 from Marvel Comics.",
+      "Alligator Loki previously appeared in Marvel Studios' Loki season 1.",
+      "Lady Loki originally debuted in a Thor run by J. Michael Straczynski and Olivier Coipel."
+    ],
+    "entities": {
+      "people": [
+        "InHyuk Lee",
+        "J. Michael Straczynski",
+        "Olivier Coipel",
+        "Nicolas Ayala",
+        "Andrew Dyce"
+      ],
+      "titles": [
+        "Thor",
+        "Loki",
+        "Defenders: Beyond"
+      ]
+    },
+    "keywords": [
+      "Thor 806 Lady Loki",
+      "InHyuk Lee Street Verse",
+      "Alligator Loki winter design",
+      "Marvel Comics Thor 806"
+    ],
+    "images": [
+      {
+        "url": "https://static0.srcdn.com/wordpress/wp-content/uploads/2026/11/loki-smiles-in-front-of-a-red-explosion.jpg?w=1600&amp;h=900&amp;fit=crop",
+        "caption": "Marvel Unveils New Street-Verse Design For Lady Loki and Alligator Loki",
+        "source": "Screen Rant"
+      }
+    ],
+    "published": "Sun, 22 Nov 2026 21:49:59 GMT"
+  },
+  "dteid7": {
+    "id": "dteid7",
+    "type": "news",
+    "headline": "Divyanka Tripathi and Vivek Dahiya Celebrate Twins' Annaprashan Ceremony",
+    "dek": "Television star Divyanka Tripathi and her husband Vivek Dahiya marked the six-month milestone of their twin sons with a traditional Annaprashan ceremony, featuring special silver and gold gifts from family members.",
+    "body": [
+      {
+        "h": "Traditional Annaprashan Ceremony",
+        "p": [
+          "Popular television actress Divyanka Tripathi and her husband Vivek Dahiya celebrated the Annaprashan ritual for their twin sons in a special way. The couple organized the traditional ceremony at home after the babies reached six months of age.",
+          "Annaprashan is regarded in Hindu tradition as a major milestone representing a child's first step into consuming solid food. The ritual traditionally involves feeding the baby kheer or grains for the very first time to seek blessings for their health and prosperity."
+        ]
+      },
+      {
+        "h": "Rituals and Home Celebrations",
+        "p": [
+          "The family decorated their home in a traditional style for the auspicious occasion. The celebrations began with Divyanka performing a Ganesha puja and offering bhog to mark the beginning of the ceremony.",
+          "Family members gathered at the home to shower the twin boys with blessings and love. The presence of grandparents, parents, and extended family made the milestone a memorable experience for the household."
+        ]
+      },
+      {
+        "h": "Special Silver Cutlery from the Maternal Grandmother",
+        "p": [
+          "A special highlight of the ceremony was the cutlery used for feeding the babies their first solid meal. The silver bowl and spoon used for the ritual came specially from the maternal grandmother's home.",
+          "Using silver utensils for the Annaprashan adds a traditional touch to the celebration. The babies were fed kheer from the silver bowl to mark the commencement of their solid diet journey."
+        ]
+      },
+      {
+        "h": "Gifts and Blessings from Aunts and Uncles",
+        "p": [
+          "The children received heartfelt gifts from their paternal aunt and maternal uncle during the gathering. The aunt fed kheer to the twins and presented them with valuable gifts to celebrate the occasion.",
+          "In addition to the aunt's gifts, the maternal uncle gifted gold bracelets to his nephews. The grandfather, grandmother, and father also shared immense joy throughout the celebration."
+        ]
+      },
+      {
+        "h": "An Emotional Milestone for the Parents",
+        "p": [
+          "For Divyanka Tripathi, the Annaprashan ceremony brought forth deep emotional feelings. The actress expressed that describing the unique emotion of watching one's child eat solid food for the very first time is difficult in a mother's words.",
+          "Both Divyanka and Vivek have dedicated themselves fully to parenting since welcoming their twin sons. The event served not just as a religious rite of passage but as the beginning of a fresh chapter in the family's life."
+        ]
+      },
+      {
+        "h": "Background of the Twins' Birth",
+        "p": [
+          "The television star gave birth to twin boys on May 26, 2026. Ever since their arrival, both parents have remained busy nurturing and caring for their children.",
+          "The six-month milestone celebration captured significant attention from fans and followers after the actress shared a video of the ritual on YouTube."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Divyanka Tripathi and Vivek Dahiya celebrated the six-month Annaprashan ceremony for their twin sons at home with traditional rituals and family members. The babies were fed kheer using silver utensils sent by their maternal grandmother while receiving special gifts from their aunt and uncle."
+        ]
+      }
+    ],
+    "facts": [
+      "Divyanka Tripathi and Vivek Dahiya have twin sons.",
+      "The babies' Annaprashan ceremony was held 6 months after birth.",
+      "Divyanka Tripathi gave birth to the twin boys on May 26, 2026.",
+      "The event was updated on November 22, 2026.",
+      "The children were fed kheer with a silver spoon from a silver bowl sent by the maternal grandmother.",
+      "The paternal aunt fed the children and gave valuable gifts, while the maternal uncle gifted gold bracelets."
+    ],
+    "entities": {
+      "people": [
+        "Divyanka Tripathi",
+        "Vivek Dahiya"
+      ],
+      "titles": []
+    },
+    "keywords": [
+      "Divyanka Tripathi twins",
+      "Vivek Dahiya sons",
+      "Divyanka Tripathi Annaprashan",
+      "Divyanka Tripathi children"
+    ],
+    "images": [
+      {
+        "url": "https://akm-img-a-in.tosshub.com/aajtak/images/photo_gallery/202611/6b01e34a62a55-divyanka-tripathi-babies-annaprashan-213033383-16x9.jpg",
+        "caption": "Divyanka Tripathi and Vivek Dahiya Celebrate Twins' Annaprashan Ceremony",
+        "source": "Aaj Tak — Entertainment"
+      }
+    ],
+    "published": "2026-11-22T21:51:58Z"
+  },
+  "caf30c": {
+    "id": "caf30c",
+    "type": "news",
+    "headline": "Looper Arrives On Netflix As One Of The Best 2010s Sci-Fi Thrillers",
+    "dek": "Rian Johnson's acclaimed time-travel thriller starring Bruce Willis, Joseph Gordon-Levitt, and Emily Blunt joins the Netflix streaming library.",
+    "body": [
+      {
+        "h": "A New Addition To The Streaming Library",
+        "p": [
+          "The acclaimed 2012 science fiction thriller Looper has officially been added to Netflix, expanding the streaming platform's catalog of genre films. Released originally in theaters on September 28, 2012, the movie has long been celebrated as a high point of 2010s cinema within its category.",
+          "Its arrival gives subscribers a chance to revisit or discover a distinctive project that blended action, gritty world-building, and intricate time-loop mechanics into a single cohesive narrative."
+        ]
+      },
+      {
+        "h": "Exploring Time Travel Paradoxes On Screen",
+        "p": [
+          "The previous decade produced numerous cinematic explorations of temporal mechanics and paradoxical outcomes. While films like Interstellar examined future interventions shaping the present, and comedies such as Hot Tub Time Machine explored the butterfly effect of minor alterations, Looper carved out a different path.",
+          "Director Rian Johnson chose to bypass overly complex scientific jargon, grounding his narrative instead in visceral human experiences and straightforward logic."
+        ]
+      },
+      {
+        "h": "The Premise Of The Loop",
+        "p": [
+          "Set in the year 2044, the story features criminal organizations utilizing illegal black-market time machines to send targets thirty years into the past. Hired assassins known as loopers wait to execute the victims and dispose of the evidence.",
+          "Joe works as one of these hired guns, earning lucrative payouts for simple executions. However, the profession carries a terminal condition: eventually, the syndicate will send back the looper's future self to close the loop permanently."
+        ]
+      },
+      {
+        "h": "A Unique Spin On Future Encounters",
+        "p": [
+          "Rather than sending a younger protagonist into a flashy future society, the plot brings older Joe, portrayed by Bruce Willis, back into the gritty present timeline. His mission is to eliminate a child who will grow into a dangerous supervillain responsible for his wife's murder.",
+          "Instead of following a predictable trajectory where the loop remains unbroken, the narrative explores young Joe's perspective as he confronts his older counterpart and ultimately chooses to shatter the cycle completely."
+        ]
+      },
+      {
+        "h": "Bruce Willis And Moral Ambiguity",
+        "p": [
+          "Bruce Willis is widely recognized for his iconic hero roles, making his villainous and psychologically layered performances rare highlights in his filmography. Outside of antagonists in films like The Jackal and Planet Terror, his portrayal in this feature stands out.",
+          "Old Joe functions as a grieving husband fighting to protect the future, rendering his motives deceptively noble. Yet, his willingness to use violence to eradicate violence creates the very dystopian reality he attempts to prevent."
+        ]
+      },
+      {
+        "h": "Legacy And Production Details",
+        "p": [
+          "Written and directed by Rian Johnson, the 118-minute feature brought together a stellar ensemble cast including Joseph Gordon-Levitt alongside Willis and Emily Blunt. Its ability to balance high-concept ideas with character-driven stakes solidified its reputation among enthusiasts.",
+          "With its current availability on Netflix, new audiences can experience the intricate cat-and-mouse dynamic between a younger operative and his future self."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "The 2012 sci-fi thriller Looper has officially joined the Netflix streaming catalog, bringing Rian Johnson's acclaimed time-travel feature to a broader audience. Starring Bruce Willis and Joseph Gordon-Levitt, the film combines gritty action with a morally complex narrative about breaking inescapable temporal cycles."
+        ]
+      }
+    ],
+    "facts": [
+      "Looper was released on September 28, 2012.",
+      "The film has a runtime of 118 minutes.",
+      "Rian Johnson directed Looper.",
+      "The movie stars Bruce Willis, Joseph Gordon-Levitt, and Emily Blunt.",
+      "The story is set in the year 2044."
+    ],
+    "entities": {
+      "people": [
+        "Katrina Yang",
+        "Bruce Willis",
+        "Emily Blunt",
+        "Joseph Gordon-Levitt",
+        "Rian Johnson"
+      ],
+      "titles": [
+        "Looper",
+        "Interstellar",
+        "Harry Potter and the Prisoner of Azkaban",
+        "Hot Tub Time Machine",
+        "The Jackal",
+        "Planet Terror"
+      ]
+    },
+    "keywords": [
+      "Looper Netflix",
+      "Bruce Willis Looper",
+      "Rian Johnson Looper",
+      "Joseph Gordon Levitt Looper"
+    ],
+    "images": [
+      {
+        "url": "https://static0.srcdn.com/wordpress/wp-content/uploads/2026/10/emily-blunt-as-sara-in-looper.jpg?w=1600&amp;h=900&amp;fit=crop",
+        "caption": "Looper Arrives On Netflix As One Of The Best 2010s Sci-Fi Thrillers",
+        "source": "Screen Rant"
+      }
+    ],
+    "published": "Sun, 22 Nov 2026 21:31:18 GMT"
   }
 };
