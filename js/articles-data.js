@@ -219777,5 +219777,468 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Sun, 22 Nov 2026 16:51:37 +0530"
+  },
+  "q42lra": {
+    "id": "q42lra",
+    "type": "news",
+    "headline": "Avengers: Doomsday Advance Booking Nears Rs 50 Crore in India",
+    "dek": "The upcoming Marvel blockbuster is outpacing previous franchise hits like Avengers: Endgame and Infinity War in early pre-sales across the country.",
+    "body": [
+      {
+        "h": "Phenomenal Early Sales in India",
+        "p": [
+          "Advance ticket sales for Avengers: Doomsday are rapidly approaching the Rs 50 crore milestone in India. The Marvel cinematic release has generated massive pre-release traction nearly a month ahead of its scheduled theatrical debut.",
+          "Box office trackers have recorded robust early figures, demonstrating immense anticipation among Indian audiences for the upcoming superhero spectacle."
+        ]
+      },
+      {
+        "h": "Breakdown of the Opening Weekend Figures",
+        "p": [
+          "As of November 22, the film has accumulated Rs 47.02 crore in advance sales for its four-day opening window in India, which includes blocked seats. The total comprises approximately 7.32 lakh tickets sold across 7,398 shows in 79 cities, with 193 shows completely house full.",
+          "The opening day alone on December 17 accounts for Rs 20.99 crore in gross advance sales. Subsequent daily figures show Rs 9.58 crore for Friday, Rs 8.86 crore for Saturday, and Rs 7.59 crore for Sunday."
+        ]
+      },
+      {
+        "h": "Regional Trends and Language Preferences",
+        "p": [
+          "Mumbai has emerged at the top of the city-wise advance booking charts in the country. Meanwhile, screenings for the English version continue to command the lion's share of overall ticket sales.",
+          "These figures reflect online pre-bookings recorded by Sacnilk rather than official tallies distributed directly by Disney or Marvel."
+        ]
+      },
+      {
+        "h": "Surpassing Past Marvel Milestones",
+        "p": [
+          "The blockbuster has outpaced the initial 24-hour advance sales of past franchise giants in India, including Avengers: Endgame, Avengers: Infinity War, and Spider-Man: No Way Home.",
+          "Specifically, Avengers: Doomsday crossed Rs 10 crore in opening-day pre-sales within just 19 hours of tickets going live. For context, Endgame previously earned Rs 8.27 crore in its first 24 hours, No Way Home brought in Rs 6.56 crore, and Infinity War reached Rs 5.02 crore."
+        ]
+      },
+      {
+        "h": "Understanding the Extended Sales Window",
+        "p": [
+          "Trade analysts note a significant caveat regarding these comparisons: Doomsday's pre-bookings opened roughly a month before its premiere, granting it a much longer sales window than earlier releases.",
+          "Consequently, these early numbers serve as an indicator of immense initial demand rather than a direct final comparison to previous advance booking totals."
+        ]
+      },
+      {
+        "h": "Stellar Global Presales Milestones",
+        "p": [
+          "On an international scale, Avengers: Doomsday has reportedly surpassed $150 million in worldwide advance ticket sales. Initial international milestones were first reported around mid-November.",
+          "While Disney has not officially confirmed the total global figure, earlier reports from Forbes noted domestic presales surpassing $125 million by the end of October. Additionally, Disney CFO Hugh Johnston officially confirmed a $50 million domestic presale milestone in September."
+        ]
+      },
+      {
+        "h": "Star-Studded Cast Driving the Hype",
+        "p": [
+          "A major factor driving the unprecedented excitement for the December release is the film's star-studded ensemble cast. Fans are eager to witness the return of iconic characters and actors.",
+          "The prominent lineup features Robert Downey Jr., Chris Evans, Chris Hemsworth, Pedro Pascal, and several other returning Marvel Cinematic Universe stars."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Avengers: Doomsday is witnessing unprecedented advance bookings in India, inching toward Rs 50 crore while outpacing early sales of past hits like Endgame, Infinity War, and No Way Home. Backed by a star-studded cast and massive international presales exceeding $150 million, the film is gearing up for a major theatrical release on December 17."
+        ]
+      }
+    ],
+    "facts": [
+      "Avengers: Doomsday has crossed Rs 47 crore in India advance bookings as of November 22, 2026.",
+      "Worldwide presales have reportedly exceeded $150 million.",
+      "The film has sold over 7 lakh tickets in its extended opening weekend.",
+      "The film opens in Indian cinemas on December 17.",
+      "Total advance bookings reached Rs 47.02 crore for a four-day opening window across 7,398 shows in 79 cities, with 7.32 lakh tickets sold and 193 house-full shows.",
+      "Opening day advance sales account for Rs 20.99 crore, with Rs 9.58 crore on Friday, Rs 8.86 crore on Saturday, and Rs 7.59 crore on Sunday.",
+      "Mumbai leads the city-wise advance booking chart, and the English version holds the lion's share of sales.",
+      "Avengers: Endgame earned Rs 8.27 crore in its first 24 hours of pre-bookings in 2019.",
+      "Spider-Man: No Way Home raked in Rs 6.56 crore on its first day in 2021.",
+      "Avengers: Infinity War amassed Rs 5.02 crore in its first 24 hours in 2018.",
+      "Avengers: Doomsday crossed Rs 10 crore in opening-day advance bookings in 19 hours in India.",
+      "Disney CFO Hugh Johnston confirmed the film crossed $50 million in domestic presales in September."
+    ],
+    "entities": {
+      "people": [
+        "Mimansa Shekhar",
+        "Steve Sogers",
+        "Thor",
+        "Hugh Johnston",
+        "Robert Downey Jr",
+        "Chris Evans",
+        "Chris Hemsworth",
+        "Pedro Pascal"
+      ],
+      "titles": [
+        "Avengers: Doomsday",
+        "Avengers: Endgame",
+        "Avengers: Infinity War",
+        "Spider-Man: No Way Home"
+      ]
+    },
+    "keywords": [
+      "Avengers Doomsday",
+      "Avengers Doomsday advance booking",
+      "Avengers Doomsday India box office",
+      "Robert Downey Jr Avengers Doomsday"
+    ],
+    "images": [
+      {
+        "url": "https://images.timesnownews.com/thumb/msid-156549810,thumbsize-727831,width-1280,height-720,resizemode-75/156549810.jpg",
+        "caption": "Avengers: Doomsday Advance Booking Nears Rs 50 Crore in India",
+        "source": "Times Now — Entertainment"
+      }
+    ],
+    "published": "2026-11-22T12:52:51Z"
+  },
+  "1d35d3h": {
+    "id": "1d35d3h",
+    "type": "news",
+    "headline": "Cast and Director of Possible Love Launch Oscar Campaign in Los Angeles",
+    "dek": "The creative team behind Korea's official Academy Awards entry has traveled to the United States to promote the drama for upcoming nomination consideration.",
+    "body": [
+      {
+        "h": "Arriving in Los Angeles for the Academy Race",
+        "p": [
+          "The creative forces behind the acclaimed feature Possible Love have officially commenced their promotional tour in the United States to secure traction for the upcoming Academy Awards. Cast members and the film's director have touched down in North America to build momentum during a crucial phase of the international feature film race.",
+          "The overseas push began taking shape publicly when cast member Jo Yeo Jeong utilized social media to share snapshots from the trip, explicitly noting their focused involvement in the ongoing Oscar race while stationed in California."
+        ]
+      },
+      {
+        "h": "Star-Studded Delegation Drives Promotion",
+        "p": [
+          "A prominent roster of talent is representing the project during these American promotional events, bringing together some of the most celebrated names in Korean cinema. Director Lee Chang Dong is leading the delegation alongside a powerhouse ensemble cast.",
+          "The traveling contingent features lead performers Jo Yeo Jeong, Jeon Do Yeon, Sul Kyung Gu, and Jo In Sung, all of whom have actively participated in gathering visibility for the feature among international critics and voters."
+        ]
+      },
+      {
+        "h": "Official Selection for South Korea",
+        "p": [
+          "This high-profile promotional blitz follows the significant milestone of the movie being formally chosen as South Korea's official submission for consideration in the International Feature Film category at the Academy Awards.",
+          "With the submission secured, the primary objective for the entire production team has shifted toward securing a coveted official nomination from the Academy through active campaigning in key regions like Los Angeles."
+        ]
+      },
+      {
+        "h": "Recognition at the Gotham Awards",
+        "p": [
+          "In addition to their Academy Award ambitions, the production has already made waves across other major American platforms, securing a trio of nominations at the prestigious upcoming Gotham Awards.",
+          "The project earned nods in the categories of Best International Feature and Best Screenplay, alongside an individual acting nomination for Jeon Do Yeon in the Outstanding Lead Performance category."
+        ]
+      },
+      {
+        "h": "Global Competition for Lead Acting Nominees",
+        "p": [
+          "Jeon Do Yeon's recognition at the Gotham Awards places her among an exceptionally elite and internationally diverse group of esteemed fellow nominees within her specific acting category.",
+          "Her competition for the honor includes renowned global talents such as Mahershala Ali, Ian McKellen, and Julianne Moore, highlighting the high caliber of performances contending this season."
+        ]
+      },
+      {
+        "h": "Plot and Thematic Foundation",
+        "p": [
+          "The narrative of Possible Love centers around two distinct couples, focusing on an unemployed former worker alongside his wife, contrasted with a documentary director and her own spouse.",
+          "These individuals cross paths to collaborate on a documentary project, a process that ultimately forces them to confront vastly contrasting lifestyles and unexpressed, hidden desires."
+        ]
+      },
+      {
+        "h": "Domestic Theatrical and Streaming Rollout",
+        "p": [
+          "Prior to the international promotional tour, the feature made its initial splash closer to home by opening up inside Korean cinemas on September 23, welcoming local audiences.",
+          "Following its theatrical run, the project expanded its global accessibility significantly by landing on Netflix as a streaming option for international viewers on November 6."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "The team behind Possible Love is actively campaigning in Los Angeles following the film's selection as South Korea's Academy Awards submission. Alongside earning Gotham Award nominations, the cast and director continue their international promotional efforts."
+        ]
+      }
+    ],
+    "facts": [
+      "November 22, 2026",
+      "November 21",
+      "Jo Yeo Jeong",
+      "Lee Chang Dong",
+      "Jeon Do Yeon",
+      "Sul Kyung Gu",
+      "Jo In Sung",
+      "Mahershala Ali",
+      "Ian McKellen",
+      "Julianne Moore",
+      "September 23",
+      "November 6"
+    ],
+    "entities": {
+      "people": [
+        "Jo Yeo Jeong",
+        "Lee Chang Dong",
+        "Jeon Do Yeon",
+        "Sul Kyung Gu",
+        "Jo In Sung",
+        "Mahershala Ali",
+        "Ian McKellen",
+        "Julianne Moore"
+      ],
+      "titles": [
+        "Possible Love"
+      ]
+    },
+    "keywords": [
+      "Possible Love",
+      "Jo Yeo Jeong Oscar campaign",
+      "Jeon Do Yeon Gotham Awards",
+      "Lee Chang Dong Possible Love",
+      "Korea Oscar Entry Possible Love"
+    ],
+    "images": [
+      {
+        "url": "https://i.mydramalist.com/Pee85Z_2d.jpg",
+        "caption": "Cast and Director of Possible Love Launch Oscar Campaign in Los Angeles",
+        "source": "MyDramaList"
+      }
+    ],
+    "published": "Sun, 22 Nov 2026 12:32:21 +0000"
+  },
+  "uh2riy": {
+    "id": "uh2riy",
+    "type": "news",
+    "headline": "Drishyam 3 OTT Release Date Announced After Massive Box Office Run",
+    "dek": "Fans who missed Ajay Devgn's blockbuster thriller in theaters can finally stream the final chapter of Vijay Salgaonkar's story on Netflix starting this November.",
+    "body": [
+      {
+        "h": "The Final Chapter Reaches Digital Platforms",
+        "p": [
+          "Audiences who missed experiencing the suspense thriller in theaters now have a reason to rejoice as digital premiere details are officially out. The final chapter of Vijay Salgaonkar's desperate struggle to shield his loved ones is transitioning to home screens. Viewers can soon catch all the twists and turns directly from their living rooms.",
+          "The theatrical run for this gripping drama concluded its primary phase, prompting eager anticipation for its online arrival. Platform listings confirm that the feature is locked in for streaming very soon."
+        ]
+      },
+      {
+        "h": "Streaming Schedule and Platform Details",
+        "p": [
+          "The digital release is scheduled to take place on Netflix. Subscribers will be able to start streaming the feature beginning November 27, 2026.",
+          "Official listings are already live on the platform, allowing interested users to set reminders so they do not miss the premiere date."
+        ]
+      },
+      {
+        "h": "Theatrical Journey and Box Office Milestones",
+        "p": [
+          "The movie originally made its theatrical debut on October 2, 2026, opening to a massive response from ticket buyers across the country. On its very first day, it raked in an impressive net collection of 62 crore rupees within India.",
+          "Momentum remained strong through the opening week, accumulating a net total of 245.50 crore rupees domestically during that initial timeframe alone."
+        ]
+      },
+      {
+        "h": "Stellar Domestic and International Earnings",
+        "p": [
+          "According to Sacnilk data, domestic net earnings reached approximately 380.95 crore rupees by the fiftieth day of its theatrical run. Total gross collections within the home country stood at 456.06 crore rupees.",
+          "International markets added another strong push, bringing in roughly 133.20 crore rupees from overseas territories to bolster the overall financial standing."
+        ]
+      },
+      {
+        "h": "Global Blockbuster Status",
+        "p": [
+          "Combined domestic and international receipts pushed the worldwide gross collection to a remarkable 589.26 crore rupees. Industry trackers and trade analysts officially classified the feature as a major blockbuster.",
+          "This stellar financial success underscored the immense popularity of the franchise and the strong pull of its leading star among audiences."
+        ]
+      },
+      {
+        "h": "Plot and Character Background",
+        "p": [
+          "The narrative centers around Vijay Salgaonkar, a cable operator forced to go to extreme lengths to protect his family after his daughter becomes entangled in a crime. He constantly attempts to stay a step ahead of law enforcement and investigative agencies.",
+          "This installment represents the final chapter of the intense cat-and-mouse game, testing the limits of how far a father will go to preserve his household's safety."
+        ]
+      },
+      {
+        "h": "Cast, Crew, and Creative Team",
+        "p": [
+          "Ajay Devgn reprises his role as the cunning protagonist, starring alongside Tabu in central performances. The ensemble cast also features Shriya Saran, Jaideep Ahlawat, Rajat Kapoor, Ishita Dutta, and Prakash Raj.",
+          "Abhishek Pathak directed the film while also serving as co-writer and co-producer. Music was crafted by Ravi Basrur, Rochak Kohli, and Karma, with background scoring by Amar Mohile, cinematography by Sudhir K. Chaudhary, and editing by Sandip Francis."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "The third installment of the thrilling franchise is heading to Netflix on November 27, 2026, following a highly successful theatrical run that began on October 2, 2026. Directed by Abhishek Pathak and starring Ajay Devgn, the film amassed a worldwide gross of nearly 589.26 crore rupees.",
+          "Fans who missed the cinematic screening can now view the conclusion of Vijay Salgaonkar's journey from the comfort of their homes."
+        ]
+      }
+    ],
+    "facts": [
+      "The film was released in theaters on October 2, 2026.",
+      "It will begin streaming on Netflix on November 27, 2026.",
+      "The first-day net collection in India was 62 crore rupees.",
+      "The first-week net collection in India was 245.50 crore rupees.",
+      "By the 50th day, net collection in India reached approximately 380.95 crore rupees.",
+      "Total domestic gross collection was 456.06 crore rupees.",
+      "Overseas earnings were approximately 133.20 crore rupees.",
+      "Worldwide gross collection reached 589.26 crore rupees.",
+      "The director and co-producer of the film is Abhishek Pathak."
+    ],
+    "entities": {
+      "people": [
+        "Ajay Devgn",
+        "Tabu",
+        "Shriya Saran",
+        "Jaideep Ahlawat",
+        "Rajat Kapoor",
+        "Prakash Raj",
+        "Ishita Dutta",
+        "Abhishek Pathak",
+        "Ravi Basrur",
+        "Rochak Kohli",
+        "Karma",
+        "Amar Mohile",
+        "Sudhir K. Chaudhary",
+        "Sandip Francis"
+      ],
+      "titles": [
+        "Drishyam 3",
+        "Drishyam: The Conclusion"
+      ]
+    },
+    "keywords": [
+      "Drishyam 3 OTT release date",
+      "Ajay Devgn Drishyam Netflix",
+      "Drishyam box office collection",
+      "Drishyam 3 cast and crew"
+    ],
+    "images": [
+      {
+        "url": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202611/6b02dbeec5a61-drishyam-3-ott-release-221125678-16x9.jpg",
+        "caption": "Drishyam 3 OTT Release Date Announced After Massive Box Office Run",
+        "source": "Aaj Tak — Entertainment"
+      }
+    ],
+    "published": "2026-11-22T12:52:51Z"
+  },
+  "194k6w6": {
+    "id": "194k6w6",
+    "type": "news",
+    "headline": "Seven Near-Perfect Netflix Shows That Kept Their Episode Counts Under Ten",
+    "dek": "Exploring critically acclaimed Netflix miniseries and limited series that delivered complete, unforgettable stories in ten episodes or fewer across animation, drama, true crime, and horror.",
+    "body": [
+      {
+        "h": "The Appeal of Streamlined Storytelling",
+        "p": [
+          "While Netflix hosts massive multi-season hits like Stranger Things and Squid Game, the streaming platform has also built an impressive reputation for tight, self-contained miniseries. These shorter releases prove that exceptional writing, precise direction, and strong performances do not require years of runtime to make a lasting impression.",
+          "From carefully planned limited runs to projects constrained by early cancellations, these compact releases allow creators to deliver focused narratives without unnecessary padding. Here are seven standout Netflix titles that capped their runs at ten episodes or fewer."
+        ]
+      },
+      {
+        "h": "The Midnight Gospel",
+        "p": [
+          "Created by Pendleton Ward and Duncan Trussell, this adult animated series plunges viewers into the Chromatic Ribbon via a multiverse simulator. Spacecaster Clancy Gilroy travels across bizarre, collapsing worlds to interview local residents.",
+          "Across eight trippy and philosophical episodes, the show addresses heavy subjects like grief, existentialism, death, and magic, offering a deeply emotional animated journey."
+        ]
+      },
+      {
+        "h": "The Queen's Gambit",
+        "p": [
+          "Adapted from Walter Tevis’s 1983 novel, this historical drama follows orphan Beth Harmon, portrayed by Anya Taylor-Joy, as she rises through the male-dominated ranks of competitive chess during the 1950s and 1960s.",
+          "Comprising just seven episodes, the critically lauded series expertly balances Beth's strategic genius with her battle against a severe substance-use disorder stemming from her upbringing."
+        ]
+      },
+      {
+        "h": "Unbelievable",
+        "p": [
+          "This true crime drama miniseries draws from a 2015 investigative report covering serial assault cases across Washington and Colorado. It centers on Marie, a young woman charged with filing a false report after experiencing trauma.",
+          "Detectives Grace Rasmussen and Karen Duvall step in to uncover the truth. Holding a stellar 98 percent Rotten Tomatoes critics score, the eight-episode show shifts its focus away from sensationalism to center squarely on the survivors."
+        ]
+      },
+      {
+        "h": "Unorthodox",
+        "p": [
+          "Inspired by Deborah Feldman’s memoir, this German drama follows Esty Shapiro, a nineteen-year-old woman escaping an arranged marriage within the Satmar ultra-Orthodox community in New York City.",
+          "Esty flees to Berlin to seek a secular life and reconnect with her estranged mother, only for her past to catch up when her husband learns of her pregnancy. Shira Haas stars in this intense four-part binge-watch."
+        ]
+      },
+      {
+        "h": "Maid",
+        "p": [
+          "Based on Stephanie Land’s autobiographical book, Maid chronicles the arduous journey of Alex Russell as she escapes an abusive relationship alongside her young daughter Maddy.",
+          "Finding employment with Value Maids, Alex navigates poverty, housing instability, and family dysfunction while pursuing her dream of writing. The ten-episode drama stands as one of the platform's major 2021 hits."
+        ]
+      },
+      {
+        "h": "Adolescence and The Haunting of Hill House",
+        "p": [
+          "Adolescence, a psychological crime drama created by Jack Thorne and Stephen Graham, unfolds over four intense episodes following the arrest of a thirteen-year-old boy for his classmate's murder, throwing his family into turmoil.",
+          "Meanwhile, Mike Flanagan’s The Haunting of Hill House adapts Shirley Jackson’s classic novel into a ten-part horror masterpiece. The narrative weaves between the Crain family's harrowing past experiences in a haunted mansion and their trauma-fueled adult reunion."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Netflix offers a diverse collection of acclaimed miniseries and limited shows that successfully tell complete stories in ten episodes or fewer. Spanning animation, true crime, chess drama, and horror, these compact releases prove that concise storytelling can deliver profound emotional depth and critical acclaim."
+        ]
+      }
+    ],
+    "facts": [
+      "Netflix has produced multiple acclaimed miniseries with 10 episodes or fewer.",
+      "The Midnight Gospel features eight episodes.",
+      "The Queen's Gambit is based on Walter Tevis's 1983 novel and has seven episodes.",
+      "Unbelievable holds a 98 percent Rotten Tomatoes critics score and has eight episodes.",
+      "Unorthodox is inspired by Deborah Feldman's 2012 autobiography and has four episodes.",
+      "Maid adapts Stephanie Land's memoir and has 10 episodes.",
+      "Adolescence is a psychological crime drama miniseries with four episodes.",
+      "The Haunting of Hill House is loosely based on Shirley Jackson's 1959 novel and has 10 episodes."
+    ],
+    "entities": {
+      "people": [
+        "Adrienne Tyler",
+        "Guillermo del Toro",
+        "Pendleton Ward",
+        "Duncan Trussell",
+        "Walter Tevis",
+        "Anya Taylor-Joy",
+        "Kaitlyn Dever",
+        "Toni Collette",
+        "Merritt Wever",
+        "Deborah Feldman",
+        "Shira Haas",
+        "Stephanie Land",
+        "Margaret Qualley",
+        "Nick Robinson",
+        "Rylea Nevaeh Whittet",
+        "Jack Thorne",
+        "Stephen Graham",
+        "Christine Tremarco",
+        "Amélie Pease",
+        "Owen Cooper",
+        "Mike Flanagan",
+        "Shirley Jackson",
+        "Henry Thomas",
+        "Carla Gugino",
+        "Michiel Huisman",
+        "Elizabeth Reaser",
+        "Rebecca Klingel"
+      ],
+      "titles": [
+        "Squid Game",
+        "Stranger Things",
+        "Ozark",
+        "Dark",
+        "BoJack Horseman",
+        "One Day",
+        "Dracula",
+        "The Midnight Gospel",
+        "The Queen's Gambit",
+        "Unbelievable",
+        "Unorthodox",
+        "Maid",
+        "Adolescence",
+        "The Haunting of Hill House",
+        "The Last Of Us"
+      ]
+    },
+    "keywords": [
+      "The Midnight Gospel Netflix",
+      "The Queen's Gambit episodes",
+      "Unbelievable miniseries",
+      "Unorthodox Shira Haas",
+      "The Haunting of Hill House"
+    ],
+    "images": [
+      {
+        "url": "https://static0.srcdn.com/wordpress/wp-content/uploads/2026/11/the-queen-s-gambit-tv-show.jpg?w=1600&amp;h=900&amp;fit=crop",
+        "caption": "Seven Near-Perfect Netflix Shows That Kept Their Episode Counts Under Ten",
+        "source": "Screen Rant"
+      }
+    ],
+    "published": "Sun, 22 Nov 2026 12:00:18 GMT"
   }
 };

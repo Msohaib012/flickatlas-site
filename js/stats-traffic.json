@@ -1,32 +1,32 @@
 {
   "connected": true,
-  "generated": "2026-11-22T12:04:06Z",
+  "generated": "2026-11-22T12:56:06Z",
   "realtime": {
-    "active_users": 2
+    "active_users": 1
   },
   "today": {
-    "users": 26,
-    "pageviews": 34,
-    "sessions": 26,
-    "avg_session_seconds": 9.6
+    "users": 28,
+    "pageviews": 36,
+    "sessions": 28,
+    "avg_session_seconds": 9.9
   },
   "last7": {
-    "users": 3076,
-    "pageviews": 3076,
-    "sessions": 3055,
+    "users": 3078,
+    "pageviews": 3078,
+    "sessions": 3057,
     "avg_session_seconds": 5.4
   },
   "top_pages": [
     {
       "path": "/person",
       "title": "Actor & Filmmaker Profile | FlickAtlas",
-      "views": 1424,
+      "views": 1425,
       "avg_time_seconds": 4.0
     },
     {
       "path": "/person",
       "title": "Actor & Filmmaker Profiles | FlickAtlas",
-      "views": 875,
+      "views": 876,
       "avg_time_seconds": 3.2
     },
     {
@@ -82,8 +82,8 @@
     {
       "source": "(direct)",
       "medium": "(none)",
-      "sessions": 2885,
-      "users": 2927
+      "sessions": 2887,
+      "users": 2929
     },
     {
       "source": "(not set)",
@@ -107,7 +107,7 @@
   "countries": [
     {
       "country": "Brazil",
-      "users": 591
+      "users": 593
     },
     {
       "country": "United States",
@@ -149,7 +149,7 @@
   "devices": [
     {
       "device": "desktop",
-      "users": 3056
+      "users": 3058
     },
     {
       "device": "mobile",
