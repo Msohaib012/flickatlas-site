@@ -59771,5 +59771,858 @@ window.FA_PUBLISHED = {
         "kind": "flatrate"
       }
     ]
+  },
+  "103540": {
+    "id": 103540,
+    "type": "tv",
+    "title": "Percy Jackson and the Olympians",
+    "poster_path": "/zofPiEpwCRYaezOncTlQwXebHFU.jpg",
+    "backdrop_path": "/dLIKNqBi9L1cVbwuniXkaNOsIXg.jpg",
+    "vote_average": 7.3,
+    "vote_count": 883,
+    "overview": "Percy Jackson is on a dangerous quest. Outrunning monsters and outwitting gods, he must journey across America to return Zeus's master bolt and stop an all-out war. With the help of his friends Annabeth and Grover, Percy's journey will lead him closer to the answers he seeks: how to fit into a world where he feels out of place, and who he's destined to be.",
+    "industry": "world",
+    "popularity": 104.1924,
+    "original_language": "en",
+    "origin_country": [
+      "US"
+    ],
+    "trailer": {
+      "key": "yT1ng2tiwLA",
+      "name": "Official Trailer",
+      "site": "YouTube"
+    },
+    "categories": [
+      "tv"
+    ],
+    "published_at": "2026-11-22",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Action & Adventure",
+      "Sci-Fi & Fantasy",
+      "Drama",
+      "Family"
+    ],
+    "tagline": "A Titan's curse. A hero's destiny.",
+    "status": "Returning Series",
+    "production_countries": [
+      "US"
+    ],
+    "spoken_languages": [
+      "en"
+    ],
+    "certification": "TV-PG",
+    "first_air_date": "2023-12-19",
+    "networks": [
+      "Hulu",
+      "Disney+"
+    ],
+    "number_of_seasons": 3,
+    "number_of_episodes": 24,
+    "channel": "Hulu",
+    "episode_run_time": [],
+    "seasons": [
+      {
+        "season_number": 1,
+        "episode_count": 8,
+        "air_date": "2023-12-19",
+        "name": "Season 1"
+      },
+      {
+        "season_number": 2,
+        "episode_count": 8,
+        "air_date": "2025-12-10",
+        "name": "Season 2"
+      },
+      {
+        "season_number": 3,
+        "episode_count": 8,
+        "air_date": "2026-11-20",
+        "name": "Season 3"
+      }
+    ],
+    "created_by": [
+      "Rick Riordan",
+      "Jonathan E. Steinberg"
+    ],
+    "providers": [
+      {
+        "name": "JioHotstar",
+        "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+        "region": "IN",
+        "type": "flatrate"
+      },
+      {
+        "name": "VI movies and tv",
+        "logo_path": "/9SVVjJ89csOM0xoeVVK8BryUf9a.png",
+        "region": "IN",
+        "type": "flatrate"
+      }
+    ],
+    "providers_wtw": [
+      {
+        "name": "JioHotstar",
+        "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+        "region": "IN",
+        "kind": "flatrate"
+      },
+      {
+        "name": "VI movies and tv",
+        "logo_path": "/9SVVjJ89csOM0xoeVVK8BryUf9a.png",
+        "region": "IN",
+        "kind": "flatrate"
+      }
+    ]
+  },
+  "117488": {
+    "id": 117488,
+    "type": "tv",
+    "title": "Yellowjackets",
+    "poster_path": "/xRnGrn7Z7SC0KIBodocoU1QgDZF.jpg",
+    "backdrop_path": "/ibFWJDWS8cTO6s2vZVd2uKDm8p.jpg",
+    "vote_average": 7.426,
+    "vote_count": 1085,
+    "overview": "This equal parts survival epic, psychological horror story and coming-of-age drama tells the saga of a team of wildly talented high school girls soccer players who become the (un)lucky survivors of a plane crash deep in the remote northern wilderness. The series chronicles their descent from a complicated but thriving team to savage clans, while also tracking the lives they’ve attempted to piece back together nearly 25 years later.",
+    "industry": "world",
+    "popularity": 65.9017,
+    "original_language": "en",
+    "origin_country": [
+      "US"
+    ],
+    "trailer": {
+      "key": "zDFHivyECDU",
+      "name": "Yellowjackets - Season 4 Trailer",
+      "site": "YouTube"
+    },
+    "categories": [
+      "tv"
+    ],
+    "published_at": "2026-11-22",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Drama",
+      "Mystery"
+    ],
+    "tagline": "We hear the wilderness and it hears us.",
+    "status": "Returning Series",
+    "production_countries": [
+      "CA",
+      "US"
+    ],
+    "spoken_languages": [
+      "en"
+    ],
+    "certification": "TV-MA",
+    "first_air_date": "2021-11-14",
+    "networks": [
+      "Showtime",
+      "Paramount+ with Showtime"
+    ],
+    "number_of_seasons": 4,
+    "number_of_episodes": 39,
+    "channel": "Showtime",
+    "episode_run_time": [],
+    "seasons": [
+      {
+        "season_number": 0,
+        "episode_count": 12,
+        "air_date": "2022-07-19",
+        "name": "Specials"
+      },
+      {
+        "season_number": 1,
+        "episode_count": 10,
+        "air_date": "2021-11-14",
+        "name": "Season 1"
+      },
+      {
+        "season_number": 2,
+        "episode_count": 9,
+        "air_date": "2023-03-26",
+        "name": "Season 2"
+      },
+      {
+        "season_number": 3,
+        "episode_count": 10,
+        "air_date": "2025-02-16",
+        "name": "Season 3"
+      },
+      {
+        "season_number": 4,
+        "episode_count": 10,
+        "air_date": "2026-11-22",
+        "name": "Season 4"
+      }
+    ],
+    "created_by": [
+      "Ashley Lyle",
+      "Bart Nickerson"
+    ],
+    "providers": [
+      {
+        "name": "JioHotstar",
+        "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+        "region": "IN",
+        "type": "flatrate"
+      },
+      {
+        "name": "VI movies and tv",
+        "logo_path": "/9SVVjJ89csOM0xoeVVK8BryUf9a.png",
+        "region": "IN",
+        "type": "flatrate"
+      }
+    ],
+    "providers_wtw": [
+      {
+        "name": "JioHotstar",
+        "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+        "region": "IN",
+        "kind": "flatrate"
+      },
+      {
+        "name": "VI movies and tv",
+        "logo_path": "/9SVVjJ89csOM0xoeVVK8BryUf9a.png",
+        "region": "IN",
+        "kind": "flatrate"
+      }
+    ]
+  },
+  "79481": {
+    "id": 79481,
+    "type": "tv",
+    "title": "Fights Break Sphere",
+    "poster_path": "/oyoahIcdamTXwjIaL3CqZ1v5CLl.jpg",
+    "backdrop_path": "/cTCn2EO69SERNfhaezJMoqBom4G.jpg",
+    "vote_average": 8.1,
+    "vote_count": 64,
+    "overview": "In a land where no magic is present. A land where the strong make the rules and weak have to obey. A land filled with alluring treasures and beauty, yet also filled with unforeseen danger. Three years ago, Xiao Yan, who had shown talents none had seen in decades, suddenly lost everything. His powers, his reputation, and his promise to his mother. What sorcery has caused him to lose all of his powers? And why has his fiancee suddenly shown up?",
+    "industry": "world",
+    "popularity": 42.6723,
+    "original_language": "zh",
+    "origin_country": [
+      "CN"
+    ],
+    "trailer": null,
+    "categories": [
+      "tv"
+    ],
+    "published_at": "2026-11-22",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Animation",
+      "Action & Adventure"
+    ],
+    "tagline": "",
+    "status": "Ended",
+    "production_countries": [
+      "CN"
+    ],
+    "spoken_languages": [
+      "zh"
+    ],
+    "certification": "TV-14",
+    "first_air_date": "2017-01-07",
+    "networks": [
+      "Tencent Video"
+    ],
+    "number_of_seasons": 5,
+    "number_of_episodes": 279,
+    "channel": "Tencent Video",
+    "episode_run_time": [
+      25
+    ],
+    "seasons": [
+      {
+        "season_number": 0,
+        "episode_count": 24,
+        "air_date": "2017-09-30",
+        "name": "Specials"
+      },
+      {
+        "season_number": 1,
+        "episode_count": 12,
+        "air_date": "2017-01-07",
+        "name": "Season 1"
+      },
+      {
+        "season_number": 2,
+        "episode_count": 12,
+        "air_date": "2018-03-03",
+        "name": "Season 2"
+      },
+      {
+        "season_number": 3,
+        "episode_count": 12,
+        "air_date": "2019-07-21",
+        "name": "Season 3"
+      },
+      {
+        "season_number": 4,
+        "episode_count": 24,
+        "air_date": "2021-03-28",
+        "name": "Season 4"
+      },
+      {
+        "season_number": 5,
+        "episode_count": 219,
+        "air_date": "2022-07-31",
+        "name": "Season 5"
+      }
+    ],
+    "created_by": [],
+    "providers": [],
+    "providers_wtw": [
+      {
+        "name": "Amazon Video",
+        "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+        "region": "US",
+        "kind": "buy"
+      }
+    ]
+  },
+  "2190": {
+    "id": 2190,
+    "type": "tv",
+    "title": "South Park",
+    "poster_path": "/k7n2EVge7G77eMr3brztRGG1fFU.jpg",
+    "backdrop_path": "/3UviYOlhn8EgXMBuiT6MnUuo1w9.jpg",
+    "vote_average": 8.333,
+    "vote_count": 5293,
+    "overview": "Follow the misadventures of four irreverent grade-schoolers in the quiet, dysfunctional town of South Park, Colorado.",
+    "industry": "world",
+    "popularity": 149.5421,
+    "original_language": "en",
+    "origin_country": [
+      "US"
+    ],
+    "trailer": null,
+    "categories": [
+      "tv"
+    ],
+    "published_at": "2026-11-22",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Comedy",
+      "Animation"
+    ],
+    "tagline": "Four boys. One f**ked-up town.",
+    "status": "Returning Series",
+    "production_countries": [
+      "US"
+    ],
+    "spoken_languages": [
+      "en"
+    ],
+    "certification": "A",
+    "first_air_date": "1997-08-13",
+    "networks": [
+      "Comedy Central"
+    ],
+    "number_of_seasons": 29,
+    "number_of_episodes": 337,
+    "channel": "Comedy Central",
+    "episode_run_time": [],
+    "seasons": [
+      {
+        "season_number": 0,
+        "episode_count": 33,
+        "air_date": "1992-12-08",
+        "name": "Specials"
+      },
+      {
+        "season_number": 1,
+        "episode_count": 13,
+        "air_date": "1997-08-13",
+        "name": "Season 1"
+      },
+      {
+        "season_number": 2,
+        "episode_count": 18,
+        "air_date": "1998-04-01",
+        "name": "Season 2"
+      },
+      {
+        "season_number": 3,
+        "episode_count": 17,
+        "air_date": "1999-04-07",
+        "name": "Season 3"
+      },
+      {
+        "season_number": 4,
+        "episode_count": 17,
+        "air_date": "2000-04-05",
+        "name": "Season 4"
+      },
+      {
+        "season_number": 5,
+        "episode_count": 14,
+        "air_date": "2001-06-20",
+        "name": "Season 5"
+      },
+      {
+        "season_number": 6,
+        "episode_count": 17,
+        "air_date": "2002-03-06",
+        "name": "Season 6"
+      },
+      {
+        "season_number": 7,
+        "episode_count": 15,
+        "air_date": "2003-03-19",
+        "name": "Season 7"
+      },
+      {
+        "season_number": 8,
+        "episode_count": 14,
+        "air_date": "2004-03-17",
+        "name": "Season 8"
+      },
+      {
+        "season_number": 9,
+        "episode_count": 14,
+        "air_date": "2005-03-09",
+        "name": "Season 9"
+      },
+      {
+        "season_number": 10,
+        "episode_count": 14,
+        "air_date": "2006-03-22",
+        "name": "Season 10"
+      },
+      {
+        "season_number": 11,
+        "episode_count": 14,
+        "air_date": "2007-03-07",
+        "name": "Season 11"
+      },
+      {
+        "season_number": 12,
+        "episode_count": 14,
+        "air_date": "2008-03-12",
+        "name": "Season 12"
+      },
+      {
+        "season_number": 13,
+        "episode_count": 14,
+        "air_date": "2009-03-11",
+        "name": "Season 13"
+      },
+      {
+        "season_number": 14,
+        "episode_count": 14,
+        "air_date": "2010-03-17",
+        "name": "Season 14"
+      },
+      {
+        "season_number": 15,
+        "episode_count": 14,
+        "air_date": "2011-04-27",
+        "name": "Season 15"
+      },
+      {
+        "season_number": 16,
+        "episode_count": 14,
+        "air_date": "2012-03-14",
+        "name": "Season 16"
+      },
+      {
+        "season_number": 17,
+        "episode_count": 10,
+        "air_date": "2013-09-25",
+        "name": "Season 17"
+      },
+      {
+        "season_number": 18,
+        "episode_count": 10,
+        "air_date": "2014-09-24",
+        "name": "Season 18"
+      },
+      {
+        "season_number": 19,
+        "episode_count": 10,
+        "air_date": "2015-09-16",
+        "name": "Season 19"
+      },
+      {
+        "season_number": 20,
+        "episode_count": 10,
+        "air_date": "2016-09-14",
+        "name": "Season 20"
+      },
+      {
+        "season_number": 21,
+        "episode_count": 10,
+        "air_date": "2017-09-13",
+        "name": "Season 21"
+      },
+      {
+        "season_number": 22,
+        "episode_count": 10,
+        "air_date": "2018-09-26",
+        "name": "Season 22"
+      },
+      {
+        "season_number": 23,
+        "episode_count": 10,
+        "air_date": "2019-09-25",
+        "name": "Season 23"
+      },
+      {
+        "season_number": 24,
+        "episode_count": 2,
+        "air_date": "2020-09-30",
+        "name": "Season 24"
+      },
+      {
+        "season_number": 25,
+        "episode_count": 6,
+        "air_date": "2022-02-02",
+        "name": "Season 25"
+      },
+      {
+        "season_number": 26,
+        "episode_count": 6,
+        "air_date": "2023-02-08",
+        "name": "Season 26"
+      },
+      {
+        "season_number": 27,
+        "episode_count": 5,
+        "air_date": "2025-07-23",
+        "name": "Season 27"
+      },
+      {
+        "season_number": 28,
+        "episode_count": 5,
+        "air_date": "2025-10-15",
+        "name": "Season 28"
+      },
+      {
+        "season_number": 29,
+        "episode_count": 6,
+        "air_date": "2026-09-16",
+        "name": "Season 29"
+      }
+    ],
+    "created_by": [
+      "Trey Parker",
+      "Matt Stone"
+    ],
+    "providers": [
+      {
+        "name": "fuboTV",
+        "logo_path": "/3wF8xISfVlcrc8X3jaa3uMUFGAr.png",
+        "region": "US",
+        "type": "flatrate"
+      },
+      {
+        "name": "Paramount Plus Premium",
+        "logo_path": "/4N4BMd0Mm0kHAmF7RZgL5lW3cwc.png",
+        "region": "US",
+        "type": "flatrate"
+      },
+      {
+        "name": "Paramount Plus Essential",
+        "logo_path": "/uPWQPyF4nqwtfPNmGcFcenU57HG.png",
+        "region": "US",
+        "type": "flatrate"
+      },
+      {
+        "name": "Philo",
+        "logo_path": "/mfbhzQwmQKjm7bLZPF5CTeu3Ilc.png",
+        "region": "US",
+        "type": "flatrate"
+      },
+      {
+        "name": "Paramount Plus Apple TV channel",
+        "logo_path": "/xu4LyKTwasTbta1Z0qWtZG48yZ3.png",
+        "region": "US",
+        "type": "flatrate"
+      },
+      {
+        "name": "Paramount+ Amazon Channel",
+        "logo_path": "/bxX0YVOCY7bI85BKRlJAAQ2EjUR.png",
+        "region": "US",
+        "type": "flatrate"
+      },
+      {
+        "name": "Paramount+ Roku Premium Channel",
+        "logo_path": "/tnZCMxbcKdxuVmjxefyXCaip7q3.png",
+        "region": "US",
+        "type": "flatrate"
+      }
+    ],
+    "providers_wtw": [
+      {
+        "name": "fuboTV",
+        "logo_path": "/3wF8xISfVlcrc8X3jaa3uMUFGAr.png",
+        "region": "US",
+        "kind": "flatrate"
+      },
+      {
+        "name": "Paramount Plus Premium",
+        "logo_path": "/4N4BMd0Mm0kHAmF7RZgL5lW3cwc.png",
+        "region": "US",
+        "kind": "flatrate"
+      },
+      {
+        "name": "Paramount Plus Essential",
+        "logo_path": "/uPWQPyF4nqwtfPNmGcFcenU57HG.png",
+        "region": "US",
+        "kind": "flatrate"
+      },
+      {
+        "name": "Philo",
+        "logo_path": "/mfbhzQwmQKjm7bLZPF5CTeu3Ilc.png",
+        "region": "US",
+        "kind": "flatrate"
+      },
+      {
+        "name": "Paramount Plus Apple TV channel",
+        "logo_path": "/xu4LyKTwasTbta1Z0qWtZG48yZ3.png",
+        "region": "US",
+        "kind": "flatrate"
+      },
+      {
+        "name": "Paramount+ Amazon Channel",
+        "logo_path": "/bxX0YVOCY7bI85BKRlJAAQ2EjUR.png",
+        "region": "US",
+        "kind": "flatrate"
+      },
+      {
+        "name": "Paramount+ Roku Premium Channel",
+        "logo_path": "/tnZCMxbcKdxuVmjxefyXCaip7q3.png",
+        "region": "US",
+        "kind": "flatrate"
+      },
+      {
+        "name": "Amazon Video",
+        "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+        "region": "US",
+        "kind": "buy"
+      },
+      {
+        "name": "Apple TV Store",
+        "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+        "region": "US",
+        "kind": "buy"
+      },
+      {
+        "name": "Google Play Movies",
+        "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+        "region": "US",
+        "kind": "buy"
+      },
+      {
+        "name": "Fandango At Home",
+        "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+        "region": "US",
+        "kind": "buy"
+      }
+    ]
+  },
+  "1836165": {
+    "id": 1836165,
+    "type": "movie",
+    "title": "Twin Flames Part 4 : The Finale",
+    "poster_path": "/jbtTahyDIBeBaFtY5zumnltPIEu.jpg",
+    "backdrop_path": "/12OhVJM1sDjvBKt6k5IJa5lcpFP.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "Discover the final piece of this captivating tale of Naina and Aman in this mesmerizing short film about twin flames. As fate intertwines their paths, they soon realize that their encounter was no mere coincidence. Unveiling the profound connection between their souls, this heartwarming story will leave you believing in the power of destiny. Join Naina and Aman on their extraordinary journey towards discovering their twin flame, and prepare to be moved by the magic of true love",
+    "industry": "bollywood",
+    "popularity": 0.0582,
+    "original_language": "hi",
+    "origin_country": [
+      "IN"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-22",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "tagline": "Love or Destiny?",
+    "status": "Released",
+    "production_countries": [
+      "IN"
+    ],
+    "spoken_languages": [
+      "hi",
+      "en"
+    ],
+    "certification": "U",
+    "release_date": "2026-11-11",
+    "date_kind": "release",
+    "runtime": 13,
+    "providers": [],
+    "providers_wtw": []
+  },
+  "336999": {
+    "id": 336999,
+    "type": "tv",
+    "title": "Special Branch",
+    "poster_path": "/u7YqFOCU5s4eW7xrckitaKgm5qw.jpg",
+    "backdrop_path": "/i6HK1bhrJChOg3Dtxm2cANdHppj.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "When a young doctor is raped and murdered inside a prestigious medical college, ACP Damini Sengupta uncovers a web of corruption, cover-ups, and political influence. As witnesses disappear and evidence vanishes, she and her Special Branch team risk everything to expose the truth and deliver justice against a system determined to bury it.",
+    "industry": "bollywood",
+    "popularity": 0.645,
+    "original_language": "hi",
+    "origin_country": [
+      "IN"
+    ],
+    "trailer": null,
+    "categories": [
+      "tv"
+    ],
+    "published_at": "2026-11-22",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Drama",
+      "Mystery"
+    ],
+    "tagline": "",
+    "status": "Returning Series",
+    "production_countries": [],
+    "spoken_languages": [
+      "hi"
+    ],
+    "certification": "",
+    "first_air_date": "2026-09-30",
+    "networks": [
+      "Prime Video",
+      "hoichoi"
+    ],
+    "number_of_seasons": 1,
+    "number_of_episodes": 8,
+    "channel": "Prime Video",
+    "episode_run_time": [],
+    "seasons": [
+      {
+        "season_number": 1,
+        "episode_count": 8,
+        "air_date": "2026-09-30",
+        "name": "Season 1"
+      }
+    ],
+    "created_by": [
+      "Ayan Chakraborti"
+    ],
+    "providers": [],
+    "providers_wtw": []
+  },
+  "315323": {
+    "id": 315323,
+    "type": "tv",
+    "title": "The Hidden Shadows",
+    "poster_path": "/1stJQNM9XUFJTNQm0u6v0luI3F6.jpg",
+    "backdrop_path": "/92jxBvqGSNpjGDaV0kX2iQTTgMh.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "After finding her twin sister Mutta’s body, Munin assumes her identity to uncover the truth behind her death and seek revenge. She targets powerful minister Nopnopha and her family, causing scandals that destroy careers and relationships.",
+    "industry": "world",
+    "popularity": 26.1313,
+    "original_language": "th",
+    "origin_country": [
+      "TH"
+    ],
+    "trailer": null,
+    "categories": [
+      "tv"
+    ],
+    "published_at": "2026-11-22",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Drama",
+      "Soap"
+    ],
+    "tagline": "",
+    "status": "Returning Series",
+    "production_countries": [
+      "TH"
+    ],
+    "spoken_languages": [
+      "th"
+    ],
+    "certification": "",
+    "first_air_date": "2026-10-23",
+    "networks": [
+      "ONE 31",
+      "oneD"
+    ],
+    "number_of_seasons": 1,
+    "number_of_episodes": 16,
+    "channel": "ONE 31",
+    "episode_run_time": [],
+    "seasons": [
+      {
+        "season_number": 1,
+        "episode_count": 16,
+        "air_date": "2026-10-23",
+        "name": "Season 1"
+      }
+    ],
+    "created_by": [],
+    "providers": [],
+    "providers_wtw": []
+  },
+  "1794481": {
+    "id": 1794481,
+    "type": "movie",
+    "title": "Memories of her",
+    "poster_path": "/n12zTT0VqdgLHbExTqfpd4noWRA.jpg",
+    "backdrop_path": "/iWMe0wkHxc2V6YzQYHs7cjZ9Fxq.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "A melancholic short film about love, loneliness, and the memories of someone who was never truly forgotten.",
+    "industry": "bollywood",
+    "popularity": 0.0561,
+    "original_language": "hi",
+    "origin_country": [
+      "IN"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-22",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Drama"
+    ],
+    "tagline": "Some memories never learn to say goodbye.",
+    "status": "Released",
+    "production_countries": [],
+    "spoken_languages": [
+      "hi"
+    ],
+    "certification": "",
+    "release_date": "2026-10-11",
+    "date_kind": "release",
+    "runtime": 13,
+    "providers": [],
+    "providers_wtw": []
   }
 };

@@ -37140,5 +37140,282 @@ window.FA_PUBLISHED = {
     ],
     "first_air_date": "2026-10-10",
     "popularity": 41.9419
+  },
+  "103540": {
+    "id": 103540,
+    "type": "tv",
+    "title": "Percy Jackson and the Olympians",
+    "poster_path": "/zofPiEpwCRYaezOncTlQwXebHFU.jpg",
+    "backdrop_path": "/dLIKNqBi9L1cVbwuniXkaNOsIXg.jpg",
+    "vote_average": 7.3,
+    "vote_count": 883,
+    "overview": "Percy Jackson is on a dangerous quest. Outrunning monsters and outwitting gods, he must journey across America to return Zeus's master bolt and stop an all-out war. With the help of his friends Annabeth and Grover, Percy's journey will lead him closer to the answers he seeks: how to fit into a world where he feels out of place, and who he's destined to be.",
+    "industry": "world",
+    "original_language": "en",
+    "origin_country": [
+      "US"
+    ],
+    "production_countries": [
+      "US"
+    ],
+    "spoken_languages": [
+      "en"
+    ],
+    "published_at": "2026-11-22",
+    "status": "Returning Series",
+    "providers": [
+      {
+        "name": "JioHotstar",
+        "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+        "region": "IN",
+        "type": "flatrate"
+      },
+      {
+        "name": "VI movies and tv",
+        "logo_path": "/9SVVjJ89csOM0xoeVVK8BryUf9a.png",
+        "region": "IN",
+        "type": "flatrate"
+      }
+    ],
+    "first_air_date": "2023-12-19",
+    "popularity": 104.1924
+  },
+  "117488": {
+    "id": 117488,
+    "type": "tv",
+    "title": "Yellowjackets",
+    "poster_path": "/xRnGrn7Z7SC0KIBodocoU1QgDZF.jpg",
+    "backdrop_path": "/ibFWJDWS8cTO6s2vZVd2uKDm8p.jpg",
+    "vote_average": 7.426,
+    "vote_count": 1085,
+    "overview": "This equal parts survival epic, psychological horror story and coming-of-age drama tells the saga of a team of wildly talented high school girls soccer players who become the (un)lucky survivors of a plane crash deep in the remote northern wilderness. The series chronicles their descent from a complicated but thriving team to savage clans, while also tracking the lives they’ve attempted to piece back together nearly 25 years later.",
+    "industry": "world",
+    "original_language": "en",
+    "origin_country": [
+      "US"
+    ],
+    "production_countries": [
+      "CA",
+      "US"
+    ],
+    "spoken_languages": [
+      "en"
+    ],
+    "published_at": "2026-11-22",
+    "status": "Returning Series",
+    "providers": [
+      {
+        "name": "JioHotstar",
+        "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+        "region": "IN",
+        "type": "flatrate"
+      },
+      {
+        "name": "VI movies and tv",
+        "logo_path": "/9SVVjJ89csOM0xoeVVK8BryUf9a.png",
+        "region": "IN",
+        "type": "flatrate"
+      }
+    ],
+    "first_air_date": "2021-11-14",
+    "popularity": 65.9017
+  },
+  "79481": {
+    "id": 79481,
+    "type": "tv",
+    "title": "Fights Break Sphere",
+    "poster_path": "/oyoahIcdamTXwjIaL3CqZ1v5CLl.jpg",
+    "backdrop_path": "/cTCn2EO69SERNfhaezJMoqBom4G.jpg",
+    "vote_average": 8.1,
+    "vote_count": 64,
+    "overview": "In a land where no magic is present. A land where the strong make the rules and weak have to obey. A land filled with alluring treasures and beauty, yet also filled with unforeseen danger. Three years ago, Xiao Yan, who had shown talents none had seen in decades, suddenly lost everything. His powers, his reputation, and his promise to his mother. What sorcery has caused him to lose all of his powers? And why has his fiancee suddenly shown up?",
+    "industry": "world",
+    "original_language": "zh",
+    "origin_country": [
+      "CN"
+    ],
+    "production_countries": [
+      "CN"
+    ],
+    "spoken_languages": [
+      "zh"
+    ],
+    "published_at": "2026-11-22",
+    "status": "Ended",
+    "providers": [],
+    "first_air_date": "2017-01-07",
+    "popularity": 42.6723
+  },
+  "2190": {
+    "id": 2190,
+    "type": "tv",
+    "title": "South Park",
+    "poster_path": "/k7n2EVge7G77eMr3brztRGG1fFU.jpg",
+    "backdrop_path": "/3UviYOlhn8EgXMBuiT6MnUuo1w9.jpg",
+    "vote_average": 8.333,
+    "vote_count": 5293,
+    "overview": "Follow the misadventures of four irreverent grade-schoolers in the quiet, dysfunctional town of South Park, Colorado.",
+    "industry": "world",
+    "original_language": "en",
+    "origin_country": [
+      "US"
+    ],
+    "production_countries": [
+      "US"
+    ],
+    "spoken_languages": [
+      "en"
+    ],
+    "published_at": "2026-11-22",
+    "status": "Returning Series",
+    "providers": [
+      {
+        "name": "fuboTV",
+        "logo_path": "/3wF8xISfVlcrc8X3jaa3uMUFGAr.png",
+        "region": "US",
+        "type": "flatrate"
+      },
+      {
+        "name": "Paramount Plus Premium",
+        "logo_path": "/4N4BMd0Mm0kHAmF7RZgL5lW3cwc.png",
+        "region": "US",
+        "type": "flatrate"
+      },
+      {
+        "name": "Paramount Plus Essential",
+        "logo_path": "/uPWQPyF4nqwtfPNmGcFcenU57HG.png",
+        "region": "US",
+        "type": "flatrate"
+      },
+      {
+        "name": "Philo",
+        "logo_path": "/mfbhzQwmQKjm7bLZPF5CTeu3Ilc.png",
+        "region": "US",
+        "type": "flatrate"
+      },
+      {
+        "name": "Paramount Plus Apple TV channel",
+        "logo_path": "/xu4LyKTwasTbta1Z0qWtZG48yZ3.png",
+        "region": "US",
+        "type": "flatrate"
+      },
+      {
+        "name": "Paramount+ Amazon Channel",
+        "logo_path": "/bxX0YVOCY7bI85BKRlJAAQ2EjUR.png",
+        "region": "US",
+        "type": "flatrate"
+      },
+      {
+        "name": "Paramount+ Roku Premium Channel",
+        "logo_path": "/tnZCMxbcKdxuVmjxefyXCaip7q3.png",
+        "region": "US",
+        "type": "flatrate"
+      }
+    ],
+    "first_air_date": "1997-08-13",
+    "popularity": 149.5421
+  },
+  "1836165": {
+    "id": 1836165,
+    "type": "movie",
+    "title": "Twin Flames Part 4 : The Finale",
+    "poster_path": "/jbtTahyDIBeBaFtY5zumnltPIEu.jpg",
+    "backdrop_path": "/12OhVJM1sDjvBKt6k5IJa5lcpFP.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "Discover the final piece of this captivating tale of Naina and Aman in this mesmerizing short film about twin flames. As fate intertwines their paths, they soon realize that their encounter was no mere coincidence. Unveiling the profound connection between their souls, this heartwarming story will leave you believing in the power of destiny. Join Naina and Aman on their extraordinary journey towards discovering their twin flame, and prepare to be moved by the magic of true love",
+    "industry": "bollywood",
+    "original_language": "hi",
+    "origin_country": [
+      "IN"
+    ],
+    "production_countries": [
+      "IN"
+    ],
+    "spoken_languages": [
+      "hi",
+      "en"
+    ],
+    "published_at": "2026-11-22",
+    "date_kind": "release",
+    "status": "Released",
+    "providers": [],
+    "release_date": "2026-11-11",
+    "popularity": 0.0582
+  },
+  "336999": {
+    "id": 336999,
+    "type": "tv",
+    "title": "Special Branch",
+    "poster_path": "/u7YqFOCU5s4eW7xrckitaKgm5qw.jpg",
+    "backdrop_path": "/i6HK1bhrJChOg3Dtxm2cANdHppj.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "When a young doctor is raped and murdered inside a prestigious medical college, ACP Damini Sengupta uncovers a web of corruption, cover-ups, and political influence. As witnesses disappear and evidence vanishes, she and her Special Branch team risk everything to expose the truth and deliver justice against a system determined to bury it.",
+    "industry": "bollywood",
+    "original_language": "hi",
+    "origin_country": [
+      "IN"
+    ],
+    "production_countries": [],
+    "spoken_languages": [
+      "hi"
+    ],
+    "published_at": "2026-11-22",
+    "status": "Returning Series",
+    "providers": [],
+    "first_air_date": "2026-09-30",
+    "popularity": 0.645
+  },
+  "315323": {
+    "id": 315323,
+    "type": "tv",
+    "title": "The Hidden Shadows",
+    "poster_path": "/1stJQNM9XUFJTNQm0u6v0luI3F6.jpg",
+    "backdrop_path": "/92jxBvqGSNpjGDaV0kX2iQTTgMh.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "After finding her twin sister Mutta’s body, Munin assumes her identity to uncover the truth behind her death and seek revenge. She targets powerful minister Nopnopha and her family, causing scandals that destroy careers and relationships.",
+    "industry": "world",
+    "original_language": "th",
+    "origin_country": [
+      "TH"
+    ],
+    "production_countries": [
+      "TH"
+    ],
+    "spoken_languages": [
+      "th"
+    ],
+    "published_at": "2026-11-22",
+    "status": "Returning Series",
+    "providers": [],
+    "first_air_date": "2026-10-23",
+    "popularity": 26.1313
+  },
+  "1794481": {
+    "id": 1794481,
+    "type": "movie",
+    "title": "Memories of her",
+    "poster_path": "/n12zTT0VqdgLHbExTqfpd4noWRA.jpg",
+    "backdrop_path": "/iWMe0wkHxc2V6YzQYHs7cjZ9Fxq.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "A melancholic short film about love, loneliness, and the memories of someone who was never truly forgotten.",
+    "industry": "bollywood",
+    "original_language": "hi",
+    "origin_country": [
+      "IN"
+    ],
+    "production_countries": [],
+    "spoken_languages": [
+      "hi"
+    ],
+    "published_at": "2026-11-22",
+    "date_kind": "release",
+    "status": "Released",
+    "providers": [],
+    "release_date": "2026-10-11",
+    "popularity": 0.0561
   }
 };

@@ -4986,6 +4986,22 @@ window.FA_OTT = {
       "type": "tv"
     },
     {
+      "date": "2023-12-19",
+      "date_kind": "release",
+      "id": 103540,
+      "providers": [
+        {
+          "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+          "name": "JioHotstar"
+        },
+        {
+          "logo_path": "/9SVVjJ89csOM0xoeVVK8BryUf9a.png",
+          "name": "VI movies and tv"
+        }
+      ],
+      "type": "tv"
+    },
+    {
       "date": "2023-10-27",
       "date_kind": "release",
       "id": 1186823,
@@ -5125,6 +5141,22 @@ window.FA_OTT = {
         {
           "logo_path": "/rerVCu9auZrgxTTiZu1criqrQzg.png",
           "name": "Apple TV Amazon Channel"
+        }
+      ],
+      "type": "tv"
+    },
+    {
+      "date": "2021-11-14",
+      "date_kind": "release",
+      "id": 117488,
+      "providers": [
+        {
+          "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+          "name": "JioHotstar"
+        },
+        {
+          "logo_path": "/9SVVjJ89csOM0xoeVVK8BryUf9a.png",
+          "name": "VI movies and tv"
         }
       ],
       "type": "tv"
@@ -5313,6 +5345,42 @@ window.FA_OTT = {
         {
           "logo_path": "/qHLLmKo7udRgiSnIASVTwP2IxfJ.png",
           "name": "Crunchyroll Amazon Channel"
+        }
+      ],
+      "type": "tv"
+    },
+    {
+      "date": "1997-08-13",
+      "date_kind": "release",
+      "id": 2190,
+      "providers": [
+        {
+          "logo_path": "/3wF8xISfVlcrc8X3jaa3uMUFGAr.png",
+          "name": "fuboTV"
+        },
+        {
+          "logo_path": "/4N4BMd0Mm0kHAmF7RZgL5lW3cwc.png",
+          "name": "Paramount Plus Premium"
+        },
+        {
+          "logo_path": "/uPWQPyF4nqwtfPNmGcFcenU57HG.png",
+          "name": "Paramount Plus Essential"
+        },
+        {
+          "logo_path": "/mfbhzQwmQKjm7bLZPF5CTeu3Ilc.png",
+          "name": "Philo"
+        },
+        {
+          "logo_path": "/xu4LyKTwasTbta1Z0qWtZG48yZ3.png",
+          "name": "Paramount Plus Apple TV channel"
+        },
+        {
+          "logo_path": "/bxX0YVOCY7bI85BKRlJAAQ2EjUR.png",
+          "name": "Paramount+ Amazon Channel"
+        },
+        {
+          "logo_path": "/tnZCMxbcKdxuVmjxefyXCaip7q3.png",
+          "name": "Paramount+ Roku Premium Channel"
         }
       ],
       "type": "tv"

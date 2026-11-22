@@ -222417,5 +222417,432 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Sun, 22 Nov 2026 16:00:00 GMT"
+  },
+  "19mlytw": {
+    "id": "19mlytw",
+    "type": "news",
+    "headline": "Ramayana: Part 1 Worldwide Box Office Collection Crosses Rs 1600 Crore Milestone on Day 17",
+    "dek": "Ranbir Kapoor and Yash's mythological epic Ramayana: Part 1 continues its powerful box-office run, surpassing Rs 1600 crore globally after seventeen days in theatres.",
+    "body": [
+      {
+        "h": "Global Box Office Milestone",
+        "p": [
+          "The mythological epic Ramayana: Part 1 has achieved a major financial milestone by soaring past the Rs 1600 crore mark at the worldwide box office. Directed by Nitesh Tiwari and featuring a prominent cast, the film has sustained strong momentum since hitting cinema halls on November 5.",
+          "With massive global earnings, the feature has cemented its place as a massive commercial success. The production is part of a planned two-installment cinematic project budgeted at a total of Rs 4000 crore."
+        ]
+      },
+      {
+        "h": "Day 17 Collection Breakdown",
+        "p": [
+          "According to tracking data provided by Sacnilk, the film pulled in an estimated Rs 27.40 crore on its seventeenth day in theatres. This single-day addition brought the domestic net collection in India to an impressive Rs 906.90 crore.",
+          "When including domestic gross earnings along with international ticket sales, the cumulative worldwide gross figures reached a staggering Rs 1616.70 crore. The overseas market alone contributed a total gross of Rs 533 crore to this tally."
+        ]
+      },
+      {
+        "h": "Performance Across Languages",
+        "p": [
+          "The film's domestic success on day 17 was driven by screenings across multiple linguistic versions throughout the country. The Hindi presentation led the numbers significantly, earning Rs 20.25 crore across 13,353 shows.",
+          "Regional versions also contributed meaningfully to the daily box office. The Malayalam version brought in Rs 2.75 crore across 838 shows, while the Tamil language release collected Rs 2 crore from 601 shows. Additionally, the Kannada version added Rs 1.75 crore across 411 shows, and the Telugu version brought in Rs 75 lakh from 448 shows."
+        ]
+      },
+      {
+        "h": "Protests and Public Backlash",
+        "p": [
+          "Despite its commercial dominance, the film encountered notable public pushback in Maharashtra. On November 20, the Hindu Janajagruti Samiti organized protests in Mumbai and Kolhapur, demanding the alteration or deletion of specific scenes and dialogues.",
+          "Demonstrators gathered outside Dadar Railway Station in Mumbai and Chhatrapati Shivaji Maharaj Chowk in Kolhapur to voice their concerns. A formal memorandum addressing these grievances was submitted to the Central Board of Film Certification."
+        ]
+      },
+      {
+        "h": "Controversial Character Portrayals",
+        "p": [
+          "The protesting organization raised specific objections regarding how certain key characters are depicted within Nitesh Tiwari's cinematic interpretation. Critics argued that the portrayal of Ravana, played by Yash, as a protector of the poor and oppressed contradicts traditional narratives.",
+          "Furthermore, the outfit expressed displeasure over the depiction of Lord Lakshman, claiming the character is shown as arrogant and disrespectful. According to the organizers, multiple sequences deviate from the ideals found in the original epic."
+        ]
+      },
+      {
+        "h": "Cast and Future Releases",
+        "p": [
+          "Ramayana: Part 1 features a prominent ensemble cast led by Ranbir Kapoor as Lord Rama and Sai Pallavi as Goddess Sita. The film also stars Ravie Dubey as Lord Lakshman and Yash in the role of Ravana.",
+          "The project is backed by producers Namit Malhotra and Yash, with additional supporting performances from Arun Govil, Indira Krishna, Rakul Preet Singh, Lara Dutta, Kunal Kapoor, and Vivek Oberoi. The continuation of the epic, Ramayana: Part 2, is scheduled for a theatrical release on Diwali 2028."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Ramayana: Part 1 crossed the Rs 1600 crore milestone globally by its seventeenth day in theatres, driven by strong domestic and overseas ticket sales. Concurrently, the film faced organized protests in Mumbai and Kolhapur over specific character portrayals and script elements.",
+          "Directed by Nitesh Tiwari, the multi-language epic features a star-studded cast and a planned sequel slated for a Diwali 2028 release."
+        ]
+      }
+    ],
+    "facts": [
+      "Ramayana: Part 1 was released in theatres on November 5, 2026.",
+      "The two installments of the project are made on a budget of Rs 4000 crore.",
+      "On day 17, the film minted Rs 27.40 crore, pushing India net collection to Rs 906.90 crore.",
+      "Total overseas gross reached Rs 533 crore, bringing worldwide collection to Rs 1616.70 crore.",
+      "Protests were organized by the Hindu Janajagruti Samiti on November 20, 2026, in Mumbai and Kolhapur.",
+      "Ramayana: Part 2 will be released on Diwali 2028."
+    ],
+    "entities": {
+      "people": [
+        "Ranbir Kapoor",
+        "Yash",
+        "Nitesh Tiwari",
+        "Sai Pallavi",
+        "Ravie Dubey",
+        "Namit Malhotra",
+        "Arun Govil",
+        "Indira Krishna",
+        "Rakul Preet Singh",
+        "Lara Dutta",
+        "Kunal Kapoor",
+        "Vivek Oberoi",
+        "Nirali Kanabar"
+      ],
+      "titles": [
+        "Ramayana: Part 1",
+        "Ramayana: Part 2",
+        "Ramayana"
+      ]
+    },
+    "keywords": [
+      "Ramayana Part 1 box office",
+      "Ramayana worldwide collection 1600 crore",
+      "Ranbir Kapoor Yash Ramayana",
+      "Nitesh Tiwari Ramayana film",
+      "Ramayana day 17 collection"
+    ],
+    "images": [
+      {
+        "url": "https://images.timesnownews.com/thumb/msid-156548507,thumbsize-681807,width-1280,height-720,resizemode-75/156548507.jpg",
+        "caption": "Ramayana: Part 1 Worldwide Box Office Collection Crosses Rs 1600 Crore Milestone on Day 17",
+        "source": "Times Now — Entertainment"
+      }
+    ],
+    "published": "2026-11-22T18:52:21Z"
+  },
+  "1yfxh2y": {
+    "id": "1yfxh2y",
+    "type": "news",
+    "headline": "Panja Vaisshnav Tej to Star in Hanuman 2: The Rise of Vanaras",
+    "dek": "Following the triumph of Hanu-Man, Prime Show Entertainment has officially announced a brand new mythology-inspired fantasy venture starring Panja Vaisshnav Tej and directed by Vi Anand.",
+    "body": [
+      {
+        "h": "Official Announcement of the New Fantasy Project",
+        "p": [
+          "The makers of the breakout hit Hanu-Man have officially revealed their next major cinematic venture, titled Hanuman 2: The Rise of Vanaras. Building upon the booming popularity of mythology-inspired fantasy films in the Telugu film industry, producer K Niranjan Reddy is returning to the genre with an entirely fresh narrative universe.",
+          "Prime Show Entertainment dropped the official announcement alongside a striking first-look poster to generate early excitement. The upcoming feature aims to replicate the production banner's previous formula of blending cultural heritage with grand fantasy storytelling on a larger cinematic scale."
+        ]
+      },
+      {
+        "h": "Cast and Crew Details",
+        "p": [
+          "Panja Vaisshnav Tej has been locked in to play the primary lead role in this ambitious undertaking. Known for experimenting with diverse characters across Telugu cinema, the actor will now anchor a sprawling fantasy adventure that demands a completely different performance style.",
+          "Behind the camera, filmmaker Vi Anand takes over the directorial reins. Recognized for exploring unconventional narrative concepts, the director is expected to bring a distinct creative vision to the project, differentiating it significantly from the tone of its predecessor."
+        ]
+      },
+      {
+        "h": "Visual World and First-Look Insights",
+        "p": [
+          "The recently unveiled promotional poster provides an intriguing peek into the aesthetic realm of the film. Artwork depicts a figure climbing upward through an ocean of clouds, shadowed by a commanding divine aura.",
+          "Although the creators have kept specific plot details tightly under wraps, the initial visual cues strongly point toward an epic journey rooted heavily in ancient mythologies and magical encounters."
+        ]
+      },
+      {
+        "h": "Production Backing and Multilingual Strategy",
+        "p": [
+          "Financed by K Niranjan Reddy and Chaitanya Reddy under the Prime Show Entertainment banner, the movie is receiving heavy backing to ensure a grand production scale. The producers have mapped out a massive multi-language rollout strategy.",
+          "To maximize its box office reach beyond regional boundaries, the movie will release simultaneously in Telugu, Hindi, Tamil, Malayalam, and Kannada, reflecting the growing appetite for pan-Indian cultural fantasy epics."
+        ]
+      },
+      {
+        "h": "Producer K Niranjan Reddy's Vision",
+        "p": [
+          "Articulating his motivation behind the venture, producer K Niranjan Reddy emphasized the company's commitment to stories derived from regional heritage and indigenous imagination. He noted that the new project serves as a natural evolution after the success of their prior work.",
+          "The producer expressed confidence that combining an engaging script, a magnificent visual canvas, and Panja Vaisshnav Tej's screen presence will deliver a unique cinematic experience to moviegoers."
+        ]
+      },
+      {
+        "h": "Connection to the Previous Blockbuster",
+        "p": [
+          "The project naturally invites comparisons to Hanu-Man, which starred Teja Sajja and was helmed by director Prasanth Varma. That earlier socio-fantasy entertainer took box offices by storm and proved the commercial viability of culturally grounded superhero and fantasy themes.",
+          "Even though the upcoming film shares thematic DNA and a production house with the past blockbuster, its entirely new cast and crew signal a fresh direction for the ongoing franchise-style universe."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Prime Show Entertainment has announced Hanuman 2: The Rise of Vanaras, starring Panja Vaisshnav Tej and directed by Vi Anand. The fantasy adventure will receive a multi-language release across five different languages following the success of Hanu-Man."
+        ]
+      }
+    ],
+    "facts": [
+      "Hanuman 2: The Rise of Vanaras was announced on November 22, 2026.",
+      "Panja Vaisshnav Tej will star in the lead role.",
+      "Vi Anand is the director of the film.",
+      "K Niranjan Reddy and Chaitanya Reddy are producing the movie under Prime Show Entertainment.",
+      "The film will release in Telugu, Hindi, Tamil, Malayalam, and Kannada.",
+      "Hanu-Man starred Teja Sajja and was directed by Prasanth Varma."
+    ],
+    "entities": {
+      "people": [
+        "Panja Vaisshnav Tej",
+        "Vi Anand",
+        "K Niranjan Reddy",
+        "Chaitanya Reddy",
+        "Teja Sajja",
+        "Prasanth Varma",
+        "Rohit Panikker"
+      ],
+      "titles": [
+        "Hanuman 2: The Rise of Vanaras",
+        "Hanu-Man",
+        "Hanuman Ansh"
+      ]
+    },
+    "keywords": [
+      "Hanuman 2 The Rise of Vanaras",
+      "Panja Vaisshnav Tej",
+      "Vi Anand",
+      "Prime Show Entertainment",
+      "K Niranjan Reddy"
+    ],
+    "images": [
+      {
+        "url": "https://filmfare.wwmindia.com/content/2026/nov/hanuman-2-the-rise-of-vanaras-announced-panja-vaisshnav-tej-to-lead-the-fantasy1795332400.jpg",
+        "caption": "Panja Vaisshnav Tej to Star in Hanuman 2: The Rise of Vanaras",
+        "source": "Filmfare"
+      }
+    ],
+    "published": "2026-11-22T13:01:21+05:30"
+  },
+  "19ybc3c": {
+    "id": "19ybc3c",
+    "type": "news",
+    "headline": "HBO Gears Up for the Highly Anticipated Return to Hogwarts with the Upcoming Harry Potter Series",
+    "dek": "With just over a month remaining until its grand premiere, HBO is preparing to launch its massive seven-season adaptation of the generation-defining books by J.K. Rowling.",
+    "body": [
+      {
+        "h": "The Countdown Begins for a Major Return",
+        "p": [
+          "The entertainment world is buzzing as the premiere countdown ticks down for HBO's upcoming television series set in the magical universe. Industry observers and fans alike are tracking the days until the debut, which marks one of the most significant television launches for the network since the arrival of House of the Dragon four years prior.",
+          "HBO has laid out an ambitious, long-term roadmap for the property. Plans currently include a total of seven seasons scheduled for rolling releases across the upcoming decade, signaling a massive corporate and creative investment in the magical franchise."
+        ]
+      },
+      {
+        "h": "A Fresh Approach to Familiar Material",
+        "p": [
+          "The upcoming episodic project draws its foundation directly from the globally recognized novels authored by J.K. Rowling. While previous cinematic treatments condensed the voluminous plots into eight feature films, the television format aims to offer a significantly more detailed and faithful adaptation of the original source material.",
+          "The original cinematic adaptations famously launched the careers of young actors like Daniel Radcliffe, Emma Watson, and Rupert Grint, backed by a legendary ensemble of British talent. The new production intends to honor that legacy while carving out a distinct visual and narrative identity across its planned multi-season run."
+        ]
+      },
+      {
+        "h": "Controversy Surrounding the Author and Project",
+        "p": [
+          "Despite immense excitement from the fan base, the journey to the screen has faced notable hurdles. In recent years, J.K. Rowling has experienced intense public backlash and intense scrutiny over her perceived anti-transgender commentary, casting a shadow over various associated properties.",
+          "Because of these ongoing controversies, her active involvement in the new television endeavor has sparked fierce debate. The friction has translated into vocal protests and planned boycott efforts from segments of the audience, placing the creative team and network under intense public observation."
+        ]
+      },
+      {
+        "h": "Public Statements and Cast Reactions",
+        "p": [
+          "The friction surrounding the production has not gone unnoticed by those working on the project. Performers and behind-the-scenes crew members have found themselves questioned by the press, prompting several individuals to publicly clarify their personal stances regarding the controversy.",
+          "The climate surrounding the series reflects deep divisions within the broader fandom. Previously, the author herself did not hesitate to publicly criticize several members of the original film cast who spoke out against her views, highlighting the delicate political landscape the new franchise must navigate."
+        ]
+      },
+      {
+        "h": "Creative Leadership at the Helm",
+        "p": [
+          "Guiding the massive production are veteran television creators tasked with translating the sprawling magical world to the small screen. Francesca Gardiner serves as the primary writer for the project, steering the overarching narrative direction across the scripts.",
+          "Working alongside her is director Mark Mylod, who brings his extensive prestige television experience to the enterprise. Together, this creative duo is responsible for establishing the tone, pacing, and visual style of the multi-season adaptation from its foundational first season."
+        ]
+      },
+      {
+        "h": "A New Generation of Hogwarts Students",
+        "p": [
+          "The casting directors have selected a completely fresh group of youthful actors to shoulder the monumental legacy of the primary trio. Dominic McLaughlin takes on the iconic mantle of the Boy Who Lived as Harry Potter.",
+          "Joining McLaughlin in the halls of the magical institution are Arabella Stanton and Alastair Stout, who have been cast in the crucial roles of his loyal best friends Hermione and Ron, respectively, carrying the emotional core of the narrative."
+        ]
+      },
+      {
+        "h": "Veteran Talent Filling Supporting Roles",
+        "p": [
+          "Balancing out the youthful energy of the main leads is an impressive roster of seasoned supporting actors. The ensemble brings decades of dramatic and comedic experience to the fictional institution.",
+          "Notable industry veterans confirmed to appear in the series include John Lithgow, Nick Frost, and Janet McTeer, adding considerable gravitas and acting pedigree to the sprawling ensemble cast of the HBO production."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "HBO is preparing to launch its highly anticipated seven-season Harry Potter television series in just over a month, adapting J.K. Rowling's books with a cast led by Dominic McLaughlin, Arabella Stanton, and Alastair Stout. The project faces notable controversy surrounding the author's public image alongside creative oversight from writer Francesca Gardiner and director Mark Mylod."
+        ]
+      }
+    ],
+    "facts": [
+      "HBO's Harry Potter series is set to premiere in just over a month.",
+      "The series has seven seasons planned for release over the next decade.",
+      "The books were previously adapted into an eight-film franchise starring Daniel Radcliffe, Emma Watson, and Rupert Grint.",
+      "The show is overseen by writer Francesca Gardiner and director Mark Mylod.",
+      "Dominic McLaughlin stars as Harry, with Arabella Stanton as Hermione and Alastair Stout as Ron.",
+      "The veteran supporting cast includes John Lithgow, Nick Frost, and Janet McTeer."
+    ],
+    "entities": {
+      "people": [
+        "J.K. Rowling",
+        "Daniel Radcliffe",
+        "Emma Watson",
+        "Rupert Grint",
+        "Francesca Gardiner",
+        "Mark Mylod",
+        "Dominic McLaughlin",
+        "Arabella Stanton",
+        "Alastair Stout",
+        "John Lithgow",
+        "Nick Frost",
+        "Janet McTeer"
+      ],
+      "titles": [
+        "Harry Potter",
+        "House of the Dragon"
+      ]
+    },
+    "keywords": [
+      "Harry Potter HBO series",
+      "Dominic McLaughlin Harry Potter",
+      "Francesca Gardiner Mark Mylod",
+      "J.K. Rowling HBO show"
+    ],
+    "images": [
+      {
+        "url": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/09/harry-potter-2-1.jpg?w=1600&amp;h=900&amp;fit=crop",
+        "caption": "HBO Gears Up for the Highly Anticipated Return to Hogwarts with the Upcoming Harry Potter Series",
+        "source": "Collider"
+      }
+    ],
+    "published": "Sun, 22 Nov 2026 16:00:12 GMT"
+  },
+  "12pqcd0": {
+    "id": "12pqcd0",
+    "type": "news",
+    "headline": "Idris Elba Eyes Villain Role in Robert Pattinson's James Bond Franchise",
+    "dek": "Following the official casting of Robert Pattinson as 007, fan-favorite actor Idris Elba has expressed interest in joining the legendary spy series on the antagonist side.",
+    "body": [
+      {
+        "h": "The New Era of 007",
+        "p": [
+          "The long-running search for the next actor to take on the mantle of James Bond finally concluded on November 16, 2026. Official announcements revealed that Robert Pattinson will step into the shoes of the iconic English superspy.",
+          "This upcoming installment marks the first cinematic appearance for the character since the 2021 release of No Time to Die. Amazon MGM Studios executives, alongside input from Amazon founder Jeff Bezos, ultimately decided on Pattinson after considering other contenders such as Nicholas Hoult, Josh O'Connor, and Jack Lowden."
+        ]
+      },
+      {
+        "h": "Behind the Camera",
+        "p": [
+          "The next James Bond film will be directed by Denis Villeneuve. The visionary filmmaker has previously worked with the newly chosen 007 lead on the upcoming feature Dune: Part Three.",
+          "With Villeneuve at the helm and a fresh lead actor secured, attention within the pop culture community has rapidly shifted toward who might fill out the rest of the ensemble, particularly the primary villain."
+        ]
+      },
+      {
+        "h": "Idris Elba's Historical Connection",
+        "p": [
+          "Long before Robert Pattinson secured the lead role, Idris Elba was heavily associated with the James Bond franchise for well over a decade. Throughout the early 2010s, widespread rumors suggested that Elba should portray the secret agent himself.",
+          "While Elba consistently noted that those particular lead-role rumors were never officially legitimate, he has repeatedly expressed that he was deeply flattered by the constant fan enthusiasm and conversation surrounding his potential involvement."
+        ]
+      },
+      {
+        "h": "A Potential Turn as the Villain",
+        "p": [
+          "During a discussion with Complex, Idris Elba was asked if he would ever consider joining the massive franchise. The actor responded by congratulating Robert Pattinson, calling him an amazing actor who will perform brilliantly.",
+          "Elba noted that the franchise is a dream project for nearly any actor to be affiliated with. When directly asked if he would consider playing the villain, he answered with a slow nod, signaling clear interest."
+        ]
+      },
+      {
+        "h": "Proven Antagonist Chops",
+        "p": [
+          "Should Elba secure a role as an adversary in the upcoming 007 picture, it would allow him to enter the legendary spy universe without carrying the weight of being the face of the series.",
+          "The actor has a proven track record of playing intense, intimidating screen antagonists. Past performances include the Commandant in Beasts of No Nation, Krall in Star Trek Beyond, and Brixton Lore in Fast & Furious Presents: Hobbs & Shaw."
+        ]
+      },
+      {
+        "h": "Current Projects and Releases",
+        "p": [
+          "While discussions and fan theories about the next James Bond antagonist continue to circulate, audiences can watch Elba in other recent and upcoming projects. He currently stars in Masters of the Universe, which is streaming now on Prime Video.",
+          "Additionally, Elba stars in the survival thriller Above the Below, which is scheduled to open in theaters on December 4. Fans await further announcements from Denis Villeneuve and the production team regarding the direction of the villain casting."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Following the official casting of Robert Pattinson as James Bond under director Denis Villeneuve, actor Idris Elba has expressed interest in joining the franchise as a villain. Although Elba was previously rumored for the lead role years prior, a villainous turn would offer him a chance to enter the legendary series after years of fan association."
+        ]
+      }
+    ],
+    "facts": [
+      "On November 16, 2026, it was officially revealed that Robert Pattinson will play James Bond.",
+      "The next James Bond movie will be directed by Denis Villeneuve.",
+      "The last James Bond movie was 2021's No Time to Die.",
+      "Other contenders for the role included Nicholas Hoult, Josh O'Connor, and Jack Lowden.",
+      "Amazon MGM Studios executives and Jeff Bezos settled on Pattinson.",
+      "Florence Pugh stars opposite Pattinson in Dune: Part Three.",
+      "Rumors of Idris Elba playing James Bond dated back to the early 2010s.",
+      "Idris Elba played the Commandant in Beasts of No Nation, Krall in Star Trek Beyond, and Brixton Lore in Fast Furious Presents: Hobbs Shaw.",
+      "Masters of the Universe is streaming now on Prime Video.",
+      "Above the Below opens in theaters on December 4, 2026."
+    ],
+    "entities": {
+      "people": [
+        "Dan Selcke",
+        "Robert Pattinson",
+        "Sean Connery",
+        "Pierce Brosnan",
+        "Daniel Craig",
+        "Denis Villeneuve",
+        "Nicholas Hoult",
+        "Josh O'Connor",
+        "Jack Lowden",
+        "Jeff Bezos",
+        "Florence Pugh",
+        "Idris Elba",
+        "Martin Owen",
+        "Elizabeth Morris",
+        "Matt Mitchell",
+        "Vicki Sargent",
+        "Gina Carter",
+        "Matt Williams",
+        "Jackson Hero Fiennes Tiffin",
+        "Rhodes",
+        "Caitlin FitzGerald",
+        "Brooks",
+        "Isla Jackson-Ritchie"
+      ],
+      "titles": [
+        "Dune: Prophecy",
+        "The Rings of Power",
+        "No Time to Die",
+        "Dune: Part Three",
+        "The Batman: Part II",
+        "The Wire",
+        "Luther",
+        "Beasts of No Nation",
+        "Star Trek Beyond",
+        "Fast Furious Presents: Hobbs Shaw",
+        "Masters of the Universe",
+        "Above the Below",
+        "Mortal Kombat II",
+        "Bourne"
+      ]
+    },
+    "keywords": [
+      "Robert Pattinson James Bond",
+      "Idris Elba James Bond villain",
+      "Denis Villeneuve James Bond",
+      "Above the Below Idris Elba"
+    ],
+    "images": [
+      {
+        "url": "https://static0.moviewebimages.com/wordpress/wp-content/uploads/2026/11/zz-1.jpg?w=1600&amp;h=900&amp;fit=crop",
+        "caption": "Idris Elba Eyes Villain Role in Robert Pattinson's James Bond Franchise",
+        "source": "MovieWeb"
+      }
+    ],
+    "published": "Sun, 22 Nov 2026 16:09:46 GMT"
   }
 };
