@@ -1,6 +1,6 @@
 {
  "bucket": "37",
- "count": 67,
+ "count": 68,
  "titles": {
   "movie:10337": {
    "backdrop_path": "/t353Hj5sFXWQFriVzB1GiT3TSlm.jpg",
@@ -4431,6 +4431,102 @@
    "type": "movie",
    "vote_average": 5.1,
    "vote_count": 311
+  },
+  "movie:408537": {
+   "backdrop_path": "/65uaQK0WE6onMLmswihdduH93xH.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Daniel Mantovani",
+     "n": "Oscar Martínez"
+    },
+    {
+     "c": "Antonio",
+     "n": "Dady Brieva"
+    },
+    {
+     "c": "Irene",
+     "n": "Andrea Frigerio"
+    },
+    {
+     "c": "Julia",
+     "n": "Belén Chavanne"
+    },
+    {
+     "c": "Nuria",
+     "n": "Nora Navas"
+    },
+    {
+     "c": "Intendente",
+     "n": "Manuel Vicente"
+    },
+    {
+     "c": "Romero's Henchman #2",
+     "n": "Iván Steinhardt"
+    },
+    {
+     "c": "Florencio Romero",
+     "n": "Marcelo D'Andrea"
+    },
+    {
+     "c": "Gerardo Palacios",
+     "n": "Gustavo Garzón"
+    },
+    {
+     "c": "Conserje (as Julian Larquier)",
+     "n": "Julián Larquier Tellarini"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "12",
+   "date_kind": "release",
+   "director": [
+    "Mariano Cohn",
+    "Gastón Duprat"
+   ],
+   "genres": [
+    "Comedy",
+    "Drama"
+   ],
+   "id": 408537,
+   "industry": "world",
+   "origin_country": [
+    "AR",
+    "ES"
+   ],
+   "original_language": "es",
+   "overview": "After refusing big and prestigious awards all over the world, Mr. Mantovani, Literature Nobel Prize winner, accepts an invitation to visit his hometown in Argentina, which has been the inspiration for all of his books. It turns out that accepting this invitation is the worst idea of his life. Expect the unexpected when you have used real people as characters in your novels!",
+   "popularity": 0.7185,
+   "poster_path": "/bH63pZizNIJoYCE6kkVoj1lzkK.jpg",
+   "production_countries": [
+    "AR",
+    "ES"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-22",
+   "release_date": "2016-09-08",
+   "revenue": 0,
+   "runtime": 118,
+   "source": "catalogue",
+   "spoken_languages": [
+    "es"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "The Distinguished Citizen",
+   "trailer": {
+    "key": "2f5La9q2_k8",
+    "name": "THE DISTINGUISHED CITIZEN - Trailer with English subtitles",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.237,
+   "vote_count": 299
   },
   "movie:42437": {
    "backdrop_path": "/me8J6liwKAiabtJteO2qmPlKMrs.jpg",

@@ -1,6 +1,6 @@
 {
  "bucket": "41",
- "count": 75,
+ "count": 76,
  "titles": {
   "movie:1068141": {
    "backdrop_path": "/5gbeErtfkOgrppxlRYM3whR82NN.jpg",
@@ -401,6 +401,95 @@
    "type": "movie",
    "vote_average": 5.829,
    "vote_count": 476
+  },
+  "movie:11441": {
+   "backdrop_path": "/2b0m5uZY7ZFheQwg7qPuWks1Lz0.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Barnaba Cecchini",
+     "n": "Adriano Celentano"
+    },
+    {
+     "c": "Principessa Cristina",
+     "n": "Ornella Muti"
+    },
+    {
+     "c": "Gustavo VI di San Tulipe",
+     "n": "Adolfo Celi"
+    },
+    {
+     "c": "Betsy, la consorte di Gustavo VI",
+     "n": "Milla Sannoner"
+    },
+    {
+     "c": "console, segretario di Gustavo",
+     "n": "Enzo Garinei"
+    },
+    {
+     "c": "sindaco di Roma",
+     "n": "Corrado Olmi"
+    },
+    {
+     "c": "capo cameriere",
+     "n": "Franco Diogene"
+    },
+    {
+     "c": "vigile urbano",
+     "n": "Dino Cassio"
+    },
+    {
+     "c": "venditore di tappeti",
+     "n": "Tiberio Murgia"
+    },
+    {
+     "c": "cartomante",
+     "n": "Silvia Ferluga"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "12",
+   "date_kind": "release",
+   "director": [
+    "Pipolo",
+    "Castellano"
+   ],
+   "genres": [
+    "Comedy"
+   ],
+   "id": 11441,
+   "industry": "world",
+   "origin_country": [
+    "IT"
+   ],
+   "original_language": "it",
+   "overview": "Cristina is a rich, spoiled princess visiting Rome with her royal parents. The mission of their visit is to marry her off to a super-wealthy corporate type and thereby start to turn around the losses their small kingdom is experiencing in its casino business. These less-than-noble intentions get derailed when Barnaba, a zany bus driver enters their lives and falls madly in love with the gorgeous Cristina. He is nuts enough to succeed in this romantic chase after royalty, as love seems to fuel his determination to rid Cristina of her elitism and to make her see his own irrepressible attractions.",
+   "popularity": 1.7337,
+   "poster_path": "/9Mo9IKxv7XOMJrdVpWY0iZqPMhe.jpg",
+   "production_countries": [
+    "IT"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-22",
+   "release_date": "1981-12-18",
+   "revenue": 0,
+   "runtime": 100,
+   "source": "catalogue",
+   "spoken_languages": [
+    "it"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Madly in Love",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.698,
+   "vote_count": 300
   },
   "movie:11541": {
    "backdrop_path": "/jsv8eASSZmkKhYXMZqliYO9ntnd.jpg",

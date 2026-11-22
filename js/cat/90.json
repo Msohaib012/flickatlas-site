@@ -1,6 +1,6 @@
 {
  "bucket": "90",
- "count": 63,
+ "count": 64,
  "titles": {
   "movie:1022690": {
    "backdrop_path": "/wfdHCilp8cNPK7tK4jLgdUT7703.jpg",
@@ -1236,6 +1236,212 @@
    "type": "movie",
    "vote_average": 5.912,
    "vote_count": 472
+  },
+  "movie:12890": {
+   "backdrop_path": "/9PMYysg4BJKyOSPdaZdkFLLTVkg.jpg",
+   "budget": 7000000,
+   "cast": [
+    {
+     "c": "Lawrence Wetherhold",
+     "n": "Dennis Quaid"
+    },
+    {
+     "c": "Janet Hartigan",
+     "n": "Sarah Jessica Parker"
+    },
+    {
+     "c": "Chuck Wetherhold",
+     "n": "Thomas Haden Church"
+    },
+    {
+     "c": "Vanessa Wetherhold",
+     "n": "Elliot Page"
+    },
+    {
+     "c": "James Wetherhold",
+     "n": "Ashton Holmes"
+    },
+    {
+     "c": "Nancy",
+     "n": "Christine Lahti"
+    },
+    {
+     "c": "Missy",
+     "n": "Camille Mana"
+    },
+    {
+     "c": "William",
+     "n": "David Denman"
+    },
+    {
+     "c": "Hadley",
+     "n": "Don Wadsworth"
+    },
+    {
+     "c": "Roth",
+     "n": "Robert Haley"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Noam Murro"
+   ],
+   "genres": [
+    "Comedy",
+    "Drama",
+    "Romance"
+   ],
+   "id": 12890,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Professor Lawrence Wetherhold might be imperiously brilliant, monumentally self-possessed and an intellectual giant -- but when it comes to solving the conundrums of love and family, he's as downright flummoxed as the next guy.",
+   "popularity": 1.7834,
+   "poster_path": "/igIl4RKxOEYvhQGKCvM6vCRMiVm.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "Paramount Plus Premium"
+    },
+    {
+     "name": "Paramount Plus Essential"
+    },
+    {
+     "name": "Paramount+ Amazon Channel"
+    },
+    {
+     "name": "Paramount+ Roku Premium Channel"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Icon Film Amazon Channel"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/3wF8xISfVlcrc8X3jaa3uMUFGAr.png",
+     "name": "fuboTV",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/4N4BMd0Mm0kHAmF7RZgL5lW3cwc.png",
+     "name": "Paramount Plus Premium",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/uPWQPyF4nqwtfPNmGcFcenU57HG.png",
+     "name": "Paramount Plus Essential",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/bxX0YVOCY7bI85BKRlJAAQ2EjUR.png",
+     "name": "Paramount+ Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tnZCMxbcKdxuVmjxefyXCaip7q3.png",
+     "name": "Paramount+ Roku Premium Channel",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-22",
+   "release_date": "2008-04-11",
+   "revenue": 10569964,
+   "runtime": 95,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Sometimes the smartest people have the most to learn",
+   "title": "Smart People",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 5.855,
+   "vote_count": 300
   },
   "movie:13090": {
    "backdrop_path": "/3Ke0f7c6InUpoUn2Pi12ayX9EIU.jpg",
