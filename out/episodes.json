@@ -2919,7 +2919,7 @@
    "summary": null,
    "summary_at": null,
    "summary_error": {
-    "at": "2026-11-14T14:01:48Z",
+    "at": "2026-11-22T14:08:06Z",
     "error": "HTTP Error 503: Service Unavailable"
    }
   },
@@ -3620,7 +3620,7 @@
    "summary": null,
    "summary_at": null,
    "summary_error": {
-    "at": "2026-11-14T17:18:28Z",
+    "at": "2026-11-22T13:55:05Z",
     "error": "HTTP Error 503: Service Unavailable"
    }
   },
@@ -4431,7 +4431,11 @@
    "article_id": "pzyram",
    "posted_at": "2026-11-20T17:51:08Z",
    "summary": null,
-   "summary_at": null
+   "summary_at": null,
+   "summary_error": {
+    "at": "2026-11-22T13:59:45Z",
+    "error": "HTTP Error 503: Service Unavailable"
+   }
   },
   "p7N5KF4qgIo": {
    "video_id": "p7N5KF4qgIo",

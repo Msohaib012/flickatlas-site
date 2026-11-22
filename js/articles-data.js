@@ -220240,5 +220240,391 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Sun, 22 Nov 2026 12:00:18 GMT"
+  },
+  "imqy3q": {
+    "id": "imqy3q",
+    "type": "news",
+    "headline": "Kartik Aaryan Announces New Monster Thriller Kaaliya for 2028 Release on His 36th Birthday",
+    "dek": "Bollywood actor Kartik Aaryan has revealed his upcoming project titled Kaaliya, a monster thriller directed by Sandeep Modi and slated to hit theatres globally in May 2028.",
+    "body": [
+      {
+        "h": "Birthday Announcement and First Look",
+        "p": [
+          "Bollywood star Kartik Aaryan celebrated his 36th birthday by giving his supporters a major surprise announcement regarding his upcoming cinematic venture. On November 22, the actor took to his social media profile to share the first glimpse of his new movie, which has been officially titled Kaaliya.",
+          "The announcement immediately grabbed attention across entertainment circles, revealing that the project will venture into a distinct genre for the leading man. Fans who follow his career trajectory welcomed the update as a major highlight of his birthday celebrations."
+        ]
+      },
+      {
+        "h": "Directorial and Production Details",
+        "p": [
+          "The upcoming feature is directed by filmmaker Sandeep Modi, marking a notable milestone as his first-ever theatrical release. Modi has previously helmed acclaimed digital series such as Aarya and The Night Manager.",
+          "On the production front, Kaaliya is backed by Dharma Productions and Dopamine Studios. Additionally, Kartik Aaryan has taken on a co-producing role alongside prominent figures including Karan Johar, Adar Poonawalla, Apoorva Mehta, Somen Mishra, and Marijke deSouza."
+        ]
+      },
+      {
+        "h": "Mythology Meets Monster Thriller",
+        "p": [
+          "According to the creative team behind the film, Kaaliya draws deeply from the richness of Indian mythology and traditional folklore. The narrative is designed to incorporate cultural stories and generational beliefs into a modern cinematic format.",
+          "The filmmakers aim to deliver a homegrown identity to the monster thriller genre by blending universal storytelling intrigue with the distinct familiarity of India's diverse cultural imagination."
+        ]
+      },
+      {
+        "h": "Global Theatrical Release Schedule",
+        "p": [
+          "The makers have locked in a major theatrical rollout for the project, confirming that it will receive a worldwide release on May 5, 2028.",
+          "The studio rollout is being handled globally by Dharma Productions, ensuring that audiences across different territories will have access to the film on the scheduled date."
+        ]
+      },
+      {
+        "h": "Collaboration History and Future Projects",
+        "p": [
+          "Kaaliya represents Kartik Aaryan's third collaboration with Karan Johar's Dharma Productions. Their previous professional association included the 2025 romantic comedy Tu Meri Main Tera Main Tera Tu Meri, directed by Sameer Vidwans and co-starring Ananya Panday.",
+          "Beyond this monster thriller, the actor maintains a busy schedule with multiple upcoming releases. His upcoming slate features Naagzilla directed by Mrigdeep Singh Lamba with co-star Ravi Kishan, an untitled romantic musical directed by Anurag Basu alongside Sreeleela, and Captain India directed by Shimit Amin."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Bollywood actor Kartik Aaryan announced his new monster thriller Kaaliya on his 36th birthday, with a worldwide theatrical release scheduled for May 5, 2028. Directed by Sandeep Modi and co-produced by the actor alongside Dharma Productions and Dopamine Studios, the film draws on Indian mythology."
+        ]
+      }
+    ],
+    "facts": [
+      "Kartik Aaryan announced his new movie Kaaliya on his 36th birthday.",
+      "The announcement was made on November 22, 2026.",
+      "Kaaliya is directed by Sandeep Modi.",
+      "The film is scheduled for a theatrical release on May 5, 2028.",
+      "Kaaliya is produced by Dharma Productions and Dopamine Studios.",
+      "Naagzilla is set to hit the silver screen on February 12, 2027.",
+      "The romantic musical with Sreeleela and Anurag Basu releases on April 30, 2027.",
+      "Captain India directed by Shimit Amin releases on August 13, 2027."
+    ],
+    "entities": {
+      "people": [
+        "Kartik Aaryan",
+        "Sandeep Modi",
+        "Karan Johar",
+        "Adar Poonawalla",
+        "Apoorva Mehta",
+        "Somen Mishra",
+        "Marijke deSouza",
+        "Ananya Panday",
+        "Sameer Vidwans",
+        "Mrigdeep Singh Lamba",
+        "Ravi Kishan",
+        "Sreeleela",
+        "Anurag Basu",
+        "Shimit Amin"
+      ],
+      "titles": [
+        "Kaaliya",
+        "Aarya",
+        "The Night Manager",
+        "Tu Meri Main Tera Main Tera Tu Meri",
+        "Naagzilla",
+        "Captain India"
+      ]
+    },
+    "keywords": [
+      "Kartik Aaryan Kaaliya",
+      "Kaaliya release date",
+      "Sandeep Modi Kaaliya movie",
+      "Kartik Aaryan upcoming movies"
+    ],
+    "images": [
+      {
+        "url": "https://images.timesnownews.com/thumb/msid-156549193,thumbsize-288683,width-1280,height-720,resizemode-75/156549193.jpg",
+        "caption": "Kartik Aaryan Announces New Monster Thriller Kaaliya for 2028 Release on His 36th Birthday",
+        "source": "Times Now — Entertainment"
+      }
+    ],
+    "published": "2026-11-22T14:08:56Z"
+  },
+  "1i7kngb": {
+    "id": "1i7kngb",
+    "type": "news",
+    "headline": "Why Altered Carbon Outshines Cyberpunk Edgerunners in Sci-Fi Worldbuilding",
+    "dek": "While Cyberpunk Edgerunners receives heavy praise, Netflix has another science fiction series featuring even better worldbuilding and stronger standalone storytelling.",
+    "body": [
+      {
+        "h": "The Cyberpunk Television Landscape",
+        "p": [
+          "Cyberpunk Edgerunners has long been regarded as one of the standout cyberpunk shows produced, but it faces stiff competition across the television and movie landscape. Classic science fiction movies like RoboCop and Akira, alongside upcoming projects like Blade Runner 2099 on Prime Video and Neuromancer on Apple TV, highlight how crowded the genre has become.",
+          "Netflix itself hosts multiple contenders in this futuristic space. Among them, Altered Carbon emerges as a strong science fiction competitor that actually manages to feature much deeper worldbuilding than its animated counterpart."
+        ]
+      },
+      {
+        "h": "A Superior Standalone Experience",
+        "p": [
+          "A major distinction between the two titles lies in how well they function on their own. Cyberpunk Edgerunners cannot truly stand alone, relying heavily on outside lore from the Cyberpunk TTRPG and Cyberpunk 2077 for concepts like chrome, cyberpsychosis, slang words, and characters such as Adam Smasher.",
+          "Viewers often need supplemental material from video games and board games to fully grasp the narrative. In contrast, Altered Carbon takes great care to thoroughly explain concepts like Bay City, the Meths, stack technology, and Envoys without forcing audiences to consult Richard K. Morgan's book."
+        ]
+      },
+      {
+        "h": "Exploring the World of Takeshi Kovacs",
+        "p": [
+          "Altered Carbon follows Takeshi Kovacs, an elite revolutionary navigating a far-future society where wealthy elites achieve immortality by digitally transferring their consciousness into new bodies. The series provides an exquisite level of detail to support this ambitious core concept.",
+          "Rather than relying on vague hints, the show plunges viewers directly into the intricacies of its universe. It tackles complex socio-political threads, including the history of Quellcrist Falconer, the mechanics of stack technology, and the class tensions defining the lives of Meths and ordinary citizens."
+        ]
+      },
+      {
+        "h": "Intricate Dystopian Details",
+        "p": [
+          "Many entries in the cyberpunk genre typically establish their dystopian settings through passing mentions or background details. For instance, Blade Runner highlights its off-world colonies and historical background mainly through dialogue without deeply expanding upon them during the runtime.",
+          "Altered Carbon takes the opposite route by meticulously displaying every vital aspect of its dystopia. Season 1 incorporates investigations involving the Catholic Church and its views on resleeving, alongside street drugs, artificial intelligence, and governmental organizations."
+        ]
+      },
+      {
+        "h": "Expanding Across Off-World Colonies",
+        "p": [
+          "The scope of the narrative broadens even further as the series progresses. Season 2 takes the action directly onto one of the off-world colonies that typical franchises might only touch upon briefly in passing conversation.",
+          "This level of intricate detail establishes the streaming series as one of the richest and most expansive dystopian worlds in the history of the cyberpunk genre."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Netflix's science fiction series Altered Carbon offers superior and more detailed worldbuilding compared to Cyberpunk Edgerunners. While the animated show relies heavily on external video game and tabletop lore, Altered Carbon functions as a rich, self-contained dystopian narrative."
+        ]
+      }
+    ],
+    "facts": [
+      "Cyberpunk Edgerunners features the story of David Martinez in season 1 and Roman in season 2.",
+      "Altered Carbon stars Joel Kinnaman as Takeshi Kovacs.",
+      "Altered Carbon is based on a novel by Richard K. Morgan.",
+      "Cyberpunk Edgerunners borrows lore from the Cyberpunk TTRPG and Cyberpunk 2077, including the character Adam Smasher."
+    ],
+    "entities": {
+      "people": [
+        "David Martinez",
+        "Roman",
+        "Takeshi Kovacs",
+        "Adam Smasher",
+        "Quellcrist Falconer",
+        "Richard K. Morgan",
+        "Joel Kinnaman"
+      ],
+      "titles": [
+        "Cyberpunk: Edgerunners",
+        "Cyberpunk: Edgerunners 2",
+        "RoboCop",
+        "Akira",
+        "Blade Runner 2099",
+        "Neuromancer",
+        "Altered Carbon",
+        "Cyberpunk 2077",
+        "Blade Runner",
+        "Ghost In The Shell"
+      ]
+    },
+    "keywords": [
+      "Altered Carbon",
+      "Cyberpunk Edgerunners",
+      "Takeshi Kovacs",
+      "Adam Smasher"
+    ],
+    "images": [
+      {
+        "url": "https://static0.srcdn.com/wordpress/wp-content/uploads/2026/11/altered-carbon_da1c32.jpg?w=1600&amp;h=900&amp;fit=crop",
+        "caption": "Why Altered Carbon Outshines Cyberpunk Edgerunners in Sci-Fi Worldbuilding",
+        "source": "Screen Rant"
+      }
+    ],
+    "published": "Sun, 22 Nov 2026 12:30:18 GMT"
+  },
+  "1xsusrx": {
+    "id": "1xsusrx",
+    "type": "news",
+    "headline": "Hayley Atwell Teases New Avengers: Doomsday Trailer As Composer Alan Silvestri Finishes Score",
+    "dek": "Marvel actor Hayley Atwell reportedly spilled details about an upcoming promotional preview for Avengers: Doomsday while legendary composer Alan Silvestri finalized the movie's musical score.",
+    "body": [
+      {
+        "h": "Trailer Teased Outside Theater",
+        "p": [
+          "Marvel Cinematic Universe actor Hayley Atwell recently provided fans with an exciting update regarding the promotional campaign for the upcoming blockbuster Avengers: Doomsday. While interacting with supporters outside the Winter Garden Theatre in New York following her performance in Much Ado About Nothing, the actress dropped hints about when audiences might expect a fresh preview.",
+          "Atwell, who reprises her role as Peggy Carter in the franchise, mentioned to the gathered crowd that a new promotional video could arrive imminently. Her comments immediately sparked intense speculation across online fan communities eager for more footage from the massive crossover event."
+        ]
+      },
+      {
+        "h": "First Reactions From Peggy Carter",
+        "p": [
+          "During her impromptu interaction with fans, Atwell also shared her personal reaction after viewing the upcoming promotional footage. She described the material simply as amazing, giving eager followers a vote of confidence regarding the quality of the studio's latest marketing output.",
+          "Although Marvel Studios has maintained an official silence regarding the exact launch date of this final preview, the actress's remarks suggest that the rollout is fast approaching as the theatrical debut draws near."
+        ]
+      },
+      {
+        "h": "Alan Silvestri Wraps Up Musical Score",
+        "p": [
+          "In tandem with the trailer rumors, online reports indicate that veteran composer Alan Silvestri has successfully completed the musical score for Avengers: Doomsday. The composer has previously helmed the soundscapes for major MCU entries such as The Avengers, Avengers: Infinity War, and Avengers: Endgame.",
+          "The completion of the score marks a major milestone in the post-production process, signaling that the blockbuster is rapidly approaching its finishing stages before arriving on the big screen."
+        ]
+      },
+      {
+        "h": "Post-Production Milestones And Runtime",
+        "p": [
+          "With the musical elements rendered and finalized, the production enters its absolute final leg of preparation. This progress confirms that the massive superhero event is firmly on track for its scheduled theatrical launch.",
+          "Additionally, details regarding the film's runtime have surfaced, indicating that the standard version will run for 2 hours, 29 minutes, and 36 seconds, while an alternative Infinity Vision cut is listed at 2 hours, 30 minutes, and 55 seconds."
+        ]
+      },
+      {
+        "h": "Character Legacies And Cast Scale",
+        "p": [
+          "The upcoming movie serves as a major crossover event bringing together numerous generations of superheroes alongside a massive ensemble cast. Fans can look forward to epic confrontations, including battles featuring Robert Downey Jr. stepping back into the franchise as Doctor Doom.",
+          "Atwell's character Peggy Carter has previously shared important cinematic moments with Steve Rogers, portrayed by Chris Evans, creating a rich history of storytelling that paves the way for this upcoming narrative chapter."
+        ]
+      },
+      {
+        "h": "Release Timeline And MCU Future",
+        "p": [
+          "Avengers: Doomsday is slated to hit theaters in India on December 17, 2026. The high-profile project is widely anticipated to inaugurate an entirely new era within the expansive Marvel Cinematic Universe.",
+          "As the studio ramps up its marketing blitz, audiences worldwide prepare for an ambitious storyline boasting heavy visual effects and the return of multiple iconic franchise stars."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Actor Hayley Atwell recently hinted at an upcoming trailer for Avengers: Doomsday while interacting with fans in New York. Simultaneously, reports confirmed that composer Alan Silvestri has finished the film's score as it prepares for a December 17, 2026 release."
+        ]
+      }
+    ],
+    "facts": [
+      "Hayley Atwell plays Peggy Carter",
+      "Alan Silvestri composed the film's score",
+      "Avengers: Doomsday is scheduled for release on December 17, 2026, in India",
+      "The standard version of the film is 2 hours, 29 minutes, and 36 seconds long",
+      "The Infinity Vision version is 2 hours, 30 minutes, and 55 seconds long",
+      "Robert Downey Jr. returns to the MCU as Doctor Doom"
+    ],
+    "entities": {
+      "people": [
+        "Hayley Atwell",
+        "Alan Silvestri",
+        "Robert Downey Jr.",
+        "Chris Evans",
+        "Chris Hemsworth",
+        "Steve Rogers",
+        "Peggy Carter"
+      ],
+      "titles": [
+        "Avengers: Doomsday",
+        "Much Ado About Nothing",
+        "The Avengers",
+        "Avengers: Infinity War",
+        "Avengers: Endgame",
+        "Avengers Endgame: Encore"
+      ]
+    },
+    "keywords": [
+      "Avengers Doomsday trailer",
+      "Hayley Atwell Avengers Doomsday",
+      "Alan Silvestri Avengers Doomsday score",
+      "Robert Downey Jr Doctor Doom"
+    ],
+    "images": [
+      {
+        "url": "https://images.timesnownews.com/thumb/msid-156549190,thumbsize-567480,width-1280,height-720,resizemode-75/156549190.jpg",
+        "caption": "Hayley Atwell Teases New Avengers: Doomsday Trailer As Composer Alan Silvestri Finishes Score",
+        "source": "Times Now — Entertainment"
+      }
+    ],
+    "published": "2026-11-22T14:08:56Z"
+  },
+  "g0ssjx": {
+    "id": "g0ssjx",
+    "type": "news",
+    "headline": "Anne Hathaway and Ewan McGregor Sci-Fi Thriller Becomes Global Streaming Phenomenon on HBO Max",
+    "dek": "While Anne Hathaway garners strong awards buzz for her role in Christopher Nolan's epic, her science-fiction film with Ewan McGregor conquers global streaming charts.",
+    "body": [
+      {
+        "h": "A Major Streaming Breakthrough",
+        "p": [
+          "The science-fiction monster film The End of Oak Street has climbed to the top of global streaming charts on HBO Max. The project currently stands as the most-watched feature on the platform worldwide.",
+          "Its unexpected dominance on the streaming service places it ahead of several prominent titles. Viewers have gravitated toward the feature in large numbers, pushing it past major competitors."
+        ]
+      },
+      {
+        "h": "Starring Anne Hathaway and Ewan McGregor",
+        "p": [
+          "The movie features a high-profile leading duo consisting of acclaimed actor Anne Hathaway alongside Star Wars veteran Ewan McGregor. Their combined star power has undoubtedly fueled significant audience interest.",
+          "The narrative centers around the two leads living a quiet suburban life. Suddenly, their home is violently torn from its original time and place, plunging them straight into prehistoric danger."
+        ]
+      },
+      {
+        "h": "Box Office and Critical Reception",
+        "p": [
+          "Prior to its digital success, the feature completed its theatrical run after pulling in $120 million globally. This commercial return was achieved against a reported production budget of $85 million.",
+          "In addition to turning a profit, the movie managed to secure a generally positive reception from professional critics. Reviewers praised its unique blend of science-fiction thrills and monster movie elements."
+        ]
+      },
+      {
+        "h": "Surpassing High-Profile Competitors",
+        "p": [
+          "On its way to claiming the number one spot on HBO Max, the sci-fi thriller had to outpace several established titles. Among the defeated contenders were Matilda and The Legend of Tarzan.",
+          "It also surpassed Reminders of Him, the screen adaptation of the popular novel by Colleen Hoover. This wide margin of victory underscores the strong demand for the project among subscribers."
+        ]
+      },
+      {
+        "h": "Hathaway's Impressive Awards Outlook",
+        "p": [
+          "The streaming milestone arrives while Hathaway simultaneously gains substantial traction in the ongoing Academy Awards race. Her performance as Penelope in Christopher Nolan's historical epic has turned heads.",
+          "Many industry analysts consider her the favorite to secure a nomination and potentially win the Best Supporting Actress prize. This follows her previous win for Les Misérables and her earlier nomination for Rachel Getting Married."
+        ]
+      },
+      {
+        "h": "Context Within Nolan's Blockbuster Success",
+        "p": [
+          "The historical epic directed by Christopher Nolan achieved unprecedented box-office milestones, raking in an incredible $1.8 billion worldwide. It currently stands as Nolan's highest-grossing film to date.",
+          "The massive ensemble cast supporting the project included Lupita Nyong’o, Charlize Theron, Matt Damon, Robert Pattinson, and Samantha Morton, who serves as a competitor for awards categories."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Anne Hathaway and Ewan McGregor's sci-fi thriller The End of Oak Street has become the most-watched movie globally on HBO Max. The project outperformed titles like Matilda and Reminders of Him following a successful theatrical run.",
+          "Simultaneously, Hathaway continues to generate major awards buzz for her role in Christopher Nolan's record-breaking historical epic."
+        ]
+      }
+    ],
+    "facts": [
+      "Anne Hathaway won Best Supporting Actress for Les Misérables in 2013.",
+      "Anne Hathaway was nominated for Best Actress for Rachel Getting Married in 2008.",
+      "Christopher Nolan's historical epic earned $1.8 billion at the box office.",
+      "The End of Oak Street earned $120 million against a reported budget of $85 million."
+    ],
+    "entities": {
+      "people": [
+        "Anne Hathaway",
+        "Ewan McGregor",
+        "Christopher Nolan",
+        "Lupita Nyong’o",
+        "Charlize Theron",
+        "Matt Damon",
+        "Robert Pattinson",
+        "Samantha Morton"
+      ],
+      "titles": [
+        "The End of Oak Street",
+        "The Odyssey",
+        "Les Misérables",
+        "Rachel Getting Married",
+        "Matilda",
+        "The Legend of Tarzan",
+        "Reminders of Him"
+      ]
+    },
+    "keywords": [
+      "Anne Hathaway The End of Oak Street",
+      "The End of Oak Street HBO Max",
+      "Ewan McGregor sci-fi movie",
+      "Anne Hathaway Christopher Nolan"
+    ],
+    "images": [
+      {
+        "url": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/11/the-end-of-oak-street.jpg?w=1600&amp;h=900&amp;fit=crop",
+        "caption": "Anne Hathaway and Ewan McGregor Sci-Fi Thriller Becomes Global Streaming Phenomenon on HBO Max",
+        "source": "Collider"
+      }
+    ],
+    "published": "Sun, 22 Nov 2026 12:00:12 GMT"
   }
 };
