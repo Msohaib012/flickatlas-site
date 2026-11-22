@@ -1,6 +1,6 @@
 {
  "bucket": "24",
- "count": 76,
+ "count": 77,
  "titles": {
   "movie:10424": {
    "backdrop_path": "/dAWlWircXrlnMjsVZSyb7vgMlIo.jpg",
@@ -3555,6 +3555,138 @@
    "type": "movie",
    "vote_average": 5.021,
    "vote_count": 473
+  },
+  "movie:206324": {
+   "backdrop_path": "/eryhpwnyvEWnsDapQ9jwbam8itA.jpg",
+   "budget": 4600000,
+   "cast": [
+    {
+     "c": "Milkha Singh",
+     "n": "Farhan Akhtar"
+    },
+    {
+     "c": "Biro",
+     "n": "Sonam Kapoor Ahuja"
+    },
+    {
+     "c": "Ishri Kaur",
+     "n": "Divya Dutta"
+    },
+    {
+     "c": "Hawaldar (Constable) Gurudev Singh",
+     "n": "Pavan Malhotra"
+    },
+    {
+     "c": "Stella",
+     "n": "Rebecca Breeds"
+    },
+    {
+     "c": "Army Officer",
+     "n": "Prakash Raj"
+    },
+    {
+     "c": "Ranveer Singh",
+     "n": "Yograj Singh"
+    },
+    {
+     "c": "Sampooran Singh",
+     "n": "Art Malik"
+    },
+    {
+     "c": "Taran Singh",
+     "n": "Herry Tangiri"
+    },
+    {
+     "c": "Perizaad",
+     "n": "Meesha Shafi"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U",
+   "date_kind": "release",
+   "director": [
+    "Rakeysh Omprakash Mehra"
+   ],
+   "genres": [
+    "Drama"
+   ],
+   "id": 206324,
+   "industry": "bollywood",
+   "origin_country": [
+    "IN"
+   ],
+   "original_language": "hi",
+   "overview": "The true story of the \"Flying Sikh\" world champion runner and Olympian Milkha Singh who overcame the massacre of his family, civil war during the India-Pakistan partition, and homelessness to become one of India's most iconic athletes.",
+   "popularity": 2.1461,
+   "poster_path": "/bXywc0CEzS1fIshPWWi4V8A58U3.jpg",
+   "production_countries": [
+    "IN"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-22",
+   "release_date": "2013-07-12",
+   "revenue": 25000000,
+   "runtime": 186,
+   "source": "catalogue",
+   "spoken_languages": [
+    "hi"
+   ],
+   "status": "Released",
+   "tagline": "You know him as 'The Flying Sikh'. Now you will see his Real Story.",
+   "title": "Bhaag Milkha Bhaag",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 7.51,
+   "vote_count": 300
   },
   "movie:21724": {
    "backdrop_path": "/yTg0O6dYknEp3yPDnsI1jp4Aj8T.jpg",

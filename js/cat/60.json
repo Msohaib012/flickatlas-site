@@ -1,6 +1,6 @@
 {
  "bucket": "60",
- "count": 86,
+ "count": 87,
  "titles": {
   "movie:10560": {
    "backdrop_path": "/f3cTz9cEPgrWWECMAGIYO9gRSLs.jpg",
@@ -3973,6 +3973,186 @@
    "type": "movie",
    "vote_average": 7.569,
    "vote_count": 14805
+  },
+  "movie:26860": {
+   "backdrop_path": "/9tcIzvTfIYkoxjLiTcaXdMwfzT6.jpg",
+   "budget": 50000,
+   "cast": [
+    {
+     "c": "Legendre",
+     "n": "Bela Lugosi"
+    },
+    {
+     "c": "Madeleine Short Parker",
+     "n": "Madge Bellamy"
+    },
+    {
+     "c": "Neil Parker",
+     "n": "John Harron"
+    },
+    {
+     "c": "Charles Beaumont",
+     "n": "Robert Frazer"
+    },
+    {
+     "c": "Dr. Bruner",
+     "n": "Joseph Cawthorn"
+    },
+    {
+     "c": "Chauvin, a zombie",
+     "n": "Frederick Peters"
+    },
+    {
+     "c": "Von Gelder, a zombie",
+     "n": "George Burr Macannan"
+    },
+    {
+     "c": "Silver",
+     "n": "Brandon Hurst"
+    },
+    {
+     "c": "Coach Driver",
+     "n": "Clarence Muse"
+    },
+    {
+     "c": "Pierre, the friendly witch doctor",
+     "n": "Dan Crimmins"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "NR",
+   "date_kind": "release",
+   "director": [
+    "Victor Halperin"
+   ],
+   "genres": [
+    "Horror"
+   ],
+   "id": 26860,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A wealthy landowner living in Haiti convinces a sorcerer to lure the woman he has fallen for away from her fiancé. The madman later betrays their agreement by keeping the woman for himself…as a zombie.",
+   "popularity": 1.8066,
+   "poster_path": "/s5DnfWHGeCExlweIFF4JOHKyx3H.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Bloodstream"
+    },
+    {
+     "name": "Artiflix"
+    },
+    {
+     "name": "Brew"
+    },
+    {
+     "name": "AMC+ Amazon Channel"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "MGM+ Amazon Channel"
+    },
+    {
+     "name": "Philo"
+    },
+    {
+     "name": "MGM Plus"
+    },
+    {
+     "name": "Night Flight Plus"
+    },
+    {
+     "name": "FlixFling"
+    },
+    {
+     "name": "TCM"
+    },
+    {
+     "name": "IndieFlix"
+    },
+    {
+     "name": "Midnight Pulp"
+    },
+    {
+     "name": "Full Moon Amazon Channel"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Troma NOW"
+    },
+    {
+     "name": "Midnight Pulp Amazon Channel"
+    },
+    {
+     "name": "IndieFlix Shorts Amazon Channel"
+    },
+    {
+     "name": "Cineverse Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/grSWrznc2QaymD5bM0MxMmcdrQl.png",
+     "name": "Bloodstream",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/hO4tZhtSJ7VrVnJusimkY3MltSx.png",
+     "name": "Artiflix",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/mwGw3KrIZxnACdeojp2a5cO41hi.png",
+     "name": "Brew",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tg5ufQ1GkYDCMxSSxemfeKWcvRe.png",
+     "name": "AMC+ Amazon Channel",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/grSWrznc2QaymD5bM0MxMmcdrQl.png",
+     "name": "Bloodstream",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-22",
+   "release_date": "1932-08-04",
+   "revenue": 0,
+   "runtime": 67,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Stranger things are happening than you ever dreamed of!",
+   "title": "White Zombie",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 5.962,
+   "vote_count": 300
   },
   "movie:2760": {
    "backdrop_path": "/8svHeSlKssWjscBaa2HnFZR9oo4.jpg",

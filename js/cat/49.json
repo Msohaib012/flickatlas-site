@@ -1,6 +1,6 @@
 {
  "bucket": "49",
- "count": 64,
+ "count": 65,
  "titles": {
   "movie:10349": {
    "backdrop_path": "/uTlZjD5uZ8C71pt4G8gt5QhhqIJ.jpg",
@@ -912,6 +912,162 @@
    "type": "movie",
    "vote_average": 6.1,
    "vote_count": 475
+  },
+  "movie:13549": {
+   "backdrop_path": "/Vj7v7S4B5winYCxfWwyJTKjNPL.jpg",
+   "budget": 2000000,
+   "cast": [
+    {
+     "c": "Marian Rolf",
+     "n": "Karen Black"
+    },
+    {
+     "c": "Ben Rolf",
+     "n": "Oliver Reed"
+    },
+    {
+     "c": "Arnold Allardyce",
+     "n": "Burgess Meredith"
+    },
+    {
+     "c": "Aunt Elizabeth",
+     "n": "Bette Davis"
+    },
+    {
+     "c": "Roz Allardyce",
+     "n": "Eileen Heckart"
+    },
+    {
+     "c": "David 'Davey' Rolf",
+     "n": "Lee Montgomery"
+    },
+    {
+     "c": "Walker",
+     "n": "Dub Taylor"
+    },
+    {
+     "c": "Ben's Father",
+     "n": "Joseph Riley"
+    },
+    {
+     "c": "Young Ben",
+     "n": "Todd Turquand"
+    },
+    {
+     "c": "Minister",
+     "n": "Orin Cannon"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG",
+   "date_kind": "release",
+   "director": [
+    "Dan Curtis"
+   ],
+   "genres": [
+    "Horror",
+    "Thriller",
+    "Mystery"
+   ],
+   "id": 13549,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A family moves into a large old mansion in the countryside which seems to have a mysterious and sinister power over its new residents.",
+   "popularity": 1.6627,
+   "poster_path": "/2ipG69lXOjGMX7F7qxJQzUoiUsd.jpg",
+   "production_countries": [
+    "IT",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "MGM+ Amazon Channel"
+    },
+    {
+     "name": "Philo"
+    },
+    {
+     "name": "MGM Plus Roku Premium Channel"
+    },
+    {
+     "name": "MGM Plus"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/3wF8xISfVlcrc8X3jaa3uMUFGAr.png",
+     "name": "fuboTV",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/gk7O3l9qHttE9F3hgDNnhbhlOs7.png",
+     "name": "MGM+ Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/mfbhzQwmQKjm7bLZPF5CTeu3Ilc.png",
+     "name": "Philo",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/surh9i8VYeeq9186fKHnUg5Q5dg.png",
+     "name": "MGM Plus Roku Premium Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/q63Uzpu7JAs566vA2G23Lk7LcID.png",
+     "name": "MGM Plus",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-22",
+   "release_date": "1976-10-18",
+   "revenue": 1560000,
+   "runtime": 116,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Up the ancient stairs, behind the locked door, something lives, something evil, from which no one has ever returned.",
+   "title": "Burnt Offerings",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.4,
+   "vote_count": 300
   },
   "movie:1357449": {
    "backdrop_path": "/y3j0JkvgKNN9hhDxLwp1xEmhFme.jpg",
