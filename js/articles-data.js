@@ -219398,5 +219398,384 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "2026-11-22T10:13:00Z"
+  },
+  "kjlhdx": {
+    "id": "kjlhdx",
+    "type": "news",
+    "headline": "Tamil Nadu CM Thalapathy Vijay catches eyes with a Rs 3.67 lakh royal outfit at high-profile reception",
+    "dek": "Actor and Tamil Nadu Chief Minister Thalapathy Vijay made a distinct statement at the grand wedding celebration of composer Anirudh Ravichander and Kavya Maran, sporting a custom-styled navy blue suit valued at nearly Rs 3.67 lakh.",
+    "body": [
+      {
+        "h": "The Grand Reception Event",
+        "p": [
+          "The wedding celebration of renowned composer Anirudh Ravichander and Kavya Maran in Chennai brought together numerous prominent figures from the entertainment industry. Among the heavy turnout of star guests, actor and Tamil Nadu Chief Minister Thalapathy Vijay emerged as a major center of attention.",
+          "His attendance at the extravagant reception immediately sparked widespread interest across digital platforms. Photos and video clips capturing his arrival quickly trended online, drawing comments from fans regarding his distinct personal style."
+        ]
+      },
+      {
+        "h": "A Closer Look at the Royal Attire",
+        "p": [
+          "Stepping away from conventional party wear, the actor selected a sophisticated navy blue suit paired with black trousers. The ensemble featured refined gold buttons, an intricately placed pocket square, and careful tailoring that created an distinctly regal aesthetic.",
+          "A closer inspection of the garment revealed subtle yet striking details, including a small maroon flap positioned near the collar. This thoughtful design element elevated the overall presentation, setting it apart from standard formal wear."
+        ]
+      },
+      {
+        "h": "Breaking Down the Cost Breakdown",
+        "p": [
+          "The financial value of the actor's designer wardrobe quickly became a primary topic of discussion among fashion enthusiasts. According to reports from Filmibeat, a jacket of comparable design carries an estimated market price of around Rs 2.30 lakh.",
+          "Additional components further contributed to the grand total. The silk pocket square was valued at approximately Rs 7,500, while the specially crafted gold buttons added another hefty sum of roughly Rs 1.47 lakh to the ensemble."
+        ]
+      },
+      {
+        "h": "Total Outfit Valuation",
+        "p": [
+          "When combining the estimated expenses of the jacket, pocket square, and custom metallic hardware, the cumulative cost of the outfit reaches nearly Rs 3.67 lakh. This impressive valuation added another layer of intrigue to his presence at the high-profile gathering.",
+          "Despite the widespread speculation and detailed cost estimates circulating across media channels, no official confirmation regarding the direct purchase of the clothing has been released by representatives yet."
+        ]
+      },
+      {
+        "h": "Celebrity Fashion Traditions",
+        "p": [
+          "The style choice reflected a broader sartorial trend frequently favored by prominent public figures and members of royalty. Tailored jackets featuring ornate buttons and structured accessories remain a staple of this elite fashion category.",
+          "Similar stylistic preferences have been observed on other notable personalities over time. Bollywood star Shah Rukh Khan and Jaipur royal family member Padmanabh Singh are among those recognized for embracing comparable royal tailoring."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Actor and Tamil Nadu Chief Minister Thalapathy Vijay drew significant attention at the wedding reception of Anirudh Ravichander and Kavya Maran by wearing a custom navy blue suit valued at nearly Rs 3.67 lakh. The distinctive outfit, featuring gold buttons and a maroon collar detail, sparked considerable online discussion and aligned with royal fashion trends seen among other high-profile figures."
+        ]
+      }
+    ],
+    "facts": [
+      "Thalapathy Vijay attended the wedding reception of Anirudh Ravichander and Kavya Maran in Chennai.",
+      "The total estimated cost of Vijay's outfit is Rs 3.67 lakh.",
+      "A similar jacket is priced around Rs 2.30 lakh.",
+      "The silk pocket square is priced around Rs 7,500.",
+      "The specially made gold buttons are valued at around Rs 1.47 lakh."
+    ],
+    "entities": {
+      "people": [
+        "Vijay",
+        "Anirudh Ravichander",
+        "Kavya Maran",
+        "Shah Rukh Khan",
+        "Padmanabh Singh"
+      ],
+      "titles": []
+    },
+    "keywords": [
+      "Vijay Anirudh Kavya Maran reception",
+      "Vijay Rs 3.67 lakh outfit",
+      "Tamil Nadu CM Vijay suit",
+      "Anirudh Ravichander wedding reception"
+    ],
+    "images": [
+      {
+        "url": "https://static.toiimg.com/thumb/msid-136072691,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "caption": "Tamil Nadu CM Thalapathy Vijay catches eyes with a Rs 3.67 lakh royal outfit at high-profile reception",
+        "source": "Times of India — Entertainment"
+      }
+    ],
+    "published": "2026-11-22T16:39:49+05:30"
+  },
+  "yk3yzx": {
+    "id": "yk3yzx",
+    "type": "news",
+    "headline": "Avengers: Doomsday Weekend Advance Booking Crosses Major Milestones In India",
+    "dek": "The upcoming Marvel Cinematic Universe crossover has already secured massive pre-sales ahead of its December 2026 theatrical debut.",
+    "body": [
+      {
+        "h": "Introduction To The Pre-Sale Frenzy",
+        "p": [
+          "The advance booking period for Anthony and Joe Russo's highly anticipated Marvel Cinematic Universe crossover event, Avengers: Doomsday, has evolved into a massive box office phenomenon across India. Scheduled to hit theatre screens on Thursday, December 17, 2026, the superhero epic is already breaking records weeks before its opening shows begin screening for audiences."
+        ]
+      },
+      {
+        "h": "Star-Studded Cast And Creative Team",
+        "p": [
+          "Directed by Anthony and Joe Russo, the feature brings together an ensemble cast featuring Robert Downey Jr. stepping into the role of Victor Doom alongside Chris Evans, Chris Hemsworth, Pedro Pascal, Florence Pugh, and Patrick Stewart. The immense star power has significantly contributed to the unprecedented early ticket sales."
+        ]
+      },
+      {
+        "h": "Extended Opening-Weekend Figures",
+        "p": [
+          "Covering pre-sales for the extended opening weekend from December 17 to December 20 across Thursday, Friday, Saturday, and Sunday, the blockbuster has accumulated a net collection of 34.50 crore and a gross collection of 40.79 crore, excluding blocked seats. These numbers reflect tremendous demand across the country before the film's official premiere."
+        ]
+      },
+      {
+        "h": "Ticket Sales And Show Counts",
+        "p": [
+          "The superhero feature has successfully moved 6.46 lakh tickets across a total of 7,462 shows throughout India. Additionally, the pre-sales have registered 205 houseful shows nationwide, with Tamil Nadu alone accounting for 120 of those fully booked screenings, while 26 shows are completely sold out."
+        ]
+      },
+      {
+        "h": "Surpassing Previous Lifetime Totals",
+        "p": [
+          "Purely through advance bookings, the crossover event has already overtaken the lifetime net collections of several other titles in India. It surpassed Evil Dead Burn, which finished with a lifetime net collection of 31.73 crore, as well as the lifetime total of The Devil Wears Prada 2 at 30.35 crore."
+        ]
+      },
+      {
+        "h": "Language Breakdown And Regional Revenue",
+        "p": [
+          "The English version leads the pre-sales with a gross collection of 34.46 crore, followed by the Hindi version at 4.9 crore and the Tamil version at 1.21 crore. Geographically, Maharashtra dominates the revenue charts with 9.06 crore in gross pre-sales, largely driven by IMAX centers located in Mumbai and Pune."
+        ]
+      },
+      {
+        "h": "Ranking Among 2026 Hollywood Releases",
+        "p": [
+          "With 34.50 crore locked in net collections from advance sales, the film has climbed from tenth to seventh place on the list of highest-grossing Hollywood releases in India for 2026. Premium formats such as IMAX 3D, Infinity Vision, 4DX, and Dolby Cinema have driven the average ticket price up to Rs 634."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Avengers: Doomsday has generated massive advance ticket sales in India ahead of its December 17, 2026 release, securing a net collection of 34.50 crore. The film has already surpassed the lifetime totals of select other titles to become the seventh highest-grossing Hollywood film of 2026 in the country through pre-sales alone."
+        ]
+      }
+    ],
+    "facts": [
+      "Release date: Thursday, December 17, 2026",
+      "Net collection from advance bookings: 34.50 crore",
+      "Gross collection from advance bookings: 40.79 crore",
+      "Total tickets sold: 6.46 lakh",
+      "Total shows: 7,462",
+      "Total houseful shows: 205",
+      "Houseful shows in Tamil Nadu: 120",
+      "Average Ticket Price: Rs 634",
+      "English version gross collection: 34.46 crore",
+      "Hindi version gross collection: 4.9 crore",
+      "Tamil version gross collection: 1.21 crore",
+      "Maharashtra gross pre-sales: 9.06 crore",
+      "Evil Dead Burn lifetime net collection: 31.73 crore",
+      "The Devil Wears Prada 2 lifetime net collection: 30.35 crore"
+    ],
+    "entities": {
+      "people": [
+        "Anthony Russo",
+        "Joe Russo",
+        "Robert Downey Jr.",
+        "Chris Evans",
+        "Chris Hemsworth",
+        "Pedro Pascal",
+        "Florence Pugh",
+        "Patrick Stewart",
+        "Lee Cronin",
+        "Nitesh Tiwari"
+      ],
+      "titles": [
+        "Avengers: Doomsday",
+        "Evil Dead Burn",
+        "The Devil Wears Prada 2",
+        "Ramayana",
+        "Spider-Man: Brand New Day",
+        "The Odyssey",
+        "Obsession",
+        "Project Hail Mary",
+        "Michael",
+        "Avengers: Endgame Encore",
+        "The Mummy"
+      ]
+    },
+    "keywords": [
+      "Avengers Doomsday India advance booking",
+      "Avengers Doomsday box office collection",
+      "Anthony and Joe Russo Avengers Doomsday",
+      "Robert Downey Jr Victor Doom"
+    ],
+    "images": [
+      {
+        "url": "https://www.koimoi.com/wp-content/new-galleries/2026/11/avengers-doomsday-box-office-01.jpg",
+        "caption": "Avengers: Doomsday Weekend Advance Booking Crosses Major Milestones In India",
+        "source": "Koimoi"
+      }
+    ],
+    "published": "Sun, 22 Nov 2026 10:21:04 +0000"
+  },
+  "6m5bdy": {
+    "id": "6m5bdy",
+    "type": "news",
+    "headline": "BBC Issues Apology After Explicit Audio Disrupts Live Broadcast of Strictly Come Dancing",
+    "dek": "Viewers tuning into the live broadcast from the Tower Ballroom in Blackpool experienced an unexpected interruption when inappropriate sounds echoed through the audio feed.",
+    "body": [
+      {
+        "h": "Unexpected Interruption at the Tower Ballroom",
+        "p": [
+          "The British Broadcasting Corporation found itself issuing a formal apology following a disruptive audio incident during a live transmission of Strictly Come Dancing. The transmission, originating from the iconic Tower Ballroom in Blackpool, caught the attention of home audiences when clear lewd noises emanated over the studio microphones. The incident occurred precisely as judge Motsi Mabuse was offering her critique regarding a routine performed by participant Delta Goodrem alongside partner Kai Widdrington."
+        ]
+      },
+      {
+        "h": "Immediate On-Air Reaction From the Panel",
+        "p": [
+          "Caught off guard by the background commotion, Mabuse paused her commentary to look toward the crowd in an attempt to pinpoint the source of the disturbance. Refusing to let the odd moment linger ambiguously, she quickly pivoted back to face the main lens and declared to the viewers that the noise did not originate from her. The strange broadcast disruption instantly became a talking point for people watching the event unfold in real time."
+        ]
+      },
+      {
+        "h": "Presenter Apology and Streaming Adjustments",
+        "p": [
+          "As the installment drew to a close, host Emma Willis addressed the viewing audience directly, offering an apology for any audio disruptions that may have caused offense during the program. Meanwhile, the network took swift action behind the scenes, ensuring that the offending sounds were edited out of the catch-up version subsequently uploaded to the iPlayer platform. This edit meant that later viewers experienced a cleaned-up version of the program compared to those who watched the initial live airing."
+        ]
+      },
+      {
+        "h": "Police Involvement and Ongoing Investigation",
+        "p": [
+          "Beyond standard broadcast apologies, the disruption prompted formal legal action as local authorities stepped in to review the circumstances. A representative for Lancashire Police confirmed awareness of the occurrence during the Blackpool filming session, noting that organizers had been contacted and a formal complaint formally lodged. Officials confirmed that a mobile device was seized from the scene while investigators work to determine whether any criminal statutes were violated."
+        ]
+      },
+      {
+        "h": "Historical Parallels With Past BBC Incidents",
+        "p": [
+          "This unusual occurrence marks the second time a live BBC production has been derailed by a similar prank involving unexpected adult audio. A parallel incident occurred during live build-up coverage of an FA Cup match between Wolves and Liverpool, anchored by Gary Lineker at Molineux Stadium. During that broadcast, similar explicit sounds played in the background, leaving presenters perplexed and later leading to the discovery of a taped mobile device attached to the set."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "The BBC issued an apology after explicit sounds interrupted a live broadcast of Strictly Come Dancing from the Tower Ballroom in Blackpool. Lancashire Police subsequently seized a mobile phone and launched an investigation following a formal complaint."
+        ]
+      }
+    ],
+    "facts": [
+      "The incident happened during Strictly Come Dancing at the Tower Ballroom in Blackpool.",
+      "Motsi Mabuse was giving feedback on Delta Goodrem and Kai Widdrington when the noise occurred.",
+      "Emma Willis apologized at the end of the show.",
+      "Lancashire Police seized a mobile phone and are investigating the matter.",
+      "A similar incident happened during a 2023 FA Cup broadcast anchored by Gary Lineker."
+    ],
+    "entities": {
+      "people": [
+        "Jake Kanter",
+        "Motsi Mabuse",
+        "Delta Goodrem",
+        "Kai Widdrington",
+        "Emma Willis",
+        "Gary Lineker",
+        "Alan Shearer"
+      ],
+      "titles": [
+        "Strictly Come Dancing",
+        "Dancing with the Stars",
+        "Heal"
+      ]
+    },
+    "keywords": [
+      "Strictly Come Dancing sex noises",
+      "BBC Strictly Come Dancing apology",
+      "Strictly Come Dancing Blackpool interruption",
+      "Motsi Mabuse Strictly Come Dancing"
+    ],
+    "images": [
+      {
+        "url": "https://deadline.com/wp-content/uploads/2026/11/0_Image-e1795342604720.jpg?w=1024",
+        "caption": "BBC Issues Apology After Explicit Audio Disrupts Live Broadcast of Strictly Come Dancing",
+        "source": "Deadline"
+      }
+    ],
+    "published": "Sun, 22 Nov 2026 10:36:00 +0000"
+  },
+  "75qrvo": {
+    "id": "75qrvo",
+    "type": "news",
+    "headline": "Ramayana Kerala Box Office Collection Day 18: Ranbir Kapoor and Yash Starrer Nears 70 Crore Milestone",
+    "dek": "The mythological drama Ramayana: Part 1 continues its strong theatrical run in Kerala, showing a solid surge during its third weekend and eyeing the seventy crore mark.",
+    "body": [
+      {
+        "h": "Third Weekend Surge in Kerala",
+        "p": [
+          "The mythological epic Ramayana: Part 1 is maintaining an impressive box office streak in Kerala, highlighted by a notable upward trend in collections as it moves through its third weekend. Trade tracking data indicates that the feature film is drawing steady audiences and performing strongly in the region.",
+          "With seventeen full days completed in cinemas, the cinematic adaptation has accumulated a massive total gross in the state. Observers are closely monitoring whether the momentum will propel the earnings toward the seventy crore milestone soon."
+        ]
+      },
+      {
+        "h": "Day 18 Projections and Expectations",
+        "p": [
+          "As the theatrical run entered Day 18 on Sunday, November 22, trade analyst reports suggested that the third Sunday earnings were tracking comfortably past the four crore mark. Updates shared on social media highlighted that ticket sales were responding exceptionally well to weekend crowds.",
+          "Although the final audited figures for the eighteenth day are yet to be fully compiled, early indications point to an impressive continuation of the weekend surge that surprised industry forecasters."
+        ]
+      },
+      {
+        "h": "Breakdown of Day 17 Earnings",
+        "p": [
+          "On its seventeenth day in theatres, the production brought in approximately three crore seventy-five lakh gross in Kerala, a figure that includes necessary 3D ticket charges. This represented a substantial recovery compared to the sixteenth day collection of two crore thirty-five lakh gross.",
+          "The steady inflow of ticket buyers over the weekend helped reverse a brief mid-week cooling period, reinforcing the film's staying power in southern markets well into its third week of release."
+        ]
+      },
+      {
+        "h": "First and Second Week Totals",
+        "p": [
+          "Earlier in its theatrical journey, the feature established a solid foundation by accumulating twenty-eight crore fifty lakh gross during an extended eight-day opening week. That robust start was followed by an equally steady second week spanning seven days, adding another twenty-nine crore fifty lakh gross.",
+          "Combined with subsequent collections from the sixteenth and seventeenth days, the total Kerala gross reached sixty-four crore ten lakh before the start of the eighteenth day."
+        ]
+      },
+      {
+        "h": "Cast, Crew and Creative Vision",
+        "p": [
+          "Directed by Nitesh Tiwari, Ramayana: Part 1 serves as the first instalment of a planned two-part adaptation of the revered Hindu epic. The screenplay was crafted by Tiwari alongside Shridhar Raghavan, with production duties managed by Namit Malhotra and Yash.",
+          "The large ensemble cast features Ranbir Kapoor in the role of Rama, Yash as Ravana, Sai Pallavi as Sita, Ravi Dubey as Lakshman, and Sunny Deol as Hanuman. Additional prominent cast members include Anupam Kher, Kajal Aggarwal, Rakul Preet Singh, and Lara Dutta."
+        ]
+      },
+      {
+        "h": "Music and Global Release Context",
+        "p": [
+          "A notable highlight of the production is its grand musical score, which features a historic collaboration between Academy Award winner Hans Zimmer and veteran composer A. R. Rahman.",
+          "The big-budget mythological drama was released worldwide in theatres on November 5, 2026, capitalizing on the lucrative Diwali festive season window."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Ramayana: Part 1 continues its strong box office journey in Kerala, touching a total gross of sixty-four crore ten lakh after seventeen days with expectations of crossing four crore on its eighteenth day. Directed by Nitesh Tiwari and starring Ranbir Kapoor and Yash, the film is steadily marching toward the seventy crore milestone in the state during its third weekend."
+        ]
+      }
+    ],
+    "facts": [
+      "Ramayana: Part 1 total Kerala gross after 17 days is ₹64.10 crore.",
+      "Day 17 Kerala collection was ₹3.75 crore.",
+      "Day 16 Kerala collection was ₹2.35 crore.",
+      "Extended first week collection was ₹28.50 crore.",
+      "Second week collection was ₹29.50 crore.",
+      "Day 18 falls on Sunday, November 22, 2026.",
+      "The film released worldwide on November 5, 2026."
+    ],
+    "entities": {
+      "people": [
+        "Ranbir Kapoor",
+        "Yash",
+        "Nitesh Tiwari",
+        "Shridhar Raghavan",
+        "Namit Malhotra",
+        "Sai Pallavi",
+        "Ravi Dubey",
+        "Sunny Deol",
+        "Anupam Kher",
+        "Kajal Aggarwal",
+        "Rakul Preet Singh",
+        "Vivek Oberoi",
+        "Kunal Kapoor",
+        "Arun Govil",
+        "Indira Krishnan",
+        "Lara Dutta",
+        "Hans Zimmer",
+        "A. R. Rahman",
+        "AB George"
+      ],
+      "titles": [
+        "Ramayana: Part 1"
+      ]
+    },
+    "keywords": [
+      "Ramayana Kerala Box Office Collection",
+      "Ramayana Part 1 box office",
+      "Ranbir Kapoor Ramayana film",
+      "Yash Ramayana Kerala gross"
+    ],
+    "images": [
+      {
+        "url": "https://images.filmibeat.com/img/2026/11/ramayana-90451795346413.jpg",
+        "caption": "Ramayana Kerala Box Office Collection Day 18: Ranbir Kapoor and Yash Starrer Nears 70 Crore Milestone",
+        "source": "FilmiBeat"
+      }
+    ],
+    "published": "Sun, 22 Nov 2026 16:51:37 +0530"
   }
 };

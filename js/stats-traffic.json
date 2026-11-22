@@ -1,33 +1,33 @@
 {
   "connected": true,
-  "generated": "2026-11-22T10:13:12Z",
+  "generated": "2026-11-22T12:04:06Z",
   "realtime": {
     "active_users": 2
   },
   "today": {
-    "users": 9,
-    "pageviews": 14,
-    "sessions": 9,
-    "avg_session_seconds": 15.2
+    "users": 26,
+    "pageviews": 34,
+    "sessions": 26,
+    "avg_session_seconds": 9.6
   },
   "last7": {
-    "users": 3059,
-    "pageviews": 3056,
-    "sessions": 3044,
-    "avg_session_seconds": 5.3
+    "users": 3076,
+    "pageviews": 3076,
+    "sessions": 3055,
+    "avg_session_seconds": 5.4
   },
   "top_pages": [
     {
       "path": "/person",
       "title": "Actor & Filmmaker Profile | FlickAtlas",
-      "views": 1422,
-      "avg_time_seconds": 4.1
+      "views": 1424,
+      "avg_time_seconds": 4.0
     },
     {
       "path": "/person",
       "title": "Actor & Filmmaker Profiles | FlickAtlas",
-      "views": 866,
-      "avg_time_seconds": 3.1
+      "views": 875,
+      "avg_time_seconds": 3.2
     },
     {
       "path": "/",
@@ -82,14 +82,14 @@
     {
       "source": "(direct)",
       "medium": "(none)",
-      "sessions": 2875,
-      "users": 2911
+      "sessions": 2885,
+      "users": 2927
     },
     {
       "source": "(not set)",
       "medium": "(not set)",
-      "sessions": 136,
-      "users": 136
+      "sessions": 137,
+      "users": 137
     },
     {
       "source": "google",
@@ -107,11 +107,11 @@
   "countries": [
     {
       "country": "Brazil",
-      "users": 587
+      "users": 591
     },
     {
       "country": "United States",
-      "users": 490
+      "users": 494
     },
     {
       "country": "Singapore",
@@ -123,7 +123,7 @@
     },
     {
       "country": "Hong Kong",
-      "users": 157
+      "users": 158
     },
     {
       "country": "China",
@@ -131,25 +131,25 @@
     },
     {
       "country": "Vietnam",
-      "users": 146
+      "users": 148
     },
     {
       "country": "Colombia",
-      "users": 140
+      "users": 141
     },
     {
       "country": "Mexico",
-      "users": 127
+      "users": 130
     },
     {
-      "country": "Pakistan",
+      "country": "Indonesia",
       "users": 118
     }
   ],
   "devices": [
     {
       "device": "desktop",
-      "users": 3039
+      "users": 3056
     },
     {
       "device": "mobile",
