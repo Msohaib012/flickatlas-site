@@ -224414,5 +224414,414 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Sun, 22 Nov 2026 21:31:18 GMT"
+  },
+  "e00mvu": {
+    "id": "e00mvu",
+    "type": "news",
+    "headline": "The Hunger Games Franchise Returns With Massive USD 120 Million Opening As Sunrise on the Reaping Dominates Box Office",
+    "dek": "Lionsgate's latest prequel-sequel revitalizes the dystopian franchise with a dominant North American debut, while other new releases and international hits carve out their places on the charts.",
+    "body": [
+      {
+        "h": "A Grand Return for a Major Franchise",
+        "p": [
+          "Fourteen years and six films into its existence, the dystopian cinematic universe based on Suzanne Collins' novels has reclaimed its massive box-office standing. Lionsgate's latest installment opened to an impressive USD 120 million across North American cinemas over the weekend, according to studio projections.",
+          "This strong showing proves that the cultural appetite for the series remains robust following the 2023 release of the earlier prequel, The Ballad of Songbirds and Snakes, which had achieved a worldwide total of USD 361.8 million."
+        ]
+      },
+      {
+        "h": "Global Launch and Production Background",
+        "p": [
+          "Produced and distributed by Lionsgate with a production budget estimated at roughly USD 150 million, the new picture is set twenty-five years prior to the events of the original trilogy. It acts as a narrative successor to the previous prequel.",
+          "On its opening weekend alone, the feature pulled in a remarkable USD 225 million globally, easily cementing its status as a major theatrical event for the studio."
+        ]
+      },
+      {
+        "h": "Rarified Air Among Annual Blockbusters",
+        "p": [
+          "Securing a domestic launch exceeding USD 100 million has proven to be an exclusive milestone in 2026. The film joined an elite group of high-earning franchise titles that achieved similar domestic opening heights this year, including Spider-Man: Brand New Day, Toy Story 5, The Super Mario Galaxy Movie, and Christopher Nolan's The Odyssey.",
+          "Notably, this commercial triumph occurred even while a notable portion of the key demographic was engaged with home entertainment releases like Grand Theft Auto VI."
+        ]
+      },
+      {
+        "h": "Demographic Strength and Audience Reception",
+        "p": [
+          "The driving force behind the weekend triumph was once again Gen Z, with approximately 74 percent of ticket buyers falling between the ages of 18 and 34. This demographic continues to power successful theatrical runs, mirroring trends seen earlier in the year with other popular releases.",
+          "Critical reception was generally favorable, reflected in a 67 percent fresh rating on Rotten Tomatoes, while paying audiences were even more enthusiastic, awarding the feature an A- CinemaScore that improved upon its predecessor's B+ grade."
+        ]
+      },
+      {
+        "h": "Cast Dynamics and Directorial Focus",
+        "p": [
+          "Directed by Francis Lawrence, the movie blends celebrated veteran performers such as Ralph Fiennes, Kieran Culkin, Elle Fanning, and Jesse Plemons with a fresh core ensemble featuring Jo Zada, Mckenna Grace, Ben Wang, and Whitney Peak.",
+          "The storyline zeroes in on the younger years of Haymitch Abernathy, portrayed here by Jo Zada in the role originally brought to life by Woody Harrelson. Unlike the villain-centric narrative of the previous prequel, this chapter places the deadly tournament itself back into the dramatic spotlight."
+        ]
+      },
+      {
+        "h": "Surrounding Box Office Performances",
+        "p": [
+          "Elsewhere on the charts, Amazon MGM Studios' comic drama I Play Rocky secured the second spot during its wide release debut, pulling in USD 9.3 million across 2,477 locations. Directed by Peter Farrelly and starring Anthony Ippolito as Sylvester Stallone, the film celebrated a rare A+ CinemaScore.",
+          "Meanwhile, Johnny Depp starrer Ebenezer experienced a 60 percent second-weekend dip to reach USD 7.7 million, bringing its domestic cumulative total to USD 32.5 million alongside USD 45.9 million internationally. Further down the rankings, the Indian epic Ramayana maintained its presence in the top ten with an estimated USD 2.1 million gross."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "The Hunger Games: Sunrise on the Reaping achieved a major USD 120 million domestic opening weekend, revitalizing the Lionsgate franchise with strong support from younger audiences. Alongside other chart performers like I Play Rocky and international titles such as Ramayana, the film highlights a competitive theatrical landscape ahead of the upcoming holiday season."
+        ]
+      }
+    ],
+    "facts": [
+      "The Hunger Games: Sunrise on the Reaping earned a USD 120 million opening in North America.",
+      "The Ballad of Songbirds and Snakes topped off at USD 361.8 million worldwide.",
+      "Sunrise on the Reaping launched with USD 225 million worldwide on its opening weekend.",
+      "The film was budgeted at about USD 150 million.",
+      "74% of the audience for the Hunger Games prequel-sequel were aged 18-34.",
+      "I Play Rocky came in second with $9.3 million from 2,477 locations.",
+      "Ebenezer grossed USD 32.5 million domestically and USD 45.9 million internationally.",
+      "Ramayana raked in an estimated USD 2.1 million."
+    ],
+    "entities": {
+      "people": [
+        "Jennifer Lawrence",
+        "Suzanne Collins",
+        "Christopher Nolan",
+        "Ralph Fiennes",
+        "Kieran Culkin",
+        "Elle Fanning",
+        "Jesse Plemons",
+        "Jo Zada",
+        "Mckenna Grace",
+        "Ben Wang",
+        "Whitney Peak",
+        "Francis Lawrence",
+        "Woody Harrelson",
+        "Peter Farrelly",
+        "Anthony Ippolito",
+        "Sylvester Stallone",
+        "Johnny Depp"
+      ],
+      "titles": [
+        "The Hunger Games: Sunrise on the Reaping",
+        "The Ballad of Songbirds and Snakes",
+        "Spider-Man: Brand New Day",
+        "Toy Story 5",
+        "The Super Mario Galaxy Movie",
+        "The Odyssey",
+        "Obsession",
+        "Backrooms",
+        "You Can See Everything",
+        "I Play Rocky",
+        "Green Book",
+        "Wicked For Good",
+        "Ebenezer",
+        "Focker in Law",
+        "Hexed",
+        "The Further Mis-Adventures of Cliff Booth",
+        "Paper Tiger",
+        "Ramayana",
+        "The Cat in the Hat",
+        "Godzilla Minus Zero",
+        "Wild Horse Nine",
+        "Ghost Soldier",
+        "Wildwood"
+      ]
+    },
+    "keywords": [
+      "The Hunger Games Sunrise on the Reaping box office",
+      "Sunrise on the Reaping USD 120 million opening",
+      "Ramayana box office",
+      "I Play Rocky CinemaScore"
+    ],
+    "images": [
+      {
+        "url": "https://static.toiimg.com/thumb/msid-136085480,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "caption": "The Hunger Games Franchise Returns With Massive USD 120 Million Opening As Sunrise on the Reaping Dominates Box Office",
+        "source": "Times of India — Entertainment"
+      }
+    ],
+    "published": "2026-11-23T04:23:33+05:30"
+  },
+  "4njw6j": {
+    "id": "4njw6j",
+    "type": "news",
+    "headline": "New Technology Brings Pokémon Black and White to Single-Screen 60FPS Displays",
+    "dek": "A newly released software project called Pokémon FullDex converts classic dual-screen Nintendo DS titles into a seamless single-screen widescreen format.",
+    "body": [
+      {
+        "h": "Introduction to Pokémon FullDex",
+        "p": [
+          "Classic entries in the Pokémon franchise continue to retain massive popularity among gamers around the world. Titles released during the Nintendo DS and 3DS eras are widely regarded as some of the finest installments in the entire series. Fans have long revisited these adventures, a habit further enabled by modern PC emulation and technological advancements.",
+          "However, playing dual-screen titles on single-monitor computer setups has historically presented layout challenges. A newly released software utility completely resolves this display hurdle, providing a smooth single-screen adaptation for classic monster-catching adventures."
+        ]
+      },
+      {
+        "h": "How the Single-Screen Conversion Works",
+        "p": [
+          "First highlighted by Retro Dodo, a public utility named Pokémon FullDex has been launched for players. Developed by creator mamesj, the software is available as a free download via GitHub. It successfully translates dual-screen Nintendo DS experiences into a unified 60 frames-per-second widescreen presentation.",
+          "The software works across a wide variety of hardware platforms, including Windows and Linux PCs, Mac computers, Steam Deck devices, handheld gaming PCs, Android phones, iPhones, iPads, and modded Nintendo Switch units. It allows up to 4K resolution on PC and 720p on the Switch, eliminating the need to squint at stacked handheld screens."
+        ]
+      },
+      {
+        "h": "Supported Games and Platforms",
+        "p": [
+          "The FullDex utility extends far beyond just Pokémon Black and White. The current compatibility list encompasses multiple generations of handheld classics. For Nintendo DS, supported titles include Black 2, White 2, Black, White, HeartGold, SoulSilver, Platinum, Diamond, and Pearl.",
+          "Additionally, Game Boy Advance titles like Emerald, Ruby, Sapphire, FireRed, LeafGreen, and Ultra Violet are supported. Early beta support for Nintendo 3DS games such as Omega Ruby and Alpha Sapphire is currently available on Windows, Android, and Switch, with X, Y, Ultra Sun, and Ultra Moon slated for future release."
+        ]
+      },
+      {
+        "h": "Features and Technical Reception",
+        "p": [
+          "The lightweight software package arrives equipped with several modern conveniences. Players can utilize built-in support for RetroAchievements alongside traditional cheat functionality. Demonstration videos showcasing the tech running live have impressed observers with how naturally the classic games adapt to the new aspect ratio.",
+          "Despite the technical praise, the project has attracted some discussion regarding its creation. The software was heavily assisted by Claude AI, introducing potential moral debates for gamers concerned about artificial intelligence integration within the gaming space."
+        ]
+      },
+      {
+        "h": "Wider Franchise Context",
+        "p": [
+          "This software release arrives as the overarching franchise moves past its milestone 30th anniversary celebrations. With those major festivities having largely concluded, the community anticipates a quieter period for official announcements in the immediate future.",
+          "Attention among fans is now shifting toward the horizon. The upcoming tenth-generation titles, Winds and Waves, represent the next major milestone for the series, with further updates anticipated during the first half of next year."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "A new software project called Pokémon FullDex allows classic dual-screen Nintendo DS and GBA games to run as single-screen, 60FPS widescreen experiences across various modern devices. While praised for solving hardware display issues and adding features like RetroAchievements, the tool has sparked discussion due to its reliance on Claude AI development assistance. Meanwhile, the franchise looks ahead to future releases following the close of its 30th anniversary events."
+        ]
+      }
+    ],
+    "facts": [
+      "Pokémon FullDex was created by mamesj and made available on GitHub.",
+      "The software converts dual-screen games into a single-screen 60FPS output.",
+      "Supported systems include Windows, Linux, Mac, Steam Deck, Android, iOS, and modded Nintendo Switch.",
+      "The 30th anniversary of the franchise has largely drawn to a close.",
+      "Winds and Waves are set to be the first games of the tenth generation."
+    ],
+    "entities": {
+      "people": [
+        "James Lynch",
+        "mamesj"
+      ],
+      "titles": [
+        "Pokémon Black",
+        "Pokémon White",
+        "Pokémon Black 2",
+        "Pokémon White 2",
+        "Pokémon HeartGold",
+        "Pokémon SoulSilver",
+        "Pokémon Platinum",
+        "Pokémon Diamond",
+        "Pokémon Pearl",
+        "Pokémon Emerald",
+        "Pokémon Ruby",
+        "Pokémon Sapphire",
+        "Pokémon FireRed",
+        "Pokémon LeafGreen",
+        "Pokémon Ultra Violet",
+        "Pokémon Omega Ruby",
+        "Pokémon Alpha Sapphire",
+        "Pokémon X",
+        "Pokémon Y",
+        "Pokémon Ultra Sun",
+        "Pokémon Ultra Moon",
+        "Pokémon Winds and Waves"
+      ]
+    },
+    "keywords": [
+      "Pokémon FullDex",
+      "Pokémon Black and White remaster",
+      "mamesj GitHub Pokémon",
+      "Pokémon Winds and Waves"
+    ],
+    "images": [
+      {
+        "url": "https://static0.srcdn.com/wordpress/wp-content/uploads/2026/08/pokemon-black-and-white-castelia-city-art.jpg?w=1600&amp;h=900&amp;fit=crop",
+        "caption": "New Technology Brings Pokémon Black and White to Single-Screen 60FPS Displays",
+        "source": "Screen Rant"
+      }
+    ],
+    "published": "Sun, 22 Nov 2026 23:00:18 GMT"
+  },
+  "1ua99ry": {
+    "id": "1ua99ry",
+    "type": "news",
+    "headline": "Walt Disney Imagineering Gives Fans First Look at New Indiana Jones Ride at Disney World",
+    "dek": "Theme park enthusiasts are getting an exclusive peek into the magic being crafted for the upcoming Indiana Jones attraction at Disney's Animal Kingdom.",
+    "body": [
+      {
+        "h": "First Look At Animal Kingdom's Newest Attraction",
+        "p": [
+          "Visitors planning a trip to Walt Disney World might want to hold off until later in the year 2027. That is when upcoming attractions like the brand-new Indiana Jones ride are scheduled to officially open at Disney's Animal Kingdom.",
+          "To satisfy curious fans, Walt Disney Imagineering recently released a special clip offering a first look at the magic currently under development by the creative teams."
+        ]
+      },
+      {
+        "h": "Origins Of The Project And Fan Reactions",
+        "p": [
+          "The upcoming thrill ride was first revealed back in September 2025 during the Destination D23 event held in Orlando, Florida. Initial announcements were met with some hesitation and concern from loyal park attendees.",
+          "While new additions are always thrilling, Animal Kingdom currently holds the fewest rides among the four main Disney World parks. The introduction of the new Indiana Jones adventure also meant saying goodbye to the beloved Dinosaur attraction."
+        ]
+      },
+      {
+        "h": "Overcoming The Loss Of Dinosaur",
+        "p": [
+          "Time often heals theme park wounds, and as the initial disappointment over losing Dinosaur began to fade, excitement for the replacement started to build among visitors. Reports indicate that the previous ride structure is being rethemed rather than completely demolished.",
+          "Supporters have expressed enthusiasm for the officially announced name and the Mayan-inspired architectural facade, with some praising its design over existing temple installations at other resorts."
+        ]
+      },
+      {
+        "h": "Details Of The Adventure Awaiting Guests",
+        "p": [
+          "When the destination finally opens, riders will embark on an expedition alongside the famous archaeologist. The storyline centers around a legendary temple featuring a hidden water passageway leading to an underworld guarded by a mythical serpent.",
+          "Although Imagineers are keeping most of the specific ride mechanics hidden, the experience is expected to feature cart-style vehicles delivering a bumpy journey filled with unexpected turns and dangerous wildlife."
+        ]
+      },
+      {
+        "h": "Setting The Scene In Tropical Americas",
+        "p": [
+          "The upcoming attraction will be officially titled Indiana Jones and the Myth of the Jade Serpent. It will reside within the newly planned Tropical Americas expansion area of Animal Kingdom.",
+          "Specifically, the thrilling experience is slated for the Bonanche Bioreseve section, which draws heavy design inspiration from the Maya region. This marks the second Indy-themed ride to explore Mayan culture, though it is the first of its kind in the United States."
+        ]
+      },
+      {
+        "h": "Harrison Ford's Involvement And Future Plans",
+        "p": [
+          "Perhaps the most thrilling element revealed about the upcoming attraction is that actor Harrison Ford served as the physical model for the ride's animatronic figure.",
+          "While official confirmation regarding whether the actor will provide voice lines remains pending, fans are hopeful for his complete audio contribution. The broader Tropical Americas expansion will also feature a dedicated zone inspired by Encanto."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Walt Disney Imagineering has shared a first look at the upcoming Indiana Jones and the Myth of the Jade Serpent ride coming to Animal Kingdom in 2027. The attraction replaces the former Dinosaur ride and will feature an animatronic modeled after Harrison Ford within the new Tropical Americas expansion."
+        ]
+      }
+    ],
+    "facts": [
+      "The new Indiana Jones ride is slated to open later in 2027 at Disney's Animal Kingdom.",
+      "The attraction was announced in September 2025 at Disney's Destination D23 event in Orlando, Florida.",
+      "The ride replaces the former Animal Kingdom attraction Dinosaur.",
+      "The official name of the ride is Indiana Jones and the Myth of the Jade Serpent.",
+      "The ride will be located in the Bonanche Bioreseve area of the Tropical Americas expansion.",
+      "Harrison Ford was used as the physical model for the attraction's animatronic."
+    ],
+    "entities": {
+      "people": [
+        "Harrison Ford",
+        "Danielle Bruncati"
+      ],
+      "titles": [
+        "Indiana Jones and the Myth of the Jade Serpent",
+        "Encanto",
+        "Dinosaur"
+      ]
+    },
+    "keywords": [
+      "Indiana Jones ride Disney World",
+      "Indiana Jones and the Myth of the Jade Serpent",
+      "Animal Kingdom Tropical Americas",
+      "Harrison Ford animatronic Disney"
+    ],
+    "images": [
+      {
+        "url": "https://cdn.mos.cms.futurecdn.net/wKGKLvu6hs5Vg8Q9ogXvsa-2000-80.jpg",
+        "caption": "Walt Disney Imagineering Gives Fans First Look at New Indiana Jones Ride at Disney World",
+        "source": "CinemaBlend"
+      }
+    ],
+    "published": "Sun, 22 Nov 2026 22:16:47 +0000"
+  },
+  "1cvnfax": {
+    "id": "1cvnfax",
+    "type": "news",
+    "headline": "Thousands of Indian Sikh Pilgrims Cross Wagah Border for Guru Nanak's Birth Anniversary",
+    "dek": "Over 2,300 devotees from India have crossed into Pakistan to participate in the 557th birth anniversary festivities of Baba Guru Nanak Dev Ji.",
+    "body": [
+      {
+        "h": "Arrival at the Wagah Border",
+        "p": [
+          "A large gathering of over 2,300 Indian Sikh pilgrims crossed over into Pakistan via the Wagah Border on Sunday. The visiting group arrived to take part in sacred celebrations honoring the 557th birth anniversary of Baba Guru Nanak Dev Ji, the foundational figure of Sikhism.",
+          "Upon crossing the frontier, the delegation received a warm welcome from local authorities and religious board representatives. Officials presented bouquets to the jatha leaders amidst special arrangements put in place to manage the arrival."
+        ]
+      },
+      {
+        "h": "Official Reception and Welcome Committees",
+        "p": [
+          "Key figures including Evacuee Trust Property Board Chairman Qamar Zaman, Secretary Nasir Mushtaq, and Pakistan Sikh Gurdwara Prabandhak Committee President Sardar Ramesh Singh Arora greeted the arrivals. Committee secretary general Satwant Kaur and other dignitaries were also present at the reception.",
+          "To streamline the entry process, special immigration counters and luggage screening zones were established at the border crossing. Rangers personnel were actively deployed to maintain safety and order throughout the welcoming proceedings."
+        ]
+      },
+      {
+        "h": "Logistical Support and Convoys",
+        "p": [
+          "The Evacuee Trust Property Board set up dedicated currency exchange counters to assist the travelers. Staff members swiftly processed identity cards and distributed bus tickets to ensure a seamless continuation of the journey.",
+          "Spokesperson Amir Hashmi confirmed that the visitors departed for Nankana Sahib divided into three distinct convoys. Heavy security accompanied the buses to the main commemoration site at Gurdwara Janam Asthan, the birthplace of the guru."
+        ]
+      },
+      {
+        "h": "Festivities and Distinguished Guests",
+        "p": [
+          "Formal festivities run through November 24, with projections anticipating more than 20,000 local and international Sikhs to join the observances. Federal Minister for Religious Affairs Sardar Muhammad Yousuf and other provincial officials are scheduled to join as special guests.",
+          "Attendees will engage in customary religious rites such as Bhog and Akhand Path Sahib. These devotional practices will be followed by a traditional palanquin procession known as Nagar Kirtan."
+        ]
+      },
+      {
+        "h": "Calls Regarding the Kartarpur Corridor",
+        "p": [
+          "Minister Arora used the platform to appeal for the immediate reopening of the Kartarpur Corridor. The route historically grants access to Gurdwara Darbar Sahib in Kartarpur, recognized as one of the holiest shrines in the faith.",
+          "Movement through the corridor had been suspended by India in May 2025 during a four-day bilateral conflict. Pilgrims and leaders continue to emphasize the profound spiritual connection they maintain with the shrines located in Pakistan."
+        ]
+      },
+      {
+        "h": "Extended Itinerary Across Historic Sites",
+        "p": [
+          "Following the main events, the pilgrimage itinerary includes visits to several other historic landmarks. Travelers will stop at Gurdwara Sacha Sauda in Farooqabad and stay overnight at Gurdwara Panja Sahib in Hassan Abdal.",
+          "The journey also features stops at Gurdwara Darbar Sahib in Narowal and various heritage gurdwaras across Lahore before the group departs back to India by road on December 1."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "More than 2,300 Indian Sikh pilgrims arrived in Pakistan through the Wagah Border to attend the 557th birth anniversary celebrations of Baba Guru Nanak Dev Ji. Officials received the visitors before sending them under tight security to Nankana Sahib for the main ceremonies, with broader visits planned across historic gurdwaras before returning to India on December 1."
+        ]
+      }
+    ],
+    "facts": [
+      "Over 2,300 Indian Sikh pilgrims arrived in Pakistan on Sunday",
+      "The celebrations mark the 557th birth anniversary of Baba Guru Nanak Dev Ji",
+      "The Pakistan High Commission in New Delhi issued around 3,100 visas",
+      "Over 20,000 Sikhs are expected to take part in the formal festivities",
+      "The main ceremony takes place on Nov 24 at Gurdwara Janam Asthan",
+      "India suspended movement through the Kartarpur Corridor in May 2025",
+      "The pilgrims will return to India on Dec 1"
+    ],
+    "entities": {
+      "people": [
+        "Baba Guru Nanak Dev Ji",
+        "Qamar Zaman",
+        "Nasir Mushtaq",
+        "Sardar Ramesh Singh Arora",
+        "Satwant Kaur",
+        "Amir Hashmi",
+        "Sardar Muhammad Yousuf",
+        "Kaldeep Singh Gurgaj",
+        "Parmjeet Singh",
+        "Guru Arjan Dev Ji"
+      ],
+      "titles": []
+    },
+    "keywords": [
+      "Indian Sikh pilgrims Pakistan",
+      "Guru Nanak birth anniversary",
+      "Wagah Border Sikh pilgrims",
+      "Kartarpur Corridor suspension"
+    ],
+    "images": [
+      {
+        "url": "https://i.dawn.com/large/2026/11/2223301843a3daa.webp",
+        "caption": "Thousands of Indian Sikh Pilgrims Cross Wagah Border for Guru Nanak's Birth Anniversary",
+        "source": "Dawn — Images/ICON"
+      }
+    ],
+    "published": "Mon, 23 Nov 2026 00:13:48 +0500"
   }
 };
