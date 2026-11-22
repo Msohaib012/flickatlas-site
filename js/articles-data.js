@@ -224035,5 +224035,384 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Sun, 22 Nov 2026 21:31:18 GMT"
+  },
+  "ubd975": {
+    "id": "ubd975",
+    "type": "news",
+    "headline": "Bigg Boss Tamil 8 Winner Muthukumaran Faces Police Case Following False Marriage Promise Allegations",
+    "dek": "Chennai police register a case against reality television personality Muthukumaran Jegatheesan after social media influencer Wahidha Akdhar files a complaint regarding a deceitful relationship.",
+    "body": [
+      {
+        "h": "Initial Police Action and Charges",
+        "p": [
+          "Chennai law enforcement authorities have officially initiated legal proceedings against reality television personality Muthukumaran Jegatheesan. The formal complaint was brought forward by social media influencer Wahidha Akdhar, triggering significant media attention across regional entertainment platforms.",
+          "Following her formal grievance submitted to the authorities, the matter was redirected to the Virugambakkam All-Women Police Station. Investigators have subsequently registered a case under Section 69 of the Bharatiya Nyaya Sanhita."
+        ]
+      },
+      {
+        "h": "Details of the Allegations",
+        "p": [
+          "According to details emerging from the police filings, the complainant stated that her initial interactions with the reality star began on the social media platform Instagram. Over time, their dynamic shifted from a mutual friendship into a romantic involvement.",
+          "The influencer alleged that the television winner made explicit commitments regarding marriage, even mentioning traditional rituals like tying the thali, before engaging in a physical relationship and ultimately declining to follow through on those promises."
+        ]
+      },
+      {
+        "h": "Statutory Provisions and Legal Context",
+        "p": [
+          "The specific legal provision utilized in this matter, Section 69 of the Bharatiya Nyaya Sanhita, directly addresses instances involving sexual intercourse obtained through deceitful practices. This encompasses situations featuring false promises of marriage that do not strictly constitute statutory rape under criminal definitions.",
+          "With the case now formally registered, law enforcement officials are anticipated to issue summons to Muthukumaran. This will enable authorities to record his official statement and address the specific accusations made by the influencer."
+        ]
+      },
+      {
+        "h": "Counter-Complaints and Defamation Claims",
+        "p": [
+          "Amid the escalating controversy, the reality television victor has taken legal steps of his own. Reports indicate that he approached the Chennai police commissioner to lodge a separate complaint against the social media influencer.",
+          "Within his counter-complaint, the television figure asserted that the individual has been actively disseminating defamatory statements concerning his character and personal life across various public channels."
+        ]
+      },
+      {
+        "h": "Social Media Backlash and Public Disclosure",
+        "p": [
+          "The underlying dispute first surfaced publicly when the influencer shared a series of emotional statements and video content on her Instagram account detailing the alleged romance. One of her published updates openly questioned the sincerity of the commitments she claimed were made to her.",
+          "Additional media reports surrounding the dispute noted that the influencer had experienced health complications requiring hospital admission following a suspected attempt at self-harm amidst the mounting public stress."
+        ]
+      },
+      {
+        "h": "Public Reactions and Industry Responses",
+        "p": [
+          "The unfolding situation has drawn commentary from various figures within the regional entertainment sphere. Notably, veteran lyricist Thamarai addressed the developing controversy through a public social media post on Facebook.",
+          "In her remarks, the lyricist expressed criticism regarding the television winner's conduct surrounding the allegations while publicly calling upon him to present his perspective of the events to the public."
+        ]
+      },
+      {
+        "h": "Background of the Reality Star",
+        "p": [
+          "The central figure in the controversy gained widespread public recognition following his participation and victory in the eighth season of the popular reality television program Bigg Boss Tamil.",
+          "That particular season was hosted by actor Vijay Sethupathi, and the subject was officially declared the ultimate winner of the competition on January 19, 2025."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Chennai police have registered a case under Section 69 of the Bharatiya Nyaya Sanhita against Bigg Boss Tamil Season 8 winner Muthukumaran Jegatheesan after influencer Wahidha Akdhar alleged he promised marriage before entering a physical relationship. While investigators prepare to summon the reality star for questioning, Muthukumaran has filed his own complaint alleging defamation, as industry figures like lyricist Thamarai comment on the unfolding controversy."
+        ]
+      }
+    ],
+    "facts": [
+      "Muthukumaran Jegatheesan won Bigg Boss Tamil Season 8 on January 19, 2025.",
+      "Wahidha Akdhar filed a complaint against Muthukumaran Jegatheesan with Chennai police.",
+      "A case was registered under Section 69 of the Bharatiya Nyaya Sanhita at the Virugambakkam All-Women Police Station.",
+      "Bigg Boss Tamil Season 8 was hosted by Vijay Sethupathi.",
+      "The controversy first gained attention on November 9, 2026."
+    ],
+    "entities": {
+      "people": [
+        "Muthukumaran Jegatheesan",
+        "Wahidha Akdhar",
+        "Vijay Sethupathi",
+        "Thamarai",
+        "Raisa Nasreen"
+      ],
+      "titles": [
+        "Bigg Boss Tamil Season 8",
+        "Bigg Boss Tamil 8"
+      ]
+    },
+    "keywords": [
+      "Muthukumaran Jegatheesan",
+      "Wahidha Akdhar",
+      "Bigg Boss Tamil 8",
+      "Virugambakkam All-Women Police Station"
+    ],
+    "images": [
+      {
+        "url": "https://images.timesnownews.com/thumb/msid-156549279,thumbsize-203776,width-1280,height-720,resizemode-75/156549279.jpg",
+        "caption": "Bigg Boss Tamil 8 Winner Muthukumaran Faces Police Case Following False Marriage Promise Allegations",
+        "source": "Times Now — Entertainment"
+      }
+    ],
+    "published": "2026-11-22T22:51:56Z"
+  },
+  "35moax": {
+    "id": "35moax",
+    "type": "news",
+    "headline": "The Gilded Age Season 4 Finale Date Revealed Alongside Remaining Episode Schedule",
+    "dek": "HBO has officially detailed the remaining schedule for The Gilded Age Season 4, leading up to the December finale and following an early Season 5 renewal.",
+    "body": [
+      {
+        "h": "Season 4 Progresses Toward Climax",
+        "p": [
+          "The popular period drama The Gilded Age is currently progressing through its fourth season on HBO, bringing viewers deeper into the high-stakes world of late-nineteenth-century New York. Fans eagerly following the ongoing storylines are tracking the developments surrounding major characters like Larry, Marian, Peggy, and William. At the same time, intense dramatic tension builds around pivotal events such as the Presidential Dinner and George's struggles.",
+          "As the narrative reaches its halfway point, audiences are naturally curious about the remaining timeline before the current chapter concludes. The network continues to roll out weekly installments, maintaining high engagement as intricate plot threads unfold for the sprawling ensemble cast."
+        ]
+      },
+      {
+        "h": "Official Season 4 Logline and Plot Direction",
+        "p": [
+          "HBO's official premise for the fourth season highlights the heavy price of social climbing. Bertha Russell previously transformed elite society, but her household now faces the inevitable fallout of her ambitious maneuvers. Meanwhile, Agnes van Rhijn spots an opening to reclaim her former status within the rigid social hierarchy.",
+          "Additional narrative arcs find Marian charting an entirely new direction for her future. Concurrently, Peggy strives to secure acceptance from her future in-laws, reinforcing the season's overarching theme that characters must exercise caution regarding their deepest ambitions in a rapidly shifting modern era."
+        ]
+      },
+      {
+        "h": "Remaining Episode Schedule and Release Times",
+        "p": [
+          "Viewers tracking the exact broadcast timeline have a specific sequence of Sunday night premieres to anticipate. Following the episode scheduled for November 22, the network has five remaining installments left to air on television and its streaming platforms.",
+          "Each new chapter makes its debut at 9 p.m. ET on HBO. The planned weekly rollout moves steadily through late autumn and into the first month of winter."
+        ]
+      },
+      {
+        "h": "Specific Air Dates Through December",
+        "p": [
+          "The calendar for the remainder of the season maps out clear dates for dedicated fans. Episode 4 airs on Sunday, November 22, followed immediately by Episode 5 on Sunday, November 29.",
+          "Moving into December, Episode 6 is set for December 6, and Episode 7 follows on December 13. This consistent weekly distribution ensures viewers stay closely connected to the unfolding drama."
+        ]
+      },
+      {
+        "h": "Season 4 Finale Date Confirmed",
+        "p": [
+          "The dramatic culmination of the fourth season arrives just before the end of the year. Season 4, Episode 8 serves as the official season finale and is scheduled to broadcast on Sunday, December 20.",
+          "This upcoming finale will tie together the various dramatic threads established throughout the fall television lineup, giving followers a definitive conclusion to this phase of the story."
+        ]
+      },
+      {
+        "h": "Early Renewal and Cast Departures",
+        "p": [
+          "Even as the fourth season races toward its December conclusion, the future of the historical drama is already secure. HBO has officially granted the series a renewal for a fifth season, ensuring that the elaborate period piece will return for more episodes.",
+          "Alongside the renewal news, updates from the production also point behind the scenes. Reports confirm that there are six major cast exits to note as the series transitions into its next narrative phase."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "HBO has revealed the official episode schedule and December 20 finale date for Season 4 of The Gilded Age. The hit period drama features five remaining episodes airing weekly on Sunday nights and has already secured an early renewal for Season 5 alongside six major cast exits."
+        ]
+      }
+    ],
+    "facts": [
+      "Season 4 has five more episodes left including November 22",
+      "Episode 4 airs on Sunday, November 22, 2026",
+      "Episode 5 airs on Sunday, November 29, 2026",
+      "Episode 6 airs on Sunday, December 6, 2026",
+      "Episode 7 airs on Sunday, December 13, 2026",
+      "Season 4 Episode 8 finale airs on Sunday, December 20, 2026",
+      "Episodes debut at 9 p.m. ET on HBO",
+      "The show is renewed for a fifth season",
+      "There are 6 major cast exits"
+    ],
+    "entities": {
+      "people": [
+        "Larry",
+        "Marian",
+        "Peggy",
+        "William",
+        "Bertha Russell",
+        "Agnes van Rhijn",
+        "George"
+      ],
+      "titles": [
+        "The Gilded Age"
+      ]
+    },
+    "keywords": [
+      "The Gilded Age Season 4",
+      "The Gilded Age finale date",
+      "The Gilded Age episodes",
+      "The Gilded Age Season 5"
+    ],
+    "images": [
+      {
+        "url": "https://www.justjared.com/wp-content/uploads/2026/11/coon-return.jpg",
+        "caption": "The Gilded Age Season 4 Finale Date Revealed Alongside Remaining Episode Schedule",
+        "source": "Just Jared"
+      }
+    ],
+    "published": "Sun, 22 Nov 2026 20:04:06 +0000"
+  },
+  "13v9607": {
+    "id": "13v9607",
+    "type": "news",
+    "headline": "28-Year-Old Man Found Dead in Locked Lodge Room in Tamil Nadu After Leaving Home for Work",
+    "dek": "Selvaraj, a 28-year-old resident of Tirupattur district, was discovered dead inside a locked private lodge room, prompting his mother to demand a thorough police inquiry into the mysterious circumstances.",
+    "body": [
+      {
+        "h": "Discovery of the Body",
+        "p": [
+          "A 28-year-old man was discovered dead inside a locked private lodge room situated in the Tirupattur district of Tamil Nadu. Staff members at the facility became concerned after receiving no response from the second-floor occupant and noticing a strange odor emanating from the accommodation.",
+          "Authorities were immediately summoned to the scene to handle the situation. Emergency responders and police officers had to force their way into the chamber to investigate the unresponsive guest."
+        ]
+      },
+      {
+        "h": "Background and Departure",
+        "p": [
+          "The deceased was identified as Selvaraj, the son of Shankar and a resident of Jayapuram Junction near Kathirimangalam. He had departed from his home several days prior, specifically informing his family that he was traveling to take up employment at a private company located in Hosur.",
+          "Instead of making the intended journey to Hosur, however, the victim checked into a private lodge positioned opposite the taluk office in Tirupattur. This location was situated merely two kilometers away from his actual residence."
+        ]
+      },
+      {
+        "h": "Lodge Stay Details",
+        "p": [
+          "During his check-in procedure, the guest informed the facility personnel that he needed a room to stay until Saturday. He explained to the staff that he was required to travel out of town in order to attend a relative's wedding ceremony.",
+          "When the scheduled departure day arrived, employees approached his second-floor door to verify if he was checking out. Finding the door bolted from the inside and detecting an unusual smell, they escalated the matter to local law enforcement."
+        ]
+      },
+      {
+        "h": "Evidence at the Scene",
+        "p": [
+          "Police personnel arrived at the lodge alongside members of the fire and rescue services to break open the locked entrance. Upon entering, they found the victim lying lifeless on the bed.",
+          "Investigators also reportedly uncovered liquor bottles and various snacks scattered inside the room. The remains were subsequently recovered and transported for formal medical examination."
+        ]
+      },
+      {
+        "h": "Medical Examination and Family Reaction",
+        "p": [
+          "The body was sent to the Tirupattur Government Medical College Hospital to undergo a postmortem examination. Authorities expect that the official autopsy report will reveal the exact cause of death.",
+          "Family members were promptly informed of the tragedy and rushed to the hospital facility. Relatives were visibly devastated, breaking down in grief upon seeing the victim's remains."
+        ]
+      },
+      {
+        "h": "Family Suspicions and Police Investigation",
+        "p": [
+          "The victim's mother, Sangeetha, formally approached the police department to lodge a complaint regarding the incident. She voiced strong suspicions surrounding the nature of her son's passing and called for a detailed inquiry.",
+          "Law enforcement officials have registered an official case and are examining the sequence of events from multiple perspectives. Investigators are currently working to determine why the victim stayed close to home instead of heading to Hosur as planned."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "A 28-year-old man named Selvaraj was found dead inside a locked lodge room in Tirupattur, Tamil Nadu, after initially telling his family he was traveling to Hosur for work. While police have sent the body for a postmortem examination and registered a case, his mother has raised suspicions and demanded a thorough investigation into the mysterious circumstances."
+        ]
+      }
+    ],
+    "facts": [
+      "Selvaraj was 28 years old.",
+      "The incident occurred in Tirupattur, Tamil Nadu.",
+      "Selvaraj left home on November 18, 2026.",
+      "The body was discovered on Saturday, November 22, 2026.",
+      "His father's name is Shankar.",
+      "His mother's name is Sangeetha."
+    ],
+    "entities": {
+      "people": [
+        "Selvaraj",
+        "Shankar",
+        "Sangeetha",
+        "Aditi Pandey"
+      ],
+      "titles": []
+    },
+    "keywords": [
+      "Selvaraj Tirupattur lodge",
+      "Selvaraj death Tamil Nadu",
+      "Tirupattur lodge dead body",
+      "Selvaraj mother Sangeetha complaint"
+    ],
+    "images": [
+      {
+        "url": "https://images.timesnownews.com/thumb/msid-156549385,thumbsize-22214,width-1280,height-720,resizemode-75/156549385.jpg",
+        "caption": "28-Year-Old Man Found Dead in Locked Lodge Room in Tamil Nadu After Leaving Home for Work",
+        "source": "Times Now — Entertainment"
+      }
+    ],
+    "published": "2026-11-22T22:51:56Z"
+  },
+  "1hr6z82": {
+    "id": "1hr6z82",
+    "type": "news",
+    "headline": "A Definitive Ranking of Every Thanksgiving Episode in the Animated Series",
+    "dek": "Explore how the Belcher family celebrates turkey day across eleven chaotic, humorous, and heartwarming holiday outings from the animated series.",
+    "body": [
+      {
+        "h": "The Tradition of Holiday Episodes",
+        "p": [
+          "While other animated shows heavily favor Halloween specials, this particular series reigns supreme when it comes to Thanksgiving. The holiday tradition officially kicked off back in season three and continued all the way through season fourteen, delivering a total of eleven turkey day adventures. These holiday installments have become a beloved staple for fans of the program.",
+          "The best outings typically revolve around Bob and his relentless quest to prepare the greatest holiday meal imaginable. Despite his high standards, various obstacles constantly block his path to culinary perfection. Even the episodes only tangentially related to the holiday deliver plenty of entertainment value."
+        ]
+      },
+      {
+        "h": "Stomach Flu and Miniature Golf",
+        "p": [
+          "Ranking at the bottom of the holiday run is an installment where Gene comes down with a severe stomach flu on the holiday itself. Quarantined in the bathroom during the festivities, the rest of the gang attempts to cheer him up through the door with stories, though most of the humor relies heavily on unappetizing jokes.",
+          "Another lower-tier entry features the family heading out to play miniature golf on Thanksgiving morning instead of focusing on the holiday feast. This outing feels largely like a filler story, showcasing Linda becoming overly competitive while the children break a mechanical yeti at the course."
+        ]
+      },
+      {
+        "h": "Retirement Home Chaos and Teddy's Hoarding",
+        "p": [
+          "In one mid-tier adventure, the family gets roped into volunteering at a local retirement home, placing immense pressure on Bob as he tries to cook for a large crowd while maintaining his own traditions. The high-stress situation provides plenty of chaotic energy.",
+          "Another memorable holiday story involves Teddy panicking about hosting duties, leading Linda and the kids to discover his secret hoarding habits. Trying to clear out his belongings offers a fascinating look into Teddy's life outside the burger joint and highlights his complex relationship with Bob."
+        ]
+      },
+      {
+        "h": "Saving Turkeys and School Plays",
+        "p": [
+          "A particularly charming outing features the family going on a mission to rescue a live turkey from a slaughterhouse rather than preparing one for dinner. Although Bob lacks enthusiasm for a live bird compared to a cooked one, the rescue mission brings plenty of heartwarming zaniness.",
+          "Another entry utilizes Tina's habit of writing fictional stories, which Louise and Gene turn into a chaotic school play to avoid a boring holiday presentation. The resulting performance features an unforgettable explosion of turkey gizzards and giblets."
+        ]
+      },
+      {
+        "h": "Snowstorms and Alleyway Cooking",
+        "p": [
+          "A severe snowstorm threatens holiday plans when Bob has to rescue Linda's eccentric sister Gayle from her apartment. After getting snowed in, Bob resorts to pulling Gayle and her cat back home on a makeshift sled while Linda struggles miserably with the turkey back at the house.",
+          "In another classic disaster, a gas leak ruins Bob's multi-year dream of making an extra-special turkey. Driven to the edge of his sanity, he resorts to cooking the bird over a small fire in the alleyway behind the restaurant."
+        ]
+      },
+      {
+        "h": "Paranoia and Landlord Schemes",
+        "p": [
+          "One of the funniest and most paranoid installments involves Bob waking up to find his perfect turkey mysteriously dumped in the toilet multiple times. Convinced someone is sabotaging him, he takes elaborate steps to catch the culprit while striking up a slightly flirty rapport with a deli counter worker.",
+          "The very first holiday installment features the eccentric landlord Mr. Fischoeder convincing the Belchers to play pretend as his family for the day so he can impress a woman."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "The animated series features a beloved tradition of holiday episodes spanning multiple seasons, focusing primarily on Bob's endless struggles to prepare the perfect turkey. These eleven installments capture a unique blend of chaotic family dynamics, high stress, and heartwarming humor that fans continue to rewatch."
+        ]
+      }
+    ],
+    "facts": [
+      "The Thanksgiving episode tradition began in season 3.",
+      "The tradition continued through season 14.",
+      "There are 11 Belcher family turkey day adventures.",
+      "The show had its 300th episode in season 16."
+    ],
+    "entities": {
+      "people": [
+        "Bob",
+        "Linda",
+        "Gene",
+        "Tina",
+        "Louise",
+        "Teddy",
+        "Gayle",
+        "Mr. Fischoeder",
+        "John Roberts",
+        "Megan Mullally",
+        "H. Jon Benjamin",
+        "Kristen Schaal",
+        "Eugene Mirman",
+        "Dan Mintz",
+        "Larry Murphy"
+      ],
+      "titles": [
+        "Bob's Burgers",
+        "The Simpsons"
+      ]
+    },
+    "keywords": [
+      "Bob's Burgers Thanksgiving episodes",
+      "Belcher family turkey day",
+      "Bob's Burgers holiday episodes ranked",
+      "Bob",
+      "Linda"
+    ],
+    "images": [
+      {
+        "url": "https://static0.srcdn.com/wordpress/wp-content/uploads/2026/11/untitled-design-18.jpg?w=1600&amp;h=900&amp;fit=crop",
+        "caption": "A Definitive Ranking of Every Thanksgiving Episode in the Animated Series",
+        "source": "Screen Rant"
+      }
+    ],
+    "published": "Sun, 22 Nov 2026 21:31:18 GMT"
   }
 };
