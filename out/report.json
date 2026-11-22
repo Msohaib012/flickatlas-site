@@ -2,30 +2,30 @@
  "today_pkt": "2026-11-22",
  "sources": 137,
  "status": {
-  "ok": 51,
-  "not_due": 52,
-  "unchanged": 31,
-  "error": 3
+  "ok": 50,
+  "not_due": 50,
+  "unchanged": 35,
+  "error": 2
  },
- "queue_total": 213,
- "stories_total": 216,
+ "queue_total": 206,
+ "stories_total": 208,
  "duplicates_removed": 0,
  "categories": {
   "Box Office": 1,
-  "Awards": 5,
+  "Awards": 3,
   "Trailers": 1,
   "Music / OST": 7,
-  "Episodes": 1,
+  "Episodes": 4,
   "Upcoming releases": 0,
-  "OTT / Streaming": 2,
-  "TV & Dramas": 1,
-  "Celebrity news & events": 19,
-  "Movies": 175,
+  "OTT / Streaming": 3,
+  "TV & Dramas": 0,
+  "Celebrity news & events": 18,
+  "Movies": 168,
   "Entertainment viral": 1
  },
  "dropped": {
-  "not-today": 5,
-  "fallback-blocked-non-entertainment": 15
+  "not-today": 4,
+  "fallback-blocked-non-entertainment": 4
  },
  "per_source": [
   {
@@ -45,7 +45,7 @@
   {
    "source": "FilmiBeat",
    "status": "ok",
-   "new": 0,
+   "new": 1,
    "total": 30,
    "note": ""
   },
@@ -72,10 +72,10 @@
   },
   {
    "source": "Pinkvilla",
-   "status": "error",
-   "new": 0,
-   "total": 0,
-   "note": "HTTP 404 (bot-block ho sakta hai)"
+   "status": "ok",
+   "new": 1,
+   "total": 30,
+   "note": ""
   },
   {
    "source": "Sacnilk",
@@ -108,7 +108,7 @@
   {
    "source": "Times of India — Entertainment",
    "status": "ok",
-   "new": 15,
+   "new": 0,
    "total": 20,
    "note": ""
   },
@@ -122,7 +122,7 @@
   {
    "source": "Hindustan Times — Entertainment",
    "status": "ok",
-   "new": 1,
+   "new": 2,
    "total": 30,
    "note": ""
   },
@@ -136,7 +136,7 @@
   {
    "source": "India Today — Movies",
    "status": "ok",
-   "new": 0,
+   "new": 1,
    "total": 20,
    "note": ""
   },
@@ -255,7 +255,7 @@
   {
    "source": "Collider",
    "status": "ok",
-   "new": 0,
+   "new": 4,
    "total": 10,
    "note": ""
   },
@@ -290,7 +290,7 @@
   {
    "source": "Screen Rant",
    "status": "ok",
-   "new": 5,
+   "new": 9,
    "total": 10,
    "note": ""
   },
@@ -317,10 +317,10 @@
   },
   {
    "source": "The Hollywood Reporter",
-   "status": "ok",
+   "status": "unchanged",
    "new": 0,
-   "total": 10,
-   "note": ""
+   "total": 0,
+   "note": "304, feed badli nahi"
   },
   {
    "source": "Rotten Tomatoes",
@@ -373,10 +373,10 @@
   },
   {
    "source": "JoBlo",
-   "status": "ok",
+   "status": "unchanged",
    "new": 0,
-   "total": 30,
-   "note": ""
+   "total": 0,
+   "note": "304, feed badli nahi"
   },
   {
    "source": "SlashFilm",
@@ -514,16 +514,16 @@
   {
    "source": "Dawn — Images/ICON",
    "status": "ok",
-   "new": 8,
+   "new": 1,
    "total": 29,
    "note": ""
   },
   {
    "source": "DramaFlight",
-   "status": "not_due",
+   "status": "unchanged",
    "new": 0,
    "total": 0,
-   "note": "6h cadence: check not due"
+   "note": "304, feed badli nahi"
   },
   {
    "source": "DramaPur",
@@ -542,21 +542,21 @@
   {
    "source": "Green TV Entertainment (YouTube)",
    "status": "ok",
-   "new": 0,
+   "new": 7,
    "total": 15,
    "note": ""
   },
   {
    "source": "HAR PAL GEO (YouTube)",
    "status": "ok",
-   "new": 1,
+   "new": 5,
    "total": 15,
    "note": ""
   },
   {
    "source": "HUM TV (YouTube)",
    "status": "ok",
-   "new": 2,
+   "new": 1,
    "total": 15,
    "note": ""
   },
@@ -639,10 +639,10 @@
   },
   {
    "source": "Dramabeans",
-   "status": "ok",
+   "status": "unchanged",
    "new": 0,
-   "total": 7,
-   "note": ""
+   "total": 0,
+   "note": "304, feed badli nahi"
   },
   {
    "source": "DramaWiki (D-Addicts)",
@@ -668,7 +668,7 @@
   {
    "source": "MyDramaList",
    "status": "ok",
-   "new": 1,
+   "new": 0,
    "total": 30,
    "note": ""
   },
@@ -689,7 +689,7 @@
   {
    "source": "allkpop",
    "status": "ok",
-   "new": 3,
+   "new": 1,
    "total": 30,
    "note": ""
   },
@@ -730,10 +730,10 @@
   },
   {
    "source": "Flickering Myth",
-   "status": "unchanged",
+   "status": "ok",
    "new": 0,
-   "total": 0,
-   "note": "304, feed badli nahi"
+   "total": 30,
+   "note": ""
   },
   {
    "source": "Geektown",
@@ -801,7 +801,7 @@
   {
    "source": "Just Jared",
    "status": "ok",
-   "new": 3,
+   "new": 2,
    "total": 25,
    "note": ""
   },
@@ -843,7 +843,7 @@
   {
    "source": "Page Six",
    "status": "ok",
-   "new": 1,
+   "new": 0,
    "total": 10,
    "note": ""
   },
@@ -940,10 +940,10 @@
   },
   {
    "source": "Storypick",
-   "status": "not_due",
+   "status": "unchanged",
    "new": 0,
    "total": 0,
-   "note": "6h cadence: check not due"
+   "note": "304, feed badli nahi"
   },
   {
    "source": "Mangobaaz",

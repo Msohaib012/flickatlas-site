@@ -216698,5 +216698,400 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Sun, 22 Nov 2026 03:02:51 GMT"
+  },
+  "e7e32f": {
+    "id": "e7e32f",
+    "type": "news",
+    "headline": "O.M Operation Mole Box Office Collection Day 2: Dhanush and Mammootty Starrer Nears Rs 61 Crore Worldwide",
+    "dek": "The spy action thriller O.M: Operation Mole experienced a slight decline on its second day in theatres, yet continued to pull steady numbers across Tamil, Telugu, and Hindi markets.",
+    "body": [
+      {
+        "h": "Second Day Theatrical Earnings",
+        "p": [
+          "The multilingual spy action thriller O.M: Operation Mole experienced a minor dip in its domestic collections on Saturday, November 21, marking its second day in cinemas. Despite this reduction in revenue compared to its opening day, the feature maintained a firm footing across all regional language versions.",
+          "According to estimates provided by Sacnilk, the feature added Rs 15.40 crore net to its domestic tally on its second day. This follows a strong opening day performance on Friday, November 20, when the film brought in Rs 18.10 crore, translating to a 14.9% decrease on Saturday."
+        ]
+      },
+      {
+        "h": "Cumulative Domestic Totals and Footfalls",
+        "p": [
+          "Following the conclusion of its second theatrical day, the cumulative net collection within India reached Rs 33.50 crore. Meanwhile, the domestic gross figures scaled up to touch Rs 38.90 crore.",
+          "Ticket counter data indicates that the feature drew approximately 25.87 lakh total footfalls across the country during its first two days of release, showing widespread audience interest."
+        ]
+      },
+      {
+        "h": "Language-Wise Performance Breakdown",
+        "p": [
+          "The Tamil version remained the primary driver of domestic earnings. On Saturday, it contributed an estimated Rs 11.40 crore net across 3,768 shows, recording a healthy occupancy rate of 50.1%.",
+          "The Telugu version brought in an additional Rs 3.50 crore from 1,645 shows with a 41.1% average occupancy, while the Hindi version brought in Rs 50 lakh from 1,075 shows at a 17% occupancy rate."
+        ]
+      },
+      {
+        "h": "International Box Office and Global Gross",
+        "p": [
+          "Beyond domestic borders, the production performed strongly in overseas markets, contributing significantly to its expanding global footprint. International territories added Rs 10 crore on Saturday, bringing the cumulative overseas gross to Rs 22 crore.",
+          "When combining domestic gross numbers and international earnings, the feature accumulated an estimated worldwide gross of Rs 60.90 crore by the end of its second day, placing it nearly at the Rs 61 crore milestone."
+        ]
+      },
+      {
+        "h": "Upcoming Weekend Projections",
+        "p": [
+          "The feature entered its third day in theatres on Sunday, November 22. Industry analysts are closely watching the weekend trajectory to determine if the project can sustain its early momentum.",
+          "The ongoing Sunday numbers will prove crucial in establishing the staying power of the multi-starrer thriller as it completes its first full weekend in release."
+        ]
+      },
+      {
+        "h": "Cast, Crew and Production Background",
+        "p": [
+          "Written and directed by Rajkumar Periasamy, the spy thriller features Dhanush in the principal role alongside a massive ensemble cast including Mammootty, Sai Pallavi, Sreeleela, Naseeruddin Shah, and Indrans.",
+          "The project is backed by production banners Wunderbar Films and RTake Studios, with an original soundtrack composed by Sai Abhyankkar."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "O.M: Operation Mole recorded a 14.9 percent drop in domestic net earnings on its second Saturday, pulling in Rs 15.40 crore to take its two-day India net total to Rs 33.50 crore. Buoyed by strong international contributions, the Dhanush and Mammootty starrer pushed its combined worldwide gross close to the Rs 61 crore mark."
+        ]
+      }
+    ],
+    "facts": [
+      "O.M: Operation Mole collected Rs 15.40 crore net in India on its second day, Saturday, November 21.",
+      "The film earned Rs 18.10 crore on its opening day, Friday, November 20.",
+      "The second-day collection represented a 14.9% decline compared to day one.",
+      "The cumulative India net collection reached Rs 33.50 crore after two days.",
+      "Domestic gross collection stands at Rs 38.90 crore after two days.",
+      "The Tamil version collected an estimated Rs 11.40 crore net from 3,768 shows with a 50.1% occupancy.",
+      "The Telugu version contributed Rs 3.50 crore from 1,645 shows with a 41.1% occupancy.",
+      "The Hindi version recorded Rs 50 lakh from 1,075 shows with a 17% occupancy.",
+      "The film registered approximately 25.87 lakh footfalls across India in two days.",
+      "International markets contributed Rs 10 crore on Saturday, taking overseas gross to Rs 22 crore.",
+      "Worldwide gross reached an estimated Rs 60.90 crore after two days.",
+      "The film entered its third day on Sunday, November 22.",
+      "Rajkumar Periasamy is the writer and director of the film.",
+      "The cast features Dhanush, Mammootty, Sai Pallavi, Sreeleela, Naseeruddin Shah, and Indrans.",
+      "The film is produced by Wunderbar Films and RTake Studios with music by Sai Abhyankkar."
+    ],
+    "entities": {
+      "people": [
+        "Dhanush",
+        "Mammootty",
+        "Sai Pallavi",
+        "Sreeleela",
+        "Naseeruddin Shah",
+        "Indrans",
+        "Rajkumar Periasamy",
+        "Sai Abhyankkar"
+      ],
+      "titles": [
+        "O.M: Operation Mole"
+      ]
+    },
+    "keywords": [
+      "OM Operation Mole box office",
+      "Dhanush Mammootty film",
+      "OM box office collection day 2",
+      "Rajkumar Periasamy film"
+    ],
+    "images": [
+      {
+        "url": "https://images.filmibeat.com/img/2026/11/om-46461795320748.jpg",
+        "caption": "O.M Operation Mole Box Office Collection Day 2: Dhanush and Mammootty Starrer Nears Rs 61 Crore Worldwide",
+        "source": "FilmiBeat"
+      }
+    ],
+    "published": "Sun, 22 Nov 2026 09:45:43 +0530"
+  },
+  "ax7ozi": {
+    "id": "ax7ozi",
+    "type": "news",
+    "headline": "Luca Guadagnino Stepping Away From 'American Psycho' Film Project",
+    "dek": "The Oscar-nominated filmmaker has announced he is no longer directing the new adaptation of Bret Easton Ellis's novel for Lionsgate.",
+    "body": [
+      {
+        "h": "The Director Departs",
+        "p": [
+          "Filmmaker Luca Guadagnino will no longer direct the upcoming adaptation of American Psycho for Lionsgate. The Oscar-nominated director revealed his exit during an appearance on Deadline's Crew Call podcast, hosted by Anthony D'Alessandro.",
+          "Guadagnino noted that despite a wonderful script by writer Scott Z. Burns, the movie is not moving forward for him at this time, two years after the project was first announced."
+        ]
+      },
+      {
+        "h": "Background and Development",
+        "p": [
+          "In October 2024, news broke that Guadagnino was in final talks with Lionsgate to helm a fresh take on Bret Easton Ellis's 1991 satirical novel. Scott Z. Burns was attached to write the screenplay.",
+          "The production was set to be handled by Frenesy Films alongside Pressman Film, with Sam Pressman executive producing. Sam Pressman is the son of Edward R. Pressman, who produced the original 2000 feature film."
+        ]
+      },
+      {
+        "h": "Casting Speculation and Challenges",
+        "p": [
+          "As development progressed, the project generated significant online speculation regarding who might step into the iconic role of Patrick Bateman, offering a brief diversion from the ongoing casting hunt for James Bond.",
+          "Actor Patrick Schwarzenegger actively campaigned to secure the lead role, while Drew Starkey, who starred in Guadagnino's Queer, mentioned that he had read the script and found it amazing."
+        ]
+      },
+      {
+        "h": "Script Revisions and Rejections",
+        "p": [
+          "Despite early enthusiasm, the production faced hurdles behind the scenes. In February, original author Bret Easton Ellis stated that multiple high-profile actors had turned down the opportunity to star.",
+          "Ellis also revealed that Burns had completed a brand-new draft of the script after earlier talent passed on the previous version, teasing that the planned film would differ entirely from Mary Harron's previous adaptation."
+        ]
+      },
+      {
+        "h": "Legacy of the 2000 Original",
+        "p": [
+          "The literary character Patrick Bateman was originally created by Bret Easton Ellis as a satirical commentary on masculinity and Wall Street culture during the late twentieth century.",
+          "Mary Harron's 2000 film version famously starred Christian Bale as the homicidal investment banker, alongside a prominent ensemble cast that included Justin Theroux, Josh Lucas, Chloë Sevigny, Reese Witherspoon, Jared Leto, and Willem Dafoe."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Luca Guadagnino has confirmed he is no longer directing the new American Psycho adaptation written by Scott Z. Burns for Lionsgate. The project, which faced casting rejections and script revisions following its initial 2024 announcement, will proceed without the Oscar-nominated filmmaker."
+        ]
+      }
+    ],
+    "facts": [
+      "Luca Guadagnino is no longer directing the American Psycho adaptation.",
+      "The announcement was made on Deadline's Crew Call podcast with Anthony D'Alessandro on November 21, 2026.",
+      "Scott Z. Burns wrote the script for the canceled adaptation.",
+      "The project was initially revealed in October 2024 with Lionsgate, Frenesy Films, and Pressman Film.",
+      "Bret Easton Ellis published the original American Psycho novel in 1991.",
+      "Mary Harron directed the 2000 movie adaptation starring Christian Bale."
+    ],
+    "entities": {
+      "people": [
+        "Luca Guadagnino",
+        "Anthony D'Alessandro",
+        "Glenn Garner",
+        "Scott Z. Burns",
+        "Bret Easton Ellis",
+        "Sam Pressman",
+        "Edward R. Pressman",
+        "Patrick Schwarzenegger",
+        "Drew Starkey",
+        "Mary Harron",
+        "Christian Bale",
+        "Justin Theroux",
+        "Josh Lucas",
+        "Chloë Sevigny",
+        "Reese Witherspoon",
+        "Jared Leto",
+        "Willem Dafoe"
+      ],
+      "titles": [
+        "American Psycho",
+        "Queer"
+      ]
+    },
+    "keywords": [
+      "Luca Guadagnino American Psycho",
+      "Scott Z. Burns American Psycho",
+      "American Psycho film adaptation",
+      "Bret Easton Ellis novel"
+    ],
+    "images": [
+      {
+        "url": "https://deadline.com/wp-content/uploads/2026/11/American-Psycho-Luca-Guadagnino-2-shot.jpg?w=1000",
+        "caption": "Luca Guadagnino Stepping Away From 'American Psycho' Film Project",
+        "source": "Deadline"
+      }
+    ],
+    "published": "Sun, 22 Nov 2026 04:21:37 +0000"
+  },
+  "1qiy2g8": {
+    "id": "1qiy2g8",
+    "type": "news",
+    "headline": "Diljit Dosanjh Criticizes Double Standards Over Track Lyrics and Compares Treatment with Coldplay",
+    "dek": "Singer Diljit Dosanjh addressed restrictions on his tracks featuring references to alcohol and substance use during his concert at Narendra Modi Stadium, questioning why international acts face fewer objections.",
+    "body": [
+      {
+        "h": "Addressing Restrictions in Ahmedabad",
+        "p": [
+          "During his performance at the Narendra Modi Stadium in Ahmedabad as part of the AURA India Tour 2026, singer Diljit Dosanjh spoke out against the regulatory scrutiny directed at his musical numbers. He questioned why objections are frequently raised regarding his tracks that feature references to alcohol and substance use when similar content by international performers is overlooked.",
+          "The singer expressed his appreciation for the venue, noting that performing at the world's largest stadium was a long-held aspiration. He thanked the audience for helping realize that goal while drawing a direct comparison to how foreign artists are received during their tours in the country."
+        ]
+      },
+      {
+        "h": "Comparing International Acts",
+        "p": [
+          "Highlighting what he termed double standards, Diljit pointed out that when Coldplay performs songs containing lyrics about getting intoxicated and high, it goes without issue. He noted that while he personally appreciates such tracks, the reception differs drastically when local artists incorporate similar themes into their work.",
+          "He emphasized his local roots, clarifying that he was born in the country rather than abroad, and acknowledged the Indian musicians who travel alongside him to deliver performances globally. The commentary resonated with the stadium crowd as he defended his creative output against selective criticism."
+        ]
+      },
+      {
+        "h": "Official Notices and Specific Tracks",
+        "p": [
+          "The scrutiny surrounding his concert repertoire stems from official communications, including a notice issued on November 6 by the District Child Protection Officer under the Women and Child Development Department. The directive specifically flagged four tracks: Patiala Peg, 5 Taara, Jeeb Vicho Afeem, and Jatt Uthe Fire Karda.",
+          "Authorities raised concerns that the lyrical content of these numbers might negatively influence young children, particularly since the events are open to attendees above the age of five. Consequently, management was instructed to ensure these specific titles were excluded from his live setlists."
+        ]
+      },
+      {
+        "h": "Judicial Precedents and Legal Context",
+        "p": [
+          "The regulatory actions point back to a broader judicial stance, specifically referencing a July 2019 order by the Punjab and Haryana High Court. While addressing matters related to noise pollution, the court had previously expressed apprehension regarding the rising prevalence of lyrics celebrating liquor, wine, drugs, and violence.",
+          "The judicial observations noted a measurable increase in the glorification of such themes across Punjab, Haryana, and Chandigarh, providing the foundational rationale for current administrative bodies to restrict certain performances in front of younger audiences."
+        ]
+      },
+      {
+        "h": "Previous Hurdles in Delhi",
+        "p": [
+          "The Ahmedabad discussions follow operational challenges encountered during the singer's earlier tour stops, including his Delhi concert. On October 21, local law enforcement initially withheld permission for the event due to security considerations, specific threat inputs, and festive season arrangements.",
+          "Despite these initial hurdles, the concert eventually proceeded after necessary clearances were secured, allowing the artist to perform at the Jawaharlal Nehru Stadium on October 30 before moving forward with subsequent tour dates."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Diljit Dosanjh publicly questioned the differing standards applied to his music compared to international acts like Coldplay during his Ahmedabad concert. The remarks followed official notices restricting specific songs due to concerns over lyrical themes involving alcohol and substance references."
+        ]
+      }
+    ],
+    "facts": [
+      "Diljit Dosanjh performed at Ahmedabad's Narendra Modi Stadium during his AURA India Tour 2026.",
+      "A notice was issued on November 6 by the District Child Protection Officer under the Women and Child Development Department.",
+      "The notice names four songs: Patiala Peg, 5 Taara, Jeeb Vicho Afeem and Jatt Uthe Fire Karda.",
+      "The Punjab and Haryana High Court passed an order in July 2019 regarding lyrics celebrating alcohol, drugs and violence.",
+      "Delhi Police initially refused permission for the Delhi concert on October 21 due to security concerns.",
+      "The Delhi concert took place at Jawaharlal Nehru Stadium on October 30."
+    ],
+    "entities": {
+      "people": [
+        "Diljit Dosanjh",
+        "Santanu Das"
+      ],
+      "titles": [
+        "Patiala Peg",
+        "5 Taara",
+        "Jeeb Vicho Afeem",
+        "Jatt Uthe Fire Karda"
+      ]
+    },
+    "keywords": [
+      "Diljit Dosanjh",
+      "Coldplay",
+      "AURA India Tour 2026",
+      "Ahmedabad concert"
+    ],
+    "images": [
+      {
+        "url": "https://www.hindustantimes.com/ht-img/img/2026/11/22/1600x900/logo/Diljit_Dosanjh_1795321849239_C51V_1795321849395_4Bq8_80a05609-ab8f-4b46-a8b6-640141ffb636_kHwg.jpg",
+        "caption": "Diljit Dosanjh Criticizes Double Standards Over Track Lyrics and Compares Treatment with Coldplay",
+        "source": "Hindustan Times — Entertainment"
+      }
+    ],
+    "published": "Sun, 22 Nov 2026 10:11:06 +0530"
+  },
+  "yrsi6x": {
+    "id": "yrsi6x",
+    "type": "news",
+    "headline": "Apple TV Takes Over Sci-Fi Landscape With New 10-Part Neuromancer Series Following The Peripheral's Cancellation",
+    "dek": "Apple TV is stepping up to adapt William Gibson's seminal cyberpunk novel Neuromancer as a 10-part series, aiming to redeem a history of troubled screen adaptations after Prime Video's abrupt cancellation of The Peripheral.",
+    "body": [
+      {
+        "h": "The Legacy of William Gibson in Science Fiction",
+        "p": [
+          "William Gibson remains one of the most prominent figures in modern science fiction, widely celebrated as the pioneer of the cyberpunk subgenre. His defining novel, Neuromancer, stands as a literary masterpiece of the genre. Despite the enduring popularity and timeless nature of his bibliography, remarkably few of his cyberpunk narratives have made the transition to film and television.",
+          "While numerous video games, movies, and TV shows borrow loosely from his imaginative worlds, direct mainstream adaptations have been exceptionally rare. Projects like Johnny Mnemonic and New Rose Hotel arrived during the 1990s but struggled to capture widespread mainstream attention, leaving fans waiting decades for a definitive visual representation of his work."
+        ]
+      },
+      {
+        "h": "Looking Back at Prime Video's The Peripheral",
+        "p": [
+          "Prime Video attempted to bring Gibson's unique vision to life with the 2022 premiere of The Peripheral, which successfully grasped the gritty essence of near-future cyberpunk. Set across a 2032 timeline featuring economically struggling rural America and a 2099 London representing elite high-tech civilization, the series explored heavy themes including the apocalyptic consequence known as The Jackpot.",
+          "The eight-episode run demonstrated a genuine commitment to the complex source material, earning positive prospects for a second season. Unfortunately, despite its strong foundation and promising audience engagement, the renewal was ultimately reversed by Prime Video following the 2023 industry strikes by SAG-AFTRA and the Writers Guild of America."
+        ]
+      },
+      {
+        "h": "Apple TV's Ambitious Neuromancer Adaptation",
+        "p": [
+          "The challenges of translating complex speculative fiction to the screen have historically plagued the genre, much like the literary works of Philip K. Dick. However, Apple TV is poised to tackle William Gibson's supposedly unfilmable masterpiece, Neuromancer, turning it into a major 10-part streaming event designed to revitalize on-screen cyberpunk storytelling.",
+          "Apple TV's proven track record of handling intricate sci-fi literature—such as Isaac Asimov's Foundation—serves as a strong indicator of its capability to execute ambitious storytelling. Furthermore, William Gibson is directly involved in the production of the upcoming series, offering fans high hopes that the adaptation will remain faithful to his original vision."
+        ]
+      },
+      {
+        "h": "Production Details and Creative Team",
+        "p": [
+          "The upcoming 10-part series is slated for release on January 22, 2027, exclusively on Apple TV+. The project is spearheaded by creators and showrunners Graham Roland and J.D. Dillard, with Dillard also directing episodes of the ambitious sci-fi drama.",
+          "The extensive executive producer lineup features notable names including Drake, Dana Goldberg, David Ellison, William Gibson, Adel 'Future' Nur, Jason Shrier, Matt Thunell, Zack Hayden, alongside Roland and Dillard. Production duties are additionally managed by Karl Caffrey and Satch Watanabe."
+        ]
+      },
+      {
+        "h": "Star-Studded Cast and Story Premise",
+        "p": [
+          "The narrative of Neuromancer follows a specialized crew of mercenaries and a master hacker who target a massive, powerful corporation in a high-stakes cyber heist. The story originates from the foundational cyberpunk text which also serves as the first entry in Gibson's famous Sprawl trilogy.",
+          "To bring this complex dystopian universe to life, the series features a diverse and talented ensemble cast. The roster includes Callum Turner, Briana Middleton, Mark Strong, Peter Sarsgaard, Max Irons, Joseph Lee, Clemence Poesy, Marc Menchaca, André De Shields, and Sam Woolf."
+        ]
+      },
+      {
+        "h": "Redemption for Cyberpunk Television",
+        "p": [
+          "The cancellation of The Peripheral left a noticeable void for hard-edged science fiction television enthusiasts who appreciated mature storytelling. Apple TV's upcoming adaptation arrives at a critical juncture, promising to correct past industry missteps and give Gibson's iconic literary creations the grand platform they have long deserved.",
+          "With early promotional materials like the first trailer indicating a respectful and high-budget approach to the source material, anticipation surrounding the project continues to grow. If the series meets expectations, it could easily emerge as one of the defining television events of the decade."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Apple TV is adapting William Gibson's acclaimed cyberpunk novel Neuromancer into a 10-part series scheduled to premiere on January 22, 2027. This upcoming project follows the cancellation of Prime Video's earlier Gibson adaptation, The Peripheral, offering a new opportunity for faithful cyberpunk storytelling on the screen."
+        ]
+      }
+    ],
+    "facts": [
+      "William Gibson wrote the cyberpunk novel Neuromancer, the first in his Sprawl trilogy.",
+      "Prime Video premiered The Peripheral in 2022 and canceled its second season following the 2023 strikes.",
+      "Apple TV's Neuromancer series is scheduled for release on January 22, 2027.",
+      "The upcoming Apple TV series consists of 10 episodes.",
+      "Graham Roland and J.D. Dillard serve as creators and showrunners for the Neuromancer series."
+    ],
+    "entities": {
+      "people": [
+        "William Gibson",
+        "Graham Roland",
+        "J.D. Dillard",
+        "Chloe Grace Moretz",
+        "Callum Turner",
+        "Briana Middleton",
+        "Mark Strong",
+        "Peter Sarsgaard",
+        "Max Irons",
+        "Joseph Lee",
+        "Clemence Poesy",
+        "Marc Menchaca",
+        "André De Shields",
+        "Sam Woolf",
+        "Drake",
+        "Dana Goldberg",
+        "David Ellison",
+        "Adel 'Future' Nur",
+        "Jason Shrier",
+        "Matt Thunell",
+        "Zack Hayden",
+        "Karl Caffrey",
+        "Satch Watanabe",
+        "Philip K. Dick",
+        "Isaac Asimov",
+        "Dhruv Sharma"
+      ],
+      "titles": [
+        "Neuromancer",
+        "The Peripheral",
+        "Johnny Mnemonic",
+        "New Rose Hotel",
+        "Foundation"
+      ]
+    },
+    "keywords": [
+      "Neuromancer Apple TV series",
+      "William Gibson Neuromancer adaptation",
+      "The Peripheral cancellation Prime Video",
+      "Apple TV sci-fi shows 2027"
+    ],
+    "images": [
+      {
+        "url": "https://static0.srcdn.com/wordpress/wp-content/uploads/2026/11/e099ac7f-af2c-4507-a96f-061e935a6884.jpeg?w=1600&amp;h=900&amp;fit=crop",
+        "caption": "Apple TV Takes Over Sci-Fi Landscape With New 10-Part Neuromancer Series Following The Peripheral's Cancellation",
+        "source": "Screen Rant"
+      }
+    ],
+    "published": "Sun, 22 Nov 2026 04:31:19 GMT"
   }
 };
