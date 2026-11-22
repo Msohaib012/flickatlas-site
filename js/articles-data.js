@@ -217093,5 +217093,365 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Sun, 22 Nov 2026 04:31:19 GMT"
+  },
+  "1xsjijh": {
+    "id": "1xsjijh",
+    "type": "news",
+    "headline": "Vijay Prakash Recalls Working With AR Rahman and Shah Rukh Khan on Swades",
+    "dek": "Singer Vijay Prakash shared memorable behind-the-scenes stories from the recording of Pal Pal Hai Bhaari for Swades during a conversation at the Times Now Summit Karnataka.",
+    "body": [
+      {
+        "h": "The Times Now Summit Karnataka",
+        "p": [
+          "On November 21, the Times Now Summit Karnataka concluded with an engaging discussion titled The Voice of Karnataka – Music, Culture India's Creative Identity. The session featured Grammy-winning singer-composers Vijay Prakash and Ricky Kej talking about their creative journeys and musical experiences.",
+          "Ricky Kej, who had recently arrived from the 57th International Film Festival of India 2026, guided the conversation. He prompted Vijay Prakash to reflect on his early milestones in the Hindi film industry, particularly his involvement in the landmark movie Swades."
+        ]
+      },
+      {
+        "h": "Recording in Panchgani",
+        "p": [
+          "Vijay Prakash recounted receiving a call stating that the renowned composer AR Rahman wanted to collaborate with him. Expecting to travel to Chennai, he was instead directed to meet the crew in Panchgani, where the team had set up a remote workspace.",
+          "Upon arriving and opening the door, the singer was met with an astonishing lineup of legends. In the compact room, he found AR Rahman working with a small mixer and a computer microphone, alongside filmmaker Ashutosh Gowariker, lyricist Javed Akhtar, and Bollywood star Shah Rukh Khan."
+        ]
+      },
+      {
+        "h": "A Memorable Bollywood Debut",
+        "p": [
+          "The recording session was for the Dussehra song Pal Pal Hai Bhaari, which served as Vijay Prakash's playback singing debut in Bollywood. Director Ashutosh Gowariker later admitted at the film festival that managing the tense recording environment had been quite stressful.",
+          "Despite battling immense nervousness while performing in front of such distinguished company, Vijay persevered through the night. His vocal performance was successfully tracked and ultimately retained, becoming a deeply emotional element of the acclaimed feature film."
+        ]
+      },
+      {
+        "h": "An Immediate Follow-Up Track",
+        "p": [
+          "As the grueling session wrapped up around 7 am, AR Rahman posed a surprising question to the exhausted singer. The composer asked if he would be willing to record an additional Tamil track right then and there.",
+          "Recognizing that Rahman had likely been working continuously for the past 48 hours yet retained immense energy, Vijay readily agreed. Comparing the opportunity to soaking in sunlight rather than opening an umbrella, he felt privileged to accept the offer without hesitation."
+        ]
+      },
+      {
+        "h": "Reuniting for Slumdog Millionaire",
+        "p": [
+          "The professional partnership between Vijay Prakash and AR Rahman continued to flourish years after their initial collaboration. Four years later, in 2008, Vijay was selected as one of the four principal singers for the globally celebrated track Jai Ho.",
+          "The song was featured in the film Slumdog Millionaire, directed by Danny Boyle and starring Dev Patel, Freida Pinto, Madhur Mittal, Anil Kapoor, and the late Irrfan Khan. The track achieved historic success by winning the Oscar for Best Original Song and earning a Grammy Award."
+        ]
+      },
+      {
+        "h": "Life Lessons and Grammy Glory",
+        "p": [
+          "Reflecting on his enduring association with AR Rahman, Vijay credited the maestro for shaping his artistic perspective. He noted that the journey provided him with invaluable music lessons, profound life insights, and the unforgettable shared memory of their Grammy triumph.",
+          "The Grammy Award for Jai Ho was won in the category of Best Song Written For Motion Picture, Television Or Other Visual Media, cementing a major milestone in Indian music history on the international stage."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Singer Vijay Prakash spoke with Ricky Kej at the Times Now Summit Karnataka about recording his Bollywood debut song Pal Pal Hai Bhaari for AR Rahman in Swades. He shared memories of working alongside Shah Rukh Khan, Ashutosh Gowariker, and Javed Akhtar, before later reuniting with Rahman on the Oscar-winning track Jai Ho from Slumdog Millionaire."
+        ]
+      }
+    ],
+    "facts": [
+      "The Times Now Summit Karnataka ended on November 21, 2026.",
+      "Ricky Kej arrived at the summit from the 57th International Film Festival of India 2026.",
+      "Vijay Prakash recorded Pal Pal Hai Bhaari for Swades in Panchgani.",
+      "Vijay Prakash recorded Jai Ho for Slumdog Millionaire in 2008.",
+      "Slumdog Millionaire was directed by Danny Boyle.",
+      "Slumdog Millionaire starred Dev Patel, Freida Pinto, Madhur Mittal, Anil Kapoor, and Irrfan Khan.",
+      "Jai Ho won the Oscar for Best Original Song and a Grammy Award for Best Song Written For Motion Picture, Television Or Other Visual Media."
+    ],
+    "entities": {
+      "people": [
+        "Vijay Prakash",
+        "AR Rahman",
+        "Ricky Kej",
+        "Ashutosh Gowariker",
+        "Javed Akhtar",
+        "Shah Rukh Khan",
+        "Danny Boyle",
+        "Dev Patel",
+        "Freida Pinto",
+        "Madhur Mittal",
+        "Anil Kapoor",
+        "Irrfan Khan",
+        "Sonal Pandya"
+      ],
+      "titles": [
+        "Swades",
+        "Slumdog Millionaire",
+        "Jai Ho"
+      ]
+    },
+    "keywords": [
+      "Vijay Prakash Swades AR Rahman",
+      "Vijay Prakash Ricky Kej Times Now Summit",
+      "Pal Pal Hai Bhaari Shah Rukh Khan",
+      "Vijay Prakash Slumdog Millionaire Jai Ho"
+    ],
+    "images": [
+      {
+        "url": "https://images.timesnownews.com/thumb/msid-156547055,thumbsize-999256,width-1280,height-720,resizemode-75/156547055.jpg",
+        "caption": "Vijay Prakash Recalls Working With AR Rahman and Shah Rukh Khan on Swades",
+        "source": "Times Now — Entertainment"
+      }
+    ],
+    "published": "2026-11-22T05:52:20Z"
+  },
+  "2m0wfe": {
+    "id": "2m0wfe",
+    "type": "news",
+    "headline": "Jay Park Speaks Out Over LNGSHOT's Brief MAMA Awards Performance",
+    "dek": "Jay Park expressed disappointment on social media regarding the limited stage time given to LNGSHOT at the 2026 MAMA Awards, sparking discussions about industry politics and the obstacles faced by smaller music agencies.",
+    "body": [
+      {
+        "h": "The Controversy at the 2026 MAMA Awards",
+        "p": [
+          "Jay Park recently voiced strong disappointment regarding the brief performance duration allocated to the group LNGSHOT at the 2026 MAMA Awards. Taking to X on November 21, 2026, he shared his frank perspective on the group's appearance at the high-profile ceremony held in Japan.",
+          "The artist noted that while he cares little about trophies themselves, the group deserved a much larger platform to demonstrate their true capabilities. He explicitly pointed to industry politics and the difficulties routinely encountered by artists signed to smaller independent or boutique companies."
+        ]
+      },
+      {
+        "h": "Details of the Performance and Event",
+        "p": [
+          "LNGSHOT took to the stage during the 2026 MAMA Awards event hosted at the Kyocera Dome Osaka on November 20, 2026. Their solo segment featured a performance of their new track 'Bananas' lasting roughly two and a half minutes.",
+          "Following their individual track, the members joined fellow performers MODYSSEY and TUIDE for a collaborative rendition of PSY's well-known hit 'That That.' Despite participating in the major lineup, their individual exposure felt severely restricted compared to other acts."
+        ]
+      },
+      {
+        "h": "Comparison With the Melon Music Awards",
+        "p": [
+          "The discussion surrounding their limited MAMA screen time drew immediate comparisons to LNGSHOT's appearance at the 2026 Melon Music Awards just a week prior. At that particular ceremony, the group performed multiple tracks and accepted a rookie award.",
+          "That earlier event provided audiences with an extensive showcase of their talents, creating a stark contrast to the compressed format they experienced at the Kyocera Dome Osaka and fueling discussions about unequal stage allocations."
+        ]
+      },
+      {
+        "h": "Public Reaction and Online Debates",
+        "p": [
+          "Jay Park's candid statements quickly drew mixed reactions across social media platforms, with many users supporting his decision to highlight systemic inequalities in the entertainment industry. Supporters agreed that smaller labels often struggle to secure fair spotlight opportunities for their acts.",
+          "Conversely, critics took issue with his mention of politics, arguing that such complaints were exaggerated. One social media user even accused him of bitterness and entitlement, claiming LNGSHOT was not the most prominent lineup choice."
+        ]
+      },
+      {
+        "h": "Addressing the Critics",
+        "p": [
+          "Responding directly to the online criticism, Jay Park firmly rejected claims that he was acting out of bitterness or anger. He clarified that supporting his artists does not require putting down other performers in the industry.",
+          "He reiterated that he never claimed LNGSHOT was the most successful act present, but simply maintained that given adequate time, they could display the same high level of performance witnessed at previous shows like the MMA."
+        ]
+      },
+      {
+        "h": "Looking Forward and Album Promotions",
+        "p": [
+          "Despite his frustrations with award show logistics, Jay Park encouraged fans to remain positive and shift their focus back to the group's musical output. He pointed encouragement toward their ongoing promotions.",
+          "He urged supporters to keep streaming and running up the 'S.W.I.S.H.' album, reminding everyone of the dedication required to push independent projects forward in a competitive market."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Jay Park publicly criticized the limited stage duration given to LNGSHOT at the 2026 MAMA Awards held at Kyocera Dome Osaka. Defending his comments against online critics, he emphasized that smaller agencies face tough obstacles in securing fair performance slots for their talent."
+        ]
+      }
+    ],
+    "facts": [
+      "Jay Park shared his thoughts on X on November 21, 2026",
+      "The 2026 MAMA Awards were held at Kyocera Dome Osaka in Japan on November 20, 2026",
+      "LNGSHOT performed their song 'Bananas' for approximately two and a half minutes",
+      "LNGSHOT joined MODYSSEY and TUIDE for a collaborative performance of PSY's 'That That'",
+      "LNGSHOT performed multiple songs and received a rookie award at the 2026 Melon Music Awards"
+    ],
+    "entities": {
+      "people": [
+        "Jay Park",
+        "PSY",
+        "hjang"
+      ],
+      "titles": [
+        "LNGSHOT",
+        "MODYSSEY",
+        "TUIDE",
+        "Bananas",
+        "That That",
+        "S.W.I.S.H."
+      ]
+    },
+    "keywords": [
+      "Jay Park",
+      "LNGSHOT",
+      "2026 MAMA Awards",
+      "LNGSHOT Bananas",
+      "Jay Park MAMA Awards"
+    ],
+    "images": [],
+    "published": "Sat, 21 Nov 2026 23:10:00 EST"
+  },
+  "1ueqgh": {
+    "id": "1ueqgh",
+    "type": "news",
+    "headline": "Youth Congress Protests at Meta Offices Trigger Intense Debate Over Free Expression",
+    "dek": "A demonstration by the Youth Congress outside Meta headquarters has ignited a sharp political confrontation concerning digital censorship and alleged suppression of critical online voices.",
+    "body": [
+      {
+        "h": "The Protest at Meta Headquarters",
+        "p": [
+          "Members of the Youth Congress recently staged a forceful demonstration outside the Meta offices, leading to a direct confrontation. The protest centered around accusations of digital suppression and the systematic removal of critical online commentary.",
+          "Participants voiced strong grievances against what they termed online intimidation. The gathering quickly escalated into a tense situation as demonstrators demanded transparency regarding content moderation practices."
+        ]
+      },
+      {
+        "h": "Accusations of Political Censorship",
+        "p": [
+          "The demonstration brought the issue of social media governance to the forefront of national discourse. Critics of the current administrative approach argue that platforms are increasingly silencing dissenting opinions.",
+          "The removal of specific accounts and posts critical of governance has intensified concerns. Activists and legal experts suggest that these moderation actions threaten open political debate in digital spaces."
+        ]
+      },
+      {
+        "h": "Panelists Debate on Newshour Special Edition",
+        "p": [
+          "The unfolding events formed the central discussion during a recent broadcast of Newshour Special Edition. Anchor Heena Gambhir hosted a panel featuring legal and political voices to dissect the implications of the protest.",
+          "The televised discussion captured the deep polarization surrounding digital rights. Panelists debated whether platform policies genuinely reflect neutrality or bow to external political pressures."
+        ]
+      },
+      {
+        "h": "Differing Perspectives on Conduct",
+        "p": [
+          "During the debate, lawyer and political analyst Imran Ahmad Ali articulated apprehensions regarding the restriction of free speech. He highlighted instances where online posts and accounts opposing authorities faced removal.",
+          "Conversely, Sanju Verma offered a contrasting viewpoint during the program. She questioned the appropriateness of the Youth Congress's conduct during the demonstration, challenging their approach."
+        ]
+      },
+      {
+        "h": "Broader Political Implications",
+        "p": [
+          "The clash at the Meta offices reflects a growing friction between political entities and major technology corporations. Questions regarding accountability, algorithmic bias, and state influence continue to dominate discussions.",
+          "Observers note that digital platforms are increasingly caught in the crossfire of ideological battles. The incident underscores the delicate balance tech giants must maintain between compliance and free expression."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "The Youth Congress organized a protest at Meta offices, sparking a fierce political clash over alleged free speech violations and the takedown of critical social media accounts. During a Newshour Special Edition discussion hosted by Heena Gambhir, analyst Imran Ahmad Ali raised concerns about online censorship while Sanju Verma questioned the conduct of the Congress."
+        ]
+      }
+    ],
+    "facts": [
+      "The Youth Congress protested at Meta offices.",
+      "Imran Ahmad Ali is a lawyer and political analyst.",
+      "Sanju Verma questioned the conduct of the Congress.",
+      "Heena Gambhir anchored Newshour Special Edition."
+    ],
+    "entities": {
+      "people": [
+        "Imran Ahmad Ali",
+        "Sanju Verma",
+        "Heena Gambhir"
+      ],
+      "titles": [
+        "Newshour Special Edition"
+      ]
+    },
+    "keywords": [
+      "Youth Congress Meta protest",
+      "Imran Ahmad Ali Sanju Verma",
+      "Heena Gambhir Newshour Special Edition",
+      "Youth Congress free speech"
+    ],
+    "images": [
+      {
+        "url": "https://images.timesnownews.com/thumb/msid-156547792,thumbsize-677892,width-1280,height-720,resizemode-75/156547792.jpg",
+        "caption": "Youth Congress Protests at Meta Offices Trigger Intense Debate Over Free Expression",
+        "source": "Times Now — Entertainment"
+      }
+    ],
+    "published": "2026-11-22T05:52:20Z"
+  },
+  "1lifxuf": {
+    "id": "1lifxuf",
+    "type": "news",
+    "headline": "National Award-Winning Filmmaker Prakash Belawadi Criticises Karnataka's Economic Disparity And Bengaluru Traffic",
+    "dek": "At the Times Now Summit Karnataka, filmmaker Prakash Belawadi highlighted severe urban infrastructure challenges in Bengaluru and called the state's agricultural economic gap cruel.",
+    "body": [
+      {
+        "h": "Appearance at the Times Now Summit Karnataka",
+        "p": [
+          "National Award-winning filmmaker Prakash Belawadi recently made headlines for his candid remarks at the Times Now Summit Karnataka. During the event, he addressed several pressing concerns regarding urban planning and economic structures in the region.",
+          "His comments drew immediate attention from attendees and media alike, focusing heavily on how development priorities have been managed across the state over the past two decades."
+        ]
+      },
+      {
+        "h": "Bengaluru Traffic and Infrastructure Woes",
+        "p": [
+          "Belawadi pointed out severe infrastructural challenges in Bengaluru, specifically detailing a grueling three-hour commute from the airport to Koramangala. He noted that his flight from Delhi took less time than the subsequent road journey within the city.",
+          "He questioned the accountability of successive political administrations, noting that neither the BJP nor Congress has managed to resolve these persistent daily congestion issues."
+        ]
+      },
+      {
+        "h": "Political Apathy and Public Tolerance",
+        "p": [
+          "Addressing the root causes of the gridlock, Belawadi suggested that politicians might not view Bengaluru as politically vital for votes, leading to a general lack of care regarding its civic problems.",
+          "He also expressed surprise that citizens continue to tolerate these conditions and register thousands of new vehicles daily instead of collectively demanding permanent infrastructure improvements."
+        ]
+      },
+      {
+        "h": "Urging Investment Beyond the Capital",
+        "p": [
+          "Shifting focus away from Bengaluru, the filmmaker expressed deep concern for the rest of Karnataka. He argued that pouring massive funds exclusively into the capital leaves other districts completely neglected.",
+          "He proposed that directing funds toward regional towns could establish crucial infrastructure like universities and multispeciality hospitals across various districts."
+        ]
+      },
+      {
+        "h": "Decentralisation and Local Governance",
+        "p": [
+          "To combat regional imbalance, Belawadi advocated for greater decentralisation of state funds. He suggested that local elected representatives should hold direct control over deciding community priorities.",
+          "According to his perspective, an investment of Rs 27,000 crore in any other district could easily foster a brand new economic driver outside of Bengaluru."
+        ]
+      },
+      {
+        "h": "The Cruel Agricultural Disparity",
+        "p": [
+          "Highlighting economic divides, Belawadi shared that roughly 70 percent of Karnataka's economy stems from services, IT, real estate, and tourism. In stark contrast, agriculture accounts for only 10 percent of the economy.",
+          "Despite this small economic share, agriculture supports the livelihoods of 50 percent of the state's populace. He labeled this extreme income gap as both cruel and totally unacceptable."
+        ]
+      },
+      {
+        "h": "Filmmaking Background and Legacy",
+        "p": [
+          "Beyond his public advocacy and commentary, Prakash Belawadi is an accomplished creative professional in the cinematic arts. His directorial debut feature film, Stumble, earned critical acclaim by winning the National Film Award in the Best Feature Film in English category, securing him the Silver Lotus Award."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Filmmaker Prakash Belawadi spoke at the Times Now Summit Karnataka, criticising Bengaluru's traffic congestion and the state's uneven infrastructure. He condemned the economic gap between the agriculture sector and service industries as cruel, while advocating for regional investment and decentralisation."
+        ]
+      }
+    ],
+    "facts": [
+      "Prakash Belawadi is a National Award-winning filmmaker.",
+      "The statements were made at the Times Now Summit Karnataka.",
+      "His flight from Delhi to Bengaluru took less time than his road journey from the airport to Koramangala.",
+      "He noted that 70 percent of Karnataka's economy comes from services, IT, tourism, and real estate.",
+      "Agriculture accounts for 10 percent of Karnataka's economy and supports 50 percent of its people.",
+      "He suggested an investment of Rs 27,000 crore in other districts.",
+      "His directorial debut Stumble won the National Film Award for Best Feature Film in English and the Silver Lotus Award."
+    ],
+    "entities": {
+      "people": [
+        "Prakash Belawadi"
+      ],
+      "titles": [
+        "Stumble"
+      ]
+    },
+    "keywords": [
+      "Prakash Belawadi",
+      "Times Now Summit Karnataka",
+      "Stumble film",
+      "Bengaluru traffic"
+    ],
+    "images": [
+      {
+        "url": "https://images.timesnownews.com/thumb/msid-156546524,thumbsize-150287,width-1280,height-720,resizemode-75/156546524.jpg",
+        "caption": "National Award-Winning Filmmaker Prakash Belawadi Criticises Karnataka's Economic Disparity And Bengaluru Traffic",
+        "source": "Times Now — Entertainment"
+      }
+    ],
+    "published": "2026-11-22T05:52:20Z"
   }
 };
