@@ -223302,5 +223302,387 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Sun, 22 Nov 2026 19:30:19 +0000"
+  },
+  "f9yij0": {
+    "id": "f9yij0",
+    "type": "news",
+    "headline": "Mitwa Singer Shafqat Amanat Ali Opens Up About His Battle With Blood Cancer and Recovery",
+    "dek": "Renowned playback vocalist Shafqat Amanat Ali has revealed a harrowing year-long struggle with multiple myeloma, detailing his medical journey and triumphant return to the stage.",
+    "body": [
+      {
+        "h": "The Health Revelation",
+        "p": [
+          "Celebrated playback vocalist Shafqat Amanat Ali recently shocked his fans and peers by disclosing a severe medical crisis involving multiple myeloma, a specific form of blood cancer. The artist chose to keep the diagnosis private for an extended period, dealing with the heavy physical and psychological strain alongside his immediate family and closest circle.",
+          "Reflecting on the ordeal, the singer noted how intensely disruptive the health scare proved to be for everyone involved. By maintaining strict privacy during the initial phases of the ordeal, the musician and his relatives could concentrate entirely on navigating the complex medical interventions required for survival."
+        ]
+      },
+      {
+        "h": "Seeking the Right Medical Care",
+        "p": [
+          "The journey toward effective treatment required consulting numerous physicians before the artist and his support network finally experienced a breakthrough. Early attempts to identify the underlying symptoms proved frustrating until the vocalist traveled to Karachi.",
+          "Upon arriving in Karachi, the singer connected with Dr. Salman Adil, whose expertise finally provided a clear path toward healing. Catching the symptoms at an appropriate juncture played a vital role in preventing further escalation of the dangerous condition."
+        ]
+      },
+      {
+        "h": "A Year of Confinement and Recovery",
+        "p": [
+          "Confronting a cancer diagnosis meant stepping away from the spotlight for a full twelve months of rigorous bed rest and chemotherapy. For an artist accustomed to active engagement with audiences, the prolonged hiatus away from the microphone presented an immense psychological hurdle.",
+          "Enduring strict physical limitations left the performer eager to resume professional duties as soon as medical clearance arrived. The interruption to his artistic routine served as a stark reminder of the fragile nature of health amidst a bustling career."
+        ]
+      },
+      {
+        "h": "Returning to the Live Stage",
+        "p": [
+          "As soon as his chemotherapy treatments concluded, the determined vocalist wasted no time in testing his endurance through a live concert in Lahore. Although stepping back into the limelight immediately after such an intensive recovery proved demanding, the singer successfully delivered the performance.",
+          "That initial comeback concert paved the way for subsequent live shows, signaling a robust return to his primary passion. The musician continues to balance regular stage appearances with his ongoing creative endeavors."
+        ]
+      },
+      {
+        "h": "Upcoming Performances and Career Context",
+        "p": [
+          "With his health stabilized, the playback artist turned his attention toward upcoming professional engagements, including a scheduled concert in Karachi organized by Kenneyz Group. The event marks another milestone in his post-recovery tour schedule.",
+          "Beyond live gigs, the vocalist has also returned to recording studios, ensuring his distinctive voice remains active in the music industry. Fans continue to welcome his renewed presence across both live and recorded platforms."
+        ]
+      },
+      {
+        "h": "A Storied Musical Journey",
+        "p": [
+          "Before establishing himself as a prominent solo playback singer in Bollywood and Pakistan, the artist served as the lead vocalist for the popular pop-rock band Fuzon, gaining early recognition through their debut album Saagar. His career later expanded to include massive cross-border hits that captured the hearts of South Asian audiences.",
+          "Memorable chartbusters such as Mitwa from Karan Johar’s Kabhi Alvida Naa Kehna and Teri Jhuki Nazar solidified his reputation as one of the most soulful voices in the region. Additional beloved tracks like Phir Le Aaya Dil, Tere Naina, Bin Tere, Kyun Main Jaagoon, and Dildara further cemented his enduring musical legacy."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Renowned singer Shafqat Amanat Ali revealed a past battle with multiple myeloma, a type of blood cancer, which forced him into a year of bed rest and chemotherapy. After finding the right medical care under Dr. Salman Adil in Karachi, he successfully returned to live performances and studio recordings."
+        ]
+      }
+    ],
+    "facts": [
+      "Shafqat Amanat Ali battled multiple myeloma, a form of blood cancer.",
+      "The singer underwent a year-long bed rest and chemotherapy recovery.",
+      "He consulted various doctors before meeting Dr. Salman Adil in Karachi.",
+      "His first performance after chemotherapy took place in Lahore.",
+      "He is known for hits like Mitwa from Kabhi Alvida Naa Kehna and Teri Jhuki Nazar."
+    ],
+    "entities": {
+      "people": [
+        "Shafqat Amanat Ali",
+        "Dr. Salman Adil",
+        "Karan Johar"
+      ],
+      "titles": [
+        "Mitwa",
+        "Teri Jhuki Nazar",
+        "Saagar",
+        "Kabhi Alvida Naa Kehna",
+        "Dor",
+        "Phir Le Aaya Dil",
+        "Tere Naina",
+        "Bin Tere",
+        "Kyun Main Jaagoon",
+        "Dildara",
+        "Fuzon"
+      ]
+    },
+    "keywords": [
+      "Shafqat Amanat Ali",
+      "multiple myeloma",
+      "Mitwa singer",
+      "Shafqat Amanat Ali cancer"
+    ],
+    "images": [
+      {
+        "url": "https://cdn-english.zeenews.com/sites/default/files/2026/11/21/7188-shafqat-amanat-ali.png",
+        "caption": "Mitwa Singer Shafqat Amanat Ali Opens Up About His Battle With Blood Cancer and Recovery",
+        "source": "Zee News — Entertainment"
+      }
+    ],
+    "published": "2026-11-22T20:51:36Z"
+  },
+  "33ixpf": {
+    "id": "33ixpf",
+    "type": "news",
+    "headline": "Why Netflix's 30-Episode True Crime Masterpiece Remains a Streaming High Point",
+    "dek": "Explore how Narcos and its companion series delivered decades of gripping cartel history through a unique blend of drama and archival footage.",
+    "body": [
+      {
+        "h": "The Evolution of Streaming Standards",
+        "p": [
+          "In the years since launching its digital platform, Netflix has transformed its content strategy significantly. While early original programming frequently secured spots on all-time top television lists, modern operations often lean toward a higher volume of releases rather than singular, meticulously crafted masterpieces.",
+          "Among the standout creations from the platform's formative streaming era is a gripping crime drama that debuted just two years after the company shifted its primary focus to online distribution."
+        ]
+      },
+      {
+        "h": "The Rise and Fall of the Medellín Cartel",
+        "p": [
+          "Premiering in 2015, Narcos chronicles the criminal empire built by Pablo Escobar alongside the relentless efforts of the Drug Enforcement Administration in Colombia. Wagner Moura stars as the notorious drug kingpin, bringing immense intensity to the role.",
+          "The narrative unfolds through a dual perspective, dividing its attention between Escobar's internal operations and the tactical pursuit led by American law enforcement agents stationed in South America."
+        ]
+      },
+      {
+        "h": "Key Players on Both Sides of the Law",
+        "p": [
+          "Actors Boyd Holbrook and Pedro Pascal portray real-life task force members Steve Murphy and Javier Peña, anchoring the procedural elements of the story. Their extensive screen time allows viewers to examine the personal toll of the multi-year investigation.",
+          "Through skillful narration, dramatic reenactments, and authentic archival footage, the production details both the staggering scale of the cartel's operations and the eventual downfall of its leadership."
+        ]
+      },
+      {
+        "h": "Unique Narration and Pacing",
+        "p": [
+          "While voice-over techniques can occasionally feel intrusive in television projects, Holbrook's delivery acts as a compelling guide through unbelievable historical events. The series expertly balances exposition with fast-paced action sequences.",
+          "Whenever a specific story arc threatens to slow down, the narrative immediately pivots to another engaging angle, ensuring that audience engagement remains consistently high from beginning to end."
+        ]
+      },
+      {
+        "h": "Expanding the Universe With Narcos: Mexico",
+        "p": [
+          "Following the conclusion of the primary storyline, the streaming service expanded the franchise with Narcos: Mexico. Originally conceived as subsequent seasons of the original show, this companion series shifts focus to the Guadalajara and Cali Cartels.",
+          "Operating without a single dominant figure like Escobar, the spinoff explores a more fragmented web of syndicates whose modern descendants continue to impact international affairs today."
+        ]
+      },
+      {
+        "h": "Comparing the Parent Series and Its Spinoff",
+        "p": [
+          "While Narcos: Mexico offers a compelling look at the evolving drug trade in Central America, many viewers consider the original Colombian saga superior due to its focused cat-and-mouse dynamic.",
+          "The theatrical clash between the DEA and Escobar provided a uniquely dramatic narrative engine that cemented the thirty-episode run as an enduring streaming classic."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "The article examines the enduring critical success of Netflix's thirty-episode true crime franchise, highlighting how Narcos and its companion series redefined streaming drama through archival integration and dual perspectives. It details the performances of Wagner Moura, Boyd Holbrook, and Pedro Pascal while contrasting the focus of the Colombian and Mexican cartel eras."
+        ]
+      }
+    ],
+    "facts": [
+      "Narcos premiered in 2015 on Netflix.",
+      "The original series ran for multiple seasons, contributing to a total of 30 episodes.",
+      "Wagner Moura portrayed Pablo Escobar.",
+      "Boyd Holbrook and Pedro Pascal starred as DEA agents Steve Murphy and Javier Peña.",
+      "Narcos: Mexico was created as a companion series following the conclusion of the main show."
+    ],
+    "entities": {
+      "people": [
+        "Zach Moser",
+        "Wagner Moura",
+        "Boyd Holbrook",
+        "Pedro Pascal",
+        "Scoot McNairy",
+        "Pablo Escobar",
+        "Steve Murphy",
+        "Javier Peña",
+        "Walt Breslin"
+      ],
+      "titles": [
+        "Narcos",
+        "Narcos: Mexico"
+      ]
+    },
+    "keywords": [
+      "Narcos Netflix show",
+      "Narcos Mexico spinoff",
+      "Pablo Escobar Wagner Moura",
+      "Pedro Pascal Steve Murphy"
+    ],
+    "images": [
+      {
+        "url": "https://static0.srcdn.com/wordpress/wp-content/uploads/2026/11/narcos_hqaihn-1.jpg?w=1600&amp;h=900&amp;fit=crop",
+        "caption": "Why Netflix's 30-Episode True Crime Masterpiece Remains a Streaming High Point",
+        "source": "Screen Rant"
+      }
+    ],
+    "published": "Sun, 22 Nov 2026 19:31:18 GMT"
+  },
+  "1m0stz8": {
+    "id": "1m0stz8",
+    "type": "news",
+    "headline": "Exploring the Most Overlooked Thanksgiving Episodes Across Television",
+    "dek": "While standard holiday specials dominate streaming queues every November, television features a deeper canon of Thanksgiving episodes that capture the chaotic reality of family gatherings.",
+    "body": [
+      {
+        "h": "The Familiar Holiday Rotation",
+        "p": [
+          "Every November, audiences are met with a predictable cycle of holiday television specials streaming across platforms. These commonly feature the holiday flashbacks from Friends, the parade mishaps in Seinfeld, or the tofurkey served by Mrs. Kim in Gilmore Girls. While these installments have earned their status over the years, they represent only a fraction of what television has to offer during the holiday season.",
+          "The Thanksgiving holiday functions as a natural pressure cooker for dramatic and comedic storytelling. Bringing relatives and friends around a single table with an abundance of wine creates scenarios where buried tensions surface and elaborate meals go awry. Beyond the famous classics, the television canon contains numerous hidden gems worth adding to any holiday viewing queue."
+        ]
+      },
+      {
+        "h": "It's Always Sunny in Philadelphia and the Ultimate Reconciliation",
+        "p": [
+          "After nine seasons of burning bridges across Philadelphia, the characters in It's Always Sunny in Philadelphia decide to host a Thanksgiving dinner to make peace with everyone they have wronged. Driven by the fact that they have exhausted their welcome in local establishments rather than genuine guilt, Dennis tallies up the bars and neighborhoods from which they are banned.",
+          "The resulting gathering invites recurring casualties of the group's behavior, including the McPoyles and the Waitress, to Mac and Dennis's apartment. The dinner devolves into an immediate disaster, culminating in a food fight and a finale where the gang barricades the guests inside and leaves as the building catches fire."
+        ]
+      },
+      {
+        "h": "Bob's Burgers and the Mystery of the Toilet Turkey",
+        "p": [
+          "In Bob's Burgers, Bob Belcher takes his holiday preparations with extreme seriousness, treating multiple incidents of his brined bird ending up in the toilet as a crime scene. With various family members holding motives and Gayle's cats lurking nearby, Bob goes through three turkeys before discovering the truth.",
+          "The absurd mystery resolves with a sweet realization: Bob has been sleepwalking and placing the turkey in the toilet himself while dreaming about potty-training a young Tina. It stands as a prime example of the show's blend of quirky humor and sincere emotional growth as the children get older."
+        ]
+      },
+      {
+        "h": "Ghosts and Road Trip Complications",
+        "p": [
+          "Season 5 of Ghosts finds new methods to complicate Sam's life by stranding her between the living and the dead during a book tour road trip alongside the ghost Pete. When an airline strike threatens their holiday plans, Pete channels John Candy to navigate the travel emergency.",
+          "Back at Woodstone, the remaining ghosts struggle with Jay's absence of accommodation and recruit Kyle, another living person capable of seeing them. The resulting dynamic and final found-family gathering highlight the unique charm of the network sitcom."
+        ]
+      },
+      {
+        "h": "Succession and the Weaponized Dinner Table",
+        "p": [
+          "During the fifth episode of Succession, the Roy family sits down for a tense Thanksgiving dinner hosted by Logan at his penthouse. The guest list features an array of impending conflicts, including estranged brother Ewan, Kendall orchestrating a quiet vote of no confidence, Connor bringing Willa, and Tom confronting his new reality.",
+          "The holiday setting provides enough cover for everyone's hidden agendas until a children's memory game leads Logan, showing signs of cognitive decline following a stroke, to strike his grandson Iverson. This dark moment contrasts sharply with traditional holiday cheer, emphasizing how some families utilize the dinner table as a battlefield."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Television offers a diverse array of overlooked Thanksgiving episodes that capture the chaotic and complex nature of family gatherings beyond the usual holiday staples. From the destructive reconciliations in It's Always Sunny in Philadelphia and Bob's surreal holiday mysteries to road trip complications in Ghosts and tense corporate family dynamics in Succession, these selections expand the traditional holiday viewing canon."
+        ]
+      }
+    ],
+    "facts": [
+      "It's Always Sunny in Philadelphia has run from 2005 to the present.",
+      "Bob's Burgers has run from 2011 to the present.",
+      "Ghosts has run from 2021 to the present.",
+      "Succession ran from 2018 to 2023."
+    ],
+    "entities": {
+      "people": [
+        "Jessica Toomer",
+        "Ryan Gosling",
+        "Glenn Howerton",
+        "Mary Elizabeth Ellis",
+        "Jimmi Simpson",
+        "Rob Mac",
+        "H. Jon Benjamin",
+        "John Roberts",
+        "Megan Mullally",
+        "Dan Mintz",
+        "Rose McIver",
+        "Ritchie Moriarty",
+        "Utkarsh Ambudkar",
+        "Ben Feldman",
+        "James Cromwell",
+        "Brian Cox",
+        "Jeremy Strong",
+        "Alan Ruck",
+        "Justine Lupe",
+        "Matthew Macfayden",
+        "Quentin Morales"
+      ],
+      "titles": [
+        "Friends",
+        "Seinfeld",
+        "Gilmore Girls",
+        "It's Always Sunny in Philadelphia",
+        "Bob's Burgers",
+        "Ghosts",
+        "Succession"
+      ]
+    },
+    "keywords": [
+      "It's Always Sunny in Philadelphia Thanksgiving",
+      "Bob's Burgers Turkey in a Can",
+      "Succession Thanksgiving episode",
+      "Ghosts Planes Shanes and Automobiles"
+    ],
+    "images": [
+      {
+        "url": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/11/modern-family-three-turkeys-1.jpeg?w=1600&amp;h=900&amp;fit=crop",
+        "caption": "Exploring the Most Overlooked Thanksgiving Episodes Across Television",
+        "source": "Collider"
+      }
+    ],
+    "published": "Sun, 22 Nov 2026 19:33:12 GMT"
+  },
+  "1h29l2w": {
+    "id": "1h29l2w",
+    "type": "news",
+    "headline": "Viral Photo Sparks Fresh Debate Over Koffee With Karan Rapid Fire Round",
+    "dek": "A photograph spotted on a vanity table has led internet users to question whether the popular segment on Karan Johar's talk show is rehearsed ahead of time.",
+    "body": [
+      {
+        "h": "The Viral Reddit Discovery",
+        "p": [
+          "A photograph circulating on Reddit has triggered an online discussion about the inner workings of Karan Johar's talk show. The image allegedly captures a document sitting on a vanity table during a recent guest preparation.",
+          "Viewers across social media quickly began analyzing the captured text, noticing a heading that explicitly referenced the famous segment on the program."
+        ]
+      },
+      {
+        "h": "Decoding the Rapid Fire Sheet",
+        "p": [
+          "The visible document was labeled with a title indicating it belonged to the upcoming segment for a specific celebrity guest. Internet users attempted to read the prompts and inquiries listed on the paper.",
+          "This discovery led many to wonder if participants receive the questions ahead of filming, challenging the idea that the fast-paced questionnaire is entirely spontaneous."
+        ]
+      },
+      {
+        "h": "Internet Reactions and Split Opinions",
+        "p": [
+          "As the image gained traction online, netizens voiced contrasting views regarding the authenticity of the format. Some argued that having access to prompts beforehand strips away the organic nature of the conversations.",
+          "Others pointed out that reviewing questions in advance does not necessarily mean the responses are scripted, suggesting it simply helps participants prepare for potentially sensitive topics."
+        ]
+      },
+      {
+        "h": "Recent Season Appearance Context",
+        "p": [
+          "The discussion emerged following an episode from the latest season that featured multiple guests engaging in the signature question round. The appearance brought personal stories, industry connections, and career journeys into the spotlight.",
+          "During the episode, participants discussed various aspects of their personal and professional lives, including the hurdles and rejections faced prior to entering the film industry."
+        ]
+      },
+      {
+        "h": "Host Remarks on Celebrity Interviews",
+        "p": [
+          "The ongoing debate coincides with previous comments made by the host regarding how contemporary celebrity interviews are conducted. He noted that modern appearances are often heavily managed by publicists and image consultants.",
+          "He also mentioned that some participants request clearance to review episodes before they air, driven by concerns over potential online backlash and public relations fallout."
+        ]
+      },
+      {
+        "h": "Distinction Between Prep and Scripting",
+        "p": [
+          "While prerelease clearances and advance preparation have become common practice in the industry, industry observers clarify that this is distinct from scripting an entire dialogue.",
+          "Neither the program's host nor the featured guest has officially addressed the circulating image or confirmed the exact nature of the document visible in the photograph."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "A viral photo shared on Reddit allegedly showing a question sheet on a vanity table has revived discussions about whether a popular talk show segment is scripted. While internet users remain divided on the spontaneity of the format, neither the host nor the guest has confirmed the contents of the document."
+        ]
+      }
+    ],
+    "facts": [
+      "The viral photo started circulating online on November 21, 2026.",
+      "Shanaya Kapoor made a surprise appearance in the sixth episode of Koffee With Karan Season 9.",
+      "The episode aired on November 18, 2026.",
+      "Shanaya appeared alongside Ananya Panday and Ananya Birla."
+    ],
+    "entities": {
+      "people": [
+        "Shanaya Kapoor",
+        "Karan Johar",
+        "Ananya Panday",
+        "Ananya Birla"
+      ],
+      "titles": [
+        "Koffee With Karan",
+        "Student of the Year: After Dark"
+      ]
+    },
+    "keywords": [
+      "Shanaya Kapoor Koffee With Karan",
+      "Karan Johar Koffee With Karan scripted",
+      "Koffee With Karan Season 9",
+      "Shanaya Kapoor rapid fire photo"
+    ],
+    "images": [
+      {
+        "url": "https://images.timesnownews.com/thumb/msid-156548885,thumbsize-852578,width-1280,height-720,resizemode-75/156548885.jpg",
+        "caption": "Viral Photo Sparks Fresh Debate Over Koffee With Karan Rapid Fire Round",
+        "source": "Times Now — Entertainment"
+      }
+    ],
+    "published": "2026-11-22T20:51:36Z"
   }
 };
