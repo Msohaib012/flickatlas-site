@@ -4450,6 +4450,51 @@ window.FA_HOME_ARTICLES = {
     ],
     "published": "2026-11-20T17:00:07Z"
   },
+  "1hm03s4": {
+    "id": "1hm03s4",
+    "type": "news",
+    "headline": "Actor Ketan Karande Claims He Quit As Aishwarya Rai's Bodyguard After Two Days Due To Salman Khan",
+    "dek": "Actor and bodybuilder Ketan Karande recently shared details on a podcast about his brief stint protecting Aishwarya Rai Bachchan following her split from Salman Khan.",
+    "entities": {
+      "people": [
+        "Ketan Karande",
+        "Aishwarya Rai Bachchan",
+        "Salman Khan",
+        "Gautam Rode",
+        "Amitabh Bachchan",
+        "Aamir Khan",
+        "Ajay Devgn",
+        "Vikram Bhatt",
+        "Abhishek Bachchan",
+        "Aaradhya Bachchan"
+      ],
+      "titles": [
+        "Hum Dil De Chuke Sanam",
+        "Suryaputra Karn",
+        "Mahabharat",
+        "Jodha Akhbar",
+        "Chidiya Ghar",
+        "Thugs Of Hindostan",
+        "Action Jackson",
+        "Devdas",
+        "Maatrabhumi"
+      ]
+    },
+    "keywords": [
+      "Ketan Karande Aishwarya Rai bodyguard",
+      "Salman Khan Aishwarya Rai split",
+      "Ketan Karande podcast interview",
+      "Aishwarya Rai bodyguard Salman Khan gun"
+    ],
+    "images": [
+      {
+        "url": "https://images.filmibeat.com/img/2026/11/salmankhanaishwaryaraibodyguard-29051795190137.jpg",
+        "caption": "Actor Ketan Karande Claims He Quit As Aishwarya Rai's Bodyguard After Two Days Due To Salman Khan",
+        "source": "FilmiBeat"
+      }
+    ],
+    "published": "Fri, 20 Nov 2026 21:56:37 +0530"
+  },
   "10tsg9c": {
     "id": "10tsg9c",
     "type": "news",
