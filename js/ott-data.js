@@ -93,6 +93,30 @@ window.FA_OTT = {
     {
       "date": "2026-11-20",
       "date_kind": "release",
+      "id": 1595124,
+      "providers": [
+        {
+          "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        }
+      ],
+      "type": "movie"
+    },
+    {
+      "date": "2026-11-20",
+      "date_kind": "release",
+      "id": 300523,
+      "providers": [
+        {
+          "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        }
+      ],
+      "type": "tv"
+    },
+    {
+      "date": "2026-11-20",
+      "date_kind": "release",
       "id": 1458249,
       "providers": [
         {
@@ -107,7 +131,6 @@ window.FA_OTT = {
       "type": "movie"
     },
     {
-      "country": "US",
       "date": "2026-11-20",
       "date_kind": "digital",
       "id": 1307474,
@@ -193,8 +216,20 @@ window.FA_OTT = {
       "id": 1804968,
       "providers": [
         {
-          "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
-          "name": "Disney Plus"
+          "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+          "name": "JioHotstar"
+        }
+      ],
+      "type": "movie"
+    },
+    {
+      "date": "2026-11-19",
+      "date_kind": "release",
+      "id": 1698629,
+      "providers": [
+        {
+          "logo_path": "/mfbhzQwmQKjm7bLZPF5CTeu3Ilc.png",
+          "name": "Philo"
         }
       ],
       "type": "movie"
@@ -1257,14 +1292,6 @@ window.FA_OTT = {
       "date_kind": "release",
       "id": 1776532,
       "providers": [
-        {
-          "logo_path": "/3wF8xISfVlcrc8X3jaa3uMUFGAr.png",
-          "name": "fuboTV"
-        },
-        {
-          "logo_path": "/mfbhzQwmQKjm7bLZPF5CTeu3Ilc.png",
-          "name": "Philo"
-        },
         {
           "logo_path": "/qAccuffS0YOegynkbRchQeBrw7W.png",
           "name": "Pure Flix"
@@ -2504,6 +2531,18 @@ window.FA_OTT = {
     },
     {
       "date": "2026-10-23",
+      "date_kind": "release",
+      "id": 1593350,
+      "providers": [
+        {
+          "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        }
+      ],
+      "type": "movie"
+    },
+    {
+      "date": "2026-10-23",
       "date_kind": "digital",
       "id": 1453407,
       "providers": [
@@ -2543,6 +2582,18 @@ window.FA_OTT = {
         {
           "logo_path": "/i8cMQ9Hw8oDcOO4rV6GYlO7VBDH.png",
           "name": "aha"
+        }
+      ],
+      "type": "movie"
+    },
+    {
+      "date": "2026-10-22",
+      "date_kind": "release",
+      "id": 1606527,
+      "providers": [
+        {
+          "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
         }
       ],
       "type": "movie"
@@ -2950,6 +3001,22 @@ window.FA_OTT = {
         }
       ],
       "type": "tv"
+    },
+    {
+      "date": "2026-10-02",
+      "date_kind": "release",
+      "id": 1431738,
+      "providers": [
+        {
+          "logo_path": "/coM4QWbmIOa0xJ5cGR9BRmoV25B.png",
+          "name": "Sony Liv"
+        },
+        {
+          "logo_path": "/944iNBWJZwKT1lfO3y2oEqquQjG.png",
+          "name": "Sonyliv Amazon Channel"
+        }
+      ],
+      "type": "movie"
     },
     {
       "country": "AU",

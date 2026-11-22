@@ -215902,5 +215902,399 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "2026-11-22T05:40:06+05:30"
+  },
+  "4ml4az": {
+    "id": "4ml4az",
+    "type": "news",
+    "headline": "Ramayana: Rise of a Legend Box Office Collection Day 17: Ranbir Kapoor Starrer Earns Rs 27.40 Crore",
+    "dek": "Ranbir Kapoor and Sai Pallavi's big-budget feature 'Ramayana: Rise of a Legend' witnesses a massive surge on its seventeenth day, surpassing previous benchmarks set by major blockbusters.",
+    "body": [
+      {
+        "h": "The Box Office Surge on Day Seventeen",
+        "p": [
+          "The theatrical run of the massive multi-lingual feature 'Ramayana: Rise of a Legend' experienced an extraordinary boost on its seventeenth day in cinemas. Exhibiting strong momentum across various regions, the movie recorded a phenomenal increase in ticket sales and audience turnouts during the weekend.",
+          "Industry trackers noted a dramatic upward trend compared to the performance of the preceding weekday, reflecting sustained interest from viewers nationwide as the feature entered its third week on the big screen."
+        ]
+      },
+      {
+        "h": "Breakdown of Domestic and Worldwide Earnings",
+        "p": [
+          "The total domestic net collections for the production crossed a monumental milestone, bolstered by robust figures generated across all five regional language versions. Furthermore, the overall gross revenue amassed within the country climbed significantly, reflecting widespread commercial appeal.",
+          "On the international front, overseas markets continued to pour substantial numbers into the cumulative ledger, pushing the worldwide gross figures to staggering heights within just over two weeks of its theatrical premiere."
+        ]
+      },
+      {
+        "h": "Language-Wise Performance and Occupancy Rates",
+        "p": [
+          "Among the multiple linguistic iterations released to the public, the Hindi presentation maintained its position as the primary revenue generator, commanding the highest share of screens and overall collections. Other regional versions, including Malayalam, Tamil, Kannada, and Telugu, also contributed notably to the overall financial outcome.",
+          "Audience occupancy rates varied across formats, with specific regional markets and 3D presentations witnessing particularly high engagement during evening and night screenings, demonstrating strong repeat viewing habits."
+        ]
+      },
+      {
+        "h": "Milestones Across Opening Weeks",
+        "p": [
+          "The trajectory of the feature since its debut has been marked by record-setting figures. The opening week established a formidable foundation, bringing in massive sums before transitioning into a steady second week that sustained high box office productivity.",
+          "As the narrative entered its third weekend, the accumulated totals continued to mount rapidly, driven by strong footfalls and a high volume of operational shows spanning the entire country."
+        ]
+      },
+      {
+        "h": "Comparison With Past Blockbusters",
+        "p": [
+          "The commercial success of the Ranbir Kapoor and Sai Pallavi starrer has drawn frequent comparisons to other historic cinematic landmarks, most notably the Yash-fronted action spectacle directed by Prashanth Neel. Industry analysts have closely tracked how the current release stacks up against previous box office titans at the exact same point in their theatrical lifecycles.",
+          "Data indicates that the modern epic has successfully outperformed those earlier benchmarks in key categories, cementing its status as one of the most commercially dominant theatrical runs in recent memory."
+        ]
+      },
+      {
+        "h": "Audience Reach and Total Footfalls",
+        "p": [
+          "The massive scale of the distribution strategy is reflected in the sheer volume of screenings organized across the nation. Millions of patrons have flocked to auditoriums to experience the grand scale of the production.",
+          "This extensive reach has resulted in exceptional overall footfalls, demonstrating that cinematic offerings of this magnitude continue to draw large crowds to traditional viewing venues."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Ranbir Kapoor and Sai Pallavi's 'Ramayana: Rise of a Legend' saw a 74% jump on its seventeenth day, earning Rs 27.40 crore net in India to reach a domestic net collection of Rs 906.90 crore. The film has now outperformed 'KGF: Chapter 2' at the same stage in both domestic net and worldwide gross earnings."
+        ]
+      }
+    ],
+    "facts": [
+      "Ranbir Kapoor and Sai Pallavi star in 'Ramayana: Rise of a Legend'.",
+      "The film earned Rs 27.40 cr on Saturday, November 21, 2026, marking its 17th day.",
+      "The 17th-day collection marked a 74% increase compared to the previous day's earnings of Rs 15.75 cr.",
+      "The film's domestic net collection reached Rs 906.90 cr.",
+      "The India gross has reached Rs 1,083.70 cr, while the worldwide gross stands at Rs 1,616.70 cr.",
+      "The film collected from 15,851 shows across five language versions on Saturday.",
+      "The Hindi version earned Rs 20.25 cr from 13,553 shows.",
+      "Malayalam followed with Rs 2.75 cr through 838 shows.",
+      "Tamil added Rs 2 cr from 601 shows.",
+      "Kannada contributed Rs 1.65 cr across 411 shows.",
+      "The Telugu version collected Rs 75 lakh from 448 shows.",
+      "Overseas collection on Day 17 contributed Rs 10 cr, taking overseas gross to Rs 533 cr.",
+      "The first eight days generated Rs 564.60 cr in India net collections.",
+      "The second week earned Rs 299.15 cr net.",
+      "Hindi net collection stands at Rs 689.25 cr.",
+      "Kannada net collection stands at Rs 72.80 cr.",
+      "Telugu net collection stands at Rs 55.55 cr.",
+      "Malayalam net collection stands at Rs 45.05 cr.",
+      "Tamil net collection stands at Rs 44.25 cr.",
+      "The movie has recorded 3,68,66,947 footfalls across 3,80,587 shows.",
+      "KGF: Chapter 2 collected approximately Rs 16.80-17.10 cr India net on its 17th day, Saturday, April 30, 2022.",
+      "At the end of its first 17 days, KGF: Chapter 2 had accumulated approximately Rs 708.8 cr in India net collections and a worldwide gross of approximately Rs 997.7 cr."
+    ],
+    "entities": {
+      "people": [
+        "Ranbir Kapoor",
+        "Sai Pallavi",
+        "Yash",
+        "Prashanth Neel"
+      ],
+      "titles": [
+        "Ramayana: Rise of a Legend",
+        "KGF: Chapter 2"
+      ]
+    },
+    "keywords": [
+      "Ramayana Rise of a Legend box office",
+      "Ramayana Day 17 collection",
+      "Ranbir Kapoor Ramayana collection",
+      "Ramayana vs KGF Chapter 2"
+    ],
+    "images": [
+      {
+        "url": "https://static.toiimg.com/thumb/msid-136065416,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "caption": "Ramayana: Rise of a Legend Box Office Collection Day 17: Ranbir Kapoor Starrer Earns Rs 27.40 Crore",
+        "source": "Times of India — Entertainment"
+      }
+    ],
+    "published": "2026-11-22T05:51:17+05:30"
+  },
+  "1dtczuj": {
+    "id": "1dtczuj",
+    "type": "news",
+    "headline": "Yellowjackets Creators Explain Why Season 4 Marks the End of the Hit Series",
+    "dek": "Showrunners Ashley Lyle and Bart Nickerson discuss cutting their original five-season plan short to deliver a satisfying conclusion as the survivors finally return to civilization.",
+    "body": [
+      {
+        "h": "Reaching the End of the Line",
+        "p": [
+          "Fans of the hit survival drama may be sad to see the series conclude, but the masterminds behind the show believe it is the ideal moment to wrap up the narrative. Rather than pushing past its creative peak, the team recognized that the storyline was naturally accelerating toward its climax.",
+          "While an initial blueprint mapped out five installments, the showrunners always intended to let the narrative dictate its own lifespan. During the writing process for the latest episodes, it became evident that the plot was moving at a much faster velocity than anticipated."
+        ]
+      },
+      {
+        "h": "Weighing Season 4 Versus Season 5",
+        "p": [
+          "Faced with a rapidly advancing plot, the creative team had to decide whether to stretch the remaining narrative across two separate blocks or condense everything into the upcoming fourth run. Choosing to avoid dragging out the plot arbitrarily, they opted to fit the conclusion into the fourth chapter.",
+          "This choice allowed the writers to maintain the brisk and efficient pace that has defined the program from its inception. Managing a massive dual ensemble requires precise storytelling grammar, and the creators felt confident in executing a tight, impactful conclusion."
+        ]
+      },
+      {
+        "h": "An Incredible Gift to the Creators",
+        "p": [
+          "Knowing in advance that the fourth run would serve as the definitive conclusion provided the production team with a unique advantage. Having a predetermined endpoint allowed the writers to craft a focused trajectory without second-guessing future renewals.",
+          "The showrunners expressed profound gratitude for this opportunity, describing it as a rare privilege in modern television. It enabled them to orchestrate the character arcs with intention rather than leaving fates hanging on indefinite network decisions."
+        ]
+      },
+      {
+        "h": "Returning to Civilization",
+        "p": [
+          "A major driving force for the final episodes was the long-awaited return of the characters to modern society. Bringing the survivors back to civilization had been a foundational element of the original pitch shared years prior.",
+          "Transitioning the narrative out of the wilderness and back into the ordinary world reinvigorated the entire cast and crew. Achieving this long-held vision brought a fresh burst of creative energy to the production."
+        ]
+      },
+      {
+        "h": "Premise and Background",
+        "p": [
+          "The acclaimed series follows the harrowing ordeal of a 1996 New Jersey high school soccer team whose aircraft crashes deep within the Canadian wilderness. Stranded for nineteen months, the teenagers endure brutal conditions while dark, mysterious forces appear to operate around them.",
+          "Parallel to these flashbacks, the adult counterparts struggle to process the profound trauma and dark secrets of their past. The final season explores their ultimate rescue and the desperate measures they take to keep their harrowing memories buried."
+        ]
+      },
+      {
+        "h": "Streaming and Release Details",
+        "p": [
+          "Audiences can follow the final chapter of the survival saga through digital platforms, with fresh episodes dropping weekly on Fridays. Viewers utilize the Premium Plan on Paramount+ to catch the latest developments.",
+          "As the remaining mysteries unravel, the characters must navigate the complexities of normal life while guarding secrets that could destroy everything they hold dear."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "The creators of Yellowjackets decided to conclude the hit survival drama after four seasons instead of pursuing their original five-season plan. Showrunners Ashley Lyle and Bart Nickerson noted that the narrative began moving toward its conclusion more rapidly, prompting them to wrap up the story and finally bring the characters back to civilization."
+        ]
+      }
+    ],
+    "facts": [
+      "Ashley Lyle and Bart Nickerson are the creators and showrunners of Yellowjackets.",
+      "The creators originally pitched a five-season plan for the show.",
+      "Yellowjackets Season 4 serves as the final season of the series.",
+      "The premise involves a 1996 New Jersey soccer team whose plane crashes in the Canadian wilderness.",
+      "The characters were stranded in the wilderness for 19 months.",
+      "New episodes stream on Fridays on Paramount+ with Premium Plan."
+    ],
+    "entities": {
+      "people": [
+        "Ashley Lyle",
+        "Bart Nickerson"
+      ],
+      "titles": [
+        "Yellowjackets"
+      ]
+    },
+    "keywords": [
+      "Yellowjackets creators",
+      "Yellowjackets Season 4",
+      "Ashley Lyle Bart Nickerson",
+      "Yellowjackets final season"
+    ],
+    "images": [
+      {
+        "url": "https://deadline.com/wp-content/uploads/2026/11/Yellowjackets_403_DS_0327_0808_RT.jpg?w=1024",
+        "caption": "Yellowjackets Creators Explain Why Season 4 Marks the End of the Hit Series",
+        "source": "Deadline"
+      }
+    ],
+    "published": "Sun, 22 Nov 2026 00:51:31 +0000"
+  },
+  "13l3hgu": {
+    "id": "13l3hgu",
+    "type": "news",
+    "headline": "Disney's Billion-Dollar Animated Hit Climbs Global Streaming Charts Years After Release",
+    "dek": "Fans are returning to Disney's snowy fantasy masterpiece on streaming platforms, propelling the beloved title back into the top ranks worldwide as anticipation builds for its upcoming sequels.",
+    "body": [
+      {
+        "h": "Global Streaming Resurgence",
+        "p": [
+          "Audiences around the world are currently revisiting one of Disney's most iconic modern animated features on digital platforms. Long after its initial theatrical run, the picture has secured a prominent spot among the most-watched movies globally on Disney+. Viewers continue to embrace the chilly adventure, proving that the enduring charm of the kingdom of Arendelle remains as potent as ever.",
+          "This renewed digital viewership highlights how major family entertainment properties maintain long-term engagement long after leaving cinema screens. Subscribers of all ages are diving back into the magical narrative, driving up viewing hours and keeping the central characters firmly in the modern pop culture conversation."
+        ]
+      },
+      {
+        "h": "Box Office Legacy and Financial Triumph",
+        "p": [
+          "The current streaming surge builds upon a foundation of staggering historical success established over a decade ago. Upon its initial theatrical release in 2013, the film vastly outperformed expectations against a reported production budget of $150 million. It ultimately hauled in more than $1.2 billion worldwide, easily outpacing major blockbusters like Iron Man 3 to claim the crown as the highest-grossing film globally that year.",
+          "That monumental financial milestone cemented the property as a cornerstone of modern animation. Characters like Elsa, Anna, Olaf, and Kristoff instantly became household names, transforming merchandise aisles and laying the groundwork for a massive, multi-faceted media franchise."
+        ]
+      },
+      {
+        "h": "Meet the Iconic Characters and Voice Cast",
+        "p": [
+          "The heart of the phenomenon lies in its memorable cast of characters and the talented voice actors who brought them to life. Idina Menzel delivered an iconic vocal performance as the powerful queen Elsa, while Kristen Bell portrayed her fiercely devoted sister, Princess Anna. Jonathan Groff stepped into the role of the rugged ice harvester Kristoff, accompanied by his loyal reindeer companion.",
+          "Rounding out the core group is Olaf, the lovable, summer-obsessed snowman voiced by Josh Gad. The strong chemistry among the voice ensemble and the unforgettable musical numbers played an undeniable role in turning the project into an instant global phenomenon for children and families alike."
+        ]
+      },
+      {
+        "h": "Upcoming Sequels and Franchise Expansion",
+        "p": [
+          "The renewed interest on streaming also aligns with growing excitement surrounding the continuation of the overarching narrative. Disney previously revealed major plot details at D23, confirming that the upcoming third installment will feature the long-awaited royal wedding between Queen Anna and Kristoff. Fans have eagerly anticipated this milestone event since the conclusion of the second movie.",
+          "Furthermore, studio plans indicate that a fourth film in the series is actively in development. While initial ideas may have pointed toward simultaneous production, creators have clarified that the third and fourth chapters will follow distinct release timelines, ensuring that the beloved fantasy universe will remain a cinematic fixture for years to come."
+        ]
+      },
+      {
+        "h": "Disney's Broader Dominance in 2026",
+        "p": [
+          "This streaming resurgence occurs during a particularly robust period for the parent studio across both box office and digital mediums. Earlier in the year, the fifth installment of the Toy Story franchise smashed expectations by pulling in near-perfect reviews alongside a box office haul exceeding $1 billion. Additionally, upcoming tentpole releases like Avengers: Doomsday, directed by Anthony and Joe Russo, are poised to push corporate revenues to unprecedented heights.",
+          "Within this vast ecosystem of intellectual property, the snowy kingdom property remains a uniquely resilient asset. Its ability to command both massive theatrical revenues and enduring streaming metrics demonstrates the lasting power of traditional fairy tale storytelling combined with modern animation."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Disney's 2013 animated masterpiece Frozen is currently ranking among the top ten most-watched movies globally on Disney+ as fans rewatch the film ahead of its upcoming third and fourth installments. The original movie previously grossed over $1.2 billion worldwide against a $150 million budget, making it the highest-grossing film of 2013. Recent D23 announcements confirmed that the upcoming threequel will feature the royal wedding of Queen Anna and Kristoff, keeping excitement high for the expanding franchise."
+        ]
+      }
+    ],
+    "facts": [
+      "Production budget was $150 million.",
+      "Worldwide box office exceeded $1.2 billion.",
+      "Released in 2013.",
+      "Highest-grossing film worldwide in 2013.",
+      "Toy Story franchise fifth installment earned over $1 billion at the box office in 2026.",
+      "D23 announcements regarding sequels occurred in August."
+    ],
+    "entities": {
+      "people": [
+        "Jake Hodges",
+        "Selin Hizli",
+        "Rose Ayling-Ellis",
+        "Harlan Coben",
+        "Chelsea Peretti",
+        "Nick Park",
+        "Merlin Crossingham",
+        "Josh Gad",
+        "Idina Menzel",
+        "Kristen Bell",
+        "Jonathan Groff",
+        "Anthony Russo",
+        "Joe Russo",
+        "Ryan Gosling",
+        "Andy Serkis"
+      ],
+      "titles": [
+        "Wallace and Gromit: A Vengeance Most Fowl",
+        "Toy Story",
+        "Star Wars",
+        "Avengers: Doomsday",
+        "Frozen",
+        "Iron Man 3",
+        "The Mandalorian and Grogu",
+        "Star Wars: Starfighter",
+        "The Rings of Power",
+        "The Hunt for Gollum"
+      ]
+    },
+    "keywords": [
+      "Frozen streaming Disney Plus",
+      "Frozen 3 release date",
+      "Disney animated movies streaming",
+      "Frozen box office collection"
+    ],
+    "images": [
+      {
+        "url": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/04/walt-disney-logo.jpg?w=1600&amp;h=900&amp;fit=crop",
+        "caption": "Disney's Billion-Dollar Animated Hit Climbs Global Streaming Charts Years After Release",
+        "source": "Collider"
+      }
+    ],
+    "published": "Sun, 22 Nov 2026 01:00:12 GMT"
+  },
+  "1sl9v52": {
+    "id": "1sl9v52",
+    "type": "news",
+    "headline": "Macaulay Culkin Teams Up With Seth Rogen and Evan Goldberg for New Home Alone Sequel at Disney",
+    "dek": "Original star Macaulay Culkin is collaborating with filmmakers Seth Rogen and Evan Goldberg to write and develop a brand new installment in the classic holiday franchise.",
+    "body": [
+      {
+        "h": "Early Development at Disney",
+        "p": [
+          "A fresh chapter in the iconic Christmas comedy franchise is currently in its early stages of development at Disney. The project brings back original star Macaulay Culkin alongside renowned filmmakers Seth Rogen and Evan Goldberg.",
+          "Industry reports indicate that the trio is actively collaborating on the creative direction and script for the upcoming motion picture under the Disney banner."
+        ]
+      },
+      {
+        "h": "Production and Writing Team",
+        "p": [
+          "Seth Rogen and Evan Goldberg are co-writing the script alongside Macaulay Culkin. In addition to their writing duties, the duo will produce the film through their established production company, Point Grey.",
+          "Specific details regarding the plot, characters, and broader casting choices have been kept under wraps, and Disney has officially declined to comment on the ongoing development."
+        ]
+      },
+      {
+        "h": "Production Timeline and Schedule",
+        "p": [
+          "Fans may have to wait patiently as the project progresses through the early stages. Rogen and Goldberg are currently occupied with preparations for an upcoming original horror-comedy film for Universal, which they also plan to direct.",
+          "Because of these prior directing commitments, the new comedy feature for Disney is expected to take some time before moving forward into full production."
+        ]
+      },
+      {
+        "h": "Legacy of the Original Classic",
+        "p": [
+          "Released in 1990, the original film cemented its place in cinema history by starring Macaulay Culkin as Kevin McCallister. The story followed a young boy accidentally left behind during a family Christmas vacation who must defend his home against burglars Harry and Marv, also known as the Wet Bandits.",
+          "Directed by Chris Columbus and written by John Hughes, the timeless holiday feature also showcased performances by Joe Pesci, Daniel Stern, Catherine O'Hara, John Heard, and Robert Blossom."
+        ]
+      },
+      {
+        "h": "Franchise History and Sequels",
+        "p": [
+          "The immense popularity of the original movie spawned a 1992 sequel titled Home Alone 2: Lost in New York, which reunited audiences with Culkin for another holiday adventure in Manhattan.",
+          "The wider franchise later expanded with Home Alone 3 in 1997 featuring Alex D. Linz, followed by three additional films, including two television movies and the 2021 Disney+ release Home Sweet Home Alone."
+        ]
+      },
+      {
+        "h": "Recent Teasers and Fan Speculation",
+        "p": [
+          "Rumors and speculation regarding Culkin potentially returning to the franchise first surfaced during the previous summer. Interest grew significantly after the actor reprised an adult version of Kevin in a Christmas-themed commercial for McDonald's.",
+          "While it remains undetermined whether the new feature will function as a direct continuation or a fresh reimagining, the involvement of Culkin has successfully generated widespread anticipation."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Macaulay Culkin has partnered with filmmakers Seth Rogen and Evan Goldberg to write and develop a new Home Alone sequel at Disney. Although specific plot details and release timelines remain unconfirmed, the project has already generated considerable excitement among fans of the original holiday classic."
+        ]
+      }
+    ],
+    "facts": [
+      "Macaulay Culkin has teamed up with Seth Rogen and Evan Goldberg to develop a new Home Alone sequel at Disney.",
+      "Rogen and Goldberg are writing the script with Culkin and producing through Point Grey.",
+      "The original Home Alone was released in 1990, directed by Chris Columbus and written by John Hughes.",
+      "Home Alone 2: Lost in New York was released in 1992.",
+      "Home Alone 3 was released in 1997 with Alex D. Linz.",
+      "Home Sweet Home Alone was released on Disney+ in 2021."
+    ],
+    "entities": {
+      "people": [
+        "Macaulay Culkin",
+        "Seth Rogen",
+        "Evan Goldberg",
+        "Chris Columbus",
+        "John Hughes",
+        "Joe Pesci",
+        "Daniel Stern",
+        "Catherine O'Hara",
+        "John Heard",
+        "Robert Blossom",
+        "Alex D. Linz"
+      ],
+      "titles": [
+        "Home Alone",
+        "Home Alone 2: Lost in New York",
+        "Home Alone 3",
+        "Home Sweet Home Alone"
+      ]
+    },
+    "keywords": [
+      "Home Alone sequel",
+      "Macaulay Culkin Home Alone",
+      "Seth Rogen Evan Goldberg",
+      "Disney Home Alone movie"
+    ],
+    "images": [
+      {
+        "url": "https://cdn-english.zeenews.com/sites/default/files/2026/11/21/7149-home-alone.png",
+        "caption": "Macaulay Culkin Teams Up With Seth Rogen and Evan Goldberg for New Home Alone Sequel at Disney",
+        "source": "Zee News — Entertainment"
+      }
+    ],
+    "published": "2026-11-22T02:34:51Z"
   }
 };

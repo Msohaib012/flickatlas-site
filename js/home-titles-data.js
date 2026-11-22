@@ -1701,7 +1701,14 @@ window.FA_PUBLISHED = {
     ],
     "published_at": "2026-10-26",
     "status": "Released",
-    "providers": [],
+    "providers": [
+      {
+        "name": "Netflix",
+        "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+        "region": "IN",
+        "type": "flatrate"
+      }
+    ],
     "release_date": "2026-10-22"
   },
   "90172": {
@@ -2537,7 +2544,14 @@ window.FA_PUBLISHED = {
     "published_at": "2026-10-27",
     "date_kind": "release",
     "status": "Released",
-    "providers": [],
+    "providers": [
+      {
+        "name": "Netflix",
+        "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+        "region": "IN",
+        "type": "flatrate"
+      }
+    ],
     "release_date": "2026-10-23"
   },
   "1740967": {
@@ -22063,7 +22077,14 @@ window.FA_PUBLISHED = {
     "published_at": "2026-11-09",
     "date_kind": "release",
     "status": "Released",
-    "providers": [],
+    "providers": [
+      {
+        "name": "Netflix",
+        "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+        "region": "IN",
+        "type": "flatrate"
+      }
+    ],
     "release_date": "2026-11-05",
     "popularity": 1.979
   },
@@ -23693,18 +23714,6 @@ window.FA_PUBLISHED = {
     "date_kind": "release",
     "status": "Released",
     "providers": [
-      {
-        "name": "fuboTV",
-        "logo_path": "/3wF8xISfVlcrc8X3jaa3uMUFGAr.png",
-        "region": "US",
-        "type": "flatrate"
-      },
-      {
-        "name": "Philo",
-        "logo_path": "/mfbhzQwmQKjm7bLZPF5CTeu3Ilc.png",
-        "region": "US",
-        "type": "flatrate"
-      },
       {
         "name": "Pure Flix",
         "logo_path": "/qAccuffS0YOegynkbRchQeBrw7W.png",
@@ -26446,7 +26455,20 @@ window.FA_PUBLISHED = {
     "published_at": "2026-11-13",
     "date_kind": "release",
     "status": "Released",
-    "providers": [],
+    "providers": [
+      {
+        "name": "Sony Liv",
+        "logo_path": "/coM4QWbmIOa0xJ5cGR9BRmoV25B.png",
+        "region": "IN",
+        "type": "flatrate"
+      },
+      {
+        "name": "Sonyliv Amazon Channel",
+        "logo_path": "/944iNBWJZwKT1lfO3y2oEqquQjG.png",
+        "region": "IN",
+        "type": "flatrate"
+      }
+    ],
     "release_date": "2026-10-02",
     "popularity": 2.3609
   },
@@ -34229,7 +34251,14 @@ window.FA_PUBLISHED = {
     "published_at": "2026-11-20",
     "date_kind": "release",
     "status": "Released",
-    "providers": [],
+    "providers": [
+      {
+        "name": "Netflix",
+        "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+        "region": "IN",
+        "type": "flatrate"
+      }
+    ],
     "release_date": "2026-11-20",
     "popularity": 50.8216
   },
@@ -34570,7 +34599,14 @@ window.FA_PUBLISHED = {
     ],
     "published_at": "2026-11-20",
     "status": "Ended",
-    "providers": [],
+    "providers": [
+      {
+        "name": "Netflix",
+        "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+        "region": "IN",
+        "type": "flatrate"
+      }
+    ],
     "first_air_date": "2026-11-20",
     "popularity": 41.2699
   },
@@ -34940,7 +34976,14 @@ window.FA_PUBLISHED = {
     "published_at": "2026-11-20",
     "date_kind": "release",
     "status": "Released",
-    "providers": [],
+    "providers": [
+      {
+        "name": "Philo",
+        "logo_path": "/mfbhzQwmQKjm7bLZPF5CTeu3Ilc.png",
+        "region": "US",
+        "type": "flatrate"
+      }
+    ],
     "release_date": "2026-11-19",
     "popularity": 1.7997
   },
@@ -35434,9 +35477,9 @@ window.FA_PUBLISHED = {
     "status": "Released",
     "providers": [
       {
-        "name": "Disney Plus",
-        "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
-        "region": "US",
+        "name": "JioHotstar",
+        "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+        "region": "IN",
         "type": "flatrate"
       }
     ],
