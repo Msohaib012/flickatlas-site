@@ -227631,5 +227631,404 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Mon, 23 Nov 2026 11:34:24 +0530"
+  },
+  "xx3nci": {
+    "id": "xx3nci",
+    "type": "news",
+    "headline": "Namit Malhotra Composes Comparison Between Lord Hanuman and Iron Man, Explains Why Sunny Deol Was Cast",
+    "dek": "Producer Namit Malhotra discusses the inclusion of Lord Hanuman in the post-credits of Ramayana and shares why Sunny Deol is the ideal fit for the role.",
+    "body": [
+      {
+        "h": "Introduction of Lord Hanuman in Ramayana",
+        "p": [
+          "Audiences who remained seated through the post-credits sequence of Nitesh Tiwari's Ramayana received an unexpected glimpse of Lord Hanuman. The epic feature film released its first part on November 5, leaving fans with a strong sense of suspense regarding the future trajectory of the narrative.",
+          "The newly introduced character sets the stage for the upcoming sequel planned for 2028, where Hanuman will take on an essential role in aiding Rama's search for Sita and confronting Ravana."
+        ]
+      },
+      {
+        "h": "Comparing Hanuman to Iron Man",
+        "p": [
+          "In a recent interview with Gold Derby, producer Namit Malhotra drew a parallel between the revered mythological figure and Iron Man from Marvel films. He described Hanuman as a massive fan favorite and India's equivalent to the cinematic superhero.",
+          "Malhotra noted that the presence of the character will greatly elevate the upcoming film, transforming the narrative into an exciting cinematic experience while preserving the anticipation of what Rama will do next."
+        ]
+      },
+      {
+        "h": "Why Sunny Deol Was Chosen for the Role",
+        "p": [
+          "The casting decision for Lord Hanuman required a very specific blend of traits. Malhotra explained that the character demands a combination of genuine innocence and extreme likability, coupled with the capacity to inspire terror when provoked.",
+          "He found that Sunny Deol possesses a similar public image in India, having starred in projects where his demeanor transitions seamlessly from sweet to earth-shattering when challenged."
+        ]
+      },
+      {
+        "h": "An Untraditional Superhero",
+        "p": [
+          "According to the producer, Sunny Deol has long been celebrated as a homegrown superhero by Indian audiences even without having traditionally played caped crusaders in comic book adaptations.",
+          "The introduction of Hanuman alongside Rama signals a massive escalation in the storytelling scale, with Malhotra asserting that the true epic journey of the narrative begins right here."
+        ]
+      },
+      {
+        "h": "Visual and Musical Presentation",
+        "p": [
+          "The theatrical reveal of Hanuman featured a heavily stylized entrance supported by a powerful musical score. While his facial features remained obscured during the clip, a wider cinematic angle captured him soaring through the skies carrying his traditional gada.",
+          "A backdrop of chanting accompanied the scene, alongside the Hanuman Chalisa rendition voiced by Diljit Dosanjh, amplifying the emotional impact of the character's arrival."
+        ]
+      },
+      {
+        "h": "Box Office and Cast Background",
+        "p": [
+          "Ramayana: Part 1 is directed by Nitesh Tiwari and boasts a stellar lead cast including Ranbir Kapoor as Lord Rama, Sai Pallavi as Sita, Yash as Ravana, and Ravie Dubey as Lakshman.",
+          "The feature has achieved massive commercial success since its debut, crossing ₹1700 crore globally and accumulating ₹920 crore net domestically in India within an 18-day window."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Producer Namit Malhotra compared Lord Hanuman to Iron Man following the character's reveal in the post-credits sequence of Nitesh Tiwari's Ramayana. He explained that Sunny Deol was chosen for the role due to his unique blend of innocence and intense strength. Meanwhile, the film continues its strong theatrical run ahead of its 2028 sequel."
+        ]
+      }
+    ],
+    "facts": [
+      "Ramayana was released on November 5",
+      "Namit Malhotra is the producer of Ramayana",
+      "Sunny Deol plays Lord Hanuman",
+      "Diljit Dosanjh sang the Hanuman Chalisa for the film",
+      "Ramayana: Part 1 is directed by Nitesh Tiwari",
+      "Ranbir Kapoor stars as Lord Rama",
+      "Yash plays Ravana",
+      "Sai Pallavi plays Sita",
+      "Ravie Dubey plays Lakshman",
+      "The film crossed 1700 crore worldwide in 18 days",
+      "The film earned 920 crore net in India",
+      "The second part is scheduled to release in 2028"
+    ],
+    "entities": {
+      "people": [
+        "Namit Malhotra",
+        "Sunny Deol",
+        "Nitesh Tiwari",
+        "Diljit Dosanjh",
+        "Ranbir Kapoor",
+        "Yash",
+        "Sai Pallavi",
+        "Ravie Dubey",
+        "Riya Sharma"
+      ],
+      "titles": [
+        "Ramayana",
+        "Ramayana: Part 1"
+      ]
+    },
+    "keywords": [
+      "Namit Malhotra Ramayana",
+      "Sunny Deol Hanuman",
+      "Ramayana Part 1 box office",
+      "Nitesh Tiwari Ramayana"
+    ],
+    "images": [
+      {
+        "url": "https://www.hindustantimes.com/ht-img/img/2026/11/23/1600x900/logo/Namit_Sunny_1795407734861_ejCZ_1795407741869_MkQC_7a8d0b11-5942-43b3-84fc-6208b9abc956_cxF7.jpg",
+        "caption": "Namit Malhotra Composes Comparison Between Lord Hanuman and Iron Man, Explains Why Sunny Deol Was Cast",
+        "source": "Hindustan Times — Entertainment"
+      }
+    ],
+    "published": "Mon, 23 Nov 2026 10:29:31 +0530"
+  },
+  "rgnfv9": {
+    "id": "rgnfv9",
+    "type": "news",
+    "headline": "Netflix Miniseries American Primeval Ranks As A Brutal Western",
+    "dek": "Netflix explores America's colonial history through a gritty six-part Western miniseries that brings a raw and violent look to the frontier.",
+    "body": [
+      {
+        "h": "A New Frontier Tale on Netflix",
+        "p": [
+          "Netflix has introduced a gritty six-part Western miniseries titled American Primeval, entering the territory of frontier dramas with a stark look at historical conflicts. While shows like Yellowstone established a modern appetite for gritty ranch dramas, this new entry pivots toward the raw struggles over American soil during the nineteenth century. Instead of focusing primarily on corporate greed, the narrative tackles a complex web involving religious factions, native populations, and traveling settlers.",
+          "The production utilizes a compact six-episode arc to explore the harsh realities of colonialism. Rather than spreading its story across multiple seasons, it confines its sweeping historical scope to a tight miniseries format. This allows the creative team to focus closely on the chaotic environment of the American West without overstaying its welcome."
+        ]
+      },
+      {
+        "h": "Historical Setting and the Utah War",
+        "p": [
+          "The plot places its characters directly into the 1857 Utah War, centering on the expansion of the Mormon Church under the leadership of Brigham Young. His campaign to secure territory around Fort Bridger brings his followers into direct conflict with other regional powers. These include United States Army officers, local fort owners, and groups of indigenous warriors operating independently across the landscape.",
+          "Among the prominent figures driving the narrative is Brigham Young, portrayed by Kim Coates, whose religious zeal shapes the conflict. He faces off against characters like Captain Edmund Dellinger, played by Lucas Neff, and Fort Bridger owner Jim Bridger, portrayed by Shea Whigham. Meanwhile, Derek Hinkey appears as Red Feather, the leader of a renegade faction of Crow warriors known as the Wolf Clan."
+        ]
+      },
+      {
+        "h": "The Journey of Sara and Devin Rowell",
+        "p": [
+          "At the emotional core of the miniseries are a mother and son, Sara Rowell and Devin Rowell, played by Betty Gilpin and Preston Mota respectively. The pair undertake a perilous journey originating in Missouri with the ultimate goal of reaching Fort Bridger in Wyoming. Their intention is to reunite with Devin's father, who is located further away in Crooks Springs, Utah.",
+          "Reaching their destination proves to be an exceptionally difficult undertaking. The terrain is treacherous, populated by dangerous wildlife and opportunistic bounty hunters scattered throughout the region. Their odds of completing the journey alone appear minimal before they cross paths with a reluctant mountain man named Isaac Reed, played by Taylor Kitsch, who agrees to accompany them."
+        ]
+      },
+      {
+        "h": "Surpassing Previous Frontier Dramas in Intensity",
+        "p": [
+          "Comparisons to Yellowstone are inevitable given the modern popularity of frontier dramas, but American Primeval presents a much more harrowing environment. While Yellowstone features plenty of tense and violent encounters involving its central family, it operates within a modern framework where law enforcement and legal systems still exist. Characters in the modern series must still contend with contemporary bureaucracy and government officials.",
+          "In contrast, the frontier depicted in the Netflix miniseries is largely lawless. Formal authority holds virtually no power over the armed factions fighting relentlessly for dominance and land. This lack of institutional control creates a world where brutality is normalized and human life carries very little weight for those desperate to survive."
+        ]
+      },
+      {
+        "h": "Portrayal of Frontier Violence",
+        "p": [
+          "The series does not shy away from depicting the grim realities of westward expansion. Viewers witness public hangings, the abduction of vulnerable individuals, and the ruthless slaughter of entire parties of travelers. Every group portrayed on screen seems ready to resort to extreme measures to settle scores, defend themselves, or gain territorial advantage.",
+          "Among these harrowing historical depictions is a fictionalized portrayal of the Mountain Meadows Massacre, which took place in September 1857. The inclusion of such historical touchpoints emphasizes the volatile nature of the setting, where verbal arguments can instantly escalate into fatal knife fights or sudden ambushes."
+        ]
+      },
+      {
+        "h": "Highlighting Female Perspectives",
+        "p": [
+          "Western narratives have traditionally centered on male protagonists while relegating female characters to the background. American Primeval attempts to alter this dynamic by placing women directly into the chaos of the frontier. Characters like Sara Rowell are forced to navigate a world that frequently disregards their value, highlighting their resilience amidst constant danger.",
+          "By focusing on mothers, families, and individuals caught in the crossfire of religious and territorial wars, the miniseries provides a different angle on historical conflicts. The female characters are given ample room to share their experiences, offering a viewpoint that traditional cinematic Westerns have often overlooked."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Netflix has released a six-part Western miniseries titled American Primeval, which explores the 1857 Utah War and the violent expansion of the Mormon Church. The gritty historical drama stars Taylor Kitsch, Betty Gilpin, and Kim Coates, focusing on a dangerous cross-country journey and the lawless conflicts over Native land."
+        ]
+      }
+    ],
+    "facts": [
+      "American Primeval is a 6-part Western miniseries on Netflix.",
+      "The story is set during the 1857 Utah War.",
+      "Kim Coates portrays Brigham Young in the series.",
+      "Lucas Neff plays Captain Edmund Dellinger.",
+      "Shea Whigham plays Jim Bridger.",
+      "Derek Hinkey plays Red Feather.",
+      "Betty Gilpin plays Sara Rowell.",
+      "Preston Mota plays Devin Rowell.",
+      "Taylor Kitsch plays Isaac Reed.",
+      "The Mountain Meadows Massacre occurred in September 1857."
+    ],
+    "entities": {
+      "people": [
+        "Dyah Ayu Larasati",
+        "Taylor Sheridan",
+        "Kim Coates",
+        "Lucas Neff",
+        "Shea Whigham",
+        "Derek Hinkey",
+        "Betty Gilpin",
+        "Preston Mota",
+        "Taylor Kitsch",
+        "Kelly Reilly",
+        "Kelsey Asbille",
+        "Anja Djuricic",
+        "Clint Eastwood",
+        "Val Kilmer"
+      ],
+      "titles": [
+        "Yellowstone",
+        "American Primeval",
+        "True Grit",
+        "Tombstone"
+      ]
+    },
+    "keywords": [
+      "American Primeval Netflix",
+      "American Primeval Western miniseries",
+      "Taylor Kitsch American Primeval",
+      "Betty Gilpin American Primeval"
+    ],
+    "images": [
+      {
+        "url": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/02/kevin-costner-yellowstone.jpg?w=1600&amp;h=900&amp;fit=crop",
+        "caption": "Netflix Miniseries American Primeval Ranks As A Brutal Western",
+        "source": "Collider"
+      }
+    ],
+    "published": "Mon, 23 Nov 2026 04:59:12 GMT"
+  },
+  "8n1qb9": {
+    "id": "8n1qb9",
+    "type": "news",
+    "headline": "Manoj Bajpayee's Remarks on Recent Films Spark Intense Social Media Debate Over Propaganda",
+    "dek": "A circulating video featuring Manoj Bajpayee discussing controversial Bollywood titles has ignited fierce online discussions, though close analysis suggests his words may have been taken out of context.",
+    "body": [
+      {
+        "h": "The Viral Video and Social Media Uproar",
+        "p": [
+          "Renowned actor Manoj Bajpayee has landed in the middle of a major online controversy following the rapid circulation of a recorded conversation concerning Indian cinema. The clip, which touches upon several high-profile movies, quickly gained traction across various social media platforms as users began debating the actor's stance.",
+          "The wildfire spread of the video was largely fueled by a viral post claiming that Bajpayee had explicitly categorized specific controversial blockbusters as propaganda. This interpretation immediately divided internet users, prompting widespread arguments about what the acclaimed performer actually meant during the interview."
+        ]
+      },
+      {
+        "h": "Deconstructing the Interview Exchange",
+        "p": [
+          "A closer look at the circulating exchange reveals that the initial prompt came from the interviewer, who raised concerns regarding motion pictures frequently accused of fostering hatred or political agendas. The interviewer specifically brought up three notable titles during the dialogue.",
+          "Rather than attacking the projects independently, Bajpayee steered the conversation toward scale and proportion. He emphasized that controversial releases represent only a minuscule fraction of the hundreds of features produced annually across the country's vast entertainment sector."
+        ]
+      },
+      {
+        "h": "Understanding the Distinction Between Reply and Endorsement",
+        "p": [
+          "Observers and fans quickly pointed out a vital nuance in the discourse: responding directly to a heavily framed question is fundamentally different from initiating an independent accusation. Bajpayee never explicitly coined a derogatory label for the movies in question.",
+          "Without access to the complete, unedited transcript and video, digital commentators caution that asserting the actor personally condemned these productions is both inaccurate and misleading to the public."
+        ]
+      },
+      {
+        "h": "The Broader Landscape of Contentious Cinema",
+        "p": [
+          "The subjects tackled by the films mentioned in the debate carry profound sensitivity. For instance, 'The Kashmir Files' focuses heavily on the displacement and persecution suffered by Kashmiri Pandits during historical unrest.",
+          "Similarly, 'The Kerala Story' explores themes involving religious radicalization and recruitment networks tied to the Islamic State, while Aditya Dhar's 'Dhurandhar' weaves espionage, national security, and organized crime into a fictional narrative."
+        ]
+      },
+      {
+        "h": "Reality Versus Artistic Interpretation",
+        "p": [
+          "Because all three titles draw clear inspiration from genuine historical events and contemporary headlines, public opinion remains starkly polarized. Defenders argue that addressing harsh, real-world issues should never automatically brand a creative work as mere propaganda.",
+          "Conversely, critics maintain that a foundation in reality does not exempt any cinematic interpretation from rigorous public scrutiny, leaving room for ongoing societal friction surrounding politically charged art."
+        ]
+      },
+      {
+        "h": "Championing Creative Freedom and Industry Diversity",
+        "p": [
+          "Lost amid the online outrage is Bajpayee's core message regarding the rich variety inherent in Indian filmmaking. Throughout his career, the veteran star has consistently advocated for artistic liberty and the necessity of allowing diverse ideological viewpoints to find expression.",
+          "His comments in the disputed clip align closely with this long-standing philosophy, emphasizing that a handful of disputed releases should never overshadow the vast majority of stories celebrating love, humanity, and moral triumph."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Manoj Bajpayee became the center of a social media debate after a circulating video led to viral claims that he called certain films propaganda. However, analysis shows he was merely responding to an interviewer by highlighting the vast diversity of Indian cinema rather than condemning specific titles."
+        ]
+      }
+    ],
+    "facts": [
+      "Manoj Bajpayee's remarks on films went viral on November 23, 2026.",
+      "The films mentioned in the discussion are The Kashmir Files, The Kerala Story, and Dhurandhar.",
+      "Aditya Dhar directed Dhurandhar.",
+      "The Kashmir Files was released on Friday, March 11, 2022, with an India net collection of ₹252.25 Cr and a worldwide gross of ₹341.00 Cr."
+    ],
+    "entities": {
+      "people": [
+        "Manoj Bajpayee",
+        "Aditya Dhar",
+        "Sunit Jangir"
+      ],
+      "titles": [
+        "The Kashmir Files",
+        "The Kerala Story",
+        "Dhurandhar"
+      ]
+    },
+    "keywords": [
+      "Manoj Bajpayee",
+      "The Kashmir Files",
+      "The Kerala Story",
+      "Dhurandhar",
+      "Aditya Dhar"
+    ],
+    "images": [
+      {
+        "url": "https://cdn.sacnilk.com/image/news300/1000028677.jpg",
+        "caption": "Manoj Bajpayee's Remarks on Recent Films Spark Intense Social Media Debate Over Propaganda",
+        "source": "Sacnilk"
+      }
+    ],
+    "published": "Mon, 23 Nov 2026 06:35:28 +0000"
+  },
+  "115aw56": {
+    "id": "115aw56",
+    "type": "news",
+    "headline": "Why Tom Hanks' 1993 Drama Remains His Finest Career Achievement Over Three Decades Later",
+    "dek": "Decades after its original release, the Oscar-winning drama starring Tom Hanks and Denzel Washington stands as a defining cinematic milestone that transformed a comedy icon into a powerhouse dramatic actor.",
+    "body": [
+      {
+        "h": "The Comforting Persona and the Risky Pivot",
+        "p": [
+          "Audiences frequently view Tom Hanks as a comforting figure in modern culture, having breathed life into beloved characters like Woody, Walt Disney, Santa, and Mr. Rogers through his trademark warmth and charm. However, the motion picture that first propelled him into the realm of serious dramatic acting remains his greatest and most daring career choice.",
+          "Released in 1993, the Oscar-winning drama addressed an urgent subject for its era by giving it a deeply human perspective. It proved that a performer previously known for comedic roles could deliver a heart-breaking performance while holding the screen alongside a heavyweight co-star like Denzel Washington."
+        ]
+      },
+      {
+        "h": "The Plot of a Lawyer Seeking Justice",
+        "p": [
+          "Set in the titular location, the story follows Andrew Beckett, a successful lawyer who is abruptly fired from his firm after his employers discover he is gay and has contracted the AIDS virus. Determined to fight back against blatant discrimination, he approaches personal injury attorney Joe Miller to represent him in a wrongful termination lawsuit.",
+          "Joe initially refuses the case due to his own homophobic preconceptions, but experiences a change of heart after witnessing the severe injustice Andrew faces. Together, the pair battle against widespread bigotry and Andrew's rapidly deteriorating health in pursuit of a fair trial."
+        ]
+      },
+      {
+        "h": "Transitioning from Comedy Hits to Heavy Drama",
+        "p": [
+          "Before taking on the role of Andrew Beckett, Hanks was firmly established as a major box office draw, starring in an array of successful 1980s and early 1990s comedies. Films such as Big, Splash, Turner and Hooch, The 'Burbs, and A League of Their Own cemented his reputation as an actor adept at making viewers laugh rather than cry.",
+          "In this dramatic feature, he demonstrated a completely different side of his artistry as a character who is principled, strong, yet profoundly vulnerable. Fully committing to the physically demanding part, he dropped 35 pounds to portray a man racing against a terminal illness to make his legal case."
+        ]
+      },
+      {
+        "h": "A Calculated Gamble That Paid Off",
+        "p": [
+          "Taking on a project addressing homosexuality and HIV/AIDS carried a significant risk to his crowd-pleasing reputation during a time of widespread public prejudice. Yet, his earnest portrayal anchored a deeply emotional journey that forced audiences to confront their own biases head-on.",
+          "As Hanks noted in a later interview, one reason viewers were not immediately frightened away from the challenging subject matter was his own wholesome public image. The gamble ultimately triumphed, earning him his very first Academy Award for Best Actor and opening the floodgates to a legendary decade of prestige cinema."
+        ]
+      },
+      {
+        "h": "Spreading Mainstream Awareness During an Epidemic",
+        "p": [
+          "While some of the exposition in director Jonathan Demme's picture may feel somewhat simplistic from a modern perspective, context remains vital to understanding its immense cultural impact. Released during the peak of the HIV/AIDS epidemic, the production arrived at a time when misinformation had generated widespread public panic and inaccurate perceptions.",
+          "Rather than focusing purely on political activism, the narrative encouraged viewers to see an ordinary human being rather than a frightening headline. By humanizing the global health crisis through one individual's struggle, the film made it easier for mainstream audiences to empathize with a marginalized community."
+        ]
+      },
+      {
+        "h": "Accolades and Lasting Cinematic Legacy",
+        "p": [
+          "The landmark production achieved massive critical recognition, winning a total of six Academy Awards. Alongside Hanks' historic Best Actor win, musician Bruce Springsteen earned a Best Original Song Oscar for his haunting and memorable theme, \"Streets of Philadelphia.\"",
+          "For Denzel Washington, the project delivered another classic performance that directly confronted societal ignorance. More than thirty years later, the picture stands as a monumental achievement in Hollywood history that ignited crucial off-screen discussions and launched Hanks into an elite tier of legendary dramatic stars."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "More than thirty years after its initial theatrical run, the 1993 drama starring Tom Hanks and Denzel Washington continues to be celebrated as a defining milestone in cinematic history. The production successfully challenged societal prejudices during the height of the HIV/AIDS epidemic while forever altering Hanks' career trajectory from comedy star to Oscar-winning dramatic heavyweight."
+        ]
+      }
+    ],
+    "facts": [
+      "Tom Hanks won his first Oscar for Best Actor for the 1993 film Philadelphia.",
+      "Bruce Springsteen won an Oscar for Best Original Song for 'Streets of Philadelphia'.",
+      "Tom Hanks lost 35 pounds for his role as Andrew Beckett.",
+      "The film was directed by Jonathan Demme and written by Ron Nyswaner."
+    ],
+    "entities": {
+      "people": [
+        "Tom Hanks",
+        "Denzel Washington",
+        "Bruce Springsteen",
+        "Jonathan Demme",
+        "Ron Nyswaner",
+        "Andrew Beckett",
+        "Joe Miller",
+        "Mr. Rogers",
+        "Santa",
+        "Woody",
+        "Walt Disney"
+      ],
+      "titles": [
+        "Philadelphia",
+        "Streets of Philadelphia",
+        "Big",
+        "Turner Hooch",
+        "The 'Burbs",
+        "Splash",
+        "A League of Their Own",
+        "Apollo 13",
+        "Saving Private Ryan",
+        "The Green Mile"
+      ]
+    },
+    "keywords": [
+      "Tom Hanks Philadelphia",
+      "Philadelphia movie 1993",
+      "Tom Hanks Denzel Washington",
+      "Jonathan Demme film Philadelphia"
+    ],
+    "images": [
+      {
+        "url": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2023/08/tom-hanks-philadelphia.jpg?w=1200&amp;h=675&amp;fit=crop",
+        "caption": "Why Tom Hanks' 1993 Drama Remains His Finest Career Achievement Over Three Decades Later",
+        "source": "Collider"
+      }
+    ],
+    "published": "Mon, 23 Nov 2026 05:14:12 GMT"
   }
 };

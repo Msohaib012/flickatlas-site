@@ -93,6 +93,39 @@ window.FA_HOME_ARTICLES = {
     ],
     "published": "Mon, 23 Nov 2026 09:25:23 +0200"
   },
+  "8n1qb9": {
+    "id": "8n1qb9",
+    "type": "news",
+    "headline": "Manoj Bajpayee's Remarks on Recent Films Spark Intense Social Media Debate Over Propaganda",
+    "dek": "A circulating video featuring Manoj Bajpayee discussing controversial Bollywood titles has ignited fierce online discussions, though close analysis suggests his words may have been taken out of context.",
+    "entities": {
+      "people": [
+        "Manoj Bajpayee",
+        "Aditya Dhar",
+        "Sunit Jangir"
+      ],
+      "titles": [
+        "The Kashmir Files",
+        "The Kerala Story",
+        "Dhurandhar"
+      ]
+    },
+    "keywords": [
+      "Manoj Bajpayee",
+      "The Kashmir Files",
+      "The Kerala Story",
+      "Dhurandhar",
+      "Aditya Dhar"
+    ],
+    "images": [
+      {
+        "url": "https://cdn.sacnilk.com/image/news300/1000028677.jpg",
+        "caption": "Manoj Bajpayee's Remarks on Recent Films Spark Intense Social Media Debate Over Propaganda",
+        "source": "Sacnilk"
+      }
+    ],
+    "published": "Mon, 23 Nov 2026 06:35:28 +0000"
+  },
   "pqqk9j": {
     "id": "pqqk9j",
     "type": "news",
@@ -286,6 +319,134 @@ window.FA_HOME_ARTICLES = {
       }
     ],
     "published": "Mon, 23 Nov 2026 05:15:00 +0000"
+  },
+  "115aw56": {
+    "id": "115aw56",
+    "type": "news",
+    "headline": "Why Tom Hanks' 1993 Drama Remains His Finest Career Achievement Over Three Decades Later",
+    "dek": "Decades after its original release, the Oscar-winning drama starring Tom Hanks and Denzel Washington stands as a defining cinematic milestone that transformed a comedy icon into a powerhouse dramatic actor.",
+    "entities": {
+      "people": [
+        "Tom Hanks",
+        "Denzel Washington",
+        "Bruce Springsteen",
+        "Jonathan Demme",
+        "Ron Nyswaner",
+        "Andrew Beckett",
+        "Joe Miller",
+        "Mr. Rogers",
+        "Santa",
+        "Woody",
+        "Walt Disney"
+      ],
+      "titles": [
+        "Philadelphia",
+        "Streets of Philadelphia",
+        "Big",
+        "Turner Hooch",
+        "The 'Burbs",
+        "Splash",
+        "A League of Their Own",
+        "Apollo 13",
+        "Saving Private Ryan",
+        "The Green Mile"
+      ]
+    },
+    "keywords": [
+      "Tom Hanks Philadelphia",
+      "Philadelphia movie 1993",
+      "Tom Hanks Denzel Washington",
+      "Jonathan Demme film Philadelphia"
+    ],
+    "images": [
+      {
+        "url": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2023/08/tom-hanks-philadelphia.jpg?w=1200&amp;h=675&amp;fit=crop",
+        "caption": "Why Tom Hanks' 1993 Drama Remains His Finest Career Achievement Over Three Decades Later",
+        "source": "Collider"
+      }
+    ],
+    "published": "Mon, 23 Nov 2026 05:14:12 GMT"
+  },
+  "xx3nci": {
+    "id": "xx3nci",
+    "type": "news",
+    "headline": "Namit Malhotra Composes Comparison Between Lord Hanuman and Iron Man, Explains Why Sunny Deol Was Cast",
+    "dek": "Producer Namit Malhotra discusses the inclusion of Lord Hanuman in the post-credits of Ramayana and shares why Sunny Deol is the ideal fit for the role.",
+    "entities": {
+      "people": [
+        "Namit Malhotra",
+        "Sunny Deol",
+        "Nitesh Tiwari",
+        "Diljit Dosanjh",
+        "Ranbir Kapoor",
+        "Yash",
+        "Sai Pallavi",
+        "Ravie Dubey",
+        "Riya Sharma"
+      ],
+      "titles": [
+        "Ramayana",
+        "Ramayana: Part 1"
+      ]
+    },
+    "keywords": [
+      "Namit Malhotra Ramayana",
+      "Sunny Deol Hanuman",
+      "Ramayana Part 1 box office",
+      "Nitesh Tiwari Ramayana"
+    ],
+    "images": [
+      {
+        "url": "https://www.hindustantimes.com/ht-img/img/2026/11/23/1600x900/logo/Namit_Sunny_1795407734861_ejCZ_1795407741869_MkQC_7a8d0b11-5942-43b3-84fc-6208b9abc956_cxF7.jpg",
+        "caption": "Namit Malhotra Composes Comparison Between Lord Hanuman and Iron Man, Explains Why Sunny Deol Was Cast",
+        "source": "Hindustan Times — Entertainment"
+      }
+    ],
+    "published": "Mon, 23 Nov 2026 10:29:31 +0530"
+  },
+  "rgnfv9": {
+    "id": "rgnfv9",
+    "type": "news",
+    "headline": "Netflix Miniseries American Primeval Ranks As A Brutal Western",
+    "dek": "Netflix explores America's colonial history through a gritty six-part Western miniseries that brings a raw and violent look to the frontier.",
+    "entities": {
+      "people": [
+        "Dyah Ayu Larasati",
+        "Taylor Sheridan",
+        "Kim Coates",
+        "Lucas Neff",
+        "Shea Whigham",
+        "Derek Hinkey",
+        "Betty Gilpin",
+        "Preston Mota",
+        "Taylor Kitsch",
+        "Kelly Reilly",
+        "Kelsey Asbille",
+        "Anja Djuricic",
+        "Clint Eastwood",
+        "Val Kilmer"
+      ],
+      "titles": [
+        "Yellowstone",
+        "American Primeval",
+        "True Grit",
+        "Tombstone"
+      ]
+    },
+    "keywords": [
+      "American Primeval Netflix",
+      "American Primeval Western miniseries",
+      "Taylor Kitsch American Primeval",
+      "Betty Gilpin American Primeval"
+    ],
+    "images": [
+      {
+        "url": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/02/kevin-costner-yellowstone.jpg?w=1600&amp;h=900&amp;fit=crop",
+        "caption": "Netflix Miniseries American Primeval Ranks As A Brutal Western",
+        "source": "Collider"
+      }
+    ],
+    "published": "Mon, 23 Nov 2026 04:59:12 GMT"
   },
   "16r0hxr": {
     "id": "16r0hxr",
@@ -4517,153 +4678,58 @@ window.FA_HOME_ARTICLES = {
     ],
     "published": "2026-11-22T08:52:21+05:30"
   },
-  "15k4hlk": {
-    "id": "15k4hlk",
+  "4onnrk": {
+    "id": "4onnrk",
     "type": "news",
-    "headline": "Netflix BioShock Adaptation Receives a Fresh Update from Director Francis Lawrence",
-    "dek": "Director Francis Lawrence shares insights on the ongoing development of the Netflix BioShock movie adaptation, discussing the creative hurdles and current progress.",
+    "headline": "Marvel Star Hayley Atwell Hints at New 'Avengers: Doomsday' Trailer Arriving Soon",
+    "dek": "MCU veteran Hayley Atwell has seemingly let slip that a brand new promotional clip for the upcoming blockbuster Avengers: Doomsday will release on Monday.",
     "entities": {
       "people": [
-        "Jennifer Chu",
-        "Francis Lawrence",
-        "Gore Verbinski",
-        "Jack"
+        "Hayley Atwell",
+        "Robert Downey Jr.",
+        "Tom Hiddleston",
+        "Kathryn Newton",
+        "Pedro Pascal",
+        "Chris Hemsworth",
+        "Vanessa Kirby",
+        "Stephen McFeely",
+        "Michael Waldron",
+        "Anthony Russo",
+        "Joe Russo",
+        "Kevin Feige",
+        "Louis D'Esposito",
+        "Jonathan Schwartz",
+        "Steve Rogers"
       ],
       "titles": [
-        "BioShock",
-        "Alien: Earth",
-        "Pirates of the Caribbean",
-        "Kitchen Nightmares",
-        "The Witcher"
-      ]
-    },
-    "keywords": [
-      "Netflix BioShock adaptation",
-      "Francis Lawrence BioShock movie",
-      "BioShock live action Netflix",
-      "BioShock video game movie"
-    ],
-    "images": [
-      {
-        "url": "https://static0.srcdn.com/wordpress/wp-content/uploads/2026/10/netflix-s-logo-on-a-dark-red-background.jpg?w=1600&amp;h=900&amp;fit=crop",
-        "caption": "Netflix BioShock Adaptation Receives a Fresh Update from Director Francis Lawrence",
-        "source": "Screen Rant"
-      }
-    ],
-    "published": "Sun, 22 Nov 2026 03:02:51 GMT"
-  },
-  "1sl9v52": {
-    "id": "1sl9v52",
-    "type": "news",
-    "headline": "Macaulay Culkin Teams Up With Seth Rogen and Evan Goldberg for New Home Alone Sequel at Disney",
-    "dek": "Original star Macaulay Culkin is collaborating with filmmakers Seth Rogen and Evan Goldberg to write and develop a brand new installment in the classic holiday franchise.",
-    "entities": {
-      "people": [
-        "Macaulay Culkin",
-        "Seth Rogen",
-        "Evan Goldberg",
-        "Chris Columbus",
-        "John Hughes",
-        "Joe Pesci",
-        "Daniel Stern",
-        "Catherine O'Hara",
-        "John Heard",
-        "Robert Blossom",
-        "Alex D. Linz"
-      ],
-      "titles": [
-        "Home Alone",
-        "Home Alone 2: Lost in New York",
-        "Home Alone 3",
-        "Home Sweet Home Alone"
-      ]
-    },
-    "keywords": [
-      "Home Alone sequel",
-      "Macaulay Culkin Home Alone",
-      "Seth Rogen Evan Goldberg",
-      "Disney Home Alone movie"
-    ],
-    "images": [
-      {
-        "url": "https://cdn-english.zeenews.com/sites/default/files/2026/11/21/7149-home-alone.png",
-        "caption": "Macaulay Culkin Teams Up With Seth Rogen and Evan Goldberg for New Home Alone Sequel at Disney",
-        "source": "Zee News — Entertainment"
-      }
-    ],
-    "published": "2026-11-22T02:34:51Z"
-  },
-  "pud60p": {
-    "id": "pud60p",
-    "type": "news",
-    "headline": "Shah Rukh Khan's 'King' Trailer Set for December Release Ahead of Christmas Weekend",
-    "dek": "The highly anticipated action entertainer 'King', starring Shah Rukh Khan and directed by Siddharth Anand, is preparing to launch its official trailer on December 14, setting the stage for a major year-end theatrical run.",
-    "entities": {
-      "people": [
-        "Shah Rukh Khan",
-        "Siddharth Anand",
-        "Deepika Padukone",
-        "Suhana Khan",
-        "Salman Khan"
-      ],
-      "titles": [
-        "King",
-        "Tu Mil Jaaye",
-        "Pathaan",
-        "Jawan",
-        "Dunki",
-        "Maatrubhumi",
         "Avengers: Doomsday",
-        "Dune"
+        "Much Ado About Nothing",
+        "Doctor Strange in the Multiverse of Madness",
+        "Avengers: Endgame",
+        "Spider-Man: Brand New Day",
+        "Avengers: Secret Wars",
+        "Fantastic Four",
+        "Black Panther",
+        "Thor",
+        "X-Men",
+        "Ray Gunn",
+        "Insidious: Out of the Further"
       ]
     },
     "keywords": [
-      "Shah Rukh Khan King",
-      "King movie trailer",
-      "Siddharth Anand King",
-      "Suhana Khan King film"
+      "Avengers: Doomsday trailer",
+      "Hayley Atwell Avengers",
+      "Robert Downey Jr Doctor Doom",
+      "Avengers: Doomsday release date"
     ],
     "images": [
       {
-        "url": "https://static.toiimg.com/thumb/msid-136066074,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "caption": "Shah Rukh Khan's 'King' Trailer Set for December Release Ahead of Christmas Weekend",
-        "source": "Times of India — Entertainment"
+        "url": "https://static0.moviewebimages.com/wordpress/wp-content/uploads/2026/07/chris-hemsworth-in-avengers-doomsday.png?w=1600&amp;h=900&amp;fit=crop",
+        "caption": "Marvel Star Hayley Atwell Hints at New 'Avengers: Doomsday' Trailer Arriving Soon",
+        "source": "MovieWeb"
       }
     ],
-    "published": "2026-11-22T07:55:54+05:30"
-  },
-  "1gmceuk": {
-    "id": "1gmceuk",
-    "type": "news",
-    "headline": "Ranveer Singh Delivers Heartfelt Tribute to Sachin Tendulkar at Global Peace Honours 2026",
-    "dek": "Actor Ranveer Singh shared a nostalgic moment with cricket icon Sachin Tendulkar at the Global Peace Honours 2026 in Mumbai, reflecting on his legendary career and ongoing philanthropic efforts.",
-    "entities": {
-      "people": [
-        "Ranveer Singh",
-        "Sachin Tendulkar",
-        "Amruta Fadnavis",
-        "Shah Rukh Khan",
-        "Amitabh Bachchan",
-        "Akshay Kumar",
-        "Vikrant Massey",
-        "Tiger Shroff"
-      ],
-      "titles": []
-    },
-    "keywords": [
-      "Ranveer Singh Sachin Tendulkar",
-      "Global Peace Honours 2026",
-      "Divyaj Foundation Mumbai",
-      "Gateway of India event"
-    ],
-    "images": [
-      {
-        "url": "https://images.timesnownews.com/thumb/msid-156547798,thumbsize-127332,width-1280,height-720,resizemode-75/156547798.jpg",
-        "caption": "Ranveer Singh Delivers Heartfelt Tribute to Sachin Tendulkar at Global Peace Honours 2026",
-        "source": "Times Now — Entertainment"
-      }
-    ],
-    "published": "2026-11-22T01:51:50Z"
+    "published": "Sat, 21 Nov 2026 19:01:10 GMT"
   },
   "1pqbmve": {
     "id": "1pqbmve",
@@ -4867,34 +4933,6 @@ window.FA_HOME_ARTICLES = {
     ],
     "published": "2026-11-21T14:45:06Z"
   },
-  "iues0i": {
-    "id": "iues0i",
-    "type": "news",
-    "headline": "Gold Price Crash Revives Wedding Season Demand As Buyers Return To Market",
-    "dek": "A steep decline in yellow metal prices has created an unexpected buying opportunity for families preparing for upcoming weddings, drawing consumers back to jewellery stores across the domestic market.",
-    "entities": {
-      "people": [
-        "Sandal Khan",
-        "Mukesh Bhai",
-        "Seema Joshi"
-      ],
-      "titles": []
-    },
-    "keywords": [
-      "Gold price crash",
-      "wedding season gold demand",
-      "Radhika Jewellers Rajkot",
-      "gold rates India 24 carat"
-    ],
-    "images": [
-      {
-        "url": "https://cdn-english.zeenews.com/sites/default/files/2026/11/20/7138-gold-9.png",
-        "caption": "Gold Price Crash Revives Wedding Season Demand As Buyers Return To Market",
-        "source": "Zee News — Entertainment"
-      }
-    ],
-    "published": "2026-11-20T21:52:22Z"
-  },
   "f4xobf": {
     "id": "f4xobf",
     "type": "news",
@@ -5096,6 +5134,40 @@ window.FA_HOME_ARTICLES = {
       }
     ],
     "published": "2026-11-20T14:45:34Z"
+  },
+  "1rth31g": {
+    "id": "1rth31g",
+    "type": "news",
+    "headline": "Marvel Fans Demand New Avengers: Doomsday Trailer With Hilarious Ultimatum",
+    "dek": "As the release date for Avengers: Doomsday approaches, frustrated Marvel enthusiasts are refusing to purchase advance tickets until the studio drops one final preview.",
+    "entities": {
+      "people": [
+        "Anuraag Chatterjee",
+        "jomark_magbanua",
+        "Thomas_theman25",
+        "Attorney4Agatha",
+        "GarlandssALT"
+      ],
+      "titles": [
+        "Avengers: Doomsday",
+        "VisionQuest",
+        "Dune"
+      ]
+    },
+    "keywords": [
+      "Avengers Doomsday trailer",
+      "Marvel Studios Doomsday",
+      "Avengers Doomsday tickets",
+      "VisionQuest Wanda alive"
+    ],
+    "images": [
+      {
+        "url": "https://www.comingsoon.net/wp-content/uploads/sites/3/2026/11/avengers-doomsday-1.jpg?resize=1200,630",
+        "caption": "Marvel Fans Demand New Avengers: Doomsday Trailer With Hilarious Ultimatum",
+        "source": "ComingSoon.net"
+      }
+    ],
+    "published": "Thu, 19 Nov 2026 20:45:38 +0000"
   },
   "uaxxk7": {
     "id": "uaxxk7",
