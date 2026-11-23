@@ -226805,5 +226805,392 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Mon, 23 Nov 2026 04:38:10 +0000"
+  },
+  "558i7j": {
+    "id": "558i7j",
+    "type": "news",
+    "headline": "Vipul Shah Returns to Directing with Jio Studios-Backed Heist Thriller Hisaab",
+    "dek": "Twenty-five years after helming Aankhen, filmmaker Vipul Amrutlal Shah is stepping back behind the feature film camera for a new bank robbery drama starring Jaideep Ahlawat and Shefali Shah.",
+    "body": [
+      {
+        "h": "Vipul Shah's Feature Film Comeback",
+        "p": [
+          "Filmmaker Vipul Amrutlal Shah is preparing to return to feature-length film direction after an absence of nine years. His upcoming directorial venture, titled Hisaab, is currently scheduled to arrive in theaters in 2027.",
+          "The director initially made a prominent entry into the Hindi film industry with his 2002 thriller Aankhen and subsequently helmed various projects spanning different genres before shifting focus to the digital medium with series like Human and Commando."
+        ]
+      },
+      {
+        "h": "Jio Studios and Sunshine Pictures Collaboration",
+        "p": [
+          "The upcoming heist feature is being jointly backed by major production entities, with Jio Studios associated with the project alongside Vipul Shah's own banner, Sunshine Pictures Ltd.",
+          "Official records from the Central Board of Film Certification indicate that the movie cleared the censor process last year, earning a U/A 13+ certification rating in preparation for its eventual theatrical rollout."
+        ]
+      },
+      {
+        "h": "Stellar Lead Cast and Supporting Ensemble",
+        "p": [
+          "The upcoming project features acclaimed performers Jaideep Ahlawat and Shefali Shah in the central lead roles. This marks the second time the two accomplished actors will share the screen in a film, following their celebrated collaboration in the 2023 drama Three Of Us.",
+          "In addition to the main leads, the movie boasts a diverse supporting cast that includes Abhishek Banerjee, Srishti Shrivastava, Rohitashv Gour, Gopal Dutt, and Aditya Raj Sen among other notable names."
+        ]
+      },
+      {
+        "h": "Revisiting the Bank Heist Genre",
+        "p": [
+          "The upcoming production brings the director back to the bank robbery theme a quarter of a century after his debut feature, which starred an ensemble including Amitabh Bachchan, Akshay Kumar, Arjun Rampal, Paresh Rawal, and Sushmita Sen.",
+          "Speaking about the creative direction of his new venture, the filmmaker noted that while comparisons to his earlier classic are bound to happen due to the shared central theme of a bank robbery, the upcoming story follows a distinct plotline featuring a unique twist."
+        ]
+      },
+      {
+        "h": "A Unique Vision for Indian Cinema",
+        "p": [
+          "The production team spent a significant duration developing the script to ensure the final narrative offered a strong and substantive plot rather than relying solely on standard genre tropes.",
+          "The creators have expressed confidence that the project will introduce a fresh and unprecedented narrative style to the bank heist genre within Indian cinema, delivering content distinct from traditional storytelling formats."
+        ]
+      },
+      {
+        "h": "Coincidences in the Studio's Catalog",
+        "p": [
+          "An interesting observation regarding the studio's current slate involves a notable naming overlap, with Jio Studios now associated with two separate titles containing the word 'Hisaab'.",
+          "The other project, titled Hisaab Barabar, featured R Madhavan, Neil Nitin Mukesh, and Kirti Kulhari, and was distributed directly via a digital streaming platform in January 2025."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Filmmaker Vipul Amrutlal Shah is returning to feature film direction after nine years with the upcoming bank heist drama Hisaab, slated for release in 2027. Backed by Jio Studios and Sunshine Pictures, the film stars Jaideep Ahlawat and Shefali Shah and marks the director's first venture into the heist genre since his 2002 debut Aankhen."
+        ]
+      }
+    ],
+    "facts": [
+      "Vipul Shah directed Aankhen in 2002",
+      "Hisaab is scheduled to release in 2027",
+      "Jio Studios and Sunshine Pictures Ltd are producers of Hisaab",
+      "Hisaab received a U/A 13+ certificate from the CBFC last year",
+      "Jaideep Ahlawat and Shefali Shah previously starred together in Three Of Us in 2023",
+      "Hisaab Barabar was released on Zee 5 in January 2025"
+    ],
+    "entities": {
+      "people": [
+        "Vipul Shah",
+        "Jaideep Ahlawat",
+        "Shefali Shah",
+        "Abhishek Banerjee",
+        "Srishti Shrivastava",
+        "Rohitashv Gour",
+        "Gopal Dutt",
+        "Aditya Raj Sen",
+        "Amitabh Bachchan",
+        "Akshay Kumar",
+        "Arjun Rampal",
+        "Paresh Rawal",
+        "Sushmita Sen",
+        "R Madhavan",
+        "Neil Nitin Mukesh",
+        "Kirti Kulhari"
+      ],
+      "titles": [
+        "Hisaab",
+        "Aankhen",
+        "Waqt: The Race Against Time",
+        "Namastey London",
+        "London Dreams",
+        "Action Replayy",
+        "Namaste England",
+        "Human",
+        "Commando",
+        "Three Of Us",
+        "Hisaab Barabar"
+      ]
+    },
+    "keywords": [
+      "Hisaab film",
+      "Vipul Shah Hisaab",
+      "Jaideep Ahlawat Shefali Shah",
+      "Jio Studios Hisaab"
+    ],
+    "images": [
+      {
+        "url": "https://stat5.bollywoodhungama.in/wp-content/uploads/2026/11/Jaideep-Ahlawat-Shefali-Shah-starrer-Hisaab.jpeg",
+        "caption": "Vipul Shah Returns to Directing with Jio Studios-Backed Heist Thriller Hisaab",
+        "source": "Bollywood Hungama"
+      }
+    ],
+    "published": "Mon, 23 Nov 2026 09:25:23 +0200"
+  },
+  "1srwus1": {
+    "id": "1srwus1",
+    "type": "news",
+    "headline": "Luca Guadagnino Departs American Psycho Remake Following DC Setback",
+    "dek": "The acclaimed filmmaker has stepped away from the planned adaptation of Bret Easton Ellis’ novel, shortly after his DC Studios project was shelved.",
+    "body": [
+      {
+        "h": "Director Luca Guadagnino Exits American Psycho Adaptation",
+        "p": [
+          "Filmmaker Luca Guadagnino has officially stepped away from directing the upcoming American Psycho adaptation. The Oscar-nominated director confirmed his departure during an appearance on Deadline’s Crew Call podcast, noting that he is no longer attached to the high-profile feature.",
+          "His exit comes roughly two years after he and screenwriter Scott Z. Burns first began developing the cinematic take on Bret Easton Ellis’ 1991 novel. Guadagnino offered limited details regarding the departure, confirming simply that the project had stalled and was no longer moving forward under his leadership."
+        ]
+      },
+      {
+        "h": "Background on Development and Scott Z. Burns' Script",
+        "p": [
+          "Lionsgate originally announced Guadagnino's attachment to the project in October 2024. At the time, studio chair Adam Fogelson praised the filmmaker as a brilliant artist and the ideal visionary to craft a completely new interpretation of the classic intellectual property.",
+          "During development, screenwriter Scott Z. Burns crafted a script that Guadagnino lauded as fantastic. However, despite the positive sentiment surrounding the screenplay, the creative momentum ultimately deteriorated."
+        ]
+      },
+      {
+        "h": "Recent Setbacks Collide on the Director's Schedule",
+        "p": [
+          "The departure from American Psycho arrives directly on the heels of another major career roadblock for Guadagnino. His other prominent directing commitment, a DC Studios project titled Sgt. Rock, was shelved following the collapse of that venture.",
+          "These consecutive cancellations now sit side by side on the filmmaker's schedule, leaving him without either of those high-profile endeavors as he looks toward future opportunities."
+        ]
+      },
+      {
+        "h": "Casting Hurdles and Actor Resistance",
+        "p": [
+          "Before Guadagnino's exit, the production encountered significant difficulties in securing its lead role. Bret Easton Ellis revealed on his podcast that a couple of high-profile actors turned down the opportunity, potentially intimidated by the prospect of following Christian Bale's iconic performance.",
+          "Following those rejections, Burns penned a new draft of the screenplay. Ellis also noted that the planned film intended to be completely distinct from Mary Harron’s 2000 adaptation."
+        ]
+      },
+      {
+        "h": "Speculation and Public Campaigning for the Lead Role",
+        "p": [
+          "While no official casting was ever finalized for the remake, various names circulated within the industry. Jacob Elordi and Austin Butler were reportedly under consideration for the lead part during the development process.",
+          "Additionally, Patrick Schwarzenegger actively campaigned for the role in public, while Drew Starkey mentioned that he had read the script. Christian Bale previously expressed support for a successor, stating that anyone wanting to give it a shot should go for it."
+        ]
+      },
+      {
+        "h": "Current Status of the Project",
+        "p": [
+          "With Luca Guadagnino's departure, the American Psycho remake currently lacks a director, a cast, and any confirmed start date. The studio must now determine the future path for the dormant intellectual property.",
+          "Meanwhile, Guadagnino moves forward with two major cancelled projects behind him, leaving the fate of the planned adaptation entirely uncertain."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Director Luca Guadagnino has confirmed his departure from the planned American Psycho adaptation following the shelving of his DC Studios project, Sgt. Rock. The Lionsgate remake currently has no director, cast, or release date after facing script drafts and casting challenges."
+        ]
+      }
+    ],
+    "facts": [
+      "Luca Guadagnino confirmed his exit on Deadline’s Crew Call podcast on November 22, 2026.",
+      "Lionsgate announced Guadagnino's attachment to American Psycho in October 2024.",
+      "Scott Z. Burns wrote the script for the planned adaptation of Bret Easton Ellis’ 1991 novel.",
+      "Mary Harron directed the 2000 adaptation of American Psycho."
+    ],
+    "entities": {
+      "people": [
+        "Luca Guadagnino",
+        "Scott Z. Burns",
+        "Bret Easton Ellis",
+        "Adam Fogelson",
+        "Jacob Elordi",
+        "Austin Butler",
+        "Patrick Schwarzenegger",
+        "Drew Starkey",
+        "Christian Bale",
+        "Mary Harron",
+        "Devanshi Basu"
+      ],
+      "titles": [
+        "American Psycho",
+        "Sgt. Rock",
+        "Artificial"
+      ]
+    },
+    "keywords": [
+      "American Psycho remake",
+      "Luca Guadagnino",
+      "Scott Z. Burns",
+      "Bret Easton Ellis",
+      "Sgt. Rock"
+    ],
+    "images": [
+      {
+        "url": "https://www.comingsoon.net/wp-content/uploads/sites/3/2026/11/edited-image-2026-11-23T092101.044.webp?resize=1200,630",
+        "caption": "Luca Guadagnino Departs American Psycho Remake Following DC Setback",
+        "source": "ComingSoon.net"
+      }
+    ],
+    "published": "Mon, 23 Nov 2026 03:59:10 +0000"
+  },
+  "lxpp0c": {
+    "id": "lxpp0c",
+    "type": "news",
+    "headline": "Jo Bachay Hain Sang Samait Lo: Everything To Know About The First Pakistani Netflix Original",
+    "dek": "Fawad Khan and Mahira Khan star in the upcoming Netflix series Jo Bachay Hain Sang Samait Lo, slated to premiere on December 4.",
+    "body": [
+      {
+        "h": "Introduction And Release Date",
+        "p": [
+          "Netflix is set to release its very first Pakistani original series, titled Jo Bachay Hain Sang Samait Lo. The highly anticipated show is scheduled to premiere globally on December 4.",
+          "Led by renowned actors Fawad Khan and Mahira Khan, the upcoming series brings together a massive ensemble cast and marks a major milestone for streaming content from the region."
+        ]
+      },
+      {
+        "h": "Literary Origins And Inspiration",
+        "p": [
+          "The narrative of Jo Bachay Hain Sang Samait Lo is adapted from an Urdu novel of the same title, originally written by Farhat Ishtiaq.",
+          "Furthermore, the title itself draws poetic inspiration from a famous ghazal by Faiz Ahmad Faiz, specifically the line Na ganwao nawak-e-neem-kash."
+        ]
+      },
+      {
+        "h": "Star-Studded Cast And Crew",
+        "p": [
+          "The series features some of the biggest names in the Pakistani film and television fraternity. Alongside Fawad Khan and Mahira Khan, the ensemble cast includes Sanam Saeed, Ahad Raza Mir, Hamza Ali Abbasi, Hania Aamir, Iqra Aziz, Bilal Ashraf, and Maya Ali.",
+          "Behind the camera, the project is directed by Momina Duraid, steering the adaptation of Farhat Ishtiaq's written work."
+        ]
+      },
+      {
+        "h": "Plot And Character Journeys",
+        "p": [
+          "The story centers around Sikandar Sheryar, a 32-year-old Pakistani lawyer residing in Rome who deals with severe insomnia, nightmares, and deep psychological trauma. His life was previously upended by a false accusation and assault involving his brother's fiancée, Maryam.",
+          "In Rome, he crosses paths with Liza, an upbeat artist with a complex family background divided between Europe and Pakistan. Their developing relationship helps him confront his past before the narrative shifts to Karachi, where long-hidden truths emerge and family conflicts are ultimately resolved."
+        ]
+      },
+      {
+        "h": "Streaming Availability And India Release",
+        "p": [
+          "As the release date approaches, questions remain regarding whether audiences in India will be able to watch the show on the streaming platform.",
+          "While Netflix has previously acquired popular Pakistani shows like Humsafar, Zindagi Gulzar Hai, and Sadqay Tumhare, Jo Bachay Hain Sang Samait Lo stands as the platform's first original production from the region."
+        ]
+      },
+      {
+        "h": "Industry Context And Challenges",
+        "p": [
+          "The scarcity of Pakistani original content on global streaming platforms has historically been linked by industry figures to various production and technical challenges.",
+          "Despite these past shortcomings, the launch of this series represents a significant step forward for international streaming offerings."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Jo Bachay Hain Sang Samait Lo is set to premiere on December 4 as the first Pakistani original on Netflix. Adapted from Farhat Ishtiaq's novel and directed by Momina Duraid, the series stars Fawad Khan and Mahira Khan alongside a prominent ensemble cast."
+        ]
+      }
+    ],
+    "facts": [
+      "Jo Bachay Hain Sang Samait Lo releases on December 4",
+      "Fawad Khan and Mahira Khan star in Jo Bachay Hain Sang Samait Lo",
+      "Farhat Ishtiaq wrote the original Urdu novel",
+      "Momina Duraid is the director of the show",
+      "Sikandar Sheryar is a 32-year-old Pakistani lawyer living in Rome"
+    ],
+    "entities": {
+      "people": [
+        "Fawad Khan",
+        "Mahira Khan",
+        "Sanam Saeed",
+        "Ahad Raza Mir",
+        "Hamza Ali Abbasi",
+        "Hania Aamir",
+        "Iqra Aziz",
+        "Bilal Ashraf",
+        "Maya Ali",
+        "Momina Duraid",
+        "Farhat Ishtiaq",
+        "Faiz Ahmad Faiz"
+      ],
+      "titles": [
+        "Jo Bachay Hain Sang Samait Lo",
+        "Humsafar",
+        "Zindagi Gulzar Hai",
+        "Sadqay Tumhare"
+      ]
+    },
+    "keywords": [
+      "Jo Bachay Hain Sang Samait Lo",
+      "Fawad Khan Mahira Khan Netflix",
+      "Jo Bachay Hain Sang Samait Lo release date",
+      "First Pakistani Netflix Original"
+    ],
+    "images": [
+      {
+        "url": "https://images.timesnownews.com/thumb/msid-156551044,thumbsize-495358,width-1280,height-720,resizemode-75/156551044.jpg",
+        "caption": "Jo Bachay Hain Sang Samait Lo: Everything To Know About The First Pakistani Netflix Original",
+        "source": "Times Now — Entertainment"
+      }
+    ],
+    "published": "2026-11-23T05:51:46Z"
+  },
+  "1szjt7m": {
+    "id": "1szjt7m",
+    "type": "news",
+    "headline": "Hailey Bieber Hits Back at Trolls Over Viral Interview After Mentioning 'Optimistical Delusion'",
+    "dek": "Model and entrepreneur Hailey Bieber responded to critics who mocked her business interview answers by posting a cryptic dictionary definition online.",
+    "body": [
+      {
+        "h": "The Viral DealBook Summit Interview",
+        "p": [
+          "Hailey Bieber recently sat down for an appearance at The New York Times DealBook Summit to discuss the ongoing business success of her skincare brand, Rhode Beauty. During the discussion, the conversation turned toward the monumental sale of her company to e.l.f. beauty for $1 billion in the year 2025. Reflecting on the massive valuation, the founder explained that she had set a strict financial boundary for herself, stating she would not let the brand go for anything less than that figure.",
+          "Characterizing the ambition required to reach such heights, she remarked that shooting for such an extraordinary number felt entirely crazy. To explain how she navigated the process, she credited a certain sense of what she termed 'optimistical delusion' as a necessary mindset for entrepreneurs looking to achieve massive commercial success on a global scale."
+        ]
+      },
+      {
+        "h": "Backlash and Social Media Criticism",
+        "p": [
+          "Following the release of the interview, the model faced a wave of online mockery from social media users and fans who scrutinized her ability to answer hard-hitting financial questions. Critics pointed out that the discussion was a rigorous corporate interview rather than a casual podcast, leading many observers to argue that she appeared underprepared to discuss corporate management and deep financial strategies.",
+          "Commentators across various platforms highlighted her unconventional phrasing, specifically latching onto her use of the word 'optimistical.' Online critics suggested that the exchange demonstrated a lack of close oversight regarding corporate finances, transforming what was intended to be a celebratory business milestone into a viral moment of public ridicule."
+        ]
+      },
+      {
+        "h": "Cryptic Social Media Response",
+        "p": [
+          "Refusing to let the commentary pass without a subtle acknowledgment, the entrepreneur took to Instagram to address the detractors directly. Rather than issuing a lengthy public statement, she opted for a cryptic approach by sharing the formal dictionary definition of the word 'optimistical,' which is documented as an alternative version of optimistic.",
+          "Overlaying the dictionary screenshot with the brief caption 'Anyways…,' the model signaled her dismissal of the backlash. The post served as her direct reply to the viral mockery, demonstrating her choice to shrug off the commentary surrounding her vocabulary and interview style."
+        ]
+      },
+      {
+        "h": "Past Struggles With Public Scrutiny",
+        "p": [
+          "Beyond the recent business discussions, the conversation also touched upon the immense psychological toll she experienced during past periods of intense public hostility. She opened up about facing severe online abuse, noting that she had encountered people telling her to harm herself in comment sections every single day while navigating public tensions.",
+          "Detailing the severity of the harassment, she recalled walking down the street and encountering hostile reactions, including tip jars set up at local coffee shops contrasting her against another individual. The intense wave of public animosity left her feeling deeply isolated and overwhelmed by the sheer scale of negative emotions directed at her by strangers."
+        ]
+      },
+      {
+        "h": "Addressing Feud Rumors",
+        "p": [
+          "Though she did not explicitly name her husband Justin Bieber's former partner Selena Gomez during the discussion, the painful period she described directly coincided with years of persistent feud rumors fueled by internet culture. The two public figures were frequently cast as rivals by devoted fanbases due to their respective historical romantic ties to the pop singer.",
+          "The relentless comparisons and manufactured rivalry created a toxic environment that severely impacted the model's mental health during those challenging years. The constant barrage of hostility made her question her place in the public eye before the narrative surrounding their relationship began to shift."
+        ]
+      },
+      {
+        "h": "Putting Rest to the Drama",
+        "p": [
+          "In a significant turn of events that helped quell the online hostility, the two media personalities actively worked to put the persistent feud rumors to rest. In October 2022, they surprised observers by posing together for friendly photographs at the Academy Museum of Motion Pictures gala, signaling unity to the public.",
+          "Later, in September 2023, both stars issued direct pleas to their combined millions of social media followers, begging them to stop instigating a non-existent rivalry. Gomez specifically urged her supporters to halt the bullying and death threats directed at her ex-boyfriend's spouse, helping to defuse much of the digital animosity."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Hailey Bieber responded to online trolls who mocked her business interview answers by sharing a cryptic dictionary definition of the word optimistical on Instagram. The backlash followed her appearance at The New York Times DealBook Summit, where she discussed selling Rhode Beauty and credited delusion for her success. During the same interview, she also reflected on the severe public scrutiny and abuse she faced during past internet feud rumors."
+        ]
+      }
+    ],
+    "facts": [
+      "Hailey Bieber sat down for an interview with The New York Times at the DealBook Summit.",
+      "Rhode Beauty was sold to e.l.f. beauty for $1 billion in 2025.",
+      "Hailey Bieber and Selena Gomez posed together at the Academy Museum of Motion Pictures gala in October 2022.",
+      "In September 2023, Hailey and Gomez asked followers to stop instigating feud rumors and sending death threats."
+    ],
+    "entities": {
+      "people": [
+        "Hailey Bieber",
+        "Justin Bieber",
+        "Selena Gomez"
+      ],
+      "titles": [
+        "Rhode Beauty"
+      ]
+    },
+    "keywords": [
+      "Hailey Bieber",
+      "Rhode Beauty",
+      "DealBook Summit",
+      "Selena Gomez"
+    ],
+    "images": [],
+    "published": "2026-11-23T05:51:46Z"
   }
 };
