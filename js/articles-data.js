@@ -228418,5 +228418,424 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Mon, 23 Nov 2026 06:53:54 +0000"
+  },
+  "1e8ucry": {
+    "id": "1e8ucry",
+    "type": "news",
+    "headline": "Bigg Boss 20 Grand Finale Expected In December As Contestants Complete Over 70 Days",
+    "dek": "Salman Khan reveals the expected timeline for the Bigg Boss 20 grand finale, while participants continue their journey inside the house.",
+    "body": [
+      {
+        "h": "Grand Finale Timeline And Schedule",
+        "p": [
+          "The conclusion of Bigg Boss 20 is anticipated to arrive around December 19, according to statements made by host Salman Khan during the November 21 episode. While earlier discussions sparked rumours of an extension for the reality television programme, the makers have not officially announced any adjustments to the schedule.",
+          "As the countdown to the final event begins, the remaining participants have roughly four weeks left in the house. The current timeline means the contestants will complete around 100 days total inside the premises before stepping out to face their fan bases and discovering who takes the trophy."
+        ]
+      },
+      {
+        "h": "Season Premiere And Broadcasting Details",
+        "p": [
+          "Bigg Boss 20 officially premiered on September 6, bringing a fresh batch of personalities together under constant surveillance. The reality show is currently available for streaming on JioHotstar and broadcasting on Colors.",
+          "Over the course of more than 70 days, the housemates have navigated various tasks, conflicts, and weekly evaluations, gradually narrowing down the competitive field as the finale approaches."
+        ]
+      },
+      {
+        "h": "Participant Lineup And Departures",
+        "p": [
+          "The initial roster for the season featured a diverse group of participants including Kanika Mann, Aamrapali Dubey, Yung DSA, Uditi Singh, Mahhi Vij, Rhiti Tiwari, Love Gill, Mary Kom, Arishfa Khan, Aman Gandhi, Qazi Touqeer, Kushal Tanwar AKA Gullu, Rohed Khan, Isha Rikhi, Aasif Khan, and Tanmay Singh AKA Scoutop.",
+          "Several housemates have exited the competition through regular evictions, including Rohed Khan, Mary Kom, Rhiti Tiwari, Aman Gandhi, Isha Rikhi, and Aasif Khan. Additionally, wildcard entrants Manish Goel and Nakul Dhull joined later, though Nakul was expelled following a physical altercation."
+        ]
+      },
+      {
+        "h": "Prize Money And Weekly Remuneration",
+        "p": [
+          "Reports indicate that the ultimate winner of Bigg Boss 20 will be awarded a cash prize of Rs 50 lakh alongside the championship trophy. Financial details regarding weekly salaries have also drawn significant public interest throughout the run.",
+          "Mary Kom reportedly entered the house as the highest-paid participant earning Rs 20 lakh a week. Other reported weekly brackets include Aamrapali Dubey at Rs 12–15 lakh, Aasif Khan at Rs 8–9 lakh, Qazi Touqeer at Rs 7–8 lakh, and Gullu alongside the evicted Aman Gandhi at Rs 4–5 lakh."
+        ]
+      },
+      {
+        "h": "Contestant Fee Structure Continued",
+        "p": [
+          "Lower weekly and per-episode fee brackets apply to several other participants inside the house. Former participants Isha Rikhi and Rhiti Tiwari, along with Uditi Singh, reportedly fall in the Rs 1–3 lakh per week range.",
+          "Per-episode earnings have also been reported for other household names, with Mahhi Vij receiving approximately Rs 95,000 per episode, Arishfa Khan earning around Rs 92,000 per episode, and Kanika Mann charging near Rs 55,000 per episode."
+        ]
+      },
+      {
+        "h": "Looking Back At Bigg Boss 19",
+        "p": [
+          "The previous iteration of the franchise concluded with the Bigg Boss 19 grand finale on December 7, 2025. Gaurav Khanna emerged victorious after defeating fellow finalists in the final stretch.",
+          "The prior season's podium included Farrhana Bhatt finishing as the first runner-up and Pranit More securing the second runner-up position, with Tanya Mittal and Amaal Mallik also participating in the finale lineup."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Salman Khan announced that the Bigg Boss 20 grand finale is expected to take place around December 19 after contestants spend roughly 100 days in the house. The winner will receive a prize of Rs 50 lakh, concluding a season featuring numerous evictions, wildcard entrants, and varying weekly contestant fees."
+        ]
+      }
+    ],
+    "facts": [
+      "Bigg Boss 20 grand finale is scheduled around December 19.",
+      "Salman Khan announced the timeline on the November 21 episode.",
+      "Bigg Boss 20 premiered on September 6.",
+      "The reality show streams on JioHotstar and Colors.",
+      "The winner takes home Rs 50 lakh.",
+      "Mary Kom was reportedly earning Rs 20 lakh a week.",
+      "Bigg Boss 19 grand finale date was December 7, 2025.",
+      "Gaurav Khanna was the winner of Bigg Boss 19."
+    ],
+    "entities": {
+      "people": [
+        "Salman Khan",
+        "Qazi Touqeer",
+        "ScoutOP",
+        "Kanika Mann",
+        "Aamrapali Dubey",
+        "Yung DSA",
+        "Uditi Singh",
+        "Mahhi Vij",
+        "Rhiti Tiwari",
+        "Love Gill",
+        "Mary Kom",
+        "Arishfa Khan",
+        "Aman Gandhi",
+        "Kushal Tanwar AKA Gullu",
+        "Rohed Khan",
+        "Isha Rikhi",
+        "Aasif Khan",
+        "Tanmay Singh AKA Scoutop",
+        "Manish Goel",
+        "Nakul Dhull",
+        "Gaurav Khanna",
+        "Farrhana Bhatt",
+        "Tanya Mittal",
+        "Amaal Mallik",
+        "Pranit More"
+      ],
+      "titles": [
+        "Bigg Boss 20",
+        "Bigg Boss 19"
+      ]
+    },
+    "keywords": [
+      "Bigg Boss 20",
+      "Salman Khan",
+      "Bigg Boss 20 grand finale",
+      "Kanika Mann Qazi Touqeer ScoutOP"
+    ],
+    "images": [
+      {
+        "url": "https://images.timesnownews.com/thumb/msid-156551232,thumbsize-336737,width-1280,height-720,resizemode-75/156551232.jpg",
+        "caption": "Bigg Boss 20 Grand Finale Expected In December As Contestants Complete Over 70 Days",
+        "source": "Times Now — Entertainment"
+      }
+    ],
+    "published": "2026-11-23T08:51:35Z"
+  },
+  "16qt9o5": {
+    "id": "16qt9o5",
+    "type": "news",
+    "headline": "Six New Cast Members Join MBC Baseball Drama Your Ground",
+    "dek": "MBC has expanded the supporting cast for its upcoming sports drama Your Ground, featuring a fresh batch of character stills from law firm Joy and agency Donghaeng.",
+    "body": [
+      {
+        "h": "Expanding the Cast",
+        "p": [
+          "The production team behind the upcoming MBC drama Your Ground has officially introduced six additional cast members to the ensemble. Headlined by experienced actors Jo Han Chul, Kwon Seung Woo, and Hong Woo Jin, the new additions join a star-studded lineup that already features Han Hyo Joo and Gong Myoung.",
+          "Promotional stills released on November 23 highlight the key professionals operating within the fictional law firm Joy and the sports agency Donghaeng. These newly unveiled characters will provide essential support and conflict as the main narrative surrounding professional baseball unfolds."
+        ]
+      },
+      {
+        "h": "Inside Law Firm Joy",
+        "p": [
+          "Actor Jo Han Chul takes on the role of Jo Goo Yeon, the principal head lawyer at law firm Joy. Having successfully expanded the firm originally established by his father into an industry heavyweight, Jo Goo Yeon now sets his sights on branching out into sports agency operations.",
+          "Jo Goo Yeon is noted for spotting the latent potential of Seo Hee Seung, portrayed by Han Hyo Joo, very early on. He intends to leverage her capabilities to drive his new business aspirations forward within the sports industry."
+        ]
+      },
+      {
+        "h": "Legal Allies and Colleagues",
+        "p": [
+          "Joining Jo Han Chul at law firm Joy is actor Kwon Seung Woo in the role of Park Do Ha. Park Do Ha serves as a lawyer at the firm and shares a deep academic background with Seo Hee Seung, having been her college senior and law school classmate.",
+          "The interplay between these legal professionals is expected to ground the corporate and contractual struggles that often accompany high-stakes professional sports management in television dramas."
+        ]
+      },
+      {
+        "h": "The Team at Donghaeng Agency",
+        "p": [
+          "Over at the Donghaeng sports agency, Hong Woo Jin steps into the shoes of Choi Moo Sung. Choi is a former national team infielder who now operates as an agent team leader, maintaining a strong working trust with the character Dong Chi Young, played by Kim Shin Rock.",
+          "The agency is further rounded out by Lee Je Yeon as Park Joo Hyun, a former securities broker who pivoted to the sports agency sector after recognizing the lucrative business value of baseball. Meanwhile, Oh Kyung Joo plays Yoon Sung Hoon, a passionate baseball enthusiast who views Park Joo Hyun as a professional rival."
+        ]
+      },
+      {
+        "h": "Data Analysis and Production Insights",
+        "p": [
+          "Rounding out the newly revealed group of actors is Oh Yu Jin, who portrays Chae Dong Won, the data analysis team leader. Chae Dong Won grew up harbouring a dislike for baseball due to a baseball-obsessed father, yet ironically found herself recruited into the field by Dong Chi Young.",
+          "The production team noted that these six actors inject distinct colors and deeper richness into their respective roles. They highlighted the stark contrast between law firm Joy, where individuals pursue differing agendas, and agency Donghaeng, which functions as a unified team."
+        ]
+      },
+      {
+        "h": "Premise of Your Ground",
+        "p": [
+          "Your Ground centers primarily on the journey of Kang Hae Hwan, played by Gong Myoung. Kang Hae Hwan is a professional baseball player whose promising career abruptly stalls following a single major setback.",
+          "His path crosses with lawyer-turned-agent Seo Hee Seung, sparking a renewed pursuit of his long-held athletic dreams. The series is scheduled to air as a Friday-Saturday drama, premiering on MBC in December."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "MBC has added six new cast members, led by Jo Han Chul, Kwon Seung Woo, and Hong Woo Jin, to the upcoming Friday-Saturday baseball drama Your Ground. The upcoming series, which stars Han Hyo Joo and Gong Myoung, is scheduled to premiere on MBC this December."
+        ]
+      }
+    ],
+    "facts": [
+      "Jo Han Chul plays Jo Goo Yeon, the head lawyer of Joy.",
+      "Kwon Seung Woo plays Park Do Ha, a Joy lawyer and Seo Hee Seung's college senior and law school classmate.",
+      "Hong Woo Jin plays Choi Moo Sung, a former national team infielder and agent team leader.",
+      "Lee Je Yeon plays Park Joo Hyun, a former securities broker turned agency staff.",
+      "Oh Kyung Joo plays Yoon Sung Hoon, a baseball-loving employee.",
+      "Oh Yu Jin plays Chae Dong Won, data analysis team leader.",
+      "Gong Myoung plays Kang Hae Hwan, a baseball player whose career stalled after a setback.",
+      "Han Hyo Joo plays Seo Hee Seung.",
+      "Kim Shin Rock plays Dong Chi Young.",
+      "Your Ground premieres on MBC in December."
+    ],
+    "entities": {
+      "people": [
+        "Jo Han Chul",
+        "Kwon Seung Woo",
+        "Hong Woo Jin",
+        "Lee Je Yeon",
+        "Oh Kyung Joo",
+        "Oh Yu Jin",
+        "Han Hyo Joo",
+        "Kim Shin Rock",
+        "Gong Myoung",
+        "Jo Goo Yeon",
+        "Park Do Ha",
+        "Choi Moo Sung",
+        "Dong Chi Young",
+        "Park Joo Hyun",
+        "Yoon Sung Hoon",
+        "Chae Dong Won",
+        "Seo Hee Seung",
+        "Kang Hae Hwan"
+      ],
+      "titles": [
+        "Your Ground"
+      ]
+    },
+    "keywords": [
+      "Your Ground drama",
+      "Jo Han Chul Your Ground",
+      "Han Hyo Joo Your Ground",
+      "MBC baseball drama Your Ground"
+    ],
+    "images": [
+      {
+        "url": "https://i.mydramalist.com/Pee4B8_2d.jpg",
+        "caption": "Six New Cast Members Join MBC Baseball Drama Your Ground",
+        "source": "MyDramaList"
+      }
+    ],
+    "published": "Mon, 23 Nov 2026 07:40:37 +0000"
+  },
+  "cnn3vj": {
+    "id": "cnn3vj",
+    "type": "news",
+    "headline": "Bigg Boss 20 Episode 78 Highlights: Manish Goel Exits Due to Injury While Qazi Touqeer Stirs Up Fresh Drama",
+    "dek": "The latest Weekend Ka Vaar episode of Bigg Boss 20 brought high emotions as Manish Goel bid farewell to the house because of a leg injury, while housemates clashed over who was acting as a bad influence.",
+    "body": [
+      {
+        "h": "An Emotionally Charged Weekend Ka Vaar",
+        "p": [
+          "The latest Weekend Ka Vaar episode of Bigg Boss 20 proved to be an emotionally heavy outing for the contestants inside the house. Just weeks before the grand finale, the participants had to face the reality of saying goodbye to a fellow housemate. Before the dramatic exit unfolded, the episode began with lighthearted moments including laughs and surprise gifts, quickly followed by introspective tasks.",
+          "Host Salman Khan engaged the housemates in a reflective exercise, asking each individual to name that one specific incident they wished they could erase from their journey before leaving. Qazi Touqeer executed this task using his characteristic wit, setting the stage for the heavier confrontations that followed later in the evening."
+        ]
+      },
+      {
+        "h": "The Great Bad Influence Debate",
+        "p": [
+          "A major segment of the episode revolved around a pointed task where Salman Khan asked the contestants to categorize their peers and point out who was acting as a bad influence on others. This exercise triggered intense arguments and sharp disagreements across the living area.",
+          "Aamrapali Dubey expressed her belief that Mahhi Vij was hindering Yung DSA's progression in the game. In turn, Yung pointed the finger at Gullu and Kanika Mann, stating they were detrimental to ScoutOP. ScoutOP countered by naming Mahhi as a negative force on Qazi Touqeer, while Gullu felt Aamrapali was standing in the way of Yung's advancement."
+        ]
+      },
+      {
+        "h": "Cross-Accusations Among Housemates",
+        "p": [
+          "The web of accusations grew increasingly tangled as more contestants voiced their opinions. Manish Goel claimed that Love Gill's presence was having a detrimental effect on both Kanika and Gullu. Kanika argued that Aamrapali's company was a poor choice for Yung, Scout, and Love.",
+          "Further intensifying the accusations, Love stated that Mahhi was an unfavorable presence for Yung, Arishfa Khan, and Uditi. Uditi shared a similar sentiment regarding Mahhi's impact on Scout and Yung. Arishfa chimed in by claiming that Love would drag Kanika and Gullu down, while Qazi and Mahhi both suggested that Kanika should distance herself from sitting with Love, with Mahhi also looping Gullu into that warning."
+        ]
+      },
+      {
+        "h": "Body Language Expert Analyzes House Dynamics",
+        "p": [
+          "Bringing an analytical perspective to the house politics, a body language expert made an appearance on the stage. She evaluated the physical gestures and behavioral cues of several contestants during key moments.",
+          "Salman Khan presented the expert with footage of the notable 'Professor' fight between Manish and Qazi. Analyzing the interaction, the expert noted that Manish remained calm, seated, and stable despite raising his voice, indicating he had been emotionally triggered. Meanwhile, she observed that while Qazi initiated the conversation respectfully, his attitude shifted as it progressed. She also labeled Love as 'performative', pointing out that her gestures revealed an entirely different underlying perspective on the conversations."
+        ]
+      },
+      {
+        "h": "Manish Goel Departs Due to Injury",
+        "p": [
+          "The most significant turning point of the episode came when Salman Khan announced that none of the nominated contestants were facing eviction based on votes. Instead, he revealed that Manish Goel was voluntarily stepping down from the competition because of a recent leg injury.",
+          "Salman clarified to the housemates that Manish had not received the lowest vote count. Explaining his departure, Manish noted that doctors had advised him to take four weeks of complete rest, making a return pointless as the reality show would already have concluded by then. Visibly emotional during his farewell, Manish asked Salman to reassure viewers that he was not boring at all. With assistance from Yung, Manish walked out of the house to say his final goodbyes."
+        ]
+      },
+      {
+        "h": "Pranks and Final Goodbyes",
+        "p": [
+          "Before his departure could fully settle in, Qazi revealed another prank he had previously played on Manish, while also acknowledging the renowned actor as a good person overall. Following the exit, Aamrapali labeled Qazi as 'mean' for his actions.",
+          "The episode concluded with lingering tension and emotional reflections among the remaining contestants. Mahhi admitted to the group that she had been fully prepared to face eviction herself on that particular day, highlighting the unpredictable nature of the competition as it nears its final stretch."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Bigg Boss 20 featured an emotional Weekend Ka Vaar where Manish Goel voluntarily exited the house due to a leg injury after Salman Khan confirmed he did not receive the fewest votes. The episode also saw intense friction among housemates during a bad influence task, insights from a body language expert, and a final farewell before the grand finale."
+        ]
+      }
+    ],
+    "facts": [
+      "Manish Goel exited the Bigg Boss 20 house due to a leg injury.",
+      "Salman Khan announced that Manish Goel did not receive the fewest votes.",
+      "Doctors advised Manish Goel to take complete rest for four weeks.",
+      "The episode featured a bad influence task involving multiple contestants."
+    ],
+    "entities": {
+      "people": [
+        "Manish Goel",
+        "Salman Khan",
+        "Qazi Touqeer",
+        "Aamrapali Dubey",
+        "Mahhi Vij",
+        "Yung DSA",
+        "Gullu",
+        "Kanika Mann",
+        "ScoutOP",
+        "Love Gill",
+        "Arishfa Khan",
+        "Uditi"
+      ],
+      "titles": [
+        "Bigg Boss 20"
+      ]
+    },
+    "keywords": [
+      "Bigg Boss 20",
+      "Manish Goel",
+      "Qazi Touqeer",
+      "Salman Khan",
+      "Mahhi Vij"
+    ],
+    "images": [
+      {
+        "url": "https://images.timesnownews.com/thumb/msid-156551351,thumbsize-335347,width-1280,height-720,resizemode-75/156551351.jpg",
+        "caption": "Bigg Boss 20 Episode 78 Highlights: Manish Goel Exits Due to Injury While Qazi Touqeer Stirs Up Fresh Drama",
+        "source": "Times Now — Entertainment"
+      }
+    ],
+    "published": "2026-11-23T08:51:35Z"
+  },
+  "1i9fxpl": {
+    "id": "1i9fxpl",
+    "type": "news",
+    "headline": "‘The Real Housewives of Potomac’ Season 11, Episode 7 Recap: Cold Beach, Hot Gossip",
+    "dek": "Wendy, Stacey, and Courtney grapple with personal transparency, public scrutiny, and mounting tension during the latest trip on The Real Housewives of Potomac.",
+    "body": [
+      {
+        "h": "The Irony of Privacy and Transparency in Potomac",
+        "p": [
+          "A foundational rule across the entire Housewives franchise centers on the paradox of hypocrisy. Cast members consistently demand total openness from their peers while zealously guarding their own private affairs. This double standard manifests acutely on Potomac, where veterans who have historically concealed the deterioration of their own marriages express profound shock when a newer star protects deeply personal family trauma.",
+          "The ongoing dynamic highlights how weaponized vulnerability functions within the group. While various cast members insist on unvarnished honesty, they selectively choose what to reveal, utilizing discretion for themselves while weaponizing privacy restrictions against anyone currently facing intense outside pressure."
+        ]
+      },
+      {
+        "h": "Wendy Osefo Confronts Legal Speculation and Magazine Scrutiny",
+        "p": [
+          "Wendy navigates severe frustration regarding her inability to openly discuss ongoing legal matters on camera. Although she repeatedly reminds her costars of her legal limitations, her defensive reactions to mild inquiries spark friction within the group. Comments from Chanel Ayan regarding Wendy's indictments amplify the tension, leading Wendy to perceive targeted hostility where others see standard reality television commentary.",
+          "Additionally, scrutiny surrounds a magazine cover feature and associated financial logistics. Discussions regarding potential pay-to-play arrangements dominate conversations among the women. Despite Wendy's insistence that she did not personally fund the project, speculation persists regarding how the financial compensation was arranged behind the scenes."
+        ]
+      },
+      {
+        "h": "Courtney’s Emotional Turmoil and Spiritual Missteps",
+        "p": [
+          "Courtney experiences an emotionally volatile period, marked by frequent tears and public vulnerability regarding fertility struggles. Despite apologizing for earlier emotional outbursts, her attempts to confront Stacey regarding religious backgrounds fall flat. An awkward rooftop confrontation in Rehoboth regarding Jehovah’s Witness connections fails to land effectively with the other women.",
+          "Her erratic behavior continues during a candle-making gathering, where she arrives in dramatic attire and brings a bible to counter Stacey's remarks. Rather than strengthening her position, these dramatic gestures undermine her credibility and generate bewilderment among the rest of the cast members."
+        ]
+      },
+      {
+        "h": "Stacey Rusch and the Burden of Guardedness",
+        "p": [
+          "Stacey faces continuous accusations from her castmates of maintaining a heavily curated persona and withholding authentic details about her personal history. Given the intense level of scrutiny she has encountered since joining the series, her desire to remain selective about shared information appears entirely rational to observers of the dynamic.",
+          "The frustration directed at Stacey often stems from resentment over her rising notoriety within the fandom. Even as the other women attempt to poke holes in her public image, Stacey maintains her composure, refusing to provide ammunition to individuals eager to weaponize her vulnerabilities."
+        ]
+      },
+      {
+        "h": "Vacation Dynamics and Factions in Rehoboth",
+        "p": [
+          "The group trip to Rehoboth delivers the expected mix of leisure and conflict, ranging from drag night entertainment to heated debates over wasted food and travel anxieties. While Ashley navigates personal and financial stress regarding Josh, other cast members indulge in local activities and critique each other's lifestyle choices.",
+          "The underlying tension between Stacey and the rest of the ensemble remains palpable throughout the getaway. As the trip unfolds, the friction points solidify existing alliances and set the stage for explosive confrontations in upcoming episodes."
+        ]
+      },
+      {
+        "h": "Looking Ahead to the Rest of the Season",
+        "p": [
+          "The back half of the eleventh season promises heightened drama as the group prepares for an upcoming trip to London. Viewers can anticipate renewed conflicts involving Wendy and Stacey, further fallout concerning Tia's marriage, and Stacey and Thiemo's upcoming vow renewal ceremony.",
+          "As legal proceedings and personal reckonings loom large, the Potomac housewives show no signs of slowing down their theatrical clashes, ensuring plenty of on-screen and off-screen commentary for dedicated fans of the franchise."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Season 11, Episode 7 of The Real Housewives of Potomac captures escalating tensions as Wendy Osefo, Stacey Rusch, and Courtney navigate severe personal scrutiny during their group getaway. The episode highlights ongoing hypocrisy regarding privacy, explosive confrontations over faith and legal troubles, and a preview of high-stakes drama ahead for the rest of the season."
+        ]
+      }
+    ],
+    "facts": [
+      "The Real Housewives of Potomac Season 11 Episode 7 is titled Cold Beach, Hot Gossip.",
+      "Wendy Osefo faced questions regarding her legal case and a magazine cover feature.",
+      "Courtney confronted Stacey Rusch in Rehoboth regarding religious backgrounds.",
+      "Upcoming events include a trip to London and Stacey and Thiemo's vow renewal."
+    ],
+    "entities": {
+      "people": [
+        "Wendy",
+        "Stacey",
+        "Courtney",
+        "Chanel Ayan",
+        "Robyn",
+        "Monique",
+        "Sofia",
+        "Eddie",
+        "Tia",
+        "Gizelle",
+        "Angel",
+        "Thiemo",
+        "Ashley",
+        "Josh",
+        "Karen",
+        "Brian Moylan",
+        "Carlos King"
+      ],
+      "titles": [
+        "The Real Housewives of Potomac",
+        "Cold Beach, Hot Gossip",
+        "Survivor",
+        "That's So Raven"
+      ]
+    },
+    "keywords": [
+      "Real Housewives of Potomac Cold Beach Hot Gossip",
+      "RHOP Season 11 Episode 7 recap",
+      "Wendy Osefo legal case RHOP",
+      "Stacey Rusch RHOP"
+    ],
+    "images": [
+      {
+        "url": "https://pyxis.nymag.com/v1/imgs/6d5/f73/0f748c50c306cbc70edc8359f1c97bf745-rhop-7.1x.rsocial.w1200.jpg",
+        "caption": "‘The Real Housewives of Potomac’ Season 11, Episode 7 Recap: Cold Beach, Hot Gossip",
+        "source": "Vulture"
+      }
+    ],
+    "published": "2026-11-23T02:00:05.983Z"
   }
 };
