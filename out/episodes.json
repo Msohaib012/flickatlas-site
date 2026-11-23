@@ -4784,7 +4784,11 @@
    "article_id": "1q8blpb",
    "posted_at": "2026-11-23T17:52:32Z",
    "summary": null,
-   "summary_at": null
+   "summary_at": null,
+   "summary_error": {
+    "at": "2026-11-23T20:16:18Z",
+    "error": "HTTP Error 503: Service Unavailable"
+   }
   },
   "j7mC4ulwsFU": {
    "video_id": "j7mC4ulwsFU",

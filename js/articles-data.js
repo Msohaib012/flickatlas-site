@@ -231264,5 +231264,298 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Mon, 23 Nov 2026 22:45:58 +0530"
+  },
+  "1he4vmw": {
+    "id": "1he4vmw",
+    "type": "news",
+    "headline": "Mariah Carey Lists Iconic Tribeca Triplex Penthouse for USD 27 Million",
+    "dek": "Pop icon Mariah Carey is parting ways with her legendary 12,728-square-foot Tribeca residence at Franklin Tower, featuring custom butterfly motifs, an aquatic media room, and a massive rooftop terrace.",
+    "body": [
+      {
+        "h": "The Multi-Million Dollar Listing",
+        "p": [
+          "Pop icon Mariah Carey has officially listed her massive Tribeca triplex penthouse for a staggering USD 27 million. Situated atop one of Lower Manhattan's most recognizable buildings, the sprawling residence spans a total of 12,728 interior square feet.",
+          "The property is currently listed on Zillow through CORE brokers Emily Beare and Lexi Alper, marking the very first time the combined estate has been offered on the open market since the singer acquired it back in late June 1999."
+        ]
+      },
+      {
+        "h": "Origins in Franklin Tower",
+        "p": [
+          "The story of this legendary home began in 1999 when Carey entered a contract to purchase separate units within Franklin Tower. She initially bought a duplex penthouse space for USD 5.5 million and subsequently purchased the full-floor unit directly beneath it for approximately USD 3.5 million.",
+          "Located at 90 Franklin Street, the building itself is a 17-story Art Deco brick structure that was originally constructed as a bank in 1915 before being successfully converted into luxury condominiums, blending rich pre-war architectural charm with dramatic vertical scale."
+        ]
+      },
+      {
+        "h": "Architectural Layout and Floors",
+        "p": [
+          "The combined penthouse sits majestically across the 16th, 17th, and 18th floors of the tower. The layout includes a total of eight bedrooms, six full bathrooms, and three half baths, offering sweeping unobstructed 360-degree views of the Manhattan skyline and the Hudson River.",
+          "The 16th floor is intentionally designed to function independently as a self-contained downtown living space, while the upper 17th and 18th floors combine to form a luxurious sky mansion equipped with high beamed ceilings, exposed brick accents, and expansive windows."
+        ]
+      },
+      {
+        "h": "Interior Design by Mario Buatta",
+        "p": [
+          "To merge and decorate the three separate spaces, Carey enlisted the expertise of the late interior design legend Mario Buatta. The interior boasts striking silver-leaf doors that open into rooms featuring lacquered peach walls, elegant gold drapery, and bronze-inlaid limestone floors.",
+          "A signature element of the design is the recurring presence of butterflies, which were personally woven into custom bed hangings, sculpted directly into bedroom cabinet hardware, glazed onto kitchen tiles, and even delicately embossed onto bathroom soaps."
+        ]
+      },
+      {
+        "h": "Unique Amenities and Media Room",
+        "p": [
+          "Among the home's most whimsical features is an underwater-themed media room outfitted with custom aquatic murals, a live aquarium, and a vintage red popcorn cart. The primary bathroom alone spans an impressive 38 feet.",
+          "Other notable indoor highlights include a glass-wrapped, semi-circular rotunda sunroom complete with a wet bar, perfect for taking in the surrounding urban vistas from high above the city streets."
+        ]
+      },
+      {
+        "h": "Outdoor Living and Entertainment Spaces",
+        "p": [
+          "The upper level of the triplex opens directly onto 1,100 square feet of private rooftop terrace space designed for high-end entertaining. The outdoor area features a fireplace-equipped indoor/outdoor lounge usable for year-round gatherings.",
+          "Additional outdoor amenities include a dedicated dining area, a private hot tub, and a comfortable lounge space surrounding a central fire pit, providing a private oasis amidst the bustling backdrop of Lower Manhattan."
+        ]
+      },
+      {
+        "h": "Historical Memorabilia Connection",
+        "p": [
+          "During the same period when Carey was establishing her iconic Tribeca residence in 1999, she also made headlines by purchasing Marilyn Monroe’s historic white baby grand piano at an auction for USD 660,000.",
+          "The Tribeca apartment famously gained widespread public attention in the early 2000s when it was featured on the popular television program 'MTV Cribs', cementing its status in pop culture history."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Pop icon Mariah Carey has listed her combined Tribeca triplex penthouse in Franklin Tower for USD 27 million after owning the property since 1999. The 12,728-square-foot residence features custom luxury designs by Mario Buatta, extensive outdoor terrace spaces, and unique historical ties to the singer's career."
+        ]
+      }
+    ],
+    "facts": [
+      "Mariah Carey bought two penthouses in Tribeca in 1999 for USD 9 million.",
+      "The Tribeca residence has a total area of 12,728 square feet.",
+      "The property is currently listed on the market for USD 27 million.",
+      "The duplex penthouse space was originally acquired for USD 5.5 million in late June 1999.",
+      "The full-floor unit beneath was bought for approximately USD 3.5 million.",
+      "The combined property spans the 16th, 17th, and 18th floors of Franklin Tower.",
+      "Franklin Tower is a 17-story Art Deco brick building constructed as a bank in 1915.",
+      "The residence features eight bedrooms, six full bathrooms, and three half baths.",
+      "The private rooftop terrace spans 1,100 square feet.",
+      "Interior design for the combined spaces was done by Mario Buatta.",
+      "Mariah Carey bought Marilyn Monroe’s white baby grand piano at an auction for USD 660,000 in 1999."
+    ],
+    "entities": {
+      "people": [
+        "Mariah Carey",
+        "Emily Beare",
+        "Lexi Alper",
+        "Mario Buatta",
+        "Marilyn Monroe"
+      ],
+      "titles": [
+        "MTV Cribs"
+      ]
+    },
+    "keywords": [
+      "Mariah Carey Tribeca penthouse",
+      "Mariah Carey Franklin Tower home",
+      "Mariah Carey 27 million apartment",
+      "Mariah Carey real estate listing"
+    ],
+    "images": [
+      {
+        "url": "https://static.toiimg.com/thumb/msid-136098973,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "caption": "Mariah Carey Lists Iconic Tribeca Triplex Penthouse for USD 27 Million",
+        "source": "Times of India — Entertainment"
+      }
+    ],
+    "published": "2026-11-24T00:00:00+05:30"
+  },
+  "1ls75bd": {
+    "id": "1ls75bd",
+    "type": "news",
+    "headline": "Jennifer Lopez Turns Heads With Multi-Carat Diamond Necklace At Red Carpet Premiere",
+    "dek": "Global icon Jennifer Lopez made headlines at the premiere of her concert film by wearing a massive, highly secure diamond necklace.",
+    "body": [
+      {
+        "h": "The Red Carpet Statement",
+        "p": [
+          "Jennifer Lopez recently commanded attention at a major red carpet event by pairing a stunning high-fashion ensemble with an exceptionally rare and valuable piece of jewelry. The global superstar attended the premiere of her concert project wearing an intricate lace gown alongside an embroidered coat featuring a furry collar and cuffs. However, all eyes were drawn to the massive necklace featuring a huge yellow-hued pear-shaped diamond at its center.",
+          "The jewelry piece is crafted from a total of 186 carats, with its striking centerpiece alone accounting for 110 carats. Displaying such a high-caliber accessory on a red carpet is a rare occurrence, yet the celebrity fashion icon carried off the high-profile look with effortless grace."
+        ]
+      },
+      {
+        "h": "Exclusive Security Measures",
+        "p": [
+          "Given the astronomical value of the diamond piece, the accessory required strict protective measures during the outing. Reports indicate that the loaned necklace arrived accompanied by a dedicated four-person security detail. This specialized team included two armed off-duty police officers tasked with ensuring the safety of the rare heirloom throughout the evening.",
+          "Despite the intense security surrounding the jewelry, Lopez remained entirely relaxed while posing for cameras and sharing footage of the outfit on social media. She candidly noted that while the creation is gorgeous and worthy of an heirloom status, she would not be keeping it for her personal collection."
+        ]
+      },
+      {
+        "h": "A Busy Year For The Star",
+        "p": [
+          "The high-profile red carpet appearance comes amid a whirlwind year for the performer. Alongside her concert film releases, her romantic comedy project achieved significant streaming success as a number one hit on Netflix. Furthermore, she has been balancing major personal milestones, including her twins graduating high school and transitioning to college.",
+          "Beyond her film success, she has continued connecting with fans through her high-profile entertainment ventures, including a prominent Las Vegas residency production. This immersive special highlights her iconic musical hits while reflecting on her journey from growing up in the Bronx to achieving worldwide fame."
+        ]
+      },
+      {
+        "h": "A Legacy Of Fashion Moments",
+        "p": [
+          "Throughout her decades-long career, Lopez has consistently established herself as a trendsetter in the fashion world. From memorable past award show garments that remain cultural touchstones decades later to her latest high-end red carpet styling, her sartorial choices frequently dominate entertainment headlines.",
+          "Her ability to effortlessly transition between high-fashion couture, music superstardom, and acclaimed acting roles has cemented her status as a true pop culture fixture. Fans looking forward to her upcoming movie projects can undoubtedly expect many more memorable style moments on future red carpets."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Jennifer Lopez attended a red carpet premiere wearing a rare 186-carat diamond necklace featuring a massive yellow pear-shaped center stone. The high-value jewelry required a specialized security detail consisting of four personnel, including armed off-duty officers. The appearance coincides with a successful year for the star, marked by streaming success, live performances, and ongoing entertainment projects."
+        ]
+      }
+    ],
+    "facts": [
+      "Jennifer Lopez wore a 186-carat diamond necklace.",
+      "The necklace featured a 110-carat yellow pear-shaped diamond centerpiece.",
+      "The jewelry came with a four-person security detail including two armed off-duty police officers.",
+      "Jennifer Lopez is 57 years old.",
+      "Her rom-com Office Romance was a No. 1 hit on Netflix."
+    ],
+    "entities": {
+      "people": [
+        "Jennifer Lopez"
+      ],
+      "titles": [
+        "The JLo Show",
+        "Office Romance"
+      ]
+    },
+    "keywords": [
+      "Jennifer Lopez necklace",
+      "Jennifer Lopez diamond security",
+      "The JLo Show premiere",
+      "Jennifer Lopez fashion"
+    ],
+    "images": [
+      {
+        "url": "https://cdn.mos.cms.futurecdn.net/rAhUJrH2kURTN9wMHR8x9R-2000-80.jpg",
+        "caption": "Jennifer Lopez Turns Heads With Multi-Carat Diamond Necklace At Red Carpet Premiere",
+        "source": "CinemaBlend"
+      }
+    ],
+    "published": "Mon, 23 Nov 2026 19:45:18 +0000"
+  },
+  "1jvyxg4": {
+    "id": "1jvyxg4",
+    "type": "news",
+    "headline": "Official Trailer Released for the High-Energy Musical Drama K-Pop: The Debut",
+    "dek": "The official preview for K-Pop: The Debut has arrived, offering a glimpse into a competitive musical journey starring Ji-young Yoo.",
+    "body": [
+      {
+        "h": "The Official Trailer Launch",
+        "p": [
+          "The official promotional preview for the upcoming musical drama K-Pop: The Debut has officially been released to the public. Viewers are given a first look at an intensely competitive atmosphere framed by vibrant musical sequences and high-stakes drama.",
+          "The newly debuted footage highlights the aesthetic and energetic scope of the project, setting the stage for its scheduled arrival in theaters early next year."
+        ]
+      },
+      {
+        "h": "Plot and Character Journey",
+        "p": [
+          "The narrative centers around Lizzy Lee, portrayed by Ji-young Yoo, who is a young Korean-American woman. Much of her earlier life involved trying to fulfill the expectations and ambitions her family held for her.",
+          "A sudden turning point arrives when she receives an invitation from an internationally televised contest. This opportunity prompts her to travel to Seoul, where she faces fierce competition for a spot in an upcoming K-pop girl group."
+        ]
+      },
+      {
+        "h": "Star-Studded Cast and Special Appearances",
+        "p": [
+          "Alongside lead actress Ji-young Yoo, the production features singer-songwriter Eric Nam. The ensemble cast also includes Yoo Ji-tae, Tony Revolori, Gia Kim, Yim Si-wan, Ahin Lee, Aliyah Turner, Renata Vaca, Sung Jun, Kang Sora, Hyongchol Lee, Silia Kapsis, Shana Kim, and Park Jubi.",
+          "To heighten the authentic music industry atmosphere, the feature includes special appearances by prominent girl groups KATSEYE and ILLIT."
+        ]
+      },
+      {
+        "h": "Musical Contributions and Soundtracks",
+        "p": [
+          "The auditory landscape of the film draws from several major names within the global music scene. Tracks and musical elements associated with the production involve artists such as Cortis, Enhypen, Ive, Aespa, BTS, Illit, Twice, Katseye, Jisoo, and Le Sserafim.",
+          "These musical collaborations aim to deliver an authentic atmosphere reflecting the realities of the modern global music industry."
+        ]
+      },
+      {
+        "h": "Behind the Camera and Production Team",
+        "p": [
+          "Direction for the project is handled by American filmmaker Benson Lee, whose previous genre-adjacent credits include Battle of The Year from 2013 and Seoul Searching from 2015.",
+          "The story for the screen was conceived by Elyse Hollander, who also co-wrote the screenplay alongside Eileen Shim."
+        ]
+      },
+      {
+        "h": "Production Backing and Release Schedule",
+        "p": [
+          "The project is backed by producers Scott Braun, James H. Shin, Arthur Spector, Bryan Oh, and Joshua Davis. Executive producers on the team include John Zaozirny, Martha Fernandez, Joshuah Bearman, Pete Chiappetta, Anthony Tittanegro, and Andrew Lary.",
+          "Backed by Paramount Pictures and Domain Entertainment, the feature film is scheduled for a theatrical release on 26th February 2027."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "The official trailer for K-Pop: The Debut has been released, showcasing the musical drama directed by Benson Lee. The film stars Ji-young Yoo as a Korean-American woman competing in a televised Seoul contest and is set to release on 26th February 2027."
+        ]
+      }
+    ],
+    "facts": [
+      "Published on Nov 23, 2026",
+      "Theatrical release date is 26th February 2027",
+      "Starring Ji-young Yoo as Lizzy Lee",
+      "Directed by Benson Lee",
+      "Produced by Paramount Pictures and Domain Entertainment"
+    ],
+    "entities": {
+      "people": [
+        "Siddharth Thampi",
+        "Ji-young Yoo",
+        "Eric Nam",
+        "Yoo Ji-tae",
+        "Tony Revolori",
+        "Gia Kim",
+        "Yim Si-wan",
+        "Ahin Lee",
+        "Aliyah Turner",
+        "Renata Vaca",
+        "Sung Jun",
+        "Kang Sora",
+        "Hyongchol Lee",
+        "Silia Kapsis",
+        "Shana Kim",
+        "Park Jubi",
+        "Scott Braun",
+        "James H. Shin",
+        "Arthur Spector",
+        "Bryan Oh",
+        "Joshua Davis",
+        "John Zaozirny",
+        "Martha Fernandez",
+        "Joshuah Bearman",
+        "Pete Chiappetta",
+        "Anthony Tittanegro",
+        "Andrew Lary",
+        "Elyse Hollander",
+        "Eileen Shim",
+        "Benson Lee",
+        "Jisoo"
+      ],
+      "titles": [
+        "K-Pop: The Debut",
+        "Battle of The Year",
+        "Seoul Searching",
+        "KPop Demon Hunters",
+        "Sacred Jewel"
+      ]
+    },
+    "keywords": [
+      "K-Pop: The Debut",
+      "Ji-young Yoo",
+      "Benson Lee",
+      "Eric Nam"
+    ],
+    "images": [
+      {
+        "url": "https://filmfare.wwmindia.com/content/2026/nov/k-pop-the-debut-trailer-get-ready-for-the-k-pop-fever-with-this-high-energy1795452331.jpg",
+        "caption": "Official Trailer Released for the High-Energy Musical Drama K-Pop: The Debut",
+        "source": "Filmfare"
+      }
+    ],
+    "published": "2026-11-23T22:19:27+05:30"
   }
 };
