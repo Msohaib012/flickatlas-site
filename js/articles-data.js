@@ -230014,5 +230014,421 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Mon, 23 Nov 2026 12:18:10 +0530"
+  },
+  "160h3ho": {
+    "id": "160h3ho",
+    "type": "news",
+    "headline": "Sunrise on the Reaping Dominates Weekend Box Office While Ramayana Makes History",
+    "dek": "The November 20-22 weekend box office was completely owned by Sunrise on the Reaping with a massive $120 million domestic opening, while Ebenezer stumbled in its second weekend and Ramayana: Part 1 broke records in North America.",
+    "body": [
+      {
+        "h": "Box Office Overview",
+        "p": [
+          "The weekend box office for November 20-22, 2026, belonged entirely to a single dominant release that left all other competitors trailing far behind. While the rest of the top ten struggled to make significant waves, the gap between the champion and the runner-up became one of the widest recorded all year.",
+          "Industry tracking confirmed that the top-performing title surpassed expectations comfortably, while runners-up like I Play Rocky and Ebenezer occupied the lower rungs of the weekend chart."
+        ]
+      },
+      {
+        "h": "Sunrise on the Reaping Opens Strong",
+        "p": [
+          "Sunrise on the Reaping pulled off a massive $120 million domestic opening weekend, cementing itself as one of the biggest theatrical debuts of the year. The total haul was bolstered by $21 million in Thursday preview screenings and reached $225 million worldwide.",
+          "Playing across 4,018 domestic theaters and 84 international territories, the film achieved an A- CinemaScore from audiences. This debut stands as the fourth-biggest opening in the history of the franchise, trailing only Mockingjay Part 1."
+        ]
+      },
+      {
+        "h": "Budget and Financial Milestones",
+        "p": [
+          "Operating against a reported production budget of $185 million, the film has already successfully covered its baseline costs within a single weekend before factoring in marketing expenditures. Carrying a cast of entirely new leads without returning original trilogy actors, this performance signals a major win for the prequel.",
+          "Analysts continue to monitor its long-term trajectory as it heads into subsequent frames following such a robust global start."
+        ]
+      },
+      {
+        "h": "Ebenezer Suffers a Steep Second Weekend Drop",
+        "p": [
+          "Johnny Depp's Ebenezer: A Christmas Carol experienced a sharp decline during its second weekend in theaters, tumbling 59.5 percent to bring in $7.7 million. This brought its cumulative domestic total to $32.55 million.",
+          "Having opened at $19.0 million the previous weekend, the steep drop reflects a loss of nearly two-thirds of its audience in a single week. This decline is notably sharper than the typical second-week drop for wide studio releases facing new competition."
+        ]
+      },
+      {
+        "h": "Ramayana Sets North American Records",
+        "p": [
+          "Although it did not land in the domestic top ten chart, Ramayana: Part 1 achieved a historic milestone by becoming the highest-grossing Indian film ever released in North America. Adding $2.07 million in its third weekend alone, its cumulative total in the region crossed $29 million.",
+          "This performance surpassed previous top-earning North American releases including Dhurandhar: The Revenge and Drishyam 3. Globally, the film has crossed ₹1,500 crore worldwide while closing in on ₹1,000 crore in India net alone."
+        ]
+      },
+      {
+        "h": "The Rest of the Top Ten",
+        "p": [
+          "Other notable titles on the chart included I Play Rocky taking the second-place spot with $9.33 million and a running domestic total of $10.42 million. Meanwhile, titles like The Cat in the Hat, You Can See Everything, and Wild Horse Nine filled out the remaining positions on the confirmed chart.",
+          "Releases such as Godzilla Minus Zero, Ghost Soldier, and How to Rob a Bank rounded out the bottom tier of the weekend box office rankings."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "The weekend box office for November 20-22, 2026, was led by the massive $120 million domestic opening of Sunrise on the Reaping, while Ebenezer dropped sharply in its second weekend. Concurrently, Ramayana: Part 1 achieved a historic milestone by becoming the highest-grossing Indian film in North America."
+        ]
+      }
+    ],
+    "facts": [
+      "The weekend box office dates are November 20-22, 2026.",
+      "Sunrise on the Reaping opened to $120 million domestically.",
+      "Sunrise on the Reaping earned $21 million in Thursday previews.",
+      "Sunrise on the Reaping grossed $225 million worldwide.",
+      "Sunrise on the Reaping played in 4,018 domestic theaters and 84 international territories.",
+      "Sunrise on the Reaping had a production budget of $185 million.",
+      "Ebenezer: A Christmas Carol dropped 59.5% to $7.7 million in its second weekend.",
+      "Ebenezer: A Christmas Carol reached a domestic total of $32.55 million.",
+      "Ebenezer opened to $19.0 million in its first weekend.",
+      "Ramayana: Part 1 passed $29 million cumulative in North America after adding $2.07 million in its third weekend.",
+      "I Play Rocky made $9.33 million for a running domestic total of $10.42 million.",
+      "The Cat in the Hat made $6.85 million with a $47.12 million domestic total."
+    ],
+    "entities": {
+      "people": [
+        "Johnny Depp",
+        "Faiza Farheen"
+      ],
+      "titles": [
+        "Sunrise on the Reaping",
+        "I Play Rocky",
+        "Ebenezer",
+        "Ebenezer: A Christmas Carol",
+        "The Cat in the Hat",
+        "You Can See Everything",
+        "Wild Horse Nine",
+        "Wildwood",
+        "Godzilla Minus Zero",
+        "Ghost Soldier",
+        "How to Rob a Bank",
+        "Ramayana: Part 1",
+        "Mockingjay Part 1",
+        "Dhurandhar: The Revenge",
+        "Drishyam 3"
+      ]
+    },
+    "keywords": [
+      "Sunrise on the Reaping box office",
+      "Ramayana Part 1 North America record",
+      "Ebenezer second weekend drop",
+      "Nov 20 2026 weekend box office"
+    ],
+    "images": [
+      {
+        "url": "https://showpulp.com/wp-content/uploads/2026/07/boxoffice-1024x473.jpg",
+        "caption": "Sunrise on the Reaping Dominates Weekend Box Office While Ramayana Makes History",
+        "source": "ShowPulp"
+      }
+    ],
+    "published": "Mon, 23 Nov 2026 12:48:50 +0000"
+  },
+  "1cx1gxi": {
+    "id": "1cx1gxi",
+    "type": "news",
+    "headline": "New York Assemblyman Jordan J.G. Wright Responds to Viral Eye Movement Video and Lizard Person Conspiracy Theories",
+    "dek": "A brief eye movement during a New York City press conference turned New York State Assemblyman Jordan J.G. Wright into the subject of wild online rumors and extraterrestrial jokes.",
+    "body": [
+      {
+        "h": "The Viral Press Conference Moment",
+        "p": [
+          "A routine political gathering in New York City quickly transformed into viral internet fodder after an assemblyman's brief facial movement caught the attention of online observers. The incident took place during a press conference held at City Hall on Friday, November 20.",
+          "New York City Mayor Zohran Mamdani led the conference to discuss upcoming plans to close the Rikers Island jail complex by the year 2032. While standing directly behind the mayor, New York State Assemblyman Jordan J.G. Wright briefly smiled, blinked, and shifted his eyes upward in an unusual circular rotation."
+        ]
+      },
+      {
+        "h": "Extraterrestrial Claims and Online Reactions",
+        "p": [
+          "The split-second footage caused the politician's eyes to appear almost entirely white, sparking immediate speculation across various social media platforms. Viewers began questioning whether the state lawmaker was actually human, with many jokingly suggesting he was an alien in disguise.",
+          "Commenters across the internet compared the movement to reptilian blinking patterns. Some users humorously claimed that extraterrestrial beings were walking among everyday society in plain sight, while others expressed disbelief at the strange appearance of the footage."
+        ]
+      },
+      {
+        "h": "Background of Assemblyman Jordan J.G. Wright",
+        "p": [
+          "The official at the center of the unexpected online attention is Jordan J.G. Wright, a 32-year-old Democratic member of the New York State Assembly. He represents the state's 70th District, which encompasses the Harlem neighborhood.",
+          "Wright officially assumed office in January 2025. Since taking his legislative seat, he has focused on local community initiatives, including successfully securing $4 million in funding for the WE ACT environmental justice center in Harlem."
+        ]
+      },
+      {
+        "h": "The Politician's Public Response",
+        "p": [
+          "Facing a wave of digital jokes and bizarre claims, Wright addressed the controversy in an interview with the New York Post on Sunday, November 22. The assemblyman admitted that he was just as baffled by the widely shared clip as the online audience was.",
+          "Defending his humanity, Wright pointed directly to his legislative record and community work in Harlem rather than entertaining the extraterrestrial claims. He firmly stated that he could not speak for any reptiles or aliens."
+        ]
+      },
+      {
+        "h": "Continued Jokes From Social Media Theorists",
+        "p": [
+          "Rather than putting the rumors to rest, Wright's denial served as fresh material for internet users to continue generating humorous conspiracy theories. Commentators jokingly suggested that a real human would never feel the need to explicitly state their humanity.",
+          "Additional online reactions quipped that the assemblyman's response was precisely what a disguised non-human entity would say when confronted. The lighthearted mockery continued to circulate widely alongside the original press conference footage."
+        ]
+      },
+      {
+        "h": "Potential Medical Explanations",
+        "p": [
+          "While social media users leaned heavily into science fiction tropes, medical science offers a potential explanation for unusual eye movements during blinking. Bell's phenomenon, also known as the palpebral-oculogyric reflex, is a natural protective mechanism where eyeballs roll upward and slightly outward when eyelids close.",
+          "This reflex serves to protect the cornea from external exposure and can occasionally be observed in healthy individuals. However, medical professionals noted that such distinct movements remain uncommon to witness in everyday settings, leaving room for ongoing public debate."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "New York State Assemblyman Jordan J.G. Wright became the target of viral conspiracy theories after an unusual eye movement captured during a press conference on Friday, November 20, led social media users to joke that he was a reptilian alien. Wright responded to the speculation on Sunday, November 22, affirming his humanity through his legislative work, while medical experts noted that a natural reflex known as Bell's phenomenon could possibly explain the strange visual."
+        ]
+      }
+    ],
+    "facts": [
+      "New York City Mayor Zohran Mamdani held a press conference on Friday, November 20, to discuss plans to close the Rikers Island jail complex by 2032.",
+      "Jordan J.G. Wright is a 32-year-old Democratic member of the New York State Assembly representing the 70th District in Harlem.",
+      "Wright took office in January 2025 and secured $4 million for the WE ACT environmental justice center in Harlem.",
+      "Wright spoke to the New York Post on Sunday, November 22, regarding the viral video."
+    ],
+    "entities": {
+      "people": [
+        "Jordan J.G. Wright",
+        "Zohran Mamdani"
+      ],
+      "titles": []
+    },
+    "keywords": [
+      "Jordan J.G. Wright",
+      "New York State Assemblyman",
+      "Zohran Mamdani",
+      "Rikers Island"
+    ],
+    "images": [
+      {
+        "url": "https://static.boredpanda.com/blog/wp-content/uploads/2026/11/fb_image_6b041509f1d75.png",
+        "caption": "New York Assemblyman Jordan J.G. Wright Responds to Viral Eye Movement Video and Lizard Person Conspiracy Theories",
+        "source": "Bored Panda"
+      }
+    ],
+    "published": "Mon, 23 Nov 2026 12:20:34 +0000"
+  },
+  "7xkehk": {
+    "id": "7xkehk",
+    "type": "news",
+    "headline": "OM Worldwide Box Office Collection Day 3: Dhanush Gets His Biggest Opening Weekend As Makers Say Film With Mammootty, Sai Pallavi Grosses ₹101 Crore",
+    "dek": "Rajkumar Periasamy’s spy thriller OM: Operation Mole has achieved a major milestone, handing actor Dhanush his biggest opening weekend yet despite mixed reviews from critics and audiences.",
+    "body": [
+      {
+        "h": "The Box Office Milestone",
+        "p": [
+          "The newly released spy thriller OM: Operation Mole has made a significant splash at the global box office during its opening weekend. Directed by Rajkumar Periasamy, the film hit the big screens after facing multiple postponements to accommodate other theatrical releases. Despite arriving to a mix of reviews from both professional critics and general audiences, the feature has quickly amassed impressive financial returns.",
+          "According to official announcements made by production houses Wunderbar Films and RTake Studios alongside star Dhanush, the feature grossed an astounding ₹101.7 crore globally across its first three days in theaters. The studio touted the achievement on social media, celebrating the milestone as a major box office statement for the cast and crew."
+        ]
+      },
+      {
+        "h": "Diverging Trade Reports",
+        "p": [
+          "While the makers reported a figure exceeding ₹100 crore, tracking data presented by the trade website Sacnilk offered a slightly different estimate. The platform recorded the film's three-day worldwide gross at ₹85.30 crore, breakdown including domestic net figures and international earnings.",
+          "Specifically, the tracking site noted a domestic net collection of ₹50.25 crore and a gross of ₹58.30 crore within India. Combined with an overseas haul of ₹27 crore, the trade figures present a slightly more conservative look at the opening stretch, though the distinction does little to dampen the film's overall financial momentum."
+        ]
+      },
+      {
+        "h": "Beating Past Personal Records",
+        "p": [
+          "Regardless of whether the studio's numbers or the independent trade figures are prioritized, the opening weekend stands as a career-best for lead actor Dhanush. The milestone comfortably surpasses the previous benchmark held by Sekhar Kammula's Kuberaa, which accumulated ₹79.24 crore worldwide over its initial three days.",
+          "Other notable previous openers for the actor include his directorial venture Raayan, which brought in ₹71.21 crore in the same timeframe, and Aanand L Rai's Tere Ishk Mein, which secured ₹67.79 crore during its comparable three-day window."
+        ]
+      },
+      {
+        "h": "A Star-Studded Ensemble Cast",
+        "p": [
+          "Previously known under the working title OM Chapter 1: Udhiram – The Blood Wood, the production features a high-profile ensemble. Alongside Dhanush, who steps into the role of a covert agent, the film stars Malayalam cinema icon Mammootty, Sai Pallavi, Sreeleela, veteran actor Naseeruddin Shah, and Indrans.",
+          "The involvement of these prominent names across different regional film industries helped generate substantial pre-release buzz, driving audiences to theaters despite the initial mixed critical reception."
+        ]
+      },
+      {
+        "h": "Competitive Landscape",
+        "p": [
+          "The spy thriller rolled out worldwide on November 20, facing direct competition primarily from Dulquer Salmaan’s Telugu release Aakasamlo Oka Tara, which managed to gross ₹22 crore globally in its first three days.",
+          "When placed alongside other releases of 2026, the film's opening weekend outpaced several local Tamil titles such as DC and Mandaadi. However, it landed behind larger-scale or extended-weekend openers like Jailer 2, Jana Nayagan, Karuppu, Scene, and Vishwanath & Sons."
+        ]
+      },
+      {
+        "h": "Looking Ahead at Weekdays",
+        "p": [
+          "With the opening weekend concluded, attention now shifts toward how the film will perform during standard weekday screenings. Like most theatrical releases, a natural dip in ticket sales is anticipated as regular workdays resume.",
+          "Stakeholders and industry watchers will be monitoring the upcoming box office trends closely to see how long the thriller can sustain its momentum on the big screen."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Rajkumar Periasamy’s spy thriller OM: Operation Mole achieved Dhanush’s biggest opening weekend yet, with makers reporting a three-day worldwide gross of ₹101.7 crore while trade trackers estimated ₹85.30 crore. Co-starring Mammootty, Sai Pallavi, and Sreeleela, the film outperformed several regional titles of the year despite receiving mixed reviews upon its release."
+        ]
+      }
+    ],
+    "facts": [
+      "OM: Operation Mole released worldwide on November 20, 2026.",
+      "Makers reported a three-day worldwide gross of ₹101.7 crore.",
+      "Trade website Sacnilk reported a three-day worldwide gross of ₹85.30 crore.",
+      "Domestic net collection reached ₹50.25 crore in three days.",
+      "Overseas collection stood at ₹27 crore in three days.",
+      "Kuberaa previously held Dhanush's record with a ₹79.24 crore three-day gross."
+    ],
+    "entities": {
+      "people": [
+        "Dhanush",
+        "Mammootty",
+        "Sai Pallavi",
+        "Sreeleela",
+        "Rajkumar Periasamy",
+        "Sekhar Kammula",
+        "Rashmika Mandanna",
+        "Nagarjuna",
+        "Jim Sarbh",
+        "Aanand L Rai",
+        "Kriti Sanon",
+        "Naseeruddin Shah",
+        "Indrans",
+        "Dulquer Salmaan",
+        "Neeshita Nyayapati"
+      ],
+      "titles": [
+        "OM: Operation Mole",
+        "Kuberaa",
+        "Raayan",
+        "Tere Ishk Mein",
+        "Jailer 2",
+        "Jana Nayagan",
+        "Karuppu",
+        "Scene",
+        "Vishwanath & Sons",
+        "DC",
+        "Mandaadi",
+        "OM Chapter 1: Udhiram – The Blood Wood",
+        "Aakasamlo Oka Tara"
+      ]
+    },
+    "keywords": [
+      "OM Operation Mole film",
+      "Dhanush OM movie box office",
+      "OM worldwide collection day 3",
+      "Rajkumar Periasamy OM cast"
+    ],
+    "images": [
+      {
+        "url": "https://www.hindustantimes.com/ht-img/img/2026/11/23/1600x900/logo/OM_ww_day_3_1795431879301_bgke_1795431903124_rflm_2aa40021-6e0a-44e5-aadb-55e66d4efff4_uVYK.jpeg",
+        "caption": "OM Worldwide Box Office Collection Day 3: Dhanush Gets His Biggest Opening Weekend As Makers Say Film With Mammootty, Sa",
+        "source": "Hindustan Times — Entertainment"
+      }
+    ],
+    "published": "Mon, 23 Nov 2026 17:46:25 +0530"
+  },
+  "e7y50d": {
+    "id": "e7y50d",
+    "type": "news",
+    "headline": "New Home Alone Movie Announced With Macaulay Culkin While Remembering Late Cast Members",
+    "dek": "A brand new entry in the festive Home Alone franchise is reportedly in early development with Macaulay Culkin returning, prompting a reflection on the beloved actors the series has lost over the years.",
+    "body": [
+      {
+        "h": "A New Chapter for a Holiday Classic",
+        "p": [
+          "The beloved holiday movie franchise is reportedly expanding with a brand new film currently in early development. Reports indicate that original star Macaulay Culkin is set to make a massive return to the series, this time serving as a producer alongside producers Seth Rogen and Evan Goldberg.",
+          "The original feature premiered in 1990 when Culkin was only ten years old, followed by a sequel in 1992. Across the entire series, there have been six films released, including television movies and a Disney+ release in 2021, though Disney has not yet officially commented on this latest development."
+        ]
+      },
+      {
+        "h": "The Loss of On-Screen Parents",
+        "p": [
+          "As anticipation builds for this major cinematic announcement, the franchise reflects on several beloved cast members who have passed away. Catherine O'Hara, who portrayed Kevin McCallister's mother Kate in the first two films, sadly passed away in January 2026 at the age of 71 following a brief illness.",
+          "Macaulay Culkin shared an emotional tribute to his late on-screen mother. Furthermore, Chris Columbus, the director of the original movie, noted that without O'Hara and Culkin, the emotional epicenter of the film simply would not exist."
+        ]
+      },
+      {
+        "h": "Remembering the Plaza Hotel and New York Faces",
+        "p": [
+          "The year 2026 brought another significant loss to the franchise with the death of Tim Curry, who famously played Mr. Hector, the concierge worker at the Plaza Hotel in Home Alone 2: Lost in New York. Curry passed away peacefully at his home at the age of 80.",
+          "Additionally, Brenda Fricker, known as the Central Park pigeon lady in the second film, passed away in July 2026. Her agent paid tribute, noting that the world is lesser for the lack of her remarkable presence."
+        ]
+      },
+      {
+        "h": "Fathers and Neighbors",
+        "p": [
+          "John Heard, who played Peter McCallister alongside Catherine O'Hara, passed away in July 2017 at the age of 71 following a cardiac arrest in Palo Alto, California. With both on-screen parents now gone, the early films hold a poignant legacy.",
+          "Roberts Blossom, who portrayed Kevin's elderly neighbor Old Man Marley, passed away on July 8, 2011, at the age of 87, leaving behind a memorable cinematic footprint."
+        ]
+      },
+      {
+        "h": "Iconic Cameos and Supporting Stars",
+        "p": [
+          "The original movies featured unforgettable cameos, including comedy legend John Candy as Gus Polinski, the friendly musician who offered Kate a lift in a van. Candy's role was famously shot in one day with a great deal of improvised dialogue.",
+          "Other notable supporting actors who have passed away include Billie Bird and Bill Erwin, who played airport couple Irene and Ed, as well as Ralph Foody, who played gangster Johnny and delivered the iconic lines."
+        ]
+      },
+      {
+        "h": "Legacy of the Franchise",
+        "p": [
+          "The franchise has also lost other recognizable faces over the decades, such as Eddie Bracken, Clarke Devereux, and Rip Taylor. Their contributions continue to live on through holiday traditions worldwide.",
+          "As a new movie takes shape with Macaulay Culkin's involvement, fans continue to celebrate the enduring magic of the original cinematic outings."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "A new Home Alone movie is reportedly in early development with Macaulay Culkin set to return and produce. Amidst this exciting franchise news, reports look back at the various cast members who have passed away over the years, including Catherine O'Hara, Tim Curry, and John Heard."
+        ]
+      }
+    ],
+    "facts": [
+      "Macaulay Culkin was 10 years old when the original movie premiered in 1990.",
+      "Catherine O'Hara passed away in January 2026 at the age of 71.",
+      "Tim Curry passed away aged 80.",
+      "John Heard passed away in July 2017 at the age of 71.",
+      "Roberts Blossom died on 8 July 2011, aged 87.",
+      "Billie Bird died on 27 November 2002, aged 96.",
+      "Bill Erwin died on 29 December 2010, aged 96."
+    ],
+    "entities": {
+      "people": [
+        "Macaulay Culkin",
+        "Seth Rogen",
+        "Evan Goldberg",
+        "Catherine O'Hara",
+        "Chris Columbus",
+        "Brenda Fricker",
+        "Phil Belfield",
+        "Tim Curry",
+        "John Heard",
+        "John Candy",
+        "Roberts Blossom",
+        "Billie Bird",
+        "Bill Erwin",
+        "Ralph Foody",
+        "Eddie Bracken",
+        "Clarke Devereux",
+        "Rip Taylor",
+        "Kiesha Dosanjh"
+      ],
+      "titles": [
+        "Home Alone",
+        "Home Alone 2: Lost in New York",
+        "The Rocky Horror Show",
+        "It",
+        "Big",
+        "Awakenings",
+        "The Sopranos",
+        "Close Encounters of the Third Kind",
+        "Escape from Alcatraz",
+        "Deranged",
+        "Dennis the Menace"
+      ]
+    },
+    "keywords": [
+      "Home Alone new movie",
+      "Macaulay Culkin Home Alone",
+      "Catherine O Hara Home Alone",
+      "Home Alone cast deaths"
+    ],
+    "images": [
+      {
+        "url": "https://resizer.ladbiblegroup.com/ogimage/v3/assets/blt949ea8e16e463049/blt167c11108baa0692/6b0402ea6ee0c0928c124d3e/home-alone-actor-new-movie.png",
+        "caption": "New Home Alone Movie Announced With Macaulay Culkin While Remembering Late Cast Members",
+        "source": "UNILAD"
+      }
+    ],
+    "published": "2026-11-23T12:14:39.566Z"
   }
 };

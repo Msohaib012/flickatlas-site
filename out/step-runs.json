@@ -4,45 +4,6 @@
    {
     "step": "fetch",
     "category": "Trending News",
-    "run_at": "2026-11-22T13:51:07Z",
-    "run_id": "45029594022",
-    "status": "success",
-    "checked": {
-     "candidates": 263,
-     "detail": "RSS/Atom items across 137 sources; 0 source(s) errored"
-    },
-    "changed": {
-     "added": [
-      "ENE Repeat Telugu States Box Office Collection Day 3: Vishwak Sen's Film Crosses ₹30 Crore Worldwide",
-      "418 Movie Ending Explained: Does Devika Kill Her Own Daughter In Order To Please God?",
-      "Scene Box Office: Needs 8 Crore More To Become Naslen’s Highest Grosser In India",
-      "Sathyavan Savithiri Box Office: Keerthy Suresh’s Film Fails To Match Revolver Rita’s Opening Day In 2 Days",
-      "hanuman 2 the rise of vanaras announced panja vaisshnav tej to lead the fantasy adventure 87309.html",
-      "shah rukh khan advocates peace over conflict at global peace honours 87308.html",
-      "kollywood celebs attend anirudh ravichander and kavya marans wedding reception 87306.html",
-      "Dhanush's 'D56' faces last-minute hurdle over pending dues - Exclusive",
-      "Shabana shares 2017 party video; Sridevi and Satish appear",
-      "Faisal Malik reveals how he played Kumbhakaran in Ranbir Kapoor's 'Ramayana'",
-      "Sam CS urges young music directors to focus on melodies",
-      "Arjun Bijlani calls out ‘haters’, says he was not body-shaming his wife over eating habits on Pati Patni Aur Panga 2",
-      "Professor who sought restrictions responds to Diljit Dosanjh's ‘double standard’ remark; claims Coldplay was asked not to sing Hymn For The Weekend",
-      "‘She was frustrated’: Anupam Kher recalls Deepika Padukone’s maid act in acting class",
-      "aamrpali dubey shocking transformation weight loss looking unrecognizable reply haters bhojpuri actress photos tmovb 2702877 2026 11 22",
-      "bhojpuri actress monalisa thailand phuket beach sizzling photo tmovg 2702871 2026 11 22",
-      "actress kusha kapila ex husband zorawar ahluwalia gets emotional failed marriage lost home cried tmovf dskc 2702752 2026 11 22",
-      "hanuman ansh 452 crore success director vishal chaturvedi questions industry silence speaks about part 2 tmovj dskc 2702814 2026 11 22",
-      "ramayana producer namit malhotra reportedly in talks krrish 4 hrithik roshan tmovj dskc 2702748 2026 11 22",
-      "sapna choudhary second marriage divorce husband veer sahu 6 years after wedding 2 kids mother emotional tmovf 2702690 2026 11 22"
-     ],
-     "updated": [],
-     "count": 243,
-     "detail": "263 stories, 0 duplicates removed, 0 dropped"
-    },
-    "reason": null
-   },
-   {
-    "step": "fetch",
-    "category": "Trending News",
     "run_at": "2026-11-22T14:51:45Z",
     "run_id": "45034998404",
     "status": "success",
@@ -936,32 +897,48 @@
      "detail": "248 stories, 0 duplicates removed, 0 dropped"
     },
     "reason": null
-   }
-  ],
-  "apply_auto": [
+   },
    {
-    "step": "apply_auto",
+    "step": "fetch",
     "category": "Trending News",
-    "run_at": "2026-11-22T14:52:40Z",
-    "run_id": "45034998404",
+    "run_at": "2026-11-23T12:51:50Z",
+    "run_id": "45178105546",
     "status": "success",
     "checked": {
-     "candidates": 14,
-     "detail": "draft articles + box-office rows from out/gemini-batch.json"
+     "candidates": 337,
+     "detail": "RSS/Atom items across 137 sources; 5 source(s) errored"
     },
     "changed": {
      "added": [
-      "The Mystery of Michael Jackson's Missing Gone With The Wind Oscar",
-      "The Most Controversial Christmas Horror Film Gets a Modern Remake",
-      "Naga Chaitanya Discusses His Admiration for Wife Sobhita Dhulipala and Explains How She Made Him More Spontaneous",
-      "J.A. Bayona, Guneet Monga Kapoor, and Vikas Khanna Board Short Film 'The Dragon Letter' as Executive Producers"
+      "EXCLUSIVE: Though Yeh Prem Mol Liya gets U/A 13+ certificate; CBFC passed Sooraj Barjatya’s family entertainer WITHOUT a SINGLE cut",
+      "After Ek Deewane Ki Deewaniyat, Harshvardhan Rane and Anshul Garg reunite for Majnu; project to go on floors on December 1",
+      "Chor Nikal Ke Bhaga 2 announced: Yami Gautam Dhar and Sunny Kaushal return for Netflix sequel, to premiere on December 17",
+      "Babil Khan Opens Up About His Fear Of Auditions: 'I Still Feel Scared Of Auditioning'",
+      "Love In Disguise Episode 11 Dailymotion: Where & How To Watch Love In Disguise Ep 11 With English Subtitles?",
+      "Rajat Dalal Slams Avinash For Allegedly Calling Eisha ‘Bewafa’ Post Their Break Up: Log Tere Pe Thukte Time...",
+      "Ramayana Kerala Box Office Day 19 Prediction: Ranbir-Yash Film Crosses ₹70 Crore, Targets Jailer 2 Record",
+      "OM Collection Day 4 Early Update: Dhanush-Mammootty's Film Records Monday Drop; Did It BEAT Raayan Figures?",
+      "Godzilla Minus Zero Worldwide Box Office: Scores 7.3x More Than Its Low Budget In Less Than 25 Days!",
+      "Guruvayoor Arangettam Title Look Poster Out: Unni Mukundan Films To Distribute The Romantic Drama",
+      "The Cat In The Hat Box Office: Still $16M Away From Recovering Its Budget, Continues The Animation Slump!",
+      "Ebenezer Worldwide Box Office: Needs A Massive $300M+ Haul To Break Into Johnny Depp’s Top 10 Grossers!",
+      "Campus Diaries S2 Review: I Thought This Bunch Of Red Flags Would Grow Up, But This Hopelessly Immature Group Refuses To Adult!",
+      "Latest OTT Releases This Week (November 23-November 29): Drishyam 3, Hanuman Ansh, Spider-Man: Brand New Day & More To Stream Online",
+      "Why Ramayana Is Succeeding in Kerala Where Most Bollywood Blockbusters Have Struggled",
+      "Weekend Box Office (Nov 20-22, 2026): Sunrise on the Reaping Opens With $120 Million",
+      "Kusha Kapila's ex-husband Zorawar opens up about failed marriage, lost job and house",
+      "Sai Pallavi joins Sri Sathya Sai Baba’s centenary celebrations in Puttaparthi",
+      "Tu Mil Jaaye: Ranveer cheered Deepika; first track from King",
+      "'Happy to be back again': Tiger Shroff on returning to stage more than month after attack on his car"
      ],
      "updated": [],
-     "count": 7,
-     "detail": "+4 articles, +0 box-office rows, 3 rows updated"
+     "count": 313,
+     "detail": "327 stories, 3 duplicates removed, 10 dropped"
     },
     "reason": null
-   },
+   }
+  ],
+  "apply_auto": [
    {
     "step": "apply_auto",
     "category": "Trending News",
@@ -1490,27 +1467,32 @@
      "detail": "+4 articles, +0 box-office rows, 4 rows updated"
     },
     "reason": null
+   },
+   {
+    "step": "apply_auto",
+    "category": "Trending News",
+    "run_at": "2026-11-23T12:52:19Z",
+    "run_id": "45178105546",
+    "status": "success",
+    "checked": {
+     "candidates": 14,
+     "detail": "draft articles + box-office rows from out/gemini-batch.json"
+    },
+    "changed": {
+     "added": [
+      "Sunrise on the Reaping Dominates Weekend Box Office While Ramayana Makes History",
+      "New York Assemblyman Jordan J.G. Wright Responds to Viral Eye Movement Video and Lizard Person Conspiracy Theories",
+      "OM Worldwide Box Office Collection Day 3: Dhanush Gets His Biggest Opening Weekend As Makers Say Film With Mammootty, Sai Pallavi Grosses ₹101 Crore",
+      "New Home Alone Movie Announced With Macaulay Culkin While Remembering Late Cast Members"
+     ],
+     "updated": [],
+     "count": 7,
+     "detail": "+4 articles, +0 box-office rows, 3 rows updated"
+    },
+    "reason": null
    }
   ],
   "ott": [
-   {
-    "step": "ott",
-    "category": "OTT",
-    "run_at": "2026-11-22T14:08:57Z",
-    "run_id": "45029594022",
-    "status": "success",
-    "checked": {
-     "candidates": 412,
-     "detail": "OTT now/coming titles from the published catalogue"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 0,
-     "detail": "now 405, coming 7"
-    },
-    "reason": "no-new-data"
-   },
    {
     "step": "ott",
     "category": "OTT",
@@ -1924,26 +1906,27 @@
      "detail": "now 410, coming 7"
     },
     "reason": "no-new-data"
-   }
-  ],
-  "trending_weekly": [
+   },
    {
-    "step": "trending_weekly",
-    "category": "Trending Topics",
-    "run_at": "2026-11-22T14:52:41Z",
-    "run_id": "45034998404",
+    "step": "ott",
+    "category": "OTT",
+    "run_at": "2026-11-23T12:52:19Z",
+    "run_id": "45178105546",
     "status": "success",
     "checked": {
-     "candidates": 100,
-     "detail": "cached Google RSS trend/article intersection"
+     "candidates": 417,
+     "detail": "OTT now/coming titles from the published catalogue"
     },
     "changed": {
      "added": [],
      "updated": [],
-     "count": 0
+     "count": 0,
+     "detail": "now 410, coming 7"
     },
     "reason": "no-new-data"
-   },
+   }
+  ],
+  "trending_weekly": [
    {
     "step": "trending_weekly",
     "category": "Trending Topics",
@@ -2413,27 +2396,35 @@
      "count": 8
     },
     "reason": null
+   },
+   {
+    "step": "trending_weekly",
+    "category": "Trending Topics",
+    "run_at": "2026-11-23T13:00:13Z",
+    "run_id": "45178105546",
+    "status": "success",
+    "checked": {
+     "candidates": 100,
+     "detail": "cached Google RSS trend/article intersection"
+    },
+    "changed": {
+     "added": [
+      "i6fzr",
+      "1e8ucry",
+      "1k3o2x3",
+      "1kx4fx1",
+      "1yaww0u",
+      "g0ssjx",
+      "4onnrk",
+      "1rth31g"
+     ],
+     "updated": [],
+     "count": 8
+    },
+    "reason": null
    }
   ],
   "multisource_boxoffice": [
-   {
-    "step": "multisource_boxoffice",
-    "category": "Box Office",
-    "run_at": "2026-11-22T14:20:43Z",
-    "run_id": "45029594022",
-    "status": "success",
-    "checked": {
-     "candidates": 739,
-     "detail": "681 collected staging rows from readers; 252 averaged across 2+ sources"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 3,
-     "detail": "+0 new rows, 3 updated rows, 710 unchanged"
-    },
-    "reason": null
-   },
    {
     "step": "multisource_boxoffice",
     "category": "Box Office",
@@ -2847,19 +2838,27 @@
      "detail": "+0 new rows, 4 updated rows, 715 unchanged"
     },
     "reason": null
+   },
+   {
+    "step": "multisource_boxoffice",
+    "category": "Box Office",
+    "run_at": "2026-11-23T12:59:48Z",
+    "run_id": "45178105546",
+    "status": "success",
+    "checked": {
+     "candidates": 745,
+     "detail": "685 collected staging rows from readers; 254 averaged across 2+ sources"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 7,
+     "detail": "+0 new rows, 7 updated rows, 712 unchanged"
+    },
+    "reason": null
    }
   ],
   "gemini_reviews": [
-   {
-    "step": "gemini_reviews",
-    "category": "Reviews",
-    "run_at": "2026-11-22T14:20:53Z",
-    "run_id": "45029594022",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "gemini_reviews",
     "category": "Reviews",
@@ -3096,32 +3095,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "gemini_reviews",
+    "category": "Reviews",
+    "run_at": "2026-11-23T13:00:23Z",
+    "run_id": "45178105546",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "convert_news": [
-   {
-    "step": "convert_news",
-    "category": "Trending News",
-    "run_at": "2026-11-22T14:52:41Z",
-    "run_id": "45034998404",
-    "status": "success",
-    "checked": {
-     "candidates": 600,
-     "detail": "feed entries from out/queue.json"
-    },
-    "changed": {
-     "added": [
-      "Naga Chaitanya Discusses His Admiration for Wife Sobhita Dhulipala and Explains How She Made Him More Spontaneous",
-      "J.A. Bayona, Guneet Monga Kapoor, and Vikas Khanna Board Short Film 'The Dragon Letter' as Executive Producers",
-      "The Mystery of Michael Jackson's Missing Gone With The Wind Oscar",
-      "The Most Controversial Christmas Horror Film Gets a Modern Remake"
-     ],
-     "updated": [],
-     "count": 4,
-     "detail": "api-news.json 600 items, api-trends.json 12 items"
-    },
-    "reason": null
-   },
    {
     "step": "convert_news",
     "category": "Trending News",
@@ -3647,26 +3633,32 @@
      "detail": "api-news.json 600 items, api-trends.json 12 items"
     },
     "reason": null
+   },
+   {
+    "step": "convert_news",
+    "category": "Trending News",
+    "run_at": "2026-11-23T13:00:12Z",
+    "run_id": "45178105546",
+    "status": "success",
+    "checked": {
+     "candidates": 600,
+     "detail": "feed entries from out/queue.json"
+    },
+    "changed": {
+     "added": [
+      "Sunrise on the Reaping Dominates Weekend Box Office While Ramayana Makes History",
+      "New York Assemblyman Jordan J.G. Wright Responds to Viral Eye Movement Video and Lizard Person Conspiracy Theories",
+      "OM Worldwide Box Office Collection Day 3: Dhanush Gets His Biggest Opening Weekend As Makers Say Film With Mammootty, Sai Pallavi Grosses ₹101 Crore",
+      "New Home Alone Movie Announced With Macaulay Culkin While Remembering Late Cast Members"
+     ],
+     "updated": [],
+     "count": 4,
+     "detail": "api-news.json 600 items, api-trends.json 12 items"
+    },
+    "reason": null
    }
   ],
   "episode_guides": [
-   {
-    "step": "episode_guides",
-    "category": "Drama Episodes",
-    "run_at": "2026-11-22T14:08:06Z",
-    "run_id": "45029594022",
-    "status": "success",
-    "checked": {
-     "candidates": 22,
-     "detail": "YouTube episodes on the 4 official PK channels (+ intl 1M+ views); 4 new detected; 3 summary failure(s): Dastoor Ep 85, Aangan Ep 15, Khushi Ep 60"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 0
-    },
-    "reason": "no-new-data"
-   },
    {
     "step": "episode_guides",
     "category": "Drama Episodes",
@@ -3934,19 +3926,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "title_seed": [
+   },
    {
-    "step": "title_seed",
-    "category": "Spotlight / Coming Soon / Most Awaited",
-    "run_at": "2026-11-22T14:20:53Z",
-    "run_id": "45029594022",
+    "step": "episode_guides",
+    "category": "Drama Episodes",
+    "run_at": "2026-11-23T13:00:23Z",
+    "run_id": "45178105546",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "title_seed": [
    {
     "step": "title_seed",
     "category": "Spotlight / Coming Soon / Most Awaited",
@@ -4256,31 +4248,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "title_seed",
+    "category": "Spotlight / Coming Soon / Most Awaited",
+    "run_at": "2026-11-23T13:00:23Z",
+    "run_id": "45178105546",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "gemini_batch": [
-   {
-    "step": "gemini_batch",
-    "category": "Trending News",
-    "run_at": "2026-11-22T14:08:56Z",
-    "run_id": "45029594022",
-    "status": "success",
-    "checked": {
-     "candidates": 4,
-     "detail": "news queue items drafted this run; 243 still unprocessed; today by category: movies 6/6, tv_dramas 7/4, episodes 0/2, box_office 10/6, celebrities_events 15/5, upcoming_releases 3/4, ott_streaming 9/4, trailers 2/3, awards 1/2, music_ost 2/2, viral 1/2"
-    },
-    "changed": {
-     "added": [
-      "Kartik Aaryan Announces New Monster Thriller Kaaliya for 2028 Release on His 36th Birthday",
-      "Why Altered Carbon Outshines Cyberpunk Edgerunners in Sci-Fi Worldbuilding",
-      "Hayley Atwell Teases New Avengers: Doomsday Trailer As Composer Alan Silvestri Finishes Score",
-      "Anne Hathaway and Ewan McGregor Sci-Fi Thriller Becomes Global Streaming Phenomenon on HBO Max"
-     ],
-     "updated": [],
-     "count": 4
-    },
-    "reason": null
-   },
    {
     "step": "gemini_batch",
     "category": "Trending News",
@@ -4786,26 +4766,31 @@
      "count": 4
     },
     "reason": null
+   },
+   {
+    "step": "gemini_batch",
+    "category": "Trending News",
+    "run_at": "2026-11-23T12:52:19Z",
+    "run_id": "45178105546",
+    "status": "success",
+    "checked": {
+     "candidates": 4,
+     "detail": "news queue items drafted this run; 313 still unprocessed; today by category: movies 8/6, tv_dramas 7/4, episodes 0/2, box_office 13/6, celebrities_events 7/5, upcoming_releases 7/4, ott_streaming 5/4, trailers 2/3, awards 2/2, music_ost 2/2, viral 3/2"
+    },
+    "changed": {
+     "added": [
+      "Sunrise on the Reaping Dominates Weekend Box Office While Ramayana Makes History",
+      "New York Assemblyman Jordan J.G. Wright Responds to Viral Eye Movement Video and Lizard Person Conspiracy Theories",
+      "OM Worldwide Box Office Collection Day 3: Dhanush Gets His Biggest Opening Weekend As Makers Say Film With Mammootty, Sai Pallavi Grosses ₹101 Crore",
+      "New Home Alone Movie Announced With Macaulay Culkin While Remembering Late Cast Members"
+     ],
+     "updated": [],
+     "count": 4
+    },
+    "reason": null
    }
   ],
   "overseas_ai": [
-   {
-    "step": "overseas_ai",
-    "category": "Box Office",
-    "run_at": "2026-11-22T14:10:12Z",
-    "run_id": "45029594022",
-    "status": "success",
-    "checked": {
-     "candidates": 58,
-     "detail": "published movies with missing overseas day figures; Tavily searches: 48"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 0
-    },
-    "reason": "no-new-data"
-   },
    {
     "step": "overseas_ai",
     "category": "Box Office",
@@ -5112,19 +5097,19 @@
      "count": 0
     },
     "reason": "no-new-data"
+   },
+   {
+    "step": "overseas_ai",
+    "category": "Box Office",
+    "run_at": "2026-11-23T13:00:23Z",
+    "run_id": "45178105546",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "publish": [
-   {
-    "step": "publish",
-    "category": "Trending News",
-    "run_at": "2026-11-22T14:20:53Z",
-    "run_id": "45029594022",
-    "status": "failed",
-    "checked": null,
-    "changed": null,
-    "reason": "error"
-   },
    {
     "step": "publish",
     "category": "Trending News",
@@ -5424,24 +5409,24 @@
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
-   }
-  ],
-  "stats_traffic": [
+   },
    {
-    "step": "stats_traffic",
-    "category": "Stats / Health",
-    "run_at": "2026-11-22T14:20:53Z",
-    "run_id": "45029594022",
+    "step": "publish",
+    "category": "Trending News",
+    "run_at": "2026-11-23T13:00:23Z",
+    "run_id": "45178105546",
     "status": "success",
     "checked": null,
     "changed": {
      "added": [],
      "updated": [],
-     "count": 26,
+     "count": 416,
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
-   },
+   }
+  ],
+  "stats_traffic": [
    {
     "step": "stats_traffic",
     "category": "Stats / Health",
@@ -5731,19 +5716,24 @@
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
+   },
+   {
+    "step": "stats_traffic",
+    "category": "Stats / Health",
+    "run_at": "2026-11-23T13:00:23Z",
+    "run_id": "45178105546",
+    "status": "success",
+    "checked": null,
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 13,
+     "detail": "lines changed in owned files; no per-item summary from script"
+    },
+    "reason": null
    }
   ],
   "stats_pipeline": [
-   {
-    "step": "stats_pipeline",
-    "category": "Stats / Health",
-    "run_at": "2026-11-22T14:20:53Z",
-    "run_id": "45029594022",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "stats_pipeline",
     "category": "Stats / Health",
@@ -5988,19 +5978,24 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "stats_pipeline",
+    "category": "Stats / Health",
+    "run_at": "2026-11-23T13:00:23Z",
+    "run_id": "45178105546",
+    "status": "success",
+    "checked": null,
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 79,
+     "detail": "lines changed in owned files; no per-item summary from script"
+    },
+    "reason": null
    }
   ],
   "stats_health": [
-   {
-    "step": "stats_health",
-    "category": "Stats / Health",
-    "run_at": "2026-11-22T14:20:53Z",
-    "run_id": "45029594022",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "stats_health",
     "category": "Stats / Health",
@@ -6235,19 +6230,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "metadata_refresh": [
+   },
    {
-    "step": "metadata_refresh",
-    "category": "Spotlight / Coming Soon / Most Awaited",
-    "run_at": "2026-11-22T14:20:53Z",
-    "run_id": "45029594022",
+    "step": "stats_health",
+    "category": "Stats / Health",
+    "run_at": "2026-11-23T13:00:23Z",
+    "run_id": "45178105546",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "metadata_refresh": [
    {
     "step": "metadata_refresh",
     "category": "Spotlight / Coming Soon / Most Awaited",
@@ -6532,19 +6527,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "providers_backfill": [
+   },
    {
-    "step": "providers_backfill",
-    "category": "OTT",
-    "run_at": "2026-11-22T14:20:53Z",
-    "run_id": "45029594022",
+    "step": "metadata_refresh",
+    "category": "Spotlight / Coming Soon / Most Awaited",
+    "run_at": "2026-11-23T13:00:23Z",
+    "run_id": "45178105546",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "providers_backfill": [
    {
     "step": "providers_backfill",
     "category": "OTT",
@@ -6785,19 +6780,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "providers_backfill",
+    "category": "OTT",
+    "run_at": "2026-11-23T13:00:23Z",
+    "run_id": "45178105546",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "tavily_boxoffice": [
-   {
-    "step": "tavily_boxoffice",
-    "category": "Box Office",
-    "run_at": "2026-11-22T14:20:53Z",
-    "run_id": "45029594022",
-    "status": "success",
-    "checked": null,
-    "changed": null,
-    "reason": "no-new-data"
-   },
    {
     "step": "tavily_boxoffice",
     "category": "Box Office",
@@ -7027,19 +7022,19 @@
     "checked": null,
     "changed": null,
     "reason": "no-new-data"
-   }
-  ],
-  "keywords_refresh": [
+   },
    {
-    "step": "keywords_refresh",
-    "category": "Trending News",
-    "run_at": "2026-11-22T14:20:53Z",
-    "run_id": "45029594022",
+    "step": "tavily_boxoffice",
+    "category": "Box Office",
+    "run_at": "2026-11-23T13:00:23Z",
+    "run_id": "45178105546",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "keywords_refresh": [
    {
     "step": "keywords_refresh",
     "category": "Trending News",
@@ -7288,6 +7283,16 @@
     "category": "Trending News",
     "run_at": "2026-11-23T11:59:05Z",
     "run_id": "45168779577",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
+   },
+   {
+    "step": "keywords_refresh",
+    "category": "Trending News",
+    "run_at": "2026-11-23T13:00:23Z",
+    "run_id": "45178105546",
     "status": "skipped",
     "checked": null,
     "changed": null,
@@ -7834,16 +7839,6 @@
    {
     "step": "advance_booking",
     "category": "Box Office",
-    "run_at": "2026-11-22T14:20:53Z",
-    "run_id": "45029594022",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
-   {
-    "step": "advance_booking",
-    "category": "Box Office",
     "run_at": "2026-11-22T14:52:50Z",
     "run_id": "45034998404",
     "status": "skipped",
@@ -8080,19 +8075,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "home_boxoffice_worldwide": [
+   },
    {
-    "step": "home_boxoffice_worldwide",
+    "step": "advance_booking",
     "category": "Box Office",
-    "run_at": "2026-11-22T14:20:53Z",
-    "run_id": "45029594022",
+    "run_at": "2026-11-23T13:00:23Z",
+    "run_id": "45178105546",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "home_boxoffice_worldwide": [
    {
     "step": "home_boxoffice_worldwide",
     "category": "Box Office",
@@ -8357,8 +8352,23 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "home_boxoffice_worldwide",
+    "category": "Box Office",
+    "run_at": "2026-11-23T13:00:23Z",
+    "run_id": "45178105546",
+    "status": "success",
+    "checked": null,
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 8242,
+     "detail": "lines changed in owned files; no per-item summary from script"
+    },
+    "reason": null
    }
   ]
  },
- "updated_at": "2026-11-23T11:59:05Z"
+ "updated_at": "2026-11-23T13:00:23Z"
 }
