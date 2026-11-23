@@ -228837,5 +228837,397 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "2026-11-23T02:00:05.983Z"
+  },
+  "gq9bb4": {
+    "id": "gq9bb4",
+    "type": "news",
+    "headline": "Avinash Mishra Sparks Controversy With Viral Club Video After Breakup With Eisha Singh",
+    "dek": "Popular television personalities Avinash Mishra and Eisha Singh have parted ways, sparking a virtual war among fandoms following a controversial club appearance.",
+    "body": [
+      {
+        "h": "The End of an Adorable Romance",
+        "p": [
+          "Avinash Mishra and Eisha Singh were once celebrated as an adorable couple who captured the hearts of television audiences. Their relationship blossomed to the point where Avinash, recognized as the KKK15 winner, openly confessed his love for Eisha at a celebratory gathering just over a month ago.",
+          "However, that romantic chapter has officially closed, leaving fans stunned as the high-profile romance dissolved into a messy public split."
+        ]
+      },
+      {
+        "h": "Unfollowing and Online Speculation",
+        "p": [
+          "The first public indication of trouble in paradise emerged when Eisha Singh unfollowed Avinash Mishra on social media. This digital snub immediately triggered a wave of speculation across various platforms regarding what ultimately went wrong between the two stars.",
+          "As details trickled out, rumors began circulating that Avinash had cheated on Eisha, leaving the actress deeply heartbroken and setting the stage for a bitter offline fallout."
+        ]
+      },
+      {
+        "h": "Fandom Wars and Blame Game",
+        "p": [
+          "The breakup quickly escalated beyond personal heartache into a full-scale digital conflict. Avinash's loyal supporters rushed to defend him, placing the blame squarely on Eisha for the collapse of their relationship.",
+          "Conversely, Eisha's supporters rallied around the actress, creating a virtual war zone across social media channels where opposing fandoms relentlessly argued over who was at fault."
+        ]
+      },
+      {
+        "h": "The Viral Club Video",
+        "p": [
+          "Tensions reached a new height when a fresh video featuring Avinash Mishra surfaced on the internet, quickly going viral. The footage captures the actor at a party club taking over the stage while the track 'Bewafa Nikli Hai Tu' plays in the background.",
+          "While vibing to the music, Avinash made a pointed remark to the crowd, stating that personal life complications call for precisely that kind of music, immediately drawing widespread public attention."
+        ]
+      },
+      {
+        "h": "Lyrics Fueling the Rumors",
+        "p": [
+          "Avinash's performance did not stop at the initial track, as he was also spotted singing another telling song, 'Jhootha Pyar Kita Hai Tu'. Fans quickly interpreted these musical choices as direct jabs at Eisha.",
+          "Many observers believed the performance was his way of indicating that he was the heartbroken party who had been ditched and deceived in the relationship."
+        ]
+      },
+      {
+        "h": "Leaked Audio From Eisha's Mother",
+        "p": [
+          "Adding fuel to the fire, an alleged audio clip featuring Eisha Singh's mother, Rekha Singh, circulated widely online. In the recording, Rekha accused Avinash of cheating on her daughter and detailed the heavy emotional toll the situation took on their family.",
+          "She expressed sorrow over the pain Eisha endured and discussed how the household had struggled to keep the actress's spirits calm amidst the turbulent atmosphere."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Television stars Avinash Mishra and Eisha Singh have ended their relationship amid allegations of cheating and heartbreak. Following social media unfollowing and a viral video of Avinash at a club, opposing fandoms continue to clash online."
+        ]
+      }
+    ],
+    "facts": [
+      "Avinash Mishra is a KKK15 winner.",
+      "Eisha Singh unfollowed Avinash Mishra on social media.",
+      "Rekha Singh is the mother of Eisha Singh.",
+      "The story was first published on November 23, 2026."
+    ],
+    "entities": {
+      "people": [
+        "Avinash Mishra",
+        "Eisha Singh",
+        "Rekha Singh"
+      ],
+      "titles": []
+    },
+    "keywords": [
+      "Avinash Mishra",
+      "Eisha Singh",
+      "Avinash Mishra Eisha Singh break up",
+      "Rekha Singh audio clip"
+    ],
+    "images": [
+      {
+        "url": "https://images.filmibeat.com/img/2026/11/avinashvideofeature-49901795423343.jpg",
+        "caption": "Avinash Mishra Sparks Controversy With Viral Club Video After Breakup With Eisha Singh",
+        "source": "FilmiBeat"
+      }
+    ],
+    "published": "Mon, 23 Nov 2026 14:16:25 +0530"
+  },
+  "oaeptf": {
+    "id": "oaeptf",
+    "type": "news",
+    "headline": "You Can See Everything Shatters U.K. Box Office Records With Historic Documentary Opening",
+    "dek": "A24’s Elizabeth Holmes documentary has achieved the largest opening weekend for a non-concert documentary in British box office history.",
+    "body": [
+      {
+        "h": "Record-Breaking U.K. Debut",
+        "p": [
+          "The documentary feature You Can See Everything has made waves across the United Kingdom and Ireland, securing the highest-grossing opening weekend ever recorded for a non-concert documentary in the region. Released on November 20, the film pulled in an estimated $3.2 million during its initial launch.",
+          "This strong performance easily outpaced previous benchmarks, including Michael Moore’s Fahrenheit 9/11, which previously held the record with a $1.7 million opening back in 2004 before adjusting for inflation."
+        ]
+      },
+      {
+        "h": "Widest Release for a Non-Concert Doc",
+        "p": [
+          "Beyond its financial success, the film established a distribution milestone by securing the widest U.K. release in history for a documentary that is not a concert film. It debuted across approximately 596 locations.",
+          "The massive footprint allowed the studio to meet immense consumer appetite, placing the feature on track to secure the second spot at the U.K. box office in its opening week, trailing only the new entry The Hunger Games: Sunrise on the Reaping."
+        ]
+      },
+      {
+        "h": "Focus on Elizabeth Holmes and Silicon Valley",
+        "p": [
+          "Directed by Lance Oppenheim and Nathan Fielder, the feature dives into the high-profile rise and fall of Theranos fraudster Elizabeth Holmes. Despite focusing on a disgraced Silicon Valley figure who was not traditionally a household name in the U.K., the subject matter drew intense curiosity.",
+          "The film runs for three hours, presenting a comprehensive look at the corporate scandal that captivated global audiences and translated into massive theatrical ticket sales overseas."
+        ]
+      },
+      {
+        "h": "Massive U.S. Success Precedes Launch",
+        "p": [
+          "The international triumph follows a dominant run in North America, where the A24 release amassed over $90 million following five weeks in cinemas.",
+          "This prior momentum helped fuel anticipation abroad, creating a strong foundation for the picture to break records upon crossing the Atlantic."
+        ]
+      },
+      {
+        "h": "Pre-Sales and Theater Sellouts",
+        "p": [
+          "Anticipation for the project built rapidly following a surprise world premiere at Telluride. U.K. cinemas began reporting sold-out ticket pre-sales more than a month ahead of the official premiere date.",
+          "A24 recorded its highest U.K. pre-sales ever for the title. With theater sellouts continuing to climb and reaching a count of 790 theaters, audience demand remained exceptionally high."
+        ]
+      },
+      {
+        "h": "Milestones for A24 in Britain",
+        "p": [
+          "For studio A24, the picture represents their second-biggest U.K. opening to date. It sits just behind Backrooms, which launched earlier in the year with $5.6 million.",
+          "Industry analysts note that the strategic decision to release the film widely all at once in the region, rather than utilizing a staggered rollout, contributed significantly to the financial triumph."
+        ]
+      },
+      {
+        "h": "Looking Ahead at Lifetime Totals",
+        "p": [
+          "With strong ongoing ticket sales, You Can See Everything is positioned to overtake previous non-music documentary totals in the U.K. market. It aims to surpass March of the Penguins at $4.3 million and Amy at $5 million.",
+          "Once those milestones are cleared, the feature can target the overall U.K. box office benchmark set by Fahrenheit 9/11 at $8.5 million."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "You Can See Everything set a record for the largest opening weekend for a non-concert documentary in the U.K. and Ireland with an estimated $3.2 million. Directed by Lance Oppenheim and Nathan Fielder, the A24 film about Elizabeth Holmes achieved the widest U.K. release for a non-concert doc across 596 locations."
+        ]
+      }
+    ],
+    "facts": [
+      "You Can See Everything earned an estimated $3.2 million in the U.K. and Ireland.",
+      "The film was released on November 20.",
+      "The film opened in around 596 locations.",
+      "Fahrenheit 9/11 opened with $1.7 million in 2004 and has an overall total of $8.5 million.",
+      "Backrooms launched to $5.6 million earlier in the year.",
+      "The film's U.S. total stands at more than $90 million after 5 weeks.",
+      "March of the Penguins earned $4.3 million.",
+      "Amy earned $5 million.",
+      "The current sellout count stands at 790 theaters."
+    ],
+    "entities": {
+      "people": [
+        "Elizabeth Holmes",
+        "Lance Oppenheim",
+        "Nathan Fielder",
+        "Michael Moore"
+      ],
+      "titles": [
+        "You Can See Everything",
+        "Fahrenheit 9/11",
+        "The Hunger Games: Sunrise on the Reaping",
+        "Backrooms",
+        "March of the Penguins",
+        "Amy"
+      ]
+    },
+    "keywords": [
+      "You Can See Everything film",
+      "You Can See Everything UK box office",
+      "Elizabeth Holmes documentary A24",
+      "Lance Oppenheim Nathan Fielder documentary"
+    ],
+    "images": [
+      {
+        "url": "https://variety.com/wp-content/uploads/2026/09/Screenshot-2026-09-06-at-7.57.52-PM.webp?w=1000&#038;h=563&#038;crop=1",
+        "caption": "You Can See Everything Shatters U.K. Box Office Records With Historic Documentary Opening",
+        "source": "Variety"
+      }
+    ],
+    "published": "Mon, 23 Nov 2026 09:09:00 +0000"
+  },
+  "yolxyt": {
+    "id": "yolxyt",
+    "type": "news",
+    "headline": "‘Ramayana: Part 1’ Box Office Collection Day 19: Ranbir Kapoor and Yash starrer crosses major milestone",
+    "dek": "Nitesh Tiwari's cinematic spectacle continues its impressive theatrical run, pulling in steady numbers across India and approaching elite box office clubs.",
+    "body": [
+      {
+        "h": "A Grand Theatrical Debut",
+        "p": [
+          "Released during the festive Diwali season, director Nitesh Tiwari's grand project 'Ramayana: Part 1' instantly captured the attention of moviegoers nationwide. Right from its opening days, the feature attracted massive crowds to cinema halls across the country. Audiences flocked in huge numbers to experience the grand mythological retelling on the big screen, establishing an exceptional momentum that carried forward for weeks.",
+          "The film's wide appeal helped secure massive audience turnout, driven heavily by anticipation surrounding its scale and star-studded lineup. Exhibitors reported packed auditoriums during opening week, setting the stage for a remarkably resilient theatrical journey."
+        ]
+      },
+      {
+        "h": "Stellar Star Cast and Crew",
+        "p": [
+          "The movie features a massive ensemble cast led by Ranbir Kapoor portraying Lord Ram, Sai Pallavi as Sita, and Yash stepping into the role of Ravana. Additionally, Ravie Dubey plays Lakshman, supported by a diverse group of prominent actors including Arun Govil, Ajinkya Deo, Vivek Oberoi, Rakul Preet Singh, Kajal Aggarwal, Sheeba Chaddha, Indira Krishan, Shobana, Lara Dutta, Adinath Kothare, and Kunal Kapoor.",
+          "Helmed by Nitesh Tiwari, the production has drawn significant praise for its casting choices. Following the success of the first installment, plans for the continuation are already in motion, with the second part tentatively slated for a Diwali 2028 release."
+        ]
+      },
+      {
+        "h": "Day 19 Box Office Performance",
+        "p": [
+          "Continuing its steady run into the third week, the feature recorded an India net collection of Rs 2.19 crore by early afternoon on Day 19, according to trade data provided by Sacnilk. This brings the cumulative domestic net earnings to a massive Rs 944.94 crore.",
+          "Furthermore, the total gross collection within India has climbed to an impressive Rs 1,129.08 crore. These figures underscore the continued drawing power of the film even on a typically slower weekday deep into its theatrical run."
+        ]
+      },
+      {
+        "h": "Breakdown of Weekdays and Weekends",
+        "p": [
+          "The box office trajectory shows immense strength across its initial weeks, starting with a dominant Week 1 collection of Rs 564.60 crore. This momentum extended into Week 2, which added another Rs 299.15 crore to the overall tally.",
+          "As the feature entered its third week, daily tallies remained remarkably robust. Day 16 brought in Rs 15.75 crore, followed by Rs 26.65 crore on Day 17, and a stellar Rs 35.60 crore on Day 18 across 16,277 shows, proving that word-of-mouth remained exceptionally strong."
+        ]
+      },
+      {
+        "h": "Multilingual Language Dominance",
+        "p": [
+          "The multilingual release strategy significantly bolstered the overall box office performance. On Day 18 alone, the Hindi version spearheaded the earnings with Rs 26.25 crore collected from 13,852 shows.",
+          "Regional versions also contributed meaningfully to the multi-crore daily totals. The Malayalam version brought in Rs 3.40 crore, the Kannada version added Rs 2.50 crore, Tamil contributed Rs 2.40 crore, and the Telugu version accounted for Rs 1.05 crore."
+        ]
+      },
+      {
+        "h": "Approaching Elite Industry Milestones",
+        "p": [
+          "Having successfully surpassed the Rs 900 crore mark in India net collections earlier in its run, the feature is now positioned comfortably among the highest-earning Indian films of all time. It stands just a single step away from entering an exclusive tier achieved by only a select handful of cinematic projects.",
+          "Trade analysts view this achievement as a testament to the enduring commercial viability of grand mythological dramas when backed by high production values and widespread pan-Indian appeal."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Nitesh Tiwari's 'Ramayana: Part 1', starring Ranbir Kapoor, Yash, and Sai Pallavi, has reached Rs 944.94 crore in India net collections by Day 19. Backed by strong multilingual earnings and a massive cast, the film continues to draw audiences in theatres since its Diwali release."
+        ]
+      }
+    ],
+    "facts": [
+      "Released on November 5, 2026",
+      "Day 19 collection is Rs 2.19 crore India net",
+      "Total India net collection is Rs 944.94 crore",
+      "Total India gross collection is Rs 1,129.08 crore",
+      "Week 1 collection is Rs 564.60 crore",
+      "Week 2 collection is Rs 299.15 crore",
+      "Day 18 collection across languages was Rs 35.60 crore from 16,277 shows"
+    ],
+    "entities": {
+      "people": [
+        "Ranbir Kapoor",
+        "Sai Pallavi",
+        "Yash",
+        "Nitesh Tiwari",
+        "Ravie Dubey",
+        "Arun Govil",
+        "Ajinkya Deo",
+        "Vivek Oberoi",
+        "Rakul Preet Singh",
+        "Kajal Aggarwal",
+        "Sheeba Chaddha",
+        "Indira Krishan",
+        "Shobana",
+        "Lara Dutta",
+        "Adinath Kothare",
+        "Kunal Kapoor"
+      ],
+      "titles": [
+        "Ramayana: Part 1"
+      ]
+    },
+    "keywords": [
+      "Ramayana Part 1 box office",
+      "Ranbir Kapoor Ramayana collection",
+      "Ramayana Day 19 collection",
+      "Nitesh Tiwari Ramayana movie"
+    ],
+    "images": [
+      {
+        "url": "https://static.toiimg.com/thumb/msid-136096270,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "caption": "‘Ramayana: Part 1’ Box Office Collection Day 19: Ranbir Kapoor and Yash starrer crosses major milestone",
+        "source": "Times of India — Entertainment"
+      }
+    ],
+    "published": "2026-11-23T14:44:49+05:30"
+  },
+  "1azo3o4": {
+    "id": "1azo3o4",
+    "type": "news",
+    "headline": "King Charles III and Idris Elba Team Up for Netflix Documentary About The King's Trust",
+    "dek": "Global superstar Idris Elba and King Charles III are collaborating on a new Netflix documentary titled The Trust, launching on Boxing Day to mark 50 years of The King's Trust.",
+    "body": [
+      {
+        "h": "Collaborating on Netflix",
+        "p": [
+          "Global superstar Idris Elba has partnered with King Charles III for a brand new Netflix documentary project. The feature highlights the impactful work carried out by The King's Trust, showcasing a unique collaboration between the actor and his Majesty.",
+          "A newly released trailer for the project begins with Elba reflecting on alternative life paths, noting how his Majesty helped shape his own glittering career in the entertainment industry."
+        ]
+      },
+      {
+        "h": "Release Details and Milestone",
+        "p": [
+          "The upcoming documentary, simply titled The Trust, is scheduled to premiere globally on Boxing Day. Its release coincides with a major milestone, celebrating 50 years since the inception of the organization.",
+          "Throughout the feature, Elba explores how life has evolved for young people over the decades, emphasizing the ongoing mission of the charitable foundation."
+        ]
+      },
+      {
+        "h": "Elba's Personal Connection",
+        "p": [
+          "Growing up in East London, Idris Elba was a direct beneficiary of the organization, receiving a crucial grant that helped launch his professional acting career. His personal history forms an emotional anchor for the documentary.",
+          "Filmed over the course of an entire year, the production captures how the Trust has successfully aided more than 1.5 million young people globally, equipping them with the confidence and essential skills needed for the workforce."
+        ]
+      },
+      {
+        "h": "History of The King's Trust",
+        "p": [
+          "The organization was originally founded in 1976 as the Prince's Trust by then-Prince Charles. Over the past five decades, it has garnered support from numerous prominent public figures.",
+          "Celebrity backers associated with the Trust over the years include Benedict Cumberbatch, Gemma Arterton, and Gary Lineker, alongside Elba himself."
+        ]
+      },
+      {
+        "h": "Production Team and Crew",
+        "p": [
+          "The movie is produced under Idris Elba's independent banner, 22 Summers. Elba runs the production company alongside partners Diene Petterle and Gina Carter.",
+          "Behind the scenes, Clare Bradbury serves as the showrunner, while Diene Petterle, Eva Omaghomi, and Jonathan Smith act as executive producers. The film is directed by Ashley Francis-Roy."
+        ]
+      },
+      {
+        "h": "Reflections on Opportunity",
+        "p": [
+          "Discussing the core message of the project, Idris Elba highlighted the global struggle for opportunity, stating that millions around the world are still waiting for that one single door to open.",
+          "He added that the documentary serves to shine a light on what is truly possible when those doors do open, reinforcing why the ongoing work of the organization remains vital."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Idris Elba and King Charles III have united for a Netflix documentary titled The Trust, which premieres on Boxing Day to mark the 50th anniversary of The King's Trust. Filmed over a year, the project highlights Elba's personal roots in East London and the organization's widespread impact on over 1.5 million young people."
+        ]
+      }
+    ],
+    "facts": [
+      "King Charles III founded the Trust as the Prince's Trust in 1976.",
+      "The Netflix documentary is titled The Trust and launches on Boxing Day.",
+      "The documentary marks 50 years of the King's Trust.",
+      "The Trust has helped more than 1.5 million young people around the world.",
+      "Idris Elba grew up in East London and received a Trust grant that helped launch his acting career.",
+      "The movie is produced by Elba’s indie 22 Summers alongside Diene Petterle and Gina Carter.",
+      "Clare Bradbury is showrunning the project.",
+      "Diene Petterle, Eva Omaghomi, and Jonathan Smith are executive producers.",
+      "Ashley Francis-Roy is the director of the documentary.",
+      "Other celebrity backers of the Trust include Benedict Cumberbatch, Gemma Arterton, and Gary Lineker."
+    ],
+    "entities": {
+      "people": [
+        "Idris Elba",
+        "King Charles III",
+        "Diene Petterle",
+        "Gina Carter",
+        "Clare Bradbury",
+        "Eva Omaghomi",
+        "Jonathan Smith",
+        "Ashley Francis-Roy",
+        "Benedict Cumberbatch",
+        "Gemma Arterton",
+        "Gary Lineker"
+      ],
+      "titles": [
+        "The Trust",
+        "The King's Trust",
+        "Prince's Trust"
+      ]
+    },
+    "keywords": [
+      "Idris Elba King Charles Netflix documentary",
+      "The King's Trust documentary Netflix",
+      "The Trust Idris Elba King Charles III",
+      "Idris Elba 22 Summers Netflix"
+    ],
+    "images": [
+      {
+        "url": "https://deadline.com/wp-content/uploads/2026/11/thetrustuniversal-base_na_25_zxx.jpg?w=1024",
+        "caption": "King Charles III and Idris Elba Team Up for Netflix Documentary About The King's Trust",
+        "source": "Deadline"
+      }
+    ],
+    "published": "Mon, 23 Nov 2026 09:06:43 +0000"
   }
 };

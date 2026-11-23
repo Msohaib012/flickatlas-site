@@ -4,45 +4,6 @@
    {
     "step": "fetch",
     "category": "Trending News",
-    "run_at": "2026-11-22T10:12:19Z",
-    "run_id": "45011227364",
-    "status": "success",
-    "checked": {
-     "candidates": 209,
-     "detail": "RSS/Atom items across 137 sources; 0 source(s) errored"
-    },
-    "changed": {
-     "added": [
-      "Kaziah Liz Mejo's Miss Universe 2026 National Costume Explained: Kerala Heritage, Indian Textiles & Designer",
-      "I Play Rocky North America Box Office: From 29 To 2,477 Theaters, Sylvester Stallone Biopic Makes A Strong Nationwide Push!",
-      "ENE Repeat Worldwide Box Office: Registers Vishwak Sen’s Highest-Grossing Film Ever In Just 3 Days!",
-      "Dhanush's absence at Anirudh-Kavya's wedding reception sparks rift rumours",
-      "'Ramayana' box office Day 18 [LIVE]: Ranbir starrer is set to cross Rs 935 crore net in India",
-      "Sachin says Ranveer Singh could make good cricketer",
-      "‘Mysaa’ postponed: Makers explain reason behind Rashmika Mandanna’s film delay",
-      "Drishyam The Conclusion OTT release: Ajay Devgn’s film to premiere on Netflix on November 27 after  ₹589 crore box office success worldwide",
-      "Global Peace Honours: Shah Rukh Khan, Ranveer Singh, Akshay Kumar, Amruta Fadnavis celebrate peace and patriotism",
-      "O.M Box Office Day 2: Dhanush, Sai Pallavi Starrer Sees Dip, Crosses Rs 33 Cr",
-      "Matt Damon’s $630M Sci-Fi Masterpiece Officially Reaches a Major Streaming Milestone",
-      "Guy Ritchie’s ‘The Gentlemen’ Season 3 Officially Lands Its First Major Update",
-      "Guy Ritchie's 129-Minute Mystery Thriller Officially Returns to HBO Max",
-      "SXSW Forges Partnership With Egypt’s UTH Festival Dedicated to Youth Culture",
-      "Neon-Backed Biopic ‘Caesar,’ About Syrian Officer Who Blew the Whistle on Assad Regime Torture, to Be Directed by Ameer Fakher Eldin",
-      "POLL: What are you watching Tonight? - 22nd November 2026",
-      "Hadi Itna Gussa!! Tum tou aise nahi they 😔 | Rutba | ARY Digital Drama",
-      "Mera Ghar #shorts #arydigital",
-      "Mere baap ne mujhe sone se laad diya tha 😍 | Dar e Nijaat | ARY Digital Drama",
-      "Hadi se Mulaqatein tou hoti rahengi 😱 | Rutba | ARY Digital Drama"
-     ],
-     "updated": [],
-     "count": 203,
-     "detail": "209 stories, 0 duplicates removed, 0 dropped"
-    },
-    "reason": null
-   },
-   {
-    "step": "fetch",
-    "category": "Trending News",
     "run_at": "2026-11-22T11:51:49Z",
     "run_id": "45019280517",
     "status": "success",
@@ -936,32 +897,48 @@
      "detail": "229 stories, 0 duplicates removed, 0 dropped"
     },
     "reason": null
-   }
-  ],
-  "apply_auto": [
+   },
    {
-    "step": "apply_auto",
+    "step": "fetch",
     "category": "Trending News",
-    "run_at": "2026-11-22T11:52:19Z",
-    "run_id": "45019280517",
+    "run_at": "2026-11-23T09:51:50Z",
+    "run_id": "45150647069",
     "status": "success",
     "checked": {
-     "candidates": 15,
-     "detail": "draft articles + box-office rows from out/gemini-batch.json"
+     "candidates": 263,
+     "detail": "RSS/Atom items across 137 sources; 3 source(s) errored"
     },
     "changed": {
      "added": [
-      "Tamil Nadu CM Thalapathy Vijay catches eyes with a Rs 3.67 lakh royal outfit at high-profile reception",
-      "Avengers: Doomsday Weekend Advance Booking Crosses Major Milestones In India",
-      "BBC Issues Apology After Explicit Audio Disrupts Live Broadcast of Strictly Come Dancing",
-      "Ramayana Kerala Box Office Collection Day 18: Ranbir Kapoor and Yash Starrer Nears 70 Crore Milestone"
+      "Ramayana: Part 1 Day 19 Box Office Collection: Early Estimates, Occupancy & Total Earnings",
+      "Bigg Boss 20: Manish Goel exits Salman Khan-hosted show due to leg injury",
+      "Avinash-Eisha Break Up: KKK15 Winner Takes A Jibe At Eisha Post Break Up; Grooves To 'Bewafa Nikli Tu' - WATCH",
+      "Trisha Krishnan Political Entry Buzz: Fans Launch New Organisation In Tamil Nadu, Actress Yet To Respond",
+      "Bachelor Party Deux Box Office: Trails Amal Neerad & Kunchacko Boban’s Bougainvillea By 67% In Opening Weekend",
+      "Gene Hackman’s Legendary Career Ended With A 13% Rotten Tomatoes Rom-Com He Wasn’t Even Supposed To Be In",
+      "Shah Rukh Khan's King Trailer Reportedly Set for December 14, Just 10 Days Before Christmas Release",
+      "Ramayana Box Office Day 19 LIVE: Ranbir's film set to cross Rs 950 crore net",
+      "Ravana Tandav: Rahman revised track up to 13 times",
+      "‘Delivery Boy’: Makers introduce Aravind as Sethu ahead of November 27 release",
+      "Ram Gopal Varma says real-life powerful men don’t need six-pack abs",
+      "Love & War to feature Sunidhi's Love Me Like A Dog",
+      "Guru Randhawa talks stage comeback as he admits controversies left him lonely and scared, calls Sirra row 'lesson in humility' | HT Exclusive",
+      "Sobhita Dhulipala wishes ‘lover’ Naga Chaitanya on 40th birthday with romantic pictures, goofy video",
+      "Trisha as Jayalalithaa's heir? Fans launch forum, hope she joins CM Vijay in politics",
+      "PM Modi references Ramayana's appeal among youth at joint briefing with Nepal PM",
+      "Prabhas joins Minister Kishan Reddy's Nasha Mukt Bharat campaign in Hyderabad",
+      "Ramayana Box Office Day 18: Ranbir Kapoor, Yash Starrer Earns Over Rs 35 Cr On Third Sunday",
+      "Tracker Season 4 Episode 8 Trailer Brings a Colter Shaw Special for Thanksgiving Weekend",
+      "Michael Rapaport Wants NBC To Fire Bowen Yang, but There’s a Catch"
      ],
      "updated": [],
-     "count": 8,
-     "detail": "+4 articles, +0 box-office rows, 4 rows updated"
+     "count": 248,
+     "detail": "254 stories, 1 duplicates removed, 9 dropped"
     },
     "reason": null
-   },
+   }
+  ],
+  "apply_auto": [
    {
     "step": "apply_auto",
     "category": "Trending News",
@@ -1490,27 +1467,32 @@
      "detail": "+4 articles, +0 box-office rows, 3 rows updated"
     },
     "reason": null
+   },
+   {
+    "step": "apply_auto",
+    "category": "Trending News",
+    "run_at": "2026-11-23T09:52:15Z",
+    "run_id": "45150647069",
+    "status": "success",
+    "checked": {
+     "candidates": 15,
+     "detail": "draft articles + box-office rows from out/gemini-batch.json"
+    },
+    "changed": {
+     "added": [
+      "Avinash Mishra Sparks Controversy With Viral Club Video After Breakup With Eisha Singh",
+      "You Can See Everything Shatters U.K. Box Office Records With Historic Documentary Opening",
+      "‘Ramayana: Part 1’ Box Office Collection Day 19: Ranbir Kapoor and Yash starrer crosses major milestone",
+      "King Charles III and Idris Elba Team Up for Netflix Documentary About The King's Trust"
+     ],
+     "updated": [],
+     "count": 8,
+     "detail": "+4 articles, +1 box-office rows, 3 rows updated"
+    },
+    "reason": null
    }
   ],
   "ott": [
-   {
-    "step": "ott",
-    "category": "OTT",
-    "run_at": "2026-11-22T10:13:01Z",
-    "run_id": "45011227364",
-    "status": "success",
-    "checked": {
-     "candidates": 412,
-     "detail": "OTT now/coming titles from the published catalogue"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 0,
-     "detail": "now 405, coming 7"
-    },
-    "reason": "no-new-data"
-   },
    {
     "step": "ott",
     "category": "OTT",
@@ -1924,30 +1906,27 @@
      "detail": "now 410, coming 7"
     },
     "reason": "no-new-data"
+   },
+   {
+    "step": "ott",
+    "category": "OTT",
+    "run_at": "2026-11-23T09:52:16Z",
+    "run_id": "45150647069",
+    "status": "success",
+    "checked": {
+     "candidates": 417,
+     "detail": "OTT now/coming titles from the published catalogue"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 0,
+     "detail": "now 410, coming 7"
+    },
+    "reason": "no-new-data"
    }
   ],
   "trending_weekly": [
-   {
-    "step": "trending_weekly",
-    "category": "Trending Topics",
-    "run_at": "2026-11-22T12:03:59Z",
-    "run_id": "45019280517",
-    "status": "success",
-    "checked": {
-     "candidates": 100,
-     "detail": "cached Google RSS trend/article intersection"
-    },
-    "changed": {
-     "added": [
-      "1u8ats9",
-      "9osenp",
-      "1d0uyzi"
-     ],
-     "updated": [],
-     "count": 3
-    },
-    "reason": null
-   },
    {
     "step": "trending_weekly",
     "category": "Trending Topics",
@@ -2393,27 +2372,34 @@
      "count": 0
     },
     "reason": "no-new-data"
+   },
+   {
+    "step": "trending_weekly",
+    "category": "Trending Topics",
+    "run_at": "2026-11-23T10:08:23Z",
+    "run_id": "45150647069",
+    "status": "success",
+    "checked": {
+     "candidates": 100,
+     "detail": "cached Google RSS trend/article intersection"
+    },
+    "changed": {
+     "added": [
+      "1e8ucry",
+      "1k3o2x3",
+      "g0ssjx",
+      "4onnrk",
+      "1rth31g",
+      "ovjjrn",
+      "8u9d4d"
+     ],
+     "updated": [],
+     "count": 7
+    },
+    "reason": null
    }
   ],
   "multisource_boxoffice": [
-   {
-    "step": "multisource_boxoffice",
-    "category": "Box Office",
-    "run_at": "2026-11-22T10:13:02Z",
-    "run_id": "45011227364",
-    "status": "success",
-    "checked": {
-     "candidates": 739,
-     "detail": "681 collected staging rows from readers; 252 averaged across 2+ sources"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 3,
-     "detail": "+0 new rows, 3 updated rows, 710 unchanged"
-    },
-    "reason": null
-   },
    {
     "step": "multisource_boxoffice",
     "category": "Box Office",
@@ -2827,19 +2813,27 @@
      "detail": "+0 new rows, 4 updated rows, 715 unchanged"
     },
     "reason": null
+   },
+   {
+    "step": "multisource_boxoffice",
+    "category": "Box Office",
+    "run_at": "2026-11-23T10:07:50Z",
+    "run_id": "45150647069",
+    "status": "success",
+    "checked": {
+     "candidates": 745,
+     "detail": "685 collected staging rows from readers; 254 averaged across 2+ sources"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 4,
+     "detail": "+0 new rows, 4 updated rows, 715 unchanged"
+    },
+    "reason": null
    }
   ],
   "gemini_reviews": [
-   {
-    "step": "gemini_reviews",
-    "category": "Reviews",
-    "run_at": "2026-11-22T10:13:13Z",
-    "run_id": "45011227364",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "gemini_reviews",
     "category": "Reviews",
@@ -3076,32 +3070,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "gemini_reviews",
+    "category": "Reviews",
+    "run_at": "2026-11-23T10:08:33Z",
+    "run_id": "45150647069",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "convert_news": [
-   {
-    "step": "convert_news",
-    "category": "Trending News",
-    "run_at": "2026-11-22T12:03:58Z",
-    "run_id": "45019280517",
-    "status": "success",
-    "checked": {
-     "candidates": 600,
-     "detail": "feed entries from out/queue.json"
-    },
-    "changed": {
-     "added": [
-      "Avengers: Doomsday Weekend Advance Booking Crosses Major Milestones In India",
-      "BBC Issues Apology After Explicit Audio Disrupts Live Broadcast of Strictly Come Dancing",
-      "Ramayana Kerala Box Office Collection Day 18: Ranbir Kapoor and Yash Starrer Nears 70 Crore Milestone",
-      "Tamil Nadu CM Thalapathy Vijay catches eyes with a Rs 3.67 lakh royal outfit at high-profile reception"
-     ],
-     "updated": [],
-     "count": 4,
-     "detail": "api-news.json 600 items, api-trends.json 12 items"
-    },
-    "reason": null
-   },
    {
     "step": "convert_news",
     "category": "Trending News",
@@ -3627,19 +3608,32 @@
      "detail": "api-news.json 600 items, api-trends.json 12 items"
     },
     "reason": null
+   },
+   {
+    "step": "convert_news",
+    "category": "Trending News",
+    "run_at": "2026-11-23T10:08:22Z",
+    "run_id": "45150647069",
+    "status": "success",
+    "checked": {
+     "candidates": 600,
+     "detail": "feed entries from out/queue.json"
+    },
+    "changed": {
+     "added": [
+      "Avinash Mishra Sparks Controversy With Viral Club Video After Breakup With Eisha Singh",
+      "You Can See Everything Shatters U.K. Box Office Records With Historic Documentary Opening",
+      "King Charles III and Idris Elba Team Up for Netflix Documentary About The King's Trust",
+      "‘Ramayana: Part 1’ Box Office Collection Day 19: Ranbir Kapoor and Yash starrer crosses major milestone"
+     ],
+     "updated": [],
+     "count": 4,
+     "detail": "api-news.json 600 items, api-trends.json 12 items"
+    },
+    "reason": null
    }
   ],
   "episode_guides": [
-   {
-    "step": "episode_guides",
-    "category": "Drama Episodes",
-    "run_at": "2026-11-22T10:13:13Z",
-    "run_id": "45011227364",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "episode_guides",
     "category": "Drama Episodes",
@@ -3914,19 +3908,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "title_seed": [
+   },
    {
-    "step": "title_seed",
-    "category": "Spotlight / Coming Soon / Most Awaited",
-    "run_at": "2026-11-22T10:13:13Z",
-    "run_id": "45011227364",
+    "step": "episode_guides",
+    "category": "Drama Episodes",
+    "run_at": "2026-11-23T10:08:33Z",
+    "run_id": "45150647069",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "title_seed": [
    {
     "step": "title_seed",
     "category": "Spotlight / Coming Soon / Most Awaited",
@@ -4236,31 +4230,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "title_seed",
+    "category": "Spotlight / Coming Soon / Most Awaited",
+    "run_at": "2026-11-23T10:08:33Z",
+    "run_id": "45150647069",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "gemini_batch": [
-   {
-    "step": "gemini_batch",
-    "category": "Trending News",
-    "run_at": "2026-11-22T10:13:00Z",
-    "run_id": "45011227364",
-    "status": "success",
-    "checked": {
-     "candidates": 6,
-     "detail": "news queue items drafted this run; 203 still unprocessed; today by category: movies 6/6, tv_dramas 6/4, episodes 0/2, box_office 7/6, celebrities_events 14/5, upcoming_releases 2/4, ott_streaming 5/4, trailers 1/3, awards 0/2, music_ost 2/2, viral 1/2"
-    },
-    "changed": {
-     "added": [
-      "Former Los Angeles Resident Convicted for Igniting the Historic Palisades Fire",
-      "Ramya Explains Why CM Vijay Won 2026 Tamil Nadu Polls: He Resonates With People",
-      "Congress MP Imran Masood Alleges Mohammad Siraj Ousted From Team Over Religion",
-      "Leslie Jones Reflects on Her Unconventional Comedy Journey, SNL Stint, and Life Advice"
-     ],
-     "updated": [],
-     "count": 4
-    },
-    "reason": null
-   },
    {
     "step": "gemini_batch",
     "category": "Trending News",
@@ -4766,19 +4748,31 @@
      "count": 4
     },
     "reason": null
+   },
+   {
+    "step": "gemini_batch",
+    "category": "Trending News",
+    "run_at": "2026-11-23T09:52:15Z",
+    "run_id": "45150647069",
+    "status": "success",
+    "checked": {
+     "candidates": 4,
+     "detail": "news queue items drafted this run; 248 still unprocessed; today by category: movies 6/6, tv_dramas 7/4, episodes 0/2, box_office 9/6, celebrities_events 7/5, upcoming_releases 5/4, ott_streaming 4/4, trailers 1/3, awards 2/2, music_ost 2/2, viral 1/2"
+    },
+    "changed": {
+     "added": [
+      "Avinash Mishra Sparks Controversy With Viral Club Video After Breakup With Eisha Singh",
+      "You Can See Everything Shatters U.K. Box Office Records With Historic Documentary Opening",
+      "‘Ramayana: Part 1’ Box Office Collection Day 19: Ranbir Kapoor and Yash starrer crosses major milestone",
+      "King Charles III and Idris Elba Team Up for Netflix Documentary About The King's Trust"
+     ],
+     "updated": [],
+     "count": 4
+    },
+    "reason": null
    }
   ],
   "overseas_ai": [
-   {
-    "step": "overseas_ai",
-    "category": "Box Office",
-    "run_at": "2026-11-22T10:13:13Z",
-    "run_id": "45011227364",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "overseas_ai",
     "category": "Box Office",
@@ -5085,24 +5079,26 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "publish": [
+   },
    {
-    "step": "publish",
-    "category": "Trending News",
-    "run_at": "2026-11-22T10:13:13Z",
-    "run_id": "45011227364",
+    "step": "overseas_ai",
+    "category": "Box Office",
+    "run_at": "2026-11-23T09:53:37Z",
+    "run_id": "45150647069",
     "status": "success",
-    "checked": null,
+    "checked": {
+     "candidates": 58,
+     "detail": "published movies with missing overseas day figures; Tavily searches: 48"
+    },
     "changed": {
      "added": [],
      "updated": [],
-     "count": 371,
-     "detail": "lines changed in owned files; no per-item summary from script"
+     "count": 0
     },
-    "reason": null
-   },
+    "reason": "no-new-data"
+   }
+  ],
+  "publish": [
    {
     "step": "publish",
     "category": "Trending News",
@@ -5397,24 +5393,24 @@
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
-   }
-  ],
-  "stats_traffic": [
+   },
    {
-    "step": "stats_traffic",
-    "category": "Stats / Health",
-    "run_at": "2026-11-22T10:13:13Z",
-    "run_id": "45011227364",
+    "step": "publish",
+    "category": "Trending News",
+    "run_at": "2026-11-23T10:08:33Z",
+    "run_id": "45150647069",
     "status": "success",
     "checked": null,
     "changed": {
      "added": [],
      "updated": [],
-     "count": 3,
+     "count": 392,
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
-   },
+   }
+  ],
+  "stats_traffic": [
    {
     "step": "stats_traffic",
     "category": "Stats / Health",
@@ -5709,19 +5705,19 @@
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
+   },
+   {
+    "step": "stats_traffic",
+    "category": "Stats / Health",
+    "run_at": "2026-11-23T10:08:33Z",
+    "run_id": "45150647069",
+    "status": "success",
+    "checked": null,
+    "changed": null,
+    "reason": "no-new-data"
    }
   ],
   "stats_pipeline": [
-   {
-    "step": "stats_pipeline",
-    "category": "Stats / Health",
-    "run_at": "2026-11-22T10:13:13Z",
-    "run_id": "45011227364",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "stats_pipeline",
     "category": "Stats / Health",
@@ -5971,19 +5967,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "stats_health": [
+   },
    {
-    "step": "stats_health",
+    "step": "stats_pipeline",
     "category": "Stats / Health",
-    "run_at": "2026-11-22T10:13:13Z",
-    "run_id": "45011227364",
+    "run_at": "2026-11-23T10:08:33Z",
+    "run_id": "45150647069",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "stats_health": [
    {
     "step": "stats_health",
     "category": "Stats / Health",
@@ -6218,19 +6214,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "metadata_refresh": [
+   },
    {
-    "step": "metadata_refresh",
-    "category": "Spotlight / Coming Soon / Most Awaited",
-    "run_at": "2026-11-22T10:13:13Z",
-    "run_id": "45011227364",
+    "step": "stats_health",
+    "category": "Stats / Health",
+    "run_at": "2026-11-23T10:08:33Z",
+    "run_id": "45150647069",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "metadata_refresh": [
    {
     "step": "metadata_refresh",
     "category": "Spotlight / Coming Soon / Most Awaited",
@@ -6515,19 +6511,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "providers_backfill": [
+   },
    {
-    "step": "providers_backfill",
-    "category": "OTT",
-    "run_at": "2026-11-22T10:13:13Z",
-    "run_id": "45011227364",
+    "step": "metadata_refresh",
+    "category": "Spotlight / Coming Soon / Most Awaited",
+    "run_at": "2026-11-23T10:08:33Z",
+    "run_id": "45150647069",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "providers_backfill": [
    {
     "step": "providers_backfill",
     "category": "OTT",
@@ -6768,19 +6764,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "tavily_boxoffice": [
+   },
    {
-    "step": "tavily_boxoffice",
-    "category": "Box Office",
-    "run_at": "2026-11-22T10:13:13Z",
-    "run_id": "45011227364",
+    "step": "providers_backfill",
+    "category": "OTT",
+    "run_at": "2026-11-23T10:08:33Z",
+    "run_id": "45150647069",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "tavily_boxoffice": [
    {
     "step": "tavily_boxoffice",
     "category": "Box Office",
@@ -7010,19 +7006,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "tavily_boxoffice",
+    "category": "Box Office",
+    "run_at": "2026-11-23T10:08:33Z",
+    "run_id": "45150647069",
+    "status": "success",
+    "checked": null,
+    "changed": null,
+    "reason": "no-new-data"
    }
   ],
   "keywords_refresh": [
-   {
-    "step": "keywords_refresh",
-    "category": "Trending News",
-    "run_at": "2026-11-22T10:13:13Z",
-    "run_id": "45011227364",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "keywords_refresh",
     "category": "Trending News",
@@ -7275,31 +7271,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "keywords_refresh",
+    "category": "Trending News",
+    "run_at": "2026-11-23T10:08:33Z",
+    "run_id": "45150647069",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "overseas_sweep": [
-   {
-    "step": "overseas_sweep",
-    "category": "Box Office",
-    "run_at": "2026-11-21T09:52:57Z",
-    "run_id": "44891474783",
-    "status": "success",
-    "checked": {
-     "candidates": 589,
-     "detail": "completed day-wise rows missing overseas; quicknews pages fetched: 14; attempt cooldown deferred: 575"
-    },
-    "changed": {
-     "added": [
-      "Jailer 2 (1234139)",
-      "Ranabaali (1389379)",
-      "418 (1606527)",
-      "Nayyi Navelli (1654581)"
-     ],
-     "updated": [],
-     "count": 14
-    },
-    "reason": null
-   },
    {
     "step": "overseas_sweep",
     "category": "Box Office",
@@ -7810,19 +7794,32 @@
      "count": 15
     },
     "reason": null
+   },
+   {
+    "step": "overseas_sweep",
+    "category": "Box Office",
+    "run_at": "2026-11-23T09:52:36Z",
+    "run_id": "45150647069",
+    "status": "success",
+    "checked": {
+     "candidates": 602,
+     "detail": "completed day-wise rows missing overseas; quicknews pages fetched: 15; attempt cooldown deferred: 587"
+    },
+    "changed": {
+     "added": [
+      "Ramayana: Rise of a Legend (656908)",
+      "Jailer 2 (1234139)",
+      "Ranabaali (1389379)",
+      "418 (1606527)",
+      "Nayyi Navelli (1654581)"
+     ],
+     "updated": [],
+     "count": 15
+    },
+    "reason": null
    }
   ],
   "advance_booking": [
-   {
-    "step": "advance_booking",
-    "category": "Box Office",
-    "run_at": "2026-11-22T10:13:13Z",
-    "run_id": "45011227364",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "advance_booking",
     "category": "Box Office",
@@ -8062,19 +8059,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "home_boxoffice_worldwide": [
+   },
    {
-    "step": "home_boxoffice_worldwide",
+    "step": "advance_booking",
     "category": "Box Office",
-    "run_at": "2026-11-22T10:13:13Z",
-    "run_id": "45011227364",
+    "run_at": "2026-11-23T10:08:33Z",
+    "run_id": "45150647069",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "home_boxoffice_worldwide": [
    {
     "step": "home_boxoffice_worldwide",
     "category": "Box Office",
@@ -8339,8 +8336,23 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "home_boxoffice_worldwide",
+    "category": "Box Office",
+    "run_at": "2026-11-23T10:08:33Z",
+    "run_id": "45150647069",
+    "status": "success",
+    "checked": null,
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 6182,
+     "detail": "lines changed in owned files; no per-item summary from script"
+    },
+    "reason": null
    }
   ]
  },
- "updated_at": "2026-11-23T08:51:45Z"
+ "updated_at": "2026-11-23T10:08:33Z"
 }
