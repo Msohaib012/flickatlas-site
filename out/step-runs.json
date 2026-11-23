@@ -4,45 +4,6 @@
    {
     "step": "fetch",
     "category": "Trending News",
-    "run_at": "2026-11-22T08:51:49Z",
-    "run_id": "45004677650",
-    "status": "success",
-    "checked": {
-     "candidates": 205,
-     "detail": "RSS/Atom items across 137 sources; 2 source(s) errored"
-    },
-    "changed": {
-     "added": [
-      "Ramayana Box Office Day 17: 56.39 Crore Away From Hitting The 4-Digit Milestone – Only 2nd Bollywood Film To Do So!",
-      "Godzilla Minus Zero North America Box Office: Outgrosses Laika’s $100 Million Animation Wildwood!",
-      "Ramayana Box Office Day 18 Advance Booking: Pathaan Already Out Of The Top 10 3rd Sundays – Will It Touch Dhurandhar’s 40.3 Crore?",
-      "O.M Chapter 1 India Box Office: Dhanush, Mammootty &  Sai Pallavi starrer collects Rs 17 crore on Day 2, grosses Rs 37 crore in two days",
-      "Decoding Economics of Ranbir Kapoor and Yash starrer Ramayana Part One: The numbers behind Biggest Indian film ever",
-      "Ramayana Part One Box Office Collections:  Ranbir Kapoor and Yash starrer grows well on 3rd Saturday, Set to cross Rs. 900 Cr today",
-      "OM Box Office Day 2 Beats Kuberaa's Over ₹54 Crore Two-Day Worldwide Gross to Set Dhanush's New Career Record",
-      "'O.M' BO Day 3 [Live]: Dhanush's film nears Rs 50 crore India gross",
-      "Naga Chaitanya’s ‘Vrushakarma’ trailer release date out",
-      "Here's why Sivakarthikeyan missed Anirudh and Kavya Maran's reception",
-      "Britney Spears says sorry to her family, admits she misses them ‘like crazy’",
-      "OM worldwide box office collection day 2: Dhanush's film with Sreeleela, Mammootty, Sai Pallavi lags behind Karuppu, Scene at  ₹61 crore",
-      "K-pop group VIVIZ wins lawsuit against Big Planet Made Entertainment, former agency ordered to pay $250,000 in unpaid dues",
-      "Nitesh Tiwari says film fests like IFFI help nurture fresh talent, promote diverse cinema",
-      "Allu Aravind promises action after viewers flag blocked tickets at Allu Cinemas",
-      "2027 Will Officially Be The Best Year Ever For Horror",
-      "Katseye Brings Out Camila Cabello for ‘Gabriela’ Dance at Los Angeles Show",
-      "Bichhoo Pakro Croron Kamao! 🦂🤑 | Momo | Khoobsurat | Comedy Hangama | Bulbulay",
-      "Lagan Lagi Episode 21 | Memorable Scene | ARY Digital",
-      "#DareNijaat Upcoming Episode 34 | #SheheryarMunawar | #DureFishan | #Shorts"
-     ],
-     "updated": [],
-     "count": 201,
-     "detail": "203 stories, 0 duplicates removed, 2 dropped"
-    },
-    "reason": null
-   },
-   {
-    "step": "fetch",
-    "category": "Trending News",
     "run_at": "2026-11-22T09:51:55Z",
     "run_id": "45009484956",
     "status": "success",
@@ -936,32 +897,48 @@
      "detail": "270 stories, 0 duplicates removed, 0 dropped"
     },
     "reason": null
-   }
-  ],
-  "apply_auto": [
+   },
    {
-    "step": "apply_auto",
+    "step": "fetch",
     "category": "Trending News",
-    "run_at": "2026-11-22T09:52:49Z",
-    "run_id": "45009484956",
+    "run_at": "2026-11-23T08:03:03Z",
+    "run_id": "45135400881",
     "status": "success",
     "checked": {
-     "candidates": 14,
-     "detail": "draft articles + box-office rows from out/gemini-batch.json"
+     "candidates": 237,
+     "detail": "RSS/Atom items across 137 sources; 3 source(s) errored"
     },
     "changed": {
      "added": [
-      "Panchayat 5 Trailer Release Date Announced: Prime Video Sets Tomorrow for Phulera Preview",
-      "G-Dragon Grabs Attention with Bold Hairstyle at the 2026 MAMA Awards",
-      "Bigg Boss 20 Week 11 Eviction: Voting Trends And Nominated Contestants Update",
-      "Apple TV's 30-Episode Space Opera Masterpiece Is An S-Tier Sci-Fi Series"
+      "SCOOP: After King, Siddharth Anand plans Netflix's answer to Dhoom with Jewel Thief 2; BIGGER heists and NEW villains on the cards",
+      "GOOD NEWS for moviegoers: YRF brings back Saiyaara ticket pricing for Yeh Prem Mol Liya; Gunmaaster G9 also to be screened at regular weekend rates",
+      "Sara Tendulkar Marriage Rumors FACT CHECK: Sachin Tendulkar's Daughter To Marry Rajveer Deol Next Year? TRUTH-",
+      "Sooraj Bolar, Tulu Director Of 'Pathis Gang' And 'Rahukala Guligakala', Passes Away In Bengaluru",
+      "Ramayana: Ranbir-Yash’s Film To Be Removed From 800 Theatres In US Despite Beating Dhurandhar 2; Here’s Why",
+      "Ramayana Box Office: Crosses $7.5 Million Mark In IMAX Domestically, Rocks As #1 Indian Film By A Huge Margin",
+      "Cosmic Samson Trailer Review: Sandeep Pradeep Starrer Promises Yet Another Friendly Neighborhood Superhero After Minnal Murali",
+      "You Can See Everything Worldwide Box Office: Elizabeth Holmes Documentary Joins Rare $100M Global Club!",
+      "Ramayana South India Box Office Nears ₹375 Crore Gross With 33% India Share, Eyes ₹400 Crore Milestone",
+      "Love and War to Feature Sunidhi Chauhan's Bold Song Love Me Like a Dog Reveals New Report",
+      "Anupam Kher recalls Deepika Padukone’s acting class struggle when asked to portray MAID",
+      "Anuj Pandit Sharma marries longtime girlfriend Prabhjot",
+      "Sobhita Dhulipala shares romantic pictures with Naga Chaitanya on his birthday",
+      "Riz Ahmed-backed fellowship selects 10 filmmakers for $40,000 grants",
+      "Prabhu Deva announces Tamil debut film with Vishnu Manchu as lead actor",
+      "Robert Pattinson was paid $1 million to screen test for the upcoming ‘James Bond’ film",
+      "How Dulquer Salmaan built a strong place in Telugu cinema",
+      "Travis Kelce dresses in Justin Bieber’s style for his Chiefs vs. Cardinals game",
+      "'My partner should not have habits like drinking or smoking': Anju",
+      "Shabana Azmi on hijab, secularism and middlemen"
      ],
      "updated": [],
-     "count": 7,
-     "detail": "+4 articles, +0 box-office rows, 3 rows updated"
+     "count": 229,
+     "detail": "229 stories, 0 duplicates removed, 8 dropped"
     },
     "reason": null
-   },
+   }
+  ],
+  "apply_auto": [
    {
     "step": "apply_auto",
     "category": "Trending News",
@@ -1490,27 +1467,32 @@
      "detail": "+4 articles, +0 box-office rows, 3 rows updated"
     },
     "reason": null
+   },
+   {
+    "step": "apply_auto",
+    "category": "Trending News",
+    "run_at": "2026-11-23T08:03:28Z",
+    "run_id": "45135400881",
+    "status": "success",
+    "checked": {
+     "candidates": 14,
+     "detail": "draft articles + box-office rows from out/gemini-batch.json"
+    },
+    "changed": {
+     "added": [
+      "We Are Born Good Wins Top Honors At The Golden Horse Awards",
+      "Cosmic Samson Trailer Review: Mollywood Prepares For A Fresh Neighborhood Superhero Starring Sandeep Pradeep",
+      "Steam Drops Six Brand New Free Games to Keep Forever Without Any Catches",
+      "Sanjay Leela Bhansali's Love and War to Include Sunidhi Chauhan Track"
+     ],
+     "updated": [],
+     "count": 7,
+     "detail": "+4 articles, +0 box-office rows, 3 rows updated"
+    },
+    "reason": null
    }
   ],
   "ott": [
-   {
-    "step": "ott",
-    "category": "OTT",
-    "run_at": "2026-11-22T08:53:09Z",
-    "run_id": "45004677650",
-    "status": "success",
-    "checked": {
-     "candidates": 412,
-     "detail": "OTT now/coming titles from the published catalogue"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 0,
-     "detail": "now 405, coming 7"
-    },
-    "reason": "no-new-data"
-   },
    {
     "step": "ott",
     "category": "OTT",
@@ -1924,30 +1906,27 @@
      "detail": "now 410, coming 7"
     },
     "reason": "no-new-data"
+   },
+   {
+    "step": "ott",
+    "category": "OTT",
+    "run_at": "2026-11-23T08:03:28Z",
+    "run_id": "45135400881",
+    "status": "success",
+    "checked": {
+     "candidates": 417,
+     "detail": "OTT now/coming titles from the published catalogue"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 0,
+     "detail": "now 410, coming 7"
+    },
+    "reason": "no-new-data"
    }
   ],
   "trending_weekly": [
-   {
-    "step": "trending_weekly",
-    "category": "Trending Topics",
-    "run_at": "2026-11-22T10:08:47Z",
-    "run_id": "45009484956",
-    "status": "success",
-    "checked": {
-     "candidates": 100,
-     "detail": "cached Google RSS trend/article intersection"
-    },
-    "changed": {
-     "added": [
-      "1u8ats9",
-      "9osenp",
-      "1d0uyzi"
-     ],
-     "updated": [],
-     "count": 3
-    },
-    "reason": null
-   },
    {
     "step": "trending_weekly",
     "category": "Trending Topics",
@@ -2397,27 +2376,26 @@
      "count": 5
     },
     "reason": null
-   }
-  ],
-  "multisource_boxoffice": [
+   },
    {
-    "step": "multisource_boxoffice",
-    "category": "Box Office",
-    "run_at": "2026-11-22T09:00:00Z",
-    "run_id": "45004677650",
+    "step": "trending_weekly",
+    "category": "Trending Topics",
+    "run_at": "2026-11-23T08:05:18Z",
+    "run_id": "45135400881",
     "status": "success",
     "checked": {
-     "candidates": 739,
-     "detail": "681 collected staging rows from readers; 252 averaged across 2+ sources"
+     "candidates": 100,
+     "detail": "cached Google RSS trend/article intersection"
     },
     "changed": {
      "added": [],
      "updated": [],
-     "count": 6,
-     "detail": "+0 new rows, 6 updated rows, 707 unchanged"
+     "count": 0
     },
-    "reason": null
-   },
+    "reason": "no-new-data"
+   }
+  ],
+  "multisource_boxoffice": [
    {
     "step": "multisource_boxoffice",
     "category": "Box Office",
@@ -2831,19 +2809,27 @@
      "detail": "+0 new rows, 4 updated rows, 714 unchanged"
     },
     "reason": null
+   },
+   {
+    "step": "multisource_boxoffice",
+    "category": "Box Office",
+    "run_at": "2026-11-23T08:05:16Z",
+    "run_id": "45135400881",
+    "status": "success",
+    "checked": {
+     "candidates": 745,
+     "detail": "685 collected staging rows from readers; 254 averaged across 2+ sources"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 7,
+     "detail": "+1 new rows, 6 updated rows, 712 unchanged"
+    },
+    "reason": null
    }
   ],
   "gemini_reviews": [
-   {
-    "step": "gemini_reviews",
-    "category": "Reviews",
-    "run_at": "2026-11-22T09:00:11Z",
-    "run_id": "45004677650",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "gemini_reviews",
     "category": "Reviews",
@@ -3080,32 +3066,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "gemini_reviews",
+    "category": "Reviews",
+    "run_at": "2026-11-23T08:05:27Z",
+    "run_id": "45135400881",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "convert_news": [
-   {
-    "step": "convert_news",
-    "category": "Trending News",
-    "run_at": "2026-11-22T10:08:46Z",
-    "run_id": "45009484956",
-    "status": "success",
-    "checked": {
-     "candidates": 600,
-     "detail": "feed entries from out/queue.json"
-    },
-    "changed": {
-     "added": [
-      "Panchayat 5 Trailer Release Date Announced: Prime Video Sets Tomorrow for Phulera Preview",
-      "G-Dragon Grabs Attention with Bold Hairstyle at the 2026 MAMA Awards",
-      "Bigg Boss 20 Week 11 Eviction: Voting Trends And Nominated Contestants Update",
-      "Apple TV's 30-Episode Space Opera Masterpiece Is An S-Tier Sci-Fi Series"
-     ],
-     "updated": [],
-     "count": 4,
-     "detail": "api-news.json 600 items, api-trends.json 12 items"
-    },
-    "reason": null
-   },
    {
     "step": "convert_news",
     "category": "Trending News",
@@ -3630,19 +3603,32 @@
      "detail": "api-news.json 600 items, api-trends.json 12 items"
     },
     "reason": null
+   },
+   {
+    "step": "convert_news",
+    "category": "Trending News",
+    "run_at": "2026-11-23T08:05:17Z",
+    "run_id": "45135400881",
+    "status": "success",
+    "checked": {
+     "candidates": 600,
+     "detail": "feed entries from out/queue.json"
+    },
+    "changed": {
+     "added": [
+      "We Are Born Good Wins Top Honors At The Golden Horse Awards",
+      "Cosmic Samson Trailer Review: Mollywood Prepares For A Fresh Neighborhood Superhero Starring Sandeep Pradeep",
+      "Steam Drops Six Brand New Free Games to Keep Forever Without Any Catches",
+      "Sanjay Leela Bhansali's Love and War to Include Sunidhi Chauhan Track"
+     ],
+     "updated": [],
+     "count": 4,
+     "detail": "api-news.json 600 items, api-trends.json 12 items"
+    },
+    "reason": null
    }
   ],
   "episode_guides": [
-   {
-    "step": "episode_guides",
-    "category": "Drama Episodes",
-    "run_at": "2026-11-22T09:00:11Z",
-    "run_id": "45004677650",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "episode_guides",
     "category": "Drama Episodes",
@@ -3917,19 +3903,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "title_seed": [
+   },
    {
-    "step": "title_seed",
-    "category": "Spotlight / Coming Soon / Most Awaited",
-    "run_at": "2026-11-22T09:00:11Z",
-    "run_id": "45004677650",
+    "step": "episode_guides",
+    "category": "Drama Episodes",
+    "run_at": "2026-11-23T08:05:27Z",
+    "run_id": "45135400881",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "title_seed": [
    {
     "step": "title_seed",
     "category": "Spotlight / Coming Soon / Most Awaited",
@@ -4239,31 +4225,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "title_seed",
+    "category": "Spotlight / Coming Soon / Most Awaited",
+    "run_at": "2026-11-23T08:05:27Z",
+    "run_id": "45135400881",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "gemini_batch": [
-   {
-    "step": "gemini_batch",
-    "category": "Trending News",
-    "run_at": "2026-11-22T08:53:08Z",
-    "run_id": "45004677650",
-    "status": "success",
-    "checked": {
-     "candidates": 4,
-     "detail": "news queue items drafted this run; 201 still unprocessed; today by category: movies 6/6, tv_dramas 4/4, episodes 0/2, box_office 7/6, celebrities_events 10/5, upcoming_releases 2/4, ott_streaming 5/4, trailers 0/3, awards 0/2, music_ost 2/2, viral 0/2"
-    },
-    "changed": {
-     "added": [
-      "Decoding Economics of Ranbir Kapoor and Yash starrer Ramayana Part One: The numbers behind Biggest Indian film ever",
-      "Kim Kardashian Sports Racy Red Ensemble in Las Vegas to Support Racing Driver Lewis Hamilton",
-      "Makers of Naga Chaitanya Starrer 'Vrushakarma' Announce Trailer Release Date with New Poster",
-      "George Clooney and Jane Fonda Spotted Filming New Movie In Love in New Jersey"
-     ],
-     "updated": [],
-     "count": 4
-    },
-    "reason": null
-   },
    {
     "step": "gemini_batch",
     "category": "Trending News",
@@ -4769,19 +4743,31 @@
      "count": 4
     },
     "reason": null
+   },
+   {
+    "step": "gemini_batch",
+    "category": "Trending News",
+    "run_at": "2026-11-23T08:03:27Z",
+    "run_id": "45135400881",
+    "status": "success",
+    "checked": {
+     "candidates": 5,
+     "detail": "news queue items drafted this run; 229 still unprocessed; today by category: movies 6/6, tv_dramas 3/4, episodes 0/2, box_office 7/6, celebrities_events 6/5, upcoming_releases 5/4, ott_streaming 3/4, trailers 1/3, awards 2/2, music_ost 2/2, viral 1/2"
+    },
+    "changed": {
+     "added": [
+      "We Are Born Good Wins Top Honors At The Golden Horse Awards",
+      "Cosmic Samson Trailer Review: Mollywood Prepares For A Fresh Neighborhood Superhero Starring Sandeep Pradeep",
+      "Steam Drops Six Brand New Free Games to Keep Forever Without Any Catches",
+      "Sanjay Leela Bhansali's Love and War to Include Sunidhi Chauhan Track"
+     ],
+     "updated": [],
+     "count": 4
+    },
+    "reason": null
    }
   ],
   "overseas_ai": [
-   {
-    "step": "overseas_ai",
-    "category": "Box Office",
-    "run_at": "2026-11-22T09:00:11Z",
-    "run_id": "45004677650",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "overseas_ai",
     "category": "Box Office",
@@ -5095,24 +5081,19 @@
      "count": 0
     },
     "reason": "no-new-data"
+   },
+   {
+    "step": "overseas_ai",
+    "category": "Box Office",
+    "run_at": "2026-11-23T08:05:27Z",
+    "run_id": "45135400881",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "publish": [
-   {
-    "step": "publish",
-    "category": "Trending News",
-    "run_at": "2026-11-22T09:00:11Z",
-    "run_id": "45004677650",
-    "status": "success",
-    "checked": null,
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 379,
-     "detail": "lines changed in owned files; no per-item summary from script"
-    },
-    "reason": null
-   },
    {
     "step": "publish",
     "category": "Trending News",
@@ -5407,24 +5388,24 @@
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
-   }
-  ],
-  "stats_traffic": [
+   },
    {
-    "step": "stats_traffic",
-    "category": "Stats / Health",
-    "run_at": "2026-11-22T09:00:11Z",
-    "run_id": "45004677650",
+    "step": "publish",
+    "category": "Trending News",
+    "run_at": "2026-11-23T08:05:27Z",
+    "run_id": "45135400881",
     "status": "success",
     "checked": null,
     "changed": {
      "added": [],
      "updated": [],
-     "count": 12,
+     "count": 388,
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
-   },
+   }
+  ],
+  "stats_traffic": [
    {
     "step": "stats_traffic",
     "category": "Stats / Health",
@@ -5724,19 +5705,19 @@
     "checked": null,
     "changed": null,
     "reason": "no-new-data"
+   },
+   {
+    "step": "stats_traffic",
+    "category": "Stats / Health",
+    "run_at": "2026-11-23T08:05:27Z",
+    "run_id": "45135400881",
+    "status": "success",
+    "checked": null,
+    "changed": null,
+    "reason": "no-new-data"
    }
   ],
   "stats_pipeline": [
-   {
-    "step": "stats_pipeline",
-    "category": "Stats / Health",
-    "run_at": "2026-11-22T09:00:11Z",
-    "run_id": "45004677650",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "stats_pipeline",
     "category": "Stats / Health",
@@ -5986,19 +5967,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "stats_health": [
+   },
    {
-    "step": "stats_health",
+    "step": "stats_pipeline",
     "category": "Stats / Health",
-    "run_at": "2026-11-22T09:00:11Z",
-    "run_id": "45004677650",
+    "run_at": "2026-11-23T08:05:27Z",
+    "run_id": "45135400881",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "stats_health": [
    {
     "step": "stats_health",
     "category": "Stats / Health",
@@ -6233,19 +6214,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "metadata_refresh": [
+   },
    {
-    "step": "metadata_refresh",
-    "category": "Spotlight / Coming Soon / Most Awaited",
-    "run_at": "2026-11-22T09:00:11Z",
-    "run_id": "45004677650",
+    "step": "stats_health",
+    "category": "Stats / Health",
+    "run_at": "2026-11-23T08:05:27Z",
+    "run_id": "45135400881",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "metadata_refresh": [
    {
     "step": "metadata_refresh",
     "category": "Spotlight / Coming Soon / Most Awaited",
@@ -6530,19 +6511,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "providers_backfill": [
+   },
    {
-    "step": "providers_backfill",
-    "category": "OTT",
-    "run_at": "2026-11-22T09:00:11Z",
-    "run_id": "45004677650",
+    "step": "metadata_refresh",
+    "category": "Spotlight / Coming Soon / Most Awaited",
+    "run_at": "2026-11-23T08:05:27Z",
+    "run_id": "45135400881",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "providers_backfill": [
    {
     "step": "providers_backfill",
     "category": "OTT",
@@ -6783,19 +6764,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "tavily_boxoffice": [
+   },
    {
-    "step": "tavily_boxoffice",
-    "category": "Box Office",
-    "run_at": "2026-11-22T09:00:11Z",
-    "run_id": "45004677650",
+    "step": "providers_backfill",
+    "category": "OTT",
+    "run_at": "2026-11-23T08:05:27Z",
+    "run_id": "45135400881",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "tavily_boxoffice": [
    {
     "step": "tavily_boxoffice",
     "category": "Box Office",
@@ -7025,19 +7006,19 @@
     "checked": null,
     "changed": null,
     "reason": "no-new-data"
-   }
-  ],
-  "keywords_refresh": [
+   },
    {
-    "step": "keywords_refresh",
-    "category": "Trending News",
-    "run_at": "2026-11-22T09:00:11Z",
-    "run_id": "45004677650",
+    "step": "tavily_boxoffice",
+    "category": "Box Office",
+    "run_at": "2026-11-23T08:05:27Z",
+    "run_id": "45135400881",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "keywords_refresh": [
    {
     "step": "keywords_refresh",
     "category": "Trending News",
@@ -7286,6 +7267,16 @@
     "category": "Trending News",
     "run_at": "2026-11-23T07:55:38Z",
     "run_id": "45134027537",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
+   },
+   {
+    "step": "keywords_refresh",
+    "category": "Trending News",
+    "run_at": "2026-11-23T08:05:27Z",
+    "run_id": "45135400881",
     "status": "skipped",
     "checked": null,
     "changed": null,
@@ -7831,16 +7822,6 @@
    {
     "step": "advance_booking",
     "category": "Box Office",
-    "run_at": "2026-11-22T09:00:11Z",
-    "run_id": "45004677650",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
-   {
-    "step": "advance_booking",
-    "category": "Box Office",
     "run_at": "2026-11-22T10:08:56Z",
     "run_id": "45009484956",
     "status": "skipped",
@@ -8077,19 +8058,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "home_boxoffice_worldwide": [
+   },
    {
-    "step": "home_boxoffice_worldwide",
+    "step": "advance_booking",
     "category": "Box Office",
-    "run_at": "2026-11-22T09:00:11Z",
-    "run_id": "45004677650",
+    "run_at": "2026-11-23T08:05:27Z",
+    "run_id": "45135400881",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "home_boxoffice_worldwide": [
    {
     "step": "home_boxoffice_worldwide",
     "category": "Box Office",
@@ -8359,8 +8340,18 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "home_boxoffice_worldwide",
+    "category": "Box Office",
+    "run_at": "2026-11-23T08:05:27Z",
+    "run_id": "45135400881",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ]
  },
- "updated_at": "2026-11-23T07:55:38Z"
+ "updated_at": "2026-11-23T08:05:27Z"
 }

@@ -40,6 +40,46 @@ window.FA_HOME_ARTICLES = {
     ],
     "published": "Mon, 23 Nov 2026 10:39:25 +0200"
   },
+  "105vnsl": {
+    "id": "105vnsl",
+    "type": "news",
+    "headline": "Cosmic Samson Trailer Review: Mollywood Prepares For A Fresh Neighborhood Superhero Starring Sandeep Pradeep",
+    "dek": "The promotional trailer for the upcoming Malayalam fantasy family drama Cosmic Samson offers an intriguing look at an unemployed young man who suddenly acquires extraordinary abilities.",
+    "entities": {
+      "people": [
+        "Sandeep Pradeep",
+        "Tovino Thomas",
+        "Mukesh",
+        "Miya George",
+        "Alphonse Puthren",
+        "Abhijith Joseph",
+        "Abhijith Vasanth",
+        "Sibi Mathew Alex",
+        "Althaf Salim"
+      ],
+      "titles": [
+        "Minnal Murali",
+        "Cosmic Samson",
+        "Padakkalam",
+        "Eko",
+        "John Luther"
+      ]
+    },
+    "keywords": [
+      "Cosmic Samson trailer",
+      "Sandeep Pradeep Cosmic Samson",
+      "Abhijith Joseph film",
+      "Minnal Murali superhero"
+    ],
+    "images": [
+      {
+        "url": "https://www.koimoi.com/wp-content/new-galleries/2026/11/cosmic-samson-trailer-review-sandeep-pradeep-promises-a-quirky-superhero-adventure-after-minnal-murali-01.jpg",
+        "caption": "Cosmic Samson Trailer Review: Mollywood Prepares For A Fresh Neighborhood Superhero Starring Sandeep Pradeep",
+        "source": "Koimoi"
+      }
+    ],
+    "published": "Mon, 23 Nov 2026 07:40:30 +0000"
+  },
   "558i7j": {
     "id": "558i7j",
     "type": "news",
@@ -92,6 +132,131 @@ window.FA_HOME_ARTICLES = {
       }
     ],
     "published": "Mon, 23 Nov 2026 09:25:23 +0200"
+  },
+  "1m6u8l4": {
+    "id": "1m6u8l4",
+    "type": "news",
+    "headline": "We Are Born Good Wins Top Honors At The Golden Horse Awards",
+    "dek": "The Hong Kong drama secured Best Film and Best Original Screenplay at Taiwan's prestigious ceremony, while Double Happiness and Kung Fu also triumphed across multiple categories.",
+    "entities": {
+      "people": [
+        "Yeung Leung-chuen",
+        "Joseph Hsu Chen-chieh",
+        "Liu Kuan-ting",
+        "Ervin Han",
+        "Raul Garcia",
+        "Shu Qi",
+        "Angela Yuen",
+        "Keane T.K. Wong",
+        "Derek Yee",
+        "Anson Kong Ip-sang",
+        "Herman Yau",
+        "Judy Ongg",
+        "Giddens Ko"
+      ],
+      "titles": [
+        "We Are Born Good",
+        "Double Happiness",
+        "The Violinist",
+        "Girl",
+        "Afterpiece",
+        "We're Nothing At All",
+        "Sunshine Women's Choir",
+        "Kung Fu",
+        "Dead Tide",
+        "We Are All Strangers"
+      ]
+    },
+    "keywords": [
+      "We Are Born Good film",
+      "Golden Horse Awards winners",
+      "Double Happiness movie",
+      "Yeung Leung-chuen",
+      "Liu Kuan-ting"
+    ],
+    "images": [
+      {
+        "url": "https://deadline.com/wp-content/uploads/2026/07/We-Are-Born-Good1.jpg?w=1024",
+        "caption": "We Are Born Good Wins Top Honors At The Golden Horse Awards",
+        "source": "Deadline"
+      }
+    ],
+    "published": "Mon, 23 Nov 2026 07:02:10 +0000"
+  },
+  "xbp68p": {
+    "id": "xbp68p",
+    "type": "news",
+    "headline": "Steam Drops Six Brand New Free Games to Keep Forever Without Any Catches",
+    "dek": "For players looking past major releases like Grand Theft Auto VI, Valve's PC storefront has quietly added six distinct titles that can be downloaded and permanently claimed at zero cost.",
+    "entities": {
+      "people": [
+        "Angharad Redden",
+        "Reverend Lawrence"
+      ],
+      "titles": [
+        "Grand Theft Auto VI",
+        "ARES: THE IRON VANGUARD",
+        "Celestial Decks",
+        "The Reverend: A Happyhills Homicide Story",
+        "Youth Center Simulator",
+        "687 Days on Mars - First Steps",
+        "Mailbound",
+        "Cyberpunk 2077"
+      ]
+    },
+    "keywords": [
+      "Steam free games",
+      "ARES THE IRON VANGUARD",
+      "Celestial Decks Steam",
+      "The Reverend Happyhills Homicide Story",
+      "Mailbound horror game"
+    ],
+    "images": [
+      {
+        "url": "https://static0.srcdn.com/wordpress/wp-content/uploads/2026/11/steam-free-turn-based-rpg-november-12-free-download.jpg?w=1600&amp;h=900&amp;fit=crop",
+        "caption": "Steam Drops Six Brand New Free Games to Keep Forever Without Any Catches",
+        "source": "Screen Rant"
+      }
+    ],
+    "published": "Mon, 23 Nov 2026 07:00:18 GMT"
+  },
+  "2qe2vj": {
+    "id": "2qe2vj",
+    "type": "news",
+    "headline": "Sanjay Leela Bhansali's Love and War to Include Sunidhi Chauhan Track",
+    "dek": "A fresh report indicates that Sanjay Leela Bhansali's upcoming romantic drama Love and War will feature a bold track titled Love Me Like a Dog, performed by acclaimed playback singer Sunidhi Chauhan.",
+    "entities": {
+      "people": [
+        "Sunidhi Chauhan",
+        "Sanjay Leela Bhansali",
+        "Ranbir Kapoor",
+        "Alia Bhatt",
+        "Vicky Kaushal"
+      ],
+      "titles": [
+        "Love and War",
+        "Devdas",
+        "Bajirao Mastani",
+        "Gangubai Kathiawadi",
+        "Heeramandi",
+        "Saawariya"
+      ]
+    },
+    "keywords": [
+      "Love and War",
+      "Sunidhi Chauhan",
+      "Love Me Like a Dog",
+      "Sanjay Leela Bhansali",
+      "Ranbir Kapoor Alia Bhatt Vicky Kaushal"
+    ],
+    "images": [
+      {
+        "url": "https://cdn.sacnilk.com/image/news300/1000028678.jpg",
+        "caption": "Sanjay Leela Bhansali's Love and War to Include Sunidhi Chauhan Track",
+        "source": "Sacnilk"
+      }
+    ],
+    "published": "Mon, 23 Nov 2026 06:53:54 +0000"
   },
   "8n1qb9": {
     "id": "8n1qb9",
@@ -4546,137 +4711,6 @@ window.FA_HOME_ARTICLES = {
       }
     ],
     "published": "Sun, 22 Nov 2026 04:21:37 +0000"
-  },
-  "e7e32f": {
-    "id": "e7e32f",
-    "type": "news",
-    "headline": "O.M Operation Mole Box Office Collection Day 2: Dhanush and Mammootty Starrer Nears Rs 61 Crore Worldwide",
-    "dek": "The spy action thriller O.M: Operation Mole experienced a slight decline on its second day in theatres, yet continued to pull steady numbers across Tamil, Telugu, and Hindi markets.",
-    "entities": {
-      "people": [
-        "Dhanush",
-        "Mammootty",
-        "Sai Pallavi",
-        "Sreeleela",
-        "Naseeruddin Shah",
-        "Indrans",
-        "Rajkumar Periasamy",
-        "Sai Abhyankkar"
-      ],
-      "titles": [
-        "O.M: Operation Mole"
-      ]
-    },
-    "keywords": [
-      "OM Operation Mole box office",
-      "Dhanush Mammootty film",
-      "OM box office collection day 2",
-      "Rajkumar Periasamy film"
-    ],
-    "images": [
-      {
-        "url": "https://images.filmibeat.com/img/2026/11/om-46461795320748.jpg",
-        "caption": "O.M Operation Mole Box Office Collection Day 2: Dhanush and Mammootty Starrer Nears Rs 61 Crore Worldwide",
-        "source": "FilmiBeat"
-      }
-    ],
-    "published": "Sun, 22 Nov 2026 09:45:43 +0530"
-  },
-  "2m0wfe": {
-    "id": "2m0wfe",
-    "type": "news",
-    "headline": "Jay Park Speaks Out Over LNGSHOT's Brief MAMA Awards Performance",
-    "dek": "Jay Park expressed disappointment on social media regarding the limited stage time given to LNGSHOT at the 2026 MAMA Awards, sparking discussions about industry politics and the obstacles faced by smaller music agencies.",
-    "entities": {
-      "people": [
-        "Jay Park",
-        "PSY",
-        "hjang"
-      ],
-      "titles": [
-        "LNGSHOT",
-        "MODYSSEY",
-        "TUIDE",
-        "Bananas",
-        "That That",
-        "S.W.I.S.H."
-      ]
-    },
-    "keywords": [
-      "Jay Park",
-      "LNGSHOT",
-      "2026 MAMA Awards",
-      "LNGSHOT Bananas",
-      "Jay Park MAMA Awards"
-    ],
-    "images": [],
-    "published": "Sat, 21 Nov 2026 23:10:00 EST"
-  },
-  "1y5ahld": {
-    "id": "1y5ahld",
-    "type": "news",
-    "headline": "TNAGR Prepares to Debut as OUI Entertainment's First New Boy Group in Six Years",
-    "dek": "OUI Entertainment is gearing up to introduce its first multinational boy group, TNAGR, following the footsteps of WEi after a six-year gap.",
-    "entities": {
-      "people": [
-        "Seungjun",
-        "Eito",
-        "Sihwan",
-        "Joungjae",
-        "Minseo",
-        "Seungwoo",
-        "Masayoshi",
-        "Kim Yo Han",
-        "hjang"
-      ],
-      "titles": [
-        "TNAGR",
-        "WEi",
-        "TNAGR (Teenager) OFFICIAL LOGO MOTION"
-      ]
-    },
-    "keywords": [
-      "TNAGR",
-      "OUI Entertainment boy group",
-      "TNAGR members debut",
-      "WEi agency new group"
-    ],
-    "images": [],
-    "published": "Sat, 21 Nov 2026 22:46:00 EST"
-  },
-  "1i1k8qa": {
-    "id": "1i1k8qa",
-    "type": "news",
-    "headline": "Avengers Doomsday Advance Booking Crosses Rs 47 Crore in India",
-    "dek": "Marvel enthusiasts have driven advance ticket sales past the massive milestone weeks before the grand theatrical premiere.",
-    "entities": {
-      "people": [
-        "Robert Downey Jr.",
-        "Tom Holland",
-        "Zendaya",
-        "Elizabeth Olsen"
-      ],
-      "titles": [
-        "Avengers: Doomsday",
-        "Spider-Man: Brand New Day",
-        "Doctor Strange: Multiverse of Madness",
-        "VisionQuest"
-      ]
-    },
-    "keywords": [
-      "Avengers Doomsday",
-      "Avengers Doomsday advance booking",
-      "Robert Downey Jr Dr Doom",
-      "Avengers Doomsday box office India"
-    ],
-    "images": [
-      {
-        "url": "https://static.toiimg.com/thumb/msid-136066580,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "caption": "Avengers Doomsday Advance Booking Crosses Rs 47 Crore in India",
-        "source": "Times of India — Entertainment"
-      }
-    ],
-    "published": "2026-11-22T08:52:21+05:30"
   },
   "4onnrk": {
     "id": "4onnrk",

@@ -228030,5 +228030,393 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Mon, 23 Nov 2026 05:14:12 GMT"
+  },
+  "1m6u8l4": {
+    "id": "1m6u8l4",
+    "type": "news",
+    "headline": "We Are Born Good Wins Top Honors At The Golden Horse Awards",
+    "dek": "The Hong Kong drama secured Best Film and Best Original Screenplay at Taiwan's prestigious ceremony, while Double Happiness and Kung Fu also triumphed across multiple categories.",
+    "body": [
+      {
+        "h": "Glory for We Are Born Good",
+        "p": [
+          "The Hong Kong drama production We Are Born Good emerged as a major winner at Taiwan's Golden Horse Awards. Directed and scripted by Yeung Leung-chuen, the feature secured the coveted prizes for Best Film and Best Original Screenplay.",
+          "The narrative centers on an unexpected restaurant incident involving two individuals, which spirals outward into a significant and consuming feud. Before its awards success, the project had earned recognition through a premiere in Toronto's Discovery section, with international sales managed by Edko Films."
+        ]
+      },
+      {
+        "h": "Double Happiness Dominates Multiple Categories",
+        "p": [
+          "Joseph Hsu Chen-chieh's comedy drama Double Happiness achieved remarkable success by capturing four separate accolades during the ceremony. The film walked away with Best Director, Best Film Editing, and the Audience Choice Award.",
+          "In addition to these achievements, lead star Liu Kuan-ting was recognized with the Best Leading Actor trophy. The storyline follows a stressed groom who attempts the difficult feat of organizing two distinct wedding ceremonies on the exact same day for his divorced parents without letting either side discover the truth."
+        ]
+      },
+      {
+        "h": "Success Across Acting and Directing",
+        "p": [
+          "Performances across various features were heavily celebrated during the event. Angela Yuen claimed the Best Actress prize for her work in Afterpiece, portraying a newcomer actress cast into a pivotal role by a filmmaker seeking a career comeback under the direction of Keane T.K. Wong.",
+          "Meanwhile, Anson Kong Ip-sang earned the title of Best Supporting Actor for his performance in Herman Yau's social drama We're Nothing At All. Judy Ongg received the Best Supporting Actress honor for her role in Sunshine Women's Choir, while Shu Qi was named Best New Director for Girl."
+        ]
+      },
+      {
+        "h": "Technical Triumphs and Animated Excellence",
+        "p": [
+          "Giddens Ko's action feature Kung Fu swept several technical fields at the ceremony. The project claimed victories for Best Visual Effects, Best Makeup Costume Design, and Best Action Choreography.",
+          "In the animation category, The Violinist by Ervin Han and Raul Garcia secured dual wins for Best Animated Feature and Best Adapted Screenplay. Additional honors went to Dead Tide for cinematography and original song achievements, alongside We Are All Strangers for original score."
+        ]
+      },
+      {
+        "h": "Historical Context and Ceremony Background",
+        "p": [
+          "The Golden Horse Awards are widely regarded as one of the most prestigious celebrations for Chinese-language cinema. However, the event has faced a mainland China boycott since 2019 following a politically charged statement made by a past winner.",
+          "The most recent iteration of the ceremony was hosted at the Taipei Music Center on November 22, marking the official conclusion of the Taipei Golden Horse Film Festival which ran throughout the month."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "The Hong Kong drama We Are Born Good triumphed at the Golden Horse Awards by taking home Best Film and Best Original Screenplay. Alongside other multiple winners like Double Happiness and Kung Fu, the event celebrated regional cinematic achievements at the Taipei Music Center."
+        ]
+      }
+    ],
+    "facts": [
+      "We Are Born Good won Best Film and Best Original Screenplay at the Golden Horse Awards on November 22.",
+      "Double Happiness won four awards including Best Director, Best Leading Actor for Liu Kuan-ting, Best Film Editing, and the Audience Choice Award.",
+      "The Golden Horse Awards ceremony took place at the Taipei Music Center on November 22.",
+      "Mainland China has boycotted the Golden Horse Awards since 2019."
+    ],
+    "entities": {
+      "people": [
+        "Yeung Leung-chuen",
+        "Joseph Hsu Chen-chieh",
+        "Liu Kuan-ting",
+        "Ervin Han",
+        "Raul Garcia",
+        "Shu Qi",
+        "Angela Yuen",
+        "Keane T.K. Wong",
+        "Derek Yee",
+        "Anson Kong Ip-sang",
+        "Herman Yau",
+        "Judy Ongg",
+        "Giddens Ko"
+      ],
+      "titles": [
+        "We Are Born Good",
+        "Double Happiness",
+        "The Violinist",
+        "Girl",
+        "Afterpiece",
+        "We're Nothing At All",
+        "Sunshine Women's Choir",
+        "Kung Fu",
+        "Dead Tide",
+        "We Are All Strangers"
+      ]
+    },
+    "keywords": [
+      "We Are Born Good film",
+      "Golden Horse Awards winners",
+      "Double Happiness movie",
+      "Yeung Leung-chuen",
+      "Liu Kuan-ting"
+    ],
+    "images": [
+      {
+        "url": "https://deadline.com/wp-content/uploads/2026/07/We-Are-Born-Good1.jpg?w=1024",
+        "caption": "We Are Born Good Wins Top Honors At The Golden Horse Awards",
+        "source": "Deadline"
+      }
+    ],
+    "published": "Mon, 23 Nov 2026 07:02:10 +0000"
+  },
+  "105vnsl": {
+    "id": "105vnsl",
+    "type": "news",
+    "headline": "Cosmic Samson Trailer Review: Mollywood Prepares For A Fresh Neighborhood Superhero Starring Sandeep Pradeep",
+    "dek": "The promotional trailer for the upcoming Malayalam fantasy family drama Cosmic Samson offers an intriguing look at an unemployed young man who suddenly acquires extraordinary abilities.",
+    "body": [
+      {
+        "h": "Introduction To Mollywood's Newest Hero",
+        "p": [
+          "Malayalam cinema previously welcomed its pioneer superhero back in 2021 through the widely acclaimed origin feature Minnal Murali, headlined by Tovino Thomas. Now, the industry is gearing up for its second major superhero entry with Cosmic Samson. The promotional trailer for this highly anticipated project has officially dropped in theatres.",
+          "The narrative introduces an unemployed young protagonist played by Sandeep Pradeep. While his primary ambition is to carve out a successful career in the movie industry, his lack of steady employment deeply frustrates his parents, pushing him to take up odd jobs."
+        ]
+      },
+      {
+        "h": "Uncovering Superpowers And Unique Abilities",
+        "p": [
+          "Amidst his struggles to find stable work and chase his cinematic aspirations, the main character unexpectedly stumbles upon extraordinary superhero abilities. These newly found powers feature remarkable physical strength combined with a generous dose of personal style and sass.",
+          "The preview footage showcases the protagonist experimenting with these unique capabilities in his local community. Interestingly, the promotional cut maintains a sense of mystery by keeping the core source of his newfound powers and his overarching mission tightly under wraps."
+        ]
+      },
+      {
+        "h": "Trailer Length And Narrative Secrets",
+        "p": [
+          "Running for a duration of one minute and fifty-nine seconds, the trailer delivers a solid introduction to the protagonist without giving away too much of the plot. It highlights his early experiments with his abilities and hints at how he might leverage them to fulfill his film industry dreams.",
+          "Rather than overloading viewers with heavy action sequences or plot spoilers, the preview focuses heavily on establishing character motivations and the comedic potential of a regular person suddenly dealing with superhuman status in a familiar neighborhood."
+        ]
+      },
+      {
+        "h": "Cast Performances And Family Dynamics",
+        "p": [
+          "Sandeep Pradeep, widely recognized as one of the promising young talents in the Malayalam film industry, has previously demonstrated his acting skills in projects such as Padakkalam and Eko. He brings a distinct sense of innocence and charm to his role as the quirky new hero.",
+          "The supporting cast adds significant depth to the story, with veteran actor Mukesh portraying the protagonist's demanding father and Miya George starring as his mother. Their dynamic creates entertaining domestic friction and guarantees plenty of humor, particularly throughout the first half of the film."
+        ]
+      },
+      {
+        "h": "Filmmakers, Cameos, And Musical Score",
+        "p": [
+          "As the lead character attempts to pitch himself to various filmmakers in pursuit of his cinematic dreams, the feature is expected to include several surprising cameos. Notably, the trailer already features a brief appearance by Alphonse Puthren interacting directly with the protagonist.",
+          "The project is directed by Abhijith Joseph, known for his previous work on John Luther. The screenplay was jointly written by the director alongside Abhijith Vasanth, while the musical arrangement has been composed by Sibi Mathew Alex, bringing a fresh and contemporary sound to the narrative."
+        ]
+      },
+      {
+        "h": "Genre Clarification And Release Details",
+        "p": [
+          "Although initial discussions framed the project purely as a superhero origin tale, lead actor Sandeep Pradeep recently clarified that the movie is fundamentally a fantasy family drama integrated with superhero elements. This blend allows for a grounded emotional core alongside fantastical sequences.",
+          "Audiences won't have to wait long to experience the feature on the big screen, as Cosmic Samson is scheduled for a theatrical release on November 27. The film also features performances by Althaf Salim and a lineup of fresh faces."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "The trailer for Cosmic Samson introduces Sandeep Pradeep as an unemployed aspiring actor who unexpectedly gains superpowers while navigating family pressures in Malayalam cinema. Directed by Abhijith Joseph and slated for release on November 27, the fantasy family drama blends humor, relatable domestic dynamics, and superhero elements."
+        ]
+      }
+    ],
+    "facts": [
+      "Minnal Murali was released in 2021 and starred Tovino Thomas.",
+      "Cosmic Samson is scheduled for release on November 27.",
+      "The trailer has a runtime of 1 minute and 59 seconds.",
+      "Sandeep Pradeep stars in the lead role of Cosmic Samson.",
+      "Mukesh plays the father and Miya George plays the mother.",
+      "Abhijith Joseph is the director of Cosmic Samson and previously directed John Luther.",
+      "Sibi Mathew Alex is the music composer for the film.",
+      "Alphonse Puthren makes an appearance in the trailer."
+    ],
+    "entities": {
+      "people": [
+        "Sandeep Pradeep",
+        "Tovino Thomas",
+        "Mukesh",
+        "Miya George",
+        "Alphonse Puthren",
+        "Abhijith Joseph",
+        "Abhijith Vasanth",
+        "Sibi Mathew Alex",
+        "Althaf Salim"
+      ],
+      "titles": [
+        "Minnal Murali",
+        "Cosmic Samson",
+        "Padakkalam",
+        "Eko",
+        "John Luther"
+      ]
+    },
+    "keywords": [
+      "Cosmic Samson trailer",
+      "Sandeep Pradeep Cosmic Samson",
+      "Abhijith Joseph film",
+      "Minnal Murali superhero"
+    ],
+    "images": [
+      {
+        "url": "https://www.koimoi.com/wp-content/new-galleries/2026/11/cosmic-samson-trailer-review-sandeep-pradeep-promises-a-quirky-superhero-adventure-after-minnal-murali-01.jpg",
+        "caption": "Cosmic Samson Trailer Review: Mollywood Prepares For A Fresh Neighborhood Superhero Starring Sandeep Pradeep",
+        "source": "Koimoi"
+      }
+    ],
+    "published": "Mon, 23 Nov 2026 07:40:30 +0000"
+  },
+  "xbp68p": {
+    "id": "xbp68p",
+    "type": "news",
+    "headline": "Steam Drops Six Brand New Free Games to Keep Forever Without Any Catches",
+    "dek": "For players looking past major releases like Grand Theft Auto VI, Valve's PC storefront has quietly added six distinct titles that can be downloaded and permanently claimed at zero cost.",
+    "body": [
+      {
+        "h": "PC Storefront Expands Free Offerings",
+        "p": [
+          "While countless players currently find themselves immersed in the long-awaited launch of Grand Theft Auto VI, a large segment of the gaming community looks elsewhere for entertainment. For those uninterested in the latest blockbuster from Rockstar, Valve's digital distribution platform provides an alternative route by introducing six completely free titles.",
+          "These additions come with no hidden catches or temporary trial limitations. Users can simply browse the catalog, claim the software, and add them to their permanent libraries to keep forever."
+        ]
+      },
+      {
+        "h": "Sci-Fi Combat in ARES: THE IRON VANGUARD",
+        "p": [
+          "Among the newly available titles is ARES: THE IRON VANGUARD, a sci-fi action role-playing game that launched on November 18. The project centers around real-time combat suit and class switching.",
+          "Players must master dodges, parries, and intricate combos to battle towering adversaries across vast battlefields, teaming up with other Guardians in multiplayer co-op to serve as the Solar System's ultimate defense."
+        ]
+      },
+      {
+        "h": "Strategic Duels in Celestial Decks",
+        "p": [
+          "Trading card game enthusiasts can dive into Celestial Decks, which also debuted on November 18. This competitive title features beautifully illustrated cards that weave together a narrative as participants engage in player-versus-environment or player-versus-player matches.",
+          "The mechanics remain straightforward by design, requiring players to build a deck of any 15 cards with unrestricted duplicate copies, searching for powerful synergies to secure victory."
+        ]
+      },
+      {
+        "h": "Investigating The Reverend: A Happyhills Homicide Story",
+        "p": [
+          "For fans of pixelated thrillers, The Reverend: A Happyhills Homicide Story offers a dark narrative experience. The story centers on Reverend Lawrence, a figure revered as a devout Christian savior to the residents of Happyhills prior to his passing.",
+          "As players explore his history, they must uncover the manner of his death and bring to light the sinister secrets he concealed throughout his life."
+        ]
+      },
+      {
+        "h": "Management and Survival Offerings",
+        "p": [
+          "Youth Center Simulator shifts the tone toward management gameplay, challenging users to build and run their own facility from the ground up. Players hire staff, develop infrastructure, and organize programs to turn an empty space into a thriving community hub.",
+          "Meanwhile, 687 Days on Mars - First Steps drops players into a harsh open-world survival crafting environment. Navigating the hostile Red Planet alone, users must construct shelters, gather vital resources, cultivate food, and research new technologies to endure."
+        ]
+      },
+      {
+        "h": "Psychological Horror in Mailbound",
+        "p": [
+          "Rounding out the batch of six is Mailbound, a narrative-driven psychological horror experience. The game revolves around exploring, containing, and feeding a cursed personal computer.",
+          "As elements from inside the machine bleed out into the real world, the protagonist must unravel an underlying conspiracy and rectify mistakes from their past."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Valve's PC storefront has introduced six new free-to-play games, including titles like ARES: THE IRON VANGUARD and Celestial Decks, which users can download and keep permanently. These varied experiences range from sci-fi action and trading card battles to management sims and psychological horror."
+        ]
+      }
+    ],
+    "facts": [
+      "Steam released six new free-to-play games on November 23, 2026",
+      "ARES: THE IRON VANGUARD was released on November 18",
+      "Celestial Decks was released on November 18",
+      "Celestial Decks requires a deck of 15 cards",
+      "Steam's original release date is September 12, 2003"
+    ],
+    "entities": {
+      "people": [
+        "Angharad Redden",
+        "Reverend Lawrence"
+      ],
+      "titles": [
+        "Grand Theft Auto VI",
+        "ARES: THE IRON VANGUARD",
+        "Celestial Decks",
+        "The Reverend: A Happyhills Homicide Story",
+        "Youth Center Simulator",
+        "687 Days on Mars - First Steps",
+        "Mailbound",
+        "Cyberpunk 2077"
+      ]
+    },
+    "keywords": [
+      "Steam free games",
+      "ARES THE IRON VANGUARD",
+      "Celestial Decks Steam",
+      "The Reverend Happyhills Homicide Story",
+      "Mailbound horror game"
+    ],
+    "images": [
+      {
+        "url": "https://static0.srcdn.com/wordpress/wp-content/uploads/2026/11/steam-free-turn-based-rpg-november-12-free-download.jpg?w=1600&amp;h=900&amp;fit=crop",
+        "caption": "Steam Drops Six Brand New Free Games to Keep Forever Without Any Catches",
+        "source": "Screen Rant"
+      }
+    ],
+    "published": "Mon, 23 Nov 2026 07:00:18 GMT"
+  },
+  "2qe2vj": {
+    "id": "2qe2vj",
+    "type": "news",
+    "headline": "Sanjay Leela Bhansali's Love and War to Include Sunidhi Chauhan Track",
+    "dek": "A fresh report indicates that Sanjay Leela Bhansali's upcoming romantic drama Love and War will feature a bold track titled Love Me Like a Dog, performed by acclaimed playback singer Sunidhi Chauhan.",
+    "body": [
+      {
+        "h": "An Intriguing Musical Addition",
+        "p": [
+          "Music has historically served as a critical pillar in director Sanjay Leela Bhansali's cinematic creations, frequently achieving a level of fame that matches the underlying narratives. Productions such as Devdas, Bajirao Mastani, and Gangubai Kathiawadi cemented his reputation for delivering soundtracks that endure long after their theatrical runs conclude.",
+          "His forthcoming romantic drama project, Love and War, is presently capturing public interest due to a newly disclosed element within its music album. According to an exclusive update from Variety India, the motion picture will incorporate a daring track titled Love Me Like a Dog, rendered by the versatile vocalist Sunidhi Chauhan."
+        ]
+      },
+      {
+        "h": "Recording Details and Unconventional Title",
+        "p": [
+          "The newly revealed composition was recorded some time ago and is designated as a significant component of the feature's overarching musical score. Its distinct and unconventional moniker has promptly generated discussion regarding the filmmaker's expanding auditory catalog.",
+          "Despite the emerging details, specifics surrounding the song's actual composition, lyrical content, and precise placement within the narrative remain strictly under wraps. Furthermore, creators have not clarified whether the sequence will showcase performances by main cast members Ranbir Kapoor, Alia Bhatt, or Vicky Kaushal."
+        ]
+      },
+      {
+        "h": "Promotional Strategy and Musical Precedence",
+        "p": [
+          "This latest development unfolds alongside indications that the director intends to roll out the musical offerings of Love and War prior to unveiling the official theatrical trailer. Such an approach echoes historical promotional tactics utilized for Bajirao Mastani and Heeramandi.",
+          "By prioritizing the audio assets, the production team aims to establish the proper atmospheric tone for the project ahead of its commercial debut. Nevertheless, official confirmation is still pending as to whether this specific track will serve as the lead single from the album."
+        ]
+      },
+      {
+        "h": "Collaborations Among the Star-Studded Cast",
+        "p": [
+          "The upcoming venture also brings together several notable creative partnerships, particularly concerning its principal actors. Leading man Ranbir Kapoor reunites with the director nearly two decades after his initial entry into the industry via Saawariya.",
+          "Simultaneously, Alia Bhatt teams up with the filmmaker once more following their successful partnership on Gangubai Kathiawadi. Meanwhile, co-star Vicky Kaushal engages in a professional collaboration with the director for the very first time in his career."
+        ]
+      },
+      {
+        "h": "The Creative Vision of the Filmmaker",
+        "p": [
+          "As the writer, director, and producer of the project, Sanjay Leela Bhansali maintains complete creative control over both the visual and auditory dimensions of the undertaking. His distinct artistic style heavily relies on immersive musical backdrops to elevate dramatic tension and emotional depth.",
+          "The inclusion of Sunidhi Chauhan—known widely for her dynamic range across romantic, energetic, and emotionally heavy numbers—introduces another layer of anticipation for the film's overall soundscape."
+        ]
+      },
+      {
+        "h": "Release Timeline and Schedule",
+        "p": [
+          "The theatrical release for the sweeping romantic drama has been officially scheduled for January 21, 2027. While anticipation builds for the cinematic rollout, the production banner has yet to publicize a definitive date for the official music launch event.",
+          "Audiences and followers tracking the project can find ongoing updates by navigating to the dedicated movie page hosted on Sacnilk."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Sanjay Leela Bhansali's upcoming film Love and War will feature a bold track titled Love Me Like a Dog sung by Sunidhi Chauhan, according to a recent report. The movie, starring Ranbir Kapoor, Alia Bhatt, and Vicky Kaushal, is scheduled to hit theaters on January 21, 2027."
+        ]
+      }
+    ],
+    "facts": [
+      "Love and War will feature a song titled Love Me Like a Dog.",
+      "Sunidhi Chauhan sang the track Love Me Like a Dog.",
+      "The film stars Ranbir Kapoor, Alia Bhatt, and Vicky Kaushal.",
+      "Sanjay Leela Bhansali is the writer, director, and producer of Love and War.",
+      "Love and War is scheduled to release theatrically on January 21, 2027."
+    ],
+    "entities": {
+      "people": [
+        "Sunidhi Chauhan",
+        "Sanjay Leela Bhansali",
+        "Ranbir Kapoor",
+        "Alia Bhatt",
+        "Vicky Kaushal"
+      ],
+      "titles": [
+        "Love and War",
+        "Devdas",
+        "Bajirao Mastani",
+        "Gangubai Kathiawadi",
+        "Heeramandi",
+        "Saawariya"
+      ]
+    },
+    "keywords": [
+      "Love and War",
+      "Sunidhi Chauhan",
+      "Love Me Like a Dog",
+      "Sanjay Leela Bhansali",
+      "Ranbir Kapoor Alia Bhatt Vicky Kaushal"
+    ],
+    "images": [
+      {
+        "url": "https://cdn.sacnilk.com/image/news300/1000028678.jpg",
+        "caption": "Sanjay Leela Bhansali's Love and War to Include Sunidhi Chauhan Track",
+        "source": "Sacnilk"
+      }
+    ],
+    "published": "Mon, 23 Nov 2026 06:53:54 +0000"
   }
 };
