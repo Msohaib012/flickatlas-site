@@ -1,8 +1,8 @@
 {
- "checked_at": "2026-11-23 19:55 PKT",
+ "checked_at": "2026-11-23 21:38 PKT",
  "overall": "theek",
  "status": "ok",
- "pipeline_hour": "2026-11-23T14:00:00Z",
+ "pipeline_hour": "2026-11-23T15:00:00Z",
  "mode": "primary",
  "verdict_source": "rules",
  "verdicts": [
@@ -404,17 +404,12 @@
   }
  ],
  "autofixes": [],
- "report_only": [],
+ "report_only": [
+  "URGENT: pichle 103 minute se koi pipeline update nahi — ghanta missing hai. Dispatcher :50 par retry karta hai; phir bhi na aaye to manually check karo."
+ ],
  "prune_candidates": {},
  "redispatch": null,
  "history": [
-  {
-   "pipeline_hour": "2026-11-23T09:00:00Z",
-   "status": "ok",
-   "overall": "theek",
-   "mode": "primary",
-   "at_pkt": "2026-11-23 15:09 PKT"
-  },
   {
    "pipeline_hour": "2026-11-23T10:00:00Z",
    "status": "ok",
@@ -449,7 +444,14 @@
    "overall": "theek",
    "mode": "primary",
    "at_pkt": "2026-11-23 19:55 PKT"
+  },
+  {
+   "pipeline_hour": "2026-11-23T15:00:00Z",
+   "status": "ok",
+   "overall": "theek",
+   "mode": "primary",
+   "at_pkt": "2026-11-23 21:38 PKT"
   }
  ],
- "run_id": "45199328140"
+ "run_id": "45218646384"
 }
