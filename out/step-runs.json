@@ -4,45 +4,6 @@
    {
     "step": "fetch",
     "category": "Trending News",
-    "run_at": "2026-11-22T17:51:06Z",
-    "run_id": "45051686743",
-    "status": "success",
-    "checked": {
-     "candidates": 266,
-     "detail": "RSS/Atom items across 137 sources; 0 source(s) errored"
-    },
-    "changed": {
-     "added": [
-      "Haiku Movie Review: A Rather Cumbersome Route To Just Answer ‘Hum Aapke Hain Koun’",
-      "Robert Pattinson owns $5.3 million mansion but lives in rentals with Suki",
-      "Actor Ajith attends Anirudh-Kavya's reception, shares warm moments with Rajinikanth",
-      "Netflix's The Body Isn't Like My Catholic School Experience, But It Gives Me Flashbacks",
-      "Wait, How Many People Left Can Actually Win Survivor 51?",
-      "The 10 Heaviest Revenge Movies of All Time, Ranked",
-      "‘The Social Network’ Sequel Comes Home After Being Officially Removed From 2,600 Theaters",
-      "HBO's Harry Potter Officially Returns to Hogwarts in Just Over a Month",
-      "Controversial Erotic Thriller Returns With More Netflix Releases This Week",
-      "'Tulsa King' Showrunner Defends Season 4's Most Frustrating Character",
-      "Netflix's New Near-Perfect Thriller With Half a Billion Views Remains One of the Biggest Shows on Streaming",
-      "James Bond Reboot Finds Perfect Villain Candidate as Longtime 007 Fan-Favorite Sets Sights on Role",
-      "The 10 Greatest Movie Trilogies No One Ever Talks About",
-      "DC Just Published One of the Best Batman x Superman Moments Of All Time",
-      "2027 Will Be The End Of An Era For Zombie TV",
-      "Mckenna Grace’s New Sci-Fi Movie Is One Of 2026's Biggest Hits After Just 3 Days",
-      "10 Best Episodes Of The Boys & Gen V, Ranked",
-      "Sheila Mangubat Dies: ’90 Day Fiancé: Before the 90 Days’ Star Was 35",
-      "Tom Jackson, Denver Broncos’ All-Pro Linebacker and ESPN Analyst, Dies at 75",
-      "Babu Ji, Dheere Chalna! 😜| Jeeto Pakistan | Fahad Mustafa | ARY Digital"
-     ],
-     "updated": [],
-     "count": 242,
-     "detail": "266 stories, 0 duplicates removed, 0 dropped"
-    },
-    "reason": null
-   },
-   {
-    "step": "fetch",
-    "category": "Trending News",
     "run_at": "2026-11-22T18:51:03Z",
     "run_id": "45057348542",
     "status": "success",
@@ -936,32 +897,48 @@
      "detail": "604 stories, 4 duplicates removed, 178 dropped"
     },
     "reason": null
-   }
-  ],
-  "apply_auto": [
+   },
    {
-    "step": "apply_auto",
+    "step": "fetch",
     "category": "Trending News",
-    "run_at": "2026-11-22T18:47:55Z",
-    "run_id": "45052460439",
+    "run_at": "2026-11-23T18:51:10Z",
+    "run_id": "45242626882",
     "status": "success",
     "checked": {
-     "candidates": 14,
-     "detail": "draft articles + box-office rows from out/gemini-batch.json"
+     "candidates": 573,
+     "detail": "RSS/Atom items across 137 sources; 6 source(s) errored"
     },
     "changed": {
      "added": [
-      "Banrakas Takes Over Phulera In Panchayat Season 5 Promo As Trailer Launch Date Is Announced",
-      "Zhao Li Ying Honored Among Asia-Pacific's Most Influential Young Women",
-      "IShowSpeed Completes GTA 6 in 52 Hours Without Sleep, Breaks Down Over Game Ending",
-      "BÉIS Launches Massive Black Friday Sale With Discounts Across Popular Travel Gear"
+      "Bigg Boss 20: Why Was Qazi Touqeer The Talk Of Weekend Ka Vaar? Salman Khan's Promise Is Reason",
+      "MLA Anant Singh's Daughter's Wedding: Grand Prep, Horse Race With Thar As Prize; MLA's Haldi Video Goes Viral",
+      "Avinash Apologises For His Viral ‘Bewafa’ Video; Reveals Who Is Truly Responsible For His Break Up With Eisha",
+      "Eisha Singh Reacts To Avinash Mishra's Viral 'Bewafa Hai Tu' Video: You Are Turning Everything Into Joke",
+      "Shahid Kapoor-Saif’s Viral Meet-Up After Kareena-Mira Moment Makes Fans Say 'What Next, Their Children...'",
+      "Bigg Boss 20 Nominations Week 12: Mahhi, Scout & These 4 Contestants Nominated For Eviction",
+      "Yeh Rishta Kya Kehlata Hai Spoiler LEAKED: Maira-Kabir’s Engagement In TROUBLE; Dadi To Reveal Shocking Truth",
+      "Bigg Boss 20 Episode 79 OTT Release Time Today: BB20 Show Night; When Will New Ep Premiere On JioHotstar",
+      "OM Worldwide Box Office Day 3: Pushes Dhanush’s Post-COVID Total To 1000+ Crore – All Set For His 6th Century!",
+      "Ramayana Worldwide Box Office: 43.74 Crore Away From Becoming The 4th Highest-Grossing Film In The History Of Indian Cinema!",
+      "Aditya Datt Celebrates 30 Years Of Friendship With Emraan Hashmi Ahead Of Gunmaaster G9 Release",
+      "Bigg Boss Telugu 10: Rashmika Mandanna gets surprised when Mukesh Gowda turns out to be her college senior, says ‘I used to…’",
+      "6 South OTT Releases to Watch This Week: Venkatesh Daggubati’s AK 47 to Sathyameva",
+      "Vrushakarma Runtime: Naga Chaitanya’s supernatural horror thriller runs for more than 3 hours? Here’s what we know",
+      "Prabhudeva officially to make directorial comeback with Vishnu Manchu in upcoming Tamil and Telugu action thriller",
+      "Box Office: Ranbir Kapoor, Sai Pallavi, and Yash's Ramayana emerges 3rd biggest non-Malayalam grosser in Kerala, Targets No.1 spot",
+      "PM Narendra Modi Highlights Ramayana's Reach Among Younger Generations Amid Film's Strong Box Office Run",
+      "k pop the debut trailer get ready for the k pop fever with this high energy musical drama 87332.html",
+      "harshvardhan rane opens up about reuniting with anshul garg for majnu after ek deewane ki deewaniyat 87331.html",
+      "avengers doomsday final trailer brings steve rogers back cyclops delivers iconic x men line 87330.html"
      ],
      "updated": [],
-     "count": 7,
-     "detail": "+4 articles, +0 box-office rows, 3 rows updated"
+     "count": 570,
+     "detail": "573 stories, 0 duplicates removed, 0 dropped"
     },
     "reason": null
-   },
+   }
+  ],
+  "apply_auto": [
    {
     "step": "apply_auto",
     "category": "Trending News",
@@ -1480,27 +1457,30 @@
      "detail": "+0 articles, +0 box-office rows, 3 rows updated"
     },
     "reason": null
+   },
+   {
+    "step": "apply_auto",
+    "category": "Trending News",
+    "run_at": "2026-11-23T18:58:24Z",
+    "run_id": "45242626882",
+    "status": "success",
+    "checked": {
+     "candidates": 12,
+     "detail": "draft articles + box-office rows from out/gemini-batch.json"
+    },
+    "changed": {
+     "added": [
+      "Bihar MLA Anant Singh Hosts Grand Wedding Celebrations for Daughter Shivangi in Patna",
+      "Avinash Mishra Apologizes Following Split From Eisha Singh Amid Viral Video Controversy"
+     ],
+     "updated": [],
+     "count": 5,
+     "detail": "+2 articles, +0 box-office rows, 3 rows updated"
+    },
+    "reason": null
    }
   ],
   "ott": [
-   {
-    "step": "ott",
-    "category": "OTT",
-    "run_at": "2026-11-22T18:11:41Z",
-    "run_id": "45051686743",
-    "status": "success",
-    "checked": {
-     "candidates": 412,
-     "detail": "OTT now/coming titles from the published catalogue"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 0,
-     "detail": "now 405, coming 7"
-    },
-    "reason": "no-new-data"
-   },
    {
     "step": "ott",
     "category": "OTT",
@@ -1914,26 +1894,27 @@
      "detail": "now 410, coming 7"
     },
     "reason": "no-new-data"
-   }
-  ],
-  "trending_weekly": [
+   },
    {
-    "step": "trending_weekly",
-    "category": "Trending Topics",
-    "run_at": "2026-11-22T18:47:57Z",
-    "run_id": "45052460439",
+    "step": "ott",
+    "category": "OTT",
+    "run_at": "2026-11-23T18:58:24Z",
+    "run_id": "45242626882",
     "status": "success",
     "checked": {
-     "candidates": 100,
-     "detail": "cached Google RSS trend/article intersection"
+     "candidates": 417,
+     "detail": "OTT now/coming titles from the published catalogue"
     },
     "changed": {
      "added": [],
      "updated": [],
-     "count": 0
+     "count": 0,
+     "detail": "now 410, coming 7"
     },
     "reason": "no-new-data"
-   },
+   }
+  ],
+  "trending_weekly": [
    {
     "step": "trending_weekly",
     "category": "Trending Topics",
@@ -2411,27 +2392,26 @@
      "count": 4
     },
     "reason": null
-   }
-  ],
-  "multisource_boxoffice": [
+   },
    {
-    "step": "multisource_boxoffice",
-    "category": "Box Office",
-    "run_at": "2026-11-22T18:26:18Z",
-    "run_id": "45051686743",
+    "step": "trending_weekly",
+    "category": "Trending Topics",
+    "run_at": "2026-11-23T18:58:33Z",
+    "run_id": "45242626882",
     "status": "success",
     "checked": {
-     "candidates": 739,
-     "detail": "681 collected staging rows from readers; 252 averaged across 2+ sources"
+     "candidates": 100,
+     "detail": "cached Google RSS trend/article intersection"
     },
     "changed": {
      "added": [],
      "updated": [],
-     "count": 3,
-     "detail": "+0 new rows, 3 updated rows, 710 unchanged"
+     "count": 0
     },
-    "reason": null
-   },
+    "reason": "no-new-data"
+   }
+  ],
+  "multisource_boxoffice": [
    {
     "step": "multisource_boxoffice",
     "category": "Box Office",
@@ -2845,19 +2825,27 @@
      "detail": "+0 new rows, 8 updated rows, 711 unchanged"
     },
     "reason": null
+   },
+   {
+    "step": "multisource_boxoffice",
+    "category": "Box Office",
+    "run_at": "2026-11-23T18:58:24Z",
+    "run_id": "45242626882",
+    "status": "success",
+    "checked": {
+     "candidates": 745,
+     "detail": "685 collected staging rows from readers; 254 averaged across 2+ sources"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 4,
+     "detail": "+0 new rows, 4 updated rows, 715 unchanged"
+    },
+    "reason": null
    }
   ],
   "gemini_reviews": [
-   {
-    "step": "gemini_reviews",
-    "category": "Reviews",
-    "run_at": "2026-11-22T18:26:28Z",
-    "run_id": "45051686743",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "gemini_reviews",
     "category": "Reviews",
@@ -3094,32 +3082,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "gemini_reviews",
+    "category": "Reviews",
+    "run_at": "2026-11-23T18:58:43Z",
+    "run_id": "45242626882",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "convert_news": [
-   {
-    "step": "convert_news",
-    "category": "Trending News",
-    "run_at": "2026-11-22T18:47:56Z",
-    "run_id": "45052460439",
-    "status": "success",
-    "checked": {
-     "candidates": 600,
-     "detail": "feed entries from out/queue.json"
-    },
-    "changed": {
-     "added": [
-      "Banrakas Takes Over Phulera In Panchayat Season 5 Promo As Trailer Launch Date Is Announced",
-      "Zhao Li Ying Honored Among Asia-Pacific's Most Influential Young Women",
-      "IShowSpeed Completes GTA 6 in 52 Hours Without Sleep, Breaks Down Over Game Ending",
-      "BÉIS Launches Massive Black Friday Sale With Discounts Across Popular Travel Gear"
-     ],
-     "updated": [],
-     "count": 4,
-     "detail": "api-news.json 600 items, api-trends.json 12 items"
-    },
-    "reason": null
-   },
    {
     "step": "convert_news",
     "category": "Trending News",
@@ -3637,34 +3612,30 @@
      "detail": "api-news.json 600 items, api-trends.json 12 items"
     },
     "reason": null
-   }
-  ],
-  "episode_guides": [
+   },
    {
-    "step": "episode_guides",
-    "category": "Drama Episodes",
-    "run_at": "2026-11-22T18:17:57Z",
-    "run_id": "45051686743",
+    "step": "convert_news",
+    "category": "Trending News",
+    "run_at": "2026-11-23T18:58:32Z",
+    "run_id": "45242626882",
     "status": "success",
     "checked": {
-     "candidates": 18,
-     "detail": "YouTube episodes on the 4 official PK channels (+ intl 1M+ views); 7 new detected; 1 summary failure(s): Khushi Ep 71"
+     "candidates": 600,
+     "detail": "feed entries from out/queue.json"
     },
     "changed": {
      "added": [
-      "Bano Ep 39",
-      "Zehar-e-Mohabbat Ep 28",
-      "Nashtar Ep 35",
-      "Mohabbat Mukhtasir Ep 9"
+      "Avinash Mishra Apologizes Following Split From Eisha Singh Amid Viral Video Controversy",
+      "Bihar MLA Anant Singh Hosts Grand Wedding Celebrations for Daughter Shivangi in Patna"
      ],
-     "updated": [
-      "Nashtar Ep 35",
-      "Bano Ep 39"
-     ],
-     "count": 6
+     "updated": [],
+     "count": 2,
+     "detail": "api-news.json 600 items, api-trends.json 12 items"
     },
     "reason": null
-   },
+   }
+  ],
+  "episode_guides": [
    {
     "step": "episode_guides",
     "category": "Drama Episodes",
@@ -3932,19 +3903,19 @@
      "count": 6
     },
     "reason": null
-   }
-  ],
-  "title_seed": [
+   },
    {
-    "step": "title_seed",
-    "category": "Spotlight / Coming Soon / Most Awaited",
-    "run_at": "2026-11-22T18:26:28Z",
-    "run_id": "45051686743",
+    "step": "episode_guides",
+    "category": "Drama Episodes",
+    "run_at": "2026-11-23T18:58:43Z",
+    "run_id": "45242626882",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "title_seed": [
    {
     "step": "title_seed",
     "category": "Spotlight / Coming Soon / Most Awaited",
@@ -4254,31 +4225,65 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "gemini_batch": [
+   },
    {
-    "step": "gemini_batch",
-    "category": "Trending News",
-    "run_at": "2026-11-22T18:11:41Z",
-    "run_id": "45051686743",
+    "step": "title_seed",
+    "category": "Spotlight / Coming Soon / Most Awaited",
+    "run_at": "2026-11-23T18:51:50Z",
+    "run_id": "45242626882",
     "status": "success",
     "checked": {
-     "candidates": 4,
-     "detail": "news queue items drafted this run; 242 still unprocessed; today by category: movies 9/6, tv_dramas 8/4, episodes 0/2, box_office 12/6, celebrities_events 19/5, upcoming_releases 5/4, ott_streaming 11/4, trailers 2/3, awards 1/2, music_ost 2/2, viral 3/2"
+     "candidates": 514,
+     "sources": {
+      "trending": 20,
+      "trending_tv": 20,
+      "now_playing": 40,
+      "upcoming": 40,
+      "bollywood": 40,
+      "hindi_recent_movies": 100,
+      "india_window": 40,
+      "world_window": 40,
+      "world_recent": 60,
+      "pk_dramas": 20,
+      "new_tv": 40,
+      "hindi_recent_tv": 39,
+      "pk_movies": 15
+     },
+     "picked": 20,
+     "skipped": 0,
+     "cap": 20,
+     "detail": "Hindi recent movies/TV date-ranked p1-5 + existing regional/trending sources retained"
     },
     "changed": {
      "added": [
-      "Banrakas Takes Over Phulera In Panchayat Season 5 Promo As Trailer Launch Date Is Announced",
-      "Zhao Li Ying Honored Among Asia-Pacific's Most Influential Young Women",
-      "IShowSpeed Completes GTA 6 in 52 Hours Without Sleep, Breaks Down Over Game Ending",
-      "BÉIS Launches Massive Black Friday Sale With Discounts Across Popular Travel Gear"
+      "Revenge of Her : Evil Prevails (1813874)",
+      "Dig (290826)",
+      "Chakkven (1650834)",
+      "Friend to Me and the Sea (1839799)",
+      "Double Booked for the Holidays (1773329)",
+      "The Substitute (303552)",
+      "Oh Universe Sing in Reverse (1788626)",
+      "Jingle Bells, Wedding Bells (1790656)",
+      "The Trials of Karen Read (340615)",
+      "The Afters (1783511)",
+      "Savage Mountain (1686178)",
+      "Aa dina (1754964)",
+      "Noir comme neige : Chute libre (1831191)",
+      "Left Hand Pianist (1743604)",
+      "Fear Addiction (1731458)",
+      "In On The Joke (1728993)",
+      "The Wonderful Wizard Of Ha's (1699787)",
+      "SP-2125 (1652990)",
+      "Saligia (1637120)",
+      "The Defectors (1625689)"
      ],
      "updated": [],
-     "count": 4
+     "count": 20
     },
     "reason": null
-   },
+   }
+  ],
+  "gemini_batch": [
    {
     "step": "gemini_batch",
     "category": "Trending News",
@@ -4774,26 +4779,29 @@
      "count": 0
     },
     "reason": "no-new-data"
+   },
+   {
+    "step": "gemini_batch",
+    "category": "Trending News",
+    "run_at": "2026-11-23T18:58:23Z",
+    "run_id": "45242626882",
+    "status": "success",
+    "checked": {
+     "candidates": 9,
+     "detail": "news queue items drafted this run; 570 still unprocessed; today by category: movies 11/6, tv_dramas 7/4, episodes 0/2, box_office 13/6, celebrities_events 8/5, upcoming_releases 7/4, ott_streaming 6/4, trailers 2/3, awards 2/2, music_ost 2/2, viral 4/2"
+    },
+    "changed": {
+     "added": [
+      "Bihar MLA Anant Singh Hosts Grand Wedding Celebrations for Daughter Shivangi in Patna",
+      "Avinash Mishra Apologizes Following Split From Eisha Singh Amid Viral Video Controversy"
+     ],
+     "updated": [],
+     "count": 2
+    },
+    "reason": null
    }
   ],
   "overseas_ai": [
-   {
-    "step": "overseas_ai",
-    "category": "Box Office",
-    "run_at": "2026-11-22T18:13:00Z",
-    "run_id": "45051686743",
-    "status": "success",
-    "checked": {
-     "candidates": 58,
-     "detail": "published movies with missing overseas day figures; Tavily searches: 48"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 0
-    },
-    "reason": "no-new-data"
-   },
    {
     "step": "overseas_ai",
     "category": "Box Office",
@@ -5100,19 +5108,19 @@
      "count": 0
     },
     "reason": "no-new-data"
+   },
+   {
+    "step": "overseas_ai",
+    "category": "Box Office",
+    "run_at": "2026-11-23T18:58:43Z",
+    "run_id": "45242626882",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "publish": [
-   {
-    "step": "publish",
-    "category": "Trending News",
-    "run_at": "2026-11-22T18:26:28Z",
-    "run_id": "45051686743",
-    "status": "failed",
-    "checked": null,
-    "changed": null,
-    "reason": "error"
-   },
    {
     "step": "publish",
     "category": "Trending News",
@@ -5427,19 +5435,24 @@
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
+   },
+   {
+    "step": "publish",
+    "category": "Trending News",
+    "run_at": "2026-11-23T18:58:43Z",
+    "run_id": "45242626882",
+    "status": "success",
+    "checked": null,
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 186,
+     "detail": "lines changed in owned files; no per-item summary from script"
+    },
+    "reason": null
    }
   ],
   "stats_traffic": [
-   {
-    "step": "stats_traffic",
-    "category": "Stats / Health",
-    "run_at": "2026-11-22T18:26:28Z",
-    "run_id": "45051686743",
-    "status": "success",
-    "checked": null,
-    "changed": null,
-    "reason": "no-new-data"
-   },
    {
     "step": "stats_traffic",
     "category": "Stats / Health",
@@ -5739,19 +5752,24 @@
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
+   },
+   {
+    "step": "stats_traffic",
+    "category": "Stats / Health",
+    "run_at": "2026-11-23T18:58:43Z",
+    "run_id": "45242626882",
+    "status": "success",
+    "checked": null,
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 11,
+     "detail": "lines changed in owned files; no per-item summary from script"
+    },
+    "reason": null
    }
   ],
   "stats_pipeline": [
-   {
-    "step": "stats_pipeline",
-    "category": "Stats / Health",
-    "run_at": "2026-11-22T18:26:28Z",
-    "run_id": "45051686743",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "stats_pipeline",
     "category": "Stats / Health",
@@ -6001,19 +6019,24 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "stats_pipeline",
+    "category": "Stats / Health",
+    "run_at": "2026-11-23T18:58:43Z",
+    "run_id": "45242626882",
+    "status": "success",
+    "checked": null,
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 67,
+     "detail": "lines changed in owned files; no per-item summary from script"
+    },
+    "reason": null
    }
   ],
   "stats_health": [
-   {
-    "step": "stats_health",
-    "category": "Stats / Health",
-    "run_at": "2026-11-22T18:26:28Z",
-    "run_id": "45051686743",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "stats_health",
     "category": "Stats / Health",
@@ -6248,19 +6271,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "metadata_refresh": [
+   },
    {
-    "step": "metadata_refresh",
-    "category": "Spotlight / Coming Soon / Most Awaited",
-    "run_at": "2026-11-22T18:26:28Z",
-    "run_id": "45051686743",
+    "step": "stats_health",
+    "category": "Stats / Health",
+    "run_at": "2026-11-23T18:58:43Z",
+    "run_id": "45242626882",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "metadata_refresh": [
    {
     "step": "metadata_refresh",
     "category": "Spotlight / Coming Soon / Most Awaited",
@@ -6545,19 +6568,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "providers_backfill": [
+   },
    {
-    "step": "providers_backfill",
-    "category": "OTT",
-    "run_at": "2026-11-22T18:26:28Z",
-    "run_id": "45051686743",
+    "step": "metadata_refresh",
+    "category": "Spotlight / Coming Soon / Most Awaited",
+    "run_at": "2026-11-23T18:58:43Z",
+    "run_id": "45242626882",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "providers_backfill": [
    {
     "step": "providers_backfill",
     "category": "OTT",
@@ -6798,19 +6821,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "providers_backfill",
+    "category": "OTT",
+    "run_at": "2026-11-23T18:58:43Z",
+    "run_id": "45242626882",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "tavily_boxoffice": [
-   {
-    "step": "tavily_boxoffice",
-    "category": "Box Office",
-    "run_at": "2026-11-22T18:26:28Z",
-    "run_id": "45051686743",
-    "status": "success",
-    "checked": null,
-    "changed": null,
-    "reason": "no-new-data"
-   },
    {
     "step": "tavily_boxoffice",
     "category": "Box Office",
@@ -7040,19 +7063,19 @@
     "checked": null,
     "changed": null,
     "reason": "no-new-data"
-   }
-  ],
-  "keywords_refresh": [
+   },
    {
-    "step": "keywords_refresh",
-    "category": "Trending News",
-    "run_at": "2026-11-22T18:26:28Z",
-    "run_id": "45051686743",
+    "step": "tavily_boxoffice",
+    "category": "Box Office",
+    "run_at": "2026-11-23T18:58:43Z",
+    "run_id": "45242626882",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "keywords_refresh": [
    {
     "step": "keywords_refresh",
     "category": "Trending News",
@@ -7301,6 +7324,16 @@
     "category": "Trending News",
     "run_at": "2026-11-23T18:39:32Z",
     "run_id": "45231977408",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
+   },
+   {
+    "step": "keywords_refresh",
+    "category": "Trending News",
+    "run_at": "2026-11-23T18:58:43Z",
+    "run_id": "45242626882",
     "status": "skipped",
     "checked": null,
     "changed": null,
@@ -7847,16 +7880,6 @@
    {
     "step": "advance_booking",
     "category": "Box Office",
-    "run_at": "2026-11-22T18:26:28Z",
-    "run_id": "45051686743",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
-   {
-    "step": "advance_booking",
-    "category": "Box Office",
     "run_at": "2026-11-22T18:52:47Z",
     "run_id": "45057348542",
     "status": "success",
@@ -8093,19 +8116,24 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "advance_booking",
+    "category": "Box Office",
+    "run_at": "2026-11-23T18:58:43Z",
+    "run_id": "45242626882",
+    "status": "success",
+    "checked": null,
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 59,
+     "detail": "lines changed in owned files; no per-item summary from script"
+    },
+    "reason": null
    }
   ],
   "home_boxoffice_worldwide": [
-   {
-    "step": "home_boxoffice_worldwide",
-    "category": "Box Office",
-    "run_at": "2026-11-22T18:26:28Z",
-    "run_id": "45051686743",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "home_boxoffice_worldwide",
     "category": "Box Office",
@@ -8375,8 +8403,18 @@
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
+   },
+   {
+    "step": "home_boxoffice_worldwide",
+    "category": "Box Office",
+    "run_at": "2026-11-23T18:58:43Z",
+    "run_id": "45242626882",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ]
  },
- "updated_at": "2026-11-23T18:39:32Z"
+ "updated_at": "2026-11-23T18:58:43Z"
 }

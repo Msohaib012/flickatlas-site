@@ -37978,5 +37978,519 @@ window.FA_PUBLISHED = {
     "providers": [],
     "release_date": "2026-11-30",
     "popularity": 0.1455
+  },
+  "1813874": {
+    "id": 1813874,
+    "type": "movie",
+    "title": "Revenge of Her : Evil Prevails",
+    "poster_path": "/7bYqgDFcsTi5P4FQBityRBO0YBw.jpg",
+    "backdrop_path": "/v6MJVteeWDDAWrRFsSXy20XlfO3.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "A dark psychological thriller revolving around a mysterious killer, a series of unsettling events, and a story of revenge.",
+    "industry": "bollywood",
+    "original_language": "hi",
+    "origin_country": [
+      "IN"
+    ],
+    "production_countries": [],
+    "spoken_languages": [
+      "hi"
+    ],
+    "published_at": "2026-11-23",
+    "date_kind": "release",
+    "status": "Released",
+    "providers": [],
+    "release_date": "2026-11-23",
+    "popularity": 0.3092
+  },
+  "290826": {
+    "id": 290826,
+    "type": "tv",
+    "title": "Dig",
+    "poster_path": "/cPJRtFeXHUae8hrTzfpj2AId2m7.jpg",
+    "backdrop_path": "/8onvZbxTmP3XpuzKfLsBSm3WXMg.jpg",
+    "vote_average": 4.0,
+    "vote_count": 2,
+    "overview": "Follow four women who work at an archeological dig in Greece. When the team uncovers a long-buried secret with the potential to rewrite history, they find themselves at the center of a high-stakes international conspiracy.",
+    "industry": "world",
+    "original_language": "en",
+    "origin_country": [
+      "US"
+    ],
+    "production_countries": [
+      "US"
+    ],
+    "spoken_languages": [
+      "en"
+    ],
+    "published_at": "2026-11-23",
+    "status": "Returning Series",
+    "providers": [],
+    "first_air_date": "2026-11-23",
+    "popularity": 7.2653
+  },
+  "1650834": {
+    "id": 1650834,
+    "type": "movie",
+    "title": "Chakkven",
+    "poster_path": "/yBFZ3Mle6LYvcAKOdP8A37f1M9z.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "Written and Directed by Happy Rode",
+    "industry": "bollywood",
+    "original_language": "pa",
+    "origin_country": [
+      "IN"
+    ],
+    "production_countries": [
+      "IN"
+    ],
+    "spoken_languages": [],
+    "published_at": "2026-11-23",
+    "date_kind": "release",
+    "status": "Released",
+    "providers": [],
+    "release_date": "2026-11-20",
+    "popularity": 1.2809
+  },
+  "1839799": {
+    "id": 1839799,
+    "type": "movie",
+    "title": "Friend to Me and the Sea",
+    "poster_path": "/3DJJelBmZwcDuNXHwl34vUNMaMN.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "After a young man studying marine biology dies, his childhood friend sets out to film elephant seals in his honor.",
+    "industry": "world",
+    "original_language": "en",
+    "origin_country": [
+      "US"
+    ],
+    "production_countries": [],
+    "spoken_languages": [],
+    "published_at": "2026-11-23",
+    "date_kind": "release",
+    "status": "Released",
+    "providers": [],
+    "release_date": "",
+    "popularity": 0
+  },
+  "1773329": {
+    "id": 1773329,
+    "type": "movie",
+    "title": "Double Booked for the Holidays",
+    "poster_path": "/wbPUMupk9mmFcjDsdbFR4dszY6J.jpg",
+    "backdrop_path": "/eGfLN7X9RaogipisgMfxgSfJFH0.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "The one thing identical twins — quiet and bookish Abigail and globe-trotting event planner Charlie — can agree on is that this first Christmas without their mom will be difficult. When they unexpectedly get a last-minute chance to travel to Wales and spend a week running the Story Shoppe, an AirBnb/bookshop in Hay-on-Wye, they jump at the opportunity. Abigail is particularly excited, given the town’s role as the backdrop of the bestselling Winterton Chronicles, her all-time favorite Regency holiday romances.",
+    "industry": "world",
+    "original_language": "en",
+    "origin_country": [
+      "US"
+    ],
+    "production_countries": [
+      "US"
+    ],
+    "spoken_languages": [],
+    "published_at": "2026-11-23",
+    "date_kind": "release",
+    "status": "Released",
+    "providers": [],
+    "release_date": "2026-11-22",
+    "popularity": 1.7211
+  },
+  "303552": {
+    "id": 303552,
+    "type": "tv",
+    "title": "The Substitute",
+    "poster_path": "/syKpHtIH8xPrcpNwXOgL3dhJ4Rk.jpg",
+    "backdrop_path": "/31kyh4GXFgv0T7I2y9pwT5LFbUC.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "A brilliant but low-income student uses his smarts for his own gain, but his wealthy rival might ruin both of their lives",
+    "industry": "world",
+    "original_language": "ko",
+    "origin_country": [
+      "KR"
+    ],
+    "production_countries": [
+      "KR"
+    ],
+    "spoken_languages": [
+      "ko"
+    ],
+    "published_at": "2026-11-23",
+    "status": "Returning Series",
+    "providers": [],
+    "first_air_date": "2026-11-23",
+    "popularity": 4.6808
+  },
+  "1788626": {
+    "id": 1788626,
+    "type": "movie",
+    "title": "Oh Universe Sing in Reverse",
+    "poster_path": "/sO2OiXRyOymGlCejKksnHZZLDm6.jpg",
+    "backdrop_path": "/txQDQlmeotg1SHOPkeiaKm2OP4H.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "Oh Universe Sing in Reverse is a short drama about grief, memory, and the enduring connection between a parent and child. The film follows Daniel as he returns to his childhood home following his mother’s death, discovering a box of photographs, keepsakes, and a final recording she left for him.  Moving between the present and hazy fragments of memory, the film explores Daniel’s complicated relationship with his mother — the warmth they shared, the distance that grew between them, and the regret left behind after her passing. Through familiar objects and recollections of ordinary moments, the house becomes a space where past and present begin to overlap.  As Daniel listens to his mother’s final message, he is forced to confront the weight of their separation and the love that remained despite it. Oh Universe Sing in Reverse is ultimately a quiet reflection on loss, forgiveness, and the memories we carry with us after someone is gone.",
+    "industry": "world",
+    "original_language": "en",
+    "origin_country": [
+      "NZ"
+    ],
+    "production_countries": [
+      "NZ"
+    ],
+    "spoken_languages": [
+      "en"
+    ],
+    "published_at": "2026-11-23",
+    "date_kind": "release",
+    "status": "In Production",
+    "providers": [],
+    "release_date": "2026-11-30",
+    "popularity": 0.0412
+  },
+  "1790656": {
+    "id": 1790656,
+    "type": "movie",
+    "title": "Jingle Bells, Wedding Bells",
+    "poster_path": "/sB1qF2Q947sGlLAf7n5mZFTC8yk.jpg",
+    "backdrop_path": "/jywv4dOVCUdgz3ZOe9LjvfwxRqQ.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "Gracie Madden can plan the perfect wedding, but an impossible Christmas Eve deadline and the bride's charming brother, Charlie, turn her perfectly ordered life upside down.",
+    "industry": "world",
+    "original_language": "en",
+    "origin_country": [
+      "US"
+    ],
+    "production_countries": [
+      "US"
+    ],
+    "spoken_languages": [
+      "en"
+    ],
+    "published_at": "2026-11-23",
+    "date_kind": "release",
+    "status": "Released",
+    "providers": [],
+    "release_date": "2026-11-20",
+    "popularity": 2.1968
+  },
+  "340615": {
+    "id": 340615,
+    "type": "tv",
+    "title": "The Trials of Karen Read",
+    "poster_path": "/hDlEoxu0sX5vz2PB26vreBREhjB.jpg",
+    "backdrop_path": "/bn3UWOaVNFPXNOJhuL42W67CSKb.jpg",
+    "vote_average": 7.0,
+    "vote_count": 1,
+    "overview": "An accident, a deadly fight or an elaborate cover-up? This true-crime series digs into the murder trials of Karen Read that sparked viral conspiracies.",
+    "industry": "world",
+    "original_language": "en",
+    "origin_country": [
+      "US"
+    ],
+    "production_countries": [],
+    "spoken_languages": [
+      "en"
+    ],
+    "published_at": "2026-11-23",
+    "status": "Returning Series",
+    "providers": [],
+    "first_air_date": "2026-11-23",
+    "popularity": 2.2905
+  },
+  "1783511": {
+    "id": 1783511,
+    "type": "movie",
+    "title": "The Afters",
+    "poster_path": "/aIBKIXfOqHRrgDgUWY0MlhQvhzQ.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "Kevin, a young man from the working class, attends the after-party of an upscale wedding. The evening turns increasingly strange and nightmarish, and his feelings of being out-of-place trigger uncontrollable anguish in this ambience where he feels he’s being constantly observed and judged.",
+    "industry": "world",
+    "original_language": "en",
+    "origin_country": [
+      "IE"
+    ],
+    "production_countries": [],
+    "spoken_languages": [],
+    "published_at": "2026-11-23",
+    "date_kind": "release",
+    "status": "In Production",
+    "providers": [],
+    "release_date": "2026-11-30",
+    "popularity": 0.2526
+  },
+  "1686178": {
+    "id": 1686178,
+    "type": "movie",
+    "title": "Savage Mountain",
+    "poster_path": "/zp749VDFadCAsUcWmNXI2j1h1mV.jpg",
+    "backdrop_path": "/izDU9HCGb4ZKtm5bNG0XcgjVchB.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "Kristin Harila stunned the climbing community in 2023 when she set out to become the fastest person to summit the world’s 14 highest peaks.  Alongside her climbing partner, Tenjen Lama Sherpa, she achieved what many believed impossible, summiting all 14 in just 92 days and halving the record held by Nims Purja. But, what should have been her greatest triumph became a reckoning. During the final ascent, Harila was accused of stepping over a dying porter, triggering a global backlash and fierce debate about ambition, ethics and who controls the narrative. Drawing on never‑before‑seen footage from K2, Savage Mountain unpacks the story behind the controversy.",
+    "industry": "world",
+    "original_language": "en",
+    "origin_country": [
+      "NO",
+      "GB"
+    ],
+    "production_countries": [
+      "NO",
+      "GB"
+    ],
+    "spoken_languages": [
+      "en",
+      "ne",
+      "no"
+    ],
+    "published_at": "2026-11-23",
+    "date_kind": "release",
+    "status": "Released",
+    "providers": [],
+    "release_date": "2026-11-20",
+    "popularity": 1.7058
+  },
+  "1754964": {
+    "id": 1754964,
+    "type": "movie",
+    "title": "Aa dina",
+    "poster_path": "/crPgbjJUhf8FwYHbL01X2DdrrRw.jpg",
+    "backdrop_path": "/bgd6hFnkd8g2k0oheWLccnMoFqZ.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "Past 200 days of employment",
+    "industry": "world",
+    "original_language": "en",
+    "origin_country": [
+      "US"
+    ],
+    "production_countries": [
+      "IN"
+    ],
+    "spoken_languages": [],
+    "published_at": "2026-11-23",
+    "date_kind": "festival",
+    "status": "In Production",
+    "providers": [],
+    "release_date": "2026-11-30",
+    "popularity": 0.0525
+  },
+  "1831191": {
+    "id": 1831191,
+    "type": "movie",
+    "title": "Noir comme neige : Chute libre",
+    "poster_path": "/1I993eZ3bjSSyZ7CNl2JkjHYyv5.jpg",
+    "backdrop_path": "/dk1Js995WBhslAFU8KTZ6lYlGBR.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "",
+    "industry": "world",
+    "original_language": "fr",
+    "origin_country": [
+      "FR"
+    ],
+    "production_countries": [],
+    "spoken_languages": [
+      "fr"
+    ],
+    "published_at": "2026-11-23",
+    "date_kind": "release",
+    "status": "Released",
+    "providers": [],
+    "release_date": "2026-11-19",
+    "popularity": 3.6857
+  },
+  "1743604": {
+    "id": 1743604,
+    "type": "movie",
+    "title": "Left Hand Pianist",
+    "poster_path": "/1v8BTkhIjaXwNBLXy32rPku42uv.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "While pursuing his doctoral studies in the United States, promising pianist Lee Hoon suffers a stroke that paralyzes his right hand. Returning to Korea, he discovers the possibility of performing with his left hand alone and begins rebuilding both his life and identity through music. Supported by his mother and inspired by the joy that first drew him to the piano, he overcomes his limitations and embraces a new path.",
+    "industry": "world",
+    "original_language": "ko",
+    "origin_country": [
+      "KR"
+    ],
+    "production_countries": [
+      "KR"
+    ],
+    "spoken_languages": [
+      "ko",
+      "en"
+    ],
+    "published_at": "2026-11-23",
+    "date_kind": "release",
+    "status": "Released",
+    "providers": [],
+    "release_date": "2026-11-30",
+    "popularity": 0.5592
+  },
+  "1731458": {
+    "id": 1731458,
+    "type": "movie",
+    "title": "Fear Addiction",
+    "poster_path": "/5dwDXoFPFV2FiUNHiyqCykUsniX.jpg",
+    "backdrop_path": "/cI6FLSDkWc8lRGWIbZZDyxNJh1V.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "\"Once it gets into your head, it never leaves.\"  A woman tormented by various phobias, including trypophobia, is gradually consumed by madness following an encounter with a mysterious figure.",
+    "industry": "world",
+    "original_language": "ja",
+    "origin_country": [
+      "JP"
+    ],
+    "production_countries": [
+      "JP"
+    ],
+    "spoken_languages": [
+      "ja"
+    ],
+    "published_at": "2026-11-23",
+    "date_kind": "release",
+    "status": "Post Production",
+    "providers": [],
+    "release_date": "2026-11-30",
+    "popularity": 0.216
+  },
+  "1728993": {
+    "id": 1728993,
+    "type": "movie",
+    "title": "In On The Joke",
+    "poster_path": "/47UZlRoQVMQ9LdB2eNdDfxX26UX.jpg",
+    "backdrop_path": "/3PWFxm7XD540jYM1IVCvygtKDPJ.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "Four friends challenge each other to a surreal competition consisting in devising elaborate pranks to play on one another, until yet another prank takes a horrific turn.",
+    "industry": "world",
+    "original_language": "it",
+    "origin_country": [
+      "IT"
+    ],
+    "production_countries": [],
+    "spoken_languages": [
+      "it"
+    ],
+    "published_at": "2026-11-23",
+    "date_kind": "release",
+    "status": "Post Production",
+    "providers": [],
+    "release_date": "2026-11-30",
+    "popularity": 0.182
+  },
+  "1699787": {
+    "id": 1699787,
+    "type": "movie",
+    "title": "The Wonderful Wizard Of Ha's",
+    "poster_path": "/cto0tbzfoO9msDVkKTRKsMu9gfr.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "When a cosmic warp strikes a commuter tracks, a stylish teenager named Dorthy Ross ( Soroya Clayton-Wright) and her trusty dog poodle Smarty  are transported from the ordinary world straight into Stardust City—a glittering, neon-lit fantasy metropolis. Arriving in style aboard a custom-built, purple clockwork locomotive, she is greeted by the glamorous The Good Witch of the South ( Joh'Vonnie Monroe ), who welcomes her with a show-stopping musical number.  But the party is short-lived. Armed with a pink shirt, a purple poodle skirt, and a magical pair of silver slippers, the young trendsetter must navigate the dangers of the Yellow Brick Road after the Wicked Witch crashes the celebration. Packed with high-fashion aesthetics, explosive blue-diamond wand fireworks, and a soulful, show-stopping soundtrack, The Wonderful Wizard of Ha's is a bold, comedic, and modern reimagining of L. Frank Baum’s classic 1900 tale.",
+    "industry": "world",
+    "original_language": "en",
+    "origin_country": [
+      "US"
+    ],
+    "production_countries": [
+      "US"
+    ],
+    "spoken_languages": [
+      "en"
+    ],
+    "published_at": "2026-11-23",
+    "date_kind": "release",
+    "status": "In Production",
+    "providers": [],
+    "release_date": "2026-11-30",
+    "popularity": 0.8252
+  },
+  "1652990": {
+    "id": 1652990,
+    "type": "movie",
+    "title": "SP-2125",
+    "poster_path": "/xf8vzP14D6skRY91jFyMYVTNNlF.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "After receiving a mysterious email offering to fund his deep space exploration, Damen Richards must make his way to the moon to begin his journey across the stars.",
+    "industry": "world",
+    "original_language": "en",
+    "origin_country": [
+      "US"
+    ],
+    "production_countries": [],
+    "spoken_languages": [],
+    "published_at": "2026-11-23",
+    "date_kind": "release",
+    "status": "In Production",
+    "providers": [],
+    "release_date": "2026-11-30",
+    "popularity": 0.0261
+  },
+  "1637120": {
+    "id": 1637120,
+    "type": "movie",
+    "title": "Saligia",
+    "poster_path": "/jXadiDNDsGYsAkSbdp9FavBSFgz.jpg",
+    "backdrop_path": "/29GCyJXWItIfUXBnmKLLfPBHEAh.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "After the apocalypse on Earth, seven people find themselves in an unknown space without any memories of who they are, or how they got there. One of them is convinced that they are all in her dream, from which she is trying to wake up by all means.",
+    "industry": "world",
+    "original_language": "sr",
+    "origin_country": [
+      "RS"
+    ],
+    "production_countries": [
+      "RS"
+    ],
+    "spoken_languages": [
+      "sr"
+    ],
+    "published_at": "2026-11-23",
+    "date_kind": "release",
+    "status": "Released",
+    "providers": [],
+    "release_date": "2026-11-30",
+    "popularity": 0.63
+  },
+  "1625689": {
+    "id": 1625689,
+    "type": "movie",
+    "title": "The Defectors",
+    "poster_path": "/4mxHnHrLbhzZKOPrd2nH87bAkhH.jpg",
+    "backdrop_path": "/viP2Nl2ujfOc1uL0enr0XQM1tTa.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "In a near-future surveillance state, a detective secretly aligned with a rebellion investigates the assassination of their leader under the watchful eye of his manipulative new partner.",
+    "industry": "world",
+    "original_language": "en",
+    "origin_country": [
+      "GB"
+    ],
+    "production_countries": [],
+    "spoken_languages": [
+      "en"
+    ],
+    "published_at": "2026-11-23",
+    "date_kind": "release",
+    "status": "Post Production",
+    "providers": [],
+    "release_date": "2026-11-30",
+    "popularity": 0.2209
   }
 };
