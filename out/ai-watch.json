@@ -1,8 +1,8 @@
 {
- "checked_at": "2026-11-24 01:41 PKT",
+ "checked_at": "2026-11-24 02:05 PKT",
  "overall": "dhyaan-do",
  "status": "ok",
- "pipeline_hour": "2026-11-23T19:00:00Z",
+ "pipeline_hour": "2026-11-23T20:00:00Z",
  "mode": "primary",
  "verdict_source": "rules",
  "verdicts": [
@@ -23,7 +23,7 @@
    "name_ur": "Apply Auto",
    "status": "theek",
    "modes": [],
-   "evidence_ur": "Aakhri real run 2026-11-24 01:15 (success); gate har ghante.",
+   "evidence_ur": "Aakhri real run 2026-11-24 02:05 (success); gate har ghante.",
    "fix": "koi-nahi",
    "auto_fixable": false,
    "note_ur": "Rule-based verdict (Gemini nahi chala)."
@@ -413,13 +413,6 @@
  "redispatch": null,
  "history": [
   {
-   "pipeline_hour": "2026-11-23T14:00:00Z",
-   "status": "ok",
-   "overall": "theek",
-   "mode": "primary",
-   "at_pkt": "2026-11-23 19:55 PKT"
-  },
-  {
    "pipeline_hour": "2026-11-23T15:00:00Z",
    "status": "ok",
    "overall": "theek",
@@ -453,7 +446,14 @@
    "overall": "dhyaan-do",
    "mode": "primary",
    "at_pkt": "2026-11-24 01:41 PKT"
+  },
+  {
+   "pipeline_hour": "2026-11-23T20:00:00Z",
+   "status": "ok",
+   "overall": "dhyaan-do",
+   "mode": "primary",
+   "at_pkt": "2026-11-24 02:05 PKT"
   }
  ],
- "run_id": "45261890550"
+ "run_id": "45266092308"
 }
