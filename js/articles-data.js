@@ -231557,5 +231557,383 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "2026-11-23T22:19:27+05:30"
+  },
+  "b2ycr5": {
+    "id": "b2ycr5",
+    "type": "news",
+    "headline": "Conan O'Brien Felt Like a High Schooler at Taylor Swift and Travis Kelce's Wedding",
+    "dek": "The comedian opened up about feeling starstruck and nervous around fellow celebrities during the high-profile ceremony.",
+    "body": [
+      {
+        "h": "Starstruck Among the Stars",
+        "p": [
+          "Attending high-profile gatherings can leave even seasoned entertainers feeling intimidated. During a recent podcast appearance, veteran comedian Conan O'Brien shared his firsthand experience of feeling genuinely starstruck while attending the wedding of Taylor Swift and Travis Kelce.",
+          "Despite his decades in the spotlight and his own immense fame, the 63-year-old entertainer admitted that the star-studded environment triggered unexpected feelings of insecurity, transporting him mentally back to his teenage years."
+        ]
+      },
+      {
+        "h": "High School Memories and Cool Kids",
+        "p": [
+          "While speaking on his podcast alongside actor Olivia Colman, O'Brien described a specific moment from the New York City celebration. He recalled spotting a prominent group of British stars conversing together and feeling an immediate pang of adolescent anxiety.",
+          "The cluster of talent included writer and actor Phoebe Waller-Bridge, her partner Martin McDonagh, and Fleabag actor Andrew Scott. Observing them from a distance of about fifteen feet, the comedian felt just like a high school student wishing he could sit with the popular crowd."
+        ]
+      },
+      {
+        "h": "Hesitation to Approach Waller-Bridge",
+        "p": [
+          "O'Brien confessed that despite wanting to introduce himself, he could not muster the necessary courage to walk over and join the conversation. He humorously worried that the acclaimed creator might rebuff him harshly.",
+          "His podcast guest, Olivia Colman, later reassured him that he had missed out on a great opportunity, noting that Waller-Bridge is fundamentally warm, witty, and approachable, contrary to his nervous assumptions."
+        ]
+      },
+      {
+        "h": "Praise for the Ceremony and Adam Sandler",
+        "p": [
+          "Beyond his personal moments of shyness, O'Brien offered glowing remarks regarding the overarching wedding celebration. He praised the event as a beautiful, genuine, and heartfelt affair that honored the couple.",
+          "He also expressed profound admiration for actor Adam Sandler, who took on the unique role of officiating the ceremony. O'Brien lauded Sandler for striking an ideal balance between heartfelt emotion and sharp humor throughout his duties."
+        ]
+      },
+      {
+        "h": "Musical Performances and Dismissing Rumors",
+        "p": [
+          "The grand celebration featured remarkable musical entertainment, including standout performances by legendary artists Paul McCartney and Stevie Nicks, which O'Brien described as completely fantastic.",
+          "Amid widespread media fascination, the comedian also took a moment to push back against various exaggerated reports surrounding the wedding, dismissing much of the speculative coverage as pure insanity."
+        ]
+      },
+      {
+        "h": "Appreciating the No-Phones Policy",
+        "p": [
+          "O'Brien specifically highlighted the couple's strict rules regarding guest privacy during the nuptials. He voiced strong support for their decision to implement a complete no-phones policy.",
+          "Reflecting on the rule, he deemed it a brilliant choice that allowed attendees to stay fully present in the moment rather than viewing the celebration through digital screens."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Conan O'Brien opened up about feeling starstruck and intimidated while attending the wedding of Taylor Swift and Travis Kelce, admitting he was too nervous to approach Phoebe Waller-Bridge. He also praised the ceremony's officiant Adam Sandler, musical guests Paul McCartney and Stevie Nicks, and the couple's strict no-phones policy."
+        ]
+      }
+    ],
+    "facts": [
+      "Conan O'Brien is 63 years old.",
+      "The Conan O'Brien Needs a Friend podcast episode featuring Olivia Colman aired on November 2.",
+      "The wedding took place in New York City.",
+      "Phoebe Waller-Bridge's partner is Martin McDonagh.",
+      "Andrew Scott starred in Fleabag.",
+      "Adam Sandler officiated the ceremony.",
+      "Paul McCartney and Stevie Nicks performed at the celebration."
+    ],
+    "entities": {
+      "people": [
+        "Taylor Swift",
+        "Travis Kelce",
+        "Conan O'Brien",
+        "Phoebe Waller-Bridge",
+        "Olivia Colman",
+        "Martin McDonagh",
+        "Andrew Scott",
+        "Liza Powel O'Brien",
+        "Adam Sandler",
+        "Paul McCartney",
+        "Stevie Nicks"
+      ],
+      "titles": [
+        "Conan O'Brien Needs a Friend",
+        "Fleabag"
+      ]
+    },
+    "keywords": [
+      "Taylor Swift Travis Kelce wedding",
+      "Conan O Brien Phoebe Waller Bridge",
+      "Conan O Brien podcast Olivia Colman",
+      "Adam Sandler officiates wedding"
+    ],
+    "images": [
+      {
+        "url": "https://static.toiimg.com/thumb/msid-136113540,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "caption": "Conan O'Brien Felt Like a High Schooler at Taylor Swift and Travis Kelce's Wedding",
+        "source": "Times of India — Entertainment"
+      }
+    ],
+    "published": "2026-11-24T01:20:31+05:30"
+  },
+  "olardm": {
+    "id": "olardm",
+    "type": "news",
+    "headline": "How Hailee Steinfeld's New Chapter as a Mother is Shaping Her Future Film Choices",
+    "dek": "Following the welcoming of her daughter earlier this year, actress Hailee Steinfeld reflects on how motherhood is beginning to influence her approach to selecting new Hollywood roles.",
+    "body": [
+      {
+        "h": "Embracing Motherhood and Career Shifts",
+        "p": [
+          "Hollywood star Hailee Steinfeld entered a brand-new phase of her life earlier this year when she and her husband, Josh Allen, welcomed their baby daughter, Harper Haize Allen, in the spring. Like many working parents in the entertainment industry, becoming a mother naturally brings about deep introspection regarding how professional commitments align with personal life.",
+          "When questioned by Entertainment Tonight about whether her expanding family would alter her trajectory in Hollywood, Steinfeld admitted that her perspective on selecting characters has fundamentally evolved."
+        ]
+      },
+      {
+        "h": "Family Ties and Past Inspirations",
+        "p": [
+          "Throughout her career, the actress has frequently allowed personal heritage and familial bonds to influence her creative choices. For instance, her dedication to exploring her own mixed heritage roots deeply informed her work playing Mary in Sinners, requiring extensive historical research that brought her closer to her mother and grandfather.",
+          "That project highlighted her Filipino and African American ancestry, establishing a precedent for choosing roles with personal resonance. Now, with a child of her own, that family-first mindset extends directly to her daughter."
+        ]
+      },
+      {
+        "h": "Stepping Into Animation With Hexed",
+        "p": [
+          "Steinfeld's latest project is Walt Disney Animation’s Hexed, an imaginative feature centered around a magical world of witches and the core relationship between a mother and her teenage daughter. At 29 years old, the performer has noted that playing a role connected to themes of motherhood and protection carries an entirely new level of emotional weight.",
+          "In Hexed, she portrays Billie, a misfit teenager who discovers she has been a witch her entire life while her mother shielded her powers using a bracelet. The ensemble cast also features Rashida Jones voicing her mother, Jodie Foster as an evil witch named Celeste, and Walton Goggins as a three-eyed cat named Beef Roger."
+        ]
+      },
+      {
+        "h": "Resonating With Overprotective Themes",
+        "p": [
+          "The timing of Hexed aligned uniquely with Steinfeld's personal life transitions, allowing her to connect deeply with the narrative. She has shared that a story focusing on an overprotective mother makes considerably more sense to her now than it would have prior to this phase of her life.",
+          "Because Hexed stands as the first project that her daughter is genuinely a part of in spirit, the actress considers the milestone exceptionally special and meaningful to her career."
+        ]
+      },
+      {
+        "h": "A Packed Slate of Upcoming Blockbusters",
+        "p": [
+          "Even while embracing her new role as a mother, Steinfeld remains remarkably active in major cinematic franchises. The final trailer for Avengers: Doomsday recently confirmed her return as Kate Bishop among a massive roster of heroes, with the film scheduled to hit theaters on December 18.",
+          "Additionally, fans will hear her voice return as Gwen Stacy, also known as Spider-Gwen, in Spider-Man: Beyond the Spider-Verse, which is slated for release on June 18."
+        ]
+      },
+      {
+        "h": "Balancing Family and Stardom",
+        "p": [
+          "As she navigates this bustling era of high-profile blockbusters and animated features, Steinfeld continues to balance her demanding schedule with precious time off alongside her baby. Her ability to stay booked and busy while prioritizing her growing family highlights a balanced path forward in her stellar career.",
+          "Whether tackling fantastical animated worlds or massive superhero universes, her artistic decisions will clearly carry the thoughtful consideration of a dedicated mother."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Hailee Steinfeld discusses how welcoming her daughter with husband Josh Allen earlier this year influences her selection of movie roles, starting with her voice work in Disney's Hexed. Alongside her family journey, she continues to maintain a busy cinematic schedule with appearances in upcoming projects like Avengers: Doomsday and Spider-Man: Beyond the Spider-Verse."
+        ]
+      }
+    ],
+    "facts": [
+      "Hailee Steinfeld and Josh Allen welcomed their daughter, Harper Haize Allen, in the spring.",
+      "Hailee Steinfeld plays Billie in the Walt Disney Animation film Hexed.",
+      "Hexed features Rashida Jones as a mother, Jodie Foster as Celeste, and Walton Goggins as Beef Roger.",
+      "Avengers: Doomsday is scheduled to hit theaters on December 18, featuring Hailee Steinfeld as Kate Bishop.",
+      "Spider-Man: Beyond the Spider-Verse is scheduled for release on June 18, featuring Hailee Steinfeld as Gwen Stacy / Spider-Gwen."
+    ],
+    "entities": {
+      "people": [
+        "Hailee Steinfeld",
+        "Josh Allen",
+        "Harper Haize Allen",
+        "Rashida Jones",
+        "Jodie Foster",
+        "Walton Goggins"
+      ],
+      "titles": [
+        "Sinners",
+        "Hexed",
+        "Avengers: Doomsday",
+        "Spider-Man: Beyond the Spider-Verse"
+      ]
+    },
+    "keywords": [
+      "Hailee Steinfeld Hexed",
+      "Hailee Steinfeld baby",
+      "Avengers Doomsday Kate Bishop",
+      "Spider Man Beyond the Spider Verse"
+    ],
+    "images": [
+      {
+        "url": "https://cdn.mos.cms.futurecdn.net/oisbdvoHtjTXWv3uzF4Ar6-2000-80.png",
+        "caption": "How Hailee Steinfeld's New Chapter as a Mother is Shaping Her Future Film Choices",
+        "source": "CinemaBlend"
+      }
+    ],
+    "published": "Mon, 23 Nov 2026 21:26:41 +0000"
+  },
+  "9w9h2c": {
+    "id": "9w9h2c",
+    "type": "news",
+    "headline": "Harshvardhan Rane Talks About Partnering With Producer Anshul Garg for Majnu",
+    "dek": "Actor Harshvardhan Rane has shared his thoughts on teaming up with producer Anshul Garg once more for the upcoming movie Majnu, following their prior work together.",
+    "body": [
+      {
+        "h": "The Announcement of Majnu",
+        "p": [
+          "Actor Harshvardhan Rane is preparing to collaborate with producer Anshul Garg on a brand new cinematic venture titled Majnu. The production is backed by Desi Movies Factory, the banner belonging to Garg.",
+          "Both creative partners have lined up the official start of production, with cameras slated to begin rolling on the first day of December in the year 2026."
+        ]
+      },
+      {
+        "h": "A Reunited Creative Partnership",
+        "p": [
+          "This upcoming venture marks the second time the actor and producer have joined forces for a project. Their previous partnership involved the cinematic release titled Ek Deewane Ki Deewaniyat.",
+          "Rane expressed enthusiasm about teaming up again, noting that the positive public reception of their earlier project inspired them to seek out another opportunity to work side by side."
+        ]
+      },
+      {
+        "h": "Focus on Narrative and Music",
+        "p": [
+          "Discussing their artistic process, the lead actor emphasized that both partners share a strong dedication to the foundational stages of filmmaking. They prefer to invest adequate time into discovering robust narratives and matching musical compositions.",
+          "According to the actor, finding collaborators who prioritize emotional depth in storytelling ensures that the final product will resonate with audiences who value profound emotional connections on screen."
+        ]
+      },
+      {
+        "h": "Looking Back at Ek Deewane Ki Deewaniyat",
+        "p": [
+          "The previous collaboration between the actor and producer, Ek Deewane Ki Deewaniyat, also featured actress Sonam Bajwa in a prominent role. The romantic drama was directed by Milap Zaveri.",
+          "That story centered on an intense relationship between a popular actress and a politician's son. Upon its release in October 2025, the film earned an encouraging reception from viewers."
+        ]
+      },
+      {
+        "h": "Upcoming Details and Secrecy",
+        "p": [
+          "While the title and the starting date for photography have been made public, additional specifics regarding the plot, supporting cast members, and the director remain closely guarded.",
+          "Fans and industry watchers will have to wait for further announcements to learn more about the broader scope and narrative direction of the new production."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Harshvardhan Rane is set to work with producer Anshul Garg again on the upcoming film Majnu, with filming scheduled to start on December 1, 2026. This follows their earlier collaboration on Ek Deewane Ki Deewaniyat, as both continue their focus on emotionally driven storytelling."
+        ]
+      }
+    ],
+    "facts": [
+      "Harshvardhan Rane is reuniting with producer Anshul Garg for Majnu.",
+      "Filming for Majnu is scheduled to begin on December 1, 2026.",
+      "Majnu is produced under Anshul Garg's banner, Desi Movies Factory.",
+      "Their previous collaboration was Ek Deewane Ki Deewaniyat.",
+      "Ek Deewane Ki Deewaniyat starred Sonam Bajwa and was directed by Milap Zaveri.",
+      "Ek Deewane Ki Deewaniyat was released in October 2025."
+    ],
+    "entities": {
+      "people": [
+        "Harshvardhan Rane",
+        "Anshul Garg",
+        "Sonam Bajwa",
+        "Milap Zaveri"
+      ],
+      "titles": [
+        "Majnu",
+        "Ek Deewane Ki Deewaniyat",
+        "Silaa",
+        "Chor Nikal Ke Bhaga 2"
+      ]
+    },
+    "keywords": [
+      "Harshvardhan Rane Majnu",
+      "Anshul Garg Desi Movies Factory",
+      "Ek Deewane Ki Deewaniyat",
+      "Majnu film December 2026"
+    ],
+    "images": [
+      {
+        "url": "https://filmfare.wwmindia.com/content/2026/nov/harshvardhan-rane-opens-up-about-reuniting-with-anshul-garg-for-majnu-after-ek1795451935.jpg",
+        "caption": "Harshvardhan Rane Talks About Partnering With Producer Anshul Garg for Majnu",
+        "source": "Filmfare"
+      }
+    ],
+    "published": "2026-11-23T22:09:38+05:30"
+  },
+  "1d06onu": {
+    "id": "1d06onu",
+    "type": "news",
+    "headline": "Avengers: Doomsday Final Trailer Brings Steve Rogers Back and Introduces Doctor Doom",
+    "dek": "Marvel Studios releases the final trailer for Avengers: Doomsday, featuring the return of Steve Rogers, a major multiversal threat, and the X-Men.",
+    "body": [
+      {
+        "h": "Final Trailer Release",
+        "p": [
+          "Marvel Studios has officially published the final trailer for the upcoming blockbuster Avengers: Doomsday, generating immense excitement among fans worldwide. The promotional clip highlights several major character returns and sets the stage for a massive crossover event."
+        ]
+      },
+      {
+        "h": "Steve Rogers and Family Life",
+        "p": [
+          "The preview opens by focusing on Steve Rogers sharing a domestic life with Peggy Carter and their son following the events of Avengers: Endgame. Steve grapples with the dilemma of whether to reveal his past identity as Captain America to his child."
+        ]
+      },
+      {
+        "h": "The Fantastic Four and Consequences of Time Travel",
+        "p": [
+          "The quiet routine of the household gets disrupted when the Fantastic Four arrive to meet Steve. Their discussion revisits the time travel exploits from Avengers: Endgame, with Steve reflecting on how altering timelines to stop Thanos might have caused unforeseen repercussions."
+        ]
+      },
+      {
+        "h": "Doctor Doom Sets the Stakes",
+        "p": [
+          "A primary conflict is introduced through a foreboding warning from Doctor Doom, who tells the characters they have lived stolen lives and must return them. This statement underscores the multiversal crisis at the heart of the movie's plot."
+        ]
+      },
+      {
+        "h": "A Massive Gathering of Heroes",
+        "p": [
+          "Action sequences in the footage showcase a large assembly of characters preparing for war, including Thor, the Avengers, the New Avengers, the Fantastic Four, the X-Men, Shang-Chi, and the Wakandans."
+        ]
+      },
+      {
+        "h": "Cyclops Delivers a Classic Line",
+        "p": [
+          "A standout moment in the preview features Cyclops rallying his mutants with the iconic phrase 'To me, my X-Men!' as the superhero team gets ready for the impending conflict."
+        ]
+      },
+      {
+        "h": "Release Schedule",
+        "p": [
+          "The theatrical release for Avengers: Doomsday is slated for December 18, 2026, while audiences in India will be able to watch the film a day earlier on December 17."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "The final trailer for Avengers: Doomsday reveals Steve Rogers living with Peggy Carter and their son before the arrival of the Fantastic Four and a warning from Doctor Doom. It highlights a massive gathering of heroes, including the X-Men where Cyclops delivers an iconic line, ahead of the film's theatrical release in December 2026."
+        ]
+      }
+    ],
+    "facts": [
+      "Avengers: Doomsday final trailer was published on November 23, 2026.",
+      "Steve Rogers is shown with Peggy Carter and their son.",
+      "The Fantastic Four arrive to meet Steve Rogers.",
+      "Doctor Doom warns characters about living stolen lives.",
+      "Cyclops delivers the line To me, my X-Men!",
+      "Avengers: Doomsday releases in theatres on December 18, 2026, and in India on December 17, 2026."
+    ],
+    "entities": {
+      "people": [
+        "Steve Rogers",
+        "Peggy Carter",
+        "Thanos",
+        "Thor",
+        "Shang-Chi",
+        "Cyclops",
+        "Doctor Doom",
+        "Robert Downey Jr.",
+        "Ariana Grande",
+        "Srijita Sen",
+        "Hayley Atwell"
+      ],
+      "titles": [
+        "Avengers: Doomsday",
+        "Avengers: Endgame",
+        "Fantastic Four",
+        "New Avengers",
+        "X-Men",
+        "Focker-In-Law"
+      ]
+    },
+    "keywords": [
+      "Avengers Doomsday",
+      "Steve Rogers",
+      "Doctor Doom",
+      "Cyclops X-Men",
+      "Avengers Doomsday trailer"
+    ],
+    "images": [
+      {
+        "url": "https://filmfare.wwmindia.com/content/2026/nov/avengers-doomsday-final-trailer-brings-steve-rogers-back-cyclops-delivers1795451160.jpg",
+        "caption": "Avengers: Doomsday Final Trailer Brings Steve Rogers Back and Introduces Doctor Doom",
+        "source": "Filmfare"
+      }
+    ],
+    "published": "2026-11-23T22:00:35+05:30"
   }
 };
