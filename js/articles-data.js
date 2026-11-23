@@ -225604,5 +225604,359 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Mon, 23 Nov 2026 01:47:31 +0000"
+  },
+  "1ft6eqi": {
+    "id": "1ft6eqi",
+    "type": "news",
+    "headline": "Ramayana Box Office Collection Day 18: Ranbir Kapoor and Yash Starrer Nearing Rs 950 Crore Milestone",
+    "dek": "The mythological drama Ramayana Part 1 witnessed a major surge on its third Sunday, approaching the Rs 950 crore domestic collection milestone.",
+    "body": [
+      {
+        "h": "Third Sunday Surge",
+        "p": [
+          "The mythological film Ramayana Part 1 experienced a significant growth spurt on its eighteenth day at the box office. Benefiting from a robust third Sunday, the cinematic venture saw its daily numbers climb notably as audiences flocked back to cinemas.",
+          "This weekend upward tick pushed the feature substantially closer to crossing the major domestic milestone of Rs 950 crore, continuing its impressive commercial journey across the country."
+        ]
+      },
+      {
+        "h": "Day 18 Earnings Breakdown",
+        "p": [
+          "According to early estimates from Sacnilk, the Ranbir Kapoor and Yash starrer brought in Rs 35.60 crore domestically on its eighteenth day. This represented a 28.8 percent growth compared to previous weekdays.",
+          "The theatrical screenings maintained a healthy occupancy rate of 37.8 percent throughout the day, driving the overall domestic earnings to a cumulative total of Rs 942.75 crore."
+        ]
+      },
+      {
+        "h": "Language-Wise Performance",
+        "p": [
+          "The Hindi version of the mythological epic contributed the lion's share of the day's earnings, pulling in Rs 26.25 crore on day 18. Regional iterations also added steady figures to the overall collection tally.",
+          "Specifically, the Malayalam language version collected Rs 3.40 crore, the Kannada version minted Rs 2.50 crore, the Tamil version brought in Rs 2.40 crore, and the Telugu version added Rs 1.05 crore to the day's total."
+        ]
+      },
+      {
+        "h": "Domestic Gross and Milestone Tracking",
+        "p": [
+          "With the latest weekend figures factored in, the domestic gross collection for the Nitesh Tiwari directorial has now reached a staggering Rs 1126.50 crore.",
+          "Having already cleared the Rs 500 crore hurdle domestically during its first week, the production continues to demonstrate incredible longevity and sustained audience interest deep into its third week."
+        ]
+      },
+      {
+        "h": "Star-Studded Cast and Crew",
+        "p": [
+          "Directed by Nitesh Tiwari and produced by Namit Malhotra, the feature boasts a prominent principal cast. Ranbir Kapoor takes on the role of Rama, while Yash portrays Ravana.",
+          "The ensemble cast also features Sai Pallavi as Sita and Ravie Dubey as Lakshman, laying the groundwork for a massive multi-part cinematic universe."
+        ]
+      },
+      {
+        "h": "Future Installment Plans",
+        "p": [
+          "Conceived as a multi-part epic with a reported overall budget of Rs 4000 crore, the project's first installment debuted on November 5, 2026, coinciding with the Diwali festival.",
+          "The franchise is set to expand with a second installment slated for a Diwali 2028 release, which will introduce Sunny Deol in the role of Hanuman."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Ramayana Part 1 recorded a strong 28.8 percent growth on its eighteenth day, earning Rs 35.60 crore domestically and pushing its total earnings to Rs 942.75 crore. The Nitesh Tiwari-directed mythological drama continues its stellar theatrical run, eyeing the Rs 950 crore domestic landmark."
+        ]
+      }
+    ],
+    "facts": [
+      "Ramayana Part 1 was released on November 5, 2026.",
+      "On day 18, the film earned Rs 35.60 crore in India.",
+      "The total collection after day 18 reached Rs 942.75 crore.",
+      "Domestic gross collection reached Rs 1126.50 crore.",
+      "Hindi version collected Rs 26.25 crore on day 18.",
+      "Malayalam version collected Rs 3.40 crore on day 18.",
+      "Kannada version collected Rs 2.50 crore on day 18.",
+      "Tamil version collected Rs 2.40 crore on day 18.",
+      "Telugu version collected Rs 1.05 crore on day 18.",
+      "The reported budget of the project is Rs 4000 crore.",
+      "Part 2 is scheduled for release on Diwali 2028."
+    ],
+    "entities": {
+      "people": [
+        "Ranbir Kapoor",
+        "Yash",
+        "Sai Pallavi",
+        "Nitesh Tiwari",
+        "Namit Malhotra",
+        "Ravie Dubey",
+        "Sunny Deol",
+        "Sumit Rajguru"
+      ],
+      "titles": [
+        "Ramayana",
+        "Ramayana Part 1",
+        "Ramayana Part 2"
+      ]
+    },
+    "keywords": [
+      "Ramayana box office collection",
+      "Ramayana day 18 collection",
+      "Ranbir Kapoor Yash Ramayana",
+      "Ramayana Part 1 earnings"
+    ],
+    "images": [
+      {
+        "url": "https://images.timesnownews.com/thumb/msid-156551430,thumbsize-99000,width-1280,height-720,resizemode-75/156551430.jpg",
+        "caption": "Ramayana Box Office Collection Day 18: Ranbir Kapoor and Yash Starrer Nearing Rs 950 Crore Milestone",
+        "source": "Times Now — Entertainment"
+      }
+    ],
+    "published": "2026-11-23T02:52:03Z"
+  },
+  "1k3o2x3": {
+    "id": "1k3o2x3",
+    "type": "news",
+    "headline": "Netflix Officially Sets 2028 Return for the First Stranger Things Spin-Off",
+    "dek": "The Duffer brothers are expanding the hit sci-fi franchise with a new original series slated for 2028, alongside other upcoming film and television projects.",
+    "body": [
+      {
+        "h": "The Evolution of a Cultural Phenomenon",
+        "p": [
+          "Since its initial debut in 2016, Matt and Ross Duffer's creation has grown from a nostalgic kidnapping mystery into a massive multi-season phenomenon. Over the years, the flagship television series expanded its narrative scope significantly before concluding its main run in late 2025 across three distinct parts.",
+          "The cultural footprint left by the original show made further franchise expansions an inevitability for Netflix. Although initial follow-ups like Tales From '85 attracted a more modest audience compared to the live-action masterpiece, the appetite for new stories within this universe remained exceptionally high among global viewers."
+        ]
+      },
+      {
+        "h": "Announcing the First Official Spin-Off",
+        "p": [
+          "As the flagship narrative concluded, questions regarding potential spin-offs immediately surfaced. While specific character-driven concepts, such as a potential project centered around Hopper and Joyce, were swiftly dismissed by creators and cast members like David Harbour, Netflix eventually turned to social media to reveal the universe's next major chapter.",
+          "Officially titled Other Worlds, the upcoming series has been locked in for a 2028 premiere window. Specific plot specifics remain heavily guarded by the studio, though it has been confirmed that the show will follow an entirely original narrative path."
+        ]
+      },
+      {
+        "h": "New Faces and Uncharted Territory",
+        "p": [
+          "Unlike previous franchise extensions, the upcoming series is set to feature a completely fresh cast of characters portrayed by new actors. This approach allows the creative team to explore unfamiliar corners of the established universe without relying immediately on legacy figures.",
+          "While no familiar faces from the original town of Hawkins are slated to appear during the early phases of the narrative, the creative team has left the door open for potential narrative bridges and crossovers as the broader story unfolds over time."
+        ]
+      },
+      {
+        "h": "Balancing Multiple High-Profile Projects",
+        "p": [
+          "In addition to overseeing the upcoming streaming expansion, Matt and Ross Duffer are currently juggling several other creative endeavors. Among these is a new untitled event film housed at Paramount Pictures, which holds a scheduled theatrical release date of November 3, 2028.",
+          "Due to the demanding schedule of balancing multiple massive productions, industry watchers note that if the creators choose to prioritize their new feature film, the 2028 release window for the streaming expansion could potentially face adjustments."
+        ]
+      },
+      {
+        "h": "Looking Beyond the Horizon",
+        "p": [
+          "Beyond their commitments to Paramount and Netflix, the creative duo is reportedly in the early stages of developing another venture inspired by their earlier 2014 short film titled Vessel. Concrete details regarding this particular undertaking remain scarce.",
+          "As production continues behind closed doors, fans of the broader sci-fi universe eagerly await further casting announcements, teaser trailers, and official updates concerning the upcoming television expansion."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Netflix has officially scheduled the first Stranger Things spin-off series, titled Other Worlds, for a 2028 release. The upcoming show will feature an entirely new cast and original storyline, while creators Matt and Ross Duffer simultaneously balance additional projects including a Paramount event film."
+        ]
+      }
+    ],
+    "facts": [
+      "Matt and Ross Duffer created Stranger Things, which premiered in 2016 and ended in late 2025.",
+      "Netflix announced the first franchise spin-off, Other Worlds, scheduled to release in 2028.",
+      "The Duffer brothers have an untitled event film at Paramount scheduled for November 3, 2028.",
+      "The creators are also developing a project inspired by their 2014 short film Vessel."
+    ],
+    "entities": {
+      "people": [
+        "Matt Duffer",
+        "Ross Duffer",
+        "David Harbour"
+      ],
+      "titles": [
+        "Stranger Things",
+        "Stranger Things: Tales From '85",
+        "Other Worlds",
+        "Vessel"
+      ]
+    },
+    "keywords": [
+      "Stranger Things spin off",
+      "Other Worlds Netflix",
+      "Matt and Ross Duffer",
+      "Stranger Things 2028"
+    ],
+    "images": [
+      {
+        "url": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/02/stranger-things-s5e1.jpg?w=1600&amp;h=900&amp;fit=crop",
+        "caption": "Netflix Officially Sets 2028 Return for the First Stranger Things Spin-Off",
+        "source": "Collider"
+      }
+    ],
+    "published": "Mon, 23 Nov 2026 01:01:12 GMT"
+  },
+  "1weief0": {
+    "id": "1weief0",
+    "type": "news",
+    "headline": "Kartik Aaryan Reveals First Glimpse and Release Date for Monster Thriller Kaaliya",
+    "dek": "Actor Kartik Aaryan marked his birthday by sharing the first look of his upcoming monster thriller Kaaliya, directed by Sandeep Modi and backed by Dharma Productions.",
+    "body": [
+      {
+        "h": "Birthday Reveal",
+        "p": [
+          "Actor Kartik Aaryan chose his birthday on November 22 to treat his fans to a brand-new cinematic announcement. He dropped the initial glimpse of his upcoming project titled Kaaliya, generating immediate excitement across entertainment circles.",
+          "The special reveal offered audiences their very first look at the ambitious feature. By tying the announcement to his personal celebration, the actor made the date doubly memorable for his followers."
+        ]
+      },
+      {
+        "h": "Entering the Monster Thriller Genre",
+        "p": [
+          "Kaaliya is positioned as a distinct monster thriller, a genre that remains largely unexplored within Hindi cinema. Dharma Productions is taking a fresh and adventurous step by venturing into this territory.",
+          "The announcement teaser featured an intriguing narrative element, presenting a mother recounting the legend of a creature named Kaaliya to her son. The atmospheric glimpse sets a mysterious tone for the upcoming feature."
+        ]
+      },
+      {
+        "h": "Cast, Crew, and Production Details",
+        "p": [
+          "The film is a collaborative presentation by Dharma Productions and Dopamine Studios. A large team of producers is steering the project, including Karan Johar, Adar Poonawalla, Apoorva Mehta, Somen Mishra, Marijke deSouza, and Kartik Aaryan himself.",
+          "Directorial duties are being handled by Sandeep Modi. This project marks the filmmaker's debut in directing a Hindi theatrical release, following his acclaimed work on series like The Night Manager and Aarya."
+        ]
+      },
+      {
+        "h": "Theatrical Release Schedule",
+        "p": [
+          "Moviegoers will have to wait quite a bit to experience the thriller on the big screen. The makers have officially slated the film for a worldwide theatrical rollout on May 5, 2028.",
+          "This distant release window gives the production team ample time to craft the creature-driven narrative. The announcement confirmed that the project will receive a wide cinema release."
+        ]
+      },
+      {
+        "h": "Expanding Collaborations with Dharma",
+        "p": [
+          "Aside from Kaaliya, Kartik Aaryan has also teamed up with Dharma Productions for another intriguing venture titled Naagzilla. That project is billed as a fantasy entertainer blending Indian folklore with modern storytelling.",
+          "In Naagzilla, directed by Mrighdeep Singh Lamba and written by Gautam Mehra, Kartik will play a shape-shifting naag named Preyamvadeshwar Pyare Chand. His historical collaborations with Dharma also include the romantic entertainer Tu Meri Main Tera, Main Tera Tu Meri, co-starring Ananya Panday."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Kartik Aaryan celebrated his birthday on November 22 by sharing the first glimpse and release date for his upcoming monster thriller Kaaliya. Directed by Sandeep Modi and produced by Dharma Productions alongside Dopamine Studios, the film is scheduled to hit theaters worldwide on May 5, 2028."
+        ]
+      }
+    ],
+    "facts": [
+      "Kartik Aaryan's birthday is on November 22.",
+      "Kaaliya is scheduled for a worldwide theatrical release on May 5, 2028.",
+      "Sandeep Modi is the director of Kaaliya.",
+      "The film is presented by Dharma Productions and Dopamine Studios.",
+      "Producers of Kaaliya include Karan Johar, Adar Poonawalla, Apoorva Mehta, Somen Mishra, Marijke deSouza, and Kartik Aaryan.",
+      "Naagzilla is a fantasy entertainer starring Kartik Aaryan as Preyamvadeshwar Pyare Chand, directed by Mrighdeep Singh Lamba and written by Gautam Mehra."
+    ],
+    "entities": {
+      "people": [
+        "Kartik Aaryan",
+        "Sandeep Modi",
+        "Karan Johar",
+        "Adar Poonawalla",
+        "Apoorva Mehta",
+        "Somen Mishra",
+        "Marijke deSouza",
+        "Mrighdeep Singh Lamba",
+        "Gautam Mehra",
+        "Ananya Panday"
+      ],
+      "titles": [
+        "Kaaliya",
+        "The Night Manager",
+        "Aarya",
+        "Naagzilla",
+        "Tu Meri Main Tera, Main Tera Tu Meri"
+      ]
+    },
+    "keywords": [
+      "Kartik Aaryan Kaaliya",
+      "Kaaliya monster thriller",
+      "Sandeep Modi Kaaliya film",
+      "Dharma Productions Kaaliya release date"
+    ],
+    "images": [
+      {
+        "url": "https://cdn-english.zeenews.com/sites/default/files/2026/11/22/7222-kartik-aaryan.png",
+        "caption": "Kartik Aaryan Reveals First Glimpse and Release Date for Monster Thriller Kaaliya",
+        "source": "Zee News — Entertainment"
+      }
+    ],
+    "published": "2026-11-23T02:52:03Z"
+  },
+  "x46udf": {
+    "id": "x46udf",
+    "type": "news",
+    "headline": "Quentin Tarantino and Daniella Pick Welcome Third Child",
+    "dek": "Renowned filmmaker Quentin Tarantino and his wife, Daniella Pick Tarantino, have announced the birth of their third child, a baby boy.",
+    "body": [
+      {
+        "h": "The New Arrival",
+        "p": [
+          "Filmmaker Quentin Tarantino and his wife, Daniella Pick Tarantino, have expanded their family once again. The couple announced the birth of their third child, a baby boy, sharing their joy through a representative.",
+          "The official statement conveyed that both parents are overjoyed with the newest addition to their household. The birth follows a series of family milestones for the couple, who are already parents to two other young children."
+        ]
+      },
+      {
+        "h": "Family Background",
+        "p": [
+          "Quentin and Daniella are already parents to their six-year-old son, Leo, and their four-year-old daughter, Adriana. Their eldest son was born in February 2020, followed by the birth of their daughter in July 2022.",
+          "When naming their firstborn, the director faced speculation that the child was named after his frequent collaborator, Leonardo DiCaprio. However, Tarantino clarified that Leo was actually named after his wife's grandfather and because he felt the boy was their 'little lion' in their hearts."
+        ]
+      },
+      {
+        "h": "How the Couple Met",
+        "p": [
+          "The romance between the director and the Israeli singer and model began back in 2009. The two originally crossed paths while Tarantino was in Israel promoting his star-studded World War II film, Inglourious Basterds.",
+          "After a brief separation during the early years of their connection, they reunited in 2016. Their relationship quickly progressed, leading to an engagement a year later and an eventual wedding at the director's Beverly Hills home in 2018."
+        ]
+      },
+      {
+        "h": "Transformative Love",
+        "p": [
+          "In past interviews, Tarantino has opened up about how meeting Daniella completely altered his perspective on life and career. He has expressed deep affection for his wife and the family they have built together.",
+          "Discussing his role as a father, the filmmaker has grown visibly emotional when speaking about his eldest son. He has described Leo as the most charming human being he has ever met, noting the immense emotional impact his children have on him."
+        ]
+      },
+      {
+        "h": "Recent Security Concerns",
+        "p": [
+          "The joyful arrival of their third child comes shortly after a troubling incident at the couple's property. In September, their mansion in the Hollywood Hills was reportedly targeted in an alleged break-in while people were inside the home.",
+          "Police were called to the residence located on Woodrow Wilson Drive, though the suspect fled before law enforcement arrived. The event echoes a previous burglary nearly eight years prior, when intruders targeted the director's Los Angeles home."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Filmmaker Quentin Tarantino and his wife Daniella Pick Tarantino have welcomed their third child, a baby boy, joining older siblings Leo and Adriana. The couple, who married in 2018 after meeting in 2009, celebrated the birth following a recent security scare at their Hollywood Hills home."
+        ]
+      }
+    ],
+    "facts": [
+      "Quentin Tarantino is 63 years old.",
+      "Daniella Pick Tarantino is 43 years old.",
+      "The couple welcomed a baby boy, their third child.",
+      "They are already parents to son Leo, six, and daughter Adriana, four.",
+      "They met in 2009 while Tarantino was promoting Inglourious Basterds in Israel.",
+      "They reunited in 2016, got engaged a year later, and married in Beverly Hills in 2018.",
+      "Son Leo was born in February 2020.",
+      "Daughter Adriana was born in July 2022.",
+      "Their Hollywood Hills home on Woodrow Wilson Drive was allegedly broken into in September."
+    ],
+    "entities": {
+      "people": [
+        "Quentin Tarantino",
+        "Daniella Pick Tarantino",
+        "Leo",
+        "Adriana",
+        "Leonardo DiCaprio"
+      ],
+      "titles": [
+        "Inglourious Basterds"
+      ]
+    },
+    "keywords": [
+      "Quentin Tarantino baby boy",
+      "Daniella Pick Tarantino",
+      "Quentin Tarantino children",
+      "Inglourious Basterds director family"
+    ],
+    "images": [],
+    "published": "2026-11-23T02:52:03Z"
   }
 };

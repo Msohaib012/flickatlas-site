@@ -632,6 +632,12 @@ window.FA_PUBLISHED = {
         "logo_path": "/bxX0YVOCY7bI85BKRlJAAQ2EjUR.png",
         "region": "US",
         "type": "flatrate"
+      },
+      {
+        "name": "Paramount+ Roku Premium Channel",
+        "logo_path": "/tnZCMxbcKdxuVmjxefyXCaip7q3.png",
+        "region": "US",
+        "type": "flatrate"
       }
     ],
     "release_date": "2026-10-21"
@@ -28256,7 +28262,14 @@ window.FA_PUBLISHED = {
     "published_at": "2026-11-14",
     "date_kind": "release",
     "status": "Released",
-    "providers": [],
+    "providers": [
+      {
+        "name": "Netflix",
+        "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+        "region": "IN",
+        "type": "flatrate"
+      }
+    ],
     "release_date": "2026-11-13",
     "popularity": 3.7225
   },
@@ -36227,7 +36240,32 @@ window.FA_PUBLISHED = {
     "published_at": "2026-11-22",
     "date_kind": "release",
     "status": "Released",
-    "providers": [],
+    "providers": [
+      {
+        "name": "Philo",
+        "logo_path": "/mfbhzQwmQKjm7bLZPF5CTeu3Ilc.png",
+        "region": "US",
+        "type": "flatrate"
+      },
+      {
+        "name": "Hallmark+ Amazon Channel",
+        "logo_path": "/yG1Q3YBp5xF2Xj6Meux51Dkg4jP.png",
+        "region": "US",
+        "type": "flatrate"
+      },
+      {
+        "name": "Hallmark+ Apple TV channel",
+        "logo_path": "/fAUJbIgaArLzpf6eK2FMJV8zOQT.png",
+        "region": "US",
+        "type": "flatrate"
+      },
+      {
+        "name": "Hallmark TV Amazon Channel",
+        "logo_path": "/rfXfa1Cq2cxiO76jN3kflGeqJuT.png",
+        "region": "US",
+        "type": "flatrate"
+      }
+    ],
     "release_date": "2026-11-20",
     "popularity": 19.8158
   },
