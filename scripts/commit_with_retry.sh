@@ -78,6 +78,12 @@ stage_all() {
   [ -f out/catalogue-state.json ] && git add out/catalogue-state.json || true
   [ -d js/cat ] && git add js/cat || true
   [ -d js/seo ] && git add js/seo || true
+  # Shard fix (2026-11-23): js/seo-news/ holds the news chunks (2,448 entries) and
+  # scripts/worker.mjs loads them. Both were missing here, so every run after the
+  # shard push died at `git pull --rebase` ('unstaged changes') and the deploy
+  # step never ran (runs 45209723582 + 45221021596). Same failure class as js/seo.
+  [ -d js/seo-news ] && git add js/seo-news || true
+  [ -f scripts/worker.mjs ] && git add scripts/worker.mjs || true
   [ -f sitemap-main.xml ] && git add sitemap-main.xml || true
   git add sitemap-cat-*.xml 2>/dev/null || true
   git add -A -- '*.html'
@@ -321,6 +327,9 @@ while [ $n -lt $MAX_ATTEMPTS ]; do
   echo "commit-retry: attempt $n failed"
 done
 echo "commit-retry: all $MAX_ATTEMPTS attempts failed — next hourly run retries from fresh main"
+echo "commit-retry: DIAGNOSTIC unstaged/unpushed state:"
+git status --porcelain || true
+git diff --name-only || true
 exit 1
 
 
