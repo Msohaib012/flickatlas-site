@@ -229591,5 +229591,428 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Mon, 23 Nov 2026 10:46:19 +0000"
+  },
+  "1wq3z1n": {
+    "id": "1wq3z1n",
+    "type": "news",
+    "headline": "Ramayana Box Office Collection Day 18: Registers 3rd Biggest Third Weekend In India",
+    "dek": "Ranbir Kapoor, Yash, and Sai Pallavi starrer Ramayana continues its strong theatrical run, securing the third-biggest third weekend in Indian box office history.",
+    "body": [
+      {
+        "h": "Theatrical Journey and Third Weekend Success",
+        "p": [
+          "The cinematic spectacle Ramayana has maintained a powerful momentum at the domestic box office. Even as ticket prices were reduced, which typically causes a noticeable dip in earnings, the feature managed to pull in impressive figures over its eighteenth day and final stretch of the third week.",
+          "Demonstrating strong sustained interest from audiences, the film successfully outpaced the third weekend performance of Allu Arjun's Pushpa 2 to capture the third-highest third weekend total ever recorded in India."
+        ]
+      },
+      {
+        "h": "Day 18 Collections and Weekend Totals",
+        "p": [
+          "On its third Sunday, corresponding to day 18, the Bollywood epic brought in 34.45 crore across all languages. This marked a solid growth of 26.75 percent compared to its day 17 earnings of 27.18 crore.",
+          "Accumulating a grand total of 77.13 crore during its third weekend, the movie experienced a 62.05 percent decline from the second weekend collection of 203.25 crore. This brings its overall net collection in India to 978.06 crore, which translates to a gross collection of 1154.11 crore."
+        ]
+      },
+      {
+        "h": "Breakdown of the Hindi Version",
+        "p": [
+          "Focusing specifically on the Hindi language market, the feature contributed significantly to the overall totals. During the third weekend alone, the Hindi version brought in 56.38 crore net.",
+          "With these figures added, the cumulative net collection for the Hindi version reached 748.46 crore, amounting to an impressive gross total of 883.18 crore."
+        ]
+      },
+      {
+        "h": "Overall Week-by-Week Earnings",
+        "p": [
+          "The film's box office trajectory has displayed exceptional milestones since its theatrical debut. During the extended first week spanning eight days, the movie earned 581.58 crore net.",
+          "The second week added another steady 319.35 crore net to the ledger, followed by strong individual daily collections of 15.5 crore on day 16, 27.18 crore on day 17, and 34.45 crore on day 18, cementing its cumulative net at 978.06 crore."
+        ]
+      },
+      {
+        "h": "Standing Among All-Time Third Weekends",
+        "p": [
+          "With a weekend haul of 77.13 crore, Ramayana secured the third spot for highest third weekends in the country. It surpassed Pushpa 2, which previously held that position with 73 crore.",
+          "The top positions on this elite list are currently held by Dhurandhar with 99.7 crore at the top, followed by Dhurandhar 2 at the second spot with 80 crore, and Ramayana taking the third place."
+        ]
+      },
+      {
+        "h": "Cast, Crew and Release Details",
+        "p": [
+          "Directed by Nitesh Tiwari, the movie features a star-studded cast including Ranbir Kapoor, Yash, and Sai Pallavi in prominent roles. Additional supporting performances are delivered by Ravi Dubey, Arun Govil, Lara Dutta, Indira Krishnan, Rakul Preet Singh, Sonal Jha, and Vivek Oberoi.",
+          "The production is backed by Namit Malhotra and Yash under the banners of Prime Focus Studios, Monster Mind Creations, and DNEG. The film officially premiered in theaters on November 5, 2026."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Ramayana achieved the third-biggest third weekend in India with a collection of 77.13 crore, bringing its total net earnings to 978.06 crore by day 18.",
+          "The Nitesh Tiwari directorial surpassed Pushpa 2 in weekend rankings while continuing a successful theatrical run led by Ranbir Kapoor, Yash, and Sai Pallavi."
+        ]
+      }
+    ],
+    "facts": [
+      "Ramayana released on November 5, 2026",
+      "Day 18 collection was 34.45 crore",
+      "Day 17 collection was 27.18 crore",
+      "Third weekend total was 77.13 crore",
+      "Second weekend total was 203.25 crore",
+      "Total net collection in India is 978.06 crore",
+      "Total gross collection in India is 1154.11 crore",
+      "Hindi version third weekend net was 56.38 crore",
+      "Hindi version total net was 748.46 crore",
+      "Hindi version total gross was 883.18 crore",
+      "Week 1 net collection was 581.58 crore",
+      "Week 2 net collection was 319.35 crore",
+      "Day 16 net collection was 15.5 crore",
+      "Pushpa 2 third weekend collection was 73 crore",
+      "Dhurandhar third weekend collection was 99.7 crore",
+      "Dhurandhar 2 third weekend collection was 80 crore"
+    ],
+    "entities": {
+      "people": [
+        "Ranbir Kapoor",
+        "Yash",
+        "Sai Pallavi",
+        "Allu Arjun",
+        "Nitesh Tiwari",
+        "Namit Malhotra",
+        "Ravi Dubey",
+        "Arun Govil",
+        "Lara Dutta",
+        "Indira Krishnan",
+        "Rakul Preet Singh",
+        "Sonal Jha",
+        "Vivek Oberoi"
+      ],
+      "titles": [
+        "Ramayana",
+        "Pushpa 2",
+        "Dhurandhar",
+        "Dhurandhar 2"
+      ]
+    },
+    "keywords": [
+      "Ramayana box office",
+      "Ramayana day 18 collection",
+      "Ranbir Kapoor Ramayana",
+      "Ramayana third weekend"
+    ],
+    "images": [
+      {
+        "url": "https://www.koimoi.com/wp-content/new-galleries/2026/11/ramayana-rise-of-a-legend-1.jpg",
+        "caption": "Ramayana Box Office Collection Day 18: Registers 3rd Biggest Third Weekend In India",
+        "source": "Koimoi"
+      }
+    ],
+    "published": "Mon, 23 Nov 2026 10:26:05 +0000"
+  },
+  "10amsvf": {
+    "id": "10amsvf",
+    "type": "news",
+    "headline": "Nitesh Tiwari's Ramayana Impressions: Cardinal Peter Turkson Praises Film in Rome",
+    "dek": "Cardinal Peter Kodwo Turkson shared his thoughts on Nitesh Tiwari's Ramayana following a special screening at the Pontifical Academies in Rome.",
+    "body": [
+      {
+        "h": "Special Screening in Rome",
+        "p": [
+          "Nitesh Tiwari's ambitious cinematic project, Ramayana: Rise of a Legend, recently reached international audiences through a special screening held in Rome at the Pontifical Academies.",
+          "The event brought together notable attendees, including staff members of the Pontifical Academy of Sciences, Ghana's Ambassador to the Holy See, various embassy officials, and invited guests."
+        ]
+      },
+      {
+        "h": "Cardinal Turkson's Appreciation",
+        "p": [
+          "Peter Kodwo Turkson, the first Ghanaian cardinal and Chancellor of the Pontifical Academies of Sciences and Social Sciences, viewed the film and subsequently shared his perspectives on its narrative and cultural resonance.",
+          "He commended the visual execution, noting the complex photography and intricate imagery required to bring the grand scale of the production together."
+        ]
+      },
+      {
+        "h": "Parallels with Biblical and Ancient Traditions",
+        "p": [
+          "During his remarks, Cardinal Turkson drew comparisons between the themes of the Indian epic and stories found in Biblical and ancient traditions, highlighting a shared focus on the eternal struggle between good and evil.",
+          "He pointed out that the narrative foundation resembles ancient accounts of creation, noting that such mythological origins often share universal motifs across different global cultures."
+        ]
+      },
+      {
+        "h": "Themes of Brotherhood and Devotion",
+        "p": [
+          "The cardinal specifically addressed the relationship between Lord Rama and his younger brother Lakshman, observing how the younger sibling's steadfast protection echoes familiar familial duties found in Biblical texts.",
+          "He noted that the loyalty displayed, including the defense of family and spouse, represents a deeply resonant core value that transcends cultural boundaries."
+        ]
+      },
+      {
+        "h": "Cast and Production Background",
+        "p": [
+          "Directed by Nitesh Tiwari, the film features a star-studded cast with Ranbir Kapoor starring as Lord Rama, Sai Pallavi as Goddess Sita, Ravie Dubey as Lakshman, and Yash portraying Ravana.",
+          "The ensemble also includes Arun Govil as Dashrath, Lara Dutta as Queen Kaikeyi, and Rakul Preet Singh as Supranakha, with production handled by Namit Malhotra and a musical score crafted by A.R. Rahman and Hans Zimmer."
+        ]
+      },
+      {
+        "h": "Global Box Office Milestones",
+        "p": [
+          "Commercially, the feature has achieved substantial success worldwide, crossing the $100 million milestone globally during its opening week helped by the Diwali holiday period.",
+          "Trade tracking figures indicate strong continued performance in theatres following its initial debut on November 5, 2026, with a planned second installment slated for release in 2028."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Nitesh Tiwari's Ramayana received praise from Cardinal Peter Turkson after a special screening in Rome, where he highlighted its universal themes of good versus evil and brotherhood. The film continues to perform strongly at the global box office following its November 2026 release."
+        ]
+      }
+    ],
+    "facts": [
+      "Published on November 23, 2026",
+      "Screening took place at the Pontifical Academies",
+      "Cardinal Peter Kodwo Turkson is the first Ghanaian cardinal",
+      "Film title is Ramayana or Ramayana: Rise of a Legend",
+      "Released in theatres on November 5, 2026",
+      "Second installment scheduled for 2028 release",
+      "Cast includes Ranbir Kapoor, Sai Pallavi, Ravie Dubey, Yash, Arun Govil, Lara Dutta, and Rakul Preet Singh",
+      "Produced by Namit Malhotra",
+      "Music by A.R. Rahman and Hans Zimmer",
+      "Worldwide collection around 1,693.50 crore in 18 days",
+      "India net collection stands at 942.75 crore",
+      "Crossed $100 million globally in its first week"
+    ],
+    "entities": {
+      "people": [
+        "Nitesh Tiwari",
+        "Peter Kodwo Turkson",
+        "Ranbir Kapoor",
+        "Sai Pallavi",
+        "Ravie Dubey",
+        "Yash",
+        "Arun Govil",
+        "Lara Dutta",
+        "Rakul Preet Singh",
+        "Namit Malhotra",
+        "A.R. Rahman",
+        "Hans Zimmer",
+        "Monica Yadav"
+      ],
+      "titles": [
+        "Ramayana",
+        "Ramayana: Rise of a Legend"
+      ]
+    },
+    "keywords": [
+      "Ramayana: Rise of a Legend",
+      "Nitesh Tiwari Ramayana",
+      "Cardinal Peter Turkson",
+      "Ramayana box office collection"
+    ],
+    "images": [
+      {
+        "url": "https://www.hindustantimes.com/ht-img/img/2026/11/23/1600x900/logo/Ramayana_Cardinal_1795426436813_3NqJ_1795426441965_5Lm2_0bc8a422-406f-4395-bb6c-f4693c1b7ac5_QmG7.jpg",
+        "caption": "Nitesh Tiwari's Ramayana Impressions: Cardinal Peter Turkson Praises Film in Rome",
+        "source": "Hindustan Times — Entertainment"
+      }
+    ],
+    "published": "Mon, 23 Nov 2026 15:29:34 +0530"
+  },
+  "3nzjdb": {
+    "id": "3nzjdb",
+    "type": "news",
+    "headline": "Netflix Announces December 4 Premiere for First Pakistani Original Series Jo Bachay Hain Sang Samait Lo",
+    "dek": "Fawad Khan and Mahira Khan headline Netflix's upcoming series Jo Bachay Hain Sang Samait Lo, which adapts Farhat Ishtiaq's bestselling Urdu novel and features a vast ensemble cast.",
+    "body": [
+      {
+        "h": "Global Premiere Date Announced",
+        "p": [
+          "Streaming giant Netflix has officially confirmed the release schedule for its first Pakistan-themed original production titled Jo Bachay Hain Sang Samait Lo. The series is slated to make its global debut on December 4, bringing a major narrative exploration centered around human relationships and the true meaning of affection.",
+          "The official launch date and first look were unveiled through a promotional poster shared widely across social media channels. The artwork highlighted the scale of the production, offering viewers an initial glimpse into the complex emotional landscape that the upcoming streaming project aims to deliver to global audiences."
+        ]
+      },
+      {
+        "h": "Star-Studded Ensemble Cast",
+        "p": [
+          "The series brings together prominent names from the South Asian entertainment industry, prominently featuring acclaimed actors Fawad Khan and Mahira Khan in lead roles. Their reunion on screen follows previous widely recognized collaborations that left a lasting impression on television and film viewers alike.",
+          "Beyond the primary leads, the ensemble cast includes popular performers such as Sanam Saeed, Ahad Raza Mir, Hania Aamir, Maya Ali, Hamza Ali Abbasi, Iqra Aziz, Bilal Ashraf, Ahmed Ali Akbar, Khushaal Khan, Nadia Jamil, Omair Rana, and Samina Ahmed. The project unites multiple generations of talent to portray intertwined romantic arcs."
+        ]
+      },
+      {
+        "h": "A Multi-Generational Narrative",
+        "p": [
+          "At its core, the storyline of Jo Bachay Hain Sang Samait Lo spans across three distinct generations while weaving together six individual love stories. The promotional campaign has emphasized a central question regarding whether the emotional bonds carried within human hearts are sufficient to overcome life trials.",
+          "The narrative structure explores various forms of vulnerability, loss, and connection. By focusing on diverse character dynamics, the series seeks to examine how affection manifests and evolves across different stages of life and varied personal circumstances."
+        ]
+      },
+      {
+        "h": "Adaptation of Farhat Ishtiaq's Bestselling Novel",
+        "p": [
+          "The web series is a screen adaptation of the bestselling Urdu novel written by Farhat Ishtiaq. The literary work originally appeared as a serial publication in Khawateen Digest before receiving a physical book release.",
+          "The plot follows Sikandar, a Harvard law student who deals with a traumatic experience by shutting himself off from emotional ties. His path crosses with Liza, an artist confronting her own difficult past, while both characters find themselves in Italy."
+        ]
+      },
+      {
+        "h": "Production Scale and International Locations",
+        "p": [
+          "Production on the ambitious project took place across multiple international and domestic locations, capturing scenes in Pakistan, Italy, and the United Kingdom. This extensive filming schedule was designed to reflect the diverse journeys of the characters.",
+          "The series was produced under the banner of Momina Duraid Films, with Momina Duraid handling responsibilities as both showrunner and producer. The commission for the project originated directly from Netflix's Middle East and North Africa team."
+        ]
+      },
+      {
+        "h": "Availability on Netflix India and Regional Context",
+        "p": [
+          "Indian subscribers have spotted the title listed as an upcoming release on Netflix India, where users can set reminders for the scheduled December 4 launch. However, questions remain regarding final viewing access given existing regional regulations concerning cross-border media.",
+          "In May 2025, India's Ministry of Information and Broadcasting directed streaming platforms operating within the country to halt the broadcast of content originating from Pakistan amid diplomatic tensions. As of the announcement, Netflix has not issued definitive confirmation on whether Indian audiences will be able to stream the series locally."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Netflix has scheduled the premiere of its first Pakistani original series, Jo Bachay Hain Sang Samait Lo, for December 4, featuring a star-studded cast led by Fawad Khan and Mahira Khan. Adapted from Farhat Ishtiaq's novel and produced by Momina Duraid Films, the multi-generational drama was filmed across Pakistan, Italy, and the United Kingdom.",
+          "While the title appears on Netflix India for user reminders, final streaming access remains uncertain due to prior regulatory directives concerning media originating from Pakistan."
+        ]
+      }
+    ],
+    "facts": [
+      "Jo Bachay Hain Sang Samait Lo is Netflix's first Pakistani original series.",
+      "The global premiere date is set for December 4.",
+      "The project was first announced in August 2023.",
+      "The release date and poster were revealed on November 22.",
+      "The novel was originally serialized in Khawateen Digest in 2009 and published as a book in 2013.",
+      "Filming locations include Pakistan, Italy, and the United Kingdom.",
+      "India's Ministry of Information and Broadcasting asked OTT platforms to stop streaming content originating from Pakistan in May 2025."
+    ],
+    "entities": {
+      "people": [
+        "Fawad Khan",
+        "Mahira Khan",
+        "Hania Aamir",
+        "Sanam Saeed",
+        "Ahad Raza Mir",
+        "Maya Ali",
+        "Hamza Ali Abbasi",
+        "Iqra Aziz",
+        "Bilal Ashraf",
+        "Ahmed Ali Akbar",
+        "Khushaal Khan",
+        "Nadia Jamil",
+        "Omair Rana",
+        "Samina Ahmed",
+        "Farhat Ishtiaq",
+        "Momina Duraid",
+        "Sajal Aly",
+        "Humayun Saeed",
+        "Monica Yadav"
+      ],
+      "titles": [
+        "Jo Bachay Hain Sang Samait Lo",
+        "Humsafar",
+        "The Legend of Maula Jatt",
+        "Zindagi Gulzar Hai",
+        "Barzakh",
+        "Resident Evil",
+        "World on Fire",
+        "Bin Roye",
+        "Yaqeen Ka Safar"
+      ]
+    },
+    "keywords": [
+      "Jo Bachay Hain Sang Samait Lo",
+      "Fawad Khan Mahira Khan Netflix",
+      "Farhat Ishtiaq novel adaptation",
+      "Netflix Pakistani original series"
+    ],
+    "images": [
+      {
+        "url": "https://www.hindustantimes.com/ht-img/img/2026/11/23/1600x900/logo/Fawad_Hamza_1795423647610_lVSy_1795423652957_N7A3_811fa8ed-55e6-4717-a7a3-7937fdfd7464_VYlK.jpg",
+        "caption": "Netflix Announces December 4 Premiere for First Pakistani Original Series Jo Bachay Hain Sang Samait Lo",
+        "source": "Hindustan Times — Entertainment"
+      }
+    ],
+    "published": "Mon, 23 Nov 2026 16:06:13 +0530"
+  },
+  "761pw2": {
+    "id": "761pw2",
+    "type": "news",
+    "headline": "O.M Chapter 1 India Box Office: Dhanush, Mammootty & Sai Pallavi starrer records ordinary trends, grosses Rs 54 crore in three days",
+    "dek": "The Dhanush, Mammootty, and Sai Pallavi starrer O.M Chapter 1, directed by Rajkumar Periasamy, needs strong trends ahead in order to have a successful run at the box office.",
+    "body": [
+      {
+        "h": "Opening Weekend Performance",
+        "p": [
+          "The newly released cinematic venture O.M Chapter 1 has completed its first three days at the domestic box office. Starring a prominent ensemble cast that includes Dhanush, Sai Pallavi, and Mammootty in lead roles, the movie has managed to generate a notable initial response from ticket buyers across the country.",
+          "Despite a substantial start on its opening day, the film exhibited ordinary trends over the remainder of the weekend. Industry trackers note that it did not achieve the specific surge in growth that trade experts anticipated following its initial launch."
+        ]
+      },
+      {
+        "h": "Detailed Day-Wise Collections",
+        "p": [
+          "On its first day in theaters, the feature brought in a solid collection of Rs. 19.75 crore at the Indian box office. This opening set a firm foundation for the multi-starrer project during its early theatrical run.",
+          "Moving into its second day, the collections experienced a slight dip, registering Rs. 17.15 crore. The trend continued similarly on the third day, with early estimates indicating an addition of Rs. 17.10 crore, bringing the cumulative three-day gross total to Rs. 54 crore."
+        ]
+      },
+      {
+        "h": "Regional Response and Word of Mouth",
+        "p": [
+          "Audience reception for the movie has been largely favorable, with viewers expressing appreciation for the narrative and performances. However, this positive word of mouth has not completely translated into the expected momentum within Tamil Nadu itself.",
+          "Interestingly, trade reports highlight that the picture recorded relatively better performance trends in markets outside its primary local territories, balancing out the local figures to some extent."
+        ]
+      },
+      {
+        "h": "Production and Direction Background",
+        "p": [
+          "The creative vision behind O.M Chapter 1 is led by director Rajkumar Periasamy, who helmed the project to bring the multi-starrer vision to life. The film features a massive lineup of celebrated actors sharing screen space.",
+          "Financial backing for the feature is provided by Wunderbar Films, which managed the production scale and release strategy for the commercial venture in major cinematic circuits."
+        ]
+      },
+      {
+        "h": "Competition and Market Landscape",
+        "p": [
+          "In terms of theatrical competition, the feature enjoys a relatively clear path forward. Existing holdover releases like Scene are nearing the completion of their respective theatrical runs and no longer pose a significant threat.",
+          "Aside from ongoing box office heavyweights like Ramayana and select Hollywood titles currently playing in cinemas, the Dhanush starrer faces minimal direct rivalry, leaving a clear window open for future gains."
+        ]
+      },
+      {
+        "h": "Crucial Weekday Test Ahead",
+        "p": [
+          "With the opening weekend concluded, all analytical attention is now directed toward the upcoming weekday performance. A strong hold on Monday is considered vital for the film's long-term commercial sustainability.",
+          "If the production can sustain steady numbers and foster favorable trends in the days to come, trade experts believe it may successfully navigate its theatrical journey and conclude its run on a positive note."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "The multi-starrer O.M Chapter 1 starring Dhanush, Mammootty, and Sai Pallavi has grossed a total of Rs 54 crore in its first three days at the Indian box office following an opening day of Rs 19.75 crore. Although audience reception is largely favorable, the film has recorded ordinary trends and now faces a crucial weekday test to secure its theatrical success."
+        ]
+      }
+    ],
+    "facts": [
+      "O.M Chapter 1 grossed Rs 54 crore in three days at the Indian box office.",
+      "Day 1 collection was Rs. 19.75 crore.",
+      "Day 2 collection was Rs. 17.15 crore.",
+      "Day 3 collection was estimated at Rs. 17.10 crore.",
+      "The film stars Dhanush, Mammootty, and Sai Pallavi.",
+      "The film is directed by Rajkumar Periasamy.",
+      "The film is backed by Wunderbar Films."
+    ],
+    "entities": {
+      "people": [
+        "Dhanush",
+        "Mammootty",
+        "Sai Pallavi",
+        "Rajkumar Periasamy"
+      ],
+      "titles": [
+        "O.M Chapter 1",
+        "Ramayana",
+        "Scene"
+      ]
+    },
+    "keywords": [
+      "O.M Chapter 1",
+      "Dhanush O.M Chapter 1 box office",
+      "Mammootty Sai Pallavi film",
+      "O.M Chapter 1 collection"
+    ],
+    "images": [
+      {
+        "url": "https://www.pinkvilla.com/images/2026-11/1073878840_om-_1_.webp",
+        "caption": "O.M Chapter 1 India Box Office: Dhanush, Mammootty & Sai Pallavi starrer records ordinary trends, grosses Rs 54 crore in",
+        "source": "Pinkvilla"
+      }
+    ],
+    "published": "Mon, 23 Nov 2026 12:18:10 +0530"
   }
 };

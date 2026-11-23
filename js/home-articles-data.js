@@ -66,6 +66,103 @@ window.FA_HOME_ARTICLES = {
     ],
     "published": "Mon, 23 Nov 2026 10:40:39 +0000"
   },
+  "3nzjdb": {
+    "id": "3nzjdb",
+    "type": "news",
+    "headline": "Netflix Announces December 4 Premiere for First Pakistani Original Series Jo Bachay Hain Sang Samait Lo",
+    "dek": "Fawad Khan and Mahira Khan headline Netflix's upcoming series Jo Bachay Hain Sang Samait Lo, which adapts Farhat Ishtiaq's bestselling Urdu novel and features a vast ensemble cast.",
+    "entities": {
+      "people": [
+        "Fawad Khan",
+        "Mahira Khan",
+        "Hania Aamir",
+        "Sanam Saeed",
+        "Ahad Raza Mir",
+        "Maya Ali",
+        "Hamza Ali Abbasi",
+        "Iqra Aziz",
+        "Bilal Ashraf",
+        "Ahmed Ali Akbar",
+        "Khushaal Khan",
+        "Nadia Jamil",
+        "Omair Rana",
+        "Samina Ahmed",
+        "Farhat Ishtiaq",
+        "Momina Duraid",
+        "Sajal Aly",
+        "Humayun Saeed",
+        "Monica Yadav"
+      ],
+      "titles": [
+        "Jo Bachay Hain Sang Samait Lo",
+        "Humsafar",
+        "The Legend of Maula Jatt",
+        "Zindagi Gulzar Hai",
+        "Barzakh",
+        "Resident Evil",
+        "World on Fire",
+        "Bin Roye",
+        "Yaqeen Ka Safar"
+      ]
+    },
+    "keywords": [
+      "Jo Bachay Hain Sang Samait Lo",
+      "Fawad Khan Mahira Khan Netflix",
+      "Farhat Ishtiaq novel adaptation",
+      "Netflix Pakistani original series"
+    ],
+    "images": [
+      {
+        "url": "https://www.hindustantimes.com/ht-img/img/2026/11/23/1600x900/logo/Fawad_Hamza_1795423647610_lVSy_1795423652957_N7A3_811fa8ed-55e6-4717-a7a3-7937fdfd7464_VYlK.jpg",
+        "caption": "Netflix Announces December 4 Premiere for First Pakistani Original Series Jo Bachay Hain Sang Samait Lo",
+        "source": "Hindustan Times — Entertainment"
+      }
+    ],
+    "published": "Mon, 23 Nov 2026 16:06:13 +0530"
+  },
+  "1wq3z1n": {
+    "id": "1wq3z1n",
+    "type": "news",
+    "headline": "Ramayana Box Office Collection Day 18: Registers 3rd Biggest Third Weekend In India",
+    "dek": "Ranbir Kapoor, Yash, and Sai Pallavi starrer Ramayana continues its strong theatrical run, securing the third-biggest third weekend in Indian box office history.",
+    "entities": {
+      "people": [
+        "Ranbir Kapoor",
+        "Yash",
+        "Sai Pallavi",
+        "Allu Arjun",
+        "Nitesh Tiwari",
+        "Namit Malhotra",
+        "Ravi Dubey",
+        "Arun Govil",
+        "Lara Dutta",
+        "Indira Krishnan",
+        "Rakul Preet Singh",
+        "Sonal Jha",
+        "Vivek Oberoi"
+      ],
+      "titles": [
+        "Ramayana",
+        "Pushpa 2",
+        "Dhurandhar",
+        "Dhurandhar 2"
+      ]
+    },
+    "keywords": [
+      "Ramayana box office",
+      "Ramayana day 18 collection",
+      "Ranbir Kapoor Ramayana",
+      "Ramayana third weekend"
+    ],
+    "images": [
+      {
+        "url": "https://www.koimoi.com/wp-content/new-galleries/2026/11/ramayana-rise-of-a-legend-1.jpg",
+        "caption": "Ramayana Box Office Collection Day 18: Registers 3rd Biggest Third Weekend In India",
+        "source": "Koimoi"
+      }
+    ],
+    "published": "Mon, 23 Nov 2026 10:26:05 +0000"
+  },
   "qiff74": {
     "id": "qiff74",
     "type": "news",
@@ -144,6 +241,47 @@ window.FA_HOME_ARTICLES = {
       }
     ],
     "published": "Mon, 23 Nov 2026 10:04:19 +0000"
+  },
+  "10amsvf": {
+    "id": "10amsvf",
+    "type": "news",
+    "headline": "Nitesh Tiwari's Ramayana Impressions: Cardinal Peter Turkson Praises Film in Rome",
+    "dek": "Cardinal Peter Kodwo Turkson shared his thoughts on Nitesh Tiwari's Ramayana following a special screening at the Pontifical Academies in Rome.",
+    "entities": {
+      "people": [
+        "Nitesh Tiwari",
+        "Peter Kodwo Turkson",
+        "Ranbir Kapoor",
+        "Sai Pallavi",
+        "Ravie Dubey",
+        "Yash",
+        "Arun Govil",
+        "Lara Dutta",
+        "Rakul Preet Singh",
+        "Namit Malhotra",
+        "A.R. Rahman",
+        "Hans Zimmer",
+        "Monica Yadav"
+      ],
+      "titles": [
+        "Ramayana",
+        "Ramayana: Rise of a Legend"
+      ]
+    },
+    "keywords": [
+      "Ramayana: Rise of a Legend",
+      "Nitesh Tiwari Ramayana",
+      "Cardinal Peter Turkson",
+      "Ramayana box office collection"
+    ],
+    "images": [
+      {
+        "url": "https://www.hindustantimes.com/ht-img/img/2026/11/23/1600x900/logo/Ramayana_Cardinal_1795426436813_3NqJ_1795426441965_5Lm2_0bc8a422-406f-4395-bb6c-f4693c1b7ac5_QmG7.jpg",
+        "caption": "Nitesh Tiwari's Ramayana Impressions: Cardinal Peter Turkson Praises Film in Rome",
+        "source": "Hindustan Times — Entertainment"
+      }
+    ],
+    "published": "Mon, 23 Nov 2026 15:29:34 +0530"
   },
   "yolxyt": {
     "id": "yolxyt",
@@ -687,6 +825,39 @@ window.FA_HOME_ARTICLES = {
       }
     ],
     "published": "Mon, 23 Nov 2026 06:53:54 +0000"
+  },
+  "761pw2": {
+    "id": "761pw2",
+    "type": "news",
+    "headline": "O.M Chapter 1 India Box Office: Dhanush, Mammootty & Sai Pallavi starrer records ordinary trends, grosses Rs 54 crore in three days",
+    "dek": "The Dhanush, Mammootty, and Sai Pallavi starrer O.M Chapter 1, directed by Rajkumar Periasamy, needs strong trends ahead in order to have a successful run at the box office.",
+    "entities": {
+      "people": [
+        "Dhanush",
+        "Mammootty",
+        "Sai Pallavi",
+        "Rajkumar Periasamy"
+      ],
+      "titles": [
+        "O.M Chapter 1",
+        "Ramayana",
+        "Scene"
+      ]
+    },
+    "keywords": [
+      "O.M Chapter 1",
+      "Dhanush O.M Chapter 1 box office",
+      "Mammootty Sai Pallavi film",
+      "O.M Chapter 1 collection"
+    ],
+    "images": [
+      {
+        "url": "https://www.pinkvilla.com/images/2026-11/1073878840_om-_1_.webp",
+        "caption": "O.M Chapter 1 India Box Office: Dhanush, Mammootty & Sai Pallavi starrer records ordinary trends, grosses Rs 54 crore in",
+        "source": "Pinkvilla"
+      }
+    ],
+    "published": "Mon, 23 Nov 2026 12:18:10 +0530"
   },
   "8n1qb9": {
     "id": "8n1qb9",
@@ -4573,150 +4744,6 @@ window.FA_HOME_ARTICLES = {
     ],
     "published": "Sun, 22 Nov 2026 07:39:54 +0000"
   },
-  "1yfxh2y": {
-    "id": "1yfxh2y",
-    "type": "news",
-    "headline": "Panja Vaisshnav Tej to Star in Hanuman 2: The Rise of Vanaras",
-    "dek": "Following the triumph of Hanu-Man, Prime Show Entertainment has officially announced a brand new mythology-inspired fantasy venture starring Panja Vaisshnav Tej and directed by Vi Anand.",
-    "entities": {
-      "people": [
-        "Panja Vaisshnav Tej",
-        "Vi Anand",
-        "K Niranjan Reddy",
-        "Chaitanya Reddy",
-        "Teja Sajja",
-        "Prasanth Varma",
-        "Rohit Panikker"
-      ],
-      "titles": [
-        "Hanuman 2: The Rise of Vanaras",
-        "Hanu-Man",
-        "Hanuman Ansh"
-      ]
-    },
-    "keywords": [
-      "Hanuman 2 The Rise of Vanaras",
-      "Panja Vaisshnav Tej",
-      "Vi Anand",
-      "Prime Show Entertainment",
-      "K Niranjan Reddy"
-    ],
-    "images": [
-      {
-        "url": "https://filmfare.wwmindia.com/content/2026/nov/hanuman-2-the-rise-of-vanaras-announced-panja-vaisshnav-tej-to-lead-the-fantasy1795332400.jpg",
-        "caption": "Panja Vaisshnav Tej to Star in Hanuman 2: The Rise of Vanaras",
-        "source": "Filmfare"
-      }
-    ],
-    "published": "2026-11-22T13:01:21+05:30"
-  },
-  "pflrqt": {
-    "id": "pflrqt",
-    "type": "news",
-    "headline": "Shah Rukh Khan Advocates Peace and Empathy at Global Peace Honours in Mumbai",
-    "dek": "Bollywood superstar Shah Rukh Khan delivered a powerful message on compassion, individual responsibility, and harmony at the Global Peace Honours event, while also paying tribute to victims of terror attacks and fallen security personnel.",
-    "entities": {
-      "people": [
-        "Shah Rukh Khan",
-        "Amruta Fadnavis",
-        "Devendra Fadnavis",
-        "Rohit Panikker"
-      ],
-      "titles": [
-        "Dilwale Dulhania Le Jayenge"
-      ]
-    },
-    "keywords": [
-      "Shah Rukh Khan Global Peace Honours",
-      "Shah Rukh Khan Mumbai speech",
-      "Global Peace Honours Divyaj Foundation",
-      "Shah Rukh Khan peace and empathy"
-    ],
-    "images": [
-      {
-        "url": "https://filmfare.wwmindia.com/content/2026/nov/shah-rukh-khan-advocates-peace-over-conflict-at-global-peace-honours1795331724.jpg",
-        "caption": "Shah Rukh Khan Advocates Peace and Empathy at Global Peace Honours in Mumbai",
-        "source": "Filmfare"
-      }
-    ],
-    "published": "2026-11-22T12:54:25+05:30"
-  },
-  "1xe867l": {
-    "id": "1xe867l",
-    "type": "news",
-    "headline": "Kichcha Sudeep Sets November 27 for Title Teaser Launch of Upcoming Film with Director Prem",
-    "dek": "Kannada star Kichcha Sudeep reveals that the title and teaser for his much-anticipated collaboration with director Prem will debut in Bengaluru on November 27.",
-    "entities": {
-      "people": [
-        "Kichcha Sudeep",
-        "Prem",
-        "Shiva Rajkumar",
-        "Amy Jackson",
-        "Mithun Chakraborty",
-        "Srikanth",
-        "Saranya Ponvannan",
-        "Arjun Janya",
-        "Dhruva Sarja",
-        "Anup Bhandari",
-        "Priya"
-      ],
-      "titles": [
-        "KD: The Devil",
-        "Billa Ranga Baasha",
-        "Devaraaya",
-        "Bigg Boss Kannada"
-      ]
-    },
-    "keywords": [
-      "Kichcha Sudeep Prem film",
-      "Kichcha Sudeep title teaser launch",
-      "Kichcha Sudeep upcoming movie Bengaluru",
-      "Prem director Kannada movie"
-    ],
-    "images": [
-      {
-        "url": "https://static.toiimg.com/thumb/msid-136069420,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "caption": "Kichcha Sudeep Sets November 27 for Title Teaser Launch of Upcoming Film with Director Prem",
-        "source": "Times of India — Entertainment"
-      }
-    ],
-    "published": "2026-11-22T12:40:17+05:30"
-  },
-  "7cf4t": {
-    "id": "7cf4t",
-    "type": "news",
-    "headline": "OM Ending Explained: Decoding the Fate of Dhanush, Mammootty, and the Red Sandalwood Ring",
-    "dek": "An in-depth breakdown of Rajkumar Periasamy's Tamil drama OM, exploring undercover operations, police brutality, and the climactic twists surrounding its main characters.",
-    "entities": {
-      "people": [
-        "Rajkumar Periasamy",
-        "Dhanush",
-        "Mammootty",
-        "Sai Pallavi",
-        "Sreeleela",
-        "Indrans",
-        "Naseeruddin Shah"
-      ],
-      "titles": [
-        "OM",
-        "Operation Mole"
-      ]
-    },
-    "keywords": [
-      "OM Tamil movie",
-      "Dhanush Mammootty OM",
-      "Rajkumar Periasamy film",
-      "OM ending explained"
-    ],
-    "images": [
-      {
-        "url": "https://www.koimoi.com/wp-content/new-galleries/2026/11/om-movie-ending-explained-0001.jpg",
-        "caption": "OM Ending Explained: Decoding the Fate of Dhanush, Mammootty, and the Red Sandalwood Ring",
-        "source": "Koimoi"
-      }
-    ],
-    "published": "Sun, 22 Nov 2026 07:00:17 +0000"
-  },
   "4onnrk": {
     "id": "4onnrk",
     "type": "news",
@@ -5334,36 +5361,6 @@ window.FA_HOME_ARTICLES = {
     ],
     "published": "2026-11-19T14:45:04Z"
   },
-  "ovjjrn": {
-    "id": "ovjjrn",
-    "type": "news",
-    "headline": "Delhi High Court Sends Sidhu Moose Wala's Phantom Ferrari Song Dispute To Mediation",
-    "dek": "The legal tussle over the posthumous release of Sidhu Moose Wala's unreleased track Phantom Ferrari between his parents and Saga Music has been directed to mediation by the Delhi High Court.",
-    "entities": {
-      "people": [
-        "Sidhu Moose Wala",
-        "Akhil Sibal",
-        "Manoj Jain"
-      ],
-      "titles": [
-        "Phantom Ferrari"
-      ]
-    },
-    "keywords": [
-      "Sidhu Moose Wala Phantom Ferrari",
-      "Saga Music copyright dispute",
-      "Sidhu Moose Wala unreleased song",
-      "Delhi High Court music mediation"
-    ],
-    "images": [
-      {
-        "url": "https://images.timesnownews.com/thumb/msid-156532356,thumbsize-528767,width-1280,height-720,resizemode-75/156532356.jpg",
-        "caption": "Delhi High Court Sends Sidhu Moose Wala's Phantom Ferrari Song Dispute To Mediation",
-        "source": "Times Now — Entertainment"
-      }
-    ],
-    "published": "2026-11-19T06:53:55Z"
-  },
   "1w900ih": {
     "id": "1w900ih",
     "type": "news",
@@ -5574,45 +5571,5 @@ window.FA_HOME_ARTICLES = {
       }
     ],
     "published": "2026-11-17T15:00:38Z"
-  },
-  "8u9d4d": {
-    "id": "8u9d4d",
-    "type": "news",
-    "headline": "Glenn Close Receives Honorary Oscar After Eight Prior Nominations",
-    "dek": "The acclaimed actress was finally awarded an Oscar statuette at the 2026 Governors Awards, presented by her longtime co-star John Malkovich.",
-    "entities": {
-      "people": [
-        "Glenn Close",
-        "John Malkovich",
-        "Annie Starke",
-        "Marc Albu",
-        "Ridley Scott",
-        "Floyd Norman"
-      ],
-      "titles": [
-        "The World According to Garp",
-        "The Big Chill",
-        "The Natural",
-        "Fatal Attraction",
-        "Dangerous Liaisons",
-        "Albert Nobbs",
-        "The Wife",
-        "Hillbilly Elegy"
-      ]
-    },
-    "keywords": [
-      "Glenn Close",
-      "John Malkovich",
-      "Governors Awards",
-      "honorary Oscar"
-    ],
-    "images": [
-      {
-        "url": "https://www.justjared.com/wp-content/uploads/2026/11/glenn-close-honorary-oscar.jpg",
-        "caption": "Glenn Close Receives Honorary Oscar After Eight Prior Nominations",
-        "source": "Just Jared"
-      }
-    ],
-    "published": "Tue, 17 Nov 2026 00:01:42 +0000"
   }
 };

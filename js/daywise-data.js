@@ -4784,7 +4784,7 @@ window.FA_DAYWISE = {
     {
       "date": "2026-11-22",
       "day": "Day 18",
-      "collection": 3761226,
+      "collection": 3639725,
       "shows": 16277,
       "occupancy": 37.9
     },
