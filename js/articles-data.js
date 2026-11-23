@@ -227192,5 +227192,444 @@ window.FA_ARTICLES = {
     ],
     "images": [],
     "published": "2026-11-23T05:51:46Z"
+  },
+  "1f68iqe": {
+    "id": "1f68iqe",
+    "type": "news",
+    "headline": "Sanjay Leela Bhansali Plans Unique Musical Rollout for Upcoming Film Love & War",
+    "dek": "Renowned filmmaker Sanjay Leela Bhansali is reportedly adopting a familiar promotional blueprint for his next directorial venture, choosing to release a musical track before unveiling the official trailer.",
+    "body": [
+      {
+        "h": "A Musical Introduction Ahead of the Trailer",
+        "p": [
+          "Filmmaker Sanjay Leela Bhansali is preparing a distinct promotional strategy for his highly anticipated directorial project, Love & War. According to recent reports, the director intends to introduce audiences to the world of the film through its music long before the primary trailer campaign begins.",
+          "Industry insiders have revealed that this choice aligns with the director's long-standing preference for placing music at the forefront of his creative and marketing endeavors, using melodic compositions to establish tone and atmosphere."
+        ]
+      },
+      {
+        "h": "Following Past Promotional Playbooks",
+        "p": [
+          "The decision to lead with a song rather than a conventional trailer mirrors methods Bhansali has successfully employed in past projects. By teasing the auditory landscape first, he allows viewers to connect with the project on an emotional level before seeing visual narrative snippets.",
+          "This calculated approach has proven effective in generating anticipation and curiosity, creating a distinct pathway from the initial promotional rollout to the eventual unveiling of the full-length cinematic preview."
+        ]
+      },
+      {
+        "h": "Precedents Set by Bajirao Mastani",
+        "p": [
+          "A notable example of this promotional pattern occurred during the release of the historical drama Bajirao Mastani, which starred Ranveer Singh and Deepika Padukone. In that instance, the first song, Gajanana, was launched at a special event held in Pune in September 2015.",
+          "The official trailer for the epic romance followed several weeks later, premiering on November 20, 2015. This sequence successfully established the film's grandeur through its soundtrack prior to a broader visual campaign."
+        ]
+      },
+      {
+        "h": "Streaming Success with Heeramandi",
+        "p": [
+          "Bhansali carried a similar strategy over to the digital realm with his expansive Netflix series, Heeramandi: The Diamond Bazaar. The project initiated its promotional journey when the first song, Sakal Ban, was released on March 9, 2024.",
+          "Drawing from a traditional composition attributed to Amir Khusro, the track preceded the official series trailer, which was unveiled nearly a month later on April 8, 2024, maintaining audience engagement throughout the lead-up."
+        ]
+      },
+      {
+        "h": "Cast and Production Details for Love & War",
+        "p": [
+          "Written, directed, and produced entirely by Sanjay Leela Bhansali, Love & War is slated for a theatrical release on January 21, 2027. The venture brings together a star-studded main cast featuring Ranbir Kapoor, Alia Bhatt, and Vicky Kaushal.",
+          "While specific narrative details remain tightly guarded by the makers, early reports suggest the storyline will center around a complex love triangle set against the dramatic backdrop of war, with additional rumors pointing to Ranbir and Vicky portraying Air Force pilots."
+        ]
+      },
+      {
+        "h": "Notable Actor and Director Reunions",
+        "p": [
+          "The upcoming project facilitates significant professional reunions for the filmmaker. Love & War marks Bhansali's return to working with Ranbir Kapoor following their earlier collaboration on Saawariya, alongside reuniting him with Alia Bhatt after Gangubai Kathiawadi.",
+          "Additionally, the film establishes a fresh creative partnership, serving as the very first collaboration between the celebrated director and actor Vicky Kaushal, heightening interest across the industry."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Sanjay Leela Bhansali is reportedly planning to release the first song from his upcoming film Love & War before launching its trailer, mirroring strategies used for Bajirao Mastani and Heeramandi: The Diamond Bazaar.",
+          "Starring Ranbir Kapoor, Alia Bhatt, and Vicky Kaushal, the film is written, directed, and produced by Bhansali and is scheduled to hit theaters on January 21, 2027."
+        ]
+      }
+    ],
+    "facts": [
+      "Love & War is written, directed, and produced by Sanjay Leela Bhansali.",
+      "Love & War is scheduled to release in theatres on January 21, 2027.",
+      "The film stars Ranbir Kapoor, Alia Bhatt, and Vicky Kaushal.",
+      "Bajirao Mastani starred Ranveer Singh and Deepika Padukone.",
+      "The song Gajanana was launched in Pune in September 2015.",
+      "The Bajirao Mastani trailer was released on November 20, 2015.",
+      "Heeramandi: The Diamond Bazaar released its first song, Sakal Ban, on March 9, 2024.",
+      "The Heeramandi trailer was unveiled on April 8, 2024."
+    ],
+    "entities": {
+      "people": [
+        "Sanjay Leela Bhansali",
+        "Ranbir Kapoor",
+        "Alia Bhatt",
+        "Vicky Kaushal",
+        "Ranveer Singh",
+        "Deepika Padukone",
+        "Amir Khusro"
+      ],
+      "titles": [
+        "Love & War",
+        "Bajirao Mastani",
+        "Heeramandi: The Diamond Bazaar",
+        "Gajanana",
+        "Sakal Ban",
+        "Saawariya",
+        "Gangubai Kathiawadi"
+      ]
+    },
+    "keywords": [
+      "Love War film",
+      "Sanjay Leela Bhansali Love War",
+      "Ranbir Kapoor Alia Bhatt Vicky Kaushal",
+      "Love War release date"
+    ],
+    "images": [
+      {
+        "url": "https://media5.bollywoodhungama.in/wp-content/uploads/2026/11/670650230_17931833199234403_5541338801255316001_n.jpg.jpeg",
+        "caption": "Sanjay Leela Bhansali Plans Unique Musical Rollout for Upcoming Film Love & War",
+        "source": "Bollywood Hungama"
+      }
+    ],
+    "published": "Mon, 23 Nov 2026 10:39:25 +0200"
+  },
+  "pf6e6i": {
+    "id": "pf6e6i",
+    "type": "news",
+    "headline": "Johnny Depp’s Ebenezer Suffers Major Second-Weekend Box Office Slump",
+    "dek": "The gothic holiday feature Ebenezer experienced a steep domestic decline in its sophomore frame, though robust overseas earnings and favorable audience grades offer a silver lining for Johnny Depp's return to Hollywood.",
+    "body": [
+      {
+        "h": "Sophomore Frame Box Office Slump",
+        "p": [
+          "The gothic feature Ebenezer encountered a challenging second weekend in domestic theaters, recording a sharp drop of 59.5% in ticket sales. Slipping to the third position at the box office, the project managed to pull in $7.7 million during its sophomore frame.",
+          "This latest weekend haul brings its cumulative domestic total to $32.5 million. Although the studio added a small number of locations, bringing the total theater count to 3,545, the expansion failed to prevent a steep loss in opening weekend momentum and resulted in an average of $2,172 per venue."
+        ]
+      },
+      {
+        "h": "International Markets Soften the Blow",
+        "p": [
+          "While domestic numbers took a significant hit, foreign box office returns have provided crucial support for the release. International territories contributed an impressive $45.9 million, making up 58.5% of the overall global gross.",
+          "Combined with domestic earnings, the worldwide box office total has now climbed to $78.4 million. This strong overseas performance has helped cushion the domestic drop and keeps the film financially viable as its global run continues."
+        ]
+      },
+      {
+        "h": "Audience Reception Versus Critic Reviews",
+        "p": [
+          "Critical response to the project has been notably divided, resulting in an aggregate score of 54% based on 156 reviews. Critics pointed to a perceived lack of originality in the narrative, though many highlighted the standout production design.",
+          "In contrast, everyday moviegoers expressed much higher enthusiasm, awarding the feature an A- CinemaScore. This noticeable discrepancy between professional critics and ticket buyers suggests that positive word-of-mouth could help mitigate further losses in upcoming weeks."
+        ]
+      },
+      {
+        "h": "Creative Team and Star-Studded Cast",
+        "p": [
+          "The creative vision behind the picture was led by director Ti West, who worked from a script penned by Nathaniel Halpern. The story serves as a gothic reimagining of the classic Charles Dickens holiday tale.",
+          "Johnny Depp leads the ensemble in the role of Scrooge, supported by a prominent cast including Rupert Grint, Andrea Riseborough, Sam Claflin, Daisy Ridley, Tramell Tillman, and Ian McKellen. Additional performances feature Arthur Conti as young Ebenezer, Ian McKellen as Jacob Marley, and Freddie Lee-Grey as Tiny Tim."
+        ]
+      },
+      {
+        "h": "Competitive Marketplace and Industry Standings",
+        "p": [
+          "The cinematic landscape during this release window remains exceptionally crowded with competing titles. Other prominent films filling out the top box office ranks include The Hunger Games: Sunrise of the Reaping holding the number one spot, alongside releases like The Cat in the Hat and I Play Rocky.",
+          "Meanwhile, fellow competitor Godzilla Minus Zero experienced a steep 74% drop in its third weekend, tracking toward a domestic milestone of $48.5 million by Sunday."
+        ]
+      },
+      {
+        "h": "Release Timeline and Long-Term Outlook",
+        "p": [
+          "Paramount initially debuted the film with a New York City premiere on November 1, followed by a theatrical rollout in the United States and the United Kingdom on November 13, 2026.",
+          "Despite mixed critical feedback regarding Johnny Depp's performance and the film's originality, devoted fans continue turning out to theaters. Bolstered by international momentum and favorable audience goodwill, the project maintains a clear path toward theatrical recovery."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Johnny Depp’s Ebenezer saw a significant 59.5% domestic drop in its second weekend, pulling in $7.7 million to reach a domestic total of $32.5 million. Despite mixed reviews and a crowded box office, strong international earnings and an A- CinemaScore provide hope for the film's recovery."
+        ]
+      }
+    ],
+    "facts": [
+      "November 22, 2026",
+      "Devanshi Basu",
+      "59.5%",
+      "$7.7 million",
+      "3,545",
+      "$2,172",
+      "$32.5 million",
+      "45.9 million",
+      "58.5%",
+      "$78.4 million",
+      "54%",
+      "156",
+      "A-",
+      "Ti West",
+      "Nathaniel Halpern",
+      "Johnny Depp",
+      "Rupert Grint",
+      "Andrea Riseborough",
+      "Sam Claflin",
+      "Daisy Ridley",
+      "Tramell Tillman",
+      "Ian McKellen",
+      "Arthur Conti",
+      "Freddie Lee-Grey",
+      "The Hunger Games: Sunrise of the Reaping",
+      "The Cat in the Hat",
+      "I Play Rocky",
+      "Godzilla Minus Zero",
+      "74%",
+      "$48.5 million",
+      "Paramount",
+      "November 13, 2026",
+      "November 1, 2026"
+    ],
+    "entities": {
+      "people": [
+        "Johnny Depp",
+        "Devanshi Basu",
+        "Ti West",
+        "Nathaniel Halpern",
+        "Rupert Grint",
+        "Andrea Riseborough",
+        "Sam Claflin",
+        "Daisy Ridley",
+        "Tramell Tillman",
+        "Ian McKellen",
+        "Arthur Conti",
+        "Freddie Lee-Grey"
+      ],
+      "titles": [
+        "Ebenezer",
+        "The Hunger Games: Sunrise of the Reaping",
+        "The Cat in the Hat",
+        "I Play Rocky",
+        "Godzilla Minus Zero"
+      ]
+    },
+    "keywords": [
+      "Johnny Depp Ebenezer",
+      "Ebenezer box office drop",
+      "Ti West Ebenezer movie",
+      "Ebenezer domestic total"
+    ],
+    "images": [
+      {
+        "url": "https://www.comingsoon.net/wp-content/uploads/sites/3/2026/11/param.webp?resize=1200,630",
+        "caption": "Johnny Depp’s Ebenezer Suffers Major Second-Weekend Box Office Slump",
+        "source": "ComingSoon.net"
+      }
+    ],
+    "published": "Mon, 23 Nov 2026 05:15:00 +0000"
+  },
+  "pqqk9j": {
+    "id": "pqqk9j",
+    "type": "news",
+    "headline": "Shraddha Kapoor Surprises Fans With Special Stage Appearance at Shreya Ghoshal's Bengaluru Concert",
+    "dek": "Actor Shraddha Kapoor made a surprise appearance at Shreya Ghoshal's Unstoppable India Tour opening night in Bengaluru, where she danced to a track from her upcoming film and sang alongside the famous playback singer.",
+    "body": [
+      {
+        "h": "Surprise Stage Appearance in Bengaluru",
+        "p": [
+          "Singer Shreya Ghoshal officially kicked off her extensive Unstoppable India Tour with a live concert in Bengaluru. The opening night delivered several memorable moments for the audience, including unexpected special appearances by rapper and singer Badshah as well as actor Shraddha Kapoor.",
+          "Clips from the event quickly circulated across online platforms, capturing the moment Shraddha walked onto the stage. Dressed elegantly in a white saree, the actor joined the main performer to the delight of the packed venue."
+        ]
+      },
+      {
+        "h": "Dancing to the Eetha Song",
+        "p": [
+          "During the concert, Shreya Ghoshal performed the track Ji Ji Re Ji from the upcoming biographical film Eetha. While the song played, Shraddha surprised the crowd by dancing on stage to the rhythm.",
+          "The track belongs to her upcoming cinematic project, generating substantial buzz among attendees and fans tracking the tour updates online."
+        ]
+      },
+      {
+        "h": "A Nostalgic Musical Duet",
+        "p": [
+          "In another segment of the concert, Shreya encouraged Shraddha to showcase her vocal talents by singing Sun Raha Hai Na Tu from the hit 2013 romantic musical drama Aashiqui 2. Although initially hesitant, the actor yielded to enthusiastic cheers from the audience.",
+          "Shreya expressed visible appreciation for her singing abilities as they shared the microphone. The performance concluded with a warm hug between the two artists on stage."
+        ]
+      },
+      {
+        "h": "Reliving the Aarohi Legacy",
+        "p": [
+          "As soon as the singing concluded, the Bengaluru audience erupted into loud cheers, shouting the name Aarohi. This was a direct reference to Shraddha Kapoor's breakout character, Aarohi Keshav Shirke, from Mohit Suri's 2013 musical hit Aashiqui 2.",
+          "Playing the talented young singer aspiring to make it big in the music industry proved to be a major turning point in Shraddha's professional acting career."
+        ]
+      },
+      {
+        "h": "Fan Reactions and Internet Buzz",
+        "p": [
+          "The internet reacted with immense excitement to the surprise stage collaboration. Social media users flooded comment sections with awe, with one fan remarking on the iconic nature of having both stars in a single frame.",
+          "Other commenters described the moment as completely unexpected and thrilling, with some even playfully suggesting that Shraddha should embark on a dual concert tour with Shreya."
+        ]
+      },
+      {
+        "h": "Tour Itinerary and Upcoming Stops",
+        "p": [
+          "Following the successful opening night in Bengaluru, Shreya Ghoshal's Unstoppable India Tour has a packed schedule ahead. Upcoming concert destinations include Guwahati, Kolkata, Bhubaneswar, Vizag, Jaipur, Delhi, Hyderabad, Ahmedabad, Kochi, Pune, and Chennai.",
+          "The tour is scheduled to conclude its run in Mumbai and finally wrap up with a final performance in Indore."
+        ]
+      },
+      {
+        "h": "Context on Eetha and Upcoming Releases",
+        "p": [
+          "Helmed by director Laxman Utekar, Eetha is a biographical film centered on the life of Tamasha and Lavani artist Vithabai Bhau Mang Narayangaonkar. Shraddha Kapoor stars in the titular role alongside a cast that includes Randeep Hooda, Mohammed Zeeshan Ayyub, Siddharth Jadhav, Ishtiyak Khan, and Anant Joshi.",
+          "The project also features one of the final screen appearances of veteran actor Nana Patekar. The film is slated for a theatrical release and will face a box-office clash with Maatrubhumi: May War Rest in Peace."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Actor Shraddha Kapoor made a surprise guest appearance at singer Shreya Ghoshal's Unstoppable India Tour opening concert in Bengaluru. During the event, Shraddha danced to a song from her upcoming biographical film Eetha and joined Shreya to sing a track from Aashiqui 2."
+        ]
+      }
+    ],
+    "facts": [
+      "Shreya Ghoshal kicked off her Unstoppable India Tour in Bengaluru on Sunday, November 22, 2026.",
+      "Shraddha Kapoor wore a white saree during her surprise stage appearance.",
+      "The two sang Sun Raha Hai Na Tu from Aashiqui 2 (2013).",
+      "Shraddha played Aarohi in Aashiqui 2, directed by Mohit Suri.",
+      "Eetha is directed by Laxman Utekar and stars Shraddha Kapoor as Vithabai Bhau Mang Narayangaonkar.",
+      "Nana Patekar passed away on October 8, 2026."
+    ],
+    "entities": {
+      "people": [
+        "Shraddha Kapoor",
+        "Shreya Ghoshal",
+        "Badshah",
+        "Mohit Suri",
+        "Laxman Utekar",
+        "Randeep Hooda",
+        "Mohammed Zeeshan Ayyub",
+        "Siddharth Jadhav",
+        "Ishtiyak Khan",
+        "Anant Joshi",
+        "Nana Patekar",
+        "Salman Khan",
+        "Chitrangada Singh",
+        "Vithabai Bhau Mang Narayangaonkar"
+      ],
+      "titles": [
+        "Aashiqui 2",
+        "Eetha",
+        "Ji Ji Re Ji",
+        "Sun Raha Hai Na Tu",
+        "Maatrubhumi: May War Rest in Peace",
+        "Tamasha"
+      ]
+    },
+    "keywords": [
+      "Shraddha Kapoor Eetha song",
+      "Shreya Ghoshal Bengaluru concert",
+      "Shraddha Kapoor Shreya Ghoshal",
+      "Eetha Laxman Utekar film"
+    ],
+    "images": [
+      {
+        "url": "https://www.hindustantimes.com/ht-img/img/2026/11/23/1600x900/logo/Shreya_and_Shraddha_1795399865480_CHuJ_1795399878001_iYI0_e89a5bf7-2b21-4608-b572-1708617cc001_wJth.jpg",
+        "caption": "Shraddha Kapoor Surprises Fans With Special Stage Appearance at Shreya Ghoshal's Bengaluru Concert",
+        "source": "Hindustan Times — Entertainment"
+      }
+    ],
+    "published": "Mon, 23 Nov 2026 11:36:47 +0530"
+  },
+  "o5ximo": {
+    "id": "o5ximo",
+    "type": "news",
+    "headline": "SS Rajamouli's Varanasi Production Sets Allegedly Leak on Apple Maps",
+    "dek": "Detailed images appearing to show the massive sets of SS Rajamouli's upcoming film Varanasi in Hyderabad have surfaced on Apple Maps, sparking online debate and security concerns.",
+    "body": [
+      {
+        "h": "Unexpected Discovery on Mapping Platform",
+        "p": [
+          "A video has recently gone viral across social media platforms after a user discovered what appear to be elaborate production sets on Apple Maps. The footage reveals detailed topographical imagery of a massive Kasi set located in Hyderabad.",
+          "The circulation of this video has ignited discussions among film enthusiasts about a potential breach in production confidentiality. Viewers have been given an unpredicted peek into the grand scale of the project's physical infrastructure."
+        ]
+      },
+      {
+        "h": "Ambiguity Surrounding Authenticity",
+        "p": [
+          "Despite the heavy traction the footage has gained online, neither the filmmakers nor the core production team have officially verified the authenticity of the mapping images.",
+          "The lack of an official statement leaves room for speculation, yet the sheer detail captured on the public mapping service has already managed to captivate eager fans waiting for official promotional materials."
+        ]
+      },
+      {
+        "h": "Production Security and Secrecy Concerns",
+        "p": [
+          "The online appearance of these set designs has shifted focus toward the broader issue of keeping massive cinematic undertakings tightly under wraps. For a venture of this magnitude, shielding production design and shooting locations from the public eye is a top priority.",
+          "Several online commentators and individuals associated with the industry have voiced their frustration over behind-the-scenes glimpses making their way onto the internet prior to the intentional marketing rollout."
+        ]
+      },
+      {
+        "h": "Star-Studded Cast and Crew",
+        "p": [
+          "Helmed by acclaimed director SS Rajamouli, Varanasi stands as one of the most substantial and anticipated endeavors of his professional filmmaking career. The movie marks the very first time the director is joining forces with leading actor Mahesh Babu.",
+          "In addition to Mahesh Babu, the film boasts a high-profile international cast featuring Priyanka Chopra Jonas and Prithviraj Sukumaran, bringing together major names from the film industry."
+        ]
+      },
+      {
+        "h": "Plot Details and Character Roles",
+        "p": [
+          "The narrative of Varanasi is framed as an ambitious time-travel adventure that scales multiple distinct geographical backdrops, including Varanasi itself, regions of Africa, and Antarctica.",
+          "Within the story, Mahesh Babu portrays the character Rudhra, while Priyanka Chopra Jonas steps into the role of Mandakini. Furthermore, Prithviraj Sukumaran is reported to play the principal antagonist, Kumbha, alongside a planned Ramayana-inspired sequence depicting a battle between Lord Rama and Kumbhakarna."
+        ]
+      },
+      {
+        "h": "Current Production and Release Timeline",
+        "p": [
+          "Principal photography for the movie has already wrapped up, and the project has officially transitioned into its extensive post-production phase. The creative team recently shared that dedicated efforts are being directed toward CGI, re-recording, and dubbing.",
+          "Audiences worldwide can expect to see the finished product in theaters, as a worldwide theatrical release is officially scheduled for April 7, 2027."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "A viral video showing what appears to be the elaborate Kasi set for SS Rajamouli's Varanasi in Hyderabad on Apple Maps has sparked online discussions and production security concerns. The ambitious time-travel adventure, starring Mahesh Babu, Priyanka Chopra Jonas, and Prithviraj Sukumaran, has completed its shoot and is slated for a worldwide theatrical release on April 7, 2027."
+        ]
+      }
+    ],
+    "facts": [
+      "Varanasi is directed by SS Rajamouli",
+      "The film stars Mahesh Babu, Priyanka Chopra Jonas, and Prithviraj Sukumaran",
+      "Mahesh Babu plays the character Rudhra",
+      "Priyanka Chopra Jonas plays Mandakini",
+      "Prithviraj Sukumaran reportedly plays the antagonist Kumbha",
+      "The film's sets were allegedly spotted on Apple Maps in Hyderabad on November 23, 2026",
+      "The film is a time-travel adventure spanning Varanasi, Africa, and Antarctica",
+      "The movie is scheduled for a worldwide theatrical release on April 7, 2027"
+    ],
+    "entities": {
+      "people": [
+        "SS Rajamouli",
+        "Mahesh Babu",
+        "Priyanka Chopra",
+        "Prithviraj Sukumaran",
+        "Priyanka Chopra Jonas",
+        "Rudhra",
+        "Mandakini",
+        "Kumbha",
+        "Lord Rama",
+        "Kumbhakarna"
+      ],
+      "titles": [
+        "Varanasi",
+        "Ramayana"
+      ]
+    },
+    "keywords": [
+      "Varanasi film",
+      "SS Rajamouli Varanasi",
+      "Mahesh Babu Varanasi",
+      "Priyanka Chopra Varanasi",
+      "Varanasi Apple Maps"
+    ],
+    "images": [
+      {
+        "url": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202611/mahesh-babu-235534964-16x9_0.jpeg?VersionId=AZV6cFzED5o.9PxcfcoSDQfbh__0LrU_",
+        "caption": "SS Rajamouli's Varanasi Production Sets Allegedly Leak on Apple Maps",
+        "source": "India Today — Movies"
+      }
+    ],
+    "published": "Mon, 23 Nov 2026 11:34:24 +0530"
   }
 };
