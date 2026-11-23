@@ -230883,5 +230883,200 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Mon, 23 Nov 2026 12:20:12 GMT"
+  },
+  "1q8blpb": {
+    "id": "1q8blpb",
+    "type": "news",
+    "headline": "Bano Episode 40 — Watch Online on Geo TV",
+    "dek": "Bano episode 40 aired on 2026-11-23 — watch the full episode on Geo TV.",
+    "body": [
+      {
+        "h": "Episode Details",
+        "p": [
+          "Bano Episode 40 aired on 2026-11-23 on Geo TV. The full episode is available on the channel's official YouTube page.",
+          "Watch the full episode here: https://www.youtube.com/watch?v=5X6GID65lwM"
+        ]
+      }
+    ],
+    "facts": [
+      "Bano Episode 40 aired on 2026-11-23.",
+      "Channel: Geo TV.",
+      "Watch the full episode: https://www.youtube.com/watch?v=5X6GID65lwM",
+      "YouTube views: 110,340."
+    ],
+    "entities": {
+      "titles": [
+        "Bano"
+      ],
+      "people": []
+    },
+    "images": [
+      {
+        "url": "https://i.ytimg.com/vi/5X6GID65lwM/hqdefault.jpg",
+        "caption": "Bano Episode 40",
+        "source": "Geo TV"
+      }
+    ],
+    "published": "2026-11-23T17:03:27Z"
+  },
+  "1rach7a": {
+    "id": "1rach7a",
+    "type": "news",
+    "headline": "Lagan Lagi Episode 23 — Watch Online on ARY Digital",
+    "dek": "Lagan Lagi episode 23 aired on 2026-11-23 — watch the full episode on ARY Digital.",
+    "body": [
+      {
+        "h": "Episode Details",
+        "p": [
+          "Lagan Lagi Episode 23 aired on 2026-11-23 on ARY Digital. The full episode is available on the channel's official YouTube page.",
+          "Watch the full episode here: https://www.youtube.com/watch?v=j7mC4ulwsFU"
+        ]
+      }
+    ],
+    "facts": [
+      "Lagan Lagi Episode 23 aired on 2026-11-23.",
+      "Channel: ARY Digital.",
+      "Watch the full episode: https://www.youtube.com/watch?v=j7mC4ulwsFU",
+      "YouTube views: 4,833."
+    ],
+    "entities": {
+      "titles": [
+        "Lagan Lagi"
+      ],
+      "people": []
+    },
+    "images": [
+      {
+        "url": "https://i.ytimg.com/vi/j7mC4ulwsFU/hqdefault.jpg",
+        "caption": "Lagan Lagi Episode 23",
+        "source": "ARY Digital"
+      }
+    ],
+    "published": "2026-11-23T17:00:08Z"
+  },
+  "xcxzyk": {
+    "id": "xcxzyk",
+    "type": "news",
+    "headline": "Hurmat Episode 15 — Watch Online on HUM TV",
+    "dek": "Hurmat episode 15 aired on 2026-11-23 — watch the full episode on HUM TV.",
+    "body": [
+      {
+        "h": "Episode Details",
+        "p": [
+          "Hurmat Episode 15 aired on 2026-11-23 on HUM TV. The full episode is available on the channel's official YouTube page.",
+          "Watch the full episode here: https://www.youtube.com/watch?v=qtArZ2Hjn8I"
+        ]
+      },
+      {
+        "h": "About Hurmat",
+        "p": [
+          "Hurmat follows the journey of a bright and ambitious young woman trapped under strict family and societal restrictions. Raised in a highly conservative household, her choices are entirely controlled by her authoritarian father, who initially forbids her from pursuing higher education. When a supportive uncle steps in to help her enroll in a university, she moves to a modern city, catching a glimpse of a world beyond her boundaries and finding a new sense of independence. However, her life takes a darker, more complex turn as she falls for a classmate, throwing her into a turbulent storm of intense family conflicts, hidden secrets, betrayal, and high-stakes legal battles."
+        ]
+      }
+    ],
+    "facts": [
+      "Hurmat Episode 15 aired on 2026-11-23.",
+      "Channel: HUM TV.",
+      "Watch the full episode: https://www.youtube.com/watch?v=qtArZ2Hjn8I",
+      "YouTube views: 771,418.",
+      "TMDB: Hurmat (id 337670)."
+    ],
+    "entities": {
+      "titles": [
+        "Hurmat"
+      ],
+      "people": [
+        "Dananeer Mobeen",
+        "Shahveer Jaffery",
+        "Ali Tahir",
+        "Javed Sheikh",
+        "Anoushay Abbasi"
+      ]
+    },
+    "images": [
+      {
+        "url": "https://i.ytimg.com/vi/qtArZ2Hjn8I/hqdefault.jpg",
+        "caption": "Hurmat Episode 15",
+        "source": "HUM TV"
+      }
+    ],
+    "published": "2026-11-23T16:00:21Z"
+  },
+  "1n1b5ye": {
+    "id": "1n1b5ye",
+    "type": "news",
+    "headline": "Khushi Episode 72 — Watch Online on HUM TV",
+    "dek": "Khushi episode 72 aired on 2026-11-23 — watch the full episode on HUM TV.",
+    "body": [
+      {
+        "h": "Episode Details",
+        "p": [
+          "Khushi Episode 72 aired on 2026-11-23 on HUM TV. The full episode is available on the channel's official YouTube page.",
+          "Watch the full episode here: https://www.youtube.com/watch?v=9T4D-pTeMbY"
+        ]
+      },
+      {
+        "h": "Episode Summary",
+        "p": [
+          "Is episode ki shuruaat mein Ammar aur uske waldain ke darmayan Khushi ke maamle par shdeed behas hoti hai. Ammar"
+        ]
+      }
+    ],
+    "facts": [
+      "Khushi Episode 72 aired on 2026-11-23.",
+      "Channel: HUM TV.",
+      "Watch the full episode: https://www.youtube.com/watch?v=9T4D-pTeMbY",
+      "YouTube views: 536,168.",
+      "Episode summary added 2026-11-23."
+    ],
+    "entities": {
+      "titles": [
+        "Khushi"
+      ],
+      "people": []
+    },
+    "images": [
+      {
+        "url": "https://i.ytimg.com/vi/9T4D-pTeMbY/hqdefault.jpg",
+        "caption": "Khushi Episode 72",
+        "source": "HUM TV"
+      }
+    ],
+    "published": "2026-11-23T15:00:13Z"
+  },
+  "1rc1wde": {
+    "id": "1rc1wde",
+    "type": "news",
+    "headline": "Mera Ghar Episode 7 — Watch Online on ARY Digital",
+    "dek": "Mera Ghar episode 7 aired on 2026-11-23 — watch the full episode on ARY Digital.",
+    "body": [
+      {
+        "h": "Episode Details",
+        "p": [
+          "Mera Ghar Episode 7 aired on 2026-11-23 on ARY Digital. The full episode is available on the channel's official YouTube page.",
+          "Watch the full episode here: https://www.youtube.com/watch?v=2orcy_4wahU"
+        ]
+      }
+    ],
+    "facts": [
+      "Mera Ghar Episode 7 aired on 2026-11-23.",
+      "Channel: ARY Digital.",
+      "Watch the full episode: https://www.youtube.com/watch?v=2orcy_4wahU",
+      "YouTube views: 56,262."
+    ],
+    "entities": {
+      "titles": [
+        "Mera Ghar"
+      ],
+      "people": []
+    },
+    "images": [
+      {
+        "url": "https://i.ytimg.com/vi/2orcy_4wahU/hqdefault.jpg",
+        "caption": "Mera Ghar Episode 7",
+        "source": "ARY Digital"
+      }
+    ],
+    "published": "2026-11-23T15:00:06Z"
   }
 };
