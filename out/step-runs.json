@@ -4,45 +4,6 @@
    {
     "step": "fetch",
     "category": "Trending News",
-    "run_at": "2026-11-22T14:51:45Z",
-    "run_id": "45034998404",
-    "status": "success",
-    "checked": {
-     "candidates": 328,
-     "detail": "RSS/Atom items across 137 sources; 4 source(s) errored"
-    },
-    "changed": {
-     "added": [
-      "Sapna Choudhary Confirms Filing For Divorce From Husband Veer Sahu, Shares REASON: Koi Teesra Aadmi...",
-      "Aakasamlo Oka Tara Telugu States Box Office Collection Day 2: Dulquer Salmaan's Film Nears ₹6 Crore",
-      "Rashmika on filing police complaint over trolling after 'KWK9': 'If someone speaks about my family...'",
-      "Poonam Pandey takes a dig at Samay Raina over her unreleased 'India's Got Latent 2' episode",
-      "In 1999, Michael Jackson bought David O. Selznick’s Oscar; it has been reported stolen since 2016",
-      "In 2025, Chet Hanks moved to Nashville and is now focusing on country music and living in a trailer",
-      "Armaan Jain cooks up a Sunday feast for Kareena Kapoor, Karisma Kapoor, Supriya Sule after 1 year of Dining with the Kapoors",
-      "Naga Chaitanya lists out everything he loves about wife Sobhita Dhulipala; says she taught him to be impromptu",
-      "SNL Fans Thought The Show Was Building Around Ashley Padilla, But Not So Fast",
-      "5 Of The Best Sci-Fi Movies From This Century Are All Streaming In The Same Place",
-      "I Just Found Out The Real Reason Young Sheldon Wasn’t Filmed Before A Live Audience Like The Big Bang Theory",
-      "Why Gen Z Is Claiming Robert Pattinson As Their James Bond",
-      "Jennifer Lawrence Had One Complaint About Playing Mystique In X-Men I Didn't See Coming",
-      "Top 9 Hunger Games Book Names With Literary Origins",
-      "Sylvester Stallone’s ‘Rocky’ Biopic Officially Adds Nearly 2,500 Theaters",
-      "‘The Matrix’ Star’s Supernatural Series Is Officially Breaking Records",
-      "Glen Powell’s Savage Thriller Officially Takes Over Streaming",
-      "The 10 Greatest '90s TV Pilots, Ranked",
-      "9 Essential Movies to Watch Before 'The Further Mis-Adventures of Cliff Booth'",
-      "HBO’s ‘Harry Potter’ Officially Changes a Classic Book Moment in First Full Scene Release"
-     ],
-     "updated": [],
-     "count": 309,
-     "detail": "321 stories, 1 duplicates removed, 7 dropped"
-    },
-    "reason": null
-   },
-   {
-    "step": "fetch",
-    "category": "Trending News",
     "run_at": "2026-11-22T15:51:47Z",
     "run_id": "45040511753",
     "status": "success",
@@ -936,32 +897,48 @@
      "detail": "327 stories, 3 duplicates removed, 10 dropped"
     },
     "reason": null
-   }
-  ],
-  "apply_auto": [
+   },
    {
-    "step": "apply_auto",
+    "step": "fetch",
     "category": "Trending News",
-    "run_at": "2026-11-22T16:12:46Z",
-    "run_id": "45040511753",
+    "run_at": "2026-11-23T13:51:06Z",
+    "run_id": "45187920574",
     "status": "success",
     "checked": {
-     "candidates": 14,
-     "detail": "draft articles + box-office rows from out/gemini-batch.json"
+     "candidates": 313,
+     "detail": "RSS/Atom items across 137 sources; 0 source(s) errored"
     },
     "changed": {
      "added": [
-      "Hanuman Ansh Director Vishal Chaturvedi Questions Bollywood Silence After 450 Crore Success",
-      "Sapna Choudhary Breaks Silence on Divorce from Veeru Sahu After Six Years of Marriage",
-      "Ten HBO Crime Shows That Offer the Ideal Weekend Binge Experience",
-      "Shah Rukh Khan Advocates Peace and Empathy at Global Peace Honours in Mumbai"
+      "EXCLUSIVE: Though Yeh Prem Mol Liya gets U/A 13+ certificate; CBFC passed Sooraj Barjatya’s family entertainer WITHOUT a SINGLE cut",
+      "After Ek Deewane Ki Deewaniyat, Harshvardhan Rane and Anshul Garg reunite for Majnu; project to go on floors on December 1",
+      "Chor Nikal Ke Bhaga 2 announced: Yami Gautam Dhar and Sunny Kaushal return for Netflix sequel, to premiere on December 17",
+      "Babil Khan Opens Up About His Fear Of Auditions: 'I Still Feel Scared Of Auditioning'",
+      "Love In Disguise Episode 11 Dailymotion: Where & How To Watch Love In Disguise Ep 11 With English Subtitles?",
+      "Rajat Dalal Slams Avinash For Allegedly Calling Eisha ‘Bewafa’ Post Their Break Up: Log Tere Pe Thukte Time...",
+      "Ramayana Kerala Box Office Day 19 Prediction: Ranbir-Yash Film Crosses ₹70 Crore, Targets Jailer 2 Record",
+      "OM Collection Day 4 Early Update: Dhanush-Mammootty's Film Records Monday Drop; Did It BEAT Raayan Figures?",
+      "Guruvayoor Arangettam Title Look Poster Out: Unni Mukundan Films To Distribute The Romantic Drama",
+      "The Cat In The Hat Box Office: Still $16M Away From Recovering Its Budget, Continues The Animation Slump!",
+      "Ebenezer Worldwide Box Office: Needs A Massive $300M+ Haul To Break Into Johnny Depp’s Top 10 Grossers!",
+      "Campus Diaries S2 Review: I Thought This Bunch Of Red Flags Would Grow Up, But This Hopelessly Immature Group Refuses To Adult!",
+      "Latest OTT Releases This Week (November 23-November 29): Drishyam 3, Hanuman Ansh, Spider-Man: Brand New Day & More To Stream Online",
+      "Why Ramayana Is Succeeding in Kerala Where Most Bollywood Blockbusters Have Struggled",
+      "Kusha Kapila's ex-husband Zorawar opens up about failed marriage, lost job and house",
+      "Sai Pallavi joins Sri Sathya Sai Baba’s centenary celebrations in Puttaparthi",
+      "Tu Mil Jaaye: Ranveer cheered Deepika; first track from King",
+      "'Happy to be back again': Tiger Shroff on returning to stage more than month after attack on his car",
+      "Venkatesh Daggubati wishes Anil Ravipudi and Naga Chaitanya on their birthdays",
+      "Ranbir's 'Ramayana' impresses Vatican Cardinal: 'Nythical origins and background are very shared'"
      ],
      "updated": [],
-     "count": 7,
-     "detail": "+4 articles, +0 box-office rows, 3 rows updated"
+     "count": 307,
+     "detail": "313 stories, 0 duplicates removed, 0 dropped"
     },
     "reason": null
-   },
+   }
+  ],
+  "apply_auto": [
    {
     "step": "apply_auto",
     "category": "Trending News",
@@ -1490,27 +1467,32 @@
      "detail": "+4 articles, +0 box-office rows, 3 rows updated"
     },
     "reason": null
+   },
+   {
+    "step": "apply_auto",
+    "category": "Trending News",
+    "run_at": "2026-11-23T14:08:21Z",
+    "run_id": "45187920574",
+    "status": "success",
+    "checked": {
+     "candidates": 14,
+     "detail": "draft articles + box-office rows from out/gemini-batch.json"
+    },
+    "changed": {
+     "added": [
+      "Seven Classic Western Films That Instantly Hook Audiences From Their Opening Moments",
+      "Harshvardhan Rane and Producer Anshul Garg to Team Up Again for Upcoming Film Majnu",
+      "Chor Nikal Ke Bhaga 2 Set for December Premiere on Netflix with Yami Gautam Dhar and Sunny Kaushal",
+      "Exploring Six Definitive Masterpieces of the 1990s Thriller Era"
+     ],
+     "updated": [],
+     "count": 7,
+     "detail": "+4 articles, +0 box-office rows, 3 rows updated"
+    },
+    "reason": null
    }
   ],
   "ott": [
-   {
-    "step": "ott",
-    "category": "OTT",
-    "run_at": "2026-11-22T14:52:40Z",
-    "run_id": "45034998404",
-    "status": "success",
-    "checked": {
-     "candidates": 412,
-     "detail": "OTT now/coming titles from the published catalogue"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 0,
-     "detail": "now 405, coming 7"
-    },
-    "reason": "no-new-data"
-   },
    {
     "step": "ott",
     "category": "OTT",
@@ -1924,30 +1906,27 @@
      "detail": "now 410, coming 7"
     },
     "reason": "no-new-data"
+   },
+   {
+    "step": "ott",
+    "category": "OTT",
+    "run_at": "2026-11-23T14:08:21Z",
+    "run_id": "45187920574",
+    "status": "success",
+    "checked": {
+     "candidates": 417,
+     "detail": "OTT now/coming titles from the published catalogue"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 0,
+     "detail": "now 410, coming 7"
+    },
+    "reason": "no-new-data"
    }
   ],
   "trending_weekly": [
-   {
-    "step": "trending_weekly",
-    "category": "Trending Topics",
-    "run_at": "2026-11-22T16:35:19Z",
-    "run_id": "45040511753",
-    "status": "success",
-    "checked": {
-     "candidates": 100,
-     "detail": "cached Google RSS trend/article intersection"
-    },
-    "changed": {
-     "added": [
-      "75qrvo",
-      "zz74aa",
-      "ewwxmt"
-     ],
-     "updated": [],
-     "count": 3
-    },
-    "reason": null
-   },
    {
     "step": "trending_weekly",
     "category": "Trending Topics",
@@ -2422,27 +2401,32 @@
      "count": 8
     },
     "reason": null
+   },
+   {
+    "step": "trending_weekly",
+    "category": "Trending Topics",
+    "run_at": "2026-11-23T14:18:50Z",
+    "run_id": "45187920574",
+    "status": "success",
+    "checked": {
+     "candidates": 100,
+     "detail": "cached Google RSS trend/article intersection"
+    },
+    "changed": {
+     "added": [
+      "1k3o2x3",
+      "1kx4fx1",
+      "1yaww0u",
+      "1xsusrx",
+      "4onnrk"
+     ],
+     "updated": [],
+     "count": 5
+    },
+    "reason": null
    }
   ],
   "multisource_boxoffice": [
-   {
-    "step": "multisource_boxoffice",
-    "category": "Box Office",
-    "run_at": "2026-11-22T14:52:40Z",
-    "run_id": "45034998404",
-    "status": "success",
-    "checked": {
-     "candidates": 739,
-     "detail": "681 collected staging rows from readers; 252 averaged across 2+ sources"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 3,
-     "detail": "+0 new rows, 3 updated rows, 710 unchanged"
-    },
-    "reason": null
-   },
    {
     "step": "multisource_boxoffice",
     "category": "Box Office",
@@ -2856,19 +2840,27 @@
      "detail": "+0 new rows, 7 updated rows, 712 unchanged"
     },
     "reason": null
+   },
+   {
+    "step": "multisource_boxoffice",
+    "category": "Box Office",
+    "run_at": "2026-11-23T14:18:47Z",
+    "run_id": "45187920574",
+    "status": "success",
+    "checked": {
+     "candidates": 745,
+     "detail": "685 collected staging rows from readers; 254 averaged across 2+ sources"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 4,
+     "detail": "+0 new rows, 4 updated rows, 715 unchanged"
+    },
+    "reason": null
    }
   ],
   "gemini_reviews": [
-   {
-    "step": "gemini_reviews",
-    "category": "Reviews",
-    "run_at": "2026-11-22T14:52:50Z",
-    "run_id": "45034998404",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "gemini_reviews",
     "category": "Reviews",
@@ -3105,34 +3097,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "gemini_reviews",
+    "category": "Reviews",
+    "run_at": "2026-11-23T14:18:59Z",
+    "run_id": "45187920574",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "convert_news": [
-   {
-    "step": "convert_news",
-    "category": "Trending News",
-    "run_at": "2026-11-22T16:35:18Z",
-    "run_id": "45040511753",
-    "status": "success",
-    "checked": {
-     "candidates": 600,
-     "detail": "feed entries from out/queue.json"
-    },
-    "changed": {
-     "added": [
-      "Hanuman Ansh Director Vishal Chaturvedi Questions Bollywood Silence After 450 Crore Success",
-      "Sapna Choudhary Breaks Silence on Divorce from Veeru Sahu After Six Years of Marriage",
-      "Ten HBO Crime Shows That Offer the Ideal Weekend Binge Experience",
-      "Khushi Episode 71 — Watch Online on HUM TV",
-      "Mera Ghar Episode 6 — Watch Online on ARY Digital",
-      "Shah Rukh Khan Advocates Peace and Empathy at Global Peace Honours in Mumbai"
-     ],
-     "updated": [],
-     "count": 6,
-     "detail": "api-news.json 600 items, api-trends.json 12 items"
-    },
-    "reason": null
-   },
    {
     "step": "convert_news",
     "category": "Trending News",
@@ -3656,19 +3633,32 @@
      "detail": "api-news.json 600 items, api-trends.json 12 items"
     },
     "reason": null
+   },
+   {
+    "step": "convert_news",
+    "category": "Trending News",
+    "run_at": "2026-11-23T14:18:49Z",
+    "run_id": "45187920574",
+    "status": "success",
+    "checked": {
+     "candidates": 600,
+     "detail": "feed entries from out/queue.json"
+    },
+    "changed": {
+     "added": [
+      "Seven Classic Western Films That Instantly Hook Audiences From Their Opening Moments",
+      "Harshvardhan Rane and Producer Anshul Garg to Team Up Again for Upcoming Film Majnu",
+      "Chor Nikal Ke Bhaga 2 Set for December Premiere on Netflix with Yami Gautam Dhar and Sunny Kaushal",
+      "Exploring Six Definitive Masterpieces of the 1990s Thriller Era"
+     ],
+     "updated": [],
+     "count": 4,
+     "detail": "api-news.json 600 items, api-trends.json 12 items"
+    },
+    "reason": null
    }
   ],
   "episode_guides": [
-   {
-    "step": "episode_guides",
-    "category": "Drama Episodes",
-    "run_at": "2026-11-22T14:52:50Z",
-    "run_id": "45034998404",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "episode_guides",
     "category": "Drama Episodes",
@@ -3936,19 +3926,29 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "episode_guides",
+    "category": "Drama Episodes",
+    "run_at": "2026-11-23T14:06:35Z",
+    "run_id": "45187920574",
+    "status": "success",
+    "checked": {
+     "candidates": 17,
+     "detail": "YouTube episodes on the 4 official PK channels (+ intl 1M+ views); 3 new detected; 1 summary failure(s): Dastoor Ep 85"
+    },
+    "changed": {
+     "added": [],
+     "updated": [
+      "Khushi Ep 71",
+      "Aangan Ep 15"
+     ],
+     "count": 2
+    },
+    "reason": null
    }
   ],
   "title_seed": [
-   {
-    "step": "title_seed",
-    "category": "Spotlight / Coming Soon / Most Awaited",
-    "run_at": "2026-11-22T14:52:50Z",
-    "run_id": "45034998404",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "title_seed",
     "category": "Spotlight / Coming Soon / Most Awaited",
@@ -4258,31 +4258,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "title_seed",
+    "category": "Spotlight / Coming Soon / Most Awaited",
+    "run_at": "2026-11-23T14:18:59Z",
+    "run_id": "45187920574",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "gemini_batch": [
-   {
-    "step": "gemini_batch",
-    "category": "Trending News",
-    "run_at": "2026-11-22T14:52:40Z",
-    "run_id": "45034998404",
-    "status": "success",
-    "checked": {
-     "candidates": 6,
-     "detail": "news queue items drafted this run; 309 still unprocessed; today by category: movies 9/6, tv_dramas 7/4, episodes 0/2, box_office 10/6, celebrities_events 16/5, upcoming_releases 3/4, ott_streaming 9/4, trailers 2/3, awards 1/2, music_ost 2/2, viral 1/2"
-    },
-    "changed": {
-     "added": [
-      "The Mystery of Michael Jackson's Missing Gone With The Wind Oscar",
-      "The Most Controversial Christmas Horror Film Gets a Modern Remake",
-      "Naga Chaitanya Discusses His Admiration for Wife Sobhita Dhulipala and Explains How She Made Him More Spontaneous",
-      "J.A. Bayona, Guneet Monga Kapoor, and Vikas Khanna Board Short Film 'The Dragon Letter' as Executive Producers"
-     ],
-     "updated": [],
-     "count": 4
-    },
-    "reason": null
-   },
    {
     "step": "gemini_batch",
     "category": "Trending News",
@@ -4788,19 +4776,31 @@
      "count": 4
     },
     "reason": null
+   },
+   {
+    "step": "gemini_batch",
+    "category": "Trending News",
+    "run_at": "2026-11-23T14:08:20Z",
+    "run_id": "45187920574",
+    "status": "success",
+    "checked": {
+     "candidates": 6,
+     "detail": "news queue items drafted this run; 307 still unprocessed; today by category: movies 11/6, tv_dramas 7/4, episodes 0/2, box_office 13/6, celebrities_events 7/5, upcoming_releases 7/4, ott_streaming 6/4, trailers 2/3, awards 2/2, music_ost 2/2, viral 3/2"
+    },
+    "changed": {
+     "added": [
+      "Seven Classic Western Films That Instantly Hook Audiences From Their Opening Moments",
+      "Harshvardhan Rane and Producer Anshul Garg to Team Up Again for Upcoming Film Majnu",
+      "Chor Nikal Ke Bhaga 2 Set for December Premiere on Netflix with Yami Gautam Dhar and Sunny Kaushal",
+      "Exploring Six Definitive Masterpieces of the 1990s Thriller Era"
+     ],
+     "updated": [],
+     "count": 4
+    },
+    "reason": null
    }
   ],
   "overseas_ai": [
-   {
-    "step": "overseas_ai",
-    "category": "Box Office",
-    "run_at": "2026-11-22T14:52:50Z",
-    "run_id": "45034998404",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "overseas_ai",
     "category": "Box Office",
@@ -5107,19 +5107,26 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "overseas_ai",
+    "category": "Box Office",
+    "run_at": "2026-11-23T14:10:14Z",
+    "run_id": "45187920574",
+    "status": "success",
+    "checked": {
+     "candidates": 58,
+     "detail": "published movies with missing overseas day figures; Tavily searches: 48"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 0
+    },
+    "reason": "no-new-data"
    }
   ],
   "publish": [
-   {
-    "step": "publish",
-    "category": "Trending News",
-    "run_at": "2026-11-22T14:52:50Z",
-    "run_id": "45034998404",
-    "status": "failed",
-    "checked": null,
-    "changed": null,
-    "reason": "error"
-   },
    {
     "step": "publish",
     "category": "Trending News",
@@ -5424,24 +5431,24 @@
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
-   }
-  ],
-  "stats_traffic": [
+   },
    {
-    "step": "stats_traffic",
-    "category": "Stats / Health",
-    "run_at": "2026-11-22T14:52:50Z",
-    "run_id": "45034998404",
+    "step": "publish",
+    "category": "Trending News",
+    "run_at": "2026-11-23T14:18:59Z",
+    "run_id": "45187920574",
     "status": "success",
     "checked": null,
     "changed": {
      "added": [],
      "updated": [],
-     "count": 12,
+     "count": 455,
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
-   },
+   }
+  ],
+  "stats_traffic": [
    {
     "step": "stats_traffic",
     "category": "Stats / Health",
@@ -5731,19 +5738,24 @@
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
+   },
+   {
+    "step": "stats_traffic",
+    "category": "Stats / Health",
+    "run_at": "2026-11-23T14:18:59Z",
+    "run_id": "45187920574",
+    "status": "success",
+    "checked": null,
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 14,
+     "detail": "lines changed in owned files; no per-item summary from script"
+    },
+    "reason": null
    }
   ],
   "stats_pipeline": [
-   {
-    "step": "stats_pipeline",
-    "category": "Stats / Health",
-    "run_at": "2026-11-22T14:52:50Z",
-    "run_id": "45034998404",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "stats_pipeline",
     "category": "Stats / Health",
@@ -5993,19 +6005,19 @@
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
-   }
-  ],
-  "stats_health": [
+   },
    {
-    "step": "stats_health",
+    "step": "stats_pipeline",
     "category": "Stats / Health",
-    "run_at": "2026-11-22T14:52:50Z",
-    "run_id": "45034998404",
+    "run_at": "2026-11-23T14:18:59Z",
+    "run_id": "45187920574",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "stats_health": [
    {
     "step": "stats_health",
     "category": "Stats / Health",
@@ -6240,19 +6252,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "metadata_refresh": [
+   },
    {
-    "step": "metadata_refresh",
-    "category": "Spotlight / Coming Soon / Most Awaited",
-    "run_at": "2026-11-22T14:52:50Z",
-    "run_id": "45034998404",
+    "step": "stats_health",
+    "category": "Stats / Health",
+    "run_at": "2026-11-23T14:18:59Z",
+    "run_id": "45187920574",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "metadata_refresh": [
    {
     "step": "metadata_refresh",
     "category": "Spotlight / Coming Soon / Most Awaited",
@@ -6537,19 +6549,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "providers_backfill": [
+   },
    {
-    "step": "providers_backfill",
-    "category": "OTT",
-    "run_at": "2026-11-22T14:52:50Z",
-    "run_id": "45034998404",
+    "step": "metadata_refresh",
+    "category": "Spotlight / Coming Soon / Most Awaited",
+    "run_at": "2026-11-23T14:18:59Z",
+    "run_id": "45187920574",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "providers_backfill": [
    {
     "step": "providers_backfill",
     "category": "OTT",
@@ -6790,19 +6802,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "tavily_boxoffice": [
+   },
    {
-    "step": "tavily_boxoffice",
-    "category": "Box Office",
-    "run_at": "2026-11-22T14:52:50Z",
-    "run_id": "45034998404",
+    "step": "providers_backfill",
+    "category": "OTT",
+    "run_at": "2026-11-23T14:18:59Z",
+    "run_id": "45187920574",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "tavily_boxoffice": [
    {
     "step": "tavily_boxoffice",
     "category": "Box Office",
@@ -7032,19 +7044,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "tavily_boxoffice",
+    "category": "Box Office",
+    "run_at": "2026-11-23T14:18:59Z",
+    "run_id": "45187920574",
+    "status": "success",
+    "checked": null,
+    "changed": null,
+    "reason": "no-new-data"
    }
   ],
   "keywords_refresh": [
-   {
-    "step": "keywords_refresh",
-    "category": "Trending News",
-    "run_at": "2026-11-22T14:52:50Z",
-    "run_id": "45034998404",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "keywords_refresh",
     "category": "Trending News",
@@ -7297,31 +7309,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "keywords_refresh",
+    "category": "Trending News",
+    "run_at": "2026-11-23T14:18:59Z",
+    "run_id": "45187920574",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "overseas_sweep": [
-   {
-    "step": "overseas_sweep",
-    "category": "Box Office",
-    "run_at": "2026-11-21T14:08:43Z",
-    "run_id": "44910866965",
-    "status": "success",
-    "checked": {
-     "candidates": 589,
-     "detail": "completed day-wise rows missing overseas; quicknews pages fetched: 14; attempt cooldown deferred: 575"
-    },
-    "changed": {
-     "added": [
-      "Jailer 2 (1234139)",
-      "Ranabaali (1389379)",
-      "418 (1606527)",
-      "Nayyi Navelli (1654581)"
-     ],
-     "updated": [],
-     "count": 14
-    },
-    "reason": null
-   },
    {
     "step": "overseas_sweep",
     "category": "Box Office",
@@ -7833,19 +7833,31 @@
      "count": 11
     },
     "reason": null
+   },
+   {
+    "step": "overseas_sweep",
+    "category": "Box Office",
+    "run_at": "2026-11-23T14:09:18Z",
+    "run_id": "45187920574",
+    "status": "success",
+    "checked": {
+     "candidates": 602,
+     "detail": "completed day-wise rows missing overseas; quicknews pages fetched: 48; attempt cooldown deferred: 546"
+    },
+    "changed": {
+     "added": [
+      "Ramayana: Rise of a Legend (656908)",
+      "Jailer 2 (1234139)",
+      "Ranabaali (1389379)",
+      "418 (1606527)"
+     ],
+     "updated": [],
+     "count": 11
+    },
+    "reason": null
    }
   ],
   "advance_booking": [
-   {
-    "step": "advance_booking",
-    "category": "Box Office",
-    "run_at": "2026-11-22T14:52:50Z",
-    "run_id": "45034998404",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "advance_booking",
     "category": "Box Office",
@@ -8085,19 +8097,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "home_boxoffice_worldwide": [
+   },
    {
-    "step": "home_boxoffice_worldwide",
+    "step": "advance_booking",
     "category": "Box Office",
-    "run_at": "2026-11-22T14:52:50Z",
-    "run_id": "45034998404",
+    "run_at": "2026-11-23T14:18:59Z",
+    "run_id": "45187920574",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "home_boxoffice_worldwide": [
    {
     "step": "home_boxoffice_worldwide",
     "category": "Box Office",
@@ -8367,8 +8379,18 @@
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
+   },
+   {
+    "step": "home_boxoffice_worldwide",
+    "category": "Box Office",
+    "run_at": "2026-11-23T14:18:59Z",
+    "run_id": "45187920574",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ]
  },
- "updated_at": "2026-11-23T13:00:23Z"
+ "updated_at": "2026-11-23T14:18:59Z"
 }
