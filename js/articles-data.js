@@ -229229,5 +229229,367 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Mon, 23 Nov 2026 09:06:43 +0000"
+  },
+  "qiff74": {
+    "id": "qiff74",
+    "type": "news",
+    "headline": "Hello Kadhal Trailer Set for November 23 Release",
+    "dek": "The romantic Tamil feature Hello Kadhal starring Arya, Nikhila Vimal, and Vaishnavi Chaitanya is ready to debut its official trailer at 5 PM today.",
+    "body": [
+      {
+        "h": "Introduction to the Trailer Debut",
+        "p": [
+          "Audiences eagerly anticipating the romantic Tamil project Hello Kadhal will finally receive an extended look at the narrative today. The promotional clip for the film is scheduled to premiere at 5 PM on November 23, 2026.",
+          "This upcoming preview serves as the primary formal introduction to the movie's plot dynamics, character arcs, and general atmosphere. Viewers can expect a comprehensive glimpse into the world crafted by the creative team."
+        ]
+      },
+      {
+        "h": "Timing and Schedule Details",
+        "p": [
+          "The official launch time for the preview was confirmed for Monday, November 23, at 5 PM IST. Industry trackers and fans have noted the precise rollout time as excitement builds across social media platforms.",
+          "Trade analyst Ramesh Bala shared details regarding the drop, pointing out that the promotional material arrives ahead of the film's scheduled arrival on December 4, 2026."
+        ]
+      },
+      {
+        "h": "Cast and Lead Performances",
+        "p": [
+          "The feature brings together prominent faces of the industry in central roles. Actor Arya anchors the cast alongside Nikhila Vimal and Vaishnavi Chaitanya as the main leads.",
+          "Prior to the trailer release, promotional updates emphasized a blend of nostalgia, romance, and heartfelt emotions, though specific details regarding the character dynamics remained guarded."
+        ]
+      },
+      {
+        "h": "Direction and Narrative Theme",
+        "p": [
+          "The project is steered by director Nikhil Muraly, who oversees the romantic drama. The core narrative is designed to explore heartfelt emotions and interpersonal drama.",
+          "With the preview dropping today, viewers anticipate gaining deeper context regarding the setting and the specific challenges faced by the lead characters played by Arya, Vimal, and Chaitanya."
+        ]
+      },
+      {
+        "h": "Music and Creative Crew",
+        "p": [
+          "Musical composition for the film is handled by G. V. Prakash Kumar, adding melodic backing to the romantic theme. The screenplay is penned by Sunu AV and Jyothish M.",
+          "Additionally, filmmaker Halitha Shameem contributed to the additional screenplay and Tamil dialogues, ensuring a culturally resonant script for the audience."
+        ]
+      },
+      {
+        "h": "Technical and Production Personnel",
+        "p": [
+          "The film is backed by producers The Show People and Silver Grain Pictures, with K. Madhan serving as executive producer and S. Sivakumar as production executive.",
+          "The technical execution features cinematography by Jeeva Sankar and editing by Binu Nepolean. Additional crew members include art director A. R. Mohan and action choreographer Stunt Silva."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "The romantic Tamil film Hello Kadhal, starring Arya, Nikhila Vimal, and Vaishnavi Chaitanya under the direction of Nikhil Muraly, is releasing its official trailer today at 5 PM IST. This preview provides audiences with their first extended look into the emotional narrative ahead of the film's December 4 release date."
+        ]
+      }
+    ],
+    "facts": [
+      "Hello Kadhal trailer releases on November 23, 2026",
+      "The trailer drops at 5 PM IST",
+      "The film releases on December 4, 2026",
+      "Starring Arya, Nikhila Vimal, and Vaishnavi Chaitanya",
+      "Directed by Nikhil Muraly",
+      "Music composed by G. V. Prakash Kumar"
+    ],
+    "entities": {
+      "people": [
+        "Arya",
+        "Nikhila Vimal",
+        "Vaishnavi Chaitanya",
+        "Nikhil Muraly",
+        "G. V. Prakash Kumar",
+        "Ramesh Bala",
+        "Sunu AV",
+        "Jyothish M",
+        "Halitha Shameem",
+        "Jeeva Sankar",
+        "Binu Nepolean"
+      ],
+      "titles": [
+        "Hello Kadhal"
+      ]
+    },
+    "keywords": [
+      "Hello Kadhal trailer",
+      "Arya Hello Kadhal",
+      "Nikhila Vimal Hello Kadhal",
+      "Hello Kadhal release date"
+    ],
+    "images": [
+      {
+        "url": "https://images.filmibeat.com/img/2026/11/hellokadhal-69841795429248.jpg",
+        "caption": "Hello Kadhal Trailer Set for November 23 Release",
+        "source": "FilmiBeat"
+      }
+    ],
+    "published": "Mon, 23 Nov 2026 15:52:21 +0530"
+  },
+  "1xiu6pn": {
+    "id": "1xiu6pn",
+    "type": "news",
+    "headline": "Legend of Zelda Switch 2 Restocks Expected This Week as Black Friday Approaches",
+    "dek": "Hopes are high for fresh Legend of Zelda Switch 2 inventory as major retailers prepare for Black Friday week with potential new drops.",
+    "body": [
+      {
+        "h": "Anticipated Restocks for Black Friday",
+        "p": [
+          "Shoppers hunting for the elusive Legend of Zelda Switch 2 found mostly empty carts over the past week, but expectations are rising for fresh inventory as Black Friday approaches. Retailers have remained unusually quiet recently, yet the upcoming holiday sales period is widely anticipated to alter the landscape completely.",
+          "Major storefronts frequently stockpile difficult-to-locate gadgets in preparation for Black Friday week, leveraging high-profile drops to drive site traffic and enhance visibility for their broader promotions. Industry watchers note that this pattern of hoarding stock for major shopping events has previously occurred with high-demand hardware such as the PS5, Xbox Series X, PlayStation Portal, and Sony anniversary equipment."
+        ]
+      },
+      {
+        "h": "US Retailer Landscape",
+        "p": [
+          "In the United States, several key storefronts are worth monitoring closely. Amazon previously dropped small numbers of the handheld every few days near the start of its lifecycle, though activity has slowed down significantly over the last week. Meanwhile, Walmart removed its listing entirely a couple of weeks ago before mysteriously bringing it back just in time for the major shopping week.",
+          "Target previously signposted drops timed with the release of Ocarina of Time, but currently displays a standard out-of-stock message. Best Buy has not offered new units online since running a midnight launch event for the game, while Nintendo's official store remains one of the more reliable options by intermittently releasing small batches of handhelds."
+        ]
+      },
+      {
+        "h": "UK Storefronts and Inventory Status",
+        "p": [
+          "Across the Atlantic, Amazon UK has acted as a relatively steady source for restocks despite recent slowdowns, though buyers are warned to watch out for price-inflated models exceeding the standard £429 price tag. EE has focused on offering special bundles that pair the device with software such as the Ocarina of Time remake and Tomodachi Life: Living the Dream.",
+          "Smyths Toys recently returned its listing page after removing it previously, signaling potential drops for Black Friday week. Other UK merchants like Very utilize clever bundling strategies with extra accessories to deter resellers, while Argos organizes its remaining availability strictly through local postcode delivery and collection options."
+        ]
+      },
+      {
+        "h": "Physical Versus Online Availability",
+        "p": [
+          "Purchasing habits vary significantly depending on the chosen merchant, particularly when looking at physical stores versus online platforms. GameStop has chosen to restrict its Legend of Zelda Nintendo Switch 2 restocks exclusively to brick-and-mortar storefronts, meaning prospective buyers will not find console units available on their website.",
+          "Despite the lack of online console inventory at GameStop, the retailer is expected to initiate online restocks for accessories such as Pro Controllers and protective carry cases. Consumers are advised to keep their payment and shipping information saved in advance across all platform accounts to act quickly when unexpected inventory goes live."
+        ]
+      },
+      {
+        "h": "Historical Context of High-Demand Drops",
+        "p": [
+          "Tracking limited-edition gaming hardware has become a specialized field over the past six years, beginning with the notoriously restricted release windows of the original PS5 and Xbox Series X consoles. Industry reporters have closely followed how major commercial chains manage high-demand products, ranging from milestone anniversary hardware to brand new platform iterations like the Nintendo Switch 2.",
+          "Because holiday shopping periods naturally increase web traffic, merchants often use scarce items strategically. By timing inventory updates around major retail milestones, stores can maximize consumer engagement while clearing out related accessories like custom cases and pro controllers."
+        ]
+      },
+      {
+        "h": "Tips for Successful Shopping",
+        "p": [
+          "Securing a high-demand device during peak shopping weeks requires preparation and vigilance from the consumer. Experts recommend maintaining active accounts with saved payment details and delivery addresses across designated retailer pages to minimize friction during sudden restock windows.",
+          "Buyers should also remain vigilant against inflated pricing from third-party resellers, particularly on open marketplaces where scarce items command well above their recommended retail price. Sticking to official retail channels and direct manufacturer storefronts remains the safest path to securing a unit at standard cost."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Anticipation is building for Legend of Zelda Switch 2 restocks as retailers prepare for Black Friday week following a quiet period. Major US and UK storefronts are expected to release fresh inventory, with shoppers advised to keep payment details saved and monitor official channels closely."
+        ]
+      }
+    ],
+    "facts": [
+      "Black Friday week is expected to bring new Legend of Zelda Switch 2 restocks.",
+      "The standard price for the UK model is £429, with some inflated models reaching £499.",
+      "GameStop is restricting its console restocks to in-store purchases only.",
+      "Walmart recently brought back its listing page after removing it a couple of weeks prior.",
+      "Smyths Toys reinstated its listing page for the 40th Anniversary edition."
+    ],
+    "entities": {
+      "people": [
+        "Tabitha Baker"
+      ],
+      "titles": [
+        "Legend of Zelda Switch 2",
+        "Ocarina of Time",
+        "Tomodachi Life: Living the Dream"
+      ]
+    },
+    "keywords": [
+      "Legend of Zelda Switch 2",
+      "Switch 2 restocks",
+      "Black Friday Switch 2",
+      "Zelda Switch 2 stock US UK"
+    ],
+    "images": [
+      {
+        "url": "https://cdn.mos.cms.futurecdn.net/qTBYc8FoUU7zNfNskWbVUL-1920-80.jpg",
+        "caption": "Legend of Zelda Switch 2 Restocks Expected This Week as Black Friday Approaches",
+        "source": "Total Film (GamesRadar)"
+      }
+    ],
+    "published": "Mon, 23 Nov 2026 10:40:39 +0000"
+  },
+  "1tw2zmt": {
+    "id": "1tw2zmt",
+    "type": "news",
+    "headline": "Sanjay Leela Bhansali Might Drop First Song From Love And War Before Trailer Release",
+    "dek": "Director Sanjay Leela Bhansali is reportedly planning a unique promotional strategy for his upcoming period romantic drama Love And War, starring Ranbir Kapoor, Alia Bhatt, and Vicky Kaushal.",
+    "body": [
+      {
+        "h": "A Unique Promotional Strategy",
+        "p": [
+          "As anticipation mounts for the upcoming cinematic venture Love And War, new details regarding its promotional rollout have emerged. According to reports, director Sanjay Leela Bhansali is considering a pre-trailer musical rollout, giving audiences a taste of the film's soundtrack before revealing the official trailer.",
+          "This approach would follow a pattern previously established by the filmmaker for several of his high-profile past projects. Industry insiders suggest that the makers believe this musical-first strategy creates a distinctive buildup for grand cinematic releases."
+        ]
+      },
+      {
+        "h": "Precedents From Past Projects",
+        "p": [
+          "Sanjay Leela Bhansali has a history of utilizing music as the primary vanguard for his creative works. A notable instance of this occurred with the grand historical project Bajirao Mastani, where the track Gajanana was launched at a special event in Pune months ahead of the main trailer release.",
+          "A similar promotional timeline was observed during the rollout of the digital series Heeramandi: The Diamond Bazaar. In that instance, the initial musical composition Sakal Ban was made public weeks before the broader promotional trailer premiered to viewers."
+        ]
+      },
+      {
+        "h": "The Significance of Music in SLB Films",
+        "p": [
+          "Music has consistently served as a foundational pillar for Sanjay Leela Bhansali's filmography over the decades. His past directorial ventures, ranging from Devdas and Hum Dil De Chuke Sanam to Saawariya and Goliyon Ki Raasleela Ram-Leela, are well known for delivering memorable chartbuster tracks.",
+          "Audiences and critics alike have come to expect elaborate musical numbers and rich auditory landscapes in every project associated with the filmmaker, making the choice of the first single a focal point for fans."
+        ]
+      },
+      {
+        "h": "Star-Studded Cast and Crew",
+        "p": [
+          "Love And War stands as one of the most anticipated films within the Indian entertainment industry due to its prominent principal cast. The period drama features leading actors Ranbir Kapoor, Vicky Kaushal, and Alia Bhatt sharing screen space.",
+          "The sheer scale of the production combined with this powerhouse ensemble has kept the movie at the center of industry discussions ever since its official announcement was made public."
+        ]
+      },
+      {
+        "h": "Release Timelines and Adjustments",
+        "p": [
+          "The project has undergone adjustments to its initial launch schedule since its conception. Although it was originally planned for a release window in Summer 2026, the global theatrical premiere has since been moved.",
+          "The period drama is now officially scheduled to arrive in theatres worldwide on January 21, 2027. Furthermore, the film is slated for a multi-language release, coming out in Hindi, Tamil, and Telugu."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Sanjay Leela Bhansali is reportedly planning to release the first song from Love And War before unveiling the film's trailer, mirroring strategies he used for Bajirao Mastani and Heeramandi. The period romantic drama stars Ranbir Kapoor, Alia Bhatt, and Vicky Kaushal, and is scheduled to release globally in Hindi, Tamil, and Telugu on January 21, 2027."
+        ]
+      }
+    ],
+    "facts": [
+      "Love And War is scheduled to release globally on January 21, 2027.",
+      "The film stars Ranbir Kapoor, Alia Bhatt, and Vicky Kaushal.",
+      "It will release in Hindi, Tamil, and Telugu.",
+      "Bajirao Mastani released the track Gajanana in September 2015, followed by the trailer in November 2015.",
+      "Heeramandi: The Diamond Bazaar released its first song Sakal Ban on March 9, 2024, and the trailer on April 8, 2024."
+    ],
+    "entities": {
+      "people": [
+        "Sanjay Leela Bhansali",
+        "Ranbir Kapoor",
+        "Alia Bhatt",
+        "Vicky Kaushal",
+        "Ranveer Singh",
+        "Deepika Padukone",
+        "Priyanka Chopra"
+      ],
+      "titles": [
+        "Love And War",
+        "Bajirao Mastani",
+        "Heeramandi: The Diamond Bazaar",
+        "Goliyon Ki Raasleela Ram-Leela",
+        "Gangubai Kathiawadi",
+        "Devdas",
+        "Hum Dil De Chuke Sanam",
+        "Saawariya"
+      ]
+    },
+    "keywords": [
+      "Love And War film",
+      "Sanjay Leela Bhansali Love And War",
+      "Ranbir Kapoor Alia Bhatt Vicky Kaushal",
+      "Love And War release date"
+    ],
+    "images": [
+      {
+        "url": "https://cdn.bollywoodbubble.com/wp-content/uploads/2026/11/Sanjay-Leela-Bhansali-To-Release-Love-And-Wars-First-Song-Before-Trailer.webp",
+        "caption": "Sanjay Leela Bhansali Might Drop First Song From Love And War Before Trailer Release",
+        "source": "Bollywood Bubble"
+      }
+    ],
+    "published": "Mon, 23 Nov 2026 10:04:19 +0000"
+  },
+  "i6fzr": {
+    "id": "i6fzr",
+    "type": "news",
+    "headline": "Top Black Friday 2026 Gaming Discounts: Live Tracking PS5, Nintendo Switch 2, and Xbox Offers",
+    "dek": "Retailers launch early Black Friday promotions for gamers across PS5, Nintendo Switch 2, Xbox, and PC tech ahead of Thanksgiving week.",
+    "body": [
+      {
+        "h": "Kicking Off Black Friday Week",
+        "p": [
+          "The retail landscape is ramping up as Black Friday week officially arrives, bringing forward an extensive wave of early promotions. Major retailers have been rolling out introductory offers for PlayStation 5, Nintendo Switch 2, Xbox, and PC hardware since mid-October, culminating in the busiest shopping period of the year.",
+          "Storefronts such as Amazon, Best Buy, GameStop, and Walmart are actively deploying doorbuster discounts. Meanwhile, Nintendo has introduced its own holiday sale featuring price reductions on games and hardware bundles."
+        ]
+      },
+      {
+        "h": "Nintendo Switch 2 Bundles and Game Discounts",
+        "p": [
+          "One of the standout hardware promotions features the Nintendo Switch 2 Mario Kart World bundle. The package has seen its price reduced from $549.99 down to $499 for Black Friday, effectively providing the kart racer at no additional cost relative to the standalone handheld price.",
+          "Additionally, Amazon's early sales include a five-dollar discount on the digital edition of the Legend of Zelda: Ocarina of Time remake, lowering it to a new low of $54.99."
+        ]
+      },
+      {
+        "h": "Audio Gear and Headset Reductions",
+        "p": [
+          "Gamers looking for budget-friendly audio solutions can find the Turtle Beach Airlite Fit headset marked down to a record-low price of $14.99 at Amazon. The popular accessory typically commands a slightly higher sales rate.",
+          "For high-end audio enthusiasts, the SteelSeries Arctis Nova Pro Omni headset has dropped from its standard $399.99 MSRP down to $349.99 as part of the new roster of promotional prices."
+        ]
+      },
+      {
+        "h": "Controllers for Every Platform",
+        "p": [
+          "Controller options are also seeing notable price cuts across major systems. The official Sony DualSense wireless gamepad for PS5 is widely available at $54.99 down from its regular $74.99 price tag, alongside a rare price drop for the upscale Edge model.",
+          "For Xbox Series X users, the Nacon Revolution X Unlimited pro pad has fallen to $149.99, marking its lowest price point since January after remaining steady around $180 during previous sales."
+        ]
+      },
+      {
+        "h": "Budget Controllers and Accessories",
+        "p": [
+          "Budget-conscious players utilizing the Switch 2 can take advantage of the GameSir Super Nova wireless gamepad, which regularly dips to $29.99 during major shopping events.",
+          "On the protection front, the Belkin Switch 2 Charging Case Pro has received a price cut from its usual $99.99 retail figure down to $84.99, matching lows previously seen only during Prime Day."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Retailers and hardware manufacturers have rolled out early Black Friday discounts for gaming hardware including the PS5, Xbox controllers, and Nintendo Switch 2 bundles. Expert trackers are monitoring live price shifts across major platforms throughout Thanksgiving week."
+        ]
+      }
+    ],
+    "facts": [
+      "The Nintendo Switch 2 Mario Kart World bundle is priced at $499 for Black Friday, down from $549.99.",
+      "The Legend of Zelda: Ocarina of Time digital remake is discounted to $54.99 at Amazon.",
+      "The Turtle Beach Airlite Fit headset is available at a record-low price of $14.99 at Amazon.",
+      "The Sony DualSense controller is marked down to $54.99 from $74.99.",
+      "The Nacon Revolution X Unlimited controller is priced at $149.99, down from $199.99.",
+      "The SteelSeries Arctis Nova Pro Omni headset is reduced to $349.99 from $399.99.",
+      "The Belkin Switch 2 Charging Case Pro is available for $84.99, down from $99.99."
+    ],
+    "entities": {
+      "people": [
+        "Tabitha Baker"
+      ],
+      "titles": [
+        "Mario Kart World",
+        "Ocarina of Time",
+        "Turtle Beach Airlite Fit",
+        "GameSir Super Nova",
+        "DualSense",
+        "Belkin Switch 2 Charging Case Pro",
+        "Nacon Revolution X Unlimited",
+        "SteelSeries Arctis Nova Pro Omni",
+        "GTA 6"
+      ]
+    },
+    "keywords": [
+      "Nintendo Switch 2 Mario Kart World bundle",
+      "PS5 Black Friday deals",
+      "Xbox controller sales",
+      "Legend of Zelda Ocarina of Time digital"
+    ],
+    "images": [
+      {
+        "url": "https://cdn.mos.cms.futurecdn.net/2q53y7E3mN7WSvfUDwFJV9-2560-80.jpg",
+        "caption": "Top Black Friday 2026 Gaming Discounts: Live Tracking PS5, Nintendo Switch 2, and Xbox Offers",
+        "source": "Total Film (GamesRadar)"
+      }
+    ],
+    "published": "Mon, 23 Nov 2026 10:46:19 +0000"
   }
 };

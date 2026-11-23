@@ -4,45 +4,6 @@
    {
     "step": "fetch",
     "category": "Trending News",
-    "run_at": "2026-11-22T11:51:49Z",
-    "run_id": "45019280517",
-    "status": "success",
-    "checked": {
-     "candidates": 282,
-     "detail": "RSS/Atom items across 137 sources; 2 source(s) errored"
-    },
-    "changed": {
-     "added": [
-      "EXCLUSIVE: IMPPA denies legal setback in Nikhil Dwivedi’s Saffron Magicworks dispute, clarifies Bombay High Court order was passed by consent",
-      "Ramayana Kerala Box Office Collection Day 18 Prediction: Ranbir Kapoor And Yash's Film Nears ₹70 Crore",
-      "Ramayana Budget Controversy: Rs 4,000 Cr To Rs 800 Cr! Trade Analyst Questions Makers Over Changing Figures",
-      "Tiger Shroff Makes First Public Appearance After Mumbai Firing Attack, Performs At Global Peace Honours Event",
-      "Ebenezer North America Box Office: Gets Its Revenge On Ramayana After The Indian Epic Nearly Overshadowed Its Global Debut!",
-      "OM Box Office Day 2: Only 17.17% Budget Recovery In 48 Hours For Dhanush & Mammootty’s Spy Action Thriller!",
-      "Marvel: What Happens When Two Versions Of The Same Character Meet In The Multiverse? The Consequences Are Stranger Than You Think",
-      "Clayface North America Box Office: Inches Away From Surpassing Insidious: Out Of The Further As 5th Biggest Horror Grosser Of 2026!",
-      "Avengers Doomsday India Box Office Weekend Advance Booking: 7th Highest-Grossing Hollywood Film Of 2026 Already – 205 Houseful Shows!",
-      "The Hunger Games: Sunrise On The Reaping – 7 Biggest Changes The Film Makes From Suzanne Collins’ Novel",
-      "The worth behind Vijay's royal look at Anirudh-Kavya's reception revealed",
-      "Anirudh's decade-long transformation goes viral after wedding with Kavya",
-      "Raza Murad lauds SRK's unmatched energy on set",
-      "Ranveer dances to Dhurandhar title track; SRK says his famous dialogue, 'Bade bade deshon mein'",
-      "Anupam sold his house to Alia and chose to live in a rented",
-      "In 1992, Warren Beatty and Annette Bening sold their LA house, and it is now on the market for $15M",
-      "Ramayana actor Faisal Malik: Had to unlearn acting to play Kumbhakaran",
-      "Shabana Azmi recalls musical evening at home with Sridevi, Satish Kaushik enjoying Shankar Mahadevan, Sonu Nigam's music",
-      "Was waiting for him to call me again: Abhishek Banerjee on reuniting with Sudip Sharma for new show",
-      "Rashmika reacts to backlash over Koffee with Karan episode: ‘I’ll go into full warrior mode’"
-     ],
-     "updated": [],
-     "count": 260,
-     "detail": "269 stories, 0 duplicates removed, 13 dropped"
-    },
-    "reason": null
-   },
-   {
-    "step": "fetch",
-    "category": "Trending News",
     "run_at": "2026-11-22T12:52:13Z",
     "run_id": "45024358800",
     "status": "success",
@@ -936,32 +897,48 @@
      "detail": "254 stories, 1 duplicates removed, 9 dropped"
     },
     "reason": null
-   }
-  ],
-  "apply_auto": [
+   },
    {
-    "step": "apply_auto",
+    "step": "fetch",
     "category": "Trending News",
-    "run_at": "2026-11-22T12:52:51Z",
-    "run_id": "45024358800",
+    "run_at": "2026-11-23T10:51:42Z",
+    "run_id": "45159744773",
     "status": "success",
     "checked": {
-     "candidates": 15,
-     "detail": "draft articles + box-office rows from out/gemini-batch.json"
+     "candidates": 259,
+     "detail": "RSS/Atom items across 137 sources; 6 source(s) errored"
     },
     "changed": {
      "added": [
-      "Avengers: Doomsday Advance Booking Nears Rs 50 Crore in India",
-      "Cast and Director of Possible Love Launch Oscar Campaign in Los Angeles",
-      "Drishyam 3 OTT Release Date Announced After Massive Box Office Run",
-      "Seven Near-Perfect Netflix Shows That Kept Their Episode Counts Under Ten"
+      "Sanjay Dutt’s The Glenwalk launches new digital campaign for Dominance Reserve featuring Sunny Leone and Tanuj Virwani",
+      "Dancing With The Stars 2026 Winner Prediction: WHO Will Win DWTS S35? ChatGPT Predicts Ahead Of Finale",
+      "Hello Kadhal Trailer Release Time: Arya, Nikhila Vimal & Vaishnavi Chaitanya's Film Trailer To Drop Today",
+      "Sathyavan Savithiri Box Office: Earns 71% Less Than Keerthy Suresh’s Dorothy On Opening Weekend",
+      "Clayface Worldwide Box Office: DCU’s First Horror Misses Supergirl’s Global Haul By Hair This Weekend",
+      "Ramayana Box Office Collection Day 18: Registers 3rd Biggest Third Weekend In India!",
+      "Aakasamlo Oka Tara (AOT) Opening Weekend Box Office: Dulquer Salmaan's Telugu film witnesses good growth, collects Rs 16 crore in 3 days",
+      "11 South Films To Watch in Theaters This Week: Sharwanand’s Bhogi to Cosmic Samson and Kunchacko Boban’s Hail Mary",
+      "Ramayana Part One Box Office Collections: Ranbir Kapoor and Yash film does well on 3rd Sunday, Nets Rs. 911 Cr in 18 days",
+      "ENE Repeat Extended Opening Weekend Box Office Collections: Vishwak Sen starrer records steady run, collects Rs 21 crore in 4 days",
+      "O.M Chapter 1 India Box Office: Dhanush, Mammootty &  Sai Pallavi starrer records ordinary trends, grosses Rs 54 crore in three days",
+      "Naga Chaitanya Turns 40: Sobhita Dhulipala pens a heartwarming birthday post for her 'lover', shares cozy photos",
+      "Inside Miley Cyrus and Maxx Morando's Wedding: Singer Shares First Photos From Intimate Palm Springs Ceremony",
+      "Ramayana Remains Unstoppable in Week 3, Leads Weekend Box Office Ahead of Three New Releases",
+      "‘Varanasi’: Kasi set allegedly spotted in Hyderabad on Apple Maps",
+      "A look into Miley Cyrus’ $160 million net worth",
+      "Sundance-winning film Nuisance Bear to open All Living Things Environmental Film Festival 2026",
+      "Fawad Khan, Mahira Khan, Hania Aamir to lead Netflix’s first Pakistani original Jo Bachay Hain Sang Samait Lo, series to premiere on December 4",
+      "Shahid Kapoor and Saif Ali Khan's unexpected camaraderie wins hearts as actors share a warm hug",
+      "Bridgerton star Simone Ashley enjoys autorickshaw ride in Mumbai, savours desi thali during India visit"
      ],
      "updated": [],
-     "count": 8,
-     "detail": "+4 articles, +1 box-office rows, 3 rows updated"
+     "count": 248,
+     "detail": "251 stories, 0 duplicates removed, 8 dropped"
     },
     "reason": null
-   },
+   }
+  ],
+  "apply_auto": [
    {
     "step": "apply_auto",
     "category": "Trending News",
@@ -1490,27 +1467,32 @@
      "detail": "+4 articles, +1 box-office rows, 3 rows updated"
     },
     "reason": null
+   },
+   {
+    "step": "apply_auto",
+    "category": "Trending News",
+    "run_at": "2026-11-23T10:52:06Z",
+    "run_id": "45159744773",
+    "status": "success",
+    "checked": {
+     "candidates": 14,
+     "detail": "draft articles + box-office rows from out/gemini-batch.json"
+    },
+    "changed": {
+     "added": [
+      "Hello Kadhal Trailer Set for November 23 Release",
+      "Legend of Zelda Switch 2 Restocks Expected This Week as Black Friday Approaches",
+      "Sanjay Leela Bhansali Might Drop First Song From Love And War Before Trailer Release",
+      "Top Black Friday 2026 Gaming Discounts: Live Tracking PS5, Nintendo Switch 2, and Xbox Offers"
+     ],
+     "updated": [],
+     "count": 7,
+     "detail": "+4 articles, +0 box-office rows, 3 rows updated"
+    },
+    "reason": null
    }
   ],
   "ott": [
-   {
-    "step": "ott",
-    "category": "OTT",
-    "run_at": "2026-11-22T11:52:19Z",
-    "run_id": "45019280517",
-    "status": "success",
-    "checked": {
-     "candidates": 412,
-     "detail": "OTT now/coming titles from the published catalogue"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 0,
-     "detail": "now 405, coming 7"
-    },
-    "reason": "no-new-data"
-   },
    {
     "step": "ott",
     "category": "OTT",
@@ -1924,26 +1906,27 @@
      "detail": "now 410, coming 7"
     },
     "reason": "no-new-data"
-   }
-  ],
-  "trending_weekly": [
+   },
    {
-    "step": "trending_weekly",
-    "category": "Trending Topics",
-    "run_at": "2026-11-22T12:55:58Z",
-    "run_id": "45024358800",
+    "step": "ott",
+    "category": "OTT",
+    "run_at": "2026-11-23T10:52:06Z",
+    "run_id": "45159744773",
     "status": "success",
     "checked": {
-     "candidates": 100,
-     "detail": "cached Google RSS trend/article intersection"
+     "candidates": 417,
+     "detail": "OTT now/coming titles from the published catalogue"
     },
     "changed": {
      "added": [],
      "updated": [],
-     "count": 0
+     "count": 0,
+     "detail": "now 410, coming 7"
     },
     "reason": "no-new-data"
-   },
+   }
+  ],
+  "trending_weekly": [
    {
     "step": "trending_weekly",
     "category": "Trending Topics",
@@ -2397,27 +2380,35 @@
      "count": 7
     },
     "reason": null
+   },
+   {
+    "step": "trending_weekly",
+    "category": "Trending Topics",
+    "run_at": "2026-11-23T10:52:08Z",
+    "run_id": "45159744773",
+    "status": "success",
+    "checked": {
+     "candidates": 100,
+     "detail": "cached Google RSS trend/article intersection"
+    },
+    "changed": {
+     "added": [
+      "i6fzr",
+      "1e8ucry",
+      "1k3o2x3",
+      "g0ssjx",
+      "4onnrk",
+      "1rth31g",
+      "ovjjrn",
+      "8u9d4d"
+     ],
+     "updated": [],
+     "count": 8
+    },
+    "reason": null
    }
   ],
   "multisource_boxoffice": [
-   {
-    "step": "multisource_boxoffice",
-    "category": "Box Office",
-    "run_at": "2026-11-22T12:03:56Z",
-    "run_id": "45019280517",
-    "status": "success",
-    "checked": {
-     "candidates": 739,
-     "detail": "681 collected staging rows from readers; 252 averaged across 2+ sources"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 3,
-     "detail": "+0 new rows, 3 updated rows, 710 unchanged"
-    },
-    "reason": null
-   },
    {
     "step": "multisource_boxoffice",
     "category": "Box Office",
@@ -2831,19 +2822,27 @@
      "detail": "+0 new rows, 4 updated rows, 715 unchanged"
     },
     "reason": null
+   },
+   {
+    "step": "multisource_boxoffice",
+    "category": "Box Office",
+    "run_at": "2026-11-23T10:52:06Z",
+    "run_id": "45159744773",
+    "status": "success",
+    "checked": {
+     "candidates": 745,
+     "detail": "685 collected staging rows from readers; 254 averaged across 2+ sources"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 4,
+     "detail": "+0 new rows, 4 updated rows, 715 unchanged"
+    },
+    "reason": null
    }
   ],
   "gemini_reviews": [
-   {
-    "step": "gemini_reviews",
-    "category": "Reviews",
-    "run_at": "2026-11-22T12:04:07Z",
-    "run_id": "45019280517",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "gemini_reviews",
     "category": "Reviews",
@@ -3080,32 +3079,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "gemini_reviews",
+    "category": "Reviews",
+    "run_at": "2026-11-23T10:52:16Z",
+    "run_id": "45159744773",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "convert_news": [
-   {
-    "step": "convert_news",
-    "category": "Trending News",
-    "run_at": "2026-11-22T12:55:57Z",
-    "run_id": "45024358800",
-    "status": "success",
-    "checked": {
-     "candidates": 600,
-     "detail": "feed entries from out/queue.json"
-    },
-    "changed": {
-     "added": [
-      "Avengers: Doomsday Advance Booking Nears Rs 50 Crore in India",
-      "Cast and Director of Possible Love Launch Oscar Campaign in Los Angeles",
-      "Drishyam 3 OTT Release Date Announced After Massive Box Office Run",
-      "Seven Near-Perfect Netflix Shows That Kept Their Episode Counts Under Ten"
-     ],
-     "updated": [],
-     "count": 4,
-     "detail": "api-news.json 600 items, api-trends.json 12 items"
-    },
-    "reason": null
-   },
    {
     "step": "convert_news",
     "category": "Trending News",
@@ -3631,19 +3617,32 @@
      "detail": "api-news.json 600 items, api-trends.json 12 items"
     },
     "reason": null
+   },
+   {
+    "step": "convert_news",
+    "category": "Trending News",
+    "run_at": "2026-11-23T10:52:07Z",
+    "run_id": "45159744773",
+    "status": "success",
+    "checked": {
+     "candidates": 600,
+     "detail": "feed entries from out/queue.json"
+    },
+    "changed": {
+     "added": [
+      "Legend of Zelda Switch 2 Restocks Expected This Week as Black Friday Approaches",
+      "Sanjay Leela Bhansali Might Drop First Song From Love And War Before Trailer Release",
+      "Top Black Friday 2026 Gaming Discounts: Live Tracking PS5, Nintendo Switch 2, and Xbox Offers",
+      "Hello Kadhal Trailer Set for November 23 Release"
+     ],
+     "updated": [],
+     "count": 4,
+     "detail": "api-news.json 600 items, api-trends.json 12 items"
+    },
+    "reason": null
    }
   ],
   "episode_guides": [
-   {
-    "step": "episode_guides",
-    "category": "Drama Episodes",
-    "run_at": "2026-11-22T12:04:07Z",
-    "run_id": "45019280517",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "episode_guides",
     "category": "Drama Episodes",
@@ -3918,19 +3917,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "title_seed": [
+   },
    {
-    "step": "title_seed",
-    "category": "Spotlight / Coming Soon / Most Awaited",
-    "run_at": "2026-11-22T12:04:07Z",
-    "run_id": "45019280517",
+    "step": "episode_guides",
+    "category": "Drama Episodes",
+    "run_at": "2026-11-23T10:52:16Z",
+    "run_id": "45159744773",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "title_seed": [
    {
     "step": "title_seed",
     "category": "Spotlight / Coming Soon / Most Awaited",
@@ -4240,31 +4239,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "title_seed",
+    "category": "Spotlight / Coming Soon / Most Awaited",
+    "run_at": "2026-11-23T10:52:16Z",
+    "run_id": "45159744773",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "gemini_batch": [
-   {
-    "step": "gemini_batch",
-    "category": "Trending News",
-    "run_at": "2026-11-22T11:52:19Z",
-    "run_id": "45019280517",
-    "status": "success",
-    "checked": {
-     "candidates": 5,
-     "detail": "news queue items drafted this run; 260 still unprocessed; today by category: movies 6/6, tv_dramas 7/4, episodes 0/2, box_office 9/6, celebrities_events 15/5, upcoming_releases 2/4, ott_streaming 5/4, trailers 1/3, awards 0/2, music_ost 2/2, viral 1/2"
-    },
-    "changed": {
-     "added": [
-      "Tamil Nadu CM Thalapathy Vijay catches eyes with a Rs 3.67 lakh royal outfit at high-profile reception",
-      "Avengers: Doomsday Weekend Advance Booking Crosses Major Milestones In India",
-      "BBC Issues Apology After Explicit Audio Disrupts Live Broadcast of Strictly Come Dancing",
-      "Ramayana Kerala Box Office Collection Day 18: Ranbir Kapoor and Yash Starrer Nears 70 Crore Milestone"
-     ],
-     "updated": [],
-     "count": 4
-    },
-    "reason": null
-   },
    {
     "step": "gemini_batch",
     "category": "Trending News",
@@ -4770,26 +4757,31 @@
      "count": 4
     },
     "reason": null
+   },
+   {
+    "step": "gemini_batch",
+    "category": "Trending News",
+    "run_at": "2026-11-23T10:52:05Z",
+    "run_id": "45159744773",
+    "status": "success",
+    "checked": {
+     "candidates": 4,
+     "detail": "news queue items drafted this run; 248 still unprocessed; today by category: movies 6/6, tv_dramas 7/4, episodes 0/2, box_office 9/6, celebrities_events 7/5, upcoming_releases 7/4, ott_streaming 4/4, trailers 2/3, awards 2/2, music_ost 2/2, viral 2/2"
+    },
+    "changed": {
+     "added": [
+      "Hello Kadhal Trailer Set for November 23 Release",
+      "Legend of Zelda Switch 2 Restocks Expected This Week as Black Friday Approaches",
+      "Sanjay Leela Bhansali Might Drop First Song From Love And War Before Trailer Release",
+      "Top Black Friday 2026 Gaming Discounts: Live Tracking PS5, Nintendo Switch 2, and Xbox Offers"
+     ],
+     "updated": [],
+     "count": 4
+    },
+    "reason": null
    }
   ],
   "overseas_ai": [
-   {
-    "step": "overseas_ai",
-    "category": "Box Office",
-    "run_at": "2026-11-22T11:53:38Z",
-    "run_id": "45019280517",
-    "status": "success",
-    "checked": {
-     "candidates": 58,
-     "detail": "published movies with missing overseas day figures; Tavily searches: 48"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 0
-    },
-    "reason": "no-new-data"
-   },
    {
     "step": "overseas_ai",
     "category": "Box Office",
@@ -5096,24 +5088,19 @@
      "count": 0
     },
     "reason": "no-new-data"
+   },
+   {
+    "step": "overseas_ai",
+    "category": "Box Office",
+    "run_at": "2026-11-23T10:52:16Z",
+    "run_id": "45159744773",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "publish": [
-   {
-    "step": "publish",
-    "category": "Trending News",
-    "run_at": "2026-11-22T12:04:07Z",
-    "run_id": "45019280517",
-    "status": "success",
-    "checked": null,
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 379,
-     "detail": "lines changed in owned files; no per-item summary from script"
-    },
-    "reason": null
-   },
    {
     "step": "publish",
     "category": "Trending News",
@@ -5408,24 +5395,24 @@
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
-   }
-  ],
-  "stats_traffic": [
+   },
    {
-    "step": "stats_traffic",
-    "category": "Stats / Health",
-    "run_at": "2026-11-22T12:04:07Z",
-    "run_id": "45019280517",
+    "step": "publish",
+    "category": "Trending News",
+    "run_at": "2026-11-23T10:52:16Z",
+    "run_id": "45159744773",
     "status": "success",
     "checked": null,
     "changed": {
      "added": [],
      "updated": [],
-     "count": 25,
+     "count": 362,
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
-   },
+   }
+  ],
+  "stats_traffic": [
    {
     "step": "stats_traffic",
     "category": "Stats / Health",
@@ -5715,19 +5702,24 @@
     "checked": null,
     "changed": null,
     "reason": "no-new-data"
+   },
+   {
+    "step": "stats_traffic",
+    "category": "Stats / Health",
+    "run_at": "2026-11-23T10:52:16Z",
+    "run_id": "45159744773",
+    "status": "success",
+    "checked": null,
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 2,
+     "detail": "lines changed in owned files; no per-item summary from script"
+    },
+    "reason": null
    }
   ],
   "stats_pipeline": [
-   {
-    "step": "stats_pipeline",
-    "category": "Stats / Health",
-    "run_at": "2026-11-22T12:04:07Z",
-    "run_id": "45019280517",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "stats_pipeline",
     "category": "Stats / Health",
@@ -5977,19 +5969,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "stats_health": [
+   },
    {
-    "step": "stats_health",
+    "step": "stats_pipeline",
     "category": "Stats / Health",
-    "run_at": "2026-11-22T12:04:07Z",
-    "run_id": "45019280517",
+    "run_at": "2026-11-23T10:52:16Z",
+    "run_id": "45159744773",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "stats_health": [
    {
     "step": "stats_health",
     "category": "Stats / Health",
@@ -6224,19 +6216,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "metadata_refresh": [
+   },
    {
-    "step": "metadata_refresh",
-    "category": "Spotlight / Coming Soon / Most Awaited",
-    "run_at": "2026-11-22T12:04:07Z",
-    "run_id": "45019280517",
+    "step": "stats_health",
+    "category": "Stats / Health",
+    "run_at": "2026-11-23T10:52:16Z",
+    "run_id": "45159744773",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "metadata_refresh": [
    {
     "step": "metadata_refresh",
     "category": "Spotlight / Coming Soon / Most Awaited",
@@ -6521,19 +6513,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "providers_backfill": [
+   },
    {
-    "step": "providers_backfill",
-    "category": "OTT",
-    "run_at": "2026-11-22T12:04:07Z",
-    "run_id": "45019280517",
+    "step": "metadata_refresh",
+    "category": "Spotlight / Coming Soon / Most Awaited",
+    "run_at": "2026-11-23T10:52:16Z",
+    "run_id": "45159744773",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "providers_backfill": [
    {
     "step": "providers_backfill",
     "category": "OTT",
@@ -6774,19 +6766,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "providers_backfill",
+    "category": "OTT",
+    "run_at": "2026-11-23T10:52:16Z",
+    "run_id": "45159744773",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "tavily_boxoffice": [
-   {
-    "step": "tavily_boxoffice",
-    "category": "Box Office",
-    "run_at": "2026-11-22T12:04:07Z",
-    "run_id": "45019280517",
-    "status": "success",
-    "checked": null,
-    "changed": null,
-    "reason": "no-new-data"
-   },
    {
     "step": "tavily_boxoffice",
     "category": "Box Office",
@@ -7016,19 +7008,19 @@
     "checked": null,
     "changed": null,
     "reason": "no-new-data"
-   }
-  ],
-  "keywords_refresh": [
+   },
    {
-    "step": "keywords_refresh",
-    "category": "Trending News",
-    "run_at": "2026-11-22T12:04:07Z",
-    "run_id": "45019280517",
+    "step": "tavily_boxoffice",
+    "category": "Box Office",
+    "run_at": "2026-11-23T10:52:16Z",
+    "run_id": "45159744773",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "keywords_refresh": [
    {
     "step": "keywords_refresh",
     "category": "Trending News",
@@ -7277,6 +7269,16 @@
     "category": "Trending News",
     "run_at": "2026-11-23T10:08:33Z",
     "run_id": "45150647069",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
+   },
+   {
+    "step": "keywords_refresh",
+    "category": "Trending News",
+    "run_at": "2026-11-23T10:52:16Z",
+    "run_id": "45159744773",
     "status": "skipped",
     "checked": null,
     "changed": null,
@@ -7823,16 +7825,6 @@
    {
     "step": "advance_booking",
     "category": "Box Office",
-    "run_at": "2026-11-22T12:04:07Z",
-    "run_id": "45019280517",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
-   {
-    "step": "advance_booking",
-    "category": "Box Office",
     "run_at": "2026-11-22T12:56:08Z",
     "run_id": "45024358800",
     "status": "skipped",
@@ -8069,19 +8061,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "home_boxoffice_worldwide": [
+   },
    {
-    "step": "home_boxoffice_worldwide",
+    "step": "advance_booking",
     "category": "Box Office",
-    "run_at": "2026-11-22T12:04:07Z",
-    "run_id": "45019280517",
+    "run_at": "2026-11-23T10:52:16Z",
+    "run_id": "45159744773",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "home_boxoffice_worldwide": [
    {
     "step": "home_boxoffice_worldwide",
     "category": "Box Office",
@@ -8351,8 +8343,18 @@
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
+   },
+   {
+    "step": "home_boxoffice_worldwide",
+    "category": "Box Office",
+    "run_at": "2026-11-23T10:52:16Z",
+    "run_id": "45159744773",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ]
  },
- "updated_at": "2026-11-23T10:08:33Z"
+ "updated_at": "2026-11-23T10:52:16Z"
 }
