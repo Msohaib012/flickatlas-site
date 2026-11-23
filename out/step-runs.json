@@ -942,29 +942,6 @@
    {
     "step": "apply_auto",
     "category": "Trending News",
-    "run_at": "2026-11-22T20:11:11Z",
-    "run_id": "45063025381",
-    "status": "success",
-    "checked": {
-     "candidates": 14,
-     "detail": "draft articles + box-office rows from out/gemini-batch.json"
-    },
-    "changed": {
-     "added": [
-      "Rashmika Mandanna Starrer Mysaa Postponed, New Theatrical Date Awaited",
-      "Netflix Sci-Fi Series 3 Body Problem Confirms Reduced Episode Order for Season 2",
-      "Blackpink's Jennie Makes History on Grand Theft Auto VI Soundtrack With 'Power Trip'",
-      "Why Noah Kahan Was Nearly Shut Out of the Grammys Despite a Massive Year"
-     ],
-     "updated": [],
-     "count": 7,
-     "detail": "+4 articles, +0 box-office rows, 3 rows updated"
-    },
-    "reason": null
-   },
-   {
-    "step": "apply_auto",
-    "category": "Trending News",
     "run_at": "2026-11-22T20:51:36Z",
     "run_id": "45068697812",
     "status": "success",
@@ -1475,6 +1452,24 @@
      "updated": [],
      "count": 6,
      "detail": "+3 articles, +0 box-office rows, 3 rows updated"
+    },
+    "reason": null
+   },
+   {
+    "step": "apply_auto",
+    "category": "Trending News",
+    "run_at": "2026-11-23T21:05:21Z",
+    "run_id": "45259716289",
+    "status": "success",
+    "checked": {
+     "candidates": 13,
+     "detail": "draft articles + box-office rows from out/gemini-batch.json"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 3,
+     "detail": "+0 articles, +0 box-office rows, 3 rows updated"
     },
     "reason": null
    }
@@ -8364,5 +8359,5 @@
    }
   ]
  },
- "updated_at": "2026-11-23T20:40:48Z"
+ "updated_at": "2026-11-23T21:05:21Z"
 }

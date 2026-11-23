@@ -4703,59 +4703,6 @@ window.FA_HOME_ARTICLES = {
     ],
     "published": "Sun, 22 Nov 2026 12:30:18 GMT"
   },
-  "4onnrk": {
-    "id": "4onnrk",
-    "type": "news",
-    "headline": "Marvel Star Hayley Atwell Hints at New 'Avengers: Doomsday' Trailer Arriving Soon",
-    "dek": "MCU veteran Hayley Atwell has seemingly let slip that a brand new promotional clip for the upcoming blockbuster Avengers: Doomsday will release on Monday.",
-    "entities": {
-      "people": [
-        "Hayley Atwell",
-        "Robert Downey Jr.",
-        "Tom Hiddleston",
-        "Kathryn Newton",
-        "Pedro Pascal",
-        "Chris Hemsworth",
-        "Vanessa Kirby",
-        "Stephen McFeely",
-        "Michael Waldron",
-        "Anthony Russo",
-        "Joe Russo",
-        "Kevin Feige",
-        "Louis D'Esposito",
-        "Jonathan Schwartz",
-        "Steve Rogers"
-      ],
-      "titles": [
-        "Avengers: Doomsday",
-        "Much Ado About Nothing",
-        "Doctor Strange in the Multiverse of Madness",
-        "Avengers: Endgame",
-        "Spider-Man: Brand New Day",
-        "Avengers: Secret Wars",
-        "Fantastic Four",
-        "Black Panther",
-        "Thor",
-        "X-Men",
-        "Ray Gunn",
-        "Insidious: Out of the Further"
-      ]
-    },
-    "keywords": [
-      "Avengers: Doomsday trailer",
-      "Hayley Atwell Avengers",
-      "Robert Downey Jr Doctor Doom",
-      "Avengers: Doomsday release date"
-    ],
-    "images": [
-      {
-        "url": "https://static0.moviewebimages.com/wordpress/wp-content/uploads/2026/07/chris-hemsworth-in-avengers-doomsday.png?w=1600&amp;h=900&amp;fit=crop",
-        "caption": "Marvel Star Hayley Atwell Hints at New 'Avengers: Doomsday' Trailer Arriving Soon",
-        "source": "MovieWeb"
-      }
-    ],
-    "published": "Sat, 21 Nov 2026 19:01:10 GMT"
-  },
   "1pqbmve": {
     "id": "1pqbmve",
     "type": "news",
@@ -5159,6 +5106,41 @@ window.FA_HOME_ARTICLES = {
       }
     ],
     "published": "2026-11-20T14:45:34Z"
+  },
+  "7ja3yg": {
+    "id": "7ja3yg",
+    "type": "news",
+    "headline": "The Beekeeper 2 Sets Worldwide Theatrical Release Date With Jason Statham Returning",
+    "dek": "Action star Jason Statham is officially returning for The Beekeeper 2, bringing high-stakes combat and an expanded ensemble cast to theaters in January 2027.",
+    "entities": {
+      "people": [
+        "Jason Statham",
+        "Timo Tjahjanto",
+        "Jeremy Irons",
+        "Pom Klementieff",
+        "Adam Copeland"
+      ],
+      "titles": [
+        "The Beekeeper 2",
+        "The Beekeeper",
+        "Guardians of the Galaxy",
+        "Mission: Impossible"
+      ]
+    },
+    "keywords": [
+      "The Beekeeper 2",
+      "Jason Statham",
+      "The Beekeeper 2 release date",
+      "Timo Tjahjanto"
+    ],
+    "images": [
+      {
+        "url": "https://www.koimoi.com/wp-content/new-galleries/2026/11/the-beekeeper-2-jason-statham-appears-armed-and-ready-for-action-in-the-sequels-latest-poster-001.jpg",
+        "caption": "The Beekeeper 2 Sets Worldwide Theatrical Release Date With Jason Statham Returning",
+        "source": "Koimoi"
+      }
+    ],
+    "published": "Fri, 20 Nov 2026 08:15:00 +0000"
   },
   "uaxxk7": {
     "id": "uaxxk7",
