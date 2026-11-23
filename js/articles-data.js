@@ -231935,5 +231935,307 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "2026-11-23T22:00:35+05:30"
+  },
+  "vclahp": {
+    "id": "vclahp",
+    "type": "news",
+    "headline": "Disneyland Nighttime Spectacular Fantasmic Catches Fire Again Raising Questions About Long-Term Future",
+    "dek": "For the second time in three short years, the beloved nighttime attraction Fantasmic at Disneyland suffered a fire incident during its evening performance.",
+    "body": [
+      {
+        "h": "Another Fiery Incident At The Anaheim Park",
+        "p": [
+          "Visitors at the Anaheim theme park experienced an unexpected scare when the popular nighttime spectacular Fantasmic encountered a fire during its evening schedule. The unexpected blaze emerged near the conclusion of the second performance of the night.",
+          "While the production managed to continue its Mark Twain riverboat finale despite the disruption, onlookers quickly captured footage of flames visible just behind the boat on the Tom Sawyer Island stage area."
+        ]
+      },
+      {
+        "h": "Evacuation And Quick Response From Authorities",
+        "p": [
+          "As the riverboat carrying classic characters navigated around the water, the final moments of the performance were abruptly canceled. Park attendees were promptly instructed to clear the viewing zones while emergency services addressed the situation.",
+          "Fortunately, the fire remained relatively minor when contrasted with the severe 2023 accident that destroyed the Maleficent dragon animatronic. Park operations resumed shortly thereafter, with the production returning to its schedule by Sunday night and no injuries reported among cast members."
+        ]
+      },
+      {
+        "h": "Growing Concerns Over The Attraction's Fate",
+        "p": [
+          "Experiencing two separate fire incidents has sparked considerable apprehension regarding the longevity of the massive live-action production. Observers note that corporate leadership has previously favored scaling back live entertainment offerings to reduce operational expenditures.",
+          "Given that the complex production relies heavily on an extensive ensemble of performers, floating platforms, water projection screens, and fireworks, it stands out as one of the most expensive undertakings at the resort."
+        ]
+      },
+      {
+        "h": "The Loss Of The Maleficent Dragon",
+        "p": [
+          "The production has continued to operate without its signature mechanical dragon since the severe 2023 mishap. Without this key element, the classic confrontation between Mickey Mouse and the villainous character feels significantly diminished.",
+          "While theme park management is unlikely to permanently retire the production without a planned successor, loyal visitors are advised to anticipate potential shifts in the resort's entertainment lineup."
+        ]
+      },
+      {
+        "h": "Broader Fan Reactions To Resort Changes",
+        "p": [
+          "Followers of the brand have historically expressed strong resistance to major modifications within the parks. A notable example includes the significant public backlash surrounding the planned closure of the Dinosaur ride to accommodate an incoming attraction at Disney World.",
+          "Maintaining high satisfaction levels becomes increasingly challenging when ticket prices remain steep, highlighting the difficulties management faces in preserving the illusion of magic."
+        ]
+      },
+      {
+        "h": "A Difficult Month For Resort Operations",
+        "p": [
+          "The recent fire follows a series of operational hiccups at the Southern California destination during the holiday season. On the opening day of festive celebrations, artificial snow systems were mistakenly activated amidst a rainstorm, creating an unusual slushy mess.",
+          "Additionally, unexpected weather events caused widespread flooding across Frontierland earlier in October. These cumulative occurrences demonstrate that park administration faces unpredictable external challenges despite stringent planning."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "The nighttime show Fantasmic at Disneyland experienced a minor fire during its second performance on November 21st, leading to a partial cancellation and evacuation. This marks the second fire incident for the production in three years, amplifying concerns about its future amid ongoing cost-cutting and past mechanical losses."
+        ]
+      }
+    ],
+    "facts": [
+      "The fire occurred on November 21st.",
+      "The incident happened during the second performance of Fantasmic shortly before the show's finale.",
+      "The fire broke out on the small stage set up on Tom Sawyer Island.",
+      "The last two minutes of the show were canceled.",
+      "Guests were asked to vacate the viewing area while the fire department handled the blaze."
+    ],
+    "entities": {
+      "people": [
+        "Mickey",
+        "Maleficent",
+        "Danielle Bruncati"
+      ],
+      "titles": [
+        "Fantasmic",
+        "Mark Twain",
+        "Indiana Jones",
+        "Dinosaur"
+      ]
+    },
+    "keywords": [
+      "Disneyland Fantasmic fire",
+      "Fantasmic Anaheim theme park",
+      "Tom Sawyer Island fire",
+      "Mark Twain riverboat Disneyland"
+    ],
+    "images": [
+      {
+        "url": "https://cdn.mos.cms.futurecdn.net/4uLRDRksFe6V7BDVrSQUMM-2000-80.jpg",
+        "caption": "Disneyland Nighttime Spectacular Fantasmic Catches Fire Again Raising Questions About Long-Term Future",
+        "source": "CinemaBlend"
+      }
+    ],
+    "published": "Mon, 23 Nov 2026 21:31:00 +0000"
+  },
+  "eqd3fc": {
+    "id": "eqd3fc",
+    "type": "news",
+    "headline": "Yami Gautam and Sunny Kaushal Return for Chor Nikal Ke Bhaga 2 on Netflix",
+    "dek": "Netflix India has officially confirmed the sequel to the hit crime thriller, bringing back lead actors Yami Gautam and Sunny Kaushal for a brand new installment.",
+    "body": [
+      {
+        "h": "The Official Sequel Announcement",
+        "p": [
+          "Netflix India has officially confirmed the development of Chor Nikal Ke Bhaga 2, generating excitement among fans of the original crime thriller. The streaming giant revealed that the upcoming film will make its premiere on December 17. The platform built anticipation by sharing a promotional tease on social media, signaling the return of the popular heist franchise.",
+          "The announcement immediately captured the attention of audiences eager to see how the story will expand. With the release date now locked in, subscribers can mark their calendars for another tense narrative experience."
+        ]
+      },
+      {
+        "h": "First-Look Poster and Setting Hints",
+        "p": [
+          "Alongside the release date, the makers unveiled an intriguing first-look poster that offers visual clues about the upcoming plot. The image showcases a magnificent golden crown embellished with gemstones, which is partially submerged in the sea while a cruise ship drifts in the background.",
+          "This aquatic imagery strongly suggests that the sequel will transition away from the confined aircraft environment of the first movie. While the creative team has kept specific plot details under wraps, this maritime backdrop hints at an entirely different kind of high-stakes operation."
+        ]
+      },
+      {
+        "h": "Returning Cast and New Faces",
+        "p": [
+          "The upcoming project will see the return of its primary lead actors, Yami Gautam and Sunny Kaushal, who anchored the success of the initial feature. Their chemistry and dynamic performances were central to the narrative tension of the first outing.",
+          "In addition to the returning leads, the promotional materials have highlighted the involvement of Sharad Kelkar and Shreya Chaudhary. This ensemble setup points toward an expanded narrative scope with fresh dynamics between the characters."
+        ]
+      },
+      {
+        "h": "Looking Back at the Original Film",
+        "p": [
+          "The predecessor originally premiered on Netflix on March 24, 2023, under the direction of Ajay Singh. That film focused on the characters Neha Grover, portrayed by Yami Gautam, and Ankit Sethi, played by Sunny Kaushal, as they attempted a daring diamond heist.",
+          "Their ambitious plan went awry when the flight they boarded became the target of a hijacking. The resulting narrative delivered numerous unexpected plot twists, betrayals, and shocking revelations that kept viewers guessing until the very end."
+        ]
+      },
+      {
+        "h": "Key Characters and Legacy",
+        "p": [
+          "A memorable element of the first movie was Sharad Kelkar's portrayal of RAW officer Parvez Shaikh, a role that added significant gravity and pursuit to the heist storyline. The interplay between law enforcement and the central couple created intense cat-and-mouse moments.",
+          "As the franchise prepares to launch its second chapter, it carries forward the legacy of establishing a unique space for direct-to-digital Indian thrillers that rely on complex planning and sudden narrative reversals."
+        ]
+      },
+      {
+        "h": "What to Expect From the New Heist",
+        "p": [
+          "At present, the production team has kept the exact circumstances of the new caper tightly guarded. It remains unconfirmed whether the storyline will directly follow the chronological conclusion of the predecessor or dive into a completely separate criminal endeavor.",
+          "Regardless of the specific narrative entry point, the involvement of the core talent guarantees a continuation of the suspenseful tone that defined the original production."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Netflix India has announced the release date for Chor Nikal Ke Bhaga 2, starring Yami Gautam and Sunny Kaushal, for December 17. The sequel features a new maritime visual theme and brings back cast members including Sharad Kelkar and Shreya Chaudhary following the success of the 2023 original film."
+        ]
+      }
+    ],
+    "facts": [
+      "Chor Nikal Ke Bhaga 2 premieres on December 17 on Netflix India.",
+      "The original film premiered on Netflix on March 24, 2023.",
+      "Ajay Singh directed the first film.",
+      "Yami Gautam played Neha Grover and Sunny Kaushal played Ankit Sethi in the original film.",
+      "Sharad Kelkar played RAW officer Parvez Shaikh in the original film.",
+      "Shreya Chaudhary is also involved in the sequel."
+    ],
+    "entities": {
+      "people": [
+        "Yami Gautam",
+        "Sunny Kaushal",
+        "Sharad Kelkar",
+        "Shreya Chaudhary",
+        "Ajay Singh",
+        "Neha Grover",
+        "Ankit Sethi",
+        "Parvez Shaikh",
+        "Jiya Surana"
+      ],
+      "titles": [
+        "Chor Nikal Ke Bhaga",
+        "Chor Nikal Ke Bhaga 2",
+        "Drishyam 3"
+      ]
+    },
+    "keywords": [
+      "Chor Nikal Ke Bhaga 2",
+      "Yami Gautam Sunny Kaushal",
+      "Netflix Chor Nikal Ke Bhaga sequel",
+      "Chor Nikal Ke Bhaga release date"
+    ],
+    "images": [
+      {
+        "url": "https://filmfare.wwmindia.com/content/2026/nov/yami-gautam-and-sunny-kaushal-to-return-with-chor-nikal-ke-bhaga-2-release-date1795438491.jpg",
+        "caption": "Yami Gautam and Sunny Kaushal Return for Chor Nikal Ke Bhaga 2 on Netflix",
+        "source": "Filmfare"
+      }
+    ],
+    "published": "2026-11-23T18:33:36+05:30"
+  },
+  "8emh25": {
+    "id": "8emh25",
+    "type": "news",
+    "headline": "A Critical Look at the Greatest War Literature of All Time",
+    "dek": "Exploring the literary history of war through a ranked examination of classic novels, historical fiction, and epic storytelling.",
+    "body": [
+      {
+        "h": "The Enduring Cultural Legacy of War Literature",
+        "p": [
+          "Throughout the long history of storytelling, conflicts and battles have served as central pillars of human narrative. Long before modern publishing, tales of warfare captured the imagination and documented the struggles of societies.",
+          "While non-fiction accounts, memoirs, and strictly biographical novels hold their own distinct value, fictional explorations of combat offer unique psychological depth. From ancient epics to modern historical fiction, these works shape how generations perceive the chaos and tragedy of armed conflict."
+        ]
+      },
+      {
+        "h": "Dark Humor and Absurdity in World War II Narratives",
+        "p": [
+          "Among the prominent works examining the Second World War, certain authors leaned heavily into surrealism and dark comedy to process trauma. Joseph Heller's 1961 novel presents a profoundly despair-filled yet humorous take on military bureaucracy through its famous paradoxical premise.",
+          "Similarly, Kurt Vonnegut's 1969 novel blends autobiographical experiences from the bombing of Dresden with science fiction elements. By utilizing time travel and dark wit, both books capture the exhausting absurdity of combat and the lasting psychological scars left on soldiers."
+        ]
+      },
+      {
+        "h": "Foundational Anti-War Classics and Early Conflicts",
+        "p": [
+          "Published in 1929 between the conclusion of the First World War and the outbreak of the Second, Erich Maria Remarque's masterpiece stands as a definitive anti-war statement. It details the tragedy of young individuals swept into a devastating global conflict far too late to comprehend its true cost.",
+          "Moving back to earlier historical conflicts, Patrick O'Brian's 1969 novel initiates a celebrated maritime series set during the prelude to the Napoleonic Wars. The meticulous attention to detail establishes an authentic atmosphere of naval warfare during the French Revolutionary period."
+        ]
+      },
+      {
+        "h": "Massive Historical Sagas and Epic Fictional Wars",
+        "p": [
+          "Spanning enormous lengths, multi-volume historical epics allow authors to comprehensively examine the lead-up to global conflicts and the experiences of those on the home front. Herman Wouk's sweeping 1971 narrative functions alongside its companion book as a massive family saga detailing the American perspective of World War II.",
+          "In the realm of fantasy literature, George R. R. Martin's 1998 novel stands out for its intense focus on medieval-style tactical struggles. As various leaders battle for dominance during an escalating continental conflict, the narrative becomes a defining example of fantasy warfare."
+        ]
+      },
+      {
+        "h": "Ancient Roots and Complex Modern Experiments",
+        "p": [
+          "Tracing the lineage of combat storytelling leads directly to ancient texts like Homer's epic poem from the late eighth century BC. Chronicling portions of the Trojan War, this foundational work features a vast roster of crucial characters and continues to influence modern adaptations and cinematic interpretations.",
+          "On the other end of the stylistic spectrum, Thomas Pynchon's dense and challenging 1973 novel captures the utter madness of World War II's final stages. Centered around elusive V-2 rockets, the sprawling narrative remains a notoriously complex and confronting classic of modern literature."
+        ]
+      },
+      {
+        "h": "Fantasy Finales and Nineteenth-Century Masterpieces",
+        "p": [
+          "J. R. R. Tolkien's third volume of his legendary fantasy epic brings an entirely fictional war to a definitive climax. Although situated within a magical world filled with non-human creatures, the monumental battles and the ultimate conclusion of the War of the Ring secure its place among iconic war narratives.",
+          "At the pinnacle of historical literature sits Leo Tolstoy's famously massive 1869 masterpiece. Despite its intimidating length, the novel remains an essential exploration of human society and military strategy during tumultuous historical events."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "A recent literary ranking explores the greatest war books throughout history, spanning ancient epics, twentieth-century dark comedies, and massive historical fiction sagas. The curated list highlights how different authors across various eras utilized humor, tragedy, and fantasy to reflect upon the enduring brutality of armed conflict."
+        ]
+      }
+    ],
+    "facts": [
+      "Catch-22 was published in 1961.",
+      "All Quiet on the Western Front was published in 1929.",
+      "Master and Commander was published in 1969.",
+      "A Clash of Kings was published in 1998.",
+      "Slaughterhouse-Five was published in 1969.",
+      "The Winds of War was published in 1971.",
+      "The Iliad dates back to the late 8th century BC.",
+      "Gravity's Rainbow was published in 1973.",
+      "The Return of the King was published in 1955.",
+      "War and Peace was published in 1869."
+    ],
+    "entities": {
+      "people": [
+        "Jeremy Urquhart",
+        "Stephen King",
+        "Joseph Heller",
+        "Erich Maria Remarque",
+        "Patrick O'Brian",
+        "George R. R. Martin",
+        "Kurt Vonnegut",
+        "Herman Wouk",
+        "Homer",
+        "Thomas Pynchon",
+        "J. R. R. Tolkien",
+        "Leo Tolstoy"
+      ],
+      "titles": [
+        "Catch-22",
+        "All Quiet on the Western Front",
+        "Master and Commander",
+        "A Song of Ice and Fire",
+        "A Game of Thrones",
+        "A Clash of Kings",
+        "Slaughterhouse-Five",
+        "The Winds of War",
+        "War and Remembrance",
+        "The Odyssey",
+        "The Iliad",
+        "Troy",
+        "Gravity's Rainbow",
+        "The Lord of the Rings",
+        "The Return of the King",
+        "War and Peace"
+      ]
+    },
+    "keywords": [
+      "Catch-22",
+      "All Quiet on the Western Front",
+      "Slaughterhouse-Five",
+      "War and Peace"
+    ],
+    "images": [
+      {
+        "url": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/11/the-iliad-book-cover.jpg?w=1600&amp;h=900&amp;fit=crop",
+        "caption": "A Critical Look at the Greatest War Literature of All Time",
+        "source": "Collider"
+      }
+    ],
+    "published": "Mon, 23 Nov 2026 21:48:12 GMT"
   }
 };
