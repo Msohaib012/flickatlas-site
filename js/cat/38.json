@@ -1,6 +1,6 @@
 {
  "bucket": "38",
- "count": 70,
+ "count": 71,
  "titles": {
   "movie:10138": {
    "backdrop_path": "/7lmBufEG7P7Y1HClYK3gCxYrkgS.jpg",
@@ -1141,6 +1141,206 @@
    "type": "movie",
    "vote_average": 8.2,
    "vote_count": 896
+  },
+  "movie:1290938": {
+   "backdrop_path": "/ksBskfGcJuqpNNeacfI4MD0ZTtD.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Stan Marsh / Eric Cartman (voice)",
+     "n": "Trey Parker"
+    },
+    {
+     "c": "Kyle Broflovski / Kenny McCormick / Butters Stotch / Gerald Broflovski (voice)",
+     "n": "Matt Stone"
+    },
+    {
+     "c": "Wendy Testaburger / Sharon Marsh / Shelley Marsh / Liane Cartman / Alexis Testaburger (voice)",
+     "n": "April Stewart"
+    },
+    {
+     "c": "Sheila Broflovski / Mrs. Tweak / Linda Stotch (voice)",
+     "n": "Mona Marshall"
+    },
+    {
+     "c": "Laura Tucker / Linda Black (voice)",
+     "n": "Kimberly Brooks"
+    },
+    {
+     "c": "Additional Voices (voice)",
+     "n": "Jessica Makinson"
+    },
+    {
+     "c": "Towelie (voice)",
+     "n": "Vernon Chatman"
+    },
+    {
+     "c": "Additional Voices (voice)",
+     "n": "Jennifer Howell"
+    },
+    {
+     "c": "Additional Voices (voice)",
+     "n": "Feraz Ozel Ellahie"
+    },
+    {
+     "c": "Additional Voices (voice)",
+     "n": "Betty Boogie Parker"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Trey Parker"
+   ],
+   "genres": [
+    "Animation",
+    "Comedy",
+    "TV Movie"
+   ],
+   "id": 1290938,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "The advent of new weight loss drugs has a huge impact on everyone in South Park. When Cartman is denied access to the life-changing medicine, the kids jump into action.",
+   "popularity": 3.2266,
+   "poster_path": "/zxM1AIKBP83plf2buLR0cbGfvl2.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Paramount Plus Premium"
+    },
+    {
+     "name": "Paramount Plus Essential"
+    },
+    {
+     "name": "Paramount+ Amazon Channel"
+    },
+    {
+     "name": "Paramount+ Roku Premium Channel"
+    },
+    {
+     "name": "Paramount Plus"
+    },
+    {
+     "name": "Paramount Plus Basic with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/4N4BMd0Mm0kHAmF7RZgL5lW3cwc.png",
+     "name": "Paramount Plus Premium",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/uPWQPyF4nqwtfPNmGcFcenU57HG.png",
+     "name": "Paramount Plus Essential",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/bxX0YVOCY7bI85BKRlJAAQ2EjUR.png",
+     "name": "Paramount+ Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tnZCMxbcKdxuVmjxefyXCaip7q3.png",
+     "name": "Paramount+ Roku Premium Channel",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/6qPtM96UZkt3Bu4ZFPsDeHFWUZ2.png",
+     "name": "Spectrum On Demand",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-23",
+   "release_date": "2024-05-24",
+   "revenue": 0,
+   "runtime": 51,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "The weight is over.",
+   "title": "South Park: The End of Obesity",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 7.393,
+   "vote_count": 299
   },
   "movie:1341138": {
    "backdrop_path": "/ftFf9sfJq69xJ0AuiaIuDKBtfzg.jpg",
