@@ -5,10 +5,12 @@
 # cycle (hourly job timeout is 50 min). The builder
 # (scripts/catalogue_build.py) writes per-bucket chunks js/cat/<bb>.json
 # + js/seo/<bb>.json, out/catalogue-state.json and out/credits.json.
-# It NEVER writes the hourly pipeline's files (js/seo-meta.json,
-# js/published-titles.js, sitemap-main.xml — those belong to the hourly
-# run's seo_assets step, which also generates the sitemap index +
-# per-bucket sitemaps from the chunks).
+# It NEVER writes the hourly pipeline's files (the slimmed
+# js/seo-meta.json, js/published-titles.js, sitemap-main.xml — those
+# belong to the hourly run's seo_assets step, which also generates the
+# sitemap index + per-bucket sitemaps from the chunks). It shares
+# js/seo/<bb>.json with that step: this builder owns catalogue keys,
+# seo_assets owns published keys, and neither overwrites the other's.
 #
 # NO DEPLOY STEP HERE: the hourly pipeline deploys unconditionally
 # every hour (since 12fb0d96), so committed chunks go live within the

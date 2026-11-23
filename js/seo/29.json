@@ -1,6 +1,6 @@
 {
  "bucket": "29",
- "count": 64,
+ "count": 74,
  "titles": {
   "movie:10629": {
    "d": "Veronica Guerin (2003): Drama/Crime film. Story: In this true story, Veronica Guerin is an… See cast, budget $17M, and TMDB rating 6.7/10.",
@@ -709,6 +709,63 @@
    "t": "Spirited Away (2001) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2001"
   },
+  "movie:1299329": {
+   "d": "Josephine (2026): Drama/Crime film. Story: After eight-year-old Josephine accidentally witnesses… See cast and release date 19 November 2026.",
+   "img": "https://image.tmdb.org/t/p/w780/mFC8CT6L6PaoPc3s8WpvALPNLRD.jpg",
+   "industry": "world",
+   "k": "Josephine, Josephine movie, Josephine cast, Josephine story, Josephine box office collection, Josephine budget, Josephine review, Josephine rating, Josephine release date, Josephine trailer, Josephine Drama, Josephine Crime, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Mason Reeves"
+     },
+     {
+      "@type": "Person",
+      "name": "Channing Tatum"
+     },
+     {
+      "@type": "Person",
+      "name": "Gemma Chan"
+     },
+     {
+      "@type": "Person",
+      "name": "Philip Ettinger"
+     },
+     {
+      "@type": "Person",
+      "name": "Syra McCarthy"
+     }
+    ],
+    "description": "Josephine (2026): Drama/Crime film. Story: After eight-year-old Josephine accidentally witnesses… See cast and release date 19 November 2026.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Beth de Araújo"
+     }
+    ],
+    "duration": "PT119M",
+    "genre": [
+     "Drama",
+     "Crime"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/mFC8CT6L6PaoPc3s8WpvALPNLRD.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1299329",
+    "name": "Josephine",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-11-19"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1299329"
+   },
+   "modified": "",
+   "published": "2026-11-19",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Josephine (2026)</h1>\n<p class=\"ssr-lead\">After eight-year-old Josephine accidentally witnesses a brutal assault, she begins acting out violently to protect herself. This emotional trauma leads to conflicts between her parents as they search for justice and a way to feel safe again.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 19 November 2026</li><li>Runtime: 119 minutes</li><li>Director: Beth de Araújo</li><li>Genres: Drama, Crime</li><li>Tagline: Too young to understand. Too old to forget.</li><li>Certification: R</li><li>Original language: English</li><li>Spoken languages: English</li><li>Production countries: United States</li><li>Official trailer: Official Trailer</li></ul>\n<h2>Top cast</h2>\n<ul><li>Mason Reeves as Josephine</li><li>Channing Tatum as Damien</li><li>Gemma Chan as Claire</li><li>Philip Ettinger as Greg</li><li>Syra McCarthy as Sandra</li><li>Eleanore Pienta as Kerry</li><li>Dana Millican as Ms. Hoffman</li><li>Michael Angelo Covino as Francisco Castellanos</li><li>Stefanie Estes as Ms. Volk</li><li>Michael X. Sommers as Mr. Larson</li></ul>\n</article>",
+   "t": "Josephine (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
+  },
   "movie:1314829": {
    "d": "Monkey’s Magic Merry Go Round (2026): Horror film. Story: After a mysterious bout of amnesia, a beloved… See cast and TMDB rating 7.6/10.",
    "img": "https://image.tmdb.org/t/p/w780/w4ssqWwSiSumZve63L1gtXd3bC5.jpg",
@@ -1153,6 +1210,146 @@
    "t": "The Long Riders (1980) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "1980"
   },
+  "movie:1511829": {
+   "d": "The Nameless Ballad (2026): Horror film. Story: Under pressure from his record label, a young… See cast, TMDB rating 4.1/10, and release date 5 November 2026.",
+   "img": "https://image.tmdb.org/t/p/w780/nSgF1ZENtBmGtGlLEETgVUd3aai.jpg",
+   "industry": "world",
+   "k": "The Nameless Ballad, The Nameless Ballad movie, The Nameless Ballad cast, The Nameless Ballad story, The Nameless Ballad box office collection, The Nameless Ballad budget, The Nameless Ballad review, The Nameless Ballad rating, The Nameless Ballad release date, The Nameless Ballad Horror, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Jamie Ward"
+     },
+     {
+      "@type": "Person",
+      "name": "Alana Boden"
+     },
+     {
+      "@type": "Person",
+      "name": "Seumas F. Sargent"
+     },
+     {
+      "@type": "Person",
+      "name": "Sergio Ceglie"
+     },
+     {
+      "@type": "Person",
+      "name": "Vincenzo De Michele"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 6,
+     "ratingValue": 4.1,
+     "worstRating": 0
+    },
+    "description": "The Nameless Ballad (2026): Horror film. Story: Under pressure from his record label, a young… See cast, TMDB rating 4.1/10, and release date 5 November 2026.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Federico Zampaglione"
+     }
+    ],
+    "duration": "PT87M",
+    "genre": [
+     "Horror"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/nSgF1ZENtBmGtGlLEETgVUd3aai.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1511829",
+    "name": "The Nameless Ballad",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-11-05"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1511829"
+   },
+   "modified": "",
+   "published": "2026-11-09",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>The Nameless Ballad (2026)</h1>\n<p class=\"ssr-lead\">Under pressure from his record label, a young musician in crisis takes refuge in an isolated Italian villa to find inspiration for his next album. But the discovery of an ancient piano and a forgotten diary drags him into a spiral of twisted obsessions, supernatural visions and ghostly presences that finally push him to the brink of madness.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 5 November 2026</li><li>Runtime: 87 minutes</li><li>Director: Federico Zampaglione</li><li>Genres: Horror</li><li>Tagline: Death is a powerful muse.</li><li>Original language: IT</li><li>Spoken languages: IT</li><li>Production countries: Italy</li><li>TMDB rating: 4.1/10 (6 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Jamie Ward as Sam Gallo</li><li>Alana Boden as Tania</li><li>Seumas F. Sargent as Paul</li><li>Sergio Ceglie</li><li>Vincenzo De Michele</li><li>Fabrizio Ferracane</li><li>Giglia Marra</li></ul>\n</article>",
+   "t": "The Nameless Ballad (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
+  },
+  "movie:1515729": {
+   "d": "Blast (2026): Action/Thriller film. Story: A seemingly ordinary family must unleash their hidden… See cast, review 7.5/10, and TMDB rating 7.8/10.",
+   "img": "https://image.tmdb.org/t/p/w780/xsoKAonKy1zk5XoQoUG1dUXDCKH.jpg",
+   "industry": "bollywood",
+   "k": "Blast, Blast movie, Blast cast, Blast story, Blast box office collection, Blast budget, Blast review, Blast rating, Blast release date, Blast trailer, Blast Action, Blast Thriller, Indian movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Arjun Sarja"
+     },
+     {
+      "@type": "Person",
+      "name": "Abhirami"
+     },
+     {
+      "@type": "Person",
+      "name": "Preity Mukhundhan"
+     },
+     {
+      "@type": "Person",
+      "name": "Vivek Prasanna"
+     },
+     {
+      "@type": "Person",
+      "name": "John Kokken"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 79,
+     "ratingValue": 7.8,
+     "worstRating": 0
+    },
+    "description": "Blast (2026): Action/Thriller film. Story: A seemingly ordinary family must unleash their hidden… See cast, review 7.5/10, and TMDB rating 7.8/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Subash K Raj"
+     }
+    ],
+    "duration": "PT143M",
+    "genre": [
+     "Action",
+     "Thriller"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/xsoKAonKy1zk5XoQoUG1dUXDCKH.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1515729",
+    "name": "Blast",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-05-28"
+    },
+    "review": {
+     "@type": "Review",
+     "author": {
+      "@type": "Organization",
+      "name": "FlickAtlas"
+     },
+     "reviewBody": "Blast is an unapologetic crowd-pleaser that punches harder than its flaws and offers a solid action family entertainer. With confident direction by Subash K Raj and a martial arts-loving family at its core, it is a fun distraction well worth watching. Recommended for fans of commercial action cinema.",
+     "reviewRating": {
+      "@type": "Rating",
+      "bestRating": 10,
+      "ratingValue": 7.5
+     }
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1515729"
+   },
+   "modified": "",
+   "published": "2026-10-30",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Blast (2026)</h1>\n<p class=\"ssr-lead\">A seemingly ordinary family must unleash their hidden martial arts skills when they clash with a ruthless criminal gang tied to corruption and violence.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 28 May 2026</li><li>Runtime: 143 minutes</li><li>Director: Subash K Raj</li><li>Genres: Action, Thriller</li><li>Tagline: Blood bound. Battle ready.</li><li>Certification: U/A 16+</li><li>Original language: Tamil</li><li>Spoken languages: Tamil</li><li>Production countries: India</li><li>Official trailer: Official Trailer [ENG SUB]</li><li>TMDB rating: 7.8/10 (79 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Arjun Sarja as Rajaraman</li><li>Abhirami as Neelaveni</li><li>Preity Mukhundhan as Nila</li><li>Vivek Prasanna as Ilango</li><li>John Kokken as Varun Dhayalan</li><li>Arjun Chidambaram as Abraham</li><li>Pawan as Kirupakaran</li><li>Dhileban as Arunagiri</li><li>Vinod Sagar as Toby</li><li>Bala Hasan as Siva</li></ul>\n<h2>FlickAtlas review</h2>\n<p>Overall: 7.5/10.</p>\n<ul><li>Action &amp; Cinematography: 8/10</li><li>Comedy &amp; Entertainment: 7/10</li><li>Direction: 7.5/10</li><li>Music &amp; BGM: 7/10</li><li>Performances: 8/10</li><li>Story &amp; Screenplay: 7/10</li></ul>\n<h3>Story &amp; Plot</h3>\n<p>A seemingly ordinary family with a hidden martial arts background must unleash their skills when they clash with a ruthless criminal gang tied to corruption and violence. Directed by debutant Subash K Raj, the film throws everything at the screen including family sentiment, revenge drama, and assassins. The narrative uses an interesting interlink screenplay driven by a refreshing martial arts-loving family angle.</p>\n<h3>Comedy &amp; Entertainment</h3>\n<p>The film leans into its own eccentricity and embraces an absurd premise with a lightness that boosts its entertainment value. It functions as an unapologetic commercial Tamil entertainer that knows exactly what it wants to be. The quirky family dynamic and eccentric situations bring plenty of fun without relying on conventional setups.</p>\n<h3>Performances &amp; Direction</h3>\n<p>Preity Mukhundhan and Arjun Sarja deliver strong performances that power this action-heavy entertainer. It is great to watch them perform action on-screen, with Preity Mukundhan leading an entertaining action riot that features female-led heroism. The cast also features Abhirami, Vivek Prasanna, and John Kokken in a commercial entertainer.</p>\n<h3>Strengths</h3>\n<ul><li>refreshing martial arts backdrop</li><li>energetic lead performances by Preity Mukhundhan and Arjun Sarja</li><li>punchy fights and action choreography</li><li>willingness to embrace eccentricity</li><li>entertaining family sentiment</li></ul>\n<h3>Weaknesses</h3>\n<p>While the film packs a punch and delivers an entertaining ride, it does feature a few missed punches along the way. The narrative struggles with a few familiar genre tropes and occasional missteps as it tries to juggle its many commercial elements like corrupt politicians and revenge drama.</p>\n<h3>Final verdict</h3>\n<p>Blast is an unapologetic crowd-pleaser that punches harder than its flaws and offers a solid action family entertainer. With confident direction by Subash K Raj and a martial arts-loving family at its core, it is a fun distraction well worth watching. Recommended for fans of commercial action cinema.</p>\n<h2>Where to watch</h2>\n<ul><li>Streaming on Netflix (IN)</li></ul>\n</article>",
+   "t": "Blast (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
+  },
   "movie:157829": {
    "d": "The Disappearance of Eleanor Rigby: Them (2014): Drama film. Story: A New York couple's relationship is tested after the… See cast and budget $3M.",
    "img": "https://image.tmdb.org/t/p/w780/a3riLgP1Dncd0tzGPI6wrv3cHlU.jpg",
@@ -1215,6 +1412,50 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>The Disappearance of Eleanor Rigby: Them (2014)</h1>\n<p class=\"ssr-lead\">A New York couple&#x27;s relationship is tested after the loss of their child. This film is the wide-released combination of the original two :him and :her volumes that premiered at the Cannes Film Festival.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 14 May 2014</li><li>Runtime: 119 minutes</li><li>Director: Ned Benson</li><li>Genres: Drama</li><li>Tagline: Two films. One love.</li><li>Certification: R</li><li>Original language: English</li><li>Spoken languages: English</li><li>Production countries: United States</li><li>Budget: $3M</li><li>TMDB rating: 6.2/10 (319 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Jessica Chastain as Eleanor Rigby</li><li>James McAvoy as Conor Ludlow</li><li>Bill Hader as Stuart</li><li>Viola Davis as Professor Lillian Friedman</li><li>Isabelle Huppert as Mary Rigby</li><li>Ciarán Hinds as Spencer Ludlow</li><li>Nina Arianda as Alexis</li><li>Jess Weixler as Katy Rigby</li><li>William Hurt as Julian Rigby</li><li>Ryan Eggold as Guy from Club</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Lionsgate+ Amazon Channel</li><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
    "t": "The Disappearance of Eleanor Rigby: Them (2014) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2014"
+  },
+  "movie:1599329": {
+   "d": "All for Christmas (2026): Romance/Comedy film. Story: Podcaster Winona is forced to test love online by a… See cast and release date 24 November 2026.",
+   "img": "https://image.tmdb.org/t/p/w780/uIq62I9VTGeOlZeCHZuLviyMScA.jpg",
+   "industry": "world",
+   "k": "All for Christmas, All for Christmas movie, All for Christmas cast, All for Christmas story, All for Christmas box office collection, All for Christmas budget, All for Christmas review, All for Christmas rating, All for Christmas release date, All for Christmas Romance, All for Christmas Comedy, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Whitney Leavitt"
+     },
+     {
+      "@type": "Person",
+      "name": "Jesse Kove"
+     }
+    ],
+    "description": "All for Christmas (2026): Romance/Comedy film. Story: Podcaster Winona is forced to test love online by a… See cast and release date 24 November 2026.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Jake Helgren"
+     }
+    ],
+    "genre": [
+     "Romance",
+     "Comedy"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/uIq62I9VTGeOlZeCHZuLviyMScA.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1599329",
+    "name": "All for Christmas",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-11-24"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1599329"
+   },
+   "modified": "",
+   "published": "2026-11-17",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>All for Christmas (2026)</h1>\n<p class=\"ssr-lead\">Podcaster Winona is forced to test love online by a holiday dating-app partnership, connecting with a mystery man who feels like everything she’s been missing. What she doesn’t know is that he’s Luke, the rugged renovator transforming her grandmother’s Christmas Eve venue — and the last guy she’d ever expect to fall for in real life.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 24 November 2026</li><li>Director: Jake Helgren</li><li>Genres: Romance, Comedy</li><li>Certification: PG</li><li>Original language: English</li><li>Spoken languages: English</li><li>Production countries: United States</li><li>Status: Post Production</li></ul>\n<h2>Top cast</h2>\n<ul><li>Whitney Leavitt as Winona</li><li>Jesse Kove as Luke</li></ul>\n</article>",
+   "t": "All for Christmas (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
   },
   "movie:16229": {
    "d": "Prozac Nation (2003): Drama/Romance film. Story: When talented young writer Elizabeth Wurtzel earns a… See cast and TMDB rating 6.3/10.",
@@ -1461,6 +1702,61 @@
    "t": "Don't Move (2004) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2004"
   },
+  "movie:1698629": {
+   "d": "Christmas En Pointe (2026): Romance film. Story: Years after breaking off their engagement, a… See cast and release date 19 November 2026.",
+   "img": "https://image.tmdb.org/t/p/w500/sgLWEkXBp9oLvdTUlNklrSySfOE.jpg",
+   "industry": "world",
+   "k": "Christmas En Pointe, Christmas En Pointe movie, Christmas En Pointe cast, Christmas En Pointe story, Christmas En Pointe box office collection, Christmas En Pointe budget, Christmas En Pointe review, Christmas En Pointe rating, Christmas En Pointe release date, Christmas En Pointe trailer, Christmas En Pointe Romance, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Lexie Contursi"
+     },
+     {
+      "@type": "Person",
+      "name": "Jonathan Stoddard"
+     },
+     {
+      "@type": "Person",
+      "name": "Ashley BeLoat"
+     },
+     {
+      "@type": "Person",
+      "name": "James Choi"
+     },
+     {
+      "@type": "Person",
+      "name": "Janet Decker"
+     }
+    ],
+    "description": "Christmas En Pointe (2026): Romance film. Story: Years after breaking off their engagement, a… See cast and release date 19 November 2026.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Lexi Giovagnoli"
+     }
+    ],
+    "genre": [
+     "Romance"
+    ],
+    "image": "https://image.tmdb.org/t/p/w500/sgLWEkXBp9oLvdTUlNklrSySfOE.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1698629",
+    "name": "Christmas En Pointe",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-11-19"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1698629"
+   },
+   "modified": "",
+   "published": "2026-11-20",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Christmas En Pointe (2026)</h1>\n<p class=\"ssr-lead\">Years after breaking off their engagement, a small-town dance teacher and an ambitious senator returning home for Christmas are thrown back together to save her struggling studio, rekindling the love they once lost.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 19 November 2026</li><li>Director: Lexi Giovagnoli</li><li>Genres: Romance</li><li>Original language: English</li><li>Spoken languages: English</li><li>Production countries: United States</li><li>Official trailer: Christmas En Pointe | Nicely Entertainment | Trailer</li></ul>\n<h2>Top cast</h2>\n<ul><li>Lexie Contursi as Clarissa</li><li>Jonathan Stoddard as Zach Wentworth</li><li>Ashley BeLoat as Louisa</li><li>James Choi as Bill</li><li>Janet Decker as Grace</li><li>Liza Giovagnoli as Audry</li><li>Anmarie Gorman as Congratulations Party Attendee</li><li>Ava McKay as Skylar</li><li>Monaye Moyes as Mary</li><li>Tim Perez-Ross as Robert</li></ul>\n<h2>Where to watch</h2>\n<ul><li>Streaming on Philo (US)</li></ul>\n</article>",
+   "t": "Christmas En Pointe (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
+  },
   "movie:1705729": {
    "d": "Man of War (2026): Action/Thriller film. Story: When an aid worker vanishes in the first hours of war… See cast and TMDB rating 6.5/10.",
    "img": "https://image.tmdb.org/t/p/w780/jEvff0AJue5DtzNd2rvFDgSNVuH.jpg",
@@ -1588,6 +1884,293 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>True Grit (1969)</h1>\n<p class=\"ssr-lead\">The murder of her father sends a teenage tomboy on a mission of &#x27;justice&#x27;, which involves avenging her father&#x27;s death. She recruits a tough old marshal, &#x27;Rooster&#x27; Cogburn because he has &#x27;true grit&#x27;, and a reputation of getting the job done.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 11 June 1969</li><li>Runtime: 128 minutes</li><li>Director: Henry Hathaway</li><li>Genres: Western, Drama, Adventure</li><li>Tagline: The strangest trio ever to track a killer.</li><li>Certification: G</li><li>Original language: English</li><li>Spoken languages: English</li><li>Production countries: United States</li><li>Official trailer: True Grit - Trailer</li><li>TMDB rating: 7.3/10 (904 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>John Wayne as Reuben J. &quot;Rooster&quot; Cogburn</li><li>Kim Darby as Mattie Ross</li><li>Glen Campbell as &quot;La Boeuf&quot;</li><li>Jeremy Slate as Emmett Quincy</li><li>Robert Duvall as Ned Pepper</li><li>Dennis Hopper as &quot;Moon&quot;</li><li>Alfred Ryder as Goudy</li><li>Strother Martin as Colonel G. Stonehill</li><li>Jeff Corey as Tom Chaney</li><li>Ron Soble as Captain Boots Finch</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Apple TV Store, Amazon Video</li><li>Buy: Apple TV Store</li></ul>\n</article>",
    "t": "True Grit (1969) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "1969"
+  },
+  "movie:1786829": {
+   "d": "An Unexpected Christmas Plan (2026): Romance/TV Movie film. Story: When Christmas-averse business executive Jen is… See cast and release date 25 November 2026.",
+   "img": "https://image.tmdb.org/t/p/w500/k7T7oASsetNEfjDac9IYfaEEJOd.jpg",
+   "industry": "world",
+   "k": "An Unexpected Christmas Plan, An Unexpected Christmas Plan movie, An Unexpected Christmas Plan cast, An Unexpected Christmas Plan story, An Unexpected Christmas Plan box office collection, An Unexpected Christmas Plan budget, An Unexpected Christmas Plan review, An Unexpected Christmas Plan rating, An Unexpected Christmas Plan release date, An Unexpected Christmas Plan Romance, An Unexpected Christmas Plan TV Movie, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Hailey Rutledge"
+     },
+     {
+      "@type": "Person",
+      "name": "Doug Noble"
+     },
+     {
+      "@type": "Person",
+      "name": "James Lucas"
+     },
+     {
+      "@type": "Person",
+      "name": "Emma Rose Smith"
+     },
+     {
+      "@type": "Person",
+      "name": "Jason Harris"
+     }
+    ],
+    "description": "An Unexpected Christmas Plan (2026): Romance/TV Movie film. Story: When Christmas-averse business executive Jen is… See cast and release date 25 November 2026.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Lindsay Hartley"
+     }
+    ],
+    "duration": "PT90M",
+    "genre": [
+     "Romance",
+     "TV Movie"
+    ],
+    "image": "https://image.tmdb.org/t/p/w500/k7T7oASsetNEfjDac9IYfaEEJOd.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1786829",
+    "name": "An Unexpected Christmas Plan",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-11-25"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1786829"
+   },
+   "modified": "",
+   "published": "2026-11-18",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>An Unexpected Christmas Plan (2026)</h1>\n<p class=\"ssr-lead\">When Christmas-averse business executive Jen is reluctantly tasked with looking after her sister’s two kids, handsome neighbor Adam helps her navigate holiday disasters, rediscover family, and open her heart to an unexpected romance this holiday season.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 25 November 2026</li><li>Runtime: 90 minutes</li><li>Director: Lindsay Hartley</li><li>Genres: Romance, TV Movie</li><li>Original language: English</li><li>Spoken languages: English</li><li>Production countries: United States</li><li>Status: Post Production</li></ul>\n<h2>Top cast</h2>\n<ul><li>Hailey Rutledge as Jen Wright</li><li>Doug Noble as Adam</li><li>James Lucas as Tom Carter</li><li>Emma Rose Smith as Amy Carter</li><li>Jason Harris as Frank Norton</li><li>Kristine Beckett as Dawn</li><li>Melissa O. Bowen as Meg Carter</li><li>Joe Kurak as Lewis</li><li>Joseph Moreland as Jempson</li><li>Mike A. Morgan as Eddy</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Passionflix Amazon Channel</li></ul>\n<h2>Where to watch</h2>\n<ul><li>Streaming on Passionflix Amazon Channel (US)</li></ul>\n</article>",
+   "t": "An Unexpected Christmas Plan (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
+  },
+  "movie:1791529": {
+   "d": "Hotel Utopia (2026): Documentary film. Story: In an abandoned hotel deep in the Bulgarian… See cast, review 6.5/10, and release date 27 October 2026.",
+   "img": "https://image.tmdb.org/t/p/w500/Uw7GjlmjRpXAVsF0mAh9mtbOwR.jpg",
+   "industry": "world",
+   "k": "Hotel Utopia, Hotel Utopia movie, Hotel Utopia cast, Hotel Utopia story, Hotel Utopia box office collection, Hotel Utopia budget, Hotel Utopia review, Hotel Utopia rating, Hotel Utopia release date, Hotel Utopia Documentary, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "description": "Hotel Utopia (2026): Documentary film. Story: In an abandoned hotel deep in the Bulgarian… See cast, review 6.5/10, and release date 27 October 2026.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Julia Groteclaes"
+     }
+    ],
+    "duration": "PT86M",
+    "genre": [
+     "Documentary"
+    ],
+    "image": "https://image.tmdb.org/t/p/w500/Uw7GjlmjRpXAVsF0mAh9mtbOwR.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1791529",
+    "name": "Hotel Utopia",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-10-27"
+    },
+    "review": {
+     "@type": "Review",
+     "author": {
+      "@type": "Organization",
+      "name": "FlickAtlas"
+     },
+     "reviewBody": "Hotel Utopia (2026) offers an intriguing documentary look at an abandoned mountain hotel and the people seeking a new home there. While it shares its name with various global resorts and party spots, viewers interested in the sociological premise will find an engaging premise. It is recommended for those curious about modern digital nomadism and socialist-era backdrops, though expectations should be managed regarding traditional narrative pacing.",
+     "reviewRating": {
+      "@type": "Rating",
+      "bestRating": 10,
+      "ratingValue": 6.5
+     }
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1791529"
+   },
+   "modified": "",
+   "published": "2026-10-26",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Hotel Utopia (2026)</h1>\n<p class=\"ssr-lead\">In an abandoned hotel deep in the Bulgarian mountains, digital nomads search for a new home, investors are hoping for profit, and the last villager revels in days gone by – all driven by the longing for #happyland in a place shaped by a socialist past.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 27 October 2026</li><li>Runtime: 86 minutes</li><li>Director: Julia Groteclaes</li><li>Genres: Documentary</li><li>Original language: German</li><li>Spoken languages: English, BG, German</li><li>Production countries: Germany</li></ul>\n<h2>FlickAtlas review</h2>\n<p>Overall: 6.5/10.</p>\n<ul><li>Action &amp; Cinematography: 6/10</li><li>Comedy &amp; Entertainment: 6.5/10</li><li>Direction: 6.5/10</li><li>Music &amp; BGM: 6.5/10</li><li>Performances: 6/10</li><li>Story &amp; Screenplay: 7/10</li></ul>\n<h3>Story &amp; Plot</h3>\n<p>In an abandoned hotel deep in the Bulgarian mountains, digital nomads search for a new home while investors hope for profit. Meanwhile, the last villager revels in days gone by, all driven by the longing for #happyland in a place shaped by a socialist past. Web sources and reviews instead highlight various different real-world resorts and hotels globally named Utopia, ranging from stunning all-inclusive spots in Alanya to party towns in Ksamil.</p>\n<h3>Comedy &amp; Entertainment</h3>\n<p>The documentary and travel descriptions offer a diverse mix of environments, from peaceful retreats to party-oriented towns. Entertainment value stems from exploring these distinct settings and the human desires for a perfect getaway. The premise relies on observing different groups of people seeking paradise, offering an engaging look at modern travel and lifestyle aspirations.</p>\n<h3>Performances &amp; Direction</h3>\n<p>The top cast is not available for this documentary directed by Julia Groteclaes, which focuses instead on real individuals such as digital nomads, investors, and the last remaining villager. Reviewers of various similarly-named hotel locations frequently praise amazing staff and service, though individual cinematic performances are not the central focus of this documentary.</p>\n<h3>Strengths</h3>\n<ul><li>Intriguing documentary premise</li><li>Exploration of human longing for paradise</li><li>Diverse real-world resort comparisons</li><li>Engaging setting in the Bulgarian mountains</li></ul>\n<h3>Weaknesses</h3>\n<p>The primary weakness lies in the potential confusion between the documentary&#x27;s focus on an abandoned Bulgarian hotel and the numerous unrelated commercial hotels found in web search results. Additionally, a lack of detailed cast information limits traditional performance analysis.</p>\n<h3>Final verdict</h3>\n<p>Hotel Utopia (2026) offers an intriguing documentary look at an abandoned mountain hotel and the people seeking a new home there. While it shares its name with various global resorts and party spots, viewers interested in the sociological premise will find an engaging premise. It is recommended for those curious about modern digital nomadism and socialist-era backdrops, though expectations should be managed regarding traditional narrative pacing.</p>\n</article>",
+   "t": "Hotel Utopia (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
+  },
+  "movie:1794929": {
+   "d": "Doosra (2026): Drama film. Story: The 2002 NatWest Final was more than a cricketing… See cast, box office collection $14.9k, and review 6/10.",
+   "img": "https://image.tmdb.org/t/p/w780/ftWFF6CgMXEmnVa7pI6XhDgjPkk.jpg",
+   "industry": "bollywood",
+   "k": "Doosra, Doosra movie, Doosra cast, Doosra story, Doosra box office collection, Doosra budget, Doosra review, Doosra rating, Doosra release date, Doosra Drama, Indian movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Plabita Borthakur"
+     },
+     {
+      "@type": "Person",
+      "name": "Ankur Vikal"
+     },
+     {
+      "@type": "Person",
+      "name": "Samidha Guru"
+     },
+     {
+      "@type": "Person",
+      "name": "Twisha Joshi"
+     },
+     {
+      "@type": "Person",
+      "name": "Krishna Gokani"
+     }
+    ],
+    "description": "Doosra (2026): Drama film. Story: The 2002 NatWest Final was more than a cricketing… See cast, box office collection $14.9k, and review 6/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Abhinay Deo"
+     }
+    ],
+    "duration": "PT78M",
+    "genre": [
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/ftWFF6CgMXEmnVa7pI6XhDgjPkk.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1794929",
+    "name": "Doosra",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-10-23"
+    },
+    "review": {
+     "@type": "Review",
+     "author": {
+      "@type": "Organization",
+      "name": "FlickAtlas"
+     },
+     "reviewBody": "Doosra presents an interesting experiment that weaves cricket and a young girl's personal liberation into a single narrative. While the incredible actor performances and fascinating premise offer plenty of intrigue, the film ultimately falls short of its ambitious goals. Viewers interested in sports-themed dramas and coming-of-age stories may still find it worth a look.",
+     "reviewRating": {
+      "@type": "Rating",
+      "bestRating": 10,
+      "ratingValue": 6.0
+     }
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1794929"
+   },
+   "modified": "",
+   "published": "2026-10-27",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Doosra (2026)</h1>\n<p class=\"ssr-lead\">The 2002 NatWest Final was more than a cricketing victory for India. It was a moment when a nation found its voice, and a young girl found the courage to speak her truth.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 23 October 2026</li><li>Runtime: 78 minutes</li><li>Director: Abhinay Deo</li><li>Genres: Drama</li><li>Tagline: India&#x27;s other freedom struggle!</li><li>Original language: Hindi</li><li>Spoken languages: Hindi</li><li>Production countries: India</li></ul>\n<h2>Top cast</h2>\n<ul><li>Plabita Borthakur</li><li>Ankur Vikal</li><li>Samidha Guru</li><li>Twisha Joshi</li><li>Krishna Gokani</li><li>Sourav Ganguly as Archival footage</li></ul>\n<h2>Box office</h2>\n<ul><li>India Net total: $14.9k</li><li>Latest: Day 13 (2026-11-04) — India Net $740</li></ul>\n<h2>Day-wise collection (India Net, USD)</h2>\n<table><tr><th>Day</th><th>Date</th><th>India Net</th><th>Overseas</th></tr><tr><td>Day 1</td><td>2026-10-23</td><td>$1.6k</td><td>—</td></tr><tr><td>Day 2</td><td>2026-10-24</td><td>$2.1k</td><td>—</td></tr><tr><td>Day 3</td><td>2026-10-25</td><td>$2.1k</td><td>—</td></tr><tr><td>Day 4</td><td>2026-10-26</td><td>$1.1k</td><td>—</td></tr><tr><td>Day 5</td><td>2026-10-27</td><td>$1.1k</td><td>—</td></tr><tr><td>Day 6</td><td>2026-10-28</td><td>$1.1k</td><td>—</td></tr><tr><td>Day 7</td><td>2026-10-29</td><td>$1.1k</td><td>—</td></tr><tr><td>Day 8</td><td>2026-10-30</td><td>$951</td><td>—</td></tr><tr><td>Day 9</td><td>2026-10-31</td><td>$1.1k</td><td>—</td></tr><tr><td>Day 10</td><td>2026-11-01</td><td>$951</td><td>—</td></tr><tr><td>Day 11</td><td>2026-11-02</td><td>$740</td><td>—</td></tr><tr><td>Day 12</td><td>2026-11-03</td><td>$423</td><td>—</td></tr><tr><td>Day 13</td><td>2026-11-04</td><td>$740</td><td>—</td></tr></table>\n<h2>FlickAtlas review</h2>\n<p>Overall: 6/10.</p>\n<ul><li>Action &amp; Cinematography: 6/10</li><li>Comedy &amp; Entertainment: 5.5/10</li><li>Direction: 6/10</li><li>Music &amp; BGM: 6/10</li><li>Performances: 7.5/10</li><li>Story &amp; Screenplay: 5.5/10</li></ul>\n<h3>Story &amp; Plot</h3>\n<p>Doosra is a Hindi-language drama directed by Abhinay Deo that intertwines a coming-of-age saga with the iconic 2002 NatWest cricket final. It follows Tara, a young girl in a traditional Indian setting who challenges societal expectations, finding her truth and voice alongside a nation&#x27;s belief in itself. A billion people and the young protagonist work to defy centuries of prejudice to discover their identity through cricket.</p>\n<h3>Comedy &amp; Entertainment</h3>\n<p>As a drama framed around the 2002 NatWest Final and a young girl challenging societal expectations, the film focuses more on its historical and emotional coming-of-age premise than on heavy humor. Its entertainment value relies primarily on the fascinating premise of weaving cricket into a narrative about freedom and personal identity. The storytelling draws viewers into its cultural backdrop rather than relying on traditional comedic relief.</p>\n<h3>Performances &amp; Direction</h3>\n<p>The cast features Plabita Borthakur, Ankur Vikal, Samidha Guru, Twisha Joshi, and Krishna Gokani, bringing life to the traditional setting and the central coming-of-age narrative. Reviewers on the web note that the actors&#x27; performances are incredible, standing out as a bright spot in the production. The emotional delivery helps ground Tara&#x27;s journey against the backdrop of a nation finding its voice.</p>\n<h3>Strengths</h3>\n<ul><li>fascinating narrative premise</li><li>incredible actor performances</li><li>strong thematic connection to cricket</li><li>compelling coming-of-age themes</li></ul>\n<h3>Weaknesses</h3>\n<p>Despite its interesting experiment and strong performances, reviewers note that the film ultimately falls short. Fashioned as a coming-of-age saga, the ambitious storytelling struggles to maintain its momentum, leading to a narrative that does not quite reach its full potential.</p>\n<h3>Final verdict</h3>\n<p>Doosra presents an interesting experiment that weaves cricket and a young girl&#x27;s personal liberation into a single narrative. While the incredible actor performances and fascinating premise offer plenty of intrigue, the film ultimately falls short of its ambitious goals. Viewers interested in sports-themed dramas and coming-of-age stories may still find it worth a look.</p>\n</article>",
+   "t": "Doosra (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
+  },
+  "movie:1807529": {
+   "d": "Tsuri Komachi (2026): Drama film. See cast and release date 27 November 2026.",
+   "img": "https://image.tmdb.org/t/p/w780/A7m6F7If0l8L26WBpnula3Rgid6.jpg",
+   "industry": "world",
+   "k": "Tsuri Komachi, Tsuri Komachi movie, Tsuri Komachi cast, Tsuri Komachi story, Tsuri Komachi box office collection, Tsuri Komachi budget, Tsuri Komachi review, Tsuri Komachi rating, Tsuri Komachi release date, Tsuri Komachi Drama, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Yuna Nakamura"
+     },
+     {
+      "@type": "Person",
+      "name": "Cocona Yoshimoto"
+     },
+     {
+      "@type": "Person",
+      "name": "Nanami Akatsuki"
+     },
+     {
+      "@type": "Person",
+      "name": "Rin Kaname"
+     },
+     {
+      "@type": "Person",
+      "name": "Mei Ishihama"
+     }
+    ],
+    "description": "Tsuri Komachi (2026): Drama film. See cast and release date 27 November 2026.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Toshiaki Hirobe"
+     }
+    ],
+    "duration": "PT105M",
+    "genre": [
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/A7m6F7If0l8L26WBpnula3Rgid6.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1807529",
+    "name": "Tsuri Komachi",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-11-27"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1807529"
+   },
+   "modified": "",
+   "published": "2026-10-30",
+   "robots": "noindex,follow",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Tsuri Komachi (2026)</h1>\n<h2>Key facts</h2>\n<ul><li>Release date: 27 November 2026</li><li>Runtime: 105 minutes</li><li>Director: Toshiaki Hirobe</li><li>Genres: Drama</li><li>Certification: G</li><li>Original language: Japanese</li><li>Spoken languages: Japanese</li><li>Production countries: Japan</li></ul>\n<h2>Top cast</h2>\n<ul><li>Yuna Nakamura</li><li>Cocona Yoshimoto</li><li>Nanami Akatsuki</li><li>Rin Kaname</li><li>Mei Ishihama</li><li>Sugichan</li><li>HIRO</li><li>Ohira Moe</li><li>Hikaru Nishimoto</li><li>Koto Hirai</li></ul>\n</article>",
+   "t": "Tsuri Komachi (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
+  },
+  "movie:1807629": {
+   "d": "Mog's Bad Thing (2026): Animation/Comedy film. Story: Follows Mog, a tabby cat, who does a bad thing during… See cast and release date 8 November 2026.",
+   "img": "https://image.tmdb.org/t/p/w500/uMVcEe2ReKlEs7WT5xODNCgjWN8.jpg",
+   "industry": "world",
+   "k": "Mog's Bad Thing, Mog's Bad Thing movie, Mog's Bad Thing cast, Mog's Bad Thing story, Mog's Bad Thing box office collection, Mog's Bad Thing budget, Mog's Bad Thing review, Mog's Bad Thing rating, Mog's Bad Thing release date, Mog's Bad Thing Animation, Mog's Bad Thing Comedy, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Benedict Cumberbatch"
+     },
+     {
+      "@type": "Person",
+      "name": "Claire Foy"
+     },
+     {
+      "@type": "Person",
+      "name": "Katherine Parkinson"
+     },
+     {
+      "@type": "Person",
+      "name": "Adjoa Andoh"
+     },
+     {
+      "@type": "Person",
+      "name": "Mawaan Rizwan"
+     }
+    ],
+    "description": "Mog's Bad Thing (2026): Animation/Comedy film. Story: Follows Mog, a tabby cat, who does a bad thing during… See cast and release date 8 November 2026.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Robin Shaw"
+     }
+    ],
+    "duration": "PT25M",
+    "genre": [
+     "Animation",
+     "Comedy"
+    ],
+    "image": "https://image.tmdb.org/t/p/w500/uMVcEe2ReKlEs7WT5xODNCgjWN8.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1807629",
+    "name": "Mog's Bad Thing",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-11-08"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1807629"
+   },
+   "modified": "",
+   "published": "2026-11-01",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Mog&#x27;s Bad Thing (2026)</h1>\n<p class=\"ssr-lead\">Follows Mog, a tabby cat, who does a bad thing during a cat show hosted by her family in their garden, hides in the attic feeling sorry for herself, and must find a way to save the day.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 8 November 2026</li><li>Runtime: 25 minutes</li><li>Director: Robin Shaw</li><li>Genres: Animation, Comedy, Family</li><li>Original language: English</li><li>Spoken languages: English</li><li>Production countries: United Kingdom</li></ul>\n<h2>Top cast</h2>\n<ul><li>Benedict Cumberbatch as Mr. Thomas (voice)</li><li>Claire Foy as Mrs. Thomas (voice)</li><li>Katherine Parkinson as Mrs. Ramsbottom (voice)</li><li>Adjoa Andoh as Narrator (voice)</li><li>Mawaan Rizwan as Ali (voice)</li><li>John Thomson as Mr. Bunce (voice)</li><li>Teddy Skelton as Nicky (voice)</li><li>Amalia Theodorou as Amy (voice)</li><li>Amelie Law as Debbie (voice)</li></ul>\n</article>",
+   "t": "Mog's Bad Thing (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
   },
   "movie:18329": {
    "d": "Happy Together (1997): Drama/Romance film. Story: A couple travels from Hong Kong to Argentina to… See cast, budget $125.0k, and TMDB rating 7.6/10.",

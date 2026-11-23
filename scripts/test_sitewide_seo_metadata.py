@@ -126,7 +126,25 @@ for path, parser in shells:
                 assert node.get("description") == home_description, (
                     f"{path}: site structured-data description differs from homepage metadata")
 
-generated_meta = json.loads((ROOT / "js/seo-meta.json").read_text(encoding="utf-8"))
+# Sharded SEO stores (2026-11-23): the slimmed js/seo-meta.json holds
+# home/cat/daywise; titles live in js/seo/<bb>.json, news in
+# js/seo-news/<bb>.json. Assemble the monolith-equivalent universe for
+# the assertions below (slimmed file + published titles + news).
+# Catalogue-only chunk entries are out of scope here — the catalogue
+# build validates those — so filter title keys to published ids.
+_published_ids = set(seo.read_js_map(
+    ROOT / "js/published-titles.js", "FA_PUBLISHED"))
+
+
+def _in_monolith_universe(key):
+    family, _, item_id = key.partition(":")
+    if key == "home" or family in ("cat", "daywise", "news"):
+        return True
+    return item_id in _published_ids
+
+
+generated_meta = {k: v for k, v in seo.load_all_meta(ROOT).items()
+                  if _in_monolith_universe(k)}
 assert generated_meta, "generated dynamic metadata must not be empty"
 news_titles = [value["t"] for key, value in generated_meta.items()
                if key.startswith("news:")]
@@ -534,13 +552,15 @@ for shell_rel in ("movie/index.html", "show/index.html",
     assert '<main id="app" tabindex="-1">' in shell_text, (
         f"{shell_rel}: the Worker SSR anchor <main id=\"app\"> is missing")
 
-# Tripwire raised 6 -> 20 MB (2026-11-14, phase-2 SSR): the file is
-# legitimately ~16.1 MB for 916 titles with cast/director in the schema
-# + SSR blocks. The catalogue chunk design (js/seo/<bb>.json) will
-# shrink this monolith as titles migrate; until then the guard still
-# catches runaway growth above 20 MB.
-assert os.path.getsize(ROOT / "js/seo-meta.json") < 20 * 1024 * 1024, (
-    "seo-meta.json passed the 20 MB tripwire; cap or slim the ssr payloads")
+# Tripwire raised 6 -> 20 MB (2026-11-14, phase-2 SSR); sharded
+# 2026-11-23 after the single file hit 27.4 MB and broke every deploy
+# (Cloudflare Workers Static Assets per-file limit is 25 MiB). No
+# single deployed SEO store file may approach that limit.
+for _store in [ROOT / "js/seo-meta.json",
+               *(ROOT / "js/seo").glob("*.json"),
+               *(ROOT / "js/seo-news").glob("*.json")]:
+    assert os.path.getsize(_store) < 20 * 1024 * 1024, (
+        f"{_store} passed the 20 MB tripwire; shard the store")
 
 print(f"Sitewide SEO: {len(shells)} unique route shells; titles/descriptions/keywords valid; "
       "movie/news metadata data-driven; publication dates separate from release dates; "

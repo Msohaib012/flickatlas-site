@@ -1,6 +1,6 @@
 {
  "bucket": "36",
- "count": 60,
+ "count": 70,
  "titles": {
   "movie:10536": {
    "d": "The Italian Job (1969): Crime/Comedy film. Story: Charlie's got a 'job' to do. Having just left prison… See cast, budget $3M, and TMDB rating 6.9/10.",
@@ -709,6 +709,70 @@
    "t": "City by the Sea (2002) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2002"
   },
+  "movie:1400336": {
+   "d": "Focker In-Law (2026): Comedy/Romance film. Story: Henry, son of Greg and Pam Focker, aims to marry… See cast and TMDB rating 7.0/10.",
+   "img": "https://image.tmdb.org/t/p/w780/1zcCFBcqEQtAtXDh6EoBPy16RLR.jpg",
+   "industry": "world",
+   "k": "Focker In-Law, Focker In-Law movie, Focker In-Law cast, Focker In-Law story, Focker In-Law box office collection, Focker In-Law budget, Focker In-Law review, Focker In-Law rating, Focker In-Law release date, Focker In-Law trailer, Focker In-Law Comedy, Focker In-Law Romance, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Ben Stiller"
+     },
+     {
+      "@type": "Person",
+      "name": "Robert De Niro"
+     },
+     {
+      "@type": "Person",
+      "name": "Ariana Grande"
+     },
+     {
+      "@type": "Person",
+      "name": "Skyler Gisondo"
+     },
+     {
+      "@type": "Person",
+      "name": "Owen Wilson"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 2,
+     "ratingValue": 7.0,
+     "worstRating": 0
+    },
+    "description": "Focker In-Law (2026): Comedy/Romance film. Story: Henry, son of Greg and Pam Focker, aims to marry… See cast and TMDB rating 7.0/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "John Hamburg"
+     }
+    ],
+    "duration": "PT105M",
+    "genre": [
+     "Comedy",
+     "Romance"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/1zcCFBcqEQtAtXDh6EoBPy16RLR.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1400336",
+    "name": "Focker In-Law",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-11-25"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1400336"
+   },
+   "modified": "",
+   "published": "2026-11-21",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Focker In-Law (2026)</h1>\n<p class=\"ssr-lead\">Henry, son of Greg and Pam Focker, aims to marry Olivia, a strong-willed former hostage negotiator who appears to be his complete mismatch. To Greg&#x27;s shock, stepdad Jack Byrnes takes a liking to Olivia, and her unprecedented rise into his Circle of Trust sparks chaos in the family before Jack&#x27;s 80th birthday party.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 25 November 2026</li><li>Runtime: 105 minutes</li><li>Director: John Hamburg</li><li>Genres: Comedy, Romance</li><li>Tagline: Every family has its traditions.</li><li>Certification: PG-13</li><li>Original language: English</li><li>Spoken languages: English</li><li>Production countries: United States</li><li>Official trailer: Official International Trailer</li><li>TMDB rating: 7.0/10 (2 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Ben Stiller as Greg Focker</li><li>Robert De Niro as Jack Byrnes</li><li>Ariana Grande as Olivia Jones</li><li>Skyler Gisondo as Henry Focker</li><li>Owen Wilson as Kevin Rawley</li><li>Blythe Danner as Dina Byrnes</li><li>Teri Polo as Pam Byrnes-Focker</li><li>Beanie Feldstein as Samantha Focker</li><li>Eduardo Franco as Eduardo Villalobos</li><li>Liza Koshy</li></ul>\n</article>",
+   "t": "Focker In-Law (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
+  },
   "movie:14636": {
    "d": "The Condemned (2007): Action/Thriller film. Story: Jack Conrad is awaiting the death penalty in a… See cast, budget $20M, and TMDB rating 6.1/10.",
    "img": "https://image.tmdb.org/t/p/w780/hHQ5b86b6Db3kKZEpdwmujatDoh.jpg",
@@ -1028,6 +1092,69 @@
    "t": "Coraline (2009) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2009"
   },
+  "movie:1551036": {
+   "d": "A Bowl of Chicken Noodles Before I Die (2026): Drama film. Story: If today were your last day, what one small thing… See cast and TMDB rating 6.0/10.",
+   "img": "https://image.tmdb.org/t/p/w780/rQD4rMpygqw3z9ZJMSkz6h6tSJ4.jpg",
+   "industry": "world",
+   "k": "A Bowl of Chicken Noodles Before I Die, A Bowl of Chicken Noodles Before I Die movie, A Bowl of Chicken Noodles Before I Die cast, A Bowl of Chicken Noodles Before I Die story, A Bowl of Chicken Noodles Before I Die box office collection, A Bowl of Chicken Noodles Before I Die budget, A Bowl of Chicken Noodles Before I Die review, A Bowl of Chicken Noodles Before I Die rating, A Bowl of Chicken Noodles Before I Die release date, A Bowl of Chicken Noodles Before I Die trailer, A Bowl of Chicken Noodles Before I Die Drama, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Benidictus Siregar"
+     },
+     {
+      "@type": "Person",
+      "name": "Teuku Rifnu Wikana"
+     },
+     {
+      "@type": "Person",
+      "name": "Almanzo Konoralma"
+     },
+     {
+      "@type": "Person",
+      "name": "Dhika Kibo"
+     },
+     {
+      "@type": "Person",
+      "name": "Fajar Nugra"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 1,
+     "ratingValue": 6.0,
+     "worstRating": 0
+    },
+    "description": "A Bowl of Chicken Noodles Before I Die (2026): Drama film. Story: If today were your last day, what one small thing… See cast and TMDB rating 6.0/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Kuntz Agus"
+     }
+    ],
+    "duration": "PT125M",
+    "genre": [
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/rQD4rMpygqw3z9ZJMSkz6h6tSJ4.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1551036",
+    "name": "A Bowl of Chicken Noodles Before I Die",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-11-12"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1551036"
+   },
+   "modified": "",
+   "published": "2026-11-13",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>A Bowl of Chicken Noodles Before I Die (2026)</h1>\n<p class=\"ssr-lead\">If today were your last day, what one small thing would you really want to do? For Ale, the answer is simple: enjoy a bowl of his favorite chicken noodles before he truly gives up on life. But when his regular food cart is closed, that situation leads him into a series of unexpected encounters.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 12 November 2026</li><li>Runtime: 125 minutes</li><li>Director: Kuntz Agus</li><li>Genres: Drama</li><li>Certification: 17+</li><li>Original language: ID</li><li>Spoken languages: ID</li><li>Production countries: ID</li><li>Official trailer: Seporsi Mie Ayam Sebelum Mati - Official Trailer</li><li>TMDB rating: 6.0/10 (1 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Benidictus Siregar as Ale / Blek</li><li>Teuku Rifnu Wikana as Murad</li><li>Almanzo Konoralma as Doyok</li><li>Dhika Kibo as Bono</li><li>Fajar Nugra as Ipul</li><li>Zulfa Maharani as Juleha</li><li>Chicco Kurniawan as Pram</li><li>Jourdy Pranata as Gilang</li><li>Pangeran Lantang as Bima</li><li>José Rizal Manua as Jipren</li></ul>\n</article>",
+   "t": "A Bowl of Chicken Noodles Before I Die (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
+  },
   "movie:157336": {
    "d": "Interstellar (2014): Adventure/Drama film. Story: The adventures of a group of explorers who make use… See cast, budget $165M, and TMDB rating 8.5/10.",
    "img": "https://image.tmdb.org/t/p/w780/8sNiAPPYU14PUepFNeSNGUTiHW.jpg",
@@ -1324,6 +1451,389 @@
    "robots": "noindex,follow",
    "ssr": "<article class=\"ssr-facts\">\n<h1>The Widower: &#x27;Til Death Do Us Part (2026)</h1>\n<p class=\"ssr-lead\">A journalist and a detective uncover the truth about a killer whose charm masked a trail of failed marriages and suspicious deaths.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 30 September 2026</li><li>Runtime: 91 minutes</li><li>Director: Chris Smith</li><li>Genres: Documentary</li><li>Certification: R</li><li>Original language: English</li><li>Spoken languages: English</li><li>Production countries: United States</li><li>Official trailer: Official Trailer</li><li>TMDB rating: 6.8/10 (36 votes)</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Netflix</li></ul>\n</article>",
    "t": "The Widower: 'Til Death Do Us Part (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
+  },
+  "movie:1770836": {
+   "d": "Border Diaries (2026): Drama/Romance film. Story: Set in an industrial area on the Karnataka-Tamil Nadu… See cast and review 6.5/10.",
+   "img": "https://image.tmdb.org/t/p/w500/8yKOR3VBChqhEEhyhxfFjG0Fz6Y.jpg",
+   "industry": "world",
+   "k": "Border Diaries, Border Diaries movie, Border Diaries cast, Border Diaries story, Border Diaries box office collection, Border Diaries budget, Border Diaries review, Border Diaries rating, Border Diaries release date, Border Diaries Drama, Border Diaries Romance, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Ashwitha Hegde"
+     },
+     {
+      "@type": "Person",
+      "name": "Anjan Nagendra"
+     },
+     {
+      "@type": "Person",
+      "name": "Gopalkrishna Deshpande"
+     },
+     {
+      "@type": "Person",
+      "name": "Sharath Lohitashwa"
+     },
+     {
+      "@type": "Person",
+      "name": "Veena Sundar"
+     }
+    ],
+    "description": "Border Diaries (2026): Drama/Romance film. Story: Set in an industrial area on the Karnataka-Tamil Nadu… See cast and review 6.5/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "ASG"
+     }
+    ],
+    "genre": [
+     "Drama",
+     "Romance"
+    ],
+    "image": "https://image.tmdb.org/t/p/w500/8yKOR3VBChqhEEhyhxfFjG0Fz6Y.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1770836",
+    "name": "Border Diaries",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-10-23"
+    },
+    "review": {
+     "@type": "Review",
+     "author": {
+      "@type": "Organization",
+      "name": "FlickAtlas"
+     },
+     "reviewBody": "Border Diaries (2026) is an emotionally powerful and engaging drama that successfully captures the complexities of love and survival along the Karnataka-Tamil Nadu border. Backed by a dedicated cast, it offers a worthwhile experience for fans of grounded character-driven stories. Recommended for viewers looking for a heartfelt regional drama.",
+     "reviewRating": {
+      "@type": "Rating",
+      "bestRating": 10,
+      "ratingValue": 6.5
+     }
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1770836"
+   },
+   "modified": "",
+   "published": "2026-10-27",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Border Diaries (2026)</h1>\n<p class=\"ssr-lead\">Set in an industrial area on the Karnataka-Tamil Nadu border, the story explores the lives of people working there and focuses on emotional borders, love, morality, and survival.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 23 October 2026</li><li>Director: ASG</li><li>Genres: Drama, Romance, Crime</li><li>Original language: Kannada</li><li>Spoken languages: Kannada</li></ul>\n<h2>Top cast</h2>\n<ul><li>Ashwitha Hegde as Manjula</li><li>Anjan Nagendra as Dore</li><li>Gopalkrishna Deshpande</li><li>Sharath Lohitashwa</li><li>Veena Sundar</li><li>Tabla Nani</li><li>Punya Bhairavi</li><li>Tiyasha Biswas</li><li>Mahadev Hadapad</li><li>Megha Jadhav</li></ul>\n<h2>FlickAtlas review</h2>\n<p>Overall: 6.5/10.</p>\n<ul><li>Action &amp; Cinematography: 6/10</li><li>Comedy &amp; Entertainment: 6/10</li><li>Direction: 6.5/10</li><li>Music &amp; BGM: 6.5/10</li><li>Performances: 7/10</li><li>Story &amp; Screenplay: 6.5/10</li></ul>\n<h3>Story &amp; Plot</h3>\n<p>Set in an industrial area and town on the Karnataka-Tamil Nadu border, Border Diaries (2026) explores the lives of people working in the region. The narrative focuses on emotional borders, love, morality, and survival amidst the struggles of working-class life. Characters like Manjula and Dore find love against this backdrop before crime enters the picture.</p>\n<h3>Comedy &amp; Entertainment</h3>\n<p>The film leans into its drama and romance rather than overt humor, centering its entertainment value on the gripping premise of working-class life. The interactions between the characters drive the engagement without relying on traditional comedic relief. It maintains a serious tone as it navigates the emotional and moral complexities of its setting.</p>\n<h3>Performances &amp; Direction</h3>\n<p>The cast features Ashwitha Hegde, Anjan Nagendra, Gopalkrishna Deshpande, Sharath Lohitashwa, and Veena Sundar bringing the working-class characters to life. Reviewers praise the film as an emotionally powerful experience, highlighting the dedication of the ensemble. Their portrayals ground the romantic and moral dilemmas central to the plot.</p>\n<h3>Strengths</h3>\n<ul><li>emotionally powerful narrative</li><li>engaging working-class setting</li><li>strong cast performances</li><li>focus on moral and emotional borders</li></ul>\n<h3>Weaknesses</h3>\n<p>While the premise offers a compelling look at border life, the setup can occasionally feel familiar or tread familiar thematic ground. The pacing and structure may risk stretching the narrative thin across its industrial backdrop.</p>\n<h3>Final verdict</h3>\n<p>Border Diaries (2026) is an emotionally powerful and engaging drama that successfully captures the complexities of love and survival along the Karnataka-Tamil Nadu border. Backed by a dedicated cast, it offers a worthwhile experience for fans of grounded character-driven stories. Recommended for viewers looking for a heartfelt regional drama.</p>\n</article>",
+   "t": "Border Diaries (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
+  },
+  "movie:1775236": {
+   "d": "Pickpockets (2026): Comedy/Crime film. Story: The flirty rivalry between a lone-wolf pickpocket and… See cast and release date 31 October 2026.",
+   "img": "https://image.tmdb.org/t/p/w780/cRvR3lACZc6YuSas8qh2A4lTCR3.jpg",
+   "industry": "world",
+   "k": "Pickpockets, Pickpockets movie, Pickpockets cast, Pickpockets story, Pickpockets box office collection, Pickpockets budget, Pickpockets review, Pickpockets rating, Pickpockets release date, Pickpockets Comedy, Pickpockets Crime, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "D.C. Fairhurst"
+     },
+     {
+      "@type": "Person",
+      "name": "Lucy Green"
+     },
+     {
+      "@type": "Person",
+      "name": "Tim Minchin"
+     },
+     {
+      "@type": "Person",
+      "name": "Zoe Terakes"
+     },
+     {
+      "@type": "Person",
+      "name": "Darren Gilshenan"
+     }
+    ],
+    "description": "Pickpockets (2026): Comedy/Crime film. Story: The flirty rivalry between a lone-wolf pickpocket and… See cast and release date 31 October 2026.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "D.C. Fairhurst"
+     }
+    ],
+    "duration": "PT110M",
+    "genre": [
+     "Comedy",
+     "Crime"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/cRvR3lACZc6YuSas8qh2A4lTCR3.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1775236",
+    "name": "Pickpockets",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-10-31"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1775236"
+   },
+   "modified": "",
+   "published": "2026-11-02",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Pickpockets (2026)</h1>\n<p class=\"ssr-lead\">The flirty rivalry between a lone-wolf pickpocket and a charismatic rookie escalates into a spiteful turf war. Tempted by the score of a lifetime, the former enemies are forced to partner up. But when feelings get involved, their well-laid plans quickly fall apart.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 31 October 2026</li><li>Runtime: 110 minutes</li><li>Director: D.C. Fairhurst</li><li>Genres: Comedy, Crime, Romance</li><li>Tagline: This town ain&#x27;t big enough for the both of them.</li><li>Certification: M</li><li>Original language: English</li><li>Spoken languages: English</li><li>Production countries: Australia</li></ul>\n<h2>Top cast</h2>\n<ul><li>D.C. Fairhurst as Jesse</li><li>Lucy Green as Robin</li><li>Tim Minchin as Jasper LeClaire</li><li>Zoe Terakes as Biggs</li><li>Darren Gilshenan as Immigration Officer</li><li>Marcus Johnson as D.B.</li><li>Matt Levett as Twin #1</li><li>Ayomide Moon as Twin #2</li></ul>\n</article>",
+   "t": "Pickpockets (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
+  },
+  "movie:1806336": {
+   "d": "Veil of Silence (2026): Drama film. Story: A crumbling relationship where two people are too… See cast and release date 14 November 2026.",
+   "img": "https://image.tmdb.org/t/p/w500/qH1PAUNtjq20Yokkf97LS3yjd1e.jpg",
+   "industry": "world",
+   "k": "Veil of Silence, Veil of Silence movie, Veil of Silence cast, Veil of Silence story, Veil of Silence box office collection, Veil of Silence budget, Veil of Silence review, Veil of Silence rating, Veil of Silence release date, Veil of Silence Drama, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Florence Vos Weeda"
+     }
+    ],
+    "description": "Veil of Silence (2026): Drama film. Story: A crumbling relationship where two people are too… See cast and release date 14 November 2026.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Sebastiano Cavadino"
+     }
+    ],
+    "duration": "PT15M",
+    "genre": [
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w500/qH1PAUNtjq20Yokkf97LS3yjd1e.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1806336",
+    "name": "Veil of Silence",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-11-14"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1806336"
+   },
+   "modified": "",
+   "published": "2026-11-07",
+   "robots": "noindex,follow",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Veil of Silence (2026)</h1>\n<p class=\"ssr-lead\">A crumbling relationship where two people are too afraid to face their problems. Gemma silently drifts through her inner world, where her ego confronts her.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 14 November 2026</li><li>Runtime: 15 minutes</li><li>Director: Sebastiano Cavadino</li><li>Genres: Drama</li><li>Original language: NL</li><li>Spoken languages: NL</li><li>Production countries: NL</li></ul>\n<h2>Top cast</h2>\n<ul><li>Florence Vos Weeda as Gemma</li></ul>\n</article>",
+   "t": "Veil of Silence (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
+  },
+  "movie:1809836": {
+   "d": "AKIAK (2026): History film. Story: A young indigenous woman in 1860's Alaska crosses… See cast and release date 8 November 2026.",
+   "img": "https://image.tmdb.org/t/p/w780/cWGgZf0Ws7rvzqeUSPF0eFq5jvw.jpg",
+   "industry": "world",
+   "k": "AKIAK, AKIAK movie, AKIAK cast, AKIAK story, AKIAK box office collection, AKIAK budget, AKIAK review, AKIAK rating, AKIAK release date, AKIAK History, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "M'taya Bradford Gear"
+     },
+     {
+      "@type": "Person",
+      "name": "Samuel Stairs"
+     },
+     {
+      "@type": "Person",
+      "name": "Matthew Parsons"
+     },
+     {
+      "@type": "Person",
+      "name": "Luke Wheaton"
+     },
+     {
+      "@type": "Person",
+      "name": "Nigel Binnie"
+     }
+    ],
+    "description": "AKIAK (2026): History film. Story: A young indigenous woman in 1860's Alaska crosses… See cast and release date 8 November 2026.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Hunter Taplin"
+     }
+    ],
+    "duration": "PT8M",
+    "genre": [
+     "History"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/cWGgZf0Ws7rvzqeUSPF0eFq5jvw.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1809836",
+    "name": "AKIAK",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-11-08"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1809836"
+   },
+   "modified": "",
+   "published": "2026-11-01",
+   "robots": "noindex,follow",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>AKIAK (2026)</h1>\n<p class=\"ssr-lead\">A young indigenous woman in 1860&#x27;s Alaska crosses paths with an injured bandit, who is being hunted by someone from the woman&#x27;s past.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 8 November 2026</li><li>Runtime: 8 minutes</li><li>Director: Hunter Taplin</li><li>Genres: History</li><li>Original language: English</li><li>Spoken languages: English</li><li>Production countries: Canada</li></ul>\n<h2>Top cast</h2>\n<ul><li>M&#x27;taya Bradford Gear</li><li>Samuel Stairs</li><li>Matthew Parsons</li><li>Luke Wheaton</li><li>Nigel Binnie</li><li>Adam Hill</li></ul>\n</article>",
+   "t": "AKIAK (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
+  },
+  "movie:1809936": {
+   "d": "The Wedding Bangles (2026): Drama/Comedy film. Story: Argentina, 1967. On her fifteenth birthday, María… See cast and release date 9 November 2026.",
+   "img": "https://image.tmdb.org/t/p/w500/umjQNtjkQFDHy0iKzjWqDkb8R75.jpg",
+   "industry": "world",
+   "k": "The Wedding Bangles, The Wedding Bangles movie, The Wedding Bangles cast, The Wedding Bangles story, The Wedding Bangles box office collection, The Wedding Bangles budget, The Wedding Bangles review, The Wedding Bangles rating, The Wedding Bangles release date, The Wedding Bangles Drama, The Wedding Bangles Comedy, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Anna Fantoni Hayward"
+     },
+     {
+      "@type": "Person",
+      "name": "Paloma Sirvén"
+     },
+     {
+      "@type": "Person",
+      "name": "Romina Pinto"
+     },
+     {
+      "@type": "Person",
+      "name": "Juan Denari"
+     },
+     {
+      "@type": "Person",
+      "name": "Daniela Davidovich"
+     }
+    ],
+    "description": "The Wedding Bangles (2026): Drama/Comedy film. Story: Argentina, 1967. On her fifteenth birthday, María… See cast and release date 9 November 2026.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Andrés H. Denegri"
+     }
+    ],
+    "duration": "PT15M",
+    "genre": [
+     "Drama",
+     "Comedy"
+    ],
+    "image": "https://image.tmdb.org/t/p/w500/umjQNtjkQFDHy0iKzjWqDkb8R75.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1809936",
+    "name": "The Wedding Bangles",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-11-09"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1809936"
+   },
+   "modified": "",
+   "published": "2026-11-02",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>The Wedding Bangles (2026)</h1>\n<p class=\"ssr-lead\">Argentina, 1967. On her fifteenth birthday, María mourns the end of her childhood while glimpsing an unfulfilling future as a middle-class woman. Tension escalates when her older cousin Bárbara pushes her to the breaking point.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 9 November 2026</li><li>Runtime: 15 minutes</li><li>Director: Andrés H. Denegri</li><li>Genres: Drama, Comedy</li><li>Original language: Spanish</li><li>Spoken languages: Spanish</li><li>Production countries: AR</li></ul>\n<h2>Top cast</h2>\n<ul><li>Anna Fantoni Hayward as María</li><li>Paloma Sirvén as Bárbara</li><li>Romina Pinto as Alba</li><li>Juan Denari as Roque</li><li>Daniela Davidovich as Tía Mirna</li><li>Javier Rosón as Tío Eugenio</li><li>Marcela Zugnoni as Tía Isabel</li><li>Lautaro Moran as Juan Manuel Estévez</li><li>Lucero Abbate as Nancy</li><li>Melina Kufudakis as Lola</li></ul>\n</article>",
+   "t": "The Wedding Bangles (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
+  },
+  "movie:1815736": {
+   "d": "Antoñito Molina - Un sueño: del chiringuito al estadio (2026): Documentary/Music film. See cast and release date 6 November 2026.",
+   "img": "https://image.tmdb.org/t/p/w780/8kOfk6EkwVjl0VFEsgC6DpaMkf3.jpg",
+   "industry": "world",
+   "k": "Antoñito Molina - Un sueño: del chiringuito al estadio, Antoñito Molina - Un sueño: del chiringuito al estadio movie, Antoñito Molina - Un sueño: del chiringuito al estadio cast, Antoñito Molina - Un sueño: del chiringuito al estadio story, Antoñito Molina - Un sueño: del chiringuito al estadio box office collection, Antoñito Molina - Un sueño: del chiringuito al estadio budget, Antoñito Molina - Un sueño: del chiringuito al estadio review, Antoñito Molina - Un sueño: del chiringuito al estadio rating, Antoñito Molina - Un sueño: del chiringuito al estadio release date, Antoñito Molina - Un sueño: del chiringuito al estadio Documentary, Antoñito Molina - Un sueño: del chiringuito al estadio Music, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Antoñito Molina"
+     }
+    ],
+    "description": "Antoñito Molina - Un sueño: del chiringuito al estadio (2026): Documentary/Music film. See cast and release date 6 November 2026.",
+    "genre": [
+     "Documentary",
+     "Music"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/8kOfk6EkwVjl0VFEsgC6DpaMkf3.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1815736",
+    "name": "Antoñito Molina - Un sueño: del chiringuito al estadio",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-11-06"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1815736"
+   },
+   "modified": "",
+   "published": "2026-11-08",
+   "robots": "noindex,follow",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Antoñito Molina - Un sueño: del chiringuito al estadio (2026)</h1>\n<h2>Key facts</h2>\n<ul><li>Release date: 6 November 2026</li><li>Genres: Documentary, Music</li><li>Certification: A</li><li>Original language: Spanish</li><li>Spoken languages: Spanish</li><li>Production countries: Spain</li></ul>\n<h2>Top cast</h2>\n<ul><li>Antoñito Molina</li></ul>\n</article>",
+   "t": "Antoñito Molina - Un sueño: del chiringuito al estadio (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
+  },
+  "movie:1817236": {
+   "d": "Motu Patlu & the Mystery of Nagmani (2026): Comedy/TV Movie film. Story: Motu and Patlu chase John into a time portal after he… See cast.",
+   "img": "https://image.tmdb.org/t/p/w780/mdI9891jh9o7fhvKiyBRHdMCnj3.jpg",
+   "industry": "bollywood",
+   "k": "Motu Patlu & the Mystery of Nagmani, Motu Patlu & the Mystery of Nagmani movie, Motu Patlu & the Mystery of Nagmani cast, Motu Patlu & the Mystery of Nagmani story, Motu Patlu & the Mystery of Nagmani box office collection, Motu Patlu & the Mystery of Nagmani budget, Motu Patlu & the Mystery of Nagmani review, Motu Patlu & the Mystery of Nagmani rating, Motu Patlu & the Mystery of Nagmani release date, Motu Patlu & the Mystery of Nagmani Comedy, Motu Patlu & the Mystery of Nagmani TV Movie, Indian movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "description": "Motu Patlu & the Mystery of Nagmani (2026): Comedy/TV Movie film. Story: Motu and Patlu chase John into a time portal after he… See cast.",
+    "duration": "PT66M",
+    "genre": [
+     "Comedy",
+     "TV Movie"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/mdI9891jh9o7fhvKiyBRHdMCnj3.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1817236",
+    "name": "Motu Patlu & the Mystery of Nagmani",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-11-08"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1817236"
+   },
+   "modified": "",
+   "published": "2026-11-08",
+   "robots": "noindex,follow",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Motu Patlu &amp; the Mystery of Nagmani (2026)</h1>\n<p class=\"ssr-lead\">Motu and Patlu chase John into a time portal after he steals a precious diamond locket, sending them 900 years into the past into the ancient city of Andherius.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 8 November 2026</li><li>Runtime: 66 minutes</li><li>Genres: Comedy, TV Movie, Animation</li><li>Original language: Hindi</li><li>Spoken languages: Hindi</li></ul>\n</article>",
+   "t": "Motu Patlu & the Mystery of Nagmani (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
+  },
+  "movie:1824536": {
+   "d": "Nataša (2026) is a film. Story: In the early morning, far away from home, a filmmaker… See cast and release date 21 November 2026.",
+   "img": "https://image.tmdb.org/t/p/w500/3MhVyMhyMaf16fJ5CF4iYwmumAv.jpg",
+   "industry": "world",
+   "k": "Nataša, Nataša movie, Nataša cast, Nataša story, Nataša box office collection, Nataša budget, Nataša review, Nataša rating, Nataša release date, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Marko Grba Singh"
+     }
+    ],
+    "description": "Nataša (2026) is a film. Story: In the early morning, far away from home, a filmmaker… See cast and release date 21 November 2026.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Marko Grba Singh"
+     }
+    ],
+    "duration": "PT9M",
+    "image": "https://image.tmdb.org/t/p/w500/3MhVyMhyMaf16fJ5CF4iYwmumAv.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1824536",
+    "name": "Nataša",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-11-21"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1824536"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Nataša (2026)</h1>\n<p class=\"ssr-lead\">In the early morning, far away from home, a filmmaker talks about his mother, Nataša, from a window overlooking the city. As we watch the buildings and the neighborhood slowly waking up, a portrait of a woman emerges beyond what we see, and the story eventually leads him to something he has never said out loud before.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 21 November 2026</li><li>Runtime: 9 minutes</li><li>Director: Marko Grba Singh</li><li>Original language: English</li><li>Production countries: RS, Germany</li></ul>\n<h2>Top cast</h2>\n<ul><li>Marko Grba Singh as Filmmaker</li></ul>\n</article>",
+   "t": "Nataša (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2026"
   },
   "movie:1936": {

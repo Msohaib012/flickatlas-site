@@ -1,6 +1,6 @@
 {
  "bucket": "85",
- "count": 75,
+ "count": 90,
  "titles": {
   "movie:10885": {
    "d": "Shutter (2008): Horror/Mystery film. Story: A newly married couple discovers disturbing, ghostly… See cast, budget $8M, and TMDB rating 5.5/10.",
@@ -712,6 +712,127 @@
    "t": "Open Season 2 (2025) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2025"
   },
+  "movie:1447885": {
+   "d": "Heysel 85 (2026): Drama/History film. Story: When 39 people are killed prior to the European Cup… See cast and release date 18 November 2026.",
+   "img": "https://image.tmdb.org/t/p/w780/wsO9xUOoikdLOzLXkxeAFjvGe22.jpg",
+   "industry": "world",
+   "k": "Heysel 85, Heysel 85 movie, Heysel 85 cast, Heysel 85 story, Heysel 85 box office collection, Heysel 85 budget, Heysel 85 review, Heysel 85 rating, Heysel 85 release date, Heysel 85 trailer, Heysel 85 Drama, Heysel 85 History, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Matteo Simoni"
+     },
+     {
+      "@type": "Person",
+      "name": "Violet Braeckman"
+     },
+     {
+      "@type": "Person",
+      "name": "Josse De Pauw"
+     },
+     {
+      "@type": "Person",
+      "name": "Ben Segers"
+     },
+     {
+      "@type": "Person",
+      "name": "Fabrizio Rongione"
+     }
+    ],
+    "description": "Heysel 85 (2026): Drama/History film. Story: When 39 people are killed prior to the European Cup… See cast and release date 18 November 2026.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Teodora Ana Mihai"
+     }
+    ],
+    "duration": "PT92M",
+    "genre": [
+     "Drama",
+     "History"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/wsO9xUOoikdLOzLXkxeAFjvGe22.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1447885",
+    "name": "Heysel 85",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-11-18"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1447885"
+   },
+   "modified": "",
+   "published": "2026-11-19",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Heysel 85 (2026)</h1>\n<p class=\"ssr-lead\">When 39 people are killed prior to the European Cup at the Brussels Heysel stadium in 1985, the mayor&#x27;s daughter and an Italian journalist are torn between their professional assignments, family, and human nature.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 18 November 2026</li><li>Runtime: 92 minutes</li><li>Director: Teodora Ana Mihai</li><li>Genres: Drama, History</li><li>Tagline: They were in charge. Until they weren&#x27;t.</li><li>Certification: 17+</li><li>Original language: NL</li><li>Spoken languages: NL, English, IT, French</li><li>Production countries: BE, RO, NL, Germany</li><li>Official trailer: Trailer [Subtitled]</li></ul>\n<h2>Top cast</h2>\n<ul><li>Matteo Simoni as Luca Rossi</li><li>Violet Braeckman as Marie Dumont</li><li>Josse De Pauw as Marc Dumont</li><li>Ben Segers as Filip Mertens</li><li>Fabrizio Rongione as Albert Simons</li><li>Bobby Schofield as Alan Kennedy</li><li>Jeroen Van der Ven as Thomas Verbruggen</li><li>Dominique Dauwe as Michael Schmuck</li><li>Jonathan Sawdon as Jeremy Bennett</li><li>Emanuela Ponzano as Monica Fresia</li></ul>\n</article>",
+   "t": "Heysel 85 (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
+  },
+  "movie:1496785": {
+   "d": "Aadarsha Kutumbam House No: 47 - AK47 (2026): Family/Comedy film. Story: A seemingly flawless family at House No. 47 unravels… See cast.",
+   "img": "https://image.tmdb.org/t/p/w780/rzeJe8pONgRyalcTDM3gqXssqeM.jpg",
+   "industry": "bollywood",
+   "k": "Aadarsha Kutumbam House No: 47 - AK47, Aadarsha Kutumbam House No: 47 - AK47 movie, Aadarsha Kutumbam House No: 47 - AK47 cast, Aadarsha Kutumbam House No: 47 - AK47 story, Aadarsha Kutumbam House No: 47 - AK47 box office collection, Aadarsha Kutumbam House No: 47 - AK47 budget, Aadarsha Kutumbam House No: 47 - AK47 review, Aadarsha Kutumbam House No: 47 - AK47 rating, Aadarsha Kutumbam House No: 47 - AK47 release date, Aadarsha Kutumbam House No: 47 - AK47 Family, Aadarsha Kutumbam House No: 47 - AK47 Comedy, Indian movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Venkatesh"
+     },
+     {
+      "@type": "Person",
+      "name": "Srinidhi Shetty"
+     },
+     {
+      "@type": "Person",
+      "name": "Nara Rohith"
+     },
+     {
+      "@type": "Person",
+      "name": "Nivetha Pethuraj"
+     },
+     {
+      "@type": "Person",
+      "name": "Yuvina Parthavi"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 1,
+     "ratingValue": 10.0,
+     "worstRating": 0
+    },
+    "description": "Aadarsha Kutumbam House No: 47 - AK47 (2026): Family/Comedy film. Story: A seemingly flawless family at House No. 47 unravels… See cast.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Trivikram Srinivas"
+     }
+    ],
+    "duration": "PT149M",
+    "genre": [
+     "Family",
+     "Comedy"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/rzeJe8pONgRyalcTDM3gqXssqeM.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1496785",
+    "name": "Aadarsha Kutumbam House No: 47 - AK47",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-10-30"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1496785"
+   },
+   "modified": "",
+   "published": "2026-10-26",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Aadarsha Kutumbam House No: 47 - AK47 (2026)</h1>\n<p class=\"ssr-lead\">A seemingly flawless family at House No. 47 unravels after an incident reveals hidden tensions.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 30 October 2026</li><li>Runtime: 149 minutes</li><li>Director: Trivikram Srinivas</li><li>Genres: Family, Comedy, Action</li><li>Certification: UA</li><li>Original language: Telugu</li><li>Spoken languages: Telugu</li><li>Production countries: India</li><li>TMDB rating: 10.0/10 (1 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Venkatesh as Chittibabu</li><li>Srinidhi Shetty as Swarna</li><li>Nara Rohith</li><li>Nivetha Pethuraj</li><li>Yuvina Parthavi as Sampoorna</li><li>Raja Prajwal as Sarwa</li><li>Rao Ramesh</li><li>Satya</li><li>Brahmaji</li><li>Udaybir Sandhu</li></ul>\n<h2>Box office</h2>\n<ul><li>India Net total: $8.78M</li><li>Latest: Day 6 (2026-11-04) — India Net $221.9k</li></ul>\n<h2>Day-wise collection (India Net, USD)</h2>\n<table><tr><th>Day</th><th>Date</th><th>India Net</th><th>Overseas</th></tr><tr><td>Day 3</td><td>2026-10-30</td><td>$7.92M</td><td>—</td></tr><tr><td>Day 4</td><td>2026-11-02</td><td>$359.2k</td><td>—</td></tr><tr><td>Day 5</td><td>2026-11-03</td><td>$274.7k</td><td>—</td></tr><tr><td>Day 6</td><td>2026-11-04</td><td>$221.9k</td><td>—</td></tr></table>\n</article>",
+   "t": "Aadarsha Kutumbam House No: 47 - AK47 (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
+  },
   "movie:1571485": {
    "d": "Bowie: The Final Act (2025): Documentary/Music film. Story: The final creative chapter of one of music’s most… See cast and TMDB rating 7.9/10.",
    "img": "https://image.tmdb.org/t/p/w780/oKSQXMdWm6jle1UpxzWFqCHYNOC.jpg",
@@ -966,6 +1087,555 @@
    "published": "2026-11-14",
    "ssr": "<article class=\"ssr-facts\">\n<h1>Strangers in the Park (2026)</h1>\n<p class=\"ssr-lead\">A former communist militant and a &quot;live and let live&quot; man form an unlikely friendship on a park bench, sharing their life stories with humor and heart.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 19 February 2026</li><li>Runtime: 115 minutes</li><li>Director: Juan José Campanella</li><li>Genres: Comedy, Drama</li><li>Tagline: Sometimes it’s good to talk to strangers.</li><li>Certification: U/A 16+</li><li>Original language: Spanish</li><li>Spoken languages: Spanish</li><li>Production countries: AR</li><li>TMDB rating: 6.6/10 (37 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Eduardo Blanco as Antonio Cardozo</li><li>Luis Brandoni as León Schwartz</li><li>Verónica Pelaccini as Clarita Schwartz</li><li>Agustín Aristarán as Gonzalo Menéndez Roberts</li><li>Manuela Menéndez as Laura</li><li>Matías Alarcón as Dealer</li><li>Alan Fernández as Rodrigo</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Netflix</li></ul>\n</article>",
    "t": "Strangers in the Park (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
+  },
+  "movie:1709585": {
+   "d": "Djinn Wedding (2026): Drama film. Story: When four estranged siblings reunite in their remote… See cast and release date 6 November 2026.",
+   "img": "https://image.tmdb.org/t/p/w780/fH9OLaT7XklOHNnWDVN3dRirbtX.jpg",
+   "industry": "world",
+   "k": "Djinn Wedding, Djinn Wedding movie, Djinn Wedding cast, Djinn Wedding story, Djinn Wedding box office collection, Djinn Wedding budget, Djinn Wedding review, Djinn Wedding rating, Djinn Wedding release date, Djinn Wedding trailer, Djinn Wedding Drama, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Demet Özdemir"
+     },
+     {
+      "@type": "Person",
+      "name": "Kaan Yıldırım"
+     },
+     {
+      "@type": "Person",
+      "name": "İlhan Şen"
+     },
+     {
+      "@type": "Person",
+      "name": "Sarp Bozkurt"
+     },
+     {
+      "@type": "Person",
+      "name": "Helin Kandemir"
+     }
+    ],
+    "description": "Djinn Wedding (2026): Drama film. Story: When four estranged siblings reunite in their remote… See cast and release date 6 November 2026.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Ferit Karahan"
+     }
+    ],
+    "duration": "PT132M",
+    "genre": [
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/fH9OLaT7XklOHNnWDVN3dRirbtX.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1709585",
+    "name": "Djinn Wedding",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-11-06"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1709585"
+   },
+   "modified": "",
+   "published": "2026-11-06",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Djinn Wedding (2026)</h1>\n<p class=\"ssr-lead\">When four estranged siblings reunite in their remote Anatolian village for their sister’s wedding, long-buried memories begin to resurface. As the celebrations unfold, two of them are drawn back into the unbreakable bond they once shared. Family secrets slowly come to light, leading them on a journey through grief and the invisible ties between generations.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 6 November 2026</li><li>Runtime: 132 minutes</li><li>Director: Ferit Karahan</li><li>Genres: Drama</li><li>Certification: 16+</li><li>Original language: TR</li><li>Spoken languages: TR</li><li>Production countries: Turkey</li><li>Official trailer: Official Trailer</li></ul>\n<h2>Top cast</h2>\n<ul><li>Demet Özdemir as Ceren</li><li>Kaan Yıldırım as Halit</li><li>İlhan Şen as Deniz</li><li>Sarp Bozkurt as Yasin</li><li>Helin Kandemir as Deniz</li><li>Evliya Aykan as Orhan</li><li>Tuba Ünsal as Ayşe Hala</li><li>Baki Davrak as Ahmet</li><li>Erol Babaoğlu</li><li>Kubilay Çamlıdağ</li></ul>\n</article>",
+   "t": "Djinn Wedding (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
+  },
+  "movie:1747585": {
+   "d": "La Gran Sangre: ojo x ojo (2026): Action/Comedy film. Story: Two decades later, Tony Blades, Mandril, and El… See cast and TMDB rating 6.0/10.",
+   "img": "https://image.tmdb.org/t/p/w780/lEEkKMw7jSHRtVtFnAz5yU2Qb6k.jpg",
+   "industry": "world",
+   "k": "La Gran Sangre: ojo x ojo, La Gran Sangre: ojo x ojo movie, La Gran Sangre: ojo x ojo cast, La Gran Sangre: ojo x ojo story, La Gran Sangre: ojo x ojo box office collection, La Gran Sangre: ojo x ojo budget, La Gran Sangre: ojo x ojo review, La Gran Sangre: ojo x ojo rating, La Gran Sangre: ojo x ojo release date, La Gran Sangre: ojo x ojo Action, La Gran Sangre: ojo x ojo Comedy, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Carlos Alcántara"
+     },
+     {
+      "@type": "Person",
+      "name": "Aldo Miyashiro"
+     },
+     {
+      "@type": "Person",
+      "name": "Pietro Sibille"
+     },
+     {
+      "@type": "Person",
+      "name": "Lucho Cáceres"
+     },
+     {
+      "@type": "Person",
+      "name": "Salvador del Solar"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 1,
+     "ratingValue": 6.0,
+     "worstRating": 0
+    },
+    "description": "La Gran Sangre: ojo x ojo (2026): Action/Comedy film. Story: Two decades later, Tony Blades, Mandril, and El… See cast and TMDB rating 6.0/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Jorge Carmona"
+     }
+    ],
+    "duration": "PT100M",
+    "genre": [
+     "Action",
+     "Comedy"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/lEEkKMw7jSHRtVtFnAz5yU2Qb6k.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1747585",
+    "name": "La Gran Sangre: ojo x ojo",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-11-12"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1747585"
+   },
+   "modified": "",
+   "published": "2026-11-13",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>La Gran Sangre: ojo x ojo (2026)</h1>\n<p class=\"ssr-lead\">Two decades later, Tony Blades, Mandril, and El Dragón are released from prison to confront a mafia controlling the Rímac district. In a Lima plagued by extortion and contract killings, the iconic vigilante group returns without a shred of mercy, ready to fight crime by their own rules.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 12 November 2026</li><li>Runtime: 100 minutes</li><li>Director: Jorge Carmona</li><li>Genres: Action, Comedy</li><li>Tagline: The city is in chaos… and justice is now being exacted.</li><li>Original language: Spanish</li><li>Spoken languages: Spanish</li><li>Production countries: PE</li><li>TMDB rating: 6.0/10 (1 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Carlos Alcántara as El Dragón</li><li>Aldo Miyashiro as Tony Blades</li><li>Pietro Sibille as Mandril</li><li>Lucho Cáceres as Cobra</li><li>Salvador del Solar</li><li>Milett Figueroa as Maria</li><li>Joel Ezeta as Johan</li><li>Pablo Saldarriaga as Burrito</li><li>Gabriela Velásquez as La Doña</li><li>Rodrigo Palacios</li></ul>\n</article>",
+   "t": "La Gran Sangre: ojo x ojo (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
+  },
+  "movie:1781485": {
+   "d": "Little Genes (2026) is a film. Story: In 1987, on a weekend camping trip in Utah's… See cast and release date 7 November 2026.",
+   "img": "https://image.tmdb.org/t/p/w500/jVjIChxZjx15MXJ0mS171WS1qL3.jpg",
+   "industry": "world",
+   "k": "Little Genes, Little Genes movie, Little Genes cast, Little Genes story, Little Genes box office collection, Little Genes budget, Little Genes review, Little Genes rating, Little Genes release date, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Amy Redford"
+     },
+     {
+      "@type": "Person",
+      "name": "Tyler Glenn"
+     },
+     {
+      "@type": "Person",
+      "name": "Zack Burger"
+     },
+     {
+      "@type": "Person",
+      "name": "Milo Jones"
+     },
+     {
+      "@type": "Person",
+      "name": "Lou Miette"
+     }
+    ],
+    "description": "Little Genes (2026) is a film. Story: In 1987, on a weekend camping trip in Utah's… See cast and release date 7 November 2026.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Skye Emerson"
+     },
+     {
+      "@type": "Person",
+      "name": "Amy Redford"
+     }
+    ],
+    "duration": "PT16M",
+    "image": "https://image.tmdb.org/t/p/w500/jVjIChxZjx15MXJ0mS171WS1qL3.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1781485",
+    "name": "Little Genes",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-11-07"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1781485"
+   },
+   "modified": "",
+   "published": "2026-11-07",
+   "robots": "noindex,follow",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Little Genes (2026)</h1>\n<p class=\"ssr-lead\">In 1987, on a weekend camping trip in Utah&#x27;s beautiful Wasatch Mountains, fourteen-year-old Arlo Murphy is eager to prove he can be a world explorer scout like his Dad, while his parents grapple with Arlo&#x27;s gender identity.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 7 November 2026</li><li>Runtime: 16 minutes</li><li>Director: Skye Emerson, Amy Redford</li><li>Original language: English</li></ul>\n<h2>Top cast</h2>\n<ul><li>Amy Redford</li><li>Tyler Glenn</li><li>Zack Burger</li><li>Milo Jones</li><li>Lou Miette</li></ul>\n</article>",
+   "t": "Little Genes (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
+  },
+  "movie:1803585": {
+   "d": "The Agonist (2026): Documentary film. Story: Sebastián was born with spasticity. Living with that… See cast and release date 7 November 2026.",
+   "img": "https://image.tmdb.org/t/p/w500/5gWssAUxt8BbZ1L9ihcAuW42pj.jpg",
+   "industry": "world",
+   "k": "The Agonist, The Agonist movie, The Agonist cast, The Agonist story, The Agonist box office collection, The Agonist budget, The Agonist review, The Agonist rating, The Agonist release date, The Agonist Documentary, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Sebastián Manusovich"
+     },
+     {
+      "@type": "Person",
+      "name": "Filippo Carrozza"
+     },
+     {
+      "@type": "Person",
+      "name": "Gisela Moya"
+     },
+     {
+      "@type": "Person",
+      "name": "Otto Manusovich"
+     },
+     {
+      "@type": "Person",
+      "name": "Vera Manusovich"
+     }
+    ],
+    "description": "The Agonist (2026): Documentary film. Story: Sebastián was born with spasticity. Living with that… See cast and release date 7 November 2026.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Sebastián Manusovich"
+     },
+     {
+      "@type": "Person",
+      "name": "Pablo Pintor"
+     }
+    ],
+    "genre": [
+     "Documentary"
+    ],
+    "image": "https://image.tmdb.org/t/p/w500/5gWssAUxt8BbZ1L9ihcAuW42pj.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1803585",
+    "name": "The Agonist",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-11-07"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1803585"
+   },
+   "modified": "",
+   "published": "2026-10-31",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>The Agonist (2026)</h1>\n<p class=\"ssr-lead\">Sebastián was born with spasticity. Living with that discomfort, he films his life: his loves, friends, children and family. But as the years go by, the pain in his body becomes too much to bear, and the idea of risky brain surgery that could change him forever takes hold. Is that what he really wants? Is he ready to become someone else?</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 7 November 2026</li><li>Director: Sebastián Manusovich, Pablo Pintor</li><li>Genres: Documentary</li><li>Original language: Spanish</li><li>Spoken languages: Spanish</li><li>Production countries: AR</li></ul>\n<h2>Top cast</h2>\n<ul><li>Sebastián Manusovich</li><li>Filippo Carrozza</li><li>Gisela Moya</li><li>Otto Manusovich</li><li>Vera Manusovich</li></ul>\n</article>",
+   "t": "The Agonist (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
+  },
+  "movie:1806585": {
+   "d": "Faceless People - The Journey of Sri Lankan Tamil Refugees in India (2026): Documentary film.",
+   "img": "https://image.tmdb.org/t/p/w500/ni9a3eJkVYFSKvjp4xbIcdxgBTG.jpg",
+   "industry": "bollywood",
+   "k": "Faceless People - The Journey of Sri Lankan Tamil Refugees in India, Faceless People - The Journey of Sri Lankan Tamil Refugees in India movie, Faceless People - The Journey of Sri Lankan Tamil Refugees in India cast, Faceless People - The Journey of Sri Lankan Tamil Refugees in India story, Faceless People - The Journey of Sri Lankan Tamil Refugees in India box office collection, Faceless People - The Journey of Sri Lankan Tamil Refugees in India budget, Faceless People - The Journey of Sri Lankan Tamil Refugees in India review, Faceless People - The Journey of Sri Lankan Tamil Refugees in India rating, Faceless People - The Journey of Sri Lankan Tamil Refugees in India release date, Faceless People - The Journey of Sri Lankan Tamil Refugees in India Documentary, Indian movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "description": "Faceless People - The Journey of Sri Lankan Tamil Refugees in India (2026): Documentary film.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "R.K. Radhakrishnan"
+     }
+    ],
+    "duration": "PT23M",
+    "genre": [
+     "Documentary"
+    ],
+    "image": "https://image.tmdb.org/t/p/w500/ni9a3eJkVYFSKvjp4xbIcdxgBTG.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1806585",
+    "name": "Faceless People - The Journey of Sri Lankan Tamil Refugees in India",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-11-14"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1806585"
+   },
+   "modified": "",
+   "published": "2026-11-07",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Faceless People - The Journey of Sri Lankan Tamil Refugees in India (2026)</h1>\n<p class=\"ssr-lead\">Six Sri Lankan Tamil refugees living in India, from different age groups, speak about their life in camps, and their hopes and aspirations. For over three decades, Sri Lankan Tamil refugees have lived in Tamil Nadu in a protracted situation—without certainty about their future and without viable policy solutions. Three generations have grown up with aspirations they cannot fulfil, surviving through sheer resilience while quietly contributing to the economy of their host communities.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 14 November 2026</li><li>Runtime: 23 minutes</li><li>Director: R.K. Radhakrishnan</li><li>Genres: Documentary</li><li>Original language: Tamil</li><li>Spoken languages: Tamil</li><li>Production countries: India</li></ul>\n</article>",
+   "t": "Faceless People - The Journey of Sri Lankan Tamil Refugees in India (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
+  },
+  "movie:1810785": {
+   "d": "Quand Janet dort (2026): Documentary film. Story: Quand Janet dort portrays Janet Lumb, a… See cast and release date 25 November 2026.",
+   "img": "https://image.tmdb.org/t/p/w780/o0gpywPN5W9ReNBg1KEQf5YyDnj.jpg",
+   "industry": "world",
+   "k": "Quand Janet dort, Quand Janet dort movie, Quand Janet dort cast, Quand Janet dort story, Quand Janet dort box office collection, Quand Janet dort budget, Quand Janet dort review, Quand Janet dort rating, Quand Janet dort release date, Quand Janet dort Documentary, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Dédé Chen"
+     },
+     {
+      "@type": "Person",
+      "name": "Janet Lumb"
+     }
+    ],
+    "description": "Quand Janet dort (2026): Documentary film. Story: Quand Janet dort portrays Janet Lumb, a… See cast and release date 25 November 2026.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Laurence Ly"
+     }
+    ],
+    "duration": "PT30M",
+    "genre": [
+     "Documentary"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/o0gpywPN5W9ReNBg1KEQf5YyDnj.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1810785",
+    "name": "Quand Janet dort",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-11-25"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1810785"
+   },
+   "modified": "",
+   "published": "2026-11-18",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Quand Janet dort (2026)</h1>\n<p class=\"ssr-lead\">Quand Janet dort portrays Janet Lumb, a Chinese-Canadian artist who has lived in Montreal for many years. Fuelled by dreams and chaos, her artistic world takes shape through performance and musical composition. At 72, Janet is losing her memory. Her artistic and political legacy, along with the details of her life, are fading, though they remain deeply precious to her friend Laurence. To shake up her daily routine, create new memories and revive old ones, he spontaneously plans a trip to Ecuador. Through a polyphonic narrative moving between spoken and written voices, a memory that spans generations gradually emerges. Together, these voices invite reflection on belonging and what is passed down. Janet’s embodied presence, the archival materials documenting her impact and the tenderness with which she is portrayed celebrate the quiet strength of her work and activism.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 25 November 2026</li><li>Runtime: 30 minutes</li><li>Director: Laurence Ly</li><li>Genres: Documentary</li><li>Original language: French</li><li>Production countries: Canada</li><li>Status: In Production</li></ul>\n<h2>Top cast</h2>\n<ul><li>Dédé Chen as Narration</li><li>Janet Lumb as Janet Lumb</li></ul>\n</article>",
+   "t": "Quand Janet dort (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
+  },
+  "movie:1811085": {
+   "d": "Shapes and Sizes (2026): Drama/Comedy film. Story: On the same day she performed as the before picture… See cast and release date 10 November 2026.",
+   "img": "https://image.tmdb.org/t/p/w500/fenCcyQKhujDteyLwdPa6gsUOKK.jpg",
+   "industry": "world",
+   "k": "Shapes and Sizes, Shapes and Sizes movie, Shapes and Sizes cast, Shapes and Sizes story, Shapes and Sizes box office collection, Shapes and Sizes budget, Shapes and Sizes review, Shapes and Sizes rating, Shapes and Sizes release date, Shapes and Sizes Drama, Shapes and Sizes Comedy, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Ada Bıkım"
+     },
+     {
+      "@type": "Person",
+      "name": "Bülent Gültekin"
+     },
+     {
+      "@type": "Person",
+      "name": "İdil Arkut"
+     },
+     {
+      "@type": "Person",
+      "name": "Ece Bozkaya"
+     },
+     {
+      "@type": "Person",
+      "name": "İris Mozalar"
+     }
+    ],
+    "description": "Shapes and Sizes (2026): Drama/Comedy film. Story: On the same day she performed as the before picture… See cast and release date 10 November 2026.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Yağmur Mısırlıoğlu"
+     }
+    ],
+    "genre": [
+     "Drama",
+     "Comedy"
+    ],
+    "image": "https://image.tmdb.org/t/p/w500/fenCcyQKhujDteyLwdPa6gsUOKK.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1811085",
+    "name": "Shapes and Sizes",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-11-10"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1811085"
+   },
+   "modified": "",
+   "published": "2026-11-03",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Shapes and Sizes (2026)</h1>\n<p class=\"ssr-lead\">On the same day she performed as the before picture for a weight-loss app, a young woman auditions for a high-profile body positivity campaign. As the casting process grows increasingly questionable, the language of empowerment begins to feel quite similar to the shaming it claims to oppose.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 10 November 2026</li><li>Director: Yağmur Mısırlıoğlu</li><li>Genres: Drama, Comedy</li><li>Original language: TR</li></ul>\n<h2>Top cast</h2>\n<ul><li>Ada Bıkım</li><li>Bülent Gültekin</li><li>İdil Arkut</li><li>Ece Bozkaya</li><li>İris Mozalar</li><li>Gürsev Burku Sığan</li><li>Nurcan Şirin</li><li>Dilara Demirdüzen</li><li>Selen Örcan</li><li>Kuzey Alagöz</li></ul>\n</article>",
+   "t": "Shapes and Sizes (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
+  },
+  "movie:1814885": {
+   "d": "Secret Rivers of the Nakanai (2026): Documentary film. Story: In the village of Ruraï, in Papua New Guinea, people… See cast and release date 20 November 2026.",
+   "img": "https://image.tmdb.org/t/p/w500/y7tNQ8zokogrk79CPXiUyKEK4tM.jpg",
+   "industry": "world",
+   "k": "Secret Rivers of the Nakanai, Secret Rivers of the Nakanai movie, Secret Rivers of the Nakanai cast, Secret Rivers of the Nakanai story, Secret Rivers of the Nakanai box office collection, Secret Rivers of the Nakanai budget, Secret Rivers of the Nakanai review, Secret Rivers of the Nakanai rating, Secret Rivers of the Nakanai release date, Secret Rivers of the Nakanai Documentary, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Cédric Lachat"
+     },
+     {
+      "@type": "Person",
+      "name": "David Parrot"
+     },
+     {
+      "@type": "Person",
+      "name": "Léa Varnerot"
+     }
+    ],
+    "description": "Secret Rivers of the Nakanai (2026): Documentary film. Story: In the village of Ruraï, in Papua New Guinea, people… See cast and release date 20 November 2026.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Alexandre Lopez"
+     }
+    ],
+    "duration": "PT54M",
+    "genre": [
+     "Documentary"
+    ],
+    "image": "https://image.tmdb.org/t/p/w500/y7tNQ8zokogrk79CPXiUyKEK4tM.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1814885",
+    "name": "Secret Rivers of the Nakanai",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-11-20"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1814885"
+   },
+   "modified": "",
+   "published": "2026-11-13",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Secret Rivers of the Nakanai (2026)</h1>\n<p class=\"ssr-lead\">In the village of Ruraï, in Papua New Guinea, people tell of a water hidden deep within the Nakanai Mountains so pure that anyone who drinks it is said to gain extraordinary powers. Immersed in the heart of a tropical rainforest, a team of cavers including the inimitable Cédric Lachat, set out to uncover this mysterious underground river system.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 20 November 2026</li><li>Runtime: 54 minutes</li><li>Director: Alexandre Lopez</li><li>Genres: Documentary</li><li>Original language: French</li><li>Spoken languages: English, French</li><li>Production countries: France</li></ul>\n<h2>Top cast</h2>\n<ul><li>Cédric Lachat as Self</li><li>David Parrot as Self</li><li>Léa Varnerot as Self</li></ul>\n</article>",
+   "t": "Secret Rivers of the Nakanai (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
+  },
+  "movie:1816385": {
+   "d": "Township (2026): Documentary film. Story: Join Ronald, Joe, and Aadit on the town in Chicago. See cast and release date 13 November 2026.",
+   "img": "https://image.tmdb.org/t/p/w780/dxgYwnBuy4H82CHBMvXaX6bK4Sk.jpg",
+   "industry": "world",
+   "k": "Township, Township movie, Township cast, Township story, Township box office collection, Township budget, Township review, Township rating, Township release date, Township Documentary, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Aadit Arora"
+     },
+     {
+      "@type": "Person",
+      "name": "Joe Koziara"
+     },
+     {
+      "@type": "Person",
+      "name": "Ronald Jamieson"
+     }
+    ],
+    "description": "Township (2026): Documentary film. Story: Join Ronald, Joe, and Aadit on the town in Chicago. See cast and release date 13 November 2026.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Aadit Arora"
+     }
+    ],
+    "duration": "PT7M",
+    "genre": [
+     "Documentary"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/dxgYwnBuy4H82CHBMvXaX6bK4Sk.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1816385",
+    "name": "Township",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-11-13"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1816385"
+   },
+   "modified": "",
+   "published": "2026-11-06",
+   "robots": "noindex,follow",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Township (2026)</h1>\n<p class=\"ssr-lead\">Join Ronald, Joe, and Aadit on the town in Chicago.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 13 November 2026</li><li>Runtime: 7 minutes</li><li>Director: Aadit Arora</li><li>Genres: Documentary</li><li>Tagline: On The Township.</li><li>Original language: English</li><li>Spoken languages: English</li></ul>\n<h2>Top cast</h2>\n<ul><li>Aadit Arora as Self</li><li>Joe Koziara as Self</li><li>Ronald Jamieson as Self</li></ul>\n</article>",
+   "t": "Township (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
+  },
+  "movie:1818285": {
+   "d": "DIDIMBAL (2026): Romance/Fantasy film. Story: Sowan can stop time. The catch? Once time stands… See cast and release date 25 November 2026.",
+   "img": "https://image.tmdb.org/t/p/w500/PQhwD6eOQIDpxAseXgcGbXWnv8.jpg",
+   "industry": "world",
+   "k": "DIDIMBAL, DIDIMBAL movie, DIDIMBAL cast, DIDIMBAL story, DIDIMBAL box office collection, DIDIMBAL budget, DIDIMBAL review, DIDIMBAL rating, DIDIMBAL release date, DIDIMBAL Romance, DIDIMBAL Fantasy, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Kim So-wan"
+     },
+     {
+      "@type": "Person",
+      "name": "Kim Eo-jin"
+     }
+    ],
+    "description": "DIDIMBAL (2026): Romance/Fantasy film. Story: Sowan can stop time. The catch? Once time stands… See cast and release date 25 November 2026.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Heo Ji-yun"
+     }
+    ],
+    "duration": "PT23M",
+    "genre": [
+     "Romance",
+     "Fantasy"
+    ],
+    "image": "https://image.tmdb.org/t/p/w500/PQhwD6eOQIDpxAseXgcGbXWnv8.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1818285",
+    "name": "DIDIMBAL",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-11-25"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1818285"
+   },
+   "modified": "",
+   "published": "2026-11-18",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>DIDIMBAL (2026)</h1>\n<p class=\"ssr-lead\">Sowan can stop time. The catch? Once time stands still, she&#x27;s the only thing that moves. Not a single person, not even a leaf. Its only use? Gazing at her crush, unnoticed. Sowan, who freezes up in front of the goal, starts one-on-one lessons with her futsal coach, Wooseok.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 25 November 2026</li><li>Runtime: 23 minutes</li><li>Director: Heo Ji-yun</li><li>Genres: Romance, Fantasy</li><li>Original language: Korean</li><li>Production countries: South Korea</li><li>Status: Post Production</li></ul>\n<h2>Top cast</h2>\n<ul><li>Kim So-wan as So-wan</li><li>Kim Eo-jin as Woo-seok</li></ul>\n</article>",
+   "t": "DIDIMBAL (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
+  },
+  "movie:1819685": {
+   "d": "Pailin Gems (2026): Horror/Romance film. Story: Khmer movie. See cast and release date 20 November 2026.",
+   "img": "https://image.tmdb.org/t/p/w500/spqFiBJQCKudzkQZPtqLs2xowtk.jpg",
+   "industry": "world",
+   "k": "Pailin Gems, Pailin Gems movie, Pailin Gems cast, Pailin Gems story, Pailin Gems box office collection, Pailin Gems budget, Pailin Gems review, Pailin Gems rating, Pailin Gems release date, Pailin Gems Horror, Pailin Gems Romance, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "description": "Pailin Gems (2026): Horror/Romance film. Story: Khmer movie. See cast and release date 20 November 2026.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Samnang Danut"
+     }
+    ],
+    "duration": "PT101M",
+    "genre": [
+     "Horror",
+     "Romance"
+    ],
+    "image": "https://image.tmdb.org/t/p/w500/spqFiBJQCKudzkQZPtqLs2xowtk.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1819685",
+    "name": "Pailin Gems",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-11-20"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1819685"
+   },
+   "modified": "",
+   "published": "2026-11-13",
+   "robots": "noindex,follow",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Pailin Gems (2026)</h1>\n<p class=\"ssr-lead\">Khmer movie</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 20 November 2026</li><li>Runtime: 101 minutes</li><li>Director: Samnang Danut</li><li>Genres: Horror, Romance</li><li>Original language: KM</li><li>Spoken languages: KM</li><li>Production countries: KH</li></ul>\n</article>",
+   "t": "Pailin Gems (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2026"
   },
   "movie:185": {
@@ -3728,6 +4398,62 @@
    "t": "Courage the Cowardly Dog (1999) — Seasons, Episodes, Cast & Story | FlickAtlas",
    "year": "1999"
   },
+  "tv:225385": {
+   "d": "Black Doves (2024) is an Action & Adventure and Mystery TV series. Explore its story: When a spy posing as a politician's wife learns her…, cast, and 2 seasons.",
+   "img": "https://image.tmdb.org/t/p/w780/uyL0MH8gtDlChQKpfpkVoUP41VY.jpg",
+   "industry": "world",
+   "k": "Black Doves, Black Doves TV series, Black Doves cast, Black Doves story, Black Doves seasons, Black Doves episodes, Black Doves season 2, Black Doves 12 episodes, Black Doves first air date, Black Doves trailer, Black Doves Action & Adventure, Black Doves Mystery, World Cinema TV series, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "TVSeries",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Keira Knightley"
+     },
+     {
+      "@type": "Person",
+      "name": "Ben Whishaw"
+     },
+     {
+      "@type": "Person",
+      "name": "Sarah Lancashire"
+     },
+     {
+      "@type": "Person",
+      "name": "Andrew Buchan"
+     },
+     {
+      "@type": "Person",
+      "name": "Ella Lily Hyland"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 465,
+     "ratingValue": 7.0,
+     "worstRating": 0
+    },
+    "description": "Black Doves (2024) is an Action & Adventure and Mystery TV series. Explore its story: When a spy posing as a politician's wife learns her…, cast, and 2 seasons.",
+    "genre": [
+     "Action & Adventure",
+     "Mystery"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/uyL0MH8gtDlChQKpfpkVoUP41VY.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/show?id=225385",
+    "name": "Black Doves",
+    "numberOfEpisodes": 12,
+    "numberOfSeasons": 2,
+    "startDate": "2024-12-05",
+    "url": "https://flickatlas.co.uk/show?id=225385"
+   },
+   "modified": "",
+   "published": "2026-11-05",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Black Doves (2024)</h1>\n<p class=\"ssr-lead\">When a spy posing as a politician&#x27;s wife learns her lover has been murdered, an old assassin friend joins her on a quest for truth — and vengeance.</p>\n<h2>Key facts</h2>\n<ul><li>First air date: 5 December 2024</li><li>Seasons: 2 · Episodes: 12</li><li>Created by: Joe Barton</li><li>Genres: Action &amp; Adventure, Mystery, Crime</li><li>Certification: A</li><li>Original language: English</li><li>Spoken languages: English</li><li>Production countries: United Kingdom</li><li>Network: Netflix</li><li>Official trailer: Official Trailer #2</li><li>TMDB rating: 7.0/10 (465 votes)</li><li>Status: Returning Series</li></ul>\n<h2>Top cast</h2>\n<ul><li>Keira Knightley as Helen Webb</li><li>Ben Whishaw as Sam Young</li><li>Sarah Lancashire as Mrs. Reed</li><li>Andrew Buchan as Wallace</li><li>Ella Lily Hyland as Williams</li></ul>\n<h2>Seasons</h2>\n<ul><li>Season 1 (6 episodes, 5 December 2024)</li><li>Season 2 (6 episodes, 5 November 2026)</li></ul>\n<h2>Where to watch</h2>\n<ul><li>Streaming on Netflix (IN)</li></ul>\n</article>",
+   "t": "Black Doves (2024) — Seasons, Episodes, Cast & Story | FlickAtlas",
+   "year": "2024"
+  },
   "tv:235685": {
    "d": "The Pendragon Cycle: Rise of the Merlin (2026) is a Sci-Fi & Fantasy and Action & Adventure TV series.",
    "img": "https://image.tmdb.org/t/p/w780/eebiQ5JEaZeVyyxZK1kS9wCoBpb.jpg",
@@ -4356,6 +5082,60 @@
    "published": "2026-11-14",
    "ssr": "<article class=\"ssr-facts\">\n<h1>Timbiriche (2026)</h1>\n<p class=\"ssr-lead\">Timbiriche, a huge musical phenomenon of the 80s, portrays the complex lives of its young members: fame, conflicts, addictions, and lineup changes. Despite everything, friendships and rivalries persist, revealing the true story.</p>\n<h2>Key facts</h2>\n<ul><li>First air date: 10 October 2026</li><li>Seasons: 1 · Episodes: 8</li><li>Created by: Humberto Hinojosa</li><li>Genres: Drama</li><li>Original language: Spanish</li><li>Spoken languages: Spanish</li><li>Production countries: Spain</li><li>Network: Atresplayer</li><li>TMDB rating: 8.4/10 (23 votes)</li><li>Status: Returning Series</li></ul>\n<h2>Top cast</h2>\n<ul><li>Jesusa Ochoa as Alix Bauer</li><li>Michelle Pellicer as Paulina Rubio</li><li>Sol Wainer as Mariana Garza</li><li>Luis de la Rosa as Erik Rubín</li><li>Sebastián Poza as Benny Ibarra</li><li>Íker Sánchez Solano as Diego Schoening</li><li>Osvaldo Benavides as Luis de Llano</li><li>Macarena García as Sasha Sokol</li><li>Clara Dalmao as Thalia</li><li>Andrea Chaparro as Edith Marquez</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: VIX, ViX Premium Amazon Channel</li></ul>\n<h2>Seasons</h2>\n<ul><li>Season 1 (8 episodes, 10 October 2026)</li></ul>\n</article>",
    "t": "Timbiriche (2026) — Seasons, Episodes, Cast & Story | FlickAtlas",
+   "year": "2026"
+  },
+  "tv:337185": {
+   "d": "Bano (2026) is a Drama and Family TV series. Explore its story: When love is consumed by the flames of hatred…, cast, and 39 episodes.",
+   "img": "https://image.tmdb.org/t/p/w780/ctsvnPykIzoMYnrm1egUXuhtPpe.jpg",
+   "industry": "pakistani",
+   "k": "Bano, Bano TV series, Bano cast, Bano story, Bano episodes, Bano 39 episodes, Bano first air date, Bano Drama, Bano Family, Pakistani dramas, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "TVSeries",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Hina Tariq"
+     },
+     {
+      "@type": "Person",
+      "name": "Haris Waheed"
+     },
+     {
+      "@type": "Person",
+      "name": "Aqeel Yousaf"
+     },
+     {
+      "@type": "Person",
+      "name": "Saima Qureshi"
+     },
+     {
+      "@type": "Person",
+      "name": "Rukhma Akhtar"
+     }
+    ],
+    "description": "Bano (2026) is a Drama and Family TV series. Explore its story: When love is consumed by the flames of hatred…, cast, and 39 episodes.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Furqan Adam"
+     }
+    ],
+    "genre": [
+     "Drama",
+     "Family"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/ctsvnPykIzoMYnrm1egUXuhtPpe.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/show?id=337185",
+    "name": "Bano",
+    "numberOfEpisodes": 39,
+    "startDate": "2026-10-13",
+    "url": "https://flickatlas.co.uk/show?id=337185"
+   },
+   "modified": "",
+   "published": "2026-10-26",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Bano (2026)</h1>\n<p class=\"ssr-lead\">When love is consumed by the flames of hatred, nothing remains the same. Hearts are wounded, relationships are tested, and the chaos spreads far beyond those caught in its path.</p>\n<h2>Key facts</h2>\n<ul><li>First air date: 13 October 2026</li><li>Episodes: 39</li><li>Created by: Furqan Adam</li><li>Director: Furqan Adam</li><li>Genres: Drama, Family</li><li>Original language: Urdu</li><li>Spoken languages: Urdu</li><li>Production countries: Pakistan</li><li>Network: Har Pal Geo</li><li>Episode runtime: 40 minutes</li><li>Status: Returning Series</li></ul>\n<h2>Top cast</h2>\n<ul><li>Hina Tariq</li><li>Haris Waheed</li><li>Aqeel Yousaf</li><li>Saima Qureshi</li><li>Rukhma Akhtar</li></ul>\n</article>",
+   "t": "Bano (2026) — Episodes, Cast & Story | FlickAtlas",
    "year": "2026"
   },
   "tv:39185": {

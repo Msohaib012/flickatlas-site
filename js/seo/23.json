@@ -1,6 +1,6 @@
 {
  "bucket": "23",
- "count": 77,
+ "count": 94,
  "titles": {
   "movie:1023": {
    "d": "Adam's Apples (2005): Drama/Comedy film. Story: A neo-nazi sentenced to community service at a church… See cast, budget $3.7M, and TMDB rating 7.5/10.",
@@ -321,6 +321,177 @@
    "t": "Coma (1978) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "1978"
   },
+  "movie:1162823": {
+   "d": "Who Killed Alex Odeh? (2026): Documentary film. Story: In October 1985, Santa Ana, California was shaken by… See cast and release date 30 October 2026.",
+   "img": "https://image.tmdb.org/t/p/w780/w2xj76FYLdPSwka9f7aFgmWx5EG.jpg",
+   "industry": "world",
+   "k": "Who Killed Alex Odeh?, Who Killed Alex Odeh? movie, Who Killed Alex Odeh? cast, Who Killed Alex Odeh? story, Who Killed Alex Odeh? box office collection, Who Killed Alex Odeh? budget, Who Killed Alex Odeh? review, Who Killed Alex Odeh? rating, Who Killed Alex Odeh? release date, Who Killed Alex Odeh? trailer, Who Killed Alex Odeh? Documentary, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "description": "Who Killed Alex Odeh? (2026): Documentary film. Story: In October 1985, Santa Ana, California was shaken by… See cast and release date 30 October 2026.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Jason Osder"
+     },
+     {
+      "@type": "Person",
+      "name": "William Lafi Youmans"
+     }
+    ],
+    "duration": "PT83M",
+    "genre": [
+     "Documentary"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/w2xj76FYLdPSwka9f7aFgmWx5EG.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1162823",
+    "name": "Who Killed Alex Odeh?",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-10-30"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1162823"
+   },
+   "modified": "",
+   "published": "2026-11-03",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Who Killed Alex Odeh? (2026)</h1>\n<p class=\"ssr-lead\">In October 1985, Santa Ana, California was shaken by a brazen act of political violence when Palestinian American Alex Odeh, a beloved teacher and community leader, was killed by a tripwire bomb planted in his office. Despite substantial evidence and identified suspects, the case was never solved. Who Killed Alex Odeh? reopens the mystery, tracking a renewed investigation in real time as new leads emerge, long-buried records come to light, and the forces behind a political assassination are finally confronted.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 30 October 2026</li><li>Runtime: 83 minutes</li><li>Director: Jason Osder, William Lafi Youmans</li><li>Genres: Documentary</li><li>Original language: English</li><li>Spoken languages: English, AR, HE</li><li>Production countries: United States</li><li>Official trailer: Who Killed Alex Odeh? | Official Trailer</li></ul>\n</article>",
+   "t": "Who Killed Alex Odeh? (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
+  },
+  "movie:1186823": {
+   "d": "Sumo Didi (2023): Drama film. Story: Hetal, a talented wrestler, discovers sumo by chance… See cast, review 6.5/10, and TMDB rating 5.0/10.",
+   "img": "https://image.tmdb.org/t/p/w780/2MllO3l2S13r7Dv87SA5TTVZ50s.jpg",
+   "industry": "bollywood",
+   "k": "Sumo Didi, Sumo Didi movie, Sumo Didi cast, Sumo Didi story, Sumo Didi box office collection, Sumo Didi budget, Sumo Didi review, Sumo Didi rating, Sumo Didi release date, Sumo Didi trailer, Sumo Didi Drama, Indian movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Shriyam Bhagnani"
+     },
+     {
+      "@type": "Person",
+      "name": "Chaitanya Sharma"
+     },
+     {
+      "@type": "Person",
+      "name": "Nitesh Pandey"
+     },
+     {
+      "@type": "Person",
+      "name": "Anubha Fatehpuria"
+     },
+     {
+      "@type": "Person",
+      "name": "Suchita Trivedi"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 1,
+     "ratingValue": 5.0,
+     "worstRating": 0
+    },
+    "description": "Sumo Didi (2023): Drama film. Story: Hetal, a talented wrestler, discovers sumo by chance… See cast, review 6.5/10, and TMDB rating 5.0/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Jayant Rohatgi"
+     }
+    ],
+    "duration": "PT118M",
+    "genre": [
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/2MllO3l2S13r7Dv87SA5TTVZ50s.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1186823",
+    "name": "Sumo Didi",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2023-10-27"
+    },
+    "review": {
+     "@type": "Review",
+     "author": {
+      "@type": "Organization",
+      "name": "FlickAtlas"
+     },
+     "reviewBody": "Sumo Didi is a sincere and earnest sports biographical drama that brings an unusual real-life Indian sumo wrestler to the screen. While it treads familiar territory and suffers from some predictable cliches, its focus on body positivity and a rare protagonist makes it worth a watch for fans of inspiring underdog stories.",
+     "reviewRating": {
+      "@type": "Rating",
+      "bestRating": 10,
+      "ratingValue": 6.5
+     }
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1186823"
+   },
+   "modified": "",
+   "published": "2026-10-27",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Sumo Didi (2023)</h1>\n<p class=\"ssr-lead\">Hetal, a talented wrestler, discovers sumo by chance, but her road to improvement is very steep. Unwilling to give up her dream, she goes to Japan and endures rigorous training. A unique Indian sumo girl movie!</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 27 October 2023</li><li>Runtime: 118 minutes</li><li>Director: Jayant Rohatgi</li><li>Genres: Drama</li><li>Certification: U/A 13+</li><li>Original language: Hindi</li><li>Spoken languages: Hindi</li><li>Production countries: India</li><li>Official trailer: Sumo Didi | Official Trailer | Hindi Zee 5 Original Film | Shriyam Bhagnani | Premieres 23rd Oct</li><li>TMDB rating: 5.0/10 (1 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Shriyam Bhagnani as Hetal Dave</li><li>Chaitanya Sharma as Akshat Sharma</li><li>Nitesh Pandey as Rajendra Dave</li><li>Anubha Fatehpuria as Sudha Dave</li><li>Suchita Trivedi as Kusum</li><li>Raghav Dhir as Vikku Dave</li><li>Meenal Kapoor as Shobha</li><li>Kazumasa Sato as Taoshi</li><li>Kaizaad Kotwal as Sponsor</li></ul>\n<h2>FlickAtlas review</h2>\n<p>Overall: 6.5/10.</p>\n<ul><li>Action &amp; Cinematography: 7/10</li><li>Comedy &amp; Entertainment: 6/10</li><li>Direction: 6.5/10</li><li>Music &amp; BGM: 6.5/10</li><li>Performances: 7/10</li><li>Story &amp; Screenplay: 7/10</li></ul>\n<h3>Story &amp; Plot</h3>\n<p>Directed by Jayant Rohatgi and inspired by the life of Hetal Dave, India&#x27;s first professional female sumo wrestler, Sumo Didi follows a young woman discovering sumo by chance. Facing a steep road to improvement, she combats societal prejudice, body shaming, familial expectations, and financial hardships to achieve international sporting recognition, even traveling to Japan for rigorous training. The film unfolds with simplicity, presenting a unique underdog sports biographical tale.</p>\n<h3>Comedy &amp; Entertainment</h3>\n<p>While primarily a biographical sports drama, the entertainment value stems from the unique premise of introducing sumo wrestling to an Indian setting. The film focuses on the protagonist&#x27;s journey and her unconventional path rather than traditional comedic tropes. The narrative relies on the inspiring atmosphere of the sports world to keep viewers engaged.</p>\n<h3>Performances &amp; Direction</h3>\n<p>Shriyam Bhagnani leads the cast as Hetal Dave, portraying India&#x27;s first professional female sumo wrestler with a heartbreaking sincerity and determination. The supporting cast, featuring Chaitanya Sharma, Nitesh Pandey, and Anubha Fatehpuria, help ground the narrative in the protagonist&#x27;s familial and societal struggles.</p>\n<h3>Strengths</h3>\n<ul><li>Unusual and rare protagonist rarely seen on screen</li><li>Inspired by the real-life story of Hetal Dave</li><li>Strong themes of body positivity and overcoming prejudice</li><li>Sincere and straightforward narrative storytelling</li></ul>\n<h3>Weaknesses</h3>\n<p>Despite its heartfelt sincerity and unique premise, some reviewers note that the film falls into a familiar, banal path and is let down by cliches. The traditional underdog setup occasionally struggles to rise above predictable storytelling beats.</p>\n<h3>Final verdict</h3>\n<p>Sumo Didi is a sincere and earnest sports biographical drama that brings an unusual real-life Indian sumo wrestler to the screen. While it treads familiar territory and suffers from some predictable cliches, its focus on body positivity and a rare protagonist makes it worth a watch for fans of inspiring underdog stories.</p>\n<h2>Where to watch</h2>\n<ul><li>Streaming on Zee5 (IN)</li></ul>\n</article>",
+   "t": "Sumo Didi (2023) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2023"
+  },
+  "movie:1209723": {
+   "d": "Yeh Prem Mol Liya (2026): Romance/Family film. Story: A heartfelt romantic family drama about two best… See cast and release date 27 November 2026.",
+   "img": "https://image.tmdb.org/t/p/w780/ixHRFxlPRqCvCJ5gk0aScUAEfrx.jpg",
+   "industry": "bollywood",
+   "k": "Yeh Prem Mol Liya, Yeh Prem Mol Liya movie, Yeh Prem Mol Liya cast, Yeh Prem Mol Liya story, Yeh Prem Mol Liya box office collection, Yeh Prem Mol Liya budget, Yeh Prem Mol Liya review, Yeh Prem Mol Liya rating, Yeh Prem Mol Liya release date, Yeh Prem Mol Liya Romance, Yeh Prem Mol Liya Family, Indian movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Ayushmann Khurrana"
+     },
+     {
+      "@type": "Person",
+      "name": "Sharvari"
+     },
+     {
+      "@type": "Person",
+      "name": "Anupam Kher"
+     },
+     {
+      "@type": "Person",
+      "name": "Geeta Agrawal Sharma"
+     },
+     {
+      "@type": "Person",
+      "name": "Supriya Pathak"
+     }
+    ],
+    "description": "Yeh Prem Mol Liya (2026): Romance/Family film. Story: A heartfelt romantic family drama about two best… See cast and release date 27 November 2026.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Sooraj Barjatya"
+     }
+    ],
+    "duration": "PT173M",
+    "genre": [
+     "Romance",
+     "Family"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/ixHRFxlPRqCvCJ5gk0aScUAEfrx.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1209723",
+    "name": "Yeh Prem Mol Liya",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-11-27"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1209723"
+   },
+   "modified": "",
+   "published": "2026-11-20",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Yeh Prem Mol Liya (2026)</h1>\n<p class=\"ssr-lead\">A heartfelt romantic family drama about two best friends whose close bond slowly turns into love. But one lie creates misunderstandings and conflicts, putting their relationship and family bonds to the test. The story explores love, sacrifice, understanding and the importance of family.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 27 November 2026</li><li>Runtime: 173 minutes</li><li>Director: Sooraj Barjatya</li><li>Genres: Romance, Family, Drama</li><li>Certification: UA</li><li>Original language: Hindi</li><li>Spoken languages: Hindi</li><li>Production countries: India</li><li>Status: Post Production</li></ul>\n<h2>Top cast</h2>\n<ul><li>Ayushmann Khurrana as Prem</li><li>Sharvari as Purva</li><li>Anupam Kher</li><li>Geeta Agrawal Sharma</li><li>Supriya Pathak</li><li>Seema Pahwa</li><li>Saumya Tandon as Jia</li><li>Shaad Randhawa</li><li>Swanand Kirkire</li><li>Krrish Rao</li></ul>\n</article>",
+   "t": "Yeh Prem Mol Liya (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
+  },
   "movie:12223": {
    "d": "The Stepford Wives (1975): Science Fiction/Horror film. Story: Joanna Eberhart comes to the town of Stepford… See cast, budget $500.0k, and TMDB rating 6.7/10.",
    "img": "https://image.tmdb.org/t/p/w780/pgVTwsJXv1i2GGZ2yB7KfiYqGAc.jpg",
@@ -384,6 +555,70 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>The Stepford Wives (1975)</h1>\n<p class=\"ssr-lead\">Joanna Eberhart comes to the town of Stepford, Connecticut with her family, but soon discovers there lies a sinister truth in the all too perfect behavior of the female residents.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 12 February 1975</li><li>Runtime: 117 minutes</li><li>Director: Bryan Forbes</li><li>Genres: Science Fiction, Horror, Thriller</li><li>Tagline: Something is wrong with the women of Stepford.</li><li>Certification: PG</li><li>Original language: English</li><li>Spoken languages: English</li><li>Production countries: United States</li><li>Budget: $500.0k</li><li>TMDB rating: 6.7/10 (394 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Katharine Ross as Joanna Eberhart</li><li>Paula Prentiss as Bobbie Markowe</li><li>Nanette Newman as Carol Van Sant</li><li>Judith Baldwin as Patricia Cornell</li><li>Peter Masterson as Walter Eberhart</li><li>Tina Louise as Charmaine Wimpiris</li><li>Carol Eve Rossen as Dr. Fancher</li><li>William Prince as Ike Mazzard</li><li>Mary Stuart Masterson as Kim Eberhart</li><li>Patrick O&#x27;Neal as Dale Coba</li></ul>\n</article>",
    "t": "The Stepford Wives (1975) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "1975"
+  },
+  "movie:1244523": {
+   "d": "Beware Boiúna (2026): Horror/Thriller film. Story: A medical mission deep in the Amazon becomes a… See cast and TMDB rating 6.3/10.",
+   "img": "https://image.tmdb.org/t/p/w780/9nU0FKNefmhbgi2xXlvZchZsqwm.jpg",
+   "industry": "world",
+   "k": "Beware Boiúna, Beware Boiúna movie, Beware Boiúna cast, Beware Boiúna story, Beware Boiúna box office collection, Beware Boiúna budget, Beware Boiúna review, Beware Boiúna rating, Beware Boiúna release date, Beware Boiúna trailer, Beware Boiúna Horror, Beware Boiúna Thriller, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Kiana Madeira"
+     },
+     {
+      "@type": "Person",
+      "name": "Jessica Rothe"
+     },
+     {
+      "@type": "Person",
+      "name": "Will Close"
+     },
+     {
+      "@type": "Person",
+      "name": "Juan Pablo Shuk"
+     },
+     {
+      "@type": "Person",
+      "name": "Logan Marshall-Green"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 17,
+     "ratingValue": 6.3,
+     "worstRating": 0
+    },
+    "description": "Beware Boiúna (2026): Horror/Thriller film. Story: A medical mission deep in the Amazon becomes a… See cast and TMDB rating 6.3/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Mike P. Nelson"
+     }
+    ],
+    "duration": "PT104M",
+    "genre": [
+     "Horror",
+     "Thriller"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/9nU0FKNefmhbgi2xXlvZchZsqwm.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1244523",
+    "name": "Beware Boiúna",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-10-01"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1244523"
+   },
+   "modified": "",
+   "published": "2026-11-03",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Beware Boiúna (2026)</h1>\n<p class=\"ssr-lead\">A medical mission deep in the Amazon becomes a desperate fight for survival when a colossal ancient predator awakens, turning the jungle into a deadly battleground where nature decides who lives and dies.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 1 October 2026</li><li>Runtime: 104 minutes</li><li>Director: Mike P. Nelson</li><li>Genres: Horror, Thriller</li><li>Tagline: Witness terror on a gigantic scale.</li><li>Certification: R</li><li>Original language: English</li><li>Spoken languages: English, PT</li><li>Production countries: United States, Germany, CO</li><li>Official trailer: Final Trailer</li><li>TMDB rating: 6.3/10 (17 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Kiana Madeira as Lena</li><li>Jessica Rothe as Alli</li><li>Will Close as Callum</li><li>Juan Pablo Shuk as Miguel</li><li>Logan Marshall-Green as Brennan</li><li>Jaime Newball as Raúl</li><li>Jackson Bews as Shawn</li><li>Tonfy Andoque as Yaguari Leader</li><li>Andres Paier as Reynaldo</li><li>Victor Bustos as Garimpeiro Leader</li></ul>\n</article>",
+   "t": "Beware Boiúna (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
   },
   "movie:1248723": {
    "d": "The Golden Key: A New Pinocchio Story (2026): Family/Drama film. Story: A screen adaptation of the beloved international… See cast and TMDB rating 7.0/10.",
@@ -959,6 +1194,83 @@
    "t": "Night Moves (2014) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2014"
   },
+  "movie:1590723": {
+   "d": "The Sea Speaks His Name (2026): Drama/History film. Story: Set during the volatile final months of Indonesia’s… See cast, review 8/10, and TMDB rating 8.0/10.",
+   "img": "https://image.tmdb.org/t/p/w780/dibjzvhuz4FiF0Af9BkcMDHRSCD.jpg",
+   "industry": "world",
+   "k": "The Sea Speaks His Name, The Sea Speaks His Name movie, The Sea Speaks His Name cast, The Sea Speaks His Name story, The Sea Speaks His Name box office collection, The Sea Speaks His Name budget, The Sea Speaks His Name review, The Sea Speaks His Name rating, The Sea Speaks His Name release date, The Sea Speaks His Name trailer, The Sea Speaks His Name Drama, The Sea Speaks His Name History, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Reza Rahadian"
+     },
+     {
+      "@type": "Person",
+      "name": "Yunita Siregar"
+     },
+     {
+      "@type": "Person",
+      "name": "Christine Hakim"
+     },
+     {
+      "@type": "Person",
+      "name": "Arswendy Bening Swara"
+     },
+     {
+      "@type": "Person",
+      "name": "Eva Celia"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 3,
+     "ratingValue": 8.0,
+     "worstRating": 0
+    },
+    "description": "The Sea Speaks His Name (2026): Drama/History film. Story: Set during the volatile final months of Indonesia’s… See cast, review 8/10, and TMDB rating 8.0/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Yosep Anggi Noen"
+     }
+    ],
+    "duration": "PT133M",
+    "genre": [
+     "Drama",
+     "History"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/dibjzvhuz4FiF0Af9BkcMDHRSCD.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1590723",
+    "name": "The Sea Speaks His Name",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-10-29"
+    },
+    "review": {
+     "@type": "Review",
+     "author": {
+      "@type": "Organization",
+      "name": "FlickAtlas"
+     },
+     "reviewBody": "The Sea Speaks His Name is a powerful and absorbing political drama that sheds light on a crucial period of Indonesian history. With strong performances and effective thriller craftsmanship, it offers an urgent look at the dangers and rewards of political activism. Recommended for viewers interested in historical dramas and stories of courage under oppressive regimes.",
+     "reviewRating": {
+      "@type": "Rating",
+      "bestRating": 10,
+      "ratingValue": 8.0
+     }
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1590723"
+   },
+   "modified": "",
+   "published": "2026-11-02",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>The Sea Speaks His Name (2026)</h1>\n<p class=\"ssr-lead\">Set during the volatile final months of Indonesia’s New Order regime, the narrative chronicles a young student activist&#x27;s perilous commitment to pro-democracy underground movements and his family&#x27;s subsequent, grueling quest for justice following his forced disappearance.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 29 October 2026</li><li>Runtime: 133 minutes</li><li>Director: Yosep Anggi Noen</li><li>Genres: Drama, History</li><li>Certification: 17+</li><li>Original language: ID</li><li>Spoken languages: ID</li><li>Production countries: ID, Thailand</li><li>Official trailer: Laut Bercerita - Official Trailer</li><li>TMDB rating: 8.0/10 (3 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Reza Rahadian as Biru Laut</li><li>Yunita Siregar as Asmara Jati</li><li>Christine Hakim as Mrs. Ratih Wibisana / Laut&#x27;s Mother</li><li>Arswendy Bening Swara as Mr. Arya Wibisana / Laut&#x27;s Father</li><li>Eva Celia as Ratih Anjani</li><li>Dian Sastrowardoyo as Kasih Kinanti</li><li>Yoga Pratama as Arifin Bramantyo</li><li>Ben Nugroho as Alex Perazon</li><li>Kevin Julio as Daniel Tumbuan</li><li>Dewa Dayana as Sunu Dyantoro</li></ul>\n<h2>FlickAtlas review</h2>\n<p>Overall: 8/10.</p>\n<ul><li>Action &amp; Cinematography: 7.5/10</li><li>Comedy &amp; Entertainment: 5/10</li><li>Direction: 8/10</li><li>Music &amp; BGM: 7/10</li><li>Performances: 8/10</li><li>Story &amp; Screenplay: 8.5/10</li></ul>\n<h3>Story &amp; Plot</h3>\n<p>Set during the volatile final months of Indonesia&#x27;s New Order regime, the narrative follows a young student activist committed to pro-democracy underground movements. Following his forced disappearance, his family embarks on a grueling quest for justice. The urgent drama explores this momentous and still seldom written about period of Indonesian history that led to the end of a dictatorship.</p>\n<h3>Comedy &amp; Entertainment</h3>\n<p>As a serious historical drama and political thriller, the film focuses on high-stakes activism, danger, and a tense atmosphere rather than lighthearted humor or comedy. Its entertainment value derives from its gripping, tightly wound narrative of people confining themselves to the shadows for survival. Reviewers note the emotional gravity and the terrifying, dangerous reality of the 1998 tragedy in Indonesia.</p>\n<h3>Performances &amp; Direction</h3>\n<p>The film features a talented top cast including Reza Rahadian, Yunita Siregar, Christine Hakim, Arswendy Bening Swara, and Eva Celia. The performances ground the tense political thriller in authentic human stakes as characters navigate the dangers of living out their truth and ideals. The cast successfully conveys the heavy emotional weight of political activism and the agonizing search for justice.</p>\n<h3>Strengths</h3>\n<ul><li>Absorbing and urgent political drama</li><li>Nimble editing that makes light work of the runtime</li><li>Somber cinematography and thriller trappings</li><li>Stirring archival footage at the close</li><li>Powerful exploration of Indonesian history</li></ul>\n<h3>Weaknesses</h3>\n<p>The tense and tightly wound nature of the film relies on familiar political thriller tropes that may feel restrictive to some viewers. The dark, shadowed aesthetic and heavy historical subject matter also keep the tone relentlessly somber without offering much levity.</p>\n<h3>Final verdict</h3>\n<p>The Sea Speaks His Name is a powerful and absorbing political drama that sheds light on a crucial period of Indonesian history. With strong performances and effective thriller craftsmanship, it offers an urgent look at the dangers and rewards of political activism. Recommended for viewers interested in historical dramas and stories of courage under oppressive regimes.</p>\n</article>",
+   "t": "The Sea Speaks His Name (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
+  },
   "movie:1628123": {
    "d": "BTS THE COMEBACK LIVE | ARIRANG (2026): Music film. Story: BTS is back. The iconic group returns to the stage… See cast and TMDB rating 8.7/10.",
    "img": "https://image.tmdb.org/t/p/w780/rI9VPEw13XlVZzhOcLXt3Tiweyx.jpg",
@@ -1281,6 +1593,395 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>G.B.F. (2014)</h1>\n<p class=\"ssr-lead\">The bitter fight for supremacy between the three most popular girls at North Gateway High takes an unexpected turn when their classmate, Tanner, is outed and becomes the school’s first openly gay student. The trio races to bag the big trend in fashion accessories, the Gay Best Friend, while Tanner must decide whether his skyrocketing popularity is more important than the friendships he is leaving behind.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 17 January 2014</li><li>Runtime: 93 minutes</li><li>Director: Darren Stein</li><li>Genres: Comedy, Drama</li><li>Tagline: Being out has never been so in.</li><li>Certification: R</li><li>Original language: English</li><li>Spoken languages: English</li><li>Production countries: United States</li><li>Official trailer: GBF Trailer</li><li>Budget: $3.2M</li><li>TMDB rating: 6.0/10 (416 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Michael J. Willett as Tanner Daniels</li><li>Paul Iacono as Brent Van Camp</li><li>Sasha Pieterse as Fawcett Brooks</li><li>Andrea Bowen as &#x27;Shley Osgoode</li><li>Xosha Roquemore as Caprice Winters</li><li>Molly Tarlov as Sophie Aster</li><li>Evanna Lynch as McKenzie Pryce</li><li>JoJo as Soledad Braunstein</li><li>Derek Mio as Glenn Cho</li><li>Mia Rose Frampton as Mindie</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Amazon Prime Video, FlixFling, Amazon Prime Video with Ads</li><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
    "t": "G.B.F. (2014) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2014"
+  },
+  "movie:1791123": {
+   "d": "face à face (2026): Drama film. See cast and release date 11 November 2026.",
+   "img": "https://image.tmdb.org/t/p/w500/alMjAbIgHTj4sDru4iriIrlOKXV.jpg",
+   "industry": "world",
+   "k": "face à face, face à face movie, face à face cast, face à face story, face à face box office collection, face à face budget, face à face review, face à face rating, face à face release date, face à face Drama, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Valérie Mairesse"
+     },
+     {
+      "@type": "Person",
+      "name": "Florian Hessique"
+     },
+     {
+      "@type": "Person",
+      "name": "Frédéric Diefenthal"
+     },
+     {
+      "@type": "Person",
+      "name": "Elisa Ezzedine"
+     },
+     {
+      "@type": "Person",
+      "name": "Olivier Pagès"
+     }
+    ],
+    "description": "face à face (2026): Drama film. See cast and release date 11 November 2026.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Florian Hessique"
+     }
+    ],
+    "genre": [
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w500/alMjAbIgHTj4sDru4iriIrlOKXV.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1791123",
+    "name": "face à face",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-11-11"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1791123"
+   },
+   "modified": "",
+   "published": "2026-11-04",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>face à face (2026)</h1>\n<h2>Key facts</h2>\n<ul><li>Release date: 11 November 2026</li><li>Director: Florian Hessique</li><li>Genres: Drama</li><li>Certification: 12</li><li>Original language: French</li><li>Spoken languages: French</li></ul>\n<h2>Top cast</h2>\n<ul><li>Valérie Mairesse as Fabienne LANGLOIS</li><li>Florian Hessique as Antoine MARTINEAU</li><li>Frédéric Diefenthal as Le directeur</li><li>Elisa Ezzedine as La compagne d&#x27;Antoine</li><li>Olivier Pagès as Le mari de Fabienne</li><li>Capucine Anav as La fille de Fabienne</li><li>Mélanie Pichot as Mère enfant place</li><li>Emmanuel Leckner as Serveur bar</li><li>Sébastien Buron as Gendarme 1</li><li>Véronique Berthoud as Gendarme 2</li></ul>\n</article>",
+   "t": "face à face (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
+  },
+  "movie:1796923": {
+   "d": "Kidney (2026): Drama/Comedy film. Story: In a remote village, two rival families – one… See cast and release date 15 November 2026.",
+   "img": "https://image.tmdb.org/t/p/w780/88CUXUzDtYpBWLdwZeIivq3ruhm.jpg",
+   "industry": "bollywood",
+   "k": "Kidney, Kidney movie, Kidney cast, Kidney story, Kidney box office collection, Kidney budget, Kidney review, Kidney rating, Kidney release date, Kidney Drama, Kidney Comedy, Indian movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Simran Tandon"
+     },
+     {
+      "@type": "Person",
+      "name": "Rudrashish Majumdar"
+     },
+     {
+      "@type": "Person",
+      "name": "Nitin Kumar Singh"
+     },
+     {
+      "@type": "Person",
+      "name": "Prabhat Mishra"
+     },
+     {
+      "@type": "Person",
+      "name": "Manish Devkunsh"
+     }
+    ],
+    "description": "Kidney (2026): Drama/Comedy film. Story: In a remote village, two rival families – one… See cast and release date 15 November 2026.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Aakarsh Sansanwal"
+     },
+     {
+      "@type": "Person",
+      "name": "Agrim Sansanwal"
+     }
+    ],
+    "duration": "PT125M",
+    "genre": [
+     "Drama",
+     "Comedy"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/88CUXUzDtYpBWLdwZeIivq3ruhm.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1796923",
+    "name": "Kidney",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-11-15"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1796923"
+   },
+   "modified": "",
+   "published": "2026-11-08",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Kidney (2026)</h1>\n<p class=\"ssr-lead\">In a remote village, two rival families – one privileged Hindu, the other a struggling Muslim family – are trapped in an endless cycle of feuds. A young man dreaming of TikTok fame and a woman yearning to escape patriarchy fall in love. When an inheritance dispute erupts, their relationship is caught between greed, betrayal, and a conflict that threatens to turn blood against blood.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 15 November 2026</li><li>Runtime: 125 minutes</li><li>Director: Aakarsh Sansanwal, Agrim Sansanwal</li><li>Genres: Drama, Comedy</li><li>Original language: Hindi</li><li>Spoken languages: Hindi</li><li>Production countries: India</li></ul>\n<h2>Top cast</h2>\n<ul><li>Simran Tandon</li><li>Rudrashish Majumdar</li><li>Nitin Kumar Singh</li><li>Prabhat Mishra</li><li>Manish Devkunsh</li><li>Rakesh Kumar</li><li>Praveen Kumar</li></ul>\n</article>",
+   "t": "Kidney (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
+  },
+  "movie:1798823": {
+   "d": "Distance (2026): Drama film. Story: Ambika drives her late best friend’s 13-year-old son… See cast, review 7/10, and release date 29 October 2026.",
+   "img": "https://image.tmdb.org/t/p/w500/iElPSWdGjYoahSi7EfsgQyEoUEx.jpg",
+   "industry": "bollywood",
+   "k": "Distance, Distance movie, Distance cast, Distance story, Distance box office collection, Distance budget, Distance review, Distance rating, Distance release date, Distance Drama, Indian movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Rajshri Deshpande"
+     },
+     {
+      "@type": "Person",
+      "name": "Archana Patel"
+     },
+     {
+      "@type": "Person",
+      "name": "Vijay Maurya"
+     }
+    ],
+    "description": "Distance (2026): Drama film. Story: Ambika drives her late best friend’s 13-year-old son… See cast, review 7/10, and release date 29 October 2026.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Swapnil S. Sonawane"
+     }
+    ],
+    "duration": "PT26M",
+    "genre": [
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w500/iElPSWdGjYoahSi7EfsgQyEoUEx.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1798823",
+    "name": "Distance",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-10-29"
+    },
+    "review": {
+     "@type": "Review",
+     "author": {
+      "@type": "Organization",
+      "name": "FlickAtlas"
+     },
+     "reviewBody": "Distance is a concise, emotional 26-minute drama that delivers a poignant snapshot of grief and strained bonds. Bolstered by its committed cast, it offers a worthwhile watch for fans of intimate storytelling, provided they do not mind its abrupt brevity.",
+     "reviewRating": {
+      "@type": "Rating",
+      "bestRating": 10,
+      "ratingValue": 7.0
+     }
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1798823"
+   },
+   "modified": "",
+   "published": "2026-10-26",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Distance (2026)</h1>\n<p class=\"ssr-lead\">Ambika drives her late best friend’s 13-year-old son, Dhruv, back to boarding school after his father’s sudden death. The ride is strained by Dhruv’s unexplained animosity, which worsens when Ambika’s careless driving breaks his prized windmill science project. The journey culminates when Dhruv confronts her with a painful shared secret.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 29 October 2026</li><li>Runtime: 26 minutes</li><li>Director: Swapnil S. Sonawane</li><li>Genres: Drama</li><li>Original language: Hindi</li><li>Spoken languages: English, Marathi, Hindi, Gujarati</li><li>Production countries: India</li></ul>\n<h2>Top cast</h2>\n<ul><li>Rajshri Deshpande</li><li>Archana Patel</li><li>Vijay Maurya</li></ul>\n<h2>FlickAtlas review</h2>\n<p>Overall: 7/10.</p>\n<ul><li>Action &amp; Cinematography: 7.5/10</li><li>Comedy &amp; Entertainment: 6/10</li><li>Direction: 6.5/10</li><li>Music &amp; BGM: 7/10</li><li>Performances: 7/10</li><li>Story &amp; Screenplay: 6.5/10</li></ul>\n<h3>Story &amp; Plot</h3>\n<p>Directed by Swapnil S. Sonawane, the 26-minute Hindi drama follows Ambika as she drives her late best friend&#x27;s 13-year-old son, Dhruv, back to boarding school after a sudden death. Their car ride is tense due to Dhruv&#x27;s unexplained animosity, which escalates when careless driving destroys his prized windmill science project. The journey reaches a turning point when the boy confronts her with a painful shared secret.</p>\n<h3>Comedy &amp; Entertainment</h3>\n<p>While the dramatic setup of the film leaves little room for traditional gags or jokes, the interactions carry a sharp, strained tension between the characters. The entertainment value stems from the emotional friction of the road trip premise rather than lighthearted humor. Reviewers note that certain strange or absurd cinematic moments can evoke unexpected amusement, though the core of the experience remains dramatic.</p>\n<h3>Performances &amp; Direction</h3>\n<p>The cast features Rajshri Deshpande, Archana Patel, and Vijay Maurya in a grounded Indian dramatic setting. The actors navigate the heavy emotional beats of grief and youthful resentment with conviction. Their portrayal of strained relationships anchors the brief narrative.</p>\n<h3>Strengths</h3>\n<ul><li>emotional road trip premise</li><li>compact 26-minute runtime</li><li>strong lead performances</li><li>poignant shared secret climax</li></ul>\n<h3>Weaknesses</h3>\n<p>The short runtime leaves limited room to deeply explore the complex history between the characters, potentially making the narrative feel brief or abrupt. Appreciation of the dramatic tone and its strange, tense atmosphere may vary significantly from viewer to viewer.</p>\n<h3>Final verdict</h3>\n<p>Distance is a concise, emotional 26-minute drama that delivers a poignant snapshot of grief and strained bonds. Bolstered by its committed cast, it offers a worthwhile watch for fans of intimate storytelling, provided they do not mind its abrupt brevity.</p>\n</article>",
+   "t": "Distance (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
+  },
+  "movie:1805423": {
+   "d": "Raphael (2026): Action/Science Fiction film. Story: Alexei, an elite war android modeled after the… See cast and release date 25 November 2026.",
+   "img": "https://image.tmdb.org/t/p/w780/26KhlTT2RfLYYa8dfRzLAMZuCRY.jpg",
+   "industry": "world",
+   "k": "Raphael, Raphael movie, Raphael cast, Raphael story, Raphael box office collection, Raphael budget, Raphael review, Raphael rating, Raphael release date, Raphael Action, Raphael Science Fiction, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "description": "Raphael (2026): Action/Science Fiction film. Story: Alexei, an elite war android modeled after the… See cast and release date 25 November 2026.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Yang Eek-jun"
+     },
+     {
+      "@type": "Person",
+      "name": "Moon Shin-woo"
+     },
+     {
+      "@type": "Person",
+      "name": "Jung Ju-won"
+     }
+    ],
+    "duration": "PT138M",
+    "genre": [
+     "Action",
+     "Science Fiction"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/26KhlTT2RfLYYa8dfRzLAMZuCRY.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1805423",
+    "name": "Raphael",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-11-25"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1805423"
+   },
+   "modified": "",
+   "published": "2026-11-18",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Raphael (2026)</h1>\n<p class=\"ssr-lead\">Alexei, an elite war android modeled after the youthful image of an aging dictator, serves as commanding officer in a refugee district, leading the suppression of a rebellion. There, he encounters Michael, the last remaining Catholic priest, and awakens to faith—beginning a dangerous journey in search of redemption.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 25 November 2026</li><li>Runtime: 138 minutes</li><li>Director: Yang Eek-jun, Moon Shin-woo, Jung Ju-won</li><li>Genres: Action, Science Fiction, Animation</li><li>Certification: 15</li><li>Original language: Korean</li><li>Spoken languages: English</li><li>Production countries: South Korea</li></ul>\n</article>",
+   "t": "Raphael (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
+  },
+  "movie:1812323": {
+   "d": "You’re Not Ready (2026): Documentary/Comedy film. Story: Over-enthusiastic and incapable personal assistant… See cast and release date 12 November 2026.",
+   "img": "https://image.tmdb.org/t/p/w500/scDQosC0YSil5ZfKsvLkfj2TW0C.jpg",
+   "industry": "world",
+   "k": "You’re Not Ready, You’re Not Ready movie, You’re Not Ready cast, You’re Not Ready story, You’re Not Ready box office collection, You’re Not Ready budget, You’re Not Ready review, You’re Not Ready rating, You’re Not Ready release date, You’re Not Ready Documentary, You’re Not Ready Comedy, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Mackenzie Black"
+     },
+     {
+      "@type": "Person",
+      "name": "Spencer Young"
+     },
+     {
+      "@type": "Person",
+      "name": "Jaydon T. Yerex"
+     },
+     {
+      "@type": "Person",
+      "name": "Margarita Mira"
+     },
+     {
+      "@type": "Person",
+      "name": "Lucius Paul"
+     }
+    ],
+    "description": "You’re Not Ready (2026): Documentary/Comedy film. Story: Over-enthusiastic and incapable personal assistant… See cast and release date 12 November 2026.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Lukas R-T"
+     }
+    ],
+    "duration": "PT7M",
+    "genre": [
+     "Documentary",
+     "Comedy"
+    ],
+    "image": "https://image.tmdb.org/t/p/w500/scDQosC0YSil5ZfKsvLkfj2TW0C.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1812323",
+    "name": "You’re Not Ready",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-11-12"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1812323"
+   },
+   "modified": "",
+   "published": "2026-11-05",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>You’re Not Ready (2026)</h1>\n<p class=\"ssr-lead\">Over-enthusiastic and incapable personal assistant Wynn Santos must sell an apartment to a couple from hell.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 12 November 2026</li><li>Runtime: 7 minutes</li><li>Director: Lukas R-T</li><li>Genres: Documentary, Comedy</li><li>Tagline: A NEW STANDARD IN CONFINED LIVING</li><li>Original language: English</li><li>Production countries: Canada</li></ul>\n<h2>Top cast</h2>\n<ul><li>Mackenzie Black as Trinity Bellwoods</li><li>Spencer Young as Seth Kettleman</li><li>Jaydon T. Yerex as Wynn Santos</li><li>Margarita Mira as Catherine Kettleman</li><li>Lucius Paul as Jeff</li></ul>\n</article>",
+   "t": "You’re Not Ready (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
+  },
+  "movie:1814123": {
+   "d": "Because You're Mine (2026): Thriller film. Story: In a desperate attempt to find solace, a young man… See cast and release date 26 November 2026.",
+   "img": "https://image.tmdb.org/t/p/w500/uPdqAd86SyLp9nHfTaKfEhGPB4d.jpg",
+   "industry": "world",
+   "k": "Because You're Mine, Because You're Mine movie, Because You're Mine cast, Because You're Mine story, Because You're Mine box office collection, Because You're Mine budget, Because You're Mine review, Because You're Mine rating, Because You're Mine release date, Because You're Mine Thriller, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Shaun Gonzalvo"
+     },
+     {
+      "@type": "Person",
+      "name": "Poppy Marinovich"
+     },
+     {
+      "@type": "Person",
+      "name": "Jesse Vakatini"
+     },
+     {
+      "@type": "Person",
+      "name": "Amanda Corrie"
+     }
+    ],
+    "description": "Because You're Mine (2026): Thriller film. Story: In a desperate attempt to find solace, a young man… See cast and release date 26 November 2026.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Lilliana Benger"
+     },
+     {
+      "@type": "Person",
+      "name": "Chloe Evensen"
+     }
+    ],
+    "genre": [
+     "Thriller"
+    ],
+    "image": "https://image.tmdb.org/t/p/w500/uPdqAd86SyLp9nHfTaKfEhGPB4d.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1814123",
+    "name": "Because You're Mine",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-11-26"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1814123"
+   },
+   "modified": "",
+   "published": "2026-11-19",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Because You&#x27;re Mine (2026)</h1>\n<p class=\"ssr-lead\">In a desperate attempt to find solace, a young man joins a local support group where he meets a stranger whose outward charm masks far darker intentions.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 26 November 2026</li><li>Director: Lilliana Benger, Chloe Evensen</li><li>Genres: Thriller</li><li>Tagline: Grief can make you lose hope. It can also make you lose your grip on reality.</li><li>Original language: English</li><li>Spoken languages: English</li><li>Status: In Production</li></ul>\n<h2>Top cast</h2>\n<ul><li>Shaun Gonzalvo as Caleb</li><li>Poppy Marinovich as Quinn</li><li>Jesse Vakatini as Jake</li><li>Amanda Corrie as Phoebe</li></ul>\n</article>",
+   "t": "Because You're Mine (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
+  },
+  "movie:1814423": {
+   "d": "Kushpu (2026): Comedy/Horror film. See cast and release date 6 November 2026.",
+   "img": "https://image.tmdb.org/t/p/w500/pJI3LbmSwUgFYdgvGvt0E4GsH0E.jpg",
+   "industry": "bollywood",
+   "k": "Kushpu, Kushpu movie, Kushpu cast, Kushpu story, Kushpu box office collection, Kushpu budget, Kushpu review, Kushpu rating, Kushpu release date, Kushpu Comedy, Kushpu Horror, Indian movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Jaffer Idukki"
+     },
+     {
+      "@type": "Person",
+      "name": "Dayyana Hameed"
+     },
+     {
+      "@type": "Person",
+      "name": "Anu Anandhan"
+     },
+     {
+      "@type": "Person",
+      "name": "Chithra Nair"
+     },
+     {
+      "@type": "Person",
+      "name": "Nirmal Palazhi"
+     }
+    ],
+    "description": "Kushpu (2026): Comedy/Horror film. See cast and release date 6 November 2026.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Sujan Aromal"
+     }
+    ],
+    "genre": [
+     "Comedy",
+     "Horror"
+    ],
+    "image": "https://image.tmdb.org/t/p/w500/pJI3LbmSwUgFYdgvGvt0E4GsH0E.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1814423",
+    "name": "Kushpu",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-11-06"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1814423"
+   },
+   "modified": "",
+   "published": "2026-11-08",
+   "robots": "noindex,follow",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Kushpu (2026)</h1>\n<h2>Key facts</h2>\n<ul><li>Release date: 6 November 2026</li><li>Director: Sujan Aromal</li><li>Genres: Comedy, Horror</li><li>Original language: Malayalam</li><li>Spoken languages: Malayalam</li><li>Production countries: India</li></ul>\n<h2>Top cast</h2>\n<ul><li>Jaffer Idukki</li><li>Dayyana Hameed</li><li>Anu Anandhan</li><li>Chithra Nair</li><li>Nirmal Palazhi</li><li>Shibu Laban</li></ul>\n</article>",
+   "t": "Kushpu (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
   },
   "movie:18823": {
    "d": "Clash of the Titans (2010): Adventure/Fantasy film. Story: Born of a god but raised as a man, Perseus is… See cast, budget $125M, and TMDB rating 5.9/10.",
@@ -2939,6 +3640,83 @@
    "t": "13 Minutes (2021) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2021"
   },
+  "movie:791523": {
+   "d": "Wildwood (2026): Animation/Adventure film. Story: Prue and her classmate Curtis are drawn into a… See cast, budget $100M, review 8.5/10, and TMDB rating 8.9/10.",
+   "img": "https://image.tmdb.org/t/p/w780/sl5NJ1vtyhP9Vr88bB4blULsJYp.jpg",
+   "industry": "world",
+   "k": "Wildwood, Wildwood movie, Wildwood cast, Wildwood story, Wildwood box office collection, Wildwood budget, Wildwood review, Wildwood rating, Wildwood release date, Wildwood trailer, Wildwood Animation, Wildwood Adventure, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Peyton Elizabeth Lee"
+     },
+     {
+      "@type": "Person",
+      "name": "Jacob Tremblay"
+     },
+     {
+      "@type": "Person",
+      "name": "Carey Mulligan"
+     },
+     {
+      "@type": "Person",
+      "name": "Mahershala Ali"
+     },
+     {
+      "@type": "Person",
+      "name": "Richard E. Grant"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 54,
+     "ratingValue": 8.9,
+     "worstRating": 0
+    },
+    "description": "Wildwood (2026): Animation/Adventure film. Story: Prue and her classmate Curtis are drawn into a… See cast, budget $100M, review 8.5/10, and TMDB rating 8.9/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Travis Knight"
+     }
+    ],
+    "duration": "PT132M",
+    "genre": [
+     "Animation",
+     "Adventure"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/sl5NJ1vtyhP9Vr88bB4blULsJYp.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=791523",
+    "name": "Wildwood",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-10-19"
+    },
+    "review": {
+     "@type": "Review",
+     "author": {
+      "@type": "Organization",
+      "name": "FlickAtlas"
+     },
+     "reviewBody": "Wildwood is a triumphant stop-motion epic from Laika that delivers a gorgeous and magical fairy tale experience for preteens, teens, and adults alike. Despite minor pacing or tone quirks in its lengthy runtime, its breathtaking craftsmanship and dense fantasy world make it a recommended modern classic.",
+     "reviewRating": {
+      "@type": "Rating",
+      "bestRating": 10,
+      "ratingValue": 8.5
+     }
+    },
+    "url": "https://flickatlas.co.uk/movie?id=791523"
+   },
+   "modified": "",
+   "published": "2026-10-26",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Wildwood (2026)</h1>\n<p class=\"ssr-lead\">Prue and her classmate Curtis are drawn into a magical forest filled with enchanted creatures, loyal allies, and formidable adversaries as they embark on a desperate quest to rescue Prue&#x27;s abducted baby brother from a murder of crows led by a mysterious woman named Alexandra.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 19 October 2026</li><li>Runtime: 132 minutes</li><li>Director: Travis Knight</li><li>Genres: Animation, Adventure, Fantasy</li><li>Tagline: How far would you go for those you love?</li><li>Certification: PG-13</li><li>Original language: English</li><li>Spoken languages: English</li><li>Production countries: United States</li><li>Official trailer: Final Trailer</li><li>Budget: $100M</li><li>TMDB rating: 8.9/10 (54 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Peyton Elizabeth Lee as Prue McKeel (voice)</li><li>Jacob Tremblay as Curtis Mehlberg (voice)</li><li>Carey Mulligan as Alexandra (voice)</li><li>Mahershala Ali as Brenden (voice)</li><li>Richard E. Grant as Owl Rex (voice)</li><li>Angela Bassett as The General (voice)</li><li>Awkwafina as Septima (voice)</li><li>Amandla Stenberg as Niamh (voice)</li><li>Tom Waits as Maxim (voice)</li><li>Charlie Day as Dmitri (voice)</li></ul>\n<h2>FlickAtlas review</h2>\n<p>Overall: 8.5/10.</p>\n<ul><li>Action &amp; Cinematography: 8.5/10</li><li>Comedy &amp; Entertainment: 8/10</li><li>Direction: 9/10</li><li>Music &amp; BGM: 7.5/10</li><li>Performances: 8.5/10</li><li>Story &amp; Screenplay: 8.5/10</li></ul>\n<h3>Story &amp; Plot</h3>\n<p>Prue and her classmate Curtis are drawn into a magical forest known as the Impassable Wilderness on a desperate quest. They must rescue Prue&#x27;s abducted baby brother, who was whisked away by a murder of crows led by a mysterious woman named Alexandra. Along the way, the duo encounters enchanted creatures, loyal allies, and formidable adversaries in a dense fairy tale world.</p>\n<h3>Comedy &amp; Entertainment</h3>\n<p>The film functions partly as a comedy alongside being a horror movie, coming-of-age drama, and fantasy adventure. Reviewers note that for the most part, the humor lands and provides entertaining moments that balance out the darker, more intense elements of the story.</p>\n<h3>Performances &amp; Direction</h3>\n<p>The cast features Peyton Elizabeth Lee as the independent seventh grader Prue and Jacob Tremblay as a nervous classmate named Curtis, supported by Carey Mulligan, Mahershala Ali, and Angela Bassett. Their voice acting brings life to the characters as they navigate the dangers of the magical forest.</p>\n<h3>Strengths</h3>\n<ul><li>dazzling stop-motion animation</li><li>rich lore and grand fantasy adventure</li><li>stunning craft and artistry</li><li>engrossing and magical tone</li></ul>\n<h3>Weaknesses</h3>\n<p>The sprawling 132-minute runtime carries some narrative risks, with a reviewer noting a subjective nitpick such as an oddly upbeat music cue during an objectively terrifying moment. Additionally, the substantial amount of violence, bloodshed, and character deaths means it may not suit the youngest viewers.</p>\n<h3>Final verdict</h3>\n<p>Wildwood is a triumphant stop-motion epic from Laika that delivers a gorgeous and magical fairy tale experience for preteens, teens, and adults alike. Despite minor pacing or tone quirks in its lengthy runtime, its breathtaking craftsmanship and dense fantasy world make it a recommended modern classic.</p>\n</article>",
+   "t": "Wildwood (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
+  },
   "movie:808023": {
    "d": "The Virtuoso (2021): Thriller/Crime film. Story: Danger, deception and murder descend upon a sleepy… See cast and TMDB rating 5.9/10.",
    "img": "https://image.tmdb.org/t/p/w780/aSglK0vFI50etQENUq4EIcwfoMR.jpg",
@@ -3428,6 +4206,61 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>The Love Boat (1977)</h1>\n<p class=\"ssr-lead\">Passengers who search for romantic nights aboard a beautiful ship travelling to tropical or mysterious countries, decide to pass their vacation aboard the &quot;Love Boat&quot;, where Gopher, Dr. Bricker, Isaac, Julie, and Captain Stubing try their best to please them, and sometimes help them fall in love. Things are not always so easy, but in the end, love wins.</p>\n<h2>Key facts</h2>\n<ul><li>First air date: 24 September 1977</li><li>Seasons: 10 · Episodes: 251</li><li>Created by: Aaron Spelling, Wilford Lloyd Baumes</li><li>Genres: Drama, Comedy</li><li>Tagline: You Say You Can&#x27;t Score on Shore? On This Cruise... You Can&#x27;t Lose!</li><li>Certification: TV-G</li><li>Original language: English</li><li>Spoken languages: English</li><li>Production countries: United States</li><li>Network: ABC</li><li>Episode runtime: 48 minutes</li><li>TMDB rating: 6.2/10 (208 votes)</li><li>Status: Ended</li></ul>\n<h2>Top cast</h2>\n<ul><li>Gavin MacLeod as Merril Stubing</li><li>Bernie Kopell as Adam Bricker</li><li>Ted Lange as Isaac Washington</li><li>Lauren Tewes as Julie McCoy</li><li>Jill Whelan as Vicki Stubing</li><li>Ted McGinley as Ashley Covington Evans</li><li>Marion Ross as Emily Stubing</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Paramount Plus Premium, Paramount Plus Essential, Paramount Plus Apple TV channel, Paramount+ Amazon Channel, Paramount+ Roku Premium Channel, REELZ+ Amazon Channel</li></ul>\n<h2>Seasons</h2>\n<ul><li>Season 1 (25 episodes, 24 September 1977)</li><li>Season 2 (27 episodes, 16 September 1978)</li><li>Season 3 (28 episodes, 15 September 1979)</li><li>Season 4 (28 episodes, 25 October 1980)</li><li>Season 5 (31 episodes, 10 October 1981)</li><li>Season 6 (29 episodes, 2 October 1982)</li><li>Season 7 (27 episodes, 1 October 1983)</li><li>Season 8 (27 episodes, 22 September 1984)</li><li>Season 9 (25 episodes, 28 September 1985)</li><li>Season 10 (4 episodes, 21 November 1986)</li></ul>\n</article>",
    "t": "The Love Boat (1977) — Seasons, Episodes, Cast & Story | FlickAtlas",
    "year": "1977"
+  },
+  "tv:249023": {
+   "d": "North of North (2025) is a Comedy TV series. Explore its story: A young Inuk woman wants to build a new future for…, cast, 2 seasons, and 16 episodes.",
+   "img": "https://image.tmdb.org/t/p/w780/sDxHU2H98qa7DSpQ0mylVNlRj7X.jpg",
+   "industry": "world",
+   "k": "North of North, North of North TV series, North of North cast, North of North story, North of North seasons, North of North episodes, North of North season 2, North of North 16 episodes, North of North first air date, North of North trailer, North of North Comedy, World Cinema TV series, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "TVSeries",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Anna Lambe"
+     },
+     {
+      "@type": "Person",
+      "name": "Maika Harper"
+     },
+     {
+      "@type": "Person",
+      "name": "Braeden Clarke"
+     },
+     {
+      "@type": "Person",
+      "name": "Zorga Qaunaq"
+     },
+     {
+      "@type": "Person",
+      "name": "Bailey Poching"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 57,
+     "ratingValue": 6.8,
+     "worstRating": 0
+    },
+    "description": "North of North (2025) is a Comedy TV series. Explore its story: A young Inuk woman wants to build a new future for…, cast, 2 seasons, and 16 episodes.",
+    "genre": [
+     "Comedy"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/sDxHU2H98qa7DSpQ0mylVNlRj7X.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/show?id=249023",
+    "name": "North of North",
+    "numberOfEpisodes": 16,
+    "numberOfSeasons": 2,
+    "startDate": "2025-01-07",
+    "url": "https://flickatlas.co.uk/show?id=249023"
+   },
+   "modified": "",
+   "published": "2026-11-05",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>North of North (2025)</h1>\n<p class=\"ssr-lead\">A young Inuk woman wants to build a new future for herself after a spontaneous and extremely public exit from her marriage. It won&#x27;t be easy in a small Arctic town where everybody knows your business.</p>\n<h2>Key facts</h2>\n<ul><li>First air date: 7 January 2025</li><li>Seasons: 2 · Episodes: 16</li><li>Created by: Stacey Aglok MacDonald, Alethea Arnaquq-Baril</li><li>Genres: Comedy</li><li>Tagline: Cold town. Hot mess.</li><li>Certification: 14+</li><li>Original language: English</li><li>Spoken languages: IU, English</li><li>Production countries: Canada</li><li>Network: CBC Television, Aboriginal Peoples Television Network</li><li>Official trailer: Official Netflix Trailer</li><li>TMDB rating: 6.8/10 (57 votes)</li><li>Status: Returning Series</li></ul>\n<h2>Top cast</h2>\n<ul><li>Anna Lambe as Siaja</li><li>Maika Harper as Neevee</li><li>Braeden Clarke as Kuuk</li><li>Zorga Qaunaq as Millie</li><li>Bailey Poching as Colin</li><li>Jay Ryan as Alistair</li><li>Mary Lynn Rajskub as Helen</li><li>Keira Cooper as Bun</li><li>Nutaaq Doreen Simmonds as Elisapee</li><li>Taylor Hickson as Alexis</li></ul>\n<h2>Seasons</h2>\n<ul><li>Season 1 (8 episodes, 7 January 2025)</li><li>Season 2 (8 episodes, 8 September 2026)</li></ul>\n<h2>Where to watch</h2>\n<ul><li>Streaming on Netflix (IN)</li></ul>\n</article>",
+   "t": "North of North (2025) — Seasons, Episodes, Cast & Story | FlickAtlas",
+   "year": "2025"
   },
   "tv:250923": {
    "d": "Nobody Wants This (2024) is a Comedy and Drama TV series. Explore its story: An agnostic sex podcaster and a newly single rabbi…, cast, and 3 seasons.",
@@ -3977,6 +4810,56 @@
    "t": "Girl Taken (2026) — Seasons, Episodes, Cast & Story | FlickAtlas",
    "year": "2026"
   },
+  "tv:300523": {
+   "d": "The Blue Road (2026) is a Crime and Mystery TV series. Explore its story: Two detectives join forces when brutal murders and…, cast, 1 season, and 8 episodes.",
+   "img": "https://image.tmdb.org/t/p/w780/7ojpD6ARKYhRxnsjzMIrorOfj4T.jpg",
+   "industry": "world",
+   "k": "The Blue Road, The Blue Road TV series, The Blue Road cast, The Blue Road story, The Blue Road seasons, The Blue Road episodes, The Blue Road season 1, The Blue Road 8 episodes, The Blue Road first air date, The Blue Road trailer, The Blue Road Crime, The Blue Road Mystery, World Cinema TV series, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "TVSeries",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Son Suk-ku"
+     },
+     {
+      "@type": "Person",
+      "name": "Eita Nagayama"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 3,
+     "ratingValue": 7.7,
+     "worstRating": 0
+    },
+    "description": "The Blue Road (2026) is a Crime and Mystery TV series. Explore its story: Two detectives join forces when brutal murders and…, cast, 1 season, and 8 episodes.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Han Jun-hee"
+     }
+    ],
+    "genre": [
+     "Crime",
+     "Mystery"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/7ojpD6ARKYhRxnsjzMIrorOfj4T.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/show?id=300523",
+    "name": "The Blue Road",
+    "numberOfEpisodes": 8,
+    "numberOfSeasons": 1,
+    "startDate": "2026-11-20",
+    "url": "https://flickatlas.co.uk/show?id=300523"
+   },
+   "modified": "",
+   "published": "2026-11-20",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>The Blue Road (2026)</h1>\n<p class=\"ssr-lead\">Two detectives join forces when brutal murders and cryptic messages surface across borders — but the deadly truth lurks dangerously close.</p>\n<h2>Key facts</h2>\n<ul><li>First air date: 20 November 2026</li><li>Seasons: 1 · Episodes: 8</li><li>Created by: Han Jun-hee, Jo Yoo-jin</li><li>Director: Han Jun-hee</li><li>Genres: Crime, Mystery</li><li>Tagline: Brutal murders, across borders, the twisted truth awaits.</li><li>Certification: TV-MA</li><li>Original language: Korean</li><li>Spoken languages: Korean, Japanese</li><li>Production countries: South Korea</li><li>Network: Netflix</li><li>Official trailer: Official Trailer [ENG SUB]</li><li>TMDB rating: 7.7/10 (3 votes)</li><li>Status: Ended</li></ul>\n<h2>Top cast</h2>\n<ul><li>Son Suk-ku as Kim Seok</li><li>Eita Nagayama as Inose</li></ul>\n<h2>Seasons</h2>\n<ul><li>Season 1 (8 episodes, 20 November 2026)</li></ul>\n<h2>Where to watch</h2>\n<ul><li>Streaming on Netflix (IN)</li></ul>\n</article>",
+   "t": "The Blue Road (2026) — Seasons, Episodes, Cast & Story | FlickAtlas",
+   "year": "2026"
+  },
   "tv:302723": {
    "d": "Just Alice (2025) is a Drama and Comedy TV series. Explore its story: Torn between two loves, Alicia secretly marries both…, cast, 1 season, and 19 episodes.",
    "img": "https://image.tmdb.org/t/p/w780/xHo8DmcIoYSc27O7CL4Z7Ysp5Tz.jpg",
@@ -4143,6 +5026,61 @@
    "published": "2026-11-14",
    "ssr": "<article class=\"ssr-facts\">\n<h1>Reality Check: Inside America&#x27;s Next Top Model (2026)</h1>\n<p class=\"ssr-lead\">What started as a glamorous launchpad for aspiring models became a pop-culture juggernaut defined by explosive drama, public meltdowns, and controversies that still fuel viral moments today.</p>\n<h2>Key facts</h2>\n<ul><li>First air date: 16 February 2026</li><li>Seasons: 1 · Episodes: 3</li><li>Genres: Reality, Documentary</li><li>Tagline: The definitive documentary about America&#x27;s Next Top Model.</li><li>Certification: TV-MA</li><li>Original language: English</li><li>Spoken languages: English</li><li>Production countries: United States</li><li>Network: Netflix</li><li>Official trailer: Trailer</li><li>TMDB rating: 6.9/10 (21 votes)</li><li>Status: Ended</li></ul>\n<h2>Top cast</h2>\n<ul><li>Tyra Banks as Self - Host &amp; Creator, ANTM</li><li>Jay Manuel as Self - Creative Director &amp; Judge, ANTM</li><li>J. Alexander as Self - Runway Coach &amp; Judge, ANTM</li><li>Nigel Barker as Self - Photographer &amp; Judge, ANTM</li><li>Ken Mok as Self - Executive Producer, ANTM</li><li>Shandi Sullivan as Self - Cycle #2 Contestant</li><li>Giselle Samson as Self - Cycle #1 Contestant</li><li>Shannon Stewart as Self - Cycle #1 Contestant</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Netflix</li></ul>\n<h2>Seasons</h2>\n<ul><li>Season 1 (3 episodes, 16 February 2026)</li></ul>\n</article>",
    "t": "Reality Check: Inside America's Next Top Model (2026) — Seasons, Episodes, Cast & Story | FlickAtlas",
+   "year": "2026"
+  },
+  "tv:315323": {
+   "d": "The Hidden Shadows (2026) is a Drama and Soap TV series. Explore its story: After finding her twin sister Mutta’s body, Munin…, cast, 1 season, and 16 episodes.",
+   "img": "https://image.tmdb.org/t/p/w780/92jxBvqGSNpjGDaV0kX2iQTTgMh.jpg",
+   "industry": "world",
+   "k": "The Hidden Shadows, The Hidden Shadows TV series, The Hidden Shadows cast, The Hidden Shadows story, The Hidden Shadows seasons, The Hidden Shadows episodes, The Hidden Shadows season 1, The Hidden Shadows 16 episodes, The Hidden Shadows first air date, The Hidden Shadows Drama, The Hidden Shadows Soap, World Cinema TV series, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "TVSeries",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Pimchanok Luevisadpaibul"
+     },
+     {
+      "@type": "Person",
+      "name": "Jespipat Tilapornputt"
+     },
+     {
+      "@type": "Person",
+      "name": "Natthawut Skidjai"
+     },
+     {
+      "@type": "Person",
+      "name": "Pornchita Na Songkhla"
+     },
+     {
+      "@type": "Person",
+      "name": "Pornsroung Rouyruen"
+     }
+    ],
+    "description": "The Hidden Shadows (2026) is a Drama and Soap TV series. Explore its story: After finding her twin sister Mutta’s body, Munin…, cast, 1 season, and 16 episodes.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Ekkasit Trakulkasemsuk"
+     }
+    ],
+    "genre": [
+     "Drama",
+     "Soap"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/92jxBvqGSNpjGDaV0kX2iQTTgMh.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/show?id=315323",
+    "name": "The Hidden Shadows",
+    "numberOfEpisodes": 16,
+    "numberOfSeasons": 1,
+    "startDate": "2026-10-23",
+    "url": "https://flickatlas.co.uk/show?id=315323"
+   },
+   "modified": "",
+   "published": "2026-11-22",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>The Hidden Shadows (2026)</h1>\n<p class=\"ssr-lead\">After finding her twin sister Mutta’s body, Munin assumes her identity to uncover the truth behind her death and seek revenge. She targets powerful minister Nopnopha and her family, causing scandals that destroy careers and relationships.</p>\n<h2>Key facts</h2>\n<ul><li>First air date: 23 October 2026</li><li>Seasons: 1 · Episodes: 16</li><li>Director: Ekkasit Trakulkasemsuk</li><li>Genres: Drama, Soap</li><li>Original language: TH</li><li>Spoken languages: TH</li><li>Production countries: Thailand</li><li>Network: ONE 31, oneD</li><li>Status: Returning Series</li></ul>\n<h2>Top cast</h2>\n<ul><li>Pimchanok Luevisadpaibul as Moonin / Mootha</li><li>Jespipat Tilapornputt as Veekit</li><li>Natthawut Skidjai as Janepope</li><li>Pornchita Na Songkhla as Napa</li><li>Pornsroung Rouyruen as Hong</li><li>Anna Sueangam-iam as Jolene</li><li>Worawat Boonchuen as Oshi</li><li>Boonthong Hanchanang as Toei</li><li>Ninew Phetdankaeo as Cha-am</li><li>Rusameekae Fagerlund as Sak</li></ul>\n<h2>Seasons</h2>\n<ul><li>Season 1 (16 episodes, 23 October 2026)</li></ul>\n</article>",
+   "t": "The Hidden Shadows (2026) — Seasons, Episodes, Cast & Story | FlickAtlas",
    "year": "2026"
   },
   "tv:33623": {
@@ -4490,6 +5428,62 @@
    "published": "2026-11-14",
    "ssr": "<article class=\"ssr-facts\">\n<h1>Dark (2017)</h1>\n<p class=\"ssr-lead\">A missing child sets four families on a frantic hunt for answers as they unearth a mind-bending mystery that spans three generations.</p>\n<h2>Key facts</h2>\n<ul><li>First air date: 1 December 2017</li><li>Seasons: 3 · Episodes: 26</li><li>Created by: Baran bo Odar, Jantje Friese</li><li>Genres: Crime, Drama, Sci-Fi &amp; Fantasy, Mystery</li><li>Tagline: Everything is connected.</li><li>Certification: A</li><li>Original language: German</li><li>Spoken languages: German</li><li>Production countries: Germany</li><li>Network: Netflix</li><li>Official trailer: Teaser [Subtitled]</li><li>TMDB rating: 8.4/10 (7998 votes)</li><li>Status: Ended</li></ul>\n<h2>Top cast</h2>\n<ul><li>Louis Hofmann as Jonas Kahnwald</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Netflix</li></ul>\n<h2>Seasons</h2>\n<ul><li>Specials (5 episodes, 11 December 2017)</li><li>Season 1 (10 episodes, 1 December 2017)</li><li>Season 2 (8 episodes, 21 June 2019)</li><li>Season 3 (8 episodes, 27 June 2020)</li></ul>\n</article>",
    "t": "Dark (2017) — Seasons, Episodes, Cast & Story | FlickAtlas",
+   "year": "2017"
+  },
+  "tv:73223": {
+   "d": "Black Clover (2017) is an Animation and Action & Adventure TV series. Explore its story: Asta and Yuno are two orphans who want the same…, cast, and 2 seasons.",
+   "img": "https://image.tmdb.org/t/p/w780/qu9epTZh29fGUkY7ZYc9PVsv0Ig.jpg",
+   "industry": "world",
+   "k": "Black Clover, Black Clover TV series, Black Clover cast, Black Clover story, Black Clover seasons, Black Clover episodes, Black Clover season 2, Black Clover 196 episodes, Black Clover first air date, Black Clover trailer, Black Clover Animation, Black Clover Action & Adventure, World Cinema TV series, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "TVSeries",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Gakuto Kajiwara"
+     },
+     {
+      "@type": "Person",
+      "name": "Nobunaga Shimazaki"
+     },
+     {
+      "@type": "Person",
+      "name": "Kana Yuuki"
+     },
+     {
+      "@type": "Person",
+      "name": "Junichi Suwabe"
+     },
+     {
+      "@type": "Person",
+      "name": "Genki Muro"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 2294,
+     "ratingValue": 8.5,
+     "worstRating": 0
+    },
+    "description": "Black Clover (2017) is an Animation and Action & Adventure TV series. Explore its story: Asta and Yuno are two orphans who want the same…, cast, and 2 seasons.",
+    "genre": [
+     "Animation",
+     "Action & Adventure"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/qu9epTZh29fGUkY7ZYc9PVsv0Ig.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/show?id=73223",
+    "name": "Black Clover",
+    "numberOfEpisodes": 196,
+    "numberOfSeasons": 2,
+    "startDate": "2017-10-03",
+    "url": "https://flickatlas.co.uk/show?id=73223"
+   },
+   "modified": "",
+   "published": "2026-11-05",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Black Clover (2017)</h1>\n<p class=\"ssr-lead\">Asta and Yuno are two orphans who want the same thing: to become the Wizard King. Locked in a friendly rivalry, they work hard towards their goal. While Yuno excels at magic, Asta has a problem uncommon in this world: he has no powers! But, on the day they receive their grimoires, they surprise everyone. To reach their goal, they’ll each find their own path to greatness—with or without magic.</p>\n<h2>Key facts</h2>\n<ul><li>First air date: 3 October 2017</li><li>Seasons: 2 · Episodes: 196</li><li>Genres: Animation, Action &amp; Adventure, Sci-Fi &amp; Fantasy</li><li>Certification: U/A 13+</li><li>Original language: Japanese</li><li>Spoken languages: Japanese</li><li>Production countries: Japan</li><li>Network: TV Tokyo, TV Aichi, TVQ, TV Osaka, TVh, TSC</li><li>Episode runtime: 24 minutes</li><li>Official trailer: Black Clover Season 1 - Official Trailer</li><li>TMDB rating: 8.5/10 (2294 votes)</li><li>Status: Returning Series</li></ul>\n<h2>Top cast</h2>\n<ul><li>Gakuto Kajiwara as Asta (voice)</li><li>Nobunaga Shimazaki as Yuno (voice)</li><li>Kana Yuuki as Noelle Silva (voice)</li><li>Junichi Suwabe as Yami Sukehiro (voice)</li><li>Genki Muro as Magna Swing (voice)</li><li>Ayumu Murase as Luck Voltia (voice)</li><li>Jun Fukuyama as Finral Roulacase (voice)</li><li>Satoshi Hino as Gauche Adlai (voice)</li><li>Kiyono Yasuno as Charmy Papittoson (voice)</li><li>Nana Mizuki as Vanessa Enoteca (voice)</li></ul>\n<h2>Seasons</h2>\n<ul><li>Specials (2 episodes, 27 November 2016)</li><li>Season 1 (170 episodes, 3 October 2017)</li><li>Season 2 (26 episodes, 3 October 2026)</li></ul>\n</article>",
+   "t": "Black Clover (2017) — Seasons, Episodes, Cast & Story | FlickAtlas",
    "year": "2017"
   },
   "tv:81723": {

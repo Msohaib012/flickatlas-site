@@ -1,6 +1,6 @@
 {
  "bucket": "69",
- "count": 69,
+ "count": 85,
  "titles": {
   "movie:10069": {
    "d": "Stay Alive (2006): Horror film. Story: After the brutal death of a friend, a group of… See cast, budget $9M, TMDB rating 5.8/10, and release date 24 March 2006.",
@@ -513,6 +513,147 @@
    "t": "Parallel Tales (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2026"
   },
+  "movie:1165369": {
+   "d": "De Gaulle: Liberté (2026): History/Drama film. Story: Part two of a two-part biopic following French army… See cast, budget $25M, and TMDB rating 7.8/10.",
+   "img": "https://image.tmdb.org/t/p/w780/gU93hJIAVsx088tBVumH3Z0jPVM.jpg",
+   "industry": "world",
+   "k": "De Gaulle: Liberté, De Gaulle: Liberté movie, De Gaulle: Liberté cast, De Gaulle: Liberté story, De Gaulle: Liberté box office collection, De Gaulle: Liberté budget, De Gaulle: Liberté review, De Gaulle: Liberté rating, De Gaulle: Liberté release date, De Gaulle: Liberté trailer, De Gaulle: Liberté History, De Gaulle: Liberté Drama, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Simon Abkarian"
+     },
+     {
+      "@type": "Person",
+      "name": "Niels Schneider"
+     },
+     {
+      "@type": "Person",
+      "name": "Thierry Lhermitte"
+     },
+     {
+      "@type": "Person",
+      "name": "Karim Leklou"
+     },
+     {
+      "@type": "Person",
+      "name": "Anamaria Vartolomei"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 224,
+     "ratingValue": 7.8,
+     "worstRating": 0
+    },
+    "description": "De Gaulle: Liberté (2026): History/Drama film. Story: Part two of a two-part biopic following French army… See cast, budget $25M, and TMDB rating 7.8/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Antonin Baudry"
+     }
+    ],
+    "duration": "PT159M",
+    "genre": [
+     "History",
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/gU93hJIAVsx088tBVumH3Z0jPVM.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1165369",
+    "name": "De Gaulle: Liberté",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-06-26"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1165369"
+   },
+   "modified": "",
+   "published": "2026-11-04",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>De Gaulle: Liberté (2026)</h1>\n<p class=\"ssr-lead\">Part two of a two-part biopic following French army officer Charles De Gaulle&#x27;s life and political commitment between 1940 and 1945, and trace his development towards a political career.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 26 June 2026</li><li>Runtime: 159 minutes</li><li>Director: Antonin Baudry</li><li>Genres: History, Drama, War</li><li>Certification: NR</li><li>Original language: French</li><li>Spoken languages: English, French</li><li>Production countries: France, BE, United States</li><li>Official trailer: Official Trailer [Subtitled]</li><li>Budget: $25M</li><li>TMDB rating: 7.8/10 (224 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Simon Abkarian as Charles de Gaulle</li><li>Niels Schneider as Général Leclerc</li><li>Thierry Lhermitte as Henri Giraud</li><li>Karim Leklou as Blazej</li><li>Anamaria Vartolomei as Livia</li><li>Simon Russell Beale as Winston Churchill</li><li>Kacey Mottet Klein as Courcel</li><li>Tom Mison as Anthony Eden</li><li>Loïc Corbery as René Pleven</li><li>Stéphane Varupenne as Georges Bidault</li></ul>\n</article>",
+   "t": "De Gaulle: Liberté (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
+  },
+  "movie:1232569": {
+   "d": "Pinocchio: Unstrung (2026): Horror/Fantasy film. Story: Influenced by a sinister Cricket and created by… See cast, budget $500.0k, and review 5.5/10.",
+   "img": "https://image.tmdb.org/t/p/w780/7RsPdXLDNugDIlwXPVeeprNfMx.jpg",
+   "industry": "world",
+   "k": "Pinocchio: Unstrung, Pinocchio: Unstrung movie, Pinocchio: Unstrung cast, Pinocchio: Unstrung story, Pinocchio: Unstrung box office collection, Pinocchio: Unstrung budget, Pinocchio: Unstrung review, Pinocchio: Unstrung rating, Pinocchio: Unstrung release date, Pinocchio: Unstrung trailer, Pinocchio: Unstrung Horror, Pinocchio: Unstrung Fantasy, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Jude Evan Lloyd"
+     },
+     {
+      "@type": "Person",
+      "name": "Cameron Bell"
+     },
+     {
+      "@type": "Person",
+      "name": "Richard Brake"
+     },
+     {
+      "@type": "Person",
+      "name": "Jessica Balmer"
+     },
+     {
+      "@type": "Person",
+      "name": "Jack Art Gray"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 153,
+     "ratingValue": 6.5,
+     "worstRating": 0
+    },
+    "description": "Pinocchio: Unstrung (2026): Horror/Fantasy film. Story: Influenced by a sinister Cricket and created by… See cast, budget $500.0k, and review 5.5/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Rhys Frake-Waterfield"
+     }
+    ],
+    "duration": "PT82M",
+    "genre": [
+     "Horror",
+     "Fantasy"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/7RsPdXLDNugDIlwXPVeeprNfMx.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1232569",
+    "name": "Pinocchio: Unstrung",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-07-22"
+    },
+    "review": {
+     "@type": "Review",
+     "author": {
+      "@type": "Organization",
+      "name": "FlickAtlas"
+     },
+     "reviewBody": "Pinocchio: Unstrung is a surprisingly effective horror adaptation for fans of trashy, low-budget slashers. While thin on narrative and somewhat rushed, its gross-out practical effects and killer puppetry make it a step above similar copyright-expiration cash-ins. Recommended for viewers looking for a gruesome, darkly hilarious horror romp.",
+     "reviewRating": {
+      "@type": "Rating",
+      "bestRating": 10,
+      "ratingValue": 5.5
+     }
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1232569"
+   },
+   "modified": "",
+   "published": "2026-10-31",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Pinocchio: Unstrung (2026)</h1>\n<p class=\"ssr-lead\">Influenced by a sinister Cricket and created by Geppetto, Pinocchio launches a violent crusade to carve himself into a real boy like his brother James, one piece at a time.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 22 July 2026</li><li>Runtime: 82 minutes</li><li>Director: Rhys Frake-Waterfield</li><li>Genres: Horror, Fantasy, Mystery</li><li>Tagline: He has no strings to hold him back now.</li><li>Certification: R</li><li>Original language: English</li><li>Spoken languages: English, UK</li><li>Production countries: United Kingdom</li><li>Official trailer: Trailer</li><li>Budget: $500.0k</li><li>TMDB rating: 6.5/10 (153 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Jude Evan Lloyd as Pinocchio (voice)</li><li>Cameron Bell as James</li><li>Richard Brake as Geppetto</li><li>Jessica Balmer as Mia</li><li>Jack Art Gray as Dudley</li><li>Robert Englund as Cricket (voice)</li><li>Emma Tate as Woodmother (voice)</li><li>Toni Olabanji as Trey</li><li>Luca Marandola as Logan</li><li>Karolina Ugrenyuk as Amanda</li></ul>\n<h2>FlickAtlas review</h2>\n<p>Overall: 5.5/10.</p>\n<ul><li>Action &amp; Cinematography: 6/10</li><li>Comedy &amp; Entertainment: 5.5/10</li><li>Direction: 5.5/10</li><li>Music &amp; BGM: 6/10</li><li>Performances: 6.5/10</li><li>Story &amp; Screenplay: 4.5/10</li></ul>\n<h3>Story &amp; Plot</h3>\n<p>Created by inventor Geppetto and influenced by a sinister Cricket voiced by Robert Englund, Pinocchio embarks on a violent crusade to carve himself into a real boy like his brother James, one piece at a time. The setting takes place in an English countryside estate where Geppetto lives with his preteen grandson James. The public-domain slasher horror twists a beloved children&#x27;s classic into a sick serial killer story.</p>\n<h3>Comedy &amp; Entertainment</h3>\n<p>The film leans into campy absurdity, balancing brutal gore with a darkly hilarious horror romp that twists a children&#x27;s classic. It offers a low-budget, high-concept entertainment value relying on its bizarre premise rather than traditional witty banter. Reviewers note its campy nature, though it remains a twisted kidlit spin.</p>\n<h3>Performances &amp; Direction</h3>\n<p>Richard Brake brings real menace as the inventor Geppetto, anchoring the film with a strong screen presence. Robert Englund delivers a fun, weird touch voicing the sinister Cricket. Cameron Bell appears as James, rounding out the core cast alongside Jude Evan Lloyd, Jessica Balmer, and Jack Art Gray.</p>\n<h3>Strengths</h3>\n<ul><li>impressive practical effects</li><li>killer puppetry</li><li>strong atmosphere</li><li>Richard Brake&#x27;s menacing performance</li><li>unsettling kill concept</li></ul>\n<h3>Weaknesses</h3>\n<p>The film is narratively anemic and thin on story, feeling clearly rushed at 82 minutes. It is never especially frightening, with jump scares that are oddly muffled, and it suffers from a familiar setup as a public-domain horror cash-in.</p>\n<h3>Final verdict</h3>\n<p>Pinocchio: Unstrung is a surprisingly effective horror adaptation for fans of trashy, low-budget slashers. While thin on narrative and somewhat rushed, its gross-out practical effects and killer puppetry make it a step above similar copyright-expiration cash-ins. Recommended for viewers looking for a gruesome, darkly hilarious horror romp.</p>\n<h2>Where to watch</h2>\n<ul><li>Streaming on Amazon Prime Video (IN)</li><li>Streaming on Amazon Prime Video with Ads (IN)</li></ul>\n</article>",
+   "t": "Pinocchio: Unstrung (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
+  },
   "movie:1285669": {
    "d": "LifeHack (2026): Crime/Thriller film. Story: A thrill-seeking gang of teen hackers must pull off… See cast, TMDB rating 7.1/10, and release date 11 June 2026.",
    "img": "https://image.tmdb.org/t/p/w780/k13za3wUhd8uejKJ2v9XQsRjxaw.jpg",
@@ -576,6 +717,237 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>LifeHack (2026)</h1>\n<p class=\"ssr-lead\">A thrill-seeking gang of teen hackers must pull off their riskiest heist yet when a woman blackmails them into targeting her crypto-billionaire father.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 11 June 2026</li><li>Runtime: 97 minutes</li><li>Director: Ronan Corrigan</li><li>Genres: Crime, Thriller</li><li>Tagline: They&#x27;re coming for your coin.</li><li>Certification: R</li><li>Original language: English</li><li>Spoken languages: English</li><li>Production countries: United Kingdom, United States</li><li>Official trailer: Official Trailer</li><li>TMDB rating: 7.1/10 (31 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Georgie Farmer as Kyle Peters</li><li>Yasmin Finney as Alex</li><li>Roman Hayeck-Green as Sid Daniels</li><li>James Scholz as Petey Le</li><li>Jessica Reynolds as Lindsey Heard</li><li>Charlie Creed-Miles as Don Heard</li><li>Cael King as Sanjay</li><li>Jill Winternitz as Rachel Walker</li><li>Frances Katz as Maid</li><li>Boo Holmes as News Reporter</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Netflix, Netflix Standard with Ads</li><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home, FlixFling, Plex</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
    "t": "LifeHack (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2026"
+  },
+  "movie:1288069": {
+   "d": "Tenzing (2026): Drama/History film. Story: A determined man embarks on a high-stakes quest—and… See cast, review 7/10, and TMDB rating 8.3/10.",
+   "img": "https://image.tmdb.org/t/p/w780/9MdxBPjI58xkzA7RtKX9xRKvlZp.jpg",
+   "industry": "world",
+   "k": "Tenzing, Tenzing movie, Tenzing cast, Tenzing story, Tenzing box office collection, Tenzing budget, Tenzing review, Tenzing rating, Tenzing release date, Tenzing trailer, Tenzing Drama, Tenzing History, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Genden Phuntsok"
+     },
+     {
+      "@type": "Person",
+      "name": "Tom Hiddleston"
+     },
+     {
+      "@type": "Person",
+      "name": "Willem Dafoe"
+     },
+     {
+      "@type": "Person",
+      "name": "Samdrup Dorje Lama"
+     },
+     {
+      "@type": "Person",
+      "name": "Bhuchung Kata"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 225,
+     "ratingValue": 8.3,
+     "worstRating": 0
+    },
+    "description": "Tenzing (2026): Drama/History film. Story: A determined man embarks on a high-stakes quest—and… See cast, review 7/10, and TMDB rating 8.3/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Jennifer Peedom"
+     }
+    ],
+    "duration": "PT126M",
+    "genre": [
+     "Drama",
+     "History"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/9MdxBPjI58xkzA7RtKX9xRKvlZp.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1288069",
+    "name": "Tenzing",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-10-09"
+    },
+    "review": {
+     "@type": "Review",
+     "author": {
+      "@type": "Organization",
+      "name": "FlickAtlas"
+     },
+     "reviewBody": "Tenzing is a visually impressive and moving drama that successfully puts the audience right on the slopes of Mount Everest. While the script plays it safe and relies somewhat on familiar biographical tropes, its stunning location work and strong lead performance make it a recommended watch.",
+     "reviewRating": {
+      "@type": "Rating",
+      "bestRating": 10,
+      "ratingValue": 7.0
+     }
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1288069"
+   },
+   "modified": "",
+   "published": "2026-10-31",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Tenzing (2026)</h1>\n<p class=\"ssr-lead\">A determined man embarks on a high-stakes quest—and defies seemingly impossible odds—to fulfill his dream of being the first to reach the summit of Mount Everest.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 9 October 2026</li><li>Runtime: 126 minutes</li><li>Director: Jennifer Peedom</li><li>Genres: Drama, History</li><li>Tagline: The ascent that made history.</li><li>Certification: U/A 13+</li><li>Original language: English</li><li>Spoken languages: English, NE</li><li>Production countries: Australia, United Kingdom, United States</li><li>Official trailer: Official Trailer</li><li>TMDB rating: 8.3/10 (225 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Genden Phuntsok as Tenzing Norgay</li><li>Tom Hiddleston as Ed Hillary</li><li>Willem Dafoe as John Hunt</li><li>Samdrup Dorje Lama as Boy Tenzing (9 Yrs)</li><li>Bhuchung Kata as Sherpa</li><li>Johnny Flynn as George Mallory</li><li>Lhakpa Tsamchoe as Kinzom</li><li>Jampa Kalsang Tamang as Mingma</li><li>Elizabeth Blackmore as Mrs Ingram</li><li>Brandon McClelland as Mr Ingram</li></ul>\n<h2>FlickAtlas review</h2>\n<p>Overall: 7/10.</p>\n<ul><li>Action &amp; Cinematography: 7.5/10</li><li>Comedy &amp; Entertainment: 5/10</li><li>Direction: 8/10</li><li>Music &amp; BGM: 6.5/10</li><li>Performances: 7.5/10</li><li>Story &amp; Screenplay: 7/10</li></ul>\n<h3>Story &amp; Plot</h3>\n<p>A determined man embarks on a high-stakes quest to fulfill his dream of being the first to reach the summit of Mount Everest. The drama covers thirty years of Tenzing Norgay&#x27;s life, from his boyhood through key periods like meeting his future wife and fighting to join the historic expedition. Based on true events, the narrative tells the long-overdue story giving Tenzing and the Sherpa people their due.</p>\n<h3>Comedy &amp; Entertainment</h3>\n<p>As a biographical drama focused on historical mountain climbing and severe hardship, the film does not rely on traditional humor for its entertainment value. Instead, its engagement stems from the high-stakes quest, the tension of extreme survival, and the earnest unfolding of a real-life biography. The entertainment comes from witnessing the perilous journey and the determination of the characters against impossible odds.</p>\n<h3>Performances &amp; Direction</h3>\n<p>Genden Phuntsok leads the cast as Tenzing, playing the role with scrupulous honor and a will of iron that avoids mere subservience. The film also features supporting work from Samdrup Dorje Lama, Tom Hiddleston, Willem Dafoe, and Bhuchung Kata. Reviewers note that the film benefits from a strong cast that grounds the biographical narrative in genuine human emotion.</p>\n<h3>Strengths</h3>\n<ul><li>Incredible visuals and crisp 8K-like mountain shots</li><li>Immersive and authentic sound design</li><li>Strong and honorable lead performance by Genden Phuntsok</li><li>Long-overdue spotlight on Tenzing Norgay and the Sherpa people</li></ul>\n<h3>Weaknesses</h3>\n<p>Despite the strong cast and incredible visuals, the script plays everything far too safely and only ever hints at deeper underlying themes of colonization and prejudice. Additionally, the film flashes back a little too much to key periods of Tenzing&#x27;s life, interrupting the narrative flow.</p>\n<h3>Final verdict</h3>\n<p>Tenzing is a visually impressive and moving drama that successfully puts the audience right on the slopes of Mount Everest. While the script plays it safe and relies somewhat on familiar biographical tropes, its stunning location work and strong lead performance make it a recommended watch.</p>\n<h2>Where to watch</h2>\n<ul><li>Streaming on Apple TV (IN)</li><li>Streaming on Apple TV Amazon Channel (IN)</li></ul>\n</article>",
+   "t": "Tenzing (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
+  },
+  "movie:1392469": {
+   "d": "Cocktail 2 (2026): Romance/Comedy film. Story: A vacation in Sicily forces longtime partners Diya… See cast, budget $15.87M, and review 6/10.",
+   "img": "https://image.tmdb.org/t/p/w780/7CJQvCO8aNKEewAFw90qvQ7fr1T.jpg",
+   "industry": "bollywood",
+   "k": "Cocktail 2, Cocktail 2 movie, Cocktail 2 cast, Cocktail 2 story, Cocktail 2 box office collection, Cocktail 2 budget, Cocktail 2 review, Cocktail 2 rating, Cocktail 2 release date, Cocktail 2 Romance, Cocktail 2 Comedy, Indian movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Kriti Sanon"
+     },
+     {
+      "@type": "Person",
+      "name": "Shahid Kapoor"
+     },
+     {
+      "@type": "Person",
+      "name": "Rashmika Mandanna"
+     },
+     {
+      "@type": "Person",
+      "name": "Tiku Talsania"
+     },
+     {
+      "@type": "Person",
+      "name": "Neelu Kohli"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 40,
+     "ratingValue": 5.6,
+     "worstRating": 0
+    },
+    "description": "Cocktail 2 (2026): Romance/Comedy film. Story: A vacation in Sicily forces longtime partners Diya… See cast, budget $15.87M, and review 6/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Homi Adajania"
+     }
+    ],
+    "duration": "PT150M",
+    "genre": [
+     "Romance",
+     "Comedy"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/7CJQvCO8aNKEewAFw90qvQ7fr1T.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1392469",
+    "name": "Cocktail 2",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-06-19"
+    },
+    "review": {
+     "@type": "Review",
+     "author": {
+      "@type": "Organization",
+      "name": "FlickAtlas"
+     },
+     "reviewBody": "Cocktail 2 offers a breezy relationship drama set against the stunning backdrop of Sicily, anchored by strong performances from its star cast. However, it struggles with emotional depth and leans too heavily into melodrama and a messy love triangle. Watch it some day for the gorgeous locations and the lead performances, but temper your expectations.",
+     "reviewRating": {
+      "@type": "Rating",
+      "bestRating": 10,
+      "ratingValue": 6.0
+     }
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1392469"
+   },
+   "modified": "",
+   "published": "2026-10-30",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Cocktail 2 (2026)</h1>\n<p class=\"ssr-lead\">A vacation in Sicily forces longtime partners Diya and Kunal to question their love and commitment after they reunite with Diya&#x27;s old friend Ally.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 19 June 2026</li><li>Runtime: 150 minutes</li><li>Director: Homi Adajania</li><li>Genres: Romance, Comedy</li><li>Certification: A</li><li>Original language: Hindi</li><li>Spoken languages: Hindi</li><li>Production countries: India</li><li>Budget: $15.87M</li><li>TMDB rating: 5.6/10 (40 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Kriti Sanon as Ally</li><li>Shahid Kapoor as Kunal</li><li>Rashmika Mandanna as Diya</li><li>Tiku Talsania as Kunal&#x27;s Father</li><li>Neelu Kohli as Kunal&#x27;s Mother</li><li>Suparna Marwah as Diya&#x27;s Mother</li><li>Kanan Arunachalam as Diya&#x27;s Father</li><li>Mark Bennington as Eduardo</li><li>Nischay Malik as Aditya</li><li>Deepak Kalra as Rohit</li></ul>\n<h2>FlickAtlas review</h2>\n<p>Overall: 6/10.</p>\n<ul><li>Action &amp; Cinematography: 6/10</li><li>Comedy &amp; Entertainment: 5.5/10</li><li>Direction: 6/10</li><li>Music &amp; BGM: 6/10</li><li>Performances: 7/10</li><li>Story &amp; Screenplay: 5.5/10</li></ul>\n<h3>Story &amp; Plot</h3>\n<p>A vacation in Sicily forces longtime partners Diya and Kunal to question their love and commitment after they reunite with Diya&#x27;s old friend Ally. Luv Ranjan&#x27;s dramatic story shapes this love triangle and relationship drama directed by Homi Adajania. Unexpected twists and elements of surprise appear at several places throughout the narrative.</p>\n<h3>Comedy &amp; Entertainment</h3>\n<p>The screenplay by Tarun Jain and Luv Ranjan is described as breezy and peppered with entertaining moments. While some reviewers note clever one-liners that enhance certain scenes, others point out non-funny jokes. The overall humor and entertainment value vary depending on the viewer&#x27;s taste.</p>\n<h3>Performances &amp; Direction</h3>\n<p>Shahid Kapoor delivers a strong performance, bringing depth and sincerity to the film. The cast, which also features Kriti Sanon and Rashmika Mandanna alongside Tiku Talsania and Neelu Kohli, shares chemistry that adds charm. Some good performances manage to stand out despite a confused narrative.</p>\n<h3>Strengths</h3>\n<ul><li>Strong performance by Shahid Kapoor</li><li>Breathtaking cinematography in Sicily</li><li>Entertaining moments and one-liners</li><li>Gorgeous locations and attractive star cast</li></ul>\n<h3>Weaknesses</h3>\n<p>The film leans heavily into melodrama and emotional excess, moving away from the breezy charm of the original. Reviewers note it reduces relationships to a joke and can feel like a confused and tedious love triangle. The ends of philosophy and non-trivial conversations do not always justify the means.</p>\n<h3>Final verdict</h3>\n<p>Cocktail 2 offers a breezy relationship drama set against the stunning backdrop of Sicily, anchored by strong performances from its star cast. However, it struggles with emotional depth and leans too heavily into melodrama and a messy love triangle. Watch it some day for the gorgeous locations and the lead performances, but temper your expectations.</p>\n<h2>Where to watch</h2>\n<ul><li>Streaming on Netflix (IN)</li></ul>\n</article>",
+   "t": "Cocktail 2 (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
+  },
+  "movie:1396869": {
+   "d": "Diés Iraé (2025): Horror/Thriller film. Story: Rohan's affluent lifestyle spirals out of control as… See cast, review 6/10, and TMDB rating 6.5/10.",
+   "img": "https://image.tmdb.org/t/p/w780/8Fl8B1TRkcjkU9VMp9ex9mV6949.jpg",
+   "industry": "bollywood",
+   "k": "Diés Iraé, Diés Iraé movie, Diés Iraé cast, Diés Iraé story, Diés Iraé box office collection, Diés Iraé budget, Diés Iraé review, Diés Iraé rating, Diés Iraé release date, Diés Iraé trailer, Diés Iraé Horror, Diés Iraé Thriller, Indian movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Pranav Mohanlal"
+     },
+     {
+      "@type": "Person",
+      "name": "Gibin Gopinath"
+     },
+     {
+      "@type": "Person",
+      "name": "Swathi Das Prabhu"
+     },
+     {
+      "@type": "Person",
+      "name": "Manohari Joy"
+     },
+     {
+      "@type": "Person",
+      "name": "Arun Ajikumar"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 38,
+     "ratingValue": 6.5,
+     "worstRating": 0
+    },
+    "description": "Diés Iraé (2025): Horror/Thriller film. Story: Rohan's affluent lifestyle spirals out of control as… See cast, review 6/10, and TMDB rating 6.5/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Rahul Sadasivan"
+     }
+    ],
+    "duration": "PT115M",
+    "genre": [
+     "Horror",
+     "Thriller"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/8Fl8B1TRkcjkU9VMp9ex9mV6949.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1396869",
+    "name": "Diés Iraé",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2025-10-31"
+    },
+    "review": {
+     "@type": "Review",
+     "author": {
+      "@type": "Organization",
+      "name": "FlickAtlas"
+     },
+     "reviewBody": "Diés Iraé is a mixed horror thriller that offers interesting ideas about trauma and hauntings, anchored by capable performances. While it promises a lot through its chilling premise and atmospheric direction, it ultimately stumbles in its execution. Horror fans may find it worth a watch for its unique handling of grief, but temper expectations regarding its overall delivery.",
+     "reviewRating": {
+      "@type": "Rating",
+      "bestRating": 10,
+      "ratingValue": 6.0
+     }
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1396869"
+   },
+   "modified": "",
+   "published": "2026-10-31",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Diés Iraé (2025)</h1>\n<p class=\"ssr-lead\">Rohan&#x27;s affluent lifestyle spirals out of control as he becomes convinced there is a supernatural entity in his home. As he starts to uncover the mystery, he is drawn into unexpected worlds and alliances, along with the horrors that lie ahead.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 31 October 2025</li><li>Runtime: 115 minutes</li><li>Director: Rahul Sadasivan</li><li>Genres: Horror, Thriller</li><li>Tagline: The Day of Wrath</li><li>Certification: A</li><li>Original language: Malayalam</li><li>Spoken languages: Malayalam</li><li>Production countries: India</li><li>Official trailer: Diés Iraé | Official Trailer | Rahul Sadasivan | Pranav Mohanlal | Dec 5 | JioHotstar</li><li>TMDB rating: 6.5/10 (38 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Pranav Mohanlal as Rohan</li><li>Gibin Gopinath as Madhusudhanan Potti</li><li>Swathi Das Prabhu as Vinoy</li><li>Manohari Joy as Madhu&#x27;s Mother</li><li>Arun Ajikumar as Kiran</li><li>Jaya Kurup as Elsamma</li><li>Athulya Chandra as Tessa</li><li>Sushmitha Bhat as Kani</li><li>Saiju Kurup as George</li><li>Sreedhanya Thekkedath as Kani&#x27;s Mother</li></ul>\n<h2>FlickAtlas review</h2>\n<p>Overall: 6/10.</p>\n<ul><li>Action &amp; Cinematography: 6/10</li><li>Comedy &amp; Entertainment: 5/10</li><li>Direction: 6.5/10</li><li>Music &amp; BGM: 6/10</li><li>Performances: 7/10</li><li>Story &amp; Screenplay: 6/10</li></ul>\n<h3>Story &amp; Plot</h3>\n<p>Rohan is an architect and the son of a big real estate businessman who enjoys an affluent lifestyle. During a party at his residence with friends, he learns that his classmate Kani has committed suicide. This tragic event sparks a web of mysteries involving Kani&#x27;s brother Kiran and a woman named Elsamma, while Rohan becomes convinced a supernatural entity is haunting his home. The narrative explores trauma bonding, grief, and unexpected alliances as characters deal with horrific incidents.</p>\n<h3>Comedy &amp; Entertainment</h3>\n<p>As a horror and thriller film, Diés Iraé does not focus on standard comedic relief or lighthearted moments. Instead, its entertainment value relies heavily on the suspenseful premise, the unfolding mystery of Kani&#x27;s suicide, and the eerie haunting experienced by the protagonist. The atmospheric tension keeps viewers engaged through dark and dramatic developments rather than traditional humor.</p>\n<h3>Performances &amp; Direction</h3>\n<p>The cast features Pranav Mohanlal as Rohan, alongside Arun Ajikumar as Kiran, as well as Gibin Gopinath, Swathi Das Prabhu, and Manohari Joy. Reviewers note that the film brings people together through life&#x27;s most horrific incidents and trauma bonding. The actors handle the heavy emotional weight of dealing with grief and supernatural terror effectively within Rahul Sadasivan&#x27;s twisted framework.</p>\n<h3>Strengths</h3>\n<ul><li>Engaging supernatural horror premise</li><li>Effective exploration of grief and trauma bonding</li><li>Solid performances from the cast</li><li>Intriguing mystery surrounding Kani&#x27;s suicide</li></ul>\n<h3>Weaknesses</h3>\n<p>Despite promising so much with its eerie setup and strong thematic foundations, the film ultimately struggles to maintain its momentum. Reviewers point out that the project is a disappointing film that failed to deliver fully on its early potential. Some pacing issues and narrative execution flaws hold it back from greatness.</p>\n<h3>Final verdict</h3>\n<p>Diés Iraé is a mixed horror thriller that offers interesting ideas about trauma and hauntings, anchored by capable performances. While it promises a lot through its chilling premise and atmospheric direction, it ultimately stumbles in its execution. Horror fans may find it worth a watch for its unique handling of grief, but temper expectations regarding its overall delivery.</p>\n<h2>Where to watch</h2>\n<ul><li>Streaming on JioHotstar (IN)</li></ul>\n</article>",
+   "t": "Diés Iraé (2025) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2025"
   },
   "movie:1405769": {
    "d": "I Can Only Imagine 2 (2026): Music/Drama film. Story: Following the breakout success of the song 'I Can… See cast, budget $18M, and TMDB rating 8.1/10.",
@@ -709,6 +1081,62 @@
    "t": "La Vénus électrique (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2026"
   },
+  "movie:1543469": {
+   "d": "Heartland (2026): Mystery/Thriller film. Story: A former country star, Misty Jones, comes out of… See cast and release date 13 November 2026.",
+   "img": "https://image.tmdb.org/t/p/w780/psTMZj8gvsfYVfvd7FZCHH4xL6P.jpg",
+   "industry": "world",
+   "k": "Heartland, Heartland movie, Heartland cast, Heartland story, Heartland box office collection, Heartland budget, Heartland review, Heartland rating, Heartland release date, Heartland trailer, Heartland Mystery, Heartland Thriller, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Jessica Chastain"
+     },
+     {
+      "@type": "Person",
+      "name": "Garrett Hedlund"
+     },
+     {
+      "@type": "Person",
+      "name": "Carter Faith"
+     },
+     {
+      "@type": "Person",
+      "name": "Ross Lynch"
+     },
+     {
+      "@type": "Person",
+      "name": "Jennifer Nettles"
+     }
+    ],
+    "description": "Heartland (2026): Mystery/Thriller film. Story: A former country star, Misty Jones, comes out of… See cast and release date 13 November 2026.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Shana Feste"
+     }
+    ],
+    "genre": [
+     "Mystery",
+     "Thriller"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/psTMZj8gvsfYVfvd7FZCHH4xL6P.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1543469",
+    "name": "Heartland",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-11-13"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1543469"
+   },
+   "modified": "",
+   "published": "2026-11-13",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Heartland (2026)</h1>\n<p class=\"ssr-lead\">A former country star, Misty Jones, comes out of seclusion to investigate the disappearance of her missing niece, a rising country musician and must grapple with her own past and Nashville’s seedy underbelly. Her search uncovers a murky side of Nashville where no one, including Misty, is who they seem.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 13 November 2026</li><li>Director: Shana Feste</li><li>Genres: Mystery, Thriller</li><li>Tagline: The brightest stars hide the darkest secrets.</li><li>Certification: R</li><li>Original language: English</li><li>Spoken languages: English</li><li>Production countries: United States</li><li>Official trailer: Official Trailer</li></ul>\n<h2>Top cast</h2>\n<ul><li>Jessica Chastain as Misty Jones</li><li>Garrett Hedlund as Roy Combs</li><li>Carter Faith as Charlie Heart</li><li>Ross Lynch as Jace</li><li>Jennifer Nettles as Winnie Jo Lean</li><li>John Hawkes as Clark</li><li>Hill Harper</li><li>Norbert Leo Butz</li><li>Ben Dickey</li></ul>\n<h2>Where to watch</h2>\n<ul><li>Streaming on Netflix (IN)</li></ul>\n</article>",
+   "t": "Heartland (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
+  },
   "movie:1553969": {
    "d": "Sheep in the Box (2026): Drama/Science Fiction film. Story: In the near future, architect Otone Komoto is married… See cast and TMDB rating 6.4/10.",
    "img": "https://image.tmdb.org/t/p/w780/cwoCKD5DVfb4vs4bDCyWkvE3frc.jpg",
@@ -772,6 +1200,82 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>Sheep in the Box (2026)</h1>\n<p class=\"ssr-lead\">In the near future, architect Otone Komoto is married to Kensuke, who runs a construction company. The married couple decide to welcome a humanoid robot into their home as their son.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 29 May 2026</li><li>Runtime: 126 minutes</li><li>Director: Hirokazu Kore-eda</li><li>Genres: Drama, Science Fiction</li><li>Tagline: Trust what you cannot see.</li><li>Certification: PG</li><li>Original language: Japanese</li><li>Spoken languages: Japanese</li><li>Production countries: Japan</li><li>Official trailer: Official US Trailer [Subtitled]</li><li>TMDB rating: 6.4/10 (35 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Haruka Ayase as Otone Komoto</li><li>Daigo Yamamoto as Kensuke Komoto</li><li>Kuwaki Rimu as Kakeru Komoto</li><li>Nana Seino as Alice Kotaki</li><li>Kanichiro as Gen Hidaka</li><li>Hinata Hiiragi as Takuto Konno</li><li>Akihiro Kakuta as Junichi Hano</li><li>Kayo Noro as Kasumi Hano</li><li>Mari Hoshino as Mother</li><li>Ayumu Nakajima as Engineer</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home, Plex</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
    "t": "Sheep in the Box (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2026"
+  },
+  "movie:1561969": {
+   "d": "Baramulla (2025): Thriller film. Story: A cop's inquiry into child kidnappings unravels… See cast, review 6.5/10, and TMDB rating 6.0/10.",
+   "img": "https://image.tmdb.org/t/p/w780/fbTRgh6moAvhlkB4wPjswP9EdWz.jpg",
+   "industry": "bollywood",
+   "k": "Baramulla, Baramulla movie, Baramulla cast, Baramulla story, Baramulla box office collection, Baramulla budget, Baramulla review, Baramulla rating, Baramulla release date, Baramulla Thriller, Indian movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Manav Kaul"
+     },
+     {
+      "@type": "Person",
+      "name": "Bhasha Sumbli"
+     },
+     {
+      "@type": "Person",
+      "name": "Arista Mehta"
+     },
+     {
+      "@type": "Person",
+      "name": "Rohaan Singh"
+     },
+     {
+      "@type": "Person",
+      "name": "Neelofar Hamid"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 59,
+     "ratingValue": 6.0,
+     "worstRating": 0
+    },
+    "description": "Baramulla (2025): Thriller film. Story: A cop's inquiry into child kidnappings unravels… See cast, review 6.5/10, and TMDB rating 6.0/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Aditya Suhas Jambhale"
+     }
+    ],
+    "duration": "PT120M",
+    "genre": [
+     "Thriller"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/fbTRgh6moAvhlkB4wPjswP9EdWz.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1561969",
+    "name": "Baramulla",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2025-11-06"
+    },
+    "review": {
+     "@type": "Review",
+     "author": {
+      "@type": "Organization",
+      "name": "FlickAtlas"
+     },
+     "reviewBody": "Baramulla is an atmospheric and thrilling Netflix mystery that offers a unique look at Kashmir through a dark, supernatural lens. While the narrative suffers from scattered plotting and holding back too many answers in the middle, strong performances and a gripping atmosphere make it worth a stream for fans of slow-burning horror-thrillers.",
+     "reviewRating": {
+      "@type": "Rating",
+      "bestRating": 10,
+      "ratingValue": 6.5
+     }
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1561969"
+   },
+   "modified": "",
+   "published": "2026-10-31",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Baramulla (2025)</h1>\n<p class=\"ssr-lead\">A cop&#x27;s inquiry into child kidnappings unravels chilling secrets as supernatural events endanger his family and the peaceful town of Baramulla.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 6 November 2025</li><li>Runtime: 120 minutes</li><li>Director: Aditya Suhas Jambhale</li><li>Genres: Thriller</li><li>Certification: U/A 16+</li><li>Original language: Hindi</li><li>Spoken languages: Hindi</li><li>Production countries: India</li><li>TMDB rating: 6.0/10 (59 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Manav Kaul as DSP Ridwaan Sayyed</li><li>Bhasha Sumbli as Gulnaar Sayyed</li><li>Arista Mehta as Noorie Sayyed</li><li>Rohaan Singh as Ayaan</li><li>Neelofar Hamid as Zainab</li><li>Ashwini Koul as Khalid</li><li>Vikas Shukla as Shaukat</li><li>Mir Sarwar as Ansari</li><li>Priyank Tatariya as Kamalanand Sapru</li><li>Nazneen Madan as Mansi Sapru</li></ul>\n<h2>FlickAtlas review</h2>\n<p>Overall: 6.5/10.</p>\n<ul><li>Action &amp; Cinematography: 6/10</li><li>Comedy &amp; Entertainment: 5/10</li><li>Direction: 6.5/10</li><li>Music &amp; BGM: 7/10</li><li>Performances: 7.5/10</li><li>Story &amp; Screenplay: 6/10</li></ul>\n<h3>Story &amp; Plot</h3>\n<p>Baramulla is a gritty horror-thriller directed by Aditya Suhas Jambhale that follows a cop&#x27;s inquiry into child kidnappings in a peaceful town. As the investigation unfolds, chilling secrets and supernatural events endanger the detective&#x27;s family against the backdrop of Kashmir&#x27;s winter landscapes. The Netflix film blends local trouble, Kashmiri trauma, politics, and earthly concerns with a haunting supernatural mystery.</p>\n<h3>Comedy &amp; Entertainment</h3>\n<p>As a slow-burning horror-thriller exploring heavy themes of trauma and local trouble, the film does not focus on humor or lighthearted entertainment value. Instead, its entertainment relies entirely on the built-in tension of the detective mystery and the atmospheric dread created by the setting. The narrative centers on the gripping investigation and supernatural elements rather than comedic relief.</p>\n<h3>Performances &amp; Direction</h3>\n<p>Manav Kaul stars as a gritty detective who anchors the film, with reviewers specifically noting that he steers the gripping mystery. The cast also features Bhasha Sumbli, Arista Mehta, Rohaan Singh, and Neelofar Hamid, with audience reviewers praising the exceptional performances of all actors involved in bringing the tense story to life.</p>\n<h3>Strengths</h3>\n<ul><li>Atmospheric and haunting winter settings of Kashmir</li><li>Strong, gritty lead performance by Manav Kaul</li><li>Effective blend of supernatural elements with grounded social realism</li><li>Built-in tension regarding local trouble and history</li></ul>\n<h3>Weaknesses</h3>\n<p>Reviewers note that when the supernatural enters the frame, it raises more questions than it answers, holding back too much and leaving viewers slightly in the dark. Some audience feedback also suggests that the storytelling was somewhat mediocre with scattered plots where characters lost the plot mid-movie before the last thirty minutes saved the sequence.</p>\n<h3>Final verdict</h3>\n<p>Baramulla is an atmospheric and thrilling Netflix mystery that offers a unique look at Kashmir through a dark, supernatural lens. While the narrative suffers from scattered plotting and holding back too many answers in the middle, strong performances and a gripping atmosphere make it worth a stream for fans of slow-burning horror-thrillers.</p>\n<h2>Where to watch</h2>\n<ul><li>Streaming on Netflix (IN)</li></ul>\n</article>",
+   "t": "Baramulla (2025) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2025"
   },
   "movie:1576369": {
    "d": "Bharathanatyam 2 Mohiniyattam (2026): Comedy/Thriller film. Story: The family's journey to Sreekandapuram to settle the… See cast and TMDB rating 8.0/10.",
@@ -1012,6 +1516,409 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>Any Which Way You Can (1980)</h1>\n<p class=\"ssr-lead\">Philo takes part in a bare knuckle fight – as he does – to make more money than he can earn from his car repair business. He decides to retire, but when the Mafia come along and arrange another fight, he&#x27;s pushed into it. A motorcycle gang and an orangutan called Clyde all add to the &#x27;fun&#x27;.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 17 December 1980</li><li>Runtime: 115 minutes</li><li>Director: Buddy Van Horn</li><li>Genres: Action, Adventure, Comedy</li><li>Tagline: Get it with Clint and Clyde</li><li>Certification: PG</li><li>Original language: English</li><li>Spoken languages: English</li><li>Production countries: United States</li><li>Official trailer: Any Which Way You Can - Trailer</li><li>Budget: $15M</li><li>TMDB rating: 5.8/10 (396 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Clint Eastwood as Philo Beddoe</li><li>Sondra Locke as Lynn Halsey-Taylor</li><li>Geoffrey Lewis as Orville Boggs</li><li>William Smith as Jack Wilson</li><li>Harry Guardino as James Beekman</li><li>Ruth Gordon as Ma Boggs</li><li>Michael Cavanaugh as Patrick Scarfe</li><li>Barry Corbin as Fat Zack</li><li>Roy Jenson as Moody</li><li>Bill McKinney as Dallas</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Apple TV Store, YouTube, Amazon Video</li><li>Buy: Apple TV Store, YouTube</li></ul>\n</article>",
    "t": "Any Which Way You Can (1980) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "1980"
+  },
+  "movie:1790569": {
+   "d": "Princess (2026): Drama film. Story: Twelve-year-old Kallpa has one big dream: to be… See cast and release date 18 November 2026.",
+   "img": "https://image.tmdb.org/t/p/w780/svgaoaUzXA0Fa5uGLSp4lBlz0gC.jpg",
+   "industry": "world",
+   "k": "Princess, Princess movie, Princess cast, Princess story, Princess box office collection, Princess budget, Princess review, Princess rating, Princess release date, Princess Drama, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Kuri Fuerez"
+     },
+     {
+      "@type": "Person",
+      "name": "Octavio Mendoza"
+     },
+     {
+      "@type": "Person",
+      "name": "Bruno Giganti"
+     },
+     {
+      "@type": "Person",
+      "name": "Quispe Nuna"
+     },
+     {
+      "@type": "Person",
+      "name": "Romel Vargas"
+     }
+    ],
+    "description": "Princess (2026): Drama film. Story: Twelve-year-old Kallpa has one big dream: to be… See cast and release date 18 November 2026.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Christian Rojas"
+     }
+    ],
+    "duration": "PT97M",
+    "genre": [
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/svgaoaUzXA0Fa5uGLSp4lBlz0gC.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1790569",
+    "name": "Princess",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-11-18"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1790569"
+   },
+   "modified": "",
+   "published": "2026-11-11",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Princess (2026)</h1>\n<p class=\"ssr-lead\">Twelve-year-old Kallpa has one big dream: to be chosen as Ñusta, the sacred princess in her Andean community&#x27;s Winter Solstice Festival. However, she is barred from taking part because she was born in the body of a boy. As rigid traditions and growing rejection push her out, Kallpa finds a new home and family among a group of local trans women. Even while facing harsh prejudice, this close-knit group wraps Kallpa in real warmth and tenderness, giving her the room to figure out who she is and learn to love herself. Her journey becomes a quiet, resilient fight to live life on her own terms.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 18 November 2026</li><li>Runtime: 97 minutes</li><li>Director: Christian Rojas</li><li>Genres: Drama</li><li>Original language: Spanish</li><li>Spoken languages: Spanish, QU</li><li>Production countries: EC, MX, AR, PE, BO</li></ul>\n<h2>Top cast</h2>\n<ul><li>Kuri Fuerez</li><li>Octavio Mendoza</li><li>Bruno Giganti</li><li>Quispe Nuna</li><li>Romel Vargas</li><li>Kayita Quizhpe</li><li>Adele Pesantes</li></ul>\n</article>",
+   "t": "Princess (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
+  },
+  "movie:1794569": {
+   "d": "Unprotected: Murder in Galicia (2026): Documentary/Crime film. Story: Documentary film that tells the story of Isabel… See cast and TMDB rating 6.3/10.",
+   "img": "https://image.tmdb.org/t/p/w780/5DEE6tP6FOkgfjvoQYvjNjvt3cn.jpg",
+   "industry": "world",
+   "k": "Unprotected: Murder in Galicia, Unprotected: Murder in Galicia movie, Unprotected: Murder in Galicia cast, Unprotected: Murder in Galicia story, Unprotected: Murder in Galicia box office collection, Unprotected: Murder in Galicia budget, Unprotected: Murder in Galicia review, Unprotected: Murder in Galicia rating, Unprotected: Murder in Galicia release date, Unprotected: Murder in Galicia trailer, Unprotected: Murder in Galicia Documentary, Unprotected: Murder in Galicia Crime, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Eduardo Pérez \"Perreras\""
+     },
+     {
+      "@type": "Person",
+      "name": "Maribel Tarrazo"
+     },
+     {
+      "@type": "Person",
+      "name": "Corona Salgado"
+     },
+     {
+      "@type": "Person",
+      "name": "Eduardo Pérez"
+     },
+     {
+      "@type": "Person",
+      "name": "Javier González"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 3,
+     "ratingValue": 6.3,
+     "worstRating": 0
+    },
+    "description": "Unprotected: Murder in Galicia (2026): Documentary/Crime film. Story: Documentary film that tells the story of Isabel… See cast and TMDB rating 6.3/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Jorge Laplace"
+     }
+    ],
+    "duration": "PT65M",
+    "genre": [
+     "Documentary",
+     "Crime"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/5DEE6tP6FOkgfjvoQYvjNjvt3cn.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1794569",
+    "name": "Unprotected: Murder in Galicia",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-11-06"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1794569"
+   },
+   "modified": "",
+   "published": "2026-11-07",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Unprotected: Murder in Galicia (2026)</h1>\n<p class=\"ssr-lead\">Documentary film that tells the story of Isabel Fuentes. In April 2015, alleged burglars left her on the brink of death in her own home, in the village of Pazos, in Verín. From the very beginning, the Guardia Civil sergeant in charge of the case suspected that the account of what had happened did not add up and tried to protect Isabel from further attack.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 6 November 2026</li><li>Runtime: 65 minutes</li><li>Director: Jorge Laplace</li><li>Genres: Documentary, Crime</li><li>Certification: 14</li><li>Original language: Spanish</li><li>Spoken languages: GL, Spanish</li><li>Production countries: Spain</li><li>Official trailer: Murder in Galicia | Official Trailer | Netflix</li><li>TMDB rating: 6.3/10 (3 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Eduardo Pérez &quot;Perreras&quot; as Vecino de Isabel</li><li>Maribel Tarrazo as Vecina de Isabel</li><li>Corona Salgado as Prima y vecina de Isabel</li><li>Eduardo Pérez as Hijo de Corona</li><li>Javier González as Vecino de Isabel</li><li>Fernando Serulla as Forense</li></ul>\n<h2>Where to watch</h2>\n<ul><li>Streaming on Netflix (IN)</li></ul>\n</article>",
+   "t": "Unprotected: Murder in Galicia (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
+  },
+  "movie:1801769": {
+   "d": "Annapurna: Dreams and Nightmares (2026): Documentary/Adventure film. Story: Annapurna: Dreams and Nightmares is a 2026… See cast.",
+   "img": "https://image.tmdb.org/t/p/w780/ohd4HoGJMYouMDflxqIhdcUPkrO.jpg",
+   "industry": "world",
+   "k": "Annapurna: Dreams and Nightmares, Annapurna: Dreams and Nightmares movie, Annapurna: Dreams and Nightmares cast, Annapurna: Dreams and Nightmares story, Annapurna: Dreams and Nightmares box office collection, Annapurna: Dreams and Nightmares budget, Annapurna: Dreams and Nightmares review, Annapurna: Dreams and Nightmares rating, Annapurna: Dreams and Nightmares release date, Annapurna: Dreams and Nightmares Documentary, Annapurna: Dreams and Nightmares Adventure, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Don Bowie"
+     },
+     {
+      "@type": "Person",
+      "name": "Ueli Steck"
+     },
+     {
+      "@type": "Person",
+      "name": "Horia Colibășanu"
+     },
+     {
+      "@type": "Person",
+      "name": "Iñaki Ochoa de Olza"
+     },
+     {
+      "@type": "Person",
+      "name": "Oscar Cadiach"
+     }
+    ],
+    "description": "Annapurna: Dreams and Nightmares (2026): Documentary/Adventure film. Story: Annapurna: Dreams and Nightmares is a 2026… See cast.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Don Bowie"
+     }
+    ],
+    "duration": "PT115M",
+    "genre": [
+     "Documentary",
+     "Adventure"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/ohd4HoGJMYouMDflxqIhdcUPkrO.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1801769",
+    "name": "Annapurna: Dreams and Nightmares",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-11-06"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1801769"
+   },
+   "modified": "",
+   "published": "2026-10-30",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Annapurna: Dreams and Nightmares (2026)</h1>\n<p class=\"ssr-lead\">Annapurna: Dreams and Nightmares is a 2026 documentary film by Thin Air Cinematics that challenges the traditional &quot;man-conquers-mountain&quot; story by exploring high-altitude mountaineering through failure, fear and human obsession Filmed over 13 years, spanning 6 expeditions on 5 different climbing routes, this deeply personal documentary is an unflinching exploration into the life and mind of a high-altitude climber. What begins with a dream becomes obsession, and ultimately a reckoning with why we climb in the first place.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 6 November 2026</li><li>Runtime: 115 minutes</li><li>Director: Don Bowie</li><li>Genres: Documentary, Adventure</li><li>Original language: English</li></ul>\n<h2>Top cast</h2>\n<ul><li>Don Bowie as Self</li><li>Ueli Steck as Self</li><li>Horia Colibășanu as Self</li><li>Iñaki Ochoa de Olza as Self</li><li>Oscar Cadiach as Self</li><li>Nirmal Purja as Self</li><li>Denis Urubko as Self</li></ul>\n</article>",
+   "t": "Annapurna: Dreams and Nightmares (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
+  },
+  "movie:1806769": {
+   "d": "Machines Learning (2026): Animation/Science Fiction film. Story: In a dark factory, a bullying worker pushes his crew… See cast.",
+   "img": "https://image.tmdb.org/t/p/w500/92c6GwM0J1q1t9YEk9CBaVvU6Yv.jpg",
+   "industry": "world",
+   "k": "Machines Learning, Machines Learning movie, Machines Learning cast, Machines Learning story, Machines Learning box office collection, Machines Learning budget, Machines Learning review, Machines Learning rating, Machines Learning release date, Machines Learning Animation, Machines Learning Science Fiction, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "description": "Machines Learning (2026): Animation/Science Fiction film. Story: In a dark factory, a bullying worker pushes his crew… See cast.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Anthony Koithra"
+     }
+    ],
+    "duration": "PT8M",
+    "genre": [
+     "Animation",
+     "Science Fiction"
+    ],
+    "image": "https://image.tmdb.org/t/p/w500/92c6GwM0J1q1t9YEk9CBaVvU6Yv.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1806769",
+    "name": "Machines Learning",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-11-15"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1806769"
+   },
+   "modified": "",
+   "published": "2026-11-08",
+   "robots": "noindex,follow",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Machines Learning (2026)</h1>\n<p class=\"ssr-lead\">In a dark factory, a bullying worker pushes his crew of robots harder and harder. They observe. They learn. And eventually, they act. The machines are learning, but what are we teaching them?</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 15 November 2026</li><li>Runtime: 8 minutes</li><li>Director: Anthony Koithra</li><li>Genres: Animation, Science Fiction</li><li>Original language: English</li><li>Spoken languages: English</li><li>Production countries: United States</li></ul>\n</article>",
+   "t": "Machines Learning (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
+  },
+  "movie:1816069": {
+   "d": "Virtus - The Four P's (2026): Documentary film. Story: Join Ed Jackson’s climb of the Matterhorn as he… See cast and release date 21 November 2026.",
+   "img": "https://image.tmdb.org/t/p/w500/lhdmGiknqK2prd1jMbzEOiPYPhV.jpg",
+   "industry": "world",
+   "k": "Virtus - The Four P's, Virtus - The Four P's movie, Virtus - The Four P's cast, Virtus - The Four P's story, Virtus - The Four P's box office collection, Virtus - The Four P's budget, Virtus - The Four P's review, Virtus - The Four P's rating, Virtus - The Four P's release date, Virtus - The Four P's Documentary, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Ed Jackson"
+     }
+    ],
+    "description": "Virtus - The Four P's (2026): Documentary film. Story: Join Ed Jackson’s climb of the Matterhorn as he… See cast and release date 21 November 2026.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Toby Roney"
+     }
+    ],
+    "duration": "PT12M",
+    "genre": [
+     "Documentary"
+    ],
+    "image": "https://image.tmdb.org/t/p/w500/lhdmGiknqK2prd1jMbzEOiPYPhV.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1816069",
+    "name": "Virtus - The Four P's",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-11-21"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1816069"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "robots": "noindex,follow",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Virtus - The Four P&#x27;s (2026)</h1>\n<p class=\"ssr-lead\">Join Ed Jackson’s climb of the Matterhorn as he explores the values that have shaped his life after spinal cord injury: Purpose, Perspective, Progress and Perseverance.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 21 November 2026</li><li>Runtime: 12 minutes</li><li>Director: Toby Roney</li><li>Genres: Documentary</li><li>Original language: English</li><li>Production countries: United Kingdom</li></ul>\n<h2>Top cast</h2>\n<ul><li>Ed Jackson as Self</li></ul>\n</article>",
+   "t": "Virtus - The Four P's (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
+  },
+  "movie:1822669": {
+   "d": "What Happened On November 1st? (2026): Comedy/Horror film. Story: A whole college skips the second day of Halloweekend… See cast.",
+   "img": "https://image.tmdb.org/t/p/w500/zvKvSd4E5rrKz2DlgYHYMQIgE7t.jpg",
+   "industry": "world",
+   "k": "What Happened On November 1st?, What Happened On November 1st? movie, What Happened On November 1st? cast, What Happened On November 1st? story, What Happened On November 1st? box office collection, What Happened On November 1st? budget, What Happened On November 1st? review, What Happened On November 1st? rating, What Happened On November 1st? release date, What Happened On November 1st? Comedy, What Happened On November 1st? Horror, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Angelina Jackson"
+     },
+     {
+      "@type": "Person",
+      "name": "Grace Damiani"
+     },
+     {
+      "@type": "Person",
+      "name": "Simone Alexa Lupo"
+     },
+     {
+      "@type": "Person",
+      "name": "Ivereigh Tarateta"
+     },
+     {
+      "@type": "Person",
+      "name": "Alexis Kihiko"
+     }
+    ],
+    "description": "What Happened On November 1st? (2026): Comedy/Horror film. Story: A whole college skips the second day of Halloweekend… See cast.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Mac McIntosh"
+     }
+    ],
+    "duration": "PT20M",
+    "genre": [
+     "Comedy",
+     "Horror"
+    ],
+    "image": "https://image.tmdb.org/t/p/w500/zvKvSd4E5rrKz2DlgYHYMQIgE7t.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1822669",
+    "name": "What Happened On November 1st?",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-11-27"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1822669"
+   },
+   "modified": "",
+   "published": "2026-11-20",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>What Happened On November 1st? (2026)</h1>\n<p class=\"ssr-lead\">A whole college skips the second day of Halloweekend to celebrate Christmas on November 1st. Dressing festive, watching Christmas movies and playing music. However, there&#x27;s a mystery...why and how are people getting murdered on November 1st?</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 27 November 2026</li><li>Runtime: 20 minutes</li><li>Director: Mac McIntosh</li><li>Genres: Comedy, Horror, Mystery</li><li>Tagline: ...and a partridge in a pear tree</li><li>Certification: R</li><li>Original language: English</li><li>Status: In Production</li></ul>\n<h2>Top cast</h2>\n<ul><li>Angelina Jackson as Lily / Barista</li><li>Grace Damiani as Ramona</li><li>Simone Alexa Lupo as Parker</li><li>Ivereigh Tarateta as Student 1</li><li>Alexis Kihiko as Student 2</li><li>Dashiell Fisher as Parker&#x27;s Roommate</li><li>Mac McIntosh as Caroler 1</li><li>An Wang as Caroler 2</li><li>Linnea Ness as Caroler 3</li></ul>\n</article>",
+   "t": "What Happened On November 1st? (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
+  },
+  "movie:1824669": {
+   "d": "606 (2026): Fantasy/Mystery film. Story: A father’s love knows no boundaries,but what happens… See cast, budget $212.3k, and release date 11 December 2026.",
+   "img": "https://image.tmdb.org/t/p/w780/r8CdDBeCCPLJDqxxLLOW5Fxf1GN.jpg",
+   "industry": "bollywood",
+   "k": "606, 606 movie, 606 cast, 606 story, 606 box office collection, 606 budget, 606 review, 606 rating, 606 release date, 606 trailer, 606 Fantasy, 606 Mystery, Indian movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Sri Deva"
+     },
+     {
+      "@type": "Person",
+      "name": "Vinupriya"
+     },
+     {
+      "@type": "Person",
+      "name": "Shareen Fathima"
+     },
+     {
+      "@type": "Person",
+      "name": "Nagasiva"
+     },
+     {
+      "@type": "Person",
+      "name": "Manivannan Sundharajan"
+     }
+    ],
+    "description": "606 (2026): Fantasy/Mystery film. Story: A father’s love knows no boundaries,but what happens… See cast, budget $212.3k, and release date 11 December 2026.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Sathish Sekar"
+     }
+    ],
+    "duration": "PT119M",
+    "genre": [
+     "Fantasy",
+     "Mystery"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/r8CdDBeCCPLJDqxxLLOW5Fxf1GN.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1824669",
+    "name": "606",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-12-11"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1824669"
+   },
+   "modified": "",
+   "published": "2026-11-20",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>606 (2026)</h1>\n<p class=\"ssr-lead\">A father’s love knows no boundaries,but what happens when the path to his daughter lies beyond the boundaries of reality? When supernatural forces drag his daughter into an unknown world, he risks everything, venturing into terrifying dimensions where fear, mystery, and impossible truths stand between him and the only person he cannot afford to lose.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 11 December 2026</li><li>Runtime: 119 minutes</li><li>Director: Sathish Sekar</li><li>Genres: Fantasy, Mystery, Thriller</li><li>Certification: UA</li><li>Original language: Tamil</li><li>Official trailer: 606 Official Trailer | Nava Sree Media | Sathish Sekar | Malathy K | MRT Music</li><li>Budget: $212.3k</li><li>Status: Post Production</li></ul>\n<h2>Top cast</h2>\n<ul><li>Sri Deva as Deva</li><li>Vinupriya as Sakthi</li><li>Shareen Fathima as Meenu</li><li>Nagasiva as Pragalnathan</li><li>Manivannan Sundharajan as Murugan</li><li>Karthikeyan Meenakshisundaram as Astrologer Samy</li></ul>\n</article>",
+   "t": "606 (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
+  },
+  "movie:1830969": {
+   "d": "King of kings (2026): Comedy film. Story: A stand up special of mohd suhel. See cast and release date 13 November 2026.",
+   "img": "https://image.tmdb.org/t/p/w500/rNLnMgr9nGVSrHckU5a3GsoGj7y.jpg",
+   "industry": "bollywood",
+   "k": "King of kings, King of kings movie, King of kings cast, King of kings story, King of kings box office collection, King of kings budget, King of kings review, King of kings rating, King of kings release date, King of kings Comedy, Indian movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Mohd suhel"
+     }
+    ],
+    "description": "King of kings (2026): Comedy film. Story: A stand up special of mohd suhel. See cast and release date 13 November 2026.",
+    "duration": "PT86M",
+    "genre": [
+     "Comedy"
+    ],
+    "image": "https://image.tmdb.org/t/p/w500/rNLnMgr9nGVSrHckU5a3GsoGj7y.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1830969",
+    "name": "King of kings",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-11-13"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1830969"
+   },
+   "modified": "",
+   "published": "2026-11-20",
+   "robots": "noindex,follow",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>King of kings (2026)</h1>\n<p class=\"ssr-lead\">A stand up special of mohd suhel</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 13 November 2026</li><li>Runtime: 86 minutes</li><li>Genres: Comedy</li><li>Tagline: King of kings</li><li>Original language: Hindi</li><li>Spoken languages: Hindi</li></ul>\n<h2>Top cast</h2>\n<ul><li>Mohd suhel as Self</li></ul>\n</article>",
+   "t": "King of kings (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
   },
   "movie:190469": {
    "d": "Redirected (2014): Action/Comedy film. Story: Four friends become stranded in Eastern Europe and… See cast, budget $2.7M, and TMDB rating 5.8/10.",
@@ -3977,6 +4884,40 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>Yu Yu Hakusho (1992)</h1>\n<p class=\"ssr-lead\">After dying to save a boy, delinquent tough guy Yusuke Urameshi is granted another chance at life by redeeming himself as a &quot;Spirit Detective.&quot;</p>\n<h2>Key facts</h2>\n<ul><li>First air date: 10 October 1992</li><li>Seasons: 4 · Episodes: 112</li><li>Genres: Animation, Action &amp; Adventure, Sci-Fi &amp; Fantasy</li><li>Certification: U</li><li>Original language: Japanese</li><li>Spoken languages: Japanese</li><li>Production countries: Japan, United States</li><li>Network: Fuji TV</li><li>Episode runtime: 24 minutes</li><li>TMDB rating: 8.5/10 (522 votes)</li><li>Status: Ended</li></ul>\n<h2>Top cast</h2>\n<ul><li>Nozomu Sasaki as Yūsuke Urameshi (voice)</li><li>Shigeru Chiba as Kazuma Kuwabara (voice)</li><li>Megumi Ogata as Kurama/Shūichi Minamino (voice)</li><li>Nobuyuki Hiyama as Hiei (voice)</li><li>Yuri Amano as Keiko Yukimura (voice)</li><li>Hisako Kyoda as Genkai (voice)</li><li>Mayumi Tanaka as Koenma (voice)</li><li>Ai Orikasa as Shizuru Kuwabara (voice)</li><li>Tomomichi Nishimura as Narration (voice)</li><li>Sanae Miyuki as Botan</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Netflix</li></ul>\n<h2>Seasons</h2>\n<ul><li>Specials (5 episodes, 5 October 1994)</li><li>Season 1 (25 episodes, 10 October 1992)</li><li>Season 2 (41 episodes, 17 April 1993)</li><li>Season 3 (28 episodes, 5 February 1994)</li><li>Season 4 (18 episodes, 20 August 1994)</li></ul>\n</article>",
    "t": "Yu Yu Hakusho (1992) — Seasons, Episodes, Cast & Story | FlickAtlas",
    "year": "1992"
+  },
+  "tv:341769": {
+   "d": "The Killing of The Golden Rooster (2026) is a Documentary and Crime TV series. Explore its story: Twenty years after the murder of the Mexican regional….",
+   "img": "https://image.tmdb.org/t/p/w780/9bZk0CshPxaYufswVE21ZOpJ3g7.jpg",
+   "industry": "world",
+   "k": "The Killing of The Golden Rooster, The Killing of The Golden Rooster TV series, The Killing of The Golden Rooster cast, The Killing of The Golden Rooster story, The Killing of The Golden Rooster seasons, The Killing of The Golden Rooster episodes, The Killing of The Golden Rooster season 1, The Killing of The Golden Rooster 3 episodes, The Killing of The Golden Rooster first air date, The Killing of The Golden Rooster trailer, The Killing of The Golden Rooster Documentary, The Killing of The Golden Rooster Crime, World Cinema TV series, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "TVSeries",
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 19,
+     "ratingValue": 8.4,
+     "worstRating": 0
+    },
+    "description": "The Killing of The Golden Rooster (2026) is a Documentary and Crime TV series. Explore its story: Twenty years after the murder of the Mexican regional….",
+    "genre": [
+     "Documentary",
+     "Crime"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/9bZk0CshPxaYufswVE21ZOpJ3g7.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/show?id=341769",
+    "name": "The Killing of The Golden Rooster",
+    "numberOfEpisodes": 3,
+    "numberOfSeasons": 1,
+    "startDate": "2026-11-12",
+    "url": "https://flickatlas.co.uk/show?id=341769"
+   },
+   "modified": "",
+   "published": "2026-11-18",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>The Killing of The Golden Rooster (2026)</h1>\n<p class=\"ssr-lead\">Twenty years after the murder of the Mexican regional music icon, the production reconstructs the hours that shaped his story and revisits the questions that, two decades later, remain unanswered.</p>\n<h2>Key facts</h2>\n<ul><li>First air date: 12 November 2026</li><li>Seasons: 1 · Episodes: 3</li><li>Genres: Documentary, Crime</li><li>Certification: TV-MA</li><li>Original language: Spanish</li><li>Spoken languages: Spanish</li><li>Network: HBO Max</li><li>Official trailer: Official Trailer [ENG SUB]</li><li>TMDB rating: 8.4/10 (19 votes)</li><li>Status: Ended</li></ul>\n<h2>Seasons</h2>\n<ul><li>Season 1 (3 episodes, 12 November 2026)</li></ul>\n</article>",
+   "t": "The Killing of The Golden Rooster (2026) — Seasons, Episodes, Cast & Story | FlickAtlas",
+   "year": "2026"
   },
   "tv:39269": {
    "d": "Scandal (2012) is a Drama TV series. Explore its story: Everyone has secrets and Olivia Pope has dedicated…, cast, 7 seasons, and 124 episodes.",

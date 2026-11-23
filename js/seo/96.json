@@ -1,7 +1,68 @@
 {
  "bucket": "96",
- "count": 72,
+ "count": 83,
  "titles": {
+  "movie:1003596": {
+   "d": "Avengers: Doomsday (2026): Science Fiction/Action film. Story: Beloved heroes from three distinct universes are set… See cast and release date 17 December 2026.",
+   "img": "https://image.tmdb.org/t/p/w780/rObL4of4eFA8yWaN9pRFo9aOVNi.jpg",
+   "industry": "world",
+   "k": "Avengers: Doomsday, Avengers: Doomsday movie, Avengers: Doomsday cast, Avengers: Doomsday story, Avengers: Doomsday box office collection, Avengers: Doomsday budget, Avengers: Doomsday review, Avengers: Doomsday rating, Avengers: Doomsday release date, Avengers: Doomsday trailer, Avengers: Doomsday Science Fiction, Avengers: Doomsday Action, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Robert Downey Jr."
+     },
+     {
+      "@type": "Person",
+      "name": "Chris Evans"
+     },
+     {
+      "@type": "Person",
+      "name": "Chris Hemsworth"
+     },
+     {
+      "@type": "Person",
+      "name": "Pedro Pascal"
+     },
+     {
+      "@type": "Person",
+      "name": "Paul Rudd"
+     }
+    ],
+    "description": "Avengers: Doomsday (2026): Science Fiction/Action film. Story: Beloved heroes from three distinct universes are set… See cast and release date 17 December 2026.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Joe Russo"
+     },
+     {
+      "@type": "Person",
+      "name": "Anthony Russo"
+     }
+    ],
+    "duration": "PT165M",
+    "genre": [
+     "Science Fiction",
+     "Action"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/rObL4of4eFA8yWaN9pRFo9aOVNi.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1003596",
+    "name": "Avengers: Doomsday",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-12-17"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1003596"
+   },
+   "modified": "",
+   "published": "2026-10-26",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Avengers: Doomsday (2026)</h1>\n<p class=\"ssr-lead\">Beloved heroes from three distinct universes are set on a deadly collision course and face an existential threat unlike anything they&#x27;ve ever encountered.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 17 December 2026</li><li>Runtime: 165 minutes</li><li>Director: Joe Russo, Anthony Russo</li><li>Genres: Science Fiction, Action, Adventure</li><li>Tagline: Meet your doom.</li><li>Certification: +13</li><li>Original language: English</li><li>Spoken languages: English</li><li>Production countries: United States</li><li>Official trailer: Special Look</li><li>Status: Post Production</li></ul>\n<h2>Top cast</h2>\n<ul><li>Robert Downey Jr. as Victor von Doom / Doctor Doom</li><li>Chris Evans as Steve Rogers</li><li>Chris Hemsworth as Thor</li><li>Pedro Pascal as Reed Richards / Mister Fantastic</li><li>Paul Rudd as Scott Lang / Ant-Man</li><li>Anthony Mackie as Sam Wilson / Captain America</li><li>Florence Pugh as Yelena Belova</li><li>Vanessa Kirby as Sue Storm / Invisible Woman</li><li>Ebon Moss-Bachrach as Ben Grimm / The Thing</li><li>Wyatt Russell as John Walker</li></ul>\n</article>",
+   "t": "Avengers: Doomsday (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
+  },
   "movie:1028196": {
    "d": "Nickel Boys (2025): Drama/History film. Story: Chronicles the powerful friendship between two young… See cast, budget $23.2M, and TMDB rating 6.6/10.",
    "img": "https://image.tmdb.org/t/p/w780/kmLssINCNdXnIDjWkBsk6LUNSbe.jpg",
@@ -1010,6 +1071,147 @@
    "t": "Oi vita mia (2025) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2025"
   },
+  "movie:1496696": {
+   "d": "Breeder (2026): Horror/Thriller film. Story: An eccentric poodle breeder lures a broke college… See cast, budget $2M, and TMDB rating 6.5/10.",
+   "img": "https://image.tmdb.org/t/p/w780/l5gJE9xW1FFtub3gUezh1PjBbY5.jpg",
+   "industry": "world",
+   "k": "Breeder, Breeder movie, Breeder cast, Breeder story, Breeder box office collection, Breeder budget, Breeder review, Breeder rating, Breeder release date, Breeder trailer, Breeder Horror, Breeder Thriller, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Daniel Doheny"
+     },
+     {
+      "@type": "Person",
+      "name": "Dot-Marie Jones"
+     },
+     {
+      "@type": "Person",
+      "name": "Maddie Phillips"
+     },
+     {
+      "@type": "Person",
+      "name": "Tanaya Beatty"
+     },
+     {
+      "@type": "Person",
+      "name": "Paige McGarvin"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 2,
+     "ratingValue": 6.5,
+     "worstRating": 0
+    },
+    "description": "Breeder (2026): Horror/Thriller film. Story: An eccentric poodle breeder lures a broke college… See cast, budget $2M, and TMDB rating 6.5/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Alex Goyette"
+     }
+    ],
+    "duration": "PT97M",
+    "genre": [
+     "Horror",
+     "Thriller"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/l5gJE9xW1FFtub3gUezh1PjBbY5.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1496696",
+    "name": "Breeder",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-10-28"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1496696"
+   },
+   "modified": "",
+   "published": "2026-11-03",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Breeder (2026)</h1>\n<p class=\"ssr-lead\">An eccentric poodle breeder lures a broke college student to her remote ranch with a promise of research funding. But, as he soon learns, there’s a catch.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 28 October 2026</li><li>Runtime: 97 minutes</li><li>Director: Alex Goyette</li><li>Genres: Horror, Thriller</li><li>Tagline: Perfection has its price.</li><li>Certification: R</li><li>Original language: English</li><li>Spoken languages: English</li><li>Production countries: United States</li><li>Official trailer: Official Trailer</li><li>Budget: $2M</li><li>TMDB rating: 6.5/10 (2 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Daniel Doheny as Russell</li><li>Dot-Marie Jones as Patti</li><li>Maddie Phillips as Ainsley</li><li>Tanaya Beatty as Haley</li><li>Paige McGarvin as Cosette</li><li>Carmen Moore as Angela</li><li>Lillian Doucet-Roche as Yara</li><li>Rochelle Greenwood as Cindy</li><li>Charlotte Kavanagh as Celeste</li><li>John Murphy as Officer Morgan</li></ul>\n</article>",
+   "t": "Breeder (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
+  },
+  "movie:1507696": {
+   "d": "Apocalypse Z: New World (2026): Action/Thriller film. Story: The Canary Islands have become Europe’s last refuge… See cast, review 7/10, and TMDB rating 9.0/10.",
+   "img": "https://image.tmdb.org/t/p/w780/o3XwuDUj0n8qnK91p6q8LKfr6rj.jpg",
+   "industry": "world",
+   "k": "Apocalypse Z: New World, Apocalypse Z: New World movie, Apocalypse Z: New World cast, Apocalypse Z: New World story, Apocalypse Z: New World box office collection, Apocalypse Z: New World budget, Apocalypse Z: New World review, Apocalypse Z: New World rating, Apocalypse Z: New World release date, Apocalypse Z: New World trailer, Apocalypse Z: New World Action, Apocalypse Z: New World Thriller, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Carlos Alcaide"
+     },
+     {
+      "@type": "Person",
+      "name": "Julia Martínez"
+     },
+     {
+      "@type": "Person",
+      "name": "José María Yázpik"
+     },
+     {
+      "@type": "Person",
+      "name": "Mónica López"
+     },
+     {
+      "@type": "Person",
+      "name": "Tamara Casellas"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 3,
+     "ratingValue": 9.0,
+     "worstRating": 0
+    },
+    "description": "Apocalypse Z: New World (2026): Action/Thriller film. Story: The Canary Islands have become Europe’s last refuge… See cast, review 7/10, and TMDB rating 9.0/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Carles Torrens"
+     }
+    ],
+    "duration": "PT96M",
+    "genre": [
+     "Action",
+     "Thriller"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/o3XwuDUj0n8qnK91p6q8LKfr6rj.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1507696",
+    "name": "Apocalypse Z: New World",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-10-09"
+    },
+    "review": {
+     "@type": "Review",
+     "author": {
+      "@type": "Organization",
+      "name": "FlickAtlas"
+     },
+     "reviewBody": "Apocalypse Z: New World expands its post-apocalyptic universe with greater technical complexity and larger zombie hordes under the direction of Carles Torrens. While it leans heavily on familiar genre tropes and struggles at times with character engagement, it delivers enough practical effects and survival tension for fans of the franchise. It is recommended for viewers looking for a straightforward, action-oriented zombie thriller.",
+     "reviewRating": {
+      "@type": "Rating",
+      "bestRating": 10,
+      "ratingValue": 7.0
+     }
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1507696"
+   },
+   "modified": "",
+   "published": "2026-10-30",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Apocalypse Z: New World (2026)</h1>\n<p class=\"ssr-lead\">The Canary Islands have become Europe’s last refuge following the outbreak of the TSJ virus. When a special mission sets out for the mainland in search of vital supplies, Roberto joins the team with questionable intentions. The dangerous operation turns into a desperate race for survival, and Roberto and his companions find themselves caught between hordes of infected and divided loyalties.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 9 October 2026</li><li>Runtime: 96 minutes</li><li>Director: Carles Torrens</li><li>Genres: Action, Thriller, Horror</li><li>Certification: 16</li><li>Original language: Spanish</li><li>Spoken languages: Spanish</li><li>Production countries: Spain</li><li>Official trailer: Official Trailer [Subtitled]</li><li>TMDB rating: 9.0/10 (3 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Carlos Alcaide as Roberto</li><li>Julia Martínez as Marina</li><li>José María Yázpik as Pritchenko</li><li>Mónica López as Castro</li><li>Tamara Casellas as Comillas</li><li>Berta Vázquez as Lucía</li><li>Santiago Vaca Narvaja as Core</li><li>Mario Mayo as Comandante De Luna</li><li>Javier Godino as González-Escalona</li><li>Pedro Hernández as Guzmán</li></ul>\n<h2>FlickAtlas review</h2>\n<p>Overall: 7/10.</p>\n<ul><li>Action &amp; Cinematography: 7.5/10</li><li>Comedy &amp; Entertainment: 6/10</li><li>Direction: 7.5/10</li><li>Music &amp; BGM: 6.5/10</li><li>Performances: 6.5/10</li><li>Story &amp; Screenplay: 7/10</li></ul>\n<h3>Story &amp; Plot</h3>\n<p>Following the outbreak of the TSJ virus, the Canary Islands serve as Europe&#x27;s last refuge as chaos engulfs the mainland. When a special mission sets out in search of vital supplies, Roberto joins the team with questionable intentions. The dangerous operation transforms into a desperate race for survival against hordes of infected and divided loyalties.</p>\n<h3>Comedy &amp; Entertainment</h3>\n<p>As an action-packed zombie thriller, the film focuses primarily on post-apocalyptic danger, survival stakes, and a fight for survival rather than traditional humor. Its entertainment value derives from its large-scale tension, genre tropes, and the relentless pressure placed on its characters. The narrative leans heavily into the thrills of a deadly virus outbreak and the claustrophobia of a dead city.</p>\n<h3>Performances &amp; Direction</h3>\n<p>The cast features actors such as Carlos Alcaide, Julia Martínez, Mónica López, Tamara Casellas, and Santiago Vaca Narvaja. Reviewers noted that some viewers may struggle to feel fully invested in the characters as the narrative progresses. Nevertheless, the ensemble populates this second installment of the Spanish zombie movie franchise.</p>\n<h3>Strengths</h3>\n<ul><li>Larger hordes of zombies</li><li>Masterful practical effects</li><li>Efficient direction by Carles Torrens</li><li>Expanded technical complexity</li><li>Use of multiple camera crews and drones</li></ul>\n<h3>Weaknesses</h3>\n<p>Despite its efficient pacing and technical scale, the film sticks closely to familiar zombie genre tropes. Some viewers may never manage to feel truly interested or invested in the characters throughout the story. Additionally, it carries the risk of feeling like a familiar exercise to anyone who has already seen enough movies in the genre.</p>\n<h3>Final verdict</h3>\n<p>Apocalypse Z: New World expands its post-apocalyptic universe with greater technical complexity and larger zombie hordes under the direction of Carles Torrens. While it leans heavily on familiar genre tropes and struggles at times with character engagement, it delivers enough practical effects and survival tension for fans of the franchise. It is recommended for viewers looking for a straightforward, action-oriented zombie thriller.</p>\n<h2>Where to watch</h2>\n<ul><li>Streaming on Amazon Prime Video (IN)</li><li>Streaming on Amazon Prime Video with Ads (IN)</li></ul>\n</article>",
+   "t": "Apocalypse Z: New World (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
+  },
   "movie:1558796": {
    "d": "Never Change! (2026): Comedy film. Story: Nearly two decades after a devastating tornado… See cast, TMDB rating 6.0/10, and release date 9 June 2026.",
    "img": "https://image.tmdb.org/t/p/w780/bfJ2MvS4wixkQ7tQX0a87q1XYlE.jpg",
@@ -1137,6 +1339,63 @@
    "t": "Population 436 (2006) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2006"
   },
+  "movie:1615596": {
+   "d": "Best Pancakes in the County (2026): Action/Thriller film. Story: Over the course of one explosive night, a small-town… See cast and budget $9M.",
+   "img": "https://image.tmdb.org/t/p/w780/34eWzsWpZa17DqT8KeL5InlvRK7.jpg",
+   "industry": "world",
+   "k": "Best Pancakes in the County, Best Pancakes in the County movie, Best Pancakes in the County cast, Best Pancakes in the County story, Best Pancakes in the County box office collection, Best Pancakes in the County budget, Best Pancakes in the County review, Best Pancakes in the County rating, Best Pancakes in the County release date, Best Pancakes in the County trailer, Best Pancakes in the County Action, Best Pancakes in the County Thriller, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Nicolas Cage"
+     },
+     {
+      "@type": "Person",
+      "name": "Justin Long"
+     },
+     {
+      "@type": "Person",
+      "name": "Shelley Hennig"
+     },
+     {
+      "@type": "Person",
+      "name": "Ravi Patel"
+     },
+     {
+      "@type": "Person",
+      "name": "Brandon Mychal Smith"
+     }
+    ],
+    "description": "Best Pancakes in the County (2026): Action/Thriller film. Story: Over the course of one explosive night, a small-town… See cast and budget $9M.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Ken Sanzel"
+     }
+    ],
+    "duration": "PT98M",
+    "genre": [
+     "Action",
+     "Thriller"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/34eWzsWpZa17DqT8KeL5InlvRK7.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1615596",
+    "name": "Best Pancakes in the County",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-11-03"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1615596"
+   },
+   "modified": "",
+   "published": "2026-11-09",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Best Pancakes in the County (2026)</h1>\n<p class=\"ssr-lead\">Over the course of one explosive night, a small-town diner becomes the epicenter of a deadly standoff involving rogue federal agents, a fast-talking con man with a dangerous past, and a waitress harboring secrets of her own.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 3 November 2026</li><li>Runtime: 98 minutes</li><li>Director: Ken Sanzel</li><li>Genres: Action, Thriller, Crime</li><li>Original language: English</li><li>Spoken languages: English</li><li>Production countries: United States</li><li>Official trailer: BEST PANCAKES IN THE COUNTY | Official Trailer | Feat. Nicolas Cage, Justin Long &amp; Shelley Hennig</li><li>Budget: $9M</li></ul>\n<h2>Top cast</h2>\n<ul><li>Nicolas Cage as The Sonofabitch</li><li>Justin Long as Cookie</li><li>Shelley Hennig as Dolly</li><li>Ravi Patel as Ryder</li><li>Brandon Mychal Smith as Agent Otto</li><li>Kelly Greyson as Blondie</li><li>Jaylen Moore as French</li><li>Michael Sirow as Agent Kincaid</li><li>Chick Bernhard as George</li><li>Rosie Bernhard as Irma</li></ul>\n</article>",
+   "t": "Best Pancakes in the County (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
+  },
   "movie:1620996": {
    "d": "The Blue Box (2026): Romance/Thriller film. Story: Pablo is a young, wealthy but solitary man… See cast, TMDB rating 7.1/10, and release date 16 April 2026.",
    "img": "https://image.tmdb.org/t/p/w780/9NyHabsIT6aVdLKw7ZYsBn7Vw6R.jpg",
@@ -1201,6 +1460,63 @@
    "t": "The Blue Box (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2026"
   },
+  "movie:1745196": {
+   "d": "The Wanderers - Episode I (2026): Science Fiction/Thriller film. See cast, budget $300, and release date 25 November 2026.",
+   "img": "https://image.tmdb.org/t/p/w500/zgJIEHwOyyoOcN6tlRJDquVEYYS.jpg",
+   "industry": "world",
+   "k": "The Wanderers - Episode I, The Wanderers - Episode I movie, The Wanderers - Episode I cast, The Wanderers - Episode I story, The Wanderers - Episode I box office collection, The Wanderers - Episode I budget, The Wanderers - Episode I review, The Wanderers - Episode I rating, The Wanderers - Episode I release date, The Wanderers - Episode I Science Fiction, The Wanderers - Episode I Thriller, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Thibault Blancard"
+     },
+     {
+      "@type": "Person",
+      "name": "Emilie Hubert--Nicoli"
+     },
+     {
+      "@type": "Person",
+      "name": "Thelio Maria"
+     },
+     {
+      "@type": "Person",
+      "name": "Lilo Lazaro"
+     },
+     {
+      "@type": "Person",
+      "name": "David Comes"
+     }
+    ],
+    "description": "The Wanderers - Episode I (2026): Science Fiction/Thriller film. See cast, budget $300, and release date 25 November 2026.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Samuel Gachon"
+     }
+    ],
+    "genre": [
+     "Science Fiction",
+     "Thriller"
+    ],
+    "image": "https://image.tmdb.org/t/p/w500/zgJIEHwOyyoOcN6tlRJDquVEYYS.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1745196",
+    "name": "The Wanderers - Episode I",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-11-25"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1745196"
+   },
+   "modified": "",
+   "published": "2026-11-18",
+   "robots": "noindex,follow",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>The Wanderers - Episode I (2026)</h1>\n<h2>Key facts</h2>\n<ul><li>Release date: 25 November 2026</li><li>Director: Samuel Gachon</li><li>Genres: Science Fiction, Thriller</li><li>Original language: French</li><li>Production countries: France</li><li>Budget: $300</li><li>Status: In Production</li></ul>\n<h2>Top cast</h2>\n<ul><li>Thibault Blancard as Nazeer</li><li>Emilie Hubert--Nicoli as Mary</li><li>Thelio Maria as Yan</li><li>Lilo Lazaro as Charlotte</li><li>David Comes as Rais</li><li>Quentin Valente as Moss</li><li>Melusine Pourriere as Cassandre</li><li>Eric Cravero as Le Grand-père</li><li>Alexandre Strili as Arnaud</li><li>Samy Barr as Le Scientifique</li></ul>\n</article>",
+   "t": "The Wanderers - Episode I (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
+  },
   "movie:180296": {
    "d": "They Came Together (2014): Comedy film. Story: A small business owner is about to lose her shop to a… See cast and TMDB rating 5.5/10.",
    "img": "https://image.tmdb.org/t/p/w780/be8mNf9tHTjrJWQ1O9srDYEAfTj.jpg",
@@ -1263,6 +1579,213 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>They Came Together (2014)</h1>\n<p class=\"ssr-lead\">A small business owner is about to lose her shop to a major corporate development.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 27 June 2014</li><li>Runtime: 83 minutes</li><li>Director: David Wain</li><li>Genres: Comedy</li><li>Tagline: He came...She came...They both came</li><li>Certification: R</li><li>Original language: English</li><li>Spoken languages: English</li><li>Production countries: United States</li><li>TMDB rating: 5.5/10 (467 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Paul Rudd as Joel</li><li>Amy Poehler as Molly</li><li>Bill Hader as Kyle</li><li>Ellie Kemper as Karen</li><li>Cobie Smulders as Tiffany</li><li>Noureen DeWulf as Melanie</li><li>Jason Mantzoukas as Bob</li><li>Michael Ian Black as Trevor</li><li>Michaela Watkins as Habermeyer</li><li>Randall Park as Martinson</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Amazon Video</li></ul>\n</article>",
    "t": "They Came Together (2014) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2014"
+  },
+  "movie:1803696": {
+   "d": "Unhealed Wounds (2026) is a film. Story: A sentimental journey of a desi family navigating the… See cast and release date 8 November 2026.",
+   "img": "https://image.tmdb.org/t/p/w500/oL6oT4t2FWK45jIQyALLBQEQOiP.jpg",
+   "industry": "world",
+   "k": "Unhealed Wounds, Unhealed Wounds movie, Unhealed Wounds cast, Unhealed Wounds story, Unhealed Wounds box office collection, Unhealed Wounds budget, Unhealed Wounds review, Unhealed Wounds rating, Unhealed Wounds release date, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "description": "Unhealed Wounds (2026) is a film. Story: A sentimental journey of a desi family navigating the… See cast and release date 8 November 2026.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Raania Ghouri"
+     }
+    ],
+    "duration": "PT9M",
+    "image": "https://image.tmdb.org/t/p/w500/oL6oT4t2FWK45jIQyALLBQEQOiP.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1803696",
+    "name": "Unhealed Wounds",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-11-08"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1803696"
+   },
+   "modified": "",
+   "published": "2026-11-01",
+   "robots": "noindex,follow",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Unhealed Wounds (2026)</h1>\n<p class=\"ssr-lead\">A sentimental journey of a desi family navigating the loss of a husband and father as they regain control over their lives.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 8 November 2026</li><li>Runtime: 9 minutes</li><li>Director: Raania Ghouri</li><li>Tagline: Does time heal all wounds?</li><li>Original language: English</li><li>Spoken languages: English</li></ul>\n</article>",
+   "t": "Unhealed Wounds (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
+  },
+  "movie:1806696": {
+   "d": "D!SoRd3rEd (2026) is a film. Story: In a wasteland of rubble and ruin, J. Doe—a Black… See cast and release date 15 November 2026.",
+   "img": "https://image.tmdb.org/t/p/w500/gwr9P4iW4ii45rPoL53Utqe2Wmk.jpg",
+   "industry": "world",
+   "k": "D!SoRd3rEd, D!SoRd3rEd movie, D!SoRd3rEd cast, D!SoRd3rEd story, D!SoRd3rEd box office collection, D!SoRd3rEd budget, D!SoRd3rEd review, D!SoRd3rEd rating, D!SoRd3rEd release date, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Corey Allen"
+     }
+    ],
+    "description": "D!SoRd3rEd (2026) is a film. Story: In a wasteland of rubble and ruin, J. Doe—a Black… See cast and release date 15 November 2026.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Corey Allen"
+     }
+    ],
+    "duration": "PT9M",
+    "image": "https://image.tmdb.org/t/p/w500/gwr9P4iW4ii45rPoL53Utqe2Wmk.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1806696",
+    "name": "D!SoRd3rEd",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-11-15"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1806696"
+   },
+   "modified": "",
+   "published": "2026-11-08",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>D!SoRd3rEd (2026)</h1>\n<p class=\"ssr-lead\">In a wasteland of rubble and ruin, J. Doe—a Black Patient Zero—navigates the wreckage of a nation haunted by its own reflection. Pursued by histories of violence, erasure, and resistance, he confronts the ghosts of an unfinished reckoning. Blurring archive and hallucination, Disordered is a visual requiem—part ritual, part rupture—that confronts the consequences of a soul that cannot forget, yet refuses to remember its past.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 15 November 2026</li><li>Runtime: 9 minutes</li><li>Director: Corey Allen</li><li>Original language: English</li><li>Spoken languages: English</li><li>Production countries: United States</li></ul>\n<h2>Top cast</h2>\n<ul><li>Corey Allen as J. Doe</li></ul>\n</article>",
+   "t": "D!SoRd3rEd (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
+  },
+  "movie:1812796": {
+   "d": "Ouragan Hugo, l'épreuve du vent (2026): Documentary film. See cast and release date 18 November 2026.",
+   "img": "https://image.tmdb.org/t/p/w780/7Oq8mNc15088wkqSK3fgtm3526Q.jpg",
+   "industry": "world",
+   "k": "Ouragan Hugo, l'épreuve du vent, Ouragan Hugo, l'épreuve du vent movie, Ouragan Hugo, l'épreuve du vent cast, Ouragan Hugo, l'épreuve du vent story, Ouragan Hugo, l'épreuve du vent box office collection, Ouragan Hugo, l'épreuve du vent budget, Ouragan Hugo, l'épreuve du vent review, Ouragan Hugo, l'épreuve du vent rating, Ouragan Hugo, l'épreuve du vent release date, Ouragan Hugo, l'épreuve du vent Documentary, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "description": "Ouragan Hugo, l'épreuve du vent (2026): Documentary film. See cast and release date 18 November 2026.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Marion Guegan"
+     }
+    ],
+    "genre": [
+     "Documentary"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/7Oq8mNc15088wkqSK3fgtm3526Q.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1812796",
+    "name": "Ouragan Hugo, l'épreuve du vent",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-11-18"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1812796"
+   },
+   "modified": "",
+   "published": "2026-11-11",
+   "robots": "noindex,follow",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Ouragan Hugo, l&#x27;épreuve du vent (2026)</h1>\n<h2>Key facts</h2>\n<ul><li>Release date: 18 November 2026</li><li>Director: Marion Guegan</li><li>Genres: Documentary</li><li>Certification: TP</li><li>Original language: French</li><li>Spoken languages: French</li><li>Production countries: France</li></ul>\n</article>",
+   "t": "Ouragan Hugo, l'épreuve du vent (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
+  },
+  "movie:1819796": {
+   "d": "I've Never Met Myself (2026): Drama film. Story: Back home after a night on stage, Kim strips away the… See cast and release date 21 November 2026.",
+   "img": "https://image.tmdb.org/t/p/w500/iT2zBAqfJL6JgI0Zeu5ijxp6QrK.jpg",
+   "industry": "world",
+   "k": "I've Never Met Myself, I've Never Met Myself movie, I've Never Met Myself cast, I've Never Met Myself story, I've Never Met Myself box office collection, I've Never Met Myself budget, I've Never Met Myself review, I've Never Met Myself rating, I've Never Met Myself release date, I've Never Met Myself Drama, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Kim Carboni"
+     },
+     {
+      "@type": "Person",
+      "name": "Alois Gonzalez"
+     },
+     {
+      "@type": "Person",
+      "name": "Klemens Valentino Laumer"
+     },
+     {
+      "@type": "Person",
+      "name": "Tim Stolberg"
+     },
+     {
+      "@type": "Person",
+      "name": "Mario Högemann"
+     }
+    ],
+    "description": "I've Never Met Myself (2026): Drama film. Story: Back home after a night on stage, Kim strips away the… See cast and release date 21 November 2026.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Ozan Emre Kayas"
+     }
+    ],
+    "duration": "PT9M",
+    "genre": [
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w500/iT2zBAqfJL6JgI0Zeu5ijxp6QrK.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1819796",
+    "name": "I've Never Met Myself",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-11-21"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1819796"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>I&#x27;ve Never Met Myself (2026)</h1>\n<p class=\"ssr-lead\">Back home after a night on stage, Kim strips away the remnants of her drag persona. As each layer of performance disappears, painful memories resurface, forcing her to confront what she has been trying to leave behind.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 21 November 2026</li><li>Runtime: 9 minutes</li><li>Director: Ozan Emre Kayas</li><li>Genres: Drama</li><li>Original language: English</li></ul>\n<h2>Top cast</h2>\n<ul><li>Kim Carboni as Kim</li><li>Alois Gonzalez as Mahmoud</li><li>Klemens Valentino Laumer as Man 1</li><li>Tim Stolberg as Man 2</li><li>Mario Högemann as Host</li><li>Belina Muhongo as Assistant</li><li>Alina Vogl as Artist</li><li>Elena Zanichellli as Mamma</li></ul>\n</article>",
+   "t": "I've Never Met Myself (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
+  },
+  "movie:1820396": {
+   "d": "Ultramarine Blue, Pearl White, and a Hint of Honey Yellow (2026): Drama film. Story: “Art does not come from happiness:” this is the… See cast.",
+   "img": "https://image.tmdb.org/t/p/w500/jQfUohx1eqaLZpaPFKOOgSTwcD5.jpg",
+   "industry": "world",
+   "k": "Ultramarine Blue, Pearl White, and a Hint of Honey Yellow, Ultramarine Blue, Pearl White, and a Hint of Honey Yellow movie, Ultramarine Blue, Pearl White, and a Hint of Honey Yellow cast, Ultramarine Blue, Pearl White, and a Hint of Honey Yellow story, Ultramarine Blue, Pearl White, and a Hint of Honey Yellow box office collection, Ultramarine Blue, Pearl White, and a Hint of Honey Yellow budget, Ultramarine Blue, Pearl White, and a Hint of Honey Yellow review, Ultramarine Blue, Pearl White, and a Hint of Honey Yellow rating, Ultramarine Blue, Pearl White, and a Hint of Honey Yellow release date, Ultramarine Blue, Pearl White, and a Hint of Honey Yellow Drama, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Francesco Gheghi"
+     },
+     {
+      "@type": "Person",
+      "name": "Carlotta Gamba"
+     },
+     {
+      "@type": "Person",
+      "name": "Enrico Borello"
+     }
+    ],
+    "description": "Ultramarine Blue, Pearl White, and a Hint of Honey Yellow (2026): Drama film. Story: “Art does not come from happiness:” this is the… See cast.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Francesco Gheghi"
+     }
+    ],
+    "duration": "PT21M",
+    "genre": [
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w500/jQfUohx1eqaLZpaPFKOOgSTwcD5.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1820396",
+    "name": "Ultramarine Blue, Pearl White, and a Hint of Honey Yellow",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-11-29"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1820396"
+   },
+   "modified": "",
+   "published": "2026-11-22",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Ultramarine Blue, Pearl White, and a Hint of Honey Yellow (2026)</h1>\n<p class=\"ssr-lead\">“Art does not come from happiness:” this is the belief of Ennio, a talented young painter. After reaching the lowest point of his sadness, he is convinced that he will succeed in creating a great work of art… But no, he fails, he has lost his inspiration.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 29 November 2026</li><li>Runtime: 21 minutes</li><li>Director: Francesco Gheghi</li><li>Genres: Drama</li><li>Original language: IT</li><li>Spoken languages: IT</li><li>Status: Post Production</li></ul>\n<h2>Top cast</h2>\n<ul><li>Francesco Gheghi</li><li>Carlotta Gamba</li><li>Enrico Borello</li></ul>\n</article>",
+   "t": "Ultramarine Blue, Pearl White, and a Hint of Honey Yellow (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
   },
   "movie:18896": {
    "d": "The French Kissers (2009): Comedy/Drama film. Story: An awkward adolescent boy and his angst-ridden… See cast, budget $3.5M, and TMDB rating 5.8/10.",
@@ -2730,6 +3253,87 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>Sidewalls (2011)</h1>\n<p class=\"ssr-lead\">Martin is a neurotic web designer taking baby steps out of the isolation of his one-room apartment and his virtual reality. Mariana is an artist fresh out of a long relationship. They are perfect for each other, live on the same street, in opposite buildings, but they never meet. Can the movement of a modern city of three million people bring them together?</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 1 June 2011</li><li>Runtime: 94 minutes</li><li>Director: Gustavo Taretto</li><li>Genres: Drama, Romance</li><li>Tagline: How do you find love when you don’t know where it is?</li><li>Certification: PG-13</li><li>Original language: Spanish</li><li>Spoken languages: French, Spanish</li><li>Production countries: AR, Germany, Spain</li><li>Budget: $11M</li><li>TMDB rating: 7.5/10 (327 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Pilar López de Ayala as Mariana</li><li>Javier Drolas as Martín</li><li>Inés Efrón as Ana</li><li>Rafael Ferro as Rafa</li><li>Jorge Ernesto Lanata as Traumatólogo</li><li>Carla Peterson as Marcela</li><li>Adrián Navarro as Lucas</li><li>Romina Paula as Ex novia</li><li>Alan Pauls as Ex novio</li><li>Miguel Dedovich as Psiquiatra</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Philo, AMC+ Amazon Channel, AMC+ Roku Premium Channel, Sundance Now</li><li>Rent: Amazon Video, Google Play Movies, YouTube</li><li>Buy: Amazon Video, Google Play Movies, YouTube</li></ul>\n</article>",
    "t": "Sidewalls (2011) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2011"
+  },
+  "movie:803796": {
+   "d": "KPop Demon Hunters (2025): Fantasy/Music film. Story: When K-pop superstars Rumi, Mira and Zoey aren't… See cast, budget $100M, and review 8/10.",
+   "img": "https://image.tmdb.org/t/p/w780/w3Bi0wygeFQctn6AqFTwhGNXRwL.jpg",
+   "industry": "world",
+   "k": "KPop Demon Hunters, KPop Demon Hunters movie, KPop Demon Hunters cast, KPop Demon Hunters story, KPop Demon Hunters box office collection, KPop Demon Hunters budget, KPop Demon Hunters review, KPop Demon Hunters rating, KPop Demon Hunters release date, KPop Demon Hunters trailer, KPop Demon Hunters Fantasy, KPop Demon Hunters Music, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Arden Cho"
+     },
+     {
+      "@type": "Person",
+      "name": "May Hong"
+     },
+     {
+      "@type": "Person",
+      "name": "Ji-young Yoo"
+     },
+     {
+      "@type": "Person",
+      "name": "Ahn Hyo-seop"
+     },
+     {
+      "@type": "Person",
+      "name": "Kim Yun-jin"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 3340,
+     "ratingValue": 8.0,
+     "worstRating": 0
+    },
+    "description": "KPop Demon Hunters (2025): Fantasy/Music film. Story: When K-pop superstars Rumi, Mira and Zoey aren't… See cast, budget $100M, and review 8/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Chris Appelhans"
+     },
+     {
+      "@type": "Person",
+      "name": "Maggie Kang"
+     }
+    ],
+    "duration": "PT96M",
+    "genre": [
+     "Fantasy",
+     "Music"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/w3Bi0wygeFQctn6AqFTwhGNXRwL.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=803796",
+    "name": "KPop Demon Hunters",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2025-08-23"
+    },
+    "review": {
+     "@type": "Review",
+     "author": {
+      "@type": "Organization",
+      "name": "FlickAtlas"
+     },
+     "reviewBody": "KPop Demon Hunters is a spirited and entertaining animated film that delivers incredible songs, stellar animation, and a fun pop fantasy adventure. While it rushes through its final act and lacks some depth in its character arcs, it is well worth watching for fans of the genre. Recommended for anyone looking for a joyful blend of music and action.",
+     "reviewRating": {
+      "@type": "Rating",
+      "bestRating": 10,
+      "ratingValue": 8.0
+     }
+    },
+    "url": "https://flickatlas.co.uk/movie?id=803796"
+   },
+   "modified": "",
+   "published": "2026-11-01",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>KPop Demon Hunters (2025)</h1>\n<p class=\"ssr-lead\">When K-pop superstars Rumi, Mira and Zoey aren&#x27;t selling out stadiums, they&#x27;re using their secret powers to protect their fans from supernatural threats.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 23 August 2025</li><li>Runtime: 96 minutes</li><li>Director: Chris Appelhans, Maggie Kang</li><li>Genres: Fantasy, Music, Comedy, Animation</li><li>Tagline: They sing. They dance. They battle demons.</li><li>Certification: U/A 7+</li><li>Original language: English</li><li>Spoken languages: English, Korean</li><li>Production countries: United States</li><li>Official trailer: Official Trailer</li><li>Budget: $100M</li><li>TMDB rating: 8.0/10 (3340 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Arden Cho as Rumi (voice)</li><li>May Hong as Mira (voice)</li><li>Ji-young Yoo as Zoey (voice)</li><li>Ahn Hyo-seop as Jinu (voice)</li><li>Kim Yun-jin as Celine (voice)</li><li>Ken Jeong as Bobby (voice)</li><li>Lee Byung-hun as Gwi-Ma (voice)</li><li>Daniel Dae Kim as Healer Han / Additional Voices (voice)</li><li>Joel Kim Booster as Variety Show Host 1 / Idol Host / Romance Saja (voice)</li><li>Liza Koshy as Host (voice)</li></ul>\n<h2>FlickAtlas review</h2>\n<p>Overall: 8/10.</p>\n<ul><li>Action &amp; Cinematography: 8/10</li><li>Comedy &amp; Entertainment: 8/10</li><li>Direction: 7.5/10</li><li>Music &amp; BGM: 9/10</li><li>Performances: 8/10</li><li>Story &amp; Screenplay: 7.5/10</li></ul>\n<h3>Story &amp; Plot</h3>\n<p>The animated musical fantasy follows the K-pop trio Huntr/x, consisting of Rumi, Mira, and Zoey, who lead secret double lives protecting their fans from supernatural threats when they are not selling out stadiums. Alongside their musical careers, the group faces off against a rival boy band named the Saja Boys. The narrative is heavily grounded in Korean mythology as the members balance their pop superstardom with demon-slaying duties.</p>\n<h3>Comedy &amp; Entertainment</h3>\n<p>The film delivers an entertaining pop fantasy that thrills viewers with plenty of rhythm and humor. Reviewers note that the feature is a joyful, spirited, and fast-paced romp that blends catchy concepts into a fun narrative. Its lighthearted and entertaining approach successfully matches its energetic premise without relying on overly complex setups.</p>\n<h3>Performances &amp; Direction</h3>\n<p>The movie boasts an all-star voice cast featuring Arden Cho as Rumi, May Hong as Mira, Ji-young Yoo as Zoey, Ahn Hyo-seop as Jinu, Yunjin Kim as Celine, and Ken Jeong as Bobby. The voice talents bring the characters to life effectively, anchoring the energetic narrative with strong vocal deliveries. Reviewers generally praise the ensemble for their spirited portrayals.</p>\n<h3>Strengths</h3>\n<ul><li>Incredible and catchy songs</li><li>Colourful and vibrant animation</li><li>Unique blend of K-pop and action</li><li>Strong voice cast</li><li>Grounding in Korean mythology</li></ul>\n<h3>Weaknesses</h3>\n<p>Despite its many strengths, the narrative lacks depth regarding Rumi’s arc and rushes through its final act when it could have taken its time. The underlying structure can also feel somewhat familiar at times, leaning on tropes seen in previous media.</p>\n<h3>Final verdict</h3>\n<p>KPop Demon Hunters is a spirited and entertaining animated film that delivers incredible songs, stellar animation, and a fun pop fantasy adventure. While it rushes through its final act and lacks some depth in its character arcs, it is well worth watching for fans of the genre. Recommended for anyone looking for a joyful blend of music and action.</p>\n<h2>Where to watch</h2>\n<ul><li>Streaming on Netflix (IN)</li></ul>\n</article>",
+   "t": "KPop Demon Hunters (2025) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2025"
   },
   "movie:807196": {
    "d": "Boiling Point (2021): Drama/Thriller film. Story: A head chef balances multiple personal and… See cast, TMDB rating 7.3/10, and release date 5 July 2021.",

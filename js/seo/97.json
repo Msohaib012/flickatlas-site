@@ -1,6 +1,6 @@
 {
  "bucket": "97",
- "count": 59,
+ "count": 69,
  "titles": {
   "movie:10397": {
    "d": "Angela's Ashes (2000): Drama film. Story: An Irish Catholic family returns to 1930s Limerick… See cast, budget $50M, and TMDB rating 7.3/10.",
@@ -766,6 +766,131 @@
    "t": "Upstream Color (2013) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2013"
   },
+  "movie:1532997": {
+   "d": "Dead Howling (2026): Action/Horror film. Story: A werewolf hunts zombies after losing his family. He… See cast and TMDB rating 7.0/10.",
+   "img": "https://image.tmdb.org/t/p/w780/bL2mZNrVdeNNOICyuFfPJq7YA4s.jpg",
+   "industry": "world",
+   "k": "Dead Howling, Dead Howling movie, Dead Howling cast, Dead Howling story, Dead Howling box office collection, Dead Howling budget, Dead Howling review, Dead Howling rating, Dead Howling release date, Dead Howling trailer, Dead Howling Action, Dead Howling Horror, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Joel Jackson"
+     },
+     {
+      "@type": "Person",
+      "name": "Téa Heathcote-Marks"
+     },
+     {
+      "@type": "Person",
+      "name": "Riley Stiles"
+     },
+     {
+      "@type": "Person",
+      "name": "Laura Maitland"
+     },
+     {
+      "@type": "Person",
+      "name": "Ryan Kwanten"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 4,
+     "ratingValue": 7.0,
+     "worstRating": 0
+    },
+    "description": "Dead Howling (2026): Action/Horror film. Story: A werewolf hunts zombies after losing his family. He… See cast and TMDB rating 7.0/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "John V. Soto"
+     }
+    ],
+    "duration": "PT103M",
+    "genre": [
+     "Action",
+     "Horror"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/bL2mZNrVdeNNOICyuFfPJq7YA4s.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1532997",
+    "name": "Dead Howling",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-10-30"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1532997"
+   },
+   "modified": "",
+   "published": "2026-11-04",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Dead Howling (2026)</h1>\n<p class=\"ssr-lead\">A werewolf hunts zombies after losing his family. He meets two humans seeking sanctuary and joins their quest, protecting them with his powers. Their journey grows perilous as zombies start evolving.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 30 October 2026</li><li>Runtime: 103 minutes</li><li>Director: John V. Soto</li><li>Genres: Action, Horror</li><li>Tagline: When the dead rise, the beast hunts.</li><li>Certification: 15</li><li>Original language: English</li><li>Spoken languages: English</li><li>Production countries: Australia, United States</li><li>Official trailer: Trailer</li><li>TMDB rating: 7.0/10 (4 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Joel Jackson as Carter</li><li>Téa Heathcote-Marks as Megan</li><li>Riley Stiles as Billy</li><li>Laura Maitland as Sandra</li><li>Ryan Kwanten as Corporal Reynolds</li><li>Dan Paris as Major Butler</li><li>Temuera Morrison as Uncle Tony</li><li>Tom Burlinson as The Chairman</li><li>Candice Callaghan as Lily</li></ul>\n</article>",
+   "t": "Dead Howling (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
+  },
+  "movie:1538497": {
+   "d": "Hexed (2026): Adventure/Animation film. Story: An impulsive and unconventional teenage girl named… See cast and release date 25 November 2026.",
+   "img": "https://image.tmdb.org/t/p/w780/wZ9Me7OndzgBOEAa8nSBNPu3Sl4.jpg",
+   "industry": "world",
+   "k": "Hexed, Hexed movie, Hexed cast, Hexed story, Hexed box office collection, Hexed budget, Hexed review, Hexed rating, Hexed release date, Hexed trailer, Hexed Adventure, Hexed Animation, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Hailee Steinfeld"
+     },
+     {
+      "@type": "Person",
+      "name": "Rashida Jones"
+     },
+     {
+      "@type": "Person",
+      "name": "Jodie Foster"
+     },
+     {
+      "@type": "Person",
+      "name": "Walton Goggins"
+     },
+     {
+      "@type": "Person",
+      "name": "Tracey Ullman"
+     }
+    ],
+    "description": "Hexed (2026): Adventure/Animation film. Story: An impulsive and unconventional teenage girl named… See cast and release date 25 November 2026.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Jason Hand"
+     },
+     {
+      "@type": "Person",
+      "name": "Fawn Veerasunthorn"
+     }
+    ],
+    "duration": "PT103M",
+    "genre": [
+     "Adventure",
+     "Animation"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/wZ9Me7OndzgBOEAa8nSBNPu3Sl4.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1538497",
+    "name": "Hexed",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-11-25"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1538497"
+   },
+   "modified": "",
+   "published": "2026-11-05",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Hexed (2026)</h1>\n<p class=\"ssr-lead\">An impulsive and unconventional teenage girl named Billie discovers secret magical abilities which, once unleashed, hurtle her into a spectacle-filled journey out of suburbia and into a vast witch realm called Hexe. Forced to team up with her cautious mother, Alice, they uncover family mysteries that could change the world of witches forever.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 25 November 2026</li><li>Runtime: 103 minutes</li><li>Director: Jason Hand, Fawn Veerasunthorn</li><li>Genres: Adventure, Animation, Family, Fantasy, Comedy</li><li>Tagline: Something is happening to Billie...</li><li>Certification: PG</li><li>Original language: English</li><li>Spoken languages: English, TH</li><li>Production countries: United States</li><li>Official trailer: Tickets On Sale</li><li>Status: Post Production</li></ul>\n<h2>Top cast</h2>\n<ul><li>Hailee Steinfeld as Billie Doe (voice)</li><li>Rashida Jones as Alice Doe (voice)</li><li>Jodie Foster as Queen Celeste (voice)</li><li>Walton Goggins as Beef Roger Crummchuk (voice)</li><li>Tracey Ullman as Ms. Quill (voice)</li><li>Stephen Fry as Elias Quire (voice)</li><li>Henry Winkler as Nigel (voice)</li><li>Dan Stevens as Hieronymous (voice)</li><li>Brett Gelman as (voice)</li><li>Samson Kayo as (voice)</li></ul>\n</article>",
+   "t": "Hexed (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
+  },
   "movie:1550797": {
    "d": "Prep & Landing: The Snowball Protocol (2025): Animation/Comedy film. Story: Christmas elves Lanny and Wayne panic when their… See cast and TMDB rating 6.8/10.",
    "img": "https://image.tmdb.org/t/p/w780/tombkp3ir9tmm5v9QLnHaDZCWa7.jpg",
@@ -1025,6 +1150,195 @@
    "t": "¿Quieres ser mi novia? (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2026"
   },
+  "movie:1615697": {
+   "d": "The Place (2026): Drama film. Story: On the edge of town, in a dilapidated former public… See cast and release date 29 November 2026.",
+   "img": "https://image.tmdb.org/t/p/w780/h2yDss1CZiMKisrNZHWPkD3XIPT.jpg",
+   "industry": "world",
+   "k": "The Place, The Place movie, The Place cast, The Place story, The Place box office collection, The Place budget, The Place review, The Place rating, The Place release date, The Place Drama, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "CHUU"
+     },
+     {
+      "@type": "Person",
+      "name": "Han Ye-ji"
+     },
+     {
+      "@type": "Person",
+      "name": "Kim Si-yu"
+     },
+     {
+      "@type": "Person",
+      "name": "Jo Han-chul"
+     }
+    ],
+    "description": "The Place (2026): Drama film. Story: On the edge of town, in a dilapidated former public… See cast and release date 29 November 2026.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Lee Won-hoi"
+     },
+     {
+      "@type": "Person",
+      "name": "Byun Ye-ji"
+     }
+    ],
+    "duration": "PT77M",
+    "genre": [
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/h2yDss1CZiMKisrNZHWPkD3XIPT.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1615697",
+    "name": "The Place",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-11-29"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1615697"
+   },
+   "modified": "",
+   "published": "2026-11-22",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>The Place (2026)</h1>\n<p class=\"ssr-lead\">On the edge of town, in a dilapidated former public bathhouse, two young artists share a precarious roof, a common dream, and the constant fear of disappearing. By repainting the cracked tiles of this borrowed space, they attempt to rebuild much more than a physical place: an identity, a future, and a sense of belonging. Their daily lives become a poignant exploration of what it means to have—and lose—a place of one&#x27;s own.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 29 November 2026</li><li>Runtime: 77 minutes</li><li>Director: Lee Won-hoi, Byun Ye-ji</li><li>Genres: Drama</li><li>Tagline: Where was our &quot;place&quot; then?</li><li>Certification: ALL</li><li>Original language: Korean</li><li>Spoken languages: Korean</li><li>Status: Post Production</li></ul>\n<h2>Top cast</h2>\n<ul><li>CHUU as Han Song-i</li><li>Han Ye-ji as Go Soon-i</li><li>Kim Si-yu as Reporter</li><li>Jo Han-chul as Studio Teacher</li></ul>\n</article>",
+   "t": "The Place (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
+  },
+  "movie:1791797": {
+   "d": "Sessions (2026): Thriller/Drama film. Story: Richie is a man struggling with his inner demons as… See cast and release date 24 November 2026.",
+   "img": "https://image.tmdb.org/t/p/w780/4MT306Q803P7znl6DmmKDwYQPbc.jpg",
+   "industry": "world",
+   "k": "Sessions, Sessions movie, Sessions cast, Sessions story, Sessions box office collection, Sessions budget, Sessions review, Sessions rating, Sessions release date, Sessions Thriller, Sessions Drama, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Daniel O'Reilly"
+     },
+     {
+      "@type": "Person",
+      "name": "Jonas Armstrong"
+     },
+     {
+      "@type": "Person",
+      "name": "Rupert Graves"
+     },
+     {
+      "@type": "Person",
+      "name": "Bill Fellows"
+     },
+     {
+      "@type": "Person",
+      "name": "Jaime Winstone"
+     }
+    ],
+    "description": "Sessions (2026): Thriller/Drama film. Story: Richie is a man struggling with his inner demons as… See cast and release date 24 November 2026.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Giles Alderson"
+     }
+    ],
+    "duration": "PT87M",
+    "genre": [
+     "Thriller",
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/4MT306Q803P7znl6DmmKDwYQPbc.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1791797",
+    "name": "Sessions",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-11-24"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1791797"
+   },
+   "modified": "",
+   "published": "2026-11-17",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Sessions (2026)</h1>\n<p class=\"ssr-lead\">Richie is a man struggling with his inner demons as he faces the effects of substance abuse on both his relationships and mental well-being.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 24 November 2026</li><li>Runtime: 87 minutes</li><li>Director: Giles Alderson</li><li>Genres: Thriller, Drama</li><li>Certification: 15</li><li>Original language: English</li><li>Spoken languages: English</li><li>Status: Post Production</li></ul>\n<h2>Top cast</h2>\n<ul><li>Daniel O&#x27;Reilly as Richie Summers</li><li>Jonas Armstrong</li><li>Rupert Graves</li><li>Bill Fellows</li><li>Jaime Winstone as Olivia</li><li>Leo Gregory</li><li>Preeya Kalidas as Nicole</li></ul>\n</article>",
+   "t": "Sessions (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
+  },
+  "movie:1806497": {
+   "d": "The Boy With The Balloon Heart (2026): Animation/Drama film. Story: Born with a balloon heart, a wide-eyed, dreamy and… See cast.",
+   "img": "https://image.tmdb.org/t/p/w500/yXkCkrv2oJ0L0JwPsOWHUo7wlKH.jpg",
+   "industry": "bollywood",
+   "k": "The Boy With The Balloon Heart, The Boy With The Balloon Heart movie, The Boy With The Balloon Heart cast, The Boy With The Balloon Heart story, The Boy With The Balloon Heart box office collection, The Boy With The Balloon Heart budget, The Boy With The Balloon Heart review, The Boy With The Balloon Heart rating, The Boy With The Balloon Heart release date, The Boy With The Balloon Heart Animation, The Boy With The Balloon Heart Drama, Indian movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "description": "The Boy With The Balloon Heart (2026): Animation/Drama film. Story: Born with a balloon heart, a wide-eyed, dreamy and… See cast.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Jay Krishnan Menon"
+     }
+    ],
+    "duration": "PT16M",
+    "genre": [
+     "Animation",
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w500/yXkCkrv2oJ0L0JwPsOWHUo7wlKH.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1806497",
+    "name": "The Boy With The Balloon Heart",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-11-14"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1806497"
+   },
+   "modified": "",
+   "published": "2026-11-07",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>The Boy With The Balloon Heart (2026)</h1>\n<p class=\"ssr-lead\">Born with a balloon heart, a wide-eyed, dreamy and emotional boy drifts through life, never quite able to find where he belongs. His delicate, floating heart sets him apart—both a gift and a burden in a world that values groundedness, practicality and conformity. As he stumbles through life grappling against the weight of existence, he struggles with loneliness and the bane of being different. But one day, a quiet revelation shows him that what once felt like a flaw might be the very thing that sets him free.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 14 November 2026</li><li>Runtime: 16 minutes</li><li>Director: Jay Krishnan Menon</li><li>Genres: Animation, Drama, Fantasy</li><li>Original language: English</li><li>Spoken languages: English</li><li>Production countries: India</li></ul>\n</article>",
+   "t": "The Boy With The Balloon Heart (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
+  },
+  "movie:1812797": {
+   "d": "Oly's Dean (2026): Documentary film. Story: Set along British Columbia’s remote Dean River, the… See cast and release date 22 November 2026.",
+   "img": "https://image.tmdb.org/t/p/w780/yQABmYeLYwPLQDIcoMu0Xm1OiVf.jpg",
+   "industry": "world",
+   "k": "Oly's Dean, Oly's Dean movie, Oly's Dean cast, Oly's Dean story, Oly's Dean box office collection, Oly's Dean budget, Oly's Dean review, Oly's Dean rating, Oly's Dean release date, Oly's Dean Documentary, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Oly Hickman"
+     }
+    ],
+    "description": "Oly's Dean (2026): Documentary film. Story: Set along British Columbia’s remote Dean River, the… See cast and release date 22 November 2026.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Asher Koles"
+     }
+    ],
+    "duration": "PT20M",
+    "genre": [
+     "Documentary"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/yQABmYeLYwPLQDIcoMu0Xm1OiVf.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1812797",
+    "name": "Oly's Dean",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-11-22"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1812797"
+   },
+   "modified": "",
+   "published": "2026-11-15",
+   "robots": "noindex,follow",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Oly&#x27;s Dean (2026)</h1>\n<p class=\"ssr-lead\">Set along British Columbia’s remote Dean River, the film follows 9-year-old Oly Hickman as he moves through his family’s fishing lodge in the heart of steelhead country.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 22 November 2026</li><li>Runtime: 20 minutes</li><li>Director: Asher Koles</li><li>Genres: Documentary</li><li>Original language: English</li><li>Production countries: United States</li></ul>\n<h2>Top cast</h2>\n<ul><li>Oly Hickman as Self</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Eventive</li></ul>\n</article>",
+   "t": "Oly's Dean (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
+  },
   "movie:18197": {
    "d": "Running on Empty (1988): Drama/Crime film. Story: The Popes are a family who haven't been able to use… See cast and TMDB rating 7.4/10.",
    "img": "https://image.tmdb.org/t/p/w780/xZGCJleQaeqi5jFsvcOoqfsMZvT.jpg",
@@ -1088,6 +1402,92 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>Running on Empty (1988)</h1>\n<p class=\"ssr-lead\">The Popes are a family who haven&#x27;t been able to use their real identity for years. In the late sixties, the parents set a weapons lab afire in an effort to hinder the government&#x27;s Vietnam war campaign. Ever since then, the Popes have been on the run with the authorities never far behind. Their survival is threatened when their eldest son falls in love with a girl, and announces his wish to live his life on his own terms.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 9 September 1988</li><li>Runtime: 116 minutes</li><li>Director: Sidney Lumet</li><li>Genres: Drama, Crime</li><li>Tagline: They chose their lives. Now their son must choose his.</li><li>Certification: PG-13</li><li>Original language: English</li><li>Spoken languages: English</li><li>Production countries: United States</li><li>TMDB rating: 7.4/10 (380 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Christine Lahti as Annie Pope</li><li>River Phoenix as Danny Pope</li><li>Judd Hirsch as Arthur Pope</li><li>Jonas Abry as Harry Pope</li><li>Martha Plimpton as Lorna Phillips</li><li>Ed Crowley as Mr. Phillips</li><li>L.M. Kit Carson as Gus Winant</li><li>Steven Hill as Donald Patterson</li><li>Augusta Dabney as Abigail Patterson</li><li>David Margulies as Dr. Jonah Reiff</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
    "t": "Running on Empty (1988) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "1988"
+  },
+  "movie:1824297": {
+   "d": "Alain Delon da Bahia (2026): Documentary film. See cast, budget $300, and release date 21 November 2026.",
+   "img": "https://image.tmdb.org/t/p/w500/35rVXKIDahnEuST3kbmAyjXbzSF.jpg",
+   "industry": "world",
+   "k": "Alain Delon da Bahia, Alain Delon da Bahia movie, Alain Delon da Bahia cast, Alain Delon da Bahia story, Alain Delon da Bahia box office collection, Alain Delon da Bahia budget, Alain Delon da Bahia review, Alain Delon da Bahia rating, Alain Delon da Bahia release date, Alain Delon da Bahia Documentary, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Tânia Carvalho"
+     },
+     {
+      "@type": "Person",
+      "name": "Fabiano Del Rey"
+     },
+     {
+      "@type": "Person",
+      "name": "Rodrigo B. Homem del Rei"
+     }
+    ],
+    "description": "Alain Delon da Bahia (2026): Documentary film. See cast, budget $300, and release date 21 November 2026.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Carmela Del Rei"
+     }
+    ],
+    "genre": [
+     "Documentary"
+    ],
+    "image": "https://image.tmdb.org/t/p/w500/35rVXKIDahnEuST3kbmAyjXbzSF.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1824297",
+    "name": "Alain Delon da Bahia",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-11-21"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1824297"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "robots": "noindex,follow",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Alain Delon da Bahia (2026)</h1>\n<h2>Key facts</h2>\n<ul><li>Release date: 21 November 2026</li><li>Director: Carmela Del Rei</li><li>Genres: Documentary</li><li>Certification: 12</li><li>Original language: PT</li><li>Budget: $300</li></ul>\n<h2>Top cast</h2>\n<ul><li>Tânia Carvalho as Tânia Carvalho</li><li>Fabiano Del Rey as Fabiano Del Rey</li><li>Rodrigo B. Homem del Rei as Rodrigo B. Homem del Rei</li></ul>\n</article>",
+   "t": "Alain Delon da Bahia (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
+  },
+  "movie:1833997": {
+   "d": "my hamster video (2026) is a film. Story: My hamster likes to eat, drink water, and run. See cast, budget $20, and release date 28 November 2026.",
+   "img": "https://image.tmdb.org/t/p/w500/yQqICOdlS5Or9wicZcLzxsz64In.jpg",
+   "industry": "world",
+   "k": "my hamster video, my hamster video movie, my hamster video cast, my hamster video story, my hamster video box office collection, my hamster video budget, my hamster video review, my hamster video rating, my hamster video release date, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Alex Hickey"
+     }
+    ],
+    "description": "my hamster video (2026) is a film. Story: My hamster likes to eat, drink water, and run. See cast, budget $20, and release date 28 November 2026.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Alex Hickey"
+     }
+    ],
+    "duration": "PT2M",
+    "image": "https://image.tmdb.org/t/p/w500/yQqICOdlS5Or9wicZcLzxsz64In.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1833997",
+    "name": "my hamster video",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-11-28"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1833997"
+   },
+   "modified": "",
+   "published": "2026-11-21",
+   "robots": "noindex,follow",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>my hamster video (2026)</h1>\n<p class=\"ssr-lead\">My hamster likes to eat, drink water, and run.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 28 November 2026</li><li>Runtime: 2 minutes</li><li>Director: Alex Hickey</li><li>Original language: English</li><li>Budget: $20</li><li>Status: Planned</li></ul>\n<h2>Top cast</h2>\n<ul><li>Alex Hickey</li></ul>\n</article>",
+   "t": "my hamster video (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
   },
   "movie:19597": {
    "d": "The Hedgehog (2009): Comedy/Drama film. Story: Paloma is a serious and highly articulate but deeply… See cast, TMDB rating 7.2/10, and release date 1 July 2009.",
@@ -3092,6 +3492,68 @@
    "t": "Rivers of Fate (2025) — Seasons, Episodes, Cast & Story | FlickAtlas",
    "year": "2025"
   },
+  "tv:275297": {
+   "d": "Let's Go (2026) is a Drama and Comedy TV series. Explore its story: During the Republic of China era, a veterinarian…, cast, 1 season, and 40 episodes.",
+   "img": "https://image.tmdb.org/t/p/w780/rnv1xmBVexTmObJXWb0NuVsg4y9.jpg",
+   "industry": "world",
+   "k": "Let's Go, Let's Go TV series, Let's Go cast, Let's Go story, Let's Go seasons, Let's Go episodes, Let's Go season 1, Let's Go 40 episodes, Let's Go first air date, Let's Go Drama, Let's Go Comedy, World Cinema TV series, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "TVSeries",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Zhao Benshan"
+     },
+     {
+      "@type": "Person",
+      "name": "Wang Xiaoli"
+     },
+     {
+      "@type": "Person",
+      "name": "Jiang Yishan"
+     },
+     {
+      "@type": "Person",
+      "name": "Ge Shan Shan"
+     },
+     {
+      "@type": "Person",
+      "name": "Cheng Ye"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 3,
+     "ratingValue": 7.2,
+     "worstRating": 0
+    },
+    "description": "Let's Go (2026) is a Drama and Comedy TV series. Explore its story: During the Republic of China era, a veterinarian…, cast, 1 season, and 40 episodes.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "成红"
+     }
+    ],
+    "genre": [
+     "Drama",
+     "Comedy"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/rnv1xmBVexTmObJXWb0NuVsg4y9.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/show?id=275297",
+    "name": "Let's Go",
+    "numberOfEpisodes": 40,
+    "numberOfSeasons": 1,
+    "startDate": "2026-11-02",
+    "url": "https://flickatlas.co.uk/show?id=275297"
+   },
+   "modified": "",
+   "published": "2026-11-07",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Let&#x27;s Go (2026)</h1>\n<p class=\"ssr-lead\">During the Republic of China era, a veterinarian named Wang Laowu accidentally becomes the magistrate of Fuhu County and hilariously battles endless chaos, showing how ordinary people shaped a grand era.</p>\n<h2>Key facts</h2>\n<ul><li>First air date: 2 November 2026</li><li>Seasons: 1 · Episodes: 40</li><li>Director: 成红</li><li>Genres: Drama, Comedy</li><li>Original language: Chinese</li><li>Spoken languages: Chinese</li><li>Production countries: China</li><li>Network: Tencent Video</li><li>TMDB rating: 7.2/10 (3 votes)</li><li>Status: Returning Series</li></ul>\n<h2>Top cast</h2>\n<ul><li>Zhao Benshan as Jia Guitian</li><li>Wang Xiaoli as Wang Laowu / Ma Debing</li><li>Jiang Yishan as Mu Chengying</li><li>Ge Shan Shan as Bai Xiao&#x27;e</li><li>Cheng Ye as Huang Jinhu</li></ul>\n<h2>Seasons</h2>\n<ul><li>Season 1 (40 episodes, 2 November 2026)</li></ul>\n</article>",
+   "t": "Let's Go (2026) — Seasons, Episodes, Cast & Story | FlickAtlas",
+   "year": "2026"
+  },
   "tv:283297": {
    "d": "Sterling Point (2026) is a Mystery and Drama TV series. Explore its story: After discovering she's inherited a remote island in…, cast, and 2 seasons.",
    "img": "https://image.tmdb.org/t/p/w780/nOWU1NSYQEOXRXcdfZbtJshwRGK.jpg",
@@ -3297,6 +3759,54 @@
    "published": "2026-11-14",
    "ssr": "<article class=\"ssr-facts\">\n<h1>Jury Duty Presents: Company Retreat (2026)</h1>\n<p class=\"ssr-lead\">Anthony, a real temp, is hired at Rockin&#x27; Grandma&#x27;s Hot Sauce (a fake company) for its annual retreat - the final one for the company&#x27;s CEO Doug before retirement. Doug&#x27;s son Dougie Jr. struggles to prove his leadership abilities while a polished private-equity team courts the company for acquisition.</p>\n<h2>Key facts</h2>\n<ul><li>First air date: 20 March 2026</li><li>Seasons: 1 · Episodes: 8</li><li>Created by: Gene Stupnitsky, Lee Eisenberg</li><li>Genres: Comedy</li><li>Tagline: Welcome to the retreat.</li><li>Certification: TV-14</li><li>Original language: English</li><li>Spoken languages: English</li><li>Production countries: United States</li><li>Network: Prime Video</li><li>Official trailer: Official Trailer</li><li>TMDB rating: 7.4/10 (30 votes)</li><li>Status: Ended</li></ul>\n<h2>Top cast</h2>\n<ul><li>Anthony Norman as Self - Temporary Assistant</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Amazon Prime Video, Amazon Prime Video with Ads</li></ul>\n<h2>Seasons</h2>\n<ul><li>Season 1 (8 episodes, 20 March 2026)</li></ul>\n</article>",
    "t": "Jury Duty Presents: Company Retreat (2026) — Seasons, Episodes, Cast & Story | FlickAtlas",
+   "year": "2026"
+  },
+  "tv:340197": {
+   "d": "Hostel Haadsa (2026) is a TV series. Explore its story: A fearless skeptic unravels a haunted hostel's…, cast, 1 season, and 7 episodes.",
+   "img": "https://image.tmdb.org/t/p/w780/tZlle24lBhAaMSvM34pON8Z4wKm.jpg",
+   "industry": "bollywood",
+   "k": "Hostel Haadsa, Hostel Haadsa TV series, Hostel Haadsa cast, Hostel Haadsa story, Hostel Haadsa seasons, Hostel Haadsa episodes, Hostel Haadsa season 1, Hostel Haadsa 7 episodes, Hostel Haadsa first air date, Bollywood TV series, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "TVSeries",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Rachana Mistry"
+     },
+     {
+      "@type": "Person",
+      "name": "Sushma Kolhe"
+     },
+     {
+      "@type": "Person",
+      "name": "Purneima Day"
+     },
+     {
+      "@type": "Person",
+      "name": "Prajakta Avinash Wadaye"
+     }
+    ],
+    "description": "Hostel Haadsa (2026) is a TV series. Explore its story: A fearless skeptic unravels a haunted hostel's…, cast, 1 season, and 7 episodes.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Sachin Gotad"
+     }
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/tZlle24lBhAaMSvM34pON8Z4wKm.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/show?id=340197",
+    "name": "Hostel Haadsa",
+    "numberOfEpisodes": 7,
+    "numberOfSeasons": 1,
+    "startDate": "2026-10-28",
+    "url": "https://flickatlas.co.uk/show?id=340197"
+   },
+   "modified": "",
+   "published": "2026-10-29",
+   "robots": "noindex,follow",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Hostel Haadsa (2026)</h1>\n<p class=\"ssr-lead\">A fearless skeptic unravels a haunted hostel&#x27;s legend, only to become its next target.</p>\n<h2>Key facts</h2>\n<ul><li>First air date: 28 October 2026</li><li>Seasons: 1 · Episodes: 7</li><li>Created by: Sachin Gotad</li><li>Director: Sachin Gotad</li><li>Original language: Hindi</li><li>Spoken languages: English, Hindi</li><li>Network: ZEE5</li><li>Status: Returning Series</li></ul>\n<h2>Top cast</h2>\n<ul><li>Rachana Mistry</li><li>Sushma Kolhe</li><li>Purneima Day</li><li>Prajakta Avinash Wadaye</li></ul>\n<h2>Seasons</h2>\n<ul><li>Season 1 (7 episodes, 28 October 2026)</li></ul>\n</article>",
+   "t": "Hostel Haadsa (2026) — Seasons, Episodes, Cast & Story | FlickAtlas",
    "year": "2026"
   },
   "tv:39297": {

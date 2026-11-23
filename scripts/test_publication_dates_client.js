@@ -28,7 +28,22 @@ const schema = JSON.parse(nodes.find(n => n.id === 'fa-jsonld').textContent);
 const movie = schema['@graph'].find(x => x['@type']==='Movie'), page=schema['@graph'].find(x=>x['@type']==='WebPage');
 assert.strictEqual(movie.datePublished, undefined); assert.strictEqual(movie.releasedEvent.startDate,'1999-01-01');
 assert.strictEqual(page.datePublished,'2026-01-02'); assert.strictEqual(page.dateModified,'2026-01-04');
-const generated = JSON.parse(fs.readFileSync(path.join(__dirname,'..','js','seo-meta.json'),'utf8'));
+const generated = (() => {
+  // Sharded SEO stores (2026-11-23): slimmed js/seo-meta.json holds
+  // home/cat/daywise; titles live in js/seo/<bb>.json, news in
+  // js/seo-news/<bb>.json. Assemble the union for the parity checks.
+  const merged = {};
+  Object.assign(merged, JSON.parse(fs.readFileSync(path.join(__dirname, '..', 'js', 'seo-meta.json'), 'utf8')));
+  for (const sub of ['seo', 'seo-news']) {
+    const dir = path.join(__dirname, '..', 'js', sub);
+    if (!fs.existsSync(dir)) continue;
+    for (const name of fs.readdirSync(dir).sort()) {
+      if (!name.endsWith('.json')) continue;
+      Object.assign(merged, JSON.parse(fs.readFileSync(path.join(dir, name), 'utf8')).titles || {});
+    }
+  }
+  return merged;
+})();
 let checked = 0;
 for (const [file, family] of [['published-titles.js','title'],['articles-data.js','news']]) {
   const text = fs.readFileSync(path.join(__dirname,'..','js',file),'utf8');

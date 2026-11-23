@@ -25,17 +25,29 @@ Outputs:
                      the bucket changed.
   robots.txt       — explicit OAI-SearchBot allow plus wildcard Allow /
                      (except private /api/ paths), with public feeds allowed.
-  js/seo-meta.json — compact per-URL meta map the Cloudflare Worker
-                     reads to inject <title>/meta/OG/JSON-LD into the
-                     client-rendered detail shells (one shell serves
-                     ~250 URLs, so static meta cannot work there).
-                     Keys: "movie:<tmdb>", "tv:<tmdb>", "news:<slug>",
-                     "daywise:<tmdb>", "cat:<industry>". Each entry also
-                     carries a pre-rendered semantic-HTML "ssr" facts
-                     block; the Worker splices it into <main id="app">
-                     so crawlers that never run JS still receive the
-                     page's facts (every page script replaces #app
-                     wholesale on boot, so visitors see no change).
+  js/seo-meta.json — SMALL per-URL meta map the Cloudflare Worker
+                     reads for the routes whose entries cannot live in
+                     a title/news chunk: "home", "cat:<industry>" and
+                     "daywise:<tmdb>". (2026-11-23: this file used to
+                     hold every entry and hit the 25 MiB Cloudflare
+                     Workers Static Assets per-file limit at 27.4 MB,
+                     breaking every deploy — see the sharded stores
+                     below. It must stay small.)
+  js/seo/<bb>.json  — title chunks (bb = tmdb id % 100, zero-padded):
+                     the "movie:<tmdb>"/"tv:<tmdb>" entries, merged in
+                     by this script for published titles and by
+                     scripts/catalogue_build.py for catalogue titles.
+                     Same entry shape as the old monolith (pre-rendered
+                     semantic-HTML "ssr" facts block included); the
+                     Worker splices it into <main id="app"> so crawlers
+                     that never run JS still receive the page's facts
+                     (every page script replaces #app wholesale on
+                     boot, so visitors see no change).
+  js/seo-news/<bb>.json — news chunks (bb = FNV-1a hash of the news
+                     slug % 100, zero-padded): the "news:<slug>"
+                     entries, rebuilt whole by this script every run.
+                     The Worker loads only the one chunk for the
+                     requested article.
   llms-full.txt    — llms.txt's sections/notes plus the top published
                      titles with one-line facts, for AI readers.
 
@@ -1916,6 +1928,72 @@ def build_llms_full():
     return "\n".join(lines) + "\n"
 
 
+SEO_NEWS_BUCKET_COUNT = 100
+
+
+def news_bucket(slug):
+    """FNV-1a 32-bit bucket for a news slug (js/seo-news/<bb>.json).
+
+    Must match seoNewsBucket() in scripts/worker.mjs and the stats
+    pages exactly: news ids are ASCII, so UTF-8 bytes == char codes.
+    """
+    h = 0x811C9DC5
+    for b in str(slug).encode("utf-8"):
+        h ^= b
+        h = (h * 0x01000193) & 0xFFFFFFFF
+    return "%02d" % (h % SEO_NEWS_BUCKET_COUNT)
+
+
+def title_bucket(tid):
+    """Bucket for a TMDB id — identical to seoBucket() in worker.mjs
+    and bucket_of() in catalogue_build.py: id % 100, zero-padded."""
+    return "%02d" % (int(tid) % 100)
+
+
+def _dump_chunk(bucket, titles):
+    """Chunk file payload — byte format shared with catalogue_build.py
+    dump_chunk: {"bucket", "count", "titles"}, indent=1, sorted keys."""
+    payload = {"bucket": bucket, "count": len(titles), "titles": titles}
+    return json.dumps(payload, ensure_ascii=False, indent=1,
+                      sort_keys=True) + "\n"
+
+
+def _read_chunk_titles(path):
+    try:
+        with open(path, encoding="utf-8") as f:
+            d = json.load(f)
+        if isinstance(d, dict) and isinstance(d.get("titles"), dict):
+            return d["titles"]
+    except (OSError, ValueError):
+        pass
+    return {}
+
+
+def load_all_meta(root=None):
+    """Merged generated-meta map across the sharded stores (tests and
+    tooling only — the Worker never loads the whole map): slimmed
+    js/seo-meta.json (home/cat/daywise) + js/seo/<bb>.json title
+    chunks + js/seo-news/<bb>.json news chunks."""
+    root = root or ROOT
+    merged = {}
+    try:
+        with open(os.path.join(root, "js", "seo-meta.json"),
+                  encoding="utf-8") as f:
+            merged.update(json.load(f))
+    except (OSError, ValueError):
+        pass
+    for sub in ("seo", "seo-news"):
+        try:
+            names = sorted(os.listdir(os.path.join(root, "js", sub)))
+        except OSError:
+            continue
+        for name in names:
+            if name.endswith(".json"):
+                merged.update(_read_chunk_titles(
+                    os.path.join(root, "js", sub, name)))
+    return merged
+
+
 def main():
     global PUBLISHED, ARTICLES, DAYWISE, REVIEWS, WORLDWIDE, EPISODE_TRACKER, CREDITS
     PUBLISHED = read_js_map(os.path.join(ROOT, "js", "published-titles.js"),
@@ -1990,10 +2068,74 @@ def main():
     # index.html's static head exactly.
     meta["home"] = home_meta()
 
+    # Sharded SEO stores (2026-11-23): the single js/seo-meta.json hit
+    # the 25 MiB Cloudflare Workers Static Assets per-file limit
+    # (27.4 MB, mostly 2,446 news entries) and broke every deploy with
+    # HTTP 400 code 10304. Title entries merge into the js/seo/<bb>.json
+    # chunks (this script owns published keys; catalogue_build.py owns
+    # catalogue keys and preserves published keys). News entries go to
+    # js/seo-news/<bb>.json, bucketed by FNV-1a hash of the slug.
+    # js/seo-meta.json keeps only home/cat/daywise and stays small.
+    title_entries = {k: v for k, v in meta.items()
+                     if k.startswith("movie:") or k.startswith("tv:")}
+    news_entries = {k: v for k, v in meta.items()
+                    if k.startswith("news:")}
+    small_meta = {k: v for k, v in meta.items()
+                  if k not in title_entries and k not in news_entries}
     meta_path = os.path.join(ROOT, "js", "seo-meta.json")
     with open(meta_path, "w", encoding="utf-8") as f:
-        json.dump(meta, f, ensure_ascii=False, indent=1, sort_keys=True)
+        json.dump(small_meta, f, ensure_ascii=False, indent=1, sort_keys=True)
         f.write("\n")
+
+    # Merge published titles into their title chunks. A chunk keeps
+    # every catalogue key it already has (allowlist = the sibling
+    # js/cat/<bb>.json keys); any other non-published key is a stale
+    # published orphan from a demoted title and is pruned. When the
+    # catalogue chunk cannot be read as a titles map, pruning is
+    # skipped for that bucket (fail-safe: never delete on missing or
+    # corrupt data). All 100 buckets are visited so orphans cannot
+    # survive in a bucket with no current published title.
+    titles_by_bucket = {}
+    for key, value in title_entries.items():
+        _kind, _, tid = key.partition(":")
+        titles_by_bucket.setdefault(title_bucket(tid), {})[key] = value
+    n_pruned = 0
+    for bucket in ["%02d" % i for i in range(100)]:
+        chunk_path = os.path.join(ROOT, "js", "seo", bucket + ".json")
+        existing = _read_chunk_titles(chunk_path)
+        cat_path = os.path.join(ROOT, "js", "cat", bucket + ".json")
+        cat_ok = False
+        cat_titles = {}
+        try:
+            with open(cat_path, encoding="utf-8") as f:
+                cat_data = json.load(f)
+            if isinstance(cat_data, dict) and isinstance(
+                    cat_data.get("titles"), dict):
+                cat_titles = cat_data["titles"]
+                cat_ok = True
+        except (OSError, ValueError):
+            cat_ok = False
+        if cat_ok:
+            keep = {k: v for k, v in existing.items()
+                    if k in cat_titles or k in titles_by_bucket.get(bucket, {})}
+            n_pruned += len(existing) - len(keep)
+            merged = dict(keep)
+        else:
+            merged = dict(existing)
+        merged.update(titles_by_bucket.get(bucket, {}))
+        _write_if_changed(chunk_path, _dump_chunk(bucket, merged))
+
+    # News chunks are rebuilt whole every run (the news set is fully
+    # regenerated from the articles data, so stale entries must go).
+    news_by_bucket = {}
+    for key, value in news_entries.items():
+        news_by_bucket.setdefault(
+            news_bucket(key.partition(":")[2]), {})[key] = value
+    for bucket in ["%02d" % i for i in range(SEO_NEWS_BUCKET_COUNT)]:
+        chunk_path = os.path.join(ROOT, "js", "seo-news", bucket + ".json")
+        os.makedirs(os.path.dirname(chunk_path), exist_ok=True)
+        _write_if_changed(
+            chunk_path, _dump_chunk(bucket, news_by_bucket.get(bucket, {})))
 
     noindex_keys = {k for k, v in meta.items()
                     if isinstance(v, dict) and v.get("robots")}
@@ -2038,9 +2180,12 @@ def main():
               sum(1 for v in PUBLISHED.values() if v.get("type") == "movie"),
               sum(1 for v in PUBLISHED.values() if v.get("type") == "tv"),
               len(ARTICLES), len(DAYWISE)))
-    print("seo_assets: seo-meta.json %d entries, sitemap-main.xml %d urls, "
+    print("seo_assets: seo-meta.json %d entries (%d slim, %d title-chunk, "
+          "%d news-chunk; %d pruned orphans), sitemap-main.xml %d urls, "
           "sitemap.xml index (%d buckets, %d catalogue urls), "
-          "robots.txt -> %s" % (len(meta), n_urls,
+          "robots.txt -> %s" % (len(meta), len(small_meta),
+                                len(title_entries), len(news_entries),
+                                n_pruned, n_urls,
                                 len(bucket_lastmods), n_cat_total, BASE))
     return 0
 

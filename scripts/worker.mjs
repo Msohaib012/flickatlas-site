@@ -11,8 +11,10 @@
 // /category?cat=) rendered client-side from JS data, so a crawler that
 // does not run JS would see the same generic shell title for every film
 // and every article. For those routes the Worker injects the real
-// <title>/meta/OG/Twitter/canonical/JSON-LD from js/seo-meta.json
-// (regenerated hourly from the live data) into the served HTML.
+// <title>/meta/OG/Twitter/canonical/JSON-LD from the sharded SEO
+// stores (regenerated hourly from the live data) into the served HTML:
+// js/seo/<bb>.json title chunks, js/seo-news/<bb>.json news chunks, and
+// the small js/seo-meta.json (home/cat/daywise only).
 // Unknown id / missing meta file / fetch error -> the shell is served
 // unchanged (safe fallback). Listing + legal shells carry their own
 // static meta in the HTML; the Worker never injects on those routes.
@@ -163,20 +165,39 @@ const OG_TYPE = { "Movie": "video.movie", "TVSeries": "video.tv_show",
                   "NewsArticle": "article", "CollectionPage": "website" };
 let SEO_CACHE = null;
 let SEO_CACHE_AT = 0;
-/* Catalogue chunks (2026-11-14): js/seo-meta.json is ~15.5 MB for 916
-   titles and would be ~98 MB at 45k titles — it cannot scale as one
-   file. Title meta now lives in per-bucket chunks js/seo/<bb>.json
-   (bb = tmdb id % 100, zero-padded), built by
-   scripts/catalogue_build.py. The Worker loads only the chunk for the
-   requested id. During the migration the legacy whole-file lookup
-   stays as a fallback for titles not yet bucketed; it is removed
-   once every title lives in a chunk. */
+/* Sharded SEO stores. The single js/seo-meta.json hit the 25 MiB
+   Cloudflare Workers Static Assets per-file limit (27.4 MB, mostly
+   news entries) and broke every deploy with HTTP 400 code 10304, so
+   no route loads a whole-file map any more except the small one:
+   - title meta ("movie:<id>", "tv:<id>") lives in per-bucket chunks
+     js/seo/<bb>.json (bb = tmdb id % 100, zero-padded). Published
+     entries are merged in by scripts/seo_assets.py; catalogue entries
+     by scripts/catalogue_build.py. The Worker loads only the chunk
+     for the requested id; a chunk miss means no entry (the soft-404
+     TMDB check below handles unknown ids). There is NO whole-file
+     fallback for titles — the legacy one was removed 2026-11-23.
+   - news meta ("news:<slug>") lives in js/seo-news/<bb>.json
+     (bb = FNV-1a hash of the slug % 100, zero-padded), rebuilt whole
+     by scripts/seo_assets.py. Same one-chunk lookup.
+   - "home", "cat:*" and "daywise:*" stay in the slimmed
+     js/seo-meta.json (well under 1 MB), loaded whole and cached. */
 const SEO_BUCKET_COUNT = 100;
 let SEO_CHUNKS = {};
+let SEO_NEWS_CHUNKS = {};
 function seoBucket(id) {
   const n = Number(id);
   if (!Number.isFinite(n)) return null;
   return String(((n % SEO_BUCKET_COUNT) + SEO_BUCKET_COUNT) % SEO_BUCKET_COUNT).padStart(2, "0");
+}
+function seoNewsBucket(id) {
+  /* FNV-1a 32-bit — must match news_bucket() in scripts/seo_assets.py
+     and the stats pages: news ids are ASCII, so char codes are bytes. */
+  let h = 0x811c9dc5;
+  for (let i = 0; i < id.length; i++) {
+    h ^= id.charCodeAt(i);
+    h = Math.imul(h, 0x01000193) >>> 0;
+  }
+  return String(h % SEO_BUCKET_COUNT).padStart(2, "0");
 }
 async function loadSeoChunk(env, url, bucket) {
   const now = Date.now();
@@ -187,6 +208,20 @@ async function loadSeoChunk(env, url, bucket) {
     if (!res.ok) return hit ? hit.data : null;
     const data = await res.json();
     SEO_CHUNKS[bucket] = { data: data, at: now };
+    return data;
+  } catch (e) {
+    return hit ? hit.data : null;
+  }
+}
+async function loadSeoNewsChunk(env, url, bucket) {
+  const now = Date.now();
+  const hit = SEO_NEWS_CHUNKS[bucket];
+  if (hit && now - hit.at < 600000) return hit.data;
+  try {
+    const res = await env.ASSETS.fetch(new Request(new URL("/js/seo-news/" + bucket + ".json", url)));
+    if (!res.ok) return hit ? hit.data : null;
+    const data = await res.json();
+    SEO_NEWS_CHUNKS[bucket] = { data: data, at: now };
     return data;
   } catch (e) {
     return hit ? hit.data : null;
@@ -204,8 +239,21 @@ async function loadSeoMeta(env, url, key) {
         return out;
       }
     }
-    /* Not in its chunk yet — fall through to the legacy whole file. */
+    return null;
   }
+  if (key && key.indexOf("news:") === 0) {
+    const id = key.slice(key.indexOf(":") + 1);
+    const bucket = seoNewsBucket(id);
+    const chunk = await loadSeoNewsChunk(env, url, bucket);
+    if (chunk && chunk.titles && chunk.titles[key]) {
+      const out = {};
+      out[key] = chunk.titles[key];
+      return out;
+    }
+    return null;
+  }
+  /* No key (homepage) or a home/daywise/cat key: the slimmed
+     js/seo-meta.json, cached 10 minutes. */
   const now = Date.now();
   if (SEO_CACHE && now - SEO_CACHE_AT < 600000) return SEO_CACHE;
   try {

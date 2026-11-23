@@ -1113,7 +1113,7 @@ const UI = (() => {
        must be exactly one JSON-LD block. Without the marker (local dev, or a
        page the Worker does not inject on) this stays the fallback that fills
        the generic shell. Not-found / noindex paths never carry the marker
-       (the Worker only injects when a seo-meta.json entry exists), so those
+       (the Worker only injects when an SEO-store entry exists), so those
        setSEO calls still run. */
     if (document.head.querySelector('meta[name="fa-seo"]')) return;
     if (title) document.title = title;

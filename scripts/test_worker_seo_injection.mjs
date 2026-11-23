@@ -107,17 +107,39 @@ const env = {
         });
       }
       if (url.pathname === '/js/seo-meta.json') {
+        // Slimmed store: home/cat/daywise only (titles/news live in chunks).
         return new Response(JSON.stringify({
+          'daywise:456': shortDaywise,
+          'daywise:789': longDaywise,
+          'daywise:999': daywiseSsr,
+        }), {
+          status: 200,
+          headers: { 'Content-Type': 'application/json; charset=utf-8' },
+        });
+      }
+      if (url.pathname.startsWith('/js/seo/')) {
+        const bucket = url.pathname.slice('/js/seo/'.length, -'.json'.length);
+        const titles = {};
+        for (const [key, entry] of Object.entries({
           'movie:123': metaEntry,
           'movie:124': { ...metaEntry, published: '', modified: '' },
           'movie:125': metaEntry,
           'movie:126': { ...metaEntry, ssr: ssrFixture },
           'movie:127': { ...metaEntry },
           'movie:128': { ...metaEntry, ssr: ssrFixture },
-          'news:fixture': newsEntry,
-          'daywise:456': shortDaywise,
-          'daywise:789': longDaywise,
-          'daywise:999': daywiseSsr,
+        })) {
+          const id = key.slice(key.indexOf(':') + 1);
+          if (String(Number(id) % 100).padStart(2, '0') === bucket) titles[key] = entry;
+        }
+        return new Response(JSON.stringify({ bucket, count: Object.keys(titles).length, titles }), {
+          status: 200,
+          headers: { 'Content-Type': 'application/json; charset=utf-8' },
+        });
+      }
+      if (url.pathname.startsWith('/js/seo-news/')) {
+        return new Response(JSON.stringify({
+          bucket: url.pathname.slice('/js/seo-news/'.length, -'.json'.length),
+          count: 1, titles: { 'news:fixture': newsEntry },
         }), {
           status: 200,
           headers: { 'Content-Type': 'application/json; charset=utf-8' },
@@ -132,7 +154,10 @@ const response = await worker.fetch(new Request('https://flickatlas.co.uk/movie?
 assert.equal(response.status, 200);
 const html = await response.text();
 assert.ok(assetCalls.includes('/movie/'));
-assert.ok(assetCalls.includes('/js/seo-meta.json'));
+assert.ok(assetCalls.includes('/js/seo/23.json'),
+  'title routes must load the title chunk, not the whole-file map');
+assert.ok(!assetCalls.includes('/js/seo-meta.json'),
+  'the whole-file map must not be fetched for a title route');
 
 function allMatches(pattern) {
   return [...html.matchAll(pattern)].map(match => match[0]);
@@ -199,6 +224,18 @@ async function pageGraph(url) {
   return JSON.parse(body)['@graph'];
 }
 const newsGraph = await pageGraph('https://flickatlas.co.uk/news-item?id=fixture');
+// News routes must load the FNV-1a-hashed news chunk (same algorithm as
+// seoNewsBucket in worker.mjs), never the whole-file map.
+function fnvBucket(id) {
+  let h = 0x811c9dc5;
+  for (let i = 0; i < id.length; i++) {
+    h ^= id.charCodeAt(i);
+    h = Math.imul(h, 0x01000193) >>> 0;
+  }
+  return String(h % 100).padStart(2, '0');
+}
+assert.ok(assetCalls.includes('/js/seo-news/' + fnvBucket('fixture') + '.json'),
+  'news routes must load the hashed news chunk');
 for (const type of ['WebPage', 'NewsArticle']) {
   const node = newsGraph.find(item => item['@type'] === type);
   assert.equal(node.datePublished, newsEntry.published);

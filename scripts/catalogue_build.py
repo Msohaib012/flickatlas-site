@@ -442,35 +442,6 @@ def migrate_cat_chunks(published=None):
     return rewritten, renamed
 
 
-def drop_published_from_seo_chunks(published):
-    """Drop published titles from js/seo/<bb>.json. The seo chunks are
-    keyed kind:id already, so this is a membership filter — no type
-    resolution needed. Without it a stale catalogue meta would win
-    over the published seo-meta.json entry in the Worker's chunk-first
-    lookup. Returns (buckets_rewritten, dropped)."""
-    if not os.path.isdir(SEO_DIR):
-        return 0, 0
-    rewritten, dropped = 0, 0
-    for name in sorted(os.listdir(SEO_DIR)):
-        if not name.endswith(".json"):
-            continue
-        path = os.path.join(SEO_DIR, name)
-        titles = read_chunk(path)
-        if not titles:
-            continue
-        new_titles = {k: v for k, v in titles.items()
-                      if str(k) not in published}
-        if len(new_titles) != len(titles):
-            dropped += len(titles) - len(new_titles)
-            bucket = name[:-len(".json")]
-            if write_if_changed(path, dump_chunk(bucket, new_titles)):
-                rewritten += 1
-    if dropped:
-        log("catalogue_build: dropped %d published titles from seo chunks"
-            % dropped)
-    return rewritten, dropped
-
-
 def migrate_state_keys(state):
     """Rewrite bare-id keys in state["added"]/state["skipped"] to
     kind:id keys, resolving the kind from the title's cat-chunk entry
@@ -545,8 +516,13 @@ def main():
         if n_renamed:
             log("catalogue_build: migrated %d cat entries in %d buckets to "
                 "kind:id keys" % (n_renamed, n_buckets))
-        if published:
-            drop_published_from_seo_chunks(published)
+        # NOTE (2026-11-23): published titles now LIVE in js/seo/<bb>.json
+        # (merged there by scripts/seo_assets.py, which owns published
+        # keys). The old drop_published_from_seo_chunks step was removed:
+        # stripping them here would delete the Worker's only copy of the
+        # published meta. This builder preserves whatever published keys
+        # already sit in a chunk (read-modify-write below) and never
+        # writes them itself.
         n_state, n_dropped = migrate_state_keys(state)
         if n_state or n_dropped:
             log("catalogue_build: migrated %d state keys, dropped %d "

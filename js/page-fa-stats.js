@@ -178,13 +178,46 @@
     var n = (h + 1) % 24;
     return h12(h) + (h < 12 ? " AM" : " PM") + " – " + h12(n) + (n < 12 ? " AM" : " PM");
   }
-  var seoMetaCache = null;
+  /* SEO meta is sharded (2026-11-23): titles in js/seo/<bb>.json
+     (bb = tmdb id % 100), news in js/seo-news/<bb>.json (bb = FNV-1a
+     hash of the slug % 100, matching news_bucket() in
+     scripts/seo_assets.py and seoNewsBucket() in scripts/worker.mjs).
+     One cached fetch per bucket — never the old whole-file map. */
+  var seoChunkCache = {};
+  function seoBucketNum(tid) {
+    var n = parseInt(tid, 10);
+    if (isNaN(n)) return null;
+    return ("0" + (((n % 100) + 100) % 100)).slice(-2);
+  }
+  function seoNewsBucket(id) {
+    var h = 0x811c9dc5;
+    for (var i = 0; i < id.length; i++) {
+      h ^= id.charCodeAt(i);
+      h = Math.imul(h, 0x01000193) >>> 0;
+    }
+    return ("0" + (h % 100)).slice(-2);
+  }
+  async function seoChunkTitles(path) {
+    if (!seoChunkCache[path]) {
+      try {
+        var r = await fetch(path);
+        seoChunkCache[path] = r.ok ? await r.json() : { titles: {} };
+      } catch (e) { seoChunkCache[path] = { titles: {} }; }
+    }
+    return seoChunkCache[path].titles || {};
+  }
   async function titleName(key) {
     var kind = key.charAt(0) === "t" ? "tv" : key.charAt(0) === "n" ? "news" : "movie";
     var tid = key.slice(2);
     try {
-      if (!seoMetaCache) { var r = await fetch("/js/seo-meta.json"); seoMetaCache = r.ok ? await r.json() : {}; }
-      var e = seoMetaCache[kind + ":" + tid];
+      var e = null;
+      if (kind === "news") {
+        var nb = seoNewsBucket(tid);
+        if (nb) e = (await seoChunkTitles("/js/seo-news/" + nb + ".json"))["news:" + tid];
+      } else {
+        var bb = seoBucketNum(tid);
+        if (bb) e = (await seoChunkTitles("/js/seo/" + bb + ".json"))[kind + ":" + tid];
+      }
       if (e && e.t) return e.t + (kind === "tv" ? " (TV)" : "");
     } catch (e2) {}
     return (kind === "tv" ? "Show #" : kind === "news" ? "Story #" : "Movie #") + tid;

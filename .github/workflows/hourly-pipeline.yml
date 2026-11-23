@@ -630,13 +630,15 @@ jobs:
         run: python3 scripts/fetch-credits.py --max 50
 
       # --- 13d. SEO assets (always, never fatal) ----------------------
-      # Regenerate js/seo-meta.json + sitemap.xml + robots.txt from the
-      # live title/article/day-wise/review/episode data using the
-      # deterministic stdlib-only scripts/seo_assets.py generator.
+      # Regenerate the sharded SEO stores + sitemap.xml + robots.txt
+      # from the live title/article/day-wise/review/episode data using
+      # the deterministic stdlib-only scripts/seo_assets.py generator.
       # This step reads existing files; it starts no extra content jobs.
       # The Worker injects per-URL <title>/meta/OG/JSON-LD for the
       # client-rendered detail shells (/movie, /show, /news-item,
-      # /box-office-day, /category) from js/seo-meta.json; the sitemap
+      # /box-office-day, /category) from the title chunks
+      # (js/seo/<bb>.json), news chunks (js/seo-news/<bb>.json) and the
+      # slimmed js/seo-meta.json (home/cat/daywise); the sitemap
       # lists every listing + detail + article URL for Google.
       # continue-on-error: a generator failure must never fail the run
       # (the previous hour's files stay live and keep working).

@@ -1,6 +1,6 @@
 {
  "bucket": "59",
- "count": 67,
+ "count": 81,
  "titles": {
   "movie:10359": {
    "d": "Resurrection (1999): Crime/Mystery film. Story: A jaded homicide detective has been put on the case… See cast, budget $10M, and TMDB rating 6.1/10.",
@@ -1287,6 +1287,63 @@
    "t": "Pizza Movie (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2026"
   },
+  "movie:1502759": {
+   "d": "Jupiter (2026): Drama/Thriller film. Story: Freshly elected, President Paul Archambault must face… See cast and release date 18 November 2026.",
+   "img": "https://image.tmdb.org/t/p/w780/evfZVmo9kMu83qXTnu4HR8gTFSK.jpg",
+   "industry": "world",
+   "k": "Jupiter, Jupiter movie, Jupiter cast, Jupiter story, Jupiter box office collection, Jupiter budget, Jupiter review, Jupiter rating, Jupiter release date, Jupiter Drama, Jupiter Thriller, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Denis Ménochet"
+     },
+     {
+      "@type": "Person",
+      "name": "Ella Rumpf"
+     },
+     {
+      "@type": "Person",
+      "name": "Céline Sallette"
+     },
+     {
+      "@type": "Person",
+      "name": "Dominique Blanc"
+     },
+     {
+      "@type": "Person",
+      "name": "Reda Kateb"
+     }
+    ],
+    "description": "Jupiter (2026): Drama/Thriller film. Story: Freshly elected, President Paul Archambault must face… See cast and release date 18 November 2026.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Alexandre Smia"
+     }
+    ],
+    "duration": "PT87M",
+    "genre": [
+     "Drama",
+     "Thriller"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/evfZVmo9kMu83qXTnu4HR8gTFSK.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1502759",
+    "name": "Jupiter",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-11-18"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1502759"
+   },
+   "modified": "",
+   "published": "2026-11-18",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Jupiter (2026)</h1>\n<p class=\"ssr-lead\">Freshly elected, President Paul Archambault must face an unprecedented crisis: his Russian counterpart, the target of an attack, brandishes a nuclear ultimatum threatening an ally of France. Faced with the risk of military escalation, the president gathers his staff in the bunker of the Elysée. In the secrecy of the command post Jupiter, Paul will have to make a dizzying decision.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 18 November 2026</li><li>Runtime: 87 minutes</li><li>Director: Alexandre Smia</li><li>Genres: Drama, Thriller</li><li>Certification: TP</li><li>Original language: French</li><li>Spoken languages: French</li><li>Production countries: France</li></ul>\n<h2>Top cast</h2>\n<ul><li>Denis Ménochet as Paul Archambault</li><li>Ella Rumpf as Louise Savina, Diplomatic Advisor</li><li>Céline Sallette as Clara Boyer, First Minister</li><li>Dominique Blanc as Marie Pernet, Foreign minister</li><li>Reda Kateb as Alexandre Kacem, Secretary of Defense</li><li>André Dussollier as Jean Lavallée, Army chief of staff</li><li>Frédéric Pierrot as Pierre Bérard</li><li>Cédric Kahn as Alain Davos, Director of the DGSE</li><li>Jérémy Lopez as Jérôme Kellerman</li><li>Clotilde Courau</li></ul>\n</article>",
+   "t": "Jupiter (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
+  },
   "movie:152259": {
    "d": "Phantom (2013): Thriller film. Story: The haunted Captain of a Soviet submarine holds the… See cast, budget $10M, and TMDB rating 5.9/10.",
    "img": "https://image.tmdb.org/t/p/w780/bpy9DzqhLN4oPxaHxFMQKG20v08.jpg",
@@ -1541,6 +1598,71 @@
    "t": "Iron Maiden: Burning Ambition (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2026"
   },
+  "movie:1649259": {
+   "d": "Bullah (2026): Action/Thriller film. Story: After his father is murdered, a vigilante seeks… See cast, budget $253.0k, and TMDB rating 8.3/10.",
+   "img": "https://image.tmdb.org/t/p/w780/dD0xY8iP3C8DBy0nhe1Fgrsqoo5.jpg",
+   "industry": "pakistani",
+   "k": "Bullah, Bullah movie, Bullah cast, Bullah story, Bullah box office collection, Bullah budget, Bullah review, Bullah rating, Bullah release date, Bullah Action, Bullah Thriller, Pakistani movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Shaan Shahid"
+     },
+     {
+      "@type": "Person",
+      "name": "Sara Loren"
+     },
+     {
+      "@type": "Person",
+      "name": "Naeema Butt"
+     },
+     {
+      "@type": "Person",
+      "name": "Saleem Sheikh"
+     },
+     {
+      "@type": "Person",
+      "name": "Adnan Butt"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 3,
+     "ratingValue": 8.3,
+     "worstRating": 0
+    },
+    "description": "Bullah (2026): Action/Thriller film. Story: After his father is murdered, a vigilante seeks… See cast, budget $253.0k, and TMDB rating 8.3/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Shoaib Khan"
+     }
+    ],
+    "duration": "PT108M",
+    "genre": [
+     "Action",
+     "Thriller"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/dD0xY8iP3C8DBy0nhe1Fgrsqoo5.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1649259",
+    "name": "Bullah",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-03-20"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1649259"
+   },
+   "modified": "",
+   "published": "2026-10-29T11:05:06.935Z",
+   "robots": "noindex,follow",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Bullah (2026)</h1>\n<p class=\"ssr-lead\">After his father is murdered, a vigilante seeks revenge against those responsible.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 20 March 2026</li><li>Runtime: 108 minutes</li><li>Director: Shoaib Khan</li><li>Genres: Action, Thriller</li><li>Certification: 15</li><li>Original language: Punjabi</li><li>Spoken languages: Urdu, Punjabi</li><li>Production countries: Pakistan</li><li>Budget: $253.0k</li><li>TMDB rating: 8.3/10 (3 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Shaan Shahid as Bullah</li><li>Sara Loren as Sofia</li><li>Naeema Butt as Fakira</li><li>Saleem Sheikh</li><li>Adnan Butt as Shahu</li></ul>\n</article>",
+   "t": "Bullah (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
+  },
   "movie:16559": {
    "d": "The Picture of Dorian Gray (1945): Drama/Horror film. Story: A handsome young man trades his soul so that his… See cast and TMDB rating 7.1/10.",
    "img": "https://image.tmdb.org/t/p/w780/6LF0NpAu1Ea8ZlWTjwm4lWaBsyp.jpg",
@@ -1669,6 +1791,63 @@
    "t": "Furious 7 (2015) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2015"
   },
+  "movie:1688459": {
+   "d": "KillR (2026): Action/Drama film. See cast and release date 30 October 2026.",
+   "img": "https://image.tmdb.org/t/p/w500/18ePZGmI3TOyxDHYkIZCNQuRAC.jpg",
+   "industry": "bollywood",
+   "k": "KillR, KillR movie, KillR cast, KillR story, KillR box office collection, KillR budget, KillR review, KillR rating, KillR release date, KillR Action, KillR Drama, Indian movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Jyoti Poorvaj"
+     },
+     {
+      "@type": "Person",
+      "name": "Poorvaaj"
+     },
+     {
+      "@type": "Person",
+      "name": "Manish Gilada"
+     },
+     {
+      "@type": "Person",
+      "name": "Archana Ananth"
+     },
+     {
+      "@type": "Person",
+      "name": "Chandrakant Kollu"
+     }
+    ],
+    "description": "KillR (2026): Action/Drama film. See cast and release date 30 October 2026.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Poorvaaj"
+     }
+    ],
+    "genre": [
+     "Action",
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w500/18ePZGmI3TOyxDHYkIZCNQuRAC.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1688459",
+    "name": "KillR",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-10-30"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1688459"
+   },
+   "modified": "",
+   "published": "2026-11-03",
+   "robots": "noindex,follow",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>KillR (2026)</h1>\n<h2>Key facts</h2>\n<ul><li>Release date: 30 October 2026</li><li>Director: Poorvaaj</li><li>Genres: Action, Drama, Science Fiction, Romance</li><li>Original language: Telugu</li><li>Spoken languages: Telugu</li><li>Production countries: India</li></ul>\n<h2>Top cast</h2>\n<ul><li>Jyoti Poorvaj</li><li>Poorvaaj</li><li>Manish Gilada</li><li>Archana Ananth</li><li>Chandrakant Kollu</li><li>Vishal Raj</li><li>Gautam Chakradhar Koppisetty</li></ul>\n</article>",
+   "t": "KillR (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
+  },
   "movie:17159": {
    "d": "Eddie Murphy Raw (1987): Comedy film. Story: Eddie Murphy delights, shocks and entertains with… See cast, TMDB rating 7.2/10, and release date 25 November 1987.",
    "img": "https://image.tmdb.org/t/p/w780/zAP5PZVtSIOZwweMaHmNKHJ3xTF.jpg",
@@ -1793,6 +1972,497 @@
    "published": "2026-11-14",
    "ssr": "<article class=\"ssr-facts\">\n<h1>Turning Point: Generation 9/11 (2026)</h1>\n<p class=\"ssr-lead\">A quarter-century after September 11th, the attacks&#x27; ripple effects persist across generations. Orphaned children, War on Terror journalists, young Afghans, and U.S. Marines shaped by the 2021 withdrawal share their stories.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 2 September 2026</li><li>Runtime: 99 minutes</li><li>Director: Brian Knappenberger</li><li>Genres: Documentary</li><li>Certification: A</li><li>Original language: English</li><li>Spoken languages: English</li><li>Production countries: United States</li><li>Official trailer: Official Trailer</li><li>TMDB rating: 5.9/10 (37 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Michael Smoak as Self</li><li>Garrett M. Graff as Self</li><li>Anand Gopal as Self</li><li>Jenny Pachucki as Self</li><li>Bruce Hoffman as Self</li><li>Osama bin Laden as Self (archive footage)</li><li>George W. Bush as Self (archive footage)</li><li>Barack Obama as Self (archive footage)</li><li>Rudolph Giuliani as Self (archive footage)</li><li>Donald Trump as Self (archive footage)</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Netflix</li></ul>\n</article>",
    "t": "Turning Point: Generation 9/11 (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
+  },
+  "movie:1764859": {
+   "d": "Andoy (2026): Horror/Thriller film. Story: A surprise birthday celebration turns into a waking… See cast and release date 18 November 2026.",
+   "img": "https://image.tmdb.org/t/p/w780/refsKPmi8WGMI0nN54Tb81v6Ih1.jpg",
+   "industry": "world",
+   "k": "Andoy, Andoy movie, Andoy cast, Andoy story, Andoy box office collection, Andoy budget, Andoy review, Andoy rating, Andoy release date, Andoy Horror, Andoy Thriller, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Cedrick Juan"
+     },
+     {
+      "@type": "Person",
+      "name": "Jennica Garcia"
+     },
+     {
+      "@type": "Person",
+      "name": "Albie Casiño"
+     },
+     {
+      "@type": "Person",
+      "name": "Paolo Gumabao"
+     },
+     {
+      "@type": "Person",
+      "name": "Angelica Lao"
+     }
+    ],
+    "description": "Andoy (2026): Horror/Thriller film. Story: A surprise birthday celebration turns into a waking… See cast and release date 18 November 2026.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Mark Putian"
+     }
+    ],
+    "genre": [
+     "Horror",
+     "Thriller"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/refsKPmi8WGMI0nN54Tb81v6Ih1.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1764859",
+    "name": "Andoy",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-11-18"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1764859"
+   },
+   "modified": "",
+   "published": "2026-11-11",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Andoy (2026)</h1>\n<p class=\"ssr-lead\">A surprise birthday celebration turns into a waking nightmare when an enigmatic clown transforms a gathering of old friends into a series of disturbing performances, forcing each of them to confront the darkest truths they&#x27;ve hidden from one another.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 18 November 2026</li><li>Director: Mark Putian</li><li>Genres: Horror, Thriller</li><li>Certification: R-18</li><li>Original language: TL</li><li>Production countries: PH</li></ul>\n<h2>Top cast</h2>\n<ul><li>Cedrick Juan as Andoy</li><li>Jennica Garcia as Shirley</li><li>Albie Casiño as Marco</li><li>Paolo Gumabao as Nico</li><li>Angelica Lao as Mia</li><li>Aya Fernandez as Jen</li><li>VR Relosa as Johnson</li><li>Ivy Nuqui</li><li>Vic Romano as Congressman</li><li>Harly Daria as Toby</li></ul>\n</article>",
+   "t": "Andoy (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
+  },
+  "movie:1783159": {
+   "d": "The Ordinary Star (2026): Documentary film. Story: Actor Nawazuddin Siddiqui is asked to study Ashok… See cast, review 4.5/10, and release date 29 October 2026.",
+   "img": "https://image.tmdb.org/t/p/w500/zqhOcd2rqHBRbjwWR0OzzzahCdW.jpg",
+   "industry": "bollywood",
+   "k": "The Ordinary Star, The Ordinary Star movie, The Ordinary Star cast, The Ordinary Star story, The Ordinary Star box office collection, The Ordinary Star budget, The Ordinary Star review, The Ordinary Star rating, The Ordinary Star release date, The Ordinary Star Documentary, Indian movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Dibakar Banerjee"
+     },
+     {
+      "@type": "Person",
+      "name": "Nawazuddin Siddiqui"
+     }
+    ],
+    "description": "The Ordinary Star (2026): Documentary film. Story: Actor Nawazuddin Siddiqui is asked to study Ashok… See cast, review 4.5/10, and release date 29 October 2026.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Samreen Farooqui"
+     },
+     {
+      "@type": "Person",
+      "name": "Shabani Hassanwalia"
+     }
+    ],
+    "duration": "PT65M",
+    "genre": [
+     "Documentary"
+    ],
+    "image": "https://image.tmdb.org/t/p/w500/zqhOcd2rqHBRbjwWR0OzzzahCdW.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1783159",
+    "name": "The Ordinary Star",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-10-29"
+    },
+    "review": {
+     "@type": "Review",
+     "author": {
+      "@type": "Organization",
+      "name": "FlickAtlas"
+     },
+     "reviewBody": "The Ordinary Star offers a unique documentary gaze into the invasive nature of filmmaking and the cost of cinematic creation. With mixed customer reviews and a specialized focus, it is best recommended for dedicated cinephiles interested in the mechanics of acting and direction. While it features intriguing contributions from its cast, general viewers might want to approach with tempered expectations.",
+     "reviewRating": {
+      "@type": "Rating",
+      "bestRating": 10,
+      "ratingValue": 4.5
+     }
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1783159"
+   },
+   "modified": "",
+   "published": "2026-10-26",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>The Ordinary Star (2026)</h1>\n<p class=\"ssr-lead\">Actor Nawazuddin Siddiqui is asked to study Ashok, the actual resident of the room the actor is going to inhabit for the filming of Star, Dibakar Banerjee’s short in Bombay Talkies, 2013. The fiction director, the documentary filmmakers and the actor, bit by bit, construct the lead character of Bombay Talkies, Porandar Vithal. Ashok feeds this construction through his own life. The Ordinary Star is a documentary that ponders over the nature and cost of the cinematic process, it’s invasiveness, it’s need to devour so that it can create, and the endless search to live a life less ordinary.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 29 October 2026</li><li>Runtime: 65 minutes</li><li>Director: Samreen Farooqui, Shabani Hassanwalia</li><li>Genres: Documentary</li><li>Original language: Hindi</li><li>Spoken languages: Hindi, English</li><li>Production countries: India</li></ul>\n<h2>Top cast</h2>\n<ul><li>Dibakar Banerjee</li><li>Nawazuddin Siddiqui</li></ul>\n<h2>FlickAtlas review</h2>\n<p>Overall: 4.5/10.</p>\n<ul><li>Action &amp; Cinematography: 4.5/10</li><li>Comedy &amp; Entertainment: 4/10</li><li>Direction: 5/10</li><li>Music &amp; BGM: 5/10</li><li>Performances: 5/10</li><li>Story &amp; Screenplay: 4.5/10</li></ul>\n<h3>Story &amp; Plot</h3>\n<p>Actor Nawazuddin Siddiqui is tasked with studying Ashok, the actual resident of the room the actor is going to inhabit for the filming of Star, Dibakar Banerjee&#x27;s short in Bombay Talkies. The fiction director, the documentary filmmakers, and the actor bit by bit construct the lead character, Porandar Vithal. Ashok feeds this construction through his own life, pondering the nature and cost of the cinematic process. Customer feedback on the project is mixed, with some reviewers highlighting positive aspects while others report mixed experiences.</p>\n<h3>Comedy &amp; Entertainment</h3>\n<p>The documentary leans into its conceptual premise rather than traditional humor or overt gags. The entertainment value stems from the fascinating behind-the-scenes look at how characters are constructed for the screen. It keeps the tone focused on the filmmaking process itself rather than lighter comedic beats. Viewers looking for lighthearted fun will find a more thought-provoking exploration instead.</p>\n<h3>Performances &amp; Direction</h3>\n<p>The film features actor Nawazuddin Siddiqui and director Dibakar Banerjee as key participants in the documentary. Customer reviews do not detail specific acting techniques, but the cast&#x27;s involvement centers on exploring the reality behind fictional character creation. Siddiqui&#x27;s preparation to inhabit a role forms a core focal point of the documentary&#x27;s progression.</p>\n<h3>Strengths</h3>\n<ul><li>Fascinating behind-the-scenes premise</li><li>Insightful look at the cinematic process</li><li>Strong participation from Nawazuddin Siddiqui and Dibakar Banerjee</li><li>Thought-provoking exploration of character creation</li></ul>\n<h3>Weaknesses</h3>\n<p>Customer feedback on the project remains quite mixed, suggesting that the documentary approach may not fully engage all viewers. The conceptual nature of the storytelling can lead to a range of experiences, where some might find the execution less compelling than the initial premise. Without traditional narrative structures, parts of the film may test the patience of audiences looking for a conventional storyline.</p>\n<h3>Final verdict</h3>\n<p>The Ordinary Star offers a unique documentary gaze into the invasive nature of filmmaking and the cost of cinematic creation. With mixed customer reviews and a specialized focus, it is best recommended for dedicated cinephiles interested in the mechanics of acting and direction. While it features intriguing contributions from its cast, general viewers might want to approach with tempered expectations.</p>\n</article>",
+   "t": "The Ordinary Star (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
+  },
+  "movie:1801659": {
+   "d": "Chennai Vlog (2026): Adventure/Comedy film. Story: Finally uploading this vlog , omg istg i was so lazy… See cast and review 6.5/10.",
+   "img": "https://image.tmdb.org/t/p/w780/lM3S4gFRZzzyBvUIPyHPwcTLuKP.jpg",
+   "industry": "bollywood",
+   "k": "Chennai Vlog, Chennai Vlog movie, Chennai Vlog cast, Chennai Vlog story, Chennai Vlog box office collection, Chennai Vlog budget, Chennai Vlog review, Chennai Vlog rating, Chennai Vlog release date, Chennai Vlog Adventure, Chennai Vlog Comedy, Indian movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Siddharth Kallo"
+     },
+     {
+      "@type": "Person",
+      "name": "Julian Steve"
+     },
+     {
+      "@type": "Person",
+      "name": "Paridhi Mittal"
+     },
+     {
+      "@type": "Person",
+      "name": "Aradhya Patne"
+     },
+     {
+      "@type": "Person",
+      "name": "Gauri Shankar"
+     }
+    ],
+    "description": "Chennai Vlog (2026): Adventure/Comedy film. Story: Finally uploading this vlog , omg istg i was so lazy… See cast and review 6.5/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Siddharth Kallo"
+     }
+    ],
+    "duration": "PT57M",
+    "genre": [
+     "Adventure",
+     "Comedy"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/lM3S4gFRZzzyBvUIPyHPwcTLuKP.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1801659",
+    "name": "Chennai Vlog",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-10-19"
+    },
+    "review": {
+     "@type": "Review",
+     "author": {
+      "@type": "Organization",
+      "name": "FlickAtlas"
+     },
+     "reviewBody": "Chennai Vlog offers a brief, food-centric escape for viewers interested in travel diaries and regional dining spots in Chennai. While it lacks a traditional narrative drive, fans of casual lifestyle vlogs will find enough authentic culinary exploration to enjoy. It is recommended as a light, low-stakes watch for food enthusiasts.",
+     "reviewRating": {
+      "@type": "Rating",
+      "bestRating": 10,
+      "ratingValue": 6.5
+     }
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1801659"
+   },
+   "modified": "",
+   "published": "2026-10-31",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Chennai Vlog (2026)</h1>\n<p class=\"ssr-lead\">Finally uploading this vlog , omg istg i was so lazy to edit these clips and make a vlog , but yeah.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 19 October 2026</li><li>Runtime: 57 minutes</li><li>Director: Siddharth Kallo</li><li>Genres: Adventure, Comedy, Drama</li><li>Tagline: April 2026 001</li><li>Certification: U/A 13+</li><li>Original language: Hindi</li><li>Spoken languages: English, Hindi</li><li>Production countries: India</li></ul>\n<h2>Top cast</h2>\n<ul><li>Siddharth Kallo as Self</li><li>Julian Steve as Self</li><li>Paridhi Mittal as Self</li><li>Aradhya Patne as Self</li><li>Gauri Shankar as Self</li><li>Harshit chaturvedi as Self</li></ul>\n<h2>FlickAtlas review</h2>\n<p>Overall: 6.5/10.</p>\n<ul><li>Action &amp; Cinematography: 6/10</li><li>Comedy &amp; Entertainment: 6/10</li><li>Direction: 6/10</li><li>Music &amp; BGM: 6.5/10</li><li>Performances: 6.5/10</li><li>Story &amp; Screenplay: 6/10</li></ul>\n<h3>Story &amp; Plot</h3>\n<p>Chennai Vlog is a 57-minute adventure and comedy film directed by Siddharth Kallo that finally uploads long-delayed clips from a travel and food journey. The feature follows creators and families exploring Chennai through a day in the life format, experiencing diverse dishes and traditional South Indian meals served on banana leaves. Reviewers note visits to spots like Nithya Amirtham and Cookgramam Organic Vegetarian Restaurant, blending travel documentation with dining reviews.</p>\n<h3>Comedy &amp; Entertainment</h3>\n<p>The film leans into the lighthearted, casual entertainment value of a personal travel diary and food vlog. Its humor and charm stem from the spontaneous everyday moments and relatable procrastination of editing clips rather than scripted comedic bits. The light vibe offers an easygoing watch centered on culinary exploration in Chennai.</p>\n<h3>Performances &amp; Direction</h3>\n<p>The cast features Siddharth Kallo, Julian Steve, Paridhi Mittal, Aradhya Patne, and Gauri Shankar appearing naturally as creators and companions documenting their travels. They bring an earnest, documentary-style presence to the screen as they taste various dishes and navigate restaurants together. Their interactions feel casual and grounded in real-life travel experiences.</p>\n<h3>Strengths</h3>\n<ul><li>food-focused travel documentary style</li><li>engaging restaurant reviews</li><li>authentic day-in-the-life premise</li><li>casual and relatable presentation</li></ul>\n<h3>Weaknesses</h3>\n<p>Because the project stems from casually compiled clips and a simple vlog format, it runs the risk of feeling unstructured or repetitive for viewers looking for a traditional narrative arc. The 57-minute runtime relies heavily on repetitive food sampling sequences without much deeper dramatic tension. This familiar and unstructured setup may occasionally test the patience of audiences expecting a polished feature film.</p>\n<h3>Final verdict</h3>\n<p>Chennai Vlog offers a brief, food-centric escape for viewers interested in travel diaries and regional dining spots in Chennai. While it lacks a traditional narrative drive, fans of casual lifestyle vlogs will find enough authentic culinary exploration to enjoy. It is recommended as a light, low-stakes watch for food enthusiasts.</p>\n</article>",
+   "t": "Chennai Vlog (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
+  },
+  "movie:1803359": {
+   "d": "Lorazepam (2026): Drama film. Story: Jax is about to jump off a bridge onto the highway… See cast, budget $50, and release date 24 November 2026.",
+   "img": "https://image.tmdb.org/t/p/w780/siMtoZdyHXO1GtNHgjTNEDLPj2Y.jpg",
+   "industry": "world",
+   "k": "Lorazepam, Lorazepam movie, Lorazepam cast, Lorazepam story, Lorazepam box office collection, Lorazepam budget, Lorazepam review, Lorazepam rating, Lorazepam release date, Lorazepam Drama, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Yusevaldrich"
+     },
+     {
+      "@type": "Person",
+      "name": "El Laponta"
+     }
+    ],
+    "description": "Lorazepam (2026): Drama film. Story: Jax is about to jump off a bridge onto the highway… See cast, budget $50, and release date 24 November 2026.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Yusevaldrich"
+     }
+    ],
+    "duration": "PT27M",
+    "genre": [
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/siMtoZdyHXO1GtNHgjTNEDLPj2Y.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1803359",
+    "name": "Lorazepam",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-11-24"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1803359"
+   },
+   "modified": "",
+   "published": "2026-11-17",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Lorazepam (2026)</h1>\n<p class=\"ssr-lead\">Jax is about to jump off a bridge onto the highway below when he unexpectedly runs into Joy, his childhood friend. Joy tries to calm him down and asks him to stay by his side wherever they go. This unexpected reunion brings them closer again as they spend the entire day together, slowly rekindling their bond.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 24 November 2026</li><li>Runtime: 27 minutes</li><li>Director: Yusevaldrich</li><li>Genres: Drama</li><li>Tagline: You are matter.</li><li>Original language: ID</li><li>Spoken languages: ID, English</li><li>Production countries: ID</li><li>Budget: $50</li><li>Status: Post Production</li></ul>\n<h2>Top cast</h2>\n<ul><li>Yusevaldrich as Jax</li><li>El Laponta as Joy</li></ul>\n</article>",
+   "t": "Lorazepam (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
+  },
+  "movie:1803659": {
+   "d": "School Girls; Or, The African Mean Girls Play (2026) is a film. Story: Becoming Miss Ghana 1986 would mean fame, fortune… See cast.",
+   "img": "https://image.tmdb.org/t/p/w780/zagxhOZrGgTYZGIHKW62cCBv43S.jpg",
+   "industry": "world",
+   "k": "School Girls; Or, The African Mean Girls Play, School Girls; Or, The African Mean Girls Play movie, School Girls; Or, The African Mean Girls Play cast, School Girls; Or, The African Mean Girls Play story, School Girls; Or, The African Mean Girls Play box office collection, School Girls; Or, The African Mean Girls Play budget, School Girls; Or, The African Mean Girls Play review, School Girls; Or, The African Mean Girls Play rating, School Girls; Or, The African Mean Girls Play release date, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Lucia Aremu"
+     },
+     {
+      "@type": "Person",
+      "name": "Denée Benton"
+     },
+     {
+      "@type": "Person",
+      "name": "Patina Miller"
+     },
+     {
+      "@type": "Person",
+      "name": "Erin Morton"
+     },
+     {
+      "@type": "Person",
+      "name": "Nia Otchere-Sarfo"
+     }
+    ],
+    "description": "School Girls; Or, The African Mean Girls Play (2026) is a film. Story: Becoming Miss Ghana 1986 would mean fame, fortune… See cast.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Whitney White"
+     }
+    ],
+    "duration": "PT80M",
+    "image": "https://image.tmdb.org/t/p/w780/zagxhOZrGgTYZGIHKW62cCBv43S.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1803659",
+    "name": "School Girls; Or, The African Mean Girls Play",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-11-10"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1803659"
+   },
+   "modified": "",
+   "published": "2026-11-03",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>School Girls; Or, The African Mean Girls Play (2026)</h1>\n<p class=\"ssr-lead\">Becoming Miss Ghana 1986 would mean fame, fortune, and prosperity. At least, that’s what Paulina—the queen bee of Aburi Girls Boarding School—believes. When the pageant recruiter comes to school, Paulina and her crew pull out all the stops. But to their surprise, a new transfer student from America kicks the competition into a higher, far more personal gear.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 10 November 2026</li><li>Runtime: 80 minutes</li><li>Director: Whitney White</li><li>Original language: English</li><li>Spoken languages: English, AF</li></ul>\n<h2>Top cast</h2>\n<ul><li>Lucia Aremu as Ama</li><li>Denée Benton as Paulina Sarpong</li><li>Patina Miller as Eloise Amponsah</li><li>Erin Morton as Nana</li><li>Nia Otchere-Sarfo as Gifty</li><li>Jordan Rice as Mercy</li><li>Jasmine Amy Rogers as Ericka Boafo</li><li>Heather Alicia Simms as Headmistress Francis</li><li>Tony Goldwyn as American TV Host (voice)</li></ul>\n</article>",
+   "t": "School Girls; Or, The African Mean Girls Play (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
+  },
+  "movie:1809659": {
+   "d": "Reflected (2026) is a film. Story: A man wakes up and slowly discovers he is trapped in… See cast and release date 8 November 2026.",
+   "img": "https://image.tmdb.org/t/p/w500/7X1MyQX4gJ4dAOmIPeqB6Id9qMQ.jpg",
+   "industry": "world",
+   "k": "Reflected, Reflected movie, Reflected cast, Reflected story, Reflected box office collection, Reflected budget, Reflected review, Reflected rating, Reflected release date, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Alex Pierce"
+     }
+    ],
+    "description": "Reflected (2026) is a film. Story: A man wakes up and slowly discovers he is trapped in… See cast and release date 8 November 2026.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Rafe Stevenson"
+     }
+    ],
+    "duration": "PT5M",
+    "image": "https://image.tmdb.org/t/p/w500/7X1MyQX4gJ4dAOmIPeqB6Id9qMQ.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1809659",
+    "name": "Reflected",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-11-08"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1809659"
+   },
+   "modified": "",
+   "published": "2026-11-01",
+   "robots": "noindex,follow",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Reflected (2026)</h1>\n<p class=\"ssr-lead\">A man wakes up and slowly discovers he is trapped in a mirror world.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 8 November 2026</li><li>Runtime: 5 minutes</li><li>Director: Rafe Stevenson</li><li>Original language: English</li><li>Spoken languages: English</li><li>Production countries: Canada</li></ul>\n<h2>Top cast</h2>\n<ul><li>Alex Pierce</li></ul>\n</article>",
+   "t": "Reflected (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
+  },
+  "movie:1816359": {
+   "d": "The Stay (2026) is a film. Story: During a stay at a secluded lake house to kickstart… See cast and release date 21 November 2026.",
+   "img": "https://image.tmdb.org/t/p/w780/drXWLK0M7H5pyHVDoTC6tiWP445.jpg",
+   "industry": "world",
+   "k": "The Stay, The Stay movie, The Stay cast, The Stay story, The Stay box office collection, The Stay budget, The Stay review, The Stay rating, The Stay release date, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Chase Clickner"
+     }
+    ],
+    "description": "The Stay (2026) is a film. Story: During a stay at a secluded lake house to kickstart… See cast and release date 21 November 2026.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Chase Clickner"
+     }
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/drXWLK0M7H5pyHVDoTC6tiWP445.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1816359",
+    "name": "The Stay",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-11-21"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1816359"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "robots": "noindex,follow",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>The Stay (2026)</h1>\n<p class=\"ssr-lead\">During a stay at a secluded lake house to kickstart his sobriety, a young man is confronted by mysterious phone calls, accidental murder and, worst of all, himself.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 21 November 2026</li><li>Director: Chase Clickner</li><li>Tagline: You can’t outrun what lives inside.</li><li>Certification: NR</li><li>Original language: English</li></ul>\n<h2>Top cast</h2>\n<ul><li>Chase Clickner as Liam</li></ul>\n</article>",
+   "t": "The Stay (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
+  },
+  "movie:1819759": {
+   "d": "Soy Boy: The Soyfather (2026): Comedy/Crime film. Story: An absurdist neo-noir comedy about two rival Soy… See cast and budget $1.0k.",
+   "img": "https://image.tmdb.org/t/p/w500/rRR8PKOeNuY9yuK1P9HvbFNrmyG.jpg",
+   "industry": "world",
+   "k": "Soy Boy: The Soyfather, Soy Boy: The Soyfather movie, Soy Boy: The Soyfather cast, Soy Boy: The Soyfather story, Soy Boy: The Soyfather box office collection, Soy Boy: The Soyfather budget, Soy Boy: The Soyfather review, Soy Boy: The Soyfather rating, Soy Boy: The Soyfather release date, Soy Boy: The Soyfather Comedy, Soy Boy: The Soyfather Crime, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "David Ilijevski"
+     },
+     {
+      "@type": "Person",
+      "name": "Joshua Hughes"
+     },
+     {
+      "@type": "Person",
+      "name": "Calder Hosgood"
+     },
+     {
+      "@type": "Person",
+      "name": "William Cohen"
+     },
+     {
+      "@type": "Person",
+      "name": "Max Murrell"
+     }
+    ],
+    "description": "Soy Boy: The Soyfather (2026): Comedy/Crime film. Story: An absurdist neo-noir comedy about two rival Soy… See cast and budget $1.0k.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Sam Haley"
+     }
+    ],
+    "duration": "PT70M",
+    "genre": [
+     "Comedy",
+     "Crime"
+    ],
+    "image": "https://image.tmdb.org/t/p/w500/rRR8PKOeNuY9yuK1P9HvbFNrmyG.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1819759",
+    "name": "Soy Boy: The Soyfather",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-11-22"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1819759"
+   },
+   "modified": "",
+   "published": "2026-11-15",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Soy Boy: The Soyfather (2026)</h1>\n<p class=\"ssr-lead\">An absurdist neo-noir comedy about two rival Soy Sauce distributors. Using student politics, manipulation and violence to get their revenge.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 22 November 2026</li><li>Runtime: 70 minutes</li><li>Director: Sam Haley</li><li>Genres: Comedy, Crime</li><li>Tagline: Revenge is delicious.</li><li>Original language: English</li><li>Spoken languages: English</li><li>Budget: $1.0k</li></ul>\n<h2>Top cast</h2>\n<ul><li>David Ilijevski as David Ilijevski</li><li>Joshua Hughes as Joshua Hughes</li><li>Calder Hosgood as Calder</li><li>William Cohen as William Cohen</li><li>Max Murrell as Max Murrell</li><li>Sam King as Max Murrell (Recast)</li><li>Tsuyoshi Bigmore as Student 1</li><li>Harrison Ding as Student 2</li><li>Oscar Slaviero as Oscar Slaviero</li><li>Tristan Storey as Guard</li></ul>\n</article>",
+   "t": "Soy Boy: The Soyfather (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
+  },
+  "movie:1824359": {
+   "d": "Nausicaá, l'aquarium de tous les défis (2026): Documentary/Family film. See cast and release date 20 November 2026.",
+   "img": "https://image.tmdb.org/t/p/w780/fxh8A0cq6SLzgmsSv48PgS5myFw.jpg",
+   "industry": "world",
+   "k": "Nausicaá, l'aquarium de tous les défis, Nausicaá, l'aquarium de tous les défis movie, Nausicaá, l'aquarium de tous les défis cast, Nausicaá, l'aquarium de tous les défis story, Nausicaá, l'aquarium de tous les défis box office collection, Nausicaá, l'aquarium de tous les défis budget, Nausicaá, l'aquarium de tous les défis review, Nausicaá, l'aquarium de tous les défis rating, Nausicaá, l'aquarium de tous les défis release date, Nausicaá, l'aquarium de tous les défis Documentary, Nausicaá, l'aquarium de tous les défis Family, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "description": "Nausicaá, l'aquarium de tous les défis (2026): Documentary/Family film. See cast and release date 20 November 2026.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Liza Kroh"
+     }
+    ],
+    "genre": [
+     "Documentary",
+     "Family"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/fxh8A0cq6SLzgmsSv48PgS5myFw.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1824359",
+    "name": "Nausicaá, l'aquarium de tous les défis",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-11-20"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1824359"
+   },
+   "modified": "",
+   "published": "2026-11-13",
+   "robots": "noindex,follow",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Nausicaá, l&#x27;aquarium de tous les défis (2026)</h1>\n<h2>Key facts</h2>\n<ul><li>Release date: 20 November 2026</li><li>Director: Liza Kroh</li><li>Genres: Documentary, Family</li><li>Certification: TP</li><li>Original language: French</li><li>Spoken languages: French</li><li>Production countries: France</li></ul>\n</article>",
+   "t": "Nausicaá, l'aquarium de tous les défis (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
+  },
+  "movie:1827159": {
+   "d": "Redes de Carrizo (2026): Documentary film. See cast and release date 23 November 2026.",
+   "img": "https://image.tmdb.org/t/p/w500/naBC8egZuFepVyR7uvhdRhBjRbn.jpg",
+   "industry": "world",
+   "k": "Redes de Carrizo, Redes de Carrizo movie, Redes de Carrizo cast, Redes de Carrizo story, Redes de Carrizo box office collection, Redes de Carrizo budget, Redes de Carrizo review, Redes de Carrizo rating, Redes de Carrizo release date, Redes de Carrizo Documentary, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Raquel Lorenzo Mariano"
+     }
+    ],
+    "description": "Redes de Carrizo (2026): Documentary film. See cast and release date 23 November 2026.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Ilse Rojas Flores"
+     }
+    ],
+    "genre": [
+     "Documentary"
+    ],
+    "image": "https://image.tmdb.org/t/p/w500/naBC8egZuFepVyR7uvhdRhBjRbn.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1827159",
+    "name": "Redes de Carrizo",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-11-23"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1827159"
+   },
+   "modified": "",
+   "published": "2026-11-16",
+   "robots": "noindex,follow",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Redes de Carrizo (2026)</h1>\n<h2>Key facts</h2>\n<ul><li>Release date: 23 November 2026</li><li>Director: Ilse Rojas Flores</li><li>Genres: Documentary</li><li>Original language: Spanish</li><li>Spoken languages: Spanish</li></ul>\n<h2>Top cast</h2>\n<ul><li>Raquel Lorenzo Mariano as Self</li></ul>\n</article>",
+   "t": "Redes de Carrizo (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2026"
   },
   "movie:1859": {
@@ -4080,6 +4750,62 @@
    "published": "2026-11-14",
    "ssr": "<article class=\"ssr-facts\">\n<h1>Agents of the Four Seasons Dance of Spring (2026)</h1>\n<p class=\"ssr-lead\">When the Agent of Spring, Hinagiku Kayo, is abducted, spring itself vanishes—plunging the world into unending winter. Refusing to give up, her devoted guard, Sakura Himedaka, searches for her for years. When Hinagiku suddenly returns, the two set out to restore the lost season, face the past that tore them apart, and reclaim the warmth they refuse to lose again.</p>\n<h2>Key facts</h2>\n<ul><li>First air date: 29 March 2026</li><li>Seasons: 1 · Episodes: 14</li><li>Genres: Animation, Drama, Sci-Fi &amp; Fantasy</li><li>Certification: TV-14</li><li>Original language: Japanese</li><li>Spoken languages: Japanese</li><li>Production countries: Japan</li><li>Network: Gunma TV, TOKYO MX, BS11, Tochigi TV</li><li>Episode runtime: 24 minutes</li><li>Official trailer: Official Trailer [Subtitled]</li><li>TMDB rating: 7.2/10 (28 votes)</li><li>Status: Ended</li></ul>\n<h2>Top cast</h2>\n<ul><li>Yuka Nukui as Hinagiku Kayo (voice)</li><li>Yoshino Aoyama as Sakura Himedaka (voice)</li><li>Sumire Uesaka as Ruri Hazakura (voice)</li><li>Ranko Baba as Ayame Hazakura (voice)</li><li>Hime Sawada as Nadeshiko Iwaizuki (voice)</li><li>Taku Yashiro as Rindo Azami (voice)</li><li>Shogo Sakata as Rosei Kantsubaki (voice)</li><li>Satoshi Hino as Itecho Kangetsu (voice)</li><li>Kana Hanazawa as Kobai Yukiyanagi (voice)</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Crunchyroll, Crunchyroll Amazon Channel</li></ul>\n<h2>Seasons</h2>\n<ul><li>Season 1 (14 episodes, 29 March 2026)</li></ul>\n</article>",
    "t": "Agents of the Four Seasons Dance of Spring (2026) — Seasons, Episodes, Cast & Story | FlickAtlas",
+   "year": "2026"
+  },
+  "tv:312359": {
+   "d": "Dragon Ball Super: Beerus (2026) is an Animation and Action & Adventure TV series. Explore its story: When Beerus, the God of Destruction, awakens in… and cast.",
+   "img": "https://image.tmdb.org/t/p/w780/8phLVFEXOe02JgFmH9ldn3j4tXW.jpg",
+   "industry": "world",
+   "k": "Dragon Ball Super: Beerus, Dragon Ball Super: Beerus TV series, Dragon Ball Super: Beerus cast, Dragon Ball Super: Beerus story, Dragon Ball Super: Beerus seasons, Dragon Ball Super: Beerus episodes, Dragon Ball Super: Beerus season 1, Dragon Ball Super: Beerus 19 episodes, Dragon Ball Super: Beerus first air date, Dragon Ball Super: Beerus trailer, Dragon Ball Super: Beerus Animation, Dragon Ball Super: Beerus Action & Adventure, World Cinema TV series, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "TVSeries",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Masako Nozawa"
+     },
+     {
+      "@type": "Person",
+      "name": "Ryo Horikawa"
+     },
+     {
+      "@type": "Person",
+      "name": "Naoko Watanabe"
+     },
+     {
+      "@type": "Person",
+      "name": "Unsho Ishizuka"
+     },
+     {
+      "@type": "Person",
+      "name": "Koichi Yamadera"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 419,
+     "ratingValue": 9.6,
+     "worstRating": 0
+    },
+    "description": "Dragon Ball Super: Beerus (2026) is an Animation and Action & Adventure TV series. Explore its story: When Beerus, the God of Destruction, awakens in… and cast.",
+    "genre": [
+     "Animation",
+     "Action & Adventure"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/8phLVFEXOe02JgFmH9ldn3j4tXW.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/show?id=312359",
+    "name": "Dragon Ball Super: Beerus",
+    "numberOfEpisodes": 19,
+    "numberOfSeasons": 1,
+    "startDate": "2026-10-11",
+    "url": "https://flickatlas.co.uk/show?id=312359"
+   },
+   "modified": "",
+   "published": "2026-11-16",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Dragon Ball Super: Beerus (2026)</h1>\n<p class=\"ssr-lead\">When Beerus, the God of Destruction, awakens in search of a worthy rival, Goku and his friends face an epic battle to stop him from destroying Earth. Remastered and re-edited version of Dragon Ball Super.</p>\n<h2>Key facts</h2>\n<ul><li>First air date: 11 October 2026</li><li>Seasons: 1 · Episodes: 19</li><li>Genres: Animation, Action &amp; Adventure, Sci-Fi &amp; Fantasy</li><li>Certification: TV-PG</li><li>Original language: Japanese</li><li>Spoken languages: Japanese</li><li>Production countries: Japan</li><li>Network: Fuji TV, Tokai Television Broadcasting, Kansai TV, Fukui TV, Hokkaido Cultural Broadcasting, Iwate Menkoi Television, TOS, Sendai Television, SAGA TV, Ishikawa TV, TNC, OHK, Kochi Sun Sun Broadcasting, Television Shin Hiroshima System, TV Shizuoka, UMK TV Miyazaki, NST, NBS, Sakuranbo TV, TSK, Ehime Broadcasting, KTS, Fukushima TV, AKT, Toyama Television, TV Kumamoto, Okinawa Television Broadcasting, KTN</li><li>Official trailer: Official English Dub Trailer</li><li>TMDB rating: 9.6/10 (419 votes)</li><li>Status: Returning Series</li></ul>\n<h2>Top cast</h2>\n<ul><li>Masako Nozawa as Son Goku / Son Goten (voice)</li><li>Ryo Horikawa as Vegeta (voice)</li><li>Naoko Watanabe as Chichi (voice)</li><li>Unsho Ishizuka as Mr. Satan (voice)</li><li>Koichi Yamadera as Beerus (voice)</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Netflix, Crunchyroll, Crunchyroll Amazon Channel</li></ul>\n<h2>Seasons</h2>\n<ul><li>Season 1 (19 episodes, 10 October 2026)</li></ul>\n<h2>Where to watch</h2>\n<ul><li>Streaming on Netflix (IN)</li><li>Streaming on Crunchyroll (IN)</li><li>Streaming on Crunchyroll Amazon Channel (IN)</li></ul>\n</article>",
+   "t": "Dragon Ball Super: Beerus (2026) — Seasons, Episodes, Cast & Story | FlickAtlas",
    "year": "2026"
   },
   "tv:321559": {

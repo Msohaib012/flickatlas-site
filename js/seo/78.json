@@ -1,6 +1,6 @@
 {
  "bucket": "78",
- "count": 57,
+ "count": 71,
  "titles": {
   "movie:10178": {
    "d": "The Caine Mutiny (1954): Drama/War film. Story: When a US Naval captain shows signs of mental… See cast, budget $2M, and TMDB rating 7.3/10.",
@@ -448,6 +448,126 @@
    "t": "Miss Pettigrew Lives for a Day (2008) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2008"
   },
+  "movie:1241478": {
+   "d": "Jimmy (2026): Drama/History film. Story: A look into the life of American actor James Stewart… See cast, budget $15M, and TMDB rating 8.0/10.",
+   "img": "https://image.tmdb.org/t/p/w780/2q3oieEIadF90wOtm9WGX5vrqUR.jpg",
+   "industry": "world",
+   "k": "Jimmy, Jimmy movie, Jimmy cast, Jimmy story, Jimmy box office collection, Jimmy budget, Jimmy review, Jimmy rating, Jimmy release date, Jimmy trailer, Jimmy Drama, Jimmy History, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "KJ Apa"
+     },
+     {
+      "@type": "Person",
+      "name": "Jason Alexander"
+     },
+     {
+      "@type": "Person",
+      "name": "Max Casella"
+     },
+     {
+      "@type": "Person",
+      "name": "Sarah Drew"
+     },
+     {
+      "@type": "Person",
+      "name": "Julian Works"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 1,
+     "ratingValue": 8.0,
+     "worstRating": 0
+    },
+    "description": "Jimmy (2026): Drama/History film. Story: A look into the life of American actor James Stewart… See cast, budget $15M, and TMDB rating 8.0/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Aaron Burns"
+     }
+    ],
+    "duration": "PT120M",
+    "genre": [
+     "Drama",
+     "History"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/2q3oieEIadF90wOtm9WGX5vrqUR.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1241478",
+    "name": "Jimmy",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-11-06"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1241478"
+   },
+   "modified": "",
+   "published": "2026-11-06",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Jimmy (2026)</h1>\n<p class=\"ssr-lead\">A look into the life of American actor James Stewart, whose inspiring tale of valor, purpose and faith will win over everyone.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 6 November 2026</li><li>Runtime: 120 minutes</li><li>Director: Aaron Burns</li><li>Genres: Drama, History</li><li>Tagline: A Hollywood icon. An American hero. A Wonderful Life.</li><li>Certification: PG-13</li><li>Original language: English</li><li>Spoken languages: English</li><li>Production countries: United States</li><li>Official trailer: Final Trailer</li><li>Budget: $15M</li><li>TMDB rating: 8.0/10 (1 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>KJ Apa as Jimmy Stewart</li><li>Jason Alexander as Louis B. Mayer</li><li>Max Casella as Frank Capra</li><li>Sarah Drew as Hedda Hopper</li><li>Julian Works as Second Lieutenant Martinez</li><li>Jen Lilley as Gloria Stewart</li><li>Christopher McDonald as Lionel Barrymore</li><li>Kara Killmer as Lady Julia</li><li>Neal McDonough as Alexander Stewart</li><li>Rob Riggle as U.S. Army Colonel Terrill</li></ul>\n</article>",
+   "t": "Jimmy (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
+  },
+  "movie:1269278": {
+   "d": "The Kolotun and the Magic Kingdom (2026): Fantasy/Family film. Story: The Snegirev family is preparing to celebrate the New… See cast.",
+   "img": "https://image.tmdb.org/t/p/w780/24FUmJKSTFJyqacHckTU1MpCxff.jpg",
+   "industry": "world",
+   "k": "The Kolotun and the Magic Kingdom, The Kolotun and the Magic Kingdom movie, The Kolotun and the Magic Kingdom cast, The Kolotun and the Magic Kingdom story, The Kolotun and the Magic Kingdom box office collection, The Kolotun and the Magic Kingdom budget, The Kolotun and the Magic Kingdom review, The Kolotun and the Magic Kingdom rating, The Kolotun and the Magic Kingdom release date, The Kolotun and the Magic Kingdom Fantasy, The Kolotun and the Magic Kingdom Family, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Aleksandr Gorbatov"
+     },
+     {
+      "@type": "Person",
+      "name": "Ivan Kolesnikov"
+     },
+     {
+      "@type": "Person",
+      "name": "Agata Mutsenietse"
+     },
+     {
+      "@type": "Person",
+      "name": "Dmitrii Kalikhov"
+     },
+     {
+      "@type": "Person",
+      "name": "Artur Vakha"
+     }
+    ],
+    "description": "The Kolotun and the Magic Kingdom (2026): Fantasy/Family film. Story: The Snegirev family is preparing to celebrate the New… See cast.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Oleg Gusev"
+     }
+    ],
+    "genre": [
+     "Fantasy",
+     "Family"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/24FUmJKSTFJyqacHckTU1MpCxff.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1269278",
+    "name": "The Kolotun and the Magic Kingdom",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-11-19"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1269278"
+   },
+   "modified": "",
+   "published": "2026-11-20",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>The Kolotun and the Magic Kingdom (2026)</h1>\n<p class=\"ssr-lead\">The Snegirev family is preparing to celebrate the New Year together for the last time, after which Anfisa and Igor will tell their son Roma about the divorce.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 19 November 2026</li><li>Director: Oleg Gusev</li><li>Genres: Fantasy, Family, Adventure</li><li>Certification: 6+</li><li>Original language: RU</li><li>Spoken languages: RU</li><li>Production countries: Russia</li></ul>\n<h2>Top cast</h2>\n<ul><li>Aleksandr Gorbatov as Kolotun</li><li>Ivan Kolesnikov as Igor</li><li>Agata Mutsenietse as Anfisa</li><li>Dmitrii Kalikhov as Romka Snegirev</li><li>Artur Vakha as Polarius</li><li>Pavel Derevyanko as Adrian</li><li>Roman Madyanov as Pervyy</li><li>Lukerya Ilyashenko as Jadwiga</li><li>Sergey Sotserdotskiy as Vtoroy</li><li>Alexandra Babaskina as Emiliya</li></ul>\n</article>",
+   "t": "The Kolotun and the Magic Kingdom (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
+  },
   "movie:1365378": {
    "d": "The American Dream (2026): Comedy film. Story: No one would have bet on Jérémy, stuck behind the… See cast and TMDB rating 7.4/10.",
    "img": "https://image.tmdb.org/t/p/w780/bQPWY2u154jJ5koDp9KcM67Wioi.jpg",
@@ -509,6 +629,83 @@
    "published": "2026-11-14",
    "ssr": "<article class=\"ssr-facts\">\n<h1>The American Dream (2026)</h1>\n<p class=\"ssr-lead\">No one would have bet on Jérémy, stuck behind the counter of a video store, or on Bouna, who cleans airports. With no money, no connections, and painfully poor English, who could have predicted they’d one day become big-name agents in the NBA? What they lack in experience, they will make up for in audacity, while remaining true to their one credo, doing business with a human touch. Scouting raw talent while improvising their way up, they’ll fake it until they make it – chasing their American Dream and landing multi-million-dollar deals.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 18 February 2026</li><li>Runtime: 122 minutes</li><li>Director: Anthony Marciano</li><li>Genres: Comedy</li><li>Certification: 6</li><li>Original language: French</li><li>Spoken languages: French</li><li>Production countries: France, Canada</li><li>TMDB rating: 7.4/10 (165 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Jean-Pascal Zadi as Bouna Ndiaye</li><li>Raphaël Quenard as Jérémy Medjana</li><li>Gregory Defleur</li><li>David Clark as L&#x27;Organisateur</li><li>Josh Casaubon as Sean Barnes</li><li>Etienne Guillou-Kervern as Gilles Ménez</li><li>Gabriel Caballero as Florian</li><li>Momar Sakanoko as Sacha</li><li>Magalie Langrais as Fille De Layden</li><li>Olivier Lamarche as Gary</li></ul>\n</article>",
    "t": "The American Dream (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
+  },
+  "movie:1381078": {
+   "d": "Love of Your Life (2026): Romance/Drama film. Story: After a chance encounter sparks a sweeping romance… See cast, review 7/10, and TMDB rating 6.8/10.",
+   "img": "https://image.tmdb.org/t/p/w780/4hneB0UFKOZAGJHqJ3VhDcG72uH.jpg",
+   "industry": "world",
+   "k": "Love of Your Life, Love of Your Life movie, Love of Your Life cast, Love of Your Life story, Love of Your Life box office collection, Love of Your Life budget, Love of Your Life review, Love of Your Life rating, Love of Your Life release date, Love of Your Life trailer, Love of Your Life Romance, Love of Your Life Drama, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Margaret Qualley"
+     },
+     {
+      "@type": "Person",
+      "name": "Gabriel Basso"
+     },
+     {
+      "@type": "Person",
+      "name": "Aaron Pierre"
+     },
+     {
+      "@type": "Person",
+      "name": "Patrick Schwarzenegger"
+     },
+     {
+      "@type": "Person",
+      "name": "Catherine Keener"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 183,
+     "ratingValue": 6.8,
+     "worstRating": 0
+    },
+    "description": "Love of Your Life (2026): Romance/Drama film. Story: After a chance encounter sparks a sweeping romance… See cast, review 7/10, and TMDB rating 6.8/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Rachel Morrison"
+     }
+    ],
+    "duration": "PT109M",
+    "genre": [
+     "Romance",
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/4hneB0UFKOZAGJHqJ3VhDcG72uH.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1381078",
+    "name": "Love of Your Life",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-10-07"
+    },
+    "review": {
+     "@type": "Review",
+     "author": {
+      "@type": "Organization",
+      "name": "FlickAtlas"
+     },
+     "reviewBody": "Love of Your Life is a tender, melancholic romantic drama that serves as a comforting watch for a heart needing a hug. While it hits a slow patch in its second half and may not leave a lasting emotional impact for everyone, the strong performances and genuine emotional core make it worth your time. Recommended for fans of mature romantic dramas looking for a comforting cinematic experience.",
+     "reviewRating": {
+      "@type": "Rating",
+      "bestRating": 10,
+      "ratingValue": 7.0
+     }
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1381078"
+   },
+   "modified": "",
+   "published": "2026-10-31",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Love of Your Life (2026)</h1>\n<p class=\"ssr-lead\">After a chance encounter sparks a sweeping romance, Maya&#x27;s future is suddenly upended, sending her on an unexpected journey to love and live again.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 7 October 2026</li><li>Runtime: 109 minutes</li><li>Director: Rachel Morrison</li><li>Genres: Romance, Drama</li><li>Certification: R</li><li>Original language: English</li><li>Spoken languages: English, PT, Spanish, French</li><li>Production countries: United States</li><li>Official trailer: Official Trailer</li><li>TMDB rating: 6.8/10 (183 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Margaret Qualley as Maya</li><li>Gabriel Basso as Charlie</li><li>Aaron Pierre as Felix</li><li>Patrick Schwarzenegger as Jason</li><li>Catherine Keener as Ruth</li><li>Tamara Lawrance as Kali</li><li>Corey Johnson as Kerry</li><li>Michael Shelford as Colin</li><li>Adam Woodward as Matt</li><li>Gayané Kaligian as Armenian Family Member</li></ul>\n<h2>FlickAtlas review</h2>\n<p>Overall: 7/10.</p>\n<ul><li>Action &amp; Cinematography: 6/10</li><li>Comedy &amp; Entertainment: 6/10</li><li>Direction: 7/10</li><li>Music &amp; BGM: 7/10</li><li>Performances: 8/10</li><li>Story &amp; Screenplay: 6.5/10</li></ul>\n<h3>Story &amp; Plot</h3>\n<p>After a chance encounter sparks a sweeping romance, Maya&#x27;s future is suddenly upended, sending her on an unexpected journey to love and live again. Directed by Rachel Morrison, the romantic drama explores a story of love, loss, and the difficult business of healing, acknowledging that grief never truly leaves us. The film features a tender and emotionally mature portrait of forgiveness and learning to live with loss.</p>\n<h3>Comedy &amp; Entertainment</h3>\n<p>As a romantic drama centered around healing from loss and grief, the film leans much more into emotional melancholy than traditional humor. It functions primarily as a comforting, attractive watch for the average viewer looking for a dramatic romance. Rather than relying on witty jokes or comedic setups, its entertainment value comes from the emotional journey of its characters and the realness of its story.</p>\n<h3>Performances &amp; Direction</h3>\n<p>The film features a talented cast including Margaret Qualley, Gabriel Basso, Aaron Pierre, Patrick Schwarzenegger, and Catherine Keener. Margaret Qualley delivers an excellent performance, offering comfort to those learning to live with loss. Reviewers note that the casting is generally considered perfect and the performances are good throughout.</p>\n<h3>Strengths</h3>\n<ul><li>excellent lead performance by Margaret Qualley</li><li>tender and emotionally mature portrait of grief</li><li>attractive and cozy visual style</li><li>keeps viewers emotionally connected</li><li>real-feeling story</li></ul>\n<h3>Weaknesses</h3>\n<p>Despite a surprisingly amazing first half, the film eventually slows down and leaves its promise only half-fulfilled. For the average viewer, it is ultimately a serviceable romantic drama that is more likely to occupy two hours of your time than leave much of a lasting emotional impact.</p>\n<h3>Final verdict</h3>\n<p>Love of Your Life is a tender, melancholic romantic drama that serves as a comforting watch for a heart needing a hug. While it hits a slow patch in its second half and may not leave a lasting emotional impact for everyone, the strong performances and genuine emotional core make it worth your time. Recommended for fans of mature romantic dramas looking for a comforting cinematic experience.</p>\n<h2>Where to watch</h2>\n<ul><li>Streaming on Amazon Prime Video (IN)</li><li>Streaming on Amazon Prime Video with Ads (IN)</li></ul>\n</article>",
+   "t": "Love of Your Life (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2026"
   },
   "movie:1401778": {
@@ -702,6 +899,63 @@
    "t": "Speed Demon (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2026"
   },
+  "movie:1578978": {
+   "d": "Jonna: Crónicas de una policía novata (2026): Drama/Crime film. See cast and release date 29 October 2026.",
+   "img": "https://image.tmdb.org/t/p/w780/1J3kKDY5OhmC5mlpVx07KlfhQcz.jpg",
+   "industry": "world",
+   "k": "Jonna: Crónicas de una policía novata, Jonna: Crónicas de una policía novata movie, Jonna: Crónicas de una policía novata cast, Jonna: Crónicas de una policía novata story, Jonna: Crónicas de una policía novata box office collection, Jonna: Crónicas de una policía novata budget, Jonna: Crónicas de una policía novata review, Jonna: Crónicas de una policía novata rating, Jonna: Crónicas de una policía novata release date, Jonna: Crónicas de una policía novata Drama, Jonna: Crónicas de una policía novata Crime, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Isaura Espinoza"
+     },
+     {
+      "@type": "Person",
+      "name": "Perla Caballero"
+     },
+     {
+      "@type": "Person",
+      "name": "Angel Altamira"
+     },
+     {
+      "@type": "Person",
+      "name": "Nowi Sierra"
+     },
+     {
+      "@type": "Person",
+      "name": "Lilian Nuñez"
+     }
+    ],
+    "description": "Jonna: Crónicas de una policía novata (2026): Drama/Crime film. See cast and release date 29 October 2026.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Gérard A. Reséndiz"
+     }
+    ],
+    "genre": [
+     "Drama",
+     "Crime"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/1J3kKDY5OhmC5mlpVx07KlfhQcz.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1578978",
+    "name": "Jonna: Crónicas de una policía novata",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-10-29"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1578978"
+   },
+   "modified": "",
+   "published": "2026-11-03",
+   "robots": "noindex,follow",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Jonna: Crónicas de una policía novata (2026)</h1>\n<h2>Key facts</h2>\n<ul><li>Release date: 29 October 2026</li><li>Director: Gérard A. Reséndiz</li><li>Genres: Drama, Crime, Thriller</li><li>Certification: C</li><li>Original language: Spanish</li><li>Spoken languages: Spanish</li><li>Production countries: MX</li></ul>\n<h2>Top cast</h2>\n<ul><li>Isaura Espinoza as Comandante Alemán</li><li>Perla Caballero as Jonna Mozzarelli</li><li>Angel Altamira as Salazar</li><li>Nowi Sierra as Kinski</li><li>Lilian Nuñez</li><li>Eduardo Arroyuelo as Raúl Olmedo</li><li>Roberto Mozz</li><li>Gabriel Esparza</li></ul>\n</article>",
+   "t": "Jonna: Crónicas de una policía novata (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
+  },
   "movie:1599078": {
    "d": "Marcello Hernández: American Boy (2026): Comedy film. Story: Filmed in Miami, Hernández's special features his… See cast and TMDB rating 7.0/10.",
    "img": "https://image.tmdb.org/t/p/w780/b2qSURjTrHTJRKYEJ0gIKOACZdC.jpg",
@@ -810,6 +1064,408 @@
    "published": "2026-11-14",
    "ssr": "<article class=\"ssr-facts\">\n<h1>Chum (2026)</h1>\n<p class=\"ssr-lead\">A newlywed couple joins friends on a Mediterranean yacht excursion, only to find themselves caught between a predatory shark and a psychopathic killer in their midst-transforming a sun-drenched escape into a fight for survival.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 27 May 2026</li><li>Runtime: 87 minutes</li><li>Director: Jonathan Zuck</li><li>Genres: Horror</li><li>Tagline: There&#x27;s no hiding in the sea.</li><li>Certification: NR</li><li>Original language: English</li><li>Spoken languages: English</li><li>Production countries: United States, MT</li><li>Official trailer: Official Trailer</li><li>TMDB rating: 4.9/10 (49 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Alice Eve as Tina</li><li>Eric Michael Cole as Tom</li><li>Jim Klock as Roy</li><li>Elle Haymond as Sadie</li><li>Sarah Siadat as Rachinda</li><li>Johnny Gaffney as Rick</li><li>Lisa Yaro as Britney</li><li>Vince Jolivette as Captain Mackey</li><li>Robert Grose as Captain Daniels</li><li>Peppijna Dalli as Coast Guard Officer</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Lionsgate Play Apple TV Channel, Lionsgate Play Amazon Channel</li></ul>\n</article>",
    "t": "Chum (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
+  },
+  "movie:1773378": {
+   "d": "Who's Coming for Christmas? (2026): Romance/Comedy film. Story: After relocating to a new town, Julie uses pieces… See cast and review 7/10.",
+   "img": "https://image.tmdb.org/t/p/w780/xIVI0XJeuYLZCBvTT1lEvfjomI1.jpg",
+   "industry": "world",
+   "k": "Who's Coming for Christmas?, Who's Coming for Christmas? movie, Who's Coming for Christmas? cast, Who's Coming for Christmas? story, Who's Coming for Christmas? box office collection, Who's Coming for Christmas? budget, Who's Coming for Christmas? review, Who's Coming for Christmas? rating, Who's Coming for Christmas? release date, Who's Coming for Christmas? Romance, Who's Coming for Christmas? Comedy, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Rhiannon Fish"
+     },
+     {
+      "@type": "Person",
+      "name": "Jake Foy"
+     },
+     {
+      "@type": "Person",
+      "name": "Mila Morgan"
+     },
+     {
+      "@type": "Person",
+      "name": "Tammy Gillis"
+     },
+     {
+      "@type": "Person",
+      "name": "Trezzo Mahoro"
+     }
+    ],
+    "description": "Who's Coming for Christmas? (2026): Romance/Comedy film. Story: After relocating to a new town, Julie uses pieces… See cast and review 7/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "David I. Strasser"
+     }
+    ],
+    "duration": "PT84M",
+    "genre": [
+     "Romance",
+     "Comedy"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/xIVI0XJeuYLZCBvTT1lEvfjomI1.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1773378",
+    "name": "Who's Coming for Christmas?",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-10-30"
+    },
+    "review": {
+     "@type": "Review",
+     "author": {
+      "@type": "Organization",
+      "name": "FlickAtlas"
+     },
+     "reviewBody": "Who's Coming for Christmas? is a warm, feel-good TV movie that delivers a simple and happy escape for an hour and a half. While it follows a predictable path, its wholesome nature and nice performances make it a recommended watch for fans of festive holiday romances.",
+     "reviewRating": {
+      "@type": "Rating",
+      "bestRating": 10,
+      "ratingValue": 7.0
+     }
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1773378"
+   },
+   "modified": "",
+   "published": "2026-11-02",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Who&#x27;s Coming for Christmas? (2026)</h1>\n<p class=\"ssr-lead\">After relocating to a new town, Julie uses pieces inherited from her late grandmother to create a beautiful Christmas Eve dinner table for eight, trusting that the right guests will find their way to it. As she befriends her neighbor Mark and his young daughter, her holiday plans seem complete, until bad weather keeps them away. With only three seats filled, Julie must rely on a series of small Christmas miracles to bring her dream holiday table to life.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 30 October 2026</li><li>Runtime: 84 minutes</li><li>Director: David I. Strasser</li><li>Genres: Romance, Comedy, TV Movie</li><li>Original language: English</li><li>Spoken languages: English</li><li>Production countries: Canada, United States</li></ul>\n<h2>Top cast</h2>\n<ul><li>Rhiannon Fish as Julie Wilson</li><li>Jake Foy as Mark Evans</li><li>Mila Morgan as Vanessa</li><li>Tammy Gillis as Ali</li><li>Trezzo Mahoro as Dennis</li><li>Tom Pickett as Jim</li><li>Hannah Pederson as Courtney</li><li>Raine Mateo as Daniela</li><li>Jason Fernandes as Trevor</li><li>Lynda Boyd as Mrs. Wilson</li></ul>\n<h2>FlickAtlas review</h2>\n<p>Overall: 7/10.</p>\n<ul><li>Action &amp; Cinematography: 6.5/10</li><li>Comedy &amp; Entertainment: 6.5/10</li><li>Direction: 7/10</li><li>Music &amp; BGM: 7/10</li><li>Performances: 7/10</li><li>Story &amp; Screenplay: 7.5/10</li></ul>\n<h3>Story &amp; Plot</h3>\n<p>After relocating to a new town, Julie uses her late grandmother&#x27;s inherited pieces to set a Christmas Eve dinner table for eight, hoping the right guests will find it. She befriends her neighbor Mark and his young daughter, but bad weather threatens her holiday plans when only three seats are filled. Relying on small Christmas miracles, Julie works to bring her dream holiday table to life in this heartwarming, feel-good story.</p>\n<h3>Comedy &amp; Entertainment</h3>\n<p>The film delivers a light, simple, and happy atmosphere for an hour and a half of viewing. Reviewers note that it is an all-round happy Christmas movie with a really nice story that feels neither corny nor far-fetched. The lighthearted tone makes for a pleasant and relaxing holiday watch.</p>\n<h3>Performances &amp; Direction</h3>\n<p>The cast features Rhiannon Fish as Julie, along with Jake Foy, Mila Morgan, Tammy Gillis, and Trezzo Mahoro. Reviewers noted that the actor choices were nice and that the warm, friendly nature of the main character helps her quickly become part of the community.</p>\n<h3>Strengths</h3>\n<ul><li>Wholesome and happy holiday atmosphere</li><li>Not corny or far-fetched</li><li>Charming cast including Rhiannon Fish and Jake Foy</li><li>Heartwarming themes of love and friendship</li></ul>\n<h3>Weaknesses</h3>\n<p>Some viewers found the main character could get on their nerves, and the narrative relies on predictable, repetitive Hallmark-style plot tropes. These familiar elements mean the film does not offer many surprises for seasoned viewers of holiday TV movies.</p>\n<h3>Final verdict</h3>\n<p>Who&#x27;s Coming for Christmas? is a warm, feel-good TV movie that delivers a simple and happy escape for an hour and a half. While it follows a predictable path, its wholesome nature and nice performances make it a recommended watch for fans of festive holiday romances.</p>\n<h2>Where to watch</h2>\n<ul><li>Streaming on fuboTV (US)</li><li>Streaming on Philo (US)</li><li>Streaming on Hallmark+ Amazon Channel (US)</li><li>Streaming on Hallmark+ Apple TV channel (US)</li><li>Streaming on Hallmark TV Amazon Channel (US)</li></ul>\n</article>",
+   "t": "Who's Coming for Christmas? (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
+  },
+  "movie:1806778": {
+   "d": "The Boot Room (2026): Drama film. Story: A junior footballer navigates the brutal hierarchy of… See cast and release date 15 November 2026.",
+   "img": "https://image.tmdb.org/t/p/w500/zE5IlcBSl7GQDA53I5aqwuHC6b0.jpg",
+   "industry": "world",
+   "k": "The Boot Room, The Boot Room movie, The Boot Room cast, The Boot Room story, The Boot Room box office collection, The Boot Room budget, The Boot Room review, The Boot Room rating, The Boot Room release date, The Boot Room Drama, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Noah Valentine"
+     },
+     {
+      "@type": "Person",
+      "name": "Wilson Mbomio"
+     },
+     {
+      "@type": "Person",
+      "name": "Matt Kennard"
+     },
+     {
+      "@type": "Person",
+      "name": "Daniel de Bourg"
+     },
+     {
+      "@type": "Person",
+      "name": "Akai Coleman"
+     }
+    ],
+    "description": "The Boot Room (2026): Drama film. Story: A junior footballer navigates the brutal hierarchy of… See cast and release date 15 November 2026.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Atul Malhotra"
+     }
+    ],
+    "duration": "PT15M",
+    "genre": [
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w500/zE5IlcBSl7GQDA53I5aqwuHC6b0.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1806778",
+    "name": "The Boot Room",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-11-15"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1806778"
+   },
+   "modified": "",
+   "published": "2026-11-08",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>The Boot Room (2026)</h1>\n<p class=\"ssr-lead\">A junior footballer navigates the brutal hierarchy of a 1988 professional football club steeped in a culture of systemic bullying . His growing unease culminates in a hesitant act of defiance sparking a brutal backlash, turning the violence directly onto him.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 15 November 2026</li><li>Runtime: 15 minutes</li><li>Director: Atul Malhotra</li><li>Genres: Drama</li><li>Original language: English</li><li>Spoken languages: English</li><li>Production countries: United Kingdom</li></ul>\n<h2>Top cast</h2>\n<ul><li>Noah Valentine as Jamo</li><li>Wilson Mbomio as Michael Young</li><li>Matt Kennard as Trevor Cain</li><li>Daniel de Bourg as Mickey</li><li>Akai Coleman as Karl</li></ul>\n</article>",
+   "t": "The Boot Room (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
+  },
+  "movie:1811878": {
+   "d": "Tiempo Prestado (2026): Documentary film. Story: What if life gave you a second chance? The sea might… See cast and release date 15 November 2026.",
+   "img": "https://image.tmdb.org/t/p/w500/mzfv165J607cFfYR1B87OAYDFYS.jpg",
+   "industry": "world",
+   "k": "Tiempo Prestado, Tiempo Prestado movie, Tiempo Prestado cast, Tiempo Prestado story, Tiempo Prestado box office collection, Tiempo Prestado budget, Tiempo Prestado review, Tiempo Prestado rating, Tiempo Prestado release date, Tiempo Prestado Documentary, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "José Antonio Hernández"
+     }
+    ],
+    "description": "Tiempo Prestado (2026): Documentary film. Story: What if life gave you a second chance? The sea might… See cast and release date 15 November 2026.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Paco Ortiz"
+     }
+    ],
+    "duration": "PT6M",
+    "genre": [
+     "Documentary"
+    ],
+    "image": "https://image.tmdb.org/t/p/w500/mzfv165J607cFfYR1B87OAYDFYS.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1811878",
+    "name": "Tiempo Prestado",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-11-15"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1811878"
+   },
+   "modified": "",
+   "published": "2026-11-08",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Tiempo Prestado (2026)</h1>\n<p class=\"ssr-lead\">What if life gave you a second chance? The sea might grant you a second life, but it doesn’t teach you what to do with it. After surviving a shipwreck in the middle of the Atlantic as a young sailor, a man carries an impossible question for decades: what should he do with the time he was never meant to have? Through memories, silences, and a relationship shaped by the sea, *Borrowed Time* is an intimate reflection on the fragility of existence, the weight of memory, and the human need to find meaning in second chances.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 15 November 2026</li><li>Runtime: 6 minutes</li><li>Director: Paco Ortiz</li><li>Genres: Documentary</li><li>Original language: Spanish</li></ul>\n<h2>Top cast</h2>\n<ul><li>José Antonio Hernández as Self</li></ul>\n</article>",
+   "t": "Tiempo Prestado (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
+  },
+  "movie:1812178": {
+   "d": "The Spirit of Zorro (2026) is a film. Story: Cutting back and forth between a dinner and fight to… See cast and release date 21 November 2026.",
+   "img": "https://image.tmdb.org/t/p/w500/1KJorbpSG3mrmQA3IDnKEKZyKRs.jpg",
+   "industry": "world",
+   "k": "The Spirit of Zorro, The Spirit of Zorro movie, The Spirit of Zorro cast, The Spirit of Zorro story, The Spirit of Zorro box office collection, The Spirit of Zorro budget, The Spirit of Zorro review, The Spirit of Zorro rating, The Spirit of Zorro release date, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "David Zuckerman"
+     },
+     {
+      "@type": "Person",
+      "name": "Nathan Bexton"
+     },
+     {
+      "@type": "Person",
+      "name": "Liberty Cordova"
+     },
+     {
+      "@type": "Person",
+      "name": "Ellie Santiago"
+     },
+     {
+      "@type": "Person",
+      "name": "Rob Wight"
+     }
+    ],
+    "description": "The Spirit of Zorro (2026) is a film. Story: Cutting back and forth between a dinner and fight to… See cast and release date 21 November 2026.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "David Zuckerman"
+     }
+    ],
+    "duration": "PT11M",
+    "image": "https://image.tmdb.org/t/p/w500/1KJorbpSG3mrmQA3IDnKEKZyKRs.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1812178",
+    "name": "The Spirit of Zorro",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-11-21"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1812178"
+   },
+   "modified": "",
+   "published": "2026-11-14",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>The Spirit of Zorro (2026)</h1>\n<p class=\"ssr-lead\">Cutting back and forth between a dinner and fight to save a prisoner, Don Diego De La Vega battles two worlds, as an aristocrat and the vigilante known as “El Zorro.”</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 21 November 2026</li><li>Runtime: 11 minutes</li><li>Director: David Zuckerman</li><li>Original language: English</li></ul>\n<h2>Top cast</h2>\n<ul><li>David Zuckerman as Don Diego De La Vega/Zorro</li><li>Nathan Bexton as Don Raphael Hernandez</li><li>Liberty Cordova as Doña Maria Hernandez</li><li>Ellie Santiago as Ta&#x27;amit</li><li>Rob Wight as Peter Erickson</li><li>Mike Whittier as John Talbot</li><li>Benjamin Goodwin as Aaron Jackson</li><li>Derek Thomas May as Juan Balbuena</li><li>James Martinez as Bernardo</li></ul>\n</article>",
+   "t": "The Spirit of Zorro (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
+  },
+  "movie:1814378": {
+   "d": "There Goes My Childhood: The Seven Awesome Kids Story (2026): Documentary film. Story: A former YouTube child creator revisits her time on… See cast.",
+   "img": "https://image.tmdb.org/t/p/w780/6RaqL2LmSVRzFuNgtSlF0Q8JlsM.jpg",
+   "industry": "world",
+   "k": "There Goes My Childhood: The Seven Awesome Kids Story, There Goes My Childhood: The Seven Awesome Kids Story movie, There Goes My Childhood: The Seven Awesome Kids Story cast, There Goes My Childhood: The Seven Awesome Kids Story story, There Goes My Childhood: The Seven Awesome Kids Story box office collection, There Goes My Childhood: The Seven Awesome Kids Story budget, There Goes My Childhood: The Seven Awesome Kids Story review, There Goes My Childhood: The Seven Awesome Kids Story rating, There Goes My Childhood: The Seven Awesome Kids Story release date, There Goes My Childhood: The Seven Awesome Kids Story Documentary, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Lauren White"
+     },
+     {
+      "@type": "Person",
+      "name": "Ashlynn Jones"
+     },
+     {
+      "@type": "Person",
+      "name": "Brianna Motte"
+     },
+     {
+      "@type": "Person",
+      "name": "Nicole Javier"
+     },
+     {
+      "@type": "Person",
+      "name": "Ellie Louise"
+     }
+    ],
+    "description": "There Goes My Childhood: The Seven Awesome Kids Story (2026): Documentary film. Story: A former YouTube child creator revisits her time on… See cast.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Maureen Marovitch"
+     }
+    ],
+    "genre": [
+     "Documentary"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/6RaqL2LmSVRzFuNgtSlF0Q8JlsM.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1814378",
+    "name": "There Goes My Childhood: The Seven Awesome Kids Story",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-11-25"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1814378"
+   },
+   "modified": "",
+   "published": "2026-11-18",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>There Goes My Childhood: The Seven Awesome Kids Story (2026)</h1>\n<p class=\"ssr-lead\">A former YouTube child creator revisits her time on the wildly popular Seven Awesome Kids network to reveal the rise and fall of the online community that brought its members fame - and its owner infamy.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 25 November 2026</li><li>Director: Maureen Marovitch</li><li>Genres: Documentary</li><li>Original language: English</li><li>Spoken languages: English</li><li>Production countries: Canada</li><li>Status: Post Production</li></ul>\n<h2>Top cast</h2>\n<ul><li>Lauren White as Self - On-Camera Lead</li><li>Ashlynn Jones as Self</li><li>Brianna Motte as Self</li><li>Nicole Javier as Self</li><li>Ellie Louise as Self</li><li>Emily Jade as Self</li><li>Holly Westlake as Self</li><li>Hope Sarah-Marie as Self</li><li>Jasmine Anne as Self</li><li>Jenna Arend as Self</li></ul>\n</article>",
+   "t": "There Goes My Childhood: The Seven Awesome Kids Story (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
+  },
+  "movie:1816178": {
+   "d": "Where the Air Tastes Like the Sea (2026): Documentary film. Story: After a long winter of competitions, expeditions and… See cast.",
+   "img": "https://image.tmdb.org/t/p/w500/g1v2t3gyGtgAgKs8AIXxN8eEetw.jpg",
+   "industry": "world",
+   "k": "Where the Air Tastes Like the Sea, Where the Air Tastes Like the Sea movie, Where the Air Tastes Like the Sea cast, Where the Air Tastes Like the Sea story, Where the Air Tastes Like the Sea box office collection, Where the Air Tastes Like the Sea budget, Where the Air Tastes Like the Sea review, Where the Air Tastes Like the Sea rating, Where the Air Tastes Like the Sea release date, Where the Air Tastes Like the Sea Documentary, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Coline Ballet-Baz"
+     },
+     {
+      "@type": "Person",
+      "name": "Maude Besse"
+     },
+     {
+      "@type": "Person",
+      "name": "Noemie Equy"
+     },
+     {
+      "@type": "Person",
+      "name": "Silvia Moser"
+     }
+    ],
+    "description": "Where the Air Tastes Like the Sea (2026): Documentary film. Story: After a long winter of competitions, expeditions and… See cast.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Alicia Cenci"
+     }
+    ],
+    "duration": "PT17M",
+    "genre": [
+     "Documentary"
+    ],
+    "image": "https://image.tmdb.org/t/p/w500/g1v2t3gyGtgAgKs8AIXxN8eEetw.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1816178",
+    "name": "Where the Air Tastes Like the Sea",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-11-18"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1816178"
+   },
+   "modified": "",
+   "published": "2026-11-11",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Where the Air Tastes Like the Sea (2026)</h1>\n<p class=\"ssr-lead\">After a long winter of competitions, expeditions and personal setbacks, four Arc&#x27;teryx athletes trade fixed plans for fifteen days aboard a small sailboat in Northern Norway. Chasing ski lines through unpredictable weather, they soon realize the trip has little to do with perfect conditions. Living shoulder to shoulder and moving at the pace of the wind, they rediscover the joy of slowing down, embracing uncertainty, and finding freedom in the simplest moments.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 18 November 2026</li><li>Runtime: 17 minutes</li><li>Director: Alicia Cenci</li><li>Genres: Documentary</li><li>Original language: English</li></ul>\n<h2>Top cast</h2>\n<ul><li>Coline Ballet-Baz as Self</li><li>Maude Besse as Self</li><li>Noemie Equy as Self</li><li>Silvia Moser as Self</li></ul>\n</article>",
+   "t": "Where the Air Tastes Like the Sea (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
+  },
+  "movie:1820578": {
+   "d": "Antisémitisme, une haine toujours en mouvements (2026): Documentary/History film. See cast and release date 15 November 2026.",
+   "img": "https://image.tmdb.org/t/p/w780/bWcozN4brHhMx8PxqcpRqcHbxqs.jpg",
+   "industry": "world",
+   "k": "Antisémitisme, une haine toujours en mouvements, Antisémitisme, une haine toujours en mouvements movie, Antisémitisme, une haine toujours en mouvements cast, Antisémitisme, une haine toujours en mouvements story, Antisémitisme, une haine toujours en mouvements box office collection, Antisémitisme, une haine toujours en mouvements budget, Antisémitisme, une haine toujours en mouvements review, Antisémitisme, une haine toujours en mouvements rating, Antisémitisme, une haine toujours en mouvements release date, Antisémitisme, une haine toujours en mouvements Documentary, Antisémitisme, une haine toujours en mouvements History, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "description": "Antisémitisme, une haine toujours en mouvements (2026): Documentary/History film. See cast and release date 15 November 2026.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Gabriel Le Bomin"
+     }
+    ],
+    "genre": [
+     "Documentary",
+     "History"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/bWcozN4brHhMx8PxqcpRqcHbxqs.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1820578",
+    "name": "Antisémitisme, une haine toujours en mouvements",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-11-15"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1820578"
+   },
+   "modified": "",
+   "published": "2026-11-08",
+   "robots": "noindex,follow",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Antisémitisme, une haine toujours en mouvements (2026)</h1>\n<h2>Key facts</h2>\n<ul><li>Release date: 15 November 2026</li><li>Director: Gabriel Le Bomin</li><li>Genres: Documentary, History</li><li>Certification: TP</li><li>Original language: French</li><li>Spoken languages: French, HE, AR, English</li><li>Production countries: France</li></ul>\n</article>",
+   "t": "Antisémitisme, une haine toujours en mouvements (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
+  },
+  "movie:1821378": {
+   "d": "Gregor Samsa No Século XXI (2026): Drama/Animation film. See cast and release date 18 November 2026.",
+   "img": "https://image.tmdb.org/t/p/w780/oAsow0uCJfhdnDDVmHtb46aU1Ya.jpg",
+   "industry": "world",
+   "k": "Gregor Samsa No Século XXI, Gregor Samsa No Século XXI movie, Gregor Samsa No Século XXI cast, Gregor Samsa No Século XXI story, Gregor Samsa No Século XXI box office collection, Gregor Samsa No Século XXI budget, Gregor Samsa No Século XXI review, Gregor Samsa No Século XXI rating, Gregor Samsa No Século XXI release date, Gregor Samsa No Século XXI Drama, Gregor Samsa No Século XXI Animation, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "F. Oliveira"
+     }
+    ],
+    "description": "Gregor Samsa No Século XXI (2026): Drama/Animation film. See cast and release date 18 November 2026.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "F. Oliveira"
+     }
+    ],
+    "genre": [
+     "Drama",
+     "Animation"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/oAsow0uCJfhdnDDVmHtb46aU1Ya.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1821378",
+    "name": "Gregor Samsa No Século XXI",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-11-18"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1821378"
+   },
+   "modified": "",
+   "published": "2026-11-11",
+   "robots": "noindex,follow",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Gregor Samsa No Século XXI (2026)</h1>\n<h2>Key facts</h2>\n<ul><li>Release date: 18 November 2026</li><li>Director: F. Oliveira</li><li>Genres: Drama, Animation</li><li>Certification: 10</li><li>Original language: PT</li><li>Spoken languages: PT</li><li>Production countries: Brazil</li></ul>\n<h2>Top cast</h2>\n<ul><li>F. Oliveira as Narrador</li></ul>\n</article>",
+   "t": "Gregor Samsa No Século XXI (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2026"
   },
   "movie:19178": {
@@ -3059,6 +3715,57 @@
    "t": "Flunked (2026) — Seasons, Episodes, Cast & Story | FlickAtlas",
    "year": "2026"
   },
+  "tv:295778": {
+   "d": "Scrubs (2026) is a Comedy TV series. Explore its story: J.D. & Turk scrub in together for the first time in a…, cast, 2 seasons, and 20 episodes.",
+   "img": "https://image.tmdb.org/t/p/w780/qkxgja3V0eSjQYX8oLKidRVJ2Md.jpg",
+   "industry": "world",
+   "k": "Scrubs, Scrubs TV series, Scrubs cast, Scrubs story, Scrubs seasons, Scrubs episodes, Scrubs season 2, Scrubs 20 episodes, Scrubs first air date, Scrubs trailer, Scrubs Comedy, World Cinema TV series, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "TVSeries",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Zach Braff"
+     },
+     {
+      "@type": "Person",
+      "name": "Donald Faison"
+     },
+     {
+      "@type": "Person",
+      "name": "Sarah Chalke"
+     },
+     {
+      "@type": "Person",
+      "name": "Ava Bunn"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 134,
+     "ratingValue": 7.7,
+     "worstRating": 0
+    },
+    "description": "Scrubs (2026) is a Comedy TV series. Explore its story: J.D. & Turk scrub in together for the first time in a…, cast, 2 seasons, and 20 episodes.",
+    "genre": [
+     "Comedy"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/qkxgja3V0eSjQYX8oLKidRVJ2Md.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/show?id=295778",
+    "name": "Scrubs",
+    "numberOfEpisodes": 20,
+    "numberOfSeasons": 2,
+    "startDate": "2026-02-25",
+    "url": "https://flickatlas.co.uk/show?id=295778"
+   },
+   "modified": "",
+   "published": "2026-11-19",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Scrubs (2026)</h1>\n<p class=\"ssr-lead\">J.D. &amp; Turk scrub in together for the first time in a long time–medicine has changed, interns have changed, but their bromance has stood the test of time. Characters new and old navigate the waters of Sacred Heart with laughter, heart and some surprises along the way.</p>\n<h2>Key facts</h2>\n<ul><li>First air date: 25 February 2026</li><li>Seasons: 2 · Episodes: 20</li><li>Created by: Bill Lawrence</li><li>Genres: Comedy</li><li>Tagline: Co-operation.</li><li>Certification: TV-14</li><li>Original language: English</li><li>Spoken languages: English, Spanish</li><li>Production countries: United States</li><li>Network: ABC</li><li>Official trailer: Scrubs | Official Trailer</li><li>TMDB rating: 7.7/10 (134 votes)</li><li>Status: Returning Series</li></ul>\n<h2>Top cast</h2>\n<ul><li>Zach Braff as John &#x27;J.D.&#x27; Dorian</li><li>Donald Faison as Christopher Turk</li><li>Sarah Chalke as Elliot Reid</li><li>Ava Bunn as Dr. Sam Tosh</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: JioHotstar</li></ul>\n<h2>Seasons</h2>\n<ul><li>Season 1 (9 episodes, 25 February 2026)</li><li>Season 2 (10 episodes, 30 September 2026)</li></ul>\n<h2>Where to watch</h2>\n<ul><li>Streaming on JioHotstar (IN)</li></ul>\n</article>",
+   "t": "Scrubs (2026) — Seasons, Episodes, Cast & Story | FlickAtlas",
+   "year": "2026"
+  },
   "tv:299778": {
    "d": "Tatsuki Fujimoto 17-26 (2025) is an Animation and Drama TV series. Explore its story: Six studios and seven directors adapt the early works… and cast.",
    "img": "https://image.tmdb.org/t/p/w780/toXYTAj4hcTS94UJKJEdwZyiGZi.jpg",
@@ -3092,6 +3799,68 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>Tatsuki Fujimoto 17-26 (2025)</h1>\n<p class=\"ssr-lead\">Six studios and seven directors adapt the early works of Tatsuki Fujimoto, the mastermind behind &quot;Chainsaw Man,&quot; into an anime anthology. Each episode is an anime adaptation of a short story he drew from ages seventeen to twenty-six, including the first manga he ever submitted for competition. Watch as vivid tales of young love, chaos, madness, and the bonds between people unfold in each episode.</p>\n<h2>Key facts</h2>\n<ul><li>First air date: 8 November 2025</li><li>Seasons: 1 · Episodes: 8</li><li>Genres: Animation, Drama, Comedy, Sci-Fi &amp; Fantasy</li><li>Tagline: Eight captivating short stories crafted by Tatsuki Fujimoto during his teenage and early adult years, between the ages of 17 and 26.</li><li>Certification: TV-MA</li><li>Original language: Japanese</li><li>Spoken languages: Japanese</li><li>Production countries: Japan</li><li>Network: Prime Video</li><li>Official trailer: Official Trailer [Subtitled]</li><li>TMDB rating: 8.8/10 (116 votes)</li><li>Status: Ended</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Amazon Prime Video, Amazon Prime Video with Ads</li></ul>\n<h2>Seasons</h2>\n<ul><li>Season 1 (8 episodes, 8 November 2025)</li></ul>\n</article>",
    "t": "Tatsuki Fujimoto 17-26 (2025) — Seasons, Episodes, Cast & Story | FlickAtlas",
    "year": "2025"
+  },
+  "tv:307478": {
+   "d": "The Perfect Lie (2026) is a Drama and Crime TV series. Explore its story: After a heart-fluttering date, Joonho, a heart…, cast, 1 season, and 12 episodes.",
+   "img": "https://image.tmdb.org/t/p/w780/hglYTJIswg5p3YA3V85B2dhvnNj.jpg",
+   "industry": "world",
+   "k": "The Perfect Lie, The Perfect Lie TV series, The Perfect Lie cast, The Perfect Lie story, The Perfect Lie seasons, The Perfect Lie episodes, The Perfect Lie season 1, The Perfect Lie 12 episodes, The Perfect Lie first air date, The Perfect Lie Drama, The Perfect Lie Crime, World Cinema TV series, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "TVSeries",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Yoo Yeon-seok"
+     },
+     {
+      "@type": "Person",
+      "name": "Seo Hyun-jin"
+     },
+     {
+      "@type": "Person",
+      "name": "Ok Ja-yeon"
+     },
+     {
+      "@type": "Person",
+      "name": "Kim Ji-hyun"
+     },
+     {
+      "@type": "Person",
+      "name": "Lee Chun-hee"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 1,
+     "ratingValue": 10.0,
+     "worstRating": 0
+    },
+    "description": "The Perfect Lie (2026) is a Drama and Crime TV series. Explore its story: After a heart-fluttering date, Joonho, a heart…, cast, 1 season, and 12 episodes.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Cho Young-min"
+     }
+    ],
+    "genre": [
+     "Drama",
+     "Crime"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/hglYTJIswg5p3YA3V85B2dhvnNj.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/show?id=307478",
+    "name": "The Perfect Lie",
+    "numberOfEpisodes": 12,
+    "numberOfSeasons": 1,
+    "startDate": "2026-10-30",
+    "url": "https://flickatlas.co.uk/show?id=307478"
+   },
+   "modified": "",
+   "published": "2026-10-28",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>The Perfect Lie (2026)</h1>\n<p class=\"ssr-lead\">After a heart-fluttering date, Joonho, a heart surgeon with a perfect smile, and Jisun, a free-spirited teacher-librarian, share a special night. The next day, they meet at a police station with completely different memories. A shocking polygraph result turns their lives upside down.</p>\n<h2>Key facts</h2>\n<ul><li>First air date: 30 October 2026</li><li>Seasons: 1 · Episodes: 12</li><li>Created by: Baek Jae-young</li><li>Director: Cho Young-min</li><li>Genres: Drama, Crime, Mystery</li><li>Tagline: The one who&#x27;s been lying is you.</li><li>Certification: 15</li><li>Original language: Korean</li><li>Spoken languages: Korean</li><li>Production countries: South Korea</li><li>Network: MBC</li><li>TMDB rating: 10.0/10 (1 votes)</li><li>Status: Returning Series</li></ul>\n<h2>Top cast</h2>\n<ul><li>Yoo Yeon-seok as Min Jun-ho</li><li>Seo Hyun-jin as Kang Ji-seon</li><li>Ok Ja-yeon as Lee Hwa-yeong</li><li>Kim Ji-hyun as Kang Ji-eun</li><li>Lee Chun-hee as Kim Hyeong-su</li><li>Oh Dong-min as Park Joong-hyeon</li><li>Kang Ji-yong as Min Hyeon-soo</li><li>Jung Ji-woo as Joo Eun-hye</li><li>Jung Seung-kil as Jang Doo-il</li><li>Kim Bit as K-pop Emperor Hwang Woo-seong</li></ul>\n<h2>Seasons</h2>\n<ul><li>Season 1 (12 episodes, 30 October 2026)</li></ul>\n<h2>Where to watch</h2>\n<ul><li>Streaming on Netflix (IN)</li></ul>\n</article>",
+   "t": "The Perfect Lie (2026) — Seasons, Episodes, Cast & Story | FlickAtlas",
+   "year": "2026"
   },
   "tv:37678": {
    "d": "The Voice (2011) is a Reality TV series. Explore its story: The strongest vocalists from across the United states…, cast, 30 seasons, and 708 episodes.",
