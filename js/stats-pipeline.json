@@ -1,30 +1,30 @@
 {
-  "generated": "2026-11-22T18:52:46Z",
+  "generated": "2026-11-23T00:55:27Z",
   "fetch": {
     "status": "success",
-    "run_id": 45052460439,
-    "started_at": "2026-11-22T17:59:10Z",
-    "finished_at": "2026-11-22T18:48:15Z",
-    "run_url": "https://github.com/Msohaib012/flickatlas-site/actions/runs/45052460439",
+    "run_id": 45084892652,
+    "started_at": "2026-11-22T23:44:53Z",
+    "finished_at": "2026-11-22T23:51:42Z",
+    "run_url": "https://github.com/Msohaib012/flickatlas-site/actions/runs/45084892652",
     "sources_total": 137,
-    "sources_ok": 0,
-    "sources_error": 0,
-    "sources_unchanged": 0,
-    "sources_other": 137,
-    "stories_queued": 237,
-    "stories_new": 0,
+    "sources_ok": 54,
+    "sources_error": 3,
+    "sources_unchanged": 30,
+    "sources_other": 50,
+    "stories_queued": 201,
+    "stories_new": 43,
     "duplicates_removed": 0,
     "per_category": {
-      "Box Office": 3,
+      "Box Office": 2,
       "Awards": 0,
       "Trailers": 0,
-      "Music / OST": 8,
-      "Episodes": 6,
+      "Music / OST": 5,
+      "Episodes": 3,
       "Upcoming releases": 0,
       "OTT / Streaming": 4,
       "TV & Dramas": 1,
       "Celebrity news & events": 16,
-      "Movies": 198,
+      "Movies": 169,
       "Entertainment viral": 1
     },
     "per_scope": {
@@ -46,41 +46,41 @@
       "Music": 2,
       "Tech": 1
     },
-    "next_run": "2026-11-22T19:35:00Z"
+    "next_run": "2026-11-23T01:35:00Z"
   },
   "gemini": {
     "status": "success",
-    "run_id": 45052460439,
-    "started_at": "2026-11-22T17:59:10Z",
-    "finished_at": "2026-11-22T18:48:15Z",
-    "run_url": "https://github.com/Msohaib012/flickatlas-site/actions/runs/45052460439",
-    "generated_at": "2026-11-22T18:52:21Z",
+    "run_id": 45084892652,
+    "started_at": "2026-11-22T23:44:53Z",
+    "finished_at": "2026-11-22T23:51:42Z",
+    "run_url": "https://github.com/Msohaib012/flickatlas-site/actions/runs/45084892652",
+    "generated_at": "2026-11-23T00:52:10Z",
     "picked": 4,
     "read": 100,
-    "unprocessed": 237,
+    "unprocessed": 201,
     "per_category": {
       "box_office": 1,
       "upcoming_releases": 1,
-      "tv_dramas": 1,
-      "movies": 1
+      "celebrities_events": 1,
+      "tv_dramas": 1
     },
-    "skipped": 2,
+    "skipped": 0,
     "posts_created": 4,
-    "next_run": "2026-11-22T19:35:00Z"
+    "next_run": "2026-11-23T01:35:00Z"
   },
   "publish": {
     "status": "success",
-    "run_id": 45052460439,
-    "started_at": "2026-11-22T17:59:10Z",
-    "finished_at": "2026-11-22T18:48:15Z",
-    "run_url": "https://github.com/Msohaib012/flickatlas-site/actions/runs/45052460439",
-    "next_run": "2026-11-22T19:35:00Z"
+    "run_id": 45084892652,
+    "started_at": "2026-11-22T23:44:53Z",
+    "finished_at": "2026-11-22T23:51:42Z",
+    "run_url": "https://github.com/Msohaib012/flickatlas-site/actions/runs/45084892652",
+    "next_run": "2026-11-23T01:35:00Z"
   },
   "posts": {
-    "total": 3655,
-    "articles": 2366,
+    "total": 3679,
+    "articles": 2390,
     "titles": 1289,
-    "today": 141,
+    "today": 24,
     "article_categories": {
       "glx1ay": "celebrities_events",
       "1bzs50a": "ott_streaming",
@@ -2235,20 +2235,44 @@
       "19mlytw": "box_office",
       "1yfxh2y": "upcoming_releases",
       "19ybc3c": "tv_dramas",
-      "12pqcd0": "movies"
+      "12pqcd0": "movies",
+      "1rd13f": "upcoming_releases",
+      "qyxwxv": "tv_dramas",
+      "1kx4fx1": "music_ost",
+      "m77gj4": "awards",
+      "f9yij0": "celebrities_events",
+      "33ixpf": "ott_streaming",
+      "1m0stz8": "tv_dramas",
+      "1h29l2w": "viral",
+      "136mkaq": "celebrities_events",
+      "lmrd6q": "upcoming_releases",
+      "dteid7": "celebrities_events",
+      "caf30c": "ott_streaming",
+      "ubd975": "celebrities_events",
+      "35moax": "tv_dramas",
+      "13v9607": "viral",
+      "1hr6z82": "tv_dramas",
+      "e00mvu": "box_office",
+      "4njw6j": "ott_streaming",
+      "1ua99ry": "celebrities_events",
+      "1cvnfax": "celebrities_events",
+      "w61ibg": "box_office",
+      "14g4owf": "upcoming_releases",
+      "1uq33t0": "celebrities_events",
+      "fj78u2": "tv_dramas"
     }
   },
   "queue": {
-    "total": 237,
+    "total": 201,
     "per_category": {
-      "Movies": 198,
-      "OTT / Streaming": 4,
-      "Episodes": 6,
-      "TV & Dramas": 1,
-      "Music / OST": 8,
-      "Box Office": 3,
+      "Movies": 169,
+      "Box Office": 2,
       "Celebrity news & events": 16,
-      "Entertainment viral": 1
+      "TV & Dramas": 1,
+      "OTT / Streaming": 4,
+      "Episodes": 3,
+      "Entertainment viral": 1,
+      "Music / OST": 5
     }
   }
 }

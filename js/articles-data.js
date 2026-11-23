@@ -224823,5 +224823,381 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Mon, 23 Nov 2026 00:13:48 +0500"
+  },
+  "w61ibg": {
+    "id": "w61ibg",
+    "type": "news",
+    "headline": "Ramayana: Rise of a Legend Box Office Collection Day 18: Ranbir Kapoor Starrer Nears Rs 1,000 Cr in India",
+    "dek": "Ranbir Kapoor, Yash and Sai Pallavi's cinematic epic 'Ramayana: Rise of a Legend' witnessed a strong surge on its third Sunday, pushing its domestic net collections ever closer to the Rs 1,000 crore milestone while crossing significant worldwide thresholds.",
+    "body": [
+      {
+        "h": "Sunday Surge and Box Office Milestones",
+        "p": [
+          "The theatrical run of 'Ramayana: Rise of a Legend' maintained strong momentum on Sunday, November 22, 2026. The high-profile film recorded a notable 28.8 percent increase in India net collections compared to the previous day.",
+          "With this weekend surge, the domestic net total is rapidly closing in on the coveted Rs 1,000 cr milestone. Meanwhile, the worldwide gross figures for the multi-starrer have surged past major international thresholds during its eighteenth day in cinemas."
+        ]
+      },
+      {
+        "h": "Day 18 Earnings and Show Distribution",
+        "p": [
+          "On Day 18, the movie brought in Rs 35.60 cr in India net collections, running across a massive footprint of 16,277 shows nationwide. The Hindi version spearheaded these numbers, pulling in Rs 26.25 cr from 13,852 screenings.",
+          "Regional versions also contributed meaningfully to the overall Sunday tally. Malayalam screenings added Rs 3.40 cr, Kannada generated Rs 2.50 cr, Tamil chipped in with Rs 2.40 cr, and Telugu contributed Rs 1.05 cr to the day's box office ledger."
+        ]
+      },
+      {
+        "h": "Breakdown of Gross and International Revenues",
+        "p": [
+          "The cumulative domestic performance has pushed the film's India gross collection to a staggering Rs 1,126.50 cr, running parallel to its net total of Rs 942.75 cr.",
+          "On the global front, overseas audiences added an impressive Rs 567 cr to the tally. When combined with domestic figures, the total worldwide gross stands at an extraordinary Rs 1,693.50 cr."
+        ]
+      },
+      {
+        "h": "Weekend Trends and Theatrical Trajectory",
+        "p": [
+          "According to data from Sacnilk, the Day 18 figures represented a 28.8 percent bounce over the Rs 27.65 cr earned on Day 17. However, this Sunday total remained lower than the extraordinary Rs 75 cr collected on the corresponding Sunday a week prior.",
+          "The third weekend alone—spanning Days 16 through 18—accumulated Rs 79 cr in India net collections. Across its 18-day exhibition window, the feature has total cumulative screenings reaching 396,864 shows."
+        ]
+      },
+      {
+        "h": "Language-Wise Occupancy Rates",
+        "p": [
+          "Audience occupancy varied significantly across different language versions on Sunday. Malayalam led regional formats with the highest overall occupancy at 81.1 percent, followed closely by Tamil at 70.6 percent and Kannada at 64.5 percent.",
+          "The Telugu version recorded 40.1 percent overall occupancy, while the Hindi version registered 32.7 percent for its standard run. Specific formats like Hindi 3D and Tamil 3D pulled much higher theatre occupancies during afternoon and evening prime time slots."
+        ]
+      },
+      {
+        "h": "Dominance of the Hindi Version",
+        "p": [
+          "The Hindi language presentation has established itself as the primary driver of the movie's domestic success. Its cumulative India net collection stands at Rs 715.75 cr, representing 75.9 percent of the total domestic business.",
+          "Among other regional contributions, Kannada secured the second spot with Rs 75.30 cr (8 percent), followed by Telugu at Rs 56.60 cr, Malayalam at Rs 48.45 cr, and Tamil rounding out the domestic ledger with Rs 46.65 cr."
+        ]
+      },
+      {
+        "h": "Comparative Analysis With Past Releases",
+        "p": [
+          "Evaluating historical trends, Ranbir Kapoor's previous major release, 'Animal', experienced a significantly lower trajectory at the exact same point in its theatrical run. On its 18th day, 'Animal' brought in Rs 5.75 cr in India net collections.",
+          "At that comparable stage, 'Animal' had accumulated a total India net of Rs 518.19 cr and a worldwide gross of Rs 842.55 cr, highlighting the unprecedented box office scale that 'Ramayana: Rise of a Legend' has achieved."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Ranbir Kapoor, Yash and Sai Pallavi's 'Ramayana: Rise of a Legend' recorded a 28.8% jump in earnings on its eighteenth day, bringing in Rs 35.60 cr in India net collections. The film's domestic net total is now nearing the Rs 1,000 cr milestone, driven heavily by strong Hindi language revenues and solid regional occupancies."
+        ]
+      }
+    ],
+    "facts": [
+      "Ramayana: Rise of a Legend earned Rs 35.60 cr in India net collections on Day 18.",
+      "The film ran across 16,277 shows on its eighteenth day.",
+      "The worldwide gross for Ramayana: Rise of a Legend crossed Rs 1,693.50 cr.",
+      "The Hindi version earned Rs 26.25 cr from 13,852 shows on Sunday.",
+      "Animal earned Rs 5.75 cr in India net collections on its 18th day."
+    ],
+    "entities": {
+      "people": [
+        "Ranbir Kapoor",
+        "Yash",
+        "Sai Pallavi"
+      ],
+      "titles": [
+        "Ramayana: Rise of a Legend",
+        "Animal"
+      ]
+    },
+    "keywords": [
+      "Ramayana Rise of a Legend box office",
+      "Ranbir Kapoor Ramayana collection",
+      "Ramayana Day 18 collection",
+      "Ramayana box office India net"
+    ],
+    "images": [
+      {
+        "url": "https://static.toiimg.com/thumb/msid-136085990,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "caption": "Ramayana: Rise of a Legend Box Office Collection Day 18: Ranbir Kapoor Starrer Nears Rs 1,000 Cr in India",
+        "source": "Times of India — Entertainment"
+      }
+    ],
+    "published": "2026-11-23T05:47:02+05:30"
+  },
+  "14g4owf": {
+    "id": "14g4owf",
+    "type": "news",
+    "headline": "HBO's New Harry Potter Character Posters Spark Discussion Over Severus Snape's Appearance",
+    "dek": "Fresh promotional imagery from HBO's upcoming television adaptation of Harry Potter has fans talking about a mysterious mark on Severus Snape's forehead.",
+    "body": [
+      {
+        "h": "Introduction to HBO's Wizarding World Adaptation",
+        "p": [
+          "The iconic universe created by author J.K. Rowling is heading to the television screen with an upcoming series produced by HBO. The ambitious project aims to faithfully re-adapt the original seven novels for a new generation of viewers, with filming taking place across 2025 and 2026 ahead of a scheduled premiere in 2027.",
+          "While the original film franchise remains a beloved cinematic milestone featuring actors like Daniel Radcliffe, Rupert Grint, and Emma Watson, this new iteration introduces a completely fresh cast. Dominic McLaughlin steps into the titular role of Harry Potter, taking over the mantle of the Boy Who Lived."
+        ]
+      },
+      {
+        "h": "Unveiling Character Posters for Harry Potter and the Philosopher's Stone",
+        "p": [
+          "Marketing for the new television series has officially kicked off with the release of character posters for Harry Potter and the Philosopher's Stone. These newly unveiled promotional images offer the first clear look at how the main cast will appear in the upcoming adaptation, sparking widespread discussion online.",
+          "Among the newly revealed portraits, eagle-eyed fans noticed a distinct detail regarding the portrayal of Hogwarts professor Severus Snape. Played by Paapa Essiedu in the upcoming HBO series, the character appears to sport a mysterious mark on his forehead near the hairline."
+        ]
+      },
+      {
+        "h": "A New Feature Shared With Harry Potter",
+        "p": [
+          "For decades, the only prominent forehead mark associated with the core characters of the franchise belonged to Harry Potter himself. The lightning-shaped scar, inflicted by Voldemort when Harry was an infant, served as a defining symbol throughout the seven books and eight films.",
+          "With the appearance of a mark near Snape's hairline in the new promotional photographs, the potions master seemingly shares a similar facial feature with Harry for the very first time. This unexpected visual detail has immediately set off speculation among the fandom regarding its origins and significance within the story."
+        ]
+      },
+      {
+        "h": "Theories and Speculation Among Fans",
+        "p": [
+          "Unlike Harry's famous curse scar, the potential marking on Snape's forehead has no established explanation or mention in J.K. Rowling's original novels. This absence of source material background has allowed multiple fan theories to circulate across social media and entertainment platforms.",
+          "One leading theory suggests the mark could be linked to the physical bullying and injuries Snape sustained at the hands of James Potter during their school days at Hogwarts. Another alternative hypothesis proposes that it might stem from the rigorous process of extracting and managing memories for the pensieve, though many acknowledge it could simply be a stylistic choice or nothing at all."
+        ]
+      },
+      {
+        "h": "Casting and Production Details",
+        "p": [
+          "The casting of Paapa Essiedu as Severus Snape represents a major creative direction for the upcoming HBO project, building anticipation for how the ensemble cast will interpret these legendary roles. Essiedu follows in the footsteps of the late Alan Rickman, whose definitive portrayal of Snape remains iconic among fans worldwide.",
+          "Production timelines indicate a massive undertaking for the network, with extensive filming schedules spanning multiple years. The series is slated to debut in 2027, giving the creative team ample time to craft a detailed visual landscape for Hogwarts School of Witchcraft and Wizardry."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "HBO's newly released character posters for the upcoming Harry Potter television series have revealed a mysterious mark on the forehead of Severus Snape, played by Paapa Essiedu. While the adaptation stars Dominic McLaughlin as Harry Potter and is set to premiere in 2027, the potential scar on Snape has sparked various fan theories since it has no basis in J.K. Rowling's original novels."
+        ]
+      }
+    ],
+    "facts": [
+      "HBO is producing a new Harry Potter television adaptation.",
+      "Filming takes place through 2025 and 2026.",
+      "The series is scheduled to arrive in 2027.",
+      "Dominic McLaughlin plays Harry Potter in the HBO series.",
+      "Paapa Essiedu plays Severus Snape in the HBO series.",
+      "Daniel Radcliffe, Rupert Grint, and Emma Watson were cast in the original films in 2000."
+    ],
+    "entities": {
+      "people": [
+        "Chris McPherson",
+        "Daniel Radcliffe",
+        "Dominic McLaughlin",
+        "Paapa Essiedu",
+        "J.K. Rowling",
+        "James Potter",
+        "Alan Rickman",
+        "Tom Felton",
+        "Robert Pattinson",
+        "Eddie Redmayne",
+        "Evanna Lynch"
+      ],
+      "titles": [
+        "Harry Potter",
+        "Bosch",
+        "Mission: Impossible",
+        "Yellowstone",
+        "Silo",
+        "Harry Potter and the Philosopher's Stone",
+        "Goblet of Fire",
+        "Twilight",
+        "Fantastic Beasts"
+      ]
+    },
+    "keywords": [
+      "Severus Snape forehead scar",
+      "HBO Harry Potter series",
+      "Paapa Essiedu Severus Snape",
+      "Harry Potter and the Philosophers Stone posters",
+      "Dominic McLaughlin Harry Potter"
+    ],
+    "images": [
+      {
+        "url": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/05/harry-potter-paapa-essiedu-severus-snape-1.jpeg?w=1600&amp;h=900&amp;fit=crop",
+        "caption": "HBO's New Harry Potter Character Posters Spark Discussion Over Severus Snape's Appearance",
+        "source": "Collider"
+      }
+    ],
+    "published": "Mon, 23 Nov 2026 00:30:12 GMT"
+  },
+  "1uq33t0": {
+    "id": "1uq33t0",
+    "type": "news",
+    "headline": "Pop star Miley Cyrus ties the knot with drummer Maxx Morando in California",
+    "dek": "Grammy-winning artist Miley Cyrus has married her longtime partner Maxx Morando during a private ceremony in California, sharing moments of the celebration on social media.",
+    "body": [
+      {
+        "h": "The California Wedding Ceremony",
+        "p": [
+          "Pop icon Miley Cyrus and her long-term partner, drummer Maxx Morando, have officially gotten married in a private ceremony held in California. The couple celebrated their union surrounded by a select group, with monochrome snapshots of the ceremony subsequently appearing across social media platforms.",
+          "The milestone event took place on a Saturday in Palm Springs, marking a new chapter for the duo after a multi-year relationship. Major entertainment outlets, including People magazine and Entertainment Tonight, quickly picked up and circulated the details of the ceremony."
+        ]
+      },
+      {
+        "h": "Announcing the Marriage Online",
+        "p": [
+          "The 33-year-old singer shared the joyous news directly with her followers on Instagram on a Sunday. She accompanied the wedding pictures with minimal captions, simply writing 'M M' alongside the numerical date of the nuptials.",
+          "For the occasion, Cyrus wore a backless white silk gown that drew widespread attention. Meanwhile, the 28-year-old groom opted for traditional formalwear, donning a classic black suit paired with a crisp white shirt."
+        ]
+      },
+      {
+        "h": "Relationship Background and Origin",
+        "p": [
+          "Cyrus and Morando share a history spanning approximately five years. Their romance began after meeting through a setup in 2021, an arrangement Cyrus humorously detailed in a previous interview with British Vogue.",
+          "The singer recounted that while the meeting was organized blindly for her, it was entirely intentional on Morando's part. Entering the date with cautious optimism, she famously reasoned that the absolute worst outcome would simply be her departure."
+        ]
+      },
+      {
+        "h": "Recent Joint Performances and Engagements",
+        "p": [
+          "The wedding comes roughly a month after the couple shared the stage at the Hollywood Bowl. During the concert appearance, they performed a track titled 'Let's Get Married', which forms part of Cyrus's latest studio album, Bass Persuades.",
+          "Prior to their wedding day, Cyrus had publicly discussed her engagement to the musician during an end-of-year television appearance on ABC's Good Morning America, confirming the progression of their relationship."
+        ]
+      },
+      {
+        "h": "Background on Maxx Morando",
+        "p": [
+          "Maxx Morando is heavily involved in the Los Angeles alternative rock scene. He serves as the drummer for the band Liily, an ensemble that maintains affiliations with Atlantic Records.",
+          "His career as a professional musician runs parallel to Cyrus's massive global pop career, allowing the pair to occasionally cross paths creatively while maintaining their respective artistic endeavors."
+        ]
+      },
+      {
+        "h": "Past Relationships and Media Attention",
+        "p": [
+          "This marriage represents a fresh start for Cyrus following her past high-profile relationships. The 'Flowers' singer was previously married to Australian actor Liam Hemsworth, who filed for divorce in Los Angeles back in 2019.",
+          "Representatives for Cyrus and Morando chose not to issue immediate comments when approached by news agencies regarding the details of the California ceremony."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Grammy-winning pop star Miley Cyrus married drummer Maxx Morando in a private California ceremony after dating for five years. The couple announced their marriage on Instagram, sharing photographs from the Palm Springs event where Cyrus wore a white silk gown and Morando wore a black suit."
+        ]
+      }
+    ],
+    "facts": [
+      "Miley Cyrus is 33 years old.",
+      "Maxx Morando is 28 years old.",
+      "The wedding took place on November 21, 2026.",
+      "The couple met on a blind date in 2021.",
+      "Maxx Morando is the drummer for the alternative rock band Liily."
+    ],
+    "entities": {
+      "people": [
+        "Miley Cyrus",
+        "Maxx Morando",
+        "Liam Hemsworth"
+      ],
+      "titles": [
+        "Bass Persuades",
+        "Let's Get Married",
+        "Flowers",
+        "Good Morning America"
+      ]
+    },
+    "keywords": [
+      "Miley Cyrus Maxx Morando wedding",
+      "Miley Cyrus married",
+      "Maxx Morando drummer",
+      "Miley Cyrus California wedding"
+    ],
+    "images": [
+      {
+        "url": "https://www.hindustantimes.com/ht-img/img/2025/07/20/1600x900/logo/music1_1753007917165_1753007947386.jpeg",
+        "caption": "Pop star Miley Cyrus ties the knot with drummer Maxx Morando in California",
+        "source": "Hindustan Times — Entertainment"
+      }
+    ],
+    "published": "Mon, 23 Nov 2026 05:54:40 +0530"
+  },
+  "fj78u2": {
+    "id": "fj78u2",
+    "type": "news",
+    "headline": "Guy Ritchie's Young Sherlock Series Confirms No 2026 Return for Season 2",
+    "dek": "Prime Video has confirmed that the second season of Guy Ritchie's prequel series Young Sherlock will not premiere before the end of 2026.",
+    "body": [
+      {
+        "h": "The Return of Young Sherlock",
+        "p": [
+          "Filmmaker Guy Ritchie expanded the classic detective universe earlier in the year by introducing a prequel series titled Young Sherlock on Prime Video. The platform debuted every episode of the initial run simultaneously, giving audiences an immediate deep dive into the formative years of the iconic literary investigator.",
+          "The project quickly captured audience attention across multiple territories. It maintained a strong foothold in the global top 10 viewing charts for over a month before finally slipping to make room for newer streaming content."
+        ]
+      },
+      {
+        "h": "Renewal and Production Timeline",
+        "p": [
+          "Following the widespread streaming success of the first outing, Prime Video officially greenlit a second season. Production has actively been underway for a portion of the year, signaling a strong commitment from the studio to continue the narrative.",
+          "Despite active development, officials have confirmed that the upcoming episodes will not arrive before the conclusion of 2026. This timeline aligns with industry standards, given that high-budget streaming productions rarely manage to launch two fresh seasons within a single calendar year."
+        ]
+      },
+      {
+        "h": "Guy Ritchie's Busy Year",
+        "p": [
+          "The mastermind behind the detective prequel has experienced an exceptionally busy creative period. Alongside his television endeavors, Ritchie attempted a return to blockbuster cinema with his feature film In The Grey.",
+          "The theatrical release featured prominent leads like Henry Cavill and Jake Gyllenhaal. Although the movie faced difficulties during its initial theatrical run, it subsequently found new life as a heavily streamed title on VOD platforms."
+        ]
+      },
+      {
+        "h": "Expanding Television Portfolio",
+        "p": [
+          "Beyond his cinematic pursuits, Ritchie has dominated the small screen with several high-profile episodic projects. He launched second seasons for two major streaming hits, including MobLand on Paramount Plus and The Gentlemen on Netflix.",
+          "Both streaming series pulled in massive viewership numbers worldwide. Their respective platforms responded to the high engagement by securing third-season renewals for each show."
+        ]
+      },
+      {
+        "h": "Production Updates Across Projects",
+        "p": [
+          "While multiple television universes under Ritchie's direction are expanding, their production schedules vary significantly. For instance, cameras are already rolling on the third season of The Gentlemen.",
+          "On the other hand, series like MobLand are expected to take a slightly longer path toward their subsequent releases. These staggered schedules ensure that Ritchie's distinct creative style remains a dominant force across various platforms."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Prime Video has officially confirmed that the second season of Guy Ritchie's Young Sherlock will not debut before the end of 2026. The announcement follows a successful first season on the streaming platform, which earned a renewal after spending over a month in the global top 10."
+        ]
+      }
+    ],
+    "facts": [
+      "Young Sherlock premiered on Prime Video earlier in the year.",
+      "Prime Video released all episodes of Young Sherlock on the same day.",
+      "Young Sherlock spent over a month in the global top 10.",
+      "Young Sherlock has been renewed for a second season.",
+      "Young Sherlock Season 2 will not return before the end of 2026.",
+      "In The Grey was directed by Guy Ritchie and starred Henry Cavill and Jake Gyllenhaal.",
+      "MobLand Season 2 streams on Paramount Plus.",
+      "The Gentlemen Season 2 streams on Netflix.",
+      "MobLand and The Gentlemen have both been renewed for third seasons.",
+      "Cameras are already rolling on The Gentlemen Season 3."
+    ],
+    "entities": {
+      "people": [
+        "Guy Ritchie",
+        "Henry Cavill",
+        "Jake Gyllenhaal",
+        "Adam Blevins"
+      ],
+      "titles": [
+        "Young Sherlock",
+        "In The Grey",
+        "MobLand",
+        "The Gentlemen",
+        "Avengers: Doomsday",
+        "The Penguin",
+        "Star Wars: Skeleton Crew",
+        "The Chosen"
+      ]
+    },
+    "keywords": [
+      "Young Sherlock",
+      "Guy Ritchie",
+      "Young Sherlock Season 2",
+      "Prime Video"
+    ],
+    "images": [
+      {
+        "url": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/02/img_7264-1.jpg?w=1600&amp;h=900&amp;fit=crop",
+        "caption": "Guy Ritchie's Young Sherlock Series Confirms No 2026 Return for Season 2",
+        "source": "Collider"
+      }
+    ],
+    "published": "Mon, 23 Nov 2026 00:00:12 GMT"
   }
 };
