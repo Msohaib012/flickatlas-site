@@ -53,7 +53,7 @@ import math
 import os
 import re
 import sys
-from datetime import datetime, timezone
+from datetime import datetime, timedelta, timezone
 from email.utils import parsedate_to_datetime
 from html import escape as html_escape, unescape
 
@@ -80,6 +80,53 @@ INDUSTRY_LABEL = {
     "world": "World Cinema",
     "pakistani": "Pakistani",
 }
+
+# Language / country code -> display name, mirroring the detail pages
+# (js/page-movie.js LANG/COUNTRY). Unknown codes render as themselves,
+# never guessed. Used only by the SSR facts block (2026-11-23).
+LANG_NAMES = {
+    "hi": "Hindi", "en": "English", "ko": "Korean", "ur": "Urdu",
+    "te": "Telugu", "ta": "Tamil", "mr": "Marathi", "pa": "Punjabi",
+    "bn": "Bengali", "ml": "Malayalam", "kn": "Kannada",
+    "gu": "Gujarati", "fr": "French", "es": "Spanish", "de": "German",
+    "ja": "Japanese", "zh": "Chinese",
+}
+COUNTRY_NAMES = {
+    "IN": "India", "PK": "Pakistan", "US": "United States",
+    "GB": "United Kingdom", "CA": "Canada", "AU": "Australia",
+    "FR": "France", "DE": "Germany", "JP": "Japan", "KR": "South Korea",
+    "CN": "China", "AE": "United Arab Emirates", "SA": "Saudi Arabia",
+    "NZ": "New Zealand", "IE": "Ireland", "ES": "Spain", "IT": "Italy",
+    "BR": "Brazil", "RU": "Russia", "TR": "Turkey", "TH": "Thailand",
+}
+
+
+def _lang_name(code):
+    return LANG_NAMES.get(plain_text(code).lower()) or plain_text(code).upper()
+
+
+def _country_name(code):
+    return COUNTRY_NAMES.get(plain_text(code).upper()) or plain_text(code)
+
+
+# SSR thinness floor (2026-11-23, AdSense "Low value content" fix):
+# after every page-backed fact below is included, a title whose SSR
+# plain text is under this many characters has only a one-sentence
+# overview and almost no other facts — it cannot be filled from
+# verified data and is marked noindex,follow in title_meta until the
+# AI-review pipeline (scripts/gemini_reviews.py) or richer metadata
+# fills it. The floor is deterministic, so a later seo_assets run
+# lifts the noindex automatically once the page grows past it.
+# It is deliberately far below the 800-char "thin" audit band: only
+# the irreducibly thin tail is noindexed, never the whole catalogue.
+SSR_NOINDEX_CHARS = 500
+
+
+def ssr_plain_chars(ssr):
+    """Visible-text length of an SSR block (tags stripped)."""
+    if not isinstance(ssr, str):
+        return 0
+    return len(plain_text(re.sub(r"<[^>]*>", " ", ssr)))
 
 CAT_META = {
     "bollywood": (
@@ -534,6 +581,46 @@ def title_ssr(entry, dw, review, worldwide, credits=None):
               if plain_text(g)]
     if genres:
         facts.append("Genres: %s" % ", ".join(genres))
+    # AdSense SSR enrichment (2026-11-23): facts the rendered detail
+    # page already shows (Movie Facts / hero) but the SSR block
+    # previously dropped — tagline, certification, languages,
+    # production countries, network/channel, episode runtime and the
+    # official-trailer name. All come from the baked-in entry; nothing
+    # is invented or fetched here.
+    tagline = plain_text(entry.get("tagline"))
+    if tagline:
+        facts.append("Tagline: %s" % tagline)
+    certification = plain_text(entry.get("certification"))
+    if certification:
+        facts.append("Certification: %s" % certification)
+    orig_lang = plain_text(entry.get("original_language"))
+    if orig_lang:
+        facts.append("Original language: %s" % _lang_name(orig_lang))
+    spoken = [_lang_name(c) for c in (entry.get("spoken_languages") or [])
+              if plain_text(c)]
+    if spoken:
+        facts.append("Spoken languages: %s" % ", ".join(spoken))
+    prod_countries = [_country_name(c)
+                      for c in (entry.get("production_countries") or [])
+                      if plain_text(c)]
+    if prod_countries:
+        facts.append("Production countries: %s" % ", ".join(prod_countries))
+    if is_tv:
+        networks = [plain_text(n) for n in (entry.get("networks") or [])
+                    if plain_text(n)]
+        if networks:
+            facts.append("Network: %s" % ", ".join(networks))
+        channel = plain_text(entry.get("channel"))
+        if channel and channel not in networks:
+            facts.append("Channel: %s" % channel)
+        runtimes = [int(_number(r)) for r in
+                    (entry.get("episode_run_time") or [])
+                    if _number(r) > 0]
+        if runtimes:
+            facts.append("Episode runtime: %d minutes" % runtimes[0])
+    trailer = entry.get("trailer")
+    if isinstance(trailer, dict) and plain_text(trailer.get("name")):
+        facts.append("Official trailer: %s" % plain_text(trailer.get("name")))
     budget = _number(entry.get("budget"))
     if budget > 0:
         facts.append("Budget: %s" % fmt_money(budget))
@@ -626,6 +713,53 @@ def title_ssr(entry, dw, review, worldwide, credits=None):
             out.append("<ul>" + "".join("<li>%s</li>" % _esc(x) for x in lines)
                        + "</ul>")
             substantive = True
+        # Day-wise table (2026-11-23): the same verified rows the
+        # detail page's day-wise card renders, through theatrical
+        # Day 30 only (the sitemap/day-page policy). Totals above
+        # already include every reported day; this table adds the
+        # per-day India Net / Overseas split crawlers otherwise miss.
+        # Unverified or missing overseas figures render as a dash,
+        # never as a guessed number.
+        valid_rows = _valid_day_rows(rows)
+        if valid_rows:
+            trs = ["<tr><th>Day</th><th>Date</th><th>India Net</th>"
+                   "<th>Overseas</th></tr>"]
+            for n, row in valid_rows:
+                ov = _number(row.get("overseas"))
+                trs.append(
+                    "<tr><td>Day %d</td><td>%s</td><td>%s</td><td>%s</td></tr>"
+                    % (n, _esc(plain_text(row.get("date"))),
+                       _esc(fmt_money(_number(row.get("collection"))) or "—"),
+                       _esc(fmt_money(ov)) if ov > 0 else "—"))
+            out.append("<h2>Day-wise collection (India Net, USD)</h2>")
+            out.append("<table>" + "".join(trs) + "</table>")
+            substantive = True
+    # Seasons (2026-11-23): the season list the show page renders,
+    # from the baked-in entry. Pakistani dramas use the episode
+    # tracker, not a Seasons table, on the rendered page too.
+    if is_tv and entry.get("industry") != "pakistani":
+        season_rows = []
+        for s in (entry.get("seasons") or []):
+            if not isinstance(s, dict):
+                continue
+            num = _number(s.get("season_number"))
+            eps = _number(s.get("episode_count"))
+            name = plain_text(s.get("name"))
+            air = plain_text(s.get("air_date"))
+            label = "Season %d" % int(num) if num else (name or "Season")
+            bits = []
+            if eps:
+                bits.append("%d episodes" % int(eps))
+            if air:
+                bits.append(human_date(air))
+            season_rows.append("%s%s" % (label,
+                                         (" (%s)" % ", ".join(bits))
+                                         if bits else ""))
+        if season_rows:
+            out.append("<h2>Seasons</h2>")
+            out.append("<ul>" + "".join("<li>%s</li>" % _esc(r)
+                                        for r in season_rows) + "</ul>")
+            substantive = True
     if isinstance(review, dict) and review:
         overall = _number(review.get("overall"))
         verdict = plain_text(review.get("verdict"))
@@ -634,19 +768,56 @@ def title_ssr(entry, dw, review, worldwide, credits=None):
         if isinstance(cats, dict):
             cat_items = [(plain_text(k), _number(v))
                          for k, v in cats.items() if plain_text(k)]
-        if overall > 0 or verdict or cat_items:
+        # AdSense SSR enrichment (2026-11-23): the review prose the
+        # movie page already renders (story, comedy, performances,
+        # strengths/weaknesses) was previously dropped from SSR,
+        # leaving only the verdict and scores. Include it verbatim
+        # from js/reviews-data.js — never rewritten here.
+        prose = [(plain_text(review.get("story_plot")),
+                  "Story & Plot"),
+                 (plain_text(review.get("comedy")),
+                  "Comedy & Entertainment"),
+                 (plain_text(review.get("performances")),
+                  "Performances & Direction")]
+        strengths = [plain_text(s) for s in
+                     (review.get("strengths") or []) if plain_text(s)]
+        weaknesses = plain_text(review.get("weaknesses"))
+        critic = review.get("critic") if isinstance(
+            review.get("critic"), dict) else {}
+        critic_line = ""
+        if _number(critic.get("score_10")) > 0:
+            critic_line = ("BollyMovieReviewz critic average: %s/10"
+                           % _fmt_score(critic.get("score_10")))
+            if plain_text(critic.get("raw")):
+                critic_line += " (%s)" % plain_text(critic.get("raw"))
+        if (overall > 0 or verdict or cat_items or any(p for p, _ in prose)
+                or strengths or weaknesses):
             out.append("<h2>FlickAtlas review</h2>")
             lead_bits = []
             if overall > 0:
                 lead_bits.append("Overall: %s/10." % _fmt_score(overall))
-            if verdict:
-                lead_bits.append(verdict)
             if lead_bits:
                 out.append("<p>%s</p>" % _esc(" ".join(lead_bits)))
             if cat_items:
                 out.append("<ul>" + "".join(
                     "<li>%s: %s/10</li>" % (_esc(k), _fmt_score(v))
                     for k, v in cat_items) + "</ul>")
+            for text, heading in prose:
+                if text:
+                    out.append("<h3>%s</h3>" % _esc(heading))
+                    out.append("<p>%s</p>" % _esc(text))
+            if strengths:
+                out.append("<h3>Strengths</h3>")
+                out.append("<ul>" + "".join("<li>%s</li>" % _esc(s)
+                                            for s in strengths) + "</ul>")
+            if weaknesses:
+                out.append("<h3>Weaknesses</h3>")
+                out.append("<p>%s</p>" % _esc(weaknesses))
+            if verdict:
+                out.append("<h3>Final verdict</h3>")
+                out.append("<p>%s</p>" % _esc(verdict))
+            if critic_line:
+                out.append("<p>%s</p>" % _esc(critic_line))
             substantive = True
     seen_providers = set()
     watch = []
@@ -784,47 +955,248 @@ def _pop_score(e):
     return _number(e.get("vote_count")) * 0.01
 
 
+def _article_instant(value):
+    """Aware UTC instant for an article's published stamp, or None.
+
+    The homepage generator is deterministic: it never reads the wall
+    clock. Freshness is measured against the newest published stamp in
+    the data itself (see home_ssr), so this only parses data.
+    """
+    if not isinstance(value, str) or not value.strip():
+        return None
+    value = value.strip()
+    try:
+        if re.match(r"^\d{4}-\d{2}-\d{2}", value):
+            parsed = datetime.fromisoformat(value.replace("Z", "+00:00"))
+        else:
+            parsed = parsedate_to_datetime(value)
+    except (TypeError, ValueError, OverflowError):
+        return None
+    if parsed.tzinfo is None:
+        parsed = parsed.replace(tzinfo=timezone.utc)
+    return parsed.astimezone(timezone.utc)
+
+
+def _home_title_line(entry, overview_chars=160):
+    """One-line catalogue fact: title, year, TMDB rating, overview."""
+    title = plain_text(entry.get("title"))
+    year = year_of(entry)
+    disp = title + ((" (%s)" % year) if year else "")
+    rating = _number(entry.get("vote_average"))
+    if rating:
+        disp += " — TMDB rating %.1f/10" % rating
+    overview = trunc_description(plain_text(entry.get("overview")), overview_chars)
+    if overview:
+        disp += ". " + overview
+    return disp
+
+
 def home_ssr(published, articles):
-    """Facts block for the homepage (phase 2, 2026-11-14): the site's own
-    description plus the freshest content the rendered homepage shows —
-    the latest news headlines and the trending titles. Only facts the
-    homepage data backs; no links, no images. Returns None when there
-    is nothing substantive (the Worker then no-ops)."""
+    """Facts block for the homepage (phase 2, 2026-11-14; expanded
+    2026-11-23 after the AdSense "Low value content" verdict).
+
+    The rendered homepage is JS-only, so the raw HTML Google receives
+    carried only five bare headlines and five bare titles (~868 visible
+    characters). This block now mirrors the homepage's own sections
+    with the same data the JS app uses: the latest news headlines WITH
+    their dek summaries, Spotlight (recent Bollywood / Indian-language
+    film releases), Trending titles, Coming Soon, Pakistani dramas
+    (kept separate from series, never on OTT), and verified worldwide
+    box-office totals. Only facts the data backs; no links, no images,
+    no watch/download wording, no invented figure.
+
+    Freshness is deterministic (no wall clock, so the hourly generator
+    stays data-driven): the news window is the 24 hours before the
+    newest published stamp in the data — the same 24-hour expiry the
+    rendered homepage applies to its news listings. Release windows
+    use that same newest-article date as their anchor. Box office
+    shows a total only for records whose scope is "worldwide"; a
+    domestic-only or opening-weekend figure is never presented as a
+    worldwide total, and a title with no verified worldwide total gets
+    no figure here at all."""
     out = ['<article class="ssr-facts">', "<h1>FlickAtlas</h1>",
            "<p>%s</p>" % _esc(
                "Explore Bollywood and Indian cinema, World Cinema, "
                "Pakistani dramas, reported box office, OTT availability, "
                "release dates and entertainment news.")]
-    substantive = True
-    news = [e for e in (articles or {}).values()
-            if isinstance(e, dict) and plain_text(e.get("headline"))]
-    news.sort(key=lambda e: (publication_dates(e)["published"]
-                             or e.get("published") or ""), reverse=True)
-    headlines = [plain_text(e.get("headline")) for e in news[:5]]
-    if headlines:
+    # --- Latest news: newest first, 24h window before the newest stamp.
+    news = []
+    for slug, entry in (articles or {}).items():
+        if not isinstance(entry, dict):
+            continue
+        headline = plain_text(entry.get("headline"))
+        if not headline:
+            continue
+        news.append((slug, entry, headline,
+                     _article_instant(entry.get("published"))))
+    dated = [item for item in news if item[3] is not None]
+    anchor = max((item[3] for item in dated), default=None)
+    news.sort(key=lambda item: (
+        -(item[3].timestamp()) if item[3] is not None else 0.0,
+        item[2], item[0]))
+    if anchor is not None:
+        chosen = [item for item in news
+                  if item[3] is not None
+                  and (anchor - item[3]).total_seconds() <= 86400][:12]
+    else:
+        chosen = []
+    if len(chosen) < 4:
+        chosen = news[:8]
+    if chosen:
         out.append("<h2>Latest news</h2>")
-        out.append("<ul>" + "".join("<li>%s</li>" % _esc(h) for h in headlines)
-                   + "</ul>")
+        out.append("<p>The latest news published on FlickAtlas, "
+                   "newest first.</p>")
+        items = []
+        for _slug, entry, headline, instant in chosen:
+            line = headline
+            dek = trunc_description(plain_text(entry.get("dek")), 220)
+            if dek:
+                line += " — " + dek
+            if instant is not None:
+                line += " (Published %s.)" % human_date(
+                    instant.date().isoformat())
+            items.append("<li>%s</li>" % _esc(line))
+        out.append("<ul>" + "".join(items) + "</ul>")
+    # --- Catalogue rails, from the same published data the JS app uses.
+    titles = [entry for entry in (published or {}).values()
+              if isinstance(entry, dict) and plain_text(entry.get("title"))]
+
+    def _date_of(entry):
+        return entry.get("release_date") or entry.get("first_air_date") or ""
+
+    anchor_date = anchor.date().isoformat() if anchor is not None else ""
+    if not anchor_date:
+        dated_titles = sorted(d for d in (_date_of(e) for e in titles) if d)
+        anchor_date = dated_titles[-1] if dated_titles else ""
+    # Spotlight: Bollywood movies released in the 90 days before the
+    # anchor date (the JS freshCutoff window is 3 months), newest first.
+    # Bollywood here means all of India, as the published industry
+    # field already encodes it. Fall back to the newest released
+    # Bollywood movies when the window holds fewer than three.
+    bolly_released = sorted(
+        (e for e in titles
+         if e.get("type") == "movie" and e.get("industry") == "bollywood"
+         and _date_of(e) and (not anchor_date or _date_of(e) <= anchor_date)),
+        key=lambda e: (_date_of(e), plain_text(e.get("title"))),
+        reverse=True)
+    spotlight = []
+    if anchor_date:
+        try:
+            cutoff = (datetime.fromisoformat(anchor_date)
+                      - timedelta(days=90)).date().isoformat()
+        except ValueError:
+            cutoff = ""
+        spotlight = [e for e in bolly_released if _date_of(e) >= cutoff]
+    seen = {id(e) for e in spotlight}
+    for entry in bolly_released:
+        if len(spotlight) >= 8:
+            break
+        if id(entry) not in seen:
+            spotlight.append(entry)
+            seen.add(id(entry))
+    spotlight = spotlight[:8]
+    if spotlight:
+        out.append("<h2>Spotlight</h2>")
+        out.append("<p>Recent Bollywood and Indian-language film "
+                   "releases covered on FlickAtlas, newest first.</p>")
+        out.append("<ul>" + "".join(
+            "<li>%s</li>" % _esc(_home_title_line(e)) for e in spotlight)
+            + "</ul>")
+    # Trending titles: world spine first — at most three Bollywood
+    # titles among the first eight, matching the homepage rule that an
+    # Indian title enters the worldwide rail only on earned heat.
+    # A tiny pool keeps every title, so the block never empties.
     ranked = sorted(
-        (e for e in (published or {}).values()
-         if isinstance(e, dict) and plain_text(e.get("title"))),
+        titles,
         key=lambda e: (-_pop_score(e), -_number(e.get("vote_count")),
                        plain_text(e.get("title")), str(e.get("id"))))
-    items = []
-    for e in ranked[:5]:
-        title = plain_text(e.get("title"))
-        year = year_of(e)
-        disp = title + ((" (%s)" % year) if year else "")
-        rating = _number(e.get("vote_average"))
-        if rating:
-            disp += " — TMDB rating %.1f/10" % rating
-        items.append(disp)
-    if items:
+    trending = []
+    for entry in ranked:
+        if len(trending) >= 8:
+            break
+        if (entry.get("industry") == "bollywood"
+                and sum(1 for t in trending
+                        if t.get("industry") == "bollywood") >= 3):
+            continue
+        trending.append(entry)
+    if len(trending) < 4:
+        seen = {id(e) for e in trending}
+        for entry in ranked:
+            if len(trending) >= 8:
+                break
+            if id(entry) not in seen:
+                trending.append(entry)
+                seen.add(id(entry))
+    if trending:
         out.append("<h2>Trending titles</h2>")
-        out.append("<ul>" + "".join("<li>%s</li>" % _esc(i) for i in items)
-                   + "</ul>")
+        out.append("<p>Titles drawing attention across the FlickAtlas "
+                   "catalogue, ranked by audience interest.</p>")
+        out.append("<ul>" + "".join(
+            "<li>%s</li>" % _esc(_home_title_line(e)) for e in trending)
+            + "</ul>")
+    # Coming Soon: future-dated movies only, earliest first.
+    coming = []
+    if anchor_date:
+        coming = sorted(
+            (e for e in titles
+             if e.get("type") == "movie" and _date_of(e)
+             and _date_of(e) > anchor_date),
+            key=lambda e: (_date_of(e), plain_text(e.get("title"))))[:8]
+    if coming:
+        out.append("<h2>Coming Soon &amp; Most Awaited</h2>")
+        out.append("<p>Upcoming film releases covered on FlickAtlas, "
+                   "earliest first.</p>")
+        lines = []
+        for entry in coming:
+            line = _home_title_line(entry)
+            line += " — Coming %s." % human_date(_date_of(entry))
+            lines.append("<li>%s</li>" % _esc(line))
+        out.append("<ul>" + "".join(lines) + "</ul>")
+    # Pakistani dramas: separate from series, never on OTT.
+    dramas = sorted(
+        (e for e in titles
+         if e.get("industry") == "pakistani" and e.get("type") == "tv"),
+        key=lambda e: (_date_of(e), plain_text(e.get("title"))),
+        reverse=True)[:6]
+    if dramas:
+        out.append("<h2>Pakistani dramas</h2>")
+        out.append("<p>Pakistani drama series covered on FlickAtlas, "
+                   "newest first.</p>")
+        out.append("<ul>" + "".join(
+            "<li>%s</li>" % _esc(_home_title_line(e)) for e in dramas)
+            + "</ul>")
+    # Box office: verified worldwide totals only (USD), newest report
+    # first by amount. Anything else gets no figure here.
+    worldwide = WORLDWIDE if isinstance(WORLDWIDE, dict) else {}
+    boxoffice = []
+    for key, record in worldwide.items():
+        if not isinstance(record, dict) or record.get("scope") != "worldwide":
+            continue
+        total = _number(record.get("total_usd"))
+        if total <= 0:
+            continue
+        entry = (published or {}).get(str(key))
+        title = (plain_text(entry.get("title")) if isinstance(entry, dict)
+                 else "") or plain_text(record.get("title"))
+        if not title:
+            continue
+        boxoffice.append((total, title, plain_text(record.get("as_of"))))
+    boxoffice.sort(key=lambda item: (-item[0], item[1]))
+    boxoffice = boxoffice[:6]
+    if boxoffice:
+        out.append("<h2>Box Office</h2>")
+        out.append("<p>Verified worldwide box-office totals reported "
+                   "for covered titles. A title with no verified "
+                   "worldwide total is not given a figure here.</p>")
+        lines = []
+        for total, title, as_of in boxoffice:
+            line = "%s — worldwide total %s" % (title, fmt_money(total))
+            if as_of:
+                line += " (reported as of %s)" % human_date(as_of)
+            lines.append("<li>%s</li>" % _esc(line))
+        out.append("<ul>" + "".join(lines) + "</ul>")
     out.append("</article>")
-    return "\n".join(out) if substantive else None
+    return "\n".join(out)
 
 
 def home_meta():
@@ -1091,6 +1463,15 @@ def title_meta(entry, credits=None):
                     (WORLDWIDE or {}).get(str(entry.get("id"))), credits)
     if ssr:
         out["ssr"] = ssr
+        # Targeted noindex (2026-11-23): only the irreducibly thin
+        # tail under SSR_NOINDEX_CHARS, after all enrichment above.
+        # The Worker injects meta.robots when present (see
+        # scripts/worker.mjs injectSeo), and build_sitemap /
+        # build_sitemap_cat skip such entries. Deterministic: the
+        # flag clears itself on the next regeneration once the SSR
+        # block grows past the floor.
+        if ssr_plain_chars(ssr) < SSR_NOINDEX_CHARS:
+            out["robots"] = "noindex,follow"
     return out
 
 
@@ -1331,7 +1712,13 @@ def _valid_day_rows(rows):
     return out
 
 
-def build_sitemap(lastmods):
+def build_sitemap(lastmods, noindex_keys=None):
+    """Sitemap-main builder. Titles in ``noindex_keys`` (kind:id keys
+    whose meta carries robots=noindex,follow) are omitted: a page
+    held out of the index until it is filled must not be advertised
+    in the sitemap either. Default None keeps the offline tests'
+    one-argument call unchanged."""
+    noindex_keys = noindex_keys or set()
     urls = []
     for path, freq, prio, src in STATIC_PAGES:
         urls.append((BASE + path, lastmods.get(src, lastmods["max"]),
@@ -1339,6 +1726,8 @@ def build_sitemap(lastmods):
     for tid in sorted(PUBLISHED, key=lambda x: int(x)):
         e = PUBLISHED[tid]
         page = "show" if e.get("type") == "tv" else "movie"
+        if ("%s:%s" % (e.get("type") or "movie", tid)) in noindex_keys:
+            continue
         lm = page_lastmod(e)
         urls.append(("%s/%s?id=%s" % (BASE, page, tid), lm, "weekly",
                      "0.9" if str(tid) in DAYWISE else "0.8"))
@@ -1414,6 +1803,11 @@ def build_sitemap_cat(bucket, state=None, published=None):
     urls = []
     for key in sorted(entries, key=lambda k: int(str(k).split(":", 1)[-1])):
         if published and str(key) in published:
+            continue
+        # Targeted noindex (2026-11-23): chunk entries whose meta
+        # carries robots=noindex,follow stay out of the sitemap until
+        # a regeneration lifts the flag.
+        if isinstance(entries.get(key), dict) and entries[key].get("robots"):
             continue
         kind, _, tid = str(key).partition(":")
         page = "show" if kind == "tv" else "movie"
@@ -1601,7 +1995,9 @@ def main():
         json.dump(meta, f, ensure_ascii=False, indent=1, sort_keys=True)
         f.write("\n")
 
-    sitemap, n_urls = build_sitemap(lastmods)
+    noindex_keys = {k for k, v in meta.items()
+                    if isinstance(v, dict) and v.get("robots")}
+    sitemap, n_urls = build_sitemap(lastmods, noindex_keys)
     with open(os.path.join(ROOT, "sitemap-main.xml"), "w", encoding="utf-8") as f:
         f.write(sitemap)
     # Catalogue buckets (stage 1a): one sitemap per non-empty
