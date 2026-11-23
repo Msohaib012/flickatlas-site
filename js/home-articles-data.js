@@ -104,6 +104,183 @@ window.FA_HOME_ARTICLES = {
     "images": [],
     "published": "2026-11-23T02:52:03Z"
   },
+  "1mmin8v": {
+    "id": "1mmin8v",
+    "type": "news",
+    "headline": "O.M: Operation Mole Box Office Collection Day 3: Dhanush Starrer Crosses 50 Crore India Net",
+    "dek": "Tamil spy action thriller O.M: Operation Mole starring Dhanush and Mammootty concludes its opening weekend with strong numbers, crossing the ₹50 crore domestic net mark.",
+    "entities": {
+      "people": [
+        "Dhanush",
+        "Mammootty",
+        "Rajkumar Periasamy",
+        "Sai Pallavi",
+        "Sreeleela",
+        "Naseeruddin Shah",
+        "Indrans",
+        "Sai Abhyankkar",
+        "Ezhil Arasu K",
+        "R. Kalaivanan"
+      ],
+      "titles": [
+        "O.M: Operation Mole"
+      ]
+    },
+    "keywords": [
+      "OM Operation Mole",
+      "OM box office collection",
+      "Dhanush Mammootty movie",
+      "OM Operation Mole worldwide collection"
+    ],
+    "images": [
+      {
+        "url": "https://images.filmibeat.com/img/2026/11/om-50991795401632.jpg",
+        "caption": "O.M: Operation Mole Box Office Collection Day 3: Dhanush Starrer Crosses 50 Crore India Net",
+        "source": "FilmiBeat"
+      }
+    ],
+    "published": "Mon, 23 Nov 2026 08:11:15 +0530"
+  },
+  "19i3hay": {
+    "id": "19i3hay",
+    "type": "news",
+    "headline": "Ramayana Box Office Day 18: Reaches Rs 63 Crore In Third Weekend With Global Total Nearing Rs 1,700 Crore",
+    "dek": "Nitesh Tiwari's mythological epic Ramayana maintains its steady theatrical momentum, adding Rs 63 crore during its third weekend and drawing closer to the Rs 1,000-crore nett mark in India.",
+    "entities": {
+      "people": [
+        "Nitesh Tiwari",
+        "Ranbir Kapoor",
+        "Yash",
+        "Sai Pallavi",
+        "Ravi Dubey",
+        "Rakul Preet Singh",
+        "Lara Dutta",
+        "Arun Govil",
+        "Kajal Aggarwal",
+        "Namit Malhotra",
+        "Hans Zimmer",
+        "AR Rahman"
+      ],
+      "titles": [
+        "Ramayana",
+        "Ramayana: Part 1",
+        "Ramayana: Rise of a Legend",
+        "Ramayana: Part 2"
+      ]
+    },
+    "keywords": [
+      "Ramayana box office",
+      "Ramayana Day 18 collection",
+      "Ramayana total collection",
+      "Ranbir Kapoor Yash Ramayana"
+    ],
+    "images": [
+      {
+        "url": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202611/ramayana-box-office-day-18-233003967-16x9_0.jpg?VersionId=_K.b5MvvBILVNRjjAdu5d_rNm3LiXRW6",
+        "caption": "Ramayana Box Office Day 18: Reaches Rs 63 Crore In Third Weekend With Global Total Nearing Rs 1,700 Crore",
+        "source": "India Today — Movies"
+      }
+    ],
+    "published": "Mon, 23 Nov 2026 08:01:07 +0530"
+  },
+  "15pnzat": {
+    "id": "15pnzat",
+    "type": "news",
+    "headline": "AR Rahman Turned Down Numerous Projects to Craft Ramayana Soundtrack",
+    "dek": "Oscar-winning composer AR Rahman revealed he declined around a dozen film offers and spent three years collaborating with Hans Zimmer to develop the musical score for the mythological epic Ramayana.",
+    "entities": {
+      "people": [
+        "AR Rahman",
+        "Hans Zimmer",
+        "Namit Malhotra",
+        "Nitesh Tiwari",
+        "Arijit Singh",
+        "Shreya Ghoshal",
+        "Vishal Dadlani",
+        "A.R. Ameen",
+        "Vaishali Samant",
+        "Rakshita Suresh",
+        "Antra Nandy",
+        "Kumar Vishwas",
+        "Yash",
+        "Ranbir Kapoor",
+        "Sai Pallavi",
+        "Ravie Dubey"
+      ],
+      "titles": [
+        "Ramayana",
+        "Ramayana: Part 1",
+        "Jai Jai Ram",
+        "Ravana Tandav",
+        "Sita's Aspiration",
+        "Mangal Rang",
+        "Rama Theme"
+      ]
+    },
+    "keywords": [
+      "AR Rahman Ramayana",
+      "Ramayana movie music",
+      "AR Rahman Hans Zimmer",
+      "Ramayana film soundtrack"
+    ],
+    "images": [
+      {
+        "url": "https://www.hindustantimes.com/ht-img/img/2026/11/23/1600x900/logo/Photo_by_1795397316576_Ic63_1795397316770_xZzW_a5df94de-116e-40f0-93e4-11c821c856ca_T9Ey.jpg",
+        "caption": "AR Rahman Turned Down Numerous Projects to Craft Ramayana Soundtrack",
+        "source": "Hindustan Times — Entertainment"
+      }
+    ],
+    "published": "Mon, 23 Nov 2026 07:36:10 +0530"
+  },
+  "1gvg9g2": {
+    "id": "1gvg9g2",
+    "type": "news",
+    "headline": "Josh Brolin Narrates New Netflix World War II Docuseries Behind Enemy Lines",
+    "dek": "Actor Josh Brolin joins the creative team of World War II: Behind Enemy Lines, a new Netflix documentary focusing on the 101st Airborne division arriving on streaming platforms this December.",
+    "entities": {
+      "people": [
+        "Josh Brolin",
+        "Rob Coldstream",
+        "John Boyega",
+        "Peter Berg",
+        "Brendan Fraser",
+        "Lukas Dhont",
+        "Scott Eastwood",
+        "Tom Hanks",
+        "Denis Villeneuve",
+        "Taylor Sheridan",
+        "Darin Olien"
+      ],
+      "titles": [
+        "World War II: Behind Enemy Lines",
+        "World War II: From the Frontlines",
+        "Avengers: Endgame",
+        "The Mosquito Bowl",
+        "Pressure",
+        "Coward",
+        "Lucky Strike",
+        "World War II with Tom Hanks",
+        "Dune: Part Three",
+        "Sicario",
+        "A Speck in the Sea",
+        "A Road to Happiness"
+      ]
+    },
+    "keywords": [
+      "Josh Brolin Behind Enemy Lines",
+      "World War II Behind Enemy Lines Netflix",
+      "Josh Brolin Netflix WWII documentary",
+      "Rob Coldstream Behind Enemy Lines"
+    ],
+    "images": [
+      {
+        "url": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/06/josh-brolin.jpg?w=1600&amp;h=900&amp;fit=crop",
+        "caption": "Josh Brolin Narrates New Netflix World War II Docuseries Behind Enemy Lines",
+        "source": "Collider"
+      }
+    ],
+    "published": "Mon, 23 Nov 2026 02:00:12 GMT"
+  },
   "49mbhk": {
     "id": "49mbhk",
     "type": "news",
@@ -4448,154 +4625,6 @@ window.FA_HOME_ARTICLES = {
     "images": [],
     "published": "2026-11-21T22:19:26Z"
   },
-  "1kuu4n6": {
-    "id": "1kuu4n6",
-    "type": "news",
-    "headline": "Anuv Jain Makes Music Video Debut with Tu Keh De Toh for Call Me Bae Season 2",
-    "dek": "Popular singer-songwriter Anuv Jain has dropped his latest track Tu Keh De Toh for Prime Video series Call Me Bae Season 2, marking his first OTT collaboration and music video appearance alongside Ananya Panday.",
-    "entities": {
-      "people": [
-        "Anuv Jain",
-        "Ananya Panday",
-        "Rishab Joshi",
-        "Ishita Moitra",
-        "Collin D'Cunha",
-        "Gurfateh Pirzada",
-        "Vihaan Samat",
-        "Vir Das",
-        "Varun Sood",
-        "Muskkaan Jaferi",
-        "Niharika Lyra Dutt",
-        "Lisa Mishra",
-        "Mini Mathur",
-        "Shruti Haasan"
-      ],
-      "titles": [
-        "Call Me Bae",
-        "Tu Keh De Toh"
-      ]
-    },
-    "keywords": [
-      "Call Me Bae Season 2",
-      "Anuv Jain Tu Keh De Toh",
-      "Ananya Panday Call Me Bae",
-      "Anuv Jain music video debut"
-    ],
-    "images": [
-      {
-        "url": "https://cdn-english.zeenews.com/sites/default/files/2026/11/20/7124-anuv-jain.png",
-        "caption": "Anuv Jain Makes Music Video Debut with Tu Keh De Toh for Call Me Bae Season 2",
-        "source": "Zee News — Entertainment"
-      }
-    ],
-    "published": "2026-11-21T22:19:26Z"
-  },
-  "1azbbf9": {
-    "id": "1azbbf9",
-    "type": "news",
-    "headline": "Haq Secures Two Honors at the Dadasaheb Phalke International Film Festival Awards 2026",
-    "dek": "Yami Gautam Dhar and writer Reshu Nath bring home prestigious trophies for the courtroom drama Haq at the recent DPIFF ceremony in Mumbai.",
-    "entities": {
-      "people": [
-        "Yami Gautam Dhar",
-        "Reshu Nath",
-        "Suparn S. Varma",
-        "Emraan Hashmi",
-        "Vartika Singh",
-        "Danish Husain",
-        "Sheeba Chadha",
-        "Vineet Jain",
-        "Vishal Gurnani",
-        "Juhi Parekh Mehta",
-        "Vicky Jain",
-        "Harman Baweja"
-      ],
-      "titles": [
-        "Haq"
-      ]
-    },
-    "keywords": [
-      "Haq film",
-      "Yami Gautam Dhar Haq",
-      "Reshu Nath Haq",
-      "Dadasaheb Phalke International Film Festival Awards 2026"
-    ],
-    "images": [
-      {
-        "url": "https://images.timesnownews.com/thumb/msid-156545093,thumbsize-741348,width-1280,height-720,resizemode-75/156545093.jpg",
-        "caption": "Haq Secures Two Honors at the Dadasaheb Phalke International Film Festival Awards 2026",
-        "source": "Times Now — Entertainment"
-      }
-    ],
-    "published": "2026-11-21T21:52:17Z"
-  },
-  "tuw87f": {
-    "id": "tuw87f",
-    "type": "news",
-    "headline": "GTA VI Shatters Records With $3.79 Billion Opening Day",
-    "dek": "Grand Theft Auto VI has emerged as the biggest entertainment launch in history, surpassing both previous gaming milestones and global cinematic box office records within its first 24 hours.",
-    "entities": {
-      "people": [
-        "Mimansa Shekhar",
-        "Sam Houser",
-        "Lucia",
-        "Jason",
-        "Strauss Zelnick"
-      ],
-      "titles": [
-        "GTA VI",
-        "Avengers: Endgame",
-        "GTA V",
-        "Grand Theft Auto VI"
-      ]
-    },
-    "keywords": [
-      "GTA VI",
-      "Grand Theft Auto VI",
-      "Lucia and Jason Vise City",
-      "GTA VI Avengers Endgame box office"
-    ],
-    "images": [
-      {
-        "url": "https://images.timesnownews.com/thumb/msid-156545749,thumbsize-757451,width-1280,height-720,resizemode-75/156545749.jpg",
-        "caption": "GTA VI Shatters Records With $3.79 Billion Opening Day",
-        "source": "Times Now — Entertainment"
-      }
-    ],
-    "published": "2026-11-21T21:52:17Z"
-  },
-  "4bqedy": {
-    "id": "4bqedy",
-    "type": "news",
-    "headline": "David Fincher Discusses Directing ‘Cliff Booth’ and Editing Quentin Tarantino’s Script",
-    "dek": "After removing 60 pages from Quentin Tarantino’s original screenplay, David Fincher explains how he tightened the dialogue, expanded Elizabeth Debicki’s role, and preserved every filmed scene.",
-    "entities": {
-      "people": [
-        "David Fincher",
-        "Quentin Tarantino",
-        "Elizabeth Debicki",
-        "Jason Bateman"
-      ],
-      "titles": [
-        "The Further Mis-Adventures Of Cliff Booth",
-        "Cliff Booth"
-      ]
-    },
-    "keywords": [
-      "Cliff Booth film",
-      "David Fincher Cliff Booth",
-      "Quentin Tarantino script",
-      "Elizabeth Debicki"
-    ],
-    "images": [
-      {
-        "url": "https://cdn.theplaylist.net/wp-content/uploads/2026/11/20155440/david-fincher-CLIFF-BOOTH-Production-Notes-FINAL-9.jpg",
-        "caption": "David Fincher Discusses Directing ‘Cliff Booth’ and Editing Quentin Tarantino’s Script",
-        "source": "The Playlist"
-      }
-    ],
-    "published": "Sat, 21 Nov 2026 21:51:18 +0000"
-  },
   "1pqbmve": {
     "id": "1pqbmve",
     "type": "news",
@@ -4798,6 +4827,34 @@ window.FA_HOME_ARTICLES = {
     ],
     "published": "2026-11-21T14:45:06Z"
   },
+  "iues0i": {
+    "id": "iues0i",
+    "type": "news",
+    "headline": "Gold Price Crash Revives Wedding Season Demand As Buyers Return To Market",
+    "dek": "A steep decline in yellow metal prices has created an unexpected buying opportunity for families preparing for upcoming weddings, drawing consumers back to jewellery stores across the domestic market.",
+    "entities": {
+      "people": [
+        "Sandal Khan",
+        "Mukesh Bhai",
+        "Seema Joshi"
+      ],
+      "titles": []
+    },
+    "keywords": [
+      "Gold price crash",
+      "wedding season gold demand",
+      "Radhika Jewellers Rajkot",
+      "gold rates India 24 carat"
+    ],
+    "images": [
+      {
+        "url": "https://cdn-english.zeenews.com/sites/default/files/2026/11/20/7138-gold-9.png",
+        "caption": "Gold Price Crash Revives Wedding Season Demand As Buyers Return To Market",
+        "source": "Zee News — Entertainment"
+      }
+    ],
+    "published": "2026-11-20T21:52:22Z"
+  },
   "f4xobf": {
     "id": "f4xobf",
     "type": "news",
@@ -4999,59 +5056,6 @@ window.FA_HOME_ARTICLES = {
       }
     ],
     "published": "2026-11-20T14:45:34Z"
-  },
-  "xm093w": {
-    "id": "xm093w",
-    "type": "news",
-    "headline": "Amanda Seyfried's Playful 'Am I Too Old?' Remark Sparks Internet Buzz Around New James Bond Film",
-    "dek": "Actor Amanda Seyfried responds humorously to her absence from a speculative list of leading ladies for the upcoming James Bond film, drawing swift reactions from fans and highlighting ongoing age discussions in Hollywood casting.",
-    "entities": {
-      "people": [
-        "Amanda Seyfried",
-        "Robert Pattinson",
-        "Monica Bellucci",
-        "Sabrina Carpenter",
-        "Jimmy Fallon",
-        "Pierce Brosnan",
-        "George Lazenby",
-        "Josh O'Connor",
-        "Callum Turner",
-        "Daniel Craig",
-        "Denis Villeneuve",
-        "Steven Knight",
-        "Amy Pascal",
-        "David Heyman",
-        "Zendaya",
-        "Florence Pugh",
-        "Sydney Sweeney",
-        "Margot Robbie",
-        "Margaret Qualley",
-        "Anya Taylor-Joy"
-      ],
-      "titles": [
-        "Mean Girls",
-        "Spectre",
-        "Mamma Mia 3",
-        "Remember Me",
-        "On Her Majesty's Secret Service",
-        "No Time to Die",
-        "Skyfall"
-      ]
-    },
-    "keywords": [
-      "Amanda Seyfried James Bond",
-      "Robert Pattinson Bond girl shortlist",
-      "Amanda Seyfried Am I too old",
-      "Robert Pattinson new James Bond film"
-    ],
-    "images": [
-      {
-        "url": "https://static.toiimg.com/thumb/msid-136028264,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "caption": "Amanda Seyfried's Playful 'Am I Too Old?' Remark Sparks Internet Buzz Around New James Bond Film",
-        "source": "Times of India — Entertainment"
-      }
-    ],
-    "published": "2026-11-20T18:36:35+05:30"
   },
   "uaxxk7": {
     "id": "uaxxk7",
@@ -5389,37 +5393,5 @@ window.FA_HOME_ARTICLES = {
       }
     ],
     "published": "2026-11-17T15:00:38Z"
-  },
-  "1aj8i2i": {
-    "id": "1aj8i2i",
-    "type": "news",
-    "headline": "Tracker Season 4 Episode 7 Trailer Shows Josh Holloway’s Much-Anticipated Debut",
-    "dek": "Josh Holloway joins the cast of Tracker Season 4 as a rival tracker named Luke, setting up major friction with Justin Hartley’s Colter Shaw in the upcoming episode.",
-    "entities": {
-      "people": [
-        "Josh Holloway",
-        "Justin Hartley",
-        "Devanshi Basu"
-      ],
-      "titles": [
-        "Tracker",
-        "Lost",
-        "Yellowstone"
-      ]
-    },
-    "keywords": [
-      "Tracker Season 4 Episode 7",
-      "Josh Holloway Tracker",
-      "Justin Hartley Colter Shaw",
-      "Tracker CBS show"
-    ],
-    "images": [
-      {
-        "url": "https://www.comingsoon.net/wp-content/uploads/sites/3/2026/11/edited-image-2026-11-16T121915.420.webp?resize=1200,630",
-        "caption": "Tracker Season 4 Episode 7 Trailer Shows Josh Holloway’s Much-Anticipated Debut",
-        "source": "ComingSoon.net"
-      }
-    ],
-    "published": "Mon, 16 Nov 2026 06:50:02 +0000"
   }
 };

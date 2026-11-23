@@ -195858,10 +195858,10 @@ window.FA_ARTICLES = {
       ]
     },
     "keywords": [
-      "Ramayana box office collection",
-      "Ramayana Day 15 collection",
-      "Ranbir Kapoor Yash Ramayana",
-      "Nitesh Tiwari Ramayana earnings"
+      "Ramayana day 15 box office collection",
+      "Ramayana domestic net collection Rs 863.75 crore",
+      "Ranbir Kapoor Yash Ramayana day 15",
+      "Ramayana second Thursday collection"
     ],
     "images": [
       {
@@ -196048,10 +196048,10 @@ window.FA_ARTICLES = {
       ]
     },
     "keywords": [
-      "The Vvaan OTT release",
-      "Sidharth Malhotra The Vvaan",
-      "Tamannaah Bhatia Force of the Forest",
-      "The Vvaan Prime Video"
+      "The Vvaan OTT release date Prime Video",
+      "Sidharth Malhotra Tamannaah Bhatia The Vvaan",
+      "The Vvaan Force of the Forest Prime Video",
+      "Deepak Kumar Mishra The Vvaan"
     ],
     "images": [
       {
@@ -196238,10 +196238,10 @@ window.FA_ARTICLES = {
       ]
     },
     "keywords": [
-      "Ramayana box office Day 15",
-      "Ramayana worldwide collection",
-      "Nitesh Tiwari Ramayana ticket sales",
-      "Ranbir Kapoor Sai Pallavi Yash Ramayana"
+      "Ramayana box office day 15 Rs 1600 Crore",
+      "Ranbir Kapoor Sai Pallavi Yash Ramayana",
+      "Ramayana Nitesh Tiwari box office epic",
+      "Ramayana day 15 collection India"
     ],
     "images": [
       {
@@ -196350,11 +196350,10 @@ window.FA_ARTICLES = {
       ]
     },
     "keywords": [
-      "Lanterns physical release",
-      "Lanterns 4K Blu-ray",
-      "Lanterns HBO Max series",
-      "Lanterns season 2 renewal",
-      "Kyle Chandler Aaron Pierre Lanterns"
+      "Lanterns physical media release 2027",
+      "Lanterns Complete First Season Blu-ray",
+      "Lanterns Warner Bros Home Entertainment",
+      "Lanterns DCU series release date"
     ],
     "images": [
       {
@@ -196450,9 +196449,9 @@ window.FA_ARTICLES = {
       ]
     },
     "keywords": [
-      "Bachelor Party Deux box office",
-      "Naslen Kunchacko Boban film",
-      "Bachelor Party Deux day 1 collection",
+      "Bachelor Party Deux box office collection day 1",
+      "Naslen Kunchacko Boban Bachelor Party Deux",
+      "Bachelor Party Deux Rs 2.55 crore net",
       "Amal Neerad Bachelor Party Deux"
     ],
     "images": [
@@ -196551,10 +196550,10 @@ window.FA_ARTICLES = {
       ]
     },
     "keywords": [
-      "Vijay Antony",
-      "Meera Antony",
-      "Appa Kutty",
-      "Fatima Vijay Antony"
+      "Vijay Antony wife Fatima Appa Kutty",
+      "Vijay Antony daughter Meera passing",
+      "Vijay Antony Appa Kutty promotional event",
+      "Fatima about Vijay Antony life"
     ],
     "images": [
       {
@@ -196774,10 +196773,10 @@ window.FA_ARTICLES = {
       ]
     },
     "keywords": [
-      "Grand Theft Auto VI",
-      "GTA VI sales",
-      "Vice City",
-      "Rockstar Games"
+      "Grand Theft Auto VI launch day sales",
+      "Grand Theft Auto VI records",
+      "Grand Theft Auto VI $2.36 billion",
+      "Grand Theft Auto VI release November 19"
     ],
     "images": [
       {
@@ -196977,10 +196976,10 @@ window.FA_ARTICLES = {
       ]
     },
     "keywords": [
-      "Patrick Stewart cause of death",
-      "Sir Patrick Stewart death certificate",
-      "Patrick Stewart Alzheimer dementia",
-      "Star Trek X-Men actor Patrick Stewart"
+      "Sir Patrick Stewart cause of death",
+      "Patrick Stewart age 86 death",
+      "Patrick Stewart Alzheimer disease",
+      "Patrick Stewart official cause of death"
     ],
     "images": [
       {
@@ -197065,10 +197064,10 @@ window.FA_ARTICLES = {
       ]
     },
     "keywords": [
-      "Ramayana box office collection",
-      "Ramayana Day 15 worldwide",
-      "Ranbir Kapoor Ramayana film",
-      "Ramayana overseas collection"
+      "Ramayana worldwide box office day 15",
+      "Ranbir Kapoor Yash Ramayana overseas",
+      "Ramayana box office collection day 15",
+      "Nitesh Tiwari Ramayana box office"
     ],
     "images": [
       {
@@ -197159,10 +197158,10 @@ window.FA_ARTICLES = {
       ]
     },
     "keywords": [
-      "War finale",
-      "Sienna Miller Dominic West",
-      "George Kay War series",
-      "War season 2"
+      "Sienna Miller War final episode",
+      "Dominic West War HBO",
+      "War TV series finale",
+      "Sienna Miller Dominic West War"
     ],
     "images": [
       {
@@ -197253,11 +197252,10 @@ window.FA_ARTICLES = {
       ]
     },
     "keywords": [
-      "Avengers Doomsday",
-      "Avengers Doomsday advance booking",
-      "Robert Downey Jr",
-      "Chris Evans",
-      "Doctor Doom"
+      "Avengers Doomsday advance booking India",
+      "Avengers Doomsday pre-sales Rs 50 Crore",
+      "Avengers Doomsday release date India",
+      "Robert Downey Jr Avengers Doomsday"
     ],
     "images": [
       {
@@ -197358,10 +197356,10 @@ window.FA_ARTICLES = {
       ]
     },
     "keywords": [
-      "Darren Hayes Affirmation ARIA Awards",
-      "Savage Garden 2026 ARIAs performance",
-      "Kevin Parker ARIA Global Impact Award",
-      "Darren Hayes Savage Garden reunion awards"
+      "Darren Hayes ARIA Awards",
+      "Darren Hayes Affirmation Savage Garden",
+      "Darren Hayes 2026 ARIA Awards",
+      "Savage Garden Affirmation performance"
     ],
     "images": [
       {
@@ -197460,9 +197458,9 @@ window.FA_ARTICLES = {
     },
     "keywords": [
       "Grand Theft Auto VI voice cast",
-      "Lucia and Jason actors GTA VI",
-      "Manni L Perez Dylan Rourke GTA 6",
-      "Grand Theft Auto VI sales record"
+      "Manni L. Perez Grand Theft Auto VI",
+      "Dylan Rourke Grand Theft Auto VI",
+      "Grand Theft Auto VI box office"
     ],
     "images": [
       {
@@ -197528,8 +197526,8 @@ window.FA_ARTICLES = {
     "keywords": [
       "Dominic Zamprogna General Hospital",
       "Rebecca Herbst General Hospital",
-      "Dominic Zamprogna Rebecca Herbst",
-      "Dante Falconeri Elizabeth General Hospital"
+      "Dominic Zamprogna and Rebecca Herbst",
+      "Dante Falconeri General Hospital"
     ],
     "images": [
       {
@@ -204053,10 +204051,10 @@ window.FA_ARTICLES = {
       ]
     },
     "keywords": [
-      "Bruno Mars father",
-      "Peter Hernandez Sr.",
-      "Bruno Mars dad death",
-      "The Romantic tour"
+      "Bruno Mars father Peter Hernandez Sr",
+      "Bruno Mars Peter Hernandez Sr passed away",
+      "Peter Hernandez Sr age 74",
+      "Bruno Mars dad tribute"
     ],
     "images": [
       {
@@ -225958,5 +225956,442 @@ window.FA_ARTICLES = {
     ],
     "images": [],
     "published": "2026-11-23T02:52:03Z"
+  },
+  "19i3hay": {
+    "id": "19i3hay",
+    "type": "news",
+    "headline": "Ramayana Box Office Day 18: Reaches Rs 63 Crore In Third Weekend With Global Total Nearing Rs 1,700 Crore",
+    "dek": "Nitesh Tiwari's mythological epic Ramayana maintains its steady theatrical momentum, adding Rs 63 crore during its third weekend and drawing closer to the Rs 1,000-crore nett mark in India.",
+    "body": [
+      {
+        "h": "Third Weekend Performance",
+        "p": [
+          "The theatrical run of Nitesh Tiwari's directorial venture continues to exhibit resilience as it entered its third weekend. Despite normal cooling trends in daily ticket sales during weekdays, the feature managed to draw significant crowds over the weekend period, adding roughly Rs 63 crore to its cumulative domestic tally.",
+          "Trade trackers note that this sustained weekend growth keeps the production on a steady trajectory. It now stands on the threshold of crossing the monumental Rs 1,000-crore nett milestone within the domestic market, reflecting long-term audience engagement."
+        ]
+      },
+      {
+        "h": "Day 18 Collections And Language Breakdown",
+        "p": [
+          "On its eighteenth day in cinemas, the cinematic adaptation pulled in Rs 35.60 crore nett across a total of 16,270 screenings nationwide. The Hindi-language version remained the primary driver of these earnings, bringing in Rs 26.25 crore from 13,850 shows.",
+          "Regional versions also contributed steadily to the overall figures on the same day. The Malayalam variant accounted for Rs 3.40 crore across 869 shows, the Kannada version collected Rs 2.50 crore from 449 shows, the Tamil print earned Rs 2.40 crore from 645 shows, and the Telugu edition added Rs 1.05 crore across 457 shows."
+        ]
+      },
+      {
+        "h": "Cumulative Earnings Overview",
+        "p": [
+          "With the latest figures factored in, the total domestic nett collection for the epic reached Rs 942.75 crore by the conclusion of its eighteenth day. This brings its domestic gross to Rs 1,126.50 crore.",
+          "On the international front, overseas gross earnings stand at Rs 567 crore. Combined with domestic revenues, the worldwide gross collection has climbed to an impressive Rs 1,693.50 crore, putting the Rs 1,700-crore milestone well within reach."
+        ]
+      },
+      {
+        "h": "Record-Breaking Opening And Early Momentum",
+        "p": [
+          "The project's success was preceded by immense pre-release buzz, underscored by advance ticket sales opening fifteen days prior to its premiere on Dussehra. By the time it debuted on November 5, 2026, it had already generated worldwide advance bookings valued at around Rs 200 crore.",
+          "Upon release, it opened to Rs 64.85 crore nett in India, marking the fourth-largest opening day in the history of Bollywood. Strong weekday numbers followed, including Rs 107 crore nett on Monday and Rs 94 crore nett on Tuesday, helping the film easily surpass the Rs 500-crore mark by the end of its first week."
+        ]
+      },
+      {
+        "h": "Cast And Creative Team",
+        "p": [
+          "Helmed by director Nitesh Tiwari, the feature is structured as a two-part cinematic adaptation of the traditional Indian epic. The principal cast features Ranbir Kapoor in the role of Lord Rama, Sai Pallavi as Goddess Sita, and Yash portraying Ravana.",
+          "The ensemble further features Ravi Dubey as Lakshman, Rakul Preet Singh as Surpanakha, Lara Dutta as Queen Kaikeyi, Arun Govil as King Dashrath, and Kajal Aggarwal as Mandodari. The production is backed by Namit Malhotra and Yash under Prime Focus Studios and Monster Mind Creations, featuring visual effects by DNEG and ReDefine, along with an original score by Hans Zimmer and AR Rahman."
+        ]
+      },
+      {
+        "h": "Future Releases",
+        "p": [
+          "The first part of the project launched globally as Ramayana: Part 1, also known internationally as Ramayana: Rise of a Legend. Its theatrical run has capitalized heavily on both festive timing and a multi-language rollout.",
+          "Alongside the ongoing box-office run of the first instalment, the creative team has confirmed updates regarding the sequel. Ramayana: Part 2 is officially slated to arrive in theatres during Diwali 2028."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Ramayana added Rs 63 crore during its third weekend, bringing its total India nett collection to Rs 942.75 crore and global gross to Rs 1,693.50 crore on Day 18. Directed by Nitesh Tiwari and starring Ranbir Kapoor, Yash, and Sai Pallavi, the mythological epic continues its strong theatrical run across multiple languages as it nears the Rs 1,700-crore worldwide milestone."
+        ]
+      }
+    ],
+    "facts": [
+      "Ramayana added around Rs 63 crore in its third weekend.",
+      "On Day 18, Ramayana collected Rs 35.60 crore nett in India across 16,270 shows.",
+      "The Hindi version earned Rs 26.25 crore from 13,850 shows on Day 18.",
+      "The Malayalam version collected Rs 3.40 crore across 869 shows on Day 18.",
+      "The Kannada version brought in Rs 2.50 crore from 449 shows on Day 18.",
+      "The Tamil version added Rs 2.40 crore from 645 shows on Day 18.",
+      "The Telugu version contributed Rs 1.05 crore across 457 shows on Day 18.",
+      "Total India nett collection stood at Rs 942.75 crore at the end of Day 18.",
+      "Total India gross collection reached Rs 1,126.50 crore.",
+      "Overseas gross collection stands at Rs 567.00 crore.",
+      "Worldwide gross collection reached Rs 1,693.50 crore.",
+      "Week 1 India nett was 564.60 crore and gross was 675.05 crore.",
+      "Week 2 India nett was 299.15 crore and gross was 357.10 crore.",
+      "Day 16 (Friday) India nett was 15.75 crore and gross was 18.80 crore.",
+      "Day 17 (Saturday) India nett was 27.40 crore and gross was 32.75 crore.",
+      "Day 18 (Sunday) India nett was 35.60 crore and gross was 42.50 crore.",
+      "Advance bookings opened on Dussehra, 15 days ahead of its November 5 release.",
+      "The film sold tickets worth Rs 200 crore worldwide in advance bookings.",
+      "Opening day collection in India was Rs 64.85 crore nett.",
+      "Ramayana: Part 1 released on November 5, 2026.",
+      "Ramayana: Part 2 will release during Diwali 2028."
+    ],
+    "entities": {
+      "people": [
+        "Nitesh Tiwari",
+        "Ranbir Kapoor",
+        "Yash",
+        "Sai Pallavi",
+        "Ravi Dubey",
+        "Rakul Preet Singh",
+        "Lara Dutta",
+        "Arun Govil",
+        "Kajal Aggarwal",
+        "Namit Malhotra",
+        "Hans Zimmer",
+        "AR Rahman"
+      ],
+      "titles": [
+        "Ramayana",
+        "Ramayana: Part 1",
+        "Ramayana: Rise of a Legend",
+        "Ramayana: Part 2"
+      ]
+    },
+    "keywords": [
+      "Ramayana box office",
+      "Ramayana Day 18 collection",
+      "Ramayana total collection",
+      "Ranbir Kapoor Yash Ramayana"
+    ],
+    "images": [
+      {
+        "url": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202611/ramayana-box-office-day-18-233003967-16x9_0.jpg?VersionId=_K.b5MvvBILVNRjjAdu5d_rNm3LiXRW6",
+        "caption": "Ramayana Box Office Day 18: Reaches Rs 63 Crore In Third Weekend With Global Total Nearing Rs 1,700 Crore",
+        "source": "India Today — Movies"
+      }
+    ],
+    "published": "Mon, 23 Nov 2026 08:01:07 +0530"
+  },
+  "1mmin8v": {
+    "id": "1mmin8v",
+    "type": "news",
+    "headline": "O.M: Operation Mole Box Office Collection Day 3: Dhanush Starrer Crosses 50 Crore India Net",
+    "dek": "Tamil spy action thriller O.M: Operation Mole starring Dhanush and Mammootty concludes its opening weekend with strong numbers, crossing the ₹50 crore domestic net mark.",
+    "body": [
+      {
+        "h": "Opening Weekend Performance",
+        "p": [
+          "The Tamil spy action thriller O.M: Operation Mole has recorded a steady performance throughout its opening weekend in cinemas. Arriving on the big screen on November 20, the film successfully pushed its domestic net total past the ₹50 crore milestone by the end of Sunday, November 22. According to data provided by box office tracking website Sacnilk, the feature maintained solid momentum across international territories as well, driving its cumulative worldwide gross earnings past the ₹85 crore threshold.",
+          "The theatrical run kicked off with an opening day net collection of ₹18.10 crore in India on Friday. While Saturday experienced a modest 10.2% decline with earnings dropping to an estimated ₹16.25 crore, Sunday saw a much softer drop of only 2.2% against the previous day, securing another ₹15.90 crore net and bringing the opening weekend domestic net total to ₹50.25 crore alongside an India gross of ₹58.30 crore."
+        ]
+      },
+      {
+        "h": "Language-Wise Sunday Breakdown",
+        "p": [
+          "On Sunday, the Tamil language version drove the bulk of the domestic revenue, generating ₹11.55 crore net across 3,782 shows with an average occupancy of 52.1%. The Telugu version added a robust ₹3.80 crore net from 1,658 shows, maintaining a 45.1% occupancy rate. Meanwhile, the Hindi version brought in approximately ₹55 lakh from 1,106 shows with a 20% occupancy.",
+          "Ticket sales data from Sacnilk estimates that approximately 12.39 lakh tickets were purchased by audiences on Sunday alone. This single-day tally pushed the total ticket sales for the film's three-day theatrical run to nearly 38.88 lakh admissions across the country."
+        ]
+      },
+      {
+        "h": "Global Gross Earnings",
+        "p": [
+          "Beyond domestic borders, the feature sustained healthy traction in international markets. Sacnilk reports that the overseas territories contributed an estimated ₹5 crore gross on the third day of release. This brought the cumulative international gross collection to a total of ₹27 crore.",
+          "When combining the domestic figures and the overseas earnings, the worldwide gross collection for the spy thriller stands at an estimated ₹85.30 crore following its initial three days in theaters."
+        ]
+      },
+      {
+        "h": "Upcoming Weekday Test",
+        "p": [
+          "With the opening weekend concluded, the project faces its next major evaluation as Monday, November 23 marks Day 4 of its theatrical engagement. The way the title sustains its numbers during the weekdays will serve as a crucial indicator of its staying power at the box office.",
+          "Industry analysts will be closely monitoring the weekday drops to see if the momentum built over the first three days can translate into a stable theatrical run over the coming weeks."
+        ]
+      },
+      {
+        "h": "Cast and Crew Details",
+        "p": [
+          "Written and directed by Rajkumar Periasamy, O.M: Operation Mole is backed by production banners Wunderbar Films and RTake Studios. The narrative features Dhanush heading the cast in the lead role, supported by notable performances from Mammootty, Sai Pallavi, Sreeleela, Naseeruddin Shah, and Indrans.",
+          "The creative technical team comprises Sai Abhyankkar as the music composer, Ezhil Arasu K handling cinematography duties, and R. Kalaivanan serving as the editor for the Tamil spy action thriller."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "O.M: Operation Mole concluded its opening weekend by crossing the ₹50 crore domestic net milestone in India and pushing its worldwide gross past ₹85 crore. The film, starring Dhanush and Mammootty, achieved these figures across its Tamil, Telugu, and Hindi versions following its November 20 release."
+        ]
+      }
+    ],
+    "facts": [
+      "Release date: November 20",
+      "Day 3 date: November 22",
+      "Day 3 India net collection: ₹15.90 crore",
+      "Three-day domestic net total: ₹50.25 crore",
+      "Three-day India gross: ₹58.30 crore",
+      "Day 1 India net collection: ₹18.10 crore",
+      "Day 2 India net collection: ₹16.25 crore",
+      "Tamil version Day 3 collection: ₹11.55 crore",
+      "Telugu version Day 3 collection: ₹3.80 crore",
+      "Hindi version Day 3 collection: ₹55 lakh",
+      "Total ticket sales over three days: nearly 38.88 lakh",
+      "Overseas Day 3 gross collection: ₹5 crore",
+      "Cumulative overseas gross collection: ₹27 crore",
+      "Worldwide gross collection after three days: ₹85.30 crore",
+      "Day 4 date: Monday, November 23",
+      "Director: Rajkumar Periasamy",
+      "Producers: Wunderbar Films and RTake Studios",
+      "Cast members: Dhanush, Mammootty, Sai Pallavi, Sreeleela, Naseeruddin Shah, Indrans",
+      "Music composer: Sai Abhyankkar",
+      "Cinematographer: Ezhil Arasu K",
+      "Editor: R. Kalaivanan"
+    ],
+    "entities": {
+      "people": [
+        "Dhanush",
+        "Mammootty",
+        "Rajkumar Periasamy",
+        "Sai Pallavi",
+        "Sreeleela",
+        "Naseeruddin Shah",
+        "Indrans",
+        "Sai Abhyankkar",
+        "Ezhil Arasu K",
+        "R. Kalaivanan"
+      ],
+      "titles": [
+        "O.M: Operation Mole"
+      ]
+    },
+    "keywords": [
+      "OM Operation Mole",
+      "OM box office collection",
+      "Dhanush Mammootty movie",
+      "OM Operation Mole worldwide collection"
+    ],
+    "images": [
+      {
+        "url": "https://images.filmibeat.com/img/2026/11/om-50991795401632.jpg",
+        "caption": "O.M: Operation Mole Box Office Collection Day 3: Dhanush Starrer Crosses 50 Crore India Net",
+        "source": "FilmiBeat"
+      }
+    ],
+    "published": "Mon, 23 Nov 2026 08:11:15 +0530"
+  },
+  "1gvg9g2": {
+    "id": "1gvg9g2",
+    "type": "news",
+    "headline": "Josh Brolin Narrates New Netflix World War II Docuseries Behind Enemy Lines",
+    "dek": "Actor Josh Brolin joins the creative team of World War II: Behind Enemy Lines, a new Netflix documentary focusing on the 101st Airborne division arriving on streaming platforms this December.",
+    "body": [
+      {
+        "h": "Introduction to the New Netflix Docuseries",
+        "p": [
+          "Audiences have maintained a persistent fascination with the twentieth century's global conflicts, prompting media companies to continually produce new historical films, series, and documentaries. Netflix is adding to this vast catalog with a brand new project titled World War II: Behind Enemy Lines.",
+          "The upcoming documentary series shifts its narrative lens away from standard historical overviews, choosing instead to focus tightly on the daring missions undertaken by the 101st Airborne division within Nazi-occupied territory."
+        ]
+      },
+      {
+        "h": "Josh Brolin Steps Into the Narrator Booth",
+        "p": [
+          "Renowned Hollywood actor Josh Brolin, widely recognized for his prominent roles in major cinematic franchises including Avengers: Endgame, takes on a pivotal off-screen role for this project.",
+          "Brolin serves as the voice of the documentary, lending his distinctive narration style to guide viewers through the harrowing missions, strategic triumphs, and personal stakes faced by soldiers on the ground."
+        ]
+      },
+      {
+        "h": "Creative Lineage and Production Style",
+        "p": [
+          "The new show shares creative roots with an earlier Netflix historical hit, World War II: From the Frontlines. That previous six-part venture successfully captured critical acclaim, securing two News Documentary Emmy Awards in 2024 for its graphic design and musical composition.",
+          "Following in the footsteps of its predecessor, Behind Enemy Lines utilizes the same immersive format. It combines carefully restored and colorized archival media with previously unseen historical footage to recreate the atmosphere of the era."
+        ]
+      },
+      {
+        "h": "Director Rob Coldstream Returns",
+        "p": [
+          "Filmmaker Rob Coldstream steps back into the director's chair for this latest historical exploration, ensuring aesthetic and narrative continuity with the previous Emmy-winning series.",
+          "Coldstream's direction relies heavily on first-hand accounts and authentic documentation, tracing the broad timeline of the conflict from the initial D-Day landings all the way through to VE-Day."
+        ]
+      },
+      {
+        "h": "Official Streaming Release Date",
+        "p": [
+          "Fans eager to experience the new historical docuseries will not have to wait much longer, as Netflix has locked in an official release schedule for early December.",
+          "World War II: Behind Enemy Lines is scheduled to officially drop on the streaming platform on December 2, making it available for global audiences to stream."
+        ]
+      },
+      {
+        "h": "Broader Historical Media Landscape",
+        "p": [
+          "The arrival of Behind Enemy Lines coincides with a heavy wave of World War II-themed content distributed across various networks and streaming services throughout the year.",
+          "Recent titles capturing viewer attention range from Peter Berg's thriller The Mosquito Bowl and Brendan Fraser's Pressure to Lukas Dhont's Coward, Scott Eastwood's Lucky Strike, and Tom Hanks' documentary work."
+        ]
+      },
+      {
+        "h": "Looking Ahead at Josh Brolin's Schedule",
+        "p": [
+          "Beyond his narration duties for the Netflix documentary, Josh Brolin maintains one of the busiest production schedules in the entertainment industry with several major titles lined up.",
+          "His upcoming slate includes reprising his role as Gurney Halleck in Denis Villeneuve's sci-fi epic Dune: Part Three, returning as Matt Graves for Taylor Sheridan's Sicario threequel, starring in A Speck in the Sea, and appearing in the documentary A Road to Happiness."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Actor Josh Brolin is set to narrate World War II: Behind Enemy Lines, a new documentary series focusing on the 101st Airborne division's missions inside Nazi-occupied Europe. Directed by Rob Coldstream and created by the team behind From the Frontlines, the show arrives on Netflix on December 2."
+        ]
+      }
+    ],
+    "facts": [
+      "World War II: Behind Enemy Lines releases on Netflix on December 2.",
+      "Josh Brolin narrates the series.",
+      "Rob Coldstream directs the documentary.",
+      "The series focuses on the 101st Airborne's missions from D-Day to VE-Day.",
+      "World War II: From the Frontlines won two 2024 News Documentary Emmy Awards."
+    ],
+    "entities": {
+      "people": [
+        "Josh Brolin",
+        "Rob Coldstream",
+        "John Boyega",
+        "Peter Berg",
+        "Brendan Fraser",
+        "Lukas Dhont",
+        "Scott Eastwood",
+        "Tom Hanks",
+        "Denis Villeneuve",
+        "Taylor Sheridan",
+        "Darin Olien"
+      ],
+      "titles": [
+        "World War II: Behind Enemy Lines",
+        "World War II: From the Frontlines",
+        "Avengers: Endgame",
+        "The Mosquito Bowl",
+        "Pressure",
+        "Coward",
+        "Lucky Strike",
+        "World War II with Tom Hanks",
+        "Dune: Part Three",
+        "Sicario",
+        "A Speck in the Sea",
+        "A Road to Happiness"
+      ]
+    },
+    "keywords": [
+      "Josh Brolin Behind Enemy Lines",
+      "World War II Behind Enemy Lines Netflix",
+      "Josh Brolin Netflix WWII documentary",
+      "Rob Coldstream Behind Enemy Lines"
+    ],
+    "images": [
+      {
+        "url": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/06/josh-brolin.jpg?w=1600&amp;h=900&amp;fit=crop",
+        "caption": "Josh Brolin Narrates New Netflix World War II Docuseries Behind Enemy Lines",
+        "source": "Collider"
+      }
+    ],
+    "published": "Mon, 23 Nov 2026 02:00:12 GMT"
+  },
+  "15pnzat": {
+    "id": "15pnzat",
+    "type": "news",
+    "headline": "AR Rahman Turned Down Numerous Projects to Craft Ramayana Soundtrack",
+    "dek": "Oscar-winning composer AR Rahman revealed he declined around a dozen film offers and spent three years collaborating with Hans Zimmer to develop the musical score for the mythological epic Ramayana.",
+    "body": [
+      {
+        "h": "Dedication to an Epic Scale",
+        "p": [
+          "Oscar-winning music director AR Rahman recently shared details about his extensive creative journey while working on the soundtrack for the mythological epic Ramayana. Speaking at the International Film Festival of India, the celebrated composer explained how deeply he immersed himself in the project, which required a significant investment of his time and focus.",
+          "The sheer magnitude of the production meant that conventional timelines did not apply. Rahman noted that the rigorous development period allowed him and his team to refine the musical themes thoroughly, ensuring they matched the grandiose vision of the cinematic duology."
+        ]
+      },
+      {
+        "h": "Turning Down Major Filmmakers",
+        "p": [
+          "To maintain complete creative immersion in the project, Rahman made the deliberate choice to step away from several other lucrative opportunities. He revealed that he declined ten to twelve different film projects offered by prominent directors in order to remain entirely within the appropriate artistic zone.",
+          "Reflecting on these decisions, the composer expressed a sense of pride in prioritizing quality over quantity. He emphasized that he only accepts assignments that genuinely stimulate his artistic sensibility and excite his entire creative team."
+        ]
+      },
+      {
+        "h": "Collaborations and Iterative Process",
+        "p": [
+          "The composition process for Ramayana involved extensive revisions and a partnership with fellow legendary composer Hans Zimmer. Rahman highlighted the meticulous nature of their work, pointing out that certain tracks underwent dozens of experimental iterations before achieving the desired impact.",
+          "As an example, he mentioned that the piece titled Ravana Tandav went through twelve to thirteen distinct versions before the creators finally settled on the arrangement that satisfied everyone involved in the production."
+        ]
+      },
+      {
+        "h": "Soundtrack Components and Notable Tracks",
+        "p": [
+          "The soundtrack for Ramayana: Part 1 features a diverse array of tracks and vocal talents. Songs such as Jai Jai Ram include vocals by Arijit Singh and Shreya Ghoshal, while Ravana Tandav showcases the singing of Vishal Dadlani. Additionally, Sita's Aspiration features contributions from artists including A.R. Ameen, Vaishali Samant, Rakshita Suresh, and Antra Nandy, with all lyrics written by poet Kumar Vishwas.",
+          "Beyond these vocal numbers, the album incorporates an orchestral version of Jai Jai Ram and a dedicated Rama Theme that was jointly crafted by Rahman and Zimmer."
+        ]
+      },
+      {
+        "h": "Critical Reception and Public Debate",
+        "p": [
+          "Despite the high anticipation surrounding the collaboration between two world-renowned composers, the music of Ramayana has encountered its share of critique from listeners. Certain tracks sparked considerable debate on social media platforms shortly after their public release.",
+          "Specifically, questions were raised regarding whether the compositions fully matched public expectations for the ambitious project. Ravana Tandav faced scrutiny from some users who felt it lacked traditional intensity, while another track named Mangal Rang drew discussion over its distinct qawwali elements."
+        ]
+      },
+      {
+        "h": "Production Background and Cast",
+        "p": [
+          "Directed by Nitesh Tiwari and produced by Namit Malhotra alongside Yash, the mythological film is mounted on a massive budget reported at four thousand crore rupees. The high-profile cast features Ranbir Kapoor portraying Lord Rama, Yash as Ravana, Sai Pallavi as Sita, and Ravie Dubey as Lakshman.",
+          "The first installment of the epic has enjoyed a strong commercial run, achieving significant box office milestones with over nine hundred and twenty crore rupees net domestically and nearly seventeen hundred crore rupees gross worldwide."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "AR Rahman revealed that he declined ten to twelve film offers from major directors and spent three years developing the music for Ramayana alongside Hans Zimmer. The extensive creative process involved numerous revisions for tracks like Ravana Tandav, which accompanied the film's massive box office run and generated widespread public discussion."
+        ]
+      }
+    ],
+    "facts": [
+      "AR Rahman turned down 10-12 film projects to work on Ramayana.",
+      "The music for Ramayana was developed over three years.",
+      "Ramayana: Part 1 features tracks like Jai Jai Ram, Ravana Tandav, and Sita's Aspiration.",
+      "The film's budget is reported at ₹ 4,000 crore.",
+      "Ranbir Kapoor stars as Lord Rama and Yash stars as Ravana."
+    ],
+    "entities": {
+      "people": [
+        "AR Rahman",
+        "Hans Zimmer",
+        "Namit Malhotra",
+        "Nitesh Tiwari",
+        "Arijit Singh",
+        "Shreya Ghoshal",
+        "Vishal Dadlani",
+        "A.R. Ameen",
+        "Vaishali Samant",
+        "Rakshita Suresh",
+        "Antra Nandy",
+        "Kumar Vishwas",
+        "Yash",
+        "Ranbir Kapoor",
+        "Sai Pallavi",
+        "Ravie Dubey"
+      ],
+      "titles": [
+        "Ramayana",
+        "Ramayana: Part 1",
+        "Jai Jai Ram",
+        "Ravana Tandav",
+        "Sita's Aspiration",
+        "Mangal Rang",
+        "Rama Theme"
+      ]
+    },
+    "keywords": [
+      "AR Rahman Ramayana",
+      "Ramayana movie music",
+      "AR Rahman Hans Zimmer",
+      "Ramayana film soundtrack"
+    ],
+    "images": [
+      {
+        "url": "https://www.hindustantimes.com/ht-img/img/2026/11/23/1600x900/logo/Photo_by_1795397316576_Ic63_1795397316770_xZzW_a5df94de-116e-40f0-93e4-11c821c856ca_T9Ey.jpg",
+        "caption": "AR Rahman Turned Down Numerous Projects to Craft Ramayana Soundtrack",
+        "source": "Hindustan Times — Entertainment"
+      }
+    ],
+    "published": "Mon, 23 Nov 2026 07:36:10 +0530"
   }
 };
