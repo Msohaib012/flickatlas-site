@@ -226393,5 +226393,417 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Mon, 23 Nov 2026 07:36:10 +0530"
+  },
+  "o00y01": {
+    "id": "o00y01",
+    "type": "news",
+    "headline": "Ramayana Part 2: Namit Malhotra Likens Sunny Deol's Hanuman to Iron Man and Teases Sequel Scale",
+    "dek": "Producer Namit Malhotra discusses how Sunny Deol's character will spearhead the upcoming sequel in the epic cinematic saga.",
+    "body": [
+      {
+        "h": "Introduction to the Sequel",
+        "p": [
+          "The creative team behind the ambitious mythological adaptation has begun pulling back the curtain on what audiences can expect from the upcoming sequel. Producer Namit Malhotra recently offered a glimpse into the narrative direction of the second installment, highlighting the pivotal entry of a major character. With anticipation building following the conclusion of the initial chapter, the makers are promising a substantial elevation in scope and storytelling momentum.",
+          "The first film, which reached international audiences under a different title, established a dramatic foundation before concluding on a cliffhanger. That initial chapter left viewers on the edge of their seats after a critical narrative turn involving the abduction of Sita by Ravana. Consequently, the upcoming release is positioned to address this tense standoff by bringing new mythological forces into the central conflict."
+        ]
+      },
+      {
+        "h": "The Iron Man Comparison",
+        "p": [
+          "In a recent media interaction, Malhotra drew a direct parallel between the revered figure of Hanuman and Marvel's popular superhero Iron Man. Describing the character as a distinct fan favorite, the producer emphasized his role as the most beloved persona within the entire epic. By holding back a full introduction until a strategic moment, the filmmakers aimed to preserve a sense of suspense regarding the rescue mission.",
+          "According to the production team, the inclusion of this character will act as a driving force for the narrative arc of the next movie. The comparison to a cinematic superhero underscores the scale and mass appeal the creators are striving for. Audiences are told to expect an exhilarating cinematic ride as the narrative shifts focus toward this powerful ally."
+        ]
+      },
+      {
+        "h": "Casting Sunny Deol",
+        "p": [
+          "Director Nitesh Tiwari and producer Malhotra carefully evaluated the casting requirements for a role of this magnitude. Traditionally portrayed by prominent actors, the character demanded a delicate balance of innocence and immense power. The creators noted that while the persona must appear thoroughly likeable, he also possesses the raw force to shake mountains when provoked.",
+          "Choosing the veteran actor was seen as a natural fit to bring these contrasting traits to life on screen. Malhotra pointed out that the star has long been celebrated as a homegrown action hero by audiences even without donning traditional cape-and-cowl superhero costumes. This reputation made him an ideal choice to anchor an immortal entity in such a grand production."
+        ]
+      },
+      {
+        "h": "Expanding the Narrative Scope",
+        "p": [
+          "The introduction of this legendary warrior is slated to occur alongside Lord Rama, played by Ranbir Kapoor, marking a major turning point for the overarching saga. Creators indicate that the upcoming chapter will venture into entirely new territory concerning the breadth and execution of the plot. In many ways, the true essence of the traditional epic is said to truly ignite with these upcoming sequences.",
+          "Building upon the suspense left by the mid-credits tease of the first installment, the sequel promises high-stakes action. The narrative will trace the journey of uniting forces to reclaim Sita from Lanka, setting the stage for a grand confrontation. Fans who analyzed the initial teaser sequence can now look forward to seeing how these narrative threads converge."
+        ]
+      },
+      {
+        "h": "Production Scale and Financials",
+        "p": [
+          "The broader cinematic project stands as one of the most financially extensive endeavors in the history of Indian cinema. Reports indicate that both parts of the production were collectively mounted on an estimated budget of Rs 4,000 crore, reflecting the massive logistical requirements of the venture. This high level of investment matches the grand visual aspirations held by the director and producer.",
+          "The commercial performance of the first chapter has also drawn considerable attention from trade analysts and moviegoers alike. Currently running in its third week in cinemas, the feature has managed to cross significant financial milestones globally. Such box office achievements highlight the immense public interest surrounding the cinematic adaptation."
+        ]
+      },
+      {
+        "h": "Global and Domestic Reach",
+        "p": [
+          "The cinematic adaptation reached global audiences under the international title Rise of the Legend alongside its domestic release. This dual-market strategy helped drive viewership across multiple territories from the very beginning of its theatrical run. The strategic rollout contributed to strong opening figures and sustained momentum through subsequent weeks.",
+          "Domestically, the movie crossed the Rs 900 crore threshold, while its worldwide gross surpassed the Rs 1,600 crore mark. These figures cement the project's status as a major commercial success during its current theatrical window. The strong financial footing provides a solid backing for the ambitious plans set for the forthcoming sequel."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Producer Namit Malhotra has compared Sunny Deol's Hanuman to Iron Man and confirmed the character will lead the charge in Ramayana Part 2. The sequel follows the cliffhanger ending of the first film, which was made on a budget of Rs 4,000 crore and has grossed over Rs 1,600 crore worldwide."
+        ]
+      }
+    ],
+    "facts": [
+      "Producer Namit Malhotra compared Sunny Deol's Hanuman to Iron Man.",
+      "Ramayana Part 1 released internationally as Rise of the Legend on November 5, 2026.",
+      "The first film ends on a cliffhanger after Sai Pallavi's Sita is captured by Yash's Ravana.",
+      "Ranbir Kapoor plays Lord Rama in the films.",
+      "Both Parts 1 and 2 are made on a budget of Rs 4,000 crore.",
+      "Ramayana has earned more than Rs 900 crore domestically and grossed over Rs 1,600 crore worldwide."
+    ],
+    "entities": {
+      "people": [
+        "Namit Malhotra",
+        "Sunny Deol",
+        "Sai Pallavi",
+        "Yash",
+        "Ranbir Kapoor",
+        "Nitesh Tiwari"
+      ],
+      "titles": [
+        "Ramayana Part 2",
+        "Ramayana Part 1",
+        "Rise of the Legend"
+      ]
+    },
+    "keywords": [
+      "Namit Malhotra Ramayana Part 2",
+      "Sunny Deol Hanuman Iron Man",
+      "Ramayana Part 1 box office",
+      "Nitesh Tiwari Ramayana sequel"
+    ],
+    "images": [
+      {
+        "url": "https://images.timesnownews.com/thumb/msid-156551049,thumbsize-789788,width-1280,height-720,resizemode-75/156551049.jpg",
+        "caption": "Ramayana Part 2: Namit Malhotra Likens Sunny Deol's Hanuman to Iron Man and Teases Sequel Scale",
+        "source": "Times Now — Entertainment"
+      }
+    ],
+    "published": "2026-11-23T04:52:27Z"
+  },
+  "16r0hxr": {
+    "id": "16r0hxr",
+    "type": "news",
+    "headline": "Aashram Season 4 Wraps Up Filming With A Star-Studded Celebration",
+    "dek": "Prakash Jha, Bobby Deol, and the entire ensemble cast of Ek Badnaam... Aashram mark the conclusion of production on the fourth season with a grand wrap party.",
+    "body": [
+      {
+        "h": "Production Concludes For Season 4",
+        "p": [
+          "The wait for audiences anticipating the continuation of Ek Badnaam... Aashram is finally drawing closer to a resolution. Production has officially wrapped for the fourth season of the hit streaming show. To celebrate the completion of filming, the main cast and production crew gathered together for a special wrap party.",
+          "Director and producer Prakash Jha took to social media prior to the event to share his excitement. He posted a behind-the-scenes photograph alongside the lead actor, highlighting the dedication, teamwork, and strong passion that went into capturing every frame of the upcoming installment."
+        ]
+      },
+      {
+        "h": "Red Carpet Appearances By The Cast And Crew",
+        "p": [
+          "The wrap festivities brought out many familiar faces from the series. Creator Prakash Jha and lead star Bobby Deol were joined by supporting cast members Akshay Oberoi and Tridha Choudhury. The team happily posed for the paparazzi on the red carpet, showing a relaxed and celebratory mood now that filming has finished.",
+          "Other notable names spotted at the November gathering included Nitu Chandra Srivastava. The entire ensemble took a well-deserved break from their demanding schedules to unwind and commemorate the end of this extensive shooting block."
+        ]
+      },
+      {
+        "h": "Plot Background And Season 3 Cliffhangers",
+        "p": [
+          "The popular drama series centers around Bobby Deol's portrayal of Baba Nirala, a cunning and power-hungry spiritual leader. The narrative took a dramatic turn in Season 3 when the controversial godman was finally hauled off to prison.",
+          "Following his imprisonment, a vengeful Pammi, played by Aaditi Pohankar, plots with the leader's right-hand man Bhopa Swami, portrayed by Chandan Roy Sanyal. Their objective is to seize control of the vast empire left behind in his absence."
+        ]
+      },
+      {
+        "h": "The Extended Ensemble Cast",
+        "p": [
+          "Alongside the primary leads, the fourth season features a robust supporting cast. Viewers can expect performances from Parinitaa Seth, Sachin Shroff, Chaitannya Choudhry, and Pankhuri Gidwani.",
+          "Rounding out the extensive roster are actors Preeti, Armaan Parikh, Tanmaay, Disha Jha, and Madhvi Bhatt, all returning to bring depth to the gritty fictional universe."
+        ]
+      },
+      {
+        "h": "Bobby Deol's Journey With The Series",
+        "p": [
+          "Ek Badnaam... Aashram initially launched in August 2020, serving as Bobby Deol's formal debut in the OTT space. His portrayal of the antagonist Baba Nirala sparked a major resurgence in his career, subsequently leading to roles in projects like Love Hostel and Animal.",
+          "The show quickly established itself as a cult favorite on MX Player. Following its second season in 2020 and a third season rollout split into parts ending in February 2025, fans have eagerly tracked every development regarding the fourth chapter."
+        ]
+      },
+      {
+        "h": "Expected Premiere And Future Outlook",
+        "p": [
+          "With filming officially complete, the cult drama series is widely anticipated to premiere on Amazon MX Player sometime next year in 2027.",
+          "The wrap party signifies that post-production is now the primary focus for the makers, bringing the gritty crime drama one step closer to home screens."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "The cast and crew of Ek Badnaam... Aashram, including star Bobby Deol and director Prakash Jha, recently celebrated the official wrapping of Season 4 with a wrap party. The popular MX Player drama series is expected to return to screens in 2027, picking up the story following the imprisonment of the fraudulent godman Baba Nirala."
+        ]
+      }
+    ],
+    "facts": [
+      "Filming wrapped on Ek Badnaam... Aashram Season 4 on November 22, 2026.",
+      "The series streams on Amazon MX Player.",
+      "Prakash Jha is the writer, director, and producer of the show.",
+      "Bobby Deol stars as the antagonist godman Baba Nirala.",
+      "Other attending cast members included Akshay Oberoi, Tridha Choudhury, and Nitu Chandra Srivastava.",
+      "The series is expected to premiere in 2027."
+    ],
+    "entities": {
+      "people": [
+        "Bobby Deol",
+        "Prakash Jha",
+        "Akshay Oberoi",
+        "Tridha Choudhury",
+        "Nitu Chandra Srivastava",
+        "Aaditi Pohankar",
+        "Chandan Roy Sanyal",
+        "Parinitaa Seth",
+        "Sachin Shroff",
+        "Chaitannya Choudhry",
+        "Pankhuri Gidwani",
+        "Preeti",
+        "Armaan Parikh",
+        "Tanmaay",
+        "Disha Jha",
+        "Madhvi Bhatt"
+      ],
+      "titles": [
+        "Ek Badnaam... Aashram",
+        "Love Hostel",
+        "Animal",
+        "Alpha",
+        "Bandar",
+        "Jana Nayagan"
+      ]
+    },
+    "keywords": [
+      "Aashram Season 4",
+      "Bobby Deol Aashram",
+      "Prakash Jha Ek Badnaam Aashram",
+      "MX Player web series"
+    ],
+    "images": [
+      {
+        "url": "https://images.timesnownews.com/thumb/msid-156551433,thumbsize-1107827,width-1280,height-720,resizemode-75/156551433.jpg",
+        "caption": "Aashram Season 4 Wraps Up Filming With A Star-Studded Celebration",
+        "source": "Times Now — Entertainment"
+      }
+    ],
+    "published": "2026-11-23T04:52:27Z"
+  },
+  "1rx85i0": {
+    "id": "1rx85i0",
+    "type": "news",
+    "headline": "Demon Slayer Infinity Castle Part 2 Sparks Release Speculation Following Sony Listing",
+    "dek": "An untitled September 2027 film listing by Sony Pictures and Crunchyroll has triggered massive speculation regarding the release window for Demon Slayer Infinity Castle Part 2, though fans remain split.",
+    "body": [
+      {
+        "h": "The Search for Infinity Castle Part 2 Release Details",
+        "p": [
+          "Following the phenomenal theatrical success of the first film, audiences around the world have been eagerly searching for any official updates concerning the next chapter of the saga. Infinity Castle firmly established its dominance by landing a spot in the global top ten highest-grossing films of 2025, setting a new benchmark for theatrical anime releases.",
+          "With expectations running exceptionally high, supporters of the franchise are naturally anxious to learn when the sequel will arrive. Although studio Ufotable has maintained silence regarding an official launch schedule, recent industry discoveries have provided a fresh focal point for enthusiastic speculation."
+        ]
+      },
+      {
+        "h": "The Sony Pictures and Crunchyroll September 2027 Listing",
+        "p": [
+          "A recent schedule update from tracking platform The Numbers revealed that Sony Pictures, in collaboration with Crunchyroll, has reserved a slot for an untitled animated movie in September 2027. Because these two major entities serve as the global distributors for the franchise's cinematic projects, observers quickly connected the dots.",
+          "While the listing currently lacks an official title or specific identifying markers, the timeframe has immediately drawn the attention of the anime community. Many believe the placeholder could very well point toward the upcoming sequel."
+        ]
+      },
+      {
+        "h": "Analyzing the Timeline and Production Windows",
+        "p": [
+          "A potential mid-September 2027 premiere would fit comfortably within traditional production intervals for the franchise. Historically, the gap between animated seasons since the debut in 2019 has generally spanned between one and one and a half years.",
+          "Looking at the immediate predecessor, Infinity Castle Part 1 debuted in Japan on July 18, 2025, before arriving in North America two months later on September 12, 2025. A two-year gap leading to late 2027 would grant Ufotable sufficient time to maintain their celebrated animation standards without rushing the production process."
+        ]
+      },
+      {
+        "h": "Fan Reactions and Alternative Possibilities",
+        "p": [
+          "Despite the excitement surrounding the mysterious calendar entry, nothing has been formally confirmed by the studios. Fans remain divided on whether the September 2027 slot genuinely belongs to the epic fantasy adventure or another major property entirely.",
+          "Another strong contender for a 2027 theatrical slot is Solo Leveling: Beyond the System, which was officially announced during the Crunchyroll Showcase at Anime Expo on July 3, 2026. Given that both properties have major films on the horizon, audiences acknowledge that the mystery project might highlight an entirely different franchise."
+        ]
+      },
+      {
+        "h": "Upcoming Announcement Expectations at Jump Festa",
+        "p": [
+          "Hopes for an official confirmation rest heavily on upcoming industry events. Many followers anticipate that definitive news regarding the timeline will finally be unveiled during Jump Festa 2027, scheduled for December 19 and 20, 2026.",
+          "Until that convention arrives, the calendar entry remains purely speculative. Viewers must exercise patience as they wait for the production teams to disclose their official plans for the continuation."
+        ]
+      },
+      {
+        "h": "Franchise Legacy and Expectations",
+        "p": [
+          "As the narrative nears its ultimate conclusion through this massive trilogy, the pressure on the creative team is immense. The first installment proved that theatrical anime can achieve unprecedented global financial heights.",
+          "Regardless of whether the mysterious distributor listing refers to this specific sequel or another blockbuster adaptation, the community remains confident that the final product will deliver an extraordinary visual and emotional spectacle."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "An untitled September 2027 movie listing by distributors Sony Pictures and Crunchyroll has sparked intense speculation about the release window for Demon Slayer Infinity Castle Part 2. While fans debate whether the slot belongs to this franchise or Solo Leveling: Beyond the System, official announcements are anticipated at Jump Festa 2027 on December 19 and 20, 2026."
+        ]
+      }
+    ],
+    "facts": [
+      "Infinity Castle secured a place in the global top 10 highest-grossing films of 2025.",
+      "The Numbers revealed an untitled animated movie slated for September 2027 by Sony Pictures and Crunchyroll.",
+      "Infinity Castle Part 1 released in Japan on July 18, 2025.",
+      "Infinity Castle Part 1 released in North America on September 12, 2025.",
+      "Jump Festa 2027 takes place across December 19 and 20, 2026.",
+      "Solo Leveling: Beyond the System was announced on July 3, 2026, during the Crunchyroll Showcase at Anime Expo."
+    ],
+    "entities": {
+      "people": [
+        "Casandra Ronning",
+        "Stephanie Nadolny",
+        "Hannah Diffey",
+        "Koyoharu Gotouge",
+        "Natsuki Hanae",
+        "Akari Kitō",
+        "Hiro Shimono",
+        "Yoshitsugu Matsuoka",
+        "Kengo Kawanishi",
+        "Kana Hanazawa",
+        "Toshihiko Seki",
+        "Saori Hayami",
+        "Tomokazu Sugita"
+      ],
+      "titles": [
+        "Demon Slayer",
+        "Infinity Castle",
+        "Infinity Castle Part 2",
+        "Infinity Castle Part 1",
+        "Solo Leveling",
+        "Solo Leveling: Beyond the System",
+        "Demon Slayer: Kimetsu no Yaiba",
+        "Demon Slayer -Kimetsu no Yaiba- Sweep the Board!",
+        "Demon Slayer -Kimetsu no Yaiba- The Hinokami Chronicles",
+        "Demon Slayer the Movie: Mugen Train"
+      ]
+    },
+    "keywords": [
+      "Demon Slayer Infinity Castle Part 2",
+      "Sony Pictures September 2027 anime movie",
+      "Solo Leveling Beyond the System",
+      "Jump Festa 2027 anime announcements"
+    ],
+    "images": [
+      {
+        "url": "https://static0.srcdn.com/wordpress/wp-content/uploads/2026/06/tanjiro-kamado-featured-image.png?w=1600&amp;h=900&amp;fit=crop",
+        "caption": "Demon Slayer Infinity Castle Part 2 Sparks Release Speculation Following Sony Listing",
+        "source": "Screen Rant"
+      }
+    ],
+    "published": "Mon, 23 Nov 2026 04:27:42 GMT"
+  },
+  "vfi9qv": {
+    "id": "vfi9qv",
+    "type": "news",
+    "headline": "Lee Je Hoon and Han Ji Min Return to Host the 47th Blue Dragon Film Awards",
+    "dek": "Popular screen stars Lee Je Hoon and Han Ji Min are stepping back onto the stage as co-hosts for the upcoming 47th Blue Dragon Film Awards.",
+    "body": [
+      {
+        "h": "The Hosting Duo Returns",
+        "p": [
+          "Actors Lee Je Hoon and Han Ji Min are officially set to lead the upcoming 47th Blue Dragon Film Awards as co-hosts. This marks their second consecutive year helming the prestigious South Korean film ceremony together, following their successful collaboration in the previous year. Both stars are widely celebrated for their extensive television and film work, making them natural choices to guide the high-profile industry event."
+        ]
+      },
+      {
+        "h": "Event Schedule and Location",
+        "p": [
+          "The ceremony is scheduled to take place on November 25 at the KBS Hall located in Yeouido, Seoul. The event will be broadcast live for audiences at home, ensuring that fans across the region can watch the festivities unfold in real time. The gala aims to highlight the standout feature films and dedicated industry professionals who elevated South Korean cinema throughout the year."
+        ]
+      },
+      {
+        "h": "A Historic Transition in Hosting",
+        "p": [
+          "The partnership between Lee Je Hoon and Han Ji Min follows a monumental era for the ceremony. Veteran actress Kim Hye Soo famously hosted the event for 30 consecutive years, spanning from the 14th ceremony in 1993 through the 44th edition. Following her departure, Han Ji Min and Lee Je Hoon stepped into the prominent role starting in 2024, continuing their tenure into this year's landmark 47th edition."
+        ]
+      },
+      {
+        "h": "Best Picture Contenders",
+        "p": [
+          "A competitive field of five distinct motion pictures has secured nominations for the coveted Best Picture prize at this year's gala. The competing titles include HOPE, The World of Love, Assassin(s), The King s Warden, and Colony. These films represent some of the most acclaimed cinematic achievements recognized by the awards body for the current year."
+        ]
+      },
+      {
+        "h": "Leading Nominations and Categories",
+        "p": [
+          "When looking at the broader field of nominations, the feature HOPE clearly dominates the competition with nods across a total of 10 categories. It is closely followed by Possible Love, which earned eight nominations, and The King s Warden, which picked up seven. These counts reflect strong technical and creative backing for the top contenders across multiple disciplines."
+        ]
+      },
+      {
+        "h": "Top Director and Acting Nominees",
+        "p": [
+          "The race for Best Director features notable filmmakers such as Na Hong Jin for HOPE, Yeon Sang Ho for Colony, Yoon Ga Eun for The World of Love, Jang Hang Jun for The King s Warden, and Hur Jin Ho for Assassins. Meanwhile, the acting categories feature heavyweights like Koo Kyo Hwan, Park Hae Il, Sul Kyung Gu, Yoo Hae Jin, and Zo In Sung contending for Best Actor, alongside Go Ah Sung, Moon Ga Young, Shin Min Ah, Lee Jung Eun, and Jeon Do Yeon competing for Best Actress."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Lee Je Hoon and Han Ji Min are returning to co-host the 47th Blue Dragon Film Awards at KBS Hall in Yeouido, Seoul, on November 25. The ceremony follows a historic hosting transition from Kim Hye Soo and features films like HOPE leading the nominations across multiple categories."
+        ]
+      }
+    ],
+    "facts": [
+      "The 47th Blue Dragon Film Awards will be held on November 25, 2026.",
+      "The ceremony takes place at KBS Hall in Yeouido, Seoul.",
+      "Lee Je Hoon and Han Ji Min are co-hosting the event.",
+      "Kim Hye Soo hosted the awards for 30 consecutive years from 1993 to the 44th edition.",
+      "Five films are competing for Best Picture: HOPE, The World of Love, Assassin(s), The King s Warden, and Colony.",
+      "HOPE leads with nominations in 10 categories."
+    ],
+    "entities": {
+      "people": [
+        "Lee Je Hoon",
+        "Han Ji Min",
+        "Kim Hye Soo",
+        "Na Hong Jin",
+        "Yeon Sang Ho",
+        "Yoon Ga Eun",
+        "Jang Hang Jun",
+        "Hur Jin Ho",
+        "Koo Kyo Hwan",
+        "Park Hae Il",
+        "Sul Kyung Gu",
+        "Yoo Hae Jin",
+        "Zo In Sung",
+        "Go Ah Sung",
+        "Moon Ga Young",
+        "Shin Min Ah",
+        "Lee Jung Eun",
+        "Jeon Do Yeon"
+      ],
+      "titles": [
+        "HOPE",
+        "The World of Love",
+        "Assassin(s)",
+        "The King s Warden",
+        "Colony",
+        "Possible Love",
+        "Once We Were Us",
+        "Pavane",
+        "The Eyes",
+        "The Journey to Gyeong-ju"
+      ]
+    },
+    "keywords": [
+      "47th Blue Dragon Film Awards",
+      "Lee Je Hoon Han Ji Min",
+      "HOPE film nominations",
+      "Blue Dragon Film Awards host"
+    ],
+    "images": [
+      {
+        "url": "https://i.mydramalist.com/nKKZJW_2d.jpg",
+        "caption": "Lee Je Hoon and Han Ji Min Return to Host the 47th Blue Dragon Film Awards",
+        "source": "MyDramaList"
+      }
+    ],
+    "published": "Mon, 23 Nov 2026 04:38:10 +0000"
   }
 };
