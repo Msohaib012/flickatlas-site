@@ -4,45 +4,6 @@
    {
     "step": "fetch",
     "category": "Trending News",
-    "run_at": "2026-11-22T01:51:09Z",
-    "run_id": "44973321901",
-    "status": "success",
-    "checked": {
-     "candidates": 236,
-     "detail": "RSS/Atom items across 137 sources; 0 source(s) errored"
-    },
-    "changed": {
-     "added": [
-      "'O.M: Operation Mole' BO day 2: Dhanush film trails 'Amaran'",
-      "shah rukh khan ex bodyguard yaseen khan travelled private jets stayed five star hotels 8 passports sachin tendulkar yuvraj singh tmovb 2702375 2026 11 21",
-      "diljit dosanjh ahmedabad narendra modi stadium calls out double standards over concert complaints tmovg dskc 2702524 2026 11 21",
-      "taarak mehta rita reporter aka ramsha farooqui participated in roadies rebirth fitness transformation emotional tmovh dskc 2702316 2026 11 21",
-      "sachin tendulkar daughter sara tendulkar arjun wife saaniya chandhok look fashion mumbai mmtc 2702363 2026 11 21",
-      "samantha ruth prabhu raj nidimoru welcomes baby boy sheetal nidimoru temple dargah church mmtc 2702477 2026 11 21",
-      "tv actress ankita lokhande vicky jain farm house inside photos mumbai apartment flat school mmtc 2702485 2026 11 22",
-      "after robert pattinson announcement uk pinewood studios bids to return as home of james bond article 156547389",
-      "ranveer singhs nostalgic sachin tendulkar tribute steals the show at global peace honours 2026 we wanted you at the crease article 156547793",
-      "shah rukh khan thanks vikrant massey after he helps king actor adjust his outfit at global peace honours 2026 watch article 156547791",
-      "vijay prakash on working with ar rahman for swades song and being offered another track who am i to say no exclusive article 156547048",
-      "bts jin wants female fans boyfriend to become army heres why article 156547622",
-      "anirudh ravichander kavya maran wedding pm modi extends wishes to newly married couple ahead of chennai reception article 156547135",
-      "filmmaker prakash belawadi questions bengalurus infrastructure plans city is planning only for people in cars exclusive article 156547501",
-      "national award winning filmmaker prakash belawadi calls karnatakas economic disparity cruel exclusive article 156546171",
-      "ramya explains why cm vijay won 2026 tamil nadu polls he resonates with people exclusive article 156547231",
-      "ramya recalls father death days before contesting elections in 2013 didnt get time to grieve exclusive article 156547066",
-      "bigg boss 20 episode 77 highlights salman khan exposes scoutop mahhi vij supports yung dsa article 156547731",
-      "dheeraj dhoopar wife vinny arora confirms second pregnancy flaunts baby bump in cute announcement video article 156547274",
-      "congress mp claims siraj dropped due to religion video 156547608"
-     ],
-     "updated": [],
-     "count": 216,
-     "detail": "236 stories, 0 duplicates removed, 0 dropped"
-    },
-    "reason": null
-   },
-   {
-    "step": "fetch",
-    "category": "Trending News",
     "run_at": "2026-11-22T02:34:23Z",
     "run_id": "44976631558",
     "status": "success",
@@ -936,32 +897,48 @@
      "detail": "204 stories, 0 duplicates removed, 2 dropped"
     },
     "reason": null
-   }
-  ],
-  "apply_auto": [
+   },
    {
-    "step": "apply_auto",
+    "step": "fetch",
     "category": "Trending News",
-    "run_at": "2026-11-22T02:34:52Z",
-    "run_id": "44976631558",
+    "run_at": "2026-11-23T01:51:57Z",
+    "run_id": "45096822106",
     "status": "success",
     "checked": {
-     "candidates": 15,
-     "detail": "draft articles + box-office rows from out/gemini-batch.json"
+     "candidates": 237,
+     "detail": "RSS/Atom items across 137 sources; 4 source(s) errored"
     },
     "changed": {
      "added": [
-      "Ramayana: Rise of a Legend Box Office Collection Day 17: Ranbir Kapoor Starrer Earns Rs 27.40 Crore",
-      "Yellowjackets Creators Explain Why Season 4 Marks the End of the Hit Series",
-      "Disney's Billion-Dollar Animated Hit Climbs Global Streaming Charts Years After Release",
-      "Macaulay Culkin Teams Up With Seth Rogen and Evan Goldberg for New Home Alone Sequel at Disney"
+      "When Gauri Khan revealed how she and Shah Rukh Khan respect each other's religion",
+      "'I cannot just pretend': Rashmika Mandanna to learn Carnatic music",
+      "Taylor Swift hugs Jason and Kylie Kelce's daughter Wyatt as they cheer for Travis Kelce",
+      "Ayushmann Khurrana recalls his childhood obsession with 'Maine Pyar Kiya'",
+      "'Scene' BO day 17 vs 'Mookuthi Amman 2'",
+      "article horoscope today november 23 2026 by astrologer sundeep kochar gemini review an unfinished commitment 3162778",
+      "article horoscope today november 24 2026 by astrologer sundeep kochar cancer distinguish evidence from assumption 3162780",
+      "article numerology horoscope prediction today november 23 2026 asking questions is not a sign of distrust 3162782",
+      "article akshay kumar honours brave soldiers with dramatic fire and sword performance at global peace honours 2026 3162749",
+      "article anirudh ravichander and kavya maran host chennai wedding reception cm vijay and mk stalin attend 3162724",
+      "article dialogue of the day from haikyuu no matter how challenging 3162717",
+      "article diljit dosanjh hits back at critics over song bans during ahmedabad concert asks why coldplay faced no objections 3162745",
+      "article latest ott releases this week november 23 to november 30 2026 hanuman ansh to drishyam the conclusion what to watch on netflix prime video more 3162792",
+      "article nitin mukesh celebrates 48th marriage anniversary with heartfelt post for his wife 3162785",
+      "11 pahalgam and delhi blast victims at global peace honours 2026 3162739",
+      "article kartik aaryan unveils first glimpse of monster thriller kaaliya on his birthday unveils release date 3162756",
+      "article sunday ott watchlist top 7 shows and movies to stream from student of the year after dark to obsession 3162726",
+      "article miley cyrus and maxx morando get married in california after five years together report 3162730",
+      "article quote of the day by bob ross i cant draw straight line 3162766",
+      "The Reality TV Juggernaut That Changed Music Forever Is Officially Returning"
      ],
      "updated": [],
-     "count": 8,
-     "detail": "+4 articles, +0 box-office rows, 4 rows updated"
+     "count": 195,
+     "detail": "205 stories, 2 duplicates removed, 32 dropped"
     },
     "reason": null
-   },
+   }
+  ],
+  "apply_auto": [
    {
     "step": "apply_auto",
     "category": "Trending News",
@@ -1490,27 +1467,32 @@
      "detail": "+4 articles, +0 box-office rows, 4 rows updated"
     },
     "reason": null
+   },
+   {
+    "step": "apply_auto",
+    "category": "Trending News",
+    "run_at": "2026-11-23T01:52:19Z",
+    "run_id": "45096822106",
+    "status": "success",
+    "checked": {
+     "candidates": 15,
+     "detail": "draft articles + box-office rows from out/gemini-batch.json"
+    },
+    "changed": {
+     "added": [
+      "Scene Box Office Collection Day 17 vs Mookuthi Amman 2: Suriya and Naslen Film Reports Growth",
+      "The Hunger Games: Sunrise on the Reaping Dominates Worldwide Box Office With $225 Million Debut",
+      "Miley Cyrus and Maxx Morando Tie the Knot in California After Five Years Together",
+      "Hailee Steinfeld Confirms Her Return as Kate Bishop in Avengers: Doomsday"
+     ],
+     "updated": [],
+     "count": 8,
+     "detail": "+4 articles, +1 box-office rows, 3 rows updated"
+    },
+    "reason": null
    }
   ],
   "ott": [
-   {
-    "step": "ott",
-    "category": "OTT",
-    "run_at": "2026-11-22T01:51:50Z",
-    "run_id": "44973321901",
-    "status": "success",
-    "checked": {
-     "candidates": 406,
-     "detail": "OTT now/coming titles from the published catalogue"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 0,
-     "detail": "now 399, coming 7"
-    },
-    "reason": "no-new-data"
-   },
    {
     "step": "ott",
     "category": "OTT",
@@ -1924,26 +1906,27 @@
      "detail": "now 409, coming 7"
     },
     "reason": "no-new-data"
-   }
-  ],
-  "trending_weekly": [
+   },
    {
-    "step": "trending_weekly",
-    "category": "Trending Topics",
-    "run_at": "2026-11-22T02:45:49Z",
-    "run_id": "44976631558",
+    "step": "ott",
+    "category": "OTT",
+    "run_at": "2026-11-23T01:52:20Z",
+    "run_id": "45096822106",
     "status": "success",
     "checked": {
-     "candidates": 100,
-     "detail": "cached Google RSS trend/article intersection"
+     "candidates": 416,
+     "detail": "OTT now/coming titles from the published catalogue"
     },
     "changed": {
      "added": [],
      "updated": [],
-     "count": 0
+     "count": 0,
+     "detail": "now 409, coming 7"
     },
     "reason": "no-new-data"
-   },
+   }
+  ],
+  "trending_weekly": [
    {
     "step": "trending_weekly",
     "category": "Trending Topics",
@@ -2398,27 +2381,31 @@
      "count": 8
     },
     "reason": null
+   },
+   {
+    "step": "trending_weekly",
+    "category": "Trending Topics",
+    "run_at": "2026-11-23T02:32:23Z",
+    "run_id": "45096822106",
+    "status": "success",
+    "checked": {
+     "candidates": 100,
+     "detail": "cached Google RSS trend/article intersection"
+    },
+    "changed": {
+     "added": [
+      "1uji33e",
+      "1xsusrx",
+      "xm093w",
+      "1aj8i2i"
+     ],
+     "updated": [],
+     "count": 4
+    },
+    "reason": null
    }
   ],
   "multisource_boxoffice": [
-   {
-    "step": "multisource_boxoffice",
-    "category": "Box Office",
-    "run_at": "2026-11-22T02:00:55Z",
-    "run_id": "44973321901",
-    "status": "success",
-    "checked": {
-     "candidates": 739,
-     "detail": "678 collected staging rows from readers; 252 averaged across 2+ sources"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 5,
-     "detail": "+0 new rows, 5 updated rows, 705 unchanged"
-    },
-    "reason": null
-   },
    {
     "step": "multisource_boxoffice",
     "category": "Box Office",
@@ -2832,19 +2819,27 @@
      "detail": "+1 new rows, 5 updated rows, 708 unchanged"
     },
     "reason": null
+   },
+   {
+    "step": "multisource_boxoffice",
+    "category": "Box Office",
+    "run_at": "2026-11-23T02:07:23Z",
+    "run_id": "45096822106",
+    "status": "success",
+    "checked": {
+     "candidates": 744,
+     "detail": "682 collected staging rows from readers; 254 averaged across 2+ sources"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 5,
+     "detail": "+0 new rows, 5 updated rows, 711 unchanged"
+    },
+    "reason": null
    }
   ],
   "gemini_reviews": [
-   {
-    "step": "gemini_reviews",
-    "category": "Reviews",
-    "run_at": "2026-11-22T02:01:06Z",
-    "run_id": "44973321901",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "gemini_reviews",
     "category": "Reviews",
@@ -3074,32 +3069,26 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "gemini_reviews",
+    "category": "Reviews",
+    "run_at": "2026-11-23T02:32:20Z",
+    "run_id": "45096822106",
+    "status": "success",
+    "checked": {
+     "candidates": 1142,
+     "detail": "released movies without a review; Tavily searches: 1168"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 0
+    },
+    "reason": "no-new-data"
    }
   ],
   "convert_news": [
-   {
-    "step": "convert_news",
-    "category": "Trending News",
-    "run_at": "2026-11-22T02:45:48Z",
-    "run_id": "44976631558",
-    "status": "success",
-    "checked": {
-     "candidates": 600,
-     "detail": "feed entries from out/queue.json"
-    },
-    "changed": {
-     "added": [
-      "Macaulay Culkin Teams Up With Seth Rogen and Evan Goldberg for New Home Alone Sequel at Disney",
-      "Yellowjackets Creators Explain Why Season 4 Marks the End of the Hit Series",
-      "Disney's Billion-Dollar Animated Hit Climbs Global Streaming Charts Years After Release",
-      "Ramayana: Rise of a Legend Box Office Collection Day 17: Ranbir Kapoor Starrer Earns Rs 27.40 Crore"
-     ],
-     "updated": [],
-     "count": 4,
-     "detail": "api-news.json 600 items, api-trends.json 12 items"
-    },
-    "reason": null
-   },
    {
     "step": "convert_news",
     "category": "Trending News",
@@ -3623,19 +3612,32 @@
      "detail": "api-news.json 600 items, api-trends.json 12 items"
     },
     "reason": null
+   },
+   {
+    "step": "convert_news",
+    "category": "Trending News",
+    "run_at": "2026-11-23T02:32:22Z",
+    "run_id": "45096822106",
+    "status": "success",
+    "checked": {
+     "candidates": 600,
+     "detail": "feed entries from out/queue.json"
+    },
+    "changed": {
+     "added": [
+      "The Hunger Games: Sunrise on the Reaping Dominates Worldwide Box Office With $225 Million Debut",
+      "Miley Cyrus and Maxx Morando Tie the Knot in California After Five Years Together",
+      "Hailee Steinfeld Confirms Her Return as Kate Bishop in Avengers: Doomsday",
+      "Scene Box Office Collection Day 17 vs Mookuthi Amman 2: Suriya and Naslen Film Reports Growth"
+     ],
+     "updated": [],
+     "count": 4,
+     "detail": "api-news.json 600 items, api-trends.json 12 items"
+    },
+    "reason": null
    }
   ],
   "episode_guides": [
-   {
-    "step": "episode_guides",
-    "category": "Drama Episodes",
-    "run_at": "2026-11-22T02:01:06Z",
-    "run_id": "44973321901",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "episode_guides",
     "category": "Drama Episodes",
@@ -3910,19 +3912,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "title_seed": [
+   },
    {
-    "step": "title_seed",
-    "category": "Spotlight / Coming Soon / Most Awaited",
-    "run_at": "2026-11-22T02:01:06Z",
-    "run_id": "44973321901",
+    "step": "episode_guides",
+    "category": "Drama Episodes",
+    "run_at": "2026-11-23T02:32:31Z",
+    "run_id": "45096822106",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "title_seed": [
    {
     "step": "title_seed",
     "category": "Spotlight / Coming Soon / Most Awaited",
@@ -4232,31 +4234,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "title_seed",
+    "category": "Spotlight / Coming Soon / Most Awaited",
+    "run_at": "2026-11-23T02:32:31Z",
+    "run_id": "45096822106",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "gemini_batch": [
-   {
-    "step": "gemini_batch",
-    "category": "Trending News",
-    "run_at": "2026-11-22T01:51:49Z",
-    "run_id": "44973321901",
-    "status": "success",
-    "checked": {
-     "candidates": 7,
-     "detail": "news queue items drafted this run; 216 still unprocessed; today by category: movies 0/6, tv_dramas 1/4, episodes 0/2, box_office 2/6, celebrities_events 3/5, upcoming_releases 0/4, ott_streaming 2/4, trailers 0/3, awards 0/2, music_ost 0/2, viral 0/2"
-    },
-    "changed": {
-     "added": [
-      "Ranveer Singh Delivers Heartfelt Tribute to Sachin Tendulkar at Global Peace Honours 2026",
-      "Son Suk Ku and Nagayama Eita's 'The Blue Road' Reaches No. 1 on Netflix Korea",
-      "Exploring Eleven K-Dramas Showcasing Unflinching and Brilliant Female Medical Professionals",
-      "O.M: Operation Mole Box Office Collection Day 2: Dhanush and Mammootty Starrer Reaches Rs 60.90 Crore Worldwide"
-     ],
-     "updated": [],
-     "count": 4
-    },
-    "reason": null
-   },
    {
     "step": "gemini_batch",
     "category": "Trending News",
@@ -4762,26 +4752,31 @@
      "count": 4
     },
     "reason": null
+   },
+   {
+    "step": "gemini_batch",
+    "category": "Trending News",
+    "run_at": "2026-11-23T01:52:19Z",
+    "run_id": "45096822106",
+    "status": "success",
+    "checked": {
+     "candidates": 4,
+     "detail": "news queue items drafted this run; 195 still unprocessed; today by category: movies 1/6, tv_dramas 1/4, episodes 0/2, box_office 3/6, celebrities_events 2/5, upcoming_releases 1/4, ott_streaming 0/4, trailers 0/3, awards 0/2, music_ost 0/2, viral 0/2"
+    },
+    "changed": {
+     "added": [
+      "Scene Box Office Collection Day 17 vs Mookuthi Amman 2: Suriya and Naslen Film Reports Growth",
+      "The Hunger Games: Sunrise on the Reaping Dominates Worldwide Box Office With $225 Million Debut",
+      "Miley Cyrus and Maxx Morando Tie the Knot in California After Five Years Together",
+      "Hailee Steinfeld Confirms Her Return as Kate Bishop in Avengers: Doomsday"
+     ],
+     "updated": [],
+     "count": 4
+    },
+    "reason": null
    }
   ],
   "overseas_ai": [
-   {
-    "step": "overseas_ai",
-    "category": "Box Office",
-    "run_at": "2026-11-22T01:53:24Z",
-    "run_id": "44973321901",
-    "status": "success",
-    "checked": {
-     "candidates": 58,
-     "detail": "published movies with missing overseas day figures; Tavily searches: 48"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 0
-    },
-    "reason": "no-new-data"
-   },
    {
     "step": "overseas_ai",
     "category": "Box Office",
@@ -5088,24 +5083,26 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "publish": [
+   },
    {
-    "step": "publish",
-    "category": "Trending News",
-    "run_at": "2026-11-22T02:01:06Z",
-    "run_id": "44973321901",
+    "step": "overseas_ai",
+    "category": "Box Office",
+    "run_at": "2026-11-23T01:53:42Z",
+    "run_id": "45096822106",
     "status": "success",
-    "checked": null,
+    "checked": {
+     "candidates": 58,
+     "detail": "published movies with missing overseas day figures; Tavily searches: 48"
+    },
     "changed": {
      "added": [],
      "updated": [],
-     "count": 408,
-     "detail": "lines changed in owned files; no per-item summary from script"
+     "count": 0
     },
-    "reason": null
-   },
+    "reason": "no-new-data"
+   }
+  ],
+  "publish": [
    {
     "step": "publish",
     "category": "Trending News",
@@ -5400,24 +5397,24 @@
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
-   }
-  ],
-  "stats_traffic": [
+   },
    {
-    "step": "stats_traffic",
-    "category": "Stats / Health",
-    "run_at": "2026-11-22T02:01:06Z",
-    "run_id": "44973321901",
+    "step": "publish",
+    "category": "Trending News",
+    "run_at": "2026-11-23T02:32:31Z",
+    "run_id": "45096822106",
     "status": "success",
     "checked": null,
     "changed": {
      "added": [],
      "updated": [],
-     "count": 2,
+     "count": 405,
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
-   },
+   }
+  ],
+  "stats_traffic": [
    {
     "step": "stats_traffic",
     "category": "Stats / Health",
@@ -5722,19 +5719,24 @@
     "checked": null,
     "changed": null,
     "reason": "no-new-data"
+   },
+   {
+    "step": "stats_traffic",
+    "category": "Stats / Health",
+    "run_at": "2026-11-23T02:32:31Z",
+    "run_id": "45096822106",
+    "status": "success",
+    "checked": null,
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 12,
+     "detail": "lines changed in owned files; no per-item summary from script"
+    },
+    "reason": null
    }
   ],
   "stats_pipeline": [
-   {
-    "step": "stats_pipeline",
-    "category": "Stats / Health",
-    "run_at": "2026-11-22T02:01:06Z",
-    "run_id": "44973321901",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "stats_pipeline",
     "category": "Stats / Health",
@@ -5984,19 +5986,19 @@
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
-   }
-  ],
-  "stats_health": [
+   },
    {
-    "step": "stats_health",
+    "step": "stats_pipeline",
     "category": "Stats / Health",
-    "run_at": "2026-11-22T02:01:06Z",
-    "run_id": "44973321901",
+    "run_at": "2026-11-23T02:32:31Z",
+    "run_id": "45096822106",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "stats_health": [
    {
     "step": "stats_health",
     "category": "Stats / Health",
@@ -6231,19 +6233,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "metadata_refresh": [
+   },
    {
-    "step": "metadata_refresh",
-    "category": "Spotlight / Coming Soon / Most Awaited",
-    "run_at": "2026-11-22T02:01:06Z",
-    "run_id": "44973321901",
+    "step": "stats_health",
+    "category": "Stats / Health",
+    "run_at": "2026-11-23T02:32:31Z",
+    "run_id": "45096822106",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "metadata_refresh": [
    {
     "step": "metadata_refresh",
     "category": "Spotlight / Coming Soon / Most Awaited",
@@ -6529,19 +6531,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "providers_backfill": [
+   },
    {
-    "step": "providers_backfill",
-    "category": "OTT",
-    "run_at": "2026-11-22T02:01:06Z",
-    "run_id": "44973321901",
+    "step": "metadata_refresh",
+    "category": "Spotlight / Coming Soon / Most Awaited",
+    "run_at": "2026-11-23T02:32:31Z",
+    "run_id": "45096822106",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "providers_backfill": [
    {
     "step": "providers_backfill",
     "category": "OTT",
@@ -6782,19 +6784,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "providers_backfill",
+    "category": "OTT",
+    "run_at": "2026-11-23T02:32:31Z",
+    "run_id": "45096822106",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "tavily_boxoffice": [
-   {
-    "step": "tavily_boxoffice",
-    "category": "Box Office",
-    "run_at": "2026-11-22T02:01:06Z",
-    "run_id": "44973321901",
-    "status": "success",
-    "checked": null,
-    "changed": null,
-    "reason": "no-new-data"
-   },
    {
     "step": "tavily_boxoffice",
     "category": "Box Office",
@@ -7024,19 +7026,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "tavily_boxoffice",
+    "category": "Box Office",
+    "run_at": "2026-11-23T02:32:31Z",
+    "run_id": "45096822106",
+    "status": "success",
+    "checked": null,
+    "changed": null,
+    "reason": "no-new-data"
    }
   ],
   "keywords_refresh": [
-   {
-    "step": "keywords_refresh",
-    "category": "Trending News",
-    "run_at": "2026-11-22T02:01:06Z",
-    "run_id": "44973321901",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "keywords_refresh",
     "category": "Trending News",
@@ -7289,32 +7291,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "keywords_refresh",
+    "category": "Trending News",
+    "run_at": "2026-11-23T02:32:31Z",
+    "run_id": "45096822106",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "overseas_sweep": [
-   {
-    "step": "overseas_sweep",
-    "category": "Box Office",
-    "run_at": "2026-11-21T01:52:33Z",
-    "run_id": "44852516543",
-    "status": "success",
-    "checked": {
-     "candidates": 590,
-     "detail": "completed day-wise rows missing overseas; quicknews pages fetched: 48; attempt cooldown deferred: 535"
-    },
-    "changed": {
-     "added": [
-      "Ramayana: Rise of a Legend (656908)",
-      "Jailer 2 (1234139)",
-      "Ranabaali (1389379)",
-      "418 (1606527)",
-      "Nayyi Navelli (1654581)"
-     ],
-     "updated": [],
-     "count": 15
-    },
-    "reason": null
-   },
    {
     "step": "overseas_sweep",
     "category": "Box Office",
@@ -7821,19 +7810,33 @@
      "count": 14
     },
     "reason": null
+   },
+   {
+    "step": "overseas_sweep",
+    "category": "Box Office",
+    "run_at": "2026-11-23T01:52:44Z",
+    "run_id": "45096822106",
+    "status": "success",
+    "checked": {
+     "candidates": 602,
+     "detail": "completed day-wise rows missing overseas; quicknews pages fetched: 20; attempt cooldown deferred: 582"
+    },
+    "changed": {
+     "added": [
+      "Scene (1402181)",
+      "Ramayana: Rise of a Legend (656908)",
+      "Jailer 2 (1234139)",
+      "Ranabaali (1389379)",
+      "418 (1606527)",
+      "Nayyi Navelli (1654581)"
+     ],
+     "updated": [],
+     "count": 16
+    },
+    "reason": null
    }
   ],
   "advance_booking": [
-   {
-    "step": "advance_booking",
-    "category": "Box Office",
-    "run_at": "2026-11-22T02:01:06Z",
-    "run_id": "44973321901",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "advance_booking",
     "category": "Box Office",
@@ -8073,19 +8076,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "home_boxoffice_worldwide": [
+   },
    {
-    "step": "home_boxoffice_worldwide",
+    "step": "advance_booking",
     "category": "Box Office",
-    "run_at": "2026-11-22T02:01:06Z",
-    "run_id": "44973321901",
+    "run_at": "2026-11-23T02:32:31Z",
+    "run_id": "45096822106",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "home_boxoffice_worldwide": [
    {
     "step": "home_boxoffice_worldwide",
     "category": "Box Office",
@@ -8355,8 +8358,18 @@
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
+   },
+   {
+    "step": "home_boxoffice_worldwide",
+    "category": "Box Office",
+    "run_at": "2026-11-23T02:32:31Z",
+    "run_id": "45096822106",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ]
  },
- "updated_at": "2026-11-23T00:55:29Z"
+ "updated_at": "2026-11-23T02:32:31Z"
 }

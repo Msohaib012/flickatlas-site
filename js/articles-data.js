@@ -225199,5 +225199,410 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Mon, 23 Nov 2026 00:00:12 GMT"
+  },
+  "1ch2s9r": {
+    "id": "1ch2s9r",
+    "type": "news",
+    "headline": "Scene Box Office Collection Day 17 vs Mookuthi Amman 2: Suriya and Naslen Film Reports Growth",
+    "dek": "Suriya and Naslen's film 'Scene' registered a 16.3% growth on Sunday, crossing the Rs 150 cr domestic net milestone, while Nayanthara's 'Mookuthi Amman 2' reached a worldwide gross of Rs 24.83 cr after 17 days in theaters.",
+    "body": [
+      {
+        "h": "Sunday Growth for Scene",
+        "p": [
+          "The theatrical run of 'Scene' saw a notable positive shift as it entered its third week. On Day 17, which fell on November 22, 2026, the film recorded a 16.3% increase in its India net collection compared to the preceding day.",
+          "Directed by Jithu Madhavan, the movie brought in Rs 1.57 cr on Sunday, pushing its domestic net total past the major Rs 150 cr mark to settle at Rs 150.64 cr."
+        ]
+      },
+      {
+        "h": "Global Numbers and Overseas Contribution",
+        "p": [
+          "Beyond domestic borders, 'Scene' has maintained a massive global footprint. Its worldwide gross has climbed to Rs 262.42 cr, heavily bolstered by an impressive Rs 89.25 cr coming directly from overseas territories.",
+          "International markets account for 34% of the feature's total global earnings, while the remaining 66% is driven by its strong performance within India, where the gross stands at Rs 173.17 cr."
+        ]
+      },
+      {
+        "h": "Plot and Character Overview",
+        "p": [
+          "The narrative of 'Scene' centers around an intense character named Inbaraj, portrayed by Suriya. Inbaraj is a police officer who finds himself compelled to dust off an unresolved, highly mysterious case from his past.",
+          "To solve the tangled mystery, he must work alongside a chaotic and unpredictable team whose eccentric behavior creates hurdles throughout the challenging investigation."
+        ]
+      },
+      {
+        "h": "Weekly Breakdown and Show Counts",
+        "p": [
+          "A look at the box office trajectory reveals a massive opening week followed by a cooling period. Days 1 through 7 raked in an astounding Rs 111.70 cr in India net collections, powered by 39,336 shows.",
+          "The second week saw a 68.4% decline to Rs 35.25 cr across 27,752 shows, while the first three days of the third week added another Rs 3.69 cr with 2,194 shows, taking the cumulative theatrical run to 69,282 shows."
+        ]
+      },
+      {
+        "h": "Language-Wise Earnings Distribution",
+        "p": [
+          "Domestically, the film's collections are split across two primary language versions. The Tamil version is the primary driver, generating Rs 120.40 cr and capturing 79.9% of the overall domestic net total.",
+          "Meanwhile, the Telugu version has pulled in a solid Rs 30.24 cr, accounting for the remaining 20.1% of the domestic net collections."
+        ]
+      },
+      {
+        "h": "Comparison With Mookuthi Amman 2",
+        "p": [
+          "In contrast, Nayanthara's starring vehicle 'Mookuthi Amman 2' has reported a starkly different box-office journey over the same 17-day timeframe. The film registered a worldwide gross of Rs 24.83 cr.",
+          "Its India net stands at Rs 21.54 cr, with the movie adding just Rs 2 lakh on Day 17, November 22, placing its total earnings well below the massive milestones achieved by Suriya's project."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Suriya and Naslen's film 'Scene' recorded a 16.3% Sunday growth on Day 17, bringing its domestic net total to Rs 150.64 cr and global gross to Rs 262.42 cr. Meanwhile, Nayanthara's 'Mookuthi Amman 2' reached a worldwide gross of Rs 24.83 cr over the same seventeen-day period."
+        ]
+      }
+    ],
+    "facts": [
+      "Scene recorded a 16.3% rise in India net collection on Day 17, November 22, 2026.",
+      "Scene earned Rs 1.57 cr on Sunday, taking its domestic net total to Rs 150.64 cr.",
+      "Scene worldwide gross reached Rs 262.42 cr, including Rs 89.25 cr from overseas.",
+      "Scene India gross stands at Rs 173.17 cr.",
+      "The opening week brought in Rs 111.70 cr in India net collections across 39,336 shows.",
+      "The second week earned Rs 35.25 cr across 27,752 shows, a 68.4% decline.",
+      "The Tamil version of Scene generated Rs 120.40 cr (79.9%), and the Telugu version contributed Rs 30.24 cr (20.1%).",
+      "Mookuthi Amman 2 registered a worldwide gross of Rs 24.83 cr after 17 days.",
+      "Mookuthi Amman 2 India net collection stands at Rs 21.54 cr, earning Rs 2 lakh on Day 17, November 22, 2026."
+    ],
+    "entities": {
+      "people": [
+        "Suriya",
+        "Naslen K. Gafoor",
+        "Nazriya Nazim",
+        "Jithu Madhavan",
+        "Nayanthara"
+      ],
+      "titles": [
+        "Scene",
+        "Mookuthi Amman 2"
+      ]
+    },
+    "keywords": [
+      "Scene box office collection",
+      "Mookuthi Amman 2 collection",
+      "Suriya Scene film",
+      "Nayanthara Mookuthi Amman 2"
+    ],
+    "images": [
+      {
+        "url": "https://static.toiimg.com/thumb/msid-136086311,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "caption": "Scene Box Office Collection Day 17 vs Mookuthi Amman 2: Suriya and Naslen Film Reports Growth",
+        "source": "Times of India — Entertainment"
+      }
+    ],
+    "published": "2026-11-23T06:40:19+05:30"
+  },
+  "1ygenj7": {
+    "id": "1ygenj7",
+    "type": "news",
+    "headline": "The Hunger Games: Sunrise on the Reaping Dominates Worldwide Box Office With $225 Million Debut",
+    "dek": "Lionsgate and Suzanne Collins' sixth franchise adaptation outperforms expectations globally, while I Play Rocky, Ebenezer, and You Can See Everything also make box office waves.",
+    "body": [
+      {
+        "h": "Global Box Office Triumph",
+        "p": [
+          "The latest installment in the dystopian YA survival franchise proved unstoppable at the weekend box office, capturing the top spot with an impressive $225 million in worldwide receipts. Lionsgate and author Suzanne Collins saw their sixth cinematic adaptation easily outpace initial projections as audiences flooded multiplexes around the globe.",
+          "Domestic ticket sales in North America contributed a massive $120 million to the overall tally, while international territories added another $105 million. This robust performance established the feature as a major commercial force right out of the gate."
+        ]
+      },
+      {
+        "h": "Franchise Comparisons and Records",
+        "p": [
+          "Surpassing the opening weekend numbers of its predecessor, 2023's Ballad of Songbirds Snakes and its $100.8 million debut, the new film secured its place as the fourth biggest worldwide opening in the history of the franchise.",
+          "It ranks behind only 2013's Catching Fire at $304 million, Mockingjay Part 1 at $276.2 million, and Mockingjay Part 2 at $241 million. Additionally, the movie achieved the second-biggest North American prequel opening in history, trailing only 2016's Rogue One: A Star Wars Story, which bowed with $155 million domestically."
+        ]
+      },
+      {
+        "h": "Critical Reception Versus Audience Demand",
+        "p": [
+          "Despite mixed critical notices—including a three-star review describing the picture as a disappointing entry that returns to a tired blueprint—moviegoers clearly felt differently. Audiences completely ignored the skepticism to turn out in droves.",
+          "Directed by Francis Lawrence, the action-heavy feature successfully captured the fifth-largest domestic opening of the year 2026 across all major Hollywood studios."
+        ]
+      },
+      {
+        "h": "I Play Rocky Expands in Limited Release",
+        "p": [
+          "Taking second place at the weekend box office was Peter Farrelly's crowd-pleasing biopic I Play Rocky. The film focuses on the behind-the-scenes struggle to bring Sylvester Stallone's 1976 Oscar-winning classic to the silver screen.",
+          "After beginning in a limited theatrical run, the picture expanded its footprint to pull in $9.3 million for the weekend, proving that audiences remain fascinated by the underdog story behind the iconic boxing franchise."
+        ]
+      },
+      {
+        "h": "Ebenezer Faces a Steep Drop",
+        "p": [
+          "Last weekend's reigning champion, Ebenezer, suffered a difficult sophomore frame after experiencing a sharp 60 percent decline in ticket sales. The Johnny Depp Christmas movie managed to bring in $7.7 million for the weekend.",
+          "The holiday release will need strong staying power to carry it through the busy holiday season. However, having been produced on a budget of $38 million, the film has already accumulated a healthy $78 million globally."
+        ]
+      },
+      {
+        "h": "You Can See Everything Reaches Milestone",
+        "p": [
+          "In documentary milestones, You Can See Everything officially crossed the $100 million threshold at the worldwide box office. This represents an extraordinary financial feat for a project made on a modest $7 million budget.",
+          "As the film kicked off its broader worldwide rollout, it added another $9 million to its already impressive $93.4 million domestic haul."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "The Hunger Games: Sunrise on the Reaping opened at the top of the weekend box office with $225 million worldwide, outperforming its predecessor and setting franchise records. Meanwhile, films like I Play Rocky, Ebenezer, and You Can See Everything continued to draw significant ticket sales across the multiplex landscape."
+        ]
+      }
+    ],
+    "facts": [
+      "The Hunger Games: Sunrise on the Reaping earned $225 million worldwide.",
+      "North American box office for the film was $120 million.",
+      "International box office for the film was $105 million.",
+      "Ballad of Songbirds Snakes debuted to $100.8 million in 2023.",
+      "Catching Fire grossed $304 million worldwide in 2013.",
+      "Mockingjay Part 1 grossed $276.2 million.",
+      "Mockingjay Part 2 grossed $241 million.",
+      "Rogue One: A Star Wars Story bowed with $155 million domestic in 2016.",
+      "Francis Lawrence directed The Hunger Games: Sunrise on the Reaping.",
+      "I Play Rocky grossed $9.3 million for the weekend.",
+      "Peter Farrelly directed I Play Rocky.",
+      "Ebenezer dropped 60 percent in its sophomore frame with $7.7 million.",
+      "Ebenezer had a budget of $38 million and has earned $78 million globally.",
+      "You Can See Everything crossed the $100 million mark worldwide with a $7 million budget and added $9 million this weekend to its $93.4 million domestic haul."
+    ],
+    "entities": {
+      "people": [
+        "Suzanne Collins",
+        "Francis Lawrence",
+        "Peter Farrelly",
+        "Sylvester Stallone",
+        "Johnny Depp"
+      ],
+      "titles": [
+        "The Hunger Games: Sunrise on the Reaping",
+        "Ballad of Songbirds Snakes",
+        "Catching Fire",
+        "Mockingjay Part 1",
+        "Mockingjay Part 2",
+        "Rogue One: A Star Wars Story",
+        "I Play Rocky",
+        "Ebenezer",
+        "You Can See Everything"
+      ]
+    },
+    "keywords": [
+      "The Hunger Games Sunrise on the Reaping box office",
+      "I Play Rocky Sylvester Stallone",
+      "Ebenezer Johnny Depp Christmas movie",
+      "You Can See Everything documentary box office"
+    ],
+    "images": [
+      {
+        "url": "https://cdn.flickeringmyth.com/wp-content/uploads/2025/11/The-Hunger-Games-Sunrise-on-the-Reaping-2.jpg",
+        "caption": "The Hunger Games: Sunrise on the Reaping Dominates Worldwide Box Office With $225 Million Debut",
+        "source": "Flickering Myth"
+      }
+    ],
+    "published": "Mon, 23 Nov 2026 01:34:59 +0000"
+  },
+  "49mbhk": {
+    "id": "49mbhk",
+    "type": "news",
+    "headline": "Miley Cyrus and Maxx Morando Tie the Knot in California After Five Years Together",
+    "dek": "Grammy-winning singer Miley Cyrus and musician Maxx Morando have officially married in an intimate Palm Springs ceremony after five years as a couple.",
+    "body": [
+      {
+        "h": "The Wedding Ceremony",
+        "p": [
+          "Grammy-winning vocalist Miley Cyrus and musician Maxx Morando have officially exchanged wedding vows in an intimate ceremony held in Palm Springs, California, following recent media reports detailing their weekend plans.",
+          "The celebration marked a major milestone for the couple, who decided to formalize their relationship after nearly five years of dating since their initial meeting."
+        ]
+      },
+      {
+        "h": "Pre-Wedding Festivities",
+        "p": [
+          "Ahead of the official Saturday ceremony, the couple hosted a rehearsal dinner characterized by distinct aesthetic touches, including deep crimson floral decorations.",
+          "Fans gained a glimpse into the preparations through social media updates shared by Cyrus's stepsister, Lily-Rose Purcell, which featured custom menus displaying the monogram \"M+M\"."
+        ]
+      },
+      {
+        "h": "Relationship Background and Origins",
+        "p": [
+          "The romantic journey of Cyrus and Morando began in 2021 when the pair connected through a blind date, an origin story the singer later recounted in a 2023 interview with British Vogue.",
+          "In addition to their personal relationship, the two artists developed a steady professional partnership, working together creatively on Cyrus's music projects such as Endless Summer Vacation and Something Beautiful."
+        ]
+      },
+      {
+        "h": "Engagement and Low-Key Approach",
+        "p": [
+          "Speculation regarding their marital status followed an engagement announcement that emerged in December 2025, when Cyrus wore a gold ring on her left hand at a premiere event alongside Morando.",
+          "Reports indicated that the pair preferred a quiet, intimate gathering rather than a large, traditional wedding, with sources close to the singer noting her contentment and desire for a calm celebration."
+        ]
+      },
+      {
+        "h": "Past Relationships and History",
+        "p": [
+          "Prior to her relationship with Morando, Cyrus was married to actor Liam Hemsworth, whom she originally met on the production of the 2010 film The Last Song.",
+          "After a lengthy, on-and-off relationship spanning roughly a decade, Cyrus and Hemsworth married in December 2018 before concluding their divorce proceedings in 2020."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Grammy-winning singer Miley Cyrus and musician Maxx Morando have married in a private Palm Springs ceremony after nearly five years together. The wedding followed a crimson-themed rehearsal dinner and an engagement that began in December 2025."
+        ]
+      }
+    ],
+    "facts": [
+      "Miley Cyrus is 33 years old.",
+      "Maxx Morando is 28 years old.",
+      "The couple met on a blind date in 2021.",
+      "They got married on Saturday in Palm Springs, California.",
+      "Engagement news surfaced in December 2025.",
+      "Miley Cyrus was previously married to Liam Hemsworth, getting married in December 2018 and finalizing divorce in 2020."
+    ],
+    "entities": {
+      "people": [
+        "Miley Cyrus",
+        "Maxx Morando",
+        "Lily-Rose Purcell",
+        "Liam Hemsworth"
+      ],
+      "titles": [
+        "Endless Summer Vacation",
+        "Something Beautiful",
+        "Avatar: Fire and Ash",
+        "The Last Song",
+        "The Hunger Games"
+      ]
+    },
+    "keywords": [
+      "Miley Cyrus Maxx Morando married",
+      "Miley Cyrus wedding Palm Springs",
+      "Maxx Morando blind date 2021",
+      "Miley Cyrus engagement December 2025"
+    ],
+    "images": [
+      {
+        "url": "https://cdn-english.zeenews.com/sites/default/files/2026/11/22/7203-miley-cyrus-and-max-morando.png",
+        "caption": "Miley Cyrus and Maxx Morando Tie the Knot in California After Five Years Together",
+        "source": "Zee News — Entertainment"
+      }
+    ],
+    "published": "2026-11-23T01:52:19Z"
+  },
+  "1uji33e": {
+    "id": "1uji33e",
+    "type": "news",
+    "headline": "Hailee Steinfeld Confirms Her Return as Kate Bishop in Avengers: Doomsday",
+    "dek": "The actress let slip her involvement in the upcoming Marvel crossover during a promotional event for her animated project.",
+    "body": [
+      {
+        "h": "The Official Announcement",
+        "p": [
+          "Hailee Steinfeld is officially heading back to the Marvel Cinematic Universe to reprise her role as Kate Bishop. The confirmation came directly from the actress through social media posts shared on Disney and Marvel platforms.",
+          "While promoting her upcoming animated movie, Steinfeld playfully exposed the surprise by showing a director chair bearing the title of the massive crossover instead of her current project."
+        ]
+      },
+      {
+        "h": "Teasing the Crossover on Camera",
+        "p": [
+          "During an Instagram Reel recorded for promotional junkets, the actress highlighted the unexpected prop delivery. She pointed out that the studio brought a seat belonging to a completely different production.",
+          "This lighthearted slip effectively verified her presence in the upcoming ensemble blockbuster, generating immediate excitement across the fandom."
+        ]
+      },
+      {
+        "h": "Origins of Kate Bishop",
+        "p": [
+          "Steinfeld originally entered the superhero franchise in the year 2021 through the Disney+ streaming series titled Hawkeye. In that television project, she acted alongside Jeremy Renner, who portrayed the veteran hero Clint Barton.",
+          "Her character was introduced as a talented young archer who deeply admired Barton, eventually joining forces with him to fight against organized crime networks."
+        ]
+      },
+      {
+        "h": "Stepping Into the Mantle",
+        "p": [
+          "By the conclusion of the Hawkeye television series, Kate Bishop established herself as a logical successor to the original bowman. Her dynamic performances won over viewers and secured her future within the expanding franchise.",
+          "Following that Disney+ release, she made a memorable appearance in a post-credits sequence within the 2023 feature film The Marvels."
+        ]
+      },
+      {
+        "h": "Building Toward the Young Avengers",
+        "p": [
+          "Her scene in The Marvels featured Kamala Khan arriving at her residence to pitch the formation of a brand new superhero alliance. This setup heavily amplified ongoing theories regarding the eventual arrival of the Young Avengers.",
+          "Additional prospective members tied to this initiative include America Chavez, Billy Maximoff, Eli Bradley, Riri Williams, and Tommy Maximoff, though studio executives have yet to formally greenlight a standalone project for the squad."
+        ]
+      },
+      {
+        "h": "Behind the Scenes of the Blockbuster",
+        "p": [
+          "Avengers: Doomsday is helmed by the returning filmmaker duo Anthony and Joe Russo. The directors are well known for previously managing major franchise entries like Avengers: Infinity War and Avengers: Endgame.",
+          "The star-studded cast is anchored by Robert Downey Jr. stepping into the role of Victor von Doom, also known as Doctor Doom, alongside numerous returning franchise veterans."
+        ]
+      },
+      {
+        "h": "Release Details",
+        "p": [
+          "The highly anticipated crossover event is officially scheduled to premiere in movie theaters on December 18, 2026. Fans eagerly await further details regarding how Bishop and other heroes will fit into the overarching plot.",
+          "Meanwhile, Steinfeld continues her promotional rounds for other ventures, including her mother-daughter animated adventure titled Hexed alongside Rashida Jones."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Hailee Steinfeld has confirmed her upcoming appearance as Kate Bishop in Avengers: Doomsday through a social media teaser. The actress originally debuted in the role during the 2021 Disney+ series Hawkeye and later appeared in the 2023 film The Marvels."
+        ]
+      }
+    ],
+    "facts": [
+      "Hailee Steinfeld is returning as Kate Bishop in Avengers: Doomsday.",
+      "Steinfeld first joined the MCU in the 2021 Disney+ series Hawkeye.",
+      "Jeremy Renner starred alongside Hailee Steinfeld in Hawkeye.",
+      "Kate Bishop appeared in a post-credits scene in the 2023 film The Marvels.",
+      "Kamala Khan is played by Iman Vellani.",
+      "Other potential Young Avengers members include America Chavez, Billy Maximoff, Eli Bradley, Riri Williams, and Tommy Maximoff.",
+      "Avengers: Doomsday is directed by Anthony and Joe Russo.",
+      "Robert Downey Jr. leads Avengers: Doomsday as Victor von Doom.",
+      "Avengers: Doomsday is scheduled to open in theaters on December 18, 2026.",
+      "Hexed is a Disney mother-daughter animated adventure starring Hailee Steinfeld and Rashida Jones."
+    ],
+    "entities": {
+      "people": [
+        "Hailee Steinfeld",
+        "Jeremy Renner",
+        "Kamala Khan",
+        "Iman Vellani",
+        "America Chavez",
+        "Xochitl Gomez",
+        "Billy Maximoff",
+        "Joe Locke",
+        "Eli Bradley",
+        "Elijah Richardson",
+        "Riri Williams",
+        "Dominique Thorne",
+        "Tommy Maximoff",
+        "Ruaridh Mollica",
+        "Anthony Russo",
+        "Joe Russo",
+        "Robert Downey Jr.",
+        "Rashida Jones"
+      ],
+      "titles": [
+        "Avengers: Doomsday",
+        "Hexed",
+        "Hawkeye",
+        "The Marvels",
+        "Avengers: Endgame",
+        "Avengers: Infinity War"
+      ]
+    },
+    "keywords": [
+      "Hailee Steinfeld Avengers Doomsday",
+      "Kate Bishop MCU return",
+      "Avengers Doomsday release date",
+      "Young Avengers MCU"
+    ],
+    "images": [
+      {
+        "url": "https://www.thewrap.com/wp-content/uploads/2026/11/Untitled-Design-4-1.jpg",
+        "caption": "Hailee Steinfeld Confirms Her Return as Kate Bishop in Avengers: Doomsday",
+        "source": "TheWrap"
+      }
+    ],
+    "published": "Mon, 23 Nov 2026 01:47:31 +0000"
   }
 };
