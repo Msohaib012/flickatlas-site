@@ -4,45 +4,6 @@
    {
     "step": "fetch",
     "category": "Trending News",
-    "run_at": "2026-11-23T06:51:56Z",
-    "run_id": "45126865101",
-    "status": "success",
-    "checked": {
-     "candidates": 284,
-     "detail": "RSS/Atom items across 137 sources; 3 source(s) errored"
-    },
-    "changed": {
-     "added": [
-      "Sanjay Leela Bhansali to drop first song from Love & War before trailer: Report",
-      "Bigg Boss 20 Viral Video FACT CHECK: Uditi Singh Spotted Using A Mobile Phone Secretly? Fans Clarify The Truth",
-      "Yeh Rishta Kya Kehlata Hai Written Update November 23: Will Abhira Convince Armaan To Accept Kabir? TWIST",
-      "Love In Disguise Episode 11 Release Time Today: When & Where To Stream Ep 11? What To Expect From K-drama?",
-      "Ramayana Box Office Collection Day 18: Ranbir's Film Sees 28% Hike; Inches Close To 950cr",
-      "Aakasamlo Oka Tara Box Office Collection Day 3: Dulquer Salmaan's Film Sees 29% Jump, Crosses ₹22 Cr Worldwide",
-      "Entertainment LIVE Updates: Dhoni Attends Anirudh-Kavya's Reception; Salman Offers Qazi A Song After Bigg Boss",
-      "Ramayana Box Office Day 19 Advance Booking: Already The 8th Biggest 3rd Monday With Pre-Sales – Needs Only 3.24 Crore To Reach The Top 3!",
-      "Aakasamlo Oka Tara Box Office: Registers Dulquer Salmaan’s 3rd Lowest Opening Weekend Post-COVID",
-      "Spider-Man Brand New Day: Did MJ Really Forget Peter? Well, I Have Proof Maybe She Didn’t! [Opinion]",
-      "OM Box Office Day 3: Becomes Mammootty’s Highest-Grosser In India, Beats Bheeshma Parvam",
-      "Dune 3: Who is Scytale? Know Everything About Robert Pattinson’s Villain From The Franchise",
-      "Manoj Bajpayee's Remarks on The Kashmir Files, The Kerala Story and Dhurandhar Go Viral, But Did He Really Call Them Propaganda?",
-      "OM Chapter 1 Udhiram Opening Weekend Box Office Becomes Dhanush’s Career Best With ₹85 Crore Worldwide",
-      "Ramayana North America Box Office Collects Over $28 Million, Set to Break Dhurandhar 2 Record on Day 19",
-      "Matty Healy and wife Gabbriette Bechtel expecting first child",
-      "Namit explains why Sunny was perfect fit for Hanuman",
-      "How 'I'm Game' fell short despite high expectations",
-      "Adivi Sesh lauds Dulquer Salmaan’s ‘Aakasamlo Oka Tara’",
-      "Will Smith and Jada Pinkett Smith step out for an outing with their mothers and children in Malibu"
-     ],
-     "updated": [],
-     "count": 270,
-     "detail": "275 stories, 2 duplicates removed, 9 dropped"
-    },
-    "reason": null
-   },
-   {
-    "step": "fetch",
-    "category": "Trending News",
     "run_at": "2026-11-23T07:51:04Z",
     "run_id": "45134027537",
     "status": "success",
@@ -936,32 +897,48 @@
      "detail": "371 stories, 3 duplicates removed, 16 dropped"
     },
     "reason": null
-   }
-  ],
-  "apply_auto": [
+   },
    {
-    "step": "apply_auto",
+    "step": "fetch",
     "category": "Trending News",
-    "run_at": "2026-11-23T07:51:31Z",
-    "run_id": "45134027537",
+    "run_at": "2026-11-24T07:52:20Z",
+    "run_id": "45351114818",
     "status": "success",
     "checked": {
-     "candidates": 14,
-     "detail": "draft articles + box-office rows from out/gemini-batch.json"
+     "candidates": 421,
+     "detail": "RSS/Atom items across 137 sources; 3 source(s) errored"
     },
     "changed": {
      "added": [
-      "Namit Malhotra Composes Comparison Between Lord Hanuman and Iron Man, Explains Why Sunny Deol Was Cast",
-      "Netflix Miniseries American Primeval Ranks As A Brutal Western",
-      "Manoj Bajpayee's Remarks on Recent Films Spark Intense Social Media Debate Over Propaganda",
-      "Why Tom Hanks' 1993 Drama Remains His Finest Career Achievement Over Three Decades Later"
+      "Another Bomb Threat? After Mumbai, Diljit's Bengaluru Concert Targeted With 'Khalistan Zindabad' Mail",
+      "Anant Singh Daughter Wedding: WHO Is Rishikesh Kumar? All About Bihar MLA's Soon-To-Be Jamai Raja",
+      "Anupam Kher Features In Ram Bhakt Hanuman, A Song About Finding God In Everyday Goodness",
+      "ramayana box office collection day 19 the epics eyes are set on pushpa 2_ 87337.html",
+      "international emmy awards 2026 winners vir das real kashmir football club miss out full list here 87336.html",
+      "i will give you a song salman khan offers qazi a song 87335.html",
+      "international emmy awards 2026 vir das loses to division palermo season 2 in the comedy category 87334.html",
+      "international emmy awards 2026 vijay sethupathi vir das park ji hyun more grace the red carpet 87333.html",
+      "Hema pens note for Dharmendra on his first death anniversary",
+      "Anil pens a note for Dharmendra on his first death anniversary",
+      "Hiroyuki Sanada in final talks to join live-action ‘Naruto’",
+      "Jeetendra on Tusshar Kapoor's 50th birthday",
+      "Mammootty’s ‘Mela’ completes 100 days of shooting, makers share update",
+      "Ramayana VFX artist says DNEG laid him off after 4.6 years",
+      "Parvathy Thiruvothu reveals ADHD diagnosis, says she wants to hustle like never before",
+      "Marathi thriller 'Gondhal' and 'Angh' enter 2027 International Feature Film eligibility list",
+      "All India Cine Workers Association asks PM Modi to ban Pakistani Netflix show Bachay Hain Sang Samait Lo in India",
+      "Dharmendra, my existence: Hema Malini talks grief in moving anniversary post",
+      "Ramayana pulled out of 750 theatres in North America. What does it mean for the epic?",
+      "1 Month To Go! Siddharth Anand’s Cryptic ’30’ Tweet Sparks Speculation As Countdown For Shah Rukh Khan’s KING Begins"
      ],
      "updated": [],
-     "count": 7,
-     "detail": "+4 articles, +0 box-office rows, 3 rows updated"
+     "count": 302,
+     "detail": "309 stories, 2 duplicates removed, 112 dropped"
     },
     "reason": null
-   },
+   }
+  ],
+  "apply_auto": [
    {
     "step": "apply_auto",
     "category": "Trending News",
@@ -1471,27 +1448,32 @@
      "detail": "+4 articles, +0 box-office rows, 3 rows updated"
     },
     "reason": null
+   },
+   {
+    "step": "apply_auto",
+    "category": "Trending News",
+    "run_at": "2026-11-24T07:53:04Z",
+    "run_id": "45351114818",
+    "status": "success",
+    "checked": {
+     "candidates": 14,
+     "detail": "draft articles + box-office rows from out/gemini-batch.json"
+    },
+    "changed": {
+     "added": [
+      "Diljit Dosanjh Concerts Targeted With Multiple Bomb Threats During India Tour",
+      "Reviewing It’s a Wonderful Life: A Live Radio Play on Broadway",
+      "Oscars 2027: Gondhal Among 104 Films On International Feature Eligibility List, 38 Animated Films And 190 Documentaries In Race",
+      "Netflix's The Eternaut Adaptation Defies Decades of Development Hell"
+     ],
+     "updated": [],
+     "count": 7,
+     "detail": "+4 articles, +0 box-office rows, 3 rows updated"
+    },
+    "reason": null
    }
   ],
   "ott": [
-   {
-    "step": "ott",
-    "category": "OTT",
-    "run_at": "2026-11-23T06:53:38Z",
-    "run_id": "45126865101",
-    "status": "success",
-    "checked": {
-     "candidates": 417,
-     "detail": "OTT now/coming titles from the published catalogue"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 0,
-     "detail": "now 410, coming 7"
-    },
-    "reason": "no-new-data"
-   },
    {
     "step": "ott",
     "category": "OTT",
@@ -1905,26 +1887,27 @@
      "detail": "now 414, coming 5"
     },
     "reason": null
-   }
-  ],
-  "trending_weekly": [
+   },
    {
-    "step": "trending_weekly",
-    "category": "Trending Topics",
-    "run_at": "2026-11-23T06:55:10Z",
-    "run_id": "45126865101",
+    "step": "ott",
+    "category": "OTT",
+    "run_at": "2026-11-24T07:53:04Z",
+    "run_id": "45351114818",
     "status": "success",
     "checked": {
-     "candidates": 100,
-     "detail": "cached Google RSS trend/article intersection"
+     "candidates": 419,
+     "detail": "OTT now/coming titles from the published catalogue"
     },
     "changed": {
      "added": [],
      "updated": [],
-     "count": 0
+     "count": 0,
+     "detail": "now 414, coming 5"
     },
     "reason": "no-new-data"
-   },
+   }
+  ],
+  "trending_weekly": [
    {
     "step": "trending_weekly",
     "category": "Trending Topics",
@@ -2403,27 +2386,30 @@
      "count": 0
     },
     "reason": "no-new-data"
+   },
+   {
+    "step": "trending_weekly",
+    "category": "Trending Topics",
+    "run_at": "2026-11-24T08:03:07Z",
+    "run_id": "45351114818",
+    "status": "success",
+    "checked": {
+     "candidates": 100,
+     "detail": "cached Google RSS trend/article intersection"
+    },
+    "changed": {
+     "added": [
+      "lubsck",
+      "r22llq",
+      "p7t2ai"
+     ],
+     "updated": [],
+     "count": 3
+    },
+    "reason": null
    }
   ],
   "multisource_boxoffice": [
-   {
-    "step": "multisource_boxoffice",
-    "category": "Box Office",
-    "run_at": "2026-11-23T06:54:21Z",
-    "run_id": "45126865101",
-    "status": "success",
-    "checked": {
-     "candidates": 745,
-     "detail": "684 collected staging rows from readers; 254 averaged across 2+ sources"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 4,
-     "detail": "+0 new rows, 4 updated rows, 714 unchanged"
-    },
-    "reason": null
-   },
    {
     "step": "multisource_boxoffice",
     "category": "Box Office",
@@ -2837,19 +2823,27 @@
      "detail": "+0 new rows, 4 updated rows, 719 unchanged"
     },
     "reason": null
+   },
+   {
+    "step": "multisource_boxoffice",
+    "category": "Box Office",
+    "run_at": "2026-11-24T08:03:03Z",
+    "run_id": "45351114818",
+    "status": "success",
+    "checked": {
+     "candidates": 750,
+     "detail": "687 collected staging rows from readers; 256 averaged across 2+ sources"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 4,
+     "detail": "+0 new rows, 4 updated rows, 719 unchanged"
+    },
+    "reason": null
    }
   ],
   "gemini_reviews": [
-   {
-    "step": "gemini_reviews",
-    "category": "Reviews",
-    "run_at": "2026-11-23T06:55:21Z",
-    "run_id": "45126865101",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "gemini_reviews",
     "category": "Reviews",
@@ -3086,32 +3080,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "gemini_reviews",
+    "category": "Reviews",
+    "run_at": "2026-11-24T08:03:17Z",
+    "run_id": "45351114818",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "convert_news": [
-   {
-    "step": "convert_news",
-    "category": "Trending News",
-    "run_at": "2026-11-23T06:55:10Z",
-    "run_id": "45126865101",
-    "status": "success",
-    "checked": {
-     "candidates": 600,
-     "detail": "feed entries from out/queue.json"
-    },
-    "changed": {
-     "added": [
-      "Sanjay Leela Bhansali Plans Unique Musical Rollout for Upcoming Film Love & War",
-      "Johnny Depp’s Ebenezer Suffers Major Second-Weekend Box Office Slump",
-      "Shraddha Kapoor Surprises Fans With Special Stage Appearance at Shreya Ghoshal's Bengaluru Concert",
-      "SS Rajamouli's Varanasi Production Sets Allegedly Leak on Apple Maps"
-     ],
-     "updated": [],
-     "count": 4,
-     "detail": "api-news.json 600 items, api-trends.json 12 items"
-    },
-    "reason": null
-   },
    {
     "step": "convert_news",
     "category": "Trending News",
@@ -3621,19 +3602,32 @@
      "detail": "api-news.json 600 items, api-trends.json 12 items"
     },
     "reason": null
+   },
+   {
+    "step": "convert_news",
+    "category": "Trending News",
+    "run_at": "2026-11-24T08:03:06Z",
+    "run_id": "45351114818",
+    "status": "success",
+    "checked": {
+     "candidates": 600,
+     "detail": "feed entries from out/queue.json"
+    },
+    "changed": {
+     "added": [
+      "Netflix's The Eternaut Adaptation Defies Decades of Development Hell",
+      "Diljit Dosanjh Concerts Targeted With Multiple Bomb Threats During India Tour",
+      "Oscars 2027: Gondhal Among 104 Films On International Feature Eligibility List, 38 Animated Films And 190 Documentaries In Race",
+      "Reviewing It’s a Wonderful Life: A Live Radio Play on Broadway"
+     ],
+     "updated": [],
+     "count": 4,
+     "detail": "api-news.json 600 items, api-trends.json 12 items"
+    },
+    "reason": null
    }
   ],
   "episode_guides": [
-   {
-    "step": "episode_guides",
-    "category": "Drama Episodes",
-    "run_at": "2026-11-23T06:55:21Z",
-    "run_id": "45126865101",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "episode_guides",
     "category": "Drama Episodes",
@@ -3895,65 +3889,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "episode_guides",
+    "category": "Drama Episodes",
+    "run_at": "2026-11-24T08:03:17Z",
+    "run_id": "45351114818",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "title_seed": [
-   {
-    "step": "title_seed",
-    "category": "Spotlight / Coming Soon / Most Awaited",
-    "run_at": "2026-11-23T06:52:35Z",
-    "run_id": "45126865101",
-    "status": "success",
-    "checked": {
-     "candidates": 514,
-     "sources": {
-      "trending": 20,
-      "trending_tv": 20,
-      "now_playing": 40,
-      "upcoming": 40,
-      "bollywood": 40,
-      "hindi_recent_movies": 100,
-      "india_window": 40,
-      "world_window": 40,
-      "world_recent": 60,
-      "pk_dramas": 20,
-      "new_tv": 40,
-      "hindi_recent_tv": 39,
-      "pk_movies": 15
-     },
-     "picked": 20,
-     "skipped": 0,
-     "cap": 20,
-     "detail": "Hindi recent movies/TV date-ranked p1-5 + existing regional/trending sources retained"
-    },
-    "changed": {
-     "added": [
-      "Signal at 11:30 (1634545)",
-      "La dernière bobine, Pierre Schoendoerffer et les images perdues de Diên Biên Phu (1839489)",
-      "Asterix: The Kingdom of Nubia (1084728)",
-      "SKATE BY SKATERS (1839231)",
-      "Santaphobia (1828699)",
-      "Family Guy The Peter Clause (1827764)",
-      "Tetanus (1824664)",
-      "O Sentimento da Queda (1823940)",
-      "Jagalkorak Tapak Proletariat (1822482)",
-      "Here Comes Her Typhoon (1822473)",
-      "Fairy Baursaq (1821451)",
-      "Dust in Dawn (1821422)",
-      "CANDEUR (1819250)",
-      "What a Ghost Can Do (1818282)",
-      "Le case spezzate (1818199)",
-      "Bearer of bad news (1817825)",
-      "Amigo Invisible (1817726)",
-      "One Must Change (1809648)",
-      "From The Soul (1805350)",
-      "A Minha Reputação De Mulherengo É Uma Piada Que Me Fez Rir Amargamente Pelas Dez Mil Noites Que Eu Passei Sozinho (1800514)"
-     ],
-     "updated": [],
-     "count": 20
-    },
-    "reason": null
-   },
    {
     "step": "title_seed",
     "category": "Spotlight / Coming Soon / Most Awaited",
@@ -4275,31 +4223,19 @@
      "count": 20
     },
     "reason": null
+   },
+   {
+    "step": "title_seed",
+    "category": "Spotlight / Coming Soon / Most Awaited",
+    "run_at": "2026-11-24T08:03:17Z",
+    "run_id": "45351114818",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "gemini_batch": [
-   {
-    "step": "gemini_batch",
-    "category": "Trending News",
-    "run_at": "2026-11-23T06:53:37Z",
-    "run_id": "45126865101",
-    "status": "success",
-    "checked": {
-     "candidates": 5,
-     "detail": "news queue items drafted this run; 270 still unprocessed; today by category: movies 4/6, tv_dramas 3/4, episodes 0/2, box_office 7/6, celebrities_events 5/5, upcoming_releases 5/4, ott_streaming 2/4, trailers 0/3, awards 1/2, music_ost 1/2, viral 0/2"
-    },
-    "changed": {
-     "added": [
-      "Sanjay Leela Bhansali Plans Unique Musical Rollout for Upcoming Film Love & War",
-      "Johnny Depp’s Ebenezer Suffers Major Second-Weekend Box Office Slump",
-      "Shraddha Kapoor Surprises Fans With Special Stage Appearance at Shreya Ghoshal's Bengaluru Concert",
-      "SS Rajamouli's Varanasi Production Sets Allegedly Leak on Apple Maps"
-     ],
-     "updated": [],
-     "count": 4
-    },
-    "reason": null
-   },
    {
     "step": "gemini_batch",
     "category": "Trending News",
@@ -4791,19 +4727,31 @@
      "count": 4
     },
     "reason": null
+   },
+   {
+    "step": "gemini_batch",
+    "category": "Trending News",
+    "run_at": "2026-11-24T07:53:04Z",
+    "run_id": "45351114818",
+    "status": "success",
+    "checked": {
+     "candidates": 4,
+     "detail": "news queue items drafted this run; 302 still unprocessed; today by category: movies 6/6, tv_dramas 5/4, episodes 0/2, box_office 9/6, celebrities_events 8/5, upcoming_releases 0/4, ott_streaming 2/4, trailers 1/3, awards 3/2, music_ost 1/2, viral 1/2"
+    },
+    "changed": {
+     "added": [
+      "Diljit Dosanjh Concerts Targeted With Multiple Bomb Threats During India Tour",
+      "Reviewing It’s a Wonderful Life: A Live Radio Play on Broadway",
+      "Oscars 2027: Gondhal Among 104 Films On International Feature Eligibility List, 38 Animated Films And 190 Documentaries In Race",
+      "Netflix's The Eternaut Adaptation Defies Decades of Development Hell"
+     ],
+     "updated": [],
+     "count": 4
+    },
+    "reason": null
    }
   ],
   "overseas_ai": [
-   {
-    "step": "overseas_ai",
-    "category": "Box Office",
-    "run_at": "2026-11-23T06:55:21Z",
-    "run_id": "45126865101",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "overseas_ai",
     "category": "Box Office",
@@ -5110,24 +5058,26 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "publish": [
+   },
    {
-    "step": "publish",
-    "category": "Trending News",
-    "run_at": "2026-11-23T06:55:21Z",
-    "run_id": "45126865101",
+    "step": "overseas_ai",
+    "category": "Box Office",
+    "run_at": "2026-11-24T07:54:31Z",
+    "run_id": "45351114818",
     "status": "success",
-    "checked": null,
+    "checked": {
+     "candidates": 59,
+     "detail": "published movies with missing overseas day figures; Tavily searches: 48"
+    },
     "changed": {
      "added": [],
      "updated": [],
-     "count": 439,
-     "detail": "lines changed in owned files; no per-item summary from script"
+     "count": 0
     },
-    "reason": null
-   },
+    "reason": "no-new-data"
+   }
+  ],
+  "publish": [
    {
     "step": "publish",
     "category": "Trending News",
@@ -5467,24 +5417,24 @@
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
-   }
-  ],
-  "stats_traffic": [
+   },
    {
-    "step": "stats_traffic",
-    "category": "Stats / Health",
-    "run_at": "2026-11-23T06:55:21Z",
-    "run_id": "45126865101",
+    "step": "publish",
+    "category": "Trending News",
+    "run_at": "2026-11-24T08:03:17Z",
+    "run_id": "45351114818",
     "status": "success",
     "checked": null,
     "changed": {
      "added": [],
      "updated": [],
-     "count": 18,
+     "count": 419,
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
-   },
+   }
+  ],
+  "stats_traffic": [
    {
     "step": "stats_traffic",
     "category": "Stats / Health",
@@ -5789,24 +5739,24 @@
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
-   }
-  ],
-  "stats_pipeline": [
+   },
    {
-    "step": "stats_pipeline",
+    "step": "stats_traffic",
     "category": "Stats / Health",
-    "run_at": "2026-11-23T06:55:21Z",
-    "run_id": "45126865101",
+    "run_at": "2026-11-24T08:03:17Z",
+    "run_id": "45351114818",
     "status": "success",
     "checked": null,
     "changed": {
      "added": [],
      "updated": [],
-     "count": 82,
+     "count": 2,
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
-   },
+   }
+  ],
+  "stats_pipeline": [
    {
     "step": "stats_pipeline",
     "category": "Stats / Health",
@@ -6056,24 +6006,19 @@
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
+   },
+   {
+    "step": "stats_pipeline",
+    "category": "Stats / Health",
+    "run_at": "2026-11-24T08:03:17Z",
+    "run_id": "45351114818",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "stats_health": [
-   {
-    "step": "stats_health",
-    "category": "Stats / Health",
-    "run_at": "2026-11-23T06:55:21Z",
-    "run_id": "45126865101",
-    "status": "success",
-    "checked": null,
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 6,
-     "detail": "lines changed in owned files; no per-item summary from script"
-    },
-    "reason": null
-   },
    {
     "step": "stats_health",
     "category": "Stats / Health",
@@ -6308,74 +6253,19 @@
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
+   },
+   {
+    "step": "stats_health",
+    "category": "Stats / Health",
+    "run_at": "2026-11-24T08:03:17Z",
+    "run_id": "45351114818",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "metadata_refresh": [
-   {
-    "step": "metadata_refresh",
-    "category": "Spotlight / Coming Soon / Most Awaited",
-    "run_at": "2026-11-23T06:53:14Z",
-    "run_id": "45126865101",
-    "status": "success",
-    "checked": {
-     "candidates": 50,
-     "valid": 47,
-     "failed": 3,
-     "detail": "published titles in the 90-day window, newest first; counts are valid detail responses and failed detail requests"
-    },
-    "changed": {
-     "added": [],
-     "updated": [
-      "Carmen, La Matador (1826815)",
-      "Beyond the beyond (1821937)",
-      "Bitartean, gero (1819753)",
-      "Ice Factory Ghost (1815740)",
-      "If the Birds Sing (1810479)",
-      "BLACK STAR (1806331)",
-      "Jingle Hell (1774793)",
-      "Holy Wood Dust (1625362)",
-      "Clashing Through the Snow (1611767)",
-      "Axolodyssey (1545540)",
-      "The Other You (1493707)",
-      "Redes de Carrizo (1827159)",
-      "Soulala (1704035)",
-      "Retratos (1827515)",
-      "บรรยากาศฝนตก (1823438)",
-      "DRACHEN (1821973)",
-      "FOOSED (1821656)",
-      "Soy Boy: The Soyfather (1819759)",
-      "Guretako eztia (1819751)",
-      "Neska bat desagertu da (1819740)",
-      "Slowly Through the Red Mountains (1815025)",
-      "Lotería (1813127)",
-      "Oly's Dean (1812797)",
-      "Matrona (1814810)",
-      "In the Sweet Arms (1810733)",
-      "Kill You! (1810503)",
-      "Forgotten Founder: The Untold Story of Samson Occom and Dartmouth (1804633)",
-      "A Song from Beyond (1803124)",
-      "Rifugiati climatici (1803106)",
-      "LVX (1798143)",
-      "This Land (1797421)",
-      "Mother, There’s a Star in Me (1796870)",
-      "Nice to Meet You, Amigo (1788638)",
-      "Revolution for Beginners (1826832)",
-      "Supreme Solaris (338740)",
-      "Battle Through the Heavens Movie：Duel of the Two Dou Emperors (1599184)",
-      "The Witch Farm (340566)",
-      "Nataša (1824536)",
-      "All Things Come To Night (1823028)",
-      "Axes and Orchids (1822817)",
-      "Soap (1822674)",
-      "Chulita (1822294)",
-      "Disharmony (1821967)",
-      "BTS WORLD TOUR 'ARIRANG' IN KAOHSIUNG: LIVE VIEWING (1820083)",
-      "I've Never Met Myself (1819796)"
-     ],
-     "count": 45
-    },
-    "reason": null
-   },
    {
     "step": "metadata_refresh",
     "category": "Spotlight / Coming Soon / Most Awaited",
@@ -6659,19 +6549,19 @@
      "count": 44
     },
     "reason": null
-   }
-  ],
-  "providers_backfill": [
+   },
    {
-    "step": "providers_backfill",
-    "category": "OTT",
-    "run_at": "2026-11-23T06:55:21Z",
-    "run_id": "45126865101",
+    "step": "metadata_refresh",
+    "category": "Spotlight / Coming Soon / Most Awaited",
+    "run_at": "2026-11-24T08:03:17Z",
+    "run_id": "45351114818",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "providers_backfill": [
    {
     "step": "providers_backfill",
     "category": "OTT",
@@ -6912,19 +6802,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "tavily_boxoffice": [
+   },
    {
-    "step": "tavily_boxoffice",
-    "category": "Box Office",
-    "run_at": "2026-11-23T06:55:21Z",
-    "run_id": "45126865101",
+    "step": "providers_backfill",
+    "category": "OTT",
+    "run_at": "2026-11-24T08:03:17Z",
+    "run_id": "45351114818",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "tavily_boxoffice": [
    {
     "step": "tavily_boxoffice",
     "category": "Box Office",
@@ -7154,19 +7044,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "tavily_boxoffice",
+    "category": "Box Office",
+    "run_at": "2026-11-24T08:03:17Z",
+    "run_id": "45351114818",
+    "status": "success",
+    "checked": null,
+    "changed": null,
+    "reason": "no-new-data"
    }
   ],
   "keywords_refresh": [
-   {
-    "step": "keywords_refresh",
-    "category": "Trending News",
-    "run_at": "2026-11-23T06:55:21Z",
-    "run_id": "45126865101",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "keywords_refresh",
     "category": "Trending News",
@@ -7419,31 +7309,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "keywords_refresh",
+    "category": "Trending News",
+    "run_at": "2026-11-24T08:03:17Z",
+    "run_id": "45351114818",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "overseas_sweep": [
-   {
-    "step": "overseas_sweep",
-    "category": "Box Office",
-    "run_at": "2026-11-22T05:52:39Z",
-    "run_id": "44991119593",
-    "status": "success",
-    "checked": {
-     "candidates": 595,
-     "detail": "completed day-wise rows missing overseas; quicknews pages fetched: 14; attempt cooldown deferred: 581"
-    },
-    "changed": {
-     "added": [
-      "Jailer 2 (1234139)",
-      "Ranabaali (1389379)",
-      "418 (1606527)",
-      "Nayyi Navelli (1654581)"
-     ],
-     "updated": [],
-     "count": 14
-    },
-    "reason": null
-   },
    {
     "step": "overseas_sweep",
     "category": "Box Office",
@@ -7958,24 +7836,31 @@
      "count": 15
     },
     "reason": null
+   },
+   {
+    "step": "overseas_sweep",
+    "category": "Box Office",
+    "run_at": "2026-11-24T07:53:31Z",
+    "run_id": "45351114818",
+    "status": "success",
+    "checked": {
+     "candidates": 604,
+     "detail": "completed day-wise rows missing overseas; quicknews pages fetched: 15; attempt cooldown deferred: 589"
+    },
+    "changed": {
+     "added": [
+      "Jailer 2 (1234139)",
+      "Ranabaali (1389379)",
+      "418 (1606527)",
+      "Nayyi Navelli (1654581)"
+     ],
+     "updated": [],
+     "count": 14
+    },
+    "reason": null
    }
   ],
   "advance_booking": [
-   {
-    "step": "advance_booking",
-    "category": "Box Office",
-    "run_at": "2026-11-23T06:55:21Z",
-    "run_id": "45126865101",
-    "status": "success",
-    "checked": null,
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 294,
-     "detail": "lines changed in owned files; no per-item summary from script"
-    },
-    "reason": null
-   },
    {
     "step": "advance_booking",
     "category": "Box Office",
@@ -8215,24 +8100,19 @@
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
+   },
+   {
+    "step": "advance_booking",
+    "category": "Box Office",
+    "run_at": "2026-11-24T08:03:17Z",
+    "run_id": "45351114818",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "home_boxoffice_worldwide": [
-   {
-    "step": "home_boxoffice_worldwide",
-    "category": "Box Office",
-    "run_at": "2026-11-23T06:55:21Z",
-    "run_id": "45126865101",
-    "status": "success",
-    "checked": null,
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 7907,
-     "detail": "lines changed in owned files; no per-item summary from script"
-    },
-    "reason": null
-   },
    {
     "step": "home_boxoffice_worldwide",
     "category": "Box Office",
@@ -8497,8 +8377,18 @@
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
+   },
+   {
+    "step": "home_boxoffice_worldwide",
+    "category": "Box Office",
+    "run_at": "2026-11-24T08:03:17Z",
+    "run_id": "45351114818",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ]
  },
- "updated_at": "2026-11-24T06:55:05Z"
+ "updated_at": "2026-11-24T08:03:17Z"
 }

@@ -235870,5 +235870,424 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Tue, 24 Nov 2026 05:05:12 GMT"
+  },
+  "1i0q1uy": {
+    "id": "1i0q1uy",
+    "type": "news",
+    "headline": "Diljit Dosanjh Concerts Targeted With Multiple Bomb Threats During India Tour",
+    "dek": "Singer Diljit Dosanjh's ongoing Aura India Tour has faced serious security scares after threatening emails warning of explosions were sent regarding his upcoming concert venues.",
+    "body": [
+      {
+        "h": "Tour Security Scares",
+        "p": [
+          "The ongoing Aura India Tour featuring singer Diljit Dosanjh has encountered serious security concerns following threatening communications directed at upcoming concert locations. Authorities have been placed on high alert as multiple warnings target public performances scheduled across different cities.",
+          "The alarming messages have prompted immediate responses from law enforcement agencies, forcing security teams to reevaluate protective protocols and increase vigilance around the venues where large crowds are expected to gather."
+        ]
+      },
+      {
+        "h": "Bengaluru Show Targeted",
+        "p": [
+          "According to reports from Aaj Tak, the Dharwad Police Commissioner received a threatening email warning of a potential improvised explosive device blast at the upcoming Bengaluru event. The message specifically targeted the scheduled November 29 show at the NICE Road ground in Madavara.",
+          "The electronic communication included the slogan \"Khalistan Zindabad\" alongside specific warnings cautioning attendees against bringing children to the venue, answering iPhones, or utilizing the metro system for travel. Local law enforcement has launched an active investigation to verify the threat and locate the sender."
+        ]
+      },
+      {
+        "h": "Mumbai Concert Linked Threat",
+        "p": [
+          "In addition to the Bengaluru warning, the singer's upcoming Mumbai performance has also faced a security scare. Times Now reported that a threatening message was sent to the Pune District and Sessions Court regarding the November 27 performance slated for the Mahalaxmi Racecourse in Mumbai.",
+          "This particular message was allegedly issued in the name of the Khalistan National Army and contained explicit warnings concerning the concert. Security agencies were immediately alerted to assess the situation and implement necessary protective measures ahead of the event."
+        ]
+      },
+      {
+        "h": "Court Premises Affected",
+        "p": [
+          "The threat impacting the Mumbai performance was intertwined with a separate security incident at the judicial facility in Pune. The Pune District and Sessions Court received the threatening email on Monday, resulting in heightened security checks and increased caution across the premises.",
+          "Investigative teams are currently examining the connection between the message sent to the judicial facility and the safety concerns raised regarding the high-profile musical performance scheduled for later in the week."
+        ]
+      },
+      {
+        "h": "Ahmedabad Deployment Precedent",
+        "p": [
+          "Prior to these specific email warnings, the tour had already required extensive security deployments during previous stops. The singer recently performed at the Narendra Modi Stadium in Ahmedabad under heavily guarded conditions designed to manage massive crowds.",
+          "To ensure public safety, regulate traffic movement, and maintain law and order, nearly 2,000 police personnel were deployed alongside approximately 1,500 private security guards stationed throughout the stadium grounds."
+        ]
+      },
+      {
+        "h": "Ongoing Police Investigations",
+        "p": [
+          "Law enforcement branches across multiple jurisdictions are actively working to trace the origins of the threatening messages. Digital forensics teams are tracking the email communications to identify the individuals responsible for generating the panic.",
+          "Authorities continue to coordinate closely with event organizers to ensure that all necessary precautions are met, balancing the need for public safety with the continuation of the nationwide concert schedule."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Singer Diljit Dosanjh's Aura India Tour has received back-to-back bomb threats via email targeting upcoming performances in Bengaluru and Mumbai. Law enforcement agencies are actively investigating the messages, which included the slogan Khalistan Zindabad, following extensive security deployments during previous stops like Ahmedabad."
+        ]
+      }
+    ],
+    "facts": [
+      "Diljit Dosanjh's Bengaluru concert is scheduled for November 29, 2026 at the NICE Road ground in Madavara.",
+      "The Dharwad Police Commissioner received an email warning of an IED blast.",
+      "The Pune District and Sessions Court received a bomb threat via email on Monday.",
+      "Diljit Dosanjh's Mumbai concert is scheduled for November 27 at Mahalaxmi Racecourse.",
+      "Nearly 2,000 police personnel and 1,500 private security guards were deployed at Ahmedabad's Narendra Modi Stadium."
+    ],
+    "entities": {
+      "people": [
+        "Diljit Dosanjh",
+        "Deepak Bopanna"
+      ],
+      "titles": []
+    },
+    "keywords": [
+      "Diljit Dosanjh concert bomb threat",
+      "Diljit Dosanjh Bengaluru concert",
+      "Diljit Dosanjh Mumbai concert threat",
+      "Diljit Dosanjh Aura India Tour"
+    ],
+    "images": [
+      {
+        "url": "https://images.filmibeat.com/img/2026/11/feature-2026-11-24t123622-963-11301795503989.jpg",
+        "caption": "Diljit Dosanjh Concerts Targeted With Multiple Bomb Threats During India Tour",
+        "source": "FilmiBeat"
+      }
+    ],
+    "published": "Tue, 24 Nov 2026 13:14:56 +0530"
+  },
+  "1vh4hff": {
+    "id": "1vh4hff",
+    "type": "news",
+    "headline": "Reviewing It’s a Wonderful Life: A Live Radio Play on Broadway",
+    "dek": "A look at the Broadway production of Joe Landry’s radio play adaptation starring Andrew Rannells, Megan Hilty, Tituss Burgess, Harry Hamlin, and Lisa Rinna at the Broadhurst Theatre.",
+    "body": [
+      {
+        "h": "Stepping Into Bedford Falls on Broadway",
+        "p": [
+          "The holiday season brings forth familiar traditions, including cherished cinematic classics. For many households, watching the 1946 masterpiece starring Jimmy Stewart is an essential Yuletide custom.",
+          "Given this deep cultural footprint, the current Broadway staging of Joe Landry’s It’s a Wonderful Life: A Live Radio Play at the Broadhurst Theatre arrives with built-in nostalgia and high expectations."
+        ]
+      },
+      {
+        "h": "The Cast and Production Setup",
+        "p": [
+          "The production features a notable ensemble cast including Andrew Rannells, Megan Hilty, Tituss Burgess, Harry Hamlin, and Lisa Rinna, alongside a stage pianist and a Foley artist.",
+          "Director Jerry Zaks and set designer Santo Loquasto transformed the Broadhurst Theatre to mimic a 1940s Manhattan radio studio, complete with vintage stand microphones and festive holiday decor."
+        ]
+      },
+      {
+        "h": "A Compressed and Rapid-Fire Adaptation",
+        "p": [
+          "Clocking in at 90 minutes without an intermission, the show skips traditional commercial breaks and rushes through George Bailey’s entire life story at a breakneck pace.",
+          "The narrative touches upon all the major plot points, from George's childhood and unfulfilled travel dreams to his decades-long rivalry with Mr. Potter and the fateful intervention of his guardian angel."
+        ]
+      },
+      {
+        "h": "Performance Highlights Amid the Rush",
+        "p": [
+          "Despite the hurried momentum, certain moments manage to shine through the approximation. Megan Hilty delivers a sweet rendition of young Mary Hatch, while Andrew Rannells brings visible emotion to George's desperate prayer.",
+          "Harry Hamlin commands the stage in a baritone voice welcoming audiences to the fictional broadcast, and Tituss Burgess takes on the role of Clarence the guardian angel."
+        ]
+      },
+      {
+        "h": "Theater as Commodity Versus Art",
+        "p": [
+          "The relentless speed leaves little room to breathe, occasionally creating the uncanny sensation of consuming media at an accelerated playback speed.",
+          "This design choice points toward a broader critique of commercial theater as an efficient holiday commodity rather than a deep exploration of the source material's heavier dramatic themes."
+        ]
+      },
+      {
+        "h": "Losing the Politics of a Classic",
+        "p": [
+          "Frank Capra’s original cinematic work was more than just a seasonal bauble; it functioned as a pointed rebuke against predatory wealth and the dominance of the richest men in town.",
+          "By leaning heavily into coziness and palatable holiday cheer, the radio play adaptation largely distances itself from the class consciousness, anger, and sadness inherent in the core story."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "The Broadway production of It’s a Wonderful Life: A Live Radio Play brings a star-studded cast to the Broadhurst Theatre for a fast-paced holiday staging. While featuring notable performances, the compressed ninety-minute format trades the original film's deeper social commentary for speedy seasonal comfort."
+        ]
+      }
+    ],
+    "facts": [
+      "The Broadway production of It’s a Wonderful Life: A Live Radio Play is staged at the Broadhurst Theatre.",
+      "Joe Landry’s radio play adaptation was first performed in 1996.",
+      "The production stars Andrew Rannells, Megan Hilty, Tituss Burgess, Harry Hamlin, and Lisa Rinna.",
+      "Jerry Zaks serves as the director, while Santo Loquasto handles set and costume design.",
+      "The show runs for 90 minutes with no intermission."
+    ],
+    "entities": {
+      "people": [
+        "Andrew Rannells",
+        "Tituss Burgess",
+        "Megan Hilty",
+        "Harry Hamlin",
+        "Lisa Rinna",
+        "Joe Landry",
+        "Jimmy Stewart",
+        "Frank Capra",
+        "Jerry Zaks",
+        "Santo Loquasto"
+      ],
+      "titles": [
+        "It’s a Wonderful Life",
+        "It’s a Wonderful Life: A Live Radio Play",
+        "The Muppet Christmas Carol",
+        "Rare Exports",
+        "Die Hard"
+      ]
+    },
+    "keywords": [
+      "It’s a Wonderful Life Broadway",
+      "Andrew Rannells It’s a Wonderful Life",
+      "Tituss Burgess Broadhurst Theatre",
+      "Joe Landry radio play adaptation"
+    ],
+    "images": [
+      {
+        "url": "https://pyxis.nymag.com/v1/imgs/a38/15f/f5ddb72be0ff03371d193d1fb80e18352a-iawl-broadway.1x.rsocial.w1200.jpg",
+        "caption": "Reviewing It’s a Wonderful Life: A Live Radio Play on Broadway",
+        "source": "Vulture"
+      }
+    ],
+    "published": "2026-11-24T02:28:02.596Z"
+  },
+  "18voi4g": {
+    "id": "18voi4g",
+    "type": "news",
+    "headline": "Oscars 2027: Gondhal Among 104 Films On International Feature Eligibility List, 38 Animated Films And 190 Documentaries In Race",
+    "dek": "The Academy of Motion Picture Arts and Sciences has revealed the eligibility lists for the 99th Academy Awards, featuring a record number of international feature films and documentary contenders.",
+    "body": [
+      {
+        "h": "The Academy Reveals Eligibility Lists for the 99th Oscars",
+        "p": [
+          "The Academy of Motion Picture Arts and Sciences has officially published the eligibility lists for the animated feature, documentary feature, and international feature categories for the upcoming 99th Academy Awards. This announcement sets the stage for the global cinematic race, highlighting hundreds of submissions from around the world.",
+          "Filmmakers and studios are now looking forward to the upcoming voting periods and shortlists as their entries officially enter the competition for Academy recognition."
+        ]
+      },
+      {
+        "h": "Record-Breaking Turnout in International Features",
+        "p": [
+          "Setting a brand new record, an impressive 104 international feature films have successfully secured a place on the eligibility list. This total encompasses 100 official submissions sent directly by various countries and regions.",
+          "India's Gondhal is included among this massive group of international feature entries, alongside notable entries like Romania's Fjord, which previously claimed the Cannes Palme d'Or."
+        ]
+      },
+      {
+        "h": "Festival Winners Route to Qualification",
+        "p": [
+          "In addition to standard country submissions, several films qualified for the international feature category through the Academy's recognized festival award route. These include Yellow Letters, Shame and Money, Midday Meal, and Angh.",
+          "These selections demonstrate the diverse pathways international titles can take to reach Academy consideration, bypassing traditional direct submissions by leveraging major festival accolades."
+        ]
+      },
+      {
+        "h": "Animated Feature Contenders Face Theatrical Rules",
+        "p": [
+          "A total of 38 films have made the cut for the animated feature eligibility list, showcasing popular titles released throughout the year. Notable international entries include Japan's Cosmic Princess Kaguya! and All You Need Is Kill, alongside Mexico's I Am Frankelda and major studio releases like Toy Story 5.",
+          "Some of these animated contenders are still working to complete their required theatrical runs and meet all of the strict eligibility guidelines enforced by the Academy."
+        ]
+      },
+      {
+        "h": "Documentary Feature Category Sees Massive Numbers",
+        "p": [
+          "The documentary feature category has also set a new record with a staggering 190 films entering the race. These projects tackle diverse subjects ranging from music, politics, art, and sports to true crime.",
+          "Prominent titles in this category include Knife: The Attempted Murder of Salman Rushdie, Ask E. Jean, and Musk. Furthermore, fourteen specific films feature on both the documentary and international feature eligibility lists simultaneously."
+        ]
+      },
+      {
+        "h": "Milestones and Branch Voting Procedures",
+        "p": [
+          "Among the documentary contenders, Nathan Fielder and Lance Oppenheim's You Can See Everything has achieved a rare box office milestone by crossing $100 million worldwide.",
+          "Looking ahead at the voting process, the Animation branch will vote to select five nominees, while the Documentary branch will narrow down their field to a 15-film shortlist and eventual final nominees."
+        ]
+      },
+      {
+        "h": "Important Dates Leading to the 99th Academy Awards",
+        "p": [
+          "The Academy has laid out a clear timeline for the upcoming award season. Preliminary voting for select categories will take place from December 7 to December 11, followed by the announcement of the documentary shortlist on December 15.",
+          "The official Oscar nominations will be revealed on January 21, 2027. Finally, the 99th Academy Awards ceremony is scheduled to take place on March 14, 2027, at the Dolby Theatre at Ovation Hollywood."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "The Academy of Motion Picture Arts and Sciences released the eligibility lists for the 99th Oscars, featuring 104 international features including India's Gondhal, 38 animated films, and 190 documentaries.",
+          "The nominations will be announced on January 21, 2027, leading up to the main ceremony on March 14, 2027, at the Dolby Theatre at Ovation Hollywood."
+        ]
+      }
+    ],
+    "facts": [
+      "The Academy announced eligibility lists for the 99th Oscars.",
+      "India's Gondhal is among 104 international feature entries.",
+      "There are 38 animated films and 190 documentaries in the race.",
+      "The 99th Academy Awards will take place on March 14, 2027, at the Dolby Theatre at Ovation Hollywood.",
+      "Oscar nominations will be revealed on January 21, 2027."
+    ],
+    "entities": {
+      "people": [
+        "Simran Khan",
+        "Nathan Fielder",
+        "Lance Oppenheim",
+        "Salman Rushdie"
+      ],
+      "titles": [
+        "Gondhal",
+        "Toy Story 5",
+        "The Super Mario Galaxy Movie",
+        "Shaun the Sheep: The Beast of Mossy Bottom",
+        "Yellow Letters",
+        "Shame and Money",
+        "Midday Meal",
+        "Angh",
+        "Fjord",
+        "Cosmic Princess Kaguya!",
+        "All You Need Is Kill",
+        "I Am Frankelda",
+        "Knife: The Attempted Murder of Salman Rushdie",
+        "Ask E. Jean",
+        "Marc by Sofia",
+        "Musk",
+        "EPiC: Elvis Presley in Concert",
+        "Man on the Run",
+        "The Trial of Alec Baldwin",
+        "You Can See Everything",
+        "Citizen Osama",
+        "Rehearsals for a Revolution",
+        "Traces",
+        "The Ground beneath Our Feet",
+        "Who Is Still Alive",
+        "State Film"
+      ]
+    },
+    "keywords": [
+      "Oscars 2027 eligibility list",
+      "Gondhal India Oscars",
+      "international feature films Oscars",
+      "99th Academy Awards"
+    ],
+    "images": [
+      {
+        "url": "https://images.timesnownews.com/thumb/msid-156557007,thumbsize-497865,width-1280,height-720,resizemode-75/156557007.jpg",
+        "caption": "Oscars 2027: Gondhal Among 104 Films On International Feature Eligibility List, 38 Animated Films And 190 Documentaries ",
+        "source": "Times Now — Entertainment"
+      }
+    ],
+    "published": "2026-11-24T07:53:04Z"
+  },
+  "u2ff86": {
+    "id": "u2ff86",
+    "type": "news",
+    "headline": "Netflix's The Eternaut Adaptation Defies Decades of Development Hell",
+    "dek": "Discover how the classic 1957 Argentinian comic book finally reached small screens as a critically acclaimed Netflix dystopian series.",
+    "body": [
+      {
+        "h": "The Golden Era of Small-Screen Sci-Fi",
+        "p": [
+          "Science fiction television has entered an unprecedented golden age during the 2020s, expanding far beyond the classic broadcast hits of previous decades. While older generations relied on legendary programs like The X-Files and Star Trek: The Next Generation, modern streaming platforms have completely reinvented the genre's scale, budget, and narrative complexity.",
+          "Subscription services have transformed speculative fiction into prestige television. Apple TV features ambitious projects like Invasion, Monarch: Legacy of Monsters, Foundation, Dark Matter, Severance, Murderbot, and Sugar. Meanwhile, Netflix and Hulu have pushed boundaries with Stranger Things, Black Mirror, 3 Body Problem, and the literary adaptation The Handmaid's Tale."
+        ]
+      },
+      {
+        "h": "A Monumental Comic Book Source Material",
+        "p": [
+          "Entering this crowded landscape in early 2025, Netflix debuted a distinctive dystopian entry titled The Eternaut. Based on an influential 1957 Argentinian comic book created by Héctor Germán Oesterheld and Francisco Solano López, the story follows ordinary survivors navigating a sudden and catastrophic alien invasion overtaking Buenos Aires.",
+          "The original publication ran from 1957 through 1959, later receiving a 1969 revision that heightened its overt political messaging. Following the tragic disappearance of Oesterheld under Argentina's fascist regime, the rights to his defining literary achievement passed to his widow, setting the stage for decades of complex adaptation struggles."
+        ]
+      },
+      {
+        "h": "Decades of Failed Adaptation Attempts",
+        "p": [
+          "Before reaching Netflix, The Eternaut endured a notoriously long and difficult path to the screen. During the author's lifetime, an early attempt to produce an animated adaptation resulted in an expensive pilot before stalling permanently due to financial and logistical hurdles.",
+          "As years progressed, numerous high-profile attempts to mount live-action versions collapsed. A live-action miniseries nearly received funding in 1995 before being abandoned, and director Lucrecia Martel spent over a year developing a screenplay in 2007 before producers left the project stranded in limbo."
+        ]
+      },
+      {
+        "h": "Overcoming Creative and Copyright Hurdles",
+        "p": [
+          "Complex copyright complications and worries over translating the story's unique political allegories for an English-speaking international audience repeatedly halted production. Studio executives struggled to figure out how to maintain the deeply rooted Argentinian identity of the narrative without losing its universal appeal.",
+          "Momentum finally shifted when filmmaker Álex de la Iglesia began working on an adaptation concept in 2018. Although his specific iteration was not the final product delivered to streaming audiences, his early development directly paved the way for the project that ultimately materialized in 2025."
+        ]
+      },
+      {
+        "h": "Bringing Juan Salvo to Life",
+        "p": [
+          "Helmed by director Bruno Stagnaro, Netflix's finished series retained de la Iglesia's choice for the leading role. Acclaimed actor Ricardo Darín stepped into the shoes of protagonist Juan Salvo, anchoring the emotional core of the high-stakes science fiction drama.",
+          "The creative team also introduced fresh narrative elements, including original character Omar played by Ariel Staltari. Despite these departures from the source text, critics widely praised the production for remaining faithful, intelligent, and thrillingly paced."
+        ]
+      },
+      {
+        "h": "Critical Triumph and Season 2 Renewal",
+        "p": [
+          "Benefiting from a renewed public appetite for dystopian prestige television—echoing the critical acclaim seen around HBO's Station Eleven and The Last of Us—Netflix launched the series to overwhelmingly positive reviews. The ambitious 2025 debut season proved that the massive financial and creative investment was entirely justified.",
+          "Capitalizing on this immediate success, Netflix officially renewed the show for a second season in May 2025. With plenty of unanswered questions remaining in the original literary text, the upcoming sophomore outing promises to delve even deeper into the mysteries of the invasion."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Netflix successfully adapted the classic 1957 Argentinian comic book The Eternaut into a critically acclaimed dystopian series starring Ricardo Darín and directed by Bruno Stagnaro. After enduring decades of stalled movie and television attempts following the tragedies surrounding creator Héctor Germán Oesterheld, the six-part story premiered in early 2025 and was quickly renewed for a second season."
+        ]
+      }
+    ],
+    "facts": [
+      "The Eternaut is based on a 1957 comic book.",
+      "The original comic was created by Héctor Germán Oesterheld and Francisco Solano López.",
+      "Netflix released the series in early 2025.",
+      "Ricardo Darín stars as Juan Salvo.",
+      "Bruno Stagnaro directed the Netflix adaptation.",
+      "Netflix renewed the show for a second season in May 2025."
+    ],
+    "entities": {
+      "people": [
+        "Cathal Gunning",
+        "Colin Farrell",
+        "Margaret Atwood",
+        "Héctor Germán Oesterheld",
+        "Francisco Solano López",
+        "Lucrecia Martel",
+        "Álex de la Iglesia",
+        "Bruno Stagnaro",
+        "Ricardo Darín",
+        "Ariel Staltari",
+        "Gabriel Stagnaro",
+        "Dante Mastropierro",
+        "Jorge Sesán"
+      ],
+      "titles": [
+        "The X-Files",
+        "Star Trek: The Next Generation",
+        "Invasion",
+        "Monarch: Legacy of Monsters",
+        "Foundation",
+        "Dark Matter",
+        "Severance",
+        "Murderbot",
+        "Sugar",
+        "Stranger Things",
+        "Black Mirror",
+        "3 Body Problem",
+        "The Handmaid's Tale",
+        "The Eternaut",
+        "El Eternauta",
+        "The Headless Woman",
+        "Station Eleven",
+        "The Last of Us"
+      ]
+    },
+    "keywords": [
+      "The Eternaut",
+      "Netflix The Eternaut series",
+      "Ricardo Darin Juan Salvo",
+      "Bruno Stagnaro adaptation",
+      "Hector German Oesterheld comic"
+    ],
+    "images": [
+      {
+        "url": "https://static0.srcdn.com/wordpress/wp-content/uploads/2026/11/ricardo-darin-s-juan-in-the-eternaut.jpg?w=1600&amp;h=900&amp;fit=crop",
+        "caption": "Netflix's The Eternaut Adaptation Defies Decades of Development Hell",
+        "source": "Screen Rant"
+      }
+    ],
+    "published": "Tue, 24 Nov 2026 07:00:18 GMT"
   }
 };
