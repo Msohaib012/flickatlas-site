@@ -123,6 +123,89 @@ window.FA_HOME_ARTICLES = {
     ],
     "published": "Mon, 23 Nov 2026 18:01:00 -0500"
   },
+  "n3cs3w": {
+    "id": "n3cs3w",
+    "type": "news",
+    "headline": "‘Hunger Games: Sunrise on the Reaping’ Targets Potential Franchise-Record Monday",
+    "dek": "Lionsgate's latest franchise entry continues its strong box office run, eyeing a Monday haul of over $12 million.",
+    "entities": {
+      "people": [
+        "Suzanne Collins",
+        "Joseph Zada",
+        "Mckenna Grace",
+        "Elle Fanning",
+        "Jesse Plemons",
+        "Ralph Fiennes",
+        "Kieran Culkin"
+      ],
+      "titles": [
+        "The Hunger Games: Sunrise on the Reaping",
+        "Catching Fire",
+        "The Hunger Games: Ballad of Songbirds Snakes",
+        "The Hunger Games",
+        "The Hunger Games: Mockingjay Part 1",
+        "Focker-in-Law",
+        "Hexed"
+      ]
+    },
+    "keywords": [
+      "Hunger Games Sunrise on the Reaping",
+      "Sunrise on the Reaping box office",
+      "Lionsgate Hunger Games Monday record",
+      "Hunger Games Sunrise on the Reaping Monday"
+    ],
+    "images": [
+      {
+        "url": "https://deadline.com/wp-content/uploads/2026/11/MCDHUGA_LG119.jpg?w=1024",
+        "caption": "‘Hunger Games: Sunrise on the Reaping’ Targets Potential Franchise-Record Monday",
+        "source": "Deadline"
+      }
+    ],
+    "published": "Mon, 23 Nov 2026 22:29:58 +0000"
+  },
+  "rho5pt": {
+    "id": "rho5pt",
+    "type": "news",
+    "headline": "Avengers: Doomsday Trailer Sparks Severe Internet and Fan Backlash Over Gloomy Visuals",
+    "dek": "The latest trailer for Marvel's upcoming mega-crossover film has ignited heavy criticism online, with fans and critics panning its drab aesthetic, disconnected green-screen acting, and repetitive visual motifs.",
+    "entities": {
+      "people": [
+        "Sarah Shachat",
+        "Channing Tatum",
+        "Joss Whedon",
+        "Alan Silvestri",
+        "Chris Evans",
+        "Robert Downey Jr.",
+        "Pedro Pascal",
+        "David Fincher"
+      ],
+      "titles": [
+        "Avengers: Doomsday",
+        "Avengers",
+        "Expedition 33",
+        "The Further Mis-Adventures of Cliff Booth",
+        "Gods Don't Give Gifts",
+        "Wildwood",
+        "Minotaur",
+        "Cameron Winter at Carnegie Hall"
+      ]
+    },
+    "keywords": [
+      "Avengers Doomsday trailer",
+      "Avengers Doomsday Marvel movie",
+      "Russo brothers Avengers Doomsday",
+      "Robert Downey Jr Doctor Doom",
+      "Avengers Doomsday controversy"
+    ],
+    "images": [
+      {
+        "url": "https://www.indiewire.com/wp-content/uploads/2026/11/MCDAVDO_WD003.jpg?w=650",
+        "caption": "Avengers: Doomsday Trailer Sparks Severe Internet and Fan Backlash Over Gloomy Visuals",
+        "source": "IndieWire"
+      }
+    ],
+    "published": "Mon, 23 Nov 2026 22:23:48 +0000"
+  },
   "8emh25": {
     "id": "8emh25",
     "type": "news",
@@ -176,6 +259,65 @@ window.FA_HOME_ARTICLES = {
       }
     ],
     "published": "Mon, 23 Nov 2026 21:48:12 GMT"
+  },
+  "fpfjco": {
+    "id": "fpfjco",
+    "type": "news",
+    "headline": "Celebrity Birthdays for the Week of November 29 to December 5",
+    "dek": "A comprehensive roster of well-known actors, musicians, directors, and public figures celebrating their birthdays during the early December week, featuring prominent names like Don Cheadle, Jay-Z, and Britney Spears.",
+    "entities": {
+      "people": [
+        "Don Cheadle",
+        "Jay-Z",
+        "Britney Spears",
+        "Anna Faris",
+        "Joel Coen",
+        "Howie Mandel",
+        "Andrew McCarthy",
+        "Ridley Scott",
+        "Terrence Malick",
+        "Ben Stiller",
+        "Billy Idol",
+        "Kaley Cuoco",
+        "Elisha Cuthbert",
+        "Bette Midler",
+        "Sarah Silverman",
+        "Riz Ahmed",
+        "Zoe Kravitz",
+        "Janelle Monae",
+        "Woody Allen",
+        "Nelly Furtado",
+        "Lucy Liu",
+        "Joe Lo Truglio",
+        "Julianne Moore",
+        "Brendan Fraser",
+        "Amanda Seyfried",
+        "Tiffany Haddish",
+        "Jeff Bridges",
+        "Marisa Tomei",
+        "Tyra Banks",
+        "Margaret Cho",
+        "Paula Patton",
+        "John Rzeznik"
+      ],
+      "titles": [
+        "The Goo Goo Dolls"
+      ]
+    },
+    "keywords": [
+      "celebrity birthdays November 29 December 5",
+      "Don Cheadle birthday",
+      "Jay-Z birthday",
+      "Britney Spears birthday"
+    ],
+    "images": [
+      {
+        "url": "https://www.hindustantimes.com/ht-img/img/2025/07/20/1600x900/logo/hollywood_1753008115803_1753008127492.jpeg",
+        "caption": "Celebrity Birthdays for the Week of November 29 to December 5",
+        "source": "Hindustan Times — Entertainment"
+      }
+    ],
+    "published": "Tue, 24 Nov 2026 03:14:21 +0530"
   },
   "vclahp": {
     "id": "vclahp",
@@ -726,6 +868,42 @@ window.FA_HOME_ARTICLES = {
       }
     ],
     "published": "2026-11-23T15:00:06Z"
+  },
+  "1pdop9r": {
+    "id": "1pdop9r",
+    "type": "news",
+    "headline": "Shruti Haasan Addresses Her Role in Peddi and Artistic Boundaries",
+    "dek": "Shruti Haasan discusses her appearance in the special track Hellallallo from the Telugu movie Peddi, explaining her stance on personal boundaries, creative choices, and cinematic representation.",
+    "entities": {
+      "people": [
+        "Shruti Haasan",
+        "Ram Charan",
+        "Janhvi Kapoor",
+        "Nikhil Advani",
+        "Suhasini Maniratnam"
+      ],
+      "titles": [
+        "Peddi",
+        "Hellallallo",
+        "Dhadak",
+        "Homebound",
+        "D-Day"
+      ]
+    },
+    "keywords": [
+      "Shruti Haasan Peddi",
+      "Hellallallo song Peddi",
+      "Shruti Haasan item song",
+      "Shruti Haasan Suhasini Maniratnam"
+    ],
+    "images": [
+      {
+        "url": "https://filmfare.wwmindia.com/content/2026/nov/shruti-haasan-defends-her-choice-of-song-in-peddi-says-she-sets-her-own-limits1795439548.jpg",
+        "caption": "Shruti Haasan Addresses Her Role in Peddi and Artistic Boundaries",
+        "source": "Filmfare"
+      }
+    ],
+    "published": "2026-11-23T18:47:16+05:30"
   },
   "eqd3fc": {
     "id": "eqd3fc",
@@ -4544,131 +4722,6 @@ window.FA_HOME_ARTICLES = {
       }
     ],
     "published": "Sun, 22 Nov 2026 16:00:00 +0000"
-  },
-  "rdwnug": {
-    "id": "rdwnug",
-    "type": "news",
-    "headline": "BÉIS Launches Massive Black Friday Sale With Discounts Across Popular Travel Gear",
-    "dek": "Travel lovers and holiday vacationers can now purchase popular luggage pieces, weekenders, and totes at significant price reductions during the newly announced event.",
-    "entities": {
-      "people": [
-        "Shay Mitchell"
-      ],
-      "titles": [
-        "BÉIS"
-      ]
-    },
-    "keywords": [
-      "BÉIS Black Friday Sale",
-      "Shay Mitchell travel brand",
-      "BÉIS Weekender bag",
-      "BÉIS luggage sale"
-    ],
-    "images": [
-      {
-        "url": "https://akns-images.eonline.com/eol_images/Entire_Site/20261119/9ed9c83e-e9e4-4556-9ade-2c887b498994_1795159065.jpg?fit=around%7C1200:1200&output-quality=90&crop=1200:1200;center,top",
-        "caption": "BÉIS Launches Massive Black Friday Sale With Discounts Across Popular Travel Gear",
-        "source": "E! News"
-      }
-    ],
-    "published": "Sun, 22 Nov 2026 16:00:00 GMT"
-  },
-  "16s4na": {
-    "id": "16s4na",
-    "type": "news",
-    "headline": "Ten HBO Crime Shows That Offer the Ideal Weekend Binge Experience",
-    "dek": "Explore a curated list of compelling, short-run crime dramas from HBO that dive into broken families, flawed characters, and corrupt institutions without leaning on tired genre formulas.",
-    "entities": {
-      "people": [
-        "Safwan Azeem",
-        "Nasir Naz Khan",
-        "Riz Ahmed",
-        "Andrea",
-        "John Stone",
-        "John Turturro",
-        "Kate Winslet",
-        "Mare Sheehan",
-        "Erin McMenamin",
-        "Cailee Spaeny",
-        "Helen",
-        "Jean Smart",
-        "Madeline",
-        "Reese Witherspoon",
-        "Celeste",
-        "Nicole Kidman",
-        "Jane",
-        "Shailene Woodley",
-        "Perry Mason",
-        "Matthew Rhys",
-        "Jake Adelstein",
-        "Ansel Elgort",
-        "Hiroto Katagiri",
-        "Ken Watanabe"
-      ],
-      "titles": [
-        "The Night Of",
-        "Mare of Easttown",
-        "Big Little Lies",
-        "Perry Mason",
-        "Tokyo Vice"
-      ]
-    },
-    "keywords": [
-      "The Night Of HBO crime show",
-      "Mare of Easttown Kate Winslet",
-      "Big Little Lies series",
-      "Perry Mason HBO drama",
-      "Tokyo Vice Ansel Elgort"
-    ],
-    "images": [
-      {
-        "url": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/11/colin-farrell-as-oz-cobb-in-the-penguin-1.jpg?w=1600&amp;h=900&amp;fit=crop",
-        "caption": "Ten HBO Crime Shows That Offer the Ideal Weekend Binge Experience",
-        "source": "Collider"
-      }
-    ],
-    "published": "Sun, 22 Nov 2026 15:26:12 GMT"
-  },
-  "qkgbc3": {
-    "id": "qkgbc3",
-    "type": "news",
-    "headline": "Zhao Li Ying Honored Among Asia-Pacific's Most Influential Young Women",
-    "dek": "Chinese actress Zhao Li Ying has been recognized as one of the 2026 Top 100 Most Influential Young Women in the Asia-Pacific for her acclaimed acting career and extensive industry contributions.",
-    "entities": {
-      "people": [
-        "Zhao Li Ying",
-        "Zendaya",
-        "Zhang Wei Li",
-        "Zhang Yi Ning",
-        "Zheng Qin Wen",
-        "Zhou Dong Yu",
-        "Zong Fu Li",
-        "Huang Jianxin",
-        "Yan Ni"
-      ],
-      "titles": [
-        "The Legend of Zu",
-        "Princess Agents",
-        "The Story of Ming Lan",
-        "The Story of Xing Fu",
-        "Wild Bloom",
-        "The Legend of Shen Li"
-      ]
-    },
-    "keywords": [
-      "Zhao Li Ying",
-      "Asia-Pacific Young Leaders Program",
-      "Golden Rooster Film Venture Capital Conference",
-      "2026 APEC Summit"
-    ],
-    "images": [
-      {
-        "url": "https://i.mydramalist.com/nKKNzB_2d.jpg",
-        "caption": "Zhao Li Ying Honored Among Asia-Pacific's Most Influential Young Women",
-        "source": "MyDramaList"
-      }
-    ],
-    "published": "Sun, 22 Nov 2026 15:20:08 +0000"
   },
   "hxpv8w": {
     "id": "hxpv8w",

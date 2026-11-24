@@ -232578,5 +232578,397 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Mon, 23 Nov 2026 18:01:00 -0500"
+  },
+  "fpfjco": {
+    "id": "fpfjco",
+    "type": "news",
+    "headline": "Celebrity Birthdays for the Week of November 29 to December 5",
+    "dek": "A comprehensive roster of well-known actors, musicians, directors, and public figures celebrating their birthdays during the early December week, featuring prominent names like Don Cheadle, Jay-Z, and Britney Spears.",
+    "body": [
+      {
+        "h": "Introduction to the Weekly Celebrations",
+        "p": [
+          "The entertainment industry marks another week of notable birthdays spanning from late November into early December. Fans and followers across the globe look forward to honoring the milestones of their favorite cultural icons.",
+          "This specific period highlights a diverse gathering of talent from various entertainment sectors, ranging from legendary filmmakers and chart-topping musicians to acclaimed television and film actors."
+        ]
+      },
+      {
+        "h": "Notable Birthdays on November 29",
+        "p": [
+          "The week kicks off on November 29 with birthdays from several prominent figures in film and music. Notable names celebrating on this day include acclaimed actor Don Cheadle and versatile performer Anna Faris.",
+          "Other notable personalities marking their special day include filmmaker Joel Coen, comedian Howie Mandel, and actor Andrew McCarthy, alongside various other musicians and actors."
+        ]
+      },
+      {
+        "h": "November 30 Luminaries",
+        "p": [
+          "As the month closes on November 30, the entertainment world honors several visionary directors and iconic musicians. Visionary filmmaker Ridley Scott and acclaimed writer-director Terrence Malick mark their birthdays on this date.",
+          "They are joined by famous actor and director Ben Stiller, rock musician Billy Idol, and popular television stars such as Kaley Cuoco and Elisha Cuthbert."
+        ]
+      },
+      {
+        "h": "December 1 Celebrations",
+        "p": [
+          "Entering December on the first day of the month brings another wave of celebrated artists and performers. Noteworthy figures born on December 1 include legendary singer and actor Bette Midler and comedian Sarah Silverman.",
+          "The roster also features talented actors and musicians such as Riz Ahmed, Zoe Kravitz, Janelle Monae, and filmmaker Woody Allen."
+        ]
+      },
+      {
+        "h": "Mid-Week Milestones on December 2 and 3",
+        "p": [
+          "Mid-week celebrations on December 2 shine a spotlight on major pop and dance music royalty. Pop sensation Britney Spears and singer Nelly Furtado mark their birthdays alongside esteemed actors like Lucy Liu and Joe Lo Truglio.",
+          "Continuing into December 3, the entertainment lineup includes celebrated dramatic actors Julianne Moore and Brendan Fraser, as well as versatile performers like Amanda Seyfried and Tiffany Haddish."
+        ]
+      },
+      {
+        "h": "December 4 and 5 Birthdays",
+        "p": [
+          "Toward the end of the weekly window on December 4, hip-hop icon and entrepreneur Jay-Z celebrates his birthday. He shares the date with acclaimed actor Jeff Bridges, star Marisa Tomei, and supermodel Tyra Banks.",
+          "Concluding the week on December 5, notable personalities such as comedian Margaret Cho, actor Paula Patton, and musician John Rzeznik of The Goo Goo Dolls mark their respective birthdays."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "This report outlines the scheduled birthdays for numerous entertainment personalities occurring between November 29 and December 5. The compilation encompasses notable figures across acting, music, and filmmaking without introducing any outside details."
+        ]
+      }
+    ],
+    "facts": [
+      "Don Cheadle turns 62 on November 29",
+      "Jay-Z turns 57 on December 4",
+      "Britney Spears turns 45 on December 2",
+      "Ridley Scott turns 89 on November 30",
+      "Bette Midler turns 81 on December 1",
+      "Julianne Moore turns 66 on December 3"
+    ],
+    "entities": {
+      "people": [
+        "Don Cheadle",
+        "Jay-Z",
+        "Britney Spears",
+        "Anna Faris",
+        "Joel Coen",
+        "Howie Mandel",
+        "Andrew McCarthy",
+        "Ridley Scott",
+        "Terrence Malick",
+        "Ben Stiller",
+        "Billy Idol",
+        "Kaley Cuoco",
+        "Elisha Cuthbert",
+        "Bette Midler",
+        "Sarah Silverman",
+        "Riz Ahmed",
+        "Zoe Kravitz",
+        "Janelle Monae",
+        "Woody Allen",
+        "Nelly Furtado",
+        "Lucy Liu",
+        "Joe Lo Truglio",
+        "Julianne Moore",
+        "Brendan Fraser",
+        "Amanda Seyfried",
+        "Tiffany Haddish",
+        "Jeff Bridges",
+        "Marisa Tomei",
+        "Tyra Banks",
+        "Margaret Cho",
+        "Paula Patton",
+        "John Rzeznik"
+      ],
+      "titles": [
+        "The Goo Goo Dolls"
+      ]
+    },
+    "keywords": [
+      "celebrity birthdays November 29 December 5",
+      "Don Cheadle birthday",
+      "Jay-Z birthday",
+      "Britney Spears birthday"
+    ],
+    "images": [
+      {
+        "url": "https://www.hindustantimes.com/ht-img/img/2025/07/20/1600x900/logo/hollywood_1753008115803_1753008127492.jpeg",
+        "caption": "Celebrity Birthdays for the Week of November 29 to December 5",
+        "source": "Hindustan Times — Entertainment"
+      }
+    ],
+    "published": "Tue, 24 Nov 2026 03:14:21 +0530"
+  },
+  "n3cs3w": {
+    "id": "n3cs3w",
+    "type": "news",
+    "headline": "‘Hunger Games: Sunrise on the Reaping’ Targets Potential Franchise-Record Monday",
+    "dek": "Lionsgate's latest franchise entry continues its strong box office run, eyeing a Monday haul of over $12 million.",
+    "body": [
+      {
+        "h": "Strong Opening Weekend Performance",
+        "p": [
+          "The Hunger Games: Sunrise on the Reaping achieved the best domestic opening weekend for Lionsgate in twelve years. Although it came in slightly lighter than the forecasted $120 million with a total of $119.3 million, the film still secured the fourth-best opening in the studio's Suzanne Collins canon. Its box office performance included a $55.6 million Friday, a $36.1 million Saturday, and a $27.5 million Sunday.",
+          "This impressive start has successfully revitalized interest in the young adult series following lower results from previous installments. The film features an ensemble cast including Joseph Zada, Mckenna Grace, Elle Fanning, Jesse Plemons, Ralph Fiennes, and Kieran Culkin."
+        ]
+      },
+      {
+        "h": "Chasing Franchise Monday Records",
+        "p": [
+          "Following its strong weekend bow, the feature is projected to notch a Monday franchise record of over $12 million. The existing Monday record for the film adaptation series is held by 2013's Catching Fire, which brought in $12.3 million.",
+          "Should the movie's Monday figures ease slightly below Catching Fire, it will still secure the second-best Monday in the franchise. It would comfortably finish ahead of the original 2012 film, which pulled in $10.8 million on its first Monday, and substantially outperform the first Monday of The Hunger Games: Ballad of Songbirds Snakes at $5.2 million."
+        ]
+      },
+      {
+        "h": "Reinvigorating the Franchise",
+        "p": [
+          "Lionsgate has managed to breathe new life back into the dystopian series after the franchise hit an all-time low opening three years prior with The Hunger Games: Ballad of Songbirds Snakes. That previous film managed a $44.6 million domestic opening, a $166.3 million North American take, and $363.9 million worldwide.",
+          "Before the release of Sunrise on the Reaping, the studio's last major domestic opening was 2014's The Hunger Games: Mockingjay Part 1. The strong marketing and PR efforts by Lionsgate successfully turned the box office trajectory around for this fifth directed movie in the six-title franchise."
+        ]
+      },
+      {
+        "h": "Upcoming Holiday Projections",
+        "p": [
+          "Industry sources indicate that the movie possesses enough momentum to lead box office charts throughout the upcoming Thanksgiving frame. It is projected to secure at least $50 million or more over the Wednesday through Sunday holiday stretch.",
+          "These strong holiday projections place it well ahead of new competitors entering the market, including Universal and Paramount's Focker-in-Law and Walt Disney Animation's original movie Hexed, both of which are tracking at around $45 million apiece."
+        ]
+      },
+      {
+        "h": "Historical Franchise Comparison",
+        "p": [
+          "Within the Lionsgate Collins film canon, Catching Fire remains the studio's biggest opening ever at the North American box office. Its record-setting run included a $70.9 million Friday and previews, leading to a $158 million three-day opening.",
+          "Other notable openings in the series include the first 2012 Hunger Games with a $67.2 million Friday and previews alongside a $152.5 million opening, and 2014's Mockingjay Part 1 with a $55.1 million Friday and previews alongside a $121.8 million three-day opening."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "The Hunger Games: Sunrise on the Reaping is eyeing a potential franchise-record Monday of over $12 million following a strong domestic opening weekend of $119.3 million for Lionsgate. The film's robust performance positions it well to lead the upcoming Thanksgiving holiday box office ahead of competing new releases."
+        ]
+      }
+    ],
+    "facts": [
+      "The Hunger Games: Sunrise on the Reaping achieved a $119.3 million opening.",
+      "Catching Fire made $12.3 million on its first Monday in 2013.",
+      "The Hunger Games: Ballad of Songbirds Snakes had a $44.6 million domestic opening.",
+      "Sunrise on the Reaping posted a $55.6 million Friday, $36.1 million Saturday, and $27.5 million Sunday."
+    ],
+    "entities": {
+      "people": [
+        "Suzanne Collins",
+        "Joseph Zada",
+        "Mckenna Grace",
+        "Elle Fanning",
+        "Jesse Plemons",
+        "Ralph Fiennes",
+        "Kieran Culkin"
+      ],
+      "titles": [
+        "The Hunger Games: Sunrise on the Reaping",
+        "Catching Fire",
+        "The Hunger Games: Ballad of Songbirds Snakes",
+        "The Hunger Games",
+        "The Hunger Games: Mockingjay Part 1",
+        "Focker-in-Law",
+        "Hexed"
+      ]
+    },
+    "keywords": [
+      "Hunger Games Sunrise on the Reaping",
+      "Sunrise on the Reaping box office",
+      "Lionsgate Hunger Games Monday record",
+      "Hunger Games Sunrise on the Reaping Monday"
+    ],
+    "images": [
+      {
+        "url": "https://deadline.com/wp-content/uploads/2026/11/MCDHUGA_LG119.jpg?w=1024",
+        "caption": "‘Hunger Games: Sunrise on the Reaping’ Targets Potential Franchise-Record Monday",
+        "source": "Deadline"
+      }
+    ],
+    "published": "Mon, 23 Nov 2026 22:29:58 +0000"
+  },
+  "1pdop9r": {
+    "id": "1pdop9r",
+    "type": "news",
+    "headline": "Shruti Haasan Addresses Her Role in Peddi and Artistic Boundaries",
+    "dek": "Shruti Haasan discusses her appearance in the special track Hellallallo from the Telugu movie Peddi, explaining her stance on personal boundaries, creative choices, and cinematic representation.",
+    "body": [
+      {
+        "h": "Embracing the Special Track",
+        "p": [
+          "Shruti Haasan recently addressed her participation in the special song Hellallallo from the Telugu film Peddi, clarifying that she took on the project purely for the enjoyment of dancing. The actress shared that she had a great time working on the high-energy sequence and felt completely at ease with her involvement alongside fellow cast members Ram Charan and Janhvi Kapoor.",
+          "Reflecting on her general philosophy regarding visual representation, the star emphasized that her perspective has always been liberating rather than pandering. She asserted complete autonomy over her career choices, stressing that she never compromises on her personal comfort when deciding on outfits or performance styles for the screen."
+        ]
+      },
+      {
+        "h": "Establishing Firm Professional Boundaries",
+        "p": [
+          "The actress elaborated that she maintains strict limits regarding her costumes and choreography. According to her, if a specific requirement does not align with her comfort levels, she does not hesitate to decline, stating firmly that she refuses to wear certain attire.",
+          "She acknowledged that standing her ground on set can occasionally result in disagreements or lead people to label her as difficult to work with. Despite these professional friction points, she remains steadfast in protecting her personal boundaries and ensuring she feels respected during every production."
+        ]
+      },
+      {
+        "h": "Challenging Views on Special Numbers",
+        "p": [
+          "When discussing the broader conversation surrounding special tracks in cinema, Shruti expressed that her personal experiences do not necessarily reflect the widespread belief that such numbers are automatically exploitative. She pointed out that society itself operates in pandering ways across numerous capacities, extending far beyond the wardrobe choices seen in traditional item numbers.",
+          "Her comments offer a nuanced look into how performers navigate commercial film requirements while attempting to maintain creative integrity and personal agency within a massive entertainment industry."
+        ]
+      },
+      {
+        "h": "Silence on Co-Star's Character Criticism",
+        "p": [
+          "Following the theatrical premiere of Peddi in June, audiences raised concerns regarding the depiction of Janhvi Kapoor's character named Achiyamma. The Dhadak and Homebound actress subsequently voiced regret over how the role was handled, describing the portrayal as extreme objectification and expressing a wish that she had spoken out more actively at the time.",
+          "When the topic arose, Shruti chose not to offer any remarks or commentary regarding Janhvi's perspective on the matter, keeping the focus entirely on her own experiences and choices."
+        ]
+      },
+      {
+        "h": "Authenticity in Intimate Scenes",
+        "p": [
+          "Moving past her musical appearances, the actress addressed her past work in Nikhil Advani's D-Day, where she portrayed a sex worker in scenes involving intimacy and sensuality. She firmly dismissed the notion that those sequences were included simply for titillation, scandal, or cheap shock value.",
+          "She maintained that sensuality is an organic human emotion that was entirely essential to delivering an authentic performance for that specific character. Furthermore, she noted that viewers are generally open to such artistic choices as long as the material is handled with creative conviction rather than exploitation."
+        ]
+      },
+      {
+        "h": "A Playful Exchange with Suhasini Maniratnam",
+        "p": [
+          "In a recent light-hearted online media interaction, veteran actress Suhasini Maniratnam playfully questioned Shruti regarding her future marriage plans. Instead of giving a conventional reply, Shruti responded with a cheeky counter-question, asking when Suhasini planned to divorce her own husband.",
+          "The quick-witted comeback briefly caught the veteran star off guard, creating a cheerful and viral moment that quickly drew attention across digital platforms."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Shruti Haasan defended her choice to perform in the special song Hellallallo from the Telugu movie Peddi, stating that she sets strict personal limits regarding her on-screen costumes and comfort. She also discussed her past role in D-Day and shared a playful banter exchange with Suhasini Maniratnam during an online interaction."
+        ]
+      }
+    ],
+    "facts": [
+      "Shruti Haasan performed in the special song Hellallallo from the Telugu film Peddi.",
+      "Peddi had its theatrical release in June.",
+      "Janhvi Kapoor played the character Achiyamma in Peddi.",
+      "Shruti Haasan played a sex worker in Nikhil Advani's D-Day."
+    ],
+    "entities": {
+      "people": [
+        "Shruti Haasan",
+        "Ram Charan",
+        "Janhvi Kapoor",
+        "Nikhil Advani",
+        "Suhasini Maniratnam"
+      ],
+      "titles": [
+        "Peddi",
+        "Hellallallo",
+        "Dhadak",
+        "Homebound",
+        "D-Day"
+      ]
+    },
+    "keywords": [
+      "Shruti Haasan Peddi",
+      "Hellallallo song Peddi",
+      "Shruti Haasan item song",
+      "Shruti Haasan Suhasini Maniratnam"
+    ],
+    "images": [
+      {
+        "url": "https://filmfare.wwmindia.com/content/2026/nov/shruti-haasan-defends-her-choice-of-song-in-peddi-says-she-sets-her-own-limits1795439548.jpg",
+        "caption": "Shruti Haasan Addresses Her Role in Peddi and Artistic Boundaries",
+        "source": "Filmfare"
+      }
+    ],
+    "published": "2026-11-23T18:47:16+05:30"
+  },
+  "rho5pt": {
+    "id": "rho5pt",
+    "type": "news",
+    "headline": "Avengers: Doomsday Trailer Sparks Severe Internet and Fan Backlash Over Gloomy Visuals",
+    "dek": "The latest trailer for Marvel's upcoming mega-crossover film has ignited heavy criticism online, with fans and critics panning its drab aesthetic, disconnected green-screen acting, and repetitive visual motifs.",
+    "body": [
+      {
+        "h": "The Trailer Launch and Immediate Backlash",
+        "p": [
+          "The internet recently received a fresh look at Marvel's upcoming mega-crossover blockbuster, Avengers: Doomsday, directed by the Russo Brothers. Set to release on December 18 with a runtime of 165 minutes, the preview was meant to hype up audiences worldwide. Instead, it triggered a wave of controversy and negative reactions across social media platforms.",
+          "Among the prominent gripes from viewers was a peculiar character absence mixed with nostalgic name-dropping. When Cyclops delivers the iconic line 'To me, my X-Men!', observant fans quickly noted the actual absence of Storm from the frame, adding to the general confusion surrounding the promotional cut."
+        ]
+      },
+      {
+        "h": "The Evolution and Fatigue of the Assemble Shot",
+        "p": [
+          "Back in 2012, director Joss Whedon introduced the cinematic landscape to the classic circular tracking shot in the original Avengers film, underscored by Alan Silvestri's triumphant brass theme. That initial rotating camera movement served a genuine storytelling purpose, visually binding disparate heroes together against the backdrop of a devastated New York City.",
+          "However, as the Marvel Cinematic Universe progressed through countless phases, the signature assemble shot became an expected, repetitive routine. In the Doomsday preview, the trailer climaxes with various heroes gathered in a dreary, gray-black wasteland void that critics likened to a glitchy loading screen, straining to recapture a unity that no longer lands effectively."
+        ]
+      },
+      {
+        "h": "Visual Inconsistencies and Green Screen Woes",
+        "p": [
+          "Sharp-eyed viewers on the internet quickly pointed out glaring technical flaws in the footage. Notably, Steve Rogers, played by Chris Evans, appears to stand under entirely different lighting conditions compared to the characters standing closest to him.",
+          "The lack of cohesive texture or realistic proximity gives the impression that the actors were never placed on the same physical set or green screen together. Observers noted that this disjointed look reflects ongoing concerns regarding the film's production methodology."
+        ]
+      },
+      {
+        "h": "The Pitfalls of Maximum Flexibility in Filmmaking",
+        "p": [
+          "Industry critics suggest that no amount of massive financial backing can compensate for shooting purely for maximum flexibility. This production approach often devolves into creative indecisiveness and endless revisions throughout the visual effects pipeline.",
+          "Consequently, the environment where the Avengers battle Doctor Doom, portrayed by Robert Downey Jr., and his creations ends up looking shadowy and sloppily framed. The flattened, indistinct background drains nearly all color from the frame, save for minor exceptions like Reed Richards, played by Pedro Pascal, wearing a coat originating from a different film."
+        ]
+      },
+      {
+        "h": "Context, Nostalgia, and Superhero Fatigue",
+        "p": [
+          "While the promotional teaser pulls certain moments out of context purely to stoke fan nostalgia, the actual narrative purpose within the complete feature film might prove far more complex. The sequence could potentially serve as a setup for a major plot twist involving multiple timelines worth of superhero fortunes.",
+          "Even so, the preview has done little to alleviate broader cultural criticisms leveled at modern comic book movies. Between artless visual aesthetics, repetitive plotting, and overbearing narrative lore, the Doomsday trailer seems to walk right into the ongoing conversation surrounding superhero fatigue."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "The final trailer for the Russo Brothers' upcoming 165-minute crossover film, Avengers: Doomsday, has sparked widespread internet controversy regarding its gloomy aesthetic and technical execution. Fans and critics pointed out disjointed lighting and green-screen disconnects among characters like Steve Rogers and Doctor Doom, intensifying discussions about modern visual effects standards and superhero fatigue ahead of the December 18 release."
+        ]
+      }
+    ],
+    "facts": [
+      "Avengers: Doomsday is directed by the Russo Brothers.",
+      "The film has a runtime of 165 minutes.",
+      "Avengers: Doomsday is scheduled for release on December 18.",
+      "Chris Evans plays Steve Rogers.",
+      "Robert Downey Jr. plays Doctor Doom.",
+      "Pedro Pascal plays Reed Richards."
+    ],
+    "entities": {
+      "people": [
+        "Sarah Shachat",
+        "Channing Tatum",
+        "Joss Whedon",
+        "Alan Silvestri",
+        "Chris Evans",
+        "Robert Downey Jr.",
+        "Pedro Pascal",
+        "David Fincher"
+      ],
+      "titles": [
+        "Avengers: Doomsday",
+        "Avengers",
+        "Expedition 33",
+        "The Further Mis-Adventures of Cliff Booth",
+        "Gods Don't Give Gifts",
+        "Wildwood",
+        "Minotaur",
+        "Cameron Winter at Carnegie Hall"
+      ]
+    },
+    "keywords": [
+      "Avengers Doomsday trailer",
+      "Avengers Doomsday Marvel movie",
+      "Russo brothers Avengers Doomsday",
+      "Robert Downey Jr Doctor Doom",
+      "Avengers Doomsday controversy"
+    ],
+    "images": [
+      {
+        "url": "https://www.indiewire.com/wp-content/uploads/2026/11/MCDAVDO_WD003.jpg?w=650",
+        "caption": "Avengers: Doomsday Trailer Sparks Severe Internet and Fan Backlash Over Gloomy Visuals",
+        "source": "IndieWire"
+      }
+    ],
+    "published": "Mon, 23 Nov 2026 22:23:48 +0000"
   }
 };

@@ -3,22 +3,6 @@ window.FA_OTT = {
   "coming": [
     {
       "country": "US",
-      "date": "2026-11-24",
-      "date_kind": "digital",
-      "id": 1496696,
-      "providers": [],
-      "type": "movie"
-    },
-    {
-      "country": "US",
-      "date": "2026-11-24",
-      "date_kind": "digital",
-      "id": 1195803,
-      "providers": [],
-      "type": "movie"
-    },
-    {
-      "country": "US",
       "date": "2026-11-25",
       "date_kind": "digital",
       "id": 1458300,
@@ -74,6 +58,50 @@ window.FA_OTT = {
     }
   ],
   "now": [
+    {
+      "country": "US",
+      "date": "2026-11-24",
+      "date_kind": "digital",
+      "id": 1496696,
+      "providers": [],
+      "type": "movie"
+    },
+    {
+      "date": "2026-11-24",
+      "date_kind": "release",
+      "id": 928382,
+      "providers": [
+        {
+          "logo_path": "/bRwEVhplTJJbp47sUa2DFUpsE42.png",
+          "name": "Carnegie Hall+ Apple TV channel"
+        },
+        {
+          "logo_path": "/nKingkQ2DSIbQzbxgPf5v9M0AiP.png",
+          "name": "Carnegie Hall+ Amazon Channel"
+        }
+      ],
+      "type": "movie"
+    },
+    {
+      "date": "2026-11-24",
+      "date_kind": "release",
+      "id": 1764131,
+      "providers": [
+        {
+          "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+          "name": "HBO Max"
+        }
+      ],
+      "type": "movie"
+    },
+    {
+      "country": "US",
+      "date": "2026-11-24",
+      "date_kind": "digital",
+      "id": 1195803,
+      "providers": [],
+      "type": "movie"
+    },
     {
       "date": "2026-11-20",
       "date_kind": "release",
