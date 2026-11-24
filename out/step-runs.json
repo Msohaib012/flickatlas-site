@@ -942,24 +942,6 @@
    {
     "step": "apply_auto",
     "category": "Trending News",
-    "run_at": "2026-11-23T18:13:51Z",
-    "run_id": "45231977408",
-    "status": "success",
-    "checked": {
-     "candidates": 10,
-     "detail": "draft articles + box-office rows from out/gemini-batch.json"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 3,
-     "detail": "+0 articles, +0 box-office rows, 3 rows updated"
-    },
-    "reason": null
-   },
-   {
-    "step": "apply_auto",
-    "category": "Trending News",
     "run_at": "2026-11-23T18:58:24Z",
     "run_id": "45242626882",
     "status": "success",
@@ -1465,6 +1447,24 @@
      "detail": "+1 articles, +0 box-office rows, 3 rows updated"
     },
     "reason": null
+   },
+   {
+    "step": "apply_auto",
+    "category": "Trending News",
+    "run_at": "2026-11-24T17:00:07Z",
+    "run_id": "45434414427",
+    "status": "success",
+    "checked": {
+     "candidates": 11,
+     "detail": "draft articles + box-office rows from out/gemini-batch.json"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 3,
+     "detail": "+0 articles, +0 box-office rows, 3 rows updated"
+    },
+    "reason": null
    }
   ],
   "ott": [
@@ -1902,23 +1902,6 @@
    }
   ],
   "trending_weekly": [
-   {
-    "step": "trending_weekly",
-    "category": "Trending Topics",
-    "run_at": "2026-11-23T14:54:33Z",
-    "run_id": "45198535439",
-    "status": "success",
-    "checked": {
-     "candidates": 100,
-     "detail": "cached Google RSS trend/article intersection"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 0
-    },
-    "reason": "no-new-data"
-   },
    {
     "step": "trending_weekly",
     "category": "Trending Topics",
@@ -2364,6 +2347,23 @@
      "count": 3
     },
     "reason": null
+   },
+   {
+    "step": "trending_weekly",
+    "category": "Trending Topics",
+    "run_at": "2026-11-24T17:00:09Z",
+    "run_id": "45434414427",
+    "status": "success",
+    "checked": {
+     "candidates": 100,
+     "detail": "cached Google RSS trend/article intersection"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 0
+    },
+    "reason": "no-new-data"
    }
   ],
   "multisource_boxoffice": [
@@ -3053,24 +3053,6 @@
    {
     "step": "convert_news",
     "category": "Trending News",
-    "run_at": "2026-11-23T14:54:32Z",
-    "run_id": "45198535439",
-    "status": "success",
-    "checked": {
-     "candidates": 600,
-     "detail": "feed entries from out/queue.json"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 0,
-     "detail": "api-news.json 600 items, api-trends.json 12 items"
-    },
-    "reason": "no-new-data"
-   },
-   {
-    "step": "convert_news",
-    "category": "Trending News",
     "run_at": "2026-11-23T18:39:22Z",
     "run_id": "45231977408",
     "status": "success",
@@ -3570,6 +3552,26 @@
      ],
      "updated": [],
      "count": 3,
+     "detail": "api-news.json 600 items, api-trends.json 12 items"
+    },
+    "reason": null
+   },
+   {
+    "step": "convert_news",
+    "category": "Trending News",
+    "run_at": "2026-11-24T17:00:08Z",
+    "run_id": "45434414427",
+    "status": "success",
+    "checked": {
+     "candidates": 600,
+     "detail": "feed entries from out/queue.json"
+    },
+    "changed": {
+     "added": [
+      "Salman Khan's Maatrubhumi Secures Censor Clearance With U/A 16+ Rating Ahead of December Release"
+     ],
+     "updated": [],
+     "count": 1,
      "detail": "api-news.json 600 items, api-trends.json 12 items"
     },
     "reason": null
@@ -8345,5 +8347,5 @@
    }
   ]
  },
- "updated_at": "2026-11-24T16:34:20Z"
+ "updated_at": "2026-11-24T17:00:09Z"
 }
