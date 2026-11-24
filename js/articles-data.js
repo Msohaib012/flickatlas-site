@@ -236289,5 +236289,413 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Tue, 24 Nov 2026 07:00:18 GMT"
+  },
+  "c5dqxe": {
+    "id": "c5dqxe",
+    "type": "news",
+    "headline": "Rony David Raj Starrer Crime Drama Sathyameva Confirms OTT Premiere on ZEE5",
+    "dek": "Malayalam original series Sathyameva starring Rony David Raj and directed by Deepu Karunakaran is set for its digital debut on November 27, 2026.",
+    "body": [
+      {
+        "h": "Introduction to Sathyameva",
+        "p": [
+          "Malayalam actor Rony David Raj is preparing to lead an upcoming crime drama series titled Sathyameva. The project centres around a missing girl, a troubled legal professional, and a quest for truth.",
+          "Set against the backdrop of a courtroom, the narrative follows a lawyer who accepts a peculiar case that paves the way for his return to the profession."
+        ]
+      },
+      {
+        "h": "Plot and Character Journey",
+        "p": [
+          "The story centres on Rajaram, a lawyer whose career stalled after he failed to save an innocent client. Haunted by that past incident, he receives an unexpected chance to step back into the courtroom when an individual widely considered to be mad approaches him with a final request.",
+          "The man asks Rajaram to locate his daughter, who went missing twenty years ago. Accepting the plea, the lawyer begins unravelling long-hidden secrets, viewing the pursuit as a chance at redemption for his earlier failure."
+        ]
+      },
+      {
+        "h": "Cast and Crew Details",
+        "p": [
+          "Rony David Raj plays the main character Rajaram. The supporting lineup includes Deepu Karunakaran, Meenakshi Unnikrishnan, Jayaraj Kozhikode, Binny Sebastian, Sohan Seenu Lal, Meera Nair, Remya Suresh, and Aji Dhanwanthari.",
+          "Deepu Karunakaran directs the series and also acts in it, while Aroma Babu produces under the banner of Aroma Cinemas."
+        ]
+      },
+      {
+        "h": "Technical and Creative Team",
+        "p": [
+          "K S Aravind wrote the story and screenplay. Prakash Rana serves as the cinematographer, and Akshay Kumar M J manages the editing.",
+          "Jonathan Bruce composed the background score, Vibin Baskar created the trailer music, Dr. Aashish Illickal handled audiography, and Jobish Lal Jodan of Color Company Studios managed colour grading."
+        ]
+      },
+      {
+        "h": "Streaming Platform and Release Date",
+        "p": [
+          "Sathyameva is scheduled to premiere on November 27, 2026. The crime drama will stream exclusively on ZEE5's Malayalam platform.",
+          "The series launches as a Malayalam original as part of the streaming service's regional content expansion."
+        ]
+      },
+      {
+        "h": "Significance and Regional Lineup",
+        "p": [
+          "The release highlights the expanding regional content slate on digital platforms, bringing Malayalam language crime thrillers to a wider online audience.",
+          "It marks a notable project for the lead actor and the creative team involved in shaping the regional drama."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Rony David Raj leads the upcoming Malayalam crime drama series Sathyameva, which revolves around a lawyer seeking redemption through a two-decade-old missing person case. The project, directed by Deepu Karunakaran and produced by Aroma Babu, is scheduled to premiere on ZEE5 on November 27, 2026."
+        ]
+      }
+    ],
+    "facts": [
+      "Sathyameva is a Malayalam crime drama series starring Rony David Raj.",
+      "The series is directed by Deepu Karunakaran and produced by Aroma Babu under Aroma Cinemas.",
+      "K S Aravind wrote the story and screenplay.",
+      "Sathyameva will premiere on November 27, 2026, on ZEE5's Malayalam platform."
+    ],
+    "entities": {
+      "people": [
+        "Rony David Raj",
+        "Deepu Karunakaran",
+        "Meenakshi Unnikrishnan",
+        "Jayaraj Kozhikode",
+        "Binny Sebastian",
+        "Sohan Seenu Lal",
+        "Meera Nair",
+        "Remya Suresh",
+        "Aji Dhanwanthari",
+        "Aroma Babu",
+        "K S Aravind",
+        "Prakash Rana",
+        "Akshay Kumar M J",
+        "Jonathan Bruce",
+        "Vibin Baskar",
+        "Dr. Aashish Illickal",
+        "Jobish Lal Jodan"
+      ],
+      "titles": [
+        "Sathyameva"
+      ]
+    },
+    "keywords": [
+      "Sathyameva",
+      "Rony David Raj",
+      "Sathyameva OTT release date",
+      "Deepu Karunakaran"
+    ],
+    "images": [
+      {
+        "url": "https://images.filmibeat.com/img/2026/11/sathyameva-98661795507975.jpg",
+        "caption": "Rony David Raj Starrer Crime Drama Sathyameva Confirms OTT Premiere on ZEE5",
+        "source": "FilmiBeat"
+      }
+    ],
+    "published": "Tue, 24 Nov 2026 13:44:47 +0530"
+  },
+  "1t9ygz1": {
+    "id": "1t9ygz1",
+    "type": "news",
+    "headline": "Days of Our Lives Announces Thanksgiving Week Schedule and New Episodes",
+    "dek": "Find out whether Days of Our Lives will air new episodes on Thanksgiving and how its streaming home on Peacock keeps the drama uninterrupted.",
+    "body": [
+      {
+        "h": "Holiday Season Tension for Soap Fans",
+        "p": [
+          "Every year, the arrival of the holiday season brings a familiar wave of quiet tension for dedicated soap opera enthusiasts across the country. Viewers often find themselves wondering whether their favorite fictional towns will go dark for the holiday or if brand new installments will continue to air right through the festivities.",
+          "This Thanksgiving, the long-running soap opera Days of Our Lives has officially shared its holiday schedule. The announcement confirms exactly what fans can expect from Salem as families gather for turkey and celebrations."
+        ]
+      },
+      {
+        "h": "Network Soaps Pause for Holiday Football",
+        "p": [
+          "While holidays bring joy to most households, they tend to introduce nagging doubts for daytime television fans. The big worry centers on whether beloved shows will pause or stay on the air while the rest of the world takes a holiday break.",
+          "This year, traditional network shows are splitting the week with major interruptions. Popular daytime dramas such as The Young and the Restless, The Bold and the Beautiful, Beyond the Gates, and General Hospital will all halt new broadcasts for the holiday on Thursday, November 26, and Friday, November 27."
+        ]
+      },
+      {
+        "h": "Sports Take Over Network Schedules",
+        "p": [
+          "The primary reason for the network pauses comes down to holiday sports coverage. Football completely takes over the standard holiday television schedule, pushing daytime programs entirely aside for the week.",
+          "Major networks clear out their daytime space for heavy lineups of NFL and college games, leaving little room for regular serialized drama broadcasts on traditional television channels."
+        ]
+      },
+      {
+        "h": "Peacock Streaming Protects the Schedule",
+        "p": [
+          "Fortunately for followers of Salem, Days of Our Lives no longer follows a traditional network television schedule. Since the show streams directly on Peacock, it entirely avoids having to make way for holiday football broadcasts.",
+          "Because the beloved series streams exclusively on Peacock within the United States, televised sports coverage cannot interrupt its regular weekly lineup. This unique distribution setup ensures that the drama in Salem keeps moving forward without any holiday interruptions."
+        ]
+      },
+      {
+        "h": "Five Fresh Episodes Air All Week",
+        "p": [
+          "Viewers tuning in through the streaming platform will be rewarded with a full week of continuous content. Fans can look forward to enjoying five fresh episodes running from Monday, November 23 through Friday, November 27.",
+          "This uninterrupted release schedule provides a stark contrast to other daytime programs, giving streaming subscribers plenty of dramatic content to watch throughout the Thanksgiving holiday period."
+        ]
+      },
+      {
+        "h": "Thanksgiving Episode Highlights and Plot Points",
+        "p": [
+          "For followers curious about the specific events unfolding in Salem during the holiday, the Thanksgiving episodes pack plenty of drama. Thursday's installment features Julie extending a surprising invitation to Gwen, alongside Chad offering comfort to Thomas and Charlotte.",
+          "Additional storylines on Thursday include Javi preparing a surprise for Leo, while Philip harbors a secret from Gabi. As the week closes on Friday, Johnny and Chanel arrive at a major decision, Philip yields to temptation, Belle opens up to Marlena, and Sydney bids Dante a hesitant goodbye."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Days of Our Lives has confirmed its holiday broadcasting plans, ensuring that new episodes will stream on Peacock throughout Thanksgiving week despite network competitors pausing for football. Fans can enjoy five fresh installments from Monday, November 23 through Friday, November 27, featuring character storylines involving Julie, Gwen, Chad, Philip, and Marlena."
+        ]
+      }
+    ],
+    "facts": [
+      "Days of Our Lives streams exclusively on Peacock in the USA.",
+      "The Young and the Restless and The Bold and the Beautiful will have no new episodes on Thursday, November 26 and Friday, November 27.",
+      "Beyond the Gates and General Hospital will pause for Thanksgiving on Thursday, November 26 and Friday, November 27.",
+      "Days of Our Lives will air five fresh episodes from Monday, November 23 through Friday, November 27.",
+      "Thanksgiving episodes feature Julie, Gwen, Chad, Thomas, Charlotte, Javi, Leo, Philip, Gabi, Johnny, Chanel, Belle, Marlena, Sydney, and Dante."
+    ],
+    "entities": {
+      "people": [
+        "Sibanee Gogoi",
+        "Julie",
+        "Gwen",
+        "Chad",
+        "Thomas",
+        "Charlotte",
+        "Javi",
+        "Leo",
+        "Philip",
+        "Gabi",
+        "Johnny",
+        "Chanel",
+        "Belle",
+        "Marlena",
+        "Sydney",
+        "Dante"
+      ],
+      "titles": [
+        "Days of Our Lives",
+        "The Young and the Restless",
+        "The Bold and the Beautiful",
+        "Beyond the Gates",
+        "General Hospital"
+      ]
+    },
+    "keywords": [
+      "Days of Our Lives Thanksgiving",
+      "Days of Our Lives Peacock schedule",
+      "Days of Our Lives November 23 27",
+      "Days of Our Lives holiday episodes"
+    ],
+    "images": [
+      {
+        "url": "https://www.comingsoon.net/wp-content/uploads/sites/3/2026/05/Who-Is-Leaving-Coming-to-Days-of-Our-Lives-This-Week-May-18-22.jpg?resize=1200,630",
+        "caption": "Days of Our Lives Announces Thanksgiving Week Schedule and New Episodes",
+        "source": "ComingSoon.net"
+      }
+    ],
+    "published": "Tue, 24 Nov 2026 08:30:00 +0000"
+  },
+  "1gj6y92": {
+    "id": "1gj6y92",
+    "type": "news",
+    "headline": "When Yo Yo Honey Singh Declared He Would Leave 562 Girlfriends for Chitrangada Singh in a Viral Old Interview",
+    "dek": "An old interview of Yo Yo Honey Singh expressing his immense adoration for Bollywood diva Chitrangada Singh has resurfaced online, featuring quirky remarks about her beauty, adopting her son, and his ambitions for his music career.",
+    "body": [
+      {
+        "h": "The Resurgence of an Old Interview",
+        "p": [
+          "An old interview featuring popular musician Yo Yo Honey Singh has captured widespread attention online, drawing immense curiosity from fans across social media platforms. In this unearthed conversation, the singer spoke candidly about his admiration for Bollywood actress Chitrangada Singh.",
+          "The viral clip highlights remarks made by the artist regarding the actress, reminding audiences of his unfiltered and outspoken personality during his interactions with the media."
+        ]
+      },
+      {
+        "h": "A Bold Statement About Relationships",
+        "p": [
+          "During a 2013 interview with Filmfare, Honey Singh made a striking declaration about his romantic life in relation to the Bollywood diva. He claimed to have 562 girlfriends at the time, but boldly asserted that he would drop all of them in a single day if Chitrangada Singh agreed to be with him.",
+          "The musician did not stop at mere romantic hyperboles, going on to describe her otherworldly appeal. He praised her unique charm and beauty, noting that he had even written a rap specifically dedicated to her."
+        ]
+      },
+      {
+        "h": "Comments on Family and Her Son",
+        "p": [
+          "In the same conversation, the singer expressed a willingness to adopt her son, Zoravar. He explained that he genuinely loves children and voiced confidence that he would take great care of her child.",
+          "He also lightheartedly mentioned that he would personally reassure her former husband, golfer Jyoti Randhawa, describing the actress as nothing short of a goddess deserving of utmost adoration."
+        ]
+      },
+      {
+        "h": "Insights Into His Music Career",
+        "p": [
+          "Aside from expressing his admiration for the actress, the musician discussed the realities of working in the Hindi film industry. He pointed out that composing music for movies is a demanding task that heavily depends on the specific mood, character, and narrative of a film.",
+          "Refusing to compromise his artistic vision for external expectations, he stated that he preferred to contribute only two or three tracks to any given movie project rather than conforming entirely to someone else's demands."
+        ]
+      },
+      {
+        "h": "Refusing Acting and Chasing Ambitions",
+        "p": [
+          "Addressing potential career shifts, the artist firmly ruled out stepping into acting. He noted that the Hindi film industry already features legendary actors like Amitabh Bachchan, Shah Rukh Khan, Salman Khan, and Akshay Kumar.",
+          "Instead of pursuing a career in acting, he boldly stated his ambition to gift India its very own equivalent of global icon Michael Jackson through his unique musical contributions."
+        ]
+      },
+      {
+        "h": "Enduring Ups and Downs",
+        "p": [
+          "Over the span of his career, the musician has navigated numerous personal and professional challenges. He has faced difficult moments and rigorous life tests over the past thirteen years.",
+          "Despite encountering severe trials and hardships, he has consistently persevered, maintaining his presence and retaining a massive dedicated fan base for his party anthems."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "An archived 2013 interview of Yo Yo Honey Singh has gone viral, showcasing his candid remarks about Bollywood actress Chitrangada Singh, including hyperbolic comments about leaving his girlfriends and adopting her son. The resurfaced footage also touches upon his views on film composition, his refusal to act, and his journey through various career challenges over the past thirteen years."
+        ]
+      }
+    ],
+    "facts": [
+      "The interview originally took place in 2013 with Filmfare.",
+      "Honey Singh claimed to have 562 girlfriends in the 2013 interview.",
+      "Chitrangada Singh was previously married to golfer Jyoti Randhawa and they have a son named Zoravar.",
+      "The article was updated on November 24, 2026."
+    ],
+    "entities": {
+      "people": [
+        "Yo Yo Honey Singh",
+        "Chitrangada Singh",
+        "Jyoti Randhawa",
+        "Zoravar",
+        "Amitabh Bachchan",
+        "Shah Rukh Khan",
+        "Salman Khan",
+        "Akshay Kumar",
+        "Michael Jackson"
+      ],
+      "titles": []
+    },
+    "keywords": [
+      "Honey Singh Chitrangada Singh",
+      "Yo Yo Honey Singh viral video",
+      "Honey Singh Filmfare interview 2013",
+      "Honey Singh 562 girlfriends"
+    ],
+    "images": [
+      {
+        "url": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202611/6b006d98e28c6-chitrangada-singh--honey-singh-205607879-16x9.jpg",
+        "caption": "When Yo Yo Honey Singh Declared He Would Leave 562 Girlfriends for Chitrangada Singh in a Viral Old Interview",
+        "source": "Aaj Tak — Entertainment"
+      }
+    ],
+    "published": "2026-11-24T08:52:28Z"
+  },
+  "yooz7": {
+    "id": "yooz7",
+    "type": "news",
+    "headline": "General Hospital Alters Weekly Schedule and Skips New Episodes for Two Days",
+    "dek": "Popular daytime soap opera General Hospital announces broadcast alterations for the week, confirming no new episodes on Thursday and Friday due to a rerun and network sports coverage.",
+    "body": [
+      {
+        "h": "Schedule Alterations Announced",
+        "p": [
+          "Followers of the long-running television drama General Hospital will experience a modified viewing schedule this week. The network has confirmed that fresh installments will not air on two separate days, leaving a gap in the regular dramatic arc that follows explosive previous events.",
+          "The announcement comes as viewers eagerly anticipate answers after a tumultuous period in Port Charles. Previous episodes left audiences on edge with troubling developments for core characters, raising expectations for the subsequent storyline."
+        ]
+      },
+      {
+        "h": "Thursday Rerun Featuring Robert Scorpio",
+        "p": [
+          "Instead of a brand-new chapter, Thursday's broadcast will feature a special repeat episode. This rerun is designated to mark the final on-screen appearance of Tristan Rogers portraying the character Robert Scorpio.",
+          "The throwback episode showcases several dramatic narrative threads. Anna grows suspicious regarding the connection between Joss and Vaughn while they execute a clandestine airport operation. Meanwhile, Portia contemplates revealing past wrongdoings to halt Drew's ongoing blackmail tactics, and Obrecht expresses worry over Willow's behavior."
+        ]
+      },
+      {
+        "h": "European Revelations and Discoveries",
+        "p": [
+          "The featured rerun also highlights key international movements among familiar faces. Jason successfully secures Sasha at the European residence belonging to Holly and Robert.",
+          "In a major twist during the same episode, Jason uncovers a stunning revelation while locating Britt alive in Paris. These international developments add layers of intrigue to the broadcast event."
+        ]
+      },
+      {
+        "h": "Friday Preemption for Sports",
+        "p": [
+          "The interruption to the weekly broadcast continues into the final weekday. On Friday, the program will be entirely preempted to accommodate scheduled sports coverage on the network.",
+          "This means followers must wait until the following week to resume the continuous narrative arc without further interruptions, as weekend programming takes over the regular time slot."
+        ]
+      },
+      {
+        "h": "Early Week Drama and Spoilers",
+        "p": [
+          "Earlier days in the weekly lineup feature heightened tensions across various storylines. Monday's trajectory follows Josslyn maintaining her fierce determination to bring down Sonny, with Jason expected to intervene or complicate the situation further.",
+          "Additionally, Jude clarifies boundaries with Hudson regarding their exact standing, while Anna attempts to offer reassurance to Dante. Britt gets involved in matters outside her purview, and Brook Lynn delivers solid advice to Cody."
+        ]
+      },
+      {
+        "h": "Holiday Festivities in Port Charles",
+        "p": [
+          "As the calendar reaches mid-week, Port Charles celebrates an early Thanksgiving. Drew and Ava face unexpected visitors, Willow receives a pleasant surprise, and Lulu shares a confidential conversation with Sonny.",
+          "Later in the week, Elizabeth organizes a special holiday gathering in an effort to break the persistent Quartermaine Thanksgiving curse. Molly encounters a holiday surprise, while Rocco and Scout attempt to keep their romance hidden from her father, culminating in a secret kiss."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "General Hospital has confirmed a two-day schedule disruption this week, omitting new episodes on Thursday and Friday. Thursday features a special rerun honoring Tristan Rogers' final appearance as Robert Scorpio, while Friday's broadcast is preempted by network sports coverage."
+        ]
+      }
+    ],
+    "facts": [
+      "General Hospital will not air new episodes on Thursday and Friday of this week.",
+      "Thursday's broadcast will feature a repeat episode marking the final on-screen appearance of Tristan Rogers's Robert Scorpio.",
+      "Friday's episode will be preempted due to network sports coverage.",
+      "The publication date of the source article is November 24, 2026."
+    ],
+    "entities": {
+      "people": [
+        "Ritika Singh",
+        "Tristan Rogers",
+        "Robert Scorpio",
+        "Anna",
+        "Joss",
+        "Vaughn",
+        "Portia",
+        "Drew",
+        "Obrecht",
+        "Willow",
+        "Jason",
+        "Sasha",
+        "Holly",
+        "Britt",
+        "Josslyn",
+        "Sonny",
+        "Jude",
+        "Hudson",
+        "Dante",
+        "Brook Lynn",
+        "Cody",
+        "Ava",
+        "Lulu",
+        "Elizabeth",
+        "Molly",
+        "Rocco",
+        "Scout"
+      ],
+      "titles": [
+        "General Hospital",
+        "Gremlins 3",
+        "Avengers: Doomsday",
+        "S.W.A.T.",
+        "Days of Our Lives"
+      ]
+    },
+    "keywords": [
+      "General Hospital schedule change",
+      "General Hospital new episodes",
+      "Robert Scorpio final appearance",
+      "Tristan Rogers General Hospital"
+    ],
+    "images": [
+      {
+        "url": "https://www.comingsoon.net/wp-content/uploads/sites/3/2026/11/MixCollage-03-Nov-2026-02-34-PM-2515.jpg.webp?resize=1200,630",
+        "caption": "General Hospital Alters Weekly Schedule and Skips New Episodes for Two Days",
+        "source": "ComingSoon.net"
+      }
+    ],
+    "published": "Tue, 24 Nov 2026 08:00:00 +0000"
   }
 };
