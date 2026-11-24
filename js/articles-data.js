@@ -240805,5 +240805,428 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Tue, 24 Nov 2026 22:00:19 GMT"
+  },
+  "1vdpjyk": {
+    "id": "1vdpjyk",
+    "type": "news",
+    "headline": "Bigg Boss 20 Episode 80 Highlights: ScoutOP Disrespects Amrapali Dubey; Kanika Mann and Qazi Touqeer Argue",
+    "dek": "Episode 80 of Bigg Boss 20 brought intense conflicts, including ScoutOP's disrespectful behavior towards Amrapali Dubey, a fierce clash between Kanika Mann and Qazi Touqeer during nominations, and a housewide punishment.",
+    "body": [
+      {
+        "h": "Introduction to Episode 80 Chaos",
+        "p": [
+          "The eightieth episode of Bigg Boss 20 proved to be exceptionally turbulent for the participants and viewers alike. Tension arose when Qazi Touqeer firmly declined to offer an apology to Love Gill regarding his controversial 'Love-Day' song. This refusal immediately set off a chain reaction of disagreements throughout the residence.",
+          "To add to the confusion, ScoutOP shifted his stance completely. After initially criticizing Qazi, he ended up arguing with Yung DSA and Amrapali Dubey when they questioned his objections to the track. The atmosphere inside the house quickly deteriorated into verbal sparring."
+        ]
+      },
+      {
+        "h": "Confrontation Over the Song",
+        "p": [
+          "The episode commenced with Love Gill and Kanika Mann approaching Qazi Touqeer to challenge him directly over his 'Love-Day' track. Both housemates expressed that they found the lyrics offensive and derogatory. However, Qazi remained completely unapologetic and defended his actions during the task, while Mahhi Vij also voiced her strong disappointment.",
+          "Amidst the confrontation, ScoutOP stepped in to support Love Gill, which stunned both Yung DSA and Amrapali Dubey. Scout clarified that while he did not object to the song itself, he considered singing 'Love-Day' at a fast speed to be vulgar. This nuanced take prompted Yung DSA to question his motives."
+        ]
+      },
+      {
+        "h": "Amrapali Dubey Left Heartbroken",
+        "p": [
+          "As Amrapali Dubey attempted to join the ongoing discussion, ScoutOP directed his frustration toward her with a rude tone and disrespectful remarks. Stunned by his aggressive behavior, Amrapali confided in Yung DSA that she felt entirely heartbroken and vowed never to converse with Scout again.",
+          "Even though ScoutOP attempted to clear the air later on, Amrapali stood her ground and refused to engage with him. Meanwhile, Yung DSA informed Mahhi Vij that he had lost all trust in Scout because of his shifting allegiances and continued interactions with Love Gill."
+        ]
+      },
+      {
+        "h": "House Rules Broken and Punishments",
+        "p": [
+          "The following morning introduced a fresh wave of friction when Qazi Touqeer, Gullu, and ScoutOP failed to respond to the wake-up track. Captain Uditi Singh attempted to rouse them, but Gullu engaged in a heated argument with her instead.",
+          "Later in the day, Bigg Boss summoned all participants to the living area to reprimand them for severe rule violations. As a direct penalty, 34 percent of the house's 84 percent total ration was cut, with Uditi blaming Gullu, Qazi, and Scout for the loss. Following this, Yung DSA and ScoutOP emerged victorious in a sponsor voucher collection task."
+        ]
+      },
+      {
+        "h": "Nomination Task Drama",
+        "p": [
+          "The nomination task introduced a massive bed into the garden area, where all contestants except Scout slept to discuss and finalize their majority-vote nominations. In the first round, six housemates targeted Love Gill, citing her irritating behavior, which landed her in the danger zone alongside Scout.",
+          "During the subsequent round, the majority voted against Kanika Mann. Qazi Touqeer accused Kanika of manipulation and creating unnecessary drama, sparking a massive argument between the two regarding Qazi's gestures during a previous dance performance. In the final round, the majority turned on Gullu, who subsequently argued with Arishfa Khan."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Episode 80 of Bigg Boss 20 featured chaotic arguments involving Qazi Touqeer's controversial song, ScoutOP's disrespectful outburst toward Amrapali Dubey, and a major ration penalty issued by Bigg Boss. The episode culminated in a high-stakes nomination task that placed Love Gill, Kanika Mann, and Gullu into the danger zone."
+        ]
+      }
+    ],
+    "facts": [
+      "Bigg Boss 20 Episode 80 aired on November 24, 2026",
+      "Qazi Touqeer sang the 'Love-Day' song",
+      "Bigg Boss punished the housemates by cutting 34 percent of the 84 percent ration",
+      "Love Gill, Kanika Mann, and Gullu were nominated during the task"
+    ],
+    "entities": {
+      "people": [
+        "Salman Khan",
+        "Sumit Rajguru",
+        "ScoutOP",
+        "Amrapali Dubey",
+        "Kanika Mann",
+        "Qazi Touqeer",
+        "Love Gill",
+        "Yung DSA",
+        "Mahhi Vij",
+        "Uditi Singh",
+        "Gullu",
+        "Arishfa Khan"
+      ],
+      "titles": [
+        "Bigg Boss 20"
+      ]
+    },
+    "keywords": [
+      "Bigg Boss 20 Episode 80",
+      "ScoutOP Amrapali Dubey",
+      "Kanika Mann Qazi Touqeer",
+      "Bigg Boss 20 November 24 2026"
+    ],
+    "images": [
+      {
+        "url": "https://images.timesnownews.com/thumb/msid-156561451,thumbsize-783711,width-1280,height-720,resizemode-75/156561451.jpg",
+        "caption": "Bigg Boss 20 Episode 80 Highlights: ScoutOP Disrespects Amrapali Dubey; Kanika Mann and Qazi Touqeer Argue",
+        "source": "Times Now — Entertainment"
+      }
+    ],
+    "published": "2026-11-24T23:51:28Z"
+  },
+  "q4ulwb": {
+    "id": "q4ulwb",
+    "type": "news",
+    "headline": "Prime Video Unveils Trailer for The Devil's Hour Final Season",
+    "dek": "The supernatural thriller series starring Peter Capaldi and Jessica Raine returns for its third and final season on December 4th.",
+    "body": [
+      {
+        "h": "Introduction to the Final Season Trailer",
+        "p": [
+          "Prime Video has released a brand new trailer and promotional poster for the upcoming third and final season of the supernatural thriller series The Devil's Hour. With just over a week remaining until the show makes its grand return, fans are getting a dramatic look at the concluding chapter of this mind-bending narrative.",
+          "The newly debuted footage highlights the tense relationship between the main characters as Gideon instructs Lucy on how to properly harness her scattered memories. These memories become vital tools for survival as they prepare to battle against a ruthless, sadistic murderer who has managed to slip away across various lifetimes."
+        ]
+      },
+      {
+        "h": "Cast and Production Details",
+        "p": [
+          "The critically acclaimed series is led by talented actors Jessica Raine and Peter Capaldi, who anchor the dark and mysterious tone of the narrative. They are joined by a stellar supporting ensemble cast that features Nikesh Patel, Phil Dunster, Meera Syal, and Saffron Hocking.",
+          "As the final season approaches, the involvement of these notable performers promises to bring closure to complex character arcs that have captivated viewers since the beginning of the supernatural drama."
+        ]
+      },
+      {
+        "h": "The Premise of Loop and Memory",
+        "p": [
+          "The core narrative explores the concept of life acting as a scratched record that loops continuously without stopping. While the average person remains entirely unaware of their previous existence, the protagonist Lucy Chambers has experienced a powerful awakening.",
+          "Lucy carries the distinct recollections of her past life working as a police detective who was ultimately unable to stop a wave of devastating terrorist events. Furthermore, she remembers Gideon Shepherd, the convicted serial killer who previously warned her about those impending attacks."
+        ]
+      },
+      {
+        "h": "Evolution of Lucy Chambers",
+        "p": [
+          "Across her successive reincarnations, Lucy has experienced vastly different realities, including a life where she gave birth to Isaac, an unusual soul entirely unbound to his own native reality.",
+          "In her current incarnation, she exists as neither a mother nor a police officer, yet she remains heavily burdened by the lingering memories of both past roles. This psychological weight drives her desperate quest for answers and justice."
+        ]
+      },
+      {
+        "h": "Unlikely Alliance Against a Monster",
+        "p": [
+          "Left with virtually no other options, Lucy is forced to turn to her former enemy, Gideon, forming a fragile alliance to track down a monstrous child-killer. This adversary has successfully evaded capture through multiple generations and lifetimes.",
+          "Gideon takes on the role of a mentor, teaching Lucy essential survival tactics, adaptation skills, and combat methods. However, the looming threat remains exceptionally high since their primary target possesses an equal amount of knowledge."
+        ]
+      },
+      {
+        "h": "Release Date and Streaming Information",
+        "p": [
+          "The highly anticipated third and final season of The Devil's Hour is officially scheduled to premiere globally on Prime Video on December 4th.",
+          "Viewers interested in catching the conclusion of this supernatural thriller can access the platform to stream the upcoming episodes as soon as they drop."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Prime Video released a new trailer for the third and final season of the supernatural thriller series The Devil's Hour, starring Jessica Raine and Peter Capaldi. The final chapter, which premieres on December 4th, follows Lucy and her former foe Gideon as they team up to fight a monstrous killer across lifetimes."
+        ]
+      }
+    ],
+    "facts": [
+      "The Devil's Hour is a supernatural thriller series.",
+      "The third and final season premieres on December 4th.",
+      "The series streams on Prime Video.",
+      "Jessica Raine plays Lucy Chambers.",
+      "Peter Capaldi plays Gideon Shepherd.",
+      "Benjamin Chivers plays Isaac.",
+      "The cast also includes Nikesh Patel, Phil Dunster, Meera Syal, and Saffron Hocking."
+    ],
+    "entities": {
+      "people": [
+        "Jessica Raine",
+        "Peter Capaldi",
+        "Nikesh Patel",
+        "Phil Dunster",
+        "Meera Syal",
+        "Saffron Hocking",
+        "Benjamin Chivers"
+      ],
+      "titles": [
+        "The Devil's Hour"
+      ]
+    },
+    "keywords": [
+      "The Devils Hour",
+      "Peter Capaldi",
+      "Jessica Raine",
+      "The Devils Hour season 3"
+    ],
+    "images": [
+      {
+        "url": "https://cdn.flickeringmyth.com/wp-content/uploads/2026/11/The-Devils-Hour1.jpg",
+        "caption": "Prime Video Unveils Trailer for The Devil's Hour Final Season",
+        "source": "Flickering Myth"
+      }
+    ],
+    "published": "Tue, 24 Nov 2026 22:23:29 +0000"
+  },
+  "1uemg6p": {
+    "id": "1uemg6p",
+    "type": "news",
+    "headline": "AICWA Demands Ban on Netflix's Pakistani Web Series 'Jo Bachay Hain Sang Samait Lo'",
+    "dek": "The All Indian Cine Workers Association has written a letter to Prime Minister Narendra Modi, demanding a complete block on the release of the upcoming Pakistani Netflix series starring Fawad Khan and Mahira Khan.",
+    "body": [
+      {
+        "h": "Controversy Over Netflix's New Release",
+        "p": [
+          "A major controversy has erupted in India regarding the upcoming multi-starer Netflix web series Jo Bachay Hain Sang Samait Lo. The production is being hailed as one of Pakistan's biggest digital projects, generated significant buzz across the entertainment landscape as it prepares for a global premiere.",
+          "However, the impending release has sparked immediate backlash in India. The All Indian Cine Workers Association has formally stepped in, raising serious objections and demanding that the streaming giant prevent the show from becoming accessible to viewers within the country."
+        ]
+      },
+      {
+        "h": "AICWA's Appeal to Prime Minister Modi",
+        "p": [
+          "The All Indian Cine Workers Association addressed a direct letter to Prime Minister Narendra Modi, urging him to intervene and halt the streaming of the series in India. The organization asserted its strong stance on national priorities, emphasizing that cultural content from across the border should not find a place on Indian screens.",
+          "In its official communication, the association called for strict enforcement of existing government policies regarding foreign productions. They argued that showing any Pakistani series, films, songs, or podcasts contradicts national sentiment and security concerns."
+        ]
+      },
+      {
+        "h": "Reference to Government Advisories",
+        "p": [
+          "To support their demand, the organization cited an advisory issued by the Ministry of Information and Broadcasting on May 8, 2025. That specific directive had been implemented in the wake of the Pahalgam terrorist attack, instructing digital platforms and OTT services to halt the streaming of Pakistani content.",
+          "The association contends that allowing the platform to stream the new series would directly violate the spirit of that official advisory. They have urged the central government to ensure that all digital platforms strictly comply with these protective guidelines."
+        ]
+      },
+      {
+        "h": "Demand for a Permanent Legal Framework",
+        "p": [
+          "Beyond stopping the immediate release, the Cine Workers Association pushed for structural policy changes. They formally requested the enactment of a robust and permanent law featuring the severest penalties for any entity broadcasting cross-border productions.",
+          "This proposed legal framework aims to permanently bar television networks, OTT platforms, and cinema operators from exhibiting any form of Pakistani entertainment content, ensuring a long-term ban across all Indian media channels."
+        ]
+      },
+      {
+        "h": "Background of the Series and Cast",
+        "p": [
+          "Jo Bachay Hain Sang Samait Lo is an adaptation of a bestselling Urdu novel written by author Farhat Ishtiaq. The literary work originally appeared as an episodic series in a digest in 2009 before being published as a book in 2013, revolving around multiple interconnected romantic storylines spanning three generations.",
+          "The streaming adaptation is produced by Momina Duraid Films, with Momina Duraid serving as the showrunner. Principal photography took place across multiple international locations including Pakistan, Italy, and the United Kingdom."
+        ]
+      },
+      {
+        "h": "Star-Studded Ensemble",
+        "p": [
+          "The upcoming streaming project features a massive ensemble of prominent Lollywood stars. Alongside lead actors Fawad Khan and Mahira Khan, the series stars Hania Amir, Ahad Raza Mir, and Hamza Ali Abbasi in pivotal roles.",
+          "Additional cast members rounding out the extensive lineup include Ahmed Ali Akbar, Bilal Ashraf, Maya Ali, Iqra Aziz, Khushal Khan, Nadia Jamil, Omair Rana, and Samina Ahmed."
+        ]
+      },
+      {
+        "h": "Scheduled Premiere Timeline",
+        "p": [
+          "The streaming platform announced the project globally just days before the association's public intervention. The official premiere date for the multi-starer series has been locked for December 4, 2026.",
+          "Despite the global announcement, the streaming service has not yet clarified whether the show will be made available to audiences in the Indian territory, leaving the final release status uncertain amidst mounting pressure."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "The All Indian Cine Workers Association has written to Prime Minister Narendra Modi demanding a complete ban on the upcoming Netflix series Jo Bachay Hain Sang Samait Lo, slated for a December 4 release. Citing a May 2025 Ministry of Information and Broadcasting advisory, the association wants all OTT platforms to block Pakistani content and enact permanent laws against its screening."
+        ]
+      }
+    ],
+    "facts": [
+      "The All Indian Cine Workers Association wrote to Prime Minister Narendra Modi on November 24, 2026.",
+      "The series Jo Bachay Hain Sang Samait Lo is scheduled to premiere on Netflix on December 4, 2026.",
+      "The Ministry of Information and Broadcasting issued an advisory on May 8, 2025, following the Pahalgam terrorist attack.",
+      "The original novel was written by Farhat Ishtiaq, published in Khwateen Digest in 2009 and as a book in 2013.",
+      "The series stars Fawad Khan, Mahira Khan, Hania Amir, Ahad Raza Mir, and Hamza Ali Abbasi, among others."
+    ],
+    "entities": {
+      "people": [
+        "Fawad Khan",
+        "Mahira Khan",
+        "Hania Amir",
+        "Narendra Modi",
+        "Farhat Ishtiaq",
+        "Momina Duraid",
+        "Ahad Raza Mir",
+        "Hamza Ali Abbasi",
+        "Ahmed Ali Akbar",
+        "Bilal Ashraf",
+        "Maya Ali",
+        "Iqra Aziz",
+        "Khushal Khan",
+        "Nadia Jamil",
+        "Omair Rana",
+        "Samina Ahmed"
+      ],
+      "titles": [
+        "Jo Bachay Hain Sang Samait Lo"
+      ]
+    },
+    "keywords": [
+      "Jo Bachay Hain Sang Samait Lo",
+      "Fawad Khan Mahira Khan Netflix",
+      "AICWA letter PM Modi",
+      "Pakistani series India ban"
+    ],
+    "images": [
+      {
+        "url": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202611/6b0577fb25fc1-jo-bachay-hain-sang-samait-lo-faces-ban-in-india-24414629-16x9.jpg",
+        "caption": "AICWA Demands Ban on Netflix's Pakistani Web Series 'Jo Bachay Hain Sang Samait Lo'",
+        "source": "Aaj Tak — Entertainment"
+      }
+    ],
+    "published": "2026-11-24T23:51:28Z"
+  },
+  "lwg4ya": {
+    "id": "lwg4ya",
+    "type": "news",
+    "headline": "Every Major Movie Releasing Over Thanksgiving Weekend 2026",
+    "dek": "An extensive lineup of comedies, dramas, sequels, and holiday features arrives in theaters and streaming platforms for Thanksgiving 2026.",
+    "body": [
+      {
+        "h": "Thanksgiving Holiday Cinematic Landscape",
+        "p": [
+          "Thanksgiving weekend consistently ranks among the most lucrative periods of the entire calendar year for movie theaters across the United States. Major studios frequently schedule high-profile titles to debut in and around the holiday stretch, as audiences enjoy free time off from work and school. This creates an intensely competitive environment where multiple films contend for dominance at the worldwide box office.",
+          "The timing has previously proven exceptionally beneficial for massive blockbusters. For instance, Disney experienced extraordinary financial success last year with the animated sequel Zootopia 2, which accumulated a staggering $1.8 billion globally after spending nine years in development. Building on that momentum, the studio aims to capture holiday family audiences once again."
+        ]
+      },
+      {
+        "h": "Disney s Hexed and Animated Offerings",
+        "p": [
+          "Disney continues its tradition of releasing an animated feature for the holiday with the debut of Disney s Hexed. Unlike recent sequels, this project is an original film that the studio hopes will launch a broader franchise consisting of sequels and spinoffs in the future. Industry projections suggest it may outperform several of the company s prior original animated efforts from recent years.",
+          "The movie features a prominent voice cast led by Hailee Steinfeld as a young girl named Billie Doe, alongside Walton Goggins, Rashida Jones, Jodie Foster, Stephen Fry, Tracey Ullman, and Dan Stevens. The narrative centers on Billie entering the magical realm of Hexe, which serves as the dwelling place for various witches."
+        ]
+      },
+      {
+        "h": "Comedy Sequels and Major Returns",
+        "p": [
+          "Audiences seeking familiar comedy franchises will see the release of Focker-in-Law on November 25. Representing the fourth installment in a series originating with Meet the Parents in 2000, the film brings back original stars Ben Stiller and Robert De Niro, who have appeared in every single chapter thus far.",
+          "They are joined by returning cast members Owen Wilson and Teri Polo, alongside franchise newcomers Skyler Gisondo and Ariana Grande. The plot echoes the foundational dynamic of the original movie as Greg Focker harbors reservations about his son Henry, played by Gisondo, and his new fiancée, portrayed by Grande."
+        ]
+      },
+      {
+        "h": "Action and Biographical Dramas",
+        "p": [
+          "Netflix contributes to the holiday window with The Further Mis-Adventures of Cliff Booth on November 25 in IMAX. Directed by David Fincher and written by Quentin Tarantino, this sequel to Once Upon a Time in Hollywood places Brad Pitt in the central protagonist role as Cliff Booth navigates the entertainment industry eight years later while Leonardo DiCaprio s character resides in Australia.",
+          "Simultaneously, Angel Studios presents the biographical drama Hershey on November 25, chronicling the life of Milton S. Hershey alongside his wife Kitty as they build their confectionery empire. This release caps off another successful year for Angel Studios following earlier titles like Drummer Boy and Young Washington."
+        ]
+      },
+      {
+        "h": "International and Limited Theatrical Projects",
+        "p": [
+          "Spanish-language drama Bitter Christmas arrives on November 25, starring Bárbara Lennie and Leonardo Sbaraglia alongside an ensemble cast including Patrick Criado, Victoria Luengo, Milena Smit, Aitana Sánchez-Gijón, and Quim Gutiérrez. The story spans two distinct periods in Madrid across 2004 and 2026, exploring a filmmaker in personal crisis and a screenwriter working on a matching script.",
+          "Limited theatrical releases round out the cinematic options. Neon presents All of a Sudden on November 25, a Japanese-French production about a terminal playwright and a nurse, while the animated romantic drama In Waves arrives on November 27 to follow teenagers AJ and Kristen. Additionally, Ava DuVernay s documentary 14th debuts on November 27 to examine the Fourteenth Amendment with figures like Stacey Abrams and Alexandria Ocasio-Cortez."
+        ]
+      },
+      {
+        "h": "Streaming Platform Premieres",
+        "p": [
+          "Home viewers also receive several prominent streaming debuts over the course of the holiday week. Prime Video introduces Clashing Through the Snow on November 23, a holiday romantic comedy about two rival editors stranded together at an airport during a severe snowstorm.",
+          "Meanwhile, Netflix drops The Mosquito Bowl on November 25. Directed by Peter Berg and adapted from Buzz Bissinger s nonfiction book, the narrative follows four college football players who enlist in the Marines after the 1941 attack on Pearl Harbor, playing a final game on Christmas Eve before heading to combat in Japan."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Thanksgiving weekend 2026 delivers a diverse slate of high-profile theatrical releases and streaming premieres, ranging from major studio animated films and comedy sequels to biographical dramas and documentaries. Productions like Disney s Hexed, Focker-in-Law, and The Further Mis-Adventures of Cliff Booth highlight a packed holiday schedule designed to attract audiences both in cinemas and at home."
+        ]
+      }
+    ],
+    "facts": [
+      "Thanksgiving weekend 2026 features numerous major movie releases from Wednesday to Friday.",
+      "Zootopia 2 made $1.8 billion worldwide after nine years in development.",
+      "Focker-in-Law is the fourth film in the comedy franchise starting with Meet the Parents in 2000.",
+      "Disney s Hexed releases on November 25 with a cast including Hailee Steinfeld and Walton Goggins.",
+      "The Further Mis-Adventures of Cliff Booth is directed by David Fincher and written by Quentin Tarantino.",
+      "Hershey releases on November 25 from Angel Studios, starring Finn Wittrock.",
+      "Bitter Christmas is a Spanish-language film set in Madrid in 2004 and 2026.",
+      "All of a Sudden is a Japanese French production released by Neon.",
+      "14th is a documentary directed by Ava DuVernay releasing on November 27.",
+      "Clashing Through the Snow releases on Prime Video on November 23.",
+      "The Mosquito Bowl releases on Netflix on November 25, directed by Peter Berg."
+    ],
+    "entities": {
+      "people": [
+        "Hailee Steinfeld",
+        "Walton Goggins",
+        "Ariana Grande",
+        "Robert De Niro",
+        "Ben Stiller",
+        "Owen Wilson",
+        "Teri Polo",
+        "Skyler Gisondo",
+        "Rashida Jones",
+        "Jodie Foster",
+        "Stephen Fry",
+        "Tracey Ullman",
+        "Dan Stevens",
+        "David Fincher",
+        "Quentin Tarantino",
+        "Brad Pitt",
+        "Leonardo DiCaprio",
+        "Finn Wittrock",
+        "Bárbara Lennie",
+        "Leonardo Sbaraglia",
+        "Patrick Criado",
+        "Victoria Luengo",
+        "Milena Smit",
+        "Aitana Sánchez-Gijón",
+        "Quim Gutiérrez",
+        "Ava DuVernay",
+        "Stacey Abrams",
+        "Alexandria Ocasio-Cortez",
+        "Peter Berg",
+        "Buzz Bissinger"
+      ],
+      "titles": [
+        "Zootopia 2",
+        "Disney s Hexed",
+        "Focker-in-Law",
+        "Meet the Parents",
+        "The Further Mis-Adventures of Cliff Booth",
+        "Once Upon a Time in Hollywood",
+        "Hershey",
+        "Drummer Boy",
+        "Young Washington",
+        "Bitter Christmas",
+        "All of a Sudden",
+        "In Waves",
+        "14th",
+        "Clashing Through the Snow",
+        "The Mosquito Bowl"
+      ]
+    },
+    "keywords": [
+      "Focker-in-Law",
+      "Disney s Hexed",
+      "The Further Mis-Adventures of Cliff Booth",
+      "Hershey film",
+      "Thanksgiving movies 2026"
+    ],
+    "images": [
+      {
+        "url": "https://static0.srcdn.com/wordpress/wp-content/uploads/2026/08/hpvchvybgaah01p.jpg?w=1200&amp;h=675&amp;fit=crop",
+        "caption": "Every Major Movie Releasing Over Thanksgiving Weekend 2026",
+        "source": "Screen Rant"
+      }
+    ],
+    "published": "Tue, 24 Nov 2026 22:00:19 GMT"
   }
 };
