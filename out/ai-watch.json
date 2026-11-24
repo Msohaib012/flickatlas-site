@@ -1,8 +1,8 @@
 {
- "checked_at": "2026-11-24 21:34 PKT",
+ "checked_at": "2026-11-24 22:00 PKT",
  "overall": "theek",
  "status": "ok",
- "pipeline_hour": "2026-11-24T15:00:00Z",
+ "pipeline_hour": "2026-11-24T16:00:00Z",
  "mode": "primary",
  "verdict_source": "rules",
  "verdicts": [
@@ -23,7 +23,7 @@
    "name_ur": "Apply Auto",
    "status": "theek",
    "modes": [],
-   "evidence_ur": "Aakhri real run 2026-11-24 21:14 (success); gate har ghante.",
+   "evidence_ur": "Aakhri real run 2026-11-24 22:00 (success); gate har ghante.",
    "fix": "koi-nahi",
    "auto_fixable": false,
    "note_ur": "Rule-based verdict (Gemini nahi chala)."
@@ -34,7 +34,7 @@
    "name_ur": "Convert News",
    "status": "theek",
    "modes": [],
-   "evidence_ur": "Aakhri real run 2026-11-24 21:34 (success); gate local feed + Google RSS hourly; paid fallback daily.",
+   "evidence_ur": "Aakhri real run 2026-11-24 22:00 (success); gate local feed + Google RSS hourly; paid fallback daily.",
    "fix": "koi-nahi",
    "auto_fixable": false,
    "note_ur": "Rule-based verdict (Gemini nahi chala)."
@@ -243,7 +243,7 @@
    "name_ur": "Trending Weekly",
    "status": "theek",
    "modes": [],
-   "evidence_ur": "Aakhri real run 2026-11-24 21:34 (success); gate local published-article intersection hourly; only fresh Google RSS trend proof.",
+   "evidence_ur": "Aakhri real run 2026-11-24 22:00 (success); gate local published-article intersection hourly; only fresh Google RSS trend proof.",
    "fix": "koi-nahi",
    "auto_fixable": false,
    "note_ur": "Rule-based verdict (Gemini nahi chala)."
@@ -409,13 +409,6 @@
  "redispatch": null,
  "history": [
   {
-   "pipeline_hour": "2026-11-24T10:00:00Z",
-   "status": "ok",
-   "overall": "theek",
-   "mode": "primary",
-   "at_pkt": "2026-11-24 15:53 PKT"
-  },
-  {
    "pipeline_hour": "2026-11-24T11:00:00Z",
    "status": "ok",
    "overall": "theek",
@@ -449,7 +442,14 @@
    "overall": "theek",
    "mode": "primary",
    "at_pkt": "2026-11-24 21:34 PKT"
+  },
+  {
+   "pipeline_hour": "2026-11-24T16:00:00Z",
+   "status": "ok",
+   "overall": "theek",
+   "mode": "primary",
+   "at_pkt": "2026-11-24 22:00 PKT"
   }
  ],
- "run_id": "45438756717"
+ "run_id": "45443643022"
 }
