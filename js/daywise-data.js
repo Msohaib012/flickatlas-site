@@ -4811,7 +4811,8 @@ window.FA_DAYWISE = {
       "day": "Day 19",
       "collection": 1600634,
       "shows": 15696,
-      "occupancy": 17.0
+      "occupancy": 17.0,
+      "overseas": 528262
     }
   ],
   "1607833": [

@@ -235048,5 +235048,417 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Tue, 24 Nov 2026 03:17:54 GMT"
+  },
+  "1ypaptc": {
+    "id": "1ypaptc",
+    "type": "news",
+    "headline": "Miley Cyrus and Maxx Morando Tie the Knot in California",
+    "dek": "Pop icon Miley Cyrus has officially married musician Maxx Morando in an intimate California ceremony, surrounded by close family members.",
+    "body": [
+      {
+        "h": "The California Wedding",
+        "p": [
+          "Pop artist Miley Cyrus has tied the knot with musician Maxx Morando during a private celebration in California. The couple exchanged vows at a private location in Palm Springs, opting for a grand yet deeply personal atmosphere.",
+          "The newly married couple shared the happy news across their social media profiles. They posted a series of romantic monochromatic pictures capturing kisses and glamorous moments, accompanied by a caption featuring their initials and the wedding date."
+        ]
+      },
+      {
+        "h": "Family in Attendance",
+        "p": [
+          "The intimate gathering brought together close members of the family to witness the union. Among those present to celebrate the special occasion were Miley's father, Billy Ray Cyrus, alongside his girlfriend Elizabeth Hurley.",
+          "Other family members joining the festivities included Miley's mother, Tish Cyrus, and her sister, Noah Cyrus, making it a closely knit family affair."
+        ]
+      },
+      {
+        "h": "Relationship History and Engagement",
+        "p": [
+          "The couple's romance began in 2021 after they were initially introduced through a blind date. Discussing their origins in a prior 2023 interview, Miley highlighted how that setup sparked their enduring relationship.",
+          "Despite maintaining a relatively private personal life away from public scrutiny throughout their time together, the pair took the next step in 2025 by getting engaged during a trip to Japan."
+        ]
+      },
+      {
+        "h": "Past Relationships and Background",
+        "p": [
+          "Before her relationship with Maxx Morando, Miley was previously married to actor Liam Hemsworth. After dating for multiple years, they wed in 2018 before separating the following year, with their divorce finalized in 2020.",
+          "Miley rose to widespread prominence as a child and teen star, famously headlining the hit Disney series Hannah Montana, which continues to hold a nostalgic place for fans worldwide."
+        ]
+      },
+      {
+        "h": "Joining the Disney Alumni Married Club",
+        "p": [
+          "With this wedding, Miley adds her name to a growing cohort of former Disney channel stars who have transitioned into marriage. Other well-known alumni from the network who have tied the knot include Selena Gomez, Demi Lovato, Vanessa Hudgens, Dylan Sprouse, Hilary Duff, and Nick Jonas, among others."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Pop star Miley Cyrus has officially married musician Maxx Morando in a private California ceremony attended by close family members. The couple, who began dating in 2021 and got engaged in Japan, shared the news via social media with monochromatic photos."
+        ]
+      }
+    ],
+    "facts": [
+      "Miley Cyrus married Maxx Morando on November 21, 2026",
+      "The wedding took place in Palm Springs, California",
+      "Miley and Maxx started dating in 2021",
+      "The couple got engaged in 2025 during a trip to Japan",
+      "Miley was previously married to Liam Hemsworth from 2018 to 2020",
+      "Family attendees included Billy Ray Cyrus, Elizabeth Hurley, Tish Cyrus, and Noah Cyrus"
+    ],
+    "entities": {
+      "people": [
+        "Miley Cyrus",
+        "Maxx Morando",
+        "Billy Ray Cyrus",
+        "Elizabeth Hurley",
+        "Tish Cyrus",
+        "Noah Cyrus",
+        "Liam Hemsworth",
+        "Selena Gomez",
+        "Demi Lovato",
+        "Vanessa Hudgens",
+        "Dylan Sprouse",
+        "Hilary Duff",
+        "Nick Jonas"
+      ],
+      "titles": [
+        "Hannah Montana",
+        "The Regrettes"
+      ]
+    },
+    "keywords": [
+      "Miley Cyrus wedding",
+      "Maxx Morando",
+      "Miley Cyrus Maxx Morando married",
+      "Palm Springs California wedding"
+    ],
+    "images": [
+      {
+        "url": "https://filmfare.wwmindia.com/content/2026/nov/former-disney-star-miley-cyrus-marries-musician-maxx-morando-in-california1795416291.jpg",
+        "caption": "Miley Cyrus and Maxx Morando Tie the Knot in California",
+        "source": "Filmfare"
+      }
+    ],
+    "published": "2026-11-23T12:21:45+05:30"
+  },
+  "hluy78": {
+    "id": "hluy78",
+    "type": "news",
+    "headline": "Hallmark Channel Unveils Seven New Holiday Movies for Merry Thanksgiving Schedule",
+    "dek": "The network is ramping up its seasonal programming block with a packed week of romantic premieres, featuring an array of star-studded casts and special festive storylines.",
+    "body": [
+      {
+        "h": "Merry Thanksgiving Schedule Highlights",
+        "p": [
+          "The Hallmark Channel is expanding its holiday broadcast lineup by introducing seven brand-new holiday movies across four consecutive nights. While the network has maintained a steady pace of airing three seasonal films per weekend since mid-October, viewers are receiving an extra wave of festive cheer specifically tailored for the Thanksgiving holiday block.",
+          "The special programming schedule kicks off on Thanksgiving night with an original movie premiere, followed by a double feature of brand-new films each night from Friday through Sunday. In addition to the abundance of traditional Christmas stories, the network is also including a special Hanukkah-themed film during this packed week of television entertainment."
+        ]
+      },
+      {
+        "h": "Christmas Delivered Premieres Thursday",
+        "p": [
+          "Airing on Thursday, November 26, Christmas Delivered stars Autumn Reeser and Wes Brown in a story about an overworked woman seeking peace at her grandmother's cozy Canadian farmhouse. Kimberly Carr, played by Reeser, looks forward to a restorative and quiet holiday away from her everyday stresses.",
+          "Her plans take an unexpected turn when she meets Ben Chambers, portrayed by Brown, who owns a local tree farm and a struggling delivery app called TreeBen. Utilizing her technical expertise, Kimberly helps Ben fix his application issues and team up to ensure the local community receives their trees, sparking a romance along the way."
+        ]
+      },
+      {
+        "h": "The Christmas Eve Feast and Return to Santa on Friday",
+        "p": [
+          "On Friday, November 27, audiences can watch The Christmas Eve Feast starring Daniella Monet and Kevin McGarry, with executive producer Giada DeLaurentiis behind the scenes. The narrative follows an executive chef who returns to her family in Boston to prepare a traditional holiday meal after her grandmother sustains a minor injury.",
+          "Later that same evening, Return to Santa premieres with Paul Campbell and Rachel Boston in the lead roles. The plot centers on an adult whose childhood letter to Santa finally gets discovered decades later, leading to unexpected magical interventions and a reunion with a childhood best friend."
+        ]
+      },
+      {
+        "h": "Weekend Magic With Secret Norma and Disney World",
+        "p": [
+          "Saturday, November 28 brings two more fresh premieres starting with The Most Wonderful Secret starring Tammin Sursok and Peter Porte. This movie follows a burned-out art teacher who becomes the recipient of local holiday scavenger hunt traditions while visiting her widowed brother and niece.",
+          "Following that presentation is Holiday Ever After: A Disney World Wish Come True, featuring Lacey Chabert, Travis Van Winkle, Richard Kind, Christy Carlson Romano, Bryce Durfee, and Taegen Burns. This feature places a family trip to the Walt Disney World Resort into a romantic comedy formula when a woman runs into a disastrous recent first-date match."
+        ]
+      },
+      {
+        "h": "Celebrating Hanukkah and Midwest Snowstorms on Sunday",
+        "p": [
+          "The final night of the holiday event on Sunday, November 29 introduces Eight Nights for Love starring Hunter King and Dan Jeannotte. This Hanukkah-themed story incorporates magical elements through an antique menorah gifted by a mysterious character named Pearl, which transports the protagonist through various moments of her past.",
+          "Rounding out the week is Miles to Christmas featuring Ashley Williams, Steve Lund, and Alison Sweeney. When a harsh Midwest snowstorm disrupts travel plans, a punctual corporate worker finds herself forced to travel with an 18-wheeler driver and her free-spirited sibling, leading to unexpected bonds and life-lesson discoveries."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "The Hallmark Channel is rolling out seven new original holiday films during a four-night programming block for Thanksgiving week. The schedule features a diverse lineup of romances and family stories starring familiar network actors across various unique settings."
+        ]
+      }
+    ],
+    "facts": [
+      "The Hallmark Channel is premiering seven new movies this week.",
+      "The programming block is titled 'Merry Thanksgiving Weekend'.",
+      "Christmas Delivered premieres on Thursday, November 26 at 8pm ET/PT.",
+      "The Christmas Eve Feast premieres on Friday, November 27 at 6pm ET/PT.",
+      "Return to Santa premieres on Friday, November 27 at 8pm ET/PT.",
+      "The Most Wonderful Secret premieres on Saturday, November 28 at 6pm ET/PT.",
+      "Holiday Ever After: A Disney World Wish Come True premieres on Saturday, November 28 at 8pm ET/PT.",
+      "Eight Nights for Love premieres on Sunday, November 29 at 6pm ET/PT.",
+      "Miles to Christmas premieres on Sunday, November 29 at 8pm ET/PT."
+    ],
+    "entities": {
+      "people": [
+        "Autumn Reeser",
+        "Wes Brown",
+        "Linda Darlow",
+        "Daniella Monet",
+        "Kevin McGarry",
+        "Giada DeLaurentiis",
+        "Paul Campbell",
+        "Rachel Boston",
+        "Tammin Sursok",
+        "Peter Porte",
+        "Lacey Chabert",
+        "Travis Van Winkle",
+        "Richard Kind",
+        "Christy Carlson Romano",
+        "Bryce Durfee",
+        "Taegen Burns",
+        "Hunter King",
+        "Dan Jeannotte",
+        "Felicia Shulman",
+        "Ashley Williams",
+        "Steve Lund",
+        "Alison Sweeney"
+      ],
+      "titles": [
+        "Christmas Delivered",
+        "The Christmas Eve Feast",
+        "Return to Santa",
+        "The Most Wonderful Secret",
+        "Holiday Ever After: A Disney World Wish Come True",
+        "Eight Nights for Love",
+        "Miles to Christmas"
+      ]
+    },
+    "keywords": [
+      "Hallmark Christmas movies",
+      "Merry Thanksgiving schedule",
+      "Christmas Delivered",
+      "Holiday Ever After Disney World Wish Come True"
+    ],
+    "images": [
+      {
+        "url": "https://www.justjared.com/wp-content/uploads/2026/05/hallmark-christmas-in-july.jpg",
+        "caption": "Hallmark Channel Unveils Seven New Holiday Movies for Merry Thanksgiving Schedule",
+        "source": "Just Jared"
+      }
+    ],
+    "published": "Tue, 24 Nov 2026 02:50:50 +0000"
+  },
+  "1ywaf84": {
+    "id": "1ywaf84",
+    "type": "news",
+    "headline": "Will Jo Bachay Hain Sang Samait Lo Release in India on Netflix?",
+    "dek": "As Netflix prepares to launch its first major Pakistani drama, fans are left wondering if the Fawad Khan and Mahira Khan starrer will be available for audiences in India.",
+    "body": [
+      {
+        "h": "Introduction to the Upcoming Netflix Series",
+        "p": [
+          "Netflix is preparing to premiere a major Pakistani production titled Jo Bachay Hain Sang Samait Lo, bringing together some of the most prominent stars from the entertainment industry of Pakistan. The romantic drama features an ensemble cast led by celebrated actors including Fawad Khan, Mahira Khan, Sanam Saeed, Ahad Raza Mir, and Hania Aamir, among other notable names.",
+          "Based on a well-known Urdu novel, the upcoming series has generated significant anticipation among viewers worldwide. Notably, this project marks a historical milestone as the first Pakistani drama officially slated for release on the global streaming platform."
+        ]
+      },
+      {
+        "h": "Plot and Literary Origins",
+        "p": [
+          "The narrative of Jo Bachay Hain Sang Samait Lo is adapted from the bestselling Urdu novel of the same name written by Farhat Ishtiaq. The storyline centers around Sikandar Sheheryar, a Harvard law student who grapples with severe emotional trauma following a life-altering incident. This distressing experience leaves him isolated and hesitant to cultivate meaningful personal relationships.",
+          "The protagonist's path shifts dramatically when he encounters Liza, a gifted artist who carries her own complex past and emotional burdens. Their chance meeting in Italy lays the groundwork for a deeply emotional narrative exploring themes of love, vulnerability, healing, and human connection across three generations and six distinct love stories."
+        ]
+      },
+      {
+        "h": "Star-Studded Ensemble and Creative Team",
+        "p": [
+          "Beyond the primary leads, the production boasts a massive ensemble cast featuring Hamza Ali Abbasi, Iqra Aziz, Bilal Ashraf, Maya Ali, and Khushhal Khan. The scale of the series is matched by its international production values, having been filmed across multiple scenic locations including Pakistan, Italy, and the United Kingdom.",
+          "The creative driving force behind the show is Momina Duraid, who has taken on the roles of creator, writer, director, and producer. Duraid holds a strong reputation in the industry for previously spearheading acclaimed television dramas such as Humsafar, Zindagi Gulzar Hai, Dastaan, and Suno Chanda."
+        ]
+      },
+      {
+        "h": "Scheduled Premiere Date",
+        "p": [
+          "Global audiences have a confirmed timeline for when the series will arrive on their screens. Netflix has scheduled Jo Bachay Hain Sang Samait Lo for an international premiere date of December 4, 2026.",
+          "With the premiere approaching rapidly, international fans are gearing up to watch the multi-generational romantic drama unfold on the streaming service."
+        ]
+      },
+      {
+        "h": "Uncertainty Surrounding the Indian Release",
+        "p": [
+          "Despite the global premiere schedule, significant ambiguity remains regarding whether the series will be accessible to audiences residing in India. As of now, Netflix has not issued any official confirmation or clarification concerning its availability in the Indian market.",
+          "This hesitation stems directly from regulatory measures put in place by the Indian government regarding digital media originating from neighboring regions."
+        ]
+      },
+      {
+        "h": "Regulatory Context and Background",
+        "p": [
+          "The streaming uncertainty in India is tied to an advisory issued by the Ministry of Information and Broadcasting in May 2025. This directive asked all digital platforms, intermediaries, and media streaming services operating within the country to discontinue web series, films, songs, podcasts, and other content originating from Pakistan.",
+          "The government advisory followed the April 22 Pahalgam terror attack and the subsequent rise in diplomatic and geopolitical tensions between India and Pakistan, leaving fans waiting for any potential updates from the streaming giant."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Jo Bachay Hain Sang Samait Lo is scheduled to premiere globally on Netflix on December 4, 2026, featuring a star-studded Pakistani cast including Fawad Khan and Mahira Khan. However, its release in India remains uncertain due to a government advisory from May 2025 regarding Pakistani-origin content on streaming platforms."
+        ]
+      }
+    ],
+    "facts": [
+      "Jo Bachay Hain Sang Samait Lo premieres on Netflix on December 4, 2026.",
+      "The series is based on a bestselling Urdu novel by Farhat Ishtiaq.",
+      "The project was filmed across Pakistan, Italy, and the United Kingdom.",
+      "Momina Duraid created, wrote, directed, and produced the series.",
+      "The Indian Ministry of Information and Broadcasting issued an advisory in May 2025 concerning Pakistani-origin content."
+    ],
+    "entities": {
+      "people": [
+        "Fawad Khan",
+        "Mahira Khan",
+        "Sanam Saeed",
+        "Ahad Raza Mir",
+        "Hania Aamir",
+        "Farhat Ishtiaq",
+        "Hamza Ali Abbasi",
+        "Iqra Aziz",
+        "Bilal Ashraf",
+        "Maya Ali",
+        "Khushhal Khan",
+        "Momina Duraid"
+      ],
+      "titles": [
+        "Jo Bachay Hain Sang Samait Lo",
+        "Humsafar",
+        "Zindagi Gulzar Hai",
+        "Dastaan",
+        "Suno Chanda"
+      ]
+    },
+    "keywords": [
+      "Jo Bachay Hain Sang Samait Lo",
+      "Fawad Khan Mahira Khan Netflix",
+      "Jo Bachay Hain Sang Samait Lo India release",
+      "Momina Duraid new series"
+    ],
+    "images": [
+      {
+        "url": "https://filmfare.wwmindia.com/content/2026/nov/fawadmahira11795416005.jpg",
+        "caption": "Will Jo Bachay Hain Sang Samait Lo Release in India on Netflix?",
+        "source": "Filmfare"
+      }
+    ],
+    "published": "2026-11-23T12:12:49+05:30"
+  },
+  "tiai8n": {
+    "id": "tiai8n",
+    "type": "news",
+    "headline": "Seventy-Two Years Later, Aragorn's Definitive 'Lord of the Rings' Leadership Quote Remains Unmatched in Fantasy",
+    "dek": "J.R.R. Tolkien's literary masterpiece features a profound line about leadership from Aragorn that continues to define the quintessential fantasy hero more than seven decades later.",
+    "body": [
+      {
+        "h": "The Enduring Legacy of Tolkien's Aragorn",
+        "p": [
+          "When discussing the ultimate incorruptible hero archetype within fantasy literature, few figures command as much respect as J.R.R. Tolkien's Aragorn. Immensely popularized by Viggo Mortensen's iconic performance in Peter Jackson's cinematic adaptations, the character remains a universal symbol of inspirational leadership in modern pop culture.",
+          "While Jackson's films introduced memorable rallying cries like the famous 'courage of men' speech crafted specifically for The Return of the King, Tolkien's original novels contain an abundance of equally brilliant textual dialogue that highlights what true royal integrity entails."
+        ]
+      },
+      {
+        "h": "A Defining Moment in The Two Towers",
+        "p": [
+          "A particular line from the opening sections of The Two Towers stands above all others in demonstrating Aragorn's core values. Upon encountering Éomer and his company in Rohan alongside Gimli and Legolas, Aragorn is asked who commands their group.",
+          "He answers simply that leadership originally belonged to Gandalf, but passed to him following the wizard's fall in Moria, offering the humble explanation: But when the great fall, the less must lead."
+        ]
+      },
+      {
+        "h": "Duty Over Ambition",
+        "p": [
+          "Rather than treating leadership as a prize to be sought after or a path to glory, Aragorn views it purely through the lens of necessity. He steps forward to guide his companions solely because Gandalf, whom he regards as far wiser and greater, is no longer present.",
+          "This establishes a recurring narrative pattern throughout the saga where lesser or unexpected characters are compelled to assume burdens when primary leaders fall, comparable to the Stewards of Gondor or Samwise Gamgee taking up the One Ring."
+        ]
+      },
+      {
+        "h": "Absence from the Cinematic Adaptation",
+        "p": [
+          "Given how effectively this sentiment captures Aragorn's character transition from a Northern Ranger to the legitimate King of Gondor, it is somewhat surprising that Peter Jackson's screenwriters did not incorporate the line into the movies.",
+          "The quote reinforces his humility, portraying a leader equally prepared to stand beside young soldiers in the trenches or rally an army of elven warriors, while also rendering the concept of stepping up in times of crisis deeply relatable to general audiences."
+        ]
+      },
+      {
+        "h": "Selfless Leadership in the War of the Ring",
+        "p": [
+          "Beyond his tactical heroism at Helm's Deep, the Pelennor Fields, and the Black Gate, Aragorn's primary motivation stems from duty rather than conquest. As darkness threatens the Free Peoples of Middle-earth, he dedicates his life to total anonymity as a Ranger to keep others safe.",
+          "His selfless dedication exemplifies the exact counterpoint needed to combat Sauron's tyranny, proving that true courage involves safeguarding the innocent without demanding recognition or personal reward."
+        ]
+      },
+      {
+        "h": "The Agent of Renewal",
+        "p": [
+          "Tolkien's underlying vision for Aragorn extended far beyond military victory, positioning him ultimately as an agent of renewal tasked with healing the world. This thematic purpose is quietly encapsulated by his leadership quote in The Two Towers.",
+          "Following the Battle of the Pelennor Fields, he embraces the Quenya title Envinyatar, meaning 'the Renewer,' successfully ushering the world of Men out of the Third Age and into a restorative new order during the Fourth Age."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "An analysis of J.R.R. Tolkien's original Lord of the Rings texts highlights a specific quote from Aragorn in The Two Towers as the character's most important and enduring statement on leadership. The line emphasizes duty and humility over glory, perfectly capturing Tolkien's vision of a selfless hero destined to heal Middle-earth."
+        ]
+      }
+    ],
+    "facts": [
+      "Published on Nov 23, 2026",
+      "Written by Bill Dubiel",
+      "The Lord of the Rings: The Two Towers released on December 18, 2002",
+      "The Two Towers runtime is 179 minutes"
+    ],
+    "entities": {
+      "people": [
+        "Bill Dubiel",
+        "J.R.R. Tolkien",
+        "Viggo Mortensen",
+        "Peter Jackson",
+        "Éomer",
+        "Gandalf",
+        "Gimli",
+        "Legolas",
+        "Samwise Gamgee",
+        "Frodo",
+        "Sauron",
+        "Saurman",
+        "Fran Walsh",
+        "Philippa Boyens",
+        "Stephen Sinclair",
+        "Barrie M. Osborne",
+        "Bob Weinstein",
+        "Harvey Weinstein",
+        "Mark Ordesky",
+        "Robert Shaye",
+        "Elijah Wood",
+        "Ian McKellen",
+        "Sean Astin",
+        "Andrew Garfield"
+      ],
+      "titles": [
+        "The Lord of the Rings",
+        "The Return of the King",
+        "The Two Towers",
+        "The Fellowship of the Ring",
+        "Bourne",
+        "Rings of Power"
+      ]
+    },
+    "keywords": [
+      "Aragorn Lord of the Rings quote",
+      "The Two Towers Aragorn leadership",
+      "J.R.R. Tolkien Aragorn character",
+      "Viggo Mortensen Aragorn"
+    ],
+    "images": [
+      {
+        "url": "https://static0.moviewebimages.com/wordpress/wp-content/uploads/2026/04/aragorn-in-battle-in-lord-of-the-rings.jpg?w=1600&amp;h=900&amp;fit=crop",
+        "caption": "Seventy-Two Years Later, Aragorn's Definitive 'Lord of the Rings' Leadership Quote Remains Unmatched in Fantasy",
+        "source": "MovieWeb"
+      }
+    ],
+    "published": "Tue, 24 Nov 2026 03:00:26 GMT"
   }
 };

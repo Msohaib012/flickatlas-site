@@ -328,6 +328,62 @@ window.FA_HOME_ARTICLES = {
     ],
     "published": "2026-11-24T08:44:41+05:30"
   },
+  "tiai8n": {
+    "id": "tiai8n",
+    "type": "news",
+    "headline": "Seventy-Two Years Later, Aragorn's Definitive 'Lord of the Rings' Leadership Quote Remains Unmatched in Fantasy",
+    "dek": "J.R.R. Tolkien's literary masterpiece features a profound line about leadership from Aragorn that continues to define the quintessential fantasy hero more than seven decades later.",
+    "entities": {
+      "people": [
+        "Bill Dubiel",
+        "J.R.R. Tolkien",
+        "Viggo Mortensen",
+        "Peter Jackson",
+        "Éomer",
+        "Gandalf",
+        "Gimli",
+        "Legolas",
+        "Samwise Gamgee",
+        "Frodo",
+        "Sauron",
+        "Saurman",
+        "Fran Walsh",
+        "Philippa Boyens",
+        "Stephen Sinclair",
+        "Barrie M. Osborne",
+        "Bob Weinstein",
+        "Harvey Weinstein",
+        "Mark Ordesky",
+        "Robert Shaye",
+        "Elijah Wood",
+        "Ian McKellen",
+        "Sean Astin",
+        "Andrew Garfield"
+      ],
+      "titles": [
+        "The Lord of the Rings",
+        "The Return of the King",
+        "The Two Towers",
+        "The Fellowship of the Ring",
+        "Bourne",
+        "Rings of Power"
+      ]
+    },
+    "keywords": [
+      "Aragorn Lord of the Rings quote",
+      "The Two Towers Aragorn leadership",
+      "J.R.R. Tolkien Aragorn character",
+      "Viggo Mortensen Aragorn"
+    ],
+    "images": [
+      {
+        "url": "https://static0.moviewebimages.com/wordpress/wp-content/uploads/2026/04/aragorn-in-battle-in-lord-of-the-rings.jpg?w=1600&amp;h=900&amp;fit=crop",
+        "caption": "Seventy-Two Years Later, Aragorn's Definitive 'Lord of the Rings' Leadership Quote Remains Unmatched in Fantasy",
+        "source": "MovieWeb"
+      }
+    ],
+    "published": "Tue, 24 Nov 2026 03:00:26 GMT"
+  },
   "e7ndch": {
     "id": "e7ndch",
     "type": "news",
@@ -369,6 +425,61 @@ window.FA_HOME_ARTICLES = {
       }
     ],
     "published": "Tue, 24 Nov 2026 02:56:12 +0000"
+  },
+  "hluy78": {
+    "id": "hluy78",
+    "type": "news",
+    "headline": "Hallmark Channel Unveils Seven New Holiday Movies for Merry Thanksgiving Schedule",
+    "dek": "The network is ramping up its seasonal programming block with a packed week of romantic premieres, featuring an array of star-studded casts and special festive storylines.",
+    "entities": {
+      "people": [
+        "Autumn Reeser",
+        "Wes Brown",
+        "Linda Darlow",
+        "Daniella Monet",
+        "Kevin McGarry",
+        "Giada DeLaurentiis",
+        "Paul Campbell",
+        "Rachel Boston",
+        "Tammin Sursok",
+        "Peter Porte",
+        "Lacey Chabert",
+        "Travis Van Winkle",
+        "Richard Kind",
+        "Christy Carlson Romano",
+        "Bryce Durfee",
+        "Taegen Burns",
+        "Hunter King",
+        "Dan Jeannotte",
+        "Felicia Shulman",
+        "Ashley Williams",
+        "Steve Lund",
+        "Alison Sweeney"
+      ],
+      "titles": [
+        "Christmas Delivered",
+        "The Christmas Eve Feast",
+        "Return to Santa",
+        "The Most Wonderful Secret",
+        "Holiday Ever After: A Disney World Wish Come True",
+        "Eight Nights for Love",
+        "Miles to Christmas"
+      ]
+    },
+    "keywords": [
+      "Hallmark Christmas movies",
+      "Merry Thanksgiving schedule",
+      "Christmas Delivered",
+      "Holiday Ever After Disney World Wish Come True"
+    ],
+    "images": [
+      {
+        "url": "https://www.justjared.com/wp-content/uploads/2026/05/hallmark-christmas-in-july.jpg",
+        "caption": "Hallmark Channel Unveils Seven New Holiday Movies for Merry Thanksgiving Schedule",
+        "source": "Just Jared"
+      }
+    ],
+    "published": "Tue, 24 Nov 2026 02:50:50 +0000"
   },
   "1cam5g6": {
     "id": "1cam5g6",
@@ -2911,6 +3022,47 @@ window.FA_HOME_ARTICLES = {
     ],
     "published": "Mon, 23 Nov 2026 06:53:54 +0000"
   },
+  "1ypaptc": {
+    "id": "1ypaptc",
+    "type": "news",
+    "headline": "Miley Cyrus and Maxx Morando Tie the Knot in California",
+    "dek": "Pop icon Miley Cyrus has officially married musician Maxx Morando in an intimate California ceremony, surrounded by close family members.",
+    "entities": {
+      "people": [
+        "Miley Cyrus",
+        "Maxx Morando",
+        "Billy Ray Cyrus",
+        "Elizabeth Hurley",
+        "Tish Cyrus",
+        "Noah Cyrus",
+        "Liam Hemsworth",
+        "Selena Gomez",
+        "Demi Lovato",
+        "Vanessa Hudgens",
+        "Dylan Sprouse",
+        "Hilary Duff",
+        "Nick Jonas"
+      ],
+      "titles": [
+        "Hannah Montana",
+        "The Regrettes"
+      ]
+    },
+    "keywords": [
+      "Miley Cyrus wedding",
+      "Maxx Morando",
+      "Miley Cyrus Maxx Morando married",
+      "Palm Springs California wedding"
+    ],
+    "images": [
+      {
+        "url": "https://filmfare.wwmindia.com/content/2026/nov/former-disney-star-miley-cyrus-marries-musician-maxx-morando-in-california1795416291.jpg",
+        "caption": "Miley Cyrus and Maxx Morando Tie the Knot in California",
+        "source": "Filmfare"
+      }
+    ],
+    "published": "2026-11-23T12:21:45+05:30"
+  },
   "761pw2": {
     "id": "761pw2",
     "type": "news",
@@ -2943,6 +3095,49 @@ window.FA_HOME_ARTICLES = {
       }
     ],
     "published": "Mon, 23 Nov 2026 12:18:10 +0530"
+  },
+  "1ywaf84": {
+    "id": "1ywaf84",
+    "type": "news",
+    "headline": "Will Jo Bachay Hain Sang Samait Lo Release in India on Netflix?",
+    "dek": "As Netflix prepares to launch its first major Pakistani drama, fans are left wondering if the Fawad Khan and Mahira Khan starrer will be available for audiences in India.",
+    "entities": {
+      "people": [
+        "Fawad Khan",
+        "Mahira Khan",
+        "Sanam Saeed",
+        "Ahad Raza Mir",
+        "Hania Aamir",
+        "Farhat Ishtiaq",
+        "Hamza Ali Abbasi",
+        "Iqra Aziz",
+        "Bilal Ashraf",
+        "Maya Ali",
+        "Khushhal Khan",
+        "Momina Duraid"
+      ],
+      "titles": [
+        "Jo Bachay Hain Sang Samait Lo",
+        "Humsafar",
+        "Zindagi Gulzar Hai",
+        "Dastaan",
+        "Suno Chanda"
+      ]
+    },
+    "keywords": [
+      "Jo Bachay Hain Sang Samait Lo",
+      "Fawad Khan Mahira Khan Netflix",
+      "Jo Bachay Hain Sang Samait Lo India release",
+      "Momina Duraid new series"
+    ],
+    "images": [
+      {
+        "url": "https://filmfare.wwmindia.com/content/2026/nov/fawadmahira11795416005.jpg",
+        "caption": "Will Jo Bachay Hain Sang Samait Lo Release in India on Netflix?",
+        "source": "Filmfare"
+      }
+    ],
+    "published": "2026-11-23T12:12:49+05:30"
   },
   "8n1qb9": {
     "id": "8n1qb9",
@@ -4608,46 +4803,6 @@ window.FA_HOME_ARTICLES = {
     ],
     "published": "2026-11-22T20:51:36Z"
   },
-  "f9yij0": {
-    "id": "f9yij0",
-    "type": "news",
-    "headline": "Mitwa Singer Shafqat Amanat Ali Opens Up About His Battle With Blood Cancer and Recovery",
-    "dek": "Renowned playback vocalist Shafqat Amanat Ali has revealed a harrowing year-long struggle with multiple myeloma, detailing his medical journey and triumphant return to the stage.",
-    "entities": {
-      "people": [
-        "Shafqat Amanat Ali",
-        "Dr. Salman Adil",
-        "Karan Johar"
-      ],
-      "titles": [
-        "Mitwa",
-        "Teri Jhuki Nazar",
-        "Saagar",
-        "Kabhi Alvida Naa Kehna",
-        "Dor",
-        "Phir Le Aaya Dil",
-        "Tere Naina",
-        "Bin Tere",
-        "Kyun Main Jaagoon",
-        "Dildara",
-        "Fuzon"
-      ]
-    },
-    "keywords": [
-      "Shafqat Amanat Ali",
-      "multiple myeloma",
-      "Mitwa singer",
-      "Shafqat Amanat Ali cancer"
-    ],
-    "images": [
-      {
-        "url": "https://cdn-english.zeenews.com/sites/default/files/2026/11/21/7188-shafqat-amanat-ali.png",
-        "caption": "Mitwa Singer Shafqat Amanat Ali Opens Up About His Battle With Blood Cancer and Recovery",
-        "source": "Zee News — Entertainment"
-      }
-    ],
-    "published": "2026-11-22T20:51:36Z"
-  },
   "1kx4fx1": {
     "id": "1kx4fx1",
     "type": "news",
@@ -4694,75 +4849,6 @@ window.FA_HOME_ARTICLES = {
       }
     ],
     "published": "2026-11-22T20:11:10Z"
-  },
-  "1rd13f": {
-    "id": "1rd13f",
-    "type": "news",
-    "headline": "Rashmika Mandanna Starrer Mysaa Postponed, New Theatrical Date Awaited",
-    "dek": "UnFormula Films has officially delayed the theatrical release of the period action thriller Mysaa, starring Rashmika Mandanna, which was originally scheduled to premiere on November 27.",
-    "entities": {
-      "people": [
-        "Rashmika Mandanna",
-        "Vijayashanthi",
-        "Rawindra Pulle",
-        "Shreyaas P Krishna",
-        "Kecha",
-        "Raisa Nasreen"
-      ],
-      "titles": [
-        "Mysaa",
-        "Osey Ramulamma"
-      ]
-    },
-    "keywords": [
-      "Mysaa film",
-      "Rashmika Mandanna Mysaa",
-      "Mysaa postponed",
-      "UnFormula Films Mysaa",
-      "Osey Ramulamma song"
-    ],
-    "images": [
-      {
-        "url": "https://images.timesnownews.com/thumb/msid-156549463,thumbsize-819155,width-1280,height-720,resizemode-75/156549463.jpg",
-        "caption": "Rashmika Mandanna Starrer Mysaa Postponed, New Theatrical Date Awaited",
-        "source": "Times Now — Entertainment"
-      }
-    ],
-    "published": "2026-11-22T20:11:10Z"
-  },
-  "35moax": {
-    "id": "35moax",
-    "type": "news",
-    "headline": "The Gilded Age Season 4 Finale Date Revealed Alongside Remaining Episode Schedule",
-    "dek": "HBO has officially detailed the remaining schedule for The Gilded Age Season 4, leading up to the December finale and following an early Season 5 renewal.",
-    "entities": {
-      "people": [
-        "Larry",
-        "Marian",
-        "Peggy",
-        "William",
-        "Bertha Russell",
-        "Agnes van Rhijn",
-        "George"
-      ],
-      "titles": [
-        "The Gilded Age"
-      ]
-    },
-    "keywords": [
-      "The Gilded Age Season 4",
-      "The Gilded Age finale date",
-      "The Gilded Age episodes",
-      "The Gilded Age Season 5"
-    ],
-    "images": [
-      {
-        "url": "https://www.justjared.com/wp-content/uploads/2026/11/coon-return.jpg",
-        "caption": "The Gilded Age Season 4 Finale Date Revealed Alongside Remaining Episode Schedule",
-        "source": "Just Jared"
-      }
-    ],
-    "published": "Sun, 22 Nov 2026 20:04:06 +0000"
   },
   "1yaww0u": {
     "id": "1yaww0u",
@@ -5120,6 +5206,40 @@ window.FA_HOME_ARTICLES = {
     ],
     "published": "2026-11-21T14:45:06Z"
   },
+  "r22llq": {
+    "id": "r22llq",
+    "type": "news",
+    "headline": "Melania Trump Discusses Ukraine Ceasefire at New York Screening for Amazon Follow-Up Series",
+    "dek": "The first lady addressed the Oleshky ceasefire and her broader humanitarian efforts during the premiere event for the two-episode streaming extension at Lincoln Center.",
+    "entities": {
+      "people": [
+        "Melania Trump",
+        "Brett Ratner",
+        "Marc Beckman",
+        "Fernando Sulichin",
+        "Kellyanne Conway",
+        "Hervé Pierre"
+      ],
+      "titles": [
+        "Melania: The Series",
+        "Melania"
+      ]
+    },
+    "keywords": [
+      "Melania Trump Melania The Series",
+      "Melania Trump Amazon Prime Video",
+      "Melania Trump Ukraine ceasefire",
+      "Melania Trump Lincoln Center premiere"
+    ],
+    "images": [
+      {
+        "url": "https://www.hollywoodreporter.com/wp-content/uploads/2026/11/GettyImages-2306006993.jpg?crop=0px%2C132px%2C5400px%2C3022px&#038;resize=1440%2C810",
+        "caption": "Melania Trump Discusses Ukraine Ceasefire at New York Screening for Amazon Follow-Up Series",
+        "source": "The Hollywood Reporter"
+      }
+    ],
+    "published": "Fri, 20 Nov 2026 22:38:05 +0000"
+  },
   "f4xobf": {
     "id": "f4xobf",
     "type": "news",
@@ -5321,59 +5441,6 @@ window.FA_HOME_ARTICLES = {
       }
     ],
     "published": "2026-11-20T14:45:34Z"
-  },
-  "xm093w": {
-    "id": "xm093w",
-    "type": "news",
-    "headline": "Amanda Seyfried's Playful 'Am I Too Old?' Remark Sparks Internet Buzz Around New James Bond Film",
-    "dek": "Actor Amanda Seyfried responds humorously to her absence from a speculative list of leading ladies for the upcoming James Bond film, drawing swift reactions from fans and highlighting ongoing age discussions in Hollywood casting.",
-    "entities": {
-      "people": [
-        "Amanda Seyfried",
-        "Robert Pattinson",
-        "Monica Bellucci",
-        "Sabrina Carpenter",
-        "Jimmy Fallon",
-        "Pierce Brosnan",
-        "George Lazenby",
-        "Josh O'Connor",
-        "Callum Turner",
-        "Daniel Craig",
-        "Denis Villeneuve",
-        "Steven Knight",
-        "Amy Pascal",
-        "David Heyman",
-        "Zendaya",
-        "Florence Pugh",
-        "Sydney Sweeney",
-        "Margot Robbie",
-        "Margaret Qualley",
-        "Anya Taylor-Joy"
-      ],
-      "titles": [
-        "Mean Girls",
-        "Spectre",
-        "Mamma Mia 3",
-        "Remember Me",
-        "On Her Majesty's Secret Service",
-        "No Time to Die",
-        "Skyfall"
-      ]
-    },
-    "keywords": [
-      "Amanda Seyfried James Bond",
-      "Robert Pattinson Bond girl shortlist",
-      "Amanda Seyfried Am I too old",
-      "Robert Pattinson new James Bond film"
-    ],
-    "images": [
-      {
-        "url": "https://static.toiimg.com/thumb/msid-136028264,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "caption": "Amanda Seyfried's Playful 'Am I Too Old?' Remark Sparks Internet Buzz Around New James Bond Film",
-        "source": "Times of India — Entertainment"
-      }
-    ],
-    "published": "2026-11-20T18:36:35+05:30"
   },
   "uaxxk7": {
     "id": "uaxxk7",
