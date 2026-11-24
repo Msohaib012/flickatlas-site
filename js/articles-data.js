@@ -205462,10 +205462,10 @@ window.FA_ARTICLES = {
       ]
     },
     "keywords": [
-      "Ramayana Rise of a Legend box office",
-      "Ranbir Kapoor Yash Ramayana film",
-      "Ramayana collection day 16",
-      "Ramayana box office collection"
+      "Ramayana Rise of a Legend Day 16 box office",
+      "Ranbir Kapoor Yash Ramayana Friday collection",
+      "Ramayana Rise of a Legend India net",
+      "Ramayana Rise of a Legend third week"
     ],
     "images": [
       {
@@ -205822,10 +205822,10 @@ window.FA_ARTICLES = {
       ]
     },
     "keywords": [
-      "Ramayana box office",
-      "Ramayana Day 16 collection",
-      "Ranbir Kapoor Yash Ramayana",
-      "Nitesh Tiwari Ramayana India net"
+      "Ramayana Day 16 box office India",
+      "Ranbir Kapoor Sai Pallavi Yash Ramayana",
+      "Ramayana 900 crore third Friday",
+      "Nitesh Tiwari Ramayana box office"
     ],
     "images": [
       {
@@ -206020,10 +206020,10 @@ window.FA_ARTICLES = {
       ]
     },
     "keywords": [
-      "Salman Khan Maatrubhumi",
-      "Maatrubhumi trailer VFX AI",
-      "Salman Khan ABP Conclave",
-      "Maatrubhumi release date"
+      "Salman Khan Maatrubhumi trailer trolling VFX",
+      "Salman Khan Maatrubhumi artificial intelligence",
+      "Salman Khan ABP Conclave Maatrubhumi",
+      "Maatrubhumi May War Rest in Peace"
     ],
     "images": [
       {
@@ -206216,10 +206216,10 @@ window.FA_ARTICLES = {
       ]
     },
     "keywords": [
-      "Anil Kapoor Emmanuel Macron",
-      "Anil Kapoor Paris meeting",
-      "Anil Kapoor Alpha",
-      "Anil Kapoor India Ke Top 1%"
+      "Anil Kapoor French President Emmanuel Macron Paris",
+      "Anil Kapoor Emmanuel Macron cinema AI",
+      "Anil Kapoor Paris meeting art culture",
+      "Anil Kapoor Emmanuel Macron conversation"
     ],
     "images": [
       {
@@ -206308,10 +206308,10 @@ window.FA_ARTICLES = {
       ]
     },
     "keywords": [
-      "Grand Theft Auto VI",
-      "GTA 6 sales record",
-      "Rockstar Games GTA 6",
-      "GTA 6 day one sales"
+      "Grand Theft Auto VI day-one sales records",
+      "Grand Theft Auto VI retail sales 3.79 billion",
+      "Rockstar Games Grand Theft Auto VI 24 hours",
+      "Grand Theft Auto VI entertainment records"
     ],
     "images": [
       {
@@ -206410,10 +206410,10 @@ window.FA_ARTICLES = {
       ]
     },
     "keywords": [
-      "ENE Repeat box office",
-      "Vishwak Sen ENE Repeat film",
-      "Tharun Bhascker ENE Repeat",
-      "ENE Repeat collection day 2"
+      "ENE Repeat Day 2 box office collection",
+      "Vishwak Sen ENE Repeat worldwide gross",
+      "Tharun Bhascker ENE Repeat drop",
+      "Ee Nagaraniki Emaindi team ENE Repeat"
     ],
     "images": [
       {
@@ -206499,10 +206499,10 @@ window.FA_ARTICLES = {
       ]
     },
     "keywords": [
-      "Squid Game creator Hwang Dong-hyuk",
-      "K.O. Club movie",
-      "Lee Byung-hun K.O. Club",
-      "Squid Game season 4 Netflix"
+      "Squid Game creator Hwang Dong-hyuk Netflix IP rights",
+      "Hwang Dong-hyuk Squid Game franchise Doha",
+      "Squid Game third season 2025",
+      "Hwang Dong-hyuk Doha Film Festival"
     ],
     "images": [
       {
@@ -206603,10 +206603,10 @@ window.FA_ARTICLES = {
       ]
     },
     "keywords": [
-      "Guy Ritchie In the Grey",
-      "In the Grey streaming Starz",
-      "Henry Cavill Jake Gyllenhaal movie",
-      "In the Grey box office flop"
+      "Guy Ritchie crime thriller Starz charts",
+      "Guy Ritchie movie domestic Starz leaderboard",
+      "In the Grey Guy Ritchie streaming",
+      "Guy Ritchie movie 27 million worldwide"
     ],
     "images": [
       {
@@ -206692,10 +206692,10 @@ window.FA_ARTICLES = {
       ]
     },
     "keywords": [
-      "Anupam Kher net worth",
-      "Anupam Kher Alia Bhatt property",
-      "Ramayana Part 1 Anupam Kher",
-      "Anupam Kher rented apartment"
+      "Anupam Kher net worth rumors",
+      "Anupam Kher rented living apartment",
+      "Anupam Kher Mumbai property Alia Bhatt",
+      "Anupam Kher net worth 500 crore"
     ],
     "images": [
       {
@@ -206780,10 +206780,10 @@ window.FA_ARTICLES = {
       ]
     },
     "keywords": [
-      "Moon Byul",
-      "MAMAMOO",
-      "BDAY OFF THE RECORD : 1222",
-      "Moon Byul fan meeting"
+      "Moon Byul solo birthday fan meeting tickets",
+      "MAMAMOO Moon Byul fan meeting sold out",
+      "Moon Byul BDAY OFF THE RECORD",
+      "Moon Byul fan meeting five minutes"
     ],
     "images": [],
     "published": "Fri, 20 Nov 2026 21:00:00 EST"
@@ -206870,10 +206870,10 @@ window.FA_ARTICLES = {
       ]
     },
     "keywords": [
-      "Charlie Puth India debut",
-      "Johnnie Co. Festival Mumbai",
-      "Charlie Puth Ellie Goulding concert",
-      "Johnnie Co. Festival tickets BookMyShow"
+      "Charlie Puth India debut Mumbai festival",
+      "Charlie Puth Ellie Goulding Johnnie Co Festival",
+      "Charlie Puth Mumbai concert February 2027",
+      "Ellie Goulding Mahalaxmi Racecourse"
     ],
     "images": [
       {
@@ -206964,10 +206964,10 @@ window.FA_ARTICLES = {
       ]
     },
     "keywords": [
-      "Grand Theft Auto VI",
-      "GTA 6 sales record",
-      "Rockstar Games GTA 6",
-      "Grand Theft Auto VI launch"
+      "Grand Theft Auto VI opening day sales",
+      "Grand Theft Auto VI historic launch",
+      "Rockstar Games Grand Theft Auto VI sales",
+      "Grand Theft Auto VI 3.79 billion"
     ],
     "images": [
       {
@@ -207060,10 +207060,10 @@ window.FA_ARTICLES = {
       ]
     },
     "keywords": [
-      "Bill Maher Real Time",
-      "Grand Theft Auto VI sales",
-      "Robert Pattinson James Bond",
-      "Amazon MGM Studios 007"
+      "Bill Maher Real Time Season 24 finale",
+      "Bill Maher Grand Theft Auto VI",
+      "Robert Pattinson James Bond casting",
+      "Bill Maher Real Time James Bond"
     ],
     "images": [
       {
@@ -207170,10 +207170,10 @@ window.FA_ARTICLES = {
       ]
     },
     "keywords": [
-      "Vrushakarma film",
-      "Naga Chaitanya Vrushakarma",
-      "Chalo Padhave song",
-      "Kiara Khanna Vrushakarma"
+      "Vrushakarma second single Chalo Padhave",
+      "Naga Chaitanya Vrushakarma Arjun",
+      "Chalo Padhave Naga Chaitanya Kiara Khanna",
+      "Vrushakarma mythology mystery thriller"
     ],
     "images": [
       {
@@ -207295,10 +207295,10 @@ window.FA_ARTICLES = {
       ]
     },
     "keywords": [
-      "Presumed Innocent Season 2",
-      "Rachel Brosnahan Presumed Innocent",
-      "Dissection of a Murder adaptation",
-      "Apple TV+ legal drama"
+      "Presumed Innocent Season 2 Apple TV+",
+      "Presumed Innocent Season 2 release date",
+      "Presumed Innocent Dissection of a Murder",
+      "Jake Gyllenhaal Presumed Innocent Season 2"
     ],
     "images": [
       {
@@ -233779,5 +233779,449 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Tue, 24 Nov 2026 02:01:00 +0000"
+  },
+  "jcn4vm": {
+    "id": "jcn4vm",
+    "type": "news",
+    "headline": "Ramayana Outperforms Dhurandhar 2 on Day 18 as Domestic Gross Crosses Rs 1,126 Crore",
+    "dek": "Ranbir Kapoor and Nitesh Tiwari's mythological epic Ramayana experienced a major surge on its third Sunday, surpassing competing ticket sales and edging closer to monumental box office milestones.",
+    "body": [
+      {
+        "h": "Third Sunday Surge",
+        "p": [
+          "The theatrical journey of the mythological epic Ramayana continues to draw massive audiences. Following a standard weekday cooling period, the high-profile venture experienced a substantial upward spike as the third weekend concluded.",
+          "This notable weekend performance allowed the production to outperform competing titles at the ticket windows, securing strong numbers across multiple regions in the country."
+        ]
+      },
+      {
+        "h": "Day 18 Regional Collections",
+        "p": [
+          "On its eighteenth day in cinemas, the feature pulled in strong domestic earnings. The Hindi language version led the charge with significant contributions from thousands of dedicated screenings.",
+          "Regional versions also added healthy sums to the overall daily total, demonstrating widespread appeal across different language belts and performing across hundreds of scheduled shows."
+        ]
+      },
+      {
+        "h": "Milestones and Domestic Totals",
+        "p": [
+          "The latest daily earnings pushed the project's cumulative domestic net collections to a staggering height. Furthermore, the domestic gross figures reached monumental tiers as ticket sales remained steady.",
+          "While competing films achieved certain linguistic milestones faster, the feature steadily built its position near the top of contemporary box office records."
+        ]
+      },
+      {
+        "h": "Global Box Office Reach",
+        "p": [
+          "Beyond domestic borders, the cinematic venture also maintained an exceptional foothold in international markets. Overseas gross collections contributed heavily to the massive worldwide tally.",
+          "Combined figures from domestic and international territories placed the global gross earnings at an extraordinary level, reflecting extensive international popularity."
+        ]
+      },
+      {
+        "h": "Scale and Production Budget",
+        "p": [
+          "The project stands as one of the most expensive and ambitious undertakings in the history of domestic filmmaking. Backed by a massive reported budget, every aspect of production aims for grand cinematic spectacle.",
+          "An extensive global promotional campaign supported the theatrical run, helping sustain viewer interest weeks after the initial nationwide premiere."
+        ]
+      },
+      {
+        "h": "Sequel Schedule Shift",
+        "p": [
+          "Alongside ongoing box office updates, creators provided fresh scheduling details for the upcoming continuation. The follow-up chapter has been pushed back from its initial timeline.",
+          "Audiences can now anticipate the arrival of the sequel during the festive period, ensuring additional time for the creative team to polish the upcoming installment."
+        ]
+      },
+      {
+        "h": "Star-Studded Ensemble",
+        "p": [
+          "The ambitious feature benefits from a prominent ensemble cast featuring celebrated actors in key mythological and supporting roles. Performers lend significant star power to the venture.",
+          "Additional creative forces, including renowned musical talent, dedicated years of commitment to shape the sonic and visual identity of the epic."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Ranbir Kapoor's Ramayana surpassed Dhurandhar 2 on its third Sunday, recording Rs 35.60 crore on day 18 to reach a total India net collection of Rs 942.75 crore. The film also announced a revised Diwali 2028 release date for its sequel."
+        ]
+      }
+    ],
+    "facts": [
+      "Ranbir Kapoor's Ramayana surpassed Dhurandhar 2 on its third Sunday.",
+      "On day 18, Ramayana recorded India net collections of Rs 35.60 crore across 16,277 shows.",
+      "The Hindi version earned Rs 26.25 crore from 13,852 shows.",
+      "The Malayalam version collected Rs 3.40 crore from 873 shows.",
+      "The Kannada version brought in Rs 2.50 crore from 449 shows.",
+      "The Tamil and Telugu versions added Rs 2.40 crore and Rs 1.05 crore.",
+      "Total India net collection reached Rs 942.75 crore.",
+      "Domestic gross stands at Rs 1,126.50 crore.",
+      "Overseas gross collections reached Rs 567 crore.",
+      "Worldwide gross total is Rs 1,693.50 crore.",
+      "Ramayana is mounted on a reported budget of Rs 4,000 crore.",
+      "Ramayana: Part 2 is scheduled to release during Diwali 2028."
+    ],
+    "entities": {
+      "people": [
+        "Ranbir Kapoor",
+        "Sai Pallavi",
+        "Yash",
+        "Ranveer Singh",
+        "Nitesh Tiwari",
+        "Sunny Deol",
+        "Ravi Dubey",
+        "Lara Dutta",
+        "AR Rahman",
+        "Sudip Sharma",
+        "Jiya Surana"
+      ],
+      "titles": [
+        "Ramayana",
+        "Dhurandhar 2",
+        "Ramayana: Part 2",
+        "Pushpak Vimaan"
+      ]
+    },
+    "keywords": [
+      "Ramayana film box office",
+      "Ranbir Kapoor Ramayana day 18",
+      "Ramayana beats Dhurandhar 2",
+      "Ramayana Part 2 release date"
+    ],
+    "images": [
+      {
+        "url": "https://filmfare.wwmindia.com/content/2026/nov/ramayana-box-office-day-18-ranbir-kapoor-s-film-beats-dhurandhar-2-on-3rd-sunday1795426599.jpg",
+        "caption": "Ramayana Outperforms Dhurandhar 2 on Day 18 as Domestic Gross Crosses Rs 1,126 Crore",
+        "source": "Filmfare"
+      }
+    ],
+    "published": "2026-11-23T15:16:07+05:30"
+  },
+  "1na3h0v": {
+    "id": "1na3h0v",
+    "type": "news",
+    "headline": "Steven Spielberg to Direct Western Written by Paul Thomas Anderson",
+    "dek": "Steven Spielberg is set to helm a new western feature for Focus Features, featuring a star-studded cast including Cillian Murphy and Jessie Buckley, based on a screenplay by Paul Thomas Anderson.",
+    "body": [
+      {
+        "h": "The Dream Collaboration",
+        "p": [
+          "Legendary filmmaker Steven Spielberg is finally realizing his long-standing aspiration to helm a western feature. In a major industry development, Spielberg has boarded a high-profile project for Focus Features that brings together some of the most celebrated creative forces in modern cinema.",
+          "The upcoming film pairs Spielberg's visionary directing style with a script penned by acclaimed writer-director Paul Thomas Anderson. Although Anderson is renowned for directing his own compelling cinematic works, he has crafted this particular screenplay specifically for Spielberg to bring to life on the big screen."
+        ]
+      },
+      {
+        "h": "Source Material and Plot",
+        "p": [
+          "Paul Thomas Anderson adapted the screenplay from the 2024 novel titled The Heart In Winter. The source material was written by Irish author Kevin Barry and provides the narrative foundation for the cinematic adaptation.",
+          "Set against the rugged backdrop of the late 1800s in the Old West, the storyline follows two romantic partners fleeing from a relentless posse of gunslingers. Their desperate journey ultimately takes them toward San Francisco as they fight for survival."
+        ]
+      },
+      {
+        "h": "An All-Star Cast of Academy Award Winners",
+        "p": [
+          "The production boasts an impressive ensemble cast filled with recognized Academy Award winners and nominees. The main lineup is anchored by acclaimed performers Jessie Buckley and Cillian Murphy.",
+          "Additionally, veteran actor Mark Rylance has joined the cast, rounding out a stellar group of performers. The presence of so many celebrated talents highlights the massive scale and prestige surrounding the upcoming feature."
+        ]
+      },
+      {
+        "h": "Previous Connections and Collaborations",
+        "p": [
+          "The creative team behind the movie shares a rich history of prestigious collaborations and critical acclaim. Steven Spielberg previously worked with Focus Features as a producer on the awards contender Hamnet, which earned Jessie Buckley a lead actress Oscar nomination.",
+          "Furthermore, Mark Rylance previously won a supporting actor Academy Award in 2016 for his work in Spielberg's historical drama Bridge Of Spies. Cillian Murphy also secured a best lead actor Oscar in 2024 for his starring role in Oppenheimer."
+        ]
+      },
+      {
+        "h": "Directing and Writing Pedigree",
+        "p": [
+          "Steven Spielberg brings decades of mastery to the western genre, having previously earned directing Oscars for Schindler’s List in 1994 and Saving Private Ryan in 1999. His desire to explore the Old West has been a long-held ambition for the iconic director.",
+          "Paul Thomas Anderson brings his own recent awards success to the partnership, having won a directing Oscar last season for One Battle After Another alongside recognition for adapted screenplay."
+        ]
+      },
+      {
+        "h": "Production Team and Expected Timeline",
+        "p": [
+          "Behind the scenes, the project is being managed by a dedicated group of producers. Kristie Macosko Krieger, Sara Murphy, Paul Thomas Anderson, and Steven Spielberg are serving as the film's producers.",
+          "The leadership team also includes Tim Headington, Neil Shah, Ryan Zacarias, and Ana Leocha as executive producers. Current reports indicate that the feature is anticipated to release in the year 2028."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Steven Spielberg will direct a western film for Focus Features from a screenplay written by Paul Thomas Anderson based on Kevin Barry's novel The Heart In Winter. The production stars Jessie Buckley, Cillian Murphy, and Mark Rylance, with an expected release in 2028."
+        ]
+      }
+    ],
+    "facts": [
+      "Steven Spielberg is set to direct a western for Focus Features.",
+      "Paul Thomas Anderson wrote the screenplay based on the 2024 novel The Heart In Winter by Kevin Barry.",
+      "The cast features Jessie Buckley, Cillian Murphy, and Mark Rylance.",
+      "The story is set in the Old West in the late 1800s and centers on two lovers fleeing a posse to San Francisco.",
+      "Steven Spielberg won directing Oscars for Schindler's List in 1994 and Saving Private Ryan in 1999.",
+      "Cillian Murphy won the best lead actor Oscar in 2024 for Oppenheimer.",
+      "Mark Rylance won supporting actor in 2016 for Bridge Of Spies.",
+      "Producers include Kristie Macosko Krieger, Sara Murphy, Paul Thomas Anderson, and Steven Spielberg.",
+      "Executive producers are Tim Headington, Neil Shah, Ryan Zacarias, and Ana Leocha.",
+      "The feature is expected to arrive in 2028."
+    ],
+    "entities": {
+      "people": [
+        "Steven Spielberg",
+        "Jessie Buckley",
+        "Cillian Murphy",
+        "Paul Thomas Anderson",
+        "Mark Rylance",
+        "Kevin Barry",
+        "Kristie Macosko Krieger",
+        "Sara Murphy",
+        "Tim Headington",
+        "Neil Shah",
+        "Ryan Zacarias",
+        "Ana Leocha"
+      ],
+      "titles": [
+        "The Heart In Winter",
+        "Schindler’s List",
+        "Saving Private Ryan",
+        "One Battle After Another",
+        "Hamnet",
+        "Oppenheimer",
+        "Bridge Of Spies"
+      ]
+    },
+    "keywords": [
+      "Steven Spielberg western",
+      "Paul Thomas Anderson screenplay",
+      "The Heart In Winter film",
+      "Cillian Murphy Jessie Buckley",
+      "Focus Features western"
+    ],
+    "images": [
+      {
+        "url": "https://d1nslcd7m2225b.cloudfront.net/Pictures/1024x536/9/1/9/1492919_spiel_986287.jpg",
+        "caption": "Steven Spielberg to Direct Western Written by Paul Thomas Anderson",
+        "source": "Screen Daily"
+      }
+    ],
+    "published": "Mon, 23 Nov 2026 21:33:00 GMT"
+  },
+  "kx1by2": {
+    "id": "kx1by2",
+    "type": "news",
+    "headline": "Vijay Sethupathi Makes Stylish Appearance at the 54th International Emmy Awards as a Presenter",
+    "dek": "Indian actor Vijay Sethupathi stood out as the sole Indian presenter at the 54th International Emmy Awards in New York, where he wore a striking black tailored suit with gold embroidery.",
+    "body": [
+      {
+        "h": "The Global Television Celebration",
+        "p": [
+          "The 54th International Emmy Awards took place at the New York Hilton Midtown, bringing together television professionals and international stars from around the world. Actor Michael Urie, recognized for his work in Ugly Betty and Shrinking, took on the role of host for the star-studded evening.",
+          "The prestigious global event was designed to recognize and honor outstanding television programs and performances spanning across sixteen categories from twenty-two different countries."
+        ]
+      },
+      {
+        "h": "Vijay Sethupathi's Red Carpet Look",
+        "p": [
+          "Indian actor Vijay Sethupathi was officially announced as one of the presenters for the global television ceremony, making him the lone Indian personality taking the stage as a presenter this year.",
+          "He captured attention on the red carpet with a distinctive and formal fashion choice. The actor wore a black tailored suit that featured intricate statement gold embroidery, creating a dramatic appearance for the international gathering."
+        ]
+      },
+      {
+        "h": "Connections and Past Indian Presenters",
+        "p": [
+          "Producer Kavita Gupta, who also serves as a board member of the International Academy of Television Arts and Sciences, played a vital role in facilitating the Maharaja star's participation at the event. She previously assisted comedian Vir Das in hosting the ceremony in 2024.",
+          "Vijay Sethupathi joins a select group of Indian personalities who have previously presented at the International Emmys. Past presenters include Aashka Goradia in 2009, Simone Singh in 2010, and Prerna Wanvari, who presented an award in the Arts Programming category in 2012."
+        ]
+      },
+      {
+        "h": "Indian Nominations at the Ceremony",
+        "p": [
+          "India secured multiple notable nominations at this year's international awards event. Comedian Vir Das earned a nomination in the Comedy category for his Netflix special titled Vir Das: Fool Volume, marking his third nomination following previous nods for For India in 2021 and Landing in 2023.",
+          "Additionally, India received a second nomination in the Drama Series category for Real Kashmir Football Club. The SonyLIV production features performances by actors Manav Kaul and Mohammed Zeeshan Ayyub."
+        ]
+      },
+      {
+        "h": "International Presenter Lineup",
+        "p": [
+          "Alongside the Indian actor, the global roster of presenters featured a wide array of international talent from film and television.",
+          "The diverse group included Lauren Chan, Sophie Charlotte, David Ajala, Max von der Groeben, José Díaz-Balart, Celia Imrie, James Monroe Iglehart, Gus Kenworthy, Ulah Pate, Jay Pharoah, Rita Pereira, Andrea Riseborough, Keri Russell, Andrea Savage, Mark Tallman, David Zaslav, Constance Zimmer, and Robbie G.K."
+        ]
+      },
+      {
+        "h": "Upcoming Projects for the Star",
+        "p": [
+          "Following his recent cameo appearance in Jailer 2, the actor has several upcoming film releases scheduled in the near future. He stars in the upcoming action thriller Train, directed by Mysskin and produced by Kalaipuli S Thanu under V Creations, which also features Nassar, Shruti Haasan, Ira Dayanand, Preethy Karan, and Narain Ram.",
+          "Additionally, he is part of the film Inji Vellam, directed by Mani Ratnam and starring Sai Pallavi alongside Chaithra J Achar."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Indian actor Vijay Sethupathi attended the 54th International Emmy Awards in New York as a presenter, wearing a black tailored suit with gold embroidery. The ceremony celebrated international television across multiple categories and featured nominations for Indian projects including Vir Das: Fool Volume and Real Kashmir Football Club."
+        ]
+      }
+    ],
+    "facts": [
+      "The 54th International Emmy Awards were held at the New York Hilton Midtown.",
+      "Michael Urie hosted the event.",
+      "Vijay Sethupathi was the sole Indian presenter at the 54th International Emmy Awards.",
+      "Kavita Gupta is a board member of the International Academy of Television Arts and Sciences.",
+      "Aashka Goradia was a presenter in 2009, Simone Singh in 2010, and Prerna Wanvari in 2012.",
+      "Vir Das was nominated in the Comedy category for Vir Das: Fool Volume.",
+      "Real Kashmir Football Club was nominated in the Drama Series category.",
+      "Train is directed by Mysskin and produced by Kalaipuli S Thanu.",
+      "Inji Vellam is directed by Mani Ratnam and stars Sai Pallavi."
+    ],
+    "entities": {
+      "people": [
+        "Vijay Sethupathi",
+        "Michael Urie",
+        "Kavita Gupta",
+        "Vir Das",
+        "Aashka Goradia",
+        "Simone Singh",
+        "Prerna Wanvari",
+        "Manav Kaul",
+        "Mohammed Zeeshan Ayyub",
+        "Mysskin",
+        "Kalaipuli S Thanu",
+        "Nassar",
+        "Shruti Haasan",
+        "Ira Dayanand",
+        "Preethy Karan",
+        "Narain Ram",
+        "Mani Ratnam",
+        "Sai Pallavi",
+        "Chaithra J Achar",
+        "Lauren Chan",
+        "Sophie Charlotte",
+        "David Ajala",
+        "Max von der Groeben",
+        "José Díaz-Balart",
+        "Celia Imrie",
+        "James Monroe Iglehart",
+        "Gus Kenworthy",
+        "Ulah Pate",
+        "Jay Pharoah",
+        "Rita Pereira",
+        "Andrea Riseborough",
+        "Keri Russell",
+        "Andrea Savage",
+        "Mark Tallman",
+        "David Zaslav",
+        "Constance Zimmer",
+        "Robbie G.K.",
+        "Riya Sharma"
+      ],
+      "titles": [
+        "Ugly Betty",
+        "Shrinking",
+        "Maharaja",
+        "Vir Das: Fool Volume",
+        "For India",
+        "Landing",
+        "Real Kashmir Football Club",
+        "Jailer 2",
+        "Train",
+        "Inji Vellam"
+      ]
+    },
+    "keywords": [
+      "Vijay Sethupathi International Emmy Awards",
+      "International Emmy Awards 2026 presenters",
+      "Vir Das Fool Volume International Emmys",
+      "Real Kashmir Football Club International Emmys"
+    ],
+    "images": [
+      {
+        "url": "https://www.hindustantimes.com/ht-img/img/2026/11/24/1600x900/logo/4302fffc-466f-4639-9fa2-e8259b5baa01_1795482927418_gDo4_1795482939739_we6O_d8682b49-69ec-4abc-9faa-1b4b7a987ccf_1jaF.jpg",
+        "caption": "Vijay Sethupathi Makes Stylish Appearance at the 54th International Emmy Awards as a Presenter",
+        "source": "Hindustan Times — Entertainment"
+      }
+    ],
+    "published": "Tue, 24 Nov 2026 07:24:36 +0530"
+  },
+  "18pucp3": {
+    "id": "18pucp3",
+    "type": "news",
+    "headline": "ENHYPEN Conquers Album Charts as Spin-Off Single Reaches Massive Milestone",
+    "dek": "The acclaimed boy group's latest release achieves astronomical first-day sales while dominating digital charts globally.",
+    "body": [
+      {
+        "h": "Stellar First-Day Sales Success",
+        "p": [
+          "The popular K-pop group ENHYPEN has achieved a remarkable feat with their newest musical offering, recording tremendous physical purchases right out of the gate. According to tracking data released by Hanteo Chart, the group's spin-off single project accomplished an impressive commercial milestone on its very first day available to fans.",
+          "The newly dropped record quickly climbed to the very top of the daily album rankings, cementing the immense popularity and loyal backing of the ensemble's fanbase. Such staggering initial figures highlight the group's continued dominance in physical album distribution across the industry."
+        ]
+      },
+      {
+        "h": "Unpacking the New Release",
+        "p": [
+          "Titled 'THE SIN : PARALLEL WORLD', this fresh project functions as an official spin-off building directly upon the overarching narrative established by previous music series entries earlier in the year. The conceptual framework bridges together the intricate storylines the members have curated thus far.",
+          "The central theme revolves around an inescapable destiny shared between two individuals, portraying how they manage to locate one another regardless of the reality or dimension they inhabit. This creative storytelling continues to captivate listeners looking for deep conceptual lore in their favorite tracks."
+        ]
+      },
+      {
+        "h": "Focus on the Lead Track",
+        "p": [
+          "Serving as the centerpiece of the single album, the main track 'I Want You' has resonated strongly with audiences worldwide since its digital rollout. The song romanticizes the distinct moment someone realizes they have found their destined counterpart through an unexplainable, instinctive sixth sense.",
+          "Complementing the audio release, the accompanying music video has enjoyed widespread virality across major digital platforms. Visual components introduced prior to the full album drop successfully generated substantial anticipation among global followers."
+        ]
+      },
+      {
+        "h": "Global Streaming and Chart Dominance",
+        "p": [
+          "Beyond physical record sales, the group's new music has made a profound impact on international digital storefronts and streaming networks. The lead single successfully secured the leading position on prominent regional song tallies in numerous countries across the globe.",
+          "On video-sharing platforms and audio streaming services, the promotional content maintained top positions for multiple consecutive days. This widespread international traction underscores the ensemble's expanding reach outside of domestic markets."
+        ]
+      },
+      {
+        "h": "Exploring the Remix Variations",
+        "p": [
+          "Adding further depth to the musical rollout, alternative versions of the main song have also been introduced to showcase individual artistic sensibilities. A specially crafted remix edition reflecting the distinct tastes of each band member was made available to the public.",
+          "This alternate version quickly mirrored the success of the original track, securing prominent positions on regional download charts and entering global rankings within hours of its official deployment."
+        ]
+      },
+      {
+        "h": "Members and Industry Recognition",
+        "p": [
+          "The successful group consists of six talented performers: Jungwon, Jay, Jake, Sunghoon, Sunoo, and Ni-ki, each contributing to the collective appeal and success of the ensemble's recent endeavors. Their collaborative synergy remains a driving force behind their continuous chart achievements.",
+          "In addition to their musical milestones, the members recently earned official recognition for their broader cultural impact. The group received a prestigious commendation from government leadership in appreciation of their efforts in spreading cultural content internationally."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "ENHYPEN's spin-off single 'THE SIN : PARALLEL WORLD' recorded 708,868 copies sold on its first day and topped Hanteo Chart's daily album ranking for November 23. Meanwhile, the lead track 'I Want You' achieved strong international streaming success and top placements on global digital music platforms.",
+          "The group also recently received a commendation from the Minister of Culture, Sports and Tourism at the 2026 Korean Popular Culture and Arts Awards for their contributions to global K-content."
+        ]
+      }
+    ],
+    "facts": [
+      "ENHYPEN's spin-off single 'THE SIN : PARALLEL WORLD' sold 708,868 copies on its first day.",
+      "The album topped the Hanteo Chart daily album chart dated November 23.",
+      "The title track 'I Want You' was released on November 20.",
+      "The music video for 'I Want You' was pre-released on November 13.",
+      "The remix version of the title track was released on November 21.",
+      "ENHYPEN received a commendation from the Minister of Culture, Sports and Tourism at the '2026 Korean Popular Culture and Arts Awards'."
+    ],
+    "entities": {
+      "people": [
+        "Jungwon",
+        "Jay",
+        "Jake",
+        "Sunghoon",
+        "Sunoo",
+        "Ni-ki",
+        "TelloWoo"
+      ],
+      "titles": [
+        "THE SIN : PARALLEL WORLD",
+        "I Want You",
+        "I Want You (ENHYPEN Remix)"
+      ]
+    },
+    "keywords": [
+      "ENHYPEN THE SIN PARALLEL WORLD",
+      "ENHYPEN first day sales",
+      "I Want You ENHYPEN",
+      "ENHYPEN Hanteo Chart"
+    ],
+    "images": [],
+    "published": "Mon, 23 Nov 2026 22:20:00 EST"
   }
 };
