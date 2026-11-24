@@ -239222,5 +239222,407 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Tue, 24 Nov 2026 23:40:30 +0530"
+  },
+  "15l1232": {
+    "id": "15l1232",
+    "type": "news",
+    "headline": "The Remarried Empress Reaches Its Dramatic Conclusion with Episodes 9 and 10",
+    "dek": "Fans anticipate the final episodes of the hit Korean fantasy romance as Navier, Sovieshu, Rashta, and Prince Heinrey face their ultimate fates.",
+    "body": [
+      {
+        "h": "The Finale Arrives",
+        "p": [
+          "The popular Korean fantasy romance series is officially concluding its run with the release of its final installment. Audiences following the emotional saga are gearing up for the premiere of the last two chapters.",
+          "The release marks the end of a widely discussed television journey that has captured the attention of international drama enthusiasts."
+        ]
+      },
+      {
+        "h": "Schedule and Release Timings",
+        "p": [
+          "The final two installments are scheduled to premiere on November 25. Viewers looking to stream the conclusion online can expect the content to become available following its initial platform debut after 3 pm in Indian Standard Time.",
+          "While unofficial third-party platforms often see mirror uploads, viewers are encouraged to stick to authorized streaming services to avoid copyright interruptions."
+        ]
+      },
+      {
+        "h": "Core Plot and Political Intrigue",
+        "p": [
+          "The narrative revolves around Empress Navier of the Eastern Empire, whose royal marriage disintegrates after Emperor Sovieshu brings in Rashta. Rather than accepting defeat, Navier agrees to a divorce under one bold condition: her desire to wed Prince Heinrey of the Western Kingdom.",
+          "The storyline has consistently highlighted themes of court betrayal, political acumen, and a queen reclaiming her dignity on her own terms."
+        ]
+      },
+      {
+        "h": "Cast and Source Material",
+        "p": [
+          "The television adaptation is inspired by Alphatart's well-known web novel and the corresponding Naver webtoon. The adaptation features a prominent lead cast bringing these complex characters to life.",
+          "Shin Min-a stars as Navier, Ju Ji-hoon plays Sovieshu, Lee Jong-suk takes on the role of Heinrey, and Lee Se-young portrays Rashta."
+        ]
+      },
+      {
+        "h": "Streaming Availability",
+        "p": [
+          "The series maintains a regular broadcast pattern, with episodes typically arriving weekly on Disney Plus. Depending on regional licensing and availability, viewers in select countries can also access the show via Hulu.",
+          "The concluding segments are anticipated to resolve the lingering tensions between the Eastern and Western kingdoms."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "The Remarried Empress is releasing its final episodes 9 and 10 on November 25, concluding the fantasy romance starring Shin Min-a and Ju Ji-hoon. Fans can watch the authorized finale after 3 pm IST on platforms like Disney Plus as the story resolves Navier's political and personal journey."
+        ]
+      }
+    ],
+    "facts": [
+      "Episodes 9 and 10 of The Remarried Empress release on November 25, 2026",
+      "The release time is expected after 3 pm IST",
+      "Shin Min-a plays Navier",
+      "Ju Ji-hoon plays Sovieshu",
+      "Lee Jong-suk plays Heinrey",
+      "Lee Se-young plays Rashta"
+    ],
+    "entities": {
+      "people": [
+        "Shin Min-a",
+        "Ju Ji-hoon",
+        "Lee Jong-suk",
+        "Lee Se-young",
+        "Alphatart",
+        "Navier",
+        "Sovieshu",
+        "Rashta",
+        "Prince Heinrey"
+      ],
+      "titles": [
+        "The Remarried Empress"
+      ]
+    },
+    "keywords": [
+      "The Remarried Empress",
+      "Shin Min-a kdrama",
+      "Ju Ji-hoon",
+      "The Remarried Empress finale"
+    ],
+    "images": [
+      {
+        "url": "https://images.filmibeat.com/img/2026/11/theremarriedempress-62681795545863.jpg",
+        "caption": "The Remarried Empress Reaches Its Dramatic Conclusion with Episodes 9 and 10",
+        "source": "FilmiBeat"
+      }
+    ],
+    "published": "Wed, 25 Nov 2026 00:42:52 +0530"
+  },
+  "1vklp4v": {
+    "id": "1vklp4v",
+    "type": "news",
+    "headline": "International Emmy Awards 2026: Vir Das and Real Kashmir Football Club Miss Out on Trophies",
+    "dek": "The 54th International Emmy Awards announced its complete winners list across sixteen categories, leaving Indian contenders Vir Das and Real Kashmir Football Club without wins.",
+    "body": [
+      {
+        "h": "The 54th Annual Ceremony",
+        "p": [
+          "The global entertainment industry gathered for the 54th International Emmy Awards to celebrate outstanding television productions and exceptional performances from numerous countries.",
+          "A total of sixteen distinct categories were contested, highlighting storytelling talent and creative achievements spanning multiple continents and languages."
+        ]
+      },
+      {
+        "h": "Indian Nominations Fall Short",
+        "p": [
+          "India's presence at the ceremony included two significant nominations, though both contenders ultimately missed out on securing the prestigious trophies.",
+          "Comedian Vir Das competed in the Comedy category with his special Vir Das: Fool Volume, while Real Kashmir Football Club vied for honors in the Drama Series segment."
+        ]
+      },
+      {
+        "h": "Comedy Category Results",
+        "p": [
+          "Vir Das faced fierce international competition in the Comedy category with his nominated project, Vir Das: Fool Volume, but did not take home the prize.",
+          "Instead, the Comedy Series award was claimed by Argentina's División Palermo Season 2, marking a major victory for the South American production."
+        ]
+      },
+      {
+        "h": "Drama Series Winner",
+        "p": [
+          "Real Kashmir Football Club hoped to make history in the Drama Series category, but the coveted statuette was instead awarded to Carême.",
+          "The winning drama series bested all other international nominees in its field to claim the recognition at the gala."
+        ]
+      },
+      {
+        "h": "Notable Global Winners",
+        "p": [
+          "Beyond the major category shifts, several other acclaimed international titles and performers earned recognition during the celebration.",
+          "Bobby Schofield won Best Performance by an Actor for Unforgivable, and the Best Performance by an Actress award went to Holy Sh!t."
+        ]
+      },
+      {
+        "h": "Documentary and Factual Trophies",
+        "p": [
+          "The ceremony also turned its spotlight toward impactful documentaries, current affairs reporting, and specialized programming from around the world.",
+          "Louis Theroux: The Settlers secured the Documentary prize, while Exposure: Breaking Ranks: Inside Israel's War won in the Current Affairs category."
+        ]
+      },
+      {
+        "h": "Additional Category Victories",
+        "p": [
+          "Other winners announced during the evening included Leyla for Telenovela and Prisoner 951 in the TV Movie/Miniseries category.",
+          "Children's programming honors went to titles like The Scarecrows' Wedding for Animation and Dexter Procter: The 10-Year-Old Doctor for Live Action."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "The 54th International Emmy Awards handed out honors across sixteen categories, with India's hopefuls Vir Das and Real Kashmir Football Club failing to secure wins.",
+          "While international titles like Carême and División Palermo Season 2 claimed major category victories, the ceremony celebrated a diverse array of global television talent."
+        ]
+      }
+    ],
+    "facts": [
+      "The 54th International Emmy Awards took place with winners announced across 16 categories.",
+      "Vir Das was nominated in the Comedy category for Vir Das: Fool Volume.",
+      "Real Kashmir Football Club competed for the Drama Series award.",
+      "Carême won the Drama Series award.",
+      "División Palermo Season 2 won the Comedy Series category.",
+      "Bobby Schofield won Best Performance by an Actor for Unforgivable.",
+      "Louis Theroux: The Settlers won the Documentary category."
+    ],
+    "entities": {
+      "people": [
+        "Vir Das",
+        "Bobby Schofield",
+        "Louis Theroux"
+      ],
+      "titles": [
+        "Vir Das: Fool Volume",
+        "Carême",
+        "División Palermo",
+        "Unforgivable",
+        "Holy Sh!t",
+        "Louis Theroux: The Settlers",
+        "Prisoner 951",
+        "Leyla"
+      ]
+    },
+    "keywords": [
+      "International Emmy Awards 2026",
+      "Vir Das",
+      "Real Kashmir Football Club",
+      "Vir Das Fool Volume"
+    ],
+    "images": [
+      {
+        "url": "https://filmfare.wwmindia.com/content/2026/nov/emmys11795490334.jpg",
+        "caption": "International Emmy Awards 2026: Vir Das and Real Kashmir Football Club Miss Out on Trophies",
+        "source": "Filmfare"
+      }
+    ],
+    "published": "2026-11-24T08:54:58+05:30"
+  },
+  "9ofx4f": {
+    "id": "9ofx4f",
+    "type": "news",
+    "headline": "Patrick Stewart’s Thriller Green Room Is Leaving Netflix This Month",
+    "dek": "The brutal punk psychological thriller featuring Patrick Stewart and Anton Yelchin is departing Netflix at the end of November.",
+    "body": [
+      {
+        "h": "Departure From Netflix",
+        "p": [
+          "Streaming subscribers have a very limited window left to watch the intense psychological thriller Green Room on Netflix. The platform has officially scheduled the film for removal at the end of the month, establishing November 30 as the final day it will remain available on the service.",
+          "While the movie is exiting Netflix, audiences seeking alternative ways to view it will still have options. The feature is slated to continue streaming for free on Pluto TV and Tubi while viewers await its next permanent subscription streaming home."
+        ]
+      },
+      {
+        "h": "Cast and Production Background",
+        "p": [
+          "Released originally back in 2015, the project was written and directed by Jeremy Saulnier. It was mounted on a modest, shoestring budget of just $5 million, though its global box office returns ultimately reached $3.8 million.",
+          "The gritty narrative features a talented ensemble cast. It is led by Anton Yelchin and Imogen Poots, alongside Alia Shawkat, while seasoned veteran Patrick Stewart takes on a supporting role as a chilling antagonist. The production also features performances by Callum Turner and Peaky Blinders actor Joe Cole."
+        ]
+      },
+      {
+        "h": "Critical Reception and Synopsis",
+        "p": [
+          "The official premise follows members of a punk-rock band alongside a tough young woman as they fight for survival against murderous white supremacists at an isolated Oregon roadhouse.",
+          "Upon release and throughout the years, the film has achieved strong acclaim from critics and viewers alike. It holds a robust 90% approval rating from critics and a 75% score from audiences on the review aggregator site Rotten Tomatoes."
+        ]
+      },
+      {
+        "h": "Remembering Patrick Stewart",
+        "p": [
+          "The departure of Green Room arrives during a period when the entertainment industry continues to reflect on the career and legacy of the legendary actor Patrick Stewart. Best known globally for iconic television roles such as Captain Picard in the Star Trek universe—which he played from the late 1980s through 2023's Star Trek: Picard—Stewart also left an indelible mark on cinema.",
+          "Beyond his massive franchise blockbusters, Stewart routinely devoted his talents to smaller, daring independent projects like Green Room. His filmography also includes upcoming posthumous appearances, such as his final performance as Professor Charles Xavier in Marvel's upcoming Avengers: Doomsday."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "The 2015 punk thriller Green Room, starring Patrick Stewart and Anton Yelchin, is officially leaving Netflix on November 30. Fans of the critically acclaimed film can still catch it on Pluto TV and Tubi following its removal from the platform."
+        ]
+      }
+    ],
+    "facts": [
+      "Green Room is leaving Netflix on November 30.",
+      "Green Room was released in 2015.",
+      "The film was written and directed by Jeremy Saulnier.",
+      "Green Room had a budget of $5 million and grossed $3.8 million globally.",
+      "The movie holds a 90% critic score and 75% audience score on Rotten Tomatoes.",
+      "Patrick Stewart played Captain Picard from the late 80s up to 2023's Star Trek: Picard."
+    ],
+    "entities": {
+      "people": [
+        "Patrick Stewart",
+        "Anton Yelchin",
+        "Imogen Poots",
+        "Callum Turner",
+        "Robert Pattinson",
+        "Jeremy Saulnier",
+        "Joe Cole",
+        "Alia Shawkat",
+        "George Miller",
+        "Anya Taylor-Joy",
+        "Chris Hemsworth",
+        "Roger Deakins",
+        "Ridley Scott",
+        "Luke Scott",
+        "Shinichiro Watanabe",
+        "Denis Villeneuve",
+        "Hans Zimmer",
+        "Christopher Nolan",
+        "Austin Butler",
+        "Florence Pugh",
+        "Christopher Walken",
+        "David Lynch",
+        "Alejandro Jodorowsky",
+        "John Williams",
+        "Keanu Reeves"
+      ],
+      "titles": [
+        "Avengers: Doomsday",
+        "House of the Dragon",
+        "Planet of the Apes",
+        "The Penguin",
+        "Star Wars: Skeleton Crew",
+        "The Chosen",
+        "Star Trek: Picard",
+        "Green Room",
+        "The Matrix",
+        "Mad Max",
+        "Blade Runner",
+        "Dune",
+        "Star Wars",
+        "Fight Club",
+        "eXistenZ",
+        "Mad Max: Fury Road",
+        "Furiosa: A Mad Max Saga",
+        "Blade Runner 2049",
+        "Tenet",
+        "Dune: Part Two",
+        "Andor",
+        "Peaky Blinders"
+      ]
+    },
+    "keywords": [
+      "Green Room Netflix",
+      "Patrick Stewart Green Room",
+      "Green Room leaving Netflix",
+      "Jeremy Saulnier Green Room",
+      "Anton Yelchin Green Room"
+    ],
+    "images": [
+      {
+        "url": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/11/green-room-patrick-stewart.jpg?w=1600&amp;h=900&amp;fit=crop",
+        "caption": "Patrick Stewart’s Thriller Green Room Is Leaving Netflix This Month",
+        "source": "Collider"
+      }
+    ],
+    "published": "Tue, 24 Nov 2026 19:13:55 GMT"
+  },
+  "1rt6exc": {
+    "id": "1rt6exc",
+    "type": "news",
+    "headline": "Sai Pallavi Attends Sri Sathya Sai Baba Centenary Celebrations in Puttaparthi Amid Ramayana: Part 1 Success",
+    "dek": "Actress Sai Pallavi was spotted in Puttaparthi participating in the Sri Sathya Sai Baba centenary celebrations following the massive box office success of Ramayana: Part 1.",
+    "body": [
+      {
+        "h": "Devotional Appearance in Puttaparthi",
+        "p": [
+          "Amid the phenomenal success of Ramayana: Part 1, actress Sai Pallavi travelled to Puttaparthi to take part in the centenary celebrations of Sri Sathya Sai Baba. Playing the role of Mata Sita in the film, the actress displayed a deeply devotional side during her visit that quickly captured the attention of the public.",
+          "Images and video footage from the event circulated widely across social media platforms, showing her participating in religious gatherings. Her simple yet elegant presence resonated strongly with admirers and fellow devotees alike."
+        ]
+      },
+      {
+        "h": "Singing Bhajans and Greeting Fans",
+        "p": [
+          "At Prashanthi Nilayam in Puttaparthi, Sai Pallavi was observed singing devotional bhajans and offering prayers alongside other attendees inside the Sai Kulwant Hall. With her eyes closed, she appeared completely immersed in the spiritual atmosphere of the venue.",
+          "Wearing a graceful silk saree, the actress exuded simplicity and inner calm. Footage also captured her walking alongside female devotees while humming prayers, and on Sunday evening, she warmly greeted fans gathered outside the prayer hall with a smile."
+        ]
+      },
+      {
+        "h": "A Lifelong Connection With Sri Sathya Sai Baba",
+        "p": [
+          "Sai Pallavi's ties to Sri Sathya Sai Baba extend far beyond her recent visit, tracing back to her family's long-standing devotion. She has regularly visited Puttaparthi on auspicious occasions and during New Year celebrations over the years.",
+          "During previous anniversary programs, she shared that Sri Sathya Sai Baba himself gave her the name 'Sai', cementing a personal bond between her family and the spiritual leader that remains a central part of her life."
+        ]
+      },
+      {
+        "h": "Comfort From Radio Sai During Medical Studies",
+        "p": [
+          "The actress has previously recounted how her connection with the spiritual figure offered solace during her time studying medicine in Georgia. Feeling homesick and isolated abroad, she regularly tuned in to Radio Sai to cope with the distance from her family.",
+          "This routine helped her manage loneliness and homesickness, proving that her relationship with Sri Sathya Sai Baba was deeply personal and rooted in difficult phases of her personal journey."
+        ]
+      },
+      {
+        "h": "Box Office Triumph of Ramayana: Part 1",
+        "p": [
+          "On the professional front, Sai Pallavi experienced a major career milestone this year with her Bollywood entry opposite Junaid Khan in the film 'Ek Din'. She subsequently portrayed Mata Sita in 'Ramayana: Part 1', starring alongside Ranbir Kapoor as Lord Ram and Yash as Ravan.",
+          "The grand mythological venture achieved stellar numbers at the box office, surpassing 1,700 crore rupees globally within eighteen days. Audiences are now eagerly anticipating her return as Mata Sita in 'Ramayana: Part 2', which is slated for a Diwali 2028 release."
+        ]
+      },
+      {
+        "h": "Recent Appearance in OM: Chapter 1",
+        "p": [
+          "Apart from her mythological roles, Sai Pallavi was recently seen in the Tamil thriller 'OM: Chapter 1'. In the movie, she essayed the character of CBI officer Nithya Reddy.",
+          "The project also featured prominent performances by Dhanush and Mammootty, showcasing her versatility in shifting between grand epics and intense thriller dramas."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Actress Sai Pallavi visited Puttaparthi for the centenary celebrations of Sri Sathya Sai Baba following the global box office success of her film Ramayana: Part 1. During her visit, she participated in prayers and sang bhajans, highlighting her lifelong family connection to the spiritual leader. The event coincided with continued acclaim for her recent cinematic projects, including Ramayana: Part 1 and OM: Chapter 1."
+        ]
+      }
+    ],
+    "facts": [
+      "Sai Pallavi visited Puttaparthi for Sri Sathya Sai Baba's centenary celebrations.",
+      "Ramayana: Part 1 crossed 1,700 crore rupees worldwide in 18 days.",
+      "Ramayana: Part 2 is scheduled for release on Diwali 2028.",
+      "Sai Pallavi played CBI officer Nithya Reddy in OM: Chapter 1."
+    ],
+    "entities": {
+      "people": [
+        "Sai Pallavi",
+        "Sri Sathya Sai Baba",
+        "Junaid Khan",
+        "Ranbir Kapoor",
+        "Yash",
+        "Dhanush",
+        "Mammootty"
+      ],
+      "titles": [
+        "Ramayana: Part 1",
+        "Ramayana: Part 2",
+        "Ek Din",
+        "OM: Chapter 1"
+      ]
+    },
+    "keywords": [
+      "Sai Pallavi Puttaparthi",
+      "Sai Pallavi Sri Sathya Sai Baba",
+      "Ramayana Part 1 box office",
+      "OM Chapter 1 Sai Pallavi"
+    ],
+    "images": [
+      {
+        "url": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202611/6b0437814b871-sai-pallavi-puttaparthi-visit--sai-pallavi-sathya-sai-baba-235424218-16x9.jpg",
+        "caption": "Sai Pallavi Attends Sri Sathya Sai Baba Centenary Celebrations in Puttaparthi Amid Ramayana: Part 1 Success",
+        "source": "Aaj Tak — Entertainment"
+      }
+    ],
+    "published": "2026-11-24T20:09:12Z"
   }
 };

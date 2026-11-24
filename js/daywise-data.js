@@ -449,8 +449,8 @@ window.FA_DAYWISE = {
       "day": "Day 33",
       "collection": 8452,
       "shows": 170,
-      "occupancy": 22.7,
-      "tickets": 5373
+      "occupancy": 23.4,
+      "tickets": 5531
     }
   ],
   "1400940": [
@@ -1941,8 +1941,8 @@ window.FA_DAYWISE = {
       "day": "Day 41",
       "collection": 4226,
       "shows": 120,
-      "occupancy": 16.7,
-      "tickets": 3133
+      "occupancy": 17.1,
+      "tickets": 3194
     }
   ],
   "1269325": [
@@ -2403,8 +2403,8 @@ window.FA_DAYWISE = {
       "day": "Day 54",
       "collection": 5283,
       "shows": 89,
-      "occupancy": 27.2,
-      "tickets": 3328
+      "occupancy": 27.9,
+      "tickets": 3417
     }
   ],
   "1497970": [
