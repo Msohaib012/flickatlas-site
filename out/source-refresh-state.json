@@ -17,12 +17,12 @@
    "detail": "reader timed out; last-good staging retained"
   },
   "fnn_boxoffice": {
-   "last_attempt_at": "2026-11-24T00:53:48Z",
-   "last_run": "2026-11-24T00:53:48Z",
+   "last_attempt_at": "2026-11-24T04:54:26Z",
+   "last_run": "2026-11-24T04:54:26Z",
    "last_status": "success",
-   "last_success": "2026-11-24T00:53:48Z",
+   "last_success": "2026-11-24T04:54:26Z",
    "consecutive_failures": 0,
-   "detail": "validated 206 rows; 1 staging files changed"
+   "detail": "validated 207 rows; 1 staging files changed"
   },
   "moviemint_boxoffice": {
    "last_attempt_at": "2026-11-23T18:28:39Z",
@@ -73,5 +73,5 @@
    "detail": "reader timed out; last-good staging retained"
   }
  },
- "updated_at": "2026-11-24T03:05:15Z"
+ "updated_at": "2026-11-24T04:54:26Z"
 }

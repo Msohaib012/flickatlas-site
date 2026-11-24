@@ -234223,5 +234223,397 @@ window.FA_ARTICLES = {
     ],
     "images": [],
     "published": "Mon, 23 Nov 2026 22:20:00 EST"
+  },
+  "1x93gy3": {
+    "id": "1x93gy3",
+    "type": "news",
+    "headline": "Park Ji Hyun Makes History at the 54th International Emmy Awards",
+    "dek": "Korean star Park Ji Hyun earned a historic nomination for her role in Netflix series You and Everything Else, while fellow nominee Hyper Knife also missed out on a win.",
+    "body": [
+      {
+        "h": "Historic Nomination in New York",
+        "p": [
+          "Park Ji Hyun attended the prestigious 54th International Emmy Awards event in New York on November 23, marking a major milestone for Korean entertainment. Although she did not take home the trophy, her presence established a remarkable legacy as the very first Korean actress to secure a nomination in an acting category at the International Emmys."
+        ]
+      },
+      {
+        "h": "Global Competition for Best Actress",
+        "p": [
+          "The category for Best Performance by an Actress brought together talented performers from around the globe. Park competed against international talents including Barbara Mori from Mexico for Lucca s World, Sheridan Smith from the U.K. for I Fought the Law, and Mona Mina Leon from Belgium, who ultimately won the award for her work in Holy Sh!t."
+        ]
+      },
+      {
+        "h": "A Dream Realized on the Red Carpet",
+        "p": [
+          "Speaking to reporters upon her arrival at the ceremony, the actor expressed her profound astonishment at reaching the global stage. She described the entire recognition as feeling completely surreal, noting that the nomination itself was like stepping inside a cherished dream."
+        ]
+      },
+      {
+        "h": "Character Dynamics in You and Everything Else",
+        "p": [
+          "In the acclaimed Netflix series You and Everything Else, Park portrays the character Sang Yeon. She stars alongside Kim Go Eun, who plays Eun Jung, bringing to life a complex narrative about two women whose long-standing bond over decades fluctuates dynamically between deep affection, fierce envy, and lingering resentment."
+        ]
+      },
+      {
+        "h": "Hyper Knife Misses Out on Mini-Series Prize",
+        "p": [
+          "The Disney+ medical thriller Hyper Knife, another prominent Korean contender at the ceremony, was nominated in the TV Movie/Mini-Series category. Starring Park Eun Bin and Sul Kyung Gu, the project ultimately fell short of the prize, which was awarded to the U.K. production Prisoner 951."
+        ]
+      },
+      {
+        "h": "Broader Winners at the Ceremony",
+        "p": [
+          "Other notable victories during the international event included the French culinary drama Careme taking home the honor for Best Drama Series. Additionally, actor Bobby Schofield secured the award for Best Performance by an Actor for his role in Unforgivable."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Park Ji Hyun made history at the 54th International Emmy Awards as the first Korean actress nominated for an acting prize for her work in You and Everything Else. Meanwhile, fellow Korean nominee Hyper Knife also missed out on a win during the ceremony held in New York."
+        ]
+      }
+    ],
+    "facts": [
+      "54th International Emmy Awards",
+      "November 23",
+      "Park Ji Hyun",
+      "You and Everything Else",
+      "Mona Mina Leon",
+      "Holy Sh!t",
+      "Barbara Mori",
+      "Lucca s World",
+      "Sheridan Smith",
+      "I Fought the Law",
+      "Kim Go Eun",
+      "Eun Jung",
+      "Hyper Knife",
+      "Park Eun Bin",
+      "Sul Kyung Gu",
+      "Prisoner 951",
+      "Careme",
+      "Bobby Schofield",
+      "Unforgivable"
+    ],
+    "entities": {
+      "people": [
+        "Park Ji Hyun",
+        "Mona Mina Leon",
+        "Barbara Mori",
+        "Sheridan Smith",
+        "Kim Go Eun",
+        "Park Eun Bin",
+        "Sul Kyung Gu",
+        "Bobby Schofield"
+      ],
+      "titles": [
+        "You and Everything Else",
+        "Holy Sh!t",
+        "Lucca s World",
+        "I Fought the Law",
+        "Hyper Knife",
+        "Prisoner 951",
+        "Careme",
+        "Unforgivable"
+      ]
+    },
+    "keywords": [
+      "Park Ji Hyun International Emmy",
+      "You and Everything Else",
+      "Hyper Knife Disney plus",
+      "Park Eun Bin Sul Kyung Gu"
+    ],
+    "images": [
+      {
+        "url": "https://i.mydramalist.com/bvv1yE_2d.jpg",
+        "caption": "Park Ji Hyun Makes History at the 54th International Emmy Awards",
+        "source": "MyDramaList"
+      }
+    ],
+    "published": "Tue, 24 Nov 2026 04:40:50 +0000"
+  },
+  "e7ndch": {
+    "id": "e7ndch",
+    "type": "news",
+    "headline": "Director Antoine Fuqua Faces Lawsuit Alleging Assault, Battery, and Handgun Threat",
+    "dek": "A Los Angeles bar manager has filed a lawsuit against filmmaker Antoine Fuqua, accusing him and his family members of physical assault, pointing handguns, and using slurs following a denied entry.",
+    "body": [
+      {
+        "h": "The Lawsuit Filing",
+        "p": [
+          "Filmmaker Antoine Fuqua is facing serious legal trouble after a bar manager filed a lawsuit in California state court on a Friday. The legal action accuses the prominent director of assault, battery, and intentional infliction of emotional distress.",
+          "The plaintiff, William Rosenthal, claims that the altercation stemmed from an incident earlier this year where the director and his companions were turned away from a Los Angeles establishment."
+        ]
+      },
+      {
+        "h": "Denied Entry at the Bar",
+        "p": [
+          "According to court documents, the dispute began on February 14 when Antoine Fuqua and four other individuals, including his son and daughter, visited Good Times at Davey Wayne's. Security and management refused to let the group enter because they were deemed overly intoxicated.",
+          "The complaint alleges that after being barred from entering, a member of the director's party spat on Rosenthal, while Fuqua's daughter issued verbal threats before the group initially departed."
+        ]
+      },
+      {
+        "h": "The Confrontation and Alleged Weapon Use",
+        "p": [
+          "Roughly an hour after the initial refusal, the lawsuit states that Fuqua returned to the venue to confront Rosenthal. The director allegedly accused the manager of pepper spraying his daughter, an accusation that Rosenthal denied.",
+          "The situation escalated rapidly when Fuqua allegedly struck the manager in the face with a handgun. The complaint further asserts that the filmmaker used an antisemitic slur, threatened to kill the manager, and that Fuqua's son subsequently pulled out a firearm and also struck Rosenthal."
+        ]
+      },
+      {
+        "h": "Reported Injuries and Damages",
+        "p": [
+          "As a result of the alleged physical altercation, Rosenthal states he suffered significant physical trauma. His documented injuries include a head injury, a fractured nose, and various lacerations.",
+          "Legal representation for the manager notes that these physical damages will result in permanent disability for their client. Additionally, Rosenthal is reportedly dealing with post-traumatic stress disorder and severe emotional distress, prompting him to seek at least $50,000 in damages."
+        ]
+      },
+      {
+        "h": "Defense Response",
+        "p": [
+          "In the wake of the public filing, representatives for Antoine Fuqua have strongly contested the narrative presented in the court documents. A spokesperson for the director issued a concise denial regarding the accusations.",
+          "The representative firmly stated that the claims brought forward by the bar manager are entirely false, setting the stage for a contested legal battle in the California courts."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Director Antoine Fuqua has been sued for assault and battery by bar manager William Rosenthal following an altercation outside a Los Angeles venue. The lawsuit alleges that Fuqua and his son struck the manager with handguns and used slurs after being denied entry, while a representative for the filmmaker has denied the allegations entirely."
+        ]
+      }
+    ],
+    "facts": [
+      "Antoine Fuqua was sued in California state court on a Friday.",
+      "The plaintiff is bar manager William Rosenthal.",
+      "The incident occurred at Good Times at Davey Wayne's in Los Angeles on Feb. 14.",
+      "Rosenthal seeks at least $50,000 in damages.",
+      "The lawsuit includes claims of assault, battery, and intentional infliction of emotional distress."
+    ],
+    "entities": {
+      "people": [
+        "Antoine Fuqua",
+        "William Rosenthal",
+        "Winston Cho"
+      ],
+      "titles": [
+        "Equalizer 3",
+        "The Terminal List",
+        "Once Upon a Time in Harlem",
+        "Ink",
+        "Trainspotting",
+        "Slumdog Millionaire",
+        "Malibu",
+        "The Odyssey",
+        "Heart in Winter",
+        "Blade Runner 2099",
+        "Way of the Warrior Kid",
+        "Focker In-Law",
+        "Avengers: Doomsday"
+      ]
+    },
+    "keywords": [
+      "Antoine Fuqua",
+      "Antoine Fuqua lawsuit",
+      "William Rosenthal",
+      "Good Times at Davey Wayne's"
+    ],
+    "images": [
+      {
+        "url": "https://www.hollywoodreporter.com/wp-content/uploads/2023/09/DF-00454_r-EMBED-2023.jpg?w=1000&#038;h=667&#038;crop=1",
+        "caption": "Director Antoine Fuqua Faces Lawsuit Alleging Assault, Battery, and Handgun Threat",
+        "source": "The Hollywood Reporter"
+      }
+    ],
+    "published": "Tue, 24 Nov 2026 02:56:12 +0000"
+  },
+  "fc9ax1": {
+    "id": "fc9ax1",
+    "type": "news",
+    "headline": "Shruti Haasan Defends Her Role in 'Peddi' Song 'Hellallallo'",
+    "dek": "Actress Shruti Haasan discusses her experience performing the track Hellallallo from the sports drama Peddi, addressing the ongoing debate surrounding special dance numbers.",
+    "body": [
+      {
+        "h": "Shruti Haasan Breaks Silence on Peddi Track",
+        "p": [
+          "Actress Shruti Haasan recently shared her perspective regarding her special appearance in the high-energy musical number Hellallallo. The track is part of the upcoming sports drama Peddi, which features prominent actors Ram Charan and Janhvi Kapoor in lead roles.",
+          "Directed by Buchi Babu Sana, the film has drawn significant attention not only for its star-studded cast but also for the musical sequences accompanying the narrative."
+        ]
+      },
+      {
+        "h": "Personal Motivation Behind Accepting the Song",
+        "p": [
+          "In a detailed conversation on Galatta Plus, Haasan explained what motivated her to sign on for the project. She noted that her choice stemmed from a genuine affection for dancing and costuming.",
+          "The performer emphasized that she approaches visual presentation from a liberating standpoint. Furthermore, she confirmed that she retains absolute creative control over her wardrobe and performance choices on set."
+        ]
+      },
+      {
+        "h": "Addressing Criticism and Industry Norms",
+        "p": [
+          "When questioned about the traditional scrutiny directed at special numbers, Haasan acknowledged the broader societal conversation concerning female representation in cinema.",
+          "She maintained that her personal encounters with such choreography have remained entirely positive, driven by the pure enjoyment of dance rather than pandering to external gaze."
+        ]
+      },
+      {
+        "h": "Refusing to Yield to Pressures",
+        "p": [
+          "The actress stated firmly that she refuses to participate in any creative endeavor that compromises her personal comfort. When disagreements arise regarding styling, she does not hesitate to voice her concerns.",
+          "Haasan acknowledged that standing her ground has occasionally led to labels of being difficult, a designation she accepts without hesitation."
+        ]
+      },
+      {
+        "h": "Janhvi Kapoor and Prior Controversy",
+        "p": [
+          "While discussing her fellow cast members, Haasan chose not to comment on co-star Janhvi Kapoor's specific experiences, noting it would be inappropriate to speak on another actor's behalf.",
+          "Previously, Kapoor addressed the backlash surrounding her own character Achiyamma during an appearance on Koffee With Karan in October, expressing regret over societal impacts."
+        ]
+      },
+      {
+        "h": "Director Buchi Babu Sana's Response",
+        "p": [
+          "The presentation of Kapoor's character sparked substantial public debate following the release of Peddi. Critics argued that certain scenes pushed past sensuality into problematic objectification.",
+          "In response to the widespread viewer discomfort and negative reactions, director Buchi Babu Sana issued a public apology and committed to reworking the controversial scenes."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Shruti Haasan recently discussed her participation in the item song Hellallallo from the film Peddi, defending her choice and stating she feels comfortable with her performances. Meanwhile, director Buchi Babu Sana previously addressed viewer backlash and criticism regarding the portrayal of Janhvi Kapoor's character by offering a public apology."
+        ]
+      }
+    ],
+    "facts": [
+      "Shruti Haasan performed in the track Hellallallo.",
+      "Peddi stars Ram Charan and Janhvi Kapoor.",
+      "Buchi Babu Sana directed Peddi.",
+      "Janhvi Kapoor discussed the film controversy on Koffee With Karan in October."
+    ],
+    "entities": {
+      "people": [
+        "Shruti Haasan",
+        "Ram Charan",
+        "Janhvi Kapoor",
+        "Buchi Babu Sana"
+      ],
+      "titles": [
+        "Peddi",
+        "Hellallallo",
+        "Koffee With Karan"
+      ]
+    },
+    "keywords": [
+      "Shruti Haasan Hellallallo",
+      "Peddi movie song",
+      "Ram Charan Janhvi Kapoor",
+      "Buchi Babu Sana Peddi"
+    ],
+    "images": [
+      {
+        "url": "https://static.toiimg.com/thumb/msid-136118700,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "caption": "Shruti Haasan Defends Her Role in 'Peddi' Song 'Hellallallo'",
+        "source": "Times of India — Entertainment"
+      }
+    ],
+    "published": "2026-11-24T09:17:44+05:30"
+  },
+  "z5fynk": {
+    "id": "z5fynk",
+    "type": "news",
+    "headline": "Sadie Sandler Cast in Lead Role for Upcoming Netflix Horror Film Malibu",
+    "dek": "Adam Sandler's daughter Sadie is transitioning to the horror genre, taking on the lead role in the upcoming Netflix feature Malibu directed by Tod \"Kip\" Williams.",
+    "body": [
+      {
+        "h": "New Horror Venture for Sadie Sandler",
+        "p": [
+          "Sadie Sandler is set to headline a brand new horror feature for Netflix titled Malibu. The twenty-year-old actor, known for her previous appearances in various streaming projects, will take center stage in this upcoming cinematic release.",
+          "This project marks another major collaboration between the young actor and the streaming giant, shifting her typical on-screen genres into the realm of suspense and fright."
+        ]
+      },
+      {
+        "h": "Plot and Premise Revealed",
+        "p": [
+          "Details surrounding the narrative of Malibu indicate that the story centers on an aspiring actress. She takes on an unexpected, last-minute dog-sitting gig situated inside a secluded movie star estate located in Malibu.",
+          "As the narrative unfolds, the protagonist quickly realizes that the residence harbors unsettling secrets, transforming a simple job into a chilling experience."
+        ]
+      },
+      {
+        "h": "Director and Creative Team",
+        "p": [
+          "The upcoming horror feature will be directed by Tod \"Kip\" Williams, who is widely recognized for his work on Paranormal Activity 2. Williams also co-wrote the screenplay alongside Tom Pabst.",
+          "Principal photography and production for the feature are officially scheduled to kick off in the year 2027, bringing together a seasoned creative team behind the camera."
+        ]
+      },
+      {
+        "h": "Production Houses Involved",
+        "p": [
+          "Several prominent production companies are joining forces to bring Malibu to life on screen. Adam Sandler's Happy Madison is attached to produce the feature.",
+          "They are collaborating alongside Steven Schneider's Room 101 and Roy Lee's Vertigo Entertainment, ensuring a robust production backing for the horror title."
+        ]
+      },
+      {
+        "h": "Growing Filmography and Background",
+        "p": [
+          "Sadie Sandler has steadily built an impressive resume with numerous appearances across film and television. Her previous streaming credits include roles in Roommates, Nobody Wants This, Happy Gilmore 2, Jay Kelly, and You Are So Not Invited to My Bat Mitzvah.",
+          "Her extensive involvement in various productions highlights her growing presence in the entertainment industry, paving the way for her upcoming starring role in Malibu."
+        ]
+      },
+      {
+        "h": "Industry Veterans Behind the Scenes",
+        "p": [
+          "Producer Roy Lee brings a wealth of genre experience to the project, having previously been named a producer of the year by The Hollywood Reporter. His extensive background includes executive producing horror projects such as Crystal Lake and It: Welcome to Derry.",
+          "Lee's impressive film credits also feature titles like Resident Evil, Obsession, and Weapons, alongside upcoming collaborations such as Anything But Ghosts with Curry Barker."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Sadie Sandler will star in the Netflix horror film Malibu as an aspiring actress doing a dog-sitting job at a secluded estate. The project will be directed by Tod \"Kip\" Williams and produced by Happy Madison, Room 101, and Vertigo Entertainment, with production slated for 2027."
+        ]
+      }
+    ],
+    "facts": [
+      "Sadie Sandler is 20 years old",
+      "Sadie Sandler will star in the Netflix horror movie Malibu",
+      "Tod \"Kip\" Williams is the director of Malibu",
+      "Tom Pabst co-wrote the script with Tod \"Kip\" Williams",
+      "Production for Malibu is set to start in 2027",
+      "Happy Madison, Room 101, and Vertigo Entertainment are producing the film"
+    ],
+    "entities": {
+      "people": [
+        "Adam Sandler",
+        "Sadie Sandler",
+        "Tod \"Kip\" Williams",
+        "Tom Pabst",
+        "Steven Schneider",
+        "Roy Lee",
+        "Curry Barker"
+      ],
+      "titles": [
+        "Malibu",
+        "Roommates",
+        "Paranormal Activity 2",
+        "Nobody Wants This",
+        "Happy Gilmore 2",
+        "Jay Kelly",
+        "You Are So Not Invited to My Bat Mitzvah",
+        "Crystal Lake",
+        "It: Welcome to Derry",
+        "Resident Evil",
+        "Obsession",
+        "Weapons",
+        "Anything But Ghosts"
+      ]
+    },
+    "keywords": [
+      "Sadie Sandler Malibu",
+      "Netflix horror movie Malibu",
+      "Tod Kip Williams Malibu",
+      "Adam Sandler daughter movie"
+    ],
+    "images": [
+      {
+        "url": "https://www.justjared.com/wp-content/uploads/2026/11/sadie-sandler-horror-movie.jpg",
+        "caption": "Sadie Sandler Cast in Lead Role for Upcoming Netflix Horror Film Malibu",
+        "source": "Just Jared"
+      }
+    ],
+    "published": "Tue, 24 Nov 2026 04:13:58 +0000"
   }
 };
