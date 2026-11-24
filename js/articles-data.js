@@ -233371,5 +233371,413 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Tue, 24 Nov 2026 00:22:15 +0000"
+  },
+  "1cam5g6": {
+    "id": "1cam5g6",
+    "type": "news",
+    "headline": "O.M: Operation Mole Crosses ₹90 Crore Worldwide Despite Monday Decline",
+    "dek": "Starring Dhanush and Mammootty and directed by Rajkumar Periasamy, the Tamil spy action thriller O.M: Operation Mole has neared the ₹100 crore milestone after four days in theatres.",
+    "body": [
+      {
+        "h": "Opening Weekend Performance",
+        "p": [
+          "The Tamil spy action thriller O.M: Operation Mole began its theatrical journey with a strong performance following its release on November 20. The project recorded a solid opening day, bringing in ₹18.10 crore net across domestic markets on Friday.",
+          "While Saturday saw a slight 13% drop with collections coming in at ₹15.75 crore, the feature recovered marginally on Sunday, pulling in ₹15.90 crore to close out a relatively steady opening weekend."
+        ]
+      },
+      {
+        "h": "Monday Box Office Drop",
+        "p": [
+          "Entering its first Monday on November 23, the movie experienced a marked downward shift in domestic ticket sales. According to early tracking figures, the feature collected ₹6.20 crore net domestically on its fourth day.",
+          "This latest figure represents a notable 61% decline when compared directly against the preceding Sunday earnings, aligning with typical weekday trends for major theatrical releases."
+        ]
+      },
+      {
+        "h": "Language-Wise Contribution",
+        "p": [
+          "In terms of regional language performance on Monday, the Tamil version led the domestic earnings by contributing an estimated ₹4.10 crore across 3,359 shows. The Telugu language version added ₹1.75 crore through 1,631 shows.",
+          "Meanwhile, the Hindi version recorded a much smaller share of the daily domestic figures, bringing in approximately ₹35 lakh from 1,133 shows. Overall theatre occupancy across all linguistic versions settled at 23.4% on Monday."
+        ]
+      },
+      {
+        "h": "Total Domestic and Gross Figures",
+        "p": [
+          "Following the conclusion of its fourth day in cinemas, the cumulative India net collection for the project reached ₹55.95 crore. When factoring in additional metrics, the domestic gross tally advanced to ₹64.90 crore.",
+          "These figures outline a solid domestic footing despite the weekday drop, keeping the feature commercially viable as it navigates its first theatrical week."
+        ]
+      },
+      {
+        "h": "International and Worldwide Milestone",
+        "p": [
+          "Beyond domestic borders, the international markets contributed an estimated ₹1.50 crore on the fourth day, pushing the cumulative overseas gross collection to a strong ₹28.50 crore.",
+          "Combining the domestic gross and international revenues, the Dhanush and Mammootty-starrer reached a combined worldwide gross collection of ₹93.40 crore within four days, positioning the film within striking distance of the ₹100 crore global milestone."
+        ]
+      },
+      {
+        "h": "Cast, Crew and Production Background",
+        "p": [
+          "Directed by Rajkumar Periasamy, O.M: Operation Mole was originally announced under the working title OM Chapter 1: Udhiram - The Blood Wood before being changed prior to its premiere. The script is helmed as a spy action thriller.",
+          "The feature stars Dhanush in the primary lead, supported by an ensemble cast featuring Mammootty, Sai Pallavi, Sreeleela, Naseeruddin Shah, and Indrans. Production is backed by Wunderbar Films and RTake Studios, with music by Sai Abhyankkar, cinematography by Ezhil Arasu K, and editing by R. Kalaivanan."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "O.M: Operation Mole has crossed ₹93.40 crore in worldwide gross collections after four days in theatres following its November 20 release. Despite a 61% domestic drop on Monday, November 23, the film continues its theatrical run toward the ₹100 crore global milestone."
+        ]
+      }
+    ],
+    "facts": [
+      "O.M: Operation Mole was released worldwide on November 20, 2026.",
+      "The film crossed the ₹90 crore mark at the worldwide box office after four days.",
+      "Monday, November 23 marked the fourth day of the film's theatrical run.",
+      "Day 1 India net collection was ₹18.10 crore.",
+      "Day 2 India net collection was ₹15.75 crore.",
+      "Day 3 India net collection was ₹15.90 crore.",
+      "Day 4 India net collection was ₹6.20 crore.",
+      "Total India net collection after four days is ₹55.95 crore.",
+      "Total India gross collection stands at ₹64.90 crore.",
+      "Total overseas gross collection stands at ₹28.50 crore.",
+      "Total worldwide gross collection is ₹93.40 crore.",
+      "The film experienced a 61% decline in domestic collections on Monday compared to Sunday.",
+      "The Tamil version collected ₹4.10 crore from 3,359 shows on Monday.",
+      "The Telugu version collected ₹1.75 crore from 1,631 shows on Monday.",
+      "The Hindi version collected ₹35 lakh from 1,133 shows on Monday.",
+      "Overall occupancy across languages was 23.4% on Monday."
+    ],
+    "entities": {
+      "people": [
+        "Dhanush",
+        "Mammootty",
+        "Rajkumar Periasamy",
+        "Sai Pallavi",
+        "Sreeleela",
+        "Naseeruddin Shah",
+        "Indrans",
+        "Sai Abhyankkar",
+        "Ezhil Arasu K",
+        "R. Kalaivanan"
+      ],
+      "titles": [
+        "O.M: Operation Mole",
+        "OM Chapter 1: Udhiram - The Blood Wood"
+      ]
+    },
+    "keywords": [
+      "OM Operation Mole box office",
+      "Dhanush Mammootty film",
+      "OM Day 4 collection",
+      "Rajkumar Periasamy movie"
+    ],
+    "images": [
+      {
+        "url": "https://images.filmibeat.com/img/2026/11/om-85901795487862.jpg",
+        "caption": "O.M: Operation Mole Crosses ₹90 Crore Worldwide Despite Monday Decline",
+        "source": "FilmiBeat"
+      }
+    ],
+    "published": "Tue, 24 Nov 2026 08:08:40 +0530"
+  },
+  "2nn9ri": {
+    "id": "2nn9ri",
+    "type": "news",
+    "headline": "Riley Green Reveals the Hardest Part of Coaching on The Voice",
+    "dek": "Newbie coach Riley Green opens up about the most agonizing aspect of mentoring contestants on Season 30 of NBC's singing competition.",
+    "body": [
+      {
+        "h": "A Strong Debut on NBC",
+        "p": [
+          "Riley Green is experiencing an impressive first season as a coach on NBC's long-running reality singing competition. The country music artist, known for the track Don't Mind If I Do, quickly captured the attention of numerous country hopefuls during the Blind Auditions. His guidance has provided contestants with valuable advice that they can take forward in their musical journeys.",
+          "As part of the 2026 television lineup, this milestone season has brought fresh energy to the panel. Alongside his coaching duties, Green holds the distinction of being recognized as one of 2026's Sexiest Men Alive."
+        ]
+      },
+      {
+        "h": "The Agony of Eliminating Hopefuls",
+        "p": [
+          "Every competition has its difficult moments, and Green has been vocal about the most painful aspect of his role. Having to send talented performers home after getting to know them personally weighs heavily on the mentor.",
+          "During the Blind Auditions, listening to contestants share their emotional stories while chasing their dreams made turning down participants uniquely heartbreaking. Because nobody becomes an overnight sensation easily, the superstar coaches deeply empathize with the setbacks artists face."
+        ]
+      },
+      {
+        "h": "Relief During the Live Shows",
+        "p": [
+          "With the Live Shows currently underway, Green has two standout contenders remaining on his roster: Joe Henley and Ferryn Brinkley. Reaching this stage of the competition shifts the burden of elimination away from the mentors.",
+          "Expressing relief about the current format, Green noted that not having to personally cut contestants anymore is a welcome change. Leaving the voting power in the hands of the audience removes the intense pressure of making those brutal final decisions."
+        ]
+      },
+      {
+        "h": "Shared Sentiments Among Coaches",
+        "p": [
+          "The struggle to eliminate team members is a universal sentiment shared across generations of coaches. Whether dealing with newcomers or veterans like Adam Levine, cutting short a hopeful's dream never becomes comfortable.",
+          "In Season 30, the Live Shows replaced the Knockouts, a phase Levine previously disliked for similar reasons. No mentor enjoys letting go of singers they have closely worked with and trained."
+        ]
+      },
+      {
+        "h": "Building Bonds With Team Members",
+        "p": [
+          "A defining element of the reality series is how organically coaches evolve into genuine fans of their own team members. Mentors like Kelly Clarkson have previously emphasized a lasting commitment to collaborating with their former team participants long after the cameras stop rolling.",
+          "Given the strong connection Green demonstrates with his contestants, future touring partnerships or special musical collaborations with Team Riley would not come as a surprise."
+        ]
+      },
+      {
+        "h": "The Road to the Finale",
+        "p": [
+          "Season 30 continues broadcasting new episodes on Mondays leading up to a two-hour grand finale on December 14th, where the winning artist will officially be crowned. Viewers can also catch episodes the following day via a Peacock subscription.",
+          "Looking ahead, the franchise is already preparing for Season 31, titled The Voice: Celebrity, which will feature a brand new host in Keke Palmer."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "New coach Riley Green has shared that the hardest part of his role on Season 30 of The Voice is having to send talented singers home. With the Live Shows now placing elimination power into the hands of the audience, the country music singer feels relieved to support his remaining team members without making those tough cuts."
+        ]
+      }
+    ],
+    "facts": [
+      "Riley Green is a coach on Season 30 of The Voice.",
+      "Season 30 concludes with a two-hour finale on December 14th.",
+      "Joe Henley and Ferryn Brinkley are on Green's team.",
+      "Season 31 will be called The Voice: Celebrity and hosted by Keke Palmer."
+    ],
+    "entities": {
+      "people": [
+        "Riley Green",
+        "Joe Henley",
+        "Ferryn Brinkley",
+        "Adam Levine",
+        "Queen Latifah",
+        "Kelly Clarkson",
+        "Keke Palmer"
+      ],
+      "titles": [
+        "The Voice",
+        "Don't Mind If I Do",
+        "The Voice: Celebrity"
+      ]
+    },
+    "keywords": [
+      "Riley Green The Voice",
+      "The Voice Season 30",
+      "Joe Henley Ferryn Brinkley",
+      "The Voice December 14 finale"
+    ],
+    "images": [
+      {
+        "url": "https://cdn.mos.cms.futurecdn.net/6vYYRt6Z3eZR4MiLrg9ZZg-2000-80.jpg",
+        "caption": "Riley Green Reveals the Hardest Part of Coaching on The Voice",
+        "source": "CinemaBlend"
+      }
+    ],
+    "published": "Tue, 24 Nov 2026 02:31:00 +0000"
+  },
+  "7onopn": {
+    "id": "7onopn",
+    "type": "news",
+    "headline": "Aakasamlo Oka Tara Box Office Collection Day 4: Dulquer Salmaan's Film Experiences A 44 Percent Decline On Monday",
+    "dek": "Dulquer Salmaan's latest Telugu film Aakasamlo Oka Tara faced its first weekday dip, pulling in Rs. 3.20 crore on Monday.",
+    "body": [
+      {
+        "h": "First Weekday Box Office Drop",
+        "p": [
+          "Dulquer Salmaan's recent cinematic venture Aakasamlo Oka Tara has maintained a generally warm reception among viewers since its theatrical debut. However, transitioning from its opening weekend into the first weekday brought a predictable cool-down in ticket sales.",
+          "After pulling in a strong Rs. 5.75 crore on its third day, the feature experienced a 44.3 percent decline in revenue. On Monday, the project managed to secure a net collection of Rs. 3.20 crore."
+        ]
+      },
+      {
+        "h": "Language-Wise Performance Breakdown",
+        "p": [
+          "According to reports from trade analyst Sacnilk, the theatrical run spanned across 2,188 total shows on Monday. The primary Telugu version brought in the bulk of the weekday figures.",
+          "Specifically, the Telugu cut earned Rs. 2.20 crore across 1,440 screenings. Meanwhile, the Malayalam version contributed Rs. 85 lakh from 524 shows, and the Tamil version added Rs. 15 lakh through 224 screenings."
+        ]
+      },
+      {
+        "h": "Cumulative Earnings And Overseas Revenue",
+        "p": [
+          "With the inclusion of the fourth-day figures, Aakasamlo Oka Tara has elevated its total domestic net collection to Rs. 16.30 crore. The corresponding India gross total now stands at an estimated Rs. 18.95 crore.",
+          "In addition to domestic tallies, the venture pulled in Rs. 1 crore internationally on Monday. This pushed the cumulative overseas gross to Rs. 8.50 crore, bringing the worldwide gross collection to a notable Rs. 27.45 crore."
+        ]
+      },
+      {
+        "h": "Occupancy Rates Across Versions",
+        "p": [
+          "Audience engagement varied across different language iterations on Monday. The Telugu 2D version registered an overall occupancy of 28 percent, starting with 19.50 percent in morning screenings and peaking at 37.17 percent during night shows.",
+          "The Malayalam 2D version achieved a higher overall occupancy of 38.56 percent, climbing from morning numbers up to 49.67 percent at night. Similarly, the Tamil 2D version recorded 40.43 percent overall occupancy, with night shows touching 49.38 percent."
+        ]
+      },
+      {
+        "h": "Sequential Collection Journey",
+        "p": [
+          "The early trajectory of the feature displayed steady growth over its first weekend before encountering the Monday correction. On its opening day, the project earned Rs. 2.90 crore.",
+          "Collections climbed to Rs. 4.45 crore on the second day and peaked at Rs. 5.75 crore on the third day, leading up to the Rs. 3.20 crore earned on the fourth day for a running net total of Rs. 16.30 crore."
+        ]
+      },
+      {
+        "h": "Cast, Crew, and Narrative Premise",
+        "p": [
+          "Directed and written by Pavan Sadineni, Aakasamlo Oka Tara stars Dulquer Salmaan as Krishna alongside Satvika Veeravalli in the role of Kalpana. The storyline follows Kalpana, a gifted student who overcomes societal and familial discouragement regarding her aspirations.",
+          "After her marriage to Krishna, her husband encourages her pursuit of becoming an astronaut. The ensemble cast also features Shruti Haasan as aerospace engineer Rohini, alongside Ruhani Sharma, Swasika, Murali Sharma, Gautham Vasudev Menon, Getup Srinu, and Praveen, with music composed by GV Prakash Kumar."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Dulquer Salmaan's Telugu feature Aakasamlo Oka Tara saw a 44 percent drop in box office earnings on Monday, bringing in Rs. 3.20 crore for its fourth day. Despite the weekday decline, the film's total India net collection reached Rs. 16.30 crore with worldwide gross crossing Rs. 27.45 crore."
+        ]
+      }
+    ],
+    "facts": [
+      "Dulquer Salmaan's film earned Rs. 3.20 crore on Monday.",
+      "The 44.3 percent drop followed a Day 3 collection of Rs. 5.75 crore.",
+      "Trade analyst Sacnilk reported collections across 2,188 shows on Monday.",
+      "The Telugu version earned Rs. 2.20 crore from 1,440 shows.",
+      "The Malayalam version earned Rs. 85 lakh from 524 shows.",
+      "The Tamil version earned Rs. 15 lakh from 224 shows.",
+      "Total India net collection reached Rs. 16.30 crore.",
+      "Total India gross collection stands at Rs. 18.95 crore.",
+      "Overseas gross reached Rs. 8.50 crore after a Rs. 1 crore Monday addition.",
+      "Worldwide gross collection reached Rs. 27.45 crore.",
+      "Day 1 collection was Rs. 2.90 crore.",
+      "Day 2 collection was Rs. 4.45 crore.",
+      "Pavan Sadineni is the writer and director."
+    ],
+    "entities": {
+      "people": [
+        "Dulquer Salmaan",
+        "Satvika Veeravalli",
+        "Shruti Haasan",
+        "Ruhani Sharma",
+        "Swasika",
+        "Murali Sharma",
+        "Gautham Vasudev Menon",
+        "Getup Srinu",
+        "Praveen",
+        "GV Prakash Kumar",
+        "Pavan Sadineni"
+      ],
+      "titles": [
+        "Aakasamlo Oka Tara"
+      ]
+    },
+    "keywords": [
+      "Aakasamlo Oka Tara film",
+      "Dulquer Salmaan Aakasamlo Oka Tara",
+      "Aakasamlo Oka Tara box office",
+      "Aakasamlo Oka Tara collection day 4"
+    ],
+    "images": [
+      {
+        "url": "https://static.toiimg.com/thumb/msid-136117396,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "caption": "Aakasamlo Oka Tara Box Office Collection Day 4: Dulquer Salmaan's Film Experiences A 44 Percent Decline On Monday",
+        "source": "Times of India — Entertainment"
+      }
+    ],
+    "published": "2026-11-24T07:39:12+05:30"
+  },
+  "1clf84x": {
+    "id": "1clf84x",
+    "type": "news",
+    "headline": "James Gunn's Exit From DC Sparks New Hope For A Keanu Reeves Constantine Sequel",
+    "dek": "With leadership changes at DC Studios, director Francis Lawrence believes there might finally be a chance to move forward with a follow-up to the 2005 film starring Keanu Reeves.",
+    "body": [
+      {
+        "h": "Leadership Shifts at DC Studios",
+        "p": [
+          "Recent exits involving studio leadership have left the future direction of the cinematic universe uncertain. As corporate restructuring takes place, fans and creators are looking closely at how upcoming projects might be impacted.",
+          "Such massive shifts often create openings for long-gestating projects that were previously stalled. With new management stepping in, previously shelved ideas may finally receive the green light they need."
+        ]
+      },
+      {
+        "h": "Renewed Hopes for Constantine 2",
+        "p": [
+          "In the wake of the studio shakeup, conversations surrounding a potential sequel to the 2005 film have resurfaced. Director Francis Lawrence has expressed optimism that the changing corporate environment could remove previous roadblocks.",
+          "The creative team behind the original feature has maintained enthusiasm for years. According to Lawrence, the prior administration at the studio served as an impediment to getting the project off the ground."
+        ]
+      },
+      {
+        "h": "Development Status and Script Progress",
+        "p": [
+          "Work on a script has been underway for quite some time, with writer Akiva Goldsman attached to the project. Key figures including the director, writer, and leading man have remained eager to collaborate on a continuation.",
+          "Despite having an established concept and a completed script, the film has faced numerous hurdles over the decades. The primary challenge has consistently involved aligning various studio executives and producers to give the official approval."
+        ]
+      },
+      {
+        "h": "The Legacy of the 2005 Original",
+        "p": [
+          "Upon its initial release, the film presented a distinct interpretation of the source material that diverged significantly from traditional comic book depictions. Although the casting choices initially surprised comic readers, the movie gradually cultivated a dedicated following.",
+          "Over the years, the iconic trench-coat-wearing paranormal detective has been portrayed by other actors across various television and animated adaptations. However, the iteration led by the 2005 star holds a specific nostalgic appeal for a distinct segment of the audience."
+        ]
+      },
+      {
+        "h": "Potential for Multiple Interpretations",
+        "p": [
+          "While the director is hopeful about continuing his specific vision, he remains flexible regarding the studio's broader plans. He acknowledges that leadership might choose to take the character in an entirely new direction for a shared cinematic universe.",
+          "Interestingly, the filmmaker believes that multiple versions of the supernatural investigator could comfortably co-exist. Whether the studio opts for a standalone sequel or an entirely different approach remains entirely dependent on upcoming strategic decisions."
+        ]
+      },
+      {
+        "h": "Waiting on Official Approvals",
+        "p": [
+          "Ultimately, bringing the sequel to life requires coordination among multiple corporate entities, including Warner Bros and Paramount. Everyone involved is reportedly willing to proceed, but the ultimate decision rests with the new decision-makers at the studio.",
+          "As audiences await further announcements from the newly structured leadership team, the project remains in a holding pattern. Fans interested in revisiting the universe can currently stream the original film through subscription platforms."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "The departure of James Gunn and Peter Safran from DC has prompted renewed speculation and hope regarding a potential sequel to the 2005 movie Constantine starring Keanu Reeves. Director Francis Lawrence stated that previous studio management acted as an impediment to the project, but new leadership creates a potential opportunity to finally produce a follow-up using an existing script."
+        ]
+      }
+    ],
+    "facts": [
+      "Constantine was released in 2005.",
+      "A Constantine sequel has been in the works since 2022.",
+      "Akiva Goldsman is working on the script for the sequel.",
+      "Francis Lawrence directed the 2005 film Constantine.",
+      "Matt Ryan portrayed John Constantine in live-action beginning in 2014."
+    ],
+    "entities": {
+      "people": [
+        "James Gunn",
+        "Peter Safran",
+        "Keanu Reeves",
+        "Akiva Goldsman",
+        "Francis Lawrence",
+        "Jeremy Latcham",
+        "Matt Ryan",
+        "J.J. Abrams",
+        "Liz Konkel"
+      ],
+      "titles": [
+        "Constantine",
+        "Constantine 2",
+        "Sunrise on the Reaping",
+        "Guardians of the Galaxy",
+        "Lanterns",
+        "The Penguin",
+        "Superman",
+        "Peacemaker",
+        "Arrowverse",
+        "The Odyssey",
+        "Ted Lasso",
+        "Modern Family",
+        "Blade Runner 2099",
+        "Abbott Elementary"
+      ]
+    },
+    "keywords": [
+      "Constantine sequel",
+      "Keanu Reeves Constantine",
+      "Francis Lawrence Constantine 2",
+      "James Gunn DC exit",
+      "Akiva Goldsman script"
+    ],
+    "images": [
+      {
+        "url": "https://cdn.mos.cms.futurecdn.net/iJTcpHEKtmfmPjoTLzqGf9-2000-80.jpg",
+        "caption": "James Gunn's Exit From DC Sparks New Hope For A Keanu Reeves Constantine Sequel",
+        "source": "CinemaBlend"
+      }
+    ],
+    "published": "Tue, 24 Nov 2026 02:01:00 +0000"
   }
 };

@@ -25968,9 +25968,9 @@ window.FA_PUBLISHED = {
     "status": "Released",
     "providers": [
       {
-        "name": "Netflix Standard with Ads",
-        "logo_path": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
-        "region": "US",
+        "name": "Netflix",
+        "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+        "region": "IN",
         "type": "flatrate"
       }
     ],
@@ -36694,7 +36694,38 @@ window.FA_PUBLISHED = {
     "published_at": "2026-11-22",
     "date_kind": "release",
     "status": "Released",
-    "providers": [],
+    "providers": [
+      {
+        "name": "fuboTV",
+        "logo_path": "/3wF8xISfVlcrc8X3jaa3uMUFGAr.png",
+        "region": "US",
+        "type": "flatrate"
+      },
+      {
+        "name": "Philo",
+        "logo_path": "/mfbhzQwmQKjm7bLZPF5CTeu3Ilc.png",
+        "region": "US",
+        "type": "flatrate"
+      },
+      {
+        "name": "Hallmark+ Amazon Channel",
+        "logo_path": "/yG1Q3YBp5xF2Xj6Meux51Dkg4jP.png",
+        "region": "US",
+        "type": "flatrate"
+      },
+      {
+        "name": "Hallmark+ Apple TV channel",
+        "logo_path": "/fAUJbIgaArLzpf6eK2FMJV8zOQT.png",
+        "region": "US",
+        "type": "flatrate"
+      },
+      {
+        "name": "Hallmark TV Amazon Channel",
+        "logo_path": "/rfXfa1Cq2cxiO76jN3kflGeqJuT.png",
+        "region": "US",
+        "type": "flatrate"
+      }
+    ],
     "release_date": "2026-11-21",
     "popularity": 1.5377
   },

@@ -103,6 +103,34 @@ window.FA_OTT = {
       "type": "movie"
     },
     {
+      "date": "2026-11-21",
+      "date_kind": "release",
+      "id": 1773330,
+      "providers": [
+        {
+          "logo_path": "/3wF8xISfVlcrc8X3jaa3uMUFGAr.png",
+          "name": "fuboTV"
+        },
+        {
+          "logo_path": "/mfbhzQwmQKjm7bLZPF5CTeu3Ilc.png",
+          "name": "Philo"
+        },
+        {
+          "logo_path": "/yG1Q3YBp5xF2Xj6Meux51Dkg4jP.png",
+          "name": "Hallmark+ Amazon Channel"
+        },
+        {
+          "logo_path": "/fAUJbIgaArLzpf6eK2FMJV8zOQT.png",
+          "name": "Hallmark+ Apple TV channel"
+        },
+        {
+          "logo_path": "/rfXfa1Cq2cxiO76jN3kflGeqJuT.png",
+          "name": "Hallmark TV Amazon Channel"
+        }
+      ],
+      "type": "movie"
+    },
+    {
       "date": "2026-11-20",
       "date_kind": "release",
       "id": 1568060,
@@ -1095,8 +1123,8 @@ window.FA_OTT = {
       "id": 1664682,
       "providers": [
         {
-          "logo_path": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
-          "name": "Netflix Standard with Ads"
+          "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
         }
       ],
       "type": "movie"
