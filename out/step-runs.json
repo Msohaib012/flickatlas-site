@@ -4,45 +4,6 @@
    {
     "step": "fetch",
     "category": "Trending News",
-    "run_at": "2026-11-23T17:52:29Z",
-    "run_id": "45231977408",
-    "status": "success",
-    "checked": {
-     "candidates": 782,
-     "detail": "RSS/Atom items across 137 sources; 3 source(s) errored"
-    },
-    "changed": {
-     "added": [
-      "Bigg Boss 20: Why Was Qazi Touqeer The Talk Of Weekend Ka Vaar? Salman Khan's Promise Is Reason",
-      "MLA Anant Singh's Daughter's Wedding: Grand Prep, Horse Race With Thar As Prize; MLA's Haldi Video Goes Viral",
-      "Avinash Apologises For His Viral ‘Bewafa’ Video; Reveals Who Is Truly Responsible For His Break Up With Eisha",
-      "Eisha Singh Reacts To Avinash Mishra's Viral 'Bewafa Hai Tu' Video: You Are Turning Everything Into Joke",
-      "Shahid Kapoor-Saif’s Viral Meet-Up After Kareena-Mira Moment Makes Fans Say 'What Next, Their Children...'",
-      "Bigg Boss 20 Nominations Week 12: Mahhi, Scout & These 4 Contestants Nominated For Eviction",
-      "Yeh Rishta Kya Kehlata Hai Spoiler LEAKED: Maira-Kabir’s Engagement In TROUBLE; Dadi To Reveal Shocking Truth",
-      "Bigg Boss 20 Episode 79 OTT Release Time Today: BB20 Show Night; When Will New Ep Premiere On JioHotstar",
-      "OM Worldwide Box Office Day 3: Pushes Dhanush’s Post-COVID Total To 1000+ Crore – All Set For His 6th Century!",
-      "Ramayana Worldwide Box Office: 43.74 Crore Away From Becoming The 4th Highest-Grossing Film In The History Of Indian Cinema!",
-      "Aditya Datt Celebrates 30 Years Of Friendship With Emraan Hashmi Ahead Of Gunmaaster G9 Release",
-      "Bigg Boss Telugu 10: Rashmika Mandanna gets surprised when Mukesh Gowda turns out to be her college senior, says ‘I used to…’",
-      "6 South OTT Releases to Watch This Week: Venkatesh Daggubati’s AK 47 to Sathyameva",
-      "Vrushakarma Runtime: Naga Chaitanya’s supernatural horror thriller runs for more than 3 hours? Here’s what we know",
-      "Prabhudeva officially to make directorial comeback with Vishnu Manchu in upcoming Tamil and Telugu action thriller",
-      "Box Office: Ranbir Kapoor, Sai Pallavi, and Yash's Ramayana emerges 3rd biggest non-Malayalam grosser in Kerala, Targets No.1 spot",
-      "PM Narendra Modi Highlights Ramayana's Reach Among Younger Generations Amid Film's Strong Box Office Run",
-      "k pop the debut trailer get ready for the k pop fever with this high energy musical drama 87332.html",
-      "harshvardhan rane opens up about reuniting with anshul garg for majnu after ek deewane ki deewaniyat 87331.html",
-      "avengers doomsday final trailer brings steve rogers back cyclops delivers iconic x men line 87330.html"
-     ],
-     "updated": [],
-     "count": 573,
-     "detail": "604 stories, 4 duplicates removed, 178 dropped"
-    },
-    "reason": null
-   },
-   {
-    "step": "fetch",
-    "category": "Trending News",
     "run_at": "2026-11-23T18:51:10Z",
     "run_id": "45242626882",
     "status": "success",
@@ -936,31 +897,48 @@
      "detail": "512 stories, 2 duplicates removed, 22 dropped"
     },
     "reason": null
-   }
-  ],
-  "apply_auto": [
+   },
    {
-    "step": "apply_auto",
+    "step": "fetch",
     "category": "Trending News",
-    "run_at": "2026-11-23T20:15:18Z",
-    "run_id": "45253099116",
+    "run_at": "2026-11-24T18:52:03Z",
+    "run_id": "45463841450",
     "status": "success",
     "checked": {
-     "candidates": 13,
-     "detail": "draft articles + box-office rows from out/gemini-batch.json"
+     "candidates": 355,
+     "detail": "RSS/Atom items across 137 sources; 5 source(s) errored"
     },
     "changed": {
      "added": [
-      "Mariah Carey Lists Iconic Tribeca Triplex Penthouse for USD 27 Million",
-      "Jennifer Lopez Turns Heads With Multi-Carat Diamond Necklace At Red Carpet Premiere",
-      "Official Trailer Released for the High-Energy Musical Drama K-Pop: The Debut"
+      "The Remarried Empress Episode 9-10 Release Date: When Will Finale Premiere Online? K-Drama Last Ep Update",
+      "Scene Tamil Nadu Box Office Collection Day 18: Suriya's Film Crosses ₹91 Crore, Maintains Hold In Third Week",
+      "KATSEYE, SEVENTEEN, ENHYPEN feature in K-Pop The Debut trailer. All you need to know",
+      "KING: Shah Rukh Khan, Kareena Kapoor’s Peppy Hinglish Song To Release On November 25? Here’s What We Know",
+      "Taylor Swift’s Wedding Was The A-List Event Of The Year And Also Incredibly Awkward For Conan",
+      "One of Stephen King’s Worst Remakes Officially Returns to Streaming",
+      "Superman Officially Faces DC’s God of Death in New Release",
+      "The Fate of ‘The Rings of Power’ Has Officially Been Decided",
+      "‘The Terminal List’ Star’s $133M War Thriller Is Leaving Netflix",
+      "Jamie Lee Curtis Addresses Backlash to Viral Post About Her Family: ‘You Know Better’",
+      "Ahead of Walton Goggins' Remake, a 114-Episode Cult Classic Crime Thriller Is a Free Streaming Hit",
+      "The Fate of 'The Rings of Power' Officially Confirmed by Prime Video Ahead of Season 3 Finale",
+      "The 10 Greatest Cold War Spy Thriller Movies, Ranked",
+      "Planes, Trains And Automobiles' Deleted Ending Was Rightfully Cut",
+      "Stephen King's 6 Non-Horror Shows, Ranked Worst To Best",
+      "Focker-In-Law Review: A Few Good Laughs In A Film That Falls Flat",
+      "The Rings Of Power Season 4's Fate Officially Confirmed At Prime Video",
+      "Stranger Things’ New Spinoff Return Gets Definitive Response From Vecna Actor",
+      "Why David Fincher Refused Reboot of $5.9B Fantasy Franchise",
+      "Benjamín Naishtat’s ‘The Seven Madmen,’ With ‘I’m Still Here’ Star Selton Mello, Wraps Production"
      ],
      "updated": [],
-     "count": 6,
-     "detail": "+3 articles, +0 box-office rows, 3 rows updated"
+     "count": 347,
+     "detail": "348 stories, 0 duplicates removed, 7 dropped"
     },
     "reason": null
-   },
+   }
+  ],
+  "apply_auto": [
    {
     "step": "apply_auto",
     "category": "Trending News",
@@ -1467,27 +1445,30 @@
      "detail": "+4 articles, +0 box-office rows, 0 rows updated"
     },
     "reason": null
+   },
+   {
+    "step": "apply_auto",
+    "category": "Trending News",
+    "run_at": "2026-11-24T18:56:34Z",
+    "run_id": "45463841450",
+    "status": "success",
+    "checked": {
+     "candidates": 13,
+     "detail": "draft articles + box-office rows from out/gemini-batch.json"
+    },
+    "changed": {
+     "added": [
+      "The Remarried Empress Episode 9-10 Release Date: When Will the K-Drama Finale Premiere Online?",
+      "Scene Box Office Collection Day 18: Suriya Starrer Inches Closer to Ninety-Four Crore Mark"
+     ],
+     "updated": [],
+     "count": 6,
+     "detail": "+2 articles, +0 box-office rows, 4 rows updated"
+    },
+    "reason": null
    }
   ],
   "ott": [
-   {
-    "step": "ott",
-    "category": "OTT",
-    "run_at": "2026-11-23T18:13:51Z",
-    "run_id": "45231977408",
-    "status": "success",
-    "checked": {
-     "candidates": 417,
-     "detail": "OTT now/coming titles from the published catalogue"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 0,
-     "detail": "now 410, coming 7"
-    },
-    "reason": "no-new-data"
-   },
    {
     "step": "ott",
     "category": "OTT",
@@ -1901,26 +1882,27 @@
      "detail": "now 414, coming 5"
     },
     "reason": "no-new-data"
-   }
-  ],
-  "trending_weekly": [
+   },
    {
-    "step": "trending_weekly",
-    "category": "Trending Topics",
-    "run_at": "2026-11-23T18:58:33Z",
-    "run_id": "45242626882",
+    "step": "ott",
+    "category": "OTT",
+    "run_at": "2026-11-24T18:56:34Z",
+    "run_id": "45463841450",
     "status": "success",
     "checked": {
-     "candidates": 100,
-     "detail": "cached Google RSS trend/article intersection"
+     "candidates": 421,
+     "detail": "OTT now/coming titles from the published catalogue"
     },
     "changed": {
      "added": [],
      "updated": [],
-     "count": 0
+     "count": 0,
+     "detail": "now 416, coming 5"
     },
     "reason": "no-new-data"
-   },
+   }
+  ],
+  "trending_weekly": [
    {
     "step": "trending_weekly",
     "category": "Trending Topics",
@@ -2365,27 +2347,26 @@
      "count": 3
     },
     "reason": null
-   }
-  ],
-  "multisource_boxoffice": [
+   },
    {
-    "step": "multisource_boxoffice",
-    "category": "Box Office",
-    "run_at": "2026-11-23T18:38:42Z",
-    "run_id": "45231977408",
+    "step": "trending_weekly",
+    "category": "Trending Topics",
+    "run_at": "2026-11-24T19:01:27Z",
+    "run_id": "45463841450",
     "status": "success",
     "checked": {
-     "candidates": 745,
-     "detail": "685 collected staging rows from readers; 254 averaged across 2+ sources"
+     "candidates": 100,
+     "detail": "cached Google RSS trend/article intersection"
     },
     "changed": {
      "added": [],
      "updated": [],
-     "count": 8,
-     "detail": "+0 new rows, 8 updated rows, 711 unchanged"
+     "count": 0
     },
-    "reason": null
-   },
+    "reason": "no-new-data"
+   }
+  ],
+  "multisource_boxoffice": [
    {
     "step": "multisource_boxoffice",
     "category": "Box Office",
@@ -2799,19 +2780,27 @@
      "detail": "+0 new rows, 4 updated rows, 720 unchanged"
     },
     "reason": null
+   },
+   {
+    "step": "multisource_boxoffice",
+    "category": "Box Office",
+    "run_at": "2026-11-24T19:01:08Z",
+    "run_id": "45463841450",
+    "status": "success",
+    "checked": {
+     "candidates": 750,
+     "detail": "688 collected staging rows from readers; 256 averaged across 2+ sources"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 4,
+     "detail": "+0 new rows, 4 updated rows, 720 unchanged"
+    },
+    "reason": null
    }
   ],
   "gemini_reviews": [
-   {
-    "step": "gemini_reviews",
-    "category": "Reviews",
-    "run_at": "2026-11-23T18:39:32Z",
-    "run_id": "45231977408",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "gemini_reviews",
     "category": "Reviews",
@@ -3048,30 +3037,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "gemini_reviews",
+    "category": "Reviews",
+    "run_at": "2026-11-24T19:01:37Z",
+    "run_id": "45463841450",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "convert_news": [
-   {
-    "step": "convert_news",
-    "category": "Trending News",
-    "run_at": "2026-11-23T18:58:32Z",
-    "run_id": "45242626882",
-    "status": "success",
-    "checked": {
-     "candidates": 600,
-     "detail": "feed entries from out/queue.json"
-    },
-    "changed": {
-     "added": [
-      "Avinash Mishra Apologizes Following Split From Eisha Singh Amid Viral Video Controversy",
-      "Bihar MLA Anant Singh Hosts Grand Wedding Celebrations for Daughter Shivangi in Patna"
-     ],
-     "updated": [],
-     "count": 2,
-     "detail": "api-news.json 600 items, api-trends.json 12 items"
-    },
-    "reason": null
-   },
    {
     "step": "convert_news",
     "category": "Trending News",
@@ -3577,34 +3555,30 @@
      "detail": "api-news.json 600 items, api-trends.json 12 items"
     },
     "reason": null
-   }
-  ],
-  "episode_guides": [
+   },
    {
-    "step": "episode_guides",
-    "category": "Drama Episodes",
-    "run_at": "2026-11-23T18:09:59Z",
-    "run_id": "45231977408",
+    "step": "convert_news",
+    "category": "Trending News",
+    "run_at": "2026-11-24T19:01:26Z",
+    "run_id": "45463841450",
     "status": "success",
     "checked": {
-     "candidates": 16,
-     "detail": "YouTube episodes on the 4 official PK channels (+ intl 1M+ views); 10 new detected; 1 summary failure(s): Hurmat Ep 15"
+     "candidates": 600,
+     "detail": "feed entries from out/queue.json"
     },
     "changed": {
      "added": [
-      "Bano Ep 40",
-      "Lagan Lagi Ep 23",
-      "Hurmat Ep 15",
-      "Khushi Ep 72",
-      "Mera Ghar Ep 7"
+      "The Remarried Empress Episode 9-10 Release Date: When Will the K-Drama Finale Premiere Online?",
+      "Scene Box Office Collection Day 18: Suriya Starrer Inches Closer to Ninety-Four Crore Mark"
      ],
-     "updated": [
-      "Khushi Ep 72"
-     ],
-     "count": 6
+     "updated": [],
+     "count": 2,
+     "detail": "api-news.json 600 items, api-trends.json 12 items"
     },
     "reason": null
-   },
+   }
+  ],
+  "episode_guides": [
    {
     "step": "episode_guides",
     "category": "Drama Episodes",
@@ -3879,19 +3853,19 @@
      "count": 6
     },
     "reason": null
-   }
-  ],
-  "title_seed": [
+   },
    {
-    "step": "title_seed",
-    "category": "Spotlight / Coming Soon / Most Awaited",
-    "run_at": "2026-11-23T18:39:32Z",
-    "run_id": "45231977408",
+    "step": "episode_guides",
+    "category": "Drama Episodes",
+    "run_at": "2026-11-24T19:01:37Z",
+    "run_id": "45463841450",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "title_seed": [
    {
     "step": "title_seed",
     "category": "Spotlight / Coming Soon / Most Awaited",
@@ -4213,26 +4187,63 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "title_seed",
+    "category": "Spotlight / Coming Soon / Most Awaited",
+    "run_at": "2026-11-24T18:52:37Z",
+    "run_id": "45463841450",
+    "status": "success",
+    "checked": {
+     "candidates": 515,
+     "sources": {
+      "trending": 20,
+      "trending_tv": 20,
+      "now_playing": 40,
+      "upcoming": 40,
+      "bollywood": 40,
+      "hindi_recent_movies": 100,
+      "india_window": 40,
+      "world_window": 40,
+      "world_recent": 60,
+      "pk_dramas": 20,
+      "new_tv": 40,
+      "hindi_recent_tv": 39,
+      "pk_movies": 16
+     },
+     "picked": 20,
+     "skipped": 2,
+     "cap": 20,
+     "detail": "Hindi recent movies/TV date-ranked p1-5 + existing regional/trending sources retained"
+    },
+    "changed": {
+     "added": [
+      "Blade Runner 2099 (171802)",
+      "Bitter Christmas (1088548)",
+      "Chiara Ferragni: Front Facing (1829270)",
+      "Coward (1437981)",
+      "Eclipse Protocol: 3I/ATLAS Is Calling (1796071)",
+      "Letters This Christmas (1650093)",
+      "Everytime (1655419)",
+      "The Price of Staying (1794993)",
+      "The Moon Is Watching (1767360)",
+      "Look Back (1591675)",
+      "best friends (1781106)",
+      "The Samurai and the Prisoner (1620313)",
+      "Ice Bros (1771850)",
+      "Queen at Sea (1021848)",
+      "Gabrielle Apter (1771548)",
+      "Fatherland (1437696)",
+      "¿por qué te vas? (1764525)",
+      "Debakanya (1840180)"
+     ],
+     "updated": [],
+     "count": 18
+    },
+    "reason": null
    }
   ],
   "gemini_batch": [
-   {
-    "step": "gemini_batch",
-    "category": "Trending News",
-    "run_at": "2026-11-23T18:13:50Z",
-    "run_id": "45231977408",
-    "status": "success",
-    "checked": {
-     "candidates": 9,
-     "detail": "news queue items drafted this run; 573 still unprocessed; today by category: movies 11/6, tv_dramas 7/4, episodes 0/2, box_office 13/6, celebrities_events 7/5, upcoming_releases 7/4, ott_streaming 6/4, trailers 2/3, awards 2/2, music_ost 2/2, viral 3/2"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 0
-    },
-    "reason": "no-new-data"
-   },
    {
     "step": "gemini_batch",
     "category": "Trending News",
@@ -4723,26 +4734,29 @@
      "count": 4
     },
     "reason": null
+   },
+   {
+    "step": "gemini_batch",
+    "category": "Trending News",
+    "run_at": "2026-11-24T18:56:33Z",
+    "run_id": "45463841450",
+    "status": "success",
+    "checked": {
+     "candidates": 9,
+     "detail": "news queue items drafted this run; 347 still unprocessed; today by category: movies 7/6, tv_dramas 12/4, episodes 0/2, box_office 14/6, celebrities_events 14/5, upcoming_releases 2/4, ott_streaming 8/4, trailers 1/3, awards 3/2, music_ost 2/2, viral 1/2"
+    },
+    "changed": {
+     "added": [
+      "The Remarried Empress Episode 9-10 Release Date: When Will the K-Drama Finale Premiere Online?",
+      "Scene Box Office Collection Day 18: Suriya Starrer Inches Closer to Ninety-Four Crore Mark"
+     ],
+     "updated": [],
+     "count": 2
+    },
+    "reason": null
    }
   ],
   "overseas_ai": [
-   {
-    "step": "overseas_ai",
-    "category": "Box Office",
-    "run_at": "2026-11-23T18:15:59Z",
-    "run_id": "45231977408",
-    "status": "success",
-    "checked": {
-     "candidates": 58,
-     "detail": "published movies with missing overseas day figures; Tavily searches: 48"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 0
-    },
-    "reason": "no-new-data"
-   },
    {
     "step": "overseas_ai",
     "category": "Box Office",
@@ -5056,24 +5070,19 @@
      "count": 0
     },
     "reason": "no-new-data"
+   },
+   {
+    "step": "overseas_ai",
+    "category": "Box Office",
+    "run_at": "2026-11-24T19:01:37Z",
+    "run_id": "45463841450",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "publish": [
-   {
-    "step": "publish",
-    "category": "Trending News",
-    "run_at": "2026-11-23T18:39:32Z",
-    "run_id": "45231977408",
-    "status": "success",
-    "checked": null,
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 195,
-     "detail": "lines changed in owned files; no per-item summary from script"
-    },
-    "reason": null
-   },
    {
     "step": "publish",
     "category": "Trending News",
@@ -5413,24 +5422,24 @@
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
-   }
-  ],
-  "stats_traffic": [
+   },
    {
-    "step": "stats_traffic",
-    "category": "Stats / Health",
-    "run_at": "2026-11-23T18:39:32Z",
-    "run_id": "45231977408",
+    "step": "publish",
+    "category": "Trending News",
+    "run_at": "2026-11-24T19:01:37Z",
+    "run_id": "45463841450",
     "status": "success",
     "checked": null,
     "changed": {
      "added": [],
      "updated": [],
-     "count": 13,
+     "count": 185,
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
-   },
+   }
+  ],
+  "stats_traffic": [
    {
     "step": "stats_traffic",
     "category": "Stats / Health",
@@ -5740,19 +5749,24 @@
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
+   },
+   {
+    "step": "stats_traffic",
+    "category": "Stats / Health",
+    "run_at": "2026-11-24T19:01:37Z",
+    "run_id": "45463841450",
+    "status": "success",
+    "checked": null,
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 54,
+     "detail": "lines changed in owned files; no per-item summary from script"
+    },
+    "reason": null
    }
   ],
   "stats_pipeline": [
-   {
-    "step": "stats_pipeline",
-    "category": "Stats / Health",
-    "run_at": "2026-11-23T18:39:32Z",
-    "run_id": "45231977408",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "stats_pipeline",
     "category": "Stats / Health",
@@ -6002,19 +6016,24 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "stats_pipeline",
+    "category": "Stats / Health",
+    "run_at": "2026-11-24T19:01:37Z",
+    "run_id": "45463841450",
+    "status": "success",
+    "checked": null,
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 62,
+     "detail": "lines changed in owned files; no per-item summary from script"
+    },
+    "reason": null
    }
   ],
   "stats_health": [
-   {
-    "step": "stats_health",
-    "category": "Stats / Health",
-    "run_at": "2026-11-23T18:39:32Z",
-    "run_id": "45231977408",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "stats_health",
     "category": "Stats / Health",
@@ -6249,19 +6268,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "metadata_refresh": [
+   },
    {
-    "step": "metadata_refresh",
-    "category": "Spotlight / Coming Soon / Most Awaited",
-    "run_at": "2026-11-23T18:39:32Z",
-    "run_id": "45231977408",
+    "step": "stats_health",
+    "category": "Stats / Health",
+    "run_at": "2026-11-24T19:01:37Z",
+    "run_id": "45463841450",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "metadata_refresh": [
    {
     "step": "metadata_refresh",
     "category": "Spotlight / Coming Soon / Most Awaited",
@@ -6545,19 +6564,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "providers_backfill": [
+   },
    {
-    "step": "providers_backfill",
-    "category": "OTT",
-    "run_at": "2026-11-23T18:39:32Z",
-    "run_id": "45231977408",
+    "step": "metadata_refresh",
+    "category": "Spotlight / Coming Soon / Most Awaited",
+    "run_at": "2026-11-24T19:01:37Z",
+    "run_id": "45463841450",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "providers_backfill": [
    {
     "step": "providers_backfill",
     "category": "OTT",
@@ -6798,19 +6817,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "providers_backfill",
+    "category": "OTT",
+    "run_at": "2026-11-24T19:01:37Z",
+    "run_id": "45463841450",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "tavily_boxoffice": [
-   {
-    "step": "tavily_boxoffice",
-    "category": "Box Office",
-    "run_at": "2026-11-23T18:39:32Z",
-    "run_id": "45231977408",
-    "status": "success",
-    "checked": null,
-    "changed": null,
-    "reason": "no-new-data"
-   },
    {
     "step": "tavily_boxoffice",
     "category": "Box Office",
@@ -7040,19 +7059,19 @@
     "checked": null,
     "changed": null,
     "reason": "no-new-data"
-   }
-  ],
-  "keywords_refresh": [
+   },
    {
-    "step": "keywords_refresh",
-    "category": "Trending News",
-    "run_at": "2026-11-23T18:39:32Z",
-    "run_id": "45231977408",
+    "step": "tavily_boxoffice",
+    "category": "Box Office",
+    "run_at": "2026-11-24T19:01:37Z",
+    "run_id": "45463841450",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "keywords_refresh": [
    {
     "step": "keywords_refresh",
     "category": "Trending News",
@@ -7301,6 +7320,16 @@
     "category": "Trending News",
     "run_at": "2026-11-24T18:19:07Z",
     "run_id": "45452984340",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
+   },
+   {
+    "step": "keywords_refresh",
+    "category": "Trending News",
+    "run_at": "2026-11-24T19:01:37Z",
+    "run_id": "45463841450",
     "status": "skipped",
     "checked": null,
     "changed": null,
@@ -7850,16 +7879,6 @@
    {
     "step": "advance_booking",
     "category": "Box Office",
-    "run_at": "2026-11-23T18:39:32Z",
-    "run_id": "45231977408",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
-   {
-    "step": "advance_booking",
-    "category": "Box Office",
     "run_at": "2026-11-23T18:58:43Z",
     "run_id": "45242626882",
     "status": "success",
@@ -8096,24 +8115,24 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "home_boxoffice_worldwide": [
+   },
    {
-    "step": "home_boxoffice_worldwide",
+    "step": "advance_booking",
     "category": "Box Office",
-    "run_at": "2026-11-23T18:39:32Z",
-    "run_id": "45231977408",
+    "run_at": "2026-11-24T19:01:37Z",
+    "run_id": "45463841450",
     "status": "success",
     "checked": null,
     "changed": {
      "added": [],
      "updated": [],
-     "count": 17723,
+     "count": 48,
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
-   },
+   }
+  ],
+  "home_boxoffice_worldwide": [
    {
     "step": "home_boxoffice_worldwide",
     "category": "Box Office",
@@ -8378,8 +8397,23 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "home_boxoffice_worldwide",
+    "category": "Box Office",
+    "run_at": "2026-11-24T19:01:37Z",
+    "run_id": "45463841450",
+    "status": "success",
+    "checked": null,
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 6005,
+     "detail": "lines changed in owned files; no per-item summary from script"
+    },
+    "reason": null
    }
   ]
  },
- "updated_at": "2026-11-24T18:19:07Z"
+ "updated_at": "2026-11-24T19:01:37Z"
 }

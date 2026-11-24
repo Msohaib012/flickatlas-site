@@ -91,6 +91,18 @@ window.FA_OTT = {
       "type": "movie"
     },
     {
+      "date": "2026-11-23",
+      "date_kind": "release",
+      "id": 1829270,
+      "providers": [
+        {
+          "logo_path": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+          "name": "Netflix Standard with Ads"
+        }
+      ],
+      "type": "movie"
+    },
+    {
       "date": "2026-11-21",
       "date_kind": "release",
       "id": 1773330,
@@ -206,6 +218,26 @@ window.FA_OTT = {
         {
           "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
           "name": "Netflix"
+        }
+      ],
+      "type": "movie"
+    },
+    {
+      "date": "2026-11-20",
+      "date_kind": "release",
+      "id": 1650093,
+      "providers": [
+        {
+          "logo_path": "/3wF8xISfVlcrc8X3jaa3uMUFGAr.png",
+          "name": "fuboTV"
+        },
+        {
+          "logo_path": "/qAccuffS0YOegynkbRchQeBrw7W.png",
+          "name": "Pure Flix"
+        },
+        {
+          "logo_path": "/jQJseCPOtpMj1f5WWhXSSMOEdwG.png",
+          "name": "Great American Pure Flix Amazon Channel"
         }
       ],
       "type": "movie"

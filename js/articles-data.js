@@ -239037,5 +239037,190 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Tue, 24 Nov 2026 17:13:02 +0000"
+  },
+  "1jfinzq": {
+    "id": "1jfinzq",
+    "type": "news",
+    "headline": "The Remarried Empress Episode 9-10 Release Date: When Will the K-Drama Finale Premiere Online?",
+    "dek": "Find out the premiere date, streaming platforms, plot details, and cast information for the final episodes of the hit Korean drama The Remarried Empress.",
+    "body": [
+      {
+        "h": "The Finale Approaches for The Remarried Empress",
+        "p": [
+          "The popular Korean drama The Remarried Empress is quickly approaching its highly anticipated conclusion. Audiences have been completely captivated by the show's intense blend of palace politics, intricate relationship dynamics, betrayal, and romance, with Navier's emotional journey remaining firmly at the narrative center.",
+          "Following the major plot turns in recent weeks, viewers are intensely curious about how the creators will wrap up the overarching storyline. As the final two installments approach, online search volume for release schedules, streaming options, and finale updates has surged dramatically across the web."
+        ]
+      },
+      {
+        "h": "Plot and Premise of the Korean Drama",
+        "p": [
+          "Rooted in Alphatart's widely read web novel and the corresponding Naver webtoon, the television series combines elements of fantasy, romance, and royal betrayal. The narrative centers on Navier, the influential Empress of the Eastern Empire, whose life takes a dramatic downturn when Emperor Sovieshu becomes infatuated with another woman named Rashta and seeks a divorce.",
+          "Rather than fighting to preserve a broken union, Navier accepts the dissolution under one remarkable stipulation: she demands the right to marry Prince Heinrey of the neighboring Western Kingdom. This unexpected countermove shocks the entire royal court and opens an entirely new phase of her life."
+        ]
+      },
+      {
+        "h": "Star-Studded Cast Bringing the Story to Life",
+        "p": [
+          "The television adaptation features a talented ensemble cast that brings the web novel's beloved characters to vibrant life. Shin Min-a steps into the lead role as the resolute Empress Navier.",
+          "Alongside her, Ju Ji-hoon portrays Emperor Sovieshu, Lee Jong-suk takes on the character of Prince Heinrey, and Lee Se-young plays Rashta, rounding out the main performances driving the drama."
+        ]
+      },
+      {
+        "h": "Confirmed Release Date for Episodes 9 and 10",
+        "p": [
+          "Throughout its run, the series has maintained a consistent weekly release format, debuting two fresh episodes every Wednesday. This fantasy romance will officially conclude its broadcast schedule with the release of Episodes 9 and 10.",
+          "Fans can mark their calendars for November 25, when the final two episodes will officially become available for online viewing."
+        ]
+      },
+      {
+        "h": "Where to Stream the Finale Online",
+        "p": [
+          "Viewers looking to catch the concluding chapters online can tune into Disney+, which has served as the primary streaming home for the series throughout its broadcast run.",
+          "In addition to Disney+, audiences residing in select international territories will also have the option to stream the Korean drama through Hulu."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "The Korean drama The Remarried Empress is reaching its conclusion with the release of Episodes 9 and 10 on November 25. Fans can stream the final installments on Disney+ and Hulu to see how Navier's story wraps up."
+        ]
+      }
+    ],
+    "facts": [
+      "The Remarried Empress episodes 9 and 10 release date is November 25, 2026.",
+      "Shin Min-a plays Empress Navier.",
+      "Ju Ji-hoon plays Emperor Sovieshu.",
+      "Lee Jong-suk plays Prince Heinrey.",
+      "Lee Se-young plays Rashta.",
+      "The series streams on Disney+ and Hulu."
+    ],
+    "entities": {
+      "people": [
+        "Shin Min-a",
+        "Ju Ji-hoon",
+        "Lee Jong-suk",
+        "Lee Se-young",
+        "Alphatart",
+        "Navier",
+        "Sovieshu",
+        "Rashta",
+        "Heinrey"
+      ],
+      "titles": [
+        "The Remarried Empress"
+      ]
+    },
+    "keywords": [
+      "The Remarried Empress Episode 9",
+      "The Remarried Empress finale release date",
+      "Shin Min-a K drama",
+      "The Remarried Empress Disney plus"
+    ],
+    "images": [
+      {
+        "url": "https://images.filmibeat.com/img/2026/11/theremarriedempressep7-8timed-45661795544092.jpg",
+        "caption": "The Remarried Empress Episode 9-10 Release Date: When Will the K-Drama Finale Premiere Online?",
+        "source": "FilmiBeat"
+      }
+    ],
+    "published": "Tue, 24 Nov 2026 23:47:13 +0530"
+  },
+  "60lyak": {
+    "id": "60lyak",
+    "type": "news",
+    "headline": "Scene Box Office Collection Day 18: Suriya Starrer Inches Closer to Ninety-Four Crore Mark",
+    "dek": "The Jithu Madhavan directorial maintains a steady theatrical momentum in Tamil Nadu and Puducherry, crossing major milestones as it enters its third week.",
+    "body": [
+      {
+        "h": "Theatrical Journey Enters Third Week",
+        "p": [
+          "The Tamil action comedy production continues its steady presence in cinemas across Tamil Nadu as it successfully transitions into its third week of release. Despite facing fresh competition in the market, the feature maintains a noticeable theatrical hold.",
+          "Audiences continue to support the screening run, allowing the movie to stay relevant against newer titles currently playing on the big screen."
+        ]
+      },
+      {
+        "h": "Day Eighteen Box Office Numbers",
+        "p": [
+          "According to tracking figures shared on November 24, the film added an estimated thirty-four lakh gross to its tally on its eighteenth day, which fell on a Monday.",
+          "This latest single-day addition brings the regional cumulative figures even closer to the major ninety-four crore milestone in the combined territories of Tamil Nadu and Puducherry."
+        ]
+      },
+      {
+        "h": "Regional Contribution Breakdown",
+        "p": [
+          "The combined gross of ninety-three point five eight crore rupees after eighteen days is divided across two primary regional markets within the release zone.",
+          "Tamil Nadu contributes the vast majority of this amount with ninety-one point three five crore rupees, while Puducherry adds another two point two three crore rupees to the overall total."
+        ]
+      },
+      {
+        "h": "Competition at the Box Office",
+        "p": [
+          "The ongoing theatrical run faces notable challenges from competing titles currently sharing screen space with the Suriya starrer in cinemas.",
+          "Among the rival films currently drawing audiences are Ramayana and O.M: Operation Mole, adding significant pressure to the box office landscape during this third-week frame."
+        ]
+      },
+      {
+        "h": "Cast and Crew Details",
+        "p": [
+          "The project is written and directed by Jithu Madhavan, marking his directorial debut in the Tamil film industry alongside notable first-timers.",
+          "Suriya leads the acting cast alongside Nazriya Nazim and Naslen, with supporting performances delivered by Anandraj, Lal, and Raj Priyan."
+        ]
+      },
+      {
+        "h": "Production and Technical Credits",
+        "p": [
+          "The movie is backed by producers Suriya and Jyothika under the banners of Zhagaram Studios and 2D Entertainment.",
+          "Musical composition is handled by Sushin Shyam, who makes his Tamil debut here, while Vineeth Augustian managed cinematography and Ajmal Sabu worked on editing."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "The Tamil action comedy Scene has grossed a combined ninety-three point five eight crore rupees across Tamil Nadu and Puducherry after eighteen days in cinemas. Facing competition from new releases like Ramayana and O.M: Operation Mole, the Suriya starrer added thirty-four lakhs on its eighteenth day as it moves closer to the ninety-four crore milestone."
+        ]
+      }
+    ],
+    "facts": [
+      "Scene grossed a combined ₹93.58 crore across Tamil Nadu and Puducherry after 18 days.",
+      "The film collected an estimated ₹34 lakh gross in Tamil Nadu on Day 18, which was a Monday.",
+      "The regional breakdown places Tamil Nadu at ₹91.35 crore and Puducherry at ₹2.23 crore.",
+      "The tracker update was shared by Jerin Georgekutty on November 24, 2026.",
+      "The film released in cinemas on November 6, 2026."
+    ],
+    "entities": {
+      "people": [
+        "Suriya",
+        "Jithu Madhavan",
+        "Nazriya Nazim",
+        "Naslen",
+        "Anandraj",
+        "Lal",
+        "Raj Priyan",
+        "Jyothika",
+        "Sushin Shyam",
+        "Vineeth Augustian",
+        "Ajmal Sabu",
+        "Jerin Georgekutty"
+      ],
+      "titles": [
+        "Scene",
+        "Ramayana",
+        "O.M: Operation Mole"
+      ]
+    },
+    "keywords": [
+      "Scene box office collection",
+      "Suriya Scene movie",
+      "Jithu Madhavan film",
+      "Scene Tamil Nadu box office"
+    ],
+    "images": [
+      {
+        "url": "https://images.filmibeat.com/img/2026/11/scene1-24181795543753.jpg",
+        "caption": "Scene Box Office Collection Day 18: Suriya Starrer Inches Closer to Ninety-Four Crore Mark",
+        "source": "FilmiBeat"
+      }
+    ],
+    "published": "Tue, 24 Nov 2026 23:40:30 +0530"
   }
 };

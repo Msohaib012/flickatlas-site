@@ -39030,5 +39030,517 @@ window.FA_PUBLISHED = {
     "providers": [],
     "release_date": "2026-12-01",
     "popularity": 0.1023
+  },
+  "171802": {
+    "id": 171802,
+    "type": "tv",
+    "title": "Blade Runner 2099",
+    "poster_path": "/qAcXaAoJiYry9nGEyxTirnJ82Jj.jpg",
+    "backdrop_path": "/rACaCUxa8WAxkqdpZl0vGqBmIJg.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "Fifty years after the events of Blade Runner 2049, Los Angeles has been reborn, just not by humanity. Cora, a fugitive in a final bid to stop running, takes on one last identity: a Blade Runner. Forced to partner with Olwen, a Replicant days from dying, she hunts down a runaway hiding a truth that could collapse their fragile city.",
+    "industry": "world",
+    "original_language": "en",
+    "origin_country": [
+      "US"
+    ],
+    "production_countries": [
+      "US"
+    ],
+    "spoken_languages": [
+      "en"
+    ],
+    "published_at": "2026-11-24",
+    "status": "In Production",
+    "providers": [],
+    "first_air_date": "2026-11-24",
+    "popularity": 19.2625
+  },
+  "1088548": {
+    "id": 1088548,
+    "type": "movie",
+    "title": "Bitter Christmas",
+    "poster_path": "/kiPGcHX0YT49nrab76G0bqw3gHW.jpg",
+    "backdrop_path": "/ppLv2F7dhvI3wxaEoOP1E0OyBPP.jpg",
+    "vote_average": 6.2,
+    "vote_count": 168,
+    "overview": "During a long December holiday weekend, a woman, whose mother has recently died, throws herself into work as a form of escape. Her relentless pace is interrupted when a panic attack forces her to take a break.",
+    "industry": "world",
+    "original_language": "es",
+    "origin_country": [
+      "ES"
+    ],
+    "production_countries": [
+      "ES"
+    ],
+    "spoken_languages": [
+      "es"
+    ],
+    "published_at": "2026-11-24",
+    "date_kind": "release",
+    "status": "Released",
+    "providers": [],
+    "release_date": "2026-03-20",
+    "popularity": 17.6764
+  },
+  "1829270": {
+    "id": 1829270,
+    "type": "movie",
+    "title": "Chiara Ferragni: Front Facing",
+    "poster_path": "/9RBmF9jjnnB33m2znLfYaAM6Qwc.jpg",
+    "backdrop_path": "/jLBmW2x2AFxtg7wtBO29hSBmwZa.jpg",
+    "vote_average": 7.0,
+    "vote_count": 3,
+    "overview": "Influencer Chiara Ferragni opens up for the first time on the charity scandal that rocked her career and sparked the end of her high-profile marriage.",
+    "industry": "world",
+    "original_language": "it",
+    "origin_country": [
+      "IT"
+    ],
+    "production_countries": [
+      "IT"
+    ],
+    "spoken_languages": [
+      "it"
+    ],
+    "published_at": "2026-11-24",
+    "date_kind": "release",
+    "status": "Released",
+    "providers": [
+      {
+        "name": "Netflix Standard with Ads",
+        "logo_path": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+        "region": "US",
+        "type": "flatrate"
+      }
+    ],
+    "release_date": "2026-11-23",
+    "popularity": 5.0093
+  },
+  "1437981": {
+    "id": 1437981,
+    "type": "movie",
+    "title": "Coward",
+    "poster_path": "/dEi27lMyBkUQSUO366DMg0lN8JS.jpg",
+    "backdrop_path": "/zrgjYP1YEZUJshVzsIhT63GAoMJ.jpg",
+    "vote_average": 7.4,
+    "vote_count": 25,
+    "overview": "Surrounded by brutality but bound by a tender intimacy, two World War I soldiers find a fragile sanctuary of love and art amid the shadows of the Belgian trenches.",
+    "industry": "world",
+    "original_language": "fr",
+    "origin_country": [
+      "BE"
+    ],
+    "production_countries": [
+      "BE",
+      "FR",
+      "NL",
+      "GB"
+    ],
+    "spoken_languages": [
+      "nl",
+      "fr"
+    ],
+    "published_at": "2026-11-24",
+    "date_kind": "release",
+    "status": "Released",
+    "providers": [],
+    "release_date": "2026-10-21",
+    "popularity": 9.9886
+  },
+  "1796071": {
+    "id": 1796071,
+    "type": "movie",
+    "title": "Eclipse Protocol: 3I/ATLAS Is Calling",
+    "poster_path": "/aV0WhTMXreIvN7Dg7fDpI2rIIjE.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "When a mysterious digital signal reawakens humanity's forgotten memories, a cyber-psychologist races to uncover its origin-only to discover that the network isn't invading the world, it's trying to remember what it means to be human.",
+    "industry": "world",
+    "original_language": "en",
+    "origin_country": [
+      "US"
+    ],
+    "production_countries": [],
+    "spoken_languages": [],
+    "published_at": "2026-11-24",
+    "date_kind": "release",
+    "status": "In Production",
+    "providers": [],
+    "release_date": "2026-12-01",
+    "popularity": 0.1067
+  },
+  "1650093": {
+    "id": 1650093,
+    "type": "movie",
+    "title": "Letters This Christmas",
+    "poster_path": "/bjyAaHC9ceTmZ61Pgd9xaQmGZZW.jpg",
+    "backdrop_path": "/5kbewnEc6qpLJ0DJgTSxGQajwHV.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "A young romance author leaves New York City after her novel is panned, hoping to write a redemption novel from home in Alaska. Finding inspiration in her former lover, and the mysterious Christmas cards left at her keys, newfound success has her making the difficult choice between returning to New York for a career of fictional romance, and her real romance in Alaska.",
+    "industry": "world",
+    "original_language": "en",
+    "origin_country": [
+      "US"
+    ],
+    "production_countries": [
+      "CA"
+    ],
+    "spoken_languages": [
+      "en"
+    ],
+    "published_at": "2026-11-24",
+    "date_kind": "release",
+    "status": "Released",
+    "providers": [
+      {
+        "name": "fuboTV",
+        "logo_path": "/3wF8xISfVlcrc8X3jaa3uMUFGAr.png",
+        "region": "US",
+        "type": "flatrate"
+      },
+      {
+        "name": "Pure Flix",
+        "logo_path": "/qAccuffS0YOegynkbRchQeBrw7W.png",
+        "region": "US",
+        "type": "flatrate"
+      },
+      {
+        "name": "Great American Pure Flix Amazon Channel",
+        "logo_path": "/jQJseCPOtpMj1f5WWhXSSMOEdwG.png",
+        "region": "US",
+        "type": "flatrate"
+      }
+    ],
+    "release_date": "2026-11-20",
+    "popularity": 1.8568
+  },
+  "1655419": {
+    "id": 1655419,
+    "type": "movie",
+    "title": "Everytime",
+    "poster_path": "/lbZ7ltgw8xiKfCEXme8GO5HcV9z.jpg",
+    "backdrop_path": "/bRkk5HjNLQMWB3LlZdxySSzxVLi.jpg",
+    "vote_average": 7.3,
+    "vote_count": 13,
+    "overview": "A tragedy brings a mother, daughter, and teenage boy together. Struggling with blame and forgiveness, the unlikely trio take a trip to Tenerife for a family holiday that never happened. Under the glow of the sun, past and present quietly start to overlap.",
+    "industry": "world",
+    "original_language": "de",
+    "origin_country": [
+      "AT"
+    ],
+    "production_countries": [
+      "AT",
+      "DE"
+    ],
+    "spoken_languages": [
+      "de",
+      "es",
+      "en"
+    ],
+    "published_at": "2026-11-24",
+    "date_kind": "release",
+    "status": "Released",
+    "providers": [],
+    "release_date": "2026-08-06",
+    "popularity": 3.61
+  },
+  "1794993": {
+    "id": 1794993,
+    "type": "movie",
+    "title": "The Price of Staying",
+    "poster_path": "/pTZVTeU2RMJsgilVB1nVUeGRNQh.jpg",
+    "backdrop_path": "/aUz95nMwfnJT7mSBxjpYkPtWtNa.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "The Price of Staying explores the broad societal costs of adapting to climate change from the perspective of Noordereiland, a waterfront neighborhood in Rotterdam. As climate risks increase, questions about how we protect the places where people live become harder to answer. Who is responsible, what risks are we willing to accept, and who ultimately bears the costs?  In the film, we follow researcher Zac Taylor (TU Delft & Resilient Delta initiative) as he explores these questions on Noordereiland and beyond. Zac speaks with residents and experts working on flood protection, urban planning, insurance and finance, each looking at the future of the delta from a different perspective.  Bringing those different worlds together is at the heart of Zac’s work as a scientist. With The Price of Staying, he takes that work beyond the university campus and into the places where the consequences of climate change are already being felt.",
+    "industry": "world",
+    "original_language": "en",
+    "origin_country": [
+      "NL"
+    ],
+    "production_countries": [],
+    "spoken_languages": [
+      "en",
+      "nl"
+    ],
+    "published_at": "2026-11-24",
+    "date_kind": "festival",
+    "status": "In Production",
+    "providers": [],
+    "release_date": "2026-12-01",
+    "popularity": 0.1354
+  },
+  "1767360": {
+    "id": 1767360,
+    "type": "movie",
+    "title": "The Moon Is Watching",
+    "poster_path": "/fP2IG82kQ8EEYGeRrCzMcHcRUBz.jpg",
+    "backdrop_path": "/wir4UZU0PHRV65bedadfTJompzg.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "A doctor dissatisfied with his marriage proposes a trip to France, secretly planning to confine his wife in a mysterious château.",
+    "industry": "world",
+    "original_language": "ja",
+    "origin_country": [
+      "JP"
+    ],
+    "production_countries": [
+      "JP"
+    ],
+    "spoken_languages": [
+      "ja",
+      "fr"
+    ],
+    "published_at": "2026-11-24",
+    "date_kind": "release",
+    "status": "Released",
+    "providers": [],
+    "release_date": "2026-11-20",
+    "popularity": 1.5999
+  },
+  "1591675": {
+    "id": 1591675,
+    "type": "movie",
+    "title": "Look Back",
+    "poster_path": "/sxiJhMNTBRvQgMnB9H4VIVdQfW9.jpg",
+    "backdrop_path": "/ceOdqFmZy5kKImbGThuDHuifGpm.jpg",
+    "vote_average": 8.042,
+    "vote_count": 59,
+    "overview": "Popular, outgoing Fujino is celebrated by her classmates for her funny comics in the class newspaper. One day, her teacher asks her to share the space with Kyomoto, a truant recluse whose beautiful artwork sparks a competitive fervor in Fujino. What starts as jealousy transforms when Fujino realizes their shared passion for drawing.",
+    "industry": "world",
+    "original_language": "ja",
+    "origin_country": [
+      "JP"
+    ],
+    "production_countries": [
+      "JP"
+    ],
+    "spoken_languages": [
+      "ja"
+    ],
+    "published_at": "2026-11-24",
+    "date_kind": "release",
+    "status": "Released",
+    "providers": [],
+    "release_date": "2026-09-11",
+    "popularity": 7.7895
+  },
+  "1781106": {
+    "id": 1781106,
+    "type": "movie",
+    "title": "best friends",
+    "poster_path": "/jhZHG6CKamgj4xq9OfdRh9cX2nA.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "Being late for their party, two teenage girls must take a hike through the city to reach their destination.",
+    "industry": "world",
+    "original_language": "en",
+    "origin_country": [
+      "US"
+    ],
+    "production_countries": [],
+    "spoken_languages": [],
+    "published_at": "2026-11-24",
+    "date_kind": "release",
+    "status": "In Production",
+    "providers": [],
+    "release_date": "2026-12-01",
+    "popularity": 0.039
+  },
+  "1620313": {
+    "id": 1620313,
+    "type": "movie",
+    "title": "The Samurai and the Prisoner",
+    "poster_path": "/1GWVlPM1v6k84LsmDkfDzLlGf0O.jpg",
+    "backdrop_path": "/dk1EJbIBFKByf1ZyoAIm0GNRnl4.jpg",
+    "vote_average": 7.5,
+    "vote_count": 23,
+    "overview": "When Lord Murashige rises up against the tyrannical Oda, he finds himself besieged within the walls of his own castle. Isolated, he is confronted with a series of mysterious crimes that shatter the fragile order of his court, plunging the fortress into fear and suspicion. With Oda's army closing in and a traitor hiding among his ranks, Murashige is forced into an uneasy alliance with Kanbei, a brilliant and dangerous strategist held prisoner in the dungeon, as he must outwit his enemies and uncover the truth before time runs out.",
+    "industry": "world",
+    "original_language": "ja",
+    "origin_country": [
+      "JP"
+    ],
+    "production_countries": [
+      "JP"
+    ],
+    "spoken_languages": [
+      "ja"
+    ],
+    "published_at": "2026-11-24",
+    "date_kind": "release",
+    "status": "Released",
+    "providers": [],
+    "release_date": "2026-06-19",
+    "popularity": 4.8672
+  },
+  "1771850": {
+    "id": 1771850,
+    "type": "movie",
+    "title": "Ice Bros",
+    "poster_path": "/3nx8JV4jITiBirlwVAPa3P42f4D.jpg",
+    "backdrop_path": "/cqgtPJWBx7Xm9eAgYUuu9Au30Lm.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "Two witless fish delivery guys are forced to dispose of a body by local gangsters, but soon discover the old lady in the bodybag is very much alive.",
+    "industry": "world",
+    "original_language": "en",
+    "origin_country": [
+      "US"
+    ],
+    "production_countries": [
+      "US"
+    ],
+    "spoken_languages": [
+      "en",
+      "es"
+    ],
+    "published_at": "2026-11-24",
+    "date_kind": "release",
+    "status": "Post Production",
+    "providers": [],
+    "release_date": "2026-12-01",
+    "popularity": 0.2144
+  },
+  "1021848": {
+    "id": 1021848,
+    "type": "movie",
+    "title": "Queen at Sea",
+    "poster_path": "/ueYawr1nldKchzyP8Q9KJpn31SK.jpg",
+    "backdrop_path": "/308iVAhH5ByQb0wvaJmY3o79apn.jpg",
+    "vote_average": 7.4,
+    "vote_count": 8,
+    "overview": "As advanced dementia erodes an older woman's ability to communicate her inner life, her husband and daughter struggle to act in her best interests, navigating love and the fragile boundaries between care, protection and autonomy.",
+    "industry": "world",
+    "original_language": "en",
+    "origin_country": [
+      "GB"
+    ],
+    "production_countries": [
+      "GB"
+    ],
+    "spoken_languages": [
+      "en",
+      "fr"
+    ],
+    "published_at": "2026-11-24",
+    "date_kind": "release",
+    "status": "Released",
+    "providers": [],
+    "release_date": "2026-09-18",
+    "popularity": 2.6156
+  },
+  "1771548": {
+    "id": 1771548,
+    "type": "movie",
+    "title": "Gabrielle Apter",
+    "poster_path": "/ixIaJnAFXnc1DbFR8PZE8UC6scc.jpg",
+    "backdrop_path": "/aRgSt1CYxEM3MMovdCABCOStdiA.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "",
+    "industry": "world",
+    "original_language": "fr",
+    "origin_country": [
+      "FR"
+    ],
+    "production_countries": [],
+    "spoken_languages": [],
+    "published_at": "2026-11-24",
+    "date_kind": "release",
+    "status": "In Production",
+    "providers": [],
+    "release_date": "2026-12-01",
+    "popularity": 0.2142
+  },
+  "1437696": {
+    "id": 1437696,
+    "type": "movie",
+    "title": "Fatherland",
+    "poster_path": "/oNejN1l69nBF8LdQwy5FkAQZT44.jpg",
+    "backdrop_path": "/zKoBjLggS4v22a9ZiCvmLaZrht7.jpg",
+    "vote_average": 7.22,
+    "vote_count": 84,
+    "overview": "In 1949, German writer Thomas Mann and his daughter Erika embark on a road trip across a Germany in ruins, from US-dominated Frankfurt to Soviet-controlled Weimar.",
+    "industry": "world",
+    "original_language": "pl",
+    "origin_country": [
+      "PL"
+    ],
+    "production_countries": [
+      "PL",
+      "DE",
+      "FR",
+      "IT",
+      "GB"
+    ],
+    "spoken_languages": [
+      "de",
+      "en",
+      "ru",
+      "fr",
+      "pl"
+    ],
+    "published_at": "2026-11-24",
+    "date_kind": "release",
+    "status": "Released",
+    "providers": [],
+    "release_date": "2026-06-19",
+    "popularity": 20.7875
+  },
+  "1764525": {
+    "id": 1764525,
+    "type": "movie",
+    "title": "¿por qué te vas?",
+    "poster_path": "/l2qo9fvsnfqVmlYBMnSoLL10ZS5.jpg",
+    "backdrop_path": "/ri0y5MCxgMam2SECm43viVXQl7i.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "",
+    "industry": "world",
+    "original_language": "es",
+    "origin_country": [
+      "ES"
+    ],
+    "production_countries": [],
+    "spoken_languages": [],
+    "published_at": "2026-11-24",
+    "date_kind": "release",
+    "status": "Planned",
+    "providers": [],
+    "release_date": "2026-12-01",
+    "popularity": 0.1178
+  },
+  "1840180": {
+    "id": 1840180,
+    "type": "movie",
+    "title": "Debakanya",
+    "poster_path": "/sfBFvDnV2fXS7torf7aal0Fm5fn.jpg",
+    "backdrop_path": "/88KExwQPIyvGCbtgLHtlc9eSHJz.jpg",
+    "vote_average": 9.889,
+    "vote_count": 9,
+    "overview": "Debakanya (ଦେବକନ୍ୟା) is an Odia feature film presented by Supreme Entertainment, celebrating the rich cultural heritage, traditions, emotions, and values of Odisha. Directed by Rasesh Mohanty (Silu) and produced by Suresh Kumar Sahu and Bhargabi Tripathy, the film brings together a compelling storyline, powerful performances, soulful music, and captivating visuals. Featuring Subhasish Sharma (Mantu) and a talented ensemble cast, Debakanya offers an engaging cinematic experience rooted in Odia culture and human emotions. Released across India on 20 November 2026, the film reflects Supreme Entertainment's commitment to meaningful storytelling and the growth of Odia cinema.",
+    "industry": "bollywood",
+    "original_language": "or",
+    "origin_country": [
+      "IN"
+    ],
+    "production_countries": [
+      "IN"
+    ],
+    "spoken_languages": [
+      "or"
+    ],
+    "published_at": "2026-11-24",
+    "date_kind": "release",
+    "status": "Released",
+    "providers": [],
+    "release_date": "2026-11-20",
+    "popularity": 1.7661
   }
 };
