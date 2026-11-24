@@ -36,6 +36,74 @@ window.FA_HOME_ARTICLES = {
     ],
     "published": "Tue, 24 Nov 2026 17:49:03 +0200"
   },
+  "i49k26": {
+    "id": "i49k26",
+    "type": "news",
+    "headline": "Misbah Arshad Set to Represent Pakistan at the Miss Universe 2026 Grand Finale",
+    "dek": "Pakistan is gearing up for the international beauty pageant stage as Misbah Arshad prepares to compete in the 75th Miss Universe grand finale in Puerto Rico.",
+    "entities": {
+      "people": [
+        "Misbah Arshad"
+      ],
+      "titles": [
+        "Miss Universe"
+      ]
+    },
+    "keywords": [
+      "Misbah Arshad",
+      "Miss Universe Pakistan 2026",
+      "Miss Universe 2026",
+      "Misbah Arshad Miss Universe"
+    ],
+    "images": [
+      {
+        "url": "https://dailyshowbiz.net/wp-content/uploads/2026/11/image-19.png",
+        "caption": "Misbah Arshad Set to Represent Pakistan at the Miss Universe 2026 Grand Finale",
+        "source": "Daily Showbiz"
+      }
+    ],
+    "published": "Tue, 24 Nov 2026 15:08:54 +0000"
+  },
+  "ku2hm3": {
+    "id": "ku2hm3",
+    "type": "news",
+    "headline": "Khushi Episode 73 — Watch Online on HUM TV",
+    "dek": "Khushi episode 73 aired on 2026-11-24 — watch the full episode on HUM TV.",
+    "entities": {
+      "titles": [
+        "Khushi"
+      ],
+      "people": []
+    },
+    "images": [
+      {
+        "url": "https://i.ytimg.com/vi/Pxu7fEE0gzc/hqdefault.jpg",
+        "caption": "Khushi Episode 73",
+        "source": "HUM TV"
+      }
+    ],
+    "published": "2026-11-24T15:00:14Z"
+  },
+  "v8fw67": {
+    "id": "v8fw67",
+    "type": "news",
+    "headline": "Mera Ghar Episode 8 — Watch Online on ARY Digital",
+    "dek": "Mera Ghar episode 8 aired on 2026-11-24 — watch the full episode on ARY Digital.",
+    "entities": {
+      "titles": [
+        "Mera Ghar"
+      ],
+      "people": []
+    },
+    "images": [
+      {
+        "url": "https://i.ytimg.com/vi/bE-Lr5qbsFA/hqdefault.jpg",
+        "caption": "Mera Ghar Episode 8",
+        "source": "ARY Digital"
+      }
+    ],
+    "published": "2026-11-24T15:00:14Z"
+  },
   "3ti1pf": {
     "id": "3ti1pf",
     "type": "news",
@@ -4765,144 +4833,6 @@ window.FA_HOME_ARTICLES = {
     ],
     "published": "2026-11-23T04:52:27Z"
   },
-  "o00y01": {
-    "id": "o00y01",
-    "type": "news",
-    "headline": "Ramayana Part 2: Namit Malhotra Likens Sunny Deol's Hanuman to Iron Man and Teases Sequel Scale",
-    "dek": "Producer Namit Malhotra discusses how Sunny Deol's character will spearhead the upcoming sequel in the epic cinematic saga.",
-    "entities": {
-      "people": [
-        "Namit Malhotra",
-        "Sunny Deol",
-        "Sai Pallavi",
-        "Yash",
-        "Ranbir Kapoor",
-        "Nitesh Tiwari"
-      ],
-      "titles": [
-        "Ramayana Part 2",
-        "Ramayana Part 1",
-        "Rise of the Legend"
-      ]
-    },
-    "keywords": [
-      "Namit Malhotra Ramayana Part 2",
-      "Sunny Deol Hanuman Iron Man",
-      "Ramayana Part 1 box office",
-      "Nitesh Tiwari Ramayana sequel"
-    ],
-    "images": [
-      {
-        "url": "https://images.timesnownews.com/thumb/msid-156551049,thumbsize-789788,width-1280,height-720,resizemode-75/156551049.jpg",
-        "caption": "Ramayana Part 2: Namit Malhotra Likens Sunny Deol's Hanuman to Iron Man and Teases Sequel Scale",
-        "source": "Times Now — Entertainment"
-      }
-    ],
-    "published": "2026-11-23T04:52:27Z"
-  },
-  "vfi9qv": {
-    "id": "vfi9qv",
-    "type": "news",
-    "headline": "Lee Je Hoon and Han Ji Min Return to Host the 47th Blue Dragon Film Awards",
-    "dek": "Popular screen stars Lee Je Hoon and Han Ji Min are stepping back onto the stage as co-hosts for the upcoming 47th Blue Dragon Film Awards.",
-    "entities": {
-      "people": [
-        "Lee Je Hoon",
-        "Han Ji Min",
-        "Kim Hye Soo",
-        "Na Hong Jin",
-        "Yeon Sang Ho",
-        "Yoon Ga Eun",
-        "Jang Hang Jun",
-        "Hur Jin Ho",
-        "Koo Kyo Hwan",
-        "Park Hae Il",
-        "Sul Kyung Gu",
-        "Yoo Hae Jin",
-        "Zo In Sung",
-        "Go Ah Sung",
-        "Moon Ga Young",
-        "Shin Min Ah",
-        "Lee Jung Eun",
-        "Jeon Do Yeon"
-      ],
-      "titles": [
-        "HOPE",
-        "The World of Love",
-        "Assassin(s)",
-        "The King s Warden",
-        "Colony",
-        "Possible Love",
-        "Once We Were Us",
-        "Pavane",
-        "The Eyes",
-        "The Journey to Gyeong-ju"
-      ]
-    },
-    "keywords": [
-      "47th Blue Dragon Film Awards",
-      "Lee Je Hoon Han Ji Min",
-      "HOPE film nominations",
-      "Blue Dragon Film Awards host"
-    ],
-    "images": [
-      {
-        "url": "https://i.mydramalist.com/nKKZJW_2d.jpg",
-        "caption": "Lee Je Hoon and Han Ji Min Return to Host the 47th Blue Dragon Film Awards",
-        "source": "MyDramaList"
-      }
-    ],
-    "published": "Mon, 23 Nov 2026 04:38:10 +0000"
-  },
-  "1rx85i0": {
-    "id": "1rx85i0",
-    "type": "news",
-    "headline": "Demon Slayer Infinity Castle Part 2 Sparks Release Speculation Following Sony Listing",
-    "dek": "An untitled September 2027 film listing by Sony Pictures and Crunchyroll has triggered massive speculation regarding the release window for Demon Slayer Infinity Castle Part 2, though fans remain split.",
-    "entities": {
-      "people": [
-        "Casandra Ronning",
-        "Stephanie Nadolny",
-        "Hannah Diffey",
-        "Koyoharu Gotouge",
-        "Natsuki Hanae",
-        "Akari Kitō",
-        "Hiro Shimono",
-        "Yoshitsugu Matsuoka",
-        "Kengo Kawanishi",
-        "Kana Hanazawa",
-        "Toshihiko Seki",
-        "Saori Hayami",
-        "Tomokazu Sugita"
-      ],
-      "titles": [
-        "Demon Slayer",
-        "Infinity Castle",
-        "Infinity Castle Part 2",
-        "Infinity Castle Part 1",
-        "Solo Leveling",
-        "Solo Leveling: Beyond the System",
-        "Demon Slayer: Kimetsu no Yaiba",
-        "Demon Slayer -Kimetsu no Yaiba- Sweep the Board!",
-        "Demon Slayer -Kimetsu no Yaiba- The Hinokami Chronicles",
-        "Demon Slayer the Movie: Mugen Train"
-      ]
-    },
-    "keywords": [
-      "Demon Slayer Infinity Castle Part 2",
-      "Sony Pictures September 2027 anime movie",
-      "Solo Leveling Beyond the System",
-      "Jump Festa 2027 anime announcements"
-    ],
-    "images": [
-      {
-        "url": "https://static0.srcdn.com/wordpress/wp-content/uploads/2026/06/tanjiro-kamado-featured-image.png?w=1600&amp;h=900&amp;fit=crop",
-        "caption": "Demon Slayer Infinity Castle Part 2 Sparks Release Speculation Following Sony Listing",
-        "source": "Screen Rant"
-      }
-    ],
-    "published": "Mon, 23 Nov 2026 04:27:42 GMT"
-  },
   "f4chlg": {
     "id": "f4chlg",
     "type": "news",
@@ -5464,6 +5394,52 @@ window.FA_HOME_ARTICLES = {
     ],
     "published": "2026-11-20T14:45:34Z"
   },
+  "1t86cpe": {
+    "id": "1t86cpe",
+    "type": "news",
+    "headline": "Disney Plus Series Afterlife with Archie Announces Main Cast",
+    "dek": "The upcoming Disney Plus adaptation has officially selected its main cast members to portray Archie, Betty, Veronica, Jughead, and Sabrina.",
+    "entities": {
+      "people": [
+        "Vasco Faria",
+        "Aliyah Mastin",
+        "Sarah Abbott",
+        "Angel Rivera",
+        "Chloe Avakian",
+        "Roberto Aguirre-Sacasa",
+        "Francesco Francavilla",
+        "Alfonso Gomez-Rejon",
+        "Jimmy Gibbons",
+        "Greg Berlanti",
+        "Sarah Schechter",
+        "Leigh London Redman",
+        "Jon Goldwater"
+      ],
+      "titles": [
+        "Afterlife with Archie",
+        "Riverdale",
+        "Your Fault: London",
+        "Paradise",
+        "The Body",
+        "Countdown",
+        "This Is Not a Test"
+      ]
+    },
+    "keywords": [
+      "Afterlife with Archie",
+      "Disney Plus Riverdale show",
+      "Archie Betty Veronica Jughead Sabrina cast",
+      "Roberto Aguirre-Sacasa Afterlife with Archie"
+    ],
+    "images": [
+      {
+        "url": "https://www.comingsoon.net/wp-content/uploads/sites/3/2026/11/riverdale.jpg?resize=1200,630",
+        "caption": "Disney Plus Series Afterlife with Archie Announces Main Cast",
+        "source": "ComingSoon.net"
+      }
+    ],
+    "published": "Thu, 19 Nov 2026 17:31:56 +0000"
+  },
   "uaxxk7": {
     "id": "uaxxk7",
     "type": "news",
@@ -5649,50 +5625,5 @@ window.FA_HOME_ARTICLES = {
       }
     ],
     "published": "2026-11-18T15:00:06Z"
-  },
-  "hjyxxz": {
-    "id": "hjyxxz",
-    "type": "news",
-    "headline": "Uswah Episode 56 — Watch Online on Geo TV",
-    "dek": "Uswah episode 56 aired on 2026-11-18 — watch the full episode on Geo TV.",
-    "entities": {
-      "titles": [
-        "Uswah"
-      ],
-      "people": [
-        "Omer Shahzad",
-        "Sania Shamshad",
-        "Haroon Shahid",
-        "Ammara Malik"
-      ]
-    },
-    "images": [
-      {
-        "url": "https://i.ytimg.com/vi/ZMsOyXB0mzM/hqdefault.jpg",
-        "caption": "Uswah Episode 56",
-        "source": "Geo TV"
-      }
-    ],
-    "published": "2026-11-18T15:00:04Z"
-  },
-  "1wefmih": {
-    "id": "1wefmih",
-    "type": "news",
-    "headline": "Mera Ghar Episode 2 — Watch Online on ARY Digital",
-    "dek": "Mera Ghar episode 2 aired on 2026-11-18 — watch the full episode on ARY Digital.",
-    "entities": {
-      "titles": [
-        "Mera Ghar"
-      ],
-      "people": []
-    },
-    "images": [
-      {
-        "url": "https://i.ytimg.com/vi/AmcmTyvkOw4/hqdefault.jpg",
-        "caption": "Mera Ghar Episode 2",
-        "source": "ARY Digital"
-      }
-    ],
-    "published": "2026-11-18T15:00:01Z"
   }
 };

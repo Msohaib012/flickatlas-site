@@ -117277,13 +117277,20 @@ window.FA_ARTICLES = {
           "Khushi Episode 60 aired on 2026-11-11 on HUM TV. The full episode is available on the channel's official YouTube page.",
           "Watch the full episode here: https://www.youtube.com/watch?v=cHZAOtsnhuA"
         ]
+      },
+      {
+        "h": "Episode Summary",
+        "p": [
+          "Is episode mein Khushi aur Ammar terrace par Mehreen aur Haroon ke nikah ke baare mein baat karte hain, jahan Khushi apni maa ki nayi zindagi ke liye bohot kh"
+        ]
       }
     ],
     "facts": [
       "Khushi Episode 60 aired on 2026-11-11.",
       "Channel: HUM TV.",
       "Watch the full episode: https://www.youtube.com/watch?v=cHZAOtsnhuA",
-      "YouTube views: 87,511."
+      "YouTube views: 87,511.",
+      "Episode summary added 2026-11-24."
     ],
     "entities": {
       "titles": [
@@ -201788,6 +201795,12 @@ window.FA_ARTICLES = {
         "p": [
           "Dastoor is a heartfelt family drama filled with love, sacrifice, family conflicts, secrets, and emotional twists. Follow the journey of a mother and her daughters as they face difficult choices, broken relationships, and unexpected turns of fate a story of love, pain, forgiveness, and second chances."
         ]
+      },
+      {
+        "h": "Episode Summary",
+        "p": [
+          "Is episode ki shuruaat mein Mustafa aur Shiza farm house se waapas aakar Zebunnisa (Dado) ke samne Ammara ke accident ka sach laate hain"
+        ]
       }
     ],
     "facts": [
@@ -201795,7 +201808,8 @@ window.FA_ARTICLES = {
       "Channel: Green TV.",
       "Watch the full episode: https://www.youtube.com/watch?v=30jDb_LyKmA",
       "YouTube views: 85,435.",
-      "TMDB: Dastoor (id 329481)."
+      "TMDB: Dastoor (id 329481).",
+      "Episode summary added 2026-11-24."
     ],
     "entities": {
       "titles": [
@@ -238388,5 +238402,160 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Tue, 24 Nov 2026 17:49:03 +0200"
+  },
+  "ku2hm3": {
+    "id": "ku2hm3",
+    "type": "news",
+    "headline": "Khushi Episode 73 — Watch Online on HUM TV",
+    "dek": "Khushi episode 73 aired on 2026-11-24 — watch the full episode on HUM TV.",
+    "body": [
+      {
+        "h": "Episode Details",
+        "p": [
+          "Khushi Episode 73 aired on 2026-11-24 on HUM TV. The full episode is available on the channel's official YouTube page.",
+          "Watch the full episode here: https://www.youtube.com/watch?v=Pxu7fEE0gzc"
+        ]
+      }
+    ],
+    "facts": [
+      "Khushi Episode 73 aired on 2026-11-24.",
+      "Channel: HUM TV.",
+      "Watch the full episode: https://www.youtube.com/watch?v=Pxu7fEE0gzc",
+      "YouTube views: 202,843."
+    ],
+    "entities": {
+      "titles": [
+        "Khushi"
+      ],
+      "people": []
+    },
+    "images": [
+      {
+        "url": "https://i.ytimg.com/vi/Pxu7fEE0gzc/hqdefault.jpg",
+        "caption": "Khushi Episode 73",
+        "source": "HUM TV"
+      }
+    ],
+    "published": "2026-11-24T15:00:14Z"
+  },
+  "v8fw67": {
+    "id": "v8fw67",
+    "type": "news",
+    "headline": "Mera Ghar Episode 8 — Watch Online on ARY Digital",
+    "dek": "Mera Ghar episode 8 aired on 2026-11-24 — watch the full episode on ARY Digital.",
+    "body": [
+      {
+        "h": "Episode Details",
+        "p": [
+          "Mera Ghar Episode 8 aired on 2026-11-24 on ARY Digital. The full episode is available on the channel's official YouTube page.",
+          "Watch the full episode here: https://www.youtube.com/watch?v=bE-Lr5qbsFA"
+        ]
+      }
+    ],
+    "facts": [
+      "Mera Ghar Episode 8 aired on 2026-11-24.",
+      "Channel: ARY Digital.",
+      "Watch the full episode: https://www.youtube.com/watch?v=bE-Lr5qbsFA",
+      "YouTube views: 17,847."
+    ],
+    "entities": {
+      "titles": [
+        "Mera Ghar"
+      ],
+      "people": []
+    },
+    "images": [
+      {
+        "url": "https://i.ytimg.com/vi/bE-Lr5qbsFA/hqdefault.jpg",
+        "caption": "Mera Ghar Episode 8",
+        "source": "ARY Digital"
+      }
+    ],
+    "published": "2026-11-24T15:00:14Z"
+  },
+  "i49k26": {
+    "id": "i49k26",
+    "type": "news",
+    "headline": "Misbah Arshad Set to Represent Pakistan at the Miss Universe 2026 Grand Finale",
+    "dek": "Pakistan is gearing up for the international beauty pageant stage as Misbah Arshad prepares to compete in the 75th Miss Universe grand finale in Puerto Rico.",
+    "body": [
+      {
+        "h": "The Road to the Grand Finale",
+        "p": [
+          "Misbah Arshad is officially stepping onto the global stage as Pakistan's contender in the prestigious Miss Universe pageant. Holding the title of Miss Universe Pakistan 2026, she is fully prepared to showcase her grace and poise before an international audience.",
+          "The much-anticipated grand finale marks a major milestone for the country's representation in the world of competitive pageantry, bringing together delegates from numerous nations."
+        ]
+      },
+      {
+        "h": "Schedule and Timing Details",
+        "p": [
+          "The grand finale of the 75th edition of the competition is officially slated to begin at 9pm local time in Puerto Rico on Tuesday, November 24.",
+          "Due to regional time zones, supporters in Pakistan will be able to tune into the broadcast starting at approximately 7am on Wednesday, November 25, allowing local fans to follow the events live."
+        ]
+      },
+      {
+        "h": "How to Watch the Event Live",
+        "p": [
+          "Global audiences and local supporters alike will have direct access to the livestream of the ceremony.",
+          "The official Miss Universe YouTube channel is hosting the broadcast, making it convenient for viewers worldwide to watch the entire competition unfold in real-time."
+        ]
+      },
+      {
+        "h": "National Support and Encouragement",
+        "p": [
+          "The Miss Universe Pakistan organization has actively reached out to the public, urging citizens across the country to rally behind their representative.",
+          "Supporters have been encouraged to share warm wishes and messages of backing as she steps into the final stages of the international showcase."
+        ]
+      },
+      {
+        "h": "Significance of the Milestone",
+        "p": [
+          "This appearance highlights another important chapter for Pakistan within the well-established global pageant community.",
+          "Participating in the milestone 75th edition offers an exceptional platform to enhance the country's international visibility and cultural presence."
+        ]
+      },
+      {
+        "h": "Anticipation and Global Exposure",
+        "p": [
+          "The international stage grants contestants a unique chance to gain widespread recognition and connect with viewers from diverse backgrounds.",
+          "As the final countdown begins, all eyes remain focused on how Arshad will perform among the world's finest contestants."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Misbah Arshad is representing Pakistan at the 75th Miss Universe grand finale in Puerto Rico on November 24. Local viewers can watch the event live via the official YouTube channel beginning at 7am on November 25."
+        ]
+      }
+    ],
+    "facts": [
+      "Misbah Arshad holds the title of Miss Universe Pakistan 2026",
+      "The 75th edition of the Miss Universe competition takes place in Puerto Rico",
+      "The grand finale is scheduled for November 24 at 9pm local time",
+      "Viewers in Pakistan can watch the finale at approximately 7am on Wednesday, November 25",
+      "The competition will be broadcast on the official Miss Universe YouTube channel"
+    ],
+    "entities": {
+      "people": [
+        "Misbah Arshad"
+      ],
+      "titles": [
+        "Miss Universe"
+      ]
+    },
+    "keywords": [
+      "Misbah Arshad",
+      "Miss Universe Pakistan 2026",
+      "Miss Universe 2026",
+      "Misbah Arshad Miss Universe"
+    ],
+    "images": [
+      {
+        "url": "https://dailyshowbiz.net/wp-content/uploads/2026/11/image-19.png",
+        "caption": "Misbah Arshad Set to Represent Pakistan at the Miss Universe 2026 Grand Finale",
+        "source": "Daily Showbiz"
+      }
+    ],
+    "published": "Tue, 24 Nov 2026 15:08:54 +0000"
   }
 };
