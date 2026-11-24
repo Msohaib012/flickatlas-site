@@ -126817,13 +126817,20 @@ window.FA_ARTICLES = {
           "Khushi Episode 61 aired on 2026-11-12 on HUM TV. The full episode is available on the channel's official YouTube page.",
           "Watch the full episode here: https://www.youtube.com/watch?v=gOCmCzqmmw0"
         ]
+      },
+      {
+        "h": "Episode Summary",
+        "p": [
+          "Is episode mein Mehreen aur Haroon apni nayi zindagi ki shuruat karte hain aur Umrah ke liye rawana hone se pehle sab se rukhsaat hote hain, jis par Khushi kaafi udaas ho jaati hai. Doosri taraf, Sumaira kitchen ka kaam akele sambhalne par pareshan hoti hai aur Hamna usay Khushi ke khilaf bharkane ki koshish karti hai, lekin Sumaira Khushi ki tabiyat ka khayal rakhti hai. Khushi aur Ammar doctor ke appointment ke liye nikalte hain, jabke Saim ki gaadi kharab hone par woh bhi unke sath chale jaate hain. Is dauran, Usman ke ghar lautne par Sumaira pareshan hokar apne maayke jaane se inkaar kar deti hai. Atiya ko Sohail se shikayat hoti hai ke unke darmiyan Mehreen aur Haroon jaisa pyaar nahi hai. Episode ke aakhir mein, Saim aur Khushi par dacoit hamla kar dete hain jismein Khushi gir kar shadeed zakhmi ho jaati hai. Usay fawran hospital le jaya jata hai jahan uski halat nazuk batayi jaati hai aur pura gharana pareshani mein mubtala ho jata hai."
+        ]
       }
     ],
     "facts": [
       "Khushi Episode 61 aired on 2026-11-12.",
       "Channel: HUM TV.",
       "Watch the full episode: https://www.youtube.com/watch?v=gOCmCzqmmw0",
-      "YouTube views: 63,682."
+      "YouTube views: 63,682.",
+      "Episode summary added 2026-11-24."
     ],
     "entities": {
       "titles": [
@@ -148379,13 +148386,20 @@ window.FA_ARTICLES = {
           "Zehar-e-Mohabbat Episode 25 aired on 2026-11-14 on HUM TV. The full episode is available on the channel's official YouTube page.",
           "Watch the full episode here: https://www.youtube.com/watch?v=1u2IAMtpfFk"
         ]
+      },
+      {
+        "h": "Episode Summary",
+        "p": [
+          "Is episode mein Malaika Dr. Shazaib se cafe mein milti hai aur batati hai ke woh filhal kisi naye rishte ke liye tayar nahi, jis par"
+        ]
       }
     ],
     "facts": [
       "Zehar-e-Mohabbat Episode 25 aired on 2026-11-14.",
       "Channel: HUM TV.",
       "Watch the full episode: https://www.youtube.com/watch?v=1u2IAMtpfFk",
-      "YouTube views: 82,409."
+      "YouTube views: 82,409.",
+      "Episode summary added 2026-11-24."
     ],
     "entities": {
       "titles": [
@@ -238557,5 +238571,471 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Tue, 24 Nov 2026 15:08:54 +0000"
+  },
+  "1ypg7z1": {
+    "id": "1ypg7z1",
+    "type": "news",
+    "headline": "Bano Episode 41 — Watch Online on Geo TV",
+    "dek": "Bano episode 41 aired on 2026-11-24 — watch the full episode on Geo TV.",
+    "body": [
+      {
+        "h": "Episode Details",
+        "p": [
+          "Bano Episode 41 aired on 2026-11-24 on Geo TV. The full episode is available on the channel's official YouTube page.",
+          "Watch the full episode here: https://www.youtube.com/watch?v=F61Boq-Fio0"
+        ]
+      },
+      {
+        "h": "Episode Summary",
+        "p": [
+          "Is episode mein Murtaza aur Shehryar apne daftar mein kaam aur aapas ki zindagiyon par baat karte hain, jahan Shehryar Bano"
+        ]
+      }
+    ],
+    "facts": [
+      "Bano Episode 41 aired on 2026-11-24.",
+      "Channel: Geo TV.",
+      "Watch the full episode: https://www.youtube.com/watch?v=F61Boq-Fio0",
+      "YouTube views: 105,447.",
+      "Episode summary added 2026-11-24."
+    ],
+    "entities": {
+      "titles": [
+        "Bano"
+      ],
+      "people": []
+    },
+    "images": [
+      {
+        "url": "https://i.ytimg.com/vi/F61Boq-Fio0/hqdefault.jpg",
+        "caption": "Bano Episode 41",
+        "source": "Geo TV"
+      }
+    ],
+    "published": "2026-11-24T17:00:06Z"
+  },
+  "1rlnk8c": {
+    "id": "1rlnk8c",
+    "type": "news",
+    "headline": "Hurmat Episode 16 — Watch Online on HUM TV",
+    "dek": "Hurmat episode 16 aired on 2026-11-24 — watch the full episode on HUM TV.",
+    "body": [
+      {
+        "h": "Episode Details",
+        "p": [
+          "Hurmat Episode 16 aired on 2026-11-24 on HUM TV. The full episode is available on the channel's official YouTube page.",
+          "Watch the full episode here: https://www.youtube.com/watch?v=3NlwtBLQNAw"
+        ]
+      },
+      {
+        "h": "About Hurmat",
+        "p": [
+          "Hurmat follows the journey of a bright and ambitious young woman trapped under strict family and societal restrictions. Raised in a highly conservative household, her choices are entirely controlled by her authoritarian father, who initially forbids her from pursuing higher education. When a supportive uncle steps in to help her enroll in a university, she moves to a modern city, catching a glimpse of a world beyond her boundaries and finding a new sense of independence. However, her life takes a darker, more complex turn as she falls for a classmate, throwing her into a turbulent storm of intense family conflicts, hidden secrets, betrayal, and high-stakes legal battles."
+        ]
+      },
+      {
+        "h": "Episode Summary",
+        "p": [
+          "Is episode mein Hurmat bank mein nayi naukri shuru karti hai jahan manager Farheen sab ko targets ke baare mein batati hai. Dusri taraf, Tab"
+        ]
+      }
+    ],
+    "facts": [
+      "Hurmat Episode 16 aired on 2026-11-24.",
+      "Channel: HUM TV.",
+      "Watch the full episode: https://www.youtube.com/watch?v=3NlwtBLQNAw",
+      "YouTube views: 701,052.",
+      "TMDB: Hurmat (id 337670).",
+      "Episode summary added 2026-11-24."
+    ],
+    "entities": {
+      "titles": [
+        "Hurmat"
+      ],
+      "people": [
+        "Dananeer Mobeen",
+        "Shahveer Jaffery",
+        "Ali Tahir",
+        "Javed Sheikh",
+        "Anoushay Abbasi"
+      ]
+    },
+    "images": [
+      {
+        "url": "https://i.ytimg.com/vi/3NlwtBLQNAw/hqdefault.jpg",
+        "caption": "Hurmat Episode 16",
+        "source": "HUM TV"
+      }
+    ],
+    "published": "2026-11-24T16:25:08Z"
+  },
+  "1xpdz71": {
+    "id": "1xpdz71",
+    "type": "news",
+    "headline": "All India Cine Workers Association Demands Indian Ban On Netflix Series Jo Bachay Hain Sang Samait Lo",
+    "dek": "The All India Cine Workers Association has written to Prime Minister Narendra Modi, requesting a complete block on the release of Netflix's upcoming Pakistani original series in India.",
+    "body": [
+      {
+        "h": "The Appeal To Prime Minister Modi",
+        "p": [
+          "The All India Cine Workers Association has formally reached out to Prime Minister Narendra Modi to halt the Indian release of the upcoming streaming series Jo Bachay Hain Sang Samait Lo. The film workers' organization submitted a letter on November 24, pressing the central government to prevent the show from premiering on digital platforms in the country.",
+          "Scheduled for release on December 4, the project is notable as Netflix's first Pakistani original series. The association has further urged authorities to implement measures ensuring that content originating from Pakistan does not find its way back onto Indian digital networks."
+        ]
+      },
+      {
+        "h": "Platform Plans And Ambiguity",
+        "p": [
+          "The ensemble drama was commissioned by the Middle East and North Africa division of Netflix, drawing considerable attention due to its prominent casting choices. However, the streaming giant has yet to confirm whether the series will be accessible to subscribers logging in from India.",
+          "This uncertainty has left audiences and industry observers waiting to see how the platform will handle the regional availability of the high-profile title amidst growing calls for restrictions."
+        ]
+      },
+      {
+        "h": "Reference To Government Advisories",
+        "p": [
+          "In their communication, representatives of the film workers' body pointed directly to an advisory issued by the Ministry of Information and Broadcasting on May 8, 2025. That specific directive instructed digital intermediaries and OTT services operating within India to halt the streaming of any Pakistan-origin content.",
+          "The association emphasized that the advisory came in the wake of the Pahalgam terror attack, arguing that allowing the new series to stream locally would directly undermine both public sentiment and the spirit of the government's own directives."
+        ]
+      },
+      {
+        "h": "Historical Stance On Pakistani Artists",
+        "p": [
+          "The current demands build upon a long-standing position taken by the cine workers' body following the Pulwama attack. At that time, the organization announced a formal ban preventing Pakistani artists from working within Indian cinema.",
+          "During that earlier period, the group called for permanent legislation carrying severe penalties for violations. Their recent letter extends this philosophy to streaming services, urging platforms like Netflix India to keep all forms of Pakistani entertainment off their schedules."
+        ]
+      },
+      {
+        "h": "Scope And Enforcement Demands",
+        "p": [
+          "Beyond digital streaming networks, the association has pushed for a comprehensive enforcement strategy across multiple mediums. Their appeals target television broadcasts, theatrical screenings, and online platforms alike.",
+          "The organization continues to advocate for a strict legal framework that would permanently bar content of this nature from reaching Indian audiences through any mainstream entertainment channel."
+        ]
+      },
+      {
+        "h": "Adaptation And Literary Background",
+        "p": [
+          "The series itself is an adaptation of a bestselling Urdu novel written by Farhat Ishtiaq, which shares the same title. The narrative was originally serialized in Khawateen Digest starting in 2009 before being compiled and published as a book in 2013.",
+          "The plot of the drama spans across three generations, following six distinct love stories. Production settings for the project take the cast and crew across multiple international locations, including Pakistan, Italy, and the United Kingdom."
+        ]
+      },
+      {
+        "h": "Cast And Production Details",
+        "p": [
+          "Momina Duraid Films serves as the production house behind the project, with Momina Duraid leading the production as showrunner. The series boasts a large and recognizable ensemble cast featuring Fawad Khan, Mahira Khan, Ahad Raza Mir, Hamza Ali Abbasi, and Hania Aamir.",
+          "Other notable performers included in the sprawling cast list are Ahmed Ali Akbar, Bilal Ashraf, Maya Ali, Iqra Aziz, Khushaal Khan, Nadia Jamil, Omair Rana, and Samina Ahmed, amplifying the show's pre-release visibility."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "The All India Cine Workers Association has urged Prime Minister Narendra Modi to block the Indian release of Netflix's upcoming series Jo Bachay Hain Sang Samait Lo, citing a May 2025 government advisory. The controversy highlights ongoing debates regarding the distribution of Pakistani entertainment content on digital platforms within the country."
+        ]
+      }
+    ],
+    "facts": [
+      "The All India Cine Workers Association sent a letter to Prime Minister Narendra Modi on November 24.",
+      "Jo Bachay Hain Sang Samait Lo is scheduled to premiere on December 4.",
+      "The Ministry of Information and Broadcasting issued an advisory on May 8, 2025.",
+      "The source novel was serialised in Khawateen Digest in 2009 and published as a book in 2013."
+    ],
+    "entities": {
+      "people": [
+        "Narendra Modi",
+        "Farhat Ishtiaq",
+        "Momina Duraid",
+        "Fawad Khan",
+        "Mahira Khan",
+        "Ahad Raza Mir",
+        "Hamza Ali Abbasi",
+        "Hania Aamir",
+        "Ahmed Ali Akbar",
+        "Bilal Ashraf",
+        "Maya Ali",
+        "Iqra Aziz",
+        "Khushaal Khan",
+        "Nadia Jamil",
+        "Omair Rana",
+        "Samina Ahmed"
+      ],
+      "titles": [
+        "Jo Bachay Hain Sang Samait Lo",
+        "Khawateen Digest"
+      ]
+    },
+    "keywords": [
+      "Jo Bachay Hain Sang Samait Lo",
+      "All India Cine Workers Association",
+      "Fawad Khan Mahira Khan Netflix",
+      "Jo Bachay Hain Sang Samait Lo India Ban"
+    ],
+    "images": [
+      {
+        "url": "https://images.filmibeat.com/img/2026/11/paknetflixseriesd-76781795540133.jpg",
+        "caption": "All India Cine Workers Association Demands Indian Ban On Netflix Series Jo Bachay Hain Sang Samait Lo",
+        "source": "FilmiBeat"
+      }
+    ],
+    "published": "Tue, 24 Nov 2026 22:41:44 +0530"
+  },
+  "4royjv": {
+    "id": "4royjv",
+    "type": "news",
+    "headline": "Miley Cyrus and Maxx Morando Wedding Dress Code Mix-Up Explained by Guest's Sister",
+    "dek": "A wedding guest wearing yellow instead of the requested all-black dress code at Miley Cyrus and Maxx Morando's ceremony sparked online debate, prompting her sister to step forward with an explanation.",
+    "body": [
+      {
+        "h": "The Wedding Incident That Sparked Online Discussion",
+        "p": [
+          "A recent celebrity wedding has captured the attention of internet users following a noticeable fashion mishap. During the ceremony uniting Miley Cyrus and Maxx Morando, attendees were asked to wear black attire.",
+          "However, one guest stood out significantly in photographic coverage by wearing a yellow dress instead. This sparked intense conversation and various reactions across social media platforms like Reddit."
+        ]
+      },
+      {
+        "h": "Identifying the Guest in Question",
+        "p": [
+          "The attendee who wore the brightly colored outfit was identified as Belgica Vargas, the wife of music producer Shawn Everett.",
+          "In the published photographs of the celebration, her yellow dress stands out sharply against the sea of other guests dressed strictly in black according to the specified instructions."
+        ]
+      },
+      {
+        "h": "Strong Reactions Across Social Media",
+        "p": [
+          "The online community quickly divided into different camps regarding the wardrobe choice. Some users expressed strong second-hand embarrassment, stating they would have immediately left the venue or purchased a replacement outfit.",
+          "Conversely, other commenters adopted a more sympathetic viewpoint, suggesting that the attendee might simply have been a plus-one who never saw the invitation or received the instructions."
+        ]
+      },
+      {
+        "h": "Intervention and Defense From Family",
+        "p": [
+          "As the discussion gained traction online, Belgica Vargas's sister, Grecia, stepped into the comment sections to clear up the confusion. She defended her sibling by explaining that the dress code memo was genuinely missed.",
+          "She noted that her brother-in-law shares a close friendship with the pop star, implying the presence was entirely well-intentioned despite the oversight regarding the requested attire."
+        ]
+      },
+      {
+        "h": "The Bride's Laid-Back Reaction",
+        "p": [
+          "Despite the heavy scrutiny from internet commentators, the newly married couple was reportedly entirely unbothered by the wardrobe discrepancy. According to family statements, Miley Cyrus did not care about the mix-up nearly as much as online observers did.",
+          "The situation ultimately provided some amusement for the families involved, contrasting sharply with the outrage expressed by external digital spectators."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "A wedding guest named Belgica Vargas wore yellow to Miley Cyrus and Maxx Morando's all-black dress code wedding, sparking online debate. Her sister Grecia clarified that it was an innocent mistake due to a missed memo, and the bride was unbothered by the wardrobe error."
+        ]
+      }
+    ],
+    "facts": [
+      "Miley Cyrus and Maxx Morando held a wedding where guests were asked to wear black.",
+      "Belgica Vargas wore a yellow dress to the wedding.",
+      "Shawn Everett is married to Belgica Vargas and is a music producer.",
+      "Grecia is the sister of Belgica Vargas."
+    ],
+    "entities": {
+      "people": [
+        "Miley Cyrus",
+        "Maxx Morando",
+        "Belgica Vargas",
+        "Shawn Everett",
+        "Grecia",
+        "Dolly Parton",
+        "Taylor Swift",
+        "Travis Kelce"
+      ],
+      "titles": []
+    },
+    "keywords": [
+      "Miley Cyrus wedding dress code",
+      "Belgica Vargas yellow dress",
+      "Miley Cyrus Maxx Morando",
+      "Shawn Everett wife"
+    ],
+    "images": [
+      {
+        "url": "https://cdn.mos.cms.futurecdn.net/ofPgBcSLpKHQoTEXnQgZB7-2000-80.jpg",
+        "caption": "Miley Cyrus and Maxx Morando Wedding Dress Code Mix-Up Explained by Guest's Sister",
+        "source": "CinemaBlend"
+      }
+    ],
+    "published": "Tue, 24 Nov 2026 16:44:39 +0000"
+  },
+  "7hskjt": {
+    "id": "7hskjt",
+    "type": "news",
+    "headline": "Dil Ki Bewafaiyaan Review: Gaurav Khanna and Shraddha Arya Shine in Star Plus Family Drama",
+    "dek": "Gaurav Khanna makes a stellar return to television fiction alongside Shraddha Arya in Star Plus series Dil Ki Bewafaiyaan, bringing warmth and midlife realism to the screen.",
+    "body": [
+      {
+        "h": "Introduction to Manav and Janki",
+        "p": [
+          "The new Star Plus series Dil Ki Bewafaiyaan centers around the lives of Manav and Janki as they celebrate a major milestone in their relationship. Marking two decades of marriage, the couple spends a memorable evening surrounded by their family under one roof.",
+          "Rather than opting for an extravagant public celebration, the narrative grounds itself in quiet intimacy. A quiet game of Ludo between the long-time partners captures the essence of their enduring companionship and familiarity."
+        ]
+      },
+      {
+        "h": "Gaurav Khanna's Fiction Comeback",
+        "p": [
+          "Actor Gaurav Khanna makes his much-anticipated return to fiction television with this project. Fans are introduced to a refreshed look featuring grey hair and glasses, which adds a distinct charm to his persona.",
+          "His character Manav blends humor, romance, and a sense of wistfulness seamlessly within the same scenes. His fondness for shayari becomes a recurring quirk that highlights his personality throughout the episode."
+        ]
+      },
+      {
+        "h": "Shraddha Arya's Engaging Portrayal",
+        "p": [
+          "Shraddha Arya plays Janki with an effortless sense of humor and warmth. She acts as the unofficial family referee during competitive game sessions while easily keeping everyone in line.",
+          "Her chemistry with Khanna shines through natural banter, such as when she playfully replies to his poetic reflections. Her performance grounds the family dynamics and showcases the deep bond of their marriage."
+        ]
+      },
+      {
+        "h": "Exploring Midlife Realism",
+        "p": [
+          "Producer Ektaa Kapoor brings middle-aged experiences to television in a manner typically reserved for young romance. The narrative explores how two people sharing a life can experience the exact same event differently.",
+          "An encounter with an old photograph prompts Manav to confront his youth and reflect on the passage of time. This introduces a gentle and relatable midlife crisis to the storyline."
+        ]
+      },
+      {
+        "h": "Family Warmth and Festivities",
+        "p": [
+          "The anniversary gathering evokes a distinct warmth reminiscent of classic family dramas like Hum Saath-Saath Hain. With the entire family involved, the celebrations highlight the joy of having loved ones gathered together.",
+          "These communal scenes balance the introspective moments of the lead characters, providing an engaging environment where younger and older viewers alike can find relatable elements."
+        ]
+      },
+      {
+        "h": "Aesthetics and Viewer Appeal",
+        "p": [
+          "The production values enhance the viewing experience through careful cinematography that allows quieter moments to linger. Additionally, the soundtrack and soothing background score complement the emotional tone of the episodes.",
+          "The series manages to appeal to a wide demographic, offering millennials a glimpse of easy companionship while giving older audiences characters who mirror their own life experiences."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Dil Ki Bewafaiyaan marks Gaurav Khanna and Shraddha Arya's notable return to fiction television on Star Plus. The premiere episode explores a 20th wedding anniversary celebration filled with family warmth, heartfelt shayari, and relatable midlife reflections."
+        ]
+      }
+    ],
+    "facts": [
+      "Dil Ki Bewafaiyaan airs on Star Plus.",
+      "The story follows Manav and Janki celebrating their 20th wedding anniversary.",
+      "Gaurav Khanna and Shraddha Arya star in the lead roles.",
+      "Ektaa Kapoor is associated with the production style of the show.",
+      "The story was published on Tuesday, November 24, 2026."
+    ],
+    "entities": {
+      "people": [
+        "Gaurav Khanna",
+        "Shraddha Arya",
+        "Ektaa Kapoor",
+        "Manav",
+        "Janki"
+      ],
+      "titles": [
+        "Dil Ki Bewafaiyaan",
+        "Hum Saath-Saath Hain"
+      ]
+    },
+    "keywords": [
+      "Dil Ki Bewafaiyaan",
+      "Gaurav Khanna Dil Ki Bewafaiyaan",
+      "Shraddha Arya Star Plus",
+      "Dil Ki Bewafaiyaan review"
+    ],
+    "images": [
+      {
+        "url": "https://images.filmibeat.com/img/2026/11/dilkibewafaiyaanreview-37281795538427.jpg",
+        "caption": "Dil Ki Bewafaiyaan Review: Gaurav Khanna and Shraddha Arya Shine in Star Plus Family Drama",
+        "source": "FilmiBeat"
+      }
+    ],
+    "published": "Tue, 24 Nov 2026 22:14:03 +0530"
+  },
+  "hhtvgx": {
+    "id": "hhtvgx",
+    "type": "news",
+    "headline": "Mookuthi Amman 2 Box Office Closing Collection: Nayanthara Starrer Wraps Up Run With A 78% Deficit",
+    "dek": "Nayanthara's high-profile Tamil action fantasy thriller Mookuthi Amman 2 has officially concluded its theatrical journey with a disappointing box office result.",
+    "body": [
+      {
+        "h": "Theatrical Journey Concludes",
+        "p": [
+          "The theatrical run of Mookuthi Amman 2 has officially come to an end at the Indian box office. The film wrapped up its cinematic journey in a span lasting less than three weeks.",
+          "Carrying a notable budget, the feature failed to generate strong momentum upon arrival. It struggled to sustain viewer interest following its debut in early November."
+        ]
+      },
+      {
+        "h": "Opening Day and Earnings",
+        "p": [
+          "The Tamil action fantasy thriller opened its box office account with an initial collection of 1.88 crore on its first day. Unfortunately, this beginning lacked the strength to provide a solid cushion for the remainder of its run.",
+          "By the time the theatrical run concluded, the feature reached a total net collection of 21.54 crore domestically. This net figure translates to an approximate gross collection of 25.42 crore in India."
+        ]
+      },
+      {
+        "h": "Budget and Recovery Deficit",
+        "p": [
+          "Produced on a reported estimated budget of 100 crore, the project fell significantly short of its financial targets. With a net domestic haul of 21.54 crore, the film achieved a meager recovery rate of just 21.54 percent against its production costs.",
+          "This left the feature facing a staggering financial deficit of 78.46 crore, translating to a shortfall of 78.46 percent by the end of its theatrical tenure."
+        ]
+      },
+      {
+        "h": "Critical Reception and Word-of-Mouth",
+        "p": [
+          "Upon hitting the big screen, the project garnered mixed reviews from both professional critics and general ticket buyers. This lukewarm reception hindered the creation of any urgent demand among moviegoers.",
+          "Without positive word-of-mouth to propel it forward, the sequel faded quickly from public attention and concluded its exhibition run without making a substantial impact."
+        ]
+      },
+      {
+        "h": "Impact on Lead Star's Track Record",
+        "p": [
+          "The commercial outcome marks a challenging phase for its leading star, as the project registers as her fourth consecutive cinematic disappointment. Her previous recent appearances in Patriot, Toxic, and Hi also faced difficult runs.",
+          "Observers note that the outcome underscores how critical positive audience reception remains for high-investment sequels, even when backed by prominent star power."
+        ]
+      },
+      {
+        "h": "Final Box Office Verdict",
+        "p": [
+          "Based on standard evaluation metrics, the final financial ledger confirms a flop verdict for the release at the Indian box office. The combination of high expenditure and low returns cemented its status as one of the major commercial setbacks of the season."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Nayanthara's Mookuthi Amman 2 has wrapped up its brief theatrical run in India with a total net collection of 21.54 crore against a 100 crore budget. The Tamil action fantasy thriller finished with a 78 percent deficit and a flop verdict following mixed reviews from audiences."
+        ]
+      }
+    ],
+    "facts": [
+      "Mookuthi Amman 2 released on November 6, 2026.",
+      "The film was made on a reported budget of 100 crore.",
+      "Day 1 collection was 1.88 crore.",
+      "Total India net collection was 21.54 crore.",
+      "Total India gross collection was 25.42 crore.",
+      "Recovery rate was 21.54 percent.",
+      "Deficit was 78.46 crore or 78.46 percent.",
+      "It is Nayanthara's fourth consecutive failure after Patriot, Toxic, and Hi."
+    ],
+    "entities": {
+      "people": [
+        "Nayanthara"
+      ],
+      "titles": [
+        "Mookuthi Amman 2",
+        "Patriot",
+        "Toxic",
+        "Hi"
+      ]
+    },
+    "keywords": [
+      "Mookuthi Amman 2",
+      "Nayanthara Mookuthi Amman 2 box office",
+      "Mookuthi Amman 2 closing collection",
+      "Mookuthi Amman 2 budget and verdict"
+    ],
+    "images": [
+      {
+        "url": "https://www.koimoi.com/wp-content/new-galleries/2026/11/mookuthi-amman-2-box-office.jpg",
+        "caption": "Mookuthi Amman 2 Box Office Closing Collection: Nayanthara Starrer Wraps Up Run With A 78% Deficit",
+        "source": "Koimoi"
+      }
+    ],
+    "published": "Tue, 24 Nov 2026 17:13:02 +0000"
   }
 };
