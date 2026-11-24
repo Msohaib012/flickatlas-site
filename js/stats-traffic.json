@@ -1,8 +1,8 @@
 {
   "connected": true,
-  "generated": "2026-11-24T20:52:05Z",
+  "generated": "2026-11-24T22:02:28Z",
   "realtime": {
-    "active_users": 1
+    "active_users": 0
   },
   "today": {
     "users": 0,
@@ -11,9 +11,9 @@
     "avg_session_seconds": 0
   },
   "last7": {
-    "users": 2758,
-    "pageviews": 2689,
-    "sessions": 2759,
+    "users": 2760,
+    "pageviews": 2691,
+    "sessions": 2761,
     "avg_session_seconds": 5.2
   },
   "top_pages": [
@@ -43,15 +43,15 @@
     },
     {
       "path": "/movie",
-      "title": "Bhooth Bangla (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
-      "views": 4,
-      "avg_time_seconds": 7.5
+      "title": "Damned (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+      "views": 5,
+      "avg_time_seconds": 15.9
     },
     {
       "path": "/movie",
-      "title": "Damned (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+      "title": "Bhooth Bangla (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
       "views": 4,
-      "avg_time_seconds": 14.0
+      "avg_time_seconds": 7.5
     },
     {
       "path": "/movie",
@@ -82,8 +82,8 @@
     {
       "source": "(direct)",
       "medium": "(none)",
-      "sessions": 2612,
-      "users": 2614
+      "sessions": 2614,
+      "users": 2616
     },
     {
       "source": "(not set)",
@@ -109,7 +109,7 @@
     },
     {
       "country": "United States",
-      "users": 362
+      "users": 364
     },
     {
       "country": "Argentina",
@@ -143,7 +143,7 @@
   "devices": [
     {
       "device": "desktop",
-      "users": 2745
+      "users": 2747
     },
     {
       "device": "mobile",

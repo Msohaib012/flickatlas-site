@@ -240024,5 +240024,378 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "2026-11-24T20:51:55Z"
+  },
+  "1wilkt5": {
+    "id": "1wilkt5",
+    "type": "news",
+    "headline": "Ramayana: Part 1 Box Office Collection Continues Strong Run Toward Milestone",
+    "dek": "An in-depth analysis of Ramayana: Part 1 as the epic feature tracks its box office trajectory, examining regional earnings, occupancy trends, and total worldwide tallies.",
+    "body": [
+      {
+        "h": "Introduction to the Epic Box Office Journey",
+        "p": [
+          "The theatrical run of Ramayana: Part 1 has commanded significant attention across the entertainment industry as figures continue to accumulate. Trade analysts and box office trackers have closely monitored the feature's daily progression through its third week in cinemas.",
+          "With strong audience turnout across multiple language markets, the film has sustained a robust presence in theaters, prompting regular updates on its early estimates, occupancy percentages, and cumulative financial milestones."
+        ]
+      },
+      {
+        "h": "Opening Weekend Performance and Initial Momentum",
+        "p": [
+          "The theatrical journey began with a substantial opening day collection of ₹62.5 crore net across all languages, establishing a firm footing. The Hindi version contributed ₹45 crore, while Kannada, Telugu, Tamil, and Malayalam markets added healthy figures to the opening tally.",
+          "Momentum peaked early during the first week, highlighted by a massive ₹111.25 crore haul on the fifth day. By the end of the first eight-day week, the cumulative net collections had reached ₹564.75 crore, setting a high benchmark for the remainder of the run."
+        ]
+      },
+      {
+        "h": "Second Week Transition and Sustained Numbers",
+        "p": [
+          "As the feature entered its second week, daily collections naturally moderated from the opening weekend highs while maintaining steady numbers. Week two added a further ₹295.75 crore net to the domestic tally, demonstrating consistent viewer interest.",
+          "Regional contributions during this phase remained diverse, with the Hindi belt continuing to drive the majority of ticket sales while southern and regional circuits maintained steady baseline occupancies throughout the working week."
+        ]
+      },
+      {
+        "h": "Third Week Projections and Recent Earnings",
+        "p": [
+          "Entering the third week, the film recorded ₹16.5 crore net on day twenty, following fluctuations that included a notable ₹34 crore collection on day eighteen. Early tracking for day twenty-one points toward continued engagement as the title edges closer to completing three full weeks in release.",
+          "While exact final tallies for the completion of the twenty-first day remain subject to late evening updates, the preceding figures illustrate a resilient performance defying typical theatrical drop-off patterns."
+        ]
+      },
+      {
+        "h": "Hindi Version Occupancy Trends",
+        "p": [
+          "An analysis of the Hindi version's occupancy rates reveals distinct viewing patterns across morning, afternoon, and night shows. Peak days, such as the fifth day of release, saw overall occupancy surge to an impressive 67.5 percent.",
+          "Even during weekdays in subsequent weeks, night shows consistently attracted higher audience percentages compared to morning screenings, indicating strong word-of-mouth and preference for prime-time viewing slots among families."
+        ]
+      },
+      {
+        "h": "Domestic and International Totals",
+        "p": [
+          "Cumulatively, the total net collection within India stood at ₹963.75 crore up to the twentieth day of its run. When accounting for taxes and regional distributions, the approximate India gross reached ₹1137.25 crore.",
+          "On the international front, overseas markets added $58.5 million, translating to roughly ₹553 crore. Combined with domestic figures, the worldwide gross for Ramayana: Part 1 reached an estimated ₹1690.25 crore."
+        ]
+      },
+      {
+        "h": "Industry Standing and Commercial Verdict",
+        "p": [
+          "Based on its extraordinary financial performance across domestic and international territories, trade evaluators have assigned the film a definitive 'HIT' verdict. The multi-language release strategy proved effective in capturing diverse regional audiences.",
+          "While official producer statements may vary from independent estimates and industry reports, the scale of the box office accomplishment places the title among the notable commercial successes of its release period."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Ramayana: Part 1 continues its theatrical run with total domestic net collections reaching ₹963.75 crore and worldwide earnings touching ₹1690.25 crore by its twentieth day. The multi-language feature earned a commercial hit verdict backed by strong occupancy rates and substantial overseas contributions."
+        ]
+      }
+    ],
+    "facts": [
+      "Ramayana: Part 1 achieved a day 1 collection of ₹62.5 crore net across all languages.",
+      "Week 1 total collection reached ₹564.75 crore.",
+      "Week 2 total collection reached ₹295.75 crore.",
+      "Total India net collection till day 20 reached ₹963.75 crore.",
+      "India gross collection reached ₹1137.25 crore.",
+      "Overseas collection reached $58.5 million or approximately ₹553 crore.",
+      "Worldwide total collection reached ₹1690.25 crore.",
+      "The film received a HIT verdict."
+    ],
+    "entities": {
+      "people": [],
+      "titles": [
+        "Ramayana: Part 1"
+      ]
+    },
+    "keywords": [
+      "Ramayana Part 1 box office",
+      "Ramayana day 21 collection",
+      "Ramayana Part 1 collection total",
+      "Ramayana Hindi version occupancy"
+    ],
+    "images": [
+      {
+        "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjY4OAvzeCttiezc2M3XFZnzxYioIjU_gOJ0tahf9r1Rb84NnEtojY3k85pnCTF3C0T497P-nr1HcJzQq-OEkghaitg_8rYL45N1Jsd0gDOgDTWGRCBeAQSIoJlLQKsJzxQRpnIoJsvkXQ-w8TkPlrrSjwF3UEZ50M-LPCI2g1K2WBXvNTVUKYDV2lUAWM/w1600/ramayana-part-1-day-21-box-office-collection.jpg",
+        "caption": "Ramayana: Part 1 Box Office Collection Continues Strong Run Toward Milestone",
+        "source": "AddaToday"
+      }
+    ],
+    "published": "2026-11-25T01:36:38.477+05:30"
+  },
+  "1e4cq9b": {
+    "id": "1e4cq9b",
+    "type": "news",
+    "headline": "Why Red Rising Fans Are Speculating About Joseph Zada Joining the Upcoming Movie Adaptation",
+    "dek": "Author Pierce Brown following actor Joseph Zada on Instagram has sparked enthusiastic fan discussions about potential casting in the upcoming Red Rising movie directed by Francis Lawrence.",
+    "body": [
+      {
+        "h": "The Spark of Fan Speculation",
+        "p": [
+          "With a cinematic adaptation of Pierce Brown's popular science fiction book series officially in the works, readers are closely watching for any hints regarding casting choices. Excitement recently escalated across social media when eagle-eyed followers noticed that author Pierce Brown started following actor Joseph Zada on Instagram.",
+          "This simple social media activity immediately led to widespread speculation that Zada might be in talks to secure a role in the planned feature film. While no official announcements have been made confirming his involvement, the connection has given the community plenty of material to discuss."
+        ]
+      },
+      {
+        "h": "The Francis Lawrence Connection",
+        "p": [
+          "Adding fuel to the rumors is the involvement of filmmaker Francis Lawrence, who is attached to direct the Red Rising adaptation. Zada currently stars in Lawrence's recent movie project, making it entirely plausible that the director might consider actors he has previously collaborated with.",
+          "At the same time, observers note that Brown and Lawrence have maintained a personal and professional relationship for years. It is entirely possible that the author met Zada through the director and simply followed him online without any formal casting discussions taking place yet."
+        ]
+      },
+      {
+        "h": "Why Fans Envision Him as Cassius Bellona",
+        "p": [
+          "Among the various characters discussed by the community, Cassius Bellona has emerged as a clear favorite for Zada. In the source material, members of the Gold caste are renowned for their striking physical appearance, and fans quickly pointed out that Zada shares several of those traits.",
+          "Specifically, readers have highlighted his blond curls and handsome features as a strong match for the proud Bellona family member. Additionally, at a reported height of six feet two inches, he possesses the physical stature often associated with portraying a Gold on screen."
+        ]
+      },
+      {
+        "h": "Addressing Height and On-Screen Scale",
+        "p": [
+          "Translating the extreme height differences between the various castes in the book series will present a notable challenge for the filmmakers. Characters belonging to the Gold and Obsidian groups tower over normal humans, requiring clever camera techniques, forced perspective, or special effects.",
+          "While finding actors who naturally measure over seven feet tall is nearly impossible, casting tall performers like Zada provides a solid baseline. His height helps create an imposing presence on screen even if movie magic is ultimately required to achieve the full scale of the universe."
+        ]
+      },
+      {
+        "h": "Could He Play Darrow instead?",
+        "p": [
+          "Beyond Cassius, another prominent name frequently mentioned by followers for Zada is the protagonist, Darrow. Watching his performance as a resourceful young character in his recent project makes it easy for some readers to picture him stepping into the shoes of a lowRed seeking vengeance.",
+          "The protagonist undergoes a massive emotional and physical transformation throughout the opening installment of the series. Zada's acting range could theoretically support the complex narrative arc required to bring the iconic hero to life."
+        ]
+      },
+      {
+        "h": "Exploring Other Potential Roles",
+        "p": [
+          "Other characters have also been tossed around in fan discussions, though with varying degrees of plausibility. Characters like Pax Telemanus require a much larger physical build akin to a bear, making them an unlikely fit, whereas Roque au Fabii presents an intriguing option for a more thoughtful persona.",
+          "Some commentators have even pondered whether he could tackle a darker antagonist like The Jackal. Although that specific role has limited screen time in the beginning, it offers a deeply memorable narrative arc for an ambitious actor."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Speculation has grown regarding Joseph Zada potentially joining the upcoming Red Rising movie after author Pierce Brown followed the actor on Instagram. Director Francis Lawrence is attached to helm the adaptation, and while nothing has been officially confirmed, fans are actively debating which character Zada might portray if he joins the cast."
+        ]
+      }
+    ],
+    "facts": [
+      "Pierce Brown followed Joseph Zada on Instagram.",
+      "Francis Lawrence is directing the Red Rising movie.",
+      "Joseph Zada stars in Francis Lawrence's most recent movie adaptation.",
+      "Joseph Zada is listed on IMDB as standing 6'2\"."
+    ],
+    "entities": {
+      "people": [
+        "Joseph Zada",
+        "Pierce Brown",
+        "Francis Lawrence"
+      ],
+      "titles": [
+        "Red Rising"
+      ]
+    },
+    "keywords": [
+      "Red Rising movie",
+      "Joseph Zada Red Rising",
+      "Pierce Brown Joseph Zada",
+      "Francis Lawrence Red Rising"
+    ],
+    "images": [
+      {
+        "url": "https://cdn.mos.cms.futurecdn.net/CDnbFrsnswQCxic77k8rxQ-2000-80.jpg",
+        "caption": "Why Red Rising Fans Are Speculating About Joseph Zada Joining the Upcoming Movie Adaptation",
+        "source": "CinemaBlend"
+      }
+    ],
+    "published": "Tue, 24 Nov 2026 21:31:00 +0000"
+  },
+  "m1wl3e": {
+    "id": "m1wl3e",
+    "type": "news",
+    "headline": "Ariana Grande Brings The Eternal Sunshine Tour And Documentary To Peacock",
+    "dek": "Fans are thrilled and surprised as Ariana Grande announces a two-part streaming event on Peacock, featuring her recent tour and a behind-the-scenes documentary.",
+    "body": [
+      {
+        "h": "The Surprise Streaming Announcement",
+        "p": [
+          "Pop star and actress Ariana Grande has shocked her fanbase by announcing that her recent concert run is heading straight to home screens. Despite earlier statements indicating she would take a step back from the spotlight, the massive pop star is bringing her concert experience to streaming.",
+          "The surprise drop includes two distinct specials that will air consecutively next month. Viewers will get an intimate look at both the final stage performances and the grueling preparations that went into making the live show happen."
+        ]
+      },
+      {
+        "h": "A Two-Part Special Event",
+        "p": [
+          "The streaming event is split into two unique releases for subscribers. First up is the documentary titled The eternal sunshine diaries: the making of the tour, which is scheduled to premiere on Friday, December 11.",
+          "Immediately following the documentary release, the actual concert film titled the eternal sunshine tour will debut on Saturday, December 12. This back-to-back rollout gives supporters a comprehensive look at the entire musical era."
+        ]
+      },
+      {
+        "h": "Behind the Scenes of the Tour",
+        "p": [
+          "The companion documentary takes audiences back to the critical 30-day window leading up to the opening night of the sold-out concert series. It captures high-stress moments and creative breakthroughs during a pivotal period for the performer.",
+          "During this same intensive timeframe, the singer was also wrapping up work on her latest studio album titled Petal. That record officially dropped on July 31, adding even more weight to an already historic era for her music career."
+        ]
+      },
+      {
+        "h": "Background and Prior Plans",
+        "p": [
+          "The surprise streaming news comes on the heels of a massive 41-date concert itinerary that marked her return to the stage after a seven-year break from touring. The live shows captivated audiences across multiple cities.",
+          "Initially, the performer was slated to follow up the concert series with a West End theatrical run alongside co-star Jonathan Bailey. However, those plans shifted when her representatives confirmed she would step back from public visibility following the tour."
+        ]
+      },
+      {
+        "h": "Fan Reactions and Demands",
+        "p": [
+          "Social media erupted with excitement once the streaming details became public, with many followers expressing sheer disbelief over the unexpected holiday treat. Comments flooded official pages as supporters celebrated the chance to relive their favorite concert memories.",
+          "Despite the overwhelming joy, a segment of the fanbase voiced frustration that the project is exclusive to Peacock, a platform primarily available in the United States. Many international followers expressed disappointment over missing out on regional availability."
+        ]
+      },
+      {
+        "h": "Calls for a Theatrical Release",
+        "p": [
+          "Alongside regional accessibility concerns, numerous supporters took to comment sections to lobby for a cinematic release. Many argued that a concert event of this magnitude deserves the big-screen treatment for those who could not secure live tickets.",
+          "Even though followers flooded posts with requests to put the film in cinemas, the streaming platform does not typically theatricalize its original content. Fans eager to see her on the big screen will instead have to catch her upcoming feature film work."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Ariana Grande is bringing her recent concert run and a companion documentary to Peacock in a two-part event next month. The release includes the making-of documentary on Friday, December 11, followed by the concert special on Saturday, December 12."
+        ]
+      }
+    ],
+    "facts": [
+      "Ariana Grande completed a 41-date tour.",
+      "The album Petal was released on July 31.",
+      "The documentary The eternal sunshine diaries: the making of the tour premieres on Friday, December 11.",
+      "The concert special the eternal sunshine tour premieres on Saturday, December 12."
+    ],
+    "entities": {
+      "people": [
+        "Ariana Grande",
+        "Jonathan Bailey",
+        "Robert De Niro"
+      ],
+      "titles": [
+        "Eternal Sunshine Tour",
+        "The eternal sunshine diaries: the making of the tour",
+        "the eternal sunshine tour",
+        "Petal",
+        "Focker-In-Law",
+        "Meet The Parents",
+        "Sunday in the Park With George",
+        "American Horror Story"
+      ]
+    },
+    "keywords": [
+      "Ariana Grande Eternal Sunshine Tour",
+      "Peacock streaming concert special",
+      "the making of the tour documentary",
+      "Ariana Grande Petal album"
+    ],
+    "images": [
+      {
+        "url": "https://cdn.mos.cms.futurecdn.net/gizz3GGShKPipznYk6Pqc5-2000-80.png",
+        "caption": "Ariana Grande Brings The Eternal Sunshine Tour And Documentary To Peacock",
+        "source": "CinemaBlend"
+      }
+    ],
+    "published": "Tue, 24 Nov 2026 20:38:11 +0000"
+  },
+  "lanhbk": {
+    "id": "lanhbk",
+    "type": "news",
+    "headline": "The Voice Honors Late Country Icon Dolly Parton With Emotional Top 10 Tribute Night",
+    "dek": "NBC singing competition's Top 10 delivered emotional duets honoring Dolly Parton, featuring cross-team pairings and a surprising personal connection from Dollywood employees.",
+    "body": [
+      {
+        "h": "A Special Tribute to a Country Music Legend",
+        "p": [
+          "The recent episode of NBC's long-running singing competition delivered a deeply anticipated tribute night dedicated to the late country music icon Dolly Parton. As part of the current television schedule, the competition brought its Top 10 contestants together to craft special duets highlighting the legendary artist's greatest musical hits.",
+          "The atmosphere throughout the hour was charged with both entertainment and raw emotion. Because the pairings crossed boundaries between different teams, coaches were given the unique opportunity to collaborate directly during rehearsals for the first time this season."
+        ]
+      },
+      {
+        "h": "Kicking Off With Energy and Emotion",
+        "p": [
+          "All of the evening's performances carried an extra layer of weight, driven by the clear desire of both coaches and contestants to pay proper homage to Dolly Parton. The show opened with a grand group performance of the classic anthem \"9 to 5,\" complete with a full troupe of backing dancers to set the tone.",
+          "Following the opening number, BigCountry from Team Queen and Dakota Cohen from Team Adam launched the competitive segment with a high-energy, rock-infused rendition of \"Jolene.\" This explosive pairing blended country and rock elements with distinct personality, providing a jolt of momentum that carried through the rest of the night."
+        ]
+      },
+      {
+        "h": "Tackling an Iconic Showstopper",
+        "p": [
+          "Perhaps the most anticipated moment of the evening involved Connor Closs from Team Adam and Brianna Cameron from Team Kelly taking on the monumental track \"I Will Always Love You.\" Taking on such a massive ballad is a daunting prospect for any vocalist, let alone a male competitor paired alongside a 14-year-old singer.",
+          "Despite the high stakes, the duo blended their vocal talents seamlessly, supporting one another to reach soaring new heights. The performance easily stood out as the showstopper of the night, instantly positioning Brianna Cameron as a formidable contender to take home the entire competition."
+        ]
+      },
+      {
+        "h": "A Surprising Personal Connection from Dollywood",
+        "p": [
+          "While the powerhouse ballad stole much of the spotlight, other pairings offered equally memorable moments. Ferryn Brinkley from Team Riley and Kyle Davis from Team Kelly teamed up to perform \"Islands in the Stream,\" establishing a charming father-daughter dynamic between the 61-year-old dad and singers close to his own daughters' ages.",
+          "The performance took an extraordinary turn with the reveal that Ferryn Brinkley work full-time at Dollywood, the amusement park owned by Dolly Parton herself. The broadcast even featured special footage of Ferryn sharing the stage with the legendary icon, adding a deeply personal layer to the tribute."
+        ]
+      },
+      {
+        "h": "Star Power and Future Prospects",
+        "p": [
+          "Since their initial appearance during the Blind Auditions, Ferryn Brinkley have proven themselves to be exceptionally marketable competitors. Their natural talent and engaging personalities suggest they possess the potential to follow in the footsteps of other country stars who have successfully transitioned into film and television.",
+          "As the competition edges closer to crowning its ultimate winner and coach, eliminations become increasingly difficult to watch. However, many observers feel confident that several of these talented performers have bright entertainment careers waiting for them well beyond the conclusion of the current season."
+        ]
+      },
+      {
+        "h": "Remembering Past Appearances and Season Timeline",
+        "p": [
+          "Though some viewers noted a slight reduction in coach banter and lighthearted shenanigans during the Live Shows compared to earlier in the season, the focus remained firmly on celebrating great music. Flashbacks and memories of Dolly Parton's own sassy appearances on the program served as a wonderful reminder of her vibrant spirit.",
+          "The milestone season of the series continues to air on Mondays on NBC, leading up to a two-hour season finale scheduled for December 14th when the winner will finally be crowned. Fans can also catch episodes the following day via streaming on Peacock."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "The Voice recently dedicated an emotional tribute night to the late Dolly Parton featuring cross-team duets from the Top 10 contestants. Highlights included energetic performances of \"Jolene,\" a showstopping rendition of \"I Will Always Love You,\" and a heartwarming connection from contestants who work full-time at Dollywood.",
+          "The season will continue broadcasting on NBC ahead of its two-hour finale on December 14th, with next-day streaming available on Peacock."
+        ]
+      }
+    ],
+    "facts": [
+      "The Voice is currently airing on the 2026 TV schedule.",
+      "The Top 10 contestants performed duets of hits by the late country icon Dolly Parton.",
+      "BigCountry is on Team Queen.",
+      "Dakota Cohen is on Team Adam.",
+      "Connor Closs is on Team Adam.",
+      "Brianna Cameron is on Team Kelly and is 14 years old.",
+      "Ferryn Brinkley is on Team Riley.",
+      "Kyle Davis is on Team Kelly and is a 61-year-old dad.",
+      "Ferryn Brinkley work full-time at Dollywood.",
+      "The Season 30 two-hour finale will air on December 14th."
+    ],
+    "entities": {
+      "people": [
+        "Dolly Parton",
+        "BigCountry",
+        "Dakota Cohen",
+        "Connor Closs",
+        "Brianna Cameron",
+        "Ferryn Brinkley",
+        "Kyle Davis"
+      ],
+      "titles": [
+        "The Voice",
+        "9 to 5",
+        "Jolene",
+        "I Will Always Love You",
+        "Islands in the Stream"
+      ]
+    },
+    "keywords": [
+      "The Voice Dolly Parton tribute",
+      "Ferryn Brinkley Dollywood",
+      "Connor Closs Brianna Cameron The Voice",
+      "The Voice Season 30 December 14"
+    ],
+    "images": [
+      {
+        "url": "https://cdn.mos.cms.futurecdn.net/aMkLtLM3RaGubVjRsBV8KE-2000-80.jpg",
+        "caption": "The Voice Honors Late Country Icon Dolly Parton With Emotional Top 10 Tribute Night",
+        "source": "CinemaBlend"
+      }
+    ],
+    "published": "Tue, 24 Nov 2026 19:57:56 +0000"
   }
 };
