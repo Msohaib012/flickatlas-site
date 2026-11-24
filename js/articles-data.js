@@ -237092,5 +237092,413 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "2026-11-24T08:48:04+05:30"
+  },
+  "13bfbkg": {
+    "id": "13bfbkg",
+    "type": "news",
+    "headline": "Iranian Singer Parastoo Ahmadi Receives 74 Lashes Following Unveiled Concert Performance",
+    "dek": "Artist Parastoo Ahmadi and members of her production team face severe court-ordered punishment after publishing a performance video filmed at a historic Iranian site without wearing a hijab.",
+    "body": [
+      {
+        "h": "International Focus on Court-Ordered Punishment",
+        "p": [
+          "Iranian artist Parastoo Ahmadi has drawn worldwide attention after facing a judicial sentence of 74 lashes administered by authorities in Iran. The legal penalty stems from a musical performance where she appeared without wearing the mandated hijab.",
+          "The twenty-nine-year-old singer alongside four members of her production crew underwent the sentence following a protracted legal battle. The case originated after the publication of a performance recording on YouTube late in the year 2024."
+        ]
+      },
+      {
+        "h": "Background and Early Musical Journey",
+        "p": [
+          "Ahmadi pursued education in film direction at Soureh International University while developing a deep passion for music during her teenage years. She began studying classical and folk vocal techniques starting around the age of fourteen.",
+          "Beyond her standard musical pursuits, she frequently associated her voice with social causes and advocacy for women's rights. Her artistic output often intersected with broader cultural movements inside the country."
+        ]
+      },
+      {
+        "h": "Protest Songs and Prior Scrutiny",
+        "p": [
+          "During the widespread demonstrations following the death of Mahsa Amini, Ahmadi performed a notable track titled From the Blood of the Youth of the Homeland. The piece gained significant traction amidst the ongoing public protests.",
+          "She later released another song called The Air of Freedom, which was written by Fatemeh Dogoharani and dedicated to the Woman, Life, Freedom movement. These politically charged releases eventually brought her under close judicial scrutiny and resulted in legal restrictions."
+        ]
+      },
+      {
+        "h": "The Controversial Caravanserai Performance",
+        "p": [
+          "In December 2024, Ahmadi released a video recording captured at the historic Dayr-e Gachin Caravanserai in Iran. Unlike traditional indoor concerts, the session took place without a live public audience present.",
+          "Accompanied by male musicians, she sang several Persian songs while wearing a sleeveless gown and appearing without a hijab. The video quickly gathered millions of views across social media platforms before triggering a direct response from local authorities."
+        ]
+      },
+      {
+        "h": "Judicial Proceedings and Appeals",
+        "p": [
+          "Following initial arrests in December 2024 and a brief release, legal proceedings against the organizers pressed forward. An Iranian criminal court formally convicted Ahmadi and eight other individuals on charges related to offending public decency.",
+          "The initial ruling mandated 74 lashes for each defendant alongside two-year bans on travel and artistic participation. Although legal teams challenged the decision, an appeals court upheld the verdict, and the sentence enforcement unit in Qom carried out the punishment."
+        ]
+      },
+      {
+        "h": "Global Response and Cultural Significance",
+        "p": [
+          "The enforcement of the harsh sentence has reignited global discussions regarding restrictions on women's public performances in Iran. Human rights organizations heavily criticized the judicial actions taken against the artist and her team.",
+          "The case highlights the ongoing friction between strict religious regulations and artists seeking to express themselves through public or digital mediums within the region."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Iranian singer Parastoo Ahmadi and members of her production team received 74 lashes after an appeals court upheld their conviction over a 2024 YouTube performance filmed without a hijab. The ruling and subsequent punishment have drawn intense international scrutiny concerning artistic freedom and mandatory dress regulations in Iran."
+        ]
+      }
+    ],
+    "facts": [
+      "Parastoo Ahmadi is 29 years old.",
+      "The performance video was published on YouTube in December 2024.",
+      "The punishment of 74 lashes was carried out on November 23, 2026.",
+      "The performance took place at the historic Dayr-e Gachin Caravanserai.",
+      "Fatemeh Dogoharani wrote the song titled The Air of Freedom.",
+      "Lawyer Mostafa Nili reported on the sentence enforcement."
+    ],
+    "entities": {
+      "people": [
+        "Parastoo Ahmadi",
+        "Mahsa Amini",
+        "Fatemeh Dogoharani",
+        "Mostafa Nili"
+      ],
+      "titles": [
+        "From the Blood of the Youth of the Homeland",
+        "The Air of Freedom"
+      ]
+    },
+    "keywords": [
+      "Parastoo Ahmadi",
+      "Iranian singer 74 lashes",
+      "Caravanserai concert video",
+      "Parastoo Ahmadi hijab controversy"
+    ],
+    "images": [
+      {
+        "url": "https://images.filmibeat.com/img/2026/11/parastooahmadi-97041795516412.jpg",
+        "caption": "Iranian Singer Parastoo Ahmadi Receives 74 Lashes Following Unveiled Concert Performance",
+        "source": "FilmiBeat"
+      }
+    ],
+    "published": "Tue, 24 Nov 2026 16:06:03 +0530"
+  },
+  "434whb": {
+    "id": "434whb",
+    "type": "news",
+    "headline": "Bookish Christmas Special Sets December Premiere Date",
+    "dek": "The beloved Mark Gatiss series returns for its first-ever festive special, titled The Crown of Destiny, airing on U Alibi.",
+    "body": [
+      {
+        "h": "Festive Release Date Confirmed",
+        "p": [
+          "Viewers looking forward to holiday programming have received a major update regarding the popular television series. The show is officially returning to television screens to bring festive entertainment to audiences.",
+          "The upcoming holiday presentation will consist of two parts broadcast consecutively, ensuring fans get an extended dose of drama."
+        ]
+      },
+      {
+        "h": "Air Time and Network Details",
+        "p": [
+          "The special is scheduled to be broadcast on Wednesday 16 December. The first part will begin at 8pm, followed immediately by the second part at 9:10pm.",
+          "Fans will be able to tune into the network U Alibi to catch both halves of the special back to back."
+        ]
+      },
+      {
+        "h": "Plot and Mystery on Archangel Lane",
+        "p": [
+          "The storyline takes place during the Christmas season in Archangel Lane, where characters Book and Trottie anticipate a peaceful holiday period. However, those plans are upended when a past rival of Book arrives at the shop and collapses on the carpet.",
+          "With a dying breath, the visitor delivers a cryptic warning before leaving behind three Roman coins that lead the team into a treasure hunt around the British Museum."
+        ]
+      },
+      {
+        "h": "High Stakes and a Race Against Time",
+        "p": [
+          "The investigation takes a dangerous turn when an unidentified enemy decides to kidnap Trottie. This leaves Book and the rest of the group with a strict 24-hour window to solve the museum mystery and rescue her.",
+          "The narrative combines classic treasure-hunt tropes with urgent high-stakes drama right in the heart of London."
+        ]
+      },
+      {
+        "h": "Origins in an Unmade Doctor Who Script",
+        "p": [
+          "The festive special draws its creative roots from an abandoned television script written by series creator Mark Gatiss. Originally conceptualized as an Indiana Jones-inspired story during a previous era of Doctor Who, the earlier project was ultimately replaced on television schedules.",
+          "While most of the original concept underwent extensive rewriting, elements of the original spirit remain intact within this new holiday narrative."
+        ]
+      },
+      {
+        "h": "Guest Cast and Returning Characters",
+        "p": [
+          "Audiences can expect several notable guest performers to join the upcoming episodes. The lineup includes Paul Kaye portraying Dr Fetch, Michael Smiley taking on the role of Cruikshank, and Shobna Gulati appearing as Miss Seth.",
+          "In addition to the holiday special, a full third season has already received confirmation, bringing back familiar faces while leaving out characters who departed during the second season."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "The beloved television series is officially returning with its first holiday special, titled The Crown of Destiny, which will air in two parts on U Alibi on 16 December. The storyline follows Book and Trottie as they navigate a dangerous museum mystery to rescue a kidnapped friend within twenty-four hours, based partly on unproduced writing by creator Mark Gatiss."
+        ]
+      }
+    ],
+    "facts": [
+      "The Bookish Christmas special is titled The Crown of Destiny.",
+      "The two parts air on Wednesday 16 December at 8pm and 9:10pm on U Alibi.",
+      "The script is a rewrite of Mark Gatiss's unmade Doctor Who episode The Suicide Exhibition.",
+      "Guest stars include Paul Kaye as Dr Fetch, Michael Smiley as Cruikshank, and Shobna Gulati as Miss Seth.",
+      "A full third season of Bookish has been confirmed following the special."
+    ],
+    "entities": {
+      "people": [
+        "James Hibbs",
+        "Mark Gatiss",
+        "Paul Kaye",
+        "Michael Smiley",
+        "Shobna Gulati",
+        "Polly Walker",
+        "Elliot Levey",
+        "Blake Harrison",
+        "Buket Kömür",
+        "Connor Finch",
+        "Simon Callow"
+      ],
+      "titles": [
+        "Bookish",
+        "The Crown of Destiny",
+        "Doctor Who",
+        "The Suicide Exhibition",
+        "The Fires of Pompeii",
+        "Small Prophets",
+        "Blue Lights",
+        "Hullraisers"
+      ]
+    },
+    "keywords": [
+      "Bookish Christmas special",
+      "Mark Gatiss Bookish",
+      "The Crown of Destiny release date",
+      "Bookish U Alibi"
+    ],
+    "images": [
+      {
+        "url": "https://images.production.immediate.co.uk/volatile/sites/3/2026/11/0193BOOKISHXMASSS030826-15b8d44.jpg?resize=1200%2C630",
+        "caption": "Bookish Christmas Special Sets December Premiere Date",
+        "source": "Radio Times"
+      }
+    ],
+    "published": "Tue, 24 Nov 2026 09:44:03 GMT"
+  },
+  "36eeaf": {
+    "id": "36eeaf",
+    "type": "news",
+    "headline": "Anupam Kher Features in Devotional Track Ram Bhakt Hanuman Celebrating Everyday Acts of Kindness",
+    "dek": "Varun Gupta's Max Studios has released a new Hindi original devotional track titled Ram Bhakt Hanuman, featuring veteran actor Anupam Kher and sung by Tanay Mimani.",
+    "body": [
+      {
+        "h": "Introduction to Ram Bhakt Hanuman",
+        "p": [
+          "A brand new Hindi original devotional track titled Ram Bhakt Hanuman has been released by Varun Gupta's Max Studios. The musical project brings together faith, storytelling, and music to celebrate the concept of goodness in daily life.",
+          "The track features veteran actor Anupam Kher and aims to resonate with listeners by exploring how the spirit of Lord Hanuman can be reflected through simple acts of compassion, kindness, and selflessness."
+        ]
+      },
+      {
+        "h": "Concept and Visuals of the Track",
+        "p": [
+          "Rooted in the fundamental belief that the divine is omnipresent, the music video predominantly features Anupam Kher sitting in a car and observing the public around him.",
+          "The visual narrative highlights people from diverse demographics, including young children, GenZ individuals, new parents, elderly citizens, and delivery workers, performing good deeds for others."
+        ]
+      },
+      {
+        "h": "Musical Composition and Length",
+        "p": [
+          "The devotional track is a lengthy piece, clocking in at seven minutes. It has been entirely sung, written, and composed by Tanay Mimani.",
+          "Despite its slow tempo, the song is designed to leave the audience with an emotional heart and goosebumps, invoking a deep feeling of devotion towards the Hindu deity."
+        ]
+      },
+      {
+        "h": "Anupam Kher's Perspective on the Project",
+        "p": [
+          "Actor Anupam Kher expressed that his recent professional choices are centered around themes of goodness, faith, and truthfulness. When the concept was first pitched to him, it created an instant connection.",
+          "Kher praised the contributions of Tanay Mimani, noting that the soothing voice, meaningful lyrics, and heartfelt composition added the exact right emotions to the overall project."
+        ]
+      },
+      {
+        "h": "Behind the Scenes and Creators",
+        "p": [
+          "The project serves as a musical tribute to faith and goodness, with Varun Gupta wearing multiple hats as the producer, writer, and director of the music video.",
+          "In addition to his appearance in this devotional track, Anupam Kher has also been in the media spotlight for his upcoming acting ventures, including playing Jatayu in Ramayan and taking on a pivotal role in Yeh Prem Mol Liya."
+        ]
+      },
+      {
+        "h": "Availability Across Platforms",
+        "p": [
+          "Fans and enthusiasts looking to experience the emotional journey of the song can watch the official video currently streaming on YouTube.",
+          "Furthermore, the standalone audio version of Ram Bhakt Hanuman has been made available across all major digital music streaming platforms."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Max Studios has unveiled the Hindi original devotional track Ram Bhakt Hanuman, featuring veteran actor Anupam Kher and created by Tanay Mimani and Varun Gupta. The slow-paced song showcases everyday acts of kindness to evoke a deep sense of devotion and is currently available on YouTube and streaming platforms."
+        ]
+      }
+    ],
+    "facts": [
+      "The song is titled Ram Bhakt Hanuman.",
+      "The track features actor Anupam Kher.",
+      "The song is sung, written, and composed by Tanay Mimani.",
+      "The project is produced, written, and directed by Varun Gupta under Max Studios.",
+      "The track has a runtime of 7 minutes."
+    ],
+    "entities": {
+      "people": [
+        "Anupam Kher",
+        "Tanay Mimani",
+        "Varun Gupta"
+      ],
+      "titles": [
+        "Ram Bhakt Hanuman",
+        "Ramayan",
+        "Yeh Prem Mol Liya"
+      ]
+    },
+    "keywords": [
+      "Ram Bhakt Hanuman",
+      "Anupam Kher Ram Bhakt Hanuman",
+      "Tanay Mimani song",
+      "Varun Gupta Max Studios"
+    ],
+    "images": [
+      {
+        "url": "https://cdn.bollywoodbubble.com/wp-content/uploads/2026/11/Tanay-Mimanis-devotional-track-Ram-Bhakt-Hanuman-ft-Anupam-Kher-Out.webp",
+        "caption": "Anupam Kher Features in Devotional Track Ram Bhakt Hanuman Celebrating Everyday Acts of Kindness",
+        "source": "Bollywood Bubble"
+      }
+    ],
+    "published": "Tue, 24 Nov 2026 10:40:05 +0000"
+  },
+  "mbtful": {
+    "id": "mbtful",
+    "type": "news",
+    "headline": "Avengers: Doomsday Smashes India Advance Booking Records with Rs 50 Crore and 8 Lakh Tickets Sold",
+    "dek": "Marvel's upcoming tentpole Avengers: Doomsday has crossed Rs 50 crore in Indian pre-sales with 23 days left for release, outpacing major blockbusters like Ramayana and Dhurandhar 2.",
+    "body": [
+      {
+        "h": "Record-Breaking Pre-Sales in India",
+        "p": [
+          "Marvel's highly anticipated film Avengers: Doomsday has emerged as a box-office phenomenon in India well ahead of its theatrical debut. With over three weeks remaining before its premiere, the Hollywood tentpole has surpassed the Rs 50-crore milestone in total advance bookings across the country.",
+          "Trade tracker Sacnilk reported that the massive pre-sales figure was crossed by Tuesday morning, November 24. Out of this total tally, the opening-day pre-sales alone have contributed approximately Rs 22 crore to the collection."
+        ]
+      },
+      {
+        "h": "Outpacing Major Competitors",
+        "p": [
+          "What makes this milestone particularly striking is the timeline in which it was achieved. Avengers: Doomsday has comfortably outpaced prominent Indian blockbusters such as Ramayana and Dhurandhar 2 at the exact same stage of pre-release window.",
+          "While major domestic releases typically cross the Rs 50-crore advance booking threshold only during the final week leading up to their premieres, the Marvel film accomplished the feat with more than three weeks to spare, demonstrating unprecedented demand in a market traditionally dominated by local cinema."
+        ]
+      },
+      {
+        "h": "Rapid Ticket Velocity and Sustained Demand",
+        "p": [
+          "The film crossed 8 lakh tickets sold across India following the opening of advance bookings by Marvel Studios on November 17. The momentum has shown no signs of slowing down, with nearly Rs 20 crore added to the advance-booking tally in the last five days alone.",
+          "To cope with the overwhelming audience turnout, several cinemas across the nation have introduced round-the-clock screenings. Furthermore, midnight shows designated for the opening day were completely sold out within hours of going live on booking platforms."
+        ]
+      },
+      {
+        "h": "Comparison with Past Milestones",
+        "p": [
+          "The current trajectory positions Avengers: Doomsday to potentially establish a brand new benchmark for Hollywood pre-sales in India. Earlier in the year, Spider-Man: Brand New Day collected around Rs 25 crore through its opening-day pre-sales, a figure Doomsday has nearly matched for its first day alone with weeks of growth remaining.",
+          "While Allu Arjun's Pushpa 2: The Rule continues to hold the record for the highest opening-day advance booking collection in India with roughly Rs 91 crore in 2024, the Marvel epic maintains ample time to narrow that gap."
+        ]
+      },
+      {
+        "h": "Star-Studded Ensemble and Plot Context",
+        "p": [
+          "The intense excitement surrounding the project is largely driven by the return of the Avengers brand following the historic global success of Avengers: Endgame in 2019. The latest instalment unites an enormous ensemble of characters from across the Marvel Cinematic Universe.",
+          "Directed by Anthony and Joe Russo, the film features a massive cast including Robert Downey Jr., Chris Evans, Chris Hemsworth, Pedro Pascal, Paul Rudd, and many others. In the movie, heroes from three distinct universes collide to face Doctor Doom, an existential threat that also marks Robert Downey Jr.'s return to the franchise as a villain."
+        ]
+      },
+      {
+        "h": "Upcoming Release and Box-Office Clash",
+        "p": [
+          "Avengers: Doomsday is scheduled to hit Indian theatres on December 17, arriving a day ahead of its international release on December 18. Its arrival will coincide with the third instalment of Warner Bros' Dune franchise, creating a highly anticipated box-office showdown dubbed 'Dunesday'.",
+          "With Rs 50 crore already secured through advance reservations and 23 days left before it lands in cinemas, the primary question remaining is how much higher the pre-release figures can climb before opening day."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Avengers: Doomsday has crossed Rs 50 crore in Indian advance bookings with 8 lakh tickets sold, outperforming the pre-sale timelines of Ramayana and Dhurandhar 2. Directed by Anthony and Joe Russo and starring an expansive ensemble, the film is set for release on December 17 ahead of its global debut."
+        ]
+      }
+    ],
+    "facts": [
+      "Avengers: Doomsday crossed Rs 50 crore in Indian advance bookings.",
+      "The film has sold more than 8 lakh tickets in India.",
+      "Advance bookings opened on November 17.",
+      "Opening-day pre-sales contributed approximately Rs 22 crore.",
+      "The film releases in India on December 17, 2026, and internationally on December 18, 2026.",
+      "Spider-Man: Brand New Day collected around Rs 25 crore in opening-day pre-sales.",
+      "Pushpa 2: The Rule holds the record with around Rs 91 crore in opening-day pre-sales in 2024.",
+      "Avengers: Endgame was released in 2019."
+    ],
+    "entities": {
+      "people": [
+        "Anthony Russo",
+        "Joe Russo",
+        "Robert Downey Jr.",
+        "Chris Evans",
+        "Chris Hemsworth",
+        "Pedro Pascal",
+        "Paul Rudd",
+        "Anthony Mackie",
+        "Florence Pugh",
+        "Vanessa Kirby",
+        "Ebon Moss-Bachrach",
+        "Wyatt Russell",
+        "Channing Tatum",
+        "Simu Liu",
+        "Ian McKellen",
+        "Hayley Atwell",
+        "Tom Hiddleston",
+        "James Marsden",
+        "Patrick Stewart",
+        "Joseph Quinn",
+        "Sebastian Stan",
+        "David Harbour",
+        "Letitia Wright",
+        "Lewis Pullman",
+        "Kelsey Grammer",
+        "Kathryn Newton",
+        "Danny Ramirez",
+        "Winston Duke",
+        "Alan Cumming",
+        "Hannah John-Kamen",
+        "Rebecca Romijn",
+        "Mabel Cadena",
+        "Tenoch Huerta Mejia",
+        "Allu Arjun"
+      ],
+      "titles": [
+        "Avengers: Doomsday",
+        "Dhurandhar 2",
+        "Ramayana",
+        "Avengers: Endgame",
+        "Spider-Man: Brand New Day",
+        "Pushpa 2: The Rule",
+        "Dune"
+      ]
+    },
+    "keywords": [
+      "Avengers Doomsday",
+      "Avengers Doomsday advance booking",
+      "Avengers Doomsday India box office",
+      "Avengers Doomsday tickets"
+    ],
+    "images": [
+      {
+        "url": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202611/avengers-doomsday-beats-ramayana-244811415-16x9_0.jpg?VersionId=LHadNO0DzADjRQP8JP_GiUrXI72vc4Ar",
+        "caption": "Avengers: Doomsday Smashes India Advance Booking Records with Rs 50 Crore and 8 Lakh Tickets Sold",
+        "source": "India Today — Movies"
+      }
+    ],
+    "published": "Tue, 24 Nov 2026 15:19:34 +0530"
   }
 };
