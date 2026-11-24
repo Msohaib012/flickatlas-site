@@ -236697,5 +236697,400 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Tue, 24 Nov 2026 08:00:00 +0000"
+  },
+  "i1lrf9": {
+    "id": "i1lrf9",
+    "type": "news",
+    "headline": "The Social Network Sequel The Social Reckoning Arrives on Digital After Short Theatrical Run",
+    "dek": "Sony Pictures Entertainment brings The Social Network companion film to digital platforms following a brief three-week theatrical exhibition.",
+    "body": [
+      {
+        "h": "Digital Premiere Details",
+        "p": [
+          "Sony Pictures Entertainment has brought its recent dramatic release to digital platforms following a brief exhibition in cinemas. Fans can now access the feature on services such as Apple TV, Fandango at Home, and Prime Video.",
+          "The home viewing rollout includes options for both purchase and rental. Viewers looking to buy the title outright can do so for $19.99, while a 48-hour rental is priced at $14.99."
+        ]
+      },
+      {
+        "h": "Theatrical Journey and Box Office Struggles",
+        "p": [
+          "The companion project to the 2010 acclaimed hit faced severe headwinds during its time on the big screen. After opening in early October across North America, the R-rated drama experienced a steep 72 percent drop in box office revenue during its second weekend.",
+          "Due to rapidly declining attendance, the studio pulled the feature from theaters entirely after just three weeks on October 30. Its total earnings finished well short of initial projections, concluding its run below its production budget."
+        ]
+      },
+      {
+        "h": "Creative Leadership and Cast",
+        "p": [
+          "The production was spearheaded by filmmaker Aaron Sorkin, who handled both writing and directing duties. The narrative serves as a direct followup to the earlier Facebook-centered drama directed years prior.",
+          "The ensemble features Mikey Madison portraying Facebook engineer Frances Haugen alongside Jeremy Allen White as reporter Jeff Horwitz. Jeremy Strong assumes the role of Mark Zuckerberg, supported by actors including Betty Gilpin, Bill Burr, Billy Magnussen, and Wunmi Mosaku."
+        ]
+      },
+      {
+        "h": "Bonus Content and Physical Media Plans",
+        "p": [
+          "Purchasing the film digitally grants viewers access to special promotional featurettes. These include specific behind-the-scenes and character-focused pieces titled Moving the Needle and True Integrity — Meet Frances Haugen.",
+          "In addition to the immediate digital availability, home media collectors can look forward to a physical release. A Blu-ray edition is scheduled to arrive early next year alongside a special two-pack bundle combining both films."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "The Social Network sequel The Social Reckoning has debuted on digital platforms following a brief three-week theatrical run that ended on October 30, 2026. Directed by Aaron Sorkin and starring Mikey Madison, Jeremy Allen White, and Jeremy Strong, the R-rated drama is now available to rent or purchase digitally with upcoming physical media releases planned."
+        ]
+      }
+    ],
+    "facts": [
+      "The Social Reckoning arrived on digital platforms on November 24, 2026.",
+      "Sony pulled the film from North American theaters on October 30 after three weeks.",
+      "Aaron Sorkin wrote and directed the film.",
+      "The film stars Mikey Madison, Jeremy Allen White, and Jeremy Strong.",
+      "The opening weekend generated $5 million from 2,606 locations from October 9-11.",
+      "The production budget was $30 million.",
+      "Digital purchases cost $19.99 and rentals cost $14.99.",
+      "A Blu-ray release is scheduled for January 12, 2027."
+    ],
+    "entities": {
+      "people": [
+        "Anubhav Chaudhry",
+        "Aaron Sorkin",
+        "Mikey Madison",
+        "Jeff Horwitz",
+        "Mark Zuckerberg",
+        "Betty Gilpin",
+        "Bill Burr",
+        "Billy Magnussen",
+        "Wunmi Mosaku",
+        "Jonathan",
+        "Ron Perlman",
+        "Norman Reedus",
+        "Robert Pattinson",
+        "Jackie Chan",
+        "Larry Yang"
+      ],
+      "titles": [
+        "The Social Network",
+        "The Social Reckoning",
+        "Avengers: Doomsday",
+        "Gremlins 3",
+        "Ramayana: Rise of a Legend"
+      ]
+    },
+    "keywords": [
+      "The Social Reckoning",
+      "Aaron Sorkin",
+      "Mikey Madison",
+      "Jeremy Strong",
+      "The Social Network sequel"
+    ],
+    "images": [
+      {
+        "url": "https://www.comingsoon.net/wp-content/uploads/sites/3/2026/10/14_1c3dff.jpg?resize=1200,630",
+        "caption": "The Social Network Sequel The Social Reckoning Arrives on Digital After Short Theatrical Run",
+        "source": "ComingSoon.net"
+      }
+    ],
+    "published": "Tue, 24 Nov 2026 08:00:00 +0000"
+  },
+  "t6vyy1": {
+    "id": "t6vyy1",
+    "type": "news",
+    "headline": "Panchayat Season 5 Trailer Out: Banrakas Becomes New Pradhan",
+    "dek": "The official trailer for Panchayat Season 5 reveals a massive leadership shift in Phulera as Banrakas takes over the Pradhan chair, leaving Brij Bhushan Dubey on the sidelines.",
+    "body": [
+      {
+        "h": "A Major Leadership Shift in Phulera",
+        "p": [
+          "The residents of Phulera are facing a monumental transition in village politics, highlighted by the newly released trailer for Panchayat Season 5. For years, Brij Bhushan Dubey held the position of authority, but the latest preview indicates that the power dynamics have completely flipped.",
+          "In this upcoming installment, Banrakas officially assumes the role of the new Pradhan. The trailer captures the striking contrast between the two figures, showing Banrakas settled into the chair while Pradhanji is forced to navigate life on the sidelines and accept his altered status."
+        ]
+      },
+      {
+        "h": "Romance and Complications for Sachivji",
+        "p": [
+          "Alongside the political upheaval in the village, the trailer sheds light on the personal lives of key characters. Sachivji, portrayed by Jitendra Kumar, continues to find himself wrapped up in the daily quirks and unexpected turns of rural life.",
+          "Furthermore, the preview highlights the evolving dynamic between Sachivji and Rinki, played by Sanvikaa. Indications suggest that their relationship will experience its own set of hurdles and complications as the narrative moves forward."
+        ]
+      },
+      {
+        "h": "Familiar Faces and Returning Cast",
+        "p": [
+          "Audiences can expect the return of the beloved ensemble cast that made the series a massive hit. Raghubir Yadav steps back into his role as Pradhanji, now dealing with the unfamiliar reality of no longer being in command.",
+          "The broader roster features prominent returning performers including Neena Gupta, Sunita Rajwar, Faisal Malik, Chandan Roy, Sanvikaa, Durgesh Kumar, and Ashok Pathak, all reprising their signature roles in the rural comedy-drama."
+        ]
+      },
+      {
+        "h": "Director Deepak Kumar Mishra on the Journey",
+        "p": [
+          "Director and co-creator Deepak Kumar Mishra reflected on the remarkable growth of the show since its inception. He noted that the project has blossomed into one of the most celebrated and beloved franchises across the country.",
+          "Mishra emphasized the creative team's ongoing dedication to maintaining fresh narratives while carefully preserving the underlying simplicity and honesty that defined the series from its earliest episodes."
+        ]
+      },
+      {
+        "h": "Creative Team and Production Background",
+        "p": [
+          "The creative foundation of the series remains firmly intact for the fifth outing. The project is directed by Deepak Kumar Mishra and co-created by Mishra alongside Chandan Kumar and Arunabh Kumar.",
+          "Behind the scenes, the scripts for the new chapter are penned by Chandan Kumar. The production is handled entirely by The Viral Fever, ensuring the signature style of the franchise is maintained."
+        ]
+      },
+      {
+        "h": "Release Details and Streaming Platform",
+        "p": [
+          "Fans eagerly anticipating the next chapter of the Phulera story do not have to wait much longer. The fifth season is officially scheduled to premiere globally on Prime Video.",
+          "The digital release date has been set for December 3, 2026, bringing fresh conflicts, new administrative responsibilities, and signature drama directly to streaming audiences."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "The trailer for Panchayat Season 5 reveals that Banrakas has taken over as the new Pradhan of Phulera, pushing Brij Bhushan Dubey to the sidelines. Created by TVF and directed by Deepak Kumar Mishra, the series will premiere on Prime Video on December 3, 2026, bringing back the core cast for more village drama."
+        ]
+      }
+    ],
+    "facts": [
+      "Panchayat Season 5 trailer was released on November 23, 2026.",
+      "Banrakas becomes the new Pradhan, replacing Brij Bhushan Dubey.",
+      "Panchayat Season 5 premieres on Prime Video on December 3, 2026.",
+      "The series is produced by The Viral Fever.",
+      "Deepak Kumar Mishra, Chandan Kumar, and Arunabh Kumar are the creators.",
+      "Chandan Kumar wrote the new season.",
+      "Cast members include Jitendra Kumar, Raghubir Yadav, Neena Gupta, Sunita Rajwar, Faisal Malik, Chandan Roy, Sanvikaa, Durgesh Kumar, and Ashok Pathak."
+    ],
+    "entities": {
+      "people": [
+        "Mahi Pillai",
+        "Raghubir Yadav",
+        "Jitendra Kumar",
+        "Sanvikaa",
+        "Shashaank Khaitaan",
+        "Arjun Bijlani",
+        "Neha",
+        "Deepak Kumar Mishra",
+        "Chandan Kumar",
+        "Arunabh Kumar",
+        "Neena Gupta",
+        "Sunita Rajwar",
+        "Faisal Malik",
+        "Chandan Roy",
+        "Durgesh Kumar",
+        "Ashok Pathak",
+        "Banrakas",
+        "Brij Bhushan Dubey"
+      ],
+      "titles": [
+        "Panchayat Season 5",
+        "Aisi Deewangi Dekhi Nahin Kahin"
+      ]
+    },
+    "keywords": [
+      "Panchayat Season 5 trailer",
+      "Banrakas new Pradhan Panchayat",
+      "Panchayat Season 5 release date",
+      "Jitendra Kumar Panchayat Prime Video"
+    ],
+    "images": [
+      {
+        "url": "https://mm-wp-prod-uploads.s3.ap-south-1.amazonaws.com/wp-content/uploads/2026/11/23174846/Miss-Malini-Wordpress-Images-2026-11-23T174814.311.jpg",
+        "caption": "Panchayat Season 5 Trailer Out: Banrakas Becomes New Pradhan",
+        "source": "MissMalini"
+      }
+    ],
+    "published": "2026-11-24T09:51:42Z"
+  },
+  "4rl015": {
+    "id": "4rl015",
+    "type": "news",
+    "headline": "Alexander Skarsgård’s Wicker Arrives on Digital Platforms",
+    "dek": "The acclaimed romantic fantasy comedy-drama starring Alexander Skarsgård and Olivia Colman transitions to home viewing following a successful box office run.",
+    "body": [
+      {
+        "h": "Digital Release and Availability",
+        "p": [
+          "Audiences can now stream the romantic fantasy comedy-drama Wicker from the comfort of their homes following its transition to digital and video-on-demand platforms. The feature film became accessible to home viewers on November 24, 2026, giving fans a chance to experience the eccentric story without heading to a cinema. Black Bear Pictures handled the distribution for the United States and the United Kingdom markets.",
+          "The home release arrives on the heels of a surprisingly robust theatrical run that captivated moviegoers across multiple regions. Viewers who missed the picture during its initial cinema window can now rent or purchase the title across various digital storefronts."
+        ]
+      },
+      {
+        "h": "Plot and Literary Origins",
+        "p": [
+          "The narrative centers around an ostracized fisherwoman living in a conservative seaside village who decides to commission a custom-made husband constructed entirely from wicker by the local basket weaver. This deeply unconventional romantic pairing quickly generates widespread gossip, intense jealousy, and chaotic disruptions throughout the tight-knit coastal community.",
+          "This whimsical tale is an adaptation of the short story titled \"The Wicker Husband\" authored by Ursula Wills-Jones. Filmmakers Alex Huston Fischer and Eleanor Wilson adapted the literary piece into a feature-length screenplay, maintaining the quirky yet thought-provoking essence of the source material."
+        ]
+      },
+      {
+        "h": "Stellar Cast and Creative Team",
+        "p": [
+          "The movie boasts a prominent ensemble cast featuring Olivia Colman alongside Alexander Skarsgård, who stars as the titular wicker creation. Additional cast members rounding out the production include Peter Dinklage, Elizabeth Debicki, Nabhaan Rizwan, Marli Siu, and Richard E. Grant.",
+          "Transforming Skarsgård into his unique character required specialized physical effects, which were expertly crafted by the New Zealand-based team at Wētā Workshop. Meanwhile, composer Anna Meredith developed the original musical score, a contribution that earned her a nomination for Best Original Score at the Hollywood Music in Media Awards."
+        ]
+      },
+      {
+        "h": "Festival Journey and Theatrical Debut",
+        "p": [
+          "The project first gained significant industry momentum when it held its official premiere at the Sundance Film Festival on January 24, 2026. Following its festival reception, the distribution rollout began with a theatrical opening in the United States on October 23, 2026.",
+          "International distribution followed closely behind, with theaters in the United Kingdom launching the film on October 30, 2026. Shortly after, Roadshow Films brought the feature to Australian audiences starting on November 5, 2026."
+        ]
+      },
+      {
+        "h": "Box Office Performance",
+        "p": [
+          "Financially, the picture performed impressively against its modest production budget of $10 million. During its domestic opening weekend, the film brought in $5.7 million while playing across 1,471 theater screens.",
+          "By the end of its global theatrical run, the feature accumulated a worldwide total of $40.3 million. This total breaks down into $24.4 million generated from domestic ticket sales and an additional $15.9 million collected from international territories."
+        ]
+      },
+      {
+        "h": "Critical Reception and Audience Response",
+        "p": [
+          "Critics responded warmly to the film's eccentric blend of romance and dark comedy. On Rotten Tomatoes, the movie achieved a 94 percent approval rating derived from 196 critical reviews, maintaining an average rating of 7.6 out of 10. The platform's consensus highlights the picture as a charming fable that effectively balances naughty and nice tones.",
+          "Review aggregator Metacritic awarded the release a score of 70 out of 100 based on evaluations from 39 critics. General audiences likewise expressed high satisfaction, as viewers polled by PostTrak awarded the production a positive score of 92 percent."
+        ]
+      },
+      {
+        "h": "Production Background",
+        "p": [
+          "The journey to the big screen involved extensive behind-the-scenes preparation before the creative vision could be fully realized. Principal photography for the project officially wrapped up in Budapest by September 2025, setting the stage for its subsequent festival circuit appearances and theatrical distribution."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Alex Huston Fischer and Eleanor Wilson's romantic fantasy comedy-drama Wicker is now available on digital and VOD platforms following a successful global theatrical run. The film stars Olivia Colman and Alexander Skarsgård in an unconventional adaptation of Ursula Wills-Jones' short story, which earned widespread critical acclaim and grossed $40.3 million worldwide against a $10 million budget."
+        ]
+      }
+    ],
+    "facts": [
+      "Wicker was released on digital platforms on November 24, 2026.",
+      "The film was distributed in the US and UK by Black Bear Pictures.",
+      "The story adapts Ursula Wills-Jones' short story \"The Wicker Husband.\"",
+      "Wicker premiered at the Sundance Film Festival on January 24, 2026.",
+      "The film opened in US theaters on October 23, 2026.",
+      "The film opened in the UK on October 30, 2026.",
+      "Roadshow Films released the film in Australia on November 5, 2026.",
+      "The film earned $40.3 million worldwide against a $10 million budget.",
+      "The domestic gross was $24.4 million and international gross was $15.9 million.",
+      "The opening weekend gross was $5.7 million from 1,471 theaters.",
+      "Rotten Tomatoes gave the film a 94% positive score from 196 critics with an average rating of 7.6/10.",
+      "Metacritic assigned a score of 70 out of 100 based on 39 critics.",
+      "PostTrak audience poll gave the film a 92% positive score.",
+      "Wētā Workshop created the prosthetics for the Wicker Husband.",
+      "Principal photography wrapped in Budapest by September 2025."
+    ],
+    "entities": {
+      "people": [
+        "Alexander Skarsgård",
+        "Olivia Colman",
+        "Alex Huston Fischer",
+        "Eleanor Wilson",
+        "Ursula Wills-Jones",
+        "Peter Dinklage",
+        "Elizabeth Debicki",
+        "Nabhaan Rizwan",
+        "Marli Siu",
+        "Richard E. Grant",
+        "Anna Meredith",
+        "Vritti Johar"
+      ],
+      "titles": [
+        "Wicker",
+        "The Wicker Husband"
+      ]
+    },
+    "keywords": [
+      "Alexander Skarsgård Wicker",
+      "Wicker digital release date",
+      "Olivia Colman Wicker movie",
+      "Alex Huston Fischer Eleanor Wilson"
+    ],
+    "images": [
+      {
+        "url": "https://www.comingsoon.net/wp-content/uploads/sites/3/2026/11/Deepesh-personal-1200-675-87.png.webp?resize=1200,630",
+        "caption": "Alexander Skarsgård’s Wicker Arrives on Digital Platforms",
+        "source": "ComingSoon.net"
+      }
+    ],
+    "published": "Tue, 24 Nov 2026 08:00:00 +0000"
+  },
+  "bhmw7x": {
+    "id": "bhmw7x",
+    "type": "news",
+    "headline": "Salman Khan Promises a Song to Qazi Touqeer on Reality TV",
+    "dek": "Superstar Salman Khan surprised Kashmiri singer Qazi Touqeer on Bigg Boss 20 by offering him a playback singing opportunity once he exits the house.",
+    "body": [
+      {
+        "h": "A Memorable Offer on Weekend Ka Vaar",
+        "p": [
+          "Bollywood superstar Salman Khan recently made headlines by offering a promising musical opportunity to contestant Qazi Touqeer. During a recent Weekend Ka Vaar episode of the hit reality television show Bigg Boss 20, Salman praised the contestant's entertaining persona and vocal abilities directly on air.",
+          "Impressed by his ongoing journey inside the house, the host explicitly told Qazi that he would provide him with a song once the reality series concludes. This unexpected gesture instantly brought immense joy and gratitude to the aspiring singer, leaving viewers and fans excited about his future prospects in the music industry."
+        ]
+      },
+      {
+        "h": "Qazi Touqeer's Journey in Bigg Boss 20",
+        "p": [
+          "Kashmiri singer Qazi Touqeer has been capturing widespread attention ever since he stepped into the famous house of Bigg Boss 20. Week after week, he continues to showcase his natural flair for audience engagement, his distinctive rockstar persona, and a strong willingness to dive into every activity.",
+          "While his unique antics and smooth interpersonal skills have kept viewers thoroughly entertained, it is his raw musical talent that has truly stood out as a major talking point throughout the current season."
+        ]
+      },
+      {
+        "h": "Early Beginnings and Fame Gurukul",
+        "p": [
+          "Qazi's passion for music is far from recent, dating all the way back to his early days in the entertainment industry. In 2005, he competed alongside his close friend Arijit Singh as a young contestant on the popular singing reality show Fame Gurukul.",
+          "Ultimately, Qazi emerged as the winner of that particular competition, while Arijit Singh finished in sixth place. Despite their differing paths afterward—with Arijit rising to become one of the nation's biggest playback voices—the two have maintained a supportive bond without any negative feelings."
+        ]
+      },
+      {
+        "h": "Praise From Industry Heavyweights",
+        "p": [
+          "Salman Khan is not the only notable industry figure who has taken notice of Qazi's captivating stage presence. Filmmaker Rohit Shetty also visited the reality show as a guest host and left deeply impressed by the singer's overall charisma.",
+          "During his appearance, Shetty highlighted how a growing number of viewers are turning into massive fans of the contestant. The director even hinted at a potential collaboration, promising a track if he ever directs a film featuring a romantic song."
+        ]
+      },
+      {
+        "h": "Uncertainty Over Future Projects",
+        "p": [
+          "Following Salman Khan's public promise on the show, fans have been speculating about the nature of the upcoming musical project. It remains entirely unconfirmed whether the offered track will form part of a film's official soundtrack or release as an independent single.",
+          "Regardless of the format, the endorsement from two major industry veterans marks a significant turning point in Qazi's career trajectory, revitalizing the spotlight on his musical aspirations."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Bollywood superstar Salman Khan promised a song to contestant Qazi Touqeer during a Weekend Ka Vaar episode of Bigg Boss 20. The reality TV appearance has brought renewed attention to Qazi, who previously won Fame Gurukul in 2005 alongside Arijit Singh, and earned a similar vocal promise from guest host Rohit Shetty."
+        ]
+      }
+    ],
+    "facts": [
+      "Published on Nov 24, 2026",
+      "Qazi Touqeer is a Kashmiri singer competing on Bigg Boss 20",
+      "Qazi Touqeer and Arijit Singh competed on Fame Gurukul in 2005",
+      "Qazi Touqeer won Fame Gurukul and Arijit Singh placed sixth",
+      "Salman Khan told Qazi he will give him a song when he comes out of Bigg Boss 20",
+      "Rohit Shetty visited the show as a guest host and praised Qazi Touqeer"
+    ],
+    "entities": {
+      "people": [
+        "Salman Khan",
+        "Qazi Touqeer",
+        "Arijit Singh",
+        "Rohit Shetty",
+        "Siddharth Thampi"
+      ],
+      "titles": [
+        "Bigg Boss 20",
+        "Fame Gurukul"
+      ]
+    },
+    "keywords": [
+      "Salman Khan Qazi",
+      "Qazi Touqeer Bigg Boss 20",
+      "Fame Gurukul 2005",
+      "Rohit Shetty Qazi song"
+    ],
+    "images": [
+      {
+        "url": "https://filmfare.wwmindia.com/content/2026/nov/i-will-give-you-a-song-salman-khan-offers-qazi-a-song1795490217.jpg",
+        "caption": "Salman Khan Promises a Song to Qazi Touqeer on Reality TV",
+        "source": "Filmfare"
+      }
+    ],
+    "published": "2026-11-24T08:48:04+05:30"
   }
 };
