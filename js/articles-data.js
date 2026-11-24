@@ -147572,6 +147572,12 @@ window.FA_ARTICLES = {
         "p": [
           "Dastoor is a heartfelt family drama filled with love, sacrifice, family conflicts, secrets, and emotional twists. Follow the journey of a mother and her daughters as they face difficult choices, broken relationships, and unexpected turns of fate a story of love, pain, forgiveness, and second chances."
         ]
+      },
+      {
+        "h": "Episode Summary",
+        "p": [
+          "Is episode mein Aleena apne walid se phone par baat karke apni narazgi aur tanhai ka izhaar karti hai, lekin uske walid Shiza ke insaf"
+        ]
       }
     ],
     "facts": [
@@ -147579,7 +147585,8 @@ window.FA_ARTICLES = {
       "Channel: Green TV.",
       "Watch the full episode: https://www.youtube.com/watch?v=Ieyj4l3Q7e0",
       "YouTube views: 114,459.",
-      "TMDB: Dastoor (id 329481)."
+      "TMDB: Dastoor (id 329481).",
+      "Episode summary added 2026-11-24."
     ],
     "entities": {
       "titles": [
@@ -230972,6 +230979,12 @@ window.FA_ARTICLES = {
         "p": [
           "Hurmat follows the journey of a bright and ambitious young woman trapped under strict family and societal restrictions. Raised in a highly conservative household, her choices are entirely controlled by her authoritarian father, who initially forbids her from pursuing higher education. When a supportive uncle steps in to help her enroll in a university, she moves to a modern city, catching a glimpse of a world beyond her boundaries and finding a new sense of independence. However, her life takes a darker, more complex turn as she falls for a classmate, throwing her into a turbulent storm of intense family conflicts, hidden secrets, betrayal, and high-stakes legal battles."
         ]
+      },
+      {
+        "h": "Episode Summary",
+        "p": [
+          "Is episode mein Hurmat aur uski ammi ko maali mushkilat ka samna karna padta hai. Ghar mein rashan khatam hone par Hurmat apni gold chain bech"
+        ]
       }
     ],
     "facts": [
@@ -230979,7 +230992,8 @@ window.FA_ARTICLES = {
       "Channel: HUM TV.",
       "Watch the full episode: https://www.youtube.com/watch?v=qtArZ2Hjn8I",
       "YouTube views: 771,418.",
-      "TMDB: Hurmat (id 337670)."
+      "TMDB: Hurmat (id 337670).",
+      "Episode summary added 2026-11-24."
     ],
     "entities": {
       "titles": [
@@ -238279,5 +238293,100 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Tue, 24 Nov 2026 12:00:12 GMT"
+  },
+  "xnnzgv": {
+    "id": "xnnzgv",
+    "type": "news",
+    "headline": "Cine Workers Association Petitions Prime Minister to Block Upcoming Netflix Series",
+    "dek": "The All-Indian Cine Workers Association has formally written to Prime Minister Narendra Modi, urging an immediate halt to the streaming of the Pakistani web series Jo Bachay Hain Sang Samait Lo across Indian platforms.",
+    "body": [
+      {
+        "h": "Formal Appeal to Leadership",
+        "p": [
+          "The All-Indian Cine Workers Association has taken official action by addressing a formal communication to Prime Minister Narendra Modi. The organization is petitioning for an immediate block on the release of the upcoming Pakistani web series Jo Bachay Hain Sang Samait Lo, which has been slated for a digital premiere on Netflix.",
+          "Signed by the association's president, Suresh Shyamlal Gupta, the correspondence carries a date of November 24, 2026. In addition to the Prime Minister's office, copies of the two-page document were marked to Information and Broadcasting Minister Ashwini Vaishnaw and to Netflix India, signaling a broad-based push against the platform's programming choices."
+        ]
+      },
+      {
+        "h": "Scheduled Premiere and Star Cast",
+        "p": [
+          "The streaming project in question, Jo Bachay Hain Sang Samait Lo, is scheduled to make its global debut on December 4, 2026. The production has drawn substantial attention for its high-profile ensemble cast, which features prominent actors such as Fawad Khan, Mahira Khan, Hania Aamir, and Sanam Saeed.",
+          "As part of its promotional rollout, Netflix recently unveiled the first-look poster for the show and included the title within its regional upcoming release listings in India. However, the streaming service has not yet published an official response addressing whether the show will be accessible to local subscribers."
+        ]
+      },
+      {
+        "h": "Literary Background and Production Status",
+        "p": [
+          "The narrative of the series is rooted in the bestselling Urdu novel authored by Farhat Ishtiaq. This project marks a significant milestone for the platform as Netflix's first Pakistan-themed original series, designed to reach audiences worldwide upon its scheduled rollout.",
+          "Despite the global premiere timeline, the inclusion of the title in Indian listings has triggered immediate pushback from industry bodies. The association's intervention highlights ongoing tensions regarding cross-border entertainment collaborations and digital distribution rights within the country."
+        ]
+      },
+      {
+        "h": "Core Demands Issued by the Association",
+        "p": [
+          "Alongside the block on the December release date, the organization has laid out four distinct demands to government officials and streaming entities. These include a strict prohibition against streaming the show on any subsequent date, and a call for all digital platforms to strictly follow existing regulatory advisories.",
+          "Further requests involve the enactment of a permanent legislative framework featuring severe penalties for exhibiting cross-border content. Finally, the group expects Netflix India and other streaming services to issue public clarifications regarding their stance on hosting productions of Pakistani origin."
+        ]
+      },
+      {
+        "h": "Citing Past National Incidents and Advisories",
+        "p": [
+          "In defending its position, the association referenced major security incidents from recent years, pointing specifically to the 2019 Pulwama attack and the terror incident in Pahalgam on April 22, 2025. The group argued that screening such entertainment content runs contrary to national sentiment following these events.",
+          "The letter also directed attention to an official advisory issued by the Ministry of Information and Broadcasting on May 8, 2025. That directive had instructed digital intermediaries and streaming services operating in India to discontinue the exhibition of content originating from Pakistan."
+        ]
+      },
+      {
+        "h": "Public Messaging and Platform Stance",
+        "p": [
+          "The association utilized its official social media channels to amplify its message, circulating copies of the letter and sharing pointed statements emphasizing national priorities. The digital posts reiterated the group's unwavering stance that cross-border media productions hold no legitimate place on domestic screens.",
+          "With the global premiere approaching, the silence from major streaming executives leaves the availability of the series in the Indian market uncertain. Industry observers continue to monitor how digital platforms will navigate these regulatory pressures and public appeals."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "The All-Indian Cine Workers Association has written to Prime Minister Narendra Modi to demand a ban on the upcoming Netflix series Jo Bachay Hain Sang Samait Lo in India. Citing national security concerns and a previous government advisory, the association has called for strict penalties against the streaming of Pakistani content across all local platforms ahead of the scheduled December premiere."
+        ]
+      }
+    ],
+    "facts": [
+      "The All-Indian Cine Workers Association wrote a letter to Prime Minister Narendra Modi.",
+      "The letter is dated November 24, 2026.",
+      "The letter is signed by AICWA President Suresh Shyamlal Gupta.",
+      "The series Jo Bachay Hain Sang Samait Lo is scheduled to premiere globally on December 4, 2026.",
+      "The series features Fawad Khan, Mahira Khan, Hania Aamir, and Sanam Saeed.",
+      "The Ministry of Information and Broadcasting issued an advisory on May 8, 2025.",
+      "The letter references the 2019 Pulwama attack and the April 22, 2025 Pahalgam terror attack."
+    ],
+    "entities": {
+      "people": [
+        "Narendra Modi",
+        "Fawad Khan",
+        "Mahira Khan",
+        "Hania Aamir",
+        "Sanam Saeed",
+        "Suresh Shyamlal Gupta",
+        "Ashwini Vaishnaw",
+        "Farhat Ishtiaq"
+      ],
+      "titles": [
+        "Jo Bachay Hain Sang Samait Lo"
+      ]
+    },
+    "keywords": [
+      "Jo Bachay Hain Sang Samait Lo",
+      "Fawad Khan",
+      "Mahira Khan",
+      "AICWA",
+      "Netflix India"
+    ],
+    "images": [
+      {
+        "url": "https://media5.bollywoodhungama.in/wp-content/uploads/2026/11/AICWA-writes-to-PM-Narendra-Modi-seeking-ban-on-Fawad-Khan-and-Mahira-Khan-starrer-news.jpeg",
+        "caption": "Cine Workers Association Petitions Prime Minister to Block Upcoming Netflix Series",
+        "source": "Bollywood Hungama"
+      }
+    ],
+    "published": "Tue, 24 Nov 2026 17:49:03 +0200"
   }
 };
