@@ -237886,5 +237886,398 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Tue, 24 Nov 2026 10:00:40 GMT"
+  },
+  "rtc76a": {
+    "id": "rtc76a",
+    "type": "news",
+    "headline": "Love In Disguise Episode 12 OTT Release Details And Streaming Guide",
+    "dek": "Find out where and how to watch Episode 12 of the Korean romantic drama Love In Disguise in India, featuring lead actors Yim Si-wan and Seol In-ah.",
+    "body": [
+      {
+        "h": "Introduction To Episode 12",
+        "p": [
+          "Fans of the popular Korean romantic comedy series can now tune into the latest instalment of the show. The twelfth episode has arrived for audiences eager to follow the continuing adventures of the main characters.",
+          "Viewers have been anticipating how the unfolding narrative will progress as secrets threaten to come to light."
+        ]
+      },
+      {
+        "h": "Official Streaming In India",
+        "p": [
+          "Amazon Prime Video serves as the official platform for viewing the series in India. Subscribers can access the new chapter directly through the service with English subtitles.",
+          "While alternative platforms may occasionally appear in user searches, the authorized app remains the most reliable destination for the complete viewing experience."
+        ]
+      },
+      {
+        "h": "Schedule And Timings",
+        "p": [
+          "The release schedule places the digital debut in India at 5:20 PM IST on November 24. Meanwhile, domestic broadcast schedules in South Korea have the episode airing on tvN at 8:50 PM KST.",
+          "Fans following the international release can log in at the scheduled hour to catch the premiere."
+        ]
+      },
+      {
+        "h": "Cast And Source Material",
+        "p": [
+          "The show features Yim Si-wan and Seol In-ah in the lead roles. The storyline draws inspiration from the Kakao web novel titled Why You Don't Know It's a Girl?, penned by writers Lee A-yeon and Ryu Do-ha.",
+          "The underlying premise combines elements of mystery, comedy, and romance into a distinct episodic journey."
+        ]
+      },
+      {
+        "h": "Character Dynamics And Plot",
+        "p": [
+          "Yim Si-wan portrays Yoon Yi-jun, an exacting heir of Taegang Group whose life gets upended following a mysterious death involving his personal secretary. Seeking protection and answers, he requires a new executive secretary.",
+          "Seol In-ah plays Kang Jae-hee, a detective investigating the case who takes on the secretary job under a male disguise to get close to Yi-jun and solve the mystery. Maintaining this deception proves difficult as professional lines begin to blur."
+        ]
+      },
+      {
+        "h": "Alternative Search Considerations",
+        "p": [
+          "Audiences searching for the episode via third-party sites like Dailymotion should verify video completeness and subtitle availability. Unauthorized uploads can often lack proper translations or face removal due to copyright rules.",
+          "Checking official application settings guarantees viewers receive high-definition video and accurate subtitles without interruptions."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Episode 12 of the Korean romantic drama Love In Disguise officially premieres on Amazon Prime Video in India on November 24 at 5:20 PM IST. The series stars Yim Si-wan and Seol In-ah in a story combining a murder investigation with romance and disguise."
+        ]
+      }
+    ],
+    "facts": [
+      "Love In Disguise Episode 12 releases on November 24 at 5:20 PM IST in India.",
+      "The series streams officially on Amazon Prime Video in India.",
+      "In South Korea, the episode airs on tvN at 8:50 PM KST.",
+      "Yim Si-wan plays Yoon Yi-jun and Seol In-ah plays Kang Jae-hee.",
+      "The drama is based on the web novel Why You Don't Know It's a Girl? by Lee A-yeon and Ryu Do-ha."
+    ],
+    "entities": {
+      "people": [
+        "Yim Si-wan",
+        "Seol In-ah",
+        "Lee A-yeon",
+        "Ryu Do-ha",
+        "Yoon Yi-jun",
+        "Kang Jae-hee"
+      ],
+      "titles": [
+        "Love In Disguise",
+        "Why You Don't Know It's a Girl?"
+      ]
+    },
+    "keywords": [
+      "Love In Disguise Episode 12",
+      "Yim Si-wan Seol In-ah",
+      "Love In Disguise Amazon Prime Video",
+      "Love In Disguise Episode 12 Dailymotion"
+    ],
+    "images": [
+      {
+        "url": "https://images.filmibeat.com/img/2026/11/loveindisguiseep1timed1-49131795520346.jpg",
+        "caption": "Love In Disguise Episode 12 OTT Release Details And Streaming Guide",
+        "source": "FilmiBeat"
+      }
+    ],
+    "published": "Tue, 24 Nov 2026 17:12:06 +0530"
+  },
+  "1pr12yg": {
+    "id": "1pr12yg",
+    "type": "news",
+    "headline": "Why Kundali Bhagya Star Ssanjay Gaggnani Altered His Name Spelling Using Numerology",
+    "dek": "Television actor Sanjay Gagnani explains how his spouse Poonam Preet Bhatia encouraged him to modify his professional moniker with additional letters and discusses his global music video venture.",
+    "body": [
+      {
+        "h": "Introduction to the Moniker Shift",
+        "p": [
+          "Television audiences recognize Sanjay Gagnani for his compelling portrayal of antagonists in popular serials like Kundali Bhagya. Recently, however, observers noticed a distinct shift in how the performer presents his identity online.",
+          "By incorporating extra letters into his handle and public profiles, the artist adopted a fresh variation of his birth name. This curious change immediately sparked curiosity among followers regarding the motivation behind the adjustment."
+        ]
+      },
+      {
+        "h": "The Numerological Influence of Poonam Preet Bhatia",
+        "p": [
+          "Addressing the update in an exclusive interview, the television personality revealed that his wife, Poonam Preet Bhatia, played a direct role in proposing the spelling modification.",
+          "The decision stemmed from an interest in numerological principles, with the couple exploring how specific letter arrangements might attract favorable vibrations and positive energies."
+        ]
+      },
+      {
+        "h": "Balancing Beliefs with Professional Dedication",
+        "p": [
+          "While embracing the spiritual guidance of numerology, the performer emphasized that personal philosophy remains secondary to actual labor. He noted that dedication, talent, and consistent hard work ultimately sustain an individual within the entertainment industry.",
+          "Choosing to adopt the suggestion was viewed as a harmless personal choice that adds a recognizable distinction to his professional identity without replacing genuine effort."
+        ]
+      },
+      {
+        "h": "Stepping into International Projects",
+        "p": [
+          "Beyond television antagonist roles, the actor recently expanded his portfolio by making his debut in an international music video titled Na Bole Tum Na Bolu Mai. Created alongside vocalist Jyotsna Navandar, the undertaking introduced him to fresh creative avenues.",
+          "The visual component allowed the performer to experience working outside domestic boundaries, bringing a broader global scale to his ongoing career trajectory."
+        ]
+      },
+      {
+        "h": "Shooting Across Continental Landscapes",
+        "p": [
+          "Production for the musical project took place in Africa, offering the television star a unique environment for filming. Immersing himself in an unfamiliar culture provided a refreshing break from standard studio routines.",
+          "He expressed deep gratitude for the collaborative opportunity, noting that exploring different formats helps an artist grow and connect with audiences across diverse geographical regions."
+        ]
+      },
+      {
+        "h": "Maintaining Industry Friendships",
+        "p": [
+          "In addition to discussing his professional milestones, the actor also touched upon interpersonal dynamics within the showbiz sector. Conversations during his media interaction highlighted his personal bonds, including his connection with fellow personality Nupur Sanon.",
+          "These insights offered fans a closer look at the performer's perspective on camaraderie and mutual support among peers navigating the entertainment world together."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Television star Sanjay Gagnani updated his name spelling to Ssanjay Gaggnani following numerology advice suggested by his wife Poonam Preet Bhatia. Alongside this personal change, the actor discussed his recent international music video debut titled Na Bole Tum Na Bolu Mai with singer Jyotsna Navandar, which was filmed in Africa."
+        ]
+      }
+    ],
+    "facts": [
+      "Sanjay Gagnani played an antagonist in Kundali Bhagya.",
+      "Poonam Preet Bhatia is the wife of Sanjay Gagnani.",
+      "Sanjay Gagnani changed his name spelling to Ssanjay Gaggnani.",
+      "Jyotsna Navandar is the singer of Na Bole Tum Na Bolu Mai.",
+      "Na Bole Tum Na Bolu Mai was shot in Africa.",
+      "The story was published on Tuesday, November 24, 2026."
+    ],
+    "entities": {
+      "people": [
+        "Sanjay Gagnani",
+        "Ssanjay Gaggnani",
+        "Poonam Preet Bhatia",
+        "Jyotsna Navandar",
+        "Nupur Sanon",
+        "Mimtaz"
+      ],
+      "titles": [
+        "Kundali Bhagya",
+        "Na Bole Tum Na Bolu Mai"
+      ]
+    },
+    "keywords": [
+      "Sanjay Gagnani name change",
+      "Ssanjay Gaggnani numerology",
+      "Poonam Preet Bhatia",
+      "Na Bole Tum Na Bolu Mai",
+      "Kundali Bhagya actor"
+    ],
+    "images": [
+      {
+        "url": "https://images.filmibeat.com/img/2026/11/feature-2026-11-24t163209-828-98191795518148.jpg",
+        "caption": "Why Kundali Bhagya Star Ssanjay Gaggnani Altered His Name Spelling Using Numerology",
+        "source": "FilmiBeat"
+      }
+    ],
+    "published": "Tue, 24 Nov 2026 16:33:22 +0530"
+  },
+  "1brahcm": {
+    "id": "1brahcm",
+    "type": "news",
+    "headline": "OM Worldwide Box Office Day 4: Becomes Dhanush's 6th Highest-Grossing Film Of All Time",
+    "dek": "The Kollywood spy action thriller OM experiences a sharp drop on its first Monday but manages to surpass Raanjhanaa's lifetime gross to secure the sixth spot among Dhanush's global hits.",
+    "body": [
+      {
+        "h": "Initial Box Office Trajectory",
+        "p": [
+          "The Kollywood spy action thriller OM is encountering a challenging phase at the global box office following an encouraging opening weekend. Despite a solid start, the movie has experienced a steeper decline in earnings than initially anticipated due to mixed public reception.",
+          "Even with the sharp reduction in daily numbers, the feature continues to pull in substantial figures and remains on a steady path toward crossing the 100 crore milestone globally during its theatrical run."
+        ]
+      },
+      {
+        "h": "Day 4 Earnings Breakdown",
+        "p": [
+          "On its first Monday, the film brought in 7.32 crore within the domestic market, accompanied by 1.5 crore from international territories. This brought the total collection for day 4 to 8.82 crore.",
+          "The figures represent a significant 73.56% decrease compared to the opening day collection of 33.36 crore, marking an important metric for industry analysts tracking the movie's holding power."
+        ]
+      },
+      {
+        "h": "Overall Cumulative Collections",
+        "p": [
+          "Following four days in theaters, the project has accumulated a domestic net total of 56.45 crore alongside a domestic gross of 66.62 crore.",
+          "When combined with an overseas gross of 25 crore, the overall worldwide gross for the feature stands at an impressive 91.62 crore."
+        ]
+      },
+      {
+        "h": "Surpassing Raanjhanaa Globally",
+        "p": [
+          "A major milestone was achieved as the feature surpassed the lifetime global collection of Raanjhanaa, which stood at 87.26 crore.",
+          "This achievement elevates OM to the position of Dhanush's sixth-highest-grossing film worldwide in a span of just four days."
+        ]
+      },
+      {
+        "h": "Dhanush's Top Global Grossers",
+        "p": [
+          "The list of top-performing global features headlined by Dhanush includes Tere Ishk Mein at 164 crore, Raayan at 155.35 crore, and Kuberaa at 138.86 crore.",
+          "Further down the rankings are Thiruchitrambalam at 117.89 crore and Vaathi at 116.2 crore, preceding OM at its current 91.62 crore mark."
+        ]
+      },
+      {
+        "h": "Future Box Office Projections",
+        "p": [
+          "Industry trackers suggest that before completing its theatrical run, the film is well-positioned to climb higher by overtaking Vaathi and Thiruchitrambalam.",
+          "However, due to mixed word-of-mouth feedback, it is projected to finish its run below the total amassed by Kuberaa."
+        ]
+      },
+      {
+        "h": "Production and Cast Details",
+        "p": [
+          "The project is written and directed by Rajkumar Periasamy, who previously directed Amaran in 2024, and was produced on an estimated budget of 200 crore.",
+          "The main cast features Mammootty, Sai Pallavi, Sreeleela, and Naseeruddin Shah, with production handled by Wunderbar Films and RTake Studios."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "The spy action thriller OM recorded 8.82 crore on its fourth day, bringing its total worldwide gross to 91.62 crore. This milestone allows the movie to surpass Raanjhanaa and become Dhanush's sixth-highest-grossing film globally despite a steep Monday drop."
+        ]
+      }
+    ],
+    "facts": [
+      "OM grossed 8.82 crore on day 4.",
+      "Day 4 international gross was 1.5 crore.",
+      "Day 4 India gross was 7.32 crore.",
+      "Day 1 collection was 33.36 crore.",
+      "Total worldwide gross stands at 91.62 crore.",
+      "Total India net is 56.45 crore.",
+      "Total India gross is 66.62 crore.",
+      "Overseas gross is 25 crore.",
+      "Raanjhanaa lifetime collection was 87.26 crore.",
+      "Budget was 200 crore.",
+      "Release date was November 20, 2026."
+    ],
+    "entities": {
+      "people": [
+        "Dhanush",
+        "Rajkumar Periasamy",
+        "Mammootty",
+        "Sai Pallavi",
+        "Sreeleela",
+        "Naseeruddin Shah",
+        "Shraddha Agrawal",
+        "Azmat Jagmag"
+      ],
+      "titles": [
+        "OM",
+        "Raanjhanaa",
+        "Amaran",
+        "Tere Ishk Mein",
+        "Raayan",
+        "Kuberaa",
+        "Thiruchitrambalam",
+        "Vaathi",
+        "Captain Miller",
+        "Idli Kadai",
+        "Asuran"
+      ]
+    },
+    "keywords": [
+      "OM film box office",
+      "Dhanush OM movie",
+      "OM worldwide collection",
+      "Rajkumar Periasamy OM"
+    ],
+    "images": [
+      {
+        "url": "https://www.koimoi.com/wp-content/new-galleries/2026/11/om-box-office-3.jpg",
+        "caption": "OM Worldwide Box Office Day 4: Becomes Dhanush's 6th Highest-Grossing Film Of All Time",
+        "source": "Koimoi"
+      }
+    ],
+    "published": "Tue, 24 Nov 2026 11:23:30 +0000"
+  },
+  "3ti1pf": {
+    "id": "3ti1pf",
+    "type": "news",
+    "headline": "Hugh Grant Horror Hit Heretic Is Leaving Hulu This December",
+    "dek": "Fans have only a limited time left to stream the religious horror film starring Hugh Grant before it departs Hulu.",
+    "body": [
+      {
+        "h": "Departure Date Announced",
+        "p": [
+          "Viewers preparing for their festive holiday rewatches will soon face a notable streaming departure alongside their seasonal favorites. While classic romantic anthologies dominate living rooms every December, fans of darker cinema are running out of time to catch one of recent years' standout psychological thrillers. Heretic is officially leaving Hulu on December 8.",
+          "The religious horror feature made its way onto the streaming platform back in September, quickly establishing itself as one of the creepiest additions available to subscribers. Now, audiences have only a brief window left to watch the film on the platform before its scheduled removal."
+        ]
+      },
+      {
+        "h": "A Departure From Charm",
+        "p": [
+          "The film stars veteran actor Hugh Grant in a uniquely unsettling role that subverts his traditional screen persona. Best known for his charming romantic comedies, Grant steps away from his usual archetype to portray the frightening Mr. Reed, a man who ensnares two unsuspecting visitors in a deadly cat-and-mouse game.",
+          "Joining Grant in the cast are Sophie Thatcher and Chloe East, who play the two Mormon missionaries unfortunate enough to knock on the wrong door. Directed and written by Scott Beck and Bryan Woods, the 2024 thriller relies on psychological tension, philosophical debates, and claustrophobic dread rather than mindless jump scares."
+        ]
+      },
+      {
+        "h": "Critical Acclaim and Awards Attention",
+        "p": [
+          "Grant's chilling performance received widespread critical acclaim upon the film's release, with reviewers praising his ability to weaponize his trademark British charm into something deeply menacing. Critics noted that the role delivered everything audiences could possibly hope for from a villainous turn by the actor.",
+          "This standout work did not go unnoticed by major award bodies either. Grant earned a prestigious nomination for Best Actor in a Motion Picture – Musical or Comedy at the Golden Globes, cementing the role as a high point in his extensive career."
+        ]
+      },
+      {
+        "h": "Rotten Tomatoes Success",
+        "p": [
+          "Before transitioning to streaming platforms, the psychological thriller built strong momentum through positive word of mouth and critical backing. Review aggregator Rotten Tomatoes certified the feature fresh, awarding it an impressive 89% approval rating.",
+          "This strong critical standing helped sustain audience interest well beyond its initial theatrical run, paving the way for its successful transition to home viewing platforms like Hulu earlier in the autumn season."
+        ]
+      },
+      {
+        "h": "Box Office Triumph",
+        "p": [
+          "Released around Halloween in 2024, the movie capitalized heavily on the public appetite for intelligent horror stories. Operating on a modest reported production budget of $10 million, the project vastly outperformed financial expectations.",
+          "Ultimately, the film pulled in a strong global box office haul of $60 million. This total broke down into $28 million generated from domestic markets within the United States alongside an additional $32 million collected from international territories overseas."
+        ]
+      },
+      {
+        "h": "Holiday Viewing Shift",
+        "p": [
+          "As December arrives, streaming habits naturally skew toward traditional holiday content like Richard Curtis's star-studded romantic comedy favorite. However, the impending removal of the chilling thriller provides a stark counterprogramming option for fans of darker genres.",
+          "Viewers hoping to witness Grant's chilling transformation into a cinematic villain will need to act quickly before the title officially disappears from Hulu's active library next month."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "The horror film Heretic, starring Hugh Grant, Sophie Thatcher, and Chloe East, is leaving Hulu on December 8 after joining the platform in September. Directed by Scott Beck and Bryan Woods, the film earned $60 million globally against a $10 million budget and garnered Grant a Golden Globe nomination."
+        ]
+      }
+    ],
+    "facts": [
+      "Heretic leaves Hulu on December 8",
+      "Hugh Grant plays Mr. Reed in Heretic",
+      "Sophie Thatcher and Chloe East play Mormon missionaries",
+      "Scott Beck and Bryan Woods wrote and directed Heretic",
+      "The film earned a global haul of $60 million against a $10 million budget",
+      "Domestic revenue was $28 million and overseas revenue was $32 million",
+      "Heretic received an 89% certified fresh score on Rotten Tomatoes",
+      "Hugh Grant received a Golden Globe nomination for Best Actor in a Motion Picture – Musical or Comedy"
+    ],
+    "entities": {
+      "people": [
+        "Hugh Grant",
+        "Scott Beck",
+        "Bryan Woods",
+        "Sophie Thatcher",
+        "Chloe East",
+        "Richard Curtis"
+      ],
+      "titles": [
+        "Heretic",
+        "Love Actually"
+      ]
+    },
+    "keywords": [
+      "Heretic Hulu leaving date",
+      "Hugh Grant Heretic movie",
+      "Heretic box office budget",
+      "Sophie Thatcher Chloe East Heretic"
+    ],
+    "images": [
+      {
+        "url": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/10/heretic-hugh-grant.jpg?w=1200&amp;h=675&amp;fit=crop",
+        "caption": "Hugh Grant Horror Hit Heretic Is Leaving Hulu This December",
+        "source": "Collider"
+      }
+    ],
+    "published": "Tue, 24 Nov 2026 12:00:12 GMT"
   }
 };
