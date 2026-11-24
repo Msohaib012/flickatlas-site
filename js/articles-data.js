@@ -237500,5 +237500,391 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Tue, 24 Nov 2026 15:19:34 +0530"
+  },
+  "m6zd18": {
+    "id": "m6zd18",
+    "type": "news",
+    "headline": "Rashmika Mandanna Starrer Mysaa Pushed Five Days Before Premiere",
+    "dek": "The creators of the upcoming action drama Mysaa have delayed the theatrical launch just days before its planned premiere to ensure a technically superior output.",
+    "body": [
+      {
+        "h": "Last-Minute Delay Announced",
+        "p": [
+          "Audiences awaiting the arrival of the action drama Mysaa will need to exercise patience following a sudden scheduling shift. The production team announced the postponement just five days ahead of the previously scheduled premiere.",
+          "The official banner, UnFormula Films, utilized their Instagram platform to communicate the postponement to the public. They assured supporters that a revised premiere calendar will be revealed shortly."
+        ]
+      },
+      {
+        "h": "Pursuing Technical Excellence",
+        "p": [
+          "The creative team behind the project pointed to the evolving standards of Telugu cinema as a primary driver for the delay. With contemporary releases continuously elevating craftsmanship, the makers intend to match that high bar.",
+          "UnFormula Films emphasized that the project is conceived as an immersive action spectacle. To realize this vision without cutting corners, the collective leadership chose to hold back the scheduled launch."
+        ]
+      },
+      {
+        "h": "A Distinct Role for the Lead Actor",
+        "p": [
+          "Helmed by director Rawindra Pulle, the feature casts headliner Rashmika Mandanna in a departure from her previous cinematic outings. She steps into the character of a Gond tribal woman within a narrative anchored in tribal territories.",
+          "To prepare for the demanding shoot, the performer underwent targeted physical conditioning. Earlier promotional teasers highlighted her involvement in rigorous action sequences, including underwater segments and bike riding."
+        ]
+      },
+      {
+        "h": "Core Narrative Themes",
+        "p": [
+          "Moving away from traditional tropes that emphasize maternal bonds in action cinema, this production pivots toward a father-daughter dynamic. The emotional core runs parallel to heavy dramatic and action elements.",
+          "The production values are further supported by technical specialists, featuring cinematography by Shreyaas K Krishna and musical compositions by Jakes Bejoy. International stunt coordinator Andy Long directed the physical action set pieces."
+        ]
+      },
+      {
+        "h": "Comprehensive Ensemble Cast",
+        "p": [
+          "Alongside the main lead, the project features a diverse roster of supporting performers. Key participants include Eshwari Rao, Guru Somasundaram, and Rao Ramesh.",
+          "The extended cast also incorporates Rahul Ravindran, Samuthirakani, Shiva Kandukuri, Karthik Ranjini, Tarak Ponnappa, and Nidhi Singh, rounding out the regional ensemble."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "The makers of the action drama Mysaa delayed the theatrical debut just days prior to the planned launch to deliver a technically superior visual experience. UnFormula Films stated that a new arrival date will be shared soon, maintaining the focus on a high-caliber cinematic presentation."
+        ]
+      }
+    ],
+    "facts": [
+      "Mysaa was originally scheduled for a November 27 release.",
+      "The delay announcement was made by production house UnFormula Films on Instagram.",
+      "The film is directed by Rawindra Pulle.",
+      "Rashmika Mandanna plays a Gond tribal woman in the action drama."
+    ],
+    "entities": {
+      "people": [
+        "Rashmika Mandanna",
+        "Rawindra Pulle",
+        "Shreyaas K Krishna",
+        "Jakes Bejoy",
+        "Andy Long",
+        "Eshwari Rao",
+        "Guru Somasundaram",
+        "Rao Ramesh",
+        "Rahul Ravindran",
+        "Samuthirakani",
+        "Shiva Kandukuri",
+        "Karthik Ranjini",
+        "Tarak Ponnappa",
+        "Nidhi Singh"
+      ],
+      "titles": [
+        "Mysaa"
+      ]
+    },
+    "keywords": [
+      "Mysaa film",
+      "Rashmika Mandanna Mysaa",
+      "Mysaa release date delayed",
+      "UnFormula Films Mysaa"
+    ],
+    "images": [
+      {
+        "url": "https://cdn-english.zeenews.com/sites/default/files/2026/11/23/7298-myssa.png",
+        "caption": "Rashmika Mandanna Starrer Mysaa Pushed Five Days Before Premiere",
+        "source": "Zee News — Entertainment"
+      }
+    ],
+    "published": "2026-11-24T11:51:44Z"
+  },
+  "hqe6v4": {
+    "id": "hqe6v4",
+    "type": "news",
+    "headline": "Ramayana Day 20 Advance Booking Revenue Jumps 28% as Pushpa 2 Lifetime Worldwide Collection Comes Within Reach",
+    "dek": "Namit Malhotra's Ramayana registers a nearly 28 percent growth in advance booking revenue on its third Tuesday, driven by special ticket pricing as it closes in on Pushpa 2's worldwide box office record.",
+    "body": [
+      {
+        "h": "Introduction to the Box Office Milestone",
+        "p": [
+          "Namit Malhotra's cinematic production Ramayana is rapidly approaching a major global milestone in its theatrical run. Less than three weeks after its theatrical debut, the film has drawn immense crowds and accumulated massive figures at both domestic and international ticket counters.",
+          "With only a narrow margin separating its total worldwide earnings from previous record holders, industry analysts are closely tracking its daily progress to see when it will officially overtake earlier blockbusters."
+        ]
+      },
+      {
+        "h": "The Legacy of Pushpa 2 and Current Standings",
+        "p": [
+          "When Allu Arjun starred in the Sukumar directorial Pushpa 2, it broke longstanding domestic records and secured its place as a massive global earner. Although its domestic figures remain formidable, its worldwide standing is now facing a stiff challenge.",
+          "Ramayana has amassed a massive India gross alongside a substantial overseas collection, bringing its cumulative global total to an estimated ₹1,709.65 crore after nineteen days in cinemas, putting it right on the heels of the previous record holder."
+        ]
+      },
+      {
+        "h": "Third Tuesday Advance Booking Surge",
+        "p": [
+          "As the film entered its third Tuesday, advance booking revenue experienced a remarkable upward trajectory. Without counting blocked seats, the advance gross jumped by nearly 28 percent compared to the previous day.",
+          "Ticket sales without blocks surged significantly, reflecting heightened interest among audiences. This mid-week momentum was further supported by festival timings in certain regions, bolstering the pre-sales count."
+        ]
+      },
+      {
+        "h": "Impact of Discounted Ticket Pricing",
+        "p": [
+          "A key factor behind the recent spike in admissions is the introduction of special ticket pricing, which brought rates down significantly. While this lowered the average ticket price, it successfully drove massive footfalls into auditoriums.",
+          "The promotional pricing strategy proved especially effective on digital platforms like BookMyShow, where hourly ticket sales dramatically outperformed figures recorded on preceding weekdays."
+        ]
+      },
+      {
+        "h": "Comparative Performance Across Markets",
+        "p": [
+          "An interesting dynamic of Ramayana's box office journey is the contrasting contribution of domestic versus international markets. While it trails behind Pushpa 2 in domestic figures, its extraordinary overseas earnings have effectively bridged a vast portion of that gap.",
+          "International audiences have embraced the Nitesh Tiwari directorial on an unprecedented scale, allowing the production to compensate for domestic shortfalls through strong global receipts."
+        ]
+      },
+      {
+        "h": "Projections and Upcoming Benchmarks",
+        "p": [
+          "Based on current trends, the feature is projected to add robust figures to its domestic net and gross collections on its twentieth day. If projections hold true, the gap between the two films will shrink to a fraction of its former self.",
+          "Industry trackers suggest that the Nitesh Tiwari directorial could surpass the Allu Arjun starrer globally as early as Wednesday, setting up future benchmarks against other top-tier worldwide earners."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Ramayana saw a 28 percent jump in advance booking revenue on its third Tuesday due to special ticket pricing, bringing it within striking distance of Pushpa 2's lifetime worldwide collection. Strong overseas earnings and rising ticket sales position the film to potentially surpass this major global milestone."
+        ]
+      }
+    ],
+    "facts": [
+      "Ramayana released on Thursday, November 5, 2026.",
+      "Ramayana India net stands at ₹955.45 crore.",
+      "Ramayana worldwide gross stands at ₹1,709.65 crore after 19 days.",
+      "Advance booking revenue without blocks jumped 27.7 percent on Day 20.",
+      "Tickets booked without blocks reached 3.39 lakh on Day 20."
+    ],
+    "entities": {
+      "people": [
+        "Allu Arjun",
+        "Sukumar",
+        "Namit Malhotra",
+        "Nitesh Tiwari"
+      ],
+      "titles": [
+        "Ramayana",
+        "Pushpa 2",
+        "KGF Chapter 2",
+        "RRR",
+        "Jawan",
+        "Baahubali 2",
+        "Dhurandhar 2",
+        "Dhurandhar",
+        "Kantara Chapter 1"
+      ]
+    },
+    "keywords": [
+      "Ramayana film",
+      "Ramayana box office",
+      "Pushpa 2 worldwide collection",
+      "Ramayana advance booking"
+    ],
+    "images": [
+      {
+        "url": "https://cdn.sacnilk.com/image/news300/1000028703.jpg",
+        "caption": "Ramayana Day 20 Advance Booking Revenue Jumps 28% as Pushpa 2 Lifetime Worldwide Collection Comes Within Reach",
+        "source": "Sacnilk"
+      }
+    ],
+    "published": "Tue, 24 Nov 2026 10:33:07 +0000"
+  },
+  "14geyp6": {
+    "id": "14geyp6",
+    "type": "news",
+    "headline": "Why Shah Rukh Khan And Siddharth Anand's Upcoming Partnership In King Has Fans Excited",
+    "dek": "With one month remaining until its Christmas Eve premiere, the upcoming action thriller King is generating immense anticipation by reuniting superstar Shah Rukh Khan with director Siddharth Anand.",
+    "body": [
+      {
+        "h": "The Anticipated Return Of A Blockbuster Duo",
+        "p": [
+          "The upcoming release of King has captured the attention of movie enthusiasts as superstar Shah Rukh Khan joins forces once again with director Siddharth Anand. Following their previous massive collaboration, anticipation for their next theatrical venture has reached new heights.",
+          "With exactly one month remaining until the film opens on the big screen, the excitement surrounding this partnership highlights the strong appeal of both the leading man and the filmmaker."
+        ]
+      },
+      {
+        "h": "Reflecting On Pathaan's Massive Success",
+        "p": [
+          "To understand the buzz surrounding their latest project, one only needs to look back at the historic run of Pathaan in 2023. That release marked Shah Rukh Khan's grand return to the cinema screen after a five-year absence, transforming theatres into lively celebrations.",
+          "The YRF spy film ultimately grossed over Rs 1,000 crore at the worldwide box office. Siddharth Anand successfully presented the actor in a high-octane persona that resonated instantly with viewers across the globe."
+        ]
+      },
+      {
+        "h": "Balancing Global Scale With Emotional Depth",
+        "p": [
+          "The primary strength of the Khan and Anand pairing lies in their ability to merge grand style with genuine emotion. The director, known for handling large-scale actioners like War, Pathaan, and Fighter, excels at mounting spectacles on an international canvas.",
+          "When combined with King Khan's trademark screen presence, wit, and emotional resonance, the result is a mass entertainer designed to keep audiences engaged from beginning to end."
+        ]
+      },
+      {
+        "h": "Venturing Into New Territory",
+        "p": [
+          "While their previous collaboration focused strictly on a spy narrative, King promises to push their creative partnership into fresh territory. The production is backed by Red Chillies Entertainment and Marflix Pictures, featuring international filming locations.",
+          "Rather than relying on a recycled formula, the project presents Shah Rukh Khan in a distinct new look alongside a diverse principal cast, aiming to establish a brand new benchmark for the duo."
+        ]
+      },
+      {
+        "h": "An Extensive Star-Studded Ensemble",
+        "p": [
+          "Directed by Siddharth Anand, the action thriller boasts a massive ensemble cast alongside the lead star. Notable names featured in pivotal roles include Suhana Khan, Abhishek Bachchan, Anil Kapoor, Jackie Shroff, and Jaideep Ahlawat.",
+          "The extensive roster also includes Arshad Warsi, Rani Mukerji, Raghav Juyal, Saurabh Shukla, Abhay Verma, Akshay Oberoi, Karanvir Malhotra, Kashvi Majmundar, and a special song appearance by Kareena Kapoor."
+        ]
+      },
+      {
+        "h": "Countdown To The Global Theatrical Release",
+        "p": [
+          "The global countdown is officially underway as the film prepares for a major festive rollout. Fans around the world are marking their calendars for the arrival of the movie in cinemas.",
+          "Scheduled for a Christmas Eve premiere on December 24, 2026, the project stands as one of the most anticipated cinematic events of the year."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Shah Rukh Khan and director Siddharth Anand are reuniting for the upcoming action thriller King, which is scheduled for a worldwide release on December 24, 2026. Backed by Red Chillies Entertainment and Marflix Pictures, the film features a large ensemble cast including Suhana Khan, Deepika, and Abhishek Bachchan. Building on the massive success of their 2023 collaboration Pathaan, this new project aims to deliver another major theatrical experience."
+        ]
+      }
+    ],
+    "facts": [
+      "Shah Rukh Khan and Siddharth Anand are reuniting for the film KING.",
+      "KING is scheduled for release on December 24, 2026.",
+      "Pathaan grossed over Rs 1,000 crore worldwide in 2023.",
+      "KING is produced by Red Chillies Entertainment and Marflix Pictures.",
+      "The cast of KING includes Suhana Khan, Deepika, Abhishek Bachchan, Anil Kapoor, Jackie Shroff, Jaideep Ahlawat, Arshad Warsi, Rani Mukerji, Raghav Juyal, Saurabh Shukla, Abhay Verma, Akshay Oberoi, Karanvir Malhotra, Kashvi Majmundar, and Kareena Kapoor."
+    ],
+    "entities": {
+      "people": [
+        "Shah Rukh Khan",
+        "Siddharth Anand",
+        "Suhana Khan",
+        "Deepika",
+        "Abhishek Bachchan",
+        "Anil Kapoor",
+        "Jackie Shroff",
+        "Jaideep Ahlawat",
+        "Arshad Warsi",
+        "Rani Mukerji",
+        "Raghav Juyal",
+        "Saurabh Shukla",
+        "Abhay Verma",
+        "Akshay Oberoi",
+        "Karanvir Malhotra",
+        "Kashvi Majmundar",
+        "Kareena Kapoor"
+      ],
+      "titles": [
+        "KING",
+        "Pathaan",
+        "War",
+        "Fighter"
+      ]
+    },
+    "keywords": [
+      "Shah Rukh Khan KING",
+      "Siddharth Anand KING film",
+      "KING release date December 24 2026",
+      "Red Chillies Entertainment Marflix Pictures KING"
+    ],
+    "images": [
+      {
+        "url": "https://cdn.bollywoodbubble.com/wp-content/uploads/2026/11/What-Makes-Shah-Rukh-Khan-and-Siddharth-Anands-Reunion-In-KING-Exciting_.webp",
+        "caption": "Why Shah Rukh Khan And Siddharth Anand's Upcoming Partnership In King Has Fans Excited",
+        "source": "Bollywood Bubble"
+      }
+    ],
+    "published": "Tue, 24 Nov 2026 09:44:38 +0000"
+  },
+  "1iphf5p": {
+    "id": "1iphf5p",
+    "type": "news",
+    "headline": "Netflix Offers Exclusive First Look at Festive Scenes in Upcoming Pride and Prejudice Adaptation",
+    "dek": "A rainy October set visit reveals how the streaming platform's new six-part series brings Jane Austen's timeless characters to life for the holidays.",
+    "body": [
+      {
+        "h": "Stepping Onto the Festive Set",
+        "p": [
+          "Production on Netflix's upcoming period drama recently offered a rare glimpse into the holiday traditions of the Bennet family. While the calendar outside read October and rain poured down, the interior of Longbourn House was completely transformed for Christmas festivities.",
+          "The production utilized The Golden Parsonage, an 18th-century property situated in Great Gaddesden, Hertfordshire. The location famously maintains a strict rule against indoor filming, but an upcoming interior redecoration allowed the crew to secure a unique exception for the project."
+        ]
+      },
+      {
+        "h": "Authentic Regency Holiday Details",
+        "p": [
+          "Recreating a Regency-era Christmas required careful historical consideration from the art department. Production designer Richard Bullock noted the intentional absence of Victorian staples like Christmas trees and turkeys, which did not feature in holiday celebrations during Austen's time.",
+          "Instead, the production embraced period-accurate decorations such as holly and festive ribbons. Gift-giving and large family dinners formed the core of the seasonal atmosphere, with kitchen preparations hinting at unexpected dinner guests arriving for the celebration."
+        ]
+      },
+      {
+        "h": "An All-Star Cast Take on Classic Roles",
+        "p": [
+          "The ambitious six-part series boasts a stellar lineup of British talent taking on the beloved literary roles. Olivia Colman and Rufus Sewell step into the shoes of Mr. and Mrs. Bennet, anchoring the eccentric family dynamics.",
+          "Meanwhile, the iconic romantic leads are portrayed by Emma Corrin as Elizabeth Bennet and Jack Lowden as the brooding Mr. Darcy. The casting aims to bring a fresh yet faithful energy to the classic dynamic between Lizzy and Darcy."
+        ]
+      },
+      {
+        "h": "A Modern Approach to Austen's Masterpiece",
+        "p": [
+          "Helmed by author Dolly Alderton as writer, this iteration aims to balance reverence for Jane Austen's original text with contemporary sensibilities. Executive producer Laura Lankester emphasized the goal of crafting a loving adaptation that unearths modern resonance.",
+          "Lankester also highlighted the distinct chemistry between the main characters. Describing the new Lizzy and Darcy as smart, witty, and deeply connected, the creative team hopes to introduce the enduring romance to an entirely new generation of viewers."
+        ]
+      },
+      {
+        "h": "Historical Accuracy and Location Access",
+        "p": [
+          "Gaining access to The Golden Parsonage required precise timing and coordination from the art and design teams. Because the 18th-century Hertfordshire house was scheduled for a complete interior makeover, the owners granted the production unprecedented access to film inside.",
+          "The production even incorporated real family portraits belonging to the property's owners into the set design. This collaboration added a genuine layer of historic elegance to the fictional home of the Bennet family."
+        ]
+      },
+      {
+        "h": "Streaming Release Details",
+        "p": [
+          "Fans waiting to experience the holiday drama won't have to wait much longer. Netflix has scheduled the six-part adaptation to premiere on its platform later this year.",
+          "The series officially begins streaming on 3 December 2026, giving audiences a festive literary escape just in time for the winter holiday season."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Netflix has provided an exclusive behind-the-scenes look at its upcoming six-part adaptation of Pride and Prejudice, written by Dolly Alderton. Starring Olivia Colman, Rufus Sewell, Emma Corrin, and Jack Lowden, the series is set to premiere on 3 December 2026."
+        ]
+      }
+    ],
+    "facts": [
+      "The adaptation is a six-part series for Netflix.",
+      "Filming took place at The Golden Parsonage in Great Gaddesden, Hertfordshire.",
+      "The cast includes Olivia Colman, Rufus Sewell, Emma Corrin, and Jack Lowden.",
+      "Dolly Alderton wrote the adaptation.",
+      "The series premieres on Netflix on 3 December 2026."
+    ],
+    "entities": {
+      "people": [
+        "Dolly Alderton",
+        "Laura Rutkowski",
+        "Olivia Colman",
+        "Rufus Sewell",
+        "Emma Corrin",
+        "Jack Lowden",
+        "Chloë Thomson",
+        "Laura Lankester",
+        "Richard Bullock",
+        "Keira Knightley",
+        "Matthew Macfadyen",
+        "Jane Austen"
+      ],
+      "titles": [
+        "Pride and Prejudice"
+      ]
+    },
+    "keywords": [
+      "Pride and Prejudice Netflix",
+      "Emma Corrin Pride and Prejudice",
+      "Jack Lowden Mr Darcy",
+      "Dolly Alderton Pride and Prejudice"
+    ],
+    "images": [
+      {
+        "url": "https://images.production.immediate.co.uk/volatile/sites/3/2026/10/Pride-and-Prejudice-c999242.jpg?resize=1200%2C630",
+        "caption": "Netflix Offers Exclusive First Look at Festive Scenes in Upcoming Pride and Prejudice Adaptation",
+        "source": "Radio Times"
+      }
+    ],
+    "published": "Tue, 24 Nov 2026 10:00:40 GMT"
   }
 };
