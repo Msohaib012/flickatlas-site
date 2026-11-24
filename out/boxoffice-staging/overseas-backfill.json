@@ -186,6 +186,7 @@
       "date": "2026-11-02",
       "day": 19,
       "occupancy_pct": 13.2,
+      "overseas_inr_cr": 1.0,
       "shows": 7995,
       "source": "overseas-backfill"
     },
@@ -1847,6 +1848,14 @@
       "occupancy_pct": 37.9,
       "overseas_inr_cr": 14.0,
       "shows": 16277,
+      "source": "overseas-backfill"
+    },
+    {
+      "date": "2026-11-23",
+      "day": 19,
+      "occupancy_pct": 17.0,
+      "overseas_inr_cr": 563.0,
+      "shows": 15696,
       "source": "overseas-backfill"
     }
   ],

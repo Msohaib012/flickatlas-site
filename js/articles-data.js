@@ -232970,5 +232970,406 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Mon, 23 Nov 2026 22:23:48 +0000"
+  },
+  "1gz9i1c": {
+    "id": "1gz9i1c",
+    "type": "news",
+    "headline": "Ramayana Box Office Day 19: Film Crosses Rs 1,700 Crore Globally Despite Monday Dip",
+    "dek": "Ramayana: Part 1 has crossed Rs 1,700 crore worldwide on Day 19, edging closer to the Rs 1,000 crore India nett milestone despite a sharp drop on its third Monday.",
+    "body": [
+      {
+        "h": "Global Milestone Achieved",
+        "p": [
+          "The epic cinematic adaptation Ramayana: Part 1 has officially powered past the monumental Rs 1,700 crore threshold at the worldwide box office by its nineteenth day in theatres. Even though weekdays typically bring a slowdown in ticket sales, the blockbuster continues to exhibit remarkable staying power globally, driven by strong international markets and enduring audience interest.",
+          "With overseas earnings alone contributing Rs 563 crore to the tally, the combined worldwide gross has now touched Rs 1,704.65 crore. This robust international performance demonstrates the wide geographical appeal of the project, allowing it to sustain impressive momentum well into its third week of theatrical release."
+        ]
+      },
+      {
+        "h": "The Third Monday Slowdown",
+        "p": [
+          "Like most commercial releases, the enterprise encountered a notable downward correction on its third Monday, pulling in Rs 12.70 crore in nett collections across all Indian languages. This figure reflects a sharp 64.3 percent reduction compared to the previous day, when the feature had pocketed Rs 35.60 crore on Sunday.",
+          "Such weekday dips are standard industry behavior following heavy weekend surges. Nevertheless, the scale of the drop highlights the transition from peak weekend footfalls back to standard weekday viewing habits among patrons across various territories."
+        ]
+      },
+      {
+        "h": "Approaching the Domestic Nett Record",
+        "p": [
+          "Domestically, the movie stands on the verge of creating history as its overall India nett collection climbs to Rs 955.45 crore according to tracking data from Sacnilk. This leaves the production just Rs 44.55 crore away from breaching the coveted Rs 1,000 crore domestic nett milestone.",
+          "Concurrently, the film's total India gross has ascended to Rs 1,141.65 crore. Reaching this plateau places the venture in an elite tier of Indian cinema, underscoring the massive scale of domestic ticket sales amassed over its nearly three-week run."
+        ]
+      },
+      {
+        "h": "Language-Wise Performance on Day 19",
+        "p": [
+          "On its nineteenth day, the feature was screened across 15,696 shows nationwide, with the Hindi version spearheading the box office output by generating Rs 9.25 crore from 13,442 shows. Regional versions also added steady contributions to the overall daily ledger.",
+          "The Malayalam language variant brought in Rs 1.50 crore across 826 shows, while the Kannada version secured Rs 85 lakh from 438 screenings. Additionally, the Tamil language rollout yielded Rs 80 lakh from 565 shows, and the Telugu version added Rs 30 lakh from 425 shows."
+        ]
+      },
+      {
+        "h": "Trajectory from Opening Week Onwards",
+        "p": [
+          "The journey to these record figures unfolded through consistent weekly performances, beginning with an opening week gross of Rs 675 crore. This was followed by a second week gross of Rs 357.10 crore, establishing a solid foundation for the enterprise.",
+          "Entering the third week, daily collections demonstrated pockets of heavy resurgence, noting Rs 18.80 crore on Day 16, Rs 33.05 crore on Day 17, and Rs 42.50 crore on Day 18, before settling at a gross of Rs 15.15 crore on Day 19."
+        ]
+      },
+      {
+        "h": "Cast, Crew, and Creative Direction",
+        "p": [
+          "Directed by Nitesh Tiwari as the initial chapter of a two-part adaptation of the ancient Hindu epic, the project is alternatively known as Ramayana: Rise of a Legend in international regions. The prominent principal cast features Ranbir Kapoor as Lord Rama, Sai Pallavi as Goddess Sita, and Yash in the role of Ravana.",
+          "The supporting ensemble includes Ravie Dubey as Lakshman, Rakul Preet Singh as Surpanakha, Lara Dutta as Queen Kaikeyi, Arun Govil as King Dashrath, and Kajal Aggarwal as Mandodari. Production duties were managed by Namit Malhotra and Yash under Prime Focus Studios and Monster Mind Creations, featuring visual effects by DNEG and ReDefine alongside music composed by Hans Zimmer and AR Rahman."
+        ]
+      },
+      {
+        "h": "Sequel Confirmation and Future Plans",
+        "p": [
+          "The cinematic journey of this epic narrative is far from concluding with the current theatrical exhibition. Producers have officially confirmed that the saga will continue with Ramayana: Part 2.",
+          "Audiences can expect the sequel to arrive in theatres during the Diwali festival in 2028, extending the multi-part exploration of the legendary tale."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Ramayana: Part 1 has surpassed Rs 1,700 crore worldwide by its nineteenth day despite a sharp third Monday drop in collections. The production is now nearing the Rs 1,000 crore India nett milestone with strong overall domestic earnings and confirmed plans for a sequel in Diwali 2028."
+        ]
+      }
+    ],
+    "facts": [
+      "Ramayana: Part 1 crossed Rs 1,700 crore worldwide on Day 19.",
+      "The film earned Rs 12.70 crore nett across all languages on its third Monday.",
+      "Monday's collection was a 64.3 per cent drop from Sunday's Rs 35.60 crore.",
+      "India nett collection stands at Rs 955.45 crore, leaving it Rs 44.55 crore short of Rs 1,000 crore.",
+      "India gross has reached Rs 1,141.65 crore.",
+      "Overseas earnings stand at Rs 563 crore, bringing worldwide gross to Rs 1,704.65 crore.",
+      "Day 19 total shows across the country were 15,696.",
+      "Hindi version earned Rs 9.25 crore from 13,442 shows on Day 19.",
+      "Malayalam version earned Rs 1.50 crore from 826 shows on Day 19.",
+      "Kannada version collected Rs 85 lakh from 438 shows on Day 19.",
+      "Tamil version earned Rs 80 lakh from 565 shows on Day 19.",
+      "Telugu version contributed Rs 30 lakh from 425 shows on Day 19.",
+      "Week 1 collection was Rs 675 crore and Week 2 collection was Rs 357.10 crore.",
+      "Day 16 collection was Rs 18.80 crore, Day 17 was Rs 33.05 crore, and Day 18 was Rs 42.50 crore.",
+      "Ramayana: Part 2 will arrive in theatres during Diwali 2028."
+    ],
+    "entities": {
+      "people": [
+        "Ranbir Kapoor",
+        "Yash",
+        "Sai Pallavi",
+        "Ravie Dubey",
+        "Rakul Preet Singh",
+        "Lara Dutta",
+        "Arun Govil",
+        "Kajal Aggarwal",
+        "Nitesh Tiwari",
+        "Namit Malhotra",
+        "Hans Zimmer",
+        "AR Rahman"
+      ],
+      "titles": [
+        "Ramayana: Part 1",
+        "Ramayana: Rise of a Legend",
+        "Ramayana: Part 2"
+      ]
+    },
+    "keywords": [
+      "Ramayana box office Day 19",
+      "Ramayana Part 1 collection",
+      "Ranbir Kapoor Yash Ramayana",
+      "Ramayana worldwide gross"
+    ],
+    "images": [
+      {
+        "url": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202611/ramayana-194134571-16x9.png?VersionId=FrocS65fuFKC8RtEpETmFYfM.IbY3iVU",
+        "caption": "Ramayana Box Office Day 19: Film Crosses Rs 1,700 Crore Globally Despite Monday Dip",
+        "source": "India Today — Movies"
+      }
+    ],
+    "published": "Tue, 24 Nov 2026 07:03:23 +0530"
+  },
+  "lubsck": {
+    "id": "lubsck",
+    "type": "news",
+    "headline": "Jessica Alba Ordered to Pay Ex-Husband Cash Warren Over $577,000 in Retirement Funds Following Divorce",
+    "dek": "Court documents reveal that the actress must pay her former spouse a significant sum from her company's profit-sharing plan as part of their ongoing settlement.",
+    "body": [
+      {
+        "h": "The Financial Settlement",
+        "p": [
+          "Recent court documents have revealed that actress Jessica Alba has been directed to pay her ex-husband, Cash Warren, an exact total of $577,481. This monetary obligation stems directly from her retirement benefits tied to the profit-sharing plan of her enterprise, HonorBar Inc.",
+          "According to the official records, this figure will undergo adjustments based on investment gains and losses leading right up to the final date of the fund transfer. Once this specific obligation is met, Alba will have no further requirements to disburse additional company-related benefits to Warren."
+        ]
+      },
+      {
+        "h": "Prior Asset Distribution",
+        "p": [
+          "This latest court-mandated payment follows a previous financial arrangement designed to balance asset distribution when the former couple officially settled their divorce in February. At that time, Warren received a substantial $3 million payout.",
+          "Reports noted that that earlier sum was divided into two distinct installments of $1.5 million each. Interestingly, despite managing considerable business ventures—including Alba's Honest Company valued at $623 million and Warren's brand Pair of Thieves valued at least $100 million—the pair had never signed a prenuptial agreement."
+        ]
+      },
+      {
+        "h": "Marriage and Separation Timeline",
+        "p": [
+          "The financial proceedings mark the ongoing conclusion of a long-term relationship that spanned nearly two decades. Alba and Warren were married for 16 years before ultimately deciding to separate in December 2024.",
+          "Following their private separation, the actress publicly addressed the split on social media in January 2025. She noted her pride in their mutual growth over 20 years and expressed a desire to move forward into a new chapter of individual evolution."
+        ]
+      },
+      {
+        "h": "Filing for Divorce",
+        "p": [
+          "Shortly after addressing the public regarding their separation, formal legal proceedings commenced. Alba filed for divorce in early 2025, officially citing irreconcilable differences as the underlying reason for the termination of the marriage.",
+          "Throughout the transition, both individuals emphasized mutual respect and a dedication to their shared history. Alba stressed that they would forever remain a family and that their primary focus would always stay on their children."
+        ]
+      },
+      {
+        "h": "Custody and Family Life",
+        "p": [
+          "The former couple shares three children together: daughters Honor, aged 18, and Haven, aged 15, alongside an eight-year-old son named Hayes. Following their split, both parents maintained shared responsibilities for their offspring.",
+          "Alba and Warren currently share joint legal and physical custody of all three children. Despite the ongoing legal resolutions regarding their assets and finances, the co-parents have continued to navigate their family duties."
+        ]
+      },
+      {
+        "h": "Post-Divorce Romance and Public Dynamics",
+        "p": [
+          "In the time since their separation, both individuals have experienced shifts in their personal lives. Alba has been linked romantically to actor Danny Ramirez since July 2025, with the pair frequently spotted together, including a romantic Florida getaway in May.",
+          "Meanwhile, public interactions between the former spouses have occasionally appeared strained. The two experienced an awkward reunion in May while attending their daughter Honor's high school graduation in Los Angeles, where they consciously sat on opposite ends of the same row."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Jessica Alba has been ordered by a court to pay her ex-husband Cash Warren over $577,000 from her retirement funds as part of their divorce settlement. The couple separated in December 2024 after 16 years of marriage, subsequently sharing joint custody of their three children."
+        ]
+      }
+    ],
+    "facts": [
+      "Jessica Alba was ordered to pay Cash Warren $577,481.",
+      "The payout comes from HonorBar Inc.'s Profit Sharing Plan.",
+      "The couple separated in December 2024 after 16 years of marriage.",
+      "Warren previously received a $3 million payout in February.",
+      "They share three children: Honor, Haven, and Hayes.",
+      "Alba filed for divorce in early 2025 citing irreconcilable differences."
+    ],
+    "entities": {
+      "people": [
+        "Jessica Alba",
+        "Cash Warren",
+        "Honor",
+        "Haven",
+        "Hayes",
+        "Danny Ramirez"
+      ],
+      "titles": [
+        "Sin City"
+      ]
+    },
+    "keywords": [
+      "Jessica Alba divorce",
+      "Cash Warren payout",
+      "Jessica Alba retirement funds",
+      "HonorBar Inc Profit Sharing Plan"
+    ],
+    "images": [
+      {
+        "url": "https://pagesix.com/wp-content/uploads/sites/3/2026/11/149865367.jpg?quality=75&amp;strip=all&amp;w=1024",
+        "caption": "Jessica Alba Ordered to Pay Ex-Husband Cash Warren Over $577,000 in Retirement Funds Following Divorce",
+        "source": "Page Six"
+      }
+    ],
+    "published": "Mon, 23 Nov 2026 19:50:50 -0500"
+  },
+  "5wrtit": {
+    "id": "5wrtit",
+    "type": "news",
+    "headline": "'O.M Operation Mole' Day 4 Box Office: Mammootty, Dhanush, and Sai Pallavi Starrer Crosses Rs 93 Crore Worldwide",
+    "dek": "The multilingual action drama features an ensemble cast and has recorded robust domestic and international ticket sales within its first four days in theaters.",
+    "body": [
+      {
+        "h": "Strong Opening Days and Worldwide Milestone",
+        "p": [
+          "The theatrical release 'O.M Operation Mole' has achieved a major commercial milestone by surpassing the Rs 93 crore mark in global gross collections within its initial four days of exhibition. Featuring prominent actors Mammootty, Dhanush, and Sai Pallavi, the multi-language production has drawn significant audiences both domestically and internationally. Industry trackers note that the film is steadily marching toward the coveted Rs 100 crore worldwide milestone.",
+          "The feature film crossed the Rs 50 crore threshold in India net collections alone during this four-day window. Backed by extensive multi-language distribution, the project has maintained a solid foothold at the box office despite encountering the customary weekday drop in ticket sales as Monday unfolded."
+        ]
+      },
+      {
+        "h": "Monday Collections and Weekday Slowdown",
+        "p": [
+          "On Monday, November 23, the movie added Rs 6.20 crore to its India net collection. This figure represented a 61 percent decline when compared to the earnings recorded on the preceding Sunday, aligning with normal box office trends where weekday numbers experience a downward correction.",
+          "Across 6,123 shows spanning Tamil, Telugu, and Hindi versions, the feature generated an average collection of Rs 10,126 per show on its fourth day. The overall theatre occupancy across all combined language formats stood at 22.9 percent on Monday."
+        ]
+      },
+      {
+        "h": "Language-Wise Performance and Contributions",
+        "p": [
+          "Domestic earnings for 'O.M Operation Mole' have been heavily propelled by its Tamil language version. The Tamil print accounts for nearly three-fourths of the total India net earnings, bringing in Rs 4.10 crore on its fourth day alone and driving a cumulative domestic total of Rs 40.85 crore so far.",
+          "Meanwhile, the Telugu version contributed Rs 1.75 crore on Monday, raising its running domestic total to Rs 13.25 crore and accounting for 23.7 percent of the overall net. The Hindi version added Rs 35 lakh on Monday, bringing its individual contribution to Rs 1.85 crore."
+        ]
+      },
+      {
+        "h": "Occupancy Rates Across Formats",
+        "p": [
+          "An analysis of theatre occupancy on the fourth day reveals varied engagement levels across different language versions. The Telugu version recorded the highest overall occupancy among the three languages at 26 percent, closely followed by the Tamil version at 25 percent, while the Hindi version registered 12 percent occupancy.",
+          "For the Tamil screenings specifically, afternoon shows drew the highest turnout with a 24.77 percent occupancy rate. Evening screenings followed closely at 24.38 percent, whereas morning shows recorded 16.38 percent, resulting in an overall Tamil version occupancy of 21.85 percent."
+        ]
+      },
+      {
+        "h": "Domestic and International Gross Split",
+        "p": [
+          "The film's cumulative India gross collection reached Rs 64.90 crore by the end of its fourth day. Overseas markets have also played a crucial role in pushing the global total higher, contributing an additional Rs 1.50 crore on Monday to take the international gross to Rs 28.50 crore.",
+          "Geographical distribution figures indicate that India accounts for roughly 69.5 percent of the film's combined gross earnings. International territories account for the remaining 30.5 percent, highlighting a healthy overseas appetite for the star-studded venture."
+        ]
+      },
+      {
+        "h": "Comparison With Previous Releases",
+        "p": [
+          "In a direct box office comparison, 'O.M Operation Mole' has outperformed Dhanush's previous release, 'Kuberaa', during the exact same four-day timeframe. 'Kuberaa' had collected Rs 6.80 crore in India net on its fourth day, which fell on Monday, June 23, 2025, and stood at a worldwide gross of Rs 87.59 crore at that point.",
+          "With its current global gross standing at Rs 93.40 crore after four days, 'O.M Operation Mole' has successfully outpaced the four-day benchmarks set by the actor's earlier theatrical outing."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "'O.M Operation Mole', starring Mammootty, Dhanush, and Sai Pallavi, crossed Rs 93 crore worldwide within its first four days in theaters. The film achieved over Rs 50 crore in India net collections, led primarily by strong performances in its Tamil version."
+        ]
+      }
+    ],
+    "facts": [
+      "O.M Operation Mole crossed Rs 93 cr worldwide in four days.",
+      "The film crossed the Rs 50 cr mark in India net collections within four days.",
+      "Monday, November 23 collection added Rs 6.20 cr.",
+      "The fourth-day India net collection came from 6,123 shows across Tamil, Telugu, and Hindi.",
+      "Tamil version contributed Rs 4.10 cr on Day 4.",
+      "Telugu version earned Rs 1.75 cr on Day 4.",
+      "Hindi version added Rs 35 lakh on Day 4.",
+      "Cumulative India net reached Rs 55.95 cr.",
+      "Monday collection registered a 61% decline compared with Sunday.",
+      "Overall occupancy across all languages on Monday stood at 22.9%.",
+      "India gross collection reached Rs 64.90 cr.",
+      "Overseas gross stands at Rs 28.50 cr.",
+      "Tamil version collected Rs 40.85 cr so far, representing 73% of total India net.",
+      "Telugu version follows with Rs 13.25 cr, accounting for 23.7%.",
+      "Hindi version contributed Rs 1.85 cr, making up 3.3%.",
+      "Kuberaa collected Rs 6.80 cr in India net on its fourth day, Monday, June 23, 2025.",
+      "Kuberaa worldwide gross collection had reached Rs 87.59 cr after four days."
+    ],
+    "entities": {
+      "people": [
+        "Mammootty",
+        "Dhanush",
+        "Sai Pallavi"
+      ],
+      "titles": [
+        "O.M Operation Mole",
+        "Kuberaa"
+      ]
+    },
+    "keywords": [
+      "O.M Operation Mole box office",
+      "Mammootty Dhanush Sai Pallavi film",
+      "O.M Operation Mole collection day 4",
+      "Kuberaa box office comparison"
+    ],
+    "images": [
+      {
+        "url": "https://static.toiimg.com/thumb/msid-136116757,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "caption": "'O.M Operation Mole' Day 4 Box Office: Mammootty, Dhanush, and Sai Pallavi Starrer Crosses Rs 93 Crore Worldwide",
+        "source": "Times of India — Entertainment"
+      }
+    ],
+    "published": "2026-11-24T06:24:49+05:30"
+  },
+  "iuvgrc": {
+    "id": "iuvgrc",
+    "type": "news",
+    "headline": "Harry Potter Fans Predict HBO Will Drop Final TV Show Trailer at CCXP",
+    "dek": "Enthusiasts of the upcoming Harry Potter television adaptation believe they have figured out when the final promotional footage will debut.",
+    "body": [
+      {
+        "h": "Anticipation for the Harry Potter Reboot",
+        "p": [
+          "Followers of the magical universe are eagerly waiting for another glimpse at the franchise reboot. The much-discussed series is scheduled to begin streaming on Christmas Day in the year 2026.",
+          "With a new preview expected very soon, dedicated viewers believe they have successfully deduced the exact timeline for its arrival."
+        ]
+      },
+      {
+        "h": "The Fan Theories Pointing to CCXP",
+        "p": [
+          "The speculation stems from promotional habits that network HBO has previously utilized for other major fantasy properties like House of the Dragon and A Knight of the Seven Kingdoms.",
+          "December 6 has been pinpointed as the convention date where devotees might receive a fresh look at the inaugural season, or at the very least, some brand new footage."
+        ]
+      },
+      {
+        "h": "Convention Panel Lineup Fuels Speculation",
+        "p": [
+          "A scheduled panel at the gathering will feature several key figures associated with the first season of Harry Potter. Attendees will include cast members Nick Frost and Daniel Rigby, alongside showrunner Francesca Gardiner.",
+          "The community expects this specific panel to share unreleased material, potentially offering the final peek at Hogwarts before the program officially premieres on December 25, 2026."
+        ]
+      },
+      {
+        "h": "HBO's History at Major Fan Events",
+        "p": [
+          "The network has a well-documented track record of leveraging major fan gatherings for massive reveals. Historically, CCXP has premiered fresh clips from upcoming television projects to build pre-release hype.",
+          "During last year's convention, unreleased footage from A Knight of the Seven Kingdoms was unveiled ahead of its January debut, mirroring similar strategies used for The Last of Us and House of the Dragon."
+        ]
+      },
+      {
+        "h": "Reddit Discussions and Predictions",
+        "p": [
+          "Online discussions have run rampant, with Reddit user duckduckduckgoose_69 guessing that the preview could drop during Thanksgiving, Black Friday, or the Brazilian convention.",
+          "Reacting to that thread, fellow user FILMSTUDENT25 argued that the convention remained the most logical choice given the network's recent history of winter show reveals."
+        ]
+      },
+      {
+        "h": "The Rise of Winter Conventions",
+        "p": [
+          "Another community member, isthismytripcode, emphasized the growing significance of the winter festival held in Brazil. They noted that while San Diego Comic Con dominates the summer season, the international event has become a primary venue for winter announcements.",
+          "This sentiment reinforced the widespread belief that the upcoming venue would serve as the ideal backdrop for the final preview."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Followers of the upcoming Harry Potter television series speculate that HBO will release the final trailer during the December 6 CCXP convention. This theory is supported by the network's past promotional patterns for shows like House of the Dragon and a scheduled panel featuring Nick Frost, Daniel Rigby, and Francesca Gardiner."
+        ]
+      }
+    ],
+    "facts": [
+      "The Harry Potter series is set to begin streaming on Christmas 2026.",
+      "CCXP takes place on December 6.",
+      "Nick Frost plays Rubeus Hagrid.",
+      "Daniel Rigby plays Vernon Dursley.",
+      "Francesca Gardiner is the showrunner."
+    ],
+    "entities": {
+      "people": [
+        "Anuraag Chatterjee",
+        "Nick Frost",
+        "Daniel Rigby",
+        "Francesca Gardiner",
+        "duckduckduckgoose_69",
+        "FILMSTUDENT25",
+        "isthismytripcode"
+      ],
+      "titles": [
+        "Harry Potter",
+        "House of the Dragon",
+        "A Knight of the Seven Kingdoms",
+        "The Last of Us",
+        "Gremlins 3"
+      ]
+    },
+    "keywords": [
+      "Harry Potter TV show trailer",
+      "HBO Harry Potter CCXP",
+      "Harry Potter series release date",
+      "Nick Frost Harry Potter HBO"
+    ],
+    "images": [
+      {
+        "url": "https://www.comingsoon.net/wp-content/uploads/sites/3/2026/11/Deepesh-personal-1200-_-675-2026-11-24T053727.273.png?resize=1200,630",
+        "caption": "Harry Potter Fans Predict HBO Will Drop Final TV Show Trailer at CCXP",
+        "source": "ComingSoon.net"
+      }
+    ],
+    "published": "Tue, 24 Nov 2026 00:22:15 +0000"
   }
 };

@@ -1338,6 +1338,17 @@
             },
             "value": 12.4
           },
+          "overseas": {
+            "crore": 1.0,
+            "currency": "USD",
+            "date": "2026-11-02",
+            "date_disagreed": false,
+            "scope": "overseas_gross",
+            "sources": {
+              "overseas-backfill": 1.0
+            },
+            "value": 105652
+          },
           "shows": {
             "sources": {
               "filmynewsnetwork": 7626,
@@ -22564,6 +22575,24 @@
               "overseas-backfill": 16277
             },
             "value": 16277
+          }
+        },
+        "india": false
+      },
+      "19": {
+        "date": "2026-11-23",
+        "extras": {
+          "occupancy": {
+            "sources": {
+              "overseas-backfill": 17.0
+            },
+            "value": 17.0
+          },
+          "shows": {
+            "sources": {
+              "overseas-backfill": 15696
+            },
+            "value": 15696
           }
         },
         "india": false
