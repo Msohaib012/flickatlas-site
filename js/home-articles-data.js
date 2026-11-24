@@ -88,6 +88,81 @@ window.FA_HOME_ARTICLES = {
     ],
     "published": "Tue, 24 Nov 2026 04:13:58 +0000"
   },
+  "c4tdqs": {
+    "id": "c4tdqs",
+    "type": "news",
+    "headline": "No Win for India at the 2026 International Emmy Awards as Vir Das and Real Kashmir Football Club Miss Out on Top Honours",
+    "dek": "India's entries at the 2026 International Emmy Awards, including Vir Das's stand-up special and the SonyLIV series Real Kashmir Football Club, failed to secure victories in their respective categories.",
+    "entities": {
+      "people": [
+        "Vir Das",
+        "Michael Urie",
+        "Mohammed Zeeshan Ayyub",
+        "Manav Kaul",
+        "Mahesh Mathai",
+        "Rajesh Mapuskar",
+        "Vijay Sethupathi",
+        "Riya Sharma"
+      ],
+      "titles": [
+        "Vir Das: Fool Volume",
+        "División Palermo – Season 2",
+        "Vir Das: Landing",
+        "Derry Girls",
+        "Real Kashmir Football Club",
+        "A Thousand Blows",
+        "Carême",
+        "Menem"
+      ]
+    },
+    "keywords": [
+      "Vir Das International Emmy Awards 2026",
+      "Real Kashmir Football Club series",
+      "International Emmy Awards 2026 India",
+      "Vir Das Fool Volume Netflix"
+    ],
+    "images": [
+      {
+        "url": "https://www.hindustantimes.com/ht-img/img/2026/11/24/1600x900/logo/Vir_Emmysss_1795490638268_Voqw_1795490652463_3j6k_6d743d60-701e-4c43-b5ba-e46b59caa210_PlwN.jpg",
+        "caption": "No Win for India at the 2026 International Emmy Awards as Vir Das and Real Kashmir Football Club Miss Out on Top Honours",
+        "source": "Hindustan Times — Entertainment"
+      }
+    ],
+    "published": "Tue, 24 Nov 2026 09:25:12 +0530"
+  },
+  "1drpsjw": {
+    "id": "1drpsjw",
+    "type": "news",
+    "headline": "Don Toliver Postpones London Gig Following Manchester Arena Chemical Incident",
+    "dek": "The American rapper delayed his O2 Arena performance after dozens of concertgoers fell ill from an unidentified substance during his Manchester tour stop.",
+    "entities": {
+      "people": [
+        "Don Toliver",
+        "Tom Harding",
+        "Ariana Grande",
+        "Taylor Swift",
+        "Donny Osmond",
+        "Michael Jackson"
+      ],
+      "titles": [
+        "Eras Tour"
+      ]
+    },
+    "keywords": [
+      "Don Toliver London concert postponed",
+      "Manchester Co op Live Arena incident",
+      "Don Toliver Manchester show",
+      "89 fans sickened Manchester concert"
+    ],
+    "images": [
+      {
+        "url": "https://www.thewrap.com/wp-content/uploads/2026/11/don-toliver-manchester-concert.jpg",
+        "caption": "Don Toliver Postpones London Gig Following Manchester Arena Chemical Incident",
+        "source": "TheWrap"
+      }
+    ],
+    "published": "Tue, 24 Nov 2026 03:48:00 +0000"
+  },
   "fc9ax1": {
     "id": "fc9ax1",
     "type": "news",
@@ -150,6 +225,108 @@ window.FA_HOME_ARTICLES = {
     ],
     "images": [],
     "published": "Mon, 23 Nov 2026 22:20:00 EST"
+  },
+  "tljc71": {
+    "id": "tljc71",
+    "type": "news",
+    "headline": "Only Murders in the Building Creators and Stars Confirm Major Season 7 Location Change",
+    "dek": "Following a detour to London for season 6, the creators and principal cast of Hulu's hit mystery comedy have confirmed plans to bring the production and story back to New York City for season 7.",
+    "entities": {
+      "people": [
+        "Matthew Rudoy",
+        "Steve Martin",
+        "Martin Short",
+        "Selena Gomez",
+        "Tina Fey",
+        "John Hoffman",
+        "Michael Cyril Creighton",
+        "Da'Vine Joy Randolph",
+        "Meryl Streep",
+        "Simone Ashley",
+        "Matthew Beard",
+        "Jim Broadbent",
+        "Peter Capaldi",
+        "Olivia Colman",
+        "Nicola Coughlan",
+        "Jamie Demetriou",
+        "Martin Freeman",
+        "Richard E. Grant",
+        "Geri Halliwell-Horner",
+        "Jane Horrocks",
+        "Sharon Horgan",
+        "Lesley Nicol",
+        "Jennifer Saunders",
+        "Sean Teale",
+        "David Tennant",
+        "Anjana Vasan",
+        "Jodie Whittaker"
+      ],
+      "titles": [
+        "Only Murders in the Building",
+        "Only Murders in London",
+        "Star Wars",
+        "The Boys",
+        "Game of Thrones",
+        "Doctor Who"
+      ]
+    },
+    "keywords": [
+      "Only Murders in the Building season 7",
+      "Only Murders in the Building season 6",
+      "Steve Martin Martin Short John Hoffman",
+      "Only Murders in the Building London"
+    ],
+    "images": [
+      {
+        "url": "https://static0.srcdn.com/wordpress/wp-content/uploads/2026/08/charles-mabel-and-oliver-sipping-tea-in-only-murders-in-the-building-season-6.jpg?w=1600&amp;h=900&amp;fit=crop",
+        "caption": "Only Murders in the Building Creators and Stars Confirm Major Season 7 Location Change",
+        "source": "Screen Rant"
+      }
+    ],
+    "published": "Tue, 24 Nov 2026 03:17:54 GMT"
+  },
+  "jq84rx": {
+    "id": "jq84rx",
+    "type": "news",
+    "headline": "Suriya’s ‘Scene’ Crosses Rs. 150 Crore India Net Milestone Amid Box Office Comparison With ‘Mookuthi Amman 2’",
+    "dek": "Tamil star Suriya's latest movie 'Scene' achieves a major box office milestone, crossing Rs. 150 crore in India net collection by its eighteenth day in theaters.",
+    "entities": {
+      "people": [
+        "Suriya",
+        "Jithu Madhavan",
+        "Nazriya Nazim",
+        "Naslen",
+        "Nayanthara",
+        "Regina Cassandra",
+        "Duniya Vijay",
+        "Urvashi",
+        "Abhinaya",
+        "Iniya",
+        "Singampuli",
+        "Sneha",
+        "Khushbu Sundar"
+      ],
+      "titles": [
+        "Scene",
+        "Aavesham",
+        "Mookuthi Amman 2"
+      ]
+    },
+    "keywords": [
+      "Scene box office collection",
+      "Suriya Scene film",
+      "Mookuthi Amman 2 box office",
+      "Scene India net collection",
+      "Nayanthara Mookuthi Amman 2"
+    ],
+    "images": [
+      {
+        "url": "https://static.toiimg.com/thumb/msid-136118220,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "caption": "Suriya’s ‘Scene’ Crosses Rs. 150 Crore India Net Milestone Amid Box Office Comparison With ‘Mookuthi Amman 2’",
+        "source": "Times of India — Entertainment"
+      }
+    ],
+    "published": "2026-11-24T08:44:41+05:30"
   },
   "e7ndch": {
     "id": "e7ndch",
@@ -4586,175 +4763,6 @@ window.FA_HOME_ARTICLES = {
       }
     ],
     "published": "Sun, 22 Nov 2026 20:04:06 +0000"
-  },
-  "1m0stz8": {
-    "id": "1m0stz8",
-    "type": "news",
-    "headline": "Exploring the Most Overlooked Thanksgiving Episodes Across Television",
-    "dek": "While standard holiday specials dominate streaming queues every November, television features a deeper canon of Thanksgiving episodes that capture the chaotic reality of family gatherings.",
-    "entities": {
-      "people": [
-        "Jessica Toomer",
-        "Ryan Gosling",
-        "Glenn Howerton",
-        "Mary Elizabeth Ellis",
-        "Jimmi Simpson",
-        "Rob Mac",
-        "H. Jon Benjamin",
-        "John Roberts",
-        "Megan Mullally",
-        "Dan Mintz",
-        "Rose McIver",
-        "Ritchie Moriarty",
-        "Utkarsh Ambudkar",
-        "Ben Feldman",
-        "James Cromwell",
-        "Brian Cox",
-        "Jeremy Strong",
-        "Alan Ruck",
-        "Justine Lupe",
-        "Matthew Macfayden",
-        "Quentin Morales"
-      ],
-      "titles": [
-        "Friends",
-        "Seinfeld",
-        "Gilmore Girls",
-        "It's Always Sunny in Philadelphia",
-        "Bob's Burgers",
-        "Ghosts",
-        "Succession"
-      ]
-    },
-    "keywords": [
-      "It's Always Sunny in Philadelphia Thanksgiving",
-      "Bob's Burgers Turkey in a Can",
-      "Succession Thanksgiving episode",
-      "Ghosts Planes Shanes and Automobiles"
-    ],
-    "images": [
-      {
-        "url": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/11/modern-family-three-turkeys-1.jpeg?w=1600&amp;h=900&amp;fit=crop",
-        "caption": "Exploring the Most Overlooked Thanksgiving Episodes Across Television",
-        "source": "Collider"
-      }
-    ],
-    "published": "Sun, 22 Nov 2026 19:33:12 GMT"
-  },
-  "33ixpf": {
-    "id": "33ixpf",
-    "type": "news",
-    "headline": "Why Netflix's 30-Episode True Crime Masterpiece Remains a Streaming High Point",
-    "dek": "Explore how Narcos and its companion series delivered decades of gripping cartel history through a unique blend of drama and archival footage.",
-    "entities": {
-      "people": [
-        "Zach Moser",
-        "Wagner Moura",
-        "Boyd Holbrook",
-        "Pedro Pascal",
-        "Scoot McNairy",
-        "Pablo Escobar",
-        "Steve Murphy",
-        "Javier Peña",
-        "Walt Breslin"
-      ],
-      "titles": [
-        "Narcos",
-        "Narcos: Mexico"
-      ]
-    },
-    "keywords": [
-      "Narcos Netflix show",
-      "Narcos Mexico spinoff",
-      "Pablo Escobar Wagner Moura",
-      "Pedro Pascal Steve Murphy"
-    ],
-    "images": [
-      {
-        "url": "https://static0.srcdn.com/wordpress/wp-content/uploads/2026/11/narcos_hqaihn-1.jpg?w=1600&amp;h=900&amp;fit=crop",
-        "caption": "Why Netflix's 30-Episode True Crime Masterpiece Remains a Streaming High Point",
-        "source": "Screen Rant"
-      }
-    ],
-    "published": "Sun, 22 Nov 2026 19:31:18 GMT"
-  },
-  "m77gj4": {
-    "id": "m77gj4",
-    "type": "news",
-    "headline": "Why Noah Kahan Was Nearly Shut Out of the Grammys Despite a Massive Year",
-    "dek": "Music critics and fans were left stunned when superstar Noah Kahan received only a single nomination for his blockbuster album, raising questions about genre boundaries and voting demographics.",
-    "entities": {
-      "people": [
-        "Noah Kahan",
-        "Chris Willman",
-        "John Summit",
-        "Victoria Monet",
-        "Kelsea Ballerini",
-        "Zach Bryan",
-        "Paul McCartney",
-        "Phoebe Bridgers",
-        "Rosalia",
-        "Raye",
-        "Sienna Spiro"
-      ],
-      "titles": [
-        "Great Divide",
-        "Stick Season",
-        "Orbiter",
-        "Draw You Out",
-        "Boys of Dungeon Lane",
-        "Lost Weekend"
-      ]
-    },
-    "keywords": [
-      "Noah Kahan",
-      "Grammy nominations",
-      "The Great Divide",
-      "Recording Academy"
-    ],
-    "images": [
-      {
-        "url": "https://variety.com/wp-content/uploads/2026/11/MAB_2419-e1795368424397.jpg?w=1000&#038;h=563&#038;crop=1",
-        "caption": "Why Noah Kahan Was Nearly Shut Out of the Grammys Despite a Massive Year",
-        "source": "Variety"
-      }
-    ],
-    "published": "Sun, 22 Nov 2026 19:30:19 +0000"
-  },
-  "1cvnfax": {
-    "id": "1cvnfax",
-    "type": "news",
-    "headline": "Thousands of Indian Sikh Pilgrims Cross Wagah Border for Guru Nanak's Birth Anniversary",
-    "dek": "Over 2,300 devotees from India have crossed into Pakistan to participate in the 557th birth anniversary festivities of Baba Guru Nanak Dev Ji.",
-    "entities": {
-      "people": [
-        "Baba Guru Nanak Dev Ji",
-        "Qamar Zaman",
-        "Nasir Mushtaq",
-        "Sardar Ramesh Singh Arora",
-        "Satwant Kaur",
-        "Amir Hashmi",
-        "Sardar Muhammad Yousuf",
-        "Kaldeep Singh Gurgaj",
-        "Parmjeet Singh",
-        "Guru Arjan Dev Ji"
-      ],
-      "titles": []
-    },
-    "keywords": [
-      "Indian Sikh pilgrims Pakistan",
-      "Guru Nanak birth anniversary",
-      "Wagah Border Sikh pilgrims",
-      "Kartarpur Corridor suspension"
-    ],
-    "images": [
-      {
-        "url": "https://i.dawn.com/large/2026/11/2223301843a3daa.webp",
-        "caption": "Thousands of Indian Sikh Pilgrims Cross Wagah Border for Guru Nanak's Birth Anniversary",
-        "source": "Dawn — Images/ICON"
-      }
-    ],
-    "published": "Mon, 23 Nov 2026 00:13:48 +0500"
   },
   "1yaww0u": {
     "id": "1yaww0u",

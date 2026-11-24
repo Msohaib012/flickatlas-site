@@ -234615,5 +234615,438 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Tue, 24 Nov 2026 04:13:58 +0000"
+  },
+  "c4tdqs": {
+    "id": "c4tdqs",
+    "type": "news",
+    "headline": "No Win for India at the 2026 International Emmy Awards as Vir Das and Real Kashmir Football Club Miss Out on Top Honours",
+    "dek": "India's entries at the 2026 International Emmy Awards, including Vir Das's stand-up special and the SonyLIV series Real Kashmir Football Club, failed to secure victories in their respective categories.",
+    "body": [
+      {
+        "h": "India's Entries at the 2026 International Emmys",
+        "p": [
+          "The 2026 International Emmy Awards concluded without a win for India, as both of the country's prominent entries missed out on top honours at the ceremony. The event brought together international television talent, but Indian nominees Vir Das and the web series Real Kashmir Football Club were unable to convert their nominations into trophies."
+        ]
+      },
+      {
+        "h": "Event Details and Venue",
+        "p": [
+          "The 54th International Emmy Awards took place at the New York Hilton Midtown. The ceremony was hosted by actor Michael Urie and held on November 23, translating to November 24 in India due to time zone differences. The global gala celebrated excellence in television across numerous categories from around the world."
+        ]
+      },
+      {
+        "h": "Vir Das Defeated in the Comedy Category",
+        "p": [
+          "Comedian Vir Das entered the awards hoping to add another trophy to his achievements following his historic win in 2023. His Netflix stand-up special, Vir Das: Fool Volume, competed in the Comedy category but ultimately lost to Argentina's División Palermo – Season 2. In 2023, Das had won his first International Emmy for his special Vir Das: Landing, sharing the prize with the British sitcom Derry Girls."
+        ]
+      },
+      {
+        "h": "Real Kashmir Football Club Competes in Drama Series",
+        "p": [
+          "India's second nominee was SonyLIV's series Real Kashmir Football Club, which contended in the Drama Series category. The show faced international competition from the UK's A Thousand Blows, France's Carême, and Argentina's Menem, with France's Carême ultimately taking home the award."
+        ]
+      },
+      {
+        "h": "Background of the Nominated Series",
+        "p": [
+          "Starring Mohammed Zeeshan Ayyub and Manav Kaul, Real Kashmir Football Club centres around journalist Sohail and businessman Shishir as they collaborate to establish a professional football team in Jammu and Kashmir. The narrative draws inspiration from the real-life Real Kashmir FC, the region's pioneering professional football club to participate in India's I-League. The plot tracks their struggles to find players, secure financial backing, and sustain the team amidst challenging conditions, with direction by Mahesh Mathai and Rajesh Mapuskar and production by Jaya Entertainment, Oshun Entertainment, Kapital Entertainment, and SK Global Entertainment."
+        ]
+      },
+      {
+        "h": "Cast Reactions and Significance",
+        "p": [
+          "Reflecting on the nomination, Manav Kaul expressed enthusiasm, viewing the recognition as a major positive for India and a personal validation for a project he felt previously lacked adequate viewership. Additionally, Indian actor Vijay Sethupathi made a notable appearance at the gala, serving as one of the presenters on the red carpet dressed in a black tailored suit."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "India failed to secure any victories at the 2026 International Emmy Awards held in New York, where Vir Das's Netflix special and the SonyLIV series Real Kashmir Football Club both lost in their respective categories. Despite the lack of wins, the event featured prominent Indian representation with nominations and actor Vijay Sethupathi appearing as a presenter."
+        ]
+      }
+    ],
+    "facts": [
+      "The 54th International Emmy Awards were held on November 23 in New York.",
+      "Vir Das's Netflix special Vir Das: Fool Volume lost in the Comedy category.",
+      "Real Kashmir Football Club lost in the Drama Series category.",
+      "Vijay Sethupathi appeared as a presenter at the event."
+    ],
+    "entities": {
+      "people": [
+        "Vir Das",
+        "Michael Urie",
+        "Mohammed Zeeshan Ayyub",
+        "Manav Kaul",
+        "Mahesh Mathai",
+        "Rajesh Mapuskar",
+        "Vijay Sethupathi",
+        "Riya Sharma"
+      ],
+      "titles": [
+        "Vir Das: Fool Volume",
+        "División Palermo – Season 2",
+        "Vir Das: Landing",
+        "Derry Girls",
+        "Real Kashmir Football Club",
+        "A Thousand Blows",
+        "Carême",
+        "Menem"
+      ]
+    },
+    "keywords": [
+      "Vir Das International Emmy Awards 2026",
+      "Real Kashmir Football Club series",
+      "International Emmy Awards 2026 India",
+      "Vir Das Fool Volume Netflix"
+    ],
+    "images": [
+      {
+        "url": "https://www.hindustantimes.com/ht-img/img/2026/11/24/1600x900/logo/Vir_Emmysss_1795490638268_Voqw_1795490652463_3j6k_6d743d60-701e-4c43-b5ba-e46b59caa210_PlwN.jpg",
+        "caption": "No Win for India at the 2026 International Emmy Awards as Vir Das and Real Kashmir Football Club Miss Out on Top Honours",
+        "source": "Hindustan Times — Entertainment"
+      }
+    ],
+    "published": "Tue, 24 Nov 2026 09:25:12 +0530"
+  },
+  "1drpsjw": {
+    "id": "1drpsjw",
+    "type": "news",
+    "headline": "Don Toliver Postpones London Gig Following Manchester Arena Chemical Incident",
+    "dek": "The American rapper delayed his O2 Arena performance after dozens of concertgoers fell ill from an unidentified substance during his Manchester tour stop.",
+    "body": [
+      {
+        "h": "Manchester Concert Disruption",
+        "p": [
+          "American rapper Don Toliver decided to delay his upcoming scheduled performance in the United Kingdom following a chaotic incident during his concert in Manchester. The disturbance unfolded on a Sunday evening when numerous attendees at the Co-op Live Arena began experiencing sudden physical distress.",
+          "Footage captured from the venue floor displayed concertgoers coughing forcefully and rubbing their eyes in irritation. Authorities and medical responders quickly moved in to address the situation as the scale of the unexpected health crisis became apparent."
+        ]
+      },
+      {
+        "h": "Emergency Medical Response",
+        "p": [
+          "The Hazardous Area Response Team was swiftly deployed to the entertainment venue. According to statements released by the North West Ambulance Service, a total of 89 individuals required medical evaluation for various respiratory and eye irritation symptoms.",
+          "Out of the total number of affected patrons, one woman was transported to the Manchester Royal Infirmary for additional medical assessment. The remaining crowd members were safely guided out of the building by event staff and security personnel."
+        ]
+      },
+      {
+        "h": "Police Investigation and Substance Concerns",
+        "p": [
+          "Law enforcement officials from the Greater Manchester Police confirmed that the occurrence was an isolated event with no broader danger to the public. As of Monday evening, investigators had not made any arrests in connection with the disturbance.",
+          "While officials indicated that further laboratory testing would be conducted on items recovered from the arena, initial communications from the ambulance service suggested the mystery substance might have been tear gas."
+        ]
+      },
+      {
+        "h": "Venue Crowds and Official Statements",
+        "p": [
+          "Assistant Chief Constable Tom Harding addressed the public regarding the massive logistical effort required to clear the arena. Over 12,000 individuals were present at the concert before being safely evacuated.",
+          "Authorities expressed gratitude to the attendees for displaying patience while emergency services managed the crisis and ensured everyone could depart the premises and travel home securely."
+        ]
+      },
+      {
+        "h": "London Show Postponement",
+        "p": [
+          "Due to the unfolding situation in Manchester, Don Toliver chose to push back his planned Monday evening performance at London's O2 Arena. The artist officially rescheduled the date to December 15.",
+          "The musician took to social media to share his sadness over the delay and emphasized that his primary concern was ensuring the safety of his supporters for all future dates."
+        ]
+      },
+      {
+        "h": "Artist Reaction and Future Safety",
+        "p": [
+          "In his public statement shared via Instagram, the rapper expressed deep sorrow for those who suffered injuries during the event. He explicitly urged individuals to refrain from bringing harmful items into his performances.",
+          "He reiterated that patron safety remains a top priority and that he wants future gatherings to proceed without similar disruptions."
+        ]
+      },
+      {
+        "h": "Historical Context and Venue Security",
+        "p": [
+          "Manchester has a deeply sensitive history regarding large-scale public safety incidents at music venues, referencing a tragic 2017 bombing following an Ariana Grande concert.",
+          "In response to past tragedies, legislative measures such as the Terrorism Protection of Premises Act 2025 were enacted to mandate strict emergency response plans for venues hosting large crowds."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Don Toliver delayed his London O2 Arena concert to December 15 after an unknown substance sickened 89 fans at his Manchester show. Emergency responders evaluated the affected attendees, leading to an ongoing police investigation and heightened safety concerns."
+        ]
+      }
+    ],
+    "facts": [
+      "89 fans were sickened at the Manchester show",
+      "The incident occurred at the Co-op Live Arena on Sunday",
+      "One woman was taken to the Manchester Royal Infirmary",
+      "Over 12,000 people were in attendance",
+      "Assistant Chief Constable Tom Harding released a statement",
+      "Don Toliver postponed his London show at the O2 Arena to December 15",
+      "In 2017, 22 people were killed and 1,017 injured in a bombing after an Ariana Grande concert in Manchester",
+      "The Terrorism Protection of Premises Act 2025 passed last year"
+    ],
+    "entities": {
+      "people": [
+        "Don Toliver",
+        "Tom Harding",
+        "Ariana Grande",
+        "Taylor Swift",
+        "Donny Osmond",
+        "Michael Jackson"
+      ],
+      "titles": [
+        "Eras Tour"
+      ]
+    },
+    "keywords": [
+      "Don Toliver London concert postponed",
+      "Manchester Co op Live Arena incident",
+      "Don Toliver Manchester show",
+      "89 fans sickened Manchester concert"
+    ],
+    "images": [
+      {
+        "url": "https://www.thewrap.com/wp-content/uploads/2026/11/don-toliver-manchester-concert.jpg",
+        "caption": "Don Toliver Postpones London Gig Following Manchester Arena Chemical Incident",
+        "source": "TheWrap"
+      }
+    ],
+    "published": "Tue, 24 Nov 2026 03:48:00 +0000"
+  },
+  "jq84rx": {
+    "id": "jq84rx",
+    "type": "news",
+    "headline": "Suriya’s ‘Scene’ Crosses Rs. 150 Crore India Net Milestone Amid Box Office Comparison With ‘Mookuthi Amman 2’",
+    "dek": "Tamil star Suriya's latest movie 'Scene' achieves a major box office milestone, crossing Rs. 150 crore in India net collection by its eighteenth day in theaters.",
+    "body": [
+      {
+        "h": "The Box Office Milestone",
+        "p": [
+          "Tamil star Suriya's third cinematic outing of the year, titled 'Scene', has officially crossed the coveted Rs. 150 crore mark in India net collections. Released during the Diwali festive window on November 6, the movie has sustained a formidable theatrical run over nearly three weeks. Surpassing this significant financial threshold underscores the star's enduring box office pull and the widespread commercial appeal of the project across domestic markets.",
+          "Despite achieving this milestone, the film experienced a noticeable weekday dip in its earnings as it entered its eighteenth day in cinemas. Trade analyst tracking indicates a standard slowing down of ticket sales following consecutive weekends, reflecting the natural box office trajectory for major festive releases as they transition into later weeks of their theatrical exhibition."
+        ]
+      },
+      {
+        "h": "Day 18 Earnings and Linguistic Breakdown",
+        "p": [
+          "On its eighteenth day of release, 'Scene' brought in Rs. 57 lakh net across 721 shows in total. This figure represents a 63.9 percent decrease compared to its Day 17 collection, which had stood at Rs. 1.58 crore. The earnings on this specific weekday were divided between its primary linguistic versions, showcasing regional variance in audience turnout.",
+          "Specifically, the Tamil version contributed Rs. 42 lakh across 505 shows, while the Telugu version accounted for Rs. 15 lakh through 216 shows. Furthermore, theater occupancy for the Tamil 2D version averaged out at 26.80 percent, with morning shows registering 19.17 percent, afternoon screenings peaking at 25.33 percent, evening shows dipping to 22.25 percent, and night shows recovering to 29.42 percent."
+        ]
+      },
+      {
+        "h": "Global and Cumulative Collections",
+        "p": [
+          "The cumulative financial performance of the cop comedy-drama spans strong domestic figures and robust international returns. With the latest additions to its tally, the total India net collection for 'Scene' reached Rs. 151.22 crore, translating to an India gross collection of Rs. 175.65 crore. International markets have also added substantial value to the overall scorecard.",
+          "Overseas audiences drove an additional gross of Rs. 89.50 crore, lifting the worldwide gross collection to a notable Rs. 265.15 crore. Ticket sales data reveals an estimated 48,736 admissions on Day 18 alone, pushing the total number of tickets sold throughout the entire theatrical run to approximately 1.15 crore viewers."
+        ]
+      },
+      {
+        "h": "Weekly Revenue Trajectory",
+        "p": [
+          "A breakdown of the earnings across individual weeks illustrates how the movie built its massive box office numbers over time. During its explosive first week in theaters, the feature accumulated over Rs. 111.70 crore. This momentum carried into the second week, where it added another Rs. 35.25 crore to its burgeoning total.",
+          "As the film progressed into its third week, collections naturally tapered off, adding Rs. 4.27 crore to date. This steady weekly accumulation highlights a strong front-loaded festive opening followed by a gradual tail phase typical of high-profile holiday releases."
+        ]
+      },
+      {
+        "h": "Cast, Crew, and Creative Direction",
+        "p": [
+          "‘Scene’ is helmed by director Jithu Madhavan, widely recognized for his work on the acclaimed film ‘Aavesham’. The project marks Suriya's third major cinematic release within the calendar year, pairing the established actor with a dynamic ensemble cast.",
+          "The movie features prominent performances from Nazriya Nazim alongside Naslen, who makes his official Tamil cinema debut with this project. Together, the director and cast bring to life a cop comedy-drama that has resonated strongly with audiences at the ticket windows."
+        ]
+      },
+      {
+        "h": "Comparative Performance of ‘Mookuthi Amman 2’",
+        "p": [
+          "In parallel box office updates, Nayanthara’s fantasy-oriented feature ‘Mookuthi Amman 2’ has charted its own performance metrics after 18 days in theaters, recording a worldwide gross collection of Rs. 24.81 crore. Within the domestic market, the Tamil version earned Rs. 20.30 crore net, while the Telugu version contributed Rs. 1.22 crore.",
+          "The Nayanthara starrer accumulated Rs. 17.93 crore in its first week, followed by Rs. 3.56 crore in its second week, and a further Rs. 3 lakh in its third week. The film stars Nayanthara in a dual role, supported by Regina Cassandra, Duniya Vijay, Urvashi, Abhinaya, Iniya, and Singampuli, alongside special appearances by Sneha and Khushbu Sundar."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Suriya's Diwali release 'Scene' has crossed the Rs. 150 crore mark in India net collections by its eighteenth day, reaching a worldwide gross of Rs. 265.15 crore despite a weekday earnings drop. Meanwhile, Nayanthara's 'Mookuthi Amman 2' has recorded a worldwide gross of Rs. 24.81 crore over the same eighteen-day timeframe."
+        ]
+      }
+    ],
+    "facts": [
+      "Scene was released on November 6 during Diwali.",
+      "Scene crossed the Rs. 150 crore mark in India net collections on Monday.",
+      "Scene collected Rs. 57 lakh net across 721 shows on Day 18.",
+      "Scene's Day 17 collection was Rs. 1.58 crore.",
+      "The Tamil version of Scene contributed Rs. 42 lakh from 505 shows on Day 18.",
+      "The Telugu version of Scene earned Rs. 15 lakh from 216 shows on Day 18.",
+      "Scene's total India net collection reached Rs. 151.22 crore.",
+      "Scene's India gross collection stands at Rs. 175.65 crore.",
+      "Scene earned an overseas gross of Rs. 89.50 crore.",
+      "Scene's worldwide gross collection reached Rs. 265.15 crore.",
+      "An estimated 48,736 tickets were sold for Scene on Day 18.",
+      "Total tickets sold for Scene reached around 1.15 crore.",
+      "Scene collected over Rs. 111.70 crore in its first week.",
+      "Scene added Rs. 35.25 crore in its second week.",
+      "Scene earned Rs. 4.27 crore in its third week.",
+      "Mookuthi Amman 2 recorded a worldwide gross collection of Rs. 24.81 crore after 18 days.",
+      "Mookuthi Amman 2 Tamil version earned Rs. 20.30 crore net.",
+      "Mookuthi Amman 2 Telugu version contributed Rs. 1.22 crore.",
+      "Mookuthi Amman 2 collected Rs. 17.93 crore in its first week.",
+      "Mookuthi Amman 2 collected Rs. 3.56 crore in its second week.",
+      "Mookuthi Amman 2 added Rs. 3 lakh in its third week."
+    ],
+    "entities": {
+      "people": [
+        "Suriya",
+        "Jithu Madhavan",
+        "Nazriya Nazim",
+        "Naslen",
+        "Nayanthara",
+        "Regina Cassandra",
+        "Duniya Vijay",
+        "Urvashi",
+        "Abhinaya",
+        "Iniya",
+        "Singampuli",
+        "Sneha",
+        "Khushbu Sundar"
+      ],
+      "titles": [
+        "Scene",
+        "Aavesham",
+        "Mookuthi Amman 2"
+      ]
+    },
+    "keywords": [
+      "Scene box office collection",
+      "Suriya Scene film",
+      "Mookuthi Amman 2 box office",
+      "Scene India net collection",
+      "Nayanthara Mookuthi Amman 2"
+    ],
+    "images": [
+      {
+        "url": "https://static.toiimg.com/thumb/msid-136118220,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "caption": "Suriya’s ‘Scene’ Crosses Rs. 150 Crore India Net Milestone Amid Box Office Comparison With ‘Mookuthi Amman 2’",
+        "source": "Times of India — Entertainment"
+      }
+    ],
+    "published": "2026-11-24T08:44:41+05:30"
+  },
+  "tljc71": {
+    "id": "tljc71",
+    "type": "news",
+    "headline": "Only Murders in the Building Creators and Stars Confirm Major Season 7 Location Change",
+    "dek": "Following a detour to London for season 6, the creators and principal cast of Hulu's hit mystery comedy have confirmed plans to bring the production and story back to New York City for season 7.",
+    "body": [
+      {
+        "h": "Returning to the Roots in New York City",
+        "p": [
+          "The creative team behind Hulu's popular mystery comedy series has confirmed a major directional shift for a potential seventh installment. After spending five seasons primarily rooted in New York City, the production ventured overseas to London for season 6, temporarily renaming the iteration Only Murders in London.",
+          "With the sixth season centering on an investigation into the death of true-crime podcaster Cinda Canning, creators and cast members have now indicated that the story and writers' room will make a welcome return to their original metropolitan setting for season 7."
+        ]
+      },
+      {
+        "h": "Creators and Cast Open Up About the Move",
+        "p": [
+          "In a recent interview, series co-creator and showrunner John Hoffman expressed his deep affection for New York, noting that the show is inherently steeped in the city's atmosphere. He shared his excitement about returning home while acknowledging that the London experiment proved the series has the capability to travel.",
+          "Co-creator and star Steve Martin echoed this sentiment, emphasizing that while the team remains open to exploring new places in the future, the immediate priority is heading back to New York City. Fellow lead star Martin Short quickly voiced his agreement with Martin's assessment."
+        ]
+      },
+      {
+        "h": "Status of Season 7 and Production Plans",
+        "p": [
+          "The latest comments from Hoffman, Martin, and Short serve to confirm earlier reports from September regarding the planned return to New York. Although Hulu has not yet officially greenlit season 7, bringing the production and writers' room back home signals strong preparations for the trio's next case.",
+          "Given the show's massive success and popularity on the streaming platform, an official renewal seems likely. The creative team is already laying the groundwork for what comes next after the conclusion of the London-based arc."
+        ]
+      },
+      {
+        "h": "The Global Experiment and Future Possibilities",
+        "p": [
+          "While previous seasons occasionally tested locations outside the traditional New York framework—such as season 4 partially taking place in Los Angeles—season 6 marked a true international departure. Setting episodes entirely in London proved that the series can successfully expand its geographical boundaries.",
+          "Looking beyond a potential seventh season, the creators have noted that taking the narrative and production to other international or domestic locations remains a viable possibility thanks to the positive experience of filming abroad."
+        ]
+      },
+      {
+        "h": "An Expanded Ensemble Cast for Season 6",
+        "p": [
+          "The sixth season brings back several familiar faces alongside main trio Charles-Haden Savage, Oliver Putnam, and Mabel Mora. Returning cast members include Michael Cyril Creighton as Howard Morris, Da'Vine Joy Randolph as Detective Donna Williams, and Meryl Streep as Loretta Durkin.",
+          "In addition to the returning favorites, the upcoming episodes introduce an extensive roster of new actors, featuring prominent names like Simone Ashley, Jim Broadbent, Peter Capaldi, Olivia Colman, Nicola Coughlan, Martin Freeman, Richard E. Grant, and David Tennant."
+        ]
+      },
+      {
+        "h": "Notable Additions and Doctor Who Crossovers",
+        "p": [
+          "Among the prominent new guest stars is David Tennant, who described his appearance as a cameo or a very small part alongside comedy legends. His casting creates a unique connection within the ensemble, as he joins fellow former Doctor Who lead actors Peter Capaldi and Jodie Whittaker in the season 6 lineup.",
+          "While exact character details and scene pairings remain strictly under wraps, the presence of multiple actors who have portrayed the iconic time-traveling hero has generated significant excitement among fans anticipating the December premiere."
+        ]
+      },
+      {
+        "h": "Streaming Legacy and Annual Release Streak",
+        "p": [
+          "Since its debut in August 2021, Only Murders in the Building has maintained an impressive annual release schedule without interruption. This consistent yearly return has helped sustain high streaming viewership and consistently strong critical scores across multiple seasons on Hulu.",
+          "As the series prepares for its December 8 premiere of season 6, the ongoing streak of yearly releases highlights the strong audience appetite for the comedic mystery. Fans and creators alike hope to carry that momentum straight into a potential seventh season."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "The creators and stars of Only Murders in the Building have confirmed that the production intends to return to New York City for season 7 following the London-based setting of season 6. While Hulu has not yet officially renewed the series for a seventh outing, the team is already planning the next chapter of the hit comedy.",
+          "Season 6 is scheduled to premiere on Hulu on December 8, featuring an expansive guest cast that includes multiple former Doctor Who stars alongside returning favorites Steve Martin, Martin Short, and Selena Gomez."
+        ]
+      }
+    ],
+    "facts": [
+      "Only Murders in the Building season 6 premieres on Hulu on December 8, 2026.",
+      "Season 6 takes place in London and was temporarily renamed Only Murders in London.",
+      "Steve Martin, Martin Short, and Selena Gomez star as Charles-Haden Savage, Oliver Putnam, and Mabel Mora.",
+      "John Hoffman is the co-creator and showrunner alongside Steve Martin.",
+      "Season 4 partly took place in Los Angeles.",
+      "The series debuted on August 31, 2021."
+    ],
+    "entities": {
+      "people": [
+        "Matthew Rudoy",
+        "Steve Martin",
+        "Martin Short",
+        "Selena Gomez",
+        "Tina Fey",
+        "John Hoffman",
+        "Michael Cyril Creighton",
+        "Da'Vine Joy Randolph",
+        "Meryl Streep",
+        "Simone Ashley",
+        "Matthew Beard",
+        "Jim Broadbent",
+        "Peter Capaldi",
+        "Olivia Colman",
+        "Nicola Coughlan",
+        "Jamie Demetriou",
+        "Martin Freeman",
+        "Richard E. Grant",
+        "Geri Halliwell-Horner",
+        "Jane Horrocks",
+        "Sharon Horgan",
+        "Lesley Nicol",
+        "Jennifer Saunders",
+        "Sean Teale",
+        "David Tennant",
+        "Anjana Vasan",
+        "Jodie Whittaker"
+      ],
+      "titles": [
+        "Only Murders in the Building",
+        "Only Murders in London",
+        "Star Wars",
+        "The Boys",
+        "Game of Thrones",
+        "Doctor Who"
+      ]
+    },
+    "keywords": [
+      "Only Murders in the Building season 7",
+      "Only Murders in the Building season 6",
+      "Steve Martin Martin Short John Hoffman",
+      "Only Murders in the Building London"
+    ],
+    "images": [
+      {
+        "url": "https://static0.srcdn.com/wordpress/wp-content/uploads/2026/08/charles-mabel-and-oliver-sipping-tea-in-only-murders-in-the-building-season-6.jpg?w=1600&amp;h=900&amp;fit=crop",
+        "caption": "Only Murders in the Building Creators and Stars Confirm Major Season 7 Location Change",
+        "source": "Screen Rant"
+      }
+    ],
+    "published": "Tue, 24 Nov 2026 03:17:54 GMT"
   }
 };
