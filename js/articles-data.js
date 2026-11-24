@@ -240397,5 +240397,413 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Tue, 24 Nov 2026 19:57:56 +0000"
+  },
+  "1kjlrif": {
+    "id": "1kjlrif",
+    "type": "news",
+    "headline": "Avengers Doomsday Storms Indian Box Office With Massive Pre-Sales",
+    "dek": "Marvel's upcoming blockbuster Avengers: Doomsday has crossed Rs 57 crore in advance bookings in India with 23 days still remaining until its theatrical release.",
+    "body": [
+      {
+        "h": "Phenomenal Advance Booking Numbers",
+        "p": [
+          "The excitement for upcoming Hollywood spectacles in India has reached unprecedented heights, led primarily by Marvel's latest tentpole. With more than three weeks remaining before its official theatrical debut, the film has already shattered expectations by accumulating massive pre-sales figures across the country.",
+          "Industry tracking indicates that eager audiences have rushed to secure seats well in advance, resulting in staggering financial milestones being achieved long before the first public screenings even take place."
+        ]
+      },
+      {
+        "h": "The Road to December 17",
+        "p": [
+          "The scheduled release date has created immense anticipation among moviegoers nationwide. Fans are preparing for a massive cinematic showdown at the box office when two major international film franchises arrive simultaneously.",
+          "The current pre-sales trajectory places the Marvel feature on a historic path within the region, easily outperforming standard commercial patterns for comparable international releases."
+        ]
+      },
+      {
+        "h": "Opening Day and Weekend Breakdown",
+        "p": [
+          "Detailed tracking data provides a clear picture of how ticket sales are distributed across the initial days of theatrical exhibition. The opening day alone accounts for the lion's share of gross sales, reflecting extreme fan urgency.",
+          "Subsequent days following the premiere have also recorded robust pre-booking metrics, proving that sustained interest extends well past the opening Wednesday screenings."
+        ]
+      },
+      {
+        "h": "Language-Wise Performance",
+        "p": [
+          "Regional variations highlight how different linguistic markets are responding to the upcoming superhero event. The English version leads the collection figures significantly, capturing the vast majority of total advance earnings.",
+          "Meanwhile, Hindi, Tamil, and Telugu language versions have also contributed substantially to the cumulative ticket count, demonstrating widespread pan-Indian appeal."
+        ]
+      },
+      {
+        "h": "Packed Auditoriums Across the Nation",
+        "p": [
+          "Exhibition venues are already reporting exceptionally high occupancy rates for the opening phase of the run. Dozens of screenings have completely sold out nationwide, with hundreds of additional shows nearing full capacity.",
+          "Theater owners are responding to the extraordinary demand by monitoring seating capacities closely as the premiere date approaches."
+        ]
+      },
+      {
+        "h": "Box Office Legacy and Expectations",
+        "p": [
+          "Market analysts anticipate that this title will mount a serious challenge against top-grossing domestic blockbusters in the territory. Furthermore, industry observers project it will claim the title of the highest-earning Hollywood release in the country.",
+          "The unprecedented pre-sales velocity cements its status as a monumental pop culture event for modern cinema audiences."
+        ]
+      },
+      {
+        "h": "Cast, Crew, and Crossover Scale",
+        "p": [
+          "The blockbuster is helmed by directors Anthony and Joe Russo, introducing major narrative developments to the established superhero continuity. Notably, the production features a high-profile casting transition with a returning actor taking on a central antagonist role.",
+          "The sprawling ensemble brings together characters from multiple distinct cinematic universes, uniting various superhero teams for a large-scale crossover event arriving in cinemas on December 17, 2026."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Avengers: Doomsday has generated massive pre-sales exceeding Rs 57 crore in India with 23 days left until release. The Marvel film is directed by Anthony and Joe Russo and features an extensive ensemble cast set to arrive in theaters on December 17, 2026."
+        ]
+      }
+    ],
+    "facts": [
+      "Avengers: Doomsday has crossed Rs 57 crore in pre-sales in India with 23 days left for its release.",
+      "Over 9 lakh tickets have been sold in advance booking.",
+      "The film releases on December 17, 2026.",
+      "Opening day gross sales stand at Rs 24.32 crore across 2339 shows with 54 percent occupancy.",
+      "Day two advance collection is Rs 12.07 crore.",
+      "Saturday advance collection is Rs 11.55 crore.",
+      "Sunday advance collection is Rs 9.77 crore.",
+      "English version sales account for Rs 48.42 crore with 7.03 lakh tickets across 6005 shows.",
+      "Hindi version collection is Rs 7.37 crore from 1.23 lakh tickets across 1716 shows.",
+      "Tamil version earned Rs 1.63 crore.",
+      "Telugu version recorded Rs 28.27 lakh.",
+      "There are 288 housefull shows, with 64 completely sold out and 481 shows almost full.",
+      "The film is directed by Anthony and Joe Russo.",
+      "Robert Downey Jr returns to the MCU as Doctor Doom."
+    ],
+    "entities": {
+      "people": [
+        "Mudit Bhatnagar",
+        "Anthony Russo",
+        "Joe Russo",
+        "Robert Downey Jr",
+        "Chris Hemsworth",
+        "Anthony Mackie",
+        "Sebastian Stan",
+        "Letitia Wright",
+        "Paul Rudd",
+        "Florence Pugh",
+        "Pedro Pascal",
+        "Vanessa Kirby",
+        "Joseph Quinn",
+        "Ebon Moss-Bachrach"
+      ],
+      "titles": [
+        "Avengers: Doomsday",
+        "Dune: Part Three",
+        "Spider-Man: Brand New Day"
+      ]
+    },
+    "keywords": [
+      "Avengers Doomsday",
+      "Avengers Doomsday advance booking",
+      "Avengers Doomsday India box office",
+      "Anthony and Joe Russo"
+    ],
+    "images": [
+      {
+        "url": "https://images.timesnownews.com/thumb/msid-156560271,thumbsize-54910,width-1280,height-720,resizemode-75/156560271.jpg",
+        "caption": "Avengers Doomsday Storms Indian Box Office With Massive Pre-Sales",
+        "source": "Times Now — Entertainment"
+      }
+    ],
+    "published": "2026-11-24T22:52:19Z"
+  },
+  "1dizy73": {
+    "id": "1dizy73",
+    "type": "news",
+    "headline": "Mubi Drops Second Trailer for Lukas Dhont's WWI Drama 'Coward'",
+    "dek": "Distributor Mubi has released a vibrant new preview for the Belgian filmmaker's third feature, a wartime queer love story heading to select US cinemas in late December 2026.",
+    "body": [
+      {
+        "h": "Introduction to the New Preview",
+        "p": [
+          "Mubi has officially launched a second preview for the forthcoming Belgian World War I drama titled Coward. This fresh footage arrives ahead of the movie's theatrical rollout in select US cinemas during the upcoming holiday season.",
+          "The project marks the third feature film from acclaimed Belgian director Lukas Dhont, following his previously celebrated works."
+        ]
+      },
+      {
+        "h": "Festival Circuit and Critical Reception",
+        "p": [
+          "Before its upcoming commercial distribution, the picture initially debuted at the 2026 Cannes Film Festival, where it managed to secure numerous positive notices from critics. Following its Cannes premiere, it continued its run at several other major international gatherings including the Toronto, Hamburg, and Melbourne festivals.",
+          "Reviewers have widely praised its emotional depth, calling it a striking exploration of tenderness and devotion amidst global conflict."
+        ]
+      },
+      {
+        "h": "Plot and Setting",
+        "p": [
+          "Set against the brutal backdrop of World War I near the Belgian trenches, the narrative follows a deeply intimate journey of youthful self-discovery. It examines the fragile boundary between fear and bravery for soldiers seeking glory.",
+          "The central question raised by the story is whether choosing love over brutality during wartime represents the ultimate act of courage."
+        ]
+      },
+      {
+        "h": "Key Characters and Performances",
+        "p": [
+          "The movie stars breakthrough performers Emmanuel Macchia as Pierre alongside Valentin Campagne as Francis. Pierre enters the front lines as a naive young soldier trying to adapt to a violent reality until he encounters a kindred spirit.",
+          "Francis introduces Pierre to the idea of staging a front-line theatre show, providing a sanctuary of innocence amidst the devastation of the trenches and anchoring the narrative with their strong on-screen chemistry."
+        ]
+      },
+      {
+        "h": "Behind the Camera",
+        "p": [
+          "Lukas Dhont serves as the director for this feature, having previously helmed projects such as Girl and Close. He co-wrote the screenplay alongside Angelo Tijssens.",
+          "The production team includes producer Michiel Dhont, cinematographer Frank van den Eeden, and composer Valentin Hadjadj, who crafted the original musical score."
+        ]
+      },
+      {
+        "h": "Release Details",
+        "p": [
+          "Mubi has scheduled the theatrical rollout to begin in limited US cinemas starting on December 25th, 2026. Audiences worldwide will soon have the chance to experience the historical drama on the big screen.",
+          "The newly revealed promotional video can currently be accessed directly through Mubi's official YouTube channel."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Mubi has released a second preview for Lukas Dhont's upcoming World War I drama Coward ahead of its limited theatrical run in late December 2026. The film follows a wartime romance between two soldiers portrayed by Emmanuel Macchia and Valentin Campagne after premiering earlier at the Cannes Film Festival."
+        ]
+      }
+    ],
+    "facts": [
+      "Mubi revealed a second trailer for Coward on November 24, 2026.",
+      "Coward is directed by Lukas Dhont as his third feature.",
+      "The film stars Valentin Campagne as Francis and Emmanuel Macchia as Pierre.",
+      "The screenplay was written by Lukas Dhont and Angelo Tijssens.",
+      "The film premiered at the 2026 Cannes Film Festival.",
+      "Mubi will release Coward in limited theaters starting December 25th, 2026."
+    ],
+    "entities": {
+      "people": [
+        "Alex Billington",
+        "Lukas Dhont",
+        "Valentin Campagne",
+        "Emmanuel Macchia",
+        "Francis",
+        "Pierre",
+        "Angelo Tijssens",
+        "Michiel Dhont",
+        "Frank van den Eeden",
+        "Valentin Hadjadj",
+        "Justin",
+        "Mike Leigh",
+        "Kate O'Flynn",
+        "Bardem",
+        "Cruz"
+      ],
+      "titles": [
+        "Coward",
+        "Girl",
+        "Close",
+        "Dune: Part Three",
+        "The Murder of JonBen©t Ramsey",
+        "Bunker",
+        "Timberlake",
+        "Tender Loving Care"
+      ]
+    },
+    "keywords": [
+      "Coward film",
+      "Lukas Dhont Coward",
+      "Coward WWI movie",
+      "Emmanuel Macchia Valentin Campagne"
+    ],
+    "images": [
+      {
+        "url": "https://media2.firstshowing.net/firstshowing/img18/cowardtrailer2mainimgbigsvtw1.jpg",
+        "caption": "Mubi Drops Second Trailer for Lukas Dhont's WWI Drama 'Coward'",
+        "source": "FirstShowing.net"
+      }
+    ],
+    "published": "Tue, 24 Nov 2026 22:24:09 +0000"
+  },
+  "7otvpq": {
+    "id": "7otvpq",
+    "type": "news",
+    "headline": "Director Ayan Mukerji Breaks Silence on the Box Office Failure of War 2",
+    "dek": "A year after its theatrical release, director Ayan Mukerji has spoken about why the high-budget action thriller War 2 failed to connect with audiences and underperformed commercially.",
+    "body": [
+      {
+        "h": "The Disappointing Box Office Run of War 2",
+        "p": [
+          "Released on August 14, 2025, War 2 failed to recreate the massive box office magic that its predecessor achieved. Despite mounting heavy expectations and arriving as a major cinematic event, the action entertainer was declared a theatrical flop.",
+          "The project was mounted on a grand scale with an estimated budget of 300 to 400 crore rupees. However, its commercial returns fell significantly short of what the makers and fans had anticipated."
+        ]
+      },
+      {
+        "h": "A Star-Studded Cast and High-Profile Setup",
+        "p": [
+          "The movie brought together a prominent ensemble cast featuring Bollywood star Hrithik Roshan alongside Telugu superstar Junior NTR, marking the latter's official Bollywood debut. The cast also included Kiara Advani and Anil Kapoor.",
+          "As part of the established YRF Spy Universe, the film heavily relied on its crossover appeal, pitting Hrithik and Junior NTR against each other in a high-octane confrontation."
+        ]
+      },
+      {
+        "h": "Ayan Mukerji Addresses the Failure",
+        "p": [
+          "Speaking about the film's underperformance a year later at the International Film Festival of India held in Goa, director Ayan Mukerji opened up about the challenges he faced during the project.",
+          "He explained that the franchise did not originally belong to him and that he came on board solely as a director. Mukerji noted that the main storyline and foundational concepts were prepared within Yash Raj Films under the leadership of writers Siddharth Anand and Aditya Chopra."
+        ]
+      },
+      {
+        "h": "Creative Responsibilities and Writing Team",
+        "p": [
+          "While Ayan Mukerji handled the directorial reins, the script and narrative were crafted by a team consisting of Sridhar Raghavan, Abbas Tyrewala, and Aditya Chopra, who had previously worked on scripts for Pathaan and Tiger 3.",
+          "Mukerji acknowledged that despite pouring immense hard work and dedication into the venture, the final output did not resonate with viewers in the manner they had hoped for."
+        ]
+      },
+      {
+        "h": "Comparing the Sequel to the Original Blockbuster",
+        "p": [
+          "The sequel carried the immense legacy of the 2019 film War, which was directed by Siddharth Anand. That original film featured Hrithik Roshan and Tiger Shroff, grossing approximately 471 crore rupees worldwide and emerging as one of the highest-earning Indian films of that year.",
+          "Given the monumental success of the first installment, studio executives opted to move forward with a second chapter, ultimately handing directorial responsibilities to Mukerji instead of Anand."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Director Ayan Mukerji has spoken out a year after the release of War 2, addressing the reasons behind the big-budget action film's box office failure. He explained that while he directed the movie, the franchise and its core story originated from Yash Raj Films and its writers, and the final result did not meet expectations despite significant effort."
+        ]
+      }
+    ],
+    "facts": [
+      "War 2 was released on 2025-08-14.",
+      "The budget of War 2 was between 300 and 400 crore rupees.",
+      "War (2019) collected approximately 471 crore rupees worldwide.",
+      "Ayan Mukerji discussed the film at the International Film Festival of India in Goa.",
+      "War 2 is part of the YRF Spy Universe."
+    ],
+    "entities": {
+      "people": [
+        "Ayan Mukerji",
+        "Hrithik Roshan",
+        "Junior NTR",
+        "Kiara Advani",
+        "Anil Kapoor",
+        "Siddharth Anand",
+        "Aditya Chopra",
+        "Sridhar Raghavan",
+        "Abbas Tyrewala",
+        "Tiger Shroff"
+      ],
+      "titles": [
+        "War 2",
+        "War",
+        "Pathaan",
+        "Tiger 3"
+      ]
+    },
+    "keywords": [
+      "War 2",
+      "Ayan Mukerji",
+      "Hrithik Roshan",
+      "Junior NTR",
+      "YRF Spy Universe"
+    ],
+    "images": [
+      {
+        "url": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202611/6b0556c2d6be7-war-2-242001626-16x9.jpg",
+        "caption": "Director Ayan Mukerji Breaks Silence on the Box Office Failure of War 2",
+        "source": "Aaj Tak — Entertainment"
+      }
+    ],
+    "published": "2026-11-24T22:52:19Z"
+  },
+  "fnes60": {
+    "id": "fnes60",
+    "type": "news",
+    "headline": "PlayStation Plus Unveils Ten Free Game Trials for Premium Members",
+    "dek": "Sony highlights a selection of ten free downloadable game trials currently available for PlayStation Plus Premium subscribers, featuring several major 2026 releases and nominees for The Game Awards 2026.",
+    "body": [
+      {
+        "h": "Introduction to the PlayStation Plus Perks",
+        "p": [
+          "PlayStation Plus has officially drawn attention to a curated selection of ten complimentary downloads that subscribers might have overlooked. Throughout the year, members have enjoyed continuous updates to the service catalog alongside various exclusive perks.",
+          "While standard monthly offerings regularly drive user engagement, these additional goodies provide distinct value for those subscribed to the highest tier of the service."
+        ]
+      },
+      {
+        "h": "Spotlight on Premium Tier Benefits",
+        "p": [
+          "To bring these features into sharper focus, Sony utilized its official social media channel on X to highlight ten specific freebies available exclusively to PlayStation Plus Premium members.",
+          "These offerings primarily consist of time-limited game trials, allowing players to sample notable titles before making a full financial commitment to purchase them."
+        ]
+      },
+      {
+        "h": "Structure and Access of Game Trials",
+        "p": [
+          "The featured game trials vary significantly in duration and scope, though most grant unrestricted access to the complete game within a designated time constraint.",
+          "For example, the trial for Control Resonant provides a four-hour window into its semi-open world, while other titles offer varying lengths depending on the specific release."
+        ]
+      },
+      {
+        "h": "Featured Titles in the Lineup",
+        "p": [
+          "The official spotlight covers ten distinct releases from 2026, giving members a chance to experience prominent games without upfront costs.",
+          "The highlighted list includes 007: First Light, Control Resonant, Crimson Desert, Mortal Shell II, NBA 2K27, MARVEL Tōkon: Fighting Souls, S.T.A.L.K.E.R. 2: Heart of Chornobyl, Saros, LEGO Batman: Legacy of the Dark Knight, and Valor Mortis."
+        ]
+      },
+      {
+        "h": "Connection to The Game Awards 2026",
+        "p": [
+          "Several titles featured in these trials happen to be recognized contenders for upcoming accolades at The Game Awards 2026, scheduled for December.",
+          "Notably, 007: First Light contends for Game of the Year, Best Performance, Best Action/Adventure Game, and Best Narrative, while Control Resonant secures nominations across six distinct categories."
+        ]
+      },
+      {
+        "h": "Looking Ahead to December Deliveries",
+        "p": [
+          "Although Sony has yet to detail the specific catalog updates slated for December 2026, members can expect further additions and potential holiday-themed benefits.",
+          "Until those official announcements arrive, utilizing these active game trials serves as an ideal way for Premium subscribers to maximize their membership value."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Sony has officially highlighted ten free game trials available to PlayStation Plus Premium subscribers, featuring prominent 2026 titles and contenders for The Game Awards 2026. These trials offer players time-limited access to evaluate major releases before making a purchase decision ahead of the December catalog updates."
+        ]
+      }
+    ],
+    "facts": [
+      "PlayStation Plus revealed 10 free downloads for subscribers.",
+      "The announcement was made in a post on the official PlayStation account on X in November 2026.",
+      "The freebies are game trials exclusively for PlayStation Plus Premium tier members.",
+      "Featured games include 007: First Light, Control Resonant, Crimson Desert, Mortal Shell II, NBA 2K27, MARVEL Tōkon: Fighting Souls, S.T.A.L.K.E.R. 2: Heart of Chornobyl, Saros, LEGO Batman: Legacy of the Dark Knight, and Valor Mortis.",
+      "The Control Resonant free download is a four-hour game trial.",
+      "007: First Light is a contender for Game of the Year, Best Performance, Best Action/Adventure Game, and Best Narrative at The Game Awards 2026.",
+      "Control Resonant is a nominee in six different categories at The Game Awards 2026.",
+      "The Game Awards 2026 takes place in December."
+    ],
+    "entities": {
+      "titles": [
+        "007: First Light",
+        "Crimson Desert",
+        "Mortal Shell II",
+        "NBA 2K27",
+        "MARVEL Tōkon: Fighting Souls",
+        "S.T.A.L.K.E.R. 2: Heart of Chornobyl",
+        "Saros",
+        "LEGO Batman: Legacy of the Dark Knight",
+        "Valor Mortis",
+        "Control Resonant"
+      ]
+    },
+    "keywords": [
+      "PlayStation Plus free downloads",
+      "PlayStation Plus Premium game trials",
+      "007 First Light PlayStation Plus",
+      "Control Resonant game trial"
+    ],
+    "images": [
+      {
+        "url": "https://static0.srcdn.com/wordpress/wp-content/uploads/2026/08/playstation-plus-free-rpg-chained-echoes-september-2026.jpg?w=1600&amp;h=900&amp;fit=crop",
+        "caption": "PlayStation Plus Unveils Ten Free Game Trials for Premium Members",
+        "source": "Screen Rant"
+      }
+    ],
+    "published": "Tue, 24 Nov 2026 22:00:19 GMT"
   }
 };
