@@ -235460,5 +235460,415 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Tue, 24 Nov 2026 03:00:26 GMT"
+  },
+  "m80389": {
+    "id": "m80389",
+    "type": "news",
+    "headline": "Ramayana: Rise of a Legend Surpasses Dhurandhar: The Revenge to Set Global Record",
+    "dek": "The Namit Malhotra-backed epic has shattered international box office records, claiming the title of the highest-grossing Indian film overseas.",
+    "body": [
+      {
+        "h": "Setting a New International Milestone",
+        "p": [
+          "The cinematic landscape has witnessed a monumental shift as 'Ramayana: Rise of a Legend' officially dethroned 'Dhurandhar: The Revenge' to capture the crown for the highest-grossing Indian movie of all time in global territories outside of India.",
+          "Backed by producer Namit Malhotra, this grand-scale epic reached a massive worldwide milestone by pulling in an estimated USD 59 million, which translates to roughly Rs 490 crore, across various international regions."
+        ]
+      },
+      {
+        "h": "Outperforming Previous Records",
+        "p": [
+          "Before this achievement, the overseas crown belonged to 'Dhurandhar: The Revenge', which had managed a lifetime collection of approximately Rs 475.93 crore, amounting to USD 51 million according to analytics from Sacnilk.",
+          "The new record-holder successfully surpassed that benchmark, cementing its place at the very top of international box office charts for Indian cinema."
+        ]
+      },
+      {
+        "h": "North American Dominance and Other Markets",
+        "p": [
+          "North America proved to be the strongest driving force for the feature, yielding an estimated USD 28.4 million across the United States and Canada combined.",
+          "That regional tally alone managed to beat the entire international lifetime gross of the former record-holding project, which stood at USD 28 million in North America."
+        ]
+      },
+      {
+        "h": "Global Footprint Across Continents",
+        "p": [
+          "Beyond North America, the movie carved out substantial earnings in several other global territories, including the United Kingdom with USD 6.5 million and the United Arab Emirates bringing in USD 5.4 million.",
+          "Australia contributed another USD 5.1 million, while Thailand, Nepal, Indonesia, Malaysia, and Germany also added millions to the impressive worldwide tally."
+        ]
+      },
+      {
+        "h": "Upcoming International Expansion",
+        "p": [
+          "The international box office run is far from finished, as the production is preparing for upcoming theatrical launches in major overseas territories like China, Japan, and South Korea.",
+          "These scheduled premieres are anticipated to further broaden the cinematic footprint and elevate its global earnings to even greater heights."
+        ]
+      },
+      {
+        "h": "Theatrical Distribution and Screen Count",
+        "p": [
+          "Upon its initial rollout, the feature premiered across more than 1,400 theatres in the United States alone.",
+          "However, it experienced a contraction in its second week by losing over 300 screens, with future counts projected to settle around 681 locations."
+        ]
+      },
+      {
+        "h": "Budgetary Scale and Production Context",
+        "p": [
+          "Despite its record-breaking triumphs, the project carries a massive reported production budget of USD 200 million, meaning it still requires substantial earnings to achieve complete theatrical break-even.",
+          "Industry benchmarks typically dictate that productions of this magnitude must generate roughly twice their initial manufacturing costs through ticket sales to turn a profit."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "‘Ramayana: Rise of a Legend’ has overtaken ‘Dhurandhar: The Revenge’ to become the highest-grossing Indian film in international markets with a gross of USD 59 million. Directed by Nitesh Tiwari, the movie faces a large USD 200 million budget to recover despite strong overseas earnings in North America and other territories."
+        ]
+      }
+    ],
+    "facts": [
+      "Ramayana: Rise of a Legend grossed USD 59 million or approximately Rs 490 crore overseas",
+      "Dhurandhar: The Revenge collected an estimated Rs 475.93 crore or USD 51 million in the overseas market",
+      "North America collection for Ramayana: Rise of a Legend was estimated at USD 28.4 million",
+      "Dhurandhar The Revenge lifetime collection in North America stood at USD 28 million",
+      "Thailand collection was USD 1.9 million",
+      "Nepal collection was USD 1.5 million",
+      "Indonesia collection was USD 1.2 million",
+      "UK earnings were USD 6.5 million",
+      "UAE earnings were USD 5.4 million",
+      "Australia earnings were USD 5.1 million",
+      "Malaysia collections were USD 1.7 million",
+      "Germany collections were USD 1.2 million",
+      "Ramayana: Rise of a Legend opened in more than 1,400 theatres in the US",
+      "Production budget is reported at USD 200 million",
+      "Part two is scheduled to be released in 2028"
+    ],
+    "entities": {
+      "people": [
+        "Namit Malhotra",
+        "Nitesh Tiwari"
+      ],
+      "titles": [
+        "Ramayana: Rise of a Legend",
+        "Dhurandhar: The Revenge",
+        "Dhurandhar The Revenge"
+      ]
+    },
+    "keywords": [
+      "Ramayana Rise of a Legend film",
+      "Dhurandhar The Revenge box office",
+      "Namit Malhotra Ramayana",
+      "Nitesh Tiwari Ramayana Rise of a Legend"
+    ],
+    "images": [
+      {
+        "url": "https://static.toiimg.com/thumb/msid-136120229,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "caption": "Ramayana: Rise of a Legend Surpasses Dhurandhar: The Revenge to Set Global Record",
+        "source": "Times of India — Entertainment"
+      }
+    ],
+    "published": "2026-11-24T10:41:25+05:30"
+  },
+  "u9x8j7": {
+    "id": "u9x8j7",
+    "type": "news",
+    "headline": "India Projected to Reach Peak Box Office Earnings Since Pandemic Era at WAVES Film Bazaar",
+    "dek": "Industry leaders at the WAVES Film Bazaar discussed changing cinematic economics, intellectual property value, and surging theatrical revenues.",
+    "body": [
+      {
+        "h": "Record Box Office Projections",
+        "p": [
+          "India stands on the verge of achieving its strongest box office performance since the global health pandemic. This optimistic outlook depends on how the final weeks of 2026 unfold across the country.",
+          "Girish Johar, who oversees distribution and revenue at Zee Studios, shared this notable projection during the WAVES Film Bazaar. The industry gathering takes place alongside the 57th International Film Festival of India located in Goa."
+        ]
+      },
+      {
+        "h": "The Economics of Intellectual Property",
+        "p": [
+          "Experts gathered for a panel session titled One Film, Multiple Paydays: Extracting a Film's Full Value to dissect shifting financial models in filmmaking. Discussions centered on the worth of intellectual property and reaching diverse audiences across multiple platforms.",
+          "Aashish Singh, a producer working with Shah Rukh Khan at Red Chillies Entertainment, compared intellectual property to a personal insurance policy. He emphasized that secure ownership can provide financial support across many years and sustain future generations."
+        ]
+      },
+      {
+        "h": "Budget Recovery and Pre-Sales",
+        "p": [
+          "Singh explained that studios typically target recovering sixty to seventy percent of a motion picture budget through structured pre-sales. These funds accumulate over time through streaming platforms, music rights, and traditional television.",
+          "While acquisitions often happen via direct buy-outs because producers shoulder financial liabilities, revenue-sharing remains open to negotiation. Singh also recommended that creators register their original scripts with the Screenwriters Association."
+        ]
+      },
+      {
+        "h": "Audience Insights and Marketing Strategies",
+        "p": [
+          "Ashish Saksena, the chief operating officer of cinemas for BookMyShow, detailed how ticketing data assists producers. The platform supplies valuable market intelligence to help identify where films gain traction and where promotional efforts need strengthening.",
+          "Saksena advised independent creators to explore transactional video-on-demand alternatives and festival screenings. He stressed that films cannot be pitched universally to all demographics, requiring highly targeted distribution approaches instead."
+        ]
+      },
+      {
+        "h": "International Markets and Global Appeal",
+        "p": [
+          "Esther Li from Mirage Films offered an international viewpoint regarding the reception of Indian cinema in Chinese territories. She highlighted past successes like the Aamir Khan wrestling drama Dangal and the Vijay Sethupathi starrer Maharaja.",
+          "Li noted that overseas viewers resonate strongly with social themes, inspirational storytelling, and distinct emotional romance found in domestic Indian releases. She encouraged independent filmmakers to cultivate unique creative identities and relatable emotional cores."
+        ]
+      },
+      {
+        "h": "Theatrical Preferences Versus Streaming Fatigue",
+        "p": [
+          "Panelists observed that the Indian market still awaits a massive international crossover hit comparable to Bong Joon Ho's Oscar-winning Korean feature Parasite. Johar noted that streaming fatigue has driven audiences back toward shared theatrical experiences.",
+          "Johar also cautioned that smaller independent productions should avoid expanding their screen counts too rapidly from two hundred to one thousand screens, which can inadvertently harm the release."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Industry executives speaking at the WAVES Film Bazaar in Goa projected that India's box office could reach its highest point since the pandemic by the end of 2026. The panel explored various financial strategies including intellectual property management, pre-sales recovery, and targeted distribution models to maximize film revenues across multiple platforms."
+        ]
+      }
+    ],
+    "facts": [
+      "India is poised for its highest box office since the pandemic in 2026.",
+      "Girish Johar is the head of distribution and revenues at Zee Studios.",
+      "The WAVES Film Bazaar is held alongside the 57th International Film Festival of India in Goa.",
+      "The panel was titled 'One Film, Multiple Paydays: Extracting a Film's Full Value.'",
+      "Vikramjit Roy moderated the panel.",
+      "Ashish Saksena is the COO of cinemas at BookMyShow.",
+      "Aashish Singh is a producer at Shah Rukh Khan's Red Chillies Entertainment.",
+      "Esther Li is a producer at Hong Kong-based Mirage Films.",
+      "Studios aim to recover 60% to 70% of a film's budget through pre-sales."
+    ],
+    "entities": {
+      "people": [
+        "Girish Johar",
+        "Udita Jhunjhunwala",
+        "Vikramjit Roy",
+        "Ashish Saksena",
+        "Aashish Singh",
+        "Shah Rukh Khan",
+        "Esther Li",
+        "Aamir Khan",
+        "Vijay Sethupathi",
+        "Bong Joon Ho"
+      ],
+      "titles": [
+        "Banaras",
+        "Hurda – That Tight Green Top",
+        "Goodbye Mr D'Mello",
+        "Dangal",
+        "Maharaja",
+        "Parasite"
+      ]
+    },
+    "keywords": [
+      "WAVES Film Bazaar",
+      "Girish Johar Zee Studios",
+      "India box office pandemic",
+      "One Film Multiple Paydays"
+    ],
+    "images": [
+      {
+        "url": "https://variety.com/wp-content/uploads/2026/11/Payday-panel.jpg?w=1000&#038;h=563&#038;crop=1",
+        "caption": "India Projected to Reach Peak Box Office Earnings Since Pandemic Era at WAVES Film Bazaar",
+        "source": "Variety"
+      }
+    ],
+    "published": "Tue, 24 Nov 2026 05:29:49 +0000"
+  },
+  "11h7bx9": {
+    "id": "11h7bx9",
+    "type": "news",
+    "headline": "Police Complaint Filed Against Makers of Nitesh Tiwari's Ramayana: Part 1 Over Alleged Textual Distortions",
+    "dek": "A Hindu organisation has lodged a formal police complaint in Mumbai against the producers and creators of the upcoming epic adaptation, citing grievances over character representations and narrative choices.",
+    "body": [
+      {
+        "h": "Introduction and Initial Police Action",
+        "p": [
+          "The upcoming cinematic adaptation Ramayana: Part 1 has run into significant legal trouble following objections raised by a prominent Hindu organisation. A spokesperson formally approached law enforcement at a Mumbai police station to submit a complaint against the creative team behind the production.",
+          "The grievance centers on alleged inaccuracies and deviations from the traditional Valmiki text. Representatives of the group argue that the narrative choices and visual representations hurt religious sentiments."
+        ]
+      },
+      {
+        "h": "Specific Allegations Regarding Character Portrayals",
+        "p": [
+          "According to the filed complaint, multiple key figures from the epic receive controversial interpretations in the screenplay. Particular concern is directed at the depiction of Ravana, who is allegedly shown as a protector of women and a savior of the poor, alongside being styled as an unarmed warrior overcoming a large military force.",
+          "Additional objections target the portrayal of Lord Rama, who is reportedly shown fleeing from demons in fear and offering apologies to specific characters. Furthermore, complaints assert that Lakshman appears disrespectful to elders, while Goddess Sita is shown reprimanding him during an interaction."
+        ]
+      },
+      {
+        "h": "Demands for Legal Action and FIR",
+        "p": [
+          "The organisation behind the complaint is pushing for severe legal repercussions against the individuals responsible for the project. Specifically, they have urged authorities to register a formal First Information Report under relevant sections of the legal code.",
+          "Alongside the FIR request, the group seeks an exhaustive review of the screenplay and dialogue choices. They want the authorities to document and compile all contentious sequences to serve as evidence throughout the ongoing evaluation."
+        ]
+      },
+      {
+        "h": "Prior Protests and Public Pushback",
+        "p": [
+          "This formal legal step follows a series of street demonstrations and public gatherings organised by the group in regional centers. Activists previously gathered in different cities to voice their dissatisfaction and demand the immediate removal of disputed lines and scenes.",
+          "These public demonstrations set the stage for the formal police intervention. The organisation continues to apply pressure on the creators to alter or drop the content they deem offensive before the film's wider rollout."
+        ]
+      },
+      {
+        "h": "Production Background and Creative Team",
+        "p": [
+          "Helmed by director Nitesh Tiwari, the multi-part project aims to bring the classical epic to the screen on a massive scale. The script has been developed collaboratively by Tiwari and writer Shridhar Raghavan, aiming for an ambitious cinematic retelling.",
+          "The production involves major financing and international distribution support. It brings together notable technical talents, including a collaborative musical score by renowned composers from different industries."
+        ]
+      },
+      {
+        "h": "Star-Studded Cast and Crew",
+        "p": [
+          "The high-profile cast features leading actors in iconic roles, with Ranbir Kapoor stepping into the role of Rama and Yash portraying Ravana. The ensemble also includes prominent names taking on other essential characters from the mythological narrative.",
+          "Key supporting roles are filled by well-known performers across the industry, establishing a massive ensemble. The backing comes from producers and studios managing both domestic and international markets."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "A Hindu organisation filed a police complaint against the makers of the upcoming film Ramayana: Part 1 over alleged distortions of the Valmiki Ramayana. The complaint highlights objections to character portrayals and requests legal action, an FIR, and a detailed investigation into the film's screenplay."
+        ]
+      }
+    ],
+    "facts": [
+      "A police complaint was filed at the Mulund West Police Station in Mumbai.",
+      "The complaint was filed by Satish Kochrekar, spokesperson of the Hindu Janajagruti Samiti.",
+      "The development was announced on November 23, 2026.",
+      "The film is directed by Nitesh Tiwari.",
+      "Ranbir Kapoor plays Rama and Yash portrays Ravana.",
+      "The complaint demands an FIR under Sections 299 and 196 of BNS, 2023."
+    ],
+    "entities": {
+      "people": [
+        "Satish Kochrekar",
+        "Nitesh Tiwari",
+        "Ranbir Kapoor",
+        "Yash",
+        "Shridhar Raghavan",
+        "Sai Pallavi",
+        "Ravi Dubey",
+        "Sunny Deol",
+        "Anupam Kher",
+        "Kajal Aggarwal",
+        "Rakul Preet Singh",
+        "Vivek Oberoi",
+        "Kunal Kapoor",
+        "Arun Govil",
+        "Lara Dutta",
+        "Hans Zimmer",
+        "A. R. Rahman",
+        "Namit Malhotra"
+      ],
+      "titles": [
+        "Ramayana: Part 1",
+        "Valmiki Ramayana",
+        "Ramayana: Rise of a Legend"
+      ]
+    },
+    "keywords": [
+      "Ramayana police complaint",
+      "Ramayana Part 1 legal trouble",
+      "Ranbir Kapoor Yash Ramayana",
+      "Nitesh Tiwari Ramayana film"
+    ],
+    "images": [
+      {
+        "url": "https://images.filmibeat.com/img/2026/11/ramayanapolicecomplaint-31291795501740.jpg",
+        "caption": "Police Complaint Filed Against Makers of Nitesh Tiwari's Ramayana: Part 1 Over Alleged Textual Distortions",
+        "source": "FilmiBeat"
+      }
+    ],
+    "published": "Tue, 24 Nov 2026 11:59:55 +0530"
+  },
+  "usg902": {
+    "id": "usg902",
+    "type": "news",
+    "headline": "Taylor Sheridan’s Action Thriller Starring Angelina Jolie and Jon Bernthal Leaves Netflix Soon",
+    "dek": "Fans have until December 1 to stream the 2021 survival film before it departs the platform.",
+    "body": [
+      {
+        "h": "Final Chance to Watch",
+        "p": [
+          "Audiences who have thoroughly explored Taylor Sheridan's expansive television portfolio are running out of time to catch one of his cinematic ventures on streaming. The 2021 action thriller Those Who Wish Me Dead is scheduled to leave Netflix on December 1, establishing November 30 as the final day for subscribers to watch it.",
+          "The feature blends the signature storytelling style of the Yellowstone creator with a high-stakes narrative driven by performers who anchor every step of the survival journey."
+        ]
+      },
+      {
+        "h": "A Dangerous Wilderness",
+        "p": [
+          "Academy Award-winning actress Angelina Jolie stars as Hannah Faber, a wildland firefighter or smokejumper stationed in the Montana wilderness. Haunted by a previous professional failure that resulted in lost lives, she lives an isolated routine that gets completely upended when she crosses paths with a young boy named Connor, portrayed by Finn Little.",
+          "Connor has witnessed a murder and is being hunted by dangerous assassins, forcing Hannah to use her full survival expertise. She must guide the boy through a forest ravaged by a massive wildfire while evading capture and confronting her own past demons."
+        ]
+      },
+      {
+        "h": "Classic Sheridan Themes",
+        "p": [
+          "Directed by Taylor Sheridan, who also co-wrote the screenplay alongside Michael Koryta and Charles Leavitt, the picture has drawn comparisons to 1990s survival classics such as Cliffhanger and The River Wild. In these types of stories, the natural elements prove just as threatening as the human antagonists.",
+          "The project showcases recurring motifs that define Sheridan's creative output, including blue-collar heroism, heavy burdens of responsibility, and traditional frontier morality. Rather than relying on fantasy tropes or special powers, the narrative focuses entirely on ordinary people pushed to their absolute limits."
+        ]
+      },
+      {
+        "h": "Jon Bernthal's Supporting Turn",
+        "p": [
+          "Jon Bernthal delivers a notable supporting performance as Ethan Sawyer, a local sheriff's deputy who gets swept up in the pursuit and aids Hannah. Known for gritty, working-class roles in projects like The Walking Dead, The Punisher, and Baby Driver, Bernthal brings grounded depth to his characters.",
+          "His role as a quiet, decent man doing the right thing under pressure adds an extra layer of human emotion to a production heavily driven by intense action set-pieces."
+        ]
+      },
+      {
+        "h": "Legacy and Reception",
+        "p": [
+          "Upon its original release on May 14, 2021, the picture struggled to find its intended theatrical audience as the global box office continued recovering from pandemic-era challenges. Despite this initial hurdle, the movie delivers all the trademarks that fans appreciate about Sheridan's broader body of work within a tight 100-minute runtime.",
+          "While Sheridan went on to write celebrated crime dramas like Hell or High Water and the Sicario films, this particular survival adventure remains an engaging watch for completists and fans of gritty storytelling."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Taylor Sheridan's 2021 survival thriller Those Who Wish Me Dead is leaving Netflix on December 1, giving viewers until November 30 to watch it. The film stars Angelina Jolie as a smokejumper protecting a young witness played by Finn Little, alongside Jon Bernthal as a supportive sheriff's deputy."
+        ]
+      }
+    ],
+    "facts": [
+      "Those Who Wish Me Dead was released on May 14, 2021.",
+      "The film leaves Netflix on December 1, 2026.",
+      "Taylor Sheridan directed the film and co-wrote the script with Michael Koryta and Charles Leavitt.",
+      "Angelina Jolie stars as Hannah Faber.",
+      "Finn Little plays Connor.",
+      "Jon Bernthal plays Ethan Sawyer."
+    ],
+    "entities": {
+      "people": [
+        "Jon Bernthal",
+        "Taylor Sheridan",
+        "Victoria Luxford",
+        "Liam Gaughan",
+        "Angelina Jolie",
+        "Finn Little",
+        "Michael Koryta",
+        "Charles Leavitt",
+        "Titus Welliver"
+      ],
+      "titles": [
+        "Those Who Wish Me Dead",
+        "Yellowstone",
+        "Cliffhanger",
+        "The River Wild",
+        "Hell or High Water",
+        "Sicario",
+        "The Walking Dead",
+        "The Punisher",
+        "Baby Driver",
+        "The Odyssey",
+        "Bosch"
+      ]
+    },
+    "keywords": [
+      "Those Who Wish Me Dead",
+      "Jon Bernthal Those Who Wish Me Dead",
+      "Angelina Jolie Taylor Sheridan movie",
+      "Netflix departure December"
+    ],
+    "images": [
+      {
+        "url": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/09/those-who-wish-me-dead.jpg?w=1600&amp;h=900&amp;fit=crop",
+        "caption": "Taylor Sheridan’s Action Thriller Starring Angelina Jolie and Jon Bernthal Leaves Netflix Soon",
+        "source": "Collider"
+      }
+    ],
+    "published": "Tue, 24 Nov 2026 05:05:12 GMT"
   }
 };

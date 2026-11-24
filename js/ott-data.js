@@ -83,18 +83,6 @@ window.FA_OTT = {
       "type": "movie"
     },
     {
-      "date": "2026-11-24",
-      "date_kind": "release",
-      "id": 1764131,
-      "providers": [
-        {
-          "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
-          "name": "HBO Max"
-        }
-      ],
-      "type": "movie"
-    },
-    {
       "country": "US",
       "date": "2026-11-24",
       "date_kind": "digital",

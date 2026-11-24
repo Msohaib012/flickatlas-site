@@ -1427,10 +1427,10 @@
    "year": "1978"
   },
   "movie:1611767": {
-   "d": "Clashing Through the Snow (2026): Comedy/Romance film. Story: After weather grounds all flights east for the… See cast and release date 23 November 2026.",
+   "d": "Clashing Through the Snow (2026): Romance/Comedy film. Story: Rival publishing editors Ryan Mitchell and Hannah… See cast and TMDB rating 5.6/10.",
    "img": "https://image.tmdb.org/t/p/w780/x6kwEsxxqLIoqpIrZOXRV0LORqm.jpg",
    "industry": "world",
-   "k": "Clashing Through the Snow, Clashing Through the Snow movie, Clashing Through the Snow cast, Clashing Through the Snow story, Clashing Through the Snow box office collection, Clashing Through the Snow budget, Clashing Through the Snow review, Clashing Through the Snow rating, Clashing Through the Snow release date, Clashing Through the Snow trailer, Clashing Through the Snow Comedy, Clashing Through the Snow Romance, international movies, FlickAtlas",
+   "k": "Clashing Through the Snow, Clashing Through the Snow movie, Clashing Through the Snow cast, Clashing Through the Snow story, Clashing Through the Snow box office collection, Clashing Through the Snow budget, Clashing Through the Snow review, Clashing Through the Snow rating, Clashing Through the Snow release date, Clashing Through the Snow trailer, Clashing Through the Snow Romance, Clashing Through the Snow Comedy, international movies, FlickAtlas",
    "ld": {
     "@context": "https://schema.org",
     "@type": "Movie",
@@ -1456,17 +1456,24 @@
       "name": "Julia Fox"
      }
     ],
-    "description": "Clashing Through the Snow (2026): Comedy/Romance film. Story: After weather grounds all flights east for the… See cast and release date 23 November 2026.",
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 15,
+     "ratingValue": 5.6,
+     "worstRating": 0
+    },
+    "description": "Clashing Through the Snow (2026): Romance/Comedy film. Story: Rival publishing editors Ryan Mitchell and Hannah… See cast and TMDB rating 5.6/10.",
     "director": [
      {
       "@type": "Person",
       "name": "Carlson Young"
      }
     ],
-    "duration": "PT107M",
+    "duration": "PT110M",
     "genre": [
-     "Comedy",
-     "Romance"
+     "Romance",
+     "Comedy"
     ],
     "image": "https://image.tmdb.org/t/p/w780/x6kwEsxxqLIoqpIrZOXRV0LORqm.jpg",
     "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1611767",
@@ -1479,7 +1486,7 @@
    },
    "modified": "",
    "published": "2026-11-16",
-   "ssr": "<article class=\"ssr-facts\">\n<h1>Clashing Through the Snow (2026)</h1>\n<p class=\"ssr-lead\">After weather grounds all flights east for the holidays, two work rivals competing for the same job begrudgingly embark on a cross-country road trip that brings them closer together in ways they never imagined.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 23 November 2026</li><li>Runtime: 107 minutes</li><li>Director: Carlson Young</li><li>Genres: Comedy, Romance</li><li>Tagline: It&#x27;s beginning to look a lot like chaos.</li><li>Certification: NR</li><li>Original language: English</li><li>Spoken languages: English</li><li>Production countries: United States</li><li>Official trailer: Official Trailer</li></ul>\n<h2>Top cast</h2>\n<ul><li>Christopher Briney as Ryan</li><li>Michelle Randolph as Hannah</li><li>Lukas Gage</li><li>Paris Hilton</li><li>Julia Fox as Bianca Hart</li><li>P.J. Byrne</li><li>Andrew Schulz</li></ul>\n</article>",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Clashing Through the Snow (2026)</h1>\n<p class=\"ssr-lead\">Rival publishing editors Ryan Mitchell and Hannah Hendricks are stranded by a holiday snowstorm and forced to share a rental car to New York, where a career-saving deal awaits them both. As roadside mishaps and small-town detours pile up, the holiday spirit begins to melt their fierce rivalry into something unexpected.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 23 November 2026</li><li>Runtime: 110 minutes</li><li>Director: Carlson Young</li><li>Genres: Romance, Comedy</li><li>Tagline: It&#x27;s beginning to look a lot like chaos.</li><li>Certification: PG-13</li><li>Original language: English</li><li>Spoken languages: English</li><li>Production countries: United States</li><li>Official trailer: Official Trailer</li><li>TMDB rating: 5.6/10 (15 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Christopher Briney as Ryan</li><li>Michelle Randolph as Hannah</li><li>Lukas Gage</li><li>Paris Hilton</li><li>Julia Fox as Bianca Hart</li><li>P.J. Byrne</li><li>Andrew Schulz</li></ul>\n</article>",
    "t": "Clashing Through the Snow (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2026"
   },

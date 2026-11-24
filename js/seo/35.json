@@ -1341,7 +1341,7 @@
    "year": "2026"
   },
   "movie:1704035": {
-   "d": "Soulala (2026): Horror/Drama film. Story: follows a man who returns to a family farm inherited… See cast and release date 23 November 2026.",
+   "d": "Soulala (2026): Horror/Drama film. Story: follows a man who returns to a family farm inherited… See cast, TMDB rating 6.0/10, and release date 23 November 2026.",
    "img": "https://image.tmdb.org/t/p/w500/3FjXjQWJw468kVKkULS3uBVFpxT.jpg",
    "industry": "world",
    "k": "Soulala, Soulala movie, Soulala cast, Soulala story, Soulala box office collection, Soulala budget, Soulala review, Soulala rating, Soulala release date, Soulala Horror, Soulala Drama, international movies, FlickAtlas",
@@ -1366,7 +1366,14 @@
       "name": "Baraa Alem"
      }
     ],
-    "description": "Soulala (2026): Horror/Drama film. Story: follows a man who returns to a family farm inherited… See cast and release date 23 November 2026.",
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 1,
+     "ratingValue": 6.0,
+     "worstRating": 0
+    },
+    "description": "Soulala (2026): Horror/Drama film. Story: follows a man who returns to a family farm inherited… See cast, TMDB rating 6.0/10, and release date 23 November 2026.",
     "director": [
      {
       "@type": "Person",
@@ -1389,7 +1396,7 @@
    },
    "modified": "",
    "published": "2026-11-16",
-   "ssr": "<article class=\"ssr-facts\">\n<h1>Soulala (2026)</h1>\n<p class=\"ssr-lead\">follows a man who returns to a family farm inherited from his parents, only to uncover a terrifying truth that threatens his survival there. The film explores how family bonds between parents and children can become a source of both salvation and control.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 23 November 2026</li><li>Runtime: 100 minutes</li><li>Director: Hisham Fqih</li><li>Genres: Horror, Drama</li><li>Original language: AR</li><li>Spoken languages: AR</li><li>Production countries: Saudi Arabia, JO, United States</li></ul>\n<h2>Top cast</h2>\n<ul><li>Ahd Kamel</li><li>Maha Al-Ghazal</li><li>Ibrahim Alhasawi</li><li>Baraa Alem</li></ul>\n</article>",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Soulala (2026)</h1>\n<p class=\"ssr-lead\">follows a man who returns to a family farm inherited from his parents, only to uncover a terrifying truth that threatens his survival there. The film explores how family bonds between parents and children can become a source of both salvation and control.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 23 November 2026</li><li>Runtime: 100 minutes</li><li>Director: Hisham Fqih</li><li>Genres: Horror, Drama</li><li>Original language: AR</li><li>Spoken languages: AR</li><li>Production countries: Saudi Arabia, JO, United States</li><li>TMDB rating: 6.0/10 (1 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Ahd Kamel</li><li>Maha Al-Ghazal</li><li>Ibrahim Alhasawi</li><li>Baraa Alem</li></ul>\n</article>",
    "t": "Soulala (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2026"
   },
