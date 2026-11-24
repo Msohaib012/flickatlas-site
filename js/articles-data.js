@@ -232237,5 +232237,346 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Mon, 23 Nov 2026 21:48:12 GMT"
+  },
+  "nuvmol": {
+    "id": "nuvmol",
+    "type": "news",
+    "headline": "Brad Pitt Cancels London Premiere After Falling Ill with Flu",
+    "dek": "Hollywood star Brad Pitt was forced to cancel his red carpet appearance in London after contracting the flu and being advised against traveling.",
+    "body": [
+      {
+        "h": "Unexpected Cancellation in London",
+        "p": [
+          "Hollywood star Brad Pitt had to step back from a high-profile promotional appearance in London due to sudden health issues. The 62-year-old actor was scheduled to walk the red carpet to support his upcoming feature.",
+          "Organisers released an official statement explaining that the performer had come down with the flu. Medical advice strictly prohibited him from undertaking travel, leading to his abrupt exit from the event line-up."
+        ]
+      },
+      {
+        "h": "The Affected Project",
+        "p": [
+          "The cancelled appearance was meant for the promotional tour of his upcoming cinematic project titled 'The Further Mis-Adventures of Cliff Booth'. Fans and industry insiders had eagerly awaited his arrival alongside key members of the production crew.",
+          "Along with Pitt, director David Fincher and co-star Elizabeth Debicki were also slated to grace the red carpet event in the British capital before the sudden health setback disrupted the schedule."
+        ]
+      },
+      {
+        "h": "Recent Public Sightings",
+        "p": [
+          "Prior to this medical cancellation, the acclaimed actor was recently spotted at the Los Angeles premiere of the same film. That celebratory screening took place on November 16 at the TCL Chinese Theatre.",
+          "During the Los Angeles outing, he was accompanied by his partner of four years, Ines de Ramon. The pair captured media attention as they walked hand-in-hand down the red carpet for photographs."
+        ]
+      },
+      {
+        "h": "Returning to a Fan-Favorite Role",
+        "p": [
+          "In 'The Further Mis-Adventures of Cliff Booth', the actor steps back into the shoes of the charismatic stuntman Cliff Booth. This character originally brought him significant critical acclaim and major accolades.",
+          "The new feature is written by Quentin Tarantino and helmed by director David Fincher. It marks a notable return to a role the actor first portrayed several years ago."
+        ]
+      },
+      {
+        "h": "Legacy of the Character",
+        "p": [
+          "The character of Cliff Booth first appeared in the 2019 feature 'Once Upon a Time... in Hollywood', which was also written by Quentin Tarantino. That project featured a stellar ensemble including Leonardo DiCaprio and Margot Robbie.",
+          "For his standout performance as the loyal stuntman in the 2019 film, Pitt earned the prestigious Academy Award for Best Supporting Actor, establishing a lasting legacy for the persona."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Brad Pitt cancelled his scheduled appearance at the London premiere of 'The Further Mis-Adventures of Cliff Booth' after falling ill with the flu. The 62-year-old actor, who recently appeared at the Los Angeles screening with Ines de Ramon, was advised not to travel by medical professionals."
+        ]
+      }
+    ],
+    "facts": [
+      "Brad Pitt is 62 years old.",
+      "Brad Pitt fell ill with the flu and was advised against traveling.",
+      "The premiere of 'The Further Mis-Adventures of Cliff Booth' in London was scheduled for Monday, November 23.",
+      "The Los Angeles premiere took place on November 16, 2026, at the TCL Chinese Theatre.",
+      "Ines de Ramon is Brad Pitt's girlfriend of four years.",
+      "David Fincher directed 'The Further Mis-Adventures of Cliff Booth'.",
+      "Quentin Tarantino wrote 'The Further Mis-Adventures of Cliff Booth'.",
+      "Elizabeth Debicki is a co-star in the film.",
+      "Brad Pitt won the Academy Award for Best Supporting Actor for 'Once Upon a Time... in Hollywood'."
+    ],
+    "entities": {
+      "people": [
+        "Brad Pitt",
+        "David Fincher",
+        "Elizabeth Debicki",
+        "Ines de Ramon",
+        "Quentin Tarantino",
+        "Leonardo DiCaprio",
+        "Margot Robbie"
+      ],
+      "titles": [
+        "The Further Mis-Adventures of Cliff Booth",
+        "Once Upon a Time... in Hollywood"
+      ]
+    },
+    "keywords": [
+      "Brad Pitt",
+      "The Further Mis-Adventures of Cliff Booth",
+      "Brad Pitt London premiere",
+      "Cliff Booth movie"
+    ],
+    "images": [
+      {
+        "url": "https://static.toiimg.com/thumb/msid-136116114,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "caption": "Brad Pitt Cancels London Premiere After Falling Ill with Flu",
+        "source": "Times of India — Entertainment"
+      }
+    ],
+    "published": "2026-11-24T04:33:50+05:30"
+  },
+  "gxsvra": {
+    "id": "gxsvra",
+    "type": "news",
+    "headline": "Crash Season 2 Maintains Steady Viewership With 3.6 Percent for Episode 3",
+    "dek": "The ENA Monday-Tuesday drama keeps its position in the three percent bracket as the traffic crime investigation team tackles a dangerous insurance fraud ring.",
+    "body": [
+      {
+        "h": "Rating Performance in Episode 3",
+        "p": [
+          "The ENA Monday-Tuesday drama Crash Season 2: Fury Road managed to keep its footing within the three percent range for a second consecutive broadcast. According to Nielsen Korea, the third episode pulled in a nationwide rating of 3.6 percent among pay-TV households.",
+          "This figure represents a minor adjustment from the previous broadcast, dipping just slightly below the 3.7 percent nationwide rating achieved by the second episode, which currently stands as the series high."
+        ]
+      },
+      {
+        "h": "Trajectory From the Premiere",
+        "p": [
+          "Looking back at the progression of the show since its debut, the series opened with a nationwide pay-TV audience share of 2.8 percent for its premiere episode.",
+          "Following that initial rollout, the drama experienced a noticeable upward shift during the second episode before settling into its current performance tier with the third installment."
+        ]
+      },
+      {
+        "h": "Inside the Plot of Episode 3",
+        "p": [
+          "The latest storyline centered around the traffic crime investigation team as they turned their attention toward a fraudulent insurance scheme. This particular ring was operating by exploiting single mothers through staged rear-end collisions disguised as part-time jobs.",
+          "Narrative tension reached a critical turning point by the conclusion of the episode, leaving viewers on a cliffhanger as one of the core team members found themselves in a life-threatening situation."
+        ]
+      },
+      {
+        "h": "Broadcast Schedule and Platform",
+        "p": [
+          "For fans following the narrative week to week, Crash Season 2: Fury Road maintains a regular broadcast schedule on the ENA network.",
+          "The program airs new episodes consistently at the start of the week, specifically on Mondays and Tuesdays."
+        ]
+      },
+      {
+        "h": "Background on Nielsen Korea Metrics",
+        "p": [
+          "Viewership tracking for the series is supplied by Nielsen Korea, which provides official audience measurement data across television platforms.",
+          "The reported percentages specifically reflect nationwide viewership calculated among pay-TV households across the region."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Crash Season 2: Fury Road recorded a nationwide pay-TV rating of 3.6 percent for its third episode on ENA. The latest installment featured the traffic crime investigation team pursuing an insurance fraud ring targeting single mothers, concluding with a team member's life placed in danger."
+        ]
+      }
+    ],
+    "facts": [
+      "Crash Season 2 episode 3 aired on November 23, 2026",
+      "Episode 3 recorded 3.6 percent nationwide ratings among pay-TV households",
+      "Episode 2 achieved a series high of 3.7 percent",
+      "Episode 1 premiere recorded 2.8 percent",
+      "Crash Season 2: Fury Road airs Mondays and Tuesdays on ENA"
+    ],
+    "entities": {
+      "people": [],
+      "titles": [
+        "Crash Season 2",
+        "Crash Season 2: Fury Road"
+      ]
+    },
+    "keywords": [
+      "Crash Season 2",
+      "Crash Season 2 Fury Road",
+      "Crash Season 2 episode 3",
+      "ENA Crash Season 2 ratings"
+    ],
+    "images": [
+      {
+        "url": "https://i.mydramalist.com/lBB1De_2d.jpg",
+        "caption": "Crash Season 2 Maintains Steady Viewership With 3.6 Percent for Episode 3",
+        "source": "MyDramaList"
+      }
+    ],
+    "published": "Mon, 23 Nov 2026 23:26:17 +0000"
+  },
+  "1n118lr": {
+    "id": "1n118lr",
+    "type": "news",
+    "headline": "Orry Sparks Outrage After Placing Hand on Ananya Panday's Chest in Party Photo",
+    "dek": "A newly surfaced party photograph featuring internet personality Orry and actress Ananya Panday has drawn severe criticism online, with users questioning his pose.",
+    "body": [
+      {
+        "h": "The Viral Party Picture",
+        "p": [
+          "Internet sensation Orry has once again captured the spotlight on social media, though this time for a controversial reason. Known for his frequent appearances at high-profile gatherings alongside various Bollywood star kids, Orry shared a fresh batch of party photographs on his Instagram stories that quickly caught the attention of netizens.",
+          "The images featured the social media personality posing alongside Bollywood divas Ananya Panday and Shanaya Kapoor. While Orry is well known for his signature posing style with celebrities, his latest snapshots from the evening have stirred significant debate across digital platforms."
+        ]
+      },
+      {
+        "h": "Controversial Pose Triggers Backlash",
+        "p": [
+          "In one of the widely circulated pictures from the event, Orry is seen posing with Ananya Panday while placing his hand directly on her chest. This specific gesture immediately alarmed fans and observers, leading many to accuse him of crossing boundaries during the photo op.",
+          "The snapshot spread rapidly across social platforms, turning into a major talking point. Observers expressed shock over the positioning of his hand, prompting an influx of critical remarks questioning how the interaction took place."
+        ]
+      },
+      {
+        "h": "Public Reaction and Social Media Debate",
+        "p": [
+          "The comment section beneath the viral images filled up with diverse reactions, ranging from disbelief to outright anger. One user openly questioned why the actress allowed the gesture, while another claimed that the internet personality had touched her inappropriately.",
+          "The discussion quickly escalated into a broader online debate, with several users humorously or seriously demanding justice for Ananya Panday. The polarizing image divided opinion, with many condemning the lack of physical boundaries displayed in the frame."
+        ]
+      },
+      {
+        "h": "Companions at the Gathering",
+        "p": [
+          "Alongside the central controversy involving Ananya, the pictures also highlighted Orry's bond with Shanaya Kapoor. Shanaya appeared in a stunning casual outfit during the gathering, adding to the glamorous atmosphere of the party.",
+          "Ananya Panday was seen wearing a stylish white crop top paired with jeans, maintaining her usual trendy appearance despite the swirling controversy surrounding the viral photo session."
+        ]
+      },
+      {
+        "h": "Orry's Rising Celebrity Status",
+        "p": [
+          "Orry has cemented his position as a prominent figure in pop culture through his frequent presence at exclusive celebrity parties. His unique lifestyle and regular updates on social media platforms constantly keep him in the public eye.",
+          "However, this particular incident marks a shift from lighthearted amusement to heavy scrutiny, demonstrating how closely audiences monitor celebrity interactions in modern digital spaces."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Internet personality Orry faced heavy backlash on social media after sharing party photographs where he placed his hand on Ananya Panday's chest. The controversial image went viral, sparking fierce online debates and drawing criticism from users over his positioning."
+        ]
+      }
+    ],
+    "facts": [
+      "Orry shared party pictures on his Instagram story on 23rd November 2026.",
+      "The photographs featured Ananya Panday and Shanaya Kapoor.",
+      "Orry placed his hand on Ananya Panday's chest in one of the viral photos.",
+      "Ananya Panday wore a white crop top and jeans at the party."
+    ],
+    "entities": {
+      "people": [
+        "Orry",
+        "Ananya Panday",
+        "Shanaya Kapoor"
+      ],
+      "titles": []
+    },
+    "keywords": [
+      "Ananya Panday Orry photo",
+      "Orry touches Ananya Panday",
+      "Ananya Panday chest hand picture",
+      "Shanaya Kapoor Orry party"
+    ],
+    "images": [
+      {
+        "url": "https://akm-img-a-in.tosshub.com/aajtak/images/photo_gallery/202611/6b03ce226ab3d-orry-touches-ananya-panday-chest-232448962-16x9.jpg",
+        "caption": "Orry Sparks Outrage After Placing Hand on Ananya Panday's Chest in Party Photo",
+        "source": "Aaj Tak — Entertainment"
+      }
+    ],
+    "published": "2026-11-23T23:52:25Z"
+  },
+  "1wdqck1": {
+    "id": "1wdqck1",
+    "type": "news",
+    "headline": "How to Watch Monday Night Football Live: Bengals vs. Commanders Channel and Streaming Info",
+    "dek": "Find out where to catch tonight's thrilling Week 11 matchup between the Cincinnati Bengals and the Washington Commanders, plus details on channel availability and free live streaming options.",
+    "body": [
+      {
+        "h": "Tonight's Matchup at Northwest Stadium",
+        "p": [
+          "Football fans are gearing up for an exciting showdown as the Washington Commanders play host to the Cincinnati Bengals live from Northwest Stadium located in Landover, Maryland. This Week 11 clash brings together two teams heading in different directions, setting the stage for a compelling game of professional football.",
+          "The venue will be packed with anticipation as the home team looks to defend their turf against an opponent riding a powerful wave of momentum."
+        ]
+      },
+      {
+        "h": "Cincinnati's Hot Streak",
+        "p": [
+          "The visiting Cincinnati Bengals arrive at this Monday night fixture riding high on a five-game winning streak. Their previous outing was a dominant performance during Week 10 on Sunday Night Football, where they put up an impressive 38 points against the Pittsburgh Steelers.",
+          "During that explosive game, quarterback Joe Burrow racked up 409 passing yards while star target Ja'Marr Chase hauled in 11 receptions for 231 yards, pushing the team's stellar record to 7-2 for the season."
+        ]
+      },
+      {
+        "h": "Washington Looking for an Upset",
+        "p": [
+          "On the other side of the gridiron, the Washington Commanders hold a 3-5-1 record and are working hard to stay relevant in the competitive NFC East division. They enter this contest having secured a tight 24-21 victory against the New York Giants during Thursday Night Football.",
+          "With the advantage of extra rest leading up to this game, supporters are wondering if the team can pull off a major upset against the surging visitors."
+        ]
+      },
+      {
+        "h": "Is the Game on ABC Tonight?",
+        "p": [
+          "Viewers hoping to catch the action on standard broadcast television should note that tonight's game is not being broadcast on ABC. While ABC is slated to simulcast ten Monday Night Football games across the 2026 regular season, the remaining seven matchups are designated exclusively for cable.",
+          "Tonight's specific battle between the Bengals and the Commanders will air strictly on ESPN, alongside digital viewing options via NFL+."
+        ]
+      },
+      {
+        "h": "Streaming and Cable Options",
+        "p": [
+          "Fans wanting to tune in live can access the broadcast through ESPN or via the official ESPN app and website using a valid cable login. For cord-cutters hoping to watch without a traditional cable package, several live TV streaming services carry the channel.",
+          "DIRECTV offers a five-day free trial and flexible packages starting at $19.99 a month. In addition, platforms like fuboTV, Hulu + Live TV, YouTube TV, Sling TV, and NFL+ provide access, with some offering free trials for new subscribers."
+        ]
+      },
+      {
+        "h": "The ManningCast Returns",
+        "p": [
+          "For those looking for an alternative broadcast style, the popular alternate viewing experience featuring Peyton and Eli Manning is back. The ManningCast will air live on ESPN2 and the ESPN App for Week 11, giving viewers a conversational, analysis-driven option alongside the main broadcast."
+        ]
+      },
+      {
+        "h": "Looking Ahead at the MNF Schedule",
+        "p": [
+          "Monday Night Football continues to roll out marquee matchups throughout the 26-27 regular season. Following tonight's game, upcoming weeks feature contests such as the Carolina Panthers visiting the Tampa Bay Buccaneers and the Dallas Cowboys facing the Seattle Seahawks.",
+          "Subsequent weeks will highlight games like the Pittsburgh Steelers taking on the Jacksonville Jaguars and the New England Patriots traveling to play the Kansas City Chiefs."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "The Cincinnati Bengals face the Washington Commanders in a Week 11 Monday Night Football game airing exclusively on ESPN rather than ABC. Fans can stream the matchup using various live TV services or watch the alternative ManningCast broadcast on ESPN2."
+        ]
+      }
+    ],
+    "facts": [
+      "The Cincinnati Bengals play the Washington Commanders on Monday Night Football on November 23.",
+      "The game takes place at Northwest Stadium in Landover, Maryland.",
+      "Cincinnati enters the game with a 7-2 record after defeating the Pittsburgh Steelers 38-to-21 in Week 10.",
+      "Joe Burrow threw for 409 yards and Ja'Marr Chase had 11 receptions for 231 yards in Week 10.",
+      "Washington holds a 3-5-1 record after defeating the New York Giants 24-to-21 on Thursday Night Football.",
+      "ABC is simulcasting ten Monday Night Football games during the 2026 regular season.",
+      "Peyton and Eli Manning host the ManningCast on ESPN2 and the ESPN App."
+    ],
+    "entities": {
+      "people": [
+        "Joe Burrow",
+        "Ja'Marr Chase",
+        "Peyton",
+        "Eli"
+      ],
+      "titles": [
+        "Monday Night Football",
+        "Sunday Night Football",
+        "Thursday Night Football"
+      ]
+    },
+    "keywords": [
+      "Cincinnati Bengals Washington Commanders",
+      "Monday Night Football channel tonight",
+      "Joe Burrow Ja'Marr Chase",
+      "watch MNF live stream free"
+    ],
+    "images": [
+      {
+        "url": "https://decider.com/wp-content/uploads/2025/08/bengals-joe-burrow.jpg?quality=75&amp;strip=all&amp;w=680&amp;h=356&amp;crop=1",
+        "caption": "How to Watch Monday Night Football Live: Bengals vs. Commanders Channel and Streaming Info",
+        "source": "Decider"
+      }
+    ],
+    "published": "Mon, 23 Nov 2026 18:01:00 -0500"
   }
 };
