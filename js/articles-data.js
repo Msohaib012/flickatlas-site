@@ -239624,5 +239624,405 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "2026-11-24T20:09:12Z"
+  },
+  "dg55oz": {
+    "id": "dg55oz",
+    "type": "news",
+    "headline": "Jamie Foxx Stars in New Netflix Film Fight for '84 Following 1980 Plane Crash Tragedy",
+    "dek": "Netflix has shared the first look and release date for Fight for '84, starring Jamie Foxx as coach Roosevelt 'Rosie' Sanders as he rebuilds the US Olympic boxing team.",
+    "body": [
+      {
+        "h": "First Look and Release Date Revealed",
+        "p": [
+          "Netflix has given audiences their very first glimpse at the upcoming inspirational drama Fight for '84. Alongside the newly unveiled stills, the streaming platform confirmed the official launch schedule for the project.",
+          "Fans can expect the feature to arrive globally on February 19, 2027. The newly released promotional images showcase multiple facets of the production, generating early anticipation."
+        ]
+      },
+      {
+        "h": "Jamie Foxx Takes Charge of the US Boxing Team",
+        "p": [
+          "Academy Award winner Jamie Foxx steps into a pivotal starring and producing role for the Netflix original. He portrays Roosevelt 'Rosie' Sanders, a character tasked with a monumental rebuilding effort.",
+          "Sanders is charged with reconstructing the US Olympic boxing squad after a tragic 1980 plane crash wiped out the previous team members. The narrative chronicles his journey as he trains a fresh group of amateur athletes."
+        ]
+      },
+      {
+        "h": "Character Background and Plot Details",
+        "p": [
+          "The protagonist is characterized as a former Marine boxing champion and Vietnam War veteran. Through discipline and dedication, he guides the underdog squad toward the 1984 Summer Olympics in Los Angeles.",
+          "While preparing the fighters for international competition, the storyline honors the memory of the fallen boxers. The film balances personal survival with the pursuit of athletic redemption on the world stage."
+        ]
+      },
+      {
+        "h": "First-Look Imagery and Visuals",
+        "p": [
+          "Netflix Tudum released several production stills highlighting different elements of the narrative. One photograph features Foxx standing just outside the ropes, observing a boxer inside the ring.",
+          "Another image captures the entire ensemble team gathered with Foxx at the center. An additional photo shows the actor in conversation with a high-ranking official."
+        ]
+      },
+      {
+        "h": "Director Andrés Baiz on the Vision",
+        "p": [
+          "Director Andrés Baiz praised Foxx's commitment to the project, noting the actor brings genuine depth and authenticity to the screen. Baiz emphasized that the film centers on human resilience and second chances.",
+          "According to the filmmaker, the narrative emphasizes heart, discipline, and purpose over mere fame or glory. He believes the themes of rebuilding after loss resonate strongly with contemporary audiences."
+        ]
+      },
+      {
+        "h": "Supporting Cast Members",
+        "p": [
+          "Jamie Foxx leads an extensive ensemble cast assembled for the sports drama. Notable names featured alongside the lead actor include Malachi Beasley, Shea Whigham, and Dan Perrault.",
+          "The lineup also includes Will Chase, Algee Smith, Jamir Cope, Mitchell Edwards, Al-Shabazz Jabateh, Tre McBride, Xavier Mills, Adrian Martinez, and Javier Bolaños, among others."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Netflix has released the first look and premiere date for Fight for '84, starring Jamie Foxx as coach Roosevelt 'Rosie' Sanders. Directed by Andrés Baiz, the film follows the rebuilding of the US Olympic boxing team following a 1980 plane crash and is scheduled to debut on February 19, 2027."
+        ]
+      }
+    ],
+    "facts": [
+      "Jamie Foxx plays coach Roosevelt 'Rosie' Sanders in Fight for '84.",
+      "The movie is about the 1980 plane crash that killed members of the US Olympic boxing squad.",
+      "Fight for '84 will begin streaming on Netflix on February 19, 2027.",
+      "Andrés Baiz is the director of Fight for '84.",
+      "The cast includes Malachi Beasley, Shea Whigham, Dan Perrault, Will Chase, Algee Smith, Jamir Cope, Mitchell Edwards, Al-Shabazz Jabateh, Tre McBride, Xavier Mills, Adrian Martinez, and Javier Bolaños."
+    ],
+    "entities": {
+      "people": [
+        "Jamie Foxx",
+        "Andrés Baiz",
+        "Roosevelt 'Rosie' Sanders",
+        "Malachi Beasley",
+        "Shea Whigham",
+        "Dan Perrault",
+        "Will Chase",
+        "Algee Smith",
+        "Jamir Cope",
+        "Mitchell Edwards",
+        "Al-Shabazz Jabateh",
+        "Tre McBride",
+        "Xavier Mills",
+        "Adrian Martinez",
+        "Javier Bolaños"
+      ],
+      "titles": [
+        "Fight for '84"
+      ]
+    },
+    "keywords": [
+      "Fight for '84 film",
+      "Jamie Foxx Netflix movie",
+      "Fight for '84 release date",
+      "Andrés Baiz Fight for '84"
+    ],
+    "images": [
+      {
+        "url": "https://www.comingsoon.net/wp-content/uploads/sites/3/2026/11/Jamie-Foxx-3.jpg?resize=1200,630",
+        "caption": "Jamie Foxx Stars in New Netflix Film Fight for '84 Following 1980 Plane Crash Tragedy",
+        "source": "ComingSoon.net"
+      }
+    ],
+    "published": "Tue, 24 Nov 2026 19:45:20 +0000"
+  },
+  "ruic33": {
+    "id": "ruic33",
+    "type": "news",
+    "headline": "Bigg Boss 20 Episode 79: Arishfa Khan Breaks Down Over Qazi Touqeer’s Song and ScoutOP Reacts",
+    "dek": "Episode 79 of Bigg Boss 20 brought high drama as Qazi Touqeer's controversial lyrics targeted Love Gill, leaving Arishfa Khan in tears and drawing sharp criticism from ScoutOP and other housemates.",
+    "body": [
+      {
+        "h": "Controversial Performances in the Bigg Boss 20 House",
+        "p": [
+          "The housemates of Bigg Boss 20 faced another eventful cycle during Episode 79, which mixed entertaining segments with major controversies. Hosted by Salman Khan, the reality television show featured a special task called the Bigg Boss 20 show, where participants were assigned distinct performance roles. Gullu took on the responsibility of hosting the event, while Kanika Mann, Mahhi Vij, and ScoutOP sat on the judging panel.",
+          "The lineup included dancing segments, rap battles, and musical performances. Amrapali Dubey performed to a Bhojpuri number, and Love Gill danced to a Punjabi track. Meanwhile, Yung DSA and Uditi Singh delivered an energetic diss rap that targeted fellow contestants, and Qazi Touqeer teamed up with Arishfa Khan for a stage performance."
+        ]
+      },
+      {
+        "h": "Qazi Touqeer Sparks Backlash Over Derogatory Lyrics",
+        "p": [
+          "Tensions flared during the preparation for the musical act when Qazi Touqeer informed Arishfa Khan of his intention to use a slang term directed at Love Gill. Although Arishfa disagreed with his suggestion and warned him against it, Qazi remained adamant and ultimately convinced her to participate in the song with him.",
+          "During the main show, Qazi and Arishfa performed their diss song, taking direct digs at Kanika Mann and Love Gill. The inclusion of the derogatory 'Love-Day' remark against Love triggered an immediate backlash from multiple housemates. Mahhi Vij and Kanika Mann openly criticized his actions, while ScoutOP also expressed strong disapproval of the lyrics."
+        ]
+      },
+      {
+        "h": "Arishfa Khan Breaks Down in Tears",
+        "p": [
+          "Following the conclusion of the task, the atmosphere in the house grew heavy as several contestants confronted Qazi Touqeer and Arishfa Khan over the controversial lyrics. Arishfa attempted to clarify that she had opposed the use of the slang beforehand, but her warnings were ignored by her partner.",
+          "Overwhelmed by the ensuing criticism and feeling guilty about her association with the performance, Arishfa broke down in tears. Her distress highlighted the deep divisions and mounting pressure within the house as contestants navigated the fallout from the task."
+        ]
+      },
+      {
+        "h": "ScoutOP Confronts Qazi Touqeer",
+        "p": [
+          "The fallout from the performance also involved ScoutOP, who strongly objected to Qazi Touqeer's choice of words against Love Gill. ScoutOP made it clear that he did not appreciate the derogatory remarks included in the song.",
+          "When confronted by his fellow housemates, Qazi remained unapologetic and attempted to defend his actions. His refusal to back down further aggravated the situation, leading to heightened friction among the participants."
+        ]
+      },
+      {
+        "h": "Yung DSA and ScoutOP Experience Rising Tensions",
+        "p": [
+          "Earlier in the episode, interpersonal conflicts extended beyond the main task as Yung DSA expressed lingering frustration toward ScoutOP. Yung told Amrapali Dubey and Mahhi Vij that he felt betrayed by Scout's tendency to continue interacting with Love Gill despite earlier discussions.",
+          "At the same time, Mahhi Vij addressed her own recent comments regarding Yung DSA's outside plans. Realizing her mistake, Mahhi offered an apology to Yung, which helped resolve that particular friction even as other alliances in the house remained strained."
+        ]
+      },
+      {
+        "h": "Kanika Mann Confides in Gullu",
+        "p": [
+          "Away from the group arguments, Kanika Mann found herself dealing with emotional struggles of her own. Earlier in the day, she addressed Love Gill regarding remarks about her emotions being labeled as drama.",
+          "Later in the night, Kanika grew emotional during a conversation with Gullu, admitting that she has kept herself from falling in love due to a past breakup and has remained single for over two and a half years. Gullu offered supportive advice, encouraging her to better manage and express her feelings openly."
+        ]
+      },
+      {
+        "h": "Task Scoring and Ration Results",
+        "p": [
+          "Despite the controversies and arguments, the Bigg Boss 20 show task concluded with formal scoring from the appointed judges. Amrapali Dubey received 4 marks, while Love Gill also secured 4 marks for her Punjabi dance performance.",
+          "Yung DSA and Uditi Singh earned 5 marks for their well-received diss rap, and Gullu received 5 marks for his hosting skills. Qazi Touqeer and Arishfa Khan received the lowest score of 3 marks. Ultimately, Bigg Boss announced that the housemates would be rewarded with an 84 percent ration based on their collective task performances."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Episode 79 of Bigg Boss 20 on November 23, 2026, featured a variety show task hosted by Gullu, where contestants participated in singing, dancing, and rap performances. The episode's main controversy centered on Qazi Touqeer using a derogatory remark against Love Gill in a song with Arishfa Khan, leading to widespread criticism from housemates like ScoutOP and leaving Arishfa in tears. Meanwhile, other participants managed personal conflicts and emotional discussions before Bigg Boss awarded the house an 84 percent ration based on the final scores."
+        ]
+      }
+    ],
+    "facts": [
+      "Bigg Boss 20 Episode 79 aired on November 23, 2026.",
+      "Qazi Touqeer used a 'Love-Day' remark against Love Gill during a song performance.",
+      "Arishfa Khan partnered with Qazi Touqeer for the stage performance and later broke down in tears.",
+      "ScoutOP, Mahhi Vij, and Kanika Mann served as judges for the Bigg Boss 20 show task.",
+      "Yung DSA and Uditi Singh performed a diss rap and scored 5 marks.",
+      "Amrapali Dubey and Love Gill both scored 4 marks in the task.",
+      "Qazi Touqeer and Arishfa Khan scored 3 marks in the task.",
+      "Gullu hosted the show and scored 5 marks for his hosting skills.",
+      "Bigg Boss awarded the housemates an 84 percent ration based on the task performances."
+    ],
+    "entities": {
+      "people": [
+        "Arishfa Khan",
+        "Qazi Touqeer",
+        "ScoutOP",
+        "Salman Khan",
+        "Love Gill",
+        "Gullu",
+        "Yung DSA",
+        "Uditi Singh",
+        "Kanika Mann",
+        "Mahhi Vij",
+        "Amrapali Dubey"
+      ],
+      "titles": [
+        "Bigg Boss 20"
+      ]
+    },
+    "keywords": [
+      "Bigg Boss 20 Episode 79",
+      "Arishfa Khan Qazi Touqeer",
+      "Love Gill ScoutOP",
+      "Bigg Boss 20 November 23"
+    ],
+    "images": [
+      {
+        "url": "https://images.timesnownews.com/thumb/msid-156556350,thumbsize-792142,width-1280,height-720,resizemode-75/156556350.jpg",
+        "caption": "Bigg Boss 20 Episode 79: Arishfa Khan Breaks Down Over Qazi Touqeer’s Song and ScoutOP Reacts",
+        "source": "Times Now — Entertainment"
+      }
+    ],
+    "published": "2026-11-24T20:51:55Z"
+  },
+  "1ivp1j0": {
+    "id": "1ivp1j0",
+    "type": "news",
+    "headline": "Arielle Peppers Breaks Silence After Viral Ugg Boots Comment in Vanity Fair Article",
+    "dek": "One of the few named sources from a controversial profile speaks out about her childhood memory involving Ugg boots and the massive online backlash she received.",
+    "body": [
+      {
+        "h": "The Source Steps Forward",
+        "p": [
+          "Arielle Peppers has stepped forward to address her involvement in a high-profile publication piece that sparked massive online discussion. As one of the few individuals who chose to go on the record for the reported Vanity Fair piece, she recently issued a statement to clarify her motivations and address the surrounding controversy.",
+          "The published piece heavily centered on an unnamed global superstar, frequently referred to in the text by coded monikers like 'The Star' and 'The Mastermind.' Although the feature did not explicitly state her full identity, widespread speculation pointed directly to the thirty-six-year-old music icon."
+        ]
+      },
+      {
+        "h": "The Viral Ugg Boots Anecdote",
+        "p": [
+          "Among the most heavily discussed sections of the feature was an anecdote provided by Arielle regarding footwear preferences during their school days. She recalled sitting across the room in class while noticing the prominent figure wearing Ugg boots.",
+          "Arielle shared a personal memory of asking her single mother for the same brand of boots after transferring schools. Her mother pointed out that a single pair cost half of her wages earned from working at a bakery, a dairy mill, and as a caretaker, contrasting with her classmate who reportedly owned multiple pairs in various colors."
+        ]
+      },
+      {
+        "h": "Addressing the Public Backlash",
+        "p": [
+          "Following the publication of the piece, the article faced heavy criticism across various online platforms. In her recent statement provided to TMZ, Arielle explained that her contribution was merely a straightforward childhood recollection regarding affordability and differing family circumstances.",
+          "She emphasized that her comments were never meant to serve as an attack against anyone. Instead, she was simply recalling everyday school life and the financial realities experienced by different households during that time."
+        ]
+      },
+      {
+        "h": "Focusing on Personal Goals and Family",
+        "p": [
+          "Amid the ongoing chatter, Arielle has turned her attention entirely toward her family and career pursuits. She noted that she is currently busy raising her twin daughters and maintaining her regular employment.",
+          "In addition to her family and job responsibilities, she is actively pursuing her own musical ambitions under the artistic moniker A. Star. She also took the opportunity to extend her well wishes for continued success to the Grammy-winning superstar."
+        ]
+      },
+      {
+        "h": "Dealing With Threats and Negativity",
+        "p": [
+          "The decision to speak publicly has unfortunately brought a wave of hostility. Arielle revealed that she has been flooded with numerous threats and hateful messages from online commentators since the profile was released.",
+          "Despite the heavy influx of negativity, she expressed a desire to rise above the hostility. She stated an intention to avoid spreading hate and to move forward by focusing purely on positivity and love."
+        ]
+      },
+      {
+        "h": "Context and Legacy of the Profile",
+        "p": [
+          "The controversial feature has driven immense online traffic and intense decoding efforts from fans trying to interpret every hidden reference. The use of coded names instead of direct identification turned the piece into an instant viral talking point across entertainment news outlets.",
+          "By offering a rare firsthand perspective from someone who actually shared a classroom with the global icon, Arielle's contribution remains one of the most talked-about elements of the entire media rollout."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Arielle Peppers has spoken out following heavy online backlash over her viral Ugg boots anecdote shared in a profile about a thirty-six-year-old superstar. Clarifying that her comments were not an attack, she noted she is currently focused on raising her twin daughters, working, and pursuing her music career as A. Star while wishing the singer continued success."
+        ]
+      }
+    ],
+    "facts": [
+      "Arielle Peppers is a source who went on the record for the Vanity Fair article.",
+      "The superstar referenced in the profile is 36 years old.",
+      "The profile referred to the subject as 'The Star' and 'The Mastermind.'",
+      "Arielle Peppers asked her mother for Ugg boots after transferring to a new school.",
+      "Arielle Peppers gave her statement to TMZ.",
+      "Arielle Peppers is raising twin daughters and pursuing musical goals as A. Star."
+    ],
+    "entities": {
+      "people": [
+        "Taylor Swift",
+        "Arielle Peppers",
+        "A. Star"
+      ],
+      "titles": [
+        "Vanity Fair"
+      ]
+    },
+    "keywords": [
+      "Arielle Peppers",
+      "Taylor Swift Vanity Fair",
+      "Ugg boots comment",
+      "Vanity Fair Mastermind article"
+    ],
+    "images": [
+      {
+        "url": "https://www.justjared.com/wp-content/uploads/2026/11/taylor-swift-source.jpg",
+        "caption": "Arielle Peppers Breaks Silence After Viral Ugg Boots Comment in Vanity Fair Article",
+        "source": "Just Jared"
+      }
+    ],
+    "published": "Tue, 24 Nov 2026 19:04:16 +0000"
+  },
+  "1c9z7lp": {
+    "id": "1c9z7lp",
+    "type": "news",
+    "headline": "Ranbir Kapoor and Yash Starrer Ramayana: Part 1 Faces Police Complaint Over Narrative Objections",
+    "dek": "Makers of Ramayana: Part 1 face legal trouble and a police complaint in Mumbai over allegations of narrative distortion and hurt religious sentiments.",
+    "body": [
+      {
+        "h": "Police Complaint Registered in Mumbai",
+        "p": [
+          "The makers of Ramayana: Part 1 have encountered fresh legal hurdles as a formal police complaint was registered against them at the Mulund West police station in Mumbai.",
+          "Satish Kochrekar, spokesperson for the Hindu Janajagruti Samiti, stepped forward to lodge the complaint, claiming that the movie has distorted traditional narratives and offended Hindu religious sentiments."
+        ]
+      },
+      {
+        "h": "Prior Protests and Protests Demand",
+        "p": [
+          "This legal development comes in the wake of earlier protests organized by the Hindu Janajagruti Samiti in cities like Mumbai and Kolhapur.",
+          "The organization has actively pushed for the removal of what they deem objectionable scenes and dialogue sequences from the theatrical cut."
+        ]
+      },
+      {
+        "h": "Specific Objections Raised Against the Plot",
+        "p": [
+          "According to details shared by the group on social media, multiple core aspects of the screenplay have drawn severe criticism.",
+          "They allege that the film portrays demon king Ravana as a protector of women and savior of the poor, while also depicting him as an unarmed warrior who defeated an army."
+        ]
+      },
+      {
+        "h": "Character Portrayals Under Fire",
+        "p": [
+          "The organization's list of grievances includes claims that Lord Rama is shown fleeing in fear from demons and that Goddess Sita is depicted reprimanding Lord Lakshman regarding Surpanakha.",
+          "Additionally, the group criticized the portrayal of Lord Lakshman as arrogant and disrespectful toward elders, alongside the inclusion of fictional episodes such as Rama apologizing to demons Khara and Dushana."
+        ]
+      },
+      {
+        "h": "Demands for Legal Action",
+        "p": [
+          "The formal complaint requests the filing of an FIR invoking Sections 299 and 196 of the BNS, 2023, alongside strict legal consequences for those accountable.",
+          "Furthermore, the complainants have called for an exhaustive investigation into the film, its script, and its dialogue, alongside the documentation of all contested scenes."
+        ]
+      },
+      {
+        "h": "Strong Box Office Performance Amid Controversy",
+        "p": [
+          "Despite the swirling controversies and protests, Ramayana: Part 1 continues to maintain strong numbers at the box office following its November 5 release.",
+          "After nineteen days in theaters, the movie accumulated a net collection of Rs 955.45 crore in India and a gross collection of Rs 1141.65 crore, alongside a worldwide total of Rs 1704.65 crore."
+        ]
+      },
+      {
+        "h": "Cast and Future Releases",
+        "p": [
+          "Directed by Nitesh Tiwari, the feature stars Ranbir Kapoor as Lord Rama, Sai Pallavi as Goddess Sita, Ravie Dubey as Lord Lakshman, and Yash as Ravana.",
+          "The expansive supporting cast features Sheeba Chadha, Indira Krishna, Arun Govil, Rakul Preet Singh, Vivek Oberoi, and Lara Dutta, with production handled by Yash and Namit Malhotra, and a sequel scheduled for Diwali 2028."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "A police complaint has been registered in Mumbai against the makers of Ramayana: Part 1 over allegations of narrative distortion. Despite ongoing protests and demands for an FIR, the film continues to perform strongly at the box office."
+        ]
+      }
+    ],
+    "facts": [
+      "Complaint registered at Mulund West police station in Mumbai on November 24, 2026",
+      "Complainant is Satish Kochrekar, spokesperson for Hindu Janajagruti Samiti",
+      "Film released in theaters on November 5",
+      "Net collection in India after 19 days is Rs 955.45 crore",
+      "Gross collection in India after 19 days is Rs 1141.65 crore",
+      "Worldwide ticket window collection reached Rs 1704.65 crore",
+      "Ramayana: Part 2 is scheduled to arrive on Diwali 2028"
+    ],
+    "entities": {
+      "people": [
+        "Ranbir Kapoor",
+        "Yash",
+        "Satish Kochrekar",
+        "Nitesh Tiwari",
+        "Sai Pallavi",
+        "Ravie Dubey",
+        "Sheeba Chadha",
+        "Indira Krishna",
+        "Arun Govil",
+        "Rakul Preet Singh",
+        "Vivek Oberoi",
+        "Lara Dutta",
+        "Namit Malhotra"
+      ],
+      "titles": [
+        "Ramayana: Part 1",
+        "Ramayana: Part 2"
+      ]
+    },
+    "keywords": [
+      "Ramayana Part 1",
+      "Ranbir Kapoor Ramayana",
+      "Ramayana police complaint",
+      "Nitesh Tiwari Ramayana"
+    ],
+    "images": [
+      {
+        "url": "https://images.timesnownews.com/thumb/msid-156557409,thumbsize-803202,width-1280,height-720,resizemode-75/156557409.jpg",
+        "caption": "Ranbir Kapoor and Yash Starrer Ramayana: Part 1 Faces Police Complaint Over Narrative Objections",
+        "source": "Times Now — Entertainment"
+      }
+    ],
+    "published": "2026-11-24T20:51:55Z"
   }
 };
