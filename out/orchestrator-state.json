@@ -1,17 +1,17 @@
 {
  "steps": {
   "apply_auto": {
-   "last_run": "2026-11-25T06:23:09Z",
+   "last_run": "2026-11-25T07:03:44Z",
    "last_status": "success",
-   "last_attempt_at": "2026-11-25T06:23:09Z",
-   "last_success": "2026-11-25T06:23:09Z",
+   "last_attempt_at": "2026-11-25T07:03:44Z",
+   "last_success": "2026-11-25T07:03:44Z",
    "consecutive_failures": 0
   },
   "convert_news": {
-   "last_run": "2026-11-25T06:23:09Z",
+   "last_run": "2026-11-25T07:03:44Z",
    "last_status": "success",
-   "last_attempt_at": "2026-11-25T06:23:09Z",
-   "last_success": "2026-11-25T06:23:09Z",
+   "last_attempt_at": "2026-11-25T07:03:44Z",
+   "last_success": "2026-11-25T07:03:44Z",
    "consecutive_failures": 0
   },
   "episode_guides": {
@@ -22,17 +22,17 @@
    "consecutive_failures": 0
   },
   "fetch": {
-   "last_run": "2026-11-25T06:23:09Z",
+   "last_run": "2026-11-25T07:03:44Z",
    "last_status": "success",
-   "last_attempt_at": "2026-11-25T06:23:09Z",
-   "last_success": "2026-11-25T06:23:09Z",
+   "last_attempt_at": "2026-11-25T07:03:44Z",
+   "last_success": "2026-11-25T07:03:44Z",
    "consecutive_failures": 0
   },
   "gemini_batch": {
-   "last_run": "2026-11-25T06:23:09Z",
+   "last_run": "2026-11-25T07:03:44Z",
    "last_status": "success",
-   "last_attempt_at": "2026-11-25T06:23:09Z",
-   "last_success": "2026-11-25T06:23:09Z",
+   "last_attempt_at": "2026-11-25T07:03:44Z",
+   "last_success": "2026-11-25T07:03:44Z",
    "consecutive_failures": 0
   },
   "gemini_reviews": {
@@ -44,23 +44,23 @@
   },
   "metadata_refresh": {
    "last_status": "success",
-   "last_run": "2026-11-24T06:55:05Z",
-   "last_attempt_at": "2026-11-24T06:55:05Z",
-   "last_success": "2026-11-24T06:55:05Z",
+   "last_run": "2026-11-25T07:03:44Z",
+   "last_attempt_at": "2026-11-25T07:03:44Z",
+   "last_success": "2026-11-25T07:03:44Z",
    "consecutive_failures": 0
   },
   "multisource_boxoffice": {
    "last_status": "success",
-   "last_run": "2026-11-25T06:23:09Z",
-   "last_attempt_at": "2026-11-25T06:23:09Z",
-   "last_success": "2026-11-25T06:23:09Z",
+   "last_run": "2026-11-25T07:03:44Z",
+   "last_attempt_at": "2026-11-25T07:03:44Z",
+   "last_success": "2026-11-25T07:03:44Z",
    "consecutive_failures": 0
   },
   "overseas_ai": {
    "last_status": "success",
-   "last_run": "2026-11-25T05:15:43Z",
-   "last_attempt_at": "2026-11-25T05:15:43Z",
-   "last_success": "2026-11-25T05:15:43Z",
+   "last_run": "2026-11-25T07:03:44Z",
+   "last_attempt_at": "2026-11-25T07:03:44Z",
+   "last_success": "2026-11-25T07:03:44Z",
    "consecutive_failures": 0
   },
   "providers_backfill": {
@@ -71,10 +71,10 @@
    "consecutive_failures": 0
   },
   "publish": {
-   "last_run": "2026-11-25T06:23:09Z",
+   "last_run": "2026-11-25T07:03:44Z",
    "last_status": "success",
-   "last_attempt_at": "2026-11-25T06:23:09Z",
-   "last_success": "2026-11-25T06:23:09Z",
+   "last_attempt_at": "2026-11-25T07:03:44Z",
+   "last_success": "2026-11-25T07:03:44Z",
    "consecutive_failures": 0
   },
   "sacnilk_boxoffice": {
@@ -86,55 +86,55 @@
    "detail": "reader timed out; last-good staging retained"
   },
   "stats_health": {
-   "last_run": "2026-11-24T06:55:05Z",
+   "last_run": "2026-11-25T07:03:44Z",
    "last_status": "success",
-   "last_attempt_at": "2026-11-24T06:55:05Z",
-   "last_success": "2026-11-24T06:55:05Z",
+   "last_attempt_at": "2026-11-25T07:03:44Z",
+   "last_success": "2026-11-25T07:03:44Z",
    "consecutive_failures": 0
   },
   "stats_pipeline": {
-   "last_run": "2026-11-25T00:55:29Z",
+   "last_run": "2026-11-25T07:03:44Z",
    "last_status": "success",
-   "last_attempt_at": "2026-11-25T00:55:29Z",
-   "last_success": "2026-11-25T00:55:29Z",
+   "last_attempt_at": "2026-11-25T07:03:44Z",
+   "last_success": "2026-11-25T07:03:44Z",
    "consecutive_failures": 0
   },
   "stats_traffic": {
-   "last_run": "2026-11-25T06:23:09Z",
+   "last_run": "2026-11-25T07:03:44Z",
    "last_status": "success",
-   "last_attempt_at": "2026-11-25T06:23:09Z",
-   "last_success": "2026-11-25T06:23:09Z",
+   "last_attempt_at": "2026-11-25T07:03:44Z",
+   "last_success": "2026-11-25T07:03:44Z",
    "consecutive_failures": 0
   },
   "tavily_boxoffice": {
    "last_status": "success",
-   "last_run": "2026-11-25T05:15:43Z",
-   "last_attempt_at": "2026-11-25T05:15:43Z",
-   "last_success": "2026-11-25T05:15:43Z",
+   "last_run": "2026-11-25T07:03:44Z",
+   "last_attempt_at": "2026-11-25T07:03:44Z",
+   "last_success": "2026-11-25T07:03:44Z",
    "consecutive_failures": 0
   },
   "title_seed": {
-   "last_run": "2026-11-24T19:01:37Z",
+   "last_run": "2026-11-25T07:03:44Z",
    "last_status": "success",
-   "last_attempt_at": "2026-11-24T19:01:37Z",
-   "last_success": "2026-11-24T19:01:37Z",
+   "last_attempt_at": "2026-11-25T07:03:44Z",
+   "last_success": "2026-11-25T07:03:44Z",
    "consecutive_failures": 0
   },
   "trending_weekly": {
    "last_status": "success",
-   "last_run": "2026-11-25T06:23:09Z",
+   "last_run": "2026-11-25T07:03:44Z",
    "stale": false,
    "newest_entry": "2026-10-28",
-   "last_attempt_at": "2026-11-25T06:23:09Z",
+   "last_attempt_at": "2026-11-25T07:03:44Z",
    "last_success": "2026-11-25T06:22:56Z",
    "consecutive_failures": 0,
    "evidence_checked_at": "2026-11-25T06:22:56Z"
   },
   "version_bump": {
    "last_status": "success",
-   "last_run": "2026-11-25T06:23:09Z",
-   "last_attempt_at": "2026-11-25T06:23:09Z",
-   "last_success": "2026-11-25T06:23:09Z",
+   "last_run": "2026-11-25T07:03:44Z",
+   "last_attempt_at": "2026-11-25T07:03:44Z",
+   "last_success": "2026-11-25T07:03:44Z",
    "consecutive_failures": 0
   },
   "keywords_refresh": {
@@ -145,10 +145,10 @@
    "consecutive_failures": 0
   },
   "trending_worldwide": {
-   "last_attempt_at": "2026-11-25T00:51:48Z",
-   "last_run": "2026-11-25T00:51:48Z",
+   "last_attempt_at": "2026-11-25T06:51:33Z",
+   "last_run": "2026-11-25T06:51:33Z",
    "last_status": "success",
-   "last_success": "2026-11-25T00:51:48Z",
+   "last_success": "2026-11-25T06:51:33Z",
    "consecutive_failures": 0,
    "detail": "valid top 20 snapshot"
   },
@@ -169,12 +169,12 @@
    "detail": "reader process failed; last-good staging retained"
   },
   "ott_digital": {
-   "last_attempt_at": "2026-11-24T18:52:37Z",
-   "last_run": "2026-11-24T18:52:37Z",
-   "last_status": "failed",
-   "last_success": "2026-11-19T06:52:38Z",
-   "consecutive_failures": 15,
-   "detail": "invalid release_dates response for 1828101"
+   "last_attempt_at": "2026-11-25T06:51:54Z",
+   "last_run": "2026-11-25T06:51:54Z",
+   "last_status": "success",
+   "last_success": "2026-11-25T06:51:54Z",
+   "consecutive_failures": 0,
+   "detail": "197 digital titles; registry 844; checked 64 this run"
   },
   "wp_boxoffice": {
    "last_attempt_at": "2026-11-25T05:01:32Z",
@@ -185,12 +185,12 @@
    "detail": "no valid nonempty source staging; last-good retained"
   },
   "bollybourse_boxoffice": {
-   "last_attempt_at": "2026-11-25T00:54:51Z",
-   "last_run": "2026-11-25T00:54:51Z",
+   "last_attempt_at": "2026-11-25T06:55:03Z",
+   "last_run": "2026-11-25T06:55:03Z",
    "last_status": "success",
-   "last_success": "2026-11-25T00:54:51Z",
+   "last_success": "2026-11-25T06:55:03Z",
    "consecutive_failures": 0,
-   "detail": "validated 95 rows; 1 staging files changed"
+   "detail": "validated 95 rows; 0 staging files changed"
   },
   "filmibeat_boxoffice": {
    "last_attempt_at": "2026-11-25T05:01:33Z",
@@ -201,17 +201,17 @@
    "detail": "no valid nonempty source staging; last-good retained"
   },
   "advance_booking": {
-   "last_run": "2026-11-24T19:01:37Z",
-   "last_attempt_at": "2026-11-24T19:01:37Z",
+   "last_run": "2026-11-25T07:03:44Z",
+   "last_attempt_at": "2026-11-25T07:03:44Z",
    "last_status": "success",
-   "last_success": "2026-11-24T19:01:37Z",
+   "last_success": "2026-11-25T07:03:44Z",
    "consecutive_failures": 0
   },
   "home_boxoffice_worldwide": {
-   "last_run": "2026-11-25T03:52:12Z",
-   "last_attempt_at": "2026-11-25T03:52:12Z",
+   "last_run": "2026-11-25T07:03:44Z",
+   "last_attempt_at": "2026-11-25T07:03:44Z",
    "last_status": "success",
-   "last_success": "2026-11-25T03:52:12Z",
+   "last_success": "2026-11-25T07:03:44Z",
    "consecutive_failures": 0
   },
   "bollywoodhungama_boxoffice": {
@@ -223,5 +223,5 @@
    "detail": "reader timed out; last-good staging retained"
   }
  },
- "updated_at": "2026-11-25T06:23:09Z"
+ "updated_at": "2026-11-25T07:03:44Z"
 }

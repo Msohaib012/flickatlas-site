@@ -244113,5 +244113,400 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Wed, 25 Nov 2026 04:11:11 +0000"
+  },
+  "12srbq5": {
+    "id": "12srbq5",
+    "type": "news",
+    "headline": "Entertainment Highlights: Kaziah Liz Mezo's Miss Universe Run Ends, Yeh Prem Mol Liya Sets Pre-Release Music Records",
+    "dek": "A roundup of top entertainment stories covering India's journey at the Miss Universe 2026 pageant, historic pre-release milestones for Yeh Prem Mol Liya, and social media reactions involving prominent personalities.",
+    "body": [
+      {
+        "h": "Miss Universe 2026 Journey Concludes for India's Representative",
+        "p": [
+          "The 75th edition of the Miss Universe pageant brought significant attention to India's contestant, Kaziah Liz Mezo. The 19-year-old participant advanced through the initial rounds to reach the semi-final stage among the top 30 contestants.",
+          "Although she performed strongly on the international stage, her journey concluded when she did not secure a position in the top 12 finalists. Despite missing out on the final crown, her participation marked a milestone for representation from her home state."
+        ]
+      },
+      {
+        "h": "Historic Milestones Achieved by Kaziah Liz Mezo",
+        "p": [
+          "Kaziah Liz Mezo established notable records throughout her pageant journey. She made history by becoming the first individual from Kerala to represent India at the international Miss Universe competition.",
+          "Additionally, her achievement included winning the Miss Universe India title from Kerala for the first time in the 75-year history of the pageant, leaving a lasting legacy for future contestants from the region."
+        ]
+      },
+      {
+        "h": "Yeh Prem Mol Liya Prepares for Theatrical Release",
+        "p": [
+          "The romantic family drama Yeh Prem Mol Liya, directed by Sooraj Barjatya, is scheduled to arrive in theatres. The feature film stars actors Ayushmann Khurrana and Sharvari in prominent lead roles.",
+          "Anticipation has been high for the project, which combines traditional family-oriented storytelling with contemporary cinematic appeal under the direction of Barjatya."
+        ]
+      },
+      {
+        "h": "Pre-Release Music Record Set by Yeh Prem Mol Liya",
+        "p": [
+          "Even before its official theatrical debut, the film achieved a major historic milestone through its soundtrack. The musical score, composed by Himesh Reshammiya, resonated widely with listeners across various digital platforms.",
+          "The tracks successfully crossed the significant threshold of 1 billion views online ahead of the movie's premiere, highlighting strong audience engagement with the soundtrack."
+        ]
+      },
+      {
+        "h": "Orry Addresses Controversies Regarding Celebrity Breakup",
+        "p": [
+          "Social media personality Orhan Awatramani, widely known as Orry, addressed public discussions regarding the reported separation of actors Avinash Mishra and Eisha Singh. He revealed that he had faced harsh messages and direct threats from individuals demanding comments on the situation.",
+          "Clarifying his stance on Instagram Stories, Orry stated that he had not communicated with either actor about the breakup and preferred not to comment without knowing complete details, urging the public to respect their privacy."
+        ]
+      },
+      {
+        "h": "Avinash Mishra Confirms Separation from Eisha Singh",
+        "p": [
+          "The breakup between Avinash Mishra and Eisha Singh drew substantial attention across social media platforms. Avinash publicly confirmed the separation, taking full responsibility for the outcome.",
+          "He further issued an apology for any hurt caused to Eisha and her family, keeping the topic active within entertainment news circles as fans and followers reacted to the developments."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "India's representative Kaziah Liz Mezo concluded her run at the Miss Universe 2026 pageant after reaching the semi-finals, setting historic representation records for Kerala. Meanwhile, the upcoming film Yeh Prem Mol Liya achieved a major pre-release milestone as its music crossed 1 billion views, and public figures addressed ongoing discussions surrounding recent celebrity separations."
+        ]
+      }
+    ],
+    "facts": [
+      "Kaziah Liz Mezo is 19 years old.",
+      "Kaziah Liz Mezo made it to the top 30 semi-finalists at Miss Universe 2026.",
+      "The Miss Universe 2026 pageant is the 75th edition.",
+      "Yeh Prem Mol Liya's music crossed 1 billion views across digital platforms ahead of its release.",
+      "Himesh Reshammiya composed the music for Yeh Prem Mol Liya.",
+      "Sooraj Barjatya directed Yeh Prem Mol Liya.",
+      "Ayushmann Khurrana and Sharvari star in Yeh Prem Mol Liya."
+    ],
+    "entities": {
+      "people": [
+        "Kaziah Liz Mezo",
+        "Ayushmann Khurrana",
+        "Sharvari",
+        "Sooraj Barjatya",
+        "Orhan Awatramani",
+        "Orry",
+        "Avinash Mishra",
+        "Eisha Singh",
+        "Himesh Reshammiya",
+        "Jennifer Barreto"
+      ],
+      "titles": [
+        "Yeh Prem Mol Liya",
+        "Miss Universe"
+      ]
+    },
+    "keywords": [
+      "Kaziah Liz Mezo Miss Universe",
+      "Yeh Prem Mol Liya film",
+      "Ayushmann Khurrana Sharvari",
+      "Himesh Reshammiya music",
+      "Orry Avinash Mishra Eisha Singh"
+    ],
+    "images": [
+      {
+        "url": "https://images.filmibeat.com/img/2026/11/feature-2026-11-25t111655-994-17831795585621.jpg",
+        "caption": "Entertainment Highlights: Kaziah Liz Mezo's Miss Universe Run Ends, Yeh Prem Mol Liya Sets Pre-Release Music Records",
+        "source": "FilmiBeat"
+      }
+    ],
+    "published": "Wed, 25 Nov 2026 11:17:23 +0530"
+  },
+  "1sugafr": {
+    "id": "1sugafr",
+    "type": "news",
+    "headline": "Masters of the Universe Becomes a Massive Streaming Hit on Prime Video",
+    "dek": "For fans waiting for the next installment of The Mummy, Prime Video's Masters of the Universe delivers an action-packed alternative that has climbed to the top of the streaming charts.",
+    "body": [
+      {
+        "h": "Finding a New Audience on Streaming",
+        "p": [
+          "Audiences eagerly looking forward to the next chapter of The Mummy franchise with the upcoming theatrical release of The Mummy: Book of the Dead can currently find a similar blend of action and heart through a different title. The fantasy adaptation Masters of the Universe failed to generate massive numbers at the box office, but it has quickly discovered a much larger audience on home screens. Following its debut on Prime Video, the film surged in popularity to top the official Nielsen streaming charts.",
+          "Viewers who appreciate high-octane adventures filled with genuine stakes, emotional depth, and humor will find plenty to enjoy in this adaptation. Drawing clear thematic parallels to classic adventure cinema, the project offers a compelling watch for anyone searching for lighthearted thrills and grand exploration."
+        ]
+      },
+      {
+        "h": "A Playbook Rooted in Classic Adventure",
+        "p": [
+          "The original 1999 reboot of The Mummy successfully pivoted away from the pure horror conventions of its 1932 predecessor, embracing instead a vintage serial style reminiscent of Steven Spielberg's Indiana Jones series. That choice infused the production with a unique charm and an infectious sense of fun that has endured over the decades. Masters of the Universe mirrors that exact structural approach, maintaining a serious narrative drive while refusing to fall into self-parody.",
+          "That delicate tonal balance honors the underlying mythology without taking itself too rigidly, updating the goofier aspects of the classic 1980s Mattel toy line and Filmation animated series. Under the direction of Travis Knight, the humor is carefully modernized to appeal to both adult nostalgia and contemporary tastes, preserving the wonder of childhood imagination."
+        ]
+      },
+      {
+        "h": "Dynamic Leads and Compelling Chemistry",
+        "p": [
+          "Central to the film's success are its lead performers, Nicholas Galitzine and Camila Mendes, who portray Adam/He-Man and Teela respectively. Their onscreen chemistry and dynamic banter evoke the memorable romantic sparks shared by Brendan Fraser and Rachel Weisz as Rick O'Connell and Evelyn Carnahan in the classic adventure franchise.",
+          "Rather than presenting the protagonist as an immediate and flawless warrior, the script depicts Adam as a comedically inept young man working a standard human resources job. Screenwriter Chris Butler and director Knight gift the character with genuine depth as a reluctant hero who longs for his home planet and must ultimately rise to defend it."
+        ]
+      },
+      {
+        "h": "Bringing the World of Eternia to Life",
+        "p": [
+          "Rooted in a toy line that famously provided children with built-in lore and history to spark creative play, the movie captures a tangible sense of childlike wonder. Director Travis Knight, whose previous work includes Bumblebee, Kubo and the Two Strings, and Wildwood, successfully translates the fantastical realm of Eternia onto the screen with impressive visual fidelity.",
+          "Longtime fans are treated to faithful recreations of iconic locations such as Castle Grayskull and Snake Mountain, alongside costume designs that closely mirror their vintage action figure counterparts. The cinematic experience is further amplified by an original musical score composed by Daniel Pemberton, featuring distinctive guitar work from legendary rock musician Brian May."
+        ]
+      },
+      {
+        "h": "An Epic and Unapologetic Villain",
+        "p": [
+          "While traditional monster features often rely heavily on computer-generated imagery that occasionally dampens a villain's menace, this adaptation delivers a standout antagonist in Skeletor, played by Jared Leto. The character is brought to life through a seamless combination of practical costume techniques and advanced digital visual enhancements that perfectly capture his bony appearance.",
+          "Leto's portrayal honors the animated series by having the villain openly deride his own minions, yet the performance maintains a lethal edge of genuine threat. In an era where major blockbusters frequently shy away from straightforward antagonists, this version of the character embraces pure villainy simply because it is fun."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Masters of the Universe has successfully transitioned from a quiet box office run to become a certified streaming hit on Prime Video, topping the Nielsen charts. The film stars Nicholas Galitzine and Jared Leto, with direction by Travis Knight bringing the classic toy lore to vibrant life."
+        ]
+      }
+    ],
+    "facts": [
+      "Masters of the Universe was released on June 3, 2026.",
+      "The Mummy: Book of the Dead is scheduled to release in theaters on October 15, 2027.",
+      "Nicholas Galitzine stars as Adam/He-Man and Camila Mendes stars as Teela.",
+      "Jared Leto plays the villain Skeletor.",
+      "Travis Knight directed the film, and Daniel Pemberton composed the music with guitar renditions by Brian May."
+    ],
+    "entities": {
+      "people": [
+        "Jeffrey Harris",
+        "Travis Knight",
+        "Nicholas Galitzine",
+        "Camila Mendes",
+        "Brendan Fraser",
+        "Rachel Weisz",
+        "Chris Butler",
+        "Daniel Pemberton",
+        "Brian May",
+        "Arnold Vosloo",
+        "Imhotep",
+        "Jared Leto"
+      ],
+      "titles": [
+        "The Mummy",
+        "The Mummy: Book of the Dead",
+        "Masters of the Universe",
+        "Bumblebee",
+        "Kubo and the Two Strings",
+        "Wildwood",
+        "Indiana Jones"
+      ]
+    },
+    "keywords": [
+      "Masters of the Universe Prime Video",
+      "Nicholas Galitzine He-Man",
+      "Jared Leto Skeletor",
+      "Travis Knight Masters of the Universe"
+    ],
+    "images": [
+      {
+        "url": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/06/masters-of-the-universe-alison-brie.jpg?w=1600&amp;h=900&amp;fit=crop",
+        "caption": "Masters of the Universe Becomes a Massive Streaming Hit on Prime Video",
+        "source": "Collider"
+      }
+    ],
+    "published": "Wed, 25 Nov 2026 05:35:12 GMT"
+  },
+  "fmtexu": {
+    "id": "fmtexu",
+    "type": "news",
+    "headline": "Sung Hoon And Oh Se Young Navigate Rising Tension In What A Boss Wants",
+    "dek": "Fresh preview stills from What a Boss Wants showcase a close encounter and growing emotional friction between Sung Hoon and Oh Se Young ahead of the next broadcast.",
+    "body": [
+      {
+        "h": "Introduction To The Latest Preview",
+        "p": [
+          "Viewers eagerly anticipating the next broadcast of the romance drama What a Boss Wants have been treated to a fresh batch of preview stills. The newly released teaser images highlight a palpable sense of awkward tension developing between the main characters, raising curiosity about how their intricate relationship will unfold.",
+          "Adapted directly from a popular web novel, the television series continues to draw attention for its unique blend of romance and unexpected twists. Fans tracking the storyline can expect significant developments in the upcoming episode as the narrative delves deeper into the complex dynamic between the leads."
+        ]
+      },
+      {
+        "h": "Character Dynamics And Background",
+        "p": [
+          "The drama features Sung Hoon stepping into the role of Kwon Do Hyuk, a chaebol executive characterized by an absolute lack of a sense of taste. His life takes an unexpected turn when he embarks on a quest to track down an elusive woman whose voice he fell for after hearing it on a musical record.",
+          "Opposite him is Oh Se Young, who portrays Lee Eun Chae, the primary vocalist for an independent musical band. Serving as the solitary unpredictable element in an otherwise orderly existence, her character challenges the protagonist in ways he never anticipated."
+        ]
+      },
+      {
+        "h": "Recap Of Previous Romantic Escalations",
+        "p": [
+          "In earlier developments, Kwon Do Hyuk sought guidance from an artificial intelligence named Theo in his pursuit to capture Lee Eun Chae's affections. Acting on this counsel, he presented her with a costly necklace as a gesture of his romantic intent.",
+          "The emotional stakes escalated further when he made a late-night hospital visit to see her. While attending to her rain-drenched hair, he closed the distance between them and directly asked if he might kiss her, setting the stage for the current narrative tension."
+        ]
+      },
+      {
+        "h": "The Close Encounter At The Hospital",
+        "p": [
+          "The upcoming broadcast will feature another pivotal hospital scene where the two characters find themselves in tightly confined quarters. Upon noticing the arrival of Lee Eun Chae's brother-in-law Seo Jin Woo and her older sister Lee Eun Seo, the pair are forced to seek immediate concealment.",
+          "They squeeze together into an empty hospital bed to avoid detection, positioning themselves so closely that they nearly brush against one another. This cramped environment generates an intense and unusual atmosphere filled with unspoken tension."
+        ]
+      },
+      {
+        "h": "Concert Venue Revelation And Business Proposals",
+        "p": [
+          "Beyond their private moments, the storyline also shifts to professional settings involving the music group India Red. In a grand gesture, Kwon Do Hyuk rents out an entire concert venue exclusively for the band members.",
+          "During this gathering, he discloses his true identity as the chief executive officer of OYES Entertainment. Furthermore, he puts forward a formal proposal to alter the conceptual direction for the band's vocalist, Soo."
+        ]
+      },
+      {
+        "h": "Unfamiliar Atmosphere In The Office",
+        "p": [
+          "Following the major announcement regarding the band, Lee Eun Chae decides to visit Kwon Do Hyuk at his workplace to address the situation directly. Their interaction in the office is marked by a noticeable shift in behavior.",
+          "Rather than engaging normally, Kwon Do Hyuk deliberately avoids making direct eye contact with her. This avoidance fosters a cold and unfamiliar vibe between them as they exchange words."
+        ]
+      },
+      {
+        "h": "Broadcast Schedule And Availability",
+        "p": [
+          "Audiences won't have to wait much longer to see how these dramatic encounters resolve on screen. The next installment of the television series is scheduled to air on November 25 at 10:20 p.m. KST.",
+          "Viewers interested in following the emotional journey can catch up on the episodes with subtitles provided through the official streaming platforms associated with the broadcast."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "New preview stills for the drama What a Boss Wants showcase growing tension between Kwon Do Hyuk and Lee Eun Chae following a close hiding spot incident at a hospital and a surprising business proposal at a rented concert venue. The next episode is set to air on November 25 at 10:20 p.m. KST."
+        ]
+      }
+    ],
+    "facts": [
+      "What a Boss Wants airs on November 25 at 10:20 p.m. KST",
+      "Sung Hoon stars as Kwon Do Hyuk",
+      "Oh Se Young stars as Lee Eun Chae",
+      "Lee Choong Joo plays Seo Jin Woo",
+      "Kim Jae In plays Lee Eun Seo",
+      "AI Theo provides advice in the storyline",
+      "Kwon Do Hyuk is the CEO of OYES Entertainment"
+    ],
+    "entities": {
+      "people": [
+        "Sung Hoon",
+        "Oh Se Young",
+        "E Ezeji",
+        "Lee Choong Joo",
+        "Kim Jae In"
+      ],
+      "titles": [
+        "What a Boss Wants"
+      ]
+    },
+    "keywords": [
+      "What a Boss Wants drama",
+      "Sung Hoon What a Boss Wants",
+      "Oh Se Young What a Boss Wants",
+      "What a Boss Wants preview"
+    ],
+    "images": [
+      {
+        "url": "https://0.soompi.io/wp-content/uploads/2026/11/25125916/what-a-boss-wants_bbff3f.jpg",
+        "caption": "Sung Hoon And Oh Se Young Navigate Rising Tension In What A Boss Wants",
+        "source": "Soompi"
+      }
+    ],
+    "published": "Wed, 25 Nov 2026 05:10:35 +0000"
+  },
+  "1l4za10": {
+    "id": "1l4za10",
+    "type": "news",
+    "headline": "Jude Bellingham's Stunning Goal Leaves Rafael Nadal and Son in Awe as Real Madrid Thrash PSV 5-1",
+    "dek": "Tennis legend Rafael Nadal and his son Rafael Jr. were captured reacting in amazement to Jude Bellingham's brilliant volley during Real Madrid's dominant 5-1 Champions League victory over PSV Eindhoven.",
+    "body": [
+      {
+        "h": "The Unforgettable Santiago Bernabeu Moment",
+        "p": [
+          "During a thrilling UEFA Champions League encounter at the Santiago Bernabeu, English midfielder Jude Bellingham produced a breathtaking piece of skill that left the stadium in absolute amazement. Among those captivated by his brilliance were tennis legend Rafael Nadal and his young son, Rafael Jr., whose stunned expressions were promptly caught on camera.",
+          "The viral moment unfolded as Real Madrid mounted a fierce comeback against PSV Eindhoven, ultimately securing a resounding 5-1 victory. Bellingham's spectacular goal served as the turning point of the fixture, sending shockwaves through the stands and quickly capturing the attention of sports fans across social media platforms worldwide."
+        ]
+      },
+      {
+        "h": "First-Half Deficit and Half-Time Shift",
+        "p": [
+          "The match had begun on a challenging note for the hosts after PSV Eindhoven grabbed the opening advantage in the first half. Veteran player Ivan Perisic successfully converted from the penalty spot, putting the visiting side ahead and placing immense pressure on the home team to respond.",
+          "Sensing the urgency, tactical adjustments were made during the half-time interval, which included introducing Jude Bellingham into the game. The substitution immediately injected fresh energy into the squad, setting the stage for a dramatic turnaround after the break."
+        ]
+      },
+      {
+        "h": "Bellingham's Brilliant Volley",
+        "p": [
+          "Following an equaliser by Federico Valverde that leveled the score, Jude Bellingham stepped up to deliver one of the most memorable highlights of the evening. The midfielder expertly controlled a bouncing delivery with his left foot before smoothly lifting it with his right.",
+          "From roughly 25 yards out, he unleashed a superb volley that crashed in off the goalpost, leaving both the opposing defense and the roaring crowd completely stunned. This magnificent strike gave Real Madrid a crucial 2-1 lead and shifted the match momentum entirely in their favor."
+        ]
+      },
+      {
+        "h": "Rafael Nadal's Standin Reaction",
+        "p": [
+          "Tennis great Rafael Nadal, a lifelong supporter of the club and a recently appointed member of the board of directors, watched the unfolding brilliance alongside his son, Rafael Jr. The father-son duo could not hide their astonishment at Bellingham's technical masterclass.",
+          "Footage and images of their animated reactions spread rapidly across social media, highlighting the cross-sport appreciation for elite athletic execution. It added another layer of excitement to an already memorable European football night."
+        ]
+      },
+      {
+        "h": "Nadal's Recent Bernabeu Appearances",
+        "p": [
+          "This memorable sighting followed closely on the heels of another recent appearance by the 22-time Grand Slam champion at the same stadium. Just days prior, Nadal was spotted celebrating passionately during a narrow 2-1 victory over Celta Vigo.",
+          "During that fixture, he shared a celebratory embrace with his wife, Mery Perello, and their son following a late winner scored in the 85th minute, further cementing his active presence with the club following his official board appointment."
+        ]
+      },
+      {
+        "h": "Real Madrid Complete Comprehensive Victory",
+        "p": [
+          "Once Bellingham put the hosts ahead, Real Madrid continued to press their advantage with relentless attacking pressure. Kylian Mbappe extended the lead further after receiving a setup from Arda Guler, who had capitalized on a defensive error by Kodai Sano.",
+          "Mbappe added another goal later by rounding the goalkeeper following a precise through-ball from Guler, while Vinicius Jr. capped off the scoring with the fifth goal after being played through by Bellingham, sealing a comprehensive 5-1 triumph."
+        ]
+      },
+      {
+        "h": "Standings and Campaign Significance",
+        "p": [
+          "The commanding victory marked Real Madrid's fifth consecutive win in the current Champions League campaign, propelling them directly to the top of the tournament standings. The stellar performance underscored their formidable form in European competition.",
+          "Meanwhile, PSV Eindhoven remained outside the play-off qualifying places, holding four points from their first five matches as the group stage battles progressed toward their crucial later rounds."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Rafael Nadal and his son Rafael Jr. reacted with awe to Jude Bellingham's stunning volley during Real Madrid's 5-1 Champions League comeback win over PSV Eindhoven. Bellingham's spectacular goal helped spark the victory, which propelled Real Madrid to the top of the standings."
+        ]
+      }
+    ],
+    "facts": [
+      "Real Madrid defeated PSV 5-1",
+      "Rafael Nadal and his son Rafael Jr. watched the match",
+      "Jude Bellingham scored a stunning goal from around 25 yards",
+      "Ivan Perisic scored a penalty for PSV in the first half",
+      "Federico Valverde scored the equaliser for Real Madrid",
+      "Kylian Mbappe scored two goals",
+      "Vinicius Jr. added the fifth goal",
+      "Rafael Nadal recently attended a 2-1 win over Celta Vigo on November 21, 2026",
+      "The match took place at the Santiago Bernabeu on Tuesday, November 25, 2026"
+    ],
+    "entities": {
+      "people": [
+        "Jude Bellingham",
+        "Rafael Nadal",
+        "Rafael Jr.",
+        "Ivan Perisic",
+        "Federico Valverde",
+        "Carlos Esposito",
+        "Mery Perello",
+        "Kylian Mbappe",
+        "Arda Guler",
+        "Kodai Sano",
+        "Vinicius Jr."
+      ],
+      "titles": []
+    },
+    "keywords": [
+      "Jude Bellingham Real Madrid PSV",
+      "Rafael Nadal Real Madrid son",
+      "Real Madrid PSV 5-1 Champions League",
+      "Jude Bellingham stunning goal"
+    ],
+    "images": [
+      {
+        "url": "https://cdn-english.zeenews.com/sites/default/files/2026/11/25/7634-untitled-design-2026-11-25t101022872.jpg",
+        "caption": "Jude Bellingham's Stunning Goal Leaves Rafael Nadal and Son in Awe as Real Madrid Thrash PSV 5-1",
+        "source": "Zee News — Entertainment"
+      }
+    ],
+    "published": "2026-11-25T06:53:01Z"
   }
 };

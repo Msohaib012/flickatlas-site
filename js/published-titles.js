@@ -27949,20 +27949,20 @@ window.FA_PUBLISHED = {
     "id": 1538497,
     "type": "movie",
     "title": "Hexed",
-    "poster_path": "/3zxrelHqoPJwOP4oj4Wq1cNOUdG.jpg",
-    "backdrop_path": "/wZ9Me7OndzgBOEAa8nSBNPu3Sl4.jpg",
-    "vote_average": 0.0,
-    "vote_count": 0,
+    "poster_path": "/yykeYKbDBM9eUMJUucaaDo2mi1p.jpg",
+    "backdrop_path": "/wdjW11Tp4w9EfDBxbjyBJvDVHDA.jpg",
+    "vote_average": 7.4,
+    "vote_count": 9,
     "overview": "An impulsive and unconventional teenage girl named Billie discovers secret magical abilities which, once unleashed, hurtle her into a spectacle-filled journey out of suburbia and into a vast witch realm called Hexe. Forced to team up with her cautious mother, Alice, they uncover family mysteries that could change the world of witches forever.",
     "industry": "world",
-    "popularity": 18.1106,
+    "popularity": 58.7667,
     "original_language": "en",
     "origin_country": [
       "US"
     ],
     "trailer": {
-      "key": "IuosV-TRxDU",
-      "name": "Tickets On Sale",
+      "key": "9ke5KSOUl-U",
+      "name": "Foretold",
       "site": "YouTube"
     },
     "categories": [
@@ -27980,19 +27980,19 @@ window.FA_PUBLISHED = {
       "Comedy"
     ],
     "tagline": "Something is happening to Billie...",
-    "status": "Post Production",
+    "status": "Released",
     "production_countries": [
       "US"
     ],
     "spoken_languages": [
-      "en",
-      "th"
+      "en"
     ],
     "certification": "PG",
     "release_date": "2026-11-25",
     "date_kind": "release",
     "runtime": 103,
-    "providers": []
+    "providers": [],
+    "providers_wtw": []
   },
   "1765072": {
     "id": 1765072,
@@ -49374,7 +49374,7 @@ window.FA_PUBLISHED = {
     "vote_count": 0,
     "overview": "Nate Bargatze brings his dry wit and deadpan charm to overzealous parking sensors, the walking politics of marriage and an unhinged family group chat.",
     "industry": "world",
-    "popularity": 0.6143,
+    "popularity": 3.6848,
     "original_language": "en",
     "origin_country": [
       "US"
@@ -49419,7 +49419,7 @@ window.FA_PUBLISHED = {
     "vote_count": 0,
     "overview": "A quiet get-together among friends ends in a bloody massacre when one of them has the audacity to break a sacred rule of Argentine tradition: the yerba in the mate is never stirred. Never. Ever.",
     "industry": "world",
-    "popularity": 0.0684,
+    "popularity": 0.1018,
     "original_language": "es",
     "origin_country": [
       "AR"
@@ -49461,7 +49461,7 @@ window.FA_PUBLISHED = {
     "vote_count": 0,
     "overview": "Lucía, Juana, and Evaristo work in a city that functions like an open-air factory. Meanwhile, Sami and Claudio work aboard an Argentine space capsule. Following the recent arrival of new owners in the country, Lucía confronts this new order by painting counter-advertisements on city walls. At the same time, Sami tries to return to Earth by any means necessary, after being informed that no one will be coming to look for them.",
     "industry": "world",
-    "popularity": 0.188,
+    "popularity": 0.1623,
     "original_language": "es",
     "origin_country": [
       "AR"
@@ -49502,7 +49502,7 @@ window.FA_PUBLISHED = {
     "vote_count": 0,
     "overview": "",
     "industry": "world",
-    "popularity": 0.1087,
+    "popularity": 0.1136,
     "original_language": "fr",
     "origin_country": [
       "FR"
@@ -49539,7 +49539,7 @@ window.FA_PUBLISHED = {
     "vote_count": 0,
     "overview": "After being fired from his job, the conformist Aderbal loses all of his unemployment insurance to online betting sites. Devastated by his loss, he embarks on a journey of revenge, vowing to murder every influencer he encounters who promotes gambling websites. Meanwhile, a nuclear conflict between Brazil and the United States threatens all life on Earth.",
     "industry": "world",
-    "popularity": 0.516,
+    "popularity": 0.6249,
     "original_language": "pt",
     "origin_country": [
       "BR"
@@ -49582,7 +49582,7 @@ window.FA_PUBLISHED = {
     "vote_count": 0,
     "overview": "A mother who is a painter, haunted by the violence of her past, sees her reality begin to crumble after her son returns. As distorted memories and reality blur together, she sinks deeper into a psychological struggle against a trauma that refuses to let her go.",
     "industry": "world",
-    "popularity": 0.2026,
+    "popularity": 0.2196,
     "original_language": "fr",
     "origin_country": [
       "BE"
@@ -49623,7 +49623,7 @@ window.FA_PUBLISHED = {
     "vote_count": 0,
     "overview": "Jax is about to jump off a bridge onto the highway below when he unexpectedly runs into Joy, his childhood friend. Joy tries to calm him down and asks him to stay by his side wherever they go. This unexpected reunion brings them closer again as they spend the entire day together, slowly rekindling their bond.",
     "industry": "world",
-    "popularity": 0.1934,
+    "popularity": 0.2365,
     "original_language": "id",
     "origin_country": [
       "ID"
@@ -49659,13 +49659,13 @@ window.FA_PUBLISHED = {
     "id": 1802703,
     "type": "movie",
     "title": "Rob Lowe: The Outsider",
-    "poster_path": "/47xmeKxYTiKGQIwrKaPn6PSUIq5.jpg",
+    "poster_path": "/dydflxYhZ0UCS5gaz8iCKFcEAvE.jpg",
     "backdrop_path": "/2sT2NlSqz7J0vyyOYkuB2ejZpRT.jpg",
-    "vote_average": 0.0,
-    "vote_count": 0,
+    "vote_average": 7.0,
+    "vote_count": 1,
     "overview": "Traces Lowe's career from his breakout roles in “The Outsiders” and “St. Elmo’s Fire” to his Emmy-nominated performance on “The West Wing” and how he maintained his Hollywood career.",
     "industry": "world",
-    "popularity": 1.1897,
+    "popularity": 1.5715,
     "original_language": "en",
     "origin_country": [
       "US"
@@ -49693,7 +49693,7 @@ window.FA_PUBLISHED = {
     "spoken_languages": [
       "en"
     ],
-    "certification": "15",
+    "certification": "16",
     "release_date": "2026-11-24",
     "date_kind": "release",
     "runtime": 91,
@@ -49710,7 +49710,7 @@ window.FA_PUBLISHED = {
     "vote_count": 0,
     "overview": "One dark October evening, 25-year-old Liselotte gets into a car in Timrå. After that, all signs of life cease. Ten days later, she is found dead next to a cliff ledge.",
     "industry": "world",
-    "popularity": 0.5517,
+    "popularity": 0.4632,
     "original_language": "sv",
     "origin_country": [
       "SE"
@@ -49751,7 +49751,7 @@ window.FA_PUBLISHED = {
     "vote_count": 0,
     "overview": "A fictional boy aims to become a non-fictional rapper. His label has other plans.",
     "industry": "world",
-    "popularity": 0.1971,
+    "popularity": 0.4323,
     "original_language": "en",
     "origin_country": [
       "US"
@@ -51072,7 +51072,7 @@ window.FA_PUBLISHED = {
     "vote_count": 0,
     "overview": "",
     "industry": "world",
-    "popularity": 0.097,
+    "popularity": 0.2884,
     "original_language": "fr",
     "origin_country": [
       "FR"
@@ -51089,7 +51089,7 @@ window.FA_PUBLISHED = {
       "Documentary"
     ],
     "tagline": "",
-    "status": "Post Production",
+    "status": "Released",
     "production_countries": [
       "FR"
     ],
@@ -51212,7 +51212,7 @@ window.FA_PUBLISHED = {
     "vote_count": 0,
     "overview": "",
     "industry": "world",
-    "popularity": 0.0388,
+    "popularity": 0.4345,
     "original_language": "fr",
     "origin_country": [
       "FR"
@@ -51229,7 +51229,7 @@ window.FA_PUBLISHED = {
       "Music"
     ],
     "tagline": "",
-    "status": "Post Production",
+    "status": "Released",
     "production_countries": [
       "FR"
     ],
@@ -51295,7 +51295,7 @@ window.FA_PUBLISHED = {
     "vote_count": 0,
     "overview": "In a vast darkness, a girl tries to find her way using the only light she can find, one coveted by others.",
     "industry": "world",
-    "popularity": 0.0582,
+    "popularity": 0.1621,
     "original_language": "xx",
     "origin_country": [
       "BR"
@@ -51314,7 +51314,7 @@ window.FA_PUBLISHED = {
       "Fantasy"
     ],
     "tagline": "",
-    "status": "In Production",
+    "status": "Released",
     "production_countries": [],
     "spoken_languages": [
       "xx"
@@ -51379,7 +51379,7 @@ window.FA_PUBLISHED = {
     "vote_count": 0,
     "overview": "",
     "industry": "world",
-    "popularity": 0.0388,
+    "popularity": 0.387,
     "original_language": "ko",
     "origin_country": [
       "KR"
@@ -51396,7 +51396,7 @@ window.FA_PUBLISHED = {
       "Drama"
     ],
     "tagline": "",
-    "status": "Post Production",
+    "status": "Released",
     "production_countries": [
       "KR"
     ],
@@ -51415,12 +51415,12 @@ window.FA_PUBLISHED = {
     "type": "movie",
     "title": "Keevve?",
     "poster_path": "/5xlsgClwkZSNKCudH7Hbdi07rum.jpg",
-    "backdrop_path": null,
+    "backdrop_path": "/mjCaRiGYp5CYu4UbUO4JdEd3wi3.jpg",
     "vote_average": 0.0,
     "vote_count": 0,
     "overview": "When tragedy threatens to tear a family apart, love, sacrifice, and painful choices test the unbreakable bond between a mother and her children.",
     "industry": "world",
-    "popularity": 0.1046,
+    "popularity": 0.0955,
     "original_language": "dv",
     "origin_country": [
       "MV"
@@ -51435,7 +51435,7 @@ window.FA_PUBLISHED = {
     "revenue": 0,
     "genres": [],
     "tagline": "Why",
-    "status": "In Production",
+    "status": "Released",
     "production_countries": [],
     "spoken_languages": [
       "dv"
@@ -51450,14 +51450,14 @@ window.FA_PUBLISHED = {
   "1826075": {
     "id": 1826075,
     "type": "movie",
-    "title": "Le masque fantôme",
+    "title": "The ghost mask",
     "poster_path": "/pD1fA9uslUwh7sk6KyBsmuuThoX.jpg",
     "backdrop_path": null,
     "vote_average": 0.0,
     "vote_count": 0,
-    "overview": "",
+    "overview": "One evening, in a classroom, two friends are quietly working. Néo shows Lucas his Halloween mask. Later, while trying to scare his friend with his own mask, Lucas finds himself confronted with a strange transformation.",
     "industry": "world",
-    "popularity": 0.4003,
+    "popularity": 0.2561,
     "original_language": "fr",
     "origin_country": [
       "FR"
@@ -51475,8 +51475,8 @@ window.FA_PUBLISHED = {
       "Mystery",
       "Family"
     ],
-    "tagline": "",
-    "status": "Planned",
+    "tagline": "A Nightmare in the Making...",
+    "status": "Released",
     "production_countries": [
       "FR"
     ],
@@ -51486,7 +51486,7 @@ window.FA_PUBLISHED = {
     "certification": "TP",
     "release_date": "2026-11-25",
     "date_kind": "festival",
-    "runtime": 0,
+    "runtime": 3,
     "providers": [],
     "providers_wtw": []
   },
@@ -51500,7 +51500,7 @@ window.FA_PUBLISHED = {
     "vote_count": 0,
     "overview": "As dementia gradually erodes her memory, 60-year-old celebrated theater actor Maya struggles to separate reality from the roles she has performed on stage.",
     "industry": "bollywood",
-    "popularity": 0.2764,
+    "popularity": 0.218,
     "original_language": "ml",
     "origin_country": [
       "IN"
@@ -51517,7 +51517,7 @@ window.FA_PUBLISHED = {
       "Drama"
     ],
     "tagline": "",
-    "status": "Post Production",
+    "status": "Released",
     "production_countries": [
       "IN"
     ],
@@ -51541,7 +51541,7 @@ window.FA_PUBLISHED = {
     "vote_count": 0,
     "overview": "The three crew members of the Gorgonia squadron, aided by advanced AI technology, set out on a routine space mission aboard their ships, \"Cetus\" and \"Forcis\"—unaware that this journey will change their lives forever. Gorgonia is more than just a space mission; it is a voyage into the deepest fears of its crew.",
     "industry": "world",
-    "popularity": 0.2732,
+    "popularity": 0.1275,
     "original_language": "es",
     "origin_country": [
       "CL",
@@ -51557,7 +51557,7 @@ window.FA_PUBLISHED = {
     "revenue": 0,
     "genres": [],
     "tagline": "",
-    "status": "In Production",
+    "status": "Released",
     "production_countries": [
       "CL",
       "AR"
@@ -51582,7 +51582,7 @@ window.FA_PUBLISHED = {
     "vote_count": 0,
     "overview": "A drama with significant social impact that seeks to bring to light the invisible scars left by violence, and which is part of a nationwide awareness campaign.",
     "industry": "world",
-    "popularity": 0.1142,
+    "popularity": 0.0872,
     "original_language": "es",
     "origin_country": [
       "PE"
@@ -51599,7 +51599,7 @@ window.FA_PUBLISHED = {
       "Drama"
     ],
     "tagline": "",
-    "status": "In Production",
+    "status": "Released",
     "production_countries": [
       "PE"
     ],
@@ -51621,7 +51621,7 @@ window.FA_PUBLISHED = {
     "vote_count": 0,
     "overview": "Kicking off from a single interview with a fictional character, THE INTERVIEW began as a bit to see how much information AJ Shields could get his hands on. Over a year later, the project has spiraled out of control, sending its creator on a wild goose chase to discover just how far the line can be pushed.",
     "industry": "world",
-    "popularity": 0.1915,
+    "popularity": 0.1609,
     "original_language": "en",
     "origin_country": [
       "US"
@@ -51639,11 +51639,11 @@ window.FA_PUBLISHED = {
       "Mystery"
     ],
     "tagline": "Thank you for watching THE INTERVIEW.",
-    "status": "In Production",
+    "status": "Released",
     "production_countries": [],
     "spoken_languages": [],
     "certification": "NR",
-    "release_date": "2026-11-25",
+    "release_date": "2026-11-28",
     "date_kind": "release",
     "runtime": 90,
     "providers": [],
@@ -51659,7 +51659,7 @@ window.FA_PUBLISHED = {
     "vote_count": 0,
     "overview": "Sowan can stop time. The catch? Once time stands still, she's the only thing that moves. Not a single person, not even a leaf. Its only use? Gazing at her crush, unnoticed. Sowan, who freezes up in front of the goal, starts one-on-one lessons with her futsal coach, Wooseok.",
     "industry": "world",
-    "popularity": 0.3698,
+    "popularity": 0.2804,
     "original_language": "ko",
     "origin_country": [
       "KR"
@@ -51677,7 +51677,7 @@ window.FA_PUBLISHED = {
       "Fantasy"
     ],
     "tagline": "",
-    "status": "Post Production",
+    "status": "Released",
     "production_countries": [
       "KR"
     ],
@@ -51699,7 +51699,7 @@ window.FA_PUBLISHED = {
     "vote_count": 0,
     "overview": "To make a name for herself as the only female performer in the Marrakesh area, Hanane, a young woman from a modest Moroccan village, has raised her own troupe of female riders. The challenges are considerable since fantasia, a festive celebration of equestrian warfare, is a costly and traditionally male-exclusive activity. In the face of social injustices, clashes with her father, cultural pressures, Hanane fights day after day to make her dream come to life. With bulldozers threatening to tear down her village to build luxury suburbs, she knows she has no time to lose. If she wants to save her family and her horses, she needs to gain recognition. She sets upon taking her troupe to the most prestigious moussem in Morocco, where the best riders in the kingdom compete every year.",
     "industry": "world",
-    "popularity": 0.1594,
+    "popularity": 0.0764,
     "original_language": "fr",
     "origin_country": [
       "BE"
@@ -51716,7 +51716,7 @@ window.FA_PUBLISHED = {
       "Documentary"
     ],
     "tagline": "Show yourselves!",
-    "status": "Post Production",
+    "status": "Released",
     "production_countries": [
       "BE",
       "MA"
@@ -51741,7 +51741,7 @@ window.FA_PUBLISHED = {
     "vote_count": 0,
     "overview": "A former YouTube child creator revisits her time on the wildly popular Seven Awesome Kids network to reveal the rise and fall of the online community that brought its members fame - and its owner infamy.",
     "industry": "world",
-    "popularity": 0.7954,
+    "popularity": 0.4332,
     "original_language": "en",
     "origin_country": [
       "US"
@@ -51758,7 +51758,7 @@ window.FA_PUBLISHED = {
       "Documentary"
     ],
     "tagline": "",
-    "status": "Post Production",
+    "status": "Released",
     "production_countries": [
       "CA"
     ],
@@ -51782,7 +51782,7 @@ window.FA_PUBLISHED = {
     "vote_count": 0,
     "overview": "KIM Young-Chul runs a small liquor store on the outskirts of an American city. Before he dies, he dreams of returning to his hometown in Korea, but the money he has saved over a lifetime is not enough to buy a home in Seoul. Worse, he has lost contact with his son, Steve Kim. One day, Kim Chul-Gi, a church butler, approaches him. An undocumented immigrant, Chul-Gi secretly drives an illegal call taxi and takes on shady jobs for wealthy international students. Behind the scenes, he is planning a fraud involving stolen identities of Korean Americans and foreign students. Meanwhile, Kim Sun-Ho, who came to the United States to obtain a degree and permanent residency, crosses paths with Steve Kim, Young-Chul’s estranged son. Four men become entangled like a Möbius strip, each chasing a different version of the same promise. What does the “American Dream” truly mean for those who live outside it?",
     "industry": "world",
-    "popularity": 0.4696,
+    "popularity": 0.4883,
     "original_language": "ko",
     "origin_country": [
       "KR"
@@ -51823,7 +51823,7 @@ window.FA_PUBLISHED = {
     "vote_count": 0,
     "overview": "Quand Janet dort portrays Janet Lumb, a Chinese-Canadian artist who has lived in Montreal for many years. Fuelled by dreams and chaos, her artistic world takes shape through performance and musical composition. At 72, Janet is losing her memory. Her artistic and political legacy, along with the details of her life, are fading, though they remain deeply precious to her friend Laurence. To shake up her daily routine, create new memories and revive old ones, he spontaneously plans a trip to Ecuador. Through a polyphonic narrative moving between spoken and written voices, a memory that spans generations gradually emerges. Together, these voices invite reflection on belonging and what is passed down. Janet’s embodied presence, the archival materials documenting her impact and the tenderness with which she is portrayed celebrate the quiet strength of her work and activism.",
     "industry": "world",
-    "popularity": 0.2036,
+    "popularity": 0.0541,
     "original_language": "fr",
     "origin_country": [
       "CA"
@@ -51840,7 +51840,7 @@ window.FA_PUBLISHED = {
       "Documentary"
     ],
     "tagline": "",
-    "status": "In Production",
+    "status": "Released",
     "production_countries": [
       "CA"
     ],
@@ -51963,7 +51963,7 @@ window.FA_PUBLISHED = {
     "vote_count": 0,
     "overview": "Alexei, an elite war android modeled after the youthful image of an aging dictator, serves as commanding officer in a refugee district, leading the suppression of a rebellion. There, he encounters Michael, the last remaining Catholic priest, and awakens to faith—beginning a dangerous journey in search of redemption.",
     "industry": "world",
-    "popularity": 0.0808,
+    "popularity": 0.2401,
     "original_language": "ko",
     "origin_country": [
       "KR"
@@ -52006,7 +52006,7 @@ window.FA_PUBLISHED = {
     "vote_count": 0,
     "overview": "A film that centers on a young, lower-middle-class man named Anush. Living in tight, limited housing, Anush plans to keep things simple and spend his honeymoon right at home with his new wife. However, his plans completely unravel on his wedding day when his mother is unexpectedly forced to move into their tiny, single-bedroom apartment.",
     "industry": "world",
-    "popularity": 0.2958,
+    "popularity": 0.1039,
     "original_language": "en",
     "origin_country": [
       "LK"
@@ -52024,7 +52024,7 @@ window.FA_PUBLISHED = {
       "Comedy"
     ],
     "tagline": "",
-    "status": "Post Production",
+    "status": "Released",
     "production_countries": [
       "LK"
     ],
@@ -52048,7 +52048,7 @@ window.FA_PUBLISHED = {
     "vote_count": 0,
     "overview": "When Christmas-averse business executive Jen is reluctantly tasked with looking after her sister’s two kids, handsome neighbor Adam helps her navigate holiday disasters, rediscover family, and open her heart to an unexpected romance this holiday season.",
     "industry": "world",
-    "popularity": 2.8677,
+    "popularity": 1.7797,
     "original_language": "en",
     "origin_country": [
       "US"
@@ -52066,7 +52066,7 @@ window.FA_PUBLISHED = {
       "TV Movie"
     ],
     "tagline": "",
-    "status": "Post Production",
+    "status": "Released",
     "production_countries": [
       "US"
     ],
@@ -52104,7 +52104,7 @@ window.FA_PUBLISHED = {
     "vote_count": 0,
     "overview": "A double feature of The Gruffalo and The Gruffalo’s Child",
     "industry": "world",
-    "popularity": 0.442,
+    "popularity": 0.6305,
     "original_language": "en",
     "origin_country": [
       "GB"
@@ -52121,7 +52121,7 @@ window.FA_PUBLISHED = {
       "Animation"
     ],
     "tagline": "",
-    "status": "In Production",
+    "status": "Released",
     "production_countries": [
       "GB"
     ],
@@ -52145,10 +52145,11 @@ window.FA_PUBLISHED = {
     "vote_count": 0,
     "overview": "",
     "industry": "world",
-    "popularity": 0.3534,
+    "popularity": 0.7375,
     "original_language": "fr",
     "origin_country": [
-      "FR"
+      "FR",
+      "BE"
     ],
     "trailer": null,
     "categories": [
@@ -52162,7 +52163,7 @@ window.FA_PUBLISHED = {
       "Animation"
     ],
     "tagline": "",
-    "status": "In Production",
+    "status": "Released",
     "production_countries": [
       "FR",
       "BE"
@@ -52212,7 +52213,7 @@ window.FA_PUBLISHED = {
     "vote_count": 0,
     "overview": "The epic conclusion to the Shane saga arrives. When Marcus Wiley gains the powers of the Red Room and escapes from prison, it's up to Shane to stop his father- once and for all.",
     "industry": "world",
-    "popularity": 0.054,
+    "popularity": 0.0653,
     "original_language": "en",
     "origin_country": [
       "US"
@@ -52231,7 +52232,7 @@ window.FA_PUBLISHED = {
       "Science Fiction"
     ],
     "tagline": "The Bells Toll... One Final Time",
-    "status": "Post Production",
+    "status": "Released",
     "production_countries": [],
     "spoken_languages": [
       "en"
@@ -52253,7 +52254,7 @@ window.FA_PUBLISHED = {
     "vote_count": 0,
     "overview": "",
     "industry": "world",
-    "popularity": 0.0389,
+    "popularity": 0.0513,
     "original_language": "fr",
     "origin_country": [
       "FR"
@@ -52271,7 +52272,7 @@ window.FA_PUBLISHED = {
       "Thriller"
     ],
     "tagline": "",
-    "status": "In Production",
+    "status": "Released",
     "production_countries": [
       "FR"
     ],
@@ -52293,7 +52294,7 @@ window.FA_PUBLISHED = {
     "vote_count": 0,
     "overview": "On the brink of turning 18 and terrified of adult responsibilities, a teenager finds a pair of glasses that transports him back to the \"safe haven\" of 2016. But when the portal begins to collapse, a frantic race against time begins, leaving him with only two choices: remain trapped in his memories forever, or take on the biggest responsibility of all—growing up to save his life.",
     "industry": "world",
-    "popularity": 0.0961,
+    "popularity": 0.0784,
     "original_language": "es",
     "origin_country": [
       "MX"
@@ -52311,7 +52312,7 @@ window.FA_PUBLISHED = {
       "Comedy"
     ],
     "tagline": "2026=2016",
-    "status": "In Production",
+    "status": "Released",
     "production_countries": [],
     "spoken_languages": [],
     "certification": "",
@@ -52331,7 +52332,7 @@ window.FA_PUBLISHED = {
     "vote_count": 0,
     "overview": "Stitch is tasked with looking after Scratch, a cat Lilo has found, but Scratch has more similarities with Stitch than meets the eye.",
     "industry": "world",
-    "popularity": 3.1138,
+    "popularity": 9.2586,
     "original_language": "en",
     "origin_country": [
       "US"
@@ -52375,7 +52376,7 @@ window.FA_PUBLISHED = {
     "vote_count": 0,
     "overview": "Storage rooms advertised as apartments, unexplained skin rashes, endless spreadsheets and dates that go horrifically wrong.  María is surviving, barely, the ordeal of flat-hunting in a big city while clocking in every day at a job that bores her to death. Her life is a parade of small disasters. But somewhere between the absurdity, María is discovering who she really is. And across the city, so is everyone else; the hard way.",
     "industry": "world",
-    "popularity": 0.5227,
+    "popularity": 0.3301,
     "original_language": "es",
     "origin_country": [
       "ES"
@@ -52394,7 +52395,7 @@ window.FA_PUBLISHED = {
       "Horror"
     ],
     "tagline": "María is just trying to find a flat and keep a job. The city grinds her down. Until it doesn't anymore.",
-    "status": "In Production",
+    "status": "Released",
     "production_countries": [],
     "spoken_languages": [],
     "certification": "",
@@ -52414,7 +52415,7 @@ window.FA_PUBLISHED = {
     "vote_count": 0,
     "overview": "This is the story of a filmmaker. Alain Cavalier, always accompanied by his camera, continues to film life with passion, still learning about himself and, above all, about others. However, he is growing older and sees his speed, his vitality, his boldness, and his lightheartedness waning. With a slight lump in his throat but still laughing, he keeps a video diary of his farewell to cinema. This will be his last film.",
     "industry": "world",
-    "popularity": 0.7483,
+    "popularity": 0.7975,
     "original_language": "fr",
     "origin_country": [
       "FR"
@@ -52455,7 +52456,7 @@ window.FA_PUBLISHED = {
     "vote_count": 0,
     "overview": "Bangui, Central African Republic. 17 year-old Robert dreams of a career in music, but civil war is tearing the country apart. When both his parents are thrown into prison, he is left to look after his four younger siblings on his own, juggling daily life, odd jobs, school exams and concert stages, determined to follow his dream.",
     "industry": "world",
-    "popularity": 1.3838,
+    "popularity": 1.3193,
     "original_language": "sg",
     "origin_country": [
       "CD",
@@ -52508,7 +52509,7 @@ window.FA_PUBLISHED = {
     "vote_count": 0,
     "overview": "In the dormant rooms of a family home, a man reads his father's journal then summons his spirit",
     "industry": "world",
-    "popularity": 0.101,
+    "popularity": 0.1717,
     "original_language": "ar",
     "origin_country": [
       "JO"
@@ -52525,7 +52526,7 @@ window.FA_PUBLISHED = {
       "Documentary"
     ],
     "tagline": "",
-    "status": "Post Production",
+    "status": "Released",
     "production_countries": [
       "JO"
     ],
@@ -52549,7 +52550,7 @@ window.FA_PUBLISHED = {
     "vote_count": 0,
     "overview": "Do-ah initiates a lawsuit against her husband's uncle who takes away a piece of land that her husband's grandfather left them. Do-ah decides to initiate the lawsuit, unable to stand by when the land and medicine business that her family has worked so hard to realize is stolen before her eyes. But she has no material evidence, and she knows nothing about legal procedures or what to do in court, leading to an extremely difficult situation for her. However in the midst of these troubles, she is reminded of the mysterious and rare treasure that can be used to solve any situation and to locate the expansive at land inside of her which she used to know.",
     "industry": "world",
-    "popularity": 0.7157,
+    "popularity": 0.437,
     "original_language": "ko",
     "origin_country": [
       "KR"
@@ -52591,7 +52592,7 @@ window.FA_PUBLISHED = {
     "vote_count": 0,
     "overview": "An 18-year-old North Korean defector, Lee Sun-hwa, crosses the Duman River, traversing the thin boundary between life and death, and arrives in South Korea. Upon completing her resettlement program at Hanawon, she is placed in a public housing unit in Nowon, Seoul. Yet, life in the South feels like an uncharted world. Choosing to enroll in a South Korean high school rather than extend her stay at Hanawon, she soon finds herself struggling—both academically and culturally. Her only wish is to reunite with her family.",
     "industry": "world",
-    "popularity": 0.2236,
+    "popularity": 0.2226,
     "original_language": "ko",
     "origin_country": [
       "KR"
@@ -52632,7 +52633,7 @@ window.FA_PUBLISHED = {
     "vote_count": 0,
     "overview": "A great tragedy occurs during the filming of a movie. In an unexpected twist, the renowned Detective Bones takes on the case, as he can sniff out that something isn’t right.",
     "industry": "world",
-    "popularity": 0.8944,
+    "popularity": 0.8491,
     "original_language": "pt",
     "origin_country": [
       "BR"
@@ -52674,7 +52675,7 @@ window.FA_PUBLISHED = {
     "vote_count": 0,
     "overview": "Against the coastal backdrop of Oslob, Cebu, a young woman drifts from place to place, carrying an unresolved anger from the loss of her father at a young age, until her path crosses with a lonely ex-criminal, also haunted by shadows from the past.",
     "industry": "world",
-    "popularity": 0.3597,
+    "popularity": 0.8297,
     "original_language": "tl",
     "origin_country": [
       "PH"
@@ -52691,7 +52692,7 @@ window.FA_PUBLISHED = {
       "Drama"
     ],
     "tagline": "Can something beautiful grow out of a dark and ugly past?",
-    "status": "Planned",
+    "status": "Released",
     "production_countries": [
       "PH"
     ],
@@ -52701,7 +52702,7 @@ window.FA_PUBLISHED = {
     "certification": "",
     "release_date": "2026-11-25",
     "date_kind": "release",
-    "runtime": 0,
+    "runtime": 112,
     "providers": [],
     "providers_wtw": []
   },
@@ -56509,12 +56510,12 @@ window.FA_PUBLISHED = {
     "type": "movie",
     "title": "Focker In-Law",
     "poster_path": "/iHJhSfqFpDMOyeMc6h6BOeHxse2.jpg",
-    "backdrop_path": "/1zcCFBcqEQtAtXDh6EoBPy16RLR.jpg",
-    "vote_average": 7.0,
-    "vote_count": 2,
-    "overview": "Henry, son of Greg and Pam Focker, aims to marry Olivia, a strong-willed former hostage negotiator who appears to be his complete mismatch. To Greg's shock, stepdad Jack Byrnes takes a liking to Olivia, and her unprecedented rise into his Circle of Trust sparks chaos in the family before Jack's 80th birthday party.",
+    "backdrop_path": "/nubnNXuMArUhiDW1nUevGsG65x9.jpg",
+    "vote_average": 7.6,
+    "vote_count": 5,
+    "overview": "Henry, son of Greg and Pam Focker, aims to marry Olivia, a strong-willed former hostage negotiator who appears to be his complete mismatch. To Greg's shock, father-in-law Jack Byrnes takes a liking to Olivia, and her unprecedented rise into his Circle of Trust sparks chaos in the family before Jack's 80th birthday party.",
     "industry": "world",
-    "popularity": 38.8212,
+    "popularity": 48.7467,
     "original_language": "en",
     "origin_country": [
       "US"
@@ -56529,7 +56530,7 @@ window.FA_PUBLISHED = {
     ],
     "published_at": "2026-11-21",
     "source": "tmdb",
-    "budget": 0,
+    "budget": 40000000,
     "revenue": 0,
     "genres": [
       "Comedy",
@@ -64084,6 +64085,812 @@ window.FA_PUBLISHED = {
     "release_date": "2026-11-20",
     "date_kind": "release",
     "runtime": 160,
+    "providers": [],
+    "providers_wtw": []
+  },
+  "1755816": {
+    "id": 1755816,
+    "type": "movie",
+    "title": "Delhi 2021",
+    "poster_path": "/lSZs3yqsBqNacZaXVbv5CE6KVov.jpg",
+    "backdrop_path": "/so2Prb7YksZPjt9FFqYgogmJ8oP.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "The second wave of the deadly coronavirus pandemic is raging in the Delhi NCR region. In the midst of this horror, the lives of disparate individuals intertwine, revealing the intricate web of humanity's struggle and strength.",
+    "industry": "bollywood",
+    "popularity": 1.2701,
+    "original_language": "hi",
+    "origin_country": [
+      "IN"
+    ],
+    "trailer": {
+      "key": "snDGyTHGXY4",
+      "name": "Delhi 2021 | Official Trailer | Richa Chadda | Sumeet Vyas | Premieres on 25th Nov |Free 5 on Zee 5",
+      "site": "YouTube"
+    },
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-25",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Drama"
+    ],
+    "tagline": "",
+    "status": "Released",
+    "production_countries": [
+      "IN"
+    ],
+    "spoken_languages": [
+      "hi"
+    ],
+    "certification": "U/A 16+",
+    "release_date": "2026-11-25",
+    "date_kind": "release",
+    "runtime": 117,
+    "providers": [],
+    "providers_wtw": []
+  },
+  "1842226": {
+    "id": 1842226,
+    "type": "movie",
+    "title": "Banaras",
+    "poster_path": "/qjpdx2nAccZ8283hF0FsiCDgtBp.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "Torn apart by patriarchy and a musical legacy's inheritance, a family seeks answers along the Ganges. At the Maha Kumbh Mela, humanity's greatest gathering, the river's eternal, sacred spirit—alive in every note—ends their search.",
+    "industry": "bollywood",
+    "popularity": 0.1747,
+    "original_language": "hi",
+    "origin_country": [
+      "IN"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-25",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Drama"
+    ],
+    "tagline": "The Search within",
+    "status": "Released",
+    "production_countries": [
+      "US",
+      "IN"
+    ],
+    "spoken_languages": [
+      "hi"
+    ],
+    "certification": "",
+    "release_date": "2026-11-22",
+    "date_kind": "festival",
+    "runtime": 100,
+    "providers": [],
+    "providers_wtw": []
+  },
+  "1461490": {
+    "id": 1461490,
+    "type": "movie",
+    "title": "Hershey",
+    "poster_path": "/ojd8Gu2bPsOzdMz6Ip5AYDu4Vki.jpg",
+    "backdrop_path": "/mFAalGTR6PBJPPNbjVklMJ6OhSB.jpg",
+    "vote_average": 8.75,
+    "vote_count": 4,
+    "overview": "Based on the life of Milton Hershey, founder of the iconic Hershey chocolate company. Milton's grit and determination to conquer the world of candy-making propel him from bankruptcy to monumental success, and the love of his life, Kitty, helps him build a legacy sweeter than any candy bar. But when Kitty falls ill, Milton’s wild optimism teeters on the edge of destruction, and she sparks an even bolder dream: to leave their fortune in the hands of America’s children in need.",
+    "industry": "world",
+    "popularity": 14.7904,
+    "original_language": "en",
+    "origin_country": [
+      "US"
+    ],
+    "trailer": {
+      "key": "NsHJw58wWRg",
+      "name": "Final Trailer",
+      "site": "YouTube"
+    },
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-25",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Drama",
+      "History",
+      "Romance"
+    ],
+    "tagline": "The true story of an American dreamer.",
+    "status": "Released",
+    "production_countries": [
+      "US"
+    ],
+    "spoken_languages": [
+      "en"
+    ],
+    "certification": "PG",
+    "release_date": "2026-11-25",
+    "date_kind": "release",
+    "runtime": 110,
+    "providers": [],
+    "providers_wtw": []
+  },
+  "1841672": {
+    "id": 1841672,
+    "type": "movie",
+    "title": "Dream Stealer",
+    "poster_path": "/vEgM4wfyZ29kFAVcou6Oa9Ke3GK.jpg",
+    "backdrop_path": "/uIVAXRdJ4bVfyC2GWqjdVDenM49.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "The story unfolds in a city where the citizens are legally required to dream and sell their dreams to the government. To prevent dissent, the government sprays sleeping gas throughout the city. Upon waking, citizens vomit their dream into plastic bags, and Dream Officers pay them according to the quality of each dream. In this city, lives Sigit, a man who has lost the ability to dream after experiencing a terrible and extremely dangerous dream, one he cannot sell to the regime. To survive, he is forced to steal other people’s dreams.",
+    "industry": "world",
+    "popularity": 0.097,
+    "original_language": "id",
+    "origin_country": [
+      "ID"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-25",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Drama"
+    ],
+    "tagline": "",
+    "status": "In Production",
+    "production_countries": [
+      "ID"
+    ],
+    "spoken_languages": [
+      "id"
+    ],
+    "certification": "13+",
+    "release_date": "2026-12-02",
+    "date_kind": "festival",
+    "runtime": 24,
+    "providers": [],
+    "providers_wtw": []
+  },
+  "1519016": {
+    "id": 1519016,
+    "type": "movie",
+    "title": "Forty Love",
+    "poster_path": "/fjhoTatns4b82HHUqB4duq3iy1b.jpg",
+    "backdrop_path": "/ZeCiKhDGPuUmhxIfPlHl9iuDmu.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "Sacha Gallo, a tennis prodigy, has been training with his father to win a major trophy in Paris. But the arrival of a charismatic new rival challenges everything Sacha thought he understood about competition, ambition, and himself.",
+    "industry": "world",
+    "popularity": 2.9735,
+    "original_language": "fr",
+    "origin_country": [
+      "FR"
+    ],
+    "trailer": {
+      "key": "sxb2r0nFW6w",
+      "name": "Official Trailer [Subtitled]",
+      "site": "YouTube"
+    },
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-25",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Drama",
+      "Romance",
+      "Thriller"
+    ],
+    "tagline": "",
+    "status": "Released",
+    "production_countries": [
+      "FR"
+    ],
+    "spoken_languages": [
+      "fr",
+      "en"
+    ],
+    "certification": "",
+    "release_date": "2026-11-25",
+    "date_kind": "release",
+    "runtime": 94,
+    "providers": [],
+    "providers_wtw": []
+  },
+  "1840639": {
+    "id": 1840639,
+    "type": "movie",
+    "title": "Le marquis de Sade ou les malheurs de Justine",
+    "poster_path": "/g4VOcimySe73XndUwkzrkyx4zMm.jpg",
+    "backdrop_path": "/uU5vpF2WQkDaDyJ20fxHDWDlxq7.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "",
+    "industry": "world",
+    "popularity": 0.3171,
+    "original_language": "fr",
+    "origin_country": [
+      "FR"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-25",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Documentary"
+    ],
+    "tagline": "",
+    "status": "In Production",
+    "production_countries": [
+      "FR"
+    ],
+    "spoken_languages": [
+      "fr",
+      "en"
+    ],
+    "certification": "TP",
+    "release_date": "2026-12-02",
+    "date_kind": "release",
+    "runtime": 0,
+    "providers": [],
+    "providers_wtw": []
+  },
+  "1317410": {
+    "id": 1317410,
+    "type": "movie",
+    "title": "Tristes Tropiques",
+    "poster_path": "/AjcHhagb6OVMgWoSi9GgUY9IvB0.jpg",
+    "backdrop_path": "/19zqLF8PKpVuhCs1CZmvzLfyZqQ.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "A group of young assassins, trained by the rainforest's absolute ruler known as 'Master' and affiliated with the organization 'Tristes Tropiques,' struggle with mutual distrust as they vow to exact bloody revenge.",
+    "industry": "world",
+    "popularity": 2.8058,
+    "original_language": "ko",
+    "origin_country": [
+      "KR"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-25",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Action",
+      "Thriller",
+      "Crime"
+    ],
+    "tagline": "Young assassins trained by a master in the rainforest seek bloody revenge amidst mutual distrust.",
+    "status": "Released",
+    "production_countries": [
+      "KR"
+    ],
+    "spoken_languages": [
+      "ko",
+      "en",
+      "zh",
+      "ja",
+      "th"
+    ],
+    "certification": "16",
+    "release_date": "2026-11-25",
+    "date_kind": "release",
+    "runtime": 108,
+    "providers": [],
+    "providers_wtw": []
+  },
+  "1839282": {
+    "id": 1839282,
+    "type": "movie",
+    "title": "At the break of September",
+    "poster_path": "/jJbwEl554z4GmXypTzwGUFmqng2.jpg",
+    "backdrop_path": "/6HbB0W2JlBlkO3Y9FiqqhMJ9g7F.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "September has set in in a little village of Northern Greece. As the new school year is about to begin, Sofia has to say goodbye to her best friend, who moves to Thessaloniki, and to deal with the responsibilities towards her demanding mother and her ill father.",
+    "industry": "world",
+    "popularity": 0.2084,
+    "original_language": "el",
+    "origin_country": [
+      "GR"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-25",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Drama"
+    ],
+    "tagline": "",
+    "status": "Released",
+    "production_countries": [
+      "GR"
+    ],
+    "spoken_languages": [
+      "el"
+    ],
+    "certification": "",
+    "release_date": "2026-12-02",
+    "date_kind": "release",
+    "runtime": 15,
+    "providers": [],
+    "providers_wtw": []
+  },
+  "1430815": {
+    "id": 1430815,
+    "type": "movie",
+    "title": "A Good Little Soldier",
+    "poster_path": "/8f44DSQtdo5VBZWLrAuJt4Sp5us.jpg",
+    "backdrop_path": "/4NNWt9lFG3VY6SnsttrT9Cph9Fm.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "Follows Carla, a 43-year-old high-performing executive newly recruited as HR manager of a major insurer, tasked with rebuilding its brand in a corporate environment where vulnerability is not an asset.",
+    "industry": "world",
+    "popularity": 1.5793,
+    "original_language": "fr",
+    "origin_country": [
+      "FR"
+    ],
+    "trailer": {
+      "key": "hOFq7J4fmhY",
+      "name": "Official Trailer",
+      "site": "YouTube"
+    },
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-25",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Drama"
+    ],
+    "tagline": "",
+    "status": "Released",
+    "production_countries": [
+      "FR"
+    ],
+    "spoken_languages": [
+      "fr"
+    ],
+    "certification": "15",
+    "release_date": "2026-11-25",
+    "date_kind": "release",
+    "runtime": 102,
+    "providers": [],
+    "providers_wtw": []
+  },
+  "1836550": {
+    "id": 1836550,
+    "type": "movie",
+    "title": "Das Kaff zur guten Hoffnung - Geschichten aus Burgdorf",
+    "poster_path": "/ydA6kG42Rsq0Baa86aQX6XC5rZ4.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "",
+    "industry": "world",
+    "popularity": 0.1776,
+    "original_language": "de",
+    "origin_country": [
+      "CH"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-25",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Documentary"
+    ],
+    "tagline": "",
+    "status": "In Production",
+    "production_countries": [],
+    "spoken_languages": [],
+    "certification": "",
+    "release_date": "2026-12-02",
+    "date_kind": "release",
+    "runtime": 0,
+    "providers": [],
+    "providers_wtw": []
+  },
+  "1306291": {
+    "id": 1306291,
+    "type": "movie",
+    "title": "Love Lessons",
+    "poster_path": "/pAXDKVr5qErSlyv9WB3lJ8cdPip.jpg",
+    "backdrop_path": "/1WVVqnO9Zz7S4T87Ly5at3WHiC.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "On the eve of retirement, Émile delivers one final lesson about love and literature, urging his students to become the poets of their own lives. But is he still in love himself? Unable to answer, he returns home only to discover that his wife has left him. Émile must now live by the very words he’s been preaching, and thanks to unexpected encounters his life is turned upside down, helping him to reinvent himself.",
+    "industry": "world",
+    "popularity": 2.0851,
+    "original_language": "fr",
+    "origin_country": [
+      "FR",
+      "BE"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-25",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Comedy"
+    ],
+    "tagline": "",
+    "status": "Released",
+    "production_countries": [
+      "FR"
+    ],
+    "spoken_languages": [
+      "fr"
+    ],
+    "certification": "12+",
+    "release_date": "2026-11-25",
+    "date_kind": "release",
+    "runtime": 114,
+    "providers": [],
+    "providers_wtw": []
+  },
+  "1829311": {
+    "id": 1829311,
+    "type": "movie",
+    "title": "Performances e narrativas negras em movimento",
+    "poster_path": "/i5coSrxMHMXcqrU3mxWaZCraEnq.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "",
+    "industry": "world",
+    "popularity": 0.1265,
+    "original_language": "pt",
+    "origin_country": [
+      "BR"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-25",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Documentary"
+    ],
+    "tagline": "",
+    "status": "In Production",
+    "production_countries": [],
+    "spoken_languages": [],
+    "certification": "L",
+    "release_date": "2026-12-02",
+    "date_kind": "festival",
+    "runtime": 0,
+    "providers": [],
+    "providers_wtw": []
+  },
+  "1825530": {
+    "id": 1825530,
+    "type": "movie",
+    "title": "The New Messiah, Who Found His Own Truth",
+    "poster_path": "/bdvUyWA0FdAjWFIqMUFTDB3nQSt.jpg",
+    "backdrop_path": "/q2zr5HCaPxPm40EWOaHmP8oNY3k.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "30 years ago, a child was born of a virgin woman and drew followers who believed he was the new messiah from the moment of his birth. But twenty-six years later, on her deathbed, his mother revealed a painful truth: he is not divine, but instead a bastard born of a hidden affair.",
+    "industry": "world",
+    "popularity": 0.6382,
+    "original_language": "id",
+    "origin_country": [
+      "ID"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-25",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Drama"
+    ],
+    "tagline": "",
+    "status": "Post Production",
+    "production_countries": [
+      "ID",
+      "IE"
+    ],
+    "spoken_languages": [
+      "id"
+    ],
+    "certification": "17+",
+    "release_date": "2026-12-02",
+    "date_kind": "festival",
+    "runtime": 22,
+    "providers": [],
+    "providers_wtw": []
+  },
+  "1823503": {
+    "id": 1823503,
+    "type": "movie",
+    "title": "World War II: Behind Enemy Lines",
+    "poster_path": "/o83uNkmq9UpEthGUepWMFr0f5JG.jpg",
+    "backdrop_path": "/xpFj8wggj7cZn1dglVd7iQm27Xd.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "Witness one US Army unit's battles, bravery and covert missions from D-Day to V-E Day in never-before-seen restored footage and rare firsthand accounts.",
+    "industry": "world",
+    "popularity": 0.7197,
+    "original_language": "en",
+    "origin_country": [
+      "US"
+    ],
+    "trailer": {
+      "key": "7eqt8zY3D0Y",
+      "name": "World War II: Behind Enemy Lines - Trailer",
+      "site": "YouTube"
+    },
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-25",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Documentary",
+      "War"
+    ],
+    "tagline": "",
+    "status": "In Production",
+    "production_countries": [],
+    "spoken_languages": [
+      "en"
+    ],
+    "certification": "15",
+    "release_date": "2026-12-02",
+    "date_kind": "release",
+    "runtime": 0,
+    "providers": [],
+    "providers_wtw": []
+  },
+  "1823183": {
+    "id": 1823183,
+    "type": "movie",
+    "title": "The Quest for Sisyphus",
+    "poster_path": "/h9zpTwlQpPeigdSQY2CQYTOXJ6d.jpg",
+    "backdrop_path": "/rBVWDbeAPIexb45kbNwh2mMmvyh.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "How can someone live in the same place for more than ten years without ever leaving? Hidden inside a Baghdad hospital, a group of migrant workers endures a life suspended between confinement and freedom, as years of waiting turn everyday survival into an existential struggle.",
+    "industry": "world",
+    "popularity": 0.0709,
+    "original_language": "ar",
+    "origin_country": [
+      "IQ"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-25",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Documentary"
+    ],
+    "tagline": "",
+    "status": "Post Production",
+    "production_countries": [
+      "IQ"
+    ],
+    "spoken_languages": [
+      "ar",
+      "bn"
+    ],
+    "certification": "13+",
+    "release_date": "2026-12-02",
+    "date_kind": "festival",
+    "runtime": 30,
+    "providers": [],
+    "providers_wtw": []
+  },
+  "1823178": {
+    "id": 1823178,
+    "type": "movie",
+    "title": "The Gentle Fall",
+    "poster_path": "/AajBOBrauenmPrD7Nrv8mp8o2zU.jpg",
+    "backdrop_path": "/gmM1fKYWp5reDUpPkKLKw6sRAAz.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "Kaikai lives with her grandma, a practitioner of traditional Chinese medicine. As urbanization accelerates and medical regulations tighten, Kaikai’s father urges them to move to the city. Torn between their deep attachment to home, the dependence of their neighbors, and an uncertain future, her grandma decides to pass down the wisdom of “inner vitality” and traditional medicine, preserving both a family legacy and their cultural roots.",
+    "industry": "world",
+    "popularity": 0.1092,
+    "original_language": "zh",
+    "origin_country": [
+      "CN"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-25",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Drama"
+    ],
+    "tagline": "This is the way the world ends not with a bang but a whimper.",
+    "status": "Post Production",
+    "production_countries": [
+      "CN"
+    ],
+    "spoken_languages": [
+      "zh"
+    ],
+    "certification": "SU",
+    "release_date": "2026-12-02",
+    "date_kind": "festival",
+    "runtime": 13,
+    "providers": [],
+    "providers_wtw": []
+  },
+  "1823168": {
+    "id": 1823168,
+    "type": "movie",
+    "title": "Save My Voice",
+    "poster_path": "/mGgFrRd0SYpYIwNaPFlKIS0xwAI.jpg",
+    "backdrop_path": "/mf2OxzRYc3LvuMgMbvi4sGvFaVp.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "Daham and Junhee work as voice actors. From the day Daham takes over Junhee’s role, their world changes.",
+    "industry": "world",
+    "popularity": 0.0809,
+    "original_language": "ko",
+    "origin_country": [
+      "KR"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-25",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Drama"
+    ],
+    "tagline": "",
+    "status": "Post Production",
+    "production_countries": [
+      "KR"
+    ],
+    "spoken_languages": [
+      "ko"
+    ],
+    "certification": "17+",
+    "release_date": "2026-12-02",
+    "date_kind": "festival",
+    "runtime": 17,
+    "providers": [],
+    "providers_wtw": []
+  },
+  "1821061": {
+    "id": 1821061,
+    "type": "movie",
+    "title": "Aisha, On the Day She Blooms",
+    "poster_path": "/bnEZ432O0Kub9ZqxkCnJPQVxCuK.jpg",
+    "backdrop_path": "/vnC5IygbSgoJdfpiiE5fg7bROtV.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "On the verge of her Ratoh Jaroe dance debut, a passionate female student's dream to perform is jeopardized when she must prove her irregular period is real after being accused of lying during a school-mandated menstruation raid.",
+    "industry": "world",
+    "popularity": 0.3051,
+    "original_language": "id",
+    "origin_country": [
+      "ID"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-25",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Drama"
+    ],
+    "tagline": "",
+    "status": "Post Production",
+    "production_countries": [
+      "ID"
+    ],
+    "spoken_languages": [
+      "id"
+    ],
+    "certification": "13+",
+    "release_date": "2026-12-02",
+    "date_kind": "festival",
+    "runtime": 14,
+    "providers": [],
+    "providers_wtw": []
+  },
+  "1820380": {
+    "id": 1820380,
+    "type": "movie",
+    "title": "ANIKI",
+    "poster_path": "/cnp7XRfJNqAX0amX7CeaNiRrxvU.jpg",
+    "backdrop_path": "/uEkEpscXh5uzR7zBy61tRTsoiOy.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "In winter, Atsushi, a yakuza, travels to a depopulated port town to find his missing sworn brother, Koga. He arrives at the ruins of a seaside mansion, only to unexpectedly encounter Anna, a woman he once cared for who, like Koga, has fallen into severe drug addiction. Bound to this abandoned estate and a silent, doomed harbor, the three begin to lose themselves in time—playing together as if they have regressed to childhood.",
+    "industry": "world",
+    "popularity": 0.1327,
+    "original_language": "ja",
+    "origin_country": [
+      "JP"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-25",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Drama"
+    ],
+    "tagline": "",
+    "status": "Post Production",
+    "production_countries": [
+      "JP"
+    ],
+    "spoken_languages": [
+      "ja"
+    ],
+    "certification": "17+",
+    "release_date": "2026-12-02",
+    "date_kind": "festival",
+    "runtime": 26,
     "providers": [],
     "providers_wtw": []
   }

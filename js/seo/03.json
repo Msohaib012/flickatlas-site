@@ -1,6 +1,6 @@
 {
  "bucket": "03",
- "count": 87,
+ "count": 88,
  "titles": {
   "movie:103": {
    "d": "Taxi Driver (1976): Crime/Drama film. Story: Suffering from insomnia, disturbed loner Travis… See cast, budget $1.9M, and TMDB rating 8.1/10.",
@@ -1628,7 +1628,7 @@
    "year": "2026"
   },
   "movie:1802703": {
-   "d": "Rob Lowe: The Outsider (2026): Documentary film. Story: Traces Lowe's career from his breakout roles in “The… See cast and release date 24 November 2026.",
+   "d": "Rob Lowe: The Outsider (2026): Documentary film. Story: Traces Lowe's career from his breakout roles in “The… See cast and TMDB rating 7.0/10.",
    "img": "https://image.tmdb.org/t/p/w780/2sT2NlSqz7J0vyyOYkuB2ejZpRT.jpg",
    "industry": "world",
    "k": "Rob Lowe: The Outsider, Rob Lowe: The Outsider movie, Rob Lowe: The Outsider cast, Rob Lowe: The Outsider story, Rob Lowe: The Outsider box office collection, Rob Lowe: The Outsider budget, Rob Lowe: The Outsider review, Rob Lowe: The Outsider rating, Rob Lowe: The Outsider release date, Rob Lowe: The Outsider trailer, Rob Lowe: The Outsider Documentary, international movies, FlickAtlas",
@@ -1641,7 +1641,14 @@
       "name": "Rob Lowe"
      }
     ],
-    "description": "Rob Lowe: The Outsider (2026): Documentary film. Story: Traces Lowe's career from his breakout roles in “The… See cast and release date 24 November 2026.",
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 1,
+     "ratingValue": 7.0,
+     "worstRating": 0
+    },
+    "description": "Rob Lowe: The Outsider (2026): Documentary film. Story: Traces Lowe's career from his breakout roles in “The… See cast and TMDB rating 7.0/10.",
     "director": [
      {
       "@type": "Person",
@@ -1663,8 +1670,7 @@
    },
    "modified": "",
    "published": "2026-11-17",
-   "robots": "noindex,follow",
-   "ssr": "<article class=\"ssr-facts\">\n<h1>Rob Lowe: The Outsider (2026)</h1>\n<p class=\"ssr-lead\">Traces Lowe&#x27;s career from his breakout roles in “The Outsiders” and “St. Elmo’s Fire” to his Emmy-nominated performance on “The West Wing” and how he maintained his Hollywood career.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 24 November 2026</li><li>Runtime: 91 minutes</li><li>Director: Chris Smith</li><li>Genres: Documentary</li><li>Certification: 15</li><li>Original language: English</li><li>Spoken languages: English</li><li>Production countries: United States</li><li>Official trailer: Official Trailer</li></ul>\n<h2>Top cast</h2>\n<ul><li>Rob Lowe as Self</li></ul>\n</article>",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Rob Lowe: The Outsider (2026)</h1>\n<p class=\"ssr-lead\">Traces Lowe&#x27;s career from his breakout roles in “The Outsiders” and “St. Elmo’s Fire” to his Emmy-nominated performance on “The West Wing” and how he maintained his Hollywood career.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 24 November 2026</li><li>Runtime: 91 minutes</li><li>Director: Chris Smith</li><li>Genres: Documentary</li><li>Certification: 16</li><li>Original language: English</li><li>Spoken languages: English</li><li>Production countries: United States</li><li>Official trailer: Official Trailer</li><li>TMDB rating: 7.0/10 (1 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Rob Lowe as Self</li></ul>\n</article>",
    "t": "Rob Lowe: The Outsider (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2026"
   },
@@ -1865,6 +1871,47 @@
    "robots": "noindex,follow",
    "ssr": "<article class=\"ssr-facts\">\n<h1>Kashti Paar (2026)</h1>\n<p class=\"ssr-lead\">A silent folk-horror parable from the Indian coast. When a fight for a place on a fishing boat turns to blood, young Shreyas loses the man who raised him and is left alone on a sea that remembers every death. In the mist, a girl with a lantern is waiting.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 7 November 2026</li><li>Runtime: 4 minutes</li><li>Director: Vinay Wandalkar</li><li>Genres: Horror, Thriller</li><li>Original language: Hindi</li><li>Spoken languages: Hindi</li><li>Production countries: India</li></ul>\n</article>",
    "t": "Kashti Paar (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
+  },
+  "movie:1823503": {
+   "d": "World War II: Behind Enemy Lines (2026): Documentary/War film. Story: Witness one US Army unit's battles, bravery and… See cast.",
+   "img": "https://image.tmdb.org/t/p/w780/xpFj8wggj7cZn1dglVd7iQm27Xd.jpg",
+   "industry": "world",
+   "k": "World War II: Behind Enemy Lines, World War II: Behind Enemy Lines movie, World War II: Behind Enemy Lines cast, World War II: Behind Enemy Lines story, World War II: Behind Enemy Lines box office collection, World War II: Behind Enemy Lines budget, World War II: Behind Enemy Lines review, World War II: Behind Enemy Lines rating, World War II: Behind Enemy Lines release date, World War II: Behind Enemy Lines trailer, World War II: Behind Enemy Lines Documentary, World War II: Behind Enemy Lines War, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Josh Brolin"
+     }
+    ],
+    "description": "World War II: Behind Enemy Lines (2026): Documentary/War film. Story: Witness one US Army unit's battles, bravery and… See cast.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Rob Coldstream"
+     }
+    ],
+    "genre": [
+     "Documentary",
+     "War"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/xpFj8wggj7cZn1dglVd7iQm27Xd.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1823503",
+    "name": "World War II: Behind Enemy Lines",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-12-02"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1823503"
+   },
+   "modified": "",
+   "published": "2026-11-25",
+   "robots": "noindex,follow",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>World War II: Behind Enemy Lines (2026)</h1>\n<p class=\"ssr-lead\">Witness one US Army unit&#x27;s battles, bravery and covert missions from D-Day to V-E Day in never-before-seen restored footage and rare firsthand accounts.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 2 December 2026</li><li>Director: Rob Coldstream</li><li>Genres: Documentary, War</li><li>Certification: 15</li><li>Original language: English</li><li>Spoken languages: English</li><li>Official trailer: World War II: Behind Enemy Lines - Trailer</li><li>Status: In Production</li></ul>\n<h2>Top cast</h2>\n<ul><li>Josh Brolin as Narrator</li></ul>\n</article>",
+   "t": "World War II: Behind Enemy Lines (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2026"
   },
   "movie:1828903": {

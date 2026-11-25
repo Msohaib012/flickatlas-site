@@ -15,6 +15,14 @@ window.FA_OTT = {
       "type": "movie"
     },
     {
+      "country": "GB",
+      "date": "2026-11-27",
+      "date_kind": "digital",
+      "id": 1791797,
+      "providers": [],
+      "type": "movie"
+    },
+    {
       "country": "US",
       "date": "2026-12-02",
       "date_kind": "digital",
@@ -71,6 +79,72 @@ window.FA_OTT = {
       "type": "movie"
     },
     {
+      "country": "IN",
+      "date": "2026-11-25",
+      "date_kind": "digital",
+      "id": 1755816,
+      "providers": [
+        {
+          "logo_path": "/uQvhdtB8skccsGHmvKi3y5bqBsX.png",
+          "name": "Zee5"
+        }
+      ],
+      "type": "movie"
+    },
+    {
+      "country": "FR",
+      "date": "2026-11-25",
+      "date_kind": "digital",
+      "id": 1828757,
+      "providers": [],
+      "type": "movie"
+    },
+    {
+      "country": "US",
+      "date": "2026-11-25",
+      "date_kind": "digital",
+      "id": 1814378,
+      "providers": [],
+      "type": "movie"
+    },
+    {
+      "country": "FR",
+      "date": "2026-11-25",
+      "date_kind": "digital",
+      "id": 1828786,
+      "providers": [
+        {
+          "logo_path": "/9o7nQnmlVE94XqPcMhVPGycatxU.png",
+          "name": "M6+"
+        }
+      ],
+      "type": "movie"
+    },
+    {
+      "country": "US",
+      "date": "2026-11-25",
+      "date_kind": "digital",
+      "id": 1828420,
+      "providers": [],
+      "type": "movie"
+    },
+    {
+      "country": "MX",
+      "date": "2026-11-25",
+      "date_kind": "digital",
+      "id": 1722832,
+      "providers": [],
+      "type": "movie"
+    },
+    {
+      "country": "US",
+      "date": "2026-11-25",
+      "date_kind": "digital",
+      "id": 1769056,
+      "providers": [],
+      "type": "movie"
+    },
+    {
       "country": "US",
       "date": "2026-11-24",
       "date_kind": "digital",
@@ -79,8 +153,42 @@ window.FA_OTT = {
       "type": "movie"
     },
     {
+      "country": "US",
       "date": "2026-11-24",
-      "date_kind": "release",
+      "date_kind": "digital",
+      "id": 1824177,
+      "providers": [
+        {
+          "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        }
+      ],
+      "type": "movie"
+    },
+    {
+      "country": "IN",
+      "date": "2026-11-24",
+      "date_kind": "digital",
+      "id": 1802703,
+      "providers": [
+        {
+          "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        }
+      ],
+      "type": "movie"
+    },
+    {
+      "country": "US",
+      "date": "2026-11-24",
+      "date_kind": "digital",
+      "id": 1599329,
+      "providers": [],
+      "type": "movie"
+    },
+    {
+      "date": "2026-11-24",
+      "date_kind": "digital",
       "id": 1764131,
       "providers": [
         {
@@ -104,6 +212,38 @@ window.FA_OTT = {
           "name": "Carnegie Hall+ Amazon Channel"
         }
       ],
+      "type": "movie"
+    },
+    {
+      "country": "BR",
+      "date": "2026-11-24",
+      "date_kind": "digital",
+      "id": 1814094,
+      "providers": [],
+      "type": "movie"
+    },
+    {
+      "country": "SE",
+      "date": "2026-11-24",
+      "date_kind": "digital",
+      "id": 1802480,
+      "providers": [],
+      "type": "movie"
+    },
+    {
+      "country": "GB",
+      "date": "2026-11-24",
+      "date_kind": "digital",
+      "id": 1798327,
+      "providers": [],
+      "type": "movie"
+    },
+    {
+      "country": "ID",
+      "date": "2026-11-24",
+      "date_kind": "digital",
+      "id": 1803359,
+      "providers": [],
       "type": "movie"
     },
     {
@@ -429,7 +569,7 @@ window.FA_OTT = {
       "id": 1822084,
       "providers": [
         {
-          "logo_path": "/w6Y6X8RIm2XolW7clhqf3VFsn5z.png",
+          "logo_path": "/sCJWqnuSssjoIvfiaERv2u5YPa6.png",
           "name": "CANAL+"
         }
       ],
@@ -1817,7 +1957,7 @@ window.FA_OTT = {
       "id": 1811601,
       "providers": [
         {
-          "logo_path": "/w6Y6X8RIm2XolW7clhqf3VFsn5z.png",
+          "logo_path": "/sCJWqnuSssjoIvfiaERv2u5YPa6.png",
           "name": "CANAL+"
         }
       ],
@@ -3186,6 +3326,14 @@ window.FA_OTT = {
       "date": "2026-10-06",
       "date_kind": "digital",
       "id": 1101412,
+      "providers": [],
+      "type": "movie"
+    },
+    {
+      "country": "US",
+      "date": "2026-10-05",
+      "date_kind": "digital",
+      "id": 1550500,
       "providers": [],
       "type": "movie"
     },
