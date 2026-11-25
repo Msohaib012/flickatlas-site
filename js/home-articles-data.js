@@ -36,6 +36,140 @@ window.FA_HOME_ARTICLES = {
     ],
     "published": "Wed, 25 Nov 2026 15:04:28 +0200"
   },
+  "b8glk9": {
+    "id": "b8glk9",
+    "type": "news",
+    "headline": "Lords of the Fallen 2 Sets Target Release Window for April 2027",
+    "dek": "CI Games chief executive shares preliminary launch timing for the upcoming soulslike action RPG sequel, promising an exact calendar date soon.",
+    "entities": {
+      "people": [
+        "Marek Tyminski"
+      ],
+      "titles": [
+        "Lords of the Fallen 2"
+      ]
+    },
+    "keywords": [
+      "Lords of the Fallen 2",
+      "CI Games",
+      "Marek Tyminski",
+      "Lords of the Fallen 2 release date"
+    ],
+    "images": [
+      {
+        "url": "https://cdn.mos.cms.futurecdn.net/5Qo5aJepsUBdV2m76Pebhn-1920-80.jpg",
+        "caption": "Lords of the Fallen 2 Sets Target Release Window for April 2027",
+        "source": "Total Film (GamesRadar)"
+      }
+    ],
+    "published": "Wed, 25 Nov 2026 11:48:32 +0000"
+  },
+  "bss9p8": {
+    "id": "bss9p8",
+    "type": "news",
+    "headline": "Koffee With Karan Season 9 Episode 7 Featuring Akshay Kumar and Ravi Kishan Premieres Tonight",
+    "dek": "Discover the release timing, streaming platform, and special highlights for the seventh episode of Koffee With Karan Season 9 featuring Akshay Kumar and Ravi Kishan.",
+    "entities": {
+      "people": [
+        "Karan Johar",
+        "Akshay Kumar",
+        "Ravi Kishan",
+        "Salman Khan",
+        "Vijay Deverakonda",
+        "Rashmika Mandanna",
+        "Sidharth Malhotra",
+        "Kiara Advani",
+        "Janhvi Kapoor",
+        "Varun Dhawan",
+        "Arjun Kapoor",
+        "Saif Ali Khan",
+        "Kareena Kapoor Khan",
+        "Ananya Panday",
+        "Shanaya Kapoor",
+        "Ananya Birla"
+      ],
+      "titles": [
+        "Koffee With Karan"
+      ]
+    },
+    "keywords": [
+      "Koffee With Karan Season 9",
+      "Akshay Kumar Ravi Kishan episode",
+      "Koffee With Karan Season 9 Episode 7",
+      "JioHotstar Koffee With Karan"
+    ],
+    "images": [
+      {
+        "url": "https://images.filmibeat.com/img/2026/11/kwks9ep7feature-60691795606963.jpg",
+        "caption": "Koffee With Karan Season 9 Episode 7 Featuring Akshay Kumar and Ravi Kishan Premieres Tonight",
+        "source": "FilmiBeat"
+      }
+    ],
+    "published": "Wed, 25 Nov 2026 17:14:33 +0530"
+  },
+  "1vi1m7t": {
+    "id": "1vi1m7t",
+    "type": "news",
+    "headline": "SS Rajamouli's Varanasi Faces Rumours of Release Date Postponement",
+    "dek": "Fresh speculation suggests that the Mahesh Babu and Priyanka Chopra Jonas adventure might be pushed from April to August 2027 due to extensive VFX work.",
+    "entities": {
+      "people": [
+        "SS Rajamouli",
+        "Mahesh Babu",
+        "Priyanka Chopra Jonas"
+      ],
+      "titles": [
+        "Varanasi"
+      ]
+    },
+    "keywords": [
+      "Varanasi release date",
+      "SS Rajamouli Varanasi",
+      "Mahesh Babu Priyanka Chopra Jonas",
+      "Mythri Movie Makers Varanasi"
+    ],
+    "images": [
+      {
+        "url": "https://filmfare.wwmindia.com/content/2026/nov/varanasi-release-date-fresh-speculation-rife-about-ss-rajamouli-s-film1795606776.jpg",
+        "caption": "SS Rajamouli's Varanasi Faces Rumours of Release Date Postponement",
+        "source": "Filmfare"
+      }
+    ],
+    "published": "2026-11-25T17:13:16+05:30"
+  },
+  "ufr1ko": {
+    "id": "ufr1ko",
+    "type": "news",
+    "headline": "The Legend Of Zelda: The Wind Waker Arrives On PC Via Native Recompilation Project",
+    "dek": "A brand new recompilation project brings The Legend of Zelda: The Wind Waker to PC and Apple Silicon Macs as a standalone application, offering modern quality-of-life upgrades and high frame rates.",
+    "entities": {
+      "people": [
+        "James Lynch"
+      ],
+      "titles": [
+        "The Legend of Zelda: The Wind Waker",
+        "Twilight Princess",
+        "World of Warcraft",
+        "Destiny 2",
+        "League of Legends",
+        "Pokémon Winds Waves"
+      ]
+    },
+    "keywords": [
+      "The Legend of Zelda The Wind Waker PC",
+      "Wind Waker Recomp GitHub",
+      "Wind Waker native PC port",
+      "Zelda Wind Waker remaster"
+    ],
+    "images": [
+      {
+        "url": "https://static0.srcdn.com/wordpress/wp-content/uploads/2026/04/zelda-wind-waker-tingle-cell.avif?w=1600&amp;h=900&amp;fit=crop",
+        "caption": "The Legend Of Zelda: The Wind Waker Arrives On PC Via Native Recompilation Project",
+        "source": "Screen Rant"
+      }
+    ],
+    "published": "Wed, 25 Nov 2026 11:07:36 GMT"
+  },
   "dri0gf": {
     "id": "dri0gf",
     "type": "news",
@@ -4813,177 +4947,6 @@ window.FA_HOME_ARTICLES = {
       }
     ],
     "published": "Tue, 24 Nov 2026 03:00:26 GMT"
-  },
-  "e7ndch": {
-    "id": "e7ndch",
-    "type": "news",
-    "headline": "Director Antoine Fuqua Faces Lawsuit Alleging Assault, Battery, and Handgun Threat",
-    "dek": "A Los Angeles bar manager has filed a lawsuit against filmmaker Antoine Fuqua, accusing him and his family members of physical assault, pointing handguns, and using slurs following a denied entry.",
-    "entities": {
-      "people": [
-        "Antoine Fuqua",
-        "William Rosenthal",
-        "Winston Cho"
-      ],
-      "titles": [
-        "Equalizer 3",
-        "The Terminal List",
-        "Once Upon a Time in Harlem",
-        "Ink",
-        "Trainspotting",
-        "Slumdog Millionaire",
-        "Malibu",
-        "The Odyssey",
-        "Heart in Winter",
-        "Blade Runner 2099",
-        "Way of the Warrior Kid",
-        "Focker In-Law",
-        "Avengers: Doomsday"
-      ]
-    },
-    "keywords": [
-      "Antoine Fuqua",
-      "Antoine Fuqua lawsuit",
-      "William Rosenthal",
-      "Good Times at Davey Wayne's"
-    ],
-    "images": [
-      {
-        "url": "https://www.hollywoodreporter.com/wp-content/uploads/2023/09/DF-00454_r-EMBED-2023.jpg?w=1000&#038;h=667&#038;crop=1",
-        "caption": "Director Antoine Fuqua Faces Lawsuit Alleging Assault, Battery, and Handgun Threat",
-        "source": "The Hollywood Reporter"
-      }
-    ],
-    "published": "Tue, 24 Nov 2026 02:56:12 +0000"
-  },
-  "hluy78": {
-    "id": "hluy78",
-    "type": "news",
-    "headline": "Hallmark Channel Unveils Seven New Holiday Movies for Merry Thanksgiving Schedule",
-    "dek": "The network is ramping up its seasonal programming block with a packed week of romantic premieres, featuring an array of star-studded casts and special festive storylines.",
-    "entities": {
-      "people": [
-        "Autumn Reeser",
-        "Wes Brown",
-        "Linda Darlow",
-        "Daniella Monet",
-        "Kevin McGarry",
-        "Giada DeLaurentiis",
-        "Paul Campbell",
-        "Rachel Boston",
-        "Tammin Sursok",
-        "Peter Porte",
-        "Lacey Chabert",
-        "Travis Van Winkle",
-        "Richard Kind",
-        "Christy Carlson Romano",
-        "Bryce Durfee",
-        "Taegen Burns",
-        "Hunter King",
-        "Dan Jeannotte",
-        "Felicia Shulman",
-        "Ashley Williams",
-        "Steve Lund",
-        "Alison Sweeney"
-      ],
-      "titles": [
-        "Christmas Delivered",
-        "The Christmas Eve Feast",
-        "Return to Santa",
-        "The Most Wonderful Secret",
-        "Holiday Ever After: A Disney World Wish Come True",
-        "Eight Nights for Love",
-        "Miles to Christmas"
-      ]
-    },
-    "keywords": [
-      "Hallmark Christmas movies",
-      "Merry Thanksgiving schedule",
-      "Christmas Delivered",
-      "Holiday Ever After Disney World Wish Come True"
-    ],
-    "images": [
-      {
-        "url": "https://www.justjared.com/wp-content/uploads/2026/05/hallmark-christmas-in-july.jpg",
-        "caption": "Hallmark Channel Unveils Seven New Holiday Movies for Merry Thanksgiving Schedule",
-        "source": "Just Jared"
-      }
-    ],
-    "published": "Tue, 24 Nov 2026 02:50:50 +0000"
-  },
-  "1cam5g6": {
-    "id": "1cam5g6",
-    "type": "news",
-    "headline": "O.M: Operation Mole Crosses ₹90 Crore Worldwide Despite Monday Decline",
-    "dek": "Starring Dhanush and Mammootty and directed by Rajkumar Periasamy, the Tamil spy action thriller O.M: Operation Mole has neared the ₹100 crore milestone after four days in theatres.",
-    "entities": {
-      "people": [
-        "Dhanush",
-        "Mammootty",
-        "Rajkumar Periasamy",
-        "Sai Pallavi",
-        "Sreeleela",
-        "Naseeruddin Shah",
-        "Indrans",
-        "Sai Abhyankkar",
-        "Ezhil Arasu K",
-        "R. Kalaivanan"
-      ],
-      "titles": [
-        "O.M: Operation Mole",
-        "OM Chapter 1: Udhiram - The Blood Wood"
-      ]
-    },
-    "keywords": [
-      "OM Operation Mole box office",
-      "Dhanush Mammootty film",
-      "OM Day 4 collection",
-      "Rajkumar Periasamy movie"
-    ],
-    "images": [
-      {
-        "url": "https://images.filmibeat.com/img/2026/11/om-85901795487862.jpg",
-        "caption": "O.M: Operation Mole Crosses ₹90 Crore Worldwide Despite Monday Decline",
-        "source": "FilmiBeat"
-      }
-    ],
-    "published": "Tue, 24 Nov 2026 08:08:40 +0530"
-  },
-  "2nn9ri": {
-    "id": "2nn9ri",
-    "type": "news",
-    "headline": "Riley Green Reveals the Hardest Part of Coaching on The Voice",
-    "dek": "Newbie coach Riley Green opens up about the most agonizing aspect of mentoring contestants on Season 30 of NBC's singing competition.",
-    "entities": {
-      "people": [
-        "Riley Green",
-        "Joe Henley",
-        "Ferryn Brinkley",
-        "Adam Levine",
-        "Queen Latifah",
-        "Kelly Clarkson",
-        "Keke Palmer"
-      ],
-      "titles": [
-        "The Voice",
-        "Don't Mind If I Do",
-        "The Voice: Celebrity"
-      ]
-    },
-    "keywords": [
-      "Riley Green The Voice",
-      "The Voice Season 30",
-      "Joe Henley Ferryn Brinkley",
-      "The Voice December 14 finale"
-    ],
-    "images": [
-      {
-        "url": "https://cdn.mos.cms.futurecdn.net/6vYYRt6Z3eZR4MiLrg9ZZg-2000-80.jpg",
-        "caption": "Riley Green Reveals the Hardest Part of Coaching on The Voice",
-        "source": "CinemaBlend"
-      }
-    ],
-    "published": "Tue, 24 Nov 2026 02:31:00 +0000"
   },
   "1f98fib": {
     "id": "1f98fib",

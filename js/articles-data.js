@@ -246106,5 +246106,360 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Wed, 25 Nov 2026 15:01:46 +0530"
+  },
+  "1vi1m7t": {
+    "id": "1vi1m7t",
+    "type": "news",
+    "headline": "SS Rajamouli's Varanasi Faces Rumours of Release Date Postponement",
+    "dek": "Fresh speculation suggests that the Mahesh Babu and Priyanka Chopra Jonas adventure might be pushed from April to August 2027 due to extensive VFX work.",
+    "body": [
+      {
+        "h": "Rising Speculation in Trade Circles",
+        "p": [
+          "Trade circles and social media platforms are currently abuzz with fresh rumours regarding the release schedule of the highly anticipated film Varanasi, directed by SS Rajamouli. The project, which stars prominent actors Mahesh Babu and Priyanka Chopra Jonas, was originally slated to premiere on April 7, 2027. However, recent whispers indicate that this initial timeline may no longer be set in stone.",
+          "As these unconfirmed reports gather steam, industry insiders have begun discussing potential alternative launch windows. While the core production team has maintained silence thus far, the continuous chatter has left fans eager for an official update from the makers."
+        ]
+      },
+      {
+        "h": "The Core Reason: Meticulous VFX Demands",
+        "p": [
+          "According to reports circulating within the industry, the primary catalyst for the potential delay is the extensive visual effects and computer-generated imagery required for the project. Director SS Rajamouli is widely recognized for his uncompromising approach to cinematic quality and scale. Ensuring that every visual element meets his exact specifications has proven to be a time-consuming endeavour.",
+          "The post-production phase involves coordinating multiple pipelines across prominent visual effects studios located both within India and internationally. Balancing these complex digital requirements while striving for flawless execution is believed to be driving the need for additional development time."
+        ]
+      },
+      {
+        "h": "Potential Shift to August 2027",
+        "p": [
+          "With production timelines reportedly stretching, industry discussions point toward a possible new release window in August 2027. Observers note that targeting a timeframe around the Independence Day weekend could offer the makers a strategic advantage, providing ample breathing room for the remaining post-production work.",
+          "A shift of this magnitude could also impact downstream distribution plans, including the meticulously planned IMAX rollout. Such adjustments are not uncommon for large-scale cinematic ventures where post-production benchmarks dictate the ultimate theatrical arrival."
+        ]
+      },
+      {
+        "h": "Scale and Ambition of the Adventure",
+        "p": [
+          "Varanasi has consistently generated immense excitement due to its sweeping global adventure narrative and massive production scale. The film's ambitious design incorporates intricate outdoor sets, monumental temple structures, and colossal mythical creatures intended to deliver a deeply immersive experience for audiences.",
+          "The sheer magnitude of these sequences explains why the digital effects component is so vital to the finished product. Rajamouli's vision demands a level of visual fidelity that requires extensive coordination between physical set construction and cutting-edge CGI."
+        ]
+      },
+      {
+        "h": "Makers Maintain Silence Amid Rumours",
+        "p": [
+          "Despite the swirling speculation and heightened attention from trade analysts, the official team behind Varanasi has yet to issue a statement addressing the postponement reports. This silence has only served to fuel further discussions across various media channels.",
+          "As anticipation builds for the globetrotting epic, stakeholders and moviegoers alike continue to watch closely for any official clarification from the production house regarding the final delivery timeline."
+        ]
+      },
+      {
+        "h": "Broader Industry Context",
+        "p": [
+          "The project continues to dominate entertainment headlines, underlined by recent developments such as Mythri Movie Makers securing the Telugu theatrical distribution rights. Such high-profile partnerships highlight the immense commercial stakes riding on the director's latest cinematic undertaking.",
+          "As the industry monitors the situation, the balance between meeting rigorous technical standards and adhering to scheduled theatrical dates remains a central topic of discussion among trade experts."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Trade circles and social media are rife with speculation that SS Rajamouli's Varanasi, starring Mahesh Babu and Priyanka Chopra Jonas, may be postponed from its original April 7, 2027 release date to August 2027. The potential delay is attributed to extensive visual effects work managed across domestic and international studios, though the makers have yet to officially address the rumours."
+        ]
+      }
+    ],
+    "facts": [
+      "Varanasi was originally scheduled for release on April 7, 2027.",
+      "SS Rajamouli is the director of Varanasi.",
+      "Mahesh Babu and Priyanka Chopra Jonas star in the film.",
+      "August 2027 is being discussed as an alternative release window.",
+      "Mythri Movie Makers secured the Telugu theatrical rights for Varanasi."
+    ],
+    "entities": {
+      "people": [
+        "SS Rajamouli",
+        "Mahesh Babu",
+        "Priyanka Chopra Jonas"
+      ],
+      "titles": [
+        "Varanasi"
+      ]
+    },
+    "keywords": [
+      "Varanasi release date",
+      "SS Rajamouli Varanasi",
+      "Mahesh Babu Priyanka Chopra Jonas",
+      "Mythri Movie Makers Varanasi"
+    ],
+    "images": [
+      {
+        "url": "https://filmfare.wwmindia.com/content/2026/nov/varanasi-release-date-fresh-speculation-rife-about-ss-rajamouli-s-film1795606776.jpg",
+        "caption": "SS Rajamouli's Varanasi Faces Rumours of Release Date Postponement",
+        "source": "Filmfare"
+      }
+    ],
+    "published": "2026-11-25T17:13:16+05:30"
+  },
+  "ufr1ko": {
+    "id": "ufr1ko",
+    "type": "news",
+    "headline": "The Legend Of Zelda: The Wind Waker Arrives On PC Via Native Recompilation Project",
+    "dek": "A brand new recompilation project brings The Legend of Zelda: The Wind Waker to PC and Apple Silicon Macs as a standalone application, offering modern quality-of-life upgrades and high frame rates.",
+    "body": [
+      {
+        "h": "Initial Controversy And Historical Context",
+        "p": [
+          "When The Legend of Zelda: The Wind Waker first debuted, it failed to meet Nintendo's expectations in terms of public reception. Gamers had anticipated a dark, realistic aesthetic after the studio previously teased a gritty visual demo for the GameCube hardware.",
+          "Instead, the introduction of the cartoonish Toon Link caught audiences off guard and generated initial disappointment. It took years for public opinion to shift, eventually cementing the title as a treasured high point in the long-running franchise."
+        ]
+      },
+      {
+        "h": "Native PC Recompilation Launch",
+        "p": [
+          "Fans can now experience the classic adventure natively on personal computers through an unofficial project known as Wind Waker Recomp. The software is accessible via the creator's GitHub repository for Windows 10, Windows 11, and Apple Silicon Mac users.",
+          "Unlike traditional emulation, this recompilation functions as a standalone application. It allows the software to execute directly on the target hardware without relying on an emulator layer."
+        ]
+      },
+      {
+        "h": "Modern Technical Enhancements",
+        "p": [
+          "Running the title through this native recompilation unlocks a wide variety of advanced technical features. Players can enjoy higher native display resolutions alongside full support for widescreen monitors.",
+          "Furthermore, the project introduces mouse and keyboard inputs, controller compatibility, save states, and advanced frame interpolation. This enables the experience to run at frame rates of 60, 120, or 240 frames per second rather than the original 30."
+        ]
+      },
+      {
+        "h": "Quality Of Life Features From The Wii U Version",
+        "p": [
+          "The project also integrates optional gameplay tweaks that can be toggled on or off according to player preference. Several of these modifications are borrowed directly from the later Wii U high-definition release.",
+          "Notable improvements include the Swift Sail mechanic for faster ocean travel, quicker climbing animations, faster door transitions, and accelerated scene shifts to streamline the overall adventure."
+        ]
+      },
+      {
+        "h": "Legal Requirements And Asset Extraction",
+        "p": [
+          "Because the creators respect intellectual property boundaries, the recompilation package does not contain any copyrighted game files. Users must supply their own legitimate copy of The Legend of Zelda: The Wind Waker to extract the required assets.",
+          "This legal requirement mirrors standard procedures often associated with traditional emulation, ensuring that players source the necessary data responsibly from their own physical or digital media."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "A fan-made native PC recompilation brings The Legend of Zelda: The Wind Waker to Windows and Apple Silicon Macs with advanced visual and performance enhancements. The project requires users to provide their own game assets and offers features like high frame rates and quality-of-life adjustments inspired by the Wii U version."
+        ]
+      }
+    ],
+    "facts": [
+      "The Legend of Zelda: The Wind Waker was originally released on March 24, 2003.",
+      "The game is developed and published by Nintendo.",
+      "The new native PC recompilation is known as Wind Waker Recomp.",
+      "It is available on the creator's GitHub repository for Windows 10, Windows 11, and Apple Silicon Macs.",
+      "Frame interpolation allows the game to run at 60, 120, or 240 FPS instead of the locked 30 FPS."
+    ],
+    "entities": {
+      "people": [
+        "James Lynch"
+      ],
+      "titles": [
+        "The Legend of Zelda: The Wind Waker",
+        "Twilight Princess",
+        "World of Warcraft",
+        "Destiny 2",
+        "League of Legends",
+        "Pokémon Winds Waves"
+      ]
+    },
+    "keywords": [
+      "The Legend of Zelda The Wind Waker PC",
+      "Wind Waker Recomp GitHub",
+      "Wind Waker native PC port",
+      "Zelda Wind Waker remaster"
+    ],
+    "images": [
+      {
+        "url": "https://static0.srcdn.com/wordpress/wp-content/uploads/2026/04/zelda-wind-waker-tingle-cell.avif?w=1600&amp;h=900&amp;fit=crop",
+        "caption": "The Legend Of Zelda: The Wind Waker Arrives On PC Via Native Recompilation Project",
+        "source": "Screen Rant"
+      }
+    ],
+    "published": "Wed, 25 Nov 2026 11:07:36 GMT"
+  },
+  "bss9p8": {
+    "id": "bss9p8",
+    "type": "news",
+    "headline": "Koffee With Karan Season 9 Episode 7 Featuring Akshay Kumar and Ravi Kishan Premieres Tonight",
+    "dek": "Discover the release timing, streaming platform, and special highlights for the seventh episode of Koffee With Karan Season 9 featuring Akshay Kumar and Ravi Kishan.",
+    "body": [
+      {
+        "h": "The Final Season Continues",
+        "p": [
+          "The popular celebrity chat show Koffee With Karan is currently airing its ninth and final season. Hosted by filmmaker Karan Johar, the program has consistently delivered entertainment, humor, and candid revelations from various notable personalities across the film industry.",
+          "Throughout this final outing, viewers have watched numerous star pairings share the famous couch, discussing both their professional endeavors and personal lives with the host."
+        ]
+      },
+      {
+        "h": "Star Guests for Episode 7",
+        "p": [
+          "For the upcoming seventh installment, the program welcomes actor Akshay Kumar, who brings his trademark charisma to the conversation. He is joined on the couch by fellow actor Ravi Kishan.",
+          "Host Karan Johar noted that the pairing was originally suggested by Akshay Kumar himself, anticipating a lively and entertaining dynamic between the two guests."
+        ]
+      },
+      {
+        "h": "Release Timing and Schedule",
+        "p": [
+          "Fans eagerly anticipating the new chapter can tune in tonight, November 25, 2026. The seventh episode is scheduled to officially drop at 7 pm.",
+          "The timing allows followers of the series to access the full-length conversation immediately as it goes live on the designated streaming home."
+        ]
+      },
+      {
+        "h": "Where to Watch Online",
+        "p": [
+          "Viewers wondering how to catch the latest instalment can stream the full episode in high definition directly on the JioHotstar digital platform.",
+          "The content becomes accessible on the application immediately following its 7 pm premiere time."
+        ]
+      },
+      {
+        "h": "What to Expect From the Conversation",
+        "p": [
+          "Audience members can look forward to signature Punjabi charm and casual demeanor from Akshay Kumar throughout the broadcast. Meanwhile, Ravi Kishan shares insights regarding his career journey.",
+          "Promotional material shared ahead of the broadcast also teases amusing moments, including playful dance segments and endless laughter between the host and his guests."
+        ]
+      },
+      {
+        "h": "Previous Guests on the Couch",
+        "p": [
+          "Before this pairing, the ninth season featured several high-profile combinations sharing personal stories and lighthearted banter with Karan Johar.",
+          "Past participants include Salman Khan, Vijay Deverakonda, Rashmika Mandanna, Sidharth Malhotra, Kiara Advani, Janhvi Kapoor, Varun Dhawan, Arjun Kapoor, Saif Ali Khan, Kareena Kapoor Khan, Ananya Panday, Shanaya Kapoor, and Ananya Birla."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Koffee With Karan Season 9 Episode 7 premieres tonight, November 25, 2026, at 7 pm on JioHotstar. The final season episode features Akshay Kumar and Ravi Kishan as guests, promising a blend of humor, candid moments, and entertainment.",
+          "Karan Johar hosts the chat show, which has previously welcomed numerous celebrity pairs throughout its ongoing run."
+        ]
+      }
+    ],
+    "facts": [
+      "Koffee With Karan Season 9 Episode 7 releases on November 25, 2026",
+      "The episode releases at 7 pm",
+      "The episode streams on JioHotstar",
+      "The guests for Episode 7 are Akshay Kumar and Ravi Kishan",
+      "Karan Johar is the host of the show"
+    ],
+    "entities": {
+      "people": [
+        "Karan Johar",
+        "Akshay Kumar",
+        "Ravi Kishan",
+        "Salman Khan",
+        "Vijay Deverakonda",
+        "Rashmika Mandanna",
+        "Sidharth Malhotra",
+        "Kiara Advani",
+        "Janhvi Kapoor",
+        "Varun Dhawan",
+        "Arjun Kapoor",
+        "Saif Ali Khan",
+        "Kareena Kapoor Khan",
+        "Ananya Panday",
+        "Shanaya Kapoor",
+        "Ananya Birla"
+      ],
+      "titles": [
+        "Koffee With Karan"
+      ]
+    },
+    "keywords": [
+      "Koffee With Karan Season 9",
+      "Akshay Kumar Ravi Kishan episode",
+      "Koffee With Karan Season 9 Episode 7",
+      "JioHotstar Koffee With Karan"
+    ],
+    "images": [
+      {
+        "url": "https://images.filmibeat.com/img/2026/11/kwks9ep7feature-60691795606963.jpg",
+        "caption": "Koffee With Karan Season 9 Episode 7 Featuring Akshay Kumar and Ravi Kishan Premieres Tonight",
+        "source": "FilmiBeat"
+      }
+    ],
+    "published": "Wed, 25 Nov 2026 17:14:33 +0530"
+  },
+  "b8glk9": {
+    "id": "b8glk9",
+    "type": "news",
+    "headline": "Lords of the Fallen 2 Sets Target Release Window for April 2027",
+    "dek": "CI Games chief executive shares preliminary launch timing for the upcoming soulslike action RPG sequel, promising an exact calendar date soon.",
+    "body": [
+      {
+        "h": "Upcoming Release Window Confirmed",
+        "p": [
+          "The highly anticipated action role-playing sequel has received an official launch window from its developers. Players looking forward to diving back into the dark fantasy world can expect the title to arrive in the first half of 2027.",
+          "The announcement narrows down the timeline considerably, giving fans a specific period to anticipate rather than waiting indefinitely for news from the studio."
+        ]
+      },
+      {
+        "h": "CEO Announcement Details",
+        "p": [
+          "The update came directly from Marek Tyminski, the chief executive officer of CI Games. Through social media, he shared the major milestone regarding the upcoming soulslike project.",
+          "Tyminski explicitly pointed to April 2027 as the targeted launch month for the sequel, offering clarity to followers eager for progression updates on the franchise."
+        ]
+      },
+      {
+        "h": "Exact Date Coming Soon",
+        "p": [
+          "While the broad month is now public knowledge, the exact calendar day has not yet been revealed. However, the studio executive confirmed that the precise date will be shared very shortly.",
+          "According to the leadership team's statements, the definitive release date announcement is scheduled to arrive during the month of December."
+        ]
+      },
+      {
+        "h": "Expected Industry Showcase",
+        "p": [
+          "The timing of the upcoming date revelation strongly hints at an appearance during a major gaming showcase. Industry observers anticipate that the precise release information will likely be unveiled at The Game Awards.",
+          "Such high-profile events routinely serve as platforms for major publishers to drop trailers, confirm launch schedules, and generate excitement for their upcoming slates."
+        ]
+      },
+      {
+        "h": "Development and Announcement Timeline",
+        "p": [
+          "The path to the sequel's release has moved at a relatively brisk pace compared to many modern blockbuster titles. The project was formally unveiled to the public during the Opening Night Live event at Gamescom 2025.",
+          "Achieving a launch window roughly a year and a half after the initial formal reveal stands out as a notably tight turnaround in an industry frequently plagued by prolonged promotional cycles."
+        ]
+      },
+      {
+        "h": "Franchise Background",
+        "p": [
+          "The upcoming game serves as the direct follow-up to CI Games' previous soulslike entry, continuing the dark fantasy traditions established by the intellectual property.",
+          "As a prominent entry in the challenging action RPG subgenre, the sequel carries significant expectations from fans of the original game and enthusiasts of demanding combat systems."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "CI Games CEO Marek Tyminski has announced that Lords of the Fallen 2 is scheduled to launch in April 2027. The exact release date for the action RPG sequel will be revealed in December, following its initial formal announcement at Gamescom 2025."
+        ]
+      }
+    ],
+    "facts": [
+      "Lords of the Fallen 2 is scheduled to launch in April 2027.",
+      "Marek Tyminski is the CEO of CI Games.",
+      "The exact release date announcement will be made in December.",
+      "The game was originally announced during Opening Night Live at Gamescom 2025."
+    ],
+    "entities": {
+      "people": [
+        "Marek Tyminski"
+      ],
+      "titles": [
+        "Lords of the Fallen 2"
+      ]
+    },
+    "keywords": [
+      "Lords of the Fallen 2",
+      "CI Games",
+      "Marek Tyminski",
+      "Lords of the Fallen 2 release date"
+    ],
+    "images": [
+      {
+        "url": "https://cdn.mos.cms.futurecdn.net/5Qo5aJepsUBdV2m76Pebhn-1920-80.jpg",
+        "caption": "Lords of the Fallen 2 Sets Target Release Window for April 2027",
+        "source": "Total Film (GamesRadar)"
+      }
+    ],
+    "published": "Wed, 25 Nov 2026 11:48:32 +0000"
   }
 };

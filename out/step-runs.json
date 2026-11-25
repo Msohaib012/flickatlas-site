@@ -4,45 +4,6 @@
    {
     "step": "fetch",
     "category": "Trending News",
-    "run_at": "2026-11-24T11:51:05Z",
-    "run_id": "45387869325",
-    "status": "success",
-    "checked": {
-     "candidates": 351,
-     "detail": "RSS/Atom items across 137 sources; 0 source(s) errored"
-    },
-    "changed": {
-     "added": [
-      "OM Kerala Box Office Collection Day 4: Dhanush-Mammootty Film Hits ₹12.50 Crore; Eyes Karuppu's Lifetime Gross",
-      "Clayface North America Box Office: Becomes 5th Highest-Grossing Horror Film Of 2026",
-      "Ramayana Box Office Collection Day 19: Less Than 10 Crore Away From Making History",
-      "Aakasamlo Oka Tara Box Office Day 4: Earns More On 1st Monday Than Opening Day, Thanks To Positive Buzz",
-      "Gentle Monster Ending Explained: What Happens To Lucy & Her Son After Philip’s Betrayal?",
-      "The Altruists Ending Explained: What Happened To Sam, Caroline & The FTX Inner Circle?",
-      "Ramayana Box Office Day 20: Advance Booking Revenue Jumps 28% as Pushpa 2's Lifetime Worldwide Collection Comes Within Reach",
-      "Varanasi Reportedly Eyeing an August 2027 Release as SS Rajamouli's Film Could Reshape the Independence Day Box Office Lineup",
-      "Kartik Aaryan's Kaaliya Brings an Ancient Threat to Life, Filming Begins November 30",
-      "Kollywood Box Office 2026 Top 10 Star Rankings: Rajinikanth Leads Worldwide, Suriya Tops Tamil Net as the Duo and Vijay Contribute Over 47% of Annual Collections",
-      "'Ramayana' box office collection day 20 (LIVE)",
-      "Fahadh Faasil's next with '96' director Prem Kumar titled 'Asareeri'",
-      "Sharwanand says ‘Bhogi’ has reintroduced him as an actor, praises Sampath Nandi",
-      "'O.M' BO Day 5 [Live]: Dhanush's film slows down on weekdays",
-      "Kiran Abbavaram’s ‘KA14’ gets official title 'Record'",
-      "Jackie recalls moments with Dharmendra",
-      "Malayalam actor Sreejith Ravi sentenced to one year in POCSO case",
-      "Christopher Cyrus attends Miley Cyrus and Maxx Morando’s wedding",
-      "Imtiaz Ali says younger actors in Bollywood are more 'undistracted'; it is easier to coach them for a long-term job than senior stars",
-      "The Glory stars Lim Ji Yeon and Lee Do Hyun call it quits after three years of dating; agencies confirm breakup"
-     ],
-     "updated": [],
-     "count": 345,
-     "detail": "351 stories, 0 duplicates removed, 0 dropped"
-    },
-    "reason": null
-   },
-   {
-    "step": "fetch",
-    "category": "Trending News",
     "run_at": "2026-11-24T12:51:52Z",
     "run_id": "45397422797",
     "status": "success",
@@ -936,32 +897,48 @@
      "detail": "297 stories, 1 duplicates removed, 10 dropped"
     },
     "reason": null
-   }
-  ],
-  "apply_auto": [
+   },
    {
-    "step": "apply_auto",
+    "step": "fetch",
     "category": "Trending News",
-    "run_at": "2026-11-24T12:55:21Z",
-    "run_id": "45397422797",
+    "run_at": "2026-11-25T11:52:02Z",
+    "run_id": "45608143089",
     "status": "success",
     "checked": {
-     "candidates": 14,
-     "detail": "draft articles + box-office rows from out/gemini-batch.json"
+     "candidates": 501,
+     "detail": "RSS/Atom items across 137 sources; 3 source(s) errored"
     },
     "changed": {
      "added": [
-      "Love In Disguise Episode 12 OTT Release Details And Streaming Guide",
-      "Why Kundali Bhagya Star Ssanjay Gaggnani Altered His Name Spelling Using Numerology",
-      "OM Worldwide Box Office Day 4: Becomes Dhanush's 6th Highest-Grossing Film Of All Time",
-      "Hugh Grant Horror Hit Heretic Is Leaving Hulu This December"
+      "EXCLUSIVE: Big legal BATTLE in Bollywood - Vinod Bhanushali moves Bombay High Court against Aanand L Rai’s Colour Yellow; Amazon MGM Studios also named in the suit",
+      "Varun Dhawan, DJ Chetas, Ayan Agnihotri back franchises at Prospect Padel League auction; women's players attract higher bids",
+      "EXCLUSIVE: CBFC passes Emraan Hashmi’s Gunmaaster G9 with ‘A’ certificate after certain modifications (COMPLETE list inside)",
+      "Koffee With Karan Season 9 Ep7 Release Time: Here’s When Akshay Kumar & Ravi Kishan’s Episode Will Stream",
+      "Blue Dragon Film Awards 2026 Winners List With Name: WHO Will Best Actor & Actress Today?",
+      "Yash Maheshwari Controversy: Did Comedian DELETE His Instagram Profile Amid FIR Over Chhath Sindoor Joke?",
+      "Yeh Rishta Kya Kehlata Hai Written Update November 25: Kabir BLOCKS Maira As Armaan Gets Ready To Meet Him",
+      "Dar-E-Nijaat: Dur-E-Fishan's Show's Bengaluru Screening Sparks Controversy Over Pakistani Dress Code",
+      "Is Shubh Shagun Shehnaiyan Going The Film Route With Extensive Outdoor Shoots And Mega Production Value?",
+      "The Murder Of JonBenet Ramsey: The True Story Behind The Netflix Crime Story, Explained",
+      "Ramayana Box Office Day 20: 2nd 1000 Crore Film Of Bollywood Fails To Grab The Fastest 4-Digit Crown From Dhurandhar 2!",
+      "Ranabaali OTT Verdict: Vijay Deverakonda Takes Only 10 Days To Enter Top 10 Most-Viewed South Indian Films Of 2026 On Netflix!",
+      "OM North America Box Office: Enters Dhanush’s Top 5 Highest Grossers, Trails Raayan",
+      "Yeh Prem Mol Liya Box Office Advance Booking: Sooraj Barjatya’s Film Already Sells 37.75K Tickets For The Opening Weekend – Solid Start!",
+      "King North America Box Office: How Much Does Shah Rukh Khan’s Next Need To Break Even?",
+      "Ebenezer Worldwide Box Office: Johnny Depp Starrer Surpasses DreamWorks’ 2026 Flop Animation, Forgotten Island In Under 15 Days",
+      "OM Box Office Day 5: Only 31% Budget Recovery For Dhanush & Mammootty’s Biggie!",
+      "Allu Arjun and director Basil Joseph’s film to go on floors from 2027? Here’s what we know",
+      "O.M Chapter 1 Box Office Collections: Dhanush starrer collects Rs 5.50 crore on Tuesday, grosses Rs 66 crore in 5 days",
+      "ENE Repeat Box Office Collections: Vishwak Sen holds well on 1st Tuesday, collects Rs 26 crore in 6 days"
      ],
      "updated": [],
-     "count": 7,
-     "detail": "+4 articles, +0 box-office rows, 3 rows updated"
+     "count": 377,
+     "detail": "386 stories, 6 duplicates removed, 115 dropped"
     },
     "reason": null
-   },
+   }
+  ],
+  "apply_auto": [
    {
     "step": "apply_auto",
     "category": "Trending News",
@@ -1472,27 +1449,32 @@
      "detail": "+4 articles, +0 box-office rows, 3 rows updated"
     },
     "reason": null
+   },
+   {
+    "step": "apply_auto",
+    "category": "Trending News",
+    "run_at": "2026-11-25T11:52:31Z",
+    "run_id": "45608143089",
+    "status": "success",
+    "checked": {
+     "candidates": 14,
+     "detail": "draft articles + box-office rows from out/gemini-batch.json"
+    },
+    "changed": {
+     "added": [
+      "SS Rajamouli's Varanasi Faces Rumours of Release Date Postponement",
+      "The Legend Of Zelda: The Wind Waker Arrives On PC Via Native Recompilation Project",
+      "Koffee With Karan Season 9 Episode 7 Featuring Akshay Kumar and Ravi Kishan Premieres Tonight",
+      "Lords of the Fallen 2 Sets Target Release Window for April 2027"
+     ],
+     "updated": [],
+     "count": 7,
+     "detail": "+4 articles, +0 box-office rows, 3 rows updated"
+    },
+    "reason": null
    }
   ],
   "ott": [
-   {
-    "step": "ott",
-    "category": "OTT",
-    "run_at": "2026-11-24T11:51:44Z",
-    "run_id": "45387869325",
-    "status": "success",
-    "checked": {
-     "candidates": 419,
-     "detail": "OTT now/coming titles from the published catalogue"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 0,
-     "detail": "now 414, coming 5"
-    },
-    "reason": "no-new-data"
-   },
    {
     "step": "ott",
     "category": "OTT",
@@ -1906,26 +1888,27 @@
      "detail": "now 439, coming 5"
     },
     "reason": "no-new-data"
-   }
-  ],
-  "trending_weekly": [
+   },
    {
-    "step": "trending_weekly",
-    "category": "Trending Topics",
-    "run_at": "2026-11-24T12:58:23Z",
-    "run_id": "45397422797",
+    "step": "ott",
+    "category": "OTT",
+    "run_at": "2026-11-25T11:52:31Z",
+    "run_id": "45608143089",
     "status": "success",
     "checked": {
-     "candidates": 100,
-     "detail": "cached Google RSS trend/article intersection"
+     "candidates": 444,
+     "detail": "OTT now/coming titles from the published catalogue"
     },
     "changed": {
      "added": [],
      "updated": [],
-     "count": 0
+     "count": 0,
+     "detail": "now 439, coming 5"
     },
     "reason": "no-new-data"
-   },
+   }
+  ],
+  "trending_weekly": [
    {
     "step": "trending_weekly",
     "category": "Trending Topics",
@@ -2369,27 +2352,28 @@
      "count": 1
     },
     "reason": null
+   },
+   {
+    "step": "trending_weekly",
+    "category": "Trending Topics",
+    "run_at": "2026-11-25T12:02:13Z",
+    "run_id": "45608143089",
+    "status": "success",
+    "checked": {
+     "candidates": 100,
+     "detail": "cached Google RSS trend/article intersection"
+    },
+    "changed": {
+     "added": [
+      "1f98fib"
+     ],
+     "updated": [],
+     "count": 1
+    },
+    "reason": null
    }
   ],
   "multisource_boxoffice": [
-   {
-    "step": "multisource_boxoffice",
-    "category": "Box Office",
-    "run_at": "2026-11-24T11:59:53Z",
-    "run_id": "45387869325",
-    "status": "success",
-    "checked": {
-     "candidates": 750,
-     "detail": "688 collected staging rows from readers; 256 averaged across 2+ sources"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 4,
-     "detail": "+0 new rows, 4 updated rows, 720 unchanged"
-    },
-    "reason": null
-   },
    {
     "step": "multisource_boxoffice",
     "category": "Box Office",
@@ -2803,19 +2787,27 @@
      "detail": "+0 new rows, 5 updated rows, 724 unchanged"
     },
     "reason": null
+   },
+   {
+    "step": "multisource_boxoffice",
+    "category": "Box Office",
+    "run_at": "2026-11-25T12:02:10Z",
+    "run_id": "45608143089",
+    "status": "success",
+    "checked": {
+     "candidates": 755,
+     "detail": "691 collected staging rows from readers; 258 averaged across 2+ sources"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 5,
+     "detail": "+0 new rows, 5 updated rows, 724 unchanged"
+    },
+    "reason": null
    }
   ],
   "gemini_reviews": [
-   {
-    "step": "gemini_reviews",
-    "category": "Reviews",
-    "run_at": "2026-11-24T12:00:03Z",
-    "run_id": "45387869325",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "gemini_reviews",
     "category": "Reviews",
@@ -3052,32 +3044,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "gemini_reviews",
+    "category": "Reviews",
+    "run_at": "2026-11-25T12:02:29Z",
+    "run_id": "45608143089",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "convert_news": [
-   {
-    "step": "convert_news",
-    "category": "Trending News",
-    "run_at": "2026-11-24T12:58:22Z",
-    "run_id": "45397422797",
-    "status": "success",
-    "checked": {
-     "candidates": 600,
-     "detail": "feed entries from out/queue.json"
-    },
-    "changed": {
-     "added": [
-      "Hugh Grant Horror Hit Heretic Is Leaving Hulu This December",
-      "Love In Disguise Episode 12 OTT Release Details And Streaming Guide",
-      "Why Kundali Bhagya Star Ssanjay Gaggnani Altered His Name Spelling Using Numerology",
-      "OM Worldwide Box Office Day 4: Becomes Dhanush's 6th Highest-Grossing Film Of All Time"
-     ],
-     "updated": [],
-     "count": 4,
-     "detail": "api-news.json 600 items, api-trends.json 12 items"
-    },
-    "reason": null
-   },
    {
     "step": "convert_news",
     "category": "Trending News",
@@ -3585,19 +3564,32 @@
      "detail": "api-news.json 600 items, api-trends.json 12 items"
     },
     "reason": null
+   },
+   {
+    "step": "convert_news",
+    "category": "Trending News",
+    "run_at": "2026-11-25T12:02:12Z",
+    "run_id": "45608143089",
+    "status": "success",
+    "checked": {
+     "candidates": 600,
+     "detail": "feed entries from out/queue.json"
+    },
+    "changed": {
+     "added": [
+      "The Legend Of Zelda: The Wind Waker Arrives On PC Via Native Recompilation Project",
+      "Koffee With Karan Season 9 Episode 7 Featuring Akshay Kumar and Ravi Kishan Premieres Tonight",
+      "Lords of the Fallen 2 Sets Target Release Window for April 2027",
+      "SS Rajamouli's Varanasi Faces Rumours of Release Date Postponement"
+     ],
+     "updated": [],
+     "count": 4,
+     "detail": "api-news.json 600 items, api-trends.json 12 items"
+    },
+    "reason": null
    }
   ],
   "episode_guides": [
-   {
-    "step": "episode_guides",
-    "category": "Drama Episodes",
-    "run_at": "2026-11-24T12:00:03Z",
-    "run_id": "45387869325",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "episode_guides",
     "category": "Drama Episodes",
@@ -3872,19 +3864,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "title_seed": [
+   },
    {
-    "step": "title_seed",
-    "category": "Spotlight / Coming Soon / Most Awaited",
-    "run_at": "2026-11-24T12:00:03Z",
-    "run_id": "45387869325",
+    "step": "episode_guides",
+    "category": "Drama Episodes",
+    "run_at": "2026-11-25T12:02:29Z",
+    "run_id": "45608143089",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "title_seed": [
    {
     "step": "title_seed",
     "category": "Spotlight / Coming Soon / Most Awaited",
@@ -4203,31 +4195,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "title_seed",
+    "category": "Spotlight / Coming Soon / Most Awaited",
+    "run_at": "2026-11-25T12:02:29Z",
+    "run_id": "45608143089",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "gemini_batch": [
-   {
-    "step": "gemini_batch",
-    "category": "Trending News",
-    "run_at": "2026-11-24T11:51:44Z",
-    "run_id": "45387869325",
-    "status": "success",
-    "checked": {
-     "candidates": 6,
-     "detail": "news queue items drafted this run; 345 still unprocessed; today by category: movies 7/6, tv_dramas 10/4, episodes 0/2, box_office 11/6, celebrities_events 11/5, upcoming_releases 2/4, ott_streaming 4/4, trailers 1/3, awards 3/2, music_ost 2/2, viral 1/2"
-    },
-    "changed": {
-     "added": [
-      "Rashmika Mandanna Starrer Mysaa Pushed Five Days Before Premiere",
-      "Ramayana Day 20 Advance Booking Revenue Jumps 28% as Pushpa 2 Lifetime Worldwide Collection Comes Within Reach",
-      "Why Shah Rukh Khan And Siddharth Anand's Upcoming Partnership In King Has Fans Excited",
-      "Netflix Offers Exclusive First Look at Festive Scenes in Upcoming Pride and Prejudice Adaptation"
-     ],
-     "updated": [],
-     "count": 4
-    },
-    "reason": null
-   },
    {
     "step": "gemini_batch",
     "category": "Trending News",
@@ -4720,26 +4700,31 @@
      "count": 4
     },
     "reason": null
+   },
+   {
+    "step": "gemini_batch",
+    "category": "Trending News",
+    "run_at": "2026-11-25T11:52:30Z",
+    "run_id": "45608143089",
+    "status": "success",
+    "checked": {
+     "candidates": 4,
+     "detail": "news queue items drafted this run; 377 still unprocessed; today by category: movies 7/6, tv_dramas 5/4, episodes 0/2, box_office 7/6, celebrities_events 13/5, upcoming_releases 5/4, ott_streaming 5/4, trailers 3/3, awards 4/2, music_ost 1/2, viral 2/2"
+    },
+    "changed": {
+     "added": [
+      "SS Rajamouli's Varanasi Faces Rumours of Release Date Postponement",
+      "The Legend Of Zelda: The Wind Waker Arrives On PC Via Native Recompilation Project",
+      "Koffee With Karan Season 9 Episode 7 Featuring Akshay Kumar and Ravi Kishan Premieres Tonight",
+      "Lords of the Fallen 2 Sets Target Release Window for April 2027"
+     ],
+     "updated": [],
+     "count": 4
+    },
+    "reason": null
    }
   ],
   "overseas_ai": [
-   {
-    "step": "overseas_ai",
-    "category": "Box Office",
-    "run_at": "2026-11-24T11:53:06Z",
-    "run_id": "45387869325",
-    "status": "success",
-    "checked": {
-     "candidates": 59,
-     "detail": "published movies with missing overseas day figures; Tavily searches: 48"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 0
-    },
-    "reason": "no-new-data"
-   },
    {
     "step": "overseas_ai",
     "category": "Box Office",
@@ -5053,24 +5038,26 @@
      "count": 0
     },
     "reason": "no-new-data"
-   }
-  ],
-  "publish": [
+   },
    {
-    "step": "publish",
-    "category": "Trending News",
-    "run_at": "2026-11-24T12:00:03Z",
-    "run_id": "45387869325",
+    "step": "overseas_ai",
+    "category": "Box Office",
+    "run_at": "2026-11-25T11:53:42Z",
+    "run_id": "45608143089",
     "status": "success",
-    "checked": null,
+    "checked": {
+     "candidates": 59,
+     "detail": "published movies with missing overseas day figures; Tavily searches: 48"
+    },
     "changed": {
      "added": [],
      "updated": [],
-     "count": 386,
-     "detail": "lines changed in owned files; no per-item summary from script"
+     "count": 0
     },
-    "reason": null
-   },
+    "reason": "no-new-data"
+   }
+  ],
+  "publish": [
    {
     "step": "publish",
     "category": "Trending News",
@@ -5410,24 +5397,24 @@
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
-   }
-  ],
-  "stats_traffic": [
+   },
    {
-    "step": "stats_traffic",
-    "category": "Stats / Health",
-    "run_at": "2026-11-24T12:00:03Z",
-    "run_id": "45387869325",
+    "step": "publish",
+    "category": "Trending News",
+    "run_at": "2026-11-25T12:02:29Z",
+    "run_id": "45608143089",
     "status": "success",
     "checked": null,
     "changed": {
      "added": [],
      "updated": [],
-     "count": 13,
+     "count": 355,
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
-   },
+   }
+  ],
+  "stats_traffic": [
    {
     "step": "stats_traffic",
     "category": "Stats / Health",
@@ -5717,19 +5704,19 @@
     "checked": null,
     "changed": null,
     "reason": "no-new-data"
+   },
+   {
+    "step": "stats_traffic",
+    "category": "Stats / Health",
+    "run_at": "2026-11-25T12:02:29Z",
+    "run_id": "45608143089",
+    "status": "success",
+    "checked": null,
+    "changed": null,
+    "reason": "no-new-data"
    }
   ],
   "stats_pipeline": [
-   {
-    "step": "stats_pipeline",
-    "category": "Stats / Health",
-    "run_at": "2026-11-24T12:00:03Z",
-    "run_id": "45387869325",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "stats_pipeline",
     "category": "Stats / Health",
@@ -5979,19 +5966,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "stats_health": [
+   },
    {
-    "step": "stats_health",
+    "step": "stats_pipeline",
     "category": "Stats / Health",
-    "run_at": "2026-11-24T12:00:03Z",
-    "run_id": "45387869325",
+    "run_at": "2026-11-25T12:02:29Z",
+    "run_id": "45608143089",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "stats_health": [
    {
     "step": "stats_health",
     "category": "Stats / Health",
@@ -6226,19 +6213,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "metadata_refresh": [
+   },
    {
-    "step": "metadata_refresh",
-    "category": "Spotlight / Coming Soon / Most Awaited",
-    "run_at": "2026-11-24T12:00:03Z",
-    "run_id": "45387869325",
+    "step": "stats_health",
+    "category": "Stats / Health",
+    "run_at": "2026-11-25T12:02:29Z",
+    "run_id": "45608143089",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "metadata_refresh": [
    {
     "step": "metadata_refresh",
     "category": "Spotlight / Coming Soon / Most Awaited",
@@ -6522,19 +6509,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "providers_backfill": [
+   },
    {
-    "step": "providers_backfill",
-    "category": "OTT",
-    "run_at": "2026-11-24T12:00:03Z",
-    "run_id": "45387869325",
+    "step": "metadata_refresh",
+    "category": "Spotlight / Coming Soon / Most Awaited",
+    "run_at": "2026-11-25T12:02:29Z",
+    "run_id": "45608143089",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "providers_backfill": [
    {
     "step": "providers_backfill",
     "category": "OTT",
@@ -6775,19 +6762,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "providers_backfill",
+    "category": "OTT",
+    "run_at": "2026-11-25T12:02:29Z",
+    "run_id": "45608143089",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "tavily_boxoffice": [
-   {
-    "step": "tavily_boxoffice",
-    "category": "Box Office",
-    "run_at": "2026-11-24T12:00:03Z",
-    "run_id": "45387869325",
-    "status": "success",
-    "checked": null,
-    "changed": null,
-    "reason": "no-new-data"
-   },
    {
     "step": "tavily_boxoffice",
     "category": "Box Office",
@@ -7017,19 +7004,19 @@
     "checked": null,
     "changed": null,
     "reason": "no-new-data"
+   },
+   {
+    "step": "tavily_boxoffice",
+    "category": "Box Office",
+    "run_at": "2026-11-25T12:02:29Z",
+    "run_id": "45608143089",
+    "status": "success",
+    "checked": null,
+    "changed": null,
+    "reason": "no-new-data"
    }
   ],
   "keywords_refresh": [
-   {
-    "step": "keywords_refresh",
-    "category": "Trending News",
-    "run_at": "2026-11-24T12:00:03Z",
-    "run_id": "45387869325",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "keywords_refresh",
     "category": "Trending News",
@@ -7282,31 +7269,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "keywords_refresh",
+    "category": "Trending News",
+    "run_at": "2026-11-25T12:02:29Z",
+    "run_id": "45608143089",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "overseas_sweep": [
-   {
-    "step": "overseas_sweep",
-    "category": "Box Office",
-    "run_at": "2026-11-23T11:53:01Z",
-    "run_id": "45168779577",
-    "status": "success",
-    "checked": {
-     "candidates": 602,
-     "detail": "completed day-wise rows missing overseas; quicknews pages fetched: 48; attempt cooldown deferred: 548"
-    },
-    "changed": {
-     "added": [
-      "Ramayana: Rise of a Legend (656908)",
-      "Jailer 2 (1234139)",
-      "Ranabaali (1389379)",
-      "418 (1606527)"
-     ],
-     "updated": [],
-     "count": 11
-    },
-    "reason": null
-   },
    {
     "step": "overseas_sweep",
     "category": "Box Office",
@@ -7818,19 +7793,31 @@
      "count": 14
     },
     "reason": null
+   },
+   {
+    "step": "overseas_sweep",
+    "category": "Box Office",
+    "run_at": "2026-11-25T11:52:49Z",
+    "run_id": "45608143089",
+    "status": "success",
+    "checked": {
+     "candidates": 609,
+     "detail": "completed day-wise rows missing overseas; quicknews pages fetched: 14; attempt cooldown deferred: 595"
+    },
+    "changed": {
+     "added": [
+      "Jailer 2 (1234139)",
+      "Ranabaali (1389379)",
+      "418 (1606527)",
+      "Nayyi Navelli (1654581)"
+     ],
+     "updated": [],
+     "count": 14
+    },
+    "reason": null
    }
   ],
   "advance_booking": [
-   {
-    "step": "advance_booking",
-    "category": "Box Office",
-    "run_at": "2026-11-24T12:00:03Z",
-    "run_id": "45387869325",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "advance_booking",
     "category": "Box Office",
@@ -8070,19 +8057,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "home_boxoffice_worldwide": [
+   },
    {
-    "step": "home_boxoffice_worldwide",
+    "step": "advance_booking",
     "category": "Box Office",
-    "run_at": "2026-11-24T12:00:03Z",
-    "run_id": "45387869325",
+    "run_at": "2026-11-25T12:02:29Z",
+    "run_id": "45608143089",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "home_boxoffice_worldwide": [
    {
     "step": "home_boxoffice_worldwide",
     "category": "Box Office",
@@ -8352,8 +8339,18 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "home_boxoffice_worldwide",
+    "category": "Box Office",
+    "run_at": "2026-11-25T12:02:29Z",
+    "run_id": "45608143089",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ]
  },
- "updated_at": "2026-11-25T10:23:39Z"
+ "updated_at": "2026-11-25T12:02:29Z"
 }
