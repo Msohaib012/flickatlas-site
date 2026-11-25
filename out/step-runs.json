@@ -942,29 +942,6 @@
    {
     "step": "apply_auto",
     "category": "Trending News",
-    "run_at": "2026-11-24T20:51:56Z",
-    "run_id": "45484956098",
-    "status": "success",
-    "checked": {
-     "candidates": 14,
-     "detail": "draft articles + box-office rows from out/gemini-batch.json"
-    },
-    "changed": {
-     "added": [
-      "Jamie Foxx Stars in New Netflix Film Fight for '84 Following 1980 Plane Crash Tragedy",
-      "Bigg Boss 20 Episode 79: Arishfa Khan Breaks Down Over Qazi Touqeer’s Song and ScoutOP Reacts",
-      "Arielle Peppers Breaks Silence After Viral Ugg Boots Comment in Vanity Fair Article",
-      "Ranbir Kapoor and Yash Starrer Ramayana: Part 1 Faces Police Complaint Over Narrative Objections"
-     ],
-     "updated": [],
-     "count": 7,
-     "detail": "+4 articles, +0 box-office rows, 3 rows updated"
-    },
-    "reason": null
-   },
-   {
-    "step": "apply_auto",
-    "category": "Trending News",
     "run_at": "2026-11-24T21:53:03Z",
     "run_id": "45495109637",
     "status": "success",
@@ -1480,6 +1457,24 @@
      "updated": [],
      "count": 7,
      "detail": "+4 articles, +0 box-office rows, 3 rows updated"
+    },
+    "reason": null
+   },
+   {
+    "step": "apply_auto",
+    "category": "Trending News",
+    "run_at": "2026-11-25T21:02:26Z",
+    "run_id": "45691350980",
+    "status": "success",
+    "checked": {
+     "candidates": 15,
+     "detail": "draft articles + box-office rows from out/gemini-batch.json"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 3,
+     "detail": "+0 articles, +0 box-office rows, 3 rows updated"
     },
     "reason": null
    }
@@ -8370,5 +8365,5 @@
    }
   ]
  },
- "updated_at": "2026-11-25T20:40:47Z"
+ "updated_at": "2026-11-25T21:02:26Z"
 }

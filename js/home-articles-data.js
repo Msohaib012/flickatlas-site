@@ -4855,129 +4855,6 @@ window.FA_HOME_ARTICLES = {
     ],
     "published": "2026-11-24T08:52:28Z"
   },
-  "c5dqxe": {
-    "id": "c5dqxe",
-    "type": "news",
-    "headline": "Rony David Raj Starrer Crime Drama Sathyameva Confirms OTT Premiere on ZEE5",
-    "dek": "Malayalam original series Sathyameva starring Rony David Raj and directed by Deepu Karunakaran is set for its digital debut on November 27, 2026.",
-    "entities": {
-      "people": [
-        "Rony David Raj",
-        "Deepu Karunakaran",
-        "Meenakshi Unnikrishnan",
-        "Jayaraj Kozhikode",
-        "Binny Sebastian",
-        "Sohan Seenu Lal",
-        "Meera Nair",
-        "Remya Suresh",
-        "Aji Dhanwanthari",
-        "Aroma Babu",
-        "K S Aravind",
-        "Prakash Rana",
-        "Akshay Kumar M J",
-        "Jonathan Bruce",
-        "Vibin Baskar",
-        "Dr. Aashish Illickal",
-        "Jobish Lal Jodan"
-      ],
-      "titles": [
-        "Sathyameva"
-      ]
-    },
-    "keywords": [
-      "Sathyameva",
-      "Rony David Raj",
-      "Sathyameva OTT release date",
-      "Deepu Karunakaran"
-    ],
-    "images": [
-      {
-        "url": "https://images.filmibeat.com/img/2026/11/sathyameva-98661795507975.jpg",
-        "caption": "Rony David Raj Starrer Crime Drama Sathyameva Confirms OTT Premiere on ZEE5",
-        "source": "FilmiBeat"
-      }
-    ],
-    "published": "Tue, 24 Nov 2026 13:44:47 +0530"
-  },
-  "c4tdqs": {
-    "id": "c4tdqs",
-    "type": "news",
-    "headline": "No Win for India at the 2026 International Emmy Awards as Vir Das and Real Kashmir Football Club Miss Out on Top Honours",
-    "dek": "India's entries at the 2026 International Emmy Awards, including Vir Das's stand-up special and the SonyLIV series Real Kashmir Football Club, failed to secure victories in their respective categories.",
-    "entities": {
-      "people": [
-        "Vir Das",
-        "Michael Urie",
-        "Mohammed Zeeshan Ayyub",
-        "Manav Kaul",
-        "Mahesh Mathai",
-        "Rajesh Mapuskar",
-        "Vijay Sethupathi",
-        "Riya Sharma"
-      ],
-      "titles": [
-        "Vir Das: Fool Volume",
-        "División Palermo – Season 2",
-        "Vir Das: Landing",
-        "Derry Girls",
-        "Real Kashmir Football Club",
-        "A Thousand Blows",
-        "Carême",
-        "Menem"
-      ]
-    },
-    "keywords": [
-      "Vir Das International Emmy Awards 2026",
-      "Real Kashmir Football Club series",
-      "International Emmy Awards 2026 India",
-      "Vir Das Fool Volume Netflix"
-    ],
-    "images": [
-      {
-        "url": "https://www.hindustantimes.com/ht-img/img/2026/11/24/1600x900/logo/Vir_Emmysss_1795490638268_Voqw_1795490652463_3j6k_6d743d60-701e-4c43-b5ba-e46b59caa210_PlwN.jpg",
-        "caption": "No Win for India at the 2026 International Emmy Awards as Vir Das and Real Kashmir Football Club Miss Out on Top Honours",
-        "source": "Hindustan Times — Entertainment"
-      }
-    ],
-    "published": "Tue, 24 Nov 2026 09:25:12 +0530"
-  },
-  "1vklp4v": {
-    "id": "1vklp4v",
-    "type": "news",
-    "headline": "International Emmy Awards 2026: Vir Das and Real Kashmir Football Club Miss Out on Trophies",
-    "dek": "The 54th International Emmy Awards announced its complete winners list across sixteen categories, leaving Indian contenders Vir Das and Real Kashmir Football Club without wins.",
-    "entities": {
-      "people": [
-        "Vir Das",
-        "Bobby Schofield",
-        "Louis Theroux"
-      ],
-      "titles": [
-        "Vir Das: Fool Volume",
-        "Carême",
-        "División Palermo",
-        "Unforgivable",
-        "Holy Sh!t",
-        "Louis Theroux: The Settlers",
-        "Prisoner 951",
-        "Leyla"
-      ]
-    },
-    "keywords": [
-      "International Emmy Awards 2026",
-      "Vir Das",
-      "Real Kashmir Football Club",
-      "Vir Das Fool Volume"
-    ],
-    "images": [
-      {
-        "url": "https://filmfare.wwmindia.com/content/2026/nov/emmys11795490334.jpg",
-        "caption": "International Emmy Awards 2026: Vir Das and Real Kashmir Football Club Miss Out on Trophies",
-        "source": "Filmfare"
-      }
-    ],
-    "published": "2026-11-24T08:54:58+05:30"
-  },
   "1q8blpb": {
     "id": "1q8blpb",
     "type": "news",
@@ -5083,6 +4960,53 @@ window.FA_HOME_ARTICLES = {
       }
     ],
     "published": "2026-11-23T15:00:06Z"
+  },
+  "1kx4fx1": {
+    "id": "1kx4fx1",
+    "type": "news",
+    "headline": "Blackpink's Jennie Makes History on Grand Theft Auto VI Soundtrack With 'Power Trip'",
+    "dek": "The K-pop sensation joins the official album for Rockstar Games' latest release alongside global stars like Dua Lipa and Burna Boy, while fellow bandmate Jisoo's track also lands in the game.",
+    "entities": {
+      "people": [
+        "Jennie",
+        "Dua Lipa",
+        "Lana Del Rey",
+        "Burna Boy",
+        "Alexander Guy Cook",
+        "Badriia Bibi Bourelly",
+        "Corey Marlon Lindsay-Keay",
+        "Travis Scott",
+        "Yung Lean",
+        "Future",
+        "Metro Boomin",
+        "Jisoo"
+      ],
+      "titles": [
+        "Grand Theft Auto VI",
+        "Power Trip",
+        "Grand Theft Auto VI: The Album",
+        "RHYNO",
+        "That's It",
+        "Steps",
+        "Someone to Hold",
+        "Earthquake",
+        "Flash FM"
+      ]
+    },
+    "keywords": [
+      "Jennie Power Trip",
+      "GTA VI Soundtrack",
+      "Blackpink Jennie GTA 6",
+      "Jisoo Earthquake GTA VI"
+    ],
+    "images": [
+      {
+        "url": "https://images.timesnownews.com/thumb/msid-156549584,thumbsize-759479,width-1280,height-720,resizemode-75/156549584.jpg",
+        "caption": "Blackpink's Jennie Makes History on Grand Theft Auto VI Soundtrack With 'Power Trip'",
+        "source": "Times Now — Entertainment"
+      }
+    ],
+    "published": "2026-11-22T20:11:10Z"
   },
   "1yaww0u": {
     "id": "1yaww0u",
@@ -5265,6 +5189,41 @@ window.FA_HOME_ARTICLES = {
       }
     ],
     "published": "2026-11-22T15:00:16Z"
+  },
+  "tuw87f": {
+    "id": "tuw87f",
+    "type": "news",
+    "headline": "GTA VI Shatters Records With $3.79 Billion Opening Day",
+    "dek": "Grand Theft Auto VI has emerged as the biggest entertainment launch in history, surpassing both previous gaming milestones and global cinematic box office records within its first 24 hours.",
+    "entities": {
+      "people": [
+        "Mimansa Shekhar",
+        "Sam Houser",
+        "Lucia",
+        "Jason",
+        "Strauss Zelnick"
+      ],
+      "titles": [
+        "GTA VI",
+        "Avengers: Endgame",
+        "GTA V",
+        "Grand Theft Auto VI"
+      ]
+    },
+    "keywords": [
+      "GTA VI",
+      "Grand Theft Auto VI",
+      "Lucia and Jason Vise City",
+      "GTA VI Avengers Endgame box office"
+    ],
+    "images": [
+      {
+        "url": "https://images.timesnownews.com/thumb/msid-156545749,thumbsize-757451,width-1280,height-720,resizemode-75/156545749.jpg",
+        "caption": "GTA VI Shatters Records With $3.79 Billion Opening Day",
+        "source": "Times Now — Entertainment"
+      }
+    ],
+    "published": "2026-11-21T21:52:17Z"
   },
   "1pqbmve": {
     "id": "1pqbmve",
@@ -5467,41 +5426,6 @@ window.FA_HOME_ARTICLES = {
       }
     ],
     "published": "2026-11-21T14:45:06Z"
-  },
-  "hh8oze": {
-    "id": "hh8oze",
-    "type": "news",
-    "headline": "Ravi Kishan Makes His Koffee With Karan Debut Alongside Akshay Kumar in Season 9",
-    "dek": "Actor Ravi Kishan steps onto the Koffee With Karan couch for the very first time, joining Akshay Kumar in an unexpected pairing orchestrated by host Karan Johar for the final season.",
-    "entities": {
-      "people": [
-        "Ravi Kishan",
-        "Akshay Kumar",
-        "Karan Johar",
-        "Janhvi Kapoor",
-        "Varun Dhawan",
-        "Ananya Panday"
-      ],
-      "titles": [
-        "Koffee With Karan",
-        "Rowdy Rathore",
-        "Pitch To Get Rich 2"
-      ]
-    },
-    "keywords": [
-      "Ravi Kishan Koffee With Karan debut",
-      "Akshay Kumar Ravi Kishan Koffee With Karan",
-      "Koffee With Karan Season 9 JioHotstar",
-      "Ravi Kishan Bihar ka Brad Pitt"
-    ],
-    "images": [
-      {
-        "url": "https://images.indianexpress.com/2026/11/Akshay-and-Ravi-appear-on-KWK.jpg",
-        "caption": "Ravi Kishan Makes His Koffee With Karan Debut Alongside Akshay Kumar in Season 9",
-        "source": "Indian Express — Entertainment"
-      }
-    ],
-    "published": "Sat, 21 Nov 2026 10:34:50 +0000"
   },
   "f4xobf": {
     "id": "f4xobf",
