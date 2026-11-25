@@ -1,6 +1,6 @@
 {
  "bucket": "37",
- "count": 68,
+ "count": 69,
  "titles": {
   "movie:10337": {
    "backdrop_path": "/t353Hj5sFXWQFriVzB1GiT3TSlm.jpg",
@@ -6590,6 +6590,108 @@
    "type": "movie",
    "vote_average": 6.546,
    "vote_count": 217
+  },
+  "movie:8937": {
+   "backdrop_path": "/1aAR1XHBYaqnKzRUH3bL7KpXMhs.jpg",
+   "budget": 2000000,
+   "cast": [
+    {
+     "c": "Ryuhei Sasaki",
+     "n": "Teruyuki Kagawa"
+    },
+    {
+     "c": "Megumi Sasaki",
+     "n": "Kyoko Koizumi"
+    },
+    {
+     "c": "Kenji Sasaki",
+     "n": "Kai Inowaki"
+    },
+    {
+     "c": "Takashi Sasaki",
+     "n": "Yu Koyanagi"
+    },
+    {
+     "c": "Kaneko",
+     "n": "Haruka Igawa"
+    },
+    {
+     "c": "Kurosu",
+     "n": "Kanji Tsuda"
+    },
+    {
+     "c": "Mr. Kobayashi",
+     "n": "Kazuya Kojima"
+    },
+    {
+     "c": "Robber",
+     "n": "Koji Yakusho"
+    },
+    {
+     "c": "",
+     "n": "Takashi Kodama"
+    },
+    {
+     "c": "",
+     "n": "Hajime Inoue"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "IIA",
+   "date_kind": "release",
+   "director": [
+    "Kiyoshi Kurosawa"
+   ],
+   "genres": [
+    "Drama"
+   ],
+   "id": 8937,
+   "industry": "world",
+   "origin_country": [
+    "JP"
+   ],
+   "original_language": "ja",
+   "overview": "The winds of change blow as a family grapples with unemployment, alienation, mistrust and a lack of communication. When a Japanese salaryman loses his job to outsourcing to China, it's simply the beginning of a series of shattering incidents, leading to the implosion of the family unit.",
+   "popularity": 2.4747,
+   "poster_path": "/6Y0ZRyh5eH7WLY4fcF92swhtgUz.jpg",
+   "production_countries": [
+    "JP",
+    "NL"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-25",
+   "release_date": "2008-09-27",
+   "revenue": 943547,
+   "runtime": 120,
+   "source": "catalogue",
+   "spoken_languages": [
+    "ja"
+   ],
+   "status": "Released",
+   "tagline": "Every family has its secrets.",
+   "title": "Tokyo Sonata",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 7.426,
+   "vote_count": 299
   },
   "movie:945937": {
    "backdrop_path": "/zX0q1hPRon0SAIcRmTum06Khjll.jpg",

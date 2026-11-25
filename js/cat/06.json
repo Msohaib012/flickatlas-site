@@ -1,6 +1,6 @@
 {
  "bucket": "06",
- "count": 77,
+ "count": 78,
  "titles": {
   "movie:10206": {
    "backdrop_path": "/qMf1MuY9u6BfBYTscEjWbIlWMrg.jpg",
@@ -7321,6 +7321,110 @@
    "type": "movie",
    "vote_average": 6.636,
    "vote_count": 433
+  },
+  "movie:843906": {
+   "backdrop_path": "/26LIw3oKGPUEGUpb8AXZ64dZZt8.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Shaggy Rogers (voice)",
+     "n": "Matthew Lillard"
+    },
+    {
+     "c": "Muriel Bagge / Rich Old Lady (voice)",
+     "n": "Thea White"
+    },
+    {
+     "c": "Daphne Blake / Frau Glockenspiel (voice)",
+     "n": "Grey DeLisle"
+    },
+    {
+     "c": "Scooby-Doo / Fred Jones (voice)",
+     "n": "Frank Welker"
+    },
+    {
+     "c": "Velma Dinkley (voice)",
+     "n": "Kate Micucci"
+    },
+    {
+     "c": "The General / Self Help Book (voice)",
+     "n": "Jeff Bennett"
+    },
+    {
+     "c": "Katz / Le Quack / Narrator (voice)",
+     "n": "Paul Schoeffler"
+    },
+    {
+     "c": "Courage / Mr. McGill (voice)",
+     "n": "Marty Grabstein"
+    },
+    {
+     "c": "Eustice Bagge / Computer / Mayor of Nowhere (voice)",
+     "n": "Jeff Bergman"
+    },
+    {
+     "c": "The Lieutenant / Mr. Glockenspiel (voice)",
+     "n": "Chuck Montgomery"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG",
+   "date_kind": "release",
+   "director": [
+    "Cecilia Aranovich"
+   ],
+   "genres": [
+    "Animation",
+    "Mystery"
+   ],
+   "id": 843906,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "With Mystery, Inc. on the tail of a strange object in Nowhere, Kansas, the strange hometown of Eustace, Muriel, and Courage, the gang soon find themselves contending with a giant cicada monster and her winged warriors.",
+   "popularity": 2.9348,
+   "poster_path": "/rlQJnQfPgaSGQtyMw35VOIqoIsj.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Now TV Cinema"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-25",
+   "release_date": "2021-09-14",
+   "revenue": 0,
+   "runtime": 72,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Two hounds are better than one!",
+   "title": "Straight Outta Nowhere: Scooby-Doo! Meets Courage the Cowardly Dog",
+   "trailer": {
+    "key": "2vnTvMK3vVc",
+    "name": "Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.6,
+   "vote_count": 419
   },
   "movie:872906": {
    "backdrop_path": "/5LtSjMNw6j3LkG29Oa4O0iY5U8.jpg",
