@@ -247805,5 +247805,386 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Wed, 25 Nov 2026 23:07:32 +0530"
+  },
+  "131cenm": {
+    "id": "131cenm",
+    "type": "news",
+    "headline": "Manish Goel Reacts to Viral Professor Reels Following Bigg Boss 20 Clash With Qazi Touqeer",
+    "dek": "Television actor Manish Goel shares his amusing reaction to the internet obsession surrounding his viral dialogue from Bigg Boss 20, touching upon international edits, his unexpected exit, and his relationship with fellow contestant Qazi Touqeer.",
+    "body": [
+      {
+        "h": "The Clash That Sparked a Social Media Phenomenon",
+        "p": [
+          "Reality television often births unexpected catchphrases, but few have reached the cultural saturation of a recent exchange on Bigg Boss 20. During a tense nominations round inside the house, contestant Qazi Touqeer hurled a remark at Manish Goel, telling him that he looked like a professor. The comment visibly triggered Goel, who hit back sharply with a retort claiming he did not.",
+          "What began as a heated verbal sparring match quickly transcended the boundaries of the reality show. The audio snippet captured from their argument spread like wildfire across social media platforms, transforming into prime meme material and generating a massive online trend that internet users could not ignore."
+        ]
+      },
+      {
+        "h": "From Reality TV to International Recognition",
+        "p": [
+          "The audio trend did not just stay local; it crossed international borders in astonishing ways. Netizens began pairing the dialogue with various pop culture icons, leading to creative crossovers such as a Money Heist-inspired reel featuring Álvaro Morte's famous character, The Professor, and even a humorous recreation by Liverpool FC.",
+          "Reflecting on the digital explosion, Manish Goel admitted in an interview that he felt as though he had achieved international fame. Having entered the reality show with a modest 9,000 followers and a firm belief that his acting work should speak for itself, discovering the scale of the trend via his daughter left him completely astounded."
+        ]
+      },
+      {
+        "h": "Surprise at the Scale of Digital Edits",
+        "p": [
+          "Goel confessed that he had never been heavily invested in social media culture prior to his stint on the program. However, upon returning home and witnessing the sheer volume of custom edits, his perspective underwent a major shift.",
+          "He noted that seeing dozens of versions of the professor video circulating in a single morning made him truly comprehend the reach of internet culture. The actor also expressed gratitude upon learning that one of the viral Instagram reels incorporating his moment had crossed the milestone of twenty million views."
+        ]
+      },
+      {
+        "h": "The Exit and Health Concerns",
+        "p": [
+          "Manish's journey on Bigg Boss 20 was cut short due to an unforeseen physical setback. Suffering an unexpected leg injury as the competition neared its crucial final days, the television star made the conscious choice to walk out of the house rather than risk being physically unable to perform.",
+          "Despite having to leave prematurely, Goel shared that he felt immensely overwhelmed by the affectionate response from viewers. He walked away from the high-pressure environment feeling proud that he managed to maintain his dignity and sanity intact throughout the ordeal."
+        ]
+      },
+      {
+        "h": "Reflecting on Salman Khan's Words and Past Work",
+        "p": [
+          "Leaving the reality show with his head held high, Goel credited the supportive remarks made by host Salman Khan during his exit as a major source of comfort. He appreciated the kind words and felt validated by the overall experience.",
+          "Known for his notable work in television dramas such as Kasautii Zindagii Kay, the actor proved that his decades of television experience helped him navigate the turbulent dynamics of the reality house gracefully."
+        ]
+      },
+      {
+        "h": "Perspective on Qazi Touqeer and Artistic Journeys",
+        "p": [
+          "Despite their initial hostility and the viral clash that ignited the internet, Manish held no lingering bitterness toward Qazi Touqeer. In fact, he offered high praise for the Fame Gurukul star, commending his soulful voice and expressing genuine admiration for his musical talent.",
+          "Reflecting on Qazi's career path, Goel philosophically noted that success and recognition manifest at different stages for various artists. While some individuals receive their due early in life, others must endure a much longer waiting period before achieving widespread acclaim."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Manish Goel has reacted to the viral internet trend spawned by his heated clash with Qazi Touqeer on Bigg Boss 20, where he was told he looked like a professor. The actor expressed amazement at the international scale of the memes, which included edits from Money Heist and Liverpool FC, alongside his reel crossing twenty million views. Having walked out of the show due to a leg injury, Goel remains grateful for the public response, praised Salman Khan's words, and offered kind thoughts on Qazi's musical talent."
+        ]
+      }
+    ],
+    "facts": [
+      "Manish Goel appeared on Bigg Boss 20.",
+      "Qazi Touqeer called Manish Goel a professor during a nominations round.",
+      "Manish Goel entered Bigg Boss 20 with 9,000 followers.",
+      "One of Manish Goel's viral reels crossed 20 million views on Instagram.",
+      "Manish Goel left Bigg Boss 20 following an unexpected leg injury.",
+      "Manish Goel previously starred in Kasautii Zindagii Kay."
+    ],
+    "entities": {
+      "people": [
+        "Manish Goel",
+        "Qazi Touqeer",
+        "Álvaro Morte",
+        "Salman Khan",
+        "Simran Khan"
+      ],
+      "titles": [
+        "Bigg Boss 20",
+        "Money Heist",
+        "Kasautii Zindagii Kay",
+        "Fame Gurukul"
+      ]
+    },
+    "keywords": [
+      "Manish Goel",
+      "Qazi Touqeer",
+      "Bigg Boss 20",
+      "Manish Goel professor reels"
+    ],
+    "images": [
+      {
+        "url": "https://images.timesnownews.com/thumb/msid-156562524,thumbsize-495617,width-1280,height-720,resizemode-75/156562524.jpg",
+        "caption": "Manish Goel Reacts to Viral Professor Reels Following Bigg Boss 20 Clash With Qazi Touqeer",
+        "source": "Times Now — Entertainment"
+      }
+    ],
+    "published": "2026-11-25T18:52:48Z"
+  },
+  "16a3wdk": {
+    "id": "16a3wdk",
+    "type": "news",
+    "headline": "SAS Rogue Heroes Season 3: Bobby Schofield Confirms Reduced Role for Dave Kershaw",
+    "dek": "Actor Bobby Schofield has revealed that his character Dave Kershaw will only make a minor appearance in the upcoming third season of the hit BBC drama due to scheduling conflicts.",
+    "body": [
+      {
+        "h": "Reduced Screen Time in Season 3",
+        "p": [
+          "Viewers preparing for the third season of the popular BBC period war drama SAS Rogue Heroes will see less of a familiar face when the show returns. Bobby Schofield, who has portrayed Dave Kershaw since the series first launched, has confirmed that his presence will be scaled back significantly in the upcoming episodes. The actor candidly admitted during an appearance at the RTS North West Awards that he will not feature prominently in the new run.",
+          "While discussing his commitments with Digital Spy, Schofield explained that he was simply not on screen as much this time around. Fans who have grown attached to Kershaw's contributions to the wartime narrative will have to adjust to a smaller character arc as the historical drama progresses into its next major chapter on television."
+        ]
+      },
+      {
+        "h": "Scheduling Conflicts and New Projects",
+        "p": [
+          "The primary reason behind Schofield's limited availability for the historical series boils down to conflicting professional engagements. The actor noted that he was occupied with a different production during filming, making it impossible for him to commit to SAS Rogue Heroes to the extent he would have preferred.",
+          "Although the actor did not explicitly confirm the exact title that pulled him away, recent casting announcements place him in a high-profile cinematic project. Schofield was previously cast as Neil Aspinall—the Beatles' road manager, personal assistant, and eventual chief executive of Apple Corps—in Sam Mendes's ambitious upcoming multi-film cinematic event centered around the legendary band."
+        ]
+      },
+      {
+        "h": "A Personal Passion Project",
+        "p": [
+          "Stepping away from a major television role was not a decision taken lightly, especially given Schofield's personal connection to his new professional endeavor. The actor shared that he holds a deep academic interest in history, making his biographical involvement in the Beatles film series a true passion project.",
+          "Balancing historical authenticity with cinematic storytelling has always been a key draw for Schofield's career choices. His enthusiasm for the subject matter helped ease the difficult transition of reducing his time on the set of Steven Knight's gritty military drama."
+        ]
+      },
+      {
+        "h": "Setting the Stage for Season 3",
+        "p": [
+          "This casting update arrives hot on the heels of newly released first-look imagery for the third season of SAS Rogue Heroes. The upcoming run is officially scheduled to broadcast on BBC One and the BBC iPlayer streaming platform next year, generating considerable excitement among drama enthusiasts.",
+          "The narrative arc shifts its focus to the summer of 1944 in France, where Paddy Mayne and his elite unit have parachuted behind enemy lines. Tasked with disrupting the German army to support ongoing Allied advances, the characters must navigate perilous circumstances alongside the French resistance."
+        ]
+      },
+      {
+        "h": "Returning Cast and Characters",
+        "p": [
+          "Despite Schofield's reduced participation, a large portion of the core ensemble cast is returning to reprise their roles for the third season. Jack O'Connell is set to return as Paddy Mayne, alongside Theo Barklem-Biggs as Reg Seekings, Corin Silva as Jim Almonds, and Jacob Ifan as Pat Riley.",
+          "Other familiar faces heading back to the screen include Stuart Campbell as Bill Fraser, Jack Barton as John Tonkin, Sofia Boutella as Eve Mansour, Dominic West as Dudley Clarke, and Jacob McCarthy as Johnny Cooper, ensuring continuity for the continuing wartime saga."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Bobby Schofield has confirmed that his character Dave Kershaw will have a reduced role in the third season of SAS Rogue Heroes due to filming a separate passion project. The upcoming season is set to air next year on BBC One and iPlayer, featuring the return of several major cast members alongside new historical settings in 1944 France."
+        ]
+      }
+    ],
+    "facts": [
+      "Bobby Schofield plays Dave Kershaw in SAS Rogue Heroes.",
+      "Schofield's role in season 3 is reduced because he was on a different job.",
+      "Schofield was cast as Neil Aspinall in Sam Mendes's The Beatles – A Four-Film Cinematic Event.",
+      "Season 3 of SAS Rogue Heroes is set in summer 1944 in France.",
+      "Season 3 is expected to air on BBC One and iPlayer next year."
+    ],
+    "entities": {
+      "people": [
+        "Bobby Schofield",
+        "Steven Knight",
+        "Neil Aspinall",
+        "Sam Mendes",
+        "Theo Barklem-Biggs",
+        "Jack O'Connell",
+        "Corin Silva",
+        "Jacob Ifan",
+        "Stuart Campbell",
+        "Jack Barton",
+        "Sofia Boutella",
+        "Dominic West",
+        "Jacob McCarthy"
+      ],
+      "titles": [
+        "SAS Rogue Heroes",
+        "The Beatles – A Four-Film Cinematic Event"
+      ]
+    },
+    "keywords": [
+      "SAS Rogue Heroes season 3",
+      "Bobby Schofield Dave Kershaw",
+      "SAS Rogue Heroes BBC drama",
+      "Steven Knight SAS Rogue Heroes"
+    ],
+    "images": [
+      {
+        "url": "https://images.production.immediate.co.uk/volatile/sites/3/2024/09/SASRHS2firstlooks9-9f9a5ec.jpg?resize=1200%2C630",
+        "caption": "SAS Rogue Heroes Season 3: Bobby Schofield Confirms Reduced Role for Dave Kershaw",
+        "source": "Radio Times"
+      }
+    ],
+    "published": "Wed, 25 Nov 2026 17:17:59 GMT"
+  },
+  "19nbk0p": {
+    "id": "19nbk0p",
+    "type": "news",
+    "headline": "Pakistani Series 'Jo Bachay Hain Sang Samait Lo' Sparks Fresh Controversy as Indian Film Bodies Demand a Complete Ban",
+    "dek": "Netflix's upcoming original series starring Fawad Khan has triggered a political and cultural row, prompting calls for a permanent ban in India and sharp rebukes from Pakistani officials.",
+    "body": [
+      {
+        "h": "The Core Controversy",
+        "p": [
+          "The debut Pakistani original production for Netflix, titled 'Jo Bachay Hain Sang Samait Lo', has immediately stirred intense controversy prior to its scheduled premiere. Prominent Indian film bodies have formally petitioned the Prime Minister to enforce a complete prohibition on the series.",
+          "The unfolding dispute highlights long-standing cultural sensitivities between neighboring nations, placing the streaming platform in a delicate position as it navigates competing demands from industry organizations and political figures."
+        ]
+      },
+      {
+        "h": "Trailer Release and Star-Studded Cast",
+        "p": [
+          "The official trailer for the drama was released on Tuesday, showcasing a prominent ensemble cast featuring celebrated performers Fawad Khan, Mahira Khan, and Sanam Saeed. The production is slated for release on December 4, though its exact geographical availability in India remains unconfirmed.",
+          "Despite the heavy anticipation surrounding the project and its glamorous trailer unveiling at Karachi's Mohatta Palace, the streaming service has maintained total silence regarding the mounting pressure to restrict the show."
+        ]
+      },
+      {
+        "h": "Political Reactions and the #GrowUpIndia Debate",
+        "p": [
+          "Responding to the calls for censorship, Pakistan's planning minister Ahsan Iqbal took to social media to criticize the push, employing the hashtag #GrowUpIndia. He accused Indian institutions of weaponizing various domains, transitioning from sports and water resources to culture and arts.",
+          "Iqbal questioned the security logic of viewing a television series as a national threat, advocating for artists to create and audiences to decide freely. Echoing these sentiments, actor Ayesha Omer publicly supported the notion of unfettered artistic expression."
+        ]
+      },
+      {
+        "h": "Industry Anxiety Across the Border",
+        "p": [
+          "The ongoing demands for a ban have induced significant apprehension within Pakistan's entertainment and film fraternity. Industry stakeholders worry that Indian authorities might implement stricter barriers affecting digital content distribution across multiple platforms including YouTube.",
+          "Cinema owner and producer Nadeem Mandviwalla noted that the ultimate resolution of this standoff will heavily influence how global streaming giants invest in and handle original Pakistani content moving forward."
+        ]
+      },
+      {
+        "h": "Insights from Analysts and Advertising Experts",
+        "p": [
+          "Film critic and podcaster Omair Alavi suggested that the successful digital footprint of Pakistani dramas on YouTube has unsettled parts of the Indian entertainment sector. Despite a freeze in bilateral cultural exchanges, certain programs continue to capture substantial international viewership.",
+          "Advertising agency owner Jamal Mir emphasized that Indian audiences remain crucial for the financial success of Pakistani streaming ventures, warning that a localized ban would negatively impact both the platform and regional creators who share deep cultural ties."
+        ]
+      },
+      {
+        "h": "Background of the Anticipated Series",
+        "p": [
+          "Created, directed, and produced by Momina Duraid, the series is an adaptation of Farhat Ishtiaq's bestselling 2013 Urdu novel and carries the international title 'All the Love Our Hearts Carry'. The narrative weaves together six interconnected romances spanning three generations.",
+          "The extensive production timeline spanned eight years, bringing together a vast cast that includes Ahad Raza Mir, Iqra Aziz, Hania Aamir, and Hamza Ali Abbasi alongside the lead trio, many of whom have previously collaborated on acclaimed romantic dramas."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Indian film organizations have requested a ban on Netflix's new series 'Jo Bachay Hain Sang Samait Lo', prompting a sharp response from Pakistani minister Ahsan Iqbal. The controversy surrounds the December release of the Fawad Khan starrer, raising concerns about the future of cross-border streaming content."
+        ]
+      }
+    ],
+    "facts": [
+      "The controversy involves the Pakistani show 'Jo Bachay Hain Sang Samait Lo'.",
+      "Indian film bodies wrote to Prime Minister Narendra Modi demanding a ban.",
+      "Ahsan Iqbal is Pakistan's planning minister who responded with #GrowUpIndia.",
+      "The trailer was released on Tuesday.",
+      "The series is due on December 4.",
+      "Cast members include Fawad Khan, Mahira Khan, and Sanam Saeed.",
+      "The All Indian Cine Workers Association urged New Delhi to permanently ban Pakistani content.",
+      "Nadeem Mandviwalla is a producer and Cineplex owner.",
+      "Omair Alavi is a film critic and podcaster.",
+      "Jamal Mir is an advertising agency owner.",
+      "Momina Duraid created, directed, and produced the series.",
+      "The series is based on Farhat Ishtiaq's 2013 bestselling Urdu novel.",
+      "The international title of the series is 'All the Love Our Hearts Carry'.",
+      "Other cast members include Ahad Raza Mir, Iqra Aziz, Hania Aamir, and Hamza Ali Abbasi.",
+      "The project took eight years to complete.",
+      "The trailer was unveiled at Karachi's Mohatta Palace."
+    ],
+    "entities": {
+      "people": [
+        "Fawad Khan",
+        "Mahira Khan",
+        "Sanam Saeed",
+        "Ahsan Iqbal",
+        "Ayesha Omer",
+        "Nadeem Mandviwalla",
+        "Omair Alavi",
+        "Jamal Mir",
+        "Momina Duraid",
+        "Farhat Ishtiaq",
+        "Ahad Raza Mir",
+        "Iqra Aziz",
+        "Hania Aamir",
+        "Hamza Ali Abbasi"
+      ],
+      "titles": [
+        "Jo Bachay Hain Sang Samait Lo",
+        "All the Love Our Hearts Carry",
+        "Dar-e-Nijat",
+        "Humsafar",
+        "Zindagi Gulzar Hai",
+        "Barzakh"
+      ]
+    },
+    "keywords": [
+      "Jo Bachay Hain Sang Samait Lo",
+      "Fawad Khan Netflix series",
+      "Ahsan Iqbal India grow up",
+      "FWICE AICWA ban Pakistani show"
+    ],
+    "images": [
+      {
+        "url": "https://static.toiimg.com/thumb/msid-136168260,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "caption": "Pakistani Series 'Jo Bachay Hain Sang Samait Lo' Sparks Fresh Controversy as Indian Film Bodies Demand a Complete Ban",
+        "source": "Times of India — Entertainment"
+      }
+    ],
+    "published": "2026-11-25T22:21:03+05:30"
+  },
+  "1n6rj5z": {
+    "id": "1n6rj5z",
+    "type": "news",
+    "headline": "Thor and Steve Rogers Confront Victor Von Doom in New Avengers: Doomsday Teaser",
+    "dek": "A fresh international promotional spot for Marvel Studios' upcoming blockbuster showcases a major reunion for foundational MCU heroes.",
+    "body": [
+      {
+        "h": "Marvel Studios Debuts New Teaser",
+        "p": [
+          "Marvel Studios is reaching the final stages of its promotional rollout for what is projected to be one of the largest theatrical events in the Marvel Cinematic Universe. The upcoming fifth installment in the franchise's premier superhero team-up series has generated massive excitement among comic book film enthusiasts worldwide.",
+          "The studio recently unveiled a fresh international promotional spot that gives audiences another brief glimpse at the unfolding narrative. While incorporating some previously seen footage, this 31-second preview delivers a brand new moment that immediately captured the attention of the fandom."
+        ]
+      },
+      {
+        "h": "Focus on Foundational Heroes",
+        "p": [
+          "The newly released teaser culminates in a striking visual featuring two of the cinematic universe's longest-serving protagonists. Chris Evans returns as Steve Rogers alongside Chris Hemsworth as Thor, setting up a high-stakes encounter within the film.",
+          "Both characters have experienced extensive narrative journeys throughout the franchise. Previous promotional material has highlighted Steve Rogers exploring a domestic life as a father alongside Hayley Atwell's Peggy Carter, while Thor has been shown seeking divine strength from the All-fathers for the looming war."
+        ]
+      },
+      {
+        "h": "Facing Off Against Doctor Doom",
+        "p": [
+          "The concluding sequence of the international promotional spot places Steve Rogers and Thor directly in front of a massive staircase. This imposing architecture leads straight to the throne of Victor Von Doom, setting the stage for an intense confrontation.",
+          "The formidable antagonist is portrayed by Robert Downey Jr., marking a dramatic shift for the actor within the cinematic universe. This upcoming interaction serves as the first time these specific characters come face-to-face with the new villain."
+        ]
+      },
+      {
+        "h": "Echoes of Avengers: Endgame",
+        "p": [
+          "The last instance these three iconic figures shared the screen together occurred during the climactic battles of the 2019 blockbuster Avengers: Endgame. In that memorable sequence, Iron Man, Captain America, and Thor approached Josh Brolin's Thanos amidst the ruins of the destroyed headquarters.",
+          "With a gap of seven years separating that previous encounter from this upcoming narrative, the dynamic carries immense weight. Furthermore, Downey's transition from portraying the heroic Tony Stark to the villainous Victor Von Doom adds a surreal layer to the interaction."
+        ]
+      },
+      {
+        "h": "Speculation Surrounding the Narrative",
+        "p": [
+          "As anticipation builds for the theatrical release, observers and fans continue to analyze the placement of these scenes within the overarching story. Rumors and speculation suggest that much of the promotional footage originates from the early portions of the narrative.",
+          "The massive production is slated to bring together the modern roster of MCU figures alongside numerous legacy actors who first inhabited their roles over two decades ago. This unprecedented crossover aims to deliver an experience unlike anything previously attempted by the studio."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "A newly released international promotional spot for Avengers: Doomsday features a brief glimpse of Steve Rogers and Thor approaching Victor Von Doom's throne. This upcoming encounter marks the first time these veteran heroes will share the screen with Robert Downey Jr.'s villainous character since their last appearance together in Avengers: Endgame."
+        ]
+      }
+    ],
+    "facts": [
+      "Avengers: Doomsday is scheduled for release on December 18, 2026.",
+      "Robert Downey Jr. plays Victor Von Doom.",
+      "Chris Evans returns as Steve Rogers and Chris Hemsworth returns as Thor.",
+      "The international trailer is 31 seconds long."
+    ],
+    "entities": {
+      "people": [
+        "Robert Downey Jr.",
+        "Chris Evans",
+        "Chris Hemsworth",
+        "Hayley Atwell",
+        "Josh Brolin"
+      ],
+      "titles": [
+        "Avengers: Doomsday",
+        "Avengers: Endgame",
+        "Avatar: Fire and Ash"
+      ]
+    },
+    "keywords": [
+      "Avengers Doomsday trailer",
+      "Chris Evans Steve Rogers Thor",
+      "Robert Downey Jr Victor Von Doom",
+      "Avengers Doomsday international teaser"
+    ],
+    "images": [
+      {
+        "url": "https://static0.moviewebimages.com/wordpress/wp-content/uploads/2026/11/doom.jpg?w=1600&amp;h=900&amp;fit=crop",
+        "caption": "Thor and Steve Rogers Confront Victor Von Doom in New Avengers: Doomsday Teaser",
+        "source": "MovieWeb"
+      }
+    ],
+    "published": "Wed, 25 Nov 2026 17:33:23 GMT"
   }
 };

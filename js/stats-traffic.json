@@ -1,20 +1,20 @@
 {
   "connected": true,
-  "generated": "2026-11-25T17:54:44Z",
+  "generated": "2026-11-25T19:11:09Z",
   "realtime": {
     "active_users": 0
   },
   "today": {
-    "users": 5,
-    "pageviews": 5,
-    "sessions": 5,
-    "avg_session_seconds": 8.7
+    "users": 0,
+    "pageviews": 0,
+    "sessions": 0,
+    "avg_session_seconds": 0
   },
   "last7": {
-    "users": 2765,
-    "pageviews": 2696,
-    "sessions": 2766,
-    "avg_session_seconds": 5.2
+    "users": 2737,
+    "pageviews": 2656,
+    "sessions": 2736,
+    "avg_session_seconds": 5.1
   },
   "top_pages": [
     {
@@ -32,8 +32,8 @@
     {
       "path": "/",
       "title": "Bollywood, World Cinema & Box Office | FlickAtlas",
-      "views": 14,
-      "avg_time_seconds": 50.5
+      "views": 11,
+      "avg_time_seconds": 53.9
     },
     {
       "path": "/movie",
@@ -60,30 +60,30 @@
       "avg_time_seconds": 2.5
     },
     {
+      "path": "/person",
+      "title": "McG — Bio & Selected Credits | FlickAtlas",
+      "views": 3,
+      "avg_time_seconds": 16.3
+    },
+    {
       "path": "/box-office",
       "title": "Box Office Collections: Today, 7-Day & Totals | FlickAtlas",
-      "views": 3,
-      "avg_time_seconds": 11.1
+      "views": 2,
+      "avg_time_seconds": 14.2
     },
     {
-      "path": "/most-awaited",
-      "title": "Upcoming Movies: Coming Soon Releases | FlickAtlas",
-      "views": 3,
-      "avg_time_seconds": 14.5
-    },
-    {
-      "path": "/movie",
-      "title": "Project Hail Mary (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
-      "views": 3,
-      "avg_time_seconds": 5.9
+      "path": "/box-office-day",
+      "title": "Doosra (2026) — Box Office Day 2 | FlickAtlas",
+      "views": 2,
+      "avg_time_seconds": 8.3
     }
   ],
   "sources": [
     {
       "source": "(direct)",
       "medium": "(none)",
-      "sessions": 2619,
-      "users": 2621
+      "sessions": 2589,
+      "users": 2593
     },
     {
       "source": "(not set)",
@@ -101,15 +101,15 @@
   "countries": [
     {
       "country": "Brazil",
-      "users": 570
+      "users": 567
     },
     {
       "country": "Singapore",
-      "users": 439
+      "users": 438
     },
     {
       "country": "United States",
-      "users": 369
+      "users": 362
     },
     {
       "country": "Argentina",
@@ -117,7 +117,7 @@
     },
     {
       "country": "China",
-      "users": 149
+      "users": 146
     },
     {
       "country": "Hong Kong",
@@ -125,11 +125,11 @@
     },
     {
       "country": "Vietnam",
-      "users": 131
+      "users": 129
     },
     {
       "country": "Mexico",
-      "users": 127
+      "users": 125
     },
     {
       "country": "Pakistan",
@@ -143,11 +143,11 @@
   "devices": [
     {
       "device": "desktop",
-      "users": 2752
+      "users": 2726
     },
     {
       "device": "mobile",
-      "users": 13
+      "users": 11
     }
   ],
   "per_post": {}

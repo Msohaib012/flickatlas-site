@@ -1,36 +1,6 @@
 {
  "days": [
   {
-   "date": "2026-10-27",
-   "fetch_new": 579,
-   "gemini_drafts": 2,
-   "published_today": 71,
-   "posts_total": 218,
-   "approved": null,
-   "rejected": null,
-   "per_category": {
-    "Box Office": 6,
-    "Awards": 22,
-    "Trailers": 38,
-    "Music / OST": 10,
-    "Episodes": 26,
-    "Upcoming releases": 8,
-    "OTT / Streaming": 22,
-    "TV & Dramas": 20,
-    "Celebrity news & events": 17,
-    "Movies": 383,
-    "Entertainment viral": 6
-   },
-   "hours_fetch": {
-    "21": 70,
-    "22": 311,
-    "23": 198
-   },
-   "hours_gemini": {
-    "13": 2
-   }
-  },
-  {
    "date": "2026-10-28",
    "fetch_new": 2706,
    "gemini_drafts": 40,
@@ -1798,23 +1768,23 @@
   {
    "date": "2026-11-25",
    "fetch_new": 2257,
-   "gemini_drafts": 84,
+   "gemini_drafts": 88,
    "published_today": 94,
    "posts_total": 3997,
    "approved": null,
    "rejected": null,
    "per_category": {
-    "Box Office": 121,
-    "Awards": 136,
-    "Trailers": 102,
-    "Music / OST": 177,
-    "Episodes": 146,
-    "Upcoming releases": 19,
-    "OTT / Streaming": 280,
-    "TV & Dramas": 153,
-    "Celebrity news & events": 387,
-    "Movies": 5604,
-    "Entertainment viral": 28
+    "Box Office": 130,
+    "Awards": 140,
+    "Trailers": 114,
+    "Music / OST": 186,
+    "Episodes": 150,
+    "Upcoming releases": 20,
+    "OTT / Streaming": 295,
+    "TV & Dramas": 161,
+    "Celebrity news & events": 403,
+    "Movies": 5889,
+    "Entertainment viral": 29
    },
    "hours_fetch": {
     "1": 73,
@@ -1831,7 +1801,8 @@
     "17": 256,
     "18": 120,
     "19": 103,
-    "22": 536
+    "22": 536,
+    "0": 0
    },
    "hours_gemini": {
     "1": 8,
@@ -1852,8 +1823,21 @@
     "16": 4,
     "17": 4,
     "19": 6,
-    "22": 2
+    "22": 2,
+    "23": 4
    }
+  },
+  {
+   "date": "2026-11-26",
+   "fetch_new": 0,
+   "gemini_drafts": 0,
+   "published_today": 0,
+   "posts_total": 4031,
+   "approved": null,
+   "rejected": null,
+   "per_category": {},
+   "hours_fetch": {},
+   "hours_gemini": {}
   }
  ],
  "heatmap": {
@@ -2041,8 +2025,8 @@
   }
  },
  "guards": {
-  "last_report_hash": "27b17eab63ae8f1c4eb38ab8deee2ca184214dcb",
-  "last_gemini_generated": "2026-11-25T17:53:57Z"
+  "last_report_hash": "a1a40240a773f6aabda9db4a6d0282a0dd751545",
+  "last_gemini_generated": "2026-11-25T18:52:48Z"
  },
- "updated_at": "2026-11-25T17:54:46Z"
+ "updated_at": "2026-11-25T19:11:12Z"
 }

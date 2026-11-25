@@ -64893,5 +64893,826 @@ window.FA_PUBLISHED = {
     "runtime": 26,
     "providers": [],
     "providers_wtw": []
+  },
+  "1843239": {
+    "id": 1843239,
+    "type": "movie",
+    "title": "Nora Hamzawi - Le spectacle",
+    "poster_path": "/5M2dpGfgPnnaMytpkleMKvls2fM.jpg",
+    "backdrop_path": "/c2jlybBuOmpNybqEExcruANKtNW.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "",
+    "industry": "world",
+    "popularity": 0.0388,
+    "original_language": "fr",
+    "origin_country": [
+      "FR"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-25",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Comedy"
+    ],
+    "tagline": "",
+    "status": "Post Production",
+    "production_countries": [
+      "FR"
+    ],
+    "spoken_languages": [
+      "fr"
+    ],
+    "certification": "TP",
+    "release_date": "2026-12-02",
+    "date_kind": "release",
+    "runtime": 0,
+    "providers": [],
+    "providers_wtw": []
+  },
+  "1820319": {
+    "id": 1820319,
+    "type": "movie",
+    "title": "I Saw Her in Motion",
+    "poster_path": "/llTzCeXQSfKRzQpNJjYsDGebjAn.jpg",
+    "backdrop_path": "/7La1N7y501atjNAtLm8RCaR6XLm.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "The lingering echoes of Ratna Asmara and Kay Mander in 1950s Indonesia, during the early years of independence. Drawing on footage from classic Indonesian films, it moves through memory and the archive to restore their obscured presence, reimagining Indonesian cinema and rewriting film history through women’s eyes.",
+    "industry": "world",
+    "popularity": 0.1853,
+    "original_language": "id",
+    "origin_country": [
+      "ID"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-25",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Documentary",
+      "History"
+    ],
+    "tagline": "",
+    "status": "Post Production",
+    "production_countries": [
+      "ID"
+    ],
+    "spoken_languages": [
+      "id"
+    ],
+    "certification": "13+",
+    "release_date": "2026-12-02",
+    "date_kind": "festival",
+    "runtime": 77,
+    "providers": [],
+    "providers_wtw": []
+  },
+  "1820307": {
+    "id": 1820307,
+    "type": "movie",
+    "title": "Shattered Vows",
+    "poster_path": "/8jB7N3F0xWqeDFdAxxTvdKy8Ect.jpg",
+    "backdrop_path": "/669AmtJvcFOGoxt4kECrQhycosP.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "Bahri (27) is set to marry Yulia (23), chosen by his family, when Pia (24), the woman he truly loves, returns with a truth that could shatter everything. What Bahri believed was Pia's betrayal was, in fact, a sacrifice she made to secure the traditional uang jemputan for him. Desperate to undo his family's choice, Bahri chooses to break the sacred premarital vow binding two families and face the consequences.",
+    "industry": "world",
+    "popularity": 0.1745,
+    "original_language": "id",
+    "origin_country": [
+      "ID"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-25",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "tagline": "",
+    "status": "Post Production",
+    "production_countries": [
+      "ID"
+    ],
+    "spoken_languages": [
+      "id"
+    ],
+    "certification": "13+",
+    "release_date": "2026-12-02",
+    "date_kind": "festival",
+    "runtime": 81,
+    "providers": [],
+    "providers_wtw": []
+  },
+  "1802305": {
+    "id": 1802305,
+    "type": "movie",
+    "title": "Wi-Fi Love in the Palace",
+    "poster_path": "/wYinXz6pnTeuATJ9RW11MgoI5nH.jpg",
+    "backdrop_path": "/1zaMlLbMLA0AR5VeJjvnnlRtQn5.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "A time travel romance across past and present, about a webtoon artist desperate for a hit and a palace maid who wants to become a royal concubine, connected by a mysterious cabinet.",
+    "industry": "world",
+    "popularity": 0.4732,
+    "original_language": "ko",
+    "origin_country": [
+      "KR"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-25",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Romance",
+      "Comedy",
+      "Fantasy"
+    ],
+    "tagline": "Our story, connected across 200 years",
+    "status": "Post Production",
+    "production_countries": [
+      "KR"
+    ],
+    "spoken_languages": [
+      "ko"
+    ],
+    "certification": "12",
+    "release_date": "2026-12-02",
+    "date_kind": "release",
+    "runtime": 110,
+    "providers": [],
+    "providers_wtw": []
+  },
+  "1767143": {
+    "id": 1767143,
+    "type": "movie",
+    "title": "Tramway Operation",
+    "poster_path": "/ccFT59pTgHIDYJjbHPKnxv03B3Q.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "“L’Antenne est à nous” was a local television programme funded by the Seine-Saint-Denis Department and broadcast between 1986 and 1994. During those same years, a tramway line was introduced in the department, fifty years after this mode of transport had disappeared from the Île-de-France region. For their reports, the journalists of *L’Antenne est à nous* documented the return of the tramway. The film is made up of footage from the programme, rediscovered in the Departmental Archives.",
+    "industry": "world",
+    "popularity": 0.2847,
+    "original_language": "fr",
+    "origin_country": [
+      "FR"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-25",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Documentary"
+    ],
+    "tagline": "",
+    "status": "Released",
+    "production_countries": [
+      "FR"
+    ],
+    "spoken_languages": [
+      "fr"
+    ],
+    "certification": "TP",
+    "release_date": "2026-12-02",
+    "date_kind": "release",
+    "runtime": 83,
+    "providers": [],
+    "providers_wtw": []
+  },
+  "1766223": {
+    "id": 1766223,
+    "type": "movie",
+    "title": "Until We Fall Apart",
+    "poster_path": "/ee2zKwLrfsQdL4nQ3ca6rCMSAaq.jpg",
+    "backdrop_path": "/9C8FLedwmht4aDxiMSFQfJZPkpm.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "Until we fall apart [D’Andriezenstraat] paints an intimate portrait of a close-knit family that has lived side by side their entire lives, growing old together and continuing to care for one another unconditionally.  In Begijnendijk, everyone knows the Andriezenstraat—a street where ten brothers and sisters have lived side by side for decades. Their houses and backyards form a single whole, just like their lives.  Now that the siblings are between the ages of seventy and ninety, they continue to care for one another unconditionally, even as the close family bond slowly crumbles. The death of their brother Ivo—the first empty house on the street—confronts them with a future in which more and more houses on the street will disappear.",
+    "industry": "world",
+    "popularity": 0.0607,
+    "original_language": "nl",
+    "origin_country": [
+      "BE"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-25",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Documentary"
+    ],
+    "tagline": "",
+    "status": "Released",
+    "production_countries": [
+      "BE"
+    ],
+    "spoken_languages": [
+      "nl"
+    ],
+    "certification": "AL",
+    "release_date": "2026-12-02",
+    "date_kind": "release",
+    "runtime": 81,
+    "providers": [],
+    "providers_wtw": []
+  },
+  "1763211": {
+    "id": 1763211,
+    "type": "movie",
+    "title": "The Story of Wilfred",
+    "poster_path": "/5sNH8WhVGp4KLyt6wLweVnxt6zS.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "A feature-length documentary charting the history and legacy of Adam Zwar and Jason Gann's cult classic 'Wilfred' featuring interviews with cast and creatives involved in the series.",
+    "industry": "world",
+    "popularity": 0.7024,
+    "original_language": "en",
+    "origin_country": [
+      "AU"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-25",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Documentary"
+    ],
+    "tagline": "",
+    "status": "In Production",
+    "production_countries": [
+      "AU"
+    ],
+    "spoken_languages": [
+      "en"
+    ],
+    "certification": "",
+    "release_date": "2026-12-02",
+    "date_kind": "release",
+    "runtime": 114,
+    "providers": [],
+    "providers_wtw": []
+  },
+  "1755290": {
+    "id": 1755290,
+    "type": "movie",
+    "title": "la lutte armée n'est pas un jeu d'enfant",
+    "poster_path": "/71DbeNinUCey5bWbKG7uEK0ivoB.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "",
+    "industry": "world",
+    "popularity": 0.2399,
+    "original_language": "fr",
+    "origin_country": [
+      "FR"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-25",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Documentary"
+    ],
+    "tagline": "",
+    "status": "In Production",
+    "production_countries": [],
+    "spoken_languages": [
+      "fr"
+    ],
+    "certification": "",
+    "release_date": "2026-12-02",
+    "date_kind": "release",
+    "runtime": 0,
+    "providers": [],
+    "providers_wtw": []
+  },
+  "1753884": {
+    "id": 1753884,
+    "type": "movie",
+    "title": "The Four: No One Fights Alone",
+    "poster_path": "/wrbg0vWOZNuGT1E6PLSdzFkHlte.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "Shifting from her usual comedic angles to an emotionally charged, character-driven drama, the narrative revolves around Esosa and three fiercely loyal women. When a high-stakes crisis threatens the future of a young man they collectively love, their courage, faith, and mutual bonds are pushed to unimaginable limits.",
+    "industry": "world",
+    "popularity": 0.5808,
+    "original_language": "en",
+    "origin_country": [
+      "NG"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-25",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Drama",
+      "Thriller"
+    ],
+    "tagline": "",
+    "status": "In Production",
+    "production_countries": [],
+    "spoken_languages": [],
+    "certification": "",
+    "release_date": "2026-12-02",
+    "date_kind": "release",
+    "runtime": 0,
+    "providers": [],
+    "providers_wtw": []
+  },
+  "1739731": {
+    "id": 1739731,
+    "type": "movie",
+    "title": "Hello, Parasites!",
+    "poster_path": "/55VYOyVIhhKGSPf0rU4WJlfJYr.jpg",
+    "backdrop_path": "/AHSniNxmD1QPmSY80ltgvcmrV6.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "Desperate to rejuvenate himself, Paul seeks a service from a strange man known only as the Provider, who promises a transformational experience.",
+    "industry": "world",
+    "popularity": 0.3669,
+    "original_language": "en",
+    "origin_country": [
+      "CA"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-25",
+    "source": "tmdb",
+    "budget": 150,
+    "revenue": 0,
+    "genres": [
+      "Horror"
+    ],
+    "tagline": "You'll Be a New Man",
+    "status": "In Production",
+    "production_countries": [
+      "CA"
+    ],
+    "spoken_languages": [],
+    "certification": "14A",
+    "release_date": "2026-12-02",
+    "date_kind": "release",
+    "runtime": 8,
+    "providers": [],
+    "providers_wtw": []
+  },
+  "1731132": {
+    "id": 1731132,
+    "type": "movie",
+    "title": "Mon fils président",
+    "poster_path": "/8SxG3fBizHic6HHBtasnxMKddlQ.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "",
+    "industry": "world",
+    "popularity": 0.3878,
+    "original_language": "fr",
+    "origin_country": [
+      "FR"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-25",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Comedy"
+    ],
+    "tagline": "",
+    "status": "Released",
+    "production_countries": [
+      "FR"
+    ],
+    "spoken_languages": [
+      "fr"
+    ],
+    "certification": "",
+    "release_date": "2026-12-02",
+    "date_kind": "release",
+    "runtime": 0,
+    "providers": [],
+    "providers_wtw": []
+  },
+  "1706662": {
+    "id": 1706662,
+    "type": "movie",
+    "title": "Sea of Whales",
+    "poster_path": "/f7Fr6BEfvhdeCqKyK0CwSCor5qm.jpg",
+    "backdrop_path": "/wy1hgUmRau1a5VCsLaVkdrWzdpq.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "Director Lee Jeong-joon's distills more than a decade of patient observation, unwavering dedication, and profound ecological insight. Long known as the \"Dolphin Man\" for his commitment to documenting the lives of Jeju's Indo-Pacific bottlenose dolphins, Lee crafts a film that compels us to fundamentally reconsider our relationship with the sea—a space shared by both human and non-human beings.",
+    "industry": "world",
+    "popularity": 0.387,
+    "original_language": "ko",
+    "origin_country": [
+      "KR"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-25",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Documentary"
+    ],
+    "tagline": "",
+    "status": "Released",
+    "production_countries": [
+      "KR"
+    ],
+    "spoken_languages": [
+      "ko"
+    ],
+    "certification": "ALL",
+    "release_date": "2026-12-02",
+    "date_kind": "release",
+    "runtime": 92,
+    "providers": [],
+    "providers_wtw": []
+  },
+  "1706293": {
+    "id": 1706293,
+    "type": "movie",
+    "title": "Controlled: Can I Trust My Partner?",
+    "poster_path": "/xG6EQHttYlMhBlBYGiptzkYfML8.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "Daisy Maskell investigates the shocking surge in partner abuse among under-30s, and enlists her boyfriend to help her expose the sinister ‘stalkerware’ apps used to spy on victims.",
+    "industry": "world",
+    "popularity": 0.125,
+    "original_language": "en",
+    "origin_country": [
+      "GB"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-25",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [],
+    "tagline": "",
+    "status": "Released",
+    "production_countries": [
+      "GB"
+    ],
+    "spoken_languages": [
+      "en"
+    ],
+    "certification": "",
+    "release_date": "2026-12-02",
+    "date_kind": "release",
+    "runtime": 47,
+    "providers": [],
+    "providers_wtw": []
+  },
+  "1694308": {
+    "id": 1694308,
+    "type": "movie",
+    "title": "A Vietnamese Friend in Sapporo",
+    "poster_path": "/wYP4JsHpbZDi9z1LFaOzTZ8mmAF.jpg",
+    "backdrop_path": "/8yvi4lfzev0Cly2ZI6xyA8n7kWq.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "While discussing their cultures and shared frustrations in Japanese, a Vietnamese and an Indonesian form an unlikely connection as both struggle to define their purpose in a world that offers neither of them clarity.",
+    "industry": "world",
+    "popularity": 0.1153,
+    "original_language": "ja",
+    "origin_country": [
+      "ID",
+      "JP"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-25",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Drama",
+      "Comedy"
+    ],
+    "tagline": "",
+    "status": "Post Production",
+    "production_countries": [
+      "ID"
+    ],
+    "spoken_languages": [
+      "ja",
+      "id"
+    ],
+    "certification": "13+",
+    "release_date": "2026-12-02",
+    "date_kind": "festival",
+    "runtime": 15,
+    "providers": [],
+    "providers_wtw": []
+  },
+  "1635800": {
+    "id": 1635800,
+    "type": "movie",
+    "title": "Ghollak",
+    "poster_path": "/qY6P8KVWVu7da0tW2nQyLB2G1Fy.jpg",
+    "backdrop_path": "/sXoixZtldsv45Naqv5dY7I424j1.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "A man falls into begging unintentionally and enjoys it.",
+    "industry": "world",
+    "popularity": 0.0564,
+    "original_language": "en",
+    "origin_country": [
+      "IR"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-25",
+    "source": "tmdb",
+    "budget": 220,
+    "revenue": 0,
+    "genres": [
+      "Drama"
+    ],
+    "tagline": "",
+    "status": "In Production",
+    "production_countries": [
+      "IR"
+    ],
+    "spoken_languages": [],
+    "certification": "",
+    "release_date": "2026-12-02",
+    "date_kind": "release",
+    "runtime": 6,
+    "providers": [],
+    "providers_wtw": []
+  },
+  "1609274": {
+    "id": 1609274,
+    "type": "movie",
+    "title": "The Education of Jane Cumming",
+    "poster_path": "/WXvo64J78OGrqZko0t0DWWgavY.jpg",
+    "backdrop_path": "/oEUKetllZMCOXB9oLzisi0s3ZaV.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "Edinburgh, 1810. Two female teachers find themselves at the centre of a scandal when one of their pupils accuses them of having a love affair.",
+    "industry": "world",
+    "popularity": 1.4355,
+    "original_language": "en",
+    "origin_country": [
+      "GB"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-25",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Drama",
+      "History",
+      "Romance"
+    ],
+    "tagline": "",
+    "status": "Released",
+    "production_countries": [
+      "GB",
+      "DE",
+      "CH"
+    ],
+    "spoken_languages": [
+      "en"
+    ],
+    "certification": "12",
+    "release_date": "2026-12-02",
+    "date_kind": "release",
+    "runtime": 114,
+    "providers": [],
+    "providers_wtw": []
+  },
+  "1598798": {
+    "id": 1598798,
+    "type": "movie",
+    "title": "Bahr",
+    "poster_path": "/8WRPL0uHEUxOTv65r701hPYNWkA.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "It follows a struggling young man facing the pressures of life and unemployment crises in the city of Port Said. Things take a turn when he falls for a girl who works in the circus, while entering into sharp confrontations and unexpected clashes with his opponents.",
+    "industry": "world",
+    "popularity": 0.2707,
+    "original_language": "ar",
+    "origin_country": [
+      "EG"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-25",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Drama"
+    ],
+    "tagline": "A world of waves... a sea of debt.",
+    "status": "Planned",
+    "production_countries": [
+      "EG"
+    ],
+    "spoken_languages": [
+      "ar"
+    ],
+    "certification": "",
+    "release_date": "2026-12-02",
+    "date_kind": "release",
+    "runtime": 0,
+    "providers": [],
+    "providers_wtw": []
+  },
+  "1588626": {
+    "id": 1588626,
+    "type": "movie",
+    "title": "In a Holidaze",
+    "poster_path": "/7B4pJ0sZNJgIdFn4q5SiRnOIflZ.jpg",
+    "backdrop_path": "/1fUaEYlsk9ep0ukHrDpiRLePfip.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "After making a romantic mistake of epic proportions, an aimless twentysomething finds herself trapped in a holiday time-loop, forced to relive the same Christmas at her family’s cabin until she discovers what truly makes her happy.",
+    "industry": "world",
+    "popularity": 1.9205,
+    "original_language": "en",
+    "origin_country": [
+      "US"
+    ],
+    "trailer": {
+      "key": "5f1H5Rk9l4o",
+      "name": "Official Trailer",
+      "site": "YouTube"
+    },
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-25",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Science Fiction",
+      "Romance",
+      "Comedy"
+    ],
+    "tagline": "",
+    "status": "Post Production",
+    "production_countries": [
+      "US"
+    ],
+    "spoken_languages": [
+      "en"
+    ],
+    "certification": "PG-13",
+    "release_date": "2026-12-02",
+    "date_kind": "release",
+    "runtime": 107,
+    "providers": [],
+    "providers_wtw": []
+  },
+  "1587406": {
+    "id": 1587406,
+    "type": "movie",
+    "title": "Bonjour au revoir",
+    "poster_path": "/tiApWJdHFPhbIMHd0avBZ6vaaw7.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "It's back-to-school time, and three-year-old Oona really, really doesn't want to go to school.",
+    "industry": "world",
+    "popularity": 0.2576,
+    "original_language": "fr",
+    "origin_country": [
+      "FR"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-25",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [],
+    "tagline": "",
+    "status": "Planned",
+    "production_countries": [],
+    "spoken_languages": [],
+    "certification": "",
+    "release_date": "2026-12-02",
+    "date_kind": "release",
+    "runtime": 4,
+    "providers": [],
+    "providers_wtw": []
+  },
+  "1568223": {
+    "id": 1568223,
+    "type": "movie",
+    "title": "Claude",
+    "poster_path": "/AvZYPtg0PRXKVPVdMhvWIdTiX7a.jpg",
+    "backdrop_path": "/9Ov82VQOGj5FMEV9ChnnKzTe8ph.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "Two middle-aged siblings must navigate sharing custody of their recently divorced dad.",
+    "industry": "world",
+    "popularity": 0.7838,
+    "original_language": "fr",
+    "origin_country": [
+      "FR"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-25",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Comedy",
+      "Family"
+    ],
+    "tagline": "",
+    "status": "Post Production",
+    "production_countries": [
+      "FR"
+    ],
+    "spoken_languages": [
+      "fr"
+    ],
+    "certification": "TP",
+    "release_date": "2026-12-02",
+    "date_kind": "release",
+    "runtime": 0,
+    "providers": [],
+    "providers_wtw": []
   }
 };
