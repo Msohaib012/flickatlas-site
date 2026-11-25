@@ -248663,5 +248663,408 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Wed, 25 Nov 2026 19:00:55 +0000"
+  },
+  "1nrvvmj": {
+    "id": "1nrvvmj",
+    "type": "news",
+    "headline": "Ramayana Box Office Collection Day 21: Nitesh Tiwari's mythological epic completes three weeks in theatres",
+    "dek": "Ranbir Kapoor, Sai Pallavi and Yash star in the high-profile mythological production Ramayana, which has completed twenty-one days of its theatrical run while approaching the milestone of one thousand crore rupees domestically.",
+    "body": [
+      {
+        "h": "Introduction and Scale of the Production",
+        "p": [
+          "Nitesh Tiwari's directorial venture Ramayana has emerged as one of the most heavily monitored cinematic projects within the film industry. The mythological drama features a massive ensemble cast and boasts an immense scale of production, drawing continuous attention from trade analysts and moviegoers alike ever since its theatrical announcement and subsequent release.",
+          "Financed by Namit Malhotra alongside co-producer Yash, the movie stands as one of the priciest mythological films ever undertaken in Indian cinema. Its extraordinary budget reflects the high financial stakes involved in bringing the epic tale to the big screen with extensive visual effects and grand set pieces."
+        ]
+      },
+      {
+        "h": "Star-Studded Cast and Character Portrayals",
+        "p": [
+          "The film anchors its narrative on powerhouse performances, featuring Ranbir Kapoor in the central role of Lord Ram. Alongside him, Sai Pallavi steps into the portrayal of Sita, while Yash takes on the formidable antagonist persona of Raavan, adding significant star power to the project.",
+          "Beyond the primary trio, the movie includes a robust supporting lineup. Actors such as Arun Govil, Lara Dutta, Rakul Preet Singh, Vivek Oberoi, Sunny Deol, and Ravi Dubey play crucial parts, contributing to the expansive canvas of the mythological retelling."
+        ]
+      },
+      {
+        "h": "Initial Critical Reception and Audience Response",
+        "p": [
+          "Upon hitting the big screen, the production opened to a mixed set of reviews from critics and audiences. While the scale was acknowledged, many viewers and reviewers pointed out a distinct lack of deep devotional elements and criticized portions of the screenplay.",
+          "Film industry expert Sumit Kadel awarded the feature a three-star rating. He noted that despite familiarity with the source material, the execution fell short outside of the Vanvaas sequence, arguing that the spiritual connection and sense of bhakti seen in other titles were missing."
+        ]
+      },
+      {
+        "h": "Day 21 Box Office Performance",
+        "p": [
+          "After twenty-one days in cinemas, the box office momentum has visibly slowed down at the domestic ticket counters. According to tracking data published by Sacnilk, the feature did not cross the ten-crore-rupee mark on its third Wednesday.",
+          "On its twenty-first day, the movie brought in a total of 9.6 crore rupees across all languages. This daily sum comprised 6.75 crore rupees from the Hindi version, 1.1 crore rupees from Malayalam, 75 lakh rupees from Kannada, 70 lakh rupees from Tamil, and 30 lakh rupees from Telugu."
+        ]
+      },
+      {
+        "h": "Cumulative Collections and Third Week Earnings",
+        "p": [
+          "The latest daily figures elevate the cumulative domestic total of the feature to 982.55 crore rupees after completing its first three weeks of theatrical run. Language-wise breakdown of the total includes 746 crore rupees from Hindi, 77.8 crore rupees from Kannada, 57.6 crore rupees from Telugu, 52.3 crore rupees from Malayalam, and 48.85 crore rupees from Tamil.",
+          "Looking specifically at its third week in theatres, the production accumulated a total of 138.15 crore rupees. The steady accumulation keeps it within striking distance of monumental domestic milestones despite the slowing pace."
+        ]
+      },
+      {
+        "h": "Behind the Scenes and Cast Camaraderie",
+        "p": [
+          "Away from the box office tallies, members of the cast have shared warm memories from the production sets. Rajiv Kuumar, who portrays King Janak, recalled interacting with Sai Pallavi when she approached him during the shooting of the wedding sequence, recognizing him from previous works.",
+          "Kuumar also praised Ranbir Kapoor for his approachable and down-to-earth demeanor. He highlighted the easy camaraderie shared among Ranbir, Addinath, and Ravie, noting that senior actors like Arun and Indiraji fostered a close-knit family atmosphere on set."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Nitesh Tiwari's Ramayana has completed twenty-one days in theatres, earning 9.6 crore rupees on its third Wednesday to reach a cumulative domestic collection of 982.55 crore rupees. Despite mixed critical reviews regarding its devotional elements and a slow down in daily earnings, the high-budget mythological drama starring Ranbir Kapoor, Sai Pallavi, and Yash continues to draw significant audience attention."
+        ]
+      }
+    ],
+    "facts": [
+      "The film earned 9.6 crore rupees on day 21.",
+      "Day 21 collections included 6.75 crore rupees in Hindi, 1.1 crore rupees in Malayalam, 75L in Kannada, 70L in Tamil, and 30L in Telugu.",
+      "The overall collection reached 982.55 crore rupees after 21 days.",
+      "Total collections by language after 21 days: 746 crore rupees in Hindi, 77.8 crore rupees in Kannada, 57.6 crore rupees in Telugu, 52.3 crore rupees in Malayalam, and 48.85 crore rupees in Tamil.",
+      "Week 3 collection stood at 138.15 crore rupees.",
+      "Sumit Kadel gave the movie a 3 star rating."
+    ],
+    "entities": {
+      "people": [
+        "Nitesh Tiwari",
+        "Ranbir Kapoor",
+        "Sai Pallavi",
+        "Yash",
+        "Namit Malhotra",
+        "Arun Govil",
+        "Lara Dutta",
+        "Rakul Preet Singh",
+        "Vivek Oberoi",
+        "Sunny Deol",
+        "Ravi Dubey",
+        "Sumit Kadel",
+        "Rajiv Kuumar",
+        "Addinath",
+        "Ravie",
+        "Indiraji"
+      ],
+      "titles": [
+        "Ramayana",
+        "Hanuman Ansh",
+        "Mahavatar Narasimha",
+        "Kantara"
+      ]
+    },
+    "keywords": [
+      "Ramayana box office collection",
+      "Ramayana day 21 collection",
+      "Ranbir Kapoor Ramayana movie",
+      "Ramayana week 3 collection"
+    ],
+    "images": [
+      {
+        "url": "https://images.filmibeat.com/img/2026/11/ramayanaday21feature-40161795642660.jpg",
+        "caption": "Ramayana Box Office Collection Day 21: Nitesh Tiwari's mythological epic completes three weeks in theatres",
+        "source": "FilmiBeat"
+      }
+    ],
+    "published": "Thu, 26 Nov 2026 03:09:49 +0530"
+  },
+  "16ffsxl": {
+    "id": "16ffsxl",
+    "type": "news",
+    "headline": "Brad Pitt and Angelina Jolie Reach Settlement to End Years-Long Legal Battle Over French Winery",
+    "dek": "After years of litigation regarding the Château Miraval estate, the former couple has agreed to dismiss claims against each other, concluding a bitter saga that brought past abuse allegations to light.",
+    "body": [
+      {
+        "h": "The Settlement Agreement",
+        "p": [
+          "Brad Pitt and Angelina Jolie have officially reached an out-of-court settlement to conclude their lengthy dispute concerning the sale of their French winery. Representatives for both individuals confirmed that legal claims have been mutually dismissed in the best interests of their family. Specific terms of the agreement have been kept private, and both parties requested that media outlets disregard unofficial statements attributed to anonymous sources.",
+          "This resolution brings an end to a high-profile legal battle that originally commenced in 2022. The underlying dispute exposed deep tensions stemming from the couple's divorce and complicated financial entanglements surrounding shared property in Europe."
+        ]
+      },
+      {
+        "h": "Origins of the Château Miraval Dispute",
+        "p": [
+          "The estate at the center of the conflict is Château Miraval, a 1,200-acre property located in the South of France where Pitt and Jolie were married in 2008. Following their separation, initial plans involved Jolie selling her stake in the winery directly to Pitt. However, negotiations broke down when Pitt requested a nondisclosure agreement that would have legally prevented Jolie from discussing public allegations of abuse related to their split.",
+          "Declining to sign the agreement, Jolie instead arranged a multimillion-dollar transaction with billionaire alcohol magnate Yuri Shefler to sell her half of the business. This move prompted Pitt to file a lawsuit in 2022, alleging that the sale violated an unwritten understanding that neither party would dispose of their stakes without the other's prior consent."
+        ]
+      },
+      {
+        "h": "Abuse Allegations Surface in Court",
+        "p": [
+          "The legal counter-actions brought intense public scrutiny to the breakdown of the marriage, as Jolie's countersuit detailed serious abuse allegations. The claims stemmed from a 2016 altercation on a private plane, where Jolie alleged that Pitt grabbed her by the head, shook her, choked one of their children, and struck another in the face. Representatives for Pitt strongly denied these accusations at the time, characterizing the narrative as an evolving and untrue description of past events.",
+          "According to court documents submitted by Jolie, the confrontation escalated when Pitt lunged at one of their children. Jolie stated that she attempted to restrain him from behind, resulting in physical injuries to her back and elbow as he moved backwards into the seats. Additional claims alleged that Pitt poured beer and wine on family members during the flight before continuing the confrontation upon landing."
+        ]
+      },
+      {
+        "h": "FBI Investigation and Subsequent Fallout",
+        "p": [
+          "Following the 2016 flight incident, the FBI conducted an investigation into the altercation but ultimately decided against filing criminal charges. A redacted investigative report indicated that while an agent found probable cause, several factors influenced the decision not to pursue prosecution, including Jolie's own conflicting feelings regarding whether to support formal charges.",
+          "The public revelation of these details in 2022 marked a significant escalation in the ongoing hostilities between the former couple. The legal proceedings systematically peeled back the layers of animosity that had built up since Jolie filed for divorce just five days after the private plane incident."
+        ]
+      },
+      {
+        "h": "Ongoing Litigation Involving Yuri Shefler",
+        "p": [
+          "While the dispute between Pitt and Jolie has reached a resolution, Pitt continues to pursue active claims against Yuri Shefler and his company, Tenute del Mondo, which operates as the wine division of the Stoli Group. Pitt alleges that Shefler orchestrated the acquisition of the winery shares in secret alongside Jolie.",
+          "An appellate court previously determined that Shefler played an active role in structuring the final purchase agreement, noting that he had guaranteed a substantial portion of the funds using his own resources. Pitt is currently seeking a court order that would allow him to purchase Jolie's former shares at the same valuation Shefler paid, alongside unspecified damages."
+        ]
+      },
+      {
+        "h": "Career Developments Amid Legal Turmoil",
+        "p": [
+          "Throughout the duration of the multi-year legal battle, both actors have maintained active careers in the entertainment industry. Pitt has continued to anchor major studio productions, including films like F1 and Heart of the Beast, while also producing prestige cinema through his company Plan B Entertainment.",
+          "Jolie temporarily stepped back from acting before receiving critical acclaim for her performance as Maria Callas in the biographical film Maria. The legal representation for the case included attorneys John Berlinski and Julia Cherlow for Pitt, and Paul Murphy and Daniel Csillag for Jolie."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Brad Pitt and Angelina Jolie have agreed to settle their lengthy legal dispute concerning the sale of their French estate, Château Miraval. The out-of-court agreement dismisses all claims between the two actors, closing a contentious chapter that previously brought forward serious abuse allegations and complex business litigation involving billionaire Yuri Shefler."
+        ]
+      }
+    ],
+    "facts": [
+      "Brad Pitt and Angelina Jolie settled their lawsuit over the French winery Château Miraval on November 25, 2026.",
+      "The couple purchased the 1,200-acre Château Miraval in 2008 and married there.",
+      "Jolie sold her half of the winery to Yuri Shefler in a $64 million deal.",
+      "Pitt filed a lawsuit against Jolie in 2022.",
+      "The 2016 altercation occurred on a private plane, leading to an FBI investigation that did not result in criminal charges."
+    ],
+    "entities": {
+      "people": [
+        "Brad Pitt",
+        "Angelina Jolie",
+        "Yuri Shefler",
+        "Maria Callas",
+        "John Berlinski",
+        "Julia Cherlow",
+        "Paul Murphy",
+        "Daniel Csillag",
+        "Alejandro Brito",
+        "President Trump",
+        "Kelly Bush Novak",
+        "Blake Lively",
+        "Ryan Reynolds",
+        "Jenn Kuzmyk",
+        "Mindy Kaling",
+        "Tony Romo",
+        "Ben Affleck"
+      ],
+      "titles": [
+        "F1",
+        "Heart of the Beast",
+        "Maria"
+      ]
+    },
+    "keywords": [
+      "Brad Pitt Angelina Jolie settlement",
+      "Château Miraval lawsuit",
+      "Brad Pitt winery legal battle",
+      "Angelina Jolie Yuri Shefler deal"
+    ],
+    "images": [
+      {
+        "url": "https://www.hollywoodreporter.com/wp-content/uploads/2025/05/Brad-Pitt-and-Angelina-Jolie-Split-Getty-H-2025.jpg?w=1296&#038;h=730&#038;crop=1",
+        "caption": "Brad Pitt and Angelina Jolie Reach Settlement to End Years-Long Legal Battle Over French Winery",
+        "source": "The Hollywood Reporter"
+      }
+    ],
+    "published": "Wed, 25 Nov 2026 21:00:00 +0000"
+  },
+  "4rw0gu": {
+    "id": "4rw0gu",
+    "type": "news",
+    "headline": "Gunmaaster G9 Surpasses Yeh Prem Mol Liya in Opening Day Advance Ticket Sales",
+    "dek": "Emraan Hashmi and Aditya Datt's action romantic thriller Gunmaaster G9 records strong pre-sales, beating competitor Yeh Prem Mol Liya in ticket counts for day one.",
+    "body": [
+      {
+        "h": "Introduction to Gunmaaster G9",
+        "p": [
+          "Emraan Hashmi is offering fans a heavy dose of nostalgia this year, following up on his previous work like Awarapan 2 with an exciting new project titled Gunmaaster G9. Directed by Aditya Datt, the film is styled as an action romantic thriller designed to draw crowds into cinema halls.",
+          "Anticipation has steadily built up around the project due to its engaging promotional materials. Both the trailer and the musical score have successfully generated significant buzz across social platforms and entertainment circles prior to the film's theatrical debut."
+        ]
+      },
+      {
+        "h": "Star-Studded Cast and Major Reunions",
+        "p": [
+          "The upcoming feature brings together notable faces from the industry, starring Genelia Deshmukh and Aparshakti Khurana alongside the lead actor. This project marks the very first professional collaboration between Emraan Hashmi and Genelia Deshmukh.",
+          "Furthermore, the film establishes a meaningful reunion between Hashmi and director Aditya Datt, following their previous joint ventures in Aashiq Banaya Aapne and Dil Diya Hai. Crucially, the production also reunites the actor, director, and composer Himesh Reshammiya after a span of 20 years."
+        ]
+      },
+      {
+        "h": "Box Office Clash With Yeh Prem Mol Liya",
+        "p": [
+          "The theatrical run is set against a competitive backdrop, entering a direct box office clash with Yeh Prem Mol Liya, which stars Ayushmann Khurrana and Sharvari in the leading roles.",
+          "With advance booking windows officially open for both competing films, industry analysts and moviegoers have closely monitored the early presales trends to see which title would capture early audience momentum."
+        ]
+      },
+      {
+        "h": "Advance Booking Numbers and Ticket Sales",
+        "p": [
+          "According to data reported by Sacnilk, Gunmaaster G9 collected Rs 1.49 crore through advance bookings for its opening day.",
+          "In terms of sheer volume, the film moved a total of 67,118 tickets ahead of its grand premiere, demonstrating robust early interest from viewers."
+        ]
+      },
+      {
+        "h": "Beating Rival Presales in Volume",
+        "p": [
+          "Despite its competitor generating a slightly higher monetary figure, Gunmaaster G9 successfully surpassed Yeh Prem Mol Liya in total tickets sold for day one.",
+          "While Yeh Prem Mol Liya registered 59,353 sold tickets amounting to Rs 1.6 crore, Hashmi's starrer outpaced it in audience headcounts, leaving observers eager to see how the overall opening weekend unfolds."
+        ]
+      },
+      {
+        "h": "Director and Actor Vision for the Big Screen",
+        "p": [
+          "Speaking about his creative reunion with the director, Emraan Hashmi noted that they evaluated multiple scripts before settling on a story that truly celebrates cinema and offers the kind of experience they would want to watch as fans.",
+          "The actor emphasized that the production is a grand commercial venture intended to completely absorb viewers within its cinematic universe once they step inside the theatre."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Gunmaaster G9 has achieved solid advance booking numbers for its opening day, selling 67,118 tickets for a collection of Rs 1.49 crore. This performance allowed the action romantic thriller to surpass competitor Yeh Prem Mol Liya in total ticket sales as it heads into a major box office showdown."
+        ]
+      }
+    ],
+    "facts": [
+      "Gunmaaster G9 collected Rs 1.49 crore in advance booking for day one.",
+      "Gunmaaster G9 sold 67,118 tickets for the opening day.",
+      "Yeh Prem Mol Liya earned Rs 1.6 crore with the sale of 59,353 tickets.",
+      "Emraan Hashmi stars in Gunmaaster G9 along with Genelia Deshmukh and Aparshakti Khurana.",
+      "Aditya Datt is the director of Gunmaaster G9.",
+      "Yeh Prem Mol Liya stars Ayushmann Khurrana and Sharvari."
+    ],
+    "entities": {
+      "people": [
+        "Emraan Hashmi",
+        "Aditya Datt",
+        "Genelia Deshmukh",
+        "Aparshakti Khurana",
+        "Himesh Reshammiya",
+        "Ayushmann Khurrana",
+        "Sharvari"
+      ],
+      "titles": [
+        "Gunmaaster G9",
+        "Awarapan 2",
+        "Aashiq Banaya Aapne",
+        "Dil Diya Hai",
+        "Yeh Prem Mol Liya"
+      ]
+    },
+    "keywords": [
+      "Gunmaaster G9",
+      "Gunmaaster G9 advance booking collection",
+      "Emraan Hashmi Gunmaaster G9",
+      "Yeh Prem Mol Liya"
+    ],
+    "images": [
+      {
+        "url": "https://images.filmibeat.com/img/2026/11/gunmaasterg9presalesfeature-77411795640506.jpg",
+        "caption": "Gunmaaster G9 Surpasses Yeh Prem Mol Liya in Opening Day Advance Ticket Sales",
+        "source": "FilmiBeat"
+      }
+    ],
+    "published": "Thu, 26 Nov 2026 02:34:15 +0530"
+  },
+  "1w7pgmt": {
+    "id": "1w7pgmt",
+    "type": "news",
+    "headline": "Dune: Part Three Eyes Record-Breaking Opening Weekend Projections",
+    "dek": "Early domestic tracking suggests Denis Villeneuve's sci-fi epic could double the debut earnings of the 2021 original.",
+    "body": [
+      {
+        "h": "Strong Domestic Projections",
+        "p": [
+          "Anticipation is running exceptionally high for the upcoming release of Dune: Part Three, with early domestic tracking indicating a massive opening weekend. Industry estimates currently place the film's projected debut between $85 million and $100 million.",
+          "As the December theatrical release approaches, these tracking estimates continue to climb upward, making a milestone $100 million opening a realistic target for the studio."
+        ]
+      },
+      {
+        "h": "Growth Across the Franchise",
+        "p": [
+          "This projected performance represents a dramatic leap forward for the blockbuster sci-fi franchise at the box office. Each successive installment in the series has managed to expand its audience significantly.",
+          "The first film in the series debuted to $41 million in October 2021, while the second chapter achieved an $82.5 million opening in March 2024. The third installment is poised to push those benchmarks even higher."
+        ]
+      },
+      {
+        "h": "Directing and Source Material",
+        "p": [
+          "Filmmaker Denis Villeneuve returns to helm the project, bringing his visionary approach to the conclusion of his cinematic adaptation of Frank Herbert's legendary science fiction book series.",
+          "The upcoming film serves as the final chapter in Villeneuve's planned trilogy, wrapping up the multi-part journey that began with the first Warner Bros. Pictures release."
+        ]
+      },
+      {
+        "h": "Holiday Season Competition",
+        "p": [
+          "Despite the stellar tracking numbers, the feature will face stiff competition when it officially arrives in cinemas on December 18. It shares its exact release date with another major tentpole title, Avengers: Doomsday.",
+          "Both films are expected to fiercely compete for holiday crowds, though the winter season offers plenty of room for family and genre audiences to support multiple major projects."
+        ]
+      },
+      {
+        "h": "Premium Screen Allocation",
+        "p": [
+          "In terms of presentation, the movie is secured to have a substantial presence in specialized format auditoriums, including dedicated IMAX and 70mm locations.",
+          "While Avengers: Doomsday may capture a significant portion of other premium large-format screens, the strong presence in IMAX 70mm provides a major advantage for premium ticket sales."
+        ]
+      },
+      {
+        "h": "Robust Advance Ticket Sales",
+        "p": [
+          "Consumer demand is already translating into heavy financial commitments through early purchasing. IMAX 70mm tickets became available as early as April, followed by general ticket sales in August.",
+          "Advance presales have reportedly outpaced previous Warner Bros. hits like Barbie, the Harry Potter franchise, and The Dark Knight films, while matching the momentum of Christopher Nolan's The Odyssey."
+        ]
+      },
+      {
+        "h": "Long-Term Theatrical Potential",
+        "p": [
+          "Beyond the opening weekend frame, the holiday calendar provides an ideal environment for sustained theatrical legs. Strong word-of-mouth and holiday time off could facilitate strong repeat viewings.",
+          "Ultimately, the film's enduring box office run will hinge on how effectively it holds its ground against Avengers: Doomsday and other crowded year-end cinematic offerings."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Dune: Part Three is tracking for a domestic opening weekend between $85 million and $100 million, nearly doubling the debut of the 2021 original film. Directed by Denis Villeneuve, the sequel releases on December 18 and faces major competition from Avengers: Doomsday alongside strong advance ticket sales."
+        ]
+      }
+    ],
+    "facts": [
+      "Dune: Part Three is projected to earn between $85 million and $100 million during its opening weekend.",
+      "The first Dune movie earned $41 million during its opening weekend in 2021.",
+      "Dune: Part Two earned $82.5 million in March 2024.",
+      "Denis Villeneuve is directing the film to conclude his adaptation of Frank Herbert's sci-fi saga.",
+      "The film hits theaters on December 18, sharing its release date with Avengers: Doomsday."
+    ],
+    "entities": {
+      "people": [
+        "Denis Villeneuve",
+        "Frank Herbert",
+        "Christopher Nolan"
+      ],
+      "titles": [
+        "Dune",
+        "Dune: Part Two",
+        "Dune: Part Three",
+        "Avengers: Doomsday",
+        "Barbie",
+        "The Dark Knight",
+        "The Odyssey"
+      ]
+    },
+    "keywords": [
+      "Dune Part Three",
+      "Denis Villeneuve Dune Part Three",
+      "Dune Part Three box office",
+      "Avengers Doomsday"
+    ],
+    "images": [
+      {
+        "url": "https://www.comingsoon.net/wp-content/uploads/sites/3/2026/11/Dune-Part-Three.jpg?resize=1200,630",
+        "caption": "Dune: Part Three Eyes Record-Breaking Opening Weekend Projections",
+        "source": "ComingSoon.net"
+      }
+    ],
+    "published": "Wed, 25 Nov 2026 21:11:16 +0000"
   }
 };
