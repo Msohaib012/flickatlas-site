@@ -244508,5 +244508,425 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "2026-11-25T06:53:01Z"
+  },
+  "r1ayu7": {
+    "id": "r1ayu7",
+    "type": "news",
+    "headline": "OM Box Office Day 5: Dhanush-Starrer Crosses Rs 100 Crore Worldwide and Sells 2 Million Tickets",
+    "dek": "Actor Dhanush's spy action film OM has crossed the Rs 100 crore milestone globally in five days while selling over two million tickets in India.",
+    "body": [
+      {
+        "h": "Global Milestone Achieved",
+        "p": [
+          "Actor Dhanush's latest Tamil release, OM, has officially crossed the Rs 100 crore mark at the worldwide box office within its first five days of theatrical run. According to data from the trade tracker Sacnilk, the spy action thriller reached this significant global milestone despite differing figures reported by the production team.",
+          "While independent tracking points to the five-day timeline, co-producers RTake Studios previously issued a statement claiming that the film had already touched a worldwide gross of Rs 101.7 crore in just three days of release."
+        ]
+      },
+      {
+        "h": "Domestic Collections and Ticket Sales",
+        "p": [
+          "On Tuesday, the film added Rs 5.40 crore in net collections across India, playing across 6,108 shows. This brought the domestic net collection to a total of Rs 61.45 crore after five days, while the total domestic gross collection reached Rs 71.25 crore.",
+          "In addition to monetary figures, the makers announced that the feature surpassed a major milestone by selling over 2 million tickets combined on ticketing platforms BookMyShow and District."
+        ]
+      },
+      {
+        "h": "Cast and Crew Details",
+        "p": [
+          "The spy action project is written and directed by Rajkumar Periasamy. Alongside lead actor Dhanush, the movie features prominent performances by Mammootty and Sai Pallavi in important roles.",
+          "Production duties for the film are shared between Wunderbar Films and RTake Studios, bringing together a notable team for this high-profile Tamil release."
+        ]
+      },
+      {
+        "h": "Occupancy and Regional Turnout",
+        "p": [
+          "On Tuesday, the Tamil version of the film recorded an overall occupancy of 25.44 percent, with afternoon screenings witnessing the highest footfalls. Among cities, Kochi recorded the highest occupancy at 46.5 percent across 99 shows, followed by Mumbai at 32.5 percent and Delhi-NCR at 31.3 percent.",
+          "The Telugu version of the movie registered a 19.95 percent overall occupancy with strong turnouts in Warangal, Hyderabad, and Vizag. Meanwhile, the Hindi version recorded 20.60 percent occupancy, drawing peak audiences in Chandigarh, Pune, and Bhopal."
+        ]
+      },
+      {
+        "h": "Comparison with Other Tamil Grossers",
+        "p": [
+          "Even with its strong early performance, OM currently trails behind the highest-grossing Tamil cinema releases of the year. Rajinikanth's Jailer 2 continues to lead the box office charts with a worldwide collection of Rs 823.50 crore.",
+          "Other notable performers in the regional market include Vijay's Jana Nayagan at Rs 324.97 crore, Karuppu at Rs 310.12 crore, and Vishwanath and Sons at Rs 209.46 crore globally."
+        ]
+      },
+      {
+        "h": "Dhanush and Sai Pallavi's Recent Tracks",
+        "p": [
+          "Dhanush's previous release, Kara, hit theaters in April 2026 and accumulated Rs 53.78 crore worldwide. Prior to that, his 2025 Hindi film Tere Ishk Mein, co-starring Kriti Sanon, stands as his most successful recent outing with Rs 161.96 crore globally.",
+          "Meanwhile, co-star Sai Pallavi is currently experiencing massive success with her other major project, Ramayana Part 1, which has grossed Rs 1,735.15 crore worldwide over twenty days and entered the Oscars Visual Effects race."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Dhanush's spy action film OM has crossed Rs 100 crore globally and sold over two million tickets in India within five days of release. Directed by Rajkumar Periasamy and co-starring Mammootty and Sai Pallavi, the movie continues to perform steadily across Tamil, Telugu, and Hindi formats."
+        ]
+      }
+    ],
+    "facts": [
+      "OM earned Rs 5.40 crore net in India on Tuesday across 6,108 shows.",
+      "The film's total gross collection in India stands at Rs 71.25 crore.",
+      "Net collections in India after five days are Rs 61.45 crore.",
+      "Worldwide gross earnings have reached Rs 100.75 crore.",
+      "Jailer 2 leads Tamil cinema this year with a worldwide collection of Rs 823.50 crore.",
+      "Jana Nayagan earned Rs 324.97 crore worldwide.",
+      "Karuppu earned Rs 310.12 crore worldwide.",
+      "Vishwanath and Sons collected Rs 209.46 crore.",
+      "Kara collected Rs 53.78 crore worldwide.",
+      "Tere Ishk Mein earned Rs 161.96 crore worldwide.",
+      "Ramayana Part 1 earned Rs 1,735.15 crore worldwide after 20 days."
+    ],
+    "entities": {
+      "people": [
+        "Dhanush",
+        "Mammootty",
+        "Sai Pallavi",
+        "Rajinikanth",
+        "Vijay",
+        "Kriti Sanon",
+        "Rajkumar Periasamy",
+        "Ranbir Kapoor"
+      ],
+      "titles": [
+        "OM",
+        "Operation Mole",
+        "Jailer 2",
+        "Jana Nayagan",
+        "Karuppu",
+        "Vishwanath and Sons",
+        "Kara",
+        "Tere Ishk Mein",
+        "Ramayana Part 1"
+      ]
+    },
+    "keywords": [
+      "OM film box office",
+      "Dhanush OM movie",
+      "OM collection Day 5",
+      "Rajkumar Periasamy OM"
+    ],
+    "images": [
+      {
+        "url": "https://images.indianexpress.com/2026/11/Om-Box-Office.jpg",
+        "caption": "OM Box Office Day 5: Dhanush-Starrer Crosses Rs 100 Crore Worldwide and Sells 2 Million Tickets",
+        "source": "Indian Express — Entertainment"
+      }
+    ],
+    "published": "Wed, 25 Nov 2026 07:19:22 +0000"
+  },
+  "rx4ogt": {
+    "id": "rx4ogt",
+    "type": "news",
+    "headline": "Aakasamlo Oka Tara Box Office Day 5: Dulquer Salmaan Starrer Surpasses King Of Kotha And Chases Top 5 Milestone",
+    "dek": "Dulquer Salmaan's Telugu feature Aakasamlo Oka Tara continues its steady theatrical run, crossing a major milestone on day five and outpacing his earlier release King Of Kotha.",
+    "body": [
+      {
+        "h": "Box Office Journey And Early Figures",
+        "p": [
+          "Dulquer Salmaan's latest Telugu cinematic outing, Aakasamlo Oka Tara, has registered a strong performance at the ticket windows following a modest opening. Despite starting with a relatively quiet beginning, the feature quickly picked up momentum due to positive word of mouth and favorable audience reception.",
+          "The theatrical run saw the project pull in steady numbers throughout its opening weekend and into the weekdays, showcasing consistent traction among moviegoers across various regions."
+        ]
+      },
+      {
+        "h": "Day Five Collection Breakdown",
+        "p": [
+          "Focusing specifically on its fifth day in theaters, the feature brought in 3.25 crore net in India. This figure marked a minor 1.5 percent shift compared to the preceding day's earnings.",
+          "With this latest daily addition, the cumulative net collection within the domestic market reached 19.65 crore over the first five days of release."
+        ]
+      },
+      {
+        "h": "Domestic And Worldwide Totals",
+        "p": [
+          "Expanding beyond net figures, the domestic gross for the film stands at an impressive 23.19 crore. International markets have also contributed significantly to the overall tally.",
+          "Overseas collections have brought in an additional 9.5 crore, pushing the worldwide gross total to a notable 32.65 crore as the feature enters the latter half of its opening week."
+        ]
+      },
+      {
+        "h": "Surpassing King Of Kotha",
+        "p": [
+          "In terms of career milestones, the Telugu drama has successfully overtaken the lifetime domestic total of King Of Kotha. The 2023 Malayalam action thriller had faced a disappointing theatrical run, finishing with 17.54 crore net in India.",
+          "By crossing this previous lifetime number, the new release has demonstrated a much stronger commercial acceptance and stability compared to the actor's earlier ambitious project."
+        ]
+      },
+      {
+        "h": "Chasing New Milestones",
+        "p": [
+          "The feature is currently trailing Kaantha, which holds a domestic net total of 22.86 crore in India. Industry expectations point toward the current release surpassing this threshold before the conclusion of its opening week.",
+          "Achieving this feat will secure Aakasamlo Oka Tara a spot among the actor's top five highest-grossing films domestically, joining titles such as Lucky Baskhar, Sita Ramam, Kurup, I'm Game, and Kaantha."
+        ]
+      },
+      {
+        "h": "Plot And Character Background",
+        "p": [
+          "The narrative centers around Krishna, portrayed by Dulquer Salmaan, who works tirelessly to support his wife Kalpana in realizing her ambition of becoming an astronaut. His dedication drives the central conflict and emotional core of the story.",
+          "Alongside the lead actor, Shruti Haasan features in the cast, playing a pivotal role that aids Kalpana along her path toward achieving her ultimate aspiration."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Dulquer Salmaan's Telugu film Aakasamlo Oka Tara reached a domestic net total of 19.65 crore after five days, bringing its worldwide collection to 32.65 crore. The feature successfully surpassed the lifetime India earnings of King Of Kotha while eyeing a spot in the actor's top five highest-grossing films."
+        ]
+      }
+    ],
+    "facts": [
+      "Aakasamlo Oka Tara earned 3.25 crore net in India on day 5.",
+      "The total net collection of Aakasamlo Oka Tara after 5 days is 19.65 crore.",
+      "The film's India gross is 23.19 crore.",
+      "Overseas collection is 9.5 crore.",
+      "Worldwide total is 32.65 crore.",
+      "King Of Kotha earned 17.54 crore net in India during its theatrical run.",
+      "Kaantha earned 22.86 crore net in India.",
+      "Lucky Baskhar earned 74.83 crore in India.",
+      "Sita Ramam earned 65.49 crore in India.",
+      "Kurup earned 37.79 crore in India.",
+      "I'm Game earned 25.48 crore in India."
+    ],
+    "entities": {
+      "people": [
+        "Dulquer Salmaan",
+        "Shruti Haasan"
+      ],
+      "titles": [
+        "Aakasamlo Oka Tara",
+        "King Of Kotha",
+        "Kaantha",
+        "Lucky Baskhar",
+        "Sita Ramam",
+        "Kurup",
+        "I'm Game",
+        "Mahanati",
+        "Lucky Baskhar"
+      ]
+    },
+    "keywords": [
+      "Aakasamlo Oka Tara box office",
+      "Dulquer Salmaan Aakasamlo Oka Tara",
+      "Aakasamlo Oka Tara day 5 collection",
+      "King Of Kotha box office total"
+    ],
+    "images": [
+      {
+        "url": "https://www.koimoi.com/wp-content/new-galleries/2026/11/aakasamlo-oka-tara-box-office-day-5-dulquer-salmaans-telugu-film-outperforms-his-ambitious-malayalam-disaster-0001.jpg",
+        "caption": "Aakasamlo Oka Tara Box Office Day 5: Dulquer Salmaan Starrer Surpasses King Of Kotha And Chases Top 5 Milestone",
+        "source": "Koimoi"
+      }
+    ],
+    "published": "Wed, 25 Nov 2026 06:18:15 +0000"
+  },
+  "1dd62b8": {
+    "id": "1dd62b8",
+    "type": "news",
+    "headline": "Star Trek 60th Anniversary Collection Releases This November",
+    "dek": "Sirius Dice is launching an officially licensed Star Trek and Magic: The Gathering accessory collection featuring mini dice cups, treasure packs, and oversized spindown life counters.",
+    "body": [
+      {
+        "h": "Introduction to the 60th Anniversary Milestone",
+        "p": [
+          "The franchise of Star Trek is celebrating its momentous 60th anniversary throughout the year 2026. This milestone has been marked by a variety of special events, brand-new collectibles, fresh storytelling, and the comeback of beloved characters spanning six decades of sci-fi history.",
+          "Devoted followers of the legendary universe have enjoyed an abundance of commemorative items. The festivities highlight the enduring cultural footprint of the property and its vast influence on generations of viewers."
+        ]
+      },
+      {
+        "h": "The Magic: The Gathering Crossover Partnership",
+        "p": [
+          "One of the standout highlights of the anniversary year is the official crossover between Star Trek and Magic: The Gathering. This major collaboration brings together two massive fanbases, offering a fresh way for enthusiasts to engage with the science fiction realm.",
+          "Building on the momentum of this Universes Beyond crossover, additional merchandise is scheduled to hit the market before the conclusion of November, courtesy of manufacturer Sirius Dice."
+        ]
+      },
+      {
+        "h": "Mini Dice Cups and Faction Designs",
+        "p": [
+          "Among the prominent items in the new Sirius Dice lineup are the Star Trek Mini Dice Cups, priced at $19.99 each. These items highlight several iconic factions from across the franchise history, packaged individually with two counter dice inside.",
+          "Buyers will find randomized designs featuring distinct color schemes and metallic finishes. The assortment spans ten unique variants representing the United Planets Federation, Starfleet, Vulcans, Klingon Empire, Romulan Empire, Borg Collective, Ferengi, Bajorans, Cardassians, and Q."
+        ]
+      },
+      {
+        "h": "The Rare Q Chase Variant",
+        "p": [
+          "Mimicking the excitement of opening a Collector Booster pack in Magic: The Gathering, the Mini Dice Cups introduce an element of surprise. Consumers will not know which specific faction design they have acquired until the packaging is opened.",
+          "The Q design serves as the official rare chase variant for this portion of the collection, driving up the collectibility factor for dedicated fans and hobbyists alike."
+        ]
+      },
+      {
+        "h": "Treasure Packs and Spindown Life Counters",
+        "p": [
+          "In addition to the dice cups, Sirius Dice is introducing $7.99 Treasure Packs. Each pack contains a single 25mm Spindown Life Counter selected from a pool of 25 distinct designs, accompanied by a Magic: The Gathering token accessory.",
+          "The dice featured in these packs are categorized into three rarity levels: common, rare, and legendary, adding another layer of engagement for collectors hunting for specific pieces."
+        ]
+      },
+      {
+        "h": "Oversized Resin Display Pieces",
+        "p": [
+          "For enthusiasts seeking more extravagant merchandise, the collection includes two oversized 55mm Spindown Life Counters priced at $54.99 apiece. These items feature intricate miniature replicas encased within transparent resin.",
+          "One design showcases the U.S.S. Enterprise, while the other features a Klingon Bird-of-Prey. Both oversized pieces are substantial enough to function as standalone display items for home collections."
+        ]
+      },
+      {
+        "h": "Significance for Players and Collectors",
+        "p": [
+          "While the accessories are primarily tailored toward players of Magic: The Gathering, the broader appeal extends to longtime followers of Star Trek who simply appreciate memorabilia.",
+          "Arriving right before the holiday season and near the conclusion of the 60th anniversary year, this release offers another avenue for supporters to honor six decades of the franchise."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Sirius Dice is releasing an officially licensed Star Trek 60th anniversary collection of Magic: The Gathering accessories this November. The lineup includes $19.99 Mini Dice Cups with a rare Q chase variant, $7.99 Treasure Packs, and $54.99 oversized resin display counters featuring the U.S.S. Enterprise and a Klingon Bird-of-Prey."
+        ]
+      }
+    ],
+    "facts": [
+      "Star Trek is celebrating its 60th anniversary in 2026.",
+      "The Sirius Dice collection launches in November.",
+      "Mini Dice Cups retail for $19.99 each.",
+      "There are 10 different designs available in the Mini Dice Cup collection.",
+      "The Q design is the collection's rare chase variant.",
+      "Treasure Packs cost $7.99 and contain one of 25 collectible 25mm Spindown Life Counters.",
+      "Oversized 55mm Spindown Life Counters retail for $54.99 apiece."
+    ],
+    "entities": {
+      "people": [
+        "Nicholas Becher"
+      ],
+      "titles": [
+        "Star Trek",
+        "Magic: The Gathering",
+        "Star Trek: The Original Series",
+        "Star Trek: The Animated Series",
+        "Star Trek: The Next Generation",
+        "Star Trek: Deep Space Nine",
+        "Star Trek: Voyager",
+        "Star Trek: Enterprise",
+        "Star Trek: Discovery",
+        "Star Trek: Short Treks",
+        "Star Trek: Picard",
+        "Star Trek Lower Decks",
+        "Star Trek: Prodigy",
+        "Star Trek: Strange New Worlds",
+        "Star Trek: Starfleet Academy",
+        "Star Trek Online",
+        "Star Trek: Resurgence",
+        "Star Trek: Bridge Crew",
+        "Star Trek: The Motion Picture"
+      ]
+    },
+    "keywords": [
+      "Star Trek anniversary collection",
+      "Sirius Dice Star Trek",
+      "Star Trek Magic The Gathering",
+      "Star Trek mini dice cups"
+    ],
+    "images": [
+      {
+        "url": "https://static0.srcdn.com/wordpress/wp-content/uploads/2026/10/star-trek-nemesis-picard-and-tng-crew.jpg?w=1600&amp;h=900&amp;fit=crop",
+        "caption": "Star Trek 60th Anniversary Collection Releases This November",
+        "source": "Screen Rant"
+      }
+    ],
+    "published": "Wed, 25 Nov 2026 07:30:18 GMT"
+  },
+  "ivb674": {
+    "id": "ivb674",
+    "type": "news",
+    "headline": "Ben Stiller Recalls Owen Wilson's Disastrous First Audition for The Cable Guy",
+    "dek": "Ben Stiller recently shared that Owen Wilson gave one of the worst auditions he had ever witnessed before casting him in the 1996 comedy The Cable Guy.",
+    "body": [
+      {
+        "h": "An Unpromising Start",
+        "p": [
+          "Ben Stiller recently discussed his initial encounter with Owen Wilson during an appearance on The Drew Barrymore Show. The filmmaker and actor revealed that Wilson gave a reading for a role in the 1996 comedy The Cable Guy that ranks among the worst he has ever witnessed."
+        ]
+      },
+      {
+        "h": "The Casting Process",
+        "p": [
+          "Stiller directed The Cable Guy, which starred Jim Carrey and Matthew Broderick. The production's casting director suggested the Wilson brothers as interesting prospects for the project, noting that Owen Wilson had recently co-written and created Bottle Rocket alongside Wes Anderson and Luke Wilson."
+        ]
+      },
+      {
+        "h": "A Wooden Performance",
+        "p": [
+          "Despite admiring the 1994 short film Bottle Rocket, Stiller found Wilson's tryout remarkably stiff and unconvincing. He described the performance as entirely cardboard and lacking in quality, though he sensed an underlying comedic potential."
+        ]
+      },
+      {
+        "h": "Consulting Judd Apatow",
+        "p": [
+          "Unsure of how to proceed, Stiller sought guidance from producer Judd Apatow. When Stiller expressed his doubts, Apatow asked if Stiller himself was skilled at auditioning, prompting Stiller to admit that he was terrible at them."
+        ]
+      },
+      {
+        "h": "Taking a Chance",
+        "p": [
+          "That shared realization encouraged Stiller and Apatow to take a gamble on the actor. Wilson appeared in only a single scene in the final feature, but working together proved immensely enjoyable and marked the beginning of a lasting friendship."
+        ]
+      },
+      {
+        "h": "A Lasting Partnership",
+        "p": [
+          "Following their collaboration on The Cable Guy, the two actors went on to star together in several notable comedies. Their shared filmography includes Zoolander, The Royal Tenenbaums, Starsky & Hutch, and the Fockers franchise."
+        ]
+      },
+      {
+        "h": "Recent Collaborations",
+        "p": [
+          "The enduring professional relationship continues with their latest feature Focker-in-Law. In this film, they reprise their established roles as Greg Focker and Kevin Rawley alongside a supporting cast featuring Ariana Grande, Skyler Gisondo, Blythe Danner, and Beanie Feldstein."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Ben Stiller revealed on The Drew Barrymore Show that Owen Wilson delivered an extremely poor audition for The Cable Guy. Despite this unpromising start, the two formed a lasting friendship and career partnership that continues into their latest project, Focker-in-Law."
+        ]
+      }
+    ],
+    "facts": [
+      "Ben Stiller directed the 1996 comedy The Cable Guy.",
+      "Jim Carrey and Matthew Broderick starred in The Cable Guy.",
+      "Owen Wilson co-wrote and made the 1994 short film Bottle Rocket with Wes Anderson and Luke Wilson.",
+      "Judd Apatow served as a producer.",
+      "Ben Stiller and Owen Wilson have also starred in Zoolander, The Royal Tenenbaums, Starsky Hutch, and the Fockers franchise.",
+      "Focker-in-Law stars Ben Stiller, Owen Wilson, Ariana Grande, Skyler Gisondo, Blythe Danner, and Beanie Feldstein."
+    ],
+    "entities": {
+      "people": [
+        "Ben Stiller",
+        "Owen Wilson",
+        "Jim Carrey",
+        "Matthew Broderick",
+        "Wes Anderson",
+        "Luke Wilson",
+        "Judd Apatow",
+        "Drew Barrymore",
+        "Ariana Grande",
+        "Skyler Gisondo",
+        "Blythe Danner",
+        "Beanie Feldstein"
+      ],
+      "titles": [
+        "The Cable Guy",
+        "Bottle Rocket",
+        "Zoolander",
+        "The Royal Tenenbaums",
+        "Starsky & Hutch",
+        "Focker-in-Law"
+      ]
+    },
+    "keywords": [
+      "Ben Stiller Owen Wilson The Cable Guy",
+      "Ben Stiller Owen Wilson audition",
+      "The Cable Guy 1996 comedy",
+      "Focker-in-Law movie cast"
+    ],
+    "images": [
+      {
+        "url": "https://www.comingsoon.net/wp-content/uploads/sites/3/2026/11/MixCollage-25-Nov-2026-05-33-PM-2315.jpg?resize=1200,630",
+        "caption": "Ben Stiller Recalls Owen Wilson's Disastrous First Audition for The Cable Guy",
+        "source": "ComingSoon.net"
+      }
+    ],
+    "published": "Wed, 25 Nov 2026 06:34:13 +0000"
   }
 };
