@@ -243353,5 +243353,388 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Wed, 25 Nov 2026 02:11:27 +0000"
+  },
+  "1kcbpb0": {
+    "id": "1kcbpb0",
+    "type": "news",
+    "headline": "Avengers Doomsday Advance Booking Crosses Rs 60 Crore Mark in India",
+    "dek": "The upcoming Marvel superhero film Avengers: Doomsday has surpassed Rs 60 crore in advance ticket sales across India following the release of its final trailer.",
+    "body": [
+      {
+        "h": "Phenomenal Advance Sales",
+        "p": [
+          "The theatrical run of Avengers: Doomsday is generating unprecedented pre-release momentum in India. Weeks ahead of its scheduled premiere, advance ticket sales for the Marvel superhero project have officially powered past the significant milestone of Rs 60 crore.",
+          "This exceptional early demand highlights the massive anticipation surrounding the blockbuster. Fans across the country are securing their seats well in advance, setting the stage for what is expected to be a historic theatrical opening."
+        ]
+      },
+      {
+        "h": "Detailed Revenue Breakdown",
+        "p": [
+          "Current figures indicate that the gross collection across all days has reached Rs 61.19 crore. Meanwhile, the net collections, excluding blocked seats, stand firmly at Rs 53.01 crore.",
+          "The upward trajectory has been remarkably consistent, with the film adding Rs 7.72 crore to its advance booking ledger within a short span, marking a fourteen percent increase over previous totals."
+        ]
+      },
+      {
+        "h": "Trailer Release Triggers Surge",
+        "p": [
+          "The recent surge in ticket purchases was directly catalyzed by the launch of the final promotional trailer earlier in the week. The cinematic preview immediately captivated global audiences online.",
+          "Within its first twenty-four hours of release, the trailer amassed an astonishing 563 million views worldwide, driving intense consumer interest and translating directly into heavy box office pre-sales."
+        ]
+      },
+      {
+        "h": "Opening Weekend Projections",
+        "p": [
+          "The film's opening day on Thursday, December 17, is currently the primary contributor, accounting for Rs 25.94 crore in advance bookings alone. The opening weekend is also seeing heavy patronage.",
+          "Advance estimates show Friday, December 18 bringing in Rs 13.01 crore, followed closely by Saturday, December 19 at Rs 12.57 crore, and Sunday, December 20 currently standing at Rs 9.68 crore for advance sales."
+        ]
+      },
+      {
+        "h": "Language-Wise Performance",
+        "p": [
+          "English screenings are dominating the pre-sale market by a wide margin, contributing Rs 51.36 crore, which translates to roughly eighty-four percent of the overall gross collections across all scheduled days.",
+          "At the same time, ticket bookings for Hindi and Tamil language versions continue to expand steadily, as the movie prepares for a broad multilingual release in India that also includes Telugu."
+        ]
+      },
+      {
+        "h": "Milestone Aspirations and Cast",
+        "p": [
+          "Directed by Anthony and Joe Russo, the narrative unites an expansive roster of characters from across the Marvel universe, encompassing the Avengers, X-Men, and Fantastic Four. Notably, Robert Downey Jr. makes his franchise return as the primary antagonist, Doctor Doom.",
+          "With ticket sales opening nearly a month before its premiere, the film is eyeing the Rs 100 crore milestone in India. Reaching this target would make it the first Hollywood release to achieve Rs 100 crore purely in advance sales."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Avengers: Doomsday has crossed Rs 60 crore in advance ticket bookings across India ahead of its release following a popular final trailer launch. Directed by the Russo brothers and featuring Robert Downey Jr. as Doctor Doom, the blockbuster is eyeing a historic Rs 100 crore advance sales milestone."
+        ]
+      }
+    ],
+    "facts": [
+      "Advance bookings crossed the Rs 60 crore mark 22 days ahead of the theatrical release.",
+      "Total gross advance booking collections across all days reached Rs 61.19 crore.",
+      "Net collections excluding blocked seats stand at Rs 53.01 crore.",
+      "The film added Rs 7.72 crore to its advance booking total since November 24.",
+      "The final trailer garnered 563 million views within its first 24 hours.",
+      "Opening day is Thursday, December 17, with advance bookings of Rs 25.94 crore.",
+      "Friday, December 18 advance bookings are estimated at Rs 13.01 crore.",
+      "Saturday, December 19 advance bookings stand at Rs 12.57 crore.",
+      "Sunday, December 20 advance bookings stand at Rs 9.68 crore.",
+      "English version accounts for Rs 51.36 crore or 84% of total advance bookings.",
+      "The film is directed by Anthony and Joe Russo."
+    ],
+    "entities": {
+      "people": [
+        "Anthony Russo",
+        "Joe Russo",
+        "Robert Downey Jr."
+      ],
+      "titles": [
+        "Avengers: Doomsday",
+        "Avengers",
+        "X-Men",
+        "Fantastic Four"
+      ]
+    },
+    "keywords": [
+      "Avengers Doomsday advance booking",
+      "Avengers Doomsday box office India",
+      "Avengers Doomsday trailer views",
+      "Robert Downey Jr Doctor Doom"
+    ],
+    "images": [
+      {
+        "url": "https://static.toiimg.com/thumb/msid-136147965,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "caption": "Avengers Doomsday Advance Booking Crosses Rs 60 Crore Mark in India",
+        "source": "Times of India — Entertainment"
+      }
+    ],
+    "published": "2026-11-25T09:53:38+05:30"
+  },
+  "cevcrb": {
+    "id": "cevcrb",
+    "type": "news",
+    "headline": "The Lord of the Rings: The Rings of Power Season 4 Officially Confirmed by Amazon Prime Video",
+    "dek": "Amazon Prime Video has officially announced a fourth season for The Lord of the Rings: The Rings of Power following impressive viewership numbers and the release of the Season 3 finale.",
+    "body": [
+      {
+        "h": "Official Season 4 Confirmation",
+        "p": [
+          "Amazon Prime Video has officially announced that The Lord of the Rings: The Rings of Power will return for a fourth season. The streaming platform delivered this update alongside a brief promotional teaser on the exact day that the final two episodes of Season 3 debuted.",
+          "This early renewal serves as a reward for a production that has consistently maintained the leading position on Prime Video throughout its latest broadcast run."
+        ]
+      },
+      {
+        "h": "Early Pre-Production and Filming Plans",
+        "p": [
+          "Preparations for the fourth installment of the fantasy epic are already underway. Pre-production has begun, and filming crews are scheduled to start principal photography in the spring of 2027 at Shepperton Studios located in the United Kingdom."
+        ]
+      },
+      {
+        "h": "Setting and Narrative Foundation",
+        "p": [
+          "The narrative of the Tolkien adaptation takes place thousands of years prior to the events chronicled in the books, focusing entirely on the historical events of Middle-earth’s Second Age."
+        ]
+      },
+      {
+        "h": "Strong Viewership Metrics",
+        "p": [
+          "The decision by Amazon to greenlight another batch of episodes is supported by robust performance metrics. Season 3 accumulated 33 million views during its initial twelve days on the streaming service."
+        ]
+      },
+      {
+        "h": "Major Plot Milestones in Season 3",
+        "p": [
+          "The third season delivered a monumental storyline anticipated by fans for years. The narrative features Sauron forging the One Ring, culminating in its corrupting influence appearing when an unsuspecting boy places the ring on his finger and finds himself bound in service to the Dark Lord."
+        ]
+      },
+      {
+        "h": "Leadership and Creative Vision",
+        "p": [
+          "Peter Friedlander, who serves as the Head of Global Television at Amazon MGM Studios, described the renewal as a strong expression of confidence in the artistic team, noting that the program has evolved into a defining title for Prime Video. J.D. Payne and Patrick McKay direct the narrative as showrunners and executive producers, working alongside fellow executive producers Lindsey Weber, Kate Hazell, Justin Doble, and Charlotte Brändström, who also directs episodes."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Amazon Prime Video has officially renewed The Lord of the Rings: The Rings of Power for a fourth season following strong viewership for Season 3, which reached 33 million views in twelve days and featured the forging of the One Ring. Pre-production is currently underway with filming set to commence in spring 2027 at Shepperton Studios in the U.K."
+        ]
+      }
+    ],
+    "facts": [
+      "Amazon Prime Video confirmed The Lord of the Rings: The Rings of Power will return for Season 4 on November 24, 2026.",
+      "Cameras will roll for Season 4 in spring 2027 at Shepperton Studios in the U.K.",
+      "Season 3 got 33 million views in its first 12 days on the platform.",
+      "Peter Friedlander is the Head of Global Television at Amazon MGM Studios.",
+      "J.D. Payne and Patrick McKay run the series as showrunners and executive producers."
+    ],
+    "entities": {
+      "people": [
+        "Devanshi Basu",
+        "Peter Friedlander",
+        "J.D. Payne",
+        "Patrick McKay",
+        "Lindsey Weber",
+        "Kate Hazell",
+        "Justin Doble",
+        "Charlotte Brändström",
+        "Matthew Penry-Davey",
+        "Ally O’Leary Cantrell",
+        "Tim Keene",
+        "Andrew Lee"
+      ],
+      "titles": [
+        "The Lord of the Rings: The Rings of Power",
+        "Gremlins 3",
+        "Heroic",
+        "Avengers: Doomsday",
+        "Home Alone"
+      ]
+    },
+    "keywords": [
+      "The Lord of the Rings The Rings of Power Season 4",
+      "The Rings of Power Season 4 official renewal",
+      "Amazon Prime Video Rings of Power",
+      "J.D. Payne Patrick McKay Rings of Power"
+    ],
+    "images": [
+      {
+        "url": "https://www.comingsoon.net/wp-content/uploads/sites/3/2026/11/edited-image-2026-11-25T091425.696.webp?resize=1200,630",
+        "caption": "The Lord of the Rings: The Rings of Power Season 4 Officially Confirmed by Amazon Prime Video",
+        "source": "ComingSoon.net"
+      }
+    ],
+    "published": "Wed, 25 Nov 2026 03:45:57 +0000"
+  },
+  "15943hm": {
+    "id": "15943hm",
+    "type": "news",
+    "headline": "Kevin Feige Reveals Doctor Doom Was Always Part of the MCU Plan for Secret Wars",
+    "dek": "Marvel Studios head Kevin Feige clarifies that Doctor Doom was planned for Secret Wars long before the Jonathan Majors controversy prompted a shift to a Doom-centered narrative.",
+    "body": [
+      {
+        "h": "The Shift in the Marvel Cinematic Universe",
+        "p": [
+          "The fifth installment in the Avengers franchise, titled Avengers: Doomsday, is rapidly approaching its theatrical debut. Just a couple of years ago, however, this specific film project did not exist in Marvel's production slate. Instead, the fifth Avengers outing was widely known as Avengers: Kang Dynasty, featuring Jonathan Majors reprising his villainous role from Ant-Man and the Wasp: Quantumania.",
+          "Plans underwent a massive revision following legal challenges faced by Jonathan Majors and a period of diminishing box-office returns for the studio. These combined factors prompted Marvel Studios to pivot away from a narrative centered heavily on Kang, steering the overarching story toward Doctor Doom instead."
+        ]
+      },
+      {
+        "h": "Addressing the Rumors of a Sudden Pivot",
+        "p": [
+          "Public speculation suggested that casting Robert Downey Jr. as Doctor Doom was entirely a reactive measure designed to rescue the franchise following the abrupt departure of Jonathan Majors. Observers assumed the studio scrambled to find a major star and a brand-new villain to reinvent the cinematic universe.",
+          "However, Marvel Studios chief Kevin Feige has firmly pushed back against that narrative. He insists that the iconic comic book villain was always intended to play a critical role in the overarching trajectory leading to Secret Wars."
+        ]
+      },
+      {
+        "h": "Kevin Feige Explains the Original Vision",
+        "p": [
+          "In a recent conversation with Entertainment Weekly, Kevin Feige shed light on how the creative team approached the overarching storyline. He pointed out that anyone familiar with the Secret Wars comic books understands how monumental Doctor Doom is to that particular narrative arc.",
+          "Feige explained that while the studio always leaned toward adapting Secret Wars, they knew it was impossible to execute properly without incorporating Doctor Doom. He noted that discussions about integrating Doom were taking place even during the development of the earliest drafts for Kang Dynasty."
+        ]
+      },
+      {
+        "h": "Evolving the Narrative Around Doom",
+        "p": [
+          "According to the Marvel chief, the original plan was for Kang Dynasty to naturally lay the groundwork for Doctor Doom's introduction. As development progressed, the creative direction shifted to make the storyline progressively more focused on Doom.",
+          "The studio felt that giving the character a much larger and more direct role was essential to properly build him up and earn his integration into the Secret Wars storyline."
+        ]
+      },
+      {
+        "h": "Robert Downey Jr. Returns as a Different Icon",
+        "p": [
+          "The upcoming film marks the return of Robert Downey Jr. to the Marvel Cinematic Universe after a gap of seven years. Rather than reprising his legendary role as Tony Stark, the actor steps into the shoes of Doctor Doom.",
+          "Discussing the role, Downey mentioned that he wanted a strong visual element to rely on while distancing himself as much as possible from Tony Stark. When addressing fan theories regarding whether this new character is a variant of Stark, directors the Russo Brothers simply advised audiences to watch the movie for answers."
+        ]
+      },
+      {
+        "h": "Global Release and Anticipation",
+        "p": [
+          "Avengers: Doomsday is scheduled to hit theaters globally on December 18. Fans in India will have the opportunity to watch the spectacle a day earlier, on December 17.",
+          "The production is already breaking records within India regarding advance ticket bookings, signaling immense interest from moviegoers worldwide."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Marvel Studios head Kevin Feige stated that Doctor Doom was always part of the long-term plan for the Secret Wars storyline, predating the casting changes involving Jonathan Majors. The upcoming film Avengers: Doomsday features Robert Downey Jr. as Doctor Doom and is set to arrive in theaters in December."
+        ]
+      }
+    ],
+    "facts": [
+      "Avengers: Doomsday is the fifth Avengers film.",
+      "Jonathan Majors previously played Kang the Conqueror in Ant-Man and the Wasp: Quantumania.",
+      "Kevin Feige is the head of Marvel Studios.",
+      "Robert Downey Jr. plays Doctor Doom in Avengers: Doomsday.",
+      "Avengers: Doomsday releases worldwide on December 18 and in India on December 17."
+    ],
+    "entities": {
+      "people": [
+        "Kevin Feige",
+        "Jonathan Majors",
+        "Robert Downey Jr.",
+        "Abhimanyu Mathur"
+      ],
+      "titles": [
+        "Avengers: Doomsday",
+        "Avengers: Kang Dynasty",
+        "Ant-Man and the Wasp: Quantumania",
+        "Secret Wars"
+      ]
+    },
+    "keywords": [
+      "Kevin Feige Doctor Doom",
+      "Avengers Doomsday release date",
+      "Robert Downey Jr Doctor Doom",
+      "Secret Wars MCU plans",
+      "Jonathan Majors Kang fallout"
+    ],
+    "images": [
+      {
+        "url": "https://www.hindustantimes.com/ht-img/img/2026/11/25/1600x900/logo/Doomsday_1776858889593_1776858910794_1795578518727_VPOz_13836a59-53d5-4bdc-b9b0-f4ce88ba2905_ajtZ.jpg",
+        "caption": "Kevin Feige Reveals Doctor Doom Was Always Part of the MCU Plan for Secret Wars",
+        "source": "Hindustan Times — Entertainment"
+      }
+    ],
+    "published": "Wed, 25 Nov 2026 10:15:52 +0530"
+  },
+  "a06si5": {
+    "id": "a06si5",
+    "type": "news",
+    "headline": "Disney's Animated Feature Hexed Stumbles on Rotten Tomatoes Ahead of Release",
+    "dek": "Walt Disney Animation Studios' 65th feature film, Hexed, arrives in theaters with mixed reviews and a modest Rotten Tomatoes score following its initial critical rollout.",
+    "body": [
+      {
+        "h": "Initial Critical Reception",
+        "p": [
+          "Walt Disney Animation Studios approaches its latest theatrical rollout with a mix of anticipation and critical hesitation. Ahead of its official release, the studio's new fantasy adventure project opened on Rotten Tomatoes with a 55 percent Tomatometer score before settling at a 68 percent rating based on 53 early reviews.",
+          "This initial critical response highlights a lukewarm consensus from reviewers. While some critics found elements to praise, the overall reception indicates that the picture struggled to capture the universal acclaim that Disney animated releases often aim for."
+        ]
+      },
+      {
+        "h": "Plot and Premise",
+        "p": [
+          "The 103-minute fantasy adventure serves as the 65th animated feature from Walt Disney Animation Studios. The story follows a teenage outcast who discovers that both she and her family possess hidden magical abilities.",
+          "Trailers for the project previously showcased the protagonist's journey into a mystical realm inhabited by witches known as Hexe. The narrative centers on this magical awakening and the familial dynamics tied to it."
+        ]
+      },
+      {
+        "h": "Voice Cast and Characters",
+        "p": [
+          "The voice cast features Hailee Steinfeld in the lead role of Billie Doe. Steinfeld is also slated to appear in Marvel Studios' upcoming project Avengers: Doomsday.",
+          "Joining her is Rashida Jones, who voices Alice Doe, portraying Billie's mother. Additional voice talent attached to the production includes Jodie Foster as Queen Celeste and Walton Goggins as Beef Roger Crummchuk."
+        ]
+      },
+      {
+        "h": "Critic Perspectives and Reviews",
+        "p": [
+          "Early reviews offered a wide range of opinions on the magical adventure. Odie Henderson of The Boston Globe stated being on the fence while offering a marginal recommendation, whereas Zach Pope described the project as a mixed bag of charm and missed potential.",
+          "Other critics were less enthusiastic. Carla Hay of Culture Mix characterized the film as cluttered and uninspired, and Avi Offer of NYC Movie Guru called it mildly engaging but ultimately forgettable. Similarly, Peter Sobczynski of RogerEbert.com noted that the film remained on the verge of intrigue without making a final creative leap."
+        ]
+      },
+      {
+        "h": "Positive Highlights",
+        "p": [
+          "Despite the broader critical division, certain reviewers found notable strengths in the production. MovieWeb critic Pamela Gores delivered a positive assessment, drawing attention to the emotional mother-daughter bond shared between Steinfeld's Billie and Jones' Alice.",
+          "While pointing out minor flaws such as uneven musical needle drops and supporting voice performances that occasionally lagged behind the main leads, the review still characterized the viewing experience as an enjoyable one."
+        ]
+      },
+      {
+        "h": "Box Office and Holiday Competition",
+        "p": [
+          "Disney now looks toward general audiences as the movie hits theaters over Thanksgiving weekend. The studio hopes that family audiences looking for holiday entertainment will drive positive box office momentum.",
+          "The release faces notable theatrical competition during the holiday frame, including titles such as Focker-in-Law and The Hunger Games: Sunrise on the Reaping. However, its family-friendly focus positions it as a viable choice for younger viewers."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Walt Disney Animation Studios released its 65th animated feature, Hexed, to mixed reviews on Rotten Tomatoes. Starring Hailee Steinfeld and Rashida Jones, the fantasy adventure now looks to win over family audiences during the Thanksgiving holiday weekend amidst competitive box office offerings."
+        ]
+      }
+    ],
+    "facts": [
+      "Hexed is Walt Disney Animation Studios' 65th animated feature.",
+      "The film has a runtime of 103 minutes.",
+      "The movie opened with a 55 percent Tomatometer score before moving to 68 percent based on 53 reviews.",
+      "Hailee Steinfeld voices Billie Doe and Rashida Jones voices Alice Doe.",
+      "Jodie Foster voices Queen Celeste and Walton Goggins voices Beef Roger Crummchuk.",
+      "The film releases on November 25, 2026."
+    ],
+    "entities": {
+      "people": [
+        "Hailee Steinfeld",
+        "Rashida Jones",
+        "Odie Henderson",
+        "Zach Pope",
+        "Carla Hay",
+        "Avi Offer",
+        "Peter Sobczynski",
+        "Pamela Gores",
+        "Jodie Foster",
+        "Walton Goggins"
+      ],
+      "titles": [
+        "Hexed",
+        "Toy Story 5",
+        "The Devil Wears Prada 2",
+        "Avengers: Doomsday",
+        "Focker-in-Law",
+        "The Hunger Games: Sunrise on the Reaping"
+      ]
+    },
+    "keywords": [
+      "Hexed Disney movie",
+      "Hailee Steinfeld Hexed",
+      "Rashida Jones Disney animated film",
+      "Hexed Rotten Tomatoes reviews"
+    ],
+    "images": [
+      {
+        "url": "https://static0.moviewebimages.com/wordpress/wp-content/uploads/2026/07/qq.jpg?w=1600&amp;h=900&amp;fit=crop",
+        "caption": "Disney's Animated Feature Hexed Stumbles on Rotten Tomatoes Ahead of Release",
+        "source": "MovieWeb"
+      }
+    ],
+    "published": "Wed, 25 Nov 2026 03:31:20 GMT"
   }
 };
