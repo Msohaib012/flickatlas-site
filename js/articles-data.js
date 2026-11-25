@@ -249066,5 +249066,400 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Wed, 25 Nov 2026 21:11:16 +0000"
+  },
+  "1y0q4ba": {
+    "id": "1y0q4ba",
+    "type": "news",
+    "headline": "Ramayana Surpasses Pushpa 2 With Massive Worldwide Collections",
+    "dek": "The mythological epic Ramayana crosses a major global milestone by overtaking the lifetime earnings of Pushpa 2 after twenty-one days in theatres.",
+    "body": [
+      {
+        "h": "Global Milestone Reached",
+        "p": [
+          "The mythological epic Ramayana has achieved a monumental global milestone by crossing the lifetime worldwide collections of Allu Arjun's Pushpa 2.",
+          "After twenty-one days of theatrical run, the film recorded an astounding cumulative worldwide gross of Rs 1755.6cr, officially overtaking Pushpa 2's lifetime total of Rs 1742.1cr."
+        ]
+      },
+      {
+        "h": "Rank Among All-Time Grossers",
+        "p": [
+          "Following this extraordinary financial triumph, the Nitesh Tiwari directorial has firmly established itself as the fourth highest grossing Indian film worldwide.",
+          "It now stands proudly behind only a select few cinematic blockbusters in global earnings, namely Dangal, Dhurandhar 2, and Baahubali 2."
+        ]
+      },
+      {
+        "h": "Domestic Performance Figures",
+        "p": [
+          "The domestic box office has contributed massively to the overall financial success of the venture throughout its ongoing theatrical journey.",
+          "On the twenty-first day alone, the feature minted Rs 9.6cr domestically, pushing its cumulative domestic earnings to an impressive Rs 982.55cr."
+        ]
+      },
+      {
+        "h": "Overseas Market Earnings",
+        "p": [
+          "International markets have continued to play a significant role despite facing certain exhibition challenges and theatre reductions in regions like the United States.",
+          "Reports indicate that the international territories added Rs 6cr on day 21, lifting the overseas total to a formidable Rs 582cr."
+        ]
+      },
+      {
+        "h": "Star-Studded Cast and Crew",
+        "p": [
+          "Much of the unprecedented attention surrounding the project stems from its stellar ensemble bringing together top-tier cinematic talent for the first time.",
+          "Ranbir Kapoor stars as Lord Ram, Sai Pallavi portrays Sita, and Yash takes on the role of Raavan, supported by actors such as Arun Govil, Lara Dutta, Rakul Preet Singh, and Ravi Dubey."
+        ]
+      },
+      {
+        "h": "Theatrical Journey and Challenges",
+        "p": [
+          "The feature opened to a mixed initial response before gaining tremendous momentum and frequently competing against major titles like Jawan, Pathaan, and KGF Chapter 2.",
+          "Despite experiencing a slight slowdown during its third week and getting pulled from nearly 800 screens in the US, the movie successfully wrapped up week three with historic numbers."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Ramayana has beaten Pushpa 2's lifetime worldwide collection to become the fourth highest grossing Indian movie globally after twenty-one days in cinemas.",
+          "The mythological epic achieved these figures through strong domestic collections and overseas earnings despite facing a slowdown in its third week."
+        ]
+      }
+    ],
+    "facts": [
+      "Ramayana made a collection of Rs 6cr in the overseas on day 21",
+      "Overall overseas collection reached Rs 582cr",
+      "Worldwide collection after 21 days is Rs 1755.6cr",
+      "Pushpa 2 lifetime worldwide collection was Rs 1742.1cr",
+      "Ramayana is the 4th highest grossing Indian movie worldwide after Dangal, Dhurandhar 2 and Baahubali 2",
+      "Day 21 domestic collection was Rs 9.6cr",
+      "Overall domestic collection after 21 days is Rs 982.55cr"
+    ],
+    "entities": {
+      "people": [
+        "Ranbir Kapoor",
+        "Sai Pallavi",
+        "Yash",
+        "Nitesh Tiwari",
+        "Arun Govil",
+        "Lara Dutta",
+        "Rakul Preet Singh",
+        "Ravi Dubey",
+        "Allu Arjun"
+      ],
+      "titles": [
+        "Ramayana",
+        "Pushpa 2",
+        "KGF",
+        "Dhurandhar 2",
+        "Jawan",
+        "Pathaan",
+        "KGF Chapter 2",
+        "Dangal",
+        "Baahubali 2"
+      ]
+    },
+    "keywords": [
+      "Ramayana film",
+      "Ramayana box office",
+      "Ramayana Pushpa 2 collection",
+      "Ranbir Kapoor Ramayana"
+    ],
+    "images": [
+      {
+        "url": "https://images.filmibeat.com/img/2026/11/ramayanawwday21feature-65391795645039.jpg",
+        "caption": "Ramayana Surpasses Pushpa 2 With Massive Worldwide Collections",
+        "source": "FilmiBeat"
+      }
+    ],
+    "published": "Thu, 26 Nov 2026 03:48:43 +0530"
+  },
+  "6kq0fc": {
+    "id": "6kq0fc",
+    "type": "news",
+    "headline": "Park Min Young and Yook Sung Jae's New Series 'Nine to Six' Debuts with Solid Ratings",
+    "dek": "The much-anticipated office romantic comedy starring Park Min Young and Yook Sung Jae officially launched on SBS, capturing a steady initial viewership across South Korea.",
+    "body": [
+      {
+        "h": "A Promising Launch for Nine to Six",
+        "p": [
+          "The newly debuted television drama 'Nine to Six' has officially made its entry onto the broadcasting scene. Capturing the attention of K-drama enthusiasts, the show began its broadcast run with a solid nationwide viewership percentage.",
+          "Audiences tuning into the premiere witnessed the initial setup of the narrative, establishing a firm foundation for the ongoing storyline as the main characters step into their respective professional and romantic dynamics."
+        ]
+      },
+      {
+        "h": "Nielsen Korea Reports Premiere Numbers",
+        "p": [
+          "According to official data released by Nielsen Korea, the opening broadcast of the new series achieved a nationwide rating of 3.6 percent. This figure marks the starting point for the program's weekly television run.",
+          "The measurement provides network executives and production teams with a clear benchmark of initial audience interest as the series prepares to roll out subsequent episodes."
+        ]
+      },
+      {
+        "h": "Starring Park Min Young and Yook Sung Jae",
+        "p": [
+          "The series features prominent television actors Park Min Young and Yook Sung Jae in the leading roles. Their casting has been a major point of interest for fans tracking the project prior to its release.",
+          "Both performers bring their extensive acting experience to the office romantic comedy genre, portraying characters navigating the daily challenges and humorous situations of a corporate workplace."
+        ]
+      },
+      {
+        "h": "Broadcasting Schedule and Network Details",
+        "p": [
+          "As an SBS Wednesday-Thursday drama, the program occupies a prominent weekday time slot on the network. The series took over the broadcasting slot previously held by the variety program 'Kick a Goal'.",
+          "For international viewers, the project is accessible through digital platforms, streaming globally on Prime Video alongside its domestic television broadcast in South Korea."
+        ]
+      },
+      {
+        "h": "Predecessor Slot Performance",
+        "p": [
+          "The time slot previously occupied by the variety program 'Kick a Goal' had established a consistent viewership trend for the network. During its run, that program typically drew ratings residing within the 3 percent range.",
+          "By stepping into this established broadcasting window, the new fictional series maintains a comparable baseline of viewer engagement while transitioning the network's programming from unscripted variety content to scripted romantic comedy."
+        ]
+      },
+      {
+        "h": "Genre and Production Context",
+        "p": [
+          "Categorized primarily as an office romantic comedy, 'Nine to Six' blends professional workplace environments with lighthearted comedic and romantic elements. This genre remains a popular choice among domestic and international television audiences.",
+          "The collaboration between the lead cast members and the production crew under SBS aims to deliver an engaging weekly experience for fans of contemporary Korean serial dramas."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Park Min Young and Yook Sung Jae's new SBS drama 'Nine to Six' premiered on November 25, 2026, recording a 3.6 percent nationwide rating according to Nielsen Korea. Taking over the Wednesday-Thursday time slot from the variety show 'Kick a Goal', the office romantic comedy also streams internationally on Prime Video."
+        ]
+      }
+    ],
+    "facts": [
+      "Park Min Young and Yook Sung Jae star in 'Nine to Six'",
+      "The premiere aired on November 25, 2026",
+      "The first episode recorded 3.6 percent nationwide ratings according to Nielsen Korea",
+      "The show airs Wednesdays and Thursdays on SBS and streams on Prime Video",
+      "It took over the time slot of the variety show 'Kick a Goal'"
+    ],
+    "entities": {
+      "people": [
+        "Park Min Young",
+        "Yook Sung Jae"
+      ],
+      "titles": [
+        "Nine to Six",
+        "Kick a Goal"
+      ]
+    },
+    "keywords": [
+      "Nine to Six",
+      "Park Min Young Nine to Six",
+      "Yook Sung Jae Nine to Six",
+      "Nine to Six premiere ratings"
+    ],
+    "images": [
+      {
+        "url": "https://i.mydramalist.com/onn60v_2d.jpg",
+        "caption": "Park Min Young and Yook Sung Jae's New Series 'Nine to Six' Debuts with Solid Ratings",
+        "source": "MyDramaList"
+      }
+    ],
+    "published": "Wed, 25 Nov 2026 22:29:56 +0000"
+  },
+  "uzd7q": {
+    "id": "uzd7q",
+    "type": "news",
+    "headline": "Avengers: Doomsday Final Trailer Smashes Disney Records With 563 Million Views",
+    "dek": "The final trailer for Avengers: Doomsday has achieved a historic milestone by pulling in 563 million views within its first 24 hours.",
+    "body": [
+      {
+        "h": "Record-Breaking Trailer Debut",
+        "p": [
+          "The final promotional preview for Avengers: Doomsday has generated massive attention across the globe, racking up over 500 million views within its initial 24-hour window. WaveMetrix numbers confirm the final tally reached 563 million views, establishing a brand-new record for Disney.",
+          "Typically, final trailers experience a drop in viewership compared to initial teaser releases. However, this Marvel film defied industry trends by outperforming expectations and securing the studio's highest-ever numbers for a trailer launch."
+        ]
+      },
+      {
+        "h": "Global Standings and Comparisons",
+        "p": [
+          "Globally, the preview secured the second position for most-watched movie trailers in a 24-hour period. It sits just behind Spider-Man: Brand New Day, which accumulated 718.6 million views during its opening day.",
+          "The Avengers: Doomsday final trailer performed remarkably well when stacked against other major releases. It pulled in more than three times the first-day viewership of the final trailer for Spider-Man: Brand New Day, which stood at 131 million views, and easily surpassed Deadpool Wolverine's 2024 Super Bowl teaser count of 365 million."
+        ]
+      },
+      {
+        "h": "Social Media Dominance and Streaming Milestones",
+        "p": [
+          "Beyond raw view counts, the promotional drop triggered nearly one million social media mentions during its first day online. This makes it the second most discussed trailer since 2023, trailing only the film's own earlier teaser which brought in one million mentions.",
+          "YouTube metrics also reflected the intense public interest. By the morning of November 24, the trailer claimed the top three spots on YouTube's Movie Trending Charts, while the Doomsday Countdown Clock livestream peaked at a record 306,000 concurrent viewers."
+        ]
+      },
+      {
+        "h": "New International Teaser Insights",
+        "p": [
+          "A fresh 30-second international teaser dropped on November 25, offering audiences a glimpse of Thor and Steve Rogers walking toward Doctor Doom's throne. Another sequence showcases a superhero gathering at what fans speculate could be Steve's house in the Earth-828 timeline.",
+          "These quick glimpses have fueled widespread speculation concerning the overarching plot, character allegiances, and how various cinematic universes will intersect to confront Doctor Doom, building even higher anticipation for next month's theatrical release."
+        ]
+      },
+      {
+        "h": "Extensive Promotional Campaign",
+        "p": [
+          "According to WaveMetrix data, the entire promotional campaign for Avengers: Doomsday has accumulated a staggering 3.3 billion trailer views and 4.8 million social media mentions across multiple phases. Key milestones included the Robert Downey Jr. reveal at San Diego Comic-Con and a cast announcement livestream in March 2025 that drew 275 million digital views.",
+          "The global marketing blitz kicked off with appearances by Chris Evans, Anthony Mackie, and Simu Liu at a Formula 1 race in Las Vegas. Promotional activities also featured a Doctor Doom-themed show car, an Avengers-branded midnight air taxi, and an extensive takeover of the Sphere."
+        ]
+      },
+      {
+        "h": "Worldwide Installations",
+        "p": [
+          "The publicity push is slated to travel across international cities including Sao Paulo, Gold Coast, Rome, London, Seoul, Shanghai, Toronto, and Los Angeles. Meanwhile, large outdoor installations featuring characters from the Marvel Cinematic Universe have emerged in domestic locations such as Oakland, New Orleans, Santa Fe, New York, and New Jersey.",
+          "These large-scale setups continue to drive heavy engagement on social media platforms, keeping the title at the forefront of entertainment news ahead of its premiere."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "The final trailer for Avengers: Doomsday broke Disney records by garnering 563 million views in 24 hours, ranking second globally behind Spider-Man: Brand New Day. Alongside massive social media traction and a new international teaser featuring Thor and Steve Rogers, the film's extensive global marketing campaign continues to drive unprecedented anticipation."
+        ]
+      }
+    ],
+    "facts": [
+      "Avengers: Doomsday final trailer reached 563 million views in 24 hours",
+      "Spider-Man: Brand New Day had 718.6 million views in its first 24 hours",
+      "Spider-Man: Brand New Day opened to $360 million in the domestic box office",
+      "Deadpool Wolverine's 2024 Super Bowl teaser tallied 365 million views",
+      "The final trailer for Spider-Man: Brand New Day received 131 million views on its first day",
+      "The Doomsday Countdown Clock livestream peaked at 306,000 concurrent viewers",
+      "The promotional campaign generated 3.3 billion trailer views and 4.8 million social media mentions",
+      "The cast announcement livestream in March 2025 had 275 million digital views and 3.1 million interactions"
+    ],
+    "entities": {
+      "people": [
+        "Steve Rogers",
+        "Thor",
+        "Doctor Doom",
+        "Robert Downey Jr.",
+        "Chris Evans",
+        "Anthony Mackie",
+        "Simu Liu"
+      ],
+      "titles": [
+        "Avengers: Doomsday",
+        "Spider-Man: Brand New Day",
+        "Deadpool Wolverine"
+      ]
+    },
+    "keywords": [
+      "Avengers Doomsday trailer",
+      "Avengers Doomsday 563 million views",
+      "Doctor Doom throne teaser",
+      "Marvel cinematic universe updates"
+    ],
+    "images": [
+      {
+        "url": "https://images.timesnownews.com/thumb/msid-156564204,thumbsize-1549981,width-1280,height-720,resizemode-75/156564204.jpg",
+        "caption": "Avengers: Doomsday Final Trailer Smashes Disney Records With 563 Million Views",
+        "source": "Times Now — Entertainment"
+      }
+    ],
+    "published": "2026-11-25T22:53:11Z"
+  },
+  "jfkg37": {
+    "id": "jfkg37",
+    "type": "news",
+    "headline": "Bob Odenkirk's Action Thriller Normal Becomes a Massive Streaming Hit",
+    "dek": "After struggling during its theatrical run, the 91-minute genre picture starring Bob Odenkirk finds new life and climbs global streaming charts on HBO Max.",
+    "body": [
+      {
+        "h": "Introduction to the Streaming Phenomenon",
+        "p": [
+          "Action cinema frequently relies on dependable formulas, yet viewers occasionally discover features that breathe fresh energy into familiar templates. Bob Odenkirk leads a distinctive genre entry that blends high-octane thrills with dark humor and unconventional pacing. Reminiscent of classic crime narratives and hard-boiled thrillers, the project offers a unique viewing experience.",
+          "Despite an initial low-profile theatrical release earlier in the year, the picture has successfully built momentum on digital platforms. Audiences seeking a creative spin on the ordinary-man-in-extraordinary-circumstances trope have embraced the production, pushing it up the popularity charts on major streaming services."
+        ]
+      },
+      {
+        "h": "Plot and Setting in Normal",
+        "p": [
+          "Directed by Ben Wheatley, the narrative centers on Ulysses Richardson, a substitute sheriff assigned to a quiet Minnesota community where disturbance is practically unheard of. However, a botched bank robbery disrupts the tranquility, prompting Ulysses to dig deeper into local affairs.",
+          "His investigation reveals that the seemingly peaceful town hides a heavily guarded bank vault containing assets tied to a dangerous criminal syndicate. The juxtaposition of a sleepy snow-covered town with high-stakes criminal operations drives the central tension of the story."
+        ]
+      },
+      {
+        "h": "Bob Odenkirk's Evolution as an Action Star",
+        "p": [
+          "Best known for dramatic television and comedy projects, Bob Odenkirk transitioned into action cinema with his role as a retired assassin in the film Nobody. Collaborating with creative minds behind prominent action franchises helped him redefine his screen persona.",
+          "For this project, Odenkirk co-developed the underlying story alongside writer Derek Kolstad. Their combined vision ensured that the narrative subverted traditional action expectations while keeping the protagonist grounded and compelling for fans."
+        ]
+      },
+      {
+        "h": "Directorial Vision and Supporting Cast",
+        "p": [
+          "Helmed by filmmaker Ben Wheatley, the production benefits from a distinct visual style and brisk pacing. The 91-minute runtime keeps the narrative tightly focused without unnecessary exposition or padded subplots.",
+          "The supporting ensemble adds significant weight to the story, featuring recognizable performers such as Lena Headey, Henry Winkler, and Brendan Fletcher. Their contributions help flesh out the eccentric residents of the secretive Minnesota community."
+        ]
+      },
+      {
+        "h": "Theatrical Struggles and Critical Reception",
+        "p": [
+          "Prior to its digital debut, the feature went through a festival run before arriving in cinemas in April 2026. Unfortunately, the box office returns were modest, pulling in just over six million dollars during its theatrical window.",
+          "Critical response, on the other hand, was largely favorable. The movie earned a certified fresh designation on Rotten Tomatoes with a 78 percent approval rating from critics, who praised the balance of action and dark comedy."
+        ]
+      },
+      {
+        "h": "Global Streaming Success on HBO Max",
+        "p": [
+          "Following its arrival on HBO Max, the movie quickly connected with a wider audience that missed its theatrical run. Word of mouth and algorithmic discovery propelled the title onto the service's daily top-ten rankings.",
+          "According to recent platform updates, the action picture secured the number six spot on the list, outperforming several high-profile blockbusters and long-running franchise entries in viewer engagement."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Bob Odenkirk's action thriller Normal has achieved major success on streaming after struggling at the box office earlier in the year. Directed by Ben Wheatley and co-written by Derek Kolstad, the 91-minute feature has climbed to the top charts on HBO Max following positive critical reception."
+        ]
+      }
+    ],
+    "facts": [
+      "Normal is a 91-minute action thriller starring Bob Odenkirk.",
+      "The film was directed by Ben Wheatley.",
+      "Derek Kolstad co-wrote the story with Bob Odenkirk.",
+      "The cast includes Lena Headey, Henry Winkler, Brendan Fletcher, and Billy MacLellan.",
+      "The movie had a festival run in 2025 and released in theaters in April 2026.",
+      "The film grossed a little over $6 million at the box office.",
+      "Normal received a 78% critics' score and Certified Fresh status on Rotten Tomatoes.",
+      "The movie ranked at No. 6 on HBO Max's top-10 list of most popular movies."
+    ],
+    "entities": {
+      "people": [
+        "Bob Odenkirk",
+        "Ben Wheatley",
+        "Derek Kolstad",
+        "Lena Headey",
+        "Henry Winkler",
+        "Brendan Fletcher",
+        "Billy MacLellan",
+        "David Leitch"
+      ],
+      "titles": [
+        "Normal",
+        "Nobody",
+        "Meg 2: The Trench",
+        "Kill List",
+        "Better Call Saul",
+        "The Hunger Games",
+        "The End of Oak Street",
+        "The Super Mario Galaxy Movie",
+        "Insidious: Out of the Further",
+        "Cocaine Bear",
+        "The Hunger Games: Catching Fire",
+        "The Mule",
+        "The Hunger Games: Mockingjay – Part 1",
+        "Matilda"
+      ]
+    },
+    "keywords": [
+      "Normal film",
+      "Bob Odenkirk Normal",
+      "Ben Wheatley Normal",
+      "Derek Kolstad Normal"
+    ],
+    "images": [
+      {
+        "url": "https://static0.moviewebimages.com/wordpress/wp-content/uploads/2026/08/bob-odenkirk-holds-a-shotgun-in-normal.jpg?w=1600&amp;h=900&amp;fit=crop",
+        "caption": "Bob Odenkirk's Action Thriller Normal Becomes a Massive Streaming Hit",
+        "source": "MovieWeb"
+      }
+    ],
+    "published": "Wed, 25 Nov 2026 22:31:17 GMT"
   }
 };
