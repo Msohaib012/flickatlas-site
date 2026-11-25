@@ -247068,5 +247068,437 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Wed, 25 Nov 2026 18:40:18 +0530"
+  },
+  "3fcid6": {
+    "id": "3fcid6",
+    "type": "news",
+    "headline": "Shraddha Kapoor's Eetha Enters Record Books Following Massive Lavani Dance Event",
+    "dek": "The upcoming feature Eetha secured entries in both the India Book of Records and the Asia Book of Records after hundreds of participants gathered in Pune to perform a synchronized traditional routine.",
+    "body": [
+      {
+        "h": "Record-Breaking Gathering in Pune",
+        "p": [
+          "The forthcoming cinematic project Eetha achieved a notable milestone even before hitting theatre screens by officially entering both the India Book of Records and the Asia Book of Records. This achievement materialized when a large assembly of participants gathered to perform a traditional regional dance routine in unison.",
+          "The mass performance took place at Zeal University located in Pune. A total of 517 women representing various age brackets came together to execute the specific choreography, creating a visually striking spectacle that caught the attention of official adjudicators."
+        ]
+      },
+      {
+        "h": "Synchronized Traditional Performance",
+        "p": [
+          "The participants successfully executed the Lavani hook steps derived directly from the movie's inaugural musical track. Maintaining precise coordination for a duration of one minute, the large group performed the traditional movements in complete synchrony.",
+          "Officials representing the Asia Book of Records were present at the venue to observe the entire sequence and officially verify the successful completion of the record-setting attempt."
+        ]
+      },
+      {
+        "h": "Honors and Recognition",
+        "p": [
+          "Following the successful execution of the routine, formal recognition was distributed to key figures associated with the production. Official certificates and gold medals were presented directly to lead actress Shraddha Kapoor and director Laxman Utekar.",
+          "Additional honors were extended to representatives of the production entities backing the project, acknowledging their collaborative efforts in organizing the promotional milestone."
+        ]
+      },
+      {
+        "h": "Musical Background of the Track",
+        "p": [
+          "The record-setting choreography was set to the musical composition titled 'Ji Ji Re Ji', which serves as the primary promotional track for the feature. The song was made public a few days prior to the large-scale gathering.",
+          "The audio track features vocals delivered by Shreya Ghoshal alongside Ajay Gogavale, with musical arrangement handled by the composer duo Ajay-Atul. The lyrical work was written by Amitabh Bhattacharya, while the staging and choreography were developed by Vaibhavi Merchant."
+        ]
+      },
+      {
+        "h": "Historical Inspiration in the Sequence",
+        "p": [
+          "Beyond its promotional utility, the musical sequence incorporates references to regional cultural history by paying homage to Vithabai, a celebrated practitioner of the Lavani art form.",
+          "Specifically, the cinematic depiction recreates a well-known biographical episode from Vithabai's career, highlighting the dramatic moment when she continued performing on stage during pregnancy and subsequently experienced labour."
+        ]
+      },
+      {
+        "h": "Creative Leadership and Production Team",
+        "p": [
+          "The creative vision for the feature is driven by director Laxman Utekar, who also shares production responsibilities alongside Dinesh Vijan and Karishma Sharma.",
+          "The project has been developed under the combined banners of Maddock Films and Kathputli Creations, positioning the title as a major upcoming release."
+        ]
+      },
+      {
+        "h": "Promotional Impact and Reach",
+        "p": [
+          "By bringing together over five hundred participants for a collective performance, the promotional campaign successfully drew widespread attention to the traditional dance style.",
+          "The mass event served as a bridge to introduce Lavani to broader contemporary audiences, utilizing the scale of a major cinematic release to amplify cultural awareness ahead of the theatrical debut."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Shraddha Kapoor's upcoming film Eetha has entered the India Book of Records and Asia Book of Records after 517 women performed its Lavani hook steps in Pune. The record attempt took place at Zeal University on November 24, 2025, using choreography from the song 'Ji Ji Re Ji'."
+        ]
+      }
+    ],
+    "facts": [
+      "Shraddha Kapoor stars in Eetha",
+      "Laxman Utekar directed Eetha",
+      "Dinesh Vijan, Laxman Utekar, and Karishma Sharma produced Eetha",
+      "Maddock Films and Kathputli Creations are the production banners",
+      "517 women participated in the record attempt",
+      "The event took place at Zeal University, Pune",
+      "The record-setting event occurred on November 24, 2025",
+      "The song 'Ji Ji Re Ji' was released on November 17, 2026",
+      "Ajay-Atul composed 'Ji Ji Re Ji'",
+      "Shreya Ghoshal and Ajay Gogavale sang the track",
+      "Amitabh Bhattacharya wrote the lyrics",
+      "Vaibhavi Merchant choreographed the song"
+    ],
+    "entities": {
+      "people": [
+        "Shraddha Kapoor",
+        "Laxman Utekar",
+        "Dinesh Vijan",
+        "Karishma Sharma",
+        "Shreya Ghoshal",
+        "Ajay Gogavale",
+        "Amitabh Bhattacharya",
+        "Vaibhavi Merchant",
+        "Vithabai"
+      ],
+      "titles": [
+        "Eetha",
+        "Ji Ji Re Ji"
+      ]
+    },
+    "keywords": [
+      "Eetha film",
+      "Shraddha Kapoor Eetha",
+      "Ji Ji Re Ji song",
+      "Eetha India Book of Records",
+      "Laxman Utekar Eetha"
+    ],
+    "images": [
+      {
+        "url": "https://stat5.bollywoodhungama.in/wp-content/uploads/2026/11/Eetha-milestone.jpeg",
+        "caption": "Shraddha Kapoor's Eetha Enters Record Books Following Massive Lavani Dance Event",
+        "source": "Bollywood Hungama"
+      }
+    ],
+    "published": "Wed, 25 Nov 2026 19:06:47 +0200"
+  },
+  "13fsy94": {
+    "id": "13fsy94",
+    "type": "news",
+    "headline": "O.M: Operation Mole Nears Rs 15 Crore Milestone in Kerala Box Office",
+    "dek": "The Tamil spy action thriller starring Dhanush and Mammootty continues its strong theatrical run in Kerala, closing in on a major financial milestone.",
+    "body": [
+      {
+        "h": "Strong Theatrical Run in Kerala",
+        "p": [
+          "The Tamil spy action thriller O.M: Operation Mole is maintaining a steady box office momentum in Kerala. The feature continues to pull audiences into cinema halls following its opening weekend.",
+          "Trade projections indicate that the film is rapidly approaching a significant financial benchmark within the region."
+        ]
+      },
+      {
+        "h": "Five-Day Collection Breakdown",
+        "p": [
+          "According to box office tracker Jerin Georgekutty, the movie earned a gross of Rs 12.63 crore during its initial four days in Kerala.",
+          "The feature added another Rs 1.51 crore on Tuesday, November 24, bringing the five-day cumulative gross to a total of Rs 14.14 crore."
+        ]
+      },
+      {
+        "h": "Approaching the Rs 15 Crore Mark",
+        "p": [
+          "With the latest figures recorded, O.M: Operation Mole requires an additional Rs 86 lakh to attain the Rs 15 crore milestone.",
+          "Current market trends suggest the picture is likely to surpass this target on Wednesday, November 25, depending on the performance of its remaining shows."
+        ]
+      },
+      {
+        "h": "Entering the Profit Zone",
+        "p": [
+          "Reports from trade tracking indicate that the project has successfully recovered its entire investment through theatrical business alone.",
+          "The feature is now operating completely within the profit status as it progresses through its first week in theatres."
+        ]
+      },
+      {
+        "h": "Cast and Crew Details",
+        "p": [
+          "Written and directed by Rajkumar Periasamy, the movie features Dhanush in the lead role alongside Mammootty in a prominent capacity.",
+          "The broader cast includes Sai Pallavi, Sreeleela, Naseeruddin Shah, and Indrans, with music composed by Sai Abhyankkar."
+        ]
+      },
+      {
+        "h": "Production and Release Background",
+        "p": [
+          "The feature is a joint production of Wunderbar Films and RTake Studios. It initially went by the title OM Chapter 1: Udhiram - The Blood Wood when announced in June.",
+          "The makers later updated the title to O.M: Operation Mole just prior to its worldwide theatrical opening on November 20, 2026."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "O.M: Operation Mole has amassed a five-day gross of Rs 14.14 crore in Kerala and is poised to cross Rs 15 crore by Day 6. The Tamil spy action thriller has already achieved complete financial breakeven during its ongoing theatrical run."
+        ]
+      }
+    ],
+    "facts": [
+      "O.M: Operation Mole collected Rs 12.63 crore in its first four days in Kerala.",
+      "The film earned Rs 1.51 crore on Tuesday, November 24.",
+      "The five-day cumulative gross reached Rs 14.14 crore.",
+      "The film needs another Rs 86 lakh to reach the Rs 15 crore mark.",
+      "The film was released worldwide on November 20, 2026."
+    ],
+    "entities": {
+      "people": [
+        "Dhanush",
+        "Mammootty",
+        "Jerin Georgekutty",
+        "Rajkumar Periasamy",
+        "Sai Pallavi",
+        "Sreeleela",
+        "Naseeruddin Shah",
+        "Indrans",
+        "Sai Abhyankkar",
+        "Ezhil Arasu K",
+        "R. Kalaivanan",
+        "Yannick Ben",
+        "Kecha Khamphakdee"
+      ],
+      "titles": [
+        "O.M: Operation Mole",
+        "OM Chapter 1: Udhiram - The Blood Wood"
+      ]
+    },
+    "keywords": [
+      "OM Operation Mole Kerala box office",
+      "Dhanush Mammootty OM movie collection",
+      "Jerin Georgekutty OM box office",
+      "OM Chapter 1 Udhiram The Blood Wood"
+    ],
+    "images": [
+      {
+        "url": "https://images.filmibeat.com/img/2026/11/omkbo-94451795614123.jpg",
+        "caption": "O.M: Operation Mole Nears Rs 15 Crore Milestone in Kerala Box Office",
+        "source": "FilmiBeat"
+      }
+    ],
+    "published": "Wed, 25 Nov 2026 19:13:50 +0530"
+  },
+  "16hqjj1": {
+    "id": "16hqjj1",
+    "type": "news",
+    "headline": "Sai Pallavi and Vijay Sethupathi's Inji Vellam Unveils First Single Aachi Aachi",
+    "dek": "The makers of Mani Ratnam's romantic drama Inji Vellam have released the first single titled Aachi Aachi, composed by AR Rahman and showcasing Sai Pallavi embracing motherhood.",
+    "body": [
+      {
+        "h": "First Single Release",
+        "p": [
+          "The creative team behind the upcoming romantic drama Inji Vellam has released its very first single, titled Aachi Aachi. This musical piece serves as an introduction to the film's sonic landscape and has quickly grabbed the attention of music lovers and cinema enthusiasts alike.",
+          "Composed by the legendary AR Rahman, the track was shared across digital platforms by the makers, generating immense excitement among fans eagerly awaiting the feature film's arrival."
+        ]
+      },
+      {
+        "h": "Visuals and Theme",
+        "p": [
+          "The newly dropped song presents Sai Pallavi in a unique light as her character experiences motherhood and anticipates the arrival of her twins. The lyrical progression traces her emotional journey into this new phase of life.",
+          "Alongside the parenting themes, the video snippet provides charming glimpses of romance between the lead characters, highlighted by picturesque visual aesthetics and fluid choreography."
+        ]
+      },
+      {
+        "h": "Musical and Creative Crew",
+        "p": [
+          "Aachi Aachi features vocals delivered by Vaishali Samant and Sharanya Srinivas. The song bridges linguistic boundaries by incorporating Tamil lyrics penned by Ilango Krishnan alongside Malayalam verses written by Vinayak Sasikumar.",
+          "The choreography for the track was crafted by Brinda Master, who brings out Sai Pallavi's trademark grace and charm. Notably, the actress sports a short-hair look reminiscent of her styling in another recent cinematic outing."
+        ]
+      },
+      {
+        "h": "Plot and Narrative Style",
+        "p": [
+          "Inji Vellam appears to function as a contemporary romantic drama that chronicles the evolution of two individuals. The narrative follows them from their initial dating period through marriage and ultimately into parenthood with twin girls.",
+          "This storytelling approach draws comparisons to filmmaker Mani Ratnam's earlier iconic romantic pictures, which similarly captured the nuances of relationships and love across different decades."
+        ]
+      },
+      {
+        "h": "Cast and Production Background",
+        "p": [
+          "The film is written and directed by Mani Ratnam, bringing together a powerhouse principal cast featuring Vijay Sethupathi and Sai Pallavi. Supporting them in a key role is actor Chaitra J Achar.",
+          "On the production front, the project is a collaborative effort backed by Lyca Productions, Madras Talkies, and India Talkies, with AR Rahman handling both the songs and the background score."
+        ]
+      },
+      {
+        "h": "Actor Commitments and Work Front",
+        "p": [
+          "Away from this Mani Ratnam directorial, Vijay Sethupathi maintains a busy schedule with upcoming ventures including Train directed by Mysskin, Pocket Novel alongside Malavika Mohanan and Raj B. Shetty, and Puri Jagannadh's Slum Dog: 33 Temple Road.",
+          "Sai Pallavi was recently seen sharing screen space with Dhanush, Mammootty, and Sreeleela in a prominent role, adding to her extensive portfolio of acclaimed performances."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "The makers of the Vijay Sethupathi and Sai Pallavi starrer Inji Vellam have unveiled the first single titled Aachi Aachi, composed by AR Rahman and directed by Mani Ratnam. The track highlights the romance and motherhood journey of the lead characters ahead of the film's scheduled release."
+        ]
+      }
+    ],
+    "facts": [
+      "Inji Vellam is directed by Mani Ratnam.",
+      "The film stars Vijay Sethupathi and Sai Pallavi.",
+      "The first single is titled Aachi Aachi and is composed by AR Rahman.",
+      "Aachi Aachi features Tamil lyrics by Ilango Krishnan and Malayalam lyrics by Vinayak Sasikumar."
+    ],
+    "entities": {
+      "people": [
+        "Sai Pallavi",
+        "Vijay Sethupathi",
+        "Mani Ratnam",
+        "AR Rahman",
+        "Vaishali Samant",
+        "Sharanya Srinivas",
+        "Ilango Krishnan",
+        "Vinayak Sasikumar",
+        "Brinda Master",
+        "Chaitra J Achar",
+        "Mysskin",
+        "Malavika Mohanan",
+        "Raj B. Shetty",
+        "Puri Jagannadh",
+        "Dhanush",
+        "Mammootty",
+        "Sreeleela"
+      ],
+      "titles": [
+        "Inji Vellam",
+        "Aachi Aachi",
+        "O.M: Operation Mole",
+        "Mouna Ragam",
+        "Alai Payuthey",
+        "OK Kanmani",
+        "Train",
+        "Pocket Novel",
+        "Slum Dog: 33 Temple Road"
+      ]
+    },
+    "keywords": [
+      "Inji Vellam",
+      "Sai Pallavi",
+      "Vijay Sethupathi",
+      "Aachi Aachi",
+      "Mani Ratnam"
+    ],
+    "images": [
+      {
+        "url": "https://www.pinkvilla.com/images/2026-11/1865917837_inji-vellam-aachi-aachi-webp.webp",
+        "caption": "Sai Pallavi and Vijay Sethupathi's Inji Vellam Unveils First Single Aachi Aachi",
+        "source": "Pinkvilla"
+      }
+    ],
+    "published": "Wed, 25 Nov 2026 18:15:36 +0530"
+  },
+  "1i9dg7w": {
+    "id": "1i9dg7w",
+    "type": "news",
+    "headline": "Sylvester Stallone Pitches Arnold Schwarzenegger for a Tulsa King Spin-Off",
+    "dek": "The action icon has a bold vision for expanding Taylor Sheridan's streaming empire by bringing his former Expendables co-star into the fold.",
+    "body": [
+      {
+        "h": "The Vision for a New Spin-Off",
+        "p": [
+          "Sylvester Stallone has a grand design in mind for the ever-expanding television universe created by Taylor Sheridan. The star of the hit crime drama series wants to see another legendary action hero step up to lead a brand-new expansion project.",
+          "Rather than keeping all the spotlight to himself, Stallone envisions a companion series that would place his longtime cinematic peer at the absolute center of his own criminal enterprise in a different unassuming town."
+        ]
+      },
+      {
+        "h": "Stallone's Role in the Franchise",
+        "p": [
+          "In the primary series, Stallone brings to life Dwight \"The General\" Manfredi, a former New York mafia capo who spends a quarter of a century behind bars before being sent away to Oklahoma by his superior.",
+          "Despite being treated with disrespect and cast aside, Manfredi refuses to let his ambition fade. Instead, he establishes his own underground network and transforms into the undisputed kingpin of Tulsa."
+        ]
+      },
+      {
+        "h": "Expanding the SheridanVerse",
+        "p": [
+          "The overarching crime franchise has already proven to be a massive commercial and critical triumph for its creators and network. Plans for further expansion are actively underway, demonstrating the enduring pulling power of these gritty narratives.",
+          "Among the upcoming additions is a planned companion series titled Frisco King. That specific project is set to feature Samuel L. Jackson stepping back into his role as Russell Lee Washington Jr. to carve out a new empire in Texas."
+        ]
+      },
+      {
+        "h": "Targeting an Action Icon",
+        "p": [
+          "Fuelled by the success of his own streaming venture, Stallone shared his ultimate wish-list idea during an interview with Cigar Aficionado. He expressed a strong desire to recruit Arnold Schwarzenegger into the expanding television ecosystem.",
+          "The two Hollywood legends previously shared the screen in the action-packed film franchise The Expendables. Stallone hopes their on-screen camaraderie could translate into crossover moments where their respective characters cross paths and converse."
+        ]
+      },
+      {
+        "h": "Television Credentials and Fit",
+        "p": [
+          "Schwarzenegger would fit naturally into the gritty, antihero aesthetic of the franchise, easily imagining a persona who oversees criminal ventures while smoking large cigars. The celebrated actor and former politician is already well-acquainted with episodic television work.",
+          "He previously stepped onto the small screen to lead the Netflix spy series FUBAR, proving he can command a streaming audience just as effectively as a theatrical blockbuster."
+        ]
+      },
+      {
+        "h": "Current Status of the Series",
+        "p": [
+          "While a collaboration featuring Schwarzenegger remains purely aspirational for now, the main television property marches forward with its fourth season. The current outing recently pulled in half a billion minutes viewed in a single week.",
+          "Season 4 is slated to conclude on December 18, a date that also serves as the launch for Samuel L. Jackson's Frisco King. Furthermore, the main series has already secured an official renewal for a fifth season."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Sylvester Stallone has publicly expressed his desire for Arnold Schwarzenegger to lead a potential new spin-off within Taylor Sheridan's expanding television universe. While no such project has been officially confirmed, the main series continues to dominate streaming charts during its fourth season alongside upcoming franchise expansions."
+        ]
+      }
+    ],
+    "facts": [
+      "Sylvester Stallone stars as Dwight Manfredi in Tulsa King.",
+      "Dwight Manfredi is a former New York mafia capo exiled to Oklahoma after 25 years in prison.",
+      "Taylor Sheridan is the creator of Tulsa King and Yellowstone.",
+      "A spin-off titled Frisco King will star Samuel L. Jackson as Russell Lee Washington Jr.",
+      "Sylvester Stallone pitched Arnold Schwarzenegger for a potential new Tulsa King spin-off in an interview with Cigar Aficionado.",
+      "Arnold Schwarzenegger previously led the Netflix spy series FUBAR.",
+      "Tulsa King Season 4 is scheduled to wrap up on December 18, coinciding with the debut of Frisco King.",
+      "Tulsa King has already been renewed for Season 5."
+    ],
+    "entities": {
+      "people": [
+        "Jonathan Fuge",
+        "Taylor Sheridan",
+        "Sylvester Stallone",
+        "Samuel L. Jackson",
+        "Arnold Schwarzenegger",
+        "Dave Erickson",
+        "Terence Winter",
+        "Allen Coulter",
+        "Benjamin Semanoff",
+        "David Semel",
+        "Guy Ferland",
+        "Joshua Marston",
+        "Kevin Dowling",
+        "Lodge Kerrigan",
+        "Jim McKay",
+        "Joseph Riccobene",
+        "David Flebotte",
+        "William Schmidt",
+        "Taylor Elmore",
+        "Tom Sierchio",
+        "Regina Corrado",
+        "Stephen Scaia"
+      ],
+      "titles": [
+        "Tulsa King",
+        "Frisco King",
+        "Yellowstone",
+        "The Expendables",
+        "FUBAR",
+        "Dutton Ranch",
+        "Mortal Kombat II"
+      ]
+    },
+    "keywords": [
+      "Tulsa King",
+      "Sylvester Stallone",
+      "Arnold Schwarzenegger",
+      "Frisco King",
+      "Taylor Sheridan"
+    ],
+    "images": [
+      {
+        "url": "https://static0.moviewebimages.com/wordpress/wp-content/uploads/2026/11/xx-7.jpg?w=1600&amp;h=900&amp;fit=crop",
+        "caption": "Sylvester Stallone Pitches Arnold Schwarzenegger for a Tulsa King Spin-Off",
+        "source": "MovieWeb"
+      }
+    ],
+    "published": "Wed, 25 Nov 2026 13:47:32 GMT"
   }
 };
