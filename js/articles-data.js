@@ -245682,5 +245682,429 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "2026-11-25T09:52:47Z"
+  },
+  "qnxzu9": {
+    "id": "qnxzu9",
+    "type": "news",
+    "headline": "Pritam Chakraborty and Mother Sell Mumbai Flat for Rs. 2.30 Crores",
+    "dek": "Renowned music composer Pritam Chakraborty and his mother, Anuradha Chakraborty, have parted ways with their residential apartment in Mumbai's Andheri West neighborhood.",
+    "body": [
+      {
+        "h": "The Property Transaction",
+        "p": [
+          "Acclaimed Indian singer, music producer, and composer Pritam Chakraborty, alongside his mother Anuradha Chakraborty, completed the sale of a residential flat located in Mumbai. Official property registration documents reviewed through the Inspector General of Registration website indicate that the entire transaction concluded and officially registered during November 2026.",
+          "Market insights and records analyzed by real estate data platform Square Yards shed light on the specifics of this real estate exchange. The property fetched a total monetary value of Rs. 2.30 crores, drawing considerable attention within the local real estate and entertainment circles."
+        ]
+      },
+      {
+        "h": "Location and Housing Complex Details",
+        "p": [
+          "The newly sold residential unit is situated in the vibrant neighborhood of Andheri West, specifically nestled inside the Serenity Shree Sai Wing G.H.I. Co-operative Housing Society Ltd. located in the Oshiwara area.",
+          "According to official paperwork, the apartment covers a total built-up space of 980.26 square feet, which translates to roughly 91.07 square meters. Financial compliance for the transfer included a stamp duty payment of Rs. 11.50 lakhs alongside formal registration charges amounting to Rs. 30,000."
+        ]
+      },
+      {
+        "h": "Profile of Andheri West",
+        "p": [
+          "Andheri West stands firmly as one of Mumbai's most sought-after residential sectors, celebrated widely for its robust connectivity, modern urban infrastructure, and close proximity to major commercial and entertainment hubs across the city.",
+          "The locality features seamless transportation routes via arterial paths like New Link Road, S.V. Road, and the Western Express Highway. Residents also enjoy convenient access to local transit networks including the Mumbai Metro and the central Andheri Railway Station."
+        ]
+      },
+      {
+        "h": "Commercial and Lifestyle Appeal",
+        "p": [
+          "Over the years, the surrounding neighbourhood has flourished into a primary residential hub, offering diverse housing options ranging from luxury high-rise towers and modern housing complexes to gated communities.",
+          "Its strategic positioning near key employment centers such as Andheri East, MIDC, SEEPZ, Goregaon, and the Bandra-Kurla Complex makes it a favored location for working professionals, business owners, and investors alike."
+        ]
+      },
+      {
+        "h": "Local Amenities and Micro-Pockets",
+        "p": [
+          "The district hosts a rich array of social infrastructure, encompassing reputable educational institutions, multi-specialty hospitals, fine dining establishments, shopping centers, and diverse recreational spaces.",
+          "Prominent micro-pockets within the vicinity include Lokhandwala Complex, Oshiwara, Versova, and Four Bungalows. Landmark destinations like Infiniti Mall and the scenic Versova Beach further elevate the lifestyle appeal of the neighborhood."
+        ]
+      },
+      {
+        "h": "Musical Legacy of Pritam Chakraborty",
+        "p": [
+          "Popularly known mononymously as Pritam, the co-seller is widely regarded as one of the most prolific and influential music composers working within the contemporary Indian film industry. His professional career spans over two decades of consistent contributions to Hindi cinema.",
+          "His signature musical style seamlessly bridges modern sonic landscapes with traditional Indian influences. Over his long journey in the industry, he has spearheaded the musical arrangements for numerous blockbuster feature films."
+        ]
+      },
+      {
+        "h": "Notable Works and Accolades",
+        "p": [
+          "Pritam's extensive filmography features unforgettable soundtracks for critically and commercially acclaimed movies such as Dhoom, Jab We Met, Barfi!, Yeh Jawaani Hai Deewani, Ae Dil Hai Mushkil, and Brahmāstra.",
+          "Through his multifaceted roles as a composer, singer, and music producer, he has accumulated widespread acclaim and numerous prestigious awards, cementing an enduring legacy in Bollywood music. Meanwhile, his co-seller and mother, Anuradha Chakraborty, continues to maintain a private life far away from the public eye."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Music composer Pritam Chakraborty and his mother Anuradha Chakraborty sold their apartment in Andheri West, Mumbai, for Rs. 2.30 crores in November 2026. The 980.26 sq. ft. property is located within the Serenity Shree Sai Wing G.H.I. Co-operative Housing Society Ltd. in Oshiwara."
+        ]
+      }
+    ],
+    "facts": [
+      "Pritam Chakraborty and Anuradha Chakraborty sold a Mumbai apartment for Rs. 2.30 crores.",
+      "The transaction was registered in November 2026.",
+      "The apartment is located in Serenity Shree Sai Wing G.H.I. Co-operative Housing Society Ltd. in Oshiwara, Andheri West.",
+      "The property area is 980.26 sq. ft. (91.07 sq. m.).",
+      "Stamp duty for the transaction was Rs. 11.50 lakhs and registration charges were Rs. 30,000."
+    ],
+    "entities": {
+      "people": [
+        "Pritam Chakraborty",
+        "Anuradha Chakraborty",
+        "Pritam"
+      ],
+      "titles": [
+        "Dhoom",
+        "Jab We Met",
+        "Barfi!",
+        "Yeh Jawaani Hai Deewani",
+        "Ae Dil Hai Mushkil",
+        "Brahmāstra"
+      ]
+    },
+    "keywords": [
+      "Pritam Chakraborty",
+      "Anuradha Chakraborty",
+      "Mumbai apartment",
+      "Andheri West property",
+      "Pritam Chakraborty flat sale"
+    ],
+    "images": [
+      {
+        "url": "https://media5.bollywoodhungama.in/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-25-at-2.16.50-PM.jpeg",
+        "caption": "Pritam Chakraborty and Mother Sell Mumbai Flat for Rs. 2.30 Crores",
+        "source": "Bollywood Hungama"
+      }
+    ],
+    "published": "Wed, 25 Nov 2026 15:04:28 +0200"
+  },
+  "1eahb0y": {
+    "id": "1eahb0y",
+    "type": "news",
+    "headline": "Tanishaa Mukerji Expresses Dissatisfaction with Yash's Ravan in Ramayana",
+    "dek": "While Ramayana continues to draw crowds at the box office, celebrity reactions highlight mixed reviews regarding the performances of its lead cast members.",
+    "body": [
+      {
+        "h": "Box Office Success Amid Mixed Critical Reception",
+        "p": [
+          "The epic drama Ramayana has been successfully raking in massive box office earnings since its release. However, the film has not managed to secure universal acclaim from every corner of the audience or the industry.",
+          "While the makers have highlighted the widespread love and enthusiasm from moviegoers, a distinct segment of viewers and public figures has expressed reservations about the execution and the portrayal of the central characters."
+        ]
+      },
+      {
+        "h": "Tanishaa Mukerji Critiques Yash's Performance",
+        "p": [
+          "Among those sharing their thoughts on the film is actress Tanishaa Mukerji, who watched Ramayana Part 1 and took to social media to share an unfiltered review. She stated that Yash's portrayal of the primary antagonist left her feeling somewhat dissatisfied.",
+          "The Bigg Boss 7 star acknowledged her admiration for Yash as a progressive individual and a talented actor, but felt that his interpretation of the iconic mythological character lacked necessary dimensions beyond pure might."
+        ]
+      },
+      {
+        "h": "Debating the Layers of Ravan",
+        "p": [
+          "Elaborating on her perspective, Tanishaa noted that while Yash delivered an intense performance characterized by formidable body language, physical action, and an arrogant ego, Ravan historically represented much more than a standard villain.",
+          "She pointed out that the character was traditionally known as a learned scholar, a Brahmin, and a deeply meditative individual, suggesting that there were missed opportunities to explore these nuanced aspects on screen."
+        ]
+      },
+      {
+        "h": "Analyzing the Surpnakha Sequence",
+        "p": [
+          "The actress specifically highlighted the crucial scene involving Surpnakha where Ravan kills her husband, arguing that the moment called for a display of warmth and empathy rather than straightforward aggression.",
+          "She added that incorporating such emotional layers would not diminish the character's strength, but would instead provide greater depth, transforming the villain into a more manipulative and multifaceted persona."
+        ]
+      },
+      {
+        "h": "Critique of the Sadhu Disguise and Comparisons",
+        "p": [
+          "Continuing her critique of the character's emotional range, Tanishaa mentioned the sequence where Ravan approaches Sita disguised as a sadhu, noting that this interaction relied too heavily on anger rather than shifting smoothly between politeness, persuasion, irritation, and fury.",
+          "Despite her criticisms of the character development, she credited Yash for successfully matching Ranbir on screen and noted that executing the sheer power of Ravan remains a formidable challenge."
+        ]
+      },
+      {
+        "h": "Casting Choices Under Scrutiny",
+        "p": [
+          "In addition to evaluating the portrayal of the antagonist, Tanishaa Mukerji also turned her attention to the casting of the female lead. She openly expressed her opinion that Sai Pallavi was ultimately not the right fit to portray the character of Sita in the epic.",
+          "These remarks contributed to the ongoing discussions surrounding the casting choices made by the production team for the much-discussed cinematic adaptation."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Tanishaa Mukerji shared her mixed review of the film Ramayana on social media, expressing dissatisfaction with Yash's portrayal of Ravan and questioning the casting of Sai Pallavi as Sita. While acknowledging the strong box office performance and solid VFX, she argued that the characters needed more emotional depth and nuance."
+        ]
+      }
+    ],
+    "facts": [
+      "Ramayana is performing well at the box office.",
+      "Tanishaa Mukerji watched Ramayana Part 1.",
+      "Tanishaa Mukerji is a Bigg Boss 7 star and Kajol's sister.",
+      "Yash played the role of Ravan in Ramayana.",
+      "Sai Pallavi played the role of Sita in Ramayana."
+    ],
+    "entities": {
+      "people": [
+        "Yash",
+        "Tanishaa Mukerji",
+        "Sai Pallavi",
+        "Ranbir",
+        "Kajol"
+      ],
+      "titles": [
+        "Ramayana",
+        "Ramrajya",
+        "Neel N Nikki"
+      ]
+    },
+    "keywords": [
+      "Ramayana film",
+      "Yash Ravan Ramayana",
+      "Tanishaa Mukerji Ramayana",
+      "Sai Pallavi Sita"
+    ],
+    "images": [
+      {
+        "url": "https://images.filmibeat.com/img/2026/11/ramayanayashtanishaamukerji-88261795598227.jpg",
+        "caption": "Tanishaa Mukerji Expresses Dissatisfaction with Yash's Ravan in Ramayana",
+        "source": "FilmiBeat"
+      }
+    ],
+    "published": "Wed, 25 Nov 2026 15:04:44 +0530"
+  },
+  "dri0gf": {
+    "id": "dri0gf",
+    "type": "news",
+    "headline": "Captain Jack Sparrow Returns to the World of Pirates of the Caribbean in 2027",
+    "dek": "Disney and Secret Cinema are teaming up for a massive theatrical reimagining of the original 2003 movie, putting Captain Jack Sparrow back in the spotlight.",
+    "body": [
+      {
+        "h": "The Return of a Cinematic Icon",
+        "p": [
+          "Nearly ten years have passed since audiences last witnessed Captain Jack Sparrow command the big screen in Pirates of the Caribbean: Dead Men Tell No Tales. While cinematic futures and potential franchise revivals have remained frequent topics of discussion, fans continue to speculate whether Johnny Depp will ever step back into the iconic pirate boots.",
+          "Instead of a traditional feature film sequel, Disney has chosen a different path for the character's next major venture. This upcoming project places fans directly into the narrative, allowing them to experience the swashbuckling universe firsthand through an entirely new format scheduled for 2027."
+        ]
+      },
+      {
+        "h": "From Theme Park Roots to Immersive Theater",
+        "p": [
+          "The entire cinematic franchise originated from a classic attraction at Disneyland, making an interactive theatrical experience a fitting tribute to its roots. Secret Cinema presents Disney's Pirates of the Caribbean: The Immersive Adventure brings the foundational 2003 film, The Curse of the Black Pearl, back to life in a radical new way.",
+          "Rather than sitting passively in a theater seat, attendees will find the narrative unfolding all around them. The production utilizes a comprehensive blend of live performances, high-energy stunts, atmospheric projections, and specialized effects to envelop the audience completely."
+        ]
+      },
+      {
+        "h": "Revisiting Beloved Characters and Classic Music",
+        "p": [
+          "The theatrical reimagining centers heavily on the original cast of characters that launched the massive multimedia phenomenon. Attendees will encounter recreations and live performances featuring iconic figures such as Jack Sparrow, Will Turner, and Elizabeth Swann.",
+          "To elevate the experience further, the production incorporates the franchise's legendary music throughout the venue. The familiar orchestral themes provide a soaring backdrop to the live action, anchoring the 360-degree environment in the cinematic tradition of the original movies."
+        ]
+      },
+      {
+        "h": "Exploring Pirate Cove Before the Show",
+        "p": [
+          "The main theatrical presentation runs for two hours and five minutes, but the adventure begins long before the curtain rises. Secret Cinema plans to open the doors to a dedicated hub known as Pirate Cove a full hour prior to each scheduled performance.",
+          "Organizers encourage guests to arrive early to fully explore the pre-show offerings. The expansive environment is designed to keep attendees thoroughly engaged from the moment they step through the entrance."
+        ]
+      },
+      {
+        "h": "Costumes, Communities, and Culinary Delights",
+        "p": [
+          "A core element of the Secret Cinema formula relies on audience participation, historical styling, and atmospheric immersion. Guests are encouraged to arrive dressed in period-accurate pirate attire to blend seamlessly into the bustling port atmosphere.",
+          "Within Pirate Cove, visitors can mingle with fellow attendees, enjoy performances from a live band, and sample various food options. This setup ensures that participants can enjoy a complete evening out without ever breaking character or stepping outside the universe of the films."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Disney and Secret Cinema are officially bringing Captain Jack Sparrow back in 2027 for a theatrical immersive adventure based on the 2003 film The Curse of the Black Pearl. The 360-degree live production features characters like Will Turner and Elizabeth Swann alongside live music, stunts, and a pre-show Pirate Cove experience."
+        ]
+      }
+    ],
+    "facts": [
+      "It will be ten years in May since Captain Jack Sparrow was last seen in Pirates of the Caribbean: Dead Men Tell No Tales.",
+      "Captain Jack Sparrow will officially return in 2027.",
+      "The project is titled Secret Cinema presents Disney's Pirates of the Caribbean: The Immersive Adventure.",
+      "The immersive experience is a theatrical reimagining of the original 2003 movie The Curse of the Black Pearl.",
+      "The show runs for two hours and five minutes.",
+      "Secret Cinema will open the doors to Pirate Cove an hour before each performance."
+    ],
+    "entities": {
+      "people": [
+        "Chris McPherson",
+        "Johnny Depp",
+        "Jack Sparrow",
+        "Will Turner",
+        "Elizabeth Swann"
+      ],
+      "titles": [
+        "Pirates of the Caribbean: Dead Men Tell No Tales",
+        "The Curse of the Black Pearl",
+        "Pirates of the Caribbean: The Immersive Adventure"
+      ]
+    },
+    "keywords": [
+      "Captain Jack Sparrow",
+      "Pirates of the Caribbean",
+      "Secret Cinema Pirates of the Caribbean",
+      "The Curse of the Black Pearl",
+      "Disney immersive adventure"
+    ],
+    "images": [
+      {
+        "url": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/11/copy-of-collider-template-2026-11-24t135524-615.jpg?w=1600&amp;h=900&amp;fit=crop",
+        "caption": "Captain Jack Sparrow Returns to the World of Pirates of the Caribbean in 2027",
+        "source": "Collider"
+      }
+    ],
+    "published": "Wed, 25 Nov 2026 10:01:12 GMT"
+  },
+  "1kcl8qy": {
+    "id": "1kcl8qy",
+    "type": "news",
+    "headline": "Ramayana Advances In Oscars VFX Race Alongside Major Hollywood Productions",
+    "dek": "Nitesh Tiwari's mythological epic has secured a place among the top 20 contenders in the visual effects category for the 99th Academy Awards.",
+    "body": [
+      {
+        "h": "Milestone for Indian Cinema",
+        "p": [
+          "Nitesh Tiwari's cinematic adaptation of the mythological epic \"Ramayana: Rise of a Legend\" has successfully advanced to the top 20 contenders in the visual effects category for the upcoming 99th Academy Awards.",
+          "This achievement places the high-profile project alongside major Hollywood productions, marking a significant milestone for Indian cinema on the global awards stage."
+        ]
+      },
+      {
+        "h": "Star-Studded Cast and Production Team",
+        "p": [
+          "The ambitious feature stars Ranbir Kapoor portraying Lord Rama, Sai Pallavi taking on the role of Sita, and Yash featuring as Ravana.",
+          "Production duties are spearheaded by Namit Malhotra's Prime Focus Studios, working in collaboration with DNEG and Yash's Monster Mind Creations."
+        ]
+      },
+      {
+        "h": "Global Competitors in the VFX Shortlist",
+        "p": [
+          "Industry sources indicate that the Visual Effects Branch of the Academy of Motion Picture Arts and Sciences notified the artisans behind the 20 advancing films ahead of the Thanksgiving holiday, though an official announcement is still pending.",
+          "The mythological epic is joined by prominent international projects such as Denis Villeneuve's \"Dune: Part Three\", Christopher Nolan's \"The Odyssey\", and Marvel Studios' \"Avengers: Doomsday\"."
+        ]
+      },
+      {
+        "h": "Studio Lineups and Industry Representation",
+        "p": [
+          "Sony Pictures accounts for three of the advancing projects, including the Indian mythological feature.",
+          "Meanwhile, Disney leads the confirmed titles with four distinct entries, while Skydance and Universal Pictures have also secured multiple spots in the competitive category."
+        ]
+      },
+      {
+        "h": "DNEG's Technical Legacy",
+        "p": [
+          "London-based visual effects studio DNEG has a decorated history with the Academy, having previously won eight Oscars for films including \"Inception\", \"Interstellar\", and \"Dune\".",
+          "The studio's official website notes its involvement in several other Oscar contenders in the current race, such as \"The Odyssey\", \"Moana\", \"Supergirl\", and \"Spider-Man: Brand New Day\"."
+        ]
+      },
+      {
+        "h": "Precedent Set by RRR",
+        "p": [
+          "This development echoes the 2023 Oscar season when SS Rajamouli's period action drama \"RRR\" advanced to the top 20 contenders in the visual effects category for the 95th Academy Awards.",
+          "Although \"RRR\" did not secure a final nomination in the visual effects category, it famously won the Oscar for Best Original Song for \"Naatu Naatu\"."
+        ]
+      },
+      {
+        "h": "Upcoming Timeline and Event Details",
+        "p": [
+          "Voting for the official Oscar shortlists is scheduled to run from December 7 through December 11, with the shortlisted entries across various categories to be revealed on December 15.",
+          "The final nominations will be announced on January 21, leading up to the 99th Academy Awards ceremony on March 14 at the Dolby Theatre at Ovation Hollywood."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Nitesh Tiwari's \"Ramayana: Rise of a Legend\" has advanced to the top 20 contenders in the visual effects category for the 99th Academy Awards. The mythological epic joins various Hollywood blockbusters in the race ahead of shortlists being announced in December."
+        ]
+      }
+    ],
+    "facts": [
+      "Nitesh Tiwari directed Ramayana: Rise of a Legend",
+      "Ranbir Kapoor stars as Lord Rama",
+      "Sai Pallavi stars as Sita",
+      "Yash stars as Ravana",
+      "Namit Malhotra produced the film through Prime Focus Studios with DNEG and Monster Mind Creations",
+      "The film has earned over Rs 1,500 crore at the worldwide box office",
+      "Voting for the Oscar shortlists begins on December 7 and ends on December 11",
+      "Shortlists are scheduled to be announced on December 15",
+      "Final nominations will be announced on January 21",
+      "The 99th Academy Awards will be held on March 14 at the Dolby Theatre at Ovation Hollywood"
+    ],
+    "entities": {
+      "people": [
+        "Nitesh Tiwari",
+        "Ranbir Kapoor",
+        "Sai Pallavi",
+        "Yash",
+        "Namit Malhotra",
+        "Denis Villeneuve",
+        "Christopher Nolan",
+        "Phil Lord",
+        "Christopher Miller",
+        "Steven Spielberg",
+        "Anthony Russo",
+        "Joe Russo",
+        "Jon Favreau",
+        "Thomas Kail",
+        "Dwayne Johnson",
+        "Alejandro G Inarritu",
+        "Craig Gillespie",
+        "Kyle Balda",
+        "Takashi Yamazaki",
+        "SS Rajamouli",
+        "Ram Charan",
+        "Jr NTR"
+      ],
+      "titles": [
+        "Ramayana: Rise of a Legend",
+        "Dune: Part Three",
+        "The Odyssey",
+        "Avengers: Doomsday",
+        "Project Hail Mary",
+        "Disclosure Day",
+        "Star Wars: The Mandalorian and Grogu",
+        "Whalefall",
+        "Moana",
+        "Digger",
+        "Supergirl",
+        "The Sheep Detectives",
+        "Godzilla Minus Zero",
+        "Wildwood",
+        "Backrooms",
+        "Heart of the Beast",
+        "The Mosquito Bowl",
+        "The Hunger Games: Sunrise on the Reaping",
+        "Inception",
+        "Interstellar",
+        "Ex Machina",
+        "Blade Runner 2049",
+        "First Man",
+        "Tenet",
+        "Dune",
+        "Dune: Part Two",
+        "Spider-Man: Brand New Day",
+        "RRR",
+        "Naatu Naatu"
+      ]
+    },
+    "keywords": [
+      "Ramayana Rise of a Legend",
+      "Ramayana Oscars VFX",
+      "Nitesh Tiwari Ramayana",
+      "Ranbir Kapoor Ramayana",
+      "Ramayana Academy Awards"
+    ],
+    "images": [
+      {
+        "url": "https://images.filmibeat.com/img/2026/11/ramayanapart1reviewranbirkapooryash1-51931795598980.jpg",
+        "caption": "Ramayana Advances In Oscars VFX Race Alongside Major Hollywood Productions",
+        "source": "FilmiBeat"
+      }
+    ],
+    "published": "Wed, 25 Nov 2026 15:01:46 +0530"
   }
 };
