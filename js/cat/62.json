@@ -1,6 +1,6 @@
 {
  "bucket": "62",
- "count": 79,
+ "count": 80,
  "titles": {
   "movie:1000862": {
    "backdrop_path": "/1SO3YnpeZB4kSBpv4IgT88dBiE8.jpg",
@@ -6762,6 +6762,107 @@
    "type": "movie",
    "vote_average": 5.4,
    "vote_count": 346
+  },
+  "movie:5062": {
+   "backdrop_path": "/fTWPF5adhbRaflQLEygH4IU15Wv.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Inspector Antoine Gallien",
+     "n": "Lino Ventura"
+    },
+    {
+     "c": "Jérôme Martinaud",
+     "n": "Michel Serrault"
+    },
+    {
+     "c": "Chantal Martinaud",
+     "n": "Romy Schneider"
+    },
+    {
+     "c": "Inspector Marcel Belmont",
+     "n": "Guy Marchand"
+    },
+    {
+     "c": "Inspector Adami",
+     "n": "Pierre Maguelon"
+    },
+    {
+     "c": "Mechanic",
+     "n": "Serge Malik"
+    },
+    {
+     "c": "Divisional Commissioner",
+     "n": "Jean-Claude Penchenat"
+    },
+    {
+     "c": "Policeman in Raincoat",
+     "n": "Yves Pignot"
+    },
+    {
+     "c": "Son Berthier",
+     "n": "Mathieu Schiffman"
+    },
+    {
+     "c": "Young policeman",
+     "n": "Didier Agostini"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "12",
+   "date_kind": "release",
+   "director": [
+    "Claude Miller"
+   ],
+   "genres": [
+    "Crime",
+    "Drama",
+    "Thriller"
+   ],
+   "id": 5062,
+   "industry": "world",
+   "origin_country": [
+    "FR"
+   ],
+   "original_language": "fr",
+   "overview": "Martinaud, an illustrious notary suspected of being the perpetrator of two horrendous crimes, voluntarily agrees to be questioned by Inspector Gallien on New Year's Eve. What initially is a routine procedure, soon becomes a harsh interrogation that seems to confirm the initial suspicions.",
+   "popularity": 1.2424,
+   "poster_path": "/lKB8bOpJhTTxfiK5OWjilZeZ0Kc.jpg",
+   "production_countries": [
+    "FR"
+   ],
+   "providers": [
+    {
+     "name": "France Channel Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gLOsC3f7mrM7tc7VFxrlxXOk3oq.png",
+     "name": "France Channel Amazon Channel",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-25",
+   "release_date": "1981-09-23",
+   "revenue": 0,
+   "runtime": 84,
+   "source": "catalogue",
+   "spoken_languages": [
+    "fr"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "The Inquisitor",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 7.537,
+   "vote_count": 300
   },
   "movie:51162": {
    "backdrop_path": "/e0SlSnLQzIhdcr86akVJinA1Jau.jpg",
