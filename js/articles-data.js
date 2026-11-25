@@ -241228,5 +241228,394 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Tue, 24 Nov 2026 22:00:19 GMT"
+  },
+  "7gu0i9": {
+    "id": "7gu0i9",
+    "type": "news",
+    "headline": "O.M Operation Mole Box Office Day 5: Mammootty and Dhanush Starrer Crosses Rs 100 Crore Worldwide",
+    "dek": "The multilingual action drama O.M Operation Mole has achieved a major milestone by surpassing the Rs 100 crore worldwide mark within just five days of its theatrical run, driven by strong regional contributions.",
+    "body": [
+      {
+        "h": "Entering the Rs 100 Crore Club",
+        "p": [
+          "The multi-starrer feature O.M Operation Mole has officially entered the prestigious Rs 100 crore global milestone within five days of its initial theatrical release. International and domestic markets combined have propelled the feature past this significant financial threshold.",
+          "On Tuesday, November 24, the film managed to pull in steady numbers across various regions, reflecting consistent audience engagement during the initial weekday window."
+        ]
+      },
+      {
+        "h": "Domestic Earnings and Ticket Sales",
+        "p": [
+          "During its fifth day in theaters, the feature accumulated Rs 5.40 crore in net collections across India. This pushed the domestic net total to Rs 61.45 crore while the domestic gross reached Rs 71.25 crore.",
+          "Reports indicate that close to 487,538 tickets were purchased nationwide on Tuesday alone, bringing the cumulative ticket sales to 4,875,195 since the premiere."
+        ]
+      },
+      {
+        "h": "Language-Wise Performance Breakdown",
+        "p": [
+          "The Tamil version continues to dominate the box office returns, generating Rs 3.40 crore on Tuesday from 3,372 shows and accounting for the majority of the overall domestic earnings. Its cumulative net for the language stands at Rs 44.30 crore.",
+          "The Telugu version brought in Rs 1.60 crore across 1,612 shows, while the Hindi version added Rs 40 lakh through 1,124 shows, rounding out the primary linguistic distribution."
+        ]
+      },
+      {
+        "h": "International and Overseas Contributions",
+        "p": [
+          "International territories have played a vital role in pushing the production past the century mark globally. Overseas markets contributed an estimated Rs 1 crore on Tuesday.",
+          "This daily international addition brought the cumulative overseas gross to Rs 29.50 crore, which constitutes nearly thirty percent of the total worldwide collection."
+        ]
+      },
+      {
+        "h": "State-Wise Gross and Regional Highlights",
+        "p": [
+          "In the regional breakdown of ticket sales, Andhra Pradesh and Telangana emerged as the leading territory, generating a tracked state gross of Rs 1.85 crore.",
+          "Tamil Nadu followed closely behind with Rs 1.75 crore, while Kerala and Karnataka contributed Rs 1.50 crore and Rs 65 lakh respectively."
+        ]
+      },
+      {
+        "h": "Occupancy Rates Across Screenings",
+        "p": [
+          "The Tamil 2D version maintained a steady overall occupancy rate of 25.44 percent throughout the day on Tuesday.",
+          "Morning screenings began with an 18.08 percent occupancy, which gradually improved as the day progressed, peaking during the night shows at 31.69 percent."
+        ]
+      },
+      {
+        "h": "Star-Studded Cast and Crew",
+        "p": [
+          "The theatrical release features a prominent ensemble cast including Mammootty, Dhanush, Sai Pallavi, Sreeleela, Naseeruddin Shah, Renu Desai, and Indrans.",
+          "Industry trackers compile these approximations from public sources, noting that figures may experience adjustments as official studio data becomes finalized."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "The multilingual feature O.M Operation Mole crossed the Rs 100 crore worldwide milestone within five days of its theatrical release, supported by strong domestic net collections and overseas contributions. Regional markets like Andhra Pradesh, Telangana, and Tamil Nadu drove the majority of the gross earnings while the cast ensemble sustained nationwide interest."
+        ]
+      }
+    ],
+    "facts": [
+      "O.M Operation Mole crossed Rs 100 cr worldwide within five days of release",
+      "The film collected Rs 5.40 cr in India on Tuesday, November 24",
+      "Domestic net collection reached Rs 61.45 cr",
+      "International markets contributed Rs 1 cr on Tuesday, taking overseas gross to Rs 29.50 cr",
+      "Worldwide collection reached Rs 100.75 cr",
+      "Tamil version earned Rs 3.40 cr from 3,372 shows on Tuesday",
+      "Telugu brought in Rs 1.60 cr through 1,612 shows",
+      "Hindi added Rs 40 lakh from 1,124 shows",
+      "Domestic gross collection reached Rs 71.25 cr",
+      "Estimated 4,87,538 tickets were sold across India on Tuesday",
+      "Total ticket sales throughout the theatrical run reached 48,75,195",
+      "Film began its theatrical run with Rs 18.10 cr in India net collections on Friday, November 20",
+      "Andhra Pradesh and Telangana earned Rs 1.85 cr in state-wise gross",
+      "Tamil Nadu followed with Rs 1.75 cr, Kerala generated Rs 1.50 cr, and Karnataka contributed Rs 65 lakh"
+    ],
+    "entities": {
+      "people": [
+        "Mammootty",
+        "Dhanush",
+        "Sai Pallavi",
+        "Sreeleela",
+        "Naseeruddin Shah",
+        "Renu Desai",
+        "Indrans"
+      ],
+      "titles": [
+        "O.M Operation Mole"
+      ]
+    },
+    "keywords": [
+      "O.M Operation Mole box office",
+      "Mammootty Dhanush film collection",
+      "O.M Operation Mole day 5 earnings",
+      "O.M Operation Mole worldwide collection"
+    ],
+    "images": [
+      {
+        "url": "https://static.toiimg.com/thumb/msid-136144607,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "caption": "O.M Operation Mole Box Office Day 5: Mammootty and Dhanush Starrer Crosses Rs 100 Crore Worldwide",
+        "source": "Times of India — Entertainment"
+      }
+    ],
+    "published": "2026-11-25T05:42:13+05:30"
+  },
+  "1drf57m": {
+    "id": "1drf57m",
+    "type": "news",
+    "headline": "Avengers: Doomsday Trailer Shatters All-Time Disney Record With Massive View Count",
+    "dek": "Marvel Studios achieves a historic milestone as the final preview for the upcoming blockbuster sets a new benchmark for online viewership.",
+    "body": [
+      {
+        "h": "Setting a New Benchmark",
+        "p": [
+          "Marvel Studios has reached a monumental milestone in promotional history as the final full trailer for Avengers: Doomsday establishes an unprecedented viewership record across the internet. With the theatrical premiere rapidly approaching, audience anticipation has reached extraordinary heights, translating into staggering digital engagement.",
+          "The newly debuted promotional footage captured unprecedented global attention within its initial hours online, outperforming every previous preview released by Walt Disney Studios. This achievement underscores the massive cultural footprint of the Marvel Cinematic Universe as it nears a pivotal narrative phase."
+        ]
+      },
+      {
+        "h": "Unprecedented Viewership Numbers",
+        "p": [
+          "According to reports, the final preview for Avengers: Doomsday accumulated an astonishing 563 million views globally during its first twenty-four hours online. This massive figure secures its place at the top of the studio's historical metrics.",
+          "The record-breaking debut surpassed previous promotional titans from the studio. It easily outperformed the first full trailer for the same film, which had previously garnered 503 million views ahead of San Diego Comic-Con, as well as the promotional teaser for Deadpool & Wolverine, which pulled in 365 million views."
+        ]
+      },
+      {
+        "h": "Multiversal Stakes and Plot Teasers",
+        "p": [
+          "The record-shattering trailer offered fans a closer look at the impending narrative conflicts, placing significant focus on the characters of Steve Rogers, portrayed by Chris Evans, and Peggy Carter, played by Hayley Atwell.",
+          "Furthermore, the footage highlighted an unprecedented crossover moment featuring heroes united across four distinct teams. The preview also escalated tension by teasing the catastrophic threat of Incursions and showcasing the formidable antagonist Doctor Doom."
+        ]
+      },
+      {
+        "h": "An All-Star Ensemble Cast",
+        "p": [
+          "Avengers: Doomsday boasts what is widely regarded as the largest ensemble cast assembled for a Marvel cinematic project to date. The narrative brings together legendary heroes from the Avengers, the X-Men, and the Fantastic Four.",
+          "Steering this massive roster in a completely unexpected direction is Robert Downey Jr., who takes on a prominent new character role as Doctor Doom, shifting away from his iconic historical depiction within the franchise."
+        ]
+      },
+      {
+        "h": "Approaching the Multiverse Saga Finale",
+        "p": [
+          "The impending release marks a crucial turning point for Marvel Studios as the overarching Multiverse Saga nears its ultimate conclusion. Excitement among enthusiasts has been steadily compounding since the conclusion of Avengers: Endgame in 2019.",
+          "As the theatrical rollout arrives, the studio is positioning this monumental event to deliver a cinematic experience on a scale previously unseen in modern blockbuster entertainment."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "The final trailer for Marvel Studios' Avengers: Doomsday broke historical studio records by garnering 563 million views in its first twenty-four hours online. The record-breaking promotional video highlights the massive ensemble cast, multiversal threats, and the approaching theatrical release date."
+        ]
+      }
+    ],
+    "facts": [
+      "Avengers: Doomsday releases in theaters on Dec. 18, 2026",
+      "The final full trailer was released on Nov. 23, 2026",
+      "The trailer received 563 million views in its first 24 hours",
+      "The previous Doomsday trailer received 503 million views",
+      "The Deadpool & Wolverine teaser received 365 million views",
+      "Robert Downey Jr. stars as Doctor Doom",
+      "Chris Evans plays Steve Rogers",
+      "Hayley Atwell plays Peggy Carter",
+      "Avengers: Endgame was released in 2019"
+    ],
+    "entities": {
+      "people": [
+        "Robert Downey Jr.",
+        "Chris Evans",
+        "Hayley Atwell",
+        "Richard Nebens"
+      ],
+      "titles": [
+        "Avengers: Doomsday",
+        "Avengers: Endgame",
+        "Deadpool & Wolverine",
+        "Ray Gunn",
+        "Insidious: Out of the Further",
+        "Avengers: Secret Wars"
+      ]
+    },
+    "keywords": [
+      "Avengers Doomsday trailer record",
+      "Marvel Studios Avengers Doomsday",
+      "Robert Downey Jr Doctor Doom",
+      "Chris Evans Hayley Atwell Doomsday"
+    ],
+    "images": [
+      {
+        "url": "https://static0.moviewebimages.com/wordpress/wp-content/uploads/2026/11/avengers-doomsday-group-shot.jpg?w=1600&amp;h=900&amp;fit=crop",
+        "caption": "Avengers: Doomsday Trailer Shatters All-Time Disney Record With Massive View Count",
+        "source": "MovieWeb"
+      }
+    ],
+    "published": "Tue, 24 Nov 2026 23:53:23 GMT"
+  },
+  "1llvh5v": {
+    "id": "1llvh5v",
+    "type": "news",
+    "headline": "Ranbir Kapoor and Yash's 'Ramayana' Earns Technical Shortlist Spots for the 32nd Annual Critics Choice Awards",
+    "dek": "Nitesh Tiwari's epic production has been shortlisted in two technical categories alongside major international titles like 'The Odyssey' and 'Dune: Part Three'.",
+    "body": [
+      {
+        "h": "International Recognition for an Indian Epic",
+        "p": [
+          "Nitesh Tiwari's cinematic adaptation titled 'Ramayana' has achieved a major milestone by gaining early recognition from international award bodies. Beyond its performance at the global box office, the ambitious project has captured the attention of critics worldwide.",
+          "The latest reports confirm that the production has successfully secured positions in two competitive technical categories on the official shortlist for upcoming industry honors."
+        ]
+      },
+      {
+        "h": "Shortlisted Categories and Global Competitors",
+        "p": [
+          "The Critics Choice Association officially revealed its shortlists, placing the feature—known internationally as 'Ramayana: Rise of a Legend'—in the running for Best Visual Effects and Best Stunt Design.",
+          "For the Best Visual Effects category, the Indian production stands alongside high-profile international releases such as 'Dune: Part Three', 'The Odyssey', 'Godzilla Minus Zero', 'Project Hail Mary', 'Spider-Man: Brand New Day', and 'Wildwood'. Dan Glass has received credit for the film's visual effects work."
+        ]
+      },
+      {
+        "h": "Stunt Design Contenders",
+        "p": [
+          "In addition to visual effects recognition, the epic has earned a coveted spot on the shortlist for Best Stunt Design.",
+          "Within this category, the film shares space with other notable global titles including 'Dune: Part Three', 'The Odyssey', 'Godzilla Minus Zero', and 'Jackass: Best and Last', marking a distinct achievement for Indian cinema on the world stage."
+        ]
+      },
+      {
+        "h": "Competing Among Ambitious Global Projects",
+        "p": [
+          "This selection places the homegrown production directly alongside some of the most complex and heavily financed international cinematic undertakings of the year.",
+          "The special nominating committee evaluated a total of 59 films spread across 144 placements in 12 distinct categories before finalizing the preliminary lists."
+        ]
+      },
+      {
+        "h": "Leading Contenders at the Awards",
+        "p": [
+          "Among the wider selection, Christopher Nolan's 'The Odyssey' has emerged as a dominant force, securing mentions across 11 of the 12 announced categories.",
+          "Other prominent contenders include Denis Villeneuve's 'Dune: Part Three' and the Spanish-language feature 'La Bola Negra', which earned eight mentions each, alongside 'Godzilla Minus Zero' and Laika's 'Wildwood' with seven mentions apiece."
+        ]
+      },
+      {
+        "h": "Road to the Final Nominations and Ceremony",
+        "p": [
+          "Although the film has secured these preliminary shortlist placements, it has not yet locked in an official nomination in either category.",
+          "The final selection process will narrow the field down to six competing films in each technical category, with official nominations scheduled to be announced ahead of the main event."
+        ]
+      },
+      {
+        "h": "Upcoming Event Schedule",
+        "p": [
+          "The final nominations for the 32nd Annual Critics Choice Awards are set to be officially revealed on December 4, 2026.",
+          "Following the announcement of the final nominees, the main awards ceremony is scheduled to take place on January 3, 2027."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Nitesh Tiwari's epic film 'Ramayana' has been shortlisted in two technical categories for the 32nd Annual Critics Choice Awards. The production joins prominent international titles like 'The Odyssey' and 'Dune: Part Three' in the Best Visual Effects and Best Stunt Design shortlists."
+        ]
+      }
+    ],
+    "facts": [
+      "The Critics Choice Association announced shortlists on Monday for the 32nd Annual Critics Choice Awards.",
+      "Ramayana is titled 'Ramayana: Rise of a Legend' in international markets.",
+      "Dan Glass is credited for the film's visual effects.",
+      "Christopher Nolan's 'The Odyssey' earned mentions in 11 of the 12 categories.",
+      "Denis Villeneuve's 'Dune: Part Three' and 'La Bola Negra' secured eight mentions each.",
+      "The special nominating committee selected 59 films across 144 places in 12 categories.",
+      "Final nominations will be announced on December 4, 2026.",
+      "The awards ceremony will take place on January 3, 2027."
+    ],
+    "entities": {
+      "people": [
+        "Ranbir Kapoor",
+        "Yash",
+        "Nitesh Tiwari",
+        "Dan Glass",
+        "Christopher Nolan",
+        "Denis Villeneuve"
+      ],
+      "titles": [
+        "Ramayana",
+        "Ramayana: Rise of a Legend",
+        "The Odyssey",
+        "Dune: Part Three",
+        "Godzilla Minus Zero",
+        "Project Hail Mary",
+        "Spider-Man: Brand New Day",
+        "Wildwood",
+        "Jackass: Best and Last",
+        "La Bola Negra"
+      ]
+    },
+    "keywords": [
+      "Ramayana film",
+      "Ranbir Kapoor Yash Ramayana",
+      "Critics Choice Awards 2027",
+      "Ramayana Rise of a Legend"
+    ],
+    "images": [
+      {
+        "url": "https://static.toiimg.com/thumb/msid-136144482,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "caption": "Ranbir Kapoor and Yash's 'Ramayana' Earns Technical Shortlist Spots for the 32nd Annual Critics Choice Awards",
+        "source": "Times of India — Entertainment"
+      }
+    ],
+    "published": "2026-11-25T05:28:08+05:30"
+  },
+  "bktj8r": {
+    "id": "bktj8r",
+    "type": "news",
+    "headline": "James Marsden Discusses Cyclops Taking Center Stage in 'Avengers: Doomsday'",
+    "dek": "The X-Men star opens up about returning to his iconic role and ensuring his character arc has real purpose rather than just serving as nostalgia.",
+    "body": [
+      {
+        "h": "The Return of Cyclops",
+        "p": [
+          "Actor James Marsden is reprising his famous role as Cyclops in the upcoming Marvel blockbuster Avengers: Doomsday. Having first originated the character in the X-Men film series during the 2000s, Marsden returns to the franchise with a renewed sense of purpose and leadership for the mutant hero."
+        ]
+      },
+      {
+        "h": "Stepping Out of the Shadows",
+        "p": [
+          "In a recent interview with Sharp Magazine, Marsden noted that fans have long desired to see Cyclops truly lead. In many of the earlier X-Men movies, the character often took a back seat to Wolverine and other prominent figures due to limited screen time in ensemble casts."
+        ]
+      },
+      {
+        "h": "Avoiding Nostalgic Cameos",
+        "p": [
+          "Marsden stressed that he wanted his comeback to feel genuinely meaningful rather than functioning as a mere nostalgic cameo that quickly disappears. He emphasized that there is a genuine purpose behind the character's presence in the narrative, leaving him feeling very positive about the final outcome."
+        ]
+      },
+      {
+        "h": "Teasing the Trailer and Line",
+        "p": [
+          "Eager Marvel fans already caught a exciting glimpse of Marsden back in character during the final moments of the Avengers: Doomsday trailer. In the footage, he delivers the iconic line, \"To me, my X-Men,\" generating immense anticipation for the film."
+        ]
+      },
+      {
+        "h": "A Massive Production Scale",
+        "p": [
+          "Describing the experience of shooting the massive Marvel project, Marsden compared it to entering an entirely separate country. He highlighted the incredible infrastructure, featuring multiple units shooting simultaneously and dozens of major actors coming and going."
+        ]
+      },
+      {
+        "h": "Practical Effects and Technology",
+        "p": [
+          "While acknowledging that technology has advanced enormously, Marsden expressed appreciation for the Russo Brothers' desire to ground the film in practical effects wherever possible. Despite playing a major character, the massive production scale occasionally made him feel like a background player in something much larger."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "James Marsden opens up about reprising his role as Cyclops in Avengers: Doomsday, promising fans that the mutant leader will finally get a meaningful storyline rather than a minor cameo. The actor shares insights into the massive production scale, working with the Russo Brothers, and his excitement for the colliding worlds in the Marvel film."
+        ]
+      }
+    ],
+    "facts": [
+      "James Marsden is returning as Cyclops in Avengers: Doomsday.",
+      "Marsden originally played Cyclops in the 2000s X-Men films.",
+      "The interview discussing his return was given to Sharp Magazine.",
+      "Marsden delivers the line \"To me, my X-Men\" in the Avengers: Doomsday trailer.",
+      "The film is directed by the Russo Brothers."
+    ],
+    "entities": {
+      "people": [
+        "James Marsden",
+        "Wolverine",
+        "Cyclops",
+        "Russo Brothers"
+      ],
+      "titles": [
+        "Avengers: Doomsday",
+        "X-Men"
+      ]
+    },
+    "keywords": [
+      "James Marsden Cyclops",
+      "Avengers Doomsday",
+      "James Marsden Avengers Doomsday",
+      "X-Men Cyclops Wolverine"
+    ],
+    "images": [
+      {
+        "url": "https://deadline.com/wp-content/uploads/2026/11/james-marsden-cyclops-x-men-avengers-doomsday.jpg?w=1024",
+        "caption": "James Marsden Discusses Cyclops Taking Center Stage in 'Avengers: Doomsday'",
+        "source": "Deadline"
+      }
+    ],
+    "published": "Wed, 25 Nov 2026 00:22:55 +0000"
   }
 };

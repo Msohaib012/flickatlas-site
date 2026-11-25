@@ -3,19 +3,6 @@ window.FA_OTT = {
   "coming": [
     {
       "country": "US",
-      "date": "2026-11-25",
-      "date_kind": "digital",
-      "id": 1458300,
-      "providers": [
-        {
-          "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
-          "name": "Netflix"
-        }
-      ],
-      "type": "movie"
-    },
-    {
-      "country": "US",
       "date": "2026-11-27",
       "date_kind": "digital",
       "id": 1506401,
@@ -58,6 +45,31 @@ window.FA_OTT = {
     }
   ],
   "now": [
+    {
+      "country": "US",
+      "date": "2026-11-25",
+      "date_kind": "digital",
+      "id": 1458300,
+      "providers": [
+        {
+          "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        }
+      ],
+      "type": "movie"
+    },
+    {
+      "date": "2026-11-25",
+      "date_kind": "release",
+      "id": 1786829,
+      "providers": [
+        {
+          "logo_path": "/qwAX5rtMm8JVnbGFASKhmRY8hXp.png",
+          "name": "Passionflix Amazon Channel"
+        }
+      ],
+      "type": "movie"
+    },
     {
       "country": "US",
       "date": "2026-11-24",
