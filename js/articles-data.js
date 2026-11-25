@@ -243736,5 +243736,382 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Wed, 25 Nov 2026 03:31:20 GMT"
+  },
+  "1fmtyng": {
+    "id": "1fmtyng",
+    "type": "news",
+    "headline": "Avengers: Doomsday Final Trailer Smashes Disney Records With 563 Million Views in 24 Hours",
+    "dek": "Marvel Studios achieves a historic promotional milestone as the final trailer for Avengers: Doomsday pulls in 563 million views worldwide in its first day, second only to Spider-Man: Brand New Day.",
+    "body": [
+      {
+        "h": "A Historic Trailer Launch",
+        "p": [
+          "Marvel Studios has secured another monumental milestone in digital marketing as the final preview for Avengers: Doomsday achieved an incredible 563 million global views within its initial 24 hours online. Directed by Anthony and Joe Russo, the film's latest footage has officially climbed to become the most-watched Disney movie preview in cinematic history.",
+          "This massive wave of viewership arrives just weeks prior to the picture's theatrical debut. It highlights intense global anticipation for the reunion of Earth's mightiest heroes, amplified by major reveals in the footage including Steve Rogers' domestic life and the escalating menace posed by Doctor Doom."
+        ]
+      },
+      {
+        "h": "Surpassing Previous Milestones",
+        "p": [
+          "The new metric successfully eclipses the earlier teaser for the same picture, which pulled in 503 million views during its own opening day window, marking an approximate 12 percent growth. Furthermore, it easily surpassed the 365 million views logged by the Super Bowl promotional spot for Deadpool and Wolverine in 2024.",
+          "Despite these stellar achievements, Spider-Man: Brand New Day maintains the absolute all-time record with 718.6 million views in its first 24 hours. This leaves a difference of 155.6 million views separating the two major Marvel cinematic productions."
+        ]
+      },
+      {
+        "h": "Sustained Momentum and Engagement",
+        "p": [
+          "An unusual pattern has emerged when comparing final promotional pieces between Marvel releases. While Spider-Man: Brand New Day drew massive numbers primarily during its initial teaser rollout, its final promotional video settled closer to 131 million views during the equivalent period.",
+          "Conversely, the final preview for the Russo brothers' project multiplied that figure by more than four times. Observers note this indicates persistent, growing enthusiasm from audiences as the wide release date draws closer."
+        ]
+      },
+      {
+        "h": "Key Characters Driving the Campaign",
+        "p": [
+          "Much of the fervent online chatter is fueled by major casting developments and character returns featured prominently in the marketing. The appearance of Chris Evans returning as Steve Rogers alongside Robert Downey Jr. taking on the mantle of Doctor Doom has generated substantial conversation.",
+          "Additionally, integrated promotional elements featuring the X-Men and the Fantastic Four have provided fans with endless talking points, transforming the lead-up into a massive cross-platform event."
+        ]
+      },
+      {
+        "h": "A Billion-View Promotional Journey",
+        "p": [
+          "The recent 24-hour surge contributes to a much larger overall digital footprint for the movie. Reports indicate that the entire marketing campaign for Avengers: Doomsday has accumulated roughly 3.3 billion views across various milestones.",
+          "This expansive tally spans from Robert Downey Jr.'s initial villain reveal at San Diego Comic-Con to subsequent character spotlights and trailers. The final preview alone drove nearly one million social media mentions on its very first day, contributing to a cumulative 4.8 million mentions overall."
+        ]
+      },
+      {
+        "h": "Theatrical Release and Box Office Outlook",
+        "p": [
+          "While digital metrics demonstrate unprecedented online reach, industry watchers emphasize that raw views do not automatically guarantee box office ticket admissions. The true test will unfold when the film reaches auditoriums, competing directly with Dune: Part Three during the holiday release window.",
+          "Indian audiences will see the feature debut in cinemas on December 17, a day ahead of its United States rollout. Advance bookings are already active, giving the studio a clear indicator of how online hype translates to commercial turnout."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "The final preview for Avengers: Doomsday accumulated 563 million views globally in its first day, setting a new benchmark for Disney properties. Directed by Anthony and Joe Russo and starring actors such as Chris Evans and Robert Downey Jr., the feature is set to release in mid-December alongside competitive holiday titles."
+        ]
+      }
+    ],
+    "facts": [
+      "Avengers: Doomsday final trailer gained 563 million views in 24 hours.",
+      "Spider-Man: Brand New Day holds the all-time record with 718.6 million views in 24 hours.",
+      "Avengers: Doomsday earlier teaser gained 503 million views.",
+      "Deadpool and Wolverine Super Bowl teaser gained 365 million views in 2024.",
+      "The promotional campaign for Avengers: Doomsday crossed 3.3 billion total views.",
+      "Avengers: Doomsday releases in Indian cinemas on December 17, 2026."
+    ],
+    "entities": {
+      "people": [
+        "Anthony Russo",
+        "Joe Russo",
+        "Steve Rogers",
+        "Chris Evans",
+        "Robert Downey Jr."
+      ],
+      "titles": [
+        "Avengers: Doomsday",
+        "Spider-Man: Brand New Day",
+        "Deadpool and Wolverine",
+        "Dune: Part Three"
+      ]
+    },
+    "keywords": [
+      "Avengers Doomsday trailer views",
+      "Avengers Doomsday final trailer",
+      "Spider Brand New Day views",
+      "Robert Downey Jr Doctor Doom",
+      "Avengers Doomsday release date"
+    ],
+    "images": [
+      {
+        "url": "https://cdn.sacnilk.com/image/news300/1000028712.jpg",
+        "caption": "Avengers: Doomsday Final Trailer Smashes Disney Records With 563 Million Views in 24 Hours",
+        "source": "Sacnilk"
+      }
+    ],
+    "published": "Wed, 25 Nov 2026 05:14:38 +0000"
+  },
+  "ksn7b0": {
+    "id": "ksn7b0",
+    "type": "news",
+    "headline": "Stargate Franchise Set For December 2026 Return With Two Major Collectibles",
+    "dek": "Master Replicas is launching two iconic prop replicas from the classic sci-fi series ahead of a wider franchise revival.",
+    "body": [
+      {
+        "h": "Franchise Revival on the Horizon",
+        "p": [
+          "Enthusiasts of the long-running sci-fi universe have reason to celebrate as fresh developments point toward a resurgence. Long before Amazon MGM initiated plans for a franchise revival, the beloved property experienced various missed opportunities alongside a rich history that has maintained a dedicated following for years.",
+          "While fans await further updates regarding the anticipated revival project, new merchandise arriving by the end of December will help bridge the gap. These upcoming physical items are designed to satisfy collectors and devoted followers of the classic television era."
+        ]
+      },
+      {
+        "h": "Two Major Releases Planned for December",
+        "p": [
+          "Master Replicas is preparing to ship two distinct desktop collectibles before the year concludes. Although modern logistical challenges can occasionally cause shipping delays, current schedules place the arrival of these items in December 2026.",
+          "These pieces mark the beginning of a brand-new line of detailed desktop replicas focusing on memorable props from the classic science-fiction series."
+        ]
+      },
+      {
+        "h": "Serpent Guard Helmet Replica Details",
+        "p": [
+          "The first major collectible is a desktop replica of the helmet worn by the Serpent Guard, who served the Serpent god and Apophis. These elite guards were composed of Apophis's most trusted Jaffa until his First Prime, Teal'c, switched allegiances to join SG-1.",
+          "Crafted to resemble a cobra, the collectible stands just under six inches tall on its custom display stand. It was digitally sculpted using reference materials from the original props and cast in polyresin before receiving a detailed paint finish."
+        ]
+      },
+      {
+        "h": "Pricing and Availability",
+        "p": [
+          "Collectors interested in acquiring the Serpent Guard helmet can currently place pre-orders. The item carries a retail price of $69.99.",
+          "Due to ongoing supply chain hurdles typical of the current era, buyers should keep potential schedule shifts in mind, though dispatch is officially targeted for the end of December 2026."
+        ]
+      },
+      {
+        "h": "Ma'Tok Staff Replica Specifications",
+        "p": [
+          "The second release is a 12-inch desktop replica of the Ma'Tok staff, commonly referred to as the Jaffa staff weapon. In the lore of the series, the full-size weapon measured six feet and six inches tall and fired plasma bolts powered by a Naquadah generator.",
+          "The miniature version has been digitally sculpted based on authentic prop references. It will be constructed from diecast metal for enhanced durability and finished by hand, complete with a versatile display stand supporting both horizontal and vertical placement."
+        ]
+      },
+      {
+        "h": "Legacy of the Classic Series",
+        "p": [
+          "The enduring appeal of the universe stems from its influential television run, which aired from 1997 to 2007 across networks like Showtime and SyFy. Iconic characters such as Samantha Carter and Teal'c helped cement the property as a staple of television science fiction.",
+          "With new physical collectibles hitting the market and a broader revival underway from Amazon MGM, the future remains active for the expansive franchise."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Master Replicas is releasing two desktop collectibles from the Stargate franchise in December 2026, including a Serpent Guard helmet and a Ma'Tok staff replica. These upcoming items arrive while fans await an anticipated franchise revival currently being eyed by Amazon MGM."
+        ]
+      }
+    ],
+    "facts": [
+      "Master Replicas is releasing two Stargate collectibles in December 2026.",
+      "The Serpent Guard Helmet replica is 6 inches tall and priced at $69.99.",
+      "The Ma'Tok staff desktop replica is 12 inches long and made of diecast metal.",
+      "Amazon MGM is eyeing a franchise revival.",
+      "Stargate SG-1 originally aired from 1997 to 2007 on Showtime and SyFy."
+    ],
+    "entities": {
+      "people": [
+        "Apophis",
+        "Teal'c",
+        "Samantha Carter",
+        "Chris Carter"
+      ],
+      "titles": [
+        "Stargate SG-1",
+        "Stargate"
+      ]
+    },
+    "keywords": [
+      "Stargate SG-1 collectibles",
+      "Master Replicas Stargate December 2026",
+      "Serpent Guard Helmet replica",
+      "MaTok staff replica Stargate",
+      "Amazon MGM Stargate revival"
+    ],
+    "images": [
+      {
+        "url": "https://static0.srcdn.com/wordpress/wp-content/uploads/2026/10/stargate-sg-1-horus-guard-image.jpg?w=1600&amp;h=900&amp;fit=crop",
+        "caption": "Stargate Franchise Set For December 2026 Return With Two Major Collectibles",
+        "source": "Screen Rant"
+      }
+    ],
+    "published": "Wed, 25 Nov 2026 05:01:19 GMT"
+  },
+  "15l4634": {
+    "id": "15l4634",
+    "type": "news",
+    "headline": "Diljit Dosanjh faces bomb threat ahead of Bengaluru concert, police register FIR",
+    "dek": "An email warning of an improvised explosive device targeting Diljit Dosanjh's upcoming concert venue and metro station in Bengaluru has prompted authorities to launch an investigation.",
+    "body": [
+      {
+        "h": "Bomb Threat Targeting Upcoming Bengaluru Concert",
+        "p": [
+          "A serious security scare has emerged ahead of Diljit Dosanjh's scheduled performance in Bengaluru. Authorities received an alert regarding a potential security threat concerning the upcoming musical event, prompting immediate action from law enforcement agencies.",
+          "The warning involved an email that specifically cited the concert location and an adjacent transit hub, forcing police to treat the matter with urgency and launch a formal inquiry to ensure public safety."
+        ]
+      },
+      {
+        "h": "Details of the Threat Email Sent to Officials",
+        "p": [
+          "According to official complaints, the threatening message arrived at the inboxes of the Hubballi-Dharwad Municipal Corporation Commissioner. The sender alleged that explosive materials would be placed near the performance grounds and the transit station.",
+          "Furthermore, the communication cautioned individuals against bringing children to the musical gathering, handling unattended items like mobile phones, or utilizing the local metro service during the event hours."
+        ]
+      },
+      {
+        "h": "Police Registration and Legal Charges",
+        "p": [
+          "Following the receipt of the complaint, local law enforcement officials verified event schedules with the venue management. A formal case was subsequently registered by the North CEN police unit.",
+          "Investigators have invoked specific provisions under the Bharatiya Nyaya Sanhita and information technology regulations. Technical teams are currently analyzing internet protocol logs to identify the origin of the message."
+        ]
+      },
+      {
+        "h": "Wider Tour Context and Previous Security Alerts",
+        "p": [
+          "This incident follows a series of similar security challenges encountered during the artist's ongoing nationwide musical tour. Earlier events in other cities have also dealt with anonymous threats directed at public figures and high-profile venues.",
+          "In response to these prior warnings, organizers and local administrations significantly ramped up security measures, deploying thousands of police officers and private guards to safeguard attendees."
+        ]
+      },
+      {
+        "h": "Current Event Status and Venue Preparations",
+        "p": [
+          "Despite the recent threat, organizers have confirmed that the concert remains active on the schedule. No official postponement or cancellation notice has been issued by the management team.",
+          "Enhanced security protocols are anticipated around the venue and nearby transportation facilities as authorities continue to evaluate the credibility of the warning message."
+        ]
+      },
+      {
+        "h": "Artist's Response and Positive Messaging",
+        "p": [
+          "Amid the ongoing investigations and security concerns, the singer shared an upbeat video message from Kutch, describing the location as heavenly and encouraging travelers to visit the region.",
+          "Addressing challenges and attempts to disrupt one's work, the performer emphasized maintaining positive energy and turning external opposition into personal motivation."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "An anonymous email threatening a Bengaluru concert venue and metro station prompted police to register an FIR and investigate the sender. Despite this and prior tour threats, the event remains scheduled for November 29 as authorities work to verify the warning's credibility."
+        ]
+      }
+    ],
+    "facts": [
+      "Diljit Dosanjh is scheduled to perform at NICE Grounds in Madavara on Sunday, November 29, 2026.",
+      "The threat email was received by the Hubballi-Dharwad Municipal Corporation Commissioner on November 9, 2026.",
+      "The email was sent from weismith3727@gmail.com.",
+      "Madanayakanahalli Police Sub-Inspector Shivaraj M J filed a complaint.",
+      "A suicide attack email warning was sent to the office of former Mumbai Mayor Ritu Tawde on October 23, 2026.",
+      "The Indore concert took place on November 15, 2026."
+    ],
+    "entities": {
+      "people": [
+        "Diljit Dosanjh",
+        "Shivaraj M J",
+        "Kartik M",
+        "Ritu Tawde"
+      ],
+      "titles": [
+        "AURA India Tour 2026"
+      ]
+    },
+    "keywords": [
+      "Diljit Dosanjh Bengaluru concert",
+      "Diljit Dosanjh bomb threat",
+      "AURA India Tour 2026",
+      "NICE Grounds Madavara"
+    ],
+    "images": [
+      {
+        "url": "https://static.toiimg.com/thumb/msid-136149219,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "caption": "Diljit Dosanjh faces bomb threat ahead of Bengaluru concert, police register FIR",
+        "source": "Times of India — Entertainment"
+      }
+    ],
+    "published": "2026-11-25T10:56:50+05:30"
+  },
+  "19pcqr2": {
+    "id": "19pcqr2",
+    "type": "news",
+    "headline": "Indian Cine Body Demands Ban on Fawad Khan's Pakistani Netflix Series",
+    "dek": "The All Indian Cine Workers Association has written to Prime Minister Narendra Modi and Netflix India, urging them to block the release of Jo Bachay Hain Sang Samait Lo.",
+    "body": [
+      {
+        "h": "The Controversy Surrounding Jo Bachay Hain Sang Samait Lo",
+        "p": [
+          "The All Indian Cine Workers Association, an Indian cine body, has officially called for a complete ban on the streaming of the upcoming Pakistani Netflix series Jo Bachay Hain Sang Samait Lo in India. The organization voiced its opposition following the release of the show's initial trailer by the platform.",
+          "The series holds the distinction of being Pakistan's first Netflix Original project and has been under production since 2023. It features a massive ensemble cast of prominent actors and was scheduled to premiere on the streaming service on December 4, 2026."
+        ]
+      },
+      {
+        "h": "AICWA's Letter to the Prime Minister",
+        "p": [
+          "In a public communication directed to Prime Minister Narendra Modi and Netflix India, the cine body strongly asserted that the nation must come first and that content originating from Pakistan has no place on Indian screens.",
+          "The association also urged the government to implement a permanent, robust law with severe penalties against hosting any Pakistani media content across Indian digital platforms and OTT services."
+        ]
+      },
+      {
+        "h": "Concerns Over Cast Members and Past Conflicts",
+        "p": [
+          "The appeal further highlighted objections regarding specific actors attached to the project, noting that several cast members had previously spoken out against India during periods of high geopolitical tension.",
+          "The association referenced past security incidents, including the Pulwama and Pahalgam terror attacks, pointing to prior actions where Pakistani artists faced industry-wide working bans and restrictions imposed by the Government of India."
+        ]
+      },
+      {
+        "h": "Ministry Guidelines and Emotional Appeals",
+        "p": [
+          "Drawing attention to official regulatory measures, the statement cited an advisory issued by the Ministry of Information and Broadcasting in May 2025, which explicitly restricted the streaming of Pakistani content within the country.",
+          "The communication also incorporated an emotional appeal referencing families impacted by historical violence, questioning how audiences could be expected to consume entertainment from a neighboring state under such circumstances."
+        ]
+      },
+      {
+        "h": "Wider Restrictions on Pakistani Artists",
+        "p": [
+          "The ongoing tensions and subsequent regulations have impacted various cross-border film and television projects over recent years. Following the Pahalgam terror attack in April 2025, several productions featuring Pakistani performers encountered distribution hurdles.",
+          "Notable examples included the Indian film Sardarji 3 starring Hania Aamir and Diljit Dosanjh, as well as the Fawad Khan and Vaani Kapoor starrer Aabeer Gulaal, both of which faced bans on their theatrical releases in India alongside social media restrictions on artists like Atif Aslam."
+        ]
+      },
+      {
+        "h": "Background and Production Details of the Series",
+        "p": [
+          "Jo Bachay Hain Sang Samait Lo is directed and produced by Momina Duraid and draws its narrative foundation from the best-selling novel penned by Farhat Ishtiaq. The plot explores intricate themes of love, personal relationships, and healing.",
+          "According to production reports, the plot weaves together six interconnected love stories spanning across three generations, utilizing a star-studded cast that includes Fawad Khan, Mahira Khan, Sanam Saeed, Hania Aamir, Khushhal Khan, Ahad Raza Mir, Iqra Aziz, Maya Ali, Bilal Ashraf, Ahmed Ali Akbar, and Hamza Abbasi."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "The All Indian Cine Workers Association has formally requested Prime Minister Narendra Modi and Netflix India to prevent the release of the Pakistani series Jo Bachay Hain Sang Samait Lo in India. Citing national security concerns, past terror attacks, and government guidelines from May 2025 regarding Pakistani content, the organization demands a permanent legislative ban on media featuring cross-border artists."
+        ]
+      }
+    ],
+    "facts": [
+      "The All Indian Cine Workers Association wrote to PM Narendra Modi demanding a ban on Jo Bachay Hain Sang Samait Lo.",
+      "The series was scheduled to release on Netflix on December 4, 2026.",
+      "Jo Bachay Hain Sang Samait Lo is Pakistan's first Netflix Original series.",
+      "The show has been in the making since 2023.",
+      "The Ministry of Information and Broadcasting issued an advisory in May 2025 restricting Pakistani content streaming in India.",
+      "The Pahalgam terror attack occurred in April 2025."
+    ],
+    "entities": {
+      "people": [
+        "Fawad Khan",
+        "Mahira Khan",
+        "Sanam Saeed",
+        "Hania Aamir",
+        "Narendra Modi",
+        "Diljit Dosanjh",
+        "Vaani Kapoor",
+        "Atif Aslam",
+        "Momina Duraid",
+        "Farhat Ishtiaq",
+        "Khushhal Khan",
+        "Ahad Raza Mir",
+        "Iqra Aziz",
+        "Maya Ali",
+        "Bilal Ashraf",
+        "Ahmed Ali Akbar",
+        "Hamza Abbasi"
+      ],
+      "titles": [
+        "Jo Bachay Hain Sang Samait Lo",
+        "Sardarji 3",
+        "Aabeer Gulaal"
+      ]
+    },
+    "keywords": [
+      "Jo Bachay Hain Sang Samait Lo Netflix",
+      "AICWA ban Pakistani series",
+      "Fawad Khan Mahira Khan Netflix show",
+      "All Indian Cine Workers Association PM Modi"
+    ],
+    "images": [
+      {
+        "url": "https://images.indianexpress.com/2026/11/Fawad-Khan-Mahira-Khan.jpg",
+        "caption": "Indian Cine Body Demands Ban on Fawad Khan's Pakistani Netflix Series",
+        "source": "Indian Express — Entertainment"
+      }
+    ],
+    "published": "Wed, 25 Nov 2026 04:11:11 +0000"
   }
 };
