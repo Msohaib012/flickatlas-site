@@ -81,6 +81,18 @@ window.FA_OTT = {
     {
       "date": "2026-11-24",
       "date_kind": "release",
+      "id": 1764131,
+      "providers": [
+        {
+          "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+          "name": "HBO Max"
+        }
+      ],
+      "type": "movie"
+    },
+    {
+      "date": "2026-11-24",
+      "date_kind": "release",
       "id": 928382,
       "providers": [
         {
@@ -105,11 +117,67 @@ window.FA_OTT = {
     {
       "date": "2026-11-23",
       "date_kind": "release",
+      "id": 1611767,
+      "providers": [
+        {
+          "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+          "name": "Amazon Prime Video"
+        },
+        {
+          "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+          "name": "Amazon Prime Video with Ads"
+        }
+      ],
+      "type": "movie"
+    },
+    {
+      "date": "2026-11-23",
+      "date_kind": "release",
+      "id": 340615,
+      "providers": [
+        {
+          "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        }
+      ],
+      "type": "tv"
+    },
+    {
+      "date": "2026-11-23",
+      "date_kind": "release",
       "id": 1829270,
       "providers": [
         {
           "logo_path": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
           "name": "Netflix Standard with Ads"
+        }
+      ],
+      "type": "movie"
+    },
+    {
+      "date": "2026-11-22",
+      "date_kind": "release",
+      "id": 1773329,
+      "providers": [
+        {
+          "logo_path": "/3wF8xISfVlcrc8X3jaa3uMUFGAr.png",
+          "name": "fuboTV"
+        },
+        {
+          "logo_path": "/mfbhzQwmQKjm7bLZPF5CTeu3Ilc.png",
+          "name": "Philo"
+        },
+        {
+          "logo_path": "/yG1Q3YBp5xF2Xj6Meux51Dkg4jP.png",
+          "name": "Hallmark+ Amazon Channel"
+        },
+        {
+          "logo_path": "/fAUJbIgaArLzpf6eK2FMJV8zOQT.png",
+          "name": "Hallmark+ Apple TV channel"
+        },
+        {
+          "logo_path": "/rfXfa1Cq2cxiO76jN3kflGeqJuT.png",
+          "name": "Hallmark TV Amazon Channel"
         }
       ],
       "type": "movie"
@@ -817,8 +885,12 @@ window.FA_OTT = {
       "id": 1050981,
       "providers": [
         {
-          "logo_path": "/9icYBfYFcwgCbky5VdGUIKJ4C5i.png",
+          "logo_path": "/v9SnyvYt0U3KGgBH3Sbh3z4yODe.png",
           "name": "Apple TV"
+        },
+        {
+          "logo_path": "/giKLP7saeUA0WykEPRyZUcOVv92.png",
+          "name": "Apple TV Amazon Channel"
         }
       ],
       "type": "movie"
@@ -853,8 +925,12 @@ window.FA_OTT = {
       "id": 1780407,
       "providers": [
         {
-          "logo_path": "/9icYBfYFcwgCbky5VdGUIKJ4C5i.png",
+          "logo_path": "/v9SnyvYt0U3KGgBH3Sbh3z4yODe.png",
           "name": "Apple TV"
+        },
+        {
+          "logo_path": "/giKLP7saeUA0WykEPRyZUcOVv92.png",
+          "name": "Apple TV Amazon Channel"
         }
       ],
       "type": "movie"
@@ -2603,6 +2679,18 @@ window.FA_OTT = {
     {
       "date": "2026-10-23",
       "date_kind": "release",
+      "id": 315323,
+      "providers": [
+        {
+          "logo_path": "/AoNsevRecTdVv4xQEf1oLRGO2yh.png",
+          "name": "Rakuten Viki"
+        }
+      ],
+      "type": "tv"
+    },
+    {
+      "date": "2026-10-23",
+      "date_kind": "release",
       "id": 286171,
       "providers": [
         {
@@ -3140,6 +3228,18 @@ window.FA_OTT = {
         }
       ],
       "type": "movie"
+    },
+    {
+      "date": "2026-10-02",
+      "date_kind": "release",
+      "id": 337614,
+      "providers": [
+        {
+          "logo_path": "/44uAnmSqvA4yBOdbPWN8YgQHjWm.png",
+          "name": "Hulu"
+        }
+      ],
+      "type": "tv"
     },
     {
       "country": "AU",
@@ -4401,11 +4501,15 @@ window.FA_OTT = {
       "type": "movie"
     },
     {
-      "country": "CN",
       "date": "2025-10-03",
       "date_kind": "digital",
       "id": 1497970,
-      "providers": [],
+      "providers": [
+        {
+          "logo_path": "/44uAnmSqvA4yBOdbPWN8YgQHjWm.png",
+          "name": "Hulu"
+        }
+      ],
       "type": "movie"
     },
     {
@@ -4778,11 +4882,11 @@ window.FA_OTT = {
       "id": 248830,
       "providers": [
         {
-          "logo_path": "/9icYBfYFcwgCbky5VdGUIKJ4C5i.png",
+          "logo_path": "/v9SnyvYt0U3KGgBH3Sbh3z4yODe.png",
           "name": "Apple TV"
         },
         {
-          "logo_path": "/rerVCu9auZrgxTTiZu1criqrQzg.png",
+          "logo_path": "/giKLP7saeUA0WykEPRyZUcOVv92.png",
           "name": "Apple TV Amazon Channel"
         }
       ],
@@ -5086,11 +5190,11 @@ window.FA_OTT = {
       "id": 196322,
       "providers": [
         {
-          "logo_path": "/9icYBfYFcwgCbky5VdGUIKJ4C5i.png",
+          "logo_path": "/v9SnyvYt0U3KGgBH3Sbh3z4yODe.png",
           "name": "Apple TV"
         },
         {
-          "logo_path": "/rerVCu9auZrgxTTiZu1criqrQzg.png",
+          "logo_path": "/giKLP7saeUA0WykEPRyZUcOVv92.png",
           "name": "Apple TV Amazon Channel"
         }
       ],

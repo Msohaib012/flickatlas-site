@@ -1990,7 +1990,14 @@ window.FA_PUBLISHED = {
     "published_at": "2026-10-27",
     "date_kind": "release",
     "status": "Released",
-    "providers": [],
+    "providers": [
+      {
+        "name": "Hulu",
+        "logo_path": "/44uAnmSqvA4yBOdbPWN8YgQHjWm.png",
+        "region": "US",
+        "type": "flatrate"
+      }
+    ],
     "release_date": "2026-10-23"
   },
   "1187038": {
@@ -16301,13 +16308,13 @@ window.FA_PUBLISHED = {
     "providers": [
       {
         "name": "Apple TV",
-        "logo_path": "/9icYBfYFcwgCbky5VdGUIKJ4C5i.png",
+        "logo_path": "/v9SnyvYt0U3KGgBH3Sbh3z4yODe.png",
         "region": "IN",
         "type": "flatrate"
       },
       {
         "name": "Apple TV Amazon Channel",
-        "logo_path": "/rerVCu9auZrgxTTiZu1criqrQzg.png",
+        "logo_path": "/giKLP7saeUA0WykEPRyZUcOVv92.png",
         "region": "IN",
         "type": "flatrate"
       }
@@ -16376,13 +16383,13 @@ window.FA_PUBLISHED = {
     "providers": [
       {
         "name": "Apple TV",
-        "logo_path": "/9icYBfYFcwgCbky5VdGUIKJ4C5i.png",
+        "logo_path": "/v9SnyvYt0U3KGgBH3Sbh3z4yODe.png",
         "region": "IN",
         "type": "flatrate"
       },
       {
         "name": "Apple TV Amazon Channel",
-        "logo_path": "/rerVCu9auZrgxTTiZu1criqrQzg.png",
+        "logo_path": "/giKLP7saeUA0WykEPRyZUcOVv92.png",
         "region": "IN",
         "type": "flatrate"
       }
@@ -18242,7 +18249,13 @@ window.FA_PUBLISHED = {
     "providers": [
       {
         "name": "Apple TV",
-        "logo_path": "/9icYBfYFcwgCbky5VdGUIKJ4C5i.png",
+        "logo_path": "/v9SnyvYt0U3KGgBH3Sbh3z4yODe.png",
+        "region": "IN",
+        "type": "flatrate"
+      },
+      {
+        "name": "Apple TV Amazon Channel",
+        "logo_path": "/giKLP7saeUA0WykEPRyZUcOVv92.png",
         "region": "IN",
         "type": "flatrate"
       }
@@ -18361,7 +18374,13 @@ window.FA_PUBLISHED = {
     "providers": [
       {
         "name": "Apple TV",
-        "logo_path": "/9icYBfYFcwgCbky5VdGUIKJ4C5i.png",
+        "logo_path": "/v9SnyvYt0U3KGgBH3Sbh3z4yODe.png",
+        "region": "IN",
+        "type": "flatrate"
+      },
+      {
+        "name": "Apple TV Amazon Channel",
+        "logo_path": "/giKLP7saeUA0WykEPRyZUcOVv92.png",
         "region": "IN",
         "type": "flatrate"
       }
@@ -29996,7 +30015,20 @@ window.FA_PUBLISHED = {
     "published_at": "2026-11-16",
     "date_kind": "release",
     "status": "Released",
-    "providers": [],
+    "providers": [
+      {
+        "name": "Amazon Prime Video",
+        "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+        "region": "IN",
+        "type": "flatrate"
+      },
+      {
+        "name": "Amazon Prime Video with Ads",
+        "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+        "region": "IN",
+        "type": "flatrate"
+      }
+    ],
     "release_date": "2026-11-23",
     "popularity": 46.2954
   },
@@ -30693,7 +30725,14 @@ window.FA_PUBLISHED = {
     ],
     "published_at": "2026-11-16",
     "status": "Returning Series",
-    "providers": [],
+    "providers": [
+      {
+        "name": "Hulu",
+        "logo_path": "/44uAnmSqvA4yBOdbPWN8YgQHjWm.png",
+        "region": "US",
+        "type": "flatrate"
+      }
+    ],
     "first_air_date": "2026-10-02",
     "popularity": 0.4941
   },
@@ -31233,7 +31272,14 @@ window.FA_PUBLISHED = {
     "published_at": "2026-11-17",
     "date_kind": "release",
     "status": "Released",
-    "providers": [],
+    "providers": [
+      {
+        "name": "HBO Max",
+        "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+        "region": "PK",
+        "type": "flatrate"
+      }
+    ],
     "release_date": "2026-11-24",
     "popularity": 0.786
   },
@@ -37458,7 +37504,14 @@ window.FA_PUBLISHED = {
     ],
     "published_at": "2026-11-22",
     "status": "Returning Series",
-    "providers": [],
+    "providers": [
+      {
+        "name": "Rakuten Viki",
+        "logo_path": "/AoNsevRecTdVv4xQEf1oLRGO2yh.png",
+        "region": "US",
+        "type": "flatrate"
+      }
+    ],
     "first_air_date": "2026-10-23",
     "popularity": 26.1313
   },
@@ -38125,7 +38178,38 @@ window.FA_PUBLISHED = {
     "published_at": "2026-11-23",
     "date_kind": "release",
     "status": "Released",
-    "providers": [],
+    "providers": [
+      {
+        "name": "fuboTV",
+        "logo_path": "/3wF8xISfVlcrc8X3jaa3uMUFGAr.png",
+        "region": "US",
+        "type": "flatrate"
+      },
+      {
+        "name": "Philo",
+        "logo_path": "/mfbhzQwmQKjm7bLZPF5CTeu3Ilc.png",
+        "region": "US",
+        "type": "flatrate"
+      },
+      {
+        "name": "Hallmark+ Amazon Channel",
+        "logo_path": "/yG1Q3YBp5xF2Xj6Meux51Dkg4jP.png",
+        "region": "US",
+        "type": "flatrate"
+      },
+      {
+        "name": "Hallmark+ Apple TV channel",
+        "logo_path": "/fAUJbIgaArLzpf6eK2FMJV8zOQT.png",
+        "region": "US",
+        "type": "flatrate"
+      },
+      {
+        "name": "Hallmark TV Amazon Channel",
+        "logo_path": "/rfXfa1Cq2cxiO76jN3kflGeqJuT.png",
+        "region": "US",
+        "type": "flatrate"
+      }
+    ],
     "release_date": "2026-11-22",
     "popularity": 1.7211
   },
@@ -38229,7 +38313,14 @@ window.FA_PUBLISHED = {
     ],
     "published_at": "2026-11-23",
     "status": "Returning Series",
-    "providers": [],
+    "providers": [
+      {
+        "name": "Netflix",
+        "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+        "region": "IN",
+        "type": "flatrate"
+      }
+    ],
     "first_air_date": "2026-11-23",
     "popularity": 9.309
   },

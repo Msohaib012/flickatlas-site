@@ -7,25 +7,25 @@
   "unchanged": 22,
   "error": 3
  },
- "queue_total": 262,
- "stories_total": 265,
+ "queue_total": 271,
+ "stories_total": 275,
  "duplicates_removed": 0,
  "categories": {
-  "Box Office": 6,
-  "Awards": 5,
-  "Trailers": 3,
-  "Music / OST": 5,
-  "Episodes": 3,
-  "Upcoming releases": 1,
+  "Box Office": 2,
+  "Awards": 6,
+  "Trailers": 1,
+  "Music / OST": 11,
+  "Episodes": 4,
+  "Upcoming releases": 0,
   "OTT / Streaming": 5,
   "TV & Dramas": 4,
-  "Celebrity news & events": 16,
-  "Movies": 214,
+  "Celebrity news & events": 19,
+  "Movies": 219,
   "Entertainment viral": 0
  },
  "dropped": {
   "not-today": 2,
-  "fallback-blocked-non-entertainment": 3
+  "fallback-blocked-non-entertainment": 4
  },
  "per_source": [
   {
@@ -108,7 +108,7 @@
   {
    "source": "Times of India — Entertainment",
    "status": "ok",
-   "new": 5,
+   "new": 6,
    "total": 20,
    "note": ""
   },
@@ -136,7 +136,7 @@
   {
    "source": "India Today — Movies",
    "status": "ok",
-   "new": 0,
+   "new": 1,
    "total": 20,
    "note": ""
   },
@@ -248,23 +248,23 @@
   {
    "source": "CinemaBlend",
    "status": "ok",
-   "new": 2,
+   "new": 1,
    "total": 30,
    "note": ""
   },
   {
    "source": "Collider",
    "status": "ok",
-   "new": 7,
+   "new": 10,
    "total": 10,
    "note": ""
   },
   {
    "source": "ComingSoon.net",
-   "status": "ok",
-   "new": 2,
-   "total": 20,
-   "note": ""
+   "status": "unchanged",
+   "new": 0,
+   "total": 0,
+   "note": "304, feed badli nahi"
   },
   {
    "source": "FirstShowing.net",
@@ -283,14 +283,14 @@
   {
    "source": "MovieWeb",
    "status": "ok",
-   "new": 3,
+   "new": 1,
    "total": 10,
    "note": ""
   },
   {
    "source": "Screen Rant",
    "status": "ok",
-   "new": 2,
+   "new": 9,
    "total": 10,
    "note": ""
   },
@@ -318,7 +318,7 @@
   {
    "source": "The Hollywood Reporter",
    "status": "ok",
-   "new": 2,
+   "new": 1,
    "total": 10,
    "note": ""
   },
@@ -332,7 +332,7 @@
   {
    "source": "TheWrap",
    "status": "ok",
-   "new": 3,
+   "new": 0,
    "total": 10,
    "note": ""
   },
@@ -374,16 +374,16 @@
   {
    "source": "JoBlo",
    "status": "ok",
-   "new": 1,
+   "new": 0,
    "total": 30,
    "note": ""
   },
   {
    "source": "SlashFilm",
-   "status": "ok",
+   "status": "unchanged",
    "new": 0,
-   "total": 20,
-   "note": ""
+   "total": 0,
+   "note": "304, feed badli nahi"
   },
   {
    "source": "Empire",
@@ -395,16 +395,16 @@
   {
    "source": "Total Film (GamesRadar)",
    "status": "ok",
-   "new": 1,
+   "new": 0,
    "total": 30,
    "note": ""
   },
   {
    "source": "TVLine",
-   "status": "unchanged",
+   "status": "ok",
    "new": 0,
-   "total": 0,
-   "note": "304, feed badli nahi"
+   "total": 20,
+   "note": ""
   },
   {
    "source": "The Futon Critic",
@@ -423,7 +423,7 @@
   {
    "source": "Gold Derby",
    "status": "ok",
-   "new": 1,
+   "new": 0,
    "total": 12,
    "note": ""
   },
@@ -514,7 +514,7 @@
   {
    "source": "Dawn — Images/ICON",
    "status": "ok",
-   "new": 1,
+   "new": 2,
    "total": 27,
    "note": ""
   },
@@ -549,7 +549,7 @@
   {
    "source": "HAR PAL GEO (YouTube)",
    "status": "ok",
-   "new": 1,
+   "new": 2,
    "total": 15,
    "note": ""
   },
@@ -639,10 +639,10 @@
   },
   {
    "source": "Dramabeans",
-   "status": "ok",
-   "new": 1,
-   "total": 7,
-   "note": ""
+   "status": "unchanged",
+   "new": 0,
+   "total": 0,
+   "note": "304, feed badli nahi"
   },
   {
    "source": "DramaWiki (D-Addicts)",
@@ -668,16 +668,16 @@
   {
    "source": "MyDramaList",
    "status": "ok",
-   "new": 2,
+   "new": 1,
    "total": 30,
    "note": ""
   },
   {
    "source": "Soompi",
-   "status": "unchanged",
-   "new": 0,
-   "total": 0,
-   "note": "304, feed badli nahi"
+   "status": "ok",
+   "new": 3,
+   "total": 30,
+   "note": ""
   },
   {
    "source": "VVIP Times",
@@ -689,14 +689,14 @@
   {
    "source": "allkpop",
    "status": "ok",
-   "new": 0,
+   "new": 9,
    "total": 30,
    "note": ""
   },
   {
    "source": "Koreaboo",
    "status": "ok",
-   "new": 0,
+   "new": 1,
    "total": 10,
    "note": ""
   },
@@ -730,10 +730,10 @@
   },
   {
    "source": "Flickering Myth",
-   "status": "unchanged",
+   "status": "ok",
    "new": 0,
-   "total": 0,
-   "note": "304, feed badli nahi"
+   "total": 30,
+   "note": ""
   },
   {
    "source": "Geektown",
@@ -758,10 +758,10 @@
   },
   {
    "source": "TellyMix",
-   "status": "ok",
-   "new": 1,
-   "total": 7,
-   "note": ""
+   "status": "unchanged",
+   "new": 0,
+   "total": 0,
+   "note": "304, feed badli nahi"
   },
   {
    "source": "What to Watch (What's on TV)",
@@ -794,14 +794,14 @@
   {
    "source": "E! News",
    "status": "ok",
-   "new": 0,
+   "new": 4,
    "total": 30,
    "note": ""
   },
   {
    "source": "Just Jared",
    "status": "ok",
-   "new": 5,
+   "new": 3,
    "total": 25,
    "note": ""
   },
@@ -878,14 +878,14 @@
   {
    "source": "HELLO! Magazine",
    "status": "ok",
-   "new": 2,
+   "new": 0,
    "total": 30,
    "note": ""
   },
   {
    "source": "OK! Magazine UK",
    "status": "ok",
-   "new": 0,
+   "new": 1,
    "total": 25,
    "note": ""
   },
@@ -899,7 +899,7 @@
   {
    "source": "Interesting Engineering",
    "status": "ok",
-   "new": 0,
+   "new": 1,
    "total": 10,
    "note": ""
   },
@@ -919,10 +919,10 @@
   },
   {
    "source": "ScienceAlert",
-   "status": "unchanged",
+   "status": "ok",
    "new": 0,
-   "total": 0,
-   "note": "304, feed badli nahi"
+   "total": 10,
+   "note": ""
   },
   {
    "source": "Bored Panda",
@@ -969,7 +969,7 @@
   {
    "source": "Rolling Stone Music",
    "status": "ok",
-   "new": 1,
+   "new": 0,
    "total": 10,
    "note": ""
   },

@@ -242577,5 +242577,434 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Wed, 25 Nov 2026 01:41:33 +0000"
+  },
+  "1qjpc7p": {
+    "id": "1qjpc7p",
+    "type": "news",
+    "headline": "Ramayana Box Office Day 20: Film Eyes Top 4 Spot and Targets Pushpa 2 Record",
+    "dek": "Ramayana: Part One closes in on the fourth spot among highest-grossing Indian films worldwide after a strong twenty-day run at the box office.",
+    "body": [
+      {
+        "h": "Global Milestone in Sight",
+        "p": [
+          "The theatrical run of Ramayana: Part One continues to break boundaries as the feature approaches a major milestone on the global stage. Having completed twenty days in cinemas, the epic drama has amassed a massive worldwide gross collection.",
+          "With its current earnings, the production is positioned just a short distance behind its next major competitor on the all-time list, setting the stage for a potential shuffle in the top rankings."
+        ]
+      },
+      {
+        "h": "Domestic Momentum and Recent Growth",
+        "p": [
+          "The feature witnessed a notable upward trend domestically on its twentieth day in theatres, recording a significant percentage increase compared to the previous day's figures.",
+          "This steady domestic traction has propelled its overall gross and nett figures within the country to impressive heights, driven by substantial viewer turnout across multiple regional versions."
+        ]
+      },
+      {
+        "h": "Language-Wise Performance Breakdown",
+        "p": [
+          "Audiences across different linguistic regions have contributed to the box office triumph, with the Hindi version leading the domestic nett collections by a wide margin.",
+          "Regional versions including Kannada, Telugu, Malayalam, and Tamil have collectively added robust numbers to the overall domestic tally, reflecting widespread appeal across diverse territories."
+        ]
+      },
+      {
+        "h": "Weekly Earnings and Screening Scale",
+        "p": [
+          "Analyzing the chronological revenue generation reveals strong consistency, from the opening week figures through the second week additions and the ongoing third week contributions.",
+          "The immense scale of the distribution strategy is highlighted by the vast number of screenings recorded across the nation throughout the twenty-day period."
+        ]
+      },
+      {
+        "h": "Position Among All-Time Grossers",
+        "p": [
+          "The elite hierarchy of highest-grossing Indian features worldwide features several historic blockbusters, with notable titles holding the top positions ahead of the new entrant.",
+          "Ramayana currently stands fifth globally, trailing closely behind the fourth-ranked title while looking upward at the leading frontrunners in cinematic history."
+        ]
+      },
+      {
+        "h": "Cast, Crew and Future Installments",
+        "p": [
+          "Helmed by Nitesh Tiwari, the multi-starrer project brings together prominent actors portraying iconic mythological characters, backed by notable production banners.",
+          "The cinematic journey is planned as a two-part epic, with the subsequent installment already slated for a future festive release and promising the introduction of additional legendary figures."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Ramayana: Part One has grossed Rs 1,735.15 crore worldwide in twenty days and needs just Rs 6.85 crore more to surpass Pushpa 2 for the fourth spot among highest-grossing Indian films. The Nitesh Tiwari-directed feature continues a strong theatrical run driven by robust domestic and overseas collections."
+        ]
+      }
+    ],
+    "facts": [
+      "Ramayana: Part One has grossed Rs 1,735.15 crore worldwide in 20 days.",
+      "The film needs Rs 6.85 crore more to overtake Pushpa 2, which stands at Rs 1,742 crore.",
+      "Ramayana collected Rs 17.50 crore nett in India on Day 20, a 37.8 per cent rise from Day 19's Rs 12.70 crore.",
+      "Dangal leads worldwide gross collections at Rs 2,070 crore, followed by Dhurandhar 2 at Rs 1,813.40 crore and Baahubali 2 at Rs 1,788 crore.",
+      "Ramayana has grossed Rs 1,162.15 crore in India, with domestic nett reaching Rs 972.95 crore and overseas contributing Rs 573 crore.",
+      "Hindi version earned Rs 739.25 crore, Kannada Rs 77.05 crore, Telugu Rs 57.30 crore, Malayalam Rs 51.20 crore, and Tamil Rs 48.15 crore.",
+      "First week nett in India was Rs 564.60 crore, second week added Rs 299.15 crore, and the first five days of the third week added Rs 109.20 crore.",
+      "The film recorded 4,28,377 shows across India in its first 20 days.",
+      "The movie is directed by Nitesh Tiwari and stars Ranbir Kapoor, Yash, Sai Pallavi, and Ravi Dubey, with Sunny Deol joining the second instalment in Diwali 2028."
+    ],
+    "entities": {
+      "people": [
+        "Ranbir Kapoor",
+        "Yash",
+        "Sai Pallavi",
+        "Ravi Dubey",
+        "Nitesh Tiwari",
+        "Namit Malhotra",
+        "Sunny Deol"
+      ],
+      "titles": [
+        "Ramayana: Part One",
+        "Pushpa 2",
+        "Dangal",
+        "Dhurandhar 2",
+        "Baahubali 2",
+        "Dhurandhar",
+        "RRR",
+        "KGF: Chapter 2",
+        "Jawan",
+        "Pathaan",
+        "Avengers Doomsday"
+      ]
+    },
+    "keywords": [
+      "Ramayana box office Day 20",
+      "Ramayana Part One collection",
+      "Ranbir Kapoor Yash Ramayana",
+      "Ramayana vs Pushpa 2 box office"
+    ],
+    "images": [
+      {
+        "url": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202611/ramayana-255954126-16x9_0.jpg?VersionId=PeQOF0ELRNY7xGSv4Z7of7.tiL0peTzI",
+        "caption": "Ramayana Box Office Day 20: Film Eyes Top 4 Spot and Targets Pushpa 2 Record",
+        "source": "India Today — Movies"
+      }
+    ],
+    "published": "Wed, 25 Nov 2026 07:51:20 +0530"
+  },
+  "12ddgwz": {
+    "id": "12ddgwz",
+    "type": "news",
+    "headline": "Oscars VFX Top 20 Revealed: Disney Leads With Four Titles While Dune: Part Three and Ramayana Advance",
+    "dek": "The Academy of Motion Picture Arts and Sciences has notified the creative teams behind the 20 films advancing in the visual effects race for the 99th Academy Awards, featuring a diverse mix of major studio tentpoles and international spectacles.",
+    "body": [
+      {
+        "h": "The Visual Effects Race Narrows Down",
+        "p": [
+          "The competition for the 99th Academy Awards visual effects category has officially reached its next major milestone. The Academy's Visual Effects Branch has communicated with the artisans behind the twenty films moving forward in the selection process, narrowing the field ahead of the upcoming voting windows.",
+          "While the Academy does not publicly release this preliminary shortlist, reports have confirmed nineteen of the advancing contenders across major studios and independent productions. The selections highlight an eclectic mix of blockbuster franchises, ambitious sci-fi epics, and international features competing for recognition."
+        ]
+      },
+      {
+        "h": "Disney Dominates the Shortlist Field",
+        "p": [
+          "Walt Disney Pictures leads the confirmed group with four advancing titles. Among the studio's entries are Marvel Studios' 'Avengers: Doomsday' directed by Anthony and Joe Russo, and Jon Favreau's 'Star Wars: The Mandalorian and Grogu'.",
+          "Rounding out Disney's quartet are 20th Century Studios' 'Whalefall' and Thomas Kail's live-action adaptation of 'Moana', which brings back Dwayne Johnson to reprise his role as the demigod Maui."
+        ]
+      },
+      {
+        "h": "Sci-Fi Franchises and Director Heavyweights",
+        "p": [
+          "Denis Villeneuve's 'Dune: Part Three' continues a strong franchise streak, following the visual effects wins of its predecessors. Villeneuve aims for a historic trilogy sweep in the category, echoing James Cameron's franchise accomplishments.",
+          "Other notable director-driven projects making the cut include Christopher Nolan's 'The Odyssey' from Universal Pictures, Phil Lord and Christopher Miller's 'Project Hail Mary' from Amazon MGM Studios, and Steven Spielberg's 'Disclosure Day'."
+        ]
+      },
+      {
+        "h": "International Spectacles and Indie Standouts",
+        "p": [
+          "International cinema secures prominent footing on the list through Sony Pictures' representation of 'Ramayana: Rise of a Legend'. The Indian mythological epic follows in the footsteps of S.S. Rajamouli's 'RRR' from previous Oscar cycles.",
+          "Takashi Yamazaki's 'Godzilla Minus Zero' also advances, building upon the groundbreaking success of its predecessor. Meanwhile, A24 landed a spot with 'Backrooms', the feature directorial debut of Kane Parsons."
+        ]
+      },
+      {
+        "h": "Studio Splits and Misses",
+        "p": [
+          "Paramount Pictures experienced a split verdict, advancing David Ayer's survival thriller 'Heart of the Beast' starring Brad Pitt, while missing out with 'Ebenezer' starring Johnny Depp and the 'Street Fighter' video game adaptation.",
+          "Netflix secured a spot with Peter Berg's war drama 'The Mosquito Bowl', maintaining the streamer's active presence in the visual effects category following entries like 'Frankenstein' and 'The Electric State' in prior years."
+        ]
+      },
+      {
+        "h": "Upcoming Voting and Timeline",
+        "p": [
+          "The preliminary voting period for the Oscar shortlists opens in December, leading up to the official announcement of all category shortlists mid-month. Following the announcement, shortlisted films will participate in bake-offs for branch members.",
+          "Final nominations voting will take place in January, culminating in the official announcement of nominees ahead of the 99th Academy Awards ceremony scheduled for March at the Dolby Theatre at Ovation Hollywood."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "The Academy's Visual Effects Branch has determined the top twenty advancing contenders for the 99th Academy Awards, with Disney leading the confirmed titles with four selections. Major projects like Dune: Part Three, The Odyssey, and international epics like Ramayana have advanced alongside various studio tentpoles ahead of the upcoming voting period."
+        ]
+      }
+    ],
+    "facts": [
+      "The Visual Effects Branch notified the 20 films advancing ahead of the Thanksgiving holiday.",
+      "Disney leads the confirmed titles with four films.",
+      "Denis Villeneuve's Dune: Part Three opens December 18.",
+      "The preliminary voting period for the Oscars shortlist begins Monday, Dec. 7 at 9 a.m. PT.",
+      "The 99th Academy Awards will be held Sunday, March 14 at the Dolby Theatre at Ovation Hollywood."
+    ],
+    "entities": {
+      "people": [
+        "Denis Villeneuve",
+        "Christopher Nolan",
+        "Phil Lord",
+        "Christopher Miller",
+        "Steven Spielberg",
+        "Anthony Russo",
+        "Joe Russo",
+        "Jon Favreau",
+        "Thomas Kail",
+        "Dwayne Johnson",
+        "Alejandro G. Iñárritu",
+        "Tom Cruise",
+        "Craig Gillespie",
+        "James Gunn",
+        "Peter Safran",
+        "Kyle Balda",
+        "Takashi Yamazaki",
+        "Travis Knight",
+        "Destin Daniel Cretton",
+        "S.S. Rajamouli",
+        "Kane Parsons",
+        "David Ayer",
+        "Brad Pitt",
+        "Johnny Depp",
+        "Peter Berg"
+      ],
+      "titles": [
+        "Dune: Part Three",
+        "The Odyssey",
+        "Project Hail Mary",
+        "Disclosure Day",
+        "Avengers: Doomsday",
+        "Star Wars: The Mandalorian and Grogu",
+        "Whalefall",
+        "Moana",
+        "Digger",
+        "Supergirl",
+        "The Sheep Detectives",
+        "Godzilla Minus Zero",
+        "Wildwood",
+        "Spider-Man: Brand New Day",
+        "Jumanji: Open World",
+        "Ramayana: Rise of a Legend",
+        "Backrooms",
+        "Heart of the Beast",
+        "Ebenezer",
+        "Street Fighter",
+        "The Mosquito Bowl",
+        "Dune",
+        "Dune: Part Two",
+        "Avatar: Fire and Ash",
+        "Inception",
+        "Interstellar",
+        "Tenet",
+        "Oppenheimer",
+        "Jurassic Park",
+        "Godzilla Minus One",
+        "Kubo and the Two Strings",
+        "The Nightmare Before Christmas",
+        "RRR",
+        "Frankenstein",
+        "The Electric State"
+      ]
+    },
+    "keywords": [
+      "Oscars Visual Effects Top 20",
+      "Dune Part Three VFX shortlist",
+      "Disney Oscars visual effects",
+      "Ramayana Rise of a Legend Oscars"
+    ],
+    "images": [
+      {
+        "url": "https://variety.com/wp-content/uploads/2026/11/split-image-1000-4-2.jpg?w=1000&#038;h=563&#038;crop=1",
+        "caption": "Oscars VFX Top 20 Revealed: Disney Leads With Four Titles While Dune: Part Three and Ramayana Advance",
+        "source": "Variety"
+      }
+    ],
+    "published": "Wed, 25 Nov 2026 01:57:22 +0000"
+  },
+  "1q66v60": {
+    "id": "1q66v60",
+    "type": "news",
+    "headline": "Tanishaa Mukerji Evaluates 'Ramayana: Rise of a Legend' Performances As Film Reaches Day 20 Box Office Milestone",
+    "dek": "Actress Tanishaa Mukerji shares her thoughts on the casting choices in the mythological drama 'Ramayana: Rise of a Legend', praising the lead actors while expressing reservations about Sai Pallavi, even as the film hits major collection figures.",
+    "body": [
+      {
+        "h": "Introduction to the Review",
+        "p": [
+          "Actress Tanishaa Mukerji recently shared her assessment of the mythological drama 'Ramayana: Rise of a Legend', offering praise for several major performances while voicing concerns about a specific casting choice. Taking to social media to express her views, she highlighted the strong points of the cinematic spectacle after finally sitting down to watch it.",
+          "Her commentary focused heavily on how the principal cast embodied their mythological counterparts, drawing attention to both the successes and the perceived shortcomings in bringing the epic story to life on the silver screen."
+        ]
+      },
+      {
+        "h": "Praise for Ranbir Kapoor as Lord Ram",
+        "p": [
+          "Tanishaa Mukerji reserved some of her highest praise for Ranbir Kapoor, who portrays Lord Ram in the ambitious project. She admitted that her initial skepticism stemmed from his gritty and intense role in the previous film 'Animal', which left her wondering if she would be able to view him as a divine figure.",
+          "However, she noted that the actor completely shattered those doubts, delivering a performance that she described as outstanding and describing him as an absolute perfectionist in the lead role."
+        ]
+      },
+      {
+        "h": "Reservations Regarding Sai Pallavi as Sita",
+        "p": [
+          "In contrast to her admiration for the male lead, Tanishaa expressed reservations about Sai Pallavi playing the role of Sita. While she acknowledged that the actress is undoubtedly talented, she felt that the casting choice did not fit the visual identity of the character.",
+          "She explained that this particular element disrupted her overall connection to the film's aesthetic, even though she thoroughly enjoyed the rest of the visual storytelling and acting performances."
+        ]
+      },
+      {
+        "h": "Yash's Portrayal of Ravana",
+        "p": [
+          "The supporting and opposing forces in the narrative also drew positive attention, with Tanishaa highlighting Yash and his compelling interpretation of Ravana. She felt that he exceeded all expectations and proved that he had completely mastered his complex character.",
+          "According to her review, the dynamic between Lord Ram and Ravana worked exceptionally well because both actors brought total commitment to their roles, creating a powerful balance on screen."
+        ]
+      },
+      {
+        "h": "Box Office Growth and Collections",
+        "p": [
+          "Away from the critical reception, 'Ramayana: Rise of a Legend' has been making waves at the box office, recording a notable surge in collections on its twentieth day. The film experienced a strong upward trend, pulling in substantial numbers as it continued its theatrical run.",
+          "The sustained momentum highlights the public's appetite for the mythological epic, keeping the production firmly on track toward even greater commercial milestones both domestically and internationally."
+        ]
+      },
+      {
+        "h": "Domestic and Global Financial Standing",
+        "p": [
+          "The feature brought in Rs 17.50 crore in India on Tuesday, November 24, marking a remarkable 37.8 percent increase compared to the previous day's collection of Rs 12.70 crore.",
+          "This latest single-day boost pushes the film's total domestic net collections close to the Rs 1000 crore mark, while worldwide gross figures continue to climb past impressive thresholds due to strong contributions from overseas markets."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Actress Tanishaa Mukerji shared her critique of 'Ramayana: Rise of a Legend', praising Ranbir Kapoor and Yash while questioning Sai Pallavi's casting as Sita. Concurrently, the film achieved a notable box office surge on its twentieth day with strong domestic and international earnings."
+        ]
+      }
+    ],
+    "facts": [
+      "Tanishaa Mukerji posted her review on Tuesday, November 25",
+      "Ranbir Kapoor previously starred in Animal",
+      "Ramayana: Rise of a Legend earned Rs 17.50 cr in India on Tuesday, November 24",
+      "The Day 20 collection represented a 37.8% increase over the previous day's collection of Rs 12.70 cr",
+      "The film's India net collection reached Rs 972.95 cr",
+      "The domestic gross stands at Rs 1,162.15 cr",
+      "Overseas markets contributed Rs 573 cr in gross collections",
+      "The worldwide gross reached Rs 1,735.15 cr"
+    ],
+    "entities": {
+      "people": [
+        "Tanishaa Mukerji",
+        "Sai Pallavi",
+        "Ranbir Kapoor",
+        "Yash"
+      ],
+      "titles": [
+        "Ramayana: Rise of a legend",
+        "Animal"
+      ]
+    },
+    "keywords": [
+      "Ramayana Rise of a legend",
+      "Tanishaa Mukerji Ramayana",
+      "Ranbir Kapoor Sita Sai Pallavi",
+      "Ramayana box office day 20"
+    ],
+    "images": [
+      {
+        "url": "https://static.toiimg.com/thumb/msid-136145697,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "caption": "Tanishaa Mukerji Evaluates 'Ramayana: Rise of a Legend' Performances As Film Reaches Day 20 Box Office Milestone",
+        "source": "Times of India — Entertainment"
+      }
+    ],
+    "published": "2026-11-25T07:27:33+05:30"
+  },
+  "1msnteu": {
+    "id": "1msnteu",
+    "type": "news",
+    "headline": "Marvel Studios Preparing Special Tribute For Patrick Stewart In 'Avengers: Doomsday'",
+    "dek": "Kevin Feige and the team behind the upcoming Marvel blockbuster are planning an honorable homage to the late actor, who delivered an emotional final performance despite battling health challenges.",
+    "body": [
+      {
+        "h": "A Final Performance",
+        "p": [
+          "Patrick Stewart is set to make his final cinematic appearance in the upcoming feature Avengers: Doomsday, reprising his iconic role as Professor Charles Xavier for one last time. The project stands as a poignant conclusion to his extensive tenure within the superhero genre.",
+          "The studio's head, Kevin Feige, recently spoke with Entertainment Weekly about the late actor's involvement and confirmed that special plans are underway to honor his legacy within the final cut of the movie."
+        ]
+      },
+      {
+        "h": "Honoring A Legend",
+        "p": [
+          "According to Kevin Feige, the primary photography for the blockbuster has long been completed, but the creative team is actively working on how to incorporate a respectful tribute. The goal is to properly recognize the profound impact Stewart had both on screen and behind the scenes.",
+          "While the actor was originally approached to take part in both Avengers: Doomsday and its follow-up, Avengers: Secret Wars, he consciously decided to limit his participation solely to the first film."
+        ]
+      },
+      {
+        "h": "Health Battles On Set",
+        "p": [
+          "Behind the scenes, the legendary actor was facing significant personal obstacles during production. He passed away on October 28 due to complications from Alzheimer's disease and Lewy body dementia.",
+          "Director Anthony Russo highlighted the sheer determination Stewart exhibited while working on the project, noting that his physical struggles were apparent to everyone present on the production floor."
+        ]
+      },
+      {
+        "h": "Director Recollections",
+        "p": [
+          "Anthony Russo praised the extraordinary effort the veteran actor poured into his craft, emphasizing that he showed up day after day to deliver a compelling presence for his fellow cast members, the directors, and the entire crew.",
+          "The filmmaker noted that witnessing someone grapple with deep health challenges while continuing to execute such a high-level performance transformed the collaboration into an intensely emotional experience for everyone involved."
+        ]
+      },
+      {
+        "h": "A Touching Farewell",
+        "p": [
+          "On his very last day of shooting on the production, the actor took a moment to address the people who had supported him throughout the process. He stood before the assembled crew to deliver a heartfelt speech.",
+          "That memorable farewell speech served as a fitting capstone to a legendary career, underscoring his deep appreciation for the collaborative nature of filmmaking and the people who brought the universe to life."
+        ]
+      },
+      {
+        "h": "Release And Legacy",
+        "p": [
+          "Avengers: Doomsday is scheduled to hit theaters on December 18, bringing fans another massive chapter in the overarching cinematic universe while serving as a final showcase for one of its most revered performers.",
+          "The planned tribute will ensure that audiences everywhere understand the immense dedication and heart that went into crafting his final cinematic curtain call."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Marvel Studios is planning a special tribute in Avengers: Doomsday to honor Patrick Stewart, who passed away on October 28 from Alzheimer's disease and Lewy body dementia. Director Anthony Russo recalled that the actor struggled with his health on set but delivered an emotional final performance and gave a speech to the crew on his last day of filming.",
+          "The film, which features his final return as Professor Charles Xavier, is scheduled for release on December 18."
+        ]
+      }
+    ],
+    "facts": [
+      "Patrick Stewart died on October 28 from Alzheimer's disease and Lewy body dementia.",
+      "Avengers: Doomsday is scheduled for release on December 18.",
+      "Kevin Feige confirmed Marvel is planning a tribute to Patrick Stewart.",
+      "Anthony Russo is one of the directors of Avengers: Doomsday."
+    ],
+    "entities": {
+      "people": [
+        "Patrick Stewart",
+        "Kevin Feige",
+        "Anthony Russo"
+      ],
+      "titles": [
+        "Avengers: Doomsday",
+        "Avengers: Secret Wars"
+      ]
+    },
+    "keywords": [
+      "Patrick Stewart",
+      "Avengers Doomsday",
+      "Kevin Feige",
+      "Anthony Russo",
+      "Professor X"
+    ],
+    "images": [
+      {
+        "url": "https://deadline.com/wp-content/uploads/2026/11/patrick-stewart-xmen-avengers-doomsday.jpg?w=1024",
+        "caption": "Marvel Studios Preparing Special Tribute For Patrick Stewart In 'Avengers: Doomsday'",
+        "source": "Deadline"
+      }
+    ],
+    "published": "Wed, 25 Nov 2026 02:10:40 +0000"
   }
 };
