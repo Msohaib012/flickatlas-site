@@ -241617,5 +241617,523 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Wed, 25 Nov 2026 00:22:55 +0000"
+  },
+  "crf9ff": {
+    "id": "crf9ff",
+    "type": "news",
+    "headline": "FIR Registered in Bengaluru Over IED Blast Threat Targeting Diljit Dosanjh Concert",
+    "dek": "Authorities have filed an FIR following an emailed threat warning of an IED explosion during Diljit Dosanjh's upcoming musical event in Bengaluru, alongside similar security alerts in Mumbai and Pune.",
+    "body": [
+      {
+        "h": "The Threat in Bengaluru",
+        "p": [
+          "Law enforcement officials in Bengaluru have officially registered a First Information Report against unknown individuals after authorities received an alarming email. The message warned of a potential IED bomb blast targeting the upcoming musical performance by popular singer Diljit Dosanjh.",
+          "The event is currently scheduled to take place on November 29 at the NICE Grounds located in Madavara. According to official reports, the threatening electronic message was originally delivered to the official email addresses of the Hubballi-Dharwad Municipal Corporation Commissioner on November 9."
+        ]
+      },
+      {
+        "h": "Specific Warnings and Precautions",
+        "p": [
+          "The threatening email contained multiple specific warnings directed at attendees and the general public. It advised people against bringing children to the concert venue, cautioned individuals against picking up any unattended iPhones, and warned against using the Metro train network.",
+          "Additionally, the message explicitly highlighted the Madavara Metro Station as a potential location for an explosion. The text of the communication ultimately concluded with slogans associated with Khalistan."
+        ]
+      },
+      {
+        "h": "Police Action and Investigation",
+        "p": [
+          "Following the receipt of the complaint, the North CEN Crime Police Station registered a formal case. The charges invoked include section 66 of the Information Technology Act, alongside sections 351(4) for criminal intimidation and 353(1)(b) for statements conducing to public mischief under the Bharatiya Nyaya Sanhita.",
+          "Senior law enforcement officers confirmed that an active investigation is currently underway. Cyber cells are working to trace the specific IP address and determine the exact origin of the email account used to transmit the threat."
+        ]
+      },
+      {
+        "h": "Broader Security Concerns and Pune Court Threat",
+        "p": [
+          "This incident follows a separate threatening email received by the Pune District Court on November 23. That particular message also referenced Diljit Dosanjh and warned of a bomb explosion, reportedly sent under the banner of the Khalistan National Army around 1:46 PM.",
+          "Security agencies were immediately placed on high alert due to the Pune Court Complex threat, which also mentioned potential dangers at 2:29 PM. The correspondence included specific phrases like 'Bomb Dhamake - Bachan-Diljit' alongside designated dates such as November 27 and December 31."
+        ]
+      },
+      {
+        "h": "Mumbai Concert Status and Venue Confirmation",
+        "p": [
+          "Prior to the Bengaluru tour stop, the musician is slated to perform in Mumbai on November 27 under strict security arrangements. The Pune email also referenced potential threats involving an iPhone attack at Mahalaxmi Stadium.",
+          "Despite the swirling security concerns and digital threats, the artist has confirmed that he will proceed with his performance as scheduled at Mumbai's Mahalakshmi Racecourse. Venue management at the Bangalore International Exhibition Centre also verified the scheduling of the November 29 concert at NICE Grounds."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Authorities have filed an FIR in Bengaluru regarding an emailed threat warning of an IED blast at Diljit Dosanjh's upcoming November 29 concert. Similar security alerts have also emerged concerning events and locations in Mumbai and Pune, prompting ongoing investigations while the artist maintains his performance schedule."
+        ]
+      }
+    ],
+    "facts": [
+      "November 24, 2026",
+      "November 29",
+      "November 27",
+      "November 9",
+      "November 23",
+      "December 31",
+      "Diljit Dosanjh",
+      "NICE Grounds"
+    ],
+    "entities": {
+      "people": [
+        "Diljit Dosanjh",
+        "Tanmayi Savadi"
+      ],
+      "titles": []
+    },
+    "keywords": [
+      "Diljit Dosanjh Bengaluru Concert",
+      "Diljit Dosanjh FIR threat",
+      "Diljit Dosanjh Mumbai concert",
+      "Bengaluru concert IED threat"
+    ],
+    "images": [
+      {
+        "url": "https://images.timesnownews.com/thumb/msid-156560531,thumbsize-247933,width-1280,height-720,resizemode-75/156560531.jpg",
+        "caption": "FIR Registered in Bengaluru Over IED Blast Threat Targeting Diljit Dosanjh Concert",
+        "source": "Times Now — Entertainment"
+      }
+    ],
+    "published": "2026-11-25T01:00:06Z"
+  },
+  "1i4olf3": {
+    "id": "1i4olf3",
+    "type": "news",
+    "headline": "Golden Globes Eligibility List Reveals Genre Shifts for Major Blockbusters",
+    "dek": "The official reminder lists for the 84th Golden Globes highlight surprising campaign strategies, including a comedy placement for a billion-dollar superhero feature and notable box office omissions.",
+    "body": [
+      {
+        "h": "The Unveiling of the 84th Golden Globe Ballots",
+        "p": [
+          "The official motion picture eligibility documents for the 84th Golden Globes have surfaced, providing a comprehensive look at the submissions put forward by major studios. These reminder lists outline every motion picture competing across multiple categories, alongside the specific talent submitted for acting, directing, writing, and composing recognition.",
+          "A total of 88 titles appear in the best motion picture drama division, while 43 features target the musical or comedy race. Additional tallies include 24 animated features, 42 non-English language films, 100 original scores, 51 original songs, and a specialized field of 20 contenders vying for cinematic and box office achievement."
+        ]
+      },
+      {
+        "h": "Superhero and Blockbuster Genre Surprises",
+        "p": [
+          "Studios have made calculated campaign decisions regarding genre placements this season, most notably seen with high-profile releases leaning into unexpected categories. Sony positioned its massive global blockbuster Spider-Man: Brand New Day on the comedy side, putting Tom Holland forward in the lead actor race while placing the rest of the star-studded ensemble in supporting categories.",
+          "Other blockbusters joined the musical or comedy lane, including Jumanji: Open World under the studio's banner. Meanwhile, Netflix entered The Further Mis-Adventures of Cliff Booth into both the comedy race and the box office achievement category, with Brad Pitt securing a lead actor placement under David Fincher's direction from a Quentin Tarantino script."
+        ]
+      },
+      {
+        "h": "Box Office Achievement Field and Notable Omissions",
+        "p": [
+          "The cinematic and box office achievement category features 20 specific entries designed to recognize commercial giants that surpass $150 million globally with significant domestic earnings, or achieve recognized digital streaming metrics. Warner Bros. opted out of this race for Denis Villeneuve's upcoming sci-fi epic Dune: Part Three, choosing instead to place the feature in best motion picture drama and original score while keeping its cast eligible for acting categories.",
+          "Although rules permit the use of projected grosses, Dune: Part Three bypassed the commercial category just as its predecessor did during its theatrical run. Conversely, Netflix secured a spot on the box office list for Cliff Booth ahead of its limited theatrical window and subsequent streaming debut."
+        ]
+      },
+      {
+        "h": "Animation Crosses Over Into Major Categories",
+        "p": [
+          "Animated features are breaking traditional boundaries this year, with nearly a third of the 24 animated submissions also securing placement in standard best picture categories. Netflix backed Brad Bird's Ray Gunn for a surprise drama entry, alongside Leah Nelson's Tangles, Laika's Wildwood directed by Travis Knight, and Sony Pictures Classics' international contender Iron Boy.",
+          "Other animated titles pursued the comedy track, such as DreamWorks Animation's Forgotten Island, Illumination's Minions Monsters, and The Super Mario Galaxy Movie. Meanwhile, Pixar's billion-dollar sequel Toy Story 5 bypassed the comedy race entirely, focusing its campaign on animated feature, box office achievement, score, and original song categories."
+        ]
+      },
+      {
+        "h": "Performers Competing Against Themselves",
+        "p": [
+          "An unusual number of prominent actors find themselves competing against their own work across multiple categories and genres. Zendaya leads this trend with four active titles, appearing in both drama and comedy lead actress races through Dune: Part Three and The Drama, alongside supporting bids for The Odyssey and Spider-Man: Brand New Day.",
+          "Robert Pattinson matches that four-title count with roles in Primetime and The Drama, alongside supporting nods in Dune: Part Three and The Odyssey. Other notable actors juggling multiple submissions include Sandra Hüller, Anne Hathaway, Penélope Cruz, and Olivia Wilde, who also secured recognition in the directing field for The Invite."
+        ]
+      },
+      {
+        "h": "Directing Representation and Key Dates",
+        "p": [
+          "The reminder list features 131 directors overall, with women accounting for approximately 18% of that total across drama, comedy, international film, and animation categories. Notable filmmakers represented include Emerald Fennell, Siân Heder, Kelly O’Sullivan, Beth de Araújo, and Georgia Oakley.",
+          "The upcoming timeline for the ceremony indicates that ballots are due by December 4, followed by the official nominations announcement on December 7. Nikki Glaser is scheduled to host the live ceremony on January 10 from the Beverly Hilton, broadcast on CBS and streaming on Paramount+."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "The 84th Golden Globes eligibility lists have been revealed, highlighting unique campaign choices such as Spider-Man: Brand New Day competing in the comedy category and Dune: Part Three skipping the box office achievement race. Numerous high-profile actors are found competing against their own performances across multiple genres as studios finalize their submissions ahead of the upcoming ceremony."
+        ]
+      }
+    ],
+    "facts": [
+      "The 84th Golden Globes motion picture eligibility list includes 88 titles for best motion picture (drama) and 43 for best motion picture (musical or comedy).",
+      "Spider-Man: Brand New Day has grossed more than $2 billion worldwide and filed on the comedy side.",
+      "The cinematic and box office achievement category has 20 entries.",
+      "Dune: Part Three opens on December 18.",
+      "Ballots are due on December 4, and nominations will be announced on December 7.",
+      "Nikki Glaser hosts the ceremony on January 10 from the Beverly Hilton on CBS and Paramount+."
+    ],
+    "entities": {
+      "people": [
+        "Clayton Davis",
+        "Tom Holland",
+        "Zendaya",
+        "Florence Pugh",
+        "Mark Ruffalo",
+        "Sadie Sink",
+        "Marisa Tomei",
+        "Jon Bernthal",
+        "Tramell Tillman",
+        "Dwayne Johnson",
+        "Jack Black",
+        "Kevin Hart",
+        "Karen Gillan",
+        "David Fincher",
+        "Quentin Tarantino",
+        "Brad Pitt",
+        "Denis Villeneuve",
+        "Timothée Chalamet",
+        "Brad Bird",
+        "Leah Nelson",
+        "Travis Knight",
+        "Randy Newman",
+        "Taylor Swift",
+        "Kei Oikawa",
+        "Robert Pattinson",
+        "Sandra Hüller",
+        "Anne Hathaway",
+        "Penélope Cruz",
+        "Olivia Wilde",
+        "Andrew Garfield",
+        "Javier Bardem",
+        "Stephen Graham",
+        "Willem Dafoe",
+        "Caitríona Balfe",
+        "Emerald Fennell",
+        "Siân Heder",
+        "Kelly O’Sullivan",
+        "Alex Thompson",
+        "Beth de Araújo",
+        "Georgia Oakley",
+        "Jennifer Peedom",
+        "Rachel Morrison",
+        "Aleshea Harris",
+        "Jane Schoenbrun",
+        "Hayley Kiyoko",
+        "Alicia MacDonald",
+        "Eleanor Wilson",
+        "Alex Huston Fischer",
+        "Ildikó Enyedi",
+        "Marie Kreutzer",
+        "May el-Toukhy",
+        "Marine Atlan",
+        "Myrsini Aristidou",
+        "Sandra Wollner",
+        "Fawn Veerasunthorn",
+        "Jason Hand",
+        "Alyce Tzue",
+        "John Ripa",
+        "Phuong Mai Nguyen",
+        "Nikki Glaser",
+        "Virginie Efira",
+        "Tao Okamoto",
+        "Ryusuke Hamaguchi",
+        "Ben Affleck",
+        "Ray Fisher",
+        "Christopher Woodley",
+        "Luis Gerardo Méndez",
+        "Steven Yeun",
+        "Gillian Anderson",
+        "Adriana Paz",
+        "Kerry Washington",
+        "Connor O. McIntyre",
+        "Billy Ray",
+        "Boyd Holbrook",
+        "Hiam Abbass",
+        "Chiwetel Ejiofor",
+        "Mark Duplass",
+        "Finn Bennett",
+        "Renate Reinsve",
+        "Lukita Maxwell",
+        "Will Soodik",
+        "Edo Van Breemen",
+        "Kane Parsons",
+        "Son Sukku",
+        "Moon Choi",
+        "Pedro Pascal",
+        "Will Arnett",
+        "Eva Victor",
+        "Alexa Swinton",
+        "Kaya Ralls",
+        "Tony Gilroy",
+        "Ruth Madeley",
+        "Jon Beavers",
+        "Antwan Tolliver",
+        "Andrew Pilkington",
+        "Michael Patrick Thornton",
+        "Russell Harvard",
+        "Daniel Durant",
+        "Charlie Rush-Reese",
+        "Rio Finnegan",
+        "D’Arcee Charington Neal",
+        "Will Brill",
+        "Rob Delaney",
+        "Matthew August Jeffers",
+        "Stephen Adly Guirgis",
+        "Dylan O’Brien",
+        "Madeline Delp",
+        "Roberta Colindrez",
+        "Siena Rafter",
+        "Rein Barcel",
+        "Rebekah Taussig",
+        "Francesco Le Metre",
+        "Paul Dano",
+        "Florian Zeller"
+      ],
+      "titles": [
+        "Spider-Man: Brand New Day",
+        "Dune 3",
+        "Avengers: Doomsday",
+        "Glee",
+        "Jumanji: Open World",
+        "The Further Mis-Adventures of Cliff Booth",
+        "Dune: Part Three",
+        "Dune: Part Two",
+        "Backrooms",
+        "The Devil Wears Prada 2",
+        "Disclosure Day",
+        "Focker In-Law",
+        "GOAT",
+        "Godzilla Minus Zero",
+        "Hoppers",
+        "The Hunger Games: Sunrise on the Reaping",
+        "Michael",
+        "Minions Monsters",
+        "Moana",
+        "Obsession",
+        "The Odyssey",
+        "Star Wars: The Mandalorian and Grogu",
+        "The Super Mario Galaxy Movie",
+        "Toy Story 5",
+        "You Can See Everything",
+        "Ray Gunn",
+        "Tangles",
+        "Wildwood",
+        "Iron Boy",
+        "Forgotten Island",
+        "Chiikawa the Movie: The Secret of the Mermaid Island",
+        "The Drama",
+        "Primetime",
+        "Rose",
+        "Fatherland",
+        "Digger",
+        "Project Hail Mary",
+        "Verity",
+        "Bunker",
+        "La Bola Negra",
+        "The Invite",
+        "I Want Your Sex",
+        "Behemoth!",
+        "Heart of the Beast",
+        "The Uprising",
+        "Artificial",
+        "Wuthering Heights",
+        "Being Heumann",
+        "Mouse",
+        "Josephine",
+        "Sense and Sensibility",
+        "Tenzing",
+        "Love of Your Life",
+        "Is God Is",
+        "Teenage Sex and Death at Camp Miasma",
+        "Girls Like Girls",
+        "Finding Emily",
+        "Wicker",
+        "Silent Friend",
+        "Gentle Monster",
+        "Woman Unknown",
+        "La Gradiva",
+        "Hold Onto Me",
+        "Everytime",
+        "Hexed",
+        "Steps",
+        "In Waves",
+        "All of a Sudden",
+        "Animals",
+        "Atonement",
+        "Bedford Park",
+        "Bitter Christmas"
+      ]
+    },
+    "keywords": [
+      "Golden Globes Spider-Man Brand New Day",
+      "Dune Part Three Golden Globes",
+      "Golden Globes eligibility list",
+      "Spider-Man Brand New Day comedy"
+    ],
+    "images": [
+      {
+        "url": "https://variety.com/wp-content/uploads/2026/11/split-image-1000-3-2.jpg?crop=0px%2C22px%2C1000px%2C562px&#038;resize=1000%2C563",
+        "caption": "Golden Globes Eligibility List Reveals Genre Shifts for Major Blockbusters",
+        "source": "Variety"
+      }
+    ],
+    "published": "Tue, 24 Nov 2026 23:31:30 +0000"
+  },
+  "exvjiv": {
+    "id": "exvjiv",
+    "type": "news",
+    "headline": "Disney+ Integrates Movie Ticketing Feature Starting With Avengers Doomsday",
+    "dek": "Disney+ has rolled out a brand-new ticketing feature in the United States, allowing subscribers to purchase passes directly through the application alongside the release of the final trailer.",
+    "body": [
+      {
+        "h": "A New Integration for Disney Plus",
+        "p": [
+          "The streaming platform has officially launched a ticketing integration within the United States. Subscribers can now secure their seats for upcoming theatrical releases directly through the Disney+ app.",
+          "The rollout coincides with the debut of the final trailer, streamlining the process for fans eager to transition from watching catalog titles on their screens to booking seats in a cinema."
+        ]
+      },
+      {
+        "h": "How the Ticketing System Works",
+        "p": [
+          "The feature is accessible to both standalone subscribers and those utilizing bundled subscription options. Viewers watching trailers on television displays can easily complete transactions by scanning an on-screen QR code or triggering a direct mobile notification.",
+          "Additionally, a dedicated tickets tab has been added to the main pages of relevant Marvel titles, making the purchase pathway simple and intuitive for users navigating the platform."
+        ]
+      },
+      {
+        "h": "Streaming and Theatrical Synergy",
+        "p": [
+          "While Disney+ primarily serves as a digital library housing a vast portion of the Marvel Cinematic Universe, it frequently acts as a promotional vehicle for upcoming theatrical events. The platform recently experienced a surge in viewership, with subscribers consuming over 420 million hours of Marvel content during August alone.",
+          "This high level of engagement forms a strategic bridge toward theatrical distribution. By placing ticket-buying capabilities directly inside the streaming environment, the company aims to convert at-home viewers into cinemagoers with minimal friction."
+        ]
+      },
+      {
+        "h": "Context and Lead-Up Releases",
+        "p": [
+          "Audiences preparing for the upcoming December theatrical release have various ways to catch up on franchise history. Fans revisiting previous installments can stream features like Avengers Endgame Encore, which returned to cinemas in September before arriving on the service.",
+          "This interconnected ecosystem encourages enthusiasts to revisit past confrontations against formidable villains like Thanos, portrayed by Josh Brolin, before witnessing the heroes face new antagonists such as Doctor Doom, played by Robert Downey Jr."
+        ]
+      },
+      {
+        "h": "Partnership With Fandango",
+        "p": [
+          "The infrastructure behind the direct purchase option is powered by Fandango, which handles the secure handling and processing of actual ticket sales.",
+          "By teaming up with an established ticketing provider, the platform ensures that users experience a smooth checkout process without needing to switch between multiple independent applications."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Disney+ has launched a new movie ticketing feature in the United States to let subscribers purchase passes for Avengers Doomsday directly through the app. Introduced alongside the final trailer on November 23, the tool utilizes Fandango for purchases and provides QR codes and dedicated tabs for easy access."
+        ]
+      }
+    ],
+    "facts": [
+      "Disney+ introduced a movie ticketing feature in the United States on November 23, 2026.",
+      "Subscribers spent more than 420 million hours watching Marvel content in August.",
+      "Fandango handles the actual ticket purchases for the new feature.",
+      "Avengers Endgame Encore returned to theaters in September."
+    ],
+    "entities": {
+      "people": [
+        "Josh Brolin",
+        "Robert Downey Jr."
+      ],
+      "titles": [
+        "Avengers: Doomsday",
+        "Avengers: Endgame Encore"
+      ]
+    },
+    "keywords": [
+      "Avengers Doomsday",
+      "Disney Plus ticketing feature",
+      "Marvel Disney Plus",
+      "Robert Downey Jr Doctor Doom"
+    ],
+    "images": [
+      {
+        "url": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/07/doomsday-9.jpg?w=1600&amp;h=900&amp;fit=crop",
+        "caption": "Disney+ Integrates Movie Ticketing Feature Starting With Avengers Doomsday",
+        "source": "Collider"
+      }
+    ],
+    "published": "Wed, 25 Nov 2026 00:00:12 GMT"
+  },
+  "qw716m": {
+    "id": "qw716m",
+    "type": "news",
+    "headline": "Miss Universe 2026 Crowns New Queen with 3000 Diamond Tiara in Puerto Rico",
+    "dek": "Nineteen-year-old Kaziah Liz Mejo represents India alongside 115 other contestants at the diamond-studded 75th Miss Universe pageant in San Juan.",
+    "body": [
+      {
+        "h": "The Diamond Crown and Milestone Anniversary",
+        "p": [
+          "The international pageant community turns its attention to a remarkable milestone as the organization celebrates its seventy-fifth anniversary. At the heart of the excitement is a magnificent new tiara decorated with over three thousand diamonds, waiting to find its rightful owner. This dazzling prize symbolizes the pinnacle of achievement within global pageantry, drawing intense media scrutiny and fan enthusiasm alike.",
+          "Organizers have designed this milestone edition to be particularly memorable, incorporating unique elements into the traditional presentation. The reigning titleholder from the previous year prepares to hand over her duties to her successor on a stage set up to highlight global unity, glamour, and cultural diversity."
+        ]
+      },
+      {
+        "h": "Global Contestants Gather in Puerto Rico",
+        "p": [
+          "Delegates representing one hundred and sixteen nations and territories have traveled to the Caribbean to participate in the multi-week event. The grand finale takes place at the Jose Miguel Agrelot Coliseum located in San Juan, Puerto Rico. Contestants from Albania to Venezuela have spent weeks preparing for the ultimate showdown, engaging in preliminary rounds and cultural showcases.",
+          "The competition features a diverse group of aspiring leaders, entrepreneurs, and advocates, each showcasing her unique cultural background. From traditional national costumes to modern evening wear, the participants aim to impress the selection committee with their poise, eloquence, and personal platforms."
+        ]
+      },
+      {
+        "h": "India Representative Kaziah Liz Mejo",
+        "p": [
+          "Indian audiences watch closely as nineteen-year-old Kaziah Liz Mejo takes on the responsibility of representing her nation on the international stage. Born in the United Arab Emirates and hailing from Kerala, she secured her spot after winning the national title at a ceremony held in Jaipur on August 23, 2026.",
+          "Throughout her preparation and preliminary appearances, Mejo has emphasized her roots by incorporating traditional Keralite aesthetics into her wardrobe. Her cultural showcases have drawn considerable praise, elevating regional heritage onto a worldwide platform as she competes against one hundred and fifteen other hopefuls."
+        ]
+      },
+      {
+        "h": "Schedule and Broadcast Details for Fans",
+        "p": [
+          "Viewers around the world have tracked the countdown carefully to ensure they do not miss the live broadcast of the grand finale. The event officially begins at eight o'clock in the evening Eastern Time on November 24, 2026.",
+          "For supporters watching from India, the time zone difference places the broadcast at six-thirty in the morning on November 25, 2026. Dedicated television and digital streams allow fans to follow every moment of the competition as it unfolds live from the venue."
+        ]
+      },
+      {
+        "h": "Controversies and Pre-Pageant Challenges",
+        "p": [
+          "As with many large-scale international gatherings, this year's edition has faced its share of discussion and debate among commentators and public figures. Certain delegates chose to withdraw from the competition ahead of the final events, while others generated public dialogue regarding wardrobe choices and cross-national camaraderie.",
+          "Despite these varied discussions, the primary focus remains fixed on the contestants and their shared goal of empowerment. The community of delegates has used the platform to highlight personal stories, regional diplomacy, and mutual support."
+        ]
+      },
+      {
+        "h": "Legacy of the Seventy-Fifth Edition",
+        "p": [
+          "Marking seventy-five years of history, this iteration of the pageant underscores the evolution of beauty competitions into platforms for social advocacy and global communication. The winner will inherit a legacy established by decades of inspiring women who used their titles to drive charitable initiatives worldwide.",
+          "As the final moments approach, the anticipation surrounding the new titleholder reaches its peak. Whichever delegate claims the three-thousand-diamond headpiece will instantly step into a global spotlight, carrying forward the responsibilities of the international organization."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "The 75th Miss Universe pageant takes place in San Juan, Puerto Rico, featuring 116 contestants vying for a crown adorned with over 3,000 diamonds. Nineteen-year-old Kaziah Liz Mejo represents India following her victory at the national competition in Jaipur on August 23, 2026. The grand finale is scheduled for November 24 at 8 PM Eastern Time, translating to the morning of November 25 for viewers in India."
+        ]
+      }
+    ],
+    "facts": [
+      "116 countries and territories are participating in Miss Universe 2026",
+      "The 75th edition of Miss Universe is held at the Jose Miguel Agrelot Coliseum in San Juan, Puerto Rico",
+      "The crown features over 3,000 diamonds",
+      "Kaziah Liz Mejo is 19 years old and represents India",
+      "Kaziah Liz Mejo won the Miss Universe India title in Jaipur on August 23, 2026",
+      "The grand finale takes place on November 24 at 8 PM Eastern Time, and November 25 at 6:30 AM in Indian Standard Time"
+    ],
+    "entities": {
+      "people": [
+        "Kaziah Liz Mejo",
+        "Fatima Bosch",
+        "Misbah Arshad"
+      ],
+      "titles": [
+        "Miss Universe 2026",
+        "Miss Universe India"
+      ]
+    },
+    "keywords": [
+      "Miss Universe 2026",
+      "Kaziah Liz Mejo",
+      "Miss Universe India winner",
+      "Miss Universe 2026 contestants list"
+    ],
+    "images": [
+      {
+        "url": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202611/6b0562426362a-when-and-where-to-watch-miss-universe-2026-24090595-16x9.jpg",
+        "caption": "Miss Universe 2026 Crowns New Queen with 3000 Diamond Tiara in Puerto Rico",
+        "source": "Aaj Tak — Entertainment"
+      }
+    ],
+    "published": "2026-11-25T01:00:06Z"
   }
 };
