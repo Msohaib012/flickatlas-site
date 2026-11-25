@@ -126942,6 +126942,12 @@ window.FA_ARTICLES = {
         "p": [
           "Dastoor is a heartfelt family drama filled with love, sacrifice, family conflicts, secrets, and emotional twists. Follow the journey of a mother and her daughters as they face difficult choices, broken relationships, and unexpected turns of fate a story of love, pain, forgiveness, and second chances."
         ]
+      },
+      {
+        "h": "Episode Summary",
+        "p": [
+          "Dastoor episode 83 mein, Inspector Shiza ko batata hai ke Ammara ke accident ke waqt ki CCTV footage cctv se ghayeeb hai, jis se qatl"
+        ]
       }
     ],
     "facts": [
@@ -126949,7 +126955,8 @@ window.FA_ARTICLES = {
       "Channel: Green TV.",
       "Watch the full episode: https://www.youtube.com/watch?v=hm61fXMKCIo",
       "YouTube views: 46,928.",
-      "TMDB: Dastoor (id 329481)."
+      "TMDB: Dastoor (id 329481).",
+      "Episode summary added 2026-11-25."
     ],
     "entities": {
       "titles": [
@@ -147311,6 +147318,12 @@ window.FA_ARTICLES = {
         "p": [
           "Set before 1940s, a Hindustani family that was divided mercilessly before the partition of Pakistan by the unfortunate time incidents."
         ]
+      },
+      {
+        "h": "Episode Summary",
+        "p": [
+          "Is episode mein Chammi Aalia ko Jamil ke saath apne maazi ke baare mein batati hai aur ro padti hai. Isi dauran Dadi ki tabiyat zyada kharab ho jaati hai aur woh wafaat pa jaati hain. Dadi ke inteqal par poora ghar gham mein doob jaata hai aur Chammi bohot roti hai, jise Jamil sambhalte hue tassalli deta hai. Janaza uthte waqt Kareeman Bua Mazhar ko Dadi ki laash ko haath lagane se rokti hai. Baad mein, Jamil apni maa se Aalia se shaadi karne ki khwahish zahir karta hai aur Aalia ke liye Eid ke kapde lata hai. Doosri taraf, Chammi ko uske abba se sirf paanch rupay ka money order milta hai, jis par woh gusse mein use phad deti hai. Raat ko Jamil rooftop par Aalia se apni mohabbat ka izhaar karta hai, lekin Aalia use saaf inkar kar deti hai aur Chammi ka hawala dete hue kehti hai ke woh Tehmina Apa nahi banegi. Aalia Chammi ko samjhane ki koshish karti hai, lekin Chammi gusse mein uski baat sunne se inkar kar deti hai."
+        ]
       }
     ],
     "facts": [
@@ -147318,7 +147331,8 @@ window.FA_ARTICLES = {
       "Channel: HUM TV.",
       "Watch the full episode: https://www.youtube.com/watch?v=B2rcGDRGwz4",
       "YouTube views: 53,428.",
-      "TMDB: Aangan (id 90172)."
+      "TMDB: Aangan (id 90172).",
+      "Episode summary added 2026-11-25."
     ],
     "entities": {
       "titles": [
@@ -211355,6 +211369,12 @@ window.FA_ARTICLES = {
         "p": [
           "Dastoor is a heartfelt family drama filled with love, sacrifice, family conflicts, secrets, and emotional twists. Follow the journey of a mother and her daughters as they face difficult choices, broken relationships, and unexpected turns of fate a story of love, pain, forgiveness, and second chances."
         ]
+      },
+      {
+        "h": "Episode Summary",
+        "p": [
+          "Is episode mein Aalyan, Aleena ki call par uski baatein sunne se inkaar karta hai aur bolta hai ke woh usse nafrat karta"
+        ]
       }
     ],
     "facts": [
@@ -211362,7 +211382,8 @@ window.FA_ARTICLES = {
       "Channel: Green TV.",
       "Watch the full episode: https://www.youtube.com/watch?v=uO563OZjPvo",
       "YouTube views: 57,229.",
-      "TMDB: Dastoor (id 329481)."
+      "TMDB: Dastoor (id 329481).",
+      "Episode summary added 2026-11-25."
     ],
     "entities": {
       "titles": [
@@ -231105,13 +231126,20 @@ window.FA_ARTICLES = {
           "Mera Ghar Episode 7 aired on 2026-11-23 on ARY Digital. The full episode is available on the channel's official YouTube page.",
           "Watch the full episode here: https://www.youtube.com/watch?v=2orcy_4wahU"
         ]
+      },
+      {
+        "h": "Episode Summary",
+        "p": [
+          "Is episode mein Mariam aur uski khala ke darmeyan aulaad na hone aur Junaid ke ilaj se inkaar par baat hoti hai,"
+        ]
       }
     ],
     "facts": [
       "Mera Ghar Episode 7 aired on 2026-11-23.",
       "Channel: ARY Digital.",
       "Watch the full episode: https://www.youtube.com/watch?v=2orcy_4wahU",
-      "YouTube views: 56,262."
+      "YouTube views: 56,262.",
+      "Episode summary added 2026-11-25."
     ],
     "entities": {
       "titles": [
@@ -247500,5 +247528,191 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Wed, 25 Nov 2026 13:47:32 GMT"
+  },
+  "1abh48n": {
+    "id": "1abh48n",
+    "type": "news",
+    "headline": "Khushi Episode 74 — Watch Online on HUM TV",
+    "dek": "Khushi episode 74 aired on 2026-11-25 — watch the full episode on HUM TV.",
+    "body": [
+      {
+        "h": "Episode Details",
+        "p": [
+          "Khushi Episode 74 aired on 2026-11-25 on HUM TV. The full episode is available on the channel's official YouTube page.",
+          "Watch the full episode here: https://www.youtube.com/watch?v=jykbXOeCrG8"
+        ]
+      },
+      {
+        "h": "Episode Summary",
+        "p": [
+          "Saim Khushi ko dilaasa deta hai aur samjhata hai ke Hamna ki hasad ne sab rishtey tabaah kar diye hain. Ghar pahunch kar S"
+        ]
+      }
+    ],
+    "facts": [
+      "Khushi Episode 74 aired on 2026-11-25.",
+      "Channel: HUM TV.",
+      "Watch the full episode: https://www.youtube.com/watch?v=jykbXOeCrG8",
+      "YouTube views: 337,804.",
+      "Episode summary added 2026-11-25."
+    ],
+    "entities": {
+      "titles": [
+        "Khushi"
+      ],
+      "people": []
+    },
+    "images": [
+      {
+        "url": "https://i.ytimg.com/vi/jykbXOeCrG8/hqdefault.jpg",
+        "caption": "Khushi Episode 74",
+        "source": "HUM TV"
+      }
+    ],
+    "published": "2026-11-25T15:00:18Z"
+  },
+  "13xywov": {
+    "id": "13xywov",
+    "type": "news",
+    "headline": "Mera Ghar Episode 9 — Watch Online on ARY Digital",
+    "dek": "Mera Ghar episode 9 aired on 2026-11-25 — watch the full episode on ARY Digital.",
+    "body": [
+      {
+        "h": "Episode Details",
+        "p": [
+          "Mera Ghar Episode 9 aired on 2026-11-25 on ARY Digital. The full episode is available on the channel's official YouTube page.",
+          "Watch the full episode here: https://www.youtube.com/watch?v=XqWpk0uuTm4"
+        ]
+      },
+      {
+        "h": "About Mera Ghar",
+        "p": [
+          "Mera Ghar is a family drama centered on Sherry, the youngest member of a household, who is raised by his elder sister Farkhanda after their mother's death. Having devoted her life to him."
+        ]
+      }
+    ],
+    "facts": [
+      "Mera Ghar Episode 9 aired on 2026-11-25.",
+      "Channel: ARY Digital.",
+      "Watch the full episode: https://www.youtube.com/watch?v=XqWpk0uuTm4",
+      "YouTube views: 28,159.",
+      "TMDB: Mera Ghar (id 340808)."
+    ],
+    "entities": {
+      "titles": [
+        "Mera Ghar"
+      ],
+      "people": [
+        "Zubab Rana",
+        "Shehroz Sabzwari",
+        "Behroze Sabzwari",
+        "Uzma Hassan",
+        "Diya Mughal"
+      ]
+    },
+    "images": [
+      {
+        "url": "https://i.ytimg.com/vi/XqWpk0uuTm4/hqdefault.jpg",
+        "caption": "Mera Ghar Episode 9",
+        "source": "ARY Digital"
+      }
+    ],
+    "published": "2026-11-25T15:00:10Z"
+  },
+  "14odv7g": {
+    "id": "14odv7g",
+    "type": "news",
+    "headline": "Akshay Kumar Addresses Backlash Over Multiple Films and Work Ethic on Koffee With Karan Season 9",
+    "dek": "During his appearance on Karan Johar's chat show alongside Ravi Kishan, veteran actor Akshay Kumar opened up about his prolific film schedule, past box office failures, and the strict eight-hour routine that often invites public scrutiny.",
+    "body": [
+      {
+        "h": "Appearance on Koffee With Karan Season 9",
+        "p": [
+          "Akshay Kumar recently made an appearance on Karan Johar's popular chat show, Koffee With Karan Season 9. The actor was joined by fellow actor Ravi Kishan for the episode.",
+          "The latest installment of the streaming series premiered on JioHotstar on November 24 at 7 pm, quickly drawing attention for its candid conversations about the Hindi film industry."
+        ]
+      },
+      {
+        "h": "Addressing Multiple Film Projects",
+        "p": [
+          "A major point of discussion during the episode centered around why Akshay continues to sign and shoot multiple movies every single year despite occasional box office setbacks.",
+          "Reflecting on his career spanning more than 36 years, the veteran star noted that box office success cannot always be predicted by the sheer amount of effort poured into a project."
+        ]
+      },
+      {
+        "h": "Reflecting on Karma and Past Flops",
+        "p": [
+          "Speaking about the unpredictable nature of cinema, Akshay questioned whether anyone truly understands karma, pointing out that some of his hardest-working projects failed while ordinary films surprisingly succeeded.",
+          "He also looked back at a challenging phase in his career when he experienced a streak of 15 to 18 consecutive flops while still continuing to receive steady offers from filmmakers."
+        ]
+      },
+      {
+        "h": "Loyalty to Producers",
+        "p": [
+          "Throughout the chat show discussion, the actor emphasized his deep gratitude for the trust filmmakers placed in him even during his difficult box office phases.",
+          "Describing himself firmly as a producer's man, Akshay stressed that he always strives to ensure the people funding his movies remain completely satisfied with his dedication and commitment."
+        ]
+      },
+      {
+        "h": "Defending the Eight-Hour Work Schedule",
+        "p": [
+          "The conversation eventually turned toward public criticism regarding his disciplined eight-hour shooting routine, which many industry watchers and fans frequently debate.",
+          "Akshay pushed back against the detractors by pointing out that critics overlook how efficiently he utilizes those hours, noting that he avoids retreating to his vanity van during the entire shift."
+        ]
+      },
+      {
+        "h": "Balancing Work and Personal Life",
+        "p": [
+          "Defending his regular professional rhythm, the seasoned actor explained that actors require a proper balance of rest, physical fitness, and quality family time to remain ready for the camera.",
+          "When questioned about his heavy workload, he responded rhetorically by asking what else he would do if he stopped working on multiple projects."
+        ]
+      },
+      {
+        "h": "Lighthearted Moments and Fashion",
+        "p": [
+          "Aside from the serious career retrospectives, the episode featured several lighter moments, including Akshay and Ravi Kishan attempting voice acting together and recreating a viral dance hookstep.",
+          "Additionally, Akshay caught the attention of fashion enthusiasts with a distinctive brown-toned outfit styled by Ami Patel, which departed from the traditional blazer look typically seen on chat shows."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Akshay Kumar addressed criticism regarding his prolific movie schedule and eight-hour work routine during his appearance on Koffee With Karan Season 9 alongside Ravi Kishan. Reflecting on his decades-long career, past flops, and dedication to producers, the actor defended his steady workflow and daily professional habits.",
+          "The episode, which premiered on JioHotstar on November 24, also included lighthearted banter, dance recreations, and a unique brown-toned wardrobe choice."
+        ]
+      }
+    ],
+    "facts": [
+      "Akshay Kumar appeared on Koffee With Karan Season 9 with Ravi Kishan.",
+      "The episode premiered on JioHotstar on November 24 at 7 pm.",
+      "Akshay has worked for over 36 years in the Hindi film industry.",
+      "He previously experienced a phase of 15 to 18 flops.",
+      "His outfit for the show was a brown-toned look styled by Ami Patel."
+    ],
+    "entities": {
+      "people": [
+        "Akshay Kumar",
+        "Ravi Kishan",
+        "Karan Johar",
+        "Ami Patel"
+      ],
+      "titles": [
+        "Koffee With Karan Season 9"
+      ]
+    },
+    "keywords": [
+      "Akshay Kumar Koffee With Karan Season 9",
+      "Akshay Kumar multiple films",
+      "Koffee With Karan Season 9 JioHotstar",
+      "Akshay Kumar Ravi Kishan"
+    ],
+    "images": [
+      {
+        "url": "https://images.filmibeat.com/img/2026/11/akshaykwkfeature-70281795623847.jpg",
+        "caption": "Akshay Kumar Addresses Backlash Over Multiple Films and Work Ethic on Koffee With Karan Season 9",
+        "source": "FilmiBeat"
+      }
+    ],
+    "published": "Wed, 25 Nov 2026 21:58:56 +0530"
   }
 };

@@ -38,6 +38,83 @@ window.FA_HOME_ARTICLES = {
     ],
     "published": "Wed, 25 Nov 2026 19:06:47 +0200"
   },
+  "14odv7g": {
+    "id": "14odv7g",
+    "type": "news",
+    "headline": "Akshay Kumar Addresses Backlash Over Multiple Films and Work Ethic on Koffee With Karan Season 9",
+    "dek": "During his appearance on Karan Johar's chat show alongside Ravi Kishan, veteran actor Akshay Kumar opened up about his prolific film schedule, past box office failures, and the strict eight-hour routine that often invites public scrutiny.",
+    "entities": {
+      "people": [
+        "Akshay Kumar",
+        "Ravi Kishan",
+        "Karan Johar",
+        "Ami Patel"
+      ],
+      "titles": [
+        "Koffee With Karan Season 9"
+      ]
+    },
+    "keywords": [
+      "Akshay Kumar Koffee With Karan Season 9",
+      "Akshay Kumar multiple films",
+      "Koffee With Karan Season 9 JioHotstar",
+      "Akshay Kumar Ravi Kishan"
+    ],
+    "images": [
+      {
+        "url": "https://images.filmibeat.com/img/2026/11/akshaykwkfeature-70281795623847.jpg",
+        "caption": "Akshay Kumar Addresses Backlash Over Multiple Films and Work Ethic on Koffee With Karan Season 9",
+        "source": "FilmiBeat"
+      }
+    ],
+    "published": "Wed, 25 Nov 2026 21:58:56 +0530"
+  },
+  "1abh48n": {
+    "id": "1abh48n",
+    "type": "news",
+    "headline": "Khushi Episode 74 — Watch Online on HUM TV",
+    "dek": "Khushi episode 74 aired on 2026-11-25 — watch the full episode on HUM TV.",
+    "entities": {
+      "titles": [
+        "Khushi"
+      ],
+      "people": []
+    },
+    "images": [
+      {
+        "url": "https://i.ytimg.com/vi/jykbXOeCrG8/hqdefault.jpg",
+        "caption": "Khushi Episode 74",
+        "source": "HUM TV"
+      }
+    ],
+    "published": "2026-11-25T15:00:18Z"
+  },
+  "13xywov": {
+    "id": "13xywov",
+    "type": "news",
+    "headline": "Mera Ghar Episode 9 — Watch Online on ARY Digital",
+    "dek": "Mera Ghar episode 9 aired on 2026-11-25 — watch the full episode on ARY Digital.",
+    "entities": {
+      "titles": [
+        "Mera Ghar"
+      ],
+      "people": [
+        "Zubab Rana",
+        "Shehroz Sabzwari",
+        "Behroze Sabzwari",
+        "Uzma Hassan",
+        "Diya Mughal"
+      ]
+    },
+    "images": [
+      {
+        "url": "https://i.ytimg.com/vi/XqWpk0uuTm4/hqdefault.jpg",
+        "caption": "Mera Ghar Episode 9",
+        "source": "ARY Digital"
+      }
+    ],
+    "published": "2026-11-25T15:00:10Z"
+  },
   "1i9dg7w": {
     "id": "1i9dg7w",
     "type": "news",
@@ -4841,125 +4918,6 @@ window.FA_HOME_ARTICLES = {
     ],
     "published": "Tue, 24 Nov 2026 05:29:49 +0000"
   },
-  "m80389": {
-    "id": "m80389",
-    "type": "news",
-    "headline": "Ramayana: Rise of a Legend Surpasses Dhurandhar: The Revenge to Set Global Record",
-    "dek": "The Namit Malhotra-backed epic has shattered international box office records, claiming the title of the highest-grossing Indian film overseas.",
-    "entities": {
-      "people": [
-        "Namit Malhotra",
-        "Nitesh Tiwari"
-      ],
-      "titles": [
-        "Ramayana: Rise of a Legend",
-        "Dhurandhar: The Revenge",
-        "Dhurandhar The Revenge"
-      ]
-    },
-    "keywords": [
-      "Ramayana Rise of a Legend film",
-      "Dhurandhar The Revenge box office",
-      "Namit Malhotra Ramayana",
-      "Nitesh Tiwari Ramayana Rise of a Legend"
-    ],
-    "images": [
-      {
-        "url": "https://static.toiimg.com/thumb/msid-136120229,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "caption": "Ramayana: Rise of a Legend Surpasses Dhurandhar: The Revenge to Set Global Record",
-        "source": "Times of India — Entertainment"
-      }
-    ],
-    "published": "2026-11-24T10:41:25+05:30"
-  },
-  "usg902": {
-    "id": "usg902",
-    "type": "news",
-    "headline": "Taylor Sheridan’s Action Thriller Starring Angelina Jolie and Jon Bernthal Leaves Netflix Soon",
-    "dek": "Fans have until December 1 to stream the 2021 survival film before it departs the platform.",
-    "entities": {
-      "people": [
-        "Jon Bernthal",
-        "Taylor Sheridan",
-        "Victoria Luxford",
-        "Liam Gaughan",
-        "Angelina Jolie",
-        "Finn Little",
-        "Michael Koryta",
-        "Charles Leavitt",
-        "Titus Welliver"
-      ],
-      "titles": [
-        "Those Who Wish Me Dead",
-        "Yellowstone",
-        "Cliffhanger",
-        "The River Wild",
-        "Hell or High Water",
-        "Sicario",
-        "The Walking Dead",
-        "The Punisher",
-        "Baby Driver",
-        "The Odyssey",
-        "Bosch"
-      ]
-    },
-    "keywords": [
-      "Those Who Wish Me Dead",
-      "Jon Bernthal Those Who Wish Me Dead",
-      "Angelina Jolie Taylor Sheridan movie",
-      "Netflix departure December"
-    ],
-    "images": [
-      {
-        "url": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/09/those-who-wish-me-dead.jpg?w=1600&amp;h=900&amp;fit=crop",
-        "caption": "Taylor Sheridan’s Action Thriller Starring Angelina Jolie and Jon Bernthal Leaves Netflix Soon",
-        "source": "Collider"
-      }
-    ],
-    "published": "Tue, 24 Nov 2026 05:05:12 GMT"
-  },
-  "1x93gy3": {
-    "id": "1x93gy3",
-    "type": "news",
-    "headline": "Park Ji Hyun Makes History at the 54th International Emmy Awards",
-    "dek": "Korean star Park Ji Hyun earned a historic nomination for her role in Netflix series You and Everything Else, while fellow nominee Hyper Knife also missed out on a win.",
-    "entities": {
-      "people": [
-        "Park Ji Hyun",
-        "Mona Mina Leon",
-        "Barbara Mori",
-        "Sheridan Smith",
-        "Kim Go Eun",
-        "Park Eun Bin",
-        "Sul Kyung Gu",
-        "Bobby Schofield"
-      ],
-      "titles": [
-        "You and Everything Else",
-        "Holy Sh!t",
-        "Lucca s World",
-        "I Fought the Law",
-        "Hyper Knife",
-        "Prisoner 951",
-        "Careme",
-        "Unforgivable"
-      ]
-    },
-    "keywords": [
-      "Park Ji Hyun International Emmy",
-      "You and Everything Else",
-      "Hyper Knife Disney plus",
-      "Park Eun Bin Sul Kyung Gu"
-    ],
-    "images": [
-      {
-        "url": "https://i.mydramalist.com/bvv1yE_2d.jpg",
-        "caption": "Park Ji Hyun Makes History at the 54th International Emmy Awards",
-        "source": "MyDramaList"
-      }
-    ],
-    "published": "Tue, 24 Nov 2026 04:40:50 +0000"
-  },
   "c4tdqs": {
     "id": "c4tdqs",
     "type": "news",
@@ -5840,51 +5798,5 @@ window.FA_HOME_ARTICLES = {
       }
     ],
     "published": "2026-11-19T15:00:01Z"
-  },
-  "pdxuta": {
-    "id": "pdxuta",
-    "type": "news",
-    "headline": "Dastoor Episode 90 — Watch Online on Green TV",
-    "dek": "Dastoor episode 90 aired on 2026-11-19 — watch the full episode on Green TV.",
-    "entities": {
-      "titles": [
-        "Dastoor"
-      ],
-      "people": [
-        "Hibba Aziz",
-        "Danial Afzal Khan",
-        "Areej Mohyudin",
-        "Faraz Farooqui",
-        "Azra Mohyeddin"
-      ]
-    },
-    "images": [
-      {
-        "url": "https://i.ytimg.com/vi/Kn0ajlAn61g/hqdefault.jpg",
-        "caption": "Dastoor Episode 90",
-        "source": "Green TV"
-      }
-    ],
-    "published": "2026-11-19T14:45:04Z"
-  },
-  "1w900ih": {
-    "id": "1w900ih",
-    "type": "news",
-    "headline": "Bano Episode 35 — Watch Online on Geo TV",
-    "dek": "Bano episode 35 aired on 2026-11-18 — watch the full episode on Geo TV.",
-    "entities": {
-      "titles": [
-        "Bano"
-      ],
-      "people": []
-    },
-    "images": [
-      {
-        "url": "https://i.ytimg.com/vi/6yDMqBUJwfw/hqdefault.jpg",
-        "caption": "Bano Episode 35",
-        "source": "Geo TV"
-      }
-    ],
-    "published": "2026-11-18T17:00:20Z"
   }
 };
