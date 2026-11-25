@@ -244928,5 +244928,401 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Wed, 25 Nov 2026 06:34:13 +0000"
+  },
+  "z3ma6x": {
+    "id": "z3ma6x",
+    "type": "news",
+    "headline": "Avengers Directors and Kevin Feige Recall Patrick Stewart's Emotional Final Set Speech",
+    "dek": "Marvel filmmakers Anthony and Joe Russo alongside Kevin Feige reflect on the touching farewell speech delivered by Patrick Stewart on his final day filming Avengers: Doomsday.",
+    "body": [
+      {
+        "h": "An Emotional Farewell on Set",
+        "p": [
+          "During the final day of principal photography for Avengers: Doomsday, celebrated actor Patrick Stewart delivered a moving address to the cast and crew. While those working alongside him did not know with absolute certainty that it would mark his ultimate appearance on a film set, his words strongly suggested it.",
+          "Marvel Studios president Kevin Feige noted that the legendary actor indicated during his speech that he believed his time filming was coming to a close. The atmosphere on location turned deeply poignant as the team realized the magnitude of the moment."
+        ]
+      },
+      {
+        "h": "Praising a Challenging Performance",
+        "p": [
+          "Directors Anthony and Joe Russo, who previously helmed Avengers: Infinity War and Avengers: Endgame, felt the intense weight of the actor's remarks. Anthony Russo pointed out that Stewart was visibly grappling with health challenges yet remained determined to deliver an exceptional presence for the directors, fellow actors, and crew.",
+          "Pushing past physical difficulties to complete his work on the production left a lasting impression on everyone involved. The dedication he displayed while bringing his iconic persona to life made the collaborative experience profoundly touching for the entire team."
+        ]
+      },
+      {
+        "h": "Reprising Professor Charles Xavier",
+        "p": [
+          "For his appearance in the upcoming Marvel feature, Stewart once again stepped into the role of Professor Charles Xavier. During his address to his colleagues, he emphasized the enduring significance of his character, whose empathy served as an enduring symbol of comfort and security.",
+          "His return brings back a beloved figure from past X-Men films, uniting cinematic universes for audiences eagerly awaiting the picture's theatrical arrival. His performance stands as a final testament to his remarkable on-screen legacy."
+        ]
+      },
+      {
+        "h": "Plans for a Special Tribute",
+        "p": [
+          "Following the completion of photography, leadership at Marvel is actively discussing ways to honor the late actor. Kevin Feige confirmed that plans are underway to formulate a fitting tribute that respects their late friend and collaborator.",
+          "While filming for the project has concluded, the impact of his contribution remains fresh in the minds of the executives and directors. They intend to properly recognize his incredible work and the profound mark he left on the production."
+        ]
+      },
+      {
+        "h": "A Storied Career Across Decades",
+        "p": [
+          "Patrick Stewart passed away at the age of 86 on October 28 at his home in Los Angeles. His extensive career spanned many decades, encompassing work across more than five dozen films and over fifty television appearances.",
+          "From his memorable roles in X-Men and Star Trek to Dune and American Dad, his prolific output cemented his status as a cultural force. His body of work continues to resonate across multiple generations of viewers."
+        ]
+      },
+      {
+        "h": "Anticipation for Avengers: Doomsday",
+        "p": [
+          "The upcoming Marvel Studios project, scheduled to arrive in theaters on December 18, features a massive ensemble cast. Alongside Stewart, Ian McKellen is set to reprise his past role as Magneto from the X-Men franchise.",
+          "The feature will also showcase Robert Downey Jr. portraying Doom following his previous work as Tony Stark/Iron Man. This gathering of talent brings together actors from various corners of the broader cinematic universe."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Kevin Feige and directors Anthony and Joe Russo recalled Patrick Stewart giving an emotional speech on his final day filming Avengers: Doomsday before his passing at age 86. The filmmakers praised his dedication despite health challenges while reprising Professor Charles Xavier, and they are now planning a tribute to honor him."
+        ]
+      }
+    ],
+    "facts": [
+      "Patrick Stewart died at age 86 on Oct. 28 in his Los Angeles home.",
+      "Avengers: Doomsday is set to hit theaters on Dec. 18.",
+      "Kevin Feige is the Marvel Studios president.",
+      "Anthony and Joe Russo directed Avengers: Infinity War and Avengers: Endgame.",
+      "Ian McKellen reprises his role as Magneto in Avengers: Doomsday.",
+      "Robert Downey Jr. portrays Doom in Avengers: Doomsday."
+    ],
+    "entities": {
+      "people": [
+        "Charisma Madarang",
+        "Patrick Stewart",
+        "Rich Fury",
+        "Kevin Feige",
+        "Anthony Russo",
+        "Joe Russo",
+        "Chris Christie",
+        "Cher",
+        "Mary Bono",
+        "Brandi Carlile",
+        "Don Was",
+        "Bobby Weir",
+        "Ian McKellen",
+        "Robert Downey Jr.",
+        "Tony Stark",
+        "Kory Grow",
+        "Jimmy Kimmel",
+        "Jensen Huang",
+        "Emily Zemler",
+        "Amanda Seyfried",
+        "Robert De Niro",
+        "Timothée Chalamet",
+        "Jon Blistein",
+        "Jaeden Pinder",
+        "Cliff Booth",
+        "David Fear",
+        "Thomas Markle",
+        "Bo Derek",
+        "Feliciano",
+        "Jones",
+        "Jane Fonda"
+      ],
+      "titles": [
+        "Avengers: Doomsday",
+        "Infinity War",
+        "Endgame",
+        "X-Men",
+        "Star Trek",
+        "Dune",
+        "American Dad",
+        "Saturday Night Live",
+        "Ted Lasso",
+        "Further Mis-Adventures of Cliff Booth",
+        "Dancing With the Stars",
+        "Gaslit"
+      ]
+    },
+    "keywords": [
+      "Patrick Stewart Avengers Doomsday",
+      "Kevin Feige Patrick Stewart speech",
+      "Anthony and Joe Russo Patrick Stewart",
+      "Avengers Doomsday release date"
+    ],
+    "images": [
+      {
+        "url": "https://www.rollingstone.com/wp-content/uploads/2026/11/patrick-stewart-avengers-last-day-film.jpg?w=1600&#038;h=900&#038;crop=1",
+        "caption": "Avengers Directors and Kevin Feige Recall Patrick Stewart's Emotional Final Set Speech",
+        "source": "Rolling Stone"
+      }
+    ],
+    "published": "2026-11-25T08:53:07Z"
+  },
+  "56f2ck": {
+    "id": "56f2ck",
+    "type": "news",
+    "headline": "Director Aditya Datt Addresses the Heavy Legacy Surrounding Gunmaaster G9 and Emraan Hashmi's Musical History",
+    "dek": "Filmmaker Aditya Datt opens up about reuniting with Emraan Hashmi after twenty years for Gunmaaster G9, navigating expectations, and shifting away from slice-of-life storytelling.",
+    "body": [
+      {
+        "h": "The Long-Awaited Reunion",
+        "p": [
+          "Director Aditya Datt and actor Emraan Hashmi are officially back together professionally for the first time in two decades. Their last cinematic collaboration was the film Dil Diya Hai, and their new action venture Gunmaaster G9 brings them right back into the spotlight. Fans have waited twenty years to see this creative pairing return to the big screen.",
+          "In this latest project, Emraan takes on the demanding role of a secret operative. His character navigates a treacherous underworld filled with dangerous firearms, deep espionage, and heavy personal conflict."
+        ]
+      },
+      {
+        "h": "Scripts That Fell Apart",
+        "p": [
+          "While the reunion feels like destiny today, it nearly happened several times before. According to Aditya Datt, Gunmaaster G9 could easily have been his sixth film with Emraan if previous plans had not collapsed at the final hour.",
+          "After working on Aashiq Banaya Aapne and Dil Diya Hai, the duo attempted to collaborate on multiple occasions. They locked three different scripts and reached the verge of starting production, but unforeseen obstacles always derailed the schedules."
+        ]
+      },
+      {
+        "h": "Navigating Busy Schedules and Diverging Paths",
+        "p": [
+          "During the years apart, both men pursued separate creative directions. Aditya steered his career toward directing intense thrillers like Table No 21 and Commando 3.",
+          "Meanwhile, Emraan maintained a packed professional schedule, often exploring realistic cinema and grounded storytelling. Every time the duo managed to finalize a script, scheduling conflicts or last-minute complications forced them to press pause."
+        ]
+      },
+      {
+        "h": "Shifting to Masala Action",
+        "p": [
+          "A major turning point for Gunmaaster G9 was the decision to move completely away from romantic thrillers. Aditya wanted to reinvent Emraan's screen presence entirely, steering away from ordinary or slice-of-life narratives.",
+          "The director felt strongly about portraying his lead actor as a classic, larger-than-life action hero. Once they both agreed on embracing this high-octane genre, the pieces finally fell smoothly into place."
+        ]
+      },
+      {
+        "h": "Carrying the Aashiq Banaya Aapne Baggage",
+        "p": [
+          "The upcoming film also marks a three-way reunion involving musician Himesh Reshammiya, recreating the core creative team behind the iconic 2005 hit. However, having Himesh on board for the new soundtrack was entirely unplanned and came about through a chance encounter.",
+          "Aditya openly admits that following up on the massive historical success of Aashiq Banaya Aapne brings immense pressure. He cautioned his team to focus on having fun rather than yielding to unrealistic expectations from the audience."
+        ]
+      },
+      {
+        "h": "Fresh Sound Without Rehashing",
+        "p": [
+          "Rather than taking the easy route of rehashing old tracks, the creators deliberately chose to build something completely new. The team dedicated two to three months of careful work to crafting each individual song for the project.",
+          "Their primary goal was capturing the exact spark and freshness of their earlier work without directly copying past melodies. They wanted to evoke the same nostalgic feeling while maintaining distinct originality."
+        ]
+      },
+      {
+        "h": "Cast and Release Details",
+        "p": [
+          "Alongside the lead star, Gunmaaster G9 features prominent performances by Genelia Deshmukh and Aparshakti Khurana in vital supporting roles. Audiences will not have to wait much longer to see the action unfold.",
+          "The film is scheduled for its official theatrical release on November 27, bringing the much-anticipated action spectacle to cinemas nationwide."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Director Aditya Datt discusses the twenty-year gap between his collaborations with Emraan Hashmi and the pressure of following up on Aashiq Banaya Aapne with their upcoming action film Gunmaaster G9. The movie shifts Emraan into a larger-than-life action hero role, reunites the original trio with musician Himesh Reshammiya, and is set to release in theatres on November 27."
+        ]
+      }
+    ],
+    "facts": [
+      "Gunmaaster G9 is directed by Aditya Datt.",
+      "Emraan Hashmi plays a secret operative in Gunmaaster G9.",
+      "Gunmaaster G9 marks a reunion 20 years after Dil Diya Hai.",
+      "Aditya Datt previously directed Commando 3 and Table No 21.",
+      "Himesh Reshammiya is the music director for Gunmaaster G9.",
+      "Genelia Deshmukh and Aparshakti Khurana star in key roles in Gunmaaster G9.",
+      "Gunmaaster G9 is scheduled to release in theatres on November 27."
+    ],
+    "entities": {
+      "people": [
+        "Aditya Datt",
+        "Emraan Hashmi",
+        "Himesh Reshammiya",
+        "Genelia Deshmukh",
+        "Aparshakti Khurana"
+      ],
+      "titles": [
+        "Gunmaaster G9",
+        "Aashiq Banaya Aapne",
+        "Dil Diya Hai",
+        "Commando 3",
+        "Table No 21"
+      ]
+    },
+    "keywords": [
+      "Gunmaaster G9 film",
+      "Aditya Datt director",
+      "Emraan Hashmi Gunmaaster G9",
+      "Aashiq Banaya Aapne baggage"
+    ],
+    "images": [
+      {
+        "url": "https://static.toiimg.com/thumb/msid-136153046,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "caption": "Director Aditya Datt Addresses the Heavy Legacy Surrounding Gunmaaster G9 and Emraan Hashmi's Musical History",
+        "source": "Times of India — Entertainment"
+      }
+    ],
+    "published": "2026-11-25T13:21:49+05:30"
+  },
+  "ltlzf7": {
+    "id": "ltlzf7",
+    "type": "news",
+    "headline": "The Melody of Love Sets Official Premiere Date for Late November",
+    "dek": "The highly anticipated Chinese fantasy drama starring Li Yi Tong and Chen Xin Hai has officially locked in its premiere date.",
+    "body": [
+      {
+        "h": "Premiere Announcement",
+        "p": [
+          "The upcoming Chinese fantasy drama The Melody of Love has officially confirmed its scheduled premiere date for November 29. Fans and followers of the production have eagerly awaited this announcement, which marks the arrival of a major new title in the genre.",
+          "Set against a rich fantasy backdrop, the series promises a unique blend of music, mythology, and romance. The announcement brings immense excitement to audiences tracking the show's development."
+        ]
+      },
+      {
+        "h": "A World of Music Spirits",
+        "p": [
+          "The narrative unfolds in a fictional realm deeply rooted in music spirits, where musicians hailing from the Yushang Kingdom live alongside extraordinary music spirits capable of transforming into musical instruments.",
+          "Tensions define the landscape after rebellious music spirits break away to establish the Siyou Kingdom. For a century, these two nations have remained at odds over an ancient divine musical score known as Feng Hua Lu, or The Record of Splendor."
+        ]
+      },
+      {
+        "h": "Star-Crossed Alliance",
+        "p": [
+          "The story centers on Yue Yang Yang, portrayed by Li Yi Tong, who stands as the strongest musician. Alongside her is Shao Yi, played by Chen Xin Hai, an amnesiac guqin music spirit who has recently escaped a seal.",
+          "Initially starting as sworn enemies, the two characters gradually transition into allies. Their journey requires them to gather the Twelve Sacred Music Spirits while uniting to address ongoing global conflicts."
+        ]
+      },
+      {
+        "h": "Individual Motivations",
+        "p": [
+          "Yue Yang Yang enters the narrative as an ordinary musician driven by the desire to protect her sect. Meanwhile, Shao Yi seeks to recover his lost memories after breaking free from his confinement.",
+          "Driven by these distinct goals, the pair forms a strategic pact. They agree to assist one another through various trials, setting the stage for deep character development and romantic tension."
+        ]
+      },
+      {
+        "h": "Trials and Reconciliation",
+        "p": [
+          "As their collaboration deepens, emotional closeness develops between the protagonists. However, an unexpected misunderstanding eventually creates a wedge in their growing bond.",
+          "Despite these personal hurdles, the greater need to protect the world forces them back together. They confront trials collectively, putting past differences behind them to achieve mutual growth."
+        ]
+      },
+      {
+        "h": "Resolution and Legacy",
+        "p": [
+          "In the dramatic conclusion of their journey, Shao Yi and Yue Yang Yang successfully resolve the intense conflicts sparked by Feng Hua Lu. Their united efforts allow them to compose a fresh musical chapter for all living beings.",
+          "The series draws heavily from traditional fantasy tropes while weaving a distinct musical lore. Its arrival marks a notable entry in modern Chinese fantasy television."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "The Chinese fantasy drama The Melody of Love has announced its premiere date for November 29. The series follows musicians and music spirits navigating a century-old conflict over an ancient divine musical score."
+        ]
+      }
+    ],
+    "facts": [
+      "The Melody of Love premieres on November 29, 2026.",
+      "Li Yi Tong stars as Yue Yang Yang.",
+      "Chen Xin Hai stars as Shao Yi.",
+      "The ancient divine musical score is called Feng Hua Lu (The Record of Splendor)."
+    ],
+    "entities": {
+      "people": [
+        "Li Yi Tong",
+        "Chen Xin Hai",
+        "Lily Alice"
+      ],
+      "titles": [
+        "The Melody of Love",
+        "Feng Hua Lu",
+        "The Record of Splendor"
+      ]
+    },
+    "keywords": [
+      "The Melody of Love",
+      "Li Yi Tong",
+      "Chen Xin Hai",
+      "The Melody of Love premiere date"
+    ],
+    "images": [
+      {
+        "url": "https://i.mydramalist.com/lBB67E_2d.jpg",
+        "caption": "The Melody of Love Sets Official Premiere Date for Late November",
+        "source": "MyDramaList"
+      }
+    ],
+    "published": "Wed, 25 Nov 2026 08:31:52 +0000"
+  },
+  "11llx19": {
+    "id": "11llx19",
+    "type": "news",
+    "headline": "Xiao Zhan Steps Out in Beijing for Small Town Remedy Industry Symposium",
+    "dek": "Lead actor Xiao Zhan joins fellow cast members Ni Da Hong and Jiang Yan in Beijing for an official industry review of the hit medical C-drama Small Town Remedy.",
+    "body": [
+      {
+        "h": "Beijing Symposium Gathers Cast and Industry Officials",
+        "p": [
+          "The cast and creators of the successful medical C-drama Small Town Remedy recently gathered in Beijing for a formal industry symposium. Held on November 25, 2026, the event served as a platform for industry experts, production team members, platform representatives, and officials to review the series.",
+          "Lead actor Xiao Zhan drew considerable attention as he arrived in a sleek black suit. He was joined at the gathering by esteemed co-stars Ni Da Hong and Jiang Yan, with images and updates from the event circulating widely across Weibo."
+        ]
+      },
+      {
+        "h": "Exploring Grassroots Healthcare Through a Realistic Lens",
+        "p": [
+          "Small Town Remedy marks a notable departure for Xiao Zhan, representing his very first venture into the realistic drama genre. The narrative centers heavily on grassroots medical care within a tight-knit community, offering viewers an authentic look at provincial healthcare challenges.",
+          "Under the direction of Zhang Xiao Bo and the scriptwriting of Nie Cheng Shuai, the television series adapts the source novel Fei Dao authored by Liu San Shu. The plot follows the journey of Liu Zheng Liang, a dedicated neurosurgeon who decides to leave the big city and return to his hometown."
+        ]
+      },
+      {
+        "h": "Method Preparation and Intensive Surgical Training",
+        "p": [
+          "Stepping into the shoes of a grassroots neurosurgeon required rigorous preparation from the lead actor. In previous interviews, Xiao Zhan shared that shooting demanding medical procedures gave him a profound respect for the grueling physical endurance required of real-life medical professionals.",
+          "To build a deeply layered portrayal of Liu Zheng Liang, the actor went above and beyond standard preparation. He crafted an original personal backstory for the character and spent extensive hours collaborating directly with director Zhang Xiao Bo to flesh out the surgeon's history."
+        ]
+      },
+      {
+        "h": "Broadcast Success and Positive Word of Mouth",
+        "p": [
+          "The 29-episode television production enjoyed a successful broadcast run earlier in the season. Airing concurrently on CCTV and the streaming platform iQiyi, the series captured audiences from October 21 to November 1, 2026.",
+          "Throughout its broadcast, the medical drama steadily built positive momentum and strong word of mouth among viewers, ultimately paving the way for this high-profile industry review and celebration in the Chinese capital."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Xiao Zhan attended an official Beijing industry symposium for his hit medical C-drama Small Town Remedy alongside co-stars Ni Da Hong and Jiang Yan. The 29-episode series, which aired from October 21 to November 1, 2026, features the actor as a neurosurgeon in his first realistic television role."
+        ]
+      }
+    ],
+    "facts": [
+      "The symposium for Small Town Remedy was held in Beijing on November 25, 2026.",
+      "Xiao Zhan attended the symposium alongside co-stars Ni Da Hong and Jiang Yan.",
+      "Small Town Remedy is directed by Zhang Xiao Bo and written by Nie Cheng Shuai.",
+      "The drama is adapted from Liu San Shu's novel Fei Dao.",
+      "Xiao Zhan plays the character Liu Zheng Liang, a neurosurgeon.",
+      "The series consists of 29 episodes.",
+      "Small Town Remedy aired on CCTV and iQiyi from October 21 to November 1, 2026."
+    ],
+    "entities": {
+      "people": [
+        "Xiao Zhan",
+        "Ni Da Hong",
+        "Jiang Yan",
+        "Zhang Xiao Bo",
+        "Nie Cheng Shuai",
+        "Liu San Shu"
+      ],
+      "titles": [
+        "Small Town Remedy",
+        "Fei Dao"
+      ]
+    },
+    "keywords": [
+      "Xiao Zhan Small Town Remedy",
+      "Small Town Remedy symposium",
+      "Xiao Zhan Ni Da Hong Jiang Yan",
+      "Small Town Remedy C-drama"
+    ],
+    "images": [
+      {
+        "url": "https://i.mydramalist.com/NRRLBy_2d.jpg",
+        "caption": "Xiao Zhan Steps Out in Beijing for Small Town Remedy Industry Symposium",
+        "source": "MyDramaList"
+      }
+    ],
+    "published": "Wed, 25 Nov 2026 08:26:36 +0000"
   }
 };

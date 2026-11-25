@@ -4,45 +4,6 @@
    {
     "step": "fetch",
     "category": "Trending News",
-    "run_at": "2026-11-24T08:52:01Z",
-    "run_id": "45359641651",
-    "status": "success",
-    "checked": {
-     "candidates": 314,
-     "detail": "RSS/Atom items across 137 sources; 2 source(s) errored"
-    },
-    "changed": {
-     "added": [
-      "EXCLUSIVE: Force 3 gets HOTTER! Nora Fatehi joins John Abraham for a sizzling special number; duo reunites after six years ahead of March 19, 2027 release",
-      "Yeh Rishta Kya Kehlata Hai Written Update November 24: Maira Questions AbhiMaan's Sudden Support For Kabir",
-      "Love In Disguise Episode 12 Release Time Today: When & Where To Stream Last Ep? What To Expect From K-drama?",
-      "Jensen Huang News: Jensen's RETURN To Nvidia As CEO Grabs Attention; Where Is Alice Huang NOW?",
-      "Sathyameva OTT Release Date: When And Where To Watch Rony David Raj Starrer Crime Series Online",
-      "OM Box Office Day 4: Enters Kollywood’s Top 10 Highest-Grossers Of 2026 Despite Failing Monday Test",
-      "Ebenezer Worldwide Box Office: Johnny Depp’s Comeback Film Surpasses Lifetime Total Of From Hell",
-      "MobLand Season 2 Ending Explained: Did Harry Save The Harrigans At The Cost Of His Family?",
-      "Ramayana Kerala Box Office Collections: Ranbir Kapoor starrer collects Rs 2 crore on 3rd Monday, set to surpass Baahubali 2 soon",
-      "ENE Repeat Box Office Collections: Vishwak Sen starrer records 60 per cent drop on 1st Monday, collects Rs 24 crore in 4 days",
-      "3 Malayalam, Tamil OTT Releases to Watch This Week: Rony David Raj’s Sathyameva to Octopus",
-      "Avengers Doomsday India Advance Booking: Marvel's superheroes sells 2.30 lakh tickets in National Chains for Day 1",
-      "Aakasamlo Oka Tara (AOT) Box Office Collections: Telugu film passes Monday test with flying colors, grosses Rs 20 crore in 4 days",
-      "O.M Chapter 1 India Box Office Collections: Dhanush starrer registers BIG drop on 1st Monday, collects Rs 60 crore in 4 days",
-      "Ramayana Box Office Collections: Ranbir Kapoor and Yash starrer maintains good hold on 3rd Monday, mints Rs 923 crore in 19 days",
-      "Brahmastra 2 Confirmed as Ayan Mukerji Reveals His New Vision for the Sequel and Reflects on the First Film",
-      "Jailer 2 Leads South Indian Festive Releases of 2026 at the Box Office as Kantara Chapter 1's 2025 Record Remains Unbeaten",
-      "Avengers Doomsday advance booking storms past  ₹50 crore 3 weeks before release, Marvel tentpole beating Ramayana, Dhurandhar 2 in India",
-      "Shabana Azmi says even though she doesn't believe in wearing burqa, if someone tells her not to, she'll wear three",
-      "Actor Parvathy Thiruvothu resolves to hustle like never before amid ADHD diagnosis"
-     ],
-     "updated": [],
-     "count": 295,
-     "detail": "307 stories, 1 duplicates removed, 7 dropped"
-    },
-    "reason": null
-   },
-   {
-    "step": "fetch",
-    "category": "Trending News",
     "run_at": "2026-11-24T09:51:15Z",
     "run_id": "45369010056",
     "status": "success",
@@ -936,32 +897,48 @@
      "detail": "336 stories, 2 duplicates removed, 11 dropped"
     },
     "reason": null
-   }
-  ],
-  "apply_auto": [
+   },
    {
-    "step": "apply_auto",
+    "step": "fetch",
     "category": "Trending News",
-    "run_at": "2026-11-24T09:51:42Z",
-    "run_id": "45369010056",
+    "run_at": "2026-11-25T08:52:05Z",
+    "run_id": "45579838696",
     "status": "success",
     "checked": {
-     "candidates": 14,
-     "detail": "draft articles + box-office rows from out/gemini-batch.json"
+     "candidates": 273,
+     "detail": "RSS/Atom items across 137 sources; 3 source(s) errored"
     },
     "changed": {
      "added": [
-      "The Social Network Sequel The Social Reckoning Arrives on Digital After Short Theatrical Run",
-      "Panchayat Season 5 Trailer Out: Banrakas Becomes New Pradhan",
-      "Alexander Skarsgård’s Wicker Arrives on Digital Platforms",
-      "Salman Khan Promises a Song to Qazi Touqeer on Reality TV"
+      "The Rings Of Power Season 4 Update: Prime Video Confirms New Season Ahead Of Season 3 Finale",
+      "The Hunger Games: Sunrise on the Reaping North America Box Office: How Much Does It Need To Break Into The Franchise’s Top 5 Domestic Grossers?",
+      "The Rings Of Power Season 4: Prime Video Confirms The Lord Of The Rings Series Return, Here’s What We Know",
+      "Maatrubhumi Box Office: Salman Khan Eyes His Biggest Opening Since Tiger 3 and a ₹9,000 Crore Career Milestone Ahead of King",
+      "'O.M' BO Day 6 [Live]: Dhanush, Sai Pallavi's film sees further drop",
+      "Salim Khan Birthday: Iulia Vantur shares tribute",
+      "Grammy nominated Aakash Ravikrishnan on working with Chris Brown’s Appreciate It: ‘Feels huge’",
+      "Gunmaaster G9 reunion: Aditya Datt says team avoided old songs",
+      "Sahiba Bali's Gurpurab post with Arjun Kapoor sparks dating buzz, fans wonder 'is it a soft launch?'",
+      "Who knew? Kareena's 90s throwback shows Saif dancing with future sister-in-law Karisma",
+      "Ramayana Box Office Day 20: Ranbir Kapoor, Yash Starrer Sees Considerable Growth Thanks To Slashed Ticket Prices",
+      "Netflix's 53-Episode Modern Classic Series Delivers A Masterclass In Character Development",
+      "Pokémon's Official New Eeveelution Designs For Are Adorable",
+      "Baldur's Gate 3 Is Officially Returning With A Shadowheart Spinoff",
+      "Netflix's 8-Part Thriller Series Has One Of Its Best Casts & It's The Perfect Binge",
+      "Noomi Rapace Launches Production Company Boom Films, Dedicated to Female-Driven Projects and Backed by Thomas Benski’s Lumina Media (EXCLUSIVE)",
+      "Inside Story Of California’s Napa Valley Wine Region Explored In Feature Doc",
+      "‘Always On Call’ Review: Sara Khorami Is the Beating Heart of Netflix’s Low-Key Medical Drama",
+      "Tumhein Kya Zaroorat Hai Itni Jaldi Shadi Karne Ki | Lagan Lagi Episode 24 | ARY Digital",
+      "Abu bakar x Zaryab 😍❤️ #sheheryarmunawar || #saharhashmi || #shorts"
      ],
      "updated": [],
-     "count": 7,
-     "detail": "+4 articles, +0 box-office rows, 3 rows updated"
+     "count": 261,
+     "detail": "263 stories, 0 duplicates removed, 10 dropped"
     },
     "reason": null
-   },
+   }
+  ],
+  "apply_auto": [
    {
     "step": "apply_auto",
     "category": "Trending News",
@@ -1472,27 +1449,32 @@
      "detail": "+4 articles, +1 box-office rows, 3 rows updated"
     },
     "reason": null
+   },
+   {
+    "step": "apply_auto",
+    "category": "Trending News",
+    "run_at": "2026-11-25T08:53:08Z",
+    "run_id": "45579838696",
+    "status": "success",
+    "checked": {
+     "candidates": 14,
+     "detail": "draft articles + box-office rows from out/gemini-batch.json"
+    },
+    "changed": {
+     "added": [
+      "Avengers Directors and Kevin Feige Recall Patrick Stewart's Emotional Final Set Speech",
+      "Director Aditya Datt Addresses the Heavy Legacy Surrounding Gunmaaster G9 and Emraan Hashmi's Musical History",
+      "The Melody of Love Sets Official Premiere Date for Late November",
+      "Xiao Zhan Steps Out in Beijing for Small Town Remedy Industry Symposium"
+     ],
+     "updated": [],
+     "count": 7,
+     "detail": "+4 articles, +0 box-office rows, 3 rows updated"
+    },
+    "reason": null
    }
   ],
   "ott": [
-   {
-    "step": "ott",
-    "category": "OTT",
-    "run_at": "2026-11-24T08:52:29Z",
-    "run_id": "45359641651",
-    "status": "success",
-    "checked": {
-     "candidates": 419,
-     "detail": "OTT now/coming titles from the published catalogue"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 0,
-     "detail": "now 414, coming 5"
-    },
-    "reason": "no-new-data"
-   },
    {
     "step": "ott",
     "category": "OTT",
@@ -1906,28 +1888,27 @@
      "detail": "now 439, coming 5"
     },
     "reason": "no-new-data"
+   },
+   {
+    "step": "ott",
+    "category": "OTT",
+    "run_at": "2026-11-25T08:53:08Z",
+    "run_id": "45579838696",
+    "status": "success",
+    "checked": {
+     "candidates": 444,
+     "detail": "OTT now/coming titles from the published catalogue"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 0,
+     "detail": "now 439, coming 5"
+    },
+    "reason": "no-new-data"
    }
   ],
   "trending_weekly": [
-   {
-    "step": "trending_weekly",
-    "category": "Trending Topics",
-    "run_at": "2026-11-24T10:13:09Z",
-    "run_id": "45369010056",
-    "status": "success",
-    "checked": {
-     "candidates": 100,
-     "detail": "cached Google RSS trend/article intersection"
-    },
-    "changed": {
-     "added": [
-      "tljc71"
-     ],
-     "updated": [],
-     "count": 1
-    },
-    "reason": null
-   },
    {
     "step": "trending_weekly",
     "category": "Trending Topics",
@@ -2367,27 +2348,30 @@
      "count": 7
     },
     "reason": null
+   },
+   {
+    "step": "trending_weekly",
+    "category": "Trending Topics",
+    "run_at": "2026-11-25T09:13:32Z",
+    "run_id": "45579838696",
+    "status": "success",
+    "checked": {
+     "candidates": 100,
+     "detail": "cached Google RSS trend/article intersection"
+    },
+    "changed": {
+     "added": [
+      "ivb674",
+      "lwg4ya",
+      "1f98fib"
+     ],
+     "updated": [],
+     "count": 3
+    },
+    "reason": null
    }
   ],
   "multisource_boxoffice": [
-   {
-    "step": "multisource_boxoffice",
-    "category": "Box Office",
-    "run_at": "2026-11-24T08:54:26Z",
-    "run_id": "45359641651",
-    "status": "success",
-    "checked": {
-     "candidates": 750,
-     "detail": "688 collected staging rows from readers; 256 averaged across 2+ sources"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 7,
-     "detail": "+1 new rows, 6 updated rows, 717 unchanged"
-    },
-    "reason": null
-   },
    {
     "step": "multisource_boxoffice",
     "category": "Box Office",
@@ -2801,19 +2785,27 @@
      "detail": "+0 new rows, 5 updated rows, 722 unchanged"
     },
     "reason": null
+   },
+   {
+    "step": "multisource_boxoffice",
+    "category": "Box Office",
+    "run_at": "2026-11-25T09:13:28Z",
+    "run_id": "45579838696",
+    "status": "success",
+    "checked": {
+     "candidates": 755,
+     "detail": "691 collected staging rows from readers; 258 averaged across 2+ sources"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 9,
+     "detail": "+1 new rows, 8 updated rows, 720 unchanged"
+    },
+    "reason": null
    }
   ],
   "gemini_reviews": [
-   {
-    "step": "gemini_reviews",
-    "category": "Reviews",
-    "run_at": "2026-11-24T08:54:39Z",
-    "run_id": "45359641651",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "gemini_reviews",
     "category": "Reviews",
@@ -3050,33 +3042,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "gemini_reviews",
+    "category": "Reviews",
+    "run_at": "2026-11-25T09:13:45Z",
+    "run_id": "45579838696",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "convert_news": [
-   {
-    "step": "convert_news",
-    "category": "Trending News",
-    "run_at": "2026-11-24T10:13:09Z",
-    "run_id": "45369010056",
-    "status": "success",
-    "checked": {
-     "candidates": 600,
-     "detail": "feed entries from out/queue.json"
-    },
-    "changed": {
-     "added": [
-      "The Social Network Sequel The Social Reckoning Arrives on Digital After Short Theatrical Run",
-      "Panchayat Season 5 Trailer Out: Banrakas Becomes New Pradhan",
-      "Alexander Skarsgård’s Wicker Arrives on Digital Platforms",
-      "Salman Khan Promises a Song to Qazi Touqeer on Reality TV",
-      "Tabu Joins Cast of YRF Entertainment Series Tunnel Men on Netflix"
-     ],
-     "updated": [],
-     "count": 5,
-     "detail": "api-news.json 600 items, api-trends.json 12 items"
-    },
-    "reason": null
-   },
    {
     "step": "convert_news",
     "category": "Trending News",
@@ -3584,19 +3562,32 @@
      "detail": "api-news.json 600 items, api-trends.json 12 items"
     },
     "reason": null
+   },
+   {
+    "step": "convert_news",
+    "category": "Trending News",
+    "run_at": "2026-11-25T09:13:31Z",
+    "run_id": "45579838696",
+    "status": "success",
+    "checked": {
+     "candidates": 600,
+     "detail": "feed entries from out/queue.json"
+    },
+    "changed": {
+     "added": [
+      "Avengers Directors and Kevin Feige Recall Patrick Stewart's Emotional Final Set Speech",
+      "The Melody of Love Sets Official Premiere Date for Late November",
+      "Xiao Zhan Steps Out in Beijing for Small Town Remedy Industry Symposium",
+      "Director Aditya Datt Addresses the Heavy Legacy Surrounding Gunmaaster G9 and Emraan Hashmi's Musical History"
+     ],
+     "updated": [],
+     "count": 4,
+     "detail": "api-news.json 600 items, api-trends.json 12 items"
+    },
+    "reason": null
    }
   ],
   "episode_guides": [
-   {
-    "step": "episode_guides",
-    "category": "Drama Episodes",
-    "run_at": "2026-11-24T08:54:39Z",
-    "run_id": "45359641651",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "episode_guides",
     "category": "Drama Episodes",
@@ -3871,19 +3862,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "title_seed": [
+   },
    {
-    "step": "title_seed",
-    "category": "Spotlight / Coming Soon / Most Awaited",
-    "run_at": "2026-11-24T08:54:39Z",
-    "run_id": "45359641651",
+    "step": "episode_guides",
+    "category": "Drama Episodes",
+    "run_at": "2026-11-25T09:13:45Z",
+    "run_id": "45579838696",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "title_seed": [
    {
     "step": "title_seed",
     "category": "Spotlight / Coming Soon / Most Awaited",
@@ -4202,31 +4193,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "title_seed",
+    "category": "Spotlight / Coming Soon / Most Awaited",
+    "run_at": "2026-11-25T09:13:45Z",
+    "run_id": "45579838696",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "gemini_batch": [
-   {
-    "step": "gemini_batch",
-    "category": "Trending News",
-    "run_at": "2026-11-24T08:52:28Z",
-    "run_id": "45359641651",
-    "status": "success",
-    "checked": {
-     "candidates": 4,
-     "detail": "news queue items drafted this run; 295 still unprocessed; today by category: movies 6/6, tv_dramas 7/4, episodes 0/2, box_office 9/6, celebrities_events 9/5, upcoming_releases 0/4, ott_streaming 3/4, trailers 1/3, awards 3/2, music_ost 1/2, viral 1/2"
-    },
-    "changed": {
-     "added": [
-      "Rony David Raj Starrer Crime Drama Sathyameva Confirms OTT Premiere on ZEE5",
-      "Days of Our Lives Announces Thanksgiving Week Schedule and New Episodes",
-      "When Yo Yo Honey Singh Declared He Would Leave 562 Girlfriends for Chitrangada Singh in a Viral Old Interview",
-      "General Hospital Alters Weekly Schedule and Skips New Episodes for Two Days"
-     ],
-     "updated": [],
-     "count": 4
-    },
-    "reason": null
-   },
    {
     "step": "gemini_batch",
     "category": "Trending News",
@@ -4719,19 +4698,31 @@
      "count": 4
     },
     "reason": null
+   },
+   {
+    "step": "gemini_batch",
+    "category": "Trending News",
+    "run_at": "2026-11-25T08:53:07Z",
+    "run_id": "45579838696",
+    "status": "success",
+    "checked": {
+     "candidates": 6,
+     "detail": "news queue items drafted this run; 261 still unprocessed; today by category: movies 6/6, tv_dramas 5/4, episodes 0/2, box_office 7/6, celebrities_events 9/5, upcoming_releases 1/4, ott_streaming 4/4, trailers 3/3, awards 3/2, music_ost 1/2, viral 1/2"
+    },
+    "changed": {
+     "added": [
+      "Avengers Directors and Kevin Feige Recall Patrick Stewart's Emotional Final Set Speech",
+      "Director Aditya Datt Addresses the Heavy Legacy Surrounding Gunmaaster G9 and Emraan Hashmi's Musical History",
+      "The Melody of Love Sets Official Premiere Date for Late November",
+      "Xiao Zhan Steps Out in Beijing for Small Town Remedy Industry Symposium"
+     ],
+     "updated": [],
+     "count": 4
+    },
+    "reason": null
    }
   ],
   "overseas_ai": [
-   {
-    "step": "overseas_ai",
-    "category": "Box Office",
-    "run_at": "2026-11-24T08:54:39Z",
-    "run_id": "45359641651",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "overseas_ai",
     "category": "Box Office",
@@ -5045,24 +5036,26 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "publish": [
+   },
    {
-    "step": "publish",
-    "category": "Trending News",
-    "run_at": "2026-11-24T08:54:39Z",
-    "run_id": "45359641651",
+    "step": "overseas_ai",
+    "category": "Box Office",
+    "run_at": "2026-11-25T08:54:26Z",
+    "run_id": "45579838696",
     "status": "success",
-    "checked": null,
+    "checked": {
+     "candidates": 59,
+     "detail": "published movies with missing overseas day figures; Tavily searches: 48"
+    },
     "changed": {
      "added": [],
      "updated": [],
-     "count": 408,
-     "detail": "lines changed in owned files; no per-item summary from script"
+     "count": 0
     },
-    "reason": null
-   },
+    "reason": "no-new-data"
+   }
+  ],
+  "publish": [
    {
     "step": "publish",
     "category": "Trending News",
@@ -5402,24 +5395,24 @@
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
-   }
-  ],
-  "stats_traffic": [
+   },
    {
-    "step": "stats_traffic",
-    "category": "Stats / Health",
-    "run_at": "2026-11-24T08:54:39Z",
-    "run_id": "45359641651",
+    "step": "publish",
+    "category": "Trending News",
+    "run_at": "2026-11-25T09:13:45Z",
+    "run_id": "45579838696",
     "status": "success",
     "checked": null,
     "changed": {
      "added": [],
      "updated": [],
-     "count": 14,
+     "count": 396,
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
-   },
+   }
+  ],
+  "stats_traffic": [
    {
     "step": "stats_traffic",
     "category": "Stats / Health",
@@ -5719,19 +5712,19 @@
     "checked": null,
     "changed": null,
     "reason": "no-new-data"
+   },
+   {
+    "step": "stats_traffic",
+    "category": "Stats / Health",
+    "run_at": "2026-11-25T09:13:45Z",
+    "run_id": "45579838696",
+    "status": "success",
+    "checked": null,
+    "changed": null,
+    "reason": "no-new-data"
    }
   ],
   "stats_pipeline": [
-   {
-    "step": "stats_pipeline",
-    "category": "Stats / Health",
-    "run_at": "2026-11-24T08:54:39Z",
-    "run_id": "45359641651",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "stats_pipeline",
     "category": "Stats / Health",
@@ -5981,19 +5974,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "stats_health": [
+   },
    {
-    "step": "stats_health",
+    "step": "stats_pipeline",
     "category": "Stats / Health",
-    "run_at": "2026-11-24T08:54:39Z",
-    "run_id": "45359641651",
+    "run_at": "2026-11-25T09:13:45Z",
+    "run_id": "45579838696",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "stats_health": [
    {
     "step": "stats_health",
     "category": "Stats / Health",
@@ -6228,19 +6221,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "metadata_refresh": [
+   },
    {
-    "step": "metadata_refresh",
-    "category": "Spotlight / Coming Soon / Most Awaited",
-    "run_at": "2026-11-24T08:54:39Z",
-    "run_id": "45359641651",
+    "step": "stats_health",
+    "category": "Stats / Health",
+    "run_at": "2026-11-25T09:13:45Z",
+    "run_id": "45579838696",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "metadata_refresh": [
    {
     "step": "metadata_refresh",
     "category": "Spotlight / Coming Soon / Most Awaited",
@@ -6524,19 +6517,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "providers_backfill": [
+   },
    {
-    "step": "providers_backfill",
-    "category": "OTT",
-    "run_at": "2026-11-24T08:54:39Z",
-    "run_id": "45359641651",
+    "step": "metadata_refresh",
+    "category": "Spotlight / Coming Soon / Most Awaited",
+    "run_at": "2026-11-25T09:13:45Z",
+    "run_id": "45579838696",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "providers_backfill": [
    {
     "step": "providers_backfill",
     "category": "OTT",
@@ -6777,19 +6770,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "tavily_boxoffice": [
+   },
    {
-    "step": "tavily_boxoffice",
-    "category": "Box Office",
-    "run_at": "2026-11-24T08:54:39Z",
-    "run_id": "45359641651",
+    "step": "providers_backfill",
+    "category": "OTT",
+    "run_at": "2026-11-25T09:13:45Z",
+    "run_id": "45579838696",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "tavily_boxoffice": [
    {
     "step": "tavily_boxoffice",
     "category": "Box Office",
@@ -7019,19 +7012,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "tavily_boxoffice",
+    "category": "Box Office",
+    "run_at": "2026-11-25T09:13:45Z",
+    "run_id": "45579838696",
+    "status": "success",
+    "checked": null,
+    "changed": null,
+    "reason": "no-new-data"
    }
   ],
   "keywords_refresh": [
-   {
-    "step": "keywords_refresh",
-    "category": "Trending News",
-    "run_at": "2026-11-24T08:54:39Z",
-    "run_id": "45359641651",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "keywords_refresh",
     "category": "Trending News",
@@ -7284,32 +7277,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "keywords_refresh",
+    "category": "Trending News",
+    "run_at": "2026-11-25T09:13:45Z",
+    "run_id": "45579838696",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "overseas_sweep": [
-   {
-    "step": "overseas_sweep",
-    "category": "Box Office",
-    "run_at": "2026-11-23T07:51:51Z",
-    "run_id": "45134027537",
-    "status": "success",
-    "checked": {
-     "candidates": 602,
-     "detail": "completed day-wise rows missing overseas; quicknews pages fetched: 15; attempt cooldown deferred: 587"
-    },
-    "changed": {
-     "added": [
-      "Jailer 2 (1234139)",
-      "Ramayana: Rise of a Legend (656908)",
-      "Ranabaali (1389379)",
-      "418 (1606527)",
-      "Nayyi Navelli (1654581)"
-     ],
-     "updated": [],
-     "count": 15
-    },
-    "reason": null
-   },
    {
     "step": "overseas_sweep",
     "category": "Box Office",
@@ -7821,19 +7801,32 @@
      "count": 14
     },
     "reason": null
+   },
+   {
+    "step": "overseas_sweep",
+    "category": "Box Office",
+    "run_at": "2026-11-25T08:53:28Z",
+    "run_id": "45579838696",
+    "status": "success",
+    "checked": {
+     "candidates": 610,
+     "detail": "completed day-wise rows missing overseas; quicknews pages fetched: 16; attempt cooldown deferred: 594"
+    },
+    "changed": {
+     "added": [
+      "Jailer 2 (1234139)",
+      "Aakasamlo Oka Tara (1322273)",
+      "Ranabaali (1389379)",
+      "418 (1606527)",
+      "Nayyi Navelli (1654581)"
+     ],
+     "updated": [],
+     "count": 15
+    },
+    "reason": null
    }
   ],
   "advance_booking": [
-   {
-    "step": "advance_booking",
-    "category": "Box Office",
-    "run_at": "2026-11-24T08:54:39Z",
-    "run_id": "45359641651",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "advance_booking",
     "category": "Box Office",
@@ -8073,19 +8066,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "home_boxoffice_worldwide": [
+   },
    {
-    "step": "home_boxoffice_worldwide",
+    "step": "advance_booking",
     "category": "Box Office",
-    "run_at": "2026-11-24T08:54:39Z",
-    "run_id": "45359641651",
+    "run_at": "2026-11-25T09:13:45Z",
+    "run_id": "45579838696",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "home_boxoffice_worldwide": [
    {
     "step": "home_boxoffice_worldwide",
     "category": "Box Office",
@@ -8355,8 +8348,18 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "home_boxoffice_worldwide",
+    "category": "Box Office",
+    "run_at": "2026-11-25T09:13:45Z",
+    "run_id": "45579838696",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ]
  },
- "updated_at": "2026-11-25T07:53:21Z"
+ "updated_at": "2026-11-25T09:13:45Z"
 }
