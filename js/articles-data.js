@@ -242135,5 +242135,447 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "2026-11-25T01:00:06Z"
+  },
+  "1qnsh4r": {
+    "id": "1qnsh4r",
+    "type": "news",
+    "headline": "Director Antoine Fuqua Faces Civil Lawsuit Over Alleged Los Angeles Bar Fight",
+    "dek": "The filmmaker behind the upcoming musical biographical drama Michael has been accused of assault, battery, and emotional distress following an altercation at a Los Angeles establishment.",
+    "body": [
+      {
+        "h": "The Allegations and Civil Lawsuit",
+        "p": [
+          "Renowned Hollywood filmmaker Antoine Fuqua has found himself at the centre of severe legal controversy. Reports indicate that a civil lawsuit has been officially lodged against the director at the Los Angeles Superior Court.",
+          "The legal action stems from an alleged altercation that occurred earlier this year in February at a local establishment in Los Angeles, drawing intense media scrutiny."
+        ]
+      },
+      {
+        "h": "Incident at the Bar",
+        "p": [
+          "According to court documents, the conflict began when assistant manager William Rosenthal denied entry to Fuqua, his son Brando, and his daughter due to their apparent heavy intoxication. The situation escalated after a member of the group allegedly spat at the staff member.",
+          "Approximately an hour later, the group remained outside the premises. Accusations claim that the confrontation turned physical and aggressive after verbal exchanges regarding the incident."
+        ]
+      },
+      {
+        "h": "Weapons and Severe Allegations",
+        "p": [
+          "The plaintiff asserts that Antoine Fuqua drew a handgun during the confrontation and struck him in the face. Furthermore, the complaint alleges the use of racial and antisemitic slurs alongside death threats.",
+          "The lawsuit also implicates Brando Fuqua, stating that he similarly approached the manager with a firearm and that both individuals pointed their weapons at the victim before escaping the scene."
+        ]
+      },
+      {
+        "h": "Reported Injuries and Demands",
+        "p": [
+          "William Rosenthal is reportedly seeking fifty thousand dollars in damages through the civil complaint. The filing details multiple physical and psychological injuries sustained during the episode.",
+          "The listed trauma includes a fractured nose, head injuries, lacerations, permanent scarring, post-traumatic stress disorder, and ongoing emotional distress that could potentially result in lasting disability."
+        ]
+      },
+      {
+        "h": "Response From the Defense",
+        "p": [
+          "Representatives speaking on behalf of Antoine Fuqua have strongly refuted the claims made in the lawsuit. They informed media outlets that the allegations are entirely untrue.",
+          "Despite the denial issued through representatives, the director himself has not yet released a formal public statement addressing the specific charges or the ongoing legal proceedings."
+        ]
+      },
+      {
+        "h": "Professional Background",
+        "p": [
+          "Antoine Fuqua is widely recognized in the entertainment industry for his directorial work. Most notably, he is celebrated for helming the upcoming musical biographical drama film Michael.",
+          "This unexpected legal trouble places a sudden spotlight on the filmmaker away from his usual professional endeavors and forthcoming cinematic releases."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Director Antoine Fuqua is facing a civil lawsuit in Los Angeles following an alleged bar fight involving assistant manager William Rosenthal. While the plaintiff has accused the filmmaker and his son of assault, battery, and using firearms, representatives for Fuqua have denied all allegations."
+        ]
+      }
+    ],
+    "facts": [
+      "Antoine Fuqua is the director of the musical biographical drama Michael.",
+      "A 10-page civil lawsuit was filed on Friday in the Los Angeles Superior Court.",
+      "William Rosenthal is an assistant manager at Good Times at Davey Wayne's bar.",
+      "The incident allegedly took place in February.",
+      "William Rosenthal is seeking $50,000 in damages."
+    ],
+    "entities": {
+      "people": [
+        "Antoine Fuqua",
+        "Brando Fuqua",
+        "William Rosenthal"
+      ],
+      "titles": [
+        "Michael"
+      ]
+    },
+    "keywords": [
+      "Antoine Fuqua",
+      "Antoine Fuqua lawsuit",
+      "Michael director Antoine Fuqua",
+      "Antoine Fuqua bar fight"
+    ],
+    "images": [
+      {
+        "url": "https://images.timesnownews.com/thumb/msid-156558699,thumbsize-437900,width-1280,height-720,resizemode-75/156558699.jpg",
+        "caption": "Director Antoine Fuqua Faces Civil Lawsuit Over Alleged Los Angeles Bar Fight",
+        "source": "Times Now — Entertainment"
+      }
+    ],
+    "published": "2026-11-25T01:52:19Z"
+  },
+  "16ocpor": {
+    "id": "16ocpor",
+    "type": "news",
+    "headline": "Avengers: Doomsday Final Trailer Breaks Disney Records With Massive Viewership",
+    "dek": "The latest promotional preview for Marvel's upcoming blockbuster has shattered previous milestones, pulling in hundreds of millions of views within a single day.",
+    "body": [
+      {
+        "h": "Record-Breaking Debut",
+        "p": [
+          "With the theatrical release sitting just three weeks away, anticipation surrounding Marvel's upcoming cinematic event reached a fever pitch. The studio released the final preview to the public, and global audiences immediately swarmed digital platforms to catch a glimpse of the action.",
+          "According to reports from Deadline, the promotional clip pulled in an astounding 563 million views during its first twenty-four hours of availability. This massive achievement officially establishes the footage as the largest first-day trailer debut in the history of Walt Disney Studios."
+        ]
+      },
+      {
+        "h": "Surpassing Previous Milestones",
+        "p": [
+          "The newly established benchmark marks a substantial leap over previous promotional campaigns handled by the studio. The earlier teaser for the same project had already performed impressively, accumulating 503 million views during its initial launch day.",
+          "That earlier figure had comfortably outperformed previous high-profile drops, such as the Super Bowl teaser for Deadpool & Wolverine, which managed 365 million views. The Avengers team effectively broke their own internal company record by an impressive margin of 60 million views."
+        ]
+      },
+      {
+        "h": "Chasing All-Time Highs",
+        "p": [
+          "Despite the monumental success of the recent superhero preview, it falls just short of the absolute all-time industry record for first-day views. That prestigious top spot remains firmly held by Sony's friendly neighborhood hero.",
+          "The promotional footage for Spider-Man: Brand New Day previously drew an astonishing 718.6 million views within its first 24 hours. Consequently, the web-slinger remains the only title to keep Earth's mightiest heroes from capturing the ultimate viewership crown."
+        ]
+      },
+      {
+        "h": "Box Office Expectations",
+        "p": [
+          "While digital viewing numbers come completely free of charge, industry analysts are left wondering how effectively this unprecedented online interest will translate into actual theatrical ticket sales when the movie opens.",
+          "Current market expectations have climbed to such staggering heights that industry watchers suggest anything less than a $2 billion opening weekend will prompt questions about potential underperformance."
+        ]
+      },
+      {
+        "h": "Confirmed Runtime Details",
+        "p": [
+          "Alongside the promotional launch, concrete details regarding the film's structure have emerged. Co-director Joe Russo recently confirmed the exact running time for the upcoming blockbuster.",
+          "The feature clocks in at approximately 150 minutes in length. This duration places it nearly on par with Avengers: Infinity War at 149 minutes, though it remains significantly shorter than the sprawling 181-minute runtime of Avengers: Endgame."
+        ]
+      },
+      {
+        "h": "Massive Ensemble Cast",
+        "p": [
+          "The narrative of the upcoming feature brings together beloved characters from three distinct universes on a deadly collision course. These heroes face an unprecedented existential threat unlike anything encountered in previous chapters.",
+          "The massive ensemble cast features Chris Hemsworth as Thor, Vanessa Kirby as Sue Storm, Sebastian Stan as Bucky Barnes, Letitia Wright as Shuri, Anthony Mackie as Sam Wilson, Paul Rudd as Scott Lang, Wyatt Russell as John Walker, Tenoch Huerta Mejía as Namor, Ebon Moss-Bachrach as Ben Grimm, Simu Liu as Shang-Chi, Florence Pugh as Yelena Belova, Kelsey Grammer as Hank McCoy, Lewis Pullman as Bob, Danny Ramirez as Joaquin Torres, Joseph Quinn as Johnny Storm, David Harbour as Red Guardian, Winston Duke as M’Baku, Hannah John-Kamen as Ghost, Tom Hiddleston as Loki, Patrick Stewart as Professor Charles Xavier, Ian McKellen as Erik Lehnsherr, Alan Cumming as Kurt Wagner, Rebecca Romijn as Raven Darkhölme, James Marsden as Scott Summers, Channing Tatum as Remy LeBeau, Pedro Pascal as Reed Richards, and Robert Downey Jr. as Victor von Doom."
+        ]
+      },
+      {
+        "h": "Upcoming Release Schedule",
+        "p": [
+          "Fans waiting to witness the multi-universe confrontation will not have to wait much longer. The feature is scheduled to land in movie theaters on December 18.",
+          "Following this major event, the overarching narrative will continue with the subsequent release of Avengers: Secret Wars, which is currently slated to arrive on December 17, 2027."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "The final trailer for Avengers: Doomsday accumulated 563 million views in its first 24 hours, setting a new record for Disney. The film, directed with a 150-minute runtime and featuring a massive cast, is scheduled to hit theaters on December 18."
+        ]
+      }
+    ],
+    "facts": [
+      "Avengers: Doomsday final trailer gained 563 million views in its first 24 hours.",
+      "The earlier Doomsday teaser pulled in 503 million views in its first day.",
+      "Deadpool Wolverine Super Bowl teaser earned 365 million views.",
+      "Spider-Man: Brand New Day drew 718.6 million views in its first 24 hours.",
+      "Avengers: Doomsday has a runtime of roughly 150 minutes.",
+      "Avengers: Infinity War has a runtime of 149 minutes.",
+      "Avengers: Endgame has a runtime of 181 minutes.",
+      "Avengers: Doomsday releases in theaters on December 18.",
+      "Avengers: Secret Wars follows on December 17, 2027."
+    ],
+    "entities": {
+      "people": [
+        "Kevin Fraser",
+        "Joe Russo",
+        "Chris Hemsworth",
+        "Vanessa Kirby",
+        "Sebastian Stan",
+        "Letitia Wright",
+        "Anthony Mackie",
+        "Paul Rudd",
+        "Wyatt Russell",
+        "Tenoch Huerta Mejía",
+        "Ebon Moss-Bachrach",
+        "Simu Liu",
+        "Florence Pugh",
+        "Kelsey Grammer",
+        "Lewis Pullman",
+        "Danny Ramirez",
+        "Joseph Quinn",
+        "David Harbour",
+        "Winston Duke",
+        "Hannah John-Kamen",
+        "Tom Hiddleston",
+        "Patrick Stewart",
+        "Ian McKellen",
+        "Alan Cumming",
+        "Rebecca Romijn",
+        "James Marsden",
+        "Channing Tatum",
+        "Pedro Pascal",
+        "Robert Downey Jr.",
+        "Kevin Feige"
+      ],
+      "titles": [
+        "Avengers: Doomsday",
+        "Avengers: Infinity War",
+        "Avengers: Endgame",
+        "Deadpool & Wolverine",
+        "Spider-Man: Brand New Day",
+        "Avengers: Secret Wars"
+      ]
+    },
+    "keywords": [
+      "Avengers Doomsday trailer",
+      "Avengers Doomsday views",
+      "Avengers Doomsday runtime",
+      "Joe Russo Avengers Doomsday",
+      "Avengers Doomsday release date"
+    ],
+    "images": [
+      {
+        "url": "https://www.joblo.com/wp-content/uploads/2026/11/avengers-doomsday-final-trailer-views.jpg",
+        "caption": "Avengers: Doomsday Final Trailer Breaks Disney Records With Massive Viewership",
+        "source": "JoBlo"
+      }
+    ],
+    "published": "Wed, 25 Nov 2026 01:18:17 +0000"
+  },
+  "nqifzr": {
+    "id": "nqifzr",
+    "type": "news",
+    "headline": "BTS Members V and Jungkook Show Love for Indian Cinema and RRR",
+    "dek": "BTS singers Taehyung and Jungkook recreate the Naatu Naatu dance during ARIRANG concerts, prompting a public shoutout from the official RRR team after V shares his admiration for Indian films.",
+    "body": [
+      {
+        "h": "BTS Members Recreate Naatu Naatu Dance",
+        "p": [
+          "BTS members Jungkook and V have captured public attention by recreating the famous Naatu Naatu choreography during their ARIRANG concerts. Videos of the musical idols performing these high-energy dance routines quickly circulated across social media platforms, thrilling followers globally.",
+          "The energetic performances highlighted the ongoing cultural crossover between South Korean pop music and celebrated Indian cinema. Fans eagerly shared clips of the onstage moments, celebrating the global reach of the Oscar-winning track."
+        ]
+      },
+      {
+        "h": "V Reveals Admiration for Indian Films",
+        "p": [
+          "During a Weverse live session on November 23, BTS singer V, also known as Kim Taehyung, addressed questions regarding his favourite cinematic works. In response to an inquiry from a fan, the artist named 3 Idiots and Dangal as titles he enjoys.",
+          "Furthermore, Taehyung revealed that he had memorized the choreography from RRR. He noted that while there were other Indian films he appreciated, he could not recall their specific names at that exact moment during the live broadcast."
+        ]
+      },
+      {
+        "h": "Official RRR Team Responds on Social Media",
+        "p": [
+          "Following Taehyung's remarks and the viral concert footage, the official social media handle for SS Rajamouli's blockbuster RRR posted a public reaction. On November 24, the account shared a response expressing gratitude to both BTS members.",
+          "The official post celebrated the enduring popularity of the track, stating that the Naatu Naatu fever never stops and thanking Taehyung and Jungkook for their continued love and support for the film."
+        ]
+      },
+      {
+        "h": "Connecting with the Indian Fanbase",
+        "p": [
+          "The recent interactions created significant excitement among Indian BTS fans, frequently referred to as the desi ARMY. Supporters celebrated the members' recurring nods to Indian culture, which included V greeting the fandom with 'Namaste' and wishing them 'Diwali mubarak'.",
+          "These cultural references deepened the connection between the global music band and their massive following in India, turning the streaming sessions and concert moments into major celebratory events online."
+        ]
+      },
+      {
+        "h": "Jungkook's Prior Appreciation in 2023",
+        "p": [
+          "This shared enthusiasm for the Telugu film is not entirely new for the group. Back in 2023, fellow BTS member Jungkook also expressed his fondness for the movie during a separate Weverse live broadcast while sharing his favourite music selections.",
+          "During that earlier stream, Jungkook played Naatu Naatu for his audience, sparking unexpected excitement among Indian viewers. That moment successfully pushed the film to trend at No. 2 on Netflix within South Korea at the time."
+        ]
+      },
+      {
+        "h": "Global Legacy of Naatu Naatu",
+        "p": [
+          "Directed by SS Rajamouli, RRR features a prominent cast including Ram Charan, Jr NTR, Alia Bhatt, Ajay Devgn, and Shriya Saran. The viral phenomenon was composed by MM Keeravani and choreographed by Prem Rakshith.",
+          "The track ultimately achieved historic international acclaim by winning the Academy Award for Best Original Song. This milestone cemented its status as one of the most celebrated musical exports in modern Indian cinema history."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "BTS members Jungkook and V expressed their admiration for Indian films and recreated the Naatu Naatu choreography during ARIRANG concerts. This prompted a public acknowledgment from the official RRR social media account, building upon previous connections established when Jungkook played the track in 2023."
+        ]
+      }
+    ],
+    "facts": [
+      "BTS members Jungkook and V recreated the Naatu Naatu choreography during ARIRANG concerts.",
+      "On November 23, V held a Weverse live session where he mentioned liking 3 Idiots and Dangal.",
+      "On November 24, the official RRR movie social media handle reposted and reacted to the performance.",
+      "Jungkook previously shared his love for Naatu Naatu during a Weverse live in 2023, helping RRR trend at No. 2 on Netflix in South Korea.",
+      "RRR is directed by SS Rajamouli and features Ram Charan, Jr NTR, Alia Bhatt, Ajay Devgn, and Shriya Saran.",
+      "Naatu Naatu was composed by MM Keeravani, choreographed by Prem Rakshith, and won the Academy Award for Best Original Song."
+    ],
+    "entities": {
+      "people": [
+        "V",
+        "Kim Taehyung",
+        "Jungkook",
+        "SS Rajamouli",
+        "Ram Charan",
+        "Jr NTR",
+        "Alia Bhatt",
+        "Ajay Devgn",
+        "Shriya Saran",
+        "MM Keeravani",
+        "Prem Rakshith",
+        "Mimansa Shekhar"
+      ],
+      "titles": [
+        "RRR",
+        "Naatu Naatu",
+        "3 Idiots",
+        "Dangal"
+      ]
+    },
+    "keywords": [
+      "BTS Taehyung RRR Naatu Naatu",
+      "Jungkook Naatu Naatu ARIRANG concert",
+      "Kim Taehyung Weverse live Indian movies",
+      "RRR official Twitter reaction BTS"
+    ],
+    "images": [
+      {
+        "url": "https://images.timesnownews.com/thumb/msid-156558804,thumbsize-684601,width-1280,height-720,resizemode-75/156558804.jpg",
+        "caption": "BTS Members V and Jungkook Show Love for Indian Cinema and RRR",
+        "source": "Times Now — Entertainment"
+      }
+    ],
+    "published": "2026-11-25T01:52:19Z"
+  },
+  "ighamr": {
+    "id": "ighamr",
+    "type": "news",
+    "headline": "Thanksgiving Box Office Preview: Hunger Games Prequel Leads the Holiday Race",
+    "dek": "Lionsgate's latest franchise entry dominates holiday projections alongside new wide releases from Disney and Universal.",
+    "body": [
+      {
+        "h": "The Hunger Games Dominates Thanksgiving",
+        "p": [
+          "Lionsgate's Hunger Games: Sunrise on the Reaping is projected to lead the domestic box office during the Thanksgiving stretch, targeting at least $70M between Wednesday and Sunday according to early industry estimates. The film generated an estimated $16M on Tuesday alone, marking a record for Lionsgate and beating out franchise predecessor Catching Fire.",
+          "The strong Tuesday haul pushes the movie's five-day running total to $148.2M, putting it within striking distance of the lifetime North American earnings of the previous franchise installment. Francis Lawrence directed the feature, which continues to pull massive numbers despite sharing premium screens with limited releases."
+        ]
+      },
+      {
+        "h": "Competition on Premium Screens",
+        "p": [
+          "While the Hunger Games prequel holds the top spot, it yields some AMC IMAX screens to Netflix for a limited run of The Mis-Adventures of Cliff Booth. Directed by David Fincher and written by Quentin Tarantino, the movie stars Brad Pitt and arrives in 250 locations before heading to streaming.",
+          "The Quentin Tarantino-penned sequel holds positive critical scores on Rotten Tomatoes and aims for single-digit millions over its five-day window. Netflix previously experienced similar holiday box office plays with past mystery features."
+        ]
+      },
+      {
+        "h": "Disney's Animated Contender Hexed",
+        "p": [
+          "Walt Disney Animation Studios enters the holiday frame with its original title Hexed, a $200M production centering on a mother and daughter witch duo. Voice work is provided by Rashida Jones and Hailee Steinfeld under the direction of Jason Hand and Fawn Veerasunthorn.",
+          "The animated feature relies on pop hit needle drops rather than original musical numbers, featuring tracks like Dua Lipa's Levitating. Tracking places its domestic five-day debut around $40M or slightly below across 3,725 theaters, accompanied by global forecasts aiming between $35M and $40M."
+        ]
+      },
+      {
+        "h": "Universal Brings Back the Focker Franchise",
+        "p": [
+          "Universal and Paramount co-financier efforts bring Focker-in-Law to theaters, adding pop star Ariana Grande alongside returning comedy veterans Ben Stiller and Robert De Niro. The production carries a $90M net production budget and opens across 3,350 domestic locations.",
+          "The narrative follows Greg Focker's son, Henry, introducing his FBI hostage negotiator girlfriend to the family prior to a planned proposal. Industry projections place the domestic Wednesday-to-Sunday frame around $45M, backed by strong interest from older female demographics."
+        ]
+      },
+      {
+        "h": "Specialized and Expanded Releases",
+        "p": [
+          "Angel Studios introduces the biographical drama Hershey, focusing on Milton Hershey and starring Finn Wittrock alongside Alexandra Daddario. Playing across 2,275 theaters, the faith-and-history-leaning picture eyes a $7M opening following its Thursday bow.",
+          "Meanwhile, Neon expands James Gray's crime drama Paper Tiger from a handful of locations to roughly 1,500 theaters. Starring Adam Driver, Scarlett Johansson, and Miles Teller, the picture targets a $3M to $5M five-day gross following favorable critical reception at Cannes."
+        ]
+      },
+      {
+        "h": "Global Openings and International Comps",
+        "p": [
+          "Global opening forecasts place Disney's Hexed slightly ahead in worldwide totals compared to Focker-in-Law. Both films target competitive international markets spanning Europe, Latin America, and select Asian territories with localized marketing efforts.",
+          "Comedy comparisons for the Focker franchise lean on historical foreign performance from Little Fockers and post-COVID rom-com openers like The Lost City. Western Europe historically remains a primary driver for the comedy series abroad."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "The Thanksgiving box office is led by Lionsgate's Hunger Games: Sunrise on the Reaping, which is eyeing a strong multi-million dollar haul alongside competitive holiday releases including Disney's Hexed and Universal's Focker-in-Law. Additional wide expansions like Paper Tiger and Hershey round out a diverse holiday theatrical marketplace."
+        ]
+      }
+    ],
+    "facts": [
+      "Hunger Games: Sunrise on the Reaping is projected to earn at least $70M between Wednesday and Sunday.",
+      "The film made an estimated $16M on Tuesday.",
+      "The Mis-Adventures of Cliff Booth is booked at 250 locations for a two-week run.",
+      "Hexed is a $200M production from Walt Disney Animation.",
+      "Focker-in-Law carries a $90M net production budget.",
+      "Hershey opens in 2,275 theaters with an estimated $7M opening."
+    ],
+    "entities": {
+      "people": [
+        "Anthony D'Alessandro",
+        "Francis Lawrence",
+        "Brad Pitt",
+        "Quentin Tarantino",
+        "David Fincher",
+        "Ariana Grande",
+        "Ben Stiller",
+        "Robert De Niro",
+        "Skyler Gisondo",
+        "Rashida Jones",
+        "Hailee Steinfeld",
+        "Jason Hand",
+        "Fawn Veerasunthorn",
+        "Dua Lipa",
+        "Finn Wittrock",
+        "Alexandra Daddario",
+        "James Gray",
+        "Adam Driver",
+        "Scarlett Johansson",
+        "Miles Teller"
+      ],
+      "titles": [
+        "Hunger Games: Sunrise on the Reaping",
+        "Catching Fire",
+        "Wicked: For Good",
+        "The Hunger Games: Ballad of Songbirds Snakes",
+        "Once Upon a Time in Hollywood",
+        "The Mis-Adventures of Cliff Booth",
+        "Wake Up Dead Man: A Knives Out Mystery",
+        "Hexed",
+        "Focker-in-Law",
+        "Meet the Parents",
+        "Little Fockers",
+        "Lost City",
+        "Encanto",
+        "Moana 2",
+        "Zootopia 2",
+        "Hoppers",
+        "Elemental",
+        "Wish",
+        "Hershey",
+        "Paper Tiger"
+      ]
+    },
+    "keywords": [
+      "Hunger Games Sunrise on the Reaping",
+      "Focker-in-Law release",
+      "Hexed Disney animation",
+      "Thanksgiving box office"
+    ],
+    "images": [
+      {
+        "url": "https://deadline.com/wp-content/uploads/2026/11/Sunrise-Hexed-Focker.jpg?w=1000",
+        "caption": "Thanksgiving Box Office Preview: Hunger Games Prequel Leads the Holiday Race",
+        "source": "Deadline"
+      }
+    ],
+    "published": "Wed, 25 Nov 2026 01:41:33 +0000"
   }
 };
