@@ -230931,13 +230931,20 @@ window.FA_ARTICLES = {
           "Bano Episode 40 aired on 2026-11-23 on Geo TV. The full episode is available on the channel's official YouTube page.",
           "Watch the full episode here: https://www.youtube.com/watch?v=5X6GID65lwM"
         ]
+      },
+      {
+        "h": "Episode Summary",
+        "p": [
+          "Is episode mein Murtaza apne janoon aur tanaao ki wajah se pareshan rehta hai, jabki Tooba uski tabdeeli par fikrmand"
+        ]
       }
     ],
     "facts": [
       "Bano Episode 40 aired on 2026-11-23.",
       "Channel: Geo TV.",
       "Watch the full episode: https://www.youtube.com/watch?v=5X6GID65lwM",
-      "YouTube views: 110,340."
+      "YouTube views: 110,340.",
+      "Episode summary added 2026-11-25."
     ],
     "entities": {
       "titles": [
@@ -238429,13 +238436,20 @@ window.FA_ARTICLES = {
           "Khushi Episode 73 aired on 2026-11-24 on HUM TV. The full episode is available on the channel's official YouTube page.",
           "Watch the full episode here: https://www.youtube.com/watch?v=Pxu7fEE0gzc"
         ]
+      },
+      {
+        "h": "Episode Summary",
+        "p": [
+          ") woh (15) Hamna (16) aur (17) Laiba (18) ki (19) guftagu (20) secretly (21"
+        ]
       }
     ],
     "facts": [
       "Khushi Episode 73 aired on 2026-11-24.",
       "Channel: HUM TV.",
       "Watch the full episode: https://www.youtube.com/watch?v=Pxu7fEE0gzc",
-      "YouTube views: 202,843."
+      "YouTube views: 202,843.",
+      "Episode summary added 2026-11-25."
     ],
     "entities": {
       "titles": [
@@ -246848,5 +246862,211 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Wed, 25 Nov 2026 12:17:54 +0000"
+  },
+  "12obcuw": {
+    "id": "12obcuw",
+    "type": "news",
+    "headline": "Trade Analyst Sumit Kadel Claims Ramayana Is A Box Office Flop Despite Crossing Rs 1700 Crore Worldwide",
+    "dek": "Despite impressive global figures and massive anticipation, trade analyst Sumit Kadel declares Nitesh Tiwari's mythological epic Ramayana a financial loss due to high breakeven targets and underwhelming Hindi footfalls.",
+    "body": [
+      {
+        "h": "Introduction to the Mythological Epic",
+        "p": [
+          "Directed by Nitesh Tiwari and drawn from Valmiki's Ramayana, the high-profile mythological feature stands out as a major cinematic release for 2026. This project marked Nitesh Tiwari's return to the director's chair after a three-year break.",
+          "The feature boasts a large ensemble cast that includes Ranbir Kapoor, Yash, Sai Pallavi, Anupam Kher, Ravi Dubey, Lara Dutta, Arun Govil, Rakul Preet Singh, and Vivek Oberoi. It also served as Ranbir Kapoor's comeback to the big screen following a three-year absence."
+        ]
+      },
+      {
+        "h": "Box Office Numbers and Global Performance",
+        "p": [
+          "Upon opening, the film encountered a mixed reception from audiences. Nevertheless, according to Sacnilk, the epic generated substantial box office returns, pulling in over Rs 900 crore across India in a span of 20 days.",
+          "Beyond domestic borders, the feature crossed Rs 575 crore internationally and surpassed a worldwide gross of Rs 1700 crore, standing alongside major theatrical releases such as Jawan, Dhurandhar 2, and Pushpa 2."
+        ]
+      },
+      {
+        "h": "The Controversy Over Financial Viability",
+        "p": [
+          "Despite the prominent figures reported on paper, notable trade analyst Sumit Kadel expressed a contrary view regarding the film's financial health. Via social media, Kadel asserted that the feature is a box office flop.",
+          "The analyst pointed out that the collection totals remain significantly distant from the substantial breakeven requirement of Rs 2500 crore. Consequently, the high earnings on paper have not translated into actual profitability."
+        ]
+      },
+      {
+        "h": "Analysis of Ticket Prices and Footfalls",
+        "p": [
+          "Sumit Kadel highlighted that the impressive numbers on paper were bolstered by the highest average ticket prices ever recorded, reaching Rs 400. Even with elevated ticket pricing, theatrical recovery has fallen short.",
+          "Furthermore, the footfalls for the Hindi version of the movie proved disappointing. Kadel noted that the Hindi viewership is projected to conclude between 2.30 and 2.40 crore, trailing behind recent blockbusters like Jawan, Gadar 2, Pathaan, and the Dhurandhar franchise, which all exceeded 3 crore footfalls."
+        ]
+      },
+      {
+        "h": "Performance of Dubbed and Regional Versions",
+        "p": [
+          "While the primary Hindi version faced challenges regarding footfalls, the dubbed versions offered supportive financial results. Distributors operating in Malayalam, Tamil, and Kerala markets managed to secure profits from the regional releases.",
+          "These regional contributions provided a degree of stability, though they remained insufficient to offset the heavy financial burden of the overall production and its steep breakeven targets."
+        ]
+      },
+      {
+        "h": "Lifetime Collection Predictions and Overseas Setbacks",
+        "p": [
+          "Looking ahead at the anticipated trajectory, Kadel's lifetime collection prediction estimates an approximate gross of Rs 1100 crore. This figure comprises an expected Rs 750 crore nett for the Hindi version alongside Rs 200 crore from dubbed editions.",
+          "Additionally, the overseas run is projected to conclude around Rs 650 crore, bringing the anticipated worldwide total to Rs 1750 crore. Global momentum faced an added hurdle when the film was pulled from 800 theatres in the United States during its third week following weak performances."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Trade analyst Sumit Kadel has claimed that Nitesh Tiwari's Ramayana is a box office flop despite crossing Rs 1700 crore worldwide and earning over Rs 900 crore in India within 20 days. The analyst cited high ticket prices, a steep breakeven target of Rs 2500 crore, and lower Hindi version footfalls compared to recent hits as the primary reasons for the financial shortfall."
+        ]
+      }
+    ],
+    "facts": [
+      "Ramayana is directed by Nitesh Tiwari and based on Valmiki's Ramayana.",
+      "The film's cast includes Ranbir Kapoor, Yash, Sai Pallavi, Anupam Kher, Ravi Dubey, Lara Dutta, Arun Govil, Rakul Preet Singh, and Vivek Oberoi.",
+      "Sacnilk reported that Ramayana earned over Rs 900 crore in 20 days in India.",
+      "The movie crossed Rs 575 crore in overseas markets and Rs 1700 crore worldwide.",
+      "Sumit Kadel stated the film's breakeven point is Rs 2500 crore.",
+      "Average ticket prices for the film reached Rs 400.",
+      "The Hindi version's footfalls are expected to finish around 2.30 to 2.40 crore.",
+      "Lifetime collection is predicted to be around Rs 1100 crore gross, including Rs 750 crore nett for Hindi and Rs 200 crore for dubbed versions.",
+      "Overseas lifetime collection is predicted to reach Rs 650 crore, with a worldwide prediction of Rs 1750 crore.",
+      "The film was pulled down from 800 theatres in the US during its third week."
+    ],
+    "entities": {
+      "people": [
+        "Nitesh Tiwari",
+        "Ranbir Kapoor",
+        "Yash",
+        "Sai Pallavi",
+        "Anupam Kher",
+        "Ravi Dubey",
+        "Lara Dutta",
+        "Arun Govil",
+        "Rakul Preet Singh",
+        "Vivek Oberoi",
+        "Sumit Kadel"
+      ],
+      "titles": [
+        "Ramayana",
+        "Jawan",
+        "Dhurandhar 2",
+        "Pushpa 2",
+        "Pathaan",
+        "Gadar 2",
+        "Dhurandhar"
+      ]
+    },
+    "keywords": [
+      "Ramayana box office collection",
+      "Sumit Kadel Ramayana flop",
+      "Ranbir Kapoor Ramayana movie",
+      "Ramayana worldwide collection"
+    ],
+    "images": [
+      {
+        "url": "https://images.filmibeat.com/img/2026/11/ramayanasumitfeature-24781795613112.jpg",
+        "caption": "Trade Analyst Sumit Kadel Claims Ramayana Is A Box Office Flop Despite Crossing Rs 1700 Crore Worldwide",
+        "source": "FilmiBeat"
+      }
+    ],
+    "published": "Wed, 25 Nov 2026 18:57:11 +0530"
+  },
+  "l7ufyi": {
+    "id": "l7ufyi",
+    "type": "news",
+    "headline": "Dulquer Salmaan's Aakasamlo Oka Tara Approaches Rs 6 Crore Milestone in Kerala",
+    "dek": "The Telugu movie starring Dulquer Salmaan maintains steady working-day numbers in Kerala, nearing a fresh box office milestone on its sixth day.",
+    "body": [
+      {
+        "h": "The Box Office Journey",
+        "p": [
+          "The Telugu film Aakasamlo Oka Tara is continuing a strong theatrical run within the state of Kerala. Demonstrating a relatively stable performance through the initial working days following its debut, the feature is steadily moving toward its next major box office milestone on its sixth day in cinemas."
+        ]
+      },
+      {
+        "h": "Opening Weekend Performance",
+        "p": [
+          "According to reports from box office tracker Jerin Georgekutty, the project accumulated a total gross of Rs 5.25 crore in Kerala throughout its first five days. The release began with an opening collection of Rs 59 lakh on Friday, November 20, before experiencing noticeable growth over the subsequent weekend.",
+          "The day-by-day trajectory displayed a distinct upward trend across the opening three days. The production brought in Rs 1.13 crore on Saturday and reached its peak single-day gross of Rs 1.63 crore on Sunday."
+        ]
+      },
+      {
+        "h": "Weekday Stability",
+        "p": [
+          "Following the high-grossing weekend, the numbers adjusted downward during the early part of the week. The feature registered Rs 98 lakh on Monday, followed closely by Rs 92 lakh on Tuesday.",
+          "Even with the post-weekend dip, maintaining collections right around the Rs 1 crore threshold on the first two working days indicates a solid hold among audiences in the region."
+        ]
+      },
+      {
+        "h": "Milestone Projections",
+        "p": [
+          "With the five-day cumulative gross resting at Rs 5.25 crore, the picture requires an additional Rs 75 lakh to attain the Rs 6 crore mark. Market trackers anticipate that the film will successfully surpass this total on Wednesday, November 25, marking its sixth theatrical day.",
+          "Ultimately, achieving this target depends upon the performance and turnout across the remaining shows scheduled for the day."
+        ]
+      },
+      {
+        "h": "Actor Milestones and Rankings",
+        "p": [
+          "This latest commercial performance successfully establishes Aakasamlo Oka Tara as a prominent non-Malayalam release for its leading man within the state. Data indicates it has secured its place as Dulquer Salmaan's third-highest-grossing non-Malayalam project in Kerala.",
+          "The film currently trails behind only Lucky Baskhar and Sita Ramam in terms of regional non-Malayalam collections for the actor."
+        ]
+      },
+      {
+        "h": "Cast and Crew Details",
+        "p": [
+          "Aakasamlo Oka Tara is directed by Pavan Sadineni and stars Dulquer Salmaan alongside Satvika Veeravalli in the primary lead roles. The project also features an appearance by Shruti Haasan.",
+          "Production duties were managed by Sandeep Gunnam and Ramya Gunnam under Lightbox Media, with presentation handled by Swapna Cinema and Geetha Arts. The storyline is credited to Pavan Sadineni and Vasanth Jurru, with screenplay contributions by Gunnam Gangaraju and additional screenplay work by Vasanth Jurru. The creative crew includes G. V. Prakash Kumar as music composer, Sujith Sarang as cinematographer, and Praveen KL as editor."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Dulquer Salmaan's Telugu movie Aakasamlo Oka Tara has grossed Rs 5.25 crore in Kerala over its first five days and is projected to cross the Rs 6 crore mark on its sixth day. Directed by Pavan Sadineni, the feature has become the actor's third-highest-grossing non-Malayalam release in the state behind Lucky Baskhar and Sita Ramam."
+        ]
+      }
+    ],
+    "facts": [
+      "Aakasamlo Oka Tara released on Friday, November 20, 2026.",
+      "Day 1 collection was Rs 59 lakh.",
+      "Day 2 collection was Rs 1.13 crore.",
+      "Day 3 collection was Rs 1.63 crore.",
+      "Day 4 collection was Rs 98 lakh.",
+      "Day 5 collection was Rs 92 lakh.",
+      "Total five-day gross reached Rs 5.25 crore.",
+      "The film is projected to cross the Rs 6 crore mark on Wednesday, November 25, 2026."
+    ],
+    "entities": {
+      "people": [
+        "Dulquer Salmaan",
+        "Pavan Sadineni",
+        "Jerin Georgekutty",
+        "Satvika Veeravalli",
+        "Shruti Haasan",
+        "Sandeep Gunnam",
+        "Ramya Gunnam",
+        "Vasanth Jurru",
+        "Gunnam Gangaraju",
+        "G. V. Prakash Kumar",
+        "Sujith Sarang",
+        "Praveen KL"
+      ],
+      "titles": [
+        "Aakasamlo Oka Tara",
+        "Lucky Baskhar",
+        "Sita Ramam"
+      ]
+    },
+    "keywords": [
+      "Aakasamlo Oka Tara Kerala box office",
+      "Dulquer Salmaan Aakasamlo Oka Tara collection",
+      "Aakasamlo Oka Tara day 6 collection",
+      "Aakasamlo Oka Tara box office prediction"
+    ],
+    "images": [
+      {
+        "url": "https://images.filmibeat.com/img/2026/11/aakasamlookatara-36491795612175.jpg",
+        "caption": "Dulquer Salmaan's Aakasamlo Oka Tara Approaches Rs 6 Crore Milestone in Kerala",
+        "source": "FilmiBeat"
+      }
+    ],
+    "published": "Wed, 25 Nov 2026 18:40:18 +0530"
   }
 };
