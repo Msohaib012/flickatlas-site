@@ -215233,10 +215233,10 @@ window.FA_ARTICLES = {
       ]
     },
     "keywords": [
-      "Ramayana box office collection",
-      "Ramayana Day 17",
-      "Ranbir Kapoor Yash film",
-      "Nitesh Tiwari Ramayana"
+      "Ramayana box office Day 17 Ranbir Kapoor",
+      "Ramayana crosses 900 crore",
+      "Ramayana Nitesh Tiwari box office jump",
+      "Ranbir Kapoor Yash Ramayana third Saturday"
     ],
     "images": [
       {
@@ -215338,10 +215338,10 @@ window.FA_ARTICLES = {
       ]
     },
     "keywords": [
+      "Suriya 2026 films triple success",
       "Suriya Karuppu Vishwanath Sons Scene",
-      "Suriya box office success 2026",
-      "Scene movie Jithu Madhavan Naslen",
-      "Suriya Instagram message fans Nandri My Dear All"
+      "Suriya triple success 2026",
+      "Suriya gratitude to fans"
     ],
     "images": [
       {
@@ -215441,10 +215441,10 @@ window.FA_ARTICLES = {
       ]
     },
     "keywords": [
-      "The Law of Beasts",
-      "The Law of Beasts Netflix",
-      "Mariusz Trynkiewicz true story",
-      "Agnieszka Grochowska The Law of Beasts"
+      "The Law of Beasts Netflix Polish series",
+      "The Law of Beasts crime thriller",
+      "The Law of Beasts Netflix premiere",
+      "The Law of Beasts miniseries"
     ],
     "images": [
       {
@@ -215548,9 +215548,9 @@ window.FA_ARTICLES = {
     },
     "keywords": [
       "Tiger Shroff Global Peace Honours 2026",
-      "Tiger Shroff firing incident",
-      "Lag Jaa Gale film",
-      "Tiger Shroff Janhvi Kapoor"
+      "Tiger Shroff public appearance Mumbai",
+      "Tiger Shroff opening performer Global Peace Honours",
+      "Tiger Shroff after firing incident"
     ],
     "images": [
       {
@@ -215637,10 +215637,10 @@ window.FA_ARTICLES = {
       "titles": []
     },
     "keywords": [
-      "Ranveer Singh Sachin Tendulkar",
-      "Global Peace Honours 2026",
-      "Divyaj Foundation Mumbai",
-      "Gateway of India event"
+      "Ranveer Singh Sachin Tendulkar Global Peace Honours",
+      "Ranveer Singh tribute Sachin Tendulkar",
+      "Global Peace Honours 2026 Mumbai",
+      "Ranveer Singh Sachin Tendulkar Mumbai"
     ],
     "images": [
       {
@@ -215738,10 +215738,10 @@ window.FA_ARTICLES = {
       ]
     },
     "keywords": [
-      "The Blue Road",
-      "Son Suk Ku",
-      "Nagayama Eita",
-      "The Blue Road Netflix"
+      "The Blue Road Netflix Korea No 1",
+      "Son Suk Ku Nagayama Eita The Blue Road",
+      "The Blue Road crime thriller series",
+      "The Blue Road Netflix South Korea"
     ],
     "images": [
       {
@@ -215955,10 +215955,10 @@ window.FA_ARTICLES = {
       ]
     },
     "keywords": [
-      "OM Operation Mole box office collection",
-      "Dhanush Mammootty Sai Pallavi film",
-      "OM Operation Mole day 2 collection",
-      "Amaran box office comparison"
+      "OM Operation Mole box office Day 2",
+      "Dhanush Mammootty OM Operation Mole",
+      "OM Operation Mole worldwide collection",
+      "OM Operation Mole box office earnings"
     ],
     "images": [
       {
@@ -216061,10 +216061,10 @@ window.FA_ARTICLES = {
       ]
     },
     "keywords": [
-      "Ramayana Rise of a Legend box office",
-      "Ramayana Day 17 collection",
-      "Ranbir Kapoor Ramayana collection",
-      "Ramayana vs KGF Chapter 2"
+      "Ramayana Rise of a Legend box office Day 17",
+      "Ranbir Kapoor Sai Pallavi Ramayana collection",
+      "Ramayana Rise of a Legend Rs 27.40 crore",
+      "Ramayana Rise of a Legend seventeenth day"
     ],
     "images": [
       {
@@ -216148,10 +216148,10 @@ window.FA_ARTICLES = {
       ]
     },
     "keywords": [
-      "Yellowjackets creators",
-      "Yellowjackets Season 4",
-      "Ashley Lyle Bart Nickerson",
-      "Yellowjackets final season"
+      "Yellowjackets Season 4 end series",
+      "Ashley Lyle Bart Nickerson Yellowjackets",
+      "Yellowjackets final season creators",
+      "Yellowjackets Season 4 creators"
     ],
     "images": [
       {
@@ -216250,10 +216250,10 @@ window.FA_ARTICLES = {
       ]
     },
     "keywords": [
-      "Frozen streaming Disney Plus",
-      "Frozen 3 release date",
-      "Disney animated movies streaming",
-      "Frozen box office collection"
+      "Frozen streaming charts Disney hit",
+      "Disney Frozen global streaming",
+      "Frozen billion dollar box office",
+      "Frozen streaming charts worldwide"
     ],
     "images": [
       {
@@ -216349,10 +216349,10 @@ window.FA_ARTICLES = {
       ]
     },
     "keywords": [
-      "Home Alone sequel",
-      "Macaulay Culkin Home Alone",
-      "Seth Rogen Evan Goldberg",
-      "Disney Home Alone movie"
+      "Macaulay Culkin Home Alone sequel Disney",
+      "Seth Rogen Evan Goldberg Home Alone",
+      "Home Alone new movie Disney",
+      "Macaulay Culkin Seth Rogen movie"
     ],
     "images": [
       {
@@ -216452,10 +216452,10 @@ window.FA_ARTICLES = {
       ]
     },
     "keywords": [
-      "Shah Rukh Khan King",
-      "King movie trailer",
-      "Siddharth Anand King",
-      "Suhana Khan King film"
+      "Shah Rukh Khan King trailer December",
+      "King movie trailer release date",
+      "Shah Rukh Khan Siddharth Anand King",
+      "King movie release date Christmas"
     ],
     "images": [
       {
@@ -216554,10 +216554,10 @@ window.FA_ARTICLES = {
       ]
     },
     "keywords": [
-      "TNAGR",
-      "OUI Entertainment boy group",
-      "TNAGR members debut",
-      "WEi agency new group"
+      "TNAGR boy group OUI Entertainment",
+      "TNAGR Teenager logo motion",
+      "OUI Entertainment new boy group",
+      "TNAGR and WEi label"
     ],
     "images": [],
     "published": "Sat, 21 Nov 2026 22:46:00 EST"
@@ -216652,10 +216652,10 @@ window.FA_ARTICLES = {
       ]
     },
     "keywords": [
-      "Avengers Doomsday",
-      "Avengers Doomsday advance booking",
-      "Robert Downey Jr Dr Doom",
-      "Avengers Doomsday box office India"
+      "Avengers Doomsday advance booking India",
+      "Avengers Doomsday ticket sales",
+      "Robert Downey Jr Avengers Doomsday",
+      "Avengers Doomsday Rs 47 crore"
     ],
     "images": [
       {
@@ -216753,10 +216753,10 @@ window.FA_ARTICLES = {
       ]
     },
     "keywords": [
+      "BioShock movie Netflix Francis Lawrence",
+      "Francis Lawrence BioShock update",
       "Netflix BioShock adaptation",
-      "Francis Lawrence BioShock movie",
-      "BioShock live action Netflix",
-      "BioShock video game movie"
+      "BioShock live action movie"
     ],
     "images": [
       {
@@ -243006,5 +243006,352 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Wed, 25 Nov 2026 02:10:40 +0000"
+  },
+  "1x6mkyi": {
+    "id": "1x6mkyi",
+    "type": "news",
+    "headline": "The Glory Stars Lim Ji-Yeon and Lee Do-Hyun Break Up After Three Years Together",
+    "dek": "Korean entertainment industry couple Lim Ji-yeon and Lee Do-hyun have ended their three-year relationship, with both actors' agencies confirming the separation.",
+    "body": [
+      {
+        "h": "Agency Confirmation of the Split",
+        "p": [
+          "Representatives for both Lim Ji-yeon and Lee Do-hyun officially verified that the pair have recently separated after dating for three years. Artist Company, representing Lim, confirmed the breakup to OSEN and stated that the two have chosen to remain supportive colleagues moving forward. YH Entertainment, managing Lee, also corroborated the separation.",
+          "Neither management agency provided specific details regarding the exact timeline or the underlying reasons for the split. Both companies cited the personal nature of the actors' private lives and requested understanding from supporters and the media."
+        ]
+      },
+      {
+        "h": "Romance Blossomed on The Glory Set",
+        "p": [
+          "The former couple first crossed paths while working on the popular Netflix revenge drama series The Glory, which debuted in 2022. The production featured Song Hye-kyo as a survivor of school bullying who seeks retribution against a ruthless adversary portrayed by Lim Ji-yeon, while Lee Do-hyun appeared as a plastic surgeon assisting in the revenge plot.",
+          "In April 2023, the actors surprised followers when their respective agencies acknowledged they were romantically involved. They transitioned from workplace colleagues to developing genuine affection, quickly establishing themselves as one of the most prominent couples in the Korean entertainment scene despite playing opposing characters on screen."
+        ]
+      },
+      {
+        "h": "Navigating Military Service and Public Attention",
+        "p": [
+          "Throughout their three years together, the duo maintained their connection despite demanding entertainment schedules and external disruptions. In August 2023, Lee Do-hyun entered his mandatory military service, yet the pair sustained their relationship until he completed his duties in May 2025.",
+          "The couple frequently drew media attention through public displays of support and mentions at industry events and interviews. Most recently, they were spotted playing golf together during the summer of 2026, which continued to fuel romance discussions prior to the official announcement of their separation."
+        ]
+      },
+      {
+        "h": "Fan Reactions and Emotional Disbelief",
+        "p": [
+          "The sudden announcement of the breakup generated an outpouring of sadness and shock across social media platforms. Many admirers expressed deep disappointment, noting they had anticipated the relationship would eventually progress toward marriage.",
+          "Followers shared various reactions, ranging from mourning the loss of a favorite celebrity pairing to expressing surprise over the fragility of high-profile romances. Many emphasized how the couple had successfully weathered long-distance challenges during military enlistment, making the split even more unexpected."
+        ]
+      },
+      {
+        "h": "Individual Career Highlights",
+        "p": [
+          "Lim Ji-yeon has continued to expand her acting portfolio, recently appearing in the Netflix drama My Royal Nemesis earlier in the year. Her diverse television roles have consistently maintained her strong presence in the industry.",
+          "Meanwhile, Lee Do-hyun has secured major acting roles following his return from military service. He is slated to star as the lead in the upcoming television project Grand Galaxy Hotel."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Actors Lim Ji-yeon and Lee Do-hyun have ended their three-year relationship after first meeting on the set of The Glory. Both of their agencies confirmed the separation on November 24, noting that the two will remain supportive colleagues."
+        ]
+      }
+    ],
+    "facts": [
+      "Lim Ji-yeon and Lee Do-hyun broke up after three years of dating.",
+      "Agencies confirmed the separation on November 24.",
+      "The couple met on the set of Netflix's The Glory, which premiered in 2022.",
+      "Their relationship was publicly confirmed in April 2023.",
+      "Lee Do-hyun enlisted for mandatory military service in August 2023 and completed it in May 2025.",
+      "The pair were spotted playing golf together in the summer of 2026."
+    ],
+    "entities": {
+      "people": [
+        "Lim Ji-yeon",
+        "Lee Do-hyun",
+        "Song Hye-kyo"
+      ],
+      "titles": [
+        "The Glory",
+        "My Royal Nemesis",
+        "Grand Galaxy Hotel"
+      ]
+    },
+    "keywords": [
+      "Lim Ji-yeon",
+      "Lee Do-hyun",
+      "The Glory",
+      "Lim Ji-yeon Lee Do-hyun break up",
+      "Korean celebrity break up"
+    ],
+    "images": [
+      {
+        "url": "https://images.timesnownews.com/thumb/msid-156559125,thumbsize-827032,width-1280,height-720,resizemode-75/156559125.jpg",
+        "caption": "The Glory Stars Lim Ji-Yeon and Lee Do-Hyun Break Up After Three Years Together",
+        "source": "Times Now — Entertainment"
+      }
+    ],
+    "published": "2026-11-25T03:51:36Z"
+  },
+  "bzlo8i": {
+    "id": "bzlo8i",
+    "type": "news",
+    "headline": "HBO Max Breathes New Life Into Bob Odenkirk Action Vehicle Normal",
+    "dek": "Bob Odenkirk continues his unexpected trajectory as a screen action hero as his thriller Normal finds a fresh streaming home on HBO Max following earlier cinematic releases.",
+    "body": [
+      {
+        "h": "The Evolution of an Action Star",
+        "p": [
+          "Bob Odenkirk has achieved a rare career transformation, stepping away from dramatic and comedic roots to establish himself as a credible leading man in high-octane action cinema. Having achieved worldwide recognition through his celebrated television work in Breaking Bad and its spin-off Better Call Saul, the performer surprised audiences when he took on the gritty persona of Hutch in the feature film Nobody.",
+          "That initial cinematic venture showcased precise choreography, sharp staging, and a stoic lead performance that resonated with viewers. While a subsequent sequel directed by Timo Tjahjanto encountered a more challenging box office run, Odenkirk maintained his momentum by collaborating once again with writer Derek Kolstad on another rugged genre project titled Normal."
+        ]
+      },
+      {
+        "h": "Entering the Snowy Town of Normal",
+        "p": [
+          "In Normal, the narrative centers around a weary lawman named Ulysses who accepts a temporary assignment as interim sheriff in a quiet, snowbound community. Seeking a peaceful retreat from the heavy pressures of his past, the protagonist hopes for a straightforward period of rest and routine in a seemingly idyllic setting.",
+          "Those peaceful expectations are abruptly shattered when two amateur criminals attempt to rob the local bank. The botched robbery accidentally exposes a massive underground vault containing hidden illicit gold bullion, plunging the community into immediate chaos and upending the quiet atmosphere."
+        ]
+      },
+      {
+        "h": "Uncovering a Deep Conspiracy",
+        "p": [
+          "As Ulysses investigates the unfolding situation, he uncovers a shocking conspiracy that reaches every corner of the peaceful village. From the seemingly friendly mayor and local deputies to ordinary neighbors, the entire population is secretly on the payroll of the Japanese Yakuza.",
+          "Trapped and heavily compromised, the armed townsfolk quickly turn against their new lawman. This betrayal forces Ulysses into a relentless and brutal fight for survival across the freezing, snow-soaked landscape."
+        ]
+      },
+      {
+        "h": "Creative Collaborations Behind the Scenes",
+        "p": [
+          "The creative DNA of Normal heavily draws upon the expertise of writer Derek Kolstad, who previously helped shape the modern action genre through his work on the John Wick franchise. Kolstad's signature style blends meticulous tactical confrontations with weary, resilient protagonists pushed to their absolute limits.",
+          "By teaming up with Odenkirk for a second major project, the creative partnership aimed to replicate the grounded intensity that made their previous ventures stand out. The resulting picture leans heavily into isolated settings, forcing its hero to rely entirely on instincts rather than advanced gadgetry."
+        ]
+      },
+      {
+        "h": "Streaming Platform Revival on HBO Max",
+        "p": [
+          "The announcement that HBO Max is officially bringing Normal to its platform marks an important milestone for the action thriller. Streaming distribution provides a valuable second window for genre films to find appreciative audiences who may have missed theatrical runs or home video debuts.",
+          "With HBO Max now featuring the title, subscribers have easy access to the actor's ongoing exploration of physical, rugged storytelling. This digital availability ensures that the hard-boiled thriller can reach a broader demographic of action enthusiasts."
+        ]
+      },
+      {
+        "h": "Legacy and Future of Odenkirk's Action Journey",
+        "p": [
+          "The trajectory from television lawyer to ruthless on-screen protector represents a fascinating chapter in modern Hollywood casting. Projects like Normal solidify the performer's commitment to gritty, character-driven storytelling within the action sphere.",
+          "While future cinematic expansions for certain franchises remain uncertain, the robust streaming life of his recent filmography demonstrates sustained public interest. Odenkirk continues to prove that unexpected casting choices can yield compelling results in contemporary cinema."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "HBO Max has officially given a new streaming lease of life to Bob Odenkirk's action thriller Normal, where he stars as a weary sheriff trapped in a corrupt snowbound town. Written alongside Derek Kolstad, the film expands the actor's established career as an action lead following his earlier breakout success in the genre."
+        ]
+      }
+    ],
+    "facts": [
+      "Bob Odenkirk starred in Breaking Bad and Better Call Saul.",
+      "Derek Kolstad co-wrote Normal with Bob Odenkirk.",
+      "Henry Winkler plays the friendly mayor in Normal.",
+      "HBO Max is the streaming platform reviving Normal."
+    ],
+    "entities": {
+      "people": [
+        "Bob Odenkirk",
+        "Derek Kolstad",
+        "Ilya Naishuller",
+        "Timo Tjahjanto",
+        "Henry Winkler",
+        "Shrishty Mishra",
+        "Ryan Gosling"
+      ],
+      "titles": [
+        "Breaking Bad",
+        "Better Call Saul",
+        "Nobody",
+        "Nobody 2",
+        "Normal",
+        "John Wick",
+        "La La Land"
+      ]
+    },
+    "keywords": [
+      "Bob Odenkirk Normal",
+      "HBO Max Normal streaming",
+      "Normal film Derek Kolstad",
+      "Bob Odenkirk action movies"
+    ],
+    "images": [
+      {
+        "url": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/02/hbo-max-logo-featured.jpg?w=1600&amp;h=900&amp;fit=crop",
+        "caption": "HBO Max Breathes New Life Into Bob Odenkirk Action Vehicle Normal",
+        "source": "Collider"
+      }
+    ],
+    "published": "Wed, 25 Nov 2026 02:45:12 GMT"
+  },
+  "feupkc": {
+    "id": "feupkc",
+    "type": "news",
+    "headline": "Shreya Ghoshal Welcomes Rapper Badshah As A Brother During Bengaluru Concert",
+    "dek": "During the Bengaluru leg of her The Unstoppable Tour, singer Shreya Ghoshal surprised her fans by bringing out rapper Badshah for an unforgettable live performance.",
+    "body": [
+      {
+        "h": "Surprise Stage Appearance",
+        "p": [
+          "Concertgoers attending the Bengaluru stop of Shreya Ghoshal's live tour experienced an unexpected highlight when rapper Badshah walked out onto the stage. The surprise appearance electrified the arena, instantly generating massive cheers from the crowd.",
+          "The unannounced guest spot was one of the major highlights of the evening, seamlessly blending playback singing with contemporary rap music."
+        ]
+      },
+      {
+        "h": "First Live Performance of Mahiya",
+        "p": [
+          "The primary catalyst for the on-stage reunion was the release of 'Mahiya', which stands as the very first studio collaboration between the two acclaimed artists. Bringing the track to life, the musicians performed the song together for a live audience for the very first time.",
+          "The energetic delivery of their recent musical project created an electric atmosphere inside the venue, delighting music lovers present at the concert."
+        ]
+      },
+      {
+        "h": "A Heartwarming Bond",
+        "p": [
+          "Addressing the crowd, Ghoshal reflected on her friendship with the rapper and shared how they had first crossed paths while working on the sets of Indian Idol. She expressed immense fondness for her colleague, describing him as a brother she never knew she had and praising his golden heart.",
+          "In a lighter vein, the vocalist humorously teased the performer by noting that while he portrays a tough persona on stage, he is genuinely a pookie and a princess at heart."
+        ]
+      },
+      {
+        "h": "Badshah Reflects on Two Decades in Music",
+        "p": [
+          "Deeply touched by the welcoming reception and the affectionate words from Ghoshal, Badshah took a moment to look back on his extensive career in the entertainment industry. He noted that he has spent roughly two decades, amounting to about 7,300 days, creating music.",
+          "The rapper shared with the audience that his primary motivation throughout those years has always been simply to earn recognition as a true musician."
+        ]
+      },
+      {
+        "h": "Gratitude and Camaraderie",
+        "p": [
+          "Continuing his emotional address, the artist thanked his fellow performer for validating his journey and welcoming him onto the stage. He mentioned that the gesture provided validation to the dreams he held when he was just a kid starting out.",
+          "The heartfelt speech concluded with a warm embrace between the two artists, showcasing genuine mutual respect and profound professional camaraderie."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Shreya Ghoshal welcomed rapper Badshah as a surprise guest during her Bengaluru concert on The Unstoppable Tour, where they performed their first collaboration 'Mahiya'. Ghoshal praised Badshah as a brother with a golden heart, while the rapper expressed gratitude for being recognized as a musician after two decades in the industry."
+        ]
+      }
+    ],
+    "facts": [
+      "Shreya Ghoshal called Badshah a brother I never knew I had during a Bengaluru concert.",
+      "The event was part of Shreya Ghoshal's 'The Unstoppable Tour'.",
+      "The pair performed their first-ever studio collaboration titled 'Mahiya'.",
+      "Ghoshal and Badshah first met on the sets of 'Indian Idol'.",
+      "Badshah has been making music for nearly 20 years, spanning roughly 7,300 days.",
+      "The report was published on November 23, 2026."
+    ],
+    "entities": {
+      "people": [
+        "Shreya Ghoshal",
+        "Badshah"
+      ],
+      "titles": [
+        "Mahiya",
+        "The Unstoppable Tour",
+        "Indian Idol"
+      ]
+    },
+    "keywords": [
+      "Shreya Ghoshal Badshah Bengaluru concert",
+      "Shreya Ghoshal The Unstoppable Tour",
+      "Badshah Mahiya collaboration",
+      "Shreya Ghoshal Badshah brother"
+    ],
+    "images": [
+      {
+        "url": "https://cdn-english.zeenews.com/sites/default/files/2026/11/23/7343-shreya-ghoshal-badshah.jpg",
+        "caption": "Shreya Ghoshal Welcomes Rapper Badshah As A Brother During Bengaluru Concert",
+        "source": "Zee News — Entertainment"
+      }
+    ],
+    "published": "2026-11-25T03:51:36Z"
+  },
+  "1bflqwy": {
+    "id": "1bflqwy",
+    "type": "news",
+    "headline": "Choi Hyun Wook and Jung Chaeyeon Confirmed to Star in ENA Romance Drama Green Light",
+    "dek": "Choi Hyun Wook and Jung Chaeyeon will headline ENA's upcoming romance drama Green Light, set in 1997 and scheduled to premiere in the second half of 2027.",
+    "body": [
+      {
+        "h": "Official Casting Announcement",
+        "p": [
+          "Choi Hyun Wook and Jung Chaeyeon have officially been confirmed as the lead actors for an upcoming ENA romance drama titled Green Light. The production brings the two stars together for a nostalgic coming-of-age story.",
+          "The television series is slated to make its official premiere in the second half of 2027, drawing attention from fans looking forward to a fresh pairing."
+        ]
+      },
+      {
+        "h": "Plot and Setting in 1997",
+        "p": [
+          "Set against the backdrop of 1997, the narrative follows young individuals who display courage despite their inexperience in life and romance. The story aims to evoke memories of first loves and the unique excitement of budding relationships during that era.",
+          "The overarching theme plays on the dual meaning of a green light, signifying a base runner's autonomy to steal a base in baseball and a signal of mutual interest in romance."
+        ]
+      },
+      {
+        "h": "Kang Tae Yang Character Profile",
+        "p": [
+          "Choi Hyun Wook portrays Kang Tae Yang, a first-year law student at Hankuk University and a pitcher for the institution's baseball team. Previously a top-tier high school pitcher who excelled in national tournaments, his character is characterized as optimistic, loyal, and straightforward.",
+          "Driven primarily by his desire to pursue his first love, Song Ji Woo, he enters law school and navigates unexpected campus challenges, such as struggling with Chinese characters in his textbooks."
+        ]
+      },
+      {
+        "h": "Song Ji Woo Character Profile",
+        "p": [
+          "Jung Chaeyeon takes on the role of Song Ji Woo, a second-year law student at Hankuk University widely recognized as everyone's first love. She is depicted as bright, confident, and strong-willed in defending her beliefs.",
+          "Beneath her cheerful public persona, she hides deep anxieties and views the study of law as her only protection, leading her to reunite with Kang Tae Yang and confront buried feelings."
+        ]
+      },
+      {
+        "h": "Actor Backgrounds and Statements",
+        "p": [
+          "Choi Hyun Wook brings personal athletic experience to his role, having played baseball himself until his freshman year of high school. He expressed excitement about tackling a new character and showcasing a different facet of his acting.",
+          "Jung Chaeyeon shared her enthusiasm for starring in a heartwarming project set in the 1990s, noting her long-held desire to work in a coming-of-age drama from that era."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Choi Hyun Wook and Jung Chaeyeon are officially cast in ENA's upcoming romance drama Green Light, set in the year 1997. The series is scheduled for a premiere in the second half of 2027 and follows a former high school baseball pitcher pursuing his first love at Hankuk University."
+        ]
+      }
+    ],
+    "facts": [
+      "Choi Hyun Wook and Jung Chaeyeon will star in Green Light.",
+      "Green Light is an ENA drama set in 1997.",
+      "The drama is scheduled to premiere in the second half of 2027.",
+      "Choi Hyun Wook plays Kang Tae Yang, a first-year law student and baseball pitcher at Hankuk University.",
+      "Jung Chaeyeon plays Song Ji Woo, a second-year law student at Hankuk University.",
+      "Choi Hyun Wook played baseball until his freshman year of high school."
+    ],
+    "entities": {
+      "people": [
+        "Choi Hyun Wook",
+        "Jung Chaeyeon",
+        "Kang Tae Yang",
+        "Song Ji Woo",
+        "R Suhaila"
+      ],
+      "titles": [
+        "Green Light",
+        "Twinkling Watermelon",
+        "Family by Choice"
+      ]
+    },
+    "keywords": [
+      "Green Light drama",
+      "Choi Hyun Wook Green Light",
+      "Jung Chaeyeon Green Light",
+      "ENA Green Light 2027"
+    ],
+    "images": [
+      {
+        "url": "https://0.soompi.io/wp-content/uploads/2026/11/25103811/choi-hyun-wook-jung-chaeyeon.jpg",
+        "caption": "Choi Hyun Wook and Jung Chaeyeon Confirmed to Star in ENA Romance Drama Green Light",
+        "source": "Soompi"
+      }
+    ],
+    "published": "Wed, 25 Nov 2026 02:11:27 +0000"
   }
 };
