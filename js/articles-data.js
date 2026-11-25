@@ -238506,13 +238506,20 @@ window.FA_ARTICLES = {
           "Mera Ghar Episode 8 aired on 2026-11-24 on ARY Digital. The full episode is available on the channel's official YouTube page.",
           "Watch the full episode here: https://www.youtube.com/watch?v=bE-Lr5qbsFA"
         ]
+      },
+      {
+        "h": "Episode Summary",
+        "p": [
+          "Is episode mein Farkhunda ko achanak Sherry ki wajah se shadeed zehni tanav aur gusse ka samna karna parata hai. Jab Farkhunda raste mein Sherry ko"
+        ]
       }
     ],
     "facts": [
       "Mera Ghar Episode 8 aired on 2026-11-24.",
       "Channel: ARY Digital.",
       "Watch the full episode: https://www.youtube.com/watch?v=bE-Lr5qbsFA",
-      "YouTube views: 17,847."
+      "YouTube views: 17,847.",
+      "Episode summary added 2026-11-25."
     ],
     "entities": {
       "titles": [
@@ -247589,6 +247596,12 @@ window.FA_ARTICLES = {
         "p": [
           "Mera Ghar is a family drama centered on Sherry, the youngest member of a household, who is raised by his elder sister Farkhanda after their mother's death. Having devoted her life to him."
         ]
+      },
+      {
+        "h": "Episode Summary",
+        "p": [
+          "):** Sub-plot scene with another guy and his sick father in bed. He gets a phone call saying he got a big job! He tells his father happily.\n1"
+        ]
       }
     ],
     "facts": [
@@ -247596,7 +247609,8 @@ window.FA_ARTICLES = {
       "Channel: ARY Digital.",
       "Watch the full episode: https://www.youtube.com/watch?v=XqWpk0uuTm4",
       "YouTube views: 28,159.",
-      "TMDB: Mera Ghar (id 340808)."
+      "TMDB: Mera Ghar (id 340808).",
+      "Episode summary added 2026-11-25."
     ],
     "entities": {
       "titles": [
@@ -248186,5 +248200,468 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Wed, 25 Nov 2026 17:33:23 GMT"
+  },
+  "1ihedvj": {
+    "id": "1ihedvj",
+    "type": "news",
+    "headline": "Bano Episode 42 — Watch Online on Geo TV",
+    "dek": "Bano episode 42 aired on 2026-11-25 — watch the full episode on Geo TV.",
+    "body": [
+      {
+        "h": "Episode Details",
+        "p": [
+          "Bano Episode 42 aired on 2026-11-25 on Geo TV. The full episode is available on the channel's official YouTube page.",
+          "Watch the full episode here: https://www.youtube.com/watch?v=6EB5jxkMtcM"
+        ]
+      },
+      {
+        "h": "Episode Summary",
+        "p": [
+          "Is episode mein Murtaza Tooba ko Bano ke baare mein jhooti baatein batata hai ke Bano Shehryar ko chhor kar uske paas wapas"
+        ]
+      }
+    ],
+    "facts": [
+      "Bano Episode 42 aired on 2026-11-25.",
+      "Channel: Geo TV.",
+      "Watch the full episode: https://www.youtube.com/watch?v=6EB5jxkMtcM",
+      "YouTube views: 261,175.",
+      "Episode summary added 2026-11-25."
+    ],
+    "entities": {
+      "titles": [
+        "Bano"
+      ],
+      "people": []
+    },
+    "images": [
+      {
+        "url": "https://i.ytimg.com/vi/6EB5jxkMtcM/hqdefault.jpg",
+        "caption": "Bano Episode 42",
+        "source": "Geo TV"
+      }
+    ],
+    "published": "2026-11-25T17:16:48Z"
+  },
+  "srwea6": {
+    "id": "srwea6",
+    "type": "news",
+    "headline": "Ramayana Box Office Collection Day 20: Ranbir Kapoor and Yash Starrer Nears Rs 1,000 Crore India Net",
+    "dek": "Nitesh Tiwari's mythological epic Ramayana: Rise of a Legend is on the brink of making history as its domestic net collection approaches the monumental Rs 1,000 crore mark after twenty days in theatres.",
+    "body": [
+      {
+        "h": "Strong Box Office Momentum on Day 20",
+        "p": [
+          "The mythological film Ramayana: Rise of a Legend continues to demonstrate remarkable stamina at the box office during its third week of theatrical release. Despite the typical weekday slowdown in ticket sales, the feature registered a solid upward turn on Tuesday, bringing its cumulative domestic net collections closer to the coveted Rs 1,000 crore threshold.",
+          "According to industry tracking data from Sacnilk, the feature collected Rs 17.50 crore net across India on November 24. This figure represents a notable 37.8 percent recovery compared to the previous day's earnings, maintaining strong interest from audiences nationwide."
+        ]
+      },
+      {
+        "h": "Language-Wise Contribution and Total Domestic Figures",
+        "p": [
+          "The Hindi version of the mythological epic drove the vast majority of Tuesday's earnings, pulling in Rs 14.25 crore across 13,547 shows. Regional language versions also contributed to the domestic total, with Malayalam earning Rs 1.25 crore, Kannada bringing in Rs 90 lakh, Tamil adding Rs 70 lakh, and Telugu contributing Rs 40 lakh from a total of 15,817 shows.",
+          "With these latest additions, the film's total India net collection has climbed to Rs 972.95 crore. Meanwhile, the overall domestic gross has touched Rs 1,162.15 crore, fueled by millions of theatregoers visiting cinemas over its extended run."
+        ]
+      },
+      {
+        "h": "Path to the Elite Rs 1,000 Crore Club",
+        "p": [
+          "Ramayana: Rise of a Legend stands within touching distance of becoming only the fourth Indian film in history to cross Rs 1,000 crore in domestic net collections. Once it achieves this milestone, it will join an exclusive league alongside Pushpa 2: The Rule, Dhurandhar 2: The Revenge, and Baahubali 2: The Conclusion.",
+          "The production's rapid climb began immediately after its release, crossing the Rs 100 crore India net mark in just two days. Its early momentum included a massive Rs 64.85 crore opening day and a peak single-day haul of Rs 107.50 crore on its fifth day."
+        ]
+      },
+      {
+        "h": "Weekly Collection Breakdown",
+        "p": [
+          "The multi-lingual adaptation accumulated a massive Rs 564.60 crore during its first week in theatres. It followed up with another robust performance in its second week, adding Rs 299.15 crore to its domestic tally.",
+          "Although third-week collections have seen fluctuations, the film maintained steady daily numbers, taking in Rs 15.75 crore on Day 16, Rs 27.65 crore on Day 17, Rs 35.60 crore on Day 18, and Rs 12.70 crore on Day 19 before rebounding to Rs 17.50 crore on Day 20."
+        ]
+      },
+      {
+        "h": "Global Earnings and Overseas Performance",
+        "p": [
+          "Beyond domestic borders, the cinematic epic has sustained an impressive overseas run, picking up an estimated Rs 5 crore on its twentieth day. This brings the total overseas gross collection to an impressive Rs 573 crore.",
+          "Combining domestic and international figures, Sacnilk reports that the worldwide gross collection for Ramayana: Rise of a Legend has surged past Rs 1,735.15 crore. The theatrical run has recorded a total ticket sales count of 4,03,30,546 admissions globally."
+        ]
+      },
+      {
+        "h": "Cast, Crew and Production Background",
+        "p": [
+          "Directed by Nitesh Tiwari, the two-part cinematic adaptation features Ranbir Kapoor in the role of Lord Rama, Sai Pallavi as Sita, and Yash as Ravana. The star-studded cast also includes Ravi Dubey as Lakshman, Arun Govil as King Dasharath, and Lara Dutta as Kaikeyi.",
+          "The grand project is produced by Namit Malhotra under Prime Focus Studios, in association with DNEG and Monster Mind Creations, bringing a monumental vision of the classic epic to the big screen."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Ramayana: Rise of a Legend has reached a domestic net collection of Rs 972.95 crore by its twentieth day after earning Rs 17.50 crore on Tuesday. The Nitesh Tiwari directorial is now on the verge of becoming the fourth Indian film to enter the Rs 1,000 crore net club."
+        ]
+      }
+    ],
+    "facts": [
+      "Ramayana collected Rs 972.95 crore net in India in 20 days.",
+      "On Day 20 (November 24, 2026), the film earned Rs 17.50 crore net.",
+      "Worldwide gross earnings have crossed Rs 1,735.15 crore.",
+      "Overseas gross collection stands at Rs 573 crore.",
+      "Total ticket sales reached 4,03,30,546 during its theatrical run."
+    ],
+    "entities": {
+      "people": [
+        "Ranbir Kapoor",
+        "Yash",
+        "Sai Pallavi",
+        "Nitesh Tiwari",
+        "Ravi Dubey",
+        "Arun Govil",
+        "Lara Dutta",
+        "Namit Malhotra"
+      ],
+      "titles": [
+        "Ramayana: Rise of a Legend",
+        "Pushpa 2: The Rule",
+        "Dhurandhar 2: The Revenge",
+        "Baahubali 2: The Conclusion"
+      ]
+    },
+    "keywords": [
+      "Ramayana box office collection",
+      "Ramayana Day 20 collection",
+      "Ranbir Kapoor Yash Ramayana",
+      "Ramayana Rise of a Legend"
+    ],
+    "images": [
+      {
+        "url": "https://images.timesnownews.com/thumb/msid-156562155,thumbsize-827742,width-1280,height-720,resizemode-75/156562155.jpg",
+        "caption": "Ramayana Box Office Collection Day 20: Ranbir Kapoor and Yash Starrer Nears Rs 1,000 Crore India Net",
+        "source": "Times Now — Entertainment"
+      }
+    ],
+    "published": "2026-11-25T20:08:06Z"
+  },
+  "1dk024x": {
+    "id": "1dk024x",
+    "type": "news",
+    "headline": "Black Clover Season 2 Episode 9 Approaches Official Launch Following Accidental Early Leak",
+    "dek": "As the Spade Kingdom Raid arc hits a critical phase, Black Clover season 2 prepares for its next major episode amid high anticipation and a surprise platform slip-up.",
+    "body": [
+      {
+        "h": "Spade Kingdom Raid Reaches Critical Stage",
+        "p": [
+          "The second season of Black Clover is hurtling toward the conclusion of its first cour with intense narrative momentum. Episode 9, titled Yuno Grinberryall, plunges the Spade Kingdom Raid arc into a state of heightened danger. With Magna Swing claiming an unexpected victory over Dante Zogratis and Noelle Silva subduing Vanica alongside Megicula, Zenon Zogratis remains as the final standing member of the Dark Triad.",
+          "Picking up right after the dramatic cliffhanger of the previous installment, the upcoming chapter features Yuno teaming up with the Spatial Magic siblings Langris Vaude and Finral Roulacase. Together, they confront Zenon, who has surrendered his soul to Beelzebub in exchange for a menacing Devil's Heart. Simultaneously, a devil-powered Morris is driving the Qliphoth ritual dangerously close to unlocking the second underworld gate."
+        ]
+      },
+      {
+        "h": "Accidental Early Release Fuels Fan Hype",
+        "p": [
+          "Maintaining a spoiler-free experience has proved exceptionally difficult for fans who follow only the anime. During the November 21 rollout, streaming platform Crunchyroll mistakenly published episode 9 side-by-side with episode 8. Although the distributor swiftly removed the accidental upload, clips and reactions spread rapidly across social media platforms.",
+          "This unintended leak has significantly amplified the excitement surrounding the official premiere. Viewers who caught the early footage online have praised the installment enthusiastically, with many suggesting it stands out as the finest entry of the second season to date. Following a minor visual dip in the prior chapter, Studio Pierrot appears to have regained its peak form."
+        ]
+      },
+      {
+        "h": "Official Broadcast Schedule and Dub Timeline",
+        "p": [
+          "The official release for Black Clover season 2, episode 9 is slated for Saturday, November 28, 2026. The subtitled version debuts at 8:00 AM PT, 11:00 AM ET, or 4:00 PM GMT exclusively on Crunchyroll, directly following its 11:00 PM JST broadcast on TV Tokyo in Japan.",
+          "For audiences who prefer English dialogue, the weekly dub track provided by Crunchyroll runs two installments behind the Japanese simulcast. Featuring returning voice actors Dallas Reid as Asta and Micah Solusod as Yuno, the dubbed edition of episode 9 is scheduled to arrive on December 12."
+        ]
+      },
+      {
+        "h": "High Stakes and Imminent Rescue Missions",
+        "p": [
+          "Without spoiling major plot twists, the official synopsis points toward a desperate struggle for survival as Yuno, Langris, and Finral face Zenon's terrifying transformation. Complicating matters further, Morris breaches Dorothy's Dream Magic as the second underworld gate opens, prompting the Black Bulls to charge forward aboard the Raging Black Bull.",
+          "The primary objective for the squad is rescuing Captains Yami Sukehiro and William Vangeance before the military operation descends into complete catastrophe. Meanwhile, Asta prepares to rejoin the battle after sitting out recent engagements to recover from his Devil Union cooldown following his fierce confrontation with Lilith and Naamah."
+        ]
+      },
+      {
+        "h": "A Record-Breaking Run for Studio Pierrot",
+        "p": [
+          "The current broadcast run for Black Clover season 2 has proven remarkably successful since its October 3 debut. Studio Pierrot has consistently delivered high-energy episodes, propelling the series to the number six spot on IMDb's Most Popular TV Shows chart within weeks of its return.",
+          "Particular highlights include episode 5, The Highest vs. the Lowest, which achieved an outstanding 9.9 out of 10 rating to become the highest-rated anime episode of 2026. Episode 7 maintained that stellar momentum with a strong 9.6 debut rating."
+        ]
+      },
+      {
+        "h": "Approaching the First Cour Finale",
+        "p": [
+          "With only four chapters remaining before the first cour concludes and the series takes a brief intermission ahead of cour 2, the Spade Kingdom Raid enters its deadliest phase. Morris's aggressive advancement of the Qliphoth ritual brings the King of Devils, Lucifero, steadily closer to entering the human world.",
+          "As viewers await the official weekend rollout, the combination of high production quality and mounting narrative tension ensures that audience engagement remains at an all-time high."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Black Clover season 2 is approaching its official release of episode 9 following an accidental early leak on Crunchyroll that generated widespread online discussion. The upcoming chapter focuses on Yuno, Langris, and Finral battling Zenon while the Black Bulls mount a rescue mission for Captain Yami amidst the ongoing Qliphoth ritual."
+        ]
+      }
+    ],
+    "facts": [
+      "Black Clover season 2 premiered on October 3, 2026.",
+      "Episode 9 is titled Yuno Grinberryall and is episode 179 overall.",
+      "Crunchyroll accidentally released episode 9 alongside episode 8 on November 21, 2026.",
+      "The official release date for episode 9 is November 28, 2026.",
+      "Dallas Reid voices Asta and Micah Solusod voices Yuno in the English dub.",
+      "Episode 5 achieved a 9.9 out of 10 rating."
+    ],
+    "entities": {
+      "people": [
+        "Umair Nakade",
+        "Magna Swing",
+        "Dante Zogratis",
+        "Noelle Silva",
+        "Vanica",
+        "Megicula",
+        "Zenon Zogratis",
+        "Yuno Grinberryall",
+        "Langris Vaude",
+        "Finral Roulacase",
+        "Beelzebub",
+        "Morris",
+        "Yami Sukehiro",
+        "Dallas Reid",
+        "Asta",
+        "Micah Solusod",
+        "Dorothy",
+        "William Vangeance",
+        "Lilith",
+        "Naamah",
+        "Lucifero",
+        "Gokul Chettiyar"
+      ],
+      "titles": [
+        "Black Clover",
+        "Dragon Ball",
+        "Dororo",
+        "The Highest vs. the Lowest",
+        "Naruto Shippuden",
+        "Berserk"
+      ]
+    },
+    "keywords": [
+      "Black Clover season 2 episode 9",
+      "Yuno Grinberryall anime release",
+      "Crunchyroll Black Clover leak",
+      "Spade Kingdom Raid arc"
+    ],
+    "images": [
+      {
+        "url": "https://static0.srcdn.com/wordpress/wp-content/uploads/2026/11/black-clover-season-2-episode-9-4.jpg?w=1600&amp;h=900&amp;fit=crop",
+        "caption": "Black Clover Season 2 Episode 9 Approaches Official Launch Following Accidental Early Leak",
+        "source": "Screen Rant"
+      }
+    ],
+    "published": "Wed, 25 Nov 2026 19:01:08 GMT"
+  },
+  "1k7yd9f": {
+    "id": "1k7yd9f",
+    "type": "news",
+    "headline": "Jo Bachay Hain Sang Samait Lo Trailer Breakdown: Netflix's Star-Studded Pakistani Series Explores Complex Romances Across Europe",
+    "dek": "Netflix has unveiled the official trailer for its debut Pakistani original series, Jo Bachay Hain Sang Samait Lo, featuring a massive ensemble cast including Fawad Khan and Mahira Khan.",
+    "body": [
+      {
+        "h": "Introduction to Netflix's New Original Series",
+        "p": [
+          "Netflix has officially revealed the first trailer for its pioneering Pakistani original series, Jo Bachay Hain Sang Samait Lo. The preview offers a glimpse into a premium romantic drama set against scenic European backdrops, blending visual grandeur with deep emotional turmoil.",
+          "The project has quickly captured attention across entertainment platforms, primarily due to its sprawling cast of celebrated actors and its ambitious premise involving multiple interconnected emotional arcs."
+        ]
+      },
+      {
+        "h": "A Multi-Generational Web of Romance",
+        "p": [
+          "Rather than focusing on a single narrative, the series weaves together three generations spanning a total of six distinct love stories. The plot originates from the 2013 Urdu novel authored by renowned writer Farhat Ishtiaq.",
+          "The core journey begins with Sikandar, a Harvard-educated lawyer residing in Rome who grapples with severe insomnia and haunting nightmares following a traumatic event in his past."
+        ]
+      },
+      {
+        "h": "Key Characters and Fresh Pairings",
+        "p": [
+          "Ahad Raza Mir portrays Sikandar, whose path crosses with Liza, a vibrant artist played by Iqra Aziz who carries her own complicated history. Their fresh on-screen dynamic anchors the early portions of the narrative.",
+          "Meanwhile, Fawad Khan stars as Mahmud Akhtar, a man drawn back to his village to manage tribal responsibilities, sharing a complex dynamic with Victoria, played by Sanam Saeed. Fans of earlier collaborations will note this pairing, though structured differently here."
+        ]
+      },
+      {
+        "h": "Additional Story Arcs and Tensions",
+        "p": [
+          "Mahira Khan takes on the role of Rahat, with her storyline intersecting with characters played by Bilal Ashraf and Ahmed Ali Akbar. Additionally, Hania Amir appears as Kulsoom in a high-tension dynamic alongside Zain, portrayed by Khushhal Khan.",
+          "The narrative also features Hamza Ali Abbasi as Shehryar, whose relationship with Aamna, played by Maya Ali, displays possessive and controlling behavioral traits, highlighting the darker side of human attachment."
+        ]
+      },
+      {
+        "h": "Visual Aesthetics and Original Soundtrack",
+        "p": [
+          "Cinematography plays a central role in the production, utilizing picturesque landscapes across Rome and other European locations alongside authentic settings in Pakistan. The visual tone balances urban sophistication with familial stress.",
+          "Accompanying the visuals is an original soundtrack comprising six songs that underscore the shifting emotional landscape of the various relationships portrayed in the video."
+        ]
+      },
+      {
+        "h": "Streaming Details and Controversy",
+        "p": [
+          "The project is scheduled for a worldwide release on December 4, 2026. However, its impending arrival has sparked debate regarding its potential broadcast in India.",
+          "The All India Cine Workers Association formally petitioned Prime Minister Narendra Modi to block the streaming of the show within India, citing specific Ministry of Information and Broadcasting advisories. Netflix India has not yet issued an official confirmation regarding its availability to Indian audiences."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Netflix has released the trailer for Jo Bachay Hain Sang Samait Lo, a multi-generational Pakistani series adapting Farhat Ishtiaq's 2013 novel with a cast including Fawad Khan and Mahira Khan. While the global premiere is scheduled for December 4, 2026, the show has drawn calls for a broadcast ban in India by the All India Cine Workers Association."
+        ]
+      }
+    ],
+    "facts": [
+      "The series is Netflix's first Pakistani original project.",
+      "The story is based on a 2013 Urdu novel by Farhat Ishtiaq.",
+      "Global release is scheduled for December 4, 2026.",
+      "The All India Cine Workers Association wrote to Prime Minister Narendra Modi demanding a ban on streaming in India.",
+      "The cast includes Fawad Khan, Mahira Khan, Sanam Saeed, Ahad Raza Mir, Iqra Aziz, Hania Amir, Hamza Ali Abbasi, and Bilal Ashraf."
+    ],
+    "entities": {
+      "people": [
+        "Fawad Khan",
+        "Mahira Khan",
+        "Sanam Saeed",
+        "Ahad Raza Mir",
+        "Iqra Aziz",
+        "Hania Amir",
+        "Hamza Ali Abbasi",
+        "Bilal Ashraf",
+        "Ahmed Ali Akbar",
+        "Khushhal Khan",
+        "Maya Ali",
+        "Farhat Ishtiaq",
+        "Narendra Modi"
+      ],
+      "titles": [
+        "Jo Bachay Hain Sang Samait Lo"
+      ]
+    },
+    "keywords": [
+      "Jo Bachay Hain Sang Samait Lo",
+      "Fawad Khan Mahira Khan Netflix",
+      "Ahad Raza Mir Iqra Aziz series",
+      "Farhat Ishtiaq novel adaptation"
+    ],
+    "images": [
+      {
+        "url": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202611/6b06a4ba6902b-jo-bachey-hain-sang-samet-lo-trailer-review-250457274-16x9.jpg",
+        "caption": "Jo Bachay Hain Sang Samait Lo Trailer Breakdown: Netflix's Star-Studded Pakistani Series Explores Complex Romances Acros",
+        "source": "Aaj Tak — Entertainment"
+      }
+    ],
+    "published": "2026-11-25T20:08:06Z"
+  },
+  "9yq2ec": {
+    "id": "9yq2ec",
+    "type": "news",
+    "headline": "Summer Vacation Concludes Its Run With High Drama and Complex Family Revelations",
+    "dek": "The final episodes of the teen romance series bring a dramatic conclusion involving family secrets, a tragic fire, and the bittersweet end of a seasonal romance.",
+    "body": [
+      {
+        "h": "The Final Episodes Bring Intense Drama",
+        "p": [
+          "As the teen romance series reaches its conclusion in episodes nine and ten, the narrative dives headfirst into heavy angst and startling character shifts. The story wraps up its seasonal run by leaning heavily into chaotic events rather than grounded storytelling, leaving viewers with a whirlwind of dramatic turns.",
+          "The conclusion ties up the central summer romance between Ha-yeon and Yoo-gyeom, showing how a fleeting countryside getaway ultimately gives way to the harsh reality that their relationship cannot survive past the end of the break."
+        ]
+      },
+      {
+        "h": "A Trip to Seoul and Family Conflict",
+        "p": [
+          "Seeking a respite from her usual environment, Ha-yeon spends two full weeks with Yoo-gyeom. The pair takes a trip to Seoul, where Ha-yeon finds the courage to stand up to her former bullies, bolstered by Yoo-gyeom's presence.",
+          "Meanwhile, Yoo-gyeom faces severe restrictions from his grandfather regarding his swimming ambitions. Although his father steps in to secure clandestine practice times, underlying family tensions threaten to tear the household apart."
+        ]
+      },
+      {
+        "h": "Dark Secrets and a Tragic Fire",
+        "p": [
+          "Family dynamics reach a breaking point when Yoo-gyeom's mother admits her struggles and marital estrangement to the patriarch. This leads into a catastrophic event where a fire breaks out in the family's soy sauce enterprise, trapping the grandfather inside.",
+          "Yoo-gyeom and his sister attempt a rescue but are forced to flee before an explosion occurs. The grandfather tragically perishes in the blaze, an event that ironically opens the door for the surviving family members to finally voice their grievances."
+        ]
+      },
+      {
+        "h": "Complicated Parentage and Emotional Fallout",
+        "p": [
+          "In the chaotic aftermath of the fire, a major revelation regarding Yoo-gyeom's parentage comes to light, shaking him to his core. He discovers that the woman who raised him is actually his aunt-figure in a complex web of family arrangements, while his father's former mistress is his biological mother.",
+          "Overwhelmed by grief, guilt, and misplaced resentment toward the mother who raised him, Yoo-gyeom experiences a severe emotional crisis during the funeral services before storming out into the rain."
+        ]
+      },
+      {
+        "h": "Resolution Among Family and Friends",
+        "p": [
+          "Despite the initial turbulence, the tragedy ultimately draws the core family closer together. Yoo-gyeom's father officially ends his long-term affair, and Yoo-gyeom comes to accept the woman who raised him as his true mother.",
+          "Elsewhere, character growth is scattered, with Sae-ryeong navigating her own path by apologizing to people she previously mistreated at school, leading to a strange sense of personal redemption."
+        ]
+      },
+      {
+        "h": "A Bittersweet Goodbye to Summer",
+        "p": [
+          "The romance between Ha-yeon and Yoo-gyeom meets a pragmatic end when they realize their time together was strictly tied to the season. When questioned about why they are splitting up, Yoo-gyeom simply notes that vacation is over.",
+          "Ha-yeon returns to her school in Seoul with newfound confidence and a clear college path in mind. Though they never cross paths again, both characters hold onto the formative memories of their intense summer romance."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "The finale of the teen drama series concludes the story of Ha-yeon and Yoo-gyeom amidst family tragedies and the pragmatic end of their romance. With secrets revealed and characters parting ways, the series closes its chapter as the summer season comes to a final close."
+        ]
+      }
+    ],
+    "facts": [
+      "Summer Vacation concludes with episodes 9 and 10.",
+      "Yoo-gyeom places first at the swimming competition.",
+      "Grandpa dies in a fire at the family soy sauce company.",
+      "Yoo-gyeom's father breaks off his relationship with the birth mother after more than two decades."
+    ],
+    "entities": {
+      "people": [
+        "Ha-yeon",
+        "Yoo-gyeom",
+        "Sae-ryeong",
+        "Jin-mi",
+        "Jinyoung",
+        "Jo Yi-hyun",
+        "Hong Ye-ji",
+        "Park Geun-hyung",
+        "Ryu Hae-joon",
+        "Kim Hye-soo",
+        "Lee Je-hoon",
+        "Park Min-young",
+        "Yook Sung-jae"
+      ],
+      "titles": [
+        "Summer Vacation",
+        "Ms. Incognito",
+        "Head Over Heels",
+        "Who Is She",
+        "Ditto",
+        "Kidnap Game",
+        "Crash 2",
+        "Love in Disguise",
+        "What a Boss Wants",
+        "Nine to Six",
+        "Happy Anding",
+        "Final Table",
+        "Love on the Menu",
+        "Sword and Silence",
+        "Oh My Guard",
+        "The Perfect Lie",
+        "Good Partner 2",
+        "100 Days of Deception",
+        "The Remarried Empress",
+        "The Substitute",
+        "One-of-a-Kind Romance",
+        "Signal Part 2"
+      ]
+    },
+    "keywords": [
+      "Summer Vacation episodes",
+      "Summer Vacation final",
+      "Ha-yeon and Yoo-gyeom",
+      "Dramabeans Summer Vacation"
+    ],
+    "images": [
+      {
+        "url": "https://dramabeans.com/wp-content/uploads/2026/11/SummerVacation0910_1.jpg",
+        "caption": "Summer Vacation Concludes Its Run With High Drama and Complex Family Revelations",
+        "source": "Dramabeans"
+      }
+    ],
+    "published": "Wed, 25 Nov 2026 19:00:55 +0000"
   }
 };
