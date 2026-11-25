@@ -246461,5 +246461,392 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Wed, 25 Nov 2026 11:48:32 +0000"
+  },
+  "1v0ikw4": {
+    "id": "1v0ikw4",
+    "type": "news",
+    "headline": "Mani Ratnam and AR Rahman launch first single Aachi Aachi for Inji Vellam",
+    "dek": "The musical promotional campaign for Mani Ratnam's romantic drama Inji Vellam has officially commenced with the release of the debut track Aachi Aachi.",
+    "body": [
+      {
+        "h": "First Single Release",
+        "p": [
+          "The creative team behind the upcoming romantic drama Inji Vellam has unveiled its very first musical track titled Aachi Aachi. Released on Wednesday, the track serves as the initial auditory glimpse into the project and has immediately captured the attention of film enthusiasts across the country.",
+          "Composed by the legendary AR Rahman, the single marks another major collaboration in the celebrated composer's long-standing partnership with director Mani Ratnam."
+        ]
+      },
+      {
+        "h": "Credits and Composition",
+        "p": [
+          "The lyrical composition of Aachi Aachi was crafted by lyricist Ilango Krishnan, setting a poetic tone for the romantic narrative. On the vocal front, the song brings together the talents of playback singers Vaishali Samant and Sharanya Srinivas.",
+          "While the release is structured as a lyrical video rather than a full-fledged cinematic music video, the accompanying visuals carry significant narrative weight and offer early hints about the film's core themes."
+        ]
+      },
+      {
+        "h": "Animated Visual Aesthetics",
+        "p": [
+          "Instead of live-action footage from the movie, the track is paired with warm, hand-drawn illustrated artwork. This artistic approach visually traces the evolution of a romance from its initial encounters through various tender, intimate moments.",
+          "The illustrations specifically spotlight Sai Pallavi's character, depicting her with a distinctive bob cut adorned with pink flowers as the storyline progresses through major life milestones."
+        ]
+      },
+      {
+        "h": "Teasing the Plot",
+        "p": [
+          "As the lyrical video unfolds, the artwork shows Sai Pallavi's character experiencing pregnancy, with visual hints suggesting she is expecting twin girls. This imagery directly mirrors the artistic direction seen in the movie's first official poster.",
+          "The word Aachi is a Tamil term of endearment traditionally used for grandmothers. Combined with the pregnancy imagery and the promotional tagline Puyalism begins before birth, the song strongly points toward a narrative centered on the deep anticipation of childbirth."
+        ]
+      },
+      {
+        "h": "Star Cast and Creative Team",
+        "p": [
+          "Inji Vellam translates to Ginger and Jaggery in English and stands as a romantic drama directed by veteran filmmaker Mani Ratnam. The project brings together Vijay Sethupathi and Sai Pallavi for their very first on-screen pairing.",
+          "The movie also marks a reunion for Ratnam and Sethupathi following their previous work together on Chekka Chivantha Vaanam in 2018, while serving as Sai Pallavi's debut collaboration with both the director and her co-star."
+        ]
+      },
+      {
+        "h": "Production and Release Details",
+        "p": [
+          "The film is backed by a strong production backing, being produced by Mani Ratnam's own banner Madras Talkies alongside India Talkies, in association with Lyca Productions. Makers have slated the romantic drama for a wide theatrical release on January 29, 2027.",
+          "With no official plot synopsis yet released to the public, the Aachi Aachi lyrical video remains the primary source of narrative insight for eager audiences."
+        ]
+      },
+      {
+        "h": "Sai Pallavi's Busy Year",
+        "p": [
+          "The launch of the song adds to an already defining and milestone-heavy year for lead actor Sai Pallavi. Her prominent role as Sita in Nitesh Tiwari's Ramayana established the project as one of the massive cinematic releases of 2026.",
+          "Additionally, she earned widespread critical praise for her gripping performance as IPS officer Nithya Reddy in Dhanush's action thriller OM: Operation Mole."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Mani Ratnam's upcoming romantic drama Inji Vellam has released its first single, Aachi Aachi, composed by AR Rahman and featuring vocals by Vaishali Samant and Sharanya Srinivas. The lyrical video utilizes hand-drawn illustrations to tease the chemistry between lead actors Vijay Sethupathi and Sai Pallavi while hinting at a storyline involving impending parenthood ahead of its January 2027 theatrical release."
+        ]
+      }
+    ],
+    "facts": [
+      "The first single from Inji Vellam is titled Aachi Aachi.",
+      "The song was released on Wednesday.",
+      "AR Rahman composed the music for Inji Vellam.",
+      "Ilango Krishnan wrote the lyrics for Aachi Aachi.",
+      "Vaishali Samant and Sharanya Srinivas sang the track.",
+      "Vijay Sethupathi and Sai Pallavi star in Inji Vellam.",
+      "Chekka Chivantha Vaanam released in 2018.",
+      "Inji Vellam is scheduled for a theatrical release on January 29, 2027.",
+      "Inji Vellam is produced by Madras Talkies, India Talkies, and Lyca Productions."
+    ],
+    "entities": {
+      "people": [
+        "Mani Ratnam",
+        "Sai Pallavi",
+        "Vijay Sethupathi",
+        "AR Rahman",
+        "Ilango Krishnan",
+        "Vaishali Samant",
+        "Sharanya Srinivas",
+        "Nitesh Tiwari",
+        "Dhanush"
+      ],
+      "titles": [
+        "Inji Vellam",
+        "Chekka Chivantha Vaanam",
+        "Ramayana",
+        "OM: Operation Mole"
+      ]
+    },
+    "keywords": [
+      "Inji Vellam",
+      "Aachi Aachi song",
+      "Mani Ratnam Inji Vellam",
+      "Vijay Sethupathi Sai Pallavi",
+      "AR Rahman Inji Vellam"
+    ],
+    "images": [
+      {
+        "url": "https://images.indianexpress.com/2026/11/Sai-Pallavi-in-Inji.png",
+        "caption": "Mani Ratnam and AR Rahman launch first single Aachi Aachi for Inji Vellam",
+        "source": "Indian Express — Entertainment"
+      }
+    ],
+    "published": "Wed, 25 Nov 2026 12:30:52 +0000"
+  },
+  "1t3wili": {
+    "id": "1t3wili",
+    "type": "news",
+    "headline": "Noah Kahan Announces New Live Album Live From the Great Divide",
+    "dek": "The singer is capping off an epic year with a 16-track live album recorded across North America during his sold-out summer tour.",
+    "body": [
+      {
+        "h": "Celebrating a Massive Year",
+        "p": [
+          "Noah Kahan is preparing to close out an extraordinary year by delivering a brand-new live album to his fanbase. The upcoming project serves as a celebratory keepsake following a massive period of touring and musical releases for the artist.",
+          "Fans will not have to wait long to experience the new release, as the official launch has been scheduled for December 11."
+        ]
+      },
+      {
+        "h": "Tour Recordings Across North America",
+        "p": [
+          "The upcoming 16-track collection was captured live during various stops on the artist's sold-out summer Great Divide Tour across North America. Performances featured on the record span more than a dozen cities, including Boston, Atlanta, Chicago, Toronto, San Francisco, Cincinnati, Minneapolis, Los Angeles, Vancouver, and Seattle.",
+          "This upcoming release acts as a direct sequel to his 2024 Live from Fenway Park album, continuing his tradition of preserving memorable concert moments for home listeners."
+        ]
+      },
+      {
+        "h": "Leading Single and CitiField Performance",
+        "p": [
+          "The album is spearheaded by a live rendition of the popular track \"Orbiter,\" which originally featured on the expanded edition of his fourth album titled The Great Divide: The Last of the Bugs Digital Extended Album.",
+          "This specific live version was recorded during his sold-out performance at CitiField in New York over the summer, playing to a crowd of nearly 45,000 attendees and accompanied by an in-concert video."
+        ]
+      },
+      {
+        "h": "Complete Track Listing",
+        "p": [
+          "The track list highlights performances from distinct cities, beginning with \"American Cars (Live From Boston)\" and \"Doors (Live From Atlanta).\"",
+          "Further tracks include \"Deny Deny Deny (Live From Chicago),\" \"Staying Still (Live From St. Louis),\" \"Haircut (Live From Phoenix),\" \"Downfall (Live From Toronto),\" \"Dashboard (Live From Washington DC),\" \"Willing and Able (Live From San Francisco),\" \"We Go Way Back (Live From Cincinnati),\" and \"Porch Light (Live From Minneapolis).\"",
+          "Rounding out the 16 songs are \"Orbiter (Live From New York),\" \"Paid Time Off (Live From Los Angeles),\" \"All Them Horses (Live From Pittsburgh),\" \"Dan (Live From Arlington),\" \"The Great Divide (Live From Vancouver),\" and \"End of August (Live From Seattle).\""
+        ]
+      },
+      {
+        "h": "Looking Forward to 2027",
+        "p": [
+          "Alongside the live album announcement, the singer has already mapped out a busy schedule for the future. Following headlining stadium dates in North America and arena shows in Australia, New Zealand, Europe, and the U.K., he sold out all 24 North American dates for his upcoming 2027 tour.",
+          "The upcoming global trek, titled The Last of the Bugs World Tour, is set to begin at Sanford Stadium in Athens, Georgia, on April 24 and conclude at Wembley Stadium in London on July 25."
+        ]
+      },
+      {
+        "h": "Upcoming Tour Support Acts",
+        "p": [
+          "For his extensive 2027 world tour dates, the headliner will be joined by a diverse lineup of supporting artists.",
+          "The rotating cast of supporting acts includes Buffalo Traffic Jam, Gregory Alan Isakov, Remi Wolf, Ashe, Kingfishr, Alyssa Grace, and Tiny Habit."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Noah Kahan has announced his new 16-track live album titled Live From the Great Divide, scheduled for release on December 11 following his successful summer tour. The record includes performances from various North American cities and is led by a live recording of \"Orbiter\" from his New York CitiField show. Additionally, the artist looks ahead to his sold-out 2027 world tour starting in April."
+        ]
+      }
+    ],
+    "facts": [
+      "Noah Kahan announced the Live From the Great Divide album for a December 11 release.",
+      "The album features 16 tracks recorded during the summer Great Divide Tour.",
+      "The lead live single \"Orbiter\" was recorded at a sold-out CitiField show in New York in front of nearly 45,000 fans.",
+      "The tour visited cities including Boston, Atlanta, Chicago, Toronto, San Francisco, Cincinnati, Minneapolis, Los Angeles, Vancouver, and Seattle.",
+      "The 2027 The Last of the Bugs World Tour runs from April 24 at Sanford Stadium in Athens, Ga., to July 25 at Wembley Stadium in London."
+    ],
+    "entities": {
+      "people": [
+        "Noah Kahan",
+        "Buffalo Traffic Jam",
+        "Gregory Alan Isakov",
+        "Remi Wolf",
+        "Ashe",
+        "Kingfishr",
+        "Alyssa Grace",
+        "Tiny Habit"
+      ],
+      "titles": [
+        "Live From the Great Divide",
+        "The Great Divide: The Last of the Bugs Digital Extended Album",
+        "Live from Fenway Park",
+        "The Last of the Bugs World Tour"
+      ]
+    },
+    "keywords": [
+      "Noah Kahan",
+      "Live From the Great Divide",
+      "The Great Divide Tour",
+      "The Last of the Bugs World Tour"
+    ],
+    "images": [
+      {
+        "url": "https://www.billboard.com/wp-content/uploads/2026/11/2293566780-e1795608858476.jpg?w=1024",
+        "caption": "Noah Kahan Announces New Live Album Live From the Great Divide",
+        "source": "Billboard"
+      }
+    ],
+    "published": "Wed, 25 Nov 2026 12:37:36 +0000"
+  },
+  "1yirv48": {
+    "id": "1yirv48",
+    "type": "news",
+    "headline": "Avengers: Doomsday Projected Opening Tracks Nearly Four Times Higher Than Iron Man's Debut",
+    "dek": "Robert Downey Jr.'s return to the Marvel Cinematic Universe in Avengers: Doomsday is heading toward massive box office projections, vastly eclipsing the opening weekend earnings of his debut MCU film.",
+    "body": [
+      {
+        "h": "Massive Opening Projections",
+        "p": [
+          "Avengers: Doomsday is rapidly approaching its theatrical release, carrying unprecedented box office expectations for its North American debut. Industry trackers and reports indicate that the upcoming film is projected to rake in between 375 million dollars and 424 million dollars during its opening weekend in North America. This colossal trajectory highlights the immense anticipation surrounding the franchise and the eagerness of audiences to return to theaters for the next major crossover event."
+        ]
+      },
+      {
+        "h": "Comparing Against The First MCU Film",
+        "p": [
+          "To put this staggering projection into perspective, it helps to look back at the origins of the Marvel Cinematic Universe with Iron Man. Directed by Jon Favreau and starring Robert Downey Jr., the foundational 2008 film opened to 98.6 million dollars in North America on its way to a 319 million dollar lifetime domestic box office run. The anticipated opening for Doomsday stands to earn nearly 3.8 to 4.3 times higher than that historic first weekend, demonstrating how much the franchise has grown over more than a decade and a half."
+        ]
+      },
+      {
+        "h": "Robert Downey Jr.'s Full Circle Journey",
+        "p": [
+          "For over fifteen years, Robert Downey Jr. defined the backbone of the Marvel Cinematic Universe, ultimately sacrificing his character to defeat Thanos. Now, his highly anticipated return to the franchise in Avengers: Doomsday brings his overarching journey full circle. Fans and analysts alike view this upcoming appearance as a vital catalyst that will once again energize and reshape the cinematic universe."
+        ]
+      },
+      {
+        "h": "Pre-Sales And International Momentum",
+        "p": [
+          "The excitement surrounding Avengers: Doomsday extends far beyond North American projections, showing strong momentum overseas and in regions like India. Advance booking figures indicate that the film has already accumulated 59 percent of Avengers: Infinity War's opening day collection through pre-sales alone in India. Furthermore, the movie is on track to push the entire Avengers film series past the significant milestone of 1000 crore net in India."
+        ]
+      },
+      {
+        "h": "Trailer Records And Plot Context",
+        "p": [
+          "The hype for the film is also reflected in its promotional milestones, with the final trailer securing the biggest 24-hour viewership for Disney and the second-biggest trailer viewership ever recorded. Narrative reports place the story fourteen months after the events of Thunderbolts, depicting a multiverse on the brink of collapse. Heroes spanning multiple universes, including the Avengers, Wakandans, New Avengers from Earth-616, the Fantastic Four from Earth-828, and the X-Men from Earth-10005, must unite to face Doctor Doom."
+        ]
+      },
+      {
+        "h": "Release Details And Estimates",
+        "p": [
+          "Avengers: Doomsday is scheduled to hit theaters on December 18. Observers note that current box office metrics are based on ongoing estimates and various industry sources, and these early numbers have not been independently verified."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Avengers: Doomsday is projected to earn between 375 million dollars and 424 million dollars in its North American opening weekend, nearly four times the debut of the original Iron Man. Robert Downey Jr. returns to the franchise in this multiverse-spanning event slated for release on December 18."
+        ]
+      }
+    ],
+    "facts": [
+      "Iron Man earned $98.6 million in its opening weekend in North America.",
+      "Iron Man collected $319 million in lifetime North American box office.",
+      "Avengers: Doomsday is projected to earn between $375 million and $424 million in its opening weekend at the North American box office.",
+      "Avengers: Doomsday's domestic box office is projected to open between $275.4 million and $325.4 million.",
+      "Avengers: Doomsday releases on December 18."
+    ],
+    "entities": {
+      "people": [
+        "Robert Downey Jr.",
+        "Jon Favreau",
+        "Thanos",
+        "Doctor Doom"
+      ],
+      "titles": [
+        "Avengers: Doomsday",
+        "Iron Man",
+        "Thunderbolts",
+        "Avengers: Infinity War"
+      ]
+    },
+    "keywords": [
+      "Avengers Doomsday box office",
+      "Robert Downey Jr Iron Man",
+      "Avengers Doomsday opening weekend",
+      "Iron Man North American box office"
+    ],
+    "images": [
+      {
+        "url": "https://www.koimoi.com/wp-content/new-galleries/2026/11/box-office-avengers-doomsdays-projected-domestic-debut-is-nearly-4x-iron-mans-debut-robert-downey-jrs-mcu-journey-comes-full-circle.jpg",
+        "caption": "Avengers: Doomsday Projected Opening Tracks Nearly Four Times Higher Than Iron Man's Debut",
+        "source": "Koimoi"
+      }
+    ],
+    "published": "Wed, 25 Nov 2026 12:49:54 +0000"
+  },
+  "pesbgn": {
+    "id": "pesbgn",
+    "type": "news",
+    "headline": "Belle and Sebastian Inks Worldwide Catalog Agreement With Matador Records",
+    "dek": "The Glasgow indie-pop collective has partnered with Matador Records for a comprehensive worldwide catalog agreement that spans decades of releases.",
+    "body": [
+      {
+        "h": "Global Catalog Rights Consolidation",
+        "p": [
+          "Matador Records has successfully acquired worldwide representation rights for the complete recorded output of the Glasgow-based indie-pop ensemble Belle and Sebastian. This comprehensive agreement brings the group's entire musical catalog together under a single global independent label umbrella, streamlining their international distribution and administration.",
+          "The newly forged partnership expands upon a collaborative relationship that stretches back decades. Matador initially partnered with the band in 1998 to distribute their third studio album in North America and subsequently reissued their 1996 debut record."
+        ]
+      },
+      {
+        "h": "Licensing Structure Across Eras",
+        "p": [
+          "Under the terms of the fresh agreement, specific foundational titles like the 1996 release alongside their sophomore effort and a 2005 compilation of four extended plays will be licensed through Bella Figura Music. These particular records will feature dual branding displaying both the Bella Figura and Matador Records imprints.",
+          "Meanwhile, several other mid-era records and their associated singles will be licensed directly from the group themselves. Originally put out via Rough Trade, these specific projects will carry worldwide branding under a combined moniker."
+        ]
+      },
+      {
+        "h": "Direct Band Licensing and Label Imprints",
+        "p": [
+          "A substantial portion of the ensemble's remaining albums—totaling seven distinct records spanning from their 2000 release through their 2023 project—will also be licensed straight from the artists. These titles are scheduled for release globally under the standard Matador banner.",
+          "This multi-tiered licensing structure ensures that different eras of the band's extensive discography receive tailored management while remaining unified under the overarching independent label framework."
+        ]
+      },
+      {
+        "h": "Anniversary Reissues and Planned Releases",
+        "p": [
+          "The very first rollout under this newly expanded arrangement will be a special 30th anniversary edition of their acclaimed 1996 album. This commemorative package is set to include previously unreleased songs and unheard demos originating from that creative era.",
+          "Additionally, according to press announcements, further reissues and expanded editions encompassing various catalog highlights are officially anticipated to arrive in the year 2027."
+        ]
+      },
+      {
+        "h": "Matador Records' Expanding Roster",
+        "p": [
+          "The inclusion of the Scottish group further broadens Matador's growing catalog of legacy independent music. In recent times, the label has actively acquired rights to recordings from several other highly influential indie acts and alternative artists, including Pavement, Spoon, and Interpol.",
+          "This strategic expansion cements the label's position as a premier home for classic and contemporary independent alternative music catalogs."
+        ]
+      },
+      {
+        "h": "Chart Achievements and Legacy",
+        "p": [
+          "Throughout their long-running career, the ensemble has achieved notable commercial and chart milestones. They have secured a total of five top 10 albums on the Official U.K. Albums Chart, with their 2022 project landing at No. 8.",
+          "On the American music front, one of their mid-career records stands as their highest-charting release on the Billboard 200, successfully climbing up to the No. 15 position."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Matador Records has secured worldwide rights to the complete catalog of Belle and Sebastian, expanding a relationship that began in 1998. The arrangement includes upcoming anniversary reissues, special label imprints, and a unified global distribution strategy for the band's extensive musical history."
+        ]
+      }
+    ],
+    "facts": [
+      "Matador Records secured worldwide rights to the complete catalog of Belle and Sebastian.",
+      "The band's relationship with Matador dates back to 1998.",
+      "The first release under the expanded arrangement will be a 30th anniversary edition of If You're Feeling Sinister.",
+      "Further reissues and expanded editions are expected in 2027.",
+      "Belle and Sebastian have scored five top 10 albums on the Official U.K. Albums Chart.",
+      "A Bit of Previous landed at No. 8 on the Official U.K. Albums Chart.",
+      "Write About Love reached No. 15 on the Billboard 200."
+    ],
+    "entities": {
+      "people": [],
+      "titles": [
+        "The Boy With The Arab Strap",
+        "Tigermilk",
+        "If You're Feeling Sinister",
+        "Push Barman to Open Old Wounds Volume 1",
+        "Dear Catastrophe Waitress",
+        "The Life Pursuit",
+        "Write About Love",
+        "The Third Eye Centre",
+        "Fold Your Hands Child, You Walk Like A Peasant",
+        "Storytelling",
+        "Girls In Peacetime Want to Dance",
+        "Days Of The Bagnold Summer",
+        "A Bit of Previous",
+        "Late Developers"
+      ]
+    },
+    "keywords": [
+      "Belle and Sebastian catalog deal",
+      "Matador Records Belle and Sebastian",
+      "If You're Feeling Sinister anniversary edition",
+      "Belle and Sebastian Matador Records agreement"
+    ],
+    "images": [
+      {
+        "url": "https://www.billboard.com/wp-content/uploads/2026/11/belle-and-sebastian-cr-anna-isola-crolla-billboard-1800.jpg?w=1024",
+        "caption": "Belle and Sebastian Inks Worldwide Catalog Agreement With Matador Records",
+        "source": "Billboard"
+      }
+    ],
+    "published": "Wed, 25 Nov 2026 12:17:54 +0000"
   }
 };

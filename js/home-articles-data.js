@@ -36,6 +36,157 @@ window.FA_HOME_ARTICLES = {
     ],
     "published": "Wed, 25 Nov 2026 15:04:28 +0200"
   },
+  "1yirv48": {
+    "id": "1yirv48",
+    "type": "news",
+    "headline": "Avengers: Doomsday Projected Opening Tracks Nearly Four Times Higher Than Iron Man's Debut",
+    "dek": "Robert Downey Jr.'s return to the Marvel Cinematic Universe in Avengers: Doomsday is heading toward massive box office projections, vastly eclipsing the opening weekend earnings of his debut MCU film.",
+    "entities": {
+      "people": [
+        "Robert Downey Jr.",
+        "Jon Favreau",
+        "Thanos",
+        "Doctor Doom"
+      ],
+      "titles": [
+        "Avengers: Doomsday",
+        "Iron Man",
+        "Thunderbolts",
+        "Avengers: Infinity War"
+      ]
+    },
+    "keywords": [
+      "Avengers Doomsday box office",
+      "Robert Downey Jr Iron Man",
+      "Avengers Doomsday opening weekend",
+      "Iron Man North American box office"
+    ],
+    "images": [
+      {
+        "url": "https://www.koimoi.com/wp-content/new-galleries/2026/11/box-office-avengers-doomsdays-projected-domestic-debut-is-nearly-4x-iron-mans-debut-robert-downey-jrs-mcu-journey-comes-full-circle.jpg",
+        "caption": "Avengers: Doomsday Projected Opening Tracks Nearly Four Times Higher Than Iron Man's Debut",
+        "source": "Koimoi"
+      }
+    ],
+    "published": "Wed, 25 Nov 2026 12:49:54 +0000"
+  },
+  "1t3wili": {
+    "id": "1t3wili",
+    "type": "news",
+    "headline": "Noah Kahan Announces New Live Album Live From the Great Divide",
+    "dek": "The singer is capping off an epic year with a 16-track live album recorded across North America during his sold-out summer tour.",
+    "entities": {
+      "people": [
+        "Noah Kahan",
+        "Buffalo Traffic Jam",
+        "Gregory Alan Isakov",
+        "Remi Wolf",
+        "Ashe",
+        "Kingfishr",
+        "Alyssa Grace",
+        "Tiny Habit"
+      ],
+      "titles": [
+        "Live From the Great Divide",
+        "The Great Divide: The Last of the Bugs Digital Extended Album",
+        "Live from Fenway Park",
+        "The Last of the Bugs World Tour"
+      ]
+    },
+    "keywords": [
+      "Noah Kahan",
+      "Live From the Great Divide",
+      "The Great Divide Tour",
+      "The Last of the Bugs World Tour"
+    ],
+    "images": [
+      {
+        "url": "https://www.billboard.com/wp-content/uploads/2026/11/2293566780-e1795608858476.jpg?w=1024",
+        "caption": "Noah Kahan Announces New Live Album Live From the Great Divide",
+        "source": "Billboard"
+      }
+    ],
+    "published": "Wed, 25 Nov 2026 12:37:36 +0000"
+  },
+  "1v0ikw4": {
+    "id": "1v0ikw4",
+    "type": "news",
+    "headline": "Mani Ratnam and AR Rahman launch first single Aachi Aachi for Inji Vellam",
+    "dek": "The musical promotional campaign for Mani Ratnam's romantic drama Inji Vellam has officially commenced with the release of the debut track Aachi Aachi.",
+    "entities": {
+      "people": [
+        "Mani Ratnam",
+        "Sai Pallavi",
+        "Vijay Sethupathi",
+        "AR Rahman",
+        "Ilango Krishnan",
+        "Vaishali Samant",
+        "Sharanya Srinivas",
+        "Nitesh Tiwari",
+        "Dhanush"
+      ],
+      "titles": [
+        "Inji Vellam",
+        "Chekka Chivantha Vaanam",
+        "Ramayana",
+        "OM: Operation Mole"
+      ]
+    },
+    "keywords": [
+      "Inji Vellam",
+      "Aachi Aachi song",
+      "Mani Ratnam Inji Vellam",
+      "Vijay Sethupathi Sai Pallavi",
+      "AR Rahman Inji Vellam"
+    ],
+    "images": [
+      {
+        "url": "https://images.indianexpress.com/2026/11/Sai-Pallavi-in-Inji.png",
+        "caption": "Mani Ratnam and AR Rahman launch first single Aachi Aachi for Inji Vellam",
+        "source": "Indian Express — Entertainment"
+      }
+    ],
+    "published": "Wed, 25 Nov 2026 12:30:52 +0000"
+  },
+  "pesbgn": {
+    "id": "pesbgn",
+    "type": "news",
+    "headline": "Belle and Sebastian Inks Worldwide Catalog Agreement With Matador Records",
+    "dek": "The Glasgow indie-pop collective has partnered with Matador Records for a comprehensive worldwide catalog agreement that spans decades of releases.",
+    "entities": {
+      "people": [],
+      "titles": [
+        "The Boy With The Arab Strap",
+        "Tigermilk",
+        "If You're Feeling Sinister",
+        "Push Barman to Open Old Wounds Volume 1",
+        "Dear Catastrophe Waitress",
+        "The Life Pursuit",
+        "Write About Love",
+        "The Third Eye Centre",
+        "Fold Your Hands Child, You Walk Like A Peasant",
+        "Storytelling",
+        "Girls In Peacetime Want to Dance",
+        "Days Of The Bagnold Summer",
+        "A Bit of Previous",
+        "Late Developers"
+      ]
+    },
+    "keywords": [
+      "Belle and Sebastian catalog deal",
+      "Matador Records Belle and Sebastian",
+      "If You're Feeling Sinister anniversary edition",
+      "Belle and Sebastian Matador Records agreement"
+    ],
+    "images": [
+      {
+        "url": "https://www.billboard.com/wp-content/uploads/2026/11/belle-and-sebastian-cr-anna-isola-crolla-billboard-1800.jpg?w=1024",
+        "caption": "Belle and Sebastian Inks Worldwide Catalog Agreement With Matador Records",
+        "source": "Billboard"
+      }
+    ],
+    "published": "Wed, 25 Nov 2026 12:17:54 +0000"
+  },
   "b8glk9": {
     "id": "b8glk9",
     "type": "news",
@@ -4756,197 +4907,6 @@ window.FA_HOME_ARTICLES = {
     ],
     "images": [],
     "published": "Mon, 23 Nov 2026 22:20:00 EST"
-  },
-  "bhmw7x": {
-    "id": "bhmw7x",
-    "type": "news",
-    "headline": "Salman Khan Promises a Song to Qazi Touqeer on Reality TV",
-    "dek": "Superstar Salman Khan surprised Kashmiri singer Qazi Touqeer on Bigg Boss 20 by offering him a playback singing opportunity once he exits the house.",
-    "entities": {
-      "people": [
-        "Salman Khan",
-        "Qazi Touqeer",
-        "Arijit Singh",
-        "Rohit Shetty",
-        "Siddharth Thampi"
-      ],
-      "titles": [
-        "Bigg Boss 20",
-        "Fame Gurukul"
-      ]
-    },
-    "keywords": [
-      "Salman Khan Qazi",
-      "Qazi Touqeer Bigg Boss 20",
-      "Fame Gurukul 2005",
-      "Rohit Shetty Qazi song"
-    ],
-    "images": [
-      {
-        "url": "https://filmfare.wwmindia.com/content/2026/nov/i-will-give-you-a-song-salman-khan-offers-qazi-a-song1795490217.jpg",
-        "caption": "Salman Khan Promises a Song to Qazi Touqeer on Reality TV",
-        "source": "Filmfare"
-      }
-    ],
-    "published": "2026-11-24T08:48:04+05:30"
-  },
-  "tljc71": {
-    "id": "tljc71",
-    "type": "news",
-    "headline": "Only Murders in the Building Creators and Stars Confirm Major Season 7 Location Change",
-    "dek": "Following a detour to London for season 6, the creators and principal cast of Hulu's hit mystery comedy have confirmed plans to bring the production and story back to New York City for season 7.",
-    "entities": {
-      "people": [
-        "Matthew Rudoy",
-        "Steve Martin",
-        "Martin Short",
-        "Selena Gomez",
-        "Tina Fey",
-        "John Hoffman",
-        "Michael Cyril Creighton",
-        "Da'Vine Joy Randolph",
-        "Meryl Streep",
-        "Simone Ashley",
-        "Matthew Beard",
-        "Jim Broadbent",
-        "Peter Capaldi",
-        "Olivia Colman",
-        "Nicola Coughlan",
-        "Jamie Demetriou",
-        "Martin Freeman",
-        "Richard E. Grant",
-        "Geri Halliwell-Horner",
-        "Jane Horrocks",
-        "Sharon Horgan",
-        "Lesley Nicol",
-        "Jennifer Saunders",
-        "Sean Teale",
-        "David Tennant",
-        "Anjana Vasan",
-        "Jodie Whittaker"
-      ],
-      "titles": [
-        "Only Murders in the Building",
-        "Only Murders in London",
-        "Star Wars",
-        "The Boys",
-        "Game of Thrones",
-        "Doctor Who"
-      ]
-    },
-    "keywords": [
-      "Only Murders in the Building season 7",
-      "Only Murders in the Building season 6",
-      "Steve Martin Martin Short John Hoffman",
-      "Only Murders in the Building London"
-    ],
-    "images": [
-      {
-        "url": "https://static0.srcdn.com/wordpress/wp-content/uploads/2026/08/charles-mabel-and-oliver-sipping-tea-in-only-murders-in-the-building-season-6.jpg?w=1600&amp;h=900&amp;fit=crop",
-        "caption": "Only Murders in the Building Creators and Stars Confirm Major Season 7 Location Change",
-        "source": "Screen Rant"
-      }
-    ],
-    "published": "Tue, 24 Nov 2026 03:17:54 GMT"
-  },
-  "jq84rx": {
-    "id": "jq84rx",
-    "type": "news",
-    "headline": "Suriya’s ‘Scene’ Crosses Rs. 150 Crore India Net Milestone Amid Box Office Comparison With ‘Mookuthi Amman 2’",
-    "dek": "Tamil star Suriya's latest movie 'Scene' achieves a major box office milestone, crossing Rs. 150 crore in India net collection by its eighteenth day in theaters.",
-    "entities": {
-      "people": [
-        "Suriya",
-        "Jithu Madhavan",
-        "Nazriya Nazim",
-        "Naslen",
-        "Nayanthara",
-        "Regina Cassandra",
-        "Duniya Vijay",
-        "Urvashi",
-        "Abhinaya",
-        "Iniya",
-        "Singampuli",
-        "Sneha",
-        "Khushbu Sundar"
-      ],
-      "titles": [
-        "Scene",
-        "Aavesham",
-        "Mookuthi Amman 2"
-      ]
-    },
-    "keywords": [
-      "Scene box office collection",
-      "Suriya Scene film",
-      "Mookuthi Amman 2 box office",
-      "Scene India net collection",
-      "Nayanthara Mookuthi Amman 2"
-    ],
-    "images": [
-      {
-        "url": "https://static.toiimg.com/thumb/msid-136118220,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "caption": "Suriya’s ‘Scene’ Crosses Rs. 150 Crore India Net Milestone Amid Box Office Comparison With ‘Mookuthi Amman 2’",
-        "source": "Times of India — Entertainment"
-      }
-    ],
-    "published": "2026-11-24T08:44:41+05:30"
-  },
-  "tiai8n": {
-    "id": "tiai8n",
-    "type": "news",
-    "headline": "Seventy-Two Years Later, Aragorn's Definitive 'Lord of the Rings' Leadership Quote Remains Unmatched in Fantasy",
-    "dek": "J.R.R. Tolkien's literary masterpiece features a profound line about leadership from Aragorn that continues to define the quintessential fantasy hero more than seven decades later.",
-    "entities": {
-      "people": [
-        "Bill Dubiel",
-        "J.R.R. Tolkien",
-        "Viggo Mortensen",
-        "Peter Jackson",
-        "Éomer",
-        "Gandalf",
-        "Gimli",
-        "Legolas",
-        "Samwise Gamgee",
-        "Frodo",
-        "Sauron",
-        "Saurman",
-        "Fran Walsh",
-        "Philippa Boyens",
-        "Stephen Sinclair",
-        "Barrie M. Osborne",
-        "Bob Weinstein",
-        "Harvey Weinstein",
-        "Mark Ordesky",
-        "Robert Shaye",
-        "Elijah Wood",
-        "Ian McKellen",
-        "Sean Astin",
-        "Andrew Garfield"
-      ],
-      "titles": [
-        "The Lord of the Rings",
-        "The Return of the King",
-        "The Two Towers",
-        "The Fellowship of the Ring",
-        "Bourne",
-        "Rings of Power"
-      ]
-    },
-    "keywords": [
-      "Aragorn Lord of the Rings quote",
-      "The Two Towers Aragorn leadership",
-      "J.R.R. Tolkien Aragorn character",
-      "Viggo Mortensen Aragorn"
-    ],
-    "images": [
-      {
-        "url": "https://static0.moviewebimages.com/wordpress/wp-content/uploads/2026/04/aragorn-in-battle-in-lord-of-the-rings.jpg?w=1600&amp;h=900&amp;fit=crop",
-        "caption": "Seventy-Two Years Later, Aragorn's Definitive 'Lord of the Rings' Leadership Quote Remains Unmatched in Fantasy",
-        "source": "MovieWeb"
-      }
-    ],
-    "published": "Tue, 24 Nov 2026 03:00:26 GMT"
   },
   "1f98fib": {
     "id": "1f98fib",
