@@ -4,45 +4,6 @@
    {
     "step": "fetch",
     "category": "Trending News",
-    "run_at": "2026-11-24T17:51:45Z",
-    "run_id": "45452984340",
-    "status": "success",
-    "checked": {
-     "candidates": 534,
-     "detail": "RSS/Atom items across 137 sources; 3 source(s) errored"
-    },
-    "changed": {
-     "added": [
-      "Aadarsha Kutumbam OTT Release Date: When And Where To Watch Venkatesh Daggubati And Srinidhi Shetty's Film",
-      "Fawad Khan-Mahira Khan's Pakistani Netflix Series Faces India Ban Demand; AICWA Writes To PM Modi",
-      "Dil Ki Bewafaiyaan Review: Gaurav Khanna Returns To Fiction, But His Ludo Game With Shraddha Arya Steals Show",
-      "Mookuthi Amman 2 Box Office (Closing Collection): Nayanthara Starrer Concludes Its Run With A Massive Deficit Of 78%",
-      "Yeh Prem Mol Liya Box Office Day 1: Can It Score Sharvari Wagh’s Biggest Opening Ever?",
-      "Ramayana box office collection day 20: Ranbir Kapoor, Yash film bounces back with 28% jump on third Tuesday, inches closer to  ₹1,000 crore",
-      "Amid call for ban in India, Netflix releases Jo Bachay Hain Sang Samait Lo trailer featuring six complicated love stories across 3 generations",
-      "Kareena Kapoor shares unseen family photos, cheeky ‘Kim and Kendall Who’ comparison for Karisma steals attention",
-      "One Thing Jennifer Lopez Won’t Do With Her Romances Moving Forward: ‘I’ve Learned Lessons’",
-      "Fans Were Mad After A Wedding Guest Ignored Miley Cyrus’ Dress Code. Now, Her Sister Spoke Out",
-      "I Wanted More Of Maya Hawke’s Wiress At The End Of Sunrise On The Reaping. She Has Another POV",
-      "I Just Watched The Trailer For Ryan Murphy’s JonBenèt Ramsey Netflix Drama (And It’s Making Me More Uneasy Than Dahmer)",
-      "Tatyana Ali’s Farewell Message To Jan Ravnik Ahead Of Dancing With The Stars’ Season 35 Finale Has Me In My Feelings",
-      "Prince William & Kate’s Home Was Broken Into. This Isn’t The First Time An Incident Like This Happened",
-      "Charlie Cox Wanted To Audition For James Bond. Amazon’s Response Was Pretty Mean-Spirited",
-      "I Wondered Why Marvel Dropped Those Four Avengers: Doomsday Teasers So Early. Joe Russo Explained",
-      "You Can See Everything Is Hitting Box Office Milestones, But It’s Not Gonna Beat Out Michael Jackson (Hee Hee)",
-      "I Just Learned The Reason Vanna White Beat Out Hundreds Of Other Ladies For Wheel Of Fortune",
-      "OG Christmas Vacation Director Gets Real About How Feud With Chevy Chase Made Him Quit The Film",
-      "The Best Books From the Last 10 Years That Hooked Me From the Opening Chapter"
-     ],
-     "updated": [],
-     "count": 507,
-     "detail": "512 stories, 2 duplicates removed, 22 dropped"
-    },
-    "reason": null
-   },
-   {
-    "step": "fetch",
-    "category": "Trending News",
     "run_at": "2026-11-24T18:52:03Z",
     "run_id": "45463841450",
     "status": "success",
@@ -936,32 +897,48 @@
      "detail": "580 stories, 1 duplicates removed, 42 dropped"
     },
     "reason": null
-   }
-  ],
-  "apply_auto": [
+   },
    {
-    "step": "apply_auto",
+    "step": "fetch",
     "category": "Trending News",
-    "run_at": "2026-11-24T18:08:51Z",
-    "run_id": "45452984340",
+    "run_at": "2026-11-25T17:52:01Z",
+    "run_id": "45668967909",
     "status": "success",
     "checked": {
-     "candidates": 15,
-     "detail": "draft articles + box-office rows from out/gemini-batch.json"
+     "candidates": 407,
+     "detail": "RSS/Atom items across 137 sources; 1 source(s) errored"
     },
     "changed": {
      "added": [
-      "All India Cine Workers Association Demands Indian Ban On Netflix Series Jo Bachay Hain Sang Samait Lo",
-      "Miley Cyrus and Maxx Morando Wedding Dress Code Mix-Up Explained by Guest's Sister",
-      "Dil Ki Bewafaiyaan Review: Gaurav Khanna and Shraddha Arya Shine in Star Plus Family Drama",
-      "Mookuthi Amman 2 Box Office Closing Collection: Nayanthara Starrer Wraps Up Run With A 78% Deficit"
+      "Honey Singh And Atif Aslam Share Dance Floor At Dubai Wedding Amid Pakistani Show Ban Row - VIRAL VIDEO",
+      "Kendall Jenner Faces Backlash From Indian Users Over Bikini Cover Featuring Sacred Om Symbol - Reactions",
+      "Pakistani show 'Jo Bachay Hain Sang Samait Lo' controversy: Pak minister says 'India, grow up'",
+      "Ramayana box office collection day 21: Ranbir Kapoor, Yash's epic records lowest single-day haul below  ₹8 crore, crosses  ₹980 crore in India",
+      "Told You So: Bake Off’s Semifinal Had An Issue I Called From Day 1",
+      "Wondering If There Were ‘Red Flags’ For Theranos Employees? A Former Assistant Spoke Out",
+      "Full Survivor Series 2026 Predictions Including Thoughts On This Cody Rhodes And CM Punk Storyline",
+      "Every Reiwa Era Godzilla Movie, Ranked",
+      "‘The Pitt’ Season 3 Officially Sets HBO Max Release Date",
+      "Indiana Jones Officially Returns in New Marvel Release",
+      "Forget ‘High School Musical,’ Zac Efron’s $139M Body-Swap Movie Is Leaving Netflix",
+      "Johnny Depp’s Next Big Comeback Movie After Ebenezer Gets Surprising MPA Rating",
+      "HBO’s Harry Potter Set Photos Bring Back Two Magical Fan-Favorite Locations",
+      "Brad Pitt’s New Cliff Booth Movie Gets Netflix Spin-off With Quentin Tarantino, Release Date Set",
+      "Puss in Boots Gets a Huge New Crossover After Missing Out on Shrek 5 Role",
+      "Deadpool’s Adorable Pet Gets Perfect New Marvel Release Fans Absolutely Need to Own",
+      "Cameron Monaghan’s Surprise Star Wars Return Has Fans Asking the Same Question",
+      "Ireland Haunting True Story Drama 'The Lost Children of Tuam' Trailer",
+      "'The Pitt' Season 3 Release Date Officially Confirmed in New Teaser",
+      "Scarlett Johansson's Reboot of '70s Thriller Masterpiece Officially Confirms \"Bloody\" Rating"
      ],
      "updated": [],
-     "count": 4,
-     "detail": "+4 articles, +0 box-office rows, 0 rows updated"
+     "count": 381,
+     "detail": "393 stories, 2 duplicates removed, 14 dropped"
     },
     "reason": null
-   },
+   }
+  ],
+  "apply_auto": [
    {
     "step": "apply_auto",
     "category": "Trending News",
@@ -1483,27 +1460,29 @@
      "detail": "+1 articles, +0 box-office rows, 3 rows updated"
     },
     "reason": null
+   },
+   {
+    "step": "apply_auto",
+    "category": "Trending News",
+    "run_at": "2026-11-25T17:53:58Z",
+    "run_id": "45668967909",
+    "status": "success",
+    "checked": {
+     "candidates": 11,
+     "detail": "draft articles + box-office rows from out/gemini-batch.json"
+    },
+    "changed": {
+     "added": [
+      "Yo Yo Honey Singh And Atif Aslam Share Dance Floor At Dubai Wedding As Cross-Border Content Debate Simmers"
+     ],
+     "updated": [],
+     "count": 4,
+     "detail": "+1 articles, +0 box-office rows, 3 rows updated"
+    },
+    "reason": null
    }
   ],
   "ott": [
-   {
-    "step": "ott",
-    "category": "OTT",
-    "run_at": "2026-11-24T18:56:34Z",
-    "run_id": "45463841450",
-    "status": "success",
-    "checked": {
-     "candidates": 421,
-     "detail": "OTT now/coming titles from the published catalogue"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 0,
-     "detail": "now 416, coming 5"
-    },
-    "reason": "no-new-data"
-   },
    {
     "step": "ott",
     "category": "OTT",
@@ -1917,30 +1896,27 @@
      "detail": "now 439, coming 5"
     },
     "reason": "no-new-data"
+   },
+   {
+    "step": "ott",
+    "category": "OTT",
+    "run_at": "2026-11-25T17:53:58Z",
+    "run_id": "45668967909",
+    "status": "success",
+    "checked": {
+     "candidates": 444,
+     "detail": "OTT now/coming titles from the published catalogue"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 0,
+     "detail": "now 439, coming 5"
+    },
+    "reason": "no-new-data"
    }
   ],
   "trending_weekly": [
-   {
-    "step": "trending_weekly",
-    "category": "Trending Topics",
-    "run_at": "2026-11-24T18:18:58Z",
-    "run_id": "45452984340",
-    "status": "success",
-    "checked": {
-     "candidates": 100,
-     "detail": "cached Google RSS trend/article intersection"
-    },
-    "changed": {
-     "added": [
-      "i49k26",
-      "1gmceuk",
-      "1t86cpe"
-     ],
-     "updated": [],
-     "count": 3
-    },
-    "reason": null
-   },
    {
     "step": "trending_weekly",
     "category": "Trending Topics",
@@ -2390,27 +2366,26 @@
      "count": 6
     },
     "reason": null
-   }
-  ],
-  "multisource_boxoffice": [
+   },
    {
-    "step": "multisource_boxoffice",
-    "category": "Box Office",
-    "run_at": "2026-11-24T18:18:54Z",
-    "run_id": "45452984340",
+    "step": "trending_weekly",
+    "category": "Trending Topics",
+    "run_at": "2026-11-25T17:54:32Z",
+    "run_id": "45668967909",
     "status": "success",
     "checked": {
-     "candidates": 750,
-     "detail": "688 collected staging rows from readers; 256 averaged across 2+ sources"
+     "candidates": 100,
+     "detail": "cached Google RSS trend/article intersection"
     },
     "changed": {
      "added": [],
      "updated": [],
-     "count": 4,
-     "detail": "+0 new rows, 4 updated rows, 720 unchanged"
+     "count": 0
     },
-    "reason": null
-   },
+    "reason": "no-new-data"
+   }
+  ],
+  "multisource_boxoffice": [
    {
     "step": "multisource_boxoffice",
     "category": "Box Office",
@@ -2824,19 +2799,27 @@
      "detail": "+0 new rows, 5 updated rows, 724 unchanged"
     },
     "reason": null
+   },
+   {
+    "step": "multisource_boxoffice",
+    "category": "Box Office",
+    "run_at": "2026-11-25T17:54:03Z",
+    "run_id": "45668967909",
+    "status": "success",
+    "checked": {
+     "candidates": 755,
+     "detail": "691 collected staging rows from readers; 258 averaged across 2+ sources"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 5,
+     "detail": "+0 new rows, 5 updated rows, 724 unchanged"
+    },
+    "reason": null
    }
   ],
   "gemini_reviews": [
-   {
-    "step": "gemini_reviews",
-    "category": "Reviews",
-    "run_at": "2026-11-24T18:19:07Z",
-    "run_id": "45452984340",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "gemini_reviews",
     "category": "Reviews",
@@ -3073,34 +3056,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "gemini_reviews",
+    "category": "Reviews",
+    "run_at": "2026-11-25T17:54:45Z",
+    "run_id": "45668967909",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "convert_news": [
-   {
-    "step": "convert_news",
-    "category": "Trending News",
-    "run_at": "2026-11-24T18:18:57Z",
-    "run_id": "45452984340",
-    "status": "success",
-    "checked": {
-     "candidates": 600,
-     "detail": "feed entries from out/queue.json"
-    },
-    "changed": {
-     "added": [
-      "All India Cine Workers Association Demands Indian Ban On Netflix Series Jo Bachay Hain Sang Samait Lo",
-      "Miley Cyrus and Maxx Morando Wedding Dress Code Mix-Up Explained by Guest's Sister",
-      "Dil Ki Bewafaiyaan Review: Gaurav Khanna and Shraddha Arya Shine in Star Plus Family Drama",
-      "Mookuthi Amman 2 Box Office Closing Collection: Nayanthara Starrer Wraps Up Run With A 78% Deficit",
-      "Bano Episode 41 — Watch Online on Geo TV",
-      "Hurmat Episode 16 — Watch Online on HUM TV"
-     ],
-     "updated": [],
-     "count": 6,
-     "detail": "api-news.json 600 items, api-trends.json 12 items"
-    },
-    "reason": null
-   },
    {
     "step": "convert_news",
     "category": "Trending News",
@@ -3616,34 +3584,29 @@
      "detail": "api-news.json 600 items, api-trends.json 12 items"
     },
     "reason": null
-   }
-  ],
-  "episode_guides": [
+   },
    {
-    "step": "episode_guides",
-    "category": "Drama Episodes",
-    "run_at": "2026-11-24T18:07:09Z",
-    "run_id": "45452984340",
+    "step": "convert_news",
+    "category": "Trending News",
+    "run_at": "2026-11-25T17:54:31Z",
+    "run_id": "45668967909",
     "status": "success",
     "checked": {
-     "candidates": 16,
-     "detail": "YouTube episodes on the 4 official PK channels (+ intl 1M+ views); 9 new detected; 2 summary failure(s): Khushi Ep 73, Bano Ep 40"
+     "candidates": 600,
+     "detail": "feed entries from out/queue.json"
     },
     "changed": {
      "added": [
-      "Bano Ep 41",
-      "Hurmat Ep 16"
+      "Yo Yo Honey Singh And Atif Aslam Share Dance Floor At Dubai Wedding As Cross-Border Content Debate Simmers"
      ],
-     "updated": [
-      "Hurmat Ep 16",
-      "Bano Ep 41",
-      "Zehar-e-Mohabbat Ep 25",
-      "Khushi Ep 61"
-     ],
-     "count": 6
+     "updated": [],
+     "count": 1,
+     "detail": "api-news.json 600 items, api-trends.json 12 items"
     },
     "reason": null
-   },
+   }
+  ],
+  "episode_guides": [
    {
     "step": "episode_guides",
     "category": "Drama Episodes",
@@ -3906,19 +3869,19 @@
      "count": 7
     },
     "reason": null
-   }
-  ],
-  "title_seed": [
+   },
    {
-    "step": "title_seed",
-    "category": "Spotlight / Coming Soon / Most Awaited",
-    "run_at": "2026-11-24T18:19:07Z",
-    "run_id": "45452984340",
+    "step": "episode_guides",
+    "category": "Drama Episodes",
+    "run_at": "2026-11-25T17:54:45Z",
+    "run_id": "45668967909",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "title_seed": [
    {
     "step": "title_seed",
     "category": "Spotlight / Coming Soon / Most Awaited",
@@ -4237,31 +4200,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "title_seed",
+    "category": "Spotlight / Coming Soon / Most Awaited",
+    "run_at": "2026-11-25T17:54:45Z",
+    "run_id": "45668967909",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "gemini_batch": [
-   {
-    "step": "gemini_batch",
-    "category": "Trending News",
-    "run_at": "2026-11-24T18:08:50Z",
-    "run_id": "45452984340",
-    "status": "success",
-    "checked": {
-     "candidates": 7,
-     "detail": "news queue items drafted this run; 507 still unprocessed; today by category: movies 7/6, tv_dramas 11/4, episodes 0/2, box_office 13/6, celebrities_events 14/5, upcoming_releases 2/4, ott_streaming 8/4, trailers 1/3, awards 3/2, music_ost 2/2, viral 1/2"
-    },
-    "changed": {
-     "added": [
-      "All India Cine Workers Association Demands Indian Ban On Netflix Series Jo Bachay Hain Sang Samait Lo",
-      "Miley Cyrus and Maxx Morando Wedding Dress Code Mix-Up Explained by Guest's Sister",
-      "Dil Ki Bewafaiyaan Review: Gaurav Khanna and Shraddha Arya Shine in Star Plus Family Drama",
-      "Mookuthi Amman 2 Box Office Closing Collection: Nayanthara Starrer Wraps Up Run With A 78% Deficit"
-     ],
-     "updated": [],
-     "count": 4
-    },
-    "reason": null
-   },
    {
     "step": "gemini_batch",
     "category": "Trending News",
@@ -4760,26 +4711,28 @@
      "count": 1
     },
     "reason": null
+   },
+   {
+    "step": "gemini_batch",
+    "category": "Trending News",
+    "run_at": "2026-11-25T17:53:57Z",
+    "run_id": "45668967909",
+    "status": "success",
+    "checked": {
+     "candidates": 21,
+     "detail": "news queue items drafted this run; 381 still unprocessed; today by category: movies 8/6, tv_dramas 7/4, episodes 0/2, box_office 11/6, celebrities_events 13/5, upcoming_releases 5/4, ott_streaming 5/4, trailers 3/3, awards 4/2, music_ost 5/2, viral 3/2"
+    },
+    "changed": {
+     "added": [
+      "Yo Yo Honey Singh And Atif Aslam Share Dance Floor At Dubai Wedding As Cross-Border Content Debate Simmers"
+     ],
+     "updated": [],
+     "count": 1
+    },
+    "reason": null
    }
   ],
   "overseas_ai": [
-   {
-    "step": "overseas_ai",
-    "category": "Box Office",
-    "run_at": "2026-11-24T18:10:08Z",
-    "run_id": "45452984340",
-    "status": "success",
-    "checked": {
-     "candidates": 59,
-     "detail": "published movies with missing overseas day figures; Tavily searches: 48"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 0
-    },
-    "reason": "no-new-data"
-   },
    {
     "step": "overseas_ai",
     "category": "Box Office",
@@ -5093,24 +5046,19 @@
      "count": 0
     },
     "reason": "no-new-data"
+   },
+   {
+    "step": "overseas_ai",
+    "category": "Box Office",
+    "run_at": "2026-11-25T17:54:45Z",
+    "run_id": "45668967909",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "publish": [
-   {
-    "step": "publish",
-    "category": "Trending News",
-    "run_at": "2026-11-24T18:19:07Z",
-    "run_id": "45452984340",
-    "status": "success",
-    "checked": null,
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 482,
-     "detail": "lines changed in owned files; no per-item summary from script"
-    },
-    "reason": null
-   },
    {
     "step": "publish",
     "category": "Trending News",
@@ -5455,24 +5403,24 @@
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
-   }
-  ],
-  "stats_traffic": [
+   },
    {
-    "step": "stats_traffic",
-    "category": "Stats / Health",
-    "run_at": "2026-11-24T18:19:07Z",
-    "run_id": "45452984340",
+    "step": "publish",
+    "category": "Trending News",
+    "run_at": "2026-11-25T17:54:45Z",
+    "run_id": "45668967909",
     "status": "success",
     "checked": null,
     "changed": {
      "added": [],
      "updated": [],
-     "count": 13,
+     "count": 91,
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
-   },
+   }
+  ],
+  "stats_traffic": [
    {
     "step": "stats_traffic",
     "category": "Stats / Health",
@@ -5752,19 +5700,24 @@
     "checked": null,
     "changed": null,
     "reason": "no-new-data"
+   },
+   {
+    "step": "stats_traffic",
+    "category": "Stats / Health",
+    "run_at": "2026-11-25T17:54:45Z",
+    "run_id": "45668967909",
+    "status": "success",
+    "checked": null,
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 2,
+     "detail": "lines changed in owned files; no per-item summary from script"
+    },
+    "reason": null
    }
   ],
   "stats_pipeline": [
-   {
-    "step": "stats_pipeline",
-    "category": "Stats / Health",
-    "run_at": "2026-11-24T18:19:07Z",
-    "run_id": "45452984340",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "stats_pipeline",
     "category": "Stats / Health",
@@ -6014,19 +5967,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "stats_health": [
+   },
    {
-    "step": "stats_health",
+    "step": "stats_pipeline",
     "category": "Stats / Health",
-    "run_at": "2026-11-24T18:19:07Z",
-    "run_id": "45452984340",
+    "run_at": "2026-11-25T17:54:45Z",
+    "run_id": "45668967909",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "stats_health": [
    {
     "step": "stats_health",
     "category": "Stats / Health",
@@ -6261,19 +6214,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "metadata_refresh": [
+   },
    {
-    "step": "metadata_refresh",
-    "category": "Spotlight / Coming Soon / Most Awaited",
-    "run_at": "2026-11-24T18:19:07Z",
-    "run_id": "45452984340",
+    "step": "stats_health",
+    "category": "Stats / Health",
+    "run_at": "2026-11-25T17:54:45Z",
+    "run_id": "45668967909",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "metadata_refresh": [
    {
     "step": "metadata_refresh",
     "category": "Spotlight / Coming Soon / Most Awaited",
@@ -6557,19 +6510,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "providers_backfill": [
+   },
    {
-    "step": "providers_backfill",
-    "category": "OTT",
-    "run_at": "2026-11-24T18:19:07Z",
-    "run_id": "45452984340",
+    "step": "metadata_refresh",
+    "category": "Spotlight / Coming Soon / Most Awaited",
+    "run_at": "2026-11-25T17:54:45Z",
+    "run_id": "45668967909",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "providers_backfill": [
    {
     "step": "providers_backfill",
     "category": "OTT",
@@ -6810,19 +6763,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "providers_backfill",
+    "category": "OTT",
+    "run_at": "2026-11-25T17:54:45Z",
+    "run_id": "45668967909",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "tavily_boxoffice": [
-   {
-    "step": "tavily_boxoffice",
-    "category": "Box Office",
-    "run_at": "2026-11-24T18:19:07Z",
-    "run_id": "45452984340",
-    "status": "success",
-    "checked": null,
-    "changed": null,
-    "reason": "no-new-data"
-   },
    {
     "step": "tavily_boxoffice",
     "category": "Box Office",
@@ -7052,19 +7005,19 @@
     "checked": null,
     "changed": null,
     "reason": "no-new-data"
-   }
-  ],
-  "keywords_refresh": [
+   },
    {
-    "step": "keywords_refresh",
-    "category": "Trending News",
-    "run_at": "2026-11-24T18:19:07Z",
-    "run_id": "45452984340",
+    "step": "tavily_boxoffice",
+    "category": "Box Office",
+    "run_at": "2026-11-25T17:54:45Z",
+    "run_id": "45668967909",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "keywords_refresh": [
    {
     "step": "keywords_refresh",
     "category": "Trending News",
@@ -7313,6 +7266,16 @@
     "category": "Trending News",
     "run_at": "2026-11-25T17:20:32Z",
     "run_id": "45658272311",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
+   },
+   {
+    "step": "keywords_refresh",
+    "category": "Trending News",
+    "run_at": "2026-11-25T17:54:45Z",
+    "run_id": "45668967909",
     "status": "skipped",
     "checked": null,
     "changed": null,
@@ -7859,16 +7822,6 @@
    {
     "step": "advance_booking",
     "category": "Box Office",
-    "run_at": "2026-11-24T18:19:07Z",
-    "run_id": "45452984340",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
-   {
-    "step": "advance_booking",
-    "category": "Box Office",
     "run_at": "2026-11-24T19:01:37Z",
     "run_id": "45463841450",
     "status": "success",
@@ -8105,19 +8058,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "home_boxoffice_worldwide": [
+   },
    {
-    "step": "home_boxoffice_worldwide",
+    "step": "advance_booking",
     "category": "Box Office",
-    "run_at": "2026-11-24T18:19:07Z",
-    "run_id": "45452984340",
+    "run_at": "2026-11-25T17:54:45Z",
+    "run_id": "45668967909",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "home_boxoffice_worldwide": [
    {
     "step": "home_boxoffice_worldwide",
     "category": "Box Office",
@@ -8382,8 +8335,23 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "home_boxoffice_worldwide",
+    "category": "Box Office",
+    "run_at": "2026-11-25T17:54:45Z",
+    "run_id": "45668967909",
+    "status": "success",
+    "checked": null,
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 4836,
+     "detail": "lines changed in owned files; no per-item summary from script"
+    },
+    "reason": null
    }
   ]
  },
- "updated_at": "2026-11-25T17:20:32Z"
+ "updated_at": "2026-11-25T17:54:45Z"
 }
