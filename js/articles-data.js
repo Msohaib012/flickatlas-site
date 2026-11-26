@@ -250251,5 +250251,419 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Wed, 25 Nov 2026 23:08:11 +0000"
+  },
+  "1fm2gxt": {
+    "id": "1fm2gxt",
+    "type": "news",
+    "headline": "Ramayana: Rise of a Legend Box Office Day 21: Ranbir Kapoor and Yash Starrer Approaches Rs 1,000 Crore Domestic Net",
+    "dek": "Nitesh Tiwari's fantasy epic continues its theatrical journey, pulling in solid weekday numbers and nearing historic domestic box-office milestones after three weeks on the big screen.",
+    "body": [
+      {
+        "h": "Reaching Near the Milestone",
+        "p": [
+          "The theatrical juggernaut known as 'Ramayana: Rise of a Legend' is rapidly approaching a monumental domestic milestone. After completing twenty-one days of its theatrical run, the fantasy epic has brought its cumulative India net collection tantalizingly close to the Rs 1,000 crore threshold.",
+          "The feature continues to draw audiences into cinema halls nationwide, sustaining strong commercial momentum even deep into its third week of release across multiple languages and formats."
+        ]
+      },
+      {
+        "h": "Midweek Earnings Performance",
+        "p": [
+          "On Wednesday, November 25, the movie accumulated a robust Rs 9.60 crore net across all languages. This single-day addition brings the cumulative domestic net total to Rs 982.55 crore.",
+          "Simultaneously, the film's total India gross stands at an impressive Rs 1,173.60 crore, while the worldwide gross collection has successfully climbed to a massive Rs 1,755.60 crore globally."
+        ]
+      },
+      {
+        "h": "Show Count and Language Contributions",
+        "p": [
+          "Industry tracking indicates that the feature was screened across 15,700 shows nationwide on Wednesday. The Hindi version remained the primary driver of these revenues, bringing in Rs 6.75 crore from 13,463 shows.",
+          "Regional versions also contributed meaningfully to the overall tally, with Malayalam adding Rs 1.10 crore, Kannada earning Rs 75 lakh, Tamil contributing Rs 70 lakh, and Telugu bringing in Rs 30 lakh."
+        ]
+      },
+      {
+        "h": "Weekday Trends and Comparisons",
+        "p": [
+          "While the film continues to command a leading presence at the box office, its latest daily earnings recorded a 45.1% decline when compared to the Rs 17.50 crore collected on the preceding Tuesday.",
+          "Despite this expected weekday drop-off, the production maintains a commanding lead over its contemporaries, holding firm as a dominant force in domestic box office performance through its third week."
+        ]
+      },
+      {
+        "h": "Three-Week Cumulative Breakdown",
+        "p": [
+          "Looking back at its box-office trajectory, the opening eight days set a blistering pace with Rs 564.60 crore in India net collections and Rs 675.05 crore in gross earnings.",
+          "During its second week covering days nine through fifteen, the feature added another Rs 299.15 crore net, while the third week spanning days sixteen through twenty-one contributed an additional Rs 118.80 crore to the domestic net total."
+        ]
+      },
+      {
+        "h": "Language-Wise Distribution",
+        "p": [
+          "The Hindi version accounts for the vast majority of the domestic earnings, accumulating a net total of Rs 746 crore, which translates to roughly 75.9% of the total India net collections.",
+          "Among the other language versions, Kannada follows with Rs 77.80 crore, Telugu contributes Rs 57.60 crore, Malayalam stands at Rs 52.30 crore, and Tamil rounds out the tally with Rs 48.85 crore."
+        ]
+      },
+      {
+        "h": "Cast and Production Background",
+        "p": [
+          "Directed by Nitesh Tiwari, 'Ramayana: Rise of a Legend' features a high-profile ensemble cast headlined by Ranbir Kapoor and Yash, alongside Sai Pallavi, Sunny Deol, Ravi Dubey, and Lara Dutta in crucial roles.",
+          "The project has set notable benchmarks throughout its theatrical run, supported by widespread multi-lingual releases and strong 3D format occupancies across various regional markets."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Nitesh Tiwari's 'Ramayana: Rise of a Legend' has neared the Rs 1,000 crore India net mark after earning Rs 9.60 crore on Wednesday, bringing its cumulative domestic net to Rs 982.55 crore on day 21.",
+          "Starring Ranbir Kapoor and Yash, the fantasy epic has maintained strong language-wise contributions and massive worldwide earnings of Rs 1,755.60 crore despite a natural weekday collection decline."
+        ]
+      }
+    ],
+    "facts": [
+      "Ramayana: Rise of a Legend earned Rs 9.60 crore on Wednesday, November 25.",
+      "The film's cumulative India net collection reached Rs 982.55 crore after 21 days.",
+      "The India gross collection stands at Rs 1,173.60 crore.",
+      "The worldwide gross collection reached Rs 1,755.60 crore.",
+      "The film recorded 15,700 shows across the country on Wednesday.",
+      "The Hindi version collected Rs 6.75 crore from 13,463 shows on Wednesday.",
+      "The Malayalam version added Rs 1.10 crore from 811 shows.",
+      "The Kannada version earned Rs 75 lakh from 448 shows.",
+      "The Tamil version contributed Rs 70 lakh across 565 shows.",
+      "The Telugu version brought in Rs 30 lakh from 413 shows.",
+      "Tuesday's collection was Rs 17.50 crore.",
+      "Opening eight days generated Rs 564.60 crore in India net collections.",
+      "Second week net collection was Rs 299.15 crore.",
+      "Third week net collection contributed another Rs 118.80 crore.",
+      "Hindi cumulative net collection reached Rs 746 crore.",
+      "Kannada net collection stands at Rs 77.80 crore.",
+      "Telugu net collection stands at Rs 57.60 crore.",
+      "Malayalam net collection stands at Rs 52.30 crore.",
+      "Tamil net collection stands at Rs 48.85 crore."
+    ],
+    "entities": {
+      "people": [
+        "Nitesh Tiwari",
+        "Ranbir Kapoor",
+        "Yash",
+        "Sai Pallavi",
+        "Sunny Deol",
+        "Ravi Dubey",
+        "Lara Dutta"
+      ],
+      "titles": [
+        "Ramayana: Rise of a Legend"
+      ]
+    },
+    "keywords": [
+      "Ramayana Rise of a Legend box office",
+      "Ramayana collection day 21",
+      "Ranbir Kapoor Yash Ramayana earnings",
+      "Ramayana India net collection"
+    ],
+    "images": [
+      {
+        "url": "https://static.toiimg.com/thumb/msid-136175401,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "caption": "Ramayana: Rise of a Legend Box Office Day 21: Ranbir Kapoor and Yash Starrer Approaches Rs 1,000 Crore Domestic Net",
+        "source": "Times of India — Entertainment"
+      }
+    ],
+    "published": "2026-11-26T06:07:00+05:30"
+  },
+  "cq0u39": {
+    "id": "cq0u39",
+    "type": "news",
+    "headline": "Federal Judge Halts FCC Early Broadcast License Reviews in First Amendment Lawsuit Filed by ABC",
+    "dek": "U.S. District Judge Loren AliKhan issued a preliminary injunction pausing the FCC's unprecedented early review of ABC broadcast licenses, siding with the network in its First Amendment retaliation lawsuit.",
+    "body": [
+      {
+        "h": "The Preliminary Injunction",
+        "p": [
+          "A federal judge has delivered a major legal victory to ABC by stepping into its First Amendment lawsuit against the Federal Communications Commission. U.S. District Judge Loren AliKhan issued a preliminary injunction that brings a temporary halt to the regulatory agency's controversial efforts to review the network's broadcast licenses prematurely.",
+          "The court concluded that the television network demonstrated a strong likelihood of prevailing on its core claim that the regulatory proceedings were launched as a form of unconstitutional retaliation."
+        ]
+      },
+      {
+        "h": "Retaliation and Disfavored Speech",
+        "p": [
+          "In her strongly worded ruling, Judge AliKhan emphasized that while the Commission holds legitimate authority to enforce laws, it cannot punish or retaliate against broadcasters for viewpoints or content deemed unfavorable by the administration. She firmly stated that the case was clear-cut and that public interest heavily favored judicial intervention.",
+          "The legal challenge stems from accusations that the agency targeted ABC because of its news coverage, alongside programming such as Jimmy Kimmel Live and The View, which have frequently drawn public criticism from the Trump administration."
+        ]
+      },
+      {
+        "h": "Existential Threat and Editorial Chill",
+        "p": [
+          "The court also dismissed arguments from the FCC attempting to throw out the lawsuit on jurisdictional grounds. Judge AliKhan pointed out the severe, existential risk that losing broadcast licenses poses to a media organization, noting that such early proceedings create a heavy atmosphere capable of chilling protected speech among ordinary broadcasters.",
+          "To highlight this urgent threat, the ruling pointed to editorial adjustments the network already made out of apprehension. These included shifting a guest appearance by James Talarico to YouTube and livestreaming a primetime presidential speech to avoid potential punitive measures."
+        ]
+      },
+      {
+        "h": "Unprecedented Regulatory Actions",
+        "p": [
+          "ABC stands as the first major media enterprise to challenge the wave of regulatory investigations initiated since the start of Donald Trump's second term. The network originally filed its lawsuit in August after receiving orders to submit its eight owned station licenses for early review years ahead of their scheduled 2028 expiration dates.",
+          "Legal representatives for the network argued during hearings that facing the potential loss of broadcast licenses functions effectively as a death penalty for individual stations, comparing the pressure to the severe conditions of the French Revolution."
+        ]
+      },
+      {
+        "h": "The White House Connection",
+        "p": [
+          "The lawsuit highlights a direct link between presidential rhetoric and regulatory actions, noting that several ABC figures appeared on White House media offender lists. The court observed that the timeline of the FCC's order closely followed public calls for punitive actions against hosts and programs.",
+          "Furthermore, the judge questioned the agency's stated justification that the license reviews were tied to missing diversity, equity, and inclusion documents, finding the explanation lacking in credibility when weighed against the rhetoric from leadership."
+        ]
+      },
+      {
+        "h": "Reactions and Broader Impact",
+        "p": [
+          "While representatives for both the FCC and ABC declined immediate commentary following the decision, the ruling drew varied political responses. Anna Gomez, the sole Democrat serving on the commission, issued a statement praising the court for checking what she described as a weaponization of licensing authority.",
+          "Meanwhile, the regulatory body has maintained that the network should have allowed the standard review process to play out fully before seeking intervention in a district court instead of the D.C. Circuit Court of Appeals."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "A federal judge has granted ABC a preliminary injunction halting the FCC's early broadcast license review proceedings. The court determined that the network is likely to succeed in showing the reviews were unconstitutional retaliation for disfavored speech."
+        ]
+      }
+    ],
+    "facts": [
+      "U.S. District Judge Loren AliKhan issued a preliminary injunction on Wednesday.",
+      "ABC filed its lawsuit against the FCC in August.",
+      "The first of the network's broadcast licenses was not set to expire until 2028.",
+      "Anna Gomez is the sole Democrat on the FCC."
+    ],
+    "entities": {
+      "people": [
+        "Ted Johnson",
+        "Jane Fonda",
+        "Robert De Niro",
+        "Chris Van Hollen",
+        "Chuck Schumer",
+        "Al Gore",
+        "Brendan Carr",
+        "Loren AliKhan",
+        "James Talarico",
+        "Jimmy Kimmel",
+        "Donald Trump",
+        "Beth Wilkinson",
+        "Anna Gomez",
+        "Will Ferrell",
+        "Andy Taylor",
+        "Robert Pattinson",
+        "Owen Patrick Joyner",
+        "Kyle Clark",
+        "Audrey Trullinger",
+        "Strauss Zelnick"
+      ],
+      "titles": [
+        "The View",
+        "Jimmy Kimmel Live",
+        "Dancing With The Stars",
+        "Dancing With The Stars: The Next Pro",
+        "The Hawk",
+        "The Pitt",
+        "Sunrise On The Reaping",
+        "Hooters: The Movie",
+        "Avengers: Doomsday",
+        "Dune 3",
+        "The Body",
+        "Grand Theft Auto VI"
+      ]
+    },
+    "keywords": [
+      "ABC FCC lawsuit",
+      "Loren AliKhan preliminary injunction",
+      "Brendan Carr FCC license review",
+      "ABC First Amendment lawsuit"
+    ],
+    "images": [
+      {
+        "url": "https://deadline.com/wp-content/uploads/2026/10/Brendan-Carr-.jpg?w=1024",
+        "caption": "Federal Judge Halts FCC Early Broadcast License Reviews in First Amendment Lawsuit Filed by ABC",
+        "source": "Deadline"
+      }
+    ],
+    "published": "Thu, 26 Nov 2026 00:30:46 +0000"
+  },
+  "pecora": {
+    "id": "pecora",
+    "type": "news",
+    "headline": "Shah Rukh Khan Takes Legal Action Against Content Creator Over Viral Social Media Video",
+    "dek": "Bollywood icon Shah Rukh Khan has issued a defamation notice to an influencer over a controversial Instagram reel concerning a public appearance.",
+    "body": [
+      {
+        "h": "The Legal Notice Issued by Shah Rukh Khan",
+        "p": [
+          "Bollywood icon Shah Rukh Khan has initiated formal legal proceedings against a social media personality. The star's legal representatives dispatched a notice addressing an allegedly defamatory Instagram reel that recently began circulating across digital platforms.",
+          "The disputed video captures the actor during a public gathering interacting with spiritual figure Sadhguru alongside other invited guests. The core of the legal objection lies in how the footage was presented to the online audience."
+        ]
+      },
+      {
+        "h": "Controversial Claims Made in the Reel",
+        "p": [
+          "The digital content creator, identified as Suvigya Sharma, shared footage from the spiritual event accompanied by a specific caption. According to reports, the accompanying text asserted that the renowned actor was instructed to remain silent during the conversation.",
+          "Legal representatives acting on behalf of the Bollywood superstar characterized these digital claims as entirely false and baseless. They argued that the post was deliberately engineered to distort the context of the recorded interaction."
+        ]
+      },
+      {
+        "h": "Invocation of Defamation Laws",
+        "p": [
+          "The formal legal document explicitly cites Section 356 of the Bharatiya Nyaya Sanhita, 2023, which addresses matters of defamation. The notice emphasizes that individuals lack the legal right to disseminate fabricated and damaging assertions regarding public figures without producing verified evidence.",
+          "Furthermore, the legal team stressed that circulating such unverified material online has the potential to severely harm the actor's public standing and professional reputation."
+        ]
+      },
+      {
+        "h": "Specific Demands Placed on the Influencer",
+        "p": [
+          "The recipient of the notice has been given a strict timeframe of 48 hours to fulfill a series of compliance demands. These requirements include deleting the controversial Instagram reel immediately and desisting from any further sharing or republication of the claim.",
+          "In addition to removing the post, the influencer must edit or eliminate the misleading captions associated with the material. The notice also mandates that all original footage and publishing records be preserved, with written confirmation of compliance sent back within the stipulated window."
+        ]
+      },
+      {
+        "h": "Background on the Actor's Upcoming Projects",
+        "p": [
+          "Amid these ongoing developments, the prominent actor remains focused on his upcoming professional commitments in the film industry. He is currently preparing for the theatrical debut of his highly anticipated action feature titled King.",
+          "The forthcoming movie carries significant attention as it marks the first time the superstar will share the big screen with his daughter, Suhana Khan. The ambitious project also boasts a prominent ensemble cast featuring Deepika Padukone, Abhishek Bachchan, and Rani Mukerji."
+        ]
+      },
+      {
+        "h": "Significance of Celebrity Protection Online",
+        "p": [
+          "This incident highlights the growing legal scrutiny surrounding social media content creation and the misuse of celebrity footage for online engagement. Public figures are increasingly utilizing formal legal channels to combat misleading narratives that spread rapidly across digital networks.",
+          "The swift response from the actor's camp underscores a zero-tolerance policy toward content that manipulates real-world events for viral attention. It serves as a stark reminder to digital creators regarding accountability in online publishing."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Bollywood superstar Shah Rukh Khan has issued a formal defamation notice to social media influencer Suvigya Sharma over a misleading Instagram reel about an event with Sadhguru. The legal notice, dated November 23 and citing Section 356 of the Bharatiya Nyaya Sanhita, 2023, demands the removal of the post and written confirmation within 48 hours. Meanwhile, the actor is preparing for the release of his upcoming action film King, featuring Suhana Khan, Deepika Padukone, Abhishek Bachchan, and Rani Mukerji."
+        ]
+      }
+    ],
+    "facts": [
+      "Shah Rukh Khan sent a legal notice to social media influencer Suvigya Sharma on November 23, 2026.",
+      "The notice cites Section 356 of the Bharatiya Nyaya Sanhita, 2023.",
+      "The influencer was given 48 hours to comply with five demands.",
+      "Shah Rukh Khan's upcoming film is titled King and is slated for a Christmas release.",
+      "King features Suhana Khan, Deepika Padukone, Abhishek Bachchan, and Rani Mukerji."
+    ],
+    "entities": {
+      "people": [
+        "Shah Rukh Khan",
+        "Suvigya Sharma",
+        "Sadhguru",
+        "Suhana Khan",
+        "Deepika Padukone",
+        "Abhishek Bachchan",
+        "Rani Mukerji"
+      ],
+      "titles": [
+        "King"
+      ]
+    },
+    "keywords": [
+      "Shah Rukh Khan defamation notice",
+      "Shah Rukh Khan influencer reel",
+      "Suvigya Sharma Instagram reel",
+      "Shah Rukh Khan King movie"
+    ],
+    "images": [
+      {
+        "url": "https://static.toiimg.com/thumb/msid-136175695,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "caption": "Shah Rukh Khan Takes Legal Action Against Content Creator Over Viral Social Media Video",
+        "source": "Times of India — Entertainment"
+      }
+    ],
+    "published": "2026-11-26T06:36:35+05:30"
+  },
+  "2fpbqz": {
+    "id": "2fpbqz",
+    "type": "news",
+    "headline": "Hwang Jung Min and Yum Jung Ah Return for Mission: Cross 2 on Netflix",
+    "dek": "The action-comedy couple is back for another high-stakes adventure, with Netflix scheduling the sequel for a Christmas Day release.",
+    "body": [
+      {
+        "h": "The Return of the Action Couple",
+        "p": [
+          "Fans of Korean action-comedy can rejoice as Netflix formally announced the upcoming release of Mission: Cross 2. Streaming platform announcements on November 26 confirmed that the sequel is slated to hit screens on December 25. Alongside the premiere date, promotional materials including a teaser poster and a teaser trailer were unveiled to give audiences a glimpse of the returning stars.",
+          "The follow-up brings back the dynamic pairing of Hwang Jung Min and Yum Jung Ah. Viewers can expect a blend of high-octane action sequences and comedic domestic dynamics as the married couple dives into a brand-new escapade."
+        ]
+      },
+      {
+        "h": "Recovering National Treasures",
+        "p": [
+          "The plot of the sequel centers around a dangerous new assignment. Kang Moo, portrayed by Hwang Jung Min and recognized as a former special agent, teams up with his wife Mi Seon, played by Yum Jung Ah as an ace detective in the violent crimes unit. Together, they embark on a critical mission after a mysterious organization orchestrates the theft of valuable Korean cultural treasures.",
+          "Visuals from the promotional teaser poster feature the duo standing before a gilt-bronze pensive Bodhisattva statue alongside mysterious boxes. The accompanying tagline highlights their return, stating that stronger teamwork marks the comeback of the action couple."
+        ]
+      },
+      {
+        "h": "Teaser Trailer Highlights",
+        "p": [
+          "The newly released teaser trailer wastes no time diving into the action. It opens with Kang Moo rappelling down a wire while comically still wearing an apron, followed swiftly by Mi Seon neutralizing an opponent with a single move.",
+          "Following an assault by unknown assailants that leads to the disappearance of the national artifacts, the couple receives a covert directive from the president, played by Cha In Pyo. They are tasked with the crucial assignment of retrieving the missing items."
+        ]
+      },
+      {
+        "h": "Expanded Cast Members",
+        "p": [
+          "In addition to the main leads, the sequel boasts a robust supporting lineup. Actors Jung Man Sik, Yoon Kyung Ho, Lim Seong Jae, and Kim Guk Hee are all set to join the cast for this upcoming installment.",
+          "Their inclusion promises to bring additional layers and dynamic interactions to the unfolding narrative as the core couple navigates their dangerous mission."
+        ]
+      },
+      {
+        "h": "Looking Back at the First Film",
+        "p": [
+          "The original movie first premiered on Netflix in August 2024. Directed by Lee Myung Hoon, the inaugural film introduced audiences to the premise of Kang Moo having left behind his dangerous life as a special agent to settle down as a stay-at-home husband.",
+          "Meanwhile, his wife Mi Seon initially operated as a detective completely unaware of the covert past held by the man she married, laying the comedic and relational groundwork that the upcoming sequel expands upon."
+        ]
+      },
+      {
+        "h": "Release Details and Availability",
+        "p": [
+          "Mission: Cross 2 is scheduled to premiere globally on Netflix. The streaming date is locked in for December 25, positioning the title as a major holiday viewing option for subscribers.",
+          "Audiences can access the teaser trailer and promotional content directly through official streaming and video platforms ahead of the official Christmas release."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Netflix has confirmed that the action-comedy sequel Mission: Cross 2 will premiere on December 25, starring returning leads Hwang Jung Min and Yum Jung Ah. The plot follows the married couple as they take on a presidential request to recover stolen national treasures, joined by an expanded supporting cast."
+        ]
+      }
+    ],
+    "facts": [
+      "Mission: Cross 2 will be released on Netflix on December 25.",
+      "Netflix confirmed the release date and unveiled a teaser poster and trailer on November 26.",
+      "The first film was directed by Lee Myung Hoon and released on Netflix in August 2024.",
+      "The cast includes Hwang Jung Min, Yum Jung Ah, Cha In Pyo, Jung Man Sik, Yoon Kyung Ho, Lim Seong Jae, and Kim Guk Hee."
+    ],
+    "entities": {
+      "people": [
+        "Hwang Jung Min",
+        "Yum Jung Ah",
+        "Cha In Pyo",
+        "Jung Man Sik",
+        "Yoon Kyung Ho",
+        "Lim Seong Jae",
+        "Kim Guk Hee",
+        "Lee Myung Hoon",
+        "YKang"
+      ],
+      "titles": [
+        "Mission: Cross 2",
+        "Mission: Cross",
+        "Ode to My Father 2",
+        "The Glory",
+        "But Your Love"
+      ]
+    },
+    "keywords": [
+      "Mission: Cross 2",
+      "Hwang Jung Min Mission: Cross",
+      "Yum Jung Ah Netflix film",
+      "Mission: Cross 2 release date"
+    ],
+    "images": [
+      {
+        "url": "https://i.mydramalist.com/VBBLyz_2d.jpg",
+        "caption": "Hwang Jung Min and Yum Jung Ah Return for Mission: Cross 2 on Netflix",
+        "source": "MyDramaList"
+      }
+    ],
+    "published": "Thu, 26 Nov 2026 00:41:59 +0000"
   }
 };
