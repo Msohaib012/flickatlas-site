@@ -255832,5 +255832,407 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Thu, 26 Nov 2026 12:13:56 +0000"
+  },
+  "1dr3tbq": {
+    "id": "1dr3tbq",
+    "type": "news",
+    "headline": "Son Ye-jin and Jung Hae-in Reunite at the Blue Dragon Film Awards",
+    "dek": "Something in the Rain stars Son Ye-jin and Jung Hae-in delighted fans by reuniting on stage at the 47th Blue Dragon Film Awards.",
+    "body": [
+      {
+        "h": "The Unexpected Onstage Reunion",
+        "p": [
+          "Korean actors Son Ye-jin and Jung Hae-in caused excitement among fans by coming together on stage at the 47th Blue Dragon Film Awards. The two popular performers stepped up to present the Best Actress award at the prestigious ceremony held at KBS Hall in Seoul.",
+          "Their appearance immediately drew attention from the audience and viewers alike, serving as a delightful surprise for followers of contemporary Korean entertainment and television dramas."
+        ]
+      },
+      {
+        "h": "Reliving Something in the Rain",
+        "p": [
+          "The collaborative presentation brought back fond memories of the 2018 television series Something in the Rain, also known as Pretty Noona Who Buys Me Food. In the popular JTBC drama, Son Ye-jin and Jung Hae-in portrayed Yoon Jin-ah and Seo Joon-hee, respectively.",
+          "The fictional romance between their characters became a major talking point during the broadcast run, earning both lead actors widespread affection and acclaim for their remarkable on-screen chemistry."
+        ]
+      },
+      {
+        "h": "Warm Exchanges on Stage",
+        "p": [
+          "As the two stars walked up to the podium, Son Ye-jin affectionately linked her arm with Jung Hae-in's. He greeted her warmly by calling her 'Noona' and remarking that it had been a while since they last worked together.",
+          "In response, she called him 'Jooni' and reminisced about how he used to be a cute younger guy when they filmed their drama together, adding that he had truly grown into a handsome man over the years."
+        ]
+      },
+      {
+        "h": "Roles at the Ceremony",
+        "p": [
+          "Son Ye-jin attended the event as a presenter, returning to the stage after winning the Best Actress honor at the previous year's ceremony. Her role as a presenter highlighted her continued prominence in the film community.",
+          "During the same evening, actress Jeon Do-yeon claimed the Best Actress trophy for her work in Possible Love, adding another notable milestone to the prestigious awards night."
+        ]
+      },
+      {
+        "h": "Social Media and Fan Appreciation",
+        "p": [
+          "Following the conclusion of the awards gala, Son Ye-jin took to her official Instagram account to share several photographs from the evening, which included a picture featuring her reunion with Jung Hae-in.",
+          "She also used the platform to express deep gratitude toward the dedicated supporters who had waited outside in the cold weather to catch a glimpse of her and offer their unwavering encouragement."
+        ]
+      },
+      {
+        "h": "Heartfelt Message to Supporters",
+        "p": [
+          "In her social media post, the actress described her admirers as sweet angels and recalled how cold their hands felt when she opened a window to hold them. She noted that reading their letters the following morning filled her heart with warmth.",
+          "The heartfelt gesture resonated deeply with her followers, further demonstrating the strong bond she shares with the community of fans who travel from near and far to support her."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Son Ye-jin and Jung Hae-in reunited on stage at the 47th Blue Dragon Film Awards in Seoul to present the Best Actress honor, evoking memories of their 2018 drama Something in the Rain. Following the event, Son shared photos and a heartfelt message on Instagram thanking fans who waited outside in the cold to greet her."
+        ]
+      }
+    ],
+    "facts": [
+      "Son Ye-jin and Jung Hae-in reunited at the 47th Blue Dragon Film Awards.",
+      "The 47th Blue Dragon Film Awards were held at KBS Hall in Seoul on November 25, 2026.",
+      "The two actors starred together in the 2018 JTBC drama Something in the Rain, also known as Pretty Noona Who Buys Me Food.",
+      "Jeon Do-yeon won Best Actress for Possible Love at the ceremony."
+    ],
+    "entities": {
+      "people": [
+        "Son Ye-jin",
+        "Jung Hae-in",
+        "Jeon Do-yeon"
+      ],
+      "titles": [
+        "Something in the Rain",
+        "Pretty Noona Who Buys Me Food",
+        "Possible Love"
+      ]
+    },
+    "keywords": [
+      "Son Ye-jin Jung Hae-in Blue Dragon Film Awards",
+      "Something in the Rain reunion",
+      "Son Ye-jin Instagram post",
+      "Pretty Noona Who Buys Me Food cast"
+    ],
+    "images": [
+      {
+        "url": "https://filmfare.wwmindia.com/content/2026/nov/son-ye-jin-calls-jung-hae-in-a-handsome-man-as-they-reunite-at-blue-dragon1795691928.jpg",
+        "caption": "Son Ye-jin and Jung Hae-in Reunite at the Blue Dragon Film Awards",
+        "source": "Filmfare"
+      }
+    ],
+    "published": "2026-11-26T16:51:22+05:30"
+  },
+  "6f65qm": {
+    "id": "6f65qm",
+    "type": "news",
+    "headline": "PVR INOX Pictures Secures All-India Distribution Rights for Golmaal 5 in Major Industry Deal",
+    "dek": "The distribution company has won a fierce bidding war for the Rohit Shetty comedy and locked down a powerful release calendar for early 2027.",
+    "body": [
+      {
+        "h": "The Bidding War and Final Victory",
+        "p": [
+          "The race to acquire theatrical distribution rights for the upcoming comedy Golmaal 5 drew intense competition across the industry. Major distributors were willing to commit substantial financial backing exceeding one hundred crore rupees for the all-India rights, leading to a heated contest.",
+          "Ultimately, PVR INOX Pictures emerged as the successful bidder for the project. The decision-makers evaluated multiple lucrative proposals before determining that the terms offered by PVR INOX aligned best with their strategic goals for the theatrical rollout."
+        ]
+      },
+      {
+        "h": "Partnership and Execution Strategy",
+        "p": [
+          "PVR INOX Pictures will handle the nationwide distribution of the film in collaboration with Katha Studios, headed by Shibasish Sarkar. The core team behind the production, which includes Rohit Shetty alongside Authum Studios and Katha Entertainment Studios, maintained full authority over selecting the distribution partner.",
+          "The primary considerations for the creators involved minimizing distribution commissions while maximizing the breadth and quality of the theatrical release. They sought a partner capable of delivering a nationwide launch that matches the high profile and scale of the franchise."
+        ]
+      },
+      {
+        "h": "An Enviable Early 2027 Lineup",
+        "p": [
+          "Securing this high-profile distribution agreement adds another major milestone to the portfolio of PVR INOX Pictures. The company is actively establishing a robust commercial calendar for the opening quarter of 2027, anchored by three major cinematic projects.",
+          "The rollout begins with the arrival of the comedy feature in cinemas early in January, setting the stage for a busy first quarter. This schedule demonstrates the distributor's strong positioning within the domestic theatrical market for upcoming blockbusters."
+        ]
+      },
+      {
+        "h": "Expanding the Early Year Calendar",
+        "p": [
+          "Following the January release, the distribution slate continues into February with the arrival of Mauja Hi Mauja. Directed by Anees Bazmee, the project features a cast that includes Akshay Kumar, Vidya Balan, and Raashii Khanna, with production overseen by Dil Raju.",
+          "The initial quarter culminates during the Eid holiday period with the theatrical launch of Monster, starring Salman Khan. Together, these three projects create a prominent sequence of high-profile commercial titles for the beginning of the year."
+        ]
+      },
+      {
+        "h": "Cast Ensemble and Returning Talent",
+        "p": [
+          "The upcoming comedy brings back familiar faces from previous instalments, including Ajay Devgn, Arshad Warsi, Shreyas Talpade, and Tusshar Kapoor. Their ongoing association with the series remains central to the appeal of the latest chapter.",
+          "A notable addition to the ensemble is Sharman Joshi, who returns to the franchise after twenty-one years. Having appeared in the initial film Golmaal: Fun Unlimited released in 2006, his participation marks a reunion with the overarching comedy series after a lengthy absence."
+        ]
+      },
+      {
+        "h": "Akshay Kumar's New Look and Franchise Buzz",
+        "p": [
+          "Another major focal point for audiences is the inclusion of Akshay Kumar in the cast. Public interest has grown significantly following the release of promotional material revealing his distinct bald appearance for the production.",
+          "The combination of established franchise veterans, returning actors, and fresh casting choices has continuously generated discussion across media platforms, elevating anticipation for the project ahead of its theatrical debut."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "PVR INOX Pictures has won the competitive bidding war to distribute the Rohit Shetty directorial Golmaal 5 across India in association with Katha Studios. The acquisition anchors a strong early 2027 release schedule for the distributor, which also includes projects starring Akshay Kumar and Salman Khan."
+        ]
+      }
+    ],
+    "facts": [
+      "PVR INOX Pictures won the all-India distribution deal for Golmaal 5.",
+      "Golmaal 5 is scheduled to release on January 8, 2027.",
+      "Golmaal 5 is directed by Rohit Shetty.",
+      "PVR INOX Pictures will distribute the film in association with Katha Studios of Shibasish Sarkar.",
+      "Distributors were ready to offer over Rs. 100 crores for the all-India theatrical rights of Golmaal 5.",
+      "Mauja Hi Mauja is directed by Anees Bazmee and produced by Dil Raju, starring Akshay Kumar, Vidya Balan, and Raashii Khanna for a February release.",
+      "Salman Khan's Monster is slated to release on Eid in 2027.",
+      "Golmaal 5 stars Ajay Devgn, Arshad Warsi, Shreyas Talpade, and Tusshar Kapoor.",
+      "Sharman Joshi is returning to the franchise after 21 years, having appeared in Golmaal: Fun Unlimited (2006)."
+    ],
+    "entities": {
+      "people": [
+        "Ajay Devgn",
+        "Akshay Kumar",
+        "Salman Khan",
+        "Rohit Shetty",
+        "Shibasish Sarkar",
+        "Anees Bazmee",
+        "Dil Raju",
+        "Vidya Balan",
+        "Raashii Khanna",
+        "Arshad Warsi",
+        "Shreyas Talpade",
+        "Tusshar Kapoor",
+        "Sharman Joshi"
+      ],
+      "titles": [
+        "Golmaal 5",
+        "Mauja Hi Mauja",
+        "Monster",
+        "Golmaal: Fun Unlimited"
+      ]
+    },
+    "keywords": [
+      "Golmaal 5",
+      "PVR Inox Pictures",
+      "Rohit Shetty",
+      "Ajay Devgn",
+      "Akshay Kumar"
+    ],
+    "images": [
+      {
+        "url": "https://stat4.bollywoodhungama.in/wp-content/uploads/2026/11/BREAKING-PVR-INOX-Pictures-WINS-the-coveted-Golmaal-5-all-India-distribution-deal-locks-a-DREAM-line-up-for-2027-with-Ajay-Devgn-Akshay-Kumar-and-Salman-Khan-biggies.jpeg",
+        "caption": "PVR INOX Pictures Secures All-India Distribution Rights for Golmaal 5 in Major Industry Deal",
+        "source": "Bollywood Hungama"
+      }
+    ],
+    "published": "Thu, 26 Nov 2026 20:53:03 +0200"
+  },
+  "1r4q06f": {
+    "id": "1r4q06f",
+    "type": "news",
+    "headline": "Nathan Fielder and Lance Oppenheim's Documentary Feature Reaches Digital Platforms After Theatrical Run",
+    "dek": "Following a successful box office performance in domestic theaters, the three-hour documentary feature has landed on digital storefronts and secured the top spot on the iTunes chart.",
+    "body": [
+      {
+        "h": "Digital Release and iTunes Success",
+        "p": [
+          "The latest non-fiction feature from distributor A24 has successfully transitioned to the home viewing market. Following a robust theatrical run spanning six weeks, the three-hour project made its debut on domestic PVOD platforms. Shortly after its digital release, it climbed to the number-one position on the domestic iTunes chart, signaling strong continuing interest from audiences outside of traditional cinema halls."
+        ]
+      },
+      {
+        "h": "A24 Commercial Streak",
+        "p": [
+          "This latest digital launch builds on a notable period of commercial success for the studio. Earlier releases, such as the psychological dark comedy The Drama starring Zendaya and Robert Pattinson, pulled in over $130 million globally. Additionally, the horror feature Backrooms served as a major commercial high point for the company, accumulating $400 million worldwide during the summer months."
+        ]
+      },
+      {
+        "h": "Secret Production and Festival Premiere",
+        "p": [
+          "The documentary achieved its high-profile status despite an unconventional and secretive rollout. Production details were kept completely confidential while filming took place. The existence of the project was first unveiled to the public at the Telluride Film Festival, initiating significant word-of-mouth momentum before it ever reached broader commercial screens."
+        ]
+      },
+      {
+        "h": "Theatrical Expansion and Box Office Turnout",
+        "p": [
+          "Following its festival debut, the feature opened with a limited release across eight domestic locations. Driven by positive critical reviews and careful scheduling, the distribution expanded significantly into over 2,650 cinemas by its second week. In its third week, the theater count peaked at more than 3,250 locations nationwide, helping the movie accumulate a domestic total of $93 million."
+        ]
+      },
+      {
+        "h": "Historical Box Office Milestones for Non-Fiction",
+        "p": [
+          "Accumulating tens of millions of dollars during its early weeks represented an extraordinary financial outcome for a documentary release. As the theatrical window progressed and the screen count adjusted downward to approximately 1,200 locations by week six, the project maintained an outside chance of crossing the $100 million domestic threshold. Achieving this milestone would make it only the second documentary in history to reach that specific domestic mark, following Fahrenheit 9/11."
+        ]
+      },
+      {
+        "h": "Creative Leadership and Subject Matter",
+        "p": [
+          "The three-hour project was co-directed by Nathan Fielder and Lance Oppenheim. Fielder is widely recognized for his work on the Comedy Central program Nathan for You and the HBO series The Rehearsal, while Oppenheim directed the psychological thriller Primetime. The narrative centers on Fielder embedding himself alongside disgraced tech innovator Elizabeth Holmes as she prepares for incarceration, with appearances from Billy Evans and Amanda Seyfried."
+        ]
+      },
+      {
+        "h": "Critical Reception and Awards Buzz",
+        "p": [
+          "Alongside its financial achievements, the film has enjoyed widespread critical acclaim, holding a Certified Fresh rating of 97 percent on Rotten Tomatoes. Industry observers have positioned the non-fiction epic as a potential contender for a Best Picture nomination at the upcoming Oscars. International exhibition plans are scheduled to begin following its domestic digital launch."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "The three-hour documentary feature You Can See Everything, co-directed by Nathan Fielder and Lance Oppenheim, has debuted on digital platforms and claimed the top spot on the domestic iTunes chart after a six-week theatrical run. The A24 project has grossed $93 million domestically, supported by positive reviews and a Rotten Tomatoes score of 97 percent, with potential sights set on upcoming awards recognition."
+        ]
+      }
+    ],
+    "facts": [
+      "The documentary feature debuted on the domestic PVOD market on November 24.",
+      "The film spent six weeks in domestic theaters.",
+      "It reached the number-one spot on the domestic iTunes chart.",
+      "The project was unveiled at the Telluride Film Festival.",
+      "The domestic box office total stands at $93 million.",
+      "The movie holds a 97 percent score on Rotten Tomatoes.",
+      "The runtime of the film is 174 minutes.",
+      "The project was co-directed by Nathan Fielder and Lance Oppenheim."
+    ],
+    "entities": {
+      "people": [
+        "Nathan Fielder",
+        "Francois Ozon",
+        "David Fincher",
+        "Zendaya",
+        "Robert Pattinson",
+        "Lance Oppenheim",
+        "Elizabeth Holmes",
+        "Tatiana Bears",
+        "Maggie Ambrose",
+        "Jack Davis",
+        "Billy Evans",
+        "Amanda Seyfried"
+      ],
+      "titles": [
+        "The Drama",
+        "Backrooms",
+        "Primetime",
+        "You Can See Everything",
+        "Nathan for You",
+        "The Rehearsal",
+        "Fahrenheit 9/11"
+      ]
+    },
+    "keywords": [
+      "You Can See Everything film",
+      "Nathan Fielder documentary",
+      "A24 You Can See Everything",
+      "Lance Oppenheim You Can See Everything",
+      "Elizabeth Holmes documentary film"
+    ],
+    "images": [
+      {
+        "url": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/11/you-can-see-everything-2026-1.jpg?w=1600&amp;h=900&amp;fit=crop",
+        "caption": "Nathan Fielder and Lance Oppenheim's Documentary Feature Reaches Digital Platforms After Theatrical Run",
+        "source": "Collider"
+      }
+    ],
+    "published": "Thu, 26 Nov 2026 15:15:12 GMT"
+  },
+  "b8f8rq": {
+    "id": "b8f8rq",
+    "type": "news",
+    "headline": "Ramayana: Part 1 Nears Rs 180 Crore in Karnataka After Strong Third Week",
+    "dek": "The mythological epic featuring Ranbir Kapoor and Yash continues its theatrical run, closing in on the Rs 180 crore milestone in Karnataka after twenty-one days.",
+    "body": [
+      {
+        "h": "Theatrical Momentum in Karnataka",
+        "p": [
+          "The cinematic adaptation Ramayana: Part 1 has maintained steady financial momentum through its third week in theatres. Tracking data highlights that the regional performance in Karnataka remains remarkably robust, driving the feature closer to a major milestone.",
+          "With audiences continuing to visit cinema halls, the combined figures from the state have pushed the cumulative gross to near the Rs 180 crore mark as the theatrical journey progresses."
+        ]
+      },
+      {
+        "h": "Day 21 Collection Breakdown",
+        "p": [
+          "On its twenty-first day of release, corresponding to Wednesday, November 25, the film added fresh numbers to its regional ledger. Box office tracker Jerin Georgekutty reported that the feature earned Rs 1.71 crore gross on this single day within Karnataka.",
+          "This addition brought the cumulative 21-day combined gross collection for the region to approximately Rs 178 crore, cementing its sustained pull at the ticket counters."
+        ]
+      },
+      {
+        "h": "Kannada Version Contribution",
+        "p": [
+          "A substantial share of the regional success is driven by the Kannada-dubbed version of the project. Over the course of the twenty-one day period, this specific linguistic version accumulated Rs 93.92 crore gross in Karnataka.",
+          "Accounting for more than half of the total earnings in the state, the performance of the Kannada version underscores its deep resonance with local audiences."
+        ]
+      },
+      {
+        "h": "Milestone Targets Ahead",
+        "p": [
+          "Having nearly cleared the Rs 180 crore threshold in Karnataka, the film's next principal target on the horizon is the Rs 200 crore milestone.",
+          "Whether the feature can successfully scale this next financial peak will depend entirely on how well it sustains its audience turnout in the upcoming days."
+        ]
+      },
+      {
+        "h": "Cast and Creative Leadership",
+        "p": [
+          "Directed by Nitesh Tiwari, the movie serves as the opening chapter of a two-part adaptation of the ancient Indian epic originally attributed to Valmiki. The narrative features Ranbir Kapoor in the role of Rama alongside Yash, who steps into the character of Ravana.",
+          "The ensemble cast also incorporates Sai Pallavi as Sita, Ravi Dubey as Lakshman, and Sunny Deol as Hanuman, alongside notable performers including Anupam Kher, Lara Dutta, and Arun Govil."
+        ]
+      },
+      {
+        "h": "Production and Global Distribution",
+        "p": [
+          "The epic project is backed by producers Namit Malhotra and Yash, drawing on a screenplay crafted by Sridhar Raghavan and Nitesh Tiwari.",
+          "On the musical front, the collaboration pairs A. R. Rahman with Hans Zimmer. Prime Focus Studios and Monster Mind Creations present the feature, while Sony Pictures Entertainment manages worldwide distribution and T-Series handles the music."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Ramayana: Part 1 has neared the Rs 180 crore gross milestone in Karnataka after completing a 21-day theatrical run that included a single-day collection of Rs 1.71 crore on Wednesday, November 25. The Kannada-dubbed version played a major role by contributing Rs 93.92 crore to the regional total, keeping the film on track as it eyes the Rs 200 crore mark."
+        ]
+      }
+    ],
+    "facts": [
+      "The film's combined Karnataka gross collection reached approximately Rs 178 crore in 21 days.",
+      "On its 21st day (Wednesday, November 25), the film collected Rs 1.71 crore gross in Karnataka.",
+      "The Kannada version accumulated Rs 93.92 crore gross in 21 days in Karnataka.",
+      "The story was published on Thursday, November 26, 2026."
+    ],
+    "entities": {
+      "people": [
+        "Jerin Georgekutty",
+        "Ranbir Kapoor",
+        "Yash",
+        "Nitesh Tiwari",
+        "Sai Pallavi",
+        "Ravi Dubey",
+        "Sunny Deol",
+        "Anupam Kher",
+        "Kajal Aggarwal",
+        "Rakul Preet Singh",
+        "Vivek Oberoi",
+        "Kunal Kapoor",
+        "Adinath Kothare",
+        "Arun Govil",
+        "Indira Krishnan",
+        "Lara Dutta",
+        "Namit Malhotra",
+        "Shridhar Raghavan",
+        "Hans Zimmer",
+        "A. R. Rahman"
+      ],
+      "titles": [
+        "Ramayana: Part 1"
+      ]
+    },
+    "keywords": [
+      "Ramayana Karnataka box office collection",
+      "Ramayana Part 1 day 21 collection",
+      "Ranbir Kapoor Yash Ramayana movie",
+      "Ramayana Kannada version box office"
+    ],
+    "images": [
+      {
+        "url": "https://images.filmibeat.com/img/2026/11/ramayana-23001795705608.jpg",
+        "caption": "Ramayana: Part 1 Nears Rs 180 Crore in Karnataka After Strong Third Week",
+        "source": "FilmiBeat"
+      }
+    ],
+    "published": "Thu, 26 Nov 2026 20:40:19 +0530"
   }
 };
