@@ -251901,5 +251901,386 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Thu, 26 Nov 2026 03:38:33 +0000"
+  },
+  "1e5kp9e": {
+    "id": "1e5kp9e",
+    "type": "news",
+    "headline": "Jaideep Ahlawat Partners with Raymond Chairman’s Collection to Revive Classic Cinematic Fashion",
+    "dek": "Acclaimed actor Jaideep Ahlawat has stepped into a new role as the 'Friend of the Brand' for Raymond Chairman’s Collection, spotlighting the enduring influence of vintage Indian cinema aesthetics in modern menswear.",
+    "body": [
+      {
+        "h": "A New Partnership in Luxury Menswear",
+        "p": [
+          "Renowned actor Jaideep Ahlawat has officially associated with the luxury menswear label Raymond Chairman’s Collection, taking on the title of 'Friend of the Brand'. This fresh collaboration bridges the gap between classic tailoring and the distinctive personal style found in traditional Indian motion pictures.",
+          "The creative alliance seeks to honor the deep cultural roots of domestic cinema while catering to the modern, well-traveled gentleman who appreciates high-end bespoke craftsmanship and thoughtful wardrobe curation."
+        ]
+      },
+      {
+        "h": "Celebrating Retro Aesthetics from Three Decades",
+        "p": [
+          "The core inspiration behind this partnership stems from the golden eras of Indian movies, specifically focusing on the fashion movements of the 1960s, 70s, and 80s. These bygone decades are well-known for defining attitudes and character archetypes on the silver screen.",
+          "By reinterpreting the iconic sartorial choices of those historical periods through contemporary luxury tailoring, the brand aims to make vintage cinematic style relevant and exciting for today's audiences."
+        ]
+      },
+      {
+        "h": "The Grand Unveiling Event in Mumbai",
+        "p": [
+          "The official announcement and showcase took place at an invitation-only gathering held on November 25. The launch event was hosted at the flagship store of Raymond Chairman’s Collection situated in Bandra, Mumbai.",
+          "Invited guests and industry attendees experienced a curated presentation that explored how the fashion aesthetics of Indian cinema evolved across the three chosen decades and continued to shape popular culture."
+        ]
+      },
+      {
+        "h": "Jaideep Ahlawat on Cinematic Style and Nostalgia",
+        "p": [
+          "Reflecting on his personal connection to the silver screen, Jaideep Ahlawat described himself as a lifelong student of cinema who learned fundamental lessons about attitude and character from movies. He noted that retro aesthetics and nostalgia are currently driving forces in modern pop culture.",
+          "The actor expressed enthusiasm for the opportunity to recreate the stylish looks of the 1960s, 70s, and 80s, highlighting the meticulous craftsmanship and personal attention to detail embedded in the three bespoke outfits created for the campaign."
+        ]
+      },
+      {
+        "h": "Leadership Vision from Raymond Lifestyle",
+        "p": [
+          "Satyaki Ghosh, who serves as the Whole-time Director and CEO of Raymond Lifestyle Limited, shared insights regarding the collaboration and the label's overarching philosophy. He pointed out that the company's century-long legacy has thrived on adapting across generations while staying faithful to its tailoring roots.",
+          "According to Ghosh, Ahlawat brings a unique cinematic dimension and versatile screen presence to the flagship luxury store, helping translate past nostalgia into a distinct expression of modern menswear."
+        ]
+      },
+      {
+        "h": "Bridging Past Craftsmanship with Modern Audiences",
+        "p": [
+          "The partnership places heavy emphasis on the intersection of culture, fashion, and bespoke luxury, utilizing Ahlawat's public persona to draw attention to historic cinematic trends. The curated looks presented at the flagship store serve as a physical bridge between classic tailoring and contemporary lifestyle preferences.",
+          "Ultimately, the initiative seeks to chronicle the historical styles of Bollywood in a fresh light, ensuring that the sartorial heritage of past generations resonates strongly with contemporary consumers."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Actor Jaideep Ahlawat has become the 'Friend of the Brand' for Raymond Chairman’s Collection, bringing focus to retro Bollywood style from the 1960s, 70s, and 80s. The collaboration was unveiled on November 25 at the brand's flagship store in Bandra, Mumbai, featuring bespoke menswear inspired by classic Indian cinema."
+        ]
+      }
+    ],
+    "facts": [
+      "Jaideep Ahlawat joined Raymond Chairman’s Collection as 'Friend of the Brand'.",
+      "The partnership was unveiled on November 25.",
+      "The launch event took place at the flagship store in Bandra, Mumbai.",
+      "Satyaki Ghosh is the Whole-time Director and CEO of Raymond Lifestyle Limited.",
+      "The collection draws inspiration from the 1960s, 70s, and 80s."
+    ],
+    "entities": {
+      "people": [
+        "Jaideep Ahlawat",
+        "Satyaki Ghosh"
+      ],
+      "titles": [
+        "Raymond Chairman’s Collection"
+      ]
+    },
+    "keywords": [
+      "Jaideep Ahlawat Raymond Chairman Collection",
+      "Jaideep Ahlawat Friend of the Brand",
+      "Raymond Chairman Collection Bandra Mumbai",
+      "Satyaki Ghosh Raymond Lifestyle"
+    ],
+    "images": [
+      {
+        "url": "https://stat4.bollywoodhungama.in/wp-content/uploads/2026/11/Jaideep-Ahlawat-joins-Raymond-Chairmans-Collection-as-‘Friend-of-the-Brand-news.jpeg",
+        "caption": "Jaideep Ahlawat Partners with Raymond Chairman’s Collection to Revive Classic Cinematic Fashion",
+        "source": "Bollywood Hungama"
+      }
+    ],
+    "published": "Thu, 26 Nov 2026 08:50:56 +0200"
+  },
+  "1kf4lpf": {
+    "id": "1kf4lpf",
+    "type": "news",
+    "headline": "Sam Rockwell's Newest Project Wild Horse Nine Suffers Major Theater Cut",
+    "dek": "Martin McDonagh's latest dark comedy film loses a massive chunk of its theatrical footprint heading into its fourth week.",
+    "body": [
+      {
+        "h": "Theatrical Footprint Shriniking Fast",
+        "p": [
+          "Audiences hoping to catch Sam Rockwell's latest cinematic outing on the big screen are about to face a much harder time finding local showtimes. As the feature heads into its fourth weekend in commercial distribution, it has taken a severe hit regarding its overall screen availability across the country.",
+          "According to recent metrics pulled from tracking sources, the distribution footprint has been sliced in half. This sudden drop marks a steep decline in visibility just as the holiday frame ramps up competition among newly arriving titles."
+        ]
+      },
+      {
+        "h": "A Look Back at the Rollout",
+        "p": [
+          "The theatrical journey began in modest fashion when the project first debuted on November 6, landing across an initial count of 1,100 screens. Following that initial rollout, distributors pushed for a broader expansion during the second weekend, driving the location count up to a peak of 2,175 venues.",
+          "Unfortunately, momentum quickly slowed down, leading to the current contraction. The movie is now positioned in significantly fewer locations than it commanded on opening day, highlighting a rapid contraction in its commercial run."
+        ]
+      },
+      {
+        "h": "Domestic Earnings and Milestones",
+        "p": [
+          "Despite the sharp reduction in screens, the feature is steadily creeping closer toward an important financial threshold. Total domestic earnings currently sit at $18.31 million, keeping the production within striking distance of the coveted $20 million milestone.",
+          "The previous weekend contributed $2.46 million to that running tally, although weekly ticket sales experienced a 46% decline. Per-theater averages also reflected the cooling interest, resting at $1,231 over the weekend before falling further to $192 on Monday."
+        ]
+      },
+      {
+        "h": "Creative Partnership Background",
+        "p": [
+          "The project marks another major collaboration between lead actor Sam Rockwell and filmmaker Martin McDonagh. Their previous creative endeavors include critically acclaimed works that have resonated deeply with awards voters and cinema enthusiasts alike.",
+          "Rockwell previously earned an Academy Award for his standout work in a prior McDonagh collaboration, while other joint efforts have garnered widespread recognition. This latest venture continues their tradition of exploring complex relationships through a sharp, darkly comedic lens alongside co-star John Malkovich."
+        ]
+      },
+      {
+        "h": "Holiday Season Competition",
+        "p": [
+          "The timing of the theater reduction coincides with the highly competitive Thanksgiving frame, a period traditionally crowded with major studio releases fighting for premium auditorium space. Exhibitors frequently reallocate screens to accommodate newer family-oriented or blockbuster arrivals.",
+          "Because of these shifting holiday priorities, specialty and dark comedy features often struggle to maintain their footing. The heavy contraction experienced by this release illustrates the ruthless nature of modern theatrical allocation during peak holiday booking weeks."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Martin McDonagh's Wild Horse Nine has lost 1,000 theaters heading into its fourth weekend, reducing its domestic footprint by 50%. The film has accumulated $18.31 million domestically to date amidst stiff holiday box office competition."
+        ]
+      }
+    ],
+    "facts": [
+      "Wild Horse Nine lost 1,000 theaters heading into its fourth weekend",
+      "The film opened in 1,100 theaters on November 6",
+      "It expanded to 2,175 locations in its second weekend",
+      "Domestic earnings stand at $18.31 million to date",
+      "Last weekend grossed $2.46 million with a 46% drop"
+    ],
+    "entities": {
+      "people": [
+        "Sam Rockwell",
+        "Martin McDonagh",
+        "John Malkovich",
+        "Colin Farrell",
+        "Brendan Gleeson"
+      ],
+      "titles": [
+        "Wild Horse Nine",
+        "Three Billboards Outside Ebbing, Missouri",
+        "Seven Psychopaths",
+        "The Banshees of Inisherin"
+      ]
+    },
+    "keywords": [
+      "Wild Horse Nine film",
+      "Sam Rockwell Wild Horse Nine",
+      "Martin McDonagh Wild Horse Nine",
+      "Wild Horse Nine box office"
+    ],
+    "images": [
+      {
+        "url": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/10/wild-horse-nine.jpg?w=1600&amp;h=900&amp;fit=crop",
+        "caption": "Sam Rockwell's Newest Project Wild Horse Nine Suffers Major Theater Cut",
+        "source": "Collider"
+      }
+    ],
+    "published": "Thu, 26 Nov 2026 03:00:22 GMT"
+  },
+  "1oqisgy": {
+    "id": "1oqisgy",
+    "type": "news",
+    "headline": "Director Sampath Nandi Opens Up About Natural Violence and Real-Life Inspirations Behind Sharwanand's 'Bhogi'",
+    "dek": "Filmmaker Sampath Nandi addresses the intense action sequences in his upcoming film 'Bhogi', explaining how childhood memories and a newspaper report shaped the fictional village narrative.",
+    "body": [
+      {
+        "h": "Addressing the Violence in 'Bhogi'",
+        "p": [
+          "Director Sampath Nandi has broken his silence regarding the prominent violent sequences featured in his forthcoming movie 'Bhogi'. Starring actor Sharwanand in a leading role, the film has drawn attention for its gritty tone and intense action blocks.",
+          "The filmmaker firmly emphasized that the brutal moments integrated into the script are not gratuitous or arbitrarily designed to shock audiences. Instead, he clarified that every intense frame emerges organically from the core narrative and serves a definitive purpose in the storytelling."
+        ]
+      },
+      {
+        "h": "Navigating CBFC Hurdles and the Revising Committee",
+        "p": [
+          "The journey of getting 'Bhogi' to the silver screen faced unexpected administrative roadblocks when the Central Board of Film Certification decided against granting a routine clearance certificate. Consequently, the board referred the project directly to its Revising Committee.",
+          "Sampath Nandi admitted that neither he nor his production team anticipated this procedural detour. The sudden intervention disrupted their outreach framework and condensed the window available for promotional campaigns before the intended theatrical rollout."
+        ]
+      },
+      {
+        "h": "Impact on Promotional Campaigns",
+        "p": [
+          "Because the Central Board of Film Certification stepped in to review the venture, the makers were forced to abruptly halt promotional activities and abandon structured pre-release events and trailer launches.",
+          "Despite acknowledging that the timeline for publicizing the project became exceptionally tight, the director expressed immense confidence in the cinematic merit of his creation, asserting that strong creative content ultimately speaks for itself."
+        ]
+      },
+      {
+        "h": "Revised Theatrical Release Schedule",
+        "p": [
+          "The regulatory evaluation and subsequent delay necessitated a complete overhaul of the project's calendar. Originally locked in for a November 13 premiere, the project had to vacate its initial date.",
+          "Following the resolution of the certification issues, the team regrouped and secured a fresh theatrical debut. 'Bhogi' is now officially slated to land in cinema halls on November 27."
+        ]
+      },
+      {
+        "h": "Childhood Memories and Real-Life Roots",
+        "p": [
+          "Discussing the conceptual origins of the movie, Sampath Nandi recalled specific childhood memories from his early years. Around fifty kilometres away from his native place, a location called Ramagiri Gutta witnessed a unique individual who wandered through neighboring settlements engaging in superstitious rituals.",
+          "The sight of this mysterious figure instilled a deep sense of dread among the local children, who would instinctively flee whenever he approached. That lingering childhood impression planted the foundational seeds for what would eventually evolve into a full-scale feature film."
+        ]
+      },
+      {
+        "h": "From Newspaper Clippings to Fictional Settings",
+        "p": [
+          "Years after those formative childhood encounters, the director encountered a newspaper clipping detailing a strikingly similar sequence of events occurring near the Adilabad-Maharashtra border. This media report revived his early memories and provided the final spark to build a cinematic plot.",
+          "Although the narrative draws inspiration from these authentic real-world occurrences, the filmmaker stressed that the final product remains entirely fictional and is deliberately situated inside an imaginary settlement known as Boggulagutta."
+        ]
+      },
+      {
+        "h": "Star-Studded Cast Lineup",
+        "p": [
+          "Beyond the directorial vision and the real-life lore inspiring the plot, the production boasts a notable ensemble cast. Leading man Sharwanand anchors the project in the primary protagonist role.",
+          "He is joined by prominent co-stars Anupama Parameswaran and Dimple Hayathi, both of whom portray pivotal characters driving the unfolding drama forward within the fictional landscape."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Director Sampath Nandi clarified that the violence in Sharwanand's 'Bhogi' stems naturally from the story rather than being added for effect. Following delays caused by the Central Board of Film Certification's Revising Committee, which pushed the release from November 13 to November 27, the film draws inspiration from childhood memories and a newspaper report about superstitious rituals near the Adilabad-Maharashtra border. The movie also stars Anupama Parameswaran and Dimple Hayathi in key roles set in the imaginary village of Boggulagutta."
+        ]
+      }
+    ],
+    "facts": [
+      "Bhogi releases in theatres on November 27, 2026",
+      "Bhogi was initially scheduled to release on November 13, 2026",
+      "The film stars Sharwanand, Anupama Parameswaran, and Dimple Hayathi",
+      "The story is set in an imaginary village called Boggulagutta",
+      "The director is Sampath Nandi"
+    ],
+    "entities": {
+      "people": [
+        "Sampath Nandi",
+        "Sharwanand",
+        "Anupama Parameswaran",
+        "Dimple Hayathi"
+      ],
+      "titles": [
+        "Bhogi"
+      ]
+    },
+    "keywords": [
+      "Bhogi movie",
+      "Sampath Nandi Bhogi",
+      "Sharwanand Bhogi release date",
+      "Bhogi CBFC Revising Committee"
+    ],
+    "images": [
+      {
+        "url": "https://static.toiimg.com/thumb/msid-136177238,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "caption": "Director Sampath Nandi Opens Up About Natural Violence and Real-Life Inspirations Behind Sharwanand's 'Bhogi'",
+        "source": "Times of India — Entertainment"
+      }
+    ],
+    "published": "2026-11-26T08:50:30+05:30"
+  },
+  "1pill6": {
+    "id": "1pill6",
+    "type": "news",
+    "headline": "Exploring the Top Adult-Oriented Television Series Available to Stream Now",
+    "dek": "A look at compelling television projects that combine mature themes, intricate storytelling, and high-stakes romance across different streaming platforms.",
+    "body": [
+      {
+        "h": "Introduction to Steamy Television",
+        "p": [
+          "Certain television projects evoke an immediate sense of guilty pleasure among viewers. While the content is purely fictional, the intimate nature of these stories often leads to blushing when discussing them with friends and family.",
+          "Rather than focusing solely on adult situations, these notable series pair their explicit elements with robust storytelling, compelling character arcs, and high-tension dramatic plots."
+        ]
+      },
+      {
+        "h": "Unraveling 56 Days",
+        "p": [
+          "Developed by Karyn Usher and Lisa Zwerling, and adapted from Catherine Ryan Howard's novel, the eight-episode psychological thriller 56 Days presents a gripping narrative. The plot follows Ciara Wyse, portrayed by Dove Cameron, and wealthy architect Oliver Kennedy, played by Avan Jogia, after an unexpected supermarket encounter.",
+          "The story opens on Day 56 with the grim discovery of an unidentified body in a luxury Boston apartment bathtub. Detectives Lee Reardon and Karl Connolly navigate a shifting timeline to uncover the hidden motives and dark secrets binding the central couple."
+        ]
+      },
+      {
+        "h": "The Appeal of Bridgerton",
+        "p": [
+          "Created by Chris Van Dusen and based on Julia Quinn's popular book series, Netflix's Regency-era drama Bridgerton has captivated audiences since its debut. The narrative follows the romantic endeavors of the eight close-knit siblings within a competitive high-society marriage market.",
+          "Under the watchful eye of anonymous columnist Lady Whistledown, voiced by Julie Andrews, characters balance strict social expectations with intense personal desires, utilizing modern orchestral soundtracks alongside lavish period costumes."
+        ]
+      },
+      {
+        "h": "Character Dynamics and Intimacy",
+        "p": [
+          "In programs like Bridgerton, intimate encounters serve a narrative purpose rather than acting merely as superficial shock value. These boudoir scenes help drive shifting power dynamics and personal growth.",
+          "Professional intimacy coordinators ensure that emotional vulnerability, consent, and character chemistry remain at the forefront of these emotionally charged sequences."
+        ]
+      },
+      {
+        "h": "Narrative Tension and Mystery",
+        "p": [
+          "Thrillers like 56 Days utilize high-gloss melodrama and unhinged character choices to maintain viewer engagement. The tension stems from unreliable narrators who harbor deep-seated trust issues.",
+          "As the fast-burning relationship escalates, the physical connection between the main characters remains the only anchor in an otherwise unpredictable and perilous investigation."
+        ]
+      },
+      {
+        "h": "Legacy and Impact of Adult Drama",
+        "p": [
+          "Both 56 Days and Bridgerton demonstrate how contemporary television can successfully blend adult themes with sophisticated genre conventions, whether through period romance or psychological mystery.",
+          "These projects continue to influence viewing habits, offering audiences a diverse range of sex-positive storytelling that prioritizes both narrative depth and romantic longing."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "This article highlights eight adult-oriented television programs currently available for streaming, focusing specifically on projects like 56 Days and Bridgerton. It examines how these series successfully combine explicit intimacy with compelling narratives, complex characters, and high-stakes drama."
+        ]
+      }
+    ],
+    "facts": [
+      "56 Days premiered in 2026.",
+      "Bridgerton premiered in 2020.",
+      "Dove Cameron stars as Ciara Wyse in 56 Days.",
+      "Avan Jogia stars as Oliver Kennedy in 56 Days.",
+      "Karyn Usher and Lisa Zwerling developed 56 Days.",
+      "Catherine Ryan Howard wrote the novel 56 Days.",
+      "Karla Souza plays detective Lee Reardon in 56 Days.",
+      "Dorian Missick plays detective Karl Connolly in 56 Days.",
+      "Julia Quinn wrote the book series behind Bridgerton.",
+      "Chris Van Dusen created Bridgerton.",
+      "Julie Andrews voices Lady Whistledown in Bridgerton.",
+      "Jonathan Bailey played Anthony Bridgerton.",
+      "Simone Ashley played Kate Sharma.",
+      "Regé-Page played Simon Basset."
+    ],
+    "entities": {
+      "people": [
+        "Michael Block",
+        "Karyn Usher",
+        "Lisa Zwerling",
+        "Catherine Ryan Howard",
+        "Dove Cameron",
+        "Avan Jogia",
+        "Karla Souza",
+        "Dorian Missick",
+        "Julia Quinn",
+        "Julie Andrews",
+        "Chris Van Dusen",
+        "Jonathan Bailey",
+        "Simone Ashley",
+        "Regé-Page"
+      ],
+      "titles": [
+        "56 Days",
+        "Bridgerton",
+        "Drag Race",
+        "Dragula",
+        "Survivor",
+        "Stranger Things",
+        "Emily in Paris",
+        "Wednesday",
+        "Squid Game"
+      ]
+    },
+    "keywords": [
+      "56 Days series",
+      "Bridgerton Netflix",
+      "Dove Cameron 56 Days",
+      "Avan Jogia 56 Days"
+    ],
+    "images": [
+      {
+        "url": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/02/bridgerton-ruth-gemmell-daniel-francis.jpg?w=1600&amp;h=900&amp;fit=crop",
+        "caption": "Exploring the Top Adult-Oriented Television Series Available to Stream Now",
+        "source": "Collider"
+      }
+    ],
+    "published": "Thu, 26 Nov 2026 02:57:12 GMT"
   }
 };

@@ -4,45 +4,6 @@
    {
     "step": "fetch",
     "category": "Trending News",
-    "run_at": "2026-11-25T03:51:16Z",
-    "run_id": "45542723856",
-    "status": "success",
-    "checked": {
-     "candidates": 271,
-     "detail": "RSS/Atom items across 137 sources; 1 source(s) errored"
-    },
-    "changed": {
-     "added": [
-      "Miley Cyrus and Maxx Morando’s wedding planner reveals why they got married at Frank Sinatra’s estate",
-      "Dhyan Sreenivasan reacts to Vijay remark controversy",
-      "2 Chainz revealed he got injured in a car crash",
-      "Esha Deol on Dharmendra and Hema Malini's parenting",
-      "Actor Steven Hack passes away at age 68",
-      "HBO Max Officially Revives ‘Better Call Saul’ Star’s ‘John Wick’ Replacement",
-      "Taylor Sheridan Meets ‘Jurassic Park’ in the New Sci-Fi Western Officially Set for 2027",
-      "Disney Officially Decides the Fate of James Cameron’s ‘Avatar 4’",
-      "The 25 Best Video Games of All Time, Ranked",
-      "10 Action Video Games That Are Bangers From Start to Finish",
-      "'The Rings of Power' Director on the \"Terrifying Responsibility\" of Tackling Middle-earth's Darkest Moment",
-      "Robert Pattinson’s Neo-Noir Thriller Officially Surges After James Bond Casting",
-      "After 11 Years, This ‘Doctor Who’ Episode Is Still Hailed as a Masterpiece",
-      "6 Upcoming Prime Video Series, Ranked by Hype",
-      "The 10 Best Dark Fantasy Films of All Time, Ranked",
-      "15 Best Marvel Hand-to-Hand Fighters of All Time, Officially Ranked",
-      "Is Durin Related To Gimli In The Rings Of Power?",
-      "Netflix’s New Sci-Fi Movie Officially Divides Audiences On Rotten Tomatoes",
-      "Snoopy Teams Up With Iconic Cookie Brand For Adorable Peanuts Holiday Crossover",
-      "The Rings Of Power Season 3's Major Balrog Change Explained By Season 3 Director"
-     ],
-     "updated": [],
-     "count": 263,
-     "detail": "271 stories, 0 duplicates removed, 0 dropped"
-    },
-    "reason": null
-   },
-   {
-    "step": "fetch",
-    "category": "Trending News",
     "run_at": "2026-11-25T04:52:00Z",
     "run_id": "45549504894",
     "status": "success",
@@ -936,32 +897,48 @@
      "detail": "219 stories, 0 duplicates removed, 8 dropped"
     },
     "reason": null
-   }
-  ],
-  "apply_auto": [
+   },
    {
-    "step": "apply_auto",
+    "step": "fetch",
     "category": "Trending News",
-    "run_at": "2026-11-25T04:52:44Z",
-    "run_id": "45549504894",
+    "run_at": "2026-11-26T04:51:07Z",
+    "run_id": "45757738042",
     "status": "success",
     "checked": {
-     "candidates": 14,
-     "detail": "draft articles + box-office rows from out/gemini-batch.json"
+     "candidates": 217,
+     "detail": "RSS/Atom items across 137 sources; 0 source(s) errored"
     },
     "changed": {
      "added": [
-      "Avengers Doomsday Advance Booking Crosses Rs 60 Crore Mark in India",
-      "The Lord of the Rings: The Rings of Power Season 4 Officially Confirmed by Amazon Prime Video",
-      "Kevin Feige Reveals Doctor Doom Was Always Part of the MCU Plan for Secret Wars",
-      "Disney's Animated Feature Hexed Stumbles on Rotten Tomatoes Ahead of Release"
+      "Jaideep Ahlawat joins Raymond Chairman’s Collection as ‘Friend of the Brand’; brings retro Bollywood style back in focus",
+      "Sampath Nandi explains violence in Sharwanand’s ‘Bhogi’",
+      "Dulquer Salmaan: 'I don't think I'm enough to make a film bankable'",
+      "‘Vishwambhara’ and ‘Kaaka’: Chiranjeevi’s two films eye same Sankranthi 2027 release",
+      "Ranbir Kapoor, Nitesh Tiwari, Namit Malhotra offer prayers at Gurudwara Bangla Sahib as Ramayana nears  ₹1000 crore at the box office",
+      "Sam Rockwell’s New Spy Thriller Officially Says Goodbye to 1,000 Theaters",
+      "8 Best Steamy Shows for Adults Only You Can Stream Now",
+      "Survivor 51 Sends Two Castaways Home in Shocking Double Elimination",
+      "Twilight Director’s Reaction to Robert Pattinson as James Bond Has a Wild Twist",
+      "Jake Gyllenhaal’s Apple TV Thriller Officially Returns Without Him — But That’s OK",
+      "Microdrama Revenue to Hit $20 Billion in 2026, but Profits Outside China Remain Thin, Media Partners Asia Report Finds",
+      "‘Baahubali,’ ‘RRR’ Tech Chief C.V. Rao, New SMPTE Fellow, on Why Indian Filmmakers Shouldn’t Depend on Overseas Facilities",
+      "Crypto Exec Constance Wang Slams Her Portrayal in Netflix Series ‘The Altruists’ as ‘Racist’ and ‘Very Stereotypical’",
+      "Ms. Rachel Explains How Mr. Rogers’ “Radical” Programming Inspired Her: “A Huge Responsibility”",
+      "She is a Real Life Khushbakht! 😍 | #saniasaeed #darenijaat #shorts",
+      "Lahore High Court seeks police report on Maulana Fazl’s confinement",
+      "Balochistan CM Bugti warns against anti-state narratives",
+      "Govt raises Rs689bn via treasury bills",
+      "Kalu Ne Aakhir Larki Ko Propose Kar Diya! 😍 || Bano || Har Pal Geo",
+      "Tazeen Ka Ex Aashiq Achanak Ghar Pahunch Gaya! 😱 || Khafa || Har Pal Geo"
      ],
      "updated": [],
-     "count": 7,
-     "detail": "+4 articles, +0 box-office rows, 3 rows updated"
+     "count": 205,
+     "detail": "217 stories, 0 duplicates removed, 0 dropped"
     },
     "reason": null
-   },
+   }
+  ],
+  "apply_auto": [
    {
     "step": "apply_auto",
     "category": "Trending News",
@@ -1477,27 +1454,32 @@
      "detail": "+4 articles, +1 box-office rows, 3 rows updated"
     },
     "reason": null
+   },
+   {
+    "step": "apply_auto",
+    "category": "Trending News",
+    "run_at": "2026-11-26T04:53:18Z",
+    "run_id": "45757738042",
+    "status": "success",
+    "checked": {
+     "candidates": 15,
+     "detail": "draft articles + box-office rows from out/gemini-batch.json"
+    },
+    "changed": {
+     "added": [
+      "Jaideep Ahlawat Partners with Raymond Chairman’s Collection to Revive Classic Cinematic Fashion",
+      "Sam Rockwell's Newest Project Wild Horse Nine Suffers Major Theater Cut",
+      "Director Sampath Nandi Opens Up About Natural Violence and Real-Life Inspirations Behind Sharwanand's 'Bhogi'",
+      "Exploring the Top Adult-Oriented Television Series Available to Stream Now"
+     ],
+     "updated": [],
+     "count": 8,
+     "detail": "+4 articles, +1 box-office rows, 3 rows updated"
+    },
+    "reason": null
    }
   ],
   "ott": [
-   {
-    "step": "ott",
-    "category": "OTT",
-    "run_at": "2026-11-25T06:53:01Z",
-    "run_id": "45563590688",
-    "status": "success",
-    "checked": {
-     "candidates": 444,
-     "detail": "OTT now/coming titles from the published catalogue"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 0,
-     "detail": "now 439, coming 5"
-    },
-    "reason": null
-   },
    {
     "step": "ott",
     "category": "OTT",
@@ -1911,26 +1893,27 @@
      "detail": "now 442, coming 5"
     },
     "reason": "no-new-data"
-   }
-  ],
-  "trending_weekly": [
+   },
    {
-    "step": "trending_weekly",
-    "category": "Trending Topics",
-    "run_at": "2026-11-25T03:52:04Z",
-    "run_id": "45542723856",
+    "step": "ott",
+    "category": "OTT",
+    "run_at": "2026-11-26T04:53:19Z",
+    "run_id": "45757738042",
     "status": "success",
     "checked": {
-     "candidates": 100,
-     "detail": "cached Google RSS trend/article intersection"
+     "candidates": 447,
+     "detail": "OTT now/coming titles from the published catalogue"
     },
     "changed": {
      "added": [],
      "updated": [],
-     "count": 0
+     "count": 0,
+     "detail": "now 442, coming 5"
     },
     "reason": "no-new-data"
-   },
+   }
+  ],
+  "trending_weekly": [
    {
     "step": "trending_weekly",
     "category": "Trending Topics",
@@ -2395,27 +2378,26 @@
      "count": 4
     },
     "reason": null
-   }
-  ],
-  "multisource_boxoffice": [
+   },
    {
-    "step": "multisource_boxoffice",
-    "category": "Box Office",
-    "run_at": "2026-11-25T03:51:37Z",
-    "run_id": "45542723856",
+    "step": "trending_weekly",
+    "category": "Trending Topics",
+    "run_at": "2026-11-26T04:55:18Z",
+    "run_id": "45757738042",
     "status": "success",
     "checked": {
-     "candidates": 753,
-     "detail": "688 collected staging rows from readers; 258 averaged across 2+ sources"
+     "candidates": 100,
+     "detail": "cached Google RSS trend/article intersection"
     },
     "changed": {
      "added": [],
      "updated": [],
-     "count": 5,
-     "detail": "+0 new rows, 5 updated rows, 720 unchanged"
+     "count": 0
     },
-    "reason": null
-   },
+    "reason": "no-new-data"
+   }
+  ],
+  "multisource_boxoffice": [
    {
     "step": "multisource_boxoffice",
     "category": "Box Office",
@@ -2829,19 +2811,27 @@
      "detail": "+0 new rows, 6 updated rows, 725 unchanged"
     },
     "reason": null
+   },
+   {
+    "step": "multisource_boxoffice",
+    "category": "Box Office",
+    "run_at": "2026-11-26T04:55:15Z",
+    "run_id": "45757738042",
+    "status": "success",
+    "checked": {
+     "candidates": 760,
+     "detail": "692 collected staging rows from readers; 260 averaged across 2+ sources"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 6,
+     "detail": "+1 new rows, 5 updated rows, 726 unchanged"
+    },
+    "reason": null
    }
   ],
   "gemini_reviews": [
-   {
-    "step": "gemini_reviews",
-    "category": "Reviews",
-    "run_at": "2026-11-25T03:52:12Z",
-    "run_id": "45542723856",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "gemini_reviews",
     "category": "Reviews",
@@ -3078,32 +3068,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "gemini_reviews",
+    "category": "Reviews",
+    "run_at": "2026-11-26T04:55:27Z",
+    "run_id": "45757738042",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "convert_news": [
-   {
-    "step": "convert_news",
-    "category": "Trending News",
-    "run_at": "2026-11-25T03:52:03Z",
-    "run_id": "45542723856",
-    "status": "success",
-    "checked": {
-     "candidates": 600,
-     "detail": "feed entries from out/queue.json"
-    },
-    "changed": {
-     "added": [
-      "The Glory Stars Lim Ji-Yeon and Lee Do-Hyun Break Up After Three Years Together",
-      "HBO Max Breathes New Life Into Bob Odenkirk Action Vehicle Normal",
-      "Shreya Ghoshal Welcomes Rapper Badshah As A Brother During Bengaluru Concert",
-      "Choi Hyun Wook and Jung Chaeyeon Confirmed to Star in ENA Romance Drama Green Light"
-     ],
-     "updated": [],
-     "count": 4,
-     "detail": "api-news.json 600 items, api-trends.json 12 items"
-    },
-    "reason": null
-   },
    {
     "step": "convert_news",
     "category": "Trending News",
@@ -3621,19 +3598,32 @@
      "detail": "api-news.json 600 items, api-trends.json 12 items"
     },
     "reason": null
+   },
+   {
+    "step": "convert_news",
+    "category": "Trending News",
+    "run_at": "2026-11-26T04:55:17Z",
+    "run_id": "45757738042",
+    "status": "success",
+    "checked": {
+     "candidates": 600,
+     "detail": "feed entries from out/queue.json"
+    },
+    "changed": {
+     "added": [
+      "Jaideep Ahlawat Partners with Raymond Chairman’s Collection to Revive Classic Cinematic Fashion",
+      "Sam Rockwell's Newest Project Wild Horse Nine Suffers Major Theater Cut",
+      "Exploring the Top Adult-Oriented Television Series Available to Stream Now",
+      "Director Sampath Nandi Opens Up About Natural Violence and Real-Life Inspirations Behind Sharwanand's 'Bhogi'"
+     ],
+     "updated": [],
+     "count": 4,
+     "detail": "api-news.json 600 items, api-trends.json 12 items"
+    },
+    "reason": null
    }
   ],
   "episode_guides": [
-   {
-    "step": "episode_guides",
-    "category": "Drama Episodes",
-    "run_at": "2026-11-25T03:52:12Z",
-    "run_id": "45542723856",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "episode_guides",
     "category": "Drama Episodes",
@@ -3902,19 +3892,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "title_seed": [
+   },
    {
-    "step": "title_seed",
-    "category": "Spotlight / Coming Soon / Most Awaited",
-    "run_at": "2026-11-25T03:52:12Z",
-    "run_id": "45542723856",
+    "step": "episode_guides",
+    "category": "Drama Episodes",
+    "run_at": "2026-11-26T04:55:27Z",
+    "run_id": "45757738042",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "title_seed": [
    {
     "step": "title_seed",
     "category": "Spotlight / Coming Soon / Most Awaited",
@@ -4235,31 +4225,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "title_seed",
+    "category": "Spotlight / Coming Soon / Most Awaited",
+    "run_at": "2026-11-26T04:55:27Z",
+    "run_id": "45757738042",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "gemini_batch": [
-   {
-    "step": "gemini_batch",
-    "category": "Trending News",
-    "run_at": "2026-11-25T03:51:36Z",
-    "run_id": "45542723856",
-    "status": "success",
-    "checked": {
-     "candidates": 4,
-     "detail": "news queue items drafted this run; 263 still unprocessed; today by category: movies 2/6, tv_dramas 1/4, episodes 0/2, box_office 4/6, celebrities_events 5/5, upcoming_releases 0/4, ott_streaming 2/4, trailers 2/3, awards 3/2, music_ost 1/2, viral 0/2"
-    },
-    "changed": {
-     "added": [
-      "The Glory Stars Lim Ji-Yeon and Lee Do-Hyun Break Up After Three Years Together",
-      "HBO Max Breathes New Life Into Bob Odenkirk Action Vehicle Normal",
-      "Shreya Ghoshal Welcomes Rapper Badshah As A Brother During Bengaluru Concert",
-      "Choi Hyun Wook and Jung Chaeyeon Confirmed to Star in ENA Romance Drama Green Light"
-     ],
-     "updated": [],
-     "count": 4
-    },
-    "reason": null
-   },
    {
     "step": "gemini_batch",
     "category": "Trending News",
@@ -4757,19 +4735,31 @@
      "count": 4
     },
     "reason": null
+   },
+   {
+    "step": "gemini_batch",
+    "category": "Trending News",
+    "run_at": "2026-11-26T04:53:18Z",
+    "run_id": "45757738042",
+    "status": "success",
+    "checked": {
+     "candidates": 4,
+     "detail": "news queue items drafted this run; 205 still unprocessed; today by category: movies 2/6, tv_dramas 3/4, episodes 0/2, box_office 6/6, celebrities_events 4/5, upcoming_releases 2/4, ott_streaming 3/4, trailers 0/3, awards 2/2, music_ost 2/2, viral 0/2"
+    },
+    "changed": {
+     "added": [
+      "Jaideep Ahlawat Partners with Raymond Chairman’s Collection to Revive Classic Cinematic Fashion",
+      "Sam Rockwell's Newest Project Wild Horse Nine Suffers Major Theater Cut",
+      "Director Sampath Nandi Opens Up About Natural Violence and Real-Life Inspirations Behind Sharwanand's 'Bhogi'",
+      "Exploring the Top Adult-Oriented Television Series Available to Stream Now"
+     ],
+     "updated": [],
+     "count": 4
+    },
+    "reason": null
    }
   ],
   "overseas_ai": [
-   {
-    "step": "overseas_ai",
-    "category": "Box Office",
-    "run_at": "2026-11-25T03:52:12Z",
-    "run_id": "45542723856",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "overseas_ai",
     "category": "Box Office",
@@ -5083,24 +5073,19 @@
      "count": 0
     },
     "reason": "no-new-data"
+   },
+   {
+    "step": "overseas_ai",
+    "category": "Box Office",
+    "run_at": "2026-11-26T04:55:27Z",
+    "run_id": "45757738042",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "publish": [
-   {
-    "step": "publish",
-    "category": "Trending News",
-    "run_at": "2026-11-25T03:52:12Z",
-    "run_id": "45542723856",
-    "status": "success",
-    "checked": null,
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 404,
-     "detail": "lines changed in owned files; no per-item summary from script"
-    },
-    "reason": null
-   },
    {
     "step": "publish",
     "category": "Trending News",
@@ -5445,24 +5430,24 @@
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
-   }
-  ],
-  "stats_traffic": [
+   },
    {
-    "step": "stats_traffic",
-    "category": "Stats / Health",
-    "run_at": "2026-11-25T03:52:12Z",
-    "run_id": "45542723856",
+    "step": "publish",
+    "category": "Trending News",
+    "run_at": "2026-11-26T04:55:27Z",
+    "run_id": "45757738042",
     "status": "success",
     "checked": null,
     "changed": {
      "added": [],
      "updated": [],
-     "count": 3,
+     "count": 381,
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
-   },
+   }
+  ],
+  "stats_traffic": [
    {
     "step": "stats_traffic",
     "category": "Stats / Health",
@@ -5737,19 +5722,24 @@
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
+   },
+   {
+    "step": "stats_traffic",
+    "category": "Stats / Health",
+    "run_at": "2026-11-26T04:55:27Z",
+    "run_id": "45757738042",
+    "status": "success",
+    "checked": null,
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 14,
+     "detail": "lines changed in owned files; no per-item summary from script"
+    },
+    "reason": null
    }
   ],
   "stats_pipeline": [
-   {
-    "step": "stats_pipeline",
-    "category": "Stats / Health",
-    "run_at": "2026-11-25T03:52:12Z",
-    "run_id": "45542723856",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "stats_pipeline",
     "category": "Stats / Health",
@@ -5999,19 +5989,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "stats_health": [
+   },
    {
-    "step": "stats_health",
+    "step": "stats_pipeline",
     "category": "Stats / Health",
-    "run_at": "2026-11-25T03:52:12Z",
-    "run_id": "45542723856",
+    "run_at": "2026-11-26T04:55:27Z",
+    "run_id": "45757738042",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "stats_health": [
    {
     "step": "stats_health",
     "category": "Stats / Health",
@@ -6246,19 +6236,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "metadata_refresh": [
+   },
    {
-    "step": "metadata_refresh",
-    "category": "Spotlight / Coming Soon / Most Awaited",
-    "run_at": "2026-11-25T03:52:12Z",
-    "run_id": "45542723856",
+    "step": "stats_health",
+    "category": "Stats / Health",
+    "run_at": "2026-11-26T04:55:27Z",
+    "run_id": "45757738042",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "metadata_refresh": [
    {
     "step": "metadata_refresh",
     "category": "Spotlight / Coming Soon / Most Awaited",
@@ -6542,19 +6532,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "providers_backfill": [
+   },
    {
-    "step": "providers_backfill",
-    "category": "OTT",
-    "run_at": "2026-11-25T03:52:12Z",
-    "run_id": "45542723856",
+    "step": "metadata_refresh",
+    "category": "Spotlight / Coming Soon / Most Awaited",
+    "run_at": "2026-11-26T04:55:27Z",
+    "run_id": "45757738042",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "providers_backfill": [
    {
     "step": "providers_backfill",
     "category": "OTT",
@@ -6795,19 +6785,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "tavily_boxoffice": [
+   },
    {
-    "step": "tavily_boxoffice",
-    "category": "Box Office",
-    "run_at": "2026-11-25T03:52:12Z",
-    "run_id": "45542723856",
+    "step": "providers_backfill",
+    "category": "OTT",
+    "run_at": "2026-11-26T04:55:27Z",
+    "run_id": "45757738042",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "tavily_boxoffice": [
    {
     "step": "tavily_boxoffice",
     "category": "Box Office",
@@ -7037,42 +7027,19 @@
     "checked": null,
     "changed": null,
     "reason": "no-new-data"
+   },
+   {
+    "step": "tavily_boxoffice",
+    "category": "Box Office",
+    "run_at": "2026-11-26T04:55:27Z",
+    "run_id": "45757738042",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "keywords_refresh": [
-   {
-    "step": "keywords_refresh",
-    "category": "Trending News",
-    "run_at": "2026-11-25T03:52:03Z",
-    "run_id": "45542723856",
-    "status": "success",
-    "checked": {
-     "candidates": 15,
-     "detail": "keyword refresh: 15 articles, sources {'gemini': 15}"
-    },
-    "changed": {
-     "added": [],
-     "updated": [
-      "TNAGR Prepares to Debut as OUI Entertainment's First New Boy Group in Six Years",
-      "Avengers Doomsday Advance Booking Crosses Rs 47 Crore in India",
-      "Netflix BioShock Adaptation Receives a Fresh Update from Director Francis Lawren",
-      "Macaulay Culkin Teams Up With Seth Rogen and Evan Goldberg for New Home Alone Se",
-      "Shah Rukh Khan's 'King' Trailer Set for December Release Ahead of Christmas Week",
-      "Ranveer Singh Delivers Heartfelt Tribute to Sachin Tendulkar at Global Peace Hon",
-      "Disney's Billion-Dollar Animated Hit Climbs Global Streaming Charts Years After ",
-      "Ramayana Day 17 Box Office: Ranbir Kapoor-Yash Film Sees BIG Jump On Third Satur",
-      "Suriya Expresses Gratitude to Fans Following the Phenomenal Triple Success of 20",
-      "Tiger Shroff Makes First Public Appearance At Global Peace Honours 2026 Followin",
-      "Yellowjackets Creators Explain Why Season 4 Marks the End of the Hit Series",
-      "Netflix Premieres Polish Crime Thriller 'The Law of Beasts'",
-      "Son Suk Ku and Nagayama Eita's 'The Blue Road' Reaches No. 1 on Netflix Korea",
-      "Ramayana: Rise of a Legend Box Office Collection Day 17: Ranbir Kapoor Starrer E",
-      "O.M: Operation Mole Box Office Collection Day 2: Dhanush and Mammootty Starrer R"
-     ],
-     "count": 15
-    },
-    "reason": null
-   },
    {
     "step": "keywords_refresh",
     "category": "Trending News",
@@ -7321,6 +7288,16 @@
     "category": "Trending News",
     "run_at": "2026-11-26T04:01:03Z",
     "run_id": "45751451568",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
+   },
+   {
+    "step": "keywords_refresh",
+    "category": "Trending News",
+    "run_at": "2026-11-26T04:55:27Z",
+    "run_id": "45757738042",
     "status": "skipped",
     "checked": null,
     "changed": null,
@@ -7865,16 +7842,6 @@
    {
     "step": "advance_booking",
     "category": "Box Office",
-    "run_at": "2026-11-25T03:52:12Z",
-    "run_id": "45542723856",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
-   {
-    "step": "advance_booking",
-    "category": "Box Office",
     "run_at": "2026-11-25T05:15:43Z",
     "run_id": "45549504894",
     "status": "skipped",
@@ -8111,24 +8078,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "advance_booking",
+    "category": "Box Office",
+    "run_at": "2026-11-26T04:55:27Z",
+    "run_id": "45757738042",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "home_boxoffice_worldwide": [
-   {
-    "step": "home_boxoffice_worldwide",
-    "category": "Box Office",
-    "run_at": "2026-11-25T03:52:12Z",
-    "run_id": "45542723856",
-    "status": "success",
-    "checked": null,
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 2517,
-     "detail": "lines changed in owned files; no per-item summary from script"
-    },
-    "reason": null
-   },
    {
     "step": "home_boxoffice_worldwide",
     "category": "Box Office",
@@ -8393,8 +8355,18 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "home_boxoffice_worldwide",
+    "category": "Box Office",
+    "run_at": "2026-11-26T04:55:27Z",
+    "run_id": "45757738042",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ]
  },
- "updated_at": "2026-11-26T04:01:03Z"
+ "updated_at": "2026-11-26T04:55:27Z"
 }
