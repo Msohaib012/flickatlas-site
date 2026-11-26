@@ -258307,5 +258307,399 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Thu, 26 Nov 2026 20:01:12 GMT"
+  },
+  "qyen84": {
+    "id": "qyen84",
+    "type": "news",
+    "headline": "Deadpool 4 Enters Early Development At Marvel With Ryan Reynolds Expected To Return",
+    "dek": "Marvel Studios has reportedly begun early development on a fourth Deadpool film following the massive box-office success of Deadpool Wolverine.",
+    "body": [
+      {
+        "h": "Early Development Underway",
+        "p": [
+          "Marvel Studios has reportedly started early development on a fourth installment in the Deadpool film franchise. Sources indicate that the project is in its formative stages at the studio.",
+          "The latest update arrives following the extraordinary commercial triumphs and global reach of the previous franchise entries within the Marvel Cinematic Universe."
+        ]
+      },
+      {
+        "h": "Ryan Reynolds Expected To Reprise Role",
+        "p": [
+          "Actor Ryan Reynolds is anticipated to return as the chaotic antihero Wade Wilson, also known as the Merc With A Mouth. His ongoing association with the character has cemented his place at the center of the franchise.",
+          "Although studio confirmation is still pending, reports strongly suggest that Reynolds will once again helm the leading role in this potential new chapter."
+        ]
+      },
+      {
+        "h": "Box Office Record And Context",
+        "p": [
+          "The progression toward a fourth film follows the historic box-office performance of Deadpool Wolverine. That feature achieved approximately $1.3 billion in worldwide ticket sales.",
+          "Furthermore, the preceding movie established itself as the highest-grossing R-rated film in cinematic history, elevating audience anticipation for future sequels."
+        ]
+      },
+      {
+        "h": "Unexplored Comic Book Material",
+        "p": [
+          "During Fanatics Fest 2026, Ryan Reynolds spoke about potential narratives remaining in the source material. He noted that numerous deep cuts and lesser-known storylines from the comics have yet to be adapted.",
+          "The actor expressed enthusiasm regarding these untapped comic elements, suggesting they could eventually serve as inspiration for future cinematic adventures."
+        ]
+      },
+      {
+        "h": "Production Details And Silence From Marvel",
+        "p": [
+          "At this early stage, specific plot details, supporting actors, and creative crew members remain unannounced. No writer or director has been officially attached to the project.",
+          "Marvel Studios has maintained a guarded stance regarding the production, leaving fans waiting for official announcements or formal confirmations."
+        ]
+      },
+      {
+        "h": "Franchise History And Legacy",
+        "p": [
+          "Ryan Reynolds has previously portrayed Wade Wilson across three distinct features, beginning with Deadpool in 2016 and Deadpool 2 in 2018, leading up to Deadpool Wolverine in 2024.",
+          "His distinct style of irreverent humor, fourth-wall breaks, and action-heavy sequences has transformed the character into one of the most widely recognized figures in modern superhero cinema."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Marvel Studios has reportedly initiated early development on Deadpool 4, with Ryan Reynolds expected to return as Wade Wilson. The project follows the $1.3 billion worldwide success of Deadpool Wolverine, though no official release dates, writers, or directors have been announced yet."
+        ]
+      }
+    ],
+    "facts": [
+      "Ryan Reynolds is expected to return as Wade Wilson in Deadpool 4.",
+      "Deadpool Wolverine grossed approximately $1.3 billion worldwide.",
+      "Deadpool Wolverine is the highest-grossing R-rated film of all time.",
+      "Ryan Reynolds spoke about comic book storylines at Fanatics Fest 2026.",
+      "Ryan Reynolds previously portrayed Deadpool in Deadpool (2016), Deadpool 2 (2018), and Deadpool Wolverine (2024)."
+    ],
+    "entities": {
+      "people": [
+        "Ryan Reynolds",
+        "Hugh Jackman",
+        "Wade Wilson"
+      ],
+      "titles": [
+        "Deadpool 4",
+        "Deadpool Wolverine",
+        "Deadpool",
+        "Deadpool 2"
+      ]
+    },
+    "keywords": [
+      "Ryan Reynolds Deadpool 4",
+      "Deadpool 4 early development",
+      "Marvel Studios Deadpool 4",
+      "Deadpool Wolverine box office"
+    ],
+    "images": [
+      {
+        "url": "https://images.timesnownews.com/thumb/msid-156570539,thumbsize-189822,width-1280,height-720,resizemode-75/156570539.jpg",
+        "caption": "Deadpool 4 Enters Early Development At Marvel With Ryan Reynolds Expected To Return",
+        "source": "Times Now — Entertainment"
+      }
+    ],
+    "published": "2026-11-26T21:52:09Z"
+  },
+  "191tp8n": {
+    "id": "191tp8n",
+    "type": "news",
+    "headline": "JD Vance’s Thanksgiving Meal With Military Members Sparks Online Backlash",
+    "dek": "A holiday visit by Vice President JD Vance and his family to an Ohio air force base turned into an online discussion after internet users criticized his table manners and accused him of staging a photo opportunity.",
+    "body": [
+      {
+        "h": "Thanksgiving Visit to the Air Force Base",
+        "p": [
+          "Vice President JD Vance, Second Lady Usha Vance, and their four children traveled to the Wright-Patterson Air Force Base in Ohio on Wednesday, November 25, to serve a holiday meal to armed forces personnel. The family dished out roast turkey, prime rib, and baked ham along a cafeteria line before joining the troops for food and conversation.",
+          "The military facility is located in southwest Ohio, roughly 60 miles from the family's home in Cincinnati and near the birthplace of JD Vance. Usha Vance noted that they regularly spend the holiday in the state because the vice president's relatives reside there."
+        ]
+      },
+      {
+        "h": "Online Backlash Over Table Manners",
+        "p": [
+          "While many initial reports praised the gesture, video footage shared from the event quickly drew unexpected attention. Social media users closely observed the vice president seated at the table and began pointing out habits they considered inappropriate.",
+          "Critics accused him of chewing with his mouth open and speaking while eating. Observers compared his appearance while chewing to a chipmunk, prompting widespread discussion across various platforms regarding proper etiquette during official public appearances."
+        ]
+      },
+      {
+        "h": "Defense and Military Background",
+        "p": [
+          "Supporters quickly stepped in to defend the vice president against the online criticism. Some argued that the public should allow him to eat without intense scrutiny, while others suggested that veterans understand the realities of roughing it during service.",
+          "Defenders highlighted that JD Vance is a military veteran himself. He served in the United States Marine Corps between 2003 and 2007, a period that included a deployment to Iraq."
+        ]
+      },
+      {
+        "h": "Accusations of Political Motives",
+        "p": [
+          "Beyond table manners, the visit faced skepticism from online commentators who questioned the timing and intent of the appearance. Some users accused the administration of utilizing the armed forces as political props amid ongoing speculation about a potential presidential run in the next election.",
+          "Critics suggested the event was staged purely for publicity. Observers claimed that individuals seated near the leadership appeared indifferent to the conversations taking place around them."
+        ]
+      },
+      {
+        "h": "Space Academy Discussions",
+        "p": [
+          "The visit coincided with discussions surrounding regional infrastructure and military projects. Shortly before the luncheon, Ohio congressional leadership led by Senator Bernie Moreno advocated for placing the U.S. Space Academy near the technologically advanced air force complex.",
+          "When questioned about the proposal during the event, JD Vance stated that several strong alternatives existed in states like Texas and Florida. He maintained that his presence at the base was entirely unrelated to those facility plans."
+        ]
+      },
+      {
+        "h": "Family Values and Holiday Remarks",
+        "p": [
+          "Explaining the motivation behind the visit, the vice president emphasized the importance of teaching his children about public service. He expressed joy in giving his kids the opportunity to serve meals and interact directly with members of the military.",
+          "When discussing his personal holiday agenda, he mentioned plans to keep celebrations standard by spending time with people, enjoying holiday food, and keeping drinks moderate. During the luncheon, conversations also drifted toward casual topics, including football and past local news events."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Vice President JD Vance and his family visited the Wright-Patterson Air Force Base in Ohio on November 25 to serve a Thanksgiving meal to military personnel. The visit drew unexpected online scrutiny regarding his table manners and sparked accusations from critics concerning political publicity."
+        ]
+      }
+    ],
+    "facts": [
+      "Vice President JD Vance, Second Lady Usha Vance, and their four children served a Thanksgiving meal on Wednesday, November 25.",
+      "The event took place at the Wright-Patterson Air Force Base in Ohio.",
+      "JD Vance served in the United States Marine Corps from 2003 to 2007 and deployed once to Iraq.",
+      "The Air Force base is about 60 miles from the family's Cincinnati home.",
+      "Republican Sen. Bernie Moreno urged the Trump administration to locate the U.S. Space Academy close to the Wright-Patterson complex."
+    ],
+    "entities": {
+      "people": [
+        "JD Vance",
+        "Usha Vance",
+        "Bernie Moreno",
+        "Ewan",
+        "Vivek",
+        "Mirabel",
+        "Alec",
+        "Terry Thompson"
+      ],
+      "titles": []
+    },
+    "keywords": [
+      "JD Vance Thanksgiving Armed Forces",
+      "JD Vance Wright-Patterson Air Force Base",
+      "Usha Vance Thanksgiving Ohio",
+      "JD Vance table manners viral"
+    ],
+    "images": [
+      {
+        "url": "https://static.boredpanda.com/blog/wp-content/uploads/2026/11/fb_image_6b089b7bf30ca.png",
+        "caption": "JD Vance’s Thanksgiving Meal With Military Members Sparks Online Backlash",
+        "source": "Bored Panda"
+      }
+    ],
+    "published": "Thu, 26 Nov 2026 21:25:55 +0000"
+  },
+  "nvtbm2": {
+    "id": "nvtbm2",
+    "type": "news",
+    "headline": "Avengers: Doomsday and Dune: Part Three Head Toward Massive December Box Office Clash",
+    "dek": "Early industry tracking points to a colossal holiday showdown as Avengers: Doomsday targets a $270 million domestic debut and Dune: Part Three eyes an $80 million opening.",
+    "body": [
+      {
+        "h": "The Dunesday Showdown",
+        "p": [
+          "A major box office showdown is shaping up for the winter holiday season, widely dubbed by industry observers as 'Dunesday'. Two of the most anticipated Hollywood blockbusters are scheduled to hit theater screens simultaneously, setting the stage for an unprecedented weekend of ticket sales.",
+          "Both films are slated to arrive on December 18, bringing two entirely different fanbases and cinematic universes into direct competition. Studios and analysts are closely monitoring early numbers to gauge how this high-profile face-off will impact overall theatrical revenues."
+        ]
+      },
+      {
+        "h": "Avengers: Doomsday Tracking Projections",
+        "p": [
+          "Marvel Studios' upcoming superhero epic is currently projected to pull in an impressive $270 million domestically during its opening weekend, according to early figures from NRG. If these estimates hold steady, the blockbuster could shatter existing December box office records.",
+          "The current record-holder for a December release is Spider-Man: No Way Home, which brought in $260 million back in 2021. Industry trackers note that Doomsday is positioned to eclipse that milestone, trailing only massive historical openings like Avengers: Endgame and Spider-Man: Brand New Day."
+        ]
+      },
+      {
+        "h": "Creative Team and Star-Studded Cast",
+        "p": [
+          "The creative helm for Avengers: Doomsday sees the return of directors Anthony and Joe Russo following their monumental success with Avengers: Endgame. The screenplay is penned by Michael Waldron and Stephen McFeely, tasked with weaving together numerous heroes from across timelines and generations.",
+          "A major highlight of the upcoming Marvel feature is the unexpected casting of Robert Downey Jr., who returns to the franchise not as Tony Stark or Iron Man, but as the iconic villain Doctor Doom. The ensemble cast features a myriad of familiar faces ready for a massive holiday confrontation."
+        ]
+      },
+      {
+        "h": "Dune: Part Three Expectations",
+        "p": [
+          "On the opposing side of the December 18 marquee, Denis Villeneuve's Dune: Part Three is tracking toward a very healthy opening weekend between $75 million and $80 million. The director's sweeping visual style continues to draw strong pre-release interest from sci-fi enthusiasts.",
+          "Despite sharing a release date with a powerhouse Marvel title, industry insiders remain optimistic about the broader holiday theatrical window. The extended festive period is expected to provide enough breathing room for multiple major releases to sustain their momentum."
+        ]
+      },
+      {
+        "h": "Returning Talent in Arrakis",
+        "p": [
+          "Denis Villeneuve returns to direct the continuation of the epic sci-fi saga, bringing back a star-studded principal cast. The film features performances by Timothée Chalamet, Zendaya, Florence Pugh, Anya Taylor-Joy, Jason Momoa, and Robert Pattinson.",
+          "With such a recognizable ensemble and the established popularity of the franchise's cinematic universe, the feature is expected to be a dominant force on the theatrical circuit throughout the holiday season."
+        ]
+      },
+      {
+        "h": "A Historic Weekend for Hollywood",
+        "p": [
+          "The simultaneous arrival of two distinct tentpole films marks a monumental moment for the Hollywood exhibition calendar. Because the titles cater to divergent audience demographics, the dual release format could maximize total box office potential rather than cannibalizing ticket sales.",
+          "As the mid-December release date approaches, stakeholders across the industry will continue to analyze tracking figures to see if this holiday weekend cements itself as one of the most lucrative box office events in recent memory."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Avengers: Doomsday and Dune: Part Three are scheduled for a simultaneous theatrical release on December 18, generating major pre-release excitement dubbed 'Dunesday'. Early tracking suggests Avengers: Doomsday could achieve a record-breaking $270 million domestic opening, while Dune: Part Three targets an $80 million debut."
+        ]
+      }
+    ],
+    "facts": [
+      "Avengers: Doomsday is tracking for a $270 million domestic opening.",
+      "Dune: Part Three is expected to debut between $75 million and $80 million.",
+      "Both films release on December 18.",
+      "Spider-Man: No Way Home debuted with $260 million in 2021.",
+      "Spider-Man: Brand New Day opened at $360 million.",
+      "Avengers: Endgame opened to $357 million.",
+      "Anthony and Joe Russo are directing Avengers: Doomsday.",
+      "Michael Waldron and Stephen McFeely wrote Avengers: Doomsday.",
+      "Robert Downey Jr returns as Doctor Doom.",
+      "Denis Villeneuve directs Dune: Part Three.",
+      "Timothée Chalamet, Zendaya, Florence Pugh, Anya Taylor-Joy, Jason Momoa, and Robert Pattinson star in Dune: Part Three."
+    ],
+    "entities": {
+      "people": [
+        "Anthony Russo",
+        "Joe Russo",
+        "Michael Waldron",
+        "Stephen McFeely",
+        "Robert Downey Jr",
+        "Denis Villeneuve",
+        "Timothée Chalamet",
+        "Zendaya",
+        "Florence Pugh",
+        "Anya Taylor-Joy",
+        "Jason Momoa",
+        "Robert Pattinson"
+      ],
+      "titles": [
+        "Avengers: Doomsday",
+        "Dune: Part Three",
+        "Spider-Man: No Way Home",
+        "Spider-Man: Brand New Day",
+        "Avengers: Endgame"
+      ]
+    },
+    "keywords": [
+      "Avengers Doomsday",
+      "Dune Part Three",
+      "Dunesday box office clash",
+      "Robert Downey Jr Doctor Doom",
+      "Denis Villeneuve Dune 3"
+    ],
+    "images": [
+      {
+        "url": "https://images.timesnownews.com/thumb/msid-156569829,thumbsize-862876,width-1280,height-720,resizemode-75/156569829.jpg",
+        "caption": "Avengers: Doomsday and Dune: Part Three Head Toward Massive December Box Office Clash",
+        "source": "Times Now — Entertainment"
+      }
+    ],
+    "published": "2026-11-26T21:52:09Z"
+  },
+  "vagucd": {
+    "id": "vagucd",
+    "type": "news",
+    "headline": "Netflix Axes Will Ferrell Comedy \"The Hawk\" After Just One Season",
+    "dek": "The streaming service has chosen not to renew Will Ferrell's comedy series after a single season plagued by low viewership and negative reviews.",
+    "body": [
+      {
+        "h": "The Cancellation of \"The Hawk\"",
+        "p": [
+          "Netflix has decided to cancel the comedy series \"The Hawk\" after only a single season. The project, which starred, co-created, and executive produced by Will Ferrell, failed to secure a renewal for a second chapter following its initial run.",
+          "The decision to pull the plug on the series comes after it struggled to maintain momentum on the streaming platform, spending a brief three weeks on the Global Top 10 for English series following its premiere on July 16."
+        ]
+      },
+      {
+        "h": "Critical Reception and Viewership Struggles",
+        "p": [
+          "Aside from its short-lived presence on the platform's popularity charts, the show faced a tough reception from professional critics. It managed to accumulate only a 33% approval rating on Rotten Tomatoes.",
+          "The combination of waning audience engagement and poor critical scores contributed significantly to the platform's swift choice to discontinue the comedy after just one outing."
+        ]
+      },
+      {
+        "h": "Premise and Supporting Cast",
+        "p": [
+          "In the series, Ferrell portrayed Lonnie Hawkins, a washed-up former top-ranked golfer facing retirement who attempts one final major victory to complete the golf Grand Slam. The narrative followed his career struggles and personal dynamics.",
+          "The supporting ensemble featured several notable names, including Luke Wilson, Jimmy Tatro as Lonnie's golf-prodigy son Lance, and fellow Saturday Night Live alumni Molly Shannon as ex-wife Stacy, alongside Chris Parnell."
+        ]
+      },
+      {
+        "h": "Financial Factors and Star Power",
+        "p": [
+          "Despite Will Ferrell's extensive star power and his hefty seven-figure salary per episode, the high cost coupled with low long-term viewership likely influenced the swift cancellation.",
+          "This project marked Ferrell's first return as a small-screen regular since his tenure on Saturday Night Live, though he has previously found massive film success with comedies like Anchorman, Elf, and Step Brothers, alongside Emmy wins for executive producing Succession."
+        ]
+      },
+      {
+        "h": "Hints From the Creators",
+        "p": [
+          "While Will Ferrell has not formally confirmed the show's demise himself, the cancellation was heavily signaled earlier by co-creator and executive producer Harper Steele during a late-night television appearance.",
+          "During an interview on Late Night With Seth Meyers, Steele referred to the endeavor as a short-lived project, calling it the best show ever, which effectively tipped off viewers about its fate."
+        ]
+      },
+      {
+        "h": "Future Collaborations With Netflix",
+        "p": [
+          "Even though \"The Hawk\" did not survive past its first season, Will Ferrell's association with Netflix remains strong. His production banner, Gloria Sanchez Productions, continues to maintain a partnership with the streaming giant.",
+          "Several upcoming projects are still in the pipeline through this collaboration, including the titles \"All the Rage\" and \"Prep,\" as well as an anticipated scripted series for Nikki Glaser."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Netflix has cancelled Will Ferrell's comedy series \"The Hawk\" after a single season due to poor reviews and declining viewership numbers following its July premiere. Despite a high-profile cast and a hefty salary for its star, the show failed to sustain long-term interest on the platform's charts, though Ferrell will continue partnering with Netflix on future ventures."
+        ]
+      }
+    ],
+    "facts": [
+      "Netflix canceled \"The Hawk\" after one season.",
+      "Will Ferrell starred, co-created, and executive produced the series.",
+      "The show premiered on July 16.",
+      "It spent three weeks on the Global Top 10 for English series.",
+      "The series holds a 33% Rotten Tomatoes rating.",
+      "Will Ferrell played Lonnie Hawkins.",
+      "Jimmy Tatro played Lance Hawkins.",
+      "Molly Shannon played Stacy.",
+      "Other cast members included Luke Wilson and Chris Parnell.",
+      "Harper Steele co-created and executive produced the series.",
+      "Gloria Sanchez Productions is partnering with Netflix on upcoming projects including \"All the Rage\", \"Prep\", and a Nikki Glaser scripted series."
+    ],
+    "entities": {
+      "people": [
+        "Will Ferrell",
+        "Luke Wilson",
+        "Jimmy Tatro",
+        "Molly Shannon",
+        "Chris Parnell",
+        "Harper Steele",
+        "Seth Meyers",
+        "Nikki Glaser"
+      ],
+      "titles": [
+        "The Hawk",
+        "Saturday Night Live",
+        "Anchorman",
+        "Talladega Nights: The Ballad of Ricky Bobby",
+        "Elf",
+        "Step Brothers",
+        "Succession",
+        "Late Night With Seth Meyers",
+        "All the Rage",
+        "Prep"
+      ]
+    },
+    "keywords": [
+      "The Hawk Netflix",
+      "Will Ferrell The Hawk",
+      "The Hawk canceled",
+      "Will Ferrell Netflix comedy"
+    ],
+    "images": [
+      {
+        "url": "https://pagesix.com/wp-content/uploads/sites/3/2026/11/150135773.jpg?quality=75&amp;strip=all&amp;w=1024",
+        "caption": "Netflix Axes Will Ferrell Comedy \"The Hawk\" After Just One Season",
+        "source": "Page Six"
+      }
+    ],
+    "published": "Thu, 26 Nov 2026 16:35:12 -0500"
   }
 };
