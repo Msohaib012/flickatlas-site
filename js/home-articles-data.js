@@ -41,6 +41,48 @@ window.FA_HOME_ARTICLES = {
     ],
     "published": "Thu, 26 Nov 2026 12:38:36 +0200"
   },
+  "1bvt3xc": {
+    "id": "1bvt3xc",
+    "type": "news",
+    "headline": "Government Directs Netflix to Block Release of Pakistani Web Series Jo Bachay Hain Sang Samait Lo in India",
+    "dek": "The Information and Broadcasting ministry has asked Netflix to block the streaming of the Pakistani show Jo Bachay Hain Sang Samait Lo in India following complaints and appeals from cine worker bodies.",
+    "entities": {
+      "people": [
+        "Narendra Modi",
+        "Ashwini Vaishnaw",
+        "Suresh Shyamlal Gupta",
+        "B N Tiwari",
+        "Ahsan Iqbal",
+        "Momina Duraid",
+        "Farhat Ishtiaq",
+        "Fawad Khan",
+        "Mahira Khan",
+        "Sanam Saeed",
+        "Ahad Raza Mir",
+        "Iqra Aziz",
+        "Hania Aamir",
+        "Hamza Ali Abbasi"
+      ],
+      "titles": [
+        "Jo Bachay Hain Sang Samait Lo",
+        "All the Love Our Hearts Carry"
+      ]
+    },
+    "keywords": [
+      "Jo Bachay Hain Sang Samait Lo",
+      "Netflix India Pakistani web series",
+      "AICWA Netflix letter",
+      "Momina Duraid Jo Bachay Hain Sang Samait Lo"
+    ],
+    "images": [
+      {
+        "url": "https://images.filmibeat.com/img/2026/11/feature-2026-11-26t135954-489-92981795681802.jpg",
+        "caption": "Government Directs Netflix to Block Release of Pakistani Web Series Jo Bachay Hain Sang Samait Lo in India",
+        "source": "FilmiBeat"
+      }
+    ],
+    "published": "Thu, 26 Nov 2026 14:00:24 +0530"
+  },
   "1tg8gbj": {
     "id": "1tg8gbj",
     "type": "news",
@@ -70,6 +112,39 @@ window.FA_HOME_ARTICLES = {
       }
     ],
     "published": "Thu, 26 Nov 2026 10:21:03 +0200"
+  },
+  "1ym5tgb": {
+    "id": "1ym5tgb",
+    "type": "news",
+    "headline": "Vrushakarma Trailer Review: Naga Chaitanya Confronts Ancient Forces in Horror Thriller",
+    "dek": "The newly dropped trailer for Vrushakarma introduces a chilling supernatural world blending Vedic science, mythology, and ancient mysteries ahead of its theatrical release.",
+    "entities": {
+      "people": [
+        "Naga Chaitanya",
+        "Sparsh Srivastava",
+        "Karthik Dandu",
+        "Meenakshi Chaudhary",
+        "Jayaram"
+      ],
+      "titles": [
+        "Vrushakarma",
+        "Minnal Murali"
+      ]
+    },
+    "keywords": [
+      "Vrushakarma trailer review",
+      "Naga Chaitanya Vrushakarma",
+      "Sparsh Srivastava Telugu debut",
+      "Karthik Dandu Vrushakarma"
+    ],
+    "images": [
+      {
+        "url": "https://www.koimoi.com/wp-content/new-galleries/2026/11/vrushakarma-trailer-review-naga-chaitanya-battles-ancient-forces-in-this-promising-horror-thriller-but-sparsh-srivastava-steals-the-show.jpg",
+        "caption": "Vrushakarma Trailer Review: Naga Chaitanya Confronts Ancient Forces in Horror Thriller",
+        "source": "Koimoi"
+      }
+    ],
+    "published": "Thu, 26 Nov 2026 08:11:57 +0000"
   },
   "tfgpt0": {
     "id": "tfgpt0",
@@ -103,6 +178,50 @@ window.FA_HOME_ARTICLES = {
       }
     ],
     "published": "Thu, 26 Nov 2026 08:00:43 GMT"
+  },
+  "16qjq7m": {
+    "id": "16qjq7m",
+    "type": "news",
+    "headline": "Drishyam 3: The Conclusion Sets OTT Release Date on Netflix Following Legal Hurdles and Box Office Success",
+    "dek": "Ajay Devgn's blockbuster crime thriller Drishyam 3 arrives on Netflix just as its court-ordered digital restriction period concludes.",
+    "entities": {
+      "people": [
+        "Ajay Devgn",
+        "Christa Lincy",
+        "Sunit Jangir",
+        "Abhishek Pathak",
+        "Tabu",
+        "Shriya Saran",
+        "Ishita Dutta",
+        "Mrunal Jadhav",
+        "Rajat Kapoor",
+        "Jaideep Ahlawat",
+        "Prakash Raj",
+        "Mohanlal"
+      ],
+      "titles": [
+        "Drishyam 3",
+        "Drishyam 3: The Conclusion",
+        "Jana Nayagan",
+        "Tiger Zinda Hai",
+        "Singham Again",
+        "Drishyam"
+      ]
+    },
+    "keywords": [
+      "Drishyam 3 OTT release date",
+      "Ajay Devgn Drishyam 3 Netflix",
+      "Drishyam 3 box office collection",
+      "Drishyam 3 Madras High Court"
+    ],
+    "images": [
+      {
+        "url": "https://cdn.sacnilk.com/image/news300/1000028736.jpg",
+        "caption": "Drishyam 3: The Conclusion Sets OTT Release Date on Netflix Following Legal Hurdles and Box Office Success",
+        "source": "Sacnilk"
+      }
+    ],
+    "published": "Thu, 26 Nov 2026 08:00:12 +0000"
   },
   "52syqt": {
     "id": "52syqt",
@@ -239,6 +358,39 @@ window.FA_HOME_ARTICLES = {
       }
     ],
     "published": "Thu, 26 Nov 2026 13:18:06 +0530"
+  },
+  "199wahg": {
+    "id": "199wahg",
+    "type": "news",
+    "headline": "Shuri and Sugino Yosuke to Headline Fuji TV Monday Nine Drama Last Siren",
+    "dek": "The acclaimed actors will co-lead the upcoming Fuji TV series Last Siren, establishing a shared television universe with 119 Emergency Call Season 2.",
+    "entities": {
+      "people": [
+        "Shuri",
+        "Sugino Yosuke",
+        "Hashimoto Natsu"
+      ],
+      "titles": [
+        "Last Siren",
+        "Last Siren: Inochi wo Tsunagu Monotachi",
+        "119 Emergency Call",
+        "119 Emergency Call Season 2"
+      ]
+    },
+    "keywords": [
+      "Last Siren drama",
+      "Shuri Sugino Yosuke",
+      "Last Siren Fuji TV",
+      "119 Emergency Call Season 2"
+    ],
+    "images": [
+      {
+        "url": "https://i.mydramalist.com/JjjWZw_2d.jpg",
+        "caption": "Shuri and Sugino Yosuke to Headline Fuji TV Monday Nine Drama Last Siren",
+        "source": "MyDramaList"
+      }
+    ],
+    "published": "Thu, 26 Nov 2026 07:19:08 +0000"
   },
   "1e5kp9e": {
     "id": "1e5kp9e",
@@ -4593,204 +4745,6 @@ window.FA_HOME_ARTICLES = {
       }
     ],
     "published": "2026-11-25T01:52:19Z"
-  },
-  "nqifzr": {
-    "id": "nqifzr",
-    "type": "news",
-    "headline": "BTS Members V and Jungkook Show Love for Indian Cinema and RRR",
-    "dek": "BTS singers Taehyung and Jungkook recreate the Naatu Naatu dance during ARIRANG concerts, prompting a public shoutout from the official RRR team after V shares his admiration for Indian films.",
-    "entities": {
-      "people": [
-        "V",
-        "Kim Taehyung",
-        "Jungkook",
-        "SS Rajamouli",
-        "Ram Charan",
-        "Jr NTR",
-        "Alia Bhatt",
-        "Ajay Devgn",
-        "Shriya Saran",
-        "MM Keeravani",
-        "Prem Rakshith",
-        "Mimansa Shekhar"
-      ],
-      "titles": [
-        "RRR",
-        "Naatu Naatu",
-        "3 Idiots",
-        "Dangal"
-      ]
-    },
-    "keywords": [
-      "BTS Taehyung RRR Naatu Naatu",
-      "Jungkook Naatu Naatu ARIRANG concert",
-      "Kim Taehyung Weverse live Indian movies",
-      "RRR official Twitter reaction BTS"
-    ],
-    "images": [
-      {
-        "url": "https://images.timesnownews.com/thumb/msid-156558804,thumbsize-684601,width-1280,height-720,resizemode-75/156558804.jpg",
-        "caption": "BTS Members V and Jungkook Show Love for Indian Cinema and RRR",
-        "source": "Times Now — Entertainment"
-      }
-    ],
-    "published": "2026-11-25T01:52:19Z"
-  },
-  "ighamr": {
-    "id": "ighamr",
-    "type": "news",
-    "headline": "Thanksgiving Box Office Preview: Hunger Games Prequel Leads the Holiday Race",
-    "dek": "Lionsgate's latest franchise entry dominates holiday projections alongside new wide releases from Disney and Universal.",
-    "entities": {
-      "people": [
-        "Anthony D'Alessandro",
-        "Francis Lawrence",
-        "Brad Pitt",
-        "Quentin Tarantino",
-        "David Fincher",
-        "Ariana Grande",
-        "Ben Stiller",
-        "Robert De Niro",
-        "Skyler Gisondo",
-        "Rashida Jones",
-        "Hailee Steinfeld",
-        "Jason Hand",
-        "Fawn Veerasunthorn",
-        "Dua Lipa",
-        "Finn Wittrock",
-        "Alexandra Daddario",
-        "James Gray",
-        "Adam Driver",
-        "Scarlett Johansson",
-        "Miles Teller"
-      ],
-      "titles": [
-        "Hunger Games: Sunrise on the Reaping",
-        "Catching Fire",
-        "Wicked: For Good",
-        "The Hunger Games: Ballad of Songbirds Snakes",
-        "Once Upon a Time in Hollywood",
-        "The Mis-Adventures of Cliff Booth",
-        "Wake Up Dead Man: A Knives Out Mystery",
-        "Hexed",
-        "Focker-in-Law",
-        "Meet the Parents",
-        "Little Fockers",
-        "Lost City",
-        "Encanto",
-        "Moana 2",
-        "Zootopia 2",
-        "Hoppers",
-        "Elemental",
-        "Wish",
-        "Hershey",
-        "Paper Tiger"
-      ]
-    },
-    "keywords": [
-      "Hunger Games Sunrise on the Reaping",
-      "Focker-in-Law release",
-      "Hexed Disney animation",
-      "Thanksgiving box office"
-    ],
-    "images": [
-      {
-        "url": "https://deadline.com/wp-content/uploads/2026/11/Sunrise-Hexed-Focker.jpg?w=1000",
-        "caption": "Thanksgiving Box Office Preview: Hunger Games Prequel Leads the Holiday Race",
-        "source": "Deadline"
-      }
-    ],
-    "published": "Wed, 25 Nov 2026 01:41:33 +0000"
-  },
-  "16ocpor": {
-    "id": "16ocpor",
-    "type": "news",
-    "headline": "Avengers: Doomsday Final Trailer Breaks Disney Records With Massive Viewership",
-    "dek": "The latest promotional preview for Marvel's upcoming blockbuster has shattered previous milestones, pulling in hundreds of millions of views within a single day.",
-    "entities": {
-      "people": [
-        "Kevin Fraser",
-        "Joe Russo",
-        "Chris Hemsworth",
-        "Vanessa Kirby",
-        "Sebastian Stan",
-        "Letitia Wright",
-        "Anthony Mackie",
-        "Paul Rudd",
-        "Wyatt Russell",
-        "Tenoch Huerta Mejía",
-        "Ebon Moss-Bachrach",
-        "Simu Liu",
-        "Florence Pugh",
-        "Kelsey Grammer",
-        "Lewis Pullman",
-        "Danny Ramirez",
-        "Joseph Quinn",
-        "David Harbour",
-        "Winston Duke",
-        "Hannah John-Kamen",
-        "Tom Hiddleston",
-        "Patrick Stewart",
-        "Ian McKellen",
-        "Alan Cumming",
-        "Rebecca Romijn",
-        "James Marsden",
-        "Channing Tatum",
-        "Pedro Pascal",
-        "Robert Downey Jr.",
-        "Kevin Feige"
-      ],
-      "titles": [
-        "Avengers: Doomsday",
-        "Avengers: Infinity War",
-        "Avengers: Endgame",
-        "Deadpool & Wolverine",
-        "Spider-Man: Brand New Day",
-        "Avengers: Secret Wars"
-      ]
-    },
-    "keywords": [
-      "Avengers Doomsday trailer",
-      "Avengers Doomsday views",
-      "Avengers Doomsday runtime",
-      "Joe Russo Avengers Doomsday",
-      "Avengers Doomsday release date"
-    ],
-    "images": [
-      {
-        "url": "https://www.joblo.com/wp-content/uploads/2026/11/avengers-doomsday-final-trailer-views.jpg",
-        "caption": "Avengers: Doomsday Final Trailer Breaks Disney Records With Massive Viewership",
-        "source": "JoBlo"
-      }
-    ],
-    "published": "Wed, 25 Nov 2026 01:18:17 +0000"
-  },
-  "crf9ff": {
-    "id": "crf9ff",
-    "type": "news",
-    "headline": "FIR Registered in Bengaluru Over IED Blast Threat Targeting Diljit Dosanjh Concert",
-    "dek": "Authorities have filed an FIR following an emailed threat warning of an IED explosion during Diljit Dosanjh's upcoming musical event in Bengaluru, alongside similar security alerts in Mumbai and Pune.",
-    "entities": {
-      "people": [
-        "Diljit Dosanjh",
-        "Tanmayi Savadi"
-      ],
-      "titles": []
-    },
-    "keywords": [
-      "Diljit Dosanjh Bengaluru Concert",
-      "Diljit Dosanjh FIR threat",
-      "Diljit Dosanjh Mumbai concert",
-      "Bengaluru concert IED threat"
-    ],
-    "images": [
-      {
-        "url": "https://images.timesnownews.com/thumb/msid-156560531,thumbsize-247933,width-1280,height-720,resizemode-75/156560531.jpg",
-        "caption": "FIR Registered in Bengaluru Over IED Blast Threat Targeting Diljit Dosanjh Concert",
-        "source": "Times Now — Entertainment"
-      }
-    ],
-    "published": "2026-11-25T01:00:06Z"
   },
   "1ypg7z1": {
     "id": "1ypg7z1",

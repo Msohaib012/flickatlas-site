@@ -253819,5 +253819,372 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Thu, 26 Nov 2026 08:00:43 GMT"
+  },
+  "1bvt3xc": {
+    "id": "1bvt3xc",
+    "type": "news",
+    "headline": "Government Directs Netflix to Block Release of Pakistani Web Series Jo Bachay Hain Sang Samait Lo in India",
+    "dek": "The Information and Broadcasting ministry has asked Netflix to block the streaming of the Pakistani show Jo Bachay Hain Sang Samait Lo in India following complaints and appeals from cine worker bodies.",
+    "body": [
+      {
+        "h": "Government Intervention",
+        "p": [
+          "The Information and Broadcasting ministry has stepped in regarding the potential Indian release of Netflix's upcoming Pakistani production Jo Bachay Hain Sang Samait Lo. Following numerous complaints concerning the show's availability in the country, official sources revealed that the ministry has instructed Netflix to prevent any content originating from Pakistan from being streamed on its platform locally."
+        ]
+      },
+      {
+        "h": "Advisory and Commitments",
+        "p": [
+          "Authorities have reminded the streaming giant to comply with an advisory issued on May 8, 2025, which restricts Pakistani-origin content on OTT services. Furthermore, the ministry referenced a prior commitment made by Netflix in June, during which the platform informed the government that it had not made any films or series originating in Pakistan available to subscribers within India."
+        ]
+      },
+      {
+        "h": "Industry Association Opposition",
+        "p": [
+          "Major industry groups, including the All Indian Cine Workers Association and the Federation of Western India Cine Employees, escalated the matter by writing directly to Prime Minister Narendra Modi. These bodies argued that releasing the series in the country would violate existing advisories implemented in the wake of the Pahalgam terror attack, urging the government to intervene and block the launch."
+        ]
+      },
+      {
+        "h": "Calls for a Complete Ban",
+        "p": [
+          "In communications marked to Information and Broadcasting Minister Ashwini Vaishnaw and Netflix India, the AICWA emphasized national sentiments and reiterated previous bans on Pakistani artists following past attacks. Meanwhile, the FWICE warned that it would take measures to halt the shoots of all Netflix projects in India if the controversial series proceeds with a domestic release."
+        ]
+      },
+      {
+        "h": "International Pushback",
+        "p": [
+          "The controversy drew a response from across the border, where Pakistan's Planning and Development Minister Ahsan Iqbal criticized the opposition on social media. Using the hashtag GrowUpIndia, Iqbal accused critics of weaponising art and culture, questioning why a television drama should be treated as a matter of national security."
+        ]
+      },
+      {
+        "h": "Cast and Production Background",
+        "p": [
+          "Created, directed, and produced by Momina Duraid, Jo Bachay Hain Sang Samait Lo adapts Farhat Ishtiaq's 2013 bestselling Urdu novel, known internationally as All the Love Our Hearts Carry. The series features a prominent ensemble cast including Fawad Khan, Mahira Khan, Sanam Saeed, Ahad Raza Mir, Iqra Aziz, Hania Aamir, and Hamza Ali Abbasi."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "The Information and Broadcasting ministry has instructed Netflix to ensure that the Pakistani web series Jo Bachay Hain Sang Samait Lo is not streamed in India, following objections from cine worker associations. The controversy highlights ongoing tensions and government advisories regarding cross-border entertainment content."
+        ]
+      }
+    ],
+    "facts": [
+      "The Information and Broadcasting ministry received complaints regarding the possible India release of Jo Bachay Hain Sang Samait Lo.",
+      "The ministry asked Netflix to adhere to its advisory dated May 8, 2025.",
+      "The trailer dropped on Tuesday.",
+      "The show is scheduled for a December 4 release.",
+      "The All Indian Cine Workers Association and the Federation of Western India Cine Employees wrote to Prime Minister Narendra Modi.",
+      "The FWICE is an umbrella body of 32 associations with five lakh members.",
+      "Momina Duraid created, directed, and produced the series.",
+      "The show adapts Farhat Ishtiaq's 2013 Urdu novel of the same name."
+    ],
+    "entities": {
+      "people": [
+        "Narendra Modi",
+        "Ashwini Vaishnaw",
+        "Suresh Shyamlal Gupta",
+        "B N Tiwari",
+        "Ahsan Iqbal",
+        "Momina Duraid",
+        "Farhat Ishtiaq",
+        "Fawad Khan",
+        "Mahira Khan",
+        "Sanam Saeed",
+        "Ahad Raza Mir",
+        "Iqra Aziz",
+        "Hania Aamir",
+        "Hamza Ali Abbasi"
+      ],
+      "titles": [
+        "Jo Bachay Hain Sang Samait Lo",
+        "All the Love Our Hearts Carry"
+      ]
+    },
+    "keywords": [
+      "Jo Bachay Hain Sang Samait Lo",
+      "Netflix India Pakistani web series",
+      "AICWA Netflix letter",
+      "Momina Duraid Jo Bachay Hain Sang Samait Lo"
+    ],
+    "images": [
+      {
+        "url": "https://images.filmibeat.com/img/2026/11/feature-2026-11-26t135954-489-92981795681802.jpg",
+        "caption": "Government Directs Netflix to Block Release of Pakistani Web Series Jo Bachay Hain Sang Samait Lo in India",
+        "source": "FilmiBeat"
+      }
+    ],
+    "published": "Thu, 26 Nov 2026 14:00:24 +0530"
+  },
+  "1ym5tgb": {
+    "id": "1ym5tgb",
+    "type": "news",
+    "headline": "Vrushakarma Trailer Review: Naga Chaitanya Confronts Ancient Forces in Horror Thriller",
+    "dek": "The newly dropped trailer for Vrushakarma introduces a chilling supernatural world blending Vedic science, mythology, and ancient mysteries ahead of its theatrical release.",
+    "body": [
+      {
+        "h": "Introduction and Release Context",
+        "p": [
+          "The theatrical release of Vrushakarma is only a week away, generating significant excitement among fans and critics alike. To build anticipation, the filmmakers have unveiled a captivating trailer that highlights the movie's unique blend of horror and supernatural thrills.",
+          "Directed by Karthik Dandu, the project ventures into territory that combines ancient mysteries with contemporary cinematic dread. As the countdown to the big-screen premiere continues, the promotional footage offers a clear glimpse into the eerie universe awaiting audiences."
+        ]
+      },
+      {
+        "h": "Plot and Ancient Forces",
+        "p": [
+          "The narrative kicks off by exposing terrifying supernatural forces that are relentlessly pursuing a young girl. These mysterious entities are deeply rooted in history, tracing back five thousand years to secrets hidden within a cave and ancient sculptures unearthed during an excavation.",
+          "To unravel these occult puzzles, archaeologists enlist the help of a specialized treasure hunter. This protagonist bravely navigates severe dangers while bridging the gap between empirical science and unfathomable supernatural phenomena."
+        ]
+      },
+      {
+        "h": "Vedic Science and the Protagonist's Role",
+        "p": [
+          "As the storyline progresses, it incorporates deep elements of Vedic knowledge and cosmic forces that far exceed ordinary human understanding. The protagonist undergoes a dramatic transformation toward the end of the preview.",
+          "He evolves into the divine entity Vrushakarma, stepping up to take on the solemn responsibility of defending the Dharma of creation. This mythological escalation elevates the stakes far beyond a standard scarefest."
+        ]
+      },
+      {
+        "h": "Character Dynamics and Antagonist",
+        "p": [
+          "Sparsh Srivastava steps into the project to make his Telugu film debut, taking on the formidable role of the main antagonist. Although the preview only offers brief glances at his performance, his portrayal of a menacing supernatural entity immediately captures viewer attention.",
+          "Naga Chaitanya leads the cast with a rugged, tough appearance, balancing the grim atmosphere with confidence and charm. Meenakshi Chaudhary is cast as the female lead, though her specific character details remain largely under wraps, while Jayaram portrays Professor Ranganatha."
+        ]
+      },
+      {
+        "h": "Visuals and Atmosphere",
+        "p": [
+          "Aesthetically, the production relies heavily on a dark, somber, and deeply chilling mood to hook viewers instantly. The polished visual effects seamlessly integrate into the universe, enhancing the overall eerie experience.",
+          "By fusing mythology, science, and the macabre, the creative team establishes a rich foundation for the plot. The striking visual presentation plays a crucial role in establishing the picture's distinct identity."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "The trailer for Vrushakarma showcases a supernatural horror thriller directed by Karthik Dandu and starring Naga Chaitanya alongside debutant antagonist Sparsh Srivastava. The preview highlights a blend of 5,000-year-old mysteries, Vedic science, and striking visual effects ahead of the film's theatrical release."
+        ]
+      }
+    ],
+    "facts": [
+      "Vrushakarma is directed by Karthik Dandu.",
+      "Naga Chaitanya plays a treasure hunter who transforms into Vrushakarma.",
+      "Sparsh Srivastava makes his Telugu film debut as the antagonist.",
+      "Meenakshi Chaudhary plays the female lead.",
+      "Jayaram plays Professor Ranganatha."
+    ],
+    "entities": {
+      "people": [
+        "Naga Chaitanya",
+        "Sparsh Srivastava",
+        "Karthik Dandu",
+        "Meenakshi Chaudhary",
+        "Jayaram"
+      ],
+      "titles": [
+        "Vrushakarma",
+        "Minnal Murali"
+      ]
+    },
+    "keywords": [
+      "Vrushakarma trailer review",
+      "Naga Chaitanya Vrushakarma",
+      "Sparsh Srivastava Telugu debut",
+      "Karthik Dandu Vrushakarma"
+    ],
+    "images": [
+      {
+        "url": "https://www.koimoi.com/wp-content/new-galleries/2026/11/vrushakarma-trailer-review-naga-chaitanya-battles-ancient-forces-in-this-promising-horror-thriller-but-sparsh-srivastava-steals-the-show.jpg",
+        "caption": "Vrushakarma Trailer Review: Naga Chaitanya Confronts Ancient Forces in Horror Thriller",
+        "source": "Koimoi"
+      }
+    ],
+    "published": "Thu, 26 Nov 2026 08:11:57 +0000"
+  },
+  "199wahg": {
+    "id": "199wahg",
+    "type": "news",
+    "headline": "Shuri and Sugino Yosuke to Headline Fuji TV Monday Nine Drama Last Siren",
+    "dek": "The acclaimed actors will co-lead the upcoming Fuji TV series Last Siren, establishing a shared television universe with 119 Emergency Call Season 2.",
+    "body": [
+      {
+        "h": "The New Fuji TV Monday Nine Drama",
+        "p": [
+          "Fuji TV has officially announced its next major Monday 9 p.m. drama project titled Last Siren: Inochi wo Tsunagu Monotachi. The series turns its focus toward the high-stakes world of emergency medical and rescue teams, highlighting the front-line workers who fight tirelessly to save lives.",
+          "This upcoming television production represents a milestone for both of its lead performers. It is the first time either actor has secured a leading role in the network's prestigious Monday evening time slot, and it marks their very first on-screen collaboration."
+        ]
+      },
+      {
+        "h": "A Groundbreaking Shared Universe",
+        "p": [
+          "In a first-of-its-kind creative choice for Fuji TV, Last Siren will share a narrative universe with 119 Emergency Call Season 2. That companion series is scheduled to take over the same Monday evening time slot in April 2027.",
+          "The two television projects will span across two consecutive seasons. Characters featured in Last Siren will remain connected to the overarching world established in 119 Emergency Call, with writer Hashimoto Natsu returning to help shape the continuity."
+        ]
+      },
+      {
+        "h": "Meet the Characters: Matsumoto Chise",
+        "p": [
+          "Actor Shuri takes on the role of Matsumoto Chise, an emergency medical technician stationed at the Yokohama City Fire Bureau Central Fire Station. Coming from a medical family background, Chise completed medical school but ultimately chose not to take the national medical exam following a specific past incident.",
+          "Possessing extensive medical knowledge that surpasses her peers, Chise frequently grapples with the strict operational limits imposed on paramedics. The project marks Shuri's first lead role in a Fuji TV drama series during the actor's fifteenth year since debut."
+        ]
+      },
+      {
+        "h": "Meet the Characters: Kawashima Kaoru",
+        "p": [
+          "Sugino Yosuke steps into the role of Kawashima Kaoru, a dedicated member of the Central Rescue Team. Having been rescued by professionals as a young child, Kaoru possesses a strong internal drive to save people even faster.",
+          "Kaoru currently aims to join the elite Super Ranger special rescue unit, though an undisclosed obstacle continues to hold him back from achieving his goal. The role requires the actor to portray a firefighter for the very first time in his career."
+        ]
+      },
+      {
+        "h": "Cast Reflections and Expectations",
+        "p": [
+          "Expressing enthusiasm for the project, Shuri noted the unique appeal of a Monday evening drama centering specifically on paramedics. The actor also shared excitement about finally working alongside co-star Sugino Yosuke.",
+          "Sugino Yosuke echoed those sentiments, noting his eagerness to collaborate with Shuri. He acknowledged that preparing to play a firefighter presents brand new challenges that he looks forward to tackling."
+        ]
+      },
+      {
+        "h": "Broadcast Schedule and Premiere",
+        "p": [
+          "Audiences won't have to wait much longer to see the rescue teams in action. Last Siren is officially scheduled to premiere in January 2027.",
+          "The program will air weekly on Fuji TV every Monday at 9 p.m. Japanese Standard Time."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Shuri and Sugino Yosuke will co-lead Fuji TV's upcoming Monday 9 p.m. drama Last Siren, which focuses on emergency medical and rescue personnel. The series is set in a shared universe with 119 Emergency Call Season 2 and is scheduled to premiere in January 2027."
+        ]
+      }
+    ],
+    "facts": [
+      "Fuji TV announced Last Siren: Inochi wo Tsunagu Monotachi on November 26, 2026.",
+      "Last Siren premieres in January 2027 and airs every Monday at 9 p.m. JST.",
+      "119 Emergency Call Season 2 takes over the Monday 9 p.m. slot in April 2027.",
+      "Shuri plays Matsumoto Chise, an emergency medical technician with the Yokohama City Fire Bureau Central Fire Station.",
+      "Sugino Yosuke plays Kawashima Kaoru, a member of the Central Rescue Team.",
+      "Hashimoto Natsu is among the writers for the shared universe project."
+    ],
+    "entities": {
+      "people": [
+        "Shuri",
+        "Sugino Yosuke",
+        "Hashimoto Natsu"
+      ],
+      "titles": [
+        "Last Siren",
+        "Last Siren: Inochi wo Tsunagu Monotachi",
+        "119 Emergency Call",
+        "119 Emergency Call Season 2"
+      ]
+    },
+    "keywords": [
+      "Last Siren drama",
+      "Shuri Sugino Yosuke",
+      "Last Siren Fuji TV",
+      "119 Emergency Call Season 2"
+    ],
+    "images": [
+      {
+        "url": "https://i.mydramalist.com/JjjWZw_2d.jpg",
+        "caption": "Shuri and Sugino Yosuke to Headline Fuji TV Monday Nine Drama Last Siren",
+        "source": "MyDramaList"
+      }
+    ],
+    "published": "Thu, 26 Nov 2026 07:19:08 +0000"
+  },
+  "16qjq7m": {
+    "id": "16qjq7m",
+    "type": "news",
+    "headline": "Drishyam 3: The Conclusion Sets OTT Release Date on Netflix Following Legal Hurdles and Box Office Success",
+    "dek": "Ajay Devgn's blockbuster crime thriller Drishyam 3 arrives on Netflix just as its court-ordered digital restriction period concludes.",
+    "body": [
+      {
+        "h": "Digital Premiere Details",
+        "p": [
+          "Streaming giant Netflix has officially scheduled the digital debut of Drishyam 3: The Conclusion for November 27, 2026. The announcement was accompanied by a promotional video highlighting the iconic Salgaonkar family and hinting at final unresolved secrets.",
+          "The timing of the OTT launch follows the expiration of a court-recorded restriction period. It arrives nearly two months after the movie originally opened in cinemas on October 2, adhering closely to the standard eight-week theatrical window observed in Bollywood."
+        ]
+      },
+      {
+        "h": "Legal Context and Copyright Dispute",
+        "p": [
+          "The digital rollout coincides with an ongoing legal challenge concerning the remake rights of the franchise. Rajkumar Theatres had approached the Madras High Court, claiming a fifty percent share in the copyright for adapting the Malayalam narrative into Hindi and requesting limitations on both theatrical screenings and digital distribution.",
+          "During proceedings on November 13, the court chose not to grant an interim injunction but recorded an undertaking from the defendants withholding any digital launch until November 26. With that restriction lifting, the Netflix premiere immediately follows, though further court hearings remain scheduled for December 15."
+        ]
+      },
+      {
+        "h": "Box Office Records and Milestones",
+        "p": [
+          "The thriller enjoyed a stellar theatrical run that capitalized heavily on its Gandhi Jayanti release date. It quickly shattered multiple records to become Ajay Devgn's highest-grossing film to date as a lead actor.",
+          "Within ten days, the feature crossed the coveted three hundred crore rupee mark in India net collections, while scaling past five hundred crores in worldwide gross earnings in just twelve days. By the end of its run, it accumulated massive domestic and international numbers."
+        ]
+      },
+      {
+        "h": "Franchise Background and Narrative Direction",
+        "p": [
+          "When the initial adaptation debuted in 2015, the gripping tale of Vijay Salgaonkar safeguarding his family established a new benchmark for suspenseful cinema in Hindi without leaning on typical commercial tropes. Over a decade, the series cultivated an intensely dedicated following.",
+          "The final instalment notably steered the Hindi adaptation down a distinct narrative path compared to its Malayalam counterpart. This creative divergence ultimately won over audiences and propelled the project to unprecedented commercial heights."
+        ]
+      },
+      {
+        "h": "Cast and Crew Overview",
+        "p": [
+          "Under the direction of Abhishek Pathak, the third chapter brings back several key performers alongside fresh talent. Ajay Devgn reprises his role as Vijay Salgaonkar alongside returning actors Tabu, Shriya Saran, Ishita Dutta, Mrunal Jadhav, and Rajat Kapoor.",
+          "The ensemble is further strengthened by the additions of seasoned performers Jaideep Ahlawat and Prakash Raj, who join the franchise to enrich the complex investigative plotline."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Ajay Devgn's blockbuster thriller Drishyam 3: The Conclusion arrives on Netflix following a record-breaking theatrical run and the conclusion of a court-recorded digital restriction period. The film achieved major box office milestones, crossing ₹300 crore in India net and ₹500 crore worldwide while navigating an ongoing legal dispute regarding remake rights."
+        ]
+      }
+    ],
+    "facts": [
+      "Drishyam 3: The Conclusion releases on Netflix on November 27, 2026",
+      "The film was released in theatres on October 2, 2026",
+      "Rajkumar Theatres approached the Madras High Court claiming a 50% share in remake copyrights",
+      "The court recorded an undertaking not to release the film on OTT until November 26, 2026",
+      "The matter is posted for further proceedings on December 15, 2026",
+      "Drishyam 3 crossed ₹300 crore India net in 10 days and ₹500 crore worldwide gross in 12 days",
+      "Total India net for the film reached ₹381.21 crore with a worldwide gross of ₹589.54 crore",
+      "Opening day India net was ₹62.00 crore"
+    ],
+    "entities": {
+      "people": [
+        "Ajay Devgn",
+        "Christa Lincy",
+        "Sunit Jangir",
+        "Abhishek Pathak",
+        "Tabu",
+        "Shriya Saran",
+        "Ishita Dutta",
+        "Mrunal Jadhav",
+        "Rajat Kapoor",
+        "Jaideep Ahlawat",
+        "Prakash Raj",
+        "Mohanlal"
+      ],
+      "titles": [
+        "Drishyam 3",
+        "Drishyam 3: The Conclusion",
+        "Jana Nayagan",
+        "Tiger Zinda Hai",
+        "Singham Again",
+        "Drishyam"
+      ]
+    },
+    "keywords": [
+      "Drishyam 3 OTT release date",
+      "Ajay Devgn Drishyam 3 Netflix",
+      "Drishyam 3 box office collection",
+      "Drishyam 3 Madras High Court"
+    ],
+    "images": [
+      {
+        "url": "https://cdn.sacnilk.com/image/news300/1000028736.jpg",
+        "caption": "Drishyam 3: The Conclusion Sets OTT Release Date on Netflix Following Legal Hurdles and Box Office Success",
+        "source": "Sacnilk"
+      }
+    ],
+    "published": "Thu, 26 Nov 2026 08:00:12 +0000"
   }
 };
