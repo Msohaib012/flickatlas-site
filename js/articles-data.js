@@ -252282,5 +252282,399 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Thu, 26 Nov 2026 02:57:12 GMT"
+  },
+  "1tg8gbj": {
+    "id": "1tg8gbj",
+    "type": "news",
+    "headline": "Shah Rukh Khan Takes Legal Action Over Altered Social Media Video Involving Anant Ambani",
+    "dek": "The Bollywood superstar's legal team has issued a strict defamation notice to an online content creator over a misleading Instagram Reel concerning a gathering with Sadhguru.",
+    "body": [
+      {
+        "h": "Legal Action Initiated by the Superstar",
+        "p": [
+          "Bollywood icon Shah Rukh Khan has formally stepped up to protect his public reputation by taking strict legal measures against a social media content creator. The action comes in response to an Instagram Reel that allegedly propagated a distorted narrative about the actor during a high-profile public gathering.",
+          "The disputed post featured footage from an event involving spiritual leader Sadhguru and businessman Anant Ambani. Khan's representatives argue that the video was specifically edited to misrepresent the circumstances of the gathering and cast the prominent actor in an unfair light."
+        ]
+      },
+      {
+        "h": "Details of the Controversial Reel",
+        "p": [
+          "The controversy erupted after creator Suvigya Sharma uploaded a short clip showing an interaction between Anant Ambani and Sadhguru alongside a brief segment featuring Shah Rukh Khan. The accompanying caption claimed that the actor was instructed to remain silent during the exchange, sparking widespread discussion across various digital platforms.",
+          "Legal counsels representing the actor strongly condemned the publication, characterising the captions and claims as mischievous and entirely baseless. They stressed that circulating unverified assertions of this nature directly threatens to damage the established standing and public image of the celebrity."
+        ]
+      },
+      {
+        "h": "Strict Terms and Tight Deadlines",
+        "p": [
+          "Serving a formal notice dated November 23, Khan's legal representatives have imposed a rigid forty-eight-hour deadline for compliance. The communication outlines specific protocols that the digital creator must follow to rectify the situation immediately.",
+          "Among the primary directives, the creator is instructed to delete the disputed Instagram Reel entirely and halt any further sharing of the contentious claims. Additionally, all associated captions must be taken down or properly corrected across all platforms."
+        ]
+      },
+      {
+        "h": "Invocation of Legal Statutes",
+        "p": [
+          "The official notice explicitly cites Section 356 of the Bharatiya Nyaya Sanhita, 2023, which addresses matters concerning criminal defamation. By referencing this legislation, the legal team highlights the seriousness with which the unauthorized and misleading publication is being treated.",
+          "Furthermore, the directives demand that the publisher preserve all original source material, raw footage, and associated digital records connected to the upload. Written confirmation proving full compliance with these terms must be submitted before the expiration of the ultimatum."
+        ]
+      },
+      {
+        "h": "Response from the Content Creator",
+        "p": [
+          "Following the delivery of the legal warning, Suvigya Sharma published a follow-up video addressing the controversy. The creator defended his commentary, arguing that his expressions are safeguarded under the fundamental right to freedom of expression.",
+          "Questioning the motivations behind the strict legal reaction, the creator maintained his stance in the new video. The ongoing exchange has since drawn even greater online scrutiny, leaving observers waiting to see how the dispute will eventually unfold."
+        ]
+      },
+      {
+        "h": "Uncertainty Surrounding Future Proceedings",
+        "p": [
+          "At this current stage, no official outcome regarding any civil or criminal litigation has been established. The primary focus remains on whether the creator will adhere to the demands outlined in the warning within the designated timeframe.",
+          "Failure to comply with the stipulated conditions could potentially push the disagreement further into formal courtroom proceedings. Meanwhile, the incident continues to highlight the complex legal boundaries surrounding digital content creation and celebrity representation on social media."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Shah Rukh Khan's legal representatives have issued a defamation notice to social media creator Suvigya Sharma over a misleading Instagram Reel involving Anant Ambani and Sadhguru. The notice demands the immediate removal of the video and compliance with five specific directions within a 48-hour deadline."
+        ]
+      }
+    ],
+    "facts": [
+      "Shah Rukh Khan's legal representatives issued a defamation notice dated November 23.",
+      "The notice was sent to social media content creator Suvigya Sharma.",
+      "The controversy involves an Instagram Reel featuring Shah Rukh Khan, Anant Ambani, and Sadhguru.",
+      "The notice invokes Section 356 of the Bharatiya Nyaya Sanhita, 2023.",
+      "The content creator was given a 48-hour deadline to comply with five directions."
+    ],
+    "entities": {
+      "people": [
+        "Shah Rukh Khan",
+        "Suvigya Sharma",
+        "Anant Ambani",
+        "Sadhguru"
+      ],
+      "titles": []
+    },
+    "keywords": [
+      "Shah Rukh Khan defamation notice",
+      "Suvigya Sharma Instagram Reel",
+      "Anant Ambani viral video",
+      "Shah Rukh Khan legal action",
+      "Bharatiya Nyaya Sanhita Section 356"
+    ],
+    "images": [
+      {
+        "url": "https://stat4.bollywoodhungama.in/wp-content/uploads/2026/11/Shah-Rukh-Khan-sends-defamation-notice-to-content-creator-Suvigya-Sharma-news.jpeg",
+        "caption": "Shah Rukh Khan Takes Legal Action Over Altered Social Media Video Involving Anant Ambani",
+        "source": "Bollywood Hungama"
+      }
+    ],
+    "published": "Thu, 26 Nov 2026 10:21:03 +0200"
+  },
+  "qsjy01": {
+    "id": "qsjy01",
+    "type": "news",
+    "headline": "The Lord of the Rings: The Hunt for Gollum Wraps Filming for December 2027 Release",
+    "dek": "Andy Serkis completes principal photography on the upcoming Middle-earth return, which features both returning original cast members and notable new faces.",
+    "body": [
+      {
+        "h": "Production Wraps After Months in New Zealand",
+        "p": [
+          "Production on the highly anticipated return to J.R.R. Tolkien's fantasy universe has officially concluded. Warner Bros. announced that filming for The Lord of the Rings: The Hunt for Gollum has finished following a shoot that commenced in New Zealand in July.",
+          "The studio marked the completion of principal photography by releasing a humorous behind-the-scenes video. The clip featured director Andy Serkis alongside the production crew, highlighted by a playful sequence involving Gollum refusing to leave his trailer."
+        ]
+      },
+      {
+        "h": "Andy Serkis Takes the Director's Chair",
+        "p": [
+          "Andy Serkis returns not only to his iconic role as Gollum but also steps behind the camera to direct the feature. This project reunites him with the core creative team behind the original trilogies, including Peter Jackson, Fran Walsh, and Philippa Boyens.",
+          "While Jackson takes on a producer role for this venture, the collaboration brings back the principal architects of the cinematic Middle-earth. Serkis's portrayal of Gollum originally defined his legacy as a pioneer of performance-capture acting."
+        ]
+      },
+      {
+        "h": "Original Stars Return Alongside New Additions",
+        "p": [
+          "The upcoming film bridges generations by bringing back several beloved actors from the original cinematic run. Ian McKellen reprises his role as Gandalf the Grey, Elijah Wood returns as Frodo Baggins, and Lee Pace steps back into the shoes of Thranduil from The Hobbit trilogy.",
+          "At the same time, the cast introduces fresh talent to the franchise. Jamie Dornan takes on the role of Strider, famously played by Viggo Mortensen previously, while Kate Winslet joins as Marigol, Anya Taylor-Joy as Seren, and Leo Woodall as Halvard."
+        ]
+      },
+      {
+        "h": "Exploring the Middle-earth Timeline",
+        "p": [
+          "Rather than moving past the events of The Return of the King, the narrative steps backward to explore an untold gap. The story unfolds before and during the early phases of The Fellowship of the Ring, tracking Gandalf and Aragorn's hunt for Gollum.",
+          "The plot aims to keep vital information about the One Ring out of Sauron's reach. By focusing heavily on Gollum, the movie intends to examine his psychological struggles, his past as Sméagol, and his obsession with the ring."
+        ]
+      },
+      {
+        "h": "Building on a Six Billion Dollar Legacy",
+        "p": [
+          "The theatrical franchise carries immense commercial weight, having collectively accumulated nearly $6 billion at the worldwide box office across six live-action films. The Return of the King stands as the highest-grossing entry with over $1.13 billion globally and a historic 11 Academy Awards sweep.",
+          "Announced in May 2024, this project is the first of two new Middle-earth films spearheaded by Warner Bros. and New Line Cinema. Its performance will gauge the enduring box office appeal of the universe for modern audiences."
+        ]
+      },
+      {
+        "h": "Theatrical Debut Scheduled for Late 2027",
+        "p": [
+          "Following the completion of filming in New Zealand, the project transitions into a lengthy post-production phase. Warner Bros. has slated the finished feature for a worldwide theatrical release on December 17, 2027.",
+          "This release marks the grand return of Middle-earth to the big screen in a live-action format, ending a hiatus that began with the conclusion of The Hobbit trilogy."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Production has officially wrapped on The Lord of the Rings: The Hunt for Gollum under the direction of Andy Serkis, targeting a December 17, 2027 release. The film unites original stars like Ian McKellen and Elijah Wood with new cast members to explore a timeline preceding The Fellowship of the Ring from Gollum's perspective."
+        ]
+      }
+    ],
+    "facts": [
+      "Filming for The Lord of the Rings: The Hunt for Gollum was completed and announced by Warner Bros. on Wednesday, November 26, 2026.",
+      "Principal photography commenced in New Zealand in July.",
+      "The theatrical release is scheduled for December 17, 2027.",
+      "Andy Service directs the film and reprises his role as Gollum, working alongside producers Peter Jackson, Fran Walsh, and Philippa Boyens.",
+      "Returning cast members include Ian McKellen as Gandalf, Elijah Wood as Frodo Baggins, and Lee Pace as Thranduil.",
+      "New cast additions include Jamie Dornan as Strider, Kate Winslet as Marigol, Anya Taylor-Joy as Seren, and Leo Woodall as Halvard.",
+      "The previous six live-action Middle-earth films collectively generated nearly $6 billion at the worldwide box office.",
+      "The Return of the King grossed more than $1.13 billion globally and won all 11 Academy Awards for which it was nominated.",
+      "The project was originally announced in May 2024 as the first of two new Middle-earth films."
+    ],
+    "entities": {
+      "people": [
+        "Andy Serkis",
+        "Peter Jackson",
+        "Fran Walsh",
+        "Philippa Boyens",
+        "Ian McKellen",
+        "Elijah Wood",
+        "Lee Pace",
+        "Jamie Dornan",
+        "Viggo Mortensen",
+        "Kate Winslet",
+        "Anya Taylor-Joy",
+        "Leo Woodall",
+        "Sauron",
+        "Sméagol",
+        "J.R.R. Tolkien"
+      ],
+      "titles": [
+        "The Lord of the Rings: The Hunt for Gollum",
+        "The Lord of the Rings trilogy",
+        "The Hobbit trilogy",
+        "The Return of the King",
+        "The Fellowship of the Ring"
+      ]
+    },
+    "keywords": [
+      "The Lord of the Rings The Hunt for Gollum",
+      "Andy Serkis Gollum movie",
+      "Middle-earth live action film 2027",
+      "Warner Bros Lord of the Rings cast"
+    ],
+    "images": [
+      {
+        "url": "https://cdn.sacnilk.com/image/news300/1000028729.jpg",
+        "caption": "The Lord of the Rings: The Hunt for Gollum Wraps Filming for December 2027 Release",
+        "source": "Sacnilk"
+      }
+    ],
+    "published": "Thu, 26 Nov 2026 04:31:16 +0000"
+  },
+  "1ev7dqa": {
+    "id": "1ev7dqa",
+    "type": "news",
+    "headline": "Why There Is No New Episode of The Young and the Restless Tonight and Tomorrow",
+    "dek": "Fans tuning in to CBS will notice a brief pause in the broadcast of The Young and the Restless as the Thanksgiving holiday alters the usual weekly lineup.",
+    "body": [
+      {
+        "h": "The Schedule Change Explained",
+        "p": [
+          "Viewers looking forward to their daily drama will find that The Young and the Restless is missing from the television lineup tonight and tomorrow. The long-running soap opera has gone on a brief hiatus after airing for only three days during the week.",
+          "Such temporary schedule interruptions are quite standard for daytime television during major holiday periods. Because overall viewership tends to decline when audiences celebrate holidays, networks frequently adjust their regular programming blocks."
+        ]
+      },
+      {
+        "h": "Thanksgiving Holiday Pre-Emptions",
+        "p": [
+          "The primary reason for the absence of new installments on November 26 and November 27 is the Thanksgiving holiday schedule. CBS is opting to run sports coverage in place of the usual daytime drama time slot.",
+          "Devoted followers of the series do not need to be concerned about a permanent absence. Regular weekday broadcasts are scheduled to resume as normal starting next week."
+        ]
+      },
+      {
+        "h": "Core Premise and Rival Families",
+        "p": [
+          "The foundational premise of the series revolves around intense corporate and personal rivalries between two prominent clans, the Abbotts and the Newmans. These families constantly compete for dominance within the business sector.",
+          "Alongside their high-stakes corporate maneuvers, characters must constantly navigate complicated personal relationships, hidden secrets, and interwoven family loyalties that define the fictional town of Genoa City."
+        ]
+      },
+      {
+        "h": "Recent Plot Developments and Spoilers",
+        "p": [
+          "Before the temporary break, the show delivered plenty of dramatic moments for viewers to ponder. Ashley reached out to Victor to express deep concerns regarding Abby's ongoing health issues.",
+          "Meanwhile, Daniel found himself stuck in a challenging predicament brought on by the actions of Phyllis and Sharon. On a happier note, Roxanne and Devon marked their official reunion."
+        ]
+      },
+      {
+        "h": "Holiday Dinner Drama and Family Tensions",
+        "p": [
+          "The Thanksgiving dinner episodes were packed with conflict, much of it credited to the ongoing interference of Phyllis and Cricket. Victor and Nikki faced obstacles in their holiday plans due to a tense family feud, fitting behavior for Victor who often pits relatives against each other.",
+          "Despite the friction, Victor urged everyone to set their differences aside to celebrate. Jack also worked to teach the Abbotts the vital importance of family unity during the holiday."
+        ]
+      },
+      {
+        "h": "Surprises and Support Systems",
+        "p": [
+          "During the holiday gathering, an unexpected guest arrived after being invited by Sharon. Nick navigated challenges with sobriety while receiving steadfast backing from Nikki.",
+          "As the dinner progressed, Abby and Devon took time to express their gratitude to a loved one. Larry Warton also returned to lend a helping hand to Nick during a difficult moment."
+        ]
+      },
+      {
+        "h": "Broadcast Information",
+        "p": [
+          "The Young and the Restless maintains a consistent broadcast schedule, premiering new episodes from Monday through Friday. Viewers can catch the program directly on CBS.",
+          "Although the holiday week cut the weekly run down to three days, standard operations will return immediately following the Thanksgiving break."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "The Young and the Restless is taking a brief two-day break from the CBS schedule on November 26 and November 27 due to Thanksgiving holiday sports coverage. Regular weekday episodes will resume next week following the holiday interruption."
+        ]
+      }
+    ],
+    "facts": [
+      "The Young and the Restless is not airing new episodes on November 26 and November 27, 2026.",
+      "The show aired for three days before going on its brief hiatus.",
+      "CBS is airing sports coverage in place of the soap opera.",
+      "The series centers on the Abbott and Newman families."
+    ],
+    "entities": {
+      "people": [
+        "Ashley",
+        "Victor",
+        "Abby",
+        "Daniel",
+        "Phyllis",
+        "Sharon",
+        "Roxanne",
+        "Devon",
+        "Larry Warton",
+        "Nick",
+        "Jack",
+        "Cricket",
+        "Nikki"
+      ],
+      "titles": [
+        "The Young and the Restless"
+      ]
+    },
+    "keywords": [
+      "The Young and the Restless",
+      "CBS soap opera schedule",
+      "Young and Restless Thanksgiving break",
+      "Abbotts and Newmans"
+    ],
+    "images": [
+      {
+        "url": "https://www.comingsoon.net/wp-content/uploads/sites/3/2026/11/yandrlogocbs_3924f0_cfabb5.webp?resize=1200,630",
+        "caption": "Why There Is No New Episode of The Young and the Restless Tonight and Tomorrow",
+        "source": "ComingSoon.net"
+      }
+    ],
+    "published": "Thu, 26 Nov 2026 05:21:14 +0000"
+  },
+  "zfcjfm": {
+    "id": "zfcjfm",
+    "type": "news",
+    "headline": "Naga Chaitanya Leads a Grand Fantasy Adventure in Vrushakarma Trailer",
+    "dek": "Actor Naga Chaitanya enters the mythical adventure genre with Vrushakarma, reuniting with Virupaksha director Karthik Dandu for a mystery thriller.",
+    "body": [
+      {
+        "h": "Stepping Into Mythical Adventure",
+        "p": [
+          "Telugu cinema sees a fresh entry into the mythical adventure and large-scale fantasy space with the upcoming release of Vrushakarma. Actor Naga Chaitanya takes the lead in this ambitious project following his earlier work in Thandel. The film ventures into a relatively unexplored genre for regional cinema, promising viewers a mix of mystery and supernatural elements.",
+          "The project marks a reunion between the lead actor and director Karthik Dandu, who previously collaborated on Virupaksha. Their new venture builds on that past partnership to deliver a narrative rooted deeply in ancient mythology and hidden forces."
+        ]
+      },
+      {
+        "h": "Unveiling the Trailer and World",
+        "p": [
+          "The newly released trailer sets a dark and eerie tone right from the start, showcasing bats, supernatural forces, and a malevolent presence threatening a vulnerable village. Ancient carvings and forgotten secrets flash across the screen, establishing a mysterious connection between the mortal world and unseen powers.",
+          "As the preview progresses, it introduces core characters drawn into an extraordinary journey. The atmospheric framing and intricate production design work together to construct a detailed setting that immediately captures viewer attention."
+        ]
+      },
+      {
+        "h": "A Bigger Vision by the Director",
+        "p": [
+          "Director Karthik Dandu expands upon the suspenseful storytelling and supernatural themes he previously explored in Virupaksha. Vrushakarma appears to elevate those elements to a much grander scale through elaborate world-building and ambitious visual effects.",
+          "While a handful of computer-generated shots leave room for polish, the overarching visual presentation supports the film's atmospheric goals. The grand scale generates genuine curiosity surrounding the central narrative."
+        ]
+      },
+      {
+        "h": "Cast and Character Dynamics",
+        "p": [
+          "Naga Chaitanya tackles unfamiliar territory by playing a character named Arjun. His appearance and screen presence signal a distinct departure from his recent cinematic outings, positioning him firmly at the center of the unfolding adventure.",
+          "Supporting the lead actor is an ensemble cast featuring Meenakshi Chaudhary, Jayaram, Sparsh Srivastava, and Kiara Khanna. Their respective roles introduce additional layers of intrigue to the overarching mystery."
+        ]
+      },
+      {
+        "h": "Production Backing and Ambition",
+        "p": [
+          "The film is brought to life through the backing of producers BVSN Prasad and Sukumar. It represents a joint production effort under Sri Venkateswara Cine Chitra and Sukumar Writings.",
+          "This collaboration aims to deliver a high-concept mythical thriller tailored for Telugu audiences, combining substantial production values with a unique thematic premise."
+        ]
+      },
+      {
+        "h": "Anticipation and Expectations",
+        "p": [
+          "While the trailer deliberately keeps several key plot points hidden, its distinctive atmosphere and conceptual scale establish it as an engaging proposition. Audiences are left waiting to see how the promising setup translates into a full theatrical presentation.",
+          "The ultimate success of the project will depend on whether the final feature film can sustain the momentum and intrigue generated by its promotional material."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Actor Naga Chaitanya stars in the new mythical adventure thriller Vrushakarma, directed by Karthik Dandu. The newly released trailer showcases grand world-building, supernatural elements, and an ensemble cast including Meenakshi Chaudhary, Jayaram, Sparsh Srivastava, and Kiara Khanna."
+        ]
+      }
+    ],
+    "facts": [
+      "Vrushakarma is directed by Karthik Dandu.",
+      "Naga Chaitanya stars as Arjun in Vrushakarma.",
+      "The film also features Meenakshi Chaudhary, Jayaram, Sparsh Srivastava, and Kiara Khanna.",
+      "It is produced by BVSN Prasad and Sukumar under Sri Venkateswara Cine Chitra and Sukumar Writings.",
+      "The trailer was published on November 26, 2026."
+    ],
+    "entities": {
+      "people": [
+        "Naga Chaitanya",
+        "Karthik Dandu",
+        "T Maruthi Acharya",
+        "Meenakshi Chaudhary",
+        "Jayaram",
+        "Sparsh Srivastava",
+        "Kiara Khanna",
+        "BVSN Prasad",
+        "Sukumar",
+        "Sobhita"
+      ],
+      "titles": [
+        "Vrushakarma",
+        "Virupaksha",
+        "Thandel",
+        "Ramayana"
+      ]
+    },
+    "keywords": [
+      "Vrushakarma trailer",
+      "Naga Chaitanya Vrushakarma",
+      "Karthik Dandu Vrushakarma",
+      "Vrushakarma movie"
+    ],
+    "images": [
+      {
+        "url": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202611/meenakshi-chaudhary--naga-chaitanya-jayaram-262610868-16x9_0.jpeg?VersionId=lnfq6JkmYiIAVZgtY5PKOz0nFlkYOd9.",
+        "caption": "Naga Chaitanya Leads a Grand Fantasy Adventure in Vrushakarma Trailer",
+        "source": "India Today — Movies"
+      }
+    ],
+    "published": "Thu, 26 Nov 2026 11:11:32 +0530"
   }
 };
