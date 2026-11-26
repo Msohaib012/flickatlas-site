@@ -44,6 +44,165 @@ window.FA_HOME_ARTICLES = {
     ],
     "published": "Thu, 26 Nov 2026 20:53:03 +0200"
   },
+  "1xrq97e": {
+    "id": "1xrq97e",
+    "type": "news",
+    "headline": "Drishyam: The Conclusion Heads to Netflix Following Blockbuster Theatrical Run",
+    "dek": "Ajay Devgn's hit crime thriller is arriving on streaming platforms roughly two months after its successful box office debut.",
+    "entities": {
+      "people": [
+        "Ajay Devgn",
+        "Tabu",
+        "Jaideep Ahlawat",
+        "Shriya Saran",
+        "Prakash Raj",
+        "Abhishek Pathak",
+        "Rajat Kapoor",
+        "Kamlesh Sawant",
+        "Vijay Salgaonkar",
+        "Meera Deshmukh"
+      ],
+      "titles": [
+        "Drishyam 3",
+        "Drishyam: The Conclusion",
+        "Drishyam"
+      ]
+    },
+    "keywords": [
+      "Drishyam 3 OTT release date",
+      "Ajay Devgn Drishyam 3 Netflix",
+      "Drishyam The Conclusion streaming",
+      "Abhishek Pathak Drishyam 3 box office"
+    ],
+    "images": [
+      {
+        "url": "https://images.timesnownews.com/thumb/msid-156570222,thumbsize-114943,width-1280,height-720,resizemode-75/156570222.jpg",
+        "caption": "Drishyam: The Conclusion Heads to Netflix Following Blockbuster Theatrical Run",
+        "source": "Times Now — Entertainment"
+      }
+    ],
+    "published": "2026-11-26T18:53:01Z"
+  },
+  "1nk6sk9": {
+    "id": "1nk6sk9",
+    "type": "news",
+    "headline": "Focker-In-Law Director Teases Potential Fifth Movie After Ariana Grande Cliffhanger",
+    "dek": "Following the theatrical release of the fourth installment in the Meet the Parents franchise, director John Hamburg opens up about the prospects of developing a fifth film.",
+    "entities": {
+      "people": [
+        "Robert De Niro",
+        "Ben Stiller",
+        "Skyler Gisondo",
+        "Ariana Grande",
+        "John Hamburg",
+        "Owen Wilson"
+      ],
+      "titles": [
+        "Focker-In-Law",
+        "Meet the Parents",
+        "Little Fockers",
+        "The Godfather Part II",
+        "Raging Bull",
+        "Goodfellas",
+        "Joker",
+        "The Irishman",
+        "Wicked"
+      ]
+    },
+    "keywords": [
+      "Focker-In-Law film",
+      "John Hamburg Focker-In-Law",
+      "Ariana Grande Focker-In-Law",
+      "Robert De Niro Ben Stiller"
+    ],
+    "images": [
+      {
+        "url": "https://static0.moviewebimages.com/wordpress/wp-content/uploads/2024/02/robert-de-niro-as-jack-in-meet-the-fockers.jpg?w=1200&amp;h=675&amp;fit=crop",
+        "caption": "Focker-In-Law Director Teases Potential Fifth Movie After Ariana Grande Cliffhanger",
+        "source": "MovieWeb"
+      }
+    ],
+    "published": "Thu, 26 Nov 2026 18:31:28 GMT"
+  },
+  "pjkxno": {
+    "id": "pjkxno",
+    "type": "news",
+    "headline": "Hamza Ali Abbasi Controversy Sparks Boycott Demands for Netflix's Jo Bachay Hain Sang Samait Lo in India",
+    "dek": "An archival photograph of Pakistani actor Hamza Ali Abbasi alongside UN-designated terrorist Hafiz Saeed has resurfaced online, triggering intense backlash and calls from Indian audiences and industry bodies to boycott the upcoming streaming series.",
+    "entities": {
+      "people": [
+        "Hamza Ali Abbasi",
+        "Hafiz Saeed",
+        "Muneeb Qadir",
+        "Fawad Khan",
+        "Mahira Khan"
+      ],
+      "titles": [
+        "Jo Bachay Hain Sang Samait Lo"
+      ]
+    },
+    "keywords": [
+      "Jo Bachay Hain Sang Samait Lo",
+      "Hamza Ali Abbasi Hafiz Saeed photo",
+      "Netflix Pakistani series boycott",
+      "Fawad Khan Mahira Khan Netflix"
+    ],
+    "images": [
+      {
+        "url": "https://images.filmibeat.com/img/2026/11/hamzahafizfeature-78861795717341.jpg",
+        "caption": "Hamza Ali Abbasi Controversy Sparks Boycott Demands for Netflix's Jo Bachay Hain Sang Samait Lo in India",
+        "source": "FilmiBeat"
+      }
+    ],
+    "published": "Thu, 26 Nov 2026 23:55:03 +0530"
+  },
+  "1rx9v7": {
+    "id": "1rx9v7",
+    "type": "news",
+    "headline": "The Further Mis-Adventures of Cliff Booth Crosses Initial Box Office Milestone in Theaters",
+    "dek": "Quentin Tarantino's newly written sequel has arrived in IMAX locations, bringing Brad Pitt back to the big screen under David Fincher's direction ahead of its Netflix premiere.",
+    "entities": {
+      "people": [
+        "Quentin Tarantino",
+        "Brad Pitt",
+        "David Fincher",
+        "Elizabeth Debicki",
+        "Yahya Abdul-Mateen II",
+        "Peter Weller",
+        "Timothy Olyphant",
+        "Rohan Naahar",
+        "Francois Ozon",
+        "Greta Gerwig"
+      ],
+      "titles": [
+        "The Further Mis-Adventures of Cliff Booth",
+        "Once Upon a Time in Hollywood",
+        "Narnia: The Magician's Nephew",
+        "Mank",
+        "The Killer",
+        "House of Cards",
+        "Mindhunter",
+        "Wake Up Dead Man: A Knives Out Mystery",
+        "Glass Onion: A Knives Out Mystery",
+        "La Bola Negra",
+        "The Mosquito Bowl"
+      ]
+    },
+    "keywords": [
+      "The Further Mis-Adventures of Cliff Booth",
+      "Quentin Tarantino Cliff Booth film",
+      "David Fincher movie Netflix",
+      "Brad Pitt Cliff Booth box office"
+    ],
+    "images": [
+      {
+        "url": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/11/the-further-mis-adventures-of-cliff-booth-carla-gugino.jpg?w=1600&amp;h=900&amp;fit=crop",
+        "caption": "The Further Mis-Adventures of Cliff Booth Crosses Initial Box Office Milestone in Theaters",
+        "source": "Collider"
+      }
+    ],
+    "published": "Thu, 26 Nov 2026 18:07:07 GMT"
+  },
   "d70lqr": {
     "id": "d70lqr",
     "type": "news",
@@ -4553,157 +4712,6 @@ window.FA_HOME_ARTICLES = {
     ],
     "published": "Wed, 25 Nov 2026 10:01:12 GMT"
   },
-  "1o94ir7": {
-    "id": "1o94ir7",
-    "type": "news",
-    "headline": "Hear'Say and Liberty X Cancel 25th Anniversary Comeback Tour After Ticket Sales Fall Short",
-    "dek": "Noughties pop groups Hear'Say and Liberty X have officially called off their joint arena comeback tour, citing low ticket sales and high production costs, though disappointed fans are pushing for smaller venue alternatives.",
-    "entities": {
-      "people": [
-        "Danny Foster",
-        "Kym Marsh",
-        "Suzanne Shaw",
-        "Noel Sullivan",
-        "Myleene Klass",
-        "Michelle Heaton",
-        "Jessica Taylor",
-        "Tony Lundon",
-        "Kevin Simm",
-        "Kelli Young"
-      ],
-      "titles": [
-        "Hear'Say",
-        "Liberty X",
-        "Popstars",
-        "Pure and Simple",
-        "Just A Little"
-      ]
-    },
-    "keywords": [
-      "Hear'Say",
-      "Liberty X",
-      "Hear'Say and Liberty X tour cancelled",
-      "Popstars reunion tour"
-    ],
-    "images": [],
-    "published": "2026-11-25T09:52:47Z"
-  },
-  "ocot77": {
-    "id": "ocot77",
-    "type": "news",
-    "headline": "Friends of Late Katherine McCollough Blame Comedian Reggie Watts for Tragic Downward Spiral",
-    "dek": "Loved ones of the late Katherine McCollough claim that her intense romance and introduction to heavy substances with comedian Reggie Watts led to her devastating decline and eventual suicide.",
-    "entities": {
-      "people": [
-        "Reggie Watts",
-        "Katherine Early McCollough",
-        "Andrew Brettler",
-        "Colleen McCollough",
-        "Lacey Valentini",
-        "Travis Flournoy",
-        "Maria Vanderslice",
-        "James Corden"
-      ],
-      "titles": [
-        "Comedy Bang! Bang!",
-        "The Late Late Show"
-      ]
-    },
-    "keywords": [
-      "Reggie Watts",
-      "Katherine Early McCollough",
-      "Reggie Watts ketamine",
-      "Katherine McCollough death"
-    ],
-    "images": [
-      {
-        "url": "https://www.rollingstone.com/wp-content/uploads/2026/08/Kat-and-Reggie.jpg?w=1600&#038;h=900&#038;crop=1",
-        "caption": "Friends of Late Katherine McCollough Blame Comedian Reggie Watts for Tragic Downward Spiral",
-        "source": "Rolling Stone"
-      }
-    ],
-    "published": "2026-11-25T09:52:47Z"
-  },
-  "r4yuwu": {
-    "id": "r4yuwu",
-    "type": "news",
-    "headline": "Top Literary Scholars Unwittingly Draw Attention in Fake Academy Investigation",
-    "dek": "Prominent English and literature professors from Yale, Harvard, and other elite universities discovered their names and reputations were being used by a shadowy organization masquerading as a global academic society.",
-    "entities": {
-      "people": [
-        "Stephanie Newell",
-        "Julian Lee",
-        "Gayatri Spivak",
-        "Homi Bhabha",
-        "Franco Moretti",
-        "Jensen Huang",
-        "Pat Barker",
-        "Michael Chu",
-        "Chaoyang Zhu",
-        "César Pablo Domínguez Prieto",
-        "Jonathan Dwight Culler",
-        "David Damrosch",
-        "Wang Ning",
-        "Jeff Fields"
-      ],
-      "titles": [
-        "International Institute of Literature Arts",
-        "National Academy of Artificial Intelligence",
-        "International Institute of Film Science Arts",
-        "International Institute of Engineering Psychology",
-        "City University of Colorado",
-        "New Directions in World and Comparative Literature"
-      ]
-    },
-    "keywords": [
-      "Stephanie Newell",
-      "International Institute of Literature Arts",
-      "Michael Chu",
-      "César Pablo Domínguez Prieto"
-    ],
-    "images": [
-      {
-        "url": "https://media.vanityfair.com/photos/6b047a14e4236fbefe79eecd/16:9/w_1280,c_limit/Screenshot%202026-11-23%20at%2012.38.13%E2%80%AFPM.png",
-        "caption": "Top Literary Scholars Unwittingly Draw Attention in Fake Academy Investigation",
-        "source": "Vanity Fair"
-      }
-    ],
-    "published": "2026-11-25T09:52:47Z"
-  },
-  "1eahb0y": {
-    "id": "1eahb0y",
-    "type": "news",
-    "headline": "Tanishaa Mukerji Expresses Dissatisfaction with Yash's Ravan in Ramayana",
-    "dek": "While Ramayana continues to draw crowds at the box office, celebrity reactions highlight mixed reviews regarding the performances of its lead cast members.",
-    "entities": {
-      "people": [
-        "Yash",
-        "Tanishaa Mukerji",
-        "Sai Pallavi",
-        "Ranbir",
-        "Kajol"
-      ],
-      "titles": [
-        "Ramayana",
-        "Ramrajya",
-        "Neel N Nikki"
-      ]
-    },
-    "keywords": [
-      "Ramayana film",
-      "Yash Ravan Ramayana",
-      "Tanishaa Mukerji Ramayana",
-      "Sai Pallavi Sita"
-    ],
-    "images": [
-      {
-        "url": "https://images.filmibeat.com/img/2026/11/ramayanayashtanishaamukerji-88261795598227.jpg",
-        "caption": "Tanishaa Mukerji Expresses Dissatisfaction with Yash's Ravan in Ramayana",
-        "source": "FilmiBeat"
-      }
-    ],
-    "published": "Wed, 25 Nov 2026 15:04:44 +0530"
-  },
   "1ypg7z1": {
     "id": "1ypg7z1",
     "type": "news",
@@ -5129,6 +5137,48 @@ window.FA_HOME_ARTICLES = {
       }
     ],
     "published": "2026-11-22T15:00:16Z"
+  },
+  "uh2riy": {
+    "id": "uh2riy",
+    "type": "news",
+    "headline": "Drishyam 3 OTT Release Date Announced After Massive Box Office Run",
+    "dek": "Fans who missed Ajay Devgn's blockbuster thriller in theaters can finally stream the final chapter of Vijay Salgaonkar's story on Netflix starting this November.",
+    "entities": {
+      "people": [
+        "Ajay Devgn",
+        "Tabu",
+        "Shriya Saran",
+        "Jaideep Ahlawat",
+        "Rajat Kapoor",
+        "Prakash Raj",
+        "Ishita Dutta",
+        "Abhishek Pathak",
+        "Ravi Basrur",
+        "Rochak Kohli",
+        "Karma",
+        "Amar Mohile",
+        "Sudhir K. Chaudhary",
+        "Sandip Francis"
+      ],
+      "titles": [
+        "Drishyam 3",
+        "Drishyam: The Conclusion"
+      ]
+    },
+    "keywords": [
+      "Drishyam 3 OTT release date",
+      "Ajay Devgn Drishyam Netflix",
+      "Drishyam box office collection",
+      "Drishyam 3 cast and crew"
+    ],
+    "images": [
+      {
+        "url": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202611/6b02dbeec5a61-drishyam-3-ott-release-221125678-16x9.jpg",
+        "caption": "Drishyam 3 OTT Release Date Announced After Massive Box Office Run",
+        "source": "Aaj Tak — Entertainment"
+      }
+    ],
+    "published": "2026-11-22T12:52:51Z"
   },
   "1pqbmve": {
     "id": "1pqbmve",
@@ -5578,46 +5628,6 @@ window.FA_HOME_ARTICLES = {
       }
     ],
     "published": "2026-11-20T14:45:34Z"
-  },
-  "15eqb9k": {
-    "id": "15eqb9k",
-    "type": "news",
-    "headline": "How to Purchase Grand Theft Auto VI for Sony PS5 and Xbox Online",
-    "dek": "Rockstar Games has finally launched the long-awaited title for current-generation consoles, complete with purchasing options across major online retailers.",
-    "entities": {
-      "people": [
-        "Future",
-        "Metro Boomin",
-        "Yung Lean",
-        "Travis Scott",
-        "CA7RIEL",
-        "Paco Amoroso",
-        "PinkPantheress",
-        "Fred again..",
-        "Etienne de Crécy",
-        "Morgan Wallen",
-        "Rauw Alejandro",
-        "Keith Richards"
-      ],
-      "titles": [
-        "Grand Theft Auto VI",
-        "GTA 5"
-      ]
-    },
-    "keywords": [
-      "Grand Theft Auto VI",
-      "GTA 6 PS5 Xbox",
-      "Rockstar Games GTA 6",
-      "GTA 6 soundtrack"
-    ],
-    "images": [
-      {
-        "url": "https://www.billboard.com/wp-content/uploads/2026/11/Grand-Theft-Auto-VI-Vice-City-Hero-Billboard-1548.jpg?w=1024",
-        "caption": "How to Purchase Grand Theft Auto VI for Sony PS5 and Xbox Online",
-        "source": "Billboard"
-      }
-    ],
-    "published": "Thu, 19 Nov 2026 20:53:18 +0000"
   },
   "uaxxk7": {
     "id": "uaxxk7",

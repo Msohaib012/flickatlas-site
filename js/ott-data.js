@@ -54,6 +54,22 @@ window.FA_OTT = {
   ],
   "now": [
     {
+      "date": "2026-11-25",
+      "date_kind": "release",
+      "id": 310209,
+      "providers": [
+        {
+          "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+          "name": "Amazon Prime Video"
+        },
+        {
+          "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+          "name": "Amazon Prime Video with Ads"
+        }
+      ],
+      "type": "tv"
+    },
+    {
       "country": "US",
       "date": "2026-11-25",
       "date_kind": "digital",

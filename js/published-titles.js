@@ -66561,5 +66561,897 @@ window.FA_PUBLISHED = {
     "runtime": 0,
     "providers": [],
     "providers_wtw": []
+  },
+  "1847371": {
+    "id": 1847371,
+    "type": "movie",
+    "title": "Two sun",
+    "poster_path": "/gIAxMItAPnoIF3vT9RBXcxVMcrm.jpg",
+    "backdrop_path": "/bPONYmQasXAEiW4wa7q1CjfRZdE.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "Turned out of home and diagnosed with motor neuron disease, young artist Aarav races against time to finish his final painting—leaving behind a gift and a life-saving heart transplant for Kabir.",
+    "industry": "bollywood",
+    "popularity": 0,
+    "original_language": "hi",
+    "origin_country": [
+      "IN"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-26",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Drama"
+    ],
+    "tagline": "The story of loser",
+    "status": "Released",
+    "production_countries": [],
+    "spoken_languages": [],
+    "certification": "",
+    "release_date": "2026-11-24",
+    "date_kind": "release",
+    "runtime": 0,
+    "providers": [],
+    "providers_wtw": []
+  },
+  "343711": {
+    "id": 343711,
+    "type": "tv",
+    "title": "Bhedh - Sach ki Keemat",
+    "poster_path": "/aTlGm7KR41bJFlTuQMpPvmBKUYd.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "Directed by Mir Mohsin Manzoor, the series follows Senior Inspector Anurag Sathe investigating the murder of a college student amid campus rivalries, blackmail, and threats to his own family.",
+    "industry": "world",
+    "popularity": 0,
+    "original_language": "en",
+    "origin_country": [
+      "US"
+    ],
+    "trailer": null,
+    "categories": [
+      "tv"
+    ],
+    "published_at": "2026-11-26",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [],
+    "tagline": "",
+    "status": "Returning Series",
+    "production_countries": [],
+    "spoken_languages": [],
+    "certification": "",
+    "first_air_date": "2026-11-26",
+    "networks": [],
+    "number_of_seasons": 1,
+    "number_of_episodes": 1,
+    "channel": "",
+    "episode_run_time": [],
+    "seasons": [
+      {
+        "season_number": 1,
+        "episode_count": 8,
+        "air_date": "2026-11-26",
+        "name": "Season 1"
+      }
+    ],
+    "created_by": [],
+    "providers": [],
+    "providers_wtw": []
+  },
+  "326247": {
+    "id": 326247,
+    "type": "tv",
+    "title": "Fool Night",
+    "poster_path": "/7kHLQwQZKbQOZJGx1mIDYIKeBYv.jpg",
+    "backdrop_path": "/rumSTVTcuZj0khFXxXgwXouIMgg.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "In a dark world full of despair, he chooses the path of transforming into a Spirit Flower — a plant into which humans transform. Should he continue living as a person, or discard his pain and start a new life as a plant? Which path would you choose in his situation?",
+    "industry": "world",
+    "popularity": 6.6243,
+    "original_language": "ja",
+    "origin_country": [
+      "JP",
+      "US"
+    ],
+    "trailer": {
+      "key": "2Qg_AfPF2sM",
+      "name": "Official Trailer",
+      "site": "YouTube"
+    },
+    "categories": [
+      "tv"
+    ],
+    "published_at": "2026-11-26",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Animation",
+      "Drama",
+      "Sci-Fi & Fantasy",
+      "Mystery"
+    ],
+    "tagline": "Living... there isn’t a single thing fun about it.",
+    "status": "Returning Series",
+    "production_countries": [
+      "JP",
+      "US"
+    ],
+    "spoken_languages": [
+      "ja"
+    ],
+    "certification": "M18",
+    "first_air_date": "2026-11-26",
+    "networks": [
+      "Netflix"
+    ],
+    "number_of_seasons": 1,
+    "number_of_episodes": 12,
+    "channel": "Netflix",
+    "episode_run_time": [],
+    "seasons": [
+      {
+        "season_number": 1,
+        "episode_count": 12,
+        "air_date": "2026-11-26",
+        "name": "Season 1"
+      }
+    ],
+    "created_by": [],
+    "providers": [],
+    "providers_wtw": []
+  },
+  "1846435": {
+    "id": 1846435,
+    "type": "movie",
+    "title": "Le souffle de la Terre",
+    "poster_path": "/y4fy0V0ZALArV9lMCjM99jrfVl0.jpg",
+    "backdrop_path": "/8h0oo9SpvqKO9JSOgScOyuNUPea.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "",
+    "industry": "world",
+    "popularity": 0,
+    "original_language": "fr",
+    "origin_country": [
+      "FR"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-26",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Documentary"
+    ],
+    "tagline": "",
+    "status": "Post Production",
+    "production_countries": [
+      "FR"
+    ],
+    "spoken_languages": [
+      "fr"
+    ],
+    "certification": "TP",
+    "release_date": "2026-12-03",
+    "date_kind": "release",
+    "runtime": 0,
+    "providers": [],
+    "providers_wtw": []
+  },
+  "1843139": {
+    "id": 1843139,
+    "type": "movie",
+    "title": "The Skin Crawler Murders",
+    "poster_path": "/huc4u7fcxJ849qzg7Vf881FdMXJ.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "A detective investigating ritualistic murders uncovers a taxidermist serial killer who abducts women and harvests their body parts in a twisted experiment.",
+    "industry": "world",
+    "popularity": 2.6014,
+    "original_language": "en",
+    "origin_country": [
+      "US"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-26",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Horror",
+      "Thriller",
+      "Mystery"
+    ],
+    "tagline": "",
+    "status": "Released",
+    "production_countries": [
+      "US"
+    ],
+    "spoken_languages": [],
+    "certification": "",
+    "release_date": "2026-11-24",
+    "date_kind": "release",
+    "runtime": 82,
+    "providers": [],
+    "providers_wtw": []
+  },
+  "338930": {
+    "id": 338930,
+    "type": "tv",
+    "title": "Always on Call",
+    "poster_path": "/oQUJId55qF6YZ3bhPZ12WP1c5m4.jpg",
+    "backdrop_path": "/7JBjCdmH8kddW41YoipVVwQJllm.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "A devoted team of medical professionals navigate personal struggles, political pressure and a risky new hire at an overwhelmed emergency room in Oslo.",
+    "industry": "world",
+    "popularity": 2.2242,
+    "original_language": "no",
+    "origin_country": [
+      "NO"
+    ],
+    "trailer": {
+      "key": "fqZR2dreobc",
+      "name": "Official Trailer [Subtitled]",
+      "site": "YouTube"
+    },
+    "categories": [
+      "tv"
+    ],
+    "published_at": "2026-11-26",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Drama"
+    ],
+    "tagline": "",
+    "status": "Returning Series",
+    "production_countries": [],
+    "spoken_languages": [
+      "no"
+    ],
+    "certification": "NC16",
+    "first_air_date": "2026-11-26",
+    "networks": [
+      "Netflix"
+    ],
+    "number_of_seasons": 1,
+    "number_of_episodes": 7,
+    "channel": "Netflix",
+    "episode_run_time": [],
+    "seasons": [
+      {
+        "season_number": 1,
+        "episode_count": 7,
+        "air_date": "2026-11-26",
+        "name": "Season 1"
+      }
+    ],
+    "created_by": [
+      "Harald Rosenløw-Eeg",
+      "Jan Trygve Røyneland"
+    ],
+    "providers": [],
+    "providers_wtw": []
+  },
+  "1846346": {
+    "id": 1846346,
+    "type": "movie",
+    "title": "Life After Dumpling",
+    "poster_path": "/iTdaN9e0dZ6ZbX73FtSTS300SSY.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "Adam and his son Jacob, both on the autism spectrum, go on a journey to say goodbye to their late family cat, Dumpling.",
+    "industry": "world",
+    "popularity": 0,
+    "original_language": "en",
+    "origin_country": [
+      "GB"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-26",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "tagline": "Love can be surprising.",
+    "status": "Released",
+    "production_countries": [],
+    "spoken_languages": [
+      "en"
+    ],
+    "certification": "",
+    "release_date": "2026-12-03",
+    "date_kind": "festival",
+    "runtime": 14,
+    "providers": [],
+    "providers_wtw": []
+  },
+  "310209": {
+    "id": 310209,
+    "type": "tv",
+    "title": "Nine to Six",
+    "poster_path": "/1iVlL2Prt9Q5BWMfeZQ6d1ZAZBy.jpg",
+    "backdrop_path": "/y6vS0tG9uQPOU9y2YhuZ0Uga99c.jpg",
+    "vote_average": 5.0,
+    "vote_count": 1,
+    "overview": "Falsely blamed for a car fire, Chronic Motors Senior Manager Kang Yi-ji faces demotion. Can she find love and happiness amid office politics?",
+    "industry": "world",
+    "popularity": 18.5097,
+    "original_language": "ko",
+    "origin_country": [
+      "KR"
+    ],
+    "trailer": null,
+    "categories": [
+      "tv"
+    ],
+    "published_at": "2026-11-26",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Drama",
+      "Comedy"
+    ],
+    "tagline": "Perfect at work, a mystery in love.",
+    "status": "Returning Series",
+    "production_countries": [
+      "KR"
+    ],
+    "spoken_languages": [
+      "ko"
+    ],
+    "certification": "TV-G",
+    "first_air_date": "2026-11-25",
+    "networks": [
+      "SBS"
+    ],
+    "number_of_seasons": 1,
+    "number_of_episodes": 12,
+    "channel": "SBS",
+    "episode_run_time": [],
+    "seasons": [
+      {
+        "season_number": 1,
+        "episode_count": 12,
+        "air_date": "2026-11-25",
+        "name": "Season 1"
+      }
+    ],
+    "created_by": [
+      "Choi Ji-oh"
+    ],
+    "providers": [
+      {
+        "name": "Amazon Prime Video",
+        "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+        "region": "IN",
+        "type": "flatrate"
+      },
+      {
+        "name": "Amazon Prime Video with Ads",
+        "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+        "region": "IN",
+        "type": "flatrate"
+      }
+    ],
+    "providers_wtw": [
+      {
+        "name": "Amazon Prime Video",
+        "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+        "region": "IN",
+        "kind": "flatrate"
+      },
+      {
+        "name": "Amazon Prime Video with Ads",
+        "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+        "region": "IN",
+        "kind": "flatrate"
+      }
+    ]
+  },
+  "1833936": {
+    "id": 1833936,
+    "type": "movie",
+    "title": "EMPÍRICO",
+    "poster_path": "/8siiPUDhST1kacyyW3vhxySVQsb.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "Amidst comments that pass judgment on those who receive government benefits and the personal stories of individuals who have relied on such aid to survive, *Empírico* invites reflection on poverty and social welfare in Brazil. Through the experiences of Maria and Nana, as well as the insights of economics student Raul, the documentary bridges the gap between the reality of those who have depended—or continue to depend—on public assistance and the narratives constructed about them online.",
+    "industry": "world",
+    "popularity": 0.2424,
+    "original_language": "pt",
+    "origin_country": [
+      "BR"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-26",
+    "source": "tmdb",
+    "budget": 300,
+    "revenue": 0,
+    "genres": [
+      "Documentary",
+      "Drama"
+    ],
+    "tagline": "",
+    "status": "In Production",
+    "production_countries": [],
+    "spoken_languages": [
+      "pt"
+    ],
+    "certification": "L",
+    "release_date": "2026-12-03",
+    "date_kind": "festival",
+    "runtime": 12,
+    "providers": [],
+    "providers_wtw": []
+  },
+  "1831722": {
+    "id": 1831722,
+    "type": "movie",
+    "title": "MAYDAY: Between Us — The Front Row",
+    "poster_path": "/tV4v9OmB3KuJnENcCrzIvwcZoQo.jpg",
+    "backdrop_path": "/aEFuwr6aoW8YT36M6Y28FIqbEuK.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "",
+    "industry": "world",
+    "popularity": 0.209,
+    "original_language": "zh",
+    "origin_country": [
+      "TW"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-26",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [],
+    "tagline": "",
+    "status": "Planned",
+    "production_countries": [],
+    "spoken_languages": [],
+    "certification": "",
+    "release_date": "2026-12-03",
+    "date_kind": "release",
+    "runtime": 0,
+    "providers": [],
+    "providers_wtw": []
+  },
+  "1829442": {
+    "id": 1829442,
+    "type": "movie",
+    "title": "Night Shift",
+    "poster_path": "/cGFS9ISNPxdD2Ia17TUzXsUDuig.jpg",
+    "backdrop_path": "/fbzAWDTDgf70K1cmAJ211VIy8SR.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "A hopeless drifter goes on an odyssey through the underworld of the night after an enigmatic radio host begins speaking to him directly over the air.",
+    "industry": "world",
+    "popularity": 0.2277,
+    "original_language": "en",
+    "origin_country": [
+      "US"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-26",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Thriller"
+    ],
+    "tagline": "WHAT'S SO BAD ABOUT GOING CRAZY FOR A NIGHT?",
+    "status": "In Production",
+    "production_countries": [],
+    "spoken_languages": [],
+    "certification": "R",
+    "release_date": "2026-12-03",
+    "date_kind": "festival",
+    "runtime": 87,
+    "providers": [],
+    "providers_wtw": []
+  },
+  "1829177": {
+    "id": 1829177,
+    "type": "movie",
+    "title": "Deadline",
+    "poster_path": "/iY5Fx6TR0RuH6yYJIh72xCnh1Tb.jpg",
+    "backdrop_path": "/rpPX11DBEKufnPl9hmMjEKI8yKv.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "Bobby, a creative worker who has been laid off several times, takes on an overnight deadline to keep his job. Even while haunted by Randy, a former Creative Director who died from overwork, Bobby keeps pushing himself because losing his job feels more terrifying than any ghost. As his boss’s pressure intensifies, Bobby is forced to choose between holding on to his job and saving himself.",
+    "industry": "world",
+    "popularity": 0.3129,
+    "original_language": "id",
+    "origin_country": [
+      "ID"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-26",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Drama",
+      "Horror"
+    ],
+    "tagline": "",
+    "status": "Post Production",
+    "production_countries": [
+      "ID"
+    ],
+    "spoken_languages": [
+      "id"
+    ],
+    "certification": "17+",
+    "release_date": "2026-12-03",
+    "date_kind": "festival",
+    "runtime": 13,
+    "providers": [],
+    "providers_wtw": []
+  },
+  "1828745": {
+    "id": 1828745,
+    "type": "movie",
+    "title": "Prince: 3121 Las Vegas Live",
+    "poster_path": "/6HCxwebALmNKyRk3xbn5Kxo2P5v.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "Prepare for an electrifying, once in a lifetime concert experience as Prince commands the stage in 3121 Las Vegas Live. At the height of his legendary Las Vegas residency, Prince delivers a breathtaking showcase of unparalleled musicianship, explosive energy, dazzling guitar work, and unforgettable performances. Blending funk, rock, soul, R&B, and pop, he tears through hits, fan favorites, deep cuts, and extended jams with the spontaneity and brilliance that defined Prince as one of the greatest performers of all time. Whether you've been a lifelong Prince fan or are discovering his genius for the first time, this is Prince unleashed, and an essential experience for every generation.",
+    "industry": "world",
+    "popularity": 0.9598,
+    "original_language": "en",
+    "origin_country": [
+      "US"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-26",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [],
+    "tagline": "",
+    "status": "In Production",
+    "production_countries": [],
+    "spoken_languages": [],
+    "certification": "",
+    "release_date": "2026-12-03",
+    "date_kind": "release",
+    "runtime": 115,
+    "providers": [],
+    "providers_wtw": []
+  },
+  "1828304": {
+    "id": 1828304,
+    "type": "movie",
+    "title": "Sleeping On Mother's Grave",
+    "poster_path": "/bRUHsgb4LVI73TATCr0LsTjqOw5.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "Khmer horror movie",
+    "industry": "world",
+    "popularity": 0.1023,
+    "original_language": "km",
+    "origin_country": [
+      "KH"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-26",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Horror",
+      "Drama"
+    ],
+    "tagline": "",
+    "status": "In Production",
+    "production_countries": [
+      "KH"
+    ],
+    "spoken_languages": [
+      "km"
+    ],
+    "certification": "",
+    "release_date": "2026-12-03",
+    "date_kind": "release",
+    "runtime": 108,
+    "providers": [],
+    "providers_wtw": []
+  },
+  "1828298": {
+    "id": 1828298,
+    "type": "movie",
+    "title": "The Black Shadow",
+    "poster_path": "/l4PwKkEmoTGgypdaP7PEFPmoV0f.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "Khmer horror movie",
+    "industry": "world",
+    "popularity": 0.1299,
+    "original_language": "km",
+    "origin_country": [
+      "KH"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-26",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Horror",
+      "Drama"
+    ],
+    "tagline": "",
+    "status": "In Production",
+    "production_countries": [
+      "KH"
+    ],
+    "spoken_languages": [
+      "km"
+    ],
+    "certification": "",
+    "release_date": "2026-12-03",
+    "date_kind": "release",
+    "runtime": 82,
+    "providers": [],
+    "providers_wtw": []
+  },
+  "1827905": {
+    "id": 1827905,
+    "type": "movie",
+    "title": "The Family",
+    "poster_path": "/amezRybimqx4JRZ52Q1BqTkqDWc.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "Four stories, four perspectives on family and the challenges that loved ones face.",
+    "industry": "world",
+    "popularity": 0.0916,
+    "original_language": "ru",
+    "origin_country": [
+      "RU"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-26",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Drama"
+    ],
+    "tagline": "",
+    "status": "In Production",
+    "production_countries": [
+      "RU"
+    ],
+    "spoken_languages": [
+      "ru"
+    ],
+    "certification": "18+",
+    "release_date": "2026-12-03",
+    "date_kind": "release",
+    "runtime": 0,
+    "providers": [],
+    "providers_wtw": []
+  },
+  "1827673": {
+    "id": 1827673,
+    "type": "movie",
+    "title": "The Watchful Eyes",
+    "poster_path": "/9WuNpIJwrm7F8C0wCxXzSPcAABM.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "A young girl vanishes in the heart of Riyadh… and the search for her leads into a hidden world of addiction and drug trafficking.  A true story from the files of the Saudi Ministry of Interior.",
+    "industry": "world",
+    "popularity": 0.6479,
+    "original_language": "ar",
+    "origin_country": [
+      "SA"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-26",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "tagline": "The Watchful Eyes",
+    "status": "Released",
+    "production_countries": [
+      "SA"
+    ],
+    "spoken_languages": [
+      "ar"
+    ],
+    "certification": "",
+    "release_date": "2026-12-03",
+    "date_kind": "release",
+    "runtime": 90,
+    "providers": [],
+    "providers_wtw": []
+  },
+  "1826270": {
+    "id": 1826270,
+    "type": "movie",
+    "title": "Hacer un libro",
+    "poster_path": "/yBI1lmNY1FGyRle5T9uw3ueETfi.jpg",
+    "backdrop_path": "/iQwP80e0dc58NU4XQjVPgax287d.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "In 2025, the publishing house Ediciones Hora Mágica and Centro de Día Senderos del Sembrador set out to carry out an editorial experimentation laboratory to explore a question together: how do you make a book that is neither written nor read? This documentary captures the collective creation process of Muã Muã, an artist's book born out of the exchange between the publishing house and a group of young people with intellectual disabilities.",
+    "industry": "world",
+    "popularity": 0.3254,
+    "original_language": "es",
+    "origin_country": [
+      "AR"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-26",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Documentary"
+    ],
+    "tagline": "",
+    "status": "Post Production",
+    "production_countries": [],
+    "spoken_languages": [
+      "es"
+    ],
+    "certification": "ATP",
+    "release_date": "2026-12-03",
+    "date_kind": "release",
+    "runtime": 92,
+    "providers": [],
+    "providers_wtw": []
+  },
+  "1825517": {
+    "id": 1825517,
+    "type": "movie",
+    "title": "Vacant",
+    "poster_path": "/bH3P8b39bVV6oAbWkiK40KzANmp.jpg",
+    "backdrop_path": "/pePEnzLGPA0VSCYUjrFhZTjVx5j.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "Struggling with his own existential crisis, Reza, a skilled and devoted butcher, has to face his fate as things go south in the slaughterhouse.",
+    "industry": "world",
+    "popularity": 0.3304,
+    "original_language": "id",
+    "origin_country": [
+      "ID"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-26",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Drama",
+      "Horror"
+    ],
+    "tagline": "",
+    "status": "Post Production",
+    "production_countries": [
+      "ID"
+    ],
+    "spoken_languages": [
+      "id"
+    ],
+    "certification": "17+",
+    "release_date": "2026-12-03",
+    "date_kind": "festival",
+    "runtime": 12,
+    "providers": [],
+    "providers_wtw": []
+  },
+  "1823938": {
+    "id": 1823938,
+    "type": "movie",
+    "title": "Let Me Entertain You",
+    "poster_path": "/3mbl1Zu79KbQIR5e9biEqEQxdJV.jpg",
+    "backdrop_path": "/9bEScRF0Syw6qPxWrq6UUwYuyzq.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "A pub guitarist spends his days with his wife, and his nights entertaining strangers. Though skilled at performing, he often finds himself lost in silence. One night, that man realizes how to play not just for others, but for himself.",
+    "industry": "world",
+    "popularity": 0.0552,
+    "original_language": "id",
+    "origin_country": [
+      "ID"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-26",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Drama"
+    ],
+    "tagline": "",
+    "status": "Post Production",
+    "production_countries": [
+      "ID"
+    ],
+    "spoken_languages": [
+      "id"
+    ],
+    "certification": "13+",
+    "release_date": "2026-12-03",
+    "date_kind": "festival",
+    "runtime": 15,
+    "providers": [],
+    "providers_wtw": []
   }
 };

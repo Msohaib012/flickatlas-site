@@ -257113,5 +257113,386 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "2026-11-26T18:01:14+05:30"
+  },
+  "1xrq97e": {
+    "id": "1xrq97e",
+    "type": "news",
+    "headline": "Drishyam: The Conclusion Heads to Netflix Following Blockbuster Theatrical Run",
+    "dek": "Ajay Devgn's hit crime thriller is arriving on streaming platforms roughly two months after its successful box office debut.",
+    "body": [
+      {
+        "h": "Digital Debut on Netflix",
+        "p": [
+          "The final chapter of the popular Hindi suspense franchise, Drishyam: The Conclusion, is officially making its transition to digital streaming. The film is set to land on Netflix on November 27, 2026, roughly two months after its initial theatrical run.",
+          "Streaming subscribers can access the crime thriller starting Friday. The platform officially announced the digital premiere by sharing a promotional video featuring the Salgaonkar family, giving fans a clear look at the movie's arrival online."
+        ]
+      },
+      {
+        "h": "Theatrical Window and Legal Timeline",
+        "p": [
+          "The movie first arrived in cinemas on October 2, 2026, coinciding with Gandhi Jayanti. Its upcoming digital release comes nearly eight weeks after its theatrical debut, adhering to the traditional window between cinema and home viewing.",
+          "This digital release arrives precisely one day after the expiration of a court-recorded undertaking. The Madras High Court had previously handled a dispute over the franchise's remake rights, declining to grant an interim injunction while recording an agreement that the movie would stay off digital platforms until November 26."
+        ]
+      },
+      {
+        "h": "Cast and Creative Team",
+        "p": [
+          "Abhishek Pathak directed this final installment, which brings the Hindi version of the blockbuster franchise to a close. The narrative continues to follow Vijay Salgaonkar and his family as they confront the lingering consequences of events from earlier films.",
+          "Ajay Devgn reprises his leading role as Vijay, while Tabu returns as Meera Deshmukh. The ensemble also features returning cast members Rajat Kapoor, Shriya Saran, and Kamlesh Sawant, alongside new additions Jaideep Ahlawat and Prakash Raj."
+        ]
+      },
+      {
+        "h": "Box Office Records and Milestones",
+        "p": [
+          "The feature enjoyed an exceptionally strong theatrical run, establishing itself as one of the biggest Hindi commercial releases of 2026. It received positive reviews and commanded heavy footfall upon opening during Gandhi Jayanti, maintaining momentum through its early weeks.",
+          "According to tracking data from Sacnilk, the production pulled in robust figures across its initial weeks, translating into massive domestic and overseas totals. These numbers officially place it as the highest-grossing film in the entire franchise and a massive career high for Ajay Devgn."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Drishyam: The Conclusion is making its digital debut on Netflix on November 27, 2026, following a successful theatrical run that began on October 2. Directed by Abhishek Pathak and starring Ajay Devgn alongside returning and new cast members, the film arrives online after the expiry of a Madras High Court undertaking regarding remake rights disputes."
+        ]
+      }
+    ],
+    "facts": [
+      "Drishyam: The Conclusion releases on Netflix on November 27, 2026.",
+      "The film was released in theatres on October 2, 2026.",
+      "Abhishek Pathak directed the film.",
+      "Ajay Devgn, Tabu, Jaideep Ahlawat, Shriya Saran, and Prakash Raj star in the movie.",
+      "The film earned Rs 245.50 crore net in its opening week in India."
+    ],
+    "entities": {
+      "people": [
+        "Ajay Devgn",
+        "Tabu",
+        "Jaideep Ahlawat",
+        "Shriya Saran",
+        "Prakash Raj",
+        "Abhishek Pathak",
+        "Rajat Kapoor",
+        "Kamlesh Sawant",
+        "Vijay Salgaonkar",
+        "Meera Deshmukh"
+      ],
+      "titles": [
+        "Drishyam 3",
+        "Drishyam: The Conclusion",
+        "Drishyam"
+      ]
+    },
+    "keywords": [
+      "Drishyam 3 OTT release date",
+      "Ajay Devgn Drishyam 3 Netflix",
+      "Drishyam The Conclusion streaming",
+      "Abhishek Pathak Drishyam 3 box office"
+    ],
+    "images": [
+      {
+        "url": "https://images.timesnownews.com/thumb/msid-156570222,thumbsize-114943,width-1280,height-720,resizemode-75/156570222.jpg",
+        "caption": "Drishyam: The Conclusion Heads to Netflix Following Blockbuster Theatrical Run",
+        "source": "Times Now — Entertainment"
+      }
+    ],
+    "published": "2026-11-26T18:53:01Z"
+  },
+  "1rx9v7": {
+    "id": "1rx9v7",
+    "type": "news",
+    "headline": "The Further Mis-Adventures of Cliff Booth Crosses Initial Box Office Milestone in Theaters",
+    "dek": "Quentin Tarantino's newly written sequel has arrived in IMAX locations, bringing Brad Pitt back to the big screen under David Fincher's direction ahead of its Netflix premiere.",
+    "body": [
+      {
+        "h": "Theatrical Debut in IMAX",
+        "p": [
+          "The cinematic landscape continues to shift as streaming services embrace wide-reaching theatrical distributions during the awards season. In an unexpected turn of events, Netflix has partnered with IMAX to bring a major new feature to auditoriums nationwide before its official streaming debut next month.",
+          "Audiences eager for fresh cinematic experiences can currently catch the release across 251 domestic IMAX locations. This strategic rollout offers fans a premium large-format presentation of a high-profile title that bridges the gap between traditional theatrical exhibition and modern streaming convenience."
+        ]
+      },
+      {
+        "h": "A Sequel Born From a Creative Shift",
+        "p": [
+          "The project serves as a follow-up to the acclaimed 2019 feature Once Upon a Time in Hollywood, which stands as the most recent directorial effort from celebrated filmmaker Quentin Tarantino. While Tarantino originally penned the script for himself to direct, a conversation with his leading man altered those plans entirely.",
+          "Brad Pitt reminded the writer-director that helming this particular feature would officially mark his tenth and final career movie, adhering to a strict personal limit he has long imposed on his filmography. Consequently, Tarantino stepped away from the director's chair while keeping the details surrounding his ultimate swan song tightly under wraps."
+        ]
+      },
+      {
+        "h": "David Fincher Takes the Reins",
+        "p": [
+          "Following Tarantino's decision to step back, Pitt brought the screenplay to frequent creative collaborator David Fincher, who enthusiastically jumped on board to helm the production. Fincher brings extensive experience working alongside Netflix, having spent over a decade crafting notable movies and series for the streaming giant.",
+          "The resulting collaboration marries Tarantino's characteristic storytelling style with Fincher's precise aesthetic approach. The partnership successfully delivers a vehicle tailored specifically to highlight the enduring star power of its leading actor within a fresh narrative framework."
+        ]
+      },
+      {
+        "h": "Star-Studded Cast and Crew",
+        "p": [
+          "Reprising his Academy Award-winning role, Brad Pitt steps back into the shoes of the iconic character who navigates the complexities of the Hollywood studio system as a stuntman and fixer. Set eight years after the events of the original film, the story explores new dimensions of the entertainment industry.",
+          "Supporting the lead performance are Elizabeth Debicki and Yahya Abdul-Mateen II, who both signed on for pivotal roles in the narrative. Behind the scenes, the production brings together a powerhouse team of producers including Quentin Tarantino, Brad Pitt, David Heyman, Ceán Chaffin, Shannon McIntosh, and Stacey Sher."
+        ]
+      },
+      {
+        "h": "Initial Box Office Performance",
+        "p": [
+          "The feature officially debuted theatrically on November 25, pulling in an estimated $1 million at the box office on its first day. Industry projections indicate the movie is on track to generate around $5 million over the course of the extended Thanksgiving frame.",
+          "This early performance aligns closely with similar holiday theatrical windows utilized by Netflix in previous years. For comparison, Wake Up Dead Man: A Knives Out Mystery brought in $4 million around the same time last year across roughly 600 locations, while Glass Onion: A Knives Out Mystery grossed $15 million during a one-week run three years prior."
+        ]
+      },
+      {
+        "h": "Critical Reception and Streaming Future",
+        "p": [
+          "Critical response to the project has been overwhelmingly positive, helping the film secure a Certified Fresh rating and an 81% approval score on Rotten Tomatoes. Reviewers have praised the unique blend of zigzagging narrative flair and laser-focused direction.",
+          "Following its limited theatrical run in IMAX theaters, the movie is scheduled to make its global streaming debut on Netflix on December 23. This dual-distribution model allows fans to experience the picture on giant screens before it joins the platform's extensive library."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Quentin Tarantino's newly scripted sequel, directed by David Fincher and starring Brad Pitt, has debuted in IMAX theaters to an estimated $1 million on its opening day. The feature is projected to gross around $5 million over the Thanksgiving frame before transitioning to its December 23 streaming release on Netflix."
+        ]
+      }
+    ],
+    "facts": [
+      "Published on November 26, 2026",
+      "The Further Mis-Adventures of Cliff Booth was released in 251 IMAX locations on November 25, 2026",
+      "The film grossed an estimated $1 million at the box office on its opening day",
+      "The movie is projected to generate around $5 million over the Thanksgiving frame",
+      "Once Upon a Time in Hollywood was released in 2019",
+      "The film will debut on Netflix on December 23, 2026"
+    ],
+    "entities": {
+      "people": [
+        "Quentin Tarantino",
+        "Brad Pitt",
+        "David Fincher",
+        "Elizabeth Debicki",
+        "Yahya Abdul-Mateen II",
+        "Peter Weller",
+        "Timothy Olyphant",
+        "Rohan Naahar",
+        "Francois Ozon",
+        "Greta Gerwig"
+      ],
+      "titles": [
+        "The Further Mis-Adventures of Cliff Booth",
+        "Once Upon a Time in Hollywood",
+        "Narnia: The Magician's Nephew",
+        "Mank",
+        "The Killer",
+        "House of Cards",
+        "Mindhunter",
+        "Wake Up Dead Man: A Knives Out Mystery",
+        "Glass Onion: A Knives Out Mystery",
+        "La Bola Negra",
+        "The Mosquito Bowl"
+      ]
+    },
+    "keywords": [
+      "The Further Mis-Adventures of Cliff Booth",
+      "Quentin Tarantino Cliff Booth film",
+      "David Fincher movie Netflix",
+      "Brad Pitt Cliff Booth box office"
+    ],
+    "images": [
+      {
+        "url": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/11/the-further-mis-adventures-of-cliff-booth-carla-gugino.jpg?w=1600&amp;h=900&amp;fit=crop",
+        "caption": "The Further Mis-Adventures of Cliff Booth Crosses Initial Box Office Milestone in Theaters",
+        "source": "Collider"
+      }
+    ],
+    "published": "Thu, 26 Nov 2026 18:07:07 GMT"
+  },
+  "pjkxno": {
+    "id": "pjkxno",
+    "type": "news",
+    "headline": "Hamza Ali Abbasi Controversy Sparks Boycott Demands for Netflix's Jo Bachay Hain Sang Samait Lo in India",
+    "dek": "An archival photograph of Pakistani actor Hamza Ali Abbasi alongside UN-designated terrorist Hafiz Saeed has resurfaced online, triggering intense backlash and calls from Indian audiences and industry bodies to boycott the upcoming streaming series.",
+    "body": [
+      {
+        "h": "Resurfaced Photograph Triggers Outrage",
+        "p": [
+          "An archival photograph featuring Pakistani actor Hamza Ali Abbasi alongside Hafiz Saeed has recently resurfaced across social media platforms. The image, which stems from a television interview conducted in 2017, gained widespread attention online just days before the scheduled December 4 streaming premiere of a major new production.",
+          "The online discovery quickly escalated beyond typical social media debate because Saeed is recognized globally as a UN-designated terrorist and the founder of Lashkar-e-Taiba. India consistently holds him accountable for orchestrating large-scale terror attacks, most notably the 26/11 Mumbai attacks, which claimed 166 lives."
+        ]
+      },
+      {
+        "h": "Past Comments Draw Sharp Criticism",
+        "p": [
+          "The controversy deepened as users shared historical social media captions and posts attributed to Hamza Ali Abbasi. In these past remarks, the actor described Saeed as one of the nicest and most polite individuals he had encountered, characterizing him at the time as a heavily misunderstood figure in Pakistan.",
+          "Additional old posts highlighted by online commentators showed the actor defending Saeed's charitable endeavors and referring to him as a righteous person. This historical commentary provoked severe reactions from Indian users who asserted that public expressions of praise for such a figure cannot be divorced from his documented record of terrorism."
+        ]
+      },
+      {
+        "h": "Domestic and Cross-Border Reactions",
+        "p": [
+          "The backlash has not been confined to Indian social media, as critical voices have also emerged from within Pakistan. Lawyer and author Muneeb Qadir took to the platform X to express that Abbasi needed to clear the air and offer an apology for his previous remarks praising Saeed.",
+          "This domestic critique drew notice because it aligned with the core objections raised by numerous Indian users amid an atmosphere of heightened political sensitivity surrounding cross-border cultural matters."
+        ]
+      },
+      {
+        "h": "Netflix Series Faces Intense Pressure",
+        "p": [
+          "The project at the center of the storm is Jo Bachay Hain Sang Samait Lo, which is being promoted as Netflix's inaugural Pakistani original series. The production boasts a prominent ensemble cast featuring Fawad Khan and Mahira Khan, both of whom have previously worked in Indian cinema and maintain substantial popularity among Indian viewers.",
+          "As the boycott movement gained momentum, the focus shifted from general entertainment discussions to Netflix's corporate strategy of distributing Pakistani-origin content within the Indian market."
+        ]
+      },
+      {
+        "h": "Industry Bodies and Government Stance",
+        "p": [
+          "In response to the growing controversy, film industry organizations such as the All Indian Cine Workers Association have formally urged the streaming platform to completely remove the series from its Indian catalog.",
+          "Concurrently, government officials have reminded Netflix of an existing advisory regarding Pakistani-origin content that was issued following the Pahalgam terror attack. Authorities have reportedly asked the platform to uphold previous commitments ensuring that no films or series from Pakistan would be made available to subscribers in India."
+        ]
+      },
+      {
+        "h": "Platform Silence and Broader Debate",
+        "p": [
+          "Despite the intensifying pressure and the approaching premiere date, Netflix has not issued any public statements altering its release plans for the Indian market.",
+          "The unfolding situation has thrust the streaming series into the middle of a much larger conversation concerning digital entertainment, cross-border cultural exchange, and national security concerns."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "An old photograph of Pakistani actor Hamza Ali Abbasi with UN-designated terrorist Hafiz Saeed resurfaced online ahead of the December 4 premiere of Netflix's Jo Bachay Hain Sang Samait Lo. This discovery sparked calls from Indian users and industry bodies to boycott the series, while government officials reminded the platform of advisories regarding Pakistani-origin content. Netflix has not announced any changes to its release plans amidst the growing controversy."
+        ]
+      }
+    ],
+    "facts": [
+      "The old photograph of Hamza Ali Abbasi and Hafiz Saeed is linked to a 2017 television interview.",
+      "Jo Bachay Hain Sang Samait Lo is scheduled to premiere on December 4.",
+      "Hafiz Saeed is a UN-designated terrorist and founder of Lashkar-e-Taiba.",
+      "The 26/11 Mumbai attacks resulted in 166 deaths.",
+      "Muneeb Qadir is a lawyer and author who commented on the issue on X.",
+      "Jo Bachay Hain Sang Samait Lo is Netflix's first Pakistani original series."
+    ],
+    "entities": {
+      "people": [
+        "Hamza Ali Abbasi",
+        "Hafiz Saeed",
+        "Muneeb Qadir",
+        "Fawad Khan",
+        "Mahira Khan"
+      ],
+      "titles": [
+        "Jo Bachay Hain Sang Samait Lo"
+      ]
+    },
+    "keywords": [
+      "Jo Bachay Hain Sang Samait Lo",
+      "Hamza Ali Abbasi Hafiz Saeed photo",
+      "Netflix Pakistani series boycott",
+      "Fawad Khan Mahira Khan Netflix"
+    ],
+    "images": [
+      {
+        "url": "https://images.filmibeat.com/img/2026/11/hamzahafizfeature-78861795717341.jpg",
+        "caption": "Hamza Ali Abbasi Controversy Sparks Boycott Demands for Netflix's Jo Bachay Hain Sang Samait Lo in India",
+        "source": "FilmiBeat"
+      }
+    ],
+    "published": "Thu, 26 Nov 2026 23:55:03 +0530"
+  },
+  "1nk6sk9": {
+    "id": "1nk6sk9",
+    "type": "news",
+    "headline": "Focker-In-Law Director Teases Potential Fifth Movie After Ariana Grande Cliffhanger",
+    "dek": "Following the theatrical release of the fourth installment in the Meet the Parents franchise, director John Hamburg opens up about the prospects of developing a fifth film.",
+    "body": [
+      {
+        "h": "Continuing a Billion-Dollar Legacy",
+        "p": [
+          "Robert De Niro remains a prominent cinematic fixture in the 21st century, continuing to build an eclectic filmography that ranges from gritty crime dramas to major comedy hits. Throughout his legendary career, he has balanced iconic dramatic performances with memorable comedic roles.",
+          "His involvement in the Meet the Parents series stands out as a major financial achievement, contributing heavily to a franchise that has crossed the one billion dollar mark globally across its previous entries."
+        ]
+      },
+      {
+        "h": "A Fresh Chapter With New Faces",
+        "p": [
+          "On November 25, 2026, Robert De Niro reunited with longtime co-star Ben Stiller for the fourth movie in the beloved comedy saga, titled Focker-In-Law.",
+          "This latest chapter introduces fresh blood into the dynamic, featuring Superman star Skyler Gisondo and Wicked star Ariana Grande as a pair of young lovers joining the chaotic family dynamic."
+        ]
+      },
+      {
+        "h": "Teasing a Potential Fifth Film",
+        "p": [
+          "With the fourth movie now playing in cinemas, discussions are already revolving around the possibility of a fifth installment. Director John Hamburg spoke about the potential continuation of the franchise following the recent release.",
+          "The latest film concludes with a distinct cliffhanger, as Ariana Grande's character Olivia suggests it is time to meet her own family after getting approval from Ben Stiller's Greg."
+        ]
+      },
+      {
+        "h": "Director Open to Future Conversations",
+        "p": [
+          "While a script for a fifth movie does not currently exist, Hamburg expressed a much different sentiment compared to the aftermath of the third installment. Following the release of Little Fockers in 2010, the creative team felt an exhaustive need for a lengthy hiatus.",
+          "In contrast, the enjoyable experience of making the latest film has left the door open for future possibilities, contingent upon audience demand as the movie plays in theaters."
+        ]
+      },
+      {
+        "h": "Brainstorming on Set",
+        "p": [
+          "During production, Hamburg, Stiller, and Grande spent time discussing imaginative ideas regarding who might portray Olivia's mysterious family members in a subsequent story.",
+          "Although the director chose to keep those specific creative brainstorming sessions under wraps, the playful speculation highlights the enthusiasm surrounding the expanding fictional universe."
+        ]
+      },
+      {
+        "h": "Box Office and Critical Reception",
+        "p": [
+          "Focker-In-Law entered its theatrical run with mixed early reception, registering a 29% Tomatometer rating on Rotten Tomatoes as of November 26, 2026. Despite the critical divide, this score represents an improvement over the previous franchise entry.",
+          "Universal Pictures distributed the PG-13 comedy, which features a runtime of 105 minutes and brings back familiar faces alongside the franchise newcomers."
+        ]
+      },
+      {
+        "h": "Future Prospects for the Cast",
+        "p": [
+          "Should Universal Pictures greenlight another sequel, both Gisondo and Grande would likely anchor the narrative alongside the established veteran cast. Their ongoing involvement would bridge the generational divide established in the fourth movie.",
+          "However, scheduling logistics could present a challenge given both younger stars' extensive professional commitments, including upcoming superhero projects and concert tour features."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Director John Hamburg has addressed the possibility of a fifth film following the recent theatrical release of Focker-In-Law on November 25, 2026. While no script has been written yet, the positive on-set experience leaves the creative team open to continuing the comedy franchise if audience interest remains strong."
+        ]
+      }
+    ],
+    "facts": [
+      "Focker-In-Law was released on November 25, 2026.",
+      "The film has a 29% Tomatometer rating on Rotten Tomatoes as of November 26, 2026.",
+      "Focker-In-Law has a runtime of 105 minutes.",
+      "John Hamburg directed Focker-In-Law."
+    ],
+    "entities": {
+      "people": [
+        "Robert De Niro",
+        "Ben Stiller",
+        "Skyler Gisondo",
+        "Ariana Grande",
+        "John Hamburg",
+        "Owen Wilson"
+      ],
+      "titles": [
+        "Focker-In-Law",
+        "Meet the Parents",
+        "Little Fockers",
+        "The Godfather Part II",
+        "Raging Bull",
+        "Goodfellas",
+        "Joker",
+        "The Irishman",
+        "Wicked"
+      ]
+    },
+    "keywords": [
+      "Focker-In-Law film",
+      "John Hamburg Focker-In-Law",
+      "Ariana Grande Focker-In-Law",
+      "Robert De Niro Ben Stiller"
+    ],
+    "images": [
+      {
+        "url": "https://static0.moviewebimages.com/wordpress/wp-content/uploads/2024/02/robert-de-niro-as-jack-in-meet-the-fockers.jpg?w=1200&amp;h=675&amp;fit=crop",
+        "caption": "Focker-In-Law Director Teases Potential Fifth Movie After Ariana Grande Cliffhanger",
+        "source": "MovieWeb"
+      }
+    ],
+    "published": "Thu, 26 Nov 2026 18:31:28 GMT"
   }
 };
