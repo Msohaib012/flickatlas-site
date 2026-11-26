@@ -258701,5 +258701,351 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Thu, 26 Nov 2026 16:35:12 -0500"
+  },
+  "1dev5kz": {
+    "id": "1dev5kz",
+    "type": "news",
+    "headline": "Ramayana: Part 1 Enters Day 23 Amid Steady Theatrical Run",
+    "dek": "An overview of Ramayana: Part 1 as it navigates its twenty-third day in theaters, bringing in massive totals across domestic and overseas markets.",
+    "body": [
+      {
+        "h": "The Journey Into Week Four",
+        "p": [
+          "As Ramayana: Part 1 steps into its twenty-third day at the box office, tracking the cinematic venture reveals an ongoing saga of ticket sales across multiple regions. Trade analysts and tracking portals are currently evaluating the latest numbers for the film, monitoring how it sustains audience interest deep into its theatrical run.",
+          "The project has maintained a constant presence in cinemas since its grand opening, continually drawing crowds even as it faces the typical weekday drops that characterize extended cinematic releases."
+        ]
+      },
+      {
+        "h": "Breaking Down the Multi-Language Earnings",
+        "p": [
+          "The theatrical journey of the film began with a phenomenal opening day grossing 62.5 crore rupees net across all languages, anchored notably by 45 crore rupees from its Hindi version alone. Kannada, Telugu, Tamil, and Malayalam markets also contributed substantially during the initial launch, proving the broad multi-linguistic appeal of the title.",
+          "Over the following weeks, collections fluctuated through weekdays and surged on weekends. The first week concluded with a massive total, followed by strong performances in week two and week three, demonstrating sustained viewer turnout across diverse language circuits."
+        ]
+      },
+      {
+        "h": "Occupancy Trends Across Regions",
+        "p": [
+          "Audience occupancy rates for the Hindi version have displayed notable peaks and valleys throughout the screening schedule. Early days saw soaring numbers, particularly during night shows and select weekday spikes where occupancy surged past seventy percent in various regions.",
+          "While the subsequent weeks cooled down with standard lower percentages during morning slots, evening and night show metrics consistently attracted loyal segments of the audience back to the big screen."
+        ]
+      },
+      {
+        "h": "Domestic and Worldwide Totals",
+        "p": [
+          "The cumulative financial performance of the feature has reached remarkable milestones. Total India net figures currently stand at an estimated 981.95 crore rupees, while the gross domestic collections touch an impressive 1158.7 crore rupees.",
+          "International markets have further bolstered the success of the release, pulling in an estimated 62 million dollars, which translates to approximately 586 crore rupees. When combining all domestic and overseas streams, the worldwide earnings cross an astonishing 1744.7 crore rupees."
+        ]
+      },
+      {
+        "h": "Commercial Verdict and Standing",
+        "p": [
+          "Industry assessments and trade trackers have officially categorized the cinematic venture with a resounding hit verdict. The scale of the earnings places it among the prominent commercial highlights of the release calendar.",
+          "Even as daily estimates continue to update, the overall financial footprint established by the title over more than three weeks confirms its major status in contemporary cinema."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Ramayana: Part 1 continues its theatrical journey on day 23 with ongoing tracking of its box office performance. The film has accumulated a massive worldwide total of 1744.7 crore rupees, securing a hit verdict and strong multi-language numbers."
+        ]
+      }
+    ],
+    "facts": [
+      "Ramayana: Part 1 is on its Day 23 box office run.",
+      "Day 1 collection was 62.5 crore rupees net.",
+      "India Net collection stands at 981.95 crore rupees.",
+      "India Gross collection stands at 1158.7 crore rupees.",
+      "Overseas collection is 62 million dollars or 586 crore rupees.",
+      "Worldwide total is 1744.7 crore rupees.",
+      "The film has received a HIT box office verdict."
+    ],
+    "entities": {
+      "titles": [
+        "Ramayana: Part 1"
+      ]
+    },
+    "keywords": [
+      "Ramayana: Part 1",
+      "Ramayana Part 1 box office",
+      "Ramayana Day 23 collection",
+      "Ramayana Part 1 earnings"
+    ],
+    "images": [],
+    "published": "2026-11-27T01:56:17.325+05:30"
+  },
+  "ck34q2": {
+    "id": "ck34q2",
+    "type": "news",
+    "headline": "Survivor Season 51 Episode 10 Recap: The Quiet Mastery of Sharonda",
+    "dek": "Sharonda takes total command of the island in a masterclass of manipulation, while Mike secures immunity and strategic misdirections send players scrambling.",
+    "body": [
+      {
+        "h": "The Iron Grip of Stealth Strategy",
+        "p": [
+          "Season 51 episode 10 of Survivor, titled 'Sorting Hogs', brings to light a stark reality that most contestants fail to notice: one player has taken absolute control of the board. Tribal Councils in the current era rely heavily on cryptic metaphors, masking actual gameplay behind abstract descriptions of bands or chess pieces. Amid these linguistic acrobatics, Thien An drops a crucial comparison during the second Tribal Council about pawns and queens, unaware that it perfectly outlines Sharonda's trajectory.",
+          "While others posture or stumble through their relationships, Sharonda operates from the shadows with incredible precision. Her core philosophy centers entirely on maintaining her path while keeping every single player convinced they are on her side. Rather than drawing a target on her back with loud moves, she functions like an information broker, utilizing collected secrets to subtly steer outcomes without ever appearing to pull the heavy levers."
+        ]
+      },
+      {
+        "h": "The Fallout of Fake Idols and Honesty",
+        "p": [
+          "The episode opens in the immediate wake of Lewis being eliminated entirely by Mr. Beast, bypassing the usual beachside scrambling sessions due to the disruptive nature of coin flips. Devin laments the consequences of his so-called weaponized honesty, realizing that telling truths in an environment of universal deceit acts like a sharp shiv. His troubles compound further when Maggie catches him red-handed with a fake idol, leading to a showdown where Maggie plays the part of an unconvinced parent dealing with a clumsy liar.",
+          "Sensing the brewing hostility, Sharonda steps in as an information collector, warning Devin that his survival hinges entirely on winning the upcoming immunity challenge. The camp quickly divides along distinct factional lines. Maggie, Cristian, Carter, and Thien An target Devin due to his dishonesty and his close bond with Jelly, while Devin, Jelly, Eric, and Mike align to plot Maggie's downfall."
+        ]
+      },
+      {
+        "h": "Endurance, Distractions, and Another Immunity Win",
+        "p": [
+          "The immunity challenge offers a familiar physical test where competitors must balance a ball on a wooden surface using two ropes while standing on an increasingly narrow balance beam. Though Thien An expresses confusion over the routine test, the participants settle into a grueling battle of focus. Maggie and Devin turn the sideline into a comedy routine by chatting loudly about fast-food orders, while Maggie dedicates individual minutes of her endurance to an eclectic list of figures ranging from her father to Lizzo.",
+          "Ultimately, Mike outlasts the competition to claim victory once again. In his confessional, he leans into corporate jargon to celebrate his status as a two-time individual immunity winner. Back at camp, Mike and Carter forge a quick alliance, shaking hands on a deal to remain each other's number-one priority through to the end of the game while planning to use Devin and Jelly as temporary shields."
+        ]
+      },
+      {
+        "h": "A Shocking Blindside at Tribal Council",
+        "p": [
+          "Sharonda executes her strategic vision by employing weaponized dishonesty to fracture opposing groups. She feeds information to Cristian, falsely claiming that Maggie and Thien An are gunning for him and Carter. To the surprise of viewers who expected her to play it safe, her manipulation hits its mark. Cristian and Carter buy the narrative completely, leading a blindside vote that sends Maggie packing.",
+          "Maggie exits the game with immense grace and enthusiasm, thoroughly delighted by the vote against her. Meanwhile, Thien An finds herself completely out of the loop, retreating to a boat to shed tears while Christian attempts comfort. The vote solidifies Sharonda's standing, proving her capability to orchestrate major eliminations while keeping her own hands remarkably clean."
+        ]
+      },
+      {
+        "h": "Foot-Chores and Fumbling Alliances",
+        "p": [
+          "The second challenge of the episode takes a bizarre turn as contestants must arrange blocks using only their feet. Cristian reveals a surprising aptitude for the task, crediting a childhood where his father forced him to complete chores with his feet following a prophetic dream about a wise monkey in a papaya tree. Despite this quirky victory, the strategic landscape back at camp remains intensely volatile.",
+          "Mike attempts to navigate the shifting powers by speaking with Sharonda, Devin, and Jelly, but he quickly stumbles. The group realizes Carter holds a hidden immunity idol, and they plot to blindside him. When Mike worries that Carter might catch wind of the plan and play his idol, Sharonda sharply questions his loyalty, exposing Mike's tendency to cozy up to whichever center of power seems most advantageous at the moment."
+        ]
+      },
+      {
+        "h": "Cowardice Versus True Momentum",
+        "p": [
+          "Mike's gameplay stands in stark contrast to Sharonda's decisive momentum. While Mike could have gone aggressive to solidify his bond with Carter by warning him about the idol, he ultimately folds under pressure to protect his own position. Fearing the wrath of the majority, Mike rolls over at Tribal Council and sends Carter home with an idol burning a hole in his pocket, despite having sworn allegiance to him just hours earlier.",
+          "Sharonda closes out the episode standing as the undisputed puppet master of the island. Her ability to keep unpopular allies close while directing the vote leaves her in a commanding position heading toward the final five. Unless the remaining players pool their observations to realize she is manipulating every single one of them, Sharonda's path to the end looks remarkably secure."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Season 51 episode 10 of Survivor showcases Sharonda taking firm control of the game through masterful manipulation and strategic misdirection. Following Devin's struggles with honesty and Mike's repeated immunity victories, Sharonda successfully orchestrates major blindsides while keeping her allies in the dark. The episode cements her status as the primary strategic threat on the island as the competition narrows."
+        ]
+      }
+    ],
+    "facts": [
+      "Survivor Season 51 Episode 10 is titled Sorting Hogs",
+      "Thien An used a metaphor about chess during the second Tribal Council",
+      "Lewis was voted out by Mr. Beast prior to the episode",
+      "Mike won the individual immunity challenge",
+      "Maggie was voted out at the first Tribal Council of the episode",
+      "Carter was voted out with an idol in his pocket"
+    ],
+    "entities": {
+      "people": [
+        "Sharonda",
+        "Thien An",
+        "Lewis",
+        "Mr. Beast",
+        "Devin",
+        "Maggie",
+        "Elizabeth Holmes",
+        "Mike",
+        "Dick Wolf",
+        "Cristian",
+        "Carter",
+        "Jelly",
+        "Eric",
+        "Brody Brady",
+        "Sandra Diaz-Twine"
+      ],
+      "titles": [
+        "Survivor",
+        "Law & Order",
+        "Law & Order: SVU"
+      ]
+    },
+    "keywords": [
+      "Survivor Sorting Hogs",
+      "Survivor Season 51 Episode 10",
+      "Sharonda Survivor",
+      "Maggie Survivor elimination"
+    ],
+    "images": [
+      {
+        "url": "https://pyxis.nymag.com/v1/imgs/142/c2d/bfca771c0e728e248e162b887b76180d28-survivor.1x.rsocial.w1200.jpg",
+        "caption": "Survivor Season 51 Episode 10 Recap: The Quiet Mastery of Sharonda",
+        "source": "Vulture"
+      }
+    ],
+    "published": "2026-11-26T02:30:49.604Z"
+  },
+  "1e4pysf": {
+    "id": "1e4pysf",
+    "type": "news",
+    "headline": "Marvel Drops New Avengers Doomsday Teaser Highlighting Magneto and Doctor Doom Showdown",
+    "dek": "A fresh promotional spot for Avengers: Doomsday reveals a tense encounter between Ian McKellen's Magneto and Robert Downey Jr.'s Doctor Doom, alongside emotional tributes planned for the late Patrick Stewart.",
+    "body": [
+      {
+        "h": "A Brief Yet Intense Preview",
+        "p": [
+          "Marvel Studios has released a brand-new television teaser for Avengers: Doomsday, offering audiences a quick glimpse into an unexpected confrontation between two heavyweights. The 15-second spot focuses heavily on a face-off between Ian McKellen's character and Robert Downey Jr.'s villainous role. The promotional footage immediately caught the attention of comic book enthusiasts worldwide, sparking intensive discussions across online fan communities regarding how the narrative will unfold upon its theatrical arrival.",
+          "The short clip wastes no time establishing high stakes as the veteran mutant leader confronts his adversary directly. Although the sequence lasts only a brief moment, it establishes a palpable sense of conflict that has become a hallmark of the expansive cinematic franchise. Fans dissecting the footage frame by frame have pointed out several subtle details that hint at complex plot developments tying into the overarching multiverse storyline."
+        ]
+      },
+      {
+        "h": "The Clash Between Metal and Magic",
+        "p": [
+          "During the teaser sequence, McKellen's Magneto describes his opponent ominously as both pain and extinction before attempting to rip the antagonist's metal mask off using his signature abilities. As the metallic headpiece begins to shift, a fleeting look at the scarred face underneath is revealed to the audience. However, glowing green energy abruptly intervenes, keeping the mask firmly in place and halting the magnetic manipulation.",
+          "This defensive display has triggered widespread speculation that Doctor Doom is relying on sorcery to counteract the mutant's powers. Since the iconic villain is traditionally known for mastering both advanced science and dark magic, this mystical countermeasure provides a logical explanation for how his metallic armor remains protected. Furthermore, the quick interaction suggests that the antagonist's abilities might even be interfering with Magneto's powers during their brief exchange."
+        ]
+      },
+      {
+        "h": "Unveiling the Villain's Scars",
+        "p": [
+          "The momentary removal of the mask also offers viewers a direct look at the facial scarring that has defined the character throughout his comic book history. While the severity and exact origin of these physical blemishes have varied across different storytelling iterations over the decades, this adaptation appears ready to honor those classic visual traits. The quick preview gives fans an early indication of how faithfully the production intends to portray the formidable antagonist on the big screen.",
+          "Beyond the personal conflict between the two characters, the footage also showcases other heroes present at the same location. Additional glimpses suggest multiversal destruction and point toward a connection with the TVA, reinforcing expectations that the upcoming blockbuster will deal heavily with colliding timelines and alternate realities affecting the wider cinematic universe."
+        ]
+      },
+      {
+        "h": "Honoring a Franchise Legend",
+        "p": [
+          "In addition to the action-packed sequences, the release of the teaser coincides with deeply emotional revelations surrounding the late Patrick Stewart. The respected actor is set to make his final on-screen appearance as Professor X in Avengers: Doomsday, following his passing last month after a battle with Alzheimer's disease and Lewy Body Dementia. Studio executives and filmmakers have confirmed that the project will feature a dedicated tribute to honor his immense contributions.",
+          "Marvel Studios president Kevin Feige shared memories of Stewart on set, recalling how the actor delivered a speech to the crew that implied he understood it might be his final day filming. Director Anthony and Joe Russo also reflected on the intense emotional experience of working alongside him while he managed his health challenges. The return of both Stewart and McKellen carries profound meaning for longtime followers of the extended franchise."
+        ]
+      },
+      {
+        "h": "Release Details and Legacy",
+        "p": [
+          "The foundational legacy established by both legendary actors has anchored the X-Men film series for decades, making their inclusion in this crossover event a momentous occasion for supporters. As anticipation continues to build, the studio has locked in official theatrical debut plans for the winter season.",
+          "Avengers: Doomsday is scheduled to hit theaters globally on December 18, 2026, with audiences in India getting an opportunity to watch the film a day earlier on December 17, 2026. With high-profile face-offs, multiversal chaos, and touching farewells on the horizon, the project stands as one of the most eagerly anticipated cinematic events of its release year."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "A new promotional TV spot for Avengers: Doomsday showcases an intense confrontation between Ian McKellen's Magneto and Robert Downey Jr.'s Doctor Doom, teasing the villain's magical defenses and facial scars. Concurrently, Marvel Studios prepares to honor the late Patrick Stewart, who makes his final on-screen appearance as Professor X in the film scheduled to release in December 2026."
+        ]
+      }
+    ],
+    "facts": [
+      "The new Avengers: Doomsday teaser is a 15-second TV spot.",
+      "Ian McKellen portrays Magneto in the film.",
+      "Robert Downey Jr. portrays Doctor Doom in the film.",
+      "Patrick Stewart makes his final on-screen appearance as Professor X in the film.",
+      "Patrick Stewart passed away last month after a fight with Alzheimer's disease and Lewy Body Dementia.",
+      "Avengers: Doomsday will be released in theatres on December 18, 2026, and a day earlier in India on December 17."
+    ],
+    "entities": {
+      "people": [
+        "Ian McKellen",
+        "Robert Downey Jr.",
+        "Patrick Stewart",
+        "Kevin Feige",
+        "Anthony Russo",
+        "Joe Russo",
+        "Mimansa Shekhar"
+      ],
+      "titles": [
+        "Avengers: Doomsday"
+      ]
+    },
+    "keywords": [
+      "Avengers Doomsday",
+      "Magneto Doctor Doom teaser",
+      "Ian McKellen Robert Downey Jr",
+      "Patrick Stewart Professor X"
+    ],
+    "images": [
+      {
+        "url": "https://images.timesnownews.com/thumb/msid-156570434,thumbsize-878667,width-1280,height-720,resizemode-75/156570434.jpg",
+        "caption": "Marvel Drops New Avengers Doomsday Teaser Highlighting Magneto and Doctor Doom Showdown",
+        "source": "Times Now — Entertainment"
+      }
+    ],
+    "published": "2026-11-26T22:31:40Z"
+  },
+  "s3my4o": {
+    "id": "s3my4o",
+    "type": "news",
+    "headline": "Tony Romo Takes On Chief Predictions Officer Role at Jake Paul Backed Betr App",
+    "dek": "Following his departure from CBS Sports after a nine-year tenure, the former NFL quarterback has officially transitioned into a prominent new position within the sports gaming industry.",
+    "body": [
+      {
+        "h": "Joining the Betr Platform",
+        "p": [
+          "Former Dallas Cowboys quarterback Tony Romo has officially secured a brand new professional chapter. He is stepping into the sports betting sector as the new chief predictions officer for Betr, which is widely recognized as a real-money gaming super application. This significant career move was shared publicly just ahead of Thanksgiving through an announcement on the social media platform X, where the former athlete happily told followers about his return.",
+          "His appointment marks a major milestone for the gaming platform, which was originally established by founders Joey Levy and Jake Paul. In his new capacity, Romo is expected to utilize the analytical instincts he honed over decades in professional athletics. The company plans to leverage his well-known persona to drive fan engagement and expand its footprint in the competitive sports wagering marketplace."
+        ]
+      },
+      {
+        "h": "The Core Responsibilities",
+        "p": [
+          "While exact operational details regarding his daily duties remain slightly broad, corporate representatives have outlined a clear framework for his involvement. The organization noted that the veteran quarterback will function as a primary ambassador for the brand. He is slated to make appearances in various original media productions, offer specialized sports forecasts, and interact directly with consumers across the expanding gaming ecosystem.",
+          "Company leadership expressed immense enthusiasm regarding the collaboration, pointing to his long-standing reputation for accurately forecasting plays on the field and during broadcasts. Executives believe his sharp intuition aligns perfectly with the core foundation of their interactive platform, offering a unique avenue to connect with sports enthusiasts nationwide."
+        ]
+      },
+      {
+        "h": "Departure From CBS Sports",
+        "p": [
+          "This high-profile corporate partnership follows closely on the heels of Romo exiting his prominent role at CBS Sports. He had previously spent nine years serving as the lead NFL game analyst for the network, becoming a familiar voice for millions of professional football viewers during Sunday broadcasts. However, his tenure at the network came to a formal conclusion in early October.",
+          "At the time of his departure, both parties mutually agreed to part ways. This decision arrived despite earlier indications from the former quarterback that he intended to resume his broadcasting duties at the network once circumstances permitted. His departure effectively closed a major chapter in his post-playing career within sports television media."
+        ]
+      },
+      {
+        "h": "Background on the Legal Trouble",
+        "p": [
+          "The television exit was preceded by a series of legal events that unfolded during the summer months. On July 23, the former athlete was taken into custody in Wisconsin under suspicion of operating while intoxicated. This incident prompted swift action from his former employer, resulting in an initial suspension from his broadcasting responsibilities on July 31.",
+          "By September, the situation progressed further when he entered a no contest plea regarding the OWI charge. Following the legal proceedings, he issued a public statement addressing his personal struggles, specifically acknowledging an over-reliance on alcohol during that turbulent period in his life."
+        ]
+      },
+      {
+        "h": "Reflecting on Football and Resilience",
+        "p": [
+          "In the wake of these challenging developments, the former NFL star reflected publicly on the profound impact that the sport of football has had on his personal and professional journey. He emphasized that playing the game for more than two decades shaped nearly every meaningful aspect of his existence, teaching him invaluable lessons about camaraderie and perseverance.",
+          "He noted that competitive athletics instilled in him the power of human relationships, the strength found in teamwork, and the necessary resilience to confront failure honestly. He described this transitional phase in his life as a moment to lean heavily on those foundational lessons to move forward with renewed determination."
+        ]
+      },
+      {
+        "h": "Looking Toward the Future",
+        "p": [
+          "Looking ahead, the former quarterback appears eager to channel his analytical mindset into this fresh corporate endeavor. Having spent his entire professional life anticipating tactical movements on the gridiron and inside the commentary booth, he views this digital gaming venture as an ideal outlet to apply those instincts differently.",
+          "With his official announcement already generating widespread attention across social media and sports circles, all eyes will be on how effectively his television charisma translates into the fast-paced realm of mobile sports betting and digital prediction markets."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Tony Romo has joined the sports betting platform Betr as its chief predictions officer following his departure from CBS Sports earlier in the year. The move comes after a Wisconsin OWI arrest and a subsequent no contest plea in September, which ultimately led to a mutual parting of ways with his former network. Now partnering with founders Joey Levy and Jake Paul, the former NFL quarterback plans to feature in original content and deliver sports forecasts for the gaming application."
+        ]
+      }
+    ],
+    "facts": [
+      "Tony Romo served as lead NFL game analyst for CBS Sports for nine years.",
+      "Tony Romo joined Betr as chief predictions officer.",
+      "Betr was founded by Joey Levy and Jake Paul.",
+      "Tony Romo was arrested in Wisconsin on suspicion of OWI on July 23.",
+      "CBS suspended Tony Romo on July 31.",
+      "Tony Romo pleaded no contest to the OWI charge in September.",
+      "Tony Romo and CBS mutually agreed to part ways in early October.",
+      "Tony Romo announced his new job on X on November 25, 2026."
+    ],
+    "entities": {
+      "people": [
+        "Tony Romo",
+        "Jake Paul",
+        "Joey Levy"
+      ],
+      "titles": []
+    },
+    "keywords": [
+      "Tony Romo Betr",
+      "Tony Romo chief predictions officer",
+      "Tony Romo CBS Sports exit",
+      "Jake Paul Betr app"
+    ],
+    "images": [
+      {
+        "url": "https://www.thewrap.com/wp-content/uploads/2026/08/Untitled-design-2026-08-27T194843.780.jpg",
+        "caption": "Tony Romo Takes On Chief Predictions Officer Role at Jake Paul Backed Betr App",
+        "source": "TheWrap"
+      }
+    ],
+    "published": "Thu, 26 Nov 2026 21:33:29 +0000"
   }
 };
