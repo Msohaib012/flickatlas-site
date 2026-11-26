@@ -92,6 +92,14 @@ window.FA_OTT = {
       "type": "movie"
     },
     {
+      "country": "US",
+      "date": "2026-11-25",
+      "date_kind": "digital",
+      "id": 1814378,
+      "providers": [],
+      "type": "movie"
+    },
+    {
       "country": "FR",
       "date": "2026-11-25",
       "date_kind": "digital",
@@ -103,7 +111,7 @@ window.FA_OTT = {
       "country": "US",
       "date": "2026-11-25",
       "date_kind": "digital",
-      "id": 1814378,
+      "id": 1828420,
       "providers": [],
       "type": "movie"
     },
@@ -118,14 +126,6 @@ window.FA_OTT = {
           "name": "M6+"
         }
       ],
-      "type": "movie"
-    },
-    {
-      "country": "US",
-      "date": "2026-11-25",
-      "date_kind": "digital",
-      "id": 1828420,
-      "providers": [],
       "type": "movie"
     },
     {

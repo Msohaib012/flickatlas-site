@@ -17828,16 +17828,18 @@ window.FA_PUBLISHED = {
     "title": "Hexed",
     "poster_path": "/yykeYKbDBM9eUMJUucaaDo2mi1p.jpg",
     "backdrop_path": "/wdjW11Tp4w9EfDBxbjyBJvDVHDA.jpg",
-    "vote_average": 7.4,
-    "vote_count": 9,
+    "vote_average": 6.3,
+    "vote_count": 16,
     "overview": "An impulsive and unconventional teenage girl named Billie discovers secret magical abilities which, once unleashed, hurtle her into a spectacle-filled journey out of suburbia and into a vast witch realm called Hexe. Forced to team up with her cautious mother, Alice, they uncover family mysteries that could change the world of witches forever.",
     "industry": "world",
     "original_language": "en",
     "origin_country": [
-      "US"
+      "US",
+      "CA"
     ],
     "production_countries": [
-      "US"
+      "US",
+      "CA"
     ],
     "spoken_languages": [
       "en"
@@ -17847,7 +17849,7 @@ window.FA_PUBLISHED = {
     "status": "Released",
     "providers": [],
     "release_date": "2026-11-25",
-    "popularity": 58.7667
+    "popularity": 69.8904
   },
   "1765072": {
     "id": 1765072,
@@ -31981,7 +31983,7 @@ window.FA_PUBLISHED = {
     "status": "Released",
     "providers": [],
     "release_date": "2026-11-25",
-    "popularity": 0.2884
+    "popularity": 0.3091
   },
   "1551025": {
     "id": 1551025,
@@ -32072,7 +32074,7 @@ window.FA_PUBLISHED = {
     "status": "Released",
     "providers": [],
     "release_date": "2026-11-25",
-    "popularity": 0.4345
+    "popularity": 0.5229
   },
   "1502759": {
     "id": 1502759,
@@ -32124,7 +32126,7 @@ window.FA_PUBLISHED = {
     "status": "Released",
     "providers": [],
     "release_date": "2026-11-25",
-    "popularity": 0.1621
+    "popularity": 0.402
   },
   "1244809": {
     "id": 1244809,
@@ -32178,7 +32180,7 @@ window.FA_PUBLISHED = {
     "status": "Released",
     "providers": [],
     "release_date": "2026-11-25",
-    "popularity": 0.387
+    "popularity": 0.4026
   },
   "1826874": {
     "id": 1826874,
@@ -32203,7 +32205,7 @@ window.FA_PUBLISHED = {
     "status": "Released",
     "providers": [],
     "release_date": "2026-11-25",
-    "popularity": 0.0955
+    "popularity": 0.1474
   },
   "1826075": {
     "id": 1826075,
@@ -32257,7 +32259,7 @@ window.FA_PUBLISHED = {
     "status": "Released",
     "providers": [],
     "release_date": "2026-11-25",
-    "popularity": 0.218
+    "popularity": 0.1851
   },
   "1823039": {
     "id": 1823039,
@@ -32286,7 +32288,7 @@ window.FA_PUBLISHED = {
     "status": "Released",
     "providers": [],
     "release_date": "2026-11-25",
-    "popularity": 0.1275
+    "popularity": 0.1425
   },
   "1820765": {
     "id": 1820765,
@@ -32311,7 +32313,7 @@ window.FA_PUBLISHED = {
     "status": "Released",
     "providers": [],
     "release_date": "2026-11-25",
-    "popularity": 0.0872
+    "popularity": 0.162
   },
   "1820274": {
     "id": 1820274,
@@ -32359,7 +32361,7 @@ window.FA_PUBLISHED = {
     "status": "Released",
     "providers": [],
     "release_date": "2026-11-25",
-    "popularity": 0.2804
+    "popularity": 0.3398
   },
   "1816476": {
     "id": 1816476,
@@ -32387,7 +32389,7 @@ window.FA_PUBLISHED = {
     "status": "Released",
     "providers": [],
     "release_date": "2026-11-25",
-    "popularity": 0.0764
+    "popularity": 0.1607
   },
   "1814378": {
     "id": 1814378,
@@ -32414,7 +32416,7 @@ window.FA_PUBLISHED = {
     "status": "Released",
     "providers": [],
     "release_date": "2026-11-25",
-    "popularity": 0.4332
+    "popularity": 0.8394
   },
   "1812380": {
     "id": 1812380,
@@ -32441,7 +32443,7 @@ window.FA_PUBLISHED = {
     "status": "Released",
     "providers": [],
     "release_date": "2026-11-25",
-    "popularity": 0.4883
+    "popularity": 0.668
   },
   "1810785": {
     "id": 1810785,
@@ -32466,7 +32468,7 @@ window.FA_PUBLISHED = {
     "status": "Released",
     "providers": [],
     "release_date": "2026-11-25",
-    "popularity": 0.0541
+    "popularity": 0.0797
   },
   "1771194": {
     "id": 1771194,
@@ -32542,7 +32544,7 @@ window.FA_PUBLISHED = {
     "status": "Released",
     "providers": [],
     "release_date": "2026-11-25",
-    "popularity": 0.2401
+    "popularity": 0.2888
   },
   "1789548": {
     "id": 1789548,
@@ -32569,14 +32571,14 @@ window.FA_PUBLISHED = {
     "status": "Released",
     "providers": [],
     "release_date": "2026-11-25",
-    "popularity": 0.1039
+    "popularity": 0.0984
   },
   "1786829": {
     "id": 1786829,
     "type": "movie",
     "title": "An Unexpected Christmas Plan",
     "poster_path": "/k7T7oASsetNEfjDac9IYfaEEJOd.jpg",
-    "backdrop_path": null,
+    "backdrop_path": "/jIkHqDc4jWKfDaf1T6YHmNqhKoG.jpg",
     "vote_average": 0.0,
     "vote_count": 0,
     "overview": "When Christmas-averse business executive Jen is reluctantly tasked with looking after her sister’s two kids, handsome neighbor Adam helps her navigate holiday disasters, rediscover family, and open her heart to an unexpected romance this holiday season.",
@@ -32603,7 +32605,7 @@ window.FA_PUBLISHED = {
       }
     ],
     "release_date": "2026-11-25",
-    "popularity": 1.7797
+    "popularity": 2.4828
   },
   "1782614": {
     "id": 1782614,
@@ -32630,7 +32632,7 @@ window.FA_PUBLISHED = {
     "status": "Released",
     "providers": [],
     "release_date": "2026-11-25",
-    "popularity": 0.6305
+    "popularity": 0.841
   },
   "1777575": {
     "id": 1777575,
@@ -32659,7 +32661,7 @@ window.FA_PUBLISHED = {
     "status": "Released",
     "providers": [],
     "release_date": "2026-11-25",
-    "popularity": 0.7375
+    "popularity": 0.9401
   },
   "1769056": {
     "id": 1769056,
@@ -33033,10 +33035,10 @@ window.FA_PUBLISHED = {
     "spoken_languages": [],
     "published_at": "2026-11-19",
     "date_kind": "release",
-    "status": "In Production",
+    "status": "Released",
     "providers": [],
     "release_date": "2026-11-26",
-    "popularity": 0.311
+    "popularity": 0.0816
   },
   "1185542": {
     "id": 1185542,
@@ -33106,7 +33108,7 @@ window.FA_PUBLISHED = {
     "backdrop_path": "/79U66ITUw5N0mbJ6v7s1BntJsv5.jpg",
     "vote_average": 0.0,
     "vote_count": 0,
-    "overview": "",
+    "overview": "Madhu, a school bus driver in Kochi, whose peaceful life takes an unexpected turn when the Kerala Police reopen a 23-year-old cold case involving a missing girl",
     "industry": "bollywood",
     "original_language": "ml",
     "origin_country": [
@@ -33120,10 +33122,10 @@ window.FA_PUBLISHED = {
     ],
     "published_at": "2026-11-19",
     "date_kind": "release",
-    "status": "Post Production",
+    "status": "Released",
     "providers": [],
     "release_date": "2026-11-26",
-    "popularity": 0.9529
+    "popularity": 1.6299
   },
   "1827442": {
     "id": 1827442,
@@ -33143,10 +33145,10 @@ window.FA_PUBLISHED = {
     "spoken_languages": [],
     "published_at": "2026-11-19",
     "date_kind": "release",
-    "status": "In Production",
+    "status": "Released",
     "providers": [],
     "release_date": "2026-11-26",
-    "popularity": 0.1182
+    "popularity": 0.2706
   },
   "1299329": {
     "id": 1299329,
@@ -33193,15 +33195,14 @@ window.FA_PUBLISHED = {
       "BR"
     ],
     "spoken_languages": [
-      "pt",
-      "en"
+      "pt"
     ],
     "published_at": "2026-11-19",
     "date_kind": "festival",
-    "status": "In Production",
+    "status": "Released",
     "providers": [],
     "release_date": "2026-11-26",
-    "popularity": 0.5643
+    "popularity": 0.0845
   },
   "1584779": {
     "id": 1584779,
@@ -33275,10 +33276,10 @@ window.FA_PUBLISHED = {
     ],
     "published_at": "2026-11-19",
     "date_kind": "festival",
-    "status": "In Production",
+    "status": "Released",
     "providers": [],
     "release_date": "2026-11-26",
-    "popularity": 0.2207
+    "popularity": 0.1776
   },
   "1480276": {
     "id": 1480276,
@@ -33329,10 +33330,10 @@ window.FA_PUBLISHED = {
     ],
     "published_at": "2026-11-19",
     "date_kind": "release",
-    "status": "In Production",
+    "status": "Released",
     "providers": [],
     "release_date": "2026-11-26",
-    "popularity": 0.1693
+    "popularity": 0.2618
   },
   "1103760": {
     "id": 1103760,
@@ -33383,10 +33384,10 @@ window.FA_PUBLISHED = {
     "spoken_languages": [],
     "published_at": "2026-11-19",
     "date_kind": "release",
-    "status": "Planned",
+    "status": "Released",
     "providers": [],
     "release_date": "2026-11-26",
-    "popularity": 0.0575
+    "popularity": 0.3576
   },
   "1632188": {
     "id": 1632188,
@@ -33437,10 +33438,10 @@ window.FA_PUBLISHED = {
     ],
     "published_at": "2026-11-19",
     "date_kind": "release",
-    "status": "In Production",
+    "status": "Released",
     "providers": [],
     "release_date": "2026-11-26",
-    "popularity": 0.2472
+    "popularity": 0.0988
   },
   "1819266": {
     "id": 1819266,
@@ -33467,7 +33468,7 @@ window.FA_PUBLISHED = {
     "status": "Released",
     "providers": [],
     "release_date": "2026-11-26",
-    "popularity": 0.107
+    "popularity": 0.0585
   },
   "1818583": {
     "id": 1818583,
@@ -33487,17 +33488,17 @@ window.FA_PUBLISHED = {
     "spoken_languages": [],
     "published_at": "2026-11-19",
     "date_kind": "festival",
-    "status": "In Production",
+    "status": "Released",
     "providers": [],
     "release_date": "2026-11-26",
-    "popularity": 0.1179
+    "popularity": 0.0787
   },
   "1814123": {
     "id": 1814123,
     "type": "movie",
     "title": "Because You're Mine",
     "poster_path": "/uPdqAd86SyLp9nHfTaKfEhGPB4d.jpg",
-    "backdrop_path": null,
+    "backdrop_path": "/eSnKbO6Qcd0xRjjzocc7QGpEpat.jpg",
     "vote_average": 0.0,
     "vote_count": 0,
     "overview": "In a desperate attempt to find solace, a young man joins a local support group where he meets a stranger whose outward charm masks far darker intentions.",
@@ -33512,10 +33513,10 @@ window.FA_PUBLISHED = {
     ],
     "published_at": "2026-11-19",
     "date_kind": "festival",
-    "status": "In Production",
+    "status": "Released",
     "providers": [],
     "release_date": "2026-11-26",
-    "popularity": 0.2859
+    "popularity": 0.2759
   },
   "1810976": {
     "id": 1810976,
@@ -33539,10 +33540,10 @@ window.FA_PUBLISHED = {
     ],
     "published_at": "2026-11-19",
     "date_kind": "release",
-    "status": "In Production",
+    "status": "Released",
     "providers": [],
     "release_date": "2026-11-26",
-    "popularity": 0.3113
+    "popularity": 0.1979
   },
   "1830694": {
     "id": 1830694,
@@ -33588,10 +33589,10 @@ window.FA_PUBLISHED = {
     ],
     "published_at": "2026-11-19",
     "date_kind": "release",
-    "status": "In Production",
+    "status": "Released",
     "providers": [],
     "release_date": "2026-11-26",
-    "popularity": 0.1578
+    "popularity": 0.1485
   },
   "1447885": {
     "id": 1447885,
@@ -33738,10 +33739,10 @@ window.FA_PUBLISHED = {
     ],
     "published_at": "2026-11-19",
     "date_kind": "festival",
-    "status": "In Production",
+    "status": "Released",
     "providers": [],
     "release_date": "2026-11-26",
-    "popularity": 0.2822
+    "popularity": 0.1436
   },
   "1808156": {
     "id": 1808156,
@@ -33761,10 +33762,10 @@ window.FA_PUBLISHED = {
     "spoken_languages": [],
     "published_at": "2026-11-19",
     "date_kind": "release",
-    "status": "In Production",
+    "status": "Released",
     "providers": [],
     "release_date": "2026-11-26",
-    "popularity": 0.236
+    "popularity": 0.1492
   },
   "1807930": {
     "id": 1807930,
@@ -33784,10 +33785,10 @@ window.FA_PUBLISHED = {
     "spoken_languages": [],
     "published_at": "2026-11-19",
     "date_kind": "release",
-    "status": "In Production",
+    "status": "Released",
     "providers": [],
     "release_date": "2026-11-26",
-    "popularity": 0.2584
+    "popularity": 0.2382
   },
   "1806071": {
     "id": 1806071,
@@ -33809,17 +33810,17 @@ window.FA_PUBLISHED = {
     ],
     "published_at": "2026-11-19",
     "date_kind": "release",
-    "status": "Planned",
+    "status": "Released",
     "providers": [],
     "release_date": "2026-11-26",
-    "popularity": 0.2191
+    "popularity": 0.5799
   },
   "1803220": {
     "id": 1803220,
     "type": "movie",
     "title": "Mr. Ibrahim's House",
     "poster_path": "/1DxoGJWxQDoVkM4wYCvweZtocWn.jpg",
-    "backdrop_path": null,
+    "backdrop_path": "/qE0NwoRLd9WMTSXkKmkiIT63LIp.jpg",
     "vote_average": 0.0,
     "vote_count": 0,
     "overview": "",
@@ -33834,10 +33835,10 @@ window.FA_PUBLISHED = {
     "spoken_languages": [],
     "published_at": "2026-11-19",
     "date_kind": "release",
-    "status": "In Production",
+    "status": "Released",
     "providers": [],
     "release_date": "2026-11-26",
-    "popularity": 0.5304
+    "popularity": 0.8012
   },
   "1797377": {
     "id": 1797377,
@@ -33862,10 +33863,10 @@ window.FA_PUBLISHED = {
     ],
     "published_at": "2026-11-19",
     "date_kind": "festival",
-    "status": "Post Production",
+    "status": "Released",
     "providers": [],
     "release_date": "2026-11-26",
-    "popularity": 0.3386
+    "popularity": 0.3246
   },
   "1794165": {
     "id": 1794165,
@@ -33887,10 +33888,10 @@ window.FA_PUBLISHED = {
     ],
     "published_at": "2026-11-19",
     "date_kind": "release",
-    "status": "Post Production",
+    "status": "Released",
     "providers": [],
     "release_date": "2026-11-26",
-    "popularity": 0.4433
+    "popularity": 0.6983
   },
   "1792356": {
     "id": 1792356,
@@ -33918,7 +33919,7 @@ window.FA_PUBLISHED = {
     "status": "Released",
     "providers": [],
     "release_date": "2026-11-26",
-    "popularity": 0.2053
+    "popularity": 0.0832
   },
   "1791784": {
     "id": 1791784,
@@ -33942,10 +33943,10 @@ window.FA_PUBLISHED = {
     ],
     "published_at": "2026-11-19",
     "date_kind": "release",
-    "status": "In Production",
+    "status": "Released",
     "providers": [],
     "release_date": "2026-11-26",
-    "popularity": 0.2256
+    "popularity": 0.3515
   },
   "1785221": {
     "id": 1785221,
@@ -33965,10 +33966,10 @@ window.FA_PUBLISHED = {
     "spoken_languages": [],
     "published_at": "2026-11-19",
     "date_kind": "festival",
-    "status": "Post Production",
+    "status": "Released",
     "providers": [],
     "release_date": "2026-11-26",
-    "popularity": 0.1094
+    "popularity": 0.1655
   },
   "295778": {
     "id": 295778,
@@ -40748,5 +40749,482 @@ window.FA_PUBLISHED = {
     "providers": [],
     "release_date": "2026-12-02",
     "popularity": 0.7838
+  },
+  "1654912": {
+    "id": 1654912,
+    "type": "movie",
+    "title": "Mayan - Chapter 1",
+    "poster_path": "/u5zYKMBaL2PG1mESJDJuoGVxkXB.jpg",
+    "backdrop_path": "/jdrezQei0oBcCnjy0p8WsxRljvF.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "A police officer investigates mysteries involving centuries-old secret rituals and occult practices in Kerala and around the world.",
+    "industry": "bollywood",
+    "original_language": "ml",
+    "origin_country": [
+      "IN"
+    ],
+    "production_countries": [
+      "IN"
+    ],
+    "spoken_languages": [
+      "ml"
+    ],
+    "published_at": "2026-11-26",
+    "date_kind": "release",
+    "status": "Post Production",
+    "providers": [],
+    "release_date": "2026-12-03",
+    "popularity": 1.3556
+  },
+  "1653298": {
+    "id": 1653298,
+    "type": "movie",
+    "title": "Prasert",
+    "poster_path": "/3fBaPL34Ny8ajcA4UESrg670hgB.jpg",
+    "backdrop_path": "/3xuYPJ9y8lYc7W0J5x5Np1rCrmM.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "A car rental company owner accidentally witnesses a murder, making him and his family targets of a ruthless gang.",
+    "industry": "world",
+    "original_language": "th",
+    "origin_country": [
+      "TH"
+    ],
+    "production_countries": [
+      "TH"
+    ],
+    "spoken_languages": [
+      "th"
+    ],
+    "published_at": "2026-11-26",
+    "date_kind": "release",
+    "status": "Released",
+    "providers": [],
+    "release_date": "2026-11-26",
+    "popularity": 5.2609
+  },
+  "1045968": {
+    "id": 1045968,
+    "type": "movie",
+    "title": "The Fox",
+    "poster_path": "/unIaSB9LZ0r3iZ2jBAQ2Qi5mFIp.jpg",
+    "backdrop_path": "/24fTCT6aavjyWC2RwzISUNMF2XL.jpg",
+    "vote_average": 6.0,
+    "vote_count": 1,
+    "overview": "An affable foxhunter encounters a talking Fox who offers him an opportunity to transform his fiancée into the perfect woman.",
+    "industry": "world",
+    "original_language": "en",
+    "origin_country": [
+      "AU"
+    ],
+    "production_countries": [
+      "AU"
+    ],
+    "spoken_languages": [
+      "en"
+    ],
+    "published_at": "2026-11-26",
+    "date_kind": "release",
+    "status": "Released",
+    "providers": [],
+    "release_date": "2026-11-26",
+    "popularity": 4.4444
+  },
+  "1846254": {
+    "id": 1846254,
+    "type": "movie",
+    "title": "La niña que salvó la Navidad",
+    "poster_path": "/r6UX1Ynq8sPu1tF0ttNe5s4Q1BS.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "A girl becomes the last hope to save Christmas after Santa Claus suffers an accident in her neighborhood.",
+    "industry": "world",
+    "original_language": "es",
+    "origin_country": [
+      "DO"
+    ],
+    "production_countries": [
+      "DO"
+    ],
+    "spoken_languages": [
+      "es"
+    ],
+    "published_at": "2026-11-26",
+    "date_kind": "release",
+    "status": "Released",
+    "providers": [],
+    "release_date": "2026-12-03",
+    "popularity": 0.0194
+  },
+  "1690098": {
+    "id": 1690098,
+    "type": "movie",
+    "title": "Sidelined 3: End Game",
+    "poster_path": "/kAATwaStExqqeAWTEuC5xzdEGx4.jpg",
+    "backdrop_path": "/504d0Q9TpwPFlCTIa4OY0F2DVX.jpg",
+    "vote_average": 6.0,
+    "vote_count": 1,
+    "overview": "USC quarterback Drayton Lahey lands in New York City as a Heisman hopeful, but it may turn out he’s not just there for football. Somewhere in the city is his former high school sweetheart, Dallas Bryan, who is building her new career, navigating her love life alongside Skyler, chasing her dreams, and not looking back. Now, in the city that never sleeps and with everything on the line, Drayton has one shot to prove he’s not just chasing a trophy, he’s chasing the one who got away.",
+    "industry": "world",
+    "original_language": "en",
+    "origin_country": [
+      "US"
+    ],
+    "production_countries": [
+      "US"
+    ],
+    "spoken_languages": [
+      "en"
+    ],
+    "published_at": "2026-11-26",
+    "date_kind": "release",
+    "status": "Released",
+    "providers": [],
+    "release_date": "",
+    "popularity": 3.215
+  },
+  "1843343": {
+    "id": 1843343,
+    "type": "movie",
+    "title": "Lord, Have Mercy",
+    "poster_path": "/bCBrKVNl8ccKrN2kqzd5KwtPjuf.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "When a ministry matriarch falls into a coma before Christmas, her estranged children return home to find she's left a chaotic family game night to prove who's fit to carry on her legacy, and to heal the family she loves most.",
+    "industry": "world",
+    "original_language": "es",
+    "origin_country": [
+      "US"
+    ],
+    "production_countries": [],
+    "spoken_languages": [],
+    "published_at": "2026-11-26",
+    "date_kind": "release",
+    "status": "In Production",
+    "providers": [],
+    "release_date": "2026-12-03",
+    "popularity": 0.1941
+  },
+  "1677441": {
+    "id": 1677441,
+    "type": "movie",
+    "title": "Schöne Seelen",
+    "poster_path": "/yuac0zwcOJliKzY0E2g7tsjkBHL.jpg",
+    "backdrop_path": "/6S5dhMaquRUoZkqkU6GPKSNHIbR.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "",
+    "industry": "world",
+    "original_language": "de",
+    "origin_country": [
+      "DE"
+    ],
+    "production_countries": [
+      "DE"
+    ],
+    "spoken_languages": [
+      "de"
+    ],
+    "published_at": "2026-11-26",
+    "date_kind": "release",
+    "status": "Released",
+    "providers": [],
+    "release_date": "2026-11-26",
+    "popularity": 2.7281
+  },
+  "1841947": {
+    "id": 1841947,
+    "type": "movie",
+    "title": "Kabut Lawu",
+    "poster_path": "/nO5JwOJ9hQrAYbYFTmWEQRFEE77.jpg",
+    "backdrop_path": "/c9nidsyyuOQXJG7zgwTiK4ZyNca.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "Akbar is haunted by a peculiar dream that prompts him to embark on a journey to Mount Lawu on his birthday. Along the way, he walks through thick, seemingly endless fog. At times, the fog reveals fragments of memory, and it grows harder for him to tell what is merely a shadow from what truly happened.",
+    "industry": "world",
+    "original_language": "id",
+    "origin_country": [
+      "ID"
+    ],
+    "production_countries": [
+      "ID"
+    ],
+    "spoken_languages": [
+      "id"
+    ],
+    "published_at": "2026-11-26",
+    "date_kind": "festival",
+    "status": "In Production",
+    "providers": [],
+    "release_date": "2026-12-03",
+    "popularity": 0.1102
+  },
+  "1355885": {
+    "id": 1355885,
+    "type": "movie",
+    "title": "From Inside Out: The Architecture of Peter Zumthor",
+    "poster_path": "/ca0wQJILxFbgleAdcUrKhc2i5Qh.jpg",
+    "backdrop_path": "/oep5pxCHuMgx6UyNpPEd2Snsgtw.jpg",
+    "vote_average": 9.0,
+    "vote_count": 2,
+    "overview": "We all come from houses in which we live, dream, love and die. This long-term documentary project explores the significance of architecture in our everyday lives and takes its audience on a journey to the most impressive places designed by Swiss architect Peter Zumthor.",
+    "industry": "world",
+    "original_language": "de",
+    "origin_country": [
+      "DE"
+    ],
+    "production_countries": [
+      "DE"
+    ],
+    "spoken_languages": [
+      "de"
+    ],
+    "published_at": "2026-11-26",
+    "date_kind": "release",
+    "status": "Released",
+    "providers": [],
+    "release_date": "2026-11-26",
+    "popularity": 2.5718
+  },
+  "1841678": {
+    "id": 1841678,
+    "type": "movie",
+    "title": "If Only I Remember",
+    "poster_path": "/4mb3BqIyMxDA5ZOCk80SKZV1dF0.jpg",
+    "backdrop_path": "/rh3gjEmoBxiWiYpSLWLFOj6kvdv.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "After losing Dea, the girl he loved and always sketched, Niko becomes trapped between memory and reality. Under the influence of sedatives, he enters a pale, seemingly endless liminal space. The further he walks, the harder it is to tell memory from reality, as fear, denial, anger, and guilt close in around him.",
+    "industry": "world",
+    "original_language": "id",
+    "origin_country": [
+      "ID"
+    ],
+    "production_countries": [
+      "ID"
+    ],
+    "spoken_languages": [
+      "id"
+    ],
+    "published_at": "2026-11-26",
+    "date_kind": "festival",
+    "status": "Post Production",
+    "providers": [],
+    "release_date": "2026-12-03",
+    "popularity": 0.1371
+  },
+  "1316347": {
+    "id": 1316347,
+    "type": "movie",
+    "title": "Takluk 2: Op Daulat",
+    "poster_path": "/7EYkEhzyrKfMW00gBlzf78ovqjJ.jpg",
+    "backdrop_path": "/xpryEFQtsFBJ4fEqSR28HBy5NJ3.jpg",
+    "vote_average": 6.0,
+    "vote_count": 1,
+    "overview": "An operation that shook the nation starting on February 11, 2013. At that time, Sulu terrorists infiltrated Kampung Tanduo in Lahad Datu, Sabah. By the end of \"Op Daulat\", 56 terrorists and six civilians were reported killed. The conflict also saw 12 national heroes fall in battle after sacrificing their lives to defend the nation's sovereignty.",
+    "industry": "world",
+    "original_language": "ms",
+    "origin_country": [
+      "MY"
+    ],
+    "production_countries": [
+      "MY"
+    ],
+    "spoken_languages": [
+      "ms",
+      "en"
+    ],
+    "published_at": "2026-11-26",
+    "date_kind": "release",
+    "status": "Released",
+    "providers": [],
+    "release_date": "2026-11-26",
+    "popularity": 2.8047
+  },
+  "1841538": {
+    "id": 1841538,
+    "type": "movie",
+    "title": "Letters to Apostle Daniel",
+    "poster_path": "/kmP1Ryw0uilMau8SV70Zfz6oGLt.jpg",
+    "backdrop_path": "/tpA6NVHoGHOf2UQiHzDnkEosHP2.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "Amid birthdays and family gatherings, a family archive holds the last trace of a father who disappeared. The compulsive search for this evidence ultimately transforms memories into a realm of speculation and fantasy.",
+    "industry": "world",
+    "original_language": "es",
+    "origin_country": [
+      "CO"
+    ],
+    "production_countries": [
+      "CO"
+    ],
+    "spoken_languages": [
+      "es"
+    ],
+    "published_at": "2026-11-26",
+    "date_kind": "festival",
+    "status": "In Production",
+    "providers": [],
+    "release_date": "2026-12-03",
+    "popularity": 0.1504
+  },
+  "1715686": {
+    "id": 1715686,
+    "type": "movie",
+    "title": "Mickey's Home Alone",
+    "poster_path": "/tqep7mO0VRatflWDmYLTh8iYawy.jpg",
+    "backdrop_path": "/2VWwc7jnjy6jQcmg0ALEWba8zkd.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "Looking forward to spending Christmas at home, Mickey's plans take a turn when Minnie surprises him and the gang with tickets to spend Christmas at a world-famous Ice Palace. In the morning rush to make it out the door, Mickey and Pluto are left behind and home alone. They find themselves protecting their home from two feisty villains, a raccoon and a weasel, who are after their Christmas dinner, while Minnie and the gang desperately try to make their way back home.",
+    "industry": "world",
+    "original_language": "en",
+    "origin_country": [
+      "US"
+    ],
+    "production_countries": [
+      "US"
+    ],
+    "spoken_languages": [
+      "en"
+    ],
+    "published_at": "2026-11-26",
+    "date_kind": "release",
+    "status": "Released",
+    "providers": [],
+    "release_date": "2026-11-26",
+    "popularity": 2.4832
+  },
+  "1841282": {
+    "id": 1841282,
+    "type": "movie",
+    "title": "Love in the Mountains",
+    "poster_path": "/gHGIBFAknMCAvf8Ewi8ujrAhfUi.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "The heroine of this New Year’s tale, Gohar, is one of those rare lucky people who seem to have everything fall into place effortlessly. But…  At a luxurious mountain resort, the perfect setting for a winter getaway, one accidental kiss on the eve of New Year’s transfers her good fortune to a charming musician named Hayk. From that moment on, both their lives are turned upside down.",
+    "industry": "world",
+    "original_language": "hy",
+    "origin_country": [
+      "AM"
+    ],
+    "production_countries": [
+      "AM"
+    ],
+    "spoken_languages": [],
+    "published_at": "2026-11-26",
+    "date_kind": "release",
+    "status": "Post Production",
+    "providers": [],
+    "release_date": "2026-12-03",
+    "popularity": 0.0648
+  },
+  "1401334": {
+    "id": 1401334,
+    "type": "movie",
+    "title": "Pecadora",
+    "poster_path": "/3jLwNepjuZ3ZQWxxTft645SqG84.jpg",
+    "backdrop_path": "/44fticgCv4YNNMBm03ca3WGkHJT.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "Isabel is a very religious young woman whose life is transformed when she starts working with Enrico, a free-spirited and seductive man. As she tries to deny her attraction to her colleague and the awakening of her most forbidden desires, she finds herself confronting everything she always believed.",
+    "industry": "world",
+    "original_language": "pt",
+    "origin_country": [
+      "BR"
+    ],
+    "production_countries": [
+      "BR"
+    ],
+    "spoken_languages": [
+      "pt"
+    ],
+    "published_at": "2026-11-26",
+    "date_kind": "release",
+    "status": "Released",
+    "providers": [],
+    "release_date": "2026-11-26",
+    "popularity": 2.4606
+  },
+  "1839752": {
+    "id": 1839752,
+    "type": "movie",
+    "title": "Kicaumania",
+    "poster_path": "/jY2IE8ivLkw4dN6lm4Jtc6s3XDn.jpg",
+    "backdrop_path": "/zyqWbO5WNLMYcM2p0JNvmLniEfG.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "Marlia has to pass a neighborhood security post on her way home from work, where Wahyu often catcalls her. Day after day, her anger and resentment build. Some voices are admired, others endured. Marlia begins to ask who gets to be heard, and who is just making noise. Then a plan takes shape, with a bird-singing competition as its stage",
+    "industry": "world",
+    "original_language": "id",
+    "origin_country": [
+      "ID"
+    ],
+    "production_countries": [
+      "ID"
+    ],
+    "spoken_languages": [
+      "id"
+    ],
+    "published_at": "2026-11-26",
+    "date_kind": "festival",
+    "status": "In Production",
+    "providers": [],
+    "release_date": "2026-12-03",
+    "popularity": 0.2853
+  },
+  "1770183": {
+    "id": 1770183,
+    "type": "movie",
+    "title": "Doctor Who: The Satan Pit",
+    "poster_path": "/zaR2tGiaDjbenNAWMYKo6E7zmRB.jpg",
+    "backdrop_path": "/fDdxj0OtgAH4OQB7BzI4FqI1CbM.jpg",
+    "vote_average": 9.0,
+    "vote_count": 3,
+    "overview": "Join the Doctor and Rose as they travel to Sanctuary Base 6, a remote outpost perched on a planet orbiting a black hole. When an ancient force awakens beneath the surface, the crew find themselves trapped in a battle against an evil older than time itself.",
+    "industry": "world",
+    "original_language": "en",
+    "origin_country": [
+      "GB"
+    ],
+    "production_countries": [
+      "GB"
+    ],
+    "spoken_languages": [
+      "en"
+    ],
+    "published_at": "2026-11-26",
+    "date_kind": "release",
+    "status": "Released",
+    "providers": [],
+    "release_date": "2026-11-23",
+    "popularity": 2.8107
+  },
+  "1834943": {
+    "id": 1834943,
+    "type": "movie",
+    "title": "BLOCKED",
+    "poster_path": "/kFeQFLVPUolmr3tmD0ZhDysahvi.jpg",
+    "backdrop_path": "/gUIyfZO5YGKRYOnlPGdbafYSplc.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "",
+    "industry": "world",
+    "original_language": "ar",
+    "origin_country": [
+      "IQ"
+    ],
+    "production_countries": [],
+    "spoken_languages": [],
+    "published_at": "2026-11-26",
+    "date_kind": "release",
+    "status": "Post Production",
+    "providers": [],
+    "release_date": "2026-12-03",
+    "popularity": 0.1967
   }
 };

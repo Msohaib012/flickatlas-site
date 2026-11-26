@@ -27951,14 +27951,15 @@ window.FA_PUBLISHED = {
     "title": "Hexed",
     "poster_path": "/yykeYKbDBM9eUMJUucaaDo2mi1p.jpg",
     "backdrop_path": "/wdjW11Tp4w9EfDBxbjyBJvDVHDA.jpg",
-    "vote_average": 7.4,
-    "vote_count": 9,
+    "vote_average": 6.3,
+    "vote_count": 16,
     "overview": "An impulsive and unconventional teenage girl named Billie discovers secret magical abilities which, once unleashed, hurtle her into a spectacle-filled journey out of suburbia and into a vast witch realm called Hexe. Forced to team up with her cautious mother, Alice, they uncover family mysteries that could change the world of witches forever.",
     "industry": "world",
-    "popularity": 58.7667,
+    "popularity": 69.8904,
     "original_language": "en",
     "origin_country": [
-      "US"
+      "US",
+      "CA"
     ],
     "trailer": {
       "key": "9ke5KSOUl-U",
@@ -27970,7 +27971,7 @@ window.FA_PUBLISHED = {
     ],
     "published_at": "2026-11-05",
     "source": "tmdb",
-    "budget": 0,
+    "budget": 200000000,
     "revenue": 0,
     "genres": [
       "Adventure",
@@ -27982,7 +27983,8 @@ window.FA_PUBLISHED = {
     "tagline": "Something is happening to Billie...",
     "status": "Released",
     "production_countries": [
-      "US"
+      "US",
+      "CA"
     ],
     "spoken_languages": [
       "en"
@@ -51137,7 +51139,7 @@ window.FA_PUBLISHED = {
     "vote_count": 0,
     "overview": "",
     "industry": "world",
-    "popularity": 0.2884,
+    "popularity": 0.3091,
     "original_language": "fr",
     "origin_country": [
       "FR"
@@ -51277,7 +51279,7 @@ window.FA_PUBLISHED = {
     "vote_count": 0,
     "overview": "",
     "industry": "world",
-    "popularity": 0.4345,
+    "popularity": 0.5229,
     "original_language": "fr",
     "origin_country": [
       "FR"
@@ -51360,7 +51362,7 @@ window.FA_PUBLISHED = {
     "vote_count": 0,
     "overview": "In a vast darkness, a girl tries to find her way using the only light she can find, one coveted by others.",
     "industry": "world",
-    "popularity": 0.1621,
+    "popularity": 0.402,
     "original_language": "xx",
     "origin_country": [
       "BR"
@@ -51444,7 +51446,7 @@ window.FA_PUBLISHED = {
     "vote_count": 0,
     "overview": "",
     "industry": "world",
-    "popularity": 0.387,
+    "popularity": 0.4026,
     "original_language": "ko",
     "origin_country": [
       "KR"
@@ -51485,7 +51487,7 @@ window.FA_PUBLISHED = {
     "vote_count": 0,
     "overview": "When tragedy threatens to tear a family apart, love, sacrifice, and painful choices test the unbreakable bond between a mother and her children.",
     "industry": "world",
-    "popularity": 0.0955,
+    "popularity": 0.1474,
     "original_language": "dv",
     "origin_country": [
       "MV"
@@ -51565,7 +51567,7 @@ window.FA_PUBLISHED = {
     "vote_count": 0,
     "overview": "As dementia gradually erodes her memory, 60-year-old celebrated theater actor Maya struggles to separate reality from the roles she has performed on stage.",
     "industry": "bollywood",
-    "popularity": 0.218,
+    "popularity": 0.1851,
     "original_language": "ml",
     "origin_country": [
       "IN"
@@ -51606,7 +51608,7 @@ window.FA_PUBLISHED = {
     "vote_count": 0,
     "overview": "The three crew members of the Gorgonia squadron, aided by advanced AI technology, set out on a routine space mission aboard their ships, \"Cetus\" and \"Forcis\"—unaware that this journey will change their lives forever. Gorgonia is more than just a space mission; it is a voyage into the deepest fears of its crew.",
     "industry": "world",
-    "popularity": 0.1275,
+    "popularity": 0.1425,
     "original_language": "es",
     "origin_country": [
       "CL",
@@ -51647,7 +51649,7 @@ window.FA_PUBLISHED = {
     "vote_count": 0,
     "overview": "A drama with significant social impact that seeks to bring to light the invisible scars left by violence, and which is part of a nationwide awareness campaign.",
     "industry": "world",
-    "popularity": 0.0872,
+    "popularity": 0.162,
     "original_language": "es",
     "origin_country": [
       "PE"
@@ -51724,7 +51726,7 @@ window.FA_PUBLISHED = {
     "vote_count": 0,
     "overview": "Sowan can stop time. The catch? Once time stands still, she's the only thing that moves. Not a single person, not even a leaf. Its only use? Gazing at her crush, unnoticed. Sowan, who freezes up in front of the goal, starts one-on-one lessons with her futsal coach, Wooseok.",
     "industry": "world",
-    "popularity": 0.2804,
+    "popularity": 0.3398,
     "original_language": "ko",
     "origin_country": [
       "KR"
@@ -51764,7 +51766,7 @@ window.FA_PUBLISHED = {
     "vote_count": 0,
     "overview": "To make a name for herself as the only female performer in the Marrakesh area, Hanane, a young woman from a modest Moroccan village, has raised her own troupe of female riders. The challenges are considerable since fantasia, a festive celebration of equestrian warfare, is a costly and traditionally male-exclusive activity. In the face of social injustices, clashes with her father, cultural pressures, Hanane fights day after day to make her dream come to life. With bulldozers threatening to tear down her village to build luxury suburbs, she knows she has no time to lose. If she wants to save her family and her horses, she needs to gain recognition. She sets upon taking her troupe to the most prestigious moussem in Morocco, where the best riders in the kingdom compete every year.",
     "industry": "world",
-    "popularity": 0.0764,
+    "popularity": 0.1607,
     "original_language": "fr",
     "origin_country": [
       "BE"
@@ -51806,7 +51808,7 @@ window.FA_PUBLISHED = {
     "vote_count": 0,
     "overview": "A former YouTube child creator revisits her time on the wildly popular Seven Awesome Kids network to reveal the rise and fall of the online community that brought its members fame - and its owner infamy.",
     "industry": "world",
-    "popularity": 0.4332,
+    "popularity": 0.8394,
     "original_language": "en",
     "origin_country": [
       "US"
@@ -51847,7 +51849,7 @@ window.FA_PUBLISHED = {
     "vote_count": 0,
     "overview": "KIM Young-Chul runs a small liquor store on the outskirts of an American city. Before he dies, he dreams of returning to his hometown in Korea, but the money he has saved over a lifetime is not enough to buy a home in Seoul. Worse, he has lost contact with his son, Steve Kim. One day, Kim Chul-Gi, a church butler, approaches him. An undocumented immigrant, Chul-Gi secretly drives an illegal call taxi and takes on shady jobs for wealthy international students. Behind the scenes, he is planning a fraud involving stolen identities of Korean Americans and foreign students. Meanwhile, Kim Sun-Ho, who came to the United States to obtain a degree and permanent residency, crosses paths with Steve Kim, Young-Chul’s estranged son. Four men become entangled like a Möbius strip, each chasing a different version of the same promise. What does the “American Dream” truly mean for those who live outside it?",
     "industry": "world",
-    "popularity": 0.4883,
+    "popularity": 0.668,
     "original_language": "ko",
     "origin_country": [
       "KR"
@@ -51888,7 +51890,7 @@ window.FA_PUBLISHED = {
     "vote_count": 0,
     "overview": "Quand Janet dort portrays Janet Lumb, a Chinese-Canadian artist who has lived in Montreal for many years. Fuelled by dreams and chaos, her artistic world takes shape through performance and musical composition. At 72, Janet is losing her memory. Her artistic and political legacy, along with the details of her life, are fading, though they remain deeply precious to her friend Laurence. To shake up her daily routine, create new memories and revive old ones, he spontaneously plans a trip to Ecuador. Through a polyphonic narrative moving between spoken and written voices, a memory that spans generations gradually emerges. Together, these voices invite reflection on belonging and what is passed down. Janet’s embodied presence, the archival materials documenting her impact and the tenderness with which she is portrayed celebrate the quiet strength of her work and activism.",
     "industry": "world",
-    "popularity": 0.0541,
+    "popularity": 0.0797,
     "original_language": "fr",
     "origin_country": [
       "CA"
@@ -52028,7 +52030,7 @@ window.FA_PUBLISHED = {
     "vote_count": 0,
     "overview": "Alexei, an elite war android modeled after the youthful image of an aging dictator, serves as commanding officer in a refugee district, leading the suppression of a rebellion. There, he encounters Michael, the last remaining Catholic priest, and awakens to faith—beginning a dangerous journey in search of redemption.",
     "industry": "world",
-    "popularity": 0.2401,
+    "popularity": 0.2888,
     "original_language": "ko",
     "origin_country": [
       "KR"
@@ -52071,7 +52073,7 @@ window.FA_PUBLISHED = {
     "vote_count": 0,
     "overview": "A film that centers on a young, lower-middle-class man named Anush. Living in tight, limited housing, Anush plans to keep things simple and spend his honeymoon right at home with his new wife. However, his plans completely unravel on his wedding day when his mother is unexpectedly forced to move into their tiny, single-bedroom apartment.",
     "industry": "world",
-    "popularity": 0.1039,
+    "popularity": 0.0984,
     "original_language": "en",
     "origin_country": [
       "LK"
@@ -52108,12 +52110,12 @@ window.FA_PUBLISHED = {
     "type": "movie",
     "title": "An Unexpected Christmas Plan",
     "poster_path": "/k7T7oASsetNEfjDac9IYfaEEJOd.jpg",
-    "backdrop_path": null,
+    "backdrop_path": "/jIkHqDc4jWKfDaf1T6YHmNqhKoG.jpg",
     "vote_average": 0.0,
     "vote_count": 0,
     "overview": "When Christmas-averse business executive Jen is reluctantly tasked with looking after her sister’s two kids, handsome neighbor Adam helps her navigate holiday disasters, rediscover family, and open her heart to an unexpected romance this holiday season.",
     "industry": "world",
-    "popularity": 1.7797,
+    "popularity": 2.4828,
     "original_language": "en",
     "origin_country": [
       "US"
@@ -52169,7 +52171,7 @@ window.FA_PUBLISHED = {
     "vote_count": 0,
     "overview": "A double feature of The Gruffalo and The Gruffalo’s Child",
     "industry": "world",
-    "popularity": 0.6305,
+    "popularity": 0.841,
     "original_language": "en",
     "origin_country": [
       "GB"
@@ -52210,7 +52212,7 @@ window.FA_PUBLISHED = {
     "vote_count": 0,
     "overview": "",
     "industry": "world",
-    "popularity": 0.7375,
+    "popularity": 0.9401,
     "original_language": "fr",
     "origin_country": [
       "FR",
@@ -52851,7 +52853,7 @@ window.FA_PUBLISHED = {
     "vote_count": 0,
     "overview": "Lu, a young hypochondriac, wears a cast that no longer serves his body. Isolated in a suffocating routine, he waits for something to break the endless repetition of his days. An unexpected impulse forces him to confront what he fears most: the risk of breaking again.",
     "industry": "world",
-    "popularity": 0.311,
+    "popularity": 0.0816,
     "original_language": "es",
     "origin_country": [
       "PY"
@@ -52866,7 +52868,7 @@ window.FA_PUBLISHED = {
     "revenue": 0,
     "genres": [],
     "tagline": "Life awaits beneath of fear.",
-    "status": "In Production",
+    "status": "Released",
     "production_countries": [
       "PY"
     ],
@@ -52991,9 +52993,9 @@ window.FA_PUBLISHED = {
     "backdrop_path": "/79U66ITUw5N0mbJ6v7s1BntJsv5.jpg",
     "vote_average": 0.0,
     "vote_count": 0,
-    "overview": "",
+    "overview": "Madhu, a school bus driver in Kochi, whose peaceful life takes an unexpected turn when the Kerala Police reopen a 23-year-old cold case involving a missing girl",
     "industry": "bollywood",
-    "popularity": 0.9529,
+    "popularity": 1.6299,
     "original_language": "ml",
     "origin_country": [
       "IN"
@@ -53007,20 +53009,22 @@ window.FA_PUBLISHED = {
     "budget": 0,
     "revenue": 0,
     "genres": [
-      "Drama"
+      "Drama",
+      "Crime",
+      "Mystery"
     ],
     "tagline": "",
-    "status": "Post Production",
+    "status": "Released",
     "production_countries": [
       "IN"
     ],
     "spoken_languages": [
       "ml"
     ],
-    "certification": "",
+    "certification": "U/A 16+",
     "release_date": "2026-11-26",
     "date_kind": "release",
-    "runtime": 0,
+    "runtime": 153,
     "providers": [],
     "providers_wtw": []
   },
@@ -53034,7 +53038,7 @@ window.FA_PUBLISHED = {
     "vote_count": 0,
     "overview": "A young woman starts following a mysterious elderly woman. The journey turns into a dreamlike passage  through life towards the unknown.",
     "industry": "world",
-    "popularity": 0.1182,
+    "popularity": 0.2706,
     "original_language": "xx",
     "origin_country": [
       "FI"
@@ -53051,7 +53055,7 @@ window.FA_PUBLISHED = {
       "Drama"
     ],
     "tagline": "As life fleets by unnoticed.",
-    "status": "In Production",
+    "status": "Released",
     "production_countries": [],
     "spoken_languages": [],
     "certification": "S",
@@ -53117,7 +53121,7 @@ window.FA_PUBLISHED = {
     "vote_count": 0,
     "overview": "",
     "industry": "world",
-    "popularity": 0.5643,
+    "popularity": 0.0845,
     "original_language": "pt",
     "origin_country": [
       "BR"
@@ -53135,13 +53139,12 @@ window.FA_PUBLISHED = {
       "Documentary"
     ],
     "tagline": "",
-    "status": "In Production",
+    "status": "Released",
     "production_countries": [
       "BR"
     ],
     "spoken_languages": [
-      "pt",
-      "en"
+      "pt"
     ],
     "certification": "L",
     "release_date": "2026-11-26",
@@ -53305,7 +53308,7 @@ window.FA_PUBLISHED = {
     "vote_count": 0,
     "overview": "",
     "industry": "world",
-    "popularity": 0.2207,
+    "popularity": 0.1776,
     "original_language": "es",
     "origin_country": [
       "HN"
@@ -53317,12 +53320,12 @@ window.FA_PUBLISHED = {
     "published_at": "2026-11-19",
     "source": "tmdb",
     "budget": 150,
-    "revenue": 0,
+    "revenue": 120,
     "genres": [
       "Drama"
     ],
     "tagline": "",
-    "status": "In Production",
+    "status": "Released",
     "production_countries": [
       "HN"
     ],
@@ -53393,7 +53396,7 @@ window.FA_PUBLISHED = {
     "vote_count": 0,
     "overview": "A group of friends stop for a late night snack, but a fateful kebab roll changes everything. Based on true events.",
     "industry": "world",
-    "popularity": 0.1693,
+    "popularity": 0.2618,
     "original_language": "fi",
     "origin_country": [
       "FI"
@@ -53411,7 +53414,7 @@ window.FA_PUBLISHED = {
       "Documentary"
     ],
     "tagline": "",
-    "status": "In Production",
+    "status": "Released",
     "production_countries": [
       "FI"
     ],
@@ -53483,7 +53486,7 @@ window.FA_PUBLISHED = {
     "vote_count": 0,
     "overview": "",
     "industry": "world",
-    "popularity": 0.0575,
+    "popularity": 0.3576,
     "original_language": "es",
     "origin_country": [
       "AR"
@@ -53500,7 +53503,7 @@ window.FA_PUBLISHED = {
       "Horror"
     ],
     "tagline": "",
-    "status": "Planned",
+    "status": "Released",
     "production_countries": [
       "AR"
     ],
@@ -53563,7 +53566,7 @@ window.FA_PUBLISHED = {
     "vote_count": 0,
     "overview": "Julia Pérez, an ambitious haute couture designer and leader of a satanic cult, will stop at nothing in her pursuit of prestige and power. However, when one of her rituals goes awry, a dark presence takes hold of her mansion, unleashing a wave of brutal deaths. Trapped between her desperate thirst for power and the supernatural horror she herself unleashed, Julia will discover that the price of eternal fame is the most painful of hells.",
     "industry": "world",
-    "popularity": 0.2472,
+    "popularity": 0.0988,
     "original_language": "es",
     "origin_country": [
       "AR"
@@ -53580,7 +53583,7 @@ window.FA_PUBLISHED = {
       "Horror"
     ],
     "tagline": "",
-    "status": "In Production",
+    "status": "Released",
     "production_countries": [
       "AR"
     ],
@@ -53604,7 +53607,7 @@ window.FA_PUBLISHED = {
     "vote_count": 0,
     "overview": "Struggling with insomnia, Luka begins experiencing strange events after a walk through the forest. As mysterious photographs and a shadowy figure appear to follow him, he struggles to distinguish reality from his own hallucinations. But the truth may be closer than he thinks.",
     "industry": "world",
-    "popularity": 0.107,
+    "popularity": 0.0585,
     "original_language": "sr",
     "origin_country": [
       "RS"
@@ -53646,7 +53649,7 @@ window.FA_PUBLISHED = {
     "vote_count": 0,
     "overview": "",
     "industry": "world",
-    "popularity": 0.1179,
+    "popularity": 0.0787,
     "original_language": "it",
     "origin_country": [
       "IT"
@@ -53661,7 +53664,7 @@ window.FA_PUBLISHED = {
     "revenue": 0,
     "genres": [],
     "tagline": "",
-    "status": "In Production",
+    "status": "Released",
     "production_countries": [],
     "spoken_languages": [],
     "certification": "",
@@ -53676,12 +53679,12 @@ window.FA_PUBLISHED = {
     "type": "movie",
     "title": "Because You're Mine",
     "poster_path": "/uPdqAd86SyLp9nHfTaKfEhGPB4d.jpg",
-    "backdrop_path": null,
+    "backdrop_path": "/eSnKbO6Qcd0xRjjzocc7QGpEpat.jpg",
     "vote_average": 0.0,
     "vote_count": 0,
     "overview": "In a desperate attempt to find solace, a young man joins a local support group where he meets a stranger whose outward charm masks far darker intentions.",
     "industry": "world",
-    "popularity": 0.2859,
+    "popularity": 0.2759,
     "original_language": "en",
     "origin_country": [
       "AU"
@@ -53698,7 +53701,7 @@ window.FA_PUBLISHED = {
       "Thriller"
     ],
     "tagline": "Grief can make you lose hope. It can also make you lose your grip on reality.",
-    "status": "In Production",
+    "status": "Released",
     "production_countries": [],
     "spoken_languages": [
       "en"
@@ -53720,7 +53723,7 @@ window.FA_PUBLISHED = {
     "vote_count": 0,
     "overview": "Following a historic drop in the water level of the Paraná River, Toli—an 80-year-old fisherman from the La Boca area—sets out to find a treasure buried 60 years ago. Together with a neighbor and a metal-detecting enthusiast, he embarks on a journey on horseback to a remote spot, overgrown with dense brush and reeds, where they begin digging in search of the treasure.",
     "industry": "world",
-    "popularity": 0.3113,
+    "popularity": 0.1979,
     "original_language": "es",
     "origin_country": [
       "AR"
@@ -53735,7 +53738,7 @@ window.FA_PUBLISHED = {
     "revenue": 0,
     "genres": [],
     "tagline": "",
-    "status": "In Production",
+    "status": "Released",
     "production_countries": [
       "AR"
     ],
@@ -53794,7 +53797,7 @@ window.FA_PUBLISHED = {
     "vote_count": 0,
     "overview": "Ali tries to create the perfect job application but keeps running into obstacles.",
     "industry": "world",
-    "popularity": 0.1578,
+    "popularity": 0.1485,
     "original_language": "fi",
     "origin_country": [
       "FI"
@@ -53811,7 +53814,7 @@ window.FA_PUBLISHED = {
       "Comedy"
     ],
     "tagline": "How frustrating can job hunting be?",
-    "status": "In Production",
+    "status": "Released",
     "production_countries": [],
     "spoken_languages": [
       "fa",
@@ -54086,7 +54089,7 @@ window.FA_PUBLISHED = {
     "vote_count": 0,
     "overview": "no plot announced",
     "industry": "world",
-    "popularity": 0.2822,
+    "popularity": 0.1436,
     "original_language": "en",
     "origin_country": [
       "CA"
@@ -54103,7 +54106,7 @@ window.FA_PUBLISHED = {
       "Comedy"
     ],
     "tagline": "It's Not Really a Secret",
-    "status": "In Production",
+    "status": "Released",
     "production_countries": [],
     "spoken_languages": [
       "en"
@@ -54125,7 +54128,7 @@ window.FA_PUBLISHED = {
     "vote_count": 0,
     "overview": "",
     "industry": "world",
-    "popularity": 0.236,
+    "popularity": 0.1492,
     "original_language": "de",
     "origin_country": [
       "DE"
@@ -54143,10 +54146,10 @@ window.FA_PUBLISHED = {
       "Documentary"
     ],
     "tagline": "",
-    "status": "In Production",
+    "status": "Released",
     "production_countries": [],
     "spoken_languages": [],
-    "certification": "",
+    "certification": "6",
     "release_date": "2026-11-26",
     "date_kind": "release",
     "runtime": 0,
@@ -54163,7 +54166,7 @@ window.FA_PUBLISHED = {
     "vote_count": 0,
     "overview": "Parkway Drive : HOME - Live at the Sydney Opera House",
     "industry": "world",
-    "popularity": 0.2584,
+    "popularity": 0.2382,
     "original_language": "en",
     "origin_country": [
       "US"
@@ -54178,7 +54181,7 @@ window.FA_PUBLISHED = {
     "revenue": 0,
     "genres": [],
     "tagline": "",
-    "status": "In Production",
+    "status": "Released",
     "production_countries": [],
     "spoken_languages": [],
     "certification": "",
@@ -54198,7 +54201,7 @@ window.FA_PUBLISHED = {
     "vote_count": 0,
     "overview": "The truth about the Covid virus is finally revealed ___ it reached the North Pole! With Santa quarantined, the only HOPE to save Christmas is the adorable Perry the Penguin. Filled with adventure, music, and laughter, Perry the Christmas Penguin keeps the true meaning of Christmas at heart ___ Jesus Christ.  A movie the entire family will treasure!",
     "industry": "world",
-    "popularity": 0.2191,
+    "popularity": 0.5799,
     "original_language": "en",
     "origin_country": [
       "US"
@@ -54216,7 +54219,7 @@ window.FA_PUBLISHED = {
       "Adventure"
     ],
     "tagline": "With Santa quarantined, there was only one HOPE for Christmas ____ Perry the Christmas Penguin",
-    "status": "Planned",
+    "status": "Released",
     "production_countries": [],
     "spoken_languages": [
       "en"
@@ -54233,12 +54236,12 @@ window.FA_PUBLISHED = {
     "type": "movie",
     "title": "Mr. Ibrahim's House",
     "poster_path": "/1DxoGJWxQDoVkM4wYCvweZtocWn.jpg",
-    "backdrop_path": null,
+    "backdrop_path": "/qE0NwoRLd9WMTSXkKmkiIT63LIp.jpg",
     "vote_average": 0.0,
     "vote_count": 0,
     "overview": "",
     "industry": "world",
-    "popularity": 0.5304,
+    "popularity": 0.8012,
     "original_language": "ar",
     "origin_country": [
       "LB"
@@ -54255,7 +54258,7 @@ window.FA_PUBLISHED = {
       "Comedy"
     ],
     "tagline": "",
-    "status": "In Production",
+    "status": "Released",
     "production_countries": [
       "LB"
     ],
@@ -54277,7 +54280,7 @@ window.FA_PUBLISHED = {
     "vote_count": 0,
     "overview": "",
     "industry": "world",
-    "popularity": 0.3386,
+    "popularity": 0.3246,
     "original_language": "es",
     "origin_country": [
       "AR"
@@ -54300,7 +54303,7 @@ window.FA_PUBLISHED = {
       "War"
     ],
     "tagline": "",
-    "status": "Post Production",
+    "status": "Released",
     "production_countries": [
       "AR"
     ],
@@ -54325,7 +54328,7 @@ window.FA_PUBLISHED = {
     "vote_count": 0,
     "overview": "Mariel and Tino, a documentary filmmaking duo specializing in disturbing crimes, investigate a tragedy that occurred a year earlier at a care home, where a young volunteer named Gisela set fire to a dormitory with several children inside. Their investigation leads them to Father Román, a Vatican-sanctioned exorcist who claims to have treated her for demonic possession. Mariel refuses to believe him—until they discover a young woman locked in a forest cabin who claims to be Gisela and accuses the priest of holding her captive.",
     "industry": "world",
-    "popularity": 0.4433,
+    "popularity": 0.6983,
     "original_language": "es",
     "origin_country": [
       "MX"
@@ -54342,12 +54345,12 @@ window.FA_PUBLISHED = {
       "Horror"
     ],
     "tagline": "",
-    "status": "Post Production",
+    "status": "Released",
     "production_countries": [],
     "spoken_languages": [
       "es"
     ],
-    "certification": "",
+    "certification": "B",
     "release_date": "2026-11-26",
     "date_kind": "release",
     "runtime": 98,
@@ -54364,7 +54367,7 @@ window.FA_PUBLISHED = {
     "vote_count": 0,
     "overview": "",
     "industry": "world",
-    "popularity": 0.2053,
+    "popularity": 0.0832,
     "original_language": "cs",
     "origin_country": [
       "CZ"
@@ -54406,7 +54409,7 @@ window.FA_PUBLISHED = {
     "vote_count": 0,
     "overview": "",
     "industry": "world",
-    "popularity": 0.2256,
+    "popularity": 0.3515,
     "original_language": "cs",
     "origin_country": [
       "CZ"
@@ -54423,7 +54426,7 @@ window.FA_PUBLISHED = {
       "Comedy"
     ],
     "tagline": "",
-    "status": "In Production",
+    "status": "Released",
     "production_countries": [
       "CZ"
     ],
@@ -54447,7 +54450,7 @@ window.FA_PUBLISHED = {
     "vote_count": 0,
     "overview": "In 1994 Mauritius, an approaching cyclone traps a family inside their home. As the storm rages outside, unspoken trauma and terrifying home dynamics tighten.",
     "industry": "world",
-    "popularity": 0.1094,
+    "popularity": 0.1655,
     "original_language": "fr",
     "origin_country": [
       "MU"
@@ -54466,7 +54469,7 @@ window.FA_PUBLISHED = {
       "Mystery"
     ],
     "tagline": "In the eye of the cyclone, peace is an illusion.",
-    "status": "Post Production",
+    "status": "Released",
     "production_countries": [],
     "spoken_languages": [],
     "certification": "",
@@ -65782,6 +65785,778 @@ window.FA_PUBLISHED = {
     ],
     "certification": "TP",
     "release_date": "2026-12-02",
+    "date_kind": "release",
+    "runtime": 0,
+    "providers": [],
+    "providers_wtw": []
+  },
+  "1654912": {
+    "id": 1654912,
+    "type": "movie",
+    "title": "Mayan - Chapter 1",
+    "poster_path": "/u5zYKMBaL2PG1mESJDJuoGVxkXB.jpg",
+    "backdrop_path": "/jdrezQei0oBcCnjy0p8WsxRljvF.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "A police officer investigates mysteries involving centuries-old secret rituals and occult practices in Kerala and around the world.",
+    "industry": "bollywood",
+    "popularity": 1.3556,
+    "original_language": "ml",
+    "origin_country": [
+      "IN"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-26",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Mystery",
+      "Thriller"
+    ],
+    "tagline": "Beyond the Shadows",
+    "status": "Post Production",
+    "production_countries": [
+      "IN"
+    ],
+    "spoken_languages": [
+      "ml"
+    ],
+    "certification": "",
+    "release_date": "2026-12-03",
+    "date_kind": "release",
+    "runtime": 0,
+    "providers": [],
+    "providers_wtw": []
+  },
+  "1653298": {
+    "id": 1653298,
+    "type": "movie",
+    "title": "Prasert",
+    "poster_path": "/3fBaPL34Ny8ajcA4UESrg670hgB.jpg",
+    "backdrop_path": "/3xuYPJ9y8lYc7W0J5x5Np1rCrmM.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "A car rental company owner accidentally witnesses a murder, making him and his family targets of a ruthless gang.",
+    "industry": "world",
+    "popularity": 5.2609,
+    "original_language": "th",
+    "origin_country": [
+      "TH"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-26",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Action",
+      "Drama",
+      "Thriller",
+      "Crime"
+    ],
+    "tagline": "I did it my way.",
+    "status": "Released",
+    "production_countries": [
+      "TH"
+    ],
+    "spoken_languages": [
+      "th"
+    ],
+    "certification": "18",
+    "release_date": "2026-11-26",
+    "date_kind": "release",
+    "runtime": 150,
+    "providers": [],
+    "providers_wtw": []
+  },
+  "1045968": {
+    "id": 1045968,
+    "type": "movie",
+    "title": "The Fox",
+    "poster_path": "/unIaSB9LZ0r3iZ2jBAQ2Qi5mFIp.jpg",
+    "backdrop_path": "/24fTCT6aavjyWC2RwzISUNMF2XL.jpg",
+    "vote_average": 6.0,
+    "vote_count": 1,
+    "overview": "An affable foxhunter encounters a talking Fox who offers him an opportunity to transform his fiancée into the perfect woman.",
+    "industry": "world",
+    "popularity": 4.4444,
+    "original_language": "en",
+    "origin_country": [
+      "AU"
+    ],
+    "trailer": {
+      "key": "_XEZHlWlZ_o",
+      "name": "Official Trailer",
+      "site": "YouTube"
+    },
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-26",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Comedy",
+      "Fantasy"
+    ],
+    "tagline": "",
+    "status": "Released",
+    "production_countries": [
+      "AU"
+    ],
+    "spoken_languages": [
+      "en"
+    ],
+    "certification": "R",
+    "release_date": "2026-11-26",
+    "date_kind": "release",
+    "runtime": 90,
+    "providers": [],
+    "providers_wtw": []
+  },
+  "1846254": {
+    "id": 1846254,
+    "type": "movie",
+    "title": "La niña que salvó la Navidad",
+    "poster_path": "/r6UX1Ynq8sPu1tF0ttNe5s4Q1BS.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "A girl becomes the last hope to save Christmas after Santa Claus suffers an accident in her neighborhood.",
+    "industry": "world",
+    "popularity": 0.0194,
+    "original_language": "es",
+    "origin_country": [
+      "DO"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-26",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Family",
+      "Fantasy"
+    ],
+    "tagline": "",
+    "status": "Released",
+    "production_countries": [
+      "DO"
+    ],
+    "spoken_languages": [
+      "es"
+    ],
+    "certification": "",
+    "release_date": "2026-12-03",
+    "date_kind": "release",
+    "runtime": 0,
+    "providers": [],
+    "providers_wtw": []
+  },
+  "1690098": {
+    "id": 1690098,
+    "type": "movie",
+    "title": "Sidelined 3: End Game",
+    "poster_path": "/kAATwaStExqqeAWTEuC5xzdEGx4.jpg",
+    "backdrop_path": "/504d0Q9TpwPFlCTIa4OY0F2DVX.jpg",
+    "vote_average": 6.0,
+    "vote_count": 1,
+    "overview": "USC quarterback Drayton Lahey lands in New York City as a Heisman hopeful, but it may turn out he’s not just there for football. Somewhere in the city is his former high school sweetheart, Dallas Bryan, who is building her new career, navigating her love life alongside Skyler, chasing her dreams, and not looking back. Now, in the city that never sleeps and with everything on the line, Drayton has one shot to prove he’s not just chasing a trophy, he’s chasing the one who got away.",
+    "industry": "world",
+    "popularity": 3.215,
+    "original_language": "en",
+    "origin_country": [
+      "US"
+    ],
+    "trailer": {
+      "key": "7PdTI2IslE8",
+      "name": "Sidelined 3: End Game | Official Trailer | Tubi Original",
+      "site": "YouTube"
+    },
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-26",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "tagline": "",
+    "status": "Released",
+    "production_countries": [
+      "US"
+    ],
+    "spoken_languages": [
+      "en"
+    ],
+    "certification": "",
+    "release_date": "",
+    "date_kind": "release",
+    "runtime": 0,
+    "providers": [],
+    "providers_wtw": []
+  },
+  "1843343": {
+    "id": 1843343,
+    "type": "movie",
+    "title": "Lord, Have Mercy",
+    "poster_path": "/bCBrKVNl8ccKrN2kqzd5KwtPjuf.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "When a ministry matriarch falls into a coma before Christmas, her estranged children return home to find she's left a chaotic family game night to prove who's fit to carry on her legacy, and to heal the family she loves most.",
+    "industry": "world",
+    "popularity": 0.1941,
+    "original_language": "es",
+    "origin_country": [
+      "US"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-26",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Comedy"
+    ],
+    "tagline": "Mama's last wish turns Christmas Eve into one wild game night.",
+    "status": "In Production",
+    "production_countries": [],
+    "spoken_languages": [],
+    "certification": "",
+    "release_date": "2026-12-03",
+    "date_kind": "release",
+    "runtime": 87,
+    "providers": [],
+    "providers_wtw": []
+  },
+  "1677441": {
+    "id": 1677441,
+    "type": "movie",
+    "title": "Schöne Seelen",
+    "poster_path": "/yuac0zwcOJliKzY0E2g7tsjkBHL.jpg",
+    "backdrop_path": "/6S5dhMaquRUoZkqkU6GPKSNHIbR.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "",
+    "industry": "world",
+    "popularity": 2.7281,
+    "original_language": "de",
+    "origin_country": [
+      "DE"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-26",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Drama",
+      "Comedy"
+    ],
+    "tagline": "",
+    "status": "Released",
+    "production_countries": [
+      "DE"
+    ],
+    "spoken_languages": [
+      "de"
+    ],
+    "certification": "12",
+    "release_date": "2026-11-26",
+    "date_kind": "release",
+    "runtime": 117,
+    "providers": [],
+    "providers_wtw": []
+  },
+  "1841947": {
+    "id": 1841947,
+    "type": "movie",
+    "title": "Kabut Lawu",
+    "poster_path": "/nO5JwOJ9hQrAYbYFTmWEQRFEE77.jpg",
+    "backdrop_path": "/c9nidsyyuOQXJG7zgwTiK4ZyNca.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "Akbar is haunted by a peculiar dream that prompts him to embark on a journey to Mount Lawu on his birthday. Along the way, he walks through thick, seemingly endless fog. At times, the fog reveals fragments of memory, and it grows harder for him to tell what is merely a shadow from what truly happened.",
+    "industry": "world",
+    "popularity": 0.1102,
+    "original_language": "id",
+    "origin_country": [
+      "ID"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-26",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Drama",
+      "Horror"
+    ],
+    "tagline": "",
+    "status": "In Production",
+    "production_countries": [
+      "ID"
+    ],
+    "spoken_languages": [
+      "id"
+    ],
+    "certification": "13+",
+    "release_date": "2026-12-03",
+    "date_kind": "festival",
+    "runtime": 15,
+    "providers": [],
+    "providers_wtw": []
+  },
+  "1355885": {
+    "id": 1355885,
+    "type": "movie",
+    "title": "From Inside Out: The Architecture of Peter Zumthor",
+    "poster_path": "/ca0wQJILxFbgleAdcUrKhc2i5Qh.jpg",
+    "backdrop_path": "/oep5pxCHuMgx6UyNpPEd2Snsgtw.jpg",
+    "vote_average": 9.0,
+    "vote_count": 2,
+    "overview": "We all come from houses in which we live, dream, love and die. This long-term documentary project explores the significance of architecture in our everyday lives and takes its audience on a journey to the most impressive places designed by Swiss architect Peter Zumthor.",
+    "industry": "world",
+    "popularity": 2.5718,
+    "original_language": "de",
+    "origin_country": [
+      "DE"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-26",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Documentary"
+    ],
+    "tagline": "",
+    "status": "Released",
+    "production_countries": [
+      "DE"
+    ],
+    "spoken_languages": [
+      "de"
+    ],
+    "certification": "6",
+    "release_date": "2026-11-26",
+    "date_kind": "release",
+    "runtime": 114,
+    "providers": [],
+    "providers_wtw": []
+  },
+  "1841678": {
+    "id": 1841678,
+    "type": "movie",
+    "title": "If Only I Remember",
+    "poster_path": "/4mb3BqIyMxDA5ZOCk80SKZV1dF0.jpg",
+    "backdrop_path": "/rh3gjEmoBxiWiYpSLWLFOj6kvdv.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "After losing Dea, the girl he loved and always sketched, Niko becomes trapped between memory and reality. Under the influence of sedatives, he enters a pale, seemingly endless liminal space. The further he walks, the harder it is to tell memory from reality, as fear, denial, anger, and guilt close in around him.",
+    "industry": "world",
+    "popularity": 0.1371,
+    "original_language": "id",
+    "origin_country": [
+      "ID"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-26",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Drama",
+      "Horror"
+    ],
+    "tagline": "",
+    "status": "Post Production",
+    "production_countries": [
+      "ID"
+    ],
+    "spoken_languages": [
+      "id"
+    ],
+    "certification": "",
+    "release_date": "2026-12-03",
+    "date_kind": "festival",
+    "runtime": 14,
+    "providers": [],
+    "providers_wtw": []
+  },
+  "1316347": {
+    "id": 1316347,
+    "type": "movie",
+    "title": "Takluk 2: Op Daulat",
+    "poster_path": "/7EYkEhzyrKfMW00gBlzf78ovqjJ.jpg",
+    "backdrop_path": "/xpryEFQtsFBJ4fEqSR28HBy5NJ3.jpg",
+    "vote_average": 6.0,
+    "vote_count": 1,
+    "overview": "An operation that shook the nation starting on February 11, 2013. At that time, Sulu terrorists infiltrated Kampung Tanduo in Lahad Datu, Sabah. By the end of \"Op Daulat\", 56 terrorists and six civilians were reported killed. The conflict also saw 12 national heroes fall in battle after sacrificing their lives to defend the nation's sovereignty.",
+    "industry": "world",
+    "popularity": 2.8047,
+    "original_language": "ms",
+    "origin_country": [
+      "MY"
+    ],
+    "trailer": {
+      "key": "Yxgv7C0Vth4",
+      "name": "TAKLUK 2: OP DAULAT (OFFICIAL TRAILER) DI PAWAGAM 26 NOVEMBER 2026",
+      "site": "YouTube"
+    },
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-26",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Action",
+      "Crime",
+      "Drama",
+      "History",
+      "War",
+      "Thriller"
+    ],
+    "tagline": "",
+    "status": "Released",
+    "production_countries": [
+      "MY"
+    ],
+    "spoken_languages": [
+      "ms",
+      "en"
+    ],
+    "certification": "P13",
+    "release_date": "2026-11-26",
+    "date_kind": "release",
+    "runtime": 122,
+    "providers": [],
+    "providers_wtw": []
+  },
+  "1841538": {
+    "id": 1841538,
+    "type": "movie",
+    "title": "Letters to Apostle Daniel",
+    "poster_path": "/kmP1Ryw0uilMau8SV70Zfz6oGLt.jpg",
+    "backdrop_path": "/tpA6NVHoGHOf2UQiHzDnkEosHP2.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "Amid birthdays and family gatherings, a family archive holds the last trace of a father who disappeared. The compulsive search for this evidence ultimately transforms memories into a realm of speculation and fantasy.",
+    "industry": "world",
+    "popularity": 0.1504,
+    "original_language": "es",
+    "origin_country": [
+      "CO"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-26",
+    "source": "tmdb",
+    "budget": 17000,
+    "revenue": 0,
+    "genres": [
+      "Documentary"
+    ],
+    "tagline": "the truth shall set you free",
+    "status": "In Production",
+    "production_countries": [
+      "CO"
+    ],
+    "spoken_languages": [
+      "es"
+    ],
+    "certification": "",
+    "release_date": "2026-12-03",
+    "date_kind": "festival",
+    "runtime": 19,
+    "providers": [],
+    "providers_wtw": []
+  },
+  "1715686": {
+    "id": 1715686,
+    "type": "movie",
+    "title": "Mickey's Home Alone",
+    "poster_path": "/tqep7mO0VRatflWDmYLTh8iYawy.jpg",
+    "backdrop_path": "/2VWwc7jnjy6jQcmg0ALEWba8zkd.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "Looking forward to spending Christmas at home, Mickey's plans take a turn when Minnie surprises him and the gang with tickets to spend Christmas at a world-famous Ice Palace. In the morning rush to make it out the door, Mickey and Pluto are left behind and home alone. They find themselves protecting their home from two feisty villains, a raccoon and a weasel, who are after their Christmas dinner, while Minnie and the gang desperately try to make their way back home.",
+    "industry": "world",
+    "popularity": 2.4832,
+    "original_language": "en",
+    "origin_country": [
+      "US"
+    ],
+    "trailer": {
+      "key": "EtAQ-tzZI4E",
+      "name": "Special Trailer - Mickey and Pluto are Home Alone!",
+      "site": "YouTube"
+    },
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-26",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Animation",
+      "Family",
+      "TV Movie",
+      "Comedy"
+    ],
+    "tagline": "",
+    "status": "Released",
+    "production_countries": [
+      "US"
+    ],
+    "spoken_languages": [
+      "en"
+    ],
+    "certification": "G",
+    "release_date": "2026-11-26",
+    "date_kind": "release",
+    "runtime": 0,
+    "providers": [],
+    "providers_wtw": []
+  },
+  "1841282": {
+    "id": 1841282,
+    "type": "movie",
+    "title": "Love in the Mountains",
+    "poster_path": "/gHGIBFAknMCAvf8Ewi8ujrAhfUi.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "The heroine of this New Year’s tale, Gohar, is one of those rare lucky people who seem to have everything fall into place effortlessly. But…  At a luxurious mountain resort, the perfect setting for a winter getaway, one accidental kiss on the eve of New Year’s transfers her good fortune to a charming musician named Hayk. From that moment on, both their lives are turned upside down.",
+    "industry": "world",
+    "popularity": 0.0648,
+    "original_language": "hy",
+    "origin_country": [
+      "AM"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-26",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Comedy",
+      "Adventure",
+      "Romance"
+    ],
+    "tagline": "Love in the Mountains",
+    "status": "Post Production",
+    "production_countries": [
+      "AM"
+    ],
+    "spoken_languages": [],
+    "certification": "",
+    "release_date": "2026-12-03",
+    "date_kind": "release",
+    "runtime": 105,
+    "providers": [],
+    "providers_wtw": []
+  },
+  "1401334": {
+    "id": 1401334,
+    "type": "movie",
+    "title": "Pecadora",
+    "poster_path": "/3jLwNepjuZ3ZQWxxTft645SqG84.jpg",
+    "backdrop_path": "/44fticgCv4YNNMBm03ca3WGkHJT.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "Isabel is a very religious young woman whose life is transformed when she starts working with Enrico, a free-spirited and seductive man. As she tries to deny her attraction to her colleague and the awakening of her most forbidden desires, she finds herself confronting everything she always believed.",
+    "industry": "world",
+    "popularity": 2.4606,
+    "original_language": "pt",
+    "origin_country": [
+      "BR"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-26",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Romance"
+    ],
+    "tagline": "",
+    "status": "Released",
+    "production_countries": [
+      "BR"
+    ],
+    "spoken_languages": [
+      "pt"
+    ],
+    "certification": "18",
+    "release_date": "2026-11-26",
+    "date_kind": "release",
+    "runtime": 0,
+    "providers": [],
+    "providers_wtw": []
+  },
+  "1839752": {
+    "id": 1839752,
+    "type": "movie",
+    "title": "Kicaumania",
+    "poster_path": "/jY2IE8ivLkw4dN6lm4Jtc6s3XDn.jpg",
+    "backdrop_path": "/zyqWbO5WNLMYcM2p0JNvmLniEfG.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "Marlia has to pass a neighborhood security post on her way home from work, where Wahyu often catcalls her. Day after day, her anger and resentment build. Some voices are admired, others endured. Marlia begins to ask who gets to be heard, and who is just making noise. Then a plan takes shape, with a bird-singing competition as its stage",
+    "industry": "world",
+    "popularity": 0.2853,
+    "original_language": "id",
+    "origin_country": [
+      "ID"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-26",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Drama",
+      "Horror"
+    ],
+    "tagline": "",
+    "status": "In Production",
+    "production_countries": [
+      "ID"
+    ],
+    "spoken_languages": [
+      "id"
+    ],
+    "certification": "13+",
+    "release_date": "2026-12-03",
+    "date_kind": "festival",
+    "runtime": 15,
+    "providers": [],
+    "providers_wtw": []
+  },
+  "1770183": {
+    "id": 1770183,
+    "type": "movie",
+    "title": "Doctor Who: The Satan Pit",
+    "poster_path": "/zaR2tGiaDjbenNAWMYKo6E7zmRB.jpg",
+    "backdrop_path": "/fDdxj0OtgAH4OQB7BzI4FqI1CbM.jpg",
+    "vote_average": 9.0,
+    "vote_count": 3,
+    "overview": "Join the Doctor and Rose as they travel to Sanctuary Base 6, a remote outpost perched on a planet orbiting a black hole. When an ancient force awakens beneath the surface, the crew find themselves trapped in a battle against an evil older than time itself.",
+    "industry": "world",
+    "popularity": 2.8107,
+    "original_language": "en",
+    "origin_country": [
+      "GB"
+    ],
+    "trailer": {
+      "key": "BBBP-iqluxw",
+      "name": "The Satan Pit: Extended Movie Cut | Trailer",
+      "site": "YouTube"
+    },
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-26",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Science Fiction",
+      "Fantasy",
+      "Drama"
+    ],
+    "tagline": "The pit is open…",
+    "status": "Released",
+    "production_countries": [
+      "GB"
+    ],
+    "spoken_languages": [
+      "en"
+    ],
+    "certification": "M",
+    "release_date": "2026-11-23",
+    "date_kind": "release",
+    "runtime": 119,
+    "providers": [],
+    "providers_wtw": []
+  },
+  "1834943": {
+    "id": 1834943,
+    "type": "movie",
+    "title": "BLOCKED",
+    "poster_path": "/kFeQFLVPUolmr3tmD0ZhDysahvi.jpg",
+    "backdrop_path": "/gUIyfZO5YGKRYOnlPGdbafYSplc.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "",
+    "industry": "world",
+    "popularity": 0.1967,
+    "original_language": "ar",
+    "origin_country": [
+      "IQ"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-26",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Horror"
+    ],
+    "tagline": "",
+    "status": "Post Production",
+    "production_countries": [],
+    "spoken_languages": [],
+    "certification": "",
+    "release_date": "2026-12-03",
     "date_kind": "release",
     "runtime": 0,
     "providers": [],

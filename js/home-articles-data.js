@@ -59,6 +59,170 @@ window.FA_HOME_ARTICLES = {
     ],
     "published": "Thu, 26 Nov 2026 08:50:56 +0200"
   },
+  "3v0dvq": {
+    "id": "3v0dvq",
+    "type": "news",
+    "headline": "Netflix's 6-Part Political Conspiracy Thriller Deliver A Masterclass In Psychological Suspense",
+    "dek": "Exploring why the 6-part political conspiracy thriller Bodyguard remains an elite quick binge on Netflix featuring Richard Madden.",
+    "entities": {
+      "people": [
+        "Greg MacArthur",
+        "Richard Madden",
+        "Sophie Mutevelian",
+        "Keeley Hawes",
+        "Raymond Reddington",
+        "Brendan Fraser",
+        "Karen Read"
+      ],
+      "titles": [
+        "Bodyguard",
+        "Black Doves",
+        "The Hunting Wives",
+        "The Trials of Karen Read",
+        "Pressure",
+        "The Blacklist"
+      ]
+    },
+    "keywords": [
+      "Bodyguard Netflix series",
+      "Richard Madden David Budd",
+      "Bodyguard political thriller",
+      "Keeley Hawes Julia Montague"
+    ],
+    "images": [
+      {
+        "url": "https://static0.srcdn.com/wordpress/wp-content/uploads/2026/11/richard-madden-in-bodyguard-netflix.jpg?w=1600&amp;h=900&amp;fit=crop",
+        "caption": "Netflix's 6-Part Political Conspiracy Thriller Deliver A Masterclass In Psychological Suspense",
+        "source": "Screen Rant"
+      }
+    ],
+    "published": "Thu, 26 Nov 2026 06:30:18 GMT"
+  },
+  "c58ghu": {
+    "id": "c58ghu",
+    "type": "news",
+    "headline": "Marvel Studios Developing Special Tribute for Patrick Stewart in 'Avengers: Doomsday'",
+    "dek": "Marvel Studios President Kevin Feige reveals plans for a tribute honoring the late Patrick Stewart, who makes his final appearance as Professor X in the upcoming film.",
+    "entities": {
+      "people": [
+        "Kevin Feige",
+        "Patrick Stewart",
+        "Joe Russo",
+        "Ian McKellen",
+        "Anthony Russo"
+      ],
+      "titles": [
+        "Avengers: Doomsday",
+        "X-Men"
+      ]
+    },
+    "keywords": [
+      "Avengers Doomsday",
+      "Patrick Stewart",
+      "Kevin Feige",
+      "Professor X"
+    ],
+    "images": [
+      {
+        "url": "https://www.hindustantimes.com/ht-img/img/2025/07/20/1600x900/logo/hollywood_1753008115803_1753008127492.jpeg",
+        "caption": "Marvel Studios Developing Special Tribute for Patrick Stewart in 'Avengers: Doomsday'",
+        "source": "Hindustan Times — Entertainment"
+      }
+    ],
+    "published": "Thu, 26 Nov 2026 11:44:01 +0530"
+  },
+  "4qeskj": {
+    "id": "4qeskj",
+    "type": "news",
+    "headline": "Michael C. Hall's Eight-Episode Harlan Coben Series on Netflix Delivers Intense Thrills",
+    "dek": "Explore how Michael C. Hall anchors Netflix's underrated eight-episode Harlan Coben adaptation Safe with a mesmerizing lead performance.",
+    "entities": {
+      "people": [
+        "Michael C. Hall",
+        "Harlan Coben",
+        "Tom Delaney",
+        "David Kammerer",
+        "John F. Kennedy",
+        "David Fisher"
+      ],
+      "titles": [
+        "Safe",
+        "Kill Your Darlings",
+        "Dexter",
+        "The Crown",
+        "Six Feet Under",
+        "Broadchurch",
+        "Mindhunter",
+        "The Hunting Wives",
+        "You",
+        "Gone for Good",
+        "No Second Chance",
+        "The Stranger",
+        "The Innocent",
+        "The Woods",
+        "Stay Close",
+        "Hold Tight",
+        "Fool Me Once",
+        "Missing You",
+        "Run Away",
+        "I Will Always Find You",
+        "Mare of Easttown"
+      ]
+    },
+    "keywords": [
+      "Michael C. Hall Safe Netflix",
+      "Harlan Coben Safe series",
+      "Michael C. Hall Harlan Coben",
+      "Safe Netflix TV show"
+    ],
+    "images": [
+      {
+        "url": "https://static0.srcdn.com/wordpress/wp-content/uploads/2026/11/michael-c-hall-in-dexter-new-blood.jpg?w=1600&amp;h=900&amp;fit=crop",
+        "caption": "Michael C. Hall's Eight-Episode Harlan Coben Series on Netflix Delivers Intense Thrills",
+        "source": "Screen Rant"
+      }
+    ],
+    "published": "Thu, 26 Nov 2026 05:58:18 GMT"
+  },
+  "1eyclgg": {
+    "id": "1eyclgg",
+    "type": "news",
+    "headline": "‘Vrushakarma’ Trailer Unveiled: Naga Chaitanya Stars in Supernatural Thriller",
+    "dek": "Actor Naga Chaitanya has released the official trailer for his upcoming supernatural adventure film Vrushakarma, directed by Karthik Varma Dandu, ahead of its theatrical debut.",
+    "entities": {
+      "people": [
+        "Naga Chaitanya",
+        "Karthik Varma Dandu",
+        "Jayaram",
+        "Meenakshi Chaudhary",
+        "Sparsh Shrivastava",
+        "Kiara Khanna",
+        "Sri Nagendra Tangala",
+        "Ragul D Herian",
+        "B. Ajaneesh Loknath"
+      ],
+      "titles": [
+        "Vrushakarma",
+        "Thandel",
+        "Laapataa Ladies"
+      ]
+    },
+    "keywords": [
+      "Vrushakarma trailer",
+      "Naga Chaitanya Vrushakarma",
+      "Karthik Varma Dandu film",
+      "Vrushakarma release date",
+      "Sparsh Shrivastava Vrushakarma"
+    ],
+    "images": [
+      {
+        "url": "https://static.toiimg.com/thumb/msid-136180304,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "caption": "‘Vrushakarma’ Trailer Unveiled: Naga Chaitanya Stars in Supernatural Thriller",
+        "source": "Times of India — Entertainment"
+      }
+    ],
+    "published": "2026-11-26T11:25:33+05:30"
+  },
   "zfcjfm": {
     "id": "zfcjfm",
     "type": "news",
@@ -4631,351 +4795,6 @@ window.FA_HOME_ARTICLES = {
       }
     ],
     "published": "2026-11-24T23:51:28Z"
-  },
-  "1i4olf3": {
-    "id": "1i4olf3",
-    "type": "news",
-    "headline": "Golden Globes Eligibility List Reveals Genre Shifts for Major Blockbusters",
-    "dek": "The official reminder lists for the 84th Golden Globes highlight surprising campaign strategies, including a comedy placement for a billion-dollar superhero feature and notable box office omissions.",
-    "entities": {
-      "people": [
-        "Clayton Davis",
-        "Tom Holland",
-        "Zendaya",
-        "Florence Pugh",
-        "Mark Ruffalo",
-        "Sadie Sink",
-        "Marisa Tomei",
-        "Jon Bernthal",
-        "Tramell Tillman",
-        "Dwayne Johnson",
-        "Jack Black",
-        "Kevin Hart",
-        "Karen Gillan",
-        "David Fincher",
-        "Quentin Tarantino",
-        "Brad Pitt",
-        "Denis Villeneuve",
-        "Timothée Chalamet",
-        "Brad Bird",
-        "Leah Nelson",
-        "Travis Knight",
-        "Randy Newman",
-        "Taylor Swift",
-        "Kei Oikawa",
-        "Robert Pattinson",
-        "Sandra Hüller",
-        "Anne Hathaway",
-        "Penélope Cruz",
-        "Olivia Wilde",
-        "Andrew Garfield",
-        "Javier Bardem",
-        "Stephen Graham",
-        "Willem Dafoe",
-        "Caitríona Balfe",
-        "Emerald Fennell",
-        "Siân Heder",
-        "Kelly O’Sullivan",
-        "Alex Thompson",
-        "Beth de Araújo",
-        "Georgia Oakley",
-        "Jennifer Peedom",
-        "Rachel Morrison",
-        "Aleshea Harris",
-        "Jane Schoenbrun",
-        "Hayley Kiyoko",
-        "Alicia MacDonald",
-        "Eleanor Wilson",
-        "Alex Huston Fischer",
-        "Ildikó Enyedi",
-        "Marie Kreutzer",
-        "May el-Toukhy",
-        "Marine Atlan",
-        "Myrsini Aristidou",
-        "Sandra Wollner",
-        "Fawn Veerasunthorn",
-        "Jason Hand",
-        "Alyce Tzue",
-        "John Ripa",
-        "Phuong Mai Nguyen",
-        "Nikki Glaser",
-        "Virginie Efira",
-        "Tao Okamoto",
-        "Ryusuke Hamaguchi",
-        "Ben Affleck",
-        "Ray Fisher",
-        "Christopher Woodley",
-        "Luis Gerardo Méndez",
-        "Steven Yeun",
-        "Gillian Anderson",
-        "Adriana Paz",
-        "Kerry Washington",
-        "Connor O. McIntyre",
-        "Billy Ray",
-        "Boyd Holbrook",
-        "Hiam Abbass",
-        "Chiwetel Ejiofor",
-        "Mark Duplass",
-        "Finn Bennett",
-        "Renate Reinsve",
-        "Lukita Maxwell",
-        "Will Soodik",
-        "Edo Van Breemen",
-        "Kane Parsons",
-        "Son Sukku",
-        "Moon Choi",
-        "Pedro Pascal",
-        "Will Arnett",
-        "Eva Victor",
-        "Alexa Swinton",
-        "Kaya Ralls",
-        "Tony Gilroy",
-        "Ruth Madeley",
-        "Jon Beavers",
-        "Antwan Tolliver",
-        "Andrew Pilkington",
-        "Michael Patrick Thornton",
-        "Russell Harvard",
-        "Daniel Durant",
-        "Charlie Rush-Reese",
-        "Rio Finnegan",
-        "D’Arcee Charington Neal",
-        "Will Brill",
-        "Rob Delaney",
-        "Matthew August Jeffers",
-        "Stephen Adly Guirgis",
-        "Dylan O’Brien",
-        "Madeline Delp",
-        "Roberta Colindrez",
-        "Siena Rafter",
-        "Rein Barcel",
-        "Rebekah Taussig",
-        "Francesco Le Metre",
-        "Paul Dano",
-        "Florian Zeller"
-      ],
-      "titles": [
-        "Spider-Man: Brand New Day",
-        "Dune 3",
-        "Avengers: Doomsday",
-        "Glee",
-        "Jumanji: Open World",
-        "The Further Mis-Adventures of Cliff Booth",
-        "Dune: Part Three",
-        "Dune: Part Two",
-        "Backrooms",
-        "The Devil Wears Prada 2",
-        "Disclosure Day",
-        "Focker In-Law",
-        "GOAT",
-        "Godzilla Minus Zero",
-        "Hoppers",
-        "The Hunger Games: Sunrise on the Reaping",
-        "Michael",
-        "Minions Monsters",
-        "Moana",
-        "Obsession",
-        "The Odyssey",
-        "Star Wars: The Mandalorian and Grogu",
-        "The Super Mario Galaxy Movie",
-        "Toy Story 5",
-        "You Can See Everything",
-        "Ray Gunn",
-        "Tangles",
-        "Wildwood",
-        "Iron Boy",
-        "Forgotten Island",
-        "Chiikawa the Movie: The Secret of the Mermaid Island",
-        "The Drama",
-        "Primetime",
-        "Rose",
-        "Fatherland",
-        "Digger",
-        "Project Hail Mary",
-        "Verity",
-        "Bunker",
-        "La Bola Negra",
-        "The Invite",
-        "I Want Your Sex",
-        "Behemoth!",
-        "Heart of the Beast",
-        "The Uprising",
-        "Artificial",
-        "Wuthering Heights",
-        "Being Heumann",
-        "Mouse",
-        "Josephine",
-        "Sense and Sensibility",
-        "Tenzing",
-        "Love of Your Life",
-        "Is God Is",
-        "Teenage Sex and Death at Camp Miasma",
-        "Girls Like Girls",
-        "Finding Emily",
-        "Wicker",
-        "Silent Friend",
-        "Gentle Monster",
-        "Woman Unknown",
-        "La Gradiva",
-        "Hold Onto Me",
-        "Everytime",
-        "Hexed",
-        "Steps",
-        "In Waves",
-        "All of a Sudden",
-        "Animals",
-        "Atonement",
-        "Bedford Park",
-        "Bitter Christmas"
-      ]
-    },
-    "keywords": [
-      "Golden Globes Spider-Man Brand New Day",
-      "Dune Part Three Golden Globes",
-      "Golden Globes eligibility list",
-      "Spider-Man Brand New Day comedy"
-    ],
-    "images": [
-      {
-        "url": "https://variety.com/wp-content/uploads/2026/11/split-image-1000-3-2.jpg?crop=0px%2C22px%2C1000px%2C562px&#038;resize=1000%2C563",
-        "caption": "Golden Globes Eligibility List Reveals Genre Shifts for Major Blockbusters",
-        "source": "Variety"
-      }
-    ],
-    "published": "Tue, 24 Nov 2026 23:31:30 +0000"
-  },
-  "1kjlrif": {
-    "id": "1kjlrif",
-    "type": "news",
-    "headline": "Avengers Doomsday Storms Indian Box Office With Massive Pre-Sales",
-    "dek": "Marvel's upcoming blockbuster Avengers: Doomsday has crossed Rs 57 crore in advance bookings in India with 23 days still remaining until its theatrical release.",
-    "entities": {
-      "people": [
-        "Mudit Bhatnagar",
-        "Anthony Russo",
-        "Joe Russo",
-        "Robert Downey Jr",
-        "Chris Hemsworth",
-        "Anthony Mackie",
-        "Sebastian Stan",
-        "Letitia Wright",
-        "Paul Rudd",
-        "Florence Pugh",
-        "Pedro Pascal",
-        "Vanessa Kirby",
-        "Joseph Quinn",
-        "Ebon Moss-Bachrach"
-      ],
-      "titles": [
-        "Avengers: Doomsday",
-        "Dune: Part Three",
-        "Spider-Man: Brand New Day"
-      ]
-    },
-    "keywords": [
-      "Avengers Doomsday",
-      "Avengers Doomsday advance booking",
-      "Avengers Doomsday India box office",
-      "Anthony and Joe Russo"
-    ],
-    "images": [
-      {
-        "url": "https://images.timesnownews.com/thumb/msid-156560271,thumbsize-54910,width-1280,height-720,resizemode-75/156560271.jpg",
-        "caption": "Avengers Doomsday Storms Indian Box Office With Massive Pre-Sales",
-        "source": "Times Now — Entertainment"
-      }
-    ],
-    "published": "2026-11-24T22:52:19Z"
-  },
-  "7otvpq": {
-    "id": "7otvpq",
-    "type": "news",
-    "headline": "Director Ayan Mukerji Breaks Silence on the Box Office Failure of War 2",
-    "dek": "A year after its theatrical release, director Ayan Mukerji has spoken about why the high-budget action thriller War 2 failed to connect with audiences and underperformed commercially.",
-    "entities": {
-      "people": [
-        "Ayan Mukerji",
-        "Hrithik Roshan",
-        "Junior NTR",
-        "Kiara Advani",
-        "Anil Kapoor",
-        "Siddharth Anand",
-        "Aditya Chopra",
-        "Sridhar Raghavan",
-        "Abbas Tyrewala",
-        "Tiger Shroff"
-      ],
-      "titles": [
-        "War 2",
-        "War",
-        "Pathaan",
-        "Tiger 3"
-      ]
-    },
-    "keywords": [
-      "War 2",
-      "Ayan Mukerji",
-      "Hrithik Roshan",
-      "Junior NTR",
-      "YRF Spy Universe"
-    ],
-    "images": [
-      {
-        "url": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202611/6b0556c2d6be7-war-2-242001626-16x9.jpg",
-        "caption": "Director Ayan Mukerji Breaks Silence on the Box Office Failure of War 2",
-        "source": "Aaj Tak — Entertainment"
-      }
-    ],
-    "published": "2026-11-24T22:52:19Z"
-  },
-  "1dizy73": {
-    "id": "1dizy73",
-    "type": "news",
-    "headline": "Mubi Drops Second Trailer for Lukas Dhont's WWI Drama 'Coward'",
-    "dek": "Distributor Mubi has released a vibrant new preview for the Belgian filmmaker's third feature, a wartime queer love story heading to select US cinemas in late December 2026.",
-    "entities": {
-      "people": [
-        "Alex Billington",
-        "Lukas Dhont",
-        "Valentin Campagne",
-        "Emmanuel Macchia",
-        "Francis",
-        "Pierre",
-        "Angelo Tijssens",
-        "Michiel Dhont",
-        "Frank van den Eeden",
-        "Valentin Hadjadj",
-        "Justin",
-        "Mike Leigh",
-        "Kate O'Flynn",
-        "Bardem",
-        "Cruz"
-      ],
-      "titles": [
-        "Coward",
-        "Girl",
-        "Close",
-        "Dune: Part Three",
-        "The Murder of JonBen©t Ramsey",
-        "Bunker",
-        "Timberlake",
-        "Tender Loving Care"
-      ]
-    },
-    "keywords": [
-      "Coward film",
-      "Lukas Dhont Coward",
-      "Coward WWI movie",
-      "Emmanuel Macchia Valentin Campagne"
-    ],
-    "images": [
-      {
-        "url": "https://media2.firstshowing.net/firstshowing/img18/cowardtrailer2mainimgbigsvtw1.jpg",
-        "caption": "Mubi Drops Second Trailer for Lukas Dhont's WWI Drama 'Coward'",
-        "source": "FirstShowing.net"
-      }
-    ],
-    "published": "Tue, 24 Nov 2026 22:24:09 +0000"
   },
   "1ypg7z1": {
     "id": "1ypg7z1",
