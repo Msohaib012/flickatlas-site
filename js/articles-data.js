@@ -257931,5 +257931,381 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Thu, 26 Nov 2026 19:02:18 +0000"
+  },
+  "1auh01u": {
+    "id": "1auh01u",
+    "type": "news",
+    "headline": "Ramayana Team Meets Amit Shah as Film Chases 2000 Crore Mark",
+    "dek": "Ranbir Kapoor, Sai Pallavi, and key members of the Ramayana team met with Union Home Minister Amit Shah to celebrate the film's massive global box office success.",
+    "body": [
+      {
+        "h": "Introduction to the Meeting",
+        "p": [
+          "The core team behind the blockbuster project recently experienced a prestigious moment when they received an invitation to meet Union Home Minister Amit Shah in New Delhi. This high-profile gathering celebrated the monumental cultural impact and theatrical triumphs of the cinematic adaptation.",
+          "Key creators and lead actors gathered to discuss the sweeping success of the feature, which has captured public attention both domestically and internationally following its theatrical release."
+        ]
+      },
+      {
+        "h": "Notable Attendees Present",
+        "p": [
+          "Prominent figures from the production and cast graced the meeting with the Home Minister, highlighting the collaborative effort behind the large-scale project. Lead actor Ranbir Kapoor and co-star Sai Pallavi attended alongside important creators.",
+          "The delegation also featured producer Namit Malhotra, director Nitesh Tiwari, and co-producer Neeraj Sanghvi, representing the visionary minds who brought the epic narrative to life."
+        ]
+      },
+      {
+        "h": "Discussions and Appreciation",
+        "p": [
+          "During the interaction, Amit Shah congratulated the entire crew for achieving tremendous global recognition and reaching remarkable financial milestones on the theatrical circuit.",
+          "Furthermore, the Home Minister praised the creators for bringing the ancient Indian epic to the big screen with such grand scale, impressing the filmmakers with his deep knowledge of the history and cultural significance of the source material."
+        ]
+      },
+      {
+        "h": "Fashion and Style Choices",
+        "p": [
+          "The attendees also caught the public eye for their sophisticated appearances during the official meeting. Sai Pallavi charmed onlookers by wearing a stunning peach-pink colored saree.",
+          "Meanwhile, leading man Ranbir Kapoor opted for a complete black ensemble, presenting a dashing appearance as he interacted with the political leader."
+        ]
+      },
+      {
+        "h": "Box Office Milestones and Cast",
+        "p": [
+          "Commercially, the film has performed exceptionally well since its release in India on November 5, crossing the 1700 crore rupees threshold worldwide and marching rapidly toward the 2000 crore rupees milestone.",
+          "The ensemble cast features Ranbir Kapoor portraying Lord Rama, Sai Pallavi as Mata Sita, Yash as Ravana, and Ravi Dubey as Lakshmana, supported by music composed by AR Rahman and Hans Zimmer."
+        ]
+      },
+      {
+        "h": "Global Recognition and VFX",
+        "p": [
+          "Beyond commercial box office figures, the production has garnered international acclaim for its technical prowess, earning a spot on the 20-film longlist for Best Visual Effects at the 2027 Academy Awards.",
+          "This achievement places the project alongside major international titles such as Avengers: Doomsday, Dune 3, and The Odyssey, marking a proud moment for producer Namit Malhotra and the entire crew."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "The core team of the film met with Union Home Minister Amit Shah to commemorate its worldwide box office success exceeding 1700 crore rupees. As the production approaches the 2000 crore rupees milestone, the meeting highlighted the project's cultural impact, stellar performances by the cast, and its recent recognition by the Academy Awards."
+        ]
+      }
+    ],
+    "facts": [
+      "The meeting took place with Union Home Minister Amit Shah.",
+      "Attendees included Ranbir Kapoor, Sai Pallavi, Namit Malhotra, Nitesh Tiwari, and Neeraj Sanghvi.",
+      "The film was released in India on November 5.",
+      "Global collections have crossed 1700 crore rupees.",
+      "The film is targeting the 2000 crore rupees mark.",
+      "It has been included in the 20-film longlist for Best Visual Effects at the 2027 Academy Awards.",
+      "The cast includes Ranbir Kapoor as Lord Rama, Sai Pallavi as Mata Sita, Yash as Ravana, and Ravi Dubey as Lakshmana.",
+      "The music was composed by AR Rahman and Hans Zimmer."
+    ],
+    "entities": {
+      "people": [
+        "Amit Shah",
+        "Ranbir Kapoor",
+        "Sai Pallavi",
+        "Namit Malhotra",
+        "Nitesh Tiwari",
+        "Neeraj Sanghvi",
+        "Yash",
+        "Ravi Dubey",
+        "AR Rahman",
+        "Hans Zimmer"
+      ],
+      "titles": [
+        "Ramayana",
+        "Avengers: Doomsday",
+        "Dune 3",
+        "The Odyssey"
+      ]
+    },
+    "keywords": [
+      "Ramayana Ramachandra",
+      "Ranbir Kapoor Sai Pallavi",
+      "Amit Shah Ramayana team",
+      "Ramayana box office collection"
+    ],
+    "images": [
+      {
+        "url": "https://akm-img-a-in.tosshub.com/aajtak/images/photo_gallery/202611/6b07d9c7c125e-ramayana-team-met-amit-shah-260334609-16x9.jpg",
+        "caption": "Ramayana Team Meets Amit Shah as Film Chases 2000 Crore Mark",
+        "source": "Aaj Tak — Entertainment"
+      }
+    ],
+    "published": "2026-11-26T20:52:14Z"
+  },
+  "1tc2r35": {
+    "id": "1tc2r35",
+    "type": "news",
+    "headline": "Avengers: Doomsday Review Embargo Date Emerges as Spoiler Warnings Rise",
+    "dek": "As the release date for Marvel Studios' mega-crossover film approaches, reports indicate when critics can share their thoughts online.",
+    "body": [
+      {
+        "h": "Anticipation Grows for the Crossover Event",
+        "p": [
+          "Marvel Studios is gearing up for one of its most heavily awaited theatrical events, bringing together the Avengers, the X-Men, and the Fantastic Four to face Doctor Doom.",
+          "As excitement builds across the fanbase, the approach of the film's debut has also introduced a significant hurdle for moviegoers trying to avoid plot details."
+        ]
+      },
+      {
+        "h": "Reported Embargo and Premiere Timeline",
+        "p": [
+          "According to reports, the official review embargo for the blockbuster is expected to lift on December 15, though Marvel has not yet confirmed this date officially.",
+          "Sources indicate that reviews will begin going live online at 3 p.m. ET on that day, setting the stage for the wave of critical reactions."
+        ]
+      },
+      {
+        "h": "Screenings and Theater Release Schedule",
+        "p": [
+          "The world premiere for the movie is reportedly lined up for December 14, giving industry insiders and select guests their first look at the picture.",
+          "Early fan screenings are anticipated to kick off on December 16, leading right up to the wide theatrical release scheduled for December 18."
+        ]
+      },
+      {
+        "h": "Lessons from Past Spoiler Leaks",
+        "p": [
+          "Fans navigating the internet in the days leading up to the premiere face genuine risks of encountering unexpected plot points and casting secrets.",
+          "Reviewers often inadvertently reveal major surprises despite trying to avoid them, much like how early reviews for Eternals in 2021 spoiled Harry Styles' secret casting as Eros."
+        ]
+      },
+      {
+        "h": "Marketing Strategies and Guarded Surprises",
+        "p": [
+          "Studio leadership appears to be holding back the final act of the story from promotional trailers and teasers.",
+          "There is also strong speculation among fans that some of the major scenes featured in the marketing might be intentionally misleading or occur much earlier in the narrative."
+        ]
+      },
+      {
+        "h": "Advice for Spoiler-Free Viewers",
+        "p": [
+          "With the film hitting cinemas on December 18, enthusiasts who want a completely unspoiled experience are advised to steer clear of reviews, social media posts, and online discussions.",
+          "Limiting exposure to online chatter will help ensure that every plot twist and cameo remains a genuine surprise during the first viewing."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Reports indicate that the review embargo for Avengers: Doomsday may lift on December 15 ahead of its December 18 theatrical release. Fans are being warned to exercise caution online to avoid potential plot spoilers and unexpected casting reveals."
+        ]
+      }
+    ],
+    "facts": [
+      "The review embargo for Avengers: Doomsday is reportedly set to lift on December 15 at 3 p.m. ET.",
+      "The world premiere is reportedly scheduled for December 14.",
+      "Early fan screenings are expected to begin on December 16.",
+      "The movie is set to arrive in theaters on December 18.",
+      "Eternals was released in 2021 and had its Harry Styles cameo leaked through early reviews."
+    ],
+    "entities": {
+      "people": [
+        "Nitish Singh",
+        "Doctor Doom",
+        "Harry Styles",
+        "Eros"
+      ],
+      "titles": [
+        "Avengers: Doomsday",
+        "Eternals"
+      ]
+    },
+    "keywords": [
+      "Avengers Doomsday review embargo",
+      "Avengers Doomsday release date",
+      "Doctor Doom Marvel movie",
+      "Avengers Doomsday spoilers"
+    ],
+    "images": [
+      {
+        "url": "https://www.comingsoon.net/wp-content/uploads/sites/3/2026/11/11_facabd.jpg?resize=1200,630",
+        "caption": "Avengers: Doomsday Review Embargo Date Emerges as Spoiler Warnings Rise",
+        "source": "ComingSoon.net"
+      }
+    ],
+    "published": "Thu, 26 Nov 2026 20:17:01 +0000"
+  },
+  "68q2pw": {
+    "id": "68q2pw",
+    "type": "news",
+    "headline": "Imtiaz Ali Praises Ranbir Kapoor's Portrayal Of Lord Rama In Nitesh Tiwari's Ramayana",
+    "dek": "Filmmaker Imtiaz Ali shares high praise for Ranbir Kapoor's performance as Lord Rama in the upcoming mythological epic Ramayana, while also discussing the actor's long-term directorial ambitions.",
+    "body": [
+      {
+        "h": "Imtiaz Ali Applauds Ranbir Kapoor in Ramayana",
+        "p": [
+          "Renowned filmmaker Imtiaz Ali has voiced strong appreciation for Ranbir Kapoor's work in Nitesh Tiwari's highly anticipated adaptation of the Indian epic, Ramayana. Having recently watched the first instalment of the ambitious project, Ali was deeply impressed by how Kapoor stepped into the role of the revered mythological figure. The director noted that the actor's performance shines brightly in specific sequences, calling him a wonderful presence on screen."
+        ]
+      },
+      {
+        "h": "Positive Impact on the Actor's Life",
+        "p": [
+          "Beyond just artistic execution, Ali expressed a belief that embodying Lord Rama could bring about meaningful, positive personal changes for Kapoor. Speaking to PTI, the director highlighted Kapoor's exceptional acting pedigree and stated that playing such a significant character would likely aid the star profoundly in his everyday life. The sheer scale and spiritual gravity of the narrative appear to lend a unique weight to the actor's career trajectory."
+        ]
+      },
+      {
+        "h": "Collaborators and Past Work",
+        "p": [
+          "Ali and Kapoor share a rich history of creative collaboration, having previously worked together on celebrated films like Rockstar and Tamasha. Because of this close professional relationship, Ali's perspective on Kapoor's capabilities carries substantial industry weight. His observation that Kapoor ranks among the absolute best actors reflects their long-standing artistic synergy."
+        ]
+      },
+      {
+        "h": "An All-Star Cast and Crew",
+        "p": [
+          "Nitesh Tiwari's massive production boasts a stellar ensemble cast alongside its leading man. The film features Sai Pallavi as Sita, Yash as Ravana, and Ravie Dubey as Lakshman. The project is backed by producers Namit Malhotra and Yash, driving immense audience anticipation across the cinematic landscape."
+        ]
+      },
+      {
+        "h": "Directorial Aspirations Revealed",
+        "p": [
+          "In addition to discussing the mythological film, Ali opened up about Kapoor's desire to step behind the camera. With the actor recently mentioning that he is in the final decade of his acting career and eyeing a transition into directing, Ali confirmed this is far from a sudden whim. In fact, Kapoor discussed his filmmaking ambitions with Ali even before they teamed up for their past cinematic ventures."
+        ]
+      },
+      {
+        "h": "Will Kapoor Stop Acting?",
+        "p": [
+          "Reflecting on the Kapoor family legacy and the actor's sharp intellect, Ali admitted he would be far more surprised if Kapoor never attempted directing. However, the filmmaker voiced a hope that Kapoor will continue to take up acting roles alongside his upcoming directorial pursuits, noting that the reality of directing will truly test whether the star genuinely enjoys the behind-the-scenes workload."
+        ]
+      },
+      {
+        "h": "Franchise Scale and Timeline",
+        "p": [
+          "The cultural footprint of the project is already historic, with the venture crossing Rs 1,750 crore at the worldwide box office. Meanwhile, the second instalment of the epic cinematic adaptation is officially scheduled to arrive in theatres in the year 2028."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Filmmaker Imtiaz Ali has praised Ranbir Kapoor for his compelling performance as Lord Rama in Nitesh Tiwari's Ramayana, suggesting the role will positively influence the actor's life. Ali also discussed Kapoor's long-standing ambition to transition into directing films. The high-profile mythological project features a star-studded cast and massive global box office success."
+        ]
+      }
+    ],
+    "facts": [
+      "Imtiaz Ali praised Ranbir Kapoor's portrayal of Lord Rama in Nitesh Tiwari's Ramayana.",
+      "Imtiaz Ali previously collaborated with Ranbir Kapoor on Rockstar and Tamasha.",
+      "Sai Pallavi plays Sita, Yash plays Ravana, and Ravie Dubey plays Lakshman in Ramayana.",
+      "Namit Malhotra and Yash are the producers of Ramayana.",
+      "Ramayana has earned over Rs 1,750 crore at the worldwide box office.",
+      "The second instalment of Ramayana is scheduled to arrive in theatres in 2028."
+    ],
+    "entities": {
+      "people": [
+        "Imtiaz Ali",
+        "Ranbir Kapoor",
+        "Nitesh Tiwari",
+        "Sai Pallavi",
+        "Yash",
+        "Ravie Dubey",
+        "Namit Malhotra"
+      ],
+      "titles": [
+        "Ramayana",
+        "Rockstar",
+        "Tamasha"
+      ]
+    },
+    "keywords": [
+      "Ranbir Kapoor Ramayana",
+      "Imtiaz Ali Ramayana",
+      "Nitesh Tiwari Ramayana film",
+      "Ramayana cast Rs 1,750 crore"
+    ],
+    "images": [
+      {
+        "url": "https://images.timesnownews.com/thumb/msid-156570344,thumbsize-288517,width-1280,height-720,resizemode-75/156570344.jpg",
+        "caption": "Imtiaz Ali Praises Ranbir Kapoor's Portrayal Of Lord Rama In Nitesh Tiwari's Ramayana",
+        "source": "Times Now — Entertainment"
+      }
+    ],
+    "published": "2026-11-26T20:52:14Z"
+  },
+  "1mbejtg": {
+    "id": "1mbejtg",
+    "type": "news",
+    "headline": "Godzilla Minus Zero Faces Theater Cuts Ahead of Fourth Weekend",
+    "dek": "Godzilla Minus Zero enters its fourth week after being pulled from over a thousand theaters following a steep box-office decline.",
+    "body": [
+      {
+        "h": "Theatrical Screen Reductions",
+        "p": [
+          "Godzilla Minus Zero is heading into its fourth week of exhibition facing severe screen reduction. The sci-fi sequel has officially been pulled from over 1,000 theaters nationwide as it yields space to incoming holiday season competition.",
+          "This drastic contraction arrives on the heels of a massive drop in ticket sales during its sophomore and junior frames, forcing exhibitors to downscale showtimes and auditorium allocations significantly."
+        ]
+      },
+      {
+        "h": "Box Office Trajectory and Declines",
+        "p": [
+          "The feature opened strongly at the domestic box office, exceeding initial industry projections during its debut weekend. However, momentum slowed rapidly as the film suffered a steep 72 percent tumble in its second frame.",
+          "Following that sophomore slump, revenues contracted further in the subsequent tracking week. Such front-loaded behavior is common for major franchise entries, but the velocity of the decline outpaced initial estimates."
+        ]
+      },
+      {
+        "h": "Comparing Predecessor Performance",
+        "p": [
+          "The current trajectory stands in stark contrast to its predecessor, which functioned as a true sleeper hit. The previous installment, Godzilla Minus One, demonstrated remarkable staying power with considerably smaller domestic drops throughout its 2023 run.",
+          "While the earlier film eventually accumulated a domestic lifetime gross of $57 million, the sequel's domestic tally currently rests at $54 million. Despite the theater reductions, the new film is positioned to edge past the domestic total of the 2023 release."
+        ]
+      },
+      {
+        "h": "Global Revenue and Production Budgets",
+        "p": [
+          "On a global scale, the sequel has already outperformed its predecessor. Its worldwide box-office gross has climbed to approximately $120 million against a reported production budget of around $15 million.",
+          "In comparison, the 2023 film finished its global run with roughly $110 million against a tight $10 million budget, securing widespread industry acclaim and an Academy Award victory for Best Visual Effects."
+        ]
+      },
+      {
+        "h": "Concurrent Releases and Marketplace Competition",
+        "p": [
+          "The theatrical marketplace during this release window has been intensely competitive. Godzilla Minus Zero shared its release timeframe with Ramayana: Rise of a Legend, billed as India's most expensive film ever produced.",
+          "Ramayana has grossed upwards of $180 million globally against a hefty $200 million budget, with domestic ticket sales accounting for nearly $30 million of that grand total."
+        ]
+      },
+      {
+        "h": "Critical Reception and Director's Choice",
+        "p": [
+          "Rather than immediately jumping into Hollywood studio projects, director Takashi Yamazaki opted to helm this direct follow-up, which explores the aftermath of the previous chapter. The creative gamble resonated strongly with viewers and reviewers alike.",
+          "The feature boasts a Certified Fresh 91 percent approval rating from critics alongside a Verified Hot 95 percent audience score on Rotten Tomatoes, driven by audience enthusiasm and the strong brand goodwill established by the 2023 Academy Award winner."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Godzilla Minus Zero is losing over 1,000 theater screens as it enters its fourth week following a sharp 72 percent sophomore box-office drop. Despite the screen cuts and steep weekly declines, the sequel has generated $54 million domestically and $120 million worldwide against a $15 million budget."
+        ]
+      }
+    ],
+    "facts": [
+      "Godzilla Minus Zero has been removed from over 1,000 theaters.",
+      "The film suffered a 72% decline in its sophomore frame.",
+      "Godzilla Minus One grossed $57 million domestically in 2023.",
+      "Godzilla Minus Zero has a domestic haul of $54 million.",
+      "The global box office for the sequel stands at around $120 million.",
+      "The reported budget for Godzilla Minus Zero is around $15 million.",
+      "Ramayana: Rise of a Legend has grossed more than $180 million worldwide.",
+      "Ramayana had a reported budget of $200 million and a domestic haul of nearly $30 million.",
+      "Godzilla Minus One won the Academy Award for Best Visual Effects and grossed around $110 million worldwide on a $10 million budget.",
+      "Godzilla Minus Zero holds a 91% critics score and 95% audience score on Rotten Tomatoes."
+    ],
+    "entities": {
+      "people": [
+        "Rohan Naahar",
+        "Takashi Yamazaki"
+      ],
+      "titles": [
+        "Godzilla Minus Zero",
+        "Godzilla Minus One",
+        "Ramayana: Rise of a Legend"
+      ]
+    },
+    "keywords": [
+      "Godzilla Minus Zero",
+      "Godzilla Minus One",
+      "Takashi Yamazaki",
+      "Ramayana Rise of a Legend"
+    ],
+    "images": [
+      {
+        "url": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/04/godzilla-minus-zero-3.jpg?w=1600&amp;h=900&amp;fit=crop",
+        "caption": "Godzilla Minus Zero Faces Theater Cuts Ahead of Fourth Weekend",
+        "source": "Collider"
+      }
+    ],
+    "published": "Thu, 26 Nov 2026 20:01:12 GMT"
   }
 };
