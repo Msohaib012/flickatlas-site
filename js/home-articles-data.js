@@ -44,6 +44,26 @@ window.FA_HOME_ARTICLES = {
     ],
     "published": "Thu, 26 Nov 2026 20:53:03 +0200"
   },
+  "d70lqr": {
+    "id": "d70lqr",
+    "type": "news",
+    "headline": "Bano Episode 43 — Watch Online on Geo TV",
+    "dek": "Bano episode 43 aired on 2026-11-26 — watch the full episode on Geo TV.",
+    "entities": {
+      "titles": [
+        "Bano"
+      ],
+      "people": []
+    },
+    "images": [
+      {
+        "url": "https://i.ytimg.com/vi/uiEB38Edp78/hqdefault.jpg",
+        "caption": "Bano Episode 43",
+        "source": "Geo TV"
+      }
+    ],
+    "published": "2026-11-26T17:00:05Z"
+  },
   "13ymhgv": {
     "id": "13ymhgv",
     "type": "news",
@@ -87,6 +107,30 @@ window.FA_HOME_ARTICLES = {
       }
     ],
     "published": "Thu, 26 Nov 2026 22:04:22 +0530"
+  },
+  "hujbo6": {
+    "id": "hujbo6",
+    "type": "news",
+    "headline": "Thanksgiving Travel Disrupted by Severe Weather Across the United States",
+    "dek": "Powerful storms cause widespread flight cancellations, severe delays, and massive power outages impacting holiday travelers across America.",
+    "entities": {
+      "people": [],
+      "titles": []
+    },
+    "keywords": [
+      "Thanksgiving travel chaos",
+      "Flight cancellations Thanksgiving",
+      "Macys Thanksgiving Day Parade postponed",
+      "US power outages Thanksgiving"
+    ],
+    "images": [
+      {
+        "url": "https://imagez.tmz.com/image/5b/16by9/2026/11/26/5b6fa3f3921844ba978b5251b5eaba02_xl.jpg",
+        "caption": "Thanksgiving Travel Disrupted by Severe Weather Across the United States",
+        "source": "TMZ"
+      }
+    ],
+    "published": "2026-11-26T08:21:45-08:00"
   },
   "1nuxvrc": {
     "id": "1nuxvrc",
@@ -202,6 +246,36 @@ window.FA_HOME_ARTICLES = {
     ],
     "published": "Thu, 26 Nov 2026 16:11:18 +0000"
   },
+  "qv76p6": {
+    "id": "qv76p6",
+    "type": "news",
+    "headline": "Ragini Sona Addresses 'Hanuman Ansh' Producer Rift at IFFI 2026, Confirms Sequel Plans",
+    "dek": "Co-producer Ragini Sona opens up about internal disagreements among the team of 'Hanuman Ansh' during the International Film Festival of India, while assuring fans that franchise expansion remains firmly on track.",
+    "entities": {
+      "people": [
+        "Ragini Sona",
+        "Neem Karoli Baba"
+      ],
+      "titles": [
+        "Hanuman Ansh",
+        "Hanuman Ansh 1"
+      ]
+    },
+    "keywords": [
+      "Ragini Sona Hanuman Ansh",
+      "Hanuman Ansh sequel plans",
+      "Hanuman Ansh box office collection",
+      "Hanuman Ansh producers fallout IFFI 2026"
+    ],
+    "images": [
+      {
+        "url": "https://static.toiimg.com/thumb/msid-136197229,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "caption": "Ragini Sona Addresses 'Hanuman Ansh' Producer Rift at IFFI 2026, Confirms Sequel Plans",
+        "source": "Times of India — Entertainment"
+      }
+    ],
+    "published": "2026-11-26T21:20:48+05:30"
+  },
   "1r4q06f": {
     "id": "1r4q06f",
     "type": "news",
@@ -295,6 +369,46 @@ window.FA_HOME_ARTICLES = {
     ],
     "published": "Thu, 26 Nov 2026 20:40:19 +0530"
   },
+  "1ltcmfz": {
+    "id": "1ltcmfz",
+    "type": "news",
+    "headline": "Mera Ghar Episode 10 — Watch Online on ARY Digital",
+    "dek": "Mera Ghar episode 10 aired on 2026-11-26 — watch the full episode on ARY Digital.",
+    "entities": {
+      "titles": [
+        "Mera Ghar"
+      ],
+      "people": []
+    },
+    "images": [
+      {
+        "url": "https://i.ytimg.com/vi/C47NAuknha4/hqdefault.jpg",
+        "caption": "Mera Ghar Episode 10",
+        "source": "ARY Digital"
+      }
+    ],
+    "published": "2026-11-26T15:00:44Z"
+  },
+  "1n14849": {
+    "id": "1n14849",
+    "type": "news",
+    "headline": "Khushi Episode 75 — Watch Online on HUM TV",
+    "dek": "Khushi episode 75 aired on 2026-11-26 — watch the full episode on HUM TV.",
+    "entities": {
+      "titles": [
+        "Khushi"
+      ],
+      "people": []
+    },
+    "images": [
+      {
+        "url": "https://i.ytimg.com/vi/NVGGjFUbJjE/hqdefault.jpg",
+        "caption": "Khushi Episode 75",
+        "source": "HUM TV"
+      }
+    ],
+    "published": "2026-11-26T15:00:30Z"
+  },
   "pyzcrh": {
     "id": "pyzcrh",
     "type": "news",
@@ -331,6 +445,65 @@ window.FA_HOME_ARTICLES = {
       }
     ],
     "published": "Thu, 26 Nov 2026 16:25:15 +0200"
+  },
+  "130zd56": {
+    "id": "130zd56",
+    "type": "news",
+    "headline": "Director Anil Ravipudi Opens Up About His Upcoming Collaboration With Superstar Jr NTR",
+    "dek": "Filmmaker Anil Ravipudi discusses his surprise upcoming project with Jr NTR at IFFI Goa, highlighting the balance of mass stardom and comedy.",
+    "entities": {
+      "people": [
+        "Anil Ravipudi",
+        "Jr NTR"
+      ],
+      "titles": [
+        "Adhurs"
+      ]
+    },
+    "keywords": [
+      "Jr NTR",
+      "Anil Ravipudi",
+      "Jr NTR Anil Ravipudi film",
+      "Adhurs"
+    ],
+    "images": [
+      {
+        "url": "https://filmfare.wwmindia.com/content/2026/nov/film-with-jr-ntr-is-a-big-opportunity-says-anil-ravipudi1795696612.jpg",
+        "caption": "Director Anil Ravipudi Opens Up About His Upcoming Collaboration With Superstar Jr NTR",
+        "source": "Filmfare"
+      }
+    ],
+    "published": "2026-11-26T18:09:52+05:30"
+  },
+  "15v76q6": {
+    "id": "15v76q6",
+    "type": "news",
+    "headline": "Jr NTR Welcomes a Custom Masterpiece by Legendary Artist Thota Vaikuntam",
+    "dek": "Telugu superstar Jr NTR adds a specially commissioned painting by acclaimed Indian artist Thota Vaikuntam to his personal art collection in Hyderabad.",
+    "entities": {
+      "people": [
+        "Jr NTR",
+        "Thota Vaikuntam",
+        "Prashanth Neel"
+      ],
+      "titles": [
+        "Dragon"
+      ]
+    },
+    "keywords": [
+      "Jr NTR Thota Vaikuntam artwork",
+      "Jr NTR painting Thota Vaikuntam",
+      "Jr NTR Dragon movie release date",
+      "Prashanth Neel Dragon film"
+    ],
+    "images": [
+      {
+        "url": "https://filmfare.wwmindia.com/content/2026/nov/jr-ntr-receives-a-specially-commissioned-artwork-by-thota-vaikuntam1795695925.jpg",
+        "caption": "Jr NTR Welcomes a Custom Masterpiece by Legendary Artist Thota Vaikuntam",
+        "source": "Filmfare"
+      }
+    ],
+    "published": "2026-11-26T18:01:14+05:30"
   },
   "l4jojn": {
     "id": "l4jojn",
@@ -4531,327 +4704,6 @@ window.FA_HOME_ARTICLES = {
     ],
     "published": "Wed, 25 Nov 2026 15:04:44 +0530"
   },
-  "1kcl8qy": {
-    "id": "1kcl8qy",
-    "type": "news",
-    "headline": "Ramayana Advances In Oscars VFX Race Alongside Major Hollywood Productions",
-    "dek": "Nitesh Tiwari's mythological epic has secured a place among the top 20 contenders in the visual effects category for the 99th Academy Awards.",
-    "entities": {
-      "people": [
-        "Nitesh Tiwari",
-        "Ranbir Kapoor",
-        "Sai Pallavi",
-        "Yash",
-        "Namit Malhotra",
-        "Denis Villeneuve",
-        "Christopher Nolan",
-        "Phil Lord",
-        "Christopher Miller",
-        "Steven Spielberg",
-        "Anthony Russo",
-        "Joe Russo",
-        "Jon Favreau",
-        "Thomas Kail",
-        "Dwayne Johnson",
-        "Alejandro G Inarritu",
-        "Craig Gillespie",
-        "Kyle Balda",
-        "Takashi Yamazaki",
-        "SS Rajamouli",
-        "Ram Charan",
-        "Jr NTR"
-      ],
-      "titles": [
-        "Ramayana: Rise of a Legend",
-        "Dune: Part Three",
-        "The Odyssey",
-        "Avengers: Doomsday",
-        "Project Hail Mary",
-        "Disclosure Day",
-        "Star Wars: The Mandalorian and Grogu",
-        "Whalefall",
-        "Moana",
-        "Digger",
-        "Supergirl",
-        "The Sheep Detectives",
-        "Godzilla Minus Zero",
-        "Wildwood",
-        "Backrooms",
-        "Heart of the Beast",
-        "The Mosquito Bowl",
-        "The Hunger Games: Sunrise on the Reaping",
-        "Inception",
-        "Interstellar",
-        "Ex Machina",
-        "Blade Runner 2049",
-        "First Man",
-        "Tenet",
-        "Dune",
-        "Dune: Part Two",
-        "Spider-Man: Brand New Day",
-        "RRR",
-        "Naatu Naatu"
-      ]
-    },
-    "keywords": [
-      "Ramayana Rise of a Legend",
-      "Ramayana Oscars VFX",
-      "Nitesh Tiwari Ramayana",
-      "Ranbir Kapoor Ramayana",
-      "Ramayana Academy Awards"
-    ],
-    "images": [
-      {
-        "url": "https://images.filmibeat.com/img/2026/11/ramayanapart1reviewranbirkapooryash1-51931795598980.jpg",
-        "caption": "Ramayana Advances In Oscars VFX Race Alongside Major Hollywood Productions",
-        "source": "FilmiBeat"
-      }
-    ],
-    "published": "Wed, 25 Nov 2026 15:01:46 +0530"
-  },
-  "z3ma6x": {
-    "id": "z3ma6x",
-    "type": "news",
-    "headline": "Avengers Directors and Kevin Feige Recall Patrick Stewart's Emotional Final Set Speech",
-    "dek": "Marvel filmmakers Anthony and Joe Russo alongside Kevin Feige reflect on the touching farewell speech delivered by Patrick Stewart on his final day filming Avengers: Doomsday.",
-    "entities": {
-      "people": [
-        "Charisma Madarang",
-        "Patrick Stewart",
-        "Rich Fury",
-        "Kevin Feige",
-        "Anthony Russo",
-        "Joe Russo",
-        "Chris Christie",
-        "Cher",
-        "Mary Bono",
-        "Brandi Carlile",
-        "Don Was",
-        "Bobby Weir",
-        "Ian McKellen",
-        "Robert Downey Jr.",
-        "Tony Stark",
-        "Kory Grow",
-        "Jimmy Kimmel",
-        "Jensen Huang",
-        "Emily Zemler",
-        "Amanda Seyfried",
-        "Robert De Niro",
-        "Timothée Chalamet",
-        "Jon Blistein",
-        "Jaeden Pinder",
-        "Cliff Booth",
-        "David Fear",
-        "Thomas Markle",
-        "Bo Derek",
-        "Feliciano",
-        "Jones",
-        "Jane Fonda"
-      ],
-      "titles": [
-        "Avengers: Doomsday",
-        "Infinity War",
-        "Endgame",
-        "X-Men",
-        "Star Trek",
-        "Dune",
-        "American Dad",
-        "Saturday Night Live",
-        "Ted Lasso",
-        "Further Mis-Adventures of Cliff Booth",
-        "Dancing With the Stars",
-        "Gaslit"
-      ]
-    },
-    "keywords": [
-      "Patrick Stewart Avengers Doomsday",
-      "Kevin Feige Patrick Stewart speech",
-      "Anthony and Joe Russo Patrick Stewart",
-      "Avengers Doomsday release date"
-    ],
-    "images": [
-      {
-        "url": "https://www.rollingstone.com/wp-content/uploads/2026/11/patrick-stewart-avengers-last-day-film.jpg?w=1600&#038;h=900&#038;crop=1",
-        "caption": "Avengers Directors and Kevin Feige Recall Patrick Stewart's Emotional Final Set Speech",
-        "source": "Rolling Stone"
-      }
-    ],
-    "published": "2026-11-25T08:53:07Z"
-  },
-  "ltlzf7": {
-    "id": "ltlzf7",
-    "type": "news",
-    "headline": "The Melody of Love Sets Official Premiere Date for Late November",
-    "dek": "The highly anticipated Chinese fantasy drama starring Li Yi Tong and Chen Xin Hai has officially locked in its premiere date.",
-    "entities": {
-      "people": [
-        "Li Yi Tong",
-        "Chen Xin Hai",
-        "Lily Alice"
-      ],
-      "titles": [
-        "The Melody of Love",
-        "Feng Hua Lu",
-        "The Record of Splendor"
-      ]
-    },
-    "keywords": [
-      "The Melody of Love",
-      "Li Yi Tong",
-      "Chen Xin Hai",
-      "The Melody of Love premiere date"
-    ],
-    "images": [
-      {
-        "url": "https://i.mydramalist.com/lBB67E_2d.jpg",
-        "caption": "The Melody of Love Sets Official Premiere Date for Late November",
-        "source": "MyDramaList"
-      }
-    ],
-    "published": "Wed, 25 Nov 2026 08:31:52 +0000"
-  },
-  "11llx19": {
-    "id": "11llx19",
-    "type": "news",
-    "headline": "Xiao Zhan Steps Out in Beijing for Small Town Remedy Industry Symposium",
-    "dek": "Lead actor Xiao Zhan joins fellow cast members Ni Da Hong and Jiang Yan in Beijing for an official industry review of the hit medical C-drama Small Town Remedy.",
-    "entities": {
-      "people": [
-        "Xiao Zhan",
-        "Ni Da Hong",
-        "Jiang Yan",
-        "Zhang Xiao Bo",
-        "Nie Cheng Shuai",
-        "Liu San Shu"
-      ],
-      "titles": [
-        "Small Town Remedy",
-        "Fei Dao"
-      ]
-    },
-    "keywords": [
-      "Xiao Zhan Small Town Remedy",
-      "Small Town Remedy symposium",
-      "Xiao Zhan Ni Da Hong Jiang Yan",
-      "Small Town Remedy C-drama"
-    ],
-    "images": [
-      {
-        "url": "https://i.mydramalist.com/NRRLBy_2d.jpg",
-        "caption": "Xiao Zhan Steps Out in Beijing for Small Town Remedy Industry Symposium",
-        "source": "MyDramaList"
-      }
-    ],
-    "published": "Wed, 25 Nov 2026 08:26:36 +0000"
-  },
-  "kftzwj": {
-    "id": "kftzwj",
-    "type": "news",
-    "headline": "Billie Eilish Announces BST Hyde Park Headlining Concert for 2027",
-    "dek": "Pop superstar Billie Eilish has been confirmed as a headliner for BST Hyde Park in July 2027, with pre-sale tickets and hospitality packages launching this week.",
-    "entities": {
-      "people": [
-        "Billie Eilish"
-      ],
-      "titles": []
-    },
-    "keywords": [
-      "Billie Eilish BST Hyde Park tickets",
-      "Billie Eilish Ticketmaster pre-sale",
-      "Billie Eilish 2027 tour",
-      "BST Hyde Park headliners"
-    ],
-    "images": [
-      {
-        "url": "https://images.production.immediate.co.uk/volatile/sites/3/2025/07/GettyImages-2224548521-fed1606.jpg?resize=1200%2C630",
-        "caption": "Billie Eilish Announces BST Hyde Park Headlining Concert for 2027",
-        "source": "Radio Times"
-      }
-    ],
-    "published": "Wed, 25 Nov 2026 08:00:34 GMT"
-  },
-  "56f2ck": {
-    "id": "56f2ck",
-    "type": "news",
-    "headline": "Director Aditya Datt Addresses the Heavy Legacy Surrounding Gunmaaster G9 and Emraan Hashmi's Musical History",
-    "dek": "Filmmaker Aditya Datt opens up about reuniting with Emraan Hashmi after twenty years for Gunmaaster G9, navigating expectations, and shifting away from slice-of-life storytelling.",
-    "entities": {
-      "people": [
-        "Aditya Datt",
-        "Emraan Hashmi",
-        "Himesh Reshammiya",
-        "Genelia Deshmukh",
-        "Aparshakti Khurana"
-      ],
-      "titles": [
-        "Gunmaaster G9",
-        "Aashiq Banaya Aapne",
-        "Dil Diya Hai",
-        "Commando 3",
-        "Table No 21"
-      ]
-    },
-    "keywords": [
-      "Gunmaaster G9 film",
-      "Aditya Datt director",
-      "Emraan Hashmi Gunmaaster G9",
-      "Aashiq Banaya Aapne baggage"
-    ],
-    "images": [
-      {
-        "url": "https://static.toiimg.com/thumb/msid-136153046,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "caption": "Director Aditya Datt Addresses the Heavy Legacy Surrounding Gunmaaster G9 and Emraan Hashmi's Musical History",
-        "source": "Times of India — Entertainment"
-      }
-    ],
-    "published": "2026-11-25T13:21:49+05:30"
-  },
-  "1dd62b8": {
-    "id": "1dd62b8",
-    "type": "news",
-    "headline": "Star Trek 60th Anniversary Collection Releases This November",
-    "dek": "Sirius Dice is launching an officially licensed Star Trek and Magic: The Gathering accessory collection featuring mini dice cups, treasure packs, and oversized spindown life counters.",
-    "entities": {
-      "people": [
-        "Nicholas Becher"
-      ],
-      "titles": [
-        "Star Trek",
-        "Magic: The Gathering",
-        "Star Trek: The Original Series",
-        "Star Trek: The Animated Series",
-        "Star Trek: The Next Generation",
-        "Star Trek: Deep Space Nine",
-        "Star Trek: Voyager",
-        "Star Trek: Enterprise",
-        "Star Trek: Discovery",
-        "Star Trek: Short Treks",
-        "Star Trek: Picard",
-        "Star Trek Lower Decks",
-        "Star Trek: Prodigy",
-        "Star Trek: Strange New Worlds",
-        "Star Trek: Starfleet Academy",
-        "Star Trek Online",
-        "Star Trek: Resurgence",
-        "Star Trek: Bridge Crew",
-        "Star Trek: The Motion Picture"
-      ]
-    },
-    "keywords": [
-      "Star Trek anniversary collection",
-      "Sirius Dice Star Trek",
-      "Star Trek Magic The Gathering",
-      "Star Trek mini dice cups"
-    ],
-    "images": [
-      {
-        "url": "https://static0.srcdn.com/wordpress/wp-content/uploads/2026/10/star-trek-nemesis-picard-and-tng-crew.jpg?w=1600&amp;h=900&amp;fit=crop",
-        "caption": "Star Trek 60th Anniversary Collection Releases This November",
-        "source": "Screen Rant"
-      }
-    ],
-    "published": "Wed, 25 Nov 2026 07:30:18 GMT"
-  },
   "1ypg7z1": {
     "id": "1ypg7z1",
     "type": "news",
@@ -5786,65 +5638,5 @@ window.FA_HOME_ARTICLES = {
       }
     ],
     "published": "2026-11-19T17:00:35Z"
-  },
-  "ybncqm": {
-    "id": "ybncqm",
-    "type": "news",
-    "headline": "Bano Episode 36 — Watch Online on Geo TV",
-    "dek": "Bano episode 36 aired on 2026-11-19 — watch the full episode on Geo TV.",
-    "entities": {
-      "titles": [
-        "Bano"
-      ],
-      "people": []
-    },
-    "images": [
-      {
-        "url": "https://i.ytimg.com/vi/t-1WAqaKETY/hqdefault.jpg",
-        "caption": "Bano Episode 36",
-        "source": "Geo TV"
-      }
-    ],
-    "published": "2026-11-19T17:00:30Z"
-  },
-  "1cvafmz": {
-    "id": "1cvafmz",
-    "type": "news",
-    "headline": "Khushi Episode 68 — Watch Online on HUM TV",
-    "dek": "Khushi episode 68 aired on 2026-11-19 — watch the full episode on HUM TV.",
-    "entities": {
-      "titles": [
-        "Khushi"
-      ],
-      "people": []
-    },
-    "images": [
-      {
-        "url": "https://i.ytimg.com/vi/iws1B7RhSX0/hqdefault.jpg",
-        "caption": "Khushi Episode 68",
-        "source": "HUM TV"
-      }
-    ],
-    "published": "2026-11-19T15:00:35Z"
-  },
-  "4c77y5": {
-    "id": "4c77y5",
-    "type": "news",
-    "headline": "Mera Ghar Episode 3 — Watch Online on ARY Digital",
-    "dek": "Mera Ghar episode 3 aired on 2026-11-19 — watch the full episode on ARY Digital.",
-    "entities": {
-      "titles": [
-        "Mera Ghar"
-      ],
-      "people": []
-    },
-    "images": [
-      {
-        "url": "https://i.ytimg.com/vi/ditH_Sav94s/hqdefault.jpg",
-        "caption": "Mera Ghar Episode 3",
-        "source": "ARY Digital"
-      }
-    ],
-    "published": "2026-11-19T15:00:32Z"
   }
 };

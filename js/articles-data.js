@@ -202623,13 +202623,20 @@ window.FA_ARTICLES = {
           "Lagan Lagi Episode 22 aired on 2026-11-20 on ARY Digital. The full episode is available on the channel's official YouTube page.",
           "Watch the full episode here: https://www.youtube.com/watch?v=whHUjgEd4xg"
         ]
+      },
+      {
+        "h": "Episode Summary",
+        "p": [
+          "Is episode mein Atya Aalia ko batati hain ke Zaviyar ne shadi ke liye haan kar di hai aur woh Zunaira ke ghar rishta le kar jaana"
+        ]
       }
     ],
     "facts": [
       "Lagan Lagi Episode 22 aired on 2026-11-20.",
       "Channel: ARY Digital.",
       "Watch the full episode: https://www.youtube.com/watch?v=whHUjgEd4xg",
-      "YouTube views: 5,289."
+      "YouTube views: 5,289.",
+      "Episode summary added 2026-11-26."
     ],
     "entities": {
       "titles": [
@@ -256647,5 +256654,464 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Thu, 26 Nov 2026 22:04:22 +0530"
+  },
+  "d70lqr": {
+    "id": "d70lqr",
+    "type": "news",
+    "headline": "Bano Episode 43 — Watch Online on Geo TV",
+    "dek": "Bano episode 43 aired on 2026-11-26 — watch the full episode on Geo TV.",
+    "body": [
+      {
+        "h": "Episode Details",
+        "p": [
+          "Bano Episode 43 aired on 2026-11-26 on Geo TV. The full episode is available on the channel's official YouTube page.",
+          "Watch the full episode here: https://www.youtube.com/watch?v=uiEB38Edp78"
+        ]
+      },
+      {
+        "h": "Episode Summary",
+        "p": [
+          "Is episode mein Tooba Murtaza se poochti hai ke kya woh Bano ki mohabbat ka koi saboot de sakta hai. Agli subah Murtaza Tooba ko manane ki kosh"
+        ]
+      }
+    ],
+    "facts": [
+      "Bano Episode 43 aired on 2026-11-26.",
+      "Channel: Geo TV.",
+      "Watch the full episode: https://www.youtube.com/watch?v=uiEB38Edp78",
+      "YouTube views: 106,223.",
+      "Episode summary added 2026-11-26."
+    ],
+    "entities": {
+      "titles": [
+        "Bano"
+      ],
+      "people": []
+    },
+    "images": [
+      {
+        "url": "https://i.ytimg.com/vi/uiEB38Edp78/hqdefault.jpg",
+        "caption": "Bano Episode 43",
+        "source": "Geo TV"
+      }
+    ],
+    "published": "2026-11-26T17:00:05Z"
+  },
+  "1ltcmfz": {
+    "id": "1ltcmfz",
+    "type": "news",
+    "headline": "Mera Ghar Episode 10 — Watch Online on ARY Digital",
+    "dek": "Mera Ghar episode 10 aired on 2026-11-26 — watch the full episode on ARY Digital.",
+    "body": [
+      {
+        "h": "Episode Details",
+        "p": [
+          "Mera Ghar Episode 10 aired on 2026-11-26 on ARY Digital. The full episode is available on the channel's official YouTube page.",
+          "Watch the full episode here: https://www.youtube.com/watch?v=C47NAuknha4"
+        ]
+      }
+    ],
+    "facts": [
+      "Mera Ghar Episode 10 aired on 2026-11-26.",
+      "Channel: ARY Digital.",
+      "Watch the full episode: https://www.youtube.com/watch?v=C47NAuknha4",
+      "YouTube views: 64,223."
+    ],
+    "entities": {
+      "titles": [
+        "Mera Ghar"
+      ],
+      "people": []
+    },
+    "images": [
+      {
+        "url": "https://i.ytimg.com/vi/C47NAuknha4/hqdefault.jpg",
+        "caption": "Mera Ghar Episode 10",
+        "source": "ARY Digital"
+      }
+    ],
+    "published": "2026-11-26T15:00:44Z"
+  },
+  "1n14849": {
+    "id": "1n14849",
+    "type": "news",
+    "headline": "Khushi Episode 75 — Watch Online on HUM TV",
+    "dek": "Khushi episode 75 aired on 2026-11-26 — watch the full episode on HUM TV.",
+    "body": [
+      {
+        "h": "Episode Details",
+        "p": [
+          "Khushi Episode 75 aired on 2026-11-26 on HUM TV. The full episode is available on the channel's official YouTube page.",
+          "Watch the full episode here: https://www.youtube.com/watch?v=NVGGjFUbJjE"
+        ]
+      },
+      {
+        "h": "Episode Summary",
+        "p": [
+          "Is episode mein Khushi Aiza ko uske bad-tehzeeb rawayye par daant-ti hai aur aakhri warning deti hai. Doosri taraf, Hamna hospital se Saim ki maa Rukhsana ko phone karke jhooti khabar deti hai ke woh pregnant hai. Rukhsana yeh sun kar behad khush hoti hai. Saim, Khushi aur uski maa ke samne yeh faisla sunata hai ke woh Hamna ko divorce dekar Khushi se shadi karega, lekin tabhi"
+        ]
+      }
+    ],
+    "facts": [
+      "Khushi Episode 75 aired on 2026-11-26.",
+      "Channel: HUM TV.",
+      "Watch the full episode: https://www.youtube.com/watch?v=NVGGjFUbJjE",
+      "YouTube views: 614,374.",
+      "Episode summary added 2026-11-26."
+    ],
+    "entities": {
+      "titles": [
+        "Khushi"
+      ],
+      "people": []
+    },
+    "images": [
+      {
+        "url": "https://i.ytimg.com/vi/NVGGjFUbJjE/hqdefault.jpg",
+        "caption": "Khushi Episode 75",
+        "source": "HUM TV"
+      }
+    ],
+    "published": "2026-11-26T15:00:30Z"
+  },
+  "qv76p6": {
+    "id": "qv76p6",
+    "type": "news",
+    "headline": "Ragini Sona Addresses 'Hanuman Ansh' Producer Rift at IFFI 2026, Confirms Sequel Plans",
+    "dek": "Co-producer Ragini Sona opens up about internal disagreements among the team of 'Hanuman Ansh' during the International Film Festival of India, while assuring fans that franchise expansion remains firmly on track.",
+    "body": [
+      {
+        "h": "Addressing the Producer Tension at IFFI 2026",
+        "p": [
+          "Co-producer Ragini Sona recently addressed ongoing rumors regarding creative and professional friction among the four producers behind the hit film 'Hanuman Ansh'. Speaking at the 57th International Film Festival of India in Goa, she openly acknowledged that disagreements did occur during the project's journey.",
+          "Rather than deflecting or ignoring the speculation, Sona confronted the reports directly during her interaction at the prominent cinematic gathering. Her remarks offered rare transparency into the behind-the-scenes dynamics of a major film production."
+        ]
+      },
+      {
+        "h": "The Reality of Collaboration",
+        "p": [
+          "Using a traditional Hindi idiom to describe the situation, Sona remarked that minor disputes are practically unavoidable when multiple key players join forces on a massive undertaking. She stated that working closely together naturally leads to occasional friction.",
+          "Despite these bumps along the road, she emphasized that the core team has successfully moved past any internal discord. The focus, according to her, quickly shifted back to the collective success of their cinematic creation."
+        ]
+      },
+      {
+        "h": "Maintaining a United Front",
+        "p": [
+          "Sona noted that the producers never intended to bring their private disputes into the public eye, criticizing the leaking of controversies. She stressed that maintaining professional dignity remains paramount for the leadership team.",
+          "To reinforce this point, she pointed out that the makers have consistently appeared together at press conferences and promotional events. In her view, presenting a unified front publicly speaks volumes about their enduring partnership."
+        ]
+      },
+      {
+        "h": "Future Franchise Plans Confirmed",
+        "p": [
+          "Amid questions about whether internal tensions might jeopardize the future of the intellectual property, Sona firmly dismissed any such concerns. She confirmed that the creative team had always intended to expand the story beyond a single standalone feature.",
+          "Planning for a franchise began even before principal photography on the inaugural installment wrapped up. The vast amount of folklore surrounding Neem Karoli Baba naturally lent itself to a multi-part narrative structure from the very beginning."
+        ]
+      },
+      {
+        "h": "Exploring Neem Karoli Baba's Tales",
+        "p": [
+          "The producers initially envisioned stretching the overarching narrative across a trilogy to do justice to the source material. Sona explained that the sheer volume of stories tied to Neem Karoli Baba cannot possibly fit into the confines of a single feature-length movie.",
+          "While two or three parts remain a strong possibility for the future, the immense time and labor demanded by the first installment temporarily delayed early development on the next chapter."
+        ]
+      },
+      {
+        "h": "Box Office Performance and Legacy",
+        "p": [
+          "The first film in the franchise arrived in cinemas on August 7, 2026, drawing significant attention from audiences and trade analysts alike. Its theatrical run sustained impressive momentum over subsequent weeks.",
+          "According to tracking reports from Sacnilk, the venture accumulated a massive worldwide gross collection of Rs 453.47 crore across a prolonged 111-day theatrical window, cementing its status as a major commercial success."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Co-producer Ragini Sona addressed reported friction among the team of 'Hanuman Ansh' at the 57th International Film Festival of India 2026 in Goa, admitting that minor disagreements occurred while confirming that future sequel plans remain unaffected. She noted that the makers intend to expand the folklore of Neem Karoli Baba across multiple parts following the theatrical release of the first film on August 7, 2026, which grossed Rs 453.47 crore worldwide over 111 days."
+        ]
+      }
+    ],
+    "facts": [
+      "Ragini Sona is a co-producer of Hanuman Ansh.",
+      "The 57th International Film Festival of India (IFFI) 2026 took place in Goa.",
+      "Hanuman Ansh was released in theatres on August 7, 2026.",
+      "The worldwide gross collection of Hanuman Ansh was Rs 453.47 crore over 111 days according to Sacnilk."
+    ],
+    "entities": {
+      "people": [
+        "Ragini Sona",
+        "Neem Karoli Baba"
+      ],
+      "titles": [
+        "Hanuman Ansh",
+        "Hanuman Ansh 1"
+      ]
+    },
+    "keywords": [
+      "Ragini Sona Hanuman Ansh",
+      "Hanuman Ansh sequel plans",
+      "Hanuman Ansh box office collection",
+      "Hanuman Ansh producers fallout IFFI 2026"
+    ],
+    "images": [
+      {
+        "url": "https://static.toiimg.com/thumb/msid-136197229,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "caption": "Ragini Sona Addresses 'Hanuman Ansh' Producer Rift at IFFI 2026, Confirms Sequel Plans",
+        "source": "Times of India — Entertainment"
+      }
+    ],
+    "published": "2026-11-26T21:20:48+05:30"
+  },
+  "hujbo6": {
+    "id": "hujbo6",
+    "type": "news",
+    "headline": "Thanksgiving Travel Disrupted by Severe Weather Across the United States",
+    "dek": "Powerful storms cause widespread flight cancellations, severe delays, and massive power outages impacting holiday travelers across America.",
+    "body": [
+      {
+        "h": "Holiday Travel Disruption",
+        "p": [
+          "Severe weather conditions severely impacted holiday transportation throughout the United States, throwing travel plans into complete chaos for numerous passengers trying to reach their destinations.",
+          "Flight tracking data recorded hundreds of canceled domestic and international flights alongside thousands of delays as powerful storms swept across the country just ahead of the holiday."
+        ]
+      },
+      {
+        "h": "Flight Statistics and Cancellations",
+        "p": [
+          "Flight operations suffered massive setbacks beginning Wednesday, with reports showing nearly 7,000 delayed flights and over 160 cancellations on that day alone.",
+          "The disruptions continued into Thursday morning, forcing airlines to ground approximately 370 flights while roughly 700 additional departures and arrivals experienced significant delays."
+        ]
+      },
+      {
+        "h": "East Coast Weather Warnings",
+        "p": [
+          "Meteorological forecasts indicated that conditions could deteriorate further as heavy rainfall and intense winds targeted multiple areas along the East Coast during Thanksgiving Day.",
+          "Major commercial carriers including Delta, United, and American Airlines responded to the worsening climate conditions by issuing travel waivers to assist affected passengers with rebooking."
+        ]
+      },
+      {
+        "h": "Power Outages and Grid Risks",
+        "p": [
+          "Beyond transportation delays, the fierce weather systems caused widespread electricity failures, leaving more than 400,000 homes and commercial properties completely without power.",
+          "Authorities warned that millions of additional residents remained at risk of experiencing sudden blackouts as the severe storm front continued its destructive path."
+        ]
+      },
+      {
+        "h": "Parade Postponement",
+        "p": [
+          "The hazardous atmospheric conditions forced organizers to take drastic measures regarding traditional holiday festivities, including the famous Macy's Thanksgiving Day Parade.",
+          "Due to safety concerns stemming from the severe weather, the iconic holiday procession was officially postponed until Saturday."
+        ]
+      },
+      {
+        "h": "Recent Aviation Troubles",
+        "p": [
+          "This latest holiday travel crisis occurred less than two weeks after the Federal Aviation Administration implemented a nationwide ground stop that left passengers stranded at airports nationwide.",
+          "The recurring aviation difficulties led many travelers to face the prospect of spending their holiday meals inside airport terminal food courts."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Powerful storms across the United States caused widespread travel chaos, resulting in hundreds of flight cancellations and thousands of delays during the Thanksgiving holiday. The severe weather also knocked out power to over 400,000 homes and forced the postponement of the Macy's Thanksgiving Day Parade to Saturday."
+        ]
+      }
+    ],
+    "facts": [
+      "Over 400,000 homes and businesses lost power.",
+      "Roughly 370 flights were canceled Thursday morning.",
+      "Around 700 flights were delayed Thursday morning.",
+      "Nearly 7,000 flights were delayed on Wednesday.",
+      "More than 160 flights were canceled on Wednesday."
+    ],
+    "entities": {
+      "people": [],
+      "titles": []
+    },
+    "keywords": [
+      "Thanksgiving travel chaos",
+      "Flight cancellations Thanksgiving",
+      "Macys Thanksgiving Day Parade postponed",
+      "US power outages Thanksgiving"
+    ],
+    "images": [
+      {
+        "url": "https://imagez.tmz.com/image/5b/16by9/2026/11/26/5b6fa3f3921844ba978b5251b5eaba02_xl.jpg",
+        "caption": "Thanksgiving Travel Disrupted by Severe Weather Across the United States",
+        "source": "TMZ"
+      }
+    ],
+    "published": "2026-11-26T08:21:45-08:00"
+  },
+  "130zd56": {
+    "id": "130zd56",
+    "type": "news",
+    "headline": "Director Anil Ravipudi Opens Up About His Upcoming Collaboration With Superstar Jr NTR",
+    "dek": "Filmmaker Anil Ravipudi discusses his surprise upcoming project with Jr NTR at IFFI Goa, highlighting the balance of mass stardom and comedy.",
+    "body": [
+      {
+        "h": "Surprise Collaboration Announcement",
+        "p": [
+          "A major cinematic partnership caught the industry and fans completely off guard when Jr NTR utilized social media to officially break the news about his upcoming project with director Anil Ravipudi. Prior to the actor sharing photographs from their meeting and voicing his enthusiasm, rumors or pre-announcement buzz regarding this creative team-up were virtually nonexistent, turning the unexpected revelation into a massive talking point for cinephiles.",
+          "The informal nature of the announcement added to the excitement across various digital platforms. By taking matters into his own hands and posting directly to his followers, the superstar immediately ignited intense speculation about what this new cinematic venture will look like."
+        ]
+      },
+      {
+        "h": "A Monumental Milestone for the Filmmaker",
+        "p": [
+          "Addressing the media for the very first time regarding the project at IFFI Goa, director Anil Ravipudi did not hide his enthusiasm about teaming up with the prominent actor. He openly acknowledged the magnitude of the undertaking, describing the chance to direct the top-tier star as a tremendous career opportunity given his current professional trajectory.",
+          "The filmmaker noted that securing this collaboration aligns perfectly with his creative flow and current slate of motion pictures. Such remarks underscore how significant this union of director and actor is viewed within the entertainment sphere."
+        ]
+      },
+      {
+        "h": "Balancing Stardom and Universal Appeal",
+        "p": [
+          "While specific plot points and narrative details remain under wraps due to the early stages of production, the director emphasized that meticulous planning is required to honor the leading man's massive following. Crafting a narrative that satisfies die-hard admirers while appealing broadly to general audiences is a primary objective for the creative team.",
+          "The writing process involves careful calibration of the protagonist's established hero persona with engaging storytelling. The goal is to ensure that the final cinematic product resonates on every level, keeping ticket buyers thoroughly invested from start to finish."
+        ]
+      },
+      {
+        "h": "Reviving Comic Timings on Screen",
+        "p": [
+          "One of the most exciting prospects of this newly announced venture is the potential revival of the lead actor's much-loved comedic talents. Audiences have long anticipated seeing the superstar return to the humorous space that he famously navigated in earlier projects.",
+          "The filmmaker acknowledged that many moviegoers are eager to witness the actor's lighter side once again. Incorporating this specific angle into the storyline is a major priority as the script continues to take shape."
+        ]
+      },
+      {
+        "h": "Anil Ravipudi's Signature Entertainment Style",
+        "p": [
+          "The partnership brings together a director renowned for his distinct approach to commercial cinema. The filmmaker's previous works are typically defined by a lively mix of brisk comedy, heartwarming family drama, and high-octane action tailored for mainstream crowds.",
+          "His storytelling frequently leverages family relationships, sharp banter, and celebratory releases driven by rapid-fire jokes. Applying this proven template to a top-tier action star promises a unique cinematic flavor."
+        ]
+      },
+      {
+        "h": "Nostalgia and Fan Expectations",
+        "p": [
+          "Anticipation for this creative alliance is deeply rooted in the lead actor's past performances. Followers frequently reminisce about his standout work in the 2010 film Adhurs, where he memorably displayed effortless comic timing and quick wit.",
+          "Ever since that release, supporters have looked forward to another project that utilizes those same expressive talents. This upcoming film presents an ideal avenue to reintroduce those memorable elements to the big screen."
+        ]
+      },
+      {
+        "h": "Positive Progress and Future Outlook",
+        "p": [
+          "Development on the script is currently moving forward with encouraging momentum. The creative team remains hopeful that all necessary elements will seamlessly fall into place as pre-production continues.",
+          "As discussions progress and the narrative is refined, further details regarding the project are expected to emerge, keeping the spotlight firmly on this high-profile actor-director duo."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Director Anil Ravipudi recently discussed his surprise upcoming film with Jr NTR at IFFI Goa, describing the collaboration as a major opportunity. The filmmaker aims to blend the star's massive appeal with humor, potentially reviving the actor's comedic flair last seen prominently in the 2010 movie Adhurs."
+        ]
+      }
+    ],
+    "facts": [
+      "Director Anil Ravipudi and Jr NTR announced an upcoming film collaboration.",
+      "The announcement was made via social media by Jr NTR.",
+      "Anil Ravipudi spoke about the project at IFFI Goa on November 26, 2026.",
+      "Jr NTR previously showcased his flair for comedy in the 2010 film Adhurs."
+    ],
+    "entities": {
+      "people": [
+        "Anil Ravipudi",
+        "Jr NTR"
+      ],
+      "titles": [
+        "Adhurs"
+      ]
+    },
+    "keywords": [
+      "Jr NTR",
+      "Anil Ravipudi",
+      "Jr NTR Anil Ravipudi film",
+      "Adhurs"
+    ],
+    "images": [
+      {
+        "url": "https://filmfare.wwmindia.com/content/2026/nov/film-with-jr-ntr-is-a-big-opportunity-says-anil-ravipudi1795696612.jpg",
+        "caption": "Director Anil Ravipudi Opens Up About His Upcoming Collaboration With Superstar Jr NTR",
+        "source": "Filmfare"
+      }
+    ],
+    "published": "2026-11-26T18:09:52+05:30"
+  },
+  "15v76q6": {
+    "id": "15v76q6",
+    "type": "news",
+    "headline": "Jr NTR Welcomes a Custom Masterpiece by Legendary Artist Thota Vaikuntam",
+    "dek": "Telugu superstar Jr NTR adds a specially commissioned painting by acclaimed Indian artist Thota Vaikuntam to his personal art collection in Hyderabad.",
+    "body": [
+      {
+        "h": "A Special Delivery in Hyderabad",
+        "p": [
+          "Renowned Indian painter, printmaker, and sculptor Thota Vaikuntam recently visited the residence of actor Jr NTR in Hyderabad to personally hand over a newly created piece. The acclaimed artist delivered the specially commissioned original artwork directly to the star, marking a memorable meeting between two prominent cultural figures.",
+          "The actor, who is well known for his deep appreciation of fine arts and traditional paintings, eagerly welcomed the addition into his home. The personal delivery underscored a mutual respect between the legendary creator and the leading cinema icon."
+        ]
+      },
+      {
+        "h": "Expressions of Gratitude on Social Media",
+        "p": [
+          "Following the special visit, Jr NTR took to Instagram to share photographs featuring himself alongside the artist and the newly acquired painting. He expressed his feelings of humility and immense joy regarding the momentous occasion of bringing home a piece by the legendary creator.",
+          "In response, Thota Vaikuntam extended his gratitude to the actor for the warm love and admiration shown. The painter shared his best wishes, stating his hope that the devotional artwork would bring continuous blessings and happiness to the household."
+        ]
+      },
+      {
+        "h": "Artistic Tastes and Interior Design",
+        "p": [
+          "Beyond collecting individual canvases, Jr NTR maintains a noted interest in contemporary art, creative studios, modern architecture, and thoughtful design elements around Hyderabad. His residence in Jubilee Hills showcases a refined aesthetic that balances minimalist contemporary architecture with traditional Indian craftsmanship and earthy, warm textures.",
+          "To complement this sophisticated living space, the actor personally commissioned the master painter to create a devotional piece centered around themes of peace, prosperity, and auspicious new beginnings."
+        ]
+      },
+      {
+        "h": "Classical Roots and Performing Arts",
+        "p": [
+          "The actor's affinity for creativity extends far beyond the visual arts into the realm of traditional performance. Long before establishing himself as a leading cinematic icon, he trained extensively in Kuchipudi, an ancient Indian classical dance form, performing regularly on stage during his youth.",
+          "This rigorous early grounding in classical discipline has deeply influenced his professional career. Observers frequently attribute the remarkable rhythmic precision and expressive physicality seen in his on-screen performances to these formative years of dance training."
+        ]
+      },
+      {
+        "h": "Upcoming Cinematic Ventures",
+        "p": [
+          "Alongside his personal milestones, the star remains heavily occupied with his demanding film schedule and is currently shooting for Prashanth Neel's highly anticipated action entertainer, Dragon. In this upcoming project, he portrays a complex character named Luger.",
+          "Director Prashanth Neel has characterized this specific role as the darkest persona he has ever written for the screen. To authentically capture this morally grey and intense character, the performer underwent a significant physical transformation, building immense anticipation among fans ahead of the film's scheduled theatrical release on June 11, 2027."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Actor Jr NTR brought home a custom original artwork created and personally delivered by veteran artist Thota Vaikuntam in Hyderabad. The star documented the moment on Instagram, highlighting his admiration for traditional Indian craftsmanship as he simultaneously prepares for his upcoming theatrical release Dragon."
+        ]
+      }
+    ],
+    "facts": [
+      "Thota Vaikuntam personally delivered a commissioned original artwork to Jr NTR at his Hyderabad residence.",
+      "Jr NTR shared photographs of the painting and the artist on Instagram on November 26, 2026.",
+      "Jr NTR's home is located in Jubilee Hills.",
+      "Jr NTR trained extensively in Kuchipudi during his younger years.",
+      "Jr NTR is starring in Prashanth Neel's Dragon as a character named Luger.",
+      "Dragon is scheduled to release in theatres on June 11, 2027."
+    ],
+    "entities": {
+      "people": [
+        "Jr NTR",
+        "Thota Vaikuntam",
+        "Prashanth Neel"
+      ],
+      "titles": [
+        "Dragon"
+      ]
+    },
+    "keywords": [
+      "Jr NTR Thota Vaikuntam artwork",
+      "Jr NTR painting Thota Vaikuntam",
+      "Jr NTR Dragon movie release date",
+      "Prashanth Neel Dragon film"
+    ],
+    "images": [
+      {
+        "url": "https://filmfare.wwmindia.com/content/2026/nov/jr-ntr-receives-a-specially-commissioned-artwork-by-thota-vaikuntam1795695925.jpg",
+        "caption": "Jr NTR Welcomes a Custom Masterpiece by Legendary Artist Thota Vaikuntam",
+        "source": "Filmfare"
+      }
+    ],
+    "published": "2026-11-26T18:01:14+05:30"
   }
 };
