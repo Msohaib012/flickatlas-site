@@ -250665,5 +250665,443 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Thu, 26 Nov 2026 00:41:59 +0000"
+  },
+  "jns09t": {
+    "id": "jns09t",
+    "type": "news",
+    "headline": "Ramayana Reaches Fourth Place Globally After Surpassing Pushpa 2",
+    "dek": "On its twenty-first day in theaters, the Ranbir Kapoor-starrer epic crossed a major worldwide milestone, edging past Allu Arjun's film to secure a spot in the top four highest-grossing Indian features.",
+    "body": [
+      {
+        "h": "Global Milestone Achieved",
+        "p": [
+          "The theatrical journey of the mythological feature has achieved a notable financial milestone on its twenty-first day. By pushing past previous earnings benchmarks, the production has altered the upper tiers of international revenue rankings for Indian cinema.",
+          "The global total has now climbed to a substantial figure, allowing the movie to bypass competing high-grossing titles and secure a firm position among the most financially successful cinematic projects from the country."
+        ]
+      },
+      {
+        "h": "Surpassing Pushpa 2",
+        "p": [
+          "In its race up the charts, the Nitesh Tiwari directorial officially overtook Allu Arjun's massive hit project. While the competitor previously held a strong foothold in the upper ranks, continued ticket sales allowed the newer release to pull ahead.",
+          "This shift places the production directly into the all-time top four grossers, trailing only a select few historical heavyweights on the international ledger."
+        ]
+      },
+      {
+        "h": "Day 21 Domestic and Overseas Figures",
+        "p": [
+          "During its third Wednesday in cinemas, the feature maintained a broad footprint across domestic screens with thousands of active showings. Collections arrived from multiple regional iterations, contributing steadily to the running domestic total.",
+          "Simultaneously, international territories continued to add to the overseas gross sum, reflecting sustained viewer interest outside domestic borders as the run progressed into its fourth week."
+        ]
+      },
+      {
+        "h": "Regional Language Breakdown",
+        "p": [
+          "The domestic performance was anchored heavily by the primary language version, which occupied the largest share of show counts and daily earnings. Several regional iterations also contributed meaningful shares across different states.",
+          "Audience turnout was recorded for versions in Malayalam, Kannada, Tamil, and Telugu, demonstrating a geographically diverse spread of ticket sales during the twenty-first day."
+        ]
+      },
+      {
+        "h": "Elite Company in Top Rankings",
+        "p": [
+          "Following this recent climb, the project now shares the leaderboard with some of the most prominent blockbusters in domestic film history. The upper echelon currently features established titles like Dangal, Dhurandhar 2, and Baahubali 2.",
+          "Securing the fourth position places the epic just beneath these frontrunners, marking a significant commercial chapter for its investors and creative team."
+        ]
+      },
+      {
+        "h": "Cast, Crew, and Future Plans",
+        "p": [
+          "Helmed by director Nitesh Tiwari and produced by Namit Malhotra, the feature boasts a massive ensemble cast including Ranbir Kapoor, Sai Pallavi, Yash, Ravie Dubey, and Sunny Deol, alongside veteran actors like Arun Govil and Lara Dutta.",
+          "The sonic landscape was crafted by composers Hans Zimmer and AR Rahman. Looking ahead, a second instalment focusing on the conflict between Rama and Ravana has already been mapped out for a worldwide release during Diwali 2028."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "The Ranbir Kapoor-led epic surpassed Pushpa 2 on its twenty-first day to become the fourth-highest-grossing Indian film worldwide with a total of Rs 1,755.60 crore. Directed by Nitesh Tiwari, the feature continues a strong theatrical run alongside upcoming plans for a sequel in 2028."
+        ]
+      }
+    ],
+    "facts": [
+      "Ramayana earned Rs 1,755.60 crore worldwide",
+      "Pushpa 2 earned Rs 1,742 crore worldwide",
+      "Day 21 domestic nett collection was Rs 9.60 crore",
+      "Day 21 overseas gross collection was Rs 6 crore",
+      "Total India nett collection reached Rs 982.55 crore",
+      "Total India gross collection stands at Rs 1,173.60 crore",
+      "Total overseas gross collection reached Rs 582 crore",
+      "The film was released on Day 21 on November 26, 2026",
+      "Dangal is ranked first with Rs 2,070 crore",
+      "Dhurandhar 2 is ranked second with Rs 1,813.40 crore",
+      "Baahubali 2 is ranked third with Rs 1,788 crore",
+      "The second instalment is scheduled for Diwali 2028"
+    ],
+    "entities": {
+      "people": [
+        "Ranbir Kapoor",
+        "Allu Arjun",
+        "Nitesh Tiwari",
+        "Sai Pallavi",
+        "Yash",
+        "Ravie Dubey",
+        "Sunny Deol",
+        "Arun Govil",
+        "Lara Dutta",
+        "Kajal Aggarwal",
+        "Rakul Preet Singh",
+        "Namit Malhotra",
+        "Hans Zimmer",
+        "AR Rahman"
+      ],
+      "titles": [
+        "Ramayana",
+        "Pushpa 2",
+        "Dangal",
+        "Dhurandhar 2",
+        "Baahubali 2",
+        "Gunmaaster G9",
+        "Yeh Prem Mol Liya"
+      ]
+    },
+    "keywords": [
+      "Ramayana box office",
+      "Ranbir Kapoor Ramayana",
+      "Ramayana beats Pushpa 2",
+      "Ramayana Day 21 collection"
+    ],
+    "images": [
+      {
+        "url": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202611/ramayana-260702110-16x9_0.jpg?VersionId=UwVgA.MhtxMUhFR8MDn39oDwHW4114pi",
+        "caption": "Ramayana Reaches Fourth Place Globally After Surpassing Pushpa 2",
+        "source": "India Today — Movies"
+      }
+    ],
+    "published": "Thu, 26 Nov 2026 07:38:05 +0530"
+  },
+  "hbbmml": {
+    "id": "hbbmml",
+    "type": "news",
+    "headline": "ABC Secures Court Protection Against FCC Over License Review Dispute",
+    "dek": "A federal judge has issued a preliminary injunction protecting ABC from an FCC broadcast license review that the network claimed was retaliation tied to Jimmy Kimmel.",
+    "body": [
+      {
+        "h": "Federal Ruling Issued",
+        "p": [
+          "A federal judge delivered a significant legal victory to ABC on Wednesday in its ongoing battle against the Federal Communications Commission. U.S. District Judge Loren AliKhan granted a preliminary injunction that blocks the regulatory body from advancing further with controversial broadcast license reviews.",
+          "The network initiated legal action in August, contending that the commission's measures were entirely retaliatory. The dispute stems directly from content featured on the network, including segments involving Jimmy Kimmel and general news programming."
+        ]
+      },
+      {
+        "h": "First Amendment Arguments",
+        "p": [
+          "In the issued decision, Judge AliKhan noted that the network held a strong likelihood of prevailing on its core retaliation claims. The court assessed that the regulatory actions infringed upon protected speech under the First Amendment.",
+          "Legal representatives for the network emphasized that none of the eight station licenses in question were scheduled to expire until 2028, making the agency's accelerated review timeline highly irregular and suspicious."
+        ]
+      },
+      {
+        "h": "Controversial Timing and Social Media",
+        "p": [
+          "The presiding judge heavily scrutinized the chronological sequence of events leading up to the commission's review order. The decision highlighted a social media post published on Truth Social demanding the termination of Jimmy Kimmel just one day prior to the agency's directive.",
+          "Although the regulatory commission officially cited an ongoing investigation into diversity practices as the justification for early license renewals, the court dismissed this explanation as lacking credibility."
+        ]
+      },
+      {
+        "h": "Impact on Editorial Choices",
+        "p": [
+          "The court's assessment pointed out tangible instances where the network altered its programming out of apprehension regarding its broadcasting rights. Specifically, an appearance by James Talarico as a guest on Jimmy Kimmel Live was redirected to YouTube rather than traditional broadcast channels.",
+          "AliKhan stated in the ruling that these operational adjustments demonstrated how the premature license proceedings had already successfully restricted the network's protected editorial activities."
+        ]
+      },
+      {
+        "h": "Reactions from Involved Parties",
+        "p": [
+          "Following the delivery of the verdict, an official spokesperson for ABC News released a statement praising the outcome as an essential triumph for constitutional free speech protections.",
+          "Conversely, representatives for the federal agency maintained their stance, criticizing the judicial ruling as erroneous regarding both factual interpretation and legal application, while expressing confidence in eventually overturning the outcome."
+        ]
+      },
+      {
+        "h": "Scope of the Injunction",
+        "p": [
+          "Despite securing the injunction halting the specific license proceedings, the network did not achieve all of its requested legal remedies. The presiding judge chose to deny a broader request that would have completely prohibited the agency from taking any future actions aimed at influencing media content.",
+          "The limitation leaves room for future regulatory oversight, provided those actions avoid the retaliatory patterns identified by the court in this specific dispute."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "A federal judge issued a preliminary injunction blocking the FCC from pursuing early broadcast license reviews against ABC that the network alleged were retaliatory. The court found that the agency's actions violated First Amendment protections and were improperly timed following public demands regarding Jimmy Kimmel."
+        ]
+      }
+    ],
+    "facts": [
+      "A federal judge issued a preliminary injunction on Wednesday.",
+      "U.S. District Judge Loren AliKhan presided over the case.",
+      "ABC sued the FCC in August.",
+      "None of the eight station licenses were due to expire until 2028.",
+      "James Talarico made a guest appearance on Jimmy Kimmel Live."
+    ],
+    "entities": {
+      "people": [
+        "Vritti Johar",
+        "Loren AliKhan",
+        "Jimmy Kimmel",
+        "Donald Trump",
+        "James Talarico",
+        "Chris Pratt",
+        "Brad Pitt",
+        "Angelina Jolie",
+        "Stephen King",
+        "Kelsey Grammer",
+        "Robert Downey Jr.",
+        "Peter Jackson",
+        "Donald Trump Jr.",
+        "Jensen Huang"
+      ],
+      "titles": [
+        "Jimmy Kimmel Live",
+        "Avengers: Doomsday",
+        "The Hunt for Gollum"
+      ]
+    },
+    "keywords": [
+      "ABC FCC lawsuit",
+      "Jimmy Kimmel FCC",
+      "Loren AliKhan ABC",
+      "ABC broadcast licenses"
+    ],
+    "images": [
+      {
+        "url": "https://www.comingsoon.net/wp-content/uploads/sites/3/2026/11/abclogochannel_372491.webp?resize=1200,630",
+        "caption": "ABC Secures Court Protection Against FCC Over License Review Dispute",
+        "source": "ComingSoon.net"
+      }
+    ],
+    "published": "Thu, 26 Nov 2026 02:29:58 +0000"
+  },
+  "14m2rl2": {
+    "id": "14m2rl2",
+    "type": "news",
+    "headline": "Park Ji-Hyun Achieves Historic First International Emmy Acting Nomination for South Korea",
+    "dek": "The You and Everything Else star reflected on her milestone achievement at the 54th International Emmy Awards in New York.",
+    "body": [
+      {
+        "h": "A Historic Milestone for South Korean Television",
+        "p": [
+          "Park Ji-Hyun has officially made television history by becoming the first female South Korean actress to secure an acting nomination at the International Emmy Awards. Her recognition stems from her compelling work in the Netflix drama series You and Everything Else.",
+          "The nomination marks a massive leap forward for performers from South Korea on a global stage, highlighting the growing international impact and reach of Korean storytelling outside of domestic markets."
+        ]
+      },
+      {
+        "h": "Red Carpet Reflections and Surprise",
+        "p": [
+          "While attending the 54th International Emmy Awards ceremony held in New York, Park shared her overwhelming feelings with reporters during an interview on the red carpet. She candidly admitted that the entire situation felt surreal, akin to being trapped inside a pleasant dream.",
+          "Despite experiencing a healthy amount of nerves ahead of the announcement, the talented performer noted that she held zero expectations regarding taking home the actual trophy, choosing instead to simply soak in the unprecedented moment."
+        ]
+      },
+      {
+        "h": "Tough International Competition",
+        "p": [
+          "The category for Best Performance by an Actress brought together brilliant talents from across the globe. Park found herself competing against Mona Mina Leon from Belgium for Holy Sh!t, Bárbara Mori from Mexico for Lucca's World, and Sheridan Smith from Great Britain for I Fought the Law.",
+          "Ultimately, Belgian actor Mona Mina Leon walked away with the prestigious acting prize, edging out the rest of the nominees and leaving Park without the win, though her nomination remains a monumental career high."
+        ]
+      },
+      {
+        "h": "About the Netflix Drama You and Everything Else",
+        "p": [
+          "Released on Netflix back in 2025, You and Everything Else is a deeply emotional drama scripted by writer Song Hye-jin and directed expertly by filmmaker Jo Yeong-min. The narrative revolves around the intricate, multifaceted bond shared by two women.",
+          "The story charts the long-standing relationship between Eun-jung, brought to life by Kim Go-eun, and Sang-yeon, portrayed by Park Ji-hyun, tracking their journey from youth through their adult years while handling heavy themes like personal friction and assisted suicide."
+        ]
+      },
+      {
+        "h": "Wider South Korean Presence at the Emmys",
+        "p": [
+          "Beyond Park's individual nod, South Korea also had representation in the TV Movie/Mini-Series category with the Disney+ original medical thriller Hyper Knife, which debuted in 2025. Unfortunately, the project missed out on the win, losing to the British production Prisoner 951.",
+          "These recent nominations continue a proud tradition of recognition for the country at the event, following the historical 2022 victory of the romance drama The King's Affection, which broke ground as the first Korean series to win an International Emmy."
+        ]
+      },
+      {
+        "h": "Understanding the International Emmy Awards",
+        "p": [
+          "Established originally in 1973, the International Emmy Awards were created with the express purpose of celebrating top-tier television programs produced exclusively outside of the borders of the United States.",
+          "The annual ceremony serves as a crucial bridge, honoring exceptional global talent and introducing diverse, brilliant television productions from every corner of the world directly to American viewers."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Park Ji-Hyun became the first South Korean actress to receive an International Emmy acting nomination for her role in the Netflix series You and Everything Else. Although Mona Mina Leon ultimately won the category at the New York ceremony, Park's achievement adds to South Korea's growing legacy at the global awards."
+        ]
+      }
+    ],
+    "facts": [
+      "Park Ji-Hyun received an International Emmy acting nomination for You and Everything Else.",
+      "She is the first South Korean actress to receive an International Emmy acting nomination.",
+      "The 54th International Emmy Awards took place in New York.",
+      "Mona Mina Leon won the Best Performance by an Actress award for Holy Sh!t.",
+      "You and Everything Else was released on Netflix in 2025.",
+      "Song Hye-jin wrote You and Everything Else and Jo Yeong-min directed it.",
+      "Kim Go-eun plays Eun-jung and Park Ji-hyun plays Sang-yeon in You and Everything Else.",
+      "Hyper Knife is a Disney+ original medical thriller released in 2025 that was nominated in the TV Movie/Mini-Series category.",
+      "The International Emmy Awards were established in 1973.",
+      "The King's Affection won an International Emmy in 2022."
+    ],
+    "entities": {
+      "people": [
+        "Park Ji-Hyun",
+        "Arpita Sarkar",
+        "Mona Mina Leon",
+        "Bárbara Mori",
+        "Sheridan Smith",
+        "Song Hye-jin",
+        "Jo Yeong-min",
+        "Kim Go-eun",
+        "Jensen Huang",
+        "Eric Swalwell",
+        "Akshay Kumar",
+        "Ravi Kishan",
+        "Gukesh",
+        "Sindarov"
+      ],
+      "titles": [
+        "You and Everything Else",
+        "Holy Sh!t",
+        "Lucca's World",
+        "I Fought the Law",
+        "Hyper Knife",
+        "Prisoner 951",
+        "The King's Affection"
+      ]
+    },
+    "keywords": [
+      "Park Ji-Hyun Emmy nomination",
+      "You and Everything Else Netflix",
+      "Park Ji-Hyun You and Everything Else",
+      "International Emmy Awards 2026"
+    ],
+    "images": [
+      {
+        "url": "https://images.timesnownews.com/thumb/msid-156566187,thumbsize-136429,width-1280,height-720,resizemode-75/156566187.jpg",
+        "caption": "Park Ji-Hyun Achieves Historic First International Emmy Acting Nomination for South Korea",
+        "source": "Times Now — Entertainment"
+      }
+    ],
+    "published": "2026-11-26T02:52:22Z"
+  },
+  "n3n412": {
+    "id": "n3n412",
+    "type": "news",
+    "headline": "The Mandalorian Adventures with Grogu Pop-Up Storybook Launches for Fans",
+    "dek": "A brand new paper-engineered book brings the adventures of Din Djarin and Grogu to life just in time for the holiday season.",
+    "body": [
+      {
+        "h": "A New Interactive Release",
+        "p": [
+          "Fans of the hit Disney series can now experience a new collectible release based on the beloved franchise. Lucasfilm has officially launched a dedicated pop-up book designed to capture the journey of its most famous duo. The publication arrives just ahead of the winter holiday season, offering younger audiences a fresh way to engage with the galaxy far, far away.",
+          "The project serves as both a keepsake and an interactive walkthrough of the overarching narrative. It invites readers to revisit familiar settings and emotional beats without requiring a screen, providing a tactile experience for enthusiasts of all ages."
+        ]
+      },
+      {
+        "h": "The Creative Mind Behind the Paper",
+        "p": [
+          "The intricate design of the new volume comes courtesy of renowned paper engineer Matthew Reinhart. Known for his ability to transform flat pages into complex three-dimensional structures, Reinhart has previously applied his craft to various pop culture universes, including Hogwarts and other Disney properties.",
+          "Every single spread within this volume opens up to reveal a detailed recreation of a pivotal moment from the television show. The engineering relies on clever folds and tabs that pop upward to form characters and environments in three dimensions."
+        ]
+      },
+      {
+        "h": "Journey Through Three Seasons",
+        "p": [
+          "The narrative arc covered by the book spans the entirety of the television program's first three seasons. It starts from the very beginning when the armored bounty hunter first encounters the mysterious infant he was hired to retrieve.",
+          "From there, the pages chronicle key milestones in their relationship, including the emotional turning point where the young foundling chooses to step away from his Jedi training to reunite with the figure who became a father to him."
+        ]
+      },
+      {
+        "h": "Expanding Beyond the Show",
+        "p": [
+          "In addition to recapping the primary television episodes, the paper engineer has incorporated elements connected to recent cinematic expansions. Material from the theatrical release featuring the duo has been woven into the publication's design.",
+          "This inclusion ensures that the book remains comprehensive, touching upon the broader adventures that have taken the characters from streaming platforms onto the big screen."
+        ]
+      },
+      {
+        "h": "The Legacy of Din Djarin and Grogu",
+        "p": [
+          "The enduring appeal of the central partnership stems largely from the emotional depth conveyed despite minimal dialogue and hidden facial expressions. A notable moment in television history occurred when the protagonist removed his helmet to say goodbye to his companion.",
+          "Having overcome trials, separations, and dangerous missions, the pair continue to hold a prominent place in popular culture. Their transition from episodic television to theatrical features underscores their lasting footprint on modern science fiction."
+        ]
+      },
+      {
+        "h": "Cast and Crew Background",
+        "p": [
+          "The television series was created by Jon Favreau and features Pedro Pascal bringing the armored bounty hunter to life. The supporting cast includes Katee Sackhoff, Carl Weathers, Giancarlo Esposito, and Emily Swallow.",
+          "Favreau also directed the cinematic outing, which expanded the roster with actors like Sigourney Weaver and Jeremy Allen White joining the galaxy's sprawling ensemble."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Lucasfilm's new pop-up storybook created by Matthew Reinhart is now available for fans to purchase. The book features three-dimensional recreations of iconic scenes spanning three seasons of the television series and related cinematic material."
+        ]
+      }
+    ],
+    "facts": [
+      "The Mandalorian Adventures with Grogu Pop-Up Storybook is available now.",
+      "The pop-up book was created by paper engineer Matthew Reinhart.",
+      "The book covers all three seasons of The Mandalorian and incorporates material from The Mandalorian Grogu.",
+      "The television series was created by Jon Favreau and stars Pedro Pascal as Din Djarin."
+    ],
+    "entities": {
+      "people": [
+        "Chris McPherson",
+        "Pedro Pascal",
+        "Matthew Reinhart",
+        "Jon Favreau",
+        "Katee Sackhoff",
+        "Carl Weathers",
+        "Giancarlo Esposito",
+        "Emily Swallow",
+        "Amy Sedaris",
+        "Temuera Morrison",
+        "Sigourney Weaver",
+        "Jeremy Allen White",
+        "Noah Kloor",
+        "Ian Bryce",
+        "Kathleen Kennedy",
+        "Dave Filoni",
+        "Karen Gilchrist",
+        "John Bartnicki"
+      ],
+      "titles": [
+        "The Mandalorian",
+        "The Mandalorian Grogu",
+        "Bosch",
+        "Mission: Impossible",
+        "Yellowstone",
+        "Gilmore Girls",
+        "Silo",
+        "The Last of Us",
+        "Battlestar Galactica",
+        "Rocky",
+        "Breaking Bad",
+        "Supernatural",
+        "Strangers with Candy",
+        "Once Were Warriors",
+        "Alien",
+        "The Bear",
+        "The Hunger Games: Sunrise on the Reaping"
+      ]
+    },
+    "keywords": [
+      "The Mandalorian Adventures with Grogu Pop-Up Storybook",
+      "Matthew Reinhart",
+      "The Mandalorian",
+      "Jon Favreau",
+      "Pedro Pascal"
+    ],
+    "images": [
+      {
+        "url": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/05/star-wars_-the-mandalorian-grogu-2.jpg?w=1600&amp;h=900&amp;fit=crop",
+        "caption": "The Mandalorian Adventures with Grogu Pop-Up Storybook Launches for Fans",
+        "source": "Collider"
+      }
+    ],
+    "published": "Thu, 26 Nov 2026 02:30:12 GMT"
   }
 };

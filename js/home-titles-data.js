@@ -19332,6 +19332,12 @@ window.FA_PUBLISHED = {
     "status": "Released",
     "providers": [
       {
+        "name": "Sony Liv",
+        "logo_path": "/coM4QWbmIOa0xJ5cGR9BRmoV25B.png",
+        "region": "IN",
+        "type": "flatrate"
+      },
+      {
         "name": "Sonyliv Amazon Channel",
         "logo_path": "/944iNBWJZwKT1lfO3y2oEqquQjG.png",
         "region": "IN",
@@ -27791,6 +27797,12 @@ window.FA_PUBLISHED = {
     "status": "Released",
     "providers": [
       {
+        "name": "fuboTV",
+        "logo_path": "/3wF8xISfVlcrc8X3jaa3uMUFGAr.png",
+        "region": "US",
+        "type": "flatrate"
+      },
+      {
         "name": "Pure Flix",
         "logo_path": "/qAccuffS0YOegynkbRchQeBrw7W.png",
         "region": "US",
@@ -28068,8 +28080,14 @@ window.FA_PUBLISHED = {
     "status": "Released",
     "providers": [
       {
-        "name": "Philo",
-        "logo_path": "/mfbhzQwmQKjm7bLZPF5CTeu3Ilc.png",
+        "name": "UP Faith & Family Apple TV channel",
+        "logo_path": "/j7y1nRXVZIqco9GgZv5cv7CpFSG.png",
+        "region": "US",
+        "type": "flatrate"
+      },
+      {
+        "name": "UP Faith & Family Amazon Channel",
+        "logo_path": "/okzVQmpdFwtSRTvkIUr8vSSWNCj.png",
         "region": "US",
         "type": "flatrate"
       }
@@ -30898,7 +30916,14 @@ window.FA_PUBLISHED = {
     "published_at": "2026-11-17",
     "date_kind": "release",
     "status": "Released",
-    "providers": [],
+    "providers": [
+      {
+        "name": "Netflix",
+        "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+        "region": "IN",
+        "type": "flatrate"
+      }
+    ],
     "release_date": "2026-11-24",
     "popularity": 3.6848
   },
@@ -31084,7 +31109,14 @@ window.FA_PUBLISHED = {
     "published_at": "2026-11-17",
     "date_kind": "release",
     "status": "Released",
-    "providers": [],
+    "providers": [
+      {
+        "name": "Netflix",
+        "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+        "region": "IN",
+        "type": "flatrate"
+      }
+    ],
     "release_date": "2026-11-24",
     "popularity": 1.5715
   },
@@ -31244,7 +31276,20 @@ window.FA_PUBLISHED = {
     "published_at": "2026-11-17",
     "date_kind": "release",
     "status": "Released",
-    "providers": [],
+    "providers": [
+      {
+        "name": "Pure Flix",
+        "logo_path": "/qAccuffS0YOegynkbRchQeBrw7W.png",
+        "region": "US",
+        "type": "flatrate"
+      },
+      {
+        "name": "Great American Pure Flix Amazon Channel",
+        "logo_path": "/jQJseCPOtpMj1f5WWhXSSMOEdwG.png",
+        "region": "US",
+        "type": "flatrate"
+      }
+    ],
     "release_date": "2026-11-24",
     "popularity": 0.9554
   },
@@ -31332,7 +31377,20 @@ window.FA_PUBLISHED = {
     "published_at": "2026-11-17",
     "date_kind": "release",
     "status": "Released",
-    "providers": [],
+    "providers": [
+      {
+        "name": "Netflix",
+        "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+        "region": "US",
+        "type": "flatrate"
+      },
+      {
+        "name": "Netflix Standard with Ads",
+        "logo_path": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+        "region": "US",
+        "type": "flatrate"
+      }
+    ],
     "release_date": "2026-11-24",
     "popularity": 0.8519
   },
@@ -31532,7 +31590,14 @@ window.FA_PUBLISHED = {
     "published_at": "2026-11-17",
     "date_kind": "release",
     "status": "Released",
-    "providers": [],
+    "providers": [
+      {
+        "name": "Apple TV",
+        "logo_path": "/v9SnyvYt0U3KGgBH3Sbh3z4yODe.png",
+        "region": "IN",
+        "type": "flatrate"
+      }
+    ],
     "release_date": "2026-11-24",
     "popularity": 4.8409
   },
@@ -38105,7 +38170,14 @@ window.FA_PUBLISHED = {
     ],
     "published_at": "2026-11-23",
     "status": "Returning Series",
-    "providers": [],
+    "providers": [
+      {
+        "name": "JioHotstar",
+        "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+        "region": "IN",
+        "type": "flatrate"
+      }
+    ],
     "first_air_date": "2026-11-23",
     "popularity": 31.4945
   },

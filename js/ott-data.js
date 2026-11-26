@@ -153,7 +153,18 @@ window.FA_OTT = {
       "type": "movie"
     },
     {
-      "country": "US",
+      "date": "2026-11-24",
+      "date_kind": "release",
+      "id": 1280115,
+      "providers": [
+        {
+          "logo_path": "/v9SnyvYt0U3KGgBH3Sbh3z4yODe.png",
+          "name": "Apple TV"
+        }
+      ],
+      "type": "movie"
+    },
+    {
       "date": "2026-11-24",
       "date_kind": "digital",
       "id": 1824177,
@@ -166,7 +177,6 @@ window.FA_OTT = {
       "type": "movie"
     },
     {
-      "country": "IN",
       "date": "2026-11-24",
       "date_kind": "digital",
       "id": 1802703,
@@ -179,11 +189,35 @@ window.FA_OTT = {
       "type": "movie"
     },
     {
-      "country": "US",
+      "date": "2026-11-24",
+      "date_kind": "release",
+      "id": 1776668,
+      "providers": [
+        {
+          "logo_path": "/qAccuffS0YOegynkbRchQeBrw7W.png",
+          "name": "Pure Flix"
+        },
+        {
+          "logo_path": "/jQJseCPOtpMj1f5WWhXSSMOEdwG.png",
+          "name": "Great American Pure Flix Amazon Channel"
+        }
+      ],
+      "type": "movie"
+    },
+    {
       "date": "2026-11-24",
       "date_kind": "digital",
       "id": 1599329,
-      "providers": [],
+      "providers": [
+        {
+          "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        },
+        {
+          "logo_path": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+          "name": "Netflix Standard with Ads"
+        }
+      ],
       "type": "movie"
     },
     {
@@ -269,6 +303,18 @@ window.FA_OTT = {
         }
       ],
       "type": "movie"
+    },
+    {
+      "date": "2026-11-23",
+      "date_kind": "release",
+      "id": 290826,
+      "providers": [
+        {
+          "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+          "name": "JioHotstar"
+        }
+      ],
+      "type": "tv"
     },
     {
       "date": "2026-11-23",
@@ -925,6 +971,10 @@ window.FA_OTT = {
       "id": 1776645,
       "providers": [
         {
+          "logo_path": "/3wF8xISfVlcrc8X3jaa3uMUFGAr.png",
+          "name": "fuboTV"
+        },
+        {
           "logo_path": "/qAccuffS0YOegynkbRchQeBrw7W.png",
           "name": "Pure Flix"
         },
@@ -1202,6 +1252,10 @@ window.FA_OTT = {
       "id": 1493572,
       "providers": [
         {
+          "logo_path": "/coM4QWbmIOa0xJ5cGR9BRmoV25B.png",
+          "name": "Sony Liv"
+        },
+        {
           "logo_path": "/944iNBWJZwKT1lfO3y2oEqquQjG.png",
           "name": "Sonyliv Amazon Channel"
         }
@@ -1258,8 +1312,12 @@ window.FA_OTT = {
       "id": 1695819,
       "providers": [
         {
-          "logo_path": "/mfbhzQwmQKjm7bLZPF5CTeu3Ilc.png",
-          "name": "Philo"
+          "logo_path": "/j7y1nRXVZIqco9GgZv5cv7CpFSG.png",
+          "name": "UP Faith & Family Apple TV channel"
+        },
+        {
+          "logo_path": "/okzVQmpdFwtSRTvkIUr8vSSWNCj.png",
+          "name": "UP Faith & Family Amazon Channel"
         }
       ],
       "type": "movie"

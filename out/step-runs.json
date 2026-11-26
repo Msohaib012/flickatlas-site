@@ -4,45 +4,6 @@
    {
     "step": "fetch",
     "category": "Trending News",
-    "run_at": "2026-11-25T00:59:37Z",
-    "run_id": "45522287614",
-    "status": "success",
-    "checked": {
-     "candidates": 310,
-     "detail": "RSS/Atom items across 137 sources; 3 source(s) errored"
-    },
-    "changed": {
-     "added": [
-      "SRK ditches 'King' look ahead of promotional spree- PICS",
-      "Nithya Menen says visibility makes her uncomfortable despite being an actor; it comes down to self-worth",
-      "Pratik Gandhi says he doesn't want to portray Gandhi as a Mahatma, explains his approach to biopics | Interview",
-      "Tarantino-Fincher collaboration 'Cliff Booth' came with pressure and fun, cast say",
-      "Michael B Jordan confirms he knows about Dadasaheb Phalke award",
-      "William Shatner Clarifies His Stance On Grand Theft Auto VI After Backlash",
-      "Charles Barkley Pitched His Potential Inside The NBA Replacement, But I Have Another Idea",
-      "What Happened To Harrison Ford’s Deckard After Blade Runner 2049? I Asked 2099’s EP For Her Take",
-      "Alan Ritchson’s Reacher Franchise Officially Refuses to Back Down on Prime Video",
-      "Ava DuVernay’s 4-Part Netflix Miniseries Is a Devastating Masterpiece",
-      "'Landman's Billy Bob Thornton Officially Leaves Taylor Sheridan Behind for New Historical Series",
-      "6 Psychological Thrillers From the 2000s That Are 10/10 Masterpieces",
-      "7 Years Later, HBO’s Sci-Fi Thriller Series Doesn't Have a Single Bad Episode",
-      "9 Years Later, Netflix's 3-Season Sci-Fi Masterpiece Is Drawing 64 Million Viewing Hours",
-      "Ariana Grande’s ‘Meet the Parents’ Sequel Is Officially One of the Franchise’s Worst Ever Movies",
-      "Top 7 Book Prequels That Made Us Rethink the Original",
-      "Disney+ Is Officially Introducing a Major New Feature for 'Avengers: Doomsday'",
-      "30 Years Later, Danny DeVito’s Beloved Fantasy Classic Gets a New Streaming Home",
-      "Macaulay Culkin Returns to Acting Ahead of Home Alone Sequel for A24 Movie With Constance Wu",
-      "Chris Evans Explains Why He Rejected MCU Return as Nomad Before Avengers: Doomsday Role"
-     ],
-     "updated": [],
-     "count": 297,
-     "detail": "310 stories, 0 duplicates removed, 0 dropped"
-    },
-    "reason": null
-   },
-   {
-    "step": "fetch",
-    "category": "Trending News",
     "run_at": "2026-11-25T01:51:42Z",
     "run_id": "45528674172",
     "status": "success",
@@ -936,32 +897,48 @@
      "detail": "275 stories, 0 duplicates removed, 8 dropped"
     },
     "reason": null
-   }
-  ],
-  "apply_auto": [
+   },
    {
-    "step": "apply_auto",
+    "step": "fetch",
     "category": "Trending News",
-    "run_at": "2026-11-25T01:52:20Z",
-    "run_id": "45528674172",
+    "run_at": "2026-11-26T02:51:44Z",
+    "run_id": "45745072821",
     "status": "success",
     "checked": {
-     "candidates": 15,
-     "detail": "draft articles + box-office rows from out/gemini-batch.json"
+     "candidates": 224,
+     "detail": "RSS/Atom items across 137 sources; 4 source(s) errored"
     },
     "changed": {
      "added": [
-      "Director Antoine Fuqua Faces Civil Lawsuit Over Alleged Los Angeles Bar Fight",
-      "Avengers: Doomsday Final Trailer Breaks Disney Records With Massive Viewership",
-      "BTS Members V and Jungkook Show Love for Indian Cinema and RRR",
-      "Thanksgiving Box Office Preview: Hunger Games Prequel Leads the Holiday Race"
+      "‘Hey Kannamma’: Dhanashree Verma and Yashwanth Master trailer out",
+      "Akshay Kumar's son Aarav channels royal elegance in black velvet",
+      "Katy shares pics from Euro getaway with Justin",
+      "Akshay Kumar says he sold a producer's tape recorder to recover Rs 32,000",
+      "Kangana Ranaut giggles, showers flowers upon bride and groom in adorable video from friend's wedding",
+      "Ramayana box office Day 21: Pushpa 2 dethroned, film storms into all-time Top 4",
+      "Forget ‘Sharp Objects,’ Peacock’s Gripping Crime Thriller Is a Masterpiece From Start to Finish",
+      "Disney's 'The Mandalorian' Officially Returns Today",
+      "The 5 Best Games Snubbed for the 2026 Game of the Year",
+      "The Ultimate Studio Ghibli LEGO Set Officially Gets a Second Chance",
+      "ABC Scores Court Victory Against Trump’s FCC After Jimmy Kimmel Controversy",
+      "Netflix’s 3-Part Fantasy Comic Adaptation Delivers a Masterclass in World-Building",
+      "God Of War Officially Casts A Major Female Lead — She Deserves Her Own Spin-Off",
+      "Black Clover Filler List: Every Episode You Can Skip",
+      "A24's New Movie Has One Of The Year’s Best Rotten Tomatoes Audience Scores",
+      "Dune: Part Three Fan Theory Suggests Chani Is Actually Scytale",
+      "Star Wars' Darth Vader Replacement Didn't Have To Be A Sith To Be A Badass",
+      "‘The Squirrel’ Review: An Endearing Futuristic Dramedy, Finland’s Oscar Entry Makes a Case for Organic Love in the Age of Automation",
+      "Colman Domingo Responds to Post Telling Oscar Pundits Not to Add His ‘Michael’ Performance to Predictions: ‘Who Hurt You?’",
+      "‘Sunrise on the Reaping’ Director Reveals the Bloody Scene He Cut for Film’s PG-13 Rating"
      ],
      "updated": [],
-     "count": 8,
-     "detail": "+4 articles, +1 box-office rows, 3 rows updated"
+     "count": 216,
+     "detail": "218 stories, 0 duplicates removed, 6 dropped"
     },
     "reason": null
-   },
+   }
+  ],
+  "apply_auto": [
    {
     "step": "apply_auto",
     "category": "Trending News",
@@ -1477,45 +1454,32 @@
      "detail": "+4 articles, +0 box-office rows, 3 rows updated"
     },
     "reason": null
+   },
+   {
+    "step": "apply_auto",
+    "category": "Trending News",
+    "run_at": "2026-11-26T02:52:23Z",
+    "run_id": "45745072821",
+    "status": "success",
+    "checked": {
+     "candidates": 15,
+     "detail": "draft articles + box-office rows from out/gemini-batch.json"
+    },
+    "changed": {
+     "added": [
+      "Ramayana Reaches Fourth Place Globally After Surpassing Pushpa 2",
+      "ABC Secures Court Protection Against FCC Over License Review Dispute",
+      "Park Ji-Hyun Achieves Historic First International Emmy Acting Nomination for South Korea",
+      "The Mandalorian Adventures with Grogu Pop-Up Storybook Launches for Fans"
+     ],
+     "updated": [],
+     "count": 7,
+     "detail": "+4 articles, +0 box-office rows, 3 rows updated"
+    },
+    "reason": null
    }
   ],
   "ott": [
-   {
-    "step": "ott",
-    "category": "OTT",
-    "run_at": "2026-11-25T02:59:20Z",
-    "run_id": "45535796337",
-    "status": "success",
-    "checked": {
-     "candidates": 428,
-     "detail": "OTT now/coming titles from the published catalogue"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 0,
-     "detail": "now 424, coming 4"
-    },
-    "reason": null
-   },
-   {
-    "step": "ott",
-    "category": "OTT",
-    "run_at": "2026-11-25T03:51:37Z",
-    "run_id": "45542723856",
-    "status": "success",
-    "checked": {
-     "candidates": 428,
-     "detail": "OTT now/coming titles from the published catalogue"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 0,
-     "detail": "now 424, coming 4"
-    },
-    "reason": "no-new-data"
-   },
    {
     "step": "ott",
     "category": "OTT",
@@ -1911,30 +1875,45 @@
      "detail": "now 439, coming 5"
     },
     "reason": "no-new-data"
-   }
-  ],
-  "trending_weekly": [
+   },
    {
-    "step": "trending_weekly",
-    "category": "Trending Topics",
-    "run_at": "2026-11-25T01:15:14Z",
-    "run_id": "45522287614",
+    "step": "ott",
+    "category": "OTT",
+    "run_at": "2026-11-26T02:58:30Z",
+    "run_id": "45745072821",
     "status": "success",
     "checked": {
-     "candidates": 100,
-     "detail": "cached Google RSS trend/article intersection"
+     "candidates": 447,
+     "detail": "OTT now/coming titles from the published catalogue"
     },
     "changed": {
-     "added": [
-      "fnes60",
-      "xm093w",
-      "13iddql"
-     ],
+     "added": [],
      "updated": [],
-     "count": 3
+     "count": 0,
+     "detail": "now 442, coming 5"
     },
     "reason": null
    },
+   {
+    "step": "ott",
+    "category": "OTT",
+    "run_at": "2026-11-26T02:58:30Z",
+    "run_id": "45745072821",
+    "status": "success",
+    "checked": {
+     "candidates": 447,
+     "detail": "OTT now/coming titles from the published catalogue"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 0,
+     "detail": "now 442, coming 5"
+    },
+    "reason": "no-new-data"
+   }
+  ],
+  "trending_weekly": [
    {
     "step": "trending_weekly",
     "category": "Trending Topics",
@@ -2400,27 +2379,26 @@
      "count": 6
     },
     "reason": null
-   }
-  ],
-  "multisource_boxoffice": [
+   },
    {
-    "step": "multisource_boxoffice",
-    "category": "Box Office",
-    "run_at": "2026-11-25T01:15:11Z",
-    "run_id": "45522287614",
+    "step": "trending_weekly",
+    "category": "Trending Topics",
+    "run_at": "2026-11-26T02:58:33Z",
+    "run_id": "45745072821",
     "status": "success",
     "checked": {
-     "candidates": 753,
-     "detail": "688 collected staging rows from readers; 258 averaged across 2+ sources"
+     "candidates": 100,
+     "detail": "cached Google RSS trend/article intersection"
     },
     "changed": {
      "added": [],
      "updated": [],
-     "count": 5,
-     "detail": "+0 new rows, 5 updated rows, 720 unchanged"
+     "count": 0
     },
-    "reason": null
-   },
+    "reason": "no-new-data"
+   }
+  ],
+  "multisource_boxoffice": [
    {
     "step": "multisource_boxoffice",
     "category": "Box Office",
@@ -2834,19 +2812,27 @@
      "detail": "+0 new rows, 7 updated rows, 724 unchanged"
     },
     "reason": null
+   },
+   {
+    "step": "multisource_boxoffice",
+    "category": "Box Office",
+    "run_at": "2026-11-26T02:58:31Z",
+    "run_id": "45745072821",
+    "status": "success",
+    "checked": {
+     "candidates": 759,
+     "detail": "691 collected staging rows from readers; 260 averaged across 2+ sources"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 5,
+     "detail": "+0 new rows, 5 updated rows, 726 unchanged"
+    },
+    "reason": null
    }
   ],
   "gemini_reviews": [
-   {
-    "step": "gemini_reviews",
-    "category": "Reviews",
-    "run_at": "2026-11-25T01:15:23Z",
-    "run_id": "45522287614",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "gemini_reviews",
     "category": "Reviews",
@@ -3083,32 +3069,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "gemini_reviews",
+    "category": "Reviews",
+    "run_at": "2026-11-26T02:58:48Z",
+    "run_id": "45745072821",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "convert_news": [
-   {
-    "step": "convert_news",
-    "category": "Trending News",
-    "run_at": "2026-11-25T01:15:13Z",
-    "run_id": "45522287614",
-    "status": "success",
-    "checked": {
-     "candidates": 600,
-     "detail": "feed entries from out/queue.json"
-    },
-    "changed": {
-     "added": [
-      "FIR Registered in Bengaluru Over IED Blast Threat Targeting Diljit Dosanjh Concert",
-      "Golden Globes Eligibility List Reveals Genre Shifts for Major Blockbusters",
-      "Disney+ Integrates Movie Ticketing Feature Starting With Avengers Doomsday",
-      "Miss Universe 2026 Crowns New Queen with 3000 Diamond Tiara in Puerto Rico"
-     ],
-     "updated": [],
-     "count": 4,
-     "detail": "api-news.json 600 items, api-trends.json 12 items"
-    },
-    "reason": null
-   },
    {
     "step": "convert_news",
     "category": "Trending News",
@@ -3626,19 +3599,32 @@
      "detail": "api-news.json 600 items, api-trends.json 12 items"
     },
     "reason": null
+   },
+   {
+    "step": "convert_news",
+    "category": "Trending News",
+    "run_at": "2026-11-26T02:58:32Z",
+    "run_id": "45745072821",
+    "status": "success",
+    "checked": {
+     "candidates": 600,
+     "detail": "feed entries from out/queue.json"
+    },
+    "changed": {
+     "added": [
+      "Ramayana Reaches Fourth Place Globally After Surpassing Pushpa 2",
+      "ABC Secures Court Protection Against FCC Over License Review Dispute",
+      "Park Ji-Hyun Achieves Historic First International Emmy Acting Nomination for South Korea",
+      "The Mandalorian Adventures with Grogu Pop-Up Storybook Launches for Fans"
+     ],
+     "updated": [],
+     "count": 4,
+     "detail": "api-news.json 600 items, api-trends.json 12 items"
+    },
+    "reason": null
    }
   ],
   "episode_guides": [
-   {
-    "step": "episode_guides",
-    "category": "Drama Episodes",
-    "run_at": "2026-11-25T01:15:23Z",
-    "run_id": "45522287614",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "episode_guides",
     "category": "Drama Episodes",
@@ -3907,19 +3893,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "title_seed": [
+   },
    {
-    "step": "title_seed",
-    "category": "Spotlight / Coming Soon / Most Awaited",
-    "run_at": "2026-11-25T01:15:23Z",
-    "run_id": "45522287614",
+    "step": "episode_guides",
+    "category": "Drama Episodes",
+    "run_at": "2026-11-26T02:58:48Z",
+    "run_id": "45745072821",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "title_seed": [
    {
     "step": "title_seed",
     "category": "Spotlight / Coming Soon / Most Awaited",
@@ -4240,31 +4226,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "title_seed",
+    "category": "Spotlight / Coming Soon / Most Awaited",
+    "run_at": "2026-11-26T02:58:48Z",
+    "run_id": "45745072821",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "gemini_batch": [
-   {
-    "step": "gemini_batch",
-    "category": "Trending News",
-    "run_at": "2026-11-25T01:00:06Z",
-    "run_id": "45522287614",
-    "status": "success",
-    "checked": {
-     "candidates": 5,
-     "detail": "news queue items drafted this run; 297 still unprocessed; today by category: movies 1/6, tv_dramas 0/4, episodes 0/2, box_office 1/6, celebrities_events 2/5, upcoming_releases 0/4, ott_streaming 1/4, trailers 1/3, awards 2/2, music_ost 0/2, viral 0/2"
-    },
-    "changed": {
-     "added": [
-      "FIR Registered in Bengaluru Over IED Blast Threat Targeting Diljit Dosanjh Concert",
-      "Golden Globes Eligibility List Reveals Genre Shifts for Major Blockbusters",
-      "Disney+ Integrates Movie Ticketing Feature Starting With Avengers Doomsday",
-      "Miss Universe 2026 Crowns New Queen with 3000 Diamond Tiara in Puerto Rico"
-     ],
-     "updated": [],
-     "count": 4
-    },
-    "reason": null
-   },
    {
     "step": "gemini_batch",
     "category": "Trending News",
@@ -4762,26 +4736,31 @@
      "count": 4
     },
     "reason": null
+   },
+   {
+    "step": "gemini_batch",
+    "category": "Trending News",
+    "run_at": "2026-11-26T02:52:22Z",
+    "run_id": "45745072821",
+    "status": "success",
+    "checked": {
+     "candidates": 4,
+     "detail": "news queue items drafted this run; 216 still unprocessed; today by category: movies 1/6, tv_dramas 1/4, episodes 0/2, box_office 3/6, celebrities_events 2/5, upcoming_releases 1/4, ott_streaming 2/4, trailers 0/3, awards 2/2, music_ost 0/2, viral 0/2"
+    },
+    "changed": {
+     "added": [
+      "Ramayana Reaches Fourth Place Globally After Surpassing Pushpa 2",
+      "ABC Secures Court Protection Against FCC Over License Review Dispute",
+      "Park Ji-Hyun Achieves Historic First International Emmy Acting Nomination for South Korea",
+      "The Mandalorian Adventures with Grogu Pop-Up Storybook Launches for Fans"
+     ],
+     "updated": [],
+     "count": 4
+    },
+    "reason": null
    }
   ],
   "overseas_ai": [
-   {
-    "step": "overseas_ai",
-    "category": "Box Office",
-    "run_at": "2026-11-25T01:01:37Z",
-    "run_id": "45522287614",
-    "status": "success",
-    "checked": {
-     "candidates": 59,
-     "detail": "published movies with missing overseas day figures; Tavily searches: 48"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 0
-    },
-    "reason": "no-new-data"
-   },
    {
     "step": "overseas_ai",
     "category": "Box Office",
@@ -5095,24 +5074,19 @@
      "count": 0
     },
     "reason": "no-new-data"
+   },
+   {
+    "step": "overseas_ai",
+    "category": "Box Office",
+    "run_at": "2026-11-26T02:58:48Z",
+    "run_id": "45745072821",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "publish": [
-   {
-    "step": "publish",
-    "category": "Trending News",
-    "run_at": "2026-11-25T01:15:23Z",
-    "run_id": "45522287614",
-    "status": "success",
-    "checked": null,
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 518,
-     "detail": "lines changed in owned files; no per-item summary from script"
-    },
-    "reason": null
-   },
    {
     "step": "publish",
     "category": "Trending News",
@@ -5457,19 +5431,24 @@
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
+   },
+   {
+    "step": "publish",
+    "category": "Trending News",
+    "run_at": "2026-11-26T02:58:48Z",
+    "run_id": "45745072821",
+    "status": "success",
+    "checked": null,
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 438,
+     "detail": "lines changed in owned files; no per-item summary from script"
+    },
+    "reason": null
    }
   ],
   "stats_traffic": [
-   {
-    "step": "stats_traffic",
-    "category": "Stats / Health",
-    "run_at": "2026-11-25T01:15:23Z",
-    "run_id": "45522287614",
-    "status": "success",
-    "checked": null,
-    "changed": null,
-    "reason": "no-new-data"
-   },
    {
     "step": "stats_traffic",
     "category": "Stats / Health",
@@ -5749,19 +5728,24 @@
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
+   },
+   {
+    "step": "stats_traffic",
+    "category": "Stats / Health",
+    "run_at": "2026-11-26T02:58:48Z",
+    "run_id": "45745072821",
+    "status": "success",
+    "checked": null,
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 2,
+     "detail": "lines changed in owned files; no per-item summary from script"
+    },
+    "reason": null
    }
   ],
   "stats_pipeline": [
-   {
-    "step": "stats_pipeline",
-    "category": "Stats / Health",
-    "run_at": "2026-11-25T01:15:23Z",
-    "run_id": "45522287614",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "stats_pipeline",
     "category": "Stats / Health",
@@ -6011,19 +5995,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "stats_health": [
+   },
    {
-    "step": "stats_health",
+    "step": "stats_pipeline",
     "category": "Stats / Health",
-    "run_at": "2026-11-25T01:15:23Z",
-    "run_id": "45522287614",
+    "run_at": "2026-11-26T02:58:48Z",
+    "run_id": "45745072821",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "stats_health": [
    {
     "step": "stats_health",
     "category": "Stats / Health",
@@ -6258,19 +6242,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "metadata_refresh": [
+   },
    {
-    "step": "metadata_refresh",
-    "category": "Spotlight / Coming Soon / Most Awaited",
-    "run_at": "2026-11-25T01:15:23Z",
-    "run_id": "45522287614",
+    "step": "stats_health",
+    "category": "Stats / Health",
+    "run_at": "2026-11-26T02:58:48Z",
+    "run_id": "45745072821",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "metadata_refresh": [
    {
     "step": "metadata_refresh",
     "category": "Spotlight / Coming Soon / Most Awaited",
@@ -6554,19 +6538,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "providers_backfill": [
+   },
    {
-    "step": "providers_backfill",
-    "category": "OTT",
-    "run_at": "2026-11-25T01:15:23Z",
-    "run_id": "45522287614",
+    "step": "metadata_refresh",
+    "category": "Spotlight / Coming Soon / Most Awaited",
+    "run_at": "2026-11-26T02:58:48Z",
+    "run_id": "45745072821",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "providers_backfill": [
    {
     "step": "providers_backfill",
     "category": "OTT",
@@ -6807,19 +6791,30 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "providers_backfill",
+    "category": "OTT",
+    "run_at": "2026-11-26T02:58:17Z",
+    "run_id": "45745072821",
+    "status": "success",
+    "checked": {
+     "candidates": 1101,
+     "processed": 1101,
+     "succeeded": 1101,
+     "failed": 0,
+     "already_have_providers": 305,
+     "detail": "missing-provider titles fetched first, then the --rotate stalest provider-carrying titles; processed counts only upstream requests; zero processed means unchanged check, not a new upstream fetch"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 1101
+    },
+    "reason": null
    }
   ],
   "tavily_boxoffice": [
-   {
-    "step": "tavily_boxoffice",
-    "category": "Box Office",
-    "run_at": "2026-11-25T01:15:23Z",
-    "run_id": "45522287614",
-    "status": "success",
-    "checked": null,
-    "changed": null,
-    "reason": "no-new-data"
-   },
    {
     "step": "tavily_boxoffice",
     "category": "Box Office",
@@ -7049,19 +7044,19 @@
     "checked": null,
     "changed": null,
     "reason": "no-new-data"
-   }
-  ],
-  "keywords_refresh": [
+   },
    {
-    "step": "keywords_refresh",
-    "category": "Trending News",
-    "run_at": "2026-11-25T01:15:23Z",
-    "run_id": "45522287614",
+    "step": "tavily_boxoffice",
+    "category": "Box Office",
+    "run_at": "2026-11-26T02:58:48Z",
+    "run_id": "45745072821",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "keywords_refresh": [
    {
     "step": "keywords_refresh",
     "category": "Trending News",
@@ -7310,6 +7305,16 @@
     "category": "Trending News",
     "run_at": "2026-11-26T02:10:32Z",
     "run_id": "45738445614",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
+   },
+   {
+    "step": "keywords_refresh",
+    "category": "Trending News",
+    "run_at": "2026-11-26T02:58:48Z",
+    "run_id": "45745072821",
     "status": "skipped",
     "checked": null,
     "changed": null,
@@ -7856,16 +7861,6 @@
    {
     "step": "advance_booking",
     "category": "Box Office",
-    "run_at": "2026-11-25T01:15:23Z",
-    "run_id": "45522287614",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
-   {
-    "step": "advance_booking",
-    "category": "Box Office",
     "run_at": "2026-11-25T01:52:32Z",
     "run_id": "45528674172",
     "status": "skipped",
@@ -8102,19 +8097,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "home_boxoffice_worldwide": [
+   },
    {
-    "step": "home_boxoffice_worldwide",
+    "step": "advance_booking",
     "category": "Box Office",
-    "run_at": "2026-11-25T01:15:23Z",
-    "run_id": "45522287614",
+    "run_at": "2026-11-26T02:58:48Z",
+    "run_id": "45745072821",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "home_boxoffice_worldwide": [
    {
     "step": "home_boxoffice_worldwide",
     "category": "Box Office",
@@ -8379,8 +8374,18 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "home_boxoffice_worldwide",
+    "category": "Box Office",
+    "run_at": "2026-11-26T02:58:48Z",
+    "run_id": "45745072821",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ]
  },
- "updated_at": "2026-11-26T02:10:32Z"
+ "updated_at": "2026-11-26T02:58:48Z"
 }
