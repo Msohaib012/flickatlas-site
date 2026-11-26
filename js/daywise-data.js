@@ -1955,7 +1955,7 @@ window.FA_DAYWISE = {
     {
       "date": "2026-11-25",
       "day": "Day 42",
-      "collection": 4226,
+      "collection": 4754,
       "shows": 125,
       "occupancy": 11.8,
       "tickets": 2266

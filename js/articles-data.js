@@ -249839,5 +249839,417 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "2026-11-25T23:52:37Z"
+  },
+  "8nf2m9": {
+    "id": "8nf2m9",
+    "type": "news",
+    "headline": "Ramayana Box Office Day 21: Ranbir Kapoor, Yash's Film Records Lowest-Ever Collection",
+    "dek": "Ranbir Kapoor and Yash's mythological epic Ramayana records its lowest single-day collection on Day 21 as it inches closer to the Rs 1000 crore milestone in India.",
+    "body": [
+      {
+        "h": "Milestone Approaching Despite Slowdown",
+        "p": [
+          "The high-profile cinematic venture starring Ranbir Kapoor and Yash has nearly exhausted its theatrical steam after completing over three weeks on the big screen. Even as it approaches the coveted Rs 1000 crore net earnings threshold domestically, the feature experienced a marked deceleration in ticket sales on Wednesday. This dip arrives right before competing titles prepare to enter the competitive theatrical landscape.",
+          "Trade trackers note that the production has sustained a remarkably long run across multiple languages since its early November rollout. However, normal weekday fatigue and impending alternative viewing options have contributed to the recent tapering off in ticket counter figures."
+        ]
+      },
+      {
+        "h": "Day 21 Collection Breakdown",
+        "p": [
+          "According to industry tracking data from Sacnilk, the mythological drama brought in Rs 9.60 crore on its twenty-first day from roughly 15,700 screenings nationwide. The Hindi version drove the majority of these numbers with Rs 6.75 crore, while regional language versions contributed smaller shares to the daily tally.",
+          "The Malayalam screenings brought in Rs 1.10 crore, Kannada shows added Rs 75 lakh, Tamil circuits contributed Rs 70 lakh, and Telugu screenings recorded Rs 30 lakh. These figures elevate the total domestic net collection to Rs 982.55 crore while the gross total inside the country reaches Rs 1,173.60 crore."
+        ]
+      },
+      {
+        "h": "Theatrical Occupancy Rates",
+        "p": [
+          "Audience turnout across India remained modest on Wednesday, registering an overall theater occupancy of roughly 14.12 percent. Early morning screenings saw a sparse crowd with a 7.46 percent fill rate, which steadily improved as the day progressed.",
+          "Afternoon shows witnessed an uptick to 14.62 percent occupancy, while evening slots peaked at 18.62 percent. Night screenings concluded the day with a steady 15.77 percent viewer turnout across participating cinema halls."
+        ]
+      },
+      {
+        "h": "Global and Overseas Numbers",
+        "p": [
+          "Beyond domestic borders, the cinematic adaptation has maintained a steady presence in international territories. Overseas screenings generated an additional Rs 6 crore recently, pushing the cumulative international gross to Rs 582 crore.",
+          "When combined with domestic earnings, the worldwide gross collection for the mythological project stands at an impressive Rs 1,755.60 crore, cementing its status as a major commercial success globally."
+        ]
+      },
+      {
+        "h": "Cast and Crew Details",
+        "p": [
+          "The ambitious feature is directed and written by Nitesh Tiwari, with additional screenplay contributions from Shridhar Raghavan. The ensemble cast features Ranbir Kapoor portraying Rama alongside Sai Pallavi as Sita, Yash stepping into the role of Ravana, and Ravi Dubey as Lakshman.",
+          "The expansive supporting roster includes Arun Govil as Dashrath, Indira Krishnan as Kaushalya, Lara Dutta as Kaikeyi, Sonal Jha as Sumitra, and Adinath Kothare alongside Nitish Sharma as Bharat and Shatrughan. Additional performances feature Shobana as Kekasi, Rakul Preet Singh as Surpanakha, Kajal Agarwal as Mandodari, and Anupam Kher providing the voice for Jatayu."
+        ]
+      },
+      {
+        "h": "Golden Globes Consideration",
+        "p": [
+          "Amid its ongoing theatrical run, the production has entered the international awards conversation. It has been officially submitted for consideration at the 84th Golden Globes within the Best Motion Picture category.",
+          "The feature appears on the official eligibility list for Best Motion Picture – Drama, featuring Ranbir Kapoor and Yash as its male leads alongside director Nitesh Tiwari and screenwriter Shridhar Raghavan. It joins a competitive pool of 88 submitted titles, sharing eligibility alongside notable international projects."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Ranbir Kapoor and Yash's film Ramayana recorded its lowest-ever collection on Day 21 as it approaches the Rs 1000 crore mark in India. The mythological drama brought in Rs 9.60 crore on Wednesday, bringing its domestic net collection to Rs 982.55 crore and worldwide gross to Rs 1,755.60 crore.",
+          "Alongside its steady box office performance, the Nitesh Tiwari directorial has been submitted for consideration in the Best Motion Picture – Drama category at the 84th Golden Globes."
+        ]
+      }
+    ],
+    "facts": [
+      "Ramayana is directed by Nitesh Tiwari",
+      "Ramayana released in theatres on November 5",
+      "Ramayana earned Rs 9.60 crore on Day 21",
+      "Total India net collection is Rs 982.55 crore",
+      "Total India gross collection is Rs 1,173.60 crore",
+      "Worldwide gross collection is Rs 1,755.60 crore",
+      "Overseas gross is Rs 582 crore",
+      "Ramayana has been submitted for consideration at the 84th Golden Globes"
+    ],
+    "entities": {
+      "people": [
+        "Ranbir Kapoor",
+        "Yash",
+        "Nitesh Tiwari",
+        "Sai Pallavi",
+        "Ravi Dubey",
+        "Arun Govil",
+        "Indira Krishnan",
+        "Lara Dutta",
+        "Sonal Jha",
+        "Adinath Kothare",
+        "Nitish Sharma",
+        "Shobana",
+        "Rakul Preet Singh",
+        "Kajal Agarwal",
+        "Anupam Kher",
+        "Shridhar Raghavan",
+        "Denis Villeneuve",
+        "Christopher Nolan",
+        "Tom Holland"
+      ],
+      "titles": [
+        "Ramayana",
+        "Yeh Prem Mol Liya",
+        "Gunmaaster G9",
+        "Dune: Part Three",
+        "The Odyssey",
+        "Spider-Man: Brand New Day"
+      ]
+    },
+    "keywords": [
+      "Ramayana film",
+      "Ranbir Kapoor Yash Ramayana",
+      "Ramayana box office Day 21",
+      "Ramayana Golden Globes"
+    ],
+    "images": [
+      {
+        "url": "https://images.timesnownews.com/thumb/msid-156566791,thumbsize-598705,width-1280,height-720,resizemode-75/156566791.jpg",
+        "caption": "Ramayana Box Office Day 21: Ranbir Kapoor, Yash's Film Records Lowest-Ever Collection",
+        "source": "Times Now — Entertainment"
+      }
+    ],
+    "published": "2026-11-26T00:52:07Z"
+  },
+  "15rr8ao": {
+    "id": "15rr8ao",
+    "type": "news",
+    "headline": "Constantine 2 Will Lean Into An Unapologetically R-Rated Vision, Director Francis Lawrence Confirms",
+    "dek": "Director Francis Lawrence has provided an exciting creative update on the long-awaited supernatural sequel starring Keanu Reeves, revealing plans to fully embrace a mature rating this time around.",
+    "body": [
+      {
+        "h": "A Very R-Rated Direction for the Sequel",
+        "p": [
+          "Director Francis Lawrence has confirmed that the upcoming supernatural thriller sequel Constantine 2 will fully lean into a mature, R-rated aesthetic. Having previously steered the 2005 original adaptation of the DC Comics occult investigator, Lawrence expressed a clear desire to embrace the adult classification directly from the outset this time around.",
+          "Reflecting on the development of the future project alongside star Keanu Reeves, writer Akiva Goldsman, and producer J.J. Abrams, Lawrence noted that knowing an R rating is in play changes the creative approach entirely. If he had known the original movie would receive that classification anyway, he would have deliberately crafted an R-rated feature from the beginning."
+        ]
+      },
+      {
+        "h": "Looking Back at the Original MPA Battle",
+        "p": [
+          "During a recent podcast appearance on Kevin McCarthy's On Film, Lawrence recalled the unexpected hurdles the 2005 production faced with the Motion Picture Association. The team initially followed every guideline regarding violence, language, nudity, and sexuality to secure a PG-13 rating, especially given the substantial $96 million budget.",
+          "Despite playing by the rules, the MPA slapped the thriller with an R rating, claiming they stopped taking notes five minutes into the screening. Lawrence explained that the decision came down to a gray zone of sheer intensity and the use of religious iconography involving angels and demons, which viewers actually believe in, compared to fantasy creatures like elves and orcs in Lord of the Rings."
+        ]
+      },
+      {
+        "h": "Development History and Studio Hurdles",
+        "p": [
+          "The journey toward making Constantine 2 has faced multiple obstacles since the sequel was officially confirmed back in 2022. Even though a script was completed by 2024, the project experienced various setbacks alongside the ongoing creative shifts at DC Studios under previous leadership.",
+          "Lawrence previously indicated that the broader DC Universe plans frequently stalled the progression of the supernatural sequel, even as separate pitches and a distinct adaptation by Francis Galluppi were explored. Despite these delays, discussions between Lawrence, Reeves, and the creative team have remained ongoing."
+        ]
+      },
+      {
+        "h": "Context and Precedents in Ratings Decisions",
+        "p": [
+          "The original Constantine was not alone in facing unexpected pushback from ratings boards. Other notable genre films, such as James Wan's The Conjuring and the Oscar-winning drama The King's Speech, have similarly encountered mature classifications because boards struggled to look past specific thematic elements.",
+          "Lawrence pointed out that the 2005 movie largely kept its action focused on angelic and demonic entities rather than gruesome human gore. Even when characters met grim fates like falling from buildings or being struck by high-speed vehicles, the actual human-centric violence remained relatively tame."
+        ]
+      },
+      {
+        "h": "Honoring the Source Material",
+        "p": [
+          "Leaning into an unapologetic R rating could allow the upcoming sequel to deliver one of the most faithful renditions of the DC anti-hero yet. While Keanu Reeves' initial casting sparked friendly debate regarding the character's British, Sting-inspired blonde comic book roots, fans widely embraced his sardonic demeanor and underlying sympathetic nature.",
+          "Aside from Matt Ryan briefly exploring a mature iteration in animated projects like City of Demons and House of Mystery, the comic source material itself typically leaned toward a mature style. Lawrence's renewed commitment to an adult rating marks an encouraging sign for fans hoping for authentic source material adaptation."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Director Francis Lawrence has confirmed that Constantine 2 will actively embrace an R-rated approach following historical rating battles faced by the 2005 original. Despite various development hurdles and studio shifts over the years, Lawrence and Keanu Reeves remain in talks to bring the mature supernatural sequel to life."
+        ]
+      }
+    ],
+    "facts": [
+      "Constantine 2 is being developed with Keanu Reeves, Francis Lawrence, and Akiva Goldsman returning.",
+      "The original Constantine film had a budget of $96 million.",
+      "Francis Lawrence discussed the sequel during an appearance on Kevin McCarthy's On Film podcast.",
+      "A script for Constantine 2 was completed as of 2024."
+    ],
+    "entities": {
+      "people": [
+        "Keanu Reeves",
+        "Francis Lawrence",
+        "Akiva Goldsman",
+        "Kevin McCarthy",
+        "James Gunn",
+        "Peter Safran",
+        "Francis Galluppi",
+        "Rachel Weisz",
+        "Peter Jackson",
+        "James Wan",
+        "Matt Ryan"
+      ],
+      "titles": [
+        "Constantine",
+        "Constantine 2",
+        "The Hunger Games",
+        "Lord of the Rings",
+        "The Conjuring",
+        "The King's Speech",
+        "City of Demons",
+        "House of Mystery"
+      ]
+    },
+    "keywords": [
+      "Constantine 2",
+      "Keanu Reeves Constantine",
+      "Francis Lawrence Constantine 2",
+      "Constantine R rating"
+    ],
+    "images": [
+      {
+        "url": "https://static0.srcdn.com/wordpress/wp-content/uploads/2026/11/keanu-reeves-posing-for-a-photo-on-the-john-wick-chapter-4-red-carpet.jpg?w=1600&amp;h=900&amp;fit=crop",
+        "caption": "Constantine 2 Will Lean Into An Unapologetically R-Rated Vision, Director Francis Lawrence Confirms",
+        "source": "Screen Rant"
+      }
+    ],
+    "published": "Wed, 25 Nov 2026 23:48:12 GMT"
+  },
+  "1p6zfs0": {
+    "id": "1p6zfs0",
+    "type": "news",
+    "headline": "Hanuman Ansh OTT Release Dates Confirmed for Netflix and Sony LIV",
+    "dek": "After facing early rejection from streaming platforms, the blockbuster biographical film Hanuman Ansh is set to premiere on both Sony LIV and Netflix following its massive box office run.",
+    "body": [
+      {
+        "h": "Dual Platform Streaming Debut",
+        "p": [
+          "The biographical drama Hanuman Ansh is officially heading to digital platforms, with two major services securing streaming rights. Following initial announcements regarding its premiere, the film is scheduled to release across multiple digital networks in late November 2026.",
+          "Sony Pictures Networks India acquired digital rights for the Hindi version, while Netflix boarded the project for regional language releases. This dual-platform arrangement ensures the biographical feature reaches a diverse audience across India."
+        ]
+      },
+      {
+        "h": "Platform Specific Release Schedule",
+        "p": [
+          "Streaming service Sony LIV will premiere Hanuman Ansh on November 27, 2026, handling the Hindi language version of the feature. Meanwhile, Netflix announced that the movie will be available on its platform starting November 29, 2026.",
+          "The Netflix release will cater to viewers in multiple regional languages, making the biographical drama accessible in Telugu, Tamil, Kannada, Malayalam, and Gujarati."
+        ]
+      },
+      {
+        "h": "Overcoming Early OTT Rejection",
+        "p": [
+          "The journey to digital distribution was fraught with obstacles for the makers of Hanuman Ansh. Director Vishal चतुर्वेदी previously revealed that an unnamed streaming platform rejected the film earlier, reportedly using insulting language during the refusal.",
+          "Despite early struggles and slow box office numbers during its first two weeks in theaters, the movie staged a remarkable turnaround in its third week, ultimately transforming its fortunes into a historic commercial success."
+        ]
+      },
+      {
+        "h": "Box Office Triumph and Budget",
+        "p": [
+          "Produced on a modest budget of 2 करोड़ रुपये, Hanuman Ansh emerged as one of the biggest surprise hits of 2026. The film achieved staggering commercial milestones, grossing 452.86 करोड़ रुपये worldwide.",
+          "Its financial breakdown includes 404.66 करोड़ रुपये in domestic gross collections and 48.80 करोड़ रुपये from international markets. Hindi language screenings contributed 337.08 करोड़ रुपये, while the Telugu version brought in 5.91 करोड़ रुपये, with net domestic earnings reaching 342.99 करोड़ रुपये."
+        ]
+      },
+      {
+        "h": "Subject Matter and Themes",
+        "p": [
+          "Hanuman Ansh is a devotional biographical film centered on the life and teachings of Neem Karoli Baba. The narrative highlights the profound spiritual journey of a devoted follower of Lord Hanuman.",
+          "Promotional materials shared by Netflix emphasized themes of faith and personal transformation, describing how a single devotee's devotion managed to alter the lives of thousands."
+        ]
+      },
+      {
+        "h": "Financial Deals and Industry Context",
+        "p": [
+          "The extraordinary theatrical run significantly elevated the film's market value, leading to lucrative digital acquisitions. Reports indicate that Sony Pictures purchased the OTT rights for 63 करोड़ रुपये.",
+          "The movie's unexpected box office resurgence also sparked conversations within the industry, particularly concerning the initial skepticism and subsequent embrace by major entertainment companies."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Biographical drama Hanuman Ansh is releasing on Sony LIV on November 27 and Netflix on November 29 after grossing 452.86 करोड़ रुपये worldwide from a 2 करोड़ रुपये budget. The film, based on Neem Karoli Baba, previously faced rejection from streaming platforms before turning into a massive box office hit."
+        ]
+      }
+    ],
+    "facts": [
+      "Hanuman Ansh budget is 2 करोड़ रुपये",
+      "Worldwide gross collection is 452.86 करोड़ रुपये",
+      "Sony LIV premiere date is November 27, 2026",
+      "Netflix release date is November 29, 2026",
+      "Director of Hanuman Ansh is Vishal चतुर्वेदी",
+      "Domestic gross collection is 404.66 करोड़ रुपये",
+      "Net domestic collection is 342.99 करोड़ रुपये",
+      "International gross collection is 48.80 करोड़ रुपये",
+      "Hindi collection is 337.08 करोड़ रुपये",
+      "Telugu collection is 5.91 करोड़ रुपये",
+      "Sony Pictures OTT rights deal value is 63 करोड़ रुपये"
+    ],
+    "entities": {
+      "people": [
+        "Vishal चतुर्वेदी"
+      ],
+      "titles": [
+        "Hanuman Ansh"
+      ]
+    },
+    "keywords": [
+      "Hanuman Ansh",
+      "Hanuman Ansh OTT release",
+      "Vishal चतुर्वेदी",
+      "Neem Karoli Baba film",
+      "Hanuman Ansh box office"
+    ],
+    "images": [
+      {
+        "url": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202611/6b06ede2a2a24-hanuman-ansh-ott-deal-netflix-sony-251705523-16x9.jpg",
+        "caption": "Hanuman Ansh OTT Release Dates Confirmed for Netflix and Sony LIV",
+        "source": "Aaj Tak — Entertainment"
+      }
+    ],
+    "published": "2026-11-26T00:52:07Z"
+  },
+  "77rijp": {
+    "id": "77rijp",
+    "type": "news",
+    "headline": "Complete List of Winners Revealed at the 47th Blue Dragon Film Awards",
+    "dek": "The 47th Blue Dragon Film Awards took place on November 19, honoring standout cinematic achievements, phenomenal acting performances, and exceptional technical contributions across the South Korean film industry.",
+    "body": [
+      {
+        "h": "Introduction to the 47th Blue Dragon Film Awards",
+        "p": [
+          "The South Korean film industry gathered on November 19 to celebrate the very best in cinematic storytelling at the 47th Blue Dragon Film Awards. This esteemed annual ceremony shines a light on productions that have demonstrated extraordinary artistic vision, technical mastery, and unforgettable acting performances over the past year.",
+          "As one of the most prestigious accolades in South Korean cinema, the event drew immense attention from fans and industry professionals alike. The evening was marked by emotional victories, career milestones, and a comprehensive recognition of both established masters and emerging talent."
+        ]
+      },
+      {
+        "h": "Major Acting Categories and Winners",
+        "p": [
+          "The competitive acting categories showcased powerhouse performances that resonated deeply with both critics and audiences. Jeon Do Yeon captured the Best Actress title for her remarkable work in Possible Love, while her co-star Sul Kyung Gu took home the Best Actor award for the same film.",
+          "In the supporting categories, Cho Yeo Jeong earned Best Supporting Actress for Possible Love, and Koo Kyo Hwan was awarded Best Supporting Actor for his gripping performance in Colony. Meanwhile, the rising stars of the industry also had their moment in the spotlight."
+        ]
+      },
+      {
+        "h": "Celebrating Rising Stars and New Directors",
+        "p": [
+          "Nurturing fresh talent remains a core mission of the ceremony, and this year's emerging nominees delivered stellar breakout performances. Park Ji Hoon secured the Best New Actor honor for his role in The King’s Warden, while Seo Su Bin was named Best New Actress for The World of Love.",
+          "Behind the camera, fresh directorial talent was equally celebrated. Kim Mi Jo was awarded Best New Director for guiding The Journey to Gyeongju, signaling a bright future for the next generation of cinematic storytellers."
+        ]
+      },
+      {
+        "h": "Top Honors for Best Picture and Direction",
+        "p": [
+          "The highest cinematic honors of the night went to the projects that pushed creative boundaries and moved audiences profoundly. The coveted Best Picture prize was awarded to HOPE, a film that resonated strongly throughout the voting process.",
+          "In the directing category, Yoon Ga Eun earned the title of Best Director for the acclaimed feature The World of Love. Both winning projects highlighted the remarkable depth and diverse thematic exploration present in contemporary filmmaking."
+        ]
+      },
+      {
+        "h": "Excellence in Craft and Technical Achievement",
+        "p": [
+          "Beyond the primary acting and directing awards, the ceremony also recognized the vital technical artists who bring films to life. Hong Kyung Pyo and Park Jung Woo shared the award for Best Cinematography and Lighting for their breathtaking work on HOPE.",
+          "Additional technical winners included Lee Min Hwi for Best Music in Pavane, Han Ah Reum for Best Art Direction in Good News, Kim Sang Bum for Best Editing in Good News, and Yoo Sang Seob alongside Lee Won Haeng for Best Technical Achievement in HUMINT. The Best Screenplay honor was presented to Lee Chang Dong and Oh Jung Mi for Possible Love."
+        ]
+      },
+      {
+        "h": "Special Honors, Popularity Awards, and Short Films",
+        "p": [
+          "Popularity and audience engagement were celebrated through several specialized categories during the event. The Audience Choice Award for Most Popular Film was proudly claimed by The King’s Warden, reflecting its immense public appeal.",
+          "Popular Star Awards were presented to Park Ji Hoon, Park Ji Hyun, Oh Jung Se, and Shin Min Ah. In the short-form and legacy categories, Hong Seung Gi won Best Short Film for Mungchi, and the legendary Ahn Sung Ki received the prestigious Lifetime Achievement Award in honor of his monumental career."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "The 47th Blue Dragon Film Awards concluded on November 19 by honoring the top cinematic achievements, actors, and technicians of the year. Major winners included Possible Love, HOPE, and The King’s Warden, alongside a special lifetime achievement recognition for Ahn Sung Ki."
+        ]
+      }
+    ],
+    "facts": [
+      "The 47th Blue Dragon Film Awards took place on November 19.",
+      "Jeon Do Yeon won Best Actress for Possible Love.",
+      "Sul Kyung Gu won Best Actor for Possible Love.",
+      "Ahn Sung Ki received the Lifetime Achievement Award."
+    ],
+    "entities": {
+      "people": [
+        "Hong Seung Gi",
+        "Lee Min Hwi",
+        "Han Ah Reum",
+        "Kim Sang Bum",
+        "Hong Kyung Pyo",
+        "Park Jung Woo",
+        "Yoo Sang Seob",
+        "Lee Won Haeng",
+        "Park Ji Hoon",
+        "Park Ji Hyun",
+        "Oh Jung Se",
+        "Shin Min Ah",
+        "Lee Chang Dong",
+        "Oh Jung Mi",
+        "Kim Mi Jo",
+        "Seo Su Bin",
+        "Cho Yeo Jeong",
+        "Koo Kyo Hwan",
+        "Jeon Do Yeon",
+        "Sul Kyung Gu",
+        "Yoon Ga Eun",
+        "Ahn Sung Ki"
+      ],
+      "titles": [
+        "Mungchi",
+        "Pavane",
+        "Good News",
+        "HOPE",
+        "HUMINT",
+        "The King’s Warden",
+        "Possible Love",
+        "The Journey to Gyeongju",
+        "The World of Love",
+        "Colony"
+      ]
+    },
+    "keywords": [
+      "47th Blue Dragon Film Awards",
+      "Possible Love winners",
+      "HOPE film awards",
+      "Blue Dragon Film Awards winners list"
+    ],
+    "images": [
+      {
+        "url": "https://image.koreaboo.com/2026/11/FEATURED-IMAGE-2026-11-25T170726.191.jpg?imop=Resize%2Cwidth%3D1230%3BConvert%2Cformat%3Djpeg&amp;Expires=1795716000&amp;KeyName=kb&amp;Signature=uiLgpOhQ44IhAoSYg0cPOrjdsiY=",
+        "caption": "Complete List of Winners Revealed at the 47th Blue Dragon Film Awards",
+        "source": "Koreaboo"
+      }
+    ],
+    "published": "Wed, 25 Nov 2026 23:08:11 +0000"
   }
 };
