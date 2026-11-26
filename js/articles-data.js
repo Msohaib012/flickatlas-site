@@ -254186,5 +254186,418 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Thu, 26 Nov 2026 08:00:12 +0000"
+  },
+  "foos02": {
+    "id": "foos02",
+    "type": "news",
+    "headline": "Venkatesh Daggubati's 'Aadarsha Kutumbam: House No. 47' Heads to Netflix for OTT Premiere",
+    "dek": "Following its theatrical run, the family entertainer directed by Trivikram Srinivas is set to make its digital debut on November 27.",
+    "body": [
+      {
+        "h": "Theatrical Journey and Digital Transition",
+        "p": [
+          "Venkatesh Daggubati's family entertainer 'Aadarsha Kutumbam: House No. 47' is officially making its transition to the digital space. After spending nearly a month in cinemas, the film is scheduled to arrive on Netflix, giving fans a chance to stream the project from the comfort of their homes.",
+          "The theatrical run began on October 30, following several postponements that kept the movie from reaching the silver screen earlier. Now, the forthcoming digital release aims to offer the project a fresh lease on life and help it connect with a broader audience base."
+        ]
+      },
+      {
+        "h": "Multilingual Availability on Netflix",
+        "p": [
+          "Starting Friday, November 27, subscribers can stream the movie across multiple audio tracks. Alongside the original Telugu language, Netflix will provide options in Tamil, Malayalam, Kannada, and Hindi.",
+          "Industry observers hope this extensive linguistic rollout will turn around the modest fortunes of the project, inviting viewers from different regions to sample the family drama and comedy."
+        ]
+      },
+      {
+        "h": "A First-Time Creative Collaboration",
+        "p": [
+          "The project marks a significant milestone as the very first time filmmaker Trivikram Srinivas has directed Venkatesh in a full-length feature film. Prior to this, the duo collaborated when Trivikram worked as a writer on beloved classics like 'Nuvvu Naaku Nachav' and 'Malliswari'.",
+          "This long-awaited actor-director pairing generated substantial anticipation among fans before the film ever hit the big screen."
+        ]
+      },
+      {
+        "h": "Plot and Character Dynamics",
+        "p": [
+          "The narrative centers around Chittibabu, a middle-class family man portrayed by Venkatesh, who grapples with a mix of financial difficulties and domestic struggles. His wife, Swarna, is played by Srinidhi Shetty, and her character encounters heavy pressure after a financial investment goes wrong.",
+          "The situation deteriorates further when Chittibabu loses his job and their children begin creating additional troubles for the household. However, the family's trajectory changes overnight when they unexpectedly win a massive lottery worth Rs 100 crore."
+        ]
+      },
+      {
+        "h": "High Stakes and Ensemble Cast",
+        "p": [
+          "Winning a massive cash prize brings its own set of dangers, drawing the unwanted attention of a dangerous gang from Bihar that targets the family and plots to steal the fortune.",
+          "Complementing the main leads is a sprawling supporting cast featuring Nivetha Pethuraj, Nara Rohith, Dimple Hayathi, Rao Ramesh, Satya, Brahmaji, and Vennela Kishore. The musical score for the movie was composed by Thaman S, while S Radhakrishna handled production duties."
+        ]
+      },
+      {
+        "h": "Box Office Standing and Expectations",
+        "p": [
+          "Despite boasting a high-profile combination of Venkatesh and Trivikram, the film registered an average response at the box office. During its theatrical tenure, it managed to collect roughly Rs 76-80 crore worldwide.",
+          "While Trivikram's signature dialogues and Venkatesh's reliable acting performance drew praise, the overall returns fell short of initial industry expectations. The digital release on Netflix now serves as a crucial second chance to capture public interest."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Venkatesh Daggubati's family entertainer 'Aadarsha Kutumbam: House No. 47', directed by Trivikram Srinivas, is releasing on Netflix on November 27. The movie features a massive lottery win plot and co-stars Srinidhi Shetty, having previously grossed around Rs 76-80 crore during its theatrical run."
+        ]
+      }
+    ],
+    "facts": [
+      "Aadarsha Kutumbam: House No. 47 releases on Netflix on November 27, 2026",
+      "The film premiered in theatres on October 30, 2026",
+      "It is directed by Trivikram Srinivas",
+      "The film collected around Rs 76-80 crore worldwide during its theatrical run"
+    ],
+    "entities": {
+      "people": [
+        "Venkatesh Daggubati",
+        "Trivikram Srinivas",
+        "Srinidhi Shetty",
+        "Nivetha Pethuraj",
+        "Nara Rohith",
+        "Dimple Hayathi",
+        "Rao Ramesh",
+        "Satya",
+        "Brahmaji",
+        "Vennela Kishore",
+        "Thaman S",
+        "S Radhakrishna"
+      ],
+      "titles": [
+        "Aadarsha Kutumbam: House No. 47",
+        "Nuvvu Naaku Nachav",
+        "Malliswari"
+      ]
+    },
+    "keywords": [
+      "Aadarsha Kutumbam House No 47",
+      "Venkatesh Daggubati film",
+      "Trivikram Srinivas movie",
+      "Aadarsha Kutumbam OTT release"
+    ],
+    "images": [
+      {
+        "url": "https://static.toiimg.com/thumb/msid-136188002,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "caption": "Venkatesh Daggubati's 'Aadarsha Kutumbam: House No. 47' Heads to Netflix for OTT Premiere",
+        "source": "Times of India — Entertainment"
+      }
+    ],
+    "published": "2026-11-26T16:01:51+05:30"
+  },
+  "jkgei7": {
+    "id": "jkgei7",
+    "type": "news",
+    "headline": "Amanda Seyfried Reflects on Tense Dinner Scene With Elizabeth Holmes' Partner in You Can See Everything",
+    "dek": "The Hollywood star opened up about her surreal encounter with Billy Evans during the filming of Nathan Fielder's documentary.",
+    "body": [
+      {
+        "h": "An Unexpected Project",
+        "p": [
+          "Hollywood star Amanda Seyfried has shared her thoughts on a remarkably intense dinner confrontation with Billy Evans, the partner of former Theranos CEO Elizabeth Holmes. The interaction took place for the documentary film You Can See Everything, directed by Nathan Fielder, which chronicles the final days before Holmes began serving an 11-year prison sentence for defrauding investors.",
+          "Seyfried previously portrayed Holmes in the Hulu limited series The Dropout. Her involvement in the new documentary brought her face-to-face with Holmes' actual family life and inner circle in a setting that blurred the lines between reality and bizarre performance art."
+        ]
+      },
+      {
+        "h": "A Heated Exchange at Dinner",
+        "p": [
+          "During the documentary, Seyfried sits down for dinner with Billy Evans and Nathan Fielder while Holmes is already behind bars. What begins as a conversation quickly spirals into a volatile and heated argument between the actress and Evans.",
+          "The dispute covered multiple fronts, including Evans posting on Holmes' social media account while impersonating her. Evans also took direct aim at Seyfried, criticizing both her acting career and her portrayal of Holmes in The Dropout."
+        ]
+      },
+      {
+        "h": "Clashing Worldviews",
+        "p": [
+          "The dinner table tension extended beyond personal grievances into broader political commentary. The two also clashed over Seyfried's public remarks regarding right-wing commentator Charlie Kirk following his 2025 killing in Utah.",
+          "While Seyfried had been vocal in her criticism of Kirk, Evans made it clear during the meal that he supported the commentator, adding another layer of friction to an already volatile and uncomfortable encounter."
+        ]
+      },
+      {
+        "h": "Watching It Back",
+        "p": [
+          "Appearing on The Tonight Show Starring Jimmy Fallon, Seyfried reflected on how strange the interaction felt upon reviewing the footage. She admitted that seeing herself onscreen made her feel that some of her own reactions appeared rather cocky.",
+          "She described the entire situation as feeling like an episode of The Twilight Zone, questioning how she managed to end up inside a house surrounded by cameras, crew members, and the partner of the disgraced executive."
+        ]
+      },
+      {
+        "h": "How the Collaboration Began",
+        "p": [
+          "Seyfried explained to host Jimmy Fallon that she never anticipated stepping back into the shadow of Elizabeth Holmes after finishing her work on The Dropout. The connection to the project came about through actor Emma Stone, who linked Seyfried with Fielder.",
+          "Following an hour-long FaceTime conversation about Holmes, Fielder shared his unique experience of living with Holmes for a month prior to her imprisonment, ultimately leading to Seyfried's surprise appearance in the film."
+        ]
+      },
+      {
+        "h": "A Meta Experience",
+        "p": [
+          "The actress noted that the production team had already established a two-year rapport with Holmes and her family, making her arrival feel like an outsider stepping into an established, surreal environment.",
+          "She confessed that she has not yet fully processed the experience due to its deeply meta nature, walking into a private home in search of connection or insight only to find herself in the middle of a cinematic spectacle."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Amanda Seyfried spoke about her tense dinner scene with Billy Evans during the filming of the documentary You Can See Everything. The actress reflected on the surreal and heated exchange during her appearance on The Tonight Show Starring Jimmy Fallon."
+        ]
+      }
+    ],
+    "facts": [
+      "Elizabeth Holmes was sentenced to 11 years in prison for defrauding investors.",
+      "Amanda Seyfried portrayed Elizabeth Holmes in the Hulu limited series The Dropout.",
+      "You Can See Everything was created by Nathan Fielder.",
+      "Charlie Kirk was killed in Utah in 2025."
+    ],
+    "entities": {
+      "people": [
+        "Amanda Seyfried",
+        "Elizabeth Holmes",
+        "Billy Evans",
+        "Nathan Fielder",
+        "Jimmy Fallon",
+        "Charlie Kirk",
+        "Emma Stone",
+        "Lance Oppenheim"
+      ],
+      "titles": [
+        "You Can See Everything",
+        "The Dropout",
+        "The Twilight Zone",
+        "The Curse",
+        "Legends"
+      ]
+    },
+    "keywords": [
+      "You Can See Everything film",
+      "Amanda Seyfried You Can See Everything",
+      "Elizabeth Holmes Billy Evans dinner",
+      "Nathan Fielder documentary"
+    ],
+    "images": [
+      {
+        "url": "https://hips.hearstapps.com/vidthumb/71511da0-4733-4033-9d30-de803e98251c/d2580a04-e767-42ae-84ef-65a653fc8acd.jpg?crop=1.00xw:0.662xh;0,0.220xh&amp;resize=1200:*",
+        "caption": "Amanda Seyfried Reflects on Tense Dinner Scene With Elizabeth Holmes' Partner in You Can See Everything",
+        "source": "Digital Spy"
+      }
+    ],
+    "published": "Thu, 26 Nov 2026 10:10:00 +0000"
+  },
+  "ent1mt": {
+    "id": "ent1mt",
+    "type": "news",
+    "headline": "Vir Das addresses International Emmy Awards loss and red-carpet fashion debut",
+    "dek": "The comedian shared his thoughts after missing out on the Best Comedy trophy at the 54th International Emmy Awards, while celebrating a unique platform for a homegrown designer.",
+    "body": [
+      {
+        "h": "The Emmy Result",
+        "p": [
+          "Actor and comedian Vir Das addressed the outcome of the 54th International Emmy Awards after failing to secure a win. His Netflix stand-up special 'Vir Das: Fool Volume' competed in the Best Comedy category.",
+          "The category was ultimately won by Argentina's 'Division Palermo – Season 2' at the gala held in New York."
+        ]
+      },
+      {
+        "h": "Reflecting On The Outcome",
+        "p": [
+          "Das shared his reflections regarding the evening on social media, acknowledging that he was not fortunate enough to take home the trophy this time around.",
+          "Despite missing out on the award, the comedian expressed satisfaction with being able to showcase a fresh creative talent on an international stage."
+        ]
+      },
+      {
+        "h": "Highlighting New Design Talent",
+        "p": [
+          "Given that people do not typically look to him for major fashion statements, Das made it a point to collaborate with a newcomer for his red-carpet appearance, ensuring the designer was properly compensated and platformed.",
+          "He introduced Lucknow-based designer Mohika Dhawan to the global audience, praising her distinctive creative vision for the event."
+        ]
+      },
+      {
+        "h": "Crafting The Red Carpet Look",
+        "p": [
+          "Dhawan designed a contemporary menswear ensemble that merged Lucknow's traditional Chikankari embroidery with a modern formal silhouette, giving the historic needlework a distinct red-carpet moment.",
+          "The intricate outfit was brought to life by twelve artisans, with eight karigars dedicating one hundred and twenty hours of embroidery work over the span of just three days."
+        ]
+      },
+      {
+        "h": "Prior Emmy History",
+        "p": [
+          "The 2026 event marked the third time Vir Das has earned a nomination at the International Emmy Awards.",
+          "His past recognition includes a nomination for 'Vir Das: For India' and a previous win in 2023 for 'Vir Das: Landing', which tied with 'Derry Girls' Season 3 for the Best Comedy honor."
+        ]
+      },
+      {
+        "h": "Other Indian Contenders",
+        "p": [
+          "India had another hopeful at the ceremony with SonyLIV's 'Real Kashmir Football Club' competing in the Drama Series category.",
+          "The drama award eventually went to France's 'Carme', while actor Vijay Sethupathi also participated in the proceedings as a presenter."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Vir Das reacted to not winning an Emmy at the 54th International Emmy Awards in New York, where his special 'Vir Das: Fool Volume' lost to 'Division Palermo – Season 2'. Instead of focusing solely on the loss, he highlighted the red-carpet launch of Lucknow-based designer Mohika Dhawan and her Chikankari ensemble."
+        ]
+      }
+    ],
+    "facts": [
+      "The 54th International Emmy Awards took place in New York.",
+      "Vir Das was nominated for 'Vir Das: Fool Volume'.",
+      "'Division Palermo – Season 2' won the Best Comedy award.",
+      "Mohika Dhawan is a Lucknow-based designer.",
+      "12 karigars worked on the outfit, with 8 putting in 120 hours over 3 days.",
+      "Vir Das previously won an Emmy in 2023 for 'Vir Das: Landing'.",
+      "Real Kashmir Football Club was another Indian contender at the awards."
+    ],
+    "entities": {
+      "people": [
+        "Vir Das",
+        "Mohika Dhawan",
+        "Vijay Sethupathi"
+      ],
+      "titles": [
+        "Vir Das: Fool Volume",
+        "Division Palermo – Season 2",
+        "Vir Das: For India",
+        "Vir Das: Landing",
+        "Derry Girls",
+        "Real Kashmir Football Club",
+        "Carme",
+        "A Thousand Blows",
+        "Menem"
+      ]
+    },
+    "keywords": [
+      "Vir Das Emmy loss",
+      "Vir Das Fool Volume",
+      "54th International Emmy Awards",
+      "Mohika Dhawan designer"
+    ],
+    "images": [
+      {
+        "url": "https://cdn-english.zeenews.com/sites/default/files/2026/11/25/7638-vir-das.jpg",
+        "caption": "Vir Das addresses International Emmy Awards loss and red-carpet fashion debut",
+        "source": "Zee News — Entertainment"
+      }
+    ],
+    "published": "2026-11-26T10:52:47Z"
+  },
+  "1ktssxq": {
+    "id": "1ktssxq",
+    "type": "news",
+    "headline": "Avengers: Doomsday Trailer Breaks Records as Most Viewed Disney Preview Ever",
+    "dek": "The latest promotional clip for Marvel Studios' upcoming blockbuster has achieved an unprecedented viewership milestone, outperforming previous major releases.",
+    "body": [
+      {
+        "h": "A Historic Promotional Milestone",
+        "p": [
+          "The excitement surrounding Marvel Studios' upcoming superhero epic reached new heights as its latest promotional clip shattered digital viewing records globally. According to reports from Deadline, the preview accumulated an astonishing 563 million views, officially establishing itself as the most viewed Disney preview of all time.",
+          "This incredible figure highlights the immense global anticipation for the cinematic event, completely eclipsing previous promotional benchmarks set by major studio titles."
+        ]
+      },
+      {
+        "h": "Surpassing Previous Marvel Records",
+        "p": [
+          "The new promotional footage successfully outperformed earlier milestones within the franchise, including the teaser views for the same film which previously pulled in 503 million viewers in its initial 24-hour traffic window.",
+          "Additionally, it comfortably surpassed the high-profile 2024 Super Bowl teaser for Deadpool & Wolverine, which had previously captured 365 million views including broadcast numbers."
+        ]
+      },
+      {
+        "h": "What the Trailer Reveals",
+        "p": [
+          "The widely discussed video gives audiences a fresh look at upcoming footage featuring a massive crossover of beloved characters. Viewers are treated to glimpses of the Avengers, X-Men, and Fantastic Four alongside the formidable villain Doctor Doom.",
+          "As expected, the footage has already sparked intense speculation, prompting fans across the globe to deep dive into intricate theories regarding the overarching plot."
+        ]
+      },
+      {
+        "h": "Plot and Premise",
+        "p": [
+          "Within the narrative of the film, cherished heroes hailing from three distinct universes find themselves on an inevitable and perilous collision course. They must unite to confront an existential threat unlike anything they have ever encountered before.",
+          "The sheer scale of this multidisciplinary conflict promises a defining chapter for the overarching cinematic universe."
+        ]
+      },
+      {
+        "h": "Makers and Massive Ensemble Cast",
+        "p": [
+          "The project is directed by the acclaimed filmmaking duo Anthony and Joe Russo and is produced by Kevin Feige, Louis D'Esposito, and Jonathan Schwartz.",
+          "It features a sprawling ensemble cast starring Robert Downey Jr., Chris Evans, Chris Hemsworth, Pedro Pascal, Paul Rudd, Anthony Mackie, Florence Pugh, Vanessa Kirby, Ebon Moss-Bachrach, Wyatt Russell, Channing Tatum, Simu Liu, Ian McKellen, Hayley Atwell, Tom Hiddleston, James Marsden, Patrick Stewart, Joseph Quinn, Sebastian Stan, David Harbour, Letitia Wright, Lewis Pullman, Kelsey Grammer, Kathryn Newton, Danny Ramirez, Winston Duke, Alan Cumming, Hannah John-Kamen, Rebecca Romijn, Alex Livinalli, Mabel Cadena, and Tenoch Huerta Mejia."
+        ]
+      },
+      {
+        "h": "Release Details in India",
+        "p": [
+          "Indian audiences will have the opportunity to experience the blockbuster early, as the film is scheduled to hit cinemas in India on 17th December 2026, arriving a day ahead of its official United States release.",
+          "To cater to regional audiences, the movie will release in English, Hindi, Tamil, and Telugu, and will be presented in Marvel Presented In Infinity Vision alongside other premium formats."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "The newest promotional clip for Avengers: Doomsday has officially become the most viewed Disney trailer of all time with 563 million views, surpassing previous marks like its own teaser and Deadpool & Wolverine. Directed by Anthony and Joe Russo, the film brings together a massive cast from three distinct universes to face a major existential threat when it releases in India on 17th December 2026."
+        ]
+      }
+    ],
+    "facts": [
+      "Avengers: Doomsday recorded 563 million views for its new trailer.",
+      "The teaser previously gained 503M views in 24-hour traffic.",
+      "Deadpool & Wolverine's 2024 Super Bowl teaser had 365M views including broadcast.",
+      "The film releases on 17th December 2026 in India, a day before the US.",
+      "It releases in English, Hindi, Tamil and Telugu.",
+      "The film is directed by Anthony and Joe Russo.",
+      "It is produced by Kevin Feige, Louis D'Esposito and Jonathan Schwartz."
+    ],
+    "entities": {
+      "people": [
+        "Anthony Russo",
+        "Joe Russo",
+        "Kevin Feige",
+        "Louis D'Esposito",
+        "Jonathan Schwartz",
+        "Robert Downey Jr.",
+        "Chris Evans",
+        "Chris Hemsworth",
+        "Pedro Pascal",
+        "Paul Rudd",
+        "Anthony Mackie",
+        "Florence Pugh",
+        "Vanessa Kirby",
+        "Ebon Moss-Bachrach",
+        "Wyatt Russell",
+        "Channing Tatum",
+        "Simu Liu",
+        "Ian McKellen",
+        "Hayley Atwell",
+        "Tom Hiddleston",
+        "James Marsden",
+        "Patrick Stewart",
+        "Joseph Quinn",
+        "Sebastian Stan",
+        "David Harbour",
+        "Letitia Wright",
+        "Lewis Pullman",
+        "Kelsey Grammer",
+        "Kathryn Newton",
+        "Danny Ramirez",
+        "Winston Duke",
+        "Alan Cumming",
+        "Hannah John-Kamen",
+        "Rebecca Romijn",
+        "Alex Livinalli",
+        "Mabel Cadena",
+        "Tenoch Huerta Mejia"
+      ],
+      "titles": [
+        "Avengers: Doomsday",
+        "Deadpool & Wolverine"
+      ]
+    },
+    "keywords": [
+      "Avengers Doomsday trailer",
+      "Avengers Doomsday Disney record",
+      "Anthony and Joe Russo film",
+      "Avengers Doomsday release date"
+    ],
+    "images": [
+      {
+        "url": "https://images.filmibeat.com/img/2026/11/avengersdoomsday-94901795689340.jpg",
+        "caption": "Avengers: Doomsday Trailer Breaks Records as Most Viewed Disney Preview Ever",
+        "source": "FilmiBeat"
+      }
+    ],
+    "published": "Thu, 26 Nov 2026 16:14:30 +0530"
   }
 };
