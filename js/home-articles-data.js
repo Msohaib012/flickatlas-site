@@ -44,6 +44,164 @@ window.FA_HOME_ARTICLES = {
     ],
     "published": "Thu, 26 Nov 2026 20:53:03 +0200"
   },
+  "13ymhgv": {
+    "id": "13ymhgv",
+    "type": "news",
+    "headline": "Yeh Prem Mol Liya Secures Strong Advance Booking Ahead of Release",
+    "dek": "Ayushmann Khurrana and Sharvari star in Sooraj Barjatya's romantic family drama, which has collected Rs 2.62 crore in advance ticket sales ahead of its theatrical debut.",
+    "entities": {
+      "people": [
+        "Ayushmann Khurrana",
+        "Sharvari",
+        "Sooraj Barjatya",
+        "Salman Khan",
+        "Hrithik Roshan",
+        "Abhishek Bachchan",
+        "Shahid Kapoor",
+        "Sonu Sood",
+        "Anupam Kher",
+        "Supriya Pathak",
+        "Seema Pahwa",
+        "Saumya Tandon",
+        "Shaad Randhawa",
+        "Swanand Kirkire",
+        "Emraan Hashmi"
+      ],
+      "titles": [
+        "Yeh Prem Mol Liya",
+        "Gunmaaster G9",
+        "Udta Teer"
+      ]
+    },
+    "keywords": [
+      "Yeh Prem Mol Liya",
+      "Ayushmann Khurrana Yeh Prem Mol Liya",
+      "Yeh Prem Mol Liya advance booking",
+      "Sooraj Barjatya film"
+    ],
+    "images": [
+      {
+        "url": "https://images.filmibeat.com/img/2026/11/ypmlvsg9feature-72941795710666.jpg",
+        "caption": "Yeh Prem Mol Liya Secures Strong Advance Booking Ahead of Release",
+        "source": "FilmiBeat"
+      }
+    ],
+    "published": "Thu, 26 Nov 2026 22:04:22 +0530"
+  },
+  "1nuxvrc": {
+    "id": "1nuxvrc",
+    "type": "news",
+    "headline": "Angelina Jolie and Brad Pitt Reach Settlement in Four-Year Legal Dispute Over French Winery",
+    "dek": "Former Hollywood couple Angelina Jolie and Brad Pitt have officially resolved their lengthy court battle concerning the Château Miraval winery through an out-of-court agreement.",
+    "entities": {
+      "people": [
+        "Angelina Jolie",
+        "Brad Pitt",
+        "Yuri Shefler"
+      ],
+      "titles": [
+        "Maria",
+        "Legends"
+      ]
+    },
+    "keywords": [
+      "Angelina Jolie Brad Pitt winery",
+      "Château Miraval legal battle",
+      "Angelina Jolie Brad Pitt settlement",
+      "Angelina Jolie Stoli Group sale"
+    ],
+    "images": [
+      {
+        "url": "https://hips.hearstapps.com/hmg-prod/images/b5563d79-efd6-4c92-9591-2495722ad5e6.jpg?crop=1.00xw:0.356xh;0,0.0262xh&amp;resize=1200:*",
+        "caption": "Angelina Jolie and Brad Pitt Reach Settlement in Four-Year Legal Dispute Over French Winery",
+        "source": "Digital Spy"
+      }
+    ],
+    "published": "Thu, 26 Nov 2026 16:19:00 +0000"
+  },
+  "yetia7": {
+    "id": "yetia7",
+    "type": "news",
+    "headline": "Priyanka Chopra honours the martyrs and victims of the 26/11 Mumbai terror attacks on their 18th anniversary",
+    "dek": "Global actor Priyanka Chopra shared a heartfelt message on social media to remember the lives lost and the brave heroes of the 26/11 Mumbai terror tragedy.",
+    "entities": {
+      "people": [
+        "Priyanka Chopra",
+        "Bhumi Pednekar",
+        "Devendra Fadnavis",
+        "Hemant Karkare",
+        "Ashok Kamte",
+        "Vijay Salaskar",
+        "Tukaram Omble",
+        "Sandeep Unnikrishnan",
+        "SS Rajamouli",
+        "Mahesh Babu",
+        "Prithviraj Sukumaran",
+        "Santanu Das"
+      ],
+      "titles": [
+        "The Bluff",
+        "Varanasi",
+        "Citadel"
+      ]
+    },
+    "keywords": [
+      "Priyanka Chopra 26/11 Mumbai",
+      "Mumbai terror attacks anniversary",
+      "Priyanka Chopra Instagram Stories",
+      "Bhumi Pednekar Gateway of India",
+      "Varanasi SS Rajamouli film"
+    ],
+    "images": [
+      {
+        "url": "https://www.hindustantimes.com/ht-img/img/2026/11/26/1600x900/logo/AP03-16-2026-000018B-0_1773633340849_1795709342997_c7h6_12cde51e-c6a3-4018-8fd1-ae423fce6e3d_8hEM.jpg",
+        "caption": "Priyanka Chopra honours the martyrs and victims of the 26/11 Mumbai terror attacks on their 18th anniversary",
+        "source": "Hindustan Times — Entertainment"
+      }
+    ],
+    "published": "Thu, 26 Nov 2026 21:47:09 +0530"
+  },
+  "1l58gcc": {
+    "id": "1l58gcc",
+    "type": "news",
+    "headline": "Hunger Games Prequel Dominates Thanksgiving Eve Box Office",
+    "dek": "Sunrise on the Reaping pulls in $15 million on Wednesday while new arrivals Hexed and Focker In-Law trail initial projections.",
+    "entities": {
+      "people": [
+        "Ariana Grande",
+        "Skyler Gisondo",
+        "Brad Pitt"
+      ],
+      "titles": [
+        "Sunrise on the Reaping",
+        "Hexed",
+        "Focker In-Law",
+        "The Mis-Adventures of Cliff Booth",
+        "Once Upon a Time in Hollywood",
+        "Moana 2",
+        "Zootopia 2",
+        "Wish",
+        "Strange World",
+        "Meet the Parents",
+        "Meet the Fockers",
+        "Little Fockers"
+      ]
+    },
+    "keywords": [
+      "Sunrise on the Reaping box office",
+      "Hunger Games prequel Thanksgiving",
+      "Focker In-Law opening day",
+      "Hexed Disney animated movie"
+    ],
+    "images": [
+      {
+        "url": "https://variety.com/wp-content/uploads/2026/11/solstice-unit-251030-00799rc3-cropc3-2.jpg?w=1000&#038;h=563&#038;crop=1",
+        "caption": "Hunger Games Prequel Dominates Thanksgiving Eve Box Office",
+        "source": "Variety"
+      }
+    ],
+    "published": "Thu, 26 Nov 2026 16:11:18 +0000"
+  },
   "1r4q06f": {
     "id": "1r4q06f",
     "type": "news",
@@ -4694,166 +4852,6 @@ window.FA_HOME_ARTICLES = {
     ],
     "published": "Wed, 25 Nov 2026 07:30:18 GMT"
   },
-  "r1ayu7": {
-    "id": "r1ayu7",
-    "type": "news",
-    "headline": "OM Box Office Day 5: Dhanush-Starrer Crosses Rs 100 Crore Worldwide and Sells 2 Million Tickets",
-    "dek": "Actor Dhanush's spy action film OM has crossed the Rs 100 crore milestone globally in five days while selling over two million tickets in India.",
-    "entities": {
-      "people": [
-        "Dhanush",
-        "Mammootty",
-        "Sai Pallavi",
-        "Rajinikanth",
-        "Vijay",
-        "Kriti Sanon",
-        "Rajkumar Periasamy",
-        "Ranbir Kapoor"
-      ],
-      "titles": [
-        "OM",
-        "Operation Mole",
-        "Jailer 2",
-        "Jana Nayagan",
-        "Karuppu",
-        "Vishwanath and Sons",
-        "Kara",
-        "Tere Ishk Mein",
-        "Ramayana Part 1"
-      ]
-    },
-    "keywords": [
-      "OM film box office",
-      "Dhanush OM movie",
-      "OM collection Day 5",
-      "Rajkumar Periasamy OM"
-    ],
-    "images": [
-      {
-        "url": "https://images.indianexpress.com/2026/11/Om-Box-Office.jpg",
-        "caption": "OM Box Office Day 5: Dhanush-Starrer Crosses Rs 100 Crore Worldwide and Sells 2 Million Tickets",
-        "source": "Indian Express — Entertainment"
-      }
-    ],
-    "published": "Wed, 25 Nov 2026 07:19:22 +0000"
-  },
-  "1l4za10": {
-    "id": "1l4za10",
-    "type": "news",
-    "headline": "Jude Bellingham's Stunning Goal Leaves Rafael Nadal and Son in Awe as Real Madrid Thrash PSV 5-1",
-    "dek": "Tennis legend Rafael Nadal and his son Rafael Jr. were captured reacting in amazement to Jude Bellingham's brilliant volley during Real Madrid's dominant 5-1 Champions League victory over PSV Eindhoven.",
-    "entities": {
-      "people": [
-        "Jude Bellingham",
-        "Rafael Nadal",
-        "Rafael Jr.",
-        "Ivan Perisic",
-        "Federico Valverde",
-        "Carlos Esposito",
-        "Mery Perello",
-        "Kylian Mbappe",
-        "Arda Guler",
-        "Kodai Sano",
-        "Vinicius Jr."
-      ],
-      "titles": []
-    },
-    "keywords": [
-      "Jude Bellingham Real Madrid PSV",
-      "Rafael Nadal Real Madrid son",
-      "Real Madrid PSV 5-1 Champions League",
-      "Jude Bellingham stunning goal"
-    ],
-    "images": [
-      {
-        "url": "https://cdn-english.zeenews.com/sites/default/files/2026/11/25/7634-untitled-design-2026-11-25t101022872.jpg",
-        "caption": "Jude Bellingham's Stunning Goal Leaves Rafael Nadal and Son in Awe as Real Madrid Thrash PSV 5-1",
-        "source": "Zee News — Entertainment"
-      }
-    ],
-    "published": "2026-11-25T06:53:01Z"
-  },
-  "ivb674": {
-    "id": "ivb674",
-    "type": "news",
-    "headline": "Ben Stiller Recalls Owen Wilson's Disastrous First Audition for The Cable Guy",
-    "dek": "Ben Stiller recently shared that Owen Wilson gave one of the worst auditions he had ever witnessed before casting him in the 1996 comedy The Cable Guy.",
-    "entities": {
-      "people": [
-        "Ben Stiller",
-        "Owen Wilson",
-        "Jim Carrey",
-        "Matthew Broderick",
-        "Wes Anderson",
-        "Luke Wilson",
-        "Judd Apatow",
-        "Drew Barrymore",
-        "Ariana Grande",
-        "Skyler Gisondo",
-        "Blythe Danner",
-        "Beanie Feldstein"
-      ],
-      "titles": [
-        "The Cable Guy",
-        "Bottle Rocket",
-        "Zoolander",
-        "The Royal Tenenbaums",
-        "Starsky & Hutch",
-        "Focker-in-Law"
-      ]
-    },
-    "keywords": [
-      "Ben Stiller Owen Wilson The Cable Guy",
-      "Ben Stiller Owen Wilson audition",
-      "The Cable Guy 1996 comedy",
-      "Focker-in-Law movie cast"
-    ],
-    "images": [
-      {
-        "url": "https://www.comingsoon.net/wp-content/uploads/sites/3/2026/11/MixCollage-25-Nov-2026-05-33-PM-2315.jpg?resize=1200,630",
-        "caption": "Ben Stiller Recalls Owen Wilson's Disastrous First Audition for The Cable Guy",
-        "source": "ComingSoon.net"
-      }
-    ],
-    "published": "Wed, 25 Nov 2026 06:34:13 +0000"
-  },
-  "rx4ogt": {
-    "id": "rx4ogt",
-    "type": "news",
-    "headline": "Aakasamlo Oka Tara Box Office Day 5: Dulquer Salmaan Starrer Surpasses King Of Kotha And Chases Top 5 Milestone",
-    "dek": "Dulquer Salmaan's Telugu feature Aakasamlo Oka Tara continues its steady theatrical run, crossing a major milestone on day five and outpacing his earlier release King Of Kotha.",
-    "entities": {
-      "people": [
-        "Dulquer Salmaan",
-        "Shruti Haasan"
-      ],
-      "titles": [
-        "Aakasamlo Oka Tara",
-        "King Of Kotha",
-        "Kaantha",
-        "Lucky Baskhar",
-        "Sita Ramam",
-        "Kurup",
-        "I'm Game",
-        "Mahanati",
-        "Lucky Baskhar"
-      ]
-    },
-    "keywords": [
-      "Aakasamlo Oka Tara box office",
-      "Dulquer Salmaan Aakasamlo Oka Tara",
-      "Aakasamlo Oka Tara day 5 collection",
-      "King Of Kotha box office total"
-    ],
-    "images": [
-      {
-        "url": "https://www.koimoi.com/wp-content/new-galleries/2026/11/aakasamlo-oka-tara-box-office-day-5-dulquer-salmaans-telugu-film-outperforms-his-ambitious-malayalam-disaster-0001.jpg",
-        "caption": "Aakasamlo Oka Tara Box Office Day 5: Dulquer Salmaan Starrer Surpasses King Of Kotha And Chases Top 5 Milestone",
-        "source": "Koimoi"
-      }
-    ],
-    "published": "Wed, 25 Nov 2026 06:18:15 +0000"
-  },
   "1ypg7z1": {
     "id": "1ypg7z1",
     "type": "news",
@@ -4984,46 +4982,6 @@ window.FA_HOME_ARTICLES = {
     ],
     "published": "Tue, 24 Nov 2026 13:44:47 +0530"
   },
-  "n3cs3w": {
-    "id": "n3cs3w",
-    "type": "news",
-    "headline": "‘Hunger Games: Sunrise on the Reaping’ Targets Potential Franchise-Record Monday",
-    "dek": "Lionsgate's latest franchise entry continues its strong box office run, eyeing a Monday haul of over $12 million.",
-    "entities": {
-      "people": [
-        "Suzanne Collins",
-        "Joseph Zada",
-        "Mckenna Grace",
-        "Elle Fanning",
-        "Jesse Plemons",
-        "Ralph Fiennes",
-        "Kieran Culkin"
-      ],
-      "titles": [
-        "The Hunger Games: Sunrise on the Reaping",
-        "Catching Fire",
-        "The Hunger Games: Ballad of Songbirds Snakes",
-        "The Hunger Games",
-        "The Hunger Games: Mockingjay Part 1",
-        "Focker-in-Law",
-        "Hexed"
-      ]
-    },
-    "keywords": [
-      "Hunger Games Sunrise on the Reaping",
-      "Sunrise on the Reaping box office",
-      "Lionsgate Hunger Games Monday record",
-      "Hunger Games Sunrise on the Reaping Monday"
-    ],
-    "images": [
-      {
-        "url": "https://deadline.com/wp-content/uploads/2026/11/MCDHUGA_LG119.jpg?w=1024",
-        "caption": "‘Hunger Games: Sunrise on the Reaping’ Targets Potential Franchise-Record Monday",
-        "source": "Deadline"
-      }
-    ],
-    "published": "Mon, 23 Nov 2026 22:29:58 +0000"
-  },
   "1q8blpb": {
     "id": "1q8blpb",
     "type": "news",
@@ -5129,49 +5087,6 @@ window.FA_HOME_ARTICLES = {
       }
     ],
     "published": "2026-11-23T15:00:06Z"
-  },
-  "160h3ho": {
-    "id": "160h3ho",
-    "type": "news",
-    "headline": "Sunrise on the Reaping Dominates Weekend Box Office While Ramayana Makes History",
-    "dek": "The November 20-22 weekend box office was completely owned by Sunrise on the Reaping with a massive $120 million domestic opening, while Ebenezer stumbled in its second weekend and Ramayana: Part 1 broke records in North America.",
-    "entities": {
-      "people": [
-        "Johnny Depp",
-        "Faiza Farheen"
-      ],
-      "titles": [
-        "Sunrise on the Reaping",
-        "I Play Rocky",
-        "Ebenezer",
-        "Ebenezer: A Christmas Carol",
-        "The Cat in the Hat",
-        "You Can See Everything",
-        "Wild Horse Nine",
-        "Wildwood",
-        "Godzilla Minus Zero",
-        "Ghost Soldier",
-        "How to Rob a Bank",
-        "Ramayana: Part 1",
-        "Mockingjay Part 1",
-        "Dhurandhar: The Revenge",
-        "Drishyam 3"
-      ]
-    },
-    "keywords": [
-      "Sunrise on the Reaping box office",
-      "Ramayana Part 1 North America record",
-      "Ebenezer second weekend drop",
-      "Nov 20 2026 weekend box office"
-    ],
-    "images": [
-      {
-        "url": "https://showpulp.com/wp-content/uploads/2026/07/boxoffice-1024x473.jpg",
-        "caption": "Sunrise on the Reaping Dominates Weekend Box Office While Ramayana Makes History",
-        "source": "ShowPulp"
-      }
-    ],
-    "published": "Mon, 23 Nov 2026 12:48:50 +0000"
   },
   "i6fzr": {
     "id": "i6fzr",

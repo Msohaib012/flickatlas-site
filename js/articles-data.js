@@ -256234,5 +256234,418 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Thu, 26 Nov 2026 20:40:19 +0530"
+  },
+  "1l58gcc": {
+    "id": "1l58gcc",
+    "type": "news",
+    "headline": "Hunger Games Prequel Dominates Thanksgiving Eve Box Office",
+    "dek": "Sunrise on the Reaping pulls in $15 million on Wednesday while new arrivals Hexed and Focker In-Law trail initial projections.",
+    "body": [
+      {
+        "h": "Holiday Box Office Leadership",
+        "p": [
+          "The Hunger Games prequel, titled Sunrise on the Reaping, easily outpaced all competitors on Wednesday before the Thanksgiving holiday. The Lionsgate release hauled in $15 million on Thanksgiving Eve alone, buoyed by strong word-of-mouth momentum.",
+          "Industry tracking indicates the film is aiming for an impressive $85 million over the five-day holiday frame. This projected surge would elevate the feature's domestic box office total to $233 million overall."
+        ]
+      },
+      {
+        "h": "New Competitors Fall Short",
+        "p": [
+          "Despite arriving with considerable anticipation, two major new releases missed their pre-release tracking goals. Disney's animated offering Hexed secured $7.6 million across 3,725 theater locations, while Universal's comedy Focker In-Law brought in $5.3 million from 3,382 venues on their opening days.",
+          "Both pictures are tracking below earlier industry forecasts that anticipated a $40 million to $45 million start. Hexed is now targeted for a $31 million to $35 million five-day debut, whereas Focker In-Law looks to land between $35 million and $36 million."
+        ]
+      },
+      {
+        "h": "Budgetary Pressures for Disney",
+        "p": [
+          "The soft domestic trajectory for Hexed poses significant financial questions given its hefty production price tag. Disney invested more than $200 million to make the animated fantasy adventure, which follows a teenage girl discovering magical powers that transport her to a realm of witches called Hexe.",
+          "Because theaters typically retain roughly half of ticket sales, the studio will rely heavily on international territories and sustained holiday legs. Historically, Disney has dominated this corridor with past hits like Moana 2 and Zootopia 2, though post-pandemic original titles such as Wish and Strange World struggled similarly."
+        ]
+      },
+      {
+        "h": "Focker In-Law Franchise Return",
+        "p": [
+          "Universal and Paramount co-financed Focker In-Law for $90 million, bringing back a comedy brand with a rich history. The franchise started with 2000's Meet the Parents, followed by Meet the Fockers and Little Fockers, all of which achieved major global box office success.",
+          "The latest chapter features Ariana Grande as the girlfriend of Greg's son Henry, played by Skyler Gisondo, as the family convenes for Jack's 80th birthday. Although critics gave the movie mixed reviews, audiences responded more favorably with a \"B+\" CinemaScore."
+        ]
+      },
+      {
+        "h": "Special Releases and Limited Runs",
+        "p": [
+          "In alternative cinematic offerings, Netflix brought in $910,000 from 252 Imax screens on Wednesday for The Mis-Adventures of Cliff Booth. Led by Brad Pitt, the sequel to Sony's Once Upon a Time in Hollywood is bypassing a traditional wide release format.",
+          "Industry observers expect the specialized project to accumulate between $4 million and $5 million by the conclusion of Sunday. Meanwhile, Hexed earned an encouraging \"A-\" grade on CinemaScore exit polls despite its financial hurdles."
+        ]
+      },
+      {
+        "h": "Overall Holiday Landscape and Records",
+        "p": [
+          "The broader marketplace will not set any new Thanksgiving records during this holiday window. Total ticket sales across all available films are projected to reach between $210 million and $215 million, trailing previous record years like 2024.",
+          "Even so, theater operators remain optimistic as domestic ticket revenues sit 20 percent higher than the equivalent timeframe in 2025. North American revenues are also on track to surpass the $10 billion threshold for the first time since the pandemic disrupted theatrical exhibition."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Sunrise on the Reaping led the Thanksgiving Eve box office with a strong $15 million Wednesday haul, outpacing new holiday arrivals. Newcomers Hexed and Focker In-Law debuted below expectations with differing budget pressures, while overall theatrical revenues continue a positive post-pandemic recovery trajectory."
+        ]
+      }
+    ],
+    "facts": [
+      "Sunrise on the Reaping earned $15 million on Wednesday before Thanksgiving.",
+      "Lionsgate's Hunger Games prequel is projected to collect $85 million over the five-day holiday period.",
+      "Hexed earned $7.6 million from 3,725 theaters on its opening day.",
+      "Focker In-Law grossed $5.3 million from 3,382 venues on its opening day.",
+      "Hexed is targeting a five-day debut of $31 million to $35 million.",
+      "Focker In-Law is aiming for a five-day debut of $35 million to $36 million.",
+      "The Mis-Adventures of Cliff Booth brought in $910,000 from 252 Imax screens on Wednesday.",
+      "Total ticket sales for the holiday marketplace are expected to hit $210 million to $215 million."
+    ],
+    "entities": {
+      "people": [
+        "Ariana Grande",
+        "Skyler Gisondo",
+        "Brad Pitt"
+      ],
+      "titles": [
+        "Sunrise on the Reaping",
+        "Hexed",
+        "Focker In-Law",
+        "The Mis-Adventures of Cliff Booth",
+        "Once Upon a Time in Hollywood",
+        "Moana 2",
+        "Zootopia 2",
+        "Wish",
+        "Strange World",
+        "Meet the Parents",
+        "Meet the Fockers",
+        "Little Fockers"
+      ]
+    },
+    "keywords": [
+      "Sunrise on the Reaping box office",
+      "Hunger Games prequel Thanksgiving",
+      "Focker In-Law opening day",
+      "Hexed Disney animated movie"
+    ],
+    "images": [
+      {
+        "url": "https://variety.com/wp-content/uploads/2026/11/solstice-unit-251030-00799rc3-cropc3-2.jpg?w=1000&#038;h=563&#038;crop=1",
+        "caption": "Hunger Games Prequel Dominates Thanksgiving Eve Box Office",
+        "source": "Variety"
+      }
+    ],
+    "published": "Thu, 26 Nov 2026 16:11:18 +0000"
+  },
+  "yetia7": {
+    "id": "yetia7",
+    "type": "news",
+    "headline": "Priyanka Chopra honours the martyrs and victims of the 26/11 Mumbai terror attacks on their 18th anniversary",
+    "dek": "Global actor Priyanka Chopra shared a heartfelt message on social media to remember the lives lost and the brave heroes of the 26/11 Mumbai terror tragedy.",
+    "body": [
+      {
+        "h": "Priyanka Chopra's Social Media Tribute",
+        "p": [
+          "On the solemn occasion of the 18th anniversary of the 26/11 Mumbai terror attacks, notable actor Priyanka Chopra took to her Instagram Stories to share a reflective message. She dedicated her words to honoring the innocent lives lost and remembering the brave individuals who made the ultimate sacrifice during the tragedy.",
+          "Her post served as a public reminder of the grim historic event, utilizing digital platforms to foster collective memory and solidarity with the affected families and citizens."
+        ]
+      },
+      {
+        "h": "Commemorations at the Gateway of India",
+        "p": [
+          "Public tributes stretched beyond online posts, with memorial gatherings taking place at the historic Gateway of India in Mumbai. Fellow actor Bhumi Pednekar participated in a dedicated ceremony organized by the Maharashtra Police Boys Sanghatana.",
+          "The commemorative event honored the Mumbai Police, security personnel, and first responders who perished while defending the city. In addition to the 26/11 martyrs, the gathering also remembered civilian victims of the Pahalgam terror attack."
+        ]
+      },
+      {
+        "h": "Notable Attendees and Dignitaries",
+        "p": [
+          "The tribute ceremony at the Gateway of India drew prominent figures from public life and the entertainment industry. Actor Bhumi Pednekar stood alongside Maharashtra Chief Minister Devendra Fadnavis to pay her respects.",
+          "Their presence emphasized the official and communal significance of remembering the fallen heroes and acknowledging the ongoing bravery of the state's security apparatus."
+        ]
+      },
+      {
+        "h": "Recalling the 2008 Mumbai Attacks",
+        "p": [
+          "The historical context dates back to November 26, 2008, when a heavily armed faction of 10 Lashkar-e-Taiba terrorists traveled via sea routes to infiltrate Mumbai. They carried out a coordinated sequence of gunfire and destruction that lasted for a grueling 60-hour siege.",
+          "The assaults resulted in the tragic deaths of 166 people, which included 18 security personnel, alongside numerous individuals who sustained serious injuries during the onslaught."
+        ]
+      },
+      {
+        "h": "Primary Targets Across the City",
+        "p": [
+          "During the three-day siege, the terrorists specifically targeted several prominent and bustling locations throughout Mumbai. Among the heavily affected sites were the Chhatrapati Shivaji Maharaj Terminus, the Oberoi Trident, and the Taj Mahal Hotel.",
+          "Other locations that bore the brunt of the assault included the Leopold Cafe, Cama Hospital, and the Nariman House Jewish community center, which has since been renamed the Nariman Light House."
+        ]
+      },
+      {
+        "h": "Fallen Heroes of the Security Forces",
+        "p": [
+          "The tragic incident claimed the lives of several high-ranking law enforcement officials and security personnel who rushed to counter the threat. Among the fallen leaders were Anti-Terrorism Squad chief Hemant Karkare, Additional Police Commissioner Ashok Kamte, and Senior Police Inspector Vijay Salaskar.",
+          "Assistant Sub-Inspector Tukaram Omble and NSG commando Major Sandeep Unnikrishnan were also killed while bravely fighting the terrorists and protecting civilian lives."
+        ]
+      },
+      {
+        "h": "Priyanka Chopra's Upcoming Professional Projects",
+        "p": [
+          "Amid her public acknowledgments, Priyanka Chopra's professional portfolio continues to expand across global and domestic cinema. She was recently seen in The Bluff, which began streaming on Prime Video on February 25.",
+          "Looking forward, she is set to return to Indian cinema after nearly a decade in the upcoming film Varanasi, directed by SS Rajamouli and co-starring Mahesh Babu and Prithviraj Sukumaran, scheduled for release on April 7, 2027. She will also appear in the second season of the web series Citadel."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Actor Priyanka Chopra paid tribute to the victims and heroes of the 26/11 Mumbai terror attacks on their 18th anniversary via social media. Meanwhile, fellow actor Bhumi Pednekar and Maharashtra Chief Minister Devendra Fadnavis attended a formal commemoration ceremony at the Gateway of India to honour the fallen security personnel."
+        ]
+      }
+    ],
+    "facts": [
+      "The 26/11 Mumbai terror attacks marked their 18th anniversary on November 26, 2008 origin date.",
+      "10 Lashkar-e-Taiba terrorists arrived by sea route in Mumbai on November 26, 2008.",
+      "166 people were killed, including 18 security personnel, during a 60-hour siege.",
+      "Hemant Karkare, Ashok Kamte, Vijay Salaskar, Tukaram Omble, and Major Sandeep Unnikrishnan were among those killed.",
+      "The Bluff began streaming on Prime Video on February 25.",
+      "Varanasi is scheduled for a worldwide release on April 7, 2027."
+    ],
+    "entities": {
+      "people": [
+        "Priyanka Chopra",
+        "Bhumi Pednekar",
+        "Devendra Fadnavis",
+        "Hemant Karkare",
+        "Ashok Kamte",
+        "Vijay Salaskar",
+        "Tukaram Omble",
+        "Sandeep Unnikrishnan",
+        "SS Rajamouli",
+        "Mahesh Babu",
+        "Prithviraj Sukumaran",
+        "Santanu Das"
+      ],
+      "titles": [
+        "The Bluff",
+        "Varanasi",
+        "Citadel"
+      ]
+    },
+    "keywords": [
+      "Priyanka Chopra 26/11 Mumbai",
+      "Mumbai terror attacks anniversary",
+      "Priyanka Chopra Instagram Stories",
+      "Bhumi Pednekar Gateway of India",
+      "Varanasi SS Rajamouli film"
+    ],
+    "images": [
+      {
+        "url": "https://www.hindustantimes.com/ht-img/img/2026/11/26/1600x900/logo/AP03-16-2026-000018B-0_1773633340849_1795709342997_c7h6_12cde51e-c6a3-4018-8fd1-ae423fce6e3d_8hEM.jpg",
+        "caption": "Priyanka Chopra honours the martyrs and victims of the 26/11 Mumbai terror attacks on their 18th anniversary",
+        "source": "Hindustan Times — Entertainment"
+      }
+    ],
+    "published": "Thu, 26 Nov 2026 21:47:09 +0530"
+  },
+  "1nuxvrc": {
+    "id": "1nuxvrc",
+    "type": "news",
+    "headline": "Angelina Jolie and Brad Pitt Reach Settlement in Four-Year Legal Dispute Over French Winery",
+    "dek": "Former Hollywood couple Angelina Jolie and Brad Pitt have officially resolved their lengthy court battle concerning the Château Miraval winery through an out-of-court agreement.",
+    "body": [
+      {
+        "h": "The Out-of-Court Agreement",
+        "p": [
+          "Former high-profile couple Angelina Jolie and Brad Pitt have successfully resolved their four-year legal dispute regarding the French winery they acquired together in 2008. The actors, who previously tied the knot at the Southern France estate known as Château Miraval in 2014, released a joint statement to announce that they reached an out-of-court settlement.",
+          "Representatives for both stars shared that the decision was made in the best interests of their family. They also noted that neither party would provide any further comments on the matter, while clarifying that any media remarks attributed to unnamed sources do not originate from either of them or anyone in their immediate circles."
+        ]
+      },
+      {
+        "h": "Relationship History and Marriage",
+        "p": [
+          "The historical timeline of the couple dates back to early 2006, when they publicly confirmed their romantic relationship and announced they were expecting their first child together. Over the course of their relationship, they became parents to six children in total, cementing their status as one of Hollywood's most prominent families.",
+          "After several years together, the pair announced their engagement in 2012 before officially marrying at their estate in France in 2014. However, their marriage came to an end shortly after when Jolie filed for divorce in September 2016, citing irreconcilable differences."
+        ]
+      },
+      {
+        "h": "Divorce Proceedings and Legal Status",
+        "p": [
+          "Following the initial divorce filing in 2016, the legal separation process unfolded over several years. The two actors were officially declared legally single by the courts in 2019, allowing them to pursue separate personal lives while their financial and asset divisions continued.",
+          "In 2021, legal clearance was granted permitting Jolie to sell her share in the shared winery property. Reports indicated she could sell her stake for $164 million before their wider financial agreements were fully finalized by the legal system."
+        ]
+      },
+      {
+        "h": "The Winery Stake Sale",
+        "p": [
+          "Following her legal clearance, Jolie proceeded to sell her stake in Château Miraval to the Stoli Group, a spirits company operated by oligarch Yuri Shefler. This business transaction served as the primary catalyst for subsequent legal escalations between the former spouses.",
+          "Upon learning of the transaction, Pitt filed a lawsuit alleging that Jolie had violated an existing agreement requiring both parties' mutual consent before selling any stake in the shared property."
+        ]
+      },
+      {
+        "h": "Counterclaims and Allegations",
+        "p": [
+          "In October 2022, Jolie responded to the initial litigation by filing a counter-lawsuit against Pitt. Her legal filing detailed allegations of abusive behavior by Pitt, which she stated were the underlying cause of her decision to file for divorce. Pitt consistently denied all of these claims.",
+          "During this phase of the legal conflict, legal representatives for the actress revealed that prior negotiations regarding the sale of her stake directly to Pitt had collapsed. According to her attorneys, the breakdown occurred when Pitt demanded she sign a non-disclosure agreement that would have prevented her from speaking publicly outside of court about alleged physical and emotional abuse involving him, her, and their children."
+        ]
+      },
+      {
+        "h": "Current Settlement Status",
+        "p": [
+          "The specific financial and legal terms of the newly announced out-of-court agreement have not been made available to the public. Representatives for both Jolie and Pitt have maintained their stance of declining further public elaboration.",
+          "The conclusion of this dispute brings an end to a protracted multi-year legal chapter that followed the dissolution of one of Hollywood's most widely covered celebrity relationships."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Angelina Jolie and Brad Pitt have settled their four-year legal battle over the French winery Château Miraval out of court. The dispute originated following Jolie's 2021 sale of her stake to the Stoli Group, which prompted lawsuits and counterclaims between the former couple."
+        ]
+      }
+    ],
+    "facts": [
+      "Angelina Jolie and Brad Pitt bought Château Miraval in 2008.",
+      "They married at Château Miraval in 2014.",
+      "They confirmed they were dating in early 2006.",
+      "They have six children in total.",
+      "They got engaged in 2012.",
+      "Jolie filed for divorce in September 2016.",
+      "They were declared legally single in 2019.",
+      "Jolie was cleared to sell her winery share in 2021 for $164 million.",
+      "Jolie sold her stake to the Stoli Group, run by Yuri Shefler.",
+      "Pitt filed a lawsuit after the sale.",
+      "Jolie filed a counter lawsuit against Pitt in October 2022."
+    ],
+    "entities": {
+      "people": [
+        "Angelina Jolie",
+        "Brad Pitt",
+        "Yuri Shefler"
+      ],
+      "titles": [
+        "Maria",
+        "Legends"
+      ]
+    },
+    "keywords": [
+      "Angelina Jolie Brad Pitt winery",
+      "Château Miraval legal battle",
+      "Angelina Jolie Brad Pitt settlement",
+      "Angelina Jolie Stoli Group sale"
+    ],
+    "images": [
+      {
+        "url": "https://hips.hearstapps.com/hmg-prod/images/b5563d79-efd6-4c92-9591-2495722ad5e6.jpg?crop=1.00xw:0.356xh;0,0.0262xh&amp;resize=1200:*",
+        "caption": "Angelina Jolie and Brad Pitt Reach Settlement in Four-Year Legal Dispute Over French Winery",
+        "source": "Digital Spy"
+      }
+    ],
+    "published": "Thu, 26 Nov 2026 16:19:00 +0000"
+  },
+  "13ymhgv": {
+    "id": "13ymhgv",
+    "type": "news",
+    "headline": "Yeh Prem Mol Liya Secures Strong Advance Booking Ahead of Release",
+    "dek": "Ayushmann Khurrana and Sharvari star in Sooraj Barjatya's romantic family drama, which has collected Rs 2.62 crore in advance ticket sales ahead of its theatrical debut.",
+    "body": [
+      {
+        "h": "Introduction to the Release",
+        "p": [
+          "The upcoming romantic family drama Yeh Prem Mol Liya is generating considerable buzz across the industry due to its prominent casting choices and the directorial return of Sooraj Barjatya. Scheduled to hit the big screen on November 27, the movie marks a notable addition to the filmmaker's signature style of family-centric storytelling.",
+          "With promotional materials and musical numbers actively circulating among moviegoers, anticipation has steadily built up. The project has successfully drawn attention through its blend of traditional family values and a modern romantic perspective."
+        ]
+      },
+      {
+        "h": "The Fresh On-Screen Pairing",
+        "p": [
+          "A major talking point for the movie is its lead pairing, bringing together Ayushmann Khurrana and Sharvari for the very first time. Their chemistry in the promotional assets has resonated well with audiences looking for fresh cinematic pairings.",
+          "In addition to the leads, the film features a robust supporting cast consisting of seasoned performers including Anupam Kher, Supriya Pathak, Seema Pahwa, Saumya Tandon, Shaad Randhawa, and Swanand Kirkire, enhancing its mass appeal."
+        ]
+      },
+      {
+        "h": "Carrying Forward the Legacy of Prem",
+        "p": [
+          "With this project, Ayushmann Khurrana steps into the iconic Prem persona famously associated with Sooraj Barjatya's cinematic universe. Over the decades, this character name has been portrayed by numerous prominent actors.",
+          "Past stars who have played characters named Prem in various cinematic outings include Salman Khan, Hrithik Roshan, Abhishek Bachchan, Shahid Kapoor, and Sonu Sood, anchoring the character in Bollywood tradition."
+        ]
+      },
+      {
+        "h": "Advance Booking and Box Office Clashes",
+        "p": [
+          "As theatrical releases often crowd the calendar, Yeh Prem Mol Liya is currently witnessing a box office clash with other concurrent titles like Emraan Hashmi's Gunmaaster G9 and Udta Teer. Speculation regarding early ticket sales has been a major discussion point among trade analysts.",
+          "According to reports from Sacnilk regarding presales figures prior to the official premiere, the romantic drama has managed to secure a solid footing in advance ticket windows as it prepares to greet audiences in cinemas."
+        ]
+      },
+      {
+        "h": "Initial Ticket Sales Statistics",
+        "p": [
+          "In terms of specific numbers, the advance booking reports indicate that Yeh Prem Mol Liya has minted Rs 2.62 crore from presales alone. This total came alongside the successful sale of 97,596 individual tickets.",
+          "These figures highlight a healthy initial consumer interest, positioning the film favorably against competing releases during the same theatrical window."
+        ]
+      },
+      {
+        "h": "Competitive Standings in Presales",
+        "p": [
+          "The film's pre-release performance has also positioned it ahead of certain rivals in the race for opening day attention. Specifically, its collection of Rs 2.62 crore surpassed the advance figures of Udta Teer, which had secured Rs 2.59 crore from 95,606 ticket sales.",
+          "Furthermore, the romantic drama also held an advantage over Gunmaaster G9, which recorded an advance booking total of Rs 2.32 crore from 98,253 sold tickets ahead of their simultaneous theatrical arrival."
+        ]
+      },
+      {
+        "h": "Early Reactions and First Reviews",
+        "p": [
+          "Ahead of its public screenings, the film received its first major review from cast member Anupam Kher, who shared his thoughts online. He praised the movie's emotional resonance and its timely message regarding women's autonomy in making life choices.",
+          "Kher noted that the storytelling naturally elicits both laughter and tears while leaving a lasting impression on the viewer, echoing positive sentiments about its contemporary relevance."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Yeh Prem Mol Liya is an upcoming romantic family drama directed by Sooraj Barjatya, starring Ayushmann Khurrana and Sharvari, scheduled to release on November 27. Ahead of its debut, the film recorded advance bookings of Rs 2.62 crore from 97,596 tickets, outperforming rival titles like Gunmaaster G9 and Udta Teer in early presales."
+        ]
+      }
+    ],
+    "facts": [
+      "Release date is November 27, 2026",
+      "Story published on November 26, 2026",
+      "Advance booking collection is Rs 2.62 crore",
+      "Total tickets sold in advance is 97,596",
+      "Udta Teer advance collection is Rs 2.59 crore",
+      "Udta Teer tickets sold is 95,606",
+      "Gunmaaster G9 advance collection is Rs 2.32 crore",
+      "Gunmaaster G9 tickets sold is 98,253"
+    ],
+    "entities": {
+      "people": [
+        "Ayushmann Khurrana",
+        "Sharvari",
+        "Sooraj Barjatya",
+        "Salman Khan",
+        "Hrithik Roshan",
+        "Abhishek Bachchan",
+        "Shahid Kapoor",
+        "Sonu Sood",
+        "Anupam Kher",
+        "Supriya Pathak",
+        "Seema Pahwa",
+        "Saumya Tandon",
+        "Shaad Randhawa",
+        "Swanand Kirkire",
+        "Emraan Hashmi"
+      ],
+      "titles": [
+        "Yeh Prem Mol Liya",
+        "Gunmaaster G9",
+        "Udta Teer"
+      ]
+    },
+    "keywords": [
+      "Yeh Prem Mol Liya",
+      "Ayushmann Khurrana Yeh Prem Mol Liya",
+      "Yeh Prem Mol Liya advance booking",
+      "Sooraj Barjatya film"
+    ],
+    "images": [
+      {
+        "url": "https://images.filmibeat.com/img/2026/11/ypmlvsg9feature-72941795710666.jpg",
+        "caption": "Yeh Prem Mol Liya Secures Strong Advance Booking Ahead of Release",
+        "source": "FilmiBeat"
+      }
+    ],
+    "published": "Thu, 26 Nov 2026 22:04:22 +0530"
   }
 };
