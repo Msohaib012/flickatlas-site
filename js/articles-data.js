@@ -127577,6 +127577,12 @@ window.FA_ARTICLES = {
         "p": [
           "Was it just a dream… or a warning of what’s to come?\n\nWhen fear feels real and the lines between dreams and reality begin to blur, what awaits on the other side?"
         ]
+      },
+      {
+        "h": "Episode Summary",
+        "p": [
+          "Is episode mein Danyal apni biwi Zunaira ko surprise ke taur par apne farm house le jata hai taake dono akele uski birthday celebrate kar sakein. Zunaira sh"
+        ]
       }
     ],
     "facts": [
@@ -127584,7 +127590,8 @@ window.FA_ARTICLES = {
       "Channel: ARY Digital.",
       "Watch the full episode: https://www.youtube.com/watch?v=e6PWhETh-3g",
       "YouTube views: 4,215.",
-      "TMDB: Lagan Lagi (id 337316)."
+      "TMDB: Lagan Lagi (id 337316).",
+      "Episode summary added 2026-11-26."
     ],
     "entities": {
       "titles": [
@@ -136524,13 +136531,20 @@ window.FA_ARTICLES = {
           "Izzat Episode 55 aired on 2026-11-13 on ARY Digital. The full episode is available on the channel's official YouTube page.",
           "Watch the full episode here: https://www.youtube.com/watch?v=7UOShlc2vvw"
         ]
+      },
+      {
+        "h": "Episode Summary",
+        "p": [
+          "Is episode mein Rayan jail mein Sameer se milta hai aur use apne phone par tamam saboot dikhata hai, jis se Sameer ka drugs smuggling ka illegal karobar benaq"
+        ]
       }
     ],
     "facts": [
       "Izzat Episode 55 aired on 2026-11-13.",
       "Channel: ARY Digital.",
       "Watch the full episode: https://www.youtube.com/watch?v=7UOShlc2vvw",
-      "YouTube views: 3,519."
+      "YouTube views: 3,519.",
+      "Episode summary added 2026-11-26."
     ],
     "entities": {
       "titles": [
@@ -147559,13 +147573,20 @@ window.FA_ARTICLES = {
           "Izzat Episode 56 aired on 2026-11-14 on ARY Digital. The full episode is available on the channel's official YouTube page.",
           "Watch the full episode here: https://www.youtube.com/watch?v=eExG78dFNQ8"
         ]
+      },
+      {
+        "h": "Episode Summary",
+        "p": [
+          "Is episode ki shuruaat mein Parnya aur Rayan aik restaurant mein milte hain jahan Rayan apne mazi aur uljhan ke baare mein baat karta hai, lekin kehta"
+        ]
       }
     ],
     "facts": [
       "Izzat Episode 56 aired on 2026-11-14.",
       "Channel: ARY Digital.",
       "Watch the full episode: https://www.youtube.com/watch?v=eExG78dFNQ8",
-      "YouTube views: 4,593."
+      "YouTube views: 4,593.",
+      "Episode summary added 2026-11-26."
     ],
     "entities": {
       "titles": [
@@ -231029,13 +231050,20 @@ window.FA_ARTICLES = {
           "Lagan Lagi Episode 23 aired on 2026-11-23 on ARY Digital. The full episode is available on the channel's official YouTube page.",
           "Watch the full episode here: https://www.youtube.com/watch?v=j7mC4ulwsFU"
         ]
+      },
+      {
+        "h": "Episode Summary",
+        "p": [
+          "Is episode mein Daniyal university mein Zunaira ko zabardasti saath le jaane ki koshish karta hai, lekin wahan maujood log usay rokte hain aur police"
+        ]
       }
     ],
     "facts": [
       "Lagan Lagi Episode 23 aired on 2026-11-23.",
       "Channel: ARY Digital.",
       "Watch the full episode: https://www.youtube.com/watch?v=j7mC4ulwsFU",
-      "YouTube views: 4,833."
+      "YouTube views: 4,833.",
+      "Episode summary added 2026-11-26."
     ],
     "entities": {
       "titles": [
@@ -257494,5 +257522,414 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Thu, 26 Nov 2026 18:31:28 GMT"
+  },
+  "1w4e4a1": {
+    "id": "1w4e4a1",
+    "type": "news",
+    "headline": "Nitesh Tiwari's Ramayana Surpasses Pushpa 2 at the Box Office and Targets Dangal",
+    "dek": "The mythological epic Ramayana continues its historic box office run, crossing Pushpa 2 after twenty-one days and setting its sights on Dangal and other top-grossing Indian films.",
+    "body": [
+      {
+        "h": "An Ambitious Venture and Massive Budget",
+        "p": [
+          "Before its theatrical debut, the mythological project commanded widespread industry attention due to its exceptionally high production budget. Given the grand scale envisioned by filmmaker Nitesh Tiwari and producer Namit Malhotra, paired with a prominent star cast, recovering the immense financial investment initially appeared to be a daunting challenge.",
+          "However, twenty-one days into its theatrical run, the feature has defied expectations. It is steadily rewriting the record books and ascending the all-time list of highest-grossing Indian cinematic releases."
+        ]
+      },
+      {
+        "h": "Climbing Past Major Competitors",
+        "p": [
+          "Over the preceding weeks, the film steadily outpaced several formidable titles, leaving behind major hits like K.G.F. Chapter 2, RRR, and Dhurandhar.",
+          "The competitive landscape grew significantly tougher with the large financial gap between Dhurandhar and Pushpa: The Rule - Part 2. Nevertheless, the epic successfully powered past Pushpa 2 to secure the fourth position on the charts."
+        ]
+      },
+      {
+        "h": "Worldwide Gross Milestones",
+        "p": [
+          "Reaching the fourth spot came alongside a monumental worldwide gross collection of Rs. 1,755.6 crores.",
+          "With this milestone achieved, the feature now looks ahead at upcoming blockbusters in striking distance, specifically Bahubali 2: The Conclusion and Dhurandhar: The Revenge."
+        ]
+      },
+      {
+        "h": "Day 21 Language-Wise Performance",
+        "p": [
+          "On Wednesday, November 25, 2026, marking the twenty-first day in theaters, the movie pulled in a domestic gross collection of Rs. 11.35 crores across India.",
+          "Breaking down this single-day earning across different languages, the Hindi version brought in Rs. 6.65 crores, the Malayalam version contributed Rs. 1.10 crores, Kannada earned Rs. 75 lakhs, Tamil added Rs. 70 lakhs, and Telugu brought in Rs. 30 lakhs."
+        ]
+      },
+      {
+        "h": "Domestic and Overseas Totals",
+        "p": [
+          "The cumulative figures currently place the film's total Indian gross collection at an impressive Rs. 1,173.50 crores.",
+          "When combined with a strong overseas performance yielding Rs. 582 crores, the total worldwide reach continues to expand rapidly."
+        ]
+      },
+      {
+        "h": "Global Expansion and the Dangal Legacy",
+        "p": [
+          "Further international releases scheduled for the first quarter of 2027 indicate that the venture has substantial room for continued growth.",
+          "Industry watchers anticipate it may ultimately claim the number one spot among Indian grossers, potentially dethroning Dangal, another directorial work by Nitesh Tiwari that has maintained the crown for nearly ten years."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Nitesh Tiwari's Ramayana has crossed Pushpa 2 to reach fourth place on the highest-grossing Indian films list after twenty-one days in theaters. With strong domestic and overseas earnings, the epic is now eyeing the top spot currently held by Dangal."
+        ]
+      }
+    ],
+    "facts": [
+      "Ramayana crossed Pushpa 2 on Day 21.",
+      "Worldwide gross collection reached Rs. 1,755.6 crores.",
+      "Day 21 India gross collection was Rs. 11.35 crores on Wednesday, November 25, 2026.",
+      "Hindi version collected Rs. 6.65 crores on Day 21.",
+      "Malayalam version collected Rs. 1.10 crores on Day 21.",
+      "Kannada version collected Rs. 75 lakhs on Day 21.",
+      "Tamil version collected Rs. 70 lakhs on Day 21.",
+      "Telugu version collected Rs. 30 lakhs on Day 21.",
+      "Total Indian gross collection stands at Rs. 1,173.50 crores.",
+      "Overseas collection stands at Rs. 582 crores.",
+      "Dhurandhar collection sat at Rs. 1,307.35 crores.",
+      "Pushpa: The Rule - Part 2 collection sat at Rs. 1,742.1 crores.",
+      "Bahubali 2: The Conclusion collection stands at Rs. 1788.6 crores.",
+      "Dhurandhar: The Revenge collection stands at Rs. 1,813.39 crores.",
+      "Dangal collection stands at Rs. 2070.3 crores."
+    ],
+    "entities": {
+      "people": [
+        "Nitesh Tiwari",
+        "Namit Malhotra"
+      ],
+      "titles": [
+        "Ramayana",
+        "Pushpa 2",
+        "Dangal",
+        "K.G.F. Chapter 2",
+        "RRR",
+        "Dhurandhar",
+        "Pushpa: The Rule - Part 2",
+        "Bahubali 2: The Conclusion",
+        "Dhurandhar: The Revenge"
+      ]
+    },
+    "keywords": [
+      "Ramayana box office",
+      "Nitesh Tiwari Ramayana",
+      "Ramayana crosses Pushpa 2",
+      "Ramayana total collection"
+    ],
+    "images": [
+      {
+        "url": "https://filmfare.wwmindia.com/content/2026/nov/ramayana-box-office-nitesh-tiwari-s-epic-crosses-pushpa-2-sets-a-close-eye-on1795679060.jpg",
+        "caption": "Nitesh Tiwari's Ramayana Surpasses Pushpa 2 at the Box Office and Targets Dangal",
+        "source": "Filmfare"
+      }
+    ],
+    "published": "2026-11-26T15:46:11+05:30"
+  },
+  "p7zeum": {
+    "id": "p7zeum",
+    "type": "news",
+    "headline": "Tom Hardy Spotted Back on MobLand Set for Season 3 Amid Rumors",
+    "dek": "Fresh set photographs confirm Tom Hardy has returned to film the third season of Guy Ritchie's crime drama series, putting dismissal rumors to rest.",
+    "body": [
+      {
+        "h": "Return to Production",
+        "p": [
+          "English actor Tom Hardy has officially returned to work on the third season of the crime drama series MobLand. Recent photographs captured the performer on location for the Paramount+ production, easing speculation regarding his future with the project.",
+          "The sighting follows months of intense behind-the-scenes rumors and allegations claiming the actor had been dismissed from the show entirely."
+        ]
+      },
+      {
+        "h": "Addressing Set Controversies",
+        "p": [
+          "Prior to the release of the new photographs, reports circulated alleging significant friction between Hardy and the show's producers, Jez Butterworth and David Glasser.",
+          "Sources had claimed that ongoing disagreements, alleged lateness, extended stays in his trailer, and frequent demands to alter scripts had strained relations on the production."
+        ]
+      },
+      {
+        "h": "Support and On-Set Atmosphere",
+        "p": [
+          "Despite the swirling controversies regarding his alleged behavior, co-star Helen Mirren publicly defended the actor amid the tension.",
+          "The newly published images depict Hardy appearing cheerful and relaxed while filming his role as character Harry Da Souza under the direction of Guy Ritchie."
+        ]
+      },
+      {
+        "h": "Season 2 Success and Milestones",
+        "p": [
+          "The confirmation of season 3 production arrives hot on the heels of a critically successful second season for the crime series.",
+          "Season 2 achieved a strong 90 percent critical approval rating on Rotten Tomatoes based on twenty-one reviews, while the penultimate ninth episode titled Nervous Breakdown secured a remarkable 8.7 IMDb rating."
+        ]
+      },
+      {
+        "h": "Returning Cast Members",
+        "p": [
+          "The sprawling ensemble cast features several notable names reprising their established roles within the fictional crime syndicate.",
+          "Helen Mirren and Pierce Brosnan return as crime family leaders Maeve and Conrad Harrigan, alongside co-stars Paddy Considine, Joanne Froggatt, Lara Pulver, Anson Boon, Mandeep Dhillon, Jasmine Jobson, Teddie Allen, Emmett J. Scanlan, Johnny Flynn, Ophelia Lovibond, Janet McTeer, and Toby Jones."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Tom Hardy has been photographed back on set filming the third season of Guy Ritchie's crime series MobLand following rumors of his departure and disputes with producers. The return comes as season 2 concludes with high ratings and acclaimed performances alongside returning co-stars like Helen Mirren and Pierce Brosnan."
+        ]
+      }
+    ],
+    "facts": [
+      "Tom Hardy was spotted back on the set of MobLand season 3 filming as Harry Da Souza.",
+      "The series streams on Paramount+ and is created by Guy Ritchie.",
+      "Reports previously suggested Hardy had constant disputes with producers Jez Butterworth and David Glasser and was rumored to be fired.",
+      "Helen Mirren came to Tom Hardy's defense amid the set controversy.",
+      "MobLand season 2 concluded with episode 9 titled Nervous Breakdown, achieving an 8.7 IMDb rating and a 90% Rotten Tomatoes score from 21 reviews.",
+      "Helen Mirren and Pierce Brosnan return as Maeve and Conrad Harrigan."
+    ],
+    "entities": {
+      "people": [
+        "Tom Hardy",
+        "Guy Ritchie",
+        "Helen Mirren",
+        "Jez Butterworth",
+        "David Glasser",
+        "Pierce Brosnan",
+        "Paddy Considine",
+        "Joanne Froggatt",
+        "Lara Pulver",
+        "Anson Boon",
+        "Mandeep Dhillon",
+        "Jasmine Jobson",
+        "Teddie Allen",
+        "Emmett J. Scanlan",
+        "Johnny Flynn",
+        "Ophelia Lovibond",
+        "Janet McTeer",
+        "Toby Jones",
+        "Greg MacArthur"
+      ],
+      "titles": [
+        "MobLand",
+        "Band of Brothers",
+        "Black Hawk Down",
+        "Inception",
+        "Mad Max: Fury Road",
+        "Peaky Blinders"
+      ]
+    },
+    "keywords": [
+      "Tom Hardy MobLand",
+      "MobLand season 3",
+      "Guy Ritchie MobLand",
+      "Tom Hardy set photos"
+    ],
+    "images": [
+      {
+        "url": "https://static0.srcdn.com/wordpress/wp-content/uploads/2026/11/mobland_206_lv_260216_01175_rt3.JPG?w=1600&amp;h=900&amp;fit=crop",
+        "caption": "Tom Hardy Spotted Back on MobLand Set for Season 3 Amid Rumors",
+        "source": "Screen Rant"
+      }
+    ],
+    "published": "Thu, 26 Nov 2026 19:11:37 GMT"
+  },
+  "1ol58cc": {
+    "id": "1ol58cc",
+    "type": "news",
+    "headline": "Shah Rukh Khan Starrer King Runtime Listed at Over Three Hours on Fandango",
+    "dek": "The upcoming action entertainer directed by Siddharth Anand has appeared on ticketing platforms with a duration that could mark a major shift back to lengthy theatrical presentations for the superstar.",
+    "body": [
+      {
+        "h": "Fandango Listing Reveals Extended Duration",
+        "p": [
+          "Recent updates on the ticketing platform Fandango indicate that the upcoming Shah Rukh Khan vehicle King may feature an unusually lengthy screen time. According to the current portal data, the production is cataloged at three hours and seventeen minutes.",
+          "While this figure has generated significant curiosity among moviegoers, it remains entirely unverified. The final duration will only be locked once the project receives its official certification from the Central Board of Film Certification."
+        ]
+      },
+      {
+        "h": "A Potential Return to Long-Format Cinema",
+        "p": [
+          "Should the three-hour-plus timeframe be officially locked in, it would break a two-decade streak for the leading actor. It has been twenty years since a theatrical release starring the icon crossed the three-hour threshold.",
+          "Earlier speculative whispers surrounding the Siddharth Anand directorial pointed toward a much trimmer edit of roughly two hours and thirty-five minutes. The sudden appearance of a much higher figure on an international booking site has therefore caught the industry by surprise."
+        ]
+      },
+      {
+        "h": "Comparing With Past Millennial Epics",
+        "p": [
+          "Extended runtimes were a standard hallmark of the superstar's filmography during the early 2000s. Major blockbusters from that era routinely stretched past the 180-minute mark to accommodate sweeping emotional arcs and elaborate musical numbers.",
+          "Notable examples of his lengthy past projects include Mohabbatein running at three hours and thirty-five minutes, alongside other massive hits like Devdas, Veer-Zaara, Kal Ho Naa Ho, and Kabhi Khushi Kabhie Gham."
+        ]
+      },
+      {
+        "h": "The Last Three-Hour Milestone",
+        "p": [
+          "The last time the actor headlined a theatrical venture exceeding three hours was back in 2006. That film was Karan Johar's emotional drama Kabhi Alvida Naa Kehna, which clocked in at three hours and thirteen minutes.",
+          "In the years following that release, modern Bollywood storytelling shifted dramatically toward crisper, more tightly edited narratives. Recent blockbusters featuring the actor, such as Pathaan and Jawan, adhered to much shorter runtimes of two hours twenty-six minutes and two hours forty-nine minutes respectively."
+        ]
+      },
+      {
+        "h": "Shifting Industry Trends Toward Longer Cuts",
+        "p": [
+          "The traditional belief that contemporary audiences strictly favor short theatrical experiences has faced recent challenges at the box office. Massive commercial successes achieved by lengthy features like Animal, Pushpa 2, and Dhurandhar have demonstrated that viewers are willing to sit through extended narratives.",
+          "This evolving landscape suggests that if the screenplay and emotional weight demand a sprawling canvas, modern audiences may readily embrace it. The combination of high-octane action sequences and complex drama in this upcoming project could easily justify a longer duration."
+        ]
+      },
+      {
+        "h": "Star-Studded Cast and Crew Details",
+        "p": [
+          "Helmed by filmmaker Siddharth Anand, the action-heavy venture boasts a massive ensemble cast. Alongside the primary lead, the movie features Deepika Padukone, Suhana Khan, Rani Mukerji, and Abhishek Bachchan.",
+          "Further rounding out the impressive roster are prominent names such as Anil Kapoor, Jaideep Ahlawat, Jackie Shroff, Raghav Juyal, and Arshad Warsi, positioning it as one of the most anticipated cinematic arrivals of the year."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Ticketing platform Fandango has listed the upcoming Shah Rukh Khan action entertainer King with a runtime of 3 hours and 17 minutes, though this duration is not yet officially confirmed by the Central Board of Film Certification. If the runtime holds, it will be the superstar's first film in twenty years to cross the three-hour mark, following Karan Johar's 2006 directorial Kabhi Alvida Naa Kehna. Directed by Siddharth Anand and scheduled to release on December 24, 2026, the film features an extensive ensemble cast including Deepika Padukone and Suhana Khan."
+        ]
+      }
+    ],
+    "facts": [
+      "Shah Rukh Khan film King is listed with a runtime of 3 hours and 17 minutes on Fandango on November 26, 2026.",
+      "Kabhi Alvida Naa Kehna released in 2006 and ran for 3 hours 13 minutes.",
+      "Mohabbatein released in 2000 and ran for 3 hours and 35 minutes.",
+      "Jab Tak Hai Jaan was 2 hours and 58 minutes long in 2012.",
+      "Happy New Year was 2 hours and 59 minutes long in 2014.",
+      "Pathaan released in 2023 and clocked in at 2 hours and 26 minutes.",
+      "Jawan released in 2023 and went for 2 hours and 49 minutes.",
+      "King is directed by Siddharth Anand.",
+      "King is set to arrive in theatres on December 24, 2026."
+    ],
+    "entities": {
+      "people": [
+        "Shah Rukh Khan",
+        "Siddharth Anand",
+        "Deepika Padukone",
+        "Suhana Khan",
+        "Rani Mukerji",
+        "Abhishek Bachchan",
+        "Anil Kapoor",
+        "Jaideep Ahlawat",
+        "Jackie Shroff",
+        "Raghav Juyal",
+        "Arshad Warsi",
+        "Karan Johar"
+      ],
+      "titles": [
+        "King",
+        "Kabhi Alvida Naa Kehna",
+        "Kabhi Khushi Kabhie Gham",
+        "Devdas",
+        "Kal Ho Naa Ho",
+        "Veer-Zaara",
+        "Swades",
+        "Mohabbatein",
+        "Jab Tak Hai Jaan",
+        "Happy New Year",
+        "Pathaan",
+        "Jawan",
+        "Animal",
+        "Pushpa 2",
+        "Dhurandhar"
+      ]
+    },
+    "keywords": [
+      "King runtime Fandango",
+      "Shah Rukh Khan King film",
+      "Siddharth Anand King movie",
+      "King release date 2026"
+    ],
+    "images": [
+      {
+        "url": "https://images.timesnownews.com/thumb/msid-156569554,thumbsize-514078,width-1280,height-720,resizemode-75/156569554.jpg",
+        "caption": "Shah Rukh Khan Starrer King Runtime Listed at Over Three Hours on Fandango",
+        "source": "Times Now — Entertainment"
+      }
+    ],
+    "published": "2026-11-26T20:08:06Z"
+  },
+  "cfpyow": {
+    "id": "cfpyow",
+    "type": "news",
+    "headline": "Billy Evans Shares Emotional Thanksgiving Message for Elizabeth Holmes",
+    "dek": "Billy Evans published a heartfelt post on social media addressing Elizabeth Holmes during her prison sentence, marking their fourth Thanksgiving apart.",
+    "body": [
+      {
+        "h": "The Thanksgiving Message",
+        "p": [
+          "Billy Evans utilized his personal X account to share an emotional message directed at Elizabeth Holmes on November 26. The text centered heavily on his longing for her presence and the urgent need their children have for their mother during these formative years.",
+          "The published post also featured an accompanying photograph showing Holmes alongside one of their children, capturing a poignant moment that highlighted the separation the family continues to endure."
+        ]
+      },
+      {
+        "h": "Sentence and Background",
+        "p": [
+          "Elizabeth Holmes is currently serving an 11-year prison sentence following four wire fraud-related convictions. These legal troubles stemmed from her leadership at the high-tech health enterprise known as Theranos.",
+          "Evans pointed out in his message that Holmes was notably acquitted of every charge that directly related to patients, adding that investors had previously acknowledged their financial losses did not cause them financial hardship."
+        ]
+      },
+      {
+        "h": "Reflections on Family Life",
+        "p": [
+          "The couple shares two young children, with Evans detailing the difficult reality of raising them while their mother is incarcerated. He noted that their child Ivy was only three months old when Holmes went away, and Wills was under two years of age.",
+          "Over the past three and a half years, Evans has striven to make prison yard visits feel as normal as possible. This routine involves reading Holmes's letters to the children at bedtime to keep her integrated into their daily lives."
+        ]
+      },
+      {
+        "h": "Control of Social Media",
+        "p": [
+          "The dynamic between Evans and Holmes gained renewed public attention through the meta-documentary titled You Can See Everything, directed by Nathan Fielder and Lance Oppenheim.",
+          "The film revealed that Evans had been managing Holmes's X account throughout her incarceration. It showed that he was responsible for posting combative messages that did not necessarily reflect her personal voice."
+        ]
+      },
+      {
+        "h": "Documentary Success",
+        "p": [
+          "The meta-documentary focusing on their lives, You Can See Everything, has achieved notable commercial success. The project recently crossed the $100 million milestone at the global box office.",
+          "The film's exploration of the couple's relationship brought fresh scrutiny and public discussion regarding the ongoing legal fallout surrounding the Theranos founder."
+        ]
+      },
+      {
+        "h": "Plea for Freedom",
+        "p": [
+          "Concluding his public note, Evans questioned the purpose of keeping Holmes imprisoned for a nonviolent offense, asking who truly benefits from depriving their children of their mother.",
+          "He expressed a strong desire for her return, emphasizing that he wants her home to participate in family life and share in the everyday milestones of raising their kids."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Billy Evans shared an emotional Thanksgiving message on X addressed to Elizabeth Holmes during her fourth holiday season in prison. The post highlighted their two children and echoed themes explored in the successful documentary You Can See Everything."
+        ]
+      }
+    ],
+    "facts": [
+      "Billy Evans posted the message on November 26",
+      "Elizabeth Holmes is serving an 11-year prison sentence",
+      "Holmes has four wire fraud-related convictions tied to Theranos",
+      "The couple has two children named Ivy and Wills",
+      "You Can See Everything crossed $100 million at the global box office"
+    ],
+    "entities": {
+      "people": [
+        "Elizabeth Holmes",
+        "Billy Evans",
+        "Nathan Fielder",
+        "Lance Oppenheim"
+      ],
+      "titles": [
+        "You Can See Everything",
+        "Theranos"
+      ]
+    },
+    "keywords": [
+      "Elizabeth Holmes",
+      "Billy Evans",
+      "You Can See Everything",
+      "Theranos"
+    ],
+    "images": [
+      {
+        "url": "https://variety.com/wp-content/uploads/2026/11/1248465318.jpg?w=1000&#038;h=563&#038;crop=1",
+        "caption": "Billy Evans Shares Emotional Thanksgiving Message for Elizabeth Holmes",
+        "source": "Variety"
+      }
+    ],
+    "published": "Thu, 26 Nov 2026 19:02:18 +0000"
   }
 };

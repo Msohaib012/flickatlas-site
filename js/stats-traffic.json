@@ -1,39 +1,39 @@
 {
   "connected": true,
-  "generated": "2026-11-26T18:08:12Z",
+  "generated": "2026-11-26T20:38:14Z",
   "realtime": {
     "active_users": 0
   },
   "today": {
-    "users": 9,
-    "pageviews": 12,
-    "sessions": 9,
-    "avg_session_seconds": 9.9
+    "users": 0,
+    "pageviews": 0,
+    "sessions": 0,
+    "avg_session_seconds": 0
   },
   "last7": {
-    "users": 2748,
-    "pageviews": 2671,
-    "sessions": 2749,
+    "users": 2283,
+    "pageviews": 2214,
+    "sessions": 2284,
     "avg_session_seconds": 5.2
   },
   "top_pages": [
     {
       "path": "/person",
       "title": "Actor & Filmmaker Profile | FlickAtlas",
-      "views": 1430,
-      "avg_time_seconds": 4.1
+      "views": 1193,
+      "avg_time_seconds": 4.0
     },
     {
       "path": "/person",
       "title": "Actor & Filmmaker Profiles | FlickAtlas",
-      "views": 917,
-      "avg_time_seconds": 4.2
+      "views": 791,
+      "avg_time_seconds": 4.4
     },
     {
       "path": "/",
       "title": "Bollywood, World Cinema & Box Office | FlickAtlas",
-      "views": 15,
-      "avg_time_seconds": 46.5
+      "views": 13,
+      "avg_time_seconds": 21.6
     },
     {
       "path": "/movie",
@@ -44,20 +44,20 @@
     {
       "path": "/movie",
       "title": "Damned (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
-      "views": 5,
-      "avg_time_seconds": 15.9
+      "views": 4,
+      "avg_time_seconds": 18.0
     },
     {
       "path": "/movie",
       "title": "Bhooth Bangla (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
-      "views": 4,
-      "avg_time_seconds": 7.5
+      "views": 3,
+      "avg_time_seconds": 8.6
     },
     {
       "path": "/movie",
       "title": "Fall 2: Deadpoint (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
-      "views": 4,
-      "avg_time_seconds": 2.5
+      "views": 3,
+      "avg_time_seconds": 1.7
     },
     {
       "path": "/movie",
@@ -72,82 +72,82 @@
       "avg_time_seconds": 16.3
     },
     {
-      "path": "/box-office",
-      "title": "Box Office Collections: Today, 7-Day & Totals | FlickAtlas",
+      "path": "/box-office-day",
+      "title": "Resident Evil (2026) — Box Office Day 14 | FlickAtlas",
       "views": 2,
-      "avg_time_seconds": 14.2
+      "avg_time_seconds": 7.9
     }
   ],
   "sources": [
     {
       "source": "(direct)",
       "medium": "(none)",
-      "sessions": 2601,
-      "users": 2604
+      "sessions": 2151,
+      "users": 2152
     },
     {
       "source": "(not set)",
       "medium": "(not set)",
-      "sessions": 135,
-      "users": 135
+      "sessions": 122,
+      "users": 122
     },
     {
       "source": "google",
       "medium": "organic",
-      "sessions": 13,
+      "sessions": 12,
       "users": 9
     }
   ],
   "countries": [
     {
       "country": "Brazil",
-      "users": 567
+      "users": 474
     },
     {
       "country": "Singapore",
-      "users": 438
+      "users": 358
     },
     {
       "country": "United States",
-      "users": 369
+      "users": 296
     },
     {
       "country": "Argentina",
-      "users": 178
+      "users": 153
     },
     {
       "country": "China",
-      "users": 146
-    },
-    {
-      "country": "Hong Kong",
-      "users": 146
-    },
-    {
-      "country": "Vietnam",
-      "users": 129
-    },
-    {
-      "country": "Mexico",
       "users": 125
     },
     {
+      "country": "Hong Kong",
+      "users": 121
+    },
+    {
       "country": "Pakistan",
-      "users": 117
+      "users": 108
+    },
+    {
+      "country": "Vietnam",
+      "users": 107
+    },
+    {
+      "country": "Mexico",
+      "users": 102
     },
     {
       "country": "Colombia",
-      "users": 113
+      "users": 92
     }
   ],
   "devices": [
     {
       "device": "desktop",
-      "users": 2732
+      "users": 2266
     },
     {
       "device": "mobile",
-      "users": 16
+      "users": 17
     }
   ],
   "per_post": {}

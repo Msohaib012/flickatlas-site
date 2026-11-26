@@ -1,70 +1,6 @@
 {
  "days": [
   {
-   "date": "2026-10-28",
-   "fetch_new": 2706,
-   "gemini_drafts": 40,
-   "published_today": 28,
-   "posts_total": 252,
-   "approved": null,
-   "rejected": null,
-   "per_category": {
-    "Box Office": 73,
-    "Awards": 59,
-    "Trailers": 85,
-    "Music / OST": 79,
-    "Episodes": 136,
-    "Upcoming releases": 26,
-    "OTT / Streaming": 125,
-    "TV & Dramas": 61,
-    "Celebrity news & events": 68,
-    "Movies": 1880,
-    "Entertainment viral": 7
-   },
-   "hours_fetch": {
-    "0": 232,
-    "1": 87,
-    "2": 125,
-    "3": 100,
-    "4": 26,
-    "5": 65,
-    "6": 144,
-    "8": 138,
-    "9": 55,
-    "10": 59,
-    "11": 16,
-    "12": 179,
-    "13": 34,
-    "14": 148,
-    "15": 113,
-    "16": 135,
-    "17": 163,
-    "18": 93,
-    "20": 389,
-    "21": 217,
-    "23": 188
-   },
-   "hours_gemini": {
-    "6": 2,
-    "7": 2,
-    "8": 2,
-    "9": 2,
-    "10": 2,
-    "11": 2,
-    "12": 2,
-    "13": 4,
-    "14": 2,
-    "15": 4,
-    "16": 2,
-    "17": 2,
-    "18": 4,
-    "19": 2,
-    "20": 2,
-    "21": 2,
-    "22": 2
-   }
-  },
-  {
    "date": "2026-10-29",
    "fetch_new": 2488,
    "gemini_drafts": 38,
@@ -1887,6 +1823,34 @@
     "21": 4,
     "23": 8
    }
+  },
+  {
+   "date": "2026-11-27",
+   "fetch_new": 48,
+   "gemini_drafts": 4,
+   "published_today": null,
+   "posts_total": 4165,
+   "approved": null,
+   "rejected": null,
+   "per_category": {
+    "Box Office": 10,
+    "Awards": 1,
+    "Trailers": 3,
+    "Music / OST": 8,
+    "Episodes": 8,
+    "Upcoming releases": 3,
+    "OTT / Streaming": 14,
+    "TV & Dramas": 5,
+    "Celebrity news & events": 18,
+    "Movies": 217,
+    "Entertainment viral": 0
+   },
+   "hours_fetch": {
+    "1": 48
+   },
+   "hours_gemini": {
+    "1": 4
+   }
   }
  ],
  "heatmap": {
@@ -1970,7 +1934,7 @@
   },
   "4": {
    "0": 241,
-   "1": 691,
+   "1": 739,
    "2": 194,
    "3": 272,
    "4": 343,
@@ -2074,8 +2038,8 @@
   }
  },
  "guards": {
-  "last_report_hash": "f3910df62fdbda00b14e52dcf9cb494e8b49b9a6",
-  "last_gemini_generated": "2026-11-26T18:53:01Z"
+  "last_report_hash": "7ac9e031c2ff920406c44063e6ebd87105983839",
+  "last_gemini_generated": "2026-11-26T20:08:06Z"
  },
- "updated_at": "2026-11-26T18:58:57Z"
+ "updated_at": "2026-11-26T20:38:15Z"
 }
