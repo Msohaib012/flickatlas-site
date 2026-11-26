@@ -182232,6 +182232,12 @@ window.FA_ARTICLES = {
         "p": [
           "Dastoor is a heartfelt family drama filled with love, sacrifice, family conflicts, secrets, and emotional twists. Follow the journey of a mother and her daughters as they face difficult choices, broken relationships, and unexpected turns of fate a story of love, pain, forgiveness, and second chances."
         ]
+      },
+      {
+        "h": "Episode Summary",
+        "p": [
+          "Is episode mein Shiza ghar walon ke samne ek car ki CCTV footage paesh karti hai aur daawa karti hai ke Ammara ka accident qatl tha, lekin Mustafa"
+        ]
       }
     ],
     "facts": [
@@ -182239,7 +182245,8 @@ window.FA_ARTICLES = {
       "Channel: Green TV.",
       "Watch the full episode: https://www.youtube.com/watch?v=h7P-YzAZNA4",
       "YouTube views: 7,217.",
-      "TMDB: Dastoor (id 329481)."
+      "TMDB: Dastoor (id 329481).",
+      "Episode summary added 2026-11-26."
     ],
     "entities": {
       "titles": [
@@ -192959,13 +192966,20 @@ window.FA_ARTICLES = {
           "Lagan Lagi Episode 21 aired on 2026-11-19 on ARY Digital. The full episode is available on the channel's official YouTube page.",
           "Watch the full episode here: https://www.youtube.com/watch?v=N_8zpc3VNC4"
         ]
+      },
+      {
+        "h": "Episode Summary",
+        "p": [
+          "Is episode mein, Ahmed apne dost Kamran se mashwara leta hai, jo usay Zunaira ki talaq ko ainooni tor par union council mein register karwane ka mashwara"
+        ]
       }
     ],
     "facts": [
       "Lagan Lagi Episode 21 aired on 2026-11-19.",
       "Channel: ARY Digital.",
       "Watch the full episode: https://www.youtube.com/watch?v=N_8zpc3VNC4",
-      "YouTube views: 6,414."
+      "YouTube views: 6,414.",
+      "Episode summary added 2026-11-26."
     ],
     "entities": {
       "titles": [
@@ -211286,13 +211300,20 @@ window.FA_ARTICLES = {
           "Mera Ghar Episode 5 aired on 2026-11-21 on ARY Digital. The full episode is available on the channel's official YouTube page.",
           "Watch the full episode here: https://www.youtube.com/watch?v=0vQVC51KIy8"
         ]
+      },
+      {
+        "h": "Episode Summary",
+        "p": [
+          "Is episode mein Farkhanda ki bimaari (epilepsy) ki wajah se pure ghar mein pareshani ki lehar phail jati hai. Farkhanda apne bhai"
+        ]
       }
     ],
     "facts": [
       "Mera Ghar Episode 5 aired on 2026-11-21.",
       "Channel: ARY Digital.",
       "Watch the full episode: https://www.youtube.com/watch?v=0vQVC51KIy8",
-      "YouTube views: 8,302."
+      "YouTube views: 8,302.",
+      "Episode summary added 2026-11-26."
     ],
     "entities": {
       "titles": [

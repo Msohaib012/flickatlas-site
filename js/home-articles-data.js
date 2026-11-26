@@ -4922,6 +4922,50 @@ window.FA_HOME_ARTICLES = {
     ],
     "published": "2026-11-24T15:00:14Z"
   },
+  "c5dqxe": {
+    "id": "c5dqxe",
+    "type": "news",
+    "headline": "Rony David Raj Starrer Crime Drama Sathyameva Confirms OTT Premiere on ZEE5",
+    "dek": "Malayalam original series Sathyameva starring Rony David Raj and directed by Deepu Karunakaran is set for its digital debut on November 27, 2026.",
+    "entities": {
+      "people": [
+        "Rony David Raj",
+        "Deepu Karunakaran",
+        "Meenakshi Unnikrishnan",
+        "Jayaraj Kozhikode",
+        "Binny Sebastian",
+        "Sohan Seenu Lal",
+        "Meera Nair",
+        "Remya Suresh",
+        "Aji Dhanwanthari",
+        "Aroma Babu",
+        "K S Aravind",
+        "Prakash Rana",
+        "Akshay Kumar M J",
+        "Jonathan Bruce",
+        "Vibin Baskar",
+        "Dr. Aashish Illickal",
+        "Jobish Lal Jodan"
+      ],
+      "titles": [
+        "Sathyameva"
+      ]
+    },
+    "keywords": [
+      "Sathyameva",
+      "Rony David Raj",
+      "Sathyameva OTT release date",
+      "Deepu Karunakaran"
+    ],
+    "images": [
+      {
+        "url": "https://images.filmibeat.com/img/2026/11/sathyameva-98661795507975.jpg",
+        "caption": "Rony David Raj Starrer Crime Drama Sathyameva Confirms OTT Premiere on ZEE5",
+        "source": "FilmiBeat"
+      }
+    ],
+    "published": "Tue, 24 Nov 2026 13:44:47 +0530"
+  },
   "n3cs3w": {
     "id": "n3cs3w",
     "type": "news",
@@ -5110,6 +5154,72 @@ window.FA_HOME_ARTICLES = {
       }
     ],
     "published": "Mon, 23 Nov 2026 12:48:50 +0000"
+  },
+  "i6fzr": {
+    "id": "i6fzr",
+    "type": "news",
+    "headline": "Top Black Friday 2026 Gaming Discounts: Live Tracking PS5, Nintendo Switch 2, and Xbox Offers",
+    "dek": "Retailers launch early Black Friday promotions for gamers across PS5, Nintendo Switch 2, Xbox, and PC tech ahead of Thanksgiving week.",
+    "entities": {
+      "people": [
+        "Tabitha Baker"
+      ],
+      "titles": [
+        "Mario Kart World",
+        "Ocarina of Time",
+        "Turtle Beach Airlite Fit",
+        "GameSir Super Nova",
+        "DualSense",
+        "Belkin Switch 2 Charging Case Pro",
+        "Nacon Revolution X Unlimited",
+        "SteelSeries Arctis Nova Pro Omni",
+        "GTA 6"
+      ]
+    },
+    "keywords": [
+      "Nintendo Switch 2 Mario Kart World bundle",
+      "PS5 Black Friday deals",
+      "Xbox controller sales",
+      "Legend of Zelda Ocarina of Time digital"
+    ],
+    "images": [
+      {
+        "url": "https://cdn.mos.cms.futurecdn.net/2q53y7E3mN7WSvfUDwFJV9-2560-80.jpg",
+        "caption": "Top Black Friday 2026 Gaming Discounts: Live Tracking PS5, Nintendo Switch 2, and Xbox Offers",
+        "source": "Total Film (GamesRadar)"
+      }
+    ],
+    "published": "Mon, 23 Nov 2026 10:46:19 +0000"
+  },
+  "1xiu6pn": {
+    "id": "1xiu6pn",
+    "type": "news",
+    "headline": "Legend of Zelda Switch 2 Restocks Expected This Week as Black Friday Approaches",
+    "dek": "Hopes are high for fresh Legend of Zelda Switch 2 inventory as major retailers prepare for Black Friday week with potential new drops.",
+    "entities": {
+      "people": [
+        "Tabitha Baker"
+      ],
+      "titles": [
+        "Legend of Zelda Switch 2",
+        "Ocarina of Time",
+        "Tomodachi Life: Living the Dream"
+      ]
+    },
+    "keywords": [
+      "Legend of Zelda Switch 2",
+      "Switch 2 restocks",
+      "Black Friday Switch 2",
+      "Zelda Switch 2 stock US UK"
+    ],
+    "images": [
+      {
+        "url": "https://cdn.mos.cms.futurecdn.net/qTBYc8FoUU7zNfNskWbVUL-1920-80.jpg",
+        "caption": "Legend of Zelda Switch 2 Restocks Expected This Week as Black Friday Approaches",
+        "source": "Total Film (GamesRadar)"
+      }
+    ],
+    "published": "Mon, 23 Nov 2026 10:40:39 +0000"
   },
   "f4chlg": {
     "id": "f4chlg",
@@ -5436,6 +5546,51 @@ window.FA_HOME_ARTICLES = {
       }
     ],
     "published": "2026-11-21T14:45:06Z"
+  },
+  "1d4dtfu": {
+    "id": "1d4dtfu",
+    "type": "news",
+    "headline": "Huma Qureshi Starrer Bayaan Set For Direct-To-Digital Premiere On Zee5",
+    "dek": "The investigative drama Bayaan, starring Huma Qureshi and directed by Bikas Ranjan Mishra, is skipping theatrical release for an OTT launch on Zee5.",
+    "entities": {
+      "people": [
+        "Huma Qureshi",
+        "Bikas Ranjan Mishra",
+        "Shiladitya Bora",
+        "Chandrachur Singh",
+        "Sachin Khedekar",
+        "Vibhore Mayank",
+        "Swati Das",
+        "Sampa Mandal",
+        "Neeraj Ghaywan",
+        "Anurag Kashyap",
+        "Bobby Deol",
+        "Yash"
+      ],
+      "titles": [
+        "Bayaan",
+        "Baby Do Die Do",
+        "Toxic",
+        "Pooja Meri Jaan",
+        "Homebound",
+        "Bandar",
+        "Guzarish"
+      ]
+    },
+    "keywords": [
+      "Bayaan film",
+      "Huma Qureshi Bayaan",
+      "Chandrachur Singh Bayaan",
+      "Bayaan Zee5 release"
+    ],
+    "images": [
+      {
+        "url": "https://stat4.bollywoodhungama.in/wp-content/uploads/2026/11/EXCLUSIVE-Huma-Qureshi-starrer-Bayaan-to-have-a-direct-to-digital-release-on-Zee-5.jpg",
+        "caption": "Huma Qureshi Starrer Bayaan Set For Direct-To-Digital Premiere On Zee5",
+        "source": "Bollywood Hungama"
+      }
+    ],
+    "published": "Sat, 21 Nov 2026 10:30:25 +0200"
   },
   "f4xobf": {
     "id": "f4xobf",
