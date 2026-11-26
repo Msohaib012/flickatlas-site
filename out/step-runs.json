@@ -942,29 +942,6 @@
    {
     "step": "apply_auto",
     "category": "Trending News",
-    "run_at": "2026-11-25T14:54:52Z",
-    "run_id": "45638471240",
-    "status": "success",
-    "checked": {
-     "candidates": 15,
-     "detail": "draft articles + box-office rows from out/gemini-batch.json"
-    },
-    "changed": {
-     "added": [
-      "Shraddha Kapoor's Eetha Enters Record Books Following Massive Lavani Dance Event",
-      "O.M: Operation Mole Nears Rs 15 Crore Milestone in Kerala Box Office",
-      "Sai Pallavi and Vijay Sethupathi's Inji Vellam Unveils First Single Aachi Aachi",
-      "Sylvester Stallone Pitches Arnold Schwarzenegger for a Tulsa King Spin-Off"
-     ],
-     "updated": [],
-     "count": 8,
-     "detail": "+4 articles, +0 box-office rows, 4 rows updated"
-    },
-    "reason": null
-   },
-   {
-    "step": "apply_auto",
-    "category": "Trending News",
     "run_at": "2026-11-25T17:11:30Z",
     "run_id": "45658272311",
     "status": "success",
@@ -1479,6 +1456,24 @@
      "detail": "+4 articles, +1 box-office rows, 3 rows updated"
     },
     "reason": null
+   },
+   {
+    "step": "apply_auto",
+    "category": "Trending News",
+    "run_at": "2026-11-26T13:35:46Z",
+    "run_id": "45825112739",
+    "status": "success",
+    "checked": {
+     "candidates": 15,
+     "detail": "draft articles + box-office rows from out/gemini-batch.json"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 3,
+     "detail": "+0 articles, +0 box-office rows, 3 rows updated"
+    },
+    "reason": null
    }
   ],
   "ott": [
@@ -1919,30 +1914,6 @@
    {
     "step": "trending_weekly",
     "category": "Trending Topics",
-    "run_at": "2026-11-25T14:30:38Z",
-    "run_id": "45627686722",
-    "status": "success",
-    "checked": {
-     "candidates": 100,
-     "detail": "cached Google RSS trend/article intersection"
-    },
-    "changed": {
-     "added": [
-      "bss9p8",
-      "c5dqxe",
-      "c4tdqs",
-      "1vklp4v",
-      "1f98fib",
-      "hh8oze"
-     ],
-     "updated": [],
-     "count": 6
-    },
-    "reason": null
-   },
-   {
-    "step": "trending_weekly",
-    "category": "Trending Topics",
     "run_at": "2026-11-25T14:54:55Z",
     "run_id": "45638471240",
     "status": "success",
@@ -2380,6 +2351,23 @@
      "count": 5
     },
     "reason": null
+   },
+   {
+    "step": "trending_weekly",
+    "category": "Trending Topics",
+    "run_at": "2026-11-26T13:35:47Z",
+    "run_id": "45825112739",
+    "status": "success",
+    "checked": {
+     "candidates": 100,
+     "detail": "cached Google RSS trend/article intersection"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 0
+    },
+    "reason": "no-new-data"
    }
   ],
   "multisource_boxoffice": [
@@ -3069,28 +3057,6 @@
    {
     "step": "convert_news",
     "category": "Trending News",
-    "run_at": "2026-11-25T14:30:38Z",
-    "run_id": "45627686722",
-    "status": "success",
-    "checked": {
-     "candidates": 600,
-     "detail": "feed entries from out/queue.json"
-    },
-    "changed": {
-     "added": [
-      "Trade Analyst Sumit Kadel Claims Ramayana Is A Box Office Flop Despite Crossing Rs 1700 Crore Worldwide",
-      "Dulquer Salmaan's Aakasamlo Oka Tara Approaches Rs 6 Crore Milestone in Kerala",
-      "Mumbai Police Considers X-Category Protection For Bollywood Stars Following Recent Threats"
-     ],
-     "updated": [],
-     "count": 3,
-     "detail": "api-news.json 600 items, api-trends.json 12 items"
-    },
-    "reason": null
-   },
-   {
-    "step": "convert_news",
-    "category": "Trending News",
     "run_at": "2026-11-25T14:54:54Z",
     "run_id": "45638471240",
     "status": "success",
@@ -3606,6 +3572,24 @@
      "detail": "api-news.json 600 items, api-trends.json 12 items"
     },
     "reason": null
+   },
+   {
+    "step": "convert_news",
+    "category": "Trending News",
+    "run_at": "2026-11-26T13:35:47Z",
+    "run_id": "45825112739",
+    "status": "success",
+    "checked": {
+     "candidates": 600,
+     "detail": "feed entries from out/queue.json"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 0,
+     "detail": "api-news.json 600 items, api-trends.json 12 items"
+    },
+    "reason": "no-new-data"
    }
   ],
   "episode_guides": [
@@ -8352,5 +8336,5 @@
    }
   ]
  },
- "updated_at": "2026-11-26T13:05:21Z"
+ "updated_at": "2026-11-26T13:35:47Z"
 }
