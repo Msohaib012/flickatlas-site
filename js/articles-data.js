@@ -225070,11 +225070,11 @@ window.FA_ARTICLES = {
       ]
     },
     "keywords": [
-      "Severus Snape forehead scar",
-      "HBO Harry Potter series",
-      "Paapa Essiedu Severus Snape",
-      "Harry Potter and the Philosophers Stone posters",
-      "Dominic McLaughlin Harry Potter"
+      "HBO Harry Potter character posters",
+      "Severus Snape appearance HBO Harry Potter",
+      "HBO Harry Potter television adaptation",
+      "Chris McPherson",
+      "Daniel Radcliffe"
     ],
     "images": [
       {
@@ -225161,10 +225161,11 @@ window.FA_ARTICLES = {
       ]
     },
     "keywords": [
-      "Miley Cyrus Maxx Morando wedding",
-      "Miley Cyrus married",
-      "Maxx Morando drummer",
-      "Miley Cyrus California wedding"
+      "Miley Cyrus marries Maxx Morando California",
+      "Miley Cyrus wedding Maxx Morando drummer",
+      "Miley Cyrus Maxx Morando private ceremony",
+      "Miley Cyrus",
+      "Maxx Morando"
     ],
     "images": [
       {
@@ -225348,10 +225349,10 @@ window.FA_ARTICLES = {
       ]
     },
     "keywords": [
-      "Scene box office collection",
-      "Mookuthi Amman 2 collection",
-      "Suriya Scene film",
-      "Nayanthara Mookuthi Amman 2"
+      "Scene box office collection day 17",
+      "Suriya and Naslen film Scene growth",
+      "Mookuthi Amman 2 worldwide gross",
+      "Scene Mookuthi Amman 2 box office"
     ],
     "images": [
       {
@@ -225455,9 +225456,10 @@ window.FA_ARTICLES = {
     },
     "keywords": [
       "The Hunger Games Sunrise on the Reaping box office",
-      "I Play Rocky Sylvester Stallone",
-      "Ebenezer Johnny Depp Christmas movie",
-      "You Can See Everything documentary box office"
+      "Sunrise on the Reaping 225 million debut",
+      "Suzanne Collins Hunger Games prequel worldwide box office",
+      "Suzanne Collins",
+      "Francis Lawrence"
     ],
     "images": [
       {
@@ -225540,10 +225542,11 @@ window.FA_ARTICLES = {
       ]
     },
     "keywords": [
-      "Miley Cyrus Maxx Morando married",
-      "Miley Cyrus wedding Palm Springs",
-      "Maxx Morando blind date 2021",
-      "Miley Cyrus engagement December 2025"
+      "Miley Cyrus and Maxx Morando married",
+      "Miley Cyrus wedding Palm Springs California",
+      "Miley Cyrus Maxx Morando five years together",
+      "Miley Cyrus",
+      "Maxx Morando"
     ],
     "images": [
       {
@@ -225659,10 +225662,11 @@ window.FA_ARTICLES = {
       ]
     },
     "keywords": [
-      "Hailee Steinfeld Avengers Doomsday",
-      "Kate Bishop MCU return",
-      "Avengers Doomsday release date",
-      "Young Avengers MCU"
+      "Hailee Steinfeld Kate Bishop Avengers Doomsday",
+      "Hailee Steinfeld return in Avengers Doomsday",
+      "Kate Bishop Marvel crossover Avengers Doomsday",
+      "Hailee Steinfeld",
+      "Jeremy Renner"
     ],
     "images": [
       {
@@ -225759,10 +225763,10 @@ window.FA_ARTICLES = {
       ]
     },
     "keywords": [
-      "Ramayana box office collection",
-      "Ramayana day 18 collection",
-      "Ranbir Kapoor Yash Ramayana",
-      "Ramayana Part 1 earnings"
+      "Ramayana box office collection Day 18",
+      "Ranbir Kapoor and Yash Ramayana milestone",
+      "Ramayana Part 1 third Sunday collection",
+      "Ramayana domestic collection Rs 950 crore"
     ],
     "images": [
       {
@@ -225841,10 +225845,11 @@ window.FA_ARTICLES = {
       ]
     },
     "keywords": [
-      "Stranger Things spin off",
-      "Other Worlds Netflix",
-      "Matt and Ross Duffer",
-      "Stranger Things 2028"
+      "Stranger Things spin off 2028 Netflix",
+      "Duffer brothers Stranger Things Other Worlds",
+      "Netflix Stranger Things franchise spin off",
+      "Matt Duffer",
+      "Ross Duffer"
     ],
     "images": [
       {
@@ -225933,10 +225938,10 @@ window.FA_ARTICLES = {
       ]
     },
     "keywords": [
-      "Kartik Aaryan Kaaliya",
-      "Kaaliya monster thriller",
-      "Sandeep Modi Kaaliya film",
-      "Dharma Productions Kaaliya release date"
+      "Kartik Aaryan Kaaliya first look",
+      "Kaaliya monster thriller release date",
+      "Kartik Aaryan birthday Dharma Productions",
+      "Sandeep Modi Kaaliya movie"
     ],
     "images": [
       {
@@ -226019,10 +226024,11 @@ window.FA_ARTICLES = {
       ]
     },
     "keywords": [
-      "Quentin Tarantino baby boy",
-      "Daniella Pick Tarantino",
-      "Quentin Tarantino children",
-      "Inglourious Basterds director family"
+      "Quentin Tarantino third child",
+      "Daniella Pick Tarantino baby boy",
+      "Quentin Tarantino and Daniella Pick baby",
+      "Quentin Tarantino",
+      "Daniella Pick Tarantino"
     ],
     "images": [],
     "published": "2026-11-23T02:52:03Z"
@@ -226128,10 +226134,10 @@ window.FA_ARTICLES = {
       ]
     },
     "keywords": [
-      "Ramayana box office",
-      "Ramayana Day 18 collection",
-      "Ramayana total collection",
-      "Ranbir Kapoor Yash Ramayana"
+      "Ramayana box office day 18 global total",
+      "Nitesh Tiwari Ramayana third weekend collection",
+      "Ramayana Rs 63 crore third weekend",
+      "Ramayana Ranbir Kapoor Yash collection"
     ],
     "images": [
       {
@@ -226231,10 +226237,10 @@ window.FA_ARTICLES = {
       ]
     },
     "keywords": [
-      "OM Operation Mole",
-      "OM box office collection",
-      "Dhanush Mammootty movie",
-      "OM Operation Mole worldwide collection"
+      "OM Operation Mole box office day 3",
+      "Dhanush OM Operation Mole India net",
+      "OM Operation Mole 50 crore collection",
+      "Mammootty Dhanush spy action thriller"
     ],
     "images": [
       {
@@ -226344,10 +226350,10 @@ window.FA_ARTICLES = {
       ]
     },
     "keywords": [
-      "Josh Brolin Behind Enemy Lines",
-      "World War II Behind Enemy Lines Netflix",
-      "Josh Brolin Netflix WWII documentary",
-      "Rob Coldstream Behind Enemy Lines"
+      "Josh Brolin Netflix World War II docuseries",
+      "World War II Behind Enemy Lines Josh Brolin",
+      "Josh Brolin Behind Enemy Lines narrator",
+      "World War II Behind Enemy Lines release date"
     ],
     "images": [
       {
@@ -226450,10 +226456,10 @@ window.FA_ARTICLES = {
       ]
     },
     "keywords": [
-      "AR Rahman Ramayana",
-      "Ramayana movie music",
-      "AR Rahman Hans Zimmer",
-      "Ramayana film soundtrack"
+      "AR Rahman Ramayana soundtrack",
+      "AR Rahman turned down projects for Ramayana",
+      "AR Rahman Hans Zimmer Ramayana music",
+      "Nitesh Tiwari Ramayana score"
     ],
     "images": [
       {
@@ -228894,10 +228900,11 @@ window.FA_ARTICLES = {
       ]
     },
     "keywords": [
-      "Real Housewives of Potomac Cold Beach Hot Gossip",
-      "RHOP Season 11 Episode 7 recap",
-      "Wendy Osefo legal case RHOP",
-      "Stacey Rusch RHOP"
+      "The Real Housewives of Potomac season 11 episode 7",
+      "Cold Beach Hot Gossip RHOP recap",
+      "Wendy Stacey Courtney Real Housewives of Potomac",
+      "Wendy",
+      "Stacey"
     ],
     "images": [
       {
@@ -251103,5 +251110,392 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Thu, 26 Nov 2026 02:30:12 GMT"
+  },
+  "eabziq": {
+    "id": "eabziq",
+    "type": "news",
+    "headline": "Ravi Kishan Shares Startling Memories Of Parental Opposition To Acting On Koffee With Karan Season 9",
+    "dek": "Actor-politician Ravi Kishan opened up on Koffee With Karan Season 9 about facing extreme resistance from his father over his theatre ambitions, while co-guest Akshay Kumar explained why he wanted him on the couch.",
+    "body": [
+      {
+        "h": "Appearance on Koffee With Karan Season 9",
+        "p": [
+          "Actor and politician Ravi Kishan recently appeared as a guest on Karan Johar's chat show Koffee With Karan Season 9. He shared the couch alongside fellow actor Akshay Kumar, bringing a unique dynamic to the popular television programme."
+        ]
+      },
+      {
+        "h": "Severe Parental Opposition",
+        "p": [
+          "During the episode, Kishan reflected on his early life and the steep hurdles he encountered while trying to enter the entertainment industry. His father, who worked as a priest and ran a family milk business, strongly wanted him to take over the dairy trade or secure a government job instead.",
+          "The tension escalated significantly when his father discovered his involvement in local amateur theatre. In the 1990s, pursuing a career in acting was entirely unacceptable within his household, leading to severe friction between father and son."
+        ]
+      },
+      {
+        "h": "A Shocking Threat and Escape",
+        "p": [
+          "Kishan recounted a particularly alarming moment from his youth when he participated in a Ram Leela performance and wore a saree. His father responded with a sound thrashing and accused him of wanting to become a dancer.",
+          "The situation grew dangerous when his father threatened his life, declaring that the aspiring actor would bring shame to the family and suggesting they should kill him. Amid this hostility, Kishan's mother ultimately intervened and helped him escape from home."
+        ]
+      },
+      {
+        "h": "Akshay Kumar's Role in the Pairing",
+        "p": [
+          "Host Karan Johar welcomed Kishan onto the programme by playfully introducing him as the 'Brad Pitt of Bihar'. Johar revealed that it was actually Akshay Kumar who pushed for Kishan to join him on the famous couch.",
+          "Explaining his choice, Akshay noted that while people recognize Kishan for his comedic timing, he possesses a deeply emotional side. The pairing successfully combined candid, heartfelt revelations with lighthearted entertainment."
+        ]
+      },
+      {
+        "h": "Lighter Moments on the Show",
+        "p": [
+          "Beyond the emotional disclosures, the episode featured several playful interactions between the two actors. Akshay took on an eccentric challenge where he mimicked various animal sounds for the audience.",
+          "Later in the programme, both guests recreated Ravi Kishan's viral dance hookstep, bringing a wave of energy and amusement to the studio set."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Ravi Kishan appeared on Koffee With Karan Season 9 alongside Akshay Kumar, where he recalled escaping his father's extreme threats over his early theatre ambitions. Akshay also revealed that he specifically requested Kishan's presence on the show to highlight his emotional depth alongside his comedic talent."
+        ]
+      }
+    ],
+    "facts": [
+      "Ravi Kishan appeared on Koffee With Karan Season 9 with Akshay Kumar.",
+      "Karan Johar hosts Koffee With Karan.",
+      "Ravi Kishan's father was a priest and ran a milk business.",
+      "Karan Johar introduced Ravi Kishan as the 'Brad Pitt of Bihar'."
+    ],
+    "entities": {
+      "people": [
+        "Ravi Kishan",
+        "Akshay Kumar",
+        "Karan Johar"
+      ],
+      "titles": [
+        "Koffee With Karan"
+      ]
+    },
+    "keywords": [
+      "Ravi Kishan Koffee With Karan",
+      "Akshay Kumar Koffee With Karan",
+      "Ravi Kishan father acting dreams",
+      "Koffee With Karan Season 9"
+    ],
+    "images": [
+      {
+        "url": "https://images.timesnownews.com/thumb/msid-156566083,thumbsize-342978,width-1280,height-720,resizemode-75/156566083.jpg",
+        "caption": "Ravi Kishan Shares Startling Memories Of Parental Opposition To Acting On Koffee With Karan Season 9",
+        "source": "Times Now — Entertainment"
+      }
+    ],
+    "published": "2026-11-26T03:00:40Z"
+  },
+  "4g2y90": {
+    "id": "4g2y90",
+    "type": "news",
+    "headline": "Suzy's Hit Series 'Anna' In Global Remake Discussions Across Seven International Territories",
+    "dek": "The acclaimed Coupang Play original series starring Suzy is reportedly exploring localized adaptations in seven countries worldwide, including the United States and the United Kingdom.",
+    "body": [
+      {
+        "h": "International Remake Discussions",
+        "p": [
+          "The popular Coupang Play original television drama 'Anna' is currently the subject of widespread international attention regarding potential localized remakes. According to reports from the Korean media outlet TenAsia on November 26, detailed discussions are actively underway to adapt the acclaimed series in seven distinct countries across the globe.",
+          "The territories engaged in these ongoing conversations span multiple continents and include major entertainment markets such as the United States and the United Kingdom, alongside Turkey, the United Arab Emirates, Indonesia, Vietnam, and Japan."
+        ]
+      },
+      {
+        "h": "Premise and Literary Roots",
+        "p": [
+          "First released in 2022, 'Anna' draws its narrative foundation from the novel 'Intimate Stranger' written by Jung Han Ah. The plot centers on a compelling narrative about a woman whose initial, seemingly minor falsehood snowballs into an entirely fabricated existence where she lives under a completely different identity.",
+          "Under the direction of Lee Joo Young, the dramatic series explores complex psychological themes. The core storyline follows a protagonist who navigates life alternating between the names Yu Mi and Anna."
+        ]
+      },
+      {
+        "h": "Cast and Notable Performances",
+        "p": [
+          "The production features a talented main cast that includes Suzy alongside fellow co-stars Jung Eun Chae and Kim Jun Han. For the lead actress, this project marked a significant milestone as her very first solo lead television role.",
+          "Through her transformative performance portraying a character living a double life, Suzy successfully stepped away from her established public persona of a first-love image, earning widespread critical acclaim and industry recognition for her dramatic range."
+        ]
+      },
+      {
+        "h": "Awards and Critical Reception",
+        "p": [
+          "The dramatic series achieved remarkable success during awards seasons, cementing its status as a standout title in contemporary television. Suzy's compelling portrayal of the complex protagonist earned her the prestigious Best Actress accolade at the 2nd Blue Dragon Series Awards.",
+          "In addition to her Blue Dragon victory, her work on the show garnered her the title of Actress of the Year within the series category at the 21st Director's Cut Awards, highlighting the deep artistic appreciation for the production."
+        ]
+      },
+      {
+        "h": "Global Reach and Continued Longevity",
+        "p": [
+          "Even years after its initial premiere, the drama continues to captivate audiences and attract new viewers globally. The series made a successful broadcast television debut on MBC in August, launching with a solid 5.2% viewership rating.",
+          "Beyond its domestic television broadcast, the title maintains a massive international footprint, remaining accessible to audiences in more than 240 countries and regions worldwide through the streaming platform Prime Video."
+        ]
+      },
+      {
+        "h": "Industry Significance of IP Remakes",
+        "p": [
+          "The movement toward international adaptations highlights a growing trend within the entertainment sector. Rather than simply exporting a finished completed show, an overseas remake adapts and reconstructs the original characters and setting to resonate with local cultural contexts.",
+          "Industry insiders have noted that the universal themes present in the story—particularly social class gaps and the intense ambition to climb the social ladder—offer rich material for diverse cultural reinterpretations."
+        ]
+      },
+      {
+        "h": "Economic Value and Industry Context",
+        "p": [
+          "Amid a climate of reduced domestic drama production numbers within the local market, turning existing intellectual property into overseas remakes has emerged as a crucial alternative revenue stream for the entertainment industry.",
+          "Industry observers point out that active remake discussions spanning countries with vastly contrasting cultures speak volumes about the inherent competitiveness, scalability, and enduring strength of the original narrative."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "The Coupang Play original series 'Anna,' starring Suzy and directed by Lee Joo Young, is currently in remake talks across seven countries, including the US and UK. Based on Jung Han Ah's novel 'Intimate Stranger,' the show has achieved lasting global reach and critical acclaim since its 2022 release."
+        ]
+      }
+    ],
+    "facts": [
+      "TenAsia reported remake talks on November 26, 2026.",
+      "Remake talks are underway in seven countries: the United States, the United Kingdom, Turkey, the United Arab Emirates, Indonesia, Vietnam, and Japan.",
+      "Anna was released in 2022.",
+      "The series is based on Jung Han Ah's novel Intimate Stranger.",
+      "Lee Joo Young directed the series.",
+      "The cast includes Suzy, Jung Eun Chae, and Kim Jun Han.",
+      "Anna was Suzy's first solo lead role.",
+      "Suzy won Best Actress at the 2nd Blue Dragon Series Awards.",
+      "Suzy won Actress of the Year in the series category at the 21st Director's Cut Awards.",
+      "The series made its broadcast TV debut on MBC in August with 5.2% ratings.",
+      "The series is available in more than 240 countries and regions through Prime Video."
+    ],
+    "entities": {
+      "people": [
+        "Suzy",
+        "YKang",
+        "Kim Jun Han",
+        "Jung Eun Chae",
+        "Jung Han Ah",
+        "Lee Joo Young"
+      ],
+      "titles": [
+        "Anna",
+        "Intimate Stranger",
+        "She Was Pretty",
+        "Ode to My Father 2",
+        "Mission: Cross 2",
+        "But Your Love",
+        "The Glory"
+      ]
+    },
+    "keywords": [
+      "Anna remake talks",
+      "Suzy Anna series",
+      "Intimate Stranger novel adaptation",
+      "Coupang Play Anna US UK"
+    ],
+    "images": [
+      {
+        "url": "https://i.mydramalist.com/3vvgnm_2d.jpg",
+        "caption": "Suzy's Hit Series 'Anna' In Global Remake Discussions Across Seven International Territories",
+        "source": "MyDramaList"
+      }
+    ],
+    "published": "Thu, 26 Nov 2026 02:41:18 +0000"
+  },
+  "7k62t3": {
+    "id": "7k62t3",
+    "type": "news",
+    "headline": "Yeh Prem Mol Liya Vs Gunmaaster G9 Advance Booking Clash: Ayushmann Khurrana And Emraan Hashmi Face Off",
+    "dek": "The November box office features a high-stakes showdown between Ayushmann Khurrana's family entertainer and Emraan Hashmi's action-romance feature as advance ticket sales kick off.",
+    "body": [
+      {
+        "h": "The November Box Office Showdown",
+        "p": [
+          "The theatrical calendar is set to conclude with a major cinematic clash as two distinct Bollywood features arrive in cinemas simultaneously. Moviegoers are preparing for a fascinating weekend at the box office as advance bookings open up across the country to gauge early audience interest. Both projects are scheduled to debut on the big screen on November 27, setting up a competitive environment for ticket sales.",
+          "This late-November face-off pits two entirely different genres against one another, offering audiences a choice between a traditional family-oriented drama and a high-octane action-romance. Industry analysts and fans alike are closely monitoring the early booking metrics to see which title manages to capture the public imagination more effectively ahead of the official Friday opening."
+        ]
+      },
+      {
+        "h": "Yeh Prem Mol Liya Advance Ticket Sales",
+        "p": [
+          "Headlining the family entertainer category is the Sooraj Barjatya directorial venture, which has drawn considerable attention from traditional cinema patrons. According to data provided by Sacnilk, the film has managed to pull in a gross collection of Rs 2.75 crore through pre-release ticket purchases. When removing block seats from the equation, the recorded figure stands at Rs 1.37 crore.",
+          "By Wednesday afternoon at 5 PM, the feature had successfully distributed 99,995 admissions across various territories in India. Financial reports indicate that the production was mounted on a budget of Rs 70 crore, placing pressure on its opening weekend performance to establish a strong footing in the marketplace."
+        ]
+      },
+      {
+        "h": "Gunmaaster G9 Pre-Release Numbers",
+        "p": [
+          "Competing directly in this festive season window is the action-romance project directed by Aditya Datt, which has attracted a different segment of moviegoers. The advance booking metrics show a gross collection of Rs 2.73 crore, running a very tight race with its primary competitor. Without considering block seats, the reported earnings touch Rs 1.41 crore.",
+          "In terms of sheer volume, the action thriller has managed to edge ahead in ticket distribution. By 6 PM on Wednesday, the feature recorded a total sale of 1.28 lakh advance tickets nationwide. Trade reports estimate the production budget for this project to be around Rs 45 crore, giving it a different financial threshold to clear."
+        ]
+      },
+      {
+        "h": "Plot And Character Dynamics Of Yeh Prem Mol Liya",
+        "p": [
+          "The narrative of the Sooraj Barjatya film revolves around Prem Mishra, portrayed by Ayushmann Khurrana, and Purva Solanki, played by Sharvari, who aspire to get married. However, complications arise because Purva carries the responsibility of supporting her relatives and operates within a matriarchal household structure, which contrasts sharply with Prem's background.",
+          "To satisfy family demands, Prem agrees to move into her household along with his entire family. Their relationship faces a severe test when a legal case threatens their future together, prompting Prem to stand firmly by Purva's side throughout the ordeal."
+        ]
+      },
+      {
+        "h": "Cast And Ensemble Of The Family Entertainer",
+        "p": [
+          "Beyond the primary romantic leads, the film features an extensive ensemble cast composed of veteran and contemporary actors. Notable names attached to the project include Anupam Kher, Saumya Tandon, Supriya Pathak, and Seema Pahwa.",
+          "The supporting roster is further rounded out by performances from Shaad Randhawa, Swanand Kirkire, Geeta Agrawal Sharma, Shruti Seth, Krish Rao, Ashnoor Kuckreja, and Surbhi Tiwari, adding depth to the familial drama."
+        ]
+      },
+      {
+        "h": "Premise And Antagonist In Gunmaaster G9",
+        "p": [
+          "Shifting gears to the action-romance genre, the Aditya Datt directorial centers on a former master of the underworld, played by Emraan Hashmi, who attempts to abandon his criminal past to build a clean life alongside his family and ladylove, enacted by Genelia Deshmukh.",
+          "Despite his efforts to move forward, his history catches up with him, disrupting his current peace and jeopardizing his future. He is forced to defend his loved ones against a menacing antagonist portrayed by Aparshakti Khurana."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Ayushmann Khurrana and Sharvari's Yeh Prem Mol Liya is competing against Emraan Hashmi and Genelia Deshmukh's Gunmaaster G9 in advance bookings ahead of their November 27 theatrical releases. While the Sooraj Barjatya family drama leads in gross collection figures, the Aditya Datt action thriller has sold a higher volume of individual tickets across India."
+        ]
+      }
+    ],
+    "facts": [
+      "Yeh Prem Mol Liya and Gunmaaster G9 release in theatres on November 27.",
+      "Yeh Prem Mol Liya grossed Rs 2.75 crore in advance bookings.",
+      "Yeh Prem Mol Liya collection without block seats is Rs 1.37 crore.",
+      "Yeh Prem Mol Liya sold 99,995 tickets across India till 5 PM on Wednesday.",
+      "The budget of Yeh Prem Mol Liya is Rs 70 crore.",
+      "Gunmaaster G9 gross collection in advance bookings is Rs 2.73 crore.",
+      "Gunmaaster G9 collection without block seats is Rs 1.41 crore.",
+      "Gunmaaster G9 sold 1.28 lakh advance tickets across India till 6 PM on Wednesday.",
+      "The budget of Gunmaaster G9 is Rs 45 crore.",
+      "Yeh Prem Mol Liya is directed by Sooraj Barjatya.",
+      "Gunmaaster G9 is directed by Aditya Datt."
+    ],
+    "entities": {
+      "people": [
+        "Ayushmann Khurrana",
+        "Sharvari",
+        "Emraan Hashmi",
+        "Genelia Deshmukh",
+        "Sooraj Barjatya",
+        "Anupam Kher",
+        "Saumya Tandon",
+        "Supriya Pathak",
+        "Seema Pahwa",
+        "Shaad Randhawa",
+        "Swanand Kirkire",
+        "Geeta Agrawal Sharma",
+        "Shruti Seth",
+        "Krish Rao",
+        "Ashnoor Kuckreja",
+        "Surbhi Tiwari",
+        "Aditya Datt",
+        "Aparshakti Khurana"
+      ],
+      "titles": [
+        "Yeh Prem Mol Liya",
+        "Gunmaaster G9"
+      ]
+    },
+    "keywords": [
+      "Yeh Prem Mol Liya",
+      "Gunmaaster G9",
+      "Ayushmann Khurrana Yeh Prem Mol Liya",
+      "Emraan Hashmi Gunmaaster G9",
+      "advance booking collection box office"
+    ],
+    "images": [
+      {
+        "url": "https://images.timesnownews.com/thumb/msid-156565546,thumbsize-960488,width-1280,height-720,resizemode-75/156565546.jpg",
+        "caption": "Yeh Prem Mol Liya Vs Gunmaaster G9 Advance Booking Clash: Ayushmann Khurrana And Emraan Hashmi Face Off",
+        "source": "Times Now — Entertainment"
+      }
+    ],
+    "published": "2026-11-26T03:00:40Z"
+  },
+  "1b963eg": {
+    "id": "1b963eg",
+    "type": "news",
+    "headline": "Shuri and Yosuke Sugino to Lead New Fuji TV Medical Rescue Series Last Siren",
+    "dek": "Actors Shuri and Yosuke Sugino have officially signed on to star in the upcoming Fuji TV drama series Last Siren, set against the backdrop of emergency services in Yokohama.",
+    "body": [
+      {
+        "h": "Casting Announcement",
+        "p": [
+          "Fuji TV has announced its upcoming television drama series titled Last Siren, featuring notable actors Shuri and Yosuke Sugino in the lead roles. The production is slated to broadcast in Japan starting in January 2027.",
+          "The series takes over the network's prominent Monday 9 PM time slot, following the conclusion of Emergency Room 24 Hours 6."
+        ]
+      },
+      {
+        "h": "Setting and Premise",
+        "p": [
+          "The narrative of Last Siren unfolds at a fire station located in Yokohama City, focusing heavily on the daily operations and intense challenges faced by local emergency medical personnel.",
+          "These frontline workers are dispatched regularly to address critical situations, confronting the difficult and demanding realities embedded within Japanese society."
+        ]
+      },
+      {
+        "h": "Shuri as Chise Matsumoto",
+        "p": [
+          "Actress Shuri steps into the role of Chise Matsumoto, a certified emergency medical technician recognized for her exceptional life-saving capabilities in the field.",
+          "Although she originated from a lineage of physicians and successfully graduated from medical school, a specific past event led her to bypass the national medical licensing exam in favor of working directly as a paramedic."
+        ]
+      },
+      {
+        "h": "Yosuke Sugino as Kaoru Kawashima",
+        "p": [
+          "Yosuke Sugino portrays Kaoru Kawashima, an active member of the dedicated rescue team who works closely alongside the medical personnel.",
+          "His career choice is deeply motivated by a childhood experience where he was personally rescued by emergency responders, inspiring an urgent drive to reach individuals in distress as quickly as possible."
+        ]
+      },
+      {
+        "h": "Character Dynamics and Struggles",
+        "p": [
+          "Throughout the series, Chise Matsumoto frequently grapples with her own professional limitations, which stem from balancing her extensive background in formal medical knowledge with the fast-paced realities of being a paramedic.",
+          "Meanwhile, Kaoru Kawashima's unwavering commitment to rapid response times highlights the intense physical and emotional pressures placed upon modern rescue workers."
+        ]
+      },
+      {
+        "h": "Broadcast Schedule",
+        "p": [
+          "Viewers can expect Last Siren to premiere in January 2027 across television networks in Japan, bringing a fresh perspective to medical and rescue dramas.",
+          "The show occupies a high-profile scheduling slot previously held by Emergency Room 24 Hours 6 on Fuji TV."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Shuri and Yosuke Sugino are cast as the main leads in the upcoming Fuji TV drama series Last Siren, set to air in January 2027 in Japan. The Yokohama-based show follows emergency medical personnel and rescue workers dealing with the realities of Japanese society."
+        ]
+      }
+    ],
+    "facts": [
+      "Shuri and Yosuke Sugino are cast in Fuji TV drama series Last Siren.",
+      "The drama series is set at a fire station in Yokohama City.",
+      "Shuri plays Chise Matsumoto, an emergency medical technician from a family of doctors.",
+      "Yosuke Sugino plays Kaoru Kawashima, a rescue team member.",
+      "Last Siren will first air in January 2027 in Japan.",
+      "The series takes over Fuji TV's Monday 9 PM time slot after Emergency Room 24 Hours 6."
+    ],
+    "entities": {
+      "people": [
+        "Shuri",
+        "Yosuke Sugino",
+        "Chise Matsumoto",
+        "Kaoru Kawashima"
+      ],
+      "titles": [
+        "Last Siren",
+        "Emergency Room 24 Hours 6"
+      ]
+    },
+    "keywords": [
+      "Last Siren drama",
+      "Shuri Last Siren",
+      "Yosuke Sugino Fuji TV",
+      "Last Siren release date"
+    ],
+    "images": [
+      {
+        "url": "https://blog.asianwiki.com/wp-content/uploads/2026/11/Last_Siren-tp1.jpg",
+        "caption": "Shuri and Yosuke Sugino to Lead New Fuji TV Medical Rescue Series Last Siren",
+        "source": "AsianWiki"
+      }
+    ],
+    "published": "Thu, 26 Nov 2026 02:37:11 +0000"
   }
 };
