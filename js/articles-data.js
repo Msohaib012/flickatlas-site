@@ -253072,5 +253072,364 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Thu, 26 Nov 2026 11:44:01 +0530"
+  },
+  "52syqt": {
+    "id": "52syqt",
+    "type": "news",
+    "headline": "AICWA Appeals to Prime Minister Modi to Block Netflix Release of Pakistani Series",
+    "dek": "The All Indian Cine Workers Association has written to PM Narendra Modi, demanding a block on the upcoming Netflix series Jo Bachay Hain Sang Samait Lo and a permanent legislative ban on Pakistani content in India.",
+    "body": [
+      {
+        "h": "Association Demands Action from Prime Minister",
+        "p": [
+          "The All Indian Cine Workers Association has formally reached out to Prime Minister Narendra Modi to prevent the streaming of the Pakistani series Jo Bachay Hain Sang Samait Lo on Netflix India. In an official communication issued by the body, the leadership expressed strong opposition to the availability of the program on domestic screens.",
+          "The letter, dated November 24, 2026, was shared publicly via social media channels alongside a formal statement. The organization argued that entertainment productions originating from across the border should not find a place within the Indian market under any circumstances."
+        ]
+      },
+      {
+        "h": "Background of the Series and Literary Roots",
+        "p": [
+          "The program at the center of the dispute is based on an Urdu novel of the same name written by Farhat Ishtiaq. The adaptation has drawn considerable attention ahead of its scheduled debut on the streaming platform.",
+          "The series features a prominent ensemble cast that includes well-known actors such as Fawad Khan, Mahira Khan, Hania Aamir, and Saman Ansari. The involvement of these performers has further intensified discussions surrounding the project's planned release."
+        ]
+      },
+      {
+        "h": "Call for Permanent Legal Prohibitions",
+        "p": [
+          "Beyond halting the upcoming release, the cine workers group has called for a robust and permanent legal framework with severe penalties. The requested legislation aims to prohibit all Pakistani content, artists, and productions from appearing on Indian television networks, digital streaming platforms, and cinema halls.",
+          "The association also urged all digital streaming services to comply with existing government guidelines and requested that Netflix India issue a public declaration confirming that Pakistani media will not be hosted on its platform."
+        ]
+      },
+      {
+        "h": "Reference to Past Security Incidents",
+        "p": [
+          "In its formal correspondence, the association referenced multiple historical terror attacks that have impacted the nation over the decades. The letter listed the 1993 Mumbai serial blasts, the 2001 Parliament attack, the 2005 Delhi serial blasts, the 2006 Mumbai local train blasts, the 2008 26/11 Mumbai attacks, the 2016 Uri incident, the 2019 Pulwama incident, and the April 2025 Pahalgam attack.",
+          "The organization emphasized the enduring grief experienced by the families of victims affected by these tragedies, questioning how audiences can be expected to consume entertainment originating from a country linked to such events."
+        ]
+      },
+      {
+        "h": "Previous Industry Restrictions and Government Advisories",
+        "p": [
+          "The association noted that it had previously placed a ban on Pakistani artists working within the domestic film industry following the Pulwama attack. Similarly, the Government of India introduced specific restrictions on cross-border content and talent after the Pahalgam incident.",
+          "Furthermore, the communication argued that streaming the series would violate the intent of an advisory issued by the Ministry of Information and Broadcasting on May 8, 2025. Copies of the formal letter were also directed to Union Minister for Information and Broadcasting Ashwini Vaishnaw and to Netflix India."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "The All Indian Cine Workers Association has written to Prime Minister Narendra Modi to urge a ban on the Netflix release of the Pakistani series Jo Bachay Hain Sang Samait Lo, scheduled for December 4, 2026. Citing past terror attacks and previous government advisories, the association is demanding a permanent legal prohibition against all Pakistani content and artists on Indian entertainment platforms."
+        ]
+      }
+    ],
+    "facts": [
+      "Published date: Nov 25, 2026",
+      "Letter date: November 24, 2026",
+      "Scheduled release date: December 4, 2026",
+      "Ministry advisory date: May 8, 2025"
+    ],
+    "entities": {
+      "people": [
+        "Narendra Modi",
+        "Farhat Ishtiaq",
+        "Suresh Shyamlal Gupta",
+        "Fawad Khan",
+        "Mahira Khan",
+        "Hania Aamir",
+        "Saman Ansari",
+        "Ashwini Vaishnaw"
+      ],
+      "titles": [
+        "Jo Bachay Hain Sang Samait Lo",
+        "Bachay Hain Sang Samait Lo"
+      ]
+    },
+    "keywords": [
+      "Jo Bachay Hain Sang Samait Lo",
+      "AICWA Netflix India",
+      "Fawad Khan Mahira Khan series",
+      "Suresh Shyamlal Gupta AICWA"
+    ],
+    "images": [
+      {
+        "url": "https://cdn-english.zeenews.com/sites/default/files/2026/11/25/7694-jo-bachay-hain-sang-samait.jpg",
+        "caption": "AICWA Appeals to Prime Minister Modi to Block Netflix Release of Pakistani Series",
+        "source": "Zee News — Entertainment"
+      }
+    ],
+    "published": "2026-11-26T07:52:00Z"
+  },
+  "rje3s2": {
+    "id": "rje3s2",
+    "type": "news",
+    "headline": "Brad Pitt and Angelina Jolie End Years of Legal Warfare Over Chateau Miraval Winery",
+    "dek": "After nearly five years of intense court battles, the former Hollywood couple has reached a private agreement to settle their dispute over the French estate.",
+    "body": [
+      {
+        "h": "Reaching an Out-of-Court Agreement",
+        "p": [
+          "Hollywood stars Brad Pitt and Angelina Jolie have officially resolved their lengthy and contentious legal disputes concerning Chateau Miraval, the French winery they previously owned together. Representatives for the former couple confirmed that an out-of-court settlement has been finalized, avoiding a high-stakes public trial that had been anticipated for the following August.",
+          "The joint statement issued by their representatives emphasized that the resolution was pursued with the family's best interests in mind. Both actors noted that they would not provide any further public commentary regarding the matter, while also cautioning that media reports quoting anonymous insiders do not originate from either party or anyone associated with them."
+        ]
+      },
+      {
+        "h": "Origins of the Winery Dispute",
+        "p": [
+          "The legal conflict began when Brad Pitt initiated legal action against his former spouse in the year 2022. Pitt contended that Jolie acted improperly by disposing of her share in the south of France vineyard without his consent.",
+          "Angelina Jolie responded with her own legal filings later that same year in October. Her countersuit alleged that she made significant efforts to sustain their business partnership before Pitt allegedly took unilateral creative control and imposed extravagant expenditures, including a costly swimming pool project."
+        ]
+      },
+      {
+        "h": "Allegations and Counterclaims",
+        "p": [
+          "The legal battle escalated substantially when Jolie introduced severe personal allegations into the litigation. She asserted that Pitt engaged in physically and emotionally abusive behavior during a 2016 private airplane journey, an incident that ultimately triggered the dissolution of their marriage.",
+          "In response to these serious accusations, representatives for Pitt firmly defended his position. His legal team characterized Jolie's narrative of the flight as inconsistent and maintained that Pitt had taken responsibility for his actions while rejecting any accusations regarding events he did not cause."
+        ]
+      },
+      {
+        "h": "Legal Stance and Independent Authorities",
+        "p": [
+          "During the course of the litigation, attorney Anne Kiley spoke on behalf of Pitt regarding the personal attacks and representations directed at her client. Kiley highlighted the fact that Pitt had never faced criminal charges related to the allegations made by the opposing side.",
+          "Furthermore, Pitt's legal representation pointed out that various public authorities had conducted their own independent evaluations over a span of six years without taking punitive action. Pitt consistently maintained his intention to address the claims through proper judicial channels."
+        ]
+      },
+      {
+        "h": "Negotiations Over the Stake",
+        "p": [
+          "Before the dispute intensified in court, discussions had taken place regarding Jolie transferring her stake directly to Pitt, with the understanding that the property would eventually benefit their children. However, those preliminary negotiations collapsed over specific contractual conditions.",
+          "Jolie objected to a non-disparagement clause proposed during the buyout talks, describing the provision as an unacceptable restriction on her freedom of speech. This disagreement over the terms ultimately led to the sale of her stake to an outside party, setting off the multi-year legal conflict."
+        ]
+      },
+      {
+        "h": "Status of Court Proceedings",
+        "p": [
+          "Despite the announcement of a private settlement between the two actors, formal procedural steps on the official court docket were still pending. As of Wednesday afternoon, no formal request for dismissal had been filed.",
+          "Prior to the announcement of the agreement, a review of the heavily contested case had been formally scheduled for December 7. The sudden resolution successfully preempted what promised to be a messy and widely publicized courtroom showdown."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Brad Pitt and Angelina Jolie have finalized an out-of-court agreement to conclude their nearly five-year legal dispute concerning the Chateau Miraval winery in France. The settlement successfully averts an upcoming public trial that had stemmed from competing lawsuits over business control and serious personal allegations."
+        ]
+      }
+    ],
+    "facts": [
+      "Brad Pitt sued Angelina Jolie in 2022 over the sale of Chateau Miraval.",
+      "Angelina Jolie filed a countersuit in October 2022.",
+      "The private settlement was announced on a Wednesday in November 2026.",
+      "The legal battle lasted nearly five years.",
+      "A court review for the case was previously scheduled for December 7.",
+      "Anne Kiley is a lawyer for Brad Pitt."
+    ],
+    "entities": {
+      "people": [
+        "Brad Pitt",
+        "Angelina Jolie",
+        "Anne Kiley"
+      ],
+      "titles": [
+        "Chateau Miraval"
+      ]
+    },
+    "keywords": [
+      "Brad Pitt Angelina Jolie winery",
+      "Chateau Miraval legal battle",
+      "Brad Pitt lawsuit",
+      "Angelina Jolie countersuit"
+    ],
+    "images": [
+      {
+        "url": "https://www.rollingstone.com/wp-content/uploads/2026/11/pitt-angelina-winery-update.jpg?crop=0px%2C0px%2C1800px%2C1014px&#038;resize=1600%2C900",
+        "caption": "Brad Pitt and Angelina Jolie End Years of Legal Warfare Over Chateau Miraval Winery",
+        "source": "Rolling Stone"
+      }
+    ],
+    "published": "2026-11-26T07:52:00Z"
+  },
+  "olxn20": {
+    "id": "olxn20",
+    "type": "news",
+    "headline": "South Park Takes on Grand Theft Auto VI, Artificial Intelligence, and Foreign Espionage",
+    "dek": "The latest episode of the hit animated comedy lampoons the massive video game release, local power grid failures, and ongoing international espionage concerns.",
+    "body": [
+      {
+        "h": "Grand Theft Auto VI Mania Hits the Animated Town",
+        "p": [
+          "The fictional mountain community of South Park experienced complete societal paralysis as residents abandoned their daily routines to play the newly released video game Grand Theft Auto VI. Schools and local businesses sat completely empty while the entire population remained indoors absorbed in the record-breaking title.",
+          "The gaming obsession came to a sudden halt when an unexpected power outage struck the area, freezing consoles mid-session and provoking immediate panic among the gamers who feared losing their hard-earned progress."
+        ]
+      },
+      {
+        "h": "Citizen Uproar at City Hall",
+        "p": [
+          "Frustrated by the sudden electrical failure, an angry mob of townspeople converged upon city hall to confront Mayor McDaniels about the compromised power grid. Officer Johnson voiced the collective fury of the gamers, warning that sudden shutdowns during saving sequences or active missions destroy hours of player data.",
+          "When pressed about the failing infrastructure, the mayor blamed the antiquated and run-down state of the local electrical systems, drawing a parallel to real-world transportation infrastructure failures."
+        ]
+      },
+      {
+        "h": "Data Centers and Artificial Intelligence",
+        "p": [
+          "Citizens quickly questioned whether secret deals between municipal leadership and wealthy billionaires were draining the town's electricity to fuel massive data centers. Pelled by flying video game controllers and assorted garbage, Mayor McDaniels fled the podium to address the tech investors directly.",
+          "Contacting the billionaires behind the Weenietown AI Factory over the phone, the mayor scolded them for consuming excessive artificial intelligence resources before her office was breached by another wave of furious residents."
+        ]
+      },
+      {
+        "h": "Foreign Espionage Accusations",
+        "p": [
+          "Led by Darryl Weathers, the angry citizens demanded to know if foreign cyberattacks were responsible for the recurring blackouts crippling their gaming sessions. Desperate to deflect the blame away from her own administrative shortcomings, the mayor falsely confirmed that foreign actors were orchestrating cyber threats.",
+          "Convinced of external interference, the mob immediately jumped to the conclusion that a local resident must be an operative, directing their suspicion toward the Asian massage parlor operated by Mr. Kim."
+        ]
+      },
+      {
+        "h": "Real-World Parallels and Scandals",
+        "p": [
+          "The satirical storyline mirrored recent headlines surrounding infrastructure cyberattacks affecting banks and public institutions. The episode also tapped into high-profile political and corporate controversies involving prominent executives and foreign intelligence investigations.",
+          "Alongside the main satirical plot, the Thanksgiving week broadcast also featured the notable return of Kenny, marking another memorable narrative beat for the long-running animated series."
+        ]
+      },
+      {
+        "h": "Broadcast and Streaming Details",
+        "p": [
+          "Fans of the animated satire can catch new episodes airing on Wednesday nights via Comedy Central. Viewers who miss the initial broadcast can access the content the following day through the Paramount+ streaming platform."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "South Park aired an episode on Nov. 25 that satirized the release of Grand Theft Auto VI, municipal power failures, artificial intelligence data centers, and foreign spy scares. The narrative featured angry townspeople confronting Mayor McDaniels, leading to humorous accusations and chaos throughout the community."
+        ]
+      }
+    ],
+    "facts": [
+      "The episode aired on Nov. 25.",
+      "South Park airs Wednesday nights on Comedy Central and streams next day on Paramount+.",
+      "Grand Theft Auto VI shattered sales records.",
+      "The Weenietown AI Factory is featured in the episode.",
+      "Mr. Kim runs the Asian massage parlor."
+    ],
+    "entities": {
+      "people": [
+        "Mayor McDaniels",
+        "Officer Johnson",
+        "Sean Duffy",
+        "Darryl Weathers",
+        "Jensen Huang",
+        "Mr. Kim",
+        "Kenny"
+      ],
+      "titles": [
+        "South Park",
+        "Grand Theft Auto VI"
+      ]
+    },
+    "keywords": [
+      "South Park Grand Theft Auto VI",
+      "South Park Nov. 25 episode",
+      "Grand Theft Auto VI mania South Park",
+      "Weenietown AI Factory South Park"
+    ],
+    "images": [
+      {
+        "url": "https://www.thewrap.com/wp-content/uploads/2026/11/south-park-nov-25-episode.jpg",
+        "caption": "South Park Takes on Grand Theft Auto VI, Artificial Intelligence, and Foreign Espionage",
+        "source": "TheWrap"
+      }
+    ],
+    "published": "Thu, 26 Nov 2026 06:37:13 +0000"
+  },
+  "1f7v2xl": {
+    "id": "1f7v2xl",
+    "type": "news",
+    "headline": "Bhediya 2 Confirmed: Director Amar Kaushik Announces Sequel on Film's Fourth Anniversary",
+    "dek": "Director Amar Kaushik has officially confirmed that Bhediya 2 is in development, as the Varun Dhawan and Kriti Sanon horror-comedy celebrates four years since its theatrical release.",
+    "body": [
+      {
+        "h": "Anniversary Announcement",
+        "p": [
+          "Four years after making its debut in cinema halls, the creature feature Bhediya continues to hold a devoted following among moviegoers. Marking the fourth anniversary of the horror-comedy, the creative team delivered an exciting update that a sequel is officially underway. Viewers who cherished the unique blend of supernatural elements and humor can now look forward to a continuation of the narrative.",
+          "The milestone comes after a recent promotional reunion brought the principal creative forces back together. Director Amar Kaushik teamed up with lead stars Varun Dhawan and Kriti Sanon for a promotional video tied to Obsession's Hindi-dubbed release, instantly reigniting public enthusiasm for the cinematic universe."
+        ]
+      },
+      {
+        "h": "Writing Stage and Creative Teasers",
+        "p": [
+          "Providing an update on the progress of the project, director Amar Kaushik confirmed that Bhediya 2 is currently being penned. To share the news with fans, he released a humorous video featuring the fictional werewolf character Bhediya creating mayhem inside an office space and throwing a laptop.",
+          "The playful social media post was accompanied by a caption noting that the werewolf is impatient with the slow pace of the scriptwriting process. The lighthearted reveal gave eager supporters a glimpse into the ongoing preparation for the upcoming venture."
+        ]
+      },
+      {
+        "h": "Audience Reaction and Fan Demands",
+        "p": [
+          "The official confirmation caused an online frenzy, with supporters flooding digital platforms with excitement and appeals for quick production. Many individuals expressed their long-standing anticipation for a follow-up, urging the creators to fast-track the storytelling process.",
+          "In addition to demanding the continuation of the main plot, social media users voiced a desire to see a future crossover or reunion involving other characters from the broader cinematic universe, drawing comparisons to Stree."
+        ]
+      },
+      {
+        "h": "The Legacy of the Original Film",
+        "p": [
+          "Released on November 25, 2022, the original motion picture introduced audiences to Bhaskar, a road construction contractor who travels to the forests of Arunachal Pradesh. During his time there, a wolf bite transforms him into a werewolf, setting off a chain of comedic and supernatural events.",
+          "The feature starred Varun Dhawan in the central role alongside Kriti Sanon as Dr Anika. The supporting cast featured notable performances by Abhishek Banerjee, Deepak Dobriyal, and Paalin Kabak, contributing to the distinct regional flavor and atmospheric setting of the narrative."
+        ]
+      },
+      {
+        "h": "Connections to the Horror-Comedy Universe",
+        "p": [
+          "The success of the 2022 release played a major role in expanding a shared cinematic universe that blends folklore, horror, and comedy. Fans frequently celebrate the connection between the primary characters of Bhediya and Stree, often referring to them as a powerhouse pairing with memorable screen chemistry.",
+          "Discussions across online forums frequently highlight the romantic undertones and potential future interactions between these fictional figures, adding to the cultural impact of the franchise."
+        ]
+      },
+      {
+        "h": "Significance of the Sequel Announcement",
+        "p": [
+          "Confirming the follow-up on the anniversary date served as a strategic nod to the dedicated fandom that kept the conversation alive over four years. By acknowledging public demand through creative promotional material, the team successfully sustained interest in the franchise's future.",
+          "As pre-production moves forward through the writing phase, the anticipation surrounding the next chapter reflects the enduring popularity of the original feature and its distinct place in contemporary commercial cinema."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Director Amar Kaushik has officially confirmed that Bhediya 2 is in the writing stage, coinciding with the fourth anniversary of the 2022 horror-comedy starring Varun Dhawan and Kriti Sanon. The announcement, shared via a humorous social media video, sparked immense excitement among fans who have long awaited a continuation of the supernatural storyline."
+        ]
+      }
+    ],
+    "facts": [
+      "Bhediya released on November 25, 2022",
+      "Bhediya 2 was announced on November 26, 2026",
+      "Amar Kaushik is the director of Bhediya",
+      "Varun Dhawan played Bhaskar in the film",
+      "Kriti Sanon played Dr Anika in the film"
+    ],
+    "entities": {
+      "people": [
+        "Amar Kaushik",
+        "Varun Dhawan",
+        "Kriti Sanon",
+        "Abhishek Banerjee",
+        "Deepak Dobriyal",
+        "Paalin Kabak",
+        "Shraddha Kapoor"
+      ],
+      "titles": [
+        "Bhediya",
+        "Bhediya 2",
+        "Stree",
+        "Obsession"
+      ]
+    },
+    "keywords": [
+      "Bhediya 2",
+      "Amar Kaushik",
+      "Varun Dhawan",
+      "Kriti Sanon",
+      "Bhediya sequel"
+    ],
+    "images": [
+      {
+        "url": "https://static.toiimg.com/thumb/msid-136180164,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "caption": "Bhediya 2 Confirmed: Director Amar Kaushik Announces Sequel on Film's Fourth Anniversary",
+        "source": "Times of India — Entertainment"
+      }
+    ],
+    "published": "2026-11-26T11:18:40+05:30"
   }
 };

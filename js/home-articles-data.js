@@ -30,6 +30,72 @@ window.FA_HOME_ARTICLES = {
     ],
     "published": "Thu, 26 Nov 2026 10:21:03 +0200"
   },
+  "52syqt": {
+    "id": "52syqt",
+    "type": "news",
+    "headline": "AICWA Appeals to Prime Minister Modi to Block Netflix Release of Pakistani Series",
+    "dek": "The All Indian Cine Workers Association has written to PM Narendra Modi, demanding a block on the upcoming Netflix series Jo Bachay Hain Sang Samait Lo and a permanent legislative ban on Pakistani content in India.",
+    "entities": {
+      "people": [
+        "Narendra Modi",
+        "Farhat Ishtiaq",
+        "Suresh Shyamlal Gupta",
+        "Fawad Khan",
+        "Mahira Khan",
+        "Hania Aamir",
+        "Saman Ansari",
+        "Ashwini Vaishnaw"
+      ],
+      "titles": [
+        "Jo Bachay Hain Sang Samait Lo",
+        "Bachay Hain Sang Samait Lo"
+      ]
+    },
+    "keywords": [
+      "Jo Bachay Hain Sang Samait Lo",
+      "AICWA Netflix India",
+      "Fawad Khan Mahira Khan series",
+      "Suresh Shyamlal Gupta AICWA"
+    ],
+    "images": [
+      {
+        "url": "https://cdn-english.zeenews.com/sites/default/files/2026/11/25/7694-jo-bachay-hain-sang-samait.jpg",
+        "caption": "AICWA Appeals to Prime Minister Modi to Block Netflix Release of Pakistani Series",
+        "source": "Zee News — Entertainment"
+      }
+    ],
+    "published": "2026-11-26T07:52:00Z"
+  },
+  "rje3s2": {
+    "id": "rje3s2",
+    "type": "news",
+    "headline": "Brad Pitt and Angelina Jolie End Years of Legal Warfare Over Chateau Miraval Winery",
+    "dek": "After nearly five years of intense court battles, the former Hollywood couple has reached a private agreement to settle their dispute over the French estate.",
+    "entities": {
+      "people": [
+        "Brad Pitt",
+        "Angelina Jolie",
+        "Anne Kiley"
+      ],
+      "titles": [
+        "Chateau Miraval"
+      ]
+    },
+    "keywords": [
+      "Brad Pitt Angelina Jolie winery",
+      "Chateau Miraval legal battle",
+      "Brad Pitt lawsuit",
+      "Angelina Jolie countersuit"
+    ],
+    "images": [
+      {
+        "url": "https://www.rollingstone.com/wp-content/uploads/2026/11/pitt-angelina-winery-update.jpg?crop=0px%2C0px%2C1800px%2C1014px&#038;resize=1600%2C900",
+        "caption": "Brad Pitt and Angelina Jolie End Years of Legal Warfare Over Chateau Miraval Winery",
+        "source": "Rolling Stone"
+      }
+    ],
+    "published": "2026-11-26T07:52:00Z"
+  },
   "1e5kp9e": {
     "id": "1e5kp9e",
     "type": "news",
@@ -58,6 +124,41 @@ window.FA_HOME_ARTICLES = {
       }
     ],
     "published": "Thu, 26 Nov 2026 08:50:56 +0200"
+  },
+  "olxn20": {
+    "id": "olxn20",
+    "type": "news",
+    "headline": "South Park Takes on Grand Theft Auto VI, Artificial Intelligence, and Foreign Espionage",
+    "dek": "The latest episode of the hit animated comedy lampoons the massive video game release, local power grid failures, and ongoing international espionage concerns.",
+    "entities": {
+      "people": [
+        "Mayor McDaniels",
+        "Officer Johnson",
+        "Sean Duffy",
+        "Darryl Weathers",
+        "Jensen Huang",
+        "Mr. Kim",
+        "Kenny"
+      ],
+      "titles": [
+        "South Park",
+        "Grand Theft Auto VI"
+      ]
+    },
+    "keywords": [
+      "South Park Grand Theft Auto VI",
+      "South Park Nov. 25 episode",
+      "Grand Theft Auto VI mania South Park",
+      "Weenietown AI Factory South Park"
+    ],
+    "images": [
+      {
+        "url": "https://www.thewrap.com/wp-content/uploads/2026/11/south-park-nov-25-episode.jpg",
+        "caption": "South Park Takes on Grand Theft Auto VI, Artificial Intelligence, and Foreign Espionage",
+        "source": "TheWrap"
+      }
+    ],
+    "published": "Thu, 26 Nov 2026 06:37:13 +0000"
   },
   "3v0dvq": {
     "id": "3v0dvq",
@@ -222,6 +323,44 @@ window.FA_HOME_ARTICLES = {
       }
     ],
     "published": "2026-11-26T11:25:33+05:30"
+  },
+  "1f7v2xl": {
+    "id": "1f7v2xl",
+    "type": "news",
+    "headline": "Bhediya 2 Confirmed: Director Amar Kaushik Announces Sequel on Film's Fourth Anniversary",
+    "dek": "Director Amar Kaushik has officially confirmed that Bhediya 2 is in development, as the Varun Dhawan and Kriti Sanon horror-comedy celebrates four years since its theatrical release.",
+    "entities": {
+      "people": [
+        "Amar Kaushik",
+        "Varun Dhawan",
+        "Kriti Sanon",
+        "Abhishek Banerjee",
+        "Deepak Dobriyal",
+        "Paalin Kabak",
+        "Shraddha Kapoor"
+      ],
+      "titles": [
+        "Bhediya",
+        "Bhediya 2",
+        "Stree",
+        "Obsession"
+      ]
+    },
+    "keywords": [
+      "Bhediya 2",
+      "Amar Kaushik",
+      "Varun Dhawan",
+      "Kriti Sanon",
+      "Bhediya sequel"
+    ],
+    "images": [
+      {
+        "url": "https://static.toiimg.com/thumb/msid-136180164,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "caption": "Bhediya 2 Confirmed: Director Amar Kaushik Announces Sequel on Film's Fourth Anniversary",
+        "source": "Times of India — Entertainment"
+      }
+    ],
+    "published": "2026-11-26T11:18:40+05:30"
   },
   "zfcjfm": {
     "id": "zfcjfm",
@@ -4636,166 +4775,6 @@ window.FA_HOME_ARTICLES = {
     ],
     "published": "Wed, 25 Nov 2026 00:00:12 GMT"
   },
-  "1llvh5v": {
-    "id": "1llvh5v",
-    "type": "news",
-    "headline": "Ranbir Kapoor and Yash's 'Ramayana' Earns Technical Shortlist Spots for the 32nd Annual Critics Choice Awards",
-    "dek": "Nitesh Tiwari's epic production has been shortlisted in two technical categories alongside major international titles like 'The Odyssey' and 'Dune: Part Three'.",
-    "entities": {
-      "people": [
-        "Ranbir Kapoor",
-        "Yash",
-        "Nitesh Tiwari",
-        "Dan Glass",
-        "Christopher Nolan",
-        "Denis Villeneuve"
-      ],
-      "titles": [
-        "Ramayana",
-        "Ramayana: Rise of a Legend",
-        "The Odyssey",
-        "Dune: Part Three",
-        "Godzilla Minus Zero",
-        "Project Hail Mary",
-        "Spider-Man: Brand New Day",
-        "Wildwood",
-        "Jackass: Best and Last",
-        "La Bola Negra"
-      ]
-    },
-    "keywords": [
-      "Ramayana film",
-      "Ranbir Kapoor Yash Ramayana",
-      "Critics Choice Awards 2027",
-      "Ramayana Rise of a Legend"
-    ],
-    "images": [
-      {
-        "url": "https://static.toiimg.com/thumb/msid-136144482,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "caption": "Ranbir Kapoor and Yash's 'Ramayana' Earns Technical Shortlist Spots for the 32nd Annual Critics Choice Awards",
-        "source": "Times of India — Entertainment"
-      }
-    ],
-    "published": "2026-11-25T05:28:08+05:30"
-  },
-  "1drf57m": {
-    "id": "1drf57m",
-    "type": "news",
-    "headline": "Avengers: Doomsday Trailer Shatters All-Time Disney Record With Massive View Count",
-    "dek": "Marvel Studios achieves a historic milestone as the final preview for the upcoming blockbuster sets a new benchmark for online viewership.",
-    "entities": {
-      "people": [
-        "Robert Downey Jr.",
-        "Chris Evans",
-        "Hayley Atwell",
-        "Richard Nebens"
-      ],
-      "titles": [
-        "Avengers: Doomsday",
-        "Avengers: Endgame",
-        "Deadpool & Wolverine",
-        "Ray Gunn",
-        "Insidious: Out of the Further",
-        "Avengers: Secret Wars"
-      ]
-    },
-    "keywords": [
-      "Avengers Doomsday trailer record",
-      "Marvel Studios Avengers Doomsday",
-      "Robert Downey Jr Doctor Doom",
-      "Chris Evans Hayley Atwell Doomsday"
-    ],
-    "images": [
-      {
-        "url": "https://static0.moviewebimages.com/wordpress/wp-content/uploads/2026/11/avengers-doomsday-group-shot.jpg?w=1600&amp;h=900&amp;fit=crop",
-        "caption": "Avengers: Doomsday Trailer Shatters All-Time Disney Record With Massive View Count",
-        "source": "MovieWeb"
-      }
-    ],
-    "published": "Tue, 24 Nov 2026 23:53:23 GMT"
-  },
-  "1uemg6p": {
-    "id": "1uemg6p",
-    "type": "news",
-    "headline": "AICWA Demands Ban on Netflix's Pakistani Web Series 'Jo Bachay Hain Sang Samait Lo'",
-    "dek": "The All Indian Cine Workers Association has written a letter to Prime Minister Narendra Modi, demanding a complete block on the release of the upcoming Pakistani Netflix series starring Fawad Khan and Mahira Khan.",
-    "entities": {
-      "people": [
-        "Fawad Khan",
-        "Mahira Khan",
-        "Hania Amir",
-        "Narendra Modi",
-        "Farhat Ishtiaq",
-        "Momina Duraid",
-        "Ahad Raza Mir",
-        "Hamza Ali Abbasi",
-        "Ahmed Ali Akbar",
-        "Bilal Ashraf",
-        "Maya Ali",
-        "Iqra Aziz",
-        "Khushal Khan",
-        "Nadia Jamil",
-        "Omair Rana",
-        "Samina Ahmed"
-      ],
-      "titles": [
-        "Jo Bachay Hain Sang Samait Lo"
-      ]
-    },
-    "keywords": [
-      "Jo Bachay Hain Sang Samait Lo",
-      "Fawad Khan Mahira Khan Netflix",
-      "AICWA letter PM Modi",
-      "Pakistani series India ban"
-    ],
-    "images": [
-      {
-        "url": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202611/6b0577fb25fc1-jo-bachay-hain-sang-samait-lo-faces-ban-in-india-24414629-16x9.jpg",
-        "caption": "AICWA Demands Ban on Netflix's Pakistani Web Series 'Jo Bachay Hain Sang Samait Lo'",
-        "source": "Aaj Tak — Entertainment"
-      }
-    ],
-    "published": "2026-11-24T23:51:28Z"
-  },
-  "1vdpjyk": {
-    "id": "1vdpjyk",
-    "type": "news",
-    "headline": "Bigg Boss 20 Episode 80 Highlights: ScoutOP Disrespects Amrapali Dubey; Kanika Mann and Qazi Touqeer Argue",
-    "dek": "Episode 80 of Bigg Boss 20 brought intense conflicts, including ScoutOP's disrespectful behavior towards Amrapali Dubey, a fierce clash between Kanika Mann and Qazi Touqeer during nominations, and a housewide punishment.",
-    "entities": {
-      "people": [
-        "Salman Khan",
-        "Sumit Rajguru",
-        "ScoutOP",
-        "Amrapali Dubey",
-        "Kanika Mann",
-        "Qazi Touqeer",
-        "Love Gill",
-        "Yung DSA",
-        "Mahhi Vij",
-        "Uditi Singh",
-        "Gullu",
-        "Arishfa Khan"
-      ],
-      "titles": [
-        "Bigg Boss 20"
-      ]
-    },
-    "keywords": [
-      "Bigg Boss 20 Episode 80",
-      "ScoutOP Amrapali Dubey",
-      "Kanika Mann Qazi Touqeer",
-      "Bigg Boss 20 November 24 2026"
-    ],
-    "images": [
-      {
-        "url": "https://images.timesnownews.com/thumb/msid-156561451,thumbsize-783711,width-1280,height-720,resizemode-75/156561451.jpg",
-        "caption": "Bigg Boss 20 Episode 80 Highlights: ScoutOP Disrespects Amrapali Dubey; Kanika Mann and Qazi Touqeer Argue",
-        "source": "Times Now — Entertainment"
-      }
-    ],
-    "published": "2026-11-24T23:51:28Z"
-  },
   "1ypg7z1": {
     "id": "1ypg7z1",
     "type": "news",
@@ -5111,50 +5090,6 @@ window.FA_HOME_ARTICLES = {
       }
     ],
     "published": "2026-11-22T15:00:16Z"
-  },
-  "bdw24p": {
-    "id": "bdw24p",
-    "type": "news",
-    "headline": "Jumanji: Open World Worldwide Box Office Journey: What It Needs To Top Dwayne Johnson's All-Time Best",
-    "dek": "As Jumanji: Open World gears up for release, the film faces a monumental global target to surpass Dwayne Johnson's highest-grossing career milestone.",
-    "entities": {
-      "people": [
-        "Dwayne Johnson",
-        "Jack Black",
-        "James Wan",
-        "Paul Walker",
-        "Vin Diesel",
-        "Michelle Rodriguez",
-        "Tyrese Gibson",
-        "Ludacris",
-        "Jordana Brewster",
-        "Djimon Hounsou",
-        "Kurt Russell",
-        "Jason Statham"
-      ],
-      "titles": [
-        "Jumanji: Open World",
-        "Furious 7",
-        "Fast Furious 6",
-        "Jumanji: Welcome to the Jungle",
-        "Avengers: Doomsday",
-        "Dune 3"
-      ]
-    },
-    "keywords": [
-      "Jumanji Open World",
-      "Dwayne Johnson highest grossing film",
-      "Furious 7 box office",
-      "Jumanji Open World release date"
-    ],
-    "images": [
-      {
-        "url": "https://www.koimoi.com/wp-content/new-galleries/2026/11/jumanji-open-world-box-office-can-dwayne-johnsons-upcoming-film-beat-his-biggest-global-hit-0001.jpg",
-        "caption": "Jumanji: Open World Worldwide Box Office Journey: What It Needs To Top Dwayne Johnson's All-Time Best",
-        "source": "Koimoi"
-      }
-    ],
-    "published": "Sat, 21 Nov 2026 17:50:15 +0000"
   },
   "1pqbmve": {
     "id": "1pqbmve",
