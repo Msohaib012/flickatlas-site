@@ -5218,8 +5218,8 @@ window.FA_DAYWISE = {
       "date": "2026-11-18",
       "day": "Day 13",
       "collection": 26413,
-      "shows": 685,
-      "occupancy": 14.0
+      "shows": 745,
+      "occupancy": 13.8
     }
   ],
   "1475799": [
@@ -5547,6 +5547,11 @@ window.FA_DAYWISE = {
       "date": "2026-11-24",
       "day": "Day 5",
       "collection": 159535
+    },
+    {
+      "date": "2026-11-25",
+      "day": "Day 6",
+      "collection": 433175
     }
   ],
   "1322273": [

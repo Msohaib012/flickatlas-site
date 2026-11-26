@@ -1,19 +1,19 @@
 {
   "connected": true,
-  "generated": "2026-11-26T02:58:47Z",
+  "generated": "2026-11-26T04:01:03Z",
   "realtime": {
     "active_users": 0
   },
   "today": {
-    "users": 4,
-    "pageviews": 7,
-    "sessions": 4,
-    "avg_session_seconds": 14.8
+    "users": 5,
+    "pageviews": 8,
+    "sessions": 5,
+    "avg_session_seconds": 12.9
   },
   "last7": {
-    "users": 2743,
-    "pageviews": 2666,
-    "sessions": 2744,
+    "users": 2744,
+    "pageviews": 2667,
+    "sessions": 2745,
     "avg_session_seconds": 5.2
   },
   "top_pages": [
@@ -60,6 +60,12 @@
       "avg_time_seconds": 2.5
     },
     {
+      "path": "/movie",
+      "title": "Sisu: Road to Revenge (2025) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+      "views": 3,
+      "avg_time_seconds": 16.6
+    },
+    {
       "path": "/person",
       "title": "McG — Bio & Selected Credits | FlickAtlas",
       "views": 3,
@@ -70,20 +76,14 @@
       "title": "Box Office Collections: Today, 7-Day & Totals | FlickAtlas",
       "views": 2,
       "avg_time_seconds": 14.2
-    },
-    {
-      "path": "/box-office-day",
-      "title": "Doosra (2026) — Box Office Day 2 | FlickAtlas",
-      "views": 2,
-      "avg_time_seconds": 8.3
     }
   ],
   "sources": [
     {
       "source": "(direct)",
       "medium": "(none)",
-      "sessions": 2596,
-      "users": 2599
+      "sessions": 2597,
+      "users": 2600
     },
     {
       "source": "(not set)",
@@ -147,7 +147,7 @@
     },
     {
       "device": "mobile",
-      "users": 14
+      "users": 15
     }
   ],
   "per_post": {}

@@ -251497,5 +251497,409 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Thu, 26 Nov 2026 02:37:11 +0000"
+  },
+  "1e6xetq": {
+    "id": "1e6xetq",
+    "type": "news",
+    "headline": "O.M: Operation Mole Crosses 106 Crore Worldwide in Six Days",
+    "dek": "Dhanush and Mammootty's spy action thriller continues its theatrical run, crossing a major global milestone despite a domestic weekday dip.",
+    "body": [
+      {
+        "h": "Global Milestone Achieved",
+        "p": [
+          "The spy action thriller O.M: Operation Mole has successfully surpassed the 106 crore mark at the worldwide box office within its first six days of release. The film has drawn considerable international attention, reflecting strong audience turnout across various global markets during its opening week.",
+          "As the feature moves through its initial theatrical window, its ability to cross this major financial threshold highlights the strong collaborative pull of its lead actors and the expansive appeal of high-stakes cinematic thrillers."
+        ]
+      },
+      {
+        "h": "Domestic Collections and Wednesday Dip",
+        "p": [
+          "On the domestic front, the film experienced another reduction in daily collections as it entered the concluding phase of its opening week. According to industry estimates reported by Sacnilk, the feature added 4.10 crore net in India on Wednesday, marking a 24.1 percent drop compared to the previous day.",
+          "This latest mid-week contraction brings the cumulative India net collection to 65.55 crore. Meanwhile, the domestic gross figures stand at approximately 76 crore, maintaining a steady baseline despite the expected post-weekend slowdown."
+        ]
+      },
+      {
+        "h": "Language-Wise Performance Breakdown",
+        "p": [
+          "The theatrical run was supported by a combined total of 6,115 shows across the Tamil, Telugu, and Hindi versions on Wednesday. The Tamil version consistently retained the largest share of the daily earnings, pulling in an estimated 2.60 crore net from 3,364 shows.",
+          "The Telugu version followed with 1.25 crore net from 1,625 shows, while the Hindi language version contributed approximately 25 lakh from 1,126 shows, demonstrating varied regional traction across the country."
+        ]
+      },
+      {
+        "h": "International Earnings and Ticket Sales",
+        "p": [
+          "Overseas markets continued to add steady revenue, with the film earning around 75 lakh internationally on Wednesday alone. This lifted the cumulative overseas gross collection to a notable 30.25 crore.",
+          "Combined with domestic figures, the total worldwide gross reached approximately 106.25 crore after six days. Additionally, the production has recorded an estimated 52.54 lakh total ticket sales throughout its ongoing theatrical run."
+        ]
+      },
+      {
+        "h": "Day-Wise Box Office Trajectory",
+        "p": [
+          "The feature debuted in theatres on November 20 with an opening day India net collection of 18.10 crore. Earnings remained stable over the opening weekend, bringing in 15.75 crore on Saturday and improving slightly to 15.90 crore on Sunday.",
+          "The first prominent decline arrived on Monday with a drop to 6.30 crore, followed by 5.40 crore on Tuesday, leading into the Wednesday collection of 4.10 crore as the first week concluded."
+        ]
+      },
+      {
+        "h": "Cast, Crew and Production Background",
+        "p": [
+          "Written and directed by Rajkumar Periasamy, O.M: Operation Mole features Dhanush in the lead role alongside Mammootty, Sai Pallavi, Sreeleela, Naseeruddin Shah, and Indrans in pivotal characters. The movie was originally announced under the title OM Chapter 1: Udhiram - The Blood Wood before being officially renamed prior to release.",
+          "The project is backed by producers Wunderbar Films and RTake Studios, featuring music composed by Sai Abhyankkar, cinematography by Ezhil Arasu K, and editing by R. Kalaivanan."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Dhanush and Mammootty's spy action thriller O.M: Operation Mole crossed 106 crore globally in six days despite a domestic weekday decline on Wednesday, November 25. The film reached a cumulative India net collection of 65.55 crore while maintaining multi-language screenings across Tamil, Telugu, and Hindi markets."
+        ]
+      }
+    ],
+    "facts": [
+      "Worldwide box office collection crossed 106 crore within the first six days",
+      "India net collection on Wednesday, November 25 was 4.10 crore",
+      "Wednesday figures represented a 24.1 percent decline compared to Tuesday's collection of 5.40 crore",
+      "Cumulative India net collection reached 65.55 crore",
+      "Domestic gross stands at approximately 76 crore",
+      "Combined total of 6,115 shows across Tamil, Telugu and Hindi on Wednesday",
+      "Tamil version collected an estimated 2.60 crore net from 3,364 shows",
+      "Telugu version collected 1.25 crore from 1,625 shows",
+      "Hindi version contributed approximately 25 lakh from 1,126 shows",
+      "International markets earned around 75 lakh on Wednesday",
+      "Cumulative overseas gross collection reached 30.25 crore",
+      "Worldwide gross collection reached approximately 106.25 crore after six days",
+      "Estimated 52.54 lakh ticket sales recorded so far",
+      "Theatrical release date was November 20",
+      "Opening day India net collection was 18.10 crore",
+      "Saturday collection was 15.75 crore",
+      "Sunday collection was 15.90 crore",
+      "Monday collection dropped to 6.30 crore",
+      "Written and directed by Rajkumar Periasamy",
+      "Starring Dhanush, Mammootty, Sai Pallavi, Sreeleela, Naseeruddin Shah, and Indrans",
+      "Originally announced under the title OM Chapter 1: Udhiram - The Blood Wood",
+      "Produced by Wunderbar Films and RTake Studios",
+      "Music composed by Sai Abhyankkar",
+      "Cinematography handled by Ezhil Arasu K",
+      "Editing by R. Kalaivanan"
+    ],
+    "entities": {
+      "people": [
+        "Dhanush",
+        "Mammootty",
+        "Sai Pallavi",
+        "Sreeleela",
+        "Naseeruddin Shah",
+        "Indrans",
+        "Rajkumar Periasamy",
+        "Sai Abhyankkar",
+        "Ezhil Arasu K",
+        "R. Kalaivanan"
+      ],
+      "titles": [
+        "O.M: Operation Mole",
+        "OM Chapter 1: Udhiram - The Blood Wood"
+      ]
+    },
+    "keywords": [
+      "OM Operation Mole box office",
+      "Dhanush Mammootty movie",
+      "OM India net collection",
+      "Rajkumar Periasamy film"
+    ],
+    "images": [
+      {
+        "url": "https://images.filmibeat.com/img/2026/11/om-13351795661855.jpg",
+        "caption": "O.M: Operation Mole Crosses 106 Crore Worldwide in Six Days",
+        "source": "FilmiBeat"
+      }
+    ],
+    "published": "Thu, 26 Nov 2026 08:28:25 +0530"
+  },
+  "1w81ynl": {
+    "id": "1w81ynl",
+    "type": "news",
+    "headline": "U2 Delivers Classic Anthems and Dolly Parton Tribute During Historic NFL Thanksgiving Halftime Show",
+    "dek": "The legendary rock band headlined the NFL's very first Thanksgiving Eve game halftime show at SoFi Stadium, streaming live on Netflix with special nods to Dolly Parton and Dr. Martin Luther King Jr.",
+    "body": [
+      {
+        "h": "The Thanksgiving Eve Spectacle",
+        "p": [
+          "The iconic Irish rock group U2 took center stage to headline the historic first-ever NFL Thanksgiving Eve game halftime fixture. Staged at SoFi Stadium, the event matched the visiting Green Bay Packers against the Los Angeles Rams.",
+          "Fans watching globally could catch the performance as it streamed live on Netflix late Wednesday, November 25. The band brought their signature stadium energy to the football colosseum, delivering a tightly curated mini-set of enduring classics."
+        ]
+      },
+      {
+        "h": "Opening With Choral Harmony and Military Rhythms",
+        "p": [
+          "As the performance commenced, the four bandmates walked to the centerfield while a choir recited lines from 'I Still Haven't Found What I'm Looking For.' Bono then greeted the audience over Larry Mullen Jr.'s military-style drum patterns.",
+          "That percussion intro kicked off a powerful rendition of 'Sunday Bloody Sunday,' featuring a marching band integration that seamlessly shifted into an interpolation of The Supremes classic 'Stop! In The Name of Love.'"
+        ]
+      },
+      {
+        "h": "Honoring Dolly Parton",
+        "p": [
+          "The atmosphere shifted as the group paused to pay tribute to the late queen of country, Dolly Parton. Towering sails on the circular center stage displayed her smiling image for the stadium crowd.",
+          "Bono performed a live duet alongside recorded vocals from Parton on the track 'Torn.' The song is a featured inclusion on the band's 16th and latest studio album."
+        ]
+      },
+      {
+        "h": "Rocking Through The Joshua Tree and Civil Rights Anthems",
+        "p": [
+          "Drawing massive cheers from the crowd, the group transitioned smoothly into another beloved number from The Joshua Tree, 'Where The Streets Have No Name.' Backing singers bolstered the sound as the towering sails came down.",
+          "Keeping the momentum alive, Bono and his bandmates delivered a stirring rendition of 'Pride (In The Name of Love).' The song serves as a tribute to assassinated civil rights leader Dr. Martin Luther King Jr. and originally appeared on their 1984 LP The Unforgettable Fire."
+        ]
+      },
+      {
+        "h": "Album Milestones and Chart Success",
+        "p": [
+          "The band's latest record, Carnaval de Luz, features the final recorded vocals of Dolly Parton. This month, the album claimed the No. 1 spot on three separate Billboard charts, including Top Rock Albums, Vinyl Albums, and Indie Store Album Sales.",
+          "Furthermore, the release secured the No. 4 opening spot on the Billboard 200 as their 14th top 10 album. It also achieved the No. 1 position on the Official U.K. Albums Chart and Australia's ARIA Chart."
+        ]
+      },
+      {
+        "h": "Looking Ahead to the World Tour",
+        "p": [
+          "This year marks U2's 50th anniversary. Celebrations will accelerate significantly next year when the group embarks on a brand-new global stadium tour.",
+          "The upcoming trek, titled Carnaval De Luz presents: The Greatest Show on Earth, will represent the legendary band's first stadium tour since 2019."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "U2 headlined the NFL's first Thanksgiving Eve halftime show at SoFi Stadium, which streamed live on Netflix. The performance included a Dolly Parton tribute, classic anthems, and celebrations surrounding their latest album and upcoming 50th-anniversary tour."
+        ]
+      }
+    ],
+    "facts": [
+      "U2 headlined the NFL's first-ever Thanksgiving Eve game halftime show at SoFi Stadium.",
+      "The game featured the Los Angeles Rams and the Green Bay Packers.",
+      "The halftime show streamed live on Netflix on Wednesday, November 25.",
+      "Bono dueted with Dolly Parton's recorded vocals on the song 'Torn' from the album Carnaval de Luz.",
+      "Carnaval de Luz is the band's 16th studio album and features Dolly Parton's final recorded vocals.",
+      "The album debuted at No. 1 on Top Rock Albums, Vinyl Albums, and Indie Store Album Sales, and opened at No. 4 on the Billboard 200.",
+      "Carnaval de Luz is the band's 12th No. 1 on the Official U.K. Albums Chart and Australia's ARIA Chart.",
+      "U2 is celebrating its 50th anniversary this year and will launch the Carnaval De Luz presents: The Greatest Show on Earth stadium tour next year, their first since 2019.",
+      "The setlist included 'I Still Haven't Found What I'm Looking For', 'Sunday Bloody Sunday', 'Torn', 'Where the Streets Have No Name', and 'Pride (In the Name of Love)'."
+    ],
+    "entities": {
+      "people": [
+        "Bono",
+        "The Edge",
+        "Adam Clayton",
+        "Larry Mullen Jr.",
+        "Dolly Parton",
+        "Dr. Martin Luther King Jr."
+      ],
+      "titles": [
+        "Carnaval de Luz",
+        "I Still Haven't Found What I'm Looking For",
+        "Sunday Bloody Sunday",
+        "Stop! In The Name of Love",
+        "Torn",
+        "Where The Streets Have No Name",
+        "The Joshua Tree",
+        "Pride (In The Name of Love)",
+        "The Unforgettable Fire",
+        "Carnaval De Luz presents: The Greatest Show on Earth"
+      ]
+    },
+    "keywords": [
+      "U2 Thanksgiving NFL halftime show",
+      "U2 Dolly Parton Torn Carnaval de Luz",
+      "U2 SoFi Stadium Netflix performance",
+      "U2 upcoming stadium tour 2019"
+    ],
+    "images": [
+      {
+        "url": "https://www.billboard.com/wp-content/uploads/2026/11/1192664338-e1795536690338.jpg?w=1024",
+        "caption": "U2 Delivers Classic Anthems and Dolly Parton Tribute During Historic NFL Thanksgiving Halftime Show",
+        "source": "Billboard"
+      }
+    ],
+    "published": "Thu, 26 Nov 2026 03:41:38 +0000"
+  },
+  "1dogfcn": {
+    "id": "1dogfcn",
+    "type": "news",
+    "headline": "Jungkook Is Back? Fans Are Sure BTS Maknae Returning As Soloist - Here's Why",
+    "dek": "Speculation is swirling online as BTS member Jungkook is heavily rumored to feature on Code Kunst's upcoming sixth full-length album, Prankster, specifically on the track Love Is Blind.",
+    "body": [
+      {
+        "h": "The Rumor Mill Sparks Online",
+        "p": [
+          "Speculation has taken over social media regarding the potential return of BTS member Jungkook as a solo artist. Fans are convinced that the celebrated BTS maknae is lending his vocal talents to an upcoming project led by renowned South Korean record producer Code Kunst. As discussions spread across online platforms, supporters of the global pop star have expressed immense enthusiasm over the possibility of hearing his voice on a brand-new track.",
+          "The whispers began circulating after claims emerged from attendees who were present at an exclusive listening party for the upcoming album. According to these attendees, Jungkook is linked to the third track on the record, titled Love Is Blind. Although neither the singer nor the producer has issued an official statement to verify the claims, the unconfirmed report has already transformed into a massive talking point within the global fandom community."
+        ]
+      },
+      {
+        "h": "Details Surrounding Code Kunst's Album",
+        "p": [
+          "The song in question forms a key part of Code Kunst's sixth full-length musical endeavor, which carries the title Prankster. Listeners who claim to have heard the track at the preview event suggest that Jungkook performed the entire song in English. While anticipation builds around these unverified details, the full album is scheduled to arrive officially on December 3, 2026, at 6 PM KST.",
+          "Both the producer and the artist have maintained silence regarding the alleged feature, leaving the public waiting for the official drop. If the rumors prove accurate, this release will deliver an entirely fresh musical experience to followers who have been eager for new solo output from the pop sensation since his last major studio rollout."
+        ]
+      },
+      {
+        "h": "Fervent Reaction From The ARMY",
+        "p": [
+          "The possibility of hearing Jungkook on Love Is Blind has sent the global ARMY into a frenzy of digital celebration. Social media platforms have been flooded with expressions of excitement, with many individuals welcoming the prospect of fresh material from the singer. Some users shared their eagerness openly, noting that they had been craving a brand-new track for a long time.",
+          "Others expressed excitement simply at the thought of fresh vocals, regardless of the finer collaboration details. While some fans are still awaiting concrete confirmation from official channels, the prevailing mood across the community is one of uncontained joy and heightened curiosity leading up to the scheduled release date."
+        ]
+      },
+      {
+        "h": "A Look Back At Jungkook's Solo Debut",
+        "p": [
+          "The excitement surrounding this rumored feature highlights the successful path Jungkook carved out as a solo artist. He made his official solo debut with the full-length studio project Golden, which was released on November 3, 2023, through Big Hit Music. That milestone album functioned primarily as an English-language pop record and captured his artistic identity outside of the group.",
+          "Golden featured major commercial hits such as Seven featuring Latto, 3D featuring Jack Harlow, and Standing Next to You. It also included creative contributions from notable international names including Ed Sheeran, Shawn Mendes, Major Lazer, and DJ Snake, ultimately achieving massive global acclaim upon its initial launch."
+        ]
+      },
+      {
+        "h": "Global Chart Performance Of Golden",
+        "p": [
+          "The reception to Jungkook's inaugural solo album established his strong commercial pull on an international scale. Golden opened at No. 2 on the US Billboard 200 chart and secured the No. 3 position on the UK Albums Chart. Furthermore, the record claimed the top spot on album charts in both South Korea and Japan.",
+          "Given the monumental success of his previous solo ventures, any new musical association naturally generates immense scrutiny and global interest. As the countdown to the December launch continues, supporters remain tuned in to see how these latest reports unfold."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "BTS member Jungkook is rumored to feature on the track Love Is Blind from Code Kunst's upcoming sixth album, Prankster, scheduled for release on December 3, 2026. While fans have reacted with excitement across social media, no official confirmation has been provided by the artist or his agency. This follows his previous solo success with his 2023 studio album Golden."
+        ]
+      }
+    ],
+    "facts": [
+      "Arpita Sarkar authored the article updated on Nov 25, 2026.",
+      "Code Kunst's upcoming sixth full-length album is titled Prankster.",
+      "The track Love Is Blind is reportedly the third track on Prankster.",
+      "Prankster is scheduled to arrive on December 3, 2026, at 6 PM KST.",
+      "Jungkook made his solo debut with his first full-length studio album, Golden, released on November 3, 2023, through Big Hit Music.",
+      "Golden debuted at No. 2 on the US Billboard 200 and reached No. 3 on the UK Albums Chart.",
+      "Golden featured hit singles such as Seven featuring Latto, 3D featuring Jack Harlow and Standing Next to You."
+    ],
+    "entities": {
+      "people": [
+        "Jungkook",
+        "Code Kunst",
+        "Arpita Sarkar",
+        "Latto",
+        "Jack Harlow",
+        "Ed Sheeran",
+        "Shawn Mendes",
+        "Major Lazer",
+        "DJ Snake"
+      ],
+      "titles": [
+        "Prankster",
+        "Love Is Blind",
+        "Golden",
+        "Seven",
+        "3D",
+        "Standing Next to You"
+      ]
+    },
+    "keywords": [
+      "Jungkook Code Kunst Prankster",
+      "Love Is Blind Jungkook",
+      "BTS Jungkook soloist return",
+      "Code Kunst album December 3"
+    ],
+    "images": [
+      {
+        "url": "https://images.timesnownews.com/thumb/msid-156566359,thumbsize-259387,width-1280,height-720,resizemode-75/156566359.jpg",
+        "caption": "Jungkook Is Back? Fans Are Sure BTS Maknae Returning As Soloist - Here's Why",
+        "source": "Times Now — Entertainment"
+      }
+    ],
+    "published": "2026-11-26T03:52:12Z"
+  },
+  "1pwjzme": {
+    "id": "1pwjzme",
+    "type": "news",
+    "headline": "James Marsden Discusses the Trade-Off of Wearing His Comic-Accurate Cyclops Suit in Avengers: Doomsday",
+    "dek": "James Marsden returns as Scott Summers in Avengers: Doomsday, embracing a faithful comic look while dealing with a surprising drawback.",
+    "body": [
+      {
+        "h": "The Return of Scott Summers",
+        "p": [
+          "James Marsden is officially stepping back into the role of Scott Summers, reprising the iconic mutant leader for the upcoming crossover film Avengers: Doomsday. Fans of the actor's original portrayal in the 2000 X-Men film will recall his memorable retort to Wolverine regarding the team's traditional black leather uniforms versus yellow spandex. Now, over two decades later, the character is finally embracing a wardrobe that bridges the gap directly to the source material.",
+          "The inclusion of these classic aesthetics addresses years of eager fan anticipation for a visually faithful adaptation. Marsden has expressed genuine enthusiasm for delivering the exact imagery followers of the comics have demanded for generations, bringing a sense of full-circle fulfillment to his celebrated superhero career."
+        ]
+      },
+      {
+        "h": "A Surprising Trade-Off on Set",
+        "p": [
+          "While stepping into the comic-accurate costume was largely a dream come true, the wardrobe update came with a notable catch for the actor. Marsden revealed that the faithful design of his new visor severely restricts his field of vision during production. This unexpected trade-off significantly altered how he navigated the physical demands of playing the laser-shooting mutant.",
+          "Despite the visibility hurdles, the actor embraced the challenge in order to fully realize the character's visual potential. The new gear allows him to unleash massive optic power blasts on screen, capturing the striking poses and raw energy associated with the legendary comic panels."
+        ]
+      },
+      {
+        "h": "Recreating Classic Panels",
+        "p": [
+          "The aesthetic shift goes beyond mere wardrobe updates, bleeding directly into specific cinematic moments designed to mirror famous comic book covers. Marsden pointed to a particular sequence featured in the promotional footage where his character drops to his knees to unleash maximum power. This direct homage serves as a visual treat for long-time readers of the source material.",
+          "In addition to the action sequences, the character gets a prominent line previously reserved for the team's mentor, shouting the famous phrase 'To me, my X-Men.' This moment highlights the elevated leadership status Scott Summers commands within this massive multi-franchise crossover event."
+        ]
+      },
+      {
+        "h": "A Wider Mutant Reunion",
+        "p": [
+          "Marsden is far from the only familiar face returning from the original mutant cinematic universe to join the Marvel Cinematic Universe fold. He is joined by Patrick Stewart returning as Professor Xavier, alongside Ian McKellen as Magneto and Rebecca Romijn as Mystique. The cast also features Kelsey Grammer as Beast and Alan Cumming as Nightcrawler.",
+          "According to Romijn, the studio made a deliberate creative choice to outfit multiple classic mutant characters in much more comic-accurate attire rather than just focusing on the team leader. This sweeping redesign unifies the returning ensemble under a shared visual banner that honors their printed origins."
+        ]
+      },
+      {
+        "h": "Multiversal Scale and Direction",
+        "p": [
+          "The massive project is directed by Joe and Anthony Russo, tackling a chaotic narrative where different worlds collide as the Marvel multiverse collapses. The sheer scale of the production brings together legacy characters and modern MCU heroes in unprecedented ways. It represents a monumental convergence point for multiple cinematic franchises.",
+          "For Marsden, seeing the project actually come together required patience after years of endless speculation and rumors. The journey culminated in a formal call from Marvel Studios head Kevin Feige, turning years of hopeful wondering into an actual on-screen reality."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "James Marsden returns as Cyclops in Avengers: Doomsday, sporting a comic-accurate suit and visor that offer limited vision. He is joined by several original mutant cast members under the direction of Joe and Anthony Russo."
+        ]
+      }
+    ],
+    "facts": [
+      "James Marsden plays Cyclops / Scott Summers.",
+      "Avengers: Doomsday releases on December 18.",
+      "Patrick Stewart returns as Professor Xavier.",
+      "Ian McKellen returns as Magneto.",
+      "Rebecca Romijn returns as Mystique.",
+      "Kelsey Grammer returns as Beast.",
+      "Alan Cumming returns as Nightcrawler.",
+      "Joe and Anthony Russo are directing Avengers: Doomsday."
+    ],
+    "entities": {
+      "people": [
+        "James Marsden",
+        "Scott Summers",
+        "Wolverine",
+        "Professor Xavier",
+        "Patrick Stewart",
+        "Ian McKellen",
+        "Rebecca Romijn",
+        "Kelsey Grammer",
+        "Alan Cumming",
+        "Joe Russo",
+        "Anthony Russo",
+        "Kevin Feige"
+      ],
+      "titles": [
+        "Avengers: Doomsday",
+        "X-Men"
+      ]
+    },
+    "keywords": [
+      "James Marsden Cyclops",
+      "Avengers Doomsday comic accurate suit",
+      "Scott Summers Avengers Doomsday",
+      "James Marsden X-Men return"
+    ],
+    "images": [
+      {
+        "url": "https://www.comingsoon.net/wp-content/uploads/sites/3/2026/11/xmencyclops.webp?resize=1200,630",
+        "caption": "James Marsden Discusses the Trade-Off of Wearing His Comic-Accurate Cyclops Suit in Avengers: Doomsday",
+        "source": "ComingSoon.net"
+      }
+    ],
+    "published": "Thu, 26 Nov 2026 03:38:33 +0000"
   }
 };
