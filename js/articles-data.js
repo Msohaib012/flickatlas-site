@@ -253431,5 +253431,393 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "2026-11-26T11:18:40+05:30"
+  },
+  "qqd5hg": {
+    "id": "qqd5hg",
+    "type": "news",
+    "headline": "Shah Rukh Khan Starrer King Might Cross The Three-Hour Threshold After Two Decades",
+    "dek": "Recent listings on international platforms suggest that the Siddharth Anand directorial King could have a lengthy runtime of over three hours, marking a throwback to the superstar's earlier era.",
+    "body": [
+      {
+        "h": "Runtime Speculation Surrounds Highly Anticipated Project",
+        "p": [
+          "Anticipation continues to mount around superstar Shah Rukh Khan's upcoming venture, tentatively titled King, as new details regarding its length emerge. Earlier estimates pointed toward a much tighter duration of two and a half hours for the upcoming action entertainer.",
+          "However, recent updates showcased on the prominent American ticketing portal Fandango suggest a considerably more expansive cut. The listing has caught the attention of movie enthusiasts globally, indicating a substantial length for the big-screen spectacle."
+        ]
+      },
+      {
+        "h": "Potential Milestone for the Superstar",
+        "p": [
+          "Should this projected duration hold true upon official certification, it will represent a major milestone in the actor's modern filmography. It would officially establish the project as his longest feature film in two decades.",
+          "To find a comparable theatrical run in his extensive filmography, audiences must look back to the mid-2000s. Such lengths were once a standard hallmark of grand Bollywood storytelling before industry trends shifted toward faster-paced editing."
+        ]
+      },
+      {
+        "h": "Revisiting an Era of Extended Runtimes",
+        "p": [
+          "During the early portion of his career, particularly between 2000 and 2006, lengthy narratives were commonplace for the leading man. Several defining titles from that golden era comfortably exceeded the three-hour mark without losing audience engagement.",
+          "Memorable dramas and romances like Mohabbatein, Kabhi Khushi Kabhie Gham, Devdas, and Veer-Zaara offered sweeping storytelling canvases. Among these, Mohabbatein stands tall as one of the most extended cinematic experiences of his professional journey."
+        ]
+      },
+      {
+        "h": "Shifting Industry Trends Toward Brevity",
+        "p": [
+          "As time progressed, industry creators and studio executives increasingly gravitated toward crisper formats. Prevailing wisdom suggested that contemporary viewers possessed shorter attention spans and preferred fast-moving plots.",
+          "Consequently, subsequent box-office hits like Pathaan and Jawan adopted much tighter pacing. Even major releases like Jab Tak Hai Jaan and Happy New Year narrowly avoided crossing the three-hour threshold during their respective theatrical runs."
+        ]
+      },
+      {
+        "h": "Changing Viewer Appetites for Lengthy Stories",
+        "p": [
+          "Recent theatrical triumphs have effectively shattered the notion that modern crowds reject extended screen time. Massive box-office performances by sprawling epics have proven that viewers embrace lengthy narratives if the content remains compelling.",
+          "This evolving landscape creates an ideal environment for a grand action spectacle to utilize a longer duration. An expanded format offers creators the necessary breathing room to flesh out complex narratives properly."
+        ]
+      },
+      {
+        "h": "Scope for Ensemble Casts and Complex Action",
+        "p": [
+          "A runtime stretching beyond three hours provides immense advantages for a multi-layered production. It ensures that complex action choreography receives adequate screen presence alongside emotional sequences.",
+          "Furthermore, an extended canvas gives filmmakers ample opportunity to establish and develop every member of the supporting ensemble cast adequately, ensuring no character feels sidelined in the overarching plot."
+        ]
+      },
+      {
+        "h": "Pending Approval and Theatrical Launch",
+        "p": [
+          "While international ticketing listings offer an exciting preview, the official confirmation rests with domestic authorities. Industry followers await the final evaluation by the Central Board of Film Certification to verify the definitive cut.",
+          "The project is currently slated for a major theatrical rollout, keeping cinephiles on high alert as the late-year release window approaches rapidly."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Fandango listings indicate that Shah Rukh Khan's upcoming film King might run for 3 hours and 17 minutes, potentially making it his first film in 20 years to cross the three-hour mark since Kabhi Alvida Naa Kehna in 2006. This shift reflects a broader return to longer runtimes inspired by recent box office successes, giving creators ample room for action sequences and ensemble casts ahead of its December 24, 2026 release."
+        ]
+      }
+    ],
+    "facts": [
+      "King is expected to be 3 hours and 17 minutes long.",
+      "Shah Rukh Khan's last film over three hours was Kabhi Alvida Naa Kehna in 2006.",
+      "Mohabbatein had a runtime of 3 hours and 35 minutes.",
+      "Pathaan had a runtime of 2 hours and 26 minutes.",
+      "Jawan had a runtime of 2 hours and 49 minutes.",
+      "King is scheduled to release in cinemas on December 24, 2026."
+    ],
+    "entities": {
+      "people": [
+        "Shah Rukh Khan",
+        "Siddharth Anand",
+        "Karan Johar"
+      ],
+      "titles": [
+        "King",
+        "Kabhi Alvida Naa Kehna",
+        "Mohabbatein",
+        "Kabhi Khushi Kabhie Gham",
+        "Devdas",
+        "Kal Ho Naa Ho",
+        "Veer-Zaara",
+        "Swades",
+        "Jab Tak Hai Jaan",
+        "Happy New Year",
+        "Pathaan",
+        "Jawan"
+      ]
+    },
+    "keywords": [
+      "Shah Rukh Khan",
+      "King film runtime",
+      "Fandango King movie",
+      "Siddharth Anand King"
+    ],
+    "images": [
+      {
+        "url": "https://stat4.bollywoodhungama.in/wp-content/uploads/2026/11/King-1.jpg",
+        "caption": "Shah Rukh Khan Starrer King Might Cross The Three-Hour Threshold After Two Decades",
+        "source": "Bollywood Hungama"
+      }
+    ],
+    "published": "Thu, 26 Nov 2026 12:38:36 +0200"
+  },
+  "1e6orq9": {
+    "id": "1e6orq9",
+    "type": "news",
+    "headline": "Cast of SBS Romance Drama Nine to Six Shares Excitement in First Filming Footage",
+    "dek": "Park Min Young, Yook Sungjae, Go Soo, and Joo Hyun Young discuss their new roles and behind-the-scenes thoughts in a newly released making-of video for the upcoming series.",
+    "body": [
+      {
+        "h": "Behind the Scenes of the Opening Shoot",
+        "p": [
+          "The production team behind the SBS series Nine to Six has provided audiences with an exclusive look behind the camera through a newly published making-of video. This special footage captures the principal cast members as they step onto the set for their very first day of shooting, offering fans a glimpse into the early stages of production. Alongside the visual preview, the actors take time to discuss their initial impressions and the emotions tied to launching a major television project.",
+          "As the cameras begin to roll on various sequences, the atmosphere on set is a blend of professional focus and lighthearted anticipation. The cast members share insights into how they are approaching their respective characters, establishing the tone for the upcoming romantic storyline. This behind-the-scenes release serves as an introduction to the professional dynamics and personal energy driving the new drama forward."
+        ]
+      },
+      {
+        "h": "Park Min Young Returns to the Office Drama Genre",
+        "p": [
+          "Leading lady Park Min Young steps into the shoes of Kang Yi Ji, a dedicated workaholic who has historically sidelined romance in favor of her professional ambitions. Her perspective shifts dramatically upon crossing paths with the thoughtful and compassionate Han Sun Woo, allowing her to explore emotional growth alongside career progression. This project marks a notable return to workplace settings for the actress.",
+          "Reflecting on her wardrobe and character requirements, Park Min Young notes her excitement about donning professional suits once again after a hiatus from office-centric narratives. With a cheerful laugh, she also acknowledges that the journey ahead will likely present various demanding obstacles, humorously predicting that the upcoming shoot will test the cast and crew."
+        ]
+      },
+      {
+        "h": "Yook Sungjae Relates to His Character's First-Day Jitters",
+        "p": [
+          "Actor Yook Sungjae takes on the role of Han Sun Woo, the warm-hearted counterpart who helps guide Kang Yi Ji toward embracing love and balance. His character serves as a stabilizing and thoughtful presence in the narrative, fostering mutual personal development between the two leads as they navigate the complexities of their careers and relationship.",
+          "Sharing his personal experience on the opening day of production, Yook Sungjae admits that he is experiencing a genuine sense of apprehension. He draws a direct parallel between his own feelings and those of his character, noting that stepping onto the set for the first time mirrors the exact nervousness Sun Woo feels on his initial day at work."
+        ]
+      },
+      {
+        "h": "Contributions from Supporting Stars Go Soo and Joo Hyun Young",
+        "p": [
+          "The supporting cast brings additional depth to the production, featuring seasoned actor Go Soo in the role of Park Hyun Tae. Sharing his thoughts on the working environment, Go Soo expresses a strong sense of comfort and alignment with the production atmosphere, noting that he feels an excellent natural chemistry between himself and the set.",
+          "Meanwhile, Joo Hyun Young takes on the character of Shin Ji Won, adding another layer to the unfolding drama. When discussing her preparation and character arc, Joo Hyun Young remarks that she is still discovering all the nuances of her role, emphasizing that her character will truly find her complete identity through her interactions with her husband and Yi Ji."
+        ]
+      },
+      {
+        "h": "Broadcast Details and Previous Works",
+        "p": [
+          "The upcoming broadcast schedule indicates that the next episode of Nine to Six is slated to air on November 26 at 9 p.m. KST, keeping viewers eagerly awaiting the next developments in the plot. Fans looking to explore the prior filmography of the lead actors can find related projects streaming across platforms, such as Park Min Young's work in Love in Contract and Yook Sungjae's appearance in The Haunted Palace."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "The SBS romance drama Nine to Six has released a making-of video showing the cast during their first day of filming on November 26 at 9 p.m. KST. Actors Park Min Young, Yook Sungjae, Go Soo, and Joo Hyun Young shared their thoughts and nerves regarding their new roles in the upcoming series."
+        ]
+      }
+    ],
+    "facts": [
+      "SBS drama Nine to Six released a new making-of video on November 26, 2026.",
+      "Park Min Young stars as Kang Yi Ji, a workaholic.",
+      "Yook Sungjae plays Han Sun Woo.",
+      "Go Soo plays Park Hyun Tae.",
+      "Joo Hyun Young plays Shin Ji Won.",
+      "The next episode of Nine to Six airs on November 26 at 9 p.m. KST.",
+      "Park Min Young previously starred in Love in Contract.",
+      "Yook Sungjae previously starred in The Haunted Palace."
+    ],
+    "entities": {
+      "people": [
+        "Park Min Young",
+        "Yook Sungjae",
+        "Go Soo",
+        "Joo Hyun Young",
+        "Kang Yi Ji",
+        "Han Sun Woo",
+        "Park Hyun Tae",
+        "Shin Ji Won",
+        "R Suhaila"
+      ],
+      "titles": [
+        "Nine to Six",
+        "Love in Contract",
+        "The Haunted Palace"
+      ]
+    },
+    "keywords": [
+      "Nine to Six drama",
+      "Park Min Young Nine to Six",
+      "Yook Sungjae Nine to Six",
+      "Go Soo Joo Hyun Young"
+    ],
+    "images": [
+      {
+        "url": "https://0.soompi.io/wp-content/uploads/2026/11/26133204/nine-to-six-7.jpg",
+        "caption": "Cast of SBS Romance Drama Nine to Six Shares Excitement in First Filming Footage",
+        "source": "Soompi"
+      }
+    ],
+    "published": "Thu, 26 Nov 2026 07:49:30 +0000"
+  },
+  "1mjj2bl": {
+    "id": "1mjj2bl",
+    "type": "news",
+    "headline": "Vinod Kapri's 'Pyre' Sets Official Release Dates for the UAE and the United Kingdom",
+    "dek": "Filmmaker Vinod Kapri's acclaimed feature 'Pyre' is expanding its theatrical run internationally, heading to cinemas in the UAE and the UK later this year.",
+    "body": [
+      {
+        "h": "International Theatrical Expansion",
+        "p": [
+          "Director Vinod Kapri's critically acclaimed cinematic project 'Pyre' is officially extending its geographic reach to international territories. The motion picture has locked in upcoming theatrical release schedules for audiences residing abroad, specifically targeting viewers in the Middle East and Europe.",
+          "This global rollout follows the film's earlier domestic theatrical run, giving international diaspora and foreign cinema enthusiasts a chance to experience the narrative on the big screen. The move marks an important step for the independent feature as it ventures into competitive overseas markets."
+        ]
+      },
+      {
+        "h": "UAE and UK Premiere Dates",
+        "p": [
+          "The international journey begins in the United Arab Emirates, where 'Pyre' is scheduled to land in local theatres on November 27. Following its Middle Eastern debut, the movie will cross over to European shores for its United Kingdom premiere.",
+          "British audiences will be able to watch the film in cinemas starting December 11. These strategic calendar dates have been officially confirmed through promotional press statements outlining the international distribution plan."
+        ]
+      },
+      {
+        "h": "Handling Overseas Distribution",
+        "p": [
+          "Bringing an independent film across international borders requires specialized distribution partnerships. For the upcoming UAE screenings, Deepa Bharath has taken charge of steering the film's regional release strategy and logistical rollout.",
+          "Meanwhile, the United Kingdom theatrical distribution is being managed by ReelIn UK, spearheaded by Amandeep Dhillon. Both distribution leads have expressed immense pride in introducing the project to foreign moviegoers."
+        ]
+      },
+      {
+        "h": "Setting and Central Themes",
+        "p": [
+          "Geographically, 'Pyre' unfolds against the majestic yet challenging backdrop of the Kumaon Himalayas. The narrative dives deeply into the pressing socio-economic issue of migration from remote Himalayan mountain villages.",
+          "Beyond structural displacement, the storyline closely examines the enduring power of love and deep-rooted human companionship. It highlights how these emotional bonds persist even during the later stages of life."
+        ]
+      },
+      {
+        "h": "Cast and Creative Approach",
+        "p": [
+          "To capture an authentic rural tone, the production features fresh faces in its lead roles. Debut actors Padam Singh Kapri and Heera Devi lead the cast, bringing raw portrayals to the screen.",
+          "Director Vinod Kapri noted that the entire creative team poured immense honesty and emotion into crafting the project. This organic approach has evidently translated into a production deeply grounded in realism."
+        ]
+      },
+      {
+        "h": "Director and Distributor Sentiments",
+        "p": [
+          "Filmmaker Vinod Kapri shared his genuine delight regarding the enthusiastic reception the movie has garnered so far, calling the audience response overwhelming. He noted that watching the film's journey extend beyond national boundaries feels exceptionally special.",
+          "Similarly, distributors Deepa Bharath and Amandeep Dhillon remarked that the cinematic piece successfully transcends geographic borders. They voiced high hopes that the universal themes of relationships and human connection will strongly resonate with diverse international viewers."
+        ]
+      },
+      {
+        "h": "Festivals and Prior Screenings",
+        "p": [
+          "Before setting its sights on foreign box offices, 'Pyre' was released theatrically within India on October 30. The feature has also traveled extensively through the global film festival circuit.",
+          "It has accumulated a staggering 18 international awards, which include 15 Best Film honours earned at events across Washington D.C., Chicago, Canada, Spain, Boston, Stuttgart, London, and Birmingham. Additionally, Vinod Kapri personally secured the Best Director trophy at film festivals held in Serbia and Boston."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Filmmaker Vinod Kapri's critically acclaimed movie 'Pyre' is expanding globally with scheduled theatrical releases in the UAE on November 27 and the UK on December 11, handled by distributors Deepa Bharath and Amandeep Dhillon. Set against the Kumaon Himalayas and starring debut actors Padam Singh Kapri and Heera Devi, the film explores rural migration and enduring love after earning 18 international awards following its Indian release on October 30."
+        ]
+      }
+    ],
+    "facts": [
+      "Vinod Kapri directed 'Pyre'.",
+      "'Pyre' releases in the UAE on November 27, 2026.",
+      "'Pyre' releases in the UK on December 11, 2026.",
+      "Deepa Bharath handles the UAE distribution.",
+      "Amandeep Dhillon's ReelIn UK distributes the film in the United Kingdom.",
+      "The cast features debut actors Padam Singh Kapri and Heera Devi.",
+      "The film is set against the backdrop of the Kumaon Himalayas.",
+      "'Pyre' was released theatrically in India on October 30, 2026.",
+      "The film has won 18 international awards, including 15 Best Film honours.",
+      "Vinod Kapri received the Best Director award at film festivals in Serbia and Boston."
+    ],
+    "entities": {
+      "people": [
+        "Vinod Kapri",
+        "Padam Singh Kapri",
+        "Heera Devi",
+        "Deepa Bharath",
+        "Amandeep Dhillon"
+      ],
+      "titles": [
+        "Pyre"
+      ]
+    },
+    "keywords": [
+      "Vinod Kapri Pyre",
+      "Pyre UAE UK release",
+      "Pyre film international release",
+      "Padam Singh Kapri Heera Devi Pyre"
+    ],
+    "images": [
+      {
+        "url": "https://www.hindustantimes.com/ht-img/img/2025/07/20/1600x900/logo/1_1752988880768_1752988881613.jpeg",
+        "caption": "Vinod Kapri's 'Pyre' Sets Official Release Dates for the UAE and the United Kingdom",
+        "source": "Hindustan Times — Entertainment"
+      }
+    ],
+    "published": "Thu, 26 Nov 2026 13:18:06 +0530"
+  },
+  "tfgpt0": {
+    "id": "tfgpt0",
+    "type": "news",
+    "headline": "Pop Duo Bros Announce First UK Tour in a Decade with Final Pre-Sale Tickets Going Live",
+    "dek": "Iconic 1980s pop group Bros are returning to the UK stage for a 2027 tour, marking their first major run of shows in ten years.",
+    "body": [
+      {
+        "h": "The Return of Brosmania",
+        "p": [
+          "Pop music fans across the United Kingdom are celebrating the official comeback of Bros, as the legendary duo prepares to hit the road once again. Known universally for chart-topping pop anthems such as When Will I Be Famous?, I Owe You Nothing, and Drop the Boy, the group is setting up a comprehensive 10-date tour across various major British venues.",
+          "This upcoming concert series represents the first major outing for the siblings in a decade, bringing back the intense wave of fandom famously known as Brosmania. Followers of the duo are eager to secure their spots for these rare live performances."
+        ]
+      },
+      {
+        "h": "Historic Homecoming at Wembley Arena",
+        "p": [
+          "A standout highlight of the 2027 itinerary is the group's massive homecoming performance at Wembley Arena in London. This upcoming concert marks their first appearance at the iconic venue since August 1989.",
+          "During that historic 1989 concert, members Matt and Luke Goss drew a massive crowd of 77,000 attendees, earning them the distinction of being the youngest band to ever headline the famous venue. Returning to Wembley adds an immense layer of nostalgia and milestone significance to the modern tour."
+        ]
+      },
+      {
+        "h": "Brotherhood and the Oasis Inspiration",
+        "p": [
+          "The decision to reunite for another major tour was partly inspired by another famous sibling rivalry and reconciliation in the music world. In an interview with Magic FM, Matt and Luke revealed that watching the Oasis reunion deeply resonated with them.",
+          "They noted that seeing the Gallagher brothers get back together highlighted the truth of their own sibling bond and love for one another. Embracing their brotherhood is central to why they chose to take the stage together again."
+        ]
+      },
+      {
+        "h": "Pre-Sale Access and Ticket Availability",
+        "p": [
+          "Fans looking to secure seats early can take advantage of multiple pre-sale options that are currently live. These include O2 Priority access for the Manchester and Newcastle dates, alongside artist pre-sales and venue-specific opportunities.",
+          "General sale tickets for all ten shows are scheduled to open at 9 am on Friday, 27 November. Due to the exceptionally high demand historically associated with the duo, buyers are encouraged to act quickly when purchasing through platforms like Ticketmaster and AXS."
+        ]
+      },
+      {
+        "h": "Comprehensive 2027 Tour Dates",
+        "p": [
+          "The 10-city tour spans across multiple regions of the United Kingdom throughout late 2027. The schedule begins on 20 November at the Portsmouth Guildhall and moves through cities including Birmingham, Sheffield, Brighton, Bath, Derby, Glasgow, and Newcastle.",
+          "The final two stops of the tour take place at the OVO Arena Wembley in London on 3 December, followed by the concluding show at the O2 Apollo in Manchester on 4 December."
+        ]
+      },
+      {
+        "h": "Past Reunion History and High Demand",
+        "p": [
+          "The duo previously reunited back in 2017 for a special tour, though that run experienced some logistical challenges that led to dates outside London and Manchester being cancelled. Despite those hurdles, the demand for their live performances remains intense.",
+          "When tickets for their previous London reunion show went on sale, they sold out in a staggering seven seconds. Organizers expect similarly fierce competition for the 2027 dates, especially for the London homecoming event."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Pop duo Bros are returning for a 10-date UK tour in 2027, marking their first major concert series in a decade. Inspired by other high-profile musical reunions, the brothers are set to perform at notable venues, including a historic homecoming at Wembley Arena."
+        ]
+      }
+    ],
+    "facts": [
+      "Bros are embarking on a 10-show UK tour in the year 2027.",
+      "The tour features a homecoming show at Wembley Arena, marking their first performance there since August 1989.",
+      "The 1989 Wembley show drew 77,000 fans.",
+      "Matt and Luke Goss previously reunited for a tour in 2017.",
+      "General sale tickets for the 2027 tour go live at 9 am on Friday 27 November.",
+      "Original member Craig Logan left the band in 1989, and the group broke up in 1992."
+    ],
+    "entities": {
+      "people": [
+        "Matt Goss",
+        "Luke Goss",
+        "Craig Logan",
+        "Gallagher brothers"
+      ],
+      "titles": [
+        "When Will I Be Famous?",
+        "I Owe You Nothing",
+        "Drop the Boy"
+      ]
+    },
+    "keywords": [
+      "Bros UK tour",
+      "Bros tickets 2027",
+      "Matt and Luke Goss",
+      "Bros Wembley Arena concert"
+    ],
+    "images": [
+      {
+        "url": "https://images.production.immediate.co.uk/volatile/sites/3/2026/11/bros-reunion-tour-tickets-57dbcde.jpg?resize=1200%2C630",
+        "caption": "Pop Duo Bros Announce First UK Tour in a Decade with Final Pre-Sale Tickets Going Live",
+        "source": "Radio Times"
+      }
+    ],
+    "published": "Thu, 26 Nov 2026 08:00:43 GMT"
   }
 };
