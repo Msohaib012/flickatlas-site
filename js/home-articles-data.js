@@ -37,6 +37,124 @@ window.FA_HOME_ARTICLES = {
     ],
     "published": "Thu, 26 Nov 2026 16:25:15 +0200"
   },
+  "l4jojn": {
+    "id": "l4jojn",
+    "type": "news",
+    "headline": "Ramayana Box Office Collection Slows Down Near 1000 Crore Mark on Day 22",
+    "dek": "Nitesh Tiwari's mythological epic Ramayana faces a major slowdown in its fourth week, failing to touch double digits as trade expert Sumit Kadel analyzes its true footfalls and budget comparison.",
+    "entities": {
+      "people": [
+        "Nitesh Tiwari",
+        "Ranbir Kapoor",
+        "Sai Pallavi",
+        "Yash",
+        "Ravi Dubey",
+        "Arun Govil",
+        "Lara Dutta",
+        "Rakul Preet Singh",
+        "Sumit Kadel"
+      ],
+      "titles": [
+        "Ramayana",
+        "Dhurandhar 2",
+        "Jawan",
+        "Pathaan",
+        "Baahubali 2",
+        "Gadar 2",
+        "Dhurandhar 1",
+        "Stree 2",
+        "Animal",
+        "Chhaava"
+      ]
+    },
+    "keywords": [
+      "Ramayana box office collection",
+      "Ramayana day 22 collection",
+      "Ramayana Nitesh Tiwari",
+      "Sumit Kadel Ramayana footfalls"
+    ],
+    "images": [
+      {
+        "url": "https://images.filmibeat.com/img/2026/11/ramayanaboxofficefeature-24001795695573.jpg",
+        "caption": "Ramayana Box Office Collection Slows Down Near 1000 Crore Mark on Day 22",
+        "source": "FilmiBeat"
+      }
+    ],
+    "published": "Thu, 26 Nov 2026 17:50:43 +0530"
+  },
+  "1q96qsj": {
+    "id": "1q96qsj",
+    "type": "news",
+    "headline": "Ramayana Boosts Tourism at Jatayu Rock as India Pitches Global Productions at WAVES Film Bazaar",
+    "dek": "At the WAVES Film Bazaar panel, Indian officials and producers discussed the country's growing appeal as a global production hub, highlighting how Nitesh Tiwari's Ramayana doubled visitor traffic at Kerala's Jatayu Rock.",
+    "entities": {
+      "people": [
+        "Nitesh Tiwari",
+        "Harikishore S.",
+        "Ravana",
+        "Prithul Kumar",
+        "Alan McAlex",
+        "Sunita Ram",
+        "Jatayu"
+      ],
+      "titles": [
+        "Ramayana",
+        "Santosh",
+        "Sister Midnight",
+        "A Suitable Boy",
+        "120 Bahadur",
+        "Bombay"
+      ]
+    },
+    "keywords": [
+      "Ramayana film",
+      "Jatayu Rock tourism",
+      "WAVES Film Bazaar",
+      "India Cine Hub portal",
+      "Nitesh Tiwari Ramayana"
+    ],
+    "images": [
+      {
+        "url": "https://variety.com/wp-content/uploads/2026/11/Jatayu-Rock.jpg?w=1000&#038;h=563&#038;crop=1",
+        "caption": "Ramayana Boosts Tourism at Jatayu Rock as India Pitches Global Productions at WAVES Film Bazaar",
+        "source": "Variety"
+      }
+    ],
+    "published": "Thu, 26 Nov 2026 12:13:56 +0000"
+  },
+  "qp2rbi": {
+    "id": "qp2rbi",
+    "type": "news",
+    "headline": "Mumbai Authorities on High Alert After Threatening Email Targets Mayor's Office and Amitabh Bachchan's Residence",
+    "dek": "A concerning email sent to top municipal officials warned of potential explosive devices planted at multiple prominent spots across Mumbai, including Amitabh Bachchan's Jalsa bungalow and the Mayor's office.",
+    "entities": {
+      "people": [
+        "Amitabh Bachchan",
+        "Ritu Tawde",
+        "Ashwini Bhide",
+        "Abhishek Bachchan",
+        "Rajinikanth"
+      ],
+      "titles": [
+        "Kaun Banega Crorepati",
+        "Vettaiyan"
+      ]
+    },
+    "keywords": [
+      "Amitabh Bachchan Jalsa bomb threat",
+      "Mumbai Mayor office threat",
+      "Ritu Tawde Ashwini Bhide email",
+      "Jalsa bungalow security Mumbai"
+    ],
+    "images": [
+      {
+        "url": "https://static.toiimg.com/thumb/msid-136191221,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "caption": "Mumbai Authorities on High Alert After Threatening Email Targets Mayor's Office and Amitabh Bachchan's Residence",
+        "source": "Times of India — Entertainment"
+      }
+    ],
+    "published": "2026-11-26T17:39:29+05:30"
+  },
   "14kbfrk": {
     "id": "14kbfrk",
     "type": "news",
@@ -150,6 +268,65 @@ window.FA_HOME_ARTICLES = {
       }
     ],
     "published": "Thu, 26 Nov 2026 11:36:12 GMT"
+  },
+  "ctwqlz": {
+    "id": "ctwqlz",
+    "type": "news",
+    "headline": "From Season 5: Everything We Know About the Final Chapter",
+    "dek": "Production has wrapped on the fifth and final season of the hit horror series From, bringing answers to the mysterious cursed town.",
+    "entities": {
+      "people": [
+        "David Craig",
+        "Harold Perrineau",
+        "John Griffin",
+        "Jeff Pinkner",
+        "Jack Bender",
+        "Catalina Sandino Moreno",
+        "Hannah Cheramy",
+        "Simon Webster",
+        "Ricky He",
+        "Chloe Van Landschoot",
+        "Corteon Moore",
+        "Pegah Ghafoori",
+        "David Alpay",
+        "Elizabeth Saunders",
+        "Avery Konrad",
+        "Scott McCord",
+        "AJ Simmons"
+      ],
+      "titles": [
+        "From",
+        "The Affair",
+        "Van Helsing",
+        "Strays",
+        "The Good Doctor",
+        "Charity",
+        "Overcompensating",
+        "The Perfect Wedding",
+        "Castle Rock",
+        "Clarice",
+        "Honor Society",
+        "East of Middle West",
+        "Reacher",
+        "Stranger Things",
+        "Game of Thrones",
+        "Lost"
+      ]
+    },
+    "keywords": [
+      "From season 5",
+      "Harold Perrineau From",
+      "From release date 2027",
+      "MGM+ From series"
+    ],
+    "images": [
+      {
+        "url": "https://images.production.immediate.co.uk/volatile/sites/3/2026/06/from-harold-4-b660479.jpg?resize=1200%2C630",
+        "caption": "From Season 5: Everything We Know About the Final Chapter",
+        "source": "Radio Times"
+      }
+    ],
+    "published": "Thu, 26 Nov 2026 11:15:33 GMT"
   },
   "tm190b": {
     "id": "tm190b",
@@ -4659,139 +4836,6 @@ window.FA_HOME_ARTICLES = {
     ],
     "published": "Wed, 25 Nov 2026 05:14:38 +0000"
   },
-  "fmtexu": {
-    "id": "fmtexu",
-    "type": "news",
-    "headline": "Sung Hoon And Oh Se Young Navigate Rising Tension In What A Boss Wants",
-    "dek": "Fresh preview stills from What a Boss Wants showcase a close encounter and growing emotional friction between Sung Hoon and Oh Se Young ahead of the next broadcast.",
-    "entities": {
-      "people": [
-        "Sung Hoon",
-        "Oh Se Young",
-        "E Ezeji",
-        "Lee Choong Joo",
-        "Kim Jae In"
-      ],
-      "titles": [
-        "What a Boss Wants"
-      ]
-    },
-    "keywords": [
-      "What a Boss Wants drama",
-      "Sung Hoon What a Boss Wants",
-      "Oh Se Young What a Boss Wants",
-      "What a Boss Wants preview"
-    ],
-    "images": [
-      {
-        "url": "https://0.soompi.io/wp-content/uploads/2026/11/25125916/what-a-boss-wants_bbff3f.jpg",
-        "caption": "Sung Hoon And Oh Se Young Navigate Rising Tension In What A Boss Wants",
-        "source": "Soompi"
-      }
-    ],
-    "published": "Wed, 25 Nov 2026 05:10:35 +0000"
-  },
-  "ksn7b0": {
-    "id": "ksn7b0",
-    "type": "news",
-    "headline": "Stargate Franchise Set For December 2026 Return With Two Major Collectibles",
-    "dek": "Master Replicas is launching two iconic prop replicas from the classic sci-fi series ahead of a wider franchise revival.",
-    "entities": {
-      "people": [
-        "Apophis",
-        "Teal'c",
-        "Samantha Carter",
-        "Chris Carter"
-      ],
-      "titles": [
-        "Stargate SG-1",
-        "Stargate"
-      ]
-    },
-    "keywords": [
-      "Stargate SG-1 collectibles",
-      "Master Replicas Stargate December 2026",
-      "Serpent Guard Helmet replica",
-      "MaTok staff replica Stargate",
-      "Amazon MGM Stargate revival"
-    ],
-    "images": [
-      {
-        "url": "https://static0.srcdn.com/wordpress/wp-content/uploads/2026/10/stargate-sg-1-horus-guard-image.jpg?w=1600&amp;h=900&amp;fit=crop",
-        "caption": "Stargate Franchise Set For December 2026 Return With Two Major Collectibles",
-        "source": "Screen Rant"
-      }
-    ],
-    "published": "Wed, 25 Nov 2026 05:01:19 GMT"
-  },
-  "15943hm": {
-    "id": "15943hm",
-    "type": "news",
-    "headline": "Kevin Feige Reveals Doctor Doom Was Always Part of the MCU Plan for Secret Wars",
-    "dek": "Marvel Studios head Kevin Feige clarifies that Doctor Doom was planned for Secret Wars long before the Jonathan Majors controversy prompted a shift to a Doom-centered narrative.",
-    "entities": {
-      "people": [
-        "Kevin Feige",
-        "Jonathan Majors",
-        "Robert Downey Jr.",
-        "Abhimanyu Mathur"
-      ],
-      "titles": [
-        "Avengers: Doomsday",
-        "Avengers: Kang Dynasty",
-        "Ant-Man and the Wasp: Quantumania",
-        "Secret Wars"
-      ]
-    },
-    "keywords": [
-      "Kevin Feige Doctor Doom",
-      "Avengers Doomsday release date",
-      "Robert Downey Jr Doctor Doom",
-      "Secret Wars MCU plans",
-      "Jonathan Majors Kang fallout"
-    ],
-    "images": [
-      {
-        "url": "https://www.hindustantimes.com/ht-img/img/2026/11/25/1600x900/logo/Doomsday_1776858889593_1776858910794_1795578518727_VPOz_13836a59-53d5-4bdc-b9b0-f4ce88ba2905_ajtZ.jpg",
-        "caption": "Kevin Feige Reveals Doctor Doom Was Always Part of the MCU Plan for Secret Wars",
-        "source": "Hindustan Times — Entertainment"
-      }
-    ],
-    "published": "Wed, 25 Nov 2026 10:15:52 +0530"
-  },
-  "1kcbpb0": {
-    "id": "1kcbpb0",
-    "type": "news",
-    "headline": "Avengers Doomsday Advance Booking Crosses Rs 60 Crore Mark in India",
-    "dek": "The upcoming Marvel superhero film Avengers: Doomsday has surpassed Rs 60 crore in advance ticket sales across India following the release of its final trailer.",
-    "entities": {
-      "people": [
-        "Anthony Russo",
-        "Joe Russo",
-        "Robert Downey Jr."
-      ],
-      "titles": [
-        "Avengers: Doomsday",
-        "Avengers",
-        "X-Men",
-        "Fantastic Four"
-      ]
-    },
-    "keywords": [
-      "Avengers Doomsday advance booking",
-      "Avengers Doomsday box office India",
-      "Avengers Doomsday trailer views",
-      "Robert Downey Jr Doctor Doom"
-    ],
-    "images": [
-      {
-        "url": "https://static.toiimg.com/thumb/msid-136147965,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "caption": "Avengers Doomsday Advance Booking Crosses Rs 60 Crore Mark in India",
-        "source": "Times of India — Entertainment"
-      }
-    ],
-    "published": "2026-11-25T09:53:38+05:30"
-  },
   "1ypg7z1": {
     "id": "1ypg7z1",
     "type": "news",
@@ -5594,6 +5638,46 @@ window.FA_HOME_ARTICLES = {
       }
     ],
     "published": "2026-11-20T14:45:34Z"
+  },
+  "15eqb9k": {
+    "id": "15eqb9k",
+    "type": "news",
+    "headline": "How to Purchase Grand Theft Auto VI for Sony PS5 and Xbox Online",
+    "dek": "Rockstar Games has finally launched the long-awaited title for current-generation consoles, complete with purchasing options across major online retailers.",
+    "entities": {
+      "people": [
+        "Future",
+        "Metro Boomin",
+        "Yung Lean",
+        "Travis Scott",
+        "CA7RIEL",
+        "Paco Amoroso",
+        "PinkPantheress",
+        "Fred again..",
+        "Etienne de Crécy",
+        "Morgan Wallen",
+        "Rauw Alejandro",
+        "Keith Richards"
+      ],
+      "titles": [
+        "Grand Theft Auto VI",
+        "GTA 5"
+      ]
+    },
+    "keywords": [
+      "Grand Theft Auto VI",
+      "GTA 6 PS5 Xbox",
+      "Rockstar Games GTA 6",
+      "GTA 6 soundtrack"
+    ],
+    "images": [
+      {
+        "url": "https://www.billboard.com/wp-content/uploads/2026/11/Grand-Theft-Auto-VI-Vice-City-Hero-Billboard-1548.jpg?w=1024",
+        "caption": "How to Purchase Grand Theft Auto VI for Sony PS5 and Xbox Online",
+        "source": "Billboard"
+      }
+    ],
+    "published": "Thu, 19 Nov 2026 20:53:18 +0000"
   },
   "uaxxk7": {
     "id": "uaxxk7",

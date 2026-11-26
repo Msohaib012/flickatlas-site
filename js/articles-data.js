@@ -255412,5 +255412,404 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Thu, 26 Nov 2026 11:36:12 GMT"
+  },
+  "ctwqlz": {
+    "id": "ctwqlz",
+    "type": "news",
+    "headline": "From Season 5: Everything We Know About the Final Chapter",
+    "dek": "Production has wrapped on the fifth and final season of the hit horror series From, bringing answers to the mysterious cursed town.",
+    "body": [
+      {
+        "h": "Production Updates and Release Window",
+        "p": [
+          "The horror series From is officially returning for its final run, with production having recently wrapped in Nova Scotia. While an exact premiere date has not yet been locked in, MGM+ confirmed a 2027 launch window when it formally renewed the show for its final season in April 2026, mere days after season 4 began.",
+          "Given the typical timeframe between the completion of filming and a season premiere, industry watchers speculate that viewers might see a debut as early as May 2027. Fans have been eagerly tracking every update regarding the horror title as it prepares to wrap up its overarching narrative."
+        ]
+      },
+      {
+        "h": "Makers Promise a Conclusion to the Mystery",
+        "p": [
+          "Series bosses John Griffin, Jeff Pinkner, and Jack Bender issued a joint statement expressing their wild excitement about officially beginning work on season five. They noted that this final chapter gives them the chance to see their story through to its conclusion.",
+          "According to the creators, the upcoming episodes will ensure that lingering questions are finally answered, even as new inquiries are raised. They promised a cascade of tears and terrors along the way as the trapped residents face the ultimate test."
+        ]
+      },
+      {
+        "h": "Returning Cast and Ensemble Members",
+        "p": [
+          "While a complete official cast list for the final outing has not been fully detailed, key performers are confirmed to return. Harold Perrineau will lead the ensemble once again as Sheriff Boyd Stevens, remaining a central focus of the plot.",
+          "The wider recurring and ensemble line-up features a host of familiar faces, including Catalina Sandino Moreno, David Alpay, Elizabeth Saunders, Scott McCord, Hannah Cheramy, Simon Webster, Ricky He, Chloe Van Landschoot, and Corteon Moore."
+        ]
+      },
+      {
+        "h": "Tackling the Tangled Web of Secrets",
+        "p": [
+          "Season 5 carries the heavy responsibility of resolving the show's intricate network of mysteries, offering satisfying closure to viewers who have spent years speculating. Star Harold Perrineau pointed out that the delayed gratification has always been a key part of the creative appeal.",
+          "Perrineau praised John Griffin's writing style, teasing that subtle clues planted early on will pay off in slick ways. Audiences remain hopeful that the series can successfully avoid the stumbling blocks that occasionally affected other major genre shows."
+        ]
+      },
+      {
+        "h": "Where to Watch and Stream",
+        "p": [
+          "Viewers looking to catch up on previous episodes or prepare for the final chapter can find the series available on platforms like MGM+, Sky One, and NOW. Fans can also add the series to their watchlists through dedicated TV guidance apps for regular updates.",
+          "As anticipation builds for the final batch of episodes, updates regarding trailers and exact scheduling continue to be heavily anticipated across entertainment outlets and streaming guides."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Production has officially wrapped on the fifth and final season of the horror series From, which is set to premiere in 2027 on MGM+. Creators John Griffin, Jeff Pinkner, and Jack Bender have promised that the final chapter will answer long-standing questions and bring the cursed town's story to a definitive conclusion with Harold Perrineau returning as Sheriff Boyd Stevens."
+        ]
+      }
+    ],
+    "facts": [
+      "Production recently wrapped on season 5 of From in Nova Scotia.",
+      "MGM+ renewed From for a final season in April 2026.",
+      "Season 5 is scheduled to premiere at some point in 2027.",
+      "Harold Perrineau stars as Sheriff Boyd Stevens.",
+      "The series is created and led by bosses John Griffin, Jeff Pinkner, and Jack Bender."
+    ],
+    "entities": {
+      "people": [
+        "David Craig",
+        "Harold Perrineau",
+        "John Griffin",
+        "Jeff Pinkner",
+        "Jack Bender",
+        "Catalina Sandino Moreno",
+        "Hannah Cheramy",
+        "Simon Webster",
+        "Ricky He",
+        "Chloe Van Landschoot",
+        "Corteon Moore",
+        "Pegah Ghafoori",
+        "David Alpay",
+        "Elizabeth Saunders",
+        "Avery Konrad",
+        "Scott McCord",
+        "AJ Simmons"
+      ],
+      "titles": [
+        "From",
+        "The Affair",
+        "Van Helsing",
+        "Strays",
+        "The Good Doctor",
+        "Charity",
+        "Overcompensating",
+        "The Perfect Wedding",
+        "Castle Rock",
+        "Clarice",
+        "Honor Society",
+        "East of Middle West",
+        "Reacher",
+        "Stranger Things",
+        "Game of Thrones",
+        "Lost"
+      ]
+    },
+    "keywords": [
+      "From season 5",
+      "Harold Perrineau From",
+      "From release date 2027",
+      "MGM+ From series"
+    ],
+    "images": [
+      {
+        "url": "https://images.production.immediate.co.uk/volatile/sites/3/2026/06/from-harold-4-b660479.jpg?resize=1200%2C630",
+        "caption": "From Season 5: Everything We Know About the Final Chapter",
+        "source": "Radio Times"
+      }
+    ],
+    "published": "Thu, 26 Nov 2026 11:15:33 GMT"
+  },
+  "l4jojn": {
+    "id": "l4jojn",
+    "type": "news",
+    "headline": "Ramayana Box Office Collection Slows Down Near 1000 Crore Mark on Day 22",
+    "dek": "Nitesh Tiwari's mythological epic Ramayana faces a major slowdown in its fourth week, failing to touch double digits as trade expert Sumit Kadel analyzes its true footfalls and budget comparison.",
+    "body": [
+      {
+        "h": "Theatrical Launch And Early Reception",
+        "p": [
+          "Directed by Nitesh Tiwari, the high-profile mythological epic Ramayana arrived in theatres during the Diwali festive window. Backed by a massive budget and extensive visual effects, the feature quickly became one of the most talked-about cinematic releases of 2026.",
+          "The film secured a wide screen count across multiple languages, drawing significant initial crowds despite receiving mixed reactions from viewers. Discussions ranged from audience critiques regarding casting choices and the handling of the narrative to debates over its devotional authenticity."
+        ]
+      },
+      {
+        "h": "Initial Box Office Heights",
+        "p": [
+          "During its opening run, the movie demonstrated immense commercial pulling power by generating massive daily figures. It successfully crossed the seventy-five crore mark across nearly five separate days and surpassed the hundred-crore milestone on its very first Monday.",
+          "As its theatrical journey progressed, the epic continued to challenge several major industry heavyweights in total revenue. It accumulated over nine hundred and eighty crore rupees domestically within its initial weeks before entering a period of decline."
+        ]
+      },
+      {
+        "h": "Day 22 Earnings And Current Slowdown",
+        "p": [
+          "Entering the fourth week, the feature has begun experiencing a steep drop in daily ticket sales. Reports indicate that the domestic collection failed to reach nine and a half crore rupees on the third Wednesday, signaling a clear cooling off at the ticket windows.",
+          "On day twenty-two, the afternoon figures showed a modest collection of four point eight one crore rupees by late afternoon. This brought the domestic total to nine hundred and eighty-seven point two six crore rupees across all language versions."
+        ]
+      },
+      {
+        "h": "Language Wise Domestic Breakdown",
+        "p": [
+          "The domestic tally reflects contributions from several regional markets alongside the primary Hindi version. The Hindi theatrical run alone accumulated seven hundred and forty-nine point five six crore rupees up to this point.",
+          "Meanwhile, regional language versions contributed steadily to the overall domestic sum, with seventy-eight point three one crore rupees from Kannada, fifty-seven point seven eight crore rupees from Telugu, fifty-two point three crore rupees from Malayalam, and forty-nine point three one crore rupees from Tamil."
+        ]
+      },
+      {
+        "h": "Trade Expert Analysis On Super-Hit Status",
+        "p": [
+          "Despite the high overall revenue figures, the film's financial success faced scrutiny from industry expert Sumit Kadel. He questioned the narrative surrounding the movie's super-hit status by highlighting its disproportionately high expenditure compared to other blockbusters.",
+          "Kadel pointed out that the combined production costs of several major hits—including Jawan, Gadar 2, Pathaan, Dhurandhar 1 and 2, Stree 2, Animal, and Chhaava—totaled roughly eleven hundred crore rupees, which remains significantly lower than the single-film budget of this project."
+        ]
+      },
+      {
+        "h": "Footfall Comparisons And Worldwide Gross",
+        "p": [
+          "In addition to budget evaluations, the trade assessment focused on ticket sales and audience attendance metrics. Kadel noted that the overall footfalls for the mythological drama remain lower than the cumulative audience numbers of those reference films.",
+          "Separate industry tracking also highlighted that the worldwide gross collection reached seventeen hundred and fifty-five point five crore rupees, accompanied by alternate domestic figures showing a cumulative total of five hundred and eighty-two crore rupees on the third Wednesday."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Ramayana has encountered a sharp decline in daily ticket sales during its fourth week, struggling to cross ten crore rupees domestically on day twenty-two while approaching the nine hundred and eighty-seven crore milestone. While the Nitesh Tiwari directorial achieved massive overall revenues since its Diwali release, film expert Sumit Kadel challenged its super-hit tag by comparing its massive budget and lower footfalls to several other major blockbusters."
+        ]
+      }
+    ],
+    "facts": [
+      "The film was directed by Nitesh Tiwari.",
+      "The movie was released during the Diwali festival in 2026.",
+      "The overall domestic collection reached 987.26 crore rupees by day 22.",
+      "The Hindi version earned 749.56 crore rupees.",
+      "The Kannada version earned 78.31 crore rupees.",
+      "The Telugu version earned 57.78 crore rupees.",
+      "The Malayalam version earned 52.3 crore rupees.",
+      "The Tamil version earned 49.31 crore rupees.",
+      "Day 22 afternoon collection until 5:30 pm was 4.81 crore rupees.",
+      "Worldwide collection reached 1755.5 crore rupees.",
+      "Sumit Kadel stated the combined budget of Jawan, Gadar 2, Pathaan, Dhurandhar 1 & 2, Stree 2, Animal and Chhaava is approx 1,100 Cr."
+    ],
+    "entities": {
+      "people": [
+        "Nitesh Tiwari",
+        "Ranbir Kapoor",
+        "Sai Pallavi",
+        "Yash",
+        "Ravi Dubey",
+        "Arun Govil",
+        "Lara Dutta",
+        "Rakul Preet Singh",
+        "Sumit Kadel"
+      ],
+      "titles": [
+        "Ramayana",
+        "Dhurandhar 2",
+        "Jawan",
+        "Pathaan",
+        "Baahubali 2",
+        "Gadar 2",
+        "Dhurandhar 1",
+        "Stree 2",
+        "Animal",
+        "Chhaava"
+      ]
+    },
+    "keywords": [
+      "Ramayana box office collection",
+      "Ramayana day 22 collection",
+      "Ramayana Nitesh Tiwari",
+      "Sumit Kadel Ramayana footfalls"
+    ],
+    "images": [
+      {
+        "url": "https://images.filmibeat.com/img/2026/11/ramayanaboxofficefeature-24001795695573.jpg",
+        "caption": "Ramayana Box Office Collection Slows Down Near 1000 Crore Mark on Day 22",
+        "source": "FilmiBeat"
+      }
+    ],
+    "published": "Thu, 26 Nov 2026 17:50:43 +0530"
+  },
+  "qp2rbi": {
+    "id": "qp2rbi",
+    "type": "news",
+    "headline": "Mumbai Authorities on High Alert After Threatening Email Targets Mayor's Office and Amitabh Bachchan's Residence",
+    "dek": "A concerning email sent to top municipal officials warned of potential explosive devices planted at multiple prominent spots across Mumbai, including Amitabh Bachchan's Jalsa bungalow and the Mayor's office.",
+    "body": [
+      {
+        "h": "The Threat Received in Mumbai",
+        "p": [
+          "Metropolitan authorities in Mumbai instituted heightened security protocols following an anonymous electronic communication containing severe warnings. The message was directed specifically to municipal leadership, including Mayor Ritu Tawde and Municipal Commissioner Ashwini Bhide.",
+          "Law enforcement agencies quickly escalated monitoring across the metropolis after learning of the message. The communication alleged that destructive devices were concealed at several high-traffic public and private properties throughout the urban center."
+        ]
+      },
+      {
+        "h": "Specific Locations Named in the Warning",
+        "p": [
+          "According to reports attributed to ANI, the threatening electronic message explicitly listed multiple high-profile installations as potential targets for blasts. These included the official office of the municipal leader.",
+          "Other notable landmarks highlighted in the warning message comprised the Mahalaxmi Racecourse, the Sion locality, and Acharya Metro Station, alongside the residential property belonging to a veteran cinema personality."
+        ]
+      },
+      {
+        "h": "Targeting the Iconic Jalsa Bungalow",
+        "p": [
+          "Among the prominent sites mentioned in the threatening text was Jalsa, the well-known Juhu bungalow owned by legendary Bollywood actor Amitabh Bachchan. The property has unfortunately found itself referenced in similar security alerts on prior occasions.",
+          "Law enforcement previously investigated a comparable threatening email mentioning the veteran actor's residence that was reported to local authorities. Another prior incident involving a school in the Bandra-Kurla Complex also brought unverified references to the celebrity home."
+        ]
+      },
+      {
+        "h": "Enhanced Security and Fan Interactions",
+        "p": [
+          "In response to the recurring security concerns, protective measures around the veteran performer's property have been visibly stepped up. This heightened vigilance is especially apparent during his customary weekend greetings with supporters gathered outside his gates.",
+          "During these public appearances, police personnel are deployed closely around the actor to maintain safety. Family members, including his son Abhishek Bachchan, remain nearby behind protective glass barriers to monitor the crowds during fan interactions."
+        ]
+      },
+      {
+        "h": "Professional Background of the Veteran Actor",
+        "p": [
+          "Away from these security developments, Amitabh Bachchan remains active in the entertainment industry through various television and cinematic engagements. He currently serves as the host of the popular quiz-based reality television program Kaun Banega Crorepati.",
+          "His most recent cinematic appearance on the silver screen was in the 2024 Tamil-language feature film Vettaiyan, which featured prominent actor Rajinikanth in the leading role."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Mumbai authorities placed the city on high alert following a threatening email sent to Mayor Ritu Tawde and Municipal Commissioner Ashwini Bhide warning of blasts at multiple locations, including Amitabh Bachchan's Jalsa bungalow. The residence has faced similar security threats previously, prompting increased police deployment during the actor's customary fan meetings. Meanwhile, Bachchan continues his television hosting work and maintains an active career in the entertainment sector."
+        ]
+      }
+    ],
+    "facts": [
+      "Mumbai was placed on high alert on Thursday due to a threatening email.",
+      "The email was sent to Mayor Ritu Tawde and Municipal Commissioner Ashwini Bhide.",
+      "Potential targets included the Mayor's office, Amitabh Bachchan's Jalsa bungalow, Mahalaxmi Racecourse, Sion, and Acharya Metro Station.",
+      "A threatening email was previously reported to Mumbai Police on October 23 mentioning Jalsa.",
+      "Last month, a threatening email sent to a school in the Bandra-Kurla Complex also referred to Jalsa.",
+      "Amitabh Bachchan currently hosts Kaun Banega Crorepati.",
+      "His last theatrical appearance was in the 2024 Tamil film Vettaiyan."
+    ],
+    "entities": {
+      "people": [
+        "Amitabh Bachchan",
+        "Ritu Tawde",
+        "Ashwini Bhide",
+        "Abhishek Bachchan",
+        "Rajinikanth"
+      ],
+      "titles": [
+        "Kaun Banega Crorepati",
+        "Vettaiyan"
+      ]
+    },
+    "keywords": [
+      "Amitabh Bachchan Jalsa bomb threat",
+      "Mumbai Mayor office threat",
+      "Ritu Tawde Ashwini Bhide email",
+      "Jalsa bungalow security Mumbai"
+    ],
+    "images": [
+      {
+        "url": "https://static.toiimg.com/thumb/msid-136191221,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "caption": "Mumbai Authorities on High Alert After Threatening Email Targets Mayor's Office and Amitabh Bachchan's Residence",
+        "source": "Times of India — Entertainment"
+      }
+    ],
+    "published": "2026-11-26T17:39:29+05:30"
+  },
+  "1q96qsj": {
+    "id": "1q96qsj",
+    "type": "news",
+    "headline": "Ramayana Boosts Tourism at Jatayu Rock as India Pitches Global Productions at WAVES Film Bazaar",
+    "dek": "At the WAVES Film Bazaar panel, Indian officials and producers discussed the country's growing appeal as a global production hub, highlighting how Nitesh Tiwari's Ramayana doubled visitor traffic at Kerala's Jatayu Rock.",
+    "body": [
+      {
+        "h": "Ramayana's Impact on Jatayu Rock",
+        "p": [
+          "The influence of major cinematic projects on local tourism was a key talking point at the WAVES Film Bazaar in Goa. Ministry of Tourism joint secretary Harikishore S. revealed that Nitesh Tiwari's upcoming film Ramayana has successfully doubled visitor numbers at Kerala's Jatayu Earth's Center, widely known as Jatayu Rock.",
+          "This iconic location holds deep cultural significance as the traditional site where the mythical bird Jatayu fell after a fierce battle with Ravana. Because the film depicts this exact mythological clash, officials noted that on-screen representation translates directly into tangible spikes in physical tourism and public interest."
+        ]
+      },
+      {
+        "h": "India Cine Hub and Single-Window Clearances",
+        "p": [
+          "During a panel titled 'Filming in India: India's Rise as a Global Production Hub,' Prithul Kumar, joint secretary of broadcasting at the Ministry of Information and Broadcasting, detailed the evolution of the India Cine Hub portal. Originally launched at Film Bazaar on November 21, 2015, to handle basic film visas and foreign production permissions, the platform's scope was significantly broadened in 2023.",
+          "The modernized portal now acts as a comprehensive single-window clearance system. It merges permission applications with detailed directories of equipment, local crew, and professional services. Furthermore, it features an interactive location map alongside centralized information regarding both central and state incentives."
+        ]
+      },
+      {
+        "h": "Navigating Administrative and Logistical Hurdles",
+        "p": [
+          "The single-window infrastructure integrates multiple administrative layers, including state governments, local administrations, and key central agencies like the Railways, the Archaeological Survey of India, and civil aviation authorities responsible for drone clearances. Each participating state assigns a dedicated nodal officer to follow up on permissions in person.",
+          "Describing the intricate nature of the industry, Prithul Kumar remarked that managing film permissions is vastly more complex than manufacturing a standard product. He emphasized that every production step is unique because filmmakers are constantly tasked with turning abstract creative dreams into physical reality."
+        ]
+      },
+      {
+        "h": "State-Level Incentives and Policy Reach",
+        "p": [
+          "Shedding light on regional financial backing, Harikishore S. explained that roughly 80 percent of a producer's operational needs are met at the state level, while the central ministry accounts for the remaining 20 percent. He specifically highlighted Madhya Pradesh as a leading example, noting the state refunds up to 75 percent of production expenses for films shot locally and has successfully disbursed funds to 50 separate projects over the span of two years.",
+          "To further assist incoming international crews, the tourism ministry has initiated non-binding, non-commercial memorandums of understanding with major streaming platforms like Netflix, Amazon, and JioCinema. These agreements encourage digital services to showcase India's rich landscapes, including local food, rivers, and forests, while exploring a wider array of shooting destinations."
+        ]
+      },
+      {
+        "h": "Bridging Knowledge Gaps and Branding Locations",
+        "p": [
+          "Despite robust financial incentives, officials acknowledged existing operational roadblocks. Harikishore pointed out that a primary obstacle for certain locations is a knowledge gap among local decision-makers regarding what professional film crews actually require. He advocated for structured briefing workshops where experienced producers can directly educate regional officials.",
+          "Echoing this sentiment, Prithul Kumar observed that state authorities frequently upload only picturesque tourist landscapes to the official portal, overlooking the reality that filming often takes place in everyday villages and houses. Consequently, the ministry has encouraged states to select ten distinct locations from historical hit films for targeted branding, citing Bekal Fort—where a memorable song from Bombay was filmed—as a prime model that Jatayu Rock should emulate."
+        ]
+      },
+      {
+        "h": "Global Competitiveness and Local Crew Excellence",
+        "p": [
+          "Industry professionals on the panel also weighed in on India's rising technical capabilities. Alan McAlex, founder of Suitable Pictures, noted that international projects traditionally came to India solely for pre-existing scripts featuring local characters or to replicate American interiors within short actor windows. However, modern advancements in AI and volume stages are successfully opening doors for exterior work.",
+          "Sunita Ram of Rasika Pictures added that foreign producers now possess absolute confidence that Indian working standards match those found in the United States, Europe, and the United Kingdom. She highlighted the remarkable speed of domestic teams, noting that efficient local turnarounds allow 24 hours of work in India to match up to three weeks of output elsewhere."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "At the WAVES Film Bazaar panel, Indian government officials and production experts discussed the country's expanding footprint as a major international filming destination. Highlighted by the tourism boost at Jatayu Rock from Nitesh Tiwari's Ramayana and supported by the streamlined India Cine Hub portal, industry leaders emphasized that local crew efficiency, financial incentives, and advanced technical standards are rapidly drawing global productions to India."
+        ]
+      }
+    ],
+    "facts": [
+      "Nitesh Tiwari directed the film Ramayana.",
+      "Jatayu Rock is located in Kerala.",
+      "The India Cine Hub portal originally went live on November 21, 2015.",
+      "Madhya Pradesh pays back up to 75 percent of the cost of a film shot in the state.",
+      "The WAVES Film Bazaar serves as the market component of the International Film Festival of India."
+    ],
+    "entities": {
+      "people": [
+        "Nitesh Tiwari",
+        "Harikishore S.",
+        "Ravana",
+        "Prithul Kumar",
+        "Alan McAlex",
+        "Sunita Ram",
+        "Jatayu"
+      ],
+      "titles": [
+        "Ramayana",
+        "Santosh",
+        "Sister Midnight",
+        "A Suitable Boy",
+        "120 Bahadur",
+        "Bombay"
+      ]
+    },
+    "keywords": [
+      "Ramayana film",
+      "Jatayu Rock tourism",
+      "WAVES Film Bazaar",
+      "India Cine Hub portal",
+      "Nitesh Tiwari Ramayana"
+    ],
+    "images": [
+      {
+        "url": "https://variety.com/wp-content/uploads/2026/11/Jatayu-Rock.jpg?w=1000&#038;h=563&#038;crop=1",
+        "caption": "Ramayana Boosts Tourism at Jatayu Rock as India Pitches Global Productions at WAVES Film Bazaar",
+        "source": "Variety"
+      }
+    ],
+    "published": "Thu, 26 Nov 2026 12:13:56 +0000"
   }
 };
