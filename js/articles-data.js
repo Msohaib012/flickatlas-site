@@ -249461,5 +249461,383 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Wed, 25 Nov 2026 22:31:17 GMT"
+  },
+  "19pbrkp": {
+    "id": "19pbrkp",
+    "type": "news",
+    "headline": "Avatar 4 Officially Added to Disney Theatrical Slate for December 2029 Release",
+    "dek": "James Cameron prepares for a return to Pandora as Disney officially schedules the fourth Avatar instalment for late 2029.",
+    "body": [
+      {
+        "h": "Official Disney Theatrical Slate Placement",
+        "p": [
+          "The science fiction epic Avatar 4 has officially secured its place on the upcoming theatrical calendar. Following previous periods of uncertainty expressed by the filmmaker regarding the ultimate trajectory of the massive sci-fi series, the fourth chapter received definitive confirmation when Disney placed it into their official release schedule during an industry presentation in Buenos Aires, Argentina.",
+          "The major studio showcase highlighted several high-profile upcoming titles, positioning the return to Pandora alongside other upcoming franchise entries such as Black Panther 3 and Incredibles 3. Audiences can now anticipate heading back to the fictional alien moon when the feature debuts on the big screen on December 21, 2029. Meanwhile, the subsequent fifth film in the overarching narrative has been given a placeholder release date of December 19, 2031."
+        ]
+      },
+      {
+        "h": "Early Production and Previous Filming Sessions",
+        "p": [
+          "A substantial portion of Avatar 4 has quietly been shot ahead of schedule. Director James Cameron previously utilized an unconventional production strategy by simultaneously capturing scenes for the fourth movie during the principal photography of the earlier entries in the franchise.",
+          "This forward-thinking scheduling was implemented specifically to account for a planned chronological narrative jump within the story. By filming ahead, the production successfully captured sequences featuring younger actors portraying members of the Sully family alongside older counterparts."
+        ]
+      },
+      {
+        "h": "Cast Aging and Real-Time Transformation",
+        "p": [
+          "The unique production timeline has resulted in striking real-world maturation among the youthful members of the ensemble cast. Among them, actress Trinity Jo-Li Bliss, who portrays the character Tuk, originally filmed her early segments for the fourth instalment when she was only nine years old.",
+          "As the long-awaited project moves steadily toward its late-decade premiere, the performer has grown significantly, reaching seventeen years of age by the time the film's official release window draws near."
+        ]
+      },
+      {
+        "h": "Franchise Financial Expectations and Box Office Pressure",
+        "p": [
+          "The overall viability and continuation of the cinematic universe have heavily relied on commercial outcomes at the global box office. Although every previous installment in the franchise managed to cross the major milestone of one billion dollars in earnings worldwide, individual performances have occasionally faced scrutiny.",
+          "Reports indicate that Avatar: Fire and Ash encountered results that fell somewhat short of initial projections, bringing in approximately 1.48 billion dollars globally. Such financial realities continue to shape the studio's overarching strategy for the expansive sci-fi property."
+        ]
+      },
+      {
+        "h": "Production Costs and Streamlining Goals",
+        "p": [
+          "Beyond commercial milestones, the visionary filmmaker has frequently voiced intentions to optimize the overall workflow of the series. Cameron has previously addressed the importance of actively reducing both the massive financial expenditures required for production and the extensive timelines traditionally needed to complete each chapter.",
+          "These operational adjustments aim to make the extensive cinematic undertaking more sustainable for the creative team involved. Streamlining future phases remains a notable priority as the production machine moves past the middle milestones of the multi-film saga."
+        ]
+      },
+      {
+        "h": "Impact on Other Directorial Ambitions",
+        "p": [
+          "The continued commitment to the expansive sci-fi universe means that other creative passions may need to be temporarily postponed. With the fourth chapter officially locked into active development pipelines, the celebrated filmmaker faces a demanding schedule.",
+          "Prior to committing fully to the ongoing saga's conclusion, Cameron has often expressed a strong personal interest in steering completely unrelated cinematic projects. Among the alternative creative pursuits he has considered are a screen adaptation of Joe Abercrombie's novel The Devils alongside a historical drama centered on Hiroshima."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Disney has officially scheduled Avatar 4 for a December 2029 theatrical release following a presentation in Buenos Aires. Portions of the film were shot concurrently with earlier instalments to accommodate a narrative time jump, featuring cast members who have aged significantly during production."
+        ]
+      }
+    ],
+    "facts": [
+      "Avatar 4 is scheduled for release on December 21, 2029.",
+      "Avatar 5 is dated for December 19, 2031.",
+      "Trinity Jo-Li Bliss plays the character Tuk.",
+      "Trinity Jo-Li Bliss was nine years old when she filmed portions of the fourth film and is now 17.",
+      "Avatar: Fire and Ash earned around USD 1.48 billion worldwide."
+    ],
+    "entities": {
+      "people": [
+        "James Cameron",
+        "Trinity Jo-Li Bliss",
+        "Joe Abercrombie"
+      ],
+      "titles": [
+        "Avatar 4",
+        "Avatar",
+        "Black Panther 3",
+        "Incredibles 3",
+        "Avatar: Fire and Ash",
+        "The Devils"
+      ]
+    },
+    "keywords": [
+      "Avatar 4",
+      "James Cameron Avatar",
+      "Disney theatrical slate",
+      "Trinity Jo-Li Bliss Tuk"
+    ],
+    "images": [
+      {
+        "url": "https://static.toiimg.com/thumb/msid-136174814,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "caption": "Avatar 4 Officially Added to Disney Theatrical Slate for December 2029 Release",
+        "source": "Times of India — Entertainment"
+      }
+    ],
+    "published": "2026-11-26T04:39:19+05:30"
+  },
+  "rf2kjy": {
+    "id": "rf2kjy",
+    "type": "news",
+    "headline": "Ramayana Casting Director Mukesh Chhabra Defends Choices and Shares Six-Year Journey",
+    "dek": "Casting director Mukesh Chhabra opened up about the exhaustive six-year planning process behind the epic film Ramayana, defending the casting of Ranbir Kapoor, Sai Pallavi, and Yash while expressing special pride in Ravie Dubey.",
+    "body": [
+      {
+        "h": "The Six-Year Journey Behind Ramayana",
+        "p": [
+          "Putting together the massive ensemble for the ambitious mythological project Ramayana was far from a quick task. Casting director Mukesh Chhabra recently revealed that the painstaking planning and discussions required to finalize the core performers spanned an impressive six years. Given the massive scale of the retelling, every single choice had to be weighed carefully to ensure the epic met its lofty creative goals.",
+          "Working alongside director Nitesh Tiwari, Chhabra relied on a long-standing professional relationship that began during their days on Chillar Party. This deep mutual understanding allowed the creative team to navigate the complex casting maze of a project built on such a grand scale, ensuring that no individual selection was treated casually."
+        ]
+      },
+      {
+        "h": "Prioritizing Character Over Popularity",
+        "p": [
+          "In an industry frequently driven by star power alone, Chhabra emphasized that his primary focus remains firmly fixed on the demands of the script and the inherent traits of the character. He noted that even if a performer is exceptionally talented, they will not be brought on board unless they genuinely embody the specific requirements of the role.",
+          "This strict casting philosophy formed the bedrock of the decisions made for Ramayana. Rather than defaulting to popular names for the sake of box-office trends, the team spent years evaluating artists to find the most authentic fit for each pivotal figure in the narrative."
+        ]
+      },
+      {
+        "h": "Mukesh Chhabra Prides on Ravie Dubey as Lakshman",
+        "p": [
+          "Among all the major casting announcements, Chhabra expressed a particular sense of pride regarding Ravie Dubey being chosen to portray Lakshman. The casting director has been thrilled by the positive reactions surrounding the performance thus far.",
+          "Drawing parallels to his past work, Chhabra compared his discovery and casting of Dubey to milestone moments in his career, such as casting Rajkummar Rao and the late Sushant Singh Rajput in Kai Po Ce. Spotting and backing the right talent for demanding roles remains one of the most rewarding aspects of his profession."
+        ]
+      },
+      {
+        "h": "Defending the Leads: Ranbir, Sai Pallavi, and Yash",
+        "p": [
+          "The extensive deliberation period also involved defending and cementing the choices for the central figures of Lord Rama and Sita. Chhabra addressed the decisions to cast Ranbir Kapoor as Rama and Sai Pallavi as Sita, noting that every choice was made with the film's grand pan-India ambition clearly in mind.",
+          "To achieve a true pan-India appeal, the production deliberately brought together acclaimed actors from various regional film industries. Alongside Ranbir and Sai Pallavi, the ensemble features Yash taking on the role of Ravana and veteran actor Arun Govil portraying Dashrath."
+        ]
+      },
+      {
+        "h": "Building a Pan-India Cinematic Spectacle",
+        "p": [
+          "Creating a cinematic universe of this magnitude required meticulous coordination across different entertainment sectors in India. Chhabra highlighted that blending various industry heavyweights was a calculated strategy to honor the timeless tale while appealing to modern audiences nationwide.",
+          "The inclusion of stars like Yash alongside northern and southern counterparts underscores the exhaustive planning that defined the six-year pre-production phase. Every casting choice was meticulously debated to guarantee authenticity and massive cultural resonance."
+        ]
+      },
+      {
+        "h": "Box Office Milestone on the Horizon",
+        "p": [
+          "The massive scale and careful preparation behind the project are currently translating into immense commercial success. Ramayana is reportedly on the verge of crossing the prestigious Rs 1000 crore mark in India net collections.",
+          "Should it officially cross this massive financial threshold, it will cement its place in history as the fourth movie to enter the elite box-office club, standing alongside other massive hits like Dhurandha 2, Baahubali 2, and Pushpa 2."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Casting director Mukesh Chhabra revealed that assembling the star-studded ensemble for Ramayana required six years of meticulous planning alongside director Nitesh Tiwari. He defended the selections of Ranbir Kapoor, Sai Pallavi, and Yash while expressing immense pride in Ravie Dubey's performance as Lakshman."
+        ]
+      }
+    ],
+    "facts": [
+      "Ramayana casting took six years of planning and discussions.",
+      "Mukesh Chhabra is the casting director of Ramayana.",
+      "Nitesh Tiwari is the director of Ramayana.",
+      "Ranbhir Kapoor plays Lord Rama.",
+      "Sai Pallavi plays Sita.",
+      "Yash plays Ravana.",
+      "Ravie Dubey plays Lakshman.",
+      "Arun Govil plays Dashrath.",
+      "Mukesh Chhabra worked with Nitesh Tiwari since Chillar Party.",
+      "Ramayana is close to crossing Rs 1000 crore in India net."
+    ],
+    "entities": {
+      "people": [
+        "Mukesh Chhabra",
+        "Ravie Dubey",
+        "Ranbir Kapoor",
+        "Sai Pallavi",
+        "Yash",
+        "Nitesh Tiwari",
+        "Sushant Singh Rajput",
+        "Rajkummar Rao",
+        "Arun Govil"
+      ],
+      "titles": [
+        "Ramayana",
+        "Kai Po Ce",
+        "Chillar Party",
+        "Dhurandha 2",
+        "Baahubali 2",
+        "Pushpa 2"
+      ]
+    },
+    "keywords": [
+      "Mukesh Chhabra Ramayana casting",
+      "Ravie Dubey Lakshman Ramayana",
+      "Ramayana casting six years",
+      "Ranbir Kapoor Sai Pallavi Ramayana"
+    ],
+    "images": [
+      {
+        "url": "https://images.timesnownews.com/thumb/msid-156563494,thumbsize-882673,width-1280,height-720,resizemode-75/156563494.jpg",
+        "caption": "Ramayana Casting Director Mukesh Chhabra Defends Choices and Shares Six-Year Journey",
+        "source": "Times Now — Entertainment"
+      }
+    ],
+    "published": "2026-11-25T23:52:37Z"
+  },
+  "1vfja3": {
+    "id": "1vfja3",
+    "type": "news",
+    "headline": "Kang Hoon's 'Happy Anding' Hits a New Low of 1.1% in Episode 5",
+    "dek": "The tvN comedy series starring Kang Hoon has experienced a dip in viewership, registering its lowest nationwide ratings yet according to Nielsen Korea.",
+    "body": [
+      {
+        "h": "Latest Viewership Statistics",
+        "p": [
+          "The television series Happy Anding experienced a notable decline in its audience numbers during its fifth broadcast. Nielsen Korea reported that the nationwide ratings among pay-TV households dropped to 1.1 percent for this particular installment.",
+          "This latest figure marks a new low for the program since its premiere. The broadcast aired on November 25, reflecting a downward trend from previous weeks."
+        ]
+      },
+      {
+        "h": "Comparison With Previous Episodes",
+        "p": [
+          "The recent dip follows several fluctuations in the show's viewership metrics over its initial run. Episode 4 had previously brought in 1.4 percent nationwide, showing a slight recovery from the third episode.",
+          "However, the previous low point had been set by episode 3 at 1.3 percent. The premiere and the second episode both started stronger, each pulling in 1.7 percent nationwide."
+        ]
+      },
+      {
+        "h": "Key Plot Developments in Episode 5",
+        "p": [
+          "The narrative of the fifth episode centered heavily on the character Go Eun Young, portrayed by Lee E Dam. Up until this point, she had managed to get by without needing medication, largely thanks to the comedy trio known as Asura.",
+          "That stability was shattered when a painful memory from her past suddenly resurfaced. The emotional weight of this flashback caused her to collapse during the episode."
+        ]
+      },
+      {
+        "h": "Cast and Production Background",
+        "p": [
+          "The comedy series features actor Kang Hoon in a prominent role, drawing attention from fans during promotional events like the initial script reading. The production is broadcast on the network tvN.",
+          "Viewers can tune in to new episodes on a weekly basis, as the program maintains a regular broadcasting schedule across Wednesdays and Thursdays."
+        ]
+      },
+      {
+        "h": "Broadcast Schedule and Network Details",
+        "p": [
+          "As a mid-week offering, Happy Anding occupies a specific slot on the tvN lineup. The network continues to air the comedy program on Wednesdays and Thursdays for its audience.",
+          "Ratings data for the series is regularly tracked and published by Nielsen Korea, capturing the shifting viewing habits of pay-TV households across the country."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Kang Hoon's tvN comedy series Happy Anding dropped to a new series low of 1.1 percent nationwide for episode 5, which aired on November 25 according to Nielsen Korea. The episode followed character Go Eun Young collapsing after a painful past memory resurfaced."
+        ]
+      }
+    ],
+    "facts": [
+      "Episode 5 of Happy Anding aired on November 25, 2026",
+      "Episode 5 recorded 1.1 percent nationwide ratings",
+      "Episode 4 recorded 1.4 percent nationwide ratings",
+      "Episode 3 recorded 1.3 percent nationwide ratings",
+      "Episodes 1 and 2 recorded 1.7 percent nationwide ratings",
+      "Go Eun Young is played by Lee E Dam"
+    ],
+    "entities": {
+      "people": [
+        "Kang Hoon",
+        "Lee E Dam",
+        "Hana"
+      ],
+      "titles": [
+        "Happy Anding"
+      ]
+    },
+    "keywords": [
+      "Happy Anding",
+      "Kang Hoon",
+      "Happy Anding episode 5 ratings",
+      "tvN drama Happy Anding"
+    ],
+    "images": [
+      {
+        "url": "https://i.mydramalist.com/PeeLmy_2d.jpg",
+        "caption": "Kang Hoon's 'Happy Anding' Hits a New Low of 1.1% in Episode 5",
+        "source": "MyDramaList"
+      }
+    ],
+    "published": "Wed, 25 Nov 2026 23:22:20 +0000"
+  },
+  "fnif5a": {
+    "id": "fnif5a",
+    "type": "news",
+    "headline": "Laxman Utekar Backs Shraddha Kapoor's Eetha to Set a World Record Amid Box Office Clash With Salman Khan's Maatrubhumi",
+    "dek": "Director Laxman Utekar remains confident that the Shraddha Kapoor starrer Eetha will achieve unprecedented success despite a theatrical box office collision with Salman Khan's Maatrubhumi.",
+    "body": [
+      {
+        "h": "The Unexpected Theatrical Collision",
+        "p": [
+          "A major box office showdown has emerged in the Bollywood calendar for late 2026, featuring two high-profile films releasing on the exact same date. Shraddha Kapoor's biographical film Eetha originally aimed for a solo theatrical run on December 4. However, the release landscape shifted when Salman Khan's Maatrubhumi secured its censor board clearance and its makers scheduled it ahead of Shah Rukh Khan's King.",
+          "This scheduling maneuver directly pitted two of the industry's prominent upcoming titles against each other on the big screen. Rather than backing down, the creative team behind Eetha has maintained an optimistic stance regarding the concurrent arrivals, pointing to the sheer scale of the domestic exhibition market as sufficient for multiple blockbusters."
+        ]
+      },
+      {
+        "h": "Director Laxman Utekar's Bold Prediction",
+        "p": [
+          "Speaking at a recent public appearance in Pune, Maharashtra, director Laxman Utekar expressed unwavering faith in his biographical project. Unbothered by the simultaneous arrival of Salman Khan's feature, Utekar argued that there are enough available screens in the country to comfortably accommodate both productions side by side.",
+          "Emphasizing his belief in the project's broad appeal, the filmmaker remarked that audience reception could reach such heights that it might establish a unique world record. He reiterated his certainty that the biographical drama would perform exceptionally well upon its commercial debut."
+        ]
+      },
+      {
+        "h": "Roots and Inspiration Behind Eetha",
+        "p": [
+          "Clarifying the narrative roots of the project, director Laxman Utekar revealed that Eetha draws direct creative inspiration from the central character featured in the Marathi literary work titled Tamasha: Vithabaichya Aayushyacha. While the script is not a direct adaptation of the book as a whole, it takes foundational inspiration from the subject's life and incorporates two specific historical incidents documented in the text.",
+          "The narrative explores the rich traditions, artistic expressions, and surrounding lifestyle associated with Lavani and Tamasha. Set across a significant timeline spanning nearly four decades from 1943 to 1980, the film captures a transformative historical era and brings a rarely depicted cultural setting to mainstream cinema."
+        ]
+      },
+      {
+        "h": "Salman Khan Addresses the Clash",
+        "p": [
+          "Amid discussions surrounding the theatrical overlap, superstar Salman Khan addressed the situation during an appearance at an ABP News event. The actor clarified that he was completely unaware of Eetha's scheduled December 4 release date when his own team locked in their arrival window, expressing genuine regret over the timing.",
+          "Sharing details of their private interaction, Salman noted that he personally reached out to Shraddha Kapoor to apologize for the inadvertent competition. According to the actor, he has seen her grow up in the industry and wanted to clear the air directly."
+        ]
+      },
+      {
+        "h": "Shraddha Kapoor's Gracious Response",
+        "p": [
+          "During their telephone conversation, Shraddha Kapoor reportedly handled the scheduling conflict with complete grace and maturity. Rather than expressing frustration over the divided screen space, she reassured her senior colleague that the market possessed enough room for both features to succeed.",
+          "Salman recounted that Shraddha brushed off the concern by stating that adequate space existed for both movies to debut simultaneously. The superstar expressed his happiness at her positive attitude and publicly urged audiences to purchase tickets for her film as well."
+        ]
+      },
+      {
+        "h": "Cast, Crew, and Production Details",
+        "p": [
+          "The biographical project boasts a prominent ensemble cast alongside its titular lead. Alongside Shraddha Kapoor, the film features performances by Randeep Hooda, Mohd Zeeshan Ayyub, Siddharth Jadhav, and Anant V Joshi, among a diverse supporting cast of actors.",
+          "Behind the scenes, the feature is backed by a collaborative production team. The credit for bringing the cinematic vision to life is shared among producers Dinesh Vijan, Laxman Utekar, and Karishma Sharma."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Director Laxman Utekar has expressed high confidence that the Shraddha Kapoor-led biographical film Eetha will achieve record-breaking success despite a December 4 theatrical clash with Salman Khan's Maatrubhumi. Salman acknowledged the scheduling overlap publicly and apologized to Shraddha, who graciously noted that sufficient theater space exists for both films to thrive. The movie explores the cultural world of Tamasha and Lavani across several decades and features a stellar supporting cast."
+        ]
+      }
+    ],
+    "facts": [
+      "Shraddha Kapoor stars in Eetha.",
+      "Salman Khan stars in Maatrubhumi.",
+      "Eetha and Maatrubhumi are scheduled for a December 4 release.",
+      "Laxman Utekar is the director of Eetha.",
+      "Eetha is inspired by the Marathi book Tamasha: Vithabaichya Aayushyacha.",
+      "The narrative of Eetha is set from 1943 to 1980.",
+      "Eetha is produced by Dinesh Vijan, Laxman Utekar, and Karishma Sharma.",
+      "The cast of Eetha includes Randeep Hooda, Mohd Zeeshan Ayyub, Siddharth Jadhav, and Anant V Joshi."
+    ],
+    "entities": {
+      "people": [
+        "Laxman Utekar",
+        "Shraddha Kapoor",
+        "Salman Khan",
+        "Shah Rukh Khan",
+        "Randeep Hooda",
+        "Mohd Zeeshan Ayyub",
+        "Siddharth Jadhav",
+        "Anant V Joshi",
+        "Dinesh Vijan",
+        "Karishma Sharma",
+        "Tanmayi Savadi"
+      ],
+      "titles": [
+        "Eetha",
+        "Maatrubhumi",
+        "King",
+        "Tamasha: Vithabaichya Aayushyacha"
+      ]
+    },
+    "keywords": [
+      "Eetha film",
+      "Shraddha Kapoor Eetha",
+      "Laxman Utekar Eetha",
+      "Maatrubhumi Salman Khan",
+      "Eetha vs Maatrubhumi clash"
+    ],
+    "images": [
+      {
+        "url": "https://images.timesnownews.com/thumb/msid-156564764,thumbsize-668012,width-1280,height-720,resizemode-75/156564764.jpg",
+        "caption": "Laxman Utekar Backs Shraddha Kapoor's Eetha to Set a World Record Amid Box Office Clash With Salman Khan's Maatrubhumi",
+        "source": "Times Now — Entertainment"
+      }
+    ],
+    "published": "2026-11-25T23:52:37Z"
   }
 };
