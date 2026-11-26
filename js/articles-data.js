@@ -254599,5 +254599,374 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Thu, 26 Nov 2026 16:14:30 +0530"
+  },
+  "tm190b": {
+    "id": "tm190b",
+    "type": "news",
+    "headline": "Ramayana Begins Global Awards Campaign Amid Declining Overseas Box Office",
+    "dek": "Nitesh Tiwari's mythological epic Ramayana has entered international awards races for visual effects and stunt design at the Critics Choice Awards and Oscars, offering a potential boost to its cooling overseas run.",
+    "body": [
+      {
+        "h": "Entering International Awards Races",
+        "p": [
+          "The makers of the two-part epic Ramayana have officially launched a global awards campaign, securing places in technical shortlists at both the 32nd Critics Choice Awards and the 99th Academy Awards.",
+          "This international push places the Indian mythological spectacle in direct conversation with major Hollywood productions, showcasing its technical ambition on a global platform."
+        ]
+      },
+      {
+        "h": "Critical Nominations and Shortlists",
+        "p": [
+          "At the 32nd Critics Choice Awards, the film secured shortlists in two vital technical categories: Best Visual Effects and Best Stunt Design.",
+          "Additionally, the movie made it to the top 20 contenders for Best Visual Effects at the 99th Academy Awards, marking a significant technical milestone for Indian cinema on the global stage."
+        ]
+      },
+      {
+        "h": "The Role of DNEG and Visual FX",
+        "p": [
+          "A major driving force behind the film's technical prowess is producer Namit Malhotra's visual effects company, DNEG, which has previously worked on renowned Hollywood projects like Dune and Interstellar.",
+          "This established international collaboration ensured that Ramayana possessed the technical expertise expected by the Academy's craft categories, helping it navigate unfamiliar technical recognition spaces."
+        ]
+      },
+      {
+        "h": "Reviving the Overseas Box Office",
+        "p": [
+          "While the film made a notable impact during its initial international theatrical release, sustaining that momentum has proven challenging as overseas collections began to decline.",
+          "The makers hope that ongoing media coverage and recognition from esteemed institutions like the Critics Choice Association and the Academy will generate fresh curiosity and drive additional theatrical footfalls."
+        ]
+      },
+      {
+        "h": "Promoting Indian Mythology Globally",
+        "p": [
+          "From the outset, the international promotional campaign positioned the film firmly as an Indian epic, relying on cultural roots, narrative scale, and a star-studded cast.",
+          "Leading actors Ranbir Kapoor as Ram and Yash as Ravana helped generate initial overseas interest, while the awards recognition now provides a new angle to keep the film relevant among global audiences."
+        ]
+      },
+      {
+        "h": "Building Anticipation for Chapter Two",
+        "p": [
+          "Ramayana is designed as a multi-part cinematic adaptation, with the second installment already scheduled for release in Diwali 2028.",
+          "Establishing the franchise as a serious contender in global filmmaking conversations helps build long-term anticipation for the upcoming chapter, moving the narrative beyond immediate box-office numbers."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Nitesh Tiwari's Ramayana has entered the international awards conversation with shortlists at the 32nd Critics Choice Awards and the 99th Academy Awards for visual effects and stunt design. The global campaign, supported by producer Namit Malhotra and DNEG, aims to reinvigorate interest as the film's overseas box-office momentum slows down. Ultimately, this recognition offers a chance to secure both prestige and renewed theatrical curiosity ahead of the planned 2028 sequel."
+        ]
+      }
+    ],
+    "facts": [
+      "Ramayana secured shortlists for Best Visual Effects and Best Stunt Design at the 32nd Critics Choice Awards.",
+      "The film made the top 20 contenders list for Best Visual Effects at the 99th Academy Awards.",
+      "Final nominations for the Critics Choice Awards are scheduled for December 4, 2026.",
+      "The second chapter of the cinematic adaptation is scheduled for release in Diwali 2028.",
+      "The film stars Ranbir Kapoor as Ram and Yash as Ravana."
+    ],
+    "entities": {
+      "people": [
+        "Ranbir Kapoor",
+        "Yash",
+        "Nitesh Tiwari",
+        "Namit Malhotra",
+        "Hans Zimmer",
+        "AR Rahman"
+      ],
+      "titles": [
+        "Ramayana",
+        "Dune",
+        "Interstellar"
+      ]
+    },
+    "keywords": [
+      "Ramayana film",
+      "Ramayana Oscars VFX",
+      "Ranbir Kapoor Ramayana",
+      "Namit Malhotra DNEG",
+      "Ramayana Critics Choice Awards"
+    ],
+    "images": [
+      {
+        "url": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202611/ramayana-awards-run-263503676-16x9_0.jpg?VersionId=Nsp5pNCIDa7XNKs6DrK_PX1K_jjHR899",
+        "caption": "Ramayana Begins Global Awards Campaign Amid Declining Overseas Box Office",
+        "source": "India Today — Movies"
+      }
+    ],
+    "published": "Thu, 26 Nov 2026 16:38:17 +0530"
+  },
+  "14kbfrk": {
+    "id": "14kbfrk",
+    "type": "news",
+    "headline": "How Robert Pattinson's Suave Twilight Moment Inspired a Viral James Bond Connection",
+    "dek": "Director Catherine Hardwicke reveals the fascinating origin behind that prophetic James Bond sequence in Twilight following Robert Pattinson's monumental 007 casting news.",
+    "body": [
+      {
+        "h": "The Genesis of a Prophetic Moment",
+        "p": [
+          "Following the official announcement that Robert Pattinson has secured the iconic role of 007, fans and cinema enthusiasts have eagerly revisited past moments in his career that seemingly predicted his future. Among these is a memorable sequence from the vampire romance Twilight, which has recently taken social media by storm. In the film, Justin Chon's character Eric Yorkie hands out prom flyers with a distinct Monte Carlo theme, teasing a classic spy aesthetic before the camera pans directly to Pattinson.",
+          "This serendipitous alignment of plot and performance has fascinated audiences worldwide, serving as an accidental audition tape for the prestigious British franchise. Viewers have pointed out the uncanny resemblance between his early brooding persona and the sophisticated demeanor expected of the world's most famous secret agent."
+        ]
+      },
+      {
+        "h": "Director Catherine Hardwicke Recalls the Shoot",
+        "p": [
+          "Director Catherine Hardwicke recently shared insights into how that specific cinematic beat came to fruition during the production of the vampire blockbuster. Speaking on The Kyle Buchanan Show, the filmmaker explained that the clever nod to the spy series was actually improvised on set to highlight the actor's natural charm and striking appearance.",
+          "Hardwicke noted that she specifically instructed the young star to wear sunglasses as he stepped out of his vehicle alongside co-star Kristen Stewart, who played Bella Swan. The sheer elegance of his arrival prompted the creative team to weave the famous spy reference directly into the dialogue, capturing a fleeting moment that remarkably mirrored his future career trajectory."
+        ]
+      },
+      {
+        "h": "Rising to Global Stardom",
+        "p": [
+          "Long before joining the elite ranks of British secret agents, Pattinson captured international attention through his breakout portrayal of the troubled vampire Edward Cullen. Sharing the screen with Stewart, he became a defining face of a massive cinematic phenomenon, cementing his status as a formidable global star.",
+          "That foundational role opened numerous doors in the entertainment industry, allowing him to transition smoothly from teenage heartthrob to a versatile leading man in diverse critical projects. His journey eventually paved the way for demanding lead parts in major cinematic ventures, culminating in his recent high-profile casting."
+        ]
+      },
+      {
+        "h": "Industry Reactions and Endorsements",
+        "p": [
+          "The official confirmation of the actor's new assignment has drawn widespread acclaim and enthusiastic congratulations from veteran performers associated with the legendary franchise. Former 007 actors Pierce Brosnan and George Lazenby publicly welcomed him into their exclusive fellowship, offering their support for his upcoming tenure.",
+          "In addition, franchise royalty Judi Dench offered her stamp of approval to the newly appointed lead. Meanwhile, his Tenet co-star Elizabeth Debicki expressed immense enthusiasm for the prospect of joining a future installment as an adversary, highlighting the widespread excitement rippling through Hollywood."
+        ]
+      },
+      {
+        "h": "Reflecting on Past Speculation",
+        "p": [
+          "The recent confirmation successfully brings an end to years of intense speculation surrounding who would next don the tuxedo. Industry watchers had spent considerable time debating potential candidates, making the final choice of the Primetime star a major topic of discussion across entertainment media.",
+          "Hardwicke herself expressed slight surprise at the ultimate casting decision, noting that his massive fame following major blockbusters like The Batman made the outcome feel surreal. Nevertheless, she remains immensely proud of his continuous artistic evolution from his early vampire days to the pinnacle of British cinema."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Director Catherine Hardwicke revealed that a viral James Bond reference in Twilight was inspired by Robert Pattinson's suave appearance in sunglasses during filming. Following his official casting as 007, former franchise stars like Pierce Brosnan and George Lazenby welcomed him to the role."
+        ]
+      }
+    ],
+    "facts": [
+      "Robert Pattinson was cast as James Bond.",
+      "Catherine Hardwicke directed Twilight.",
+      "Justin Chon played Eric Yorkie in Twilight.",
+      "Kristen Stewart played Bella Swan in Twilight.",
+      "Pierce Brosnan and George Lazenby welcomed Pattinson to the role.",
+      "Judi Dench gave her stamp of approval.",
+      "Elizabeth Debicki co-starred with Pattinson in Tenet."
+    ],
+    "entities": {
+      "people": [
+        "Robert Pattinson",
+        "Catherine Hardwicke",
+        "Justin Chon",
+        "Kristen Stewart",
+        "Pierce Brosnan",
+        "George Lazenby",
+        "Judi Dench",
+        "Elizabeth Debicki",
+        "The Kyle Buchanan Show",
+        "Stefania Sarrubba"
+      ],
+      "titles": [
+        "Twilight",
+        "The Batman",
+        "Tenet",
+        "Legends"
+      ]
+    },
+    "keywords": [
+      "Robert Pattinson James Bond",
+      "Twilight James Bond scene",
+      "Catherine Hardwicke Twilight",
+      "Robert Pattinson 007"
+    ],
+    "images": [
+      {
+        "url": "https://hips.hearstapps.com/hmg-prod/images/b7c06e42-e313-4001-8c91-424b0c2e0c29.jpg?crop=1.00xw:0.781xh;0,0.0200xh&amp;resize=1200:*",
+        "caption": "How Robert Pattinson's Suave Twilight Moment Inspired a Viral James Bond Connection",
+        "source": "Digital Spy"
+      }
+    ],
+    "published": "Thu, 26 Nov 2026 11:44:00 +0000"
+  },
+  "ws8u3r": {
+    "id": "ws8u3r",
+    "type": "news",
+    "headline": "Bhumi Pednekar Pays Tribute to 26/11 Victims Alongside Devendra Fadnavis",
+    "dek": "Actor Bhumi Pednekar joined Maharashtra Chief Minister Devendra Fadnavis at the Gateway of India to honour the martyrs and victims of the 26/11 Mumbai terror attacks on its 18th anniversary.",
+    "body": [
+      {
+        "h": "Commemorating the 18th Anniversary",
+        "p": [
+          "November 26 marks a solemn day in India, reflecting on the coordinated shootings and bombings that impacted Mumbai in 2008. Marking the 18th anniversary of the tragedy, actor Bhumi Pednekar joined public figures and citizens to reflect upon the lives lost during the assault.",
+          "The anniversary serves as a yearly reminder of the resilience of the city and the heavy toll taken by the terror attacks on innocent civilians, security personnel, and first responders alike."
+        ]
+      },
+      {
+        "h": "Ceremony at the Gateway of India",
+        "p": [
+          "The actor participated in a formal tribute ceremony organized by the Maharashtra Police Boys Sanghatana at the historic Gateway of India in Mumbai. The event was held to remember the bravehearts who laid down their lives in the line of duty.",
+          "In addition to honouring the victims of the 2008 Mumbai attacks, the gathering also paid respects to civilians who lost their lives in the separate Pahalgam terror attack."
+        ]
+      },
+      {
+        "h": "Presence of Dignitaries",
+        "p": [
+          "Bhumi attended the solemn commemoration alongside Maharashtra Chief Minister Devendra Fadnavis. Both figures partook in offering floral tributes to the fallen martyrs and the innocent citizens affected by the historic tragedy.",
+          "The presence of state leadership and prominent film personalities highlighted the collective grief and enduring gratitude felt across the nation toward its protective forces."
+        ]
+      },
+      {
+        "h": "Social Media Reflections",
+        "p": [
+          "Following the ceremony, the actor took to social media to share photographs from the venue and express her thoughts. She posted images showing her paying floral respects to the heroes of the city.",
+          "In her accompanying message, she acknowledged the continuous scars carried by survivors and families, while offering a heartfelt tribute to the Mumbai Police, security forces, and first responders."
+        ]
+      },
+      {
+        "h": "Acknowledging the Bravehearts",
+        "p": [
+          "In her public note, the actor emphasized that the bravery and courage shown by the security apparatus during the fateful 2008 event would never be forgotten by the country.",
+          "She noted that the date of November 26 will forever remain deeply etched in the collective memory of the nation and its people."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Actor Bhumi Pednekar attended a tribute ceremony at the Gateway of India alongside Maharashtra Chief Minister Devendra Fadnavis to mark the 18th anniversary of the 26/11 Mumbai terror attacks. During the event, she offered floral tributes to honour the fallen security personnel, first responders, and innocent victims."
+        ]
+      }
+    ],
+    "facts": [
+      "The event marked the 18th anniversary of the 26/11 Mumbai terror attacks.",
+      "Bhumi Pednekar attended the tribute ceremony alongside Maharashtra Chief Minister Devendra Fadnavis.",
+      "The ceremony was organised by the Maharashtra Police Boys Sanghatana at the Gateway of India in Mumbai.",
+      "The event also honoured civilians who lost their lives in the Pahalgam terror attack."
+    ],
+    "entities": {
+      "people": [
+        "Bhumi Pednekar",
+        "Devendra Fadnavis",
+        "Vibha Maru"
+      ],
+      "titles": [
+        "Dum Laga Ke Haisha",
+        "Toilet: Ek Prem Katha",
+        "Shubh Mangal Saavdhan",
+        "Bala",
+        "Saand Ki Aankh",
+        "Badhaai Do",
+        "Bheed",
+        "Afwaah",
+        "Bhakshak",
+        "Mere Husband Ki Biwi",
+        "The Royals",
+        "Daldal"
+      ]
+    },
+    "keywords": [
+      "Bhumi Pednekar 26/11 tribute",
+      "Devendra Fadnavis Gateway of India",
+      "Mumbai terror attacks anniversary",
+      "Bhumi Pednekar Mumbai Police"
+    ],
+    "images": [
+      {
+        "url": "https://www.hindustantimes.com/ht-img/img/2026/11/26/1600x900/logo/Bhumi_1795689830966_mRux_1795689831131_YA2R_35af01c4-2f88-4310-bd1d-368bc3618514_i167.jpg",
+        "caption": "Bhumi Pednekar Pays Tribute to 26/11 Victims Alongside Devendra Fadnavis",
+        "source": "Hindustan Times — Entertainment"
+      }
+    ],
+    "published": "Thu, 26 Nov 2026 16:26:32 +0530"
+  },
+  "19tc6yj": {
+    "id": "19tc6yj",
+    "type": "news",
+    "headline": "EastEnders Unveils Nicola's Cunning Revenge Against Ned in Early iPlayer Release",
+    "dek": "Nicola Mitchell executes a brilliant counter-move against Ned Hawkins in the latest EastEnders episode, securing No.31 through clever negotiation after exposing his blackmail scheme.",
+    "body": [
+      {
+        "h": "Early Release Spoilers and Setup",
+        "p": [
+          "Audiences diving into the latest episode of EastEnders on BBC iPlayer ahead of its traditional television broadcast are treated to high-stakes family drama. Nicola Mitchell delivers a calculated blow to her brother-in-law, Ned Hawkins, after uncovering and dismantling his desperate blackmail plot.",
+          "The narrative centers around Ned's ongoing efforts to purchase No.31. Having previously secured a loan using the club as collateral, Ned hit a major roadblock when Suki increased the asking price by an additional £25,000."
+        ]
+      },
+      {
+        "h": "The Blackmail Scheme Unravels",
+        "p": [
+          "Desperate to acquire the home for his family, Ned targeted Lauren and Mark. Armed with damaging knowledge about their clandestine affair, he attempted to shake them down for the extra cash needed to seal the property deal.",
+          "However, Ned's covert movements did not go unnoticed. Nicola’s suspicions were immediately aroused following a tense exchange she witnessed in the Square, alongside a mysterious phone call she overheard the previous night."
+        ]
+      },
+      {
+        "h": "Nicola Digs Deeper",
+        "p": [
+          "When questioned by Nicola, Ned attempted to brush off her inquiries with a flimsy cover story about bar logistics. Meanwhile, Mark’s attempt to secure a loan from Phil hit a dead end when Phil demanded to know the exact purpose of the funds.",
+          "Refusing to drop her investigation, Nicola visited Lauren. Her suspicions deepened when Mark arrived unexpectedly, leading the pair to fabricate a story about illicit car sales to hide the truth of Ned's extortion."
+        ]
+      },
+      {
+        "h": "Secrets and Counter-Threats",
+        "p": [
+          "Armed with the knowledge of the blackmail, Nicola confronted Ned, threatening to expose his actions to Gemma. Never one to back down easily, Ned retaliated by threatening to reveal Nicola's own deeply guarded secrets, including the truth regarding her father’s death.",
+          "Unwilling to be beaten, Nicola decided to bypass Ned entirely and take matters directly into her own hands by approaching Suki with a proposition."
+        ]
+      },
+      {
+        "h": "The Crafty Maneuver",
+        "p": [
+          "Nicola first urged Suki to sell the house to Ned for the original price, but Suki firmly refused. Undeterred, Nicola pivoted and engineered a completely different solution to checkmate her rival.",
+          "That very evening, a stunned Ned returned home to find Gemma and Nicola celebrating with champagne. They revealed that Nicola had purchased No.31 herself at the original price, effectively becoming their landlord and offering them a heavily discounted rate."
+        ]
+      },
+      {
+        "h": "Broadcast and Background Context",
+        "p": [
+          "EastEnders continues its long-running broadcast tradition, airing from Monday through Thursday on BBC One. Alongside its standard evening television slots, the soap opera utilizes the BBC iPlayer streaming platform to release episodes early at six in the morning.",
+          "This digital-first release strategy allows dedicated fans to consume gripping storylines ahead of the traditional TV schedule, driving intense online discussions surrounding character developments and dramatic confrontations."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Nicola Mitchell takes decisive revenge against Ned Hawkins in the latest EastEnders episode after uncovering his blackmail plot against Lauren and Mark. By stepping in to purchase No.31 herself when Suki refuses to budge, Nicola leaves Ned utterly stunned and powerless."
+        ]
+      }
+    ],
+    "facts": [
+      "Nicola Mitchell took revenge against Ned Hawkins.",
+      "Ned Hawkins attempted to buy No.31.",
+      "Suki demanded an extra £25,000 for the house.",
+      "Ned blackmailed Lauren and Mark using knowledge of their affair.",
+      "Mark tried to get a loan from Phil.",
+      "Nicola bought No.31 at the original price to become their landlord.",
+      "EastEnders airs Monday to Thursdays at 7.30pm on BBC One and streams on BBC iPlayer."
+    ],
+    "entities": {
+      "people": [
+        "Nicola",
+        "Ned",
+        "Suki",
+        "Lauren",
+        "Mark",
+        "Phil",
+        "Gemma"
+      ],
+      "titles": [
+        "EastEnders"
+      ]
+    },
+    "keywords": [
+      "EastEnders",
+      "Nicola Mitchell",
+      "Ned Hawkins",
+      "No.31",
+      "BBC iPlayer"
+    ],
+    "images": [
+      {
+        "url": "https://hips.hearstapps.com/hmg-prod/images/849bc05a-8dac-493e-ab5d-0805084eb208.jpg?crop=1.00xw:0.764xh;0,0.0487xh&amp;resize=1200:*",
+        "caption": "EastEnders Unveils Nicola's Cunning Revenge Against Ned in Early iPlayer Release",
+        "source": "Digital Spy"
+      }
+    ],
+    "published": "Thu, 26 Nov 2026 11:07:00 +0000"
   }
 };
