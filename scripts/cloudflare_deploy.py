@@ -54,8 +54,10 @@ SCRIPT_NAME = os.environ.get("CLOUDFLARE_WORKER_NAME", "flickatlas")
 # Cloudflare KV namespace for public viewer reviews (created 2026-10-28):
 # "flickatlas-reviews", id 51213eb8cf6f4130b41b335111e916c8. Bound to the
 # Worker as env.REVIEWS (see the bindings list in the deploy metadata).
-KV_NAMESPACE_ID = "51213eb8cf6f4130b41b335111e916c8"
-HOME_BOXOFFICE_NAMESPACE_ID = "a7e61d3db4fd44ccad5c6f85cf093d35"
+# Account override: FA_KV_* env vars select the account-5 namespaces;
+# defaults keep account-1 behavior when unset.
+KV_NAMESPACE_ID = os.environ.get("FA_KV_REVIEWS_NAMESPACE_ID", "51213eb8cf6f4130b41b335111e916c8")
+HOME_BOXOFFICE_NAMESPACE_ID = os.environ.get("FA_KV_HOME_BOXOFFICE_NAMESPACE_ID", "a7e61d3db4fd44ccad5c6f85cf093d35")
 REPO_ROOT = os.environ.get("REPO_ROOT", os.getcwd())
 COMPATIBILITY_DATE = "2026-10-27"
 API_BASE = "https://api.cloudflare.com/client/v4"

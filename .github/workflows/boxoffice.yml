@@ -73,4 +73,7 @@ jobs:
         id: cfdeploy
         env:
           CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          CLOUDFLARE_ACCOUNT_ID: fb9d10aa80966f2d08ec47f160e45231
+          FA_KV_REVIEWS_NAMESPACE_ID: 3008f0a65e50478fa4ce38c73461a111
+          FA_KV_HOME_BOXOFFICE_NAMESPACE_ID: 57e209918e1b4fcfbf108c6b6a7cebdd
         run: python3 scripts/cloudflare_deploy.py
