@@ -471,10 +471,10 @@ window.FA_DAYWISE = {
     {
       "date": "2026-11-27",
       "day": "Day 36",
-      "collection": 1057,
+      "collection": 2113,
       "shows": 39,
-      "occupancy": 8.9,
-      "tickets": 436
+      "occupancy": 10.3,
+      "tickets": 503
     }
   ],
   "1400940": [

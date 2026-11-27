@@ -2459,9 +2459,9 @@
         "extras": {
           "occupancy": {
             "sources": {
-              "filmynewsnetwork": 8.4
+              "filmynewsnetwork": 10.1
             },
-            "value": 8.4
+            "value": 10.1
           },
           "shows": {
             "sources": {
@@ -2471,9 +2471,9 @@
           },
           "tickets": {
             "sources": {
-              "filmynewsnetwork": 197
+              "filmynewsnetwork": 239
             },
-            "value": 197
+            "value": 239
           }
         },
         "india": false
@@ -5095,9 +5095,9 @@
         "extras": {
           "occupancy": {
             "sources": {
-              "filmynewsnetwork": 11.9
+              "filmynewsnetwork": 11.4
             },
-            "value": 11.9
+            "value": 11.4
           },
           "shows": {
             "sources": {
@@ -5107,9 +5107,9 @@
           },
           "tickets": {
             "sources": {
-              "filmynewsnetwork": 169
+              "filmynewsnetwork": 162
             },
-            "value": 169
+            "value": 162
           }
         },
         "india": false
@@ -7919,17 +7919,17 @@
       "36": {
         "ai_first": false,
         "collection_currency": "USD",
-        "collection_inr_cr": 0.01,
+        "collection_inr_cr": 0.02,
         "collection_scope": "india_net",
-        "collection_usd": 1057,
+        "collection_usd": 2113,
         "date": "2026-11-27",
         "date_disagreed": false,
         "extras": {
           "occupancy": {
             "sources": {
-              "filmynewsnetwork": 8.9
+              "filmynewsnetwork": 10.3
             },
-            "value": 8.9
+            "value": 10.3
           },
           "shows": {
             "sources": {
@@ -7939,14 +7939,14 @@
           },
           "tickets": {
             "sources": {
-              "filmynewsnetwork": 436
+              "filmynewsnetwork": 503
             },
-            "value": 436
+            "value": 503
           }
         },
         "india": true,
         "sources": {
-          "filmynewsnetwork": 0.01
+          "filmynewsnetwork": 0.02
         }
       },
       "4": {

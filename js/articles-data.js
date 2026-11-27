@@ -267319,5 +267319,414 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Fri, 27 Nov 2026 18:25:22 +0000"
+  },
+  "3ha6sc": {
+    "id": "3ha6sc",
+    "type": "news",
+    "headline": "How Gen Z Creator Jenny Kamki Rose to Fame From a Viral Reel to India's Got Latent",
+    "dek": "Discover the journey of Arunachal Pradesh creator Jenny Kamki, whose viral study-dance reel crossed 235 million views and led to an appearance on Samay Raina's show.",
+    "body": [
+      {
+        "h": "Introduction to the Viral Sensation",
+        "p": [
+          "Internet stardom can strike unexpectedly, transforming ordinary lives overnight. For Gen Z content creator Jenny Kamki from Arunachal Pradesh, a single spontaneous video completely shifted her trajectory, capturing the imagination of millions across social media.",
+          "Her unique blend of relatable student life and energetic dancing struck a chord with viewers, catapulting her from a regional creator to a nationwide internet phenomenon."
+        ]
+      },
+      {
+        "h": "Roots and Background in Arunachal Pradesh",
+        "p": [
+          "Jenny Kamki hails from the Kamki village located in the West Siang district of Arunachal Pradesh. Currently residing in Guwahati, Assam, she balances her demanding homeopathy studies with her passion for creating engaging digital content.",
+          "Known online by her handle Lucid For You, she has successfully managed to juggle academic pursuits with her creative hobbies, building a strong foundation in the digital space."
+        ]
+      },
+      {
+        "h": "The Breakthrough Reel on 'Vachindamma'",
+        "p": [
+          "The turning point in her digital journey arrived when she posted a reel featuring the Telugu song 'Vachindamma'. In the video, she is initially seen studying before abruptly breaking into an entertaining dance routine.",
+          "This humorous and relatable depiction of student distraction resonated deeply with audiences, driving the view count past an impressive 235 million views on the internet."
+        ]
+      },
+      {
+        "h": "Praise from Film Stars Rashmika Mandanna and Vijay Deverakonda",
+        "p": [
+          "The massive success of her video extended far beyond general social media users, catching the attention of notable film personalities. The stars of the film 'Geetha Govindam', Rashmika Mandanna and Vijay Deverakonda, publicly praised her dance reel.",
+          "This high-profile acknowledgment further amplified her reach, proving that authentic and unpretentious content created without heavy production setups can achieve extraordinary acclaim."
+        ]
+      },
+      {
+        "h": "Appearance on Samay Raina's India's Got Latent",
+        "p": [
+          "Following her social media surge, Jenny appeared on the second season of Samay Raina's popular show 'India's Got Latent'. During her appearance, she showcased both her dancing abilities and her musical talent by performing an unreleased song written and composed by her brother.",
+          "Host Samay Raina expressed genuine astonishment upon learning about her 235 million views, playfully offering to hand over his judge's chair to her in a lighthearted exchange that amused the audience."
+        ]
+      },
+      {
+        "h": "Formal Training and Content Style",
+        "p": [
+          "Beyond her natural charisma, Jenny brings technical skill to her performances as a trained dancer. Her background includes formal instruction in Kathak and Assam's classical dance form Sattriya, alongside traditional folk dance training.",
+          "Her signature style relies on expressive facial features and relatable humor, seamlessly blending everyday student struggles with performance arts to maintain a deep connection with her followers."
+        ]
+      },
+      {
+        "h": "Growing Recognition and Industry Milestone",
+        "p": [
+          "Even before her television appearance, Jenny commanded a dedicated following of over 1.2 million users on Instagram. Her growing influence has since led to collaborations with major brands such as Netflix, YouTube, ChatGPT, and Yes Madam.",
+          "Cementing her status in the entertainment industry, she was featured on 'The Hollywood Reporter India' 2026 Creator-A List, marking a remarkable rise from a small village to widespread recognition."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Gen Z content creator Jenny Kamki gained massive internet fame after a study-themed dance reel set to 'Vachindamma' surpassed 235 million views. Her viral success led to mainstream recognition, praise from film stars Rashmika Mandanna and Vijay Deverakonda, and an appearance on Samay Raina's show 'India's Got Latent'."
+        ]
+      }
+    ],
+    "facts": [
+      "Jenny Kamki comes from Kamki village in the West Siang district of Arunachal Pradesh.",
+      "She studies homeopathy in Guwahati, Assam.",
+      "Her viral reel on the Telugu song 'Vachindamma' crossed 235 million views.",
+      "Rashmika Mandanna and Vijay Deverakonda praised her dance video.",
+      "She appeared on the second season of Samay Raina's show 'India's Got Latent'.",
+      "She has training in Kathak, Sattriya, and traditional folk dance.",
+      "She had over 1.2 million followers on Instagram before her appearance on India's Got Latent.",
+      "She was included in The Hollywood Reporter India's 2026 Creator-A List."
+    ],
+    "entities": {
+      "people": [
+        "Jenny Kamki",
+        "Samay Raina",
+        "Rashmika Mandanna",
+        "Vijay Deverakonda"
+      ],
+      "titles": [
+        "Geetha Govindam",
+        "India's Got Latent"
+      ]
+    },
+    "keywords": [
+      "Jenny Kamki",
+      "India's Got Latent",
+      "Samay Raina",
+      "Arunachal Pradesh creator"
+    ],
+    "images": [
+      {
+        "url": "https://akm-img-a-in.tosshub.com/aajtak/images/photo_gallery/202611/6b0959e59aeff-gen-z-star-geni-kamki-arunachal-pradesh-272228426-16x9.jpg",
+        "caption": "How Gen Z Creator Jenny Kamki Rose to Fame From a Viral Reel to India's Got Latent",
+        "source": "Aaj Tak — Entertainment"
+      }
+    ],
+    "published": "2026-11-27T20:52:29Z"
+  },
+  "1tpoqgj": {
+    "id": "1tpoqgj",
+    "type": "news",
+    "headline": "Nine To Six Episode 2 Recap: Public Breakup, Phone Tracker, and Demotion",
+    "dek": "Park Min Young's Kang Yi-ji faces intense personal and professional turmoil in the second episode of the SBS series, dealing with a viral confrontation, a messy termination of a relationship, and a sudden transfer.",
+    "body": [
+      {
+        "h": "The Viral Video Fallout",
+        "p": [
+          "The second installment of the SBS drama begins right where the premiere left off, following the catastrophic spread of a video showing Kang Yi-ji confronting a vehicle owner during a street fire. While a hostile public gathers around her, Han Sun-woo steps in to protect her from the surging crowd.",
+          "Returning to her workplace, Yi-ji allows herself a brief two-minute window of isolation to shed tears over the public humiliation. She immediately composes herself, stepping back out to issue crisis management directives with the unwavering authority of a seasoned senior manager."
+        ]
+      },
+      {
+        "h": "A Public Relationship Ending",
+        "p": [
+          "Kim Dong-seok arrives at the office bearing flowers and a marriage proposal, attempting to pressure Yi-ji into accepting him under the guise that she lacks better alternatives. Refusing to yield, Yi-ji loudly announces in front of colleagues that their three-month romance is completely over.",
+          "The aftermath extends beyond the workplace when Yi-ji's mother visits the office, expressing frustration that her daughter discarded a seemingly secure romantic choice. Left alone with her smart robot, Yi-ji questions her capacity for long-term affection and stability."
+        ]
+      },
+      {
+        "h": "Uncovering the Digital Espionage",
+        "p": [
+          "An unusual technical issue arises when Sun-woo notices Yi-ji's smartphone overheating rapidly, leading him to suspect the presence of unauthorized tracking software. Suspicion immediately falls on Dong-seok as the likely perpetrator of the digital invasion.",
+          "With assistance from Sun-woo and Jung Tae-jun in an apartment located directly above hers, Yi-ji verifies the active tracking application. She formally reports Dong-seok to local law enforcement, securing a legal restraining order against him."
+        ]
+      },
+      {
+        "h": "Confrontation and Legal Action",
+        "p": [
+          "When Yi-ji confronts Dong-seok about the viral footage and the hidden mobile tracker, he attempts physical intimidation to assert dominance. Sun-woo arrives precisely at that moment, and Yi-ji informs her ex-partner that police authorities have already been alerted.",
+          "Following the confrontation and legal warnings, Dong-seok departs for Gangwon Province after a tense and hollow farewell. The incident leaves Yi-ji dealing with the heavy consequences of standing her ground against harassment."
+        ]
+      },
+      {
+        "h": "Forced Demotion and Hostile Transfer",
+        "p": [
+          "Capitalizing on the ongoing PR controversy, corporate leadership removes Yi-ji from her long-standing role in Legal Affairs, reassigning her to the Management Support division. This sudden move strips away the deputy manager title she spent ten years earning.",
+          "Lee Jung Eun, heading the Management Support team, actively attempts to break Yi-ji's spirit by assigning massive piles of historical files to organize within a tight two-day window. Yi-ji responds purely with professional logic, staying late to complete the tasks without breaking character."
+        ]
+      },
+      {
+        "h": "An Unexpected Ally and Professional Rivalries",
+        "p": [
+          "Refusing to remain behind in Legal Affairs, Sun-woo utilizes an intern department rotation to join Yi-ji in Management Support, vowing to uncover the individual responsible for leaking the viral video. A welcome dinner for the new department offers a lighthearted contrast of spicy food struggles and comedic misunderstandings.",
+          "Meanwhile, Yi-ji's workplace rival Jung Ki-tae secures the promotion to department head that Yi-ji had worked toward for a decade. Demonstrating remarkable composure, Yi-ji personally delivers his new nameplate and a congratulatory plant."
+        ]
+      },
+      {
+        "h": "Parallel Struggles in Marriage and Broadcast Details",
+        "p": [
+          "The narrative also explores the marital friction of Yi-ji's close friend Shin Ji-won, who faces relentless pressure from her mother-in-law to have children despite an initial pre-marital agreement with her husband Lee Yong-woon. Both women find themselves pushing back against external expectations of what their lives should entail.",
+          "The twelve-episode series broadcasts on SBS every Wednesday and Thursday at 9 p.m. KST, running until December 31, 2026. International viewers can stream episodes with English subtitles on Prime Video across more than 240 territories."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Kang Yi-ji navigated a turbulent week marked by a public breakup, a hidden phone tracker, and an unfair demotion to the Management Support team. Despite professional setbacks and personal pressures, she maintained her dignity and composure while receiving unexpected support from Han Sun-woo."
+        ]
+      }
+    ],
+    "facts": [
+      "Episode 2 of Nine to Six aired on November 26, 2026.",
+      "The 12-episode series premiered on November 25, 2026, and runs through December 31, 2026.",
+      "Nine to Six airs on SBS every Wednesday and Thursday at 9 p.m. KST.",
+      "Prime Video streams the series in more than 240 countries and territories.",
+      "Episode 3 is scheduled for Wednesday, December 2, 2026, at 9 p.m. KST."
+    ],
+    "entities": {
+      "people": [
+        "Park Min Young",
+        "Kang Yi-ji",
+        "Han Sun-woo",
+        "Yook Sung Jae",
+        "Kim Dong-seok",
+        "Bae Yoo-ram",
+        "Jung Tae-jun",
+        "Cheon Woo-jin",
+        "Lee Jung Eun",
+        "Cha Chung Hwa",
+        "Jung Ki-tae",
+        "Jo Bok-rae",
+        "Shin Ji-won",
+        "Joo Hyun-young",
+        "Lee Yong-woon",
+        "Nam Yoon-ho",
+        "Aneha Singh",
+        "Sougata Nandi"
+      ],
+      "titles": [
+        "Nine to Six",
+        "Love Is Blind",
+        "South Park",
+        "Rings of Power"
+      ]
+    },
+    "keywords": [
+      "Nine to Six Episode 2",
+      "Park Min Young Nine to Six",
+      "Kang Yi-ji Han Sun-woo",
+      "SBS Nine to Six drama"
+    ],
+    "images": [
+      {
+        "url": "https://vviptimes.com/wp-content/uploads/2026/11/image-2026-11-13T210520.244.webp",
+        "caption": "Nine To Six Episode 2 Recap: Public Breakup, Phone Tracker, and Demotion",
+        "source": "VVIP Times"
+      }
+    ],
+    "published": "Fri, 27 Nov 2026 20:24:55 +0000"
+  },
+  "1v4gpnd": {
+    "id": "1v4gpnd",
+    "type": "news",
+    "headline": "Anu Malik Reacts to Sajan Sajan Going Viral in Desi Batman Reels",
+    "dek": "Composer Anu Malik shares his thoughts after his 1999 track Sajan Sajan becomes a massive internet trend through Desi Batman reels, while expressing disappointment over not being contacted by creators.",
+    "body": [
+      {
+        "h": "The Unexpected Revival of a 1999 Track",
+        "p": [
+          "A musical composition originally created in 1999 has suddenly reclaimed the spotlight across digital platforms. The song Sajan Sajan, which was sung by Alka Yagnik and composed by Anu Malik, has found a completely new demographic of listeners decades after its initial release.",
+          "This resurgence happened in an entirely unconventional manner on social media, drawing attention from digital consumers and music lovers alike who are experiencing the vintage melody through a modern lens."
+        ]
+      },
+      {
+        "h": "The Desi Batman Phenomenon on Instagram",
+        "p": [
+          "The track's sudden mainstream return is largely credited to AI content creator Sujal Jaiswar, who integrated a remixed version of the song into a series of highly popular Desi Batman reels on Instagram.",
+          "In these short videos, the iconic DC superhero is placed in distinctly Indian and rural environments. Instead of patrolling city streets in his high-tech vehicle, this localized version of Batman can be seen navigating village pathways or even riding a buffalo, set against the backdrop of the nostalgic Bollywood tune."
+        ]
+      },
+      {
+        "h": "Behind the Remix and the Internet Obsession",
+        "p": [
+          "While the visual concept captured the imagination of Instagram users, the audio backbone of the trend relies on a specific musical adjustment. The version driving the viral clips was remixed by Abhishek Mehra.",
+          "The distinct combination of rural imagery, the unconventional superhero avatar, and classic Bollywood nostalgia quickly transformed the track into the internet's latest obsession, inspiring multiple other creators to adopt the format."
+        ]
+      },
+      {
+        "h": "Anu Malik Expresses Disappointment Over Lack of Communication",
+        "p": [
+          "Amid the widespread popularity of the reels, original composer Anu Malik shared his mixed feelings regarding the trend. While speaking to Variety India, he addressed the track's newfound fame among younger audiences.",
+          "However, he also voiced his disappointment that no one involved in the viral trend reached out to him beforehand. He pointed out a perceived lack of professional courtesy in contemporary times when utilizing original compositions."
+        ]
+      },
+      {
+        "h": "The Composer's Thoughts on Modern Technology and Melody",
+        "p": [
+          "Reflecting on the situation, the composer noted that while people are calling to congratulate him now that the song is making waves, the process began slowly before gaining massive momentum.",
+          "He also commented on the broader trend of modifying older tracks with modern technology, asserting that melody remains the ultimate driving force in music because listeners ultimately gravitate toward hummable tunes despite technological advancements."
+        ]
+      },
+      {
+        "h": "A History of Global Social Media Hits",
+        "p": [
+          "Beyond Sajan Sajan, the composer acknowledged a broader pattern of his older catalog finding new life on global social platforms. He mentioned feeling a great sense of satisfaction regarding several of his other past creations going viral.",
+          "Tracks such as Ding Dong Ding Dole, Soldier Soldier, and Naiyyo Naiyyo have similarly enjoyed renewed attention and appreciation from digital audiences across different parts of the world."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Composer Anu Malik has reacted to his 1999 song Sajan Sajan becoming a viral sensation on Instagram through Desi Batman reels created by Sujal Jaiswar and remixed by Abhishek Mehra. While expressing joy over the track's popularity and the enduring power of melody, Malik voiced disappointment that creators did not reach out to him prior to using his work."
+        ]
+      }
+    ],
+    "facts": [
+      "Anu Malik composed the song Sajan Sajan originally released in 1999.",
+      "Alka Yagnik sang the original track Sajan Sajan.",
+      "The remixed version was used in Desi Batman reels by AI content creator Sujal Jaiswar.",
+      "The remix of Sajan Sajan was created by Abhishek Mehra.",
+      "Anu Malik spoke about the viral trend in an interview with Variety India."
+    ],
+    "entities": {
+      "people": [
+        "Anu Malik",
+        "Alka Yagnik",
+        "Sujal Jaiswar",
+        "Abhishek Mehra"
+      ],
+      "titles": [
+        "Sajan Sajan",
+        "Ding Dong Ding Dole",
+        "Soldier Soldier",
+        "Naiyyo Naiyyo"
+      ]
+    },
+    "keywords": [
+      "Anu Malik Sajan Sajan",
+      "Desi Batman reels",
+      "Sujal Jaiswar Instagram",
+      "Sajan Sajan 1999 song"
+    ],
+    "images": [
+      {
+        "url": "https://images.timesnownews.com/thumb/msid-156573381,thumbsize-74396,width-1280,height-720,resizemode-75/156573381.jpg",
+        "caption": "Anu Malik Reacts to Sajan Sajan Going Viral in Desi Batman Reels",
+        "source": "Times Now — Entertainment"
+      }
+    ],
+    "published": "2026-11-27T20:52:29Z"
+  },
+  "1kbgfz9": {
+    "id": "1kbgfz9",
+    "type": "news",
+    "headline": "Exploring Exceptional Short-Run Netflix Series Worth Your Time",
+    "dek": "A look at standout television projects on Netflix featuring fewer than twenty total episodes that left a lasting impact despite their brief runs.",
+    "body": [
+      {
+        "h": "The Reality of Short-Lived Streaming Libraries",
+        "p": [
+          "Streaming platforms often struggle with maintaining long-running projects, and Netflix has a history of rarely keeping its top programs active past a third season. While financial considerations and avoidance of writer bonuses frequently drive these premature conclusions, the result is an array of compelling narratives cut short or rushed to early finales.",
+          "Despite this pattern of abrupt endings, the streaming library contains numerous compact projects with limited overall runtimes. Identifying the highest quality entries among these condensed offerings can prove difficult, yet exceptional television consistently emerges regardless of an episode count."
+        ]
+      },
+      {
+        "h": "Mindhunter and the Roots of True Crime",
+        "p": [
+          "Crafted by filmmaker David Fincher, this true crime thriller loosely draws inspiration from FBI Agent John Douglas and his investigative work into psychopathic offenders during the 1970s. The narrative follows investigators Holden Ford and Bill Tench as they interview notorious killers while simultaneously assisting local law enforcement with complex cases.",
+          "The production utilizes a meticulous style characteristic of its director while examining the complex boundaries of empathy. Although looming expenses and strict attention to historical detail ultimately hindered its path to a third installment, the project remains a high-water mark for the platform."
+        ]
+      },
+      {
+        "h": "Bodyguard as a Global Summer Phenomenon",
+        "p": [
+          "Initially debuting as a major hit on the BBC in the United Kingdom before expanding globally via streaming, this intense project captured widespread attention. Spanning only six total episodes, the production delivered an intricate mystery while serving as a breakout vehicle for its lead actor following his fantasy television tenure.",
+          "The narrative functions simultaneously as a murder mystery, a political conspiracy thriller, and a dark romance. Operating with the grand scale of a cinematic blockbuster while retaining intimate interpersonal dynamics, it stands out among contemporary thriller releases."
+        ]
+      },
+      {
+        "h": "Midnight Mass and Gothic Religious Fanaticism",
+        "p": [
+          "Representing a deeply personal creation within its creator's filmography, this horror offering blends classical family drama with dark gothic atmospheres. Moving into intensely grim territory, the story weaves historical occult lore into a grounded examination of religious zealotry and fear-mongering.",
+          "The project also elevated its leading performer within the horror community through a critically lauded portrayal. By tackling heavy thematic material, the series accomplished narrative heights rarely seen across standard digital broadcasting services."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Netflix maintains a trend of keeping its best projects relatively short due to structural and financial factors rather than purely creative choices. Notable compact series like Mindhunter, Bodyguard, and Midnight Mass demonstrate that limited episode counts can still deliver exceptional storytelling and lasting cultural impact."
+        ]
+      }
+    ],
+    "facts": [
+      "Netflix rarely renews shows beyond a third season.",
+      "Mindhunter ran from 2017 to 2019 and was created by David Fincher.",
+      "Bodyguard aired in 2018 and consisted of six episodes.",
+      "Midnight Mass was released in 2021 and starred Hamish Linklater."
+    ],
+    "entities": {
+      "people": [
+        "Liam Gaughan",
+        "David Fincher",
+        "John Douglas",
+        "Holden Ford",
+        "Bill Tench",
+        "Jonathan Groff",
+        "Holy McCallany",
+        "Richard Madden",
+        "Robb Stark",
+        "Hamish Linklater",
+        "Mike Flanagan",
+        "Father Paul",
+        "Mark Wahlberg",
+        "Jesse Plemons",
+        "Sam Mendes",
+        "Billy Eichner",
+        "Dylan O'Brien",
+        "Luke Wilson",
+        "B.J. Novak",
+        "Dustin Henderson",
+        "Emily Cooper",
+        "Wednesday Addams",
+        "Seong Gi-hun",
+        "William Golding",
+        "Ralph",
+        "Simon",
+        "Piggy",
+        "Winston Sawyers",
+        "Ike Talbut",
+        "David McKenna"
+      ],
+      "titles": [
+        "Mindhunter",
+        "Game of Thrones",
+        "Bodyguard",
+        "Midnight Mass",
+        "Stranger Things",
+        "Emily in Paris",
+        "Wednesday",
+        "Squid Game",
+        "Lord of the Flies"
+      ]
+    },
+    "keywords": [
+      "Mindhunter Netflix series",
+      "Bodyguard Richard Madden",
+      "Midnight Mass Mike Flanagan",
+      "Netflix shows short episodes"
+    ],
+    "images": [
+      {
+        "url": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/11/black-doves-keira-knightley-1.jpg?w=1600&amp;h=900&amp;fit=crop",
+        "caption": "Exploring Exceptional Short-Run Netflix Series Worth Your Time",
+        "source": "Collider"
+      }
+    ],
+    "published": "Fri, 27 Nov 2026 20:08:12 GMT"
   }
 };
