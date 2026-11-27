@@ -259847,5 +259847,410 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Fri, 27 Nov 2026 01:00:18 GMT"
+  },
+  "1muwkjc": {
+    "id": "1muwkjc",
+    "type": "news",
+    "headline": "Ramayana Box Office Day 22 Collection Reaches Near 1,000 Crore Mark in India",
+    "dek": "The film Ramayana has crossed significant global milestones on its twenty-second day, setting its sights on the lifetime records of Baahubali 2 and outperforming Pushpa 2 worldwide.",
+    "body": [
+      {
+        "h": "Introduction to the Box Office Milestone",
+        "p": [
+          "The theatrical run of the movie Ramayana continues to generate massive ticket sales globally, nearing a historic domestic milestone. On its twenty-second day in cinemas, the film secured impressive numbers across multiple languages.",
+          "With strong momentum in both domestic and international markets, the feature has cemented its place among the highest-grossing Indian films of all time."
+        ]
+      },
+      {
+        "h": "Day 22 Collections Across India",
+        "p": [
+          "On the twenty-second day of its release, Ramayana brought in ₹9.65 crore in net collections through 15,418 screenings across the country. The Hindi version contributed ₹6.75 crore to this daily total.",
+          "Regional markets also added to the earnings, with Malayalam contributing ₹1.00 crore, Kannada bringing in ₹85 lakh, Tamil generating ₹75 lakh, and Telugu adding ₹30 lakh."
+        ]
+      },
+      {
+        "h": "Domestic Gross and Net Totals",
+        "p": [
+          "The cumulative figures within India reflect the widespread popularity of the feature. The total gross collection domestically has reached ₹1,185.00 crore.",
+          "Meanwhile, the total net collection in India stands at ₹992.10 crore, placing the film on the threshold of the coveted ₹1,000 crore net milestone."
+        ]
+      },
+      {
+        "h": "International Earnings and Global Gross",
+        "p": [
+          "Overseas audiences have also contributed heavily to the box office success. On day twenty-two alone, international screenings brought in ₹10.00 crore.",
+          "This pushed the total international gross collection to ₹592.00 crore, contributing to an overall worldwide gross of ₹1,777.00 crore for the film."
+        ]
+      },
+      {
+        "h": "Surpassing Pushpa 2 and Targeting Baahubali 2",
+        "p": [
+          "Having already overtaken the lifetime worldwide collection of Pushpa 2: The Rule, which stood at ₹1,742.10 crore, the film has shifted its focus to the next major target.",
+          "The primary immediate competitor is SS Rajamouli's Baahubali 2: The Conclusion, which recorded a lifetime worldwide theatrical run of ₹1,788.06 crore."
+        ]
+      },
+      {
+        "h": "Global Ranking Among Indian Hits",
+        "p": [
+          "With a worldwide gross exceeding ₹1,777 crore, Ramayana now holds the fourth position among the highest-grossing Indian films in history.",
+          "The current global list features Dangal at ₹2,070.30 crore and Dhurandhar: The Revenge at ₹1,850.88 crore, keeping the race at the top extremely competitive."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Ramayana has achieved a worldwide gross of ₹1,777 crore by its twenty-second day and is closing in on a domestic net collection of ₹1,000 crore. After surpassing Pushpa 2, the production is now nearing the lifetime global records set by Baahubali 2."
+        ]
+      }
+    ],
+    "facts": [
+      "Ramayana earned ₹9.65 crore net on day 22 across 15,418 shows.",
+      "Day 22 language breakdown: Hindi ₹6.75 crore, Malayalam ₹1.00 crore, Kannada ₹85 lakh, Tamil ₹75 lakh, Telugu ₹30 lakh.",
+      "Total domestic gross is ₹1,185.00 crore and total net collection is ₹992.10 crore.",
+      "Overseas collection on day 22 was ₹10.00 crore, with a total overseas gross of ₹592.00 crore.",
+      "Total worldwide gross stands at ₹1,777.00 crore.",
+      "Pushpa 2: The Rule lifetime worldwide collection was ₹1,742.10 crore.",
+      "Baahubali 2: The Conclusion lifetime worldwide collection was ₹1,788.06 crore.",
+      "Dangal lifetime collection is ₹2,070.30 crore.",
+      "Dhurandhar: The Revenge lifetime collection is ₹1,850.88 crore."
+    ],
+    "entities": {
+      "people": [
+        "Allu Arjun",
+        "Ranbir Kapoor",
+        "Yash",
+        "SS Rajamouli"
+      ],
+      "titles": [
+        "Ramayana",
+        "Pushpa 2: The Rule",
+        "Baahubali 2: The Conclusion",
+        "Dangal",
+        "Dhurandhar: The Revenge"
+      ]
+    },
+    "keywords": [
+      "Ramayana box office",
+      "Ramayana day 22 collection",
+      "Ramayana worldwide collection",
+      "Ranbir Kapoor Yash Ramayana"
+    ],
+    "images": [
+      {
+        "url": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202611/6b08acb5b539b-ramayana-22-day-collection-260332487-16x9.jpg",
+        "caption": "Ramayana Box Office Day 22 Collection Reaches Near 1,000 Crore Mark in India",
+        "source": "Aaj Tak — Entertainment"
+      }
+    ],
+    "published": "2026-11-27T02:52:08Z"
+  },
+  "18tdy7k": {
+    "id": "18tdy7k",
+    "type": "news",
+    "headline": "Spider-Man: Brand New Day Extended Cut To Feature Deleted Avengers: Doomsday Scene In Theatrical Re-Release",
+    "dek": "Fresh reports reveal that the upcoming theatrical re-release of Spider-Man: Brand New Day will feature an extended cut containing a deleted scene from Avengers: Doomsday.",
+    "body": [
+      {
+        "h": "The Return to Cinemas",
+        "p": [
+          "The popular superhero movie Spider-Man: Brand New Day is preparing to swing back into theatres for a special upcoming theatrical re-release. According to recent reports, this cinematic return will offer audiences much more than just a simple replay of the original film.",
+          "Instead, moviegoers will get to experience an extended cut of the feature. This newly updated version is designed to provide fresh content and extra footage that was left out of the initial theatrical run."
+        ]
+      },
+      {
+        "h": "Connection to the Marvel Cinematic Universe",
+        "p": [
+          "The primary highlight of this extended re-release is the inclusion of a deleted scene originating from the highly anticipated film Avengers: Doomsday. Industry reports indicate that this bonus footage will play after the conclusion of Spider-Man: Brand New Day.",
+          "While specific plot details of the extra scene remain tightly under wraps, sources describe the footage as a promotional teaser for the upcoming Marvel crossover. This special addition aims to bridge the gap between the two narratives."
+        ]
+      },
+      {
+        "h": "Confirmed Additions and Cast Details",
+        "p": [
+          "Beyond the major crossover tease, fans can look forward to other previously unseen additions in the extended cut. One of the confirmed changes is the inclusion of Rosario Dawson's scene portraying Claire Temple.",
+          "That particular sequence did not make the final cut during the original editing process. Its restoration provides a welcome treat for long-time followers of the character and the broader franchise."
+        ]
+      },
+      {
+        "h": "Context and Narrative Setup",
+        "p": [
+          "The decision to include Avengers footage arrives amid immense hype surrounding the trajectory of the Marvel Cinematic Universe. The original film featured a notable post-credit sequence involving Ned's spider-tracker locating Spider-Man.",
+          "That scene hinted that the web-slinger was no longer on Earth and might have transitioned into the Doomsday universe. Consequently, audiences have eagerly anticipated a direct narrative bridge connecting the two stories."
+        ]
+      },
+      {
+        "h": "Precedent from Past Re-releases",
+        "p": [
+          "Rumours regarding the addition of Doomsday footage began circulating shortly after similar strategies were deployed by studio executives. Specifically, additional footage was successfully added to Avengers Endgame: Encore during its own theatrical re-release.",
+          "That prior event demonstrated the effectiveness of using extended cuts to drive renewed audience interest. It also set a clear precedent for utilizing re-releases as marketing vehicles for upcoming slate entries."
+        ]
+      },
+      {
+        "h": "Directing and Release Schedule",
+        "p": [
+          "The upcoming crossover film Avengers: Doomsday is directed by the acclaimed filmmakers Anthony and Joe Russo. The feature is scheduled to arrive in theatres globally later this year.",
+          "US audiences can expect the film on December 18, 2026, while moviegoers in India will be able to watch it a day earlier on December 17, 2026."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Reports indicate that Spider-Man: Brand New Day will return to theatres with an extended cut featuring a deleted scene from Avengers: Doomsday. The theatrical re-release also restores Rosario Dawson's cut sequence as Claire Temple to build anticipation for the upcoming Marvel crossover."
+        ]
+      }
+    ],
+    "facts": [
+      "Spider-Man: Brand New Day is receiving a theatrical re-release with an extended cut.",
+      "The extended cut features a deleted scene from Avengers: Doomsday.",
+      "Rosario Dawson's scene as Claire Temple is included in the re-release.",
+      "Avengers: Doomsday is directed by Anthony and Joe Russo.",
+      "Avengers: Doomsday releases on December 18, 2026 in the US and December 17, 2026 in India."
+    ],
+    "entities": {
+      "people": [
+        "Rosario Dawson",
+        "Anthony Russo",
+        "Joe Russo",
+        "Ned"
+      ],
+      "titles": [
+        "Spider-Man: Brand New Day",
+        "Avengers: Doomsday",
+        "Avengers Endgame: Encore"
+      ]
+    },
+    "keywords": [
+      "Spider-Man Brand New Day",
+      "Avengers Doomsday",
+      "Rosario Dawson Claire Temple",
+      "Anthony and Joe Russo"
+    ],
+    "images": [
+      {
+        "url": "https://static.toiimg.com/thumb/msid-136206101,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "caption": "Spider-Man: Brand New Day Extended Cut To Feature Deleted Avengers: Doomsday Scene In Theatrical Re-Release",
+        "source": "Times of India — Entertainment"
+      }
+    ],
+    "published": "2026-11-27T05:57:03+05:30"
+  },
+  "vopqak": {
+    "id": "vopqak",
+    "type": "news",
+    "headline": "Netflix Unveils Main Trailer and Poster for Upcoming Korean Drama Series Tantara",
+    "dek": "Netflix has revealed the main trailer and poster for its upcoming drama series Tantara, starring a star-studded cast including Song Hye-Kyo and Gong Yoo.",
+    "body": [
+      {
+        "h": "Introduction and Release Strategy",
+        "p": [
+          "Netflix has officially dropped the primary trailer and promotional poster for the highly anticipated drama series Tantara. The production is set to roll out in an unusual three-part format to deliver its sweeping narrative to global audiences.",
+          "Viewers will not have to wait long between installments as the release dates are spread out closely across the month of December 2026."
+        ]
+      },
+      {
+        "h": "Part 1 Premiere Details",
+        "p": [
+          "The first part of the series is scheduled to debut on December 11, 2026. This opening block will comprise the first eight episodes.",
+          "Audience members will watch the formative childhood years of the central figures Min-Ja, Dong-Gu, and Min-Hee unfold before transitioning into their early adult lives."
+        ]
+      },
+      {
+        "h": "Part 2 and Part 3 Rollout",
+        "p": [
+          "Part 2 arrives shortly after on December 18, 2026, containing episodes 9 through 15. This segment focuses on their migration toward an unknown environment to pursue their ultimate ambitions alongside Min-Hee taking on fresh challenges.",
+          "The final portion launches on December 25, 2026, featuring episodes 16 through 22. This conclusion examines the trials and pivotal decisions faced by individuals hunting for triumph and the ultimate consequences awaiting them."
+        ]
+      },
+      {
+        "h": "Setting and Premise",
+        "p": [
+          "The storyline takes place against the backdrop of the South Korean entertainment scene spanning from the 1960s through the 1980s. The narrative captures an era of rapid cultural and industrial evolution.",
+          "Central character Min-Ja navigates numerous challenges during her upbringing, forging an exceptionally resilient inner resolve that helps her spot a major opening inside the Korean music scene."
+        ]
+      },
+      {
+        "h": "Key Characters and Relationships",
+        "p": [
+          "Min-Ja is portrayed by Song Hye-Kyo, while Gong Yoo steps into the role of Dong-Gu, a lifelong companion with an erratic temperament who follows her into the music industry while obeying her every direction.",
+          "Seol Hyun plays Min-Hee, who shares a complicated childhood love-hate dynamic with Min-Ja, marked by obedience mixed with sharp cleverness and rebellion."
+        ]
+      },
+      {
+        "h": "Industry Magnates and Supporting Roles",
+        "p": [
+          "Cha Seung-Won joins the cast as Gil-Yeo, an influential music industry magnate and legendary composer whose protégés invariably achieve mainstream success.",
+          "Lee Ha-Nee appears as Yang-Ja, Min-Hee's mother, who continues holding onto her personal aspirations of becoming a singer despite facing harsh personal circumstances."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Netflix has released the main trailer and poster for the upcoming drama series Tantara, starring Song Hye-Kyo and Gong Yoo. The series is set within the South Korean entertainment industry from the 1960s to the 1980s and will roll out in three parts starting on December 11, 2026."
+        ]
+      }
+    ],
+    "facts": [
+      "Tantara is a Netflix drama series.",
+      "Part 1 releases on December 11, 2026, with episodes 1-8.",
+      "Part 2 releases on December 18, 2026, with episodes 9-15.",
+      "Part 3 releases on December 25, 2026, with episodes 16-22.",
+      "The series is set in the South Korean entertainment industry from the 1960s through the 1980s.",
+      "Song Hye-Kyo stars as Min-Ja.",
+      "Gong Yoo stars as Dong-Gu.",
+      "Seol Hyun stars as Min-Hee.",
+      "Cha Seung-Won stars as Gil-Yeo.",
+      "Lee Ha-Nee stars as Yang-Ja."
+    ],
+    "entities": {
+      "people": [
+        "Song Hye-Kyo",
+        "Gong Yoo",
+        "Seol Hyun",
+        "Cha Seung-Won",
+        "Lee Ha-Nee"
+      ],
+      "titles": [
+        "Tantara"
+      ]
+    },
+    "keywords": [
+      "Tantara Netflix drama series",
+      "Song Hye-Kyo Tantara",
+      "Gong Yoo Tantara release date",
+      "Tantara trailer and poster"
+    ],
+    "images": [
+      {
+        "url": "https://blog.asianwiki.com/wp-content/uploads/2026/11/Tantara-SM1-2.jpg",
+        "caption": "Netflix Unveils Main Trailer and Poster for Upcoming Korean Drama Series Tantara",
+        "source": "AsianWiki"
+      }
+    ],
+    "published": "Fri, 27 Nov 2026 01:38:02 +0000"
+  },
+  "1f6yclo": {
+    "id": "1f6yclo",
+    "type": "news",
+    "headline": "Looking Back at Some of the Most Controversial Academy Awards Decisions in Cinema History",
+    "dek": "An exploration of major Academy Awards controversies, from unexpected Best Picture victories to career-achievement wins that sparked ongoing debates among film enthusiasts.",
+    "body": [
+      {
+        "h": "Introduction to Oscar Controversies",
+        "p": [
+          "Every year, movie lovers tune in to watch the Academy Awards honor the finest achievements in cinema from the previous year. Alongside the celebration, passionate opinions inevitably emerge regarding who deserves to take home the gold statuette.",
+          "Over the nearly century-long history of the Academy of Motion Picture Arts and Sciences, several outcomes have left audiences and cinephiles completely baffled, highlighting recurring debates over perceived snubs and questionable victories."
+        ]
+      },
+      {
+        "h": "Fight for You Versus Husavik",
+        "p": [
+          "The 2021 Best Original Song category brought immediate surprise when Eurovision Song Contest: Story of Fire Saga landed an Academy Award nomination, highlighted by the standout track \"Husavik (My Hometown).\"",
+          "Despite a memorable virtual performance featuring Molly Sandén, an Icelandic child choir, and a boat in Iceland, the honor ultimately went to \"Fight for You\" from Judas and the Black Messiah, performed by H.E.R. with music by H.E.R. and Dernst Emile II, and lyrics by H.E.R. and Tiara Thomas."
+        ]
+      },
+      {
+        "h": "Meryl Streep and The Iron Lady",
+        "p": [
+          "For her portrayal of Margaret Thatcher in The Iron Lady, legendary actress Meryl Streep secured an Academy Award for Best Leading Actress, which ended a 29-year drought following twelve straight defeats.",
+          "While Streep captured Thatcher's voice, posture, and resolve, many critics and viewers argued the victory should have gone to Viola Davis for The Help, especially given that Streep's film received a heavy awards push from distributor Harvey Weinstein while lacking writing or directing nominations."
+        ]
+      },
+      {
+        "h": "Shakespeare in Love Over Saving Private Ryan",
+        "p": [
+          "One of the most heavily discussed Best Picture upsets occurred in 1999 when Shakespeare in Love defeated the war masterpiece Saving Private Ryan.",
+          "The romantic dramedy followed a cash-strapped William Shakespeare overcoming writer's block through a romance with Viola de Lesseps, benefiting from an aggressive campaign by Miramax and producer Harvey Weinstein that propelled the film to 13 nominations."
+        ]
+      },
+      {
+        "h": "Forrest Gump and Pulp Fiction",
+        "p": [
+          "The 1995 Best Picture race featured a distinct clash between traditional sentimentality and postmodern storytelling when Forrest Gump triumphed over Pulp Fiction.",
+          "Directed by Robert Zemeckis and starring Tom Hanks, Forrest Gump relied on broad emotional appeal, widespread commercial success, and innovative invisible CGI, while Quentin Tarantino's gritty, non-linear crime film offered a far riskier cinematic vision."
+        ]
+      },
+      {
+        "h": "Jamie Lee Curtis in Everything Everywhere All at Once",
+        "p": [
+          "During the 2023 ceremony, Everything Everywhere All at Once secured numerous accolades, but Jamie Lee Curtis's victory for Best Supporting Actress sparked intense discussions about intra-film competition.",
+          "Playing IRS inspector Deirdre Beaubeidre, Curtis defeated her co-star Stephanie Hsu, with industry observers attributing the win to career goodwill, late-season awards momentum, and active campaign efforts."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Academy Awards history contains numerous controversial decisions where popular consensus and actual winners diverged significantly across major categories.",
+          "These ten notable instances demonstrate how aggressive studio campaigns, industry reverence, and shifting cultural tastes have continually shaped the outcome of cinema's biggest night."
+        ]
+      }
+    ],
+    "facts": [
+      "Michael Block is a 14-time GLAM Award nominated writer and podcast host.",
+      "Judas and the Black Messiah won Best Original Song in 2021 for the track Fight for You.",
+      "Fight for You was performed by H.E.R. with music by H.E.R. and Dernst Emile II, and lyrics by H.E.R. and Tiara Thomas.",
+      "Meryl Streep won Best Leading Actress in 2012 for her role as Margaret Thatcher in The Iron Lady.",
+      "Shakespeare in Love won Best Picture in 1999, beating Saving Private Ryan.",
+      "Shakespeare in Love received 13 Oscar nominations while Saving Private Ryan received 11.",
+      "Forrest Gump won Best Picture in 1995, competing against Pulp Fiction.",
+      "Jamie Lee Curtis won Best Supporting Actress in 2023 for Everything Everywhere All at Once, defeating her co-star Stephanie Hsu."
+    ],
+    "entities": {
+      "people": [
+        "Michael Block",
+        "Fred Hampton",
+        "Daniel Kaluuya",
+        "Molly Sandén",
+        "H.E.R.",
+        "Dernst Emile II",
+        "Tiara Thomas",
+        "Meryl Streep",
+        "Margaret Thatcher",
+        "Viola Davis",
+        "Harvey Weinstein",
+        "Octavia Spencer",
+        "Joseph Fiennes",
+        "Gwyneth Paltrow",
+        "Steven Spielberg",
+        "Robert Zemeckis",
+        "Tom Hanks",
+        "Robin Wright",
+        "Quentin Tarantino",
+        "Jamie Lee Curtis",
+        "Stephanie Hsu",
+        "Michelle Yeoh"
+      ],
+      "titles": [
+        "Eurovision Song Contest: Story of Fire Saga",
+        "Husavik (My Hometown)",
+        "Judas and the Black Messiah",
+        "Fight for You",
+        "The Iron Lady",
+        "The Help",
+        "Fences",
+        "Shakespeare in Love",
+        "Saving Private Ryan",
+        "Romeo and Juliet",
+        "Forrest Gump",
+        "Pulp Fiction",
+        "Philadelphia",
+        "The Shawshank Redemption",
+        "Everything Everywhere All at Once"
+      ]
+    },
+    "keywords": [
+      "Worst Oscars decisions ranked",
+      "Shakespeare in Love Saving Private Ryan Oscar",
+      "Meryl Streep The Iron Lady Oscar",
+      "Forrest Gump Pulp Fiction Oscar",
+      "Jamie Lee Curtis Everything Everywhere All at Once"
+    ],
+    "images": [
+      {
+        "url": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/01/crash-movie-1.jpg?w=1600&amp;h=900&amp;fit=crop",
+        "caption": "Looking Back at Some of the Most Controversial Academy Awards Decisions in Cinema History",
+        "source": "Collider"
+      }
+    ],
+    "published": "Fri, 27 Nov 2026 01:11:12 GMT"
   }
 };

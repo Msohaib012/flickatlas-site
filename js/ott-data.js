@@ -70,7 +70,6 @@ window.FA_OTT = {
       "type": "tv"
     },
     {
-      "country": "US",
       "date": "2026-11-25",
       "date_kind": "digital",
       "id": 1458300,
@@ -159,6 +158,22 @@ window.FA_OTT = {
       "id": 1769056,
       "providers": [],
       "type": "movie"
+    },
+    {
+      "date": "2026-11-24",
+      "date_kind": "release",
+      "id": 171802,
+      "providers": [
+        {
+          "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+          "name": "Amazon Prime Video"
+        },
+        {
+          "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+          "name": "Amazon Prime Video with Ads"
+        }
+      ],
+      "type": "tv"
     },
     {
       "country": "US",
@@ -1212,11 +1227,11 @@ window.FA_OTT = {
       "id": 254630,
       "providers": [
         {
-          "logo_path": "/9icYBfYFcwgCbky5VdGUIKJ4C5i.png",
+          "logo_path": "/v9SnyvYt0U3KGgBH3Sbh3z4yODe.png",
           "name": "Apple TV"
         },
         {
-          "logo_path": "/rerVCu9auZrgxTTiZu1criqrQzg.png",
+          "logo_path": "/giKLP7saeUA0WykEPRyZUcOVv92.png",
           "name": "Apple TV Amazon Channel"
         }
       ],
@@ -3076,6 +3091,22 @@ window.FA_OTT = {
       "type": "tv"
     },
     {
+      "date": "2026-10-17",
+      "date_kind": "release",
+      "id": 1555847,
+      "providers": [
+        {
+          "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+          "name": "Amazon Prime Video"
+        },
+        {
+          "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+          "name": "Amazon Prime Video with Ads"
+        }
+      ],
+      "type": "movie"
+    },
+    {
       "date": "2026-10-16",
       "date_kind": "digital",
       "id": 1561726,
@@ -3388,11 +3419,15 @@ window.FA_OTT = {
       "type": "tv"
     },
     {
-      "country": "US",
       "date": "2026-10-06",
       "date_kind": "digital",
       "id": 969681,
-      "providers": [],
+      "providers": [
+        {
+          "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        }
+      ],
       "type": "movie"
     },
     {
@@ -5738,10 +5773,6 @@ window.FA_OTT = {
         {
           "logo_path": "/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png",
           "name": "Crunchyroll"
-        },
-        {
-          "logo_path": "/coM4QWbmIOa0xJ5cGR9BRmoV25B.png",
-          "name": "Sony Liv"
         },
         {
           "logo_path": "/qHLLmKo7udRgiSnIASVTwP2IxfJ.png",

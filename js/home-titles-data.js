@@ -209,7 +209,14 @@ window.FA_PUBLISHED = {
     ],
     "published_at": "2026-10-26",
     "status": "Released",
-    "providers": [],
+    "providers": [
+      {
+        "name": "Netflix",
+        "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+        "region": "IN",
+        "type": "flatrate"
+      }
+    ],
     "release_date": "2026-07-29"
   },
   "1101412": {
@@ -12898,7 +12905,14 @@ window.FA_PUBLISHED = {
     "published_at": "2026-11-02",
     "date_kind": "release",
     "status": "Released",
-    "providers": [],
+    "providers": [
+      {
+        "name": "Netflix",
+        "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+        "region": "IN",
+        "type": "flatrate"
+      }
+    ],
     "release_date": "2026-10-29",
     "popularity": 7.4098
   },
@@ -18036,12 +18050,6 @@ window.FA_PUBLISHED = {
       {
         "name": "Crunchyroll",
         "logo_path": "/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png",
-        "region": "IN",
-        "type": "flatrate"
-      },
-      {
-        "name": "Sony Liv",
-        "logo_path": "/coM4QWbmIOa0xJ5cGR9BRmoV25B.png",
         "region": "IN",
         "type": "flatrate"
       },
@@ -25281,7 +25289,20 @@ window.FA_PUBLISHED = {
     "published_at": "2026-11-11",
     "date_kind": "release",
     "status": "Released",
-    "providers": [],
+    "providers": [
+      {
+        "name": "Amazon Prime Video",
+        "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+        "region": "IN",
+        "type": "flatrate"
+      },
+      {
+        "name": "Amazon Prime Video with Ads",
+        "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+        "region": "IN",
+        "type": "flatrate"
+      }
+    ],
     "release_date": "2026-10-17",
     "popularity": 1.5996
   },
@@ -27128,13 +27149,13 @@ window.FA_PUBLISHED = {
     "providers": [
       {
         "name": "Apple TV",
-        "logo_path": "/9icYBfYFcwgCbky5VdGUIKJ4C5i.png",
+        "logo_path": "/v9SnyvYt0U3KGgBH3Sbh3z4yODe.png",
         "region": "IN",
         "type": "flatrate"
       },
       {
         "name": "Apple TV Amazon Channel",
-        "logo_path": "/rerVCu9auZrgxTTiZu1criqrQzg.png",
+        "logo_path": "/giKLP7saeUA0WykEPRyZUcOVv92.png",
         "region": "IN",
         "type": "flatrate"
       }
@@ -39217,7 +39238,20 @@ window.FA_PUBLISHED = {
     ],
     "published_at": "2026-11-24",
     "status": "In Production",
-    "providers": [],
+    "providers": [
+      {
+        "name": "Amazon Prime Video",
+        "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+        "region": "IN",
+        "type": "flatrate"
+      },
+      {
+        "name": "Amazon Prime Video with Ads",
+        "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+        "region": "IN",
+        "type": "flatrate"
+      }
+    ],
     "first_air_date": "2026-11-24",
     "popularity": 19.2625
   },

@@ -366,7 +366,14 @@ window.FA_PUBLISHED = {
     "certification": "U/A 13+",
     "release_date": "2026-07-29",
     "runtime": 145,
-    "providers": []
+    "providers": [
+      {
+        "name": "Netflix",
+        "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+        "region": "IN",
+        "type": "flatrate"
+      }
+    ]
   },
   "1101412": {
     "id": 1101412,
@@ -20233,7 +20240,14 @@ window.FA_PUBLISHED = {
     "release_date": "2026-10-29",
     "date_kind": "release",
     "runtime": 128,
-    "providers": []
+    "providers": [
+      {
+        "name": "Netflix",
+        "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+        "region": "IN",
+        "type": "flatrate"
+      }
+    ]
   },
   "1800425": {
     "id": 1800425,
@@ -28451,12 +28465,6 @@ window.FA_PUBLISHED = {
       {
         "name": "Crunchyroll",
         "logo_path": "/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png",
-        "region": "IN",
-        "type": "flatrate"
-      },
-      {
-        "name": "Sony Liv",
-        "logo_path": "/coM4QWbmIOa0xJ5cGR9BRmoV25B.png",
         "region": "IN",
         "type": "flatrate"
       },
@@ -39935,7 +39943,20 @@ window.FA_PUBLISHED = {
     "release_date": "2026-10-17",
     "date_kind": "release",
     "runtime": 141,
-    "providers": []
+    "providers": [
+      {
+        "name": "Amazon Prime Video",
+        "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+        "region": "IN",
+        "type": "flatrate"
+      },
+      {
+        "name": "Amazon Prime Video with Ads",
+        "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+        "region": "IN",
+        "type": "flatrate"
+      }
+    ]
   },
   "1608666": {
     "id": 1608666,
@@ -42904,13 +42925,13 @@ window.FA_PUBLISHED = {
     "providers": [
       {
         "name": "Apple TV",
-        "logo_path": "/9icYBfYFcwgCbky5VdGUIKJ4C5i.png",
+        "logo_path": "/v9SnyvYt0U3KGgBH3Sbh3z4yODe.png",
         "region": "IN",
         "type": "flatrate"
       },
       {
         "name": "Apple TV Amazon Channel",
-        "logo_path": "/rerVCu9auZrgxTTiZu1criqrQzg.png",
+        "logo_path": "/giKLP7saeUA0WykEPRyZUcOVv92.png",
         "region": "IN",
         "type": "flatrate"
       }
@@ -63372,7 +63393,20 @@ window.FA_PUBLISHED = {
     "created_by": [
       "Silka Luisa"
     ],
-    "providers": [],
+    "providers": [
+      {
+        "name": "Amazon Prime Video",
+        "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+        "region": "IN",
+        "type": "flatrate"
+      },
+      {
+        "name": "Amazon Prime Video with Ads",
+        "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+        "region": "IN",
+        "type": "flatrate"
+      }
+    ],
     "providers_wtw": []
   },
   "1088548": {
