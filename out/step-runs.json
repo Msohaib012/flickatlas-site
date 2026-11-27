@@ -942,29 +942,6 @@
    {
     "step": "apply_auto",
     "category": "Trending News",
-    "run_at": "2026-11-26T15:13:11Z",
-    "run_id": "45843042147",
-    "status": "success",
-    "checked": {
-     "candidates": 14,
-     "detail": "draft articles + box-office rows from out/gemini-batch.json"
-    },
-    "changed": {
-     "added": [
-      "Sharvari Wagh Calls Marriage the End Goal of Love Ahead of Her Bridal Debut in Yeh Prem Mol Liya",
-      "A Heartwarming Exchange: Tamil Nadu Chief Minister C Joseph Vijay Reacts to a Young Admirer's Surprise Kiss",
-      "Keerthy Suresh Shares Lighthearted Insights About Married Life With Antony Thattil",
-      "Unofficial GTA 6 PC Project Revived by 15-Year-Old Lead Developer"
-     ],
-     "updated": [],
-     "count": 4,
-     "detail": "+4 articles, +0 box-office rows, 0 rows updated"
-    },
-    "reason": null
-   },
-   {
-    "step": "apply_auto",
-    "category": "Trending News",
     "run_at": "2026-11-26T15:52:33Z",
     "run_id": "45853049985",
     "status": "success",
@@ -1485,6 +1462,24 @@
      "detail": "+4 articles, +0 box-office rows, 3 rows updated"
     },
     "reason": null
+   },
+   {
+    "step": "apply_auto",
+    "category": "Trending News",
+    "run_at": "2026-11-27T14:37:23Z",
+    "run_id": "46013639567",
+    "status": "success",
+    "checked": {
+     "candidates": 14,
+     "detail": "draft articles + box-office rows from out/gemini-batch.json"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 3,
+     "detail": "+0 articles, +0 box-office rows, 3 rows updated"
+    },
+    "reason": null
    }
   ],
   "ott": [
@@ -1922,31 +1917,6 @@
    }
   ],
   "trending_weekly": [
-   {
-    "step": "trending_weekly",
-    "category": "Trending Topics",
-    "run_at": "2026-11-26T15:26:33Z",
-    "run_id": "45843042147",
-    "status": "success",
-    "checked": {
-     "candidates": 100,
-     "detail": "cached Google RSS trend/article intersection"
-    },
-    "changed": {
-     "added": [
-      "c5dqxe",
-      "n3cs3w",
-      "160h3ho",
-      "i6fzr",
-      "1xiu6pn",
-      "1d4dtfu",
-      "15eqb9k"
-     ],
-     "updated": [],
-     "count": 7
-    },
-    "reason": null
-   },
    {
     "step": "trending_weekly",
     "category": "Trending Topics",
@@ -2443,6 +2413,23 @@
      "count": 2
     },
     "reason": null
+   },
+   {
+    "step": "trending_weekly",
+    "category": "Trending Topics",
+    "run_at": "2026-11-27T14:37:24Z",
+    "run_id": "46013639567",
+    "status": "success",
+    "checked": {
+     "candidates": 100,
+     "detail": "cached Google RSS trend/article intersection"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 0
+    },
+    "reason": "no-new-data"
    }
   ],
   "multisource_boxoffice": [
@@ -3132,24 +3119,6 @@
    {
     "step": "convert_news",
     "category": "Trending News",
-    "run_at": "2026-11-26T15:26:32Z",
-    "run_id": "45843042147",
-    "status": "success",
-    "checked": {
-     "candidates": 600,
-     "detail": "feed entries from out/queue.json"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 0,
-     "detail": "api-news.json 600 items, api-trends.json 12 items"
-    },
-    "reason": "no-new-data"
-   },
-   {
-    "step": "convert_news",
-    "category": "Trending News",
     "run_at": "2026-11-26T15:53:00Z",
     "run_id": "45853049985",
     "status": "success",
@@ -3674,6 +3643,24 @@
      "detail": "api-news.json 600 items, api-trends.json 12 items"
     },
     "reason": null
+   },
+   {
+    "step": "convert_news",
+    "category": "Trending News",
+    "run_at": "2026-11-27T14:37:23Z",
+    "run_id": "46013639567",
+    "status": "success",
+    "checked": {
+     "candidates": 600,
+     "detail": "feed entries from out/queue.json"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 0,
+     "detail": "api-news.json 600 items, api-trends.json 12 items"
+    },
+    "reason": "no-new-data"
    }
   ],
   "episode_guides": [
@@ -8441,5 +8428,5 @@
    }
   ]
  },
- "updated_at": "2026-11-27T14:16:07Z"
+ "updated_at": "2026-11-27T14:37:24Z"
 }
