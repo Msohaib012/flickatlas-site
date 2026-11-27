@@ -1,63 +1,57 @@
 {
   "connected": true,
-  "generated": "2026-11-27T18:54:01Z",
+  "generated": "2026-11-27T20:37:02Z",
   "realtime": {
     "active_users": 1
   },
   "today": {
-    "users": 36,
-    "pageviews": 40,
-    "sessions": 39,
-    "avg_session_seconds": 37.8
+    "users": 0,
+    "pageviews": 0,
+    "sessions": 0,
+    "avg_session_seconds": 0
   },
   "last7": {
-    "users": 2318,
-    "pageviews": 2254,
-    "sessions": 2324,
-    "avg_session_seconds": 5.7
+    "users": 196,
+    "pageviews": 246,
+    "sessions": 203,
+    "avg_session_seconds": 23.9
   },
   "top_pages": [
     {
       "path": "/person",
-      "title": "Actor & Filmmaker Profile | FlickAtlas",
-      "views": 1193,
-      "avg_time_seconds": 4.0
-    },
-    {
-      "path": "/person",
       "title": "Actor & Filmmaker Profiles | FlickAtlas",
-      "views": 791,
-      "avg_time_seconds": 4.4
+      "views": 64,
+      "avg_time_seconds": 23.7
     },
     {
       "path": "/",
       "title": "Bollywood, World Cinema & Box Office | FlickAtlas",
       "views": 17,
-      "avg_time_seconds": 26.6
+      "avg_time_seconds": 19.4
+    },
+    {
+      "path": "/person",
+      "title": "Actor & Filmmaker Profile | FlickAtlas",
+      "views": 17,
+      "avg_time_seconds": 3.9
     },
     {
       "path": "/movie",
       "title": "Kaali Kheti (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
-      "views": 6,
-      "avg_time_seconds": 16.6
-    },
-    {
-      "path": "/movie",
-      "title": "Damned (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
-      "views": 4,
-      "avg_time_seconds": 18.0
+      "views": 5,
+      "avg_time_seconds": 19.6
     },
     {
       "path": "/movie",
       "title": "Bhooth Bangla (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
       "views": 3,
-      "avg_time_seconds": 8.6
+      "avg_time_seconds": 12.8
     },
     {
       "path": "/movie",
-      "title": "Fall 2: Deadpoint (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+      "title": "Damned (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
       "views": 3,
-      "avg_time_seconds": 1.7
+      "avg_time_seconds": 24.5
     },
     {
       "path": "/movie",
@@ -76,26 +70,32 @@
       "title": "McG — Bio & Selected Credits | FlickAtlas",
       "views": 3,
       "avg_time_seconds": 16.3
+    },
+    {
+      "path": "/box-office-day",
+      "title": "Resident Evil (2026) — Box Office Day 14 | FlickAtlas",
+      "views": 2,
+      "avg_time_seconds": 7.9
     }
   ],
   "sources": [
     {
       "source": "(direct)",
       "medium": "(none)",
-      "sessions": 2185,
-      "users": 2185
-    },
-    {
-      "source": "(not set)",
-      "medium": "(not set)",
-      "sessions": 123,
-      "users": 123
+      "sessions": 182,
+      "users": 182
     },
     {
       "source": "google",
       "medium": "organic",
       "sessions": 17,
       "users": 10
+    },
+    {
+      "source": "(not set)",
+      "medium": "(not set)",
+      "sessions": 5,
+      "users": 5
     },
     {
       "source": "m.facebook.com",
@@ -106,54 +106,54 @@
   ],
   "countries": [
     {
-      "country": "Brazil",
-      "users": 480
-    },
-    {
-      "country": "Singapore",
-      "users": 358
-    },
-    {
       "country": "United States",
-      "users": 308
+      "users": 71
     },
     {
-      "country": "Argentina",
-      "users": 153
+      "country": "Brazil",
+      "users": 32
     },
     {
-      "country": "China",
-      "users": 129
-    },
-    {
-      "country": "Hong Kong",
-      "users": 122
-    },
-    {
-      "country": "Vietnam",
-      "users": 109
-    },
-    {
-      "country": "Pakistan",
-      "users": 108
+      "country": "India",
+      "users": 14
     },
     {
       "country": "Mexico",
-      "users": 104
+      "users": 11
+    },
+    {
+      "country": "Vietnam",
+      "users": 9
     },
     {
       "country": "Russia",
-      "users": 93
+      "users": 7
+    },
+    {
+      "country": "China",
+      "users": 6
+    },
+    {
+      "country": "Argentina",
+      "users": 5
+    },
+    {
+      "country": "Bangladesh",
+      "users": 5
+    },
+    {
+      "country": "Indonesia",
+      "users": 5
     }
   ],
   "devices": [
     {
       "device": "desktop",
-      "users": 2295
+      "users": 172
     },
     {
       "device": "mobile",
-      "users": 23
+      "users": 24
     }
   ],
   "per_post": {}

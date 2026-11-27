@@ -1,69 +1,6 @@
 {
  "days": [
   {
-   "date": "2026-10-29",
-   "fetch_new": 2488,
-   "gemini_drafts": 38,
-   "published_today": 86,
-   "posts_total": 384,
-   "approved": null,
-   "rejected": null,
-   "per_category": {
-    "Box Office": 75,
-    "Awards": 58,
-    "Trailers": 95,
-    "Music / OST": 124,
-    "Episodes": 157,
-    "Upcoming releases": 31,
-    "OTT / Streaming": 129,
-    "TV & Dramas": 65,
-    "Celebrity news & events": 75,
-    "Movies": 2314,
-    "Entertainment viral": 19
-   },
-   "hours_fetch": {
-    "2": 280,
-    "3": 76,
-    "4": 46,
-    "6": 162,
-    "7": 45,
-    "8": 62,
-    "9": 67,
-    "10": 45,
-    "11": 52,
-    "12": 130,
-    "14": 139,
-    "15": 0,
-    "16": 201,
-    "17": 163,
-    "18": 0,
-    "19": 245,
-    "21": 166,
-    "22": 213,
-    "23": 396
-   },
-   "hours_gemini": {
-    "5": 2,
-    "6": 2,
-    "7": 2,
-    "8": 2,
-    "9": 2,
-    "10": 2,
-    "11": 2,
-    "12": 2,
-    "13": 2,
-    "14": 2,
-    "15": 2,
-    "16": 2,
-    "17": 2,
-    "18": 2,
-    "19": 2,
-    "21": 4,
-    "22": 2,
-    "23": 2
-   }
-  },
-  {
    "date": "2026-10-30",
    "fetch_new": 2259,
    "gemini_drafts": 42,
@@ -1885,6 +1822,34 @@
     "22": 4,
     "23": 4
    }
+  },
+  {
+   "date": "2026-11-28",
+   "fetch_new": 0,
+   "gemini_drafts": 4,
+   "published_today": null,
+   "posts_total": 4302,
+   "approved": null,
+   "rejected": null,
+   "per_category": {
+    "Box Office": 6,
+    "Awards": 5,
+    "Trailers": 2,
+    "Music / OST": 14,
+    "Episodes": 1,
+    "Upcoming releases": 4,
+    "OTT / Streaming": 10,
+    "TV & Dramas": 6,
+    "Celebrity news & events": 15,
+    "Movies": 271,
+    "Entertainment viral": 5
+   },
+   "hours_fetch": {
+    "1": 0
+   },
+   "hours_gemini": {
+    "0": 4
+   }
   }
  ],
  "heatmap": {
@@ -2072,8 +2037,8 @@
   }
  },
  "guards": {
-  "last_report_hash": "f735de7bcbbbfde9485af17e481eb1e7e47be261",
-  "last_gemini_generated": "2026-11-27T18:52:52Z"
+  "last_report_hash": "0642bc16c74d1b9cf4b75595381e36b1520cc175",
+  "last_gemini_generated": "2026-11-27T19:51:40Z"
  },
- "updated_at": "2026-11-27T18:54:04Z"
+ "updated_at": "2026-11-27T20:37:04Z"
 }

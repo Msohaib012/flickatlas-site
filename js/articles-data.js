@@ -266917,5 +266917,407 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Fri, 27 Nov 2026 18:01:17 GMT"
+  },
+  "1w24uew": {
+    "id": "1w24uew",
+    "type": "news",
+    "headline": "Supreme Court Dismisses Plea Against Ranbir Kapoor Starrer Ramayana",
+    "dek": "The Supreme Court of India has refused to entertain a petition challenging the theatrical release of the epic film Ramayana over alleged factual distortions.",
+    "body": [
+      {
+        "h": "Supreme Court Rejects Petition",
+        "p": [
+          "The highest judicial authority in India has officially turned down a plea that sought to challenge the cinematic release of the blockbuster feature Ramayana. Petitioners had approached the bench claiming that the film presented a distorted version of events from the traditional mythological epic. However, the court opted against granting an urgent listing for the matter.",
+          "The bench handling the case included Chief Justice of India Surya Kant alongside Justice Bagchi. During the brief proceedings, the judiciary made it clear that judicial intervention was unnecessary for a creative work that had already reached the public sphere and completed several weeks in theaters."
+        ]
+      },
+      {
+        "h": "Judicial Remarks on Artistic Freedom",
+        "p": [
+          "Addressing the concerns raised by the petitioner's counsel regarding the alleged alteration of historical and mythological facts, Justice Bagchi delivered a sharp response emphasizing creative liberty. The bench noted that filmmakers hold the prerogative to interpret and adapt source material through their own artistic lens.",
+          "Rather than entertaining litigation over creative interpretations, the court suggested that dissenters are free to express their own perspectives through the same medium. The bench remarked that creators bring their own understanding to the screen, advising those with opposing views to produce their own films rather than consume judicial time."
+        ]
+      },
+      {
+        "h": "Timing of the Legal Challenge",
+        "p": [
+          "The petition had been officially registered on November 23rd, and the legal team representing the petitioner pressed the bench for an immediate hearing. Despite these attempts to expedite the case, the timeline of the film's theatrical run played a major role in the court's swift decision to dismiss the challenge.",
+          "Chief Justice Surya Kant pointed out the impracticality of intervening at this stage of the film's distribution lifecycle. By the time the petition was brought forward, the cinematic feature had already been widely available to audiences across the country for weeks."
+        ]
+      },
+      {
+        "h": "Box Office Triumph and Milestones",
+        "p": [
+          "Away from legal battles, the mythological epic has enjoyed an extraordinary theatrical run. Three weeks following its initial debut, the feature continues to pull massive crowds to cinemas both domestically in India and internationally across global markets.",
+          "Financial figures indicate that the production has accumulated a massive total of Rs. 1,777 crores in gross collections. This milestone places the movie on the verge of securing the third position among the highest-grossing Indian films of all time."
+        ]
+      },
+      {
+        "h": "Director and Cast Involvement",
+        "p": [
+          "The massive cinematic adaptation is spearheaded by director Nitesh Tiwari, whose vision brought the grand scale of the mythological narrative to life. The project features prominent Bollywood actor Ranbir Kapoor in a leading role, drawing significant attention from fans and critics alike.",
+          "The combined star power and directorial reputation helped fuel anticipation for the release long before it hit the big screen, eventually translating into the record-breaking box office figures seen in its third week."
+        ]
+      },
+      {
+        "h": "Surpassing Previous Industry Records",
+        "p": [
+          "As its box office journey presses forward, the feature has managed to outperform other major modern blockbusters. Industry trackers note that the epic has officially crossed the lifetime collections previously set by Pushpa 2.",
+          "With its sights now firmly set on challenging Dangal for an even higher spot on the all-time grosser charts, the film demonstrates immense commercial staying power despite facing occasional hurdles such as the recent Supreme Court petition."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "The Supreme Court of India refused to list a plea challenging the Ranbir Kapoor starrer Ramayana over alleged factual distortions in the Nitesh Tiwari film. Chief Justice Surya Kant and Justice Bagchi dismissed the case, noting that the movie had already been released and advising critics to make their own films. Meanwhile, the epic continues a successful box office run with Rs. 1,777 crores after three weeks."
+        ]
+      }
+    ],
+    "facts": [
+      "The Supreme Court of India declined a plea challenging the release of Ramayana on November 27, 2026.",
+      "The petition was handled by Chief Justice of India Surya Kant and Justice Bagchi.",
+      "The petition was registered on November 23rd.",
+      "Ramayana has earned Rs. 1,777 crores three weeks after its release.",
+      "The film was directed by Nitesh Tiwari and stars Ranbir Kapoor.",
+      "The movie has crossed the collections of Pushpa 2 and is eyeing Dangal."
+    ],
+    "entities": {
+      "people": [
+        "Surya Kant",
+        "Bagchi",
+        "Nitesh Tiwari",
+        "Ranbir Kapoor",
+        "Siddharth Thampi"
+      ],
+      "titles": [
+        "Ramayana",
+        "Pushpa 2",
+        "Dangal"
+      ]
+    },
+    "keywords": [
+      "Ramayana film",
+      "Ranbir Kapoor Ramayana",
+      "Supreme Court Ramayana",
+      "Nitesh Tiwari Ramayana",
+      "Ramayana box office 1777 crores"
+    ],
+    "images": [
+      {
+        "url": "https://filmfare.wwmindia.com/content/2026/nov/they-made-a-movie-as-they-understand-the-supreme-court-refuses-listing-against1795784143.jpeg",
+        "caption": "Supreme Court Dismisses Plea Against Ranbir Kapoor Starrer Ramayana",
+        "source": "Filmfare"
+      }
+    ],
+    "published": "2026-11-27T18:32:00+05:30"
+  },
+  "15irafz": {
+    "id": "15irafz",
+    "type": "news",
+    "headline": "Emperor Palpatine Makes A Shocking Comeback In Upcoming Star Wars Comic Preview",
+    "dek": "Marvel Comics reveals a new sneak peek for Star Wars: The Fall of Kylo Ren #5, featuring the unexpected return of Emperor Palpatine and a final confrontation.",
+    "body": [
+      {
+        "h": "The Final Chapter Approaches",
+        "p": [
+          "Marvel Comics is preparing to release the fifth and final issue of its limited series titled Star Wars: The Fall of Kylo Ren. Fans of the franchise are getting an early look at what to expect through an official preview that highlights major plot developments for the conclusion of the story.",
+          "This upcoming publication marks the end of a dark descent for the central character, bringing lingering plot threads to a definitive climax as the narrative reaches its ultimate destination within the expanded comic universe."
+        ]
+      },
+      {
+        "h": "A Familiar Threat Surfaces",
+        "p": [
+          "The galaxy finds itself shaken once again as the dead speak and Emperor Palpatine announces a surprising return. The presence of the iconic antagonist sets off alarm bells for Kylo Ren, who quickly concludes that the reborn leader must be completely destroyed.",
+          "Rather than ignoring the warning signs, the protagonist takes matters into his own hands, launching a desperate search to track down the revived emperor and put an end to his plans permanently."
+        ]
+      },
+      {
+        "h": "Journey Into Dark Secrets",
+        "p": [
+          "The pursuit for the emperor pulls Kylo Ren and the Knights of Ren directly into the heart of the Empire's most heavily guarded and terrible secrets. Every step of the journey is shrouded in mystery and danger as they navigate unfamiliar and hostile territory.",
+          "As they push deeper into the unknown, the characters must confront horrifying truths that threaten to alter their understanding of the galaxy and their own place within the unfolding conflict."
+        ]
+      },
+      {
+        "h": "Guidance From The Past",
+        "p": [
+          "Throughout this perilous expedition, the voice of Darth Vader serves as a constant companion, guiding every single step the protagonist takes. This eerie influence shapes decisions and drives the momentum of the unfolding mission.",
+          "The lingering presence of the legendary figure raises difficult questions about whether the main character is truly seizing his ultimate destiny or merely walking blindly into a trap."
+        ]
+      },
+      {
+        "h": "Pawn In A Greater Scheme",
+        "p": [
+          "The central tension of the comic revolves around the possibility that all of these events are part of a much larger blueprint orchestrated by the emperor. Every action taken by the seekers might play directly into the hands of the master manipulator.",
+          "Readers will soon discover whether the characters can break free from external control or if they are simply acting as the final pieces in a grand strategy designed to secure ultimate dominance."
+        ]
+      },
+      {
+        "h": "Release Details And Availability",
+        "p": [
+          "Enthusiasts wishing to secure a copy of the publication can add the upcoming installment to their digital pull lists through platforms such as Amazon Kindle and ComiXology ahead of time.",
+          "The physical and digital editions are scheduled to officially launch on Wednesday, December 2nd, 2026, bringing the gripping limited comic book series to its long-awaited conclusion."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Marvel Comics is releasing the fifth and final issue of Star Wars: The Fall of Kylo Ren on Wednesday, December 2nd, 2026, featuring the unexpected return of Emperor Palpatine. The upcoming conclusion follows Kylo Ren and the Knights of Ren as they investigate empire secrets guided by the voice of Darth Vader."
+        ]
+      }
+    ],
+    "facts": [
+      "Star Wars: The Fall of Kylo Ren #5 is the fifth and final issue of the limited series.",
+      "The comic is published by Marvel Comics.",
+      "Emperor Palpatine returns in the storyline.",
+      "The issue is scheduled for release on Wednesday, December 2nd, 2026."
+    ],
+    "entities": {
+      "people": [
+        "Emperor Palpatine",
+        "Kylo Ren",
+        "Darth Vader",
+        "Gary Collinson"
+      ],
+      "titles": [
+        "Star Wars: The Fall of Kylo Ren",
+        "Star Wars: The Fall of Kylo Ren #5",
+        "The Baby in the Basket",
+        "Death Among the Pines",
+        "Robert Returns",
+        "Holy Franchise, Batman! Bringing the Caped Crusader to the Screen"
+      ]
+    },
+    "keywords": [
+      "Star Wars The Fall of Kylo Ren",
+      "Emperor Palpatine",
+      "Kylo Ren",
+      "Knights of Ren"
+    ],
+    "images": [
+      {
+        "url": "https://cdn.flickeringmyth.com/wp-content/uploads/2026/11/Star-Wars-The-Fall-of-Kylo-Ren-5-8-1.jpg",
+        "caption": "Emperor Palpatine Makes A Shocking Comeback In Upcoming Star Wars Comic Preview",
+        "source": "Flickering Myth"
+      }
+    ],
+    "published": "Fri, 27 Nov 2026 17:49:47 +0000"
+  },
+  "201w2v": {
+    "id": "201w2v",
+    "type": "news",
+    "headline": "Sandeep Reddy Vanga Teases Shocking and Intense Moments in Spirit",
+    "dek": "Director Sandeep Reddy Vanga has revealed that upcoming action drama Spirit will feature striking and intense sequences that left even him surprised during editing.",
+    "body": [
+      {
+        "h": "Sandeep Reddy Vanga Hints at Unsettling Sequences",
+        "p": [
+          "Filmmaker Sandeep Reddy Vanga has recently shared details about his upcoming directorial venture, Spirit, indicating that viewers can expect several shocking moments. While working through the footage in the editing room, the director himself was reportedly taken aback by the sheer impact of specific scenes, promising a high degree of tension and surprise for theatregoers.",
+          "Known previously for helming intense dramas like Kabir Singh and Animal, Vanga appears ready to bring his signature visceral storytelling style to this new project. The upcoming action drama is designed to test boundaries and provide audiences with deeply immersive confrontations."
+        ]
+      },
+      {
+        "h": "A Dramatic Transformation for Prabhas",
+        "p": [
+          "The film is set to showcase leading man Prabhas in a distinctly different screen persona, marking a major turning point for the actor. Observers and fans have noted that this role could redefine his image significantly, serving as his most notable shift in appearance and demeanor since his iconic work in Baahubali 2.",
+          "During a conversation with journalist Faridoon Shahryar, Prabhas also drew attention to the musical elements of the film, hinting that a specific romantic track composed by Vishal Mishra will leave a lasting impression on listeners."
+        ]
+      },
+      {
+        "h": "High Expectations and Fan Anticipation",
+        "p": [
+          "Ever since its initial announcement back in 2021, the creative collaboration between Prabhas and Sandeep Reddy Vanga has generated immense buzz across social media. Supporters of both the actor and the director have frequently described the project as a potential 'different beast' in Indian cinema, merging massive mainstream appeal with raw intensity.",
+          "Promotional materials released so far, including a rugged first-look poster featuring a police-officer avatar and a sound-story teaser highlighting a character's 'one bad habit', have only intensified public curiosity. Furthermore, viral set photographs and fan-created AI videos involving Prabhas and Triptii Dimri have kept the excitement alive while audiences wait for an official theatrical glimpse."
+        ]
+      },
+      {
+        "h": "Signature Directorial Sensibilities",
+        "p": [
+          "Sandeep Reddy Vanga has built a distinct reputation for crafting narratives centered around unapologetically flawed protagonists. His filmography frequently utilizes sudden tonal shifts and brutal, deeply personal conflicts meant to unsettle viewers and provoke strong reactions.",
+          "Spirit is widely anticipated to carry forward these exact stylistic signatures while exploring entirely fresh territories. It will present Prabhas in a brand-new performance light that diverges sharply from his traditional heroic templates."
+        ]
+      },
+      {
+        "h": "Future Projects Beyond Spirit",
+        "p": [
+          "Looking past the completion and release of Spirit, the director already has his next major venture lined up. Vanga is slated to begin work on Animal Park, which serves as the planned sequel to his earlier box-office hit Animal.",
+          "While details regarding Animal Park remain sparse at this early stage, industry reports suggest that production for the follow-up is expected to officially go on floors in the year 2028."
+        ]
+      },
+      {
+        "h": "Theatrical Release Schedule",
+        "p": [
+          "Fans eagerly tracking the production timeline can mark their calendars for late 2027. Spirit has been officially scheduled to hit movie theatres on October 29, 2027.",
+          "With a combination of high-octane action, unique character arcs, and a major star in a transformed role, the feature stands as one of the most anticipated cinematic releases of the coming years."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Director Sandeep Reddy Vanga has revealed that upcoming film Spirit will contain shocking and intense sequences that surprised him during editing. The project promises a major transformation for Prabhas and is scheduled to release in theatres on October 29, 2027."
+        ]
+      }
+    ],
+    "facts": [
+      "Sandeep Reddy Vanga directed Kabir Singh and Animal.",
+      "Prabhas plays a police officer avatar in Spirit.",
+      "Vishal Mishra composed a romantic song for Spirit.",
+      "Faridoon Shahryar interviewed Prabhas.",
+      "Spirit was announced in 2021.",
+      "Triptii Dimri appears in fan-made AI videos and viral set discussions alongside Prabhas.",
+      "Spirit is scheduled to release in theatres on October 29, 2027.",
+      "Animal Park is expected to go on floors in 2028."
+    ],
+    "entities": {
+      "people": [
+        "Sandeep Reddy Vanga",
+        "Prabhas",
+        "Faridoon Shahryar",
+        "Vishal Mishra",
+        "Triptii Dimri"
+      ],
+      "titles": [
+        "Spirit",
+        "Baahubali",
+        "Baahubali 2",
+        "Kabir Singh",
+        "Animal",
+        "Animal Park"
+      ]
+    },
+    "keywords": [
+      "Sandeep Reddy Vanga Spirit movie",
+      "Prabhas Spirit release date",
+      "Vishal Mishra romantic song Spirit",
+      "Animal Park 2028",
+      "Prabhas police officer avatar"
+    ],
+    "images": [
+      {
+        "url": "https://filmfare.wwmindia.com/content/2026/nov/prabhas-spirit1795781807.jpg",
+        "caption": "Sandeep Reddy Vanga Teases Shocking and Intense Moments in Spirit",
+        "source": "Filmfare"
+      }
+    ],
+    "published": "2026-11-27T17:49:53+05:30"
+  },
+  "ecg8ci": {
+    "id": "ecg8ci",
+    "type": "news",
+    "headline": "Netflix's First Pakistani Series Faces Major Roadblocks in India as Officials Call for Restraints",
+    "dek": "As Pakistan prepares to debut its first major Netflix original series, intense political pushback from Indian film bodies and government ministries has put the show's regional availability in question.",
+    "body": [
+      {
+        "h": "The Long-Awaited Global Debut",
+        "p": [
+          "The cultural landscape of South Asian entertainment is preparing for a landmark event with the impending arrival of Jo Bachay Hain Sang Samait Lo. Touted as Pakistan's inaugural original series for Netflix, the production has spent nearly eight years in development before reaching its final stages. A grand trailer launch event held at Karachi's historic Mohatta Palace brought together major industry players and excited fans alike to celebrate the milestone.",
+          "Internationally marketed under the alternate title All the Love Our Hearts Carry, the project is scheduled to make its official global debut on December 4, 2026. Creators structured the release plan to unfold across multiple segments, starting with Part 1 on the premiere date. However, even as international audiences prepare to dive into the sweeping narrative, uncertainty continues to cloud whether subscribers residing in neighboring India will be granted access to the streaming platform's latest offering."
+        ]
+      },
+      {
+        "h": "Political Friction and Ministerial Pushback",
+        "p": [
+          "The discourse surrounding the streaming launch quickly morphed from artistic celebration to international friction after prominent Indian trade associations formally petitioned leadership to block the project. In response to mounting calls for a complete prohibition of Pakistani media within Indian borders, Pakistan's planning minister, Ahsan Iqbal, issued sharp remarks via social media. He criticized the persistent blending of geopolitical tensions with artistic expression, pointing to a broader pattern of cultural isolation.",
+          "Voicing his frustrations online, the minister urged critics to move past restrictive measures, questioning the security implications attributed to television dramas and athletic fixtures. His statements sparked widespread digital discussions, drawing vocal backing from notable regional artists such as Ayesha Omer. Supporters echoed the sentiment that creative works should transcend political boundaries and allow audiences the autonomy of choice."
+        ]
+      },
+      {
+        "h": "Industry Demands and Regulatory Guidelines",
+        "p": [
+          "The formal resistance from India was spearheaded by organizations including the All Indian Cine Workers Association and the Federation of Western India Cine Employees. Submitting formal letters to high-ranking officials, these bodies argued that streaming content originating from Pakistan directly undermines national security priorities. They anchored their objections in a previously established governmental advisory from May 2025, which instructed digital platforms to halt the broadcast of cross-border media following security incidents.",
+          "Trade federation leaders doubled down on their stance, emphasizing a strict zero-tolerance approach toward external artists and threatening potential disruptions to local digital projects if the streaming release proceeds unhindered. This organized opposition quickly translated into tangible administrative pressure as information ministries formally communicated with platform representatives to review regional broadcast permissions."
+        ]
+      },
+      {
+        "h": "Creative Roots and Star-Studded Ensemble",
+        "p": [
+          "Beneath the unfolding controversy lies an ambitious adaptation of Farhat Ishtiaq's widely read 2013 Urdu novel. The narrative weaves together six distinct romantic arcs spanning three separate generations, exploring complex themes of marital discord, familial obligation, and the ghosts of past decisions. Directorial and production duties were spearheaded by Momina Duraid, a prominent industry figure renowned for helming critically acclaimed serials such as Humsafar and Zindagi Gulzar Hai.",
+          "The project boasts an expansive ensemble cast featuring some of the region's most recognizable television and film personalities. Leading names such as Fawad Khan, Mahira Khan, Sanam Saeed, Ahad Raza Mir, Iqra Aziz, Hania Aamir, and Hamza Ali Abbasi headline the production. They are further supported by a robust secondary lineup including Maya Ali, Bilal Ashraf, and Khushhal Khan, reuniting several iconic on-screen pairings that previously achieved massive cross-border acclaim."
+        ]
+      },
+      {
+        "h": "Implications for Cross-Border Cultural Exchange",
+        "p": [
+          "Industry analysts within Pakistan have expressed growing apprehension regarding what these escalating restrictions mean for future international collaborations. Local producers and distributors note that commercial avenues have steadily narrowed since previous cultural halts implemented in mid-2025, stifling potential revenue streams for cinema owners and independent creators alike. Without access to broader regional viewership, future investments from major global streamers into regional talent remain precarious.",
+          "Conversely, media commentators observe that digital consumption habits have increasingly shifted toward alternative platforms like YouTube, where regional dramas continue to capture significant international interest despite regulatory hurdles. Marketing experts emphasize that cultural overlap historically served as a vital bridge for commercial success, making potential restrictions a mutual setback for both streaming platforms and regional content developers."
+        ]
+      },
+      {
+        "h": "Audience Division and Social Media Reactions",
+        "p": [
+          "Public sentiment across digital platforms remains sharply polarized as the premiere date approaches. Enthusiastic fans flooded comment sections with praise for the high-production trailer, expressing amazement at witnessing a domestic production secure a premier global streaming slot. Particular excitement surrounded the return of veteran stars, with dedicated online fanbases driving viral trends celebrating individual cast members.",
+          "Simultaneously, a counter-wave of digital commentary featured renewed demands for regional censorship, with critics arguing against the inclusion of cross-border media. This sharp ideological divide underscores the deeply sensitive nature of cultural exports in the region, turning a routine television premiere into a major flashpoint for wider sociopolitical debates."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Pakistan's first Netflix original series, Jo Bachay Hain Sang Samait Lo, faces intense calls for an India ban from groups like AICWA and FWICE, citing a May 2025 advisory. Pakistan planning minister Ahsan Iqbal criticized the pushback by telling India to grow up and let audiences decide. Meanwhile, the series starring Fawad Khan and Mahira Khan remains slated for a global release on December 4, 2026, while its streaming status in India hangs in the balance."
+        ]
+      }
+    ],
+    "facts": [
+      "Jo Bachay Hain Sang Samait Lo is Pakistan's first Netflix original series.",
+      "The series global release date is set for December 4, 2026.",
+      "Ahsan Iqbal is Pakistan's planning minister.",
+      "Ahsan Iqbal posted on X on November 25, 2026.",
+      "The All Indian Cine Workers Association sent its letter to Modi on November 24, 2026.",
+      "The Indian government advisory restricting Pakistani content was issued on May 8, 2025.",
+      "B N Tiwari is the president of the Federation of Western India Cine Employees.",
+      "Farhat Ishtiaq wrote the 2013 bestselling Urdu novel of the same name.",
+      "Momina Duraid created, directed, and produced the show.",
+      "The cast includes Fawad Khan, Mahira Khan, Sanam Saeed, Ahad Raza Mir, Iqra Aziz, Hania Aamir, and Hamza Ali Abbasi."
+    ],
+    "entities": {
+      "people": [
+        "Narendra Modi",
+        "Ahsan Iqbal",
+        "Ashwini Vaishnaw",
+        "Ayesha Omer",
+        "B N Tiwari",
+        "Farhat Ishtiaq",
+        "Momina Duraid",
+        "Fawad Khan",
+        "Mahira Khan",
+        "Sanam Saeed",
+        "Ahad Raza Mir",
+        "Iqra Aziz",
+        "Hania Aamir",
+        "Hamza Ali Abbasi",
+        "Maya Ali",
+        "Bilal Ashraf",
+        "Khushhal Khan",
+        "Ahmed Ali Akbar",
+        "Nadia Jamil",
+        "Omair Rana",
+        "Samina Ahmed",
+        "Nadeem Mandviwalla",
+        "Omair Alavi",
+        "Jamal Mir"
+      ],
+      "titles": [
+        "Jo Bachay Hain Sang Samait Lo",
+        "All the Love Our Hearts Carry",
+        "Humsafar",
+        "Zindagi Gulzar Hai",
+        "Dar-e-Nijat",
+        "Love Scam Aur Dhokha"
+      ]
+    },
+    "keywords": [
+      "Jo Bachay Hain Sang Samait Lo",
+      "Netflix Pakistani show ban",
+      "Ahsan Iqbal Grow Up India",
+      "Fawad Khan Mahira Khan Netflix",
+      "AICWA Netflix Pakistan ban"
+    ],
+    "images": [
+      {
+        "url": "https://vviptimes.com/wp-content/uploads/2026/11/nexus-image_42kb-7.webp",
+        "caption": "Netflix's First Pakistani Series Faces Major Roadblocks in India as Officials Call for Restraints",
+        "source": "VVIP Times"
+      }
+    ],
+    "published": "Fri, 27 Nov 2026 18:25:22 +0000"
   }
 };
