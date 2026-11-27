@@ -1,20 +1,20 @@
 {
   "connected": true,
-  "generated": "2026-11-27T06:01:02Z",
+  "generated": "2026-11-27T06:53:55Z",
   "realtime": {
     "active_users": 0
   },
   "today": {
-    "users": 0,
-    "pageviews": 1,
-    "sessions": 1,
-    "avg_session_seconds": 0.0
+    "users": 1,
+    "pageviews": 3,
+    "sessions": 2,
+    "avg_session_seconds": 379.6
   },
   "last7": {
-    "users": 2283,
-    "pageviews": 2215,
-    "sessions": 2286,
-    "avg_session_seconds": 5.2
+    "users": 2284,
+    "pageviews": 2217,
+    "sessions": 2287,
+    "avg_session_seconds": 5.5
   },
   "top_pages": [
     {
@@ -72,10 +72,10 @@
       "avg_time_seconds": 16.3
     },
     {
-      "path": "/box-office-day",
-      "title": "Resident Evil (2026) — Box Office Day 14 | FlickAtlas",
+      "path": "/box-office",
+      "title": "Box Office Collections: Today, 7-Day & Totals | FlickAtlas",
       "views": 2,
-      "avg_time_seconds": 7.9
+      "avg_time_seconds": 17.5
     }
   ],
   "sources": [
@@ -94,8 +94,8 @@
     {
       "source": "google",
       "medium": "organic",
-      "sessions": 13,
-      "users": 9
+      "sessions": 14,
+      "users": 10
     }
   ],
   "countries": [
@@ -143,7 +143,7 @@
   "devices": [
     {
       "device": "desktop",
-      "users": 2266
+      "users": 2267
     },
     {
       "device": "mobile",

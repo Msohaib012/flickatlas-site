@@ -38,6 +38,164 @@ window.FA_HOME_ARTICLES = {
     ],
     "published": "Fri, 27 Nov 2026 10:21:04 +0200"
   },
+  "zcaoo9": {
+    "id": "zcaoo9",
+    "type": "news",
+    "headline": "Ananya Panday Speaks Out Against Unauthorized AI Deepfakes and Non-Consensual Technology Use",
+    "dek": "Actor Ananya Panday voices strong concerns over fake endorsements, explicit deepfakes, and personality rights violations while balancing AI's helpful uses in filmmaking.",
+    "entities": {
+      "people": [
+        "Ananya Panday",
+        "Lakshya",
+        "Gurfateh Pirzada",
+        "Vihaan Samat"
+      ],
+      "titles": [
+        "Call Me Bae",
+        "Chand Mera Dil",
+        "Call Me Bae 2"
+      ]
+    },
+    "keywords": [
+      "Ananya Panday AI deepfakes",
+      "Ananya Panday Bombay High Court",
+      "Call Me Bae season 2",
+      "Chand Mera Dil film"
+    ],
+    "images": [
+      {
+        "url": "https://stat4.bollywoodhungama.in/wp-content/uploads/2026/11/620x450-27112026-2.jpg-1.jpeg",
+        "caption": "Ananya Panday Speaks Out Against Unauthorized AI Deepfakes and Non-Consensual Technology Use",
+        "source": "Bollywood Hungama"
+      }
+    ],
+    "published": "Fri, 27 Nov 2026 09:39:16 +0200"
+  },
+  "1pttcsq": {
+    "id": "1pttcsq",
+    "type": "news",
+    "headline": "Badshah Celebrates K-Pop Legends BIGBANG on Their 20th Anniversary, Sparking Fan Collab Demands",
+    "dek": "Indian rapper Badshah recently took to social media to celebrate BIGBANG's two-decade milestone, shouting out G-Dragon and their latest track, which instantly drove Indian fans to demand a massive musical crossover.",
+    "entities": {
+      "people": [
+        "Badshah",
+        "G-Dragon",
+        "Taeyang",
+        "Daesung"
+      ],
+      "titles": [
+        "BIGBANG",
+        "GiiiRIP",
+        "BiiiG",
+        "XX : COSMOS"
+      ]
+    },
+    "keywords": [
+      "Badshah BIGBANG",
+      "Badshah G-Dragon collaboration",
+      "BIGBANG 20th anniversary",
+      "GiiiRIP BIGBANG release"
+    ],
+    "images": [
+      {
+        "url": "https://images.timesnownews.com/thumb/msid-156570960,thumbsize-282973,width-1280,height-720,resizemode-75/156570960.jpg",
+        "caption": "Badshah Celebrates K-Pop Legends BIGBANG on Their 20th Anniversary, Sparking Fan Collab Demands",
+        "source": "Times Now — Entertainment"
+      }
+    ],
+    "published": "2026-11-27T06:52:51Z"
+  },
+  "11xzv2g": {
+    "id": "11xzv2g",
+    "type": "news",
+    "headline": "Luca Guadagnino Backs Robert Pattinson as the New James Bond",
+    "dek": "Oscar-nominated filmmaker Luca Guadagnino has voiced strong support for Robert Pattinson stepping into the iconic 007 role following confirmation from Amazon MGM and Denis Villeneuve.",
+    "entities": {
+      "people": [
+        "Robert Pattinson",
+        "Denis Villeneuve",
+        "Daniel Craig",
+        "Luca Guadagnino",
+        "Jacob Elordi",
+        "Jack Lowden",
+        "Callum Turner",
+        "Nicholas Hoult",
+        "Aaron Taylor-Johnson",
+        "Patrick Bateman",
+        "Steven Knight",
+        "Amy Pascal",
+        "David Heyman",
+        "Tanya Lapointe",
+        "Michael G. Wilson",
+        "Barbara Broccoli",
+        "Devanshi Basu"
+      ],
+      "titles": [
+        "James Bond",
+        "The Odyssey",
+        "Casino Royale"
+      ]
+    },
+    "keywords": [
+      "Robert Pattinson James Bond",
+      "Luca Guadagnino James Bond",
+      "Denis Villeneuve James Bond",
+      "James Bond Amazon MGM"
+    ],
+    "images": [
+      {
+        "url": "https://www.comingsoon.net/wp-content/uploads/sites/3/2026/11/robertpattinson.webp?resize=1200,630",
+        "caption": "Luca Guadagnino Backs Robert Pattinson as the New James Bond",
+        "source": "ComingSoon.net"
+      }
+    ],
+    "published": "Fri, 27 Nov 2026 05:31:11 +0000"
+  },
+  "1ttcvo5": {
+    "id": "1ttcvo5",
+    "type": "news",
+    "headline": "Why Pakistan's First Netflix Show Jo Bachay Hain Sang Samait Lo Has Sparked Indian Curiosity",
+    "dek": "Despite regulatory pushback and calls for a block, the upcoming Pakistani Netflix series Jo Bachay Hain Sang Samait Lo is drawing immense interest from Indian viewers due to its star-studded cast and major reunions.",
+    "entities": {
+      "people": [
+        "Fawad Khan",
+        "Sanam Saeed",
+        "Mahira Khan",
+        "Hania Aamir",
+        "Sonam Kapoor",
+        "Shah Rukh Khan",
+        "Momina Duraid",
+        "Farhat Ishtiaq",
+        "Narendra Modi"
+      ],
+      "titles": [
+        "Jo Bachay Hain Sang Samait Lo",
+        "Sacred Games",
+        "Humsafar",
+        "Zindagi Gulzar Hai",
+        "Mere Humsafar",
+        "Kabhi Main Kabhi Tum",
+        "Khoobsurat",
+        "Kapoor Sons",
+        "Ae Dil Hai Mushkil",
+        "Raees"
+      ]
+    },
+    "keywords": [
+      "Jo Bachay Hain Sang Samait Lo",
+      "Fawad Khan Netflix show",
+      "Mahira Khan Sanam Saeed",
+      "Operation Sindoor advisory"
+    ],
+    "images": [
+      {
+        "url": "https://www.hindustantimes.com/ht-img/img/2026/11/26/1600x900/logo/Fawad_Khan_1795701893766_qjfG_1795701894032_w4dA_0dc76562-0c25-4458-92d8-1fbf3bbd0b61_IBTA.png",
+        "caption": "Why Pakistan's First Netflix Show Jo Bachay Hain Sang Samait Lo Has Sparked Indian Curiosity",
+        "source": "Hindustan Times — Entertainment"
+      }
+    ],
+    "published": "Fri, 27 Nov 2026 10:59:38 +0530"
+  },
   "1ke1d9u": {
     "id": "1ke1d9u",
     "type": "news",
@@ -4545,192 +4703,6 @@ window.FA_HOME_ARTICLES = {
       }
     ],
     "published": "2026-11-26T06:07:00+05:30"
-  },
-  "cq0u39": {
-    "id": "cq0u39",
-    "type": "news",
-    "headline": "Federal Judge Halts FCC Early Broadcast License Reviews in First Amendment Lawsuit Filed by ABC",
-    "dek": "U.S. District Judge Loren AliKhan issued a preliminary injunction pausing the FCC's unprecedented early review of ABC broadcast licenses, siding with the network in its First Amendment retaliation lawsuit.",
-    "entities": {
-      "people": [
-        "Ted Johnson",
-        "Jane Fonda",
-        "Robert De Niro",
-        "Chris Van Hollen",
-        "Chuck Schumer",
-        "Al Gore",
-        "Brendan Carr",
-        "Loren AliKhan",
-        "James Talarico",
-        "Jimmy Kimmel",
-        "Donald Trump",
-        "Beth Wilkinson",
-        "Anna Gomez",
-        "Will Ferrell",
-        "Andy Taylor",
-        "Robert Pattinson",
-        "Owen Patrick Joyner",
-        "Kyle Clark",
-        "Audrey Trullinger",
-        "Strauss Zelnick"
-      ],
-      "titles": [
-        "The View",
-        "Jimmy Kimmel Live",
-        "Dancing With The Stars",
-        "Dancing With The Stars: The Next Pro",
-        "The Hawk",
-        "The Pitt",
-        "Sunrise On The Reaping",
-        "Hooters: The Movie",
-        "Avengers: Doomsday",
-        "Dune 3",
-        "The Body",
-        "Grand Theft Auto VI"
-      ]
-    },
-    "keywords": [
-      "ABC FCC lawsuit",
-      "Loren AliKhan preliminary injunction",
-      "Brendan Carr FCC license review",
-      "ABC First Amendment lawsuit"
-    ],
-    "images": [
-      {
-        "url": "https://deadline.com/wp-content/uploads/2026/10/Brendan-Carr-.jpg?w=1024",
-        "caption": "Federal Judge Halts FCC Early Broadcast License Reviews in First Amendment Lawsuit Filed by ABC",
-        "source": "Deadline"
-      }
-    ],
-    "published": "Thu, 26 Nov 2026 00:30:46 +0000"
-  },
-  "fnif5a": {
-    "id": "fnif5a",
-    "type": "news",
-    "headline": "Laxman Utekar Backs Shraddha Kapoor's Eetha to Set a World Record Amid Box Office Clash With Salman Khan's Maatrubhumi",
-    "dek": "Director Laxman Utekar remains confident that the Shraddha Kapoor starrer Eetha will achieve unprecedented success despite a theatrical box office collision with Salman Khan's Maatrubhumi.",
-    "entities": {
-      "people": [
-        "Laxman Utekar",
-        "Shraddha Kapoor",
-        "Salman Khan",
-        "Shah Rukh Khan",
-        "Randeep Hooda",
-        "Mohd Zeeshan Ayyub",
-        "Siddharth Jadhav",
-        "Anant V Joshi",
-        "Dinesh Vijan",
-        "Karishma Sharma",
-        "Tanmayi Savadi"
-      ],
-      "titles": [
-        "Eetha",
-        "Maatrubhumi",
-        "King",
-        "Tamasha: Vithabaichya Aayushyacha"
-      ]
-    },
-    "keywords": [
-      "Eetha film",
-      "Shraddha Kapoor Eetha",
-      "Laxman Utekar Eetha",
-      "Maatrubhumi Salman Khan",
-      "Eetha vs Maatrubhumi clash"
-    ],
-    "images": [
-      {
-        "url": "https://images.timesnownews.com/thumb/msid-156564764,thumbsize-668012,width-1280,height-720,resizemode-75/156564764.jpg",
-        "caption": "Laxman Utekar Backs Shraddha Kapoor's Eetha to Set a World Record Amid Box Office Clash With Salman Khan's Maatrubhumi",
-        "source": "Times Now — Entertainment"
-      }
-    ],
-    "published": "2026-11-25T23:52:37Z"
-  },
-  "rf2kjy": {
-    "id": "rf2kjy",
-    "type": "news",
-    "headline": "Ramayana Casting Director Mukesh Chhabra Defends Choices and Shares Six-Year Journey",
-    "dek": "Casting director Mukesh Chhabra opened up about the exhaustive six-year planning process behind the epic film Ramayana, defending the casting of Ranbir Kapoor, Sai Pallavi, and Yash while expressing special pride in Ravie Dubey.",
-    "entities": {
-      "people": [
-        "Mukesh Chhabra",
-        "Ravie Dubey",
-        "Ranbir Kapoor",
-        "Sai Pallavi",
-        "Yash",
-        "Nitesh Tiwari",
-        "Sushant Singh Rajput",
-        "Rajkummar Rao",
-        "Arun Govil"
-      ],
-      "titles": [
-        "Ramayana",
-        "Kai Po Ce",
-        "Chillar Party",
-        "Dhurandha 2",
-        "Baahubali 2",
-        "Pushpa 2"
-      ]
-    },
-    "keywords": [
-      "Mukesh Chhabra Ramayana casting",
-      "Ravie Dubey Lakshman Ramayana",
-      "Ramayana casting six years",
-      "Ranbir Kapoor Sai Pallavi Ramayana"
-    ],
-    "images": [
-      {
-        "url": "https://images.timesnownews.com/thumb/msid-156563494,thumbsize-882673,width-1280,height-720,resizemode-75/156563494.jpg",
-        "caption": "Ramayana Casting Director Mukesh Chhabra Defends Choices and Shares Six-Year Journey",
-        "source": "Times Now — Entertainment"
-      }
-    ],
-    "published": "2026-11-25T23:52:37Z"
-  },
-  "15rr8ao": {
-    "id": "15rr8ao",
-    "type": "news",
-    "headline": "Constantine 2 Will Lean Into An Unapologetically R-Rated Vision, Director Francis Lawrence Confirms",
-    "dek": "Director Francis Lawrence has provided an exciting creative update on the long-awaited supernatural sequel starring Keanu Reeves, revealing plans to fully embrace a mature rating this time around.",
-    "entities": {
-      "people": [
-        "Keanu Reeves",
-        "Francis Lawrence",
-        "Akiva Goldsman",
-        "Kevin McCarthy",
-        "James Gunn",
-        "Peter Safran",
-        "Francis Galluppi",
-        "Rachel Weisz",
-        "Peter Jackson",
-        "James Wan",
-        "Matt Ryan"
-      ],
-      "titles": [
-        "Constantine",
-        "Constantine 2",
-        "The Hunger Games",
-        "Lord of the Rings",
-        "The Conjuring",
-        "The King's Speech",
-        "City of Demons",
-        "House of Mystery"
-      ]
-    },
-    "keywords": [
-      "Constantine 2",
-      "Keanu Reeves Constantine",
-      "Francis Lawrence Constantine 2",
-      "Constantine R rating"
-    ],
-    "images": [
-      {
-        "url": "https://static0.srcdn.com/wordpress/wp-content/uploads/2026/11/keanu-reeves-posing-for-a-photo-on-the-john-wick-chapter-4-red-carpet.jpg?w=1600&amp;h=900&amp;fit=crop",
-        "caption": "Constantine 2 Will Lean Into An Unapologetically R-Rated Vision, Director Francis Lawrence Confirms",
-        "source": "Screen Rant"
-      }
-    ],
-    "published": "Wed, 25 Nov 2026 23:48:12 GMT"
   },
   "1ihedvj": {
     "id": "1ihedvj",
