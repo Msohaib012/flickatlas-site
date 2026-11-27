@@ -4712,6 +4712,49 @@ window.FA_HOME_ARTICLES = {
     ],
     "published": "2026-11-25T15:00:10Z"
   },
+  "cevcrb": {
+    "id": "cevcrb",
+    "type": "news",
+    "headline": "The Lord of the Rings: The Rings of Power Season 4 Officially Confirmed by Amazon Prime Video",
+    "dek": "Amazon Prime Video has officially announced a fourth season for The Lord of the Rings: The Rings of Power following impressive viewership numbers and the release of the Season 3 finale.",
+    "entities": {
+      "people": [
+        "Devanshi Basu",
+        "Peter Friedlander",
+        "J.D. Payne",
+        "Patrick McKay",
+        "Lindsey Weber",
+        "Kate Hazell",
+        "Justin Doble",
+        "Charlotte Brändström",
+        "Matthew Penry-Davey",
+        "Ally O’Leary Cantrell",
+        "Tim Keene",
+        "Andrew Lee"
+      ],
+      "titles": [
+        "The Lord of the Rings: The Rings of Power",
+        "Gremlins 3",
+        "Heroic",
+        "Avengers: Doomsday",
+        "Home Alone"
+      ]
+    },
+    "keywords": [
+      "The Lord of the Rings The Rings of Power Season 4",
+      "The Rings of Power Season 4 official renewal",
+      "Amazon Prime Video Rings of Power",
+      "J.D. Payne Patrick McKay Rings of Power"
+    ],
+    "images": [
+      {
+        "url": "https://www.comingsoon.net/wp-content/uploads/sites/3/2026/11/edited-image-2026-11-25T091425.696.webp?resize=1200,630",
+        "caption": "The Lord of the Rings: The Rings of Power Season 4 Officially Confirmed by Amazon Prime Video",
+        "source": "ComingSoon.net"
+      }
+    ],
+    "published": "Wed, 25 Nov 2026 03:45:57 +0000"
+  },
   "nqifzr": {
     "id": "nqifzr",
     "type": "news",
@@ -4978,6 +5021,61 @@ window.FA_HOME_ARTICLES = {
     ],
     "published": "2026-11-23T15:00:06Z"
   },
+  "e7y50d": {
+    "id": "e7y50d",
+    "type": "news",
+    "headline": "New Home Alone Movie Announced With Macaulay Culkin While Remembering Late Cast Members",
+    "dek": "A brand new entry in the festive Home Alone franchise is reportedly in early development with Macaulay Culkin returning, prompting a reflection on the beloved actors the series has lost over the years.",
+    "entities": {
+      "people": [
+        "Macaulay Culkin",
+        "Seth Rogen",
+        "Evan Goldberg",
+        "Catherine O'Hara",
+        "Chris Columbus",
+        "Brenda Fricker",
+        "Phil Belfield",
+        "Tim Curry",
+        "John Heard",
+        "John Candy",
+        "Roberts Blossom",
+        "Billie Bird",
+        "Bill Erwin",
+        "Ralph Foody",
+        "Eddie Bracken",
+        "Clarke Devereux",
+        "Rip Taylor",
+        "Kiesha Dosanjh"
+      ],
+      "titles": [
+        "Home Alone",
+        "Home Alone 2: Lost in New York",
+        "The Rocky Horror Show",
+        "It",
+        "Big",
+        "Awakenings",
+        "The Sopranos",
+        "Close Encounters of the Third Kind",
+        "Escape from Alcatraz",
+        "Deranged",
+        "Dennis the Menace"
+      ]
+    },
+    "keywords": [
+      "Home Alone new movie",
+      "Macaulay Culkin Home Alone",
+      "Catherine O Hara Home Alone",
+      "Home Alone cast deaths"
+    ],
+    "images": [
+      {
+        "url": "https://resizer.ladbiblegroup.com/ogimage/v3/assets/blt949ea8e16e463049/blt167c11108baa0692/6b0402ea6ee0c0928c124d3e/home-alone-actor-new-movie.png",
+        "caption": "New Home Alone Movie Announced With Macaulay Culkin While Remembering Late Cast Members",
+        "source": "UNILAD"
+      }
+    ],
+    "published": "2026-11-23T12:14:39.566Z"
+  },
   "f4chlg": {
     "id": "f4chlg",
     "type": "news",
@@ -5101,6 +5199,47 @@ window.FA_HOME_ARTICLES = {
       }
     ],
     "published": "2026-11-22T15:00:16Z"
+  },
+  "1sl9v52": {
+    "id": "1sl9v52",
+    "type": "news",
+    "headline": "Macaulay Culkin Teams Up With Seth Rogen and Evan Goldberg for New Home Alone Sequel at Disney",
+    "dek": "Original star Macaulay Culkin is collaborating with filmmakers Seth Rogen and Evan Goldberg to write and develop a brand new installment in the classic holiday franchise.",
+    "entities": {
+      "people": [
+        "Macaulay Culkin",
+        "Seth Rogen",
+        "Evan Goldberg",
+        "Chris Columbus",
+        "John Hughes",
+        "Joe Pesci",
+        "Daniel Stern",
+        "Catherine O'Hara",
+        "John Heard",
+        "Robert Blossom",
+        "Alex D. Linz"
+      ],
+      "titles": [
+        "Home Alone",
+        "Home Alone 2: Lost in New York",
+        "Home Alone 3",
+        "Home Sweet Home Alone"
+      ]
+    },
+    "keywords": [
+      "Macaulay Culkin Home Alone sequel Disney",
+      "Seth Rogen Evan Goldberg Home Alone",
+      "Home Alone new movie Disney",
+      "Macaulay Culkin Seth Rogen movie"
+    ],
+    "images": [
+      {
+        "url": "https://cdn-english.zeenews.com/sites/default/files/2026/11/21/7149-home-alone.png",
+        "caption": "Macaulay Culkin Teams Up With Seth Rogen and Evan Goldberg for New Home Alone Sequel at Disney",
+        "source": "Zee News — Entertainment"
+      }
+    ],
+    "published": "2026-11-22T02:34:51Z"
   },
   "1pqbmve": {
     "id": "1pqbmve",
