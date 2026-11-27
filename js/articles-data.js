@@ -262540,5 +262540,343 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "2026-11-27T02:00:30.355Z"
+  },
+  "1c0dhht": {
+    "id": "1c0dhht",
+    "type": "news",
+    "headline": "Twinkle Khanna Mocks Akshay Kumar on Koffee With Karan Season 9",
+    "dek": "Akshay Kumar connected with his wife Twinkle Khanna on speakerphone during his Koffee With Karan Season 9 appearance, leading to a hilarious conversation about his morning habits and unpaid guest spot.",
+    "body": [
+      {
+        "h": "Unexpected Phone Call on Live TV",
+        "p": [
+          "During his appearance on Koffee With Karan Season 9 alongside Ravi Kishan, Bollywood actor Akshay Kumar decided to surprise viewers by calling his wife, Twinkle Khanna, on speakerphone. What started as a casual conversation quickly turned into a public roasting session that caught the actor entirely off guard.",
+          "The live television call offered fans an amusing peek into the couple's domestic dynamic. Instead of playing along with the show's lighthearted atmosphere, Twinkle immediately launched into playful complaints about her husband's morning routine."
+        ]
+      },
+      {
+        "h": "Morning Disturbances and Household Gripes",
+        "p": [
+          "Twinkle did not hold back when describing how her sleep had been interrupted earlier that day. She called out Akshay for waking her up at 6 AM by playing loud bhajans and jokingly comparing his vocal delivery to that of Anup Jalota.",
+          "In addition to his early morning musical performances, she also used the national television platform to remind him to properly close the bathroom door, leaving both the host and the studio audience amused by her candid remarks."
+        ]
+      },
+      {
+        "h": "Shocked Over an Unpaid Appearance",
+        "p": [
+          "The conversation took another funny turn when Akshay revealed his current whereabouts on the talk show. Twinkle mentioned that she had recently spoken with host Karan Johar about potentially judging the rapid-fire round.",
+          "However, her mood shifted to sheer disbelief when she learned that Akshay was appearing on the program completely free of charge. Expressing her astonishment on air, she declared that she was shocked by the arrangement."
+        ]
+      },
+      {
+        "h": "Karan Johar Joins the Teasing",
+        "p": [
+          "Hearing Twinkle's reaction to the unpaid guest spot, Karan Johar quickly jumped into the conversation. The host playfully teased her, questioning whether she expected financial compensation for every single activity she undertook.",
+          "This witty exchange added an extra layer of humor to the segment, turning a simple phone call into one of the most talked-about highlights of the episode."
+        ]
+      },
+      {
+        "h": "Ravi Kishan and Other Highlights",
+        "p": [
+          "Apart from the viral phone call, the episode featured several entertaining moments shared between Akshay Kumar and his co-guest, Ravi Kishan. The actors engaged in fun banter and Ravi even taught Akshay his signature hook step featuring a swag-filled walk.",
+          "During the rapid-fire segment, Akshay delivered a memorable punchline when asked whether he would prefer going a year without sex or skipping workouts, quipping that sex itself serves as the ultimate workout."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Twinkle Khanna humorously scolded her husband Akshay Kumar over a speakerphone call during his appearance on Koffee With Karan Season 9. She complained about his morning bhajan singing and expressed shock upon learning he was doing the episode for free, while Karan Johar joined in to tease her."
+        ]
+      }
+    ],
+    "facts": [
+      "Akshay Kumar appeared on Koffee With Karan Season 9 with Ravi Kishan.",
+      "Twinkle Khanna was called on speakerphone during the episode on 26.NOV.2026.",
+      "Twinkle complained about Akshay playing bhajans loudly at 6 am.",
+      "Twinkle was shocked to learn that Akshay appeared on the show for free.",
+      "Ravi Kishan taught Akshay his viral hook step on the show."
+    ],
+    "entities": {
+      "people": [
+        "Twinkle Khanna",
+        "Akshay Kumar",
+        "Ravi Kishan",
+        "Karan Johar",
+        "Anup Jalota",
+        "Yash Negi"
+      ],
+      "titles": [
+        "Koffee With Karan",
+        "Koffee With Karan Season 9"
+      ]
+    },
+    "keywords": [
+      "Twinkle Khanna Akshay Kumar Koffee With Karan",
+      "Akshay Kumar Koffee With Karan Season 9",
+      "Twinkle Khanna roasts Akshay Kumar",
+      "Akshay Kumar Ravi Kishan Koffee With Karan"
+    ],
+    "images": [
+      {
+        "url": "https://mm-wp-prod-uploads.s3.ap-south-1.amazonaws.com/wp-content/uploads/2026/11/26120402/Miss-Malini-Wordpress-Images-2026-11-26T120325.113.jpg",
+        "caption": "Twinkle Khanna Mocks Akshay Kumar on Koffee With Karan Season 9",
+        "source": "MissMalini"
+      }
+    ],
+    "published": "2026-11-27T09:51:50Z"
+  },
+  "1n3eixx": {
+    "id": "1n3eixx",
+    "type": "news",
+    "headline": "Jung Woo Sung Departs Artist Company After Decade-Long Partnership With Lee Jung Jae",
+    "dek": "Korean actor Jung Woo Sung has officially left Artist Company, the entertainment agency he established alongside his close friend Lee Jung Jae in 2016.",
+    "body": [
+      {
+        "h": "The Official Departure",
+        "p": [
+          "Renowned actor Jung Woo Sung has officially severed ties with Artist Company, the prominent management agency he co-established with his longtime friend and colleague Lee Jung Jae. Representatives for Artist Company verified the separation on November 27, 2026, stating that their management contract with the star had officially concluded.",
+          "Following the expiration of this agreement, the actor intends to pursue his upcoming projects independently. Insiders report that he will continue navigating his career without corporate representation, relying instead on a trusted manager who has worked alongside him for over ten years."
+        ]
+      },
+      {
+        "h": "History of Artist Company",
+        "p": [
+          "The agency was originally brought to life by Jung Woo Sung and Lee Jung Jae back in 2016. What began strictly as an actor management firm gradually broadened its business scope over the years, branching out into the production of films and television dramas as well as ventures in the beauty industry.",
+          "Both founding stars took on elevated internal roles when they were appointed as inside directors in March 2024. However, this administrative chapter came to an earlier-than-expected close when Jung Woo Sung officially resigned from his board position in October 2026, roughly half a year before his formal term was scheduled to expire."
+        ]
+      },
+      {
+        "h": "Shareholder Status and Financial Shifts",
+        "p": [
+          "Alongside stepping down from his executive duties on the board, the actor initiated financial maneuvers regarding his equity in the company. He parted ways with a portion of his held shares, successfully reducing his overall stake to below ten percent.",
+          "This calculated reduction in ownership effectively stripped him of his classification as a major shareholder within the enterprise he helped build a decade prior, signaling a definitive financial and administrative detachment from the firm."
+        ]
+      },
+      {
+        "h": "Recent Press Disputes and Legal Actions",
+        "p": [
+          "The actor's exit comes on the heels of a public media controversy involving the agency and the news outlet Dispatch. The dispute centered around a published report concerning the company's management contracts.",
+          "In response to the publication, Artist Company issued a formal statement on November 19, 2026, expressing strong disagreement with the claims made. The firm announced it would bypass further media debates, opting instead to seek formal corrections and pursue legal avenues through a designated law firm."
+        ]
+      },
+      {
+        "h": "Future Outlook for the Independent Star",
+        "p": [
+          "As Jung Woo Sung transitions into an independent professional path, industry watchers are keeping a close eye on his next moves. Operating without a traditional agency framework is a rare choice for top-tier talent in the Korean entertainment landscape.",
+          "Nevertheless, armed with a veteran manager who has stood by his side for more than a decade, the seasoned actor appears fully prepared to manage his future endeavors on his own terms following his departure from the co-founded enterprise."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Jung Woo Sung has officially left Artist Company, the agency he co-founded with Lee Jung Jae in 2016, to work independently with a longtime manager. The exit follows his recent resignation from the board of directors and the reduction of his shares below ten percent amid a prior dispute involving Dispatch."
+        ]
+      }
+    ],
+    "facts": [
+      "Jung Woo Sung left Artist Company on November 27, 2026.",
+      "Artist Company was co-founded by Jung Woo Sung and Lee Jung Jae in 2016.",
+      "Jung Woo Sung and Lee Jung Jae were appointed inside directors in March 2024.",
+      "Jung Woo Sung stepped down from the board in October 2026.",
+      "Artist Company addressed a report by Dispatch on November 19, 2026."
+    ],
+    "entities": {
+      "people": [
+        "Jung Woo Sung",
+        "Lee Jung Jae",
+        "YKang"
+      ],
+      "titles": []
+    },
+    "keywords": [
+      "Jung Woo Sung",
+      "Artist Company",
+      "Lee Jung Jae",
+      "Jung Woo Sung leaves agency"
+    ],
+    "images": [
+      {
+        "url": "https://i.mydramalist.com/VBBAQx_2d.jpg",
+        "caption": "Jung Woo Sung Departs Artist Company After Decade-Long Partnership With Lee Jung Jae",
+        "source": "MyDramaList"
+      }
+    ],
+    "published": "Fri, 27 Nov 2026 08:40:07 +0000"
+  },
+  "15qn8zc": {
+    "id": "15qn8zc",
+    "type": "news",
+    "headline": "Veer Pahariya's Comment on Tara Sutaria's Birthday Video Ignites New Speculation",
+    "dek": "A simple emoji response from Veer Pahariya on a birthday post shared by Orry has once again linked his name with Tara Sutaria, sparking fresh rumors of a reconciliation.",
+    "body": [
+      {
+        "h": "The Social Media Interaction",
+        "p": [
+          "Tara Sutaria recently celebrated her birthday on November 19, prompting many of her industry friends to flood social media with warm wishes and celebratory posts. Among the digital tributes, a video clip shared by Orry quickly drew significant attention from eagle-eyed followers across platforms.",
+          "Rather than just admiring the footage, social media users rapidly shifted their focus to the comments section where a familiar name appeared. Veer Pahariya left a subtle digital footprint on the upload, which immediately caught the eye of onlookers tracking celebrity dynamics."
+        ]
+      },
+      {
+        "h": "The Emoji That Started It All",
+        "p": [
+          "Instead of penning a lengthy public note or addressing the actress directly with words, Pahariya chose a minimalist approach. He opted to post a cake emoji accompanied by a white heart underneath the birthday video.",
+          "What amplified the speculation further was the decision by Orry to pin the comment to the top of the thread. By highlighting the remark, the post ensured that every visitor saw the interaction instantly, fueling fresh discussions about the duo's personal lives."
+        ]
+      },
+      {
+        "h": "Background of Their Public Equation",
+        "p": [
+          "The timeline of Tara Sutaria and Veer Pahariya's association dates back to early 2025, when whispers of their romance first began circulating. By July of that same year, their bond became entirely public after they engaged in playful banter via Instagram comments.",
+          "Following their social media confirmation, the pair frequently stepped out together for public outings. They even walked the ramp together during a fashion show and occasionally shared glimpses of their shared moments with fans online."
+        ]
+      },
+      {
+        "h": "Previous Separation Reports",
+        "p": [
+          "Their romance faced sudden turbulence by January 2026, when media outlets began reporting that the couple had decided to part ways. Those breakup rumors arrived hot on the heels of an AP Dhillon concert in Mumbai.",
+          "During that concert, a viral video featuring the two individuals generated heavy speculation online. Both actors subsequently pushed back against the narrative, with Sutaria calling out false stories and Pahariya stating that the footage had been deceptively edited."
+        ]
+      },
+      {
+        "h": "Silence From the Stars",
+        "p": [
+          "Despite the heavy wave of public curiosity surrounding their relationship status over the months, neither actor has officially verified their reported split. They have consistently chosen to keep the exact reasons behind their personal choices private.",
+          "Similarly, following the recent wave of curiosity ignited by the pinned birthday comment, both stars have maintained complete silence. Neither has issued any statement clarifying whether the latest social media gesture points toward an actual patch-up."
+        ]
+      },
+      {
+        "h": "Current Spotlight and Fan Reaction",
+        "p": [
+          "Fans and gossip columnists have eagerly jumped on this latest digital interaction as a possible sign of renewed romance. For now, the simple exchange has successfully propelled the former couple right back into the center of celebrity gossip circles.",
+          "As observers continue to dissect every online move made by the actors, the general public waits to see if either personality will eventually address the swirling rumors directly."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Veer Pahariya left a cake emoji and a white heart on a birthday video of Tara Sutaria shared by Orry, which Orry pinned to the comments. This simple social media interaction has sparked fresh dating and patch-up rumors among fans, following earlier breakup reports from January 2026."
+        ]
+      }
+    ],
+    "facts": [
+      "Tara Sutaria celebrated her birthday on November 19",
+      "Orry shared a birthday video of Tara Sutaria",
+      "Veer Pahariya commented with a cake emoji and a white heart",
+      "Orry pinned Veer Pahariya's comment",
+      "Tara Sutaria and Veer Pahariya reportedly started dating in early 2025",
+      "Their relationship became public in July 2025",
+      "Breakup reports surfaced in January 2026 following an AP Dhillon concert in Mumbai"
+    ],
+    "entities": {
+      "people": [
+        "Tara Sutaria",
+        "Veer Pahariya",
+        "Orry",
+        "AP Dhillon"
+      ],
+      "titles": []
+    },
+    "keywords": [
+      "Tara Sutaria",
+      "Veer Pahariya",
+      "Tara Sutaria birthday",
+      "Tara Sutaria and Veer Pahariya breakup",
+      "Orry Instagram post"
+    ],
+    "images": [
+      {
+        "url": "https://mm-wp-prod-uploads.s3.ap-south-1.amazonaws.com/wp-content/uploads/2026/11/26162337/Miss-Malini-Wordpress-Images-2026-11-26T162259.699.jpg",
+        "caption": "Veer Pahariya's Comment on Tara Sutaria's Birthday Video Ignites New Speculation",
+        "source": "MissMalini"
+      }
+    ],
+    "published": "2026-11-27T09:51:50Z"
+  },
+  "18m2up5": {
+    "id": "18m2up5",
+    "type": "news",
+    "headline": "Fresh Bomb Threats Target Amitabh Bachchan's Jalsa and Diljit Dosanjh Concert in Mumbai",
+    "dek": "Authorities in Mumbai have been put on high alert following an email warning of explosive attacks targeting celebrity residences, municipal offices, and a major live concert.",
+    "body": [
+      {
+        "h": "Recent Bomb Threat Email Received in Mumbai",
+        "p": [
+          "A fresh wave of security alerts has hit Mumbai following an electronic mail that warned of explosive devices planted at prominent locations across the city. The message specifically named veteran actor Amitabh Bachchan's famous residential bungalow Jalsa, alongside the Mayor's office located at the Brihanmumbai Municipal Corporation headquarters.",
+          "Authorities reported that the latest message arrived on a Thursday, bringing heightened concern to law enforcement agencies. These locations have unfortunately found themselves mentioned in similar intimidating communications over the past few weeks."
+        ]
+      },
+      {
+        "h": "Warnings Issued Against Diljit Dosanjh Concert",
+        "p": [
+          "Alongside residential and administrative buildings, the threatening email explicitly warned against holding the upcoming musical performance by renowned Punjabi singer Diljit Dosanjh. The live event was scheduled to take place on Friday, November 27 at the Mahalaxmi Race Course in Mumbai.",
+          "The sender of the electronic message issued severe warnings regarding the safety of concertgoers, demanding that authorities halt the event immediately to prevent potential attacks in the city."
+        ]
+      },
+      {
+        "h": "Timing Coincides with Historic Anniversary",
+        "p": [
+          "The arrival of this alarming communication carried additional gravity as it landed precisely on the eighteenth anniversary of the tragic 2008 Mumbai terror attacks. Security forces across the metropolis were already maintaining heightened vigilance to honor the solemn occasion when the new threats emerged.",
+          "The message was directly addressed to key municipal leadership, specifically named Mumbai Mayor Ritu Tawde and BMC Commissioner Ashwini Bhide, adding urgency to the administrative response."
+        ]
+      },
+      {
+        "h": "Broader Threats to Infrastructure and Transit",
+        "p": [
+          "Beyond celebrity homes and concert venues, the warning email extended its scope to critical public infrastructure. The sender claimed that the city's extensive metro rail network would also become a target for hostile actions.",
+          "Furthermore, the communication contained radical references to Khalistan, the 1984 anti-Sikh violence, and explicitly named fringe groups including Babbar Khalsa and the Khalistan National Army."
+        ]
+      },
+      {
+        "h": "Escalation and Consecutive Threats",
+        "p": [
+          "The sender attempted to intimidate officials by threatening continuous grenade attacks across Mumbai for thirty consecutive days as punishment for allowing the musical concert to proceed. This latest incident follows a troubling pattern of similar security scares in recent weeks.",
+          "Notably, this new development occurred just two days after a separate electronic threat warned of an improvised explosive device blast at Dosanjh's upcoming concert in Bengaluru, scheduled for November 29 at NICE Grounds in Madavara."
+        ]
+      },
+      {
+        "h": "Preceding Security Scares Earlier in November",
+        "p": [
+          "Mumbai law enforcement and intelligence units were already dealing with heightened stress levels following an earlier security alert on November 12. That previous communication had triggered citywide emergency protocols after warning of multiple coordinated explosions.",
+          "The mid-November threat listed several high-profile targets across the financial capital, including the Chhatrapati Shivaji Maharaj International Airport, the Mayor's office, Jalsa, Mahalaxmi Stadium, and a Punjab National Bank branch."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "A threatening email received on Thursday named Amitabh Bachchan's bungalow Jalsa and the BMC headquarters while warning against Diljit Dosanjh's Mumbai concert at Mahalaxmi Race Course. The message arrived on the 18th anniversary of the 2008 Mumbai terror attacks and followed a previous bomb threat concerning the singer's upcoming Bengaluru event."
+        ]
+      }
+    ],
+    "facts": [
+      "The fresh bomb threat email was received on Thursday.",
+      "The threatening email was addressed to Mumbai Mayor Ritu Tawde and BMC Commissioner Ashwini Bhide.",
+      "Diljit Dosanjh's Mumbai concert was scheduled for Friday, November 27 at the Mahalaxmi Race Course.",
+      "The email arrived on the 18th anniversary of the 2008 Mumbai terror attacks.",
+      "A separate email warned of an IED blast at Dosanjh's concert in Bengaluru scheduled for November 29 at NICE Grounds in Madavara.",
+      "An earlier bomb threat email was received on November 12 targeting locations including the airport, Mayor's office, Jalsa, Mahalaxmi Stadium, and a Punjab National Bank branch."
+    ],
+    "entities": {
+      "people": [
+        "Amitabh Bachchan",
+        "Diljit Dosanjh",
+        "Ritu Tawde",
+        "Ashwini Bhide"
+      ],
+      "titles": []
+    },
+    "keywords": [
+      "Diljit Dosanjh concert bomb threat",
+      "Amitabh Bachchan Jalsa threat",
+      "Mumbai BMC office bomb email",
+      "Diljit Dosanjh Mumbai concert November 27"
+    ],
+    "images": [
+      {
+        "url": "https://cdn-english.zeenews.com/sites/default/files/2026/11/26/7788-sgtrt.jpg",
+        "caption": "Fresh Bomb Threats Target Amitabh Bachchan's Jalsa and Diljit Dosanjh Concert in Mumbai",
+        "source": "Zee News — Entertainment"
+      }
+    ],
+    "published": "2026-11-27T09:51:50Z"
   }
 };

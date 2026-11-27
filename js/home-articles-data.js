@@ -35,6 +35,127 @@ window.FA_HOME_ARTICLES = {
     ],
     "published": "Fri, 27 Nov 2026 13:23:42 +0200"
   },
+  "15qn8zc": {
+    "id": "15qn8zc",
+    "type": "news",
+    "headline": "Veer Pahariya's Comment on Tara Sutaria's Birthday Video Ignites New Speculation",
+    "dek": "A simple emoji response from Veer Pahariya on a birthday post shared by Orry has once again linked his name with Tara Sutaria, sparking fresh rumors of a reconciliation.",
+    "entities": {
+      "people": [
+        "Tara Sutaria",
+        "Veer Pahariya",
+        "Orry",
+        "AP Dhillon"
+      ],
+      "titles": []
+    },
+    "keywords": [
+      "Tara Sutaria",
+      "Veer Pahariya",
+      "Tara Sutaria birthday",
+      "Tara Sutaria and Veer Pahariya breakup",
+      "Orry Instagram post"
+    ],
+    "images": [
+      {
+        "url": "https://mm-wp-prod-uploads.s3.ap-south-1.amazonaws.com/wp-content/uploads/2026/11/26162337/Miss-Malini-Wordpress-Images-2026-11-26T162259.699.jpg",
+        "caption": "Veer Pahariya's Comment on Tara Sutaria's Birthday Video Ignites New Speculation",
+        "source": "MissMalini"
+      }
+    ],
+    "published": "2026-11-27T09:51:50Z"
+  },
+  "18m2up5": {
+    "id": "18m2up5",
+    "type": "news",
+    "headline": "Fresh Bomb Threats Target Amitabh Bachchan's Jalsa and Diljit Dosanjh Concert in Mumbai",
+    "dek": "Authorities in Mumbai have been put on high alert following an email warning of explosive attacks targeting celebrity residences, municipal offices, and a major live concert.",
+    "entities": {
+      "people": [
+        "Amitabh Bachchan",
+        "Diljit Dosanjh",
+        "Ritu Tawde",
+        "Ashwini Bhide"
+      ],
+      "titles": []
+    },
+    "keywords": [
+      "Diljit Dosanjh concert bomb threat",
+      "Amitabh Bachchan Jalsa threat",
+      "Mumbai BMC office bomb email",
+      "Diljit Dosanjh Mumbai concert November 27"
+    ],
+    "images": [
+      {
+        "url": "https://cdn-english.zeenews.com/sites/default/files/2026/11/26/7788-sgtrt.jpg",
+        "caption": "Fresh Bomb Threats Target Amitabh Bachchan's Jalsa and Diljit Dosanjh Concert in Mumbai",
+        "source": "Zee News — Entertainment"
+      }
+    ],
+    "published": "2026-11-27T09:51:50Z"
+  },
+  "1c0dhht": {
+    "id": "1c0dhht",
+    "type": "news",
+    "headline": "Twinkle Khanna Mocks Akshay Kumar on Koffee With Karan Season 9",
+    "dek": "Akshay Kumar connected with his wife Twinkle Khanna on speakerphone during his Koffee With Karan Season 9 appearance, leading to a hilarious conversation about his morning habits and unpaid guest spot.",
+    "entities": {
+      "people": [
+        "Twinkle Khanna",
+        "Akshay Kumar",
+        "Ravi Kishan",
+        "Karan Johar",
+        "Anup Jalota",
+        "Yash Negi"
+      ],
+      "titles": [
+        "Koffee With Karan",
+        "Koffee With Karan Season 9"
+      ]
+    },
+    "keywords": [
+      "Twinkle Khanna Akshay Kumar Koffee With Karan",
+      "Akshay Kumar Koffee With Karan Season 9",
+      "Twinkle Khanna roasts Akshay Kumar",
+      "Akshay Kumar Ravi Kishan Koffee With Karan"
+    ],
+    "images": [
+      {
+        "url": "https://mm-wp-prod-uploads.s3.ap-south-1.amazonaws.com/wp-content/uploads/2026/11/26120402/Miss-Malini-Wordpress-Images-2026-11-26T120325.113.jpg",
+        "caption": "Twinkle Khanna Mocks Akshay Kumar on Koffee With Karan Season 9",
+        "source": "MissMalini"
+      }
+    ],
+    "published": "2026-11-27T09:51:50Z"
+  },
+  "1n3eixx": {
+    "id": "1n3eixx",
+    "type": "news",
+    "headline": "Jung Woo Sung Departs Artist Company After Decade-Long Partnership With Lee Jung Jae",
+    "dek": "Korean actor Jung Woo Sung has officially left Artist Company, the entertainment agency he established alongside his close friend Lee Jung Jae in 2016.",
+    "entities": {
+      "people": [
+        "Jung Woo Sung",
+        "Lee Jung Jae",
+        "YKang"
+      ],
+      "titles": []
+    },
+    "keywords": [
+      "Jung Woo Sung",
+      "Artist Company",
+      "Lee Jung Jae",
+      "Jung Woo Sung leaves agency"
+    ],
+    "images": [
+      {
+        "url": "https://i.mydramalist.com/VBBAQx_2d.jpg",
+        "caption": "Jung Woo Sung Departs Artist Company After Decade-Long Partnership With Lee Jung Jae",
+        "source": "MyDramaList"
+      }
+    ],
+    "published": "Fri, 27 Nov 2026 08:40:07 +0000"
+  },
   "oktv2p": {
     "id": "oktv2p",
     "type": "news",
@@ -4528,168 +4649,6 @@ window.FA_HOME_ARTICLES = {
     ],
     "published": "Thu, 26 Nov 2026 02:57:12 GMT"
   },
-  "14m2rl2": {
-    "id": "14m2rl2",
-    "type": "news",
-    "headline": "Park Ji-Hyun Achieves Historic First International Emmy Acting Nomination for South Korea",
-    "dek": "The You and Everything Else star reflected on her milestone achievement at the 54th International Emmy Awards in New York.",
-    "entities": {
-      "people": [
-        "Park Ji-Hyun",
-        "Arpita Sarkar",
-        "Mona Mina Leon",
-        "Bárbara Mori",
-        "Sheridan Smith",
-        "Song Hye-jin",
-        "Jo Yeong-min",
-        "Kim Go-eun",
-        "Jensen Huang",
-        "Eric Swalwell",
-        "Akshay Kumar",
-        "Ravi Kishan",
-        "Gukesh",
-        "Sindarov"
-      ],
-      "titles": [
-        "You and Everything Else",
-        "Holy Sh!t",
-        "Lucca's World",
-        "I Fought the Law",
-        "Hyper Knife",
-        "Prisoner 951",
-        "The King's Affection"
-      ]
-    },
-    "keywords": [
-      "Park Ji-Hyun Emmy nomination",
-      "You and Everything Else Netflix",
-      "Park Ji-Hyun You and Everything Else",
-      "International Emmy Awards 2026"
-    ],
-    "images": [
-      {
-        "url": "https://images.timesnownews.com/thumb/msid-156566187,thumbsize-136429,width-1280,height-720,resizemode-75/156566187.jpg",
-        "caption": "Park Ji-Hyun Achieves Historic First International Emmy Acting Nomination for South Korea",
-        "source": "Times Now — Entertainment"
-      }
-    ],
-    "published": "2026-11-26T02:52:22Z"
-  },
-  "4g2y90": {
-    "id": "4g2y90",
-    "type": "news",
-    "headline": "Suzy's Hit Series 'Anna' In Global Remake Discussions Across Seven International Territories",
-    "dek": "The acclaimed Coupang Play original series starring Suzy is reportedly exploring localized adaptations in seven countries worldwide, including the United States and the United Kingdom.",
-    "entities": {
-      "people": [
-        "Suzy",
-        "YKang",
-        "Kim Jun Han",
-        "Jung Eun Chae",
-        "Jung Han Ah",
-        "Lee Joo Young"
-      ],
-      "titles": [
-        "Anna",
-        "Intimate Stranger",
-        "She Was Pretty",
-        "Ode to My Father 2",
-        "Mission: Cross 2",
-        "But Your Love",
-        "The Glory"
-      ]
-    },
-    "keywords": [
-      "Anna remake talks",
-      "Suzy Anna series",
-      "Intimate Stranger novel adaptation",
-      "Coupang Play Anna US UK"
-    ],
-    "images": [
-      {
-        "url": "https://i.mydramalist.com/3vvgnm_2d.jpg",
-        "caption": "Suzy's Hit Series 'Anna' In Global Remake Discussions Across Seven International Territories",
-        "source": "MyDramaList"
-      }
-    ],
-    "published": "Thu, 26 Nov 2026 02:41:18 +0000"
-  },
-  "1b963eg": {
-    "id": "1b963eg",
-    "type": "news",
-    "headline": "Shuri and Yosuke Sugino to Lead New Fuji TV Medical Rescue Series Last Siren",
-    "dek": "Actors Shuri and Yosuke Sugino have officially signed on to star in the upcoming Fuji TV drama series Last Siren, set against the backdrop of emergency services in Yokohama.",
-    "entities": {
-      "people": [
-        "Shuri",
-        "Yosuke Sugino",
-        "Chise Matsumoto",
-        "Kaoru Kawashima"
-      ],
-      "titles": [
-        "Last Siren",
-        "Emergency Room 24 Hours 6"
-      ]
-    },
-    "keywords": [
-      "Last Siren drama",
-      "Shuri Last Siren",
-      "Yosuke Sugino Fuji TV",
-      "Last Siren release date"
-    ],
-    "images": [
-      {
-        "url": "https://blog.asianwiki.com/wp-content/uploads/2026/11/Last_Siren-tp1.jpg",
-        "caption": "Shuri and Yosuke Sugino to Lead New Fuji TV Medical Rescue Series Last Siren",
-        "source": "AsianWiki"
-      }
-    ],
-    "published": "Thu, 26 Nov 2026 02:37:11 +0000"
-  },
-  "ck34q2": {
-    "id": "ck34q2",
-    "type": "news",
-    "headline": "Survivor Season 51 Episode 10 Recap: The Quiet Mastery of Sharonda",
-    "dek": "Sharonda takes total command of the island in a masterclass of manipulation, while Mike secures immunity and strategic misdirections send players scrambling.",
-    "entities": {
-      "people": [
-        "Sharonda",
-        "Thien An",
-        "Lewis",
-        "Mr. Beast",
-        "Devin",
-        "Maggie",
-        "Elizabeth Holmes",
-        "Mike",
-        "Dick Wolf",
-        "Cristian",
-        "Carter",
-        "Jelly",
-        "Eric",
-        "Brody Brady",
-        "Sandra Diaz-Twine"
-      ],
-      "titles": [
-        "Survivor",
-        "Law & Order",
-        "Law & Order: SVU"
-      ]
-    },
-    "keywords": [
-      "Survivor Sorting Hogs",
-      "Survivor Season 51 Episode 10",
-      "Sharonda Survivor",
-      "Maggie Survivor elimination"
-    ],
-    "images": [
-      {
-        "url": "https://pyxis.nymag.com/v1/imgs/142/c2d/bfca771c0e728e248e162b887b76180d28-survivor.1x.rsocial.w1200.jpg",
-        "caption": "Survivor Season 51 Episode 10 Recap: The Quiet Mastery of Sharonda",
-        "source": "Vulture"
-      }
-    ],
-    "published": "2026-11-26T02:30:49.604Z"
-  },
   "1ihedvj": {
     "id": "1ihedvj",
     "type": "news",
@@ -4993,6 +4952,68 @@ window.FA_HOME_ARTICLES = {
       }
     ],
     "published": "2026-11-23T15:00:06Z"
+  },
+  "13v9607": {
+    "id": "13v9607",
+    "type": "news",
+    "headline": "28-Year-Old Man Found Dead in Locked Lodge Room in Tamil Nadu After Leaving Home for Work",
+    "dek": "Selvaraj, a 28-year-old resident of Tirupattur district, was discovered dead inside a locked private lodge room, prompting his mother to demand a thorough police inquiry into the mysterious circumstances.",
+    "entities": {
+      "people": [
+        "Selvaraj",
+        "Shankar",
+        "Sangeetha",
+        "Aditi Pandey"
+      ],
+      "titles": []
+    },
+    "keywords": [
+      "Selvaraj Tirupattur lodge",
+      "Selvaraj death Tamil Nadu",
+      "Tirupattur lodge dead body",
+      "Selvaraj mother Sangeetha complaint"
+    ],
+    "images": [
+      {
+        "url": "https://images.timesnownews.com/thumb/msid-156549385,thumbsize-22214,width-1280,height-720,resizemode-75/156549385.jpg",
+        "caption": "28-Year-Old Man Found Dead in Locked Lodge Room in Tamil Nadu After Leaving Home for Work",
+        "source": "Times Now — Entertainment"
+      }
+    ],
+    "published": "2026-11-22T22:51:56Z"
+  },
+  "ubd975": {
+    "id": "ubd975",
+    "type": "news",
+    "headline": "Bigg Boss Tamil 8 Winner Muthukumaran Faces Police Case Following False Marriage Promise Allegations",
+    "dek": "Chennai police register a case against reality television personality Muthukumaran Jegatheesan after social media influencer Wahidha Akdhar files a complaint regarding a deceitful relationship.",
+    "entities": {
+      "people": [
+        "Muthukumaran Jegatheesan",
+        "Wahidha Akdhar",
+        "Vijay Sethupathi",
+        "Thamarai",
+        "Raisa Nasreen"
+      ],
+      "titles": [
+        "Bigg Boss Tamil Season 8",
+        "Bigg Boss Tamil 8"
+      ]
+    },
+    "keywords": [
+      "Muthukumaran Jegatheesan",
+      "Wahidha Akdhar",
+      "Bigg Boss Tamil 8",
+      "Virugambakkam All-Women Police Station"
+    ],
+    "images": [
+      {
+        "url": "https://images.timesnownews.com/thumb/msid-156549279,thumbsize-203776,width-1280,height-720,resizemode-75/156549279.jpg",
+        "caption": "Bigg Boss Tamil 8 Winner Muthukumaran Faces Police Case Following False Marriage Promise Allegations",
+        "source": "Times Now — Entertainment"
+      }
+    ],
+    "published": "2026-11-22T22:51:56Z"
   },
   "qyxwxv": {
     "id": "qyxwxv",
