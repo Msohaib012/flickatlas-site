@@ -263700,5 +263700,381 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Fri, 27 Nov 2026 10:06:14 GMT"
+  },
+  "vjeg5k": {
+    "id": "vjeg5k",
+    "type": "news",
+    "headline": "Korean Spy Comedy Sequel Mission: Cross 2 Finally Sets Netflix Release Date",
+    "dek": "Netflix has confirmed a holiday release window for the upcoming spy comedy sequel Mission: Cross 2 after an unexplained scheduling delay.",
+    "body": [
+      {
+        "h": "Netflix Announces Holiday Release Date",
+        "p": [
+          "Netflix has officially ended speculation surrounding the highly anticipated sequel Mission: Cross 2 by confirming its arrival for the upcoming holiday season. Subscribers now have a firm date to circle on their calendars as the streamer prepares to launch the high-stakes comedy caper.",
+          "The announcement resolves a release window that had previously drifted without any official explanation from the platform. Earlier in the year, the movie had occupied a different spot on the schedule before vanishing from the active calendar."
+        ]
+      },
+      {
+        "h": "Christmas Day Premiere Scheduled",
+        "p": [
+          "The streaming platform has officially locked in Christmas Day for the debut of the sequel. Fans will be able to watch the new film starting on December 25, 2026.",
+          "This holiday launch places the project right in the middle of a prime viewing period for global audiences looking for festive entertainment options."
+        ]
+      },
+      {
+        "h": "Returning Cast and Characters",
+        "p": [
+          "Hwang Jung-min and Yum Jung-ah reprise their respective leading roles as Park Kang-mu and Kang Mi-seon. The married undercover duo will once again bring their distinct dynamic to the screen.",
+          "Additionally, several familiar supporting cast members are returning for the sequel. Jeong Man Sik portrays Lee Sang Ung, Cha Rae Hyung takes on the role of Heon Gi, and Lee Ho Cheol returns as Dong Su."
+        ]
+      },
+      {
+        "h": "New Additions to the Ensemble",
+        "p": [
+          "Four fresh actors join the returning ensemble to round out the character roster for the upcoming film. Yoon Kyung Ho steps into the role of Cheon In Hak.",
+          "Meanwhile, Im Seong Ja appears as Duchil, Cha In Pyo takes on the pivotal role of the President, and Kim Kuk Hee plays the President’s Chief of Staff."
+        ]
+      },
+      {
+        "h": "Plot and Premise",
+        "p": [
+          "The official synopsis details how Park Kang-mu, a retired special ops agent, gets pulled back into active duty when the President assigns him to recover a stolen national treasure. His wife, Kang Mi-seon, was a former Asian Games shooting silver medalist who became a detective and landed at a seaside provincial station following a demotion. She jumps at the opportunity to rejoin the action alongside him.",
+          "The reunion of the married couple as partners on the job promises to create plenty of friction both professionally and personally."
+        ]
+      },
+      {
+        "h": "Creative Team and Production",
+        "p": [
+          "The sequel is written and directed by Lee Myung Hoon, who takes the reins of the project. Behind the scenes, the production duties are handled by Sanai Pictures, Plus M Entertainment, and Obra Creative.",
+          "This creative team collaborates to bring the ambitious spy comedy back to screens following the success of the initial film."
+        ]
+      },
+      {
+        "h": "Background of the Original Film",
+        "p": [
+          "The predecessor released on the platform on August 9, 2024. That original story centered on Kang-moo, who was a former agent turned househusband.",
+          "He eventually got swept into a dangerous mission alongside his detective wife, Mi-seon, who was initially unaware of his clandestine past."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Netflix has officially scheduled the release of the spy comedy sequel Mission: Cross 2 for December 25, 2026, after a previous scheduling delay. The film brings back stars Hwang Jung-min and Yum Jung-ah as an undercover married couple tackling a mission assigned by the President."
+        ]
+      }
+    ],
+    "facts": [
+      "Mission: Cross 2 releases on Netflix on December 25, 2026",
+      "The original film landed on Netflix on August 9, 2024",
+      "Hwang Jung-min portrays Park Kang-mu",
+      "Yum Jung-ah portrays Kang Mi-seon",
+      "Lee Myung Hoon writes and directs the film",
+      "Sanai Pictures, Plus M Entertainment, and Obra Creative produce the movie"
+    ],
+    "entities": {
+      "people": [
+        "Devanshi Basu",
+        "Hwang Jung-min",
+        "Yum Jung-ah",
+        "Jeong Man Sik",
+        "Cha Rae Hyung",
+        "Lee Ho Cheol",
+        "Yoon Kyung Ho",
+        "Im Seong Ja",
+        "Cha In Pyo",
+        "Kim Kuk Hee",
+        "Lee Myung Hoon",
+        "Tom Cruise",
+        "Dave Bautista",
+        "Idris Elba",
+        "John Luther",
+        "Liam Neeson",
+        "Scott Caan",
+        "Casey Affleck",
+        "Tyrese Gibson",
+        "Christopher Nolan"
+      ],
+      "titles": [
+        "Mission: Cross 2",
+        "Mission: Cross",
+        "Ocean’s 14",
+        "Avengers: Doomsday",
+        "Pirates of the Caribbean",
+        "The Odyssey",
+        "Luther 2",
+        "Mission: Impossible – Dead",
+        "The Marksman"
+      ]
+    },
+    "keywords": [
+      "Mission: Cross 2",
+      "Mission: Cross 2 Netflix release date",
+      "Hwang Jung-min Yum Jung-ah",
+      "Mission: Cross 2 cast"
+    ],
+    "images": [
+      {
+        "url": "https://www.comingsoon.net/wp-content/uploads/sites/3/2026/11/edited-image-2026-11-27T111252.711.webp?resize=1200,630",
+        "caption": "Korean Spy Comedy Sequel Mission: Cross 2 Finally Sets Netflix Release Date",
+        "source": "ComingSoon.net"
+      }
+    ],
+    "published": "Fri, 27 Nov 2026 12:30:00 +0000"
+  },
+  "10124ki": {
+    "id": "10124ki",
+    "type": "news",
+    "headline": "Sandeep Reddy Vanga Compares South Legends to Hollywood Icons",
+    "dek": "Filmmaker Sandeep Reddy Vanga has sparked discussion by asserting that south cinematic greats possess a vaster and more diverse body of work than Hollywood heavyweights Al Pacino and Robert De Niro.",
+    "body": [
+      {
+        "h": "The Bold Comparison",
+        "p": [
+          "Filmmaker Sandeep Reddy Vanga recently sparked considerable discussion within the entertainment community by placing several prominent southern Indian film icons on a higher tier than legendary Hollywood actors Al Pacino and Robert De Niro. During a detailed conversation with interviewer Faridoon Shahryar, the director maintained that the cinematic contributions of these domestic greats surpass those of the celebrated western actors.",
+          "Acknowledging that his perspective might draw criticism, Vanga stood firm by his assessment. He highlighted that while he holds immense respect and admiration for both Pacino and De Niro, the sheer breadth of output from the Indian film industry legends sets them apart in his eyes."
+        ]
+      },
+      {
+        "h": "Larger Filmographies and Character Range",
+        "p": [
+          "Elaborating on his viewpoint, the director specified that veteran performers Kamal Haasan, Mammootty, and Chiranjeevi boast vastly superior filmographies compared to their Hollywood counterparts. He pointed out the sheer quantity of motion pictures these stars have spearheaded throughout their respective careers.",
+          "Furthermore, Vanga emphasized the incredible variety of characters these Indian actors have brought to life. In his estimation, the willingness and ability to explore such a wide spectrum of roles across decades of work give the southern icons a distinct edge in terms of overall artistic scope."
+        ]
+      },
+      {
+        "h": "The Godfather Influence on Animal",
+        "p": [
+          "During the same interview, the conversation shifted toward Vanga's own directorial choices, specifically his hit movie Animal. He discussed how the timeless classic The Godfather served as a foundational inspiration for him, tracing his admiration all the way back to his film school days.",
+          "The filmmaker candidly noted that due to his long-standing fandom, certain narrative and stylistic elements from the mafia epic likely bled into his own project. He suggested that some of these cinematic parallels may have manifested unconsciously because of how deeply ingrained the classic film is in his creative psyche."
+        ]
+      },
+      {
+        "h": "Upcoming Projects: Spirit and Animal Park",
+        "p": [
+          "Looking ahead at his professional slate, Vanga provided updates regarding his highly anticipated upcoming venture titled Spirit, which features leading man Prabhas. This production marks the very first time the director and the star are collaborating on a cinematic project.",
+          "Vanga expressed high hopes that Spirit has the potential to redefine Prabhas's career trajectory in a manner not seen since Baahubali 2. Additionally, the filmmaker confirmed that once work on Spirit wraps up, development will immediately commence on Animal Park, the planned sequel to Animal."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Director Sandeep Reddy Vanga argued that Indian cinema icons Kamal Haasan, Mammootty, and Chiranjeevi possess larger filmographies and greater character variety than Hollywood legends Al Pacino and Robert De Niro. He also discussed The Godfather influencing his film Animal and provided updates on his upcoming projects Spirit and Animal Park."
+        ]
+      }
+    ],
+    "facts": [
+      "Sandeep Reddy Vanga placed Kamal Haasan, Mammootty, and Chiranjeevi above Al Pacino and Robert De Niro.",
+      "The interview was conducted by Faridoon Shahryar.",
+      "Spirit is Sandeep Reddy Vanga's first collaboration with Prabhas.",
+      "Animal Park is the sequel to Animal."
+    ],
+    "entities": {
+      "people": [
+        "Sandeep Reddy Vanga",
+        "Kamal Haasan",
+        "Mammootty",
+        "Chiranjeevi",
+        "Al Pacino",
+        "Robert De Niro",
+        "Faridoon Shahryar",
+        "Prabhas"
+      ],
+      "titles": [
+        "The Godfather",
+        "Animal",
+        "Spirit",
+        "Baahubali 2",
+        "Animal Park"
+      ]
+    },
+    "keywords": [
+      "Sandeep Reddy Vanga",
+      "Kamal Haasan Mammootty Chiranjeevi",
+      "Spirit Prabhas",
+      "Animal Park sequel"
+    ],
+    "images": [
+      {
+        "url": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202611/sandeep-reddy-vanga-272219890-16x9_0.png?VersionId=27VclObfX35alyMp7ouCVNlfrVmRj.G.",
+        "caption": "Sandeep Reddy Vanga Compares South Legends to Hollywood Icons",
+        "source": "India Today — Movies"
+      }
+    ],
+    "published": "Fri, 27 Nov 2026 18:02:13 +0530"
+  },
+  "7oh6t0": {
+    "id": "7oh6t0",
+    "type": "news",
+    "headline": "American Dollhouse Trailer Unveils a Terrifying Christmas Nightmare",
+    "dek": "Dark Sky Films has dropped the official trailer for writer-director John Valley's upcoming horror movie American Dollhouse, showcasing a bloody holiday terror.",
+    "body": [
+      {
+        "h": "First Look at American Dollhouse",
+        "p": [
+          "Dark Sky Films has officially shared the promotional trailer for the upcoming horror feature American Dollhouse. Written and directed by John Valley, the project leans heavily into chilling holiday-themed terror and psychological suspense.",
+          "The newly revealed footage gives horror enthusiasts a clear glimpse into the unsettling tone of the feature, setting up a gruesome narrative framed around a festive winter setting."
+        ]
+      },
+      {
+        "h": "Plot and Premise",
+        "p": [
+          "The story follows a protagonist named Sarah as she decides to relocate to her old childhood residence. She hopes the move will help her escape a chaotic urban lifestyle defined by mounting debt and past struggles with addiction.",
+          "However, her fresh start quickly unravels when a deranged local resident develops a deeply unsettling fixation on her. This dangerous obsession stems from an uncanny physical resemblance to the neighbor's late mother."
+        ]
+      },
+      {
+        "h": "Escalating Violence and Disappearances",
+        "p": [
+          "What begins as an unnerving fixation soon escalates into outright hostility and physical violence. As the threat grows, people in Sarah's inner circle start vanishing one by one.",
+          "The unfolding catastrophe plunges the main character into a gruesome holiday nightmare that tests her survival instincts against a deranged stalker."
+        ]
+      },
+      {
+        "h": "Cast and Creative Team",
+        "p": [
+          "The feature is helmed by John Valley, who serves in both writing and directing capacities to bring his horrific vision to the screen. Dark Sky Films is backing the distribution of the project.",
+          "The ensemble cast brings together several recognizable performers, including Hailley Lauren, Kelsey Pribilski, Tinus Seaux, Danielle Evon Ploger, and Richard C. Jones."
+        ]
+      },
+      {
+        "h": "Release Details",
+        "p": [
+          "Anticipation for the picture has steadily built among genre fans following the promotional rollout. Audiences won't have to wait much longer to see the full narrative unfold.",
+          "The feature is officially scheduled to make its debut on January 15th, bringing its dark holiday narrative to viewers."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Dark Sky Films has released a trailer for John Valley's horror film American Dollhouse, detailing a deadly holiday ordeal involving an obsessed neighbor. The project stars Hailley Lauren, Kelsey Pribilski, Tinus Seaux, Danielle Evon Ploger, and Richard C. Jones, and is slated for release on January 15th."
+        ]
+      }
+    ],
+    "facts": [
+      "American Dollhouse is written and directed by John Valley",
+      "The film is distributed by Dark Sky Films",
+      "The cast features Hailley Lauren, Kelsey Pribilski, Tinus Seaux, Danielle Evon Ploger, and Richard C. Jones",
+      "The release date is set for January 15th"
+    ],
+    "entities": {
+      "people": [
+        "John Valley",
+        "Hailley Lauren",
+        "Kelsey Pribilski",
+        "Tinus Seaux",
+        "Danielle Evon Ploger",
+        "Richard C. Jones",
+        "Amie Cranswick"
+      ],
+      "titles": [
+        "American Dollhouse"
+      ]
+    },
+    "keywords": [
+      "American Dollhouse",
+      "John Valley",
+      "Dark Sky Films",
+      "American Dollhouse trailer"
+    ],
+    "images": [
+      {
+        "url": "https://cdn.flickeringmyth.com/wp-content/uploads/2026/11/American-Dollhouse.jpg",
+        "caption": "American Dollhouse Trailer Unveils a Terrifying Christmas Nightmare",
+        "source": "Flickering Myth"
+      }
+    ],
+    "published": "Fri, 27 Nov 2026 12:28:29 +0000"
+  },
+  "1pbbq3": {
+    "id": "1pbbq3",
+    "type": "news",
+    "headline": "Javed Akhtar Reflects on Decades of Alcoholism and the Turning Point of 1991",
+    "dek": "Veteran screenwriter and lyricist Javed Akhtar opens up about his heavy drinking past, admitting that alcohol cost him fifteen years of his life and fueled his biggest mistakes.",
+    "body": [
+      {
+        "h": "A Candid Look Back at Personal Regrets",
+        "p": [
+          "Veteran screenwriter and lyricist Javed Akhtar has recently opened up about his long struggle with alcoholism, sharing deeply personal reflections on a difficult chapter of his life. During a conversation with Barkha Dutt on The Mojo Story, the celebrated writer discussed the heavy toll that heavy drinking took on his personal and professional journey.",
+          "Akhtar explained that harboring regrets is a completely normal part of being a healthy individual. He noted that looking back allows a person to reexamine their choices and ponder how past situations might have been handled differently if circumstances had been different."
+        ]
+      },
+      {
+        "h": "The Reality of Heavy Drinking",
+        "p": [
+          "Detailing the extent of his past addiction, Akhtar revealed that he used to consume nearly an entire bottle of alcohol every single night. Despite the heavy consumption, he firmly stated that he no longer views his past addiction as an ongoing battle, asserting that he has successfully defeated it.",
+          "The writer pointed out that his drinking habit was not rooted in an unhappy childhood. Instead, he frankly admitted that he consumed alcohol simply because he thoroughly enjoyed the pleasure it brought him, making his decision to eventually stop all the more deliberate."
+        ]
+      },
+      {
+        "h": "The Watershed Moment of July 31, 1991",
+        "p": [
+          "The turning point in Akhtar's life arrived in the summer of 1991. He clearly remembers the exact date of his final drinking bout, which took place on July 31 of that year, marking the absolute end of his consumption.",
+          "Since that specific day, the lyricist has not touched a single drop of alcohol and remains steadfast in his commitment never to return to the habit. This conscious choice completely altered the trajectory of his remaining decades."
+        ]
+      },
+      {
+        "h": "Consequences and Major Life Mistakes",
+        "p": [
+          "Reflecting on the impact of those years, Akhtar acknowledged that his judgment was severely compromised during his drinking days. He openly confessed that all the major mistakes he made throughout his career and personal life occurred directly under the influence of alcohol.",
+          "He believes that his heavy reliance on drinking created an irresponsible attitude, causing him to lose close to fifteen years of his life span to poor choices and clouded decision-making."
+        ]
+      },
+      {
+        "h": "Missed Opportunities and Lost Time",
+        "p": [
+          "Looking back from the perspective of his current age of eighty, Akhtar feels a profound sense of lost potential. He realizes that the fifteen years lost to alcohol could have been utilized productively by picking up new skills, studying languages, and exploring music.",
+          "Furthermore, he believes that time could have been dedicated toward showing greater sensitivity and attentiveness toward the people who populated his life and shared his space during those turbulent years."
+        ]
+      },
+      {
+        "h": "Choosing Longevity Over Immediate Pleasure",
+        "p": [
+          "The primary catalyst for quitting was a stark realization regarding his mortality and future. Akhtar understood that if he continued drinking at his heavy rate, he would likely only live until the age of fifty-two or fifty-three.",
+          "Driven by a strong desire to live a long life and a simple aversion to dying prematurely, he chose to sacrifice his favorite pleasure to secure a healthier and more extended future."
+        ]
+      },
+      {
+        "h": "An Active Legacy at Age Eighty",
+        "p": [
+          "Today, Akhtar's historic decision from more than three decades ago continues to dictate his positive outlook on existence. At eighty years old, he remains fully engaged and active in cultural dialogues surrounding cinema, literature, songwriting, and societal issues.",
+          "By continuing to share his past experiences with contemporary audiences, he demonstrates the profound importance of recognizing when a harmful habit takes control and making a courageous effort to change."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Veteran screenwriter Javed Akhtar recently shared that he lost fifteen years of his life to heavy drinking and attributed his major mistakes to alcohol's influence. Having quit drinking entirely on July 31, 1991, the eighty-year-old writer reflects on missed opportunities while continuing to remain active in literature and cinema."
+        ]
+      }
+    ],
+    "facts": [
+      "Javed Akhtar is 80 years old.",
+      "Javed Akhtar quit drinking on July 31, 1991.",
+      "Javed Akhtar believes he lost 15 years of his life due to alcohol.",
+      "Javed Akhtar appeared in an interview with Barkha Dutt on The Mojo Story."
+    ],
+    "entities": {
+      "people": [
+        "Javed Akhtar",
+        "Barkha Dutt"
+      ],
+      "titles": [
+        "The Mojo Story"
+      ]
+    },
+    "keywords": [
+      "Javed Akhtar alcohol",
+      "Javed Akhtar 1991",
+      "Javed Akhtar regrets",
+      "Javed Akhtar Barkha Dutt interview"
+    ],
+    "images": [
+      {
+        "url": "https://static.toiimg.com/thumb/msid-136222260,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "caption": "Javed Akhtar Reflects on Decades of Alcoholism and the Turning Point of 1991",
+        "source": "Times of India — Entertainment"
+      }
+    ],
+    "published": "2026-11-27T17:55:07+05:30"
   }
 };
