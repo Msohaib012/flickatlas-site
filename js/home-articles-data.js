@@ -181,6 +181,36 @@ window.FA_HOME_ARTICLES = {
     ],
     "published": "2026-11-27T20:47:53+05:30"
   },
+  "udzraz": {
+    "id": "udzraz",
+    "type": "news",
+    "headline": "MobLand Season 3 Officially Confirmed: Cast, Production Status, and Everything Else We Know",
+    "dek": "Paramount+ has officially renewed MobLand for a third season following a dramatic Season 2 finale, with Tom Hardy set to return alongside an all-star cast.",
+    "entities": {
+      "people": [
+        "Tom Hardy",
+        "Pierce Brosnan",
+        "Helen Mirren"
+      ],
+      "titles": [
+        "MobLand"
+      ]
+    },
+    "keywords": [
+      "MobLand Season 3",
+      "Tom Hardy MobLand",
+      "MobLand Paramount+",
+      "MobLand Season 2 episodes"
+    ],
+    "images": [
+      {
+        "url": "https://decider.com/wp-content/uploads/2026/10/mobland-207.jpg?quality=75&amp;strip=all&amp;w=680&amp;h=356&amp;crop=1",
+        "caption": "MobLand Season 3 Officially Confirmed: Cast, Production Status, and Everything Else We Know",
+        "source": "Decider"
+      }
+    ],
+    "published": "Fri, 27 Nov 2026 10:01:00 -0500"
+  },
   "hhcw29": {
     "id": "hhcw29",
     "type": "news",
@@ -226,6 +256,118 @@ window.FA_HOME_ARTICLES = {
       }
     ],
     "published": "2026-11-27T15:00:02Z"
+  },
+  "1q8movu": {
+    "id": "1q8movu",
+    "type": "news",
+    "headline": "‘The Hunting Wives’ Season 2 Episode 5 Delivers Unprecedented Chaos and Tragedy",
+    "dek": "An in-depth breakdown of the fifth episode of The Hunting Wives Season 2 on Netflix, highlighting secret romances, shocking murders, and the unraveling of dark secrets.",
+    "entities": {
+      "people": [
+        "Salazar",
+        "Walter Flynn",
+        "Jonny",
+        "Kyle Burkett",
+        "Margo",
+        "Sophie",
+        "Graham",
+        "Jed",
+        "Callie",
+        "Nadia",
+        "Chad",
+        "Nick Hagelin",
+        "Jill",
+        "Brad",
+        "Jamie",
+        "Chase",
+        "Clint",
+        "Sean T. Collins"
+      ],
+      "titles": [
+        "The Hunting Wives",
+        "Married Justice",
+        "Pain Don’t Hurt: Meditations on Road House",
+        "9-1-1: Nashville",
+        "The Slightest Touch",
+        "The Mosquito Bowl",
+        "Euphoria",
+        "Nocturne",
+        "Blood of My Blood",
+        "Jingle All the Way",
+        "The Altruists",
+        "Landman",
+        "MobLand",
+        "From",
+        "The West Wing"
+      ]
+    },
+    "keywords": [
+      "The Hunting Wives Season 2 Episode 5",
+      "The Hunting Wives Netflix",
+      "Margo and Sophie The Hunting Wives",
+      "Brad The Hunting Wives",
+      "The Hunting Wives recap"
+    ],
+    "images": [
+      {
+        "url": "https://decider.com/wp-content/uploads/2026/11/hunting-wives-2051.jpg?quality=75&amp;strip=all&amp;w=680&amp;h=356&amp;crop=1",
+        "caption": "‘The Hunting Wives’ Season 2 Episode 5 Delivers Unprecedented Chaos and Tragedy",
+        "source": "Decider"
+      }
+    ],
+    "published": "Fri, 27 Nov 2026 10:00:00 -0500"
+  },
+  "1tb12k6": {
+    "id": "1tb12k6",
+    "type": "news",
+    "headline": "Shah Rukh Khan and Kareena Kapoor Reunite for Peppy Dance Track Daddy Cool in King",
+    "dek": "Kareena Kapoor and Shah Rukh Khan share sizzling chemistry on the dance floor in Daddy Cool, a new track from the upcoming film King composed by Sachin-Jigar.",
+    "entities": {
+      "people": [
+        "Shah Rukh Khan",
+        "Kareena Kapoor",
+        "Deepika Padukone",
+        "Arijit Singh",
+        "Shilpa Rao",
+        "Vaibhavi Merchant",
+        "Suhana Khan",
+        "Abhishek Bachchan",
+        "Jackie Shroff",
+        "Arshad Warsi",
+        "Raghav Juyal",
+        "Rani Mukerji",
+        "Siddharth Anand",
+        "Gauri Khan",
+        "Mamta Anand",
+        "Jean Reno",
+        "Santanu Das"
+      ],
+      "titles": [
+        "King",
+        "Tu Mil Jaaye",
+        "Daddy Cool",
+        "Ra.One",
+        "Chammak Challo",
+        "Pathaan",
+        "Jawan",
+        "Dunki",
+        "Léon: The Professional"
+      ]
+    },
+    "keywords": [
+      "King song Daddy Cool",
+      "Shah Rukh Khan Kareena Kapoor King",
+      "King film release date",
+      "Siddharth Anand King cast"
+    ],
+    "images": [
+      {
+        "url": "https://www.hindustantimes.com/ht-img/img/2026/11/27/1600x900/logo/daddy_cool_1795790939427_UFrD_1795790939566_84IR_81797aea-23ad-49c6-8f1d-6a208732946c_l0Qh.png",
+        "caption": "Shah Rukh Khan and Kareena Kapoor Reunite for Peppy Dance Track Daddy Cool in King",
+        "source": "Hindustan Times — Entertainment"
+      }
+    ],
+    "published": "Fri, 27 Nov 2026 20:29:43 +0530"
   },
   "alrahz": {
     "id": "alrahz",
@@ -340,6 +482,40 @@ window.FA_HOME_ARTICLES = {
       }
     ],
     "published": "Fri, 27 Nov 2026 14:38:25 GMT"
+  },
+  "1j6ovug": {
+    "id": "1j6ovug",
+    "type": "news",
+    "headline": "Yeh Prem Mol Liya Public Review: Ayushmann Khurrana and Sharvari Win Hearts in Family Drama",
+    "dek": "Audiences share positive reactions on social media for Sooraj Barjatya's newest directorial venture, praising its green-flag romance and wholesome family themes.",
+    "entities": {
+      "people": [
+        "Ayushmann Khurrana",
+        "Sharvari",
+        "Sooraj Barjatya",
+        "Jiya Surana",
+        "Mohammad Naseem Tanvir Ali Khan"
+      ],
+      "titles": [
+        "Yeh Prem Mol Liya",
+        "Prem Ratan Dhan Payo"
+      ]
+    },
+    "keywords": [
+      "Yeh Prem Mol Liya",
+      "Ayushmann Khurrana",
+      "Sharvari",
+      "Sooraj Barjatya",
+      "Prem Ratan Dhan Payo"
+    ],
+    "images": [
+      {
+        "url": "https://filmfare.wwmindia.com/content/2026/nov/yeh-prem-mol-liya1795789306.jpg",
+        "caption": "Yeh Prem Mol Liya Public Review: Ayushmann Khurrana and Sharvari Win Hearts in Family Drama",
+        "source": "Filmfare"
+      }
+    ],
+    "published": "2026-11-27T20:06:19+05:30"
   },
   "17a9flz": {
     "id": "17a9flz",
@@ -4539,144 +4715,6 @@ window.FA_HOME_ARTICLES = {
       }
     ],
     "published": "Thu, 26 Nov 2026 10:10:00 +0000"
-  },
-  "1bvt3xc": {
-    "id": "1bvt3xc",
-    "type": "news",
-    "headline": "Government Directs Netflix to Block Release of Pakistani Web Series Jo Bachay Hain Sang Samait Lo in India",
-    "dek": "The Information and Broadcasting ministry has asked Netflix to block the streaming of the Pakistani show Jo Bachay Hain Sang Samait Lo in India following complaints and appeals from cine worker bodies.",
-    "entities": {
-      "people": [
-        "Narendra Modi",
-        "Ashwini Vaishnaw",
-        "Suresh Shyamlal Gupta",
-        "B N Tiwari",
-        "Ahsan Iqbal",
-        "Momina Duraid",
-        "Farhat Ishtiaq",
-        "Fawad Khan",
-        "Mahira Khan",
-        "Sanam Saeed",
-        "Ahad Raza Mir",
-        "Iqra Aziz",
-        "Hania Aamir",
-        "Hamza Ali Abbasi"
-      ],
-      "titles": [
-        "Jo Bachay Hain Sang Samait Lo",
-        "All the Love Our Hearts Carry"
-      ]
-    },
-    "keywords": [
-      "Jo Bachay Hain Sang Samait Lo",
-      "Netflix India Pakistani web series",
-      "AICWA Netflix letter",
-      "Momina Duraid Jo Bachay Hain Sang Samait Lo"
-    ],
-    "images": [
-      {
-        "url": "https://images.filmibeat.com/img/2026/11/feature-2026-11-26t135954-489-92981795681802.jpg",
-        "caption": "Government Directs Netflix to Block Release of Pakistani Web Series Jo Bachay Hain Sang Samait Lo in India",
-        "source": "FilmiBeat"
-      }
-    ],
-    "published": "Thu, 26 Nov 2026 14:00:24 +0530"
-  },
-  "1tg8gbj": {
-    "id": "1tg8gbj",
-    "type": "news",
-    "headline": "Shah Rukh Khan Takes Legal Action Over Altered Social Media Video Involving Anant Ambani",
-    "dek": "The Bollywood superstar's legal team has issued a strict defamation notice to an online content creator over a misleading Instagram Reel concerning a gathering with Sadhguru.",
-    "entities": {
-      "people": [
-        "Shah Rukh Khan",
-        "Suvigya Sharma",
-        "Anant Ambani",
-        "Sadhguru"
-      ],
-      "titles": []
-    },
-    "keywords": [
-      "Shah Rukh Khan defamation notice",
-      "Suvigya Sharma Instagram Reel",
-      "Anant Ambani viral video",
-      "Shah Rukh Khan legal action",
-      "Bharatiya Nyaya Sanhita Section 356"
-    ],
-    "images": [
-      {
-        "url": "https://stat4.bollywoodhungama.in/wp-content/uploads/2026/11/Shah-Rukh-Khan-sends-defamation-notice-to-content-creator-Suvigya-Sharma-news.jpeg",
-        "caption": "Shah Rukh Khan Takes Legal Action Over Altered Social Media Video Involving Anant Ambani",
-        "source": "Bollywood Hungama"
-      }
-    ],
-    "published": "Thu, 26 Nov 2026 10:21:03 +0200"
-  },
-  "1ym5tgb": {
-    "id": "1ym5tgb",
-    "type": "news",
-    "headline": "Vrushakarma Trailer Review: Naga Chaitanya Confronts Ancient Forces in Horror Thriller",
-    "dek": "The newly dropped trailer for Vrushakarma introduces a chilling supernatural world blending Vedic science, mythology, and ancient mysteries ahead of its theatrical release.",
-    "entities": {
-      "people": [
-        "Naga Chaitanya",
-        "Sparsh Srivastava",
-        "Karthik Dandu",
-        "Meenakshi Chaudhary",
-        "Jayaram"
-      ],
-      "titles": [
-        "Vrushakarma",
-        "Minnal Murali"
-      ]
-    },
-    "keywords": [
-      "Vrushakarma trailer review",
-      "Naga Chaitanya Vrushakarma",
-      "Sparsh Srivastava Telugu debut",
-      "Karthik Dandu Vrushakarma"
-    ],
-    "images": [
-      {
-        "url": "https://www.koimoi.com/wp-content/new-galleries/2026/11/vrushakarma-trailer-review-naga-chaitanya-battles-ancient-forces-in-this-promising-horror-thriller-but-sparsh-srivastava-steals-the-show.jpg",
-        "caption": "Vrushakarma Trailer Review: Naga Chaitanya Confronts Ancient Forces in Horror Thriller",
-        "source": "Koimoi"
-      }
-    ],
-    "published": "Thu, 26 Nov 2026 08:11:57 +0000"
-  },
-  "tfgpt0": {
-    "id": "tfgpt0",
-    "type": "news",
-    "headline": "Pop Duo Bros Announce First UK Tour in a Decade with Final Pre-Sale Tickets Going Live",
-    "dek": "Iconic 1980s pop group Bros are returning to the UK stage for a 2027 tour, marking their first major run of shows in ten years.",
-    "entities": {
-      "people": [
-        "Matt Goss",
-        "Luke Goss",
-        "Craig Logan",
-        "Gallagher brothers"
-      ],
-      "titles": [
-        "When Will I Be Famous?",
-        "I Owe You Nothing",
-        "Drop the Boy"
-      ]
-    },
-    "keywords": [
-      "Bros UK tour",
-      "Bros tickets 2027",
-      "Matt and Luke Goss",
-      "Bros Wembley Arena concert"
-    ],
-    "images": [
-      {
-        "url": "https://images.production.immediate.co.uk/volatile/sites/3/2026/11/bros-reunion-tour-tickets-57dbcde.jpg?resize=1200%2C630",
-        "caption": "Pop Duo Bros Announce First UK Tour in a Decade with Final Pre-Sale Tickets Going Live",
-        "source": "Radio Times"
-      }
-    ],
-    "published": "Thu, 26 Nov 2026 08:00:43 GMT"
   },
   "1ihedvj": {
     "id": "1ihedvj",

@@ -265506,5 +265506,422 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Fri, 27 Nov 2026 15:30:19 GMT"
+  },
+  "1tb12k6": {
+    "id": "1tb12k6",
+    "type": "news",
+    "headline": "Shah Rukh Khan and Kareena Kapoor Reunite for Peppy Dance Track Daddy Cool in King",
+    "dek": "Kareena Kapoor and Shah Rukh Khan share sizzling chemistry on the dance floor in Daddy Cool, a new track from the upcoming film King composed by Sachin-Jigar.",
+    "body": [
+      {
+        "h": "A Grand Musical Reunion",
+        "p": [
+          "Audiences are buzzing over the latest musical offering from the upcoming film King, titled Daddy Cool. The peppy dance track brings together superstars Shah Rukh Khan and Kareena Kapoor for an on-screen reunion that has captured the attention of fans worldwide.",
+          "This release follows earlier excitement generated when Kareena hinted at a special number following the drop of the film's first song, Tu Mil Jaaye, which featured Shah Rukh and Deepika Padukone on November 2."
+        ]
+      },
+      {
+        "h": "Sizzling Chemistry on the Dance Floor",
+        "p": [
+          "The newly unveiled track showcases a vibrant dynamic between Shah Rukh Khan and Kareena Kapoor as they match each other step for step. Their undeniable chemistry immediately evokes memories of their iconic past collaborations, drawing comparisons to their chartbuster Chammak Challo.",
+          "Shah Rukh celebrated the launch on his Instagram feed, posting the song with a playful caption noting his return alongside Bebo and calling the tune old school yet cool."
+        ]
+      },
+      {
+        "h": "Behind the Scenes Talent",
+        "p": [
+          "Musical composition for Daddy Cool is handled by the dynamic duo Sachin-Jigar. The vocal delivery is brought to life through the talents of renowned playback singers Arijit Singh and Shilpa Rao.",
+          "To complement the high-energy audio, veteran choreographer Vaibhavi Merchant designed the dance routines that highlight the star power and rhythm of the lead actors."
+        ]
+      },
+      {
+        "h": "The Road to King's Theatrical Release",
+        "p": [
+          "December 24 is set to mark Shah Rukh Khan's grand return to the big screen with King. This project serves as his first major theatrical release since his stellar run in 2023.",
+          "During 2023, the actor dominated box offices with three major films: Pathaan, Jawan, and Dunki. Fans are eager to see how his latest venture performs upon its winter release."
+        ]
+      },
+      {
+        "h": "An All-Star Ensemble Cast",
+        "p": [
+          "King features a sprawling and diverse cast alongside its main headliners. Notable actors joining the project include Suhana Khan, Abhishek Bachchan, Jackie Shroff, Arshad Warsi, and Raghav Juyal.",
+          "Additionally, the film boasts special appearances by celebrated industry names such as Rani Mukerji, Deepika Padukone, and Kareena Kapoor Khan."
+        ]
+      },
+      {
+        "h": "Directorial Vision and Production",
+        "p": [
+          "The film is directed by Siddharth Anand, bringing his signature commercial flair to the project. Production responsibilities are shared between Gauri Khan's Red Chillies Entertainment and Siddharth and Mamta Anand's Marflix Pictures.",
+          "Reportedly, the storyline draws inspiration from the acclaimed 1994 French film Léon: The Professional, originally starring Jean Reno. The narrative is said to explore the bond between an older, feared assassin played by Shah Rukh and his young protégé portrayed by his daughter Suhana."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Shah Rukh Khan and Kareena Kapoor have reunited for the peppy dance track Daddy Cool from the upcoming movie King, marking their first time together on screen since Ra.One in 2011. Composed by Sachin-Jigar and choreographed by Vaibhavi Merchant, the song precedes the film's December 24 theatrical release, which is directed by Siddharth Anand and features an expansive ensemble cast."
+        ]
+      }
+    ],
+    "facts": [
+      "The song Daddy Cool from King features Shah Rukh Khan and Kareena Kapoor.",
+      "Kareena Kapoor and Shah Rukh Khan were last seen together in Ra.One in 2011.",
+      "The first song of King, Tu Mil Jaaye, featured Shah Rukh Khan and Deepika Padukone on November 2.",
+      "Daddy Cool is composed by Sachin-Jigar and sung by Arijit Singh and Shilpa Rao.",
+      "Vaibhavi Merchant choreographed the song Daddy Cool.",
+      "King is scheduled for a theatrical release on December 24, 2026.",
+      "Shah Rukh Khan's previous theatrical releases were Pathaan, Jawan, and Dunki in 2023.",
+      "The cast of King includes Suhana Khan, Abhishek Bachchan, Jackie Shroff, Arshad Warsi, and Raghav Juyal.",
+      "Rani Mukerji, Deepika Padukone, and Kareena Kapoor Khan make special appearances in King.",
+      "King is directed by Siddharth Anand.",
+      "King is backed by Red Chillies Entertainment and Marflix Pictures.",
+      "King is reportedly inspired by the 1994 French film Léon: The Professional."
+    ],
+    "entities": {
+      "people": [
+        "Shah Rukh Khan",
+        "Kareena Kapoor",
+        "Deepika Padukone",
+        "Arijit Singh",
+        "Shilpa Rao",
+        "Vaibhavi Merchant",
+        "Suhana Khan",
+        "Abhishek Bachchan",
+        "Jackie Shroff",
+        "Arshad Warsi",
+        "Raghav Juyal",
+        "Rani Mukerji",
+        "Siddharth Anand",
+        "Gauri Khan",
+        "Mamta Anand",
+        "Jean Reno",
+        "Santanu Das"
+      ],
+      "titles": [
+        "King",
+        "Tu Mil Jaaye",
+        "Daddy Cool",
+        "Ra.One",
+        "Chammak Challo",
+        "Pathaan",
+        "Jawan",
+        "Dunki",
+        "Léon: The Professional"
+      ]
+    },
+    "keywords": [
+      "King song Daddy Cool",
+      "Shah Rukh Khan Kareena Kapoor King",
+      "King film release date",
+      "Siddharth Anand King cast"
+    ],
+    "images": [
+      {
+        "url": "https://www.hindustantimes.com/ht-img/img/2026/11/27/1600x900/logo/daddy_cool_1795790939427_UFrD_1795790939566_84IR_81797aea-23ad-49c6-8f1d-6a208732946c_l0Qh.png",
+        "caption": "Shah Rukh Khan and Kareena Kapoor Reunite for Peppy Dance Track Daddy Cool in King",
+        "source": "Hindustan Times — Entertainment"
+      }
+    ],
+    "published": "Fri, 27 Nov 2026 20:29:43 +0530"
+  },
+  "1q8movu": {
+    "id": "1q8movu",
+    "type": "news",
+    "headline": "‘The Hunting Wives’ Season 2 Episode 5 Delivers Unprecedented Chaos and Tragedy",
+    "dek": "An in-depth breakdown of the fifth episode of The Hunting Wives Season 2 on Netflix, highlighting secret romances, shocking murders, and the unraveling of dark secrets.",
+    "body": [
+      {
+        "h": "Romantic Entanglements Define the Latest Chapter",
+        "p": [
+          "Desire and intimacy take center stage in the latest television outing, driving almost every plot development forward. Nearly every major character becomes entangled in complicated relationships and secret affairs, proving that passion rules the narrative landscape. Even law enforcement finds itself swept up in the wave, as a flashback reveals a past romantic encounter between deputies Wanda Salazar and Walter Flynn.",
+          "Although Salazar initially ended their brief liaison due to professional boundaries, her lingering feelings heavily influence her mindset upon returning to active duty. This web of connections extends across the entire ensemble, reshaping personal dynamics and setting the stage for emotional volatility."
+        ]
+      },
+      {
+        "h": "Investigations Lead to Grim Discoveries",
+        "p": [
+          "Returning from a mandatory leave, Deputy Salazar is tasked by Sheriff Jonny with investigating a John Doe pulled from a local quarry lake. She quickly suspects the body belongs to Kyle Burkett, connecting a crucial car key found on the deceased to a bloody blue Ford pickup she has been tracking throughout the season.",
+          "Simultaneously, illicit recordings captured through live microphones on the Married Justice set provide producer Nadia with massive blackmail leverage. Armed with traffic camera images unearthed by Deputy Chad, Nadia discovers definitive proof that clears Jill of involvement in the Abby Jackson case while pointing suspicion toward Brad and Jamie."
+        ]
+      },
+      {
+        "h": "Margo and Sophie Press On Amid Fallout",
+        "p": [
+          "In the aftermath of the intense shootout, Margo and Sophie remain closely bonded, much to the anger of Graham. In retaliation, Graham abruptly returns his estranged wife's leased Tesla without any prior notice.",
+          "Unfazed by the gesture, Margo taps into her substantial financial resources to secure a high-end Porsche as a replacement. Meanwhile, Jed remains completely unbothered by their relationship, supporting Margo's happiness while focusing his energy elsewhere on political campaigning."
+        ]
+      },
+      {
+        "h": "A Tragic Turn for Brad",
+        "p": [
+          "Brad's storyline takes a deeply disturbing downward spiral under the guidance of his producer and mentor, Chase. Encouraged to consume ayahuasca to connect with his emotions, Brad experiences a horrific hallucination involving his mother.",
+          "In a state of severe disorientation, he viciously attacks what he believes to be his mother, only to realize too late that he has brutally murdered Chase instead. Fleeing the hospital, Brad wanders directly into his father's megachurch, where further tragedy awaits."
+        ]
+      },
+      {
+        "h": "Clint Meets a Devastating Fate",
+        "p": [
+          "Upon arriving at Holy Horizon, Brad confronts his father, Pastor Clint, expressing intense fury over past inactions regarding family transgressions. Even as Clint attempts to console his son and shares news of Nadia's exoneration of Jill, the situation deteriorates permanently.",
+          "After fielding a phone call from the Austin Police Department regarding the ongoing murder investigation, Brad tragically shoots his father, adding a second devastating crime to his mounting tally."
+        ]
+      },
+      {
+        "h": "The Looming Threat at Margo's Residence",
+        "p": [
+          "The episode reaches a chilling climax when Brad appears inside Margo's home. Having committed two murders and completely losing his grip on reality, he poses an immense and immediate danger.",
+          "Because Margo played a central role in orchestrating the misery, seductions, and framing that destroyed Brad's life, his presence sets up an explosive confrontation. If he realizes the full extent of her actions, the consequences for Margo and Sophie could prove catastrophic."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "The fifth episode of The Hunting Wives Season 2 drives its narrative through intense romantic entanglements, dark secrets, and sudden tragedies. As Deputy Salazar investigates a body from the quarry and Brad spirals into a murderous frenzy culminating in a confrontation at Margo's home, the series proves completely unpredictable."
+        ]
+      }
+    ],
+    "facts": [
+      "Wanda Salazar and Walter Flynn had a one-night stand after Season 1.",
+      "Salazar investigates a John Doe found in the quarry lake.",
+      "The John Doe is identified as Kyle Burkett.",
+      "Graham returns his estranged wife's leased Tesla.",
+      "Margo acquires a $100K Porsche.",
+      "Nadia uncovers traffic camera photos showing Brad and Jamie near the lake house.",
+      "Brad murders Chase after hallucinating an assault by his mother.",
+      "Brad shoots his father, Pastor Clint, at Holy Horizon megachurch.",
+      "Brad ends up inside Margo's house at the end of the episode."
+    ],
+    "entities": {
+      "people": [
+        "Salazar",
+        "Walter Flynn",
+        "Jonny",
+        "Kyle Burkett",
+        "Margo",
+        "Sophie",
+        "Graham",
+        "Jed",
+        "Callie",
+        "Nadia",
+        "Chad",
+        "Nick Hagelin",
+        "Jill",
+        "Brad",
+        "Jamie",
+        "Chase",
+        "Clint",
+        "Sean T. Collins"
+      ],
+      "titles": [
+        "The Hunting Wives",
+        "Married Justice",
+        "Pain Don’t Hurt: Meditations on Road House",
+        "9-1-1: Nashville",
+        "The Slightest Touch",
+        "The Mosquito Bowl",
+        "Euphoria",
+        "Nocturne",
+        "Blood of My Blood",
+        "Jingle All the Way",
+        "The Altruists",
+        "Landman",
+        "MobLand",
+        "From",
+        "The West Wing"
+      ]
+    },
+    "keywords": [
+      "The Hunting Wives Season 2 Episode 5",
+      "The Hunting Wives Netflix",
+      "Margo and Sophie The Hunting Wives",
+      "Brad The Hunting Wives",
+      "The Hunting Wives recap"
+    ],
+    "images": [
+      {
+        "url": "https://decider.com/wp-content/uploads/2026/11/hunting-wives-2051.jpg?quality=75&amp;strip=all&amp;w=680&amp;h=356&amp;crop=1",
+        "caption": "‘The Hunting Wives’ Season 2 Episode 5 Delivers Unprecedented Chaos and Tragedy",
+        "source": "Decider"
+      }
+    ],
+    "published": "Fri, 27 Nov 2026 10:00:00 -0500"
+  },
+  "1j6ovug": {
+    "id": "1j6ovug",
+    "type": "news",
+    "headline": "Yeh Prem Mol Liya Public Review: Ayushmann Khurrana and Sharvari Win Hearts in Family Drama",
+    "dek": "Audiences share positive reactions on social media for Sooraj Barjatya's newest directorial venture, praising its green-flag romance and wholesome family themes.",
+    "body": [
+      {
+        "h": "Audience Reception on Release Day",
+        "p": [
+          "Moviegoers heading to theaters for the opening of Yeh Prem Mol Liya have taken to social media to share warm feedback. The romantic family drama features Ayushmann Khurrana and Sharvari in the central roles, marking a major cinematic outing that has struck an immediate chord with early audiences on X.",
+          "Viewers are pointing to the straightforward narrative, deep emotional core, and nostalgic romance as standout features. Many are classifying the project as a wholesome entertainment option designed specifically for family viewings."
+        ]
+      },
+      {
+        "h": "Sooraj Barjatya Returns to the World of Prem",
+        "p": [
+          "Director Sooraj Barjatya is back with his signature brand of family-oriented storytelling after a twelve-year gap following his previous major release, Prem Ratan Dhan Payo, which hit screens in 2015.",
+          "In this latest venture, the veteran filmmaker steers clear of simple romantic tropes alone, incorporating heavier social themes. The narrative tackles deep-seated patriarchal structures and examines the traditional boundaries between a woman's parental home and her marital home."
+        ]
+      },
+      {
+        "h": "Praise for Simplicity Amid Action-Heavy Cinema",
+        "p": [
+          "Many audience members drew sharp contrasts between this project and the heavy violence dominating contemporary theatrical slates. One viewer on social media compared the film to a refreshing winter morning breeze amidst a landscape filled with bloodshed and relentless action.",
+          "Supporters lauded the production house's traditional values, highlighting purity, honesty, and simplicity as refreshing departures from standard commercial formulas."
+        ]
+      },
+      {
+        "h": "Ratings and Critical Viewer Feedback",
+        "p": [
+          "Early reviews from everyday moviegoers have included notable ratings, with one enthusiast awarding the film four full stars and labeling the experience purely heartwarming.",
+          "Another spectator granted the project three and a half stars, calling it an awesome family watch while pointing out minor script loopholes during the first half and stronger emotional resonance in the second."
+        ]
+      },
+      {
+        "h": "Minor Critiques on the Rushed Romance",
+        "p": [
+          "While general reception remained overwhelmingly positive, certain viewers offered constructive critique regarding the pacing of the central relationship.",
+          "One reviewer noted that while the project works wonderfully for affluent and upper-middle-class family crowds, the romantic progression feels slightly rushed when the male lead proposes marriage on the very first day of interaction."
+        ]
+      },
+      {
+        "h": "Nostalgic Early-2000s Bollywood Vibe",
+        "p": [
+          "Several cinema enthusiasts remarked on the distinctly retro atmosphere woven into the storytelling style.",
+          "The pacing and emotional beats evoke memories of typical romantic dramas from the early 2000s, bringing a sense of cinematic nostalgia back to the big screen."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Yeh Prem Mol Liya has opened to encouraging public reactions on social media, with audiences praising the romantic family drama directed by Sooraj Barjatya. Viewers highlighted the emotional depth and traditional values brought by leads Ayushmann Khurrana and Sharvari, providing a wholesome alternative to action-heavy films in theaters."
+        ]
+      }
+    ],
+    "facts": [
+      "Yeh Prem Mol Liya released on November 27, 2026",
+      "Ayushmann Khurrana and Sharvari star in lead roles",
+      "Sooraj Barjatya directed the film",
+      "Prem Ratan Dhan Payo released in 2015"
+    ],
+    "entities": {
+      "people": [
+        "Ayushmann Khurrana",
+        "Sharvari",
+        "Sooraj Barjatya",
+        "Jiya Surana",
+        "Mohammad Naseem Tanvir Ali Khan"
+      ],
+      "titles": [
+        "Yeh Prem Mol Liya",
+        "Prem Ratan Dhan Payo"
+      ]
+    },
+    "keywords": [
+      "Yeh Prem Mol Liya",
+      "Ayushmann Khurrana",
+      "Sharvari",
+      "Sooraj Barjatya",
+      "Prem Ratan Dhan Payo"
+    ],
+    "images": [
+      {
+        "url": "https://filmfare.wwmindia.com/content/2026/nov/yeh-prem-mol-liya1795789306.jpg",
+        "caption": "Yeh Prem Mol Liya Public Review: Ayushmann Khurrana and Sharvari Win Hearts in Family Drama",
+        "source": "Filmfare"
+      }
+    ],
+    "published": "2026-11-27T20:06:19+05:30"
+  },
+  "udzraz": {
+    "id": "udzraz",
+    "type": "news",
+    "headline": "MobLand Season 3 Officially Confirmed: Cast, Production Status, and Everything Else We Know",
+    "dek": "Paramount+ has officially renewed MobLand for a third season following a dramatic Season 2 finale, with Tom Hardy set to return alongside an all-star cast.",
+    "body": [
+      {
+        "h": "The Conclusion of Season 2",
+        "p": [
+          "The second season of the hit crime thriller series MobLand has officially concluded its run on Paramount+. Viewers recently watched the tenth and final episode of the season drop on the platform, bringing a dramatic and explosive close to the current chapter.",
+          "While plot details are kept under wraps to prevent spoilers, the gripping conclusion has left fans talking about the fate of the characters and eagerly looking ahead to the next installment."
+        ]
+      },
+      {
+        "h": "Season 3 Renewal and Production",
+        "p": [
+          "Following the conclusion of the second season, Paramount+ made the official announcement that MobLand will return for a third season. Along with the renewal confirmation, the network revealed that work on the upcoming season is already underway.",
+          "Production has kicked off in conjunction with the release of the Season 2 finale, signaling that the creative team is wasting no time in bringing more criminal drama to the screen."
+        ]
+      },
+      {
+        "h": "Release Timeline Expectations",
+        "p": [
+          "Viewers searching for an exact premiere date will have to wait a little longer, as Paramount+ has not yet announced an official launch schedule for Season 3. Looking at past patterns, the first season wrapped up in June 2025 before the second season premiered in September 2026.",
+          "Based on the typical production cycle and these previous release gaps, industry followers anticipate that the third season could arrive on the platform sometime in late 2027."
+        ]
+      },
+      {
+        "h": "Returning Cast and Character Status",
+        "p": [
+          "Earlier speculation suggested that lead actor Tom Hardy might be exiting the program, raising questions about the future of his character, Harry. However, the official renewal announcement put those rumors to rest by confirming his return.",
+          "Hardy will step back into his role for the third season, joined by fellow heavyweight screen stars Pierce Brosnan and Helen Mirren as the ensemble prepares for another round of high-stakes crime drama."
+        ]
+      },
+      {
+        "h": "How to Stream MobLand",
+        "p": [
+          "For audiences wanting to catch up on the series or rewatch previous episodes, MobLand streams exclusively on Paramount+. The platform provides multiple subscription tiers to suit different viewer preferences.",
+          "Subscribers can choose between the ad-supported Essential plan, priced at eight dollars and ninety-nine cents per month, or the ad-free Premium tier at thirteen dollars and ninety-nine cents per month, which incorporates Showtime content and live CBS feeds."
+        ]
+      },
+      {
+        "h": "Alternative Ways to Access Paramount+",
+        "p": [
+          "Viewers who prefer managing their subscriptions through other digital hubs have several alternative pathways to access the service. Paramount+ can be added as an extra channel through major third-party platforms.",
+          "Options include integrating the service into existing accounts on Prime Video or Hulu for thirteen dollars and ninety-nine cents per month, or purchasing access through YouTube, which offers introductory trial periods for new users."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Paramount+ has officially renewed the Tom Hardy-led crime thriller MobLand for a third season, with production already underway following the ten-episode second-season finale. Key cast members including Hardy, Pierce Brosnan, and Helen Mirren are set to return, though an official release date for the upcoming season has not yet been announced."
+        ]
+      }
+    ],
+    "facts": [
+      "MobLand Season 2 consists of 10 episodes.",
+      "The Season 2 finale debuted on November 20 on Paramount+.",
+      "Paramount+ announced that production on Season 3 has already started.",
+      "Season 1 of MobLand concluded in June 2025.",
+      "Season 2 of MobLand debuted in September 2026.",
+      "Tom Hardy, Pierce Brosnan, and Helen Mirren are set to return for Season 3.",
+      "The Essential plan for Paramount+ costs $8.99/month.",
+      "The Premium plan for Paramount+ costs $13.99/month."
+    ],
+    "entities": {
+      "people": [
+        "Tom Hardy",
+        "Pierce Brosnan",
+        "Helen Mirren"
+      ],
+      "titles": [
+        "MobLand"
+      ]
+    },
+    "keywords": [
+      "MobLand Season 3",
+      "Tom Hardy MobLand",
+      "MobLand Paramount+",
+      "MobLand Season 2 episodes"
+    ],
+    "images": [
+      {
+        "url": "https://decider.com/wp-content/uploads/2026/10/mobland-207.jpg?quality=75&amp;strip=all&amp;w=680&amp;h=356&amp;crop=1",
+        "caption": "MobLand Season 3 Officially Confirmed: Cast, Production Status, and Everything Else We Know",
+        "source": "Decider"
+      }
+    ],
+    "published": "Fri, 27 Nov 2026 10:01:00 -0500"
   }
 };

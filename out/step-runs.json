@@ -4,45 +4,6 @@
    {
     "step": "fetch",
     "category": "Trending News",
-    "run_at": "2026-11-26T16:51:49Z",
-    "run_id": "45862446240",
-    "status": "success",
-    "checked": {
-     "candidates": 390,
-     "detail": "RSS/Atom items across 137 sources; 3 source(s) errored"
-    },
-    "changed": {
-     "added": [
-      "Yeh Prem Mol Liya Advance Booking Collection Day 1: Ayushmann's Film Beats Emraan's Gunmaaster G9 Presales",
-      "Ragini Sona on 'Hanuman Ansh' producers' fallout: 'Chaar bartan sath honge toh khadkenge hi'",
-      "Priyanka Chopra pays tribute to martyrs of 26/11 terror attack in Mumbai, remembers the heroes who gave everything",
-      "John Mulaney Had To Cut A Segment From His Stand-Up Special After Fast Food Joke Went VERY Wrong",
-      "One DWTS Contestant Joked About ‘Villain Status’ Just Before Ezra Frech Won",
-      "Johnny Depp’s Comeback Movie Officially Removed From 365 Theaters",
-      "Tom Hanks’ Greatest Series Is a Streaming Hit With 174 Million Hours Watched",
-      "Every Show Premiering on NBC in Winter 2026–2027",
-      "The First-Ever Stephen King Adaptation Officially Leaves HBO Max in 5 Days",
-      "Nicholas Hoult’s $50 Million Action Movie Officially Removed From Almost 800 Theaters",
-      "‘Teenage Mutant Ninja Turtles’ Officially Begins a Brutal New Era in Stunning Preview",
-      "Agatha Christie's ‘Death on the Nile’ Officially Leaves Hulu in 3 Days",
-      "Anthony Mackie Exposes the Surprising Twist Behind Eminem’s 8 Mile Battle",
-      "Lenny Kravitz Brings His 007 Character Back for an Unexpected Crossover",
-      "Simon Pegg Sparks Hope for a Fourth Cornetto Movie After 13 Years",
-      "Dune: Part Three’s Reported Budget Sets New Benchmark for Villeneuve’s Sci-Fi Saga",
-      "Goodbye 'Lioness,' Taylor Sheridan's Adaptation of a Military Action Thriller Sensation Is Moving Forward",
-      "Apple TV's New Cyberpunk Series Already Makes 'Blade Runner' Look Small",
-      "Netflix's New (Very) R-Rated 8-Part Thriller Remains the No. 1 Streaming Series in the World",
-      "The Best British Detective Series on BritBox, Ranked"
-     ],
-     "updated": [],
-     "count": 371,
-     "detail": "381 stories, 1 duplicates removed, 9 dropped"
-    },
-    "reason": null
-   },
-   {
-    "step": "fetch",
-    "category": "Trending News",
     "run_at": "2026-11-26T17:51:18Z",
     "run_id": "45871097416",
     "status": "success",
@@ -936,32 +897,48 @@
      "detail": "380 stories, 3 duplicates removed, 142 dropped"
     },
     "reason": null
-   }
-  ],
-  "apply_auto": [
+   },
    {
-    "step": "apply_auto",
+    "step": "fetch",
     "category": "Trending News",
-    "run_at": "2026-11-26T18:07:22Z",
-    "run_id": "45871097416",
+    "run_at": "2026-11-27T16:51:13Z",
+    "run_id": "46036973985",
     "status": "success",
     "checked": {
-     "candidates": 14,
-     "detail": "draft articles + box-office rows from out/gemini-batch.json"
+     "candidates": 371,
+     "detail": "RSS/Atom items across 137 sources; 1 source(s) errored"
     },
     "changed": {
      "added": [
-      "Ragini Sona Addresses 'Hanuman Ansh' Producer Rift at IFFI 2026, Confirms Sequel Plans",
-      "Thanksgiving Travel Disrupted by Severe Weather Across the United States",
-      "Director Anil Ravipudi Opens Up About His Upcoming Collaboration With Superstar Jr NTR",
-      "Jr NTR Welcomes a Custom Masterpiece by Legendary Artist Thota Vaikuntam"
+      "New OTT Releases This Week (November 23 to 29, 2026): Drishyam 3, Hanuman Ansh, AK47, Mahabharat Season 2 and More",
+      "yeh prem mol liya public review ayushmann sharvari deliver a green flag romance with family drama 87426.html",
+      "they made a movie as they understand the supreme court refuses listing against ramayana 87424.html",
+      "sandeep reddy vanga hints at unique shocking sequences in spirit 87423.html",
+      "hail mary review a strong premise solid performances and a familiar finish 87422.html",
+      "exclusive vijay sethupathis pocket novel still offers first glimpse of his character 87421.html",
+      "5 fictional couples who navigated relationship surprises 87411.amp",
+      "yeh prem mol liya review a progressive message that gets a little too preachy 87412.html",
+      "mns demands cancellation of diljit dosanjhs concert cameras banners and more banned in mumbai 87420.html",
+      "thats when it becomes scary ananya panday on the pros and cons of ai 87419.html",
+      "focker in law review good in patches 87415.html",
+      "missing someone very special dolly partons niece danielle shares emotional thanksgiving tribute 87410.html",
+      "photos kareena kapoor khan serves glamour in a polka dot power suit 87418.html",
+      "siddharth anand drops another cryptic tweet sending shah rukh khan fans into overdrive 87408.html",
+      "gunmaaster g9 review a film that oscillates between class and crass with clinical precision 87413.html",
+      "oscar winning producer gerald r molen behind steven spielbergs schindlers list passes at 91_ 87414.html",
+      "rashmika mandanna eases her way back into fitness routine 87409.html",
+      "exclusive anita kalathara on landing greys anatomy after 8 auditions bond with mammootty more 87407.html",
+      "exclusive urge directors to experiment with me challenge me with unconventional roles anup soni 87406.html",
+      "akhil akkineni and zainab ravdjee enjoy a holiday in japan 87405.html"
      ],
      "updated": [],
-     "count": 7,
-     "detail": "+4 articles, +0 box-office rows, 3 rows updated"
+     "count": 359,
+     "detail": "371 stories, 0 duplicates removed, 0 dropped"
     },
     "reason": null
-   },
+   }
+  ],
+  "apply_auto": [
    {
     "step": "apply_auto",
     "category": "Trending News",
@@ -1480,27 +1457,32 @@
      "detail": "+4 articles, +0 box-office rows, 3 rows updated"
     },
     "reason": null
+   },
+   {
+    "step": "apply_auto",
+    "category": "Trending News",
+    "run_at": "2026-11-27T16:51:36Z",
+    "run_id": "46036973985",
+    "status": "success",
+    "checked": {
+     "candidates": 14,
+     "detail": "draft articles + box-office rows from out/gemini-batch.json"
+    },
+    "changed": {
+     "added": [
+      "Shah Rukh Khan and Kareena Kapoor Reunite for Peppy Dance Track Daddy Cool in King",
+      "‘The Hunting Wives’ Season 2 Episode 5 Delivers Unprecedented Chaos and Tragedy",
+      "Yeh Prem Mol Liya Public Review: Ayushmann Khurrana and Sharvari Win Hearts in Family Drama",
+      "MobLand Season 3 Officially Confirmed: Cast, Production Status, and Everything Else We Know"
+     ],
+     "updated": [],
+     "count": 7,
+     "detail": "+4 articles, +0 box-office rows, 3 rows updated"
+    },
+    "reason": null
    }
   ],
   "ott": [
-   {
-    "step": "ott",
-    "category": "OTT",
-    "run_at": "2026-11-26T16:52:26Z",
-    "run_id": "45862446240",
-    "status": "success",
-    "checked": {
-     "candidates": 447,
-     "detail": "OTT now/coming titles from the published catalogue"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 0,
-     "detail": "now 442, coming 5"
-    },
-    "reason": "no-new-data"
-   },
    {
     "step": "ott",
     "category": "OTT",
@@ -1914,26 +1896,27 @@
      "detail": "now 447, coming 3"
     },
     "reason": "no-new-data"
-   }
-  ],
-  "trending_weekly": [
+   },
    {
-    "step": "trending_weekly",
-    "category": "Trending Topics",
-    "run_at": "2026-11-26T18:08:03Z",
-    "run_id": "45871097416",
+    "step": "ott",
+    "category": "OTT",
+    "run_at": "2026-11-27T16:51:37Z",
+    "run_id": "46036973985",
     "status": "success",
     "checked": {
-     "candidates": 100,
-     "detail": "cached Google RSS trend/article intersection"
+     "candidates": 450,
+     "detail": "OTT now/coming titles from the published catalogue"
     },
     "changed": {
      "added": [],
      "updated": [],
-     "count": 0
+     "count": 0,
+     "detail": "now 447, coming 3"
     },
     "reason": "no-new-data"
-   },
+   }
+  ],
+  "trending_weekly": [
    {
     "step": "trending_weekly",
     "category": "Trending Topics",
@@ -2427,27 +2410,30 @@
      "count": 3
     },
     "reason": null
+   },
+   {
+    "step": "trending_weekly",
+    "category": "Trending Topics",
+    "run_at": "2026-11-27T16:51:39Z",
+    "run_id": "46036973985",
+    "status": "success",
+    "checked": {
+     "candidates": 100,
+     "detail": "cached Google RSS trend/article intersection"
+    },
+    "changed": {
+     "added": [
+      "1oblivf",
+      "1tb12k6",
+      "k4xkah"
+     ],
+     "updated": [],
+     "count": 3
+    },
+    "reason": null
    }
   ],
   "multisource_boxoffice": [
-   {
-    "step": "multisource_boxoffice",
-    "category": "Box Office",
-    "run_at": "2026-11-26T17:08:33Z",
-    "run_id": "45862446240",
-    "status": "success",
-    "checked": {
-     "candidates": 760,
-     "detail": "694 collected staging rows from readers; 260 averaged across 2+ sources"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 8,
-     "detail": "+0 new rows, 8 updated rows, 726 unchanged"
-    },
-    "reason": null
-   },
    {
     "step": "multisource_boxoffice",
     "category": "Box Office",
@@ -2861,19 +2847,27 @@
      "detail": "+0 new rows, 6 updated rows, 731 unchanged"
     },
     "reason": null
+   },
+   {
+    "step": "multisource_boxoffice",
+    "category": "Box Office",
+    "run_at": "2026-11-27T16:51:37Z",
+    "run_id": "46036973985",
+    "status": "success",
+    "checked": {
+     "candidates": 765,
+     "detail": "695 collected staging rows from readers; 262 averaged across 2+ sources"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 5,
+     "detail": "+0 new rows, 5 updated rows, 732 unchanged"
+    },
+    "reason": null
    }
   ],
   "gemini_reviews": [
-   {
-    "step": "gemini_reviews",
-    "category": "Reviews",
-    "run_at": "2026-11-26T17:08:44Z",
-    "run_id": "45862446240",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "gemini_reviews",
     "category": "Reviews",
@@ -3110,35 +3104,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "gemini_reviews",
+    "category": "Reviews",
+    "run_at": "2026-11-27T16:51:49Z",
+    "run_id": "46036973985",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "convert_news": [
-   {
-    "step": "convert_news",
-    "category": "Trending News",
-    "run_at": "2026-11-26T18:08:02Z",
-    "run_id": "45871097416",
-    "status": "success",
-    "checked": {
-     "candidates": 600,
-     "detail": "feed entries from out/queue.json"
-    },
-    "changed": {
-     "added": [
-      "Bano Episode 43 — Watch Online on Geo TV",
-      "Thanksgiving Travel Disrupted by Severe Weather Across the United States",
-      "Ragini Sona Addresses 'Hanuman Ansh' Producer Rift at IFFI 2026, Confirms Sequel Plans",
-      "Mera Ghar Episode 10 — Watch Online on ARY Digital",
-      "Khushi Episode 75 — Watch Online on HUM TV",
-      "Director Anil Ravipudi Opens Up About His Upcoming Collaboration With Superstar Jr NTR",
-      "Jr NTR Welcomes a Custom Masterpiece by Legendary Artist Thota Vaikuntam"
-     ],
-     "updated": [],
-     "count": 7,
-     "detail": "api-news.json 600 items, api-trends.json 12 items"
-    },
-    "reason": null
-   },
    {
     "step": "convert_news",
     "category": "Trending News",
@@ -3660,19 +3638,33 @@
      "detail": "api-news.json 600 items, api-trends.json 12 items"
     },
     "reason": null
+   },
+   {
+    "step": "convert_news",
+    "category": "Trending News",
+    "run_at": "2026-11-27T16:51:38Z",
+    "run_id": "46036973985",
+    "status": "success",
+    "checked": {
+     "candidates": 600,
+     "detail": "feed entries from out/queue.json"
+    },
+    "changed": {
+     "added": [
+      "Shah Rukh Khan and Kareena Kapoor Reunite for Peppy Dance Track Daddy Cool in King",
+      "‘The Hunting Wives’ Season 2 Episode 5 Delivers Unprecedented Chaos and Tragedy",
+      "MobLand Season 3 Officially Confirmed: Cast, Production Status, and Everything Else We Know",
+      "Yeh Prem Mol Liya Public Review: Ayushmann Khurrana and Sharvari Win Hearts in Family Drama",
+      "Huma Qureshi Starrer Bayaan Set For Direct-To-Digital Premiere On Zee5"
+     ],
+     "updated": [],
+     "count": 5,
+     "detail": "api-news.json 600 items, api-trends.json 12 items"
+    },
+    "reason": null
    }
   ],
   "episode_guides": [
-   {
-    "step": "episode_guides",
-    "category": "Drama Episodes",
-    "run_at": "2026-11-26T17:08:44Z",
-    "run_id": "45862446240",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "episode_guides",
     "category": "Drama Episodes",
@@ -3972,19 +3964,19 @@
      "count": 7
     },
     "reason": null
-   }
-  ],
-  "title_seed": [
+   },
    {
-    "step": "title_seed",
-    "category": "Spotlight / Coming Soon / Most Awaited",
-    "run_at": "2026-11-26T17:08:44Z",
-    "run_id": "45862446240",
+    "step": "episode_guides",
+    "category": "Drama Episodes",
+    "run_at": "2026-11-27T16:51:49Z",
+    "run_id": "46036973985",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "title_seed": [
    {
     "step": "title_seed",
     "category": "Spotlight / Coming Soon / Most Awaited",
@@ -4306,31 +4298,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "title_seed",
+    "category": "Spotlight / Coming Soon / Most Awaited",
+    "run_at": "2026-11-27T16:51:49Z",
+    "run_id": "46036973985",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "gemini_batch": [
-   {
-    "step": "gemini_batch",
-    "category": "Trending News",
-    "run_at": "2026-11-26T16:52:25Z",
-    "run_id": "45862446240",
-    "status": "success",
-    "checked": {
-     "candidates": 5,
-     "detail": "news queue items drafted this run; 371 still unprocessed; today by category: movies 11/6, tv_dramas 8/4, episodes 2/2, box_office 10/6, celebrities_events 16/5, upcoming_releases 5/4, ott_streaming 9/4, trailers 4/3, awards 4/2, music_ost 2/2, viral 1/2"
-    },
-    "changed": {
-     "added": [
-      "Hunger Games Prequel Dominates Thanksgiving Eve Box Office",
-      "Priyanka Chopra honours the martyrs and victims of the 26/11 Mumbai terror attacks on their 18th anniversary",
-      "Angelina Jolie and Brad Pitt Reach Settlement in Four-Year Legal Dispute Over French Winery",
-      "Yeh Prem Mol Liya Secures Strong Advance Booking Ahead of Release"
-     ],
-     "updated": [],
-     "count": 4
-    },
-    "reason": null
-   },
    {
     "step": "gemini_batch",
     "category": "Trending News",
@@ -4831,26 +4811,31 @@
      "count": 4
     },
     "reason": null
+   },
+   {
+    "step": "gemini_batch",
+    "category": "Trending News",
+    "run_at": "2026-11-27T16:51:36Z",
+    "run_id": "46036973985",
+    "status": "success",
+    "checked": {
+     "candidates": 4,
+     "detail": "news queue items drafted this run; 359 still unprocessed; today by category: movies 11/6, tv_dramas 11/4, episodes 1/2, box_office 9/6, celebrities_events 12/5, upcoming_releases 5/4, ott_streaming 7/4, trailers 3/3, awards 2/2, music_ost 4/2, viral 3/2"
+    },
+    "changed": {
+     "added": [
+      "Shah Rukh Khan and Kareena Kapoor Reunite for Peppy Dance Track Daddy Cool in King",
+      "‘The Hunting Wives’ Season 2 Episode 5 Delivers Unprecedented Chaos and Tragedy",
+      "Yeh Prem Mol Liya Public Review: Ayushmann Khurrana and Sharvari Win Hearts in Family Drama",
+      "MobLand Season 3 Officially Confirmed: Cast, Production Status, and Everything Else We Know"
+     ],
+     "updated": [],
+     "count": 4
+    },
+    "reason": null
    }
   ],
   "overseas_ai": [
-   {
-    "step": "overseas_ai",
-    "category": "Box Office",
-    "run_at": "2026-11-26T16:53:51Z",
-    "run_id": "45862446240",
-    "status": "success",
-    "checked": {
-     "candidates": 60,
-     "detail": "published movies with missing overseas day figures; Tavily searches: 48"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 0
-    },
-    "reason": "no-new-data"
-   },
    {
     "step": "overseas_ai",
     "category": "Box Office",
@@ -5164,24 +5149,19 @@
      "count": 0
     },
     "reason": "no-new-data"
+   },
+   {
+    "step": "overseas_ai",
+    "category": "Box Office",
+    "run_at": "2026-11-27T16:51:49Z",
+    "run_id": "46036973985",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "publish": [
-   {
-    "step": "publish",
-    "category": "Trending News",
-    "run_at": "2026-11-26T17:08:44Z",
-    "run_id": "45862446240",
-    "status": "success",
-    "checked": null,
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 413,
-     "detail": "lines changed in owned files; no per-item summary from script"
-    },
-    "reason": null
-   },
    {
     "step": "publish",
     "category": "Trending News",
@@ -5491,24 +5471,24 @@
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
-   }
-  ],
-  "stats_traffic": [
+   },
    {
-    "step": "stats_traffic",
-    "category": "Stats / Health",
-    "run_at": "2026-11-26T17:08:44Z",
-    "run_id": "45862446240",
+    "step": "publish",
+    "category": "Trending News",
+    "run_at": "2026-11-27T16:51:49Z",
+    "run_id": "46036973985",
     "status": "success",
     "checked": null,
     "changed": {
      "added": [],
      "updated": [],
-     "count": 13,
+     "count": 417,
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
-   },
+   }
+  ],
+  "stats_traffic": [
    {
     "step": "stats_traffic",
     "category": "Stats / Health",
@@ -5813,19 +5793,24 @@
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
+   },
+   {
+    "step": "stats_traffic",
+    "category": "Stats / Health",
+    "run_at": "2026-11-27T16:51:49Z",
+    "run_id": "46036973985",
+    "status": "success",
+    "checked": null,
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 13,
+     "detail": "lines changed in owned files; no per-item summary from script"
+    },
+    "reason": null
    }
   ],
   "stats_pipeline": [
-   {
-    "step": "stats_pipeline",
-    "category": "Stats / Health",
-    "run_at": "2026-11-26T17:08:44Z",
-    "run_id": "45862446240",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "stats_pipeline",
     "category": "Stats / Health",
@@ -6075,19 +6060,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "stats_health": [
+   },
    {
-    "step": "stats_health",
+    "step": "stats_pipeline",
     "category": "Stats / Health",
-    "run_at": "2026-11-26T17:08:44Z",
-    "run_id": "45862446240",
+    "run_at": "2026-11-27T16:51:49Z",
+    "run_id": "46036973985",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "stats_health": [
    {
     "step": "stats_health",
     "category": "Stats / Health",
@@ -6322,19 +6307,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "metadata_refresh": [
+   },
    {
-    "step": "metadata_refresh",
-    "category": "Spotlight / Coming Soon / Most Awaited",
-    "run_at": "2026-11-26T17:08:44Z",
-    "run_id": "45862446240",
+    "step": "stats_health",
+    "category": "Stats / Health",
+    "run_at": "2026-11-27T16:51:49Z",
+    "run_id": "46036973985",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "metadata_refresh": [
    {
     "step": "metadata_refresh",
     "category": "Spotlight / Coming Soon / Most Awaited",
@@ -6618,19 +6603,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "providers_backfill": [
+   },
    {
-    "step": "providers_backfill",
-    "category": "OTT",
-    "run_at": "2026-11-26T17:08:44Z",
-    "run_id": "45862446240",
+    "step": "metadata_refresh",
+    "category": "Spotlight / Coming Soon / Most Awaited",
+    "run_at": "2026-11-27T16:51:49Z",
+    "run_id": "46036973985",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "providers_backfill": [
    {
     "step": "providers_backfill",
     "category": "OTT",
@@ -6871,19 +6856,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "providers_backfill",
+    "category": "OTT",
+    "run_at": "2026-11-27T16:51:49Z",
+    "run_id": "46036973985",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "tavily_boxoffice": [
-   {
-    "step": "tavily_boxoffice",
-    "category": "Box Office",
-    "run_at": "2026-11-26T17:08:44Z",
-    "run_id": "45862446240",
-    "status": "success",
-    "checked": null,
-    "changed": null,
-    "reason": "no-new-data"
-   },
    {
     "step": "tavily_boxoffice",
     "category": "Box Office",
@@ -7113,19 +7098,19 @@
     "checked": null,
     "changed": null,
     "reason": "no-new-data"
-   }
-  ],
-  "keywords_refresh": [
+   },
    {
-    "step": "keywords_refresh",
-    "category": "Trending News",
-    "run_at": "2026-11-26T17:08:44Z",
-    "run_id": "45862446240",
+    "step": "tavily_boxoffice",
+    "category": "Box Office",
+    "run_at": "2026-11-27T16:51:49Z",
+    "run_id": "46036973985",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "keywords_refresh": [
    {
     "step": "keywords_refresh",
     "category": "Trending News",
@@ -7374,6 +7359,16 @@
     "category": "Trending News",
     "run_at": "2026-11-27T16:17:00Z",
     "run_id": "46028450273",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
+   },
+   {
+    "step": "keywords_refresh",
+    "category": "Trending News",
+    "run_at": "2026-11-27T16:51:49Z",
+    "run_id": "46036973985",
     "status": "skipped",
     "checked": null,
     "changed": null,
@@ -7916,16 +7911,6 @@
    {
     "step": "advance_booking",
     "category": "Box Office",
-    "run_at": "2026-11-26T17:08:44Z",
-    "run_id": "45862446240",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
-   {
-    "step": "advance_booking",
-    "category": "Box Office",
     "run_at": "2026-11-26T18:08:13Z",
     "run_id": "45871097416",
     "status": "skipped",
@@ -8162,19 +8147,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "home_boxoffice_worldwide": [
+   },
    {
-    "step": "home_boxoffice_worldwide",
+    "step": "advance_booking",
     "category": "Box Office",
-    "run_at": "2026-11-26T17:08:44Z",
-    "run_id": "45862446240",
+    "run_at": "2026-11-27T16:51:49Z",
+    "run_id": "46036973985",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "home_boxoffice_worldwide": [
    {
     "step": "home_boxoffice_worldwide",
     "category": "Box Office",
@@ -8429,8 +8414,18 @@
     "checked": null,
     "changed": null,
     "reason": "error"
+   },
+   {
+    "step": "home_boxoffice_worldwide",
+    "category": "Box Office",
+    "run_at": "2026-11-27T16:51:49Z",
+    "run_id": "46036973985",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ]
  },
- "updated_at": "2026-11-27T16:17:00Z"
+ "updated_at": "2026-11-27T16:51:49Z"
 }
