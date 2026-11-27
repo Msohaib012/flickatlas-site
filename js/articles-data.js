@@ -266517,5 +266517,405 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Fri, 27 Nov 2026 17:15:04 +0000"
+  },
+  "4jgzx": {
+    "id": "4jgzx",
+    "type": "news",
+    "headline": "Shraddha Kapoor Starrer Eetha Unveils New Romantic Track Sindoor Se",
+    "dek": "The creators of the upcoming Hindi movie Eetha have released a tender new melody titled Sindoor Se, featuring music composition by Ajay-Atul and vocals by Sneha Shankar and Ajay Gogavale.",
+    "body": [
+      {
+        "h": "Introduction to the New Musical Release",
+        "p": [
+          "The promotional campaign for the highly anticipated cinematic project Eetha has entered a more intimate phase with the launch of its latest musical piece, Sindoor Se. Following earlier promotional previews that highlighted the grit, ambition, and professional hurdles of the protagonist, this new single offers audiences a gentler shift in tone. It highlights a deeply personal dimension of the lead character, focusing on vulnerability, longing, and romantic attachment away from the intense pressures of the stage lights."
+        ]
+      },
+      {
+        "h": "Musical Composition and Credits",
+        "p": [
+          "The track brings together an acclaimed lineup of industry talent to craft its emotional resonance. The musical arrangement is handled by the dynamic composer duo Ajay-Atul, while the poetic lyrics are written by Amitabh Bhattacharya. For the vocal delivery, the song features the combined talents of playback singers Sneha Shankar and Ajay Gogavale, whose voices lend a warm and soulful texture to the composition."
+        ]
+      },
+      {
+        "h": "Creative Vision Behind Sindoor Se",
+        "p": [
+          "Discussing the artistic direction and concept of the track, the composer duo Ajay-Atul explained their desire to shed light on an entirely different emotional landscape within the narrative. They noted that the protagonist's journey is not solely defined by her professional accomplishments and hard-fought victories, but also by her capacity to experience intense passion and affection. The creative team aimed to produce a timeless melody that reflects this interior vulnerability while maintaining a seamless connection to the broader universe of the film."
+        ]
+      },
+      {
+        "h": "Expanding the Narrative Scope of Eetha",
+        "p": [
+          "By steadily introducing various facets of the lead personality through distinct promotional assets, the production team is successfully cultivating audience curiosity. Eetha weaves together dramatic performances, musical elements, and biographical storytelling to chronicle the extraordinary life of an inspiring woman who achieved legendary status. The latest release suggests viewers will encounter a multifaceted individual driven by personal dreams and desires alongside her public ambition."
+        ]
+      },
+      {
+        "h": "Cast, Crew and Theatrical Debut",
+        "p": [
+          "The feature film is presented by Maddock Films in association with Kathputli Creations, featuring actress Shraddha Kapoor in the central titular role. The extensive ensemble cast features prominent names including Randeep Hooda, Mohammed Zeeshan Ayyub, the late Nana Patekar, Siddharth Jadhav, Anant Joshi, Akshara Singh, and Ulka Gupta. Directorial duties are managed by Laxman Utekar, who also serves as a producer alongside Dinesh Vijan and Karishma Sharma. The film is scheduled to make its theatrical debut on December 4, 2026."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "The romantic track Sindoor Se has been released from the upcoming film Eetha, showcasing a softer and more emotional dimension of its lead protagonist. Composed by Ajay-Atul with vocals from Sneha Shankar and Ajay Gogavale, the song builds anticipation ahead of the movie's scheduled theatrical release in December 2026."
+        ]
+      }
+    ],
+    "facts": [
+      "Eetha releases in theatres on December 4, 2026.",
+      "Sindoor Se is sung by Sneha Shankar and Ajay Gogavale.",
+      "The music for Sindoor Se is composed by Ajay-Atul.",
+      "Amitabh Bhattacharya wrote the lyrics for Sindoor Se.",
+      "Shraddha Kapoor plays the title role in Eetha.",
+      "Eetha is directed by Laxman Utekar."
+    ],
+    "entities": {
+      "people": [
+        "Shraddha Kapoor",
+        "Ajay Gogavale",
+        "Sneha Shankar",
+        "Ajay-Atul",
+        "Amitabh Bhattacharya",
+        "Randeep Hooda",
+        "Mohammed Zeeshan Ayyub",
+        "Nana Patekar",
+        "Siddharth Jadhav",
+        "Anant Joshi",
+        "Akshara Singh",
+        "Ulka Gupta",
+        "Laxman Utekar",
+        "Dinesh Vijan",
+        "Karishma Sharma"
+      ],
+      "titles": [
+        "Eetha",
+        "Sindoor Se"
+      ]
+    },
+    "keywords": [
+      "Eetha film",
+      "Sindoor Se song",
+      "Shraddha Kapoor Eetha",
+      "Ajay Atul Eetha music"
+    ],
+    "images": [
+      {
+        "url": "https://static.toiimg.com/thumb/msid-136231297,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "caption": "Shraddha Kapoor Starrer Eetha Unveils New Romantic Track Sindoor Se",
+        "source": "Times of India — Entertainment"
+      }
+    ],
+    "published": "2026-11-27T23:44:32+05:30"
+  },
+  "1pvam2o": {
+    "id": "1pvam2o",
+    "type": "news",
+    "headline": "Sally Field Chases Historic 10th Actor Award Nomination for Remarkably Bright Creatures",
+    "dek": "The acclaimed veteran performer eyes a landmark tenth career SAG Actor Award nomination and potential age record for her work in the Netflix feature.",
+    "body": [
+      {
+        "h": "Milestone Recognition on the Horizon",
+        "p": [
+          "Veteran performer Sally Field is currently positioned to secure her tenth career SAG Actor Award nomination. Her standout work in the Netflix project Remarkably Bright Creatures places her directly in contention for yet another major industry milestone.",
+          "The upcoming nominations announcement will reveal whether the celebrated actress adds this latest accolade to her extensive collection of guild honors."
+        ]
+      },
+      {
+        "h": "Chasing Age Records at the Actor Awards",
+        "p": [
+          "Having celebrated her eightieth birthday in November, Field stands to break existing age benchmarks should she ultimately secure a victory in her category. Helen Mirren currently maintains the record as the oldest victor in the television movie or limited series actress race, having won at age sixty-eight for Phil Spector.",
+          "While Betty White remains the oldest overall nominee in the category for her work in The Lost Valentine, Field's potential win would set a fresh standard for competitive victors."
+        ]
+      },
+      {
+        "h": "Guild Voting Dynamics and History",
+        "p": [
+          "The Screen Actors Guild awards carry unique weight as the only major industry honors determined exclusively by actors. The organization features approximately 2,500 members on its nominating committee alongside roughly 120,000 voters who decide the final winners.",
+          "Established stars often enjoy strong familiarity among the voting body. Field previously earned a competitive guild trophy for her television work on Brothers Sisters in addition to receiving the organization's prestigious Life Achievement Award."
+        ]
+      },
+      {
+        "h": "Plot and Characters of Remarkably Bright Creatures",
+        "p": [
+          "In Remarkably Bright Creatures, Field portrays Tova Sullivan, a grieving widow whose routine existence shifts after forming an unusual bond with a giant Pacific octopus named Marcellus, voiced by Alfred Molina.",
+          "Through the intervention of the intelligent cephalopod, Tova discovers a shared connection with a fellow worker named Cameron, brought to life by actor Lewis Pullman."
+        ]
+      },
+      {
+        "h": "Fierce Competition in the Category",
+        "p": [
+          "Current odds position Field firmly inside the top three contenders for a nomination alongside Florence Pugh for East of Eden and Linda Cardellini for DTF St. Louis. Because the Actor Awards combine lead and television categories without separate designations, past Emmy competitors find themselves matched against one another once more.",
+          "Carey Mulligan for Beef and Sarah Pidgeon for Love Story round out the projected five-woman lineup currently anticipated by industry prognosticators."
+        ]
+      },
+      {
+        "h": "Reflecting on a Storied Career",
+        "p": [
+          "During her acceptance speech for the Life Achievement Award, Field reflected on her journey in the industry, remembering her roots in Pasadena and the personal growth she found through her various roles.",
+          "Her extensive list of prior guild recognition spans both film and television projects, including standout turns in Forrest Gump, Lincoln, and multiple television dramas."
+        ]
+      },
+      {
+        "h": "Upcoming Timeline for the Ceremony",
+        "p": [
+          "The official nominations for the upcoming ceremony are scheduled to be revealed on January 6. Following the announcement, guild members will cast their ballots to determine the final winners.",
+          "The winners will be officially announced during the ceremony broadcast on February 28, concluding the season's major guild contests."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Sally Field is eyeing a milestone tenth SAG Actor Award nomination for her role in the Netflix film Remarkably Bright Creatures. If she wins the category, the actress would set a new age record for a competitive victory at the guild ceremony."
+        ]
+      }
+    ],
+    "facts": [
+      "Sally Field turned 80 on Nov. 6",
+      "Helen Mirren was 68 when she won for Phil Spector in 2013",
+      "Betty White was 89 when nominated for The Lost Valentine",
+      "The 2027 Actor Awards nominations will be announced Jan. 6",
+      "The 2027 Actor Awards winners will be announced Feb. 28"
+    ],
+    "entities": {
+      "people": [
+        "Sally Field",
+        "Jessica Tandy",
+        "Helen Mirren",
+        "Betty White",
+        "Alfred Molina",
+        "Lewis Pullman",
+        "Florence Pugh",
+        "Linda Cardellini",
+        "Carey Mulligan",
+        "Sarah Pidgeon"
+      ],
+      "titles": [
+        "Remarkably Bright Creatures",
+        "Foxfire",
+        "Phil Spector",
+        "The Lost Valentine",
+        "Brothers Sisters",
+        "Forrest Gump",
+        "Lincoln",
+        "A Woman of Independent Means",
+        "A Cooler Climate",
+        "David Copperfield",
+        "ER",
+        "East of Eden",
+        "DTF St. Louis",
+        "Beef",
+        "Love Story"
+      ]
+    },
+    "keywords": [
+      "Sally Field Remarkably Bright Creatures",
+      "SAG Actor Award nomination Sally Field",
+      "Remarkably Bright Creatures Netflix film",
+      "Sally Field 10th SAG nomination"
+    ],
+    "images": [
+      {
+        "url": "https://www.goldderby.com/wp-content/uploads/2026/11/Sally-Field-in-Remarkably-Bright-Creatures.jpg?w=650",
+        "caption": "Sally Field Chases Historic 10th Actor Award Nomination for Remarkably Bright Creatures",
+        "source": "Gold Derby"
+      }
+    ],
+    "published": "Fri, 27 Nov 2026 18:00:00 +0000"
+  },
+  "171527u": {
+    "id": "171527u",
+    "type": "news",
+    "headline": "Ranabaali Co-Star Defends Vijay Deverakonda and Rashmika Mandanna Amid Online Scrutiny",
+    "dek": "Actor Kishore Kumar Polimera steps up for his Ranabaali co-stars Vijay Deverakonda and Rashmika Mandanna, praising their off-screen personalities after they faced heavy online criticism following their Koffee With Karan appearance.",
+    "body": [
+      {
+        "h": "Defending the Cast Amid Online Backlash",
+        "p": [
+          "Vijay Deverakonda and Rashmika Mandanna have faced substantial online criticism ever since their joint appearance on an episode of Koffee With Karan 9. Amid the persistent negativity from certain corners of social media, their Ranabaali co-star Kishore Kumar Polimera has stepped forward to publicly support the couple.",
+          "Polimera offered an enthusiastic endorsement of Vijay Deverakonda, pushing back against the harsh public projections and asserting that the actor's real personality is far warmer than what critics claim on the internet."
+        ]
+      },
+      {
+        "h": "Inside the Raja Talks ID Podcast Appraisals",
+        "p": [
+          "While speaking on the Raja Talks ID podcast, Kishore Kumar Polimera was asked directly about what Vijay Deverakonda is actually like behind the scenes. Without hesitation, the actor used the Telugu term bangaram, which translates to gold or sweetheart, to describe his leading man.",
+          "Polimera dismissed the internet chatter entirely, noting that as long as Vijay retains genuine support from his core audience, public misconceptions hold no real weight. He remembered the pleasant environment they shared during the film's schedule in Sri Lanka."
+        ]
+      },
+      {
+        "h": "Drawing Parallels to Prabhas",
+        "p": [
+          "Kishore Kumar Polimera did not stop his praise with Vijay, offering equally high compliments to Rashmika Mandanna. He likened her down-to-earth demeanor to that of top Telugu cinema hero Prabhas, pointing out her naturally cute and lovable nature.",
+          "According to her co-star, Rashmika carries zero attitude despite her massive stardom. Polimera went as far as to say that she is even more of a sweetheart than Vijay, highlighting her humility on set."
+        ]
+      },
+      {
+        "h": "The Koffee With Karan Controversy",
+        "p": [
+          "The recent wave of intense scrutiny began after the couple's episode of Koffee With Karan 9 started streaming on JioHotstar on October 21. The appearance marked their first major promotional outing together since their marriage in Udaipur in February.",
+          "During the talk show, the couple shared personal anecdotes, including the revelation that Rashmika asked Vijay to marry her one hundred times over the course of a year before he finally agreed. Vijay also addressed misunderstandings regarding jewelry Rashmika wore during earlier public events."
+        ]
+      },
+      {
+        "h": "Legal Steps Against Trolls",
+        "p": [
+          "The aftermath of the streaming episode brought unwanted consequences as strong viewer reactions spilled over into aggressive online abuse. Commentators circulated false information and inappropriate artificial intelligence-generated images targeting the couple.",
+          "In response to the harassment and fabricated content, Vijay and Rashmika took formal action by filing a complaint against the internet trolls responsible for spreading the offensive material."
+        ]
+      },
+      {
+        "h": "Ranabaali Theatrical Journey",
+        "p": [
+          "Before the talk show controversy unfolded, the collaborative project that brought Vijay Deverakonda and Rashmika Mandanna together on screen, Ranabaali, made its theatrical debut on October 16, 2026.",
+          "The film served as the primary reason for their joint promotional rounds, which ultimately led to the controversial television interview and the subsequent wave of public discussions."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Actor Kishore Kumar Polimera has defended his Ranabaali co-stars Vijay Deverakonda and Rashmika Mandanna after they faced online criticism following their Koffee With Karan 9 episode. Polimera praised Vijay as a sweetheart and compared Rashmika's humble nature to Prabhas, while the couple continues to deal with the fallout of internet backlash and trolling."
+        ]
+      }
+    ],
+    "facts": [
+      "Kishore Kumar Polimera appeared on the Raja Talks ID podcast.",
+      "Koffee With Karan 9 began streaming on JioHotstar on October 21.",
+      "Vijay Deverakonda and Rashmika Mandanna married in Udaipur in February.",
+      "Ranabaali was released in theatres on October 16, 2026."
+    ],
+    "entities": {
+      "people": [
+        "Rashmika Mandanna",
+        "Vijay Deverakonda",
+        "Kishore Kumar Polimera",
+        "Prabhas"
+      ],
+      "titles": [
+        "Ranabaali",
+        "Koffee With Karan"
+      ]
+    },
+    "keywords": [
+      "Ranabaali film",
+      "Vijay Deverakonda",
+      "Rashmika Mandanna",
+      "Kishore Kumar Polimera",
+      "Koffee With Karan 9"
+    ],
+    "images": [
+      {
+        "url": "https://static.toiimg.com/thumb/msid-136230305,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "caption": "Ranabaali Co-Star Defends Vijay Deverakonda and Rashmika Mandanna Amid Online Scrutiny",
+        "source": "Times of India — Entertainment"
+      }
+    ],
+    "published": "2026-11-27T23:15:23+05:30"
+  },
+  "1s0tlto": {
+    "id": "1s0tlto",
+    "type": "news",
+    "headline": "HBO Max's The Gilded Age Season 4 Dominates Streaming Charts",
+    "dek": "Julian Fellowes' hit historical drama becomes a massive streaming smash following its long-awaited fourth season debut on HBO Max.",
+    "body": [
+      {
+        "h": "The Return of a Historical Smash",
+        "p": [
+          "HBO Max has captured widespread attention with the triumphant return of its acclaimed historical drama, which originally launched in January 2022. Following its latest premiere, the program has cemented its status as a major streaming phenomenon.",
+          "The fourth season has driven incredible engagement across digital platforms, captivating audiences worldwide with its high-society storytelling and elaborate period production values."
+        ]
+      },
+      {
+        "h": "Background and Historical Setting",
+        "p": [
+          "Created by Julian Fellowes, the series serves as a spiritual successor to Downton Abbey, transporting viewers back to the extravagant mansions and intense social rivalries of 1880s New York City.",
+          "The narrative explores a fascinating era in American history defined by fierce clashes between entrenched old-money families and a powerful new generation of wealthy industrialists."
+        ]
+      },
+      {
+        "h": "Star-Studded Cast and Guest Stars",
+        "p": [
+          "The production features an exceptional ensemble cast including Carrie Coon, Morgan Spector, Christine Baranski, Cynthia Nixon, and Louisa Jacobson, bringing the intricate drama to life.",
+          "Recent episodes have also surprised viewers with high-profile guest appearances and cameos from notable figures such as Matt Damon, David Letterman, Merritt Weaver, Tom Blyth, and Jim Gaffigan."
+        ]
+      },
+      {
+        "h": "Streaming Dominance and Charts",
+        "p": [
+          "Since launching its fourth season on Nov. 1, the program has maintained a fierce grip on digital platforms, securing the #1 position on both the Top 10 Global and U.S. streaming charts.",
+          "The title has achieved a prolonged run of success, maintaining a prominent place in the top charts for 124 days at the time of reporting."
+        ]
+      },
+      {
+        "h": "Critical Reception and Audience Scores",
+        "p": [
+          "Critics have embraced the latest episodes warmly, awarding the historical drama a near-perfect 91% rating on Rotten Tomatoes alongside praise from reviewers like Meghan O'Keefe.",
+          "Audience response has been somewhat more mixed, yielding a 72% overall score from viewers who diverge on the pacing while still acknowledging the show's grand scale."
+        ]
+      },
+      {
+        "h": "Future Prospects and Renewal",
+        "p": [
+          "High-society intrigue will continue to unfold on screen, as HBO officially granted the series a fifth-season renewal on Nov. 19.",
+          "Fans can currently experience the ongoing fourth season through weekly Sunday broadcasts leading up to its conclusion on Dec. 20."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "The fourth season of Julian Fellowes' period drama The Gilded Age has become a major streaming smash on HBO Max since debuting on Nov. 1.",
+          "The series holds the #1 spot on global and U.S. charts and has already secured an official renewal for a fifth season."
+        ]
+      }
+    ],
+    "facts": [
+      "The Gilded Age originally premiered on January 24, 2022.",
+      "Season 4 made its debut on November 1 on HBO and HBO Max.",
+      "The show has been a streaming smash for 124 days.",
+      "Julian Fellowes is the creator and showrunner.",
+      "The Gilded Age received a Rotten Tomatoes critic score of 91% and an audience score of 72%.",
+      "HBO renewed the show for a fifth season on November 19.",
+      "Season 4 concludes on December 20."
+    ],
+    "entities": {
+      "people": [
+        "James Melzer",
+        "Julian Fellowes",
+        "Carrie Coon",
+        "Morgan Spector",
+        "Christine Baranski",
+        "Cynthia Nixon",
+        "Louisa Jacobson",
+        "Matt Damon",
+        "David Letterman",
+        "Merritt Weaver",
+        "Tom Blyth",
+        "Jim Gaffigan",
+        "Meghan O'Keefe",
+        "Deborah Kampmeier",
+        "Salli Richardson-Whitfield"
+      ],
+      "titles": [
+        "The Sopranos",
+        "Game of Thrones",
+        "The Pitt",
+        "Downton Abbey",
+        "The Gilded Age",
+        "90 Day Fiancé: The Other Way"
+      ]
+    },
+    "keywords": [
+      "The Gilded Age",
+      "Julian Fellowes",
+      "The Gilded Age Season 4",
+      "Carrie Coon Morgan Spector"
+    ],
+    "images": [
+      {
+        "url": "https://static0.moviewebimages.com/wordpress/wp-content/uploads/2026/11/the-gilded-age.jpg?w=1600&amp;h=900&amp;fit=crop",
+        "caption": "HBO Max's The Gilded Age Season 4 Dominates Streaming Charts",
+        "source": "MovieWeb"
+      }
+    ],
+    "published": "Fri, 27 Nov 2026 18:01:17 GMT"
   }
 };

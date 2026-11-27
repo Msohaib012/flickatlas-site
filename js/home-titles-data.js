@@ -42308,5 +42308,539 @@ window.FA_PUBLISHED = {
     "providers": [],
     "release_date": "2026-12-04",
     "popularity": 0.0909
+  },
+  "1848397": {
+    "id": 1848397,
+    "type": "movie",
+    "title": "Ishaara - A Campus Beats Movie",
+    "poster_path": "/oZa5fHJjFar1P4Va5oOLLUKYjEf.jpg",
+    "backdrop_path": "/nnVViGfWyjvhszmjxtOn7NLCeIZ.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "A worried Ishaan reminisces on Neel's podcast about his love story with Netra, a Gen Z girl who found dance, friendship and love while chasing closure. Through rivalries, a World Dance Championship and a memory loss that nearly erased everything, their bond is tested again and again, and now that a new threat looms over their love story, Ishaan must decide how far he'll go to hold on to her.",
+    "industry": "bollywood",
+    "original_language": "hi",
+    "origin_country": [
+      "IN"
+    ],
+    "production_countries": [],
+    "spoken_languages": [],
+    "published_at": "2026-11-27",
+    "date_kind": "release",
+    "status": "Released",
+    "providers": [],
+    "release_date": "2026-11-27",
+    "popularity": 0
+  },
+  "343876": {
+    "id": 343876,
+    "type": "tv",
+    "title": "Candidates",
+    "poster_path": "/ffRzkETZa6A8UtC1rgNttIlOZJ0.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "Across six episodes, follow D Gukesh, R Praggnanandhaa, Arjun Erigaisi, Vidit Gujrathi and R Vaishali through ambition, rivalry, sacrifice and the moments that shape a champion.\n\nBecause every champion was once a candidate.",
+    "industry": "bollywood",
+    "original_language": "hi",
+    "origin_country": [
+      "IN"
+    ],
+    "production_countries": [
+      "IN"
+    ],
+    "spoken_languages": [
+      "en",
+      "hi"
+    ],
+    "published_at": "2026-11-27",
+    "status": "Ended",
+    "providers": [],
+    "first_air_date": "2026-11-22",
+    "popularity": 0
+  },
+  "1244711": {
+    "id": 1244711,
+    "type": "movie",
+    "title": "Many Many Happy Returns",
+    "poster_path": "/pvkFU4eZcJdxnWnUX8uIcPFKmfV.jpg",
+    "backdrop_path": "/jm0RHq7CUKTbC3fZHiT2RinzYHh.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "A group of close-knit childhood friends reunite in their picturesque hometown for an elaborate, week-long wedding celebration. As old sparks fly and long-buried secrets surface, the joyful occasion quickly turns chaotic, forcing the friends to confront unresolved heartbreaks, career anxieties, and the changing dynamics of their relationships.",
+    "industry": "bollywood",
+    "original_language": "ml",
+    "origin_country": [
+      "IN"
+    ],
+    "production_countries": [
+      "IN"
+    ],
+    "spoken_languages": [
+      "ml"
+    ],
+    "published_at": "2026-11-27",
+    "date_kind": "release",
+    "status": "Post Production",
+    "providers": [],
+    "release_date": "2026-12-04",
+    "popularity": 0.838
+  },
+  "1848948": {
+    "id": 1848948,
+    "type": "movie",
+    "title": "Der größte Wunsch",
+    "poster_path": "/qnqg9jeScsPUNNd2oebJLz5bm77.jpg",
+    "backdrop_path": "/lpK0nXEHGQXxxgygnoNhvV635J0.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "",
+    "industry": "world",
+    "original_language": "de",
+    "origin_country": [
+      "DE"
+    ],
+    "production_countries": [
+      "DE"
+    ],
+    "spoken_languages": [],
+    "published_at": "2026-11-27",
+    "date_kind": "release",
+    "status": "Released",
+    "providers": [],
+    "release_date": "2026-12-04",
+    "popularity": 0
+  },
+  "1590752": {
+    "id": 1590752,
+    "type": "movie",
+    "title": "Coming Home",
+    "poster_path": "/wsipU0tvTmrSTsBh7pe6r8pk58z.jpg",
+    "backdrop_path": "/oFveDXH0Tij974QoendcbMnZlIU.jpg",
+    "vote_average": 5.167,
+    "vote_count": 3,
+    "overview": "A prominent young professional residing in Jakarta is abruptly recalled to his ancestral North Sumatra homeland by his patriarch to campaign for public office, where his political ambitions intersect with a transformative romantic awakening centered on the Batak customs he long neglected.",
+    "industry": "world",
+    "original_language": "id",
+    "origin_country": [
+      "ID"
+    ],
+    "production_countries": [
+      "ID"
+    ],
+    "spoken_languages": [
+      "id"
+    ],
+    "published_at": "2026-11-27",
+    "date_kind": "release",
+    "status": "Released",
+    "providers": [],
+    "release_date": "2026-11-26",
+    "popularity": 2.3036
+  },
+  "1569041": {
+    "id": 1569041,
+    "type": "movie",
+    "title": "Padayaatra",
+    "poster_path": "/iYHKS5AgfzAulkFWEPraUO7pkbr.jpg",
+    "backdrop_path": "/oZF81cFqfmJ9BmssRlKGYuDtvHk.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "",
+    "industry": "bollywood",
+    "original_language": "ml",
+    "origin_country": [
+      "IN"
+    ],
+    "production_countries": [
+      "IN"
+    ],
+    "spoken_languages": [
+      "ml"
+    ],
+    "published_at": "2026-11-27",
+    "date_kind": "release",
+    "status": "Post Production",
+    "providers": [],
+    "release_date": "2026-12-04",
+    "popularity": 0.8258
+  },
+  "1827408": {
+    "id": 1827408,
+    "type": "movie",
+    "title": "Kanojo ni Attara, Yoroshiku to",
+    "poster_path": "/emWtTS0pwsbk9G0RjP89wgM7e9p.jpg",
+    "backdrop_path": "/hugivY9nn33av7cM61hPoZAy7uZ.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "Shoko, a playwright who runs a theater troupe in Tokyo, confides her creative struggles to an old friend, Noriko, who has come to see one of her plays. Noriko begins to share a strange experience she recently had—a story that passed from Nao (a friend from Noriko’s university days) to Saki, from Saki to Makoto, and from Makoto to Yuka. The tale of a mysterious girl encountered on Sakurajima unfolds as a chain of recollections, gradually blurring the lines between reality and something else.",
+    "industry": "world",
+    "original_language": "ja",
+    "origin_country": [
+      "JP"
+    ],
+    "production_countries": [
+      "JP"
+    ],
+    "spoken_languages": [
+      "ja"
+    ],
+    "published_at": "2026-11-27",
+    "date_kind": "release",
+    "status": "Post Production",
+    "providers": [],
+    "release_date": "2026-12-04",
+    "popularity": 0.6619
+  },
+  "1610933": {
+    "id": 1610933,
+    "type": "movie",
+    "title": "Deathbound",
+    "poster_path": "/cOUGLKGDC1Mnm1JNV9F11idvy4w.jpg",
+    "backdrop_path": "/1DdQ0jBG8XODQFTYJXIUMNJ1OAH.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "A young couple become entangled in the ritual of \"Pha Jaan,\" a practice that severs ties either between living people or between the living and the dead.",
+    "industry": "world",
+    "original_language": "th",
+    "origin_country": [
+      "TH"
+    ],
+    "production_countries": [
+      "TH"
+    ],
+    "spoken_languages": [
+      "th"
+    ],
+    "published_at": "2026-11-27",
+    "date_kind": "release",
+    "status": "Released",
+    "providers": [],
+    "release_date": "2026-11-26",
+    "popularity": 1.9814
+  },
+  "1767120": {
+    "id": 1767120,
+    "type": "movie",
+    "title": "Father",
+    "poster_path": "/rxpxKTIDkvg5oWHTof3TSmTNg0X.jpg",
+    "backdrop_path": "/cpoKEj1sIsUHNg0NPfU8dQ40JMJ.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "",
+    "industry": "bollywood",
+    "original_language": "kn",
+    "origin_country": [
+      "IN"
+    ],
+    "production_countries": [
+      "IN"
+    ],
+    "spoken_languages": [
+      "kn",
+      "hi"
+    ],
+    "published_at": "2026-11-27",
+    "date_kind": "release",
+    "status": "Post Production",
+    "providers": [],
+    "release_date": "2026-12-04",
+    "popularity": 0.5683
+  },
+  "1825528": {
+    "id": 1825528,
+    "type": "movie",
+    "title": "The Island of Two Faces: Nusakambangan",
+    "poster_path": "/by9TV2lN1Vz1y1Ezpj2gvH6tBOV.jpg",
+    "backdrop_path": "/AqvC3DGKdu8bHm6aBld4UOcRiqb.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "Beyond Indonesia’s most feared prison island lies a hidden world of nature, history, and humanity that redefines freedom.",
+    "industry": "world",
+    "original_language": "id",
+    "origin_country": [
+      "ID"
+    ],
+    "production_countries": [
+      "ID"
+    ],
+    "spoken_languages": [
+      "id"
+    ],
+    "published_at": "2026-11-27",
+    "date_kind": "festival",
+    "status": "Post Production",
+    "providers": [],
+    "release_date": "2026-12-04",
+    "popularity": 0.1842
+  },
+  "1763356": {
+    "id": 1763356,
+    "type": "movie",
+    "title": "Cousin Isha",
+    "poster_path": "/nld4WDfBFA2sAhkGhln2O5Vq2CM.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "After being publicly humiliated and heartbroken when his lover marries someone else, Ajit, the son of a small-town sweet shop owner, hits rock bottom-until Isha, his bold and fashionable distant cousin, unexpectedly enters his life, turning his pain into a potential new beginning.",
+    "industry": "bollywood",
+    "original_language": "hi",
+    "origin_country": [
+      "IN"
+    ],
+    "production_countries": [
+      "IN"
+    ],
+    "spoken_languages": [
+      "hi"
+    ],
+    "published_at": "2026-11-27",
+    "date_kind": "release",
+    "status": "In Production",
+    "providers": [],
+    "release_date": "2026-12-04",
+    "popularity": 0.4461
+  },
+  "1824733": {
+    "id": 1824733,
+    "type": "movie",
+    "title": "The Journey of the Blue Fox",
+    "poster_path": "/tmxfwPKlKLQUIZWTrRO226hxgKS.jpg",
+    "backdrop_path": "/oyYkVlcqLmmjNueouXQlmQn0Vh.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "In Scandinavia, Arctic foxes are struggling for survival. Follow the life and journey of a young blue Arctic Fox vixen on her way through the Fennoscandian mountains to find her future.",
+    "industry": "world",
+    "original_language": "et",
+    "origin_country": [
+      "EE"
+    ],
+    "production_countries": [
+      "EE",
+      "DE",
+      "SE"
+    ],
+    "spoken_languages": [
+      "et"
+    ],
+    "published_at": "2026-11-27",
+    "date_kind": "release",
+    "status": "Released",
+    "providers": [],
+    "release_date": "2026-12-04",
+    "popularity": 0.0916
+  },
+  "1721040": {
+    "id": 1721040,
+    "type": "movie",
+    "title": "Devi Mahathme",
+    "poster_path": "/gnKmHpn3kAXE4AyLiCV5BcH0tAy.jpg",
+    "backdrop_path": "/dVPBeu7uShLw1IBFLCR9Zey5xje.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "In Kundapura, Shankranna is a respected figure whose presence touches many lives. But when an unexpected incident forces him to withdraw, everything changes. What happens when Shankranna steps away?",
+    "industry": "bollywood",
+    "original_language": "kn",
+    "origin_country": [
+      "IN"
+    ],
+    "production_countries": [
+      "IN"
+    ],
+    "spoken_languages": [
+      "kn"
+    ],
+    "published_at": "2026-11-27",
+    "date_kind": "release",
+    "status": "In Production",
+    "providers": [],
+    "release_date": "2026-12-04",
+    "popularity": 0.4083
+  },
+  "1823948": {
+    "id": 1823948,
+    "type": "movie",
+    "title": "Morning Star",
+    "poster_path": "/2XyXnEj17r8K887vmlMyP4KWp6a.jpg",
+    "backdrop_path": "/25iy4Ll5ClgRzvGjNnv1es5lkxp.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "12-year-old Danika secretly learns to fish from her late father’s friend, hoping to prove to her mother that she can help support their family and remain close to her father. But as she faces the harsh reality of life at sea, Danika begins to understand the sacrifices her mother has made to raise her alone. She must choose between holding on to her father’s memory and protecting the only family she has left.",
+    "industry": "world",
+    "original_language": "id",
+    "origin_country": [
+      "ID"
+    ],
+    "production_countries": [
+      "ID"
+    ],
+    "spoken_languages": [
+      "id"
+    ],
+    "published_at": "2026-11-27",
+    "date_kind": "festival",
+    "status": "Post Production",
+    "providers": [],
+    "release_date": "2026-12-04",
+    "popularity": 0.268
+  },
+  "1539084": {
+    "id": 1539084,
+    "type": "movie",
+    "title": "Baba",
+    "poster_path": "/wVyYK6FhlJUcOrzrcV6gLauU0fz.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "Gourab, a journalist raised in an orphanage, dreams of becoming the perfect father more than a successful reporter. But when a dangerous child trafficking racket terrorizes Kolkata, he is forced to balance his duties as a husband, father, and journalist while risking everything to protect innocent children and uncover the truth.",
+    "industry": "bollywood",
+    "original_language": "bn",
+    "origin_country": [
+      "IN"
+    ],
+    "production_countries": [],
+    "spoken_languages": [
+      "bn"
+    ],
+    "published_at": "2026-11-27",
+    "date_kind": "release",
+    "status": "In Production",
+    "providers": [],
+    "release_date": "2026-12-04",
+    "popularity": 0.3689
+  },
+  "1821540": {
+    "id": 1821540,
+    "type": "movie",
+    "title": "Viktor's Hot Dogs",
+    "poster_path": "/dVq5tR4wX585svjZBwCeFjQ7swO.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "Viktor, a hot dog seller discovers that his most annoying customer has left a terrified dog behind. With nowhere else to take her, Viktor brings her inside his eerie hot dog factory, where a sausage dog has every reason to fear the worst.",
+    "industry": "world",
+    "original_language": "en",
+    "origin_country": [
+      "GB"
+    ],
+    "production_countries": [
+      "GB",
+      "AU"
+    ],
+    "spoken_languages": [],
+    "published_at": "2026-11-27",
+    "date_kind": "festival",
+    "status": "Post Production",
+    "providers": [],
+    "release_date": "2026-12-04",
+    "popularity": 0.3894
+  },
+  "1736395": {
+    "id": 1736395,
+    "type": "movie",
+    "title": "Ei Shohorer Gaan",
+    "poster_path": "/nT4r8Xjf9mBAlNcm8KrRi0UB97m.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "Set against the vibrant backdrop of Kolkata, this emotional drama weaves together the lives of dreamers searching for love, purpose, and belonging. As their journeys intersect through art, relationships, and personal struggles, they discover the strength to hold on to hope in a city filled with chaos, heartbreak, and possibility.",
+    "industry": "bollywood",
+    "original_language": "bn",
+    "origin_country": [
+      "IN"
+    ],
+    "production_countries": [],
+    "spoken_languages": [
+      "bn"
+    ],
+    "published_at": "2026-11-27",
+    "date_kind": "release",
+    "status": "In Production",
+    "providers": [],
+    "release_date": "2026-12-04",
+    "popularity": 0.3024
+  },
+  "1821512": {
+    "id": 1821512,
+    "type": "movie",
+    "title": "Flôr de Panchão",
+    "poster_path": "/AaeYsBfWhGZpdBlcOcDdPBzikMC.jpg",
+    "backdrop_path": "/4OXl0vzsdnIhoQNxXk8ZCqWCFRO.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "For a decade, living in a foreign land, Kate has attempted to “return home” at a distance, as she finds herself in a doubly exotic identity. She’s no longer a local in Macau, and Poland is still somehow unfamiliar. She searched for Portuguese colonial stamps of Macau in Poland; through historical artifacts, she relentlessly searches for a sense of home in Macau’s history, with a dose of doubt about her self-identity as Macanese.",
+    "industry": "world",
+    "original_language": "cn",
+    "origin_country": [
+      "MO"
+    ],
+    "production_countries": [
+      "MO"
+    ],
+    "spoken_languages": [
+      "cn",
+      "pt"
+    ],
+    "published_at": "2026-11-27",
+    "date_kind": "festival",
+    "status": "In Production",
+    "providers": [],
+    "release_date": "2026-12-04",
+    "popularity": 0.0347
+  },
+  "1754328": {
+    "id": 1754328,
+    "type": "movie",
+    "title": "Mahaveer Karna",
+    "poster_path": "/AkNUpyCIPfr5E57jDrTYJouqXL5.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "Based on the Mahabharata, Mahaveer Karna chronicles the tragic, heroic journey of one of the epic’s most complex warriors. Celebrated for his unwavering loyalty and boundless generosity, Karna confronts a lifetime of societal rejection, testing the limits of friendship, honour, and fate.",
+    "industry": "bollywood",
+    "original_language": "te",
+    "origin_country": [
+      "IN"
+    ],
+    "production_countries": [
+      "IN"
+    ],
+    "spoken_languages": [
+      "te"
+    ],
+    "published_at": "2026-11-27",
+    "date_kind": "release",
+    "status": "Post Production",
+    "providers": [],
+    "release_date": "2026-12-04",
+    "popularity": 0.299
+  },
+  "1821498": {
+    "id": 1821498,
+    "type": "movie",
+    "title": "A Trip to the South",
+    "poster_path": "/niuBggyfNc3gqAtndTydShARvCa.jpg",
+    "backdrop_path": "/1BzpnGiuYAvrMSHfJAmwnWHR3kO.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "The film follows Habur, an elderly Mongolian woman living in Hangzhou who, to save an old camel her son has sent to slaughter, attempts to bring it from the humid south back to her desert homeland.",
+    "industry": "world",
+    "original_language": "zh",
+    "origin_country": [
+      "CN"
+    ],
+    "production_countries": [
+      "CN"
+    ],
+    "spoken_languages": [
+      "mn",
+      "zh"
+    ],
+    "published_at": "2026-11-27",
+    "date_kind": "festival",
+    "status": "In Production",
+    "providers": [],
+    "release_date": "2026-12-04",
+    "popularity": 0.019
   }
 };
