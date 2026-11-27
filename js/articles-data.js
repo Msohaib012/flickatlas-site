@@ -268101,5 +268101,373 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Sat, 28 Nov 2026 01:20:04 +0530"
+  },
+  "cdfean": {
+    "id": "cdfean",
+    "type": "news",
+    "headline": "Nicole Scherzinger and Thom Evans End Engagement After Seven Years Together",
+    "dek": "Singer Nicole Scherzinger and former rugby player Thom Evans have called off their engagement, concluding a romance that began in 2019.",
+    "body": [
+      {
+        "h": "The Announcement of the Split",
+        "p": [
+          "Renowned singer Nicole Scherzinger and her fiancé, former Scottish rugby player Thom Evans, have officially ended their relationship. The couple decided to call off their engagement on Friday, concluding a seven-year journey together that had captured considerable public attention over the years.",
+          "The separation was made public when Evans shared an update on his Instagram stories. He acknowledged the heavy heart with which he was sharing the news, noting that the choice to part ways came directly from Scherzinger after years of shared commitment."
+        ]
+      },
+      {
+        "h": "Looking Back at a Difficult Decision",
+        "p": [
+          "In his public message, Evans expressed that the outcome was not what he had hoped for when planning their future. Despite the heartbreak, he emphasized that he respected Scherzinger's choice and wished her the best as she enters the next chapter of her life.",
+          "As of now, the specific reasons behind the sudden end of their engagement remain undisclosed to the public. Both individuals have kept private details surrounding the breakup away from the media spotlight."
+        ]
+      },
+      {
+        "h": "How Their Romance Began",
+        "p": [
+          "The paths of Scherzinger and Evans first crossed in 2019 under professional circumstances. Evans participated as a contestant on 'The X Factor', where Scherzinger was fulfilling her role as a primary judge on the panel.",
+          "While they chose to keep their initial romantic involvement out of the public eye, they eventually made their official debut as a couple at a Golden Globes afterparty in January 2020, transitioning into a high-profile pairing."
+        ]
+      },
+      {
+        "h": "Lockdown and Proposal in Portugal",
+        "p": [
+          "The couple solidified their bond by spending the prolonged COVID-19 lockdown period together, which brought them much closer. Their relationship reached a milestone in June 2023 when Scherzinger happily announced that Evans had proposed to her during a trip to Portugal.",
+          "Following the engagement, the singer shared plans regarding potential wedding locations. She expressed a desire to hold the main ceremony in her native Hawaii, followed by a celebratory reception hosted somewhere in Europe."
+        ]
+      },
+      {
+        "h": "Future Aspirations and Family Plans",
+        "p": [
+          "Prior to the separation, Scherzinger had spoken candidly about her personal goals regarding starting a family. In a 2024 interview with The Sunday Times, she mentioned her strong desire to experience motherhood in the near future.",
+          "She remarked on the importance of carving out personal time to achieve those family dreams, expressing deep enthusiasm for the prospect of having children."
+        ]
+      },
+      {
+        "h": "A History of High-Profile Relationships",
+        "p": [
+          "Scherzinger has experienced several well-known relationships prior to her engagement to Evans. She was previously engaged to Nick Hexum, the lead singer of the band 311.",
+          "Additionally, she shared a lengthy, eight-year on-and-off romance with Formula One champion Lewis Hamilton that concluded in 2015, followed by a three-year relationship with Bulgarian tennis player Grigor Dimitrov."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Singer Nicole Scherzinger and her fiancé Thom Evans have called off their engagement and ended their seven-year relationship after first meeting on 'The X Factor' in 2019. Evans announced the split on Instagram, noting that the decision was made by Scherzinger, while the reasons behind the breakup remain private."
+        ]
+      }
+    ],
+    "facts": [
+      "Nicole Scherzinger and Thom Evans called off their engagement on Friday, November 28, 2026.",
+      "The couple spent seven years together.",
+      "They first met in 2019 when Thom Evans was a contestant on 'The X Factor' and Nicole Scherzinger was a judge.",
+      "They made their red carpet debut at a Golden Globes afterparty in January 2020.",
+      "Thom Evans proposed to Nicole Scherzinger in Portugal in June 2023.",
+      "Nicole Scherzinger was previously in an eight-year on-and-off relationship with Lewis Hamilton that ended in 2015, and dated Grigor Dimitrov for three years."
+    ],
+    "entities": {
+      "people": [
+        "Nicole Scherzinger",
+        "Thom Evans",
+        "Nick Hexum",
+        "Lewis Hamilton",
+        "Grigor Dimitrov"
+      ],
+      "titles": [
+        "The X Factor"
+      ]
+    },
+    "keywords": [
+      "Nicole Scherzinger",
+      "Thom Evans",
+      "Nicole Scherzinger Thom Evans split",
+      "Nicole Scherzinger engagement ended"
+    ],
+    "images": [
+      {
+        "url": "https://static.toiimg.com/thumb/msid-136235372,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "caption": "Nicole Scherzinger and Thom Evans End Engagement After Seven Years Together",
+        "source": "Times of India — Entertainment"
+      }
+    ],
+    "published": "2026-11-28T04:05:19+05:30"
+  },
+  "94477r": {
+    "id": "94477r",
+    "type": "news",
+    "headline": "Focker-In-Law Pulls in $7.7 Million on Thanksgiving Day Following Wednesday Debut",
+    "dek": "The latest Meet the Parents sequel from Universal and Paramount secures a solid holiday frame opening, pulling in strong early numbers despite mixed critical reception.",
+    "body": [
+      {
+        "h": "Opening Numbers and Thanksgiving Gross",
+        "p": [
+          "The box office returns for the comedy sequel Focker-In-Law are officially available, capturing a strong start over the holiday frame. The movie launched on Wednesday with a confirmed five point two million dollar opening after skipping Tuesday preview screenings entirely. This figure represents a clean opening day total rather than numbers inflated by early evening shows.",
+          "On Thanksgiving Day itself, the feature added a confirmed seven point seven million dollars to its domestic total. Playing across three thousand three hundred eighty-two theaters, the film achieved a two-day cumulative range between twelve point nine and thirteen point one million dollars, landing it in second place behind Sunrise on the Reaping for the holiday stretch."
+        ]
+      },
+      {
+        "h": "Production Budget and Financial Scale",
+        "p": [
+          "Universal and Paramount co-financed the production with a reported budget of ninety million dollars. This financial footprint is relatively modest for a modern franchise sequel, giving the picture a more manageable hurdle to clear compared to blockbusters requiring massive opening weekends.",
+          "Interestingly, the budget comes in leaner than its predecessor Little Fockers, which cost one hundred million dollars to produce back in 2010. Accounting for sixteen years of inflation, the studio kept financial exposure tightly controlled for this latest family reunion."
+        ]
+      },
+      {
+        "h": "Holiday Projections and Franchise Comparisons",
+        "p": [
+          "Industry trackers project the film to finish its Wednesday through Sunday Thanksgiving stretch around forty million dollars. This projection anticipates a traditional Friday through Sunday three-day portion of approximately twenty-seven million dollars, though these figures remain predictions rather than confirmed tallies.",
+          "If the projections hold true, the debut will land below the franchise-best forty-six point one million dollar opening of Meet the Fockers. However, it tracks closely to the thirty point eight million dollar opening achieved by Little Fockers over a decade prior."
+        ]
+      },
+      {
+        "h": "Cast and Legacy Background",
+        "p": [
+          "The comedy marks a major reunion sixteen years after the release of Little Fockers. Franchise veterans Robert De Niro and Ben Stiller return to lead the narrative once again.",
+          "Alongside the returning main actors, pop star Ariana Grande joins the ensemble as a fresh addition to the family dynamic. The combination of legacy stars and new talent helped drive substantial early audience turnout despite the competitive holiday release calendar."
+        ]
+      },
+      {
+        "h": "Critical Reception versus Audience Response",
+        "p": [
+          "Reviews from professional critics have leaned largely negative, evidenced by a thirty-one percent approval rating on Rotten Tomatoes. Reviewers appear to judge the comedy against the original film's legacy.",
+          "In contrast, general viewers have embraced the picture warmly, awarding it an eighty-six percent audience score on Rotten Tomatoes. Opening-night crowds also awarded the release a solid B plus CinemaScore, indicating that word-of-mouth support should remain stable through the weekend."
+        ]
+      },
+      {
+        "h": "Path to Profitability and Market Standing",
+        "p": [
+          "With a confirmed two-day start of roughly thirteen million dollars against a ninety million dollar production budget, the movie is positioned reasonably well. Achieving the projected forty million dollar five-day total would put the title nearly forty-four percent of the way toward covering production costs alone before factoring in marketing expenses.",
+          "Unlike some competitors carrying heavier budgets relative to their opening pace, this comedy maintains a narrow path to profitability. Comfort-food franchise entries often rely on sturdy holiday legs rather than a purely front-loaded opening spike."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Focker-In-Law secured a five point two million dollar Wednesday opening followed by a seven point seven million dollar Thanksgiving Day gross. Despite mixed critical reviews reflected in its thirty-one percent Rotten Tomatoes score, the film achieved a strong B plus CinemaScore and an eighty-six percent audience rating as it targets a forty million dollar five-day holiday projection."
+        ]
+      }
+    ],
+    "facts": [
+      "Wednesday opening gross was $5.2 million on November 25.",
+      "Thanksgiving Day gross was $7.7 million on November 26.",
+      "Confirmed two-day cumulative total is roughly $12.9-13.1 million.",
+      "The film played across 3,382 theaters.",
+      "Production budget is reported at $90 million.",
+      "Five-day Thanksgiving projection is around $40 million.",
+      "Rotten Tomatoes critic score is 31% and audience score is 86%.",
+      "Opening-night audiences gave it a B+ CinemaScore."
+    ],
+    "entities": {
+      "people": [
+        "Ben Stiller",
+        "Robert De Niro",
+        "Ariana Grande",
+        "Scott Mendelson",
+        "Faiza Farheen"
+      ],
+      "titles": [
+        "Focker-In-Law",
+        "Meet the Parents",
+        "Little Fockers",
+        "Sunrise on the Reaping",
+        "Hexed",
+        "Meet the Fockers"
+      ]
+    },
+    "keywords": [
+      "Focker-In-Law box office",
+      "Focker-In-Law Thanksgiving gross",
+      "Ben Stiller Robert De Niro film",
+      "Focker-In-Law budget and projections"
+    ],
+    "images": [
+      {
+        "url": "https://showpulp.com/wp-content/uploads/2026/11/ben-stiller-resized-683x1024.jpg",
+        "caption": "Focker-In-Law Pulls in $7.7 Million on Thanksgiving Day Following Wednesday Debut",
+        "source": "ShowPulp"
+      }
+    ],
+    "published": "Fri, 27 Nov 2026 22:33:00 +0000"
+  },
+  "1djcvf5": {
+    "id": "1djcvf5",
+    "type": "news",
+    "headline": "Downing Street Slams Channel 4 Over Controversial Huw Edwards Documentary",
+    "dek": "A new Channel 4 documentary featuring disgraced broadcaster Huw Edwards has triggered widespread fury, drawing sharp condemnation from Downing Street and child protection campaigners.",
+    "body": [
+      {
+        "h": "The Controversy Begins",
+        "p": [
+          "A planned television documentary featuring disgraced former broadcaster Huw Edwards has ignited a massive wave of public backlash. The project, which also corresponds with a podcast produced by the Observer and Tortoise Media, grants a platform to the former news anchor to share his perspective following severe legal troubles.",
+          "Critics, child protection campaigners, and viewers have expressed outrage that a convicted sex offender is being given media space to discuss his experiences. The decision to air the project has immediately placed the network under intense public scrutiny and reignited debates surrounding media ethics and the platforms afforded to criminals."
+        ]
+      },
+      {
+        "h": "Downing Street Responds",
+        "p": [
+          "The backlash quickly reached the highest levels of government, drawing an official rebuke from Downing Street. A spokesperson for Prime Minister Andy Burnham delivered a stern statement to BBC News, emphasizing that the primary focus must remain on the victims of child sexual abuse and exploitation.",
+          "The government representative made it clear that officials have no interest in hearing what the former broadcaster has to say regarding his actions. The statement further stressed that anyone convicted of such extremely serious crimes must face the full consequences of their actions, reminding networks of their responsibility to their audiences."
+        ]
+      },
+      {
+        "h": "Channel 4 Defends the Project",
+        "p": [
+          "Despite mounting pressure and criticism, Channel 4 has defended its editorial choice to broadcast the film. A spokesperson for the network pointed to its established reputation for producing high-quality, forensic documentaries that tackle challenging and controversial issues of public interest.",
+          "The network highlighted that the former presenter has never publicly answered questions concerning his criminal actions and abuse of power. According to the broadcaster, the film intends to hold him strictly accountable rather than offer him an uncritical platform."
+        ]
+      },
+      {
+        "h": "Behind the Production",
+        "p": [
+          "Titled Huw Edwards - Guilty, the documentary was helmed by a highly experienced director, Patrick Forbes. The production promises no questions off limits as it explores the circumstances that led to the subject's offending and subsequent public downfall.",
+          "Producers describe the feature as an uncomfortable portrayal examining what happens when a beloved public figure betrays public trust. The project asks deeper questions regarding what true accountability means in the wake of a severe criminal conviction."
+        ]
+      },
+      {
+        "h": "Criminal Background and Sentencing",
+        "p": [
+          "The documentary follows the former BBC presenter two years after his criminal conviction. In 2024, he pleaded guilty to charges of making indecent images of children, leading to legal repercussions that shocked the media industry.",
+          "His sentencing included a six-month prison term suspended for two years, alongside mandatory placement on the sex offenders' register for seven years. He was also directed to participate in a specialized sex offender treatment programme."
+        ]
+      },
+      {
+        "h": "Broadcast Details",
+        "p": [
+          "The much-debated programme is scheduled to air on Channel 4. Viewers can tune in to watch the broadcast as it enters the public schedule.",
+          "The release has forced networks and viewers alike to confront difficult questions about the boundaries of documentary filmmaking and the ethics of featuring convicted criminals on screen."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Downing Street and various campaigners have strongly condemned an upcoming Channel 4 documentary featuring convicted sex offender Huw Edwards. While the government emphasized that it has no interest in hearing from the disgraced broadcaster, the network defended the project as a forensic examination of accountability and public trust."
+        ]
+      }
+    ],
+    "facts": [
+      "Huw Edwards was convicted in 2024 for making indecent images of children.",
+      "He received a six-month prison sentence, suspended for two years.",
+      "He was placed on the sex offenders' register for seven years and told to attend a sex offender treatment programme.",
+      "The documentary Huw Edwards - Guilty was directed by Patrick Forbes.",
+      "The documentary airs on December 1 at 9pm on Channel 4."
+    ],
+    "entities": {
+      "people": [
+        "Huw Edwards",
+        "Andy Burnham",
+        "Patrick Forbes",
+        "Martin Clunes",
+        "Rebecca Sayce"
+      ],
+      "titles": [
+        "Huw Edwards - Guilty",
+        "Coronation Street",
+        "EastEnders",
+        "Emmerdale",
+        "Chicken Shop Date",
+        "The Traitors",
+        "Legends"
+      ]
+    },
+    "keywords": [
+      "Huw Edwards documentary",
+      "Channel 4 Huw Edwards",
+      "Huw Edwards Guilty",
+      "Downing Street Huw Edwards",
+      "Patrick Forbes director"
+    ],
+    "images": [
+      {
+        "url": "https://hips.hearstapps.com/hmg-prod/images/7fffbe2b-0b0b-49c0-bfa0-f41cf460bd4e.jpg?crop=1.00xw:0.369xh;0,0.0432xh&amp;resize=1200:*",
+        "caption": "Downing Street Slams Channel 4 Over Controversial Huw Edwards Documentary",
+        "source": "Digital Spy"
+      }
+    ],
+    "published": "Fri, 27 Nov 2026 21:50:00 +0000"
+  },
+  "14zuvnv": {
+    "id": "14zuvnv",
+    "type": "news",
+    "headline": "IU Announces 2027 World Tour After Health Hiatus",
+    "dek": "The acclaimed singer has officially revealed dates for her first international concert series in three years, featuring nineteen shows across ten cities in Asia and Australia.",
+    "body": [
+      {
+        "h": "Official Tour Announcement",
+        "p": [
+          "The renowned international music artist has formally shared plans for her upcoming global concert series, scheduled to run during the first half of 2027. The schedule encompasses nineteen performances spread across ten distinct metropolitan areas throughout Asia and Australia, marking a major return to international stages.",
+          "This announcement breaks a three-year gap since her previous major touring cycle. The initial sequence of shows begins in January and extends through May, covering multiple large-capacity venues in diverse regions."
+        ]
+      },
+      {
+        "h": "Schedule and City Breakdown",
+        "p": [
+          "The first leg of the tour kicks off in January 2027 with consecutive performances in Bangkok, Thailand, followed shortly by dates in Bulacan, Philippines. February brings stops in Kaohsiung, Taiwan, and Sydney, Australia, before moving into March with shows in Singapore and Kuala Lumpur, Malaysia.",
+          "April features performances in Tokyo, Japan, followed by a return to Taipei, Taiwan, and a stop in Hong Kong. The initial leg concludes in May with a two-night engagement in Jakarta, Indonesia."
+        ]
+      },
+      {
+        "h": "Health Background and Recovery",
+        "p": [
+          "The upcoming international run follows a prolonged break necessitated by health challenges. Originally, a major stadium concert and a sixth studio album were planned for late 2024, but those initiatives had to be postponed.",
+          "The delay was caused by a chronic ear condition known as patulous Eustachian tube dysfunction, which affects pitch control and presents significant difficulties for live vocal performance. Instead of pushing forward despite the ailment, the singer spent the intervening time prioritizing medical treatment and recovery."
+        ]
+      },
+      {
+        "h": "Historic Milestones and Scale",
+        "p": [
+          "The 2027 itinerary demonstrates a notable escalation in venue size compared to previous outings, shifting away from smaller arenas toward stadiums and domes. Notably, the Tokyo stop includes a performance at Tokyo Dome, establishing the artist as the first Korean female solo artist to headline the venue.",
+          "Additionally, markets like Sydney and Jakarta represent her first-ever headline shows in those specific locations. The broad geographic distribution across Southeast Asia, Australia, and East Asia highlights a deliberate worldwide strategy."
+        ]
+      },
+      {
+        "h": "Ticketing and Future Dates",
+        "p": [
+          "Specific pricing structures and general sale dates were not disclosed alongside the initial announcement. Organizers have indicated that ticketing information will be released individually for each city as the performance dates draw closer.",
+          "Fans in regions not included in the initial ten-city lineup may have future opportunities to attend, as reports confirm that additional cities and dates will be unveiled at a later time."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "The singer has announced her 2027 world tour spanning nineteen shows across ten cities in Asia and Australia from January to May, marking her first international tour in three years. This return follows a health-related postponement in 2024 due to patulous Eustachian tube dysfunction, culminating in a historic headlining appearance at Tokyo Dome."
+        ]
+      }
+    ],
+    "facts": [
+      "The world tour announcement was made on November 23 at midnight KST.",
+      "The tour features 19 shows across 10 cities in Asia and Australia.",
+      "The first leg runs from January through May 2027.",
+      "The first show is scheduled for January 16-17 in Bangkok, Thailand.",
+      "Sydney and Jakarta mark her first-ever headline shows in those specific markets.",
+      "The Tokyo stop makes her the first Korean female solo artist to headline Tokyo Dome."
+    ],
+    "entities": {
+      "people": [
+        "IU",
+        "Faiza Farheen"
+      ],
+      "titles": [
+        "HEREH World Tour",
+        "K-pop Comebacks Tours roundup",
+        "BIGBANG 'XX: COSMOS' World Tour guide",
+        "KPop Demon Hunters Tour 2027: Dates, Cities & Tickets (On Sale Now)",
+        "Best Korean Thrillers to Stream Right Now",
+        "Best K-Dramas to Watch Right Now (November 2026)"
+      ]
+    },
+    "keywords": [
+      "IU world tour 2027",
+      "IU tour dates cities",
+      "IU Tokyo Dome concert",
+      "IU comeback 2027"
+    ],
+    "images": [
+      {
+        "url": "https://showpulp.com/wp-content/uploads/2026/11/iu-resized.jpg",
+        "caption": "IU Announces 2027 World Tour After Health Hiatus",
+        "source": "ShowPulp"
+      }
+    ],
+    "published": "Fri, 27 Nov 2026 22:50:35 +0000"
   }
 };

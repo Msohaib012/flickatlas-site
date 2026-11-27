@@ -1,8 +1,8 @@
 {
   "connected": true,
-  "generated": "2026-11-27T22:01:52Z",
+  "generated": "2026-11-27T22:52:16Z",
   "realtime": {
-    "active_users": 1
+    "active_users": 0
   },
   "today": {
     "users": 0,
@@ -11,10 +11,10 @@
     "avg_session_seconds": 0
   },
   "last7": {
-    "users": 202,
-    "pageviews": 251,
-    "sessions": 209,
-    "avg_session_seconds": 23.4
+    "users": 205,
+    "pageviews": 254,
+    "sessions": 212,
+    "avg_session_seconds": 23.3
   },
   "top_pages": [
     {
@@ -26,8 +26,8 @@
     {
       "path": "/",
       "title": "Bollywood, World Cinema & Box Office | FlickAtlas",
-      "views": 17,
-      "avg_time_seconds": 19.4
+      "views": 18,
+      "avg_time_seconds": 20.3
     },
     {
       "path": "/person",
@@ -82,8 +82,8 @@
     {
       "source": "(direct)",
       "medium": "(none)",
-      "sessions": 186,
-      "users": 186
+      "sessions": 187,
+      "users": 187
     },
     {
       "source": "google",
@@ -98,6 +98,18 @@
       "users": 6
     },
     {
+      "source": "facebook.com",
+      "medium": "referral",
+      "sessions": 1,
+      "users": 1
+    },
+    {
+      "source": "instagram.com",
+      "medium": "referral",
+      "sessions": 1,
+      "users": 1
+    },
+    {
       "source": "m.facebook.com",
       "medium": "referral",
       "sessions": 1,
@@ -107,7 +119,7 @@
   "countries": [
     {
       "country": "United States",
-      "users": 71
+      "users": 72
     },
     {
       "country": "Brazil",
@@ -115,19 +127,19 @@
     },
     {
       "country": "India",
-      "users": 16
+      "users": 17
     },
     {
       "country": "Mexico",
       "users": 11
     },
     {
-      "country": "Vietnam",
+      "country": "China",
       "users": 9
     },
     {
-      "country": "China",
-      "users": 8
+      "country": "Vietnam",
+      "users": 9
     },
     {
       "country": "Russia",
@@ -149,11 +161,11 @@
   "devices": [
     {
       "device": "desktop",
-      "users": 176
+      "users": 178
     },
     {
       "device": "mobile",
-      "users": 26
+      "users": 27
     }
   ],
   "per_post": {}
