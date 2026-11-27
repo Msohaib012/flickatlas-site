@@ -403,7 +403,17 @@ const bollywood = Array.from({ length: 10 }, (_, i) => movieItem(`b${i}`, 'bolly
   { popularity: 100 - i, vote_count: 100 - i }));
 const world = Array.from({ length: 10 }, (_, i) => movieItem(`w${i}`, 'world', today,
   { popularity: 100 - i, vote_count: 100 - i }));
-const reports = Object.fromEntries([...bollywood, ...world].map((x, i) => [String(x.id), { last_7_days: directWeekly((i % 10 + 1) * 100) }]));
+const reports = Object.fromEntries([
+  // Bollywood keeps the daywise fallback (no figures guard): weekly-only
+  // reports are enough, and b9 still owns the largest weekly gross.
+  ...bollywood.map((x, i) => [String(x.id), { last_7_days: directWeekly((i % 10 + 1) * 100) }]),
+  // World figures guard (2026-11-14): a world title enters the pool only
+  // with a verified worldwide total. Totals are anti-correlated with
+  // popularity (w9 largest, w0 smallest) so the order assertion below
+  // still proves popularity decides, not figures.
+  ...world.map((x, i) => [String(x.id), { last_7_days: directWeekly((i % 10 + 1) * 100),
+    cumulative_total: direct('cumulative_total', (i + 1) * 1000000) }]),
+]);
 const picks = helper.selectHomeTitles([...bollywood, ...world], {}, {},
   { schema_version: 1, reports }, today, today, ui, { USD: 1 }, 8);
 assert.equal(picks.bollywood.length, 8);
@@ -412,6 +422,13 @@ assert.deepEqual(picks.bollywood.map(x => x.id), ['b0', 'b1', 'b2', 'b3', 'b4', 
   'popularity decides the order: b9 owns the largest weekly gross yet ranks last and misses the cut');
 assert.deepEqual(picks.world.map(x => x.id), ['w0', 'w1', 'w2', 'w3', 'w4', 'w5', 'w6', 'w7'],
   'collection figures never outrank TMDB popularity');
+// World figures guard (2026-11-14): with a populated snapshot, a world
+// title with no verified worldwide total stays out of the pool.
+const unproven = helper.selectHomeTitles(
+  [movieItem('w-unproven', 'world', today, { popularity: 999, vote_count: 999 })],
+  {}, {}, { schema_version: 1, reports }, today, today, ui, { USD: 1 }, 8);
+assert.equal(unproven.world.length, 0,
+  'a world title with no verified total is excluded while the snapshot is populated');
 const boundary = [
   movieItem('day14', 'bollywood', '2026-10-17', { vote_average: 1 }),
   movieItem('day15', 'bollywood', '2026-10-16', { vote_average: 99 }),

@@ -503,7 +503,7 @@ class WorldwideEvidenceTests(unittest.TestCase):
         self.assertNotIn("permissions:\n  contents: write", workflow)
         self.assertIn("group: flickatlas-home-boxoffice-worldwide", workflow)
         self.assertIn("python3 scripts/home_boxoffice_worldwide.py --run", workflow)
-        self.assertIn(f"HOME_BOXOFFICE_KV_NAMESPACE_ID: {bo.DEFAULT_NAMESPACE_ID}", workflow)
+        self.assertIn("HOME_BOXOFFICE_KV_NAMESPACE_ID: 57e209918e1b4fcfbf108c6b6a7cebdd", workflow)
         for forbidden in ("scripts/hourly-pipeline", "scripts/gemini_batch.py --", "git push", "cloudflare_deploy.py"):
             self.assertNotIn(forbidden, workflow_code)
         hourly = (ROOT / ".github/workflows/hourly-pipeline.yml").read_text()
@@ -512,7 +512,7 @@ class WorldwideEvidenceTests(unittest.TestCase):
         self.assertIn("steps.decide.outputs.run_home_worldwide == 'true'", hourly,
                       "the collector step is gated by the pipeline schedule decide step")
         self.assertIn("python3 scripts/home_boxoffice_worldwide.py --run", hourly)
-        self.assertIn(f"HOME_BOXOFFICE_KV_NAMESPACE_ID: {bo.DEFAULT_NAMESPACE_ID}", hourly)
+        self.assertIn("HOME_BOXOFFICE_KV_NAMESPACE_ID: 57e209918e1b4fcfbf108c6b6a7cebdd", hourly)
         self.assertIn("CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}", hourly,
                       "the KV write reuses the token the deploy step already receives")
         schedule = (ROOT / "scripts/pipeline_schedule.py").read_text()
@@ -522,7 +522,8 @@ class WorldwideEvidenceTests(unittest.TestCase):
 
     def test_namespace_id_matches_cloudflare_worker_deploy_binding(self):
         deploy = (ROOT / "scripts/cloudflare_deploy.py").read_text()
-        self.assertIn(f'HOME_BOXOFFICE_NAMESPACE_ID = "{bo.DEFAULT_NAMESPACE_ID}"', deploy)
+        self.assertIn(f'HOME_BOXOFFICE_NAMESPACE_ID = os.environ.get("FA_KV_HOME_BOXOFFICE_NAMESPACE_ID", "{bo.DEFAULT_NAMESPACE_ID}")', deploy,
+                      "deploy default binding must match the collector default; account-5 override comes from FA_KV_* env")
         self.assertEqual(bo.KV_KEY, "current")
         runner = (ROOT / "scripts/home_boxoffice_worldwide.py").read_text()
         self.assertIn("HOME_BOXOFFICE_KV_NAMESPACE_ID", runner)
