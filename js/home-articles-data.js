@@ -66,6 +66,47 @@ window.FA_HOME_ARTICLES = {
     ],
     "published": "2026-11-27T20:52:29Z"
   },
+  "1evl0v4": {
+    "id": "1evl0v4",
+    "type": "news",
+    "headline": "Ben Stiller Praises Ariana Grande in Focker-in-Law and Open to a Fifth Film",
+    "dek": "Ben Stiller opens up about working with Ariana Grande in Focker-in-Law, her standout performance, and whether a fifth movie in the franchise could happen.",
+    "entities": {
+      "people": [
+        "Ben Stiller",
+        "Ariana Grande",
+        "Skyler Gisondo",
+        "Robert De Niro",
+        "Frank Scheck",
+        "John Legend",
+        "Beanie Feldstein",
+        "John Hamburg",
+        "Teri Polo",
+        "Eduardo Franco"
+      ],
+      "titles": [
+        "Focker-in-Law",
+        "Meet the Parents",
+        "Little Fockers",
+        "Wicked",
+        "All of Me"
+      ]
+    },
+    "keywords": [
+      "Focker-in-Law film",
+      "Ben Stiller Focker-in-Law",
+      "Ariana Grande Focker-in-Law",
+      "John Hamburg Focker-in-Law"
+    ],
+    "images": [
+      {
+        "url": "https://www.hollywoodreporter.com/wp-content/uploads/2026/11/GettyImages-2305798027-H-2026.jpg?w=1296&#038;h=730&#038;crop=1",
+        "caption": "Ben Stiller Praises Ariana Grande in Focker-in-Law and Open to a Fifth Film",
+        "source": "The Hollywood Reporter"
+      }
+    ],
+    "published": "Fri, 27 Nov 2026 20:26:09 +0000"
+  },
   "1tpoqgj": {
     "id": "1tpoqgj",
     "type": "news",
@@ -178,6 +219,109 @@ window.FA_HOME_ARTICLES = {
       }
     ],
     "published": "Fri, 27 Nov 2026 20:08:12 GMT"
+  },
+  "1ls28e": {
+    "id": "1ls28e",
+    "type": "news",
+    "headline": "The Remarried Empress Reaches Its Dramatic Conclusion in Episodes 9-10",
+    "dek": "As the fantasy series wraps up its run with Episodes 9 and 10, Navier secures her divorce, accepts Heinrey's proposal, and escapes the Eastern Empire.",
+    "entities": {
+      "people": [
+        "Navier",
+        "Heinrey",
+        "Sovieshu",
+        "Rashta",
+        "Lady Albani",
+        "Viscount Lotteshu",
+        "McKenna",
+        "Eliza",
+        "Kim Hong-Pa",
+        "Yoon Joo-sang",
+        "Nam Yoon-ho",
+        "DaebakGrits"
+      ],
+      "titles": [
+        "The Remarried Empress"
+      ]
+    },
+    "keywords": [
+      "The Remarried Empress",
+      "Navier Heinrey divorce",
+      "Sovieshu Rashta plot",
+      "The Remarried Empress final episodes"
+    ],
+    "images": [
+      {
+        "url": "https://dramabeans.com/wp-content/uploads/2026/11/RemarriedEmpress9-10_00.jpg",
+        "caption": "The Remarried Empress Reaches Its Dramatic Conclusion in Episodes 9-10",
+        "source": "Dramabeans"
+      }
+    ],
+    "published": "Fri, 27 Nov 2026 20:00:57 +0000"
+  },
+  "14aeaci": {
+    "id": "14aeaci",
+    "type": "news",
+    "headline": "Bigg Boss 20 Episode 83 Highlights: Kanika Mann Wins Captaincy After Gullu and Scout's Verdict",
+    "dek": "Kanika Mann clinches the captaincy position in Bigg Boss 20 following a measuring task and a crucial decision made by Gullu and Scout.",
+    "entities": {
+      "people": [
+        "Kanika Mann",
+        "Gullu",
+        "Scout"
+      ],
+      "titles": [
+        "Bigg Boss 20",
+        "Naagin 7"
+      ]
+    },
+    "keywords": [
+      "Bigg Boss 20",
+      "Kanika Mann",
+      "Bigg Boss 20 Episode 83",
+      "Naagin 7"
+    ],
+    "images": [
+      {
+        "url": "https://images.filmibeat.com/img/2026/11/biggboss20kanikamannprincenarula-56841795809295.jpg",
+        "caption": "Bigg Boss 20 Episode 83 Highlights: Kanika Mann Wins Captaincy After Gullu and Scout's Verdict",
+        "source": "FilmiBeat"
+      }
+    ],
+    "published": "Sat, 28 Nov 2026 01:27:53 +0530"
+  },
+  "1j46we": {
+    "id": "1j46we",
+    "type": "news",
+    "headline": "Gaurav Khanna Shares Fun Behind-the-Scenes Secret About Shraddha Arya on Dil Ki Bewafaiyaan Set",
+    "dek": "Television actors Gaurav Khanna and Shraddha Arya are winning hearts in the Star Plus romantic family drama Dil Ki Bewafaiyaan, while their playful off-screen dynamic captures fan attention.",
+    "entities": {
+      "people": [
+        "Gaurav Khanna",
+        "Shraddha Arya",
+        "Ektaa Kapoor",
+        "Manav",
+        "Janaki"
+      ],
+      "titles": [
+        "Dil Ki Bewafaiyaan"
+      ]
+    },
+    "keywords": [
+      "Gaurav Khanna",
+      "Shraddha Arya",
+      "Dil Ki Bewafaiyaan",
+      "Ektaa Kapoor",
+      "Manav and Janaki"
+    ],
+    "images": [
+      {
+        "url": "https://images.filmibeat.com/img/2026/11/dilkibewafaiyaanshraddhaaryagauravkhanna-41271795808844.jpg",
+        "caption": "Gaurav Khanna Shares Fun Behind-the-Scenes Secret About Shraddha Arya on Dil Ki Bewafaiyaan Set",
+        "source": "FilmiBeat"
+      }
+    ],
+    "published": "Sat, 28 Nov 2026 01:20:04 +0530"
   },
   "ecg8ci": {
     "id": "ecg8ci",
@@ -4506,53 +4650,6 @@ window.FA_HOME_ARTICLES = {
     ],
     "published": "Thu, 26 Nov 2026 15:15:12 GMT"
   },
-  "b8f8rq": {
-    "id": "b8f8rq",
-    "type": "news",
-    "headline": "Ramayana: Part 1 Nears Rs 180 Crore in Karnataka After Strong Third Week",
-    "dek": "The mythological epic featuring Ranbir Kapoor and Yash continues its theatrical run, closing in on the Rs 180 crore milestone in Karnataka after twenty-one days.",
-    "entities": {
-      "people": [
-        "Jerin Georgekutty",
-        "Ranbir Kapoor",
-        "Yash",
-        "Nitesh Tiwari",
-        "Sai Pallavi",
-        "Ravi Dubey",
-        "Sunny Deol",
-        "Anupam Kher",
-        "Kajal Aggarwal",
-        "Rakul Preet Singh",
-        "Vivek Oberoi",
-        "Kunal Kapoor",
-        "Adinath Kothare",
-        "Arun Govil",
-        "Indira Krishnan",
-        "Lara Dutta",
-        "Namit Malhotra",
-        "Shridhar Raghavan",
-        "Hans Zimmer",
-        "A. R. Rahman"
-      ],
-      "titles": [
-        "Ramayana: Part 1"
-      ]
-    },
-    "keywords": [
-      "Ramayana Karnataka box office collection",
-      "Ramayana Part 1 day 21 collection",
-      "Ranbir Kapoor Yash Ramayana movie",
-      "Ramayana Kannada version box office"
-    ],
-    "images": [
-      {
-        "url": "https://images.filmibeat.com/img/2026/11/ramayana-23001795705608.jpg",
-        "caption": "Ramayana: Part 1 Nears Rs 180 Crore in Karnataka After Strong Third Week",
-        "source": "FilmiBeat"
-      }
-    ],
-    "published": "Thu, 26 Nov 2026 20:40:19 +0530"
-  },
   "1ltcmfz": {
     "id": "1ltcmfz",
     "type": "news",
@@ -4593,42 +4690,47 @@ window.FA_HOME_ARTICLES = {
     ],
     "published": "2026-11-26T15:00:30Z"
   },
-  "pyzcrh": {
-    "id": "pyzcrh",
+  "fnif5a": {
+    "id": "fnif5a",
     "type": "news",
-    "headline": "Legal Representatives of Shah Rukh Khan Clarify False Defamation Claims",
-    "dek": "Hirani Associates refute online rumors regarding a fake legal notice targeting an internet content creator over a viral video.",
+    "headline": "Laxman Utekar Backs Shraddha Kapoor's Eetha to Set a World Record Amid Box Office Clash With Salman Khan's Maatrubhumi",
+    "dek": "Director Laxman Utekar remains confident that the Shraddha Kapoor starrer Eetha will achieve unprecedented success despite a theatrical box office collision with Salman Khan's Maatrubhumi.",
     "entities": {
       "people": [
+        "Laxman Utekar",
+        "Shraddha Kapoor",
+        "Salman Khan",
         "Shah Rukh Khan",
-        "Suvigya Sharma",
-        "Anant Ambani",
-        "Sadhguru",
-        "Siddharth Anand",
-        "Suhana Khan",
-        "Deepika Padukone",
-        "Abhishek Bachchan",
-        "Rani Mukerji"
+        "Randeep Hooda",
+        "Mohd Zeeshan Ayyub",
+        "Siddharth Jadhav",
+        "Anant V Joshi",
+        "Dinesh Vijan",
+        "Karishma Sharma",
+        "Tanmayi Savadi"
       ],
       "titles": [
-        "King"
+        "Eetha",
+        "Maatrubhumi",
+        "King",
+        "Tamasha: Vithabaichya Aayushyacha"
       ]
     },
     "keywords": [
-      "Shah Rukh Khan",
-      "Hirani Associates",
-      "Suvigya Sharma",
-      "Global Peace Honours 2026",
-      "King"
+      "Eetha film",
+      "Shraddha Kapoor Eetha",
+      "Laxman Utekar Eetha",
+      "Maatrubhumi Salman Khan",
+      "Eetha vs Maatrubhumi clash"
     ],
     "images": [
       {
-        "url": "https://stat4.bollywoodhungama.in/wp-content/uploads/2026/11/Legal-team-of-Shah-Rukh-Khan-deny-issuing-defamation-notice-to-content-creator-over-viral-Sadhguru-video.jpg",
-        "caption": "Legal Representatives of Shah Rukh Khan Clarify False Defamation Claims",
-        "source": "Bollywood Hungama"
+        "url": "https://images.timesnownews.com/thumb/msid-156564764,thumbsize-668012,width-1280,height-720,resizemode-75/156564764.jpg",
+        "caption": "Laxman Utekar Backs Shraddha Kapoor's Eetha to Set a World Record Amid Box Office Clash With Salman Khan's Maatrubhumi",
+        "source": "Times Now — Entertainment"
       }
     ],
-    "published": "Thu, 26 Nov 2026 16:25:15 +0200"
+    "published": "2026-11-25T23:52:37Z"
   },
   "1ihedvj": {
     "id": "1ihedvj",
@@ -4738,43 +4840,6 @@ window.FA_HOME_ARTICLES = {
       }
     ],
     "published": "Wed, 25 Nov 2026 03:45:57 +0000"
-  },
-  "m1wl3e": {
-    "id": "m1wl3e",
-    "type": "news",
-    "headline": "Ariana Grande Brings The Eternal Sunshine Tour And Documentary To Peacock",
-    "dek": "Fans are thrilled and surprised as Ariana Grande announces a two-part streaming event on Peacock, featuring her recent tour and a behind-the-scenes documentary.",
-    "entities": {
-      "people": [
-        "Ariana Grande",
-        "Jonathan Bailey",
-        "Robert De Niro"
-      ],
-      "titles": [
-        "Eternal Sunshine Tour",
-        "The eternal sunshine diaries: the making of the tour",
-        "the eternal sunshine tour",
-        "Petal",
-        "Focker-In-Law",
-        "Meet The Parents",
-        "Sunday in the Park With George",
-        "American Horror Story"
-      ]
-    },
-    "keywords": [
-      "Ariana Grande Eternal Sunshine Tour",
-      "Peacock streaming concert special",
-      "the making of the tour documentary",
-      "Ariana Grande Petal album"
-    ],
-    "images": [
-      {
-        "url": "https://cdn.mos.cms.futurecdn.net/gizz3GGShKPipznYk6Pqc5-2000-80.png",
-        "caption": "Ariana Grande Brings The Eternal Sunshine Tour And Documentary To Peacock",
-        "source": "CinemaBlend"
-      }
-    ],
-    "published": "Tue, 24 Nov 2026 20:38:11 +0000"
   },
   "1ypg7z1": {
     "id": "1ypg7z1",
@@ -5092,6 +5157,50 @@ window.FA_HOME_ARTICLES = {
     ],
     "published": "2026-11-22T15:00:16Z"
   },
+  "bdw24p": {
+    "id": "bdw24p",
+    "type": "news",
+    "headline": "Jumanji: Open World Worldwide Box Office Journey: What It Needs To Top Dwayne Johnson's All-Time Best",
+    "dek": "As Jumanji: Open World gears up for release, the film faces a monumental global target to surpass Dwayne Johnson's highest-grossing career milestone.",
+    "entities": {
+      "people": [
+        "Dwayne Johnson",
+        "Jack Black",
+        "James Wan",
+        "Paul Walker",
+        "Vin Diesel",
+        "Michelle Rodriguez",
+        "Tyrese Gibson",
+        "Ludacris",
+        "Jordana Brewster",
+        "Djimon Hounsou",
+        "Kurt Russell",
+        "Jason Statham"
+      ],
+      "titles": [
+        "Jumanji: Open World",
+        "Furious 7",
+        "Fast Furious 6",
+        "Jumanji: Welcome to the Jungle",
+        "Avengers: Doomsday",
+        "Dune 3"
+      ]
+    },
+    "keywords": [
+      "Jumanji Open World",
+      "Dwayne Johnson highest grossing film",
+      "Furious 7 box office",
+      "Jumanji Open World release date"
+    ],
+    "images": [
+      {
+        "url": "https://www.koimoi.com/wp-content/new-galleries/2026/11/jumanji-open-world-box-office-can-dwayne-johnsons-upcoming-film-beat-his-biggest-global-hit-0001.jpg",
+        "caption": "Jumanji: Open World Worldwide Box Office Journey: What It Needs To Top Dwayne Johnson's All-Time Best",
+        "source": "Koimoi"
+      }
+    ],
+    "published": "Sat, 21 Nov 2026 17:50:15 +0000"
+  },
   "1pqbmve": {
     "id": "1pqbmve",
     "type": "news",
@@ -5293,63 +5402,6 @@ window.FA_HOME_ARTICLES = {
       }
     ],
     "published": "2026-11-21T14:45:06Z"
-  },
-  "k4xkah": {
-    "id": "k4xkah",
-    "type": "news",
-    "headline": "MAMAMOO Member Moon Byul Sells Out Solo Birthday Fan Meeting Tickets in Five Minutes",
-    "dek": "Moon Byul of MAMAMOO proved her immense ticket-selling power by clearing all available seats for her upcoming solo birthday fan meeting in record time.",
-    "entities": {
-      "people": [
-        "Moon Byul"
-      ],
-      "titles": [
-        "BDAY OFF THE RECORD : 1222",
-        "MAMAMOO"
-      ]
-    },
-    "keywords": [
-      "Moon Byul solo birthday fan meeting tickets",
-      "MAMAMOO Moon Byul fan meeting sold out",
-      "Moon Byul BDAY OFF THE RECORD",
-      "Moon Byul fan meeting five minutes"
-    ],
-    "images": [],
-    "published": "Fri, 20 Nov 2026 21:00:00 EST"
-  },
-  "r22llq": {
-    "id": "r22llq",
-    "type": "news",
-    "headline": "Melania Trump Discusses Ukraine Ceasefire at New York Screening for Amazon Follow-Up Series",
-    "dek": "The first lady addressed the Oleshky ceasefire and her broader humanitarian efforts during the premiere event for the two-episode streaming extension at Lincoln Center.",
-    "entities": {
-      "people": [
-        "Melania Trump",
-        "Brett Ratner",
-        "Marc Beckman",
-        "Fernando Sulichin",
-        "Kellyanne Conway",
-        "Hervé Pierre"
-      ],
-      "titles": [
-        "Melania: The Series",
-        "Melania"
-      ]
-    },
-    "keywords": [
-      "Melania Trump Melania The Series",
-      "Melania Trump Amazon Prime Video",
-      "Melania Trump Ukraine ceasefire",
-      "Melania Trump Lincoln Center premiere"
-    ],
-    "images": [
-      {
-        "url": "https://www.hollywoodreporter.com/wp-content/uploads/2026/11/GettyImages-2306006993.jpg?crop=0px%2C132px%2C5400px%2C3022px&#038;resize=1440%2C810",
-        "caption": "Melania Trump Discusses Ukraine Ceasefire at New York Screening for Amazon Follow-Up Series",
-        "source": "The Hollywood Reporter"
-      }
-    ],
-    "published": "Fri, 20 Nov 2026 22:38:05 +0000"
   },
   "f4xobf": {
     "id": "f4xobf",

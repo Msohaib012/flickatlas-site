@@ -267728,5 +267728,378 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Fri, 27 Nov 2026 20:08:12 GMT"
+  },
+  "14aeaci": {
+    "id": "14aeaci",
+    "type": "news",
+    "headline": "Bigg Boss 20 Episode 83 Highlights: Kanika Mann Wins Captaincy After Gullu and Scout's Verdict",
+    "dek": "Kanika Mann clinches the captaincy position in Bigg Boss 20 following a measuring task and a crucial decision made by Gullu and Scout.",
+    "body": [
+      {
+        "h": "Unrelenting Drama in the House",
+        "p": [
+          "The intensity inside the Bigg Boss 20 house remains exceptionally high as contestants constantly battle for power and survival. Episode 83 delivered a fresh wave of entertainment and conflict as the latest captaincy task unfolded across the premises.",
+          "Housemates threw themselves into the competition with complete dedication, hoping to outsmart their rivals and claim the prestigious leadership role. The race for supreme authority triggered new strategic alliances and intense rivalries among the participants."
+        ]
+      },
+      {
+        "h": "Kanika Mann Emerges Victorious",
+        "p": [
+          "Kanika Mann has successfully secured the captaincy title once again, marking a major milestone in her reality television journey. The Naagin 7 star demonstrated remarkable consistency and resilience throughout the demanding task.",
+          "Facing stiff competition and high-pressure challenges, the actress managed to outshine her peers. Her ability to stay focused under stress ultimately paved the way for her triumphant return to leadership."
+        ]
+      },
+      {
+        "h": "The Mechanics of the Measuring Task",
+        "p": [
+          "The focal point of the captaincy battle was a measuring-based challenge that tested the physical and mental endurance of the competitors. Every participant had to calculate their moves carefully to stay ahead in the race.",
+          "Navigating the complex rules of the task required patience and sharp presence of mind. Kanika handled the obstacles proficiently, ensuring she remained a strong contender until the very end of the competition."
+        ]
+      },
+      {
+        "h": "The Decisive Role of Gullu and Scout",
+        "p": [
+          "The ultimate outcome of the captaincy race hinged heavily on a major verdict delivered by Gullu and Scout. Their collective judgment shifted the dynamics of the game entirely.",
+          "Following their majority decision, Kanika was officially handed the reins of the house. This pivotal turning point proved that external evaluations and strategic choices can completely rewrite a contestant's fate."
+        ]
+      },
+      {
+        "h": "A Stronger Foothold in the Game",
+        "p": [
+          "Securing this new leadership stint significantly strengthens Kanika Mann's position inside the Bigg Boss 20 house. Her gameplay has consistently highlighted her willingness to take on tough challenges and voice her opinions clearly.",
+          "Even when faced with unfavorable odds, she has managed to turn critical opportunities into major achievements. This latest victory adds another noteworthy chapter to her overall journey on the program."
+        ]
+      },
+      {
+        "h": "Navigating New Responsibilities",
+        "p": [
+          "Holding the captaincy brings a fresh wave of responsibilities, expectations, and administrative pressures. Managing the diverse personalities inside the house will test Kanika's diplomatic skills.",
+          "Viewers are eager to observe how she handles the shifting house dynamics and whether she can maintain harmony while asserting her authority during her new tenure."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Kanika Mann has become the new captain of the Bigg Boss 20 house in Episode 83 following a measuring task. Her victory was finalized through a majority decision by Gullu and Scout, strengthening her position in the game."
+        ]
+      }
+    ],
+    "facts": [
+      "Kanika Mann became the new captain of Bigg Boss 20 in Episode 83.",
+      "The captaincy task revolved around measuring.",
+      "Gullu and Scout made the majority decision to make Kanika captain.",
+      "Kanika Mann is a star from Naagin 7.",
+      "The story was published on Saturday, November 28, 2026."
+    ],
+    "entities": {
+      "people": [
+        "Kanika Mann",
+        "Gullu",
+        "Scout"
+      ],
+      "titles": [
+        "Bigg Boss 20",
+        "Naagin 7"
+      ]
+    },
+    "keywords": [
+      "Bigg Boss 20",
+      "Kanika Mann",
+      "Bigg Boss 20 Episode 83",
+      "Naagin 7"
+    ],
+    "images": [
+      {
+        "url": "https://images.filmibeat.com/img/2026/11/biggboss20kanikamannprincenarula-56841795809295.jpg",
+        "caption": "Bigg Boss 20 Episode 83 Highlights: Kanika Mann Wins Captaincy After Gullu and Scout's Verdict",
+        "source": "FilmiBeat"
+      }
+    ],
+    "published": "Sat, 28 Nov 2026 01:27:53 +0530"
+  },
+  "1ls28e": {
+    "id": "1ls28e",
+    "type": "news",
+    "headline": "The Remarried Empress Reaches Its Dramatic Conclusion in Episodes 9-10",
+    "dek": "As the fantasy series wraps up its run with Episodes 9 and 10, Navier secures her divorce, accepts Heinrey's proposal, and escapes the Eastern Empire.",
+    "body": [
+      {
+        "h": "Journey to the Western Empire",
+        "p": [
+          "As the series nears its conclusion, Navier travels to the Western Empire where Heinrey personally greets her ahead of his coronation ceremony. Her presence highlights the growing trade and political alliances linking the two territories.",
+          "While navigating the local aristocracy and winning over supportive cabinet members, Navier also finds a moment of quiet connection with Heinrey during a late-night walk, confiding in him about Sovieshu's secret divorce plans."
+        ]
+      },
+      {
+        "h": "Coronation and Proposal",
+        "p": [
+          "Heinrey delivers an inspiring coronation address promising peace and equality, though the show leaves certain aspects of the kingdom's history and social struggles underexplored.",
+          "Following the ceremony, Heinrey takes Navier to a balcony overlooking the crowds and proposes marriage. Navier happily accepts the offer, cementing their partnership before the eyes of both empires."
+        ]
+      },
+      {
+        "h": "Rashta's Machinations",
+        "p": [
+          "Meanwhile, Rashta pushes forward with her own ruthless agenda in the Eastern Empire, eager to secure her path to becoming empress and protect her unborn child's claim to the throne.",
+          "She instructs Lady Albani to eliminate potential threats, including Viscount Lotteshu, while successfully tricking Sovieshu into believing a missing ring was simply misplaced by a careless maid."
+        ]
+      },
+      {
+        "h": "The Divorce Court Showdown",
+        "p": [
+          "Sovieshu assembles fabricated evidence to support his claims against Navier in court, complete with dramatic presentations from legal teams. Navier arrives wearing a striking red dress and declines to contest the proceedings.",
+          "When the court magistrate asks if she has any final requests, Navier calmly asks for approval to remarry. Heinrey then makes a dramatic entrance to stand beside her, leaving Sovieshu furious and completely blindsided."
+        ]
+      },
+      {
+        "h": "Sovieshu's Miscalculated Gamble",
+        "p": [
+          "It becomes clear that Sovieshu never intended for the divorce to be permanent, planning instead to marry Rashta temporarily before eventually attempting to win Navier back.",
+          "His failure to communicate this strategy destroys whatever trust remained, leading him to fly into a rage and place Navier under house arrest while arresting Heinrey."
+        ]
+      },
+      {
+        "h": "Assassination Plots and Escape",
+        "p": [
+          "Lady Albani and her imprisoned husband plot to assassinate Heinrey while he is locked in an Eastern Empire prison, hoping to trigger an international war and overthrow Sovieshu.",
+          "The assassination attempt fails when Heinrey uses his ability to transform into a bird and escape through a window, rendezvousing with McKenna and reuniting with Navier for a daring escape."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "The final episodes of the fantasy drama bring Navier and Heinrey together as they successfully break away from the Eastern Empire following a dramatic courtroom confrontation. Meanwhile, Rashta and secondary conspirators face unraveling plots as the narrative concludes."
+        ]
+      }
+    ],
+    "facts": [
+      "Navier travels to the Western Empire in the final episodes.",
+      "Heinrey proposes to Navier on a balcony following his coronation.",
+      "Sovieshu plans to divorce Navier temporarily to marry Rashta.",
+      "Navier appears in court wearing a beaded red dress and does not contest the divorce.",
+      "Heinrey escapes imprisonment by transforming into a bird."
+    ],
+    "entities": {
+      "people": [
+        "Navier",
+        "Heinrey",
+        "Sovieshu",
+        "Rashta",
+        "Lady Albani",
+        "Viscount Lotteshu",
+        "McKenna",
+        "Eliza",
+        "Kim Hong-Pa",
+        "Yoon Joo-sang",
+        "Nam Yoon-ho",
+        "DaebakGrits"
+      ],
+      "titles": [
+        "The Remarried Empress"
+      ]
+    },
+    "keywords": [
+      "The Remarried Empress",
+      "Navier Heinrey divorce",
+      "Sovieshu Rashta plot",
+      "The Remarried Empress final episodes"
+    ],
+    "images": [
+      {
+        "url": "https://dramabeans.com/wp-content/uploads/2026/11/RemarriedEmpress9-10_00.jpg",
+        "caption": "The Remarried Empress Reaches Its Dramatic Conclusion in Episodes 9-10",
+        "source": "Dramabeans"
+      }
+    ],
+    "published": "Fri, 27 Nov 2026 20:00:57 +0000"
+  },
+  "1evl0v4": {
+    "id": "1evl0v4",
+    "type": "news",
+    "headline": "Ben Stiller Praises Ariana Grande in Focker-in-Law and Open to a Fifth Film",
+    "dek": "Ben Stiller opens up about working with Ariana Grande in Focker-in-Law, her standout performance, and whether a fifth movie in the franchise could happen.",
+    "body": [
+      {
+        "h": "The Return of the Focker Family",
+        "p": [
+          "Audiences are heading back to the theater to catch the latest chapter in a long-running comedy series. Sixteen years after Little Fockers made its theatrical debut, a fourth installment titled Focker-in-Law has officially launched.",
+          "Released by Universal and Paramount Pictures, the new movie brings back familiar faces while introducing fresh additions to the famous family tree during a holiday celebration."
+        ]
+      },
+      {
+        "h": "Ariana Grande Joins the Cast",
+        "p": [
+          "Pop superstar Ariana Grande has joined the ensemble as Olivia, a former FBI hostage negotiator. In the film, she accompanies her boyfriend Henry Focker to a family gathering celebrating his grandfather Jack's 80th birthday.",
+          "Her performance has quickly drawn strong praise from critics. Reviewers highlighted her ability to hold her own alongside more experienced cast members, displaying sharp deadpan comedy and steady composure."
+        ]
+      },
+      {
+        "h": "Ben Stiller on Working With Grande",
+        "p": [
+          "Ben Stiller, who returns as Greg Focker, shared high praise for his new co-star. He noted that her talent surpassed his expectations, particularly regarding her precise comic timing and grasp of a very specific character.",
+          "Stiller also mentioned how wonderful she was to collaborate with on set, describing her as a genuinely kind person who is fun to hang out with behind the scenes."
+        ]
+      },
+      {
+        "h": "A Memorable Serenade Scene",
+        "p": [
+          "One particular moment in the production put Stiller in a unique situation. His character attempts to derail Henry's romantic proposal by singing John Legend's track All of Me directly to Jack in front of the entire family.",
+          "Performing the tune while a Grammy-winning music superstar watched closely made for an interesting day on set. Stiller noted that Grande remained extremely supportive, sweet, and generous throughout the sequence."
+        ]
+      },
+      {
+        "h": "Praise From Fellow Co-Stars",
+        "p": [
+          "Co-star Beanie Feldstein, who portrays Henry's sister Samantha in the comedy, also shared glowing remarks about working alongside the pop icon. Feldstein called her an absolute tour de force and expressed deep admiration for her.",
+          "The strong chemistry among the ensemble cast has been a notable talking point as audiences experience the family dynamics unfold on the big screen."
+        ]
+      },
+      {
+        "h": "Could a Fifth Film Happen?",
+        "p": [
+          "With the overarching franchise having spanned 26 years, conversations have naturally turned toward the future. Director John Hamburg's latest entry may not necessarily be the final word for the series.",
+          "Stiller admitted that if moviegoers demand another story, there is likely another narrative left to tell. When asked personally if he would return, he confirmed without hesitation that he would definitely do a fifth movie."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Ben Stiller and Ariana Grande star in the newly released comedy film Focker-in-Law, which marks the fourth installment in the long-running franchise. Stiller offered high praise for Grande's acting abilities and indicated he would gladly return for a fifth movie if audiences desire it."
+        ]
+      }
+    ],
+    "facts": [
+      "Focker-in-Law is the fourth installment in the Meet the Parents franchise.",
+      "Little Fockers was released 16 years prior to Focker-in-Law.",
+      "Universal and Paramount Pictures released Focker-in-Law.",
+      "Ariana Grande plays Olivia, a former FBI hostage negotiator.",
+      "Skyler Gisondo plays Henry Focker.",
+      "Ben Stiller plays Greg Focker.",
+      "Robert De Niro plays Jack.",
+      "Jack's 80th birthday is celebrated in the film.",
+      "Frank Scheck is a critic for The Hollywood Reporter.",
+      "Ariana Grande earned an Oscar nomination for best supporting actress at the 97th Academy Awards for Wicked.",
+      "Ben Stiller sings John Legend's All of Me in the film.",
+      "Beanie Feldstein plays Samantha, Henry's sister.",
+      "John Hamburg wrote, directed, and produced Focker-in-Law.",
+      "The Fockerverse has spanned 26 years."
+    ],
+    "entities": {
+      "people": [
+        "Ben Stiller",
+        "Ariana Grande",
+        "Skyler Gisondo",
+        "Robert De Niro",
+        "Frank Scheck",
+        "John Legend",
+        "Beanie Feldstein",
+        "John Hamburg",
+        "Teri Polo",
+        "Eduardo Franco"
+      ],
+      "titles": [
+        "Focker-in-Law",
+        "Meet the Parents",
+        "Little Fockers",
+        "Wicked",
+        "All of Me"
+      ]
+    },
+    "keywords": [
+      "Focker-in-Law film",
+      "Ben Stiller Focker-in-Law",
+      "Ariana Grande Focker-in-Law",
+      "John Hamburg Focker-in-Law"
+    ],
+    "images": [
+      {
+        "url": "https://www.hollywoodreporter.com/wp-content/uploads/2026/11/GettyImages-2305798027-H-2026.jpg?w=1296&#038;h=730&#038;crop=1",
+        "caption": "Ben Stiller Praises Ariana Grande in Focker-in-Law and Open to a Fifth Film",
+        "source": "The Hollywood Reporter"
+      }
+    ],
+    "published": "Fri, 27 Nov 2026 20:26:09 +0000"
+  },
+  "1j46we": {
+    "id": "1j46we",
+    "type": "news",
+    "headline": "Gaurav Khanna Shares Fun Behind-the-Scenes Secret About Shraddha Arya on Dil Ki Bewafaiyaan Set",
+    "dek": "Television actors Gaurav Khanna and Shraddha Arya are winning hearts in the Star Plus romantic family drama Dil Ki Bewafaiyaan, while their playful off-screen dynamic captures fan attention.",
+    "body": [
+      {
+        "h": "Introduction to a Fresh On-Screen Pairing",
+        "p": [
+          "The pairing of television actors Gaurav Khanna and Shraddha Arya in the Star Plus series Dil Ki Bewafaiyaan has quickly become a prominent talking point among daily soap viewers. Marking their very first project working together, the two lead actors step into the roles of Manav and Janaki, a married couple who navigate the complex layers of love, expectations, and emotional distance in their relationship.",
+          "Backed by producer Ektaa Kapoor, the romantic family drama has successfully found strong traction across social media platforms. Audiences frequently share and discuss viral clips highlighting the duo's playful exchanges and warm domestic moments within the narrative."
+        ]
+      },
+      {
+        "h": "Exploring Midlife Companionship on Television",
+        "p": [
+          "A major part of the show's growing appeal stems from its exploration of a familiar yet relatively less explored space within the landscape of Indian television. Rather than focusing entirely on young romance, the narrative centers on midlife companionship.",
+          "Viewers are drawn to the realistic depiction of the different ways mature individuals understand happiness, compromise, and fulfillment within the institution of marriage."
+        ]
+      },
+      {
+        "h": "Gaurav Khanna Reveals a Fun Set Secret",
+        "p": [
+          "While the lead actors regularly handle heavy, emotionally charged dramatic sequences in front of the camera, Gaurav Khanna recently shared a lighter, humorous detail from their working environment.",
+          "Speaking candidly about his working equation with his co-star, Gaurav noted that Shraddha possesses a youthful spirit, stating that she has a child inside her and remains a child at heart."
+        ]
+      },
+      {
+        "h": "Catered Treats for Better Performances",
+        "p": [
+          "Elaborating further on how he manages this playful energy during long shooting schedules, Gaurav explained that he sometimes has to cater to the inner child of his co-star to help her deliver optimal results.",
+          "He remarked that feeding her specific evening snacks—such as chips and baked or fried items that she genuinely enjoys—helps set the right mood so that she can perform her best scenes effortlessly."
+        ]
+      },
+      {
+        "h": "Enhancing Natural On-Screen Chemistry",
+        "p": [
+          "This lighthearted behind-the-scenes revelation has added a warm, endearing layer to the show's rising popularity among dedicated fans and television critics alike.",
+          "For the audience members closely following the turbulent yet endearing journey of Manav and Janaki, the easy comfort and camaraderie shared between Gaurav and Shraddha off the camera clearly contribute to making their on-screen chemistry feel much more natural and believable."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Gaurav Khanna and Shraddha Arya star as the married couple Manav and Janaki in the Star Plus romantic family drama Dil Ki Bewafaiyaan, backed by Ektaa Kapoor. Gaurav recently shared that he handles Shraddha's playful, child-like nature on set by offering her favorite snacks in the evening, which helps them deliver their best performances together."
+        ]
+      }
+    ],
+    "facts": [
+      "Gaurav Khanna and Shraddha Arya star in Dil Ki Bewafaiyaan",
+      "Dil Ki Bewafaiyaan airs on Star Plus",
+      "The show is backed by Ektaa Kapoor",
+      "Gaurav Khanna and Shraddha Arya play the married couple Manav and Janaki"
+    ],
+    "entities": {
+      "people": [
+        "Gaurav Khanna",
+        "Shraddha Arya",
+        "Ektaa Kapoor",
+        "Manav",
+        "Janaki"
+      ],
+      "titles": [
+        "Dil Ki Bewafaiyaan"
+      ]
+    },
+    "keywords": [
+      "Gaurav Khanna",
+      "Shraddha Arya",
+      "Dil Ki Bewafaiyaan",
+      "Ektaa Kapoor",
+      "Manav and Janaki"
+    ],
+    "images": [
+      {
+        "url": "https://images.filmibeat.com/img/2026/11/dilkibewafaiyaanshraddhaaryagauravkhanna-41271795808844.jpg",
+        "caption": "Gaurav Khanna Shares Fun Behind-the-Scenes Secret About Shraddha Arya on Dil Ki Bewafaiyaan Set",
+        "source": "FilmiBeat"
+      }
+    ],
+    "published": "Sat, 28 Nov 2026 01:20:04 +0530"
   }
 };
