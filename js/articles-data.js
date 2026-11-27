@@ -174086,13 +174086,20 @@ window.FA_ARTICLES = {
           "Bano Episode 34 aired on 2026-11-17 on Geo TV. The full episode is available on the channel's official YouTube page.",
           "Watch the full episode here: https://www.youtube.com/watch?v=-YMdzDwLT8M"
         ]
+      },
+      {
+        "h": "Episode Summary",
+        "p": [
+          "Is episode mein Murtaza, Shehryar aur Tuba ghar aate hain aur sab ke liye gifts late hain. Bano ko bhi ek gift milta hai, jo uske baap ke inteqal par na aa pane ki maazrat ke tor par hota hai. Murtaza apni maa se kehta hai ke usne Tuba ko qabool kar liya hai aur ab woh chahta hai ke maa bhi use qabool kar le, kyunki Shehryar aur Bano se uski mulaqat ho chuki hai aur woh is rishtey ka aagaz karna chahta hai. Murtaza ki maa, Mehru, gusse mein kehti hai ke woh Tuba ko kabhi qabool nahi karegi aur Murtaza ko Tuba ki zindagi se hamesha ke liye chale jaane ko kehti hai, saath hi check deti hai jise Murtaza phaar kar phenk deta hai aur wahan se chala jata hai.\n\nBad mein, Bano Murtaza se purani baatein yaad karte hue kehti hai ke usne Shehryar se shadi apni majboori ki wajah se ki thi taake ghar ke andhere roshan ho sakein, lekin Murtaza ne use apni mohabbat ke saath dhoka diya aur aaj woh Tuba ka haath thaam kar uske ghar aaya hai. Murtaza jazbati ho jata hai aur kehta hai ke usne Bano ke liye apni maa aur bhai tak ko chhor diya tha, lekin Bano ne usse bewaafai ki.\n\nDusri taraf, Mehru aur Shehryar ghar mein Tuba aur uske rishtey ko lekar pareshan hain. Mehru Tuba ko wahan se jaane ko kehti hai, lekin Shehryar kehta hai ke woh sab yahin rahenge. Episode ke aakhir mein Murtaza aur Tuba apne kamre mein hain aur Murtaza Tuba ko samjhata hai, jabke Mehru bahar khadi yeh sab dekh rahi hoti hai."
+        ]
       }
     ],
     "facts": [
       "Bano Episode 34 aired on 2026-11-17.",
       "Channel: Geo TV.",
       "Watch the full episode: https://www.youtube.com/watch?v=-YMdzDwLT8M",
-      "YouTube views: 131,030."
+      "YouTube views: 131,030.",
+      "Episode summary added 2026-11-27."
     ],
     "entities": {
       "titles": [
@@ -174121,13 +174128,20 @@ window.FA_ARTICLES = {
           "Lagan Lagi Episode 19 aired on 2026-11-17 on ARY Digital. The full episode is available on the channel's official YouTube page.",
           "Watch the full episode here: https://www.youtube.com/watch?v=EWu3FS4YfVg"
         ]
+      },
+      {
+        "h": "Episode Summary",
+        "p": [
+          "Is episode ki shuruat mein Zunaira hospital mein bed par be-hosh aur udas leti hoti hai, jabki uski ammi aur bhai pareshan baithe hote hain. Ammi ro ro kar uski halat par afsos karti hain aur baddua deti hain un logon ko jinhone Zunaira ke saath bura kiya. Dusri taraf, Faria aur uske walid phone par Zunaira ki khairiyat maloom karte hain. Faria kisi tarah Daniyal se baat karne ki koshish karti hai lekin uska phone nahi lagta. Hospital mein Sophia (Daniyal ki ammi) aati hain aur Zunaira ki ammi se mil kar humdardi jatati hain, keh kar jati hain ke Zunaira ki sehat ka khayal rakhein. Zunaira ka bhai use ghar le jaane ki baat karta hai jab doctor discharge ki ijazat de deta hai. Ghar aane par Zunaira aur uske khandan ke beech baatein hoti hain, aur Zunaira apna samaan dekhti hai jisme Daniyal ke tohfe aur purani yaadien hoti hain. Woh saari yaadien aur tohfe ek taraf kar deti hai. Episode ke aakhir mein Zunaira akeli udas baith kar apni qismat aur un lamhaat ko yaad karti hai jab Daniyal uske saath tha, aur episode ek emotional note par khatam hota hai."
+        ]
       }
     ],
     "facts": [
       "Lagan Lagi Episode 19 aired on 2026-11-17.",
       "Channel: ARY Digital.",
       "Watch the full episode: https://www.youtube.com/watch?v=EWu3FS4YfVg",
-      "YouTube views: 5,565."
+      "YouTube views: 5,565.",
+      "Episode summary added 2026-11-27."
     ],
     "entities": {
       "titles": [
@@ -174156,13 +174170,20 @@ window.FA_ARTICLES = {
           "Hurmat Episode 14 aired on 2026-11-17 on HUM TV. The full episode is available on the channel's official YouTube page.",
           "Watch the full episode here: https://www.youtube.com/watch?v=GT35OUCEk4M"
         ]
+      },
+      {
+        "h": "Episode Summary",
+        "p": [
+          "Is episode ki shuruat mein Hurmat ki ammi phone par usse baat karne ki koshish karti hain lekin Hurmat party mein busy hone ki wajah se theek se baat nahi kar pati aur phone kaat deti hai. Ammi ko guman hota hai ke Hurmat kisi galat jagah par hai. Jab Hurmat ghar wapas aati hai aur uske sath Zeeshan bhi hota hai, toh ammi unhein dekh leti hain aur unke darmiyan sakht behas hoti hai. Hurmat apni ammi ko sakhti se rok deti hai ke woh uski zindagi mein mazeed dakhal na dein. Is baat par ammi ko itna sadma lagta hai ke woh behosh hokar zameen par gir jati hain aur unka intiqal ho jata hai. Is tragedy ke baad Hurmat bohot akeli aur ghamgeen ho jati hai. Zeeshan jab Hurmat ko manane ki koshish karta hai aur apne pyar ka izhar karta hai, toh Hurmat gusse mein uski taraf se munh pher leti hai aur keh deti hai ke ab uske dil mein Zeeshan ke liye koi feeling nahi bachi kyunki usne ammi ko kho diya hai. Episode ke aakhir mein Zeeshan aik baar phir koshish karta hai aur Hurmat ke ghar ke bahar phool aur maafi ka card bhejta hai, jise padh kar Hurmat soch mein pad jati hai."
+        ]
       }
     ],
     "facts": [
       "Hurmat Episode 14 aired on 2026-11-17.",
       "Channel: HUM TV.",
       "Watch the full episode: https://www.youtube.com/watch?v=GT35OUCEk4M",
-      "YouTube views: 811,089."
+      "YouTube views: 811,089.",
+      "Episode summary added 2026-11-27."
     ],
     "entities": {
       "titles": [
@@ -264983,5 +265004,507 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Fri, 27 Nov 2026 14:38:25 GMT"
+  },
+  "hhcw29": {
+    "id": "hhcw29",
+    "type": "news",
+    "headline": "Khushi Episode 76 — Watch Online on HUM TV",
+    "dek": "Khushi episode 76 aired on 2026-11-27 — watch the full episode on HUM TV.",
+    "body": [
+      {
+        "h": "Episode Details",
+        "p": [
+          "Khushi Episode 76 aired on 2026-11-27 on HUM TV. The full episode is available on the channel's official YouTube page.",
+          "Watch the full episode here: https://www.youtube.com/watch?v=njoSyfQYcsQ"
+        ]
+      },
+      {
+        "h": "Episode Summary",
+        "p": [
+          "Is episode mein Hamna apni aunt ko phone par batati hai ke woh pregnant hai. Aunt yeh sun kar bohot khush hoti hai aur kehti hai ke Sam yeh sun kar bohot khush hoga aur woh baap banne wala hai. Phir Sam aur Hamna ki zindagi mein pareshani shuru hoti hai kyunke Hamna ki tabiyat kharab rehti hai aur woh rote rehti hai, aur usko lagta hai ke Sam ki parwaah nahi hai. Sam apni maa se milne jata hai aur unse baat karta hai ke woh Hamna ka khayal rakhein. Aisa (Hamna ki sister) aur Hamna ke beech behas hoti hai aur Aisa gusse mein Hamna ko dhakka de deti hai jisse Hamna table par gir jati hai aur uske sar par chot lag jati hai. Sam aur baaqi ghar wale Aisa par gussa karte hain. Sam apne abba se milne jata hai aur unke sath khana khata hai aur unhe batata hai ke woh Hamna se nikah kar raha hai. Aisa aur Sam ek doosre se phone par baat karte hain aur apne aane wale waqt ke baare mein baat karte hain. Episode ke end mein Aisa ghar aati hai aur uske chehre par smile hoti hai, aur episode yahin par khatam ho jata hai."
+        ]
+      }
+    ],
+    "facts": [
+      "Khushi Episode 76 aired on 2026-11-27.",
+      "Channel: HUM TV.",
+      "Watch the full episode: https://www.youtube.com/watch?v=njoSyfQYcsQ",
+      "YouTube views: 202,814.",
+      "Episode summary added 2026-11-27."
+    ],
+    "entities": {
+      "titles": [
+        "Khushi"
+      ],
+      "people": []
+    },
+    "images": [
+      {
+        "url": "https://i.ytimg.com/vi/njoSyfQYcsQ/hqdefault.jpg",
+        "caption": "Khushi Episode 76",
+        "source": "HUM TV"
+      }
+    ],
+    "published": "2026-11-27T15:00:22Z"
+  },
+  "c7gvc8": {
+    "id": "c7gvc8",
+    "type": "news",
+    "headline": "Mera Ghar Episode 11 — Watch Online on ARY Digital",
+    "dek": "Mera Ghar episode 11 aired on 2026-11-27 — watch the full episode on ARY Digital.",
+    "body": [
+      {
+        "h": "Episode Details",
+        "p": [
+          "Mera Ghar Episode 11 aired on 2026-11-27 on ARY Digital. The full episode is available on the channel's official YouTube page.",
+          "Watch the full episode here: https://www.youtube.com/watch?v=uWIsZ2IRak8"
+        ]
+      },
+      {
+        "h": "About Mera Ghar",
+        "p": [
+          "Mera Ghar is a family drama centered on Sherry, the youngest member of a household, who is raised by his elder sister Farkhanda after their mother's death. Having devoted her life to him."
+        ]
+      },
+      {
+        "h": "Episode Summary",
+        "p": [
+          "Is episode mein Shari aur Maha ki university mein mulaqat hoti hai, jahan Maha Shari se narazgi ka izhar karti hai aur usse sawal karti hai ke woh usse baat kyun nahi kar raha. Shari chup rehta hai aur baad mein milne ka kehta hai, lekin cafe mein nahi aata, jis se Maha aur pareshan ho jati hai. Maha apni ammi se apna dukh aur pareshani share karti hai, aur ammi usse samjhane ki koshish karti hain ke Shari apne ghar ke masail mein uljha ho sakta hai. \n\nDoosri taraf, Junaid Maha ke ghar aata hai aur Maha se milne ki zid karta hai, lekin wahan Maha ki ammi aur khala use rok deti hain kyunke Maha usse milna nahi chahti. Ammi aur khala ke darmiyan bhi kuch purani baatein aur khauf discuss hote hain. Episode ke end mein Junaid aur Maha ke beech phone par baat hoti hai jismein Junaid kehta hai ke woh Maha se milne ke liye agle din university aayega, aur yeh episode ek tension bhare note par khatam hota hai."
+        ]
+      }
+    ],
+    "facts": [
+      "Mera Ghar Episode 11 aired on 2026-11-27.",
+      "Channel: ARY Digital.",
+      "Watch the full episode: https://www.youtube.com/watch?v=uWIsZ2IRak8",
+      "YouTube views: 1,948.",
+      "TMDB: Mera Ghar (id 340808).",
+      "Episode summary added 2026-11-27."
+    ],
+    "entities": {
+      "titles": [
+        "Mera Ghar"
+      ],
+      "people": [
+        "Zubab Rana",
+        "Shehroz Sabzwari",
+        "Behroze Sabzwari",
+        "Uzma Hassan",
+        "Diya Mughal"
+      ]
+    },
+    "images": [
+      {
+        "url": "https://i.ytimg.com/vi/uWIsZ2IRak8/hqdefault.jpg",
+        "caption": "Mera Ghar Episode 11",
+        "source": "ARY Digital"
+      }
+    ],
+    "published": "2026-11-27T15:00:02Z"
+  },
+  "1jrp4wx": {
+    "id": "1jrp4wx",
+    "type": "news",
+    "headline": "Vijay Sethupathi and Mysskin team up for high-stakes thriller Train",
+    "dek": "The official trailer for Train, directed by Mysskin and starring Vijay Sethupathi, has been released ahead of its December 4 theatrical arrival.",
+    "body": [
+      {
+        "h": "The Premise of Train",
+        "p": [
+          "The newly released promotional video for Train sets a frantic pace, centering entirely on a runaway locomotive that hurtles forward with malfunctioning brakes. As the vehicle leaves a packed railway station, the ensuing mechanical failure immediately places every passenger aboard in mortal jeopardy.",
+          "Ground personnel and railway authorities are shown scrambling in sheer panic, trying every possible method to bring the speeding vehicle to a halt before disaster strikes. The narrative builds considerable tension as time quickly runs out for everyone involved in the unfolding transport emergency."
+        ]
+      },
+      {
+        "h": "Vijay Sethupathi's Role and Social Media Reveal",
+        "p": [
+          "Leading man Vijay Sethupathi shared the fast-paced video across his social media handles to build anticipation, inviting audiences to witness the high-octane action. Within the story, he appears to portray a calm figure caught directly in the eye of the storm.",
+          "While panic surrounds him on all sides, his character maintains a remarkably composed demeanor as he navigates the escalating chaos inside the cabins. This juxtaposition adds a layer of quiet mystery to his overall survival struggle."
+        ]
+      },
+      {
+        "h": "Supporting Cast and Mysterious Subplots",
+        "p": [
+          "Beyond the primary disaster scenario, the trailer hints at a secondary conspiracy involving a secretive group carrying out a hidden plan onboard. This covert operation complicates the rescue efforts and thickens the plot significantly.",
+          "Veteran actor Nasser makes a prominent appearance in the promotional cut, delivering an ominous instruction to find and delete targets. The project also features a large ensemble cast including Shruti Haasan, Narain, Yugi Sethu, KS Ravikumar, and Sampath Raj."
+        ]
+      },
+      {
+        "h": "Mysskin's Direction and Musical Contribution",
+        "p": [
+          "Helmed by celebrated filmmaker Mysskin, the thriller reflects his trademark visual storytelling style and distinct narrative execution. Known for dark and intense cinematic worlds, the director has lent his creative vision deeply to this production.",
+          "Adding another feather to his cap, Mysskin has also taken charge of composing the background score and music for the feature. Fowzia Fathima has overseen the cinematography, capturing the claustrophobic and urgent atmosphere of the runaway carriages."
+        ]
+      },
+      {
+        "h": "Production and Censor Board Clearance",
+        "p": [
+          "The venture is backed by producer Kalaipuli S Thanu under the banner of V Creations. Promotional assets released so far have successfully captured the public's curiosity and discussion online.",
+          "Ahead of its theatrical arrival, the project has successfully secured a U/A certification from the censor board authorities, clearing the path for a wide audience reach upon debut."
+        ]
+      },
+      {
+        "h": "Countdown to December 4 Release",
+        "p": [
+          "Anticipation has spiked across Tamil cinema circles as the countdown begins for the film's scheduled debut. The core question on fans' minds is whether the protagonist can successfully avert the impending catastrophe.",
+          "With the promotional campaign hitting all the right notes, viewers are eager to see how the suspenseful narrative resolves on the big screen."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "The official trailer for the Mysskin directorial Train has been unveiled, showcasing a tense plot about a runaway locomotive and a desperate battle against time. Starring Vijay Sethupathi alongside an extensive ensemble cast including Nasser and Shruti Haasan, the film is scheduled to hit theaters on December 4."
+        ]
+      }
+    ],
+    "facts": [
+      "Vijay Sethupathi stars in Train",
+      "Mysskin is the director and music composer of Train",
+      "Train releases on December 4",
+      "Kalaipuli S Thanu produced Train under V Creations",
+      "Fowzia Fathima is the cinematographer",
+      "The film received a U/A certificate from the censor board",
+      "The cast includes Nasser, Shruti Haasan, Narain, Yugi Sethu, KS Ravikumar, Sampath Raj, Kalaiyarasan, Ira Dayanand, and Preethy Karan"
+    ],
+    "entities": {
+      "people": [
+        "Vijay Sethupathi",
+        "Mysskin",
+        "Nasser",
+        "Shruti Haasan",
+        "Narain",
+        "Yugi Sethu",
+        "KS Ravikumar",
+        "Sampath Raj",
+        "Kalaiyarasan",
+        "Ira Dayanand",
+        "Preethy Karan",
+        "Fowzia Fathima",
+        "Kalaipuli S Thanu"
+      ],
+      "titles": [
+        "Train"
+      ]
+    },
+    "keywords": [
+      "Vijay Sethupathi Train trailer",
+      "Mysskin Train movie",
+      "Train December 4 release",
+      "Shruti Haasan Train film"
+    ],
+    "images": [
+      {
+        "url": "https://static.toiimg.com/thumb/msid-136225178,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "caption": "Vijay Sethupathi and Mysskin team up for high-stakes thriller Train",
+        "source": "Times of India — Entertainment"
+      }
+    ],
+    "published": "2026-11-27T21:00:55+05:30"
+  },
+  "19jhmls": {
+    "id": "19jhmls",
+    "type": "news",
+    "headline": "Classic Space Opera Anime Franchise Heads to Blu-ray in 2027",
+    "dek": "Two celebrated sequel series of a legendary anime property receive their first-ever high-definition Blu-ray box sets in Japan next year.",
+    "body": [
+      {
+        "h": "The Return of a Sci-Fi Pioneer",
+        "p": [
+          "A foundational title in the space opera genre is making physical media history with its upcoming high-definition release. Two of its major sequel chapters have undergone meticulous restoration work to bring them to Blu-ray for the very first time in Japan. These upcoming editions will offer enthusiasts a chance to experience the classic animated adventures with visual fidelity that surpasses any previous home video offerings.",
+          "The announcement marks a significant milestone for collectors and longtime followers of the franchise. By preserving these vintage episodes in high definition, studios are ensuring that foundational milestones in Japanese animation remain accessible to contemporary audiences and dedicated physical media collectors alike."
+        ]
+      },
+      {
+        "h": "Origins and Legacy of the Voyage",
+        "p": [
+          "The overarching narrative began with the 1974 debut of the original series, which transported viewers to a dystopian Earth in the year 2199. Ravaged by aggressive alien forces known as the Gamilons, humanity receives a glimmer of hope through an extraterrestrial transmission containing blueprints for a revolutionary propulsion system. Utilizing these plans for a wave motion engine, survivors salvage a sunken World War II battleship and transform it into an interstellar vessel to save their planet.",
+          "This initial venture proved immensely influential, paving the way for subsequent space epics such as Mobile Suit Gundam and Macross. The original narrative famously culminated in a feature film where the crew made the ultimate sacrifice, though audience dissatisfaction with that grim conclusion prompted the creation of a continuation."
+        ]
+      },
+      {
+        "h": "Expanding the Universe With Sequels",
+        "p": [
+          "To address the controversial fate of the characters, producers commissioned a second television season that effectively overwrote the movie's tragic ending. This continuation followed the crew as they confronted a menacing new adversary known as the Comet Empire. The strong reception of these expanded adventures ensured that the franchise continued to grow.",
+          "Building on that momentum, a third television season was eventually produced. This chapter shifted the diplomatic landscape of the narrative, depicting a fragile peace where humanity and their former adversaries, the Gamilons, joined forces to confront a shared threat in the galaxy."
+        ]
+      },
+      {
+        "h": "Upcoming High-Definition Releases",
+        "p": [
+          "The newly restored home video distributions will package the sequel seasons into comprehensive boxed sets complete with collectible booklets. The second season, comprising twenty-six episodes, is scheduled to hit store shelves on March 26, 2027. Following shortly thereafter, the twenty-five episodes of the third season will arrive on June 23, 2027.",
+          "Both collections will be made available at a retail price of 44,000 yen, which translates to roughly $277 USD per set. These releases mark the very first time these specific television episodes will be available on the Blu-ray format."
+        ]
+      },
+      {
+        "h": "Historical Impact in North America",
+        "p": [
+          "Decades prior to these high-definition restorations, the franchise left an indelible mark on international television markets. The original production, along with its first two sequel seasons, underwent local adaptation processes involving re-dubbing and re-editing before crossing over to the United States under a localized title in 1979.",
+          "At the time, this localized version introduced American viewers to continuous serialized storytelling in animation, a stark contrast to the strictly episodic format that dominated domestic cartoons during that era."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Two classic sequel seasons of a legendary space opera anime franchise are receiving their first-ever Blu-ray releases in Japan across March and June of 2027. The upcoming box sets will encompass a total of fifty-one restored episodes accompanied by collectible booklets and priced at 44,000 yen each."
+        ]
+      }
+    ],
+    "facts": [
+      "Space Battleship Yamamoto II features 26 episodes releasing on March 26, 2027.",
+      "Space Battleship Yamamoto III features 25 episodes releasing on June 23, 2027.",
+      "Both box sets will retail for 44,000 yen, approximately $277 USD.",
+      "The original anime debuted in 1974 and is set in the year 2199.",
+      "The series was adapted and brought to the United States in 1979."
+    ],
+    "entities": {
+      "titles": [
+        "Space Battleship Yamamoto",
+        "Space Battleship Yamamoto II",
+        "Space Battleship Yamamoto III",
+        "Star Blazers",
+        "Mobile Suit Gundam",
+        "Macross",
+        "Farewell to Space Battleship Yamamoto"
+      ]
+    },
+    "keywords": [
+      "Space Battleship Yamamoto",
+      "Space Battleship Yamamoto II",
+      "Space Battleship Yamamoto III",
+      "Star Blazers Blu-ray"
+    ],
+    "images": [
+      {
+        "url": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/11/star-blazers-space-battleship-yamato.jpg?w=1600&amp;h=900&amp;fit=crop",
+        "caption": "Classic Space Opera Anime Franchise Heads to Blu-ray in 2027",
+        "source": "Collider"
+      }
+    ],
+    "published": "Fri, 27 Nov 2026 15:38:21 GMT"
+  },
+  "1oblivf": {
+    "id": "1oblivf",
+    "type": "news",
+    "headline": "Shah Rukh Khan and Kareena Kapoor Khan reunite in 'King' song 'Daddy Cool'",
+    "dek": "Shah Rukh Khan and Kareena Kapoor Khan share screen space once again for the track 'Daddy Cool' from the upcoming action thriller 'King', marking their first collaboration since 'Ra.One'.",
+    "body": [
+      {
+        "h": "The Grand Reunion on Screen",
+        "p": [
+          "Bollywood fans have a major reason to celebrate as Shah Rukh Khan and Kareena Kapoor Khan share the screen once more. Their latest collaboration comes via the foot-tapping track 'Daddy Cool' from the highly anticipated film 'King'. This release marks their first official on-screen reunion since their memorable work together in 'Ra.One' back in 2011.",
+          "The track functions as a major pre-release promotional highlight, driving tremendous excitement across social media platforms. Audiences have eagerly welcomed the return of their collaborative dynamic, which served as a standout feature of Indian cinema over a decade ago."
+        ]
+      },
+      {
+        "h": "A Playful Social Media Reveal",
+        "p": [
+          "Shah Rukh Khan officially announced the arrival of the track by sharing it widely online, accompanied by a characteristically witty caption. He expressed his enthusiasm about working alongside his former co-star once again, writing that he was back with Bebo and noting that the tune possessed an old-school charm while remaining undeniably cool.",
+          "His announcement also reminded fans of the cinematic timeline, explicitly confirming that the main feature is scheduled to hit theaters on December 24, 2026. The playful post immediately went viral, drawing enthusiastic responses from followers and industry peers alike."
+        ]
+      },
+      {
+        "h": "Visual Aesthetics and Styling",
+        "p": [
+          "The music video presents a vibrant, high-energy party environment filled with colorful stage designs and an enthusiastic troupe of backup dancers. Shah Rukh Khan maintains a suave and mature aesthetic throughout the footage, sporting a sleek all-black ensemble featuring a matching shirt and trousers, complemented by subtle jewelry and distinguished salt-and-pepper hair.",
+          "Kareena Kapoor Khan commands attention through two distinct wardrobe transformations during the video. She initially appears in a striking red dress complete with a plunging neckline and a high thigh slit, finished with open hair and heels, before transitioning into a fitted black outfit accented by a statement belt for an edgier visual tone."
+        ]
+      },
+      {
+        "h": "Musical Composition and Credits",
+        "p": [
+          "The fresh version of the track is credited to the dynamic musical duo Sachin-Jigar, who handled composition, programming, and arrangement alongside additional programming support from Abhishek Singh and Amrit Sharma. Romil Ved served as the music production head, while Rhythm Shaw contributed acoustic foundations through guitar and bass instrumentation.",
+          "The lyrical framework was crafted by Kumaar, while the vocal delivery was entrusted to Arijit Singh and Shilpa Rao. Furthermore, the English vocal hooks retained from the original composition are officially attributed to Boney M, with veteran choreographer Vaibhavi Merchant directing the energetic dance routines."
+        ]
+      },
+      {
+        "h": "Reviving a Disco Classic",
+        "p": [
+          "The newly released version breathes modern life into the iconic 1976 disco anthem originally performed by the legendary group Boney M. That timeless composition was originally written by Frank Farian and George Reyam, quickly establishing itself as a global dance phenomenon upon its initial rollout.",
+          "By integrating elements of this vintage global favorite into a contemporary Hindi cinematic framework, the creators bridge multiple generations of dance music enthusiasts. The nostalgic yet fresh arrangement serves as a major talking point for the movie's upcoming musical rollout."
+        ]
+      },
+      {
+        "h": "Production Background of 'King'",
+        "p": [
+          "The broader cinematic project is directed by Siddharth Anand and features Shah Rukh Khan anchoring the narrative in the lead role. The star-studded cast also includes prominent performers such as Suhana Khan and Abhishek Bachchan, among other notable names from the industry.",
+          "The production is financially and operationally backed by Red Chillies Entertainment. Positioned as a high-stakes action thriller, the feature film is locked in for a grand theatrical arrival on December 24, 2026."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Shah Rukh Khan and Kareena Kapoor Khan have reunited on screen for the first time since 2011 in a new song titled 'Daddy Cool' from the upcoming action thriller 'King'. Directed by Siddharth Anand and backed by Red Chillies Entertainment, the film is set to release on December 24, 2026."
+        ]
+      }
+    ],
+    "facts": [
+      "Shah Rukh Khan and Kareena Kapoor Khan last worked together in 'Ra.One' in 2011.",
+      "The song 'Daddy Cool' was released on November 27, 2026.",
+      "The film 'King' is scheduled to release on December 24, 2026.",
+      "The track was composed by Sachin-Jigar with lyrics by Kumaar.",
+      "Arijit Singh and Shilpa Rao provided vocals for the new version.",
+      "The film is directed by Siddharth Anand and backed by Red Chillies Entertainment."
+    ],
+    "entities": {
+      "people": [
+        "Shah Rukh Khan",
+        "Kareena Kapoor Khan",
+        "Sachin-Jigar",
+        "Kumaar",
+        "Arijit Singh",
+        "Shilpa Rao",
+        "Boney M",
+        "Frank Farian",
+        "George Reyam",
+        "Vaibhavi Merchant",
+        "Abhishek Singh",
+        "Amrit Sharma",
+        "Romil Ved",
+        "Rhythm Shaw",
+        "Siddharth Anand",
+        "Suhana Khan",
+        "Abhishek Bachchan"
+      ],
+      "titles": [
+        "Daddy Cool",
+        "King",
+        "Ra.One",
+        "Take the Heat off Me"
+      ]
+    },
+    "keywords": [
+      "King song Daddy Cool",
+      "Shah Rukh Khan Kareena Kapoor Khan",
+      "King movie release date",
+      "Daddy Cool Sachin Jigar Arijit Singh"
+    ],
+    "images": [
+      {
+        "url": "https://static.toiimg.com/thumb/msid-136226832,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "caption": "Shah Rukh Khan and Kareena Kapoor Khan reunite in 'King' song 'Daddy Cool'",
+        "source": "Times of India — Entertainment"
+      }
+    ],
+    "published": "2026-11-27T20:47:53+05:30"
+  },
+  "18uwun0": {
+    "id": "18uwun0",
+    "type": "news",
+    "headline": "Why Every Episode Of Netflix's Acclaimed Sci-Fi Series Remains Worth Watching",
+    "dek": "An exploration of Netflix's animated anthology series Love, Death + Robots, its creative freedom, and why even its lowest-ranked episodes stand tall.",
+    "body": [
+      {
+        "h": "Introduction To Netflix Sci-Fi Anthology",
+        "p": [
+          "Netflix has experimented with various genres and storytelling formats over the years, yielding mixed outcomes across its catalog. However, the streaming platform has found particular success in the realm of anthologies.",
+          "Critically acclaimed anthologies like Black Mirror, Beef, and Guillermo del Toro's Cabinet of Curiosities have set a high bar, alongside the standout science fiction animated series Love, Death + Robots."
+        ]
+      },
+      {
+        "h": "Structure And Scale Of The Series",
+        "p": [
+          "Running for four seasons across a total of 45 episodes, Love, Death + Robots features short segments lasting anywhere between six and twenty-one minutes.",
+          "The shorts are animated and written by different creative teams, with several groups contributing across multiple seasons. The central premise revolves around the core themes in the title, though individual entries frequently explore overlapping ideas."
+        ]
+      },
+      {
+        "h": "Premieres And Notable Directors",
+        "p": [
+          "Since premiering in 2019, the show has attracted high-profile filmmakers to helm individual episodes, including renowned director David Fincher.",
+          "Despite containing 45 distinct stories, the anthology maintains an unusually high standard of quality, positioning itself as a rare collection where nearly every installment offers engaging viewing."
+        ]
+      },
+      {
+        "h": "Examining The Weakest Entry",
+        "p": [
+          "Determining the absolute worst episode of the series remains subjective due to the vast array of animation styles, tonal shifts, and subject matters.",
+          "Nevertheless, season 2, episode 7, titled 'Life Hutch', is frequently cited as a contender for the bottom of the list. The episode utilizes photorealistic animation and stars Michael B. Jordan as Terence, a stranded space pilot battling a rogue robot on a desolate planet."
+        ]
+      },
+      {
+        "h": "Critique And Merits Of Life Hutch",
+        "p": [
+          "Critics of 'Life Hutch' point out that Michael B. Jordan's talent could have been utilized more effectively, and that the narrative's flashbacks consume too much time within a short runtime.",
+          "Even so, the episode boasts striking visual work that blurs the line between live-action and CGI, ensuring that it remains an entertaining watch for fans of the genre."
+        ]
+      },
+      {
+        "h": "Creative Freedom Behind The Show",
+        "p": [
+          "The consistent watchability of Love, Death + Robots stems from the total autonomy granted to each creative team to execute their vision.",
+          "Whether a segment focuses on classic mech-suits fighting alien invaders or features marionette-style characters during a fictional Red Hot Chili Peppers concert, creators are free to put their exact preferences on screen without heavy-handed studio interference."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Netflix's four-season animated sci-fi anthology Love, Death + Robots has maintained a stellar reputation across its 45 episodes thanks to complete creative freedom given to its diverse production teams. Even lower-tier entries like 'Life Hutch', starring Michael B. Jordan, continue to deliver impressive animation and engaging genre storytelling."
+        ]
+      }
+    ],
+    "facts": [
+      "Love, Death + Robots is a four-season science fiction TV series on Netflix.",
+      "The series premiered in 2019.",
+      "It consists of 45 episodes with shorts ranging from 6 to 21 minutes.",
+      "David Fincher is among the directors who have crafted episodes for the show.",
+      "Season 2, episode 7 is titled 'Life Hutch' and stars Michael B. Jordan as Terence."
+    ],
+    "entities": {
+      "people": [
+        "Zach Moser",
+        "Guillermo del Toro",
+        "David Fincher",
+        "Michael B. Jordan",
+        "Víctor Maldonado",
+        "Patrick Osborne",
+        "Robert Valley",
+        "Alfredo Torres Martínez",
+        "Jerome Chen",
+        "Emily Dean",
+        "Rémi Kozyra",
+        "Léon Bérelle",
+        "Dominique Boidin",
+        "Alberto Mielgo",
+        "Maxime Luère",
+        "Andy Lyon",
+        "Robert Bisi",
+        "Dave Wilson",
+        "David Nicolas",
+        "Simon Otto",
+        "Damian Nenow",
+        "Laurent Nicolas",
+        "Kevin Van Der Meiren",
+        "Vitaliy Shushko",
+        "Owen Sullivan",
+        "István Zorkóczy",
+        "Javier Recio Gracia",
+        "Oliver Thomas",
+        "Bruce Thomas",
+        "Jane Leeves",
+        "Tim Miller",
+        "Philip Gelatt"
+      ],
+      "titles": [
+        "Love, Death + Robots",
+        "Black Mirror",
+        "Guillermo del Toro's Cabinet of Curiosities",
+        "Beef",
+        "Life Hutch"
+      ]
+    },
+    "keywords": [
+      "Love Death Robots Netflix series",
+      "Michael B. Jordan Life Hutch",
+      "Love Death Robots animation",
+      "best sci fi anthologies Netflix"
+    ],
+    "images": [
+      {
+        "url": "https://static0.srcdn.com/wordpress/wp-content/uploads/2026/11/tcdlode_zx014-1.jpg?w=1600&amp;h=900&amp;fit=crop",
+        "caption": "Why Every Episode Of Netflix's Acclaimed Sci-Fi Series Remains Worth Watching",
+        "source": "Screen Rant"
+      }
+    ],
+    "published": "Fri, 27 Nov 2026 15:30:19 GMT"
   }
 };
