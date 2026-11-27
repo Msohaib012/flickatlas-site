@@ -259047,5 +259047,409 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Thu, 26 Nov 2026 21:33:29 +0000"
+  },
+  "1imf5ib": {
+    "id": "1imf5ib",
+    "type": "news",
+    "headline": "Yeh Prem Mol Liya Early Reviews: Ayushmann Khurrana and Sooraj Barjatya's Family Drama Sparks Mixed Social Media Reactions",
+    "dek": "As Rajshri Productions brings back traditional family dramas, early viewer reactions to Yeh Prem Mol Liya highlight a mix of early-half flaws and deeply emotional second-half moments.",
+    "body": [
+      {
+        "h": "Pre-Release Buzz and Genre Return",
+        "p": [
+          "Rajshri Productions is placing a major bet on the family drama genre with the theatrical release of Yeh Prem Mol Liya. At a time when many contemporary movies struggle to connect with wider audiences, this picture aims to revive traditional storytelling.",
+          "Directed by Sooraj Barjatya, the project brings back the director's signature romantic family-drama space. Although the musical tracks have resonated well with internet users, the feature initially faced challenges in generating massive pre-release hype."
+        ]
+      },
+      {
+        "h": "Stepping Into the 'Prem' Zone",
+        "p": [
+          "Leading man Ayushmann Khurrana takes on the iconic 'Prem' persona for this project, following his recent appearance in Udta Teer. The name Prem carries a rich legacy in Indian cinema, having been famously portrayed over the years by celebrated actors such as Salman Khan, Hrithik Roshan, and Shahid Kapoor.",
+          "Alongside Khurrana, the film features Sharvari in a prominent role. While pre-release discussions were muted, industry predictions from astrologers have notably pointed toward the film becoming a clean hit and a potential turning point in Sharvari's career."
+        ]
+      },
+      {
+        "h": "Early Social Media Reactions and Ratings",
+        "p": [
+          "Social media has begun sharing early reactions and viewer verdicts following the initial screenings. Feedback has leaned toward a mixed-to-positive reception from audiences experiencing the family entertainer on the big screen.",
+          "One early reviewer awarded the movie three-and-a-half stars, describing it as an awesome family watch while candidly pointing out distinct narrative loopholes present throughout the first half of the storytelling."
+        ]
+      },
+      {
+        "h": "Narrative Structure and Emotional Shift",
+        "p": [
+          "Viewer impressions indicate a sharp divide between the pacing of the first and second halves. While the opening acts contain noticeable plot loopholes, the subsequent sequences shift into deeply emotional territory.",
+          "Some audience feedback notes that the overall plot structure feels reminiscent of typical early 2000s cinematic storytelling. Reviewers have highlighted Ayushmann Khurrana's striking appearance and Sharvari's steady performance within these emotional arcs."
+        ]
+      },
+      {
+        "h": "Traditional Themes and Supporting Cast",
+        "p": [
+          "Beyond the lead performances, viewers have praised the film for its core values of simplicity, honesty, purity, goodness, and traditional family bonds. The creative direction stays remarkably close to the familiar Rajshri template.",
+          "The extensive supporting cast features veteran and well-known actors including Anupam Kher, Supriya Pathak, Seema Pahwa, Saumya Tandon, Shaad Randhawa, and Swanand Kirkire, though some viewers noted Kher's performance felt standard for Barjatya's filmography."
+        ]
+      },
+      {
+        "h": "Box Office Clash and Weekend Momentum",
+        "p": [
+          "At the box office, Yeh Prem Mol Liya faces direct theatrical competition against Emraan Hashmi's Gunmaaster G9. Both competing titles will need strong theatrical turnout.",
+          "The ultimate commercial success of these releases will heavily rely on weekend word-of-mouth momentum to attract audiences and rake in substantial box office collections."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Sooraj Barjatya's directorial Yeh Prem Mol Liya starring Ayushmann Khurrana and Sharvari has received mixed-to-positive early social media reactions highlighting emotional depth alongside early narrative flaws. The Rajshri Productions family drama is currently clashing at the box office with Emraan Hashmi's Gunmaaster G9 as both films look to build momentum through weekend word-of-mouth."
+        ]
+      }
+    ],
+    "facts": [
+      "Yeh Prem Mol Liya is directed by Sooraj Barjatya and produced by Rajshri Productions.",
+      "The film stars Ayushmann Khurrana and Sharvari.",
+      "The supporting cast includes Anupam Kher, Supriya Pathak, Seema Pahwa, Saumya Tandon, Shaad Randhawa, and Swanand Kirkire.",
+      "The movie is clashing at the box office with Emraan Hashmi's Gunmaaster G9.",
+      "Early reviews surfaced around November 26 and November 27, 2026."
+    ],
+    "entities": {
+      "people": [
+        "Ayushmann Khurrana",
+        "Sharvari",
+        "Sooraj Barjatya",
+        "Salman Khan",
+        "Hrithik Roshan",
+        "Shahid Kapoor",
+        "Anupam Kher",
+        "Supriya Pathak",
+        "Seema Pahwa",
+        "Saumya Tandon",
+        "Shaad Randhawa",
+        "Swanand Kirkire",
+        "Emraan Hashmi",
+        "Mohammad Riyaz"
+      ],
+      "titles": [
+        "Yeh Prem Mol Liya",
+        "Udta Teer",
+        "Gunmaaster G9"
+      ]
+    },
+    "keywords": [
+      "Yeh Prem Mol Liya",
+      "Ayushmann Khurrana",
+      "Sooraj Barjatya",
+      "Sharvari Yeh Prem Mol Liya",
+      "Gunmaaster G9 clash"
+    ],
+    "images": [
+      {
+        "url": "https://images.filmibeat.com/img/2026/11/yehpremmolliya-32911795732057.jpg",
+        "caption": "Yeh Prem Mol Liya Early Reviews: Ayushmann Khurrana and Sooraj Barjatya's Family Drama Sparks Mixed Social Media Reactio",
+        "source": "FilmiBeat"
+      }
+    ],
+    "published": "Fri, 27 Nov 2026 04:01:21 +0530"
+  },
+  "1ufdlcv": {
+    "id": "1ufdlcv",
+    "type": "news",
+    "headline": "Pirates of the Caribbean Returns With an Immersive London Stage Production",
+    "dek": "Disney is adapting its famous franchise into a live stage experience in London, though Johnny Depp will not reprise his iconic role as Captain Jack Sparrow.",
+    "body": [
+      {
+        "h": "A Fresh Direction for the Franchise",
+        "p": [
+          "The popular Pirates of the Caribbean property is heading in a brand-new direction under Disney. Instead of returning to the silver screen for this specific project, the studio is expanding the franchise into the live theatrical space.",
+          "Disney has officially shared a first look at this upcoming venture, giving fans a glimpse into how the swashbuckling adventures will translate to a live-action stage setting in London."
+        ]
+      },
+      {
+        "h": "Behind the Scenes of the Rehearsals",
+        "p": [
+          "Recent behind-the-screen footage reveals the cast hard at work practicing intensive choreography. Actors can be seen rehearsing complex sword fights and intricate flying sequences.",
+          "This ambitious project is being developed through a partnership between Secret Cinema and Disney Theatrical Group, bringing a unique theatrical style to life."
+        ]
+      },
+      {
+        "h": "Venue and Schedule Details",
+        "p": [
+          "The production will take place at a specially constructed, purpose-built venue located on London's Greenwich Peninsula.",
+          "Audiences won't have to wait too much longer to experience it firsthand, as the production is scheduled to begin previews on February 16, 2027, followed by its official opening on March 10, 2027."
+        ]
+      },
+      {
+        "h": "New Faces Take On Iconic Roles",
+        "p": [
+          "While Johnny Depp famously originated the role of Captain Jack Sparrow, he is not part of the cast for this new venture. Another performer will step into the beloved pirate's boots.",
+          "George Maguire has been cast as Captain Jack Sparrow, while Phil Daniels will portray Captain Barbossa. Additional casting includes Lily Blunsom as Elizabeth Swann, Harrison Wilde as Will Turner, and Gleanne Purcell-Brown as Anamaria."
+        ]
+      },
+      {
+        "h": "Creative Vision and Inspiration",
+        "p": [
+          "The theatrical adaptation draws its primary inspiration from the 2003 film Pirates of the Caribbean: The Curse of the Black Pearl. Matt Costain serves as the director for the production.",
+          "The two-hour event aims to blend actual film clips with live performances, utilizing Secret Cinema's signature 360-degree immersive storytelling approach."
+        ]
+      },
+      {
+        "h": "Production Team and Design",
+        "p": [
+          "Merritt Baer, the artistic director for Secret Cinema, emphasized that this production pushes their immersive style further than ever before to surround the audience with the narrative.",
+          "The creative lineup features two-time Emmy winner Jason Sherwood as production designer, Kait Kerrigan as theatrical adaptor, Alan Williams for music supervision, Susan Kulkarni as costume designer, and Helen Keane managing wigs, hair, and makeup."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Disney and Secret Cinema are teaming up to bring Pirates of the Caribbean to a custom venue on London's Greenwich Peninsula as an immersive live stage experience starting in early 2027. George Maguire will star as Captain Jack Sparrow instead of Johnny Depp in a production directed by Matt Costain."
+        ]
+      }
+    ],
+    "facts": [
+      "The production is titled Pirates of the Caribbean: The Immersive Adventure.",
+      "Previews begin on February 16, 2027, and the show officially opens on March 10, 2027.",
+      "George Maguire plays Captain Jack Sparrow and Phil Daniels plays Captain Barbossa.",
+      "The production is inspired by the 2003 film Pirates of the Caribbean: The Curse of the Black Pearl."
+    ],
+    "entities": {
+      "people": [
+        "Johnny Depp",
+        "George Maguire",
+        "Phil Daniels",
+        "Lily Blunsom",
+        "Harrison Wilde",
+        "Gleanne Purcell-Brown",
+        "Matt Costain",
+        "Merritt Baer",
+        "Jason Sherwood",
+        "Kait Kerrigan",
+        "Alan Williams",
+        "Susan Kulkarni",
+        "Helen Keane",
+        "Christie D'Silva"
+      ],
+      "titles": [
+        "Pirates of the Caribbean",
+        "Pirates of the Caribbean: The Immersive Adventure",
+        "Pirates of the Caribbean: The Curse of the Black Pearl"
+      ]
+    },
+    "keywords": [
+      "Pirates of the Caribbean The Immersive Adventure",
+      "George Maguire Captain Jack Sparrow",
+      "Secret Cinema Disney London",
+      "Pirates of the Caribbean stage show"
+    ],
+    "images": [
+      {
+        "url": "https://www.comingsoon.net/wp-content/uploads/sites/3/2026/11/Johnny-Depps-Jack-Sparrow-Is-Getting-a-New-Pirates-of-the-Caribbean-Adventure.jpg?resize=1200,630",
+        "caption": "Pirates of the Caribbean Returns With an Immersive London Stage Production",
+        "source": "ComingSoon.net"
+      }
+    ],
+    "published": "Thu, 26 Nov 2026 23:10:27 +0000"
+  },
+  "17r6ic8": {
+    "id": "17r6ic8",
+    "type": "news",
+    "headline": "Vrushakarma Trailer Drops: Naga Chaitanya Stars in a Mythological Thriller",
+    "dek": "The official trailer for Naga Chaitanya's Vrushakarma offers a glimpse into a cosmic mystery filled with ancient caves, Vedic science, and heavy visual effects.",
+    "body": [
+      {
+        "h": "Opening Atmosphere and Ominous Tones",
+        "p": [
+          "The newly released trailer for the mythological thriller Vrushakarma wastes no time in establishing a dark and unsettling mood. It opens with flocks of crows circling overhead, immediately signaling to viewers that they are entering a realm of dread and ancient secrets. Shortly after, a young girl, recognized by audiences from her work in Hi Nanna and played by Kiara Khanna, is shown visibly troubled by unseen forces, dropping early hints of a potential demonic possession."
+        ]
+      },
+      {
+        "h": "Unearthing Ancient Mysteries",
+        "p": [
+          "As the preview progresses, the narrative shifts toward an archaeological discovery involving a freshly excavated cave system. The stone carvings found inside are believed to date back five thousand years, acting as silent witnesses to forgotten eras. Naga Chaitanya steps into this shadowy environment as an intrepid adventurer, quickly finding himself surrounded by a series of confounding riddles that demand immediate answers."
+        ]
+      },
+      {
+        "h": "Embracing Vedic Science and Divine Duty",
+        "p": [
+          "Facing a barrage of perplexing obstacles inside the subterranean chambers, the protagonist relies on what he describes as Vedic science to guide his path. The footage gradually discloses his ultimate purpose, revealing that he is a divinely chosen Vrushakarma. His primary mission involves safeguarding the cosmic order, proving that the stakes of the story reach far beyond the confines of a single ancient cave."
+        ]
+      },
+      {
+        "h": "Stepping Away from Commercial Tropes",
+        "p": [
+          "Interestingly, the project appears to bypass many conventional commercial formulas typically found in mainstream cinema. The preview suggests the complete absence of a standard love story or musical song sequences, keeping its primary focus locked entirely on the unfolding mystery. According to statements made by the lead actor, Meenakshi Chaudhary takes on a distinct persona that pushes her well outside her usual acting comfort zone."
+        ]
+      },
+      {
+        "h": "An Ensembles Cast of Talents",
+        "p": [
+          "Beyond the primary leads, the movie features a diverse supporting cast bringing together talent from multiple film industries. Malayalam cinema veteran Jayaram secures a prominent presence in the narrative, while Bollywood performer Sparsh Shrivastava is showcased portraying a complex figure who carries a notably threatening demeanor throughout the promotional footage."
+        ]
+      },
+      {
+        "h": "Scale, Sound, and Technical Ambition",
+        "p": [
+          "The technical execution leans heavily on large-scale production values, highlighted by Ajaneesh B Loknath supplying an intense background score. Stunt work has been managed by a collaborative team consisting of Vijay, Tudor Lazarov, and Karunakar to deliver high-impact action sequences. Furthermore, the creative team asserts that every single frame across the two-hour-and-forty-five-minute runtime incorporates visual effects."
+        ]
+      },
+      {
+        "h": "High Expectations and Upcoming Release",
+        "p": [
+          "Having previously led projects like Thandel and Majili, Naga Chaitanya has openly declared this endeavor to be his finest work to date. He further expressed strong conviction in director Karthik Dandu, predicting he will soon stand among the elite Telugu filmmakers recognized nationally. The movie is scheduled to arrive in cinemas on December 4, following earlier news of securing a substantial non-theatrical business deal."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "The trailer for Naga Chaitanya's mythological thriller Vrushakarma sets a dark tone filled with ancient caves and cosmic mysteries. Scheduled for a December 4 theatrical release, the film features heavy visual effects across its entire runtime and stars an ensemble cast including Meenakshi Chaudhary, Jayaram, and Sparsh Shrivastava."
+        ]
+      }
+    ],
+    "facts": [
+      "Published on Nov 26, 2026",
+      "Kiara Khanna starred in Hi Nanna",
+      "Carvings believed to be 5,000 years old",
+      "Runtime is two hours and forty-five minutes",
+      "Every frame features VFX",
+      "Stunts choreographed by Vijay, Tudor Lazarov, and Karunakar",
+      "Music and background score by Ajaneesh B Loknath",
+      "Directed by Karthik Dandu",
+      "Release date is December 4",
+      "Secured a Rs 48 crore non-theatrical deal"
+    ],
+    "entities": {
+      "people": [
+        "Naga Chaitanya",
+        "Kiara Khanna",
+        "Meenakshi Chaudhary",
+        "Jayaram",
+        "Sparsh Shrivastava",
+        "Ajaneesh B Loknath",
+        "Vijay",
+        "Tudor Lazarov",
+        "Karunakar",
+        "Karthik Dandu"
+      ],
+      "titles": [
+        "Vrushakarma",
+        "Hi Nanna",
+        "Thandel",
+        "Majili"
+      ]
+    },
+    "keywords": [
+      "Vrushakarma trailer",
+      "Naga Chaitanya Vrushakarma",
+      "Karthik Dandu film",
+      "Vrushakarma release date"
+    ],
+    "images": [
+      {
+        "url": "https://filmfare.wwmindia.com/content/2026/nov/vrushakarma-trailer-naga-chaitanya-enters-a-cosmic-mystery1795674462.jpg",
+        "caption": "Vrushakarma Trailer Drops: Naga Chaitanya Stars in a Mythological Thriller",
+        "source": "Filmfare"
+      }
+    ],
+    "published": "2026-11-26T12:03:15+05:30"
+  },
+  "1f51vsp": {
+    "id": "1f51vsp",
+    "type": "news",
+    "headline": "Avengers: Doomsday Corrects a Longstanding Marvel Mistake With Cyclops",
+    "dek": "James Marsden opens up about returning as Scott Summers in Avengers: Doomsday, promising a more comic-accurate and meaningful portrayal for the X-Men leader.",
+    "body": [
+      {
+        "h": "The Return of Avengers: Doomsday",
+        "p": [
+          "Marvel Studios is gearing up for its monumental return to theaters with Avengers: Doomsday, marking the first Avengers sequel since the historic release of Avengers: Endgame in 2019. Fans have only three weeks left to wait before witnessing the next massive chapter in the Marvel Cinematic Universe.",
+          "Helmed by directors Joe and Anthony Russo in their fifth MCU feature, the film boasts a massive ensemble. It features Robert Downey Jr. stepping into the role of the primary antagonist, Doctor Doom, alongside nearly two dozen current MCU stars and several major legacy actors."
+        ]
+      },
+      {
+        "h": "Bringing Back the Original Mutants",
+        "p": [
+          "Among the prominent legacy stars returning to the fold are members of the original X-Men cast. This group is led by the late Sir Patrick Stewart as Professor X and Sir Ian McKellen as Magneto.",
+          "McKellen joins an exciting wave of MCU first-timers from the classic films, which also includes Alan Cumming as Nightcrawler, Rebecca Romijn as Mystique, and James Marsden as Cyclops. The Russo brothers are bringing these beloved characters into the fold with the intention of delivering long-awaited portrayals."
+        ]
+      },
+      {
+        "h": "Redeeming Scott Summers",
+        "p": [
+          "Speaking in an interview with Sharp Magazine, James Marsden discussed his much-anticipated return as Scott Summers, also known as Cyclops. He expressed immense gratitude for the dedicated Marvel fanbase, noting that support from the community is essential.",
+          "Marsden mentioned that fans will be very pleased with how the character is handled this time around. While acknowledging that Cyclops is canonically a leader, he pointed out how past cinematic adaptations often sidelined the hero."
+        ]
+      },
+      {
+        "h": "Stepping Out of the Shadows",
+        "p": [
+          "During the era of 20th Century Fox films, Scott Summers frequently took a back seat to Hugh Jackman's Wolverine and other select characters. With limited runtime in massive ensemble movies, the character never fully dominated the screen as he did in print.",
+          "However, Marsden emphasized that Avengers: Doomsday provides a true opportunity for Cyclops to shine. He made it clear that he did not want to return merely for a quick nostalgic cameo that offered no lasting narrative weight."
+        ]
+      },
+      {
+        "h": "Purposeful Storytelling and Meaningful Impact",
+        "p": [
+          "The actor stressed the importance of a genuine purpose behind his involvement in the blockbuster. He wants audiences to know that the return of these familiar faces will actually matter to the overarching plot rather than serving as empty fan service.",
+          "Although he has not yet seen the final cut of the film, Marsden feels confident about the work delivered. He believes viewers will appreciate seeing the classic mutants integrated seamlessly into the core narrative."
+        ]
+      },
+      {
+        "h": "Comic-Accurate Powers and Team-Ups",
+        "p": [
+          "Cyclops has long been recognized as the battlefield leader of the X-Men across Marvel Comics and various animated television shows. Avengers: Doomsday finally rectifies the smaller treatment he received previously under 20th Century Fox.",
+          "Trailers for the movie have already highlighted Marsden sporting his classic blue-and-yellow suit and showcasing powerful optic blasts. Alongside multiple other legacy mutant characters, he is set to interact directly with the Avengers, the Fantastic Four, and other major cinematic heroes."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "James Marsden returns as Scott Summers in Avengers: Doomsday, directed by Joe and Anthony Russo, to give the X-Men leader a more prominent and comic-accurate portrayal. Unlike his previous appearances under 20th Century Fox where he often took a back seat to Wolverine, his role in the upcoming Marvel Studios film carries genuine narrative purpose alongside other returning legacy mutant stars."
+        ]
+      }
+    ],
+    "facts": [
+      "Avengers: Doomsday is the first Avengers sequel since 2019's Avengers: Endgame.",
+      "Joe and Anthony Russo are returning to direct their fifth MCU film.",
+      "Robert Downey Jr. plays the villain Doctor Doom.",
+      "James Marsden returns to play Scott Summers/Cyclops.",
+      "Sir Patrick Stewart returns as Professor X.",
+      "Sir Ian McKellen returns as Magneto.",
+      "Alan Cumming plays Nightcrawler.",
+      "Rebecca Romijn plays Mystique.",
+      "James Marsden was born on September 18, 1973, in Stillwater, Oklahoma, USA."
+    ],
+    "entities": {
+      "people": [
+        "Richard Nebens",
+        "Joe Russo",
+        "Anthony Russo",
+        "Robert Downey Jr.",
+        "Patrick Stewart",
+        "Ian McKellen",
+        "Alan Cumming",
+        "Rebecca Romijn",
+        "James Marsden",
+        "Hugh Jackman"
+      ],
+      "titles": [
+        "Avengers: Doomsday",
+        "Avengers: Endgame",
+        "Ray Gunn",
+        "Insidious: Out of the Further",
+        "X-Men"
+      ]
+    },
+    "keywords": [
+      "Avengers Doomsday",
+      "James Marsden Cyclops",
+      "Avengers Doomsday X-Men",
+      "Scott Summers Marvel"
+    ],
+    "images": [
+      {
+        "url": "https://static0.moviewebimages.com/wordpress/wp-content/uploads/2026/11/c-1.jpg?w=1600&amp;h=900&amp;fit=crop",
+        "caption": "Avengers: Doomsday Corrects a Longstanding Marvel Mistake With Cyclops",
+        "source": "MovieWeb"
+      }
+    ],
+    "published": "Thu, 26 Nov 2026 21:55:55 GMT"
   }
 };

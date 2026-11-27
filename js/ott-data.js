@@ -3,27 +3,6 @@ window.FA_OTT = {
   "coming": [
     {
       "country": "US",
-      "date": "2026-11-27",
-      "date_kind": "digital",
-      "id": 1506401,
-      "providers": [
-        {
-          "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
-          "name": "Netflix"
-        }
-      ],
-      "type": "movie"
-    },
-    {
-      "country": "GB",
-      "date": "2026-11-27",
-      "date_kind": "digital",
-      "id": 1791797,
-      "providers": [],
-      "type": "movie"
-    },
-    {
-      "country": "US",
       "date": "2026-12-02",
       "date_kind": "digital",
       "id": 1422041,
@@ -53,6 +32,27 @@ window.FA_OTT = {
     }
   ],
   "now": [
+    {
+      "country": "US",
+      "date": "2026-11-27",
+      "date_kind": "digital",
+      "id": 1506401,
+      "providers": [
+        {
+          "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        }
+      ],
+      "type": "movie"
+    },
+    {
+      "country": "GB",
+      "date": "2026-11-27",
+      "date_kind": "digital",
+      "id": 1791797,
+      "providers": [],
+      "type": "movie"
+    },
     {
       "date": "2026-11-25",
       "date_kind": "release",
