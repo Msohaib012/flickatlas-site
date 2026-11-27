@@ -259451,5 +259451,401 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Thu, 26 Nov 2026 21:55:55 GMT"
+  },
+  "1rt7qnn": {
+    "id": "1rt7qnn",
+    "type": "news",
+    "headline": "‘Ramayana’ Box Office Day 22: Ranbir Kapoor and Yash-Starrer Wraps Up Third Week With Rs 128 Crore Haul",
+    "dek": "The mythological epic starring Ranbir Kapoor and Yash is on the brink of entering the elite Rs 1,000 crore domestic net club after concluding its third week with massive earnings.",
+    "body": [
+      {
+        "h": "Strong Third Week Concludes",
+        "p": [
+          "The high-profile mythological drama 'Ramayana: Rise of a Legend' has wrapped up another formidable seven-day stretch at the ticket counters across the country. Leading the cinematic landscape, the movie successfully closed its third week in theatres with an impressive net collection of Rs 9.65 crore.",
+          "Although ticket sales dipped just below the coveted Rs 10 crore threshold on Thursday, the consistent numbers proved sufficient to elevate the feature's cumulative domestic net total closer to historic territory."
+        ]
+      },
+      {
+        "h": "Approaching the Thousand Crore Landmark",
+        "p": [
+          "With the latest figures factored in, the total India net collection for the Ranbir Kapoor and Yash-starrer has climbed to an immense Rs 992.10 crore. The cinematic spectacle now stands merely Rs 7.90 crore away from shattering the monumental Rs 1,000 crore domestic net barrier.",
+          "On the gross front, the film's total domestic earnings have touched Rs 1,185 crore, cementing its status as an absolute powerhouse at the box office."
+        ]
+      },
+      {
+        "h": "Language-Wise Performance Breakdown",
+        "p": [
+          "A closer analysis of the daily collections reveals that the Hindi-language version commanded the lion's share of the audience turnout on Thursday. Exhibited across 13,287 shows, the Hindi version alone brought in Rs 6.75 crore.",
+          "Regional versions also contributed meaningfully to the overall bounty, with the Malayalam edition adding Rs 1 crore, the Kannada version pulling in Rs 85 lakh, the Tamil version securing Rs 75 lakh, and the Telugu variant chipping in with Rs 30 lakh."
+        ]
+      },
+      {
+        "h": "A Look Back at Weekly Trajectories",
+        "p": [
+          "The journey to this financial milestone has been defined by consistently astronomical numbers since day one. During its blockbuster opening week covering Days 1 through 8, the feature amassed a staggering Rs 564.60 crore net and a gross of Rs 675.05 crore.",
+          "The momentum continued into the second week with another robust haul of Rs 299.15 crore net and Rs 357.10 crore gross, before the third week added another Rs 128.35 crore net."
+        ]
+      },
+      {
+        "h": "Global Collections and International Reach",
+        "p": [
+          "Beyond domestic borders, the mythological venture has continued to draw significant crowds from overseas audiences. International territories contributed an estimated Rs 10 crore on Day 22 alone, pushing the cumulative overseas gross to an impressive Rs 592 crore.",
+          "When combined with domestic gross figures, the worldwide box office total for the grand production now stands at an extraordinary Rs 1,777 crore."
+        ]
+      },
+      {
+        "h": "Historical Context and Precedents",
+        "p": [
+          "For nearly seven years, SS Rajamouli's 'Baahubali 2: The Conclusion' stood alone as the sole Indian feature to breach the Rs 1,000 crore domestic net threshold. That exclusive club later welcomed 'Pushpa 2: The Rule' in December 2024.",
+          "Earlier this year, 'Dhurandhar 2' made history by becoming the very first Bollywood production to attain the milestone, setting the stage for 'Ramayana' to potentially become the second Bollywood film to join the ranks."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "'Ramayana: Rise of a Legend' wrapped up its third week with a total haul of Rs 128 crore, bringing its overall domestic net collection to Rs 992.10 crore. Starring Ranbir Kapoor and Yash, the epic is now on the verge of crossing the historic Rs 1,000 crore net milestone."
+        ]
+      }
+    ],
+    "facts": [
+      "Ranbir Kapoor and Yash star in 'Ramayana: Rise of a Legend'.",
+      "The film wrapped up its third week with a net collection of Rs 9.65 crore on Thursday.",
+      "The total India net collection reached Rs 992.10 crore.",
+      "The film requires an additional Rs 7.90 crore to hit the Rs 1,000 crore domestic net milestone.",
+      "Total India gross collection stands at Rs 1,185 crore.",
+      "Thursday Hindi collections reached Rs 6.75 crore across 13,287 shows.",
+      "Malayalam collection was Rs 1 crore, Kannada was Rs 85 lakh, Tamil was Rs 75 lakh, and Telugu was Rs 30 lakh.",
+      "Opening week net collection was Rs 564.60 crore and gross was Rs 675.05 crore.",
+      "Second week net collection was Rs 299.15 crore and gross was Rs 357.10 crore.",
+      "Third week total net collection was Rs 128.35 crore and gross was Rs 152.85 crore.",
+      "Overseas collection on Day 22 was estimated at Rs 10 crore.",
+      "Cumulative international gross stands at Rs 592 crore.",
+      "Worldwide gross collection reached Rs 1,777 crore.",
+      "'Baahubali 2: The Conclusion' was directed by SS Rajamouli."
+    ],
+    "entities": {
+      "people": [
+        "Ranbir Kapoor",
+        "Yash",
+        "SS Rajamouli"
+      ],
+      "titles": [
+        "Ramayana: Rise of a Legend",
+        "Baahubali 2: The Conclusion",
+        "Pushpa 2: The Rule",
+        "Dhurandhar 2",
+        "Ramayana"
+      ]
+    },
+    "keywords": [
+      "Ramayana film box office",
+      "Ranbir Kapoor Yash Ramayana",
+      "Ramayana Rs 1000 crore net",
+      "Ramayana Rise of a Legend collection"
+    ],
+    "images": [
+      {
+        "url": "https://static.toiimg.com/thumb/msid-136206452,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "caption": "‘Ramayana’ Box Office Day 22: Ranbir Kapoor and Yash-Starrer Wraps Up Third Week With Rs 128 Crore Haul",
+        "source": "Times of India — Entertainment"
+      }
+    ],
+    "published": "2026-11-27T06:47:39+05:30"
+  },
+  "5s6b3l": {
+    "id": "5s6b3l",
+    "type": "news",
+    "headline": "Blade Runner 2099 Boss Breaks Down the Finale, Replicant Control, and the Fates of Cora and Olwen",
+    "dek": "Showrunner Silka Luisa dives deep into the major spoilers of the Prime Video series finale, explaining what the Nexus-1 memory means and why the story embraces a grim noir reality.",
+    "body": [
+      {
+        "h": "Unraveling the Final Fate of Cora and Olwen",
+        "p": [
+          "The gripping conclusion of the Prime Video series places the future of society in a state of deep uncertainty. After a rigorous search across the timeline, characters Olwen and Cora finally uncover a stolen memory holding Dr. Eldon Tyrell's original Nexus-1 replicant blueprint. Their journey culminates in a violent confrontation with Julius, whose dangerous ambitions threaten to entirely reshape the dynamic between humans and replicants.",
+          "In a surprising sequence of events, Olwen manages to eliminate Julius, though not before he succeeds in destroying the memory drive containing those crucial historical designs. Despite this loss, Olwen experiences a major turning point. Believing she was living out the final moments of her designated lifespan, she discovers a transformation into a Nexus-1 model, granting her the extended future she deeply desired."
+        ]
+      },
+      {
+        "h": "Cora Discovers a New Reality and Regains Empathy",
+        "p": [
+          "Meanwhile, Cora confronts her own earth-shattering revelations regarding her upbringing. She learns that Helena, the woman who raised both her and Elias, was actually a replicant all along. This shocking truth forces Cora to re-evaluate everything she previously understood about humanity, opening her eyes to the possibility that human beings and replicants are not nearly as different as society claims.",
+          "Returning to the LAPD, Cora is subjected to a secondary Index test administered by Greta. This serves as a direct parallel to the premiere episode where her initial results proved she lacked empathy entirely. Through her journey and newfound bond of care for Olwen, Cora has fundamentally changed, ultimately demonstrating that empathy is not fixed and can be reclaimed."
+        ]
+      },
+      {
+        "h": "Elias and the Illusion of a Human Rebellion",
+        "p": [
+          "While Cora processes her new emotional state, Elias takes a starkly different and much more radical approach. Desperate to fight back and restore societal control to humanity, he broadcasts a false message across Los Angeles claiming responsibility for the destruction of the replicant birthing center. By taking credit for Julius's actions, Elias hopes to ignite a massive human uprising.",
+          "However, the expected rebellion fails to materialize in the streets. The harsh reality of the situation settles in as replicants maintain absolute control over the metropolis, leaving Elias's ultimate fate entirely unknown. Showrunner Silka Luisa notes that his desperate act was an attempt to find agency and be the spark for a world that ultimately offers no easy saviors."
+        ]
+      },
+      {
+        "h": "A Noir World Ruled by Corporate Capitalism",
+        "p": [
+          "Addressing the lack of a traditional revolutionary triumph, the creative team emphasized the staunchly noir roots of the narrative. Rather than delivering a hopeful victory story where humanity reclaims its throne, the series leans heavily into the oppressive mechanics of capitalism and corporate control. No one is coming to rescue the characters from their predicament.",
+          "This bleak status quo forces every individual to carve out their own path and future within a deeply compromised environment. Luisa explains that the narrative deliberately avoids clean, fairy-tale resolutions, preferring instead to reflect a tense world where characters must navigate the heavy fallout of a society dominated by advanced artificial beings."
+        ]
+      },
+      {
+        "h": "Exploring Tyrell's Original Vision for the Nexus-1",
+        "p": [
+          "The search for Dr. Eldon Tyrell's original design sheds fresh light on the overarching lore of the universe. Reflecting on Tyrell's character from the original 1982 film, the creative team envisioned him not merely as an industrialist creating laborers, but as a grandiose dreamer with a clear God complex. His true intent was to engineer a superior successor to humanity.",
+          "By introducing the Nexus-1 concept into the modern narrative, the series explores what happens when creations outlast and outperform their makers. The overarching premise challenges audiences with contemporary questions regarding the value of human existence, drawing strong parallels to modern anxieties surrounding artificial intelligence."
+        ]
+      },
+      {
+        "h": "Olwen's Final Journey Off-World",
+        "p": [
+          "The closing moments of the series offer a poignant glimpse into the heavily mythologized off-world colonies. As Olwen flies away toward distant horizons, the scene provides a bittersweet sense of closure, allowing her to return to a place associated with personal peace in her final chapters.",
+          "This ambiguous yet emotionally resonant conclusion was intentionally crafted to honor the traditions of the cinematic franchise while giving viewers a definitive emotional stopping point. By blending definitive character arcs with lingering questions, the finale invites ongoing debate among fans."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "The finale of Blade Runner 2099 brings the arcs of Cora and Olwen to a dramatic head following their confrontation with Julius over Dr. Eldon Tyrell's original Nexus-1 designs. While Olwen secures an extended life and flies off-world, Cora rediscovers her empathy and Elias faces an uncertain fate after a failed bid to spark a human uprising. Showrunner Silka Luisa reflects on these events, emphasizing the series' dark noir roots and its exploration of contemporary AI anxieties."
+        ]
+      }
+    ],
+    "facts": [
+      "Dr. Eldon Tyrell created the original Nexus-1 replicant design.",
+      "Olwen killed Julius after he destroyed the memory containing the original design.",
+      "Olwen was transformed into a Nexus-1, granting her a longer lifespan.",
+      "Helena, who raised Cora and Elias, was revealed to be a replicant.",
+      "Elias broadcast a false message claiming responsibility for destroying the replicant birthing center.",
+      "Cora took a second Index test overseen by Greta at the LAPD and demonstrated she had developed empathy."
+    ],
+    "entities": {
+      "people": [
+        "Silka Luisa",
+        "Cora",
+        "Olwen",
+        "Julius",
+        "Dr. Eldon Tyrell",
+        "Helena",
+        "Elias",
+        "Greta",
+        "Joe Turkell",
+        "Michelle Yeoh",
+        "Hunter Schafer",
+        "Sam C. Wilson",
+        "Sheila Atim",
+        "Lewis Gribben",
+        "Katelyn Rose Downey",
+        "Dimitri Abold",
+        "Noah Ritter",
+        "Benjamín Naishtat",
+        "Selton Mello",
+        "Tanya Fedak"
+      ],
+      "titles": [
+        "Blade Runner 2099",
+        "Blade Runner",
+        "Blade Runner 2049",
+        "The Seven Madmen",
+        "I’m Still Here",
+        "Avengers: Doomsday",
+        "Monopoly Go",
+        "Doomsday Go"
+      ]
+    },
+    "keywords": [
+      "Blade Runner 2099 finale",
+      "Cora and Olwen Blade Runner",
+      "Silka Luisa Blade Runner 2099",
+      "Nexus-1 design Blade Runner"
+    ],
+    "images": [
+      {
+        "url": "https://variety.com/wp-content/uploads/2026/11/BLDR_S1_UT_241030_ENOCLA_00065_R21_3000.jpg?w=1000&#038;h=563&#038;crop=1",
+        "caption": "Blade Runner 2099 Boss Breaks Down the Finale, Replicant Control, and the Fates of Cora and Olwen",
+        "source": "Variety"
+      }
+    ],
+    "published": "Fri, 27 Nov 2026 01:00:00 +0000"
+  },
+  "w2a03n": {
+    "id": "w2a03n",
+    "type": "news",
+    "headline": "Gunmaaster G9 Final Advance Booking: Emraan Hashmi and Genelia Deshmukh's Film Sells 10,000 Tickets in National Chains for Day 1",
+    "dek": "Emraan Hashmi and Genelia Deshmukh's romantic action feature Gunmaaster G9 is heading for a low start at the box office, selling around 10,000 tickets in top national chains for its opening day.",
+    "body": [
+      {
+        "h": "Opening Day Advance Sales",
+        "p": [
+          "The theatrical release of Gunmaaster G9 has officially arrived in cinemas, though early pre-sales indicate a subdued start at the ticket counters. Trade trackers note that the romantic action venture managed to sell approximately 10,000 tickets across the leading national cinema chains, specifically PVR Inox and Cinepolis, for its very first day.",
+          "Such figures point toward a modest beginning for the theatrical run. Industry analysts are projecting an opening day collection in the ballpark of Rs. 3 crore to Rs. 3.50 crore nett, setting up a relatively quiet entry into the market for the main cast."
+        ]
+      },
+      {
+        "h": "Cast and Crew Details",
+        "p": [
+          "Headlined by Emraan Hashmi and Genelia Deshmukh, Gunmaaster G9 also features supporting performances from Aparshakti Khurana and Abhishek Singh. The project is directed by filmmaker Aditya Datt and brings a distinct romantic action flavor to the big screen.",
+          "On the production front, the movie is backed by Deepak Mukut, Hunar Mukut, and Sangeeta Ahir under the banner of SRE Studio LLP. It made its worldwide theatrical debut on November 27, 2026."
+        ]
+      },
+      {
+        "h": "Box Office Projections and Expectations",
+        "p": [
+          "Given the cautious start in advance ticketing, trade experts emphasize that the film's ultimate success will heavily rely on organic word-of-mouth momentum. Transforming initial audience reactions into steady footfalls over the weekend will be crucial for maintaining a healthy theatrical run.",
+          "Because advance numbers point to a soft opening, strong positive reviews and encouraging weekend growth are viewed as essential tools for the title to build traction against competing releases in the marketplace."
+        ]
+      },
+      {
+        "h": "Theatrical Clash and Competition",
+        "p": [
+          "Gunmaaster G9 arrives in theaters amidst a crowded release window, directly clashing with Sooraj Barjatya's film Yeh Prem Mol Liya. While both titles target different segments of the moviegoing audience and theoretically possess room to co-exist, they must share screen space.",
+          "In addition to facing its direct release-day competitor, the feature must also contend with strong holdover and dominant numbers from Ramayana, which is expected to command a major share of the audience attention in Hindi markets over the weekend."
+        ]
+      },
+      {
+        "h": "Tracking and Trade Estimates",
+        "p": [
+          "All figures concerning advance bookings, opening day forecasts, and projected lifetime collections are derived from commercial parameters, market sentiment, and pre-sale trends. These estimates represent analytical tracking rather than certified final accounting figures.",
+          "Industry observers continue to monitor daily updates closely as the title completes its first full day in theaters and moves deeper into its opening weekend."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Emraan Hashmi and Genelia Deshmukh's Gunmaaster G9 opened in theaters with low advance bookings, selling 10,000 tickets across major national chains for Day 1. Trade projections estimate an opening day collection between Rs. 3 crore and Rs. 3.50 crore nett, with the film relying on strong word-of-mouth and weekend growth."
+        ]
+      }
+    ],
+    "facts": [
+      "Emraan Hashmi and Genelia Deshmukh star in Gunmaaster G9.",
+      "The film sold 10,000 tickets in national chains PVR Inox and Cinepolis for Day 1.",
+      "Projected opening day collection is between Rs. 3 crore and Rs. 3.50 crore nett.",
+      "The film released worldwide on November 27, 2026.",
+      "It is directed by Aditya Datt and produced by Deepak Mukut, Hunar Mukut, and Sangeeta Ahir.",
+      "Aparshakti Khurana and Abhishek Singh also star in the film."
+    ],
+    "entities": {
+      "people": [
+        "Emraan Hashmi",
+        "Genelia Deshmukh",
+        "Aparshakti Khurana",
+        "Abhishek Singh",
+        "Aditya Datt",
+        "Deepak Mukut",
+        "Hunar Mukut",
+        "Sangeeta Ahir",
+        "Sooraj Barjatya"
+      ],
+      "titles": [
+        "Gunmaaster G9",
+        "Yeh Prem Mol Liya",
+        "Ramayana"
+      ]
+    },
+    "keywords": [
+      "Gunmaaster G9",
+      "Emraan Hashmi",
+      "Genelia Deshmukh",
+      "Gunmaaster G9 advance booking"
+    ],
+    "images": [
+      {
+        "url": "https://www.pinkvilla.com/images/2026-11/77006375_gunmaaster-g9-_1_.webp",
+        "caption": "Gunmaaster G9 Final Advance Booking: Emraan Hashmi and Genelia Deshmukh's Film Sells 10,000 Tickets in National Chains f",
+        "source": "Pinkvilla"
+      }
+    ],
+    "published": "Fri, 27 Nov 2026 01:05:27 +0530"
+  },
+  "6lz06p": {
+    "id": "6lz06p",
+    "type": "news",
+    "headline": "Netflix's Underrated R-Rated Fantasy Series Dorohedoro Stands Out For Its Unconventional Worldbuilding",
+    "dek": "Discover how the dark fantasy anime Dorohedoro uses soft worldbuilding, extreme violence, and unexpected heart to captivate streaming audiences.",
+    "body": [
+      {
+        "h": "The Art of Soft Worldbuilding in Dorohedoro",
+        "p": [
+          "In the crowded landscape of fantasy television, establishing a believable setting is paramount for immersing viewers in magical elements and physical laws. While many entries rely on heavy exposition and complex lore dumps to explain their universes, Dorohedoro takes a radically different approach.",
+          "The streaming series employs soft worldbuilding by dropping audiences directly into a disordered dystopian setting without over-explaining its inner mechanics. This method purposefully leaves viewers just as confused as the main protagonist, allowing them to piece together the rules of the universe organically."
+        ]
+      },
+      {
+        "h": "Unpacking the Gritty Premise and Characters",
+        "p": [
+          "The story follows Caiman, an unfortunate man who has lost his memory and been cursed with the head of a lizard. With only a mysterious human head residing inside his mouth for identification, he embarks on a quest alongside his loyal friend Nikaido.",
+          "Together, the duo hunts down sorcerers in a desperate attempt to find the individual responsible for Caiman's transformation. Their journey serves as the narrative anchor for a narrative that blends intense mystery with relentless action."
+        ]
+      },
+      {
+        "h": "The Stark Contrast Between Two Distinct Settings",
+        "p": [
+          "A major highlight of the series is the sharp division between its primary environments: the Sorcerers' World and The Hole. The latter functions as a desolate, industrial urban expanse where ordinary inhabitants face ruthless exploitation by visiting sorcerers.",
+          "This dynamic creates a living, breathing ecosystem characterized by unique side jobs, sorcerer-hunting activities, and surreal community events such as 'The Night of the Living Dead.' The industrial aesthetic underlines the harsh reality of the universe."
+        ]
+      },
+      {
+        "h": "Balancing Extreme Gore with Heartwarming Camaraderie",
+        "p": [
+          "Rated TV-MA for explosive violence, Dorohedoro uses its shocking imagery and body horror not merely for superficial effect, but to reinforce the social structures and internal logic of its world. Every brutal killing and visceral detail serves a functional storytelling purpose.",
+          "Despite the heavy gore and dark fantasy themes, the anime maintains a surprisingly heartwarming core. Moments of lighthearted camaraderie, dark comedy, and simple pleasures like sharing a meal ground the characters in genuine human emotion."
+        ]
+      },
+      {
+        "h": "Manga Origins and Studio Production",
+        "p": [
+          "Based on the acclaimed seinen manga by Q Hayashida, the anime adaptation was brought to life by studio MAPPA. Known for working on massive hits like Jujutsu Kaisen and Attack on Titan, MAPPA successfully captured the complex industrial aesthetic required for the adaptation.",
+          "The original manga is widely regarded as a masterpiece within its demographic, appealing strongly to adult readers who appreciate intricate dark fantasy narratives paired with unconventional artistic choices."
+        ]
+      },
+      {
+        "h": "Episode Count and Season 3 Confirmation",
+        "p": [
+          "Spanning across two seasons and a total of 23 episodes, the anime has adapted roughly 80 chapters of the source material. This places the television adaptation at approximately the halfway point of the overarching manga story.",
+          "Fans received exciting news when MAPPA revealed a teaser confirming that a third season is officially in production. This upcoming installment promises a shorter wait time compared to previous hiatuses, making it an ideal moment for newcomers to catch up."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "The R-rated fantasy anime Dorohedoro has earned recognition on Netflix for its distinctive soft worldbuilding and unconventional dystopian setting. With two seasons comprising 23 episodes already available, the series has officially been confirmed for a third season by studio MAPPA."
+        ]
+      }
+    ],
+    "facts": [
+      "Dorohedoro was released in 2020.",
+      "The series is rated TV-MA on Netflix.",
+      "The anime is produced by studio MAPPA.",
+      "The story is based on the seinen manga by Q Hayashida.",
+      "The series spans 23 episodes across two seasons.",
+      "The anime has adapted around 80 chapters of the manga.",
+      "Dorohedoro Season 3 has been confirmed."
+    ],
+    "entities": {
+      "people": [
+        "Vanessa Piña",
+        "Hannah Diffey",
+        "Q Hayashida",
+        "Caiman",
+        "Nikaido"
+      ],
+      "titles": [
+        "Dorohedoro",
+        "Jujutsu Kaisen",
+        "Attack on Titan",
+        "Chainsaw Man",
+        "Berserk"
+      ]
+    },
+    "keywords": [
+      "Dorohedoro Netflix",
+      "Dorohedoro Season 3",
+      "Q Hayashida manga",
+      "MAPPA Dorohedoro anime"
+    ],
+    "images": [
+      {
+        "url": "https://static0.srcdn.com/wordpress/wp-content/uploads/2026/07/the-netflix-logo-is-in-front-of-a-grungy-black-and-dark-red-background.jpg?w=1600&amp;h=900&amp;fit=crop",
+        "caption": "Netflix's Underrated R-Rated Fantasy Series Dorohedoro Stands Out For Its Unconventional Worldbuilding",
+        "source": "Screen Rant"
+      }
+    ],
+    "published": "Fri, 27 Nov 2026 01:00:18 GMT"
   }
 };
