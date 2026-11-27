@@ -265923,5 +265923,599 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Fri, 27 Nov 2026 10:01:00 -0500"
+  },
+  "u0kvup": {
+    "id": "u0kvup",
+    "type": "news",
+    "headline": "Bano Episode 44 — Watch Online on Geo TV",
+    "dek": "Bano episode 44 aired on 2026-11-27 — watch the full episode on Geo TV.",
+    "body": [
+      {
+        "h": "Episode Details",
+        "p": [
+          "Bano Episode 44 aired on 2026-11-27 on Geo TV. The full episode is available on the channel's official YouTube page.",
+          "Watch the full episode here: https://www.youtube.com/watch?v=f3OSNF2ME74"
+        ]
+      },
+      {
+        "h": "Episode Summary",
+        "p": [
+          "Is episode ki shuruat mein Tuba aur Murtaza ki guftagu hoti hai jahan Tuba ko Bano aur Shahryar ke rishtay ki sachai ka pata chal jata hai aur woh preshan hoti hai ke woh Shahryar ko kaise bataye kyunke Shahryar Bano se bohat mohabbat karta hai aur usne Bano ki khatir apni maa ke khilaf bhi stand liya tha. Tuba jab yeh sach jan leti hai to woh baray sakht dukh aur kashmakash mein mubtila ho jati hai ke Bano ne uske bhai ke sath aisa dhoka kyun kiya. Doosri taraf Murtaza Tuba ko samjhata hai ke kuch sach chupaye rakhna hi behtar hota hai kyunke sach batanay se rishtay toot jatay hain aur Shahryar is dard ko bardasht nahi kar payega.\n\nIdhar Tuba kisi tarah himmat karke Shahryar ko Northern Areas ke trip ke tickets deti hai aur yeh dekh kar ke Bano un tickets ko phaar deti hai, Tuba ko shak hota hai aur woh chupke se Tuba ki conversation record kar leti hai jisse yeh sabit ho jata hai ke Bano aur Murtaza pehle se milte thay aur unka purana talluq tha. Tuba yeh sab saboot dekh kar shock reh jati hai aur aakhirkar woh yehi sach sab ke samne le aati hai jab Bano aur Shahryar ghar par hotay hain. Episode ke end par Tuba sab ke samne Bano ki haqeeqat aur uska purana ishq be-naqaab kar deti hai, aur Bano aur baki sab is anokhe khulase par behad preshan aur hairan reh jatay hain."
+        ]
+      }
+    ],
+    "facts": [
+      "Bano Episode 44 aired on 2026-11-27.",
+      "Channel: Geo TV.",
+      "Watch the full episode: https://www.youtube.com/watch?v=f3OSNF2ME74",
+      "YouTube views: 113,890.",
+      "Episode summary added 2026-11-27."
+    ],
+    "entities": {
+      "titles": [
+        "Bano"
+      ],
+      "people": []
+    },
+    "images": [
+      {
+        "url": "https://i.ytimg.com/vi/f3OSNF2ME74/hqdefault.jpg",
+        "caption": "Bano Episode 44",
+        "source": "Geo TV"
+      }
+    ],
+    "published": "2026-11-27T17:00:30Z"
+  },
+  "1iisrlv": {
+    "id": "1iisrlv",
+    "type": "news",
+    "headline": "Nashtar Episode 36 — Watch Online on Geo TV",
+    "dek": "Nashtar episode 36 aired on 2026-11-27 — watch the full episode on Geo TV.",
+    "body": [
+      {
+        "h": "Episode Details",
+        "p": [
+          "Nashtar Episode 36 aired on 2026-11-27 on Geo TV. The full episode is available on the channel's official YouTube page.",
+          "Watch the full episode here: https://www.youtube.com/watch?v=eCTSWtL-TM4"
+        ]
+      },
+      {
+        "h": "About Nashtar",
+        "p": [
+          "Shah Dawood, the arrogant heir to a powerful landowning family, clashes with Bareera Aijaz, a principled university student who refuses to bow to his authority. Forced into an unexpected marriage, their constant battles gradually give way to respect and love. But when Tamseel, Shah’s longtime admirer, refuses to accept Bareera, their fragile relationship is put to the ultimate test. Can Shah and Bareera overcome jealousy, family pressure, and their differences to find lasting love?"
+        ]
+      },
+      {
+        "h": "Episode Summary",
+        "p": [
+          "Is episode mein Gulbano apne ghar par pareshan khadi hoti hai jab Mansab aur doosre log wahan aate hain. Gulbano poochti hai ke Shadab kahan hai, aur usey bataya jata hai ke Qabristan wali zameen par Shadab par hamla hua hai. Ye sunkar Gulbano gusse mein aati hai aur Rafi se kehti hai ke jaakar Shadab ko dhoondhe. Dosri taraf, Mansab aur Rafi ki baat hoti hai aur Rafi batata hai ke Shadab kaise bacha, jabke Mansab ghuse mein hota hai ke unka plan kaam nahi aya. Baad mein, Gulbano apni saheliyo Gulbano aur Tamsil ke paas baithti hai aur batati hai ke Tamsil ki shadi Mansab Khan se tay ho gayi hai. Tamsil is faisle par khush nahi hoti aur kehti hai ke Mansab ne kabhi usey qabool nahi kiya. Ghar par ek aur scene mein, Tamsil ki tabiyat kharab hoti hai aur gharwale usey sambhalne ki koshish karte hain. Episode ke end mein, Gulbano phone par Rafi se baat kar rahi hoti hai aur woh dono apni mohabbat ka izhaar karte hain jabke wahan Rafi bhi mojood hota hai aur ek ankhon ka milan hota hai."
+        ]
+      }
+    ],
+    "facts": [
+      "Nashtar Episode 36 aired on 2026-11-27.",
+      "Channel: Geo TV.",
+      "Watch the full episode: https://www.youtube.com/watch?v=eCTSWtL-TM4",
+      "YouTube views: 621,662.",
+      "TMDB: Nashtar (id 332312).",
+      "Episode summary added 2026-11-27."
+    ],
+    "entities": {
+      "titles": [
+        "Nashtar"
+      ],
+      "people": [
+        "Danish Taimoor",
+        "Anmol Baloch",
+        "Naeema Butt"
+      ]
+    },
+    "images": [
+      {
+        "url": "https://i.ytimg.com/vi/eCTSWtL-TM4/hqdefault.jpg",
+        "caption": "Nashtar Episode 36",
+        "source": "Geo TV"
+      }
+    ],
+    "published": "2026-11-27T16:00:38Z"
+  },
+  "1yvciz7": {
+    "id": "1yvciz7",
+    "type": "news",
+    "headline": "Aangan Episode 17 — Watch Online on HUM TV",
+    "dek": "Aangan episode 17 aired on 2026-11-27 — watch the full episode on HUM TV.",
+    "body": [
+      {
+        "h": "Episode Details",
+        "p": [
+          "Aangan Episode 17 aired on 2026-11-27 on HUM TV. The full episode is available on the channel's official YouTube page.",
+          "Watch the full episode here: https://www.youtube.com/watch?v=JFmxuNfg7X4"
+        ]
+      },
+      {
+        "h": "About Aangan",
+        "p": [
+          "Set before 1940s, a Hindustani family that was divided mercilessly before the partition of Pakistan by the unfortunate time incidents."
+        ]
+      },
+      {
+        "h": "Episode Summary",
+        "p": [
+          "Is episode ki shuruat mein bade chacha ghar wapas aate hain, jiske baad sabhi ghar wale khush hote hain aur unka swagat karte hain. Chacha sabhi se milte hain aur Chammi ke liye topi laate hain. Chacha sabse shaqeel ke baare mein poochte hain ki woh kahan hai. Phir chachi aur baaki ghar wale batate hain ki shaqeel raat ko der se aata hai ya ghaib rehta hai aur muslim league ke jaloson mein jaane laga hai. Yeh sunkar chacha shaqeel se naraz hote hain aur kehte hain ki uski haddiyan tod denge kyunki usne apne hi khandan ke khilaf yeh sab kiya hai aur shaqeel ghar chhod kar bhag gaya hai. \n\nChachi bohot rota hain aur chacha unhein chup karane ki koshish karte hain, jabki Chammi aur baaki ghar wale bhi pareshan hote hain. Baad mein, Jameel Aali se baat karne aata hai aur Aali ke kamre mein unke beech kuch baatcheet hoti hai jahan Aali usse poonchta hai ki woh usse baat kyun nahi karna chahti aur usse door kyun bhaagti hai. Episode ke ant mein Jameel aur Aali ke beech yehi rishwayi aur kashmakash ki sthiti dikhayi jaati hai, aur episode yahin ek emotional note aur cliffhanger par khatam hota hai."
+        ]
+      }
+    ],
+    "facts": [
+      "Aangan Episode 17 aired on 2026-11-27.",
+      "Channel: HUM TV.",
+      "Watch the full episode: https://www.youtube.com/watch?v=JFmxuNfg7X4",
+      "YouTube views: 111,051.",
+      "TMDB: Aangan (id 90172).",
+      "Episode summary added 2026-11-27."
+    ],
+    "entities": {
+      "titles": [
+        "Aangan"
+      ],
+      "people": [
+        "Ahad Raza Mir",
+        "Sonya Husyn",
+        "Sajal Ali",
+        "Mawra Hocane",
+        "Ahsan Khan"
+      ]
+    },
+    "images": [
+      {
+        "url": "https://i.ytimg.com/vi/JFmxuNfg7X4/hqdefault.jpg",
+        "caption": "Aangan Episode 17",
+        "source": "HUM TV"
+      }
+    ],
+    "published": "2026-11-27T16:00:17Z"
+  },
+  "1n9fpxx": {
+    "id": "1n9fpxx",
+    "type": "news",
+    "headline": "Dar-E-Nijaat Episode 34 — Watch Online on ARY Digital",
+    "dek": "Dar-E-Nijaat episode 34 aired on 2026-11-27 — watch the full episode on ARY Digital.",
+    "body": [
+      {
+        "h": "Episode Details",
+        "p": [
+          "Dar-E-Nijaat Episode 34 aired on 2026-11-27 on ARY Digital. The full episode is available on the channel's official YouTube page.",
+          "Watch the full episode here: https://www.youtube.com/watch?v=jQ8_1ruz9vg"
+        ]
+      },
+      {
+        "h": "About Dar-E-Nijaat",
+        "p": [
+          "Some stories begin with love. Some are tested by loss. And some are remembered for the courage it takes to forgive."
+        ]
+      },
+      {
+        "h": "Episode Summary",
+        "p": [
+          "Is episode mein Bela subah bagh mein chalte hue ghar wapas aati hai aur apne baap se kehti hai ke usne Aman ko yahan se nikal diya hai, usne apna aur apna baap ka izzat bachane ke liye yeh faisla kiya hai. Bela ka baap hairan aur pareshan hota hai ke woh aisi ladki ko ghar laye jiske paas koi izzat ya sharafat nahi thi aur ab Bela usko apne ghar nahi ane degi. Baad mein, Aman aur Bela court mein nikah kar lete hain aur aik dusre ka hath pakad kar ghar wapas jate hain. Aman apne baap ko batata hai ke usne Bela ke sath nikah kar liya hai aur uske baap ko is bare mein pehle se kuch pata nahi tha. Aman ka baap is shadi se khush nahi hota aur kehta hai ke uski izzat kharab ho gayi hai. Iske baad, Aman aur Bela ghar ate hain aur Bela sab ke samne apne baap ko batati hai ke usne Aman ke sath nikah kar liya hai aur ab woh wahan nahi rahegi. episode ke akhir mein, Aman ka baap aur Aman aapas mein baat karte hain aur Aman kehta hai ke woh is shadi ke baare mein kuch nahi janta tha aur agar woh chahe toh Aman ko ghar se nikal sakta hai. Aman ke baap ko is baat ka dukh hota hai ke uska beta uske bina pooche shadi kar liya hai aur woh gusse mein rehta hai."
+        ]
+      }
+    ],
+    "facts": [
+      "Dar-E-Nijaat Episode 34 aired on 2026-11-27.",
+      "Channel: ARY Digital.",
+      "Watch the full episode: https://www.youtube.com/watch?v=jQ8_1ruz9vg",
+      "YouTube views: 647,399.",
+      "TMDB: Dar-E-Nijaat (id 328722).",
+      "Episode summary added 2026-11-27."
+    ],
+    "entities": {
+      "titles": [
+        "Dar-E-Nijaat"
+      ],
+      "people": [
+        "Sheheryar Munawar Siddiqui",
+        "Dur-e-Fishan Saleem",
+        "Nameer Nawaz Khan",
+        "Faran Tahir",
+        "Romaisa Khan"
+      ]
+    },
+    "images": [
+      {
+        "url": "https://i.ytimg.com/vi/jQ8_1ruz9vg/hqdefault.jpg",
+        "caption": "Dar-E-Nijaat Episode 34",
+        "source": "ARY Digital"
+      }
+    ],
+    "published": "2026-11-27T16:00:16Z"
+  },
+  "1nm15gz": {
+    "id": "1nm15gz",
+    "type": "news",
+    "headline": "Ramayana Box Office Collection Day 23: Ranbir Kapoor And Yash Film Crosses ₹1000 Crore Mark, Is 4th Indian Film To Do So",
+    "dek": "The mythological drama Ramayana starring Ranbir Kapoor, Yash, and Sai Pallavi has officially entered the 1000 crore club on its 23rd day at the box office.",
+    "body": [
+      {
+        "h": "Reaching the Historic Milestone",
+        "p": [
+          "The mythological drama Ramayana has officially surpassed the monumental ₹1000 crore threshold at the box office in India. On its twenty-third day in theaters, the feature brought in ₹8.45 crore, successfully elevating its cumulative domestic earnings to ₹1,000.55 crore.",
+          "This achievement places the movie in an elite group of cinematic hits. It is now the fourth Indian film in history to cross the ₹1000 crore mark, and stands as the second Bollywood film to reach this milestone following Dhurandhar 2 earlier in the year."
+        ]
+      },
+      {
+        "h": "Opening Weekend and Early Records",
+        "p": [
+          "Anticipation for the project was exceptionally high prior to its theatrical arrival. Advance bookings officially commenced on Dussehra, which was fifteen days ahead of the actual release, allowing the production to accumulate ticket sales worth ₹200 crore globally before opening.",
+          "Upon hitting the big screen on November 5, the film immediately captured massive audiences. It registered a domestic collection of ₹64.85 crore on day one, marking the fourth-highest opening in the history of Bollywood cinema."
+        ]
+      },
+      {
+        "h": "Record-Breaking Weekday Figures",
+        "p": [
+          "The momentum continued robustly immediately following the opening weekend. The venture generated an unprecedented ₹107 crore net on Monday, followed by another massive haul of ₹94 crore net on Tuesday.",
+          "These figures represent the highest single-day totals ever recorded in Indian cinema history. Furthermore, the feature crossed the ₹500 crore milestone within just six days of its theatrical run."
+        ]
+      },
+      {
+        "h": "Combating Third-Week Dips",
+        "p": [
+          "As the theatrical run entered its third week, the production experienced a natural slowdown in ticket sales. To counter this deceleration and maintain momentum, the makers strategically slashed ticket prices across the country.",
+          "This tactical adjustment proved successful, helping the feature sustain steady numbers through the weekdays. It secured ₹9.50 crore on one day and saw a slight uptick to ₹9.65 crore the following day."
+        ]
+      },
+      {
+        "h": "Cast and Creative Team",
+        "p": [
+          "Ramayana is an ambitious cinematic adaptation of Valmiki's ancient epic literature. The narrative centers on Lord Rama and his conflict against the asura king Ravana after the abduction of Sita.",
+          "The star-studded cast features Ranbir Kapoor as Lord Rama, Sai Pallavi as Sita, and Yash as Ravana. Additional key roles are played by Ravie Dubey as Lakshman and Sunny Deol as Lord Hanuman, under the direction of Nitesh Tiwari."
+        ]
+      },
+      {
+        "h": "Production and Future Plans",
+        "p": [
+          "The project is structured as a two-part cinematic event. Production responsibilities are handled by Namit Malhotra’s Prime Focus Studios in partnership with DNEG and Yash’s Monster Mind Creations.",
+          "While the first part debuted worldwide on November 5, the second installment is already scheduled for a theatrical release during Diwali in 2028."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Ramayana crossed the ₹1000 crore mark at the Indian box office on its 23rd day, becoming the fourth Indian film and second Bollywood title to achieve this milestone. Directed by Nitesh Tiwari and starring Ranbir Kapoor, Yash, and Sai Pallavi, the mythological adaptation overcame a third-week box office dip through strategic ticket price cuts."
+        ]
+      }
+    ],
+    "facts": [
+      "Ramayana crossed ₹1000 crore on day 23",
+      "Total collection reached ₹1,000.55 crore",
+      "Released in theatres on November 5",
+      "Crossed ₹500 crore within 6 days",
+      "Day 1 collection in India was ₹64.85 crore",
+      "Monday collection was ₹107 crore net",
+      "Tuesday collection was ₹94 crore net",
+      "Day 23 collection was ₹8.45 crore",
+      "Other films in the ₹1000 crore club include Baahubali 2: The Conclusion, Pushpa 2: The Rule, and Dhurandhar 2: The Revenge",
+      "Part 2 is set for Diwali 2028"
+    ],
+    "entities": {
+      "people": [
+        "Ranbir Kapoor",
+        "Yash",
+        "Sai Pallavi",
+        "Nitesh Tiwari",
+        "Namit Malhotra",
+        "Ravie Dubey",
+        "Sunny Deol",
+        "Santanu Das"
+      ],
+      "titles": [
+        "Ramayana",
+        "Baahubali 2: The Conclusion",
+        "Pushpa 2: The Rule",
+        "Dhurandhar 2: The Revenge",
+        "Ramayana Part 1"
+      ]
+    },
+    "keywords": [
+      "Ramayana box office collection",
+      "Ranbir Kapoor Yash Ramayana",
+      "Ramayana 1000 crore mark",
+      "Nitesh Tiwari Ramayana film"
+    ],
+    "images": [
+      {
+        "url": "https://www.hindustantimes.com/ht-img/img/2026/11/27/1600x900/logo/ramayana_1795796402888_ID0p_1795796403073_n6cD_8deefb4d-6154-4c50-b284-a107fc0c8513_Z3Kp.jpg",
+        "caption": "Ramayana Box Office Collection Day 23: Ranbir Kapoor And Yash Film Crosses ₹1000 Crore Mark, Is 4th Indian Film To Do So",
+        "source": "Hindustan Times — Entertainment"
+      }
+    ],
+    "published": "Fri, 27 Nov 2026 22:41:25 +0530"
+  },
+  "xxfc09": {
+    "id": "xxfc09",
+    "type": "news",
+    "headline": "Simon Pegg's Secret Balrog Role in The Lord of the Rings: The Rings of Power Season 3 Unveiled",
+    "dek": "Amazon Prime Video reveals behind-the-scenes footage showing how Simon Pegg provided the voice and on-set performance for the terrifying Balrog in the fantasy series.",
+    "body": [
+      {
+        "h": "Return to Middle-earth",
+        "p": [
+          "Amazon Prime Video brought audiences back to the expansive realm of Middle-earth with the launch of The Lord of the Rings: The Rings of Power Season 3. Arriving as the first new batch of episodes since 2024, the narrative tackles major plot developments concerning the Elves, Dwarves, and Men.",
+          "A central focus of this latest chapter involves the meticulous forging of the One Ring to Rule Them All. As Sauron continues his relentless ascent to absolute power, he encounters formidable entities that test his limits."
+        ]
+      },
+      {
+        "h": "The Monster Comes to Life",
+        "p": [
+          "Alongside Sauron, the series welcomed back one of the most terrifying creatures in the entire franchise. The Balrog, a massive beast that originally terrified viewers in the 2001 film adaptation of The Lord of the Rings: The Fellowship of the Ring, re-entered the spotlight.",
+          "While previous seasons featured smaller glimpses of the monster, Episode 7 of the third season finally gave the terrifying beast a distinct voice. Acclaimed actor Simon Pegg stepped into the role to breathe life into the fiery demon."
+        ]
+      },
+      {
+        "h": "Behind the Recording Booth",
+        "p": [
+          "Following the conclusion of the season, streaming platform Amazon Prime Video published detailed insights showcasing how the massive character was crafted for television. Fans received a behind-the-scenes look featuring Simon Pegg at work.",
+          "The newly released promotional material captures Pegg inside the recording booth delivering his lines. Additionally, he performed the role using a microphone directly on set alongside co-star Charlie Vickers to establish a more genuine dynamic."
+        ]
+      },
+      {
+        "h": "Voice Alterations and CGI",
+        "p": [
+          "Bringing the monstrous creature to life required extensive audio modifications. The behind-the-scenes footage highlights the specific vocal tweaks applied to Pegg's performance to ensure the character sounded exceptionally menacing.",
+          "These vocal adjustments were paired seamlessly with the fully computer-generated imagery of the fire demon. The combination resulted in a towering presence capable of intimidating even the most powerful beings in the fictional universe."
+        ]
+      },
+      {
+        "h": "A Fateful Encounter Beneath Khazad-dûm",
+        "p": [
+          "The Balrog made its prominent return during the penultimate installment of Season 3. In this sequence, Sauron travels down to the creature dwelling beneath Khazad-dûm while struggling to control the fires of Mount Doom needed for the One Ring.",
+          "Within the narrative, the fiery beast is established as the ultimate authority on fire. Initially hesitant to assist, the monster listens as Sauron offers control of Khazad-dûm in exchange for guidance."
+        ]
+      },
+      {
+        "h": "The Secret to Forging the Ring",
+        "p": [
+          "Through this interaction, Sauron receives crucial guidance regarding his overarching mission. Instead of continuing to fight the intense heat, he learns that he must ultimately surrender to the fires of Mount Doom.",
+          "This pivotal realization allows him to successfully harness the necessary energy. The sequence marks a major turning point for the overarching plot of the streaming series."
+        ]
+      },
+      {
+        "h": "Future Prospects and Season 4",
+        "p": [
+          "With the third season now complete, it remains uncertain whether the fire demon will make another appearance in upcoming storylines. However, Amazon has already officially confirmed that the fantasy drama will return for Season 4.",
+          "Although the recent run concluded without a massive combat sequence, the introduction of the One Ring and Sauron's deeper involvement in Númenor set the stage for much more dramatic developments ahead."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Amazon Prime Video revealed that actor Simon Pegg voiced the iconic Balrog in Episode 7 of The Lord of the Rings: The Rings of Power Season 3. Behind-the-scenes footage showcased Pegg's recording booth sessions and on-set interactions with Charlie Vickers to help bring the fiery demon to life."
+        ]
+      }
+    ],
+    "facts": [
+      "The Lord of the Rings: The Rings of Power Season 3 was released in 2026.",
+      "Simon Pegg voiced the Balrog in Episode 7 of Season 3.",
+      "The Balrog first appeared in 2001's The Lord of the Rings: The Fellowship of the Ring.",
+      "Charlie Vickers stars alongside Simon Pegg in the series.",
+      "The series is confirmed to return for Season 4."
+    ],
+    "entities": {
+      "people": [
+        "Simon Pegg",
+        "Charlie Vickers",
+        "John D. Payne",
+        "Patrick McKay",
+        "Morfydd Clark",
+        "Ismael Cruz Cordova"
+      ],
+      "titles": [
+        "The Lord of the Rings: The Rings of Power",
+        "The Lord of the Rings: The Fellowship of the Ring"
+      ]
+    },
+    "keywords": [
+      "Simon Pegg Rings of Power",
+      "The Lord of the Rings The Rings of Power Season 3",
+      "Balrog voice actor Simon Pegg",
+      "Rings of Power Balrog scene"
+    ],
+    "images": [
+      {
+        "url": "https://static0.moviewebimages.com/wordpress/wp-content/uploads/2026/07/simon-pegg-disclosure-day.jpg?w=1600&amp;h=900&amp;fit=crop",
+        "caption": "Simon Pegg's Secret Balrog Role in The Lord of the Rings: The Rings of Power Season 3 Unveiled",
+        "source": "MovieWeb"
+      }
+    ],
+    "published": "Fri, 27 Nov 2026 17:16:12 GMT"
+  },
+  "d9n5lc": {
+    "id": "d9n5lc",
+    "type": "news",
+    "headline": "Emraan Hashmi Starrer Gunmaaster G9 Opens At Rs 3.65 Crore On Day One",
+    "dek": "Emraan Hashmi's latest action thriller Gunmaaster G9 records a lower-than-expected opening collection of Rs 3.65 crore on Friday, trailing far behind his previous blockbuster Awarapan 2.",
+    "body": [
+      {
+        "h": "Opening Day Collections Fall Below Trade Estimates",
+        "p": [
+          "Emraan Hashmi's new cinematic outing Gunmaaster G9 has witnessed a slow start at the box office on its opening day. Trade projections had initially suggested that the feature might pull in between Rs 6 crore and Rs 8 crore on its first day.",
+          "However, update reports indicate that the action film managed to collect only Rs 3.65 crore on Friday. The numbers represent a subdued beginning for a project that carried considerable anticipation leading up to its theatrical run."
+        ]
+      },
+      {
+        "h": "Comparison With Awarapan 2",
+        "p": [
+          "The opening figures for Gunmaaster G9 stand in stark contrast to the stellar debut of Emraan Hashmi's earlier release this year. His previous project, Awarapan 2, recorded a massive Rs 21 crore on its first day.",
+          "Awarapan 2 eventually went on to achieve blockbuster status, accumulating a lifetime worldwide gross of Rs 213 crore. Against that milestone, the latest opening appears significantly lower."
+        ]
+      },
+      {
+        "h": "Clash With Yeh Prem Mol Liya",
+        "p": [
+          "One of the major factors contributing to the muted box office performance is direct theatrical competition. Gunmaaster G9 released alongside Sooraj Barjatya's Yeh Prem Mol Liya.",
+          "This box office clash divided audience attention between the two competing Bollywood releases during the same week, impacting ticket sales for the action thriller."
+        ]
+      },
+      {
+        "h": "Plot And Character Dynamics",
+        "p": [
+          "Directed by Aditya Datt, the movie follows Eshwar, played by Emraan Hashmi, who operates a dairy business. His peaceful routine is disrupted when inspector Rana, portrayed by Abhishek Singh, approaches him to dismantle a drug syndicate headed by Desu, played by Aparshakti Khurana.",
+          "When Eshwar declines to assist, the inspector threatens to expose his hidden past to his family, which includes his wife Aarti, played by Genelia D'Souza, and their daughter Jiya, played by Inayat Verma. This confrontation triggers a wave of violent conflict."
+        ]
+      },
+      {
+        "h": "Critical Reception And Writing",
+        "p": [
+          "Critics noted that the narrative offers very few surprises. The screenplay, penned by Sarim Momin and Junaid Wasi, follows a predictable trajectory from the very beginning.",
+          "Despite the familiar storyline, performances within the cast drew attention. Aparshakti Khurana's portrayal of the antagonist received appreciation for offering viewers a different dimension of his acting abilities."
+        ]
+      },
+      {
+        "h": "Production And Team Behind The Film",
+        "p": [
+          "The production duties for the action film are managed by Deepak Mukut, Hunar Mukut, and Sangeeta Ahir. The project is presented to audiences by Soham Rockstar Entertainment Pvt. Ltd.",
+          "The creative team brought together several notable industry names for this venture, though it faced hurdles in converting pre-release hype into immediate box office numbers."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Emraan Hashmi's action thriller Gunmaaster G9 opened to a lower-than-expected collection of Rs 3.65 crore on Friday. Facing competition from Sooraj Barjatya's Yeh Prem Mol Liya and mixed reviews, the film's opening day performance trails far behind the massive debut of his earlier hit Awarapan 2."
+        ]
+      }
+    ],
+    "facts": [
+      "Gunmaaster G9 collected Rs 3.65 crore on Friday.",
+      "Awarapan 2 minted Rs 21 crore on its first day and Rs 213 crore worldwide in its lifetime.",
+      "The film is directed by Aditya Datt.",
+      "The cast includes Emraan Hashmi, Genelia D'Souza, Aparshakti Khurana, Abhishek Singh, and Inayat Verma.",
+      "The writers of the film are Sarim Momin and Junaid Wasi.",
+      "The producers are Deepak Mukut, Hunar Mukut, and Sangeeta Ahir.",
+      "The film is presented by Soham Rockstar Entertainment Pvt. Ltd.",
+      "The release date of the article is November 27, 2026."
+    ],
+    "entities": {
+      "people": [
+        "Emraan Hashmi",
+        "Genelia D'Souza",
+        "Aparshakti Khurana",
+        "Aditya Datt",
+        "Sooraj Barjatya",
+        "Abhishek Singh",
+        "Inayat Verma",
+        "Sarim Momin",
+        "Junaid Wasi",
+        "Deepak Mukut",
+        "Hunar Mukut",
+        "Sangeeta Ahir",
+        "Santanu Das"
+      ],
+      "titles": [
+        "Gunmaaster G9",
+        "Awarapan 2",
+        "Yeh Prem Mol Liya"
+      ]
+    },
+    "keywords": [
+      "Gunmaaster G9 box office",
+      "Emraan Hashmi Gunmaaster G9",
+      "Gunmaaster G9 day 1 collection",
+      "Awarapan 2 box office"
+    ],
+    "images": [
+      {
+        "url": "https://www.hindustantimes.com/ht-img/img/2026/11/27/1600x900/logo/gunmaaster_g9_1795796641412_NaCB_1795796641784_YVKd_ca7ca9e0-1b8e-4a60-bf16-4975d1751b9f_4oyY.png",
+        "caption": "Emraan Hashmi Starrer Gunmaaster G9 Opens At Rs 3.65 Crore On Day One",
+        "source": "Hindustan Times — Entertainment"
+      }
+    ],
+    "published": "Fri, 27 Nov 2026 22:48:18 +0530"
+  },
+  "6ud4wl": {
+    "id": "6ud4wl",
+    "type": "news",
+    "headline": "Currys Black Friday Sale Discounts Premium Gaming Headsets to Under £50 for Switch 2 Owners",
+    "dek": "Major retailer Currys has launched a series of attractive Black Friday discounts, bringing several popular wired gaming headsets down below the £50 mark.",
+    "body": [
+      {
+        "h": "Black Friday Headset Deals",
+        "p": [
+          "As shoppers look for ways to enhance their audio experience during portable gaming sessions, retailers have introduced substantial price cuts on various accessories. Currys has rolled out a series of Black Friday sales featuring heavily discounted hardware, making several sought-after models remarkably affordable for consumers.",
+          "With multiple devices priced lower than the cost of a standard video game, buyers now have access to reliable audio gear without breaking the bank. These promotional events offer a practical window for gamers seeking to upgrade their setup ahead of the holiday season."
+        ]
+      },
+      {
+        "h": "Affordable Audio Options",
+        "p": [
+          "The current round of promotions highlights four distinct wired models that fall under the £50 threshold. Because wired technology is generally less expensive to manufacture, these devices manage to deliver robust technical specifications while maintaining low price points.",
+          "For budget-conscious players wanting reliable performance, these discounted units provide a sensible alternative to more expensive wireless peripherals. Each piece of hardware brings unique features tailored to different listening preferences."
+        ]
+      },
+      {
+        "h": "Logitech and Turtle Beach Discounts",
+        "p": [
+          "Among the heavily marked-down items is the Logitech G432, which has received a discount of over 50 percent. Originally retailing at £79.99, it is now available for £32.97 and includes 7.1 sound capabilities alongside DTS Headphone:X certification.",
+          "Additionally, the Turtle Beach Atlas 200 has entered the promotion following its roughly one-year presence on the market. Reduced from £49.99 to £34.99, this lightweight headset introduces signature audio features to a broader audience."
+        ]
+      },
+      {
+        "h": "HyperX Models on Sale",
+        "p": [
+          "HyperX options are also featured prominently in the sales event, starting with the HyperX Cloud Alpha. Previously priced at £89.99, the unit is now listed at £42.99, offering dual drivers for enhanced sonic detail.",
+          "Another alternative from the same brand, the HyperX Cloud III, comes in just under the £50 limit at £49.99, down from its initial £84.99 price. This specific model boasts a more durable frame, expanded connection options, and comfortable memory foam cushions."
+        ]
+      },
+      {
+        "h": "Enhancing Portable Audio",
+        "p": [
+          "Using a dedicated headset addresses the limitations of built-in handheld console speakers, which often lack depth and clarity. Furthermore, the padded ear cushions naturally block out surrounding ambient noise during travel.",
+          "While players utilizing a docked setup connected to a home television or soundbar might not require additional gear, those gaming on the go benefit significantly from private listening and built-in microphones for online communication."
+        ]
+      },
+      {
+        "h": "Budget Versus Premium Gear",
+        "p": [
+          "Industry observers note that expensive, high-end cans are typically geared toward competitive esports participants or personal computer users who can fully leverage complex companion software. Standard buyers rarely need to compromise on core audio quality by choosing less costly alternatives.",
+          "Ultimately, paying extra for premium gear usually buys additional tools, preset equalization modes, or the convenience of a wireless Bluetooth connection. For the average player, however, budget-friendly wired hardware remains a highly efficient choice."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Currys has introduced deep Black Friday discounts on several wired gaming headsets, bringing multiple popular models below the £50 price point. The promotion features hardware from brands like Logitech, Turtle Beach, and HyperX, offering cost-effective audio upgrades for portable system owners."
+        ]
+      }
+    ],
+    "facts": [
+      "Logitech G432 was £79.99 now £32.97 at Currys",
+      "Turtle Beach Atlas 200 was £49.99 now £34.99 at Currys",
+      "HyperX Cloud Alpha was £89.99 now £42.99 at Currys",
+      "HyperX Cloud III was £84.99 now £49.99 at Currys"
+    ],
+    "entities": {
+      "people": [
+        "Tom Bedford",
+        "Rosalie Newcombe"
+      ],
+      "titles": [
+        "Logitech G432",
+        "Turtle Beach Atlas 200",
+        "HyperX Cloud Alpha",
+        "HyperX Cloud III"
+      ]
+    },
+    "keywords": [
+      "Currys Black Friday gaming headset sales",
+      "Logitech G432 price cut Currys",
+      "HyperX Cloud Alpha Black Friday deal",
+      "Turtle Beach Atlas 200 headset"
+    ],
+    "images": [
+      {
+        "url": "https://cdn.mos.cms.futurecdn.net/GQVbTWU5sxYVUhwXoccgXJ-2560-80.jpg",
+        "caption": "Currys Black Friday Sale Discounts Premium Gaming Headsets to Under £50 for Switch 2 Owners",
+        "source": "Total Film (GamesRadar)"
+      }
+    ],
+    "published": "Fri, 27 Nov 2026 17:15:04 +0000"
   }
 };
