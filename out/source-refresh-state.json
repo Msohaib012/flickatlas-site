@@ -41,11 +41,11 @@
    "detail": "invalid release_dates response for 1816491"
   },
   "wp_boxoffice": {
-   "last_attempt_at": "2026-11-27T07:58:13Z",
-   "last_run": "2026-11-27T07:58:13Z",
+   "last_attempt_at": "2026-11-27T14:08:51Z",
+   "last_run": "2026-11-27T14:08:51Z",
    "last_status": "failed",
    "last_success": "2026-11-13T12:53:06Z",
-   "consecutive_failures": 50,
+   "consecutive_failures": 51,
    "detail": "no valid nonempty source staging; last-good retained"
   },
   "bollybourse_boxoffice": {
@@ -57,11 +57,11 @@
    "detail": "validated 99 rows; 0 staging files changed"
   },
   "filmibeat_boxoffice": {
-   "last_attempt_at": "2026-11-27T07:58:16Z",
-   "last_run": "2026-11-27T07:58:16Z",
+   "last_attempt_at": "2026-11-27T14:08:53Z",
+   "last_run": "2026-11-27T14:08:53Z",
    "last_status": "failed",
    "last_success": "2026-11-12T06:55:58Z",
-   "consecutive_failures": 55,
+   "consecutive_failures": 56,
    "detail": "no valid nonempty source staging; last-good retained"
   },
   "bollywoodhungama_boxoffice": {
@@ -73,5 +73,5 @@
    "detail": "reader timed out; last-good staging retained"
   }
  },
- "updated_at": "2026-11-27T12:54:54Z"
+ "updated_at": "2026-11-27T14:08:53Z"
 }

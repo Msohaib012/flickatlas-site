@@ -157,6 +157,131 @@ window.FA_HOME_ARTICLES = {
     ],
     "published": "2026-11-27T17:55:07+05:30"
   },
+  "196jj3n": {
+    "id": "196jj3n",
+    "type": "news",
+    "headline": "South Indian Box Office 2026 Analysis: Telugu Leads Regional Markets While Kollywood Dominates Cross-Language Earnings",
+    "dek": "A detailed examination of 807 tracked box office records reveals how cross-industry releases shape the Telugu, Tamil, Malayalam, and Kannada film markets.",
+    "entities": {
+      "people": [
+        "Christa Lincy",
+        "Namit Malhotra",
+        "Nitesh Tiwari",
+        "SS Rajamouli",
+        "Aditya Datt",
+        "Ajay Devgn",
+        "Dhanush",
+        "Jr NTR",
+        "Shah Rukh Khan",
+        "Sunit Jangir"
+      ],
+      "titles": [
+        "Jana Nayagan",
+        "Pushpa 2",
+        "Pushpa 2: The Rule",
+        "Jailer 2",
+        "Vishwanath and Sons",
+        "Scene",
+        "Karuppu",
+        "Ramayana",
+        "Premada Oorali",
+        "King",
+        "Dhurandhar 2",
+        "Baahubali 2",
+        "Baahubali 2: The Conclusion",
+        "Gunmaaster G9",
+        "Drishyam",
+        "Drishyam 3",
+        "OM Chapter 1: Udhiram",
+        "Devara"
+      ]
+    },
+    "keywords": [
+      "South Indian Box Office 2026",
+      "Telugu Tamil Malayalam Kannada box office",
+      "Kollywood Tollywood cross language business",
+      "Ramayana South Indian language collection"
+    ],
+    "images": [
+      {
+        "url": "https://cdn.sacnilk.com/image/news300/1000028759.jpg",
+        "caption": "South Indian Box Office 2026 Analysis: Telugu Leads Regional Markets While Kollywood Dominates Cross-Language Earnings",
+        "source": "Sacnilk"
+      }
+    ],
+    "published": "Fri, 27 Nov 2026 12:06:44 +0000"
+  },
+  "11o0obg": {
+    "id": "11o0obg",
+    "type": "news",
+    "headline": "Katy Perry and Justin Trudeau Enjoy Luxurious European Train Trip",
+    "dek": "American singer Katy Perry and former Canadian Prime Minister Justin Trudeau shared highlights of their European holiday, featuring an exclusive journey on the Venice Simplon-Orient-Express.",
+    "entities": {
+      "people": [
+        "Katy Perry",
+        "Justin Trudeau",
+        "Emmanuel Macron",
+        "Mahipal Singh Chouhan"
+      ],
+      "titles": []
+    },
+    "keywords": [
+      "Katy Perry Justin Trudeau train",
+      "Katy Perry European holiday",
+      "Venice Simplon-Orient-Express L Observatoire",
+      "Justin Trudeau Katy Perry romance"
+    ],
+    "images": [
+      {
+        "url": "https://www.hindustantimes.com/ht-img/img/2026/11/27/1600x900/logo/bdfbfbccxcccxs_1795780641264_QkFJ_1795780647462_ag3p_3c03af83-1d04-4cbd-bb67-e38444697090_8wuH.jpg",
+        "caption": "Katy Perry and Justin Trudeau Enjoy Luxurious European Train Trip",
+        "source": "Hindustan Times — Entertainment"
+      }
+    ],
+    "published": "Fri, 27 Nov 2026 17:35:27 +0530"
+  },
+  "xpzw7o": {
+    "id": "xpzw7o",
+    "type": "news",
+    "headline": "Why Blade Runner's Most Iconic Quote Resonates More Than Ever in the Age of AI",
+    "dek": "Decades after its initial theatrical release, Ridley Scott's sci-fi classic continues to offer profound commentary on artificial life and modern technology.",
+    "entities": {
+      "people": [
+        "Daniel Bibby",
+        "Ridley Scott",
+        "Joe Turkel",
+        "Harrison Ford",
+        "Sean Young",
+        "David Webb Peoples",
+        "Hampton Fancher",
+        "Philip K. Dick",
+        "Michael Deeley",
+        "Run Run Shaw",
+        "Rutger Hauer",
+        "Matt Damon"
+      ],
+      "titles": [
+        "Blade Runner",
+        "Blade Runner: The Final Cut",
+        "Blade Runner 2049"
+      ]
+    },
+    "keywords": [
+      "Blade Runner",
+      "Ridley Scott",
+      "Harrison Ford",
+      "Rick Deckard",
+      "Blade Runner The Final Cut"
+    ],
+    "images": [
+      {
+        "url": "https://static0.moviewebimages.com/wordpress/wp-content/uploads/2026/11/movieweb-featured-image-template-2026-11-25t174512-558.jpg?w=1600&amp;h=900&amp;fit=crop",
+        "caption": "Why Blade Runner's Most Iconic Quote Resonates More Than Ever in the Age of AI",
+        "source": "MovieWeb"
+      }
+    ],
+    "published": "Fri, 27 Nov 2026 12:00:17 GMT"
+  },
   "1ybptcl": {
     "id": "1ybptcl",
     "type": "news",
@@ -191,6 +316,48 @@ window.FA_HOME_ARTICLES = {
       }
     ],
     "published": "Fri, 27 Nov 2026 13:23:42 +0200"
+  },
+  "abe4sf": {
+    "id": "abe4sf",
+    "type": "news",
+    "headline": "Saint-Pierre Season 3 Trailer Drops Featuring Former Death in Paradise Star",
+    "dek": "Joséphine Jobert returns for the third outing of the hit detective series, bringing fresh chaos as new characters shake up the island community.",
+    "entities": {
+      "people": [
+        "Joséphine Jobert",
+        "David Craig",
+        "Donald Fitzpatrick",
+        "Geneviève Archambault",
+        "Allan Hawco",
+        "Pascal Lalonde",
+        "Assaad Bouab",
+        "Victoria Peters",
+        "Caroline Dhavernas",
+        "Robina Lord-Stafford"
+      ],
+      "titles": [
+        "Death in Paradise",
+        "Saint-Pierre",
+        "Bad Sisters",
+        "Peaky Blinders",
+        "Call My Agent!",
+        "Hannibal"
+      ]
+    },
+    "keywords": [
+      "Saint-Pierre season 3",
+      "Joséphine Jobert Saint-Pierre",
+      "Allan Hawco Saint-Pierre",
+      "Assaad Bouab Saint-Pierre"
+    ],
+    "images": [
+      {
+        "url": "https://images.production.immediate.co.uk/volatile/sites/3/2026/11/saint-pierre-jobert-season-3-0c0a0aa.jpg?resize=1200%2C630",
+        "caption": "Saint-Pierre Season 3 Trailer Drops Featuring Former Death in Paradise Star",
+        "source": "Radio Times"
+      }
+    ],
+    "published": "Fri, 27 Nov 2026 10:54:38 GMT"
   },
   "evoito": {
     "id": "evoito",
@@ -4494,169 +4661,6 @@ window.FA_HOME_ARTICLES = {
       }
     ],
     "published": "Thu, 26 Nov 2026 06:30:18 GMT"
-  },
-  "c58ghu": {
-    "id": "c58ghu",
-    "type": "news",
-    "headline": "Marvel Studios Developing Special Tribute for Patrick Stewart in 'Avengers: Doomsday'",
-    "dek": "Marvel Studios President Kevin Feige reveals plans for a tribute honoring the late Patrick Stewart, who makes his final appearance as Professor X in the upcoming film.",
-    "entities": {
-      "people": [
-        "Kevin Feige",
-        "Patrick Stewart",
-        "Joe Russo",
-        "Ian McKellen",
-        "Anthony Russo"
-      ],
-      "titles": [
-        "Avengers: Doomsday",
-        "X-Men"
-      ]
-    },
-    "keywords": [
-      "Avengers Doomsday",
-      "Patrick Stewart",
-      "Kevin Feige",
-      "Professor X"
-    ],
-    "images": [
-      {
-        "url": "https://www.hindustantimes.com/ht-img/img/2025/07/20/1600x900/logo/hollywood_1753008115803_1753008127492.jpeg",
-        "caption": "Marvel Studios Developing Special Tribute for Patrick Stewart in 'Avengers: Doomsday'",
-        "source": "Hindustan Times — Entertainment"
-      }
-    ],
-    "published": "Thu, 26 Nov 2026 11:44:01 +0530"
-  },
-  "4qeskj": {
-    "id": "4qeskj",
-    "type": "news",
-    "headline": "Michael C. Hall's Eight-Episode Harlan Coben Series on Netflix Delivers Intense Thrills",
-    "dek": "Explore how Michael C. Hall anchors Netflix's underrated eight-episode Harlan Coben adaptation Safe with a mesmerizing lead performance.",
-    "entities": {
-      "people": [
-        "Michael C. Hall",
-        "Harlan Coben",
-        "Tom Delaney",
-        "David Kammerer",
-        "John F. Kennedy",
-        "David Fisher"
-      ],
-      "titles": [
-        "Safe",
-        "Kill Your Darlings",
-        "Dexter",
-        "The Crown",
-        "Six Feet Under",
-        "Broadchurch",
-        "Mindhunter",
-        "The Hunting Wives",
-        "You",
-        "Gone for Good",
-        "No Second Chance",
-        "The Stranger",
-        "The Innocent",
-        "The Woods",
-        "Stay Close",
-        "Hold Tight",
-        "Fool Me Once",
-        "Missing You",
-        "Run Away",
-        "I Will Always Find You",
-        "Mare of Easttown"
-      ]
-    },
-    "keywords": [
-      "Michael C. Hall Safe Netflix",
-      "Harlan Coben Safe series",
-      "Michael C. Hall Harlan Coben",
-      "Safe Netflix TV show"
-    ],
-    "images": [
-      {
-        "url": "https://static0.srcdn.com/wordpress/wp-content/uploads/2026/11/michael-c-hall-in-dexter-new-blood.jpg?w=1600&amp;h=900&amp;fit=crop",
-        "caption": "Michael C. Hall's Eight-Episode Harlan Coben Series on Netflix Delivers Intense Thrills",
-        "source": "Screen Rant"
-      }
-    ],
-    "published": "Thu, 26 Nov 2026 05:58:18 GMT"
-  },
-  "1eyclgg": {
-    "id": "1eyclgg",
-    "type": "news",
-    "headline": "‘Vrushakarma’ Trailer Unveiled: Naga Chaitanya Stars in Supernatural Thriller",
-    "dek": "Actor Naga Chaitanya has released the official trailer for his upcoming supernatural adventure film Vrushakarma, directed by Karthik Varma Dandu, ahead of its theatrical debut.",
-    "entities": {
-      "people": [
-        "Naga Chaitanya",
-        "Karthik Varma Dandu",
-        "Jayaram",
-        "Meenakshi Chaudhary",
-        "Sparsh Shrivastava",
-        "Kiara Khanna",
-        "Sri Nagendra Tangala",
-        "Ragul D Herian",
-        "B. Ajaneesh Loknath"
-      ],
-      "titles": [
-        "Vrushakarma",
-        "Thandel",
-        "Laapataa Ladies"
-      ]
-    },
-    "keywords": [
-      "Vrushakarma trailer",
-      "Naga Chaitanya Vrushakarma",
-      "Karthik Varma Dandu film",
-      "Vrushakarma release date",
-      "Sparsh Shrivastava Vrushakarma"
-    ],
-    "images": [
-      {
-        "url": "https://static.toiimg.com/thumb/msid-136180304,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "caption": "‘Vrushakarma’ Trailer Unveiled: Naga Chaitanya Stars in Supernatural Thriller",
-        "source": "Times of India — Entertainment"
-      }
-    ],
-    "published": "2026-11-26T11:25:33+05:30"
-  },
-  "1f7v2xl": {
-    "id": "1f7v2xl",
-    "type": "news",
-    "headline": "Bhediya 2 Confirmed: Director Amar Kaushik Announces Sequel on Film's Fourth Anniversary",
-    "dek": "Director Amar Kaushik has officially confirmed that Bhediya 2 is in development, as the Varun Dhawan and Kriti Sanon horror-comedy celebrates four years since its theatrical release.",
-    "entities": {
-      "people": [
-        "Amar Kaushik",
-        "Varun Dhawan",
-        "Kriti Sanon",
-        "Abhishek Banerjee",
-        "Deepak Dobriyal",
-        "Paalin Kabak",
-        "Shraddha Kapoor"
-      ],
-      "titles": [
-        "Bhediya",
-        "Bhediya 2",
-        "Stree",
-        "Obsession"
-      ]
-    },
-    "keywords": [
-      "Bhediya 2",
-      "Amar Kaushik",
-      "Varun Dhawan",
-      "Kriti Sanon",
-      "Bhediya sequel"
-    ],
-    "images": [
-      {
-        "url": "https://static.toiimg.com/thumb/msid-136180164,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "caption": "Bhediya 2 Confirmed: Director Amar Kaushik Announces Sequel on Film's Fourth Anniversary",
-        "source": "Times of India — Entertainment"
-      }
-    ],
-    "published": "2026-11-26T11:18:40+05:30"
   },
   "1ihedvj": {
     "id": "1ihedvj",

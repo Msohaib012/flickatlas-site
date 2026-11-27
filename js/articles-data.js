@@ -126806,13 +126806,20 @@ window.FA_ARTICLES = {
           "Izzat Episode 54 aired on 2026-11-12 on ARY Digital. The full episode is available on the channel's official YouTube page.",
           "Watch the full episode here: https://www.youtube.com/watch?v=fSs6EDhqHe8"
         ]
+      },
+      {
+        "h": "Episode Summary",
+        "p": [
+          "Is episode mein aik scene mein Rameen apne baap ke sath bethi roti hai aur uss dard ka zikr karti hai jo uske shohar aur ghar walon ne usse aur uske baap ko diya. Rameen ke baap kehte hain ke woh sab ka ghalat faisla tha aur woh khud ko aur apni planning ko galat samajhte rahe. Doosre scene mein Rameen aur baki log ek khushi ki taqreeb ya mangni ke dauran mojood hain jahan sab khush lag rahe hain. Achanak wahan police aa jati hai aur Rameen ka shohar Rayan wahan mojood logo ko kehta hai ke unn sab ke arrest warrants hain. Woh sabhi police ke sath ek jaga jate hain jahan kuch bando ko police arrest karke lati hai. Rayan kehta hai ke usne unhe pakra hai kyunke woh kisi jurm mein shamil hain. Episode ke akhir mein kuch log jail ke andar aapas mein baat karte hain jahan kuch tanzia guftugu hoti hai ke mohabbat aur izzat ki baatein ki jati hain aur episode yahin khatam ho jata hai."
+        ]
       }
     ],
     "facts": [
       "Izzat Episode 54 aired on 2026-11-12.",
       "Channel: ARY Digital.",
       "Watch the full episode: https://www.youtube.com/watch?v=fSs6EDhqHe8",
-      "YouTube views: 967."
+      "YouTube views: 967.",
+      "Episode summary added 2026-11-27."
     ],
     "entities": {
       "titles": [
@@ -137501,6 +137508,12 @@ window.FA_ARTICLES = {
         "p": [
           "Was it just a dream… or a warning of what’s to come?\n\nWhen fear feels real and the lines between dreams and reality begin to blur, what awaits on the other side?"
         ]
+      },
+      {
+        "h": "Episode Summary",
+        "p": [
+          "Is episode ki shuruat mein Asad aur uski family restaurant mein khana kha rahe hote hain jabki Asher apni car mein Zuni ka dupatta aur phone dekhta hai. Asher Zuni ko phone karta hai lekin woh phone nahi uthati kyunki uska dupatta aur phone car mein hi reh gaya tha. Zuni pareshan ho kar apne ghar wapas aati hai aur apni maa se milti hai, jisse woh kehti hai ke ab woh wapas nahi jaayegi aur hamesha unhi ke paas rahegi. Zuni ki maa use samajhti hai aur kehti hai ke ma-baap ka bharosa ahem hota hai aur use jaakar shukrane ki nafil padhni chahiye. Doosri taraf, hospital mein Zavi ki tabiyat theek ho rahi hoti hai aur Asher wahan hota hai. Zavi ke kehne par Asher use ghar le aata hai jahan Zavi phir se Zuni ke baare mein sochti hai. Asher jab ghar pahunchta hai toh gusse mein security guard par chilla deta hai kyunki gate kholne mein der ho gayi thi. Asher jab ghar ke andar jaata hai toh uski tabiyat kharab ho jaati hai aur woh behosh ho kar gir padta hai. Taniya aakar use sambhalti hai aur rone lagti hai. Agle din, Zuni bimar ho jaati hai aur usko bohat tez bukhar hota hai. Zuni ki maa aur Faria uski tabiyat ko lekar pareshan hote hain. Faria Taniya ko phone karti hai aur batati hai ke Zuni ki tabiyat kharab hai aur kal raat Asher ne sharab pee li thi aur ajeeb harkatein ki thi. Yeh sun kar Taniya aur Zuni dono shock ho jaate hain. Episode ke aakhir mein Taniya Zuni ke ghar pahunchti hai aur Zuni se baat karti hai, jabki Zuni pareshan aur udaas baithi hoti hai."
+        ]
       }
     ],
     "facts": [
@@ -137508,7 +137521,8 @@ window.FA_ARTICLES = {
       "Channel: ARY Digital.",
       "Watch the full episode: https://www.youtube.com/watch?v=W4T93S-3jtU",
       "YouTube views: 1,711.",
-      "TMDB: Lagan Lagi (id 337316)."
+      "TMDB: Lagan Lagi (id 337316).",
+      "Episode summary added 2026-11-27."
     ],
     "entities": {
       "titles": [
@@ -155897,6 +155911,12 @@ window.FA_ARTICLES = {
         "p": [
           "Some stories are written by fate, while others are shaped by love, sacrifice, and the choices we make. ❤️✨\n\nPresenting Mohabbat Mukhtasir, a captivating drama serial that explores the complexities of relationships, the power of emotions, and the unexpected turns of life."
         ]
+      },
+      {
+        "h": "Episode Summary",
+        "p": [
+          "Is episode mein Miha aur Maaz shopping mall jate hain jahan ek lucky draw mein Miha vouchers jeet leti hai. Maaz, Miha ke sath waqt guzarta hai aur usse dosti ki ahmiyat samjhata hai, lekin Miha thori pareshan hoti hai. Ghar laut kar, Miha apni ammi ko batati hai ke Maaz ne unka dukh kam karne ke liye shopping aur vouchers ka drama kiya tha. Ammi ko pata chalta hai ke Maaz ne unke ghar dahej bhejwaya tha, jis par Maamun aur parivar walon ke samne ammi maafi mangne jati hain. Maamun saaf dil se maafi qubool kar leta hai aur unhe shadi ki khushiyan baantne ki dawat deta hai. Maamun ki beti ki shadi mein Miha aur uska parivar shamil hota hai, jahan ek naya ehsas jagta hai ki Maaz, jo akela tha, ab bhi unke sath khara hai. Episode ka end is cliffhanger par hota hai ke ammi jab envelope kholti hain toh wahan paise nahi hote, aur sab pareshan hojate hain ke aakhir yeh paisa kahan gaya, aur Maaz bahar khara in sab baaton se anjaan intezaar kar raha hota hai."
+        ]
       }
     ],
     "facts": [
@@ -155904,7 +155924,8 @@ window.FA_ARTICLES = {
       "Channel: HUM TV.",
       "Watch the full episode: https://www.youtube.com/watch?v=qS8h7DtuS6Y",
       "YouTube views: 77,661.",
-      "TMDB: Mohabbat Mukhtasir (id 337079)."
+      "TMDB: Mohabbat Mukhtasir (id 337079).",
+      "Episode summary added 2026-11-27."
     ],
     "entities": {
       "titles": [
@@ -155944,6 +155965,12 @@ window.FA_ARTICLES = {
         "p": [
           "Shah Dawood, the arrogant heir to a powerful landowning family, clashes with Bareera Aijaz, a principled university student who refuses to bow to his authority. Forced into an unexpected marriage, their constant battles gradually give way to respect and love. But when Tamseel, Shah’s longtime admirer, refuses to accept Bareera, their fragile relationship is put to the ultimate test. Can Shah and Bareera overcome jealousy, family pressure, and their differences to find lasting love?"
         ]
+      },
+      {
+        "h": "Episode Summary",
+        "p": [
+          "Is episode mein, Bareera apne walid Daud ki beemari ke baad pareshan hoti hai aur uski tabiyat ko lekar fikarmand rehti hai. Daud hospital mein bed par leta hua hota hai aur Bareera uske paas baith kar usse baat karti hai, jahan Daud apne bachpan aur walid ki yaad mein khota hai. Woh Bareera ko batata hai ke kaise uske walid ne uski maa ko khatam kiya tha, aur uss waqt se woh sach jaan kar akelepan aur darr ki zindagi guzaar raha hai.\n\nBaad mein, jab Bareera aur Daud ghar wapas aate hain, toh Tamseel bhi wahan maujood hoti hai. Daud Tamseel ko ghar se nikalne ke liye kehta hai kyunke uski wajah se Bareera aur unka rishta khatre mein pada tha, aur Tamseel ko apni harkaton ki saza milti hai. Tamseel gusse mein wahan se chali jaati hai aur apnay ghar mein aakar purani yaadon ko jalati hai, jabke Daud aur Bareera ek nayi shuruat karne ki koshish karte hain aur khushi se ek doosre ke kareeb aate hain."
+        ]
       }
     ],
     "facts": [
@@ -155951,7 +155978,8 @@ window.FA_ARTICLES = {
       "Channel: Geo TV.",
       "Watch the full episode: https://www.youtube.com/watch?v=J-T2B6zA_iQ",
       "YouTube views: 502,007.",
-      "TMDB: Nashtar (id 332312)."
+      "TMDB: Nashtar (id 332312).",
+      "Episode summary added 2026-11-27."
     ],
     "entities": {
       "titles": [
@@ -155984,13 +156012,20 @@ window.FA_ARTICLES = {
           "Khushi Episode 64 aired on 2026-11-15 on HUM TV. The full episode is available on the channel's official YouTube page.",
           "Watch the full episode here: https://www.youtube.com/watch?v=GrEoFeTfzQ0"
         ]
+      },
+      {
+        "h": "Episode Summary",
+        "p": [
+          "Is episode mein Khushi aur Ammar ka jhagda dikhaya gaya hai jahan Ammar ghusse mein Khushi ko ghar se nikaal deta hai. Khushi raste mein akeli baith kar roni hai, aur jab wahan Saaim apni gari lekar aata hai toh woh Khushi ko apne saath gari mein bitha leta hai. Saaim Khushi ko samajhata hai ke uska akele rehna khatarnak ho sakta hai. Udhar, Khushi ka khandan aur Ammar ke ghar wale pareshan hain kyunki Khushi ghar par nahi hai. Ammar aur uske walid ke darmiyaan bhi is baat par behas hoti hai ke Ammar ne Khushi ke saath aisa kyun kiya. Akhir mein, Saaim Khushi ko apne dost ke flat par le jaata hai jahan woh dono naashta karte hain aur Saaim Khushi ko yeh yaqeen dilaata hai ke woh mehfooz hai, aur episode yahin khatam hota hai."
+        ]
       }
     ],
     "facts": [
       "Khushi Episode 64 aired on 2026-11-15.",
       "Channel: HUM TV.",
       "Watch the full episode: https://www.youtube.com/watch?v=GrEoFeTfzQ0",
-      "YouTube views: 319,741."
+      "YouTube views: 319,741.",
+      "Episode summary added 2026-11-27."
     ],
     "entities": {
       "titles": [
@@ -156019,13 +156054,20 @@ window.FA_ARTICLES = {
           "Uswah Episode 53 aired on 2026-11-15 on Geo TV. The full episode is available on the channel's official YouTube page.",
           "Watch the full episode here: https://www.youtube.com/watch?v=n3Hc8bIN54A"
         ]
+      },
+      {
+        "h": "Episode Summary",
+        "p": [
+          "Uswah ke is episode mein Uswah ki tabiyat theek nahi lagti aur woh subah breakfast ke waqt chup aur pareshan nazar aati hai. Isa bhi kuch be-chain mehsoos karta hai. Phir woh dono ek doosre ke baghair rehne ke khayal se parehshan hote hain aur unke darmiyan kuch ghamgeen lamhe guzerte hain. Ek scene mein Uswah phone par apni ami aur sister se baat karti hai, jahan woh apne naye ghar mein apni khushiyon aur apno ki duwaon ka zikr karti hai. Baad mein Isa aur Anas ki guftagu hoti hai, jahan Isa apni pareshani aur feelings share karta hai aur Anas use samjhata hai ke use Uswah ke sath behtar tarike se pesh aana chahiye. Episode ke aakhir mein aik scene aata hai jahan family ke kuch log Uswah aur Isa ke bare mein baat karte hain, aur sabhi Uswah ke naye halaat aur uski life par ghor karte hain, jabke Uswah apne room mein akeli baith kar purane dinon ko yaad karti aur rone lagti hai. Episode yahin par jazbati aur ghamgeen andaz mein khatam hota hai."
+        ]
       }
     ],
     "facts": [
       "Uswah Episode 53 aired on 2026-11-15.",
       "Channel: Geo TV.",
       "Watch the full episode: https://www.youtube.com/watch?v=n3Hc8bIN54A",
-      "YouTube views: 885,928."
+      "YouTube views: 885,928.",
+      "Episode summary added 2026-11-27."
     ],
     "entities": {
       "titles": [
@@ -156060,6 +156102,12 @@ window.FA_ARTICLES = {
         "p": [
           "Dastoor is a heartfelt family drama filled with love, sacrifice, family conflicts, secrets, and emotional twists. Follow the journey of a mother and her daughters as they face difficult choices, broken relationships, and unexpected turns of fate a story of love, pain, forgiveness, and second chances."
         ]
+      },
+      {
+        "h": "Episode Summary",
+        "p": [
+          "Is episode mein Shiza police station ja kar apna case wapas lene aur aage koi karwayi na karne ka bayan dyti hai, jabke Aleeyn wahan pohch kar khud ko arrest karwane aur apna bayan darj karwane ki zidd karta hai. Woh kehta hai ke Amara ki maut ka zimmedar khud ko samajhta hai aur sach saamne laane ke liye tahqeeq chahta hai. Zeba Nissa aur Salman ko jab Aleeyn ki giraftari ka pata chalta hai toh woh pareshan hojate hain, aur Salman thane pohchta hai jahan Aleeyn apne faisla par qaim rehta hai. Shiza ghar ja kar apni behn Aleena ko samjhati hai ke woh case wapas le chuki hai, magar Aleena gussa aur pareshani mein rehti hai. Akhir mein, Salman ghar aa kar sab ko batata hai ke Aleeyn ne khud ko arrest karwa liya hai, aur episode isi tension aur pareshani ke mahol par khatam hota hai."
+        ]
       }
     ],
     "facts": [
@@ -156067,7 +156115,8 @@ window.FA_ARTICLES = {
       "Channel: Green TV.",
       "Watch the full episode: https://www.youtube.com/watch?v=eWOFWs8jEvM",
       "YouTube views: 113,245.",
-      "TMDB: Dastoor (id 329481)."
+      "TMDB: Dastoor (id 329481).",
+      "Episode summary added 2026-11-27."
     ],
     "entities": {
       "titles": [
@@ -156102,13 +156151,20 @@ window.FA_ARTICLES = {
           "Zehar-e-Mohabbat Episode 26 aired on 2026-11-15 on HUM TV. The full episode is available on the channel's official YouTube page.",
           "Watch the full episode here: https://www.youtube.com/watch?v=LgKCjFaEBXQ"
         ]
+      },
+      {
+        "h": "Episode Summary",
+        "p": [
+          "Is episode mein Malaika ghar pe bhabhi se bahas karti hai aur kehti hai ke woh Waqar se mohabbat karti hai aur usne usse kuch nahi maanga siwaye izzat ke. Bhabhi usko samjhati hai ke woh apni zid chhod de aur Waqar ki zindagi barbad na kare. Waqar bed par leta hua sochta hai ke usne fuzool mein Aatif ko darane dhamkane ka kaha aur usne seedha goli maar di. Tabhi wahan uski biwi aati hai aur kehti hai ke Aatif ne uske baba ke qatil ko pakad liya hai jo usika ex-husband tha jisne pese ke liye uske baba ka qatal kiya tha. Waqar heran reh jata hai ke Waqar ne pese ke liye qatal kiya. Idhar police station mein Waqar aur Malaika ko police pakar leti hai aur Inspector Atif un dono ko daant ta hai aur poochta hai ke woh dono yahan kyun khare hain. Malaika ki bhabhi aur dadi police station aati hain aur unhein chhudwa kar le jati hain. Waqar ghar ata hai aur Malaika ko phone karta hai par woh phone nahi uthati. Waqar Malaika ke ghar jata hai aur uski dadi se milta hai jo usko batati hain ke Malaika kamre mein band hai. Waqar kamre mein jata hai aur Malaika se baat karne ki koshish karta hai par Malaika Naraaz rehti hai aur Waqar wahan se chala jata hai."
+        ]
       }
     ],
     "facts": [
       "Zehar-e-Mohabbat Episode 26 aired on 2026-11-15.",
       "Channel: HUM TV.",
       "Watch the full episode: https://www.youtube.com/watch?v=LgKCjFaEBXQ",
-      "YouTube views: 26,749."
+      "YouTube views: 26,749.",
+      "Episode summary added 2026-11-27."
     ],
     "entities": {
       "titles": [
@@ -156137,13 +156193,20 @@ window.FA_ARTICLES = {
           "Bano Episode 32 aired on 2026-11-15 on Geo TV. The full episode is available on the channel's official YouTube page.",
           "Watch the full episode here: https://www.youtube.com/watch?v=0SVhVP5W0u4"
         ]
+      },
+      {
+        "h": "Episode Summary",
+        "p": [
+          "Is episode ki shuruaat mein Bano apnay ghar phunchti hai jahan uske walid ka intiqal ho chuka hai aur unki mayyat ghar par rakhi hui hai. Sabhi ghar walay bohot ghumgeen hain aur rorahay hain. Bano aur baaki khawateen mayyat ke paas khari hain aur Bano ke walid ke na uthnay par afsos kar rahi hain. Murtaza aur Shehryar bhi wahin mojud hain. Baad mein, Murtaza apni maa se baat karta hai aur unhein batata hai ke usne Tooba se court marriage kar li hai. Yeh sunkar Murtaza ki maa gusse mein aajati hai aur kehti hai ke woh is rishtay ko qabul nahi karengi aur Murtaza ko wahan se dafa ho janay ko kehti hain. Murtaza keh kar chala jata hai ke woh baad mein ayega. Idhar Bano apnay walid ki mayyat ko dekhte huay bohot roti hai aur jab janazay ko le janay ka waqt aata hai toh woh aur baaki ghar walay mazeed rone lagtay hain. Shehryar aur Murtaza janaza uthatay hain aur baahar le jatay hain. Noor aakar Bano se kehti hai ke jab tak woh is ghar mein hai, woh apnay abba ki yaad satati rahaygi aur behtar hai ke woh apnay ghar wapas chali jaye. Baad mein Shehryar akelay mein cigarette peetay huay kisi se baat karta hai aur Tooba ke baare mein poochta hai. Ek aur scene mein Tooba apnay ghar mein udas baithi hoti hai jab Noor wahan aati hai aur Tooba se sawal karti hai ke usne bina socha samjhe Murtaza se shaadi kyun kar li aur kehti hai ke woh is faislay ko kabhi qabul nahi karengi. Akhir mein, Jaffar aur Noor ki guftagu dikhayi jati hai jahan Jaffar gusse mein kehta hai ke woh Murtaza aur Bano ko barbaad kar dega aur unki qabrein aisi gheri khodega ke koi unki haddi bhi na dhoond paaye. Episode yahin par khatam ho jata hai."
+        ]
       }
     ],
     "facts": [
       "Bano Episode 32 aired on 2026-11-15.",
       "Channel: Geo TV.",
       "Watch the full episode: https://www.youtube.com/watch?v=0SVhVP5W0u4",
-      "YouTube views: 254,646."
+      "YouTube views: 254,646.",
+      "Episode summary added 2026-11-27."
     ],
     "entities": {
       "titles": [
@@ -164025,13 +164088,20 @@ window.FA_ARTICLES = {
           "Khushi Episode 65 aired on 2026-11-16 on HUM TV. The full episode is available on the channel's official YouTube page.",
           "Watch the full episode here: https://www.youtube.com/watch?v=vv0wQ4vLiRM"
         ]
+      },
+      {
+        "h": "Episode Summary",
+        "p": [
+          "Is episode mein Khushi ka ghar chhor kar chalay jana aur uski wajah se ghar walon ki pareshani dikhayi gayi hai. Khushi apni ammi ko phone kar ke roti hai aur kehti hai ke ghar walon ne usay nikal diya hai aur ab uska is dunya mein koi nahi hai. Ammi aur Samira yeh baat ghar mein chupane ki koshish karti hain kyun ke unhein dar hota hai ke Baji (Mahreen) gussa karengi. Samira Mahreen ko batati hai ke Khushi aur Ammar ki ladaai hui thi aur Khushi ghar chhor kar chali gayi. Baji yeh sun kar pareshan ho jati hain aur kehti hain ke unhon ne pehle kyun nahi bataya. Usi waqt Baji ki call aati hai jo puchti hain ke Khushi kahan hai aur us se baat karayein, lekin Samira baat ghumane ki koshish karti hai. Baad mein Baji aur unke shohar achanak ghar aa jatay hain aur sab se Khushi ke baray mein puchtay hain. Baji ghusse mein aati hain aur kehti hain ke unhon ne Khushi aur uske ghar walon par kitna bharosa kiya tha lekin unhon ne unki beti ke sath acha nahi kiya. Episode ke end mein sab baith kar khana kha rahe hain aur sab ki tabyat khushi ki fikar ki wajah se kharab lag rahi hai."
+        ]
       }
     ],
     "facts": [
       "Khushi Episode 65 aired on 2026-11-16.",
       "Channel: HUM TV.",
       "Watch the full episode: https://www.youtube.com/watch?v=vv0wQ4vLiRM",
-      "YouTube views: 217,310."
+      "YouTube views: 217,310.",
+      "Episode summary added 2026-11-27."
     ],
     "entities": {
       "titles": [
@@ -164066,6 +164136,12 @@ window.FA_ARTICLES = {
         "p": [
           "Uswah is a cheerful, intelligent, and ambitious young woman from a middle-class family who works part time to support her education and help her family. Her cousin Mahbir admires her confidence and strong character, and the two develop feelings for each other. However, Uswah’s life takes an unexpected turn when she meets Essa, a wealthy and confident university student who soon becomes her academic rival.\n\nA playful moment between Uswah and Essa seems insignificant at first, but it soon changes the course of their lives. Just as Uswah prepares to marry Mahbir, an unexpected revelation leaves her trapped in a situation she never imagined. Forced to face an unwanted relationship, Uswah finds herself caught between family expectations, love, and circumstances beyond her control."
         ]
+      },
+      {
+        "h": "Episode Summary",
+        "p": [
+          "Is episode mein, Faria aur Tabassum ghar walon ko batate hain ke Uswah ne divorce ke papers sign karne se inkaar kar diya aur papers unhi ke munh par maar kar chali gayi. Yeh sun kar ghar wale pareshan aur shock mein hain, khas tor par Uswah ke sasur Ibrahim aur saas. Ibrahim kehta hai ke woh kisi aur par ilzaam nahi lagana chahta aur Uswah ko haq diya tha isliye woh aisi harkat nahi kar sakti, jabke baqi sab us par shak karte hain.\n\nUswah apnay ghar mein udas baithi hai aur jab Ibrahim usay phone karta hai, toh woh phone nahi uthati. Baad mein Jab Ibrahim dobara call karta hai, toh Uswah phone utha kar salam karti hai. Sasur us se poochta hai ke woh kahan hai aur kya waja hai ke woh ghar chhod gayi, aur kya uski aur Eisa ki koi ladaai hui thi. Uswah kehti hai ke woh bilkul theek hai aur kisi se ladaai nahi hui, lekin jab Ibrahim poochta hai ke kya Eisa ne usay biwi nahi maana, toh Uswah kehti hai ke Eisa usay apni biwi nahi maanta aur jab do log rishta nibhane ke liye tayar hi nahi hain toh rehne ka koi faida nahi. Uswah batati hai ke usne divorce ke papers par sign kar diye hain aur woh ab Eisa ke sath nahi rehna chahti, aur woh apna yeh faisla apni marzi se kar rahi hai.\n\nEpisode ke ek aur scene mein Eisa pool ke kinare akela baith kar soch mein dooba hota hai aur apni ring ko dekh kar yaad karta hai. Episode ka ikhtitam is cliffhanger par hota hai ke Ibrahim, Uswah ki saas aur baqi ghar walon ke sath baith kar is baat par ghaur kar raha hai ke Uswah ab is ghar mein wapas nahi aana chahti aur unhe samajh nahi aa raha ke yeh sab kaise aur kyun hua."
+        ]
       }
     ],
     "facts": [
@@ -164073,7 +164149,8 @@ window.FA_ARTICLES = {
       "Channel: Geo TV.",
       "Watch the full episode: https://www.youtube.com/watch?v=BcFNELPanPY",
       "YouTube views: 573,415.",
-      "TMDB: Uswah (id 336291)."
+      "TMDB: Uswah (id 336291).",
+      "Episode summary added 2026-11-27."
     ],
     "entities": {
       "titles": [
@@ -164113,6 +164190,12 @@ window.FA_ARTICLES = {
         "p": [
           "Dastoor is a heartfelt family drama filled with love, sacrifice, family conflicts, secrets, and emotional twists. Follow the journey of a mother and her daughters as they face difficult choices, broken relationships, and unexpected turns of fate a story of love, pain, forgiveness, and second chances."
         ]
+      },
+      {
+        "h": "Episode Summary",
+        "p": [
+          "Is episode ki shuruat mein Aleena jail mein Aaliyan se milti hai aur usay is haalat mein dekh kar pareshan hoti hai. Aaliyan kehta hai ke ye jagah theek nahi hai aur woh akele ye faisla nahi le sakta tha, par Aleena kehti hai ke woh Aaliyan ke bina nahi reh sakti. Phir Aleena apni aunti aur Salman se milti hai, jahan woh Aaliyan ko jail se nikalwane ki zid karti hai, lekin Salman aur aunti kehte hain ke faisle mein jaldbaazi nahi karni chahiye aur sabar se kaam lena hoga. Aaliyan jail mein Shiza se baat karta hai, jahan woh Shiza ko batata hai ke usne gharwalon ko bachane ke liye khud ko arrest karwaya tha, taake sach samne aa sake. Baad mein, Salman ke phone par Aaliyan ke riha hone ki khabar aati hai, jis se sab khush hote hain. Aaliyan jab ghar wapas aata hai, toh uske walid unse naraz hote hain aur kehte hain ke unhe is mamle mein koi haq nahi tha, jabke Aaliyan aur uski walda sharminda hote hain aur unko mafi mangni parti hai. Episode ke aakhir mein, Aaliyan ghar aakar sab se milta hai, aur Shiza ke sath unka rishta aur mazboot ho jata hai jab Aaliyan unhe milne aur sath nibhane ki koshish karta hai."
+        ]
       }
     ],
     "facts": [
@@ -164120,7 +164203,8 @@ window.FA_ARTICLES = {
       "Channel: Green TV.",
       "Watch the full episode: https://www.youtube.com/watch?v=YEMTgxSd1ts",
       "YouTube views: 72,206.",
-      "TMDB: Dastoor (id 329481)."
+      "TMDB: Dastoor (id 329481).",
+      "Episode summary added 2026-11-27."
     ],
     "entities": {
       "titles": [
@@ -164545,13 +164629,20 @@ window.FA_ARTICLES = {
           "Bano Episode 33 aired on 2026-11-16 on Geo TV. The full episode is available on the channel's official YouTube page.",
           "Watch the full episode here: https://www.youtube.com/watch?v=sN8vDXyDGtY"
         ]
+      },
+      {
+        "h": "Episode Summary",
+        "p": [
+          "Murtaza phone par Tuba se baat karta hai, aur Tuba usay batati hai ke uski ammi is rishte aur milne ke khilaf hain, kyunke uski ammi Murtaza ko ghar se nikal chuki hain. Murtaza pareshan hai aur kehta hai ke ammi ko manane mein waqt lagega. Tuba kehti hai ke agar unhain khush rehna hai to uski ammi ko uske ghar walon se milna hoga aur woh khud Murtaza se milne aati hai. Dusri taraf, Shahryar apni maan aur bhen ke sath baith kar yeh baat karta hai ke Bano ko unki family mein qabool karna zaroori hai. Shahryar ki maan Bano ke parivar ko \"middle class\" keh kar unki mukhalifat karti hai aur kehti hai ke unki zindagiyan alag hain, lekin Shahryar apni maan ko samjhata hai ke woh Bano se sachchi mohabbat karta hai. Bano ghar mein akeli dukhi baithi hoti hai aur jab Rumi uske paas aati hai, woh Rumi se milti hai. Rumi aur uski ammi mil kar Bano ki madad karne ki koshish karte hain aur Rumi ki ammi kehti hain ke woh Bano ke ghar jayengi aur uski madad karengi. Episode ke aakhir mein, Bano phone par Rumi se baat karti hai aur Rumi usay batati hai ke sab kuch theek ho jayega, lekin Bano ka dil udas rehta hai aur episode yahin khatam hota hai."
+        ]
       }
     ],
     "facts": [
       "Bano Episode 33 aired on 2026-11-16.",
       "Channel: Geo TV.",
       "Watch the full episode: https://www.youtube.com/watch?v=sN8vDXyDGtY",
-      "YouTube views: 149,150."
+      "YouTube views: 149,150.",
+      "Episode summary added 2026-11-27."
     ],
     "entities": {
       "titles": [
@@ -164580,13 +164671,20 @@ window.FA_ARTICLES = {
           "Lagan Lagi Episode 18 aired on 2026-11-16 on ARY Digital. The full episode is available on the channel's official YouTube page.",
           "Watch the full episode here: https://www.youtube.com/watch?v=-ecSrktp6W4"
         ]
+      },
+      {
+        "h": "Episode Summary",
+        "p": [
+          "Is episode mein Faiza ghar aati hai aur Ahmed aur uske walidain ke samne yeh baat uthati hai ke Zuni aur Daniyal farmhouse kyun gaye thay, jisse ghar mein ek behas shuru ho jati hai. Ahmed aur uski walida Faiza ko chup karane ki koshish karte hain, lekin Faiza sab ko batati hai ke Daniyal ne Zuni ke sath birthday celebrate kiya aur usne Zuni ke sath waqt guzara. Ahmed bighad jata hai aur kehta hai ke Faiza unki behen ki beizzati kar rahi hai.\n\nIdhar Zuni apni behen Kiran ke sath baith kar ro rahi hoti hai aur regret karti hai ke usne yeh sab kyun kiya aur ghar walon ke samne yeh baat chupa kar kitni bari ghalti ki. Zuni ko bukhar ho jata hai aur Kiran use sambhalti hai.\n\nBaad mein Ahmed, Zuni aur uske walidain ke ghar jata hai aur wahan sab ke samne Faiza ki baat ko dohrata hai. Daniyal bhi wahan aa jata hai aur dono ke darmiyan kafi talhk kalam hoti hai. Faiza bhi wahan pohnch kar sab par ilzam lagati hai ke woh sab mil kar ek drama kar rahe hain aur Daniyal ke haq mein bolti hai. Daniyal gusse mein aa jata hai aur Zuni ke walidain se kehta hai ke agar woh itni hi pareshan hain toh woh Zuni ko talaq de deta hai. Is baat par Zuni behosh ho kar gir jati hai.\n\nSab pareshan ho kar Zuni ko hospital le kar jate hain jahan doctor kehta hai ke Zuni ka blood pressure bohot high hai aur use ICU mein admit karna parhega kyunki use nervous breakdown hua hai. Ahmed aur uski walida hospital mein Zuni ke paas hote hain aur uski halat dekh kar bohot dukhi hote hain. Episode yahi khatam hota hai jahan Zuni ICU mein behosh leti hai aur ghar wale uski sehat ke liye duaein kar rahe hain."
+        ]
       }
     ],
     "facts": [
       "Lagan Lagi Episode 18 aired on 2026-11-16.",
       "Channel: ARY Digital.",
       "Watch the full episode: https://www.youtube.com/watch?v=-ecSrktp6W4",
-      "YouTube views: 4,556."
+      "YouTube views: 4,556.",
+      "Episode summary added 2026-11-27."
     ],
     "entities": {
       "titles": [
@@ -164615,13 +164713,20 @@ window.FA_ARTICLES = {
           "Hurmat Episode 13 aired on 2026-11-16 on HUM TV. The full episode is available on the channel's official YouTube page.",
           "Watch the full episode here: https://www.youtube.com/watch?v=wWPx6_uskVY"
         ]
+      },
+      {
+        "h": "Episode Summary",
+        "p": [
+          "Is episode mein Zeeshan apne doston ke sath Tony Tiger ke ghar jata hai aur use arrest karke apne sath police station le ata hai. Tony Tiger aur uske sathiyon ko jail ke cell mein band kar diya jata hai jahan unka sir moond diya jata hai aur unke khilaf FIR darj ki jati hai. Zeeshan Tony Tiger se kehta hai ke ab use koi nahi bachayega. Dusri taraf, Hurmat apni parhai mein masroof hai jabki uski dost Fani aur Kaysar ki shadi ki tayariyan chal rahi hain. Shadi ki is milti-julti khushi aur udasi ke beech, Hurmat apne imtehan ki taiyari karti hai aur Zeeshan se phone par baat karti hai. Zeeshan aur Hurmat ki office mein bhi mulaqat hoti hai jahan Zeeshan shadi ke khilaf apne khyalat ka izhar karta hai. Episode ke aakhir mein, ek party ke dauran Zeeshan aur uske dost jashn mana rahe hote hain jabki Hurmat wahan majood hoti hai aur Zeeshan ko kisi aur larki ke sath dance karte dekh kar pareshan ho jati hai."
+        ]
       }
     ],
     "facts": [
       "Hurmat Episode 13 aired on 2026-11-16.",
       "Channel: HUM TV.",
       "Watch the full episode: https://www.youtube.com/watch?v=wWPx6_uskVY",
-      "YouTube views: 757,233."
+      "YouTube views: 757,233.",
+      "Episode summary added 2026-11-27."
     ],
     "entities": {
       "titles": [
@@ -173090,13 +173195,20 @@ window.FA_ARTICLES = {
           "Khushi Episode 66 aired on 2026-11-17 on HUM TV. The full episode is available on the channel's official YouTube page.",
           "Watch the full episode here: https://www.youtube.com/watch?v=2ZgvdKBTjDA"
         ]
+      },
+      {
+        "h": "Episode Summary",
+        "p": [
+          "Is episode mein Meheren pareshan baithi hai aur Sohel ke aane par kehti hai ke woh Khushi ko kabhi nahi choregi. Khushi aur Meheren ki mulaqat hoti hai jahan dono gale lag kar roti hain. Sohail phone par Meheren ko batata hai ke Khushi mil gayi hai aur woh Ammar ko lekar wahan jata hai. Ammar aur Uska khandan Khushi ke ghar aate hain jahan Ammar Khushi se maafi maangta hai aur kehta hai ke usne galat fehmi ki wajah se gussa kiya tha. Khushi kehti hai ke usne Ammar par kabhi shaq nahi kiya tha lekin Ammar ke shaq ne use bohot takleef di hai. Is dauran, Aiza Ammar ko taana marti hai ke usne Khushi par galat ilzaam lagaya tha aur Khushi ko ghar se nikal diya tha. Episode ke aakhir mein Ammar pareshani mein sofa par baitha rehta hai jabke Amma usko dekhti hain."
+        ]
       }
     ],
     "facts": [
       "Khushi Episode 66 aired on 2026-11-17.",
       "Channel: HUM TV.",
       "Watch the full episode: https://www.youtube.com/watch?v=2ZgvdKBTjDA",
-      "YouTube views: 206,847."
+      "YouTube views: 206,847.",
+      "Episode summary added 2026-11-27."
     ],
     "entities": {
       "titles": [
@@ -173125,13 +173237,20 @@ window.FA_ARTICLES = {
           "Uswah Episode 55 aired on 2026-11-17 on Geo TV. The full episode is available on the channel's official YouTube page.",
           "Watch the full episode here: https://www.youtube.com/watch?v=sfNhOhI3GpY"
         ]
+      },
+      {
+        "h": "Episode Summary",
+        "p": [
+          "Ibrahim aur uski biwi ke darmiyan baat cheet hoti hai jisme Ibrahim kehta hai ke Uswah ghar par nahi hai aur woh lagta hai ke Fariya aur Tabassum ke sath shadi ki shopping karne gayi hai. Ibrahim ko yeh samajh nahi aata ke Uswah ne pehle shadi ke baad bhi doosri shadi ka faisla kaise kiya. Ussi dauran Uswah class mein hoti hai jahan wo apne doston ke sath hoti hai, aur wahan Ibrahim bhi aa jata hai. Uswah aur Fariya ke beech thodi behas hoti hai. Doosri taraf, ek aur scene mein Uswah ghar aati hai aur uske pas ek bouquet aur gift hota hai. Uske baad Ibrahim aur Uswah ke rishte ko lekar ghar mein baatein hoti hain. Episode ke aakhir mein, Ibrahim aur Fariya ke darmiyan Uswah ke gayab hone ya uski fikar ko lekar kafi behas hoti hai aur Fariya naraz ho jati hai, aur episode yahin ek tension bhare scene par khatam ho jata hai."
+        ]
       }
     ],
     "facts": [
       "Uswah Episode 55 aired on 2026-11-17.",
       "Channel: Geo TV.",
       "Watch the full episode: https://www.youtube.com/watch?v=sfNhOhI3GpY",
-      "YouTube views: 555,739."
+      "YouTube views: 555,739.",
+      "Episode summary added 2026-11-27."
     ],
     "entities": {
       "titles": [
@@ -173166,6 +173285,12 @@ window.FA_ARTICLES = {
         "p": [
           "Dastoor is a heartfelt family drama filled with love, sacrifice, family conflicts, secrets, and emotional twists. Follow the journey of a mother and her daughters as they face difficult choices, broken relationships, and unexpected turns of fate a story of love, pain, forgiveness, and second chances."
         ]
+      },
+      {
+        "h": "Episode Summary",
+        "p": [
+          "Is episode ki shuruaat mein Sheza aur Mustafa ki baat-cheet hoti hai jahan Sheza apni behen Ammara ke qaatil ko dhoondhne aur insaaf paane ki zid par kayam rehti hai, chahe iske liye usey apne maazi aur purane ghamo ko dobara samne kyun na lana pade. Mustafa usay samjhane ki koshish karta hai ke purani baaton ko chhodkar aage barhna chahiye aur akele is bojh ko nahi uthana chahiye, lekin Sheza apni zid nahi chhodti. Dusri taraf, Aliyaan aur Aliena apas mein apne rishte aur naye aghaaz ki baatein karte hain, aur Aliena Aliyaan ke faislon ke sath khari rehti hai. Aliyaan jab apne ghar walon ko batata hai ke woh aur Aliena ghar chod kar ja rahe hain, toh uske walid aur walda is par gussa hote hain aur Aliyaan ko apni ghalti ka ehsaas dilate hain ke woh doosron ke kehne par galat faisle le raha hai. Aliyaan zidd par adha rehta hai aur wahan se chala jata hai. Baad mein, Sheza police station ja kar Ammara ke case se mutaliq CCTV footage check karti hai aur police officer se baat karti hai, jahan usey pata chalta hai ke car ki number plate jali thi aur isliye mazeed tehqeeqat mushkil hai. Episode ke aakhir mein Sheza aur Mustafa phone par baat karte hain, aur Sheza police station mein hi khari hoti hai jabke Mustafa phone par pareshan hota hai, aur episode yahin ek suspense par khatam ho jata hai."
+        ]
       }
     ],
     "facts": [
@@ -173173,7 +173298,8 @@ window.FA_ARTICLES = {
       "Channel: Green TV.",
       "Watch the full episode: https://www.youtube.com/watch?v=KF7mNX-Jlrs",
       "YouTube views: 71,144.",
-      "TMDB: Dastoor (id 329481)."
+      "TMDB: Dastoor (id 329481).",
+      "Episode summary added 2026-11-27."
     ],
     "entities": {
       "titles": [
@@ -256641,13 +256767,20 @@ window.FA_ARTICLES = {
           "Mera Ghar Episode 10 aired on 2026-11-26 on ARY Digital. The full episode is available on the channel's official YouTube page.",
           "Watch the full episode here: https://www.youtube.com/watch?v=C47NAuknha4"
         ]
+      },
+      {
+        "h": "Episode Summary",
+        "p": [
+          "Is episode ki shuruat mein Junaid subha subha ghar aata hai aur Maryam se milta hai, woh Maryam ko batata hai ke woh Ahmed ke ghar gaya tha jahan se Shari bhi mil gaya tha aur unki sulah ho gayi thi. Maryam khush hoti hai aur Junaid ko khane ke liye kehti hai. Junaid kitchen mein jaakar Maryam ko makkai keema aur podine ki chutney banane ka kehta hai. Baad mein, Junaid room mein guitar bajata hai aur shayarana andaz mein udas gaane gata hai jabki Maryam bahar kitchen ka kaam kar rahi hoti hai. Wo udas ho jata hai aur khud par gussa karta hai. Maryam uske paas aati hai aur poochti hai ke kya hua, Junaid kehta hai ke woh theek hai.\n\nDopahar ke waqt, khane ki table par Junaid, Maryam, Junaid ke walid aur Shari baithte hain. Maryam kehti hai ke woh Shari ko kisi achi university mein parhne ke liye bahar bhejna chahti hai. Junaid pehle hairan hota hai lekin phir paani peeta hai aur thora khansi karta hai, lekin baad mein woh akele baith kar rone lagta hai jab woh sochta hai ke woh Shari se door ho jayega. Junaid room mein aakar pareshan hota hai aur apna sir pakad kar baith jata hai.\n\nDusri taraf, Junaid apne walid se kuch paise mangta hai kyunki use tailor ko dene aur doctor ke paas jane ke liye paiso ki zaroorat hoti hai. Walid use 2000 rupay dete hain aur kehte hain ke office jane se pehle ATM se nikal le.\n\nEk aur scene mein, Farrukhanda (Junaid ki ammi) aur ek aur khala baith kar baat kar rahi hoti hain. Farrukhanda phone par baat kar rahi hoti hai aur unko lagta hai ke door par koi aya hai. Phir Farrukhanda aur khala ke beech yeh baat hoti hai ke Junaid aur Maryam ke rishte ke bare mein kisi ko batana chahiye ya nahi. Maryam bhi wahan aati hai aur pareshan hoti hai ke kahin uske ghar walon ko uski aur Junaid ki situation ke bare mein pata na chal jaye.\n\nEpisode ke aakhri hisse mein, Junaid university jata hai aur wahan Shari ko dekhta hai. Woh Shari ko dekh kar khamosh khada rehta hai aur phir episode khatam ho jata hai."
+        ]
       }
     ],
     "facts": [
       "Mera Ghar Episode 10 aired on 2026-11-26.",
       "Channel: ARY Digital.",
       "Watch the full episode: https://www.youtube.com/watch?v=C47NAuknha4",
-      "YouTube views: 64,223."
+      "YouTube views: 64,223.",
+      "Episode summary added 2026-11-27."
     ],
     "entities": {
       "titles": [
@@ -264076,5 +264209,400 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "2026-11-27T17:55:07+05:30"
+  },
+  "abe4sf": {
+    "id": "abe4sf",
+    "type": "news",
+    "headline": "Saint-Pierre Season 3 Trailer Drops Featuring Former Death in Paradise Star",
+    "dek": "Joséphine Jobert returns for the third outing of the hit detective series, bringing fresh chaos as new characters shake up the island community.",
+    "body": [
+      {
+        "h": "The Return of Saint-Pierre",
+        "p": [
+          "The hit detective drama Saint-Pierre is returning for its third season, offering fans a fresh look at the Canadian-set mystery series through a recently released trailer. Moving away from the tropical vibes of the Caribbean, the show is anchored on a unique French-administered island located right off Newfoundland.",
+          "At the center of the narrative are Chief Geneviève Arch Archambault, portrayed by Joséphine Jobert, and Inspector Donald Fitz Fitzpatrick, played by Allan Hawco. The upcoming twelve-part run promises to test the duo as they attempt to maintain order amid mounting pressure on the island."
+        ]
+      },
+      {
+        "h": "A Gang War Erupts",
+        "p": [
+          "As the third season gets underway, the peaceful rhythm of the community is abruptly shattered by the outbreak of a violent gang war. Arch and Fitz find themselves racing against the clock to keep the local populace safe while managing the spiraling criminal activity.",
+          "The escalation forces local authorities to confront threats that challenge the very fabric of their daily operations, setting a tense tone for the entirety of the upcoming episodes."
+        ]
+      },
+      {
+        "h": "New Arrivals Bring Chaos",
+        "p": [
+          "To help manage the escalating crisis, organized crime expert Pascal Lalonde arrives directly from Paris to restore order. Portrayed by Assaad Bouab, the newcomer wastes no time making his critical perspective known, questioning the methods of the local law enforcement.",
+          "In addition to the crime expert, the season introduces Victoria Peters, a mysterious businesswoman played by Caroline Dhavernas. Her ambitious plans to transform the island into a major tourist destination quickly spark unexpected friction with Fitz."
+        ]
+      },
+      {
+        "h": "Familiar Faces and Pedigree",
+        "p": [
+          "Viewers may recognize Assaad Bouab from his notable roles in several major television projects, including Apple TV's Bad Sisters, the BBC One hit Peaky Blinders, and the French-language sitcom Call My Agent!. His addition brings extra prestige to the ensemble cast.",
+          "Similarly, co-lead Joséphine Jobert gained widespread recognition among UK audiences for her portrayal of DS Florence Cassell in Death in Paradise across various iterations spanning from 2015 to 2024. Caroline Dhavernas is also well known for her past work in Hannibal."
+        ]
+      },
+      {
+        "h": "International Popularity and Success",
+        "p": [
+          "Saint-Pierre established itself as a massive hit, emerging as CBC's most popular show of the 2025/26 season. Co-star Allan Hawco, who also serves as co-creator alongside Robina Lord-Stafford, expressed immense satisfaction with how well the series has performed both domestically and internationally.",
+          "Discussions regarding its broader market reach suggest that finding the right home in the United States is only a matter of time, given its strong current trajectory."
+        ]
+      },
+      {
+        "h": "Broadcast and Streaming Details",
+        "p": [
+          "Fans in Canada can look forward to the premiere of the third season in January, airing on both CBC and CBC Gem. Meanwhile, audiences in the UK have recently gained access to the very first season via U Alibi and NOW.",
+          "While future rollout dates for the second and third instalments in the UK remain unconfirmed, the series is slated to come soon to U Alibi, expanding its reach to international viewers."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Joséphine Jobert and Allan Hawco return for the third season of Saint-Pierre, which arrives on CBC and CBC Gem in January. The new episodes introduce fresh complications with the arrival of characters played by Assaad Bouab and Caroline Dhavernas amidst a local gang war."
+        ]
+      }
+    ],
+    "facts": [
+      "Saint-Pierre season 3 premieres in January on CBC and CBC Gem.",
+      "The third season consists of 12 parts.",
+      "Saint-Pierre was CBC's most popular show of the 2025/26 season.",
+      "Joséphine Jobert played DS Florence Cassell in Death in Paradise between 2015 and 2024."
+    ],
+    "entities": {
+      "people": [
+        "Joséphine Jobert",
+        "David Craig",
+        "Donald Fitzpatrick",
+        "Geneviève Archambault",
+        "Allan Hawco",
+        "Pascal Lalonde",
+        "Assaad Bouab",
+        "Victoria Peters",
+        "Caroline Dhavernas",
+        "Robina Lord-Stafford"
+      ],
+      "titles": [
+        "Death in Paradise",
+        "Saint-Pierre",
+        "Bad Sisters",
+        "Peaky Blinders",
+        "Call My Agent!",
+        "Hannibal"
+      ]
+    },
+    "keywords": [
+      "Saint-Pierre season 3",
+      "Joséphine Jobert Saint-Pierre",
+      "Allan Hawco Saint-Pierre",
+      "Assaad Bouab Saint-Pierre"
+    ],
+    "images": [
+      {
+        "url": "https://images.production.immediate.co.uk/volatile/sites/3/2026/11/saint-pierre-jobert-season-3-0c0a0aa.jpg?resize=1200%2C630",
+        "caption": "Saint-Pierre Season 3 Trailer Drops Featuring Former Death in Paradise Star",
+        "source": "Radio Times"
+      }
+    ],
+    "published": "Fri, 27 Nov 2026 10:54:38 GMT"
+  },
+  "11o0obg": {
+    "id": "11o0obg",
+    "type": "news",
+    "headline": "Katy Perry and Justin Trudeau Enjoy Luxurious European Train Trip",
+    "dek": "American singer Katy Perry and former Canadian Prime Minister Justin Trudeau shared highlights of their European holiday, featuring an exclusive journey on the Venice Simplon-Orient-Express.",
+    "body": [
+      {
+        "h": "A European Holiday Revealed",
+        "p": [
+          "American singer Katy Perry recently shared a collection of photographs and videos on Instagram, giving fans a look into her European holiday with boyfriend and former Canadian Prime Minister Justin Trudeau. The update offered followers an intimate glance at their travels across multiple European destinations.",
+          "The 42-year-old singer posted the pictures on November 25, playfully captioning the post \"the bob’s Euro debut\" to highlight her fresh hairstyle. The digital album captured various moments from their trip, including visits to festive Christmas markets."
+        ]
+      },
+      {
+        "h": "The Venice Simplon-Orient-Express Journey",
+        "p": [
+          "A major highlight of the getaway was an overnight luxury train ride from Paris to Venice aboard the Venice Simplon-Orient-Express. According to reports from The Times, the couple booked an entire private carriage for themselves during the roughly 24-hour journey.",
+          "Media reports indicated that the exclusive trip cost approximately £80,000. Perry posted video footage of herself unwinding inside a moving train bathtub while watching the European landscape roll past the window."
+        ]
+      },
+      {
+        "h": "Inside the Exclusive Private Carriage",
+        "p": [
+          "According to information from Czech outlet iDNES.cz, Perry and Trudeau travelled in a specialized private carriage named L’Observatoire. Designed by French artist JR, this carriage officially joined the luxury train line in March 2025.",
+          "Details from operator Belmond show that the accommodation includes a double bedroom, private dining space, a lounge equipped with a vinyl record player, a sculpted bathtub bathroom, and a library featuring a hidden entrance to a secret tearoom. Passengers staying in the carriage also receive 24-hour steward services and premium beverages, with a starting price listed at £60,000."
+        ]
+      },
+      {
+        "h": "Elegant Moments on Board and Ashore",
+        "p": [
+          "Additional footage shared from the train showed Perry walking down a corridor dressed in a blush pink corset minidress. Trudeau accompanied her in style, wearing a cream tuxedo jacket paired with a black bow tie.",
+          "Their holiday album also featured casual card games over dinner, a match of backgammon, and a selfie alongside French President Emmanuel Macron."
+        ]
+      },
+      {
+        "h": "Stops Across Spain, Italy, and France",
+        "p": [
+          "According to Elle, the couple's itinerary spanned three European countries: Spain, Italy, and France. On November 17, they made an appearance at Atresmedia's Metafuturo conference held in Barcelona, where Trudeau participated as a speaker.",
+          "Following their time in Spain, they were spotted in Milan and Paris. People magazine noted that they spent time together in Venice on November 21 before leaving from Marco Polo Airport on November 23."
+        ]
+      },
+      {
+        "h": "Relationship Background",
+        "p": [
+          "The couple first sparked romantic speculation in July 2025. Their public appearances together have steadily drawn media attention since that time.",
+          "In a September 2026 interview with People, Perry spoke candidly about her connection with Trudeau, explicitly referring to him as the \"love of my life\"."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Singer Katy Perry and former Canadian Prime Minister Justin Trudeau documented their European holiday, which included a private luxury train ride from Paris to Venice aboard the Venice Simplon-Orient-Express. The trip featured stops across Spain, France, and Italy, building on a relationship that began drawing public attention in July 2025."
+        ]
+      }
+    ],
+    "facts": [
+      "Katy Perry is 42 years old.",
+      "Justin Trudeau is 54 years old.",
+      "The Instagram post was shared on November 25.",
+      "The Venice Simplon-Orient-Express journey cost approximately £80,000.",
+      "The L’Observatoire carriage joined the luxury train in March 2025.",
+      "The starting price for the private carriage is listed at £60,000.",
+      "They attended Atresmedia's Metafuturo conference in Barcelona on November 17.",
+      "They were spotted in Venice on November 21 and departed from Marco Polo Airport on November 23.",
+      "Dating rumours first started in July 2025.",
+      "Perry described Trudeau as the love of her life in a September 2026 People interview."
+    ],
+    "entities": {
+      "people": [
+        "Katy Perry",
+        "Justin Trudeau",
+        "Emmanuel Macron",
+        "Mahipal Singh Chouhan"
+      ],
+      "titles": []
+    },
+    "keywords": [
+      "Katy Perry Justin Trudeau train",
+      "Katy Perry European holiday",
+      "Venice Simplon-Orient-Express L Observatoire",
+      "Justin Trudeau Katy Perry romance"
+    ],
+    "images": [
+      {
+        "url": "https://www.hindustantimes.com/ht-img/img/2026/11/27/1600x900/logo/bdfbfbccxcccxs_1795780641264_QkFJ_1795780647462_ag3p_3c03af83-1d04-4cbd-bb67-e38444697090_8wuH.jpg",
+        "caption": "Katy Perry and Justin Trudeau Enjoy Luxurious European Train Trip",
+        "source": "Hindustan Times — Entertainment"
+      }
+    ],
+    "published": "Fri, 27 Nov 2026 17:35:27 +0530"
+  },
+  "xpzw7o": {
+    "id": "xpzw7o",
+    "type": "news",
+    "headline": "Why Blade Runner's Most Iconic Quote Resonates More Than Ever in the Age of AI",
+    "dek": "Decades after its initial theatrical release, Ridley Scott's sci-fi classic continues to offer profound commentary on artificial life and modern technology.",
+    "body": [
+      {
+        "h": "A Sci-Fi Cornerstone",
+        "p": [
+          "Even though Ridley Scott's feature initially struggled at the box office when it premiered in 1982, it has since grown into a monumental pillar of science-fiction cinema. The release of Blade Runner: The Final Cut in 2007 further refined the movie, ironing out remaining issues and solidifying its status as a masterpiece.",
+          "Despite its deliberate, slow-burn pacing that may not appeal to every viewer, the film is deeply layered with philosophical inquiries regarding mortality, consciousness, and what it truly means to be human. These concepts are woven both into the background narrative and through the sharp, brooding script."
+        ]
+      },
+      {
+        "h": "The Iconic Exchange",
+        "p": [
+          "Among the movie's most significant sequences is the test administered by Rick Deckard, played by Harrison Ford, to determine whether Dr. Eldon Tyrell's employee, Rachael, is actually a Replicant. After an extended Voight-Kampff test, Deckard successfully identifies her true nature.",
+          "Proud of his technological achievement, Dr. Tyrell, portrayed by Joe Turkel, brags about his process. Deckard brushes off the boastful explanation with characteristic snark, remarking that he once saw an old movie where a character had bolts in his head."
+        ]
+      },
+      {
+        "h": "A Modern Frankenstein Parable",
+        "p": [
+          "Deckard's witty retort serves as a direct comparison to Dr. Frankenstein and his infamous monster, framing Rachael as an artificial abomination rather than just a manufactured laborer. Tyrell engineered Rachael by embedding memories stolen from his own niece into her newly formed consciousness.",
+          "Though Deckard initially views her through this skeptical lens, he eventually grows to accept and fall in love with Tyrell's creation. He simply requires time to process the boundaries of humanity and the definition of true sentience."
+        ]
+      },
+      {
+        "h": "Parallels With Generative Technology",
+        "p": [
+          "In contemporary society, discussions surrounding artificial intelligence and generative platforms have sparked intense controversy. While some embrace these new tools for creating media, critics argue that such systems exploit pre-existing work without proper attribution.",
+          "This modern practice of aggregating old material to generate new outputs mirrors how Tyrell constructed Rachael. Despite her manufactured origins, Rachael develops genuine individual thoughts and desires, highlighting the tension between how something is made and who it eventually becomes."
+        ]
+      },
+      {
+        "h": "Sci-Fi Anticipating Reality",
+        "p": [
+          "Science-fiction stories frequently anticipate real-world technological shifts, and this classic film is no exception. The rapid proliferation of digital intelligence tools closely echoes the integration of Replicants within the world depicted on screen.",
+          "While the cinematic universe presents an exaggerated version of artificial existence, the underlying parallels with current technological advancements remain strikingly relevant today."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Ridley Scott's 1982 science-fiction classic features a memorable piece of dialogue where Rick Deckard compares Dr. Eldon Tyrell to Frankenstein, a sentiment that now mirrors modern debates surrounding generative artificial intelligence. As society grapples with synthetic creations and digital tools, the philosophical themes established in the film continue to offer vital commentary on humanity and technology."
+        ]
+      }
+    ],
+    "facts": [
+      "Blade Runner was released in 1982.",
+      "Blade Runner: The Final Cut was released in 2007.",
+      "Ridley Scott directed Blade Runner.",
+      "Harrison Ford played Rick Deckard.",
+      "Joe Turkel played Dr. Eldon Tyrell.",
+      "Sean Young played Rachael."
+    ],
+    "entities": {
+      "people": [
+        "Daniel Bibby",
+        "Ridley Scott",
+        "Joe Turkel",
+        "Harrison Ford",
+        "Sean Young",
+        "David Webb Peoples",
+        "Hampton Fancher",
+        "Philip K. Dick",
+        "Michael Deeley",
+        "Run Run Shaw",
+        "Rutger Hauer",
+        "Matt Damon"
+      ],
+      "titles": [
+        "Blade Runner",
+        "Blade Runner: The Final Cut",
+        "Blade Runner 2049"
+      ]
+    },
+    "keywords": [
+      "Blade Runner",
+      "Ridley Scott",
+      "Harrison Ford",
+      "Rick Deckard",
+      "Blade Runner The Final Cut"
+    ],
+    "images": [
+      {
+        "url": "https://static0.moviewebimages.com/wordpress/wp-content/uploads/2026/11/movieweb-featured-image-template-2026-11-25t174512-558.jpg?w=1600&amp;h=900&amp;fit=crop",
+        "caption": "Why Blade Runner's Most Iconic Quote Resonates More Than Ever in the Age of AI",
+        "source": "MovieWeb"
+      }
+    ],
+    "published": "Fri, 27 Nov 2026 12:00:17 GMT"
+  },
+  "196jj3n": {
+    "id": "196jj3n",
+    "type": "news",
+    "headline": "South Indian Box Office 2026 Analysis: Telugu Leads Regional Markets While Kollywood Dominates Cross-Language Earnings",
+    "dek": "A detailed examination of 807 tracked box office records reveals how cross-industry releases shape the Telugu, Tamil, Malayalam, and Kannada film markets.",
+    "body": [
+      {
+        "h": "Overall Market Overview",
+        "p": [
+          "The contemporary discussion surrounding Indian cinema frequently centers on pan-India releases venturing into Hindi-speaking territories. However, the movement of motion pictures between the four major southern language industries reveals equally compelling trends. Through November 26, 2026, the Telugu, Tamil, Malayalam, and Kannada sectors have jointly amassed a massive ₹5,307.92 crore net across 807 tracked releases.",
+          "An in-depth review of these receipts demonstrates that regional industries rely to varying degrees on productions originating outside their primary boundaries. While some territories lean heavily on homegrown content, others absorb significant revenue from neighbouring film industries."
+        ]
+      },
+      {
+        "h": "Language-Wise Contributions",
+        "p": [
+          "The Telugu market stands at the forefront of the total net market with ₹2,152.28 crore, of which ₹1,642.87 crore stems from domestic releases and ₹509.41 crore arrives from external industries. Tamil cinema follows closely with an overall total of ₹1,881.12 crore, featuring ₹1,721.85 crore from home productions and ₹159.27 crore from outside markets.",
+          "Meanwhile, Malayalam cinema accounts for ₹878.09 crore total net with ₹813.67 crore home-grown, and Kannada records ₹396.43 crore total with ₹299.51 crore native earnings. This establishes that roughly 16% of total revenue across these regions originates outside the respective home language sphere."
+        ]
+      },
+      {
+        "h": "Home-Industry Standings and Shifts",
+        "p": [
+          "When external language collections are entirely filtered out, the leaderboard undergoes a notable shift. Although Telugu leads Tamil in cumulative gross figures, Tamil overtakes Telugu by ₹78.98 crore when observing purely native productions. This divergence highlights that while Telugu audiences actively support diverse cinematic fare from across the nation, Tamil studios capture immense value primarily from within.",
+          "Without a massive domestic blockbuster on par with previous multi-crore giants this year, the Telugu audience base nevertheless continually fuels strong box office numbers for external titles."
+        ]
+      },
+      {
+        "h": "Kollywood Versus Tollywood Cross-Border Reach",
+        "p": [
+          "A fascinating imbalance exists in the theatrical exchange between Tamil and Telugu industries. Kollywood exhibits an extraordinary commercial footprint inside the Telugu territory, generating nearly ten times the cross-language business that Tollywood manages in return within Tamil Nadu.",
+          "For every single rupee that Tollywood films earn through their Tamil language iterations, Kollywood releases pull in approximately thirteen rupees within the Telugu market. Highlighting this trend, major Tamil features pull substantial footfalls across neighbouring states."
+        ]
+      },
+      {
+        "h": "Key Contributors and Notable Titles",
+        "p": [
+          "Major catalysts drive these cross-border financial exchanges. High-profile releases such as Jailer 2, Vishwanath and Sons, Scene, and Karuppu demonstrate the deep commercial reliance Tamil filmmakers place on neighbouring audiences. Specifically, the Telugu version of Jailer 2 alone crossed ₹86.36 crore net.",
+          "Remarkably, this single dub version earned more than the combined regional business of all Tollywood and Sandalwood productions operating across neighbouring southern sectors."
+        ]
+      },
+      {
+        "h": "Bollywood's Impact Through Major Releases",
+        "p": [
+          "Hindi cinema also commands a notable share of the southern landscape, though a vast majority of its regional earnings trace back to a single enterprise. Namit Malhotra's Ramayana accumulated ₹239.45 crore net across its four southern language versions after 22 days in theatres.",
+          "Its performance proved staggering in Kannada and Malayalam markets, capturing 94% and nearly 97% of Bollywood's total revenue within those respective regions, positioning it as an unprecedented pan-regional phenomenon."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "An analysis of 807 box office records through November 26, 2026, shows that the South Indian net market reached ₹5,307.92 crore, with Telugu leading overall collections and Tamil leading in home-industry figures. Furthermore, Kollywood generated nearly ten times the cross-language business within South India compared to Tollywood's earnings in neighbouring regions."
+        ]
+      }
+    ],
+    "facts": [
+      "Total tracked net market across four southern languages through November 26, 2026 is ₹5,307.92 crore.",
+      "Telugu market total net is ₹2,152.28 crore with ₹509.41 crore from other industries.",
+      "Tamil market total net is ₹1,881.12 crore with ₹159.27 crore from other industries.",
+      "Malayalam market total net is ₹878.09 crore with ₹64.42 crore from other industries.",
+      "Kannada market total net is ₹396.43 crore with ₹96.92 crore from other industries.",
+      "Namit Malhotra's Ramayana generated ₹239.45 crore net through its four South Indian language versions after 22 days.",
+      "The Telugu version of Jailer 2 earned ₹86.36 crore net."
+    ],
+    "entities": {
+      "people": [
+        "Christa Lincy",
+        "Namit Malhotra",
+        "Nitesh Tiwari",
+        "SS Rajamouli",
+        "Aditya Datt",
+        "Ajay Devgn",
+        "Dhanush",
+        "Jr NTR",
+        "Shah Rukh Khan",
+        "Sunit Jangir"
+      ],
+      "titles": [
+        "Jana Nayagan",
+        "Pushpa 2",
+        "Pushpa 2: The Rule",
+        "Jailer 2",
+        "Vishwanath and Sons",
+        "Scene",
+        "Karuppu",
+        "Ramayana",
+        "Premada Oorali",
+        "King",
+        "Dhurandhar 2",
+        "Baahubali 2",
+        "Baahubali 2: The Conclusion",
+        "Gunmaaster G9",
+        "Drishyam",
+        "Drishyam 3",
+        "OM Chapter 1: Udhiram",
+        "Devara"
+      ]
+    },
+    "keywords": [
+      "South Indian Box Office 2026",
+      "Telugu Tamil Malayalam Kannada box office",
+      "Kollywood Tollywood cross language business",
+      "Ramayana South Indian language collection"
+    ],
+    "images": [
+      {
+        "url": "https://cdn.sacnilk.com/image/news300/1000028759.jpg",
+        "caption": "South Indian Box Office 2026 Analysis: Telugu Leads Regional Markets While Kollywood Dominates Cross-Language Earnings",
+        "source": "Sacnilk"
+      }
+    ],
+    "published": "Fri, 27 Nov 2026 12:06:44 +0000"
   }
 };

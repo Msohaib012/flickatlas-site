@@ -1,19 +1,19 @@
 {
   "connected": true,
-  "generated": "2026-11-27T12:55:05Z",
+  "generated": "2026-11-27T14:16:06Z",
   "realtime": {
-    "active_users": 1
+    "active_users": 2
   },
   "today": {
-    "users": 12,
-    "pageviews": 16,
-    "sessions": 15,
-    "avg_session_seconds": 90.8
+    "users": 17,
+    "pageviews": 21,
+    "sessions": 20,
+    "avg_session_seconds": 69.2
   },
   "last7": {
-    "users": 2294,
-    "pageviews": 2230,
-    "sessions": 2300,
+    "users": 2299,
+    "pageviews": 2235,
+    "sessions": 2305,
     "avg_session_seconds": 5.7
   },
   "top_pages": [
@@ -61,6 +61,12 @@
     },
     {
       "path": "/movie",
+      "title": "Resident Evil (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+      "views": 3,
+      "avg_time_seconds": 6.1
+    },
+    {
+      "path": "/movie",
       "title": "Sisu: Road to Revenge (2025) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
       "views": 3,
       "avg_time_seconds": 16.6
@@ -70,20 +76,14 @@
       "title": "McG — Bio & Selected Credits | FlickAtlas",
       "views": 3,
       "avg_time_seconds": 16.3
-    },
-    {
-      "path": "/box-office",
-      "title": "Box Office Collections: Today, 7-Day & Totals | FlickAtlas",
-      "views": 2,
-      "avg_time_seconds": 17.5
     }
   ],
   "sources": [
     {
       "source": "(direct)",
       "medium": "(none)",
-      "sessions": 2161,
-      "users": 2161
+      "sessions": 2166,
+      "users": 2166
     },
     {
       "source": "(not set)",
@@ -107,7 +107,7 @@
   "countries": [
     {
       "country": "Brazil",
-      "users": 474
+      "users": 475
     },
     {
       "country": "Singapore",
@@ -115,7 +115,7 @@
     },
     {
       "country": "United States",
-      "users": 298
+      "users": 299
     },
     {
       "country": "Argentina",
@@ -123,7 +123,7 @@
     },
     {
       "country": "China",
-      "users": 127
+      "users": 128
     },
     {
       "country": "Hong Kong",
@@ -139,7 +139,7 @@
     },
     {
       "country": "Mexico",
-      "users": 103
+      "users": 104
     },
     {
       "country": "Colombia",
@@ -149,11 +149,11 @@
   "devices": [
     {
       "device": "desktop",
-      "users": 2273
+      "users": 2277
     },
     {
       "device": "mobile",
-      "users": 21
+      "users": 22
     }
   ],
   "per_post": {}
