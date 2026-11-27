@@ -261073,5 +261073,401 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Fri, 27 Nov 2026 02:36:12 GMT"
+  },
+  "1yuhdga": {
+    "id": "1yuhdga",
+    "type": "news",
+    "headline": "Aakasamlo Oka Tara Box Office Collection Day 7: Dulquer Salmaan Starrer Crosses Rs 40 Crore Worldwide",
+    "dek": "Dulquer Salmaan's Telugu feature Aakasamlo Oka Tara wraps up its initial week in cinemas with a strong global haul, registering notable figures across domestic and international markets.",
+    "body": [
+      {
+        "h": "First Week Box Office Summary",
+        "p": [
+          "Dulquer Salmaan's cinematic venture Aakasamlo Oka Tara has officially concluded its first week of theatrical exhibition worldwide. According to recent trade tracking reports from Sacnilk, the feature accumulated a substantial global gross of Rs 40.83 crore since its premiere.",
+          "The theatrical run commenced on November 20, drawing considerable crowds during the opening weekend before transitioning into standard weekday earnings. The total international contribution stands at Rs 11.75 crore, bolstering the overall worldwide collection significantly."
+        ]
+      },
+      {
+        "h": "Domestic Net and Gross Breakdown",
+        "p": [
+          "Within the domestic market, the film secured a total net collection of Rs 25.05 crore over its first seven days. When factoring in regional ticket sales, the domestic gross figure reaches Rs 29.08 crore.",
+          "On Thursday, November 26, the feature sustained its performance by bringing in Rs 2.70 crore net in India. This matched the exact collection of the previous day despite slight adjustments in screen allocations."
+        ]
+      },
+      {
+        "h": "Day-by-Day Earnings Progression",
+        "p": [
+          "The opening day on November 20 saw the film pull in Rs 2.90 crore net domestically. Momentum grew over the weekend, with collections climbing to Rs 4.45 crore on Saturday and hitting Rs 5.75 crore on Sunday.",
+          "As the workweek began, figures adjusted downward, recording Rs 3.30 crore on Monday, which marked a 42.6% drop from Sunday. Tuesday brought in Rs 3.25 crore, followed by steady earnings of Rs 2.70 crore on both Wednesday and Thursday."
+        ]
+      },
+      {
+        "h": "Language-Wise Performance on Day Seven",
+        "p": [
+          "Thursday's domestic earnings were led primarily by the Telugu version, which brought in Rs 1.90 crore across 1,471 screenings. This comprised roughly 70% of the day's entire national net collection.",
+          "Meanwhile, the Malayalam version contributed Rs 55 lakh through 497 screenings, and the Tamil version added Rs 25 lakh from 259 shows. In terms of occupancy rates, the Tamil version led with 35%, followed by Malayalam at 30% and Telugu at 28.2%."
+        ]
+      },
+      {
+        "h": "Cast, Crew and Production Background",
+        "p": [
+          "Directed by Pavan Sadineni, the film features Dulquer Salmaan and Satvika Veeravalli in the main roles, alongside an appearance by Shruti Haasan. The screenplay was crafted by Gunnam Gangaraju, based on a story by Pavan Sadineni and Vasanth Jurru.",
+          "The project was financed by Sandeep Gunnam and Ramya Gunnam under the banner of Lightbox Media, with presentation duties handled by Swapna Cinema and Geetha Arts. The creative and technical departments feature music composer G. V. Prakash Kumar, cinematographer Sujith Sarang, and editor Praveen KL."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Dulquer Salmaan's Telugu movie Aakasamlo Oka Tara concluded its first week in theaters on November 26 with a worldwide gross of Rs 40.83 crore. The film earned a domestic net total of Rs 25.05 crore and an overseas collection of Rs 11.75 crore since releasing on November 20."
+        ]
+      }
+    ],
+    "facts": [
+      "Released on November 20",
+      "First week worldwide gross collection of Rs 40.83 crore",
+      "India net collections of Rs 25.05 crore",
+      "Domestic gross stands at Rs 29.08 crore",
+      "Overseas market contributed Rs 11.75 crore",
+      "Day 7 net collection on November 26 was Rs 2.70 crore",
+      "Telugu version collected Rs 1.90 crore from 1,471 shows on Thursday",
+      "Malayalam version added Rs 55 lakh through 497 shows on Thursday",
+      "Tamil version earned Rs 25 lakh from 259 shows on Thursday",
+      "Opening day net collection on November 20 was Rs 2.90 crore",
+      "Saturday collection was Rs 4.45 crore",
+      "Sunday collection was Rs 5.75 crore",
+      "Monday collection was Rs 3.30 crore",
+      "Tuesday collection was Rs 3.25 crore",
+      "Wednesday collection was Rs 2.70 crore"
+    ],
+    "entities": {
+      "people": [
+        "Dulquer Salmaan",
+        "Satvika Veeravalli",
+        "Shruti Haasan",
+        "Pavan Sadineni",
+        "Sandeep Gunnam",
+        "Ramya Gunnam",
+        "G. V. Prakash Kumar",
+        "Sujith Sarang",
+        "Praveen KL",
+        "Gunnam Gangaraju",
+        "Vasanth Jurru"
+      ],
+      "titles": [
+        "Aakasamlo Oka Tara"
+      ]
+    },
+    "keywords": [
+      "Aakasamlo Oka Tara",
+      "Dulquer Salmaan",
+      "Aakasamlo Oka Tara box office collection",
+      "Pavan Sadineni"
+    ],
+    "images": [
+      {
+        "url": "https://images.filmibeat.com/img/2026/11/aakasamlookatara-81811795752796.jpg",
+        "caption": "Aakasamlo Oka Tara Box Office Collection Day 7: Dulquer Salmaan Starrer Crosses Rs 40 Crore Worldwide",
+        "source": "FilmiBeat"
+      }
+    ],
+    "published": "Fri, 27 Nov 2026 09:44:10 +0530"
+  },
+  "1ke1d9u": {
+    "id": "1ke1d9u",
+    "type": "news",
+    "headline": "Kim Woo Bin Encounters Hurdles Managing A Struggling Baseball Team In GIFT",
+    "dek": "Actor Kim Woo Bin stars in the upcoming tvN sports drama as a former pitching coach who acquires a unique superpower while attempting to resurrect a bottom-ranked high school team.",
+    "body": [
+      {
+        "h": "Introduction To The Upcoming Sports Drama",
+        "p": [
+          "The upcoming tvN drama titled GIFT is generating significant interest among viewers as it prepares to make its official television debut. Adapted from a well-known webtoon, the series centers around the high-stakes and emotional world of competitive sports.",
+          "Audiences can expect a blend of athletic drama and supernatural elements when the program begins airing its episodes in the near future."
+        ]
+      },
+      {
+        "h": "Kim Woo Bin Takes On A Unique Role",
+        "p": [
+          "Renowned actor Kim Woo Bin leads the cast as Jung Min Yong, stepping into the shoes of a former professional baseball pitching coach. His character's life takes a drastic turn following an unexpected accident that grants him an unusual ability.",
+          "Armed with this new superpower, Jung Min Yong assumes the position of head coach for Dukchun High School, a team currently holding the lowest ranking in the entire country."
+        ]
+      },
+      {
+        "h": "Superpowers Meet Unpredictable Players",
+        "p": [
+          "Jung Min Yong relies on his supernatural gift to evaluate the high school athletes based on quantifiable metrics reflecting their innate talent and potential. However, his systematic approach meets immediate resistance from the teenagers.",
+          "Despite the coach's best efforts to organize and lead the squad according to his rigorous standards, the players frequently act in surprising and uncontrollable ways, derailing his plans."
+        ]
+      },
+      {
+        "h": "Team Dynamics And Internal Clashes",
+        "p": [
+          "As the newly appointed coach attempts to establish a connection with his erratic roster, the student athletes must also navigate their own interpersonal conflicts and differing playing styles.",
+          "The narrative explores the friction between contrasting personalities, highlighting the journey toward building genuine teamwork among the teenagers despite their varied backgrounds."
+        ]
+      },
+      {
+        "h": "Key Characters And Rivalries Within The Squad",
+        "p": [
+          "A central dynamic in the team involves hardworking captain Heo Seung Il, portrayed by Cha Been, who has achieved his current standing entirely through fierce determination and relentless effort.",
+          "Heo Seung Il must bridge the gap between his own disciplined approach and the raw, natural talent of rookie player Cha Tae Hoon, played by Han Si Hyun."
+        ]
+      },
+      {
+        "h": "Conflict With Management And Differing Philosophies",
+        "p": [
+          "Beyond managing the teenage players, Jung Min Yong faces severe professional friction with team supervisor Yoon Seo Jin, brought to life by actress Seo Eun Soo.",
+          "While the coach remains entirely focused on measurable results and athletic performance, Yoon Seo Jin prioritizes safeguarding the emotional aspirations and dreams of the students, creating a fundamental philosophical divide."
+        ]
+      },
+      {
+        "h": "Broadcast Details And Release Schedule",
+        "p": [
+          "The much-anticipated series is scheduled to officially premiere on December 5 at 9:10 p.m. KST, broadcasting on tvN for eager fans of the webtoon adaptation.",
+          "Viewers looking for additional content featuring the main cast members can also explore prior works available on streaming platforms while waiting for the launch."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Actor Kim Woo Bin stars as a former pitching coach who gains a supernatural ability and tries to rescue a last-ranked high school baseball team in the upcoming tvN drama GIFT. Based on a webtoon, the series highlights his clashes with unpredictable players and supervisor Yoon Seo Jin ahead of its December 5 premiere."
+        ]
+      }
+    ],
+    "facts": [
+      "Kim Woo Bin stars as Jung Min Yong in GIFT",
+      "GIFT is based on a popular webtoon",
+      "Dukchun High School team is ranked last in the nation",
+      "Heo Seung Il is played by Cha Been",
+      "Cha Tae Hoon is played by Han Si Hyun",
+      "Yoon Seo Jin is played by Seo Eun Soo",
+      "GIFT premieres on December 5 at 9:10 p.m. KST"
+    ],
+    "entities": {
+      "people": [
+        "Kim Woo Bin",
+        "Jung Min Yong",
+        "Heo Seung Il",
+        "Cha Been",
+        "Cha Tae Hoon",
+        "Han Si Hyun",
+        "Yoon Seo Jin",
+        "Seo Eun Soo",
+        "E Cha"
+      ],
+      "titles": [
+        "GIFT",
+        "Alienoid: Return to the Future",
+        "A Head Coach’s Turnover"
+      ]
+    },
+    "keywords": [
+      "Kim Woo Bin GIFT drama",
+      "GIFT tvN sports drama",
+      "Jung Min Yong Dukchun High School",
+      "Seo Eun Soo Yoon Seo Jin"
+    ],
+    "images": [
+      {
+        "url": "https://0.soompi.io/wp-content/uploads/2026/11/27142249/Kim-Woo-Bin.jpeg",
+        "caption": "Kim Woo Bin Encounters Hurdles Managing A Struggling Baseball Team In GIFT",
+        "source": "Soompi"
+      }
+    ],
+    "published": "Fri, 27 Nov 2026 05:24:58 +0000"
+  },
+  "oktv2p": {
+    "id": "oktv2p",
+    "type": "news",
+    "headline": "Salman Khan Considers Grand Mumbai Premiere for Maatrubhumi, Marking a Seven-Year First for the Star",
+    "dek": "Superstar Salman Khan is planning a massive star-studded premiere in Mumbai for his upcoming war drama Maatrubhumi, which would mark his first major red-carpet industry gathering as a leading man since 2019.",
+    "body": [
+      {
+        "h": "A Grand Industry Showcase in Mumbai",
+        "p": [
+          "As the theatrical launch of the much-anticipated war drama Maatrubhumi approaches within a week, superstar Salman Khan is reportedly evaluating plans to host an extravagant, star-studded premiere in Mumbai. Insiders close to the development reveal that the actor is currently aiming for a December 2 event in the city.",
+          "Having already screened the finished film for a select group of close companions, the actor is very pleased with how the project has turned out. He now wishes to extend exclusive advance screenings to prominent personalities across the Bollywood fraternity."
+        ]
+      },
+      {
+        "h": "Anticipating a Massive Celebrity Turnout",
+        "p": [
+          "Given the widespread affection and respect the film industry holds for Salman Khan, organizers expect a tremendous response if the premiere moves forward. Industry observers note that the proposed gathering could easily become one of the most high-profile red-carpet extravaganzas witnessed in Bollywood throughout the year.",
+          "Such premiere nights typically draw a massive wave of actors, filmmakers, and prominent figures who come out in full force to support the superstar's cinematic ventures and celebrate the arrival of his latest project."
+        ]
+      },
+      {
+        "h": "Ending a Post-Pandemic Premiere Hiatus",
+        "p": [
+          "Should the premiere take place, it will signify a notable milestone for the actor within the post-pandemic era. It has been seven years since Salman Khan last hosted a grand, industry-wide premiere for a feature film where he played the primary leading man.",
+          "The last instances of such major red-carpet events for his own starrers occurred back in 2019, when he celebrated the theatrical arrivals of Bharat and Dabangg 3 with extensive industry gatherings."
+        ]
+      },
+      {
+        "h": "Past Releases Without Leading Man Premieres",
+        "p": [
+          "In the years following the pandemic, Salman Khan chose to bypass large-scale promotional premieres for several of his major starring vehicles. High-profile titles like Kisi Ka Bhai Kisi Ki Jaan, Tiger 3, and Sikandar reached cinema halls without a corresponding red-carpet launch hosted by the lead actor.",
+          "Even though he did not hold leading-actor premieres for those specific theatrical releases, he remained partially connected to the tradition through alternative projects associated with his production banner."
+        ]
+      },
+      {
+        "h": "Special Screenings and Production Ventures",
+        "p": [
+          "During the intervening years, the superstar did organize premiere events for specific films that featured him in alternate capacities or focused on new talent. He hosted a well-attended red-carpet evening for his home production Farrey, which marked the acting debut of his niece Alizeh Agnihotri without featuring him on screen.",
+          "Additionally, he held a premiere event for Antim: The Final Truth, a project where he essayed a supporting character while sharing the screen with leading man Aayush Sharma."
+        ]
+      },
+      {
+        "h": "Behind the Scenes of the War Drama",
+        "p": [
+          "Ahead of the theatrical rollout, enthusiasm surrounding the project has been steadily growing through behind-the-scenes revelations shared by cast members. Co-star Jayson Thaam recently spoke about the physical dedication of the lead actor during production.",
+          "According to the co-star, Salman Khan managed to pick up complex action choreography in just ten minutes, demonstrating a level of physical fitness that defies age and outpaces many of his peers."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Superstar Salman Khan is planning a grand star-studded Mumbai premiere for his upcoming war drama Maatrubhumi, tentatively set for December 2. If finalized, this event will mark his first major industry premiere as a leading man in seven years, following a hiatus that began after his 2019 releases."
+        ]
+      }
+    ],
+    "facts": [
+      "Salman Khan is planning a premiere for Maatrubhumi on December 2 in Mumbai.",
+      "The last time Salman Khan organized a premiere for a film featuring him in the lead role was in 2019 for Bharat and Dabangg 3.",
+      "He did not host premieres for Kisi Ka Bhai Kisi Ki Jaan, Tiger 3, and Sikandar.",
+      "He organized a premiere for his home production Farrey, marking the debut of Alizeh Agnihotri.",
+      "He held a premiere for Antim: The Final Truth where he played a supporting role and Aayush Sharma was the leading man.",
+      "Jayson Thaam revealed that Salman Khan learnt action choreography in just 10 minutes."
+    ],
+    "entities": {
+      "people": [
+        "Salman Khan",
+        "Jayson Thaam",
+        "Alizeh Agnihotri",
+        "Aayush Sharma"
+      ],
+      "titles": [
+        "Maatrubhumi",
+        "Bharat",
+        "Dabangg 3",
+        "Kisi Ka Bhai Kisi Ki Jaan",
+        "Tiger 3",
+        "Sikandar",
+        "Farrey",
+        "Antim: The Final Truth"
+      ]
+    },
+    "keywords": [
+      "Salman Khan Maatrubhumi",
+      "Maatrubhumi movie premiere",
+      "Salman Khan Mumbai premiere",
+      "Maatrubhumi war drama"
+    ],
+    "images": [
+      {
+        "url": "https://media5.bollywoodhungama.in/wp-content/uploads/2026/11/Salman-Khan-plans-MASSIVE-star-studded-Maatrubhumi.jpg",
+        "caption": "Salman Khan Considers Grand Mumbai Premiere for Maatrubhumi, Marking a Seven-Year First for the Star",
+        "source": "Bollywood Hungama"
+      }
+    ],
+    "published": "Fri, 27 Nov 2026 10:21:04 +0200"
+  },
+  "agodjl": {
+    "id": "agodjl",
+    "type": "news",
+    "headline": "Lee Seo Jin Sparks Massive Outcry After Making Menopause Joke About Han Ji Min at Press Conference",
+    "dek": "Actor Lee Seo Jin has triggered widespread fury online following a controversial remark directed at his co-star Han Ji Min during a promotional event in Seoul.",
+    "body": [
+      {
+        "h": "The Controversial Press Conference Incident",
+        "p": [
+          "A routine promotional event for an upcoming television project quickly turned contentious when actor Lee Seo Jin made a public comment regarding his co-star Han Ji Min. The incident unfolded in front of reporters and fellow cast members, immediately drawing intense scrutiny and awkward silence across the room.",
+          "While discussing how their personal dynamics and working relationships had evolved over the years, Lee delivered a blunt remark about Han, publicly suggesting that her personality shift might be attributed to menopause."
+        ]
+      },
+      {
+        "h": "Details of the Remarks",
+        "p": [
+          "Elaborating on his observations, Lee stated that the version of Han Ji Min he remembered from two decades prior was entirely different from the person he experienced during current productions. He characterized her earlier persona as pure and quiet.",
+          "Conversely, he described her current disposition as relentless and stubborn, culminating in the provocative joke questioning whether she was experiencing menopause due to the perceived changes in her demeanor."
+        ]
+      },
+      {
+        "h": "Star-Studded Event Attendance",
+        "p": [
+          "The remarks were made during an official press presentation held at a hotel located in Seoul. The gathering was organized to promote the brand new variety program produced by tvN.",
+          "Several notable figures from the entertainment industry were present at the venue alongside the two primary actors, including Kim Yong Gun, Park Jung Soo, Jooheon from MONSTAX, and Jeongyeon from TWICE."
+        ]
+      },
+      {
+        "h": "Immediate On-Stage Reactions",
+        "p": [
+          "Caught off guard by the public comment, Han Ji Min appeared visibly flustered but quickly urged her colleague to retract his statements. The event MC, Park Kyung Rim, swiftly intervened to deflect the tension.",
+          "Park stepped in by playfully turning the tables, suggesting to the audience that perhaps Lee Seo Jin himself was the one going through menopause, helping to defuse the immediate room atmosphere."
+        ]
+      },
+      {
+        "h": "Graceful Handling by Han Ji Min",
+        "p": [
+          "Despite the uncomfortable nature of the exchange, Han managed the situation with considerable composure and grace. She highlighted positive attributes about Lee during the remainder of the event.",
+          "With a touch of humor, she even remarked that his provocative comment had successfully provided the attending journalists with an attention-grabbing headline for their coverage."
+        ]
+      },
+      {
+        "h": "Severe Online Backlash",
+        "p": [
+          "While the interaction might have been intended as a casual joke between long-time acquaintances, general audiences and online commentators did not view it lightly. Social media platforms quickly flooded with criticisms condemning the actor.",
+          "Domestic and international netizens accused Lee of blatant disrespect toward a junior actress who is eleven years younger than him, labeling the comment inappropriate and outdated."
+        ]
+      },
+      {
+        "h": "Wider Industry Discussions",
+        "p": [
+          "The incident reignited broader conversations regarding the casual sexism and misogyny female performers often encounter in the public eye. Critics pointed out the double standards present in media environments.",
+          "Many users expressed frustration that public figures can make derogatory statements on camera without facing substantial professional consequences, keeping the debate alive across multiple digital spaces."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Actor Lee Seo Jin faced intense criticism after making a joke about Han Ji Min experiencing menopause during a press conference in Seoul. Although Han and the event MC managed the awkward moment on stage, the remark triggered widespread anger among online users who condemned the statement as disrespectful."
+        ]
+      }
+    ],
+    "facts": [
+      "The incident took place on November 26, KST.",
+      "The press conference was held for tvN's variety show Just Human Friends at a hotel in Seoul.",
+      "Other notable attendees included Kim Yong Gun, Park Jung Soo, MONSTAX's Jooheon, and TWICE's Jeongyeon.",
+      "MC Park Kyung Rim stepped in during the event.",
+      "Lee Seo Jin is 55 years old."
+    ],
+    "entities": {
+      "people": [
+        "Lee Seo Jin",
+        "Han Ji Min",
+        "Kim Yong Gun",
+        "Park Jung Soo",
+        "Jooheon",
+        "Jeongyeon",
+        "Park Kyung Rim"
+      ],
+      "titles": [
+        "Just Human Friends"
+      ]
+    },
+    "keywords": [
+      "Lee Seo Jin Han Ji Min",
+      "Just Human Friends tvN",
+      "Lee Seo Jin menopause remark",
+      "Han Ji Min press conference"
+    ],
+    "images": [
+      {
+        "url": "https://image.koreaboo.com/2026/11/hjm-1.jpg?imop=Resize%2Cwidth%3D1200%3BConvert%2Cformat%3Djpeg&amp;Expires=1798426800&amp;KeyName=kb&amp;Signature=sbHYC4BxKp8Wk_wv_yVRYp04XDY=",
+        "caption": "Lee Seo Jin Sparks Massive Outcry After Making Menopause Joke About Han Ji Min at Press Conference",
+        "source": "Koreaboo"
+      }
+    ],
+    "published": "Fri, 27 Nov 2026 03:51:27 +0000"
   }
 };
