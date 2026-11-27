@@ -114,6 +114,37 @@ window.FA_HOME_ARTICLES = {
     ],
     "published": "2026-11-27T16:00:00+05:30"
   },
+  "1i9r1cf": {
+    "id": "1i9r1cf",
+    "type": "news",
+    "headline": "Sukesh Chandrashekhar Issues Legal Notice to Netflix Over Upcoming Documentary",
+    "dek": "Jailed conman Sukesh Chandrashekhar has served a legal notice to Netflix and the India Today Group, demanding the postponement of the documentary Love, Scam And Dhokha: The Sukesh Chandrashekhar Story.",
+    "entities": {
+      "people": [
+        "Sukesh Chandrashekhar",
+        "Anant Malik",
+        "Jacqueline Fernandez",
+        "Nora Fatehi"
+      ],
+      "titles": [
+        "Love Scam And Dhokha: The Sukesh Chandrashekhar Story"
+      ]
+    },
+    "keywords": [
+      "Sukesh Chandrashekhar Netflix documentary",
+      "Love Scam And Dhokha The Sukesh Chandrashekhar Story",
+      "Sukesh Chandrashekhar legal notice Netflix",
+      "Anant Malik Sukesh Chandrashekhar lawyer"
+    ],
+    "images": [
+      {
+        "url": "https://images.filmibeat.com/img/2026/11/feature-2026-11-27t155645-634-60921795775212.jpg",
+        "caption": "Sukesh Chandrashekhar Issues Legal Notice to Netflix Over Upcoming Documentary",
+        "source": "FilmiBeat"
+      }
+    ],
+    "published": "Fri, 27 Nov 2026 15:57:15 +0530"
+  },
   "9fsfn6": {
     "id": "9fsfn6",
     "type": "news",
@@ -148,6 +179,90 @@ window.FA_HOME_ARTICLES = {
       }
     ],
     "published": "Fri, 27 Nov 2026 10:21:32 GMT"
+  },
+  "r328rm": {
+    "id": "r328rm",
+    "type": "news",
+    "headline": "ILLIT Member Moka Ends Five-Month Hiatus and Prepares to Resume Group Activities",
+    "dek": "After stepping away from the spotlight to focus on her health, the popular HYBE idol has broken her silence with an official message to fans confirming her gradual return.",
+    "entities": {
+      "people": [
+        "Moka",
+        "Yunah",
+        "Minju",
+        "Wonhee",
+        "Iroha"
+      ],
+      "titles": [
+        "ILLIT",
+        "MAMIHLAPINATAPAI",
+        "It’s Me",
+        "PRESS START",
+        "BREAK EVEN"
+      ]
+    },
+    "keywords": [
+      "ILLIT Moka",
+      "Moka returns from hiatus",
+      "BELIFT LAB ILLIT",
+      "MAMIHLAPINATAPAI album",
+      "ILLIT group activities"
+    ],
+    "images": [
+      {
+        "url": "https://image.koreaboo.com/2026/11/mokaHiatusReturn-FI.jpg?imop=Resize%2Cwidth%3D1200%3BConvert%2Cformat%3Djpeg&amp;Expires=1798448400&amp;KeyName=kb&amp;Signature=FZVoliUB7JrS1r42s4Ia6Zy9vrc=",
+        "caption": "ILLIT Member Moka Ends Five-Month Hiatus and Prepares to Resume Group Activities",
+        "source": "Koreaboo"
+      }
+    ],
+    "published": "Fri, 27 Nov 2026 10:10:05 +0000"
+  },
+  "s53dto": {
+    "id": "s53dto",
+    "type": "news",
+    "headline": "Call the Midwife Prequel Sisters in Arms Secures Early BBC Renewal",
+    "dek": "Even before its festive debut, the upcoming television drama prequel Sisters in Arms has already been commissioned for a full seven-part season by the BBC.",
+    "entities": {
+      "people": [
+        "James Hibbs",
+        "Heidi Thomas",
+        "Jenny Agutter",
+        "Helena Wilson",
+        "Julie Hesmondhalgh",
+        "Amy Booth-Steel",
+        "Helen Schlesinger",
+        "Bally Gill",
+        "Martin McCann",
+        "Rachel O'Connell",
+        "Liv Andrusier",
+        "Lizzie Back",
+        "Ellie McKay",
+        "Ciaran Bowling",
+        "Ami Metcalf",
+        "Ben Rose",
+        "Pippa Harris",
+        "Ann Tricklebank"
+      ],
+      "titles": [
+        "Call the Midwife",
+        "Sisters in Arms",
+        "Call the Midwife: Sisters in Arms"
+      ]
+    },
+    "keywords": [
+      "Sisters in Arms BBC",
+      "Call the Midwife prequel",
+      "Heidi Thomas Sisters in Arms",
+      "Jenny Agutter Sisters in Arms"
+    ],
+    "images": [
+      {
+        "url": "https://images.production.immediate.co.uk/volatile/sites/3/2026/11/579129-8558392.jpg?resize=1200%2C630",
+        "caption": "Call the Midwife Prequel Sisters in Arms Secures Early BBC Renewal",
+        "source": "Radio Times"
+      }
+    ],
+    "published": "Fri, 27 Nov 2026 10:06:14 GMT"
   },
   "15qn8zc": {
     "id": "15qn8zc",
@@ -290,6 +405,59 @@ window.FA_HOME_ARTICLES = {
       }
     ],
     "published": "Fri, 27 Nov 2026 15:19:14 +0530"
+  },
+  "1r721co": {
+    "id": "1r721co",
+    "type": "news",
+    "headline": "Ramayana Secures 4th-Biggest Third Week In India As Day 22 Collections Hold Steady",
+    "dek": "The blockbuster starring Ranbir Kapoor, Yash, and Sai Pallavi has wrapped up its third week, crossing the massive 1000 crore milestone and setting a historic benchmark.",
+    "entities": {
+      "people": [
+        "Ranbir Kapoor",
+        "Yash",
+        "Sai Pallavi",
+        "Ranveer Singh",
+        "Rehman Dakait",
+        "Ayushmann Khurrana",
+        "Allu Arjun",
+        "Nitesh Tiwari",
+        "Namit Malhotra",
+        "Ravi Dubey",
+        "Arun Govil",
+        "Lara Dutta",
+        "Indira Krishnan",
+        "Rakul Preet Singh",
+        "Sonal Jha",
+        "Vivek Oberoi",
+        "AR Rahman",
+        "Hans Zimmer"
+      ],
+      "titles": [
+        "Ramayana",
+        "Dhurandhar 2",
+        "Dhurandhar",
+        "Yeh Prem Mol Liya",
+        "Udta Teer",
+        "Pushpa 2",
+        "Baahubali 2",
+        "Gunmaaster G9",
+        "Aashiq Banaya Aapne"
+      ]
+    },
+    "keywords": [
+      "Ramayana box office collection",
+      "Ramayana day 22 collection",
+      "Ramayana third week collection",
+      "Ramayana 1000 crore club"
+    ],
+    "images": [
+      {
+        "url": "https://www.koimoi.com/wp-content/new-galleries/2026/11/ramayana-box-office-collection-day-22-registers-4th-biggest-third-week-of-all-time-in-india.jpg",
+        "caption": "Ramayana Secures 4th-Biggest Third Week In India As Day 22 Collections Hold Steady",
+        "source": "Koimoi"
+      }
+    ],
+    "published": "Fri, 27 Nov 2026 09:35:27 +0000"
   },
   "1n3eixx": {
     "id": "1n3eixx",
@@ -4500,166 +4668,6 @@ window.FA_HOME_ARTICLES = {
     ],
     "published": "2026-11-26T03:52:12Z"
   },
-  "1w81ynl": {
-    "id": "1w81ynl",
-    "type": "news",
-    "headline": "U2 Delivers Classic Anthems and Dolly Parton Tribute During Historic NFL Thanksgiving Halftime Show",
-    "dek": "The legendary rock band headlined the NFL's very first Thanksgiving Eve game halftime show at SoFi Stadium, streaming live on Netflix with special nods to Dolly Parton and Dr. Martin Luther King Jr.",
-    "entities": {
-      "people": [
-        "Bono",
-        "The Edge",
-        "Adam Clayton",
-        "Larry Mullen Jr.",
-        "Dolly Parton",
-        "Dr. Martin Luther King Jr."
-      ],
-      "titles": [
-        "Carnaval de Luz",
-        "I Still Haven't Found What I'm Looking For",
-        "Sunday Bloody Sunday",
-        "Stop! In The Name of Love",
-        "Torn",
-        "Where The Streets Have No Name",
-        "The Joshua Tree",
-        "Pride (In The Name of Love)",
-        "The Unforgettable Fire",
-        "Carnaval De Luz presents: The Greatest Show on Earth"
-      ]
-    },
-    "keywords": [
-      "U2 Thanksgiving NFL halftime show",
-      "U2 Dolly Parton Torn Carnaval de Luz",
-      "U2 SoFi Stadium Netflix performance",
-      "U2 upcoming stadium tour 2019"
-    ],
-    "images": [
-      {
-        "url": "https://www.billboard.com/wp-content/uploads/2026/11/1192664338-e1795536690338.jpg?w=1024",
-        "caption": "U2 Delivers Classic Anthems and Dolly Parton Tribute During Historic NFL Thanksgiving Halftime Show",
-        "source": "Billboard"
-      }
-    ],
-    "published": "Thu, 26 Nov 2026 03:41:38 +0000"
-  },
-  "1pwjzme": {
-    "id": "1pwjzme",
-    "type": "news",
-    "headline": "James Marsden Discusses the Trade-Off of Wearing His Comic-Accurate Cyclops Suit in Avengers: Doomsday",
-    "dek": "James Marsden returns as Scott Summers in Avengers: Doomsday, embracing a faithful comic look while dealing with a surprising drawback.",
-    "entities": {
-      "people": [
-        "James Marsden",
-        "Scott Summers",
-        "Wolverine",
-        "Professor Xavier",
-        "Patrick Stewart",
-        "Ian McKellen",
-        "Rebecca Romijn",
-        "Kelsey Grammer",
-        "Alan Cumming",
-        "Joe Russo",
-        "Anthony Russo",
-        "Kevin Feige"
-      ],
-      "titles": [
-        "Avengers: Doomsday",
-        "X-Men"
-      ]
-    },
-    "keywords": [
-      "James Marsden Cyclops",
-      "Avengers Doomsday comic accurate suit",
-      "Scott Summers Avengers Doomsday",
-      "James Marsden X-Men return"
-    ],
-    "images": [
-      {
-        "url": "https://www.comingsoon.net/wp-content/uploads/sites/3/2026/11/xmencyclops.webp?resize=1200,630",
-        "caption": "James Marsden Discusses the Trade-Off of Wearing His Comic-Accurate Cyclops Suit in Avengers: Doomsday",
-        "source": "ComingSoon.net"
-      }
-    ],
-    "published": "Thu, 26 Nov 2026 03:38:33 +0000"
-  },
-  "1oqisgy": {
-    "id": "1oqisgy",
-    "type": "news",
-    "headline": "Director Sampath Nandi Opens Up About Natural Violence and Real-Life Inspirations Behind Sharwanand's 'Bhogi'",
-    "dek": "Filmmaker Sampath Nandi addresses the intense action sequences in his upcoming film 'Bhogi', explaining how childhood memories and a newspaper report shaped the fictional village narrative.",
-    "entities": {
-      "people": [
-        "Sampath Nandi",
-        "Sharwanand",
-        "Anupama Parameswaran",
-        "Dimple Hayathi"
-      ],
-      "titles": [
-        "Bhogi"
-      ]
-    },
-    "keywords": [
-      "Bhogi movie",
-      "Sampath Nandi Bhogi",
-      "Sharwanand Bhogi release date",
-      "Bhogi CBFC Revising Committee"
-    ],
-    "images": [
-      {
-        "url": "https://static.toiimg.com/thumb/msid-136177238,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "caption": "Director Sampath Nandi Opens Up About Natural Violence and Real-Life Inspirations Behind Sharwanand's 'Bhogi'",
-        "source": "Times of India — Entertainment"
-      }
-    ],
-    "published": "2026-11-26T08:50:30+05:30"
-  },
-  "7k62t3": {
-    "id": "7k62t3",
-    "type": "news",
-    "headline": "Yeh Prem Mol Liya Vs Gunmaaster G9 Advance Booking Clash: Ayushmann Khurrana And Emraan Hashmi Face Off",
-    "dek": "The November box office features a high-stakes showdown between Ayushmann Khurrana's family entertainer and Emraan Hashmi's action-romance feature as advance ticket sales kick off.",
-    "entities": {
-      "people": [
-        "Ayushmann Khurrana",
-        "Sharvari",
-        "Emraan Hashmi",
-        "Genelia Deshmukh",
-        "Sooraj Barjatya",
-        "Anupam Kher",
-        "Saumya Tandon",
-        "Supriya Pathak",
-        "Seema Pahwa",
-        "Shaad Randhawa",
-        "Swanand Kirkire",
-        "Geeta Agrawal Sharma",
-        "Shruti Seth",
-        "Krish Rao",
-        "Ashnoor Kuckreja",
-        "Surbhi Tiwari",
-        "Aditya Datt",
-        "Aparshakti Khurana"
-      ],
-      "titles": [
-        "Yeh Prem Mol Liya",
-        "Gunmaaster G9"
-      ]
-    },
-    "keywords": [
-      "Yeh Prem Mol Liya",
-      "Gunmaaster G9",
-      "Ayushmann Khurrana Yeh Prem Mol Liya",
-      "Emraan Hashmi Gunmaaster G9",
-      "advance booking collection box office"
-    ],
-    "images": [
-      {
-        "url": "https://images.timesnownews.com/thumb/msid-156565546,thumbsize-960488,width-1280,height-720,resizemode-75/156565546.jpg",
-        "caption": "Yeh Prem Mol Liya Vs Gunmaaster G9 Advance Booking Clash: Ayushmann Khurrana And Emraan Hashmi Face Off",
-        "source": "Times Now — Entertainment"
-      }
-    ],
-    "published": "2026-11-26T03:00:40Z"
-  },
   "1ihedvj": {
     "id": "1ihedvj",
     "type": "news",
@@ -4725,52 +4733,6 @@ window.FA_HOME_ARTICLES = {
       }
     ],
     "published": "2026-11-25T15:00:10Z"
-  },
-  "19pcqr2": {
-    "id": "19pcqr2",
-    "type": "news",
-    "headline": "Indian Cine Body Demands Ban on Fawad Khan's Pakistani Netflix Series",
-    "dek": "The All Indian Cine Workers Association has written to Prime Minister Narendra Modi and Netflix India, urging them to block the release of Jo Bachay Hain Sang Samait Lo.",
-    "entities": {
-      "people": [
-        "Fawad Khan",
-        "Mahira Khan",
-        "Sanam Saeed",
-        "Hania Aamir",
-        "Narendra Modi",
-        "Diljit Dosanjh",
-        "Vaani Kapoor",
-        "Atif Aslam",
-        "Momina Duraid",
-        "Farhat Ishtiaq",
-        "Khushhal Khan",
-        "Ahad Raza Mir",
-        "Iqra Aziz",
-        "Maya Ali",
-        "Bilal Ashraf",
-        "Ahmed Ali Akbar",
-        "Hamza Abbasi"
-      ],
-      "titles": [
-        "Jo Bachay Hain Sang Samait Lo",
-        "Sardarji 3",
-        "Aabeer Gulaal"
-      ]
-    },
-    "keywords": [
-      "Jo Bachay Hain Sang Samait Lo Netflix",
-      "AICWA ban Pakistani series",
-      "Fawad Khan Mahira Khan Netflix show",
-      "All Indian Cine Workers Association PM Modi"
-    ],
-    "images": [
-      {
-        "url": "https://images.indianexpress.com/2026/11/Fawad-Khan-Mahira-Khan.jpg",
-        "caption": "Indian Cine Body Demands Ban on Fawad Khan's Pakistani Netflix Series",
-        "source": "Indian Express — Entertainment"
-      }
-    ],
-    "published": "Wed, 25 Nov 2026 04:11:11 +0000"
   },
   "1ypg7z1": {
     "id": "1ypg7z1",
@@ -5025,75 +4987,6 @@ window.FA_HOME_ARTICLES = {
       }
     ],
     "published": "2026-11-22T22:51:56Z"
-  },
-  "qyxwxv": {
-    "id": "qyxwxv",
-    "type": "news",
-    "headline": "Netflix Sci-Fi Series 3 Body Problem Confirms Reduced Episode Order for Season 2",
-    "dek": "The creators of the hit science fiction adaptation have announced a shorter run of episodes for the upcoming second season on Netflix.",
-    "entities": {
-      "people": [
-        "Chris McPherson",
-        "David Benioff",
-        "D.B. Weiss",
-        "Alexander Woo",
-        "Liu Cixin",
-        "Jeremy Podeswa",
-        "Miguel Sapochnik",
-        "Jess Hong",
-        "Benedict Wong",
-        "Eiza González",
-        "Jovan Adepo",
-        "Liam Cunningham",
-        "Marlo Kelly",
-        "Claudia Doumit",
-        "Ellie de Lange",
-        "Alfie Allen"
-      ],
-      "titles": [
-        "3 Body Problem",
-        "Bosch",
-        "Mission: Impossible",
-        "Yellowstone",
-        "Gilmore Girls",
-        "Silo",
-        "The Matrix",
-        "Mad Max",
-        "Blade Runner",
-        "Dune",
-        "Star Wars",
-        "Fight Club",
-        "eXistenZ",
-        "Mad Max: Fury Road",
-        "Furiosa: A Mad Max Saga",
-        "Blade Runner 2049",
-        "Tenet",
-        "Andor",
-        "Game of Thrones",
-        "House of the Dragon",
-        "Inked",
-        "Doctor Strange",
-        "Baby Driver",
-        "Watchmen",
-        "Dare Me",
-        "The Boys",
-        "Wolf Hall"
-      ]
-    },
-    "keywords": [
-      "3 Body Problem Season 2",
-      "Netflix 3 Body Problem episodes",
-      "David Benioff 3 Body Problem",
-      "3 Body Problem cast season 2"
-    ],
-    "images": [
-      {
-        "url": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/03/3-body-problem.jpg?w=1600&amp;h=900&amp;fit=crop",
-        "caption": "Netflix Sci-Fi Series 3 Body Problem Confirms Reduced Episode Order for Season 2",
-        "source": "Collider"
-      }
-    ],
-    "published": "Sun, 22 Nov 2026 19:00:12 GMT"
   },
   "f4chlg": {
     "id": "f4chlg",

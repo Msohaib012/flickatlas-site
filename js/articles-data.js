@@ -263286,5 +263286,419 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Fri, 27 Nov 2026 10:47:52 +0000"
+  },
+  "1r721co": {
+    "id": "1r721co",
+    "type": "news",
+    "headline": "Ramayana Secures 4th-Biggest Third Week In India As Day 22 Collections Hold Steady",
+    "dek": "The blockbuster starring Ranbir Kapoor, Yash, and Sai Pallavi has wrapped up its third week, crossing the massive 1000 crore milestone and setting a historic benchmark.",
+    "body": [
+      {
+        "h": "Third Week Wraps Up With Strong Figures",
+        "p": [
+          "The theatrical run of the magnum opus Ramayana continues to make waves across the country as it officially concludes its third week at the Indian box office. Despite facing a drop exceeding sixty percent when compared to its phenomenal second week, the feature managed to pull in remarkably solid figures.",
+          "The project features a star-studded main cast including Ranbir Kapoor, Yash, and Sai Pallavi. Their combined star power has sustained audience interest well into the fourth week of theatrical distribution, proving the staying power of the project."
+        ]
+      },
+      {
+        "h": "Day 22 And Cumulative Earnings Breakdown",
+        "p": [
+          "On its fourth Thursday, which marks day 22 of its theatrical journey, the Bollywood epic brought in 8.9 crore at the Indian box office. This represented a slight upward tick compared to the 8.6 crore recorded on day 21.",
+          "Across its entire third week, the film accumulated a total of 122.88 crore net in India. This followed a massive second week that had generated 319.35 crore, marking a 61.52 percent reduction week-on-week."
+        ]
+      },
+      {
+        "h": "Total Net And Gross Milestones Reached",
+        "p": [
+          "With the latest figures added to the ledger, the total net collection for the feature at the Indian box office has surged to 1023.81 crore. In terms of gross earnings domestically, that figure translates to an impressive 1208.1 crore.",
+          "Looking specifically at the Hindi language version, the feature secured 89.68 crore during its third week, reflecting a 62.53 percent decline from the second week's 239.35 crore. The 22-day net total for the Hindi version alone stands at 781.76 crore, with gross collections hitting 922.48 crore."
+        ]
+      },
+      {
+        "h": "Week-Wise Progression In The Domestic Market",
+        "p": [
+          "The trajectory of the release has been exceptionally front-loaded yet consistently high. During its extended first week spanning eight days, the film amassed a staggering 581.58 crore net.",
+          "This was followed by the stellar 319.35 crore netted during the second week, and subsequently the 122.88 crore collected across the third week. Combined, these milestones culminate in the overall net tally of 1023.81 crore."
+        ]
+      },
+      {
+        "h": "Ranking Among The Biggest Third Weeks Of All Time",
+        "p": [
+          "By securing 122.88 crore in its third week, the production successfully registered the fourth-biggest third week in the history of the Indian box office. In doing so, it surpassed Dhurandhar 2, which previously held a third-week collection of 120 crore.",
+          "The elite list is headed by Dhurandhar with 189.3 crore, followed by Pushpa 2 at 133.9 crore, and Baahubali 2 at 127 crore. Notably, this release stands as only the second non-sequel film to break into the top five."
+        ]
+      },
+      {
+        "h": "Cast, Crew, And Creative Background",
+        "p": [
+          "The cinematic creation is under the direction of Nitesh Tiwari, with production duties handled by Namit Malhotra and Yash. The backing comes from major banners including Prime Focus Studios, Monster Mind Creations, and DNEG.",
+          "Alongside the lead trio, the ensemble cast features performances by Ravi Dubey, Arun Govil, Lara Dutta, Indira Krishnan, Rakul Preet Singh, Sonal Jha, and Vivek Oberoi. The musical backdrop and compositions are credited to the duo of AR Rahman and Hans Zimmer."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Ramayana concluded its third week at the Indian box office with 122.88 crore, bringing its 22-day net total to 1023.81 crore. The film secured the fourth-biggest third week of all time in India by overtaking Dhurandhar 2."
+        ]
+      }
+    ],
+    "facts": [
+      "Ramayana earned 8.9 crore on day 22 (fourth Thursday).",
+      "Day 21 collection was 8.6 crore.",
+      "Third week total collection reached 122.88 crore.",
+      "Second week collection was 319.35 crore.",
+      "Total net collection at the Indian box office stands at 1023.81 crore.",
+      "Total gross collection in India is 1208.1 crore.",
+      "Hindi version earned 89.68 crore in its third week.",
+      "Hindi version second week collection was 239.35 crore.",
+      "Hindi version 22-day net total is 781.76 crore.",
+      "Hindi version 22-day gross total is 922.48 crore.",
+      "Week 1 collection (8 days) was 581.58 crore.",
+      "Dhurandhar 2 third week collection was 120 crore.",
+      "Dhurandhar third week collection was 189.3 crore.",
+      "Pushpa 2 third week collection was 133.9 crore.",
+      "Baahubali 2 third week collection was 127 crore."
+    ],
+    "entities": {
+      "people": [
+        "Ranbir Kapoor",
+        "Yash",
+        "Sai Pallavi",
+        "Ranveer Singh",
+        "Rehman Dakait",
+        "Ayushmann Khurrana",
+        "Allu Arjun",
+        "Nitesh Tiwari",
+        "Namit Malhotra",
+        "Ravi Dubey",
+        "Arun Govil",
+        "Lara Dutta",
+        "Indira Krishnan",
+        "Rakul Preet Singh",
+        "Sonal Jha",
+        "Vivek Oberoi",
+        "AR Rahman",
+        "Hans Zimmer"
+      ],
+      "titles": [
+        "Ramayana",
+        "Dhurandhar 2",
+        "Dhurandhar",
+        "Yeh Prem Mol Liya",
+        "Udta Teer",
+        "Pushpa 2",
+        "Baahubali 2",
+        "Gunmaaster G9",
+        "Aashiq Banaya Aapne"
+      ]
+    },
+    "keywords": [
+      "Ramayana box office collection",
+      "Ramayana day 22 collection",
+      "Ramayana third week collection",
+      "Ramayana 1000 crore club"
+    ],
+    "images": [
+      {
+        "url": "https://www.koimoi.com/wp-content/new-galleries/2026/11/ramayana-box-office-collection-day-22-registers-4th-biggest-third-week-of-all-time-in-india.jpg",
+        "caption": "Ramayana Secures 4th-Biggest Third Week In India As Day 22 Collections Hold Steady",
+        "source": "Koimoi"
+      }
+    ],
+    "published": "Fri, 27 Nov 2026 09:35:27 +0000"
+  },
+  "r328rm": {
+    "id": "r328rm",
+    "type": "news",
+    "headline": "ILLIT Member Moka Ends Five-Month Hiatus and Prepares to Resume Group Activities",
+    "dek": "After stepping away from the spotlight to focus on her health, the popular HYBE idol has broken her silence with an official message to fans confirming her gradual return.",
+    "body": [
+      {
+        "h": "The Long-Awaited Announcement",
+        "p": [
+          "Fans of the K-pop group ILLIT received the news they had been hoping for when member Moka issued a direct message to her supporters. Ending an absence that stretched over five months, she communicated her readiness to slowly rejoin her bandmates in scheduled commitments.",
+          "The update was shared via the digital platform Weverse, sparking immense excitement among the fandom known as GLLIT. Moka expressed deep appreciation for the unwavering patience shown by her supporters during her time away."
+        ]
+      },
+      {
+        "h": "Background of the Health Hiatus",
+        "p": [
+          "The idol's extended break originated from health concerns that surfaced while preparations were underway for the group's fourth mini-album, MAMIHLAPINATAPAI. Management agency BELIFT LAB officially halted her participation on June 19 following medical advice regarding excessive tension and anxiety symptoms.",
+          "This marked the second time during the album cycle that she had to step away. An initial pause occurred on April 20, just prior to the album launch, leading her to miss the majority of promotions for the track \"It’s Me\" before a brief appearance during the final week of music shows in late May."
+        ]
+      },
+      {
+        "h": "Group Activities as a Quartet",
+        "p": [
+          "While Moka focused on recovery, the remaining four members of ILLIT—Yunah, Minju, Wonhee, and Iroha—continued their promotional duties without her. The group carried on with their PRESS START tour destinations in Japan.",
+          "Additionally, the four-member lineup released a comeback project titled BREAK EVEN on October 26. Supporters also caught a brief glimpse of Moka in October when she made an unexpected appearance in the audience during an encore concert."
+        ]
+      },
+      {
+        "h": "Reconnecting With Supporters",
+        "p": [
+          "Alongside her public statement on Weverse, Moka re-engaged with her community through Weverse DM. She shared several personal selfies to celebrate her reconnection with the fanbase.",
+          "While she has not yet specified which exact event or schedule will mark her official on-stage comeback, she emphasized an intention to take small steps alongside her fellow members moving forward."
+        ]
+      },
+      {
+        "h": "Fan Reactions and Significance",
+        "p": [
+          "The announcement immediately dominated online spaces as supporters flooded social media platforms to celebrate her recovery. The community welcomed the news of her returning in good health after a lengthy period of absence.",
+          "Her return signals a complete lineup for future engagements, bringing relief to followers who closely monitored her well-being since the agency's initial announcement in June."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "ILLIT member Moka has announced her gradual return to group activities after a five-month health hiatus managed by BELIFT LAB. Her return follows previous medical breaks during the group's promotional cycles and a recent surprise audience appearance in October."
+        ]
+      }
+    ],
+    "facts": [
+      "Moka posted her return announcement on Weverse on November 27.",
+      "BELIFT LAB originally announced her activity halt on June 19.",
+      "The health issues began during preparations for ILLIT's 4th mini album, MAMIHLAPINATAPAI.",
+      "Moka previously stepped back from promotions on April 20.",
+      "ILLIT made a comeback as a quartet with BREAK EVEN on October 26."
+    ],
+    "entities": {
+      "people": [
+        "Moka",
+        "Yunah",
+        "Minju",
+        "Wonhee",
+        "Iroha"
+      ],
+      "titles": [
+        "ILLIT",
+        "MAMIHLAPINATAPAI",
+        "It’s Me",
+        "PRESS START",
+        "BREAK EVEN"
+      ]
+    },
+    "keywords": [
+      "ILLIT Moka",
+      "Moka returns from hiatus",
+      "BELIFT LAB ILLIT",
+      "MAMIHLAPINATAPAI album",
+      "ILLIT group activities"
+    ],
+    "images": [
+      {
+        "url": "https://image.koreaboo.com/2026/11/mokaHiatusReturn-FI.jpg?imop=Resize%2Cwidth%3D1200%3BConvert%2Cformat%3Djpeg&amp;Expires=1798448400&amp;KeyName=kb&amp;Signature=FZVoliUB7JrS1r42s4Ia6Zy9vrc=",
+        "caption": "ILLIT Member Moka Ends Five-Month Hiatus and Prepares to Resume Group Activities",
+        "source": "Koreaboo"
+      }
+    ],
+    "published": "Fri, 27 Nov 2026 10:10:05 +0000"
+  },
+  "1i9r1cf": {
+    "id": "1i9r1cf",
+    "type": "news",
+    "headline": "Sukesh Chandrashekhar Issues Legal Notice to Netflix Over Upcoming Documentary",
+    "dek": "Jailed conman Sukesh Chandrashekhar has served a legal notice to Netflix and the India Today Group, demanding the postponement of the documentary Love, Scam And Dhokha: The Sukesh Chandrashekhar Story.",
+    "body": [
+      {
+        "h": "Netflix Announces Documentary Release",
+        "p": [
+          "On Thursday, Netflix India announced an upcoming documentary project centered around jailed conman Sukesh Chandrashekhar. Titled Love Scam And Dhokha: The Sukesh Chandrashekhar Story, the feature was scheduled to make its platform debut on December 18.",
+          "The project aims to explore the multi-crore fraud allegations against Chandrashekhar alongside his widely publicized connections to the Bollywood industry, particularly involving public figures Jacqueline Fernandez and Nora Fatehi."
+        ]
+      },
+      {
+        "h": "Legal Notice Served by Advocate Anant Malik",
+        "p": [
+          "Shortly following the streaming announcement, Sukesh Chandrashekhar's legal representative, Advocate Anant Malik, issued a formal legal notice to Netflix India and the India Today Group. Dated November 26, the notice challenges the upcoming premiere and demands a postponement of the release date.",
+          "The legal challenge contends that the jailed conman was never approached by the documentary creators, nor did he give any consent for the utilization of his personal story, name, voice, likeness, or image."
+        ]
+      },
+      {
+        "h": "Concerns Regarding Fair Trial",
+        "p": [
+          "Chandrashekhar's legal team argued that broadcasting the documentary while active criminal proceedings are ongoing could severely prejudice his right to a fair trial. The notice points out that airing unverified claims might portray disputed accounts as established facts before witnesses give statements in court.",
+          "Advocate Anant Malik emphasized that the streaming content relies on private investigation, press archives, and online materials rather than tested court evidence, raising concerns about pre-judging an ongoing judicial matter."
+        ]
+      },
+      {
+        "h": "Demands Issued to the Streaming Platform",
+        "p": [
+          "The legal notice explicitly demands a written guarantee that the documentary, its promotional materials, and trailers will remain unreleased until prosecution evidence is properly recorded in relevant trials. Additionally, the team requested disclosure of specific individuals interviewed, such as prison officials, investigating officers, and prosecution witnesses.",
+          "Furthermore, the counsel requested a complete pre-release private screening of the project for Chandrashekhar's legal team and clarification on whether official case documents were accessed by the creators."
+        ]
+      },
+      {
+        "h": "Entities Involved in the Notice",
+        "p": [
+          "Anantam Legal served the formal notice on behalf of the client to Netflix Entertainment Services India LLP, Netflix Inc., the India Today Group entity responsible for India Today Originals, as well as the executive producer and directors of the project.",
+          "The notice issued a strict 72-hour deadline for the recipients to respond. Despite the ultimatum, the streaming platform has not yet issued a public response regarding the notice."
+        ]
+      },
+      {
+        "h": "Background of the Allegations",
+        "p": [
+          "The central focus of the documentary revolves around Chandrashekhar's controversial life, his elaborate financial fraud schemes, and allegations of impersonating government officials and influential personalities to cheat wealthy individuals.",
+          "His alleged involvement in an extensive extortion racket drew nationwide attention, while the Enforcement Directorate questioned Bollywood actress Jacqueline Fernandez during the subsequent money laundering investigations."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Jailed conman Sukesh Chandrashekhar has served a legal notice to Netflix and the India Today Group demanding a postponement of the documentary Love, Scam And Dhokha: The Sukesh Chandrashekhar Story. Issued by Advocate Anant Malik on November 26, the notice objects to the one-sided portrayal and gives a 72-hour deadline to respond, citing potential impacts on an ongoing fair trial."
+        ]
+      }
+    ],
+    "facts": [
+      "The documentary is titled Love Scam And Dhokha: The Sukesh Chandrashekhar Story.",
+      "Netflix announced the documentary on Thursday, November 26.",
+      "The scheduled premiere date was December 18.",
+      "The legal notice was issued on November 26 by Advocate Anant Malik of Anantam Legal.",
+      "The notice gives Netflix and the India Today Group a 72-hour deadline to respond."
+    ],
+    "entities": {
+      "people": [
+        "Sukesh Chandrashekhar",
+        "Anant Malik",
+        "Jacqueline Fernandez",
+        "Nora Fatehi"
+      ],
+      "titles": [
+        "Love Scam And Dhokha: The Sukesh Chandrashekhar Story"
+      ]
+    },
+    "keywords": [
+      "Sukesh Chandrashekhar Netflix documentary",
+      "Love Scam And Dhokha The Sukesh Chandrashekhar Story",
+      "Sukesh Chandrashekhar legal notice Netflix",
+      "Anant Malik Sukesh Chandrashekhar lawyer"
+    ],
+    "images": [
+      {
+        "url": "https://images.filmibeat.com/img/2026/11/feature-2026-11-27t155645-634-60921795775212.jpg",
+        "caption": "Sukesh Chandrashekhar Issues Legal Notice to Netflix Over Upcoming Documentary",
+        "source": "FilmiBeat"
+      }
+    ],
+    "published": "Fri, 27 Nov 2026 15:57:15 +0530"
+  },
+  "s53dto": {
+    "id": "s53dto",
+    "type": "news",
+    "headline": "Call the Midwife Prequel Sisters in Arms Secures Early BBC Renewal",
+    "dek": "Even before its festive debut, the upcoming television drama prequel Sisters in Arms has already been commissioned for a full seven-part season by the BBC.",
+    "body": [
+      {
+        "h": "Early Renewal Confirmed",
+        "p": [
+          "Audiences have not yet had the chance to watch the upcoming television drama prequel Sisters in Arms, but the BBC has already guaranteed a future for the program. The network officially announced that a full-length season consisting of seven episodes has been ordered following the initial holiday broadcast.",
+          "Production for this expanded run of episodes is scheduled to begin in 2027. This early vote of confidence ensures that the creative team will have ample opportunity to expand upon the wartime universe they are building."
+        ]
+      },
+      {
+        "h": "Festive Debut and Special Format",
+        "p": [
+          "The project is initially set to launch during the upcoming holiday season with a three-part special event. Viewers will be able to catch the episodes on BBC One as well as through the digital streaming platform BBC iPlayer.",
+          "This introductory holiday event acts as a bridge into the broader world of the franchise, introducing audiences to the historical setting before the longer commissioned run goes into production."
+        ]
+      },
+      {
+        "h": "Creative Vision and Leadership",
+        "p": [
+          "Heidi Thomas serves as the creator and showrunner for the program, steering the narrative back to the historical era of the Blitz. Thomas expressed great enthusiasm for the project, noting the dedication required from the characters during such a turbulent period in history.",
+          "The creative team also features executive producer Pippa Harris from Neal Street productions, alongside producer Ann Tricklebank. Harris praised the writing and the commitment of the cast and crew in bringing these wartime accounts to life."
+        ]
+      },
+      {
+        "h": "Cast and Character Details",
+        "p": [
+          "The drama features a large ensemble cast portraying younger iterations of familiar characters alongside new figures. Jenny Agutter provides narration as an older Sister Julienne, while Helena Wilson portrays the younger version of Sister Julienne.",
+          "Other notable cast members include Julie Hesmondhalgh as Sister Alice, Amy Booth-Steel as Sister Evangelina, and Helen Schlesinger as Sister Monica Joan. The lineup further features Bally Gill, Martin McCann, Rachel O'Connell, and Liv Andrusier."
+        ]
+      },
+      {
+        "h": "Expanded Ensemble and Supporting Roles",
+        "p": [
+          "Additional talent rounding out the ensemble includes Lizzie Back, Ellie McKay, and Ciaran Bowling. Ami Metcalf and Ben Rose also take on supporting roles within the community.",
+          "This diverse group of characters populates the central location, bringing a wide range of interpersonal dynamics and dramatic challenges to the screen as the historical narrative unfolds."
+        ]
+      },
+      {
+        "h": "Setting the Scene in Wartime London",
+        "p": [
+          "The plot takes viewers back to September 1939, positioning Nonnatus House at the center of Poplar during a time of immense hardship. At this point in the timeline, advanced medical treatments and modern social safety nets do not yet exist.",
+          "When war is officially declared, conditions deteriorate rapidly due to blackouts and bombing raids. Expectant mothers are shown giving birth underground amidst falling debris, while the local community pulls together to demonstrate remarkable courage and resilience."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "The BBC has confirmed a full seven-part season for the upcoming television drama prequel Sisters in Arms, which will begin filming in 2027 following its three-part Christmas debut. Creator Heidi Thomas and executive producer Pippa Harris celebrated the early renewal, which will explore further wartime stories featuring a cast led by Jenny Agutter, Helena Wilson, and Julie Hesmondhalgh."
+        ]
+      }
+    ],
+    "facts": [
+      "Published on Friday, 27 November 2026 at 10:06 am",
+      "Sisters in Arms debuts this Christmas with a three-part special",
+      "The BBC announced a full seven-part season that will start filming in 2027",
+      "Jenny Agutter will narrate the series as the older Sister Julienne",
+      "Helena Wilson will play a younger version of Sister Julienne",
+      "Julie Hesmondhalgh plays Sister Alice",
+      "Amy Booth-Steel plays Sister Evangelina",
+      "Helen Schlesinger plays Sister Monica Joan",
+      "Bally Gill plays Dr Kit Malhotra",
+      "Martin McCann plays Tommy Moffat",
+      "Rachel O'Connell plays Mary Moffat",
+      "Liv Andrusier plays Marianne Siegler",
+      "Lizzie Back plays Sybil Maxted",
+      "Ellie McKay plays Olive Dobbs",
+      "Ciaran Bowling plays Fred Buckle",
+      "Ami Metcalf plays Betty Buckle",
+      "Ben Rose plays Dr Patrick Turner",
+      "The Christmas specials start in September 1939",
+      "Pippa Harris is executive producer for Neal Street",
+      "Ann Tricklebank leads the cast and crew"
+    ],
+    "entities": {
+      "people": [
+        "James Hibbs",
+        "Heidi Thomas",
+        "Jenny Agutter",
+        "Helena Wilson",
+        "Julie Hesmondhalgh",
+        "Amy Booth-Steel",
+        "Helen Schlesinger",
+        "Bally Gill",
+        "Martin McCann",
+        "Rachel O'Connell",
+        "Liv Andrusier",
+        "Lizzie Back",
+        "Ellie McKay",
+        "Ciaran Bowling",
+        "Ami Metcalf",
+        "Ben Rose",
+        "Pippa Harris",
+        "Ann Tricklebank"
+      ],
+      "titles": [
+        "Call the Midwife",
+        "Sisters in Arms",
+        "Call the Midwife: Sisters in Arms"
+      ]
+    },
+    "keywords": [
+      "Sisters in Arms BBC",
+      "Call the Midwife prequel",
+      "Heidi Thomas Sisters in Arms",
+      "Jenny Agutter Sisters in Arms"
+    ],
+    "images": [
+      {
+        "url": "https://images.production.immediate.co.uk/volatile/sites/3/2026/11/579129-8558392.jpg?resize=1200%2C630",
+        "caption": "Call the Midwife Prequel Sisters in Arms Secures Early BBC Renewal",
+        "source": "Radio Times"
+      }
+    ],
+    "published": "Fri, 27 Nov 2026 10:06:14 GMT"
   }
 };
