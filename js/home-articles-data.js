@@ -38,6 +38,37 @@ window.FA_HOME_ARTICLES = {
     ],
     "published": "Fri, 27 Nov 2026 10:21:04 +0200"
   },
+  "z85jcf": {
+    "id": "z85jcf",
+    "type": "news",
+    "headline": "Sara Gurpal Opens Up About Abusive US Marriage And Calling 911 To Escape",
+    "dek": "Punjabi actress and former reality show contestant Sara Gurpal recently shared harrowing details of her past marriage in the United States, detailing isolation, abuse, and her eventual escape with the help of law enforcement.",
+    "entities": {
+      "people": [
+        "Sara Gurpal",
+        "Siddharth Aalambayan"
+      ],
+      "titles": [
+        "Bigg Boss 14",
+        "The Male Feminist"
+      ]
+    },
+    "keywords": [
+      "Sara Gurpal",
+      "Sara Gurpal US marriage",
+      "Sara Gurpal podcast",
+      "The Male Feminist podcast",
+      "Bigg Boss 14 Sara Gurpal"
+    ],
+    "images": [
+      {
+        "url": "https://images.filmibeat.com/img/2026/11/feature-2026-11-27t131555-417-38491795765561.jpg",
+        "caption": "Sara Gurpal Opens Up About Abusive US Marriage And Calling 911 To Escape",
+        "source": "FilmiBeat"
+      }
+    ],
+    "published": "Fri, 27 Nov 2026 13:16:22 +0530"
+  },
   "zcaoo9": {
     "id": "zcaoo9",
     "type": "news",
@@ -104,6 +135,146 @@ window.FA_HOME_ARTICLES = {
       }
     ],
     "published": "2026-11-27T06:52:51Z"
+  },
+  "piapih": {
+    "id": "piapih",
+    "type": "news",
+    "headline": "FWICE Warns Netflix India Over Pakistani Original Series Release",
+    "dek": "The Federation of Western India Cine Employees has issued a stern ultimatum to Netflix regarding the streaming of a Pakistani production.",
+    "entities": {
+      "people": [
+        "B. N. Tiwari",
+        "Fawad Khan",
+        "Mahira Khan",
+        "Hania Aamir",
+        "Sanam Saeed",
+        "Farhat Ishtiaq",
+        "Gajendra Chauhan",
+        "Mishi Khan"
+      ],
+      "titles": [
+        "Jo Bachay Hain Sang Samait Lo",
+        "Jo Bachay Hain Sang Samait Lo Part 1"
+      ]
+    },
+    "keywords": [
+      "Jo Bachay Hain Sang Samait Lo",
+      "FWICE Netflix warning",
+      "B. N. Tiwari Netflix India",
+      "Jo Bachay Hain Sang Samait Lo release date"
+    ],
+    "images": [
+      {
+        "url": "https://images.filmibeat.com/img/2026/11/feature-2026-11-27t113045-340-89711795759260.jpg",
+        "caption": "FWICE Warns Netflix India Over Pakistani Original Series Release",
+        "source": "FilmiBeat"
+      }
+    ],
+    "published": "Fri, 27 Nov 2026 12:10:23 +0530"
+  },
+  "7ucy76": {
+    "id": "7ucy76",
+    "type": "news",
+    "headline": "Pokemon Unveils Evolve to Charizard Ring by Enso for Franchise Milestone",
+    "dek": "A brand new silicone ring featuring Charmander, Charmeleon, and Charizard has been revealed for the 30th anniversary, priced at $49.99.",
+    "entities": {
+      "people": [
+        "James Lynch",
+        "Satoshi Tajiri",
+        "Ken Sugimori",
+        "Ash"
+      ],
+      "titles": [
+        "Pokemon",
+        "World of Warcraft",
+        "Destiny 2",
+        "League of Legends",
+        "Pokemon Red and Blue",
+        "Pokemon Yellow",
+        "Pokemon Gold and Silver",
+        "Pokemon Crystal",
+        "Pokemon Ruby and Sapphire",
+        "Pokemon Sapphire",
+        "Pokemon Diamond and Pearl",
+        "Pokemon Platinum",
+        "Pokemon Black and White",
+        "Pokemon Black and White 2",
+        "Pokemon X and Y",
+        "Pokemon Sun and Moon",
+        "Pokemon Sword and Shield",
+        "Pokemon Scarlet and Violet",
+        "Pokemon Winds and Waves",
+        "Pokemon Legends Arceus",
+        "Pokemon Legends Z-A",
+        "Pokemon: The First Movie"
+      ]
+    },
+    "keywords": [
+      "Evolve to Charizard Ring",
+      "Pokemon Winds and Waves",
+      "Enso Charizard ring",
+      "Pokemon Center Charizard ring"
+    ],
+    "images": [
+      {
+        "url": "https://static0.srcdn.com/wordpress/wp-content/uploads/2026/09/forgotten-pokemon-game-ranger-nintendo-ds-20-years-charizard-mt-coronet.jpg?w=1600&amp;h=900&amp;fit=crop",
+        "caption": "Pokemon Unveils Evolve to Charizard Ring by Enso for Franchise Milestone",
+        "source": "Screen Rant"
+      }
+    ],
+    "published": "Fri, 27 Nov 2026 06:30:18 GMT"
+  },
+  "1rhj4vr": {
+    "id": "1rhj4vr",
+    "type": "news",
+    "headline": "Reimagining the Arena: A 2026 Dream Cast for The Hunger Games",
+    "dek": "Exploring what Suzanne Collins' dystopian masterpiece might look like if it were adapted today with a fresh lineup of generational talents.",
+    "entities": {
+      "people": [
+        "Suzanne Collins",
+        "Katniss Everdeen",
+        "Jennifer Lawrence",
+        "Peeta Mellark",
+        "Josh Hutcherson",
+        "Primrose",
+        "Willow Shields",
+        "Sadie Sink",
+        "Walker Scobell",
+        "Gale Hawthorne",
+        "Liam Hemsworth",
+        "David Iacono"
+      ],
+      "titles": [
+        "The Hunger Games",
+        "The Hunger Games: Sunrise on the Reaping",
+        "Winter's Bone",
+        "Stranger Things",
+        "Spider-Man: Brand New Day",
+        "John Proctor Is the Villain",
+        "The Whale",
+        "Percy Jackson and the Olympians",
+        "The Summer I Turned Pretty",
+        "Cinnamon",
+        "Grand Army",
+        "Fresh Kills",
+        "Jurassic World Rebirth"
+      ]
+    },
+    "keywords": [
+      "The Hunger Games cast",
+      "Katniss Everdeen casting",
+      "Sadie Sink Hunger Games",
+      "Walker Scobell Peeta",
+      "The Hunger Games 2026"
+    ],
+    "images": [
+      {
+        "url": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2025/11/the-hunger-games-jennifer-lawrence.jpg?w=1600&amp;h=900&amp;fit=crop",
+        "caption": "Reimagining the Arena: A 2026 Dream Cast for The Hunger Games",
+        "source": "Collider"
+      }
+    ],
+    "published": "Fri, 27 Nov 2026 05:52:12 GMT"
   },
   "11xzv2g": {
     "id": "11xzv2g",
@@ -4550,160 +4721,6 @@ window.FA_HOME_ARTICLES = {
     ],
     "published": "2026-11-26T06:36:35+05:30"
   },
-  "1p6zfs0": {
-    "id": "1p6zfs0",
-    "type": "news",
-    "headline": "Hanuman Ansh OTT Release Dates Confirmed for Netflix and Sony LIV",
-    "dek": "After facing early rejection from streaming platforms, the blockbuster biographical film Hanuman Ansh is set to premiere on both Sony LIV and Netflix following its massive box office run.",
-    "entities": {
-      "people": [
-        "Vishal चतुर्वेदी"
-      ],
-      "titles": [
-        "Hanuman Ansh"
-      ]
-    },
-    "keywords": [
-      "Hanuman Ansh",
-      "Hanuman Ansh OTT release",
-      "Vishal चतुर्वेदी",
-      "Neem Karoli Baba film",
-      "Hanuman Ansh box office"
-    ],
-    "images": [
-      {
-        "url": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202611/6b06ede2a2a24-hanuman-ansh-ott-deal-netflix-sony-251705523-16x9.jpg",
-        "caption": "Hanuman Ansh OTT Release Dates Confirmed for Netflix and Sony LIV",
-        "source": "Aaj Tak — Entertainment"
-      }
-    ],
-    "published": "2026-11-26T00:52:07Z"
-  },
-  "8nf2m9": {
-    "id": "8nf2m9",
-    "type": "news",
-    "headline": "Ramayana Box Office Day 21: Ranbir Kapoor, Yash's Film Records Lowest-Ever Collection",
-    "dek": "Ranbir Kapoor and Yash's mythological epic Ramayana records its lowest single-day collection on Day 21 as it inches closer to the Rs 1000 crore milestone in India.",
-    "entities": {
-      "people": [
-        "Ranbir Kapoor",
-        "Yash",
-        "Nitesh Tiwari",
-        "Sai Pallavi",
-        "Ravi Dubey",
-        "Arun Govil",
-        "Indira Krishnan",
-        "Lara Dutta",
-        "Sonal Jha",
-        "Adinath Kothare",
-        "Nitish Sharma",
-        "Shobana",
-        "Rakul Preet Singh",
-        "Kajal Agarwal",
-        "Anupam Kher",
-        "Shridhar Raghavan",
-        "Denis Villeneuve",
-        "Christopher Nolan",
-        "Tom Holland"
-      ],
-      "titles": [
-        "Ramayana",
-        "Yeh Prem Mol Liya",
-        "Gunmaaster G9",
-        "Dune: Part Three",
-        "The Odyssey",
-        "Spider-Man: Brand New Day"
-      ]
-    },
-    "keywords": [
-      "Ramayana film",
-      "Ranbir Kapoor Yash Ramayana",
-      "Ramayana box office Day 21",
-      "Ramayana Golden Globes"
-    ],
-    "images": [
-      {
-        "url": "https://images.timesnownews.com/thumb/msid-156566791,thumbsize-598705,width-1280,height-720,resizemode-75/156566791.jpg",
-        "caption": "Ramayana Box Office Day 21: Ranbir Kapoor, Yash's Film Records Lowest-Ever Collection",
-        "source": "Times Now — Entertainment"
-      }
-    ],
-    "published": "2026-11-26T00:52:07Z"
-  },
-  "2fpbqz": {
-    "id": "2fpbqz",
-    "type": "news",
-    "headline": "Hwang Jung Min and Yum Jung Ah Return for Mission: Cross 2 on Netflix",
-    "dek": "The action-comedy couple is back for another high-stakes adventure, with Netflix scheduling the sequel for a Christmas Day release.",
-    "entities": {
-      "people": [
-        "Hwang Jung Min",
-        "Yum Jung Ah",
-        "Cha In Pyo",
-        "Jung Man Sik",
-        "Yoon Kyung Ho",
-        "Lim Seong Jae",
-        "Kim Guk Hee",
-        "Lee Myung Hoon",
-        "YKang"
-      ],
-      "titles": [
-        "Mission: Cross 2",
-        "Mission: Cross",
-        "Ode to My Father 2",
-        "The Glory",
-        "But Your Love"
-      ]
-    },
-    "keywords": [
-      "Mission: Cross 2",
-      "Hwang Jung Min Mission: Cross",
-      "Yum Jung Ah Netflix film",
-      "Mission: Cross 2 release date"
-    ],
-    "images": [
-      {
-        "url": "https://i.mydramalist.com/VBBLyz_2d.jpg",
-        "caption": "Hwang Jung Min and Yum Jung Ah Return for Mission: Cross 2 on Netflix",
-        "source": "MyDramaList"
-      }
-    ],
-    "published": "Thu, 26 Nov 2026 00:41:59 +0000"
-  },
-  "1fm2gxt": {
-    "id": "1fm2gxt",
-    "type": "news",
-    "headline": "Ramayana: Rise of a Legend Box Office Day 21: Ranbir Kapoor and Yash Starrer Approaches Rs 1,000 Crore Domestic Net",
-    "dek": "Nitesh Tiwari's fantasy epic continues its theatrical journey, pulling in solid weekday numbers and nearing historic domestic box-office milestones after three weeks on the big screen.",
-    "entities": {
-      "people": [
-        "Nitesh Tiwari",
-        "Ranbir Kapoor",
-        "Yash",
-        "Sai Pallavi",
-        "Sunny Deol",
-        "Ravi Dubey",
-        "Lara Dutta"
-      ],
-      "titles": [
-        "Ramayana: Rise of a Legend"
-      ]
-    },
-    "keywords": [
-      "Ramayana Rise of a Legend box office",
-      "Ramayana collection day 21",
-      "Ranbir Kapoor Yash Ramayana earnings",
-      "Ramayana India net collection"
-    ],
-    "images": [
-      {
-        "url": "https://static.toiimg.com/thumb/msid-136175401,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "caption": "Ramayana: Rise of a Legend Box Office Day 21: Ranbir Kapoor and Yash Starrer Approaches Rs 1,000 Crore Domestic Net",
-        "source": "Times of India — Entertainment"
-      }
-    ],
-    "published": "2026-11-26T06:07:00+05:30"
-  },
   "1ihedvj": {
     "id": "1ihedvj",
     "type": "news",
@@ -4769,6 +4786,52 @@ window.FA_HOME_ARTICLES = {
       }
     ],
     "published": "2026-11-25T15:00:10Z"
+  },
+  "19pcqr2": {
+    "id": "19pcqr2",
+    "type": "news",
+    "headline": "Indian Cine Body Demands Ban on Fawad Khan's Pakistani Netflix Series",
+    "dek": "The All Indian Cine Workers Association has written to Prime Minister Narendra Modi and Netflix India, urging them to block the release of Jo Bachay Hain Sang Samait Lo.",
+    "entities": {
+      "people": [
+        "Fawad Khan",
+        "Mahira Khan",
+        "Sanam Saeed",
+        "Hania Aamir",
+        "Narendra Modi",
+        "Diljit Dosanjh",
+        "Vaani Kapoor",
+        "Atif Aslam",
+        "Momina Duraid",
+        "Farhat Ishtiaq",
+        "Khushhal Khan",
+        "Ahad Raza Mir",
+        "Iqra Aziz",
+        "Maya Ali",
+        "Bilal Ashraf",
+        "Ahmed Ali Akbar",
+        "Hamza Abbasi"
+      ],
+      "titles": [
+        "Jo Bachay Hain Sang Samait Lo",
+        "Sardarji 3",
+        "Aabeer Gulaal"
+      ]
+    },
+    "keywords": [
+      "Jo Bachay Hain Sang Samait Lo Netflix",
+      "AICWA ban Pakistani series",
+      "Fawad Khan Mahira Khan Netflix show",
+      "All Indian Cine Workers Association PM Modi"
+    ],
+    "images": [
+      {
+        "url": "https://images.indianexpress.com/2026/11/Fawad-Khan-Mahira-Khan.jpg",
+        "caption": "Indian Cine Body Demands Ban on Fawad Khan's Pakistani Netflix Series",
+        "source": "Indian Express — Entertainment"
+      }
+    ],
+    "published": "Wed, 25 Nov 2026 04:11:11 +0000"
   },
   "1ypg7z1": {
     "id": "1ypg7z1",
@@ -4855,39 +4918,6 @@ window.FA_HOME_ARTICLES = {
       }
     ],
     "published": "2026-11-24T15:00:14Z"
-  },
-  "1f98fib": {
-    "id": "1f98fib",
-    "type": "news",
-    "headline": "Bihar MLA Anant Singh Hosts Grand Wedding Celebrations for Daughter Shivangi in Patna",
-    "dek": "Extravagant wedding preparations for Bihar MLA Anant Singh's daughter Shivangi in Ladma village feature a horse race with a Thar SUV prize, massive kitchens producing 50 lakh gulab jamuns, and viral haldi ceremony videos.",
-    "entities": {
-      "people": [
-        "Anant Singh",
-        "Shivangi",
-        "Rishikesh Kumar",
-        "Ranvijay Kumar",
-        "Kanhaiya Singh",
-        "Ankit",
-        "Abhishek",
-        "Abhinav"
-      ],
-      "titles": []
-    },
-    "keywords": [
-      "Anant Singh daughter wedding",
-      "Shivangi Rishikesh Kumar wedding",
-      "Anant Singh Thar prize horse race",
-      "Anant Singh haldi video viral"
-    ],
-    "images": [
-      {
-        "url": "https://images.filmibeat.com/img/2026/11/biharmlaanantsinghdaughtershivangiweddingd1-66121795454891.jpg",
-        "caption": "Bihar MLA Anant Singh Hosts Grand Wedding Celebrations for Daughter Shivangi in Patna",
-        "source": "FilmiBeat"
-      }
-    ],
-    "published": "Mon, 23 Nov 2026 23:00:32 +0530"
   },
   "1q8blpb": {
     "id": "1q8blpb",
@@ -4995,48 +5025,74 @@ window.FA_HOME_ARTICLES = {
     ],
     "published": "2026-11-23T15:00:06Z"
   },
-  "pf6e6i": {
-    "id": "pf6e6i",
+  "qyxwxv": {
+    "id": "qyxwxv",
     "type": "news",
-    "headline": "Johnny Depp’s Ebenezer Suffers Major Second-Weekend Box Office Slump",
-    "dek": "The gothic holiday feature Ebenezer experienced a steep domestic decline in its sophomore frame, though robust overseas earnings and favorable audience grades offer a silver lining for Johnny Depp's return to Hollywood.",
+    "headline": "Netflix Sci-Fi Series 3 Body Problem Confirms Reduced Episode Order for Season 2",
+    "dek": "The creators of the hit science fiction adaptation have announced a shorter run of episodes for the upcoming second season on Netflix.",
     "entities": {
       "people": [
-        "Johnny Depp",
-        "Devanshi Basu",
-        "Ti West",
-        "Nathaniel Halpern",
-        "Rupert Grint",
-        "Andrea Riseborough",
-        "Sam Claflin",
-        "Daisy Ridley",
-        "Tramell Tillman",
-        "Ian McKellen",
-        "Arthur Conti",
-        "Freddie Lee-Grey"
+        "Chris McPherson",
+        "David Benioff",
+        "D.B. Weiss",
+        "Alexander Woo",
+        "Liu Cixin",
+        "Jeremy Podeswa",
+        "Miguel Sapochnik",
+        "Jess Hong",
+        "Benedict Wong",
+        "Eiza González",
+        "Jovan Adepo",
+        "Liam Cunningham",
+        "Marlo Kelly",
+        "Claudia Doumit",
+        "Ellie de Lange",
+        "Alfie Allen"
       ],
       "titles": [
-        "Ebenezer",
-        "The Hunger Games: Sunrise of the Reaping",
-        "The Cat in the Hat",
-        "I Play Rocky",
-        "Godzilla Minus Zero"
+        "3 Body Problem",
+        "Bosch",
+        "Mission: Impossible",
+        "Yellowstone",
+        "Gilmore Girls",
+        "Silo",
+        "The Matrix",
+        "Mad Max",
+        "Blade Runner",
+        "Dune",
+        "Star Wars",
+        "Fight Club",
+        "eXistenZ",
+        "Mad Max: Fury Road",
+        "Furiosa: A Mad Max Saga",
+        "Blade Runner 2049",
+        "Tenet",
+        "Andor",
+        "Game of Thrones",
+        "House of the Dragon",
+        "Inked",
+        "Doctor Strange",
+        "Baby Driver",
+        "Watchmen",
+        "Dare Me",
+        "The Boys",
+        "Wolf Hall"
       ]
     },
     "keywords": [
-      "Johnny Depp Ebenezer",
-      "Ebenezer box office drop",
-      "Ti West Ebenezer movie",
-      "Ebenezer domestic total"
+      "3 Body Problem Season 2",
+      "Netflix 3 Body Problem episodes",
+      "David Benioff 3 Body Problem",
+      "3 Body Problem cast season 2"
     ],
     "images": [
       {
-        "url": "https://www.comingsoon.net/wp-content/uploads/sites/3/2026/11/param.webp?resize=1200,630",
-        "caption": "Johnny Depp’s Ebenezer Suffers Major Second-Weekend Box Office Slump",
-        "source": "ComingSoon.net"
+        "url": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/03/3-body-problem.jpg?w=1600&amp;h=900&amp;fit=crop",
+        "caption": "Netflix Sci-Fi Series 3 Body Problem Confirms Reduced Episode Order for Season 2",
+        "source": "Collider"
       }
     ],
-    "published": "Mon, 23 Nov 2026 05:15:00 +0000"
+    "published": "Sun, 22 Nov 2026 19:00:12 GMT"
   },
   "f4chlg": {
     "id": "f4chlg",
