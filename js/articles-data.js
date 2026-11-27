@@ -260666,5 +260666,412 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Fri, 27 Nov 2026 07:45:27 +0530"
+  },
+  "1s6q6of": {
+    "id": "1s6q6of",
+    "type": "news",
+    "headline": "Shah Rukh Khan's Upcoming Project 'King' Rumored to Feature an Extended Runtime",
+    "dek": "Recent listings from American ticketing platforms indicate that the action-packed movie directed by Siddharth Anand might cross the three-hour threshold.",
+    "body": [
+      {
+        "h": "The Runtime Speculation",
+        "p": [
+          "As the theatrical premiere of the highly anticipated action movie approaches, industry trackers and fans have begun focusing on the technical details of the production. Recent data from the American ticketing portal Fandango lists the feature with an extensive duration.",
+          "If these figures prove accurate, the upcoming project will stand out as an unusually long feature in modern Hindi cinema, sparking conversations across entertainment forums regarding pacing and narrative scope."
+        ]
+      },
+      {
+        "h": "Contrasting Earlier Estimates",
+        "p": [
+          "The newly reported duration significantly surpasses earlier estimations that circulated during the initial phases of production. Initial rumors had pointed toward a much tighter cut lasting roughly two and a half hours.",
+          "This notable discrepancy has left observers wondering whether the editing team decided to incorporate additional narrative depth or expanded action sequences as the project moved closer to completion."
+        ]
+      },
+      {
+        "h": "Historical Context in the Star's Filmography",
+        "p": [
+          "Should the 3-hour and 17-minute timeframe be officially confirmed, it would mark the longest theatrical outing for the leading actor in approximately two decades. Crossing the three-hour mark is a rarity for his recent blockbuster vehicles.",
+          "For comparison, his previous major action hits finished with considerably shorter lengths, demonstrating a shift toward brisk pacing in contemporary commercial filmmaking until now."
+        ]
+      },
+      {
+        "h": "Awaiting Official Word",
+        "p": [
+          "Despite the strong visibility of the ticketing site listing, the producers and studio representatives have yet to issue an official confirmation regarding the final cut. Industry watchers caution that runtimes on international platforms can occasionally be placeholders.",
+          "Audiences and trade analysts remain on standby for a definitive announcement from the core team to verify the exact length before the movie arrives in cinemas."
+        ]
+      },
+      {
+        "h": "Promotional Material and Trailer Buzz",
+        "p": [
+          "Alongside discussions about the feature's length, anticipation for the promotional video has intensified across trade publications. Reports indicate that the primary preview will likely run for over three minutes.",
+          "Editors are reportedly testing various iterations of the promotional cut to balance high-octane sequences, musical numbers, and visual grandeur without giving away too much of the core plot."
+        ]
+      },
+      {
+        "h": "Cast and Crew Details",
+        "p": [
+          "The project brings back the successful actor-director pairing of the leading star and filmmaker following their previous collaboration. The creative partnership has generated substantial curiosity among moviegoers.",
+          "Furthermore, the project boasts a prominent ensemble cast featuring notable performers alongside the main star, setting the stage for a major festive season attraction."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Recent ticketing portal listings suggest that the upcoming action movie could feature an extended runtime of over three hours, surprising fans who expected a shorter cut. The project, directed by Siddharth Anand and starring Shah Rukh Khan alongside a notable ensemble cast, is scheduled for a December release while generating strong anticipation for its upcoming promotional trailer."
+        ]
+      }
+    ],
+    "facts": [
+      "Fandango listed the film runtime at 3 hours and 17 minutes",
+      "Earlier reports suggested a runtime of approximately 2 hours and 35 minutes",
+      "Pathaan had a runtime of 2 hours and 26 minutes",
+      "Jawan had a runtime of 2 hours and 49 minutes",
+      "The film is directed by Siddharth Anand",
+      "The film stars Shah Rukh Khan, Suhana Khan, Deepika Padukone, and Abhishek Bachchan",
+      "The release date is set for December 24"
+    ],
+    "entities": {
+      "people": [
+        "Shah Rukh Khan",
+        "Siddharth Anand",
+        "Suhana Khan",
+        "Deepika Padukone",
+        "Abhishek Bachchan",
+        "Karan Johar"
+      ],
+      "titles": [
+        "King",
+        "Kabhi Alvida Naa Kehna",
+        "Pathaan",
+        "Jawan"
+      ]
+    },
+    "keywords": [
+      "King film runtime",
+      "Shah Rukh Khan King movie",
+      "Siddharth Anand King cast",
+      "King release date"
+    ],
+    "images": [
+      {
+        "url": "https://static.toiimg.com/thumb/msid-136207040,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "caption": "Shah Rukh Khan's Upcoming Project 'King' Rumored to Feature an Extended Runtime",
+        "source": "Times of India — Entertainment"
+      }
+    ],
+    "published": "2026-11-27T07:38:13+05:30"
+  },
+  "tlwzlh": {
+    "id": "tlwzlh",
+    "type": "news",
+    "headline": "Jared Padalecki And Leighton Meester Lead Netflix Rom-Com Guarding Stars To Massive Debut",
+    "dek": "The holiday romantic comedy Guarding Stars secures the top spot on Netflix with impressive viewership numbers and strong Rotten Tomatoes scores.",
+    "body": [
+      {
+        "h": "Streaming Debut Success",
+        "p": [
+          "Netflix's holiday romantic comedy Guarding Stars opened to a strong debut on the streaming platform, capturing the number one position on the global English-language movie chart for the week of November 16 through November 22, 2026.",
+          "During its first five days available to subscribers, the project accumulated 27.6 million views alongside 50.6 million hours watched."
+        ]
+      },
+      {
+        "h": "Starring Cast And Crew",
+        "p": [
+          "The feature film stars Jared Padalecki alongside Leighton Meester in the lead roles. Padalecki is widely recognized for his television work in Supernatural, Gilmore Girls, and Walker, marking a rare return to film for the actor.",
+          "Meester is known for her role in Gossip Girl. The cast also features Andie MacDowell, Noah LaLonde, Walker Hayes, Toby Sandeman, and CM Punk, while Jared and Genevieve Padalecki served as producers."
+        ]
+      },
+      {
+        "h": "Plot And Adaptation Details",
+        "p": [
+          "Guarding Stars follows Hannah Brooks, portrayed by Meester, who is a trained bodyguard assigned to protect Hollywood action star Jack Stapleton, played by Padalecki, amid escalating threats.",
+          "The story takes the characters to a family ranch in Montana for Christmas where they pretend to be a couple, transforming a professional assignment into a classic enemies-to-lovers romance."
+        ]
+      },
+      {
+        "h": "Changes From The Source Novel",
+        "p": [
+          "The film is adapted from Katherine Center's bestselling novel titled The Bodyguard. Producers altered the original title to prevent confusion with the 1992 film starring Kevin Costner and Whitney Houston.",
+          "Additionally, the adaptation shifted the timeline from Thanksgiving to Christmas to lean further into holiday tropes like fake dating and forced proximity."
+        ]
+      },
+      {
+        "h": "Global Chart Dominance",
+        "p": [
+          "The romantic comedy easily outperformed other titles on the platform during its release window. Jessica Chastain's Heartland secured the second spot with 14.8 million views.",
+          "Meanwhile, the animated adventure Steps entered the rankings in third place, pulling in 11.4 million views during the same viewing cycle."
+        ]
+      },
+      {
+        "h": "Critical And Audience Reception",
+        "p": [
+          "Critical reviews for the feature were mixed, with a published critique awarding the movie a 5 out of 10 score while highlighting the chemistry between the two leads and noting a predictable storyline.",
+          "On Rotten Tomatoes, however, Guarding Stars achieved an 87 percent critics' score and a 72 percent audience score as of November 25, 2026."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Guarding Stars debuted at No. 1 on Netflix's global English-language movie chart for the week of November 16–22, 2026, pulling in 50.6 million hours watched during its first five days. The holiday romantic comedy stars Jared Padalecki and Leighton Meester, and is adapted from Katherine Center's bestselling novel The Bodyguard."
+        ]
+      }
+    ],
+    "facts": [
+      "Guarding Stars debuted at No. 1 on Netflix's global English-language movie chart for the week of November 16–22, 2026.",
+      "The movie accumulated 27.6 million views and 50.6 million hours watched during its first five days.",
+      "Heartland ranked second with 14.8 million views.",
+      "Steps debuted in third place with 11.4 million views.",
+      "As of November 25, 2026, Guarding Stars holds an 87% critics' score and a 72% audience score on Rotten Tomatoes."
+    ],
+    "entities": {
+      "people": [
+        "Jared Padalecki",
+        "Leighton Meester",
+        "Emma Gladstone",
+        "Kevin Costner",
+        "Whitney Houston",
+        "Andie MacDowell",
+        "Noah LaLonde",
+        "Walker Hayes",
+        "Toby Sandeman",
+        "CM Punk",
+        "Genevieve Padalecki",
+        "Jessica Chastain",
+        "Liz Declan",
+        "Katherine Center",
+        "Elizabeth Allen Rosenbaum",
+        "Richard Keith",
+        "Erin Cardillo"
+      ],
+      "titles": [
+        "Guarding Stars",
+        "Supernatural",
+        "Gilmore Girls",
+        "Walker",
+        "Friday the 13th",
+        "Gossip Girl",
+        "The Bodyguard",
+        "My Life with the Walter Boys",
+        "Heartland",
+        "Steps",
+        "Christmas Cottage",
+        "House of Wax",
+        "New York Minute"
+      ]
+    },
+    "keywords": [
+      "Guarding Stars Netflix",
+      "Jared Padalecki Guarding Stars",
+      "Leighton Meester movie",
+      "Guarding Stars streaming views"
+    ],
+    "images": [
+      {
+        "url": "https://static0.srcdn.com/wordpress/wp-content/uploads/2026/11/jared-padalecki-petting-a-horse-in-the-winter-in-guarding-stars.jpg?w=1600&amp;h=900&amp;fit=crop",
+        "caption": "Jared Padalecki And Leighton Meester Lead Netflix Rom-Com Guarding Stars To Massive Debut",
+        "source": "Screen Rant"
+      }
+    ],
+    "published": "Fri, 27 Nov 2026 02:00:18 GMT"
+  },
+  "1prvqpp": {
+    "id": "1prvqpp",
+    "type": "news",
+    "headline": "Bengali Actor Mimi Chakraborty Ties the Knot with Siddhartha Dutta in Kolkata Residence",
+    "dek": "Actor and former politician Mimi Chakraborty married Siddhartha Dutta in an intimate ceremony at her Kolkata home, with traditional celebrations planned in Kalimpong and Kolkata.",
+    "body": [
+      {
+        "h": "The Private Wedding Ceremony",
+        "p": [
+          "Bengali entertainment star and former Member of Parliament Mimi Chakraborty recently tied the knot with Siddhartha Dutta in an intimate gathering. The couple chose to complete their marriage formalities quietly at her personal residence in Kolkata rather than hosting a massive celebrity wedding.",
+          "To share the joy with her supporters, the actor posted photographs from the ceremony on social media on November 26. Only close friends and immediate family members were present to witness the low-key union."
+        ]
+      },
+      {
+        "h": "Relationship Background and Privacy",
+        "p": [
+          "Mimi has historically kept her romantic life entirely away from public scrutiny. Sources indicate that she and her husband initially met through a shared acquaintance, and their bond gradually blossomed from a simple friendship into a committed relationship.",
+          "Unlike his newlywed wife, Siddhartha operates completely outside the realm of the entertainment world. He is professionally associated with the Merchant Navy and maintains a low profile, avoiding public or media attention."
+        ]
+      },
+      {
+        "h": "Upcoming Traditional Celebrations",
+        "p": [
+          "Although the legal marriage formalities concluded during the Kolkata gathering, further celebrations are scheduled for December. Reports indicate that the festivities will shift to Kalimpong, featuring traditional rituals.",
+          "The timeline in Kalimpong reportedly starts with a cocktail and dinner event on December 3. This will be followed by traditional mehendi and sangeet functions on December 4, leading up to the main traditional wedding ceremony on December 5."
+        ]
+      },
+      {
+        "h": "Kolkata Reception Plans",
+        "p": [
+          "Following the events in Kalimpong, the newly married couple will return to host a special wedding reception in Kolkata. This upcoming gathering is anticipated to take place on December 11.",
+          "Family members, personal friends, and notable personalities from the Bengali film industry are expected to attend the reception to congratulate the couple on their new chapter."
+        ]
+      },
+      {
+        "h": "Mimi Chakraborty's Entertainment Career",
+        "p": [
+          "Mimi is a prominent figure in the Bengali entertainment industry, having built a robust career in regional cinema. She initially gained widespread recognition among television audiences through her starring role in the popular serial Gaaner Oparey.",
+          "Following her television success, she transitioned smoothly to the silver screen, starring in numerous Bengali feature films and establishing herself as a familiar and beloved face in regional cinema."
+        ]
+      },
+      {
+        "h": "Political Journey and Public Service",
+        "p": [
+          "Beyond her achievements in acting, Mimi also stepped into the political arena. She contested the 2019 Lok Sabha elections as a candidate representing the Trinamool Congress and successfully secured a victory from the Jadavpur constituency in West Bengal.",
+          "After serving her term representing the constituency, she ultimately chose to step down from her political responsibilities, submitting her resignation as an MP in February 2024."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Actor and former MP Mimi Chakraborty married Siddhartha Dutta in an intimate legal ceremony at her Kolkata residence on November 26. The couple plans to host further traditional wedding events in Kalimpong in December and a subsequent reception in Kolkata."
+        ]
+      }
+    ],
+    "facts": [
+      "Mimi Chakraborty married Siddhartha Dutta in a private ceremony at her Kolkata residence on November 26, 2026.",
+      "Siddhartha Dutta is associated with the Merchant Navy.",
+      "Traditional wedding celebrations are scheduled in Kalimpong on December 5, 2026, with pre-wedding events starting December 3.",
+      "A reception is expected to be held in Kolkata on December 11, 2026.",
+      "Mimi Chakraborty won the 2019 Lok Sabha elections from the Jadavpur constituency as a Trinamool Congress candidate and resigned as an MP in February 2024."
+    ],
+    "entities": {
+      "people": [
+        "Mimi Chakraborty",
+        "Siddhartha Dutta",
+        "Shweta Keshri"
+      ],
+      "titles": [
+        "Gaaner Oparey"
+      ]
+    },
+    "keywords": [
+      "Mimi Chakraborty wedding",
+      "Siddhartha Dutta marriage",
+      "Mimi Chakraborty husband",
+      "Bengali actor wedding Kolkata"
+    ],
+    "images": [
+      {
+        "url": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202611/mimi-chakraborty-273312947-16x9_0.jpg?VersionId=1vYB7FS.N2rQGlVDSpix7iwqjyRmltqu",
+        "caption": "Bengali Actor Mimi Chakraborty Ties the Knot with Siddhartha Dutta in Kolkata Residence",
+        "source": "India Today — Movies"
+      }
+    ],
+    "published": "Fri, 27 Nov 2026 09:05:51 +0530"
+  },
+  "1q5nh4n": {
+    "id": "1q5nh4n",
+    "type": "news",
+    "headline": "Exploring The Boroughs: Netflix's Near-Perfect Sci-Fi Series Worth Revisiting",
+    "dek": "A closer look at The Boroughs, the eight-episode sci-fi dark comedy on Netflix created by Jeffrey Addiss and Will Matthews that blends cozy mystery with a senior-citizen-led otherworldly threat.",
+    "body": [
+      {
+        "h": "The Premise and Creative Team",
+        "p": [
+          "The eight-episode streaming series The Boroughs presents a unique blend of cozy mystery elements and daring science fiction tropes. Created by Jeffrey Addiss and Will Matthews and executive produced by the Duffer Brothers, the show follows a grieving widower who relocates to what appears to be a tranquil retirement community.",
+          "Rather than focusing on younger protagonists, the narrative centers on an ensemble of older characters who take the lead in investigating unexplained occurrences. This approach subverts traditional genre conventions by placing a generation often overlooked in the sci-fi sandbox directly at the center of the mystery."
+        ]
+      },
+      {
+        "h": "Meet Sam Cooper and the Residents",
+        "p": [
+          "The story kicks off when Sam Cooper, a recently widowed retired aerospace engineer played by Alfred Molina, moves into the idealistic New Mexico retirement community known as The Boroughs. After noticing suspicious deaths and disappearances that local authorities choose to ignore, he uncovers an ominous threat operating behind the scenes.",
+          "Sam soon teams up with a misfit group of fellow residents to stop this otherworldly force that is harvesting their time and life force. Much like the underdogs in stories such as The Thursday Murder Club, these characters step up as fascinating and active protagonists rather than playing mere supportive mentors."
+        ]
+      },
+      {
+        "h": "Tackling Real-World Themes Through Sci-Fi",
+        "p": [
+          "The series does not shy away from the realities of aging, weaving topics like managing cancer medication, memory care concerns, and deep-seated grief directly into the action. These elements give the characters' daring journey an emotional weight that goes beyond standard genre storytelling.",
+          "When the residents pause to reflect on mortality, loneliness, and purpose, those themes are presented as universal realities. This thoughtful framing highlights the brilliance of creators Addiss and Matthews in grounding fantastical elements in genuine human experiences."
+        ]
+      },
+      {
+        "h": "Worldbuilding and Visual Design",
+        "p": [
+          "Filmed across the state of New Mexico, The Boroughs relies heavily on practical and technical worldbuilding to shape its distinct atmosphere. The central cul-de-sac was specifically crafted to feel warm and welcoming, establishing an immersive setting for the unfolding narrative.",
+          "At the same time, other areas of the community are imbued with a heavy sense of nostalgia. These spaces give the residents a reason to reminisce about their pasts while cleverly doubling as a means of emotional entrapment within the eerie environment."
+        ]
+      },
+      {
+        "h": "An Acclaimed Ensemble Cast",
+        "p": [
+          "Beyond its visuals, the show features a roster of heavy hitters bringing the senior-citizen sleuths to life. The acclaimed ensemble includes Alfred Molina, Geena Davis, Alfre Woodard, Bill Pullman, Clarke Peters, and Denis O'Hare, all anchoring the story with genuine heart.",
+          "Molina provides a grounded performance as the guarded Sam Cooper, while Davis leans into the cougar trope with notable enthusiasm as Renee. Meanwhile, Woodard and Peters share a complex, alluring relationship that offers emotional intimacy amidst the chaotic sci-fi events."
+        ]
+      },
+      {
+        "h": "Standout Performances and Supporting Roles",
+        "p": [
+          "Denis O'Hare delivers some of his finest work by bringing distinct nuance to an individual who recognizes that his end is near. Each member of the cast adds layers to a community forced to confront extraordinary circumstances.",
+          "Perhaps the most heartbreaking performance comes from Ed Begley Jr. as Edward, a man who resides in The Manor, which serves as the long-term care wing of the community."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "The eight-episode Netflix series The Boroughs, created by Jeffrey Addiss and Will Matthews and executive produced by the Duffer Brothers, follows a retired engineer and his fellow retirement community residents as they fight an otherworldly threat. Featuring an acclaimed cast including Alfred Molina, Geena Davis, and Alfre Woodard, the show combines cozy mystery tropes with deep explorations of aging and mortality."
+        ]
+      }
+    ],
+    "facts": [
+      "The Boroughs is an eight-episode series on Netflix.",
+      "The series was created by Jeffrey Addiss and Will Matthews.",
+      "The Duffer Brothers serve as executive producers.",
+      "Alfred Molina plays Sam Cooper, a recently widowed retired aerospace engineer.",
+      "Geena Davis plays Renee.",
+      "Ed Begley Jr. plays Edward at The Manor long-term care wing.",
+      "Other main cast members include Alfre Woodard, Bill Pullman, Clarke Peters, and Denis O'Hare.",
+      "The series was filmed across New Mexico."
+    ],
+    "entities": {
+      "people": [
+        "Michael Block",
+        "Jeffrey Addiss",
+        "Will Matthews",
+        "Sam Cooper",
+        "Alfred Molina",
+        "Geena Davis",
+        "Alfre Woodard",
+        "Bill Pullman",
+        "Clarke Peters",
+        "Denis O'Hare",
+        "Ed Begley Jr.",
+        "Edward",
+        "Wally",
+        "Judy",
+        "Renee",
+        "Seth Numrich",
+        "Alice Kremelberg",
+        "Paul Atreides",
+        "Captain Kirk",
+        "Princess Leia",
+        "Ellen Ripley",
+        "Max Rockatansky"
+      ],
+      "titles": [
+        "The Boroughs",
+        "Stranger Things",
+        "The Thursday Murder Club",
+        "Dune"
+      ]
+    },
+    "keywords": [
+      "The Boroughs Netflix",
+      "Jeffrey Addiss Will Matthews",
+      "Alfred Molina The Boroughs",
+      "The Boroughs sci-fi series"
+    ],
+    "images": [
+      {
+        "url": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/05/the-boroughs-netflix-art.png?w=1200&amp;h=675&amp;fit=crop",
+        "caption": "Exploring The Boroughs: Netflix's Near-Perfect Sci-Fi Series Worth Revisiting",
+        "source": "Collider"
+      }
+    ],
+    "published": "Fri, 27 Nov 2026 02:36:12 GMT"
   }
 };

@@ -38,6 +38,36 @@ window.FA_HOME_ARTICLES = {
     ],
     "published": "Fri, 27 Nov 2026 09:12:21 +0530"
   },
+  "1prvqpp": {
+    "id": "1prvqpp",
+    "type": "news",
+    "headline": "Bengali Actor Mimi Chakraborty Ties the Knot with Siddhartha Dutta in Kolkata Residence",
+    "dek": "Actor and former politician Mimi Chakraborty married Siddhartha Dutta in an intimate ceremony at her Kolkata home, with traditional celebrations planned in Kalimpong and Kolkata.",
+    "entities": {
+      "people": [
+        "Mimi Chakraborty",
+        "Siddhartha Dutta",
+        "Shweta Keshri"
+      ],
+      "titles": [
+        "Gaaner Oparey"
+      ]
+    },
+    "keywords": [
+      "Mimi Chakraborty wedding",
+      "Siddhartha Dutta marriage",
+      "Mimi Chakraborty husband",
+      "Bengali actor wedding Kolkata"
+    ],
+    "images": [
+      {
+        "url": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202611/mimi-chakraborty-273312947-16x9_0.jpg?VersionId=1vYB7FS.N2rQGlVDSpix7iwqjyRmltqu",
+        "caption": "Bengali Actor Mimi Chakraborty Ties the Knot with Siddhartha Dutta in Kolkata Residence",
+        "source": "India Today — Movies"
+      }
+    ],
+    "published": "Fri, 27 Nov 2026 09:05:51 +0530"
+  },
   "1glxc81": {
     "id": "1glxc81",
     "type": "news",
@@ -120,6 +150,58 @@ window.FA_HOME_ARTICLES = {
     ],
     "published": "2026-11-27T02:52:08Z"
   },
+  "1q5nh4n": {
+    "id": "1q5nh4n",
+    "type": "news",
+    "headline": "Exploring The Boroughs: Netflix's Near-Perfect Sci-Fi Series Worth Revisiting",
+    "dek": "A closer look at The Boroughs, the eight-episode sci-fi dark comedy on Netflix created by Jeffrey Addiss and Will Matthews that blends cozy mystery with a senior-citizen-led otherworldly threat.",
+    "entities": {
+      "people": [
+        "Michael Block",
+        "Jeffrey Addiss",
+        "Will Matthews",
+        "Sam Cooper",
+        "Alfred Molina",
+        "Geena Davis",
+        "Alfre Woodard",
+        "Bill Pullman",
+        "Clarke Peters",
+        "Denis O'Hare",
+        "Ed Begley Jr.",
+        "Edward",
+        "Wally",
+        "Judy",
+        "Renee",
+        "Seth Numrich",
+        "Alice Kremelberg",
+        "Paul Atreides",
+        "Captain Kirk",
+        "Princess Leia",
+        "Ellen Ripley",
+        "Max Rockatansky"
+      ],
+      "titles": [
+        "The Boroughs",
+        "Stranger Things",
+        "The Thursday Murder Club",
+        "Dune"
+      ]
+    },
+    "keywords": [
+      "The Boroughs Netflix",
+      "Jeffrey Addiss Will Matthews",
+      "Alfred Molina The Boroughs",
+      "The Boroughs sci-fi series"
+    ],
+    "images": [
+      {
+        "url": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/05/the-boroughs-netflix-art.png?w=1200&amp;h=675&amp;fit=crop",
+        "caption": "Exploring The Boroughs: Netflix's Near-Perfect Sci-Fi Series Worth Revisiting",
+        "source": "Collider"
+      }
+    ],
+    "published": "Fri, 27 Nov 2026 02:36:12 GMT"
+  },
   "1rc3v67": {
     "id": "1rc3v67",
     "type": "news",
@@ -165,6 +247,98 @@ window.FA_HOME_ARTICLES = {
       }
     ],
     "published": "Fri, 27 Nov 2026 07:45:27 +0530"
+  },
+  "1s6q6of": {
+    "id": "1s6q6of",
+    "type": "news",
+    "headline": "Shah Rukh Khan's Upcoming Project 'King' Rumored to Feature an Extended Runtime",
+    "dek": "Recent listings from American ticketing platforms indicate that the action-packed movie directed by Siddharth Anand might cross the three-hour threshold.",
+    "entities": {
+      "people": [
+        "Shah Rukh Khan",
+        "Siddharth Anand",
+        "Suhana Khan",
+        "Deepika Padukone",
+        "Abhishek Bachchan",
+        "Karan Johar"
+      ],
+      "titles": [
+        "King",
+        "Kabhi Alvida Naa Kehna",
+        "Pathaan",
+        "Jawan"
+      ]
+    },
+    "keywords": [
+      "King film runtime",
+      "Shah Rukh Khan King movie",
+      "Siddharth Anand King cast",
+      "King release date"
+    ],
+    "images": [
+      {
+        "url": "https://static.toiimg.com/thumb/msid-136207040,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "caption": "Shah Rukh Khan's Upcoming Project 'King' Rumored to Feature an Extended Runtime",
+        "source": "Times of India — Entertainment"
+      }
+    ],
+    "published": "2026-11-27T07:38:13+05:30"
+  },
+  "tlwzlh": {
+    "id": "tlwzlh",
+    "type": "news",
+    "headline": "Jared Padalecki And Leighton Meester Lead Netflix Rom-Com Guarding Stars To Massive Debut",
+    "dek": "The holiday romantic comedy Guarding Stars secures the top spot on Netflix with impressive viewership numbers and strong Rotten Tomatoes scores.",
+    "entities": {
+      "people": [
+        "Jared Padalecki",
+        "Leighton Meester",
+        "Emma Gladstone",
+        "Kevin Costner",
+        "Whitney Houston",
+        "Andie MacDowell",
+        "Noah LaLonde",
+        "Walker Hayes",
+        "Toby Sandeman",
+        "CM Punk",
+        "Genevieve Padalecki",
+        "Jessica Chastain",
+        "Liz Declan",
+        "Katherine Center",
+        "Elizabeth Allen Rosenbaum",
+        "Richard Keith",
+        "Erin Cardillo"
+      ],
+      "titles": [
+        "Guarding Stars",
+        "Supernatural",
+        "Gilmore Girls",
+        "Walker",
+        "Friday the 13th",
+        "Gossip Girl",
+        "The Bodyguard",
+        "My Life with the Walter Boys",
+        "Heartland",
+        "Steps",
+        "Christmas Cottage",
+        "House of Wax",
+        "New York Minute"
+      ]
+    },
+    "keywords": [
+      "Guarding Stars Netflix",
+      "Jared Padalecki Guarding Stars",
+      "Leighton Meester movie",
+      "Guarding Stars streaming views"
+    ],
+    "images": [
+      {
+        "url": "https://static0.srcdn.com/wordpress/wp-content/uploads/2026/11/jared-padalecki-petting-a-horse-in-the-winter-in-guarding-stars.jpg?w=1600&amp;h=900&amp;fit=crop",
+        "caption": "Jared Padalecki And Leighton Meester Lead Netflix Rom-Com Guarding Stars To Massive Debut",
+        "source": "Screen Rant"
+      }
+    ],
+    "published": "Fri, 27 Nov 2026 02:00:18 GMT"
   },
   "vopqak": {
     "id": "vopqak",
@@ -4568,174 +4742,6 @@ window.FA_HOME_ARTICLES = {
       }
     ],
     "published": "2026-11-25T22:53:11Z"
-  },
-  "jfkg37": {
-    "id": "jfkg37",
-    "type": "news",
-    "headline": "Bob Odenkirk's Action Thriller Normal Becomes a Massive Streaming Hit",
-    "dek": "After struggling during its theatrical run, the 91-minute genre picture starring Bob Odenkirk finds new life and climbs global streaming charts on HBO Max.",
-    "entities": {
-      "people": [
-        "Bob Odenkirk",
-        "Ben Wheatley",
-        "Derek Kolstad",
-        "Lena Headey",
-        "Henry Winkler",
-        "Brendan Fletcher",
-        "Billy MacLellan",
-        "David Leitch"
-      ],
-      "titles": [
-        "Normal",
-        "Nobody",
-        "Meg 2: The Trench",
-        "Kill List",
-        "Better Call Saul",
-        "The Hunger Games",
-        "The End of Oak Street",
-        "The Super Mario Galaxy Movie",
-        "Insidious: Out of the Further",
-        "Cocaine Bear",
-        "The Hunger Games: Catching Fire",
-        "The Mule",
-        "The Hunger Games: Mockingjay – Part 1",
-        "Matilda"
-      ]
-    },
-    "keywords": [
-      "Normal film",
-      "Bob Odenkirk Normal",
-      "Ben Wheatley Normal",
-      "Derek Kolstad Normal"
-    ],
-    "images": [
-      {
-        "url": "https://static0.moviewebimages.com/wordpress/wp-content/uploads/2026/08/bob-odenkirk-holds-a-shotgun-in-normal.jpg?w=1600&amp;h=900&amp;fit=crop",
-        "caption": "Bob Odenkirk's Action Thriller Normal Becomes a Massive Streaming Hit",
-        "source": "MovieWeb"
-      }
-    ],
-    "published": "Wed, 25 Nov 2026 22:31:17 GMT"
-  },
-  "6kq0fc": {
-    "id": "6kq0fc",
-    "type": "news",
-    "headline": "Park Min Young and Yook Sung Jae's New Series 'Nine to Six' Debuts with Solid Ratings",
-    "dek": "The much-anticipated office romantic comedy starring Park Min Young and Yook Sung Jae officially launched on SBS, capturing a steady initial viewership across South Korea.",
-    "entities": {
-      "people": [
-        "Park Min Young",
-        "Yook Sung Jae"
-      ],
-      "titles": [
-        "Nine to Six",
-        "Kick a Goal"
-      ]
-    },
-    "keywords": [
-      "Nine to Six",
-      "Park Min Young Nine to Six",
-      "Yook Sung Jae Nine to Six",
-      "Nine to Six premiere ratings"
-    ],
-    "images": [
-      {
-        "url": "https://i.mydramalist.com/onn60v_2d.jpg",
-        "caption": "Park Min Young and Yook Sung Jae's New Series 'Nine to Six' Debuts with Solid Ratings",
-        "source": "MyDramaList"
-      }
-    ],
-    "published": "Wed, 25 Nov 2026 22:29:56 +0000"
-  },
-  "1y0q4ba": {
-    "id": "1y0q4ba",
-    "type": "news",
-    "headline": "Ramayana Surpasses Pushpa 2 With Massive Worldwide Collections",
-    "dek": "The mythological epic Ramayana crosses a major global milestone by overtaking the lifetime earnings of Pushpa 2 after twenty-one days in theatres.",
-    "entities": {
-      "people": [
-        "Ranbir Kapoor",
-        "Sai Pallavi",
-        "Yash",
-        "Nitesh Tiwari",
-        "Arun Govil",
-        "Lara Dutta",
-        "Rakul Preet Singh",
-        "Ravi Dubey",
-        "Allu Arjun"
-      ],
-      "titles": [
-        "Ramayana",
-        "Pushpa 2",
-        "KGF",
-        "Dhurandhar 2",
-        "Jawan",
-        "Pathaan",
-        "KGF Chapter 2",
-        "Dangal",
-        "Baahubali 2"
-      ]
-    },
-    "keywords": [
-      "Ramayana film",
-      "Ramayana box office",
-      "Ramayana Pushpa 2 collection",
-      "Ranbir Kapoor Ramayana"
-    ],
-    "images": [
-      {
-        "url": "https://images.filmibeat.com/img/2026/11/ramayanawwday21feature-65391795645039.jpg",
-        "caption": "Ramayana Surpasses Pushpa 2 With Massive Worldwide Collections",
-        "source": "FilmiBeat"
-      }
-    ],
-    "published": "Thu, 26 Nov 2026 03:48:43 +0530"
-  },
-  "1nrvvmj": {
-    "id": "1nrvvmj",
-    "type": "news",
-    "headline": "Ramayana Box Office Collection Day 21: Nitesh Tiwari's mythological epic completes three weeks in theatres",
-    "dek": "Ranbir Kapoor, Sai Pallavi and Yash star in the high-profile mythological production Ramayana, which has completed twenty-one days of its theatrical run while approaching the milestone of one thousand crore rupees domestically.",
-    "entities": {
-      "people": [
-        "Nitesh Tiwari",
-        "Ranbir Kapoor",
-        "Sai Pallavi",
-        "Yash",
-        "Namit Malhotra",
-        "Arun Govil",
-        "Lara Dutta",
-        "Rakul Preet Singh",
-        "Vivek Oberoi",
-        "Sunny Deol",
-        "Ravi Dubey",
-        "Sumit Kadel",
-        "Rajiv Kuumar",
-        "Addinath",
-        "Ravie",
-        "Indiraji"
-      ],
-      "titles": [
-        "Ramayana",
-        "Hanuman Ansh",
-        "Mahavatar Narasimha",
-        "Kantara"
-      ]
-    },
-    "keywords": [
-      "Ramayana box office collection",
-      "Ramayana day 21 collection",
-      "Ranbir Kapoor Ramayana movie",
-      "Ramayana week 3 collection"
-    ],
-    "images": [
-      {
-        "url": "https://images.filmibeat.com/img/2026/11/ramayanaday21feature-40161795642660.jpg",
-        "caption": "Ramayana Box Office Collection Day 21: Nitesh Tiwari's mythological epic completes three weeks in theatres",
-        "source": "FilmiBeat"
-      }
-    ],
-    "published": "Thu, 26 Nov 2026 03:09:49 +0530"
   },
   "1ihedvj": {
     "id": "1ihedvj",
