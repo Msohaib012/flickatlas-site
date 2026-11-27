@@ -35,6 +35,120 @@ window.FA_HOME_ARTICLES = {
     ],
     "published": "Fri, 27 Nov 2026 13:23:42 +0200"
   },
+  "evoito": {
+    "id": "evoito",
+    "type": "news",
+    "headline": "Elijah Wood Slams AI Hoax Images Circulating Online for The Hunt for Gollum",
+    "dek": "The original Frodo Baggins actor stepped up to debunk artificial intelligence mock-ups that falsely claimed to reveal cast members in costume for the upcoming Middle-earth prequel.",
+    "entities": {
+      "people": [
+        "Elijah Wood",
+        "Lee Pace",
+        "Ian McKellen",
+        "Jamie Dornan",
+        "Anya Taylor-Joy",
+        "Andy Serkis",
+        "Viggo Mortensen",
+        "Robert Downey Jr.",
+        "Joe Russo",
+        "Fay Watson"
+      ],
+      "titles": [
+        "The Lord of the Rings: The Hunt for Gollum",
+        "Avengers: Secret Wars",
+        "Avengers: Doomsday",
+        "Shang-Chi",
+        "The Last of Us 2",
+        "Baldur's Gate 3",
+        "Grand Theft Auto 6"
+      ]
+    },
+    "keywords": [
+      "The Lord of the Rings: The Hunt for Gollum",
+      "Elijah Wood",
+      "Andy Serkis",
+      "Ian McKellen",
+      "Jamie Dornan"
+    ],
+    "images": [
+      {
+        "url": "https://cdn.mos.cms.futurecdn.net/XSsMwu2non8bLixydWnESi-1920-80.jpg",
+        "caption": "Elijah Wood Slams AI Hoax Images Circulating Online for The Hunt for Gollum",
+        "source": "Total Film (GamesRadar)"
+      }
+    ],
+    "published": "Fri, 27 Nov 2026 10:47:52 +0000"
+  },
+  "rojvph": {
+    "id": "rojvph",
+    "type": "news",
+    "headline": "Classic Television Thanksgiving Episodes to Binge-Watch This Holiday Season",
+    "dek": "Explore a curated list of iconic Thanksgiving-themed episodes from beloved television series including Friends, Modern Family, and Bewitched, perfect for holiday viewing.",
+    "entities": {
+      "people": [
+        "Keri Russell",
+        "H. Jon Benjamin"
+      ],
+      "titles": [
+        "Modern Family",
+        "Bewitched",
+        "Friends",
+        "Bob's Burgers",
+        "Felicity",
+        "Fresh Off the Boat",
+        "It's Always Sunny in Philadelphia"
+      ]
+    },
+    "keywords": [
+      "Friends Thanksgiving episodes",
+      "Modern Family Three Turkeys",
+      "Bewitched Samanthas Thanksgiving to Remember",
+      "bops burgers Turkey in a Can"
+    ],
+    "images": [
+      {
+        "url": "https://static.toiimg.com/thumb/msid-136216564,width-1280,height-720,imgsize-28964,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "caption": "Classic Television Thanksgiving Episodes to Binge-Watch This Holiday Season",
+        "source": "Times of India — Entertainment"
+      }
+    ],
+    "published": "2026-11-27T16:00:00+05:30"
+  },
+  "9fsfn6": {
+    "id": "9fsfn6",
+    "type": "news",
+    "headline": "New God of War Game and Board Game Headed for 2027 Releases",
+    "dek": "The acclaimed God of War franchise is expanding with a new video game starring Laufey and a tabletop adaptation featuring Kratos and Atreus.",
+    "entities": {
+      "people": [
+        "Kratos",
+        "Atreus",
+        "Laufey",
+        "James Lynch"
+      ],
+      "titles": [
+        "God of War",
+        "God of War Ragnarok",
+        "God of War Laufey",
+        "God of War: The Board Game"
+      ]
+    },
+    "keywords": [
+      "God of War Laufey",
+      "God of War: The Board Game",
+      "God of War PlayStation 5",
+      "Kratos and Atreus game",
+      "Cool Minis Great Games God of War"
+    ],
+    "images": [
+      {
+        "url": "https://static0.srcdn.com/wordpress/wp-content/uploads/2026/03/kratos-and-atreus-in-god-of-war.jpg?w=1600&amp;h=900&amp;fit=crop",
+        "caption": "New God of War Game and Board Game Headed for 2027 Releases",
+        "source": "Screen Rant"
+      }
+    ],
+    "published": "Fri, 27 Nov 2026 10:21:32 GMT"
+  },
   "15qn8zc": {
     "id": "15qn8zc",
     "type": "news",
@@ -127,6 +241,55 @@ window.FA_HOME_ARTICLES = {
       }
     ],
     "published": "2026-11-27T09:51:50Z"
+  },
+  "qorrxw": {
+    "id": "qorrxw",
+    "type": "news",
+    "headline": "Mumbai and Pune Gear Up for a Packed Season of Music Festivals, Concerts, and Culinary Events",
+    "dek": "From neighborhood community celebrations and international hip-hop heavyweights to massive food trails and artist tours, the entertainment calendar across Mumbai and Pune runs from late November through mid-December.",
+    "entities": {
+      "people": [
+        "Diljit Dosanjh",
+        "Fred again..",
+        "Ankur Tewari",
+        "Karan Kanchan",
+        "Burna Boy",
+        "Metro Boomin",
+        "Big Sean",
+        "Gunna",
+        "ScHoolboy Q",
+        "Karan Aujla",
+        "Prahlad Singh Tipaniya",
+        "Raghav Chaitanya",
+        "Chef Shyam"
+      ],
+      "titles": [
+        "Olly Fest",
+        "The Great Indian Feast Trail",
+        "Aura India Tour",
+        "Mehfil-e-Kebab",
+        "The Lil Flea",
+        "Aarey Music Festival",
+        "Rolling Loud India",
+        "Kitty Party India Tour",
+        "Global Swasthyam"
+      ]
+    },
+    "keywords": [
+      "Diljit Dosanjh Mumbai concert",
+      "Rolling Loud India Navi Mumbai",
+      "Fred again India tour",
+      "Olly Fest Bandra",
+      "The Lil Flea Mumbai"
+    ],
+    "images": [
+      {
+        "url": "https://www.hindustantimes.com/ht-img/img/2026/11/27/1600x900/logo/Mum_Pune_events_1795772183006_grEu_1795772183328_1vBd_0f0b85a6-4dea-4511-917f-7790eb85c2d6_jcbN.jpg",
+        "caption": "Mumbai and Pune Gear Up for a Packed Season of Music Festivals, Concerts, and Culinary Events",
+        "source": "Hindustan Times — Entertainment"
+      }
+    ],
+    "published": "Fri, 27 Nov 2026 15:19:14 +0530"
   },
   "1n3eixx": {
     "id": "1n3eixx",
@@ -4496,158 +4659,6 @@ window.FA_HOME_ARTICLES = {
       }
     ],
     "published": "2026-11-26T03:00:40Z"
-  },
-  "eabziq": {
-    "id": "eabziq",
-    "type": "news",
-    "headline": "Ravi Kishan Shares Startling Memories Of Parental Opposition To Acting On Koffee With Karan Season 9",
-    "dek": "Actor-politician Ravi Kishan opened up on Koffee With Karan Season 9 about facing extreme resistance from his father over his theatre ambitions, while co-guest Akshay Kumar explained why he wanted him on the couch.",
-    "entities": {
-      "people": [
-        "Ravi Kishan",
-        "Akshay Kumar",
-        "Karan Johar"
-      ],
-      "titles": [
-        "Koffee With Karan"
-      ]
-    },
-    "keywords": [
-      "Ravi Kishan Koffee With Karan",
-      "Akshay Kumar Koffee With Karan",
-      "Ravi Kishan father acting dreams",
-      "Koffee With Karan Season 9"
-    ],
-    "images": [
-      {
-        "url": "https://images.timesnownews.com/thumb/msid-156566083,thumbsize-342978,width-1280,height-720,resizemode-75/156566083.jpg",
-        "caption": "Ravi Kishan Shares Startling Memories Of Parental Opposition To Acting On Koffee With Karan Season 9",
-        "source": "Times Now — Entertainment"
-      }
-    ],
-    "published": "2026-11-26T03:00:40Z"
-  },
-  "1kf4lpf": {
-    "id": "1kf4lpf",
-    "type": "news",
-    "headline": "Sam Rockwell's Newest Project Wild Horse Nine Suffers Major Theater Cut",
-    "dek": "Martin McDonagh's latest dark comedy film loses a massive chunk of its theatrical footprint heading into its fourth week.",
-    "entities": {
-      "people": [
-        "Sam Rockwell",
-        "Martin McDonagh",
-        "John Malkovich",
-        "Colin Farrell",
-        "Brendan Gleeson"
-      ],
-      "titles": [
-        "Wild Horse Nine",
-        "Three Billboards Outside Ebbing, Missouri",
-        "Seven Psychopaths",
-        "The Banshees of Inisherin"
-      ]
-    },
-    "keywords": [
-      "Wild Horse Nine film",
-      "Sam Rockwell Wild Horse Nine",
-      "Martin McDonagh Wild Horse Nine",
-      "Wild Horse Nine box office"
-    ],
-    "images": [
-      {
-        "url": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/10/wild-horse-nine.jpg?w=1600&amp;h=900&amp;fit=crop",
-        "caption": "Sam Rockwell's Newest Project Wild Horse Nine Suffers Major Theater Cut",
-        "source": "Collider"
-      }
-    ],
-    "published": "Thu, 26 Nov 2026 03:00:22 GMT"
-  },
-  "1e6xetq": {
-    "id": "1e6xetq",
-    "type": "news",
-    "headline": "O.M: Operation Mole Crosses 106 Crore Worldwide in Six Days",
-    "dek": "Dhanush and Mammootty's spy action thriller continues its theatrical run, crossing a major global milestone despite a domestic weekday dip.",
-    "entities": {
-      "people": [
-        "Dhanush",
-        "Mammootty",
-        "Sai Pallavi",
-        "Sreeleela",
-        "Naseeruddin Shah",
-        "Indrans",
-        "Rajkumar Periasamy",
-        "Sai Abhyankkar",
-        "Ezhil Arasu K",
-        "R. Kalaivanan"
-      ],
-      "titles": [
-        "O.M: Operation Mole",
-        "OM Chapter 1: Udhiram - The Blood Wood"
-      ]
-    },
-    "keywords": [
-      "OM Operation Mole box office",
-      "Dhanush Mammootty movie",
-      "OM India net collection",
-      "Rajkumar Periasamy film"
-    ],
-    "images": [
-      {
-        "url": "https://images.filmibeat.com/img/2026/11/om-13351795661855.jpg",
-        "caption": "O.M: Operation Mole Crosses 106 Crore Worldwide in Six Days",
-        "source": "FilmiBeat"
-      }
-    ],
-    "published": "Thu, 26 Nov 2026 08:28:25 +0530"
-  },
-  "1pill6": {
-    "id": "1pill6",
-    "type": "news",
-    "headline": "Exploring the Top Adult-Oriented Television Series Available to Stream Now",
-    "dek": "A look at compelling television projects that combine mature themes, intricate storytelling, and high-stakes romance across different streaming platforms.",
-    "entities": {
-      "people": [
-        "Michael Block",
-        "Karyn Usher",
-        "Lisa Zwerling",
-        "Catherine Ryan Howard",
-        "Dove Cameron",
-        "Avan Jogia",
-        "Karla Souza",
-        "Dorian Missick",
-        "Julia Quinn",
-        "Julie Andrews",
-        "Chris Van Dusen",
-        "Jonathan Bailey",
-        "Simone Ashley",
-        "Regé-Page"
-      ],
-      "titles": [
-        "56 Days",
-        "Bridgerton",
-        "Drag Race",
-        "Dragula",
-        "Survivor",
-        "Stranger Things",
-        "Emily in Paris",
-        "Wednesday",
-        "Squid Game"
-      ]
-    },
-    "keywords": [
-      "56 Days series",
-      "Bridgerton Netflix",
-      "Dove Cameron 56 Days",
-      "Avan Jogia 56 Days"
-    ],
-    "images": [
-      {
-        "url": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/02/bridgerton-ruth-gemmell-daniel-francis.jpg?w=1600&amp;h=900&amp;fit=crop",
-        "caption": "Exploring the Top Adult-Oriented Television Series Available to Stream Now",
-        "source": "Collider"
-      }
-    ],
-    "published": "Thu, 26 Nov 2026 02:57:12 GMT"
   },
   "1ihedvj": {
     "id": "1ihedvj",

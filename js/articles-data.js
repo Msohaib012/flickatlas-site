@@ -262878,5 +262878,413 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "2026-11-27T09:51:50Z"
+  },
+  "qorrxw": {
+    "id": "qorrxw",
+    "type": "news",
+    "headline": "Mumbai and Pune Gear Up for a Packed Season of Music Festivals, Concerts, and Culinary Events",
+    "dek": "From neighborhood community celebrations and international hip-hop heavyweights to massive food trails and artist tours, the entertainment calendar across Mumbai and Pune runs from late November through mid-December.",
+    "body": [
+      {
+        "h": "Celebrating Neighborhood Culture at Olly Fest",
+        "p": [
+          "The second edition of Olly Fest has arrived in Bandra under the evocative theme 'Bandra as We Knew It'. Spanning three days from November 27 to November 29, the neighborhood festival honors local musical roots and community ties across iconic venues like The Bandra Gymkhana and DPRC.",
+          "Audiences can catch live sets from acts such as Trance Effect, Parikrama, The Rudy Wallang Band, and Gary Lawyer. Additionally, an After Hours series hosted at East Indian Hall features late-evening performances by KAPOW!, Music Unltd., and The Atul Ahuja Band."
+        ]
+      },
+      {
+        "h": "Culinary Extravaganzas and Food Trails",
+        "p": [
+          "Food enthusiasts have multiple immersive experiences to explore, starting with The Great Indian Feast Trail at Jio World Garden in BKC. Featuring thirteen themed zones, over one hundred stalls, and more than four hundred dishes, the culinary fest is paired with live performances from artists like Ankur Tewari and Kabir Cafe.",
+          "Simultaneously, The Orchid Hotel in Vile Parle is hosting a royal Awadhi food festival titled Mehfil-e-Kebab. Curated by Chef Shyam at the rooftop restaurant Mostly Grills, the dining experience offers traditional delicacies like Tunde Kebab, Nalli Nihari, and Dum Pukht Lucknowi Murgh Biryani alongside live Sufi music."
+        ]
+      },
+      {
+        "h": "Star-Studded Tours and Major Headliners",
+        "p": [
+          "Renowned Punjabi artist Diljit Dosanjh brings his celebrated Aura India Tour to the Mahalaxmi Racecourse, performing his biggest tracks for fans. Meanwhile, British electronic music producer and DJ Fred again.. is scheduled to make his much-anticipated India debut with a two-night outing at the same venue in early December.",
+          "In Pune, music producer and DJ Karan Kanchan stops by Xclusive Superclub for his Kitty Party India Tour, bringing his signature electronic and hip-hop sounds to local audiences for a late-night set."
+        ]
+      },
+      {
+        "h": "Shopping, Art, and Community Gatherings",
+        "p": [
+          "The popular lifestyle and pop-culture market, The Lil Flea, returns to Jio World Garden for a weekend packed with independent brands, artisanal desserts, and interactive workshops. Over four hundred homegrown brands and fifteen live musical acts anchor the three-day shopping destination.",
+          "For a community-led cultural experience, the second edition of the Aarey Music Festival takes over the Aarey Open-Air Amphitheatre in Goregaon East. Featuring artists like Prahlad Singh Tipaniya and Mooralala Marwada, the three-day gathering offers free entry through prior registration."
+        ]
+      },
+      {
+        "h": "International Hip-Hop and Wellness Showcases",
+        "p": [
+          "Global hip-hop makes a massive splash as Rolling Loud India hosts its second edition at Loud Park in Kharghar, Navi Mumbai. Headliners such as Burna Boy, Metro Boomin, Big Sean, and Gunna share the stage with regional powerhouses like Karan Aujla, Seedhe Maut, and Raja Kumari.",
+          "Shifting gears toward holistic wellness and classical tradition, Global Swasthyam takes over Pandit Farms in Karve Nagar, Pune. The gathering blends folk music experiences like The Folk Aakhyan with live performances by singer Raghav Chaitanya."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Mumbai and Pune are hosting an extensive lineup of live concerts, cultural festivals, food trails, and indie showcases from late November through mid-December. Major highlights span international music headliners, neighborhood heritage gatherings, and prominent culinary pop-ups across both cities."
+        ]
+      }
+    ],
+    "facts": [
+      "Olly Fest runs from November 27 to November 29.",
+      "The Great Indian Feast Trail takes place at Jio World Garden in BKC.",
+      "Diljit Dosanjh performs at Mahalaxmi Racecourse on November 27.",
+      "Mehfil-e-Kebab runs from November 26 to December 6 at The Orchid Hotel.",
+      "The Lil Flea runs from December 4 to December 6.",
+      "Fred again.. performs his India debut in Mumbai on December 8 and December 9.",
+      "Aarey Music Festival runs from December 11 to December 13.",
+      "Rolling Loud India takes place from December 12 to December 13 at Loud Park in Kharghar, Navi Mumbai.",
+      "Karan Kanchan performs in Pune on November 27.",
+      "Global Swasthyam runs from December 4 to December 6 at Pandit Farms in Pune."
+    ],
+    "entities": {
+      "people": [
+        "Diljit Dosanjh",
+        "Fred again..",
+        "Ankur Tewari",
+        "Karan Kanchan",
+        "Burna Boy",
+        "Metro Boomin",
+        "Big Sean",
+        "Gunna",
+        "ScHoolboy Q",
+        "Karan Aujla",
+        "Prahlad Singh Tipaniya",
+        "Raghav Chaitanya",
+        "Chef Shyam"
+      ],
+      "titles": [
+        "Olly Fest",
+        "The Great Indian Feast Trail",
+        "Aura India Tour",
+        "Mehfil-e-Kebab",
+        "The Lil Flea",
+        "Aarey Music Festival",
+        "Rolling Loud India",
+        "Kitty Party India Tour",
+        "Global Swasthyam"
+      ]
+    },
+    "keywords": [
+      "Diljit Dosanjh Mumbai concert",
+      "Rolling Loud India Navi Mumbai",
+      "Fred again India tour",
+      "Olly Fest Bandra",
+      "The Lil Flea Mumbai"
+    ],
+    "images": [
+      {
+        "url": "https://www.hindustantimes.com/ht-img/img/2026/11/27/1600x900/logo/Mum_Pune_events_1795772183006_grEu_1795772183328_1vBd_0f0b85a6-4dea-4511-917f-7790eb85c2d6_jcbN.jpg",
+        "caption": "Mumbai and Pune Gear Up for a Packed Season of Music Festivals, Concerts, and Culinary Events",
+        "source": "Hindustan Times — Entertainment"
+      }
+    ],
+    "published": "Fri, 27 Nov 2026 15:19:14 +0530"
+  },
+  "9fsfn6": {
+    "id": "9fsfn6",
+    "type": "news",
+    "headline": "New God of War Game and Board Game Headed for 2027 Releases",
+    "dek": "The acclaimed God of War franchise is expanding with a new video game starring Laufey and a tabletop adaptation featuring Kratos and Atreus.",
+    "body": [
+      {
+        "h": "A New Direction for the Franchise",
+        "p": [
+          "The iconic God of War series is preparing for a major shift by stepping away from its traditional protagonist. For the very first time, a main installment in the franchise will feature Laufey taking the lead role instead of Kratos.",
+          "Although the project faced a minor delay, the upcoming title is officially scheduled to launch for the PlayStation 5, offering fans an entirely fresh perspective on the universe without the familiar influence of Kratos at the forefront."
+        ]
+      },
+      {
+        "h": "The Success of the Modern Era",
+        "p": [
+          "The most recent era of the God of War series has achieved incredible success, largely driven by the deeply emotional connection between Kratos and his son, Atreus. Their dynamic resonated strongly with players around the world.",
+          "While it remains unconfirmed whether Kratos and Atreus will headline another digital video game together in the future, alternative mediums are stepping in to help bridge the gap for dedicated fans."
+        ]
+      },
+      {
+        "h": "Tabletop Adventure via Crowdfunding",
+        "p": [
+          "For enthusiasts looking to experience cooperative adventures, Cool Minis, Great Games has opened crowdfunding pages for God of War: The Board Game. The physical adaptation brings the franchise directly to tabletops.",
+          "Designed to accommodate a very manageable one to two players, the tabletop release sidesteps the usual logistical hurdles of organizing large gaming groups, functioning as an immersive dungeon crawler inspired by the reboot era."
+        ]
+      },
+      {
+        "h": "Gameplay and Mechanics",
+        "p": [
+          "God_of_War:_The_Board_Game draws its themes and mechanics straight from the acclaimed video game series. It emphasizes the critical importance of teamwork and cooperation that mirrored the relationship between Kratos and Atreus.",
+          "The experience introduces an innovative Synergy System, compelling participants to strategize effectively together in order to overcome daunting challenges, fierce foes, and achieve ultimate victory."
+        ]
+      },
+      {
+        "h": "Narrative Premise of the Tabletop Game",
+        "p": [
+          "The official description outlines a narrative where Faye’s final wishes are fulfilled, allowing the characters to confront the truth, share their vulnerabilities, and bond over past experiences while facing an uncertain future together.",
+          "With winter persisting endlessly, father and son realize their worries remain far from over. The boy must mature under the guidance of a father struggling to forgive his past, marking the true beginning of their training."
+        ]
+      },
+      {
+        "h": "A Generational Spring in 2027",
+        "p": [
+          "Long-time fans will find plenty of familiar elements drawing directly from the events of the core titles. Following regular updates from the development team, the tabletop project is set to launch during the second quarter of 2027.",
+          "Because the video game God of War Laufey is slated to drop on May 20, 2027, enthusiasts of the franchise have a remarkably busy and generational spring season to look forward to overall."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "The God of War franchise is expanding in 2027 with both a new PlayStation 5 video game starring Laufey and a cooperative tabletop adaptation focusing on Kratos and Atreus. Together, these releases offer fans multiple ways to engage with the beloved series during a major spring launch window."
+        ]
+      }
+    ],
+    "facts": [
+      "God of War Laufey is releasing on May 20, 2027.",
+      "God of War Laufey is coming to the PlayStation 5.",
+      "God of War: The Board Game is published by Cool Minis, Great Games.",
+      "God of War: The Board Game is designed for 1-2 players.",
+      "God of War: The Board Game is set to launch in the second quarter of 2027."
+    ],
+    "entities": {
+      "people": [
+        "Kratos",
+        "Atreus",
+        "Laufey",
+        "James Lynch"
+      ],
+      "titles": [
+        "God of War",
+        "God of War Ragnarok",
+        "God of War Laufey",
+        "God of War: The Board Game"
+      ]
+    },
+    "keywords": [
+      "God of War Laufey",
+      "God of War: The Board Game",
+      "God of War PlayStation 5",
+      "Kratos and Atreus game",
+      "Cool Minis Great Games God of War"
+    ],
+    "images": [
+      {
+        "url": "https://static0.srcdn.com/wordpress/wp-content/uploads/2026/03/kratos-and-atreus-in-god-of-war.jpg?w=1600&amp;h=900&amp;fit=crop",
+        "caption": "New God of War Game and Board Game Headed for 2027 Releases",
+        "source": "Screen Rant"
+      }
+    ],
+    "published": "Fri, 27 Nov 2026 10:21:32 GMT"
+  },
+  "rojvph": {
+    "id": "rojvph",
+    "type": "news",
+    "headline": "Classic Television Thanksgiving Episodes to Binge-Watch This Holiday Season",
+    "dek": "Explore a curated list of iconic Thanksgiving-themed episodes from beloved television series including Friends, Modern Family, and Bewitched, perfect for holiday viewing.",
+    "body": [
+      {
+        "h": "Introduction to Holiday Television Traditions",
+        "p": [
+          "As the autumn holiday season approaches, viewers often search for festive programming to celebrate the occasion. While feature films centered specifically around Thanksgiving are relatively rare, many popular television shows embrace the holiday spirit by exploring complex family dynamics over a traditional turkey dinner.",
+          "From vintage sitcoms to modern comedy favorites, several iconic series have crafted memorable holiday specials that capture both the warmth and the chaos of family gatherings. Binge-watching these classic episodes has become a comforting seasonal ritual for many households looking to get into the holiday mood."
+        ]
+      },
+      {
+        "h": "Time Travel in Plymouth With Bewitched",
+        "p": [
+          "Among the classic selections, the fantasy sitcom Bewitched features a memorable holiday outing in its fourth season. Titled 'Samantha’s Thanksgiving to Remember,' the twelfth episode of the season showcases the chaotic nature of magical interventions during family events.",
+          "The plot revolves around Aunt Clara's clumsy magic, which accidentally transports Samantha, Darrin, Tabitha, and their neighbor Gladys Kravitz all the way back to the year 1620 in Plymouth. With Darrin facing accusations of being a warlock, the group must figure out a way to return to their own time before it is too late."
+        ]
+      },
+      {
+        "h": "Culinary Sabotage in Bob's Burgers",
+        "p": [
+          "For fans of animated comedy, the fourth season of Bob's Burgers delivers a hilariously frustrating holiday predicament in episode five, titled 'Turkey in a Can.'",
+          "The story centers on Bob as he meticulously prepares for the festive feast, only to discover that an unknown culprit is repeatedly sabotaging his efforts by dumping each prepared bird into the toilet. Much of the episode follows the frantic search to uncover the identity of the saboteur."
+        ]
+      },
+      {
+        "h": "Embracing Friendsgiving in Felicity",
+        "p": [
+          "The concept of celebrating the holiday with chosen family rather than blood relatives is famously highlighted in the drama series Felicity. In the ninth episode of the first season, simply titled 'Thanksgiving,' the characters decide to skip the pressure of returning to their respective hometowns.",
+          "Instead, Felicity, portrayed by Keri Russell, and her circle of friends come together to establish their own 'Friendsgiving' tradition. Naturally, the celebratory meal brings its own unique set of interpersonal drama and emotional revelations."
+        ]
+      },
+      {
+        "h": "Perfectionism in Fresh Off the Boat",
+        "p": [
+          "Unconventional family dynamics take center stage in Fresh Off the Boat, which dedicates storyline space to the holiday across multiple seasons. However, the eighth episode of the second season, 'Huangsgiving,' stands out as a high point.",
+          "Jessica spends the early morning hours anxiously waiting for a phone call from her mother to learn whether she or her sister Connie has been chosen to host the annual celebration. Once Jessica is selected, her intense desire for perfection drives her preparations into overdrive."
+        ]
+      },
+      {
+        "h": "Flashbacks and Turkeys in Friends",
+        "p": [
+          "No retrospective of holiday television would be complete without acknowledging the enduring legacy of Friends. The eighth episode of the fifth season, 'The One With All the Thanksgiving Flashbacks,' takes a unique approach by diving into multiple timelines.",
+          "The main characters look back at their most disastrous holiday experiences from the past while Chandler actively attempts to avoid the holiday entirely. Memories include his parents' difficult divorce alongside classic moments like Joey and Phoebe recalling the time Joey got his head stuck inside a turkey."
+        ]
+      },
+      {
+        "h": "Chaos and Reconciliation in It's Always Sunny in Philadelphia",
+        "p": [
+          "Known for its unconventional humor, the long-running comedy It's Always Sunny in Philadelphia offers a distinctively chaotic take on the holiday. In the tenth episode of the ninth season, titled 'The Gang Squashes Their Beefs,' the traditional meaning of sharing a peaceful meal is turned upside down.",
+          "Rather than gathering with close loved ones, the group invites their worst enemies and most annoying acquaintances to a joyous feast. Their ultimate goal is to make amends for years of bad behavior, though the resulting dinner descends into typical chaos."
+        ]
+      },
+      {
+        "h": "Backup Plans in Modern Family",
+        "p": [
+          "Modern Family rounds out the viewing list with a memorable holiday installment in the eighth episode of its sixth season, titled 'Three Turkeys.'",
+          "The storyline focuses on Phil and Luke taking charge of preparing the main turkey for the family dinner, while Claire secretly prepares a backup bird just in case. Meanwhile, after their vacation gets canceled, Jay and Gloria decide to enjoy a simpler, cozier celebration together."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Television audiences looking for seasonal entertainment can choose from a wide variety of classic holiday episodes across multiple iconic shows. Programs ranging from vintage series like Bewitched to modern favorites such as Modern Family and Friends offer unique comedic takes on Thanksgiving dinners, family drama, and holiday traditions."
+        ]
+      }
+    ],
+    "facts": [
+      "Bewitched season 4 episode 12 is titled 'Samantha’s Thanksgiving to Remember'",
+      "Bob's Burgers season 4 episode 5 is titled 'Turkey in a Can'",
+      "Felicity season 1 episode 9 is titled 'Thanksgiving'",
+      "Fresh Off the Boat season 2 episode 8 is titled 'Huangsgiving'",
+      "Friends season 5 episode 8 is titled 'The One With All the Thanksgiving Flashbacks'",
+      "It's Always Sunny in Philadelphia season 9 episode 10 is titled 'The Gang Squashes Their Beefs'",
+      "Modern Family season 6 episode 8 is titled 'Three Turkeys'",
+      "Keri Russell stars in Felicity",
+      "H. Jon Benjamin stars in Bob's Burgers"
+    ],
+    "entities": {
+      "people": [
+        "Keri Russell",
+        "H. Jon Benjamin"
+      ],
+      "titles": [
+        "Modern Family",
+        "Bewitched",
+        "Friends",
+        "Bob's Burgers",
+        "Felicity",
+        "Fresh Off the Boat",
+        "It's Always Sunny in Philadelphia"
+      ]
+    },
+    "keywords": [
+      "Friends Thanksgiving episodes",
+      "Modern Family Three Turkeys",
+      "Bewitched Samanthas Thanksgiving to Remember",
+      "bops burgers Turkey in a Can"
+    ],
+    "images": [
+      {
+        "url": "https://static.toiimg.com/thumb/msid-136216564,width-1280,height-720,imgsize-28964,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "caption": "Classic Television Thanksgiving Episodes to Binge-Watch This Holiday Season",
+        "source": "Times of India — Entertainment"
+      }
+    ],
+    "published": "2026-11-27T16:00:00+05:30"
+  },
+  "evoito": {
+    "id": "evoito",
+    "type": "news",
+    "headline": "Elijah Wood Slams AI Hoax Images Circulating Online for The Hunt for Gollum",
+    "dek": "The original Frodo Baggins actor stepped up to debunk artificial intelligence mock-ups that falsely claimed to reveal cast members in costume for the upcoming Middle-earth prequel.",
+    "body": [
+      {
+        "h": "The Rise of Artificial Intelligence Hoaxes in Entertainment",
+        "p": [
+          "As anticipation builds for upcoming cinematic blockbusters, internet spaces frequently see an influx of unauthorized fan creations and synthetic imagery. Recently, a social media post went viral by claiming to showcase exclusive behind-the-scenes photography from a highly anticipated fantasy franchise expansion. These digitally generated visuals quickly gathered widespread attention across digital platforms, fooling casual observers before industry figures intervened.",
+          "The rapid spread of synthetic media highlights a growing challenge for modern studios and performers. Because advanced software tools allow anyone to generate convincing character portraits in seconds, audiences often struggle to distinguish between legitimate studio teasers and clever digital fabrications. This particular viral post managed to capture significant traction due to the high profile of the franchise attached to it."
+        ]
+      },
+      {
+        "h": "Targeting The Hunt for Gollum",
+        "p": [
+          "The viral post specifically targeted The Lord of the Rings: The Hunt for Gollum, a forthcoming feature film set within J.R.R. Tolkien's beloved fantasy universe. Fans have been eagerly awaiting official character reveals since production updates began surfacing online. However, the viral imagery did not come from Warner Bros. or any official promotional campaign associated with the production.",
+          "Instead, the circulating gallery consisted entirely of synthetic mock-ups depicting various actors in legendary roles. The digital creations attempted to show performers outfitted as iconic characters from the expanded lore, drawing immediate curiosity from fantasy enthusiasts who hoped a major marketing phase had finally commenced."
+        ]
+      },
+      {
+        "h": "Uncanny Details Reveal the Deception",
+        "p": [
+          "Closer inspection of the viral gallery exposed the obvious flaws typical of current text-to-image technology. The artificial outputs contained classic digital anomalies, such as fluctuating prop dimensions and unnatural facial expressions that immediately signaled a lack of human authenticity. Observers noted peculiar errors like morphing beverage cup sizes within the background elements.",
+          "Despite these glaring inconsistencies, the sheer volume of shares demonstrated how easily sensationalized imagery can travel across social media networks. Many fans initially reacted with excitement before noticing the distorted facial features and surreal lighting artifacts that gave away the computer-generated origin of the pictures."
+        ]
+      },
+      {
+        "h": "Cast Members Featured in the Fake Gallery",
+        "p": [
+          "The synthetic photo set was ambitious in its scope, fabricating appearances for several prominent actors reportedly tied to the cinematic universe. Among the generated portraits were mock-ups featuring Lee Pace reprising his role as Thranduil and Ian McKellen returning as Gandalf the Grey. The post also generated synthetic likenesses meant to represent Jamie Dornan as Aragorn and Anya Taylor-Joy as Seren.",
+          "Furthermore, the gallery included a digital representation of Frodo Baggins, attempting to mimic the original trilogy's distinct aesthetic. Because the ensemble cast includes both returning veterans and new additions, the temptation for digital creators to fabricate early looks proved irresistible to online pranksters."
+        ]
+      },
+      {
+        "h": "Elijah Wood's Direct Response",
+        "p": [
+          "Actor Elijah Wood, globally recognized for his iconic portrayal of Frodo Baggins in the original Peter Jackson trilogy, did not let the deception go unnoticed. Spotting the misleading post on Twitter, the performer quickly stepped in to clarify the situation for devoted followers. His concise public reply labeled the viral gallery bluntly as artificial intelligence nonsense.",
+          "Wood's swift intervention served to halt the spread of misinformation among fans who might have taken the unauthorized imagery at face value. Following his public correction, platform administrators applied an informational label to the original post to alert users of its fabricated nature."
+        ]
+      },
+      {
+        "h": "Official Marketing and Production Status",
+        "p": [
+          "So far, Warner Bros. and the creative team behind the prequel have maintained strict control over official promotional assets. The only verified glimpses of the project released to the public include behind-the-scenes footage distributed in September, which provided atmospheric views of the Shire alongside a fleeting look at the back of Frodo's head. Additionally, director and star Andy Serkis recently marked the official completion of filming by sharing an audio update featuring his signature Gollum vocal styling.",
+          "With principal photography wrapped, the production is marching toward its scheduled theatrical debut. The film is currently slated to arrive in cinemas on December 17, 2027, positioning it for a major box office clash on the exact same day as Marvel's upcoming superhero event, Avengers: Secret Wars."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Actor Elijah Wood publicly debunked a viral social media post featuring artificial intelligence mock-ups of characters from The Lord of the Rings: The Hunt for Gollum. The unauthorized digital gallery had falsely claimed to offer a first look at returning and new cast members before the actor intervened to label the images as fake. Meanwhile, the actual production has officially wrapped filming ahead of its scheduled December 2027 theatrical release."
+        ]
+      }
+    ],
+    "facts": [
+      "Elijah Wood played Frodo Baggins in the original trilogy.",
+      "The viral post featured AI mock-ups of Lee Pace as Thranduil, Ian McKellen as Gandalf the Grey, Elijah Wood as Frodo Baggins, Jamie Dornan as Aragorn, and Anya Taylor-Joy as Seren.",
+      "Warner Bros. released a behind-the-scenes video in September showing the Shire and the back of Frodo's head.",
+      "Andy Serkis marked the end of filming with a Gollum voice update.",
+      "The Lord of the Rings: The Hunt for Gollum is scheduled to hit theaters on December 17, 2027.",
+      "Avengers: Secret Wars is scheduled to release on December 17, 2027."
+    ],
+    "entities": {
+      "people": [
+        "Elijah Wood",
+        "Lee Pace",
+        "Ian McKellen",
+        "Jamie Dornan",
+        "Anya Taylor-Joy",
+        "Andy Serkis",
+        "Viggo Mortensen",
+        "Robert Downey Jr.",
+        "Joe Russo",
+        "Fay Watson"
+      ],
+      "titles": [
+        "The Lord of the Rings: The Hunt for Gollum",
+        "Avengers: Secret Wars",
+        "Avengers: Doomsday",
+        "Shang-Chi",
+        "The Last of Us 2",
+        "Baldur's Gate 3",
+        "Grand Theft Auto 6"
+      ]
+    },
+    "keywords": [
+      "The Lord of the Rings: The Hunt for Gollum",
+      "Elijah Wood",
+      "Andy Serkis",
+      "Ian McKellen",
+      "Jamie Dornan"
+    ],
+    "images": [
+      {
+        "url": "https://cdn.mos.cms.futurecdn.net/XSsMwu2non8bLixydWnESi-1920-80.jpg",
+        "caption": "Elijah Wood Slams AI Hoax Images Circulating Online for The Hunt for Gollum",
+        "source": "Total Film (GamesRadar)"
+      }
+    ],
+    "published": "Fri, 27 Nov 2026 10:47:52 +0000"
   }
 };
