@@ -233604,10 +233604,10 @@ window.FA_ARTICLES = {
       ]
     },
     "keywords": [
-      "OM Operation Mole box office",
-      "Dhanush Mammootty film",
-      "OM Day 4 collection",
-      "Rajkumar Periasamy movie"
+      "OM Operation Mole worldwide box office",
+      "Dhanush Mammootty OM Operation Mole",
+      "Rajkumar Periasamy OM Operation Mole",
+      "OM Operation Mole ₹90 crore collection"
     ],
     "images": [
       {
@@ -233696,10 +233696,10 @@ window.FA_ARTICLES = {
       ]
     },
     "keywords": [
-      "Riley Green The Voice",
-      "The Voice Season 30",
-      "Joe Henley Ferryn Brinkley",
-      "The Voice December 14 finale"
+      "Riley Green The Voice coaching",
+      "Riley Green Season 30 The Voice",
+      "Riley Green mentoring contestants on The Voice",
+      "The Voice Season 30 NBC"
     ],
     "images": [
       {
@@ -233799,10 +233799,10 @@ window.FA_ARTICLES = {
       ]
     },
     "keywords": [
-      "Aakasamlo Oka Tara film",
-      "Dulquer Salmaan Aakasamlo Oka Tara",
-      "Aakasamlo Oka Tara box office",
-      "Aakasamlo Oka Tara collection day 4"
+      "Aakasamlo Oka Tara box office collection Day 4",
+      "Dulquer Salmaan Aakasamlo Oka Tara Monday collection",
+      "Aakasamlo Oka Tara Telugu film drop",
+      "Dulquer Salmaan Aakasamlo Oka Tara earnings"
     ],
     "images": [
       {
@@ -234357,9 +234357,9 @@ window.FA_ARTICLES = {
     },
     "keywords": [
       "ENHYPEN THE SIN PARALLEL WORLD",
-      "ENHYPEN first day sales",
-      "I Want You ENHYPEN",
-      "ENHYPEN Hanteo Chart"
+      "ENHYPEN album sales Hanteo Chart",
+      "ENHYPEN spin off single release",
+      "ENHYPEN I Want You remix"
     ],
     "images": [],
     "published": "Mon, 23 Nov 2026 22:20:00 EST"
@@ -234549,10 +234549,10 @@ window.FA_ARTICLES = {
       ]
     },
     "keywords": [
-      "Antoine Fuqua",
-      "Antoine Fuqua lawsuit",
-      "William Rosenthal",
-      "Good Times at Davey Wayne's"
+      "Antoine Fuqua lawsuit assault battery",
+      "Antoine Fuqua handgun threat lawsuit",
+      "William Rosenthal Antoine Fuqua",
+      "Antoine Fuqua bar manager lawsuit"
     ],
     "images": [
       {
@@ -234638,10 +234638,10 @@ window.FA_ARTICLES = {
       ]
     },
     "keywords": [
-      "Shruti Haasan Hellallallo",
-      "Peddi movie song",
-      "Ram Charan Janhvi Kapoor",
-      "Buchi Babu Sana Peddi"
+      "Shruti Haasan Peddi",
+      "Shruti Haasan Hellallallo song",
+      "Peddi Hellallallo dance number",
+      "Shruti Haasan Ram Charan Peddi"
     ],
     "images": [
       {
@@ -234834,10 +234834,10 @@ window.FA_ARTICLES = {
       ]
     },
     "keywords": [
-      "Vir Das International Emmy Awards 2026",
-      "Real Kashmir Football Club series",
-      "International Emmy Awards 2026 India",
-      "Vir Das Fool Volume Netflix"
+      "Vir Das at the International Emmy Awards",
+      "Vir Das Fool Volume Emmy Awards",
+      "Real Kashmir Football Club International Emmy Awards",
+      "Vir Das and Real Kashmir Football Club Emmy Awards"
     ],
     "images": [
       {
@@ -234934,10 +234934,10 @@ window.FA_ARTICLES = {
       ]
     },
     "keywords": [
-      "Don Toliver London concert postponed",
-      "Manchester Co op Live Arena incident",
-      "Don Toliver Manchester show",
-      "89 fans sickened Manchester concert"
+      "Don Toliver London Gig",
+      "Don Toliver Manchester Arena Chemical Incident",
+      "Don Toliver Co-op Live Arena",
+      "Don Toliver postpones concert"
     ],
     "images": [
       {
@@ -235049,11 +235049,10 @@ window.FA_ARTICLES = {
       ]
     },
     "keywords": [
-      "Scene box office collection",
-      "Suriya Scene film",
-      "Mookuthi Amman 2 box office",
-      "Scene India net collection",
-      "Nayanthara Mookuthi Amman 2"
+      "Suriya Scene box office collection",
+      "Scene movie Rs 150 crore milestone",
+      "Suriya Scene India net collection",
+      "Scene box office comparison with Mookuthi Amman 2"
     ],
     "images": [
       {
@@ -235175,10 +235174,10 @@ window.FA_ARTICLES = {
       ]
     },
     "keywords": [
-      "Only Murders in the Building season 7",
-      "Only Murders in the Building season 6",
-      "Steve Martin Martin Short John Hoffman",
-      "Only Murders in the Building London"
+      "Only Murders in the Building Season 7 location change",
+      "Only Murders in the Building New York City season 7",
+      "Only Murders in London season 6",
+      "Only Murders in the Building Hulu"
     ],
     "images": [
       {
@@ -235375,10 +235374,10 @@ window.FA_ARTICLES = {
       ]
     },
     "keywords": [
-      "Hallmark Christmas movies",
-      "Merry Thanksgiving schedule",
-      "Christmas Delivered",
-      "Holiday Ever After Disney World Wish Come True"
+      "Hallmark Channel Merry Thanksgiving holiday movies",
+      "Hallmark Christmas Delivered movie",
+      "Hallmark Merry Thanksgiving Weekend schedule",
+      "Hallmark Channel new holiday movies"
     ],
     "images": [
       {
@@ -235587,10 +235586,10 @@ window.FA_ARTICLES = {
       ]
     },
     "keywords": [
+      "Aragorn Lord of the Rings leadership quote",
+      "J.R.R. Tolkien Lord of the Rings fantasy hero",
       "Aragorn Lord of the Rings quote",
-      "The Two Towers Aragorn leadership",
-      "J.R.R. Tolkien Aragorn character",
-      "Viggo Mortensen Aragorn"
+      "The Lord of the Rings leadership lines"
     ],
     "images": [
       {
@@ -236179,10 +236178,10 @@ window.FA_ARTICLES = {
       ]
     },
     "keywords": [
-      "It’s a Wonderful Life Broadway",
-      "Andrew Rannells It’s a Wonderful Life",
-      "Tituss Burgess Broadhurst Theatre",
-      "Joe Landry radio play adaptation"
+      "Its a Wonderful Life A Live Radio Play Broadway",
+      "Its a Wonderful Life Broadhurst Theatre",
+      "Andrew Rannells Its a Wonderful Life Broadway",
+      "Its a Wonderful Life radio play adaptation"
     ],
     "images": [
       {
@@ -237219,10 +237218,10 @@ window.FA_ARTICLES = {
       ]
     },
     "keywords": [
-      "Salman Khan Qazi",
-      "Qazi Touqeer Bigg Boss 20",
-      "Fame Gurukul 2005",
-      "Rohit Shetty Qazi song"
+      "Salman Khan Qazi Touqeer Bigg Boss 20",
+      "Qazi Touqeer Bigg Boss 20 song",
+      "Salman Khan reality TV playback singing",
+      "Qazi Touqeer Kashmiri singer"
     ],
     "images": [
       {
@@ -239512,10 +239511,10 @@ window.FA_ARTICLES = {
       ]
     },
     "keywords": [
-      "International Emmy Awards 2026",
-      "Vir Das",
-      "Real Kashmir Football Club",
-      "Vir Das Fool Volume"
+      "International Emmy Awards 2026 winners",
+      "Vir Das International Emmys",
+      "Real Kashmir Football Club International Emmy Awards",
+      "Vir Das Fool Volume Emmy nomination"
     ],
     "images": [
       {
@@ -260252,5 +260251,420 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Fri, 27 Nov 2026 01:11:12 GMT"
+  },
+  "kwbnhd": {
+    "id": "kwbnhd",
+    "type": "news",
+    "headline": "O.M: Operation Mole Completes First Week With Strong Worldwide Numbers",
+    "dek": "The Dhanush and Mammootty starring spy thriller wraps up its initial seven-day theatrical run, surpassing the ₹111 crore milestone globally.",
+    "body": [
+      {
+        "h": "First Week Box Office Performance",
+        "p": [
+          "The Tamil spy thriller O.M: Operation Mole has successfully wrapped up its inaugural week in cinemas, bringing in substantial figures globally according to Sacnilk reports. Released to audiences on November 20, the feature accumulated a total worldwide gross of ₹111.10 crore by the end of its first seven days in theatres.",
+          "Domestically, the movie gathered a net total of ₹69.30 crore during this initial timeframe. The cumulative Indian gross climbed to ₹80.35 crore, while international territories bolstered the overall performance by contributing an additional ₹30.75 crore."
+        ]
+      },
+      {
+        "h": "Day Seven Collection Analysis",
+        "p": [
+          "On Thursday, November 26, marking its seventh day on the big screen, the project recorded a domestic net collection of ₹3.75 crore. Although weekday earnings dipped compared to the opening weekend, the drop from the previous day's numbers showed signs of stabilization.",
+          "The film had previously brought in ₹4.10 crore on Wednesday, meaning the Thursday figure represented an 8.5 percent decrease. This modest shift led smoothly into the start of its second Friday in theatres on November 27."
+        ]
+      },
+      {
+        "h": "Language-Wise Performance Breakdown",
+        "p": [
+          "Contribution figures across various linguistic versions varied during the seventh day. The Tamil cut emerged as the highest earner on Thursday, securing ₹2.35 crore from 3,170 shows alongside an 18 percent occupancy rate.",
+          "Meanwhile, the Telugu version brought in ₹1.15 crore across 1,602 screenings, registering a 21 percent occupancy. The Hindi version added roughly ₹25 lakh through 1,121 shows, maintaining a 9 percent occupancy."
+        ]
+      },
+      {
+        "h": "Opening Weekend Trajectory",
+        "p": [
+          "The theatrical journey began with a strong domestic net opening of ₹18.10 crore on November 20. Following release day, the numbers experienced a 13 percent decline on Saturday to reach ₹15.75 crore, before bouncing back slightly on Sunday with ₹15.90 crore.",
+          "As the new work week commenced, Monday earnings fell by 60.4 percent from the prior day to stand at ₹6.30 crore. Collections then tapered off further to ₹5.40 crore on Tuesday and ₹4.10 crore on Wednesday before settling at Thursday's ₹3.75 crore."
+        ]
+      },
+      {
+        "h": "Cast and Crew Details",
+        "p": [
+          "Written and directed by Rajkumar Periasamy, the espionage action feature highlights Dhanush in the primary role. The prominent ensemble cast also features Mammootty, Sai Pallavi, Sreeleela, Naseeruddin Shah, and Indrans.",
+          "Behind the scenes, the production is backed by Wunderbar Films and RTake Studios. The technical crew features Sai Abhyankkar as the music composer, Ezhil Arasu K handling cinematography, and R. Kalaivanan managing editing duties."
+        ]
+      },
+      {
+        "h": "Production Title Evolution",
+        "p": [
+          "Before hitting cinemas under its current moniker, the project underwent a title change. It was initially introduced to the public as OM Chapter 1: Udhiram - The Blood Wood.",
+          "The makers later updated the title to O.M: Operation Mole shortly before its scheduled theatrical debut in late November."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "The spy thriller O.M: Operation Mole finished its first week in theatres on November 26, 2026, with a worldwide gross of ₹111.10 crore. Directed by Rajkumar Periasamy and starring Dhanush alongside Mammootty, the film secured a domestic net total of ₹69.30 crore over its initial seven days."
+        ]
+      }
+    ],
+    "facts": [
+      "O.M: Operation Mole was released on November 20, 2026.",
+      "The film's worldwide gross after seven days is ₹111.10 crore.",
+      "Domestic net collection for the first week is ₹69.30 crore.",
+      "India gross reached ₹80.35 crore.",
+      "Overseas market contribution stands at ₹30.75 crore.",
+      "Day 7 domestic net collection on November 26 was ₹3.75 crore.",
+      "Day 6 collection on Wednesday was ₹4.10 crore.",
+      "Opening day net collection in India was ₹18.10 crore.",
+      "Saturday collection was ₹15.75 crore.",
+      "Sunday collection was ₹15.90 crore.",
+      "Monday collection was ₹6.30 crore.",
+      "Tuesday collection was ₹5.40 crore.",
+      "Tamil version day 7 collection was ₹2.35 crore from 3,170 shows with 18% occupancy.",
+      "Telugu version day 7 collection was ₹1.15 crore from 1,602 shows with 21% occupancy.",
+      "Hindi version day 7 collection was ₹25 lakh from 1,121 shows with 9% occupancy.",
+      "Rajkumar Periasamy is the writer and director.",
+      "Cast members include Dhanush, Mammootty, Sai Pallavi, Sreeleela, Naseeruddin Shah, and Indrans.",
+      "Initial working title was OM Chapter 1: Udhiram - The Blood Wood."
+    ],
+    "entities": {
+      "people": [
+        "Dhanush",
+        "Mammootty",
+        "Sai Pallavi",
+        "Sreeleela",
+        "Naseeruddin Shah",
+        "Indrans",
+        "Rajkumar Periasamy",
+        "Sai Abhyankkar",
+        "Ezhil Arasu K",
+        "R. Kalaivanan"
+      ],
+      "titles": [
+        "O.M: Operation Mole",
+        "OM Chapter 1: Udhiram - The Blood Wood"
+      ]
+    },
+    "keywords": [
+      "OM Operation Mole box office",
+      "Dhanush Mammootty film",
+      "OM Operation Mole first week",
+      "Rajkumar Periasamy movie"
+    ],
+    "images": [
+      {
+        "url": "https://images.filmibeat.com/img/2026/11/om-55001795750882.jpg",
+        "caption": "O.M: Operation Mole Completes First Week With Strong Worldwide Numbers",
+        "source": "FilmiBeat"
+      }
+    ],
+    "published": "Fri, 27 Nov 2026 09:12:21 +0530"
+  },
+  "1glxc81": {
+    "id": "1glxc81",
+    "type": "news",
+    "headline": "'100 Days of Deception' Team Unveils Core Themes and Character Journeys Ahead of tvN Finale",
+    "dek": "As the tvN period drama '100 Days of Deception' prepares for its November 29 conclusion, the production team and cast reflect on love, survival, and historical realism during the 1932 Japanese occupation.",
+    "body": [
+      {
+        "h": "Approaching the Final Episode on tvN",
+        "p": [
+          "The period drama '100 Days of Deception' is reaching its emotional climax as it heads into its scheduled November 29 finale on tvN. Set against the backdrop of 1932 during the Japanese occupation of Korea, the series has captured widespread attention throughout its broadcast run.",
+          "Ahead of the concluding broadcast, the production team opened up about the core messages and creative motivations behind the historical project, offering viewers a deeper look into the historical context."
+        ]
+      },
+      {
+        "h": "Focusing on Survival and Ordinary Youth",
+        "p": [
+          "Chief producer Jang Shin Ae explained that the show intentionally placed ordinary young people at the center of the narrative rather than seasoned freedom fighters. These characters were depicted simply struggling to survive the harsh realities of their era.",
+          "Developing characters lacking a clear sense of ideological conviction demanded intricate and challenging creative choices. The goal was to highlight human warmth by showing everyday individuals confronting a difficult historical period and eventually shaping their own history."
+        ]
+      },
+      {
+        "h": "Love as the Primary Driving Force",
+        "p": [
+          "Writer Ryu Bo Ri structured the narrative around love as the fundamental driving force behind the independence movement. This thematic choice sought to ground the turbulent historical events in relatable human emotions.",
+          "Complementing the narrative tone, music director Kim Tae Sung infused the musical score with a sense of future hope. He deliberately avoided leaning into the defeatism commonly associated with the era."
+        ]
+      },
+      {
+        "h": "Contrasting with Earlier Occupation-Era Dramas",
+        "p": [
+          "Unlike previous period series such as 'Bridal Mask', 'Mr. Sunshine', and 'Gyeongseong Creature', which placed patriotic missions directly at the forefront, this series chose a different angle.",
+          "By prioritizing the daily lives of people simply trying to endure over grand political acts, the creative team aimed to deliver a distinct perspective on life during the Japanese occupation."
+        ]
+      },
+      {
+        "h": "Lead Performances and Buzz Rankings",
+        "p": [
+          "Kim Yoo Jung starred as Lee Ga Kyung, a pickpocket dreaming of moving to America who infiltrates the Japanese Government-General of Korea as a spy under a false identity. Her performance utilized Korean, English, and Japanese as survival tools.",
+          "Culture critic Kim Sung Soo praised her portrayal, noting the drama would have been impossible without her. Furthermore, Kim Yoo Jung and co-star Park Jin Young consistently secured the top two spots in Good Data Corporation's FUNdex buzz rankings throughout the series run."
+        ]
+      },
+      {
+        "h": "A Standout Supporting Ensemble",
+        "p": [
+          "The supporting cast delivered memorable turns that anchored the narrative depth of the show. Kim Hyun Joo portrayed Yoo So Ran, a sniper for an armed resistance group who handled brief Chinese dialogue naturally.",
+          "Lee Moo Saeng transitioned smoothly between playful and serious moments as correspondent Phillip Yoo. Meanwhile, Jin Sun Kyu delivered a career-defining performance as Sato Shinichi, the government-general official targeted by the resistance."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "The production team and cast of the tvN period drama '100 Days of Deception' shared insights into the show's core themes of love and survival ahead of its November 29 finale. Set in 1932 during the Japanese occupation, the series focused on ordinary young people rather than traditional patriotic missions, earning high praise and strong buzz rankings for leads Kim Yoo Jung and Park Jin Young alongside a talented supporting cast."
+        ]
+      }
+    ],
+    "facts": [
+      "Finale date is November 29, 2026",
+      "Setting is 1932 during the Japanese occupation of Korea",
+      "Feature published on November 27, 2026",
+      "Network is tvN"
+    ],
+    "entities": {
+      "people": [
+        "Hana",
+        "Lee Ga Kyung",
+        "Ryu Bo Ri",
+        "Kim Tae Sung",
+        "Jang Shin Ae",
+        "Kim Yoo Jung",
+        "Park Jin Young",
+        "Kim Sung Soo",
+        "Lee Moo Saeng",
+        "Phillip Yoo",
+        "Kim Hyun Joo",
+        "Yoo So Ran",
+        "Jin Sun Kyu",
+        "Sato Shinichi"
+      ],
+      "titles": [
+        "100 Days of Deception",
+        "Exhuma",
+        "Extreme Job",
+        "Bridal Mask",
+        "Mr. Sunshine",
+        "Gyeongseong Creature"
+      ]
+    },
+    "keywords": [
+      "100 Days of Deception",
+      "Kim Yoo Jung",
+      "Park Jin Young",
+      "tvN drama finale",
+      "100 Days of Deception finale"
+    ],
+    "images": [
+      {
+        "url": "https://i.mydramalist.com/7rrWoD_2d.jpg",
+        "caption": "'100 Days of Deception' Team Unveils Core Themes and Character Journeys Ahead of tvN Finale",
+        "source": "MyDramaList"
+      }
+    ],
+    "published": "Fri, 27 Nov 2026 03:24:45 +0000"
+  },
+  "g8w0in": {
+    "id": "g8w0in",
+    "type": "news",
+    "headline": "Ramayana Box Office Day 22: Worldwide Collection Nears Rs 1,800 Crore",
+    "dek": "Ramayana: Rise Of A Legend crosses Rs 1,777 crore globally after 22 days in theatres, though domestic collections and theatre allocations begin to experience a notable slowdown.",
+    "body": [
+      {
+        "h": "Global Milestone Reached",
+        "p": [
+          "The mythological epic Ramayana: Rise Of A Legend has achieved another major box office milestone by pushing its total worldwide gross to Rs 1,777 crore after 22 days of theatrical screening. This steady upward climb brings the multi-language feature within striking distance of the massive Rs 1,800 crore global threshold as it enters its fourth week.",
+          "While the film continues to draw international spectators and healthy global numbers, its domestic earnings within India and overall theatre footprint have begun showing distinct signs of easing after an extraordinary opening run."
+        ]
+      },
+      {
+        "h": "Fourth Friday Earnings Breakdown",
+        "p": [
+          "According to tracking data from Sacnilk, the feature added Rs 9.65 crore in domestic net collections alongside another Rs 10 crore from international territories on its fourth Friday. This combined daily addition of roughly Rs 20 crore worldwide keeps the feature competitive despite the cooling pace.",
+          "The domestic business was spearheaded by the Hindi version, which collected Rs 6.75 crore across 13,287 shows, while regional languages contributed additional numbers led by Malayalam, Kannada, Tamil, and Telugu versions."
+        ]
+      },
+      {
+        "h": "Theatrical Footprint Shrinks",
+        "p": [
+          "The slowing momentum has directly impacted the screen counts allocated to the big-budget project. When the film first arrived in cinemas, it commanded more than 25,000 shows across domestic markets, but that operational count has since tapered down to approximately 15,700 shows.",
+          "A similar contraction is visible internationally, particularly in North America. After opening in upwards of 1,400 theatres in that region, the screen count dropped by over 300 screens in the second week and further adjustments reduced its availability heading into subsequent weeks."
+        ]
+      },
+      {
+        "h": "Weekly Collection Trajectory",
+        "p": [
+          "The box office trajectory highlights a blockbuster opening week in India that brought in Rs 564 crore, followed by a strong second week yielding Rs 299 crore before natural deceleration set in. A temporary jolt of energy occurred on day 20 when producers implemented discounted ticket pricing starting at Rs 99, which briefly boosted collections to Rs 17.50 crore on that Tuesday.",
+          "However, that momentum proved fleeting as daily figures slipped back into single digits by day 21. By its fourth Thursday, the feature registered a modest 1.6 percent increase, collecting Rs 9.65 crore net across 15,418 shows and lifting its total India net collection to Rs 992.10 crore alongside a domestic gross of Rs 1,185 crore."
+        ]
+      },
+      {
+        "h": "International Markets Support",
+        "p": [
+          "Overseas audiences have played a crucial role in maintaining the film's march toward the Rs 1,800 crore milestone. International markets contributed Rs 10 crore on day 22 alone, elevating the total overseas gross to Rs 592 crore.",
+          "While varying trade estimates place the worldwide total between Rs 1,755 crore and Rs 1,777 crore, the collective global pull has successfully cushioned the natural domestic cooling phase."
+        ]
+      },
+      {
+        "h": "Cast and Crew Overview",
+        "p": [
+          "Directed by Nitesh Tiwari, Ramayana: Rise Of A Legend is a high-profile mythological venture featuring a prominent ensemble cast. Ranbir Kapoor portrays Lord Rama, Sai Pallavi steps into the role of Sita, and Yash stars as Ravana.",
+          "The expansive supporting cast also features Sunny Deol, Ravi Dubey, Arun Govil, Lara Dutta, Vivek Oberoi, and Kajal Aggarwal. The project was originally released globally on November 5, 2026, across Hindi, Tamil, Telugu, Kannada, and Malayalam languages."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Ramayana: Rise Of A Legend reached a worldwide gross of Rs 1,777 crore after 22 days in cinemas, coming close to the Rs 1,800 crore mark despite a slowdown in domestic ticket sales and reduced theatre counts. The Nitesh Tiwari directorial continues its theatrical run with an ensemble cast including Ranbir Kapoor, Yash, and Sai Pallavi."
+        ]
+      }
+    ],
+    "facts": [
+      "Ramayana: Rise Of A Legend reached Rs 1,777 crore worldwide after 22 days.",
+      "The film earned Rs 9.65 crore nett domestically on its fourth Friday.",
+      "Overseas collections on day 22 reached Rs 10 crore.",
+      "Domestic show count dropped from over 25,000 to approximately 15,700.",
+      "First week India collection was Rs 564 crore, and second week was Rs 299 crore.",
+      "Discounted tickets at Rs 99 on day 20 brought in Rs 17.50 crore.",
+      "Total India nett collection stands at Rs 992.10 crore and domestic gross at Rs 1,185 crore.",
+      "Total overseas gross has reached Rs 592 crore.",
+      "The film was released worldwide on November 5, 2026."
+    ],
+    "entities": {
+      "people": [
+        "Ranbir Kapoor",
+        "Yash",
+        "Sai Pallavi",
+        "Nitesh Tiwari",
+        "Sunny Deol",
+        "Ravi Dubey",
+        "Arun Govil",
+        "Lara Dutta",
+        "Vivek Oberoi",
+        "Kajal Aggarwal"
+      ],
+      "titles": [
+        "Ramayana: Rise Of A Legend",
+        "Ramayana"
+      ]
+    },
+    "keywords": [
+      "Ramayana box office",
+      "Ramayana Rise Of A Legend collection",
+      "Ramayana Day 22 collection",
+      "Nitesh Tiwari Ramayana film"
+    ],
+    "images": [
+      {
+        "url": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202611/bob---ramayan-265309524-16x9.jpg?VersionId=OYeiarsRD8pfgnl0IpfIXJcxq2anhE.j",
+        "caption": "Ramayana Box Office Day 22: Worldwide Collection Nears Rs 1,800 Crore",
+        "source": "India Today — Movies"
+      }
+    ],
+    "published": "Fri, 27 Nov 2026 06:03:28 +0530"
+  },
+  "1rc3v67": {
+    "id": "1rc3v67",
+    "type": "news",
+    "headline": "Yeh Prem Mol Liya Opening Day Forecasts Point to Strong Numbers for Sharvari and Ayushmann Khurrana Starrer",
+    "dek": "Trade analysts project robust first-day collections for Sooraj Barjatya's romantic action thriller, potentially setting a new 2026 opening record for Ayushmann Khurrana.",
+    "body": [
+      {
+        "h": "Introduction and Opening Forecasts",
+        "p": [
+          "Anticipation has reached a peak for the release of Yeh Prem Mol Liya, a romantic action thriller that brings together a prominent cast and crew. Industry experts have begun sharing their initial box office projections for the film's opening day in India. Trade forecasts suggest a solid start at the ticket counters, driven by significant pre-release buzz and strong musical appeal.",
+          "Prominent film business analysts have outlined contrasting yet optimistic estimates for the opening day. Sumit Kadel projects an opening collection ranging between Rs 4.50 and 6.50 crore net. Meanwhile, fellow expert Rohit Jaiswal offers an even higher estimate, predicting that the movie will pull in Rs 7.5 crore net on its first Friday."
+        ]
+      },
+      {
+        "h": "Cast and Crew Highlights",
+        "p": [
+          "The project boasts a robust ensemble cast led by Sharvari and Ayushmann Khurrana, marking their very first cinematic collaboration. Sharvari is experiencing a successful run following her work in Alpha and Main Vaapas Aaunga. Alongside the lead pair, the film features veteran actors and familiar faces including Anupam Kher, Supriya Pathak, Seema Pahwa, Saumya Tandon, Shaad Randhawa, and Swanand Kirkire in crucial supporting roles.",
+          "Directorial responsibilities are handled by Sooraj Barjatya, whose involvement lends considerable weight to the production. The movie represents Barjatya's return to the romantic family drama genre after a gap of over a decade. His previous venture in this specific style was the 2015 release Prem Ratan Dhan Payo, which starred Salman Khan and Sonam Kapoor."
+        ]
+      },
+      {
+        "h": "Box Office Competition and Factors",
+        "p": [
+          "Several external factors influence the theatrical run of Yeh Prem Mol Liya on its debut. Industry evaluations take into account the competitive landscape, noting a direct clash with another release titled GunmaasterG9. Additionally, analysts must factor in the continued box office presence and screen allocation of Ramayan.",
+          "Despite these competing titles, the production benefits from notable advantages. Observers point to the established brand value of Sooraj Barjatya's direction, the enduring reputation of Rajshri productions, popular soundtrack numbers, and a broad family appeal as key drivers expected to pull audiences into cinema halls."
+        ]
+      },
+      {
+        "h": "Comparison With Past Releases",
+        "p": [
+          "Should the higher trade predictions materialize, Yeh Prem Mol Liya is on track to become Ayushmann Khurrana's highest-grossing opening day film of 2026. Projections indicate it could earn roughly double the opening figures of his earlier film this year, Udta Teer, which brought in Rs 3.89 crore.",
+          "The milestone underscores a significant commercial achievement for the lead actor within the current calendar year. The combination of strong advance buzz and favorable expert forecasts positions the movie well against previous benchmarks."
+        ]
+      },
+      {
+        "h": "Actor Perspectives and Collaboration",
+        "p": [
+          "Reflecting on the filming process, Sharvari shared enthusiastic thoughts about working alongside her co-star. In a conversation with Deccan Chronicle, she praised Ayushmann Khurrana for bringing a lovely and vibrant energy to the set. She highlighted his constant curiosity and readiness to explore characters, noting that his extensive range across various roles made their collaboration truly rewarding.",
+          "The professional pairing adds a fresh dynamic to the screen, supporting the romantic action thriller narrative directed by Barjatya. Both actors have contributed to the promotional momentum leading up to the wide theatrical rollout."
+        ]
+      },
+      {
+        "h": "Significance of the Director's Return",
+        "p": [
+          "Sooraj Barjatya's return to romantic family dramas marks a notable chapter in contemporary Bollywood releases. Given the legacy carried by the director and the Rajshri banner, the film arrives with expectations of upholding a specific traditional cinematic style infused with modern action and romance elements.",
+          "The historic success of past Barjatya projects creates an inherent baseline of audience trust. This legacy plays a vital role in shaping the day-one predictions provided by trade analysts monitoring the film's market trajectory."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Trade experts Sumit Kadel and Rohit Jaiswal have released their opening day box office predictions for the Sooraj Barjatya-directed film Yeh Prem Mol Liya, starring Sharvari and Ayushmann Khurrana. The romantic action thriller is projected to earn between Rs 4.50 and 7.5 crore net on its first Friday, potentially outperforming Khurrana's previous 2026 opener Udta Teer amidst competition from GunmaasterG9 and Ramayan."
+        ]
+      }
+    ],
+    "facts": [
+      "Yeh Prem Mol Liya is a romantic action thriller directed by Sooraj Barjatya.",
+      "The film stars Sharvari and Ayushmann Khurrana in lead roles.",
+      "Supporting cast includes Anupam Kher, Supriya Pathak, Seema Pahwa, Saumya Tandon, Shaad Randhawa, and Swanand Kirkire.",
+      "Sumit Kadel predicts a Day 1 collection of Rs 4.50-6.50 Cr nett.",
+      "Rohit Jaiswal predicts a Day 1 collection of Rs 7.5 crore net.",
+      "Udta Teer earned Rs 3.89 crore on its opening day.",
+      "Sooraj Barjatya's last romantic family drama was Prem Ratan Dhan Payo in 2015, starring Salman Khan and Sonam Kapoor."
+    ],
+    "entities": {
+      "people": [
+        "Sharvari",
+        "Ayushmann Khurrana",
+        "Sooraj Barjatya",
+        "Anupam Kher",
+        "Supriya Pathak",
+        "Seema Pahwa",
+        "Saumya Tandon",
+        "Shaad Randhawa",
+        "Swanand Kirkire",
+        "Sumit Kadel",
+        "Rohit Jaiswal",
+        "Salman Khan",
+        "Sonam Kapoor"
+      ],
+      "titles": [
+        "Yeh Prem Mol Liya",
+        "Alpha",
+        "Main Vaapas Aaunga",
+        "Prem Ratan Dhan Payo",
+        "GunmaasterG9",
+        "Ramayan",
+        "Udta Teer"
+      ]
+    },
+    "keywords": [
+      "Yeh Prem Mol Liya",
+      "Ayushmann Khurrana Yeh Prem Mol Liya",
+      "Sooraj Barjatya Yeh Prem Mol Liya",
+      "Sharvari Yeh Prem Mol Liya box office"
+    ],
+    "images": [
+      {
+        "url": "https://images.filmibeat.com/img/2026/11/ymplday1predictionfeature-23251795731317.jpg",
+        "caption": "Yeh Prem Mol Liya Opening Day Forecasts Point to Strong Numbers for Sharvari and Ayushmann Khurrana Starrer",
+        "source": "FilmiBeat"
+      }
+    ],
+    "published": "Fri, 27 Nov 2026 07:45:27 +0530"
   }
 };
