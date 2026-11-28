@@ -33,6 +33,156 @@ window.FA_HOME_ARTICLES = {
     ],
     "published": "Sat, 28 Nov 2026 11:31:30 +0200"
   },
+  "17rw5q8": {
+    "id": "17rw5q8",
+    "type": "news",
+    "headline": "Salman Khan wins hearts with an affectionate gesture towards a young fan at Mumbai airport",
+    "dek": "Bollywood star Salman Khan paused amidst tight security at the Mumbai airport to greet and kiss a young fan, drawing immense praise online.",
+    "entities": {
+      "people": [
+        "Salman Khan",
+        "Chitrangada Singh",
+        "Anisha Rao",
+        "Apoorva Lakhia",
+        "Jayson Thaam",
+        "Heera Sohal",
+        "Anoop Bikram Shahi",
+        "Zeyn Shaw",
+        "Abhilash Chaudhary",
+        "Yashpal Sharma",
+        "Ayushmann Khurrana",
+        "Sooraj Barjatya",
+        "Vijay",
+        "Samay Raina",
+        "Raj Shamani"
+      ],
+      "titles": [
+        "Maatrubhumi: May War Rest in Peace",
+        "Maatrubhumi"
+      ]
+    },
+    "keywords": [
+      "Salman Khan airport video",
+      "Salman Khan little fan",
+      "Maatrubhumi May War Rest in Peace",
+      "Chitrangada Singh Salman Khan",
+      "Salman Khan war drama"
+    ],
+    "images": [
+      {
+        "url": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202611/salman-khan-280918382-16x9_0.jpg?VersionId=URQEa14EZgr1Yi.z2Fx6Omcg4ypz96pa",
+        "caption": "Salman Khan wins hearts with an affectionate gesture towards a young fan at Mumbai airport",
+        "source": "India Today — Movies"
+      }
+    ],
+    "published": "Sat, 28 Nov 2026 13:45:37 +0530"
+  },
+  "1qffwss": {
+    "id": "1qffwss",
+    "type": "news",
+    "headline": "Take Charge of My Heart Review: A Quirky Rom-Com Exploring Electric Chemistry",
+    "dek": "A deep dive into the Korean romantic comedy Take Charge of My Heart, starring Kim Young Kwang and Chae Soo Bin as an unlikely pair bound by an unusual electrical connection.",
+    "entities": {
+      "people": [
+        "Kim Young Kwang",
+        "Chae Soo Bin",
+        "Kay"
+      ],
+      "titles": [
+        "Take Charge of My Heart"
+      ]
+    },
+    "keywords": [
+      "Take Charge of My Heart",
+      "Kim Young Kwang",
+      "Chae Soo Bin",
+      "Take Charge of My Heart review"
+    ],
+    "images": [
+      {
+        "url": "https://i0.wp.com/kdramakisses.com/wp-content/uploads/2026/10/Take-Charge-of-My-Heart-Kim-Young-Kwang-and-Chae-Soo-Bin-4.jpg?fit=400%2C225&ssl=1",
+        "caption": "Take Charge of My Heart Review: A Quirky Rom-Com Exploring Electric Chemistry",
+        "source": "Kdrama Kisses"
+      }
+    ],
+    "published": "Sat, 28 Nov 2026 08:00:43 +0000"
+  },
+  "5iiafn": {
+    "id": "5iiafn",
+    "type": "news",
+    "headline": "Namit Malhotra Defends Ravana Portrayal in Ramayana: Part 1",
+    "dek": "Producer Namit Malhotra has addressed criticism surrounding the multi-layered portrayal of Ravana in Nitesh Tiwari's Ramayana: Part 1, clarifying that superstar Yash's performance is what appealed to audiences rather than any glorification of the character.",
+    "entities": {
+      "people": [
+        "Namit Malhotra",
+        "Nitesh Tiwari",
+        "Yash",
+        "Ranbir Kapoor",
+        "Sai Pallavi",
+        "Ravi Dubey",
+        "Neeshita Nyayapati"
+      ],
+      "titles": [
+        "Ramayana: Part 1",
+        "Ramayana: Part 2"
+      ]
+    },
+    "keywords": [
+      "Namit Malhotra Ramayana",
+      "Yash Ravana Ramayana",
+      "Ramayana Part 1 film",
+      "Nitesh Tiwari Ramayana"
+    ],
+    "images": [
+      {
+        "url": "https://www.hindustantimes.com/ht-img/img/2026/11/28/1600x900/logo/Yash_Ravana_Ramayana_1795848365987_Trx5_1795848389502_2w1v_c37650b6-b75b-4879-9882-560c88318e30_KxiL.jpg",
+        "caption": "Namit Malhotra Defends Ravana Portrayal in Ramayana: Part 1",
+        "source": "Hindustan Times — Entertainment"
+      }
+    ],
+    "published": "Sat, 28 Nov 2026 12:59:30 +0530"
+  },
+  "bn0rv8": {
+    "id": "bn0rv8",
+    "type": "news",
+    "headline": "How The Iconic Urban Fantasy Series Charmed Built One Of Television's Most Enduring Lead Trios",
+    "dek": "Spanning 178 episodes across eight seasons, the classic urban fantasy show left a lasting legacy through its magical Halliwell sisters and their unbreakable family bond.",
+    "entities": {
+      "people": [
+        "El Kuiper",
+        "Shannen Doherty",
+        "Holly Marie Combs",
+        "Alyssa Milano",
+        "Rose McGowan",
+        "Shealyn Scott"
+      ],
+      "titles": [
+        "Charmed",
+        "Xena: Warrior Princess",
+        "Buffy the Vampire Slayer",
+        "The X-Files",
+        "Supernatural",
+        "Gilmore Girls",
+        "Friends",
+        "The Wheel Of Time",
+        "Silo"
+      ]
+    },
+    "keywords": [
+      "Charmed tv show",
+      "Halliwell sisters",
+      "Power of Three Charmed",
+      "Shannen Doherty Rose McGowan Charmed"
+    ],
+    "images": [
+      {
+        "url": "https://static0.srcdn.com/wordpress/wp-content/uploads/2026/11/gildart-jackson-as-gideon-charmed-season-6-witch-wars.jpg?w=1600&amp;h=900&amp;fit=crop",
+        "caption": "How The Iconic Urban Fantasy Series Charmed Built One Of Television's Most Enduring Lead Trios",
+        "source": "Screen Rant"
+      }
+    ],
+    "published": "Sat, 28 Nov 2026 07:15:19 GMT"
+  },
   "1h0y3y0": {
     "id": "1h0y3y0",
     "type": "news",
@@ -4698,175 +4848,6 @@ window.FA_HOME_ARTICLES = {
       }
     ],
     "published": "Fri, 27 Nov 2026 03:24:45 +0000"
-  },
-  "1muwkjc": {
-    "id": "1muwkjc",
-    "type": "news",
-    "headline": "Ramayana Box Office Day 22 Collection Reaches Near 1,000 Crore Mark in India",
-    "dek": "The film Ramayana has crossed significant global milestones on its twenty-second day, setting its sights on the lifetime records of Baahubali 2 and outperforming Pushpa 2 worldwide.",
-    "entities": {
-      "people": [
-        "Allu Arjun",
-        "Ranbir Kapoor",
-        "Yash",
-        "SS Rajamouli"
-      ],
-      "titles": [
-        "Ramayana",
-        "Pushpa 2: The Rule",
-        "Baahubali 2: The Conclusion",
-        "Dangal",
-        "Dhurandhar: The Revenge"
-      ]
-    },
-    "keywords": [
-      "Ramayana box office",
-      "Ramayana day 22 collection",
-      "Ramayana worldwide collection",
-      "Ranbir Kapoor Yash Ramayana"
-    ],
-    "images": [
-      {
-        "url": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202611/6b08acb5b539b-ramayana-22-day-collection-260332487-16x9.jpg",
-        "caption": "Ramayana Box Office Day 22 Collection Reaches Near 1,000 Crore Mark in India",
-        "source": "Aaj Tak — Entertainment"
-      }
-    ],
-    "published": "2026-11-27T02:52:08Z"
-  },
-  "1q5nh4n": {
-    "id": "1q5nh4n",
-    "type": "news",
-    "headline": "Exploring The Boroughs: Netflix's Near-Perfect Sci-Fi Series Worth Revisiting",
-    "dek": "A closer look at The Boroughs, the eight-episode sci-fi dark comedy on Netflix created by Jeffrey Addiss and Will Matthews that blends cozy mystery with a senior-citizen-led otherworldly threat.",
-    "entities": {
-      "people": [
-        "Michael Block",
-        "Jeffrey Addiss",
-        "Will Matthews",
-        "Sam Cooper",
-        "Alfred Molina",
-        "Geena Davis",
-        "Alfre Woodard",
-        "Bill Pullman",
-        "Clarke Peters",
-        "Denis O'Hare",
-        "Ed Begley Jr.",
-        "Edward",
-        "Wally",
-        "Judy",
-        "Renee",
-        "Seth Numrich",
-        "Alice Kremelberg",
-        "Paul Atreides",
-        "Captain Kirk",
-        "Princess Leia",
-        "Ellen Ripley",
-        "Max Rockatansky"
-      ],
-      "titles": [
-        "The Boroughs",
-        "Stranger Things",
-        "The Thursday Murder Club",
-        "Dune"
-      ]
-    },
-    "keywords": [
-      "The Boroughs Netflix",
-      "Jeffrey Addiss Will Matthews",
-      "Alfred Molina The Boroughs",
-      "The Boroughs sci-fi series"
-    ],
-    "images": [
-      {
-        "url": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/05/the-boroughs-netflix-art.png?w=1200&amp;h=675&amp;fit=crop",
-        "caption": "Exploring The Boroughs: Netflix's Near-Perfect Sci-Fi Series Worth Revisiting",
-        "source": "Collider"
-      }
-    ],
-    "published": "Fri, 27 Nov 2026 02:36:12 GMT"
-  },
-  "1rc3v67": {
-    "id": "1rc3v67",
-    "type": "news",
-    "headline": "Yeh Prem Mol Liya Opening Day Forecasts Point to Strong Numbers for Sharvari and Ayushmann Khurrana Starrer",
-    "dek": "Trade analysts project robust first-day collections for Sooraj Barjatya's romantic action thriller, potentially setting a new 2026 opening record for Ayushmann Khurrana.",
-    "entities": {
-      "people": [
-        "Sharvari",
-        "Ayushmann Khurrana",
-        "Sooraj Barjatya",
-        "Anupam Kher",
-        "Supriya Pathak",
-        "Seema Pahwa",
-        "Saumya Tandon",
-        "Shaad Randhawa",
-        "Swanand Kirkire",
-        "Sumit Kadel",
-        "Rohit Jaiswal",
-        "Salman Khan",
-        "Sonam Kapoor"
-      ],
-      "titles": [
-        "Yeh Prem Mol Liya",
-        "Alpha",
-        "Main Vaapas Aaunga",
-        "Prem Ratan Dhan Payo",
-        "GunmaasterG9",
-        "Ramayan",
-        "Udta Teer"
-      ]
-    },
-    "keywords": [
-      "Yeh Prem Mol Liya",
-      "Ayushmann Khurrana Yeh Prem Mol Liya",
-      "Sooraj Barjatya Yeh Prem Mol Liya",
-      "Sharvari Yeh Prem Mol Liya box office"
-    ],
-    "images": [
-      {
-        "url": "https://images.filmibeat.com/img/2026/11/ymplday1predictionfeature-23251795731317.jpg",
-        "caption": "Yeh Prem Mol Liya Opening Day Forecasts Point to Strong Numbers for Sharvari and Ayushmann Khurrana Starrer",
-        "source": "FilmiBeat"
-      }
-    ],
-    "published": "Fri, 27 Nov 2026 07:45:27 +0530"
-  },
-  "1s6q6of": {
-    "id": "1s6q6of",
-    "type": "news",
-    "headline": "Shah Rukh Khan's Upcoming Project 'King' Rumored to Feature an Extended Runtime",
-    "dek": "Recent listings from American ticketing platforms indicate that the action-packed movie directed by Siddharth Anand might cross the three-hour threshold.",
-    "entities": {
-      "people": [
-        "Shah Rukh Khan",
-        "Siddharth Anand",
-        "Suhana Khan",
-        "Deepika Padukone",
-        "Abhishek Bachchan",
-        "Karan Johar"
-      ],
-      "titles": [
-        "King",
-        "Kabhi Alvida Naa Kehna",
-        "Pathaan",
-        "Jawan"
-      ]
-    },
-    "keywords": [
-      "King film runtime",
-      "Shah Rukh Khan King movie",
-      "Siddharth Anand King cast",
-      "King release date"
-    ],
-    "images": [
-      {
-        "url": "https://static.toiimg.com/thumb/msid-136207040,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "caption": "Shah Rukh Khan's Upcoming Project 'King' Rumored to Feature an Extended Runtime",
-        "source": "Times of India — Entertainment"
-      }
-    ],
-    "published": "2026-11-27T07:38:13+05:30"
   },
   "d70lqr": {
     "id": "d70lqr",

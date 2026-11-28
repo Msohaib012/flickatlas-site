@@ -272213,5 +272213,377 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "2026-11-28T12:08:17+05:30"
+  },
+  "5iiafn": {
+    "id": "5iiafn",
+    "type": "news",
+    "headline": "Namit Malhotra Defends Ravana Portrayal in Ramayana: Part 1",
+    "dek": "Producer Namit Malhotra has addressed criticism surrounding the multi-layered portrayal of Ravana in Nitesh Tiwari's Ramayana: Part 1, clarifying that superstar Yash's performance is what appealed to audiences rather than any glorification of the character.",
+    "body": [
+      {
+        "h": "Release and Initial Reception",
+        "p": [
+          "Nitesh Tiwari’s feature film Ramayana: Part 1 arrived in cinemas on November 5, generating mixed reviews from viewers and critics alike. The production features Ranbir Kapoor in the role of Ram, Sai Pallavi as Sita, and Ravi Dubey portraying Lakshman. Alongside these central figures, the movie introduces a complex depiction of the antagonist.",
+          "Rather than sticking to a purely one-dimensional villainous archetype, the narrative presents a multi-layered persona for the demon king. This choice sparked immediate debate among audiences following its theatrical debut, leading to public discussions about how the mythological character was handled on screen."
+        ]
+      },
+      {
+        "h": "Producer Clarifies Stance on Ravana",
+        "p": [
+          "Producer Namit Malhotra stepped forward to dismiss allegations that the movie attempts to praise or elevate Ravana. Speaking on DD News, Malhotra emphasized that the character commits no genuine acts of goodness throughout the storyline. Instead, the antagonist brings about extensive terror and destruction, ultimately necessitating intervention from Lord Ram.",
+          "Malhotra suggested that viewer appreciation has been directed entirely toward the star power and charisma of Yash, who stepped into the shoes of the demon king. The producer noted that audiences are responding to a brilliant performance rather than endorsing the atrocities committed by the character within the fictional universe."
+        ]
+      },
+      {
+        "h": "Exploring the Backstory and Mythology",
+        "p": [
+          "The narrative explores the early life of the antagonist, beginning with his days as Dashanan and detailing his rise to immense power. Malhotra pointed out that the script illustrates a universal journey, showcasing how divine blessings were granted because of past actions before unchecked ego dictated a tragic path.",
+          "Addressing confusion regarding why deities like Lord Brahma and Lord Shiva would grant boons to such a figure, Malhotra stressed that divine favor does not excuse later corruption. The central moral thesis remains focused on how supreme power combined with supreme arrogance leads directly to an inevitable downfall."
+        ]
+      },
+      {
+        "h": "Yash's Interpretation of the Character",
+        "p": [
+          "Yash, who also serves as a co-producer on the project alongside Namit Malhotra, portrayed the complex monarch. Traditional adaptations frequently reduce the character to greed and lust, whereas this version provides context through his musical talents, youthful ambitions, and maternal influence.",
+          "The storyline displays nuances such as respect for women and a desire for egalitarian treatment among subjects. However, the trajectory shifts dramatically when his sister Surpanakha is disfigured by Lakshman, prompting the demon king to seek vengeance through the abduction of Sita."
+        ]
+      },
+      {
+        "h": "Future Plans for the Franchise",
+        "p": [
+          "The events of the inaugural chapter conclude with the pivotal abduction sequence, setting the stage for the continuation of the epic tale. Filmmakers have already established a timeline for the overarching cinematic universe.",
+          "Ramayana: Part 2 is officially slated to hit theater screens during the Diwali festival season in 2028, promising further developments in the ongoing mythological narrative."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Producer Namit Malhotra has denied claims that Nitesh Tiwari's Ramayana: Part 1 glorifies Ravana, explaining that audience appreciation stems from Yash's performance rather than endorsement of the character's actions. The film explores the antagonist's background and downfall due to ego, with the sequel scheduled for a Diwali 2028 release."
+        ]
+      }
+    ],
+    "facts": [
+      "Ramayana: Part 1 was released in theatres on November 5, 2026.",
+      "Namit Malhotra is the producer of Ramayana: Part 1.",
+      "Yash played the role of Ravana and co-produced the film.",
+      "Ranbir Kapoor plays Ram in the film.",
+      "Sai Pallavi plays Sita in the film.",
+      "Ravi Dubey plays Lakshman in the film.",
+      "Ramayana: Part 2 will be released in theatres for Diwali 2028."
+    ],
+    "entities": {
+      "people": [
+        "Namit Malhotra",
+        "Nitesh Tiwari",
+        "Yash",
+        "Ranbir Kapoor",
+        "Sai Pallavi",
+        "Ravi Dubey",
+        "Neeshita Nyayapati"
+      ],
+      "titles": [
+        "Ramayana: Part 1",
+        "Ramayana: Part 2"
+      ]
+    },
+    "keywords": [
+      "Namit Malhotra Ramayana",
+      "Yash Ravana Ramayana",
+      "Ramayana Part 1 film",
+      "Nitesh Tiwari Ramayana"
+    ],
+    "images": [
+      {
+        "url": "https://www.hindustantimes.com/ht-img/img/2026/11/28/1600x900/logo/Yash_Ravana_Ramayana_1795848365987_Trx5_1795848389502_2w1v_c37650b6-b75b-4879-9882-560c88318e30_KxiL.jpg",
+        "caption": "Namit Malhotra Defends Ravana Portrayal in Ramayana: Part 1",
+        "source": "Hindustan Times — Entertainment"
+      }
+    ],
+    "published": "Sat, 28 Nov 2026 12:59:30 +0530"
+  },
+  "1qffwss": {
+    "id": "1qffwss",
+    "type": "news",
+    "headline": "Take Charge of My Heart Review: A Quirky Rom-Com Exploring Electric Chemistry",
+    "dek": "A deep dive into the Korean romantic comedy Take Charge of My Heart, starring Kim Young Kwang and Chae Soo Bin as an unlikely pair bound by an unusual electrical connection.",
+    "body": [
+      {
+        "h": "Introduction to the Premise",
+        "p": [
+          "Take Charge of My Heart is a romantic comedy series that introduces viewers to a wildly imaginative core concept. The narrative follows a wealthy chaebol heir who relies on an artificial heart that is rapidly running out of battery power. His path crosses with a struggling screenwriter who carries residual electrical currents in her body from being struck by lightning during her childhood.",
+          "Because of her unique condition, the screenwriter is unable to have physical contact with anyone. However, the protagonist discovers that she possesses the exact charge needed to replenish his failing mechanical heart. This bizarre realization sets the foundation for an unusual contractual relationship between the two main characters."
+        ]
+      },
+      {
+        "h": "Character Dynamics and Roles",
+        "p": [
+          "Kim Young Kwang steps into the role of Baek Ho Rang, a corporate heir striving to secure his family business. While navigating the competitive corporate landscape, he conceals his failing artificial heart from those around him. His encounter with a woman who can unexpectedly recharge his life support system offers him an unexpected lifeline.",
+          "Chae Soo Bin portrays Na Bo Bae, the aspiring writer whose childhood lightning strike left her isolated due to her electrical aura. When she realizes that Ho Rang is completely immune to her shocking condition, she finds herself agreeing to help power his heart. Together, they navigate the complications that arise from needing to stay close to one another."
+        ]
+      },
+      {
+        "h": "Embracing Classic Tropes and Cliches",
+        "p": [
+          "The television series leans heavily into familiar television tropes and time-tested cliches. Rather than attempting to reinvent the genre, the show packages standard romantic elements into a neat and comforting format. Viewers will find familiar tropes such as the wealthy CEO paired with an ordinary girl, forced living arrangements, and a formal contract relationship.",
+          "Additionally, the narrative includes a sweet and famous second lead character to add further complications to the central dynamic. This heavy reliance on traditional storytelling devices provides a comforting, nostalgic atmosphere for fans of standard romantic television formats."
+        ]
+      },
+      {
+        "h": "Romance and Pacing",
+        "p": [
+          "The core appeal of the series lies in its straightforward narrative approach, focusing primarily on the necessity of the couple remaining in close proximity. Their romance develops gradually, starting from classic bickering and slowly evolving into genuine affection as they spend more time together. The show keeps its primary focus firmly on the relationship.",
+          "While the central romance offers plenty of sweet moments, the pacing of secondary plots leaves room for improvement. A corporate power struggle unfolds in the background throughout the run, but it remains largely basic until the final episodes, where multiple major plot developments are condensed into a short timeframe."
+        ]
+      },
+      {
+        "h": "Performances and Chemistry",
+        "p": [
+          "The undeniable highlight of the production is the pairing of its two lead actors. Both performers bring years of acting experience to the project, showcasing natural comedic timing and strong interpersonal chemistry. Their transition from reluctant acquaintances to affectionate partners serves as the main engine driving the narrative forward.",
+          "Their ability to play off each other lightens the mood during moments when the script relies on nonsensical scientific or medical explanations. Their engaging screen presence helps anchor the more far-fetched elements of the plot."
+        ]
+      },
+      {
+        "h": "Critical Reception and Tone",
+        "p": [
+          "Reviewers note that while the show is undeniably cute, it can occasionally feel a bit bland or lacking in deep engagement. The quirky premise offers a fun callback to older, goofier television plots that do not take themselves too seriously, though it does not fully break new ground within the genre.",
+          "Audience members are advised to suspend disbelief regarding the mechanics of the electricity and the medical logic involved. Approaching the series as a light and fluffy romance ensures a more enjoyable viewing experience."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Take Charge of My Heart is a romantic comedy series starring Kim Young Kwang and Chae Soo Bin that centers on a chaebol heir with an artificial heart and a screenwriter who can electrically charge it. The drama blends classic tropes, a contract relationship, and strong lead chemistry despite some pacing issues in its background corporate storylines. Critics rate the show as a fun, lighthearted watch if approached without overanalyzing its nonsensical scientific premise."
+        ]
+      }
+    ],
+    "facts": [
+      "Take Horang and Na Bo Bae are the main characters of Take Charge of My Heart.",
+      "Kim Young Kwang plays Baek Ho Rang and Chae Soo Bin plays Na Bo Bae.",
+      "The review was published on November 28, 2026.",
+      "The drama received a rating of 6.5 out of 10."
+    ],
+    "entities": {
+      "people": [
+        "Kim Young Kwang",
+        "Chae Soo Bin",
+        "Kay"
+      ],
+      "titles": [
+        "Take Charge of My Heart"
+      ]
+    },
+    "keywords": [
+      "Take Charge of My Heart",
+      "Kim Young Kwang",
+      "Chae Soo Bin",
+      "Take Charge of My Heart review"
+    ],
+    "images": [
+      {
+        "url": "https://i0.wp.com/kdramakisses.com/wp-content/uploads/2026/10/Take-Charge-of-My-Heart-Kim-Young-Kwang-and-Chae-Soo-Bin-4.jpg?fit=400%2C225&ssl=1",
+        "caption": "Take Charge of My Heart Review: A Quirky Rom-Com Exploring Electric Chemistry",
+        "source": "Kdrama Kisses"
+      }
+    ],
+    "published": "Sat, 28 Nov 2026 08:00:43 +0000"
+  },
+  "17rw5q8": {
+    "id": "17rw5q8",
+    "type": "news",
+    "headline": "Salman Khan wins hearts with an affectionate gesture towards a young fan at Mumbai airport",
+    "dek": "Bollywood star Salman Khan paused amidst tight security at the Mumbai airport to greet and kiss a young fan, drawing immense praise online.",
+    "body": [
+      {
+        "h": "Airport Encounter",
+        "p": [
+          "Bollywood actor Salman Khan recently demonstrated his softer side when he paused amidst strict security arrangements to interact with a young admirer at Mumbai's Kalina airport on Friday evening. While walking through the terminal, the superstar noticed the child approaching him and chose to halt his movement instead of walking past.",
+          "The small boy managed to navigate the security cordon to make a direct request to the actor, who warmly received the child and took a moment out of his busy schedule to listen to him."
+        ]
+      },
+      {
+        "h": "A Heartwarming Exchange",
+        "p": [
+          "Photographs and video clips capturing the interaction quickly circulated across social media platforms, showing Salman bending down to meet the child at eye level. The actor gently held the boy by his shoulders and touched his cheeks before placing a gentle kiss on his forehead.",
+          "The delighted young fan shared another quick hug with the actor before running back to his parents. The heartwarming footage instantly captured the attention of internet users, who commended the celebrity for his grounded behavior."
+        ]
+      },
+      {
+        "h": "Heavy Security Presence",
+        "p": [
+          "What made the interaction particularly notable was the heavy security detail surrounding the actor during his public appearance. Despite the protective measures and the presence of numerous paparazzi taking pictures, Salman remained accessible to the child.",
+          "Instead of instructing the security personnel to push the young admirer back, the actor welcomed the approach and ensured the fan left the encounter with a memorable experience."
+        ]
+      },
+      {
+        "h": "Company at the Terminal",
+        "p": [
+          "During this airport appearance, Salman was accompanied by his upcoming cinematic co-star, Chitrangada Singh. The two actors were spotted together navigating the terminal amidst the media presence.",
+          "Their joint sighting added to the public interest, as fans eagerly look forward to seeing the pair share screen space in their forthcoming movie project."
+        ]
+      },
+      {
+        "h": "Upcoming Cinematic Project",
+        "p": [
+          "Away from his regular public outings and media appearances, Salman is preparing for the theatrical debut of his upcoming war drama titled Maatrubhumi: May War Rest in Peace. The movie draws inspiration from the 2020 Galwan Valley conflict.",
+          "Directed by Apoorva Lakhia, the film features Salman portraying an Army officer. Chitrangada Singh plays a key role alongside him in this highly anticipated cinematic release."
+        ]
+      },
+      {
+        "h": "Cast and Release Details",
+        "p": [
+          "The upcoming war drama features an extensive ensemble cast alongside the lead actors. Names attached to the project include Jayson Thaam, Heera Sohal, Anoop Bikram Shahi, Zeyn Shaw, Abhilash Chaudhary, and Yashpal Sharma.",
+          "Audiences can expect the film to arrive in cinemas shortly, with an official release date slated for December 4, 2026."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Bollywood actor Salman Khan won widespread praise after stopping amidst heavy security at the Mumbai airport to lovingly greet and kiss a young fan. The viral moment preceded his upcoming theatrical release in the war drama Maatrubhumi: May War Rest in Peace, directed by Apoorva Lakhia."
+        ]
+      }
+    ],
+    "facts": [
+      "Salman Khan stopped at Mumbai's Kalina airport on Friday evening.",
+      "The incident occurred on November 28, 2026.",
+      "Salman was accompanied by co-star Chitrangada Singh.",
+      "Maatrubhumi: May War Rest in Peace is directed by Apoorva Lakhia.",
+      "The film is inspired by the 2020 Galwan Valley conflict.",
+      "Maatrubhumi: May War Rest in Peace releases on December 4, 2026."
+    ],
+    "entities": {
+      "people": [
+        "Salman Khan",
+        "Chitrangada Singh",
+        "Anisha Rao",
+        "Apoorva Lakhia",
+        "Jayson Thaam",
+        "Heera Sohal",
+        "Anoop Bikram Shahi",
+        "Zeyn Shaw",
+        "Abhilash Chaudhary",
+        "Yashpal Sharma",
+        "Ayushmann Khurrana",
+        "Sooraj Barjatya",
+        "Vijay",
+        "Samay Raina",
+        "Raj Shamani"
+      ],
+      "titles": [
+        "Maatrubhumi: May War Rest in Peace",
+        "Maatrubhumi"
+      ]
+    },
+    "keywords": [
+      "Salman Khan airport video",
+      "Salman Khan little fan",
+      "Maatrubhumi May War Rest in Peace",
+      "Chitrangada Singh Salman Khan",
+      "Salman Khan war drama"
+    ],
+    "images": [
+      {
+        "url": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202611/salman-khan-280918382-16x9_0.jpg?VersionId=URQEa14EZgr1Yi.z2Fx6Omcg4ypz96pa",
+        "caption": "Salman Khan wins hearts with an affectionate gesture towards a young fan at Mumbai airport",
+        "source": "India Today — Movies"
+      }
+    ],
+    "published": "Sat, 28 Nov 2026 13:45:37 +0530"
+  },
+  "bn0rv8": {
+    "id": "bn0rv8",
+    "type": "news",
+    "headline": "How The Iconic Urban Fantasy Series Charmed Built One Of Television's Most Enduring Lead Trios",
+    "dek": "Spanning 178 episodes across eight seasons, the classic urban fantasy show left a lasting legacy through its magical Halliwell sisters and their unbreakable family bond.",
+    "body": [
+      {
+        "h": "The Rise Of Urban Fantasy And The Power Of Three",
+        "p": [
+          "During the late 1990s and early 2000s, television was dominated by popular urban fantasy shows that explored contemporary themes through a paranormal lens. Series like Buffy the Vampire Slayer, Xena: Warrior Princess, The X-Files, and Supernatural captured the cultural zeitgeist by focusing on complex characters, personal ambitions, and supernatural mysteries.",
+          "Among these supernatural dramas, one series pushed the concept even further by centering its narrative on three female leads rather than one or two. Set in San Francisco, the show followed the Halliwell sisters, who were bound not only by blood but also by powerful magic to form the legendary Charmed Ones."
+        ]
+      },
+      {
+        "h": "Defending Innocents While Juggling Normal Lives",
+        "p": [
+          "Together, the sisters wielded the collective Power of Three to protect the innocent from demons, warlocks, ghosts, and other immortal beings attempting to destroy their lineage. Despite the immense weight of their supernatural responsibilities, the siblings consistently made time for their personal lives.",
+          "They sought happiness through careers, friendships, family moments, and romance. Even though certain elements of the series reflect its era, the deep relationship between the sisters remains as meaningful now as it was when the program first premiered in 1998."
+        ]
+      },
+      {
+        "h": "The Original Trio And Their Dynamic Performances",
+        "p": [
+          "The original lineup featured eldest sister Prue, middle sister Piper, and youngest sibling Phoebe. Shannen Doherty delivered an exceptional performance as Prue, carrying the heavy burden of responsibility and a fierce desire to protect her loved ones following their mother's death.",
+          "Holly Marie Combs served as a grounding emotional presence in the role of Piper, acting as the ideal mediator between her older and younger sisters. Meanwhile, Alyssa Milano captured Phoebe's free spirit, wit, and creativity with notable charm."
+        ]
+      },
+      {
+        "h": "Overcoming A Major Cast Exit With Paige",
+        "p": [
+          "The Power of Three served as the foundational worldbuilding element of the series, meaning a major cast departure could have easily derailed the production. Following the conclusion of season three, Doherty exited the show, leaving a significant void in the core sisterhood.",
+          "Instead of sinking the program, the writers introduced a fourth Halliwell sister, Paige, portrayed by Rose McGowan. Paige integrated seamlessly into the dynamic, allowing Piper to step into the role of the eldest sibling while Phoebe remained the middle child and Paige embraced her identity as the youngest witch."
+        ]
+      },
+      {
+        "h": "Sustaining Success Across Eight Seasons",
+        "p": [
+          "The successful transition and the strong chemistry between McGowan, Combs, and Milano allowed the series to continue for five more seasons after the initial casting change. This longevity stood as a true testament to the performers and the evolving family dynamic.",
+          "Throughout its massive 178-episode run, the narrative balanced darker supernatural conflicts with lighthearted adventures, such as time-traveling excursions into the 1970s or getting trapped inside a medieval painting."
+        ]
+      },
+      {
+        "h": "An Enduring Comfort Watch And Modern Legacy",
+        "p": [
+          "Decades after its final episode aired, the show continues to be celebrated as one of television's best comfort fantasy programs. While exploring serious subjects like grief, death, heartbreak, and self-sacrifice, it always maintained a balance of humor and warmth.",
+          "The iconic Halliwell Manor became just as nostalgic to fans as other famous television sets, serving as the chaotic backdrop for countless magical battles. The universe later expanded further when a reboot premiered on the CW in 2018 and ran for four seasons, featuring a new trio of sisters named Macy, Mel, and Maggie."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "This retrospective examines the 178-episode urban fantasy series Charmed, highlighting its iconic original lead trio of the Halliwell sisters and their famous Power of Three. The article discusses how the show successfully navigated Shannen Doherty's departure after season three by introducing Rose McGowan as Paige, allowing the program to run for eight total seasons and maintain a lasting legacy in television history."
+        ]
+      }
+    ],
+    "facts": [
+      "The show ran for 178 episodes across eight seasons, premiering in 1998.",
+      "The original lead trio consisted of Shannen Doherty as Prue, Holly Marie Combs as Piper, and Alyssa Milano as Phoebe.",
+      "Rose McGowan joined the cast as half-sister Paige following Shannen Doherty's exit after season 3.",
+      "A reboot series premiered on the CW in 2018 and ran for four seasons, featuring characters named Macy, Mel, and Maggie."
+    ],
+    "entities": {
+      "people": [
+        "El Kuiper",
+        "Shannen Doherty",
+        "Holly Marie Combs",
+        "Alyssa Milano",
+        "Rose McGowan",
+        "Shealyn Scott"
+      ],
+      "titles": [
+        "Charmed",
+        "Xena: Warrior Princess",
+        "Buffy the Vampire Slayer",
+        "The X-Files",
+        "Supernatural",
+        "Gilmore Girls",
+        "Friends",
+        "The Wheel Of Time",
+        "Silo"
+      ]
+    },
+    "keywords": [
+      "Charmed tv show",
+      "Halliwell sisters",
+      "Power of Three Charmed",
+      "Shannen Doherty Rose McGowan Charmed"
+    ],
+    "images": [
+      {
+        "url": "https://static0.srcdn.com/wordpress/wp-content/uploads/2026/11/gildart-jackson-as-gideon-charmed-season-6-witch-wars.jpg?w=1600&amp;h=900&amp;fit=crop",
+        "caption": "How The Iconic Urban Fantasy Series Charmed Built One Of Television's Most Enduring Lead Trios",
+        "source": "Screen Rant"
+      }
+    ],
+    "published": "Sat, 28 Nov 2026 07:15:19 GMT"
   }
 };
