@@ -274500,5 +274500,385 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "2026-11-28T13:52:20Z"
+  },
+  "18cr3kz": {
+    "id": "18cr3kz",
+    "type": "news",
+    "headline": "I Play Rocky North American Box Office Nears Melania Domestic Haul After Massive Thanksgiving Surge",
+    "dek": "The biographical drama I Play Rocky starring Anthony Ippolito and directed by Peter Farrelly is making major waves in North America, closing in on the domestic total of the Melania Trump movie.",
+    "body": [
+      {
+        "h": "Strong North American Performance",
+        "p": [
+          "The biographical drama I Play Rocky is continuing to perform exceptionally well at the North American box office. Fueled by a major Thanksgiving Day boost, the feature has managed to outpace expectations despite facing competition from newer cinematic entries.",
+          "The film experienced a massive surge in earnings during its third Thursday in theaters. This notable jump highlights strong audience interest and steady momentum during the holiday period."
+        ]
+      },
+      {
+        "h": "Massive Theater Expansion and Earnings",
+        "p": [
+          "A huge factor in the recent financial spike was the movie expanding significantly across the continent. Going from a limited number of screens to a much wider distribution allowed the feature to pull in solid daily numbers.",
+          "With these strong holiday figures, the overall domestic cume for the Anthony Ippolito starrer has reached notable heights, solidifying its place as a strong box office contender."
+        ]
+      },
+      {
+        "h": "Chasing Melania at the Domestic Box Office",
+        "p": [
+          "The biographical feature is currently closing the gap on another notable release from the same year. The Amazon MGM Studios film Melania, which centers on the first lady of the United States and was directed by Brett Ratner, previously established its own domestic run.",
+          "Current tracking indicates that the Sylvester Stallone biopic is now very close to overtaking that specific domestic haul, with expectations pointing toward a possible milestone over the weekend."
+        ]
+      },
+      {
+        "h": "Global Standings and Worldwide Cume",
+        "p": [
+          "While domestic figures show a tight race between the two releases, I Play Rocky holds a comfortable lead when looking at worldwide earnings. The global tally places the biographical drama significantly ahead of its contemporary.",
+          "The international numbers combined with domestic receipts push the overall worldwide cume well past the totals of several competing titles released around the same period."
+        ]
+      },
+      {
+        "h": "Plot and Background of I Play Rocky",
+        "p": [
+          "The film tells an inspiring true story focused on Sylvester Stallone as an aspiring actor with a fierce determination. He firmly believed he was destined not only to write the script for Rocky but also to portray its iconic protagonist, Rocky Balboa.",
+          "Facing relentless rejection and seemingly impossible odds, Stallone took massive risks to secure the lead role. His perseverance ultimately brought his distinct vision to life, culminating in one of the greatest underdog tales in cinema history."
+        ]
+      },
+      {
+        "h": "Cast and Production Details",
+        "p": [
+          "Helmed by director Peter Farrelly, the biographical project features a notable ensemble cast. Alongside lead actor Anthony Ippolito, the movie stars AnnaSophia Robb, Toby Kebbell, P. J. Byrne, and Jay Duplass.",
+          "The cast also includes prominent performances by Matt Dillon, Stephan James, and Tracy Letts. The feature originally debuted in theaters on November 6."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "The biographical drama I Play Rocky has achieved a massive Thanksgiving boost at the North American box office, bringing its domestic cume close to the total earnings of the Brett Ratner-directed film Melania. Supported by a wide theater expansion and strong international numbers, the Peter Farrelly-helmed feature continues to showcase impressive overall earnings."
+        ]
+      }
+    ],
+    "facts": [
+      "I Play Rocky collected $1.6 million on its 3rd Thursday at the North American box office.",
+      "The film saw a 6486% increase at the North American box office since the previous Thursday.",
+      "I Play Rocky expanded from 29 to 2,477 theaters.",
+      "The domestic cume for I Play Rocky hit $16 million.",
+      "Melania was directed by Brett Ratner and released by Amazon MGM Studios.",
+      "Melania collected $15.8 million at the domestic box office.",
+      "Melania has a global total of $16.7 million.",
+      "I Play Rocky stands at a $26.7 million cume worldwide, with $10.8 million from international markets.",
+      "I Play Rocky was released on November 6."
+    ],
+    "entities": {
+      "people": [
+        "Anthony Ippolito",
+        "Sylvester Stallone",
+        "Melania Trump",
+        "Brett Ratner",
+        "Peter Farrelly",
+        "AnnaSophia Robb",
+        "Toby Kebbell",
+        "P. J. Byrne",
+        "Jay Duplass",
+        "Matt Dillon",
+        "Stephan James",
+        "Tracy Letts"
+      ],
+      "titles": [
+        "I Play Rocky",
+        "Melania",
+        "Rocky",
+        "Supergirl",
+        "Clayface"
+      ]
+    },
+    "keywords": [
+      "I Play Rocky film",
+      "Anthony Ippolito movie",
+      "Sylvester Stallone biopic",
+      "Melania box office",
+      "Peter Farrelly I Play Rocky"
+    ],
+    "images": [],
+    "published": "Sat, 28 Nov 2026 12:54:12 +0000"
+  },
+  "1yw4xyw": {
+    "id": "1yw4xyw",
+    "type": "news",
+    "headline": "The Pitt Season 3 Release Date Confirmed by HBO Max for January 2027",
+    "dek": "HBO Max has officially scheduled the return of the Emmy-winning medical drama series The Pitt for early 2027, bringing back Noah Wyle and introducing fresh cast members.",
+    "body": [
+      {
+        "h": "Official Premiere Schedule",
+        "p": [
+          "Fans of intense television programming now have a firm date marked on their calendars as HBO Max has locked down the return schedule for its acclaimed hospital series. The upcoming batch of episodes will officially debut at the start of the year, bringing back the high-pressure environment of the emergency department.",
+          "The streaming platform utilized social media channels to confirm that the third chapter of the medical program will launch globally on January 7, 2027. This announcement puts an end to speculation regarding when the award-winning show would make its comeback to television screens."
+        ]
+      },
+      {
+        "h": "Creative Social Media Reveal",
+        "p": [
+          "To share the news with eager audiences, the production team orchestrated a clever locker room reveal utilizing several core cast members. Actors Taylor Dearden, Isa Briones, and Gerran Howell appeared in character to unveil the timeline.",
+          "During the promotional clip, the premiere date was cleverly disclosed through handwritten notes discovered inside the performers' lockers. One specific slip of paper prominently displayed the January 7 premiere designation for viewers to spot."
+        ]
+      },
+      {
+        "h": "Fictional Setting and Real-Time Format",
+        "p": [
+          "The dramatic narrative unfolds within the fictional boundaries of the Pittsburgh Trauma Medical Center. The series chronicles the daily trials and professional hurdles faced by physicians and nursing staff during demanding hospital shifts.",
+          "A defining stylistic choice of the program remains its real-time pacing structure. Each individual episode maps out exactly one hour of a grueling fifteen-hour hospital shift inside a bustling emergency room."
+        ]
+      },
+      {
+        "h": "Returning Characters and New Faces",
+        "p": [
+          "Headlining the ensemble is Noah Wyle, who anchors the narrative in the central role of Dr Michael 'Robby' Robinavitch. He is joined by an extensive supporting cast including Patrick Ball, Katherine LaNasa, Fiona Dourif, Taylor Dearden, Isa Briones, Gerran Howell, Shabana Azeez, Ayesha Harris, Sepideh Moafi, and Shawn Hatosy.",
+          "In addition to the familiar faces, the upcoming season expands its scope by welcoming several recurring guest stars. New performers joining the roster include Stephen Chang, Barry Clifton, Chris Diamantopoulos, Lawrence Kao, Brent Sexton, JB Tadena, and Hannah Ware."
+        ]
+      },
+      {
+        "h": "Plot Direction and Therapeutic Recovery",
+        "p": [
+          "Regarding the narrative trajectory, lead star Noah Wyle shared insights indicating a deeply introspective direction for the upcoming episodes. The storyline will pivot toward exploring medical professionals experiencing healthcare from the vulnerable side of being a patient.",
+          "Furthermore, the episodes will trace Dr Robby's ongoing journey toward healing and recovery. Wyle noted that the character has embarked on a fragile yet progressive therapeutic road that carries both risk and positive personal transformation."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "HBO Max has scheduled the third season of the Emmy-winning medical drama The Pitt to premiere on January 7, 2027. The upcoming episodes will feature Noah Wyle alongside new recurring cast additions, focusing on Dr Robby's recovery and doctors navigating healthcare from a patient perspective."
+        ]
+      }
+    ],
+    "facts": [
+      "The Pitt Season 3 premieres on January 7, 2027.",
+      "The series streams on HBO Max.",
+      "Noah Wyle plays Dr Michael 'Robby' Robinavitch.",
+      "Taylor Dearden plays Mel.",
+      "Isa Briones plays Santos.",
+      "Gerran Howell plays Whitaker."
+    ],
+    "entities": {
+      "people": [
+        "Noah Wyle",
+        "Taylor Dearden",
+        "Isa Briones",
+        "Gerran Howell",
+        "Patrick Ball",
+        "Katherine LaNasa",
+        "Fiona Dourif",
+        "Shabana Azeez",
+        "Ayesha Harris",
+        "Sepideh Moafi",
+        "Shawn Hatosy",
+        "Stephen Chang",
+        "Barry Clifton",
+        "Chris Diamantopoulos",
+        "Lawrence Kao",
+        "Brent Sexton",
+        "JB Tadena",
+        "Hannah Ware"
+      ],
+      "titles": [
+        "The Pitt"
+      ]
+    },
+    "keywords": [
+      "The Pitt Season 3",
+      "Noah Wyle The Pitt",
+      "The Pitt release date",
+      "HBO Max medical drama"
+    ],
+    "images": [
+      {
+        "url": "https://cdn-english.zeenews.com/sites/default/files/2026/11/27/7914-the-pitt.png",
+        "caption": "The Pitt Season 3 Release Date Confirmed by HBO Max for January 2027",
+        "source": "Zee News — Entertainment"
+      }
+    ],
+    "published": "2026-11-28T14:29:17Z"
+  },
+  "1c156jn": {
+    "id": "1c156jn",
+    "type": "news",
+    "headline": "Vogue Williams Opens Up About Marital Struggles in Spencer Matthews' Disney+ Documentary Trailer",
+    "dek": "The model and television personality candidly discusses past tensions in the first teaser for Breaking Spencer Matthews, which follows the reality star's monumental endurance challenge.",
+    "body": [
+      {
+        "h": "A Candid Look at Marriage",
+        "p": [
+          "Vogue Williams has offered a rare and intimate glimpse into her marriage, speaking openly about past relational hurdles in the newly released promotional trailer for Breaking Spencer Matthews. The model and television personality addressed the strains caused by her husband's prior struggles, acknowledging the intense reality of their situation. Her comments set a deeply personal tone for the upcoming Disney+ documentary, which captures both the physical ambition and the emotional hurdles facing the famous couple.",
+          "Reflecting on the darkest moments of the Made In Chelsea star's past, Vogue revealed that the journey to recovery required drastic changes. She noted that he had to confront his demons directly and realized the very real possibility of losing his family if he failed to change course. Spencer echoed these sentiments in the teaser, admitting that his life risked completely unravelling if he did not take immediate steps to fix himself and reclaim his health."
+        ]
+      },
+      {
+        "h": "An Extreme Global Challenge",
+        "p": [
+          "The forthcoming documentary centres on Spencer Matthews undertaking a gruelling, unprecedented endurance feat: completing seven full Ironman-distance triathlons across seven different continents in a span of just three weeks. Setting off from London, the ambitious project builds toward its most perilous leg in Antarctica. The existing world record stands at nearly four years, making his target of twenty-one days an extraordinary physical and psychological gamble for someone who has never previously completed an Ironman.",
+          "Vogue humorously and pointedly addressed her husband's tendency toward single-minded fixation in the footage. Describing how the project materialized from his characteristic intensity, she quipped that he simply went out for a run and has barely been seen since. Alongside his close friend and guide Chris Taylor, Spencer pushes himself toward absolute breaking point as he attempts to conquer terrain that includes the freezing waters of the southern continent."
+        ]
+      },
+      {
+        "h": "Confronting Grief and Substance Abuse",
+        "p": [
+          "Beneath the high-stakes action of the athletic feat lies a poignant exploration of personal loss and recovery. Spencer opened up about his history of substance abuse, tracing the root of his reliance on alcohol directly to the profound trauma surrounding the death of his older brother. Michael Matthews tragically vanished on Mount Everest in May 1999 at the age of twenty-two while descending from the summit, having previously made history as the youngest Briton to reach the peak.",
+          "The reality star reflected on how unresolved grief fuelled his destructive habits for years, noting the heavy statistical reality of mental health struggles among young men. Finding a renewed sense of purpose through demanding personal goals has proven vital to his ongoing stability. This emotional undercurrent links the new project to his previous documentary work, creating a deeply reflective narrative arc about survival, brotherhood, and emotional accountability."
+        ]
+      },
+      {
+        "h": "A Legacy of Brotherly Tribute",
+        "p": [
+          "Spencer's journey with grief and extreme exploration is well-documented for streaming audiences, following his previous emotional expedition in Finding Michael. In that project, he retraced his late brother's final steps in the Death Zone above eight thousand metres on Mount Everest with the assistance of survivalist Bear Grylls and mountaineer Nirmal Purja. Returning to those memories helped him feel closer to his sibling than at any point since the tragedy decades prior.",
+          "Ahead of releasing his previous documentary, Spencer emphasized his desire to bring closure to his family, describing his brother as frozen in time on the mountain. Revisiting these themes in his latest venture highlights a continuous thread of healing. The upcoming series balances these solemn reflections with Spencer's signature trademark humour and magnetic personality, promising audiences an exhilarating yet deeply grounded portrait of resilience."
+        ]
+      },
+      {
+        "h": "Family Life and Shared Foundations",
+        "p": [
+          "Away from the cameras and extreme sporting endeavors, the couple shares a bustling domestic life with their four young children: Theodore, Gigi, Otto, and Remy. Having met in 2017 and married in June 2018, Vogue and Spencer's relationship has frequently played out in the public eye. Their ability to weather high-profile scrutiny alongside private hardships forms a central pillar of the new documentary's appeal.",
+          "The forthcoming series promises to capture the full spectrum of their dynamic, moving fluidly between moments of domestic levity and high-octane peril. By allowing cameras to document both his grueling physical training and their honest reflections on marital strain, the couple offers viewers an unfiltered look at the realities behind a prominent celebrity relationship."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Vogue Williams speaks about past marital struggles in the newly released trailer for Breaking Spencer Matthews, a Disney+ documentary following her husband's attempt to complete seven Ironman triathlons across seven continents in twenty-one days. The project explores Spencer's journey overcoming substance abuse tied to the grief of losing his brother Michael on Mount Everest in 1999. The series blends high-stakes athletic endurance with personal reflections on family life and mental health."
+        ]
+      }
+    ],
+    "facts": [
+      "Vogue Williams is 41 years old.",
+      "Spencer Matthews is 38 years old.",
+      "The couple married in June 2018 after meeting the previous year.",
+      "They share four children: Theodore, Gigi, Otto, and Remy.",
+      "Breaking Spencer Matthews is a Disney+ documentary.",
+      "The challenge involves seven full Ironman-distance triathlons across seven continents in three weeks.",
+      "Spencer's brother Michael reached the summit of Mount Everest in May 1999 at age 22 and vanished while descending.",
+      "Spencer previously filmed Finding Michael with Bear Grylls and Nirmal Purja."
+    ],
+    "entities": {
+      "people": [
+        "Vogue Williams",
+        "Spencer Matthews",
+        "Michael Matthews",
+        "Chris Taylor",
+        "Bear Grylls",
+        "Nirmal Purja"
+      ],
+      "titles": [
+        "Breaking Spencer Matthews",
+        "Finding Michael",
+        "Made In Chelsea"
+      ]
+    },
+    "keywords": [
+      "Breaking Spencer Matthews",
+      "Vogue Williams Spencer Matthews",
+      "Spencer Matthews Disney plus",
+      "Finding Michael documentary"
+    ],
+    "images": [],
+    "published": "2026-11-28T14:29:17Z"
+  },
+  "17l0teq": {
+    "id": "17l0teq",
+    "type": "news",
+    "headline": "Call Me Bae Season 2 Unveils Fiery New Poster Featuring Ananya Panday, Gurfateh Pirzada, and Vihaan Samat",
+    "dek": "Amazon Prime Video has released a vibrant new poster for Call Me Bae Season 2, highlighting an intense love triangle set for the upcoming December premiere.",
+    "body": [
+      {
+        "h": "Introduction to Season 2",
+        "p": [
+          "Amazon Prime Video has officially generated fresh excitement among fans by revealing a brand new poster for the second season of Call Me Bae. The upcoming installment is set to dive deeper into the glamorous and chaotic life of its central character.",
+          "Viewers can expect the romantic entanglements of the protagonist to reach new heights of complexity when the show returns to streaming screens next month."
+        ]
+      },
+      {
+        "h": "The Tennis Court Poster Reveal",
+        "p": [
+          "The newly dropped promotional image captures the three main actors dressed in fashionable athleisure attire while positioned on a tennis court. Ananya Panday stands confidently at the center as the focal point.",
+          "Flanking her are her two co-stars, who lock intense gazes across her, visually communicating the emotional tug-of-war and high-stakes drama prepared for the audience."
+        ]
+      },
+      {
+        "h": "A Messy Love Triangle",
+        "p": [
+          "The narrative picks up after the events of the initial run, where the protagonist found herself navigating complicated reunion dynamics with Agastya, portrayed by Vihaan Samat.",
+          "Now, the second season escalates the tension as Neel, played by Gurfateh Pirzada, enters the fray to compete for her attention, promising unexpected twists and romantic confusion."
+        ]
+      },
+      {
+        "h": "Cast and Crew Details",
+        "p": [
+          "Ananya Panday returns to headline the series as Bella \"Bae\" Chowdhary, supported by a talented ensemble that includes returning favorites and new additions.",
+          "Shruti Haasan joins the returning lineup alongside Vir Das, Varun Sood, Muskkaan Jaferi, Niharika Lyra Dutt, Lisa Mishra, and Mini Mathur."
+        ]
+      },
+      {
+        "h": "Production and Creative Team",
+        "p": [
+          "The series is backed by prominent producers Karan Johar, Adar Poonawalla, and Apoorva Mehta under the banner of Dharmatic Entertainment.",
+          "It was created by Ishita Moitra, who also co-wrote the scripts alongside Samina Motlekar, Rohit Nair, and Nittal Chandarana, with Somen Mishra and Collin D’Cunha serving as executive producers."
+        ]
+      },
+      {
+        "h": "Release Information",
+        "p": [
+          "Fans waiting to see how the romantic drama unfolds will not have to wait much longer, as the premiere date has been firmly established.",
+          "Call Me Bae Season 2 is scheduled to launch exclusively on Prime Video on December 17, releasing across India and more than 240 countries and territories globally."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Amazon Prime Video has unveiled a striking new poster for Call Me Bae Season 2, highlighting a messy love triangle between Ananya Panday, Gurfateh Pirzada, and Vihaan Samat. The upcoming season is slated for an exclusive global premiere on December 17 across India and over 240 countries."
+        ]
+      }
+    ],
+    "facts": [
+      "Call Me Bae Season 2 premieres on December 17",
+      "Ananya Panday reprises her role as Bella \"Bae\" Chowdhary",
+      "Gurfateh Pirzada and Vihaan Samat star alongside Ananya Panday",
+      "The series streams exclusively on Amazon Prime Video"
+    ],
+    "entities": {
+      "people": [
+        "Ananya Panday",
+        "Gurfateh Pirzada",
+        "Vihaan Samat",
+        "Karan Johar",
+        "Adar Poonawalla",
+        "Apoorva Mehta",
+        "Somen Mishra",
+        "Collin D’Cunha",
+        "Ishita Moitra",
+        "Samina Motlekar",
+        "Rohit Nair",
+        "Nittal Chandarana",
+        "Shruti Haasan",
+        "Vir Das",
+        "Varun Sood",
+        "Muskkaan Jaferi",
+        "Niharika Lyra Dutt",
+        "Lisa Mishra",
+        "Mini Mathur"
+      ],
+      "titles": [
+        "Call Me Bae",
+        "Call Me Bae Season 2"
+      ]
+    },
+    "keywords": [
+      "Call Me Bae Season 2",
+      "Ananya Panday Call Me Bae",
+      "Gurfateh Pirzada Vihaan Samat",
+      "Call Me Bae poster release"
+    ],
+    "images": [
+      {
+        "url": "https://cdn-english.zeenews.com/sites/default/files/2026/11/27/7921-call-me-bae-s2.png",
+        "caption": "Call Me Bae Season 2 Unveils Fiery New Poster Featuring Ananya Panday, Gurfateh Pirzada, and Vihaan Samat",
+        "source": "Zee News — Entertainment"
+      }
+    ],
+    "published": "2026-11-28T14:29:17Z"
   }
 };
