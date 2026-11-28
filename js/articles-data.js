@@ -275804,5 +275804,475 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Sat, 28 Nov 2026 20:51:59 +0530"
+  },
+  "khplxi": {
+    "id": "khplxi",
+    "type": "news",
+    "headline": "Ramayana producer Namit Malhotra announces GTA-style video game as film crosses Rs 1,000 crore net in India",
+    "dek": "Following the monumental box office milestone of Ramayana: Part 1, producer Namit Malhotra has revealed plans for an action video game, theme parks, and animation projects based on the epic saga.",
+    "body": [
+      {
+        "h": "Expanding Beyond Cinema",
+        "p": [
+          "Producer Namit Malhotra has unveiled an ambitious strategy to take the cinematic world of his recent blockbuster far beyond the traditional movie screen. In a recent media interaction, he disclosed that an interactive video game inspired by the epic is currently in active production. The initiative aims to offer audiences a chance to immerse themselves directly in the fantastical universe featured in the film.",
+          "The project is envisioned as an open-world experience reminiscent of popular crime action titles. The creative team wants to ensure that players can engage with the mythological narrative on an interactive level, combining entertainment with cultural storytelling."
+        ]
+      },
+      {
+        "h": "Drawing Inspiration From Popular Gaming",
+        "p": [
+          "Detailing the vision for the upcoming interactive project, Malhotra expressed a strong desire to capture the attention of younger audiences. He emphasized that children should find the adaptation just as engaging as mainstream global gaming sensations, allowing them to enjoy thrilling mechanics while absorbing traditional stories.",
+          "The gameplay strategy focuses on recreating iconic actions from the narrative arc. Developers plan to incorporate immersive sequences where players can soar through the skies alongside divine entities or engage in high-stakes confrontations against legendary adversaries."
+        ]
+      },
+      {
+        "h": "Broader Franchise Ambitions",
+        "p": [
+          "The digital game is only one component of a much larger blueprint designed to turn the cinematic property into a sprawling multi-media franchise. The production team is actively exploring additional experiential offshoots, including physical theme parks, dedicated museums, and extensive animation projects.",
+          "These complementary ventures are intended to maintain long-term audience engagement. By diversifying into immersive real-world attractions and digital formats, the stakeholders hope to establish a permanent cultural footprint for the modern adaptation."
+        ]
+      },
+      {
+        "h": "Box Office Milestone Achieved",
+        "p": [
+          "This announcement coincides with a major financial triumph at the domestic box office. The cinematic epic officially crossed the coveted Rs 1,000 crore net milestone within India, holding its ground firmly despite facing fresh competition from newly released titles in theaters.",
+          "The feature continues to draw steady crowds across multiple linguistic versions nationwide. Industry trackers note that sustained ticket sales on consecutive weekends have propelled its cumulative domestic figures to unprecedented heights."
+        ]
+      },
+      {
+        "h": "Day 23 Collection Breakdown",
+        "p": [
+          "On its 23rd day in theaters, early tracking data indicated a total collection of Rs 8.45 crore across the country, supported by a massive count of 6,584 screenings. The Hindi-language version led the daily earnings significantly, followed by healthy contributions from regional markets.",
+          "The regional earnings breakdown showed steady performance in southern and western territories, with Tamil, Malayalam, and Kannada prints retaining solid screen counts. Consequently, the overall domestic net collection reached Rs 1,000.55 crore, pushing the domestic gross past the Rs 1,195 crore threshold."
+        ]
+      },
+      {
+        "h": "Cast, Crew and Creative Vision",
+        "p": [
+          "Directed by Nitesh Tiwari and backed by Malhotra, Ramayana: Part 1 adapts foundational elements of the revered Hindu epic. The narrative centers on the journey of Lord Rama, the abduction of Sita, and the subsequent preparations for a monumental conflict with Ravana.",
+          "The star-studded cast features prominent actors in pivotal divine and mortal roles, complemented by a grand musical score crafted by renowned composers. Since its theatrical rollout, the production has remained a dominant talking point across the entertainment industry."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Producer Namit Malhotra has announced a GTA-style video game and expanded franchise plans for Ramayana as the film crosses Rs 1,000 crore net in India on its 23rd day. The Nitesh Tiwari directorial features an ensemble cast and continues its strong theatrical run across multiple languages."
+        ]
+      }
+    ],
+    "facts": [
+      "Namit Malhotra announced a GTA-style video game based on Ramayana.",
+      "The film crossed Rs 1,000 crore net in India.",
+      "Day 23 box office collection was Rs 8.45 crore across 6,584 shows in India.",
+      "The Hindi version earned Rs 5 crore from 4,976 shows on Day 23.",
+      "The Kannada version earned Rs 1.25 crore from 327 shows on Day 23.",
+      "The Tamil version added Rs 1.05 crore from 627 shows on Day 23.",
+      "The Malayalam version collected Rs 1 crore from 516 shows on Day 23.",
+      "The Telugu version contributed Rs 15 lakh from 138 shows on Day 23.",
+      "Ramayana: Rise of a Legend reached Rs 1,000.55 crore net in India with a domestic gross of Rs 1,195.10 crore.",
+      "Ramayana: Part 1 was directed by Nitesh Tiwari and released on November 5, 2026.",
+      "Ranbir Kapoor plays Lord Rama, Sai Pallavi plays Sita, Yash plays Ravana, Sunny Deol plays Hanuman, and Ravie Dubey plays Lakshman.",
+      "Music is composed by AR Rahman and Hans Zimmer."
+    ],
+    "entities": {
+      "people": [
+        "Namit Malhotra",
+        "Ranbir Kapoor",
+        "Yash",
+        "Sai Pallavi",
+        "Nitesh Tiwari",
+        "Sunny Deol",
+        "Ravie Dubey",
+        "AR Rahman",
+        "Hans Zimmer"
+      ],
+      "titles": [
+        "Ramayana",
+        "Ramayana: Rise of a Legend",
+        "Ramayana: Part 1",
+        "Yeh Prem Mol Liya",
+        "Gunmaster G9"
+      ]
+    },
+    "keywords": [
+      "Ramayana game Namit Malhotra",
+      "Ramayana box office collection",
+      "Ramayana Part 1 Ranbir Kapoor",
+      "Ramayana crosses 1000 crore"
+    ],
+    "images": [
+      {
+        "url": "https://static.toiimg.com/thumb/msid-136250906,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "caption": "Ramayana producer Namit Malhotra announces GTA-style video game as film crosses Rs 1,000 crore net in India",
+        "source": "Times of India — Entertainment"
+      }
+    ],
+    "published": "2026-11-28T21:30:28+05:30"
+  },
+  "1s3h3c3": {
+    "id": "1s3h3c3",
+    "type": "news",
+    "headline": "Nicole Scherzinger and Fiancé Thom Evans End Seven-Year Relationship After Singer Initiates Split",
+    "dek": "Pop star Nicole Scherzinger and former rugby player Thom Evans have called off their engagement after seven years together, with Thom confirming the split on social media.",
+    "body": [
+      {
+        "h": "The End of a Seven-Year Romance",
+        "p": [
+          "Popular Hollywood singer Nicole Scherzinger and former Scottish rugby player Thom Evans have officially ended their relationship. After spending seven years together, the high-profile couple has called off their engagement, marking a significant end to a romance that had frequently captured public attention.",
+          "The announcement of their separation came as a surprise to many fans who had followed their journey since they first got together. Despite sharing years of commitment and public milestones, the pair have chosen to go their separate ways, closing a major chapter in their personal lives."
+        ]
+      },
+      {
+        "h": "Thom Evans Confirms the Split on Social Media",
+        "p": [
+          "Thom Evans used an Instagram Story to share the news of the breakup with the public. In an emotional statement, the former athlete acknowledged the heavy toll of the separation, describing it as an incredibly difficult time following years of believing in a shared future.",
+          "Within his statement, Thom made it clear that the initiative to end the relationship came from Nicole. He noted that while the outcome was not what he had hoped for, he respects her choice and wishes her happiness moving forward into the next chapter of her life."
+        ]
+      },
+      {
+        "h": "How Their Relationship Began on Television",
+        "p": [
+          "The paths of Nicole Scherzinger and Thom Evans crossed back in 2019 under unique circumstances. Thom appeared as a contestant on the reality competition series The X Factor, where Nicole was serving in her role as one of the judges.",
+          "Although they initially chose to keep their growing connection out of the intense media spotlight, they eventually made their official red carpet debut as a couple at a Golden Globes afterparty in January 2020. They subsequently spent the COVID-19 lockdown period together, further strengthening their bond."
+        ]
+      },
+      {
+        "h": "Engagement and Future Plans That Were",
+        "p": [
+          "In June 2023, the couple reached a major milestone when Thom proposed to Nicole during a trip to Portugal, leading to their engagement. Following the proposal, Nicole spoke about her vision for their future wedding ceremonies, planning to tie the knot in her native Hawaii followed by a celebration in Europe.",
+          "Beyond marriage, Nicole had also openly expressed her enthusiasm about expanding their family and embracing motherhood. In a 2024 interview with The Sunday Times, she mentioned that she was eager to make time to have children with Thom."
+        ]
+      },
+      {
+        "h": "Past Relationships of the Singer",
+        "p": [
+          "Before her long-term relationship and engagement with Thom Evans, Nicole Scherzinger experienced several high-profile romances. She was previously engaged to Nick Hexum, the lead singer of the band 311.",
+          "Additionally, she shared a lengthy, on-and-off relationship with Formula 1 champion Lewis Hamilton that lasted for eight years before concluding in 2015. Following that, she was in a three-year relationship with Bulgarian tennis player Grigor Dimitrov."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Singer Nicole Scherzinger and her fiancé Thom Evans have split up after seven years together, with Thom confirming the breakup on Instagram and noting that Nicole initiated the decision. The couple initially met in 2019 on The X Factor and got engaged in June 2023 before ultimately calling off their wedding plans."
+        ]
+      }
+    ],
+    "facts": [
+      "Nicole Scherzinger and Thom Evans were together for seven years.",
+      "Thom Evans announced the separation via an Instagram Story.",
+      "The couple first met in 2019 on The X Factor.",
+      "They made their red carpet debut in January 2020.",
+      "Thom Evans proposed to Nicole Scherzinger in Portugal in June 2023."
+    ],
+    "entities": {
+      "people": [
+        "Nicole Scherzinger",
+        "Thom Evans",
+        "Nick Hexum",
+        "Lewis Hamilton",
+        "Grigor Dimitrov"
+      ],
+      "titles": [
+        "The X Factor"
+      ]
+    },
+    "keywords": [
+      "Nicole Scherzinger",
+      "Thom Evans",
+      "Nicole Scherzinger Thom Evans break up",
+      "The X Factor"
+    ],
+    "images": [
+      {
+        "url": "https://www.pinkvilla.com/images/2026-11/1498957376_nicole-scherzinger-and-thom-evans-split.webp",
+        "caption": "Nicole Scherzinger and Fiancé Thom Evans End Seven-Year Relationship After Singer Initiates Split",
+        "source": "Pinkvilla"
+      }
+    ],
+    "published": "Sat, 28 Nov 2026 18:05:55 +0530"
+  },
+  "1ursfhr": {
+    "id": "1ursfhr",
+    "type": "news",
+    "headline": "December 2026 Movie Releases Bring Massive Blockbusters, Sequels, and Prestige Dramas to Theaters",
+    "dek": "As 2026 draws to a close, cinemas are preparing for an eventful month featuring Marvel's biggest crossover, the conclusion of Denis Villeneuve's sci-fi trilogy, and a unique variety of comedies, horror, and biographical dramas.",
+    "body": [
+      {
+        "h": "An Action-Packed End to 2026",
+        "p": [
+          "The theatrical calendar for December 2026 is shaping up to be exceptionally diverse, offering film enthusiasts a robust lineup as the year winds down. Following a strong twelve months that saw the release of prominent productions and unexpected box office successes, the final month delivers everything from high-stakes comic book crossovers and science fiction finales to festive action comedies and historical period pieces.",
+          "While traditional holiday-themed releases are notably sparse, the schedule provides a healthy mixture of genres tailored for all kinds of audiences. Alongside brand-new features, studios are also utilizing the window to re-release major projects, ensuring that moviegoers have plenty of reasons to visit their local theaters before the calendar flips."
+        ]
+      },
+      {
+        "h": "Historical Dramas and Holiday Sequels on December 4",
+        "p": [
+          "The month kicks off early with notable titles arriving on December 4, 2026. Among them is November 1963, a biographical historical crime drama directed by Roland Joffé that explores the assassination of John F. Kennedy through the theory that the Chicago Outfit orchestrated the hit as payback for a broken deal. The film features an ensemble cast including John Travolta, Robert Carlyle, Dermot Mulroney, Jefferson White, and Mandy Patinkin.",
+          "Sharing the same release date is Violent Night 2, serving as the sole Christmas-centric movie of the month. Directed by Tommy Wirkola, this action comedy sequel brings back David Harbour as a former Viking warrior turned unorthodox Santa Claus. Stripped of his magic and placed on the Naughty List, Santa must save a terrorized community while fighting to regain his powers, alongside co-stars Kristen Bell, Jared Harris, Daniela Melchior, and Joe Pantoliano. Additionally, Spider-Man: Brand New Day returns to theaters on this day with an extended cut version."
+        ]
+      },
+      {
+        "h": "Musical Comedies and Biographical Stories on December 11",
+        "p": [
+          "Mid-December brings a creative shift with two very different character-driven features on December 11, 2026. The Debut, written and directed by Jesse Eisenberg, is a musical comedy-drama following a shy New Jersey housewife named Mona Friedman, played by Julianne Moore, as she auditions for a local musical and works under a demanding director portrayed by Paul Giamatti.",
+          "Playing alongside it is Elsinore, a biographical drama directed by Simon Stone that centers on the final months of Scottish actor Ian Charleson. Andrew Scott steps into the role of Charleson as he prepares to perform Hamlet at the National Theatre while dealing with severe illness caused by AIDS, supported by a cast that includes Olivia Colman, Billie Piper, Joe Locke, and Johnny Flynn."
+        ]
+      },
+      {
+        "h": "The Multiverse Collides and Dune Concludes on December 18",
+        "p": [
+          "December 18, 2026, marks one of the biggest weekends of the year, anchored by two massive tentpole releases. Avengers: Doomsday arrives as the Marvel Cinematic Universe's monumental crossover event, directed by Anthony and Joe Russo. Set fourteen months after Thunderbolts*, the film tracks a collapsing multiverse where heroes from various teams must unite against Doctor Doom, portrayed by Robert Downey Jr., alongside a massive cast featuring Chris Evans, Pedro Pascal, Florence Pugh, and many more.",
+          "Sharing the exact same release date is Dune: Part Three, the final installment in Denis Villeneuve's acclaimed sci-fi trilogy. Based on Frank Herbert's Dune Messiah, the narrative follows Timothée Chalamet's Paul Atreides nearly two decades after taking control of the Imperium as he faces the ruthless consequences of his rule, visions of collapse, and a dangerous political conspiracy alongside Zendaya, Jason Momoa, and Florence Pugh."
+        ]
+      },
+      {
+        "h": "Holiday Eve Survival and Animation",
+        "p": [
+          "As Christmas Eve arrives on December 24, 2026, audiences can choose between animated family entertainment and tense survival thrills. The Angry Birds Movie 3, directed by John Rice, finds vocal talents Jason Sudeikis and Rachel Bloom returning as Red and Silver as they navigate parenting three children while protecting their world from extinction.",
+          "Releasing on the same day is Above the Below, a survival thriller directed by Idris Elba and Martin Owen. The plot follows three astronauts—portrayed by Elba, Caitlin FitzGerald, and Hero Fiennes Tiffin—whose vessel gets knocked off course during reentry, leaving them stranded in a capsule sinking deep into the ocean without communication."
+        ]
+      },
+      {
+        "h": "Gothic Horror and Franchise Finales on Christmas Day",
+        "p": [
+          "The Christmas Day box office slate on December 25, 2026, features distinct genre counterprogramming. Robert Eggers presents Werwulf, a period gothic folk horror film set in 14th-century England where a small town faces a terrifying beast, starring Aaron Taylor-Johnson, Lily-Rose Depp, Willem Dafoe, and Ralph Ineson.",
+          "Rounding out the month is Jumanji: Open World, the fifth installment in the adventure franchise directed by Jake Kasdan. Following the events of The Next Level, the story sees characters thrust into the real world while trapped in demo mode after a heater repairman triggers the game console, featuring returning stars Dwayne Johnson, Jack Black, Kevin Hart, and Karen Gillan."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "The final month of 2026 brings an extensive variety of theatrical releases, ranging from franchise blockbusters and long-awaited sequels to intimate biographical dramas and horror films. Major highlights include Marvel's Avengers: Doomsday, Denis Villeneuve's Dune: Part Three, and holiday entries like Violent Night 2 and Jumanji: Open World.",
+          "With projects directed by notable filmmakers and starring prominent ensemble casts, December caps off a successful cinematic year by offering something for every type of moviegoer."
+        ]
+      }
+    ],
+    "facts": [
+      "December 2026 features theatrical releases including November 1963 and Violent Night 2 on December 4.",
+      "November 1963 is directed by Roland Joffé and stars John Travolta, Robert Carlyle, and Dermot Mulroney.",
+      "Violent Night 2 is directed by Tommy Wirkola and stars David Harbour as Santa Claus.",
+      "The Debut and Elsinore release in theaters on December 11, 2026.",
+      "Avengers: Doomsday and Dune: Part Three release in theaters on December 18, 2026.",
+      "The Angry Birds Movie 3 and Above the Below release on December 24, 2026.",
+      "Werwulf and Jumanji: Open World release on December 25, 2026."
+    ],
+    "entities": {
+      "people": [
+        "Adrienne Tyler",
+        "Guillermo del Toro",
+        "John Travolta",
+        "Dermot Mulroney",
+        "Roland Joffé",
+        "Robert Carlyle",
+        "Jefferson White",
+        "Mandy Patinkin",
+        "Tommy Wirkola",
+        "David Harbour",
+        "Kristen Bell",
+        "Jared Harris",
+        "Daniela Melchior",
+        "Joe Pantoliano",
+        "Jesse Eisenberg",
+        "Julianne Moore",
+        "Paul Giamatti",
+        "Halle Bailey",
+        "Colton Ryan",
+        "Lilli Cooper",
+        "Cara Buono",
+        "Simon Stone",
+        "Andrew Scott",
+        "Ian Charleson",
+        "Olivia Colman",
+        "Billie Piper",
+        "Joe Locke",
+        "Johnny Flynn",
+        "Anthony Russo",
+        "Joe Russo",
+        "Robert Downey Jr.",
+        "Chris Evans",
+        "Chris Hemsworth",
+        "Pedro Pascal",
+        "Ian McKellen",
+        "Patrick Stewart",
+        "Paul Rudd",
+        "Florence Pugh",
+        "Vanessa Kirby",
+        "Anthony Mackie",
+        "Denis Villeneuve",
+        "Timothée Chalamet",
+        "Paul Atreides",
+        "Zendaya",
+        "Jason Momoa",
+        "Rebecca Ferguson",
+        "Anya Taylor-Joy",
+        "Robert Pattinson",
+        "Javier Bardem",
+        "Josh Brolin",
+        "John Rice",
+        "Jason Sudeikis",
+        "Rachel Bloom",
+        "Idris Elba",
+        "Martin Owen",
+        "Caitlin FitzGerald",
+        "Hero Fiennes Tiffin",
+        "Robert Eggers",
+        "Aaron Taylor-Johnson",
+        "Lily-Rose Depp",
+        "Willem Dafoe",
+        "Ralph Ineson",
+        "Jake Kasdan",
+        "Jeff Pinkner",
+        "Scott Rosenberg",
+        "Chris Van Allsburg",
+        "Dwayne Johnson",
+        "Kevin Hart",
+        "Jack Black",
+        "Karen Gillan",
+        "Nick Jonas",
+        "Alex Wolff",
+        "Awkwafina",
+        "Matt Tolmach",
+        "Dany Garcia",
+        "Hiram Garcia",
+        "Kevin Feige"
+      ],
+      "titles": [
+        "The Odyssey",
+        "Project Hail Mary",
+        "Obsession",
+        "Backrooms",
+        "Spider-Man: Brand New Day",
+        "The Hunger Games: Sunrise on the Reaping",
+        "Focker In-Law",
+        "The Further Mis-Adventures of Cliff Booth",
+        "Violent Night 2",
+        "Violent Night",
+        "Avengers: Doomsday",
+        "Dune",
+        "November 1963",
+        "Chariots of Fire",
+        "Hamlet",
+        "Thunderbolts*",
+        "Avengers: Endgame",
+        "Fantastic Four",
+        "X-Men",
+        "Dune: Part Three",
+        "Dune 3: Part Three",
+        "Dune Messiah",
+        "The Angry Birds Movie 3",
+        "Above the Below",
+        "Werwulf",
+        "Jumanji: Open World",
+        "The Next Level",
+        "Nosy Neighbors",
+        "The Debut",
+        "Elsinore"
+      ]
+    },
+    "keywords": [
+      "Avengers Doomsday release date",
+      "December 2026 movie releases",
+      "Dune Part Three release",
+      "Violent Night 2 December",
+      "Jumanji Open World cast"
+    ],
+    "images": [
+      {
+        "url": "https://static0.srcdn.com/wordpress/wp-content/uploads/2026/11/doctor-doom-in-avengers-doomsday.webp?w=1600&amp;h=900&amp;fit=crop",
+        "caption": "December 2026 Movie Releases Bring Massive Blockbusters, Sequels, and Prestige Dramas to Theaters",
+        "source": "Screen Rant"
+      }
+    ],
+    "published": "Sat, 28 Nov 2026 16:00:19 GMT"
+  },
+  "1gtjb6h": {
+    "id": "1gtjb6h",
+    "type": "news",
+    "headline": "Elden Ring: Rykard, Lord of Blasphemy Board Game Expansion Scheduled for July 2027",
+    "dek": "SteamForged has announced a brand new board game expansion for Elden Ring, bringing the terrifying boss fight against Rykard, Lord of Blasphemy to tabletop players in July 2027.",
+    "body": [
+      {
+        "h": "Introduction and Release Window",
+        "p": [
+          "Fans of the critically acclaimed dark fantasy franchise have another major tabletop adaptation to look forward to. SteamForged has officially revealed through a Gamefound update that the Elden Ring: Rykard, Lord of Blasphemy board game expansion is slated to launch in July 2027.",
+          "This upcoming release expands on the physical tabletop experience of the massively popular video game, bringing one of its most memorable and grotesque boss encounters directly to the gaming table."
+        ]
+      },
+      {
+        "h": "The Legacy of Elden Ring",
+        "p": [
+          "Originally launched on February 25, 2022, the base video game quickly cemented its status as an industry-defining masterpiece. Developed by FromSoftware and published alongside Bandai Namco Entertainment, it achieved unprecedented commercial success and critical acclaim, holding a remarkable average rating of 95 out of 100 on OpenCritic.",
+          "The franchise's cultural footprint has continued to expand over the years through various extensions of its universe. This includes the 2024 expansion Shadow of the Erdtree and the 2025 multiplayer spinoff Elden Ring: Nightreign, alongside an upcoming movie adaptation slated for 2028."
+        ]
+      },
+      {
+        "h": "The Threat of Rykard",
+        "p": [
+          "Within the treacherous regions of the Lands Between, few foes match the sheer depravity of the God-Devouring Serpent. The upcoming board game expansion introduces this iconic enemy, allowing players to incorporate Rykard into their existing campaigns or challenge him as a standalone encounter.",
+          "True to the source material, the tabletop adaptation features two distinct phases of combat. Players will even gain access to specific in-game elements adapted for physical play, such as the Serpent Hunter great spear."
+        ]
+      },
+      {
+        "h": "Paths to the Chamber",
+        "p": [
+          "Reaching the chamber of the Lord of Blasphemy is no simple task, and the expansion offers three distinct pathways to test players. Each route fundamentally alters how the final showdown unfolds.",
+          "The first option is the grueling long trek by ascending Mt Gelmir, which features alternate enemy variants pulled from other Rot and Sorcery boxes. Alternatively, players risk running afoul of an Abductor Virgin, though getting caught by one leads to a much earlier and far more difficult confrontation."
+        ]
+      },
+      {
+        "h": "Expansion Components and Contents",
+        "p": [
+          "Beyond the narrative choices and alternate pathways, the physical box comes packed with various components designed to recreate the digital experience. Players will receive an encounter grid map accompanied by over 50 cards dedicated to managing the skirmish.",
+          "Additionally, the set includes the official rulebook and a detailed miniature model of Rykard himself, capturing the striking and monstrous visual design that made the character unforgettable in the video game."
+        ]
+      },
+      {
+        "h": "Enduring Popularity",
+        "p": [
+          "While the community frequently debates which title reigns supreme within FromSoftware's extensive catalog, there is little dispute regarding its unmatched popularity. The game continues to inspire physical merchandise, expansions, and widespread cultural engagement.",
+          "The translation of complex digital encounters into physical board game formats demonstrates the enduring appeal of the intellectual property, ensuring fans remain deeply invested years after its initial debut."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "SteamForged has confirmed that the Elden Ring: Rykard, Lord of Blasphemy board game expansion will release in July 2027. The set allows tabletop players to face the infamous boss through multiple paths, utilizing miniatures, cards, and rules adapted from the hit video game."
+        ]
+      }
+    ],
+    "facts": [
+      "Elden Ring was released on February 25, 2022.",
+      "The Elden Ring: Rykard, Lord of Blasphemy board game expansion is releasing in July 2027.",
+      "SteamForged revealed the expansion through a Gamefound update.",
+      "Shadow of the Erdtree was released in 2024.",
+      "Elden Ring: Nightreign is a multiplayer spinoff released in 2025.",
+      "An Elden Ring movie adaptation is slated for 2028."
+    ],
+    "entities": {
+      "people": [
+        "Chris Carter",
+        "Rykard"
+      ],
+      "titles": [
+        "Elden Ring",
+        "Shadow of the Erdtree",
+        "Elden Ring: Nightreign",
+        "Elden Ring: Rykard, Lord of Blasphemy"
+      ]
+    },
+    "keywords": [
+      "Elden Ring Rykard Lord of Blasphemy",
+      "Elden Ring board game expansion",
+      "SteamForged Elden Ring Gamefound",
+      "Elden Ring July 2027 release"
+    ],
+    "images": [
+      {
+        "url": "https://static0.srcdn.com/wordpress/wp-content/uploads/2022/12/rykard-in-the-serpent-in-elden-ring.jpg?w=1600&amp;h=900&amp;fit=crop",
+        "caption": "Elden Ring: Rykard, Lord of Blasphemy Board Game Expansion Scheduled for July 2027",
+        "source": "Screen Rant"
+      }
+    ],
+    "published": "Sat, 28 Nov 2026 16:00:19 GMT"
   }
 };

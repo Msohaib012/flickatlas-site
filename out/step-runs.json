@@ -4,45 +4,6 @@
    {
     "step": "fetch",
     "category": "Trending News",
-    "run_at": "2026-11-27T17:51:54Z",
-    "run_id": "46044942777",
-    "status": "success",
-    "checked": {
-     "candidates": 517,
-     "detail": "RSS/Atom items across 137 sources; 4 source(s) errored"
-    },
-    "changed": {
-     "added": [
-      "Ranjeet's Daughter Gigi Bedi Marries Apoorv Mathur; Jackie Shroff, Neena Gupta Attend Wedding",
-      "Bigg Boss Bangla 3 Voting Trends: Who Will Get Highest Votes- Rajveer, Srijla, Niranjan, Tanushree?",
-      "Bigg Boss 20 Episode 83 Dailymotion: Arishfa-Love Gill Fight. Who Won Captaincy Measurement Task?",
-      "Dune 3 Box Office: How Much Does Zendaya’s Sci-Fi Epic Need To Earn To Break Even?",
-      "The Fantastic Four: First Steps: Pedro Pascal’s MCU Debut Joins Marvel’s Costly Misfires Despite Grossing $500M+ At Worldwide Box Office",
-      "'Hanuman Ansh' star Shobhinaw Satyaa compares his surprise lead role to SRK's 'Fauji' journey",
-      "Inside Katy Perry and Justin Trudeau's £80,000-a-night Orient Express escape",
-      "Sai Pallavi on social media scrutiny over her Sita look: 'Make sure you are strong within'",
-      "'If I have a layer of foundation or concealer, I feel like a different person': Sai Pallavi",
-      "Gunmaaster G9 box office collection day 1: Emraan Hashmi film opens at  ₹3 crore, much less than Awarapan 2",
-      "Ramayana box office collection day 23: Ranbir Kapoor and Yash film crosses  ₹1000 crore mark, is 4th Indian film to do so",
-      "Around 14,000 girls auditioned for the roles: Mukesh Chhabra recalls casting of Dangal at IFFI 2026",
-      "‘Sita ma, how pretty she should look’: Sai Pallavi is unbothered by all the chatter about her Ramayana look, called herself most secure human being",
-      "Tupac Shakur addressed fallout with Stretch in Angie Martinez tapes on Netflix; Ed Lover defends",
-      "Florence Pugh Had Big Balls When She Called Little Women's Director And Asked Her To Hold Her Spot",
-      "How The Family Of Breaking Bad’s RJ Mitte Paid Tribute To The Late Actor On Thanksgiving",
-      "Meghan Markle Hosted Thanksgiving In The UK. I Just Found Out Her Tips And Tricks For Hosting",
-      "Wu-Tang Clan’s Thanksgiving Halftime Show Was So Good That I’m Now Worried For Jay-Z’s Super Bowl Halftime",
-      "Netflix’s 8-Part Fantasy Miniseries Is a Rare Streaming Gem With Zero Bad Episodes",
-      "‘Masters of the Universe’ Officially Continues in 2027, But There’s a Catch"
-     ],
-     "updated": [],
-     "count": 472,
-     "detail": "486 stories, 3 duplicates removed, 31 dropped"
-    },
-    "reason": null
-   },
-   {
-    "step": "fetch",
-    "category": "Trending News",
     "run_at": "2026-11-27T18:51:53Z",
     "run_id": "46052413943",
     "status": "success",
@@ -936,32 +897,48 @@
      "detail": "344 stories, 1 duplicates removed, 17 dropped"
     },
     "reason": null
-   }
-  ],
-  "apply_auto": [
+   },
    {
-    "step": "apply_auto",
+    "step": "fetch",
     "category": "Trending News",
-    "run_at": "2026-11-27T19:51:41Z",
-    "run_id": "46059494358",
+    "run_at": "2026-11-28T16:51:51Z",
+    "run_id": "46167292464",
     "status": "success",
     "checked": {
-     "candidates": 14,
-     "detail": "draft articles + box-office rows from out/gemini-batch.json"
+     "candidates": 296,
+     "detail": "RSS/Atom items across 137 sources; 6 source(s) errored"
     },
     "changed": {
      "added": [
-      "Supreme Court Dismisses Plea Against Ranbir Kapoor Starrer Ramayana",
-      "Emperor Palpatine Makes A Shocking Comeback In Upcoming Star Wars Comic Preview",
-      "Sandeep Reddy Vanga Teases Shocking and Intense Moments in Spirit",
-      "Netflix's First Pakistani Series Faces Major Roadblocks in India as Officials Call for Restraints"
+      "Year Ender 2026: 10 Game changing films from South Films; Vaazha 2, Dorothy to Premada Oorali",
+      "Inji Vellam: Vijay Sethupathi and Sai Pallavi starrer to be a school love turned realistic adult romance? Find out",
+      "Nicole Scherzinger and Fiancé Thom Evans Break Up After Seven Years Together, Singer Initiates Split",
+      "Namit Malhotra plans GTA-style game based on 'Ramayana' as film crosses Rs 1,000 cr net",
+      "Tiffany was a millionaire at 16; bought Chuck Norris' $1.2 million home at 18",
+      "Malayalam director Liju Krishna acquitted in 2022 sexual assault case",
+      "Chris Rock Sees A Huge Difference Between His Generation Of Comics And Younger Ones Like Druski",
+      "What’s It Really Like Directing A James Bond Movie? Denis Villeneuve’s Take Is Stressing Me Out",
+      "5 of the Greatest Sci-Fi Book Series, Ranked by Goodreads",
+      "Russell Crowe’s Highest-Rated Movie in 27 Years Becomes an Amazon Hit",
+      "Matt Damon & Jessica Chastain’s Sci-Fi Blockbuster & More Hulu Releases This Week",
+      "'Tulsa King' Showrunner Already Knows the Sylvester Stallone Show's Ending",
+      "Netflix's Long-Awaited 'Gears of War' Live-Action Adaptation Gets Official Release Update",
+      "Nathan Fillion's Cult Classic Sci-Fi Series Gets Major Update After 24 Years",
+      "Forget 'Saving Private Ryan,' New Real-Life WWII Thriller Is Officially in the Works",
+      "David Fincher Says New Netflix Movie Has Pushed Him Towards Retirement",
+      "Netflix’s 2-Part Detective Thriller Is So Good, It Got a Rare 100% on Rotten Tomatoes",
+      "Shrek Returns With First Look At Iconic Character In 16 Years",
+      "Shameless: Why Mandy Milkovich Was Recast In Season 2",
+      "DC Officially Names New Nightwing Replacement"
      ],
      "updated": [],
-     "count": 7,
-     "detail": "+4 articles, +0 box-office rows, 3 rows updated"
+     "count": 279,
+     "detail": "281 stories, 3 duplicates removed, 15 dropped"
     },
     "reason": null
-   },
+   }
+  ],
+  "apply_auto": [
    {
     "step": "apply_auto",
     "category": "Trending News",
@@ -1480,27 +1457,32 @@
      "detail": "+4 articles, +1 box-office rows, 3 rows updated"
     },
     "reason": null
+   },
+   {
+    "step": "apply_auto",
+    "category": "Trending News",
+    "run_at": "2026-11-28T16:52:23Z",
+    "run_id": "46167292464",
+    "status": "success",
+    "checked": {
+     "candidates": 15,
+     "detail": "draft articles + box-office rows from out/gemini-batch.json"
+    },
+    "changed": {
+     "added": [
+      "Ramayana producer Namit Malhotra announces GTA-style video game as film crosses Rs 1,000 crore net in India",
+      "Nicole Scherzinger and Fiancé Thom Evans End Seven-Year Relationship After Singer Initiates Split",
+      "December 2026 Movie Releases Bring Massive Blockbusters, Sequels, and Prestige Dramas to Theaters",
+      "Elden Ring: Rykard, Lord of Blasphemy Board Game Expansion Scheduled for July 2027"
+     ],
+     "updated": [],
+     "count": 7,
+     "detail": "+4 articles, +0 box-office rows, 3 rows updated"
+    },
+    "reason": null
    }
   ],
   "ott": [
-   {
-    "step": "ott",
-    "category": "OTT",
-    "run_at": "2026-11-27T17:54:30Z",
-    "run_id": "46044942777",
-    "status": "success",
-    "checked": {
-     "candidates": 450,
-     "detail": "OTT now/coming titles from the published catalogue"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 0,
-     "detail": "now 447, coming 3"
-    },
-    "reason": "no-new-data"
-   },
    {
     "step": "ott",
     "category": "OTT",
@@ -1914,34 +1896,27 @@
      "detail": "now 453, coming 3"
     },
     "reason": "no-new-data"
+   },
+   {
+    "step": "ott",
+    "category": "OTT",
+    "run_at": "2026-11-28T16:52:24Z",
+    "run_id": "46167292464",
+    "status": "success",
+    "checked": {
+     "candidates": 456,
+     "detail": "OTT now/coming titles from the published catalogue"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 0,
+     "detail": "now 453, coming 3"
+    },
+    "reason": "no-new-data"
    }
   ],
   "trending_weekly": [
-   {
-    "step": "trending_weekly",
-    "category": "Trending Topics",
-    "run_at": "2026-11-27T18:07:55Z",
-    "run_id": "46044942777",
-    "status": "success",
-    "checked": {
-     "candidates": 100,
-     "detail": "cached Google RSS trend/article intersection"
-    },
-    "changed": {
-     "added": [
-      "1oblivf",
-      "1tb12k6",
-      "17a9flz",
-      "1nk6sk9",
-      "m1wl3e",
-      "k4xkah",
-      "r22llq"
-     ],
-     "updated": [],
-     "count": 7
-    },
-    "reason": null
-   },
    {
     "step": "trending_weekly",
     "category": "Trending Topics",
@@ -2401,27 +2376,34 @@
      "count": 6
     },
     "reason": null
+   },
+   {
+    "step": "trending_weekly",
+    "category": "Trending Topics",
+    "run_at": "2026-11-28T16:54:29Z",
+    "run_id": "46167292464",
+    "status": "success",
+    "checked": {
+     "candidates": 100,
+     "detail": "cached Google RSS trend/article intersection"
+    },
+    "changed": {
+     "added": [
+      "1ao14lx",
+      "8kltp4",
+      "1s3h3c3",
+      "1hol4ii",
+      "cdfean",
+      "d9n5lc",
+      "1w81ynl"
+     ],
+     "updated": [],
+     "count": 7
+    },
+    "reason": null
    }
   ],
   "multisource_boxoffice": [
-   {
-    "step": "multisource_boxoffice",
-    "category": "Box Office",
-    "run_at": "2026-11-27T18:53:47Z",
-    "run_id": "46052413943",
-    "status": "success",
-    "checked": {
-     "candidates": 765,
-     "detail": "695 collected staging rows from readers; 262 averaged across 2+ sources"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 5,
-     "detail": "+0 new rows, 5 updated rows, 732 unchanged"
-    },
-    "reason": null
-   },
    {
     "step": "multisource_boxoffice",
     "category": "Box Office",
@@ -2835,19 +2817,27 @@
      "detail": "+0 new rows, 6 updated rows, 738 unchanged"
     },
     "reason": null
+   },
+   {
+    "step": "multisource_boxoffice",
+    "category": "Box Office",
+    "run_at": "2026-11-28T16:54:27Z",
+    "run_id": "46167292464",
+    "status": "success",
+    "checked": {
+     "candidates": 770,
+     "detail": "700 collected staging rows from readers; 262 averaged across 2+ sources"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 8,
+     "detail": "+0 new rows, 8 updated rows, 736 unchanged"
+    },
+    "reason": null
    }
   ],
   "gemini_reviews": [
-   {
-    "step": "gemini_reviews",
-    "category": "Reviews",
-    "run_at": "2026-11-27T18:08:04Z",
-    "run_id": "46044942777",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "gemini_reviews",
     "category": "Reviews",
@@ -3084,32 +3074,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "gemini_reviews",
+    "category": "Reviews",
+    "run_at": "2026-11-28T16:54:37Z",
+    "run_id": "46167292464",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "convert_news": [
-   {
-    "step": "convert_news",
-    "category": "Trending News",
-    "run_at": "2026-11-27T20:36:53Z",
-    "run_id": "46059494358",
-    "status": "success",
-    "checked": {
-     "candidates": 600,
-     "detail": "feed entries from out/queue.json"
-    },
-    "changed": {
-     "added": [
-      "Emperor Palpatine Makes A Shocking Comeback In Upcoming Star Wars Comic Preview",
-      "Netflix's First Pakistani Series Faces Major Roadblocks in India as Officials Call for Restraints",
-      "Supreme Court Dismisses Plea Against Ranbir Kapoor Starrer Ramayana",
-      "Sandeep Reddy Vanga Teases Shocking and Intense Moments in Spirit"
-     ],
-     "updated": [],
-     "count": 4,
-     "detail": "api-news.json 600 items, api-trends.json 12 items"
-    },
-    "reason": null
-   },
    {
     "step": "convert_news",
     "category": "Trending News",
@@ -3630,36 +3607,32 @@
      "detail": "api-news.json 600 items, api-trends.json 12 items"
     },
     "reason": null
-   }
-  ],
-  "episode_guides": [
+   },
    {
-    "step": "episode_guides",
-    "category": "Drama Episodes",
-    "run_at": "2026-11-27T17:54:02Z",
-    "run_id": "46044942777",
+    "step": "convert_news",
+    "category": "Trending News",
+    "run_at": "2026-11-28T16:54:28Z",
+    "run_id": "46167292464",
     "status": "success",
     "checked": {
-     "candidates": 17,
-     "detail": "YouTube episodes on the 4 official PK channels (+ intl 1M+ views); 12 new detected"
+     "candidates": 600,
+     "detail": "feed entries from out/queue.json"
     },
     "changed": {
      "added": [
-      "Bano Ep 44",
-      "Nashtar Ep 36",
-      "Aangan Ep 17",
-      "Dar-E-Nijaat Ep 34"
+      "Nicole Scherzinger and Fiancé Thom Evans End Seven-Year Relationship After Singer Initiates Split",
+      "December 2026 Movie Releases Bring Massive Blockbusters, Sequels, and Prestige Dramas to Theaters",
+      "Elden Ring: Rykard, Lord of Blasphemy Board Game Expansion Scheduled for July 2027",
+      "Ramayana producer Namit Malhotra announces GTA-style video game as film crosses Rs 1,000 crore net in India"
      ],
-     "updated": [
-      "Dar-E-Nijaat Ep 34",
-      "Nashtar Ep 36",
-      "Bano Ep 44",
-      "Aangan Ep 17"
-     ],
-     "count": 8
+     "updated": [],
+     "count": 4,
+     "detail": "api-news.json 600 items, api-trends.json 12 items"
     },
     "reason": null
-   },
+   }
+  ],
+  "episode_guides": [
    {
     "step": "episode_guides",
     "category": "Drama Episodes",
@@ -3916,19 +3889,19 @@
      "count": 4
     },
     "reason": null
-   }
-  ],
-  "title_seed": [
+   },
    {
-    "step": "title_seed",
-    "category": "Spotlight / Coming Soon / Most Awaited",
-    "run_at": "2026-11-27T18:08:04Z",
-    "run_id": "46044942777",
+    "step": "episode_guides",
+    "category": "Drama Episodes",
+    "run_at": "2026-11-28T16:54:37Z",
+    "run_id": "46167292464",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "title_seed": [
    {
     "step": "title_seed",
     "category": "Spotlight / Coming Soon / Most Awaited",
@@ -4250,31 +4223,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "title_seed",
+    "category": "Spotlight / Coming Soon / Most Awaited",
+    "run_at": "2026-11-28T16:54:37Z",
+    "run_id": "46167292464",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "gemini_batch": [
-   {
-    "step": "gemini_batch",
-    "category": "Trending News",
-    "run_at": "2026-11-27T17:54:29Z",
-    "run_id": "46044942777",
-    "status": "success",
-    "checked": {
-     "candidates": 4,
-     "detail": "news queue items drafted this run; 472 still unprocessed; today by category: movies 11/6, tv_dramas 12/4, episodes 1/2, box_office 11/6, celebrities_events 12/5, upcoming_releases 5/4, ott_streaming 8/4, trailers 3/3, awards 2/2, music_ost 4/2, viral 3/2"
-    },
-    "changed": {
-     "added": [
-      "Ramayana Box Office Collection Day 23: Ranbir Kapoor And Yash Film Crosses ₹1000 Crore Mark, Is 4th Indian Film To Do So",
-      "Simon Pegg's Secret Balrog Role in The Lord of the Rings: The Rings of Power Season 3 Unveiled",
-      "Emraan Hashmi Starrer Gunmaaster G9 Opens At Rs 3.65 Crore On Day One",
-      "Currys Black Friday Sale Discounts Premium Gaming Headsets to Under £50 for Switch 2 Owners"
-     ],
-     "updated": [],
-     "count": 4
-    },
-    "reason": null
-   },
    {
     "step": "gemini_batch",
     "category": "Trending News",
@@ -4780,26 +4741,31 @@
      "count": 4
     },
     "reason": null
+   },
+   {
+    "step": "gemini_batch",
+    "category": "Trending News",
+    "run_at": "2026-11-28T16:52:23Z",
+    "run_id": "46167292464",
+    "status": "success",
+    "checked": {
+     "candidates": 6,
+     "detail": "news queue items drafted this run; 279 still unprocessed; today by category: movies 11/6, tv_dramas 10/4, episodes 2/2, box_office 11/6, celebrities_events 15/5, upcoming_releases 5/4, ott_streaming 9/4, trailers 2/3, awards 3/2, music_ost 2/2, viral 2/2"
+    },
+    "changed": {
+     "added": [
+      "Ramayana producer Namit Malhotra announces GTA-style video game as film crosses Rs 1,000 crore net in India",
+      "Nicole Scherzinger and Fiancé Thom Evans End Seven-Year Relationship After Singer Initiates Split",
+      "December 2026 Movie Releases Bring Massive Blockbusters, Sequels, and Prestige Dramas to Theaters",
+      "Elden Ring: Rykard, Lord of Blasphemy Board Game Expansion Scheduled for July 2027"
+     ],
+     "updated": [],
+     "count": 4
+    },
+    "reason": null
    }
   ],
   "overseas_ai": [
-   {
-    "step": "overseas_ai",
-    "category": "Box Office",
-    "run_at": "2026-11-27T17:55:56Z",
-    "run_id": "46044942777",
-    "status": "success",
-    "checked": {
-     "candidates": 62,
-     "detail": "published movies with missing overseas day figures; Tavily searches: 48"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 0
-    },
-    "reason": "no-new-data"
-   },
    {
     "step": "overseas_ai",
     "category": "Box Office",
@@ -5106,24 +5072,19 @@
      "count": 0
     },
     "reason": "no-new-data"
+   },
+   {
+    "step": "overseas_ai",
+    "category": "Box Office",
+    "run_at": "2026-11-28T16:54:37Z",
+    "run_id": "46167292464",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "publish": [
-   {
-    "step": "publish",
-    "category": "Trending News",
-    "run_at": "2026-11-27T18:08:04Z",
-    "run_id": "46044942777",
-    "status": "success",
-    "checked": null,
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 594,
-     "detail": "lines changed in owned files; no per-item summary from script"
-    },
-    "reason": null
-   },
    {
     "step": "publish",
     "category": "Trending News",
@@ -5468,24 +5429,24 @@
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
-   }
-  ],
-  "stats_traffic": [
+   },
    {
-    "step": "stats_traffic",
-    "category": "Stats / Health",
-    "run_at": "2026-11-27T18:08:04Z",
-    "run_id": "46044942777",
+    "step": "publish",
+    "category": "Trending News",
+    "run_at": "2026-11-28T16:54:37Z",
+    "run_id": "46167292464",
     "status": "success",
     "checked": null,
     "changed": {
      "added": [],
      "updated": [],
-     "count": 18,
+     "count": 470,
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
-   },
+   }
+  ],
+  "stats_traffic": [
    {
     "step": "stats_traffic",
     "category": "Stats / Health",
@@ -5825,19 +5786,24 @@
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
+   },
+   {
+    "step": "stats_traffic",
+    "category": "Stats / Health",
+    "run_at": "2026-11-28T16:54:37Z",
+    "run_id": "46167292464",
+    "status": "success",
+    "checked": null,
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 24,
+     "detail": "lines changed in owned files; no per-item summary from script"
+    },
+    "reason": null
    }
   ],
   "stats_pipeline": [
-   {
-    "step": "stats_pipeline",
-    "category": "Stats / Health",
-    "run_at": "2026-11-27T18:08:04Z",
-    "run_id": "46044942777",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "stats_pipeline",
     "category": "Stats / Health",
@@ -6087,19 +6053,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "stats_health": [
+   },
    {
-    "step": "stats_health",
+    "step": "stats_pipeline",
     "category": "Stats / Health",
-    "run_at": "2026-11-27T18:08:04Z",
-    "run_id": "46044942777",
+    "run_at": "2026-11-28T16:54:37Z",
+    "run_id": "46167292464",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "stats_health": [
    {
     "step": "stats_health",
     "category": "Stats / Health",
@@ -6334,19 +6300,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "metadata_refresh": [
+   },
    {
-    "step": "metadata_refresh",
-    "category": "Spotlight / Coming Soon / Most Awaited",
-    "run_at": "2026-11-27T18:08:04Z",
-    "run_id": "46044942777",
+    "step": "stats_health",
+    "category": "Stats / Health",
+    "run_at": "2026-11-28T16:54:37Z",
+    "run_id": "46167292464",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "metadata_refresh": [
    {
     "step": "metadata_refresh",
     "category": "Spotlight / Coming Soon / Most Awaited",
@@ -6630,19 +6596,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "providers_backfill": [
+   },
    {
-    "step": "providers_backfill",
-    "category": "OTT",
-    "run_at": "2026-11-27T18:08:04Z",
-    "run_id": "46044942777",
+    "step": "metadata_refresh",
+    "category": "Spotlight / Coming Soon / Most Awaited",
+    "run_at": "2026-11-28T16:54:37Z",
+    "run_id": "46167292464",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "providers_backfill": [
    {
     "step": "providers_backfill",
     "category": "OTT",
@@ -6883,19 +6849,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "providers_backfill",
+    "category": "OTT",
+    "run_at": "2026-11-28T16:54:37Z",
+    "run_id": "46167292464",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "tavily_boxoffice": [
-   {
-    "step": "tavily_boxoffice",
-    "category": "Box Office",
-    "run_at": "2026-11-27T18:08:04Z",
-    "run_id": "46044942777",
-    "status": "success",
-    "checked": null,
-    "changed": null,
-    "reason": "no-new-data"
-   },
    {
     "step": "tavily_boxoffice",
     "category": "Box Office",
@@ -7125,19 +7091,19 @@
     "checked": null,
     "changed": null,
     "reason": "no-new-data"
-   }
-  ],
-  "keywords_refresh": [
+   },
    {
-    "step": "keywords_refresh",
-    "category": "Trending News",
-    "run_at": "2026-11-27T18:08:04Z",
-    "run_id": "46044942777",
+    "step": "tavily_boxoffice",
+    "category": "Box Office",
+    "run_at": "2026-11-28T16:54:37Z",
+    "run_id": "46167292464",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "keywords_refresh": [
    {
     "step": "keywords_refresh",
     "category": "Trending News",
@@ -7386,6 +7352,16 @@
     "category": "Trending News",
     "run_at": "2026-11-28T16:02:22Z",
     "run_id": "46161978763",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
+   },
+   {
+    "step": "keywords_refresh",
+    "category": "Trending News",
+    "run_at": "2026-11-28T16:54:37Z",
+    "run_id": "46167292464",
     "status": "skipped",
     "checked": null,
     "changed": null,
@@ -7927,16 +7903,6 @@
    {
     "step": "advance_booking",
     "category": "Box Office",
-    "run_at": "2026-11-27T18:08:04Z",
-    "run_id": "46044942777",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
-   {
-    "step": "advance_booking",
-    "category": "Box Office",
     "run_at": "2026-11-27T18:54:04Z",
     "run_id": "46052413943",
     "status": "success",
@@ -8173,19 +8139,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "advance_booking",
+    "category": "Box Office",
+    "run_at": "2026-11-28T16:54:37Z",
+    "run_id": "46167292464",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "home_boxoffice_worldwide": [
-   {
-    "step": "home_boxoffice_worldwide",
-    "category": "Box Office",
-    "run_at": "2026-11-27T18:08:04Z",
-    "run_id": "46044942777",
-    "status": "failed",
-    "checked": null,
-    "changed": null,
-    "reason": "error"
-   },
    {
     "step": "home_boxoffice_worldwide",
     "category": "Box Office",
@@ -8415,8 +8381,18 @@
     "checked": null,
     "changed": null,
     "reason": "error"
+   },
+   {
+    "step": "home_boxoffice_worldwide",
+    "category": "Box Office",
+    "run_at": "2026-11-28T16:54:37Z",
+    "run_id": "46167292464",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ]
  },
- "updated_at": "2026-11-28T16:02:22Z"
+ "updated_at": "2026-11-28T16:54:37Z"
 }

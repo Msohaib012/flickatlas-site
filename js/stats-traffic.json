@@ -1,20 +1,20 @@
 {
   "connected": true,
-  "generated": "2026-11-28T16:02:21Z",
+  "generated": "2026-11-28T16:54:37Z",
   "realtime": {
-    "active_users": 1
+    "active_users": 2
   },
   "today": {
-    "users": 39,
-    "pageviews": 52,
-    "sessions": 41,
-    "avg_session_seconds": 13.9
+    "users": 43,
+    "pageviews": 60,
+    "sessions": 45,
+    "avg_session_seconds": 16.1
   },
   "last7": {
-    "users": 247,
-    "pageviews": 310,
-    "sessions": 257,
-    "avg_session_seconds": 21.8
+    "users": 251,
+    "pageviews": 318,
+    "sessions": 261,
+    "avg_session_seconds": 22.0
   },
   "top_pages": [
     {
@@ -24,16 +24,16 @@
       "avg_time_seconds": 22.2
     },
     {
+      "path": "/person",
+      "title": "Actor & Filmmaker Profile | FlickAtlas",
+      "views": 20,
+      "avg_time_seconds": 3.8
+    },
+    {
       "path": "/",
       "title": "Bollywood, World Cinema & Box Office | FlickAtlas",
       "views": 19,
       "avg_time_seconds": 18.9
-    },
-    {
-      "path": "/person",
-      "title": "Actor & Filmmaker Profile | FlickAtlas",
-      "views": 18,
-      "avg_time_seconds": 3.9
     },
     {
       "path": "/movie",
@@ -82,8 +82,8 @@
     {
       "source": "(direct)",
       "medium": "(none)",
-      "sessions": 231,
-      "users": 228
+      "sessions": 235,
+      "users": 232
     },
     {
       "source": "google",
@@ -119,7 +119,7 @@
   "countries": [
     {
       "country": "United States",
-      "users": 80
+      "users": 81
     },
     {
       "country": "Brazil",
@@ -150,22 +150,22 @@
       "users": 8
     },
     {
-      "country": "Russia",
+      "country": "Argentina",
       "users": 7
     },
     {
-      "country": "Argentina",
-      "users": 6
+      "country": "Russia",
+      "users": 7
     }
   ],
   "devices": [
     {
       "device": "desktop",
-      "users": 211
+      "users": 214
     },
     {
       "device": "mobile",
-      "users": 36
+      "users": 37
     }
   ],
   "per_post": {}
