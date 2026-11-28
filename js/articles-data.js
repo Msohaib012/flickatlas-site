@@ -268873,5 +268873,477 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Fri, 27 Nov 2026 22:30:17 GMT"
+  },
+  "197cr17": {
+    "id": "197cr17",
+    "type": "news",
+    "headline": "Ramayana: Rise of a Legend Crosses Rs 1,000 Crore Net in India on Day 23",
+    "dek": "Ranbir Kapoor and Yash starrer achieves a massive box office milestone, hitting Rs 1,000.55 crore net domestically and Rs 1,790.10 crore worldwide.",
+    "body": [
+      {
+        "h": "Reaching the Historic Milestone",
+        "p": [
+          "The theatrical run of Ramayana: Rise of a Legend has achieved a monumental milestone by surpassing Rs 1,000 crore in net collections within the domestic market. Driven by strong audience turnout, the feature continues to dominate cinema halls across the country.",
+          "On its twenty-third day in theaters, the movie pulled in an impressive single-day net collection. This steady momentum has cemented its status as one of the most commercially successful cinematic ventures in recent times."
+        ]
+      },
+      {
+        "h": "Global Gross and International Earnings",
+        "p": [
+          "Beyond domestic borders, the epic drama has found substantial success in overseas territories. International markets have contributed significantly to the overall revenue, pushing the worldwide gross figures close to the Rs 1,790 crore threshold.",
+          "The overseas contribution forms a notable portion of the total worldwide earnings, highlighting the widespread global appeal of the contemporary retelling of ancient lore."
+        ]
+      },
+      {
+        "h": "Language-Wise Performance and Contributions",
+        "p": [
+          "The feature was released across multiple languages, with the Hindi version leading the domestic box office by a wide margin. Screenings in Hindi brought in the lion's share of the total earnings, supported by thousands of dedicated show screenings.",
+          "Regional versions also added healthy figures to the cumulative total. Kannada, Tamil, Malayalam, and Telugu screenings contributed varying amounts, showcasing broad linguistic acceptance across different states."
+        ]
+      },
+      {
+        "h": "Audience Occupancy and Ticket Sales",
+        "p": [
+          "Ticket counters witnessed heavy activity as hundreds of thousands of admissions were recorded on Friday alone. Over the course of its entire theatrical run, the cumulative ticket sales count has reached multi-million figures.",
+          "Occupancy rates varied across different language formats and show timings. While morning and afternoon slots saw steady footfall, evening and night screenings frequently reported higher audience engagement in various regions."
+        ]
+      },
+      {
+        "h": "Weekly Box Office Trajectory",
+        "p": [
+          "The project began its journey with a stellar extended opening week that set high financial standards. Subsequent weeks saw normal progressive drops in daily collections, which is typical for blockbusters following massive opening periods.",
+          "Despite standard theatrical drops heading into the fourth week, the feature maintained a resilient daily earning rate, proving its long-lasting power at the box office."
+        ]
+      },
+      {
+        "h": "Creative Vision and Cast",
+        "p": [
+          "Directed by Nitesh Tiwari, the cinematic adaptation brings the classic narrative of Lord Rama and Ravana to life with modern visual techniques. The initial chapter concentrates on the formative years and trials faced by Prince Rama.",
+          "The production features prominent actors including Ranbir Kapoor, Yash, and Sai Pallavi. Industry reviews have praised the project as a larger-than-life visual spectacle designed for immersive viewing formats."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Ramayana: Rise of a Legend has crossed Rs 1,000 crore in net domestic box office earnings by its twenty-third day, with worldwide gross figures reaching Rs 1,790.10 crore. The Nitesh Tiwari directorial continues to perform strongly across multiple languages and international markets."
+        ]
+      }
+    ],
+    "facts": [
+      "Ramayana: Rise of a Legend crossed Rs 1,000 crore net in India.",
+      "The worldwide gross reached Rs 1,790.10 crore.",
+      "The film earned Rs 8.45 crore on its 23rd day.",
+      "Cumulative India net collection stands at Rs 1,000.55 crore.",
+      "Domestic gross has reached Rs 1,195.10 crore.",
+      "Overseas gross stands at Rs 595 crore.",
+      "The film was screened across 6,584 shows in five languages.",
+      "Hindi version earned Rs 5 crore from 4,976 screenings.",
+      "Kannada added Rs 1.25 crore, Tamil brought in Rs 1.05 crore, Malayalam collected Rs 1 crore, and Telugu contributed Rs 15 lakh.",
+      "An estimated 3,94,518 tickets were sold on Friday.",
+      "Total ticket sales throughout the theatrical run reached 4,17,51,090.",
+      "Extended opening week accumulated Rs 564.60 crore in India net and Rs 675.05 crore gross.",
+      "Second week added Rs 299.15 crore net and Rs 357.10 crore gross.",
+      "Third week brought in Rs 128.35 crore net and Rs 152.85 crore gross.",
+      "Hindi cumulative net reached Rs 757.65 crore.",
+      "Kannada contributed Rs 79.90 crore, Telugu accumulated Rs 58.05 crore, Malayalam stands at Rs 54.30 crore, and Tamil contributed Rs 50.65 crore."
+    ],
+    "entities": {
+      "people": [
+        "Ranbir Kapoor",
+        "Yash",
+        "Sai Pallavi",
+        "Nitesh Tiwari"
+      ],
+      "titles": [
+        "Ramayana: Rise of a Legend",
+        "Ramayana"
+      ]
+    },
+    "keywords": [
+      "Ramayana Rise of a Legend box office",
+      "Ramayana Rs 1000 crore collection",
+      "Ranbir Kapoor Yash Ramayana film",
+      "Nitesh Tiwari Ramayana movie"
+    ],
+    "images": [
+      {
+        "url": "https://static.toiimg.com/thumb/msid-136235974,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "caption": "Ramayana: Rise of a Legend Crosses Rs 1,000 Crore Net in India on Day 23",
+        "source": "Times of India — Entertainment"
+      }
+    ],
+    "published": "2026-11-28T06:04:40+05:30"
+  },
+  "1vikqm2": {
+    "id": "1vikqm2",
+    "type": "news",
+    "headline": "Filmmakers Farhan Akhtar, Ashutosh Gowariker, and Madhur Bhandarkar Reflect on 25 Years of Cinematic Milestones",
+    "dek": "At the 57th International Film Festival of India, prominent directors looked back at how their iconic 2001 releases defied conventional Bollywood formulas and reshaped the industry.",
+    "body": [
+      {
+        "h": "Revisiting Groundbreaking Cinema at IFFI Goa",
+        "p": [
+          "Three defining films released in the year 2001 fundamentally challenged the established conventions of mainstream Hindi-language cinema. Farhan Akhtar introduced a fresh cinematic language for young adulthood and companionship, Ashutosh Gowariker transformed a rural sports encounter into a grand epic of defiance, and Madhur Bhandarkar exposed audiences to the hidden reality of Mumbai dance establishments.",
+          "A quarter of a century later, these visionary directors gathered to analyze the risks they took during a dedicated session titled The Legendary 25s. Hosted at the 57th International Film Festival of India in Goa, the conversation was skillfully guided by actor and producer Khushboo Sundar."
+        ]
+      },
+      {
+        "h": "Challenging Commercial Expectations",
+        "p": [
+          "A common thread united the journeys of these three creators, as all of them had to push past the rigid molds of commercial Bollywood formulas to bring their unique visions to life. While Gowariker and Bhandarkar already had previous directorial projects under their belts, Akhtar was stepping into his debut feature with distinct creative ambitions.",
+          "For Gowariker, who also serves as this year festival director, the pivotal shift occurred following the commercial failure of his first two cinematic attempts. Recognizing the need to follow his own artistic compass, he committed to creating a story he truly believed in and leaving the audience reception to fate, which ultimately sparked the creation of Lagaan."
+        ]
+      },
+      {
+        "h": "The Genesis of Lagaan and Village Resistance",
+        "p": [
+          "The premise of a period drama centered around villagers confronting British colonial rulers through a game of cricket sounded like an unlikely gamble. Gowariker dedicated himself to extensive research into nineteenth-century village life and British Raj history before approaching leading actor Aamir Khan, who initially turned down the pitch.",
+          "Determined to win him over, the director requested just three hours to narrate the script, after which Khan experienced a mix of laughter and tears and enthusiastically agreed to star in the project. The resulting film achieved international acclaim, eventually earning a coveted Academy Award nomination."
+        ]
+      },
+      {
+        "h": "Observing the Underbelly in Chandni Bar",
+        "p": [
+          "Madhur Bhandarkar drew inspiration for his gritty drama directly from real-world observation after visiting a local dance establishment alongside a companion. This sparked a six-month research phase where he explored similar venues across Mumbai to accurately capture the environment for his Tabu-starrer.",
+          "The filmmaker noted that even if the project had failed commercially, he would have remained proud of bringing his genuine observations to the screen. This dedication to depicting society's underdogs later fueled his work on subsequent acclaimed projects exploring media, corporate environments, and the fashion industry."
+        ]
+      },
+      {
+        "h": "Redefining Male Friendship and Romance",
+        "p": [
+          "With his directorial debut Dil Chahta Hai, Akhtar sought to portray a more authentic iteration of male companionship that strayed away from what he viewed as cheesy and overly dramatized cinematic tropes. He noted that schoolboy viewings of Mansoor Khan's 1988 film Qayamat Se Qayamat Tak served as an important foundational influence.",
+          "Addressing specific narrative choices, Akhtar revealed that the romance between characters played by Akshaye Khanna and Dimple Kapadia stemmed directly from his own adolescent infatuations with older women. Furthermore, he emphasized that screenplays remain living, breathing creations that constantly evolve throughout production and editing."
+        ]
+      },
+      {
+        "h": "Perspectives on Industry Shifts and Modern Technology",
+        "p": [
+          "The panel also touched upon the modern industry's heavy obsession with opening weekend box office metrics rather than genuine artistic appreciation. Gowariker remarked that every new project feels like a reset to zero, noting that traditional yardsticks like silver jubilees have given way to modern metrics that make cross-genre comparisons difficult.",
+          "Regarding technological advancements, Bhandarkar acknowledged that artificial intelligence and visual effects can greatly enhance aesthetic experiences and expand production possibilities, but asserted they can never fully substitute for genuine human touch."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Filmmakers Farhan Akhtar, Ashutosh Gowariker, and Madhur Bhandarkar gathered at the 57th International Film Festival of India to celebrate the 25th anniversary of their iconic 2001 films. The panel discussed the creative risks, real-life inspirations, and industry resistance behind Dil Chahta Hai, Lagaan, and Chandni Bar."
+        ]
+      }
+    ],
+    "facts": [
+      "The films Dil Chahta Hai, Lagaan, and Chandni Bar were released in 2001.",
+      "The session was held at the 57th International Film Festival of India in Goa.",
+      "The discussion was moderated by actor and producer Khushboo Sundar.",
+      "Madhur Bhandarkar researched dance bars in Mumbai for six months.",
+      "Mansoor Khan directed Qayamat Se Qayamat Tak in 1988."
+    ],
+    "entities": {
+      "people": [
+        "Farhan Akhtar",
+        "Ashutosh Gowariker",
+        "Madhur Bhandarkar",
+        "Udita Jhunjhunwala",
+        "Mukesh Chhabra",
+        "Barun Sobti",
+        "Abhishek Banerjee",
+        "Sudip Sharma",
+        "Khushboo Sundar",
+        "Aamir Khan",
+        "Tabu",
+        "Raveena Tandon",
+        "Saif Ali Khan",
+        "Akshaye Khanna",
+        "Dimple Kapadia",
+        "Mansoor Khan"
+      ],
+      "titles": [
+        "Dil Chahta Hai",
+        "Lagaan",
+        "Chandni Bar",
+        "Dangal",
+        "Paatal Lok",
+        "Pushpak Vimaan",
+        "Page 3",
+        "Corporate",
+        "Fashion",
+        "Satta",
+        "Qayamat Se Qayamat Tak"
+      ]
+    },
+    "keywords": [
+      "Dil Chahta Hai",
+      "Lagaan",
+      "Chandni Bar",
+      "Farhan Akhtar",
+      "IFFI Goa"
+    ],
+    "images": [
+      {
+        "url": "https://variety.com/wp-content/uploads/2026/11/Farhan-Ashu-Madhur.jpg?w=1000&#038;h=563&#038;crop=1",
+        "caption": "Filmmakers Farhan Akhtar, Ashutosh Gowariker, and Madhur Bhandarkar Reflect on 25 Years of Cinematic Milestones",
+        "source": "Variety"
+      }
+    ],
+    "published": "Fri, 27 Nov 2026 23:42:45 +0000"
+  },
+  "5oqfzb": {
+    "id": "5oqfzb",
+    "type": "news",
+    "headline": "Uncertainty Surrounds Indian Release of Pakistani Series Jo Bachay Hain Sang Samait Lo on Netflix",
+    "dek": "The upcoming Pakistani drama starring Fawad Khan and Mahira Khan remains visible on Netflix India's catalogue despite government advisories and protests from local film bodies.",
+    "body": [
+      {
+        "h": "The Netflix Catalogue Listing",
+        "p": [
+          "The upcoming streaming availability of the Pakistani original series Jo Bachay Hain Sang Samait Lo on Netflix India remains heavily debated. Even amidst growing discussions and mounting opposition, the platform continues to feature the title inside its roster of forthcoming releases for Indian subscribers.",
+          "The visibility of the show on the India-facing page points toward a scheduled global premiere date, though it leaves domestic audiences guessing whether the title will actually become playable within the region when it drops."
+        ]
+      },
+      {
+        "h": "Government Communication and Advisories",
+        "p": [
+          "The controversy deepened after reports emerged that the Ministry of Information and Broadcasting reiterated a prior advisory originally issued on May 8, 2025. This communication urged the streaming service to ensure that content originating from Pakistan is kept restricted from Indian viewers.",
+          "This latest reminder followed various representations and complaints regarding the prospective domestic premiere. Previously in June 2025, the platform had indicated to authorities that no films or series from across the border were accessible to users in India, putting the current listing under intense scrutiny."
+        ]
+      },
+      {
+        "h": "Opposition From Industry Bodies",
+        "p": [
+          "Domestic film industry organizations, including the All India Cine Workers Association, have strongly voiced their objections against the potential broadcast of the series. They have actively demanded official interventions to halt its availability.",
+          "Several prominent personalities from the film fraternity, such as actors Gajendra Chauhan, Vindu Dara Singh, and Manoj Joshi, have also registered their dissent. Their arguments center around prioritizing domestic artists and keeping cross-border entertainment off local screens amid bilateral tensions."
+        ]
+      },
+      {
+        "h": "Cast and Creative Team",
+        "p": [
+          "The much-discussed project boasts a prominent ensemble cast led by celebrated actors Fawad Khan, Mahira Khan, and Sanam Saeed, alongside Ahad Raza Mir. Their involvement has naturally driven massive international anticipation for the streaming launch.",
+          "Behind the camera, the series is directed by Momina Duraid. The creative team has brought together some of the most recognized talents from the subcontinent for this high-profile digital venture."
+        ]
+      },
+      {
+        "h": "Plot and Literary Roots",
+        "p": [
+          "The narrative is rooted in Farhat Ishtiaq's popular Urdu novel of the same name. It explores multi-generational emotional struggles, complex family bonds, and the intricacies of romantic relationships.",
+          "Promotional trailers have already offered glimpses into interconnected love stories, notably featuring a Harvard-educated, Roman-settled Pakistani lawyer named Sikandar alongside an artist named Liza."
+        ]
+      },
+      {
+        "h": "Platform Silence and Future Speculation",
+        "p": [
+          "As the global launch date draws closer, Netflix has maintained complete silence regarding whether Indian subscribers will gain access to the show. No official statements have clarified the conflicting signals between the app's catalogue and government directives.",
+          "Consequently, fans and industry observers are left awaiting a definitive word. Until an official clarification arrives, the local status of the programme remains entirely speculative."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "The Pakistani series Jo Bachay Hain Sang Samait Lo remains listed on Netflix India's upcoming releases catalogue despite government advisories and protests from local film bodies. While the platform prepares for a global premiere, its availability to Indian subscribers is uncertain following communications from the Ministry of Information and Broadcasting."
+        ]
+      }
+    ],
+    "facts": [
+      "The ministry advisory was reiterated following an original communication dated May 8, 2025.",
+      "Netflix previously communicated to the government in June 2025 that it had not made any Pakistani film or series available in India.",
+      "The series features Fawad Khan, Mahira Khan, Sanam Saeed, and Ahad Raza Mir.",
+      "The show is directed by Momina Duraid and is based on Farhat Ishtiaq's Urdu novel."
+    ],
+    "entities": {
+      "people": [
+        "Fawad Khan",
+        "Mahira Khan",
+        "Sanam Saeed",
+        "Ahad Raza Mir",
+        "Momina Duraid",
+        "Farhat Ishtiaq",
+        "Gajendra Chauhan",
+        "Vindu Dara Singh",
+        "Manoj Joshi"
+      ],
+      "titles": [
+        "Jo Bachay Hain Sang Samait Lo"
+      ]
+    },
+    "keywords": [
+      "Jo Bachay Hain Sang Samait Lo",
+      "Fawad Khan Mahira Khan Netflix",
+      "Jo Bachay Hain Sang Samait Lo release India",
+      "Pakistani series Netflix India controversy"
+    ],
+    "images": [
+      {
+        "url": "https://images.timesnownews.com/thumb/msid-156575314,thumbsize-633997,width-1280,height-720,resizemode-75/156575314.jpg",
+        "caption": "Uncertainty Surrounds Indian Release of Pakistani Series Jo Bachay Hain Sang Samait Lo on Netflix",
+        "source": "Times Now — Entertainment"
+      }
+    ],
+    "published": "2026-11-28T00:52:09Z"
+  },
+  "17hrpml": {
+    "id": "17hrpml",
+    "type": "news",
+    "headline": "Predicting Awards Season's First Big Week: Gothams, NYFCC, NBR and More",
+    "dek": "As the opening week of the Oscar race kicks off, we examine predictions for the Gotham Awards, New York Film Critics Circle, and National Board of Review.",
+    "body": [
+      {
+        "h": "The Starting Gun of the Oscar Season",
+        "p": [
+          "The opening week of the film awards season begins with a flurry of events that will quickly shape the race. For months, discussions have relied on festival premieres and studio screenings, but this week brings the first official verdicts from voting bodies with ballots. While these early organizations do not pick the Academy Awards winners directly, their choices heavily influence the conversations and momentum that follow.",
+          "The packed calendar begins on Monday with the Gotham Awards, quickly followed by the New York Film Critics Circle, Film Independent Spirit Award nominations, and the National Board of Review. Over the course of just a few days, groups including the AFI, Critics Choice, and the Los Angeles Film Critics Association will announce honorees and nominations, setting the stage for the rest of the winter race."
+        ]
+      },
+      {
+        "h": "Gotham Awards Spotlight Independent Cinema",
+        "p": [
+          "The Gotham Awards have historically served as a vital launchpad for independent features, helping smaller projects stand out against the major studio machine. Recent updates to the voting rules removed budget ceilings and expanded international categories, resulting in an eclectic mix of nominees that pairs established auteurs with first-time filmmakers.",
+          "For this year's ceremony, predictions point toward the ensemble dinner-party drama \"The Invite\" taking the top prize for best feature. Meanwhile, independent festival discoveries like \"Josephine\" serve as strong alternates in a voting system where separate five-member juries decide winners across artistic categories."
+        ]
+      },
+      {
+        "h": "New York Film Critics Circle Challenges Convention",
+        "p": [
+          "Established in 1935, the New York Film Critics Circle stands as the nation's oldest film critics organization. Known for its independent streak, the group frequently champions choices that diverge from conventional Academy preferences, occasionally establishing permanent cinematic landmarks in the process.",
+          "Predictions for the top prize favor the Elizabeth Holmes portrait \"You Can See Everything,\" which drew intense critical praise following a secret screening at Telluride. More traditional contenders like \"The Odyssey\" remain strong alternates for sweeping production achievements and technical categories."
+        ]
+      },
+      {
+        "h": "National Board of Review Delivers Early Industry Signals",
+        "p": [
+          "Founded in 1909, the National Board of Review consists of New York-area film enthusiasts rather than professional critics, and the group has published a Top 10 list annually since 1929. Because these announcements coincide with studio campaign decisions, they serve as a crucial early barometer for industry momentum.",
+          "Current forecasts suggest that the ambitious science-fiction feature \"Project Hail Mary\" could capture the top film prize and directorship honors for Phil Lord and Christopher Miller. However, the organization's acting winners and Top 10 omissions have a history of breaking away from eventual Oscar templates."
+        ]
+      },
+      {
+        "h": "The Significance of Early Ballots",
+        "p": [
+          "Every voting body answering the call this week operates with a distinct electorate and a unique relationship with the Academy. Examining who wins specific categories across these different organizations reveals which factions of the broader industry are throwing their support behind particular contenders.",
+          "Ultimately, these early trophies and nominations function as endorsements rather than definitive verdicts. Historical anomalies—such as past Best Picture winners missing out on NBR Top 10 lists entirely—demonstrate that the race remains fluid long after the first week concludes."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "The first big week of awards season brings a rapid succession of announcements and winners from groups like the Gotham Awards, the New York Film Critics Circle, and the National Board of Review. These early results help shape the broader Oscar conversation and test how different voting bodies respond to the year's major cinematic contenders."
+        ]
+      }
+    ],
+    "facts": [
+      "The Gotham Awards take place on Monday, Nov. 30.",
+      "The New York Film Critics Circle awards take place on Tuesday, Dec. 1.",
+      "The New York Film Critics Circle was founded in 1935.",
+      "The National Board of Review was founded in 1909.",
+      "The National Board of Review has named a Top 10 every year since 1929."
+    ],
+    "entities": {
+      "people": [
+        "Clayton Davis",
+        "Amanda Seyfried",
+        "Michael Urie",
+        "Seth Rogen",
+        "Penélope Cruz",
+        "Edward Norton",
+        "Ryusuke Hamaguchi",
+        "Mike Leigh",
+        "Andrew Scott",
+        "John Malkovich",
+        "Tao Okamoto",
+        "Kate O’Flynn",
+        "Guitarricadelafuente",
+        "Adia",
+        "Jordan Firstman",
+        "Aleshea Harris",
+        "Rashida Jones",
+        "Will McCormack",
+        "Simon Lyashenko",
+        "Andrey Zvyagintsev",
+        "Olivia Wilde",
+        "Christopher Nolan",
+        "Robert Pattinson",
+        "Julianne Moore",
+        "Sandra Hüller",
+        "John Cho",
+        "Cristian Mungiu",
+        "Greig Fraser",
+        "Gris Jordana",
+        "Curry Barker",
+        "Jonathan Olley",
+        "Phil Lord",
+        "Christopher Miller",
+        "Denis Villeneuve",
+        "Elle Fanning",
+        "Will Forte",
+        "Matt Damon",
+        "Inde Navarrette",
+        "Rachel Zegler",
+        "John Leguizamo",
+        "Adam Driver",
+        "Elizabeth Debicki",
+        "Samantha Morton",
+        "James Gray",
+        "Sian Heder",
+        "Rebekah Taussig",
+        "Javier Ambrossi",
+        "Javier Calvo",
+        "Alberto Conejero",
+        "Anthony Ippolito",
+        "Hoyte van Hoytema",
+        "Guillermo del Toro"
+      ],
+      "titles": [
+        "You Can See Everything",
+        "The Odyssey",
+        "Ramayana",
+        "Dune: Part Three",
+        "Wildwood",
+        "The Invite",
+        "Josephine",
+        "A Different Man",
+        "All of a Sudden",
+        "Tender Loving Care",
+        "Elsinore",
+        "Wild Horse Nine",
+        "La Bola Negra",
+        "Your Mother Your Mother Your Mother",
+        "Club Kid",
+        "Is God Is",
+        "Minotaur",
+        "Naza",
+        "Possible Love",
+        "Blue Heron",
+        "Primetime",
+        "The Drama",
+        "The Debut",
+        "Rose",
+        "Fjord",
+        "Tangles",
+        "Project Hail Mary",
+        "Rehearsals for a Revolution",
+        "Obsession",
+        "Artificial",
+        "A Complete Unknown",
+        "Nebraska",
+        "West Side Story",
+        "The Further Mis-Adventures of Cliff Booth",
+        "Paper Tiger",
+        "Being Heumann",
+        "Toy Story 5",
+        "I Play Rocky",
+        "Spider-Man: Brand New Day",
+        "The Lord of the Rings: The Return of the King",
+        "The Shape of Water"
+      ]
+    },
+    "keywords": [
+      "Gotham Awards winners",
+      "New York Film Critics Circle",
+      "National Board of Review predictions",
+      "Oscar season first week"
+    ],
+    "images": [
+      {
+        "url": "https://variety.com/wp-content/uploads/2026/09/The-Debut-Club-Kid-You-Can-See-Everything.jpg?crop=0px%2C28px%2C1000px%2C562px&#038;resize=1000%2C563",
+        "caption": "Predicting Awards Season's First Big Week: Gothams, NYFCC, NBR and More",
+        "source": "Variety"
+      }
+    ],
+    "published": "Fri, 27 Nov 2026 23:10:42 +0000"
   }
 };

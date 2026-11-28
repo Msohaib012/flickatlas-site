@@ -1,20 +1,20 @@
 {
   "connected": true,
-  "generated": "2026-11-28T00:05:48Z",
+  "generated": "2026-11-28T00:59:58Z",
   "realtime": {
-    "active_users": 0
+    "active_users": 1
   },
   "today": {
-    "users": 3,
-    "pageviews": 3,
-    "sessions": 3,
-    "avg_session_seconds": 5.9
+    "users": 5,
+    "pageviews": 5,
+    "sessions": 5,
+    "avg_session_seconds": 5.3
   },
   "last7": {
-    "users": 212,
-    "pageviews": 261,
-    "sessions": 219,
-    "avg_session_seconds": 22.7
+    "users": 214,
+    "pageviews": 263,
+    "sessions": 221,
+    "avg_session_seconds": 22.5
   },
   "top_pages": [
     {
@@ -49,6 +49,12 @@
     },
     {
       "path": "/movie",
+      "title": "Collision Course (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+      "views": 3,
+      "avg_time_seconds": 47.6
+    },
+    {
+      "path": "/movie",
       "title": "Damned (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
       "views": 3,
       "avg_time_seconds": 24.5
@@ -70,20 +76,14 @@
       "title": "McG — Bio & Selected Credits | FlickAtlas",
       "views": 3,
       "avg_time_seconds": 16.3
-    },
-    {
-      "path": "/box-office-day",
-      "title": "Resident Evil (2026) — Box Office Day 14 | FlickAtlas",
-      "views": 2,
-      "avg_time_seconds": 7.9
     }
   ],
   "sources": [
     {
       "source": "(direct)",
       "medium": "(none)",
-      "sessions": 194,
-      "users": 194
+      "sessions": 196,
+      "users": 196
     },
     {
       "source": "google",
@@ -131,7 +131,7 @@
     },
     {
       "country": "China",
-      "users": 12
+      "users": 13
     },
     {
       "country": "Mexico",
@@ -161,11 +161,11 @@
   "devices": [
     {
       "device": "desktop",
-      "users": 183
+      "users": 184
     },
     {
       "device": "mobile",
-      "users": 29
+      "users": 30
     }
   ],
   "per_post": {}
