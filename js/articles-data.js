@@ -274127,5 +274127,378 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Sat, 28 Nov 2026 11:46:05 +0000"
+  },
+  "1j0yhe3": {
+    "id": "1j0yhe3",
+    "type": "news",
+    "headline": "Sowon Considers Shutting Down Cosmetics Line Following Massive Inventory Error",
+    "dek": "The former GFRIEND member and actress admits that an overproduction misstep has put her beauty brand on the brink of closure.",
+    "body": [
+      {
+        "h": "The Critical Error",
+        "p": [
+          "Former GFRIEND member and actress Sowon is facing a severe business crisis that may force her to shut down the cosmetics brand she personally founded. In a YouTube video uploaded on November 26th, titled 'Why I Became the Owner of an Idol Cosmetics Brand That Ranked No. 1 on Music Shows,' the star urgently sought assistance from the production crew. She confessed that despite her hard work and the love the brand received, a single major miscalculation threatens to sink the entire enterprise."
+        ]
+      },
+      {
+        "h": "Overstocking Out of Impatience",
+        "p": [
+          "The root of the dilemma lies in an excessive initial production run. When her mist product sold out, Sowon grew frustrated by the month-long wait required to manufacture a new batch. Anxious to avoid downtime between restocks, she chose to order units in bulk. Unfortunately, this strategy backfired significantly, leaving her business weighed down by a massive amount of unsold inventory."
+        ]
+      },
+      {
+        "h": "Financial Strain and Capital Lockup",
+        "p": [
+          "Sowon noted that fellow business owners criticized her execution, pointing out that she failed to reserve the necessary operating capital to sustain the company. Instead, every available resource was funneled directly into stock. As a result, no matter what alternative strategies she considers, she believes the business is destined to operate in the red due to the shocking volume of surplus goods."
+        ]
+      },
+      {
+        "h": "Warehouse Pressure",
+        "p": [
+          "The urgency of the situation escalated when the shipping warehouse storing her products issued a notice requiring the inventory to be cleared out by the end of December. Upon visiting the facility to inspect the piled-up goods firsthand, Sowon took full accountability for the overproduction. She reflected that adhering to the minimum order requirement of 5,000 units for her cushion foundation would have prevented the current crisis entirely."
+        ]
+      },
+      {
+        "h": "New Product Delays",
+        "p": [
+          "The mounting stock has also stalled future product rollouts. Sowon had spent months conducting dozens of tests to develop a new cushion foundation originally planned in three different shades. However, she emphasized that introducing new merchandise is practically impossible without first clearing out the existing warehouse stock, halting her plans for brand expansion."
+        ]
+      },
+      {
+        "h": "A Final Discount Attempt",
+        "p": [
+          "In a desperate bid to salvage the brand, Sowon decided to launch a massive discount sale to clear the inventory. When the production team expressed shock at the heavily reduced pricing, she reminded them that she was using her own personal money. Though she initially considered giving everything away as gifts and walking away, lingering emotional attachment to the cushion foundation inspired her to give the business one final push."
+        ]
+      },
+      {
+        "h": "Motivations Behind the Venture",
+        "p": [
+          "Reflecting on why she entered the business world, Sowon explained that entertainers often experience irregular income streams where months can pass without earnings. To build financial stability and sustain her primary career in the long run, she chose to invest her personal savings. Her journey into the cosmetics industry began around August 2024, involving a full year of preparation before her official brand launch last November."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Sowon, an idol-turned-actress formerly of GFRIEND, is contemplating closing her self-launched cosmetics brand due to overproduction. After ordering excessive inventory to avoid restock delays, she locked up all her capital and now faces warehouse removal deadlines and stalled product launches."
+        ]
+      }
+    ],
+    "facts": [
+      "Sowon is a former member of the group GFRIEND.",
+      "A video discussing the business crisis was uploaded on YouTube on November 26th.",
+      "Sowon began preparing for the cosmetics business around August 2024.",
+      "The brand was launched last November after about a year of preparation.",
+      "The minimum order for the cushion foundation was 5,000 units."
+    ],
+    "entities": {
+      "people": [
+        "Sowon"
+      ],
+      "titles": [
+        "GFRIEND"
+      ]
+    },
+    "keywords": [
+      "Sowon cosmetics brand",
+      "GFRIEND Sowon business",
+      "Sowon overproduction mistake",
+      "Sowon YouTube video November 26"
+    ],
+    "images": [
+      {
+        "url": "https://image.koreaboo.com/2026/11/GFRIEND-Sowon-FI.jpg?imop=Resize%2Cwidth%3D1200%3BConvert%2Cformat%3Djpeg&amp;Expires=1798545600&amp;KeyName=kb&amp;Signature=UclPEEpRNUsPeNFmmCxpbW_dCvI=",
+        "caption": "Sowon Considers Shutting Down Cosmetics Line Following Massive Inventory Error",
+        "source": "Koreaboo"
+      }
+    ],
+    "published": "Sat, 28 Nov 2026 12:59:10 +0000"
+  },
+  "n3e7cb": {
+    "id": "n3e7cb",
+    "type": "news",
+    "headline": "FWICE Threatens Nationwide Halt on Netflix Shoots Over Pakistani Series",
+    "dek": "The Federation of Western India Cine Employees has issued a stern ultimatum to Netflix, threatening to pull all its members from productions across India if the platform proceeds with streaming the Pakistani series Jo Bachay Hai Sang Samait Lo.",
+    "body": [
+      {
+        "h": "The Core Controversy",
+        "p": [
+          "The Federation of Western India Cine Employees has strongly objected to the planned streaming of the Pakistani production Jo Bachay Hai Sang Samait Lo on Netflix in India. The organization voiced deep concern over the platform's decision to bring content originating from Pakistan to Indian audiences, prompting a high-profile press conference to address the situation.",
+          "Industry leaders have made it clear that the presence of cross-border entertainment content remains a sensitive and unacceptable matter for local trade bodies. The federation's leadership articulated a strict stance against any form of Pakistani media being hosted on streaming platforms within the country."
+        ]
+      },
+      {
+        "h": "Ultimatum and Strike Warning",
+        "p": [
+          "During the media address, the federation issued a direct warning regarding a potential work stoppage. If the streaming platform goes ahead with the release scheduled for December 4, local technicians and crew members belonging to the federation will walk off all active sets across the country starting December 5.",
+          "Leaders emphasized that this proposed boycott would disrupt ongoing productions and force a complete halt to local filming for the streaming giant. The trade body asserted that its professional relationships with global networks would not deter it from enforcing its long-standing policies regarding cross-border content."
+        ]
+      },
+      {
+        "h": "Arguments Raised by Industry Leaders",
+        "p": [
+          "Filmmaker Ashoke Pandit addressed reporters to explain the reasoning behind the strong pushback, pointing out that the show is entirely a Pakistani creation featuring local actors and production houses. He questioned the fairness of welcoming entertainment from a neighboring nation when reciprocal opportunities for Indian cinematic works are non-existent across the border.",
+          "The discussion also highlighted national security concerns and the emotional toll of past terror incidents, including the Mumbai and Pulwama attacks. Speakers stressed that honoring the sentiments of security forces and victims remains paramount when evaluating what content should be accessible to the public."
+        ]
+      },
+      {
+        "h": "Government Communication and Prior Commitments",
+        "p": [
+          "The federation noted that it intended to pursue official channels and take the grievance directly to government authorities. According to representatives, communication from the government had previously been sent to the platform referencing earlier directives to refrain from distributing Pakistani media in the region.",
+          "Following the release of the show's trailer and subsequent public backlash, the Ministry of Information and Broadcasting urged the streaming service to uphold its previous commitments. The administration reminded the platform of earlier communications where it assured authorities that no shows originating from Pakistan would be made available to local subscribers."
+        ]
+      },
+      {
+        "h": "Broader Stance on Cross-Border Collaborations",
+        "p": [
+          "Beyond the immediate dispute over the controversial series, the labor organization reaffirmed its total opposition to any collaboration involving Pakistani artists, musicians, or directors. The group declared that it intends to actively monitor both domestic and international projects involving local talents working alongside cross-border artists.",
+          "Leaders added that anyone making remarks deemed critical of the country or its armed forces would face staunch opposition from the federation. This uncompromising position reflects a continuous policy against welcoming foreign media entities perceived as unsympathetic to national interests."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "The Federation of Western India Cine Employees has threatened to halt all Netflix shoots in India starting December 5 if the platform releases the Pakistani series Jo Bachay Hai Sang Samait Lo on December 4. Industry representatives, including Ashoke Pandit and BN Tiwari, cited ongoing cross-border tensions, lack of reciprocity, and national sentiment while urging the government to enforce compliance with previous advisories."
+        ]
+      }
+    ],
+    "facts": [
+      "The Federation of Western India Cine Employees held a press conference on Friday.",
+      "Ashoke Pandit and BN Tiwari addressed the media.",
+      "The proposed release date for the series on Netflix was December 4.",
+      "The threatened strike date by the federation is December 5.",
+      "The Ministry of Information and Broadcasting asked the streaming platform to comply with the advisory and maintain its previous position."
+    ],
+    "entities": {
+      "people": [
+        "Ashoke Pandit",
+        "BN Tiwari",
+        "Ananya Panday",
+        "Gurfateh Pirzada",
+        "Vihaan Samat",
+        "Chandrashekhar Aazad",
+        "Narendra Modi"
+      ],
+      "titles": [
+        "Jo Bachay Hai Sang Samait Lo",
+        "Call Me Bae Season 2"
+      ]
+    },
+    "keywords": [
+      "Jo Bachay Hai Sang Samait Lo",
+      "FWICE Netflix shoots",
+      "Ashoke Pandit Jo Bachay Hai Sang Samait Lo",
+      "BN Tiwari Netflix warning"
+    ],
+    "images": [
+      {
+        "url": "https://cdn-english.zeenews.com/sites/default/files/2026/11/26/7769-jo-bachay-hai-sang-samait-lo.png",
+        "caption": "FWICE Threatens Nationwide Halt on Netflix Shoots Over Pakistani Series",
+        "source": "Zee News — Entertainment"
+      }
+    ],
+    "published": "2026-11-28T13:52:20Z"
+  },
+  "md4a4y": {
+    "id": "md4a4y",
+    "type": "news",
+    "headline": "Marisa Tomei and Kelly Macdonald Clash in Season 2 Teaser of HBO's Legal Drama",
+    "dek": "HBO has dropped the first look at the second season of its London-set legal drama, showcasing a high-stakes defamation battle led by stellar new cast members.",
+    "body": [
+      {
+        "h": "Introduction to Season 2",
+        "p": [
+          "HBO has officially released the first teaser for the second season of its acclaimed legal drama series. Following the conclusion of its initial run, the upcoming episodes shift focus to a fresh, high-profile legal dispute set against the backdrop of London.",
+          "Audiences are introduced to a brand-new central conflict handled by the show's fiercely competitive rival law firms. The new setup promises the same intense courtroom showdowns and personal entanglements that defined the first outing."
+        ]
+      },
+      {
+        "h": "The Creative Minds Behind the Show",
+        "p": [
+          "The television series is the creation of writer George Kay, widely recognized for his work on popular projects like 'Lupin' and 'Hijack'. Under his direction, the narrative maintains its sharp pacing and intricate character dynamics.",
+          "From the very beginning, the network and its partners backed the vision by ordering two seasons right out of the gate. This early commitment enabled the creator to structure the project as a quasi-anthology rather than a traditional continuous story."
+        ]
+      },
+      {
+        "h": "A Shift in Focus and Cast",
+        "p": [
+          "While the previous chapter thoroughly explored the messy separation between a tech billionaire and a Hollywood actress, the new storyline pivots entirely. The fallout from those earlier divorce proceedings is now firmly in the rearview mirror.",
+          "Stepping into the spotlight for the upcoming episodes are acclaimed performers Marisa Tomei and Kelly Macdonald. Their arrival signals an exciting evolution for the ensemble as the narrative takes on a completely different set of personal and professional stakes."
+        ]
+      },
+      {
+        "h": "The Defamation Battle Unfolds",
+        "p": [
+          "At the center of the new seasonal arc is a fierce defamation dispute between two formidable characters. Marisa Tomei stars as Avery Reed, while Kelly Macdonald steps into the role of Jo MacNeil.",
+          "The teaser offers glimpses of the intense verbal sparring and strategic maneuvering between the two leads. Their opposing sides in the courtroom promise plenty of dramatic fireworks for viewers tuning into the legal proceedings."
+        ]
+      },
+      {
+        "h": "Anthology Structure and Continuity",
+        "p": [
+          "The structural design of the television project allows for self-contained major arcs with each new batch of episodes. By pivoting to a fresh central case, the drama keeps its premise dynamic and prevents storylines from becoming stagnant.",
+          "At the same time, the presence of recurring legal professionals ensures a sense of continuity. The rival law firms anchor the universe, navigating vastly different client grievances while retaining their competitive edge."
+        ]
+      },
+      {
+        "h": "Expanding the Ensemble Cast",
+        "p": [
+          "Alongside the headline-grabbing additions of Tomei and Macdonald, the series continues to feature a robust supporting cast. Familiar faces from the broader television landscape help flesh out the intricate workings of the London legal scene.",
+          "Performers such as David Harewood, known for his work on 'Homeland', contribute to the rich tapestry of attorneys, clients, and adversaries inhabiting this high-stakes world."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "HBO has released a teaser for the second season of the London-set legal drama created by George Kay. The new season adopts an anthology format, featuring a defamation battle between new cast members Marisa Tomei and Kelly Macdonald after concluding the previous divorce storyline."
+        ]
+      }
+    ],
+    "facts": [
+      "The series is a London-set legal drama created by George Kay.",
+      "HBO and Sky ordered two seasons of the show from the outset.",
+      "Season 2 features a defamation battle between Avery Reed and Jo MacNeil.",
+      "Marisa Tomei plays Avery Reed and Kelly Macdonald plays Jo MacNeil.",
+      "David Harewood stars in the series."
+    ],
+    "entities": {
+      "people": [
+        "Marisa Tomei",
+        "Kelly Macdonald",
+        "George Kay",
+        "David Harewood",
+        "Dominic West",
+        "Sienna Miller"
+      ],
+      "titles": [
+        "War",
+        "Lupin",
+        "Hijack",
+        "Homeland"
+      ]
+    },
+    "keywords": [
+      "War Season 2 teaser",
+      "Marisa Tomei Kelly Macdonald War",
+      "George Kay HBO legal drama",
+      "War TV series season two"
+    ],
+    "images": [
+      {
+        "url": "https://cdn.theplaylist.net/wp-content/uploads/2026/11/27203729/war-season-2-marisa-tomei-kelly-macdonald.jpg",
+        "caption": "Marisa Tomei and Kelly Macdonald Clash in Season 2 Teaser of HBO's Legal Drama",
+        "source": "The Playlist"
+      }
+    ],
+    "published": "Sat, 28 Nov 2026 13:38:00 +0000"
+  },
+  "1ao14lx": {
+    "id": "1ao14lx",
+    "type": "news",
+    "headline": "Shah Rukh Khan and Kareena Kapoor Khan reunite after 15 years in Daddy Cool (King Version)",
+    "dek": "The iconic actors share the screen once again in a lively Bollywood recreation of Boney M's classic hit, part of the upcoming action thriller King.",
+    "body": [
+      {
+        "h": "A 15-Year On-Screen Reunion",
+        "p": [
+          "Actors Shah Rukh Khan and Kareena Kapoor Khan have officially come back together on screen after a gap of 15 years. Their latest collaboration takes shape in Daddy Cool (King Version), a vibrant and energetic dance track designed for the big screen.",
+          "The newly released song serves as the second major musical offering from the upcoming action thriller King, bringing back one of Bollywood's most celebrated on-screen pairings to take center stage."
+        ]
+      },
+      {
+        "h": "Reimagining a Global Classic",
+        "p": [
+          "The track gives Boney M's globally recognized hit a high-energy Bollywood treatment. Audiences are treated to a lively performance choreographed by Vaibhavi Merchant, highlighting the enduring chemistry between the two lead stars.",
+          "The musical composition for this version was handled by Sachin-Jigar. It features the vocal talents of Arijit Singh and Shilpa Rao, while the Hindi lyrics for the track were penned by Kumaar."
+        ]
+      },
+      {
+        "h": "Unveiled at Meta's Flagship Event",
+        "p": [
+          "Daddy Cool (King Version) made its official debut in front of more than 700 content creators at Meta's flagship gathering, House of Instagram 2026.",
+          "Following the live presentation, Shah Rukh Khan shared his excitement online, posting on Instagram with the caption about being back with Bebo and calling the song old school yet still cool."
+        ]
+      },
+      {
+        "h": "The Musical Rollout and Birthday Teasers",
+        "p": [
+          "The rollout of the film's music began earlier when Kareena Kapoor Khan confirmed her appearance in the project while celebrating Shah Rukh Khan's 61st birthday on November 2. On that occasion, she shared a monochrome teaser image showing their silhouettes facing each other.",
+          "At midnight on the same birthday, the makers released the film's first song, Tu Mil Jaaye, a romantic track featuring Shah Rukh Khan alongside Deepika Padukone, establishing contrasting shades for the movie's soundtrack."
+        ]
+      },
+      {
+        "h": "Cast, Crew, and Production Details",
+        "p": [
+          "Helmed by director Siddharth Anand, King features an extensive ensemble cast. Alongside the leads, the film stars Suhana Khan, Abhishek Bachchan, Jackie Shroff, Arshad Warsi, and Raghav Juyal.",
+          "The project also includes special appearances by Kareena Kapoor Khan, Rani Mukerji, and Deepika Padukone. It is backed by Gauri Khan under Red Chillies Entertainment, alongside Siddharth and Mamta Anand's Marflix Pictures."
+        ]
+      },
+      {
+        "h": "Release Strategy and Legacy",
+        "p": [
+          "King represents Shah Rukh Khan's highly anticipated return to the big screen following his 2023 release Dunki. The action thriller has been scheduled for a worldwide theatrical release on December 24, 2026.",
+          "The music video for the newly released track is currently accessible to viewers on the official YouTube channels of both Zee Music Company and T-Series."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Shah Rukh Khan and Kareena Kapoor Khan have reunited on screen after 15 years for the energetic dance track Daddy Cool (King Version). The song, composed by Sachin-Jigar and choreographed by Vaibhavi Merchant, is part of Siddharth Anand's upcoming action thriller King, slated for a global theatrical release on December 24, 2026."
+        ]
+      }
+    ],
+    "facts": [
+      "Shah Rukh Khan and Kareena Kapoor Khan reunited after 15 years.",
+      "The song is titled Daddy Cool (King Version).",
+      "King is directed by Siddharth Anand.",
+      "The film releases worldwide on December 24, 2026.",
+      "Shah Rukh Khan celebrated his 61st birthday on November 2.",
+      "The song was choreographed by Vaibhavi Merchant.",
+      "Music for the track was composed by Sachin-Jigar.",
+      "Vocals for the track are by Arijit Singh and Shilpa Rao.",
+      "Hindi lyrics were penned by Kumaar.",
+      "The first track was titled Tu Mil Jaaye and featured Deepika Padukone."
+    ],
+    "entities": {
+      "people": [
+        "Shah Rukh Khan",
+        "Kareena Kapoor Khan",
+        "Siddharth Anand",
+        "Boney M",
+        "Vaibhavi Merchant",
+        "Sachin-Jigar",
+        "Arijit Singh",
+        "Shilpa Rao",
+        "Kumaar",
+        "Deepika Padukone",
+        "Suhana Khan",
+        "Abhishek Bachchan",
+        "Jackie Shroff",
+        "Arshad Warsi",
+        "Raghav Juyal",
+        "Rani Mukerji",
+        "Gauri Khan",
+        "Mamta Anand"
+      ],
+      "titles": [
+        "King",
+        "Daddy Cool",
+        "Tu Mil Jaaye",
+        "Dunki"
+      ]
+    },
+    "keywords": [
+      "King movie",
+      "Shah Rukh Khan King",
+      "Kareena Kapoor King",
+      "Daddy Cool King version"
+    ],
+    "images": [
+      {
+        "url": "https://cdn-english.zeenews.com/sites/default/files/2026/11/27/7932-shah-rukh-khan-king-1.png",
+        "caption": "Shah Rukh Khan and Kareena Kapoor Khan reunite after 15 years in Daddy Cool (King Version)",
+        "source": "Zee News — Entertainment"
+      }
+    ],
+    "published": "2026-11-28T13:52:20Z"
   }
 };
