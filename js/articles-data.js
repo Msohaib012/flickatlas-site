@@ -273369,5 +273369,374 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Sat, 28 Nov 2026 15:50:22 +0530"
+  },
+  "161xw0p": {
+    "id": "161xw0p",
+    "type": "news",
+    "headline": "The Legend Of Zelda: The Minish Cap Is Receiving A Fan-Made 3D Remake In Unreal Engine 5",
+    "dek": "After spending a decade working on an Ocarina of Time project, creator CryZENx has turned their attention to the Game Boy Advance classic for an ambitious 3D reimagining.",
+    "body": [
+      {
+        "h": "The Announcement of a Fan-Made Project",
+        "p": [
+          "A well-known fan developer is currently undertaking a brand-new project to rebuild a beloved handheld classic in a completely different dimension. The endeavor focuses on bringing a classic top-down adventure into a modern, three-dimensional space using advanced development tools.",
+          "The creator behind the undertaking has previously spent significant time working on similar enthusiast-driven revamps, building a strong community following along the way."
+        ]
+      },
+      {
+        "h": "Origins on the Game Boy Advance",
+        "p": [
+          "The original title first debuted twenty-two years ago on portable hardware, courtesy of developer Capcom. Despite its age, it remains celebrated by enthusiasts as an underrated gem within the overarching franchise.",
+          "The game earned praise for its exceptional pixel art style and distinctive gameplay mechanics that allowed the protagonist to shrink down to a microscopic scale."
+        ]
+      },
+      {
+        "h": "Transitioning from Ocarina of Time",
+        "p": [
+          "The developer leading this fresh effort, known online as CryZENx, previously spent roughly ten years constructing an ambitious remake of another iconic entry in Unreal Engine.",
+          "That previous venture was eventually halted following the release of an official new version for the Nintendo Switch 2 console, which recently debuted to positive acclaim from players."
+        ]
+      },
+      {
+        "h": "A Fresh Visual Direction in Unreal Engine 5",
+        "p": [
+          "Moving past the previous endeavor, the creator has showcased early footage of the portable classic running inside Unreal Engine 5. The project features the familiar Toon Link model.",
+          "Unlike the darker tone of earlier works, this new concept adopts a much brighter, highly stylized aesthetic that embraces a cel-shaded visual identity."
+        ]
+      },
+      {
+        "h": "Potential Hurdles and Gameplay Mechanics",
+        "p": [
+          "Adapting the original experience into a three-dimensional environment presents distinct obstacles, particularly regarding the signature shrinking mechanic. Translating that shrinking gimmick effectively into a 3D space will likely require complex technical solutions.",
+          "Observers are eager to see if playable demonstration builds might eventually be released, similar to the regional areas and temples made available during the previous Ocarina project."
+        ]
+      },
+      {
+        "h": "Community Interest and Future Outlook",
+        "p": [
+          "While the undertaking is still in its very early phases and might not progress beyond initial teaser footage, community enthusiasm remains high. Supporters are closely monitoring updates shared through the creator's online channels.",
+          "In the meantime, franchise fans still have the option to revisit the original handheld release, which continues to hold up as a rewarding experience."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Content creator CryZENx has begun developing a 3D fan remake of the Game Boy Advance title The Legend of Zelda: The Minish Cap using Unreal Engine 5. This follows the developer's decision to move away from a decade-long Ocarina of Time project after the launch of an official Nintendo Switch 2 release, though technical challenges such as the shrinking mechanic lie ahead for the new stylized concept."
+        ]
+      }
+    ],
+    "facts": [
+      "The original game was released 22 years ago for the Game Boy Advance.",
+      "The original game was developed by Capcom.",
+      "CryZENx spent the last decade working on an Ocarina of Time remake.",
+      "The new project showcases The Minish Cap in Unreal Engine 5 with Toon Link."
+    ],
+    "entities": {
+      "people": [
+        "CryZENx",
+        "Ewan Moore"
+      ],
+      "titles": [
+        "The Legend Of Zelda: The Minish Cap",
+        "Ocarina of Time"
+      ]
+    },
+    "keywords": [
+      "The Legend of Zelda The Minish Cap",
+      "CryZENx Minish Cap 3D",
+      "The Minish Cap Unreal Engine 5",
+      "Legend of Zelda fan remake"
+    ],
+    "images": [
+      {
+        "url": "https://static0.srcdn.com/wordpress/wp-content/uploads/2022/10/Zelda_Switch_Ports_Classic_Titles_Minish_Link.jpg?w=1600&amp;h=900&amp;fit=crop",
+        "caption": "The Legend Of Zelda: The Minish Cap Is Receiving A Fan-Made 3D Remake In Unreal Engine 5",
+        "source": "Screen Rant"
+      }
+    ],
+    "published": "Sat, 28 Nov 2026 10:00:18 GMT"
+  },
+  "1wnsj0d": {
+    "id": "1wnsj0d",
+    "type": "news",
+    "headline": "Samay Raina Makes Global History With One Million Paid YouTube Members",
+    "dek": "Stand-up comedian Samay Raina has achieved a massive global milestone, becoming the first YouTube channel memberships creator to cross one million paid subscribers.",
+    "body": [
+      {
+        "h": "The Historic YouTube Milestone",
+        "p": [
+          "Stand-up comedian Samay Raina has etched his name in digital history by securing one million paid channel members on YouTube. This achievement marks the first time any creator globally has reached this specific membership milestone on the platform.",
+          "Google India officially acknowledged the historic feat in a recent blog post. The platform highlighted the deep connection the comedian has fostered with his supporters through his live broadcasts and varied comedic material."
+        ]
+      },
+      {
+        "h": "Platform Recognition and Praise",
+        "p": [
+          "In its official statement celebrating the achievement, YouTube praised the performer for his dedication. The company emphasized that this record-breaking moment stands as a proud milestone for the entire digital creator community in India.",
+          "Executives expressed excitement regarding his future projects. They noted anticipation for the energetic and humorous concepts he plans to introduce next to his vast audience."
+        ]
+      },
+      {
+        "h": "Rise Through Stand-Up and Chess Streaming",
+        "p": [
+          "The comedian began his professional journey in stand-up comedy before expanding his digital presence. He gained additional traction by streaming chess content on his YouTube channel, slowly building a dedicated viewer base.",
+          "Seeking to elevate his digital footprint further, he introduced the successful web show 'India's Got Latent'. The program quickly captured widespread attention and became a central pillar of his online brand."
+        ]
+      },
+      {
+        "h": "Navigating Controversy and Legal Hurdles",
+        "p": [
+          "Despite his rapid ascent, the Kashmir-born entertainer faced significant obstacles. His popular show 'India's Got Latent' encountered severe scrutiny after podcaster Ranveer Allahbadia uttered an offensive remark regarding parents during an episode.",
+          "The incident sparked heavy public criticism, resulting in multiple police complaints and formal FIRs filed against the host and fellow panelists. Consequently, all episodes from the first season were removed from YouTube during 2025."
+        ]
+      },
+      {
+        "h": "Resurgence Through 'Still Alive'",
+        "p": [
+          "Refusing to remain sidelined, the comedian mounted a successful comeback in 2026. He launched a new stand-up special titled 'Still Alive' to confront the turbulent period directly and reconnect with his supporters.",
+          "The special successfully revitalized audience engagement, pulling in hundreds of thousands of views on YouTube and filling live venues to maximum capacity."
+        ]
+      },
+      {
+        "h": "Return of 'India's Got Latent' Season Two",
+        "p": [
+          "Capitalizing on heavy fan demand for the show's revival, the creator brought back 'India's Got Latent' for a second season. The new installment featured notable Bollywood figures such as Alia Bhatt, Varun Dhawan, and Raghav Juyal.",
+          "The addition of high-profile celebrity guests helped propel the program back into the spotlight, contributing heavily to the explosive audience growth that ultimately drove his channel past the one million paid membership mark."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Comedian Samay Raina has become the first creator globally to reach one million paid channel members on YouTube. Following past controversies and the return of his show 'India's Got Latent' with prominent Bollywood stars, this milestone cements his record-breaking status in the digital landscape."
+        ]
+      }
+    ],
+    "facts": [
+      "Published on November 27, 2026",
+      "Samay Raina reached 1 million paid channel members on YouTube",
+      "Google India blog confirmed the milestone",
+      "Season 1 episodes of 'India's Got Latent' were removed in 2025",
+      "The stand-up special 'Still Alive' was released in 2026",
+      "Season 2 of 'India's Got Latent' featured Alia Bhatt, Varun Dhawan, and Raghav Juyal"
+    ],
+    "entities": {
+      "people": [
+        "Samay Raina",
+        "Ranveer Allahbadia",
+        "Alia Bhatt",
+        "Varun Dhawan",
+        "Raghav Juyal"
+      ],
+      "titles": [
+        "India's Got Latent",
+        "Still Alive"
+      ]
+    },
+    "keywords": [
+      "Samay Raina YouTube",
+      "India's Got Latent",
+      "Samay Raina 1 million paid members",
+      "Still Alive Samay Raina"
+    ],
+    "images": [
+      {
+        "url": "https://cdn-english.zeenews.com/sites/default/files/2026/11/27/7899-samay-raina.jpg",
+        "caption": "Samay Raina Makes Global History With One Million Paid YouTube Members",
+        "source": "Zee News — Entertainment"
+      }
+    ],
+    "published": "2026-11-28T11:51:51Z"
+  },
+  "16sgvnx": {
+    "id": "16sgvnx",
+    "type": "news",
+    "headline": "Javed Akhtar Weighs In On Salman Khan's Song Amid Vocabulary Debate",
+    "dek": "Veteran lyricist Javed Akhtar has shared his perspective on the declining standards of Bollywood lyrics following reactions to Salman Khan's track from an upcoming war drama.",
+    "body": [
+      {
+        "h": "The Debate Over Modern Lyrics",
+        "p": [
+          "A fresh conversation regarding the standard of Hindi film lyrics has taken center stage after mixed online reactions emerged surrounding a specific musical piece. The track in question features vocals by Salman Khan and has sparked considerable dialogue across digital platforms.",
+          "Observers and fans alike have questioned the creative choices behind the writing, prompting industry veterans to evaluate the broader trajectory of songwriting in mainstream cinema today."
+        ]
+      },
+      {
+        "h": "Javed Akhtar Attributes Issue to Shrinking Vocabulary",
+        "p": [
+          "Weighing in on the matter during a recent appearance on the Music 91 show streamed via the BCC YouTube channel, veteran lyricist Javed Akhtar noted that the state of film lyrics is a direct reflection of society itself. He emphasized that the film industry does not exist in a vacuum.",
+          "According to Akhtar, contemporary generations across various age groups utilize significantly fewer words than their predecessors. He expressed concern that society's general vocabulary has diminished over time."
+        ]
+      },
+      {
+        "h": "Language As An Art Form",
+        "p": [
+          "Elaborating on his concerns, Akhtar lamented that language is frequently treated merely as a functional tool rather than an esteemed art form. He pointed out a noticeable lack of public engagement with classic literature and traditional poetry.",
+          "This shift in reading habits and linguistic appreciation, he argues, naturally trickles down into popular culture, influencing how songs are written and consumed by the masses."
+        ]
+      },
+      {
+        "h": "Impact of a Profit-Driven Mindset",
+        "p": [
+          "Beyond linguistic shifts, the acclaimed writer also blamed a utility-oriented, money-first mindset for overshadowing genuine creative endeavors in modern entertainment. He questioned the prevailing societal definition of value, which often hinges strictly on financial returns.",
+          "Despite these commercial pressures, Akhtar remains optimistic about the future. He believes that younger generations are independently seeking out artistic depth, which could foster a major cultural revival in the coming decade."
+        ]
+      },
+      {
+        "h": "Context Behind The Track",
+        "p": [
+          "The track that triggered the discussion originates from the forthcoming war drama titled 'Maatrubhumi: May War Rest in Peace'. Composed and written by Sajid Khan, the song features vocals by Salman Khan alongside Muskaan.",
+          "Many audience members initially expressed confusion over the inclusion of a romantic number within a military-themed narrative."
+        ]
+      },
+      {
+        "h": "Salman Khan Clarifies Song Placement",
+        "p": [
+          "Addressing these queries during the film's official trailer launch, Salman Khan explained that the sequence finds its rightful place when an officer and several soldiers take a moment to praise their respective wives.",
+          "He also reassured viewers that the visual elements showcased in the promotional music videos will only appear briefly throughout the actual runtime of the motion picture."
+        ]
+      },
+      {
+        "h": "Cast Details and Release Schedule",
+        "p": [
+          "Alongside Salman Khan, 'Maatrubhumi: May War Rest in Peace' boasts an ensemble cast featuring Chitrangada Singh, Mukesh Rishi, Ankur Bhatia, Abhilash Chaudhary, Abhishree Sen, Zeyn Shaw, Javed Khan, and Vipin Bhardwaj.",
+          "Fans awaiting the project will not have to wait much longer, as the movie is scheduled to arrive in theatres on December 4."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Veteran lyricist Javed Akhtar recently discussed the state of modern Hindi film lyrics following online discourse surrounding Salman Khan's song from the upcoming film 'Maatrubhumi: May War Rest in Peace'. Akhtar attributed the perceived decline in writing standards to a shrinking societal vocabulary and a commercial, profit-driven mindset, though he remains hopeful for a future cultural revival. Meanwhile, Khan addressed audience confusion by explaining the narrative context of the track ahead of the movie's theatrical release on December 4."
+        ]
+      }
+    ],
+    "facts": [
+      "Javed Akhtar commented on the Music 91 show streamed on BCC's YouTube channel.",
+      "The song in question is 'Teri Sexy Beauty' from the film 'Maatrubhumi: May War Rest in Peace'.",
+      "Sajid Khan composed and wrote the song.",
+      "Salman Khan and Muskaan sang the track.",
+      "The film 'Maatrubhumi: May War Rest in Peace' is scheduled for release on December 4.",
+      "Cast members include Chitrangada Singh, Mukesh Rishi, Ankur Bhatia, Abhilash Chaudhary, Abhishree Sen, Zeyn Shaw, Javed Khan, and Vipin Bhardwaj."
+    ],
+    "entities": {
+      "people": [
+        "Javed Akhtar",
+        "Salman Khan",
+        "Sajid Khan",
+        "Muskaan",
+        "Chitrangada Singh",
+        "Mukesh Rishi",
+        "Ankur Bhatia",
+        "Abhilash Chaudhary",
+        "Abhishree Sen",
+        "Zeyn Shaw",
+        "Javed Khan",
+        "Vipin Bhardwaj"
+      ],
+      "titles": [
+        "Maatrubhumi: May War Rest in Peace",
+        "Teri Sexy Beauty"
+      ]
+    },
+    "keywords": [
+      "Javed Akhtar Maatrubhumi",
+      "Salman Khan Teri Sexy Beauty",
+      "Maatrubhumi May War Rest in Peace film",
+      "Sajid Khan song lyric standards"
+    ],
+    "images": [
+      {
+        "url": "https://static.toiimg.com/thumb/msid-136244030,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "caption": "Javed Akhtar Weighs In On Salman Khan's Song Amid Vocabulary Debate",
+        "source": "Times of India — Entertainment"
+      }
+    ],
+    "published": "2026-11-28T15:43:12+05:30"
+  },
+  "14hrdpx": {
+    "id": "14hrdpx",
+    "type": "news",
+    "headline": "BRS Extends Support to Centre's Revised Delimitation Bill",
+    "dek": "The Bharat Rashtra Samithi has announced its backing for the Centre's revised delimitation proposal, which is projected to increase Telangana's Lok Sabha seats.",
+    "body": [
+      {
+        "h": "BRS Backs the Legislation",
+        "p": [
+          "The Bharat Rashtra Samithi has confirmed its official support for the Centre's revised Delimitation Bill. This decision follows similar backing from the DMK and the Sharad Pawar-led NCP faction.",
+          "The party has emphasized its favorable stance on the legislative plan as discussions pick up ahead of upcoming political sessions in the national capital."
+        ]
+      },
+      {
+        "h": "Impact on Telangana Seats",
+        "p": [
+          "Under the proposed framework of the revised bill, the state of Telangana is positioned to experience a notable expansion in its parliamentary representation.",
+          "Projections indicate that the state's total number of Lok Sabha seats could increase from its current count of 17 up to 26 if the legislation is successfully enacted."
+        ]
+      },
+      {
+        "h": "Conditions of Support",
+        "p": [
+          "A key factor in the regional party's decision to support the proposal is the assurance that the adjustment will not negatively impact existing state quotas.",
+          "The party favors a redistribution strategy that expands the overall capacity without reducing any of the region's current share of seats."
+        ]
+      },
+      {
+        "h": "Broader Political Alignments",
+        "p": [
+          "The alignment of the regional party with the proposed legislation highlights a shifting consensus among various political factions regarding the restructuring process.",
+          "With multiple regional entities now on board, the legislative roadmap faces fewer hurdles regarding cross-party opposition on this specific issue."
+        ]
+      },
+      {
+        "h": "Parliamentary Schedule",
+        "p": [
+          "The announcement from the party leadership comes right on the heels of preparations for an upcoming special session of Parliament.",
+          "This crucial legislative gathering is formally scheduled to begin on November 30, where the bill is expected to see further debate and progression."
+        ]
+      },
+      {
+        "h": "Leadership Stance",
+        "p": [
+          "The party's working president has been closely associated with the political positioning surrounding these administrative developments in the region.",
+          "The organization currently maintains a legislative presence with three members representing them in the Rajya Sabha."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "The Bharat Rashtra Samithi has joined other regional parties in backing the Centre's revised Delimitation Bill. The legislation could potentially raise Telangana's Lok Sabha seats from 17 to 26 ahead of the special session of Parliament starting November 30."
+        ]
+      }
+    ],
+    "facts": [
+      "BRS backed the Centre's revised Delimitation Bill",
+      "Telangana's Lok Sabha seats could increase from 17 to 26",
+      "Special session of Parliament begins on November 30, 2026",
+      "Published on November 28, 2026",
+      "BRS has three MPs in the Rajya Sabha",
+      "DMK and NCP(SP) also expressed support for the proposal",
+      "KT Rama Rao is the BRS working president"
+    ],
+    "entities": {
+      "people": [
+        "Subhrajit Roy",
+        "Sharad Pawar",
+        "KT Rama Rao"
+      ],
+      "titles": []
+    },
+    "keywords": [
+      "Delimitation Bill",
+      "BRS Telangana Lok Sabha seats",
+      "KT Rama Rao Delimitation Bill",
+      "Centre Delimitation proposal"
+    ],
+    "images": [
+      {
+        "url": "https://cdn-english.zeenews.com/sites/default/files/2026/11/28/7984-1280-x-720-3.jpg",
+        "caption": "BRS Extends Support to Centre's Revised Delimitation Bill",
+        "source": "Zee News — Entertainment"
+      }
+    ],
+    "published": "2026-11-28T11:51:51Z"
   }
 };
