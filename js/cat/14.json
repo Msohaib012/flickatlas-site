@@ -1,6 +1,6 @@
 {
  "bucket": "14",
- "count": 71,
+ "count": 72,
  "titles": {
   "movie:10514": {
    "backdrop_path": "/9PPx5qspyRA0LBTBHo0BX57Vzow.jpg",
@@ -1326,6 +1326,116 @@
    "type": "movie",
    "vote_average": 7.3,
    "vote_count": 471
+  },
+  "movie:13614": {
+   "backdrop_path": "/Pbr2ImzoDbE8CdGyencQpdEOdw.jpg",
+   "budget": 5600000,
+   "cast": [
+    {
+     "c": "Jerzy",
+     "n": "Andrzej Chyra"
+    },
+    {
+     "c": "Anna",
+     "n": "Maja Ostaszewska"
+    },
+    {
+     "c": "Andrzej",
+     "n": "Artur Żmijewski"
+    },
+    {
+     "c": "General's Wife",
+     "n": "Danuta Stenka"
+    },
+    {
+     "c": "General",
+     "n": "Jan Englert"
+    },
+    {
+     "c": "Agnieszka",
+     "n": "Magdalena Cielecka"
+    },
+    {
+     "c": "School Director",
+     "n": "Agnieszka Glińska"
+    },
+    {
+     "c": "Pilot Lieutenant",
+     "n": "Paweł Małaszyński"
+    },
+    {
+     "c": "Professor's Wife",
+     "n": "Maja Komorowska"
+    },
+    {
+     "c": "Professor U. J.",
+     "n": "Władysław Kowalski"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "14",
+   "date_kind": "release",
+   "director": [
+    "Andrzej Wajda"
+   ],
+   "genres": [
+    "Drama",
+    "History",
+    "War"
+   ],
+   "id": 13614,
+   "industry": "world",
+   "origin_country": [
+    "PL"
+   ],
+   "original_language": "pl",
+   "overview": "On September 1st, 1939, Nazi Germany invades Poland, unleashing World War II. On September 17th, the Soviet Red Army crosses the border. The Polish army, unable to fight on two fronts, is defeated. Thousands of Polish men, both military and government officials, are captured by the invaders. Their fate will only be known several years later.",
+   "popularity": 2.6424,
+   "poster_path": "/g9yyF5zC2pel0gG6vxlVpkDgZgC.jpg",
+   "production_countries": [
+    "PL"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-28",
+   "release_date": "2007-09-21",
+   "revenue": 14768451,
+   "runtime": 122,
+   "source": "catalogue",
+   "spoken_languages": [
+    "uk",
+    "de",
+    "pl",
+    "ru"
+   ],
+   "status": "Released",
+   "tagline": "The untold story of the crime Stalin could not hide",
+   "title": "Katyn",
+   "trailer": {
+    "key": "40odyHxnXNU",
+    "name": "Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.663,
+   "vote_count": 300
   },
   "movie:1368314": {
    "backdrop_path": "/3pDfu71mrzSuFYyIfnKEjt8z4BC.jpg",

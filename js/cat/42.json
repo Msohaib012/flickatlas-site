@@ -1,6 +1,6 @@
 {
  "bucket": "42",
- "count": 72,
+ "count": 73,
  "titles": {
   "movie:10342": {
    "backdrop_path": "/i64i2v5EvY0qmpUkyKs5cSOwdGG.jpg",
@@ -2796,6 +2796,125 @@
    "type": "movie",
    "vote_average": 6.07,
    "vote_count": 443
+  },
+  "movie:19042": {
+   "backdrop_path": "/3DuDEqDDHG7OhbDpVEIMCTLHSic.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Charlie B. Barkin (voice)",
+     "n": "Charlie Sheen"
+    },
+    {
+     "c": "Itchy Itchiford (voice)",
+     "n": "Dom DeLuise"
+    },
+    {
+     "c": "David (voice)",
+     "n": "Adam Wylie"
+    },
+    {
+     "c": "Sasha La Fleur (voice)",
+     "n": "Sheena Easton"
+    },
+    {
+     "c": "Carface (voice)",
+     "n": "Ernest Borgnine"
+    },
+    {
+     "c": "Red (voice)",
+     "n": "George Hearn"
+    },
+    {
+     "c": "Anabelle (voice)",
+     "n": "Bebe Neuwirth"
+    },
+    {
+     "c": "Chihuahua (voice)",
+     "n": "Hamilton Camp"
+    },
+    {
+     "c": "Short Customs Dog (voice)",
+     "n": "Steve Mackall"
+    },
+    {
+     "c": "Tall Customs Dog / Angel Dog #1 (voice)",
+     "n": "Dan Castellaneta"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "G",
+   "date_kind": "release",
+   "director": [
+    "Larry Leker",
+    "Paul Sabella"
+   ],
+   "genres": [
+    "Romance",
+    "Animation",
+    "Family",
+    "Adventure",
+    "Fantasy"
+   ],
+   "id": 19042,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Charlie and Itchy return to Earth to find Gabriel's Horn, but along the way meet up with a young boy named David, who ran away from home.",
+   "popularity": 4.717,
+   "poster_path": "/kNmIJILOW9qF2F1Z0qOXkadaS50.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-28",
+   "release_date": "1996-03-29",
+   "revenue": 8620678,
+   "runtime": 82,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Heaven help us! Look who's back in the adventure of 2 lifetimes.",
+   "title": "All Dogs Go to Heaven 2",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.053,
+   "vote_count": 300
   },
   "movie:242": {
    "backdrop_path": "/zNnjHLDtV8Ti3aworltaeaLMov4.jpg",
