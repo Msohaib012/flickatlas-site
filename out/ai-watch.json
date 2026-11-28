@@ -1,32 +1,21 @@
 {
- "checked_at": "2026-11-28 09:54 PKT",
- "overall": "theek",
+ "checked_at": "2026-11-28 09:58 PKT",
+ "overall": "dhyaan-do",
  "status": "ok",
  "pipeline_hour": "2026-11-28T04:00:00Z",
  "mode": "primary",
  "verdict_source": "gemini",
  "verdicts": [
   {
-   "id": "fetch",
+   "id": "advance_booking",
    "kind": "step",
-   "name_ur": "Fetch",
+   "name_ur": "Advance Booking",
    "status": "theek",
    "modes": [],
-   "evidence_ur": "137 sources check hue, 54 ok, 51 gate par, 5 error, queue me 293 items aaye 2026-11-28 09:51 PKT par.",
-   "fix": "koi-nahi",
-   "auto_fixable": false,
-   "note_ur": "5 error sources me bot-wall aur 404 shamil hain jo ki known hain."
-  },
-  {
-   "id": "gemini_batch",
-   "kind": "step",
-   "name_ur": "Gemini Batch",
-   "status": "theek",
-   "modes": [],
-   "evidence_ur": "Aaj ka 40/40 cap poora ho chuka hai, last run 2026-11-28 09:52 PKT par chala.",
+   "evidence_ur": "Gate 11:35 / 23:35 PKT slots par hai; aakhri run 2026-11-27 23:54 PKT par theek chala.",
    "fix": "intezaar",
    "auto_fixable": false,
-   "note_ur": "Cap poora hone ki wajah se agle din 05:00 PKT tak resume hoga."
+   "note_ur": "Agla gate anay par khud chalega."
   },
   {
    "id": "apply_auto",
@@ -34,9 +23,10 @@
    "name_ur": "Apply Auto",
    "status": "theek",
    "modes": [],
-   "evidence_ur": "Drafts aur box-office rows successfully apply hue 2026-11-28 09:52 PKT par.",
+   "evidence_ur": "Har ghante chalne wala step; aakhri real run 2026-11-28 09:58 PKT par kamyab raha.",
    "fix": "koi-nahi",
-   "auto_fixable": false
+   "auto_fixable": false,
+   "note_ur": "Draft articles aur box office rows theek apply ho gaye."
   },
   {
    "id": "convert_news",
@@ -44,70 +34,10 @@
    "name_ur": "Convert News",
    "status": "theek",
    "modes": [],
-   "evidence_ur": "Queue entries successfully convert huin 2026-11-28 09:54 PKT par.",
-   "fix": "koi-nahi",
-   "auto_fixable": false
-  },
-  {
-   "id": "ott",
-   "kind": "step",
-   "name_ur": "OTT",
-   "status": "theek",
-   "modes": [],
-   "evidence_ur": "OTT titles successfully check hue 2026-11-28 09:52 PKT par, koi naya data nahi tha.",
+   "evidence_ur": "Aakhri real run 2026-11-28 09:58 PKT par hua, reason: no-new-data.",
    "fix": "koi-nahi",
    "auto_fixable": false,
-   "note_ur": "Reason: no-new-data."
-  },
-  {
-   "id": "publish",
-   "kind": "step",
-   "name_ur": "Publish",
-   "status": "theek",
-   "modes": [],
-   "evidence_ur": "Publish step successfully chala 2026-11-28 09:54 PKT par.",
-   "fix": "koi-nahi",
-   "auto_fixable": false
-  },
-  {
-   "id": "stats_traffic",
-   "kind": "step",
-   "name_ur": "Stats Traffic",
-   "status": "theek",
-   "modes": [],
-   "evidence_ur": "Traffic stats successfully record hue 2026-11-28 09:54 PKT par.",
-   "fix": "koi-nahi",
-   "auto_fixable": false
-  },
-  {
-   "id": "multisource_boxoffice",
-   "kind": "step",
-   "name_ur": "Multisource Box Office",
-   "status": "theek",
-   "modes": [],
-   "evidence_ur": "698 staging rows collect huin, 262 averaged 2+ sources se 2026-11-28 09:54 PKT par.",
-   "fix": "koi-nahi",
-   "auto_fixable": false
-  },
-  {
-   "id": "trending_weekly",
-   "kind": "step",
-   "name_ur": "Trending Weekly",
-   "status": "theek",
-   "modes": [],
-   "evidence_ur": "Cached Google RSS trend check hua 2026-11-28 09:54 PKT par, no-new-data.",
-   "fix": "koi-nahi",
-   "auto_fixable": false
-  },
-  {
-   "id": "advance_booking",
-   "kind": "step",
-   "name_ur": "Advance Booking",
-   "status": "theek",
-   "modes": [],
-   "evidence_ur": "Gate par hai, aakhri real run 2026-11-27 23:54 PKT par successful tha.",
-   "fix": "intezaar",
-   "auto_fixable": false
+   "note_ur": "Naya data nahi tha isliye skip hua, jo ke mamool hai."
   },
   {
    "id": "episode_guides",
@@ -115,9 +45,32 @@
    "name_ur": "Episode Guides",
    "status": "theek",
    "modes": [],
-   "evidence_ur": "Gate par hai, aakhri real run 2026-11-28 00:51 PKT par successful tha.",
+   "evidence_ur": "Gate 18:35 / 20:35 / 22:35 / 00:35 PKT slots par hai; aakhri real run 2026-11-28 00:51 PKT par theek chala.",
    "fix": "intezaar",
-   "auto_fixable": false
+   "auto_fixable": false,
+   "note_ur": "Sahi waqt par dobara chalega."
+  },
+  {
+   "id": "fetch",
+   "kind": "step",
+   "name_ur": "Fetch Sources",
+   "status": "theek",
+   "modes": [],
+   "evidence_ur": "Aakhri real run 2026-11-28 09:51 PKT par hua; 54 ok, 51 not_due, 5 error, 27 unchanged.",
+   "fix": "source",
+   "auto_fixable": false,
+   "note_ur": "5 sources mein error aaya (jin mein 403/404 bot-wall/known hain)."
+  },
+  {
+   "id": "gemini_batch",
+   "kind": "step",
+   "name_ur": "Gemini Batch",
+   "status": "theek",
+   "modes": [],
+   "evidence_ur": "Aakhri real run 2026-11-28 09:52 PKT par hua; aaj ke 40/40 drafts pooray ho chukay hain.",
+   "fix": "intezaar",
+   "auto_fixable": false,
+   "note_ur": "Daily cap 40/40 reach ho gaya hai, ab aglay din reset hoga."
   },
   {
    "id": "gemini_reviews",
@@ -125,9 +78,10 @@
    "name_ur": "Gemini Reviews",
    "status": "theek",
    "modes": [],
-   "evidence_ur": "Gate par hai, aakhri real run 2026-11-28 01:36 PKT par successful tha.",
+   "evidence_ur": "Gate 00:35 PKT slot par hai; aakhri real run 2026-11-28 01:36 PKT par theek chala.",
    "fix": "intezaar",
-   "auto_fixable": false
+   "auto_fixable": false,
+   "note_ur": "Rozana ek dafa chalne wala step hai."
   },
   {
    "id": "home_boxoffice_worldwide",
@@ -148,9 +102,10 @@
    "name_ur": "Keywords Refresh",
    "status": "theek",
    "modes": [],
-   "evidence_ur": "Gate par hai, aakhri real run 2026-11-28 09:01 PKT par successful tha.",
+   "evidence_ur": "Gate 08:35 PKT slot par hai; aakhri real run 2026-11-28 09:01 PKT par theek chala.",
    "fix": "intezaar",
-   "auto_fixable": false
+   "auto_fixable": false,
+   "note_ur": "Sahi waqt par run ho chuka hai."
   },
   {
    "id": "metadata_refresh",
@@ -158,9 +113,32 @@
    "name_ur": "Metadata Refresh",
    "status": "theek",
    "modes": [],
-   "evidence_ur": "Gate par hai, aakhri real run 2027-11-27 (2026-11-27) 11:52 PKT par successful tha.",
+   "evidence_ur": "Gate 11:35 PKT slot par hai; aakhri real run 2026-11-27 11:52 PKT par theek chala.",
    "fix": "intezaar",
-   "auto_fixable": false
+   "auto_fixable": false,
+   "note_ur": "Weekly step hai, gate par dobara chalega."
+  },
+  {
+   "id": "multisource_boxoffice",
+   "kind": "step",
+   "name_ur": "Multisource Box Office",
+   "status": "theek",
+   "modes": [],
+   "evidence_ur": "Aakhri real run 2026-11-28 09:54 PKT par hua; 698 staging rows collect hue aur 262 average huay.",
+   "fix": "koi-nahi",
+   "auto_fixable": false,
+   "note_ur": "Box office data bar waqt update ho raha hai."
+  },
+  {
+   "id": "ott",
+   "kind": "step",
+   "name_ur": "OTT Providers",
+   "status": "theek",
+   "modes": [],
+   "evidence_ur": "Aakhri real run 2026-11-28 09:52 PKT par hua, reason: no-new-data.",
+   "fix": "koi-nahi",
+   "auto_fixable": false,
+   "note_ur": "Naya OTT data nahi tha, isliye skip hua."
   },
   {
    "id": "overseas_ai",
@@ -168,9 +146,10 @@
    "name_ur": "Overseas AI",
    "status": "theek",
    "modes": [],
-   "evidence_ur": "Gate par hai, aakhri real run 2026-11-28 08:52 PKT par successful tha.",
+   "evidence_ur": "Aakhri real run 2026-11-28 08:52 PKT par theek chala.",
    "fix": "intezaar",
-   "auto_fixable": false
+   "auto_fixable": false,
+   "note_ur": "Hourly slots mein se theek run ho raha hai."
   },
   {
    "id": "overseas_sweep",
@@ -178,9 +157,10 @@
    "name_ur": "Overseas Sweep",
    "status": "theek",
    "modes": [],
-   "evidence_ur": "Aakhri real run 2026-11-28 08:51 PKT par 15 quicknews pages fetch karke successful raha.",
+   "evidence_ur": "Aakhri real run 2026-11-28 08:51 PKT par hua; 15 quicknews pages fetch hue.",
    "fix": "koi-nahi",
-   "auto_fixable": false
+   "auto_fixable": false,
+   "note_ur": "Kamyabi ke sath mukammal hua."
   },
   {
    "id": "providers_backfill",
@@ -188,9 +168,21 @@
    "name_ur": "Providers Backfill",
    "status": "theek",
    "modes": [],
-   "evidence_ur": "Gate par hai, aakhri real run 2026-11-28 08:00 PKT par successful tha.",
+   "evidence_ur": "Gate 07:35 PKT slot par hai; aakhri real run 2026-11-28 08:00 PKT par theek chala.",
    "fix": "intezaar",
-   "auto_fixable": false
+   "auto_fixable": false,
+   "note_ur": "Rozana ke mutabiq run ho gaya hai."
+  },
+  {
+   "id": "publish",
+   "kind": "step",
+   "name_ur": "Publish",
+   "status": "theek",
+   "modes": [],
+   "evidence_ur": "Aakhri real run 2026-11-28 09:54 PKT par theek chala.",
+   "fix": "koi-nahi",
+   "auto_fixable": false,
+   "note_ur": "Manzoori shuda articles publish ho rahay hain."
   },
   {
    "id": "stats_health",
@@ -198,9 +190,10 @@
    "name_ur": "Stats Health",
    "status": "theek",
    "modes": [],
-   "evidence_ur": "Gate par hai, aakhri real run 2026-11-27 11:53 PKT par successful tha.",
+   "evidence_ur": "Gate 11:35 PKT slot par hai; aakhri real run 2026-11-27 11:53 PKT par theek chala.",
    "fix": "intezaar",
-   "auto_fixable": false
+   "auto_fixable": false,
+   "note_ur": "Daily gate par chalne wala step hai."
   },
   {
    "id": "stats_pipeline",
@@ -208,9 +201,21 @@
    "name_ur": "Stats Pipeline",
    "status": "theek",
    "modes": [],
-   "evidence_ur": "Gate par hai, aakhri real run 2026-11-28 06:00 PKT par successful tha.",
+   "evidence_ur": "Gate 05:35 / 11:35 / 17:35 / 23:35 PKT slots par hai; aakhri real run 2026-11-28 06:00 PKT par theek chala.",
    "fix": "intezaar",
-   "auto_fixable": false
+   "auto_fixable": false,
+   "note_ur": "Agla 6-hourly slot anay par chalega."
+  },
+  {
+   "id": "stats_traffic",
+   "kind": "step",
+   "name_ur": "Stats Traffic",
+   "status": "theek",
+   "modes": [],
+   "evidence_ur": "Aakhri real run 2026-11-28 09:54 PKT par theek chala.",
+   "fix": "koi-nahi",
+   "auto_fixable": false,
+   "note_ur": "Hourly traffic stats successfully record ho rahay hain."
   },
   {
    "id": "tavily_boxoffice",
@@ -218,9 +223,10 @@
    "name_ur": "Tavily Box Office",
    "status": "theek",
    "modes": [],
-   "evidence_ur": "Gate par hai, aakhri real run 2026-11-28 09:01 PKT par successful tha.",
+   "evidence_ur": "Aakhri real run 2026-11-28 09:01 PKT par theek chala.",
    "fix": "intezaar",
-   "auto_fixable": false
+   "auto_fixable": false,
+   "note_ur": "Sahi waqt par run ho raha hai."
   },
   {
    "id": "title_seed",
@@ -228,119 +234,142 @@
    "name_ur": "Title Seed",
    "status": "theek",
    "modes": [],
-   "evidence_ur": "Gate par hai, aakhri real run 2026-11-27 23:52 PKT par successful tha.",
+   "evidence_ur": "Gate 11:35 / 23:35 PKT slots par hai; aakhri real run 2026-11-27 23:52 PKT par theek chala.",
    "fix": "intezaar",
-   "auto_fixable": false
+   "auto_fixable": false,
+   "note_ur": "Agla seeder gate 23:35 PKT par aayega."
+  },
+  {
+   "id": "trending_weekly",
+   "kind": "step",
+   "name_ur": "Trending Weekly",
+   "status": "theek",
+   "modes": [],
+   "evidence_ur": "Aakhri real run 2026-11-28 09:54 PKT par hua, reason: no-new-data.",
+   "fix": "koi-nahi",
+   "auto_fixable": false,
+   "note_ur": "Fresh Google RSS trend data nahi tha, isliye skip hua."
   },
   {
    "id": "box_office",
    "kind": "category",
-   "name_ur": "Box Office Category",
+   "name_ur": "Box Office",
    "status": "theek",
    "modes": [],
-   "evidence_ur": "Aaj ke fetch me 40 items aaye hain.",
+   "evidence_ur": "Aaj ke fetch mein Box Office ki 40 items mili hain.",
    "fix": "koi-nahi",
-   "auto_fixable": false
+   "auto_fixable": false,
+   "note_ur": "Category quota aur flow theek chal raha hai."
   },
   {
    "id": "awards",
    "kind": "category",
-   "name_ur": "Awards Category",
+   "name_ur": "Awards",
    "status": "theek",
    "modes": [],
-   "evidence_ur": "Aaj ke fetch me 57 items aaye hain.",
+   "evidence_ur": "Aaj ke fetch mein Awards ki 57 items mili hain.",
    "fix": "koi-nahi",
-   "auto_fixable": false
+   "auto_fixable": false,
+   "note_ur": "Category flow active hai."
   },
   {
    "id": "trailers",
    "kind": "category",
-   "name_ur": "Trailers Category",
+   "name_ur": "Trailers",
    "status": "theek",
    "modes": [],
-   "evidence_ur": "Aaj ke fetch me 19 items aaye hain.",
+   "evidence_ur": "Aaj ke fetch mein Trailers ki 19 items mili hain.",
    "fix": "koi-nahi",
-   "auto_fixable": false
+   "auto_fixable": false,
+   "note_ur": "Category content bar waqt aa raha hai."
   },
   {
    "id": "music",
    "kind": "category",
-   "name_ur": "Music / OST Category",
+   "name_ur": "Music / OST",
    "status": "theek",
    "modes": [],
-   "evidence_ur": "Aaj ke fetch me 120 items aaye hain.",
+   "evidence_ur": "Aaj ke fetch mein Music ki 120 items mili hain.",
    "fix": "koi-nahi",
-   "auto_fixable": false
+   "auto_fixable": false,
+   "note_ur": "Music category healthy hai."
   },
   {
    "id": "episodes",
    "kind": "category",
-   "name_ur": "Episodes Category",
+   "name_ur": "Episodes",
    "status": "theek",
    "modes": [],
-   "evidence_ur": "Aaj ke fetch me 29 items aaye hain.",
+   "evidence_ur": "Aaj ke fetch mein Episodes ki 29 items mili hain.",
    "fix": "koi-nahi",
-   "auto_fixable": false
+   "auto_fixable": false,
+   "note_ur": "Drama episode guides track ho rahay hain."
   },
   {
    "id": "upcoming",
    "kind": "category",
-   "name_ur": "Upcoming Releases Category",
+   "name_ur": "Upcoming Releases",
    "status": "theek",
    "modes": [],
-   "evidence_ur": "Aaj ke fetch me 29 items aaye hain.",
+   "evidence_ur": "Aaj ke fetch mein Upcoming releases ki 29 items mili hain.",
    "fix": "koi-nahi",
-   "auto_fixable": false
+   "auto_fixable": false,
+   "note_ur": "Upcoming category active hai."
   },
   {
    "id": "ott",
    "kind": "category",
-   "name_ur": "OTT / Streaming Category",
+   "name_ur": "OTT / Streaming",
    "status": "theek",
    "modes": [],
-   "evidence_ur": "Aaj ke fetch me 151 items aaye hain.",
+   "evidence_ur": "Aaj ke fetch mein OTT ki 151 items mili hain.",
    "fix": "koi-nahi",
-   "auto_fixable": false
+   "auto_fixable": false,
+   "note_ur": "OTT content flow theek hai."
   },
   {
    "id": "tv_dramas",
    "kind": "category",
-   "name_ur": "TV & Dramas Category",
+   "name_ur": "TV & Dramas",
    "status": "theek",
    "modes": [],
-   "evidence_ur": "Aaj ke fetch me 36 items aaye hain.",
+   "evidence_ur": "Aaj ke fetch mein TV & Dramas ki 36 items mili hain.",
    "fix": "koi-nahi",
-   "auto_fixable": false
+   "auto_fixable": false,
+   "note_ur": "Drama updates bar waqt aa rahay hain."
   },
   {
    "id": "celebrities",
    "kind": "category",
-   "name_ur": "Celebrity News Category",
+   "name_ur": "Celebrity News & Events",
    "status": "theek",
    "modes": [],
-   "evidence_ur": "Aaj ke fetch me 152 items aaye hain.",
+   "evidence_ur": "Aaj ke fetch mein Celebrity news ki 152 items mili hain.",
    "fix": "koi-nahi",
-   "auto_fixable": false
+   "auto_fixable": false,
+   "note_ur": "Celebrity category bar waqt feed ho rahi hai."
   },
   {
    "id": "movies",
    "kind": "category",
-   "name_ur": "Movies Category",
+   "name_ur": "Movies",
    "status": "theek",
    "modes": [],
-   "evidence_ur": "Aaj ke fetch me 2411 items aaye hain.",
+   "evidence_ur": "Aaj ke fetch mein Movies ki 2411 items mili hain.",
    "fix": "koi-nahi",
-   "auto_fixable": false
+   "auto_fixable": false,
+   "note_ur": "Movies category mukammal taur par active hai."
   },
   {
    "id": "viral",
    "kind": "category",
-   "name_ur": "Entertainment Viral Category",
+   "name_ur": "Entertainment Viral",
    "status": "theek",
    "modes": [],
-   "evidence_ur": "Aaj ke fetch me 32 items aaye hain.",
+   "evidence_ur": "Aaj ke fetch mein Entertainment viral ki 32 items mili hain.",
    "fix": "koi-nahi",
-   "auto_fixable": false
+   "auto_fixable": false,
+   "note_ur": "Viral content flow theek hai."
   },
   {
    "id": "titles",
@@ -348,9 +377,10 @@
    "name_ur": "Published Titles",
    "status": "theek",
    "modes": [],
-   "evidence_ur": "Total published titles 1484 hain, newest published date 2026-11-27 hai.",
+   "evidence_ur": "Total published titles 1484 hain; newest published at 2026-11-27.",
    "fix": "koi-nahi",
-   "auto_fixable": false
+   "auto_fixable": false,
+   "note_ur": "Catalogue size aur timing theek hain."
   },
   {
    "id": "daywise",
@@ -358,20 +388,21 @@
    "name_ur": "Daywise Data",
    "status": "theek",
    "modes": [],
-   "evidence_ur": "65 titles ke paas daywise rows hain aur newest row date 2026-11-28 hai.",
+   "evidence_ur": "65 titles mein day-wise rows mojood hain; newest row date 2026-11-28.",
    "fix": "koi-nahi",
    "auto_fixable": false,
-   "note_ur": "Kuch titles ki purani rows hain jo shayad cinema se utar chuki hain, check karein."
+   "note_ur": "Purani rows walay kuch titles cinema se utar chukay hain, jo normal hai."
   },
   {
    "id": "tavily",
    "kind": "step",
-   "name_ur": "Tavily Staging",
+   "name_ur": "Tavily Box Office Staging",
    "status": "theek",
    "modes": [],
-   "evidence_ur": "Tavily staging file gate par hai aur last run reason gate tha.",
+   "evidence_ur": "Staging file {} hai aur aakhri run gate reason ki wajah se skip hua.",
    "fix": "intezaar",
-   "auto_fixable": false
+   "auto_fixable": false,
+   "note_ur": "Sahi gate waqt par active hoga."
   }
  ],
  "autofixes": [],
@@ -419,10 +450,10 @@
   {
    "pipeline_hour": "2026-11-28T04:00:00Z",
    "status": "ok",
-   "overall": "theek",
+   "overall": "dhyaan-do",
    "mode": "primary",
-   "at_pkt": "2026-11-28 09:54 PKT"
+   "at_pkt": "2026-11-28 09:58 PKT"
   }
  ],
- "run_id": "46109691893"
+ "run_id": "46109966991"
 }
