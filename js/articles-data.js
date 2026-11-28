@@ -241847,10 +241847,10 @@ window.FA_ARTICLES = {
       "titles": []
     },
     "keywords": [
-      "Diljit Dosanjh Bengaluru Concert",
-      "Diljit Dosanjh FIR threat",
-      "Diljit Dosanjh Mumbai concert",
-      "Bengaluru concert IED threat"
+      "Diljit Dosanjh Bengaluru concert IED threat",
+      "FIR registered Diljit Dosanjh concert Bengaluru",
+      "Diljit Dosanjh Bengaluru event threat",
+      "Diljit Dosanjh concert security alert"
     ],
     "images": [
       {
@@ -242372,10 +242372,10 @@ window.FA_ARTICLES = {
       ]
     },
     "keywords": [
-      "Antoine Fuqua",
-      "Antoine Fuqua lawsuit",
-      "Michael director Antoine Fuqua",
-      "Antoine Fuqua bar fight"
+      "Antoine Fuqua civil lawsuit",
+      "Antoine Fuqua Los Angeles bar fight",
+      "Michael director Antoine Fuqua lawsuit",
+      "Antoine Fuqua assault battery lawsuit"
     ],
     "images": [
       {
@@ -242502,11 +242502,10 @@ window.FA_ARTICLES = {
       ]
     },
     "keywords": [
-      "Avengers Doomsday trailer",
-      "Avengers Doomsday views",
-      "Avengers Doomsday runtime",
-      "Joe Russo Avengers Doomsday",
-      "Avengers Doomsday release date"
+      "Avengers Doomsday final trailer views",
+      "Avengers Doomsday breaks Disney records",
+      "Avengers Doomsday trailer viewership",
+      "Marvel Avengers Doomsday preview"
     ],
     "images": [
       {
@@ -242603,10 +242602,10 @@ window.FA_ARTICLES = {
       ]
     },
     "keywords": [
-      "BTS Taehyung RRR Naatu Naatu",
-      "Jungkook Naatu Naatu ARIRANG concert",
-      "Kim Taehyung Weverse live Indian movies",
-      "RRR official Twitter reaction BTS"
+      "BTS V Jungkook RRR Naatu Naatu",
+      "BTS V Indian cinema 3 Idiots",
+      "Jungkook V ARIRANG concert dance",
+      "BTS V and Jungkook RRR shoutout"
     ],
     "images": [
       {
@@ -242727,10 +242726,10 @@ window.FA_ARTICLES = {
       ]
     },
     "keywords": [
-      "Hunger Games Sunrise on the Reaping",
-      "Focker-in-Law release",
-      "Hexed Disney animation",
-      "Thanksgiving box office"
+      "Thanksgiving Box Office Preview Hunger Games",
+      "Hunger Games Sunrise on the Reaping holiday race",
+      "Hunger Games prequel box office projection",
+      "Hunger Games Sunrise on the Reaping ticket sales"
     ],
     "images": [
       {
@@ -242832,10 +242831,10 @@ window.FA_ARTICLES = {
       ]
     },
     "keywords": [
-      "Ramayana box office Day 20",
-      "Ramayana Part One collection",
-      "Ranbir Kapoor Yash Ramayana",
-      "Ramayana vs Pushpa 2 box office"
+      "Ramayana Box Office Day 20",
+      "Ramayana: Part One worldwide collection",
+      "Ramayana targets Pushpa 2 record",
+      "Ramayana Part One box office milestone"
     ],
     "images": [
       {
@@ -242975,10 +242974,10 @@ window.FA_ARTICLES = {
       ]
     },
     "keywords": [
-      "Oscars Visual Effects Top 20",
-      "Dune Part Three VFX shortlist",
-      "Disney Oscars visual effects",
-      "Ramayana Rise of a Legend Oscars"
+      "Oscars VFX Top 20",
+      "Dune Part Three Ramayana Oscars VFX",
+      "Disney leads Oscars visual effects race",
+      "99th Academy Awards VFX shortlist"
     ],
     "images": [
       {
@@ -243067,10 +243066,10 @@ window.FA_ARTICLES = {
       ]
     },
     "keywords": [
-      "Ramayana Rise of a legend",
-      "Tanishaa Mukerji Ramayana",
-      "Ranbir Kapoor Sita Sai Pallavi",
-      "Ramayana box office day 20"
+      "Tanishaa Mukerji Ramayana Rise of a Legend",
+      "Ramayana Rise of a Legend performances",
+      "Tanishaa Mukerji review Ramayana",
+      "Sai Pallavi Ranbir Kapoor Ramayana"
     ],
     "images": [
       {
@@ -243155,11 +243154,10 @@ window.FA_ARTICLES = {
       ]
     },
     "keywords": [
-      "Patrick Stewart",
-      "Avengers Doomsday",
-      "Kevin Feige",
-      "Anthony Russo",
-      "Professor X"
+      "Patrick Stewart Avengers Doomsday tribute",
+      "Marvel Studios Patrick Stewart homage",
+      "Avengers Doomsday Patrick Stewart performance",
+      "Kevin Feige Patrick Stewart tribute"
     ],
     "images": [
       {
@@ -243239,11 +243237,10 @@ window.FA_ARTICLES = {
       ]
     },
     "keywords": [
-      "Lim Ji-yeon",
-      "Lee Do-hyun",
-      "The Glory",
-      "Lim Ji-yeon Lee Do-hyun break up",
-      "Korean celebrity break up"
+      "Lim Ji-Yeon and Lee Do-Hyun break up",
+      "The Glory stars break up",
+      "Lim Ji-Yeon Lee Do-Hyun separation",
+      "Lim Ji-Yeon agency confirms break up"
     ],
     "images": [
       {
@@ -243336,10 +243333,10 @@ window.FA_ARTICLES = {
       ]
     },
     "keywords": [
-      "Bob Odenkirk Normal",
-      "HBO Max Normal streaming",
-      "Normal film Derek Kolstad",
-      "Bob Odenkirk action movies"
+      "Bob Odenkirk Normal HBO Max",
+      "Bob Odenkirk action film Normal",
+      "Normal thriller HBO Max streaming",
+      "Bob Odenkirk Derek Kolstad Normal"
     ],
     "images": [
       {
@@ -243419,8 +243416,8 @@ window.FA_ARTICLES = {
     },
     "keywords": [
       "Shreya Ghoshal Badshah Bengaluru concert",
-      "Shreya Ghoshal The Unstoppable Tour",
-      "Badshah Mahiya collaboration",
+      "Shreya Ghoshal welcomes Badshah",
+      "The Unstoppable Tour Shreya Ghoshal",
       "Shreya Ghoshal Badshah brother"
     ],
     "images": [
@@ -243503,10 +243500,10 @@ window.FA_ARTICLES = {
       ]
     },
     "keywords": [
-      "Green Light drama",
-      "Choi Hyun Wook Green Light",
-      "Jung Chaeyeon Green Light",
-      "ENA Green Light 2027"
+      "Choi Hyun Wook Jung Chaeyeon Green Light",
+      "Green Light ENA romance drama",
+      "Choi Hyun Wook drama Green Light",
+      "Jung Chaeyeon Green Light cast"
     ],
     "images": [
       {
@@ -243694,10 +243691,10 @@ window.FA_ARTICLES = {
       ]
     },
     "keywords": [
-      "The Lord of the Rings The Rings of Power Season 4",
-      "The Rings of Power Season 4 official renewal",
-      "Amazon Prime Video Rings of Power",
-      "J.D. Payne Patrick McKay Rings of Power"
+      "The Lord of the Rings: The Rings of Power Season 4 confirmed",
+      "Amazon Prime Video Rings of Power Season 4",
+      "The Rings of Power Season 4 release date",
+      "The Lord of the Rings Season 4 Shepperton Studios"
     ],
     "images": [
       {
@@ -243886,10 +243883,10 @@ window.FA_ARTICLES = {
       ]
     },
     "keywords": [
-      "Hexed Disney movie",
-      "Hailee Steinfeld Hexed",
-      "Rashida Jones Disney animated film",
-      "Hexed Rotten Tomatoes reviews"
+      "Hexed Rotten Tomatoes score",
+      "Disney animated feature Hexed",
+      "Hexed Disney 65th feature film",
+      "Hexed reviews"
     ],
     "images": [
       {
@@ -270160,5 +270157,436 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Sat, 28 Nov 2026 02:03:40 +0000"
+  },
+  "1bwv1qh": {
+    "id": "1bwv1qh",
+    "type": "news",
+    "headline": "Siddharth Anand Sparks Online Frenzy With Cryptic Social Media Post Ahead Of King",
+    "dek": "Director Siddharth Anand has once again left fans guessing by dropping another mysterious three-word teaser on social media as the release of the Shah Rukh Khan starrer approaches.",
+    "body": [
+      {
+        "h": "Director Teases Fans Online",
+        "p": [
+          "Filmmaker Siddharth Anand has managed to captivate the internet once again with a fresh, context-free message shared on X. Known for steering anticipation to maximum levels, the director posted a brief three-word phrase that immediately sent online fan communities into a spiral of speculation.",
+          "The cryptic update arrived with less than a month remaining before the high-profile Christmas Eve release. Given the immense following of the lead actor, even the most minimalist online updates from the production team instantly trigger massive digital engagement."
+        ]
+      },
+      {
+        "h": "A Familiar Promotional Playbook",
+        "p": [
+          "This latest online breadcrumb follows a very specific sequence of minimalist updates deployed by the director in recent weeks. Earlier countdown posts included a simple number thirty followed by another phrase hinting at an upcoming reveal.",
+          "A similar strategy was successfully utilized in late October. Back then, a sequence of mysterious posts preceded the grand birthday release of the film's first major musical track featuring the lead star alongside Deepika Padukone."
+        ]
+      },
+      {
+        "h": "Fan Theories And Speculation",
+        "p": [
+          "Following the latest social media drop, fan timelines have turned into hubs of detective work and intense discussion. Many followers are convinced that the incomplete phrase points directly toward a rumored dance track titled Daddy Cool.",
+          "Other segments of the fandom believe the post serves as a direct prelude to an official video teaser or a major promotional announcement leading up to the expected theatrical trailer launch in mid-December."
+        ]
+      },
+      {
+        "h": "Star-Studded Cast And Crew",
+        "p": [
+          "The upcoming cinematic project stands as a major milestone, bringing Shah Rukh Khan and his daughter Suhana Khan together on the silver screen for the very first time. The venture is backed by major production houses including Red Chillies Entertainment and Marflix Pictures.",
+          "Beyond the leading duo, the action-heavy venture features a massive ensemble cast boasting names like Abhishek Bachchan, Rani Mukerji, Anil Kapoor, Jackie Shroff, Jaideep Ahlawat, Arshad Warsi, Raghav Juyal, Saurabh Shukla, and Abhay Verma."
+        ]
+      },
+      {
+        "h": "Anticipation For The Big Screen Return",
+        "p": [
+          "The upcoming project marks the roaring return of the leading actor to cinemas following a multi-year hiatus. With the theatrical window closing in fast, the excitement surrounding the venture has reached unprecedented heights.",
+          "As the marketing campaign continues to unfold through creative digital teases, audiences worldwide are eagerly awaiting the scheduled global theatrical debut during the festive holiday season."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Director Siddharth Anand posted a cryptic three-word teaser on X, driving fans into a frenzy ahead of the Christmas Eve release of King. The film marks Shah Rukh Khan's return to cinemas after a three-year hiatus and features a star-studded ensemble cast."
+        ]
+      }
+    ],
+    "facts": [
+      "Siddharth Anand published a cryptic three-word post on X on November 27, 2026.",
+      "The film King is scheduled to release in theatres worldwide on December 24, 2026.",
+      "The movie marks Shah Rukh Khan's return to cinemas after a three-year hiatus.",
+      "The first track Tu Mil Jaaye was released on Shah Rukh Khan's 61st birthday.",
+      "King is backed by Red Chillies Entertainment and Marflix Pictures."
+    ],
+    "entities": {
+      "people": [
+        "Siddharth Anand",
+        "Shah Rukh Khan",
+        "Deepika Padukone",
+        "Ed Sheeran",
+        "Arijit Singh",
+        "Kareena Kapoor Khan",
+        "Vaibhavi Merchant",
+        "Suhana Khan",
+        "Abhishek Bachchan",
+        "Rani Mukerji",
+        "Anil Kapoor",
+        "Jackie Shroff",
+        "Jaideep Ahlawat",
+        "Arshad Warsi",
+        "Raghav Juyal",
+        "Saurabh Shukla",
+        "Abhay Verma",
+        "Darasing Khurana",
+        "Khushi Mundhwa"
+      ],
+      "titles": [
+        "King",
+        "Pathaan",
+        "Tu Mil Jaaye",
+        "Daddy Cool",
+        "On My Mind"
+      ]
+    },
+    "keywords": [
+      "Siddharth Anand cryptic tweet",
+      "Shah Rukh Khan King",
+      "King release date",
+      "Suhana Khan King film"
+    ],
+    "images": [
+      {
+        "url": "https://filmfare.wwmindia.com/content/2026/nov/siddharth-anand-drops-another-cryptic-tweet-sending-shah-rukh-khan-fans-into1795762781.jpg",
+        "caption": "Siddharth Anand Sparks Online Frenzy With Cryptic Social Media Post Ahead Of King",
+        "source": "Filmfare"
+      }
+    ],
+    "published": "2026-11-27T14:19:12+05:30"
+  },
+  "5ze44o": {
+    "id": "5ze44o",
+    "type": "news",
+    "headline": "Shah Rukh Khan Surprises Groom And Dances At Udaipur Wedding",
+    "dek": "Bollywood superstar Shah Rukh Khan delighted guests at a private wedding in Udaipur by performing his iconic tracks, reciting famous monologues, and sharing the stage with Sonu Nigam.",
+    "body": [
+      {
+        "h": "Arrival in Udaipur",
+        "p": [
+          "Bollywood icon Shah Rukh Khan landed at Maharana Pratap Airport in Udaipur on November 25, 2026, to attend a private wedding ceremony. For his arrival, the actor opted for a sharp grey-blue tailored pair of pants paired with a velvet Jodhpuri jacket, quickly drawing attention as details of his travel emerged.",
+          "While the identities of the bride and groom were kept private, footage from the celebrations immediately began circulating across various social media platforms, capturing the excitement of the attendees."
+        ]
+      },
+      {
+        "h": "Stage Performance and Iconic Tracks",
+        "p": [
+          "During the festivities, Shah Rukh Khan changed into a white dhoti-style wrap to join family members on stage. He electrified the venue by performing his signature track Lungi Dance from the 2013 film Chennai Express.",
+          "In addition to his dance routine, the actor treated the audience to a theatrical monologue from Om Shanti Om, revisiting one of his most memorable on-screen moments live for the wedding guests."
+        ]
+      },
+      {
+        "h": "Surprising the Groom",
+        "p": [
+          "A particularly viral moment from the celebration involved the groom attempting to recreate Shah Rukh Khan's signature pose while singer Sonu Nigam was performing live on stage. Unbeknownst to the groom, the actor had crept up directly behind him to mimic the exact moves in sync.",
+          "Upon turning around, the groom was visibly astonished to find Shah Rukh Khan standing right beside him. The heartwarming surprise quickly became one of the most talked-about highlights of the evening."
+        ]
+      },
+      {
+        "h": "Encounter with Sonu Nigam",
+        "p": [
+          "Following the playful stage ambush, Shah Rukh Khan greeted singer Sonu Nigam with a respectful bow and a warm, embracing hug.",
+          "The actor, the singer, and the groom then posed together for photographs, cementing a memorable collaborative moment that was widely shared by guests online."
+        ]
+      },
+      {
+        "h": "Upcoming Film Projects",
+        "p": [
+          "On the professional front, Shah Rukh Khan is gearing up for his upcoming role in the film King. Directed and co-written by Siddharth Anand, the action drama features an ensemble cast including Suhana Khan, Abhishek Bachchan, Deepika Padukone, Anil Kapoor, Jackie Shroff, Rani Mukerji, Jaideep Ahlawat, Arshad Warsi, and Raghav Juyal.",
+          "The movie is backed by producers Gauri Khan, Siddharth Anand, and Mamta Anand under Red Chillies Entertainment and Marflix Pictures, with a scheduled theatrical release on December 24."
+        ]
+      },
+      {
+        "h": "Box Office Context",
+        "p": [
+          "The upcoming release of King is positioned strategically in the holiday release window. It is slated to arrive in cinemas just one week after Avengers: Doomsday and Dune: Part Three compete at the box office."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Shah Rukh Khan traveled to Udaipur on November 25, 2026, to make a special appearance at a private wedding where he performed the Lungi Dance and an Om Shanti Om monologue. He also surprised the groom on stage while Sonu Nigam was performing, ahead of his upcoming film King releasing on December 24."
+        ]
+      }
+    ],
+    "facts": [
+      "Shah Rukh Khan arrived at Maharana Pratap Airport in Udaipur on November 25, 2026.",
+      "He wore grey-blue tailored pants and a velvet Jodhpuri jacket upon arrival, later changing into a white dhoti-style wrap.",
+      "He performed Lungi Dance from the 2013 film Chennai Express and recited a monologue from Om Shanti Om.",
+      "Sonu Nigam was performing on stage when Shah Rukh Khan surprised the groom.",
+      "King is directed and co-written by Siddharth Anand.",
+      "King stars Suhana Khan, Abhishek Bachchan, Deepika Padukone, Anil Kapoor, Jackie Shroff, Rani Mukerji, Jaideep Ahlawat, Arshad Warsi, and Raghav Juyal.",
+      "King is produced by Gauri Khan, Siddharth Anand, and Mamta Anand under Red Chillies Entertainment and Marflix Pictures.",
+      "King is scheduled to release in theatres on December 24."
+    ],
+    "entities": {
+      "people": [
+        "Shah Rukh Khan",
+        "Sonu Nigam",
+        "Siddharth Anand",
+        "Suhana Khan",
+        "Abhishek Bachchan",
+        "Deepika Padukone",
+        "Anil Kapoor",
+        "Jackie Shroff",
+        "Rani Mukerji",
+        "Jaideep Ahlawat",
+        "Arshad Warsi",
+        "Raghav Juyal",
+        "Gauri Khan",
+        "Mamta Anand"
+      ],
+      "titles": [
+        "Chennai Express",
+        "Om Shanti Om",
+        "King",
+        "Avengers: Doomsday",
+        "Dune: Part Three"
+      ]
+    },
+    "keywords": [
+      "Shah Rukh Khan Udaipur wedding",
+      "Shah Rukh Khan Lungi Dance",
+      "Shah Rukh Khan Sonu Nigam",
+      "King movie release date"
+    ],
+    "images": [
+      {
+        "url": "https://mm-wp-prod-uploads.s3.ap-south-1.amazonaws.com/wp-content/uploads/2026/11/26181853/Miss-Malini-Wordpress-Images-2026-11-26T181812.190.jpg",
+        "caption": "Shah Rukh Khan Surprises Groom And Dances At Udaipur Wedding",
+        "source": "MissMalini"
+      }
+    ],
+    "published": "2026-11-28T03:51:39Z"
+  },
+  "13gboxu": {
+    "id": "13gboxu",
+    "type": "news",
+    "headline": "Six Captivating Crime Dramas Designed for a Quick Weekend Binge",
+    "dek": "Discover a curated selection of gripping crime thrillers and mystery series that deliver compelling storytelling and satisfying conclusions within a single weekend.",
+    "body": [
+      {
+        "h": "The Appeal of Gritty Television",
+        "p": [
+          "Audiences frequently turn to darker narrative tones and gritty underworlds as a form of escape. Crime dramas remain a primary staple for television fans because they allow viewers to watch complex investigations and high-stakes mysteries unfold directly on screen.",
+          "While countless long-running procedural shows offer endless hours of entertainment, they are often impossible to complete in a short time frame. A select few masterful crime series provide brilliant hooks and definitive conclusions that can be comfortably watched over the course of a single weekend."
+        ]
+      },
+      {
+        "h": "Adolescence: Real-Time Tension",
+        "p": [
+          "The critically acclaimed miniseries Adolescence follows 13-year-old Jamie Miller, played by Owen Cooper, after he is arrested in a pre-dawn raid for the fatal stabbing of a classmate. Created by Jack Thorne and Stephen Graham and directed by Philip Barantini, the four-part story explores the modern fallout of cyberbullying and online radicalization.",
+          "Filmed entirely in single continuous takes, the series captures immediate, real-time tension without relying on sensationalized twists. The production serves as an exceptional acting showcase, featuring breakout work from Cooper alongside stellar performances from Graham and Erin Doherty."
+        ]
+      },
+      {
+        "h": "Broadchurch: Coastal Secrets",
+        "p": [
+          "Widely regarded as an exceptional multi-season crime drama, Broadchurch was created by Chris Chibnall and spans three distinct seasons. The narrative centers on Detective Inspector Alec Hardy, played by David Tennant, and Detective Sergeant Ellie Miller, played by Olivia Colman, as they investigate devastating crimes in a close-knit English coastal town.",
+          "The show brilliantly explores how a single tragic event shatters a community, forcing neighbors to look at one another with suspicion. Supported by a massive ensemble of UK stars and moody location filming in Dorset, the series keeps viewers hooked through slow-burn suspense and emotional cliffhangers."
+        ]
+      },
+      {
+        "h": "Mare of Easttown: Small-Town Realism",
+        "p": [
+          "Written by Brad Ingelsby and directed by Craig Zobel, Mare of Easttown is a self-contained American crime drama consisting of seven episodes. Kate Winslet stars as Mare Sheehan, a small-town Pennsylvania detective struggling to solve a local murder while keeping her troubled personal life from unraveling.",
+          "The series grounds its mystery in regional authenticity, local loyalty, and generational grief. Winslet brings raw vulnerability to the role, supported by a talented ensemble cast that includes Julianne Nicholson, Jean Smart, Evan Peters, and Guy Pearce."
+        ]
+      },
+      {
+        "h": "The Night Of: Institutional Realities",
+        "p": [
+          "HBO's eight-episode crime thriller The Night Of follows Nasir Khan, a mild-mannered college student played by Riz Ahmed, who wakes up from a night out to find a young woman stabbed to death. Created by Richard Price and Steven Zaillian and based on Peter Moffat's Criminal Justice, the series tracks Naz's journey through the American legal system.",
+          "Rather than focusing strictly on procedural twists, the narrative prioritizes character psychology, cultural bias, and the harsh realities of awaiting trial at Rikers Island. Ahmed and co-star John Turturro deliver brilliant, award-winning performances that anchor the harrowing story."
+        ]
+      },
+      {
+        "h": "The Penguin: Mob Power Struggles",
+        "p": [
+          "Spun off from Matt Reeves' feature film The Batman, The Penguin was created by Lauren LeFranc and focuses on mid-level mobster Oswald Cobb, played by Colin Farrell. Set in the wake of Carmine Falcone's death and a catastrophic city flood, the series follows Oz as he attempts to seize control of Gotham City's criminal underworld.",
+          "The show leans heavily into grounded mob storytelling and high-stakes turf wars rather than traditional superhero spectacle. Farrell stars alongside Cristin Milioti, who portrays Carmine's ruthless daughter Sofia Falcone in a brutal battle for dominance."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "A curated list of crime shows highlights six distinct television projects that can be easily completed over a single weekend. These acclaimed series range from single-take British miniseries and coastal murder mysteries to immersive American dramas and gritty comic book spin-offs."
+        ]
+      }
+    ],
+    "facts": [
+      "Adolescence is a four-part crime story created by Jack Thorne and Stephen Graham.",
+      "Broadchurch spans three seasons and was created by Chris Chibnall.",
+      "Mare of Easttown consists of seven episodes and was written by Brad Ingelsby.",
+      "The Night Of is an eight-episode crime thriller starring Riz Ahmed and John Turturro.",
+      "The Penguin is created by Lauren LeFranc and stars Colin Farrell as Oswald Cobb."
+    ],
+    "entities": {
+      "people": [
+        "Michael Block",
+        "Owen Cooper",
+        "Erin Doherty",
+        "Jack Thorne",
+        "Stephen Graham",
+        "Philip Barantini",
+        "Chris Chibnall",
+        "David Tennant",
+        "Olivia Colman",
+        "Oskar McNamara",
+        "Julie Hesmondhalgh",
+        "Jodie Whittaker",
+        "Jonathan Bailey",
+        "David Bradley",
+        "Alfred Enoch",
+        "Arthur Darvill",
+        "Jacob Anderson",
+        "Marianne Jean-Baptiste",
+        "Phoebe Waller-Bridge",
+        "James D’Arcy",
+        "Eve Myles",
+        "Shaun Dooley",
+        "Lenny Henry",
+        "Brad Ingelsby",
+        "Craig Zobel",
+        "Kate Winslet",
+        "Julianne Nicholson",
+        "Jean Smart",
+        "Evan Peters",
+        "Guy Pearce",
+        "Richard Price",
+        "Steven Zaillian",
+        "Peter Moffat",
+        "Riz Ahmed",
+        "John Turturro",
+        "Michael K. Williams",
+        "Billy Camp",
+        "Christopher Nolan",
+        "Matt Reeves",
+        "Lauren LeFranc",
+        "Colin Farrell",
+        "Mark Strong",
+        "Rhenzy Feliz",
+        "Cristin Milioti"
+      ],
+      "titles": [
+        "Block Talk",
+        "Drag Race",
+        "Dragula",
+        "Survivor",
+        "Adolescence",
+        "Broadchurch",
+        "Mare of Easttown",
+        "The Night Of",
+        "Criminal Justice",
+        "The Batman",
+        "The Penguin"
+      ]
+    },
+    "keywords": [
+      "Adolescence series Netflix",
+      "Broadchurch mystery drama",
+      "Mare of Easttown HBO",
+      "The Night Of Riz Ahmed",
+      "The Penguin Colin Farrell"
+    ],
+    "images": [
+      {
+        "url": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/09/broadchurch-olivia-colman-david-tennant-1.jpeg?w=1600&amp;h=900&amp;fit=crop",
+        "caption": "Six Captivating Crime Dramas Designed for a Quick Weekend Binge",
+        "source": "Collider"
+      }
+    ],
+    "published": "Sat, 28 Nov 2026 02:31:12 GMT"
+  },
+  "1cno63w": {
+    "id": "1cno63w",
+    "type": "news",
+    "headline": "Hexed Movie Review: Hailee Steinfeld Leads Disney's Whimsical Animated Fantasy",
+    "dek": "Disney's animated adventure Hexed arrives in theatres on Thanksgiving, starring Hailee Steinfeld and Rashida Jones in a story about family secrets and magical awakening.",
+    "body": [
+      {
+        "h": "Introduction to Disney's New Animated Feature",
+        "p": [
+          "Disney has officially launched its latest animated fantasy adventure, Hexed, arriving in theatres on Thanksgiving. The feature introduces audiences to a colorful and imaginative universe brimming with classic magical elements.",
+          "The project brings together a prominent voice cast and centers around an unconventional teenager who discovers hidden truths about her lineage."
+        ]
+      },
+      {
+        "h": "Premise and Character Dynamics",
+        "p": [
+          "The narrative follows Billie Doe, an outsider struggling to fit in until a magical awakening upends her reality. Her mother, Alice Doe, has secretly concealed these extraordinary abilities from her for years.",
+          "Billie's ordinary life shatters when a restraining bracelet slips off, unleashing her powers and dragging her into Hexe, a mysterious realm populated by witches and extraordinary creatures."
+        ]
+      },
+      {
+        "h": "The Cast and Voice Performances",
+        "p": [
+          "Hailee Steinfeld lends her voice to the protagonist Billie Doe, portraying her adolescent struggles and journey of self-discovery. Rashida Jones plays her mother, Alice Doe, anchoring the narrative with a strong emotional core.",
+          "The ensemble also features Jodie Foster as the powerful ruler Queen Celeste and Walton Goggins as Beef Roger Crummchuk, a humorous three-eyed magical cat who accompanies them on their quest."
+        ]
+      },
+      {
+        "h": "Visual Strengths and Emotional Core",
+        "p": [
+          "One of the film's standout qualities is its striking animation and vibrant world-building, creating an engaging fantasy realm filled with imaginative settings and unusual characters.",
+          "The mother-daughter dynamic between Billie and Alice adds genuine warmth and heart to the adventure, providing entertaining interactions grounded in their contrasting personalities."
+        ]
+      },
+      {
+        "h": "Weaknesses and Narrative Flaws",
+        "p": [
+          "Despite its appealing premise, Hexed follows a fairly predictable trajectory with plot developments that feel familiar, particularly during the overarching struggle between good and evil.",
+          "Certain segments feel stretched, and the feature occasionally struggles to maintain consistent viewer attention. Furthermore, the antagonist's presence could have been more impactful, and the humor works only in parts."
+        ]
+      },
+      {
+        "h": "Final Verdict and Reception",
+        "p": [
+          "Running at 1 hour and 46 minutes, the film provides an enjoyable watch for children and families seeking a light-hearted fantasy adventure. It earns a critic's rating of 3.5 out of 5 stars.",
+          "While older audiences may find the storyline a bit cliché, its positive messaging about embracing individuality and its vibrant visual execution make it a worthwhile theatrical outing for younger viewers."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Disney released the animated fantasy adventure Hexed in theatres on Thanksgiving, featuring a voice cast led by Hailee Steinfeld and Rashida Jones. The film follows a teenager discovering her hidden magical powers and family secrets in the realm of Hexe, earning a 3.5 critic rating."
+        ]
+      }
+    ],
+    "facts": [
+      "Hexed is an animated fantasy movie released in theatres on Thanksgiving, November 27, 2026.",
+      "The film has a duration of 1 hour and 46 minutes.",
+      "The critic's rating for Hexed is 3.5 out of 5.",
+      "The voice cast includes Hailee Steinfeld as Billie Doe, Rashida Jones as Alice Doe, Jodie Foster as Queen Celeste, and Walton Goggins as Beef Roger Crummchuk."
+    ],
+    "entities": {
+      "people": [
+        "Hailee Steinfeld",
+        "Rashida Jones",
+        "Jodie Foster",
+        "Walton Goggins",
+        "Simran Khan"
+      ],
+      "titles": [
+        "Hexed"
+      ]
+    },
+    "keywords": [
+      "Hexed movie review",
+      "Hailee Steinfeld Hexed",
+      "Disney Hexed animated film",
+      "Hexed voice cast"
+    ],
+    "images": [
+      {
+        "url": "https://images.timesnownews.com/thumb/msid-156569412,thumbsize-320488,width-1280,height-720,resizemode-75/156569412.jpg",
+        "caption": "Hexed Movie Review: Hailee Steinfeld Leads Disney's Whimsical Animated Fantasy",
+        "source": "Times Now — Entertainment"
+      }
+    ],
+    "published": "2026-11-28T03:51:39Z"
   }
 };
