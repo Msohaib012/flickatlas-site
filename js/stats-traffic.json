@@ -1,33 +1,33 @@
 {
   "connected": true,
-  "generated": "2026-11-28T17:57:42Z",
+  "generated": "2026-11-28T18:54:22Z",
   "realtime": {
-    "active_users": 1
+    "active_users": 2
   },
   "today": {
-    "users": 46,
-    "pageviews": 72,
-    "sessions": 49,
-    "avg_session_seconds": 15.9
+    "users": 51,
+    "pageviews": 77,
+    "sessions": 54,
+    "avg_session_seconds": 15.1
   },
   "last7": {
-    "users": 254,
-    "pageviews": 330,
-    "sessions": 265,
-    "avg_session_seconds": 21.9
+    "users": 259,
+    "pageviews": 335,
+    "sessions": 270,
+    "avg_session_seconds": 21.6
   },
   "top_pages": [
     {
       "path": "/person",
       "title": "Actor & Filmmaker Profiles | FlickAtlas",
-      "views": 68,
-      "avg_time_seconds": 22.2
+      "views": 70,
+      "avg_time_seconds": 21.6
     },
     {
       "path": "/",
       "title": "Bollywood, World Cinema & Box Office | FlickAtlas",
       "views": 21,
-      "avg_time_seconds": 16.7
+      "avg_time_seconds": 16.8
     },
     {
       "path": "/person",
@@ -51,13 +51,13 @@
       "path": "/box-office/",
       "title": "Box Office Collections: Today, 7-Day & Totals | FlickAtlas",
       "views": 3,
-      "avg_time_seconds": 28.2
+      "avg_time_seconds": 28.7
     },
     {
       "path": "/dramas/",
       "title": "Pakistani Dramas & TV Serials | FlickAtlas",
       "views": 3,
-      "avg_time_seconds": 25.7
+      "avg_time_seconds": 25.8
     },
     {
       "path": "/movie",
@@ -82,8 +82,8 @@
     {
       "source": "(direct)",
       "medium": "(none)",
-      "sessions": 239,
-      "users": 235
+      "sessions": 244,
+      "users": 240
     },
     {
       "source": "google",
@@ -94,8 +94,8 @@
     {
       "source": "(not set)",
       "medium": "(not set)",
-      "sessions": 6,
-      "users": 6
+      "sessions": 7,
+      "users": 7
     },
     {
       "source": "facebook.com",
@@ -119,7 +119,7 @@
   "countries": [
     {
       "country": "United States",
-      "users": 83
+      "users": 84
     },
     {
       "country": "Brazil",
@@ -131,7 +131,7 @@
     },
     {
       "country": "China",
-      "users": 15
+      "users": 16
     },
     {
       "country": "Mexico",
@@ -139,7 +139,7 @@
     },
     {
       "country": "Vietnam",
-      "users": 10
+      "users": 11
     },
     {
       "country": "Colombia",
@@ -150,18 +150,18 @@
       "users": 8
     },
     {
-      "country": "Argentina",
-      "users": 7
+      "country": "Singapore",
+      "users": 8
     },
     {
-      "country": "Russia",
+      "country": "Argentina",
       "users": 7
     }
   ],
   "devices": [
     {
       "device": "desktop",
-      "users": 216
+      "users": 221
     },
     {
       "device": "mobile",

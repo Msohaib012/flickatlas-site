@@ -1,6 +1,6 @@
 {
  "bucket": "23",
- "count": 96,
+ "count": 98,
  "titles": {
   "movie:1023": {
    "d": "Adam's Apples (2005): Drama/Comedy film. Story: A neo-nazi sentenced to community service at a church… See cast, budget $3.7M, and TMDB rating 7.5/10.",
@@ -1458,6 +1458,41 @@
    "t": "My Dearest Assassin (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2026"
   },
+  "movie:1657423": {
+   "d": "Vanishing Tracks (2026): Documentary film. Story: In Iran’s remote nomadic landscape, a family… See cast and release date 27 April 2026.",
+   "img": "https://image.tmdb.org/t/p/w500/vlu5cD2FZ4CQ4ulYagzwTrWozwo.jpg",
+   "industry": "world",
+   "k": "Vanishing Tracks, Vanishing Tracks movie, Vanishing Tracks cast, Vanishing Tracks story, Vanishing Tracks box office collection, Vanishing Tracks budget, Vanishing Tracks review, Vanishing Tracks rating, Vanishing Tracks release date, Vanishing Tracks Documentary, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "description": "Vanishing Tracks (2026): Documentary film. Story: In Iran’s remote nomadic landscape, a family… See cast and release date 27 April 2026.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Hamed Zolfaghari"
+     }
+    ],
+    "duration": "PT93M",
+    "genre": [
+     "Documentary"
+    ],
+    "image": "https://image.tmdb.org/t/p/w500/vlu5cD2FZ4CQ4ulYagzwTrWozwo.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1657423",
+    "name": "Vanishing Tracks",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-04-27"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1657423"
+   },
+   "modified": "",
+   "published": "2026-11-28",
+   "robots": "noindex,follow",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Vanishing Tracks (2026)</h1>\n<p class=\"ssr-lead\">In Iran’s remote nomadic landscape, a family navigates their traditional existence in a modern world. When their sheep vanish overnight, tensions rise between the three sons and their parents.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 27 April 2026</li><li>Runtime: 93 minutes</li><li>Director: Hamed Zolfaghari</li><li>Genres: Documentary</li><li>Original language: FA</li><li>Spoken languages: AZ, FA</li><li>Production countries: IR, France, NO, South Korea, QA</li></ul>\n</article>",
+   "t": "Vanishing Tracks (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
+  },
   "movie:16723": {
    "d": "Sugar & Spice (2001): Crime/Comedy film. Story: When Jack and Diane find themselves in an unexpected… See cast, budget $11M, and TMDB rating 6.5/10.",
    "img": "https://image.tmdb.org/t/p/w780/r61qpgtIUEuRHGh3VdQpgcxN8zN.jpg",
@@ -2071,6 +2106,37 @@
    "robots": "noindex,follow",
    "ssr": "<article class=\"ssr-facts\">\n<h1>Kushpu (2026)</h1>\n<h2>Key facts</h2>\n<ul><li>Release date: 6 November 2026</li><li>Director: Sujan Aromal</li><li>Genres: Comedy, Horror</li><li>Original language: Malayalam</li><li>Spoken languages: Malayalam</li><li>Production countries: India</li></ul>\n<h2>Top cast</h2>\n<ul><li>Jaffer Idukki</li><li>Dayyana Hameed</li><li>Anu Anandhan</li><li>Chithra Nair</li><li>Nirmal Palazhi</li><li>Shibu Laban</li></ul>\n</article>",
    "t": "Kushpu (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
+  },
+  "movie:1828723": {
+   "d": "Seldom Seen (2026) is a film. Story: Final entry in Sandman Series trilogy. See cast and release date 5 December 2026.",
+   "img": "https://image.tmdb.org/t/p/w500/fdGneaI2wDUoegL6W39rRWjIPV3.jpg",
+   "industry": "world",
+   "k": "Seldom Seen, Seldom Seen movie, Seldom Seen cast, Seldom Seen story, Seldom Seen box office collection, Seldom Seen budget, Seldom Seen review, Seldom Seen rating, Seldom Seen release date, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "description": "Seldom Seen (2026) is a film. Story: Final entry in Sandman Series trilogy. See cast and release date 5 December 2026.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Sandy Loaf"
+     }
+    ],
+    "image": "https://image.tmdb.org/t/p/w500/fdGneaI2wDUoegL6W39rRWjIPV3.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1828723",
+    "name": "Seldom Seen",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-12-05"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1828723"
+   },
+   "modified": "",
+   "published": "2026-11-28",
+   "robots": "noindex,follow",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Seldom Seen (2026)</h1>\n<p class=\"ssr-lead\">Final entry in Sandman Series trilogy.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 5 December 2026</li><li>Director: Sandy Loaf</li><li>Tagline: The Final Sandman</li><li>Original language: English</li><li>Status: In Production</li></ul>\n</article>",
+   "t": "Seldom Seen (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2026"
   },
   "movie:18823": {

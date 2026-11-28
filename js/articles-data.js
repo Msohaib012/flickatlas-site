@@ -276921,5 +276921,402 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Sat, 28 Nov 2026 16:30:18 GMT"
+  },
+  "1ji9znf": {
+    "id": "1ji9znf",
+    "type": "news",
+    "headline": "Suriya and Naslen's Action Thriller Scene Gears Up for OTT Debut on Netflix",
+    "dek": "Following a massive box office run during the Diwali festive season, Jithu Madhavan's Tamil action thriller Scene is reportedly heading to Netflix for its digital premiere.",
+    "body": [
+      {
+        "h": "Anticipated Digital Premiere on Netflix",
+        "p": [
+          "The Tamil action thriller Scene is widely reported to be heading toward its digital release on Netflix, building immense excitement among fans who missed the film in cinemas. While promotional materials hint strongly at the streaming platform's involvement, neither the production team nor Netflix has provided an official confirmation regarding the exact launch timeline.",
+          "Industry speculations point toward a December 4 release date, aligning closely with a standard four-week theatrical window. However, the definitive schedule may ultimately depend on the film's continued box office momentum and the broader programming strategies of the streaming service."
+        ]
+      },
+      {
+        "h": "Theatrical Launch and Festive Context",
+        "p": [
+          "Scene arrived in movie theaters on November 6, capitalising on the high-energy Diwali festive weekend. This well-timed release helped the film secure robust footfalls and establish a strong presence at the box office right from its opening days.",
+          "The decision to launch during a major holiday period proved beneficial, allowing the action-heavy narrative to capture the attention of holiday moviegoers and sustain healthy audience numbers across domestic territories."
+        ]
+      },
+      {
+        "h": "Box Office Milestones and Commercial Success",
+        "p": [
+          "Commercial metrics indicate that the film has achieved substantial financial success, pulling in approximately Rs 152.02 crore in nett domestic collections alongside a domestic gross of Rs 176.58 crore.",
+          "On a global scale, the project has crossed the Rs 265 crore threshold, with worldwide earnings reported around Rs 265.75 crore. These impressive figures position it as one of the standout high-grossing Tamil features of the year."
+        ]
+      },
+      {
+        "h": "Cast and Character Dynamics",
+        "p": [
+          "The film features a prominent principal cast led by Suriya, Naslen, and Nazriya Nazim, supported by performances from Lal, Anandraj, and Raj Priyan in key supporting roles.",
+          "Suriya takes on the central role of Inbaraj, also known as Inba, Irudhayaraj, a visually impaired police officer tasked with navigating a complex, unfinished investigation alongside a determined team."
+        ]
+      },
+      {
+        "h": "Creative Direction and Production Team",
+        "p": [
+          "Direction duties were handled by Jithu Madhavan, whose previous Malayalam works include popular hits like Aavesham and Romancham. This project also marks his official directorial debut within the Tamil film industry.",
+          "Production was overseen by Jyotika and Suriya through their banners, Zhagaram Studios and 2D Entertainment. The creative crew further includes composer Sushin Shyam for the music and Ajmal Sabu as editor."
+        ]
+      },
+      {
+        "h": "Notable Comebacks and Genre Fusion",
+        "p": [
+          "The production holds special significance due to Nazriya Nazim's return to Tamil cinema following a twelve-year hiatus. Her involvement adds extra weight to the star-studded ensemble.",
+          "Blending elements of crime, action, and mystery, the storyline revolves around high-stakes investigative tension, giving audiences a gritty cinematic experience."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Suriya and Naslen's action thriller Scene is reportedly preparing for a December 4 Netflix premiere following its November 6 theatrical release during Diwali. Directed by Jithu Madhavan, the film has grossed over Rs 265 crore worldwide while featuring a cast that includes Nazriya Nazim, Lal, Anandraj, and Raj Priyan."
+        ]
+      }
+    ],
+    "facts": [
+      "Scene released in theaters on November 6, 2026",
+      "Netflix reportedly acquired the streaming rights for Scene",
+      "The film is directed by Jithu Madhavan",
+      "Scene has earned over Rs 265 crore worldwide",
+      "Domestic nett collection is approximately Rs 152.02 crore",
+      "Domestic gross stands at Rs 176.58 crore",
+      "Worldwide collection is reported at Rs 265.75 crore",
+      "Cast includes Suriya, Naslen, Nazriya Nazim, Lal, Anandraj, and Raj Priyan",
+      "Produced by Jyotika and Suriya under Zhagaram Studios and 2D Entertainment",
+      "Music is composed by Sushin Shyam",
+      "Editing is done by Ajmal Sabu",
+      "Suriya plays a visually impaired police officer named Inbaraj / Inba Irudhayaraj"
+    ],
+    "entities": {
+      "people": [
+        "Suriya",
+        "Naslen",
+        "Jithu Madhavan",
+        "Nazriya Nazim",
+        "Lal",
+        "Anandraj",
+        "Raj Priyan",
+        "Jyotika",
+        "Sushin Shyam",
+        "Ajmal Sabu"
+      ],
+      "titles": [
+        "Scene",
+        "Aavesham",
+        "Romancham"
+      ]
+    },
+    "keywords": [
+      "Scene film",
+      "Suriya Scene OTT",
+      "Scene Netflix release date",
+      "Jithu Madhavan Scene cast"
+    ],
+    "images": [
+      {
+        "url": "https://images.timesnownews.com/thumb/msid-156579515,thumbsize-953720,width-1280,height-720,resizemode-75/156579515.jpg",
+        "caption": "Suriya and Naslen's Action Thriller Scene Gears Up for OTT Debut on Netflix",
+        "source": "Times Now — Entertainment"
+      }
+    ],
+    "published": "2026-11-28T18:53:17Z"
+  },
+  "ifh2vz": {
+    "id": "ifh2vz",
+    "type": "news",
+    "headline": "Veteran Actor Deepak Qazir Kejriwal Allegedly Assaulted at CINTAA Office in Mumbai",
+    "dek": "Senior artist and CINTAA member Deepak Qazir Kejriwal was reportedly beaten up inside the Cine and TV Artistes' Association office, sparking severe safety concerns among members.",
+    "body": [
+      {
+        "h": "The Alleged Incident at the CINTAA Office",
+        "p": [
+          "A major controversy has emerged within the Cine and TV Artistes' Association following reports that veteran actor and association member Deepak Qazir Kejriwal was physically assaulted inside the Mumbai office. The unsettling event allegedly unfolded on a Thursday, drawing immediate attention from industry observers and members alike.",
+          "Details regarding the confrontation began circulating after accounts from witnesses highlighted a violent clash on the association's premises. The incident has cast a shadow over the daily operations of the prominent industry body."
+        ]
+      },
+      {
+        "h": "Eyewitness Account by Daisy Clements",
+        "p": [
+          "Daisy Clements, a lifetime member of the association, came forward to share her perspective on the unfolding events during a conversation with Bollywood Chronicle. According to her statement, the trouble began when Kejriwal arrived at the building and was allegedly blocked from entering.",
+          "Clements noted that when the senior actor questioned Deepak Parashad about the entry denial, the verbal exchange quickly deteriorated. She alleged that Kejriwal was severely beaten up by several individuals present at the scene, resulting in visible injuries."
+        ]
+      },
+      {
+        "h": "Individuals Named in the Confrontation",
+        "p": [
+          "The eyewitness account specifically pointed to several figures allegedly involved in the physical altercation. Alongside Deepak Parashad, the testimony named Armaan Tahil, Brijesh, Ram, and Sapan Bhattacharya as participants in the alleged assault.",
+          "Despite the serious nature of these claims, reports indicate that there has been no independent confirmation or official response from the individuals named in the account as of yet."
+        ]
+      },
+      {
+        "h": "Health Concerns Raised for the Veteran Actor",
+        "p": [
+          "The alleged attack has drawn extra scrutiny due to Deepak Qazir Kejriwal's current health status. Association members have pointed out that he is unwell and is battling cancer, making the physical confrontation particularly alarming.",
+          "Colleagues have expressed deep dismay that a senior artist dealing with serious health challenges could face such hostile treatment within an institution meant to protect and support television and film performers."
+        ]
+      },
+      {
+        "h": "Broader Safety Fears Among Members",
+        "p": [
+          "The incident has sent shockwaves through the artist community, with many questioning whether the association headquarters remains a secure space for its members. Clements voiced her apprehension publicly, warning that if such violence can happen to a senior member, anyone could potentially be at risk.",
+          "The wider membership has urged heightened caution and a thorough review of premises security to ensure that individuals can visit the office without fear of intimidation or physical harm."
+        ]
+      },
+      {
+        "h": "Prior Disputes and Institutional Tensions",
+        "p": [
+          "This controversy follows earlier friction involving Kejriwal and internal association matters earlier in the year. Back in September, the actor and former office-bearer publicly objected to external involvement from the Federation of Western India Cine Employees in CINTAA's internal affairs and election processes.",
+          "During those prior disputes, Kejriwal maintained that outside bodies had no right to interfere in the organization's administration, while also raising broader concerns about general working conditions across the film industry."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Veteran actor and CINTAA member Deepak Qazir Kejriwal was allegedly assaulted inside the association's Mumbai office on Thursday after being denied entry. Lifetime member Daisy Clements shared details of the incident, naming several individuals and raising serious concerns about the safety of members, especially given Kejriwal's ongoing battle with cancer."
+        ]
+      }
+    ],
+    "facts": [
+      "Deepak Qazir Kejriwal was allegedly beaten up at the CINTAA office in Mumbai on a Thursday.",
+      "Daisy Clements is a lifetime member of CINTAA who spoke to Bollywood Chronicle.",
+      "Individuals named in the alleged assault include Deepak Parashad, Armaan Tahil, Brijesh, Ram, and Sapan Bhattacharya.",
+      "Kejriwal is a senior artist, former office-bearer, and cancer patient.",
+      "In September, Kejriwal had objected to FWICE getting involved in CINTAA's internal dispute and election process."
+    ],
+    "entities": {
+      "people": [
+        "Deepak Qazir Kejriwal",
+        "Daisy Clements",
+        "Deepak Parashad",
+        "Armaan Tahil",
+        "Brijesh",
+        "Ram",
+        "Sapan Bhattacharya"
+      ],
+      "titles": []
+    },
+    "keywords": [
+      "Deepak Qazir Kejriwal",
+      "CINTAA office Mumbai",
+      "Deepak Qazir assaulted",
+      "Daisy Clements CINTAA"
+    ],
+    "images": [
+      {
+        "url": "https://images.filmibeat.com/img/2026/11/deepakqazirbeatencintaad1-51841795889603.jpg",
+        "caption": "Veteran Actor Deepak Qazir Kejriwal Allegedly Assaulted at CINTAA Office in Mumbai",
+        "source": "FilmiBeat"
+      }
+    ],
+    "published": "Sat, 28 Nov 2026 23:46:21 +0530"
+  },
+  "1lshaag": {
+    "id": "1lshaag",
+    "type": "news",
+    "headline": "Scarlett Johansson and Adam Driver's R-Rated Thriller Paper Tiger Expands Greatly in Theaters",
+    "dek": "After starting in limited release, the critically acclaimed crime drama Paper Tiger has dramatically increased its theater count over the Thanksgiving frame following strong reviews.",
+    "body": [
+      {
+        "h": "Massive Theater Expansion",
+        "p": [
+          "The R-rated crime thriller Paper Tiger has secured a massive expansion during the Thanksgiving holiday weekend. The feature jumped from just 28 theaters up to 1,322 locations, marking an enormous increase of 1,294 screens.",
+          "This adjustment translates to a 4,621 percent growth in its distribution footprint. It easily outpaced other holiday specialty expansions, such as Club Kid and Pedro Almodóvar's Bitter Christmas, making it the biggest theater count gain of the frame."
+        ]
+      },
+      {
+        "h": "Star-Studded Cast and Reunions",
+        "p": [
+          "The film marks the first time Scarlett Johansson and Adam Driver have shared the big screen since their acclaimed work in Marriage Story. However, their latest project shifts into much darker territory as an R-rated crime drama.",
+          "Alongside Johansson and Driver, the movie also stars Miles Teller. The main trio anchors a narrative that explores dangerous criminal undercurrents and familial ties gone wrong."
+        ]
+      },
+      {
+        "h": "Critical Reception and Festival Debut",
+        "p": [
+          "Paper Tiger initially premiered in competition at the Cannes Film Festival earlier in the year. During its festival bow, it earned an extended standing ovation that reports placed between seven and ten minutes long.",
+          "The picture currently holds an 88 percent score on the Tomatometer across 158 reviews. Meanwhile, its 67 percent Popcornmeter rating highlights the usual divide between critics and general viewers regarding the mournful style of storytelling."
+        ]
+      },
+      {
+        "h": "Strong Limited Release Returns",
+        "p": [
+          "Before going wide, the film opened on November 13 across six screens in New York and Los Angeles. It managed a per-theater average of 35,834 dollars during that initial run.",
+          "That opening frame set a career record for the director and tripled the debut average of his previous work, Armageddon Time. The initial limited run demonstrated solid interest before the holiday push."
+        ]
+      },
+      {
+        "h": "Box Office Milestones and Holiday Earnings",
+        "p": [
+          "The wide push brought in 960,900 dollars on the Wednesday before Thanksgiving. That single-day haul secured sixth place on the daily chart.",
+          "The performance successfully lifted the domestic total to approximately 2 million dollars as the feature headed into the broader holiday weekend."
+        ]
+      },
+      {
+        "h": "A Personal Story Set in Queens",
+        "p": [
+          "The project serves as deeply personal work for director James Gray, drawing directly from his own childhood experiences in Queens. Set in 1986, the plot follows an engineer whose ex-cop brother pulls their family into a construction venture entangled with the Russian mob.",
+          "Scarlett Johansson portrays the wife caught in the fallout of these dangerous decisions. Her character was modeled on the filmmaker's own mother, though that detail was kept quiet during production to relieve pressure on the actor."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "The R-rated crime thriller Paper Tiger expanded its theater count from 28 to 1,322 locations over the Thanksgiving weekend after premiering earlier at Cannes. Starring Scarlett Johansson, Adam Driver, and Miles Teller, the film has earned strong critical praise and built a domestic total of roughly 2 million dollars."
+        ]
+      }
+    ],
+    "facts": [
+      "Paper Tiger jumped from 28 theaters to 1,322 theaters, an increase of 1,294 locations or 4,621 percent.",
+      "The film premiered at the Cannes Film Festival and received a standing ovation lasting between seven and ten minutes.",
+      "It holds an 88 percent score on the Tomatometer from 158 reviews and a 67 percent Popcornmeter score.",
+      "The film opened November 13 on six screens in New York and Los Angeles with a per-theater average of 35,834 dollars.",
+      "The wide push delivered a 960,900 dollar Wednesday before Thanksgiving, lifting the domestic total to roughly 2 million dollars.",
+      "The story is set in 1986 and draws from director James Gray's childhood in Queens."
+    ],
+    "entities": {
+      "people": [
+        "Scarlett Johansson",
+        "Adam Driver",
+        "Miles Teller",
+        "James Gray",
+        "Pedro Almodóvar",
+        "Omar Faruque",
+        "Gavin Goudey"
+      ],
+      "titles": [
+        "Paper Tiger",
+        "Marriage Story",
+        "Club Kid",
+        "Bitter Christmas",
+        "I Play Rocky",
+        "Elsinore",
+        "Armageddon Time"
+      ]
+    },
+    "keywords": [
+      "Paper Tiger film",
+      "Scarlett Johansson Paper Tiger",
+      "Adam Driver Paper Tiger",
+      "James Gray movie"
+    ],
+    "images": [
+      {
+        "url": "https://static0.moviewebimages.com/wordpress/wp-content/uploads/2026/11/scarlett-johansson-jurassic-world-rebirth-leaving-netflix-1.jpg?w=1600&amp;h=900&amp;fit=crop",
+        "caption": "Scarlett Johansson and Adam Driver's R-Rated Thriller Paper Tiger Expands Greatly in Theaters",
+        "source": "MovieWeb"
+      }
+    ],
+    "published": "Sat, 28 Nov 2026 18:49:12 GMT"
+  },
+  "1tv3wyj": {
+    "id": "1tv3wyj",
+    "type": "news",
+    "headline": "Cosmic Samson Kerala Box Office Collection Day 1 Opens At Rs 80 Lakh Gross",
+    "dek": "Malayalam fantasy action film Cosmic Samson, starring Sandeep Pradeep, registered a below-average opening at the Kerala box office on November 27, 2026.",
+    "body": [
+      {
+        "h": "Opening Day Box Office Figures",
+        "p": [
+          "The Malayalam fantasy action film Cosmic Samson began its theatrical journey with an estimated gross collection of approximately Rs 80 lakh in Kerala on its opening day. Released worldwide on November 27, 2026, the movie experienced a below-average start in its home territory.",
+          "According to box office tracker Jerin Georgekutty, the estimated distributor share derived from this opening-day Kerala gross stands at around Rs 36 lakh. These initial figures set a cautious tone for the film's theatrical run."
+        ]
+      },
+      {
+        "h": "Second Day Trends and Audience Reception",
+        "p": [
+          "Data shared via social media by box office tracking sources indicated that the film did not record significant growth in collections on its second day, Saturday, November 28, 2026. The stagnation in day-two numbers pointed toward a sluggish weekend trajectory.",
+          "Initial audience feedback for the feature has been mixed, which is widely considered a key factor influencing the movie's current box office pacing. Observers noted that the unfavorable early trend has impacted overall ticket sales."
+        ]
+      },
+      {
+        "h": "Crucial Weekend Projections",
+        "p": [
+          "The performance of the feature over the remainder of its opening weekend remains critical for determining its long-term viability in theatres. Industry analysts pointed to Sunday's collections as a vital indicator of whether the project can salvage its initial weekend figures.",
+          "Without a notable jump in footfall, sustaining a healthy theatrical run could prove challenging for the makers, placing heavy emphasis on positive word-of-mouth recovery."
+        ]
+      },
+      {
+        "h": "Plot and Premise",
+        "p": [
+          "The narrative of the movie revolves around Samson Joseph, portrayed by the lead actor. He is depicted as a struggling filmmaker attempting to establish a footing in the entertainment industry and land a major career breakthrough.",
+          "His ordinary routines take an unexpected turn following an unusual incident, plunging him into extraordinary situations that test his fundamental understanding of reality and perception."
+        ]
+      },
+      {
+        "h": "Cast and Character Details",
+        "p": [
+          "Sandeep Pradeep stars in the titular role of Samson Joseph, carrying the narrative center of the fantasy action project. He is joined by an ensemble supporting cast that includes Mukesh, Miya George, Althaf Salim, Alphonse Puthren, Shabareesh Varma, and Anuraj O. B.",
+          "These actors fill out important supporting parts that intersect with the protagonist's unusual journey and professional struggles."
+        ]
+      },
+      {
+        "h": "Behind the Scenes and Crew",
+        "p": [
+          "The film was written and directed by Abhijith Joseph, who shared screenplay co-writing credits with Abhikersh Vasanth. Production duties were handled by Sophia Paul under the banner of Weekend Blockbusters, in association with Manuel Cruz Darwin of D Group, with Bino T Abraham serving as executive producer.",
+          "Technical credits include cinematography by Deepak D Menon, editing by Chaman Chacko, and musical composition by Sibi Mathew Alex. Additional contributions came from Vishnu Govind for audiography, Ganga for choreography, Vlad Rimburg and Thavasi Raj for action sequences, Joseph Nellickal for production design, and Dhanya Balakrishnan for costumes, alongside multiple visual effects studios."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "The Malayalam fantasy action film Cosmic Samson, starring Sandeep Pradeep and directed by Abhijith Joseph, opened in theatres on November 27, 2026, with an estimated Kerala gross of Rs 80 lakh. Driven by mixed audience word-of-mouth and a below-average second-day trend, the film faces a crucial weekend box office test."
+        ]
+      }
+    ],
+    "facts": [
+      "Cosmic Samson released worldwide on November 27, 2026.",
+      "The opening-day Kerala gross collection was approximately Rs 80 lakh.",
+      "The estimated distributor share from the opening-day Kerala gross was approximately Rs 36 lakh.",
+      "Jerin Georgekutty shared the box office figures in an X post on Saturday, November 28, 2026.",
+      "The film was written and directed by Abhijith Joseph.",
+      "Sandeep Pradeep stars in the titular role of Samson Joseph."
+    ],
+    "entities": {
+      "people": [
+        "Sandeep Pradeep",
+        "Jerin Georgekutty",
+        "Abhijith Joseph",
+        "Abhikersh Vasanth",
+        "Mukesh",
+        "Miya George",
+        "Althaf Salim",
+        "Alphonse Puthren",
+        "Shabareesh Varma",
+        "Anuraj O. B.",
+        "Deepak D Menon",
+        "Chaman Chacko",
+        "Sibi Mathew Alex",
+        "Vishnu Govind",
+        "Ganga",
+        "Vlad Rimburg",
+        "Thavasi Raj",
+        "Joseph Nellickal",
+        "Dhanya Balakrishnan",
+        "Sophia Paul",
+        "Manuel Cruz Darwin",
+        "Bino T Abraham"
+      ],
+      "titles": [
+        "Cosmic Samson"
+      ]
+    },
+    "keywords": [
+      "Cosmic Samson movie",
+      "Cosmic Samson box office collection",
+      "Sandeep Pradeep Cosmic Samson",
+      "Cosmic Samson Kerala box office"
+    ],
+    "images": [
+      {
+        "url": "https://images.filmibeat.com/img/2026/11/cosmicsamson-13841795888132.jpg",
+        "caption": "Cosmic Samson Kerala Box Office Collection Day 1 Opens At Rs 80 Lakh Gross",
+        "source": "FilmiBeat"
+      }
+    ],
+    "published": "Sat, 28 Nov 2026 23:20:18 +0530"
   }
 };

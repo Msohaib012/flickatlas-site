@@ -45,6 +45,26 @@ window.FA_OTT = {
       "type": "movie"
     },
     {
+      "date": "2026-11-27",
+      "date_kind": "release",
+      "id": 1828828,
+      "providers": [
+        {
+          "logo_path": "/4N4BMd0Mm0kHAmF7RZgL5lW3cwc.png",
+          "name": "Paramount Plus Premium"
+        },
+        {
+          "logo_path": "/uPWQPyF4nqwtfPNmGcFcenU57HG.png",
+          "name": "Paramount Plus Essential"
+        },
+        {
+          "logo_path": "/bxX0YVOCY7bI85BKRlJAAQ2EjUR.png",
+          "name": "Paramount+ Amazon Channel"
+        }
+      ],
+      "type": "movie"
+    },
+    {
       "country": "US",
       "date": "2026-11-27",
       "date_kind": "digital",
@@ -80,6 +100,34 @@ window.FA_OTT = {
     {
       "date": "2026-11-26",
       "date_kind": "release",
+      "id": 1773727,
+      "providers": [
+        {
+          "logo_path": "/bxX0YVOCY7bI85BKRlJAAQ2EjUR.png",
+          "name": "Paramount+ Amazon Channel"
+        }
+      ],
+      "type": "movie"
+    },
+    {
+      "date": "2026-11-26",
+      "date_kind": "release",
+      "id": 1723884,
+      "providers": [
+        {
+          "logo_path": "/4N4BMd0Mm0kHAmF7RZgL5lW3cwc.png",
+          "name": "Paramount Plus Premium"
+        },
+        {
+          "logo_path": "/uPWQPyF4nqwtfPNmGcFcenU57HG.png",
+          "name": "Paramount Plus Essential"
+        }
+      ],
+      "type": "movie"
+    },
+    {
+      "date": "2026-11-26",
+      "date_kind": "release",
       "id": 338930,
       "providers": [
         {
@@ -88,6 +136,22 @@ window.FA_OTT = {
         }
       ],
       "type": "tv"
+    },
+    {
+      "date": "2026-11-26",
+      "date_kind": "release",
+      "id": 1773322,
+      "providers": [
+        {
+          "logo_path": "/mfbhzQwmQKjm7bLZPF5CTeu3Ilc.png",
+          "name": "Philo"
+        },
+        {
+          "logo_path": "/rfXfa1Cq2cxiO76jN3kflGeqJuT.png",
+          "name": "Hallmark TV Amazon Channel"
+        }
+      ],
+      "type": "movie"
     },
     {
       "date": "2026-11-25",

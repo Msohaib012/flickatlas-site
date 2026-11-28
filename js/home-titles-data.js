@@ -43419,5 +43419,560 @@ window.FA_PUBLISHED = {
     "providers": [],
     "release_date": "2026-12-05",
     "popularity": 0.6334
+  },
+  "1846968": {
+    "id": 1846968,
+    "type": "movie",
+    "title": "Kya Thhe?",
+    "poster_path": "/vQG4UaUAekiw92NDpswScM5BJRS.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "Waydant and Pakeezah, two playwrights who have fallen under dire circumstances within the confines of a Mumbai under emergency, decide to meet with the big fish of the industry to pitch their play- all while the revolutionaries grows increasingly agitated. What ensues is an epic spanning years, grappling with today’s mumbai, good music and love.",
+    "industry": "bollywood",
+    "original_language": "hi",
+    "origin_country": [
+      "IN"
+    ],
+    "production_countries": [],
+    "spoken_languages": [
+      "hi",
+      "en",
+      "mr"
+    ],
+    "published_at": "2026-11-28",
+    "date_kind": "release",
+    "status": "Released",
+    "providers": [],
+    "release_date": "2026-11-28",
+    "popularity": 0.026
+  },
+  "1801852": {
+    "id": 1801852,
+    "type": "movie",
+    "title": "Fraggle Rock: A Holiday Gift",
+    "poster_path": "/5u4JvPjA7Uv4ArGtVQ5XiOGBAoq.jpg",
+    "backdrop_path": "/72GEYmf40psyPIQIRkjQKkv3900.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "It's the holiday season in Fraggle Rock, and Wembley can't wait to spread cheer as the Spirit Captain. But when the festive spirit starts fading, Wembley sets out to discover what truly makes the season special.",
+    "industry": "world",
+    "original_language": "en",
+    "origin_country": [
+      "US"
+    ],
+    "production_countries": [],
+    "spoken_languages": [
+      "en"
+    ],
+    "published_at": "2026-11-28",
+    "date_kind": "release",
+    "status": "Post Production",
+    "providers": [],
+    "release_date": "2026-12-03",
+    "popularity": 1.3994
+  },
+  "1828898": {
+    "id": 1828898,
+    "type": "movie",
+    "title": "featherCOVER",
+    "poster_path": "/mDIkOBsR9bEUmM50fszr5khM4tK.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "In the fog of fresh grief, NEIL sets out to complete a simple chore: make the bed with the fresh sheets his wife NATALIE left folded before her sudden, unexpected death. But when he crawls into the duvet cover and encounters Natalie's pet tortoise TERRY—who can suddenly speak—the fabric gives way to an endless desert... a place of wind, dust, and silence, where time itself feels unmoored. As he chases after brief glimpses of Natalie, constantly moving away from him, each slow step draws him closer to the quiet, absurd truth that even in the shadow of death, life carries on.",
+    "industry": "world",
+    "original_language": "en",
+    "origin_country": [
+      "US"
+    ],
+    "production_countries": [],
+    "spoken_languages": [
+      "en"
+    ],
+    "published_at": "2026-11-28",
+    "date_kind": "festival",
+    "status": "In Production",
+    "providers": [],
+    "release_date": "2026-12-05",
+    "popularity": 0.2658
+  },
+  "1828828": {
+    "id": 1828828,
+    "type": "movie",
+    "title": "On the Last Day of Christmas",
+    "poster_path": "/1IfozMOp09BtUVLhEQ5wpaU6iig.jpg",
+    "backdrop_path": "/8HrXwjRAU4dNTo0X8WwBhPIrdxi.jpg",
+    "vote_average": 2.0,
+    "vote_count": 1,
+    "overview": "Christmas Eve becomes a night of terror when demonic beings invade an apartment building and begin hunting everyone inside. Trapped with her teenage son Curtis, Sadie must battle alongside a group of survivors as their home is transformed into a nightmare. But as the night grows bloodier, they discover these creatures haven’t come by chance. They’re searching for something in particular and they’ll slaughter everyone in the building to find it.",
+    "industry": "world",
+    "original_language": "en",
+    "origin_country": [
+      "US"
+    ],
+    "production_countries": [
+      "US"
+    ],
+    "spoken_languages": [
+      "en"
+    ],
+    "published_at": "2026-11-28",
+    "date_kind": "release",
+    "status": "Released",
+    "providers": [
+      {
+        "name": "Paramount Plus Premium",
+        "logo_path": "/4N4BMd0Mm0kHAmF7RZgL5lW3cwc.png",
+        "region": "US",
+        "type": "flatrate"
+      },
+      {
+        "name": "Paramount Plus Essential",
+        "logo_path": "/uPWQPyF4nqwtfPNmGcFcenU57HG.png",
+        "region": "US",
+        "type": "flatrate"
+      },
+      {
+        "name": "Paramount+ Amazon Channel",
+        "logo_path": "/bxX0YVOCY7bI85BKRlJAAQ2EjUR.png",
+        "region": "US",
+        "type": "flatrate"
+      }
+    ],
+    "release_date": "2026-11-27",
+    "popularity": 3.3742
+  },
+  "1657423": {
+    "id": 1657423,
+    "type": "movie",
+    "title": "Vanishing Tracks",
+    "poster_path": "/vlu5cD2FZ4CQ4ulYagzwTrWozwo.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "In Iran’s remote nomadic landscape, a family navigates their traditional existence in a modern world. When their sheep vanish overnight, tensions rise between the three sons and their parents.",
+    "industry": "world",
+    "original_language": "fa",
+    "origin_country": [
+      "NO",
+      "KR",
+      "IR",
+      "QA",
+      "FR"
+    ],
+    "production_countries": [
+      "IR",
+      "FR",
+      "NO",
+      "KR",
+      "QA"
+    ],
+    "spoken_languages": [
+      "az",
+      "fa"
+    ],
+    "published_at": "2026-11-28",
+    "date_kind": "festival",
+    "status": "Released",
+    "providers": [],
+    "release_date": "2026-04-27",
+    "popularity": 2.3379
+  },
+  "1828723": {
+    "id": 1828723,
+    "type": "movie",
+    "title": "Seldom Seen",
+    "poster_path": "/fdGneaI2wDUoegL6W39rRWjIPV3.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "Final entry in Sandman Series trilogy.",
+    "industry": "world",
+    "original_language": "en",
+    "origin_country": [
+      "US"
+    ],
+    "production_countries": [],
+    "spoken_languages": [],
+    "published_at": "2026-11-28",
+    "date_kind": "release",
+    "status": "In Production",
+    "providers": [],
+    "release_date": "2026-12-05",
+    "popularity": 0.3576
+  },
+  "1824693": {
+    "id": 1824693,
+    "type": "movie",
+    "title": "Bobby Lee: Finally",
+    "poster_path": "/ahQKkfWgg4mJv9hIZIdC4cXObSA.jpg",
+    "backdrop_path": "/z9xWewzdJmH2ewuFcBkLywzAGyL.jpg",
+    "vote_average": 2.0,
+    "vote_count": 2,
+    "overview": "Comedian Bobby Lee is releasing his first-ever hour-long stand-up comedy special, Bobby Lee: Finally, after more than 30 years in comedy.",
+    "industry": "world",
+    "original_language": "en",
+    "origin_country": [
+      "US"
+    ],
+    "production_countries": [],
+    "spoken_languages": [
+      "en"
+    ],
+    "published_at": "2026-11-28",
+    "date_kind": "release",
+    "status": "Released",
+    "providers": [],
+    "release_date": "2026-11-27",
+    "popularity": 2.112
+  },
+  "1823677": {
+    "id": 1823677,
+    "type": "movie",
+    "title": "If We Were a Tale",
+    "poster_path": "/o593Xrp0KXHS2uPHQJU7cUA3L3y.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "On the day of his daughter Umay’s release from an eight-year prison sentence, Mümtaz starts a journey with his eight-year-old granddaughter, Efsun. Knowing her mother’s identity only through the warrior Vasilisa’s tale invented by her grandfather, Efsun wants to learn the rest of the story along the way. Trapped  between his conscience and his granddaughter’s questions, Mümtaz is forced to confront the reality he has been avoiding, while Efsun stands on the verge of confronting the harsh reality of her past instead of an imaginary hero.",
+    "industry": "world",
+    "original_language": "tr",
+    "origin_country": [
+      "TR"
+    ],
+    "production_countries": [
+      "TR"
+    ],
+    "spoken_languages": [
+      "tr"
+    ],
+    "published_at": "2026-11-28",
+    "date_kind": "release",
+    "status": "Released",
+    "providers": [],
+    "release_date": "2026-12-05",
+    "popularity": 0.0513
+  },
+  "1773727": {
+    "id": 1773727,
+    "type": "movie",
+    "title": "The JLO Show",
+    "poster_path": "/6uc4X6ytnytrZ9cWP9NI6mihqdb.jpg",
+    "backdrop_path": "/qBSWU70e99BH6t06DsNjzQovyyK.jpg",
+    "vote_average": 7.0,
+    "vote_count": 1,
+    "overview": "Tracing her journey from the Bronx to global icon, Jennifer Lopez delivers a production that is as intimate as it is spectacular, backed by a full orchestra, vocal ensemble, and 16 dancers. The show blends her most iconic hits with personal storytelling, featuring the artists and songs that influenced her. The result is a show that feels modern, nostalgic, and timeless.",
+    "industry": "world",
+    "original_language": "en",
+    "origin_country": [
+      "US"
+    ],
+    "production_countries": [
+      "US"
+    ],
+    "spoken_languages": [
+      "en",
+      "es"
+    ],
+    "published_at": "2026-11-28",
+    "date_kind": "release",
+    "status": "Released",
+    "providers": [
+      {
+        "name": "Paramount+ Amazon Channel",
+        "logo_path": "/bxX0YVOCY7bI85BKRlJAAQ2EjUR.png",
+        "region": "US",
+        "type": "flatrate"
+      }
+    ],
+    "release_date": "2026-11-26",
+    "popularity": 3.6768
+  },
+  "1822383": {
+    "id": 1822383,
+    "type": "movie",
+    "title": "Fête comme chez vous",
+    "poster_path": "/sixypYZxbP32dcO8YEx0AiSatmz.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "",
+    "industry": "world",
+    "original_language": "fr",
+    "origin_country": [
+      "FR"
+    ],
+    "production_countries": [
+      "FR"
+    ],
+    "spoken_languages": [],
+    "published_at": "2026-11-28",
+    "date_kind": "release",
+    "status": "Planned",
+    "providers": [],
+    "release_date": "2026-12-05",
+    "popularity": 0.1639
+  },
+  "1723884": {
+    "id": 1723884,
+    "type": "movie",
+    "title": "SpongeBob SquarePants: Merry Christmas, Mr. Plankton",
+    "poster_path": "/eChQaIEzlGBOfOtbsrFTeZmWqp1.jpg",
+    "backdrop_path": "/at3ipqB0F1ES2viO6sdH97RO9Kq.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "When Plankton takes over the North Pole, SpongeBob, Mr. Krabs, and a group of misfits team up to save Christmas.",
+    "industry": "world",
+    "original_language": "en",
+    "origin_country": [
+      "US"
+    ],
+    "production_countries": [
+      "US"
+    ],
+    "spoken_languages": [
+      "en"
+    ],
+    "published_at": "2026-11-28",
+    "date_kind": "release",
+    "status": "Released",
+    "providers": [
+      {
+        "name": "Paramount Plus Premium",
+        "logo_path": "/4N4BMd0Mm0kHAmF7RZgL5lW3cwc.png",
+        "region": "US",
+        "type": "flatrate"
+      },
+      {
+        "name": "Paramount Plus Essential",
+        "logo_path": "/uPWQPyF4nqwtfPNmGcFcenU57HG.png",
+        "region": "US",
+        "type": "flatrate"
+      }
+    ],
+    "release_date": "2026-11-26",
+    "popularity": 3.1566
+  },
+  "1821216": {
+    "id": 1821216,
+    "type": "movie",
+    "title": "Gofrodita",
+    "poster_path": "/9SvrRpElrsR6u5TdIzreZdnxB6f.jpg",
+    "backdrop_path": "/eTCLxSd68ZkOUQZZkPFkYzwvuZz.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "Artificial intelligence, robots, and digital illusions. My quest for innovation leads me down a path of delusions and addiction. An expressionist animated essay about cinema and technology.",
+    "industry": "world",
+    "original_language": "es",
+    "origin_country": [
+      "DE",
+      "MX"
+    ],
+    "production_countries": [
+      "DE",
+      "MX"
+    ],
+    "spoken_languages": [],
+    "published_at": "2026-11-28",
+    "date_kind": "release",
+    "status": "Released",
+    "providers": [],
+    "release_date": "2026-12-05",
+    "popularity": 0.0285
+  },
+  "1773322": {
+    "id": 1773322,
+    "type": "movie",
+    "title": "Christmas Delivered",
+    "poster_path": "/nqaVaz8wTUwV2UNjjxJ46CjEaqV.jpg",
+    "backdrop_path": "/1dpBJ2EOVQSxXPNgcOvxIUnPixw.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "Determined to unwind from the stresses and loneliness of her everyday life, Kimberly Carr travels to Canada to spend Christmas with her grandmother, JoJo, at her beautiful, cozy farmhouse. Kimberly's plans for a restorative holiday are turned upside down when she crosses paths with Ben Chambers, owner of a local tree farm and new Christmas tree delivery app called TreeBen. Ben's a dreamer who never looks before he leaps while Kimberly is methodical and lives her life based on practicality. But when Ben's app is plagued by an onslaught of issues, Kimberly uses her tech expertise to help him out and ensure that no one in town is deprived of a Christmas tree... even though she isn't convinced of the need for the app in such a small town. Kimberly and Ben discover they may have more in common than they realized. In the process, Kimberly begins to question if she's truly happy with her life or if she's ready for a change and ready for romance.",
+    "industry": "world",
+    "original_language": "en",
+    "origin_country": [
+      "US"
+    ],
+    "production_countries": [
+      "CA"
+    ],
+    "spoken_languages": [],
+    "published_at": "2026-11-28",
+    "date_kind": "release",
+    "status": "Released",
+    "providers": [
+      {
+        "name": "Philo",
+        "logo_path": "/mfbhzQwmQKjm7bLZPF5CTeu3Ilc.png",
+        "region": "US",
+        "type": "flatrate"
+      },
+      {
+        "name": "Hallmark TV Amazon Channel",
+        "logo_path": "/rfXfa1Cq2cxiO76jN3kflGeqJuT.png",
+        "region": "US",
+        "type": "flatrate"
+      }
+    ],
+    "release_date": "2026-11-26",
+    "popularity": 2.1252
+  },
+  "1820539": {
+    "id": 1820539,
+    "type": "movie",
+    "title": "L'Île et elles",
+    "poster_path": "/aN7x7dSdZpMwC49zLT1ofEwJxVs.jpg",
+    "backdrop_path": "/rnApBuLdvqHtq2rIxTgqDUbcCwM.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "In 2001, the Cinémathèque de Bretagne was entrusted with eighteen amateur films made from the 1950s onwards by Maryèle Morice and Madeleine Camard. The two women filmed their outings with friends or family, paying particular attention to everyday life, Breton traditions and the region’s natural landscapes.  Several of these films take place on Île-aux-Moines, in the Gulf of Morbihan, where Maryèle lived. Seventy years after the footage was originally shot, we return to the island to show these images to its inhabitants, hoping to discover details that might tell us more about the lives and filmmaking practices of these two women.  At the same time, we film this unique ecosystem ourselves. Memories and comments from island residents of all ages intertwine, creating a dialogue between past and present. This dialogue is further extended through the alternation between our contemporary digital footage and the women’s original colour 8mm films.",
+    "industry": "world",
+    "original_language": "fr",
+    "origin_country": [
+      "FR"
+    ],
+    "production_countries": [],
+    "spoken_languages": [
+      "fr"
+    ],
+    "published_at": "2026-11-28",
+    "date_kind": "release",
+    "status": "In Production",
+    "providers": [],
+    "release_date": "2026-12-05",
+    "popularity": 0.0916
+  },
+  "1433854": {
+    "id": 1433854,
+    "type": "movie",
+    "title": "Brute 1986",
+    "poster_path": "/bO3lrWJV0TQi8s3xSUeDCPaNxhy.jpg",
+    "backdrop_path": "/gqXoyakMUNYVMQfNuFNPo2MO8s.jpg",
+    "vote_average": 4.75,
+    "vote_count": 4,
+    "overview": "Leather Kobra, a Sunset Strip-style glam metal band, films a music video in an abandoned Western town in the middle of nowhere. Ignoring ‘no trespassing’ signs, the rebellious group have no idea they are being watched by the Birdy family, who will meet them with a level of brutality that is as vicious as it is creative.",
+    "industry": "world",
+    "original_language": "en",
+    "origin_country": [
+      "US"
+    ],
+    "production_countries": [
+      "US"
+    ],
+    "spoken_languages": [
+      "en"
+    ],
+    "published_at": "2026-11-28",
+    "date_kind": "release",
+    "status": "Released",
+    "providers": [],
+    "release_date": "2026-11-26",
+    "popularity": 1.7533
+  },
+  "1820210": {
+    "id": 1820210,
+    "type": "movie",
+    "title": "It's A Girl Thang",
+    "poster_path": "/dkVDpXSGUsajXvfWoM25xC9UXqg.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "In 1997, a girl group's home-video shoot falls apart as its tyrannical leader fires each member one by one, until she's the only one left.",
+    "industry": "world",
+    "original_language": "en",
+    "origin_country": [
+      "US"
+    ],
+    "production_countries": [
+      "US"
+    ],
+    "spoken_languages": [
+      "en"
+    ],
+    "published_at": "2026-11-28",
+    "date_kind": "festival",
+    "status": "In Production",
+    "providers": [],
+    "release_date": "2026-12-05",
+    "popularity": 0.4375
+  },
+  "1573791": {
+    "id": 1573791,
+    "type": "movie",
+    "title": "Echoes from the Midnight Mansion",
+    "poster_path": "/kG2haZZXWSzECu6b4CODwY4Yd85.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "A writer finds six bone-chilling tapes in an abandoned mansion that unleash horror, pushing the boundaries of suspense, mystery and fear to the extreme.",
+    "industry": "world",
+    "original_language": "en",
+    "origin_country": [
+      "HU",
+      "US"
+    ],
+    "production_countries": [
+      "HU",
+      "US"
+    ],
+    "spoken_languages": [
+      "en"
+    ],
+    "published_at": "2026-11-28",
+    "date_kind": "release",
+    "status": "Released",
+    "providers": [],
+    "release_date": "2026-11-24",
+    "popularity": 10.0477
+  },
+  "1816983": {
+    "id": 1816983,
+    "type": "movie",
+    "title": "Purgatory: Birth",
+    "poster_path": "/1mdRpgtdp3rhz3VkGYLODmhwGTC.jpg",
+    "backdrop_path": "/cpQiDlj5e5hkwOgjLR03p16hggq.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "As Carter draws closer to the unknown, he discovers that the line between hunter and prey is thinner than he ever imagined. Cornered by a horror lurking in the shadows, he turns to faith as his last hope of escaping an inevitable fate.",
+    "industry": "world",
+    "original_language": "pt",
+    "origin_country": [
+      "BR"
+    ],
+    "production_countries": [],
+    "spoken_languages": [
+      "pt"
+    ],
+    "published_at": "2026-11-28",
+    "date_kind": "release",
+    "status": "Post Production",
+    "providers": [],
+    "release_date": "2026-12-05",
+    "popularity": 0.0479
+  },
+  "1816698": {
+    "id": 1816698,
+    "type": "movie",
+    "title": "THE COVER GIRL",
+    "poster_path": "/qP8e5aJAru5E14aC5Lbmm3muDD9.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "",
+    "industry": "world",
+    "original_language": "ja",
+    "origin_country": [
+      "JP"
+    ],
+    "production_countries": [],
+    "spoken_languages": [],
+    "published_at": "2026-11-28",
+    "date_kind": "release",
+    "status": "In Production",
+    "providers": [],
+    "release_date": "2026-12-05",
+    "popularity": 0.0941
   }
 };
