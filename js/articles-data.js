@@ -273738,5 +273738,394 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "2026-11-28T11:51:51Z"
+  },
+  "29x4s0": {
+    "id": "29x4s0",
+    "type": "news",
+    "headline": "Vishnu Vishal and Mamitha Baiju's 'Irandu Vaanam' Locks Christmas Release Date After CBFC Certification",
+    "dek": "Director Ramkumar and actor Vishnu Vishal return for their third collaboration, 'Irandu Vaanam', featuring Mamitha Baiju and securing a U/A censor certificate ahead of its December theatrical launch.",
+    "body": [
+      {
+        "h": "The Return of a Successful Creative Partnership",
+        "p": [
+          "Actor Vishnu Vishal is gearing up for his upcoming appearance on the silver screen alongside filmmaker Ramkumar. The upcoming venture titled 'Irandu Vaanam' has generated considerable buzz among enthusiasts of Tamil cinema.",
+          "This project marks the third time the actor and director have joined forces, following their previous acclaimed ventures together in the industry."
+        ]
+      },
+      {
+        "h": "Fresh Details on the Release Schedule",
+        "p": [
+          "Producers have officially scheduled the arrival of the movie in theaters for December 24, 2026, positioning the launch just ahead of the Christmas festivities.",
+          "The project has also successfully cleared the Central Board of Film Certification, obtaining a U/A rating from the authorities."
+        ]
+      },
+      {
+        "h": "Previous Schedule Adjustments and Competition",
+        "p": [
+          "The feature was initially planned for an October 23 premiere, intended to arrive one week after the release of the Rajinikanth starrer 'Jailer 2'.",
+          "That initial window did not materialize because the aforementioned film maintained a strong grip on theater screens across the region."
+        ]
+      },
+      {
+        "h": "Looking Back at Past Collaborations",
+        "p": [
+          "The enduring partnership between Vishnu Vishal and Ramkumar previously yielded 'Mundasupatti' in 2014 and the psychological thriller 'Ratsasan' in 2018.",
+          "Both earlier projects earned critical appreciation, with the latter receiving widespread praise for its engaging and intense narrative structure."
+        ]
+      },
+      {
+        "h": "Cast Members and Production Scale",
+        "p": [
+          "Mamitha Baiju anchors the project as the female lead opposite the main star, while Munishkanth appears in a significant supporting capacity.",
+          "Principal photography for the production spanned a duration of 150 days, marking the lengthiest filming schedule in the director's professional career."
+        ]
+      },
+      {
+        "h": "Shifting Away From Thrillers Into Romance",
+        "p": [
+          "While their previous joint effort 'Ratsasan' focused heavily on the thriller genre, their latest undertaking ventures into different narrative territory.",
+          "Reports indicate that the core plot revolves around the concept of romance and the profound transformations it introduces into an individual's existence."
+        ]
+      },
+      {
+        "h": "Elevated Expectations From Audiences",
+        "p": [
+          "The underlying concept explores how human lives shift fundamentally upon discovering true affection, adding emotional depth to the screenplay.",
+          "Combined with the strong track record of the creative team, this fresh narrative approach has created substantial anticipation surrounding the upcoming premiere."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Vishnu Vishal and director Ramkumar are reuniting for their third film, 'Irandu Vaanam', which stars Mamitha Baiju and Munishkanth and focuses on a romantic theme after their previous thrillers. Following a delayed schedule that missed its original October target due to 'Jailer 2', the production has secured a U/A censor rating and is set to release in theaters on December 24, 2026."
+        ]
+      }
+    ],
+    "facts": [
+      "Vishnu Vishal and Ramkumar are collaborating for the third time on 'Irandu Vaanam'.",
+      "'Irandu Vaanam' is scheduled to release in theaters on December 24, 2026.",
+      "The film has received a U/A rating from the CBFC.",
+      "The movie was originally planned for release on October 23, a week after 'Jailer 2'.",
+      "Their previous collaborations include 'Mundasupatti' in 2014 and 'Ratsasan' in 2018.",
+      "Mamitha Baiju is the leading lady, and Munishkanth plays a vital role.",
+      "Filming for 'Irandu Vaanam' took 150 days."
+    ],
+    "entities": {
+      "people": [
+        "Vishnu Vishal",
+        "Mamitha Baiju",
+        "Ramkumar",
+        "Munishkanth",
+        "Rajinikanth"
+      ],
+      "titles": [
+        "Irandu Vaanam",
+        "Jailer 2",
+        "Mundasupatti",
+        "Ratsasan"
+      ]
+    },
+    "keywords": [
+      "Irandu Vaanam",
+      "Vishnu Vishal Irandu Vaanam",
+      "Mamitha Baiju",
+      "Ramkumar director"
+    ],
+    "images": [
+      {
+        "url": "https://static.toiimg.com/thumb/msid-136245027,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "caption": "Vishnu Vishal and Mamitha Baiju's 'Irandu Vaanam' Locks Christmas Release Date After CBFC Certification",
+        "source": "Times of India — Entertainment"
+      }
+    ],
+    "published": "2026-11-28T16:35:56+05:30"
+  },
+  "yxc3n9": {
+    "id": "yxc3n9",
+    "type": "news",
+    "headline": "Matthew Gray Gubler Stars as Albert Einstein's Great-Grandson in CBS Series Einstein",
+    "dek": "CBS has launched the first trailer for the upcoming comedy-crime series Einstein, featuring Matthew Gray Gubler, Melissa Fumero, and Tony Shalhoub.",
+    "body": [
+      {
+        "h": "First Look at Einstein Trailer",
+        "p": [
+          "CBS has officially debuted the teaser trailer for its upcoming comedy-crime television series titled Einstein. The project places Matthew Gray Gubler in the leading role as a brilliant academic whose lineage connects him directly to history's most famous physicist.",
+          "The newly released footage introduces audiences to the show's quirky dynamic, blending high-stakes homicide investigations with comedic elements. Fans of procedural and comedic mysteries can watch the preview directly through the network's official channels."
+        ]
+      },
+      {
+        "h": "The Premise and Main Character",
+        "p": [
+          "The story centers on Lewis Einstein, a tenured professor working at Princeton University who is the great-grandson of the legendary scientist Albert Einstein. Though blessed with genius-level intellect, Lewis possesses a reckless streak that frequently leads to personal trouble.",
+          "When his latest unruly behavior lands him in deep legal jeopardy, Lewis manages to bypass a prison sentence. Instead, he strikes a deal to utilize his brilliant mind to assist a local law enforcement department in solving difficult murder cases."
+        ]
+      },
+      {
+        "h": "Star-Studded Cast Lineup",
+        "p": [
+          "Matthew Gray Gubler, widely recognized for his work on Criminal Minds, anchors the series as the eccentric protagonist Lewis Einstein. He is joined on screen by Melissa Fumero, known for her role in Brooklyn Nine-Nine, who portrays the local police detective assigned to work with him.",
+          "The ensemble cast also welcomes Tony Shalhoub, the headline star of Monk, who takes on the role of Lewis's father and Albert Einstein's grandson, Jack Einstein. Additionally, Aunjanue Ellis-Taylor appears as Captain Marcia Frost, a seasoned veteran officer nearing her retirement."
+        ]
+      },
+      {
+        "h": "Creative Team Behind the Scenes",
+        "p": [
+          "The creative vision for the series comes from Andy Breckman, who previously served as the creative force behind the major CBS smash-hit series Monk. Breckman brings his signature blend of eccentric characters and clever detective work back to the network with this new venture.",
+          "The involvement of familiar creative talent from past successful crime-comedies has generated significant anticipation among viewers looking for a fresh yet classic procedural television format."
+        ]
+      },
+      {
+        "h": "Release Details and Schedule",
+        "p": [
+          "Viewers waiting to see Matthew Gray Gubler tackle homicide investigations alongside law enforcement will not have to wait much longer. CBS has slated the official series premiere for February 12th, 2027.",
+          "As the premiere date approaches, the network is expected to release further promotional material, offering more insights into the episodic mysteries Lewis Einstein will attempt to unravel."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "CBS released a trailer for the comedy-crime series Einstein, starring Matthew Gray Gubler as the great-grandson of Albert Einstein. Created by Andy Breckman, the show premieres on February 12th, 2027, and features a cast including Melissa Fumero, Tony Shalhoub, and Aunjanue Ellis-Taylor."
+        ]
+      }
+    ],
+    "facts": [
+      "Matthew Gray Gubler stars as Lewis Einstein.",
+      "Lewis Einstein is the great-grandson of Albert Einstein.",
+      "Melissa Fumero plays a local police detective named Teri.",
+      "Tony Shalhoub plays Jack Einstein, Lewis's father and Albert Einstein's grandson.",
+      "Aunjanue Ellis-Taylor plays Captain Marcia Frost.",
+      "Andy Breckman created the series.",
+      "Einstein premieres on CBS on February 12th, 2027."
+    ],
+    "entities": {
+      "people": [
+        "Matthew Gray Gubler",
+        "Albert Einstein",
+        "Melissa Fumero",
+        "Andy Breckman",
+        "Tony Shalhoub",
+        "Aunjanue Ellis-Taylor",
+        "Lewis Einstein",
+        "Jack Einstein",
+        "Marcia Frost"
+      ],
+      "titles": [
+        "Einstein",
+        "Criminal Minds",
+        "Brooklyn Nine-Nine",
+        "Monk",
+        "Nickel Boys",
+        "King Richard"
+      ]
+    },
+    "keywords": [
+      "Matthew Gray Gubler Einstein",
+      "Einstein CBS trailer",
+      "Andy Breckman Einstein series",
+      "Tony Shalhoub Einstein show"
+    ],
+    "images": [
+      {
+        "url": "https://cdn.flickeringmyth.com/wp-content/uploads/2026/11/Einstein-trailer-1.jpg",
+        "caption": "Matthew Gray Gubler Stars as Albert Einstein's Great-Grandson in CBS Series Einstein",
+        "source": "Flickering Myth"
+      }
+    ],
+    "published": "Sat, 28 Nov 2026 12:07:33 +0000"
+  },
+  "1ybc4m1": {
+    "id": "1ybc4m1",
+    "type": "news",
+    "headline": "MTV Roadies 21 Episode 14 Release Time And Details",
+    "dek": "Everything you need to know about MTV Roadies 21 Episode 14, including the release schedule, platform details, and the new OGs vs NewGs format.",
+    "body": [
+      {
+        "h": "The Competition Shifts To The Main Stage",
+        "p": [
+          "After weeks of intense auditions, MTV Roadies 21 is officially moving into its next major phase. With the selection rounds successfully wrapping up last week, the chosen participants are stepping forward to kickstart their journey.",
+          "Titled MTV Roadies Rebirth, this new season promises an exhilarating battle centered around strength, determination, and confidence as contestants strive to secure the ultimate winner title."
+        ]
+      },
+      {
+        "h": "Understanding The OGs Vs NewGs Format",
+        "p": [
+          "A major highlight of this season is the distinct OGs versus NewGs format. The show brings together six prominent gang leaders to guide and mentor the contestants through difficult trials.",
+          "Rannvijay Singha returns to host the journey, while the six leaders are divided evenly into two opposing camps to compete for supremacy."
+        ]
+      },
+      {
+        "h": "Meet The Gang Leaders",
+        "p": [
+          "The OG team consists of seasoned personalities Nikhil Chinapa, Neha Dhupia, and Prince Narula, who bring years of experience to the table.",
+          "On the other side, the NewGs are led by Abhishek Malhan (Fukra Insaan), Bani J, and Baseer Ali, injecting fresh leadership energy into the competition."
+        ]
+      },
+      {
+        "h": "Challenges, Rivalries, And Strategy",
+        "p": [
+          "As the teams form, participants must impress the leaders with their unique personalities before taking on demanding challenges. The season will test both physical endurance and mental grit.",
+          "Viewers can expect severe team rivalries, unexpected twists, and high-stakes eliminations as both sides try to prove their tactical superiority."
+        ]
+      },
+      {
+        "h": "Broadcast Schedule And Release Time",
+        "p": [
+          "Fans waiting for Episode 14 can catch the broadcast today, November 28, at 7 PM on the MTV channel.",
+          "The reality show follows a regular schedule with fresh episodes premiering every Friday and Saturday evening."
+        ]
+      },
+      {
+        "h": "Where To Watch Online",
+        "p": [
+          "For audiences preferring digital platforms, the latest episode will be accessible for streaming on JioHotstar immediately following its television telecast.",
+          "This ensures fans can easily catch up with the journey online from anywhere."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "MTV Roadies 21, titled Roadies Rebirth, aired Episode 14 on November 28 at 7 PM on MTV with digital streaming on JioHotstar. The season features host Rannvijay Singha and a unique OGs versus NewGs format led by Nikhil Chinapa, Neha Dhupia, Prince Narula, Abhishek Malhan, Bani J, and Baseer Ali."
+        ]
+      }
+    ],
+    "facts": [
+      "MTV Roadies 21 is titled MTV Roadies Rebirth.",
+      "Episode 14 premieres on November 28, 2026.",
+      "The broadcast time is 7 PM on MTV.",
+      "Digital streaming is available on JioHotstar.",
+      "Rannvijay Singha hosts the show.",
+      "The OG gang leaders are Nikhil Chinapa, Neha Dhupia, and Prince Narula.",
+      "The NewG gang leaders are Abhishek Malhan (Fukra Insaan), Bani J, and Baseer Ali."
+    ],
+    "entities": {
+      "people": [
+        "Rannvijay Singha",
+        "Prince Narula",
+        "Neha Dhupia",
+        "Nikhil Chinapa",
+        "Abhishek Malhan",
+        "Bani J",
+        "Baseer Ali"
+      ],
+      "titles": [
+        "MTV Roadies 21",
+        "MTV Roadies Rebirth"
+      ]
+    },
+    "keywords": [
+      "MTV Roadies 21",
+      "MTV Roadies Rebirth",
+      "Rannvijay Singha",
+      "Abhishek Malhan"
+    ],
+    "images": [
+      {
+        "url": "https://images.filmibeat.com/img/2026/11/mtvroadies21ep5timed-94471795866836.jpg",
+        "caption": "MTV Roadies 21 Episode 14 Release Time And Details",
+        "source": "FilmiBeat"
+      }
+    ],
+    "published": "Sat, 28 Nov 2026 17:26:38 +0530"
+  },
+  "5mbln9": {
+    "id": "5mbln9",
+    "type": "news",
+    "headline": "Box Office Milestone: Ramayana Propels Ranbir Kapoor and Yash Into the Elite 3000 Crore Club",
+    "dek": "Thanks to the staggering worldwide performance of Ramayana, actors Ranbir Kapoor and Yash have crossed the 3000 crore post-COVID milestone, joining Ranveer Singh in the elite group.",
+    "body": [
+      {
+        "h": "Introduction to the 3000 Crore Club",
+        "p": [
+          "The box office landscape has experienced a monumental shift following the global success of Ramayana. The feature has proven to be a defining project for its leading actors, securing massive financial returns worldwide and dramatically elevating their post-COVID career tallies.",
+          "With these historic earnings, both prominent stars have successfully crossed the exclusive 3000 crore threshold globally. This achievement places them in an elite tier alongside Ranveer Singh, highlighting the immense pulling power of major cinematic spectacles in the current era."
+        ]
+      },
+      {
+        "h": "Ranbir Kapoor's Post-COVID Journey",
+        "p": [
+          "Returning to the silver screen after a break of nearly three years, Ranbir Kapoor generated tremendous box office momentum. Prior to his latest release, his total worldwide post-COVID collection stood at 1625.98 crore across various projects.",
+          "The massive addition of 1818.07 crore from Ramayana over a 23-day period propelled his cumulative gross to a striking 3444.05 crore, firmly cementing his status as a major commercial force in modern cinema."
+        ]
+      },
+      {
+        "h": "Breaking Down Ranbir Kapoor's Filmography",
+        "p": [
+          "A closer look at Ranbir's post-COVID releases reveals steady growth across diverse titles. His earlier ventures included Shamshera at 63.74 crore, Brahmastra at 430.24 crore, Tu Jhoothi Main Makkaar at 221.28 crore, and the massive hit Animal at 910.72 crore.",
+          "Before the arrival of Ramayana, Animal held the crown as his highest-earning post-COVID film. However, the new epic has completely surpassed that record, collecting almost double the worldwide haul of his previous biggest success."
+        ]
+      },
+      {
+        "h": "Yash Crosses the 3400 Crore Threshold",
+        "p": [
+          "Yash has experienced an equally remarkable trajectory during the same timeframe. Despite having a selective slate consisting of only three major releases, every single project has made a colossal impact at the box office.",
+          "Before his involvement in Ramayana, his aggregate collection rested at 1562.08 crore. The new cinematic milestone successfully lifted his overall worldwide gross to 3380.15 crore."
+        ]
+      },
+      {
+        "h": "Yash's Major Post-COVID Contributors",
+        "p": [
+          "Yash's post-COVID journey features massive blockbusters, beginning with KGF Chapter 2 at 1228.59 crore, followed by Toxic at 333.49 crore, and crowned by Ramayana at 1818.07 crore.",
+          "With these numbers, Ramayana has officially overtaken KGF Chapter 2 as the highest-grossing film in Yash's post-COVID filmography, single-handedly accounting for more than half of his total earnings in this era."
+        ]
+      },
+      {
+        "h": "Comparing the Elite Three",
+        "p": [
+          "Following these historic box office runs, Ranbir Kapoor and Yash now stand shoulder-to-shoulder with Ranveer Singh in the exclusive 3000 crore post-COVID club. Ranveer currently leads the group with a staggering total of 3802.73 crore, largely driven by the Dhurandhar franchise.",
+          "In this competitive hierarchy, Ranbir sits approximately 358.7 crore behind Ranveer, while Yash trails by roughly 422.6 crore. Meanwhile, Ranbir leads Yash by a narrow margin of about 63.9 crore."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "The global success of Ramayana has driven both Ranbir Kapoor and Yash past the 3000 crore mark in post-COVID worldwide collections. They now share this elite club alongside Ranveer Singh, whose franchise films previously set the benchmark."
+        ]
+      }
+    ],
+    "facts": [
+      "Ranbir Kapoor's post-COVID total before Ramayana was 1625.98 crore.",
+      "Ramayana added 1818.07 crore in 23 days.",
+      "Ranbir Kapoor's total post-COVID collection reached 3444.05 crore.",
+      "Shamshera collected 63.74 crore.",
+      "Brahmastra collected 430.24 crore.",
+      "Tu Jhoothi Main Makkaar collected 221.28 crore.",
+      "Animal collected 910.72 crore.",
+      "Yash's post-COVID total before Ramayana was 1562.08 crore.",
+      "Yash's total post-COVID collection reached 3380.15 crore.",
+      "KGF Chapter 2 collected 1228.59 crore.",
+      "Toxic collected 333.49 crore.",
+      "Ranveer Singh's post-COVID total is 3802.73 crore."
+    ],
+    "entities": {
+      "people": [
+        "Ranbir Kapoor",
+        "Yash",
+        "Ranveer Singh"
+      ],
+      "titles": [
+        "Ramayana",
+        "Shamshera",
+        "Brahmastra",
+        "Tu Jhoothi Main Makkaar",
+        "Animal",
+        "KGF Chapter 2",
+        "Toxic",
+        "Dhurandhar"
+      ]
+    },
+    "keywords": [
+      "Ramayana film",
+      "Ranbir Kapoor box office",
+      "Yash post covid collection",
+      "Ranveer Singh 3000 crore club"
+    ],
+    "images": [
+      {
+        "url": "https://www.koimoi.com/wp-content/new-galleries/2026/11/box-office-with-ramayana-ranbir-kapoor-yash-join-ranveer-singh-in-the-post-covid-3000-crore-club-01.jpg",
+        "caption": "Box Office Milestone: Ramayana Propels Ranbir Kapoor and Yash Into the Elite 3000 Crore Club",
+        "source": "Koimoi"
+      }
+    ],
+    "published": "Sat, 28 Nov 2026 11:46:05 +0000"
   }
 };
