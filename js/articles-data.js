@@ -268469,5 +268469,409 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Fri, 27 Nov 2026 22:50:35 +0000"
+  },
+  "46kutg": {
+    "id": "46kutg",
+    "type": "news",
+    "headline": "Hexed Faces Steep Box Office Drop Despite Strong Audience Reception",
+    "dek": "Disney's original animated feature Hexed has pulled in a two-day cumulative of roughly $12 million, drawing significant industry attention due to its massive $200 million budget.",
+    "body": [
+      {
+        "h": "Opening Numbers and Thanksgiving Dip",
+        "p": [
+          "Walt Disney Animation Studios' latest feature film, Hexed, launched in theaters with roughly $7.6 million on its Wednesday opening, which included preview screenings. Following this initial debut, the movie brought in a confirmed $4.5 million on Thanksgiving Day.",
+          "This resulted in a steep 42 percent day-over-day decline. While family animated releases often experience strong holiday matinee numbers, this sharp drop has raised eyebrows across industry tracking circles."
+        ]
+      },
+      {
+        "h": "Cumulative Earnings and Theater Count",
+        "p": [
+          "Across its first two days in release, the animated feature accumulated a total of roughly $12 million. These figures were drawn from a domestic footprint spanning 3,725 theaters.",
+          "Independent box office tracking corroborated these early returns, noting that the Thanksgiving Day collection closely hovered around the reported figures before heading into the crucial weekend stretch."
+        ]
+      },
+      {
+        "h": "The Core Challenge: A $200 Million Budget",
+        "p": [
+          "The most critical factor in the conversation surrounding the film is its reported $200 million production budget, which excludes marketing costs. This figure is remarkably high for an entirely original animated feature that lacks a pre-existing franchise or built-in audience.",
+          "Industry analysts note that original projects at this financial scale require extraordinarily massive openings to chart a viable path toward profitability, making the current box office pace a pressing concern."
+        ]
+      },
+      {
+        "h": "Projected Five-Day Holiday Stretch",
+        "p": [
+          "Trade trackers have generated early projections estimating that Hexed will close out its five-day Wednesday-through-Sunday Thanksgiving stretch around $34 million. Within that window, the traditional three-day Friday-to-Sunday portion is anticipated to land near $22.25 million.",
+          "These projections remain predictions based on the early pace rather than confirmed final results. Final weekend tallies will provide a clearer picture of how the title sustains momentum."
+        ]
+      },
+      {
+        "h": "Comparison to Established Franchise Sequels",
+        "p": [
+          "When placed alongside recent Disney holiday releases, the figures tell a different story. Previous Thanksgiving animated titles like Moana 2 and Zootopia 2 achieved much higher five-day openings, bringing in $225.1 million and $156 million respectively.",
+          "However, industry observers point out an essential distinction: both of those comparative titles benefited from established franchise status, whereas Hexed launched as a completely original story."
+        ]
+      },
+      {
+        "h": "Critical and Audience Reception",
+        "p": [
+          "On the critical and audience response front, the film has performed much better than its financial pace might suggest. Rotten Tomatoes lists Hexed with a 68 percent score from critics and an 87 percent approval rating from general audiences.",
+          "Additionally, opening-night crowds awarded the movie a strong A- CinemaScore. While positive word-of-mouth helps titles hold over time, reviewers note it cannot single-handedly offset the immense pressure of a $200 million budget."
+        ]
+      },
+      {
+        "h": "Evaluating Box Office Standing",
+        "p": [
+          "With a two-day total around $12 million against its massive production costs, some outlet trackers have labeled the early domestic stretch as a severe challenge for a project of this magnitude. Analysts emphasize that international box office results will carry immense weight in determining the film's ultimate financial standing.",
+          "Because the run has only just begun, industry trackers consider it too early to render a definitive verdict until weekend figures and global numbers are fully realized."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Walt Disney Animation Studios' original feature Hexed recorded $7.6 million on its opening Wednesday followed by $4.5 million on Thanksgiving Day, bringing its two-day cumulative total to roughly $12 million. The film faces heightened scrutiny due to its substantial $200 million production budget and a steep single-day drop, despite earning favorable audience reception and a solid A- CinemaScore."
+        ]
+      }
+    ],
+    "facts": [
+      "Hexed earned roughly $7.6 million on its Wednesday opening including previews.",
+      "The film brought in a confirmed $4.5 million on Thanksgiving Day.",
+      "The two-day cumulative total reached roughly $12 million from 3,725 theaters.",
+      "The reported production budget for Hexed is $200 million before marketing.",
+      "Trade trackers project a five-day Thanksgiving stretch of around $34 million.",
+      "Hexed holds a 68 percent critic score and an 87 percent audience score on Rotten Tomatoes, alongside an A- CinemaScore."
+    ],
+    "entities": {
+      "people": [
+        "Hailee Steinfeld",
+        "Jodie Foster",
+        "Scott Mendelson",
+        "Faiza Farheen"
+      ],
+      "titles": [
+        "Hexed",
+        "Moana 2",
+        "Zootopia 2",
+        "Focker-In-Law"
+      ]
+    },
+    "keywords": [
+      "Hexed box office",
+      "Hexed Disney budget",
+      "Hailee Steinfeld Hexed",
+      "Jodie Foster Hexed movie"
+    ],
+    "images": [
+      {
+        "url": "https://showpulp.com/wp-content/uploads/2026/11/hailee-steinfeld.jpg",
+        "caption": "Hexed Faces Steep Box Office Drop Despite Strong Audience Reception",
+        "source": "ShowPulp"
+      }
+    ],
+    "published": "Fri, 27 Nov 2026 22:33:02 +0000"
+  },
+  "1r03r6b": {
+    "id": "1r03r6b",
+    "type": "news",
+    "headline": "Kristen Bell's Resurfaced Tribute to Dax Shepard Sparks Online Debate",
+    "dek": "An old Instagram post celebrating Dax Shepard's sobriety milestone brings fresh scrutiny to family photos and parenting choices.",
+    "body": [
+      {
+        "h": "Resurfaced Tribute Generates Online Backlash",
+        "p": [
+          "An archived Instagram publication created by Kristen Bell to honor her husband Dax Shepard has sparked renewed discussions across social media platforms. Initially posted in September 2025 to commemorate Shepard reaching 21 years of sobriety, the carousel included intimate family snapshots. Netizens quickly zeroed in on specific images showing the actor interacting closely with his children, leading to divided opinions regarding familial boundaries.",
+          "While the original upload received warm responses from fans and celebrity peers, its recent circulation shifted the narrative. Critics questioned the appropriateness of the captured moments, while supporters argued that the pictures simply depicted standard family warmth and parental affection."
+        ]
+      },
+      {
+        "h": "Details of the Instagram Post",
+        "p": [
+          "The photo collection featured several candid moments from the family's daily life, including a picture of Bell and Shepard sharing a kiss outdoors. Other frames displayed Shepard hugging and kissing their daughters, Lincoln and Delta, while Bell smiled nearby. Accompanied by a message celebrating recovery, Bell expressed gratitude for her husband's journey.",
+          "Shepard responded playfully to the emotional dedication at the time. However, the modern resurgence of the gallery shifted focus directly onto the images showing the actor kissing his daughters on the lips, prompting varied criticisms from online observers."
+        ]
+      },
+      {
+        "h": "Divided Reactions From Social Media Users",
+        "p": [
+          "Social media users expressed contrasting viewpoints regarding the physical affection displayed in the photographs. Detractors argued that mouth kisses between parents and older children cross appropriate boundaries, with some leaving harsh remarks about the family's dynamics. Commenters debated whether the visual depiction was unsettling or entirely normal.",
+          "Conversely, defenders of the couple strongly pushed back against the criticism. Supporters asserted that critics were unnecessarily sexualizing innocent displays of love between a father and his children, emphasizing that the pictures showed a pampered kid experiencing a loving household."
+        ]
+      },
+      {
+        "h": "Context Surrounding Shepard's Recovery Journey",
+        "p": [
+          "The initial tribute carried profound meaning given Shepard's publicly documented struggles with addiction. In September 2020, the actor revealed on his podcast, Armchair Expert, that he had relapsed after 16 years of sobriety following motorcycle injuries and prescription pain medication usage. He admitted to hiding his struggles out of fear before seeking help.",
+          "Bell later praised her husband on television for his honesty and transparency regarding the setback. The couple implemented new measures to support his ongoing recovery, and Shepard openly discusses his attendance at Alcoholics Anonymous meetings with his daughters to maintain complete honesty within the household."
+        ]
+      },
+      {
+        "h": "Additional Controversies and Parenting Discussions",
+        "p": [
+          "The scrutiny over the family photos arrived alongside other recent debates surrounding Bell and Shepard's parenting approach. Earlier in 2026, Shepard faced public pushback after sharing a conversation on his podcast where he offered to pay for his younger daughter Delta to freeze her eggs when she turns eighteen, a suggestion that divided listeners.",
+          "Additionally, Shepard recently addressed accusations claiming he is controlling or abusive toward Bell. Calling the allegations deeply insulting, he defended both himself and his wife, stating that the claims were completely detached from their actual home life and damaging to his mental health."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "An archived Instagram tribute by Kristen Bell celebrating Dax Shepard's sobriety milestone has resurfaced and drawn widespread criticism over intimate family photos. While critics questioned the boundaries of physical affection shown in the pictures, supporters defended the post as normal parental love. The renewed backlash compounds recent public debates surrounding the couple's parenting choices and marriage."
+        ]
+      }
+    ],
+    "facts": [
+      "Kristen Bell shared the tribute post in September 2025.",
+      "The post celebrated Dax Shepard's 21 years of sobriety.",
+      "The couple's daughters are named Lincoln and Delta.",
+      "Shepard revealed a relapse after 16 years of sobriety in September 2020 on his podcast Armchair Expert.",
+      "Shepard discussed offering to pay to freeze his younger daughter Delta's eggs when she turns 18."
+    ],
+    "entities": {
+      "people": [
+        "Kristen Bell",
+        "Dax Shepard",
+        "Lincoln",
+        "Delta",
+        "Monica Padman",
+        "Ellen DeGeneres",
+        "Dinara Luz"
+      ],
+      "titles": [
+        "Armchair Expert"
+      ]
+    },
+    "keywords": [
+      "Kristen Bell Dax Shepard sobriety tribute",
+      "Dax Shepard family photos controversy",
+      "Kristen Bell Instagram post daughters",
+      "Armchair Expert podcast controversy"
+    ],
+    "images": [
+      {
+        "url": "https://static.boredpanda.com/blog/wp-content/uploads/2026/11/fb_image_6b09f08121b81.png",
+        "caption": "Kristen Bell's Resurfaced Tribute to Dax Shepard Sparks Online Debate",
+        "source": "Bored Panda"
+      }
+    ],
+    "published": "Fri, 27 Nov 2026 21:54:06 +0000"
+  },
+  "111f0ua": {
+    "id": "111f0ua",
+    "type": "news",
+    "headline": "Denis Villeneuve Opens Up About Dune: Part Three and Avengers: Doomsday Box Office Clash",
+    "dek": "Filmmaker Denis Villeneuve shares his thoughts on the upcoming cinematic face-off between Dune: Part Three and Marvel's Avengers: Doomsday, humorously dubbing the simultaneous release as a battle against a cinematic mammoth.",
+    "body": [
+      {
+        "h": "The Unexpected Showdown",
+        "p": [
+          "Director Denis Villeneuve has spoken candidly regarding the high-profile box office competition awaiting his upcoming science-fiction feature, Dune: Part Three. Both his film and Marvel's heavily anticipated Avengers: Doomsday are slated to open in theaters on December 18.",
+          "This shared release schedule has quickly captured the attention of moviegoers and industry analysts alike. Fans have already given the major release date a memorable moniker, calling it Dunesday in a nod to the historic Barbenheimer phenomenon of 2023."
+        ]
+      },
+      {
+        "h": "Overcoming Past Industry Hurdles",
+        "p": [
+          "Reflecting on the turbulent rollout of the previous installments, Villeneuve recalled the unique obstacles his franchise faced from the very beginning. The first Dune movie arrived in cinemas right at the tail end of the pandemic, forcing it to carve out success under extremely difficult and unpredictable conditions.",
+          "The challenges continued with the sequel, which originally targeted a fall rollout before being pushed to the end of winter due to overlapping Hollywood strikes. Despite managing to overcome those considerable hurdles, the filmmaker admitted he had hoped for a much smoother path for the third and final chapter."
+        ]
+      },
+      {
+        "h": "Hopes for a Normal Launch Dashed",
+        "p": [
+          "Entering the production cycle for the trilogy's conclusion, Villeneuve initially felt optimistic about experiencing a standard theatrical rollout. With no global health crisis or industry-wide work stoppages in sight, the circumstances finally seemed aligned for a routine promotional schedule.",
+          "However, those expectations shifted dramatically when Disney scheduled its flagship superhero property for the exact same weekend. Acknowledging the immense commercial scale of the competitor, the director acknowledged the sheer magnitude of the opposing studio's franchise."
+        ]
+      },
+      {
+        "h": "Deep Disappointment and Acceptance",
+        "p": [
+          "The filmmaker confessed that he felt genuinely disheartened when the opposing studio shifted its blockbuster onto his chosen release date. Because his own project had already locked in its theatrical calendar and IMAX commitments long in advance, altering the schedule was simply not an option.",
+          "Left with no room to maneuver, he chose to accept the situation while keeping his faith focused firmly on the cinematic arts. Rather than viewing the competition with bitterness, he adopted a philosophical perspective on the unavoidable calendar overlap."
+        ]
+      },
+      {
+        "h": "David Versus Goliath at the Box Office",
+        "p": [
+          "Using colorful imagery to describe the two competing titles, Villeneuve contrasted the massive scale of the superhero juggernaut with his own more focused production. He noted that while his space epic might not match the colossal footprint of the Avengers, it remains a nimble and powerful contender.",
+          "He playfully referred to his creation as a sleek animal packed with creative firepower, expressing genuine optimism that it would successfully hold its ground. Despite the towering presence of the rival film, he maintained that he was not entering the weekend with any direct competitive rivalry in mind."
+        ]
+      },
+      {
+        "h": "Narrative Scope of Dune: Part Three",
+        "p": [
+          "The upcoming narrative adapts Frank Herbert's Dune Messiah, taking place nearly two decades after Paul Atreides assumes absolute control over the Imperium. This substantial time jump allows the story to explore a significantly evolved political and personal landscape for the central characters.",
+          "Zendaya reprises her role as Chani, whose bond with Paul has grown severely strained. The promotional trailer highlights her deep feelings of betrayal regarding his ascension to absolute power, placing their fractured dynamic at the core of the upcoming plot."
+        ]
+      },
+      {
+        "h": "Returning Cast and Creative Team",
+        "p": [
+          "A host of familiar faces are slated to return alongside several notable newcomers for the concluding chapter. Jason Momoa comes back as Duncan Idaho, hinting at the introduction of the cloned Ghola known as Hayt, while Robert Pattinson joins the ensemble as the shape-shifting character Scytale.",
+          "The broader cast features Florence Pugh, Rebecca Ferguson, Javier Bardem, and Anya Taylor-Joy as Alia Atreides. Behind the camera, Denis Villeneuve returns to direct and co-write the script with Brian K. Vaughan, joined once again by Academy Award-winning composer Hans Zimmer."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Filmmaker Denis Villeneuve expressed his disappointment regarding the simultaneous December 18 release date shared by Dune: Part Three and Avengers: Doomsday. Despite acknowledging the enormous scale of the Marvel franchise, the director remains proud of his film's creative merits and hopes for a strong box office performance."
+        ]
+      }
+    ],
+    "facts": [
+      "Dune: Part Three and Avengers: Doomsday are both set to release on December 18.",
+      "Denis Villeneuve directed and co-wrote the screenplay for Dune: Part Three with Brian K. Vaughan.",
+      "Zendaya reprises her role as Chani in the film.",
+      "Jason Momoa returns as Duncan Idaho.",
+      "Robert Pattinson joins the cast as Scytale.",
+      "Hans Zimmer returns to score the concluding chapter."
+    ],
+    "entities": {
+      "people": [
+        "Denis Villeneuve",
+        "Frank Herbert",
+        "Zendaya",
+        "Paul Atreides",
+        "Jason Momoa",
+        "Duncan Idaho",
+        "Hayt",
+        "Robert Pattinson",
+        "Scytale",
+        "Florence Pugh",
+        "Princess Irulan",
+        "Rebecca Ferguson",
+        "Anya Taylor-Joy",
+        "Alia Atreides",
+        "Javier Bardem",
+        "Brian K. Vaughan",
+        "Hans Zimmer",
+        "Christopher Nolan",
+        "Greta Gerwig"
+      ],
+      "titles": [
+        "Dune: Part Three",
+        "Avengers: Doomsday",
+        "Dune",
+        "Oppenheimer",
+        "Barbie",
+        "Dune Messiah",
+        "Dune: Part Two"
+      ]
+    },
+    "keywords": [
+      "Denis Villeneuve Dune Part Three",
+      "Avengers Doomsday box office clash",
+      "Dune Part Three release date",
+      "Denis Villeneuve Dunesday"
+    ],
+    "images": [
+      {
+        "url": "https://static.toiimg.com/thumb/msid-136233253,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "caption": "Denis Villeneuve Opens Up About Dune: Part Three and Avengers: Doomsday Box Office Clash",
+        "source": "Times of India — Entertainment"
+      }
+    ],
+    "published": "2026-11-28T03:09:09+05:30"
+  },
+  "ri6msp": {
+    "id": "ri6msp",
+    "type": "news",
+    "headline": "Sunrise on the Reaping Dominates Box Office With Record Openings",
+    "dek": "The sixth chapter of the dystopian franchise secures historic Monday and Tuesday earnings as it crosses the quarter-billion milestone globally.",
+    "body": [
+      {
+        "h": "A Strong Theatrical Debut",
+        "p": [
+          "The theatrical landscape of late 2026 continues to experience heavy activity as major studio releases draw massive audiences. Amid discussions of upcoming tentpole releases and blockbusters, a fresh cinematic arrival is actively carving out its own place in modern distribution history.",
+          "The Hunger Games: Sunrise on the Reaping has officially entered the box office conversation with unprecedented strength. Despite having spent only a handful of days in commercial release, the latest franchise entry has established a commanding presence across global cinema chains."
+        ]
+      },
+      {
+        "h": "Plot and Franchise Context",
+        "p": [
+          "Serving as the sixth installment within the overarching cinematic universe, this narrative takes viewers back several decades prior to earlier adventures. The story centers heavily on the character of Haymitch Abernathy, depicting his harrowing experiences within the milestone Fiftieth Games.",
+          "This pivotal timeline unfolds twenty-four years before familiar figures like Katniss Everdeen first volunteered to participate in the brutal annual events, offering long-time followers fresh context regarding the origins of the oppressive regime."
+        ]
+      },
+      {
+        "h": "Star-Studded Cast and Crew",
+        "p": [
+          "A sprawling ensemble of acclaimed performers anchors the production, bringing depth and pedigree to the dystopian setting. Joseph Zada steps into the central role of young Haymitch Abernathy, taking over the mantle previously inhabited by Woody Harrelson in earlier films.",
+          "The supporting roster features prominent names including Elle Fanning, Mckenna Grace, Jesse Plemons, Ralph Fiennes, Glenn Close, Whitney Peak, and Kieran Culkin. Behind the camera, franchise veteran Francis Lawrence returns to direct the ambitious project."
+        ]
+      },
+      {
+        "h": "Record-Breaking Daily Collections",
+        "p": [
+          "The feature wasted no time in shattering domestic benchmarks during its opening week in theaters. Impressive ticket sales propelled the picture to secure an all-time domestic Monday record of $12.88 million.",
+          "Momentum accelerated further on the following day, with the movie pulling in an extraordinary $15.98 million. These figures not only established new milestones for the dystopian film series as a whole but also set unprecedented highs for distributor Lionsgate."
+        ]
+      },
+      {
+        "h": "Global Milestones Reached",
+        "p": [
+          "The exceptional mid-week performance provided a vital financial catalyst for the wider international run. Buoyed by the historic Tuesday numbers, total worldwide ticket sales officially surged past the $250 million threshold.",
+          "This rapid accumulation of revenue has successfully secured the title a spot among the twenty highest-grossing films of 2026 thus far. Industry analysts suggest that while reaching the billion-dollar milestone might remain challenging, the release is well-positioned for strong long-term legs."
+        ]
+      },
+      {
+        "h": "Broader 2026 Cinema Landscape",
+        "p": [
+          "The theatrical market of 2026 has already proven exceptionally lucrative, yielding massive commercial hits such as The Odyssey and Spider-Man: Brand New Day. Studios continue to eye upcoming spectacles, including Marvel's highly anticipated Avengers: Doomsday.",
+          "Despite stiff competition from other multi-million dollar giants and impending juggernauts, the latest prequel has carved out a distinct legacy. Its early box office dominance guarantees it a prominent chapter in the history of the long-running cinematic series."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "The Hunger Games: Sunrise on the Reaping has achieved record-breaking domestic Monday and Tuesday collections, pushing its global earnings past $250 million within its first five days. Directed by Francis Lawrence and starring Joseph Zada alongside a major ensemble cast, the film has cemented itself as a top earner of 2026 for Lionsgate."
+        ]
+      }
+    ],
+    "facts": [
+      "The Hunger Games: Sunrise on the Reaping is the sixth installment in the Hunger Games franchise.",
+      "The film follows Haymitch Abernathy competing in the 50th Games 24 years before Katniss Everdeen.",
+      "Joseph Zada plays Haymitch Abernathy, previously played by Woody Harrelson.",
+      "Francis Lawrence directs the film.",
+      "The film achieved a domestic Monday record of $12.88 million.",
+      "The film achieved a domestic Tuesday record of $15.98 million.",
+      "Worldwide box office surpassed the $250 million mark.",
+      "The film has been in theaters for five days."
+    ],
+    "entities": {
+      "people": [
+        "Jake Hodges",
+        "Haymitch Abernathy",
+        "Joseph Zada",
+        "Woody Harrelson",
+        "Jennifer Lawrence",
+        "Katniss Everdeen",
+        "Elle Fanning",
+        "Mckenna Grace",
+        "Jesse Plemons",
+        "Ralph Fiennes",
+        "Glenn Close",
+        "Whitney Peak",
+        "Kieran Culkin",
+        "Francis Lawrence"
+      ],
+      "titles": [
+        "The Hunger Games: Sunrise on the Reaping",
+        "Avengers: Doomsday",
+        "The Odyssey",
+        "Spider-Man: Brand New Day"
+      ]
+    },
+    "keywords": [
+      "The Hunger Games Sunrise on the Reaping",
+      "Joseph Zada Haymitch Abernathy",
+      "Sunrise on the Reaping box office",
+      "Francis Lawrence Hunger Games"
+    ],
+    "images": [
+      {
+        "url": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/11/maysilee.jpg?w=1200&amp;h=675&amp;fit=crop",
+        "caption": "Sunrise on the Reaping Dominates Box Office With Record Openings",
+        "source": "Collider"
+      }
+    ],
+    "published": "Fri, 27 Nov 2026 22:30:17 GMT"
   }
 };

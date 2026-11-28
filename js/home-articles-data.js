@@ -66,6 +66,40 @@ window.FA_HOME_ARTICLES = {
     ],
     "published": "2026-11-28T04:05:19+05:30"
   },
+  "46kutg": {
+    "id": "46kutg",
+    "type": "news",
+    "headline": "Hexed Faces Steep Box Office Drop Despite Strong Audience Reception",
+    "dek": "Disney's original animated feature Hexed has pulled in a two-day cumulative of roughly $12 million, drawing significant industry attention due to its massive $200 million budget.",
+    "entities": {
+      "people": [
+        "Hailee Steinfeld",
+        "Jodie Foster",
+        "Scott Mendelson",
+        "Faiza Farheen"
+      ],
+      "titles": [
+        "Hexed",
+        "Moana 2",
+        "Zootopia 2",
+        "Focker-In-Law"
+      ]
+    },
+    "keywords": [
+      "Hexed box office",
+      "Hexed Disney budget",
+      "Hailee Steinfeld Hexed",
+      "Jodie Foster Hexed movie"
+    ],
+    "images": [
+      {
+        "url": "https://showpulp.com/wp-content/uploads/2026/11/hailee-steinfeld.jpg",
+        "caption": "Hexed Faces Steep Box Office Drop Despite Strong Audience Reception",
+        "source": "ShowPulp"
+      }
+    ],
+    "published": "Fri, 27 Nov 2026 22:33:02 +0000"
+  },
   "94477r": {
     "id": "94477r",
     "type": "news",
@@ -102,6 +136,84 @@ window.FA_HOME_ARTICLES = {
       }
     ],
     "published": "Fri, 27 Nov 2026 22:33:00 +0000"
+  },
+  "ri6msp": {
+    "id": "ri6msp",
+    "type": "news",
+    "headline": "Sunrise on the Reaping Dominates Box Office With Record Openings",
+    "dek": "The sixth chapter of the dystopian franchise secures historic Monday and Tuesday earnings as it crosses the quarter-billion milestone globally.",
+    "entities": {
+      "people": [
+        "Jake Hodges",
+        "Haymitch Abernathy",
+        "Joseph Zada",
+        "Woody Harrelson",
+        "Jennifer Lawrence",
+        "Katniss Everdeen",
+        "Elle Fanning",
+        "Mckenna Grace",
+        "Jesse Plemons",
+        "Ralph Fiennes",
+        "Glenn Close",
+        "Whitney Peak",
+        "Kieran Culkin",
+        "Francis Lawrence"
+      ],
+      "titles": [
+        "The Hunger Games: Sunrise on the Reaping",
+        "Avengers: Doomsday",
+        "The Odyssey",
+        "Spider-Man: Brand New Day"
+      ]
+    },
+    "keywords": [
+      "The Hunger Games Sunrise on the Reaping",
+      "Joseph Zada Haymitch Abernathy",
+      "Sunrise on the Reaping box office",
+      "Francis Lawrence Hunger Games"
+    ],
+    "images": [
+      {
+        "url": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/11/maysilee.jpg?w=1200&amp;h=675&amp;fit=crop",
+        "caption": "Sunrise on the Reaping Dominates Box Office With Record Openings",
+        "source": "Collider"
+      }
+    ],
+    "published": "Fri, 27 Nov 2026 22:30:17 GMT"
+  },
+  "1r03r6b": {
+    "id": "1r03r6b",
+    "type": "news",
+    "headline": "Kristen Bell's Resurfaced Tribute to Dax Shepard Sparks Online Debate",
+    "dek": "An old Instagram post celebrating Dax Shepard's sobriety milestone brings fresh scrutiny to family photos and parenting choices.",
+    "entities": {
+      "people": [
+        "Kristen Bell",
+        "Dax Shepard",
+        "Lincoln",
+        "Delta",
+        "Monica Padman",
+        "Ellen DeGeneres",
+        "Dinara Luz"
+      ],
+      "titles": [
+        "Armchair Expert"
+      ]
+    },
+    "keywords": [
+      "Kristen Bell Dax Shepard sobriety tribute",
+      "Dax Shepard family photos controversy",
+      "Kristen Bell Instagram post daughters",
+      "Armchair Expert podcast controversy"
+    ],
+    "images": [
+      {
+        "url": "https://static.boredpanda.com/blog/wp-content/uploads/2026/11/fb_image_6b09f08121b81.png",
+        "caption": "Kristen Bell's Resurfaced Tribute to Dax Shepard Sparks Online Debate",
+        "source": "Bored Panda"
+      }
+    ],
+    "published": "Fri, 27 Nov 2026 21:54:06 +0000"
   },
   "1djcvf5": {
     "id": "1djcvf5",
@@ -141,6 +253,58 @@ window.FA_HOME_ARTICLES = {
       }
     ],
     "published": "Fri, 27 Nov 2026 21:50:00 +0000"
+  },
+  "111f0ua": {
+    "id": "111f0ua",
+    "type": "news",
+    "headline": "Denis Villeneuve Opens Up About Dune: Part Three and Avengers: Doomsday Box Office Clash",
+    "dek": "Filmmaker Denis Villeneuve shares his thoughts on the upcoming cinematic face-off between Dune: Part Three and Marvel's Avengers: Doomsday, humorously dubbing the simultaneous release as a battle against a cinematic mammoth.",
+    "entities": {
+      "people": [
+        "Denis Villeneuve",
+        "Frank Herbert",
+        "Zendaya",
+        "Paul Atreides",
+        "Jason Momoa",
+        "Duncan Idaho",
+        "Hayt",
+        "Robert Pattinson",
+        "Scytale",
+        "Florence Pugh",
+        "Princess Irulan",
+        "Rebecca Ferguson",
+        "Anya Taylor-Joy",
+        "Alia Atreides",
+        "Javier Bardem",
+        "Brian K. Vaughan",
+        "Hans Zimmer",
+        "Christopher Nolan",
+        "Greta Gerwig"
+      ],
+      "titles": [
+        "Dune: Part Three",
+        "Avengers: Doomsday",
+        "Dune",
+        "Oppenheimer",
+        "Barbie",
+        "Dune Messiah",
+        "Dune: Part Two"
+      ]
+    },
+    "keywords": [
+      "Denis Villeneuve Dune Part Three",
+      "Avengers Doomsday box office clash",
+      "Dune Part Three release date",
+      "Denis Villeneuve Dunesday"
+    ],
+    "images": [
+      {
+        "url": "https://static.toiimg.com/thumb/msid-136233253,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "caption": "Denis Villeneuve Opens Up About Dune: Part Three and Avengers: Doomsday Box Office Clash",
+        "source": "Times of India — Entertainment"
+      }
+    ],
+    "published": "2026-11-28T03:09:09+05:30"
   },
   "1v4gpnd": {
     "id": "1v4gpnd",
@@ -4534,50 +4698,6 @@ window.FA_HOME_ARTICLES = {
     ],
     "published": "2026-11-26T17:00:05Z"
   },
-  "13ymhgv": {
-    "id": "13ymhgv",
-    "type": "news",
-    "headline": "Yeh Prem Mol Liya Secures Strong Advance Booking Ahead of Release",
-    "dek": "Ayushmann Khurrana and Sharvari star in Sooraj Barjatya's romantic family drama, which has collected Rs 2.62 crore in advance ticket sales ahead of its theatrical debut.",
-    "entities": {
-      "people": [
-        "Ayushmann Khurrana",
-        "Sharvari",
-        "Sooraj Barjatya",
-        "Salman Khan",
-        "Hrithik Roshan",
-        "Abhishek Bachchan",
-        "Shahid Kapoor",
-        "Sonu Sood",
-        "Anupam Kher",
-        "Supriya Pathak",
-        "Seema Pahwa",
-        "Saumya Tandon",
-        "Shaad Randhawa",
-        "Swanand Kirkire",
-        "Emraan Hashmi"
-      ],
-      "titles": [
-        "Yeh Prem Mol Liya",
-        "Gunmaaster G9",
-        "Udta Teer"
-      ]
-    },
-    "keywords": [
-      "Yeh Prem Mol Liya",
-      "Ayushmann Khurrana Yeh Prem Mol Liya",
-      "Yeh Prem Mol Liya advance booking",
-      "Sooraj Barjatya film"
-    ],
-    "images": [
-      {
-        "url": "https://images.filmibeat.com/img/2026/11/ypmlvsg9feature-72941795710666.jpg",
-        "caption": "Yeh Prem Mol Liya Secures Strong Advance Booking Ahead of Release",
-        "source": "FilmiBeat"
-      }
-    ],
-    "published": "Thu, 26 Nov 2026 22:04:22 +0530"
-  },
   "hujbo6": {
     "id": "hujbo6",
     "type": "news",
@@ -4601,37 +4721,6 @@ window.FA_HOME_ARTICLES = {
       }
     ],
     "published": "2026-11-26T08:21:45-08:00"
-  },
-  "1nuxvrc": {
-    "id": "1nuxvrc",
-    "type": "news",
-    "headline": "Angelina Jolie and Brad Pitt Reach Settlement in Four-Year Legal Dispute Over French Winery",
-    "dek": "Former Hollywood couple Angelina Jolie and Brad Pitt have officially resolved their lengthy court battle concerning the Château Miraval winery through an out-of-court agreement.",
-    "entities": {
-      "people": [
-        "Angelina Jolie",
-        "Brad Pitt",
-        "Yuri Shefler"
-      ],
-      "titles": [
-        "Maria",
-        "Legends"
-      ]
-    },
-    "keywords": [
-      "Angelina Jolie Brad Pitt winery",
-      "Château Miraval legal battle",
-      "Angelina Jolie Brad Pitt settlement",
-      "Angelina Jolie Stoli Group sale"
-    ],
-    "images": [
-      {
-        "url": "https://hips.hearstapps.com/hmg-prod/images/b5563d79-efd6-4c92-9591-2495722ad5e6.jpg?crop=1.00xw:0.356xh;0,0.0262xh&amp;resize=1200:*",
-        "caption": "Angelina Jolie and Brad Pitt Reach Settlement in Four-Year Legal Dispute Over French Winery",
-        "source": "Digital Spy"
-      }
-    ],
-    "published": "Thu, 26 Nov 2026 16:19:00 +0000"
   },
   "1ltcmfz": {
     "id": "1ltcmfz",
@@ -5139,6 +5228,50 @@ window.FA_HOME_ARTICLES = {
       }
     ],
     "published": "2026-11-22T15:00:16Z"
+  },
+  "bdw24p": {
+    "id": "bdw24p",
+    "type": "news",
+    "headline": "Jumanji: Open World Worldwide Box Office Journey: What It Needs To Top Dwayne Johnson's All-Time Best",
+    "dek": "As Jumanji: Open World gears up for release, the film faces a monumental global target to surpass Dwayne Johnson's highest-grossing career milestone.",
+    "entities": {
+      "people": [
+        "Dwayne Johnson",
+        "Jack Black",
+        "James Wan",
+        "Paul Walker",
+        "Vin Diesel",
+        "Michelle Rodriguez",
+        "Tyrese Gibson",
+        "Ludacris",
+        "Jordana Brewster",
+        "Djimon Hounsou",
+        "Kurt Russell",
+        "Jason Statham"
+      ],
+      "titles": [
+        "Jumanji: Open World",
+        "Furious 7",
+        "Fast Furious 6",
+        "Jumanji: Welcome to the Jungle",
+        "Avengers: Doomsday",
+        "Dune 3"
+      ]
+    },
+    "keywords": [
+      "Jumanji Open World",
+      "Dwayne Johnson highest grossing film",
+      "Furious 7 box office",
+      "Jumanji Open World release date"
+    ],
+    "images": [
+      {
+        "url": "https://www.koimoi.com/wp-content/new-galleries/2026/11/jumanji-open-world-box-office-can-dwayne-johnsons-upcoming-film-beat-his-biggest-global-hit-0001.jpg",
+        "caption": "Jumanji: Open World Worldwide Box Office Journey: What It Needs To Top Dwayne Johnson's All-Time Best",
+        "source": "Koimoi"
+      }
+    ],
+    "published": "Sat, 21 Nov 2026 17:50:15 +0000"
   },
   "1pqbmve": {
     "id": "1pqbmve",
