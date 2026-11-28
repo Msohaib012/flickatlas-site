@@ -272585,5 +272585,379 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Sat, 28 Nov 2026 07:15:19 GMT"
+  },
+  "6jcs0": {
+    "id": "6jcs0",
+    "type": "news",
+    "headline": "BTS V Fanbase Transforms Bangkok Expressway Into Massive Welcome Billboard Ahead Of Concert",
+    "dek": "Thai fans of BTS member V, also known as Kim Taehyung, have orchestrated a grand welcome project featuring an extensive LED display along the Chalerm Mahanakorn Expressway.",
+    "body": [
+      {
+        "h": "The Grand Arrival In Bangkok",
+        "p": [
+          "BTS member V, widely known as Kim Taehyung, is receiving an extraordinary welcome in Bangkok as anticipation builds for his much-awaited return to the country. Supporters are ensuring that their immense affection for the K-pop star is on full display across the city.",
+          "Images and videos of an illuminated installation have quickly circulated on social media platforms, capturing widespread attention and highlighting the profound excitement surrounding the singer's arrival."
+        ]
+      },
+      {
+        "h": "The V: Welcome To Thailand Project",
+        "p": [
+          "The elaborate tribute has been organized by the dedicated fanbase group known as BTS V Thailand. Titled 'THE V: WELCOME TO THAILAND', the initiative aims to make the singer's upcoming visit an unforgettable experience for both the artist and his followers.",
+          "The project features an extensive LED installation stretching across a busy section of Bangkok's Chalerm Mahanakorn Expressway, effectively converting the highway into a glowing corridor of greetings."
+        ]
+      },
+      {
+        "h": "Scale And Specifications Of The Expressway Display",
+        "p": [
+          "Spanning over 2.5 kilometres, the visual tribute incorporates multiple screens showcasing eye-catching imagery of V. The installation is strategically positioned around the Rama 4 entrance and exit ramps to welcome the singer as he navigates the city.",
+          "The special display is scheduled to remain active from December 2 to 6, 2026. Operating for 18 hours each day between 6 am and midnight, the project features 30-second spots running 108 times daily with the backing of main project sponsors."
+        ]
+      },
+      {
+        "h": "A Historic Return For Thai ARMY",
+        "p": [
+          "This upcoming visit holds immense significance for Thai ARMY, marking the singer's return to the country after nearly eight years away. The long hiatus has heightened the eagerness among local fans to celebrate his presence.",
+          "The group is set to perform at Rajamangala National Stadium in Bangkok on December 3, 5, and 6 as part of their major ARIRANG tour concert schedule."
+        ]
+      },
+      {
+        "h": "Social Media Reactions And Fan Admiration",
+        "p": [
+          "The massive scale of the expressway project has left followers worldwide in awe, with many turning to online platforms to praise the Thai fanbase's creativity and dedication. Supporters have noted that the initiative matches or even surpasses campaigns typically run by major commercial brands.",
+          "Comments online reflect a deep sense of admiration, with fans emphasizing that the grandeur of the welcome is entirely fitting for the affection directed toward the beloved K-pop performer."
+        ]
+      },
+      {
+        "h": "Wider Context Of BTS Group Activities",
+        "p": [
+          "The expressway tribute stands as yet another testament to the unwavering devotion surrounding the members of BTS. As the group prepares for their upcoming tour stops, fanbases continue to innovate with creative projects to display their support.",
+          "Initiatives of this magnitude demonstrate the powerful global community built around the music group, setting new benchmarks for fan-driven tributes during major international appearances."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Thai fans of BTS member V have organized a massive expressway welcome display in Bangkok ahead of the group's upcoming ARIRANG tour concerts. The 2.5-kilometre LED installation along the Chalerm Mahanakorn Expressway will run from December 2 to 6, 2026, marking the singer's return to the country after nearly eight years."
+        ]
+      }
+    ],
+    "facts": [
+      "BTS V's return to Thailand is his first in nearly eight years.",
+      "The fanbase project is titled 'THE V: WELCOME TO THAILAND'.",
+      "The LED installation stretches over 2.5 kilometres along the Chalerm Mahanakorn Expressway.",
+      "The display will be active from December 2 to 6, 2026.",
+      "The screens will illuminate for 18 hours each day between 6 am and midnight.",
+      "The installation is located around the Rama 4 entrance and exit ramps.",
+      "Each spot lasts 30 seconds, with 108 spots scheduled daily.",
+      "BTS will perform at Rajamangala National Stadium in Bangkok on December 3, 5, and 6 as part of the ARIRANG tour."
+    ],
+    "entities": {
+      "people": [
+        "Kim Taehyung",
+        "V"
+      ],
+      "titles": [
+        "ARIRANG"
+      ]
+    },
+    "keywords": [
+      "BTS V Thailand",
+      "Kim Taehyung expressway display",
+      "ARIRANG tour Bangkok",
+      "BTS V welcome project"
+    ],
+    "images": [
+      {
+        "url": "https://images.timesnownews.com/thumb/msid-156576811,thumbsize-385559,width-1280,height-720,resizemode-75/156576811.jpg",
+        "caption": "BTS V Fanbase Transforms Bangkok Expressway Into Massive Welcome Billboard Ahead Of Concert",
+        "source": "Times Now — Entertainment"
+      }
+    ],
+    "published": "2026-11-28T09:52:48Z"
+  },
+  "18rw7nm": {
+    "id": "18rw7nm",
+    "type": "news",
+    "headline": "Actress Pooja Batra Mourns Loss of Her Father, Shares Emotional Instagram Tribute",
+    "dek": "Virasat actress Pooja Batra is going through the darkest phase of her life after the passing of her father, an Army veteran and military officer who fought in two wars.",
+    "body": [
+      {
+        "h": "Passing of a Military Veteran",
+        "p": [
+          "Bollywood actress and producer Pooja Batra is currently experiencing a profound personal tragedy following the death of her father. The veteran passed away on November 20 while receiving treatment in a hospital.",
+          "Due to the sudden nature of the event and logistical challenges, the actress was unable to arrive at the hospital before he breathed his last, adding a layer of grief to the unfortunate timing."
+        ]
+      },
+      {
+        "h": "Heartfelt Social Media Tribute",
+        "p": [
+          "Taking to Instagram, the 49-year-old performer penned an emotional note to honor her late father, describing him as the central anchor of her universe. She noted that she never anticipated a reality without his presence.",
+          "In her message, she highlighted his joyful personality, noting his contagious laughter, delightful sense of humour, musical inclination, and the deep affection and admiration he consistently showed toward her mother."
+        ]
+      },
+      {
+        "h": "Honoring a Distinguished Service Record",
+        "p": [
+          "Beyond his role as a family pillar, Pooja's father had a remarkable career as a supreme military officer. He dedicatedly served the nation and actively fought in two separate wars.",
+          "The family's military ties extend further, as the actress is related to Second Lieutenant Arun Khetarpal, a revered martyr who received India's highest wartime gallantry decoration, the Param Vir Chakra."
+        ]
+      },
+      {
+        "h": "Navigating the Darkest Phase",
+        "p": [
+          "Expressing the depth of her sorrow, the celebrity characterized this moment as the absolute darkest phase of her existence. She remarked on the monumental void his absence leaves for her, her relatives, and all acquaintances.",
+          "Despite the heartbreaking separation, she shared her comfort in believing that he has safely transitioned into the highest of heavens."
+        ]
+      },
+      {
+        "h": "From Miss India to Bollywood Stardom",
+        "p": [
+          "Pooja Batra first stepped into the national spotlight back in 1993 when she earned the prestigious title of Miss India International. This victory paved the way for her entry into the Hindi film industry.",
+          "She officially debuted on the silver screen in 1997 with the film 'Virasat', sharing the screen with Anil Kapoor, followed quickly by an appearance in 'Bhai' alongside Suniel Shetty."
+        ]
+      },
+      {
+        "h": "A Diverse Cinematic Journey",
+        "p": [
+          "Over the years, the actress built a diverse filmography with memorable roles in mainstream projects like 'Haseena Maan Jayegi', 'Dil Ne Phir Yaad Kiya', 'Kahin Pyaar Na Ho Jaaye', and 'Nayak: The Real Hero'.",
+          "Her historical drama project 'Taj Mahal: An Eternal Love Story' even achieved international recognition by being showcased at the Cannes Film Festival in 2004."
+        ]
+      },
+      {
+        "h": "Recent Career Milestones",
+        "p": [
+          "Throughout her career, she has balanced commercial cinema with various production endeavors. Her most recent feature appearance occurred in 2021 within the action thriller movie 'Squad', directed by filmmaker Nilesh Sahay."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Actress Pooja Batra is mourning the demise of her father, an Army veteran who passed away on November 20 before she could reach the hospital. She shared a heartfelt Instagram tribute remembering his military service, calling this the darkest phase of her life."
+        ]
+      }
+    ],
+    "facts": [
+      "Pooja Batra's father passed away on November 20 in the hospital.",
+      "Pooja Batra is 49 years old.",
+      "Pooja Batra was crowned Miss India International in 1993.",
+      "She made her Bollywood debut in the 1997 film Virasat.",
+      "Taj Mahal: An Eternal Love Story was showcased at the Cannes Film Festival in 2004.",
+      "She was last seen on screen in the 2021 action thriller film Squad."
+    ],
+    "entities": {
+      "people": [
+        "Pooja Batra",
+        "Anil Kapoor",
+        "Suniel Shetty",
+        "Arun Khetarpal",
+        "Nilesh Sahay"
+      ],
+      "titles": [
+        "Virasat",
+        "Bhai",
+        "Haseena Maan Jayegi",
+        "Dil Ne Phir Yaad Kiya",
+        "Kahin Pyaar Na Ho Jaaye",
+        "Nayak: The Real Hero",
+        "Taj Mahal: An Eternal Love Story",
+        "Squad"
+      ]
+    },
+    "keywords": [
+      "Pooja Batra",
+      "Pooja Batra father",
+      "Virasat actress",
+      "Pooja Batra Instagram"
+    ],
+    "images": [],
+    "published": "2026-11-28T09:52:48Z"
+  },
+  "1lub9f5": {
+    "id": "1lub9f5",
+    "type": "news",
+    "headline": "Guy Ritchie's MobLand Takes Major Step Toward Season 3 With Production Already Underway",
+    "dek": "Paramount Plus crime saga MobLand has officially wrapped its second season and is moving quickly into production for its third installment, putting to rest earlier rumors surrounding Tom Hardy's involvement.",
+    "body": [
+      {
+        "h": "The Journey Toward Season Three",
+        "p": [
+          "The popular crime series MobLand is officially advancing toward its third season, bringing fresh excitement to fans of the streaming hit. Following the conclusion of its second season, studio executives have wasted no time initiating the next phase of the project.",
+          "Production on the upcoming episodes is already underway, indicating a strong commitment from the network to keep the momentum going. With cameras currently rolling, viewers can anticipate the return of the gritty crime drama sooner rather than later."
+        ]
+      },
+      {
+        "h": "Projected Timeline and Release Expectations",
+        "p": [
+          "Industry observers and dedicated followers are looking ahead to when the series might actually land on screens. Although official confirmation from the studio is still pending, current production schedules point toward a potential premiere before the close of 2027.",
+          "Even if the release falls later in that year, the swift turnaround from the end of the second season demonstrates an efficient production pipeline. Fans watching through Paramount Plus will not have to endure an overly protracted wait for the continuation of the story."
+        ]
+      },
+      {
+        "h": "Debunking Rumors of Cast Departures",
+        "p": [
+          "Earlier in the year, widespread reports suggested potential backstage friction between lead actor Tom Hardy and a producer on the show. These unverified claims sparked intense speculation that the star might be exiting the series before future installments could begin.",
+          "Fortunately, those rumors were thoroughly debunked shortly after circulating. The initial reports would not have impacted the second season since Hardy had already completed filming his sequences, but the clarification ensures his continued presence in the narrative moving forward."
+        ]
+      },
+      {
+        "h": "The Core Creative Force Behind the Crime Saga",
+        "p": [
+          "At the center of the series is acclaimed filmmaker Guy Ritchie, whose distinct style has helped shape the project into one of the most prominent television offerings in recent years. Ritchie's involvement as a director and producer has been instrumental in carving out the show's gritty aesthetic.",
+          "Alongside Ritchie, the creative vision is supported by creator Ronan Bennett and directors such as Daniel Syrkin. Their collaborative efforts have established a rich television landscape that continues to draw substantial viewing audiences."
+        ]
+      },
+      {
+        "h": "Star-Studded Ensemble Cast",
+        "p": [
+          "Tom Hardy anchors the production in his role as Harry Da Souza, a character that has become a defining part of his recent television work. Hardy's selective approach to major screen appearances makes his continued commitment to the series a notable highlight for followers.",
+          "He is joined by an impressive roster of co-stars, including Pierce Brosnan, Helen Mirren, Johnny Flynn, Paddy Considine, Toby Jones, and Janet McTeer. This collective star power has served as a primary driver for the show's high viewership numbers."
+        ]
+      },
+      {
+        "h": "Navigating Past Speculation and Moving Forward",
+        "p": [
+          "The swift resolution of the behind-the-scenes rumors highlights the intense scrutiny that high-profile streaming series often face. Speculation regarding cast friction can quickly dominate entertainment headlines, but concrete updates from the studio successfully redirected attention back to the show's actual output.",
+          "With the second season now concluded and cameras active for the next chapter, the production has moved past the rumor mill. The focus firmly remains on expanding the expansive criminal underworld established in earlier episodes."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "MobLand has officially concluded its second season and commenced production on its third season, with a potential release anticipated before the end of 2027. Additionally, reports regarding Tom Hardy leaving the show have been debunked, confirming that Hardy, Pierce Brosnan, and Helen Mirren will return under the direction of Guy Ritchie."
+        ]
+      }
+    ],
+    "facts": [
+      "The second season of MobLand ended on November 20, 2026.",
+      "Tom Hardy plays the character Harry Da Souza.",
+      "Guy Ritchie directs and produces the show.",
+      "Ronan Bennett is the creator of MobLand."
+    ],
+    "entities": {
+      "people": [
+        "Tom Hardy",
+        "Guy Ritchie",
+        "Pierce Brosnan",
+        "Helen Mirren",
+        "Johnny Flynn",
+        "Paddy Considine",
+        "Toby Jones",
+        "Janet McTeer",
+        "Ronan Bennett",
+        "Daniel Syrkin"
+      ],
+      "titles": [
+        "MobLand"
+      ]
+    },
+    "keywords": [
+      "MobLand",
+      "Tom Hardy",
+      "Guy Ritchie",
+      "MobLand Season 3"
+    ],
+    "images": [
+      {
+        "url": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/11/mobland-tom-hardy-1.jpg?w=1600&amp;h=900&amp;fit=crop",
+        "caption": "Guy Ritchie's MobLand Takes Major Step Toward Season 3 With Production Already Underway",
+        "source": "Collider"
+      }
+    ],
+    "published": "Sat, 28 Nov 2026 09:01:12 GMT"
+  },
+  "1hol4ii": {
+    "id": "1hol4ii",
+    "type": "news",
+    "headline": "Shah Rukh Khan Suggests A Dramatic Filmy Bio For His Upcoming Character In King",
+    "dek": "During a conversation with Karan Johar at the Daddy Cool song launch, Shah Rukh Khan revealed a powerful dialogue from King that he thinks would make the ultimate Instagram bio.",
+    "body": [
+      {
+        "h": "A Playful Social Media Pitch",
+        "p": [
+          "Bollywood superstar Shah Rukh Khan recently shared a theatrical idea for how his character in the upcoming film King might present himself on social media. While speaking with filmmaker Karan Johar at a promotional event, the actor entertained the crowd by imagining an Instagram biography fitting for his larger-than-life persona.",
+          "The interaction offered fans a humorous yet striking glimpse into the attitude surrounding his highly anticipated role. Although unsure if an official handle had been set up yet, the actor had a specific line in mind."
+        ]
+      },
+      {
+        "h": "The Proposed Character Bio",
+        "p": [
+          "Rather than sticking to a standard real-world bio, Shah Rukh Khan chose to quote a dramatic dialogue directly from the movie. He recited the line in his own voice for the audience, capturing the mysterious energy of his character.",
+          "The suggested quote translates to a declaration of being wanted across numerous nations and burdened with countless crimes before being given a single defining title. It highlights the sheer scale and swagger expected from the protagonist."
+        ]
+      },
+      {
+        "h": "Song Launch Event Details",
+        "p": [
+          "The playful discussion took place during the release event for the film's second track, titled Daddy Cool. The event brought together two prominent industry figures as Karan Johar interviewed the leading man on stage.",
+          "The conversation quickly shifted from lighthearted topics to the intense, action-packed nature of the project. Both creators discussed how the promotional campaign is building anticipation for the theatrical release."
+        ]
+      },
+      {
+        "h": "Musical Collaboration And Nostalgia",
+        "p": [
+          "The newly released track Daddy Cool infuses a retro disco and cabaret flavor into the classic Boney M tune. The peppy party number is composed by Sachin-Jigar with lyrics penned by Kumaar.",
+          "Vocals for the energetic song are provided by Arijit Singh and Shilpa Rao, while choreography was handled by Vaibhavi Merchant to give the number a distinct theatrical flair."
+        ]
+      },
+      {
+        "h": "Star-Studded Reunion On Screen",
+        "p": [
+          "The music video features Shah Rukh Khan alongside Kareena Kapoor Khan, marking a notable on-screen reunion after fifteen years. Their last joint appearance was in the 2011 film Ra.One.",
+          "The pairing adds another layer of excitement for long-time enthusiasts of Hindi cinema who remember their previous collaborations and chemistry."
+        ]
+      },
+      {
+        "h": "Release Plans And Expectations",
+        "p": [
+          "Directed by Siddharth Anand, King is positioned as an action-thriller highlighting the superstar in a rugged and powerful avatar. Promotional material has steadily kept audiences intrigued about his look and performance.",
+          "The film is scheduled to arrive in cinemas worldwide on December 24, 2026, promising a major cinematic event for the holiday season."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Shah Rukh Khan suggested a dramatic movie dialogue to serve as an Instagram bio for his character in King during the Daddy Cool track launch with Karan Johar. The action-thriller, directed by Siddharth Anand and featuring a musical composition by Sachin-Jigar, is set for a worldwide theatrical release on December 24, 2026."
+        ]
+      }
+    ],
+    "facts": [
+      "Shah Rukh Khan discussed King at the Daddy Cool song launch with Karan Johar on November 27, 2026.",
+      "Daddy Cool is composed by Sachin-Jigar with lyrics by Kumaar and vocals by Arijit Singh and Shilpa Rao.",
+      "Vaibhavi Merchant choreographed the song Daddy Cool.",
+      "Shah Rukh Khan and Kareena Kapoor Khan reunite in the song after 15 years since Ra.One in 2011.",
+      "King is directed by Siddharth Anand and scheduled to release worldwide on December 24, 2026."
+    ],
+    "entities": {
+      "people": [
+        "Shah Rukh Khan",
+        "Karan Johar",
+        "Kareena Kapoor Khan",
+        "Sachin-Jigar",
+        "Kumaar",
+        "Arijit Singh",
+        "Shilpa Rao",
+        "Vaibhavi Merchant",
+        "Siddharth Anand"
+      ],
+      "titles": [
+        "King",
+        "Daddy Cool",
+        "Ra.One"
+      ]
+    },
+    "keywords": [
+      "Shah Rukh Khan King movie",
+      "Daddy Cool song King",
+      "Karan Johar Shah Rukh Khan",
+      "Siddharth Anand King release date"
+    ],
+    "images": [
+      {
+        "url": "https://images.timesnownews.com/thumb/msid-156576672,thumbsize-140094,width-1280,height-720,resizemode-75/156576672.jpg",
+        "caption": "Shah Rukh Khan Suggests A Dramatic Filmy Bio For His Upcoming Character In King",
+        "source": "Times Now — Entertainment"
+      }
+    ],
+    "published": "2026-11-28T09:52:48Z"
   }
 };
