@@ -33,6 +33,18 @@ window.FA_OTT = {
   ],
   "now": [
     {
+      "date": "2026-11-28",
+      "date_kind": "release",
+      "id": 1774011,
+      "providers": [
+        {
+          "logo_path": "/qAccuffS0YOegynkbRchQeBrw7W.png",
+          "name": "Pure Flix"
+        }
+      ],
+      "type": "movie"
+    },
+    {
       "country": "US",
       "date": "2026-11-27",
       "date_kind": "digital",

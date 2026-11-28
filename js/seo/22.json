@@ -1,7 +1,71 @@
 {
  "bucket": "22",
- "count": 85,
+ "count": 86,
  "titles": {
+  "movie:1013822": {
+   "d": "The Dreamed Adventure (2026): Drama/Crime film. Story: Journeying home to the Bulgarian hinterlands on the… See cast and TMDB rating 6.0/10.",
+   "img": "https://image.tmdb.org/t/p/w780/pyyLuwfGtpO3Ki0KOBx44nK538n.jpg",
+   "industry": "world",
+   "k": "The Dreamed Adventure, The Dreamed Adventure movie, The Dreamed Adventure cast, The Dreamed Adventure story, The Dreamed Adventure box office collection, The Dreamed Adventure budget, The Dreamed Adventure review, The Dreamed Adventure rating, The Dreamed Adventure release date, The Dreamed Adventure Drama, The Dreamed Adventure Crime, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Yana Radeva"
+     },
+     {
+      "@type": "Person",
+      "name": "Syuleyman Alilov Letifo"
+     },
+     {
+      "@type": "Person",
+      "name": "Stoicho Kostadinov"
+     },
+     {
+      "@type": "Person",
+      "name": "Nikolay Shekerdjiev"
+     },
+     {
+      "@type": "Person",
+      "name": "Denislava Yordanova"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 12,
+     "ratingValue": 6.0,
+     "worstRating": 0
+    },
+    "description": "The Dreamed Adventure (2026): Drama/Crime film. Story: Journeying home to the Bulgarian hinterlands on the… See cast and TMDB rating 6.0/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Valeska Grisebach"
+     }
+    ],
+    "duration": "PT164M",
+    "genre": [
+     "Drama",
+     "Crime"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/pyyLuwfGtpO3Ki0KOBx44nK538n.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1013822",
+    "name": "The Dreamed Adventure",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2026-07-15"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1013822"
+   },
+   "modified": "",
+   "published": "2026-11-28",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>The Dreamed Adventure (2026)</h1>\n<p class=\"ssr-lead\">Journeying home to the Bulgarian hinterlands on the border of Turkey and Greece, Saïd seeks out a fuel-smuggling deal with a small-time crook, attracting the attention of Iliya, the local kingpin. Sensing danger, Saïd enlists the help of one-time romantic interest Veska, an archaeologist who years earlier had fallen in with the swindlers and operators of the post-Communist era. But when Saïd goes missing, Veska takes over the smuggling operation, deftly moving among the thunderous, posturing men and coming-face-to-face with the underworld that shaped her past.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 15 July 2026</li><li>Runtime: 164 minutes</li><li>Director: Valeska Grisebach</li><li>Genres: Drama, Crime</li><li>Certification: 12</li><li>Original language: German</li><li>Spoken languages: BG</li><li>Production countries: Germany, France, AT, BG</li><li>TMDB rating: 6.0/10 (12 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Yana Radeva as Veska</li><li>Syuleyman Alilov Letifo as Saïd</li><li>Stoicho Kostadinov as Iliya</li><li>Nikolay Shekerdjiev as Velko</li><li>Denislava Yordanova as Maria</li><li>Tiana Georgieva as Tiana</li></ul>\n</article>",
+   "t": "The Dreamed Adventure (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2026"
+  },
   "movie:1063422": {
    "d": "The Strays (2023): Thriller film. Story: A Black woman's meticulously crafted life of… See cast, TMDB rating 5.5/10, and release date 17 February 2023.",
    "img": "https://image.tmdb.org/t/p/w780/cKqk1m6n2lPHZMHNSVYhrnRCiux.jpg",

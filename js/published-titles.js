@@ -9230,7 +9230,7 @@ window.FA_PUBLISHED = {
     "vote_count": 0,
     "overview": "Once a fishing prodigy, Marimo has lost her enthusiasm after her mother's death in a water accident. Meeting Tetra, a girl who has come from America inspired by her, rekindles her ambition. With friends and rivals beside her, Marimo begins working toward an Olympic fishing gold medal.",
     "industry": "world",
-    "popularity": 0.7854,
+    "popularity": 0.5418,
     "original_language": "ja",
     "origin_country": [
       "JP"
@@ -42169,11 +42169,11 @@ window.FA_PUBLISHED = {
     "title": "Paper Tiger",
     "poster_path": "/p6oLmq5KmuWY6uRXBQBL2q30jia.jpg",
     "backdrop_path": "/7QshsnWS3NIZp60qMgcYm1C6dxm.jpg",
-    "vote_average": 8.125,
-    "vote_count": 16,
+    "vote_average": 7.646,
+    "vote_count": 24,
     "overview": "Two brothers become entangled in a scheme that turns out to be too good to be true. As they try to navigate their way through the dangerous world of the Russian mafia, family bonds begin to fray with life-altering consequences.",
     "industry": "world",
-    "popularity": 18.9781,
+    "popularity": 18.8057,
     "original_language": "en",
     "origin_country": [
       "US"
@@ -51730,7 +51730,7 @@ window.FA_PUBLISHED = {
     "vote_count": 0,
     "overview": "Kicking off from a single interview with a fictional character, THE INTERVIEW began as a bit to see how much information AJ Shields could get his hands on. Over a year later, the project has spiraled out of control, sending its creator on a wild goose chase to discover just how far the line can be pushed.",
     "industry": "world",
-    "popularity": 0.1609,
+    "popularity": 0.3582,
     "original_language": "en",
     "origin_country": [
       "US"
@@ -54878,7 +54878,7 @@ window.FA_PUBLISHED = {
     "id": 1209723,
     "type": "movie",
     "title": "Yeh Prem Mol Liya",
-    "poster_path": "/kUxkvh6GMZL4AHNgNDty68yTnwQ.jpg",
+    "poster_path": "/dtI3xTdEPmBiIPXLDgDxNKHCkDV.jpg",
     "backdrop_path": "/ixHRFxlPRqCvCJ5gk0aScUAEfrx.jpg",
     "vote_average": 0.0,
     "vote_count": 0,
@@ -54927,7 +54927,7 @@ window.FA_PUBLISHED = {
     "vote_count": 0,
     "overview": "",
     "industry": "world",
-    "popularity": 0.9011,
+    "popularity": 0.9753,
     "original_language": "es",
     "origin_country": [
       "MX"
@@ -55093,7 +55093,7 @@ window.FA_PUBLISHED = {
     "vote_count": 0,
     "overview": "An irresponsible businessman gets trapped in a dangerous deal with a rival company, triggering a series of mysterious and life-threatening events. As he seeks answers, he discovers that his deceased wife's spirit is behind his troubles, while his daughter's spirit has been protecting him. Caught between two spirits, he must fight to save his life and protect innocent children from an impending danger.",
     "industry": "bollywood",
-    "popularity": 1.5141,
+    "popularity": 1.2283,
     "original_language": "ta",
     "origin_country": [
       "IN"
@@ -55130,7 +55130,7 @@ window.FA_PUBLISHED = {
     "vote_count": 0,
     "overview": "Unafraid of war and unwilling to stop until she finds that one answer. She carries no doubts. Only the ache of an answer she's searched her whole life.",
     "industry": "bollywood",
-    "popularity": 1.4554,
+    "popularity": 1.5919,
     "original_language": "te",
     "origin_country": [
       "IN"
@@ -55157,7 +55157,7 @@ window.FA_PUBLISHED = {
       "te"
     ],
     "certification": "NR",
-    "release_date": "2026-11-27",
+    "release_date": "2026-12-11",
     "date_kind": "release",
     "runtime": 157,
     "providers": [],
@@ -55173,7 +55173,7 @@ window.FA_PUBLISHED = {
     "vote_count": 0,
     "overview": "",
     "industry": "world",
-    "popularity": 0.2956,
+    "popularity": 0.763,
     "original_language": "fr",
     "origin_country": [
       "FR"
@@ -55271,7 +55271,7 @@ window.FA_PUBLISHED = {
     "vote_count": 0,
     "overview": "A young food delivery rider, who dreams of becoming a police officer, is forced to steal money to save his critically injured mother. Months later, when he discovers that the same man has been falsely accused of murder, he risks everything to save the life he once unknowingly changed forever.",
     "industry": "bollywood",
-    "popularity": 1.1607,
+    "popularity": 1.2831,
     "original_language": "ta",
     "origin_country": [
       "IN"
@@ -55307,13 +55307,13 @@ window.FA_PUBLISHED = {
     "id": 1831299,
     "type": "movie",
     "title": "La télé sans filtre, 30 ans d'impertinence",
-    "poster_path": "/77yTBcMWGA3cjoPO9JfIrHx6eyr.jpg",
+    "poster_path": "/hV9dUVPGx1KLPOFPguCerV8gL4t.jpg",
     "backdrop_path": "/xP4buNKjCSUKLGofGogLVsL0k5d.jpg",
     "vote_average": 0.0,
     "vote_count": 0,
     "overview": "",
     "industry": "world",
-    "popularity": 0.5111,
+    "popularity": 1.0598,
     "original_language": "fr",
     "origin_country": [
       "FR"
@@ -55397,12 +55397,12 @@ window.FA_PUBLISHED = {
     "type": "movie",
     "title": "Cosmic Samson",
     "poster_path": "/bLZt3m1itByeC8PubRkRQ3Lmqey.jpg",
-    "backdrop_path": "/z1K9UNUGVicJZC89VDEgif2f8fX.jpg",
-    "vote_average": 0.0,
-    "vote_count": 0,
+    "backdrop_path": "/ravPP5uoZIHsjp4ed6qw38MSOaw.jpg",
+    "vote_average": 1.5,
+    "vote_count": 1,
     "overview": "Samson Joseph is an aspiring filmmaker, who fails to find a breakthrough in his career. One day, an unexpected event takes place in his life, completely changing his destiny.",
     "industry": "bollywood",
-    "popularity": 1.8829,
+    "popularity": 2.39,
     "original_language": "ml",
     "origin_country": [
       "IN"
@@ -55446,7 +55446,7 @@ window.FA_PUBLISHED = {
     "vote_count": 0,
     "overview": "Over a single night, five friends Kathir, Gilbert, Velu, Govind and Murugan stumble upon a wrecked car containing two dead bodies and a box of gold. Driven by greed, they hide the gold, split it among themselves, and go their separate ways.  But their decision triggers a deadly chain of events. Velu is murdered while trying to sell his share, followed by Gilbert. Kathir soon realizes that someone is hunting them down, one by one and the killer knows far more about them than he should.  Trapped in a race against time, Kathir must uncover the killer, protect the remaining friend, and survive until dawn. As the night closes in, he must confront not only a ruthless killer, but the consequences of their greed.",
     "industry": "bollywood",
-    "popularity": 0.6659,
+    "popularity": 0.8497,
     "original_language": "ta",
     "origin_country": [
       "IN"
@@ -55536,7 +55536,7 @@ window.FA_PUBLISHED = {
     "vote_count": 0,
     "overview": "Set during a college National Service Scheme (NSS) camp near the Kerala–Karnataka border. The story follows a lively group of students led by Shahabaz and fellow camper Aliya whose week of community service quickly turns into chaotic.",
     "industry": "bollywood",
-    "popularity": 2.2818,
+    "popularity": 4.1618,
     "original_language": "ml",
     "origin_country": [
       "IN"
@@ -55578,7 +55578,7 @@ window.FA_PUBLISHED = {
     "vote_count": 0,
     "overview": "",
     "industry": "world",
-    "popularity": 0.5904,
+    "popularity": 0.7983,
     "original_language": "zh",
     "origin_country": [
       "CN"
@@ -55660,7 +55660,7 @@ window.FA_PUBLISHED = {
     "vote_count": 0,
     "overview": "Erik is a disturbed evil sorcerer and disgruntled senior employee at a competitive magazine firm. Charismatic alien jerk Garrett is the CEO's nephew, clashing with Erik in the workplace over their different visions for the August cover design. As they engage in a battle of egos, sabotaging each other in increasingly malicious ways, Erik begins to hallucinate violently killing Garrett.",
     "industry": "world",
-    "popularity": 0.0569,
+    "popularity": 0.1654,
     "original_language": "en",
     "origin_country": [
       "US"
@@ -55867,13 +55867,13 @@ window.FA_PUBLISHED = {
     "id": 1510775,
     "type": "movie",
     "title": "Gunmaaster G9",
-    "poster_path": "/vDYF2q48AIvBRpFiqKj6lKyM0p6.jpg",
-    "backdrop_path": "/l2mK4l8DI57CMAXlERKiaJE3v0y.jpg",
+    "poster_path": "/pmJorxOA59nc6u5xiPhQm9QZOPs.jpg",
+    "backdrop_path": "/8flf9C0icBIopZw6Un5NxvWeBAn.jpg",
     "vote_average": 0.0,
     "vote_count": 0,
     "overview": "A man in love takes extreme measures to be with the woman he desires, facing off against a dangerous adversary.",
     "industry": "bollywood",
-    "popularity": 1.6267,
+    "popularity": 5.6869,
     "original_language": "hi",
     "origin_country": [
       "IN"
@@ -55916,7 +55916,7 @@ window.FA_PUBLISHED = {
     "vote_count": 0,
     "overview": "In honor of America's 250th Celebrations",
     "industry": "world",
-    "popularity": 0.1263,
+    "popularity": 0.1522,
     "original_language": "en",
     "origin_country": [
       "US"
@@ -56063,7 +56063,7 @@ window.FA_PUBLISHED = {
     "vote_count": 0,
     "overview": "A police officer whose investigation centered around a centuries-old temple and mysterious events involving missing sacred idols draws him into a larger conflict involving faith, ancient beliefs, and hidden secrets.",
     "industry": "bollywood",
-    "popularity": 0.6804,
+    "popularity": 0.8405,
     "original_language": "te",
     "origin_country": [
       "IN"
@@ -56106,7 +56106,7 @@ window.FA_PUBLISHED = {
     "vote_count": 0,
     "overview": "A one single-shot of a reflection through a television screen of a woman waking up with the Sun.",
     "industry": "world",
-    "popularity": 0.1846,
+    "popularity": 0.4364,
     "original_language": "fr",
     "origin_country": [
       "FR"
@@ -56193,7 +56193,7 @@ window.FA_PUBLISHED = {
     "vote_count": 0,
     "overview": "",
     "industry": "bollywood",
-    "popularity": 1.1429,
+    "popularity": 1.3953,
     "original_language": "ta",
     "origin_country": [
       "IN"
@@ -56321,7 +56321,7 @@ window.FA_PUBLISHED = {
     "vote_count": 0,
     "overview": "After almost 30 years, Angie Martinez is releasing her interview with Tupac that took place 3 months before his death.",
     "industry": "world",
-    "popularity": 0.4519,
+    "popularity": 5.887,
     "original_language": "en",
     "origin_country": [
       "US"
@@ -56352,7 +56352,7 @@ window.FA_PUBLISHED = {
     "certification": "M18",
     "release_date": "2026-11-27",
     "date_kind": "release",
-    "runtime": 0,
+    "runtime": 207,
     "providers": [],
     "providers_wtw": []
   },
@@ -56409,7 +56409,7 @@ window.FA_PUBLISHED = {
     "vote_count": 0,
     "overview": "A whole college skips the second day of Halloweekend to celebrate Christmas on November 1st. Dressing festive, watching Christmas movies and playing music. However, there's a mystery...why and how are people getting murdered on November 1st?",
     "industry": "world",
-    "popularity": 0.7634,
+    "popularity": 0.5998,
     "original_language": "en",
     "origin_country": [
       "US"
@@ -56500,7 +56500,7 @@ window.FA_PUBLISHED = {
     "vote_count": 0,
     "overview": "Liss visits her Great Aunt for a cup of tea, with an ulterior motive in her mind. Her mission seems to be simple, to ask her Aunt for money, but is thrown off by the peculiarity of Great Aunt Petunia’s house.",
     "industry": "world",
-    "popularity": 0.0601,
+    "popularity": 0.05,
     "original_language": "en",
     "origin_country": [
       "GB"
@@ -56719,9 +56719,9 @@ window.FA_PUBLISHED = {
     "backdrop_path": "/zme00qR9FeRO6MmBn34GStjhxOZ.jpg",
     "vote_average": 0.0,
     "vote_count": 0,
-    "overview": "",
+    "overview": "A one-man comedy show tracing Jeanfi Janssens’s unexpected journey from ordinary Air France flight attendant to recognizable show-business personality. Rather than a fictional plot, the show unfolds as a continuous narrative of personal chapters as he approaches 50. He opens by reflecting on the culture shock of landing in celebrity circles and the awkwardness of being recognized during mundane moments, like struggling with plastic bags at the supermarket. From there, he flashes back to his strict Catholic boarding school upbringing with nuns and his quirky superstitions. The heart of the show explores his close bond with his northern French mother, devotion to his cat Duchesse, compulsive shopping, and candid, self-deprecating stories about his dating life and romantic misadventures as an openly gay man. Finally, he wraps up with relatable routines on aging, early medical mishaps, and gratitude for life's unexpected turns.",
     "industry": "world",
-    "popularity": 0.0194,
+    "popularity": 0.3103,
     "original_language": "fr",
     "origin_country": [
       "FR"
@@ -56738,7 +56738,7 @@ window.FA_PUBLISHED = {
       "Comedy"
     ],
     "tagline": "",
-    "status": "Post Production",
+    "status": "Released",
     "production_countries": [
       "FR"
     ],
@@ -56748,7 +56748,7 @@ window.FA_PUBLISHED = {
     "certification": "TP",
     "release_date": "2026-11-28",
     "date_kind": "release",
-    "runtime": 0,
+    "runtime": 90,
     "providers": [],
     "providers_wtw": []
   },
@@ -56841,7 +56841,7 @@ window.FA_PUBLISHED = {
     "vote_count": 0,
     "overview": "",
     "industry": "world",
-    "popularity": 0,
+    "popularity": 0.1311,
     "original_language": "fr",
     "origin_country": [
       "FR"
@@ -56858,7 +56858,7 @@ window.FA_PUBLISHED = {
       "Documentary"
     ],
     "tagline": "",
-    "status": "Post Production",
+    "status": "Released",
     "production_countries": [
       "FR"
     ],
@@ -56925,7 +56925,7 @@ window.FA_PUBLISHED = {
     "vote_count": 0,
     "overview": "A coincidence brings together the paths of a young policewoman and a father fighting for contact with his son, setting in motion a chain of events that spirals into a destructive process, exposing the impossibility of understanding between people. In just one night, their lives are irreversibly altered, confronting them with violence, helplessness, and moral choices from which there is no escape.",
     "industry": "world",
-    "popularity": 0.2856,
+    "popularity": 0.458,
     "original_language": "pl",
     "origin_country": [
       "PL"
@@ -56940,7 +56940,7 @@ window.FA_PUBLISHED = {
     "revenue": 0,
     "genres": [],
     "tagline": "",
-    "status": "Post Production",
+    "status": "Released",
     "production_countries": [
       "PL"
     ],
@@ -57014,7 +57014,7 @@ window.FA_PUBLISHED = {
     "vote_count": 0,
     "overview": "A young woman struggling to get pregnant turns to an ancient witchcraft ritual. From that moment on, she is stalked by a mysterious entity. A story where everyday life turns into witchcraft.",
     "industry": "world",
-    "popularity": 0.2473,
+    "popularity": 0.2763,
     "original_language": "en",
     "origin_country": [
       "ES"
@@ -57029,7 +57029,7 @@ window.FA_PUBLISHED = {
     "revenue": 0,
     "genres": [],
     "tagline": "Sometimes, darkness creeps in slowly, disguised as routine, lukewarm coffee, and silence.",
-    "status": "In Production",
+    "status": "Released",
     "production_countries": [
       "ES"
     ],
@@ -57094,7 +57094,7 @@ window.FA_PUBLISHED = {
     "vote_count": 0,
     "overview": "",
     "industry": "world",
-    "popularity": 0.0838,
+    "popularity": 0.3104,
     "original_language": "id",
     "origin_country": [
       "ID"
@@ -57111,7 +57111,7 @@ window.FA_PUBLISHED = {
       "Drama"
     ],
     "tagline": "",
-    "status": "In Production",
+    "status": "Released",
     "production_countries": [],
     "spoken_languages": [],
     "certification": "",
@@ -57200,7 +57200,7 @@ window.FA_PUBLISHED = {
     "vote_count": 0,
     "overview": "Giles Foreman, an aspiring journalist, sets out to speak with the manager of Peterson and Sons, a local estate agents, to find out about his views on employing young people.",
     "industry": "world",
-    "popularity": 0.1488,
+    "popularity": 0.2517,
     "original_language": "en",
     "origin_country": [
       "US"
@@ -57218,7 +57218,7 @@ window.FA_PUBLISHED = {
       "Drama"
     ],
     "tagline": "Greetings from the United Kingdom of Great Britain!",
-    "status": "In Production",
+    "status": "Released",
     "production_countries": [],
     "spoken_languages": [],
     "certification": "PG",
@@ -57293,7 +57293,7 @@ window.FA_PUBLISHED = {
     "vote_count": 0,
     "overview": "This documentary tells the story of how Shamshi Kaldayakov and Zhumeken Nazhimedenov wrote a song 50 years ago that became great.",
     "industry": "world",
-    "popularity": 0.3343,
+    "popularity": 0.0347,
     "original_language": "en",
     "origin_country": [
       "KZ"
@@ -57310,7 +57310,7 @@ window.FA_PUBLISHED = {
       "Documentary"
     ],
     "tagline": "\"My Kazakhstan!\" by Kaldayakov and Nazhmidenov",
-    "status": "Post Production",
+    "status": "Released",
     "production_countries": [
       "KZ"
     ],
@@ -57379,7 +57379,7 @@ window.FA_PUBLISHED = {
     "vote_count": 0,
     "overview": "",
     "industry": "world",
-    "popularity": 0.0919,
+    "popularity": 0.3285,
     "original_language": "es",
     "origin_country": [
       "CL"
@@ -57398,7 +57398,7 @@ window.FA_PUBLISHED = {
       "Mystery"
     ],
     "tagline": "",
-    "status": "In Production",
+    "status": "Released",
     "production_countries": [],
     "spoken_languages": [
       "es"
@@ -57420,7 +57420,7 @@ window.FA_PUBLISHED = {
     "vote_count": 0,
     "overview": "My hamster likes to eat, drink water, and run.",
     "industry": "world",
-    "popularity": 0,
+    "popularity": 0.2656,
     "original_language": "en",
     "origin_country": [
       "US"
@@ -57435,7 +57435,7 @@ window.FA_PUBLISHED = {
     "revenue": 0,
     "genres": [],
     "tagline": "",
-    "status": "Planned",
+    "status": "Released",
     "production_countries": [],
     "spoken_languages": [],
     "certification": "",
@@ -57566,7 +57566,7 @@ window.FA_PUBLISHED = {
     "vote_count": 0,
     "overview": "In a family where writing horror stories is a tradition, a mother and grandmother entertains her daughter and granddaughter by telling them chilling tales of murder, violence, and gruesome horrors. Each story presents a different setting: a factory where a group of friends becomes trapped with a relentless killer, a bowling match that turns into a bloody hunt, and a church that hides a secret as macabre as it is deadly. What begins as a night of storytelling soon spirals into a nightmare as fiction starts to blur with reality.",
     "industry": "world",
-    "popularity": 0.2386,
+    "popularity": 0.2644,
     "original_language": "es",
     "origin_country": [
       "AR"
@@ -57583,7 +57583,7 @@ window.FA_PUBLISHED = {
       "Horror"
     ],
     "tagline": "",
-    "status": "In Production",
+    "status": "Released",
     "production_countries": [
       "AR"
     ],
@@ -57651,7 +57651,7 @@ window.FA_PUBLISHED = {
     "vote_count": 0,
     "overview": "In a family where writing horror stories is a tradition, a mother and grandmother entertains her daughter and granddaughter by telling them chilling tales of murder, violence, and gruesome horrors. Each story presents a different setting: a factory where a group of friends becomes trapped with a relentless killer, a bowling match that turns into a bloody hunt, and a church that hides a secret as macabre as it is deadly. What begins as a night of storytelling soon spirals into a nightmare as fiction starts to blur with reality.",
     "industry": "world",
-    "popularity": 0.2051,
+    "popularity": 0.1363,
     "original_language": "es",
     "origin_country": [
       "AR"
@@ -57668,7 +57668,7 @@ window.FA_PUBLISHED = {
       "Horror"
     ],
     "tagline": "",
-    "status": "In Production",
+    "status": "Released",
     "production_countries": [
       "AR"
     ],
@@ -57745,7 +57745,7 @@ window.FA_PUBLISHED = {
     "vote_count": 0,
     "overview": "Shards, desire and fear: the boundaries between everyday life and dreams become blurred. A film about the truthfulness of things.",
     "industry": "world",
-    "popularity": 0.2715,
+    "popularity": 0.062,
     "original_language": "de",
     "origin_country": [
       "DE"
@@ -57827,7 +57827,7 @@ window.FA_PUBLISHED = {
     "vote_count": 0,
     "overview": "Mother and daughter encounter a malicious creature from another world.",
     "industry": "world",
-    "popularity": 0.2506,
+    "popularity": 0.1117,
     "original_language": "en",
     "origin_country": [
       "US"
@@ -57844,7 +57844,7 @@ window.FA_PUBLISHED = {
       "Horror"
     ],
     "tagline": "",
-    "status": "In Production",
+    "status": "Released",
     "production_countries": [],
     "spoken_languages": [],
     "certification": "",
@@ -57923,7 +57923,7 @@ window.FA_PUBLISHED = {
     "vote_count": 0,
     "overview": "",
     "industry": "world",
-    "popularity": 0.4382,
+    "popularity": 0.504,
     "original_language": "ja",
     "origin_country": [
       "JP"
@@ -57938,7 +57938,7 @@ window.FA_PUBLISHED = {
     "revenue": 0,
     "genres": [],
     "tagline": "",
-    "status": "In Production",
+    "status": "Released",
     "production_countries": [],
     "spoken_languages": [],
     "certification": "",
@@ -58003,7 +58003,7 @@ window.FA_PUBLISHED = {
     "vote_count": 0,
     "overview": "A mourning couple’s getaway spirals out of control as a man juggles his wife’s grief, his mistress’s jealousy, and the fallout from both.",
     "industry": "world",
-    "popularity": 0.2276,
+    "popularity": 0.2354,
     "original_language": "en",
     "origin_country": [
       "US"
@@ -58022,7 +58022,7 @@ window.FA_PUBLISHED = {
       "Comedy"
     ],
     "tagline": "John loves melons",
-    "status": "Post Production",
+    "status": "Released",
     "production_countries": [],
     "spoken_languages": [],
     "certification": "",
@@ -58042,7 +58042,7 @@ window.FA_PUBLISHED = {
     "vote_count": 0,
     "overview": "",
     "industry": "world",
-    "popularity": 0.2934,
+    "popularity": 0.1762,
     "original_language": "it",
     "origin_country": [
       "IT"
@@ -58057,7 +58057,7 @@ window.FA_PUBLISHED = {
     "revenue": 0,
     "genres": [],
     "tagline": "",
-    "status": "In Production",
+    "status": "Released",
     "production_countries": [],
     "spoken_languages": [],
     "certification": "",
@@ -58077,7 +58077,7 @@ window.FA_PUBLISHED = {
     "vote_count": 0,
     "overview": "",
     "industry": "world",
-    "popularity": 0.1585,
+    "popularity": 0.1895,
     "original_language": "it",
     "origin_country": [
       "IT"
@@ -58092,7 +58092,7 @@ window.FA_PUBLISHED = {
     "revenue": 0,
     "genres": [],
     "tagline": "",
-    "status": "In Production",
+    "status": "Released",
     "production_countries": [],
     "spoken_languages": [],
     "certification": "",
@@ -58112,7 +58112,7 @@ window.FA_PUBLISHED = {
     "vote_count": 0,
     "overview": "",
     "industry": "world",
-    "popularity": 0.3628,
+    "popularity": 0.6721,
     "original_language": "zh",
     "origin_country": [
       "CN"
@@ -58130,7 +58130,7 @@ window.FA_PUBLISHED = {
       "Horror"
     ],
     "tagline": "",
-    "status": "In Production",
+    "status": "Released",
     "production_countries": [],
     "spoken_languages": [],
     "certification": "",
@@ -58150,7 +58150,7 @@ window.FA_PUBLISHED = {
     "vote_count": 0,
     "overview": "",
     "industry": "world",
-    "popularity": 0.3435,
+    "popularity": 0.2246,
     "original_language": "fr",
     "origin_country": [
       "FR"
@@ -58167,7 +58167,7 @@ window.FA_PUBLISHED = {
       "Documentary"
     ],
     "tagline": "",
-    "status": "In Production",
+    "status": "Released",
     "production_countries": [
       "FR"
     ],
@@ -58189,7 +58189,7 @@ window.FA_PUBLISHED = {
     "vote_count": 0,
     "overview": "Go behind the scenes with National Geographic to explore the massive engineering and creative journey of building Disney Cruise Line's largest ship to date, the Disney Adventure. From its initial rescue as a partially constructed vessel to its transformation into a floating Disney wonderland, this special documents the innovative design, construction challenges, and unparalleled scale required to bring this new class of ship to life.",
     "industry": "world",
-    "popularity": 0.1496,
+    "popularity": 0.1964,
     "original_language": "en",
     "origin_country": [
       "US"
@@ -58202,9 +58202,11 @@ window.FA_PUBLISHED = {
     "source": "tmdb",
     "budget": 0,
     "revenue": 0,
-    "genres": [],
+    "genres": [
+      "Documentary"
+    ],
     "tagline": "",
-    "status": "In Production",
+    "status": "Released",
     "production_countries": [],
     "spoken_languages": [],
     "certification": "",
@@ -58224,7 +58226,7 @@ window.FA_PUBLISHED = {
     "vote_count": 0,
     "overview": "Fancy prepares for the biggest season of her life and to secure the future of her boutique while planning her dream Christmas wedding to fiance Jaylen, with the help of her mother Evelyn and sister Belle.",
     "industry": "world",
-    "popularity": 0.7534,
+    "popularity": 1.2001,
     "original_language": "en",
     "origin_country": [
       "US"
@@ -58243,7 +58245,7 @@ window.FA_PUBLISHED = {
       "Romance"
     ],
     "tagline": "",
-    "status": "Post Production",
+    "status": "Released",
     "production_countries": [
       "US"
     ],
@@ -69269,6 +69271,873 @@ window.FA_PUBLISHED = {
     "release_date": "2026-12-04",
     "date_kind": "festival",
     "runtime": 19,
+    "providers": [],
+    "providers_wtw": []
+  },
+  "1793000": {
+    "id": 1793000,
+    "type": "movie",
+    "title": "The Hangover Cure",
+    "poster_path": "/uqWQYj70EFjytudhSVLta0e71vs.jpg",
+    "backdrop_path": "/1duOP8BcdgzeEHmcE3bigpuzkMP.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "A sudden power outage forces flatmates Arindam, a burdened corporate employee, and Manek, a struggling aspiring writer, away from their screens and into a deep conversation.",
+    "industry": "bollywood",
+    "popularity": 0.3295,
+    "original_language": "hi",
+    "origin_country": [
+      "IN"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-28",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Drama"
+    ],
+    "tagline": "The clock strikes half-past two",
+    "status": "Released",
+    "production_countries": [
+      "IN"
+    ],
+    "spoken_languages": [
+      "hi"
+    ],
+    "certification": "",
+    "release_date": "2026-11-28",
+    "date_kind": "festival",
+    "runtime": 10,
+    "providers": [],
+    "providers_wtw": []
+  },
+  "337904": {
+    "id": 337904,
+    "type": "tv",
+    "title": "AndherPura Curse",
+    "poster_path": "/7Ubhq7VpG2Zby5Vohijre1xIyy9.jpg",
+    "backdrop_path": "/uxx8quqUarTQmqXICH8dk3zJ5mI.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "AndherPura Curse Is A Minecraft Series Presented By SmilyBag.",
+    "industry": "bollywood",
+    "popularity": 1.7127,
+    "original_language": "hi",
+    "origin_country": [
+      "IN"
+    ],
+    "trailer": null,
+    "categories": [
+      "tv"
+    ],
+    "published_at": "2026-11-28",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Mystery"
+    ],
+    "tagline": "Andherpura Curse",
+    "status": "Returning Series",
+    "production_countries": [],
+    "spoken_languages": [
+      "hi"
+    ],
+    "certification": "U/A 7+",
+    "first_air_date": "2026-11-28",
+    "networks": [],
+    "number_of_seasons": 1,
+    "number_of_episodes": 4,
+    "channel": "",
+    "episode_run_time": [],
+    "seasons": [
+      {
+        "season_number": 1,
+        "episode_count": 4,
+        "air_date": "2026-11-28",
+        "name": "AndherPura Curse"
+      }
+    ],
+    "created_by": [
+      "SmilyBag"
+    ],
+    "providers": [],
+    "providers_wtw": []
+  },
+  "1782793": {
+    "id": 1782793,
+    "type": "movie",
+    "title": "Marriage Party",
+    "poster_path": "/iZJXnO4WKkoKwJ5osLH5iPzMW6I.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "A coastal Karnataka village wedding becomes the center of a series of hilarious and unexpected incidents. As family traditions relationships and village characters collide, the celebrations turn into chaos, bringing comedy horror and drama",
+    "industry": "bollywood",
+    "popularity": 0.3033,
+    "original_language": "kn",
+    "origin_country": [
+      "IN"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-28",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "tagline": "",
+    "status": "Post Production",
+    "production_countries": [
+      "IN"
+    ],
+    "spoken_languages": [
+      "kn"
+    ],
+    "certification": "",
+    "release_date": "2026-12-04",
+    "date_kind": "release",
+    "runtime": 0,
+    "providers": [],
+    "providers_wtw": []
+  },
+  "1599181": {
+    "id": 1599181,
+    "type": "movie",
+    "title": "Chronovisor",
+    "poster_path": "/AngfVgLk5EngnbuFpISjvFJkYBz.jpg",
+    "backdrop_path": "/fpv7UeON9GgkOIjCHQV2LdY3J99.jpg",
+    "vote_average": 8.0,
+    "vote_count": 2,
+    "overview": "A French academic is seduced into a world of untold histories in her scholarly quest to uncover the mystery of a history-capturing camera-like machine created by clandestine Benedictine monks.",
+    "industry": "world",
+    "popularity": 1.3218,
+    "original_language": "en",
+    "origin_country": [
+      "US"
+    ],
+    "trailer": {
+      "key": "KPt2iZg7M50",
+      "name": "Official Trailer",
+      "site": "YouTube"
+    },
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-28",
+    "source": "tmdb",
+    "budget": 55000,
+    "revenue": 138955,
+    "genres": [
+      "Mystery",
+      "Science Fiction",
+      "Thriller"
+    ],
+    "tagline": "",
+    "status": "Released",
+    "production_countries": [
+      "US"
+    ],
+    "spoken_languages": [
+      "de",
+      "it",
+      "fr",
+      "en"
+    ],
+    "certification": "",
+    "release_date": "2026-09-04",
+    "date_kind": "release",
+    "runtime": 99,
+    "providers": [],
+    "providers_wtw": []
+  },
+  "1848118": {
+    "id": 1848118,
+    "type": "movie",
+    "title": "My Little Sparrow",
+    "poster_path": "/owvRWmz9eXk9eKlb3kJagKO2m8f.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "In a quiet apartment in Vilnius, retired actress Elze falls in love through the glass of her screen with a distant Brazilian dancer who becomes her phantom muse. Through tarot readings, algorithmic signs, and unsent love letters, she transforms his digital echo into a personal, poetic manifesto of love that defies both distance and reality.",
+    "industry": "world",
+    "popularity": 0.0388,
+    "original_language": "en",
+    "origin_country": [
+      "US"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-28",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [],
+    "tagline": "",
+    "status": "In Production",
+    "production_countries": [],
+    "spoken_languages": [],
+    "certification": "",
+    "release_date": "2026-12-05",
+    "date_kind": "festival",
+    "runtime": 20,
+    "providers": [],
+    "providers_wtw": []
+  },
+  "1594516": {
+    "id": 1594516,
+    "type": "movie",
+    "title": "Holiday Ever After: A Disney World Wish Come True",
+    "poster_path": "/vqcyrYS72RVy4AVATbaiOvwR8G1.jpg",
+    "backdrop_path": "/vp62d2pIFGMZ8NUXFD6meufC3pU.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "Lindsey and her extended family head to Walt Disney World to spend a magical Christmas together, but the dream of a jolly holiday gets quickly dashed when Lindsey discovers her room is next door to Philip, a disastrous first date she recently had, who’s also there on a family trip. As Lindsey and Philip’s paths cross throughout their stay, the frost starts to thaw as they learn they’re not so different from each other after all. Thanks to some Walt Disney World magic, the holiday wish Lindsey made in Cinderella Fountain just might turn their rivalry into romance.",
+    "industry": "world",
+    "popularity": 3.0376,
+    "original_language": "en",
+    "origin_country": [
+      "US"
+    ],
+    "trailer": {
+      "key": "WZmH1-hTKM4",
+      "name": "Hallmark x Disney | Holiday Ever After: A Disney World Wish Come True | This Countdown to Christmas",
+      "site": "YouTube"
+    },
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-28",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Romance",
+      "Comedy",
+      "Family",
+      "TV Movie"
+    ],
+    "tagline": "",
+    "status": "Released",
+    "production_countries": [
+      "US"
+    ],
+    "spoken_languages": [
+      "en"
+    ],
+    "certification": "L",
+    "release_date": "2026-11-28",
+    "date_kind": "release",
+    "runtime": 0,
+    "providers": [],
+    "providers_wtw": []
+  },
+  "1013822": {
+    "id": 1013822,
+    "type": "movie",
+    "title": "The Dreamed Adventure",
+    "poster_path": "/aC2YiLDDs89mmb2n6Na0NbPKi0j.jpg",
+    "backdrop_path": "/pyyLuwfGtpO3Ki0KOBx44nK538n.jpg",
+    "vote_average": 6.0,
+    "vote_count": 12,
+    "overview": "Journeying home to the Bulgarian hinterlands on the border of Turkey and Greece, Saïd seeks out a fuel-smuggling deal with a small-time crook, attracting the attention of Iliya, the local kingpin. Sensing danger, Saïd enlists the help of one-time romantic interest Veska, an archaeologist who years earlier had fallen in with the swindlers and operators of the post-Communist era. But when Saïd goes missing, Veska takes over the smuggling operation, deftly moving among the thunderous, posturing men and coming-face-to-face with the underworld that shaped her past.",
+    "industry": "world",
+    "popularity": 1.4358,
+    "original_language": "de",
+    "origin_country": [
+      "DE"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-28",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Drama",
+      "Crime"
+    ],
+    "tagline": "",
+    "status": "Released",
+    "production_countries": [
+      "DE",
+      "FR",
+      "AT",
+      "BG"
+    ],
+    "spoken_languages": [
+      "bg"
+    ],
+    "certification": "12",
+    "release_date": "2026-07-15",
+    "date_kind": "release",
+    "runtime": 164,
+    "providers": [],
+    "providers_wtw": []
+  },
+  "1847528": {
+    "id": 1847528,
+    "type": "movie",
+    "title": "The Way Home",
+    "poster_path": "/lcKh3XQkfmvA8Zo6iEYhqsQe8bl.jpg",
+    "backdrop_path": "/1wqVY5IwhnvM8Jusq3oM18pYrpE.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "Dara gets the opportunity to rebrand the iconic kebaya fashion house owned by Madame Yati. However, her modern ideas are rejected, leaving Dara questioning her own perspective on the traditional garment. The rejection leads her back to her mother’s home. Amid piles of old kebayas waiting to be donated, Dara rediscovers cherished memories, familial love, and stories passed down through generations, all woven into the folds of each kebaya.",
+    "industry": "world",
+    "popularity": 0.2849,
+    "original_language": "id",
+    "origin_country": [
+      "ID"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-28",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Drama"
+    ],
+    "tagline": "",
+    "status": "Released",
+    "production_countries": [
+      "ID"
+    ],
+    "spoken_languages": [
+      "id",
+      "en",
+      "jv"
+    ],
+    "certification": "13+",
+    "release_date": "2026-12-05",
+    "date_kind": "release",
+    "runtime": 19,
+    "providers": [],
+    "providers_wtw": []
+  },
+  "1774011": {
+    "id": 1774011,
+    "type": "movie",
+    "title": "A Rescue Dog for Christmas",
+    "poster_path": "/lWNoKfEVFhlLM4RpMKbRIjYuCLg.jpg",
+    "backdrop_path": "/7iKifl3IeSn9tK2rNwgpSNtuBJb.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "Set in the charming town of Cedar Ridge, A Christmas Rescue follows dedicated physician Emma Ross who along with her dog, Shep, is determined to make her beloved community’s annual Christmas Cares celebration the most meaningful yet. When traveling veterinarian, Dr. Matthew McGuire arrives to temporarily take over the local animal clinic, he proposes adding a Christmas pet adoption event to the festivities. As they work side by side to bring people – and rescue animals – together for the holidays, Emma and Matthew discover that the greatest Christmas miracle may be finding a place where both hearts and shelter pets finally belong.",
+    "industry": "world",
+    "popularity": 1.8797,
+    "original_language": "en",
+    "origin_country": [
+      "US"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-28",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Romance",
+      "TV Movie"
+    ],
+    "tagline": "",
+    "status": "Released",
+    "production_countries": [
+      "US",
+      "CA"
+    ],
+    "spoken_languages": [
+      "en"
+    ],
+    "certification": "",
+    "release_date": "2026-11-28",
+    "date_kind": "release",
+    "runtime": 0,
+    "providers": [
+      {
+        "name": "Pure Flix",
+        "logo_path": "/qAccuffS0YOegynkbRchQeBrw7W.png",
+        "region": "US",
+        "type": "flatrate"
+      }
+    ],
+    "providers_wtw": [
+      {
+        "name": "Pure Flix",
+        "logo_path": "/qAccuffS0YOegynkbRchQeBrw7W.png",
+        "region": "US",
+        "kind": "flatrate"
+      }
+    ]
+  },
+  "1843360": {
+    "id": 1843360,
+    "type": "movie",
+    "title": "Deadly Indecency",
+    "poster_path": "/qRlWhdfxZyPHzh2UOCUkZVb6pvu.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "A hard-nosed detective and his bumbling partner take a missing person case from a mysterious widow and stumble into a deadly conspiracy surrounding a lost and censored 1941 film.",
+    "industry": "world",
+    "popularity": 0.0516,
+    "original_language": "en",
+    "origin_country": [
+      "US"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-28",
+    "source": "tmdb",
+    "budget": 3000,
+    "revenue": 0,
+    "genres": [
+      "Comedy",
+      "Crime",
+      "Mystery"
+    ],
+    "tagline": "Fark around and FIND OUT!",
+    "status": "Post Production",
+    "production_countries": [
+      "US"
+    ],
+    "spoken_languages": [
+      "en"
+    ],
+    "certification": "",
+    "release_date": "2026-12-05",
+    "date_kind": "festival",
+    "runtime": 21,
+    "providers": [],
+    "providers_wtw": []
+  },
+  "1741641": {
+    "id": 1741641,
+    "type": "movie",
+    "title": "Checking Inn for Christmas",
+    "poster_path": "/tfmKg7ish76aNHiymy82lRsziQ5.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "Ambitious writer Claire visits a new Christmas retreat for a career-making article, but falling for owner Julian forces her to choose between chasing headlines and embracing the season's true magic and her heart.",
+    "industry": "world",
+    "popularity": 1.7071,
+    "original_language": "en",
+    "origin_country": [
+      "US"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-28",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "TV Movie",
+      "Comedy",
+      "Romance"
+    ],
+    "tagline": "",
+    "status": "Released",
+    "production_countries": [
+      "US"
+    ],
+    "spoken_languages": [],
+    "certification": "",
+    "release_date": "2026-11-28",
+    "date_kind": "release",
+    "runtime": 0,
+    "providers": [],
+    "providers_wtw": []
+  },
+  "1839745": {
+    "id": 1839745,
+    "type": "movie",
+    "title": "西游记之真假美猴王",
+    "poster_path": "/oyaHMf2MuIwr6aVWIF9FLCEqDxq.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "",
+    "industry": "world",
+    "popularity": 0.2031,
+    "original_language": "zh",
+    "origin_country": [
+      "CN"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-28",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Animation",
+      "Fantasy",
+      "Adventure"
+    ],
+    "tagline": "",
+    "status": "In Production",
+    "production_countries": [],
+    "spoken_languages": [],
+    "certification": "",
+    "release_date": "2026-12-05",
+    "date_kind": "release",
+    "runtime": 0,
+    "providers": [],
+    "providers_wtw": []
+  },
+  "1741419": {
+    "id": 1741419,
+    "type": "movie",
+    "title": "WWE Survivor Series: WarGames 2026",
+    "poster_path": "/bd0RIvxejjzn3aaromB6MXNDmVP.jpg",
+    "backdrop_path": "/cuTP7tM1geeqAaThcwO9BsRzd7n.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "The 2026 Survivor Series: WarGames, also promoted as Survivor Series: WarGames Houston, is an upcoming professional wrestling pay-per-view and livestreaming event produced by WWE. It will be the 40th annual Survivor Series and will take place on November 28, 2026, at Daikin Park in Houston, Texas. This will be the fifth annual Survivor Series based around the WarGames match, a team-based steel cage match where the roofless cage surrounds two rings placed side by side.",
+    "industry": "world",
+    "popularity": 1.7493,
+    "original_language": "en",
+    "origin_country": [
+      "US"
+    ],
+    "trailer": {
+      "key": "STZjstREHHU",
+      "name": "BREAKING: Survivor Series set for Daikin Park in Houston on Saturday, Nov. 28",
+      "site": "YouTube"
+    },
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-28",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Action",
+      "Drama"
+    ],
+    "tagline": "",
+    "status": "Released",
+    "production_countries": [
+      "US"
+    ],
+    "spoken_languages": [
+      "en",
+      "es"
+    ],
+    "certification": "PG",
+    "release_date": "2026-11-28",
+    "date_kind": "release",
+    "runtime": 0,
+    "providers": [],
+    "providers_wtw": []
+  },
+  "1839407": {
+    "id": 1839407,
+    "type": "movie",
+    "title": "Home and Away",
+    "poster_path": "/hV9uj07yJapHyqYYySOvJY0Q1SA.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "A brother and a sister navigate life in different countries as their family faces an unexpected crisis",
+    "industry": "world",
+    "popularity": 0.1575,
+    "original_language": "en",
+    "origin_country": [
+      "NG"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-28",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Drama"
+    ],
+    "tagline": "",
+    "status": "In Production",
+    "production_countries": [],
+    "spoken_languages": [
+      "en"
+    ],
+    "certification": "",
+    "release_date": "2026-12-05",
+    "date_kind": "release",
+    "runtime": 23,
+    "providers": [],
+    "providers_wtw": []
+  },
+  "1811599": {
+    "id": 1811599,
+    "type": "movie",
+    "title": "Tyson Fury",
+    "poster_path": "/wAffyCmjFZOI3uvmVvpg7Lz8Yn5.jpg",
+    "backdrop_path": "/6bmg6cWBM6PzHM3ibeLDCNskABq.jpg",
+    "vote_average": 6.0,
+    "vote_count": 1,
+    "overview": "Discover the man beneath the Fury in this feature length documentary from Lucy Wilcox. With exclusive access to Paris, Tyson and John Fury, this film charts the rise, fall and redemption of the one and only Gypsy King.",
+    "industry": "world",
+    "popularity": 7.6807,
+    "original_language": "en",
+    "origin_country": [
+      "GB"
+    ],
+    "trailer": {
+      "key": "jb01qWUn62A",
+      "name": "Official Trailer",
+      "site": "YouTube"
+    },
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-28",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Documentary",
+      "Drama"
+    ],
+    "tagline": "",
+    "status": "Released",
+    "production_countries": [
+      "GB"
+    ],
+    "spoken_languages": [
+      "en"
+    ],
+    "certification": "NC16",
+    "release_date": "2026-11-27",
+    "date_kind": "release",
+    "runtime": 90,
+    "providers": [],
+    "providers_wtw": []
+  },
+  "1836598": {
+    "id": 1836598,
+    "type": "movie",
+    "title": "We, the Weapon",
+    "poster_path": "/xkWtomQcqWv37HR4wtzQ2Wctgl4.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "Five soldiers wait nervously for a potential enemy attack inside a confined bunker. As routine, boredom, and tension build, an unexpected emotional and intimate connection grows between two of the men, challenging traditional notions of masculinity and vulnerability.",
+    "industry": "world",
+    "popularity": 0.13,
+    "original_language": "xx",
+    "origin_country": [
+      "LB"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-28",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [],
+    "tagline": "",
+    "status": "In Production",
+    "production_countries": [],
+    "spoken_languages": [
+      "xx"
+    ],
+    "certification": "",
+    "release_date": "2026-12-05",
+    "date_kind": "festival",
+    "runtime": 22,
+    "providers": [],
+    "providers_wtw": []
+  },
+  "1748001": {
+    "id": 1748001,
+    "type": "movie",
+    "title": "Andrew Lloyd Webber's Starlight Express: Live On-Stage",
+    "poster_path": "/aE8fTHv9lKYmKBM6eqzvCfki8Bw.jpg",
+    "backdrop_path": "/jXyLOsSdfP38CYs4k6gKAYHrqVe.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "Andrew Lloyd Webber's Starlight Express races back onto the stage in a spectacular new production, where trains come to life, dreams are on the line, and only one can become champion.",
+    "industry": "world",
+    "popularity": 1.8204,
+    "original_language": "en",
+    "origin_country": [
+      "GB"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-28",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Music"
+    ],
+    "tagline": "Every dream has a destination",
+    "status": "Released",
+    "production_countries": [
+      "GB"
+    ],
+    "spoken_languages": [
+      "en"
+    ],
+    "certification": "0",
+    "release_date": "2026-11-26",
+    "date_kind": "release",
+    "runtime": 125,
+    "providers": [],
+    "providers_wtw": []
+  },
+  "1829144": {
+    "id": 1829144,
+    "type": "movie",
+    "title": "Chasing Impossible: The Full Story of Lost Ratones",
+    "poster_path": "/7KWzc7DyTQXltz9MuSCwlOmPQs6.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "They proved the doubters wrong. And they did it their way.  Chasing Impossible: The Full Story of Los Ratones follows the rise of one of League of Legends’ most unconventional teams, from streams, memes and friendship to the biggest stages in European League of Legends.  Go behind the scenes with Los Ratones for the full story behind the impossible run.",
+    "industry": "world",
+    "popularity": 0.3578,
+    "original_language": "en",
+    "origin_country": [
+      "US"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-28",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Documentary"
+    ],
+    "tagline": "They proved the doubters wrong. And they did it their way.",
+    "status": "In Production",
+    "production_countries": [],
+    "spoken_languages": [],
+    "certification": "12A",
+    "release_date": "2026-12-05",
+    "date_kind": "release",
+    "runtime": 0,
+    "providers": [],
+    "providers_wtw": []
+  },
+  "1708090": {
+    "id": 1708090,
+    "type": "movie",
+    "title": "La notte delle fragole",
+    "poster_path": "/zW9saC1YPpD4VPVCyDbhsGdzjxu.jpg",
+    "backdrop_path": "/yVBsmVBD5DKJRX1U5PVXlVL6L35.jpg",
+    "vote_average": 4.0,
+    "vote_count": 1,
+    "overview": "An entertaining comedy in which forced cohabitations, unresolved feelings and new encounters will give life to hilarious and unpredictable situations, without moments of reflection and humanity.",
+    "industry": "world",
+    "popularity": 1.5845,
+    "original_language": "it",
+    "origin_country": [
+      "IT"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-28",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Comedy"
+    ],
+    "tagline": "",
+    "status": "Released",
+    "production_countries": [
+      "IT"
+    ],
+    "spoken_languages": [
+      "it"
+    ],
+    "certification": "",
+    "release_date": "2026-11-26",
+    "date_kind": "release",
+    "runtime": 91,
+    "providers": [],
+    "providers_wtw": []
+  },
+  "1829142": {
+    "id": 1829142,
+    "type": "movie",
+    "title": "Kamusta, Mahal?",
+    "poster_path": "/eOrpO7bDaKK2Z86S4hFcgw163u2.jpg",
+    "backdrop_path": "/1gr1pJnkwEFvGrmn2ZYpyID6O4p.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "Kairo Lopez Mendoza becomes friends with their new transferee Daniel Francis Santos, until their friendship turns into a romantic relationship. When suddenly Daniel gets into a car accident and unfortunately passes away, Kairo is left with the pain of losing his greatest love. Influenced by his peers,  Hanz and James to try a drug to relieve his pain and depression from losing Daniel.",
+    "industry": "world",
+    "popularity": 0.6334,
+    "original_language": "tl",
+    "origin_country": [
+      "US",
+      "PH"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-28",
+    "source": "tmdb",
+    "budget": 100,
+    "revenue": 150,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "tagline": "ANG ALA-ALA MO, AY HABANG BUHAY KONG DALA",
+    "status": "In Production",
+    "production_countries": [],
+    "spoken_languages": [
+      "tl",
+      "en"
+    ],
+    "certification": "PG-13",
+    "release_date": "2026-12-05",
+    "date_kind": "release",
+    "runtime": 13,
     "providers": [],
     "providers_wtw": []
   }

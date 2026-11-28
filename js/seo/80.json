@@ -330,8 +330,8 @@
    "year": "1980"
   },
   "movie:1179380": {
-   "d": "Cosmic Samson (2026): Science Fiction/Fantasy film. Story: Samson Joseph is an aspiring filmmaker, who fails to… See cast and release date 27 November 2026.",
-   "img": "https://image.tmdb.org/t/p/w780/z1K9UNUGVicJZC89VDEgif2f8fX.jpg",
+   "d": "Cosmic Samson (2026): Science Fiction/Fantasy film. Story: Samson Joseph is an aspiring filmmaker, who fails to… See cast and TMDB rating 1.5/10.",
+   "img": "https://image.tmdb.org/t/p/w780/ravPP5uoZIHsjp4ed6qw38MSOaw.jpg",
    "industry": "bollywood",
    "k": "Cosmic Samson, Cosmic Samson movie, Cosmic Samson cast, Cosmic Samson story, Cosmic Samson box office collection, Cosmic Samson budget, Cosmic Samson review, Cosmic Samson rating, Cosmic Samson release date, Cosmic Samson Science Fiction, Cosmic Samson Fantasy, Indian movies, FlickAtlas",
    "ld": {
@@ -359,7 +359,14 @@
       "name": "Mukesh"
      }
     ],
-    "description": "Cosmic Samson (2026): Science Fiction/Fantasy film. Story: Samson Joseph is an aspiring filmmaker, who fails to… See cast and release date 27 November 2026.",
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 1,
+     "ratingValue": 1.5,
+     "worstRating": 0
+    },
+    "description": "Cosmic Samson (2026): Science Fiction/Fantasy film. Story: Samson Joseph is an aspiring filmmaker, who fails to… See cast and TMDB rating 1.5/10.",
     "director": [
      {
       "@type": "Person",
@@ -371,7 +378,7 @@
      "Science Fiction",
      "Fantasy"
     ],
-    "image": "https://image.tmdb.org/t/p/w780/z1K9UNUGVicJZC89VDEgif2f8fX.jpg",
+    "image": "https://image.tmdb.org/t/p/w780/ravPP5uoZIHsjp4ed6qw38MSOaw.jpg",
     "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1179380",
     "name": "Cosmic Samson",
     "releasedEvent": {
@@ -382,7 +389,7 @@
    },
    "modified": "",
    "published": "2026-11-20",
-   "ssr": "<article class=\"ssr-facts\">\n<h1>Cosmic Samson (2026)</h1>\n<p class=\"ssr-lead\">Samson Joseph is an aspiring filmmaker, who fails to find a breakthrough in his career. One day, an unexpected event takes place in his life, completely changing his destiny.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 27 November 2026</li><li>Runtime: 123 minutes</li><li>Director: Abhijith Joseph</li><li>Genres: Science Fiction, Fantasy, Comedy, Action</li><li>Tagline: Ordinary guy. Extraordinary universe.</li><li>Certification: U/A 16+</li><li>Original language: Malayalam</li><li>Spoken languages: Malayalam</li><li>Production countries: India</li></ul>\n<h2>Top cast</h2>\n<ul><li>Sandeep Pradeep as Samson</li><li>Riyaa Jithu</li><li>Anuraj OB</li><li>Midhun Venugopal</li><li>Mukesh</li><li>Miya George</li><li>Althaf Salim</li><li>Alphonse Puthren</li><li>Shiva Hariharan</li><li>Shabareesh Varma</li></ul>\n</article>",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Cosmic Samson (2026)</h1>\n<p class=\"ssr-lead\">Samson Joseph is an aspiring filmmaker, who fails to find a breakthrough in his career. One day, an unexpected event takes place in his life, completely changing his destiny.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 27 November 2026</li><li>Runtime: 123 minutes</li><li>Director: Abhijith Joseph</li><li>Genres: Science Fiction, Fantasy, Comedy, Action</li><li>Tagline: Ordinary guy. Extraordinary universe.</li><li>Certification: U/A 16+</li><li>Original language: Malayalam</li><li>Spoken languages: Malayalam</li><li>Production countries: India</li><li>TMDB rating: 1.5/10 (1 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Sandeep Pradeep as Samson</li><li>Riyaa Jithu</li><li>Anuraj OB</li><li>Midhun Venugopal</li><li>Mukesh</li><li>Miya George</li><li>Althaf Salim</li><li>Alphonse Puthren</li><li>Shiva Hariharan</li><li>Shabareesh Varma</li></ul>\n</article>",
    "t": "Cosmic Samson (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2026"
   },
@@ -1971,7 +1978,7 @@
    "modified": "",
    "published": "2026-11-21",
    "robots": "noindex,follow",
-   "ssr": "<article class=\"ssr-facts\">\n<h1>Sguardi (2026)</h1>\n<h2>Key facts</h2>\n<ul><li>Release date: 28 November 2026</li><li>Director: Marco Ponti</li><li>Original language: IT</li><li>Status: In Production</li></ul>\n<h2>Top cast</h2>\n<ul><li>Jovanotti</li><li>Valeria Bruni Tedeschi</li><li>Alessandro Baricco</li><li>Luciana Littizzetto</li></ul>\n</article>",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Sguardi (2026)</h1>\n<h2>Key facts</h2>\n<ul><li>Release date: 28 November 2026</li><li>Director: Marco Ponti</li><li>Original language: IT</li></ul>\n<h2>Top cast</h2>\n<ul><li>Jovanotti</li><li>Valeria Bruni Tedeschi</li><li>Alessandro Baricco</li><li>Luciana Littizzetto</li></ul>\n</article>",
    "t": "Sguardi (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2026"
   },

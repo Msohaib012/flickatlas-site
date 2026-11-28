@@ -5638,7 +5638,7 @@ window.FA_PUBLISHED = {
     "status": "Released",
     "providers": [],
     "release_date": "2026-11-27",
-    "popularity": 0.7854
+    "popularity": 0.5418
   },
   "1806454": {
     "id": 1806454,
@@ -26694,8 +26694,8 @@ window.FA_PUBLISHED = {
     "title": "Paper Tiger",
     "poster_path": "/p6oLmq5KmuWY6uRXBQBL2q30jia.jpg",
     "backdrop_path": "/7QshsnWS3NIZp60qMgcYm1C6dxm.jpg",
-    "vote_average": 8.125,
-    "vote_count": 16,
+    "vote_average": 7.646,
+    "vote_count": 24,
     "overview": "Two brothers become entangled in a scheme that turns out to be too good to be true. As they try to navigate their way through the dangerous world of the Russian mafia, family bonds begin to fray with life-altering consequences.",
     "industry": "world",
     "original_language": "en",
@@ -26719,7 +26719,7 @@ window.FA_PUBLISHED = {
     "status": "Released",
     "providers": [],
     "release_date": "2026-11-27",
-    "popularity": 18.9781
+    "popularity": 18.8057
   },
   "1522938": {
     "id": 1522938,
@@ -32384,7 +32384,7 @@ window.FA_PUBLISHED = {
     "status": "Released",
     "providers": [],
     "release_date": "2026-11-28",
-    "popularity": 0.1609
+    "popularity": 0.3582
   },
   "1818285": {
     "id": 1818285,
@@ -34202,7 +34202,7 @@ window.FA_PUBLISHED = {
     "id": 1209723,
     "type": "movie",
     "title": "Yeh Prem Mol Liya",
-    "poster_path": "/kUxkvh6GMZL4AHNgNDty68yTnwQ.jpg",
+    "poster_path": "/dtI3xTdEPmBiIPXLDgDxNKHCkDV.jpg",
     "backdrop_path": "/ixHRFxlPRqCvCJ5gk0aScUAEfrx.jpg",
     "vote_average": 0.0,
     "vote_count": 0,
@@ -34248,7 +34248,7 @@ window.FA_PUBLISHED = {
     "status": "Released",
     "providers": [],
     "release_date": "2026-11-27",
-    "popularity": 0.9011
+    "popularity": 0.9753
   },
   "1287520": {
     "id": 1287520,
@@ -34344,7 +34344,7 @@ window.FA_PUBLISHED = {
     "status": "Released",
     "providers": [],
     "release_date": "2026-11-27",
-    "popularity": 1.5141
+    "popularity": 1.2283
   },
   "1504630": {
     "id": 1504630,
@@ -34370,8 +34370,8 @@ window.FA_PUBLISHED = {
     "date_kind": "release",
     "status": "Post Production",
     "providers": [],
-    "release_date": "2026-11-27",
-    "popularity": 1.4554
+    "release_date": "2026-12-11",
+    "popularity": 1.5919
   },
   "1831364": {
     "id": 1831364,
@@ -34398,7 +34398,7 @@ window.FA_PUBLISHED = {
     "status": "Released",
     "providers": [],
     "release_date": "2026-11-27",
-    "popularity": 0.2956
+    "popularity": 0.763
   },
   "1595124": {
     "id": 1595124,
@@ -34460,13 +34460,13 @@ window.FA_PUBLISHED = {
     "status": "Released",
     "providers": [],
     "release_date": "2026-11-27",
-    "popularity": 1.1607
+    "popularity": 1.2831
   },
   "1831299": {
     "id": 1831299,
     "type": "movie",
     "title": "La télé sans filtre, 30 ans d'impertinence",
-    "poster_path": "/77yTBcMWGA3cjoPO9JfIrHx6eyr.jpg",
+    "poster_path": "/hV9dUVPGx1KLPOFPguCerV8gL4t.jpg",
     "backdrop_path": "/xP4buNKjCSUKLGofGogLVsL0k5d.jpg",
     "vote_average": 0.0,
     "vote_count": 0,
@@ -34487,7 +34487,7 @@ window.FA_PUBLISHED = {
     "status": "Released",
     "providers": [],
     "release_date": "2026-11-27",
-    "popularity": 0.5111
+    "popularity": 1.0598
   },
   "1599230": {
     "id": 1599230,
@@ -34523,9 +34523,9 @@ window.FA_PUBLISHED = {
     "type": "movie",
     "title": "Cosmic Samson",
     "poster_path": "/bLZt3m1itByeC8PubRkRQ3Lmqey.jpg",
-    "backdrop_path": "/z1K9UNUGVicJZC89VDEgif2f8fX.jpg",
-    "vote_average": 0.0,
-    "vote_count": 0,
+    "backdrop_path": "/ravPP5uoZIHsjp4ed6qw38MSOaw.jpg",
+    "vote_average": 1.5,
+    "vote_count": 1,
     "overview": "Samson Joseph is an aspiring filmmaker, who fails to find a breakthrough in his career. One day, an unexpected event takes place in his life, completely changing his destiny.",
     "industry": "bollywood",
     "original_language": "ml",
@@ -34543,7 +34543,7 @@ window.FA_PUBLISHED = {
     "status": "Released",
     "providers": [],
     "release_date": "2026-11-27",
-    "popularity": 1.8829
+    "popularity": 2.39
   },
   "1830763": {
     "id": 1830763,
@@ -34570,7 +34570,7 @@ window.FA_PUBLISHED = {
     "status": "Released",
     "providers": [],
     "release_date": "2026-11-27",
-    "popularity": 0.6659
+    "popularity": 0.8497
   },
   "920167": {
     "id": 920167,
@@ -34624,7 +34624,7 @@ window.FA_PUBLISHED = {
     "status": "Released",
     "providers": [],
     "release_date": "2026-11-27",
-    "popularity": 2.2818
+    "popularity": 4.1618
   },
   "1828882": {
     "id": 1828882,
@@ -34647,7 +34647,7 @@ window.FA_PUBLISHED = {
     "status": "Released",
     "providers": [],
     "release_date": "2026-11-27",
-    "popularity": 0.5904
+    "popularity": 0.7983
   },
   "1752150": {
     "id": 1752150,
@@ -34698,7 +34698,7 @@ window.FA_PUBLISHED = {
     "status": "Released",
     "providers": [],
     "release_date": "2026-11-27",
-    "popularity": 0.0569
+    "popularity": 0.1654
   },
   "1597242": {
     "id": 1597242,
@@ -34789,8 +34789,8 @@ window.FA_PUBLISHED = {
     "id": 1510775,
     "type": "movie",
     "title": "Gunmaaster G9",
-    "poster_path": "/vDYF2q48AIvBRpFiqKj6lKyM0p6.jpg",
-    "backdrop_path": "/l2mK4l8DI57CMAXlERKiaJE3v0y.jpg",
+    "poster_path": "/pmJorxOA59nc6u5xiPhQm9QZOPs.jpg",
+    "backdrop_path": "/8flf9C0icBIopZw6Un5NxvWeBAn.jpg",
     "vote_average": 0.0,
     "vote_count": 0,
     "overview": "A man in love takes extreme measures to be with the woman he desires, facing off against a dangerous adversary.",
@@ -34810,7 +34810,7 @@ window.FA_PUBLISHED = {
     "status": "Released",
     "providers": [],
     "release_date": "2026-11-27",
-    "popularity": 1.6267
+    "popularity": 5.6869
   },
   "1827616": {
     "id": 1827616,
@@ -34833,7 +34833,7 @@ window.FA_PUBLISHED = {
     "status": "Released",
     "providers": [],
     "release_date": "2026-11-27",
-    "popularity": 0.1263
+    "popularity": 0.1522
   },
   "1015887": {
     "id": 1015887,
@@ -34917,7 +34917,7 @@ window.FA_PUBLISHED = {
     "status": "Released",
     "providers": [],
     "release_date": "2026-11-27",
-    "popularity": 0.6804
+    "popularity": 0.8405
   },
   "1826868": {
     "id": 1826868,
@@ -34944,7 +34944,7 @@ window.FA_PUBLISHED = {
     "status": "Released",
     "providers": [],
     "release_date": "2026-11-27",
-    "popularity": 0.1846
+    "popularity": 0.4364
   },
   "1135463": {
     "id": 1135463,
@@ -34999,7 +34999,7 @@ window.FA_PUBLISHED = {
     "status": "Released",
     "providers": [],
     "release_date": "2026-11-27",
-    "popularity": 1.1429
+    "popularity": 1.3953
   },
   "1824669": {
     "id": 1824669,
@@ -35076,7 +35076,7 @@ window.FA_PUBLISHED = {
     "status": "Released",
     "providers": [],
     "release_date": "2026-11-27",
-    "popularity": 0.4519
+    "popularity": 5.887
   },
   "1679486": {
     "id": 1679486,
@@ -35126,7 +35126,7 @@ window.FA_PUBLISHED = {
     "status": "Released",
     "providers": [],
     "release_date": "2026-11-27",
-    "popularity": 0.7634
+    "popularity": 0.5998
   },
   "1698629": {
     "id": 1698629,
@@ -35187,7 +35187,7 @@ window.FA_PUBLISHED = {
     "status": "Released",
     "providers": [],
     "release_date": "2026-11-27",
-    "popularity": 0.0601
+    "popularity": 0.05
   },
   "1790040": {
     "id": 1790040,
@@ -35302,7 +35302,7 @@ window.FA_PUBLISHED = {
     "backdrop_path": "/zme00qR9FeRO6MmBn34GStjhxOZ.jpg",
     "vote_average": 0.0,
     "vote_count": 0,
-    "overview": "",
+    "overview": "A one-man comedy show tracing Jeanfi Janssens’s unexpected journey from ordinary Air France flight attendant to recognizable show-business personality. Rather than a fictional plot, the show unfolds as a continuous narrative of personal chapters as he approaches 50. He opens by reflecting on the culture shock of landing in celebrity circles and the awkwardness of being recognized during mundane moments, like struggling with plastic bags at the supermarket. From there, he flashes back to his strict Catholic boarding school upbringing with nuns and his quirky superstitions. The heart of the show explores his close bond with his northern French mother, devotion to his cat Duchesse, compulsive shopping, and candid, self-deprecating stories about his dating life and romantic misadventures as an openly gay man. Finally, he wraps up with relatable routines on aging, early medical mishaps, and gratitude for life's unexpected turns.",
     "industry": "world",
     "original_language": "fr",
     "origin_country": [
@@ -35316,10 +35316,10 @@ window.FA_PUBLISHED = {
     ],
     "published_at": "2026-11-21",
     "date_kind": "release",
-    "status": "Post Production",
+    "status": "Released",
     "providers": [],
     "release_date": "2026-11-28",
-    "popularity": 0.0194
+    "popularity": 0.3103
   },
   "1814779": {
     "id": 1814779,
@@ -35392,10 +35392,10 @@ window.FA_PUBLISHED = {
     ],
     "published_at": "2026-11-21",
     "date_kind": "release",
-    "status": "Post Production",
+    "status": "Released",
     "providers": [],
     "release_date": "2026-11-28",
-    "popularity": 0
+    "popularity": 0.1311
   },
   "1608012": {
     "id": 1608012,
@@ -35446,10 +35446,10 @@ window.FA_PUBLISHED = {
     ],
     "published_at": "2026-11-21",
     "date_kind": "festival",
-    "status": "Post Production",
+    "status": "Released",
     "providers": [],
     "release_date": "2026-11-28",
-    "popularity": 0.2856
+    "popularity": 0.458
   },
   "1596276": {
     "id": 1596276,
@@ -35509,10 +35509,10 @@ window.FA_PUBLISHED = {
     ],
     "published_at": "2026-11-21",
     "date_kind": "release",
-    "status": "In Production",
+    "status": "Released",
     "providers": [],
     "release_date": "2026-11-28",
-    "popularity": 0.2473
+    "popularity": 0.2763
   },
   "1550356": {
     "id": 1550356,
@@ -35559,10 +35559,10 @@ window.FA_PUBLISHED = {
     "spoken_languages": [],
     "published_at": "2026-11-21",
     "date_kind": "release",
-    "status": "In Production",
+    "status": "Released",
     "providers": [],
     "release_date": "2026-11-28",
-    "popularity": 0.0838
+    "popularity": 0.3104
   },
   "1684294": {
     "id": 1684294,
@@ -35622,10 +35622,10 @@ window.FA_PUBLISHED = {
     "spoken_languages": [],
     "published_at": "2026-11-21",
     "date_kind": "festival",
-    "status": "In Production",
+    "status": "Released",
     "providers": [],
     "release_date": "2026-11-28",
-    "popularity": 0.1488
+    "popularity": 0.2517
   },
   "1804968": {
     "id": 1804968,
@@ -35683,10 +35683,10 @@ window.FA_PUBLISHED = {
     ],
     "published_at": "2026-11-21",
     "date_kind": "release",
-    "status": "Post Production",
+    "status": "Released",
     "providers": [],
     "release_date": "2026-11-28",
-    "popularity": 0.3343
+    "popularity": 0.0347
   },
   "1625344": {
     "id": 1625344,
@@ -35737,10 +35737,10 @@ window.FA_PUBLISHED = {
     ],
     "published_at": "2026-11-21",
     "date_kind": "release",
-    "status": "In Production",
+    "status": "Released",
     "providers": [],
     "release_date": "2026-11-28",
-    "popularity": 0.0919
+    "popularity": 0.3285
   },
   "1833997": {
     "id": 1833997,
@@ -35760,10 +35760,10 @@ window.FA_PUBLISHED = {
     "spoken_languages": [],
     "published_at": "2026-11-21",
     "date_kind": "release",
-    "status": "Planned",
+    "status": "Released",
     "providers": [],
     "release_date": "2026-11-28",
-    "popularity": 0
+    "popularity": 0.2656
   },
   "1458249": {
     "id": 1458249,
@@ -35854,10 +35854,10 @@ window.FA_PUBLISHED = {
     ],
     "published_at": "2026-11-21",
     "date_kind": "release",
-    "status": "In Production",
+    "status": "Released",
     "providers": [],
     "release_date": "2026-11-28",
-    "popularity": 0.2386
+    "popularity": 0.2644
   },
   "1694711": {
     "id": 1694711,
@@ -35908,10 +35908,10 @@ window.FA_PUBLISHED = {
     ],
     "published_at": "2026-11-21",
     "date_kind": "release",
-    "status": "In Production",
+    "status": "Released",
     "providers": [],
     "release_date": "2026-11-28",
-    "popularity": 0.2051
+    "popularity": 0.1363
   },
   "1827471": {
     "id": 1827471,
@@ -35970,7 +35970,7 @@ window.FA_PUBLISHED = {
     "status": "Released",
     "providers": [],
     "release_date": "2026-11-28",
-    "popularity": 0.2715
+    "popularity": 0.062
   },
   "1796954": {
     "id": 1796954,
@@ -36017,10 +36017,10 @@ window.FA_PUBLISHED = {
     "spoken_languages": [],
     "published_at": "2026-11-21",
     "date_kind": "release",
-    "status": "In Production",
+    "status": "Released",
     "providers": [],
     "release_date": "2026-11-28",
-    "popularity": 0.2506
+    "popularity": 0.1117
   },
   "1791730": {
     "id": 1791730,
@@ -36074,10 +36074,10 @@ window.FA_PUBLISHED = {
     "spoken_languages": [],
     "published_at": "2026-11-21",
     "date_kind": "release",
-    "status": "In Production",
+    "status": "Released",
     "providers": [],
     "release_date": "2026-11-28",
-    "popularity": 0.4382
+    "popularity": 0.504
   },
   "1514611": {
     "id": 1514611,
@@ -36124,10 +36124,10 @@ window.FA_PUBLISHED = {
     "spoken_languages": [],
     "published_at": "2026-11-21",
     "date_kind": "festival",
-    "status": "Post Production",
+    "status": "Released",
     "providers": [],
     "release_date": "2026-11-28",
-    "popularity": 0.2276
+    "popularity": 0.2354
   },
   "1818625": {
     "id": 1818625,
@@ -36147,10 +36147,10 @@ window.FA_PUBLISHED = {
     "spoken_languages": [],
     "published_at": "2026-11-21",
     "date_kind": "festival",
-    "status": "In Production",
+    "status": "Released",
     "providers": [],
     "release_date": "2026-11-28",
-    "popularity": 0.2934
+    "popularity": 0.1762
   },
   "1818380": {
     "id": 1818380,
@@ -36170,10 +36170,10 @@ window.FA_PUBLISHED = {
     "spoken_languages": [],
     "published_at": "2026-11-21",
     "date_kind": "festival",
-    "status": "In Production",
+    "status": "Released",
     "providers": [],
     "release_date": "2026-11-28",
-    "popularity": 0.1585
+    "popularity": 0.1895
   },
   "1817684": {
     "id": 1817684,
@@ -36193,10 +36193,10 @@ window.FA_PUBLISHED = {
     "spoken_languages": [],
     "published_at": "2026-11-21",
     "date_kind": "release",
-    "status": "In Production",
+    "status": "Released",
     "providers": [],
     "release_date": "2026-11-28",
-    "popularity": 0.3628
+    "popularity": 0.6721
   },
   "1814527": {
     "id": 1814527,
@@ -36218,10 +36218,10 @@ window.FA_PUBLISHED = {
     "spoken_languages": [],
     "published_at": "2026-11-21",
     "date_kind": "release",
-    "status": "In Production",
+    "status": "Released",
     "providers": [],
     "release_date": "2026-11-28",
-    "popularity": 0.3435
+    "popularity": 0.2246
   },
   "1810889": {
     "id": 1810889,
@@ -36241,10 +36241,10 @@ window.FA_PUBLISHED = {
     "spoken_languages": [],
     "published_at": "2026-11-21",
     "date_kind": "release",
-    "status": "In Production",
+    "status": "Released",
     "providers": [],
     "release_date": "2026-11-28",
-    "popularity": 0.1496
+    "popularity": 0.1964
   },
   "1799512": {
     "id": 1799512,
@@ -36268,10 +36268,10 @@ window.FA_PUBLISHED = {
     ],
     "published_at": "2026-11-21",
     "date_kind": "release",
-    "status": "Post Production",
+    "status": "Released",
     "providers": [],
     "release_date": "2026-11-28",
-    "popularity": 0.7534
+    "popularity": 1.2001
   },
   "1836066": {
     "id": 1836066,
@@ -42883,5 +42883,541 @@ window.FA_PUBLISHED = {
     "providers": [],
     "release_date": "2026-12-04",
     "popularity": 0.019
+  },
+  "1793000": {
+    "id": 1793000,
+    "type": "movie",
+    "title": "The Hangover Cure",
+    "poster_path": "/uqWQYj70EFjytudhSVLta0e71vs.jpg",
+    "backdrop_path": "/1duOP8BcdgzeEHmcE3bigpuzkMP.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "A sudden power outage forces flatmates Arindam, a burdened corporate employee, and Manek, a struggling aspiring writer, away from their screens and into a deep conversation.",
+    "industry": "bollywood",
+    "original_language": "hi",
+    "origin_country": [
+      "IN"
+    ],
+    "production_countries": [
+      "IN"
+    ],
+    "spoken_languages": [
+      "hi"
+    ],
+    "published_at": "2026-11-28",
+    "date_kind": "festival",
+    "status": "Released",
+    "providers": [],
+    "release_date": "2026-11-28",
+    "popularity": 0.3295
+  },
+  "337904": {
+    "id": 337904,
+    "type": "tv",
+    "title": "AndherPura Curse",
+    "poster_path": "/7Ubhq7VpG2Zby5Vohijre1xIyy9.jpg",
+    "backdrop_path": "/uxx8quqUarTQmqXICH8dk3zJ5mI.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "AndherPura Curse Is A Minecraft Series Presented By SmilyBag.",
+    "industry": "bollywood",
+    "original_language": "hi",
+    "origin_country": [
+      "IN"
+    ],
+    "production_countries": [],
+    "spoken_languages": [
+      "hi"
+    ],
+    "published_at": "2026-11-28",
+    "status": "Returning Series",
+    "providers": [],
+    "first_air_date": "2026-11-28",
+    "popularity": 1.7127
+  },
+  "1782793": {
+    "id": 1782793,
+    "type": "movie",
+    "title": "Marriage Party",
+    "poster_path": "/iZJXnO4WKkoKwJ5osLH5iPzMW6I.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "A coastal Karnataka village wedding becomes the center of a series of hilarious and unexpected incidents. As family traditions relationships and village characters collide, the celebrations turn into chaos, bringing comedy horror and drama",
+    "industry": "bollywood",
+    "original_language": "kn",
+    "origin_country": [
+      "IN"
+    ],
+    "production_countries": [
+      "IN"
+    ],
+    "spoken_languages": [
+      "kn"
+    ],
+    "published_at": "2026-11-28",
+    "date_kind": "release",
+    "status": "Post Production",
+    "providers": [],
+    "release_date": "2026-12-04",
+    "popularity": 0.3033
+  },
+  "1599181": {
+    "id": 1599181,
+    "type": "movie",
+    "title": "Chronovisor",
+    "poster_path": "/AngfVgLk5EngnbuFpISjvFJkYBz.jpg",
+    "backdrop_path": "/fpv7UeON9GgkOIjCHQV2LdY3J99.jpg",
+    "vote_average": 8.0,
+    "vote_count": 2,
+    "overview": "A French academic is seduced into a world of untold histories in her scholarly quest to uncover the mystery of a history-capturing camera-like machine created by clandestine Benedictine monks.",
+    "industry": "world",
+    "original_language": "en",
+    "origin_country": [
+      "US"
+    ],
+    "production_countries": [
+      "US"
+    ],
+    "spoken_languages": [
+      "de",
+      "it",
+      "fr",
+      "en"
+    ],
+    "published_at": "2026-11-28",
+    "date_kind": "release",
+    "status": "Released",
+    "providers": [],
+    "release_date": "2026-09-04",
+    "popularity": 1.3218
+  },
+  "1848118": {
+    "id": 1848118,
+    "type": "movie",
+    "title": "My Little Sparrow",
+    "poster_path": "/owvRWmz9eXk9eKlb3kJagKO2m8f.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "In a quiet apartment in Vilnius, retired actress Elze falls in love through the glass of her screen with a distant Brazilian dancer who becomes her phantom muse. Through tarot readings, algorithmic signs, and unsent love letters, she transforms his digital echo into a personal, poetic manifesto of love that defies both distance and reality.",
+    "industry": "world",
+    "original_language": "en",
+    "origin_country": [
+      "US"
+    ],
+    "production_countries": [],
+    "spoken_languages": [],
+    "published_at": "2026-11-28",
+    "date_kind": "festival",
+    "status": "In Production",
+    "providers": [],
+    "release_date": "2026-12-05",
+    "popularity": 0.0388
+  },
+  "1594516": {
+    "id": 1594516,
+    "type": "movie",
+    "title": "Holiday Ever After: A Disney World Wish Come True",
+    "poster_path": "/vqcyrYS72RVy4AVATbaiOvwR8G1.jpg",
+    "backdrop_path": "/vp62d2pIFGMZ8NUXFD6meufC3pU.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "Lindsey and her extended family head to Walt Disney World to spend a magical Christmas together, but the dream of a jolly holiday gets quickly dashed when Lindsey discovers her room is next door to Philip, a disastrous first date she recently had, who’s also there on a family trip. As Lindsey and Philip’s paths cross throughout their stay, the frost starts to thaw as they learn they’re not so different from each other after all. Thanks to some Walt Disney World magic, the holiday wish Lindsey made in Cinderella Fountain just might turn their rivalry into romance.",
+    "industry": "world",
+    "original_language": "en",
+    "origin_country": [
+      "US"
+    ],
+    "production_countries": [
+      "US"
+    ],
+    "spoken_languages": [
+      "en"
+    ],
+    "published_at": "2026-11-28",
+    "date_kind": "release",
+    "status": "Released",
+    "providers": [],
+    "release_date": "2026-11-28",
+    "popularity": 3.0376
+  },
+  "1013822": {
+    "id": 1013822,
+    "type": "movie",
+    "title": "The Dreamed Adventure",
+    "poster_path": "/aC2YiLDDs89mmb2n6Na0NbPKi0j.jpg",
+    "backdrop_path": "/pyyLuwfGtpO3Ki0KOBx44nK538n.jpg",
+    "vote_average": 6.0,
+    "vote_count": 12,
+    "overview": "Journeying home to the Bulgarian hinterlands on the border of Turkey and Greece, Saïd seeks out a fuel-smuggling deal with a small-time crook, attracting the attention of Iliya, the local kingpin. Sensing danger, Saïd enlists the help of one-time romantic interest Veska, an archaeologist who years earlier had fallen in with the swindlers and operators of the post-Communist era. But when Saïd goes missing, Veska takes over the smuggling operation, deftly moving among the thunderous, posturing men and coming-face-to-face with the underworld that shaped her past.",
+    "industry": "world",
+    "original_language": "de",
+    "origin_country": [
+      "DE"
+    ],
+    "production_countries": [
+      "DE",
+      "FR",
+      "AT",
+      "BG"
+    ],
+    "spoken_languages": [
+      "bg"
+    ],
+    "published_at": "2026-11-28",
+    "date_kind": "release",
+    "status": "Released",
+    "providers": [],
+    "release_date": "2026-07-15",
+    "popularity": 1.4358
+  },
+  "1847528": {
+    "id": 1847528,
+    "type": "movie",
+    "title": "The Way Home",
+    "poster_path": "/lcKh3XQkfmvA8Zo6iEYhqsQe8bl.jpg",
+    "backdrop_path": "/1wqVY5IwhnvM8Jusq3oM18pYrpE.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "Dara gets the opportunity to rebrand the iconic kebaya fashion house owned by Madame Yati. However, her modern ideas are rejected, leaving Dara questioning her own perspective on the traditional garment. The rejection leads her back to her mother’s home. Amid piles of old kebayas waiting to be donated, Dara rediscovers cherished memories, familial love, and stories passed down through generations, all woven into the folds of each kebaya.",
+    "industry": "world",
+    "original_language": "id",
+    "origin_country": [
+      "ID"
+    ],
+    "production_countries": [
+      "ID"
+    ],
+    "spoken_languages": [
+      "id",
+      "en",
+      "jv"
+    ],
+    "published_at": "2026-11-28",
+    "date_kind": "release",
+    "status": "Released",
+    "providers": [],
+    "release_date": "2026-12-05",
+    "popularity": 0.2849
+  },
+  "1774011": {
+    "id": 1774011,
+    "type": "movie",
+    "title": "A Rescue Dog for Christmas",
+    "poster_path": "/lWNoKfEVFhlLM4RpMKbRIjYuCLg.jpg",
+    "backdrop_path": "/7iKifl3IeSn9tK2rNwgpSNtuBJb.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "Set in the charming town of Cedar Ridge, A Christmas Rescue follows dedicated physician Emma Ross who along with her dog, Shep, is determined to make her beloved community’s annual Christmas Cares celebration the most meaningful yet. When traveling veterinarian, Dr. Matthew McGuire arrives to temporarily take over the local animal clinic, he proposes adding a Christmas pet adoption event to the festivities. As they work side by side to bring people – and rescue animals – together for the holidays, Emma and Matthew discover that the greatest Christmas miracle may be finding a place where both hearts and shelter pets finally belong.",
+    "industry": "world",
+    "original_language": "en",
+    "origin_country": [
+      "US"
+    ],
+    "production_countries": [
+      "US",
+      "CA"
+    ],
+    "spoken_languages": [
+      "en"
+    ],
+    "published_at": "2026-11-28",
+    "date_kind": "release",
+    "status": "Released",
+    "providers": [
+      {
+        "name": "Pure Flix",
+        "logo_path": "/qAccuffS0YOegynkbRchQeBrw7W.png",
+        "region": "US",
+        "type": "flatrate"
+      }
+    ],
+    "release_date": "2026-11-28",
+    "popularity": 1.8797
+  },
+  "1843360": {
+    "id": 1843360,
+    "type": "movie",
+    "title": "Deadly Indecency",
+    "poster_path": "/qRlWhdfxZyPHzh2UOCUkZVb6pvu.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "A hard-nosed detective and his bumbling partner take a missing person case from a mysterious widow and stumble into a deadly conspiracy surrounding a lost and censored 1941 film.",
+    "industry": "world",
+    "original_language": "en",
+    "origin_country": [
+      "US"
+    ],
+    "production_countries": [
+      "US"
+    ],
+    "spoken_languages": [
+      "en"
+    ],
+    "published_at": "2026-11-28",
+    "date_kind": "festival",
+    "status": "Post Production",
+    "providers": [],
+    "release_date": "2026-12-05",
+    "popularity": 0.0516
+  },
+  "1741641": {
+    "id": 1741641,
+    "type": "movie",
+    "title": "Checking Inn for Christmas",
+    "poster_path": "/tfmKg7ish76aNHiymy82lRsziQ5.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "Ambitious writer Claire visits a new Christmas retreat for a career-making article, but falling for owner Julian forces her to choose between chasing headlines and embracing the season's true magic and her heart.",
+    "industry": "world",
+    "original_language": "en",
+    "origin_country": [
+      "US"
+    ],
+    "production_countries": [
+      "US"
+    ],
+    "spoken_languages": [],
+    "published_at": "2026-11-28",
+    "date_kind": "release",
+    "status": "Released",
+    "providers": [],
+    "release_date": "2026-11-28",
+    "popularity": 1.7071
+  },
+  "1839745": {
+    "id": 1839745,
+    "type": "movie",
+    "title": "西游记之真假美猴王",
+    "poster_path": "/oyaHMf2MuIwr6aVWIF9FLCEqDxq.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "",
+    "industry": "world",
+    "original_language": "zh",
+    "origin_country": [
+      "CN"
+    ],
+    "production_countries": [],
+    "spoken_languages": [],
+    "published_at": "2026-11-28",
+    "date_kind": "release",
+    "status": "In Production",
+    "providers": [],
+    "release_date": "2026-12-05",
+    "popularity": 0.2031
+  },
+  "1741419": {
+    "id": 1741419,
+    "type": "movie",
+    "title": "WWE Survivor Series: WarGames 2026",
+    "poster_path": "/bd0RIvxejjzn3aaromB6MXNDmVP.jpg",
+    "backdrop_path": "/cuTP7tM1geeqAaThcwO9BsRzd7n.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "The 2026 Survivor Series: WarGames, also promoted as Survivor Series: WarGames Houston, is an upcoming professional wrestling pay-per-view and livestreaming event produced by WWE. It will be the 40th annual Survivor Series and will take place on November 28, 2026, at Daikin Park in Houston, Texas. This will be the fifth annual Survivor Series based around the WarGames match, a team-based steel cage match where the roofless cage surrounds two rings placed side by side.",
+    "industry": "world",
+    "original_language": "en",
+    "origin_country": [
+      "US"
+    ],
+    "production_countries": [
+      "US"
+    ],
+    "spoken_languages": [
+      "en",
+      "es"
+    ],
+    "published_at": "2026-11-28",
+    "date_kind": "release",
+    "status": "Released",
+    "providers": [],
+    "release_date": "2026-11-28",
+    "popularity": 1.7493
+  },
+  "1839407": {
+    "id": 1839407,
+    "type": "movie",
+    "title": "Home and Away",
+    "poster_path": "/hV9uj07yJapHyqYYySOvJY0Q1SA.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "A brother and a sister navigate life in different countries as their family faces an unexpected crisis",
+    "industry": "world",
+    "original_language": "en",
+    "origin_country": [
+      "NG"
+    ],
+    "production_countries": [],
+    "spoken_languages": [
+      "en"
+    ],
+    "published_at": "2026-11-28",
+    "date_kind": "release",
+    "status": "In Production",
+    "providers": [],
+    "release_date": "2026-12-05",
+    "popularity": 0.1575
+  },
+  "1811599": {
+    "id": 1811599,
+    "type": "movie",
+    "title": "Tyson Fury",
+    "poster_path": "/wAffyCmjFZOI3uvmVvpg7Lz8Yn5.jpg",
+    "backdrop_path": "/6bmg6cWBM6PzHM3ibeLDCNskABq.jpg",
+    "vote_average": 6.0,
+    "vote_count": 1,
+    "overview": "Discover the man beneath the Fury in this feature length documentary from Lucy Wilcox. With exclusive access to Paris, Tyson and John Fury, this film charts the rise, fall and redemption of the one and only Gypsy King.",
+    "industry": "world",
+    "original_language": "en",
+    "origin_country": [
+      "GB"
+    ],
+    "production_countries": [
+      "GB"
+    ],
+    "spoken_languages": [
+      "en"
+    ],
+    "published_at": "2026-11-28",
+    "date_kind": "release",
+    "status": "Released",
+    "providers": [],
+    "release_date": "2026-11-27",
+    "popularity": 7.6807
+  },
+  "1836598": {
+    "id": 1836598,
+    "type": "movie",
+    "title": "We, the Weapon",
+    "poster_path": "/xkWtomQcqWv37HR4wtzQ2Wctgl4.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "Five soldiers wait nervously for a potential enemy attack inside a confined bunker. As routine, boredom, and tension build, an unexpected emotional and intimate connection grows between two of the men, challenging traditional notions of masculinity and vulnerability.",
+    "industry": "world",
+    "original_language": "xx",
+    "origin_country": [
+      "LB"
+    ],
+    "production_countries": [],
+    "spoken_languages": [
+      "xx"
+    ],
+    "published_at": "2026-11-28",
+    "date_kind": "festival",
+    "status": "In Production",
+    "providers": [],
+    "release_date": "2026-12-05",
+    "popularity": 0.13
+  },
+  "1748001": {
+    "id": 1748001,
+    "type": "movie",
+    "title": "Andrew Lloyd Webber's Starlight Express: Live On-Stage",
+    "poster_path": "/aE8fTHv9lKYmKBM6eqzvCfki8Bw.jpg",
+    "backdrop_path": "/jXyLOsSdfP38CYs4k6gKAYHrqVe.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "Andrew Lloyd Webber's Starlight Express races back onto the stage in a spectacular new production, where trains come to life, dreams are on the line, and only one can become champion.",
+    "industry": "world",
+    "original_language": "en",
+    "origin_country": [
+      "GB"
+    ],
+    "production_countries": [
+      "GB"
+    ],
+    "spoken_languages": [
+      "en"
+    ],
+    "published_at": "2026-11-28",
+    "date_kind": "release",
+    "status": "Released",
+    "providers": [],
+    "release_date": "2026-11-26",
+    "popularity": 1.8204
+  },
+  "1829144": {
+    "id": 1829144,
+    "type": "movie",
+    "title": "Chasing Impossible: The Full Story of Lost Ratones",
+    "poster_path": "/7KWzc7DyTQXltz9MuSCwlOmPQs6.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "They proved the doubters wrong. And they did it their way.  Chasing Impossible: The Full Story of Los Ratones follows the rise of one of League of Legends’ most unconventional teams, from streams, memes and friendship to the biggest stages in European League of Legends.  Go behind the scenes with Los Ratones for the full story behind the impossible run.",
+    "industry": "world",
+    "original_language": "en",
+    "origin_country": [
+      "US"
+    ],
+    "production_countries": [],
+    "spoken_languages": [],
+    "published_at": "2026-11-28",
+    "date_kind": "release",
+    "status": "In Production",
+    "providers": [],
+    "release_date": "2026-12-05",
+    "popularity": 0.3578
+  },
+  "1708090": {
+    "id": 1708090,
+    "type": "movie",
+    "title": "La notte delle fragole",
+    "poster_path": "/zW9saC1YPpD4VPVCyDbhsGdzjxu.jpg",
+    "backdrop_path": "/yVBsmVBD5DKJRX1U5PVXlVL6L35.jpg",
+    "vote_average": 4.0,
+    "vote_count": 1,
+    "overview": "An entertaining comedy in which forced cohabitations, unresolved feelings and new encounters will give life to hilarious and unpredictable situations, without moments of reflection and humanity.",
+    "industry": "world",
+    "original_language": "it",
+    "origin_country": [
+      "IT"
+    ],
+    "production_countries": [
+      "IT"
+    ],
+    "spoken_languages": [
+      "it"
+    ],
+    "published_at": "2026-11-28",
+    "date_kind": "release",
+    "status": "Released",
+    "providers": [],
+    "release_date": "2026-11-26",
+    "popularity": 1.5845
+  },
+  "1829142": {
+    "id": 1829142,
+    "type": "movie",
+    "title": "Kamusta, Mahal?",
+    "poster_path": "/eOrpO7bDaKK2Z86S4hFcgw163u2.jpg",
+    "backdrop_path": "/1gr1pJnkwEFvGrmn2ZYpyID6O4p.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "Kairo Lopez Mendoza becomes friends with their new transferee Daniel Francis Santos, until their friendship turns into a romantic relationship. When suddenly Daniel gets into a car accident and unfortunately passes away, Kairo is left with the pain of losing his greatest love. Influenced by his peers,  Hanz and James to try a drug to relieve his pain and depression from losing Daniel.",
+    "industry": "world",
+    "original_language": "tl",
+    "origin_country": [
+      "US",
+      "PH"
+    ],
+    "production_countries": [],
+    "spoken_languages": [
+      "tl",
+      "en"
+    ],
+    "published_at": "2026-11-28",
+    "date_kind": "release",
+    "status": "In Production",
+    "providers": [],
+    "release_date": "2026-12-05",
+    "popularity": 0.6334
   }
 };

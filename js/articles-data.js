@@ -271468,5 +271468,381 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Sat, 28 Nov 2026 03:00:00 +0000"
+  },
+  "n19x28": {
+    "id": "n19x28",
+    "type": "news",
+    "headline": "Ramayana Reaches Historic 1000 Crore India Net Milestone as First Non-Sequel",
+    "dek": "Namit Malhotra's Ramayana has rewritten box office history by crossing the 1000 crore India net mark, breaking a nearly decade-long dominance of sequels in the elite club.",
+    "body": [
+      {
+        "h": "Breaking a Decade of Sequel Dominance",
+        "p": [
+          "For nearly ten years, the elite 1000 crore India net club remained an exclusive milestone reserved entirely for franchise continuations. Every single movie that managed to scale the four-digit domestic earnings barrier was a sequel, leaving standalone features and franchise starters locked out of the historic club. That long-standing pattern has finally been shattered by Namit Malhotra's ambitious production.",
+          "The Nitesh Tiwari directorial officially crossed the monumental threshold on its 23rd day in cinemas. Running across five different Indian languages, the film achieved what no prior starting instalment or original story had managed, proving that fresh narratives can capture the domestic box office on a historic scale."
+        ]
+      },
+      {
+        "h": "An Exclusive Four-Film Club",
+        "p": [
+          "With this massive box office accumulation, the feature becomes only the fourth Indian film of all time to reach four figures in domestic net collections. It joins a very select group that previously consisted exclusively of Baahubali, Pushpa 2, and Dhurandhar 2. Standing as the first non-sequel among them, it marks a major shift in how opening chapters of cinematic universes perform.",
+          "The achievement also highlights the growing commercial might of diverse industries within the country. The exclusive roster now boasts two Bollywood productions and two Telugu productions, emphasizing how modern domestic theatrical business extends far beyond traditional localized boundaries."
+        ]
+      },
+      {
+        "h": "Ranking Among the Fastest to Four Digits",
+        "p": [
+          "Beyond simply entering the club, the movie secured its place as the third-fastest Indian film to reach the 1,000 crore net threshold. Pushpa 2 holds the record as the quickest title to hit the figure in 16 days, while Dhurandhar 2 secured second place by achieving it in 18 days.",
+          "Ramayana claimed the third position by completing the feat in 23 days, comfortably outpacing Baahubali 2, which originally required 35 days to reach the same milestone. Furthermore, the year 2026 officially became the first calendar year to see two separate Bollywood films cross the landmark, following Dhurandhar 2 earlier in the period."
+        ]
+      },
+      {
+        "h": "Setting Sights on Baahubali 2",
+        "p": [
+          "Having successfully surpassed the four-digit barrier, the production is now locked in a race to climb higher on the all-time India net chart. Its next immediate target is the lifetime domestic net collection of Baahubali 2, requiring just a few more crores to overtake the SS Rajamouli blockbuster.",
+          "Securing that position would place the film firmly in third place on the overall domestic charts, trailing only Pushpa 2 and Dhurandhar 2. Even though its fourth weekend brings fresh competition for screens and lower daily numbers compared to its thunderous opening fortnight, steady audience turnout across Hindi and regional versions continues to aid its upward climb."
+        ]
+      },
+      {
+        "h": "Star Power and Cast Milestones",
+        "p": [
+          "The domestic triumph serves as a major career highlight for the principal cast members involved in the epic adaptation. For Yash, the achievement holds special significance as his previous major hit, KGF Chapter 2, came tantalizingly close before finishing with 860 crores domestically, making this his first venture into the 1000-crore club.",
+          "Ranbir Kapoor adds another historic entry to his expanding box office resume, while Sai Pallavi's prominent role helps cement a strong bridge with audiences across South Indian territories, contributing significantly to the multi-language appeal."
+        ]
+      },
+      {
+        "h": "Global Reach and Continuing Momentum",
+        "p": [
+          "The domestic record-breaking run runs parallel to an impressive international journey. Reports indicate the title has established itself as the highest-grossing Indian film in numerous overseas territories, expanding the global footprint of domestic cinema.",
+          "While worldwide figures remain provisional as overseas runs continue, the domestic milestone cements its legacy. Backed by robust multi-language collections, the theatrical run continues to generate intense industry discussion."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Namit Malhotra's Ramayana has become the first non-sequel and fourth Indian film overall to cross the 1000 crore India net milestone, achieving the feat on its 23rd day. Directed by Nitesh Tiwari and starring Ranbir Kapoor, Yash, and Sai Pallavi, the film now targets Baahubali 2's lifetime domestic collection.",
+          "The historic run highlights a banner year for Bollywood box office records while establishing a new benchmark for opening chapters of cinematic franchises."
+        ]
+      }
+    ],
+    "facts": [
+      "Ramayana crossed 1000 crore India net on its 23rd theatrical day.",
+      "It is the first non-sequel to reach the 1000 crore India net milestone.",
+      "Pushpa 2 reached 1,000 crore net in 16 days.",
+      "Dhurandhar 2 reached 1,000 crore net in 18 days.",
+      "Baahubali 2 took 35 days to reach 1,000 crore net.",
+      "The film was released on Thursday, November 5, 2026."
+    ],
+    "entities": {
+      "people": [
+        "Namit Malhotra",
+        "Nitesh Tiwari",
+        "Yash",
+        "Ranbir Kapoor",
+        "Sai Pallavi",
+        "SS Rajamouli"
+      ],
+      "titles": [
+        "Ramayana",
+        "Baahubali",
+        "Pushpa 2",
+        "Dhurandhar 2",
+        "Baahubali 2",
+        "KGF Chapter 2"
+      ]
+    },
+    "keywords": [
+      "Ramayana film",
+      "Ramayana 1000 crore India net",
+      "Namit Malhotra Ramayana",
+      "Ramayana box office collection"
+    ],
+    "images": [
+      {
+        "url": "https://cdn.sacnilk.com/image/news300/1000028774.jpg",
+        "caption": "Ramayana Reaches Historic 1000 Crore India Net Milestone as First Non-Sequel",
+        "source": "Sacnilk"
+      }
+    ],
+    "published": "Sat, 28 Nov 2026 05:56:53 +0000"
+  },
+  "1s6vkzy": {
+    "id": "1s6vkzy",
+    "type": "news",
+    "headline": "Avengers Doomsday Advance Bookings Point to Historic Opening Weekend",
+    "dek": "Marvel Studios’ highly anticipated blockbuster is generating unprecedented box office momentum, eyeing a massive Rs 100 crore advance collection milestone in India and historic figures in North America.",
+    "body": [
+      {
+        "h": "Phenomenal Early Ticket Sales",
+        "p": [
+          "Marvel Studios is witnessing extraordinary ticket demand for its upcoming theatrical release, pointing toward a record-breaking box office debut. With weeks remaining before the official premiere, advance ticket sales have crossed significant milestones across multiple regions.",
+          "The strong early response highlights massive enthusiasm among global moviegoers, positioning the feature to rewrite opening-weekend benchmarks."
+        ]
+      },
+      {
+        "h": "Indian Box Office Momentum",
+        "p": [
+          "In India, the Anthony and Joe Russo directorial has accumulated substantial earnings through advance bookings alone. Ticket sales have crossed substantial figures across various cinema halls and ticketing platforms nationwide.",
+          "Current projections indicate that overall advance sales are rapidly approaching a massive hundred-crore milestone, establishing a new high benchmark for Hollywood releases within the country."
+        ]
+      },
+      {
+        "h": "North American Revenue Projections",
+        "p": [
+          "Across the United States and Canada, industry forecasts suggest the film could achieve unprecedented opening numbers. Tracking estimates place the domestic opening range at historic levels.",
+          "If predictions reach their upper limits, the production could become the first title in box office history to secure a massive four-hundred-million-dollar debut in North America alone."
+        ]
+      },
+      {
+        "h": "Direct Theatrical Competition",
+        "p": [
+          "Despite overwhelming anticipation, the Marvel release faces a formidable challenger during its debut window. Another major studio production is scheduled to arrive in theaters merely days apart.",
+          "This competing title has secured exclusive access to premium format screens during its initial rollout, presenting a notable hurdle for the superhero feature's overall screen distribution."
+        ]
+      },
+      {
+        "h": "Star-Studded Cast and Crossovers",
+        "p": [
+          "The immense hype surrounding the project stems largely from its ambitious ensemble cast and unexpected character returns. Audiences are particularly eager to witness major franchise figures sharing the screen together.",
+          "Notable casting highlights include a famous franchise actor taking on a prominent villainous role alongside numerous crossover appearances from beloved cinematic universes."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Advance ticket sales for Avengers Doomsday indicate it is headed for a historic box office opening, targeting massive milestones in both India and North America. Despite facing strong competition from Denis Villeneuve's Dune Part Three, the film continues to generate immense global anticipation due to its massive cast."
+        ]
+      }
+    ],
+    "facts": [
+      "Avengers Doomsday releases on December 17, 2026",
+      "India advance booking collection stands at Rs 71.45 crore",
+      "Total tickets sold in India equal 11.57 lakh",
+      "Day 1 advance booking gross is Rs 28.64 crore",
+      "Day 2 advance booking collection is Rs 15.34 crore",
+      "Day 3 advance booking collection is estimated at Rs 14.82 crore",
+      "Day 4 advance booking collection is estimated at Rs 12.65 crore",
+      "North American opening forecast is USD 370 million to USD 400 million",
+      "Dune Part Three releases on December 18, 2026",
+      "Dune Part Three projected opening is USD 85 million to USD 100 million"
+    ],
+    "entities": {
+      "people": [
+        "Robert Downey Jr",
+        "Anthony Russo",
+        "Joe Russo",
+        "Chris Evans",
+        "Denis Villeneuve"
+      ],
+      "titles": [
+        "Avengers: Doomsday",
+        "Spider-Man: Brand New Day",
+        "Dune: Part Three"
+      ]
+    },
+    "keywords": [
+      "Avengers Doomsday",
+      "Avengers Doomsday advance bookings",
+      "Robert Downey Jr Doctor Doom",
+      "Avengers Doomsday box office India"
+    ],
+    "images": [
+      {
+        "url": "https://static.toiimg.com/thumb/msid-136239341,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "caption": "Avengers Doomsday Advance Bookings Point to Historic Opening Weekend",
+        "source": "Times of India — Entertainment"
+      }
+    ],
+    "published": "2026-11-28T10:53:55+05:30"
+  },
+  "1h0y3y0": {
+    "id": "1h0y3y0",
+    "type": "news",
+    "headline": "Lisa Dwan and Vogue Williams Shine at the Irish Post Awards",
+    "dek": "MobLand actress Lisa Dwan stepped out in a sheer gown alongside Vogue Williams, who received a major media honour at the Irish Post Awards.",
+    "body": [
+      {
+        "h": "Star-Studded Gathering in Ireland",
+        "p": [
+          "The Irish Post Awards brought together some of Ireland's most prominent creative talents for a celebratory evening. Among the notable attendees was actress Lisa Dwan, who turned heads on the red carpet.",
+          "The event served as a major gathering for prominent media personalities, musicians, and actors from across the region to celebrate national achievements."
+        ]
+      },
+      {
+        "h": "Lisa Dwan's Red Carpet Appearance",
+        "p": [
+          "Lisa Dwan arrived at the celebration wearing a striking and racy sheer black gown. The look was a distinct departure from her legal alter-ego in her television work.",
+          "The actress posed for photographs alongside fellow high-profile guests at the venue, taking a break from her demanding filming schedules."
+        ]
+      },
+      {
+        "h": "Vogue Williams Honoured",
+        "p": [
+          "Presenter Vogue Williams attended the ceremony to accept the prestigious Outstanding Contribution to Media award. She wore a stunning blue cut-out dress complemented by a sparkly gold clutch bag.",
+          "During the evening, Vogue was spotted mingling with fellow guests and posing for photos with veteran presenter Ryan Tubridy."
+        ]
+      },
+      {
+        "h": "More Stars Attend and Celebrate",
+        "p": [
+          "Una Healy also made a strong impression at the event, putting on a dazzling display in a dramatic green sheer gown adorned with sequins.",
+          "In addition, actor Emmett Scanlan was recognized during the ceremony, accepting the Outstanding Contribution to Arts Award."
+        ]
+      },
+      {
+        "h": "Television Background",
+        "p": [
+          "Lisa Dwan is widely recognized for playing lawyer O'Hara Delaney in the hit Paramount+ crime drama series MobLand. Her character was sensationally killed off during the show's first run.",
+          "Beyond her work on MobLand, the actress has built an extensive television resume, including starring roles in Netflix's Top Boy and the BBC series Bloodlands alongside James Nesbitt."
+        ]
+      },
+      {
+        "h": "Theatrical Roots and Family",
+        "p": [
+          "Lisa comes from a deeply established theatrical family background. Last year, she announced the death of her beloved father Liam, who worked as a theatrical actor.",
+          "She previously highlighted her family's rich stage history in an interview, noting that her Aunt Rita was an actress, her Uncle Dennis was an opera singer, and other relatives were also performers."
+        ]
+      },
+      {
+        "h": "MobLand Production Updates",
+        "p": [
+          "The crime drama MobLand released its second series in September following the first season's broadcast last year. Production on the third instalment has brought fresh attention to the cast.",
+          "Reports emerged regarding filming schedules and cast dynamics for the upcoming season, involving stars such as Tom Hardy, Dame Helen Mirren, and Pierce Brosnan under director Ritchie."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Lisa Dwan and Vogue Williams were among the prominent figures who attended the Irish Post Awards, where Vogue was honoured with the Outstanding Contribution to Media award. Dwan, known for her role in MobLand, stunned on the red carpet in a sheer black gown alongside other notable Irish stars."
+        ]
+      }
+    ],
+    "facts": [
+      "Lisa Dwan played lawyer O'Hara Delaney in MobLand",
+      "Vogue Williams received the Outstanding Contribution to Media award",
+      "Una Healy wore a green sheer gown adorned with sequins",
+      "Emmett Scanlan accepted the Outstanding Contribution to Arts Award",
+      "MobLand released its second series in September",
+      "Lisa Dwan's father Liam was a theatrical actor"
+    ],
+    "entities": {
+      "people": [
+        "Lisa Dwan",
+        "Vogue Williams",
+        "Una Healy",
+        "Emmett Scanlan",
+        "Ryan Tubridy",
+        "Tom Hardy",
+        "Helen Mirren",
+        "Pierce Brosnan",
+        "James Nesbitt",
+        "Liam Dwan"
+      ],
+      "titles": [
+        "MobLand",
+        "Top Boy",
+        "Bloodlands",
+        "Wuthering Heights"
+      ]
+    },
+    "keywords": [
+      "Lisa Dwan",
+      "Vogue Williams",
+      "Irish Post Awards",
+      "MobLand"
+    ],
+    "images": [],
+    "published": "2026-11-28T06:53:21Z"
+  },
+  "14hzglr": {
+    "id": "14hzglr",
+    "type": "news",
+    "headline": "Salman Khan's Maatrubhumi Secures U/A 16+ Censor Certificate Without Any Cuts",
+    "dek": "The Central Board of Film Certification has cleared Salman Khan's upcoming drama with a U/A 16+ rating, bearing a rare signature from the board chairman himself.",
+    "body": [
+      {
+        "h": "Uncut Clearance From the Censor Board",
+        "p": [
+          "Salman Khan's highly anticipated feature Maatrubhumi has crossed a major regulatory milestone by securing its certification from the Central Board of Film Certification. Industry followers have tracked every development surrounding the project, which has now officially been awarded a U/A 16+ rating.",
+          "Significantly, the governing body cleared the final cut without demanding a single alteration, deletion, or modification. Producers often face requirements to adjust credits or integrate specific public service announcements, but this title bypassed every standard additional mandate completely."
+        ]
+      },
+      {
+        "h": "Evolution and Background of the Title",
+        "p": [
+          "The venture has undergone notable transformations since its initial announcement under the working title Battle Of Galwan. Producers later chose to rechristen the movie Maatrubhumi earlier this year to better reflect its thematic core.",
+          "The narrative itself draws direct inspiration from the tense 2020 military standoff between India and China. Because of its sensitive geopolitical subject matter, the production faced initial scrutiny regarding its political references, particularly during a period of shifting diplomatic ties."
+        ]
+      },
+      {
+        "h": "Navigating Governmental Review Before Censor Submission",
+        "p": [
+          "Before reaching the official certification board, the production had to satisfy several bureaucratic prerequisites. An industry insider revealed that government authorities requested specific alterations to the narrative content prior to any commercial assessment.",
+          "Once the filmmakers implemented those required revisions and presented the revised cut back to the relevant government offices, they received an official green light. This prior governmental clearance meant the final review board found no grounds for further interference."
+        ]
+      },
+      {
+        "h": "A Historic Signature on the Official Certificate",
+        "p": [
+          "An unusual administrative detail sets this particular approval apart from standard industry practices. Typically, the digital signature of the board chief executive officer authenticates these documents, but this specific certificate features the personal signature of the board chairman, Shashi Shekhar Vempati.",
+          "This notable administrative step marks a rare instance where the top leadership personally validated a commercial release. Observers note this highlights the high-profile nature of the project and the careful oversight applied to its geopolitical themes."
+        ]
+      },
+      {
+        "h": "Official Runtime and Classification Details",
+        "p": [
+          "According to the official documentation issued on November 18, the approved cut runs for an exact duration of 154.12 minutes. This translates to a total theatrical runtime of two hours, thirty-four minutes, and twelve seconds.",
+          "The assigned U/A 16+ classification indicates that while mature themes are present, younger viewers may attend under appropriate guidance, establishing a clear demographic target for the upcoming theatrical rollout."
+        ]
+      },
+      {
+        "h": "Anticipation and Upcoming Industry Plans",
+        "p": [
+          "Excitement among followers of the leading actor remains exceptionally high as promotional milestones approach. Reports indicate plans for a grand, star-studded promotional event in Mumbai to celebrate the release.",
+          "This upcoming gathering holds special significance for followers, as it marks a notable return to leading-man promotional cycles for the superstar, generating substantial buzz across trade circles."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Salman Khan's Maatrubhumi has received a U/A 16+ censor certificate without any cuts or modifications, featuring a personal signature from CBFC chairman Shashi Shekhar Vempati. The 154.12-minute feature, inspired by the 2020 India-China conflict, secured its clearance after passing initial reviews by government authorities."
+        ]
+      }
+    ],
+    "facts": [
+      "Maatrubhumi was initially announced as Battle Of Galwan.",
+      "The film is based on the 2020 conflict between India and China.",
+      "Maatrubhumi received its certificate from the Central Board of Film Certification on November 18.",
+      "The film received a U/A 16+ rating with no cuts or modifications.",
+      "The censor certificate was signed by CBFC chairman Shashi Shekhar Vempati.",
+      "The length of the film is 154.12 minutes (2 hours, 34 minutes and 12 seconds)."
+    ],
+    "entities": {
+      "people": [
+        "Salman Khan",
+        "Shashi Shekhar Vempati",
+        "Rajendra Singh Shekhawat",
+        "Apoorva Lakhia",
+        "Chitrangda Singh"
+      ],
+      "titles": [
+        "Maatrubhumi",
+        "Battle Of Galwan"
+      ]
+    },
+    "keywords": [
+      "Maatrubhumi film",
+      "Salman Khan Maatrubhumi",
+      "Maatrubhumi CBFC certificate",
+      "Battle Of Galwan movie"
+    ],
+    "images": [
+      {
+        "url": "https://stat5.bollywoodhungama.in/wp-content/uploads/2026/11/Maatrubhumi-3.jpg",
+        "caption": "Salman Khan's Maatrubhumi Secures U/A 16+ Censor Certificate Without Any Cuts",
+        "source": "Bollywood Hungama"
+      }
+    ],
+    "published": "Sat, 28 Nov 2026 11:31:30 +0200"
   }
 };
