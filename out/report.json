@@ -2,25 +2,22 @@
  "today_pkt": "2026-11-28",
  "sources": 137,
  "status": {
-  "not_due": 133,
-  "error": 1,
-  "unchanged": 2,
-  "ok": 1
+  "not_due": 137
  },
- "queue_total": 263,
- "stories_total": 269,
+ "queue_total": 259,
+ "stories_total": 263,
  "duplicates_removed": 0,
  "categories": {
-  "Box Office": 4,
-  "Awards": 3,
-  "Trailers": 2,
+  "Box Office": 3,
+  "Awards": 2,
+  "Trailers": 1,
   "Music / OST": 1,
   "Episodes": 5,
   "Upcoming releases": 0,
   "OTT / Streaming": 7,
   "TV & Dramas": 4,
   "Celebrity news & events": 12,
-  "Movies": 224,
+  "Movies": 223,
   "Entertainment viral": 1
  },
  "dropped": {},
@@ -111,10 +108,10 @@
   },
   {
    "source": "Tellychakkar",
-   "status": "error",
+   "status": "not_due",
    "new": 0,
    "total": 0,
-   "note": "HTTP 403 (bot-block ho sakta hai)"
+   "note": "6h cadence: check not due"
   },
   {
    "source": "Hindustan Times — Entertainment",
@@ -524,10 +521,10 @@
   },
   {
    "source": "DramaPur",
-   "status": "unchanged",
+   "status": "not_due",
    "new": 0,
    "total": 0,
-   "note": "304, feed badli nahi"
+   "note": "6h cadence: check not due"
   },
   {
    "source": "Dramas.pk",
@@ -573,10 +570,10 @@
   },
   {
    "source": "Showbiz Secret",
-   "status": "unchanged",
+   "status": "not_due",
    "new": 0,
    "total": 0,
-   "note": "304, feed badli nahi"
+   "note": "6h cadence: check not due"
   },
   {
    "source": "HUM TV (official site)",
@@ -650,10 +647,10 @@
   },
   {
    "source": "HanCinema",
-   "status": "ok",
+   "status": "not_due",
    "new": 0,
-   "total": 30,
-   "note": ""
+   "total": 0,
+   "note": "6h cadence: check not due"
   },
   {
    "source": "Kdrama Kisses",

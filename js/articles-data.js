@@ -274880,5 +274880,395 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "2026-11-28T14:29:17Z"
+  },
+  "8kltp4": {
+    "id": "8kltp4",
+    "type": "news",
+    "headline": "Emraan Hashmi's Path As Bollywood's Ultimate Independent Force",
+    "dek": "An exploration of Emraan Hashmi's career, his willingness to challenge industry conventions, and his box office presence with recent releases.",
+    "body": [
+      {
+        "h": "The Independent Nature of Emraan Hashmi",
+        "p": [
+          "Emraan Hashmi has long established himself as a distinct presence in the Hindi film industry, frequently described as a one-man army. Throughout his career, he has charted his own course without relying on traditional industry groups or established formulas.",
+          "His approach to stardom has consistently prioritized personal artistic choices over conforming to the standard mold of a conventional Bollywood leading man."
+        ]
+      },
+      {
+        "h": "Early Career Beginnings and the Serial Kisser Label",
+        "p": [
+          "Entering the industry in 2003 with the action crime drama Footpath, Hashmi quickly found himself associated with a specific label early in his career. Rather than fighting the serial kisser tag, he embraced it and turned it into a unique selling proposition.",
+          "This strategic acceptance helped him carve out a specialized niche in a landscape dominated by traditional romantic heroes, setting the stage for his future versatility."
+        ]
+      },
+      {
+        "h": "Expanding Acting Range Beyond Expectations",
+        "p": [
+          "Although his launchpad and early major hits came through the Bhatt camp, Hashmi refused to play it safe by remaining confined to a single cinematic space. His filmography demonstrates a clear dedication to experimentation across various genres.",
+          "He ventured into unconventional projects such as Dibakar Banerjee’s Shanghai and Danis Tanović’s Tigers. Furthermore, he showed confidence by taking on supporting roles in women-led films like The Dirty Picture and exploring horror."
+        ]
+      },
+      {
+        "h": "Taking on Heavyweights at the Box Office in 2026",
+        "p": [
+          "The year 2026 highlighted Hashmi's readiness to compete directly against major production houses and powerful industry names. His films arrived in theatres alongside heavily backed projects rather than enjoying solo windows.",
+          "August saw the release of Awarapan 2, where he reprised his role as Shivam Pandit, while November brought the action romantic thriller Gunmaaster G9."
+        ]
+      },
+      {
+        "h": "Clashes With Major Productions",
+        "p": [
+          "Gunmaaster G9 arrived in cinemas on November 27, 2026, clashing directly with Yeh Prem Mol Liya, a family drama directed by Sooraj Barjatya, backed by Rajshri Productions, and starring Ayushmann Khurrana and Sharvari.",
+          "Similarly, Awarapan 2 faced off against a period flick directed by Rajkumar Santoshi, produced by Aamir Khan Productions, and featuring Shabana Azmi and Preity Zinta."
+        ]
+      },
+      {
+        "h": "Recent Box Office Figures and Success",
+        "p": [
+          "Awarapan 2 established itself as one of Bollywood's biggest hits of 2026, proving Hashmi's enduring commercial pull. Meanwhile, his later release Gunmaaster G9 recorded a solid start at the ticket counters.",
+          "The action thriller grossed 4.71 crores on its opening day, reflecting continued audience enthusiasm for his distinct brand of mass entertainment."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Emraan Hashmi continues to stand out in Bollywood by following his own rules, successfully balancing a diverse filmography with competitive box office releases in 2026. His recent projects, including Awarapan 2 and Gunmaaster G9, demonstrate his ability to face major studio clashes and draw audiences on his own terms."
+        ]
+      }
+    ],
+    "facts": [
+      "Emraan Hashmi entered the industry in 2003 with the action crime drama Footpath.",
+      "Gunmaaster G9 arrived in theatres on November 27, 2026.",
+      "Gunmaaster G9 grossed 4.71 crores on Day 1.",
+      "Awarapan 2 released in August 2026 and is one of Bollywood's biggest hits of the year."
+    ],
+    "entities": {
+      "people": [
+        "Emraan Hashmi",
+        "Raghav Juyal",
+        "Dibakar Banerjee",
+        "Danis Tanović",
+        "Ayushmann Khurrana",
+        "Sharvari",
+        "Sunny Deol",
+        "Sooraj Barjatya",
+        "Rajkumar Santoshi",
+        "Shabana Azmi",
+        "Preity Zinta",
+        "Aamir Khan"
+      ],
+      "titles": [
+        "Gunmaaster G9",
+        "Bad***s of Bollywood",
+        "Footpath",
+        "Tiger 3",
+        "Shanghai",
+        "Tigers",
+        "The Dirty Picture",
+        "Awarapan 2",
+        "Yeh Prem Mol Liya",
+        "Batwara 2"
+      ]
+    },
+    "keywords": [
+      "Emraan Hashmi",
+      "Gunmaaster G9",
+      "Awarapan 2",
+      "Gunmaaster G9 box office"
+    ],
+    "images": [
+      {
+        "url": "https://cdn.bollywoodbubble.com/wp-content/uploads/2026/11/Emraan-Hashmi_-The-One-Man-Army-Who-Has-Always-Played-by-His-Own-Rules.webp",
+        "caption": "Emraan Hashmi's Path As Bollywood's Ultimate Independent Force",
+        "source": "Bollywood Bubble"
+      }
+    ],
+    "published": "Sat, 28 Nov 2026 12:55:32 +0000"
+  },
+  "lzo03r": {
+    "id": "lzo03r",
+    "type": "news",
+    "headline": "Sukesh Chandrashekhar Serves Legal Notice To Netflix Demanding Postponement Of True-Crime Documentary",
+    "dek": "The high-profile inmate has taken legal action against the streaming platform over Love, Scam Aur Dhokha: The Sukesh Chandrashekhar Story, citing prejudice against ongoing court trials.",
+    "body": [
+      {
+        "h": "The Legal Challenge Against Netflix",
+        "p": [
+          "The subject of a highly anticipated upcoming streaming project has formally moved to block its distribution. Through his legal representatives, he has dispatched a formal notice demanding that the digital platform halt the premiere.",
+          "The primary grievance centers on allegations that the production offers a heavily biased perspective on his life and pending legal matters without presenting balanced viewpoints."
+        ]
+      },
+      {
+        "h": "Demands For Deferral And Pre-Screening",
+        "p": [
+          "Represented by his legal firm, the petitioner has given the platform a strict timeline to reply. The demands include delaying the launch until active prosecution testimonies conclude in his ongoing judicial battles.",
+          "Additionally, his representatives have requested an early private viewing of the feature alongside written guarantees halting promotional rollouts and the removal of labels branding him as a conman."
+        ]
+      },
+      {
+        "h": "Active Court Proceedings And Claims Of Unfair Trial",
+        "p": [
+          "The formal objections highlight several ongoing matters, including a massive financial extortion allegation and occurrences reportedly tied to a major metropolitan correctional facility.",
+          "His defense argues that releasing such a project while judicial hearings remain active constitutes an unfair public trial, noting that he maintains pending appeals for his lone prior conviction."
+        ]
+      },
+      {
+        "h": "Lack Of Communication Prior To Production",
+        "p": [
+          "A major contention raised in the legal filing is the alleged failure of the creative team to reach out to the subject for his perspective. His legal counsel stresses that no opportunity was provided to share his side of the narrative.",
+          "This absence of direct communication forms the cornerstone of the argument that the resulting audiovisual project inherently lacks journalistic neutrality."
+        ]
+      },
+      {
+        "h": "Background Of The Streaming Project",
+        "p": [
+          "The documentary in question, titled Love, Scam Aur Dhokha: The Sukesh Chandrashekhar Story, was officially unveiled by the streaming service with a scheduled global debut date.",
+          "The creative pedigree behind the project includes individuals previously associated with other high-profile true-crime releases centered on notorious criminal investigations."
+        ]
+      },
+      {
+        "h": "Production Team And Release Details",
+        "p": [
+          "According to official promotional notes, creators spent an extended period investigating how the central figure allegedly orchestrated massive schemes, including operations managed from inside detention facilities.",
+          "The feature is guided by specific directors and executive producers, with its premiere date locked in for mid-December, pending any outcomes from the current legal disputes."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "An incarcerated individual has issued a formal legal notice to a major streaming network demanding the postponement and pre-screening of a documentary chronicling his life. The legal team contends that releasing the project during active court proceedings amounts to an unfair public trial."
+        ]
+      }
+    ],
+    "facts": [
+      "Sukesh Chandrashekhar sent a legal notice to Netflix.",
+      "The documentary is titled Love, Scam Aur Dhokha: The Sukesh Chandrashekhar Story.",
+      "The film is scheduled to premiere on December 18.",
+      "The legal notice was issued through Anantam Legal by Advocate Anant Malik.",
+      "The notice demands a response within 72 hours.",
+      "The cases involve a Rs 200 crore extortion case and incidents at Tihar Jail.",
+      "The matters are being heard by the Special Court (MCOCA) at Rouse Avenue Courts, with a hearing on November 30.",
+      "The documentary is directed by Moumita Sen and Niyantha Shekar, and executive produced by Chandni Ahlawat Dabas."
+    ],
+    "entities": {
+      "people": [
+        "Sukesh Chandrashekhar",
+        "Anant Malik",
+        "Moumita Sen",
+        "Niyantha Shekar",
+        "Chandni Ahlawat Dabas"
+      ],
+      "titles": [
+        "Love, Scam Aur Dhokha: The Sukesh Chandrashekhar Story",
+        "Curry Cyanide: The Jolly Joseph Case",
+        "The Indrani Mukerjea Story: Buried Truth"
+      ]
+    },
+    "keywords": [
+      "Sukesh Chandrashekhar",
+      "Love Scam Aur Dhokha",
+      "Netflix documentary",
+      "Anant Malik"
+    ],
+    "images": [
+      {
+        "url": "https://mm-wp-prod-uploads.s3.ap-south-1.amazonaws.com/wp-content/uploads/2026/11/27160041/Miss-Malini-Wordpress-Images-2026-11-27T160009.176.jpg",
+        "caption": "Sukesh Chandrashekhar Serves Legal Notice To Netflix Demanding Postponement Of True-Crime Documentary",
+        "source": "MissMalini"
+      }
+    ],
+    "published": "2026-11-28T14:51:36Z"
+  },
+  "83guzj": {
+    "id": "83guzj",
+    "type": "news",
+    "headline": "Peter Berg Confirms Existence of Script for Will Smith Superhero Sequel Hancock 2",
+    "dek": "Nearly two decades after the original blockbuster hit theaters, director Peter Berg reveals he received a funny and compelling script for a potential follow-up to the Will Smith superhero film.",
+    "body": [
+      {
+        "h": "The Return of a Superhero",
+        "p": [
+          "Nearly eighteen years have passed since the original superhero smash hit theaters and grossed over six hundred million dollars at the worldwide box office. Now, fresh talk regarding a potential follow-up to the project has emerged from the creative team behind the original movie.",
+          "While participating in promotional interviews for his upcoming World War II sports project, the filmmaker responsible for the original superhero flick shared an unexpected update with reporters regarding the long-discussed continuation."
+        ]
+      },
+      {
+        "h": "A Script from the Star",
+        "p": [
+          "The director revealed during a conversation with Variety that he is currently in possession of a screenplay for the proposed project. According to the filmmaker, the material was delivered directly by the leading actor himself.",
+          "Describing the pages as incredibly funny and great, the director expressed genuine enthusiasm about the prospect of bringing the story to life, noting that the overall universe would simply need to align properly for production to move forward."
+        ]
+      },
+      {
+        "h": "Support Through Controversy",
+        "p": [
+          "Addressing the timing and the leading man, the filmmaker referenced past controversies involving the actor, including the infamous Academy Award incident. He expressed strong personal loyalty and admiration for the performer.",
+          "The director emphasized that human beings are inherently flawed and prone to mistakes, declaring his enduring fondness for the actor and suggesting that the current moment feels appropriate for a return to this specific role."
+        ]
+      },
+      {
+        "h": "Origins and Development History",
+        "p": [
+          "The journey of the original feature began long before its theatrical debut, originating from a spec screenplay written in nineteen ninety-six titled Tonight, He Comes by Vincent Ngo. Major studios subsequently put the narrative through numerous rewrites.",
+          "These revisions aimed to soften the darker thematic elements found in the initial draft, successfully transforming the project into a broad, four-quadrant event movie tailored for mainstream audiences worldwide."
+        ]
+      },
+      {
+        "h": "Cast and Box Office Success",
+        "p": [
+          "Upon release, the film followed an amnesiac, reckless, and alcoholic superhero character struggling to piece together his forgotten identity. It went on to secure a massive financial triumph as the fourth highest grossing movie of two thousand and eight.",
+          "Alongside the main star, the original production featured a prominent supporting cast that included Charlize Theron, Jason Bateman, and Eddie Marsan, solidifying its place in superhero cinema history."
+        ]
+      },
+      {
+        "h": "Future Schedules and Commitments",
+        "p": [
+          "Despite the excitement surrounding the newly revealed screenplay, both key contributors have busy professional calendars ahead of them. The director is slated to helm and co-write Paramount's upcoming video game adaptation scheduled for a summer twenty twenty-eight release.",
+          "Meanwhile, the lead actor is preparing to collaborate with David Gordon Green on an upcoming project titled Supermax, where he will portray a homicide detective investigating a case inside a maximum-security prison facility."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Director Peter Berg has revealed that he received a funny script for a sequel to the Will Smith superhero film Hancock. While a potential follow-up remains contingent on proper timing, both talents have other upcoming commitments on their schedules."
+        ]
+      }
+    ],
+    "facts": [
+      "Hancock grossed over $600 million at the worldwide box office.",
+      "Hancock was the fourth highest grossing movie of 2008.",
+      "The original spec screenplay, Tonight, He Comes, was written in 1996 by Vincent Ngo.",
+      "Peter Berg's Call of Duty movie is slated for release in the summer of 2028.",
+      "Will Smith stars in David Gordon Green's upcoming film Supermax."
+    ],
+    "entities": {
+      "people": [
+        "Peter Berg",
+        "Will Smith",
+        "Vincent Ngo",
+        "Charlize Theron",
+        "Jason Bateman",
+        "Eddie Marsan",
+        "David Gordon Green"
+      ],
+      "titles": [
+        "Hancock",
+        "The Mosquito Bowl",
+        "Tonight, He Comes",
+        "Call of Duty",
+        "Supermax",
+        "Hancock 2"
+      ]
+    },
+    "keywords": [
+      "Peter Berg Hancock 2",
+      "Will Smith Hancock sequel",
+      "Tonight He Comes Vincent Ngo",
+      "David Gordon Green Supermax"
+    ],
+    "images": [
+      {
+        "url": "https://cdn.flickeringmyth.com/wp-content/uploads/2020/06/hancock-2.jpg",
+        "caption": "Peter Berg Confirms Existence of Script for Will Smith Superhero Sequel Hancock 2",
+        "source": "Flickering Myth"
+      }
+    ],
+    "published": "Sat, 28 Nov 2026 12:38:56 +0000"
+  },
+  "6wr340": {
+    "id": "6wr340",
+    "type": "news",
+    "headline": "Kate Middleton Opens Up About The Frightening Reality Of Her Hospital Stay In New Documentary",
+    "dek": "The Princess of Wales reflects on her challenging cancer journey, the stark reality of clinical treatment, and why simply being present for someone in darkness matters most.",
+    "body": [
+      {
+        "h": "Unveiling The Dark Times Of Hospital Treatment",
+        "p": [
+          "The Princess of Wales is offering an intimate look into her medical journey through a secretly filmed television project titled Heal. At forty-four years old, the royal describes her time confined within medical facilities as an intensely daunting chapter of her life. Without the presence of fresh air or natural greenery, the clinical environment felt heavily alienating and stark.",
+          "Navigating that level of isolation created a deeply disorientating and frightening psychological atmosphere. She explains how the stark surroundings compounded the internal challenges of facing a severe illness, making those moments feel overwhelmingly dark."
+        ]
+      },
+      {
+        "h": "Shifting Consciousness And Quiet Support",
+        "p": [
+          "During the most grueling phases of her care, she experienced moments where she drifted in and out of consciousness. Amidst the physical vulnerability, the simple human gesture of someone standing quietly by her side left a lasting impression.",
+          "Reflecting on that solidarity, she notes that the supportive individual did not attempt to solve her problems or offer conversational fixes. Their silent presence provided a profound anchor that taught her the true meaning of love during times of crisis."
+        ]
+      },
+      {
+        "h": "Redefining What True Support Looks Like",
+        "p": [
+          "The experience reshaped her perspective on how people ought to support loved ones facing extreme hardship. Society often pressures individuals to offer immediate solutions or speak comforting words during a crisis.",
+          "Instead, she realized that true compassion requires nothing more than standing alongside someone through their darkest moments. That quiet companionship serves as the guiding light needed to navigate out of profound despair."
+        ]
+      },
+      {
+        "h": "The Context Of Diagnosis And Recovery",
+        "p": [
+          "Her health journey began publicly when she disclosed her diagnosis in March of 2024 following abdominal surgery earlier that same year. She subsequently completed her chemotherapy regimen in September of 2024 before confirming her remission status in January of 2025.",
+          "Though she has chosen not to specify the exact nature of the illness, she has spoken openly about the lasting physical and emotional transformation brought on by the disease."
+        ]
+      },
+      {
+        "h": "Conquering The National Three Peaks Challenge",
+        "p": [
+          "To celebrate overcoming the illness, she undertook a strenuous physical feat this past June. Alongside her brother, James Middleton, she climbed the tallest mountains located across Scotland, England, and Wales within a twenty-four-hour timeframe.",
+          "The grueling climb was undertaken to support The Royal Marsden Cancer Charity. Upon completing the difficult hike, she shared emotional embraces with her husband, Prince William, and her three children."
+        ]
+      },
+      {
+        "h": "Skipping The Traditional Treatment Bell",
+        "p": [
+          "Cameras captured candid conversations between the siblings during their mountain ascent. When her brother asked if she rang the traditional bell upon concluding her cancer treatments, she confessed she skipped the ritual.",
+          "Admitting she was entirely unaware that ringing a bell served as a standard post-treatment milestone, she instead viewed the grueling mountain expedition as her personal way of marking her victory over the disease."
+        ]
+      },
+      {
+        "h": "Release Details And Viewing Information",
+        "p": [
+          "The documentary Heal captures these raw reflections alongside her outdoor expedition. Viewers can anticipate learning more about how the profound health battle altered her outlook on life.",
+          "The project is scheduled to premiere on NBC, with streaming availability on Peacock immediately following its broadcast debut."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Kate Middleton shares personal details about her cancer battle in the upcoming documentary Heal, reflecting on the stark hospital environment and the power of quiet support. The project also documents her participation in the National Three Peaks Challenge alongside her brother James to celebrate her recovery."
+        ]
+      }
+    ],
+    "facts": [
+      "Kate Middleton is 44 years old.",
+      "Kate first revealed her cancer diagnosis in March 2024 following abdominal surgery.",
+      "She completed chemotherapy in September 2024.",
+      "She confirmed she was in remission in January 2025.",
+      "In June, she climbed the highest mountains in Scotland, England, and Wales within 24 hours.",
+      "She climbed the mountains with her brother, James Middleton, who is 39 years old.",
+      "The documentary Heal premieres on November 30 at 8 p.m. ET on NBC and streams on Peacock."
+    ],
+    "entities": {
+      "people": [
+        "Kate Middleton",
+        "James Middleton",
+        "Prince William"
+      ],
+      "titles": [
+        "Heal"
+      ]
+    },
+    "keywords": [
+      "Kate Middleton Heal documentary",
+      "Kate Middleton cancer battle",
+      "Kate Middleton National Three Peaks Challenge",
+      "James Middleton Kate Middleton"
+    ],
+    "images": [
+      {
+        "url": "https://pagesix.com/wp-content/uploads/sites/3/2026/11/150036265-1.jpg?quality=75&amp;strip=all&amp;w=1024",
+        "caption": "Kate Middleton Opens Up About The Frightening Reality Of Her Hospital Stay In New Documentary",
+        "source": "Page Six"
+      }
+    ],
+    "published": "Sat, 28 Nov 2026 08:03:00 -0500"
   }
 };
