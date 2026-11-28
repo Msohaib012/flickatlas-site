@@ -275270,5 +275270,539 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Sat, 28 Nov 2026 08:03:00 -0500"
+  },
+  "19v26ms": {
+    "id": "19v26ms",
+    "type": "news",
+    "headline": "Khushi Episode 77 — Watch Online on HUM TV",
+    "dek": "Khushi episode 77 aired on 2026-11-28 — watch the full episode on HUM TV.",
+    "body": [
+      {
+        "h": "Episode Details",
+        "p": [
+          "Khushi Episode 77 aired on 2026-11-28 on HUM TV. The full episode is available on the channel's official YouTube page.",
+          "Watch the full episode here: https://www.youtube.com/watch?v=VR3YdvkHlEY"
+        ]
+      },
+      {
+        "h": "Episode Summary",
+        "p": [
+          "Is episode ki shuruat mein Khushi aur Saim ek restaurant mein nazar aate hain jahan Saim Khushi ko shopping aur naye ghar ke baare mein batata hai, aur kehta hai ke Saim ke hote hue usse kisi cheez ki fikar karne ki zaroorat nahi. Dusri taraf, Hamna apni ammi ko phone karke batati hai ke Saim uska bohot khayal rakh raha hai aur woh bohot khush hai. Is dauran Saim apni ammi se milne aata hai aur kehta hai ke woh kuch dino ke liye Islamabad ja raha hai office ke kaam se, jise sun kar Hamna pareshan hoti hai aur wahan se jane ki zidd karti hai lekin Saim use mana kar deta hai. Baad mein Saim aur Khushi ki shaadi ka scene dikhaya jata hai jahan dono nikkah ke kagaz par dastakhat karte hain aur ghar wale dua karte hain. Saim aur Khushi ki baithak mein Saim Khushi se apni purani ghalti aur nafrat par baat karta hai, aur Khushi kehti hai ke usne Saim ko maaf kar diya hai. Dusri taraf, Ammar apne baap ke paas akar apni ghalti ki maafi mangta hai aur baap use gale laga lete hain. Aakhir mein, Mehreen aur uske shohar ke beech Khushi aur Saim ki shaadi ke baare mein baat hoti hai ke agar Hamna ko is baat ka pata chal gaya to kya hoga, aur episode yahin khatam hota hai."
+        ]
+      }
+    ],
+    "facts": [
+      "Khushi Episode 77 aired on 2026-11-28.",
+      "Channel: HUM TV.",
+      "Watch the full episode: https://www.youtube.com/watch?v=VR3YdvkHlEY",
+      "YouTube views: 207,334.",
+      "Episode summary added 2026-11-28."
+    ],
+    "entities": {
+      "titles": [
+        "Khushi"
+      ],
+      "people": []
+    },
+    "images": [
+      {
+        "url": "https://i.ytimg.com/vi/VR3YdvkHlEY/hqdefault.jpg",
+        "caption": "Khushi Episode 77",
+        "source": "HUM TV"
+      }
+    ],
+    "published": "2026-11-28T15:00:35Z"
+  },
+  "1p8vu23": {
+    "id": "1p8vu23",
+    "type": "news",
+    "headline": "Mera Ghar Episode 12 — Watch Online on ARY Digital",
+    "dek": "Mera Ghar episode 12 aired on 2026-11-28 — watch the full episode on ARY Digital.",
+    "body": [
+      {
+        "h": "Episode Details",
+        "p": [
+          "Mera Ghar Episode 12 aired on 2026-11-28 on ARY Digital. The full episode is available on the channel's official YouTube page.",
+          "Watch the full episode here: https://www.youtube.com/watch?v=BLPx8yAcOuo"
+        ]
+      },
+      {
+        "h": "About Mera Ghar",
+        "p": [
+          "Mera Ghar is a family drama centered on Sherry, the youngest member of a household, who is raised by his elder sister Farkhanda after their mother's death. Having devoted her life to him."
+        ]
+      },
+      {
+        "h": "Episode Summary",
+        "p": [
+          "Is episode ki shuruat mein Zunaid aur us ki chachi (Khala) phone par baat karte hain, jismein Khala ghar ke saaman aur expenses ki baat karti hain aur Zunaid apna account number dene ki baat karta hai. Baad mein Zunaid ghar aata hai aur Maryam se poochta hai ke woh aaj Khala ke ghar gayi thi ya nahi, jis par Maryam naaraz hoti hai ke Zunaid chup chap kyun jaata hai. Zunaid kehta hai ke woh sirf Khala se milne gaya tha, lekin Maryam gussa karti hai ke woh uski family ko nazar andaz karta hai. Zunaid batata hai ke usne koi gunah nahi kiya aur woh wahan ja sakta hai. Maryam gusse mein kitchen mein jaakar apne kapde stove ki aag par rakh deti hai, lekin Zunaid waqt par aakar aag bujha deta hai aur Maryam se maafi mangta hai ke woh usse bohat mohabbat karta hai aur uske baghair nahi reh sakta. Maryam rokar kehti hai ke agar usko kuch ho gaya toh Zunaid kaise rahega. Phir Zunaid aur Maryam ek saath baith kar pyar bhari baatein karte hain aur Zunaid usko gajray deta hai.\n\nDoosri taraf, Maryam ki tabiyat kharab ho jaati hai aur woh hospital mein bed par leta hoti hai jahan doctor uska checkup kar rahe hote hain. Campus mein Zunaid aur Maryam ki aapas mein dooriyan aur tana-tani chal rahi hoti hai. Zunaid apne doston ke saath college mein hota hai aur jab uske dost Maryam ke baare mein poochte hain toh woh baat taal deta hai. Episode ke aakhir mein Maryam hospital mein behosh ya be-haal leti hoti hai aur doctor uska ilaj kar rahe hote hain, jabke Zunaid aur baaki log baahar pareshan hote hain."
+        ]
+      }
+    ],
+    "facts": [
+      "Mera Ghar Episode 12 aired on 2026-11-28.",
+      "Channel: ARY Digital.",
+      "Watch the full episode: https://www.youtube.com/watch?v=BLPx8yAcOuo",
+      "YouTube views: 1,750.",
+      "TMDB: Mera Ghar (id 340808).",
+      "Episode summary added 2026-11-28."
+    ],
+    "entities": {
+      "titles": [
+        "Mera Ghar"
+      ],
+      "people": [
+        "Zubab Rana",
+        "Shehroz Sabzwari",
+        "Behroze Sabzwari",
+        "Uzma Hassan",
+        "Diya Mughal"
+      ]
+    },
+    "images": [
+      {
+        "url": "https://i.ytimg.com/vi/BLPx8yAcOuo/hqdefault.jpg",
+        "caption": "Mera Ghar Episode 12",
+        "source": "ARY Digital"
+      }
+    ],
+    "published": "2026-11-28T15:00:31Z"
+  },
+  "18xz06n": {
+    "id": "18xz06n",
+    "type": "news",
+    "headline": "Suriya Starrer Scene Eyes December 4 Netflix Streaming Date",
+    "dek": "Action comedy film Scene, starring Suriya, Naslen, and Nazriya Nazim and directed by Jithu Madhavan, is reportedly heading to Netflix in multiple languages following its theatrical run.",
+    "body": [
+      {
+        "h": "Theatrical Launch And Digital Expectations",
+        "p": [
+          "The action comedy film titled Scene originally made its way to the big screen on November 6, 2026. Following the commencement of its theatrical run, audiences and fans have quickly shifted their focus toward learning about the project's digital streaming schedule and online availability.",
+          "Reports indicate that the feature may arrive on its designated streaming platform by early December. This transition from cinema halls to home screens is generating considerable discussion among cinephiles who missed the initial theatrical rollout."
+        ]
+      },
+      {
+        "h": "Reported Netflix Premiere Window",
+        "p": [
+          "Current industry reports point to a potential digital premiere date of December 4, 2026. Sources suggest the title will find its home on Netflix, bringing the cinematic experience directly to subscribers around that time.",
+          "Even though these reports specify a target timeline, official confirmation from the production team or the streaming service has not yet been issued, meaning the date remains tentative for now."
+        ]
+      },
+      {
+        "h": "Multilingual Streaming Plans",
+        "p": [
+          "To cater to a diverse audience across various regions, the online release is planned in multiple languages. Viewers can reportedly look forward to watching the feature in Tamil, Telugu, Kannada, Malayalam, and Hindi.",
+          "This wide linguistic availability aims to replicate the broad appeal of the project, allowing fans from different parts of the country to enjoy the film in their preferred tongue."
+        ]
+      },
+      {
+        "h": "Cast And Star-Studded Lineup",
+        "p": [
+          "The movie brings together a prominent ensemble cast headed by Suriya alongside Malayalam stars Naslen and Nazriya Nazim. Their collaboration forms a major highlight of the venture.",
+          "In addition to the main leads, the supporting cast features notable names such as Anandraj, Lal, and Raj Priyan, who each take on important roles within the narrative."
+        ]
+      },
+      {
+        "h": "Director Jithu Madhavan's Tamil Debut",
+        "p": [
+          "The project is written and directed by Jithu Madhavan, marking his formal entry into the Tamil film industry. His creative vision drives the narrative of this action comedy.",
+          "Furthermore, this undertaking represents the very first Tamil language film appearances for both actor Naslen and music composer Sushin Shyam, adding another layer of novelty to the production."
+        ]
+      },
+      {
+        "h": "Production Backing And Crew",
+        "p": [
+          "Production duties are handled by Suriya and Jyothika under the banners of Zhagaram Studios and 2D Entertainment. Jaishree Damodaran serves as the co-producer for the venture.",
+          "The technical crew comprises cinematographer Vineeth Augustian, editor Ajmal Sabu, action choreographer Chethan D'Souza, costume designer Mashar Hamsa, art director A. Rajesh, and makeup artist Ronex Xavier."
+        ]
+      },
+      {
+        "h": "Music And Technical Soundscapes",
+        "p": [
+          "Sushin Shyam has composed the musical score for the feature, with the official soundtrack being released under the Sony Music India label. The audio adds depth to the comedic and action elements.",
+          "Additional technical contributions include dialogues penned by Dravid Selvam, audiography by Vishnu Govind, production design by Ashwini Kale, co-direction by Arun Appukuttan, and visual effects supervision by Hariharasuthan."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Action comedy film Scene, starring Suriya, Naslen, and Nazriya Nazim, is reportedly slated for a Netflix digital premiere on December 4, 2026, in Tamil, Telugu, Kannada, Malayalam, and Hindi. The Jithu Madhavan directorial, which arrived in theatres on November 6, 2026, still awaits official confirmation from the makers regarding its streaming schedule."
+        ]
+      }
+    ],
+    "facts": [
+      "Scene theatrical release date is November 6, 2026.",
+      "Reported Netflix release date is December 4, 2026.",
+      "Cast includes Suriya, Naslen, Nazriya Nazim, Anandraj, Lal, and Raj Priyan.",
+      "Written and directed by Jithu Madhavan.",
+      "Produced by Suriya and Jyothika under Zhagaram Studios and 2D Entertainment."
+    ],
+    "entities": {
+      "people": [
+        "Suriya",
+        "Naslen",
+        "Nazriya Nazim",
+        "Jithu Madhavan",
+        "Jyothika",
+        "Sushin Shyam",
+        "Anandraj",
+        "Lal",
+        "Raj Priyan"
+      ],
+      "titles": [
+        "Scene"
+      ]
+    },
+    "keywords": [
+      "Scene OTT release date",
+      "Suriya Scene movie",
+      "Naslen Nazriya Nazim Scene",
+      "Scene Netflix release"
+    ],
+    "images": [
+      {
+        "url": "https://images.filmibeat.com/img/2026/11/scene2-83251795875402.jpg",
+        "caption": "Suriya Starrer Scene Eyes December 4 Netflix Streaming Date",
+        "source": "FilmiBeat"
+      }
+    ],
+    "published": "Sat, 28 Nov 2026 19:47:45 +0530"
+  },
+  "1bf9a16": {
+    "id": "1bf9a16",
+    "type": "news",
+    "headline": "Hail Mary Box Office Collection Day 2: Malayalam Mystery Drama Sees Strong Weekend Growth",
+    "dek": "The Malayalam crime-drama mystery Hail Mary, starring Kunchacko Boban and Suraj Venjaramoodu, registers a notable revenue increase in Kerala on its second day in theatres.",
+    "body": [
+      {
+        "h": "Opening Weekend Performance",
+        "p": [
+          "The Malayalam cinematic release Hail Mary has shown an upward trend in ticket sales within its home state. Having arrived in cinema halls on November 26, the feature has successfully cleared the milestone of Rs 2 crore in gross collections across Kerala during its first couple of days on the big screen.",
+          "Box office figures shared by tracker Jerin Georgekutty outline a solid trajectory for the project. The initial response indicates growing interest from audiences as the film progresses through its opening weekend schedule."
+        ]
+      },
+      {
+        "h": "First Versus Second Day Numbers",
+        "p": [
+          "On its opening day, the mystery thriller brought in approximately 81 lakh rupees within Kerala. The second day marked a distinct improvement, pulling in 1.25 crore rupees and reflecting a healthy jump in turnout compared to the premiere.",
+          "Combined figures for the opening two days place the total gross collection at roughly 2.06 crore rupees in the region. Observers noted that Friday outperformed Thursday by a comfortable margin."
+        ]
+      },
+      {
+        "h": "Tracking the Weekend Trajectory",
+        "p": [
+          "With Saturday serving as the third day of its theatrical run, attention has turned to how the feature performs over the remainder of the weekend. Observers note that Sunday's numbers are expected to remain strong, potentially solidifying its initial box office standing.",
+          "The ongoing weekend performance will heavily dictate the long-term prospects and overall box office legs of the mystery drama during its theatrical window in Kerala."
+        ]
+      },
+      {
+        "h": "Cast and Leading Performances",
+        "p": [
+          "The film features notable Malayalam actors in prominent roles, led by Kunchacko Boban and Suraj Venjaramoodu. Their performances anchor the narrative core of the theatrical release.",
+          "Alongside the main leads, the cast includes Anu Sithara and Suhasini Maniratnam, who contribute to the unfolding mystery drama through their respective characters."
+        ]
+      },
+      {
+        "h": "Premise and Narrative Setup",
+        "p": [
+          "The plot centers around a character named Madhu, who works as a routine school bus driver residing in Kochi. He looks forward to starting a fresh chapter alongside Annie and her daughter Hanna.",
+          "Plans are disrupted when an unresolved incident from his past catches up with him, introducing unexpected danger and turning the narrative into a tense crime-drama mystery."
+        ]
+      },
+      {
+        "h": "Direction and Production Team",
+        "p": [
+          "Hail Mary marks the directorial debut of filmmaker Vishnu Revikumar. The underlying story was penned by G.R. Indugopan, while the screenplay is a collaborative effort between Dr. Neeraj Rajan and producer Martin Prakkat.",
+          "Production duties are shared under the banners of Martin Prakkat Films and Green Room Productions, with Martin Prakkat, Siby Chavara, and Renjith Nair acting as producers."
+        ]
+      },
+      {
+        "h": "Technical Craft and Crew",
+        "p": [
+          "The visual style of the feature is shaped by cinematographer Roby Varghese Raj, complemented by the editing work of Chaman Chacko. The background score and songs are composed by Jakes Bejoy.",
+          "Additional crew members include Dileep Nath handling production design, Sameera Saneesh managing costume direction, and Ronex Xavier overseeing makeup design for the ensemble cast."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "The Malayalam mystery drama Hail Mary crossed Rs 2 crore in Kerala gross collections over its first two days after opening on November 26, 2026. Starring Kunchacko Boban and Suraj Venjaramoodu, the film saw an increase from its Rs 81 lakh opening day to Rs 1.25 crore on its second day.",
+          "Directed by Vishnu Revikumar and produced under Martin Prakkat Films and Green Room Productions, the film's weekend trajectory is being closely watched following updates shared by box office tracker Jerin Georgekutty."
+        ]
+      }
+    ],
+    "facts": [
+      "Hail Mary opened in cinemas on November 26, 2026.",
+      "Day 1 Kerala gross collection was 81 lakh rupees.",
+      "Day 2 Kerala gross collection was 1.25 crore rupees.",
+      "Total 2 days Kerala gross collection was approximately 2.06 crore rupees.",
+      "Jerin Georgekutty shared updated figures via X on Saturday, November 28, 2026."
+    ],
+    "entities": {
+      "people": [
+        "Kunchacko Boban",
+        "Suraj Venjaramoodu",
+        "Jerin Georgekutty",
+        "Vishnu Revikumar",
+        "G.R. Indugopan",
+        "Dr. Neeraj Rajan",
+        "Martin Prakkat",
+        "Anu Sithara",
+        "Suhasini Maniratnam",
+        "Roby Varghese Raj",
+        "Chaman Chacko",
+        "Jakes Bejoy",
+        "Dileep Nath",
+        "Sameera Saneesh",
+        "Ronex Xavier",
+        "Siby Chavara",
+        "Renjith Nair"
+      ],
+      "titles": [
+        "Hail Mary"
+      ]
+    },
+    "keywords": [
+      "Hail Mary box office",
+      "Kunchacko Boban Hail Mary",
+      "Hail Mary Kerala collection",
+      "Suraj Venjaramoodu movie"
+    ],
+    "images": [
+      {
+        "url": "https://images.filmibeat.com/img/2026/11/hailmary-94241795880614.jpg",
+        "caption": "Hail Mary Box Office Collection Day 2: Malayalam Mystery Drama Sees Strong Weekend Growth",
+        "source": "FilmiBeat"
+      }
+    ],
+    "published": "Sat, 28 Nov 2026 21:14:33 +0530"
+  },
+  "hyzqif": {
+    "id": "hyzqif",
+    "type": "news",
+    "headline": "Percy Jackson Season 3 Episode 4 Sets All-Time IMDb Record",
+    "dek": "The latest chapter of Percy Jackson and the Olympians achieves a series-best IMDb rating while delivering a devastating character death.",
+    "body": [
+      {
+        "h": "A Devastating Turning Point",
+        "p": [
+          "Percy Jackson and the Olympians has delivered its most heartbreaking moment yet in the third season. Viewers tuning into the fourth episode of the latest run witnessed the tragic loss of Bianca di Angelo. The character sacrificed her own safety to protect her fellow questers from Talos.",
+          "While readers of the original novels by Rick Riordan were prepared for this outcome, the screen adaptation still packs an emotional punch. This marks the very first major hero death in the entire television run. The narrative twists the knife further by depicting her young brother, Nico di Angelo, sensing her absence all the way back at Camp Half-Blood."
+        ]
+      },
+      {
+        "h": "Record-Breaking IMDb Scores",
+        "p": [
+          "The impact of the latest installment extends far beyond narrative tragedy, translating directly into historic user metrics. On IMDb, season 3, episode 4, titled We Visit the Junkyard of the Gods, has officially captured the title of highest-rated episode in the show's history by a significant margin.",
+          "The chapter achieved an impressive score of 9.1 out of 10. This stellar reception easily surpassed the previous record held by season 3, episode 2, An Old Dead Friend Comes to Visit, which previously peaked at 8.5 out of 10. The milestone score was tallied from initial user ratings and highlights the soaring engagement of the current season."
+        ]
+      },
+      {
+        "h": "Season 3 Dominates the Rankings",
+        "p": [
+          "The ongoing run of episodes is completely dominating the upper echelons of the show's all-time IMDb list. In addition to the new record-holder, episodes 1 and 3 of the current season occupy top positions alongside it. While newer entries often benefit from smaller sample sizes, the feat underscores an overwhelming surge in fan appreciation.",
+          "Earlier seasons now share the remaining slots in the platform top ten, but the third season clearly stands apart in viewer enthusiasm. From season 1 finales to season 2 narrative arcs, older chapters have been comfortably outranked by the newest creative output."
+        ]
+      },
+      {
+        "h": "Adapting The Titan's Curse",
+        "p": [
+          "The latest television chapters introduce notable deviations from the source material penned by Rick Riordan. Adjustments include the amount of time questers spend in the Junkyard of the Gods and the precise timing of Bianca joining the Hunters of Artemis.",
+          "Despite steering away from the original text in specific sequences, these creative choices have resonated strongly with audiences. Online discussions highlight how these alterations heighten the emotional weight of Bianca's sacrifice rather than detracting from it."
+        ]
+      },
+      {
+        "h": "Critical Acclaim and Rotten Tomatoes",
+        "p": [
+          "IMDb is not the only platform where the third season is setting new benchmarks for the Disney+ fantasy adventure. On Rotten Tomatoes, the current run boasts a phenomenal Popcornmeter score of 97 percent. This represents a dramatic jump from the 79 percent secured by season 1 and the 85 percent earned by season 2.",
+          "Furthermore, the season holds a flawless 100 percent Tomatometer score from professional reviewers. This unified praise from both critics and general audiences highlights a creative high point for the supernatural adaptation."
+        ]
+      },
+      {
+        "h": "Streaming Momentum and Future Outlook",
+        "p": [
+          "With a fourth season not yet officially confirmed by Disney+, the overwhelmingly positive reception provides strong encouragement for the series' future. Naturally, the platform's renewal decision will ultimately hinge heavily on long-term viewership statistics rather than review scores alone.",
+          "As of the latest reports, the series maintains a strong presence globally, holding second place on worldwide streaming charts and sitting comfortably at number one in the United States. With half of the third season still remaining to air, upcoming weeks will prove vital in sustaining this viewership momentum."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Percy Jackson and the Olympians season 3, episode 4 has broken franchise records on IMDb with a 9.1 rating following the tragic death of Bianca di Angelo. The latest season continues to receive widespread acclaim from critics and audiences alike across multiple streaming metrics.",
+          "While future season renewals remain dependent on overall viewership, the show currently holds strong charting positions on Disney+ in the United States and worldwide."
+        ]
+      }
+    ],
+    "facts": [
+      "Percy Jackson and the Olympians season 3, episode 4 is titled \"We Visit the Junkyard of the Gods\"",
+      "Episode 4 received an IMDb rating of 9.1/10 based on 781 user ratings",
+      "Bianca di Angelo is played by Olive Abercrombie",
+      "Nico di Angelo is played by Levi Chrisopulos",
+      "Season 3, episode 2 \"An Old Dead Friend Comes to Visit\" previously held the top IMDb record with 8.5/10",
+      "Season 3 holds a Popcornmeter score of 97% on Rotten Tomatoes",
+      "Season 3 holds a 100% Tomatometer score",
+      "Season 1 had a Rotten Tomatoes score of 79% and season 2 had 85%",
+      "The series ranks second on Disney+ worldwide charts and first in the United States"
+    ],
+    "entities": {
+      "people": [
+        "Matthew Rudoy",
+        "Rick Riordan",
+        "Olive Abercrombie",
+        "Levi Chrisopulos",
+        "Jonathan E. Steinberg",
+        "Dan Shotz",
+        "Craig Silverstein",
+        "Walker Scobell",
+        "Leah Sava Jeffries",
+        "James Bobin",
+        "Anders Engström",
+        "Jason Ensler",
+        "Catriona McKenzie",
+        "Sarah Watson",
+        "Tamara Becher",
+        "Daphne Olive",
+        "Shae Worthy"
+      ],
+      "titles": [
+        "Percy Jackson and the Olympians",
+        "The Titan's Curse",
+        "Star Wars",
+        "The Boys",
+        "Game of Thrones",
+        "House Of The Dragon"
+      ]
+    },
+    "keywords": [
+      "Percy Jackson season 3 episode 4",
+      "We Visit the Junkyard of the Gods IMDb",
+      "Bianca di Angelo death Percy Jackson",
+      "Percy Jackson and the Olympians Disney plus"
+    ],
+    "images": [
+      {
+        "url": "https://static0.srcdn.com/wordpress/wp-content/uploads/2026/11/walker-scobell-as-percy-jackson-looking-up-at-talos-in-percy-jackson-and-the-olympians-season-3-episode-4.jpg?w=1600&amp;h=900&amp;fit=crop",
+        "caption": "Percy Jackson Season 3 Episode 4 Sets All-Time IMDb Record",
+        "source": "Screen Rant"
+      }
+    ],
+    "published": "Sat, 28 Nov 2026 15:35:04 GMT"
+  },
+  "4l0p5f": {
+    "id": "4l0p5f",
+    "type": "news",
+    "headline": "IFFI 2026 Winners: Rishab Shetty and Kantara Chapter 1 Score Big at Goa Film Festival",
+    "dek": "The 57th International Film Festival of India concluded in Goa, naming Rishab Shetty Best Actor and highlighting emerging talents.",
+    "body": [
+      {
+        "h": "The 57th IFFI Concludes in Goa",
+        "p": [
+          "The 57th International Film Festival of India officially wrapped up its multi-day celebration of cinema in Goa. Running over nine days, the prestigious cinematic event brought together global filmmakers, industry veterans, and enthusiastic audiences to honor exceptional cinematic achievements from around the world.",
+          "The festival proceedings culminated in a grand closing ceremony where the official winners were revealed to the public. Announcements were simultaneously broadcast through the official digital channels of the Press Information Bureau of India, generating widespread excitement among movie fans."
+        ]
+      },
+      {
+        "h": "Major Acting and Directing Honors",
+        "p": [
+          "Among the most notable victories of the evening, actor and filmmaker Rishab Shetty secured the Silver Peacock for Best Actor (Male). His commanding presence and creative contributions to Kantara Chapter 1 earned him widespread critical acclaim from the festival jury.",
+          "Additionally, the directing categories celebrated both established masters and rising stars. Volker Schlöndorff was awarded the Silver Peacock for Best Director for Visitation, while Vishal Chaturvedi was named Best Debut Director for his work on Hanuman Ansh."
+        ]
+      },
+      {
+        "h": "Celebrating Global Cinema and Special Mentions",
+        "p": [
+          "The top honor of the festival, the Golden Peacock for Best Film, was awarded to AQUI, directed by Tiago Guedes. The international selection showcased a diverse range of powerful storytelling traditions competing across multiple official categories.",
+          "Kantara Chapter 1 received a prestigious Special Mention from the festival panel. Further expanding the winners' circle, Maya O'Rourke won Best Actor (Female) for The Meltdown, Bérenger Thouin took home the Silver Peacock for Best Debut Feature with The Golden Age, and The River Train collected the Silver Jury Award."
+        ]
+      },
+      {
+        "h": "Web Series and OTT Recognition",
+        "p": [
+          "Reflecting the evolving landscape of digital entertainment, the festival also recognized excellence in streaming platforms and episodic storytelling. The Best Web Series OTT Award was presented to Made In India: A Titan Story.",
+          "Directed by Robbie Grewal, the winning streaming title was highlighted for its compelling narrative structure and strong production values, demonstrating the growing importance of digital formats within mainstream cinematic celebrations."
+        ]
+      },
+      {
+        "h": "A Festival Dedicated to New Talents",
+        "p": [
+          "National Film Development Corporation Managing Director Dhiraj Singh characterized the 57th edition of the festival as a true celebration of debuts. He noted that the event successfully provided an inclusive platform for young artists, emerging filmmakers, and students to display their creative capabilities.",
+          "Singh emphasized that the enthusiastic participation of newcomers and students created a refreshing dynamic. The initiative ensured that fresh voices gained critical exposure and valuable industry opportunities during the multi-day event."
+        ]
+      },
+      {
+        "h": "Rishab Shetty on the Value of Film Festivals",
+        "p": [
+          "Reflecting on his win and the significance of the event, Rishab Shetty discussed how vital such festivals are for cultural exchange. He pointed out that platforms like this allow audiences to discover exceptional international and regional films that might otherwise struggle to find a path into mainstream theaters.",
+          "The acclaimed artist noted that many independent or distinctive projects remain difficult for general audiences to access normally. Film festivals bridge this gap by offering viewers a rare chance to engage with diverse cinematic expressions from various parts of the world."
+        ]
+      },
+      {
+        "h": "Background of Kantara Chapter 1",
+        "p": [
+          "Kantara Chapter 1 serves as a prequel to the 2022 sleeper hit Kantara. Set a thousand years prior to the events depicted in the original film, the narrative has captured immense attention from both critics and general moviegoers alike.",
+          "Written and directed by Rishab Shetty, the epic production features a prominent ensemble cast including Rukmini Vasanth, Gulshan Devaiah, and Jayaram. The blockbuster feature has achieved tremendous commercial success, crossing the major milestone of ₹800 crore in worldwide box office collections."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "The 57th International Film Festival of India in Goa concluded by announcing its winners, led by Rishab Shetty winning Best Actor for Kantara Chapter 1. The festival also celebrated emerging talents like debut director Vishal Chaturvedi and honored international works such as AQUI."
+        ]
+      }
+    ],
+    "facts": [
+      "The 57th International Film Festival of India ran in Goa from November 20 to November 28, 2026.",
+      "Rishab Shetty won Best Actor (Male) for Kantara Chapter 1.",
+      "Kantara Chapter 1 also won a Special Mention at IFFI 2026.",
+      "Vishal Chaturvedi was named Best Debut Director for Hanuman Ansh.",
+      "Volker Schlöndorff won Best Director for Visitation.",
+      "AQUI directed by Tiago Guedes won the Golden Peacock for Best Film.",
+      "Maya O'Rourke won Best Actor (Female) for The Meltdown.",
+      "Bérenger Thouin won Best Debut Feature for The Golden Age.",
+      "Made In India: A Titan Story by Robbie Grewal won the Best Web Series OTT Award.",
+      "Kantara Chapter 1 crossed ₹800 crore in worldwide box office collections."
+    ],
+    "entities": {
+      "people": [
+        "Rishab Shetty",
+        "Vishal Chaturvedi",
+        "Tiago Guedes",
+        "Volker Schlöndorff",
+        "Bérenger Thouin",
+        "Maya O'Rourke",
+        "Robbie Grewal",
+        "Dhiraj Singh",
+        "Rukmini Vasanth",
+        "Gulshan Devaiah",
+        "Jayaram",
+        "Santanu Das"
+      ],
+      "titles": [
+        "Kantara Chapter 1",
+        "Hanuman Ansh",
+        "AQUI",
+        "Visitation",
+        "The Golden Age",
+        "The River Train",
+        "The Meltdown",
+        "Made In India: A Titan Story",
+        "Kantara",
+        "Kantara Chapter 2"
+      ]
+    },
+    "keywords": [
+      "Rishab Shetty IFFI 2026",
+      "Kantara Chapter 1",
+      "Vishal Chaturvedi Hanuman Ansh",
+      "57th International Film Festival of India winners"
+    ],
+    "images": [
+      {
+        "url": "https://www.hindustantimes.com/ht-img/img/2026/11/28/1600x900/logo/iffi_1795878907022_gshV_1795878907218_fVpH_c4632fae-5a6a-4231-b13e-6975451275f3_PndQ.jpg",
+        "caption": "IFFI 2026 Winners: Rishab Shetty and Kantara Chapter 1 Score Big at Goa Film Festival",
+        "source": "Hindustan Times — Entertainment"
+      }
+    ],
+    "published": "Sat, 28 Nov 2026 20:51:59 +0530"
   }
 };
