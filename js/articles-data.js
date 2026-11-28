@@ -270588,5 +270588,436 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "2026-11-28T03:51:39Z"
+  },
+  "1k0y2f0": {
+    "id": "1k0y2f0",
+    "type": "news",
+    "headline": "O.M: Operation Mole Crosses ₹113 Crore Worldwide Despite Day 8 Box Office Slowdown",
+    "dek": "Dhanush and Mammootty's spy thriller O.M: Operation Mole registers a 41 percent drop on its eighth day, bringing its domestic net total to ₹71.50 crore.",
+    "body": [
+      {
+        "h": "Eighth Day Domestic Box Office Performance",
+        "p": [
+          "The theatrical run of O.M: Operation Mole encountered a distinct deceleration as it entered its second weekend in cinemas. On its eighth day, which fell on Friday, November 27, the spy action thriller collected ₹2.20 crore net across all language versions in India. This figure represented a notable decline of approximately 41 percent compared to the previous day's earnings.",
+          "The domestic numbers for this eighth day demonstrate a cooling period following a robust opening week. Trade analysts tracking the film noted that while the weekdays maintained steady streams of audiences, Friday marked a steeper descent as the film headed into its second weekend cycle."
+        ]
+      },
+      {
+        "h": "First Week Collections and Cumulative Totals",
+        "p": [
+          "Before the Friday dip, O.M: Operation Mole had wrapped up its first week with a domestic net collection of ₹69.30 crore. Thursday's contribution alone stood at ₹3.75 crore. With the addition of the eighth-day figures, the cumulative India net collection advanced to ₹71.50 crore.",
+          "In terms of gross earnings, the domestic theatrical gross reached ₹82.88 crore after eight full days on the big screen. Meanwhile, international markets contributed strongly, with overseas gross earnings scaling to approximately ₹30.75 crore, pushing the global tally higher."
+        ]
+      },
+      {
+        "h": "Worldwide Gross Milestone",
+        "p": [
+          "Combining the domestic gross and international collections, O.M: Operation Mole has successfully crossed the ₹113 crore threshold worldwide. Current tracking estimates place the worldwide gross collection at ₹113.63 crore as the project completes its first eight days of exhibition.",
+          "This global milestone reflects a solid international footprint for the multi-language release, balancing out the domestic slowdown observed at the end of the first week and demonstrating appeal among overseas audiences."
+        ]
+      },
+      {
+        "h": "Language-Wise Show and Earnings Breakdown",
+        "p": [
+          "The eighth-day domestic collections were distributed across 2,518 shows nationwide, with the Tamil version driving the lion's share of the revenue. The Tamil language screenings yielded approximately ₹1.69 crore net from a total of 1,780 shows.",
+          "Regional contributions also came from the Telugu and Hindi versions. The Telugu release brought in around ₹49 lakh net from 641 shows, while the Hindi version added approximately ₹2 lakh net through 97 shows, averaging roughly ₹8,737 per show overall."
+        ]
+      },
+      {
+        "h": "Opening Weekend Trajectory",
+        "p": [
+          "O.M: Operation Mole began its theatrical journey on November 20 with a massive India net opening of ₹18.10 crore. Momentum carried through the first weekend, with collections reaching ₹15.75 crore on Saturday and ₹15.90 crore on Sunday, resulting in a combined three-day haul of ₹49.75 crore net.",
+          "As the first week progressed into weekdays, the film recorded ₹6.30 crore on Monday, ₹5.40 crore on Tuesday, and ₹4.10 crore on Wednesday. This steady downward glide path eventually led to Thursday's ₹3.75 crore mark before the second week commenced."
+        ]
+      },
+      {
+        "h": "Cast, Crew, and Production Details",
+        "p": [
+          "Written and directed by Rajkumar Periasamy, O.M: Operation Mole features Dhanush in the leading role alongside a prominent ensemble cast including Mammootty, Sai Pallavi, Sreeleela, Naseeruddin Shah, and Indrans. The feature was initially publicized under the working title OM Chapter 1: Udhiram - The Blood Wood before being officially renamed shortly before release.",
+          "The project is backed by production banners Wunderbar Films and RTake Studios. Musical composition is credited to Sai Abhyankkar, cinematography was overseen by Ezhil Arasu K, and R. Kalaivanan served as the film editor."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Dhanush and Mammootty's spy thriller O.M: Operation Mole has surpassed ₹113 crore in worldwide gross collections after completing its first eight days in theatres. Despite witnessing a 41 percent drop in domestic earnings on its eighth day, the film's cumulative India net collection reached ₹71.50 crore.",
+          "Directed by Rajkumar Periasamy and backed by Wunderbar Films and RTake Studios, the multi-language release continues its theatrical run into its second weekend."
+        ]
+      }
+    ],
+    "facts": [
+      "O.M: Operation Mole worldwide gross collection crossed ₹113 crore",
+      "Day 8 India net collection was ₹2.20 crore on November 27",
+      "Day 8 collection saw a decline of around 41 percent",
+      "First-week domestic total was ₹69.30 crore",
+      "Cumulative India net collection reached ₹71.50 crore",
+      "India gross collection after eight days stands at ₹82.88 crore",
+      "Overseas gross earnings reached approximately ₹30.75 crore",
+      "Worldwide gross collection is estimated at ₹113.63 crore",
+      "Total shows on Day 8 were 2,518",
+      "Tamil version collected approximately ₹1.69 crore net from 1,780 shows",
+      "Telugu version contributed around ₹49 lakh from 641 shows",
+      "Hindi version added approximately ₹2 lakh through 97 shows",
+      "Opening day net collection on November 20 was ₹18.10 crore",
+      "First three-day combined net collection was ₹49.75 crore",
+      "Theatrical release date was November 20, 2026",
+      "Director and writer is Rajkumar Periasamy",
+      "Cast members include Dhanush, Mammootty, Sai Pallavi, Sreeleela, Naseeruddin Shah, and Indrans"
+    ],
+    "entities": {
+      "people": [
+        "Dhanush",
+        "Mammootty",
+        "Rajkumar Periasamy",
+        "Sai Pallavi",
+        "Sreeleela",
+        "Naseeruddin Shah",
+        "Indrans",
+        "Sai Abhyankkar",
+        "Ezhil Arasu K",
+        "R. Kalaivanan"
+      ],
+      "titles": [
+        "O.M: Operation Mole",
+        "OM Chapter 1: Udhiram - The Blood Wood"
+      ]
+    },
+    "keywords": [
+      "Dhanush Operation Mole",
+      "OM box office collection",
+      "Mammootty OM film",
+      "Operation Mole worldwide collection"
+    ],
+    "images": [
+      {
+        "url": "https://images.filmibeat.com/img/2026/11/om-70371795839138.jpg",
+        "caption": "O.M: Operation Mole Crosses ₹113 Crore Worldwide Despite Day 8 Box Office Slowdown",
+        "source": "FilmiBeat"
+      }
+    ],
+    "published": "Sat, 28 Nov 2026 09:43:33 +0530"
+  },
+  "b7xby6": {
+    "id": "b7xby6",
+    "type": "news",
+    "headline": "Tyla and PARTYNEXTDOOR Win Big at the 2026 Soul Train Awards",
+    "dek": "The 2026 Soul Train Awards celebrated top R&B and soul talent, featuring major fan-voted victories for Tyla and PARTYNEXTDOOR alongside special honors for music legends.",
+    "body": [
+      {
+        "h": "Fan-Voted Victories Dominate the Night",
+        "p": [
+          "The 2026 Soul Train Awards spotlighted some of the biggest names in contemporary R&B and soul music, with a strong focus on fan engagement. Tyla and PARTYNEXTDOOR emerged as the standout winners of the evening's primary fan-voted categories, capturing the attention of millions of voters worldwide.",
+          "These victories highlight the shifting dynamics of modern music consumption, where global streaming power and dedicated fanbases heavily influence major awards ceremonies. Both artists have enjoyed remarkable career momentum leading up to this recognition."
+        ]
+      },
+      {
+        "h": "Tyla Secures R&B/Soul Song of the Year",
+        "p": [
+          "Global sensation Tyla took home the trophy for R&B/Soul Song of the Year for her hit track 'Chanel'. The song faced stiff competition from an impressive roster of nominees, including Bruno Mars, Chris Brown and Bryson Tiller, Daniel Caesar, Justin Bieber, Kehlani, Mariah the Scientist and Kali Uchis, Olivia Dean, and Tems.",
+          "The winning track was penned by Tyla Seethal alongside Ian Kirkpatrick, Douglas Ford, Bardriia Bourelly, and Richard Olowaranta Mbu Isong, with production handled by P2J and Kirkpatrick. Featured on Tyla's second studio album 'A*Pop', 'Chanel' quickly became her highest-charting song on the Billboard Global 200 since her breakout hit 'Water'."
+        ]
+      },
+      {
+        "h": "PARTYNEXTDOOR Claims Inaugural Spotify Award",
+        "p": [
+          "In addition to Tyla's triumph, PARTYNEXTDOOR secured the inaugural Spotify's RNB X International Artist award. This brand-new category was introduced at the 2026 ceremony, directly inspired by the popular Spotify RNB X playlist.",
+          "Originally from Mississauga, the artist recently released 'PARTYNEXTDOOR 3 (P3) [10-YEAR EDITION]' featuring three bonus tracks this past August. Furthermore, his collaborative joint album with Drake achieved massive commercial success, accumulating over 4.8 billion streams worldwide and debuting at the top spot on the Billboard 200 while setting Apple Music records."
+        ]
+      },
+      {
+        "h": "Special Honors Recognize Industry Legends",
+        "p": [
+          "Beyond the competitive categories, the event paid tribute to enduring musical excellence through several prestigious special honors. Music icon Chaka Khan was awarded the Classic Soul Honor in her hometown of Chicago.",
+          "Additional special accolades included Durand Bernarr, who accepted the Soul Personified Honor, and Elmiene, who was presented with the New Soul Honor, celebrating the next generation of soulful artistry."
+        ]
+      },
+      {
+        "h": "Memorable Performances and Standout Moments",
+        "p": [
+          "The ceremony offered viewers numerous unforgettable highlights, notably led by Erykah Badu. She hosted a vibrant Soul Cypher featuring talents such as Dave Hollister, CeeLo Green, RC Williams, and Avery Wilson to blend R&B, soul, and hip-hop.",
+          "Another major talking point was the heartfelt Dolly Parton tribute. Performers Mickey Guyton, Brittney Spencer, and Robert Randolph united on stage to deliver a powerful, soulful rendition of the classic song 'Jolene'."
+        ]
+      },
+      {
+        "h": "Chaka Khan Homecoming Celebration",
+        "p": [
+          "Chaka Khan's recognition in Chicago served as an emotional anchor for the entire broadcast. Her celebratory live set electrified the audience with timeless performances of her greatest hits.",
+          "Fans in attendance and watching at home were treated to rousing renditions of 'Through the Fire', 'I’m Every Woman', and 'Chakzilla', cementing her legendary status."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Tyla and PARTYNEXTDOOR won the fan-voted categories at the 2026 Soul Train Awards, with Tyla taking home R&B/Soul Song of the Year for 'Chanel' and PARTYNEXTDOOR winning the inaugural Spotify RNB X International Artist award. The ceremony also celebrated special honorees Chaka Khan, Durand Bernarr, and Elmiene, alongside standout musical tributes and performances."
+        ]
+      }
+    ],
+    "facts": [
+      "Tyla won R&B/Soul Song of the Year for 'Chanel' at the 2026 Soul Train Awards.",
+      "PARTYNEXTDOOR won Spotify's inaugural RNB X International Artist award.",
+      "Chaka Khan received the Classic Soul Honor in Chicago.",
+      "Durand Bernarr received the Soul Personified Honor.",
+      "Elmiene received the New Soul Honor."
+    ],
+    "entities": {
+      "people": [
+        "Tyla",
+        "PARTYNEXTDOOR",
+        "Chaka Khan",
+        "Durand Bernarr",
+        "Elmiene",
+        "Bruno Mars",
+        "Chris Brown",
+        "Bryson Tiller",
+        "Daniel Caesar",
+        "Justin Bieber",
+        "Kehlani",
+        "Mariah the Scientist",
+        "Kali Uchis",
+        "Olivia Dean",
+        "Tems",
+        "Tyla Seethal",
+        "Ian Kirkpatrick",
+        "Douglas Ford",
+        "Bardriia Bourelly",
+        "Richard Olowaranta Mbu Isong",
+        "P2J",
+        "Drake",
+        "Erykah Badu",
+        "Dave Hollister",
+        "CeeLo Green",
+        "RC Williams",
+        "Avery Wilson",
+        "Dolly Parton",
+        "Mickey Guyton",
+        "Brittney Spencer",
+        "Robert Randolph"
+      ],
+      "titles": [
+        "Chanel",
+        "A*Pop",
+        "Water",
+        "PARTYNEXTDOOR 3 (P3) [10-YEAR EDITION]",
+        "Jolene",
+        "Through the Fire",
+        "I’m Every Woman",
+        "Chakzilla"
+      ]
+    },
+    "keywords": [
+      "2026 Soul Train Awards winners",
+      "Tyla Chanel song",
+      "PARTYNEXTDOOR Soul Train Awards",
+      "Chaka Khan Classic Soul Honor"
+    ],
+    "images": [
+      {
+        "url": "https://www.justjared.com/wp-content/uploads/2026/11/soul-train-2026.jpg",
+        "caption": "Tyla and PARTYNEXTDOOR Win Big at the 2026 Soul Train Awards",
+        "source": "Just Jared"
+      }
+    ],
+    "published": "Sat, 28 Nov 2026 03:36:07 +0000"
+  },
+  "1loi71o": {
+    "id": "1loi71o",
+    "type": "news",
+    "headline": "Shah Rukh Khan Shares Why He Embraced His Age in King",
+    "dek": "Actor Shah Rukh Khan discussed his decision to go grey and play age-appropriate roles in Siddharth Anand's upcoming film King during a Meta event in Mumbai.",
+    "body": [
+      {
+        "h": "Meta Event Appearance",
+        "p": [
+          "Actor Shah Rukh Khan and filmmaker Karan Johar recently attended a Meta event in Mumbai on a Friday evening. During the appearance, the Bollywood superstar spoke about his upcoming movie King, directed by Siddharth Anand. He revealed the reasoning behind adopting a grey-haired look and choosing to play a character closer to his real age.",
+          "The actor noted that the age gap between him and his leading ladies played a major role in his decision. Rather than trying to mask the years, he expressed a desire to embrace being a cool 61-year-old hero."
+        ]
+      },
+      {
+        "h": "Reflecting on Career and Age",
+        "p": [
+          "Discussing his journey in the film industry, Shah Rukh recalled that he initially felt he was not good-looking when he entered cinema. Because of this, he holds his status as a hero very dearly.",
+          "However, while shooting another film where he was delivering romantic dialogues to a much younger heroine, a realization struck him. Standing in front of his co-star, he humorously felt the urge to ask if she had finished her math homework, highlighting the generational gap."
+        ]
+      },
+      {
+        "h": "A New Kind of Hero",
+        "p": [
+          "Recognizing the noticeable age difference between himself and his recent co-stars, Shah Rukh decided it was time to play his actual age of 61. He wanted to redefine what it means to be a hero at this stage of life.",
+          "With his grey-haired appearance in King, the actor hopes to project a persona that feels relevant and relatable. He mentioned wanting young girls everywhere, including his daughter Suhana, to look at him and feel that this is how an older father figure and hero should carry himself."
+        ]
+      },
+      {
+        "h": "About the Film King",
+        "p": [
+          "King is directed by Siddharth Anand, who also co-wrote the screenplay alongside Sujoy Ghosh, Suresh Nair, and Sagar Pandya. The movie is scheduled to release in theatres on December 24.",
+          "The project holds special significance as it marks the theatrical debut of Shah Rukh Khan's daughter, Suhana Khan. The high-profile film features a massive ensemble cast."
+        ]
+      },
+      {
+        "h": "Star-Studded Cast",
+        "p": [
+          "Alongside Shah Rukh and Suhana Khan, the movie features Abhishek Bachchan, Deepika Padukone, and Anil Kapoor. Other notable names in the cast include Rani Mukerji, Jaideep Ahlawat, and Jackie Shroff.",
+          "The expansive roster continues with Arshad Warsi, Raghav Juyal, and Abhay Verma. Additionally, Kareena Kapoor makes an appearance in the song Daddy Cool, which was released on Friday."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Shah Rukh Khan explained at a Mumbai event that working with much younger actresses inspired him to embrace his age and play a 61-year-old hero in his upcoming movie King. Directed by Siddharth Anand, the film features an ensemble cast and marks the theatrical debut of his daughter Suhana Khan."
+        ]
+      }
+    ],
+    "facts": [
+      "Shah Rukh Khan and Karan Johar attended a Meta event in Mumbai on Friday.",
+      "Shah Rukh Khan stars in the upcoming film King, directed by Siddharth Anand.",
+      "King is scheduled to release in theatres on December 24.",
+      "The film marks Suhana Khan's theatrical debut.",
+      "Kareena Kapoor appears in the song Daddy Cool, which was released on Friday."
+    ],
+    "entities": {
+      "people": [
+        "Shah Rukh Khan",
+        "Karan Johar",
+        "Siddharth Anand",
+        "Sujoy Ghosh",
+        "Suresh Nair",
+        "Sagar Pandya",
+        "Suhana Khan",
+        "Abhishek Bachchan",
+        "Deepika Padukone",
+        "Anil Kapoor",
+        "Rani Mukerji",
+        "Jaideep Ahlawat",
+        "Jackie Shroff",
+        "Arshad Warsi",
+        "Raghav Juyal",
+        "Abhay Verma",
+        "Kareena Kapoor"
+      ],
+      "titles": [
+        "King",
+        "Daddy Cool"
+      ]
+    },
+    "keywords": [
+      "Shah Rukh Khan King",
+      "Siddharth Anand King film",
+      "Suhana Khan debut movie",
+      "Shah Rukh Khan 61 year old hero"
+    ],
+    "images": [
+      {
+        "url": "https://www.hindustantimes.com/ht-img/img/2026/11/28/1600x900/logo/Shah_Rukh_Khan_King_1795833764050_vSvZ_1795833774330_THrH_a1f8ef39-abb0-4224-a00b-1bac5166f4a6_O8Kw.jpeg",
+        "caption": "Shah Rukh Khan Shares Why He Embraced His Age in King",
+        "source": "Hindustan Times — Entertainment"
+      }
+    ],
+    "published": "Sat, 28 Nov 2026 08:32:54 +0530"
+  },
+  "ktnf0j": {
+    "id": "ktnf0j",
+    "type": "news",
+    "headline": "Colin Albert Shares Ongoing Fear and Impact After The Trials of Karen Read",
+    "dek": "Key witness Colin Albert speaks out in Netflix’s new documentary about facing conspiracy allegations, ongoing safety concerns, and his decision to join the US Army following John O’Keefe’s death.",
+    "body": [
+      {
+        "h": "Introduction to the Netflix Documentary",
+        "p": [
+          "Netflix has released a new documentary titled The Trials of Karen Read, examining the high-profile legal battle and its aftermath. The project brings renewed public attention to the case, featuring interviews with key figures connected to the proceedings.",
+          "Among those featured is Colin Albert, a central prosecution witness who describes living in constant apprehension following intense public scrutiny and conspiracy theories directed at him."
+        ]
+      },
+      {
+        "h": "Fears and Life Changes",
+        "p": [
+          "In the documentary, Colin Albert opens up about the severe personal toll the years-long legal saga has taken on his daily existence. He admits to feeling unsafe in public spaces and constantly worried about potential confrontations.",
+          "To distance himself from the overwhelming attention, Albert joined the US Army and has been participating in basic training, a development that has also impacted scheduling for ongoing civil depositions."
+        ]
+      },
+      {
+        "h": "Background of the Case",
+        "p": [
+          "The legal proceedings stem from the tragic death of John O’Keefe, who was found unresponsive outside the Canton, Massachusetts, home of Brian Albert on January 29, 2022. O’Keefe had spent the previous evening out with acquaintances before his death.",
+          "Prosecutors maintained that Karen Read struck O’Keefe with her SUV and left him in the snow. Read consistently pleaded not guilty, denying any intentional wrongdoing or involvement in his death."
+        ]
+      },
+      {
+        "h": "Defense Theories and Courtroom Arguments",
+        "p": [
+          "During Read's criminal trials, her defense team argued she was framed as part of a cover-up. They suggested that O’Keefe was fatally assaulted inside the Albert home by Brian Albert, Brian Higgins, and Colin Albert before his body was moved outside.",
+          "The Albert family firmly denied these accusations. Brian Albert stated in the documentary that O’Keefe never entered his home, noting that multiple individuals inside would have witnessed him if he had."
+        ]
+      },
+      {
+        "h": "Legal Rulings and Trial Outcomes",
+        "p": [
+          "Judge Beverly Cannone previously ruled that the defense could not include Colin Albert in their third-party culprit strategy during Read's retrial, and Albert did not testify in that second proceeding.",
+          "Read's first trial concluded with a hung jury in 2024. In the subsequent June 2025 retrial, she was acquitted of second-degree murder, manslaughter while operating under the influence, and leaving the scene of bodily injury and death, though she was convicted of operating under the influence and served a probationary period."
+        ]
+      },
+      {
+        "h": "Ongoing Civil Litigation",
+        "p": [
+          "Although the criminal trials have concluded, legal disputes persist. O’Keefe’s family filed a wrongful death lawsuit against Karen Read, keeping the legal matter active.",
+          "During a recent hearing regarding depositions, Plymouth Superior Court Judge Mark Gildea addressed the parties involved, criticizing delays and urging lawyers to center their arguments on relevant legal facts rather than social media commentary."
+        ]
+      },
+      {
+        "h": "Focus on the Victim",
+        "p": [
+          "The Netflix documentary also highlights perspectives from John O’Keefe’s friends and family, who express concern that public fascination has largely overshadowed the memory of the victim.",
+          "Prosecution witness Jen McCabe remarks in the film that discussions should honor O’Keefe and the person he was, rather than focusing entirely on Karen Read."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Key witness Colin Albert discusses his ongoing fear and his decision to join the US Army in Netflix's documentary The Trials of Karen Read. The series revisits the 2022 death of John O'Keefe, Karen Read's subsequent legal trials and acquittal, and the active wrongful death lawsuit involving the families."
+        ]
+      }
+    ],
+    "facts": [
+      "Published on November 28, 2026",
+      "John O'Keefe was found unresponsive outside Brian Albert's home on January 29, 2022",
+      "Karen Read was acquitted of second-degree murder and manslaughter in June 2025",
+      "Judge Mark Gildea oversees the active wrongful death lawsuit in Plymouth Superior Court"
+    ],
+    "entities": {
+      "people": [
+        "Colin Albert",
+        "Karen Read",
+        "John O'Keefe",
+        "Brian Albert",
+        "Brian Higgins",
+        "Beverly Cannone",
+        "Jen McCabe",
+        "Mark Gildea",
+        "Shirin Gupta",
+        "LL Cool J",
+        "Gloria Gaynor",
+        "Tupac Shakur",
+        "Stretch",
+        "Ed Lover",
+        "Angie Martinez"
+      ],
+      "titles": [
+        "The Trials of Karen Read",
+        "Crick-it"
+      ]
+    },
+    "keywords": [
+      "Colin Albert",
+      "The Trials of Karen Read",
+      "John O Keefe",
+      "Karen Read Netflix documentary"
+    ],
+    "images": [
+      {
+        "url": "https://www.hindustantimes.com/ht-img/img/2026/11/28/1600x900/logo/IMG_9696_1795833068420_W7jd_1795833072168_rE3q_0641b6c8-672d-48cb-a9b1-1ec89635ffb3_6pCP.jpeg",
+        "caption": "Colin Albert Shares Ongoing Fear and Impact After The Trials of Karen Read",
+        "source": "Hindustan Times — Entertainment"
+      }
+    ],
+    "published": "Sat, 28 Nov 2026 08:35:27 +0530"
   }
 };
