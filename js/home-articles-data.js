@@ -67,6 +67,44 @@ window.FA_HOME_ARTICLES = {
     "images": [],
     "published": "2026-11-28T06:53:21Z"
   },
+  "njmhjr": {
+    "id": "njmhjr",
+    "type": "news",
+    "headline": "Telugu Children's Film 'Summer Holidays' Sets OTT Premiere on SonyLIV",
+    "dek": "Srikar Nayan's directorial venture 'Summer Holidays', starring Arun Dev and Rohan Roy, is heading to digital platforms after its theatrical run in November 2026.",
+    "entities": {
+      "people": [
+        "Srikar Nayan",
+        "Arun Dev",
+        "Rohan Roy",
+        "Jayasudha",
+        "Rajeev Kanakala",
+        "Harshavardhan",
+        "Vasuki",
+        "Baby Kushi"
+      ],
+      "titles": [
+        "Summer Holidays",
+        "90's Middle Class Biopic",
+        "Bhartha Mahasayulaku Wignyapthi",
+        "35 Chinna Katha Kaadu"
+      ]
+    },
+    "keywords": [
+      "Summer Holidays OTT release",
+      "Srikar Nayan Summer Holidays",
+      "Arun Dev Rohan Roy film",
+      "Summer Holidays SonyLIV"
+    ],
+    "images": [
+      {
+        "url": "https://static.toiimg.com/thumb/msid-136240640,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "caption": "Telugu Children's Film 'Summer Holidays' Sets OTT Premiere on SonyLIV",
+        "source": "Times of India — Entertainment"
+      }
+    ],
+    "published": "2026-11-28T12:08:17+05:30"
+  },
   "n19x28": {
     "id": "n19x28",
     "type": "news",
@@ -145,6 +183,47 @@ window.FA_HOME_ARTICLES = {
       }
     ],
     "published": "2026-11-28T05:51:56Z"
+  },
+  "1jwrmy2": {
+    "id": "1jwrmy2",
+    "type": "news",
+    "headline": "Prabhudeva's 'Moonwalk' Trailer Highlights Comedy, Dance, and AR Rahman's Acting Debut",
+    "dek": "The official trailer for the holiday comedy 'Moonwalk' has been released, showcasing Prabhudeva in a chaotic role alongside the surprising acting debut of legendary composer AR Rahman.",
+    "entities": {
+      "people": [
+        "Prabhudeva",
+        "AR Rahman",
+        "Manoj NS",
+        "Yogi Babu",
+        "Aju Varghese",
+        "Arjun Ashokan",
+        "Sathish Kumar",
+        "Nishma Chengappa",
+        "Sushmitha Nayak",
+        "Redin Kingsley",
+        "Mottai Rajendran",
+        "Deepa Shankar",
+        "Nagma",
+        "Smitha"
+      ],
+      "titles": [
+        "Moonwalk"
+      ]
+    },
+    "keywords": [
+      "Moonwalk film trailer",
+      "Prabhudeva Babootty Moonwalk",
+      "AR Rahman acting debut",
+      "Manoj NS Moonwalk release date"
+    ],
+    "images": [
+      {
+        "url": "https://static.toiimg.com/thumb/msid-136239379,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "caption": "Prabhudeva's 'Moonwalk' Trailer Highlights Comedy, Dance, and AR Rahman's Acting Debut",
+        "source": "Times of India — Entertainment"
+      }
+    ],
+    "published": "2026-11-28T10:55:57+05:30"
   },
   "1s6vkzy": {
     "id": "1s6vkzy",
@@ -1450,6 +1529,35 @@ window.FA_HOME_ARTICLES = {
     ],
     "published": "Fri, 27 Nov 2026 22:30:17 GMT"
   },
+  "1ey78vs": {
+    "id": "1ey78vs",
+    "type": "news",
+    "headline": "Texas Marching Band Raises $350K to Stay in NYC After Macy's Parade Delay",
+    "dek": "The Pride of Pearland Marching Band successfully raised $350,000 to extend their New York City trip after severe weather forced a historic schedule change for the Macy's Thanksgiving Day Parade.",
+    "entities": {
+      "people": [
+        "Ryan Demkovich",
+        "Kevin Cole"
+      ],
+      "titles": [
+        "Macy's Thanksgiving Day Parade"
+      ]
+    },
+    "keywords": [
+      "Pearland High School marching band",
+      "Macy's Thanksgiving Day Parade postponed",
+      "Ryan Demkovich band director",
+      "Kevin Cole former mayor"
+    ],
+    "images": [
+      {
+        "url": "https://www.thewrap.com/wp-content/uploads/2026/11/MacysThanksgivingParade.jpg",
+        "caption": "Texas Marching Band Raises $350K to Stay in NYC After Macy's Parade Delay",
+        "source": "TheWrap"
+      }
+    ],
+    "published": "Fri, 27 Nov 2026 22:00:47 +0000"
+  },
   "1r03r6b": {
     "id": "1r03r6b",
     "type": "news",
@@ -1574,6 +1682,41 @@ window.FA_HOME_ARTICLES = {
       }
     ],
     "published": "2026-11-28T03:09:09+05:30"
+  },
+  "1s5wzwb": {
+    "id": "1s5wzwb",
+    "type": "news",
+    "headline": "Percy Jackson and the Olympians Cast and Creators Dissect Episode 4 Death",
+    "dek": "The creative team and young stars of Percy Jackson and the Olympians break down the first major character death of the series in Season 3, Episode 4.",
+    "entities": {
+      "people": [
+        "Walker Scobell",
+        "Daniel Diemer",
+        "Olive Abercrombie",
+        "Levi Chrisopulos",
+        "Tamara Smart",
+        "Jon Steinberg",
+        "Craig Silverstein",
+        "Dan Shotz"
+      ],
+      "titles": [
+        "Percy Jackson and the Olympians"
+      ]
+    },
+    "keywords": [
+      "Percy Jackson and the Olympians",
+      "Bianca di Angelo death",
+      "Percy Jackson Season 3 Episode 4",
+      "Olive Abercrombie Percy Jackson"
+    ],
+    "images": [
+      {
+        "url": "https://www.thewrap.com/wp-content/uploads/2026/11/percy-jackson-bianca-nico.jpg",
+        "caption": "Percy Jackson and the Olympians Cast and Creators Dissect Episode 4 Death",
+        "source": "TheWrap"
+      }
+    ],
+    "published": "Fri, 27 Nov 2026 21:11:05 +0000"
   },
   "1v4gpnd": {
     "id": "1v4gpnd",
@@ -4725,174 +4868,6 @@ window.FA_HOME_ARTICLES = {
     ],
     "published": "2026-11-27T07:38:13+05:30"
   },
-  "1noaurd": {
-    "id": "1noaurd",
-    "type": "news",
-    "headline": "Southern Charm Season 12 Episode 3 Breakdown: Easter Buffets and Messy Romances",
-    "dek": "A deep dive into the third episode of Southern Charm Season 12, featuring chaotic home renovations, parental advice, and high-drama holiday gatherings.",
-    "entities": {
-      "people": [
-        "Craig",
-        "Shep",
-        "Austen",
-        "Rodrigo",
-        "Molly",
-        "Miss Pat",
-        "Whitney",
-        "Venita",
-        "Vi",
-        "Whitner",
-        "Allie",
-        "Salley",
-        "Samantha Jones",
-        "Madison"
-      ],
-      "titles": [
-        "Southern Charm",
-        "America's Next Top Model",
-        "Ladies of London",
-        "The Real Housewives of Salt Lake City",
-        "The Hunting Wives",
-        "The JLo Show: Live In Las Vegas"
-      ]
-    },
-    "keywords": [
-      "Southern Charm Season 12 Episode 3",
-      "Southern Charm Easter Islands",
-      "Southern Charm recap Bravo",
-      "Shep Austen Southern Charm"
-    ],
-    "images": [
-      {
-        "url": "https://pyxis.nymag.com/v1/imgs/782/ab7/7296670f3d79abbc4d0115cb000115aa7b-Southern-Charm.1x.rsocial.w1200.jpg",
-        "caption": "Southern Charm Season 12 Episode 3 Breakdown: Easter Buffets and Messy Romances",
-        "source": "Vulture"
-      }
-    ],
-    "published": "2026-11-27T02:00:30.355Z"
-  },
-  "tlwzlh": {
-    "id": "tlwzlh",
-    "type": "news",
-    "headline": "Jared Padalecki And Leighton Meester Lead Netflix Rom-Com Guarding Stars To Massive Debut",
-    "dek": "The holiday romantic comedy Guarding Stars secures the top spot on Netflix with impressive viewership numbers and strong Rotten Tomatoes scores.",
-    "entities": {
-      "people": [
-        "Jared Padalecki",
-        "Leighton Meester",
-        "Emma Gladstone",
-        "Kevin Costner",
-        "Whitney Houston",
-        "Andie MacDowell",
-        "Noah LaLonde",
-        "Walker Hayes",
-        "Toby Sandeman",
-        "CM Punk",
-        "Genevieve Padalecki",
-        "Jessica Chastain",
-        "Liz Declan",
-        "Katherine Center",
-        "Elizabeth Allen Rosenbaum",
-        "Richard Keith",
-        "Erin Cardillo"
-      ],
-      "titles": [
-        "Guarding Stars",
-        "Supernatural",
-        "Gilmore Girls",
-        "Walker",
-        "Friday the 13th",
-        "Gossip Girl",
-        "The Bodyguard",
-        "My Life with the Walter Boys",
-        "Heartland",
-        "Steps",
-        "Christmas Cottage",
-        "House of Wax",
-        "New York Minute"
-      ]
-    },
-    "keywords": [
-      "Guarding Stars Netflix",
-      "Jared Padalecki Guarding Stars",
-      "Leighton Meester movie",
-      "Guarding Stars streaming views"
-    ],
-    "images": [
-      {
-        "url": "https://static0.srcdn.com/wordpress/wp-content/uploads/2026/11/jared-padalecki-petting-a-horse-in-the-winter-in-guarding-stars.jpg?w=1600&amp;h=900&amp;fit=crop",
-        "caption": "Jared Padalecki And Leighton Meester Lead Netflix Rom-Com Guarding Stars To Massive Debut",
-        "source": "Screen Rant"
-      }
-    ],
-    "published": "Fri, 27 Nov 2026 02:00:18 GMT"
-  },
-  "vopqak": {
-    "id": "vopqak",
-    "type": "news",
-    "headline": "Netflix Unveils Main Trailer and Poster for Upcoming Korean Drama Series Tantara",
-    "dek": "Netflix has revealed the main trailer and poster for its upcoming drama series Tantara, starring a star-studded cast including Song Hye-Kyo and Gong Yoo.",
-    "entities": {
-      "people": [
-        "Song Hye-Kyo",
-        "Gong Yoo",
-        "Seol Hyun",
-        "Cha Seung-Won",
-        "Lee Ha-Nee"
-      ],
-      "titles": [
-        "Tantara"
-      ]
-    },
-    "keywords": [
-      "Tantara Netflix drama series",
-      "Song Hye-Kyo Tantara",
-      "Gong Yoo Tantara release date",
-      "Tantara trailer and poster"
-    ],
-    "images": [
-      {
-        "url": "https://blog.asianwiki.com/wp-content/uploads/2026/11/Tantara-SM1-2.jpg",
-        "caption": "Netflix Unveils Main Trailer and Poster for Upcoming Korean Drama Series Tantara",
-        "source": "AsianWiki"
-      }
-    ],
-    "published": "Fri, 27 Nov 2026 01:38:02 +0000"
-  },
-  "1rt7qnn": {
-    "id": "1rt7qnn",
-    "type": "news",
-    "headline": "‘Ramayana’ Box Office Day 22: Ranbir Kapoor and Yash-Starrer Wraps Up Third Week With Rs 128 Crore Haul",
-    "dek": "The mythological epic starring Ranbir Kapoor and Yash is on the brink of entering the elite Rs 1,000 crore domestic net club after concluding its third week with massive earnings.",
-    "entities": {
-      "people": [
-        "Ranbir Kapoor",
-        "Yash",
-        "SS Rajamouli"
-      ],
-      "titles": [
-        "Ramayana: Rise of a Legend",
-        "Baahubali 2: The Conclusion",
-        "Pushpa 2: The Rule",
-        "Dhurandhar 2",
-        "Ramayana"
-      ]
-    },
-    "keywords": [
-      "Ramayana film box office",
-      "Ranbir Kapoor Yash Ramayana",
-      "Ramayana Rs 1000 crore net",
-      "Ramayana Rise of a Legend collection"
-    ],
-    "images": [
-      {
-        "url": "https://static.toiimg.com/thumb/msid-136206452,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "caption": "‘Ramayana’ Box Office Day 22: Ranbir Kapoor and Yash-Starrer Wraps Up Third Week With Rs 128 Crore Haul",
-        "source": "Times of India — Entertainment"
-      }
-    ],
-    "published": "2026-11-27T06:47:39+05:30"
-  },
   "d70lqr": {
     "id": "d70lqr",
     "type": "news",
@@ -4912,37 +4887,6 @@ window.FA_HOME_ARTICLES = {
       }
     ],
     "published": "2026-11-26T17:00:05Z"
-  },
-  "1nuxvrc": {
-    "id": "1nuxvrc",
-    "type": "news",
-    "headline": "Angelina Jolie and Brad Pitt Reach Settlement in Four-Year Legal Dispute Over French Winery",
-    "dek": "Former Hollywood couple Angelina Jolie and Brad Pitt have officially resolved their lengthy court battle concerning the Château Miraval winery through an out-of-court agreement.",
-    "entities": {
-      "people": [
-        "Angelina Jolie",
-        "Brad Pitt",
-        "Yuri Shefler"
-      ],
-      "titles": [
-        "Maria",
-        "Legends"
-      ]
-    },
-    "keywords": [
-      "Angelina Jolie Brad Pitt winery",
-      "Château Miraval legal battle",
-      "Angelina Jolie Brad Pitt settlement",
-      "Angelina Jolie Stoli Group sale"
-    ],
-    "images": [
-      {
-        "url": "https://hips.hearstapps.com/hmg-prod/images/b5563d79-efd6-4c92-9591-2495722ad5e6.jpg?crop=1.00xw:0.356xh;0,0.0262xh&amp;resize=1200:*",
-        "caption": "Angelina Jolie and Brad Pitt Reach Settlement in Four-Year Legal Dispute Over French Winery",
-        "source": "Digital Spy"
-      }
-    ],
-    "published": "Thu, 26 Nov 2026 16:19:00 +0000"
   },
   "1ltcmfz": {
     "id": "1ltcmfz",
@@ -4983,36 +4927,6 @@ window.FA_HOME_ARTICLES = {
       }
     ],
     "published": "2026-11-26T15:00:30Z"
-  },
-  "rje3s2": {
-    "id": "rje3s2",
-    "type": "news",
-    "headline": "Brad Pitt and Angelina Jolie End Years of Legal Warfare Over Chateau Miraval Winery",
-    "dek": "After nearly five years of intense court battles, the former Hollywood couple has reached a private agreement to settle their dispute over the French estate.",
-    "entities": {
-      "people": [
-        "Brad Pitt",
-        "Angelina Jolie",
-        "Anne Kiley"
-      ],
-      "titles": [
-        "Chateau Miraval"
-      ]
-    },
-    "keywords": [
-      "Brad Pitt Angelina Jolie winery",
-      "Chateau Miraval legal battle",
-      "Brad Pitt lawsuit",
-      "Angelina Jolie countersuit"
-    ],
-    "images": [
-      {
-        "url": "https://www.rollingstone.com/wp-content/uploads/2026/11/pitt-angelina-winery-update.jpg?crop=0px%2C0px%2C1800px%2C1014px&#038;resize=1600%2C900",
-        "caption": "Brad Pitt and Angelina Jolie End Years of Legal Warfare Over Chateau Miraval Winery",
-        "source": "Rolling Stone"
-      }
-    ],
-    "published": "2026-11-26T07:52:00Z"
   },
   "1ihedvj": {
     "id": "1ihedvj",
@@ -5395,6 +5309,35 @@ window.FA_HOME_ARTICLES = {
       }
     ],
     "published": "2026-11-22T15:00:16Z"
+  },
+  "1h8pldw": {
+    "id": "1h8pldw",
+    "type": "news",
+    "headline": "First Look At Claudia Winkleman and Gordon Ramsay For Hell's Kitchen Celebrity Reboot",
+    "dek": "Television presenter Claudia Winkleman joins forces with chef Gordon Ramsay for the upcoming revival of Hell's Kitchen on ITV, sparking headlines over network loyalty.",
+    "entities": {
+      "people": [
+        "Claudia Winkleman",
+        "Gordon Ramsay",
+        "Tess Daly",
+        "Gary Rhodes",
+        "Jean-Christophe Novelli"
+      ],
+      "titles": [
+        "Hell's Kitchen",
+        "The Traitors",
+        "Strictly Come Dancing"
+      ]
+    },
+    "keywords": [
+      "Claudia Winkleman",
+      "Gordon Ramsay",
+      "Hell's Kitchen",
+      "The Traitors",
+      "Strictly Come Dancing"
+    ],
+    "images": [],
+    "published": "2026-11-21T18:10:35Z"
   },
   "1pqbmve": {
     "id": "1pqbmve",

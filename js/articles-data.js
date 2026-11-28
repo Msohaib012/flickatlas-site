@@ -271844,5 +271844,374 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Sat, 28 Nov 2026 11:31:30 +0200"
+  },
+  "1ey78vs": {
+    "id": "1ey78vs",
+    "type": "news",
+    "headline": "Texas Marching Band Raises $350K to Stay in NYC After Macy's Parade Delay",
+    "dek": "The Pride of Pearland Marching Band successfully raised $350,000 to extend their New York City trip after severe weather forced a historic schedule change for the Macy's Thanksgiving Day Parade.",
+    "body": [
+      {
+        "h": "Weather Disrupts Thanksgiving Tradition",
+        "p": [
+          "Adverse weather conditions forced an unprecedented scheduling change for a major American holiday tradition. Organizers announced that the milestone event would be pushed from its traditional Thursday slot to a Saturday morning instead.",
+          "This abrupt shift sent shockwaves through participating groups who had traveled from across the country. For one massive high school contingent from Texas, the delay threatened to cut their journey short before they even had a chance to perform."
+        ]
+      },
+      {
+        "h": "A Massive Contingent Faces a Crisis",
+        "p": [
+          "The Pearland High School marching band brought five hundred members to New York City to take part in the festivities. Learning that the schedule had shifted meant their pre-booked housing and travel itineraries were instantly thrown into chaos.",
+          "Band director Ryan Demkovich described the immediate aftermath as an exhausting and emotional scramble. He and his team had to figure out emergency lodging and updated transportation during a major holiday weekend when prices and availability were completely astronomical."
+        ]
+      },
+      {
+        "h": "Rallying the Community for Funds",
+        "p": [
+          "Faced with an urgent financial hurdle, leadership issued a frantic call to action back home in Texas. The community immediately responded to ensure the young performers would not miss out on their moment in the spotlight.",
+          "Through a remarkable collective effort, supporters gathered hundreds of thousands of dollars in an extremely short window. Former mayor Kevin Cole voiced the community's unwavering resolve, promising that funds would be secured so the students could stay and perform."
+        ]
+      },
+      {
+        "h": "Logistical Hurdles and Solutions",
+        "p": [
+          "Securing the money was only the first step in a complex operational puzzle. Because their Times Square hotel was already fully booked for the weekend, the entire group had to relocate to new accommodations.",
+          "Return travel also required creative planning since open flights out of the city were unavailable until early the following week. Consequently, organizers arranged for the massive student group to return home by bus instead."
+        ]
+      },
+      {
+        "h": "Safety Protocols Spark the Delay",
+        "p": [
+          "The decision to postpone the celebration stemmed from strict safety regulations regarding high winds. City guidelines explicitly prohibit giant character balloons from flying if sustained winds exceed twenty-three miles per hour or if gusts reach thirty-four miles per hour or higher.",
+          "Macy's officials issued an official statement emphasizing that participant and spectator safety remained the absolute top priority. After consulting closely with city and agency partners, organizers officially shifted the centennial march to Saturday morning."
+        ]
+      },
+      {
+        "h": "Resilience and Community Support",
+        "p": [
+          "The rapid fundraising campaign highlighted the incredible dedication of the Pearland supporters and parents. Raising three hundred fifty thousand dollars within roughly twenty-four hours stands as a testament to local solidarity.",
+          "Director Demkovich noted that witnessing such an overwhelming outpouring of kindness served as a deeply humbling experience during a highly stressful logistical emergency."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "The Pearland High School marching band successfully raised $350,000 to extend their stay in New York City after the Macy's Thanksgiving Day Parade was postponed to Saturday due to severe weather. Despite logistical challenges involving hotel relocation and bus transportation home, community support ensured the 500-member group could remain for the historic performance."
+        ]
+      }
+    ],
+    "facts": [
+      "350000 dollars raised",
+      "500 band members",
+      "Thursday parade delayed to Saturday",
+      "Saturday Nov 28 parade date",
+      "23 mph sustained wind limit",
+      "34 mph wind gust limit"
+    ],
+    "entities": {
+      "people": [
+        "Ryan Demkovich",
+        "Kevin Cole"
+      ],
+      "titles": [
+        "Macy's Thanksgiving Day Parade"
+      ]
+    },
+    "keywords": [
+      "Pearland High School marching band",
+      "Macy's Thanksgiving Day Parade postponed",
+      "Ryan Demkovich band director",
+      "Kevin Cole former mayor"
+    ],
+    "images": [
+      {
+        "url": "https://www.thewrap.com/wp-content/uploads/2026/11/MacysThanksgivingParade.jpg",
+        "caption": "Texas Marching Band Raises $350K to Stay in NYC After Macy's Parade Delay",
+        "source": "TheWrap"
+      }
+    ],
+    "published": "Fri, 27 Nov 2026 22:00:47 +0000"
+  },
+  "1jwrmy2": {
+    "id": "1jwrmy2",
+    "type": "news",
+    "headline": "Prabhudeva's 'Moonwalk' Trailer Highlights Comedy, Dance, and AR Rahman's Acting Debut",
+    "dek": "The official trailer for the holiday comedy 'Moonwalk' has been released, showcasing Prabhudeva in a chaotic role alongside the surprising acting debut of legendary composer AR Rahman.",
+    "body": [
+      {
+        "h": "Official Trailer Unveiled for Upcoming Holiday Comedy",
+        "p": [
+          "Audiences looking forward to festive cinema got a fresh look at the upcoming comedy feature 'Moonwalk' as its official promotional trailer went live. The preview offers a glimpse into a vibrant cinematic world filled with quirky personalities, absurd situations, and colorful comedic sequences designed for theatrical viewing over the holiday period.",
+          "Helmed by director Manoj NS, the production relies heavily on lighthearted chaos and energetic dance routines. The freshly launched preview highlights the chaotic journey of its central protagonist, setting high expectations for fans of slapstick and situational humor."
+        ]
+      },
+      {
+        "h": "Prabhudeva Steps Into the Role of Babootty",
+        "p": [
+          "National icon Prabhudeva takes center stage in the narrative, portraying a character named Babootty. His routine existence is completely upended when two distinct women, Nagma and Smitha, cross paths with him, injecting instant turmoil into his daily routine.",
+          "One of the female characters is playfully characterized as having eccentric tendencies, while others in Babootty's immediate circle contribute to the escalating confusion. Their bizarre conduct pushes the lead character deeper into a series of highly amusing predicaments."
+        ]
+      },
+      {
+        "h": "Yogi Babu and the Extended Ensemble Cast",
+        "p": [
+          "Comedic relief comes heavily from Yogi Babu, who navigates a series of absurd scenarios throughout the narrative. In one notable moment featured in the footage, he humorously characterizes a gathered group of individuals as an entire family of eccentric personalities, questioning whether spectators in the cinema halls will appreciate his quirky timing.",
+          "Beyond the primary leads, the movie boasts a large and diverse ensemble. Featured actors include Aju Varghese, Arjun Ashokan, Sathish Kumar, Nishma Chengappa, Sushmitha Nayak, Redin Kingsley, Mottai Rajendran, and Deepa Shankar, rounding out the supporting players."
+        ]
+      },
+      {
+        "h": "AR Rahman Makes His Acting Debut as an Angry Director",
+        "p": [
+          "One of the biggest talking points surrounding the project is the involvement of Oscar-winning music composer AR Rahman in an entirely new capacity. Stepping away strictly from his usual role behind the mixing board, Rahman makes his official acting debut by portraying a stern, furious filmmaker.",
+          "Discussing his initial venture in front of the camera with Behindwoods, the celebrated musician noted that the performance felt surprisingly organic to him. He reflected on leadership dynamics, explaining that creative heads must balance kindness and firmness while remaining open to both praise and critique."
+        ]
+      },
+      {
+        "h": "A Historic Three-Decade Reunion",
+        "p": [
+          "Aside from his unexpected transition to acting, Rahman's participation marks a momentous creative reunion. The project brings the acclaimed composer and Prabhudeva back together professionally after a substantial gap of more than thirty years.",
+          "The pairing of these two legendary figures from the Indian entertainment industry has amplified pre-release chatter, turning a standard holiday comedy into a milestone event for longtime followers of their respective careers."
+        ]
+      },
+      {
+        "h": "Holiday Theatrical Launch Scheduled for Christmas",
+        "p": [
+          "Marketed thoroughly as a complete family entertainer, the feature was originally slated to greet audiences during the Deepavali window. However, the release schedule was subsequently revised to target the Christmas holiday season instead.",
+          "The film is now locked in for a theatrical debut on December 24, positioning itself as a major viewing option for families looking to enjoy festive entertainment on the big screen."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "The newly released trailer for the upcoming holiday comedy 'Moonwalk' showcases Prabhudeva as Babootty navigating a series of chaotic situations alongside a vibrant supporting cast featuring Yogi Babu. Directed by Manoj NS, the feature also marks the unexpected acting debut of Oscar-winning composer AR Rahman as an intense film director, reuniting him with Prabhudeva after over thirty years. Originally planned for a Deepavali release, the family entertainer is now scheduled to arrive in theaters on December 24."
+        ]
+      }
+    ],
+    "facts": [
+      "Prabhudeva plays the character Babootty in 'Moonwalk'.",
+      "Manoj NS is the director of the film.",
+      "AR Rahman makes his acting debut as an angry film director.",
+      "The film reunites AR Rahman and Prabhudeva after over 30 years.",
+      "The cast includes Yogi Babu, Aju Varghese, Arjun Ashokan, Sathish Kumar, Nishma Chengappa, Sushmitha Nayak, Redin Kingsley, Mottai Rajendran, and Deepa Shankar.",
+      "The film was originally planned for a Deepavali release.",
+      "The theatrical release date is set for December 24."
+    ],
+    "entities": {
+      "people": [
+        "Prabhudeva",
+        "AR Rahman",
+        "Manoj NS",
+        "Yogi Babu",
+        "Aju Varghese",
+        "Arjun Ashokan",
+        "Sathish Kumar",
+        "Nishma Chengappa",
+        "Sushmitha Nayak",
+        "Redin Kingsley",
+        "Mottai Rajendran",
+        "Deepa Shankar",
+        "Nagma",
+        "Smitha"
+      ],
+      "titles": [
+        "Moonwalk"
+      ]
+    },
+    "keywords": [
+      "Moonwalk film trailer",
+      "Prabhudeva Babootty Moonwalk",
+      "AR Rahman acting debut",
+      "Manoj NS Moonwalk release date"
+    ],
+    "images": [
+      {
+        "url": "https://static.toiimg.com/thumb/msid-136239379,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "caption": "Prabhudeva's 'Moonwalk' Trailer Highlights Comedy, Dance, and AR Rahman's Acting Debut",
+        "source": "Times of India — Entertainment"
+      }
+    ],
+    "published": "2026-11-28T10:55:57+05:30"
+  },
+  "1s5wzwb": {
+    "id": "1s5wzwb",
+    "type": "news",
+    "headline": "Percy Jackson and the Olympians Cast and Creators Dissect Episode 4 Death",
+    "dek": "The creative team and young stars of Percy Jackson and the Olympians break down the first major character death of the series in Season 3, Episode 4.",
+    "body": [
+      {
+        "h": "The Junkyard Confrontation",
+        "p": [
+          "In the fourth episode of the current season of Percy Jackson and the Olympians, the main quest team finds themselves navigating the hazardous junkyard of the gods. Upon arrival, they accidentally awaken Talos 1.0, a formidable mechanical sentry that proves exceptionally difficult to defeat. Fortunately, Tyson arrives as a surprise appearance from a Season 2 star to help the demigods strategize a way to shut the giant creation down.",
+          "To disable the sentry, the group realizes someone must enter the giant robot through its ankle and strike the internal kill switch located in its head. Bianca di Angelo ultimately steps up to accomplish this dangerous task, successfully bringing the machine down. However, as she celebrates her victory and waves to her friends, the massive robot topples to the ground, sealing her tragic fate."
+        ]
+      },
+      {
+        "h": "A Tragic Farewell",
+        "p": [
+          "In her final moments, Bianca pledges herself to the Hunters of Artemis and urges Percy to look after her younger brother, Nico. Back at camp, Nico deeply feels the loss of his only remaining family member, with actor Levi Chrisopulos noting the immense emotional toll this will take on the young demigod. Having only ever had each other throughout their lives, losing a sister creates a devastating vacuum for Nico.",
+          "The rest of the quest group is utterly devastated as they watch Bianca fade away. Thalia Grace takes the loss particularly hard after discovering that Bianca used her final portion of ambrosia, a healing substance for demigods, on Thalia herself rather than saving it for her own survival."
+        ]
+      },
+      {
+        "h": "Actor Perspectives and Real Emotions",
+        "p": [
+          "Tamara Smart, who portrays Thalia, shared that her raw grief in the scene drew from real-life experiences with loss, combined with the powerful performance delivered by Olive Abercrombie. Smart described the set as entirely immersive, noting that the junkyard set design made it easy to lean into the authentic feelings of sorrow, guilt, and childhood trauma.",
+          "Interestingly, while the characters on screen were deeply traumatized by the event, Olive Abercrombie herself had a completely different experience behind the scenes. Executive producer Dan Shotz revealed that Abercrombie was thrilled with her performance and skipped away happily at the end of the shooting day, leaving her fellow cast members much more shaken by the emotional weight of the material."
+        ]
+      },
+      {
+        "h": "Deliberate Tonal Shifts",
+        "p": [
+          "The shocking death marks a distinct shift in the tone of the Disney+ series. Executive producers Jon Steinberg and Craig Silverstein designed this season to mature alongside its characters and audience. Recognizing that the young stars and viewers are growing older, the creative team intentionally steered the narrative into darker, more mature territory.",
+          "Adapting the moment from the source material presented unique visual challenges. Silverstein pointed out that while the books do not show a physical body and leave the characters searching, a visual medium requires a definitive rendering on screen. The team held extensive discussions to ensure the depiction made her death unmistakable while remaining appropriate for viewers."
+        ]
+      },
+      {
+        "h": "Raising the Stakes",
+        "p": [
+          "Executive producer Dan Shotz explained that placing this monumental death at the exact midpoint of Season 3 was a calculated move to dramatically escalate the narrative stakes. The creative team wanted to completely alter the trajectory of the season going forward, forcing the characters to reckon with genuine danger and permanent consequences.",
+          "To emphasize the gravity of the event, the producers made a bold sonic choice as the episode concluded. Instead of playing the familiar major theme music over the credits, the episode ended in near silence, allowing the audience to sit in reflection with the trauma and grief of the experience."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Episode 4 of Percy Jackson and the Olympians Season 3 features the series' first major death with the loss of Bianca di Angelo in the junkyard of the gods. The cast and executive producers meticulously planned the narrative shift to mature the story alongside its audience while raising the stakes for the remaining characters."
+        ]
+      }
+    ],
+    "facts": [
+      "Percy Jackson and the Olympians Season 3 Episode 4 features the first death of the series.",
+      "Walker Scobell stars as Percy.",
+      "Daniel Diemer appears as Tyson, a Season 2 star.",
+      "Olive Abercrombie plays Bianca di Angelo.",
+      "Levi Chrisopulos plays Nico di Angelo.",
+      "Tamara Smart plays Thalia Grace.",
+      "Jon Steinberg, Craig Silverstein, and Dan Shotz are executive producers."
+    ],
+    "entities": {
+      "people": [
+        "Walker Scobell",
+        "Daniel Diemer",
+        "Olive Abercrombie",
+        "Levi Chrisopulos",
+        "Tamara Smart",
+        "Jon Steinberg",
+        "Craig Silverstein",
+        "Dan Shotz"
+      ],
+      "titles": [
+        "Percy Jackson and the Olympians"
+      ]
+    },
+    "keywords": [
+      "Percy Jackson and the Olympians",
+      "Bianca di Angelo death",
+      "Percy Jackson Season 3 Episode 4",
+      "Olive Abercrombie Percy Jackson"
+    ],
+    "images": [
+      {
+        "url": "https://www.thewrap.com/wp-content/uploads/2026/11/percy-jackson-bianca-nico.jpg",
+        "caption": "Percy Jackson and the Olympians Cast and Creators Dissect Episode 4 Death",
+        "source": "TheWrap"
+      }
+    ],
+    "published": "Fri, 27 Nov 2026 21:11:05 +0000"
+  },
+  "njmhjr": {
+    "id": "njmhjr",
+    "type": "news",
+    "headline": "Telugu Children's Film 'Summer Holidays' Sets OTT Premiere on SonyLIV",
+    "dek": "Srikar Nayan's directorial venture 'Summer Holidays', starring Arun Dev and Rohan Roy, is heading to digital platforms after its theatrical run in November 2026.",
+    "body": [
+      {
+        "h": "Digital Premiere Details",
+        "p": [
+          "The Telugu family drama 'Summer Holidays' is officially transitioning to the digital space following its theatrical debut last month. Movie enthusiasts who missed catching the film on the big screen can stream it starting December 4, 2026.",
+          "The title will be accessible globally via SonyLIV, ensuring that a much larger demographic of viewers can enjoy the heartfelt rural narrative from the comfort of their homes."
+        ]
+      },
+      {
+        "h": "Multilingual Availability Across India",
+        "p": [
+          "In a bid to connect with regional audiences outside its primary market, SonyLIV has scheduled the digital rollout in five distinct languages. While Telugu remains the original medium, viewers can also access dubbed versions.",
+          "Fans of regional cinema belonging to Tamil, Hindi, Kannada, and Malayalam linguistic groups will find localized audio tracks readily available upon the feature's digital launch."
+        ]
+      },
+      {
+        "h": "Plot and Setting",
+        "p": [
+          "The storyline transports viewers back to the year 2001, anchoring its narrative in a quaint rural village situated in Andhra Pradesh. The plot traces the unfolding dynamic between two young boys from drastically disparate backgrounds.",
+          "Arun Dev portrays Ravuri Venkatesh, affectionately called RV, a city boy visiting his grandmother during the school break. He crosses paths with Kasi Venkateswarlu, known as KV, played by Rohan Roy, a local child who tends to mango trees to earn money for his mother's sari."
+        ]
+      },
+      {
+        "h": "Exploring Contrasting Childhoods",
+        "p": [
+          "At its emotional core, the feature examines the vast differences in how children experience growing up depending on their socioeconomic environment. While one protagonist enjoys a carefree vacation, the other bears early domestic burdens.",
+          "The narrative uses this unlikely friendship to highlight resilience, mutual understanding, and the innocence of youth against the backdrop of a simpler, early-2000s rural landscape."
+        ]
+      },
+      {
+        "h": "Lead Performances and Casting",
+        "p": [
+          "Young actors Arun Dev and Rohan Roy shoulder the main responsibilities of the project, delivering grounded portrayals that anchor the film's emotional weight. Both actors bring prior experience to their respective characters.",
+          "Rohan Roy is recognized for his work in projects like '90's Middle Class Biopic' and 'Bhartha Mahasayulaku Wignyapthi', whereas Arun Dev won critical acclaim for his performance in '35 Chinna Katha Kaadu'."
+        ]
+      },
+      {
+        "h": "Supporting Cast and Critical Reception",
+        "p": [
+          "Complementing the young leads is a strong roster of supporting talent, featuring veteran actress Jayasudha alongside Vasuki, Baby Kushi, Rajeev Kanakala, and Harshavardhan under the direction of Srikar Nayan.",
+          "Upon its theatrical arrival on November 6, 2026, the feature earned a favorable 3 out of 5 rating from reviewers, who particularly lauded the natural chemistry between the two lead actors and the absence of melodrama."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "The Telugu children's drama 'Summer Holidays' is scheduled for its digital debut on SonyLIV on December 4, 2026, across five languages. Directed by Srikar Nayan and starring Arun Dev and Rohan Roy, the film follows a meaningful friendship formed during a 2001 village summer break."
+        ]
+      }
+    ],
+    "facts": [
+      "Summer Holidays released in theaters on November 6, 2026",
+      "Summer Holidays releases on OTT on December 4, 2026",
+      "The film will stream on SonyLIV in five languages including Telugu",
+      "Arun Dev and Rohan Roy play the lead roles",
+      "The film received a 3 out of 5 rating from reviewers"
+    ],
+    "entities": {
+      "people": [
+        "Srikar Nayan",
+        "Arun Dev",
+        "Rohan Roy",
+        "Jayasudha",
+        "Rajeev Kanakala",
+        "Harshavardhan",
+        "Vasuki",
+        "Baby Kushi"
+      ],
+      "titles": [
+        "Summer Holidays",
+        "90's Middle Class Biopic",
+        "Bhartha Mahasayulaku Wignyapthi",
+        "35 Chinna Katha Kaadu"
+      ]
+    },
+    "keywords": [
+      "Summer Holidays OTT release",
+      "Srikar Nayan Summer Holidays",
+      "Arun Dev Rohan Roy film",
+      "Summer Holidays SonyLIV"
+    ],
+    "images": [
+      {
+        "url": "https://static.toiimg.com/thumb/msid-136240640,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "caption": "Telugu Children's Film 'Summer Holidays' Sets OTT Premiere on SonyLIV",
+        "source": "Times of India — Entertainment"
+      }
+    ],
+    "published": "2026-11-28T12:08:17+05:30"
   }
 };
