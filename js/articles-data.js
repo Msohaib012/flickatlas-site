@@ -269345,5 +269345,401 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Fri, 27 Nov 2026 23:10:42 +0000"
+  },
+  "1u9c3e3": {
+    "id": "1u9c3e3",
+    "type": "news",
+    "headline": "‘Yeh Prem Mol Liya’ Day 1 Box Office: Ayushmann Khurrana and Sharvari Starrer Opens at Rs 4 Crore",
+    "dek": "Sooraj Barjatya's romantic family drama ‘Yeh Prem Mol Liya’ made a modest box-office debut, facing tough competition from ongoing blockbusters like ‘Ramayana’ and ‘Gunmaaster G9’.",
+    "body": [
+      {
+        "h": "Opening Day Performance",
+        "p": [
+          "Sooraj Barjatya's latest directorial venture, ‘Yeh Prem Mol Liya’, arrived in cinemas with considerable anticipation but ultimately recorded a modest start at the ticket counters. The romantic family drama secured a net collection of Rs 4 crore within the domestic market on its first day of release. Exhibiting across a wide network of 7,251 shows nationwide, the feature managed to pull in family audiences despite starting on a relatively quiet note.",
+          "According to tracking data from Sacnilk, the overall gross collection for the film within India reached Rs 4.70 crore on its opening day. While the numbers did not touch pre-release expectations, theater operators noted steady footfalls as the day progressed, paving the way for potential growth over the weekend."
+        ]
+      },
+      {
+        "h": "Pre-Release Expectations vs Reality",
+        "p": [
+          "Before its theatrical rollout, trade analysts and industry trackers had projected an opening figure of approximately Rs 7 crore net in India. Achieving those initial estimates depended heavily on robust evening occupancy rates and a strong wave of spot bookings from walk-in moviegoers.",
+          "Although the final day-one tally fell short of those early benchmarks, early audience feedback has provided a silver lining. Viewers have responded warmly to the emotional narrative and the lead performances, which could foster positive word of mouth as the weekend progresses."
+        ]
+      },
+      {
+        "h": "Box Office Clash With Existing Releases",
+        "p": [
+          "The newly released romantic drama entered a crowded marketplace, immediately locking horns with high-profile titles currently dominating the box office. Among its chief competitors is Namit Malhotra's theatrical success ‘Ramayana’, which has continued a strong run at the box office.",
+          "The arrival of ‘Yeh Prem Mol Liya’ appears to have made a visible dent in competing ticket sales. Notably, the daily collections for ‘Ramayana’ dipped below the Rs 10 crore milestone on Friday as audiences divided their attention between the established epic and the new family drama."
+        ]
+      },
+      {
+        "h": "Competition From ‘Gunmaaster G9’",
+        "p": [
+          "In addition to facing the momentum of ‘Ramayana’, the Ayushmann Khurrana starrer also contended with Emraan Hashmi's action entertainer ‘Gunmaaster G9’. That action-heavy feature debuted simultaneously, drawing crowds looking for high-octane thrills.",
+          "‘Gunmaaster G9’ recorded an opening-day worldwide gross of Rs 4.30 crore. Its domestic figures mirrored that total with an India gross of Rs 4.30 crore and a net domestic collection standing at Rs 3.65 crore on its first theatrical day."
+        ]
+      },
+      {
+        "h": "Cast and Creative Leadership",
+        "p": [
+          "Helmed by veteran filmmaker Sooraj Barjatya, ‘Yeh Prem Mol Liya’ relies heavily on its ensemble cast to draw family crowds back into cinema halls. The romantic feature pairs Ayushmann Khurrana and Sharvari in the central roles, supported by a roster of veteran actors.",
+          "The supporting lineup features notable names including Anupam Kher, Seema Pahwa, Supriya Pathak, and Swanand Kirkire. Their performances contribute to the emotional core that the production team hopes will sustain the movie's theatrical journey."
+        ]
+      },
+      {
+        "h": "Weekend Outlook and Growth Potential",
+        "p": [
+          "With the opening day numbers now on the books, the makers of ‘Yeh Prem Mol Liya’ are looking toward Saturday and Sunday to expand their box-office footprint. Family dramas traditionally rely on sustained weekend growth driven by positive word of mouth.",
+          "Industry observers remain watchful to see if the encouraging early audience reactions will translate into stronger occupancies during the afternoon and evening shows over the remainder of the opening weekend."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Sooraj Barjatya's ‘Yeh Prem Mol Liya’, starring Ayushmann Khurrana and Sharvari, opened to a modest Rs 4 crore net in India across 7,251 shows. The romantic family drama faced stiff box-office competition from ‘Ramayana’ and ‘Gunmaaster G9’ while looking to build momentum through positive weekend word of mouth."
+        ]
+      }
+    ],
+    "facts": [
+      "Yeh Prem Mol Liya opened on November 28, 2026",
+      "The film collected Rs 4 crore net in India on its first day",
+      "It played across 7,251 shows on day one",
+      "The India gross collection stands at Rs 4.70 crore",
+      "Gunmaaster G9 collected Rs 4.30 crore worldwide on its first day",
+      "Gunmaaster G9 recorded an India net collection of Rs 3.65 crore"
+    ],
+    "entities": {
+      "people": [
+        "Ayushmann Khurrana",
+        "Sharvari",
+        "Sooraj Barjatya",
+        "Namit Malhotra",
+        "Emraan Hashmi",
+        "Anupam Kher",
+        "Seema Pahwa",
+        "Supriya Pathak",
+        "Swanand Kirkire"
+      ],
+      "titles": [
+        "Yeh Prem Mol Liya",
+        "Ramayana",
+        "Gunmaaster G9"
+      ]
+    },
+    "keywords": [
+      "Yeh Prem Mol Liya box office",
+      "Ayushmann Khurrana Sharvari film",
+      "Sooraj Barjatya Yeh Prem Mol Liya",
+      "Yeh Prem Mol Liya day 1 collection"
+    ],
+    "images": [
+      {
+        "url": "https://static.toiimg.com/thumb/msid-136236344,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "caption": "‘Yeh Prem Mol Liya’ Day 1 Box Office: Ayushmann Khurrana and Sharvari Starrer Opens at Rs 4 Crore",
+        "source": "Times of India — Entertainment"
+      }
+    ],
+    "published": "2026-11-28T06:59:08+05:30"
+  },
+  "78509c": {
+    "id": "78509c",
+    "type": "news",
+    "headline": "Diljit Dosanjh Addresses Bomb Threat at Mumbai Concert",
+    "dek": "Singer Diljit Dosanjh took to the stage in Mumbai despite a serious bomb threat, thanking his fans and emphasizing that his heart is filled only with love.",
+    "body": [
+      {
+        "h": "Concert Facing Security Concerns",
+        "p": [
+          "Punjabi singer Diljit Dosanjh prepared to host a massive musical event in Mumbai on November 27, 2026. The concert venue was set at the Mahalaxmi Racecourse, drawing thousands of eager music enthusiasts.",
+          "However, the atmosphere shifted dramatically prior to the event due to a severe security alert issued for the area."
+        ]
+      },
+      {
+        "h": "Threat Received via Email",
+        "p": [
+          "Authorities received an alarming email directed at high-ranking officials including Mumbai Mayor Ritu Tawde and Municipal Commissioner Bhushan Gagrani. The message explicitly demanded the cancellation of the musical night.",
+          "The sender of the email threatened explosions, grenade attacks, and the planting of IED devices at or near the performance grounds."
+        ]
+      },
+      {
+        "h": "Intensive Police Deployment",
+        "p": [
+          "In response to the dangerous email, Mumbai police and local security forces immediately initiated comprehensive counter-measures. They scoured the venue, nearby vicinities, and nearby transit points for any suspicious items.",
+          "Over five hundred police personnel were deployed directly to the concert grounds to maintain strict law and order and protect the large audience."
+        ]
+      },
+      {
+        "h": "Diljit Dosanjh Takes the Stage",
+        "p": [
+          "Defying the panic and the threats, Diljit Dosanjh walked onto the stage to perform as originally scheduled. He addressed the elephant in the room by speaking directly about the bomb threat to the gathered crowd.",
+          "He expressed immense gratitude to his supporters for showing up in huge numbers despite the heavy warnings circulating in the media."
+        ]
+      },
+      {
+        "h": "Message of Love and Resilience",
+        "p": [
+          "Addressing the audience, the singer remarked that while threats of bombs could be issued, his own heart remained entirely filled with affection. He thanked both those who loved him and those who held grievances against him.",
+          "He maintained that fear or hatred could never prevent a dedicated artist from connecting with their beloved audience members."
+        ]
+      },
+      {
+        "h": "Commitment to Fans",
+        "p": [
+          "The artist noted that he had made a promise to his supporters and refused to back down or cancel the performance. He reiterated that the loyalty and energy of his fans serve as his ultimate strength.",
+          "Strict restrictions were enforced at the entry gates, prohibiting items like flags, posters, pens, and cosmetic products to ensure absolute safety."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Diljit Dosanjh performed at the Mahalaxmi Racecourse in Mumbai on November 27, 2026, despite a bomb threat email sent to city officials. Police deployed over 500 personnel and tightened security while the singer thanked his fans for their support."
+        ]
+      }
+    ],
+    "facts": [
+      "Diljit Dosanjh held a concert in Mumbai on November 27, 2026.",
+      "The venue for the concert was the Mahalaxmi Racecourse.",
+      "Threatening emails mentioning bombs and IEDs were sent to Mayor Ritu Tawde and Municipal Commissioner Bhushan Gagrani.",
+      "Over 500 police personnel were deployed at the concert venue."
+    ],
+    "entities": {
+      "people": [
+        "Diljit Dosanjh",
+        "Ritu Tawde",
+        "Bhushan Gagrani"
+      ],
+      "titles": []
+    },
+    "keywords": [
+      "Diljit Dosanjh Mumbai Concert",
+      "Diljit Dosanjh bomb threat",
+      "Mahalaxmi Racecourse concert",
+      "Diljit Dosanjh November 2026"
+    ],
+    "images": [
+      {
+        "url": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202611/6b099d7256966-diljit-dosanjh-mumbai-news-275938219-16x9.jpg",
+        "caption": "Diljit Dosanjh Addresses Bomb Threat at Mumbai Concert",
+        "source": "Aaj Tak — Entertainment"
+      }
+    ],
+    "published": "2026-11-28T01:52:07Z"
+  },
+  "sztyrw": {
+    "id": "sztyrw",
+    "type": "news",
+    "headline": "Keanu Reeves' Crime Comedy Keanu Is Leaving Netflix at the End of the Month",
+    "dek": "Fans have limited time left to stream the 2016 action comedy starring Keanu Reeves alongside Keegan-Michael Key and Jordan Peele before it departs the platform.",
+    "body": [
+      {
+        "h": "Impending Departure From Streaming",
+        "p": [
+          "Subscribers seeking to watch the action-packed comedy Keanu find themselves pressed for time as the film prepares to leave Netflix. The feature is scheduled to drop off the streaming service before the month concludes, giving audiences only a brief window to revisit the project.",
+          "The removal marks the end of its current streaming availability on the platform. Viewers wishing to experience the bizarre crime caper once more must do so quickly before licensing windows close."
+        ]
+      },
+      {
+        "h": "An Unexpected Premise",
+        "p": [
+          "The plot centers around two cousins, Clarence and Rell, who plunge into the criminal underworld after an adorable kitten is stolen. Clarence, portrayed by Keegan-Michael Key, finds emotional comfort in the tiny animal following a difficult breakup.",
+          "Unbeknownst to the cousins, the kitten named Keanu previously belonged to a dangerous New Orleans drug kingpin. Their quest to retrieve the stolen pet pulls them into a chaotic sequence involving drug dealers and professional assassins."
+        ]
+      },
+      {
+        "h": "Starring Key and Peele",
+        "p": [
+          "Released in 2016, the project served as the first leading film vehicle for the celebrated sketch comedy duo Keegan-Michael Key and Jordan Peele. Peter Atencio directed the feature, utilizing a script co-written by Peele and Alex Rubens.",
+          "The movie functioned as a welcome extension of the performers' creative collaboration following the conclusion of their popular Comedy Central television series. Their signature comedic timing heavily shaped the tone of the theatrical release."
+        ]
+      },
+      {
+        "h": "The Unique Role of Keanu Reeves",
+        "p": [
+          "Though celebrated worldwide for intense action roles in blockbuster franchises, Keanu Reeves has frequently explored comedic territory throughout his career. From early buddy comedies to voice acting in animated films, his versatility remains a defining trait.",
+          "In this specific feature, Reeves takes on a delightfully meta role by voicing the titular kitten during a memorable homage sequence to The Matrix. The feline character acts as the literal centerpiece around which the entire narrative revolves."
+        ]
+      },
+      {
+        "h": "Critical Reception and Box Office",
+        "p": [
+          "Upon its initial theatrical run, the picture found a favorable response among reviewers who praised its absurd premise and the central chemistry of the lead actors. It ultimately secured a Certified Fresh designation on Rotten Tomatoes.",
+          "Commercially, the film achieved a solid financial return by grossing twenty million dollars against a modest production budget of fifteen million dollars. It proved that the comedic duo could successfully transition their brand of humor to the big screen."
+        ]
+      },
+      {
+        "h": "An All-Star Supporting Cast",
+        "p": [
+          "Beyond the primary leads, the production featured a diverse ensemble of recognizable actors and musicians. Performers such as Tiffany Haddish, Method Man, Nia Long, Will Forte, and Luis Guzmán filled out the supporting roster.",
+          "Each guest star contributed to the chaotic energy of the criminal underworld that the main characters navigate. Their involvement added extra layers of humor to the escalating absurdities of the rescue mission."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "The 2016 action comedy Keanu is officially leaving Netflix at the end of the month, ending its current streaming run on the platform. The film, which stars Keegan-Michael Key and Jordan Peele alongside a voice appearance from Keanu Reeves, previously earned strong reviews and a modest box office success upon its initial release."
+        ]
+      }
+    ],
+    "facts": [
+      "Keanu was released in 2016.",
+      "The film was directed by Peter Atencio.",
+      "Jordan Peele and Alex Rubens wrote the script.",
+      "Keanu earned $20 million at the box office on a $15 million budget.",
+      "The film holds a 78% score on Rotten Tomatoes.",
+      "The film is leaving Netflix at the end of the month."
+    ],
+    "entities": {
+      "people": [
+        "Keanu Reeves",
+        "Keegan-Michael Key",
+        "Jordan Peele",
+        "Peter Atencio",
+        "Alex Rubens",
+        "Tiffany Haddish",
+        "Method Man",
+        "Nia Long",
+        "Will Forte",
+        "Luis Guzmán"
+      ],
+      "titles": [
+        "Keanu",
+        "The Matrix",
+        "John Wick",
+        "Bill Ted's Excellent Adventure",
+        "Toy Story 4",
+        "Toy Story 5",
+        "I Love You to Death",
+        "Good Fortune",
+        "Outcome"
+      ]
+    },
+    "keywords": [
+      "Keanu Netflix",
+      "Keanu Reeves Keanu film",
+      "Key and Peele Keanu movie",
+      "Keanu leaving Netflix"
+    ],
+    "images": [
+      {
+        "url": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/03/keanu-reeves.jpg?w=1600&amp;h=900&amp;fit=crop",
+        "caption": "Keanu Reeves' Crime Comedy Keanu Is Leaving Netflix at the End of the Month",
+        "source": "Collider"
+      }
+    ],
+    "published": "Sat, 28 Nov 2026 01:30:12 GMT"
+  },
+  "1s0bht3": {
+    "id": "1s0bht3",
+    "type": "news",
+    "headline": "Shah Rukh Khan and Kareena Kapoor Khan reunite in King second track Daddy Cool",
+    "dek": "The second single from the highly anticipated film King has been launched, featuring a dynamic onscreen reunion of Shah Rukh Khan and Kareena Kapoor Khan after fifteen years.",
+    "body": [
+      {
+        "h": "The release of Daddy Cool",
+        "p": [
+          "Makers of the upcoming Bollywood project King have rolled out its second musical offering titled Daddy Cool. The track arrived on November 27, 2026, generating immense excitement among fans eagerly awaiting the feature.",
+          "The song launch was marked by a special Instagram event in Mumbai. This unique promotional rollout brought the lead stars together in front of the public eye for the very first time for this project."
+        ]
+      },
+      {
+        "h": "Onscreen reunion after fifteen years",
+        "p": [
+          "This new track brings Shah Rukh Khan and Kareena Kapoor Khan together on screen once again after a gap of approximately fifteen years. The duo previously charmed audiences with their hit collaboration in the 2011 movie Ra.One, specifically in the chartbuster song Chammak Challo.",
+          "Their visible chemistry during the promotional event successfully brought back nostalgic memories of their past pairings, adding immense buzz to the upcoming cinematic release."
+        ]
+      },
+      {
+        "h": "The creative team behind the track",
+        "p": [
+          "The vibrant dance number has been composed by the musical duo Sachin-Jigar, with lyrics penned by Kumar. The vocals for the upbeat track are delivered by Arijit Singh and Shilpa Rao.",
+          "Choreography for the song was handled by Vaibhavi Merchant, ensuring high-energy dance steps that highlight the performers' charisma and screen presence."
+        ]
+      },
+      {
+        "h": "Social media reception and artist statements",
+        "p": [
+          "Shah Rukh Khan took to his official X handle to share the track with his followers. He posted a message declaring that he is back with Bebo, describing the song as old school yet cool.",
+          "The superstar also reminded fans that the film is scheduled to hit theaters globally on December 24, 2026, building anticipation for the theatrical premiere."
+        ]
+      },
+      {
+        "h": "Context within the film's music album",
+        "p": [
+          "Daddy Cool serves as the latest addition to the official music album of King. The project's promotional journey began earlier when the first single, Tu Mil Jaaye, was released on November 2, coinciding with Shah Rukh Khan's sixty-first birthday.",
+          "The sequential rollout of songs has kept the audience engaged, establishing the movie as one of the major cinematic events of the year."
+        ]
+      },
+      {
+        "h": "Cast and crew details",
+        "p": [
+          "King is directed by Siddharth Anand and is billed as an action thriller. The film is jointly produced by Red Chillies Entertainment and Marflix Pictures.",
+          "Alongside Shah Rukh Khan and Kareena Kapoor Khan, the star-studded cast features Suhana Khan, Deepika Padukone, Abhishek Bachchan, Rani Mukherjee, Anil Kapoor, Jackie Shroff, Jaideep Ahlawat, Arshad Warsi, and Raghav Juyal."
+        ]
+      },
+      {
+        "h": "Release timeline and significance",
+        "p": [
+          "The feature is locked in for a December 24, 2026 theatrical release. The lead star has personally confirmed that the calendar date remains unchanged, putting an end to speculation regarding any potential delays.",
+          "This project marks the first time Shah Rukh Khan shares screen space with his daughter Suhana Khan, and serves as his second collaboration with director Siddharth Anand following their work on Pathaan."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "The second song from King titled Daddy Cool has been officially released following a special Instagram launch event in Mumbai on November 27, 2026. Composed by Sachin-Jigar and sung by Arijit Singh and Shilpa Rao, the track features a reunion between Shah Rukh Khan and Kareena Kapoor Khan fifteen years after Ra.One. The action thriller directed by Siddharth Anand remains on track for its December 24, 2026 theatrical premiere."
+        ]
+      }
+    ],
+    "facts": [
+      "The song Daddy Cool was released on November 27, 2026.",
+      "The film King is scheduled to release on December 24, 2026.",
+      "The first song Tu Mil Jaaye was released on November 2, 2026.",
+      "Shah Rukh Khan and Kareena Kapoor Khan last appeared together in the 2011 film Ra.One.",
+      "The song was composed by Sachin-Jigar with lyrics by Kumar and vocals by Arijit Singh and Shilpa Rao."
+    ],
+    "entities": {
+      "people": [
+        "Shah Rukh Khan",
+        "Kareena Kapoor Khan",
+        "Sachin-Jigar",
+        "Kumar",
+        "Arijit Singh",
+        "Shilpa Rao",
+        "Vaibhavi Merchant",
+        "Suhana Khan",
+        "Deepika Padukone",
+        "Abhishek Bachchan",
+        "Rani Mukherjee",
+        "Anil Kapoor",
+        "Jackie Shroff",
+        "Jaideep Ahlawat",
+        "Arshad Warsi",
+        "Raghav Juyal",
+        "Siddharth Anand"
+      ],
+      "titles": [
+        "King",
+        "Daddy Cool",
+        "Ra.One",
+        "Chammak Challo",
+        "Tu Mil Jaaye",
+        "Pathaan"
+      ]
+    },
+    "keywords": [
+      "King movie second song Daddy Cool",
+      "Shah Rukh Khan Kareena Kapoor King song",
+      "Daddy Cool song release date",
+      "King action thriller Siddharth Anand"
+    ],
+    "images": [
+      {
+        "url": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202611/6b0998172b3e2-shahrukh-khan-kareena-kapoor-daddy-cool-274749861-16x9.jpg",
+        "caption": "Shah Rukh Khan and Kareena Kapoor Khan reunite in King second track Daddy Cool",
+        "source": "Aaj Tak — Entertainment"
+      }
+    ],
+    "published": "2026-11-28T01:52:07Z"
   }
 };
