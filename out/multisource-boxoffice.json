@@ -612,6 +612,26 @@
         }
       }
     },
+    "1179380": {
+      "1": {
+        "date": "2026-11-27",
+        "extras": {
+          "occupancy": {
+            "sources": {
+              "overseas-backfill": 28.0
+            },
+            "value": 28.0
+          },
+          "shows": {
+            "sources": {
+              "overseas-backfill": 790
+            },
+            "value": 790
+          }
+        },
+        "india": false
+      }
+    },
     "1202167": {
       "1": {
         "ai_first": false,

@@ -4,45 +4,6 @@
    {
     "step": "fetch",
     "category": "Trending News",
-    "run_at": "2026-11-27T20:51:56Z",
-    "run_id": "46066339629",
-    "status": "success",
-    "checked": {
-     "candidates": 399,
-     "detail": "RSS/Atom items across 137 sources; 10 source(s) errored"
-    },
-    "changed": {
-     "added": [
-      "Bigg Boss 20 Highlights: Kanika Mann Becomes New Captain; Gullu & Scout's Decision Changes The Game",
-      "Gaurav Khanna Reveals How He Handles Shraddha Arya's 'Child Inside Her' On Dil Ki Bewafaiyaan Set",
-      "Gunmaaster G9: BC Aunty Aka Snehil Dixit Mehra: 'I'm Excited For Audiences To Watch Sudha Bua'- EXCLUSIVE",
-      "Bigg Boss 20 UPDATE: Arishfa-Uditi Question Gullu's Game, He Hits Back With A Savage Reply: 3 Show Phele...",
-      "Tu Hi Re Dil Mein: 5 Reasons Fans Love Aman Sachdeva's ZEE TV Show Starring Abrar Qazi, Priyanshi Yadav",
-      "Dunesday Has Denis Villeneuve ‘Praying’ For Dune: Part 3's Success, But What Do The Numbers Say?",
-      "Now That The Elizabeth Holmes Doc Is Streaming, The Directors’ Original Plea Is As Important As Ever",
-      "David Fincher Is Known For An Insane Number Of Takes. The Sweet Way Brad Pitt Dealt With It On Cliff Booth",
-      "I Didn’t Expect Hexed To Leave Me With A Question Involving Disney Princesses",
-      "Focker In-Law Has A 32% From Critics. Why I Think You Should Ignore That",
-      "Chris Hemsworth’s Latest Workout Video Has Fans Saying ‘Doom Is Not Ready’ For Thor",
-      "Batman’s Greatest Trilogy Is Officially 90% Off",
-      "Forget The Lord of the Rings, These 4 Books Do Epic Fantasy Much Better",
-      "Warner Bros. Latest Misfire Officially Removed From Over 1,000 Theaters",
-      "5 Near-Perfect Netflix Series With Less Than 20 Episodes",
-      "The Hunger Games Movies Are Officially Being Eliminated From Free Streaming",
-      "Reese Witherspoon’s Forgotten 8-Part Miniseries Is a Near-Perfect Binge",
-      "Netflix's 8-Part Horror Thriller Is the Perfect Binge for 'Haunting of Hill House' Fans",
-      "David Fincher and Brad Pitt Are Officially Eyeing a Brand-New Movie Genre for Their Next Team-Up",
-      "Will Smith’s Superhero Movie Sequel Gets a Major Update Fans Will Love"
-     ],
-     "updated": [],
-     "count": 335,
-     "detail": "347 stories, 0 duplicates removed, 52 dropped"
-    },
-    "reason": null
-   },
-   {
-    "step": "fetch",
-    "category": "Trending News",
     "run_at": "2026-11-27T21:51:07Z",
     "run_id": "46072872064",
     "status": "success",
@@ -936,32 +897,48 @@
      "detail": "336 stories, 5 duplicates removed, 146 dropped"
     },
     "reason": null
-   }
-  ],
-  "apply_auto": [
+   },
    {
-    "step": "apply_auto",
+    "step": "fetch",
     "category": "Trending News",
-    "run_at": "2026-11-27T22:52:05Z",
-    "run_id": "46079034649",
+    "run_at": "2026-11-28T19:51:06Z",
+    "run_id": "46183255518",
     "status": "success",
     "checked": {
-     "candidates": 15,
-     "detail": "draft articles + box-office rows from out/gemini-batch.json"
+     "candidates": 329,
+     "detail": "RSS/Atom items across 137 sources; 0 source(s) errored"
     },
     "changed": {
      "added": [
-      "Nicole Scherzinger and Thom Evans End Engagement After Seven Years Together",
-      "Focker-In-Law Pulls in $7.7 Million on Thanksgiving Day Following Wednesday Debut",
-      "Downing Street Slams Channel 4 Over Controversial Huw Edwards Documentary",
-      "IU Announces 2027 World Tour After Health Hiatus"
+      "Shah Rukh Khan’s 'King' Event Faces Inclusion BACKLASH As Disabled Creator Asks: \"Hum Insaan Nahi Hai?\"",
+      "WTF Is This…: Avneet Kaur's Gunmaaster G9 Song Sparks Outrage; Netizens Drag Peddi Into Objectification Debate",
+      "Iron Man Vs Thor Vs Captain America At Worldwide Box Office: Which Avenger From The MCU’s Original Trinity Earned The Most With His First Solo Film?",
+      "Resident Evil Worldwide Box Office: Edges Closer To Surpassing Quentin Tarantino’s All-Time Top Grosser!",
+      "yami gautam turns 38 aditya dhar pens heartfelt birthday note for wife 87432.html",
+      "vijay sethupathi reacts after tom hanks praises maharaja 87431.html",
+      "shah rukh khan brings the star power to metas house of instagram in mumbai 87430.html",
+      "cosmic samson review a superhero with speed but not enough direction 87429.html",
+      "train trailer vijay sethupathi takes on a high stakes mission in mysskins action thriller 87428.html",
+      "Gunmaaster G9 box office collection day 2: Emraan Hashmi, Genelia D''s action thriller witnesses growth but still lags behind Yeh Prem Mol Liya",
+      "Ramayana box office collection day 24: Ranbir Kapoor and Yash-starrer shows no sign of slowing down even after crossing  ₹1000 crore",
+      "Yeh Prem Mol Liya box office collection day 2: Ayushmann Khurrana and Sharvari's film shows growth, collects  ₹9 crore in 2 days",
+      "Mirzapur 2 movie being chased by A-list star: Source",
+      "aishwarya rai abhishek bachchan twin on night out shaina nc post aaradhya bachchan missing fans reacts inside photos tmovb 2708479 2026 11 28",
+      "dhurandhar director aditya dhar calls himself yami paglu birthday wish yami gautam tmovj 2709078 2026 11 28",
+      "ranjeet daughter divyanka bedi married groom apoorv mathur wore grandmother in law necklace wedding inside photos tmovf 2708458 2026 11 28",
+      "hanuman ansh shobhinaw satyaa box office collection 453 crore money not motto ott release tmovj dskc 2709112 2026 11 28",
+      "javed akhtar questions womens reservation link with delimitation exercise government intent tmovj dskc 2709134 2026 11 28",
+      "javed akhtar reaction salman khan teri sexy beauty song controversy tmovg dskc 2709111 2026 11 28",
+      "made in india a titan story wins best web series ott award 2026 at 57th iffi tmovg dskc 2709191 2026 11 28"
      ],
      "updated": [],
-     "count": 8,
-     "detail": "+4 articles, +1 box-office rows, 3 rows updated"
+     "count": 318,
+     "detail": "329 stories, 0 duplicates removed, 0 dropped"
     },
     "reason": null
-   },
+   }
+  ],
+  "apply_auto": [
    {
     "step": "apply_auto",
     "category": "Trending News",
@@ -1480,27 +1457,32 @@
      "detail": "+4 articles, +1 box-office rows, 3 rows updated"
     },
     "reason": null
+   },
+   {
+    "step": "apply_auto",
+    "category": "Trending News",
+    "run_at": "2026-11-28T19:51:58Z",
+    "run_id": "46183255518",
+    "status": "success",
+    "checked": {
+     "candidates": 14,
+     "detail": "draft articles + box-office rows from out/gemini-batch.json"
+    },
+    "changed": {
+     "added": [
+      "Made in India A Titan Story Wins Best Web Series OTT Award 2026 at 57th IFFI",
+      "Taylor Sheridan Crime Drama Hits Half a Billion Streaming Minutes",
+      "Shah Rukh Khan's King Event Faces Backlash From Disabled Creator Over Exclusion",
+      "Marvel Officially Announces Predator vs. Punisher Comic Book Series"
+     ],
+     "updated": [],
+     "count": 7,
+     "detail": "+4 articles, +0 box-office rows, 3 rows updated"
+    },
+    "reason": null
    }
   ],
   "ott": [
-   {
-    "step": "ott",
-    "category": "OTT",
-    "run_at": "2026-11-27T20:52:30Z",
-    "run_id": "46066339629",
-    "status": "success",
-    "checked": {
-     "candidates": 450,
-     "detail": "OTT now/coming titles from the published catalogue"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 0,
-     "detail": "now 447, coming 3"
-    },
-    "reason": "no-new-data"
-   },
    {
     "step": "ott",
     "category": "OTT",
@@ -1914,26 +1896,27 @@
      "detail": "now 457, coming 3"
     },
     "reason": "no-new-data"
-   }
-  ],
-  "trending_weekly": [
+   },
    {
-    "step": "trending_weekly",
-    "category": "Trending Topics",
-    "run_at": "2026-11-27T20:54:38Z",
-    "run_id": "46066339629",
+    "step": "ott",
+    "category": "OTT",
+    "run_at": "2026-11-28T19:51:58Z",
+    "run_id": "46183255518",
     "status": "success",
     "checked": {
-     "candidates": 100,
-     "detail": "cached Google RSS trend/article intersection"
+     "candidates": 460,
+     "detail": "OTT now/coming titles from the published catalogue"
     },
     "changed": {
      "added": [],
      "updated": [],
-     "count": 0
+     "count": 0,
+     "detail": "now 457, coming 3"
     },
     "reason": "no-new-data"
-   },
+   }
+  ],
+  "trending_weekly": [
    {
     "step": "trending_weekly",
     "category": "Trending Topics",
@@ -2401,27 +2384,35 @@
      "count": 0
     },
     "reason": "no-new-data"
+   },
+   {
+    "step": "trending_weekly",
+    "category": "Trending Topics",
+    "run_at": "2026-11-28T20:27:42Z",
+    "run_id": "46183255518",
+    "status": "success",
+    "checked": {
+     "candidates": 100,
+     "detail": "cached Google RSS trend/article intersection"
+    },
+    "changed": {
+     "added": [
+      "6u44x6",
+      "1ao14lx",
+      "8kltp4",
+      "1u9c3e3",
+      "14aeaci",
+      "d9n5lc",
+      "1j6ovug",
+      "68q2pw"
+     ],
+     "updated": [],
+     "count": 8
+    },
+    "reason": null
    }
   ],
   "multisource_boxoffice": [
-   {
-    "step": "multisource_boxoffice",
-    "category": "Box Office",
-    "run_at": "2026-11-27T22:01:32Z",
-    "run_id": "46072872064",
-    "status": "success",
-    "checked": {
-     "candidates": 765,
-     "detail": "695 collected staging rows from readers; 262 averaged across 2+ sources"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 5,
-     "detail": "+0 new rows, 5 updated rows, 732 unchanged"
-    },
-    "reason": null
-   },
    {
     "step": "multisource_boxoffice",
     "category": "Box Office",
@@ -2835,19 +2826,27 @@
      "detail": "+0 new rows, 5 updated rows, 739 unchanged"
     },
     "reason": null
+   },
+   {
+    "step": "multisource_boxoffice",
+    "category": "Box Office",
+    "run_at": "2026-11-28T20:00:50Z",
+    "run_id": "46183255518",
+    "status": "success",
+    "checked": {
+     "candidates": 771,
+     "detail": "700 collected staging rows from readers; 262 averaged across 2+ sources"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 6,
+     "detail": "+0 new rows, 6 updated rows, 739 unchanged"
+    },
+    "reason": null
    }
   ],
   "gemini_reviews": [
-   {
-    "step": "gemini_reviews",
-    "category": "Reviews",
-    "run_at": "2026-11-27T20:54:47Z",
-    "run_id": "46066339629",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "gemini_reviews",
     "category": "Reviews",
@@ -3077,32 +3076,26 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "gemini_reviews",
+    "category": "Reviews",
+    "run_at": "2026-11-28T20:27:39Z",
+    "run_id": "46183255518",
+    "status": "success",
+    "checked": {
+     "candidates": 1363,
+     "detail": "released movies without a review; Tavily searches: 1458"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 0
+    },
+    "reason": "no-new-data"
    }
   ],
   "convert_news": [
-   {
-    "step": "convert_news",
-    "category": "Trending News",
-    "run_at": "2026-11-27T22:52:07Z",
-    "run_id": "46079034649",
-    "status": "success",
-    "checked": {
-     "candidates": 600,
-     "detail": "feed entries from out/queue.json"
-    },
-    "changed": {
-     "added": [
-      "Focker-In-Law Pulls in $7.7 Million on Thanksgiving Day Following Wednesday Debut",
-      "Downing Street Slams Channel 4 Over Controversial Huw Edwards Documentary",
-      "IU Announces 2027 World Tour After Health Hiatus",
-      "Nicole Scherzinger and Thom Evans End Engagement After Seven Years Together"
-     ],
-     "updated": [],
-     "count": 4,
-     "detail": "api-news.json 600 items, api-trends.json 12 items"
-    },
-    "reason": null
-   },
    {
     "step": "convert_news",
     "category": "Trending News",
@@ -3628,19 +3621,32 @@
      "detail": "api-news.json 600 items, api-trends.json 12 items"
     },
     "reason": null
+   },
+   {
+    "step": "convert_news",
+    "category": "Trending News",
+    "run_at": "2026-11-28T20:27:41Z",
+    "run_id": "46183255518",
+    "status": "success",
+    "checked": {
+     "candidates": 600,
+     "detail": "feed entries from out/queue.json"
+    },
+    "changed": {
+     "added": [
+      "Made in India A Titan Story Wins Best Web Series OTT Award 2026 at 57th IFFI",
+      "Taylor Sheridan Crime Drama Hits Half a Billion Streaming Minutes",
+      "Shah Rukh Khan's King Event Faces Backlash From Disabled Creator Over Exclusion",
+      "Marvel Officially Announces Predator vs. Punisher Comic Book Series"
+     ],
+     "updated": [],
+     "count": 4,
+     "detail": "api-news.json 600 items, api-trends.json 12 items"
+    },
+    "reason": null
    }
   ],
   "episode_guides": [
-   {
-    "step": "episode_guides",
-    "category": "Drama Episodes",
-    "run_at": "2026-11-27T20:54:47Z",
-    "run_id": "46066339629",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "episode_guides",
     "category": "Drama Episodes",
@@ -3909,19 +3915,26 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "episode_guides",
+    "category": "Drama Episodes",
+    "run_at": "2026-11-28T19:51:09Z",
+    "run_id": "46183255518",
+    "status": "success",
+    "checked": {
+     "candidates": 19,
+     "detail": "YouTube episodes on the 4 official PK channels (+ intl 1M+ views); 6 new detected"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 0
+    },
+    "reason": "no-new-data"
    }
   ],
   "title_seed": [
-   {
-    "step": "title_seed",
-    "category": "Spotlight / Coming Soon / Most Awaited",
-    "run_at": "2026-11-27T20:54:47Z",
-    "run_id": "46066339629",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "title_seed",
     "category": "Spotlight / Coming Soon / Most Awaited",
@@ -4242,31 +4255,19 @@
      "count": 19
     },
     "reason": null
+   },
+   {
+    "step": "title_seed",
+    "category": "Spotlight / Coming Soon / Most Awaited",
+    "run_at": "2026-11-28T20:27:51Z",
+    "run_id": "46183255518",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "gemini_batch": [
-   {
-    "step": "gemini_batch",
-    "category": "Trending News",
-    "run_at": "2026-11-27T20:52:29Z",
-    "run_id": "46066339629",
-    "status": "success",
-    "checked": {
-     "candidates": 4,
-     "detail": "news queue items drafted this run; 335 still unprocessed; today by category: movies 12/6, tv_dramas 14/4, episodes 1/2, box_office 11/6, celebrities_events 13/5, upcoming_releases 7/4, ott_streaming 10/4, trailers 3/3, awards 3/2, music_ost 5/2, viral 5/2"
-    },
-    "changed": {
-     "added": [
-      "How Gen Z Creator Jenny Kamki Rose to Fame From a Viral Reel to India's Got Latent",
-      "Nine To Six Episode 2 Recap: Public Breakup, Phone Tracker, and Demotion",
-      "Anu Malik Reacts to Sajan Sajan Going Viral in Desi Batman Reels",
-      "Exploring Exceptional Short-Run Netflix Series Worth Your Time"
-     ],
-     "updated": [],
-     "count": 4
-    },
-    "reason": null
-   },
    {
     "step": "gemini_batch",
     "category": "Trending News",
@@ -4772,19 +4773,31 @@
      "count": 4
     },
     "reason": null
+   },
+   {
+    "step": "gemini_batch",
+    "category": "Trending News",
+    "run_at": "2026-11-28T19:51:57Z",
+    "run_id": "46183255518",
+    "status": "success",
+    "checked": {
+     "candidates": 8,
+     "detail": "news queue items drafted this run; 318 still unprocessed; today by category: movies 14/6, tv_dramas 10/4, episodes 2/2, box_office 12/6, celebrities_events 18/5, upcoming_releases 6/4, ott_streaming 11/4, trailers 2/3, awards 5/2, music_ost 2/2, viral 2/2"
+    },
+    "changed": {
+     "added": [
+      "Made in India A Titan Story Wins Best Web Series OTT Award 2026 at 57th IFFI",
+      "Taylor Sheridan Crime Drama Hits Half a Billion Streaming Minutes",
+      "Shah Rukh Khan's King Event Faces Backlash From Disabled Creator Over Exclusion",
+      "Marvel Officially Announces Predator vs. Punisher Comic Book Series"
+     ],
+     "updated": [],
+     "count": 4
+    },
+    "reason": null
    }
   ],
   "overseas_ai": [
-   {
-    "step": "overseas_ai",
-    "category": "Box Office",
-    "run_at": "2026-11-27T20:54:47Z",
-    "run_id": "46066339629",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "overseas_ai",
     "category": "Box Office",
@@ -5091,24 +5104,26 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "publish": [
+   },
    {
-    "step": "publish",
-    "category": "Trending News",
-    "run_at": "2026-11-27T20:54:47Z",
-    "run_id": "46066339629",
+    "step": "overseas_ai",
+    "category": "Box Office",
+    "run_at": "2026-11-28T19:53:06Z",
+    "run_id": "46183255518",
     "status": "success",
-    "checked": null,
+    "checked": {
+     "candidates": 67,
+     "detail": "published movies with missing overseas day figures; Tavily searches: 48"
+    },
     "changed": {
      "added": [],
      "updated": [],
-     "count": 409,
-     "detail": "lines changed in owned files; no per-item summary from script"
+     "count": 0
     },
-    "reason": null
-   },
+    "reason": "no-new-data"
+   }
+  ],
+  "publish": [
    {
     "step": "publish",
     "category": "Trending News",
@@ -5453,24 +5468,24 @@
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
-   }
-  ],
-  "stats_traffic": [
+   },
    {
-    "step": "stats_traffic",
-    "category": "Stats / Health",
-    "run_at": "2026-11-27T20:54:47Z",
-    "run_id": "46066339629",
+    "step": "publish",
+    "category": "Trending News",
+    "run_at": "2026-11-28T20:27:51Z",
+    "run_id": "46183255518",
     "status": "success",
     "checked": null,
     "changed": {
      "added": [],
      "updated": [],
-     "count": 2,
+     "count": 408,
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
-   },
+   }
+  ],
+  "stats_traffic": [
    {
     "step": "stats_traffic",
     "category": "Stats / Health",
@@ -5810,19 +5825,24 @@
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
+   },
+   {
+    "step": "stats_traffic",
+    "category": "Stats / Health",
+    "run_at": "2026-11-28T20:27:51Z",
+    "run_id": "46183255518",
+    "status": "success",
+    "checked": null,
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 46,
+     "detail": "lines changed in owned files; no per-item summary from script"
+    },
+    "reason": null
    }
   ],
   "stats_pipeline": [
-   {
-    "step": "stats_pipeline",
-    "category": "Stats / Health",
-    "run_at": "2026-11-27T20:54:47Z",
-    "run_id": "46066339629",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "stats_pipeline",
     "category": "Stats / Health",
@@ -6072,19 +6092,19 @@
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
-   }
-  ],
-  "stats_health": [
+   },
    {
-    "step": "stats_health",
+    "step": "stats_pipeline",
     "category": "Stats / Health",
-    "run_at": "2026-11-27T20:54:47Z",
-    "run_id": "46066339629",
+    "run_at": "2026-11-28T20:27:51Z",
+    "run_id": "46183255518",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "stats_health": [
    {
     "step": "stats_health",
     "category": "Stats / Health",
@@ -6319,19 +6339,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "metadata_refresh": [
+   },
    {
-    "step": "metadata_refresh",
-    "category": "Spotlight / Coming Soon / Most Awaited",
-    "run_at": "2026-11-27T20:54:47Z",
-    "run_id": "46066339629",
+    "step": "stats_health",
+    "category": "Stats / Health",
+    "run_at": "2026-11-28T20:27:51Z",
+    "run_id": "46183255518",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "metadata_refresh": [
    {
     "step": "metadata_refresh",
     "category": "Spotlight / Coming Soon / Most Awaited",
@@ -6615,19 +6635,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "providers_backfill": [
+   },
    {
-    "step": "providers_backfill",
-    "category": "OTT",
-    "run_at": "2026-11-27T20:54:47Z",
-    "run_id": "46066339629",
+    "step": "metadata_refresh",
+    "category": "Spotlight / Coming Soon / Most Awaited",
+    "run_at": "2026-11-28T20:27:51Z",
+    "run_id": "46183255518",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "providers_backfill": [
    {
     "step": "providers_backfill",
     "category": "OTT",
@@ -6868,19 +6888,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "tavily_boxoffice": [
+   },
    {
-    "step": "tavily_boxoffice",
-    "category": "Box Office",
-    "run_at": "2026-11-27T20:54:47Z",
-    "run_id": "46066339629",
+    "step": "providers_backfill",
+    "category": "OTT",
+    "run_at": "2026-11-28T20:27:51Z",
+    "run_id": "46183255518",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "tavily_boxoffice": [
    {
     "step": "tavily_boxoffice",
     "category": "Box Office",
@@ -7110,19 +7130,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "tavily_boxoffice",
+    "category": "Box Office",
+    "run_at": "2026-11-28T20:27:51Z",
+    "run_id": "46183255518",
+    "status": "success",
+    "checked": null,
+    "changed": null,
+    "reason": "no-new-data"
    }
   ],
   "keywords_refresh": [
-   {
-    "step": "keywords_refresh",
-    "category": "Trending News",
-    "run_at": "2026-11-27T20:54:47Z",
-    "run_id": "46066339629",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "keywords_refresh",
     "category": "Trending News",
@@ -7375,31 +7395,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "keywords_refresh",
+    "category": "Trending News",
+    "run_at": "2026-11-28T20:27:51Z",
+    "run_id": "46183255518",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "overseas_sweep": [
-   {
-    "step": "overseas_sweep",
-    "category": "Box Office",
-    "run_at": "2026-11-26T20:52:33Z",
-    "run_id": "45893931451",
-    "status": "success",
-    "checked": {
-     "candidates": 615,
-     "detail": "completed day-wise rows missing overseas; quicknews pages fetched: 13; attempt cooldown deferred: 602"
-    },
-    "changed": {
-     "added": [
-      "Jailer 2 (1234139)",
-      "Ranabaali (1389379)",
-      "418 (1606527)",
-      "Nayyi Navelli (1654581)"
-     ],
-     "updated": [],
-     "count": 13
-    },
-    "reason": null
-   },
    {
     "step": "overseas_sweep",
     "category": "Box Office",
@@ -7906,19 +7914,31 @@
      "count": 13
     },
     "reason": null
+   },
+   {
+    "step": "overseas_sweep",
+    "category": "Box Office",
+    "run_at": "2026-11-28T19:52:12Z",
+    "run_id": "46183255518",
+    "status": "success",
+    "checked": {
+     "candidates": 628,
+     "detail": "completed day-wise rows missing overseas; quicknews pages fetched: 14; attempt cooldown deferred: 614"
+    },
+    "changed": {
+     "added": [
+      "Jailer 2 (1234139)",
+      "Ranabaali (1389379)",
+      "418 (1606527)",
+      "Nayyi Navelli (1654581)"
+     ],
+     "updated": [],
+     "count": 13
+    },
+    "reason": null
    }
   ],
   "advance_booking": [
-   {
-    "step": "advance_booking",
-    "category": "Box Office",
-    "run_at": "2026-11-27T20:54:47Z",
-    "run_id": "46066339629",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "advance_booking",
     "category": "Box Office",
@@ -8158,19 +8178,19 @@
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
-   }
-  ],
-  "home_boxoffice_worldwide": [
+   },
    {
-    "step": "home_boxoffice_worldwide",
+    "step": "advance_booking",
     "category": "Box Office",
-    "run_at": "2026-11-27T20:54:47Z",
-    "run_id": "46066339629",
+    "run_at": "2026-11-28T20:27:51Z",
+    "run_id": "46183255518",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "home_boxoffice_worldwide": [
    {
     "step": "home_boxoffice_worldwide",
     "category": "Box Office",
@@ -8400,8 +8420,18 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "home_boxoffice_worldwide",
+    "category": "Box Office",
+    "run_at": "2026-11-28T20:27:51Z",
+    "run_id": "46183255518",
+    "status": "failed",
+    "checked": null,
+    "changed": null,
+    "reason": "error"
    }
   ]
  },
- "updated_at": "2026-11-28T18:54:24Z"
+ "updated_at": "2026-11-28T20:27:51Z"
 }

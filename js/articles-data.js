@@ -277318,5 +277318,413 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Sat, 28 Nov 2026 23:20:18 +0530"
+  },
+  "16diva8": {
+    "id": "16diva8",
+    "type": "news",
+    "headline": "Made in India A Titan Story Wins Best Web Series OTT Award 2026 at 57th IFFI",
+    "dek": "The historical drama series centered on the Indian watchmaker Titan secured the top honor at the Goa film festival.",
+    "body": [
+      {
+        "h": "Victory at the 57th IFFI",
+        "p": [
+          "The historical docudrama series titled Made in India: A Titan Story has triumphed at the 57th International Film Festival of India. Hosted in Goa, the prestigious event concluded with the announcement of the series capturing the Best Web Series OTT Award for 2026.",
+          "The grand closing ceremony took place at the Dr. Shyama Prasad Mukherjee Stadium. Prominent dignitaries including Goa Chief Minister Pramod Sawant and Festival Director Ashutosh Gowariker graced the occasion to celebrate outstanding achievements in digital storytelling."
+        ]
+      },
+      {
+        "h": "The Journey of Titan on Screen",
+        "p": [
+          "Spanning six compelling episodes, the series traces the remarkable journey of the renowned Indian watch manufacturing company Titan. It sheds light on the grand vision and relentless hurdles involved in building a home-grown brand capable of competing with international giants.",
+          "Through careful historical detailing, the narrative captures the essence of perseverance and enterprise. It honors the people behind the iconic enterprise, translating the corporate milestone into an engaging visual narrative."
+        ]
+      },
+      {
+        "h": "Selection Process and Jury Insights",
+        "p": [
+          "Jury Chairman Jamnadas Majethia shed light on the intense evaluation process during the closing ceremony. Out of forty-six initial entries submitted through the preview committee, the jury carefully evaluated twelve shortlisted web series.",
+          "Majethia noted that selecting a single winner proved exceptionally challenging due to the superior quality of content produced by Indian creators. Each member maintained detailed notes on every entry before reaching a collective consensus."
+        ]
+      },
+      {
+        "h": "Stories Without Borders Theme",
+        "p": [
+          "The guiding philosophy for the jury was anchored in the festival theme of Stories Without Borders. This concept prioritized narratives capable of transcending geographical and cultural boundaries to connect deeply with audiences everywhere.",
+          "Rather than focusing purely on production scales or massive budgets, the evaluators assessed whether a story could touch hearts. They looked for content that could effectively represent India on the global stage."
+        ]
+      },
+      {
+        "h": "Evolution of Family-Oriented OTT Content",
+        "p": [
+          "Addressing the audience, Jamnadas Majethia highlighted a major shift in the landscape of Indian web series. He observed a noticeable transition toward more family-oriented content that can be enjoyed collectively.",
+          "While digital shows were once viewed primarily as solitary experiences, they have successfully migrated into home living rooms. Majethia hailed this transformation as a significant milestone for Indian entertainment."
+        ]
+      },
+      {
+        "h": "Cast and Creative Crew",
+        "p": [
+          "The acclaimed series is brought to life by a talented ensemble cast featuring Jim Sarbh, Naseeruddin Shah, Vaibhav Tatwawadi, Namita Dubey, Lakhvir Saran, and Kaveri Seth.",
+          "Behind the camera, the creative direction was spearheaded by filmmaker Robbie Grewal, while the writing duties were managed by Karan Vyas, both contributing to the show's critical acclaim."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "The historical drama series Made in India: A Titan Story won the Best Web Series OTT Award at the 57th International Film Festival of India in Goa. Directed by Robbie Grewal and starring Naseeruddin Shah and Jim Sarbh among others, the six-episode show focuses on the iconic watch brand's journey and was lauded for its cross-border appeal."
+        ]
+      }
+    ],
+    "facts": [
+      "Made in India: A Titan Story won the Best Web Series OTT Award 2026",
+      "The 57th International Film Festival of India was held in Goa at the Dr. Shyama Prasad Mukherjee Stadium",
+      "Jamnadas Majethia is the jury chairman",
+      "Pramod Sawant is the Chief Minister of Goa",
+      "Ashutosh Gowariker is the Festival Director",
+      "The series has six episodes",
+      "46 entries were submitted and 12 were shortlisted",
+      "The series is directed by Robbie Grewal and written by Karan Vyas",
+      "The cast includes Jim Sarbh, Naseeruddin Shah, Vaibhav Tatwawadi, Namita Dubey, Lakhvir Saran, and Kaveri Seth"
+    ],
+    "entities": {
+      "people": [
+        "Naseeruddin Shah",
+        "Pramod Sawant",
+        "Ashutosh Gowariker",
+        "Jamnadas Majethia",
+        "Robbie Grewal",
+        "Karan Vyas",
+        "Jim Sarbh",
+        "Vaibhav Tatwawadi",
+        "Namita Dubey",
+        "Lakhvir Saran",
+        "Kaveri Seth"
+      ],
+      "titles": [
+        "Made in India: A Titan Story"
+      ]
+    },
+    "keywords": [
+      "Made in India A Titan Story",
+      "Naseeruddin Shah web series",
+      "IFFI 2026 best web series",
+      "Jim Sarbh Titan series",
+      "Jamnadas Majethia IFFI"
+    ],
+    "images": [
+      {
+        "url": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202611/6b0b1139ecdf2-made-in-india-a-titan--iffi-2026-283656795-16x9.jpg",
+        "caption": "Made in India A Titan Story Wins Best Web Series OTT Award 2026 at 57th IFFI",
+        "source": "Aaj Tak — Entertainment"
+      }
+    ],
+    "published": "2026-11-28T19:51:57Z"
+  },
+  "1tmyo9a": {
+    "id": "1tmyo9a",
+    "type": "news",
+    "headline": "Taylor Sheridan Crime Drama Hits Half a Billion Streaming Minutes",
+    "dek": "Paramount+ hit Tulsa King secures impressive viewership numbers on Nielsen charts, outperforming major rivals and cementing its fourth-season success.",
+    "body": [
+      {
+        "h": "Massive Streaming Milestones",
+        "p": [
+          "Taylor Sheridan continues to generate powerhouse programming for Paramount+, proving that established series can maintain intense viewer engagement over multiple installments. While numerous serialized dramas encounter viewership drops as they progress, this particular crime story is moving in the exact opposite direction. Now broadcasting its fourth season, the gritty mob drama is delivering remarkable numbers for the platform despite aggressive competition from rival networks.",
+          "The latest Nielsen Original Streaming Top 10 rankings revealed that the series pulled in 504 million minutes of viewing across the United States during the week of November 2 to 8. This massive engagement placed the program fourth overall on the chart, standing out as the sole title from Paramount+ to secure a spot in the top tier."
+        ]
+      },
+      {
+        "h": "Stiff Competition from Netflix",
+        "p": [
+          "Securing a top-five position is no small feat when competing against the massive subscriber bases and binge-release formats of other major services. The three programs sitting ahead of the crime drama were all Netflix offerings, led by Love Is Blind at 691 million minutes, Nobody Wants This at 559 million, and The Diplomat at 545 million.",
+          "Despite trailing those massive binge-dropped titles, the Sylvester Stallone vehicle outperformed several major platform releases. It ranked as the highest-scoring scripted drama outside of Netflix for that specific week, showcasing the loyal and consistent audience tuning in week after week."
+        ]
+      },
+      {
+        "h": "Weekly Releases Versus Binge Drops",
+        "p": [
+          "A notable factor behind the high viewership numbers is the release strategy employed by the network. Unlike competitors that drop entire seasons at once, the show rolls out its fourth season on a weekly basis, meaning audiences are actively waiting for fresh chapters to drop.",
+          "Furthermore, Nielsen's metrics calculated the total engagement across all 33 available episodes in the series library. This steady accumulation of viewing time highlights how deep the audience's investment is in the overarching narrative."
+        ]
+      },
+      {
+        "h": "Sylvester Stallone and the Creative Force",
+        "p": [
+          "Much of the series' immense popularity stems from the star power and commanding presence of Sylvester Stallone, who anchors the narrative as mobster Dwight Manfredi. The character's journey has resonated deeply with audiences since the show first debuted back in November 2022.",
+          "Behind the scenes, the creative team has kept the narrative sharp, with Terence Winter returning to head the writers' room following the departure of Dave Erickson. This steady creative guidance has resonated well with reviewers, pushing the current season to an impressive 86% approval rating on Rotten Tomatoes."
+        ]
+      },
+      {
+        "h": "Breaking Chart Records",
+        "p": [
+          "The strong Nielsen showing caps off what has been a phenomenal month of milestones for the production. Earlier in November, the crime saga successfully dethroned South Park to claim the number one spot on the domestic FlixPatrol chart for Paramount+, ending a 471-day reign.",
+          "This achievement adds to a long legacy of chart dominance, with the program having spent more than 400 total days on the domestic chart, proving its staying power on the platform."
+        ]
+      },
+      {
+        "h": "Future Expansion and Spinoffs",
+        "p": [
+          "Paramunt+ has demonstrated absolute confidence in the franchise's longevity by securing an early renewal for a fifth season back in October, long before the fourth season officially premiered. Reports hint that the upcoming narrative arc will see the main character heading back to New York.",
+          "On top of that, the fictional universe is set to broaden with the upcoming Samuel L. Jackson-led spinoff Frisco King, scheduled to debut on December 18, coinciding with the Season 4 finale of the parent series."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Taylor Sheridan's hit crime drama Tulsa King logged 504 million viewing minutes during the week of November 2 to 8, securing fourth place on Nielsen's streaming chart. The Sylvester Stallone-led series continues to achieve strong numbers through weekly season four releases and chart dominance on Paramount+."
+        ]
+      }
+    ],
+    "facts": [
+      "Tulsa King logged 504 million minutes viewed in the United States during the week of November 2 to 8.",
+      "The series placed fourth among all streaming originals on the Nielsen chart.",
+      "Love Is Blind led the chart at 691 million minutes, Nobody Wants This at 559 million, and The Diplomat at 545 million.",
+      "Nielsen counted viewership across all 33 available episodes.",
+      "Season 4 has an 86% score on Rotten Tomatoes.",
+      "The show was renewed for a fifth season in October.",
+      "Frisco King premieres on December 18.",
+      "Tulsa King debuted on November 13, 2022."
+    ],
+    "entities": {
+      "people": [
+        "Taylor Sheridan",
+        "Sylvester Stallone",
+        "Terence Winter",
+        "Dave Erickson",
+        "Samuel L. Jackson"
+      ],
+      "titles": [
+        "Tulsa King",
+        "Yellowstone",
+        "Love Is Blind",
+        "Nobody Wants This",
+        "The Diplomat",
+        "VisionQuest",
+        "The Terminal List",
+        "South Park",
+        "Frisco King"
+      ]
+    },
+    "keywords": [
+      "Tulsa King streaming minutes",
+      "Sylvester Stallone Tulsa King",
+      "Taylor Sheridan Paramount+",
+      "Tulsa King Nielsen ratings"
+    ],
+    "images": [
+      {
+        "url": "https://static0.moviewebimages.com/wordpress/wp-content/uploads/2026/11/tulsa-king_3nh7ba-1.jpg?w=1600&amp;h=900&amp;fit=crop",
+        "caption": "Taylor Sheridan Crime Drama Hits Half a Billion Streaming Minutes",
+        "source": "MovieWeb"
+      }
+    ],
+    "published": "Sat, 28 Nov 2026 17:49:39 GMT"
+  },
+  "6u44x6": {
+    "id": "6u44x6",
+    "type": "news",
+    "headline": "Shah Rukh Khan's King Event Faces Backlash From Disabled Creator Over Exclusion",
+    "dek": "Delhi-based content creator Pulkit Sharma has called out Instagram and Meta India for failing to invite disabled creators to a star-studded gathering featuring Shah Rukh Khan.",
+    "body": [
+      {
+        "h": "The Instagram Event Controversy",
+        "p": [
+          "A major industry gathering has run into controversy regarding disability inclusion following an appearance by superstar Shah Rukh Khan. The event, organized by Instagram, brought together roughly one thousand digital influencers for a star-studded celebration held on a Friday.",
+          "However, the festivities quickly drew criticism online after a prominent Delhi-based creator pointed out a glaring lack of representation among the attendees. The omission of any disabled digital creators from the guest list sparked an immediate debate across social media platforms regarding industry inclusivity."
+        ]
+      },
+      {
+        "h": "Pulkit Sharma Speaks Out",
+        "p": [
+          "Radio jockey, podcaster, and digital content creator Pulkit Sharma took to social media to voice his strong disappointment with Instagram and Meta India. Utilizing a power wheelchair, Sharma questioned why disabled voices were entirely absent from such a massive assembly of online talent.",
+          "In his public post directed at the organizers, he pointedly asked whether disabled individuals are not considered content creators or even human beings by society and corporate entities. His sharp critique resonated with numerous users who echoed his sentiments and praised him for addressing the oversight."
+        ]
+      },
+      {
+        "h": "Highlights of the Gathering",
+        "p": [
+          "Despite the subsequent backlash, the Instagram event served as a major platform for high-profile entertainment announcements. Shah Rukh Khan took center stage to unveil the second song from his upcoming feature film, titled Daddy Cool.",
+          "The newly released track features the superstar alongside Kareena Kapoor Khan. During the evening, the actor also engaged with various influencers in attendance and shared a conversation with prominent filmmaker Karan Johar."
+        ]
+      },
+      {
+        "h": "Background on Pulkit Sharma",
+        "p": [
+          "Pulkit Sharma is well-known in Delhi as a multifaceted digital creator, emcee, and radio jockey. Operating from a power wheelchair, he consistently utilizes his platform to champion empathy, independence, and better representation for people with disabilities.",
+          "His recent critique has successfully revived discussions around accessibility and equity within the entertainment and digital media sectors. Observers have noted that while industry gatherings frequently celebrate diverse internet personalities, true inclusivity remains an area requiring substantial improvement."
+        ]
+      },
+      {
+        "h": "Overview of the Film King",
+        "p": [
+          "The project at the center of the event's promotional activities is the upcoming action entertainer titled King. The movie marks the second major collaboration between Shah Rukh Khan and director Siddharth Anand, following their previous blockbuster success Pathaan.",
+          "Produced by Gauri Khan, Siddharth Anand, and Mamta Anand under Red Chillies Entertainment and Marflix Pictures, the film boasts a massive star-studded cast and is slated to hit theatres on December 24, 2026."
+        ]
+      },
+      {
+        "h": "Cast and Box Office Context",
+        "p": [
+          "Alongside Shah Rukh Khan, King features an extensive ensemble cast including Suhana Khan, Abhishek Bachchan, Deepika Padukone, Anil Kapoor, Jackie Shroff, Rani Mukerji, Jaideep Ahlawat, Arshad Warsi, and Raghav Juyal.",
+          "The theatrical run is scheduled to arrive just a week after a major global box-office clash between Hollywood tentpoles Avengers: Doomsday and Dune: Part Three, setting up a high-profile holiday season."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Delhi-based content creator Pulkit Sharma criticized Instagram and Meta India for failing to invite any disabled creators to their recent star-studded event featuring Shah Rukh Khan. The gathering, held on Friday, included roughly one thousand influencers and featured the song launch for the upcoming film King, which is scheduled for release on December 24, 2026."
+        ]
+      }
+    ],
+    "facts": [
+      "Pulkit Sharma is a Delhi-based radio jockey, podcaster, emcee, and digital content creator.",
+      "The Instagram event was held on Friday.",
+      "Nearly 1,000 content creators attended the event.",
+      "Shah Rukh Khan unveiled the song Daddy Cool from his film King at the event.",
+      "King is scheduled for release in theatres on December 24, 2026.",
+      "King is produced by Gauri Khan, Siddharth Anand, and Mamta Anand under Red Chillies Entertainment and Marflix Pictures."
+    ],
+    "entities": {
+      "people": [
+        "Shah Rukh Khan",
+        "Pulkit Sharma",
+        "Kareena Kapoor Khan",
+        "Karan Johar",
+        "Siddharth Anand",
+        "Suhana Khan",
+        "Abhishek Bachchan",
+        "Deepika Padukone",
+        "Anil Kapoor",
+        "Jackie Shroff",
+        "Rani Mukerji",
+        "Jaideep Ahlawat",
+        "Arshad Warsi",
+        "Raghav Juyal",
+        "Gauri Khan",
+        "Mamta Anand"
+      ],
+      "titles": [
+        "King",
+        "Daddy Cool",
+        "Pathaan",
+        "Avengers: Doomsday",
+        "Dune: Part Three"
+      ]
+    },
+    "keywords": [
+      "Shah Rukh Khan King event",
+      "Pulkit Sharma Instagram",
+      "King Daddy Cool song launch",
+      "Shah Rukh Khan disability inclusion backlash"
+    ],
+    "images": [
+      {
+        "url": "https://images.filmibeat.com/img/2026/11/srkkingeventcontroversypulkitd1-86421795891497.jpg",
+        "caption": "Shah Rukh Khan's King Event Faces Backlash From Disabled Creator Over Exclusion",
+        "source": "FilmiBeat"
+      }
+    ],
+    "published": "Sun, 29 Nov 2026 00:19:45 +0530"
+  },
+  "1b6udtu": {
+    "id": "1b6udtu",
+    "type": "news",
+    "headline": "Marvel Officially Announces Predator vs. Punisher Comic Book Series",
+    "dek": "Marvel Comics brings Frank Castle face-to-face with an interstellar hunter in a gritty new crossover event set on the streets of New York City.",
+    "body": [
+      {
+        "h": "The Urban Hunt Begins in New York",
+        "p": [
+          "Marvel has officially confirmed a thrilling new crossover comic book series that pits Frank Castle against the legendary extraterrestrial hunter. Decades after the cinematic horrors of urban sci-fi encounters, the deadly Yautja has traveled to New York City. Instead of tracking targets through dense tropical jungles, the alien entity finds itself stalking some of the most dangerous figures in the Marvel Universe.",
+          "This metropolitan setting flips the traditional hunting grounds of the franchise on its head. Rather than facing isolated soldiers or mercenaries in natural wilderness, the alien predator must navigate a concrete maze filled with high-tech defenses, heavily armed syndicates, and vigilantism at its most uncompromising."
+        ]
+      },
+      {
+        "h": "Frank Castle Steps Into the Crosshairs",
+        "p": [
+          "Adding the Punisher to Marvel's roster of Yautja targets represents a distinct shift from previous matchups. Over recent years, the publisher has sent the extraterrestrial warrior up against heavy hitters like Wolverine, Black Panther, and Spider-Man. However, Frank Castle lacks the mutant healing factor or superpowers of those past opponents.",
+          "Much like the human protagonists from the classic feature films, the vigilante relies entirely on tactical training, physical endurance, and conventional weaponry. This dynamic mirrors the desperate survival struggles of characters like Dutch and Mike Harrigan, transforming the conflict into a raw test of grit against advanced alien technology."
+        ]
+      },
+      {
+        "h": "A Dangerous Web of Criminal Underworld Figures",
+        "p": [
+          "The narrative does not restrict itself to a simple one-on-one duel between the vigilante and the hunter. The storyline weaves through the criminal underworld of New York City, drawing attention from various notorious crime lords and syndicate leaders who realize something lethal is eliminating their ranks.",
+          "Among the familiar faces crossing paths with the unfolding chaos are established underworld figures like Kingpin, Jigsaw, Silvermane, and the Owl. Their presence complicates the conflict, as these master criminals attempt to exploit the otherworldly threat or survive its bloody path."
+        ]
+      },
+      {
+        "h": "Uncovering Secrets From the Past",
+        "p": [
+          "Beyond the immediate tactical warfare and high-stakes survival elements, the storyline introduces compelling psychological undertones. There is a deeply unsettling possibility that Frank Castle's latest adversary possesses intimate knowledge regarding the protagonist's haunted history.",
+          "If the hunter understands the psychological scars and past traumas driving the vigilante, the confrontation transcends a standard physical battle. It becomes a deeply personal psychological examination of a man who has already dedicated his entire existence to a relentless war on crime."
+        ]
+      },
+      {
+        "h": "Creative Team and Launch Details",
+        "p": [
+          "The four-part comic book event officially launched on November 11, bringing together a talented creative pairing to establish the tone of the crossover. Writer Frank Tieri and artist Jesús Saíz collaborate to merge the distinct narrative worlds of Marvel and the extraterrestrial franchise for the very first time.",
+          "The debut issue spans 32 pages and features striking main cover artwork designed by Dustin Weaver. Fans and collectors looking to pick up the opening installment can purchase the standard issue at comic book retailers."
+        ]
+      },
+      {
+        "h": "Expanding Marvel's Crossover Legacy",
+        "p": [
+          "This project continues a broader tradition of publishing high-profile crossovers that merge iconic pop culture properties into unified comic book narratives. By pairing a grounded street-level anti-hero with a sci-fi icon, the publisher leans into the brutal aesthetic that defined both characters for decades.",
+          "As the four-part miniseries progresses through its scheduled issues, readers will witness how a lethal human survivor handles a creature engineered purely for interstellar combat, cementing another memorable chapter in cross-franchise storytelling history."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Marvel Comics has officially launched a four-part crossover series titled Predator vs. Punisher, written by Frank Tieri with art by Jesús Saíz. The 32-page debut issue arrived on November 11 and places Frank Castle in the path of an extraterrestrial hunter operating within the criminal underworld of New York City."
+        ]
+      }
+    ],
+    "facts": [
+      "Marvel's Predator vs. Punisher is a four-part comic book series.",
+      "The series officially launched on November 11.",
+      "The creative team includes writer Frank Tieri and artist Jesús Saíz.",
+      "The debut issue is 32 pages long.",
+      "Dustin Weaver provided the main cover artwork for the first issue.",
+      "The issue is available for $5.99.",
+      "The story features underworld characters Kingpin, Jigsaw, Silvermane, and the Owl."
+    ],
+    "entities": {
+      "people": [
+        "Frank Tieri",
+        "Jesús Saíz",
+        "Dustin Weaver",
+        "Frank Castle",
+        "Arnold Schwarzenegger",
+        "Danny Glover"
+      ],
+      "titles": [
+        "Predator vs. Punisher",
+        "Predator 2",
+        "Wolverine",
+        "Black Panther",
+        "Spider-Man",
+        "Dune",
+        "Star Trek",
+        "Strange New Worlds",
+        "Star Wars",
+        "A New Hope",
+        "Alien",
+        "The Nostromo"
+      ]
+    },
+    "keywords": [
+      "Predator vs Punisher",
+      "Frank Castle Predator",
+      "Marvel Predator comic",
+      "Frank Tieri Jesús Saíz"
+    ],
+    "images": [
+      {
+        "url": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/05/the-punisher-john-bernthal.jpg?w=1600&amp;h=900&amp;fit=crop",
+        "caption": "Marvel Officially Announces Predator vs. Punisher Comic Book Series",
+        "source": "Collider"
+      }
+    ],
+    "published": "Sat, 28 Nov 2026 17:30:12 GMT"
   }
 };
