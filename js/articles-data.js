@@ -271019,5 +271019,454 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Sat, 28 Nov 2026 08:35:27 +0530"
+  },
+  "1g14v00": {
+    "id": "1g14v00",
+    "type": "news",
+    "headline": "Ramayana: Part 1 Enters Rs 1,000 Crore Club on Day 23 at the Domestic Box Office",
+    "dek": "Ranbir Kapoor and Yash's mythological epic directed by Nitesh Tiwari achieves a major box office milestone after completing twenty-three days in theaters.",
+    "body": [
+      {
+        "h": "Reaching the Historic Milestone",
+        "p": [
+          "After a twenty-three-day theatrical run, the mythological epic Ramayana: Part 1 has officially crossed a monumental financial threshold. The film has surpassed the Rs 1,000 crore mark at the domestic box office in India, continuing its strong commercial journey.",
+          "Led by prominent actors Ranbir Kapoor and Yash, the feature has experienced various trends in ticket sales since its grand opening. Despite fluctuations, the production has maintained steady momentum to secure its place in the coveted Rs 1,000 crore club."
+        ]
+      },
+      {
+        "h": "Day 23 Collection Breakdown",
+        "p": [
+          "On its twenty-third day in cinemas, early estimates indicate that the movie brought in Rs 8.45 crore across 6,584 shows nationwide. The Hindi version contributed Rs 5 crore from 4,976 shows, while the Kannada version added Rs 1.25 crore across 327 shows.",
+          "Additional regional contributions included Rs 1.05 crore from 627 Tamil shows and Rs 1 crore from 516 Malayalam shows. The Telugu version further accounted for Rs 15 lakh across 138 shows."
+        ]
+      },
+      {
+        "h": "Total Domestic and Worldwide Figures",
+        "p": [
+          "With the addition of the latest daily figures, the total domestic earnings for the feature have reached Rs 1,000.55 crore. The overall India gross currently stands at an impressive Rs 1,195.10 crore.",
+          "In international markets, the cinematic venture added another Rs 5 crore, elevating its overseas gross to Rs 595 crore. Combined, the worldwide box office collection has touched Rs 1,790.10 crore."
+        ]
+      },
+      {
+        "h": "Director's Research and Vision",
+        "p": [
+          "Director Nitesh Tiwari previously discussed the extensive research and development dedicated to shaping the film. He emphasized the goal of staying faithful to the traditional depictions of Lord Rama found in various artworks and texts.",
+          "While the production primarily drew its foundation from the Valmiki Ramayana, the creative team also utilized alternative reference materials to capture fine details, such as hair textures and historical appearances."
+        ]
+      },
+      {
+        "h": "Cast and Production Background",
+        "p": [
+          "Alongside Ranbir Kapoor and Yash, the cast features Sai Pallavi, Ravie Dubey, Arun Govil, Indira Krishna, Rakul Preet Singh, Vivek Oberoi, Lara Dutta, and Kajal Aggarwal. The project was brought to the screen by producers Yash and Namit Malhotra.",
+          "The feature made its theatrical debut on November 5. Following the completion of its run on the big screen, the title is scheduled to be available for streaming on JioHotstar, with a sequel titled Ramayana: Part 2 slated for a Diwali 2028 release."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Ramayana: Part 1 has crossed the Rs 1,000 crore domestic box office milestone after twenty-three days in theaters, driven by strong collections across multiple regional languages. Directed by Nitesh Tiwari and starring Ranbir Kapoor and Yash, the epic has also secured a massive global gross while planning for a future streaming release and a sequel."
+        ]
+      }
+    ],
+    "facts": [
+      "Ranbir Kapoor and Yash's Ramayana: Part 1 crossed Rs 1,000 crore on day 23.",
+      "Day 23 earnings were Rs 8.45 crore across 6,584 shows.",
+      "Hindi version earned Rs 5 crore from 4,976 shows on day 23.",
+      "Kannada version earned Rs 1.25 crore across 327 shows on day 23.",
+      "Tamil version earned Rs 1.05 crore across 627 shows on day 23.",
+      "Telugu version earned Rs 15 lakh from 138 shows on day 23.",
+      "Malayalam version earned Rs 1 crore from 516 shows on day 23.",
+      "Total domestic earnings reached Rs 1,000.55 crore.",
+      "India gross stands at Rs 1,195.10 crore.",
+      "Overseas gross reached Rs 595 crore.",
+      "Worldwide box office collection stands at Rs 1,790.10 crore.",
+      "The film was released theatrically on November 5.",
+      "Ramayana: Part 2 is scheduled for release on Diwali 2028."
+    ],
+    "entities": {
+      "people": [
+        "Ranbir Kapoor",
+        "Yash",
+        "Nitesh Tiwari",
+        "Sai Pallavi",
+        "Ravie Dubey",
+        "Arun Govil",
+        "Indira Krishna",
+        "Rakul Preet Singh",
+        "Vivek Oberoi",
+        "Lara Dutta",
+        "Kajal Aggarwal",
+        "Namit Malhotra"
+      ],
+      "titles": [
+        "Ramayana: Part 1",
+        "Ramayana: Part 2",
+        "Valmiki Ramayana"
+      ]
+    },
+    "keywords": [
+      "Ramayana Part 1 box office",
+      "Ranbir Kapoor Yash Ramayana",
+      "Ramayana Rs 1000 crore club",
+      "Nitesh Tiwari Ramayana film"
+    ],
+    "images": [
+      {
+        "url": "https://images.timesnownews.com/thumb/msid-156577565,thumbsize-130284,width-1280,height-720,resizemode-75/156577565.jpg",
+        "caption": "Ramayana: Part 1 Enters Rs 1,000 Crore Club on Day 23 at the Domestic Box Office",
+        "source": "Times Now — Entertainment"
+      }
+    ],
+    "published": "2026-11-28T05:51:56Z"
+  },
+  "52mhct": {
+    "id": "52mhct",
+    "type": "news",
+    "headline": "First Breath After Coma Unveils First Looks at JAFF Market",
+    "dek": "Jason Iskandar’s new drama exploring Indonesia's post-ban Chinese New Year traditions shares first images of its lead trio.",
+    "body": [
+      {
+        "h": "First Look Images Revealed at JAFF Market",
+        "p": [
+          "Director Jason Iskandar has revealed the first-look images for his upcoming drama 'First Breath After Coma', sharing a glimpse of the movie's three main characters. The stills made their debut at Indonesia's JAFF Market, which runs concurrently with the 21st Jogja-Netpac Asian Film Festival in Yogyakarta.",
+          "The newly released promotional materials highlight the three central actors, Ladya Cheryl, Morgan Oey, and Abby Latip. The narrative follows these characters as three siblings reuniting in Jakarta around the turn of the millennium."
+        ]
+      },
+      {
+        "h": "Historical Background and National Transition",
+        "p": [
+          "Set in the days leading up to the Chinese New Year in the year 2000, the story captures a pivotal moment of national transition in Indonesia. The timeframe holds deep historical significance as it marks the first time the country's Chinese community could openly celebrate the Lunar New Year following the formal removal of public cultural restrictions.",
+          "Between 1967 and 1998, Indonesia enforced severe limitations on public expressions of Chinese culture. During those decades, traditions, the Chinese language, and festive celebrations were largely preserved in secret behind closed doors within families."
+        ]
+      },
+      {
+        "h": "Director and Producer Perspectives",
+        "p": [
+          "Filmmaker Jason Iskandar noted that the lingering effects of the long-standing restrictions did not vanish overnight when the laws changed. He aimed to explore this hidden history through the intimate dynamics of a single family, noting that personal lives remain deeply intertwined with broader political realities.",
+          "Producer Florence Giovani of Studio Antelope shared that she saw aspects of her own life reflected in the script. Having collaborated with Iskandar since their early short films, Giovani spent more than a decade helping bring the ambitious project to the screen."
+        ]
+      },
+      {
+        "h": "Character Portraits and Visual Styling",
+        "p": [
+          "The newly unveiled character stills offer specific details about the siblings' roles in the film. In one image, Ladya Cheryl holds a microphone at home during a karaoke session, reflecting a popular pastime among Chinese Indonesians.",
+          "Morgan Oey appears styled in period-accurate glasses and hair against a backdrop featuring a car from that era. Meanwhile, Abby Latip wears a red cheongsam surrounded by New Year lanterns, though her expression hints at underlying tension."
+        ]
+      },
+      {
+        "h": "Acclaimed Cast and Crew Lineup",
+        "p": [
+          "The production features a decorated cast, including Ladya Cheryl, who won the best actress Citra Award at the 2022 Indonesian Film Festival for 'Vengeance Is Mine, All Others Pay Cash'. Morgan Oey starred in 'Ghost in the Cell', and Abby Latip makes her feature debut after appearing in the short 'The Rootless Bloom'.",
+          "Behind the scenes, the project brought together notable regional talent such as Singaporean cinematographer Teck Siang Lim and production designer Dita Gambiro. The creative team scoured Jakarta to find remaining locations that still resembled the late 1990s."
+        ]
+      },
+      {
+        "h": "Development Journey and International Labs",
+        "p": [
+          "The film's journey began in 2015 at the SGIFF Southeast Asian Film Lab in Singapore. Over the next decade, the project traveled through various international funding and development platforms, including EAVE Ties That Bind, the Golden Horse Film Project Promotion, and the Hong Kong-Asia Film Financing Forum.",
+          "Co-producers on the venture include Yulia Evina Bhara, Wanyi Pratiknyo, and Hannan Cinthya, whose previous works have appeared at major global events like Venice, Cannes, and Sundance."
+        ]
+      },
+      {
+        "h": "Current Status and Future Release Plans",
+        "p": [
+          "Currently in post-production, 'First Breath After Coma' is locally titled 'Perayaan Pertama'. The filmmakers are aiming for a festival premiere in 2027, which will be followed by theatrical rollouts in Indonesia and selected international territories.",
+          "The project follows Iskandar's 2021 feature debut 'Akhirat: A Love Story', continuing Studio Antelope's expansion into prominent feature films and streaming series."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Indonesian filmmaker Jason Iskandar has released first-look images for his upcoming drama 'First Breath After Coma' at the JAFF Market in Yogyakarta. The movie focuses on three siblings in Jakarta during the year 2000 as the nation marks its first open celebration of the Lunar New Year following decades of cultural restrictions."
+        ]
+      }
+    ],
+    "facts": [
+      "First Breath After Coma is directed by Jason Iskandar",
+      "The film's local title is Perayaan Pertama",
+      "First-look images were unveiled at JAFF Market during the 21st Jogja-Netpac Asian Film Festival",
+      "The story is set in Jakarta around the turn of the millennium in the year 2000",
+      "The film follows three siblings played by Ladya Cheryl, Morgan Oey, and Abby Latip",
+      "Restrictions on public expressions of Chinese culture in Indonesia lasted from 1967 to 1998",
+      "The project was developed across labs and pitching platforms starting from 2015 through 2025",
+      "The film is currently in post-production with an expected festival premiere in 2027"
+    ],
+    "entities": {
+      "people": [
+        "Jason Iskandar",
+        "Naman Ramachandran",
+        "Linda Gozali",
+        "Ifa Isfansyah",
+        "Yulia Evina Bhara",
+        "Ladya Cheryl",
+        "Morgan Oey",
+        "Abby Latip",
+        "Florence Giovani",
+        "Teck Siang Lim",
+        "Dita Gambiro",
+        "Wanyi Pratiknyo",
+        "Hannan Cinthya",
+        "Fajar Nugros"
+      ],
+      "titles": [
+        "First Breath After Coma",
+        "Autobiography",
+        "Tiger Stripes",
+        "Vengeance Is Mine, All Others Pay Cash",
+        "Ghost in the Cell",
+        "The Rootless Bloom",
+        "Ah Girl",
+        "Crocodile Tears",
+        "Whether the Weather Is Fine",
+        "Four Seasons in Java",
+        "Sore: A Wife From the Future",
+        "Cigarette Girl",
+        "Levitating",
+        "Akhirat: A Love Story",
+        "CinLock: Love, Camera, Action",
+        "Bapak Paling Jujur",
+        "Territorial Pissings"
+      ]
+    },
+    "keywords": [
+      "First Breath After Coma",
+      "Jason Iskandar film",
+      "Perayaan Pertama movie",
+      "JAFF Market Indonesian cinema"
+    ],
+    "images": [
+      {
+        "url": "https://variety.com/wp-content/uploads/2026/11/First-Breath-After-Coma1.jpg?w=1000&#038;h=563&#038;crop=1",
+        "caption": "First Breath After Coma Unveils First Looks at JAFF Market",
+        "source": "Variety"
+      }
+    ],
+    "published": "Sat, 28 Nov 2026 03:00:00 +0000"
+  },
+  "1tnbc5s": {
+    "id": "1tnbc5s",
+    "type": "news",
+    "headline": "Denis Villeneuve Expresses Disappointment Over Dune Part Three and Avengers Doomsday Box Office Clash",
+    "dek": "Director Denis Villeneuve speaks out about facing Marvel's massive franchise juggernaut this December, comparing the superhero film to a T. rex.",
+    "body": [
+      {
+        "h": "The Unanticipated Box Office Showdown",
+        "p": [
+          "A major cinematic clash is shaping up for this December as two high-profile motion pictures prepare to open days apart from each other. Marvel's massive superhero feature is scheduled to hit theaters on December 17, while the third installment of the science fiction epic arrives on December 18.",
+          "This high-stakes face-off echoes previous simultaneous theatrical events, bringing two distinct audiences to multiplexes during the same busy winter frame. Industry observers are anticipating extraordinary turnout figures as both titles battle for screens and global attention."
+        ]
+      },
+      {
+        "h": "Director's Frustration Over Scheduling",
+        "p": [
+          "Filmmaker Denis Villeneuve shared his candid feelings about the scheduling conflict in an interview with TIME. Having navigated unexpected hurdles during the rollouts of his previous chapters, he had anticipated a smooth, interruption-free release window this time around.",
+          "The earlier chapters faced extraordinary obstacles, including global health restrictions and industry-wide guild strikes that forced postponement. Discovering that a major studio had slotted the largest franchise vehicle directly into his path came as an unwelcome surprise."
+        ]
+      },
+      {
+        "h": "Inability to Alter Release Plans",
+        "p": [
+          "Despite his reservations regarding the timing, the director noted that changing the premiere window was no longer a viable option. Commitments had already been locked in with premium format exhibition partners, particularly large-screen IMAX venues.",
+          "With contractual obligations and logistical frameworks already firmly established, the production team chose to accept the situation. The filmmaker voiced hope that his project would endure the onslaught of the rival blockbuster."
+        ]
+      },
+      {
+        "h": "Comparing the Marvel Juggernaut to a T. rex",
+        "p": [
+          "During his conversation with the press, the auteur used vivid imagery to describe the scale of the opposing superhero title. He characterized the rival production as a prehistoric predator and a mammoth force in the commercial marketplace.",
+          "At the same time, he defended the identity and appeal of his own sci-fi creation. He described his feature not as a giant beast, but as an engaging creature equipped with significant artistic firepower."
+        ]
+      },
+      {
+        "h": "Confidence in the Final Cut",
+        "p": [
+          "The director emphasized that he does not view his work as being in a direct competitive race with the superhero ensemble. Instead, he expressed pride in the artistic achievements and storytelling depth of his motion picture.",
+          "He maintained complete confidence that the narrative delivers on expectations, hoping that audiences will respond enthusiastically to both offerings. The simultaneous presence of these two massive titles could potentially generate historic ticket sales for the industry."
+        ]
+      },
+      {
+        "h": "Cast and Crew Details for Both Titles",
+        "p": [
+          "The upcoming third chapter of the sci-fi franchise is directed by Denis Villeneuve, who also co-wrote the screenplay alongside Brian K. Vaughan. The star-studded ensemble is led by Timothée Chalamet portraying the central ruler, alongside prominent actors such as Zendaya, Jason Momoa, Florence Pugh, Rebecca Ferguson, Anya Taylor-Joy, and Robert Pattinson.",
+          "Conversely, the competing superhero event is directed by Anthony and Joe Russo, with a script crafted by Stephen McFeely and Michael Waldron. That ensemble features Robert Downey Jr. as the primary antagonist, bringing together characters from various universes including the Avengers, Wakandans, Fantastic Four, and X-Men."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Director Denis Villeneuve expressed deep disappointment that his upcoming film faces a direct box office clash with Marvel's superhero feature this December. Although unable to reschedule due to prior commitments with IMAX, the filmmaker remains proud of his movie and hopes it will successfully endure the competition."
+        ]
+      }
+    ],
+    "facts": [
+      "Avengers Doomsday releases on December 17",
+      "Dune Part Three releases on December 18",
+      "Denis Villeneuve directed Dune Part Three",
+      "Timothee Chalamet stars as Paul Atreides",
+      "Anthony and Joe Russo directed Avengers Doomsday",
+      "Robert Downey Jr plays Doctor Doom"
+    ],
+    "entities": {
+      "people": [
+        "Denis Villeneuve",
+        "Timothée Chalamet",
+        "Zendaya",
+        "Jason Momoa",
+        "Florence Pugh",
+        "Rebecca Ferguson",
+        "Anya Taylor-Joy",
+        "Robert Pattinson",
+        "Brian K. Vaughan",
+        "Anthony Russo",
+        "Joe Russo",
+        "Stephen McFeely",
+        "Michael Waldron",
+        "Robert Downey Jr"
+      ],
+      "titles": [
+        "Avengers: Doomsday",
+        "Dune: Part Three"
+      ]
+    },
+    "keywords": [
+      "Denis Villeneuve Dune 3",
+      "Avengers Doomsday release date",
+      "Timothee Chalamet Dune Part Three",
+      "Denis Villeneuve disappointed Avengers clash"
+    ],
+    "images": [
+      {
+        "url": "https://www.hindustantimes.com/ht-img/img/2026/11/28/1600x900/logo/Dune_3_Doomsday_1795835664945_nd4G_1795835680489_vr2c_a1e6a85a-38c9-4cbd-8a44-3d3ad0ddc849_uyOS.jpg",
+        "caption": "Denis Villeneuve Expresses Disappointment Over Dune Part Three and Avengers Doomsday Box Office Clash",
+        "source": "Hindustan Times — Entertainment"
+      }
+    ],
+    "published": "Sat, 28 Nov 2026 09:06:10 +0530"
+  },
+  "1li2wou": {
+    "id": "1li2wou",
+    "type": "news",
+    "headline": "Ravi Bharwani Returns With Netflix Thriller Secrets",
+    "dek": "Indonesian auteur Ravi Bharwani steps into thriller territory for his first feature film in eight years, titled Secrets, which premieres at the Jogja-Netpac Asian Film Festival before arriving globally on Netflix.",
+    "body": [
+      {
+        "h": "The Long-Awaited Return",
+        "p": [
+          "Indonesian filmmaker Ravi Bharwani is making a major return to feature filmmaking with his upcoming Netflix thriller titled Secrets. This project marks his first feature-length film in an eight-year gap, having previously directed the 2018 film 27 Steps of May.",
+          "Bharwani's journey to this new project involved years of developing screenplays and synopses. Funding and distribution challenges often delayed his creative output, making this Netflix-backed production a welcome opportunity to dive right into production without facing years of waiting."
+        ]
+      },
+      {
+        "h": "Festival Premiere and Streaming Debut",
+        "p": [
+          "The film is scheduled to have its world premiere at the 21st Jogja-Netpac Asian Film Festival on November 29. Following its festival screening in the Indonesian Screen Awards section, the thriller will become available for streaming worldwide on Netflix starting December 3.",
+          "This release strategy places the movie squarely in front of regional festival audiences before bringing it to a massive global platform. Director Ravi Bharwani also plans to use the festival venue to connect with other filmmakers and check out competing lineup projects."
+        ]
+      },
+      {
+        "h": "Plot and Literary Origins",
+        "p": [
+          "Secrets is an adaptation of Dewi Kharisma Michellia's short story titled Rahasia dari Kramat Tunggak, which translates to Secrets from Kramat Tunggak. The narrative begins in the 1980s in the Kramat Tunggak district of Jakarta before shifting forward to the 2000s.",
+          "The story follows Parni, a former sex worker who built a stable life running a beauty salon and raising her daughter independently. Her hard-earned peace is shattered when Jamal, the violent man she once fled from, is released from prison and comes back to reclaim her."
+        ]
+      },
+      {
+        "h": "Cast and Character Dynamics",
+        "p": [
+          "Sha Ine Febriyanti takes on the central role of Parni, while Shenina Cinnamon portrays her daughter Riska. Ruth Marini rounds out key supporting players as Darsi, and Abimana Aryasatya stars as the antagonist, Jamal.",
+          "Shaping the complex villain involved extensive collaboration between the director and Aryasatya throughout production. They deliberately balanced Jamal's terrifying machismo and abusive tendencies with glimpses of human vulnerability to ensure he remained a three-dimensional character rather than a cartoonish villain."
+        ]
+      },
+      {
+        "h": "Diving Into Darker Themes",
+        "p": [
+          "Known for different styles in his past works such as Impian Kemarau and Fishing Platform, Bharwani ventures into aggressive action, erotic scenes, and thriller tropes for the very first time. Exploring domestic violence and dark human psychology proved challenging yet inviting for the auteur.",
+          "Cinematographer Arief Retno Pribadi worked closely with the director on lighting, costume, and color choices to evoke the heavy humidity and mood of the narrative. The director aimed to make audiences genuinely invest in the complex emotions of fear, hate, and victimization."
+        ]
+      },
+      {
+        "h": "Historical Context of Kramat Tunggak",
+        "p": [
+          "The opening setting draws heavily on the real-world history of Jakarta's Kramat Tunggak district, which operated as a legal red-light zone during the 1980s. Although the area was eventually shut down and dismantled, the underground trade persisted elsewhere.",
+          "To build the authentic backdrop for the early sections of the film, Bharwani consulted a specialized book on the district alongside Michael Glawogger's 2011 documentary titled Whores' Glory, which explores sex work across multiple global locations."
+        ]
+      },
+      {
+        "h": "Shifting the Indonesian Film Landscape",
+        "p": [
+          "Indonesia's booming theatrical market largely leans toward safe commercial genres like horror, comedy, and standard dramas. Bharwani hopes that high-profile streaming investments from platforms like Netflix will help diversify the local industry and push beyond conventional genre boundaries.",
+          "Behind the scenes, the production relied on key crew members including editor Harin Paesongthai, production designer Menfo Tantono, and composers Aghi Narottama and Tony Merle. With several additional scripts already written, Bharwani hopes to direct more features if future funding materializes."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Filmmaker Ravi Bharwani is returning after an eight-year hiatus with the upcoming Netflix thriller Secrets, adapted from a short story by Dewi Kharisma Michellia. The movie stars Sha Ine Febriyanti, Abimana Aryasatya, and Shenina Cinnamon, exploring dark themes and historical Jakarta backdrops ahead of its festival premiere and global streaming release."
+        ]
+      }
+    ],
+    "facts": [
+      "Secrets is Ravi Bharwani's first feature film in eight years",
+      "The film world premieres at the 21st Jogja-Netpac Asian Film Festival on November 29, 2026",
+      "It begins streaming on Netflix on December 3, 2026",
+      "Sha Ine Febriyanti plays the protagonist Parni",
+      "Abimana Aryasatya plays the antagonist Jamal",
+      "Shenina Cinnamon plays Parni's daughter Riska",
+      "Ruth Marini plays Darsi",
+      "The film is adapted from Dewi Kharisma Michellia's short story Rahasia dari Kramat Tunggak",
+      "Rayya Makarim co-wrote the screenplay with Ravi Bharwani",
+      "Wilza Lubis produced the film through Buddy Buddy Pictures",
+      "Bharwani's previous feature was 2018's 27 Steps of May",
+      "Bharwani's earlier features include Impian Kemarau from 2004 and Fishing Platform from 2008"
+    ],
+    "entities": {
+      "people": [
+        "Ravi Bharwani",
+        "Sha Ine Febriyanti",
+        "Abimana Aryasatya",
+        "Shenina Cinnamon",
+        "Ruth Marini",
+        "Dewi Kharisma Michellia",
+        "Rayya Makarim",
+        "Wilza Lubis",
+        "Arief Retno Pribadi",
+        "Michael Glawogger",
+        "Harin Paesongthai",
+        "Menfo Tantono",
+        "Aghi Narottama",
+        "Tony Merle",
+        "Linda Gozali",
+        "Ifa Isfansyah",
+        "Yulia Evina Bhara",
+        "Tala Hadid"
+      ],
+      "titles": [
+        "Secrets",
+        "Rahasia dari Kramat Tunggak",
+        "This Earth of Mankind",
+        "Gundala",
+        "27 Steps of May",
+        "Impian Kemarau",
+        "Fishing Platform",
+        "Whores' Glory",
+        "Autobiography",
+        "Tiger Stripes",
+        "Bardi"
+      ]
+    },
+    "keywords": [
+      "Ravi Bharwani Secrets Netflix",
+      "Secrets Indonesian film Jogja Netpac",
+      "Sha Ine Febriyanti Secrets movie",
+      "Abimana Aryasatya Secrets thriller"
+    ],
+    "images": [
+      {
+        "url": "https://variety.com/wp-content/uploads/2026/11/Secrets.jpg?w=1000&#038;h=563&#038;crop=1",
+        "caption": "Ravi Bharwani Returns With Netflix Thriller Secrets",
+        "source": "Variety"
+      }
+    ],
+    "published": "Sat, 28 Nov 2026 03:00:00 +0000"
   }
 };

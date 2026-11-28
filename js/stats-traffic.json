@@ -1,20 +1,20 @@
 {
   "connected": true,
-  "generated": "2026-11-28T04:54:29Z",
+  "generated": "2026-11-28T05:58:28Z",
   "realtime": {
-    "active_users": 1
+    "active_users": 0
   },
   "today": {
-    "users": 10,
-    "pageviews": 10,
-    "sessions": 10,
-    "avg_session_seconds": 9.1
+    "users": 19,
+    "pageviews": 18,
+    "sessions": 19,
+    "avg_session_seconds": 7.4
   },
   "last7": {
-    "users": 219,
-    "pageviews": 268,
-    "sessions": 226,
-    "avg_session_seconds": 22.6
+    "users": 228,
+    "pageviews": 276,
+    "sessions": 235,
+    "avg_session_seconds": 22.0
   },
   "top_pages": [
     {
@@ -82,8 +82,8 @@
     {
       "source": "(direct)",
       "medium": "(none)",
-      "sessions": 201,
-      "users": 201
+      "sessions": 209,
+      "users": 209
     },
     {
       "source": "google",
@@ -94,8 +94,8 @@
     {
       "source": "(not set)",
       "medium": "(not set)",
-      "sessions": 5,
-      "users": 5
+      "sessions": 6,
+      "users": 6
     },
     {
       "source": "facebook.com",
@@ -119,11 +119,11 @@
   "countries": [
     {
       "country": "United States",
-      "users": 73
+      "users": 74
     },
     {
       "country": "Brazil",
-      "users": 34
+      "users": 35
     },
     {
       "country": "India",
@@ -142,6 +142,10 @@
       "users": 10
     },
     {
+      "country": "Indonesia",
+      "users": 8
+    },
+    {
       "country": "Russia",
       "users": 7
     },
@@ -150,18 +154,14 @@
       "users": 6
     },
     {
-      "country": "Indonesia",
+      "country": "Colombia",
       "users": 6
-    },
-    {
-      "country": "Argentina",
-      "users": 5
     }
   ],
   "devices": [
     {
       "device": "desktop",
-      "users": 185
+      "users": 194
     },
     {
       "device": "mobile",
