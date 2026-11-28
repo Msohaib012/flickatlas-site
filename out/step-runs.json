@@ -4,45 +4,6 @@
    {
     "step": "fetch",
     "category": "Trending News",
-    "run_at": "2026-11-27T02:51:33Z",
-    "run_id": "45930685391",
-    "status": "success",
-    "checked": {
-     "candidates": 424,
-     "detail": "RSS/Atom items across 137 sources; 0 source(s) errored"
-    },
-    "changed": {
-     "added": [
-      "kareena kapoor khan talks mental health on hindi edition of on my mind with darasing khurana 87404.html",
-      "sudesh berry daughter in law shambhavi sharma quit showbiz after marriage 14 years divorce serious allegations tmovb 2707132 2026 11 27",
-      "tseries md bhushan kumar wife divya khosla transformation 39th birthday bold look fans shocked photos tmovb 2706975 2026 11 26",
-      "poonam panday attack hania aamir pakistan jo bachay hain sang samait lo netflix tmovg dskc 2707108 2026 11 26",
-      "ramayana box office day 22 india 992 crore collection all eyes on baahubali 2 worldwide record tmovg dskc 2707183 2026 11 27",
-      "sachin tendulkar son arjun tendulkar with wife saaniya chandhok romantic video viral fans praise couple sara tendulkar tmovb dskc 2707107 2026 11 26",
-      "sudesh berry reacts daughter in law shambhavi sharma allegations not helping bollywood career tmovg dskc 2707144 2026 11 26",
-      "young fan kiss on tamil nadu cm vijay cheek his reaction wins hearts tmovg dskc 2707123 2026 11 26",
-      "actress mimi chakraborty engaged marriage siddharth dutt kolkata private ceremony first photo tmovb dskc 2707168 2026 11 27",
-      "anant singh funny reply on salman khan show bigg boss offer viral tmovg dskc 2707078 2026 11 26",
-      "gen z 10 iconic tv shows that 2000s gen z grew up watching srss dskc 2706960 2026 11 26",
-      "anant singh horse race white mahindra thar final match winner suspense not revealed mmtm 2707148 2026 11 26",
-      "ayushmann khurrana net worth 2026 biography lifestyle age wife family cars house brand endorsements movies show article 156570789",
-      "badshah is bigbang fan rapper celebrates k pop groups 20 years with shoutout to g dragon giiirip indian fans demand collab article 156570788",
-      "i wont sing if darshan raval reacts to restrictions on artists performing certain songs exclusive article 156572599",
-      "mimi chakraborty is now married actress ties knot with siddhartha dutta in registry ceremony know about her husband pics article 156571780",
-      "ramayana box office day 22 ranbir kapoor yashs epic inches closer to rs 1000 crore domestically article 156571632",
-      "ramayana worldwide box office collection day 22 ranbir kapoor film nears rs 1800 crore article 156572517",
-      "salman khan learnt action sequence in 2 minutes took us hours maatrubhumi co star jayson thaam exclusive article 156570941",
-      "who is akshara singh all about shraddha kapoors eetha co star and bigg boss ott contestant article 156571507"
-     ],
-     "updated": [],
-     "count": 281,
-     "detail": "291 stories, 9 duplicates removed, 133 dropped"
-    },
-    "reason": null
-   },
-   {
-    "step": "fetch",
-    "category": "Trending News",
     "run_at": "2026-11-27T03:51:35Z",
     "run_id": "45936483313",
     "status": "success",
@@ -936,32 +897,48 @@
      "detail": "264 stories, 0 duplicates removed, 2 dropped"
     },
     "reason": null
-   }
-  ],
-  "apply_auto": [
+   },
    {
-    "step": "apply_auto",
+    "step": "fetch",
     "category": "Trending News",
-    "run_at": "2026-11-27T04:28:28Z",
-    "run_id": "45940052718",
+    "run_at": "2026-11-28T02:51:49Z",
+    "run_id": "46100011934",
     "status": "success",
     "checked": {
-     "candidates": 14,
-     "detail": "draft articles + box-office rows from out/gemini-batch.json"
+     "candidates": 272,
+     "detail": "RSS/Atom items across 137 sources; 8 source(s) errored"
     },
     "changed": {
      "added": [
-      "Shah Rukh Khan's Upcoming Project 'King' Rumored to Feature an Extended Runtime",
-      "Jared Padalecki And Leighton Meester Lead Netflix Rom-Com Guarding Stars To Massive Debut",
-      "Bengali Actor Mimi Chakraborty Ties the Knot with Siddhartha Dutta in Kolkata Residence",
-      "Exploring The Boroughs: Netflix's Near-Perfect Sci-Fi Series Worth Revisiting"
+      "PJ Gallagher passes away at 51",
+      "Diljit Dosanjh says he has only love to give despite bomb threat to his Mumbai concert, thanks fans for turning up amid heavy security",
+      "Sandeep Reddy Vanga says Kamal Haasan, Mammootty and Chiranjeevi's body of work is greater than Hollywood stars Robert De Niro and Al Pacino",
+      "Panchayat writer Chandan Kumar says he makes sure that the focus is on the characters, not what can be a viral meme | Exclusive",
+      "Postponed Macy's 100th Thanksgiving parade mostly the same, but now with LL Cool J and Gloria Gaynor",
+      "The 6 Most Bingeable Crime Shows You Can Finish In a Weekend",
+      "Netflix’s 10/10 ‘House of Cards’ Replacement Is Officially Taking Over the World",
+      "6 Books From 2023 That Are 10/10 Masterpieces",
+      "Forget Star Trek, Netflix's Best 3-Season Sci-Fi Just Pulled 41M Viewing Hours in 2026",
+      "A ‘Sinners’ Star Officially Backed to Become the Next Bond Villain",
+      "My Hero Academia: Who Are The Top 10 Pro Heroes?",
+      "3 Best Movies To Watch On HBO Max This Weekend (November 28-29)",
+      "Batman Writer Calls Out Marvel's Doomsday Marketing, \"It’s Not Exciting To Me”",
+      "Netflix's All Of Us Are Dead Is Officially Changing Genres In Season 2",
+      "10 Most Universally Loved Harry Potter Scenes HBO Can't Mess Up",
+      "Final Fantasy: Origins Of Light Officially Unveiled As Love Letter To The Classic Era",
+      "4 Years Later, Netflix's Best Isekai Fantasy Is This Genre Deconstruction That's The Perfect Weekend Binge",
+      "10 Things Only Comic Fans Know About Vision",
+      "How to Watch the 2026 Thanksgiving Day Parade: A Dolly Parton Tribute, Broadway Medley and Mystery Harry Potter Float",
+      "Jermaine Haley Dies; WWE Star Known To Fans As Bronson Reed was 38"
      ],
      "updated": [],
-     "count": 7,
-     "detail": "+4 articles, +0 box-office rows, 3 rows updated"
+     "count": 251,
+     "detail": "269 stories, 0 duplicates removed, 3 dropped"
     },
     "reason": null
-   },
+   }
+  ],
+  "apply_auto": [
    {
     "step": "apply_auto",
     "category": "Trending News",
@@ -1480,27 +1457,32 @@
      "detail": "+4 articles, +1 box-office rows, 3 rows updated"
     },
     "reason": null
+   },
+   {
+    "step": "apply_auto",
+    "category": "Trending News",
+    "run_at": "2026-11-28T02:52:19Z",
+    "run_id": "46100011934",
+    "status": "success",
+    "checked": {
+     "candidates": 14,
+     "detail": "draft articles + box-office rows from out/gemini-batch.json"
+    },
+    "changed": {
+     "added": [
+      "Jack O'Connell Backed as the Ideal Next James Bond Villain",
+      "Diljit Dosanjh Addresses Bomb Threat at Mumbai Concert",
+      "Sandeep Reddy Vanga Compares Indian Icons to Hollywood Greats",
+      "Jermaine Haley, Known to WWE Fans as Bronson Reed, Passes Away at 38"
+     ],
+     "updated": [],
+     "count": 7,
+     "detail": "+4 articles, +0 box-office rows, 3 rows updated"
+    },
+    "reason": null
    }
   ],
   "ott": [
-   {
-    "step": "ott",
-    "category": "OTT",
-    "run_at": "2026-11-27T02:59:43Z",
-    "run_id": "45930685391",
-    "status": "success",
-    "checked": {
-     "candidates": 450,
-     "detail": "OTT now/coming titles from the published catalogue"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 0,
-     "detail": "now 447, coming 3"
-    },
-    "reason": null
-   },
    {
     "step": "ott",
     "category": "OTT",
@@ -1914,32 +1896,27 @@
      "detail": "now 447, coming 3"
     },
     "reason": "no-new-data"
+   },
+   {
+    "step": "ott",
+    "category": "OTT",
+    "run_at": "2026-11-28T03:00:08Z",
+    "run_id": "46100011934",
+    "status": "success",
+    "checked": {
+     "candidates": 455,
+     "detail": "OTT now/coming titles from the published catalogue"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 0,
+     "detail": "now 452, coming 3"
+    },
+    "reason": null
    }
   ],
   "trending_weekly": [
-   {
-    "step": "trending_weekly",
-    "category": "Trending Topics",
-    "run_at": "2026-11-27T03:56:30Z",
-    "run_id": "45936483313",
-    "status": "success",
-    "checked": {
-     "candidates": 100,
-     "detail": "cached Google RSS trend/article intersection"
-    },
-    "changed": {
-     "added": [
-      "1f98fib",
-      "e7y50d",
-      "pf6e6i",
-      "1sl9v52",
-      "15403ov"
-     ],
-     "updated": [],
-     "count": 5
-    },
-    "reason": null
-   },
    {
     "step": "trending_weekly",
     "category": "Trending Topics",
@@ -2409,27 +2386,26 @@
      "count": 5
     },
     "reason": null
-   }
-  ],
-  "multisource_boxoffice": [
+   },
    {
-    "step": "multisource_boxoffice",
-    "category": "Box Office",
-    "run_at": "2026-11-27T03:56:14Z",
-    "run_id": "45936483313",
+    "step": "trending_weekly",
+    "category": "Trending Topics",
+    "run_at": "2026-11-28T03:00:17Z",
+    "run_id": "46100011934",
     "status": "success",
     "checked": {
-     "candidates": 761,
-     "detail": "694 collected staging rows from readers; 262 averaged across 2+ sources"
+     "candidates": 100,
+     "detail": "cached Google RSS trend/article intersection"
     },
     "changed": {
      "added": [],
      "updated": [],
-     "count": 5,
-     "detail": "+0 new rows, 5 updated rows, 730 unchanged"
+     "count": 0
     },
-    "reason": null
-   },
+    "reason": "no-new-data"
+   }
+  ],
+  "multisource_boxoffice": [
    {
     "step": "multisource_boxoffice",
     "category": "Box Office",
@@ -2843,19 +2819,27 @@
      "detail": "+0 new rows, 6 updated rows, 734 unchanged"
     },
     "reason": null
+   },
+   {
+    "step": "multisource_boxoffice",
+    "category": "Box Office",
+    "run_at": "2026-11-28T03:00:15Z",
+    "run_id": "46100011934",
+    "status": "success",
+    "checked": {
+     "candidates": 768,
+     "detail": "697 collected staging rows from readers; 262 averaged across 2+ sources"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 5,
+     "detail": "+0 new rows, 5 updated rows, 735 unchanged"
+    },
+    "reason": null
    }
   ],
   "gemini_reviews": [
-   {
-    "step": "gemini_reviews",
-    "category": "Reviews",
-    "run_at": "2026-11-27T02:59:53Z",
-    "run_id": "45930685391",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "gemini_reviews",
     "category": "Reviews",
@@ -3092,32 +3076,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "gemini_reviews",
+    "category": "Reviews",
+    "run_at": "2026-11-28T03:00:25Z",
+    "run_id": "46100011934",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "convert_news": [
-   {
-    "step": "convert_news",
-    "category": "Trending News",
-    "run_at": "2026-11-27T04:40:26Z",
-    "run_id": "45940052718",
-    "status": "success",
-    "checked": {
-     "candidates": 600,
-     "detail": "feed entries from out/queue.json"
-    },
-    "changed": {
-     "added": [
-      "Jared Padalecki And Leighton Meester Lead Netflix Rom-Com Guarding Stars To Massive Debut",
-      "Bengali Actor Mimi Chakraborty Ties the Knot with Siddhartha Dutta in Kolkata Residence",
-      "Exploring The Boroughs: Netflix's Near-Perfect Sci-Fi Series Worth Revisiting",
-      "Shah Rukh Khan's Upcoming Project 'King' Rumored to Feature an Extended Runtime"
-     ],
-     "updated": [],
-     "count": 4,
-     "detail": "api-news.json 600 items, api-trends.json 12 items"
-    },
-    "reason": null
-   },
    {
     "step": "convert_news",
     "category": "Trending News",
@@ -3643,19 +3614,32 @@
      "detail": "api-news.json 600 items, api-trends.json 12 items"
     },
     "reason": null
+   },
+   {
+    "step": "convert_news",
+    "category": "Trending News",
+    "run_at": "2026-11-28T03:00:17Z",
+    "run_id": "46100011934",
+    "status": "success",
+    "checked": {
+     "candidates": 600,
+     "detail": "feed entries from out/queue.json"
+    },
+    "changed": {
+     "added": [
+      "Jack O'Connell Backed as the Ideal Next James Bond Villain",
+      "Diljit Dosanjh Addresses Bomb Threat at Mumbai Concert",
+      "Sandeep Reddy Vanga Compares Indian Icons to Hollywood Greats",
+      "Jermaine Haley, Known to WWE Fans as Bronson Reed, Passes Away at 38"
+     ],
+     "updated": [],
+     "count": 4,
+     "detail": "api-news.json 600 items, api-trends.json 12 items"
+    },
+    "reason": null
    }
   ],
   "episode_guides": [
-   {
-    "step": "episode_guides",
-    "category": "Drama Episodes",
-    "run_at": "2026-11-27T02:59:53Z",
-    "run_id": "45930685391",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "episode_guides",
     "category": "Drama Episodes",
@@ -3952,19 +3936,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "title_seed": [
+   },
    {
-    "step": "title_seed",
-    "category": "Spotlight / Coming Soon / Most Awaited",
-    "run_at": "2026-11-27T02:59:53Z",
-    "run_id": "45930685391",
+    "step": "episode_guides",
+    "category": "Drama Episodes",
+    "run_at": "2026-11-28T03:00:25Z",
+    "run_id": "46100011934",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "title_seed": [
    {
     "step": "title_seed",
     "category": "Spotlight / Coming Soon / Most Awaited",
@@ -4286,31 +4270,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "title_seed",
+    "category": "Spotlight / Coming Soon / Most Awaited",
+    "run_at": "2026-11-28T03:00:25Z",
+    "run_id": "46100011934",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "gemini_batch": [
-   {
-    "step": "gemini_batch",
-    "category": "Trending News",
-    "run_at": "2026-11-27T02:52:08Z",
-    "run_id": "45930685391",
-    "status": "success",
-    "checked": {
-     "candidates": 6,
-     "detail": "news queue items drafted this run; 281 still unprocessed; today by category: movies 4/6, tv_dramas 2/4, episodes 0/2, box_office 3/6, celebrities_events 0/5, upcoming_releases 0/4, ott_streaming 1/4, trailers 1/3, awards 1/2, music_ost 0/2, viral 0/2"
-    },
-    "changed": {
-     "added": [
-      "Ramayana Box Office Day 22 Collection Reaches Near 1,000 Crore Mark in India",
-      "Spider-Man: Brand New Day Extended Cut To Feature Deleted Avengers: Doomsday Scene In Theatrical Re-Release",
-      "Netflix Unveils Main Trailer and Poster for Upcoming Korean Drama Series Tantara",
-      "Looking Back at Some of the Most Controversial Academy Awards Decisions in Cinema History"
-     ],
-     "updated": [],
-     "count": 4
-    },
-    "reason": null
-   },
    {
     "step": "gemini_batch",
     "category": "Trending News",
@@ -4816,19 +4788,31 @@
      "count": 4
     },
     "reason": null
+   },
+   {
+    "step": "gemini_batch",
+    "category": "Trending News",
+    "run_at": "2026-11-28T02:52:18Z",
+    "run_id": "46100011934",
+    "status": "success",
+    "checked": {
+     "candidates": 6,
+     "detail": "news queue items drafted this run; 251 still unprocessed; today by category: movies 1/6, tv_dramas 0/4, episodes 0/2, box_office 2/6, celebrities_events 5/5, upcoming_releases 0/4, ott_streaming 2/4, trailers 0/3, awards 1/2, music_ost 1/2, viral 0/2"
+    },
+    "changed": {
+     "added": [
+      "Jack O'Connell Backed as the Ideal Next James Bond Villain",
+      "Diljit Dosanjh Addresses Bomb Threat at Mumbai Concert",
+      "Sandeep Reddy Vanga Compares Indian Icons to Hollywood Greats",
+      "Jermaine Haley, Known to WWE Fans as Bronson Reed, Passes Away at 38"
+     ],
+     "updated": [],
+     "count": 4
+    },
+    "reason": null
    }
   ],
   "overseas_ai": [
-   {
-    "step": "overseas_ai",
-    "category": "Box Office",
-    "run_at": "2026-11-27T02:59:53Z",
-    "run_id": "45930685391",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "overseas_ai",
     "category": "Box Office",
@@ -5142,24 +5126,19 @@
      "count": 0
     },
     "reason": "no-new-data"
+   },
+   {
+    "step": "overseas_ai",
+    "category": "Box Office",
+    "run_at": "2026-11-28T03:00:25Z",
+    "run_id": "46100011934",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "publish": [
-   {
-    "step": "publish",
-    "category": "Trending News",
-    "run_at": "2026-11-27T02:59:53Z",
-    "run_id": "45930685391",
-    "status": "success",
-    "checked": null,
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 405,
-     "detail": "lines changed in owned files; no per-item summary from script"
-    },
-    "reason": null
-   },
    {
     "step": "publish",
     "category": "Trending News",
@@ -5504,19 +5483,24 @@
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
+   },
+   {
+    "step": "publish",
+    "category": "Trending News",
+    "run_at": "2026-11-28T03:00:25Z",
+    "run_id": "46100011934",
+    "status": "success",
+    "checked": null,
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 419,
+     "detail": "lines changed in owned files; no per-item summary from script"
+    },
+    "reason": null
    }
   ],
   "stats_traffic": [
-   {
-    "step": "stats_traffic",
-    "category": "Stats / Health",
-    "run_at": "2026-11-27T02:59:53Z",
-    "run_id": "45930685391",
-    "status": "success",
-    "checked": null,
-    "changed": null,
-    "reason": "no-new-data"
-   },
    {
     "step": "stats_traffic",
     "category": "Stats / Health",
@@ -5856,19 +5840,24 @@
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
+   },
+   {
+    "step": "stats_traffic",
+    "category": "Stats / Health",
+    "run_at": "2026-11-28T03:00:25Z",
+    "run_id": "46100011934",
+    "status": "success",
+    "checked": null,
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 14,
+     "detail": "lines changed in owned files; no per-item summary from script"
+    },
+    "reason": null
    }
   ],
   "stats_pipeline": [
-   {
-    "step": "stats_pipeline",
-    "category": "Stats / Health",
-    "run_at": "2026-11-27T02:59:53Z",
-    "run_id": "45930685391",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "stats_pipeline",
     "category": "Stats / Health",
@@ -6118,19 +6107,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "stats_health": [
+   },
    {
-    "step": "stats_health",
+    "step": "stats_pipeline",
     "category": "Stats / Health",
-    "run_at": "2026-11-27T02:59:53Z",
-    "run_id": "45930685391",
+    "run_at": "2026-11-28T03:00:25Z",
+    "run_id": "46100011934",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "stats_health": [
    {
     "step": "stats_health",
     "category": "Stats / Health",
@@ -6365,19 +6354,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "metadata_refresh": [
+   },
    {
-    "step": "metadata_refresh",
-    "category": "Spotlight / Coming Soon / Most Awaited",
-    "run_at": "2026-11-27T02:59:53Z",
-    "run_id": "45930685391",
+    "step": "stats_health",
+    "category": "Stats / Health",
+    "run_at": "2026-11-28T03:00:25Z",
+    "run_id": "46100011934",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "metadata_refresh": [
    {
     "step": "metadata_refresh",
     "category": "Spotlight / Coming Soon / Most Awaited",
@@ -6661,33 +6650,22 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "metadata_refresh",
+    "category": "Spotlight / Coming Soon / Most Awaited",
+    "run_at": "2026-11-28T03:00:25Z",
+    "run_id": "46100011934",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "providers_backfill": [
    {
     "step": "providers_backfill",
     "category": "OTT",
-    "run_at": "2026-11-27T02:59:43Z",
-    "run_id": "45930685391",
-    "status": "success",
-    "checked": {
-     "candidates": 1132,
-     "processed": 1132,
-     "succeeded": 1132,
-     "failed": 0,
-     "already_have_providers": 312,
-     "detail": "missing-provider titles fetched first, then the --rotate stalest provider-carrying titles; processed counts only upstream requests; zero processed means unchanged check, not a new upstream fetch"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 1132
-    },
-    "reason": null
-   },
-   {
-    "step": "providers_backfill",
-    "category": "OTT",
     "run_at": "2026-11-27T03:56:41Z",
     "run_id": "45936483313",
     "status": "skipped",
@@ -6914,22 +6892,33 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "providers_backfill",
+    "category": "OTT",
+    "run_at": "2026-11-28T03:00:08Z",
+    "run_id": "46100011934",
+    "status": "success",
+    "checked": {
+     "candidates": 1168,
+     "processed": 1168,
+     "succeeded": 1168,
+     "failed": 0,
+     "already_have_providers": 316,
+     "detail": "missing-provider titles fetched first, then the --rotate stalest provider-carrying titles; processed counts only upstream requests; zero processed means unchanged check, not a new upstream fetch"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 1168
+    },
+    "reason": null
    }
   ],
   "tavily_boxoffice": [
    {
     "step": "tavily_boxoffice",
     "category": "Box Office",
-    "run_at": "2026-11-27T02:59:53Z",
-    "run_id": "45930685391",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
-   {
-    "step": "tavily_boxoffice",
-    "category": "Box Office",
     "run_at": "2026-11-27T03:56:41Z",
     "run_id": "45936483313",
     "status": "success",
@@ -7156,19 +7145,19 @@
     "checked": null,
     "changed": null,
     "reason": "no-new-data"
-   }
-  ],
-  "keywords_refresh": [
+   },
    {
-    "step": "keywords_refresh",
-    "category": "Trending News",
-    "run_at": "2026-11-27T02:59:53Z",
-    "run_id": "45930685391",
+    "step": "tavily_boxoffice",
+    "category": "Box Office",
+    "run_at": "2026-11-28T03:00:25Z",
+    "run_id": "46100011934",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "keywords_refresh": [
    {
     "step": "keywords_refresh",
     "category": "Trending News",
@@ -7417,6 +7406,16 @@
     "category": "Trending News",
     "run_at": "2026-11-28T02:01:55Z",
     "run_id": "46095118665",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
+   },
+   {
+    "step": "keywords_refresh",
+    "category": "Trending News",
+    "run_at": "2026-11-28T03:00:25Z",
+    "run_id": "46100011934",
     "status": "skipped",
     "checked": null,
     "changed": null,
@@ -7958,16 +7957,6 @@
    {
     "step": "advance_booking",
     "category": "Box Office",
-    "run_at": "2026-11-27T02:59:53Z",
-    "run_id": "45930685391",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
-   {
-    "step": "advance_booking",
-    "category": "Box Office",
     "run_at": "2026-11-27T03:56:41Z",
     "run_id": "45936483313",
     "status": "skipped",
@@ -8204,19 +8193,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "home_boxoffice_worldwide": [
+   },
    {
-    "step": "home_boxoffice_worldwide",
+    "step": "advance_booking",
     "category": "Box Office",
-    "run_at": "2026-11-27T02:59:53Z",
-    "run_id": "45930685391",
+    "run_at": "2026-11-28T03:00:25Z",
+    "run_id": "46100011934",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "home_boxoffice_worldwide": [
    {
     "step": "home_boxoffice_worldwide",
     "category": "Box Office",
@@ -8456,8 +8445,18 @@
     "checked": null,
     "changed": null,
     "reason": "error"
+   },
+   {
+    "step": "home_boxoffice_worldwide",
+    "category": "Box Office",
+    "run_at": "2026-11-28T03:00:25Z",
+    "run_id": "46100011934",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ]
  },
- "updated_at": "2026-11-28T02:01:55Z"
+ "updated_at": "2026-11-28T03:00:25Z"
 }

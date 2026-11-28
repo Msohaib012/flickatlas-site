@@ -942,7 +942,14 @@ window.FA_PUBLISHED = {
     "certification": "UA",
     "release_date": "2026-10-30",
     "runtime": 149,
-    "providers": [],
+    "providers": [
+      {
+        "name": "Netflix",
+        "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+        "region": "IN",
+        "type": "flatrate"
+      }
+    ],
     "date_kind": "release"
   },
   "1269325": {
@@ -988,7 +995,14 @@ window.FA_PUBLISHED = {
     "certification": "U/A 16+",
     "release_date": "2026-10-02",
     "runtime": 148,
-    "providers": []
+    "providers": [
+      {
+        "name": "Netflix",
+        "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+        "region": "IN",
+        "type": "flatrate"
+      }
+    ]
   },
   "337617": {
     "id": 337617,
@@ -5559,7 +5573,14 @@ window.FA_PUBLISHED = {
     "release_date": "2026-10-30",
     "date_kind": "release",
     "runtime": 0,
-    "providers": []
+    "providers": [
+      {
+        "name": "Sun Nxt",
+        "logo_path": "/1T9VcLknesOZZen9ZgLfcDdm5Ys.png",
+        "region": "IN",
+        "type": "flatrate"
+      }
+    ]
   },
   "1416312": {
     "id": 1416312,
@@ -43804,9 +43825,9 @@ window.FA_PUBLISHED = {
     "runtime": 0,
     "providers": [
       {
-        "name": "Disney Plus",
-        "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
-        "region": "US",
+        "name": "JioHotstar",
+        "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+        "region": "IN",
         "type": "flatrate"
       }
     ],
@@ -45635,6 +45656,12 @@ window.FA_PUBLISHED = {
     "date_kind": "release",
     "runtime": 86,
     "providers": [
+      {
+        "name": "fuboTV",
+        "logo_path": "/3wF8xISfVlcrc8X3jaa3uMUFGAr.png",
+        "region": "US",
+        "type": "flatrate"
+      },
       {
         "name": "Philo",
         "logo_path": "/mfbhzQwmQKjm7bLZPF5CTeu3Ilc.png",
@@ -66743,7 +66770,14 @@ window.FA_PUBLISHED = {
       }
     ],
     "created_by": [],
-    "providers": [],
+    "providers": [
+      {
+        "name": "Netflix",
+        "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+        "region": "IN",
+        "type": "flatrate"
+      }
+    ],
     "providers_wtw": []
   },
   "1846435": {
@@ -66885,7 +66919,14 @@ window.FA_PUBLISHED = {
       "Harald Rosenløw-Eeg",
       "Jan Trygve Røyneland"
     ],
-    "providers": [],
+    "providers": [
+      {
+        "name": "Netflix",
+        "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+        "region": "IN",
+        "type": "flatrate"
+      }
+    ],
     "providers_wtw": []
   },
   "1846346": {

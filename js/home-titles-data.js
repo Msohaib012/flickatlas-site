@@ -541,7 +541,14 @@ window.FA_PUBLISHED = {
     "published_at": "2026-10-26",
     "date_kind": "release",
     "status": "Released",
-    "providers": [],
+    "providers": [
+      {
+        "name": "Netflix",
+        "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+        "region": "IN",
+        "type": "flatrate"
+      }
+    ],
     "release_date": "2026-10-30"
   },
   "1269325": {
@@ -566,7 +573,14 @@ window.FA_PUBLISHED = {
     ],
     "published_at": "2026-10-26",
     "status": "Released",
-    "providers": [],
+    "providers": [
+      {
+        "name": "Netflix",
+        "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+        "region": "IN",
+        "type": "flatrate"
+      }
+    ],
     "release_date": "2026-10-02"
   },
   "337617": {
@@ -3456,7 +3470,14 @@ window.FA_PUBLISHED = {
     "published_at": "2026-10-28",
     "date_kind": "release",
     "status": "Released",
-    "providers": [],
+    "providers": [
+      {
+        "name": "Sun Nxt",
+        "logo_path": "/1T9VcLknesOZZen9ZgLfcDdm5Ys.png",
+        "region": "IN",
+        "type": "flatrate"
+      }
+    ],
     "release_date": "2026-10-30",
     "popularity": 3.3834
   },
@@ -27713,9 +27734,9 @@ window.FA_PUBLISHED = {
     "status": "Released",
     "providers": [
       {
-        "name": "Disney Plus",
-        "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
-        "region": "US",
+        "name": "JioHotstar",
+        "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+        "region": "IN",
         "type": "flatrate"
       }
     ],
@@ -28874,6 +28895,12 @@ window.FA_PUBLISHED = {
     "date_kind": "release",
     "status": "Released",
     "providers": [
+      {
+        "name": "fuboTV",
+        "logo_path": "/3wF8xISfVlcrc8X3jaa3uMUFGAr.png",
+        "region": "US",
+        "type": "flatrate"
+      },
       {
         "name": "Philo",
         "logo_path": "/mfbhzQwmQKjm7bLZPF5CTeu3Ilc.png",
@@ -41332,7 +41359,14 @@ window.FA_PUBLISHED = {
     ],
     "published_at": "2026-11-26",
     "status": "Returning Series",
-    "providers": [],
+    "providers": [
+      {
+        "name": "Netflix",
+        "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+        "region": "IN",
+        "type": "flatrate"
+      }
+    ],
     "first_air_date": "2026-11-26",
     "popularity": 6.6243
   },
@@ -41408,7 +41442,14 @@ window.FA_PUBLISHED = {
     ],
     "published_at": "2026-11-26",
     "status": "Returning Series",
-    "providers": [],
+    "providers": [
+      {
+        "name": "Netflix",
+        "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+        "region": "IN",
+        "type": "flatrate"
+      }
+    ],
     "first_air_date": "2026-11-26",
     "popularity": 2.2242
   },

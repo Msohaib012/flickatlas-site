@@ -54,6 +54,30 @@ window.FA_OTT = {
       "type": "movie"
     },
     {
+      "date": "2026-11-26",
+      "date_kind": "release",
+      "id": 326247,
+      "providers": [
+        {
+          "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        }
+      ],
+      "type": "tv"
+    },
+    {
+      "date": "2026-11-26",
+      "date_kind": "release",
+      "id": 338930,
+      "providers": [
+        {
+          "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        }
+      ],
+      "type": "tv"
+    },
+    {
       "date": "2026-11-25",
       "date_kind": "release",
       "id": 310209,
@@ -970,8 +994,8 @@ window.FA_OTT = {
       "id": 1716604,
       "providers": [
         {
-          "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
-          "name": "Disney Plus"
+          "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+          "name": "JioHotstar"
         }
       ],
       "type": "movie"
@@ -1069,6 +1093,10 @@ window.FA_OTT = {
       "date_kind": "release",
       "id": 1773350,
       "providers": [
+        {
+          "logo_path": "/3wF8xISfVlcrc8X3jaa3uMUFGAr.png",
+          "name": "fuboTV"
+        },
         {
           "logo_path": "/mfbhzQwmQKjm7bLZPF5CTeu3Ilc.png",
           "name": "Philo"
@@ -2584,6 +2612,18 @@ window.FA_OTT = {
     {
       "date": "2026-10-30",
       "date_kind": "release",
+      "id": 1800255,
+      "providers": [
+        {
+          "logo_path": "/1T9VcLknesOZZen9ZgLfcDdm5Ys.png",
+          "name": "Sun Nxt"
+        }
+      ],
+      "type": "movie"
+    },
+    {
+      "date": "2026-10-30",
+      "date_kind": "release",
       "id": 336240,
       "providers": [
         {
@@ -2641,6 +2681,18 @@ window.FA_OTT = {
         {
           "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
           "name": "Amazon Prime Video with Ads"
+        }
+      ],
+      "type": "movie"
+    },
+    {
+      "date": "2026-10-30",
+      "date_kind": "release",
+      "id": 1496785,
+      "providers": [
+        {
+          "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
         }
       ],
       "type": "movie"
@@ -3497,6 +3549,18 @@ window.FA_OTT = {
         }
       ],
       "type": "tv"
+    },
+    {
+      "date": "2026-10-02",
+      "date_kind": "release",
+      "id": 1269325,
+      "providers": [
+        {
+          "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        }
+      ],
+      "type": "movie"
     },
     {
       "country": "AU",
