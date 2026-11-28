@@ -272959,5 +272959,415 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "2026-11-28T09:52:48Z"
+  },
+  "77azko": {
+    "id": "77azko",
+    "type": "news",
+    "headline": "Netflix's Assassin's Creed Series Stays True to Game Lore, Says Director Stefan Schwartz",
+    "dek": "Director Stefan Schwartz provides updates on the upcoming live-action Assassin's Creed series for Netflix, promising an original narrative deeply rooted in the franchise's universe.",
+    "body": [
+      {
+        "h": "Staying True to the Game Universe",
+        "p": [
+          "The upcoming live-action adaptation of Assassin's Creed heading to Netflix will remain faithful to the established lore of the popular video game franchise. Although the episodic project is not adapting a specific title directly, it weaves its narrative deeply into the existing universe.",
+          "Director Stefan Schwartz, who helmed multiple episodes of the streaming project, emphasized that the show captures the fundamental spirit of the source material while carving out its own distinct path within the world built by Ubisoft."
+        ]
+      },
+      {
+        "h": "An Original Story in the Roman Empire",
+        "p": [
+          "While specific plot details remain tightly guarded, streaming service representatives have confirmed that the television show introduces an entirely original plot. The narrative unfolds against the historical backdrop of 64AD, placing characters directly in the heart of the Roman Empire.",
+          "Schwartz described the production as a grand, ambitious version of the franchise's world, highlighting signature franchise elements such as expansive scale and rooftop traversal."
+        ]
+      },
+      {
+        "h": "Production and Filming Locations",
+        "p": [
+          "Production on the series officially wrapped in November of 2026 following on-location shoots. The cast and crew traveled to historic European spots to capture the atmosphere of the ancient setting.",
+          "Schwartz recalled the physical demands of filming under warm conditions in Rome, alongside additional photography completed in Bulgaria. The director is currently deep in the editing phase of post-production."
+        ]
+      },
+      {
+        "h": "Star-Studded Ensemble Cast",
+        "p": [
+          "The live-action show features a prominent lineup of acting talent. Lola Petticrew leads the ensemble alongside Toby Wallace, Zachary Hart, and Laura Marcus.",
+          "Additionally, the series has secured a strong roster of supporting and recurring talent, including Noomi Rapace, Ramzy Bedia, and Sean Harris in key roles."
+        ]
+      },
+      {
+        "h": "Director's Broader Work",
+        "p": [
+          "Before discussing his work on the video game adaptation, Schwartz reflected on his recent directorial efforts in high-fantasy television. He directed the seventh episode of The Rings of Power season 3, which depicts the creation of the One Ring.",
+          "He spoke about navigating the immense creative pressure of bringing such a monumental Tolkien moment to life on screen with sparse source material for guidance."
+        ]
+      },
+      {
+        "h": "Platform Availability",
+        "p": [
+          "The highly anticipated Assassin's Creed series does not yet have a concrete premiere date, but it is officially slated to debut on Netflix. Meanwhile, fans of Schwartz's fantasy work can stream The Rings of Power season 3 on Prime Video."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Director Stefan Schwartz has confirmed that Netflix's upcoming live-action Assassin's Creed series will stay faithful to the franchise's lore while telling an original story set in Rome in 64AD. The production wrapped filming in November 2026 across locations in Rome and Bulgaria, featuring a cast led by Lola Petticrew, Toby Wallace, and Noomi Rapace."
+        ]
+      }
+    ],
+    "facts": [
+      "Stefan Schwartz directed episodes of Netflix's Assassin's Creed series.",
+      "The series is set in 64AD in the heart of the Roman Empire.",
+      "Filming wrapped in November 2026 in Rome and Bulgaria.",
+      "Cast members include Lola Petticrew, Toby Wallace, Zachary Hart, Laura Marcus, Noomi Rapace, Ramzy Bedia, and Sean Harris.",
+      "Stefan Schwartz also directed The Rings of Power season 3 episode 7."
+    ],
+    "entities": {
+      "people": [
+        "Stefan Schwartz",
+        "Lola Petticrew",
+        "Toby Wallace",
+        "Zachary Hart",
+        "Laura Marcus",
+        "Noomi Rapace",
+        "Ramzy Bedia",
+        "Sean Harris"
+      ],
+      "titles": [
+        "Assassin's Creed",
+        "The Rings of Power",
+        "The Rings of Power season 3"
+      ]
+    },
+    "keywords": [
+      "Assassin's Creed Netflix show",
+      "Stefan Schwartz Assassin's Creed",
+      "Assassin's Creed live action cast",
+      "Assassin's Creed Roman Empire 64AD"
+    ],
+    "images": [
+      {
+        "url": "https://cdn.mos.cms.futurecdn.net/BVWyTp7EKid4yJU55MNzf3-1920-80.jpg",
+        "caption": "Netflix's Assassin's Creed Series Stays True to Game Lore, Says Director Stefan Schwartz",
+        "source": "Total Film (GamesRadar)"
+      }
+    ],
+    "published": "Sat, 28 Nov 2026 10:00:00 +0000"
+  },
+  "1mxdnic": {
+    "id": "1mxdnic",
+    "type": "news",
+    "headline": "Vijay Sethupathi and Mysskin Reunite in Action-Packed Trailer for Train",
+    "dek": "The official trailer for Mysskin's upcoming action thriller Train, featuring Vijay Sethupathi, Nasser, and Shruti Haasan, has officially dropped ahead of its December release.",
+    "body": [
+      {
+        "h": "Trailer Launch and Initial Premise",
+        "p": [
+          "The official trailer for the highly anticipated action thriller Train was released on Friday, drawing immediate attention from cinephiles and fans of Tamil cinema alike.",
+          "The preview begins at a bustling railway station as a train departs into motion, quickly transitioning from a normal journey into a high-stakes emergency when the mechanical brakes fail completely."
+        ]
+      },
+      {
+        "h": "Escalating Crisis and Criminal Conspiracy",
+        "p": [
+          "As the runaway locomotive accelerates rapidly through the tracks, terrified passengers begin to panic while railway authorities desperately attempt to regain control of the situation.",
+          "However, the malfunctioning brakes turn out to be only the beginning of a larger nightmare, as a hidden group of individuals on board execute a dangerous and calculated criminal conspiracy."
+        ]
+      },
+      {
+        "h": "Key Cast Members and Character Dynamics",
+        "p": [
+          "Veteran actor Nasser plays a pivotal figure linked directly to the unfolding onboard events, delivering a chilling command to hunt down targets and completely delete the evidence.",
+          "Shruti Haasan also takes on a principal role within the narrative, though the promotional footage deliberately conceals specific details regarding her character arc."
+        ]
+      },
+      {
+        "h": "Extensive Supporting Ensemble",
+        "p": [
+          "Alongside the main leads, the film boasts a massive supporting cast that adds further depth to the unfolding thriller drama on the tracks.",
+          "The ensemble features prominent names including Narain, Yugi Sethu, KS Ravikumar, Sampath Raj, Kalaiyarasan, Singampuli, Ira Dayanand, and Preethy Karan."
+        ]
+      },
+      {
+        "h": "Director Mysskin's Creative Vision",
+        "p": [
+          "The project is entirely written and directed by Mysskin, who has notably also taken charge of composing the musical score for the feature.",
+          "Production responsibilities are handled by Kalaipuli S. Thanu under the banner of V Creations, ensuring a high-profile release for the action venture."
+        ]
+      },
+      {
+        "h": "Collaboration History and Past Roots",
+        "p": [
+          "This full-fledged collaboration stems from an earlier professional connection between the director and the lead actor.",
+          "Vijay Sethupathi previously made a brief cameo appearance in Mysskin's Pisasu 2, which ultimately sparked discussions for a complete partnership starting in the year 2023."
+        ]
+      },
+      {
+        "h": "Censorship Status and Box Office Clash",
+        "p": [
+          "Train has officially been cleared by the censor board, securing a U/A certificate ahead of its scheduled theatrical debut.",
+          "The movie is set for a worldwide release in the Tamil language on December 4, where it will face a direct box office clash with Naga Chaitanya's Vrushakarma."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "The official trailer for director Mysskin's action thriller Train, starring Vijay Sethupathi, Nasser, and Shruti Haasan, was released on Friday, highlighting a runaway train plot intertwined with a dangerous criminal conspiracy. Backed by producer Kalaipuli S. Thanu and featuring music by the director himself, the film has earned a U/A certification and is scheduled for a worldwide Tamil release on December 4, coinciding with Naga Chaitanya's Vrushakarma."
+        ]
+      }
+    ],
+    "facts": [
+      "The trailer of Train was released on Friday, November 28, 2026.",
+      "The film is written and directed by Mysskin.",
+      "Vijay Sethupathi and Nasser star in the film.",
+      "Shruti Haasan appears in a principal role.",
+      "The supporting cast includes Narain, Yugi Sethu, KS Ravikumar, Sampath Raj, Kalaiyarasan, Singampuli, Ira Dayanand, and Preethy Karan.",
+      "The film is produced by Kalaipuli S. Thanu under V Creations.",
+      "Vijay Sethupathi previously appeared in a cameo in Mysskin's Pisasu 2.",
+      "Discussions for the full collaboration began in 2023.",
+      "The film has been cleared with a U/A certificate.",
+      "Train is set for a worldwide theatrical release on December 4 in Tamil.",
+      "It releases on the same date as Naga Chaitanya's Vrushakarma."
+    ],
+    "entities": {
+      "people": [
+        "Vijay Sethupathi",
+        "Mysskin",
+        "Nasser",
+        "Shruti Haasan",
+        "Narain",
+        "Yugi Sethu",
+        "KS Ravikumar",
+        "Sampath Raj",
+        "Kalaiyarasan",
+        "Singampuli",
+        "Ira Dayanand",
+        "Preethy Karan",
+        "Kalaipuli S. Thanu",
+        "Naga Chaitanya"
+      ],
+      "titles": [
+        "Train",
+        "Pisasu 2",
+        "Vrushakarma"
+      ]
+    },
+    "keywords": [
+      "Train movie trailer",
+      "Vijay Sethupathi Mysskin Train",
+      "Train release date December 4",
+      "Shruti Haasan Train film"
+    ],
+    "images": [
+      {
+        "url": "https://images.indianexpress.com/2026/11/Train_911569.jpg",
+        "caption": "Vijay Sethupathi and Mysskin Reunite in Action-Packed Trailer for Train",
+        "source": "Indian Express — Entertainment"
+      }
+    ],
+    "published": "Sat, 28 Nov 2026 10:06:31 +0000"
+  },
+  "1iyovom": {
+    "id": "1iyovom",
+    "type": "news",
+    "headline": "Why Barbra Streisand and Dustin Hoffman Were Left Out of Focker-in-Law",
+    "dek": "Director John Hamburg addresses the notable absence of original franchise stars Barbra Streisand and Dustin Hoffman in the newly released comedy sequel.",
+    "body": [
+      {
+        "h": "The Missing Veterans",
+        "p": [
+          "Fans walking into theaters for the latest franchise installment discovered that two major pillars of the previous films were missing. Barbra Streisand and Dustin Hoffman, who delivered memorable performances in Meet the Fockers, do not appear in the new picture.",
+          "Their absence became a primary talking point following the film's theatrical debut, leaving many viewers wondering why the beloved veteran actors were excluded from the reunion."
+        ]
+      },
+      {
+        "h": "Director's Creative Decision",
+        "p": [
+          "Filmmaker John Hamburg addressed the casting choices in a recent interview, acknowledging that discussions regarding their potential return did take place during early development.",
+          "Ultimately, the director chose to move away from their characters to refocus the narrative on a more streamlined storytelling approach reminiscent of the original franchise starter."
+        ]
+      },
+      {
+        "h": "Balancing New and Old Characters",
+        "p": [
+          "Hamburg explained that the sheer scale of the new screenplay made it difficult to include every legacy character without shortchanging them. Because he introduced several fresh faces, including Olivia, Henry, Samantha, and Eduardo, keeping the veteran actors would have forced smaller, diminished roles.",
+          "The filmmaker noted that he refused to feature iconic talent in superficial capacities that failed to properly service their established roles."
+        ]
+      },
+      {
+        "h": "Reception and Legacy",
+        "p": [
+          "The newly released comedy arrived in cinemas to a polarized response from critics and audiences alike. While review aggregators recorded a low critical percentage, general viewers offered a much warmer reception to the ongoing franchise timeline.",
+          "Major publications offered starkly negative reviews, branding the project everything from a tired sequel to a lifeless entry, contrasting sharply with the positive feedback from everyday ticket buyers."
+        ]
+      },
+      {
+        "h": "Franchise Reunion Aftermath",
+        "p": [
+          "The project marks a significant cinematic reunion, bringing back primary stars Ben Stiller and Robert De Niro roughly sixteen years after their previous outing in the series.",
+          "Alongside the returning leads, pop superstar Ariana Grande also joined the ensemble cast, adding a fresh dynamic to the long-running comedy universe."
+        ]
+      },
+      {
+        "h": "Nostalgia Versus Originality",
+        "p": [
+          "Discussing the creative challenge of reviving an older property, Hamburg emphasized the importance of appealing to modern audiences who might be unfamiliar with the original chapters.",
+          "His goal was to craft a functional, character-driven comedy that could stand completely on its own while honoring established franchise touchstones through fresh narrative angles."
+        ]
+      },
+      {
+        "h": "Future Possibilities",
+        "p": [
+          "Though the iconic parents were left out of the current storyline due to overcrowding, the filmmaker left the door open for potential future installments.",
+          "When pondering whether audiences might ever see the missing characters again, Hamburg cryptically suggested that a hypothetical fifth movie might offer another opportunity."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Director John Hamburg has clarified why Barbra Streisand and Dustin Hoffman were omitted from the new film Focker-in-Law. He noted that while discussions occurred, the narrative could not support their characters alongside the new cast without reducing their roles.",
+          "The project marks a sixteen-year gap since the previous film and features returning stars Ben Stiller and Robert De Niro alongside newcomer Ariana Grande."
+        ]
+      }
+    ],
+    "facts": [
+      "Focker-in-Law dropped in theaters on Friday, November 27, 2026.",
+      "The film holds a 31 percent Rotten Tomatoes score and an 87 percent audience score.",
+      "Ben Stiller and Robert De Niro reunited for the film 16 years after the last Focker movie.",
+      "Barbra Streisand and Dustin Hoffman do not appear in the new movie."
+    ],
+    "entities": {
+      "people": [
+        "John Hamburg",
+        "Barbra Streisand",
+        "Dustin Hoffman",
+        "Ben Stiller",
+        "Robert De Niro",
+        "Ariana Grande"
+      ],
+      "titles": [
+        "Focker-in-Law",
+        "Meet the Fockers",
+        "Meet the Parents"
+      ]
+    },
+    "keywords": [
+      "Focker-in-Law movie",
+      "John Hamburg Focker-in-Law",
+      "Barbra Streisand Dustin Hoffman Focker-in-Law",
+      "Ariana Grande Focker-in-Law"
+    ],
+    "images": [
+      {
+        "url": "https://resizer.ladbiblegroup.com/ogimage/v3/assets/blt949ea8e16e463049/blt90726e9e28b10aa0/6b0aa0415af242e95395a7ba/why-.jpg",
+        "caption": "Why Barbra Streisand and Dustin Hoffman Were Left Out of Focker-in-Law",
+        "source": "UNILAD"
+      }
+    ],
+    "published": "2026-11-28T09:51:46.220Z"
+  },
+  "r5n7x": {
+    "id": "r5n7x",
+    "type": "news",
+    "headline": "Anushree Shukla Opens Up About Her Dharma Productions Debut in Student of the Year: After Dark",
+    "dek": "Actor Anushree Shukla discusses landing her role as Mini in the Reema Maya-mediated series, her background in engineering and theatre, and her long-held dream of working with filmmaker Karan Johar.",
+    "body": [
+      {
+        "h": "Stepping Into Student of the Year: After Dark",
+        "p": [
+          "Actor Anushree Shukla has made her official Dharma Productions debut by joining the cast of Student of the Year: After Dark. She essays the role of Mini, an 18-year-old student who has yet to experience puberty, setting her apart from her college peers.",
+          "Though the character's unique situation differentiates her within the narrative, Shukla found genuine personal connections to Mini's emotional state, marking a refreshing change from her previous complex theatrical roles."
+        ]
+      },
+      {
+        "h": "The Audition Process and Athletic Background",
+        "p": [
+          "Landing the part required an extensive selection process, which began with director Reema Maya evaluating Shukla's upbringing and active lifestyle during a preliminary shortlisting meeting.",
+          "Drawing on her school years at Oakridge International School in Hyderabad—where she played competitive basketball at the district level and engaged in regular theatre and dance—Shukla successfully convinced the team of her physical readiness for the active character."
+        ]
+      },
+      {
+        "h": "Connecting with Mini's Emotional Core",
+        "p": [
+          "Unlike prior stage performances where she portrayed vastly different individuals like Gauri in A Streetcar Named Desire or Mrs Kashikar, Shukla identified strongly with Mini's inner search for validation despite appearing cheerful on the outside.",
+          "Reflecting on her own school experiences as a late bloomer navigating difficult friendships, the actor channeled those genuine memories to anchor her performance in the thriller-themed series."
+        ]
+      },
+      {
+        "h": "Transitioning From Engineering to Acting",
+        "p": [
+          "Before breaking into mainstream screen acting, Shukla completed an engineering degree and later relocated to Mumbai to pursue her passion for the performing arts.",
+          "She maintains an impressive digital archive of her persistence, keeping an unlisted playlist containing many of the more than 200 auditions she has submitted across the industry in her quest for steady work."
+        ]
+      },
+      {
+        "h": "Voice Acting and Filmmaking Roots",
+        "p": [
+          "Prior to her on-screen appearances, Shukla worked behind the microphone, notably voicing a Spanish-Indian character named Pax in the series Masaba Masaba due to her comfort with foreign accents.",
+          "She also spent time on the corporate side of the entertainment industry as an operations manager at Sound and Vision Studios, handling dozens of dubbing titles before transitioning to full-time acting."
+        ]
+      },
+      {
+        "h": "Praise for Co-Star Shanaya Kapoor",
+        "p": [
+          "During production, Shukla worked closely with the primary cast and developed a strong admiration for lead actor Shanaya Kapoor's disciplined work ethic and preparedness.",
+          "She commended Kapoor for carrying the weight of the central narrative expertly while maintaining positive energy and composure on set without transferring any production stress to her fellow cast members."
+        ]
+      },
+      {
+        "h": "Manifesting a Future with Dharma Productions",
+        "p": [
+          "A self-professed admirer of Karan Johar's cinematic legacy, Shukla has long manifested an opportunity to work with Dharma Productions and hopes to be directed by Johar in a future project.",
+          "She holds deep appreciation for Johar's creative evolution, citing risk-taking contemporary hits like Rocky Aur Rani Kii Prem Kahaani and the emotional impact of older cult favorites like Kabhi Alvida Naa Kehna."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Actor Anushree Shukla discusses her role as Mini in Student of the Year: After Dark, detailing her athletic background in Hyderabad and her transition from engineering to acting following over 200 auditions.",
+          "The interview also highlights her prior voice acting work, her praise for co-star Shanaya Kapoor, and her long-standing aspiration to collaborate with filmmaker Karan Johar."
+        ]
+      }
+    ],
+    "facts": [
+      "Anushree Shukla plays Mini in Student of the Year: After Dark.",
+      "She attended Oakridge International School in Hyderabad.",
+      "She has given over 200 auditions.",
+      "She worked as an operations manager at Sound and Vision Studios.",
+      "She voiced the character Pax in Masaba Masaba."
+    ],
+    "entities": {
+      "people": [
+        "Anushree Shukla",
+        "Reema Maya",
+        "Shanaya Kapoor",
+        "Karan Johar",
+        "Manya",
+        "Abhinav",
+        "Diya",
+        "Riya Sharma"
+      ],
+      "titles": [
+        "Student of the Year: After Dark",
+        "A Streetcar Named Desire",
+        "Masaba Masaba",
+        "Rocky Aur Rani Kii Prem Kahaani",
+        "Kabhi Alvida Naa Kehna"
+      ]
+    },
+    "keywords": [
+      "Anushree Shukla",
+      "Student of the Year After Dark",
+      "Reema Maya",
+      "Shanaya Kapoor",
+      "Karan Johar"
+    ],
+    "images": [
+      {
+        "url": "https://www.hindustantimes.com/ht-img/img/2026/11/28/1600x900/logo/Anushree_Shukla_1795832669863_TqFY_1795832675866_OEiB_3e0af39b-6e83-4471-9377-7f6e4e4c1d18_W3l5.jpg",
+        "caption": "Anushree Shukla Opens Up About Her Dharma Productions Debut in Student of the Year: After Dark",
+        "source": "Hindustan Times — Entertainment"
+      }
+    ],
+    "published": "Sat, 28 Nov 2026 15:50:22 +0530"
   }
 };
