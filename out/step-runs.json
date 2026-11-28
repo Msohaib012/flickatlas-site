@@ -4,45 +4,6 @@
    {
     "step": "fetch",
     "category": "Trending News",
-    "run_at": "2026-11-27T18:51:53Z",
-    "run_id": "46052413943",
-    "status": "success",
-    "checked": {
-     "candidates": 365,
-     "detail": "RSS/Atom items across 137 sources; 10 source(s) errored"
-    },
-    "changed": {
-     "added": [
-      "'Eetha' song 'Sindoor Se' out now: Shraddha Kapoor's film shows the romantic, emotional side",
-      "Rashmika's 'Ranabaali' co-star compares her to Prabhas; calls Vijay Deverakonda a 'sweetheart'",
-      "This Season 2 Survivor Clip Makes Me Miss OG Jeff Probst So Much",
-      "Danny Boyle Said Robert Pattinson Would Make A Great Bond Years Ago. Now He’s Backing An Actor To Be His Villain",
-      "Grand Theft Auto VI’s Lucia Actress Got Candid About How ‘Life Has Been Such A Whirlwind’ Since Game’s Release",
-      "James Bond Officially Returns With Massively Discounted Release",
-      "10 Classic Books That Flopped at First",
-      "Guy Fieri Unveils Radically Different Haircut & Color, Iconic Bleach Blonde Spikes Are Now Gone",
-      "Jennifer Lawrence Reveals Which Haircut She Was Genuinely Embarrassed By: ‘Don’t Google Me’",
-      "Andrew Garfield & Rebecca Ferguson’s Fantasy Movie Arrives on HBO Max Today",
-      "J.K. Rowling Reveals What She Honestly Thinks Of HBO’s New Harry Potter Show",
-      "GTA 6 Is Yet to Unleash Its Biggest Game-Changer, Hints Twitch CEO",
-      "James Bond: Denis Villeneuve Responds to Criticisms About Robert Pattinson’s 007 Casting",
-      "Sydney Sweeney Drops New NSFW Photos & Videos Showing Off Her Underwear",
-      "PS5 Pro-Enhanced Star Wars Action Game Is 80% Off on PlayStation Store",
-      "CBS Smash Hit 'Fire Country' Officially Goes on Hiatus After Season 5 Is Cut Short",
-      "David Boreanaz's 'The Rockford Files' Reboot Gets New Trailer Ahead of 2027 Release",
-      "HBO Max's New 4-Part Historical Hit Is Officially a 120-Day Streaming Smash",
-      "Harry Potter Star’s New Horror Movie Removed From 800 Theaters After All-Timer Box Office Collapse",
-      "Yellowjackets Season 4 Sets Up One Final Survivor Twist"
-     ],
-     "updated": [],
-     "count": 348,
-     "detail": "353 stories, 0 duplicates removed, 12 dropped"
-    },
-    "reason": null
-   },
-   {
-    "step": "fetch",
-    "category": "Trending News",
     "run_at": "2026-11-27T19:51:11Z",
     "run_id": "46059494358",
     "status": "success",
@@ -936,32 +897,48 @@
      "detail": "281 stories, 3 duplicates removed, 15 dropped"
     },
     "reason": null
-   }
-  ],
-  "apply_auto": [
+   },
    {
-    "step": "apply_auto",
+    "step": "fetch",
     "category": "Trending News",
-    "run_at": "2026-11-27T20:52:30Z",
-    "run_id": "46066339629",
+    "run_at": "2026-11-28T17:51:09Z",
+    "run_id": "46172619815",
     "status": "success",
     "checked": {
-     "candidates": 14,
-     "detail": "draft articles + box-office rows from out/gemini-batch.json"
+     "candidates": 279,
+     "detail": "RSS/Atom items across 137 sources; 1 source(s) errored"
     },
     "changed": {
      "added": [
-      "How Gen Z Creator Jenny Kamki Rose to Fame From a Viral Reel to India's Got Latent",
-      "Nine To Six Episode 2 Recap: Public Breakup, Phone Tracker, and Demotion",
-      "Anu Malik Reacts to Sajan Sajan Going Viral in Desi Batman Reels",
-      "Exploring Exceptional Short-Run Netflix Series Worth Your Time"
+      "Year Ender 2026: 10 Game changing films from South Films; Vaazha 2, Dorothy to Premada Oorali",
+      "Inji Vellam: Vijay Sethupathi and Sai Pallavi starrer to be a school love turned realistic adult romance? Find out",
+      "Tiffany was a millionaire at 16; bought Chuck Norris' $1.2 million home at 18",
+      "Malayalam director Liju Krishna acquitted in 2022 sexual assault case",
+      "Chris Rock Sees A Huge Difference Between His Generation Of Comics And Younger Ones Like Druski",
+      "What’s It Really Like Directing A James Bond Movie? Denis Villeneuve’s Take Is Stressing Me Out",
+      "5 of the Greatest Sci-Fi Book Series, Ranked by Goodreads",
+      "Russell Crowe’s Highest-Rated Movie in 27 Years Becomes an Amazon Hit",
+      "Matt Damon & Jessica Chastain’s Sci-Fi Blockbuster & More Hulu Releases This Week",
+      "'Tulsa King' Showrunner Already Knows the Sylvester Stallone Show's Ending",
+      "Netflix's Long-Awaited 'Gears of War' Live-Action Adaptation Gets Official Release Update",
+      "Nathan Fillion's Cult Classic Sci-Fi Series Gets Major Update After 24 Years",
+      "Forget 'Saving Private Ryan,' New Real-Life WWII Thriller Is Officially in the Works",
+      "David Fincher Says New Netflix Movie Has Pushed Him Towards Retirement",
+      "Netflix’s 2-Part Detective Thriller Is So Good, It Got a Rare 100% on Rotten Tomatoes",
+      "Shameless: Why Mandy Milkovich Was Recast In Season 2",
+      "DC Officially Names New Nightwing Replacement",
+      "Steven Spielberg Officially Fills The Biggest Void In His 55-Year Career With Exciting New Release",
+      "Mckenna Grace’s New Sci-Fi Movie Hits Second Big Box Office Milestone In 4 Days",
+      "Janine’s Original Love Interest Returns In Abbott Elementary For His Worst Crime Yet"
      ],
      "updated": [],
-     "count": 7,
-     "detail": "+4 articles, +0 box-office rows, 3 rows updated"
+     "count": 270,
+     "detail": "279 stories, 0 duplicates removed, 0 dropped"
     },
     "reason": null
-   },
+   }
+  ],
+  "apply_auto": [
    {
     "step": "apply_auto",
     "category": "Trending News",
@@ -1480,27 +1457,32 @@
      "detail": "+4 articles, +0 box-office rows, 3 rows updated"
     },
     "reason": null
+   },
+   {
+    "step": "apply_auto",
+    "category": "Trending News",
+    "run_at": "2026-11-28T17:53:28Z",
+    "run_id": "46172619815",
+    "status": "success",
+    "checked": {
+     "candidates": 14,
+     "detail": "draft articles + box-office rows from out/gemini-batch.json"
+    },
+    "changed": {
+     "added": [
+      "Malayalam Filmmaker Liju Krishna Cleared of All Charges in 2022 Sexual Assault Case",
+      "Rishab Shetty and Spanish Film 'Aqui' Triumph at the 57th International Film Festival of India",
+      "Tirupparankundram Deepathoon Ceremony Held Under Heavy Security Led By 13-Member Panel",
+      "Steven Spielberg Finally Directs His First Western With The Heart in Winter Adaptation"
+     ],
+     "updated": [],
+     "count": 7,
+     "detail": "+4 articles, +0 box-office rows, 3 rows updated"
+    },
+    "reason": null
    }
   ],
   "ott": [
-   {
-    "step": "ott",
-    "category": "OTT",
-    "run_at": "2026-11-27T18:52:53Z",
-    "run_id": "46052413943",
-    "status": "success",
-    "checked": {
-     "candidates": 450,
-     "detail": "OTT now/coming titles from the published catalogue"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 0,
-     "detail": "now 447, coming 3"
-    },
-    "reason": "no-new-data"
-   },
    {
     "step": "ott",
     "category": "OTT",
@@ -1914,26 +1896,27 @@
      "detail": "now 453, coming 3"
     },
     "reason": "no-new-data"
-   }
-  ],
-  "trending_weekly": [
+   },
    {
-    "step": "trending_weekly",
-    "category": "Trending Topics",
-    "run_at": "2026-11-27T18:53:54Z",
-    "run_id": "46052413943",
+    "step": "ott",
+    "category": "OTT",
+    "run_at": "2026-11-28T17:53:28Z",
+    "run_id": "46172619815",
     "status": "success",
     "checked": {
-     "candidates": 100,
-     "detail": "cached Google RSS trend/article intersection"
+     "candidates": 456,
+     "detail": "OTT now/coming titles from the published catalogue"
     },
     "changed": {
      "added": [],
      "updated": [],
-     "count": 0
+     "count": 0,
+     "detail": "now 453, coming 3"
     },
     "reason": "no-new-data"
-   },
+   }
+  ],
+  "trending_weekly": [
    {
     "step": "trending_weekly",
     "category": "Trending Topics",
@@ -2401,27 +2384,35 @@
      "count": 7
     },
     "reason": null
+   },
+   {
+    "step": "trending_weekly",
+    "category": "Trending Topics",
+    "run_at": "2026-11-28T17:57:33Z",
+    "run_id": "46172619815",
+    "status": "success",
+    "checked": {
+     "candidates": 100,
+     "detail": "cached Google RSS trend/article intersection"
+    },
+    "changed": {
+     "added": [
+      "1ao14lx",
+      "8kltp4",
+      "1hol4ii",
+      "1u9c3e3",
+      "14aeaci",
+      "d9n5lc",
+      "1j6ovug",
+      "1w81ynl"
+     ],
+     "updated": [],
+     "count": 8
+    },
+    "reason": null
    }
   ],
   "multisource_boxoffice": [
-   {
-    "step": "multisource_boxoffice",
-    "category": "Box Office",
-    "run_at": "2026-11-27T20:05:47Z",
-    "run_id": "46059494358",
-    "status": "success",
-    "checked": {
-     "candidates": 765,
-     "detail": "695 collected staging rows from readers; 262 averaged across 2+ sources"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 5,
-     "detail": "+0 new rows, 5 updated rows, 732 unchanged"
-    },
-    "reason": null
-   },
    {
     "step": "multisource_boxoffice",
     "category": "Box Office",
@@ -2835,19 +2826,27 @@
      "detail": "+0 new rows, 8 updated rows, 736 unchanged"
     },
     "reason": null
+   },
+   {
+    "step": "multisource_boxoffice",
+    "category": "Box Office",
+    "run_at": "2026-11-28T17:57:22Z",
+    "run_id": "46172619815",
+    "status": "success",
+    "checked": {
+     "candidates": 770,
+     "detail": "700 collected staging rows from readers; 262 averaged across 2+ sources"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 5,
+     "detail": "+0 new rows, 5 updated rows, 739 unchanged"
+    },
+    "reason": null
    }
   ],
   "gemini_reviews": [
-   {
-    "step": "gemini_reviews",
-    "category": "Reviews",
-    "run_at": "2026-11-27T18:54:04Z",
-    "run_id": "46052413943",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "gemini_reviews",
     "category": "Reviews",
@@ -3084,32 +3083,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "gemini_reviews",
+    "category": "Reviews",
+    "run_at": "2026-11-28T17:57:43Z",
+    "run_id": "46172619815",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "convert_news": [
-   {
-    "step": "convert_news",
-    "category": "Trending News",
-    "run_at": "2026-11-27T20:54:38Z",
-    "run_id": "46066339629",
-    "status": "success",
-    "checked": {
-     "candidates": 600,
-     "detail": "feed entries from out/queue.json"
-    },
-    "changed": {
-     "added": [
-      "How Gen Z Creator Jenny Kamki Rose to Fame From a Viral Reel to India's Got Latent",
-      "Nine To Six Episode 2 Recap: Public Breakup, Phone Tracker, and Demotion",
-      "Anu Malik Reacts to Sajan Sajan Going Viral in Desi Batman Reels",
-      "Exploring Exceptional Short-Run Netflix Series Worth Your Time"
-     ],
-     "updated": [],
-     "count": 4,
-     "detail": "api-news.json 600 items, api-trends.json 12 items"
-    },
-    "reason": null
-   },
    {
     "step": "convert_news",
     "category": "Trending News",
@@ -3630,19 +3616,37 @@
      "detail": "api-news.json 600 items, api-trends.json 12 items"
     },
     "reason": null
+   },
+   {
+    "step": "convert_news",
+    "category": "Trending News",
+    "run_at": "2026-11-28T17:57:32Z",
+    "run_id": "46172619815",
+    "status": "success",
+    "checked": {
+     "candidates": 600,
+     "detail": "feed entries from out/queue.json"
+    },
+    "changed": {
+     "added": [
+      "Rishab Shetty and Spanish Film 'Aqui' Triumph at the 57th International Film Festival of India",
+      "Tirupparankundram Deepathoon Ceremony Held Under Heavy Security Led By 13-Member Panel",
+      "Steven Spielberg Finally Directs His First Western With The Heart in Winter Adaptation",
+      "Bano Episode 45 — Watch Online on Geo TV",
+      "Zehar-e-Mohabbat Episode 29 — Watch Online on HUM TV",
+      "Nashtar Episode 37 — Watch Online on Geo TV",
+      "Aangan Episode 18 — Watch Online on HUM TV",
+      "Dar-E-Nijaat Episode 35 — Watch Online on ARY Digital",
+      "Malayalam Filmmaker Liju Krishna Cleared of All Charges in 2022 Sexual Assault Case"
+     ],
+     "updated": [],
+     "count": 9,
+     "detail": "api-news.json 600 items, api-trends.json 12 items"
+    },
+    "reason": null
    }
   ],
   "episode_guides": [
-   {
-    "step": "episode_guides",
-    "category": "Drama Episodes",
-    "run_at": "2026-11-27T18:54:04Z",
-    "run_id": "46052413943",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "episode_guides",
     "category": "Drama Episodes",
@@ -3899,65 +3903,38 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "title_seed": [
+   },
    {
-    "step": "title_seed",
-    "category": "Spotlight / Coming Soon / Most Awaited",
-    "run_at": "2026-11-27T18:52:31Z",
-    "run_id": "46052413943",
+    "step": "episode_guides",
+    "category": "Drama Episodes",
+    "run_at": "2026-11-28T17:52:55Z",
+    "run_id": "46172619815",
     "status": "success",
     "checked": {
-     "candidates": 517,
-     "sources": {
-      "trending": 20,
-      "trending_tv": 20,
-      "now_playing": 40,
-      "upcoming": 40,
-      "bollywood": 40,
-      "hindi_recent_movies": 100,
-      "india_window": 40,
-      "world_window": 40,
-      "world_recent": 60,
-      "pk_dramas": 20,
-      "new_tv": 40,
-      "hindi_recent_tv": 42,
-      "pk_movies": 15
-     },
-     "picked": 20,
-     "skipped": 0,
-     "cap": 20,
-     "detail": "Hindi recent movies/TV date-ranked p1-5 + existing regional/trending sources retained"
+     "candidates": 19,
+     "detail": "YouTube episodes on the 4 official PK channels (+ intl 1M+ views); 11 new detected"
     },
     "changed": {
      "added": [
-      "Ishaara - A Campus Beats Movie (1848397)",
-      "Candidates (343876)",
-      "Many Many Happy Returns (1244711)",
-      "Der größte Wunsch (1848948)",
-      "Coming Home (1590752)",
-      "Padayaatra (1569041)",
-      "Kanojo ni Attara, Yoroshiku to (1827408)",
-      "Deathbound (1610933)",
-      "Father (1767120)",
-      "The Island of Two Faces: Nusakambangan (1825528)",
-      "Cousin Isha (1763356)",
-      "The Journey of the Blue Fox (1824733)",
-      "Devi Mahathme (1721040)",
-      "Morning Star (1823948)",
-      "Baba (1539084)",
-      "Viktor's Hot Dogs (1821540)",
-      "Ei Shohorer Gaan (1736395)",
-      "Flôr de Panchão (1821512)",
-      "Mahaveer Karna (1754328)",
-      "A Trip to the South (1821498)"
+      "Bano Ep 45",
+      "Zehar-e-Mohabbat Ep 29",
+      "Nashtar Ep 37",
+      "Aangan Ep 18",
+      "Dar-E-Nijaat Ep 35"
      ],
-     "updated": [],
-     "count": 20
+     "updated": [
+      "Dar-E-Nijaat Ep 35",
+      "Nashtar Ep 37",
+      "Bano Ep 45",
+      "Aangan Ep 18",
+      "Zehar-e-Mohabbat Ep 29"
+     ],
+     "count": 10
     },
     "reason": null
-   },
+   }
+  ],
+  "title_seed": [
    {
     "step": "title_seed",
     "category": "Spotlight / Coming Soon / Most Awaited",
@@ -4233,31 +4210,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "title_seed",
+    "category": "Spotlight / Coming Soon / Most Awaited",
+    "run_at": "2026-11-28T17:57:43Z",
+    "run_id": "46172619815",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "gemini_batch": [
-   {
-    "step": "gemini_batch",
-    "category": "Trending News",
-    "run_at": "2026-11-27T18:52:52Z",
-    "run_id": "46052413943",
-    "status": "success",
-    "checked": {
-     "candidates": 4,
-     "detail": "news queue items drafted this run; 348 still unprocessed; today by category: movies 11/6, tv_dramas 13/4, episodes 1/2, box_office 11/6, celebrities_events 13/5, upcoming_releases 5/4, ott_streaming 8/4, trailers 3/3, awards 3/2, music_ost 5/2, viral 3/2"
-    },
-    "changed": {
-     "added": [
-      "Shraddha Kapoor Starrer Eetha Unveils New Romantic Track Sindoor Se",
-      "Sally Field Chases Historic 10th Actor Award Nomination for Remarkably Bright Creatures",
-      "Ranabaali Co-Star Defends Vijay Deverakonda and Rashmika Mandanna Amid Online Scrutiny",
-      "HBO Max's The Gilded Age Season 4 Dominates Streaming Charts"
-     ],
-     "updated": [],
-     "count": 4
-    },
-    "reason": null
-   },
    {
     "step": "gemini_batch",
     "category": "Trending News",
@@ -4763,19 +4728,31 @@
      "count": 4
     },
     "reason": null
+   },
+   {
+    "step": "gemini_batch",
+    "category": "Trending News",
+    "run_at": "2026-11-28T17:53:27Z",
+    "run_id": "46172619815",
+    "status": "success",
+    "checked": {
+     "candidates": 6,
+     "detail": "news queue items drafted this run; 270 still unprocessed; today by category: movies 13/6, tv_dramas 10/4, episodes 2/2, box_office 11/6, celebrities_events 16/5, upcoming_releases 5/4, ott_streaming 9/4, trailers 2/3, awards 4/2, music_ost 2/2, viral 2/2"
+    },
+    "changed": {
+     "added": [
+      "Malayalam Filmmaker Liju Krishna Cleared of All Charges in 2022 Sexual Assault Case",
+      "Rishab Shetty and Spanish Film 'Aqui' Triumph at the 57th International Film Festival of India",
+      "Tirupparankundram Deepathoon Ceremony Held Under Heavy Security Led By 13-Member Panel",
+      "Steven Spielberg Finally Directs His First Western With The Heart in Winter Adaptation"
+     ],
+     "updated": [],
+     "count": 4
+    },
+    "reason": null
    }
   ],
   "overseas_ai": [
-   {
-    "step": "overseas_ai",
-    "category": "Box Office",
-    "run_at": "2026-11-27T18:54:04Z",
-    "run_id": "46052413943",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "overseas_ai",
     "category": "Box Office",
@@ -5082,24 +5059,26 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "publish": [
+   },
    {
-    "step": "publish",
-    "category": "Trending News",
-    "run_at": "2026-11-27T18:54:04Z",
-    "run_id": "46052413943",
+    "step": "overseas_ai",
+    "category": "Box Office",
+    "run_at": "2026-11-28T17:54:39Z",
+    "run_id": "46172619815",
     "status": "success",
-    "checked": null,
+    "checked": {
+     "candidates": 66,
+     "detail": "published movies with missing overseas day figures; Tavily searches: 48"
+    },
     "changed": {
      "added": [],
      "updated": [],
-     "count": 400,
-     "detail": "lines changed in owned files; no per-item summary from script"
+     "count": 0
     },
-    "reason": null
-   },
+    "reason": "no-new-data"
+   }
+  ],
+  "publish": [
    {
     "step": "publish",
     "category": "Trending News",
@@ -5444,24 +5423,24 @@
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
-   }
-  ],
-  "stats_traffic": [
+   },
    {
-    "step": "stats_traffic",
-    "category": "Stats / Health",
-    "run_at": "2026-11-27T18:54:04Z",
-    "run_id": "46052413943",
+    "step": "publish",
+    "category": "Trending News",
+    "run_at": "2026-11-28T17:57:43Z",
+    "run_id": "46172619815",
     "status": "success",
     "checked": null,
     "changed": {
      "added": [],
      "updated": [],
-     "count": 14,
+     "count": 647,
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
-   },
+   }
+  ],
+  "stats_traffic": [
    {
     "step": "stats_traffic",
     "category": "Stats / Health",
@@ -5801,24 +5780,24 @@
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
-   }
-  ],
-  "stats_pipeline": [
+   },
    {
-    "step": "stats_pipeline",
+    "step": "stats_traffic",
     "category": "Stats / Health",
-    "run_at": "2026-11-27T18:54:04Z",
-    "run_id": "46052413943",
+    "run_at": "2026-11-28T17:57:43Z",
+    "run_id": "46172619815",
     "status": "success",
     "checked": null,
     "changed": {
      "added": [],
      "updated": [],
-     "count": 82,
+     "count": 34,
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
-   },
+   }
+  ],
+  "stats_pipeline": [
    {
     "step": "stats_pipeline",
     "category": "Stats / Health",
@@ -6063,19 +6042,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "stats_health": [
+   },
    {
-    "step": "stats_health",
+    "step": "stats_pipeline",
     "category": "Stats / Health",
-    "run_at": "2026-11-27T18:54:04Z",
-    "run_id": "46052413943",
+    "run_at": "2026-11-28T17:57:43Z",
+    "run_id": "46172619815",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "stats_health": [
    {
     "step": "stats_health",
     "category": "Stats / Health",
@@ -6310,19 +6289,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "metadata_refresh": [
+   },
    {
-    "step": "metadata_refresh",
-    "category": "Spotlight / Coming Soon / Most Awaited",
-    "run_at": "2026-11-27T18:54:04Z",
-    "run_id": "46052413943",
+    "step": "stats_health",
+    "category": "Stats / Health",
+    "run_at": "2026-11-28T17:57:43Z",
+    "run_id": "46172619815",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "metadata_refresh": [
    {
     "step": "metadata_refresh",
     "category": "Spotlight / Coming Soon / Most Awaited",
@@ -6606,19 +6585,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "providers_backfill": [
+   },
    {
-    "step": "providers_backfill",
-    "category": "OTT",
-    "run_at": "2026-11-27T18:54:04Z",
-    "run_id": "46052413943",
+    "step": "metadata_refresh",
+    "category": "Spotlight / Coming Soon / Most Awaited",
+    "run_at": "2026-11-28T17:57:43Z",
+    "run_id": "46172619815",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "providers_backfill": [
    {
     "step": "providers_backfill",
     "category": "OTT",
@@ -6859,19 +6838,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "tavily_boxoffice": [
+   },
    {
-    "step": "tavily_boxoffice",
-    "category": "Box Office",
-    "run_at": "2026-11-27T18:54:04Z",
-    "run_id": "46052413943",
+    "step": "providers_backfill",
+    "category": "OTT",
+    "run_at": "2026-11-28T17:57:43Z",
+    "run_id": "46172619815",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "tavily_boxoffice": [
    {
     "step": "tavily_boxoffice",
     "category": "Box Office",
@@ -7101,19 +7080,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "tavily_boxoffice",
+    "category": "Box Office",
+    "run_at": "2026-11-28T17:57:43Z",
+    "run_id": "46172619815",
+    "status": "success",
+    "checked": null,
+    "changed": null,
+    "reason": "no-new-data"
    }
   ],
   "keywords_refresh": [
-   {
-    "step": "keywords_refresh",
-    "category": "Trending News",
-    "run_at": "2026-11-27T18:54:04Z",
-    "run_id": "46052413943",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "keywords_refresh",
     "category": "Trending News",
@@ -7366,31 +7345,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "keywords_refresh",
+    "category": "Trending News",
+    "run_at": "2026-11-28T17:57:43Z",
+    "run_id": "46172619815",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "overseas_sweep": [
-   {
-    "step": "overseas_sweep",
-    "category": "Box Office",
-    "run_at": "2026-11-26T18:53:23Z",
-    "run_id": "45879090583",
-    "status": "success",
-    "checked": {
-     "candidates": 615,
-     "detail": "completed day-wise rows missing overseas; quicknews pages fetched: 14; attempt cooldown deferred: 601"
-    },
-    "changed": {
-     "added": [
-      "Jailer 2 (1234139)",
-      "Ranabaali (1389379)",
-      "418 (1606527)",
-      "Nayyi Navelli (1654581)"
-     ],
-     "updated": [],
-     "count": 13
-    },
-    "reason": null
-   },
    {
     "step": "overseas_sweep",
     "category": "Box Office",
@@ -7897,24 +7864,31 @@
      "count": 13
     },
     "reason": null
+   },
+   {
+    "step": "overseas_sweep",
+    "category": "Box Office",
+    "run_at": "2026-11-28T17:53:44Z",
+    "run_id": "46172619815",
+    "status": "success",
+    "checked": {
+     "candidates": 627,
+     "detail": "completed day-wise rows missing overseas; quicknews pages fetched: 13; attempt cooldown deferred: 614"
+    },
+    "changed": {
+     "added": [
+      "Jailer 2 (1234139)",
+      "Ranabaali (1389379)",
+      "418 (1606527)",
+      "Nayyi Navelli (1654581)"
+     ],
+     "updated": [],
+     "count": 13
+    },
+    "reason": null
    }
   ],
   "advance_booking": [
-   {
-    "step": "advance_booking",
-    "category": "Box Office",
-    "run_at": "2026-11-27T18:54:04Z",
-    "run_id": "46052413943",
-    "status": "success",
-    "checked": null,
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 88,
-     "detail": "lines changed in owned files; no per-item summary from script"
-    },
-    "reason": null
-   },
    {
     "step": "advance_booking",
     "category": "Box Office",
@@ -8149,19 +8123,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "home_boxoffice_worldwide": [
+   },
    {
-    "step": "home_boxoffice_worldwide",
+    "step": "advance_booking",
     "category": "Box Office",
-    "run_at": "2026-11-27T18:54:04Z",
-    "run_id": "46052413943",
+    "run_at": "2026-11-28T17:57:43Z",
+    "run_id": "46172619815",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "home_boxoffice_worldwide": [
    {
     "step": "home_boxoffice_worldwide",
     "category": "Box Office",
@@ -8391,8 +8365,18 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "home_boxoffice_worldwide",
+    "category": "Box Office",
+    "run_at": "2026-11-28T17:57:43Z",
+    "run_id": "46172619815",
+    "status": "failed",
+    "checked": null,
+    "changed": null,
+    "reason": "error"
    }
   ]
  },
- "updated_at": "2026-11-28T16:54:37Z"
+ "updated_at": "2026-11-28T17:57:43Z"
 }

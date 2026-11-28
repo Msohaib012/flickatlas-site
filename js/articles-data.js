@@ -276274,5 +276274,652 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Sat, 28 Nov 2026 16:00:19 GMT"
+  },
+  "16pn80d": {
+    "id": "16pn80d",
+    "type": "news",
+    "headline": "Bano Episode 45 — Watch Online on Geo TV",
+    "dek": "Bano episode 45 aired on 2026-11-28 — watch the full episode on Geo TV.",
+    "body": [
+      {
+        "h": "Episode Details",
+        "p": [
+          "Bano Episode 45 aired on 2026-11-28 on Geo TV. The full episode is available on the channel's official YouTube page.",
+          "Watch the full episode here: https://www.youtube.com/watch?v=dY6TB7skn20"
+        ]
+      },
+      {
+        "h": "Episode Summary",
+        "p": [
+          "Is episode mein Bano ghar mein sab ke samne aati hai aur Farah usay ghalti se galat samajhte hue kehti hai ke woh Murtaza ke paas jaane ki koshish kar rahi thi aur usne unke khilaf dhoka kiya hai. Bano kehti hai ke yeh sab jhoot hai aur woh sirf apne shohar se mohabbat karti hai. Farhana video dikhati hai jismein Bano aur Murtaza ki baatein hain. Phir Noor Malek (Bano ki saas) aati hain aur Bano par gussa karti hain ke usne sab ka sukoon barbad kar diya hai aur Bano ko ghar se nikalne ka kehti hain. Bano ro kar apne bhai (Shehryar) aur ghar walon ki taraf dekhti hai lekin sab khamosh rehte hain. Shehryar aur Bano wahan se chale jaate hain. baad mein Shehryar Noor Malek se milne aata hai aur kehta hai ke Bano usse mohabbat karti hai aur woh unhein chor dega agar Bano ke sath kuch galat hua. Episode ke end mein Bano aur Shehryar ek sath bethe hote hain aur Bano kehti hai ke woh ab Murtaza se mohabbat nahi karti aur usko sach maloom ho gaya hai."
+        ]
+      }
+    ],
+    "facts": [
+      "Bano Episode 45 aired on 2026-11-28.",
+      "Channel: Geo TV.",
+      "Watch the full episode: https://www.youtube.com/watch?v=dY6TB7skn20",
+      "YouTube views: 127,285.",
+      "Episode summary added 2026-11-28."
+    ],
+    "entities": {
+      "titles": [
+        "Bano"
+      ],
+      "people": []
+    },
+    "images": [
+      {
+        "url": "https://i.ytimg.com/vi/dY6TB7skn20/hqdefault.jpg",
+        "caption": "Bano Episode 45",
+        "source": "Geo TV"
+      }
+    ],
+    "published": "2026-11-28T17:00:06Z"
+  },
+  "16meluu": {
+    "id": "16meluu",
+    "type": "news",
+    "headline": "Zehar-e-Mohabbat Episode 29 — Watch Online on HUM TV",
+    "dek": "Zehar-e-Mohabbat episode 29 aired on 2026-11-28 — watch the full episode on HUM TV.",
+    "body": [
+      {
+        "h": "Episode Details",
+        "p": [
+          "Zehar-e-Mohabbat Episode 29 aired on 2026-11-28 on HUM TV. The full episode is available on the channel's official YouTube page.",
+          "Watch the full episode here: https://www.youtube.com/watch?v=old3Vctw7kc"
+        ]
+      },
+      {
+        "h": "Episode Summary",
+        "p": [
+          "Is episode mein, Arham ghar ke kharchon ke paise bacha kar apne liye aur Talat ke liye kangan banwane ke liye rakhta hai. Woh wohi paise ek zaruratmand aadmi ko dawa aur uski tankhwah ke liye de deta hai. Dusri taraf, Arham aur Mahaik ke beech is baat par behas hoti hai ke Arham ne Aatif ko kyun phone kiya tha. Aatif Arham se milta hai aur use blackmail karne ki koshish karta hai taake uska loan approve ho sake, magar Arham inkaar kar deta hai. Aatif jail mein Waqar se milta hai aur use kehta hai ke woh use salaakhon se nikalwa sakta hai agar woh Aatif ko Waqar ke jurm ki keemat ada kare. Mahaik apni nayi job shuru karti hai jahan uski manager Aafreen use muskurane aur customers ko deal karne ka tareeqa sikhati hai, magar Mahaik ka dhyan hamesha purani yaadon mein rehta hai. Jab Arham ke ghar wale Mahaik ke ghar aate hain, toh sab khushi se mithai khate hain, lekin Mahaik ko achanak pata chalta hai ke Aatif ki dukan lut chuki hai aur Aatif wahan nahi hai, jiski wajah se woh bohot pareshan ho jati hai aur episode yahi khatam hota hai."
+        ]
+      }
+    ],
+    "facts": [
+      "Zehar-e-Mohabbat Episode 29 aired on 2026-11-28.",
+      "Channel: HUM TV.",
+      "Watch the full episode: https://www.youtube.com/watch?v=old3Vctw7kc",
+      "YouTube views: 11,694.",
+      "Episode summary added 2026-11-28."
+    ],
+    "entities": {
+      "titles": [
+        "Zehar-e-Mohabbat"
+      ],
+      "people": []
+    },
+    "images": [
+      {
+        "url": "https://i.ytimg.com/vi/old3Vctw7kc/hqdefault.jpg",
+        "caption": "Zehar-e-Mohabbat Episode 29",
+        "source": "HUM TV"
+      }
+    ],
+    "published": "2026-11-28T17:00:05Z"
+  },
+  "1a6nz3i": {
+    "id": "1a6nz3i",
+    "type": "news",
+    "headline": "Nashtar Episode 37 — Watch Online on Geo TV",
+    "dek": "Nashtar episode 37 aired on 2026-11-28 — watch the full episode on Geo TV.",
+    "body": [
+      {
+        "h": "Episode Details",
+        "p": [
+          "Nashtar Episode 37 aired on 2026-11-28 on Geo TV. The full episode is available on the channel's official YouTube page.",
+          "Watch the full episode here: https://www.youtube.com/watch?v=woBBkP56IIM"
+        ]
+      },
+      {
+        "h": "About Nashtar",
+        "p": [
+          "Shah Dawood, the arrogant heir to a powerful landowning family, clashes with Bareera Aijaz, a principled university student who refuses to bow to his authority. Forced into an unexpected marriage, their constant battles gradually give way to respect and love. But when Tamseel, Shah’s longtime admirer, refuses to accept Bareera, their fragile relationship is put to the ultimate test. Can Shah and Bareera overcome jealousy, family pressure, and their differences to find lasting love?"
+        ]
+      },
+      {
+        "h": "Episode Summary",
+        "p": [
+          "Is episode mein, Munsub Ali Khan aur unke ghar wale ek ahem faisle par guftgu karte hain jismein Tameel aur Arbaz ki shadi ka elaan hota hai. Tameel is faisle se na-khush aur pareshan nazar aati hai, jabke uski ma aur ghar ke doosre afraad use samjhane ki koshish karte hain ke yeh unke liye behtar hai. Tameel jab Tumsil se baat karti hai toh woh apne jazbaat aur dard ka izhaar karti hai. Episode ke aakhir mein Tameel aur Arbaz ki shadi ki munaqqa mehfil dikhayi jati hai jahan sabhi mehman aur ghar wale maujood hote hain, aur Tameel dulhan ke roop mein udas bethi hoti hai."
+        ]
+      }
+    ],
+    "facts": [
+      "Nashtar Episode 37 aired on 2026-11-28.",
+      "Channel: Geo TV.",
+      "Watch the full episode: https://www.youtube.com/watch?v=woBBkP56IIM",
+      "YouTube views: 647,752.",
+      "TMDB: Nashtar (id 332312).",
+      "Episode summary added 2026-11-28."
+    ],
+    "entities": {
+      "titles": [
+        "Nashtar"
+      ],
+      "people": [
+        "Danish Taimoor",
+        "Anmol Baloch",
+        "Naeema Butt"
+      ]
+    },
+    "images": [
+      {
+        "url": "https://i.ytimg.com/vi/woBBkP56IIM/hqdefault.jpg",
+        "caption": "Nashtar Episode 37",
+        "source": "Geo TV"
+      }
+    ],
+    "published": "2026-11-28T16:01:35Z"
+  },
+  "19akhh4": {
+    "id": "19akhh4",
+    "type": "news",
+    "headline": "Aangan Episode 18 — Watch Online on HUM TV",
+    "dek": "Aangan episode 18 aired on 2026-11-28 — watch the full episode on HUM TV.",
+    "body": [
+      {
+        "h": "Episode Details",
+        "p": [
+          "Aangan Episode 18 aired on 2026-11-28 on HUM TV. The full episode is available on the channel's official YouTube page.",
+          "Watch the full episode here: https://www.youtube.com/watch?v=ss340DkfW40"
+        ]
+      },
+      {
+        "h": "About Aangan",
+        "p": [
+          "Set before 1940s, a Hindustani family that was divided mercilessly before the partition of Pakistan by the unfortunate time incidents."
+        ]
+      },
+      {
+        "h": "Episode Summary",
+        "p": [
+          "Is episode ki shuruat mein Aliya akele aane wale waqt ke khyalat mein khoyi nazar aati hai. Jab Bade Chacha aakar khushi se batate hain ki Aliya ke imtihan ka nateeja achha aaya aur wahan se line ka khat aaya hai, to Aliya dar aur pareshaani ki wajah se us envelope ko kholne se darti hai, lekin Chacha khud use khol kar khushi jatate hain. Dusri taraf Chammi apne kamre mein aakar gusse mein bhadakti hai aur ailaan karti hai ke agar Jamil ka juloos uske kamre ke paas se nikla to woh thelon se maregi. Woh Jamil ke fauj mein bharti hone ki khabar par gussa hoti hai aur Zafar ki ma ko dilaasa deti hai jab woh roti hain. Jamil ke fauj mein jaane ke faisle par ghar wale alag-alag tarah se react karte hain, aur Bade Chacha use samjhane ki koshish karte hain, lekin Jamil apne faisle par pakka rehta hai. Aliya aur Jamil ki aapas mein kuch baatein hoti hain jahan Jamil ke jaane ka gham saaf dikhta hai, aur aakhir mein Jamil apna saman pack karke ghar se rawana ho jata hai, jabki sab ghar wale, khaas kar uski ma aur baki log, udaas aur rote hue usko alwida kehte hain. Episode ka ikhtitam Jamil ke ruksat hone aur ghar walon ki nam aankhon par hota hai."
+        ]
+      }
+    ],
+    "facts": [
+      "Aangan Episode 18 aired on 2026-11-28.",
+      "Channel: HUM TV.",
+      "Watch the full episode: https://www.youtube.com/watch?v=ss340DkfW40",
+      "YouTube views: 113,937.",
+      "TMDB: Aangan (id 90172).",
+      "Episode summary added 2026-11-28."
+    ],
+    "entities": {
+      "titles": [
+        "Aangan"
+      ],
+      "people": [
+        "Ahad Raza Mir",
+        "Sonya Husyn",
+        "Sajal Ali",
+        "Mawra Hocane",
+        "Ahsan Khan"
+      ]
+    },
+    "images": [
+      {
+        "url": "https://i.ytimg.com/vi/ss340DkfW40/hqdefault.jpg",
+        "caption": "Aangan Episode 18",
+        "source": "HUM TV"
+      }
+    ],
+    "published": "2026-11-28T16:00:38Z"
+  },
+  "1r71pks": {
+    "id": "1r71pks",
+    "type": "news",
+    "headline": "Dar-E-Nijaat Episode 35 — Watch Online on ARY Digital",
+    "dek": "Dar-E-Nijaat episode 35 aired on 2026-11-28 — watch the full episode on ARY Digital.",
+    "body": [
+      {
+        "h": "Episode Details",
+        "p": [
+          "Dar-E-Nijaat Episode 35 aired on 2026-11-28 on ARY Digital. The full episode is available on the channel's official YouTube page.",
+          "Watch the full episode here: https://www.youtube.com/watch?v=hmYBrZOHpKY"
+        ]
+      },
+      {
+        "h": "About Dar-E-Nijaat",
+        "p": [
+          "Some stories begin with love. Some are tested by loss. And some are remembered for the courage it takes to forgive."
+        ]
+      },
+      {
+        "h": "Episode Summary",
+        "p": [
+          "Is episode mein Qudratullah Aman Mahr Ali ke ghar jata hai jahan uski mulaqat Aman ki ma, Shada Gujri se hoti hai. Qudratullah jab Aman ke bare mein puchta hai to Shada Gujri yeh keh kar hairan reh jati hai ke Aman ki shadi toh uski beti ke sath tay ho chuki hai, jabkay Qudratullah ko is baat ka koi ilm nahi hota. Shada Gujri Qudratullah ko bura bhala kehti hai aur uske khilaf gussa nikalti hai kyunke use lagta hai ke Aman aur uski beti ka rishta chup kar ke tai kiya gaya hai. Is douran puranay raaz khulte hain aur ghalat fehmian barhti hain. Episode ke ikhtitam par yeh dikhaya jata hai ke log aapas mein behas kar rahe hain aur jazbati halat mein saari sachai aur galat fehmiyon ki teh tak pohnchne ki koshish ki ja rahi hai, jis se kirdaron ke darmiyan mazeed tension paida ho jati hai."
+        ]
+      }
+    ],
+    "facts": [
+      "Dar-E-Nijaat Episode 35 aired on 2026-11-28.",
+      "Channel: ARY Digital.",
+      "Watch the full episode: https://www.youtube.com/watch?v=hmYBrZOHpKY",
+      "YouTube views: 723,385.",
+      "TMDB: Dar-E-Nijaat (id 328722).",
+      "Episode summary added 2026-11-28."
+    ],
+    "entities": {
+      "titles": [
+        "Dar-E-Nijaat"
+      ],
+      "people": [
+        "Sheheryar Munawar Siddiqui",
+        "Dur-e-Fishan Saleem",
+        "Nameer Nawaz Khan",
+        "Faran Tahir",
+        "Romaisa Khan"
+      ]
+    },
+    "images": [
+      {
+        "url": "https://i.ytimg.com/vi/hmYBrZOHpKY/hqdefault.jpg",
+        "caption": "Dar-E-Nijaat Episode 35",
+        "source": "ARY Digital"
+      }
+    ],
+    "published": "2026-11-28T16:00:18Z"
+  },
+  "15949h5": {
+    "id": "15949h5",
+    "type": "news",
+    "headline": "Malayalam Filmmaker Liju Krishna Cleared of All Charges in 2022 Sexual Assault Case",
+    "dek": "Director Liju Krishna, known for the film Padavettu, has been acquitted by a court after a detailed trial involving numerous witnesses and documents.",
+    "body": [
+      {
+        "h": "The Court Verdict and Acquittal",
+        "p": [
+          "A judicial court has officially cleared Malayalam filmmaker Liju Krishna of the sexual assault allegations registered against him back in 2022. The verdict was delivered by Additional Sessions Court Judge Kavitha Gangadharan, an official handling cases related to sexual violence.",
+          "During the comprehensive trial proceedings, the judiciary thoroughly evaluated testimonies from 23 witnesses alongside 17 pieces of documentation. Additionally, the court heard statements from two defence witnesses before ultimately exonerating the director."
+        ]
+      },
+      {
+        "h": "Origins of the Legal Case",
+        "p": [
+          "The legal troubles for Liju Krishna began on March 6, 2022, which coincided with the concluding day of production for his directorial venture Padavettu, starring Nivin Pauly in the main role. He was taken into custody by the Thrikkakara police following the complaint.",
+          "The complainant, who had previously collaborated with him as a co-writer on the film script, lodged a formal accusation via a social media post. She claimed that the director had sexually assaulted her repeatedly across a span of two years."
+        ]
+      },
+      {
+        "h": "Director Reacts to the Judgment",
+        "p": [
+          "Addressing the media shortly after the court pronounced its verdict, Liju Krishna expressed immense relief and stated that truth and justice had finally prevailed for him and his relatives. He emphasized that the legal process allowed them to present their perspective clearly.",
+          "We have been able to present our side of the case and establish the truth before the honourable court, the filmmaker remarked while speaking to reporters, marking an end to years of intense legal scrutiny."
+        ]
+      },
+      {
+        "h": "The Personal Toll on Family",
+        "p": [
+          "Reflecting on the preceding years, Liju Krishna shared that the timeframe following his arrest was exceptionally difficult for his entire household. He detailed how the social standing and daily routines of his elderly parents were severely disrupted by the scandal.",
+          "According to the director, his father abruptly abandoned his local hometown shop upon hearing the news and never returned to it. Both of his parents completely withdrew from public life, avoiding all local gatherings and family functions while keeping the front door of their home shut continuously."
+        ]
+      },
+      {
+        "h": "Impact on Professional Career",
+        "p": [
+          "Beyond the personal and emotional strain, the filmmaker asserted that the allegations severely damaged his professional trajectory in the entertainment industry. He stated he was entirely cut off from artistic work and mainstream cultural circles.",
+          "Furthermore, Krishna alleged that another female film director actively worked to sabotage the release of his movie and targeted him maliciously. However, no counter-statement or response from the individual he referenced was provided in the initial reports."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Malayalam director Liju Krishna was acquitted in a 2022 sexual assault case by an additional sessions court after examining multiple witnesses and documents. The filmmaker stated that justice has finally been served for his family after years of hardship and professional isolation following his arrest on the last day of shooting Padavettu."
+        ]
+      }
+    ],
+    "facts": [
+      "The verdict was delivered on Saturday, November 28, 2026.",
+      "Liju Krishna directed the film Padavettu starring Nivin Pauly.",
+      "He was arrested by Thrikkakara police on March 6, 2022.",
+      "The trial involved 23 witnesses and 17 documents."
+    ],
+    "entities": {
+      "people": [
+        "Liju Krishna",
+        "Kavitha Gangadharan",
+        "Nivin Pauly"
+      ],
+      "titles": [
+        "Padavettu"
+      ]
+    },
+    "keywords": [
+      "Liju Krishna",
+      "Padavettu",
+      "Liju Krishna acquitted",
+      "Malayalam director sexual assault case"
+    ],
+    "images": [
+      {
+        "url": "https://static.toiimg.com/thumb/msid-136250483,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "caption": "Malayalam Filmmaker Liju Krishna Cleared of All Charges in 2022 Sexual Assault Case",
+        "source": "Times of India — Entertainment"
+      }
+    ],
+    "published": "2026-11-28T21:07:12+05:30"
+  },
+  "5c1e10": {
+    "id": "5c1e10",
+    "type": "news",
+    "headline": "Rishab Shetty and Spanish Film 'Aqui' Triumph at the 57th International Film Festival of India",
+    "dek": "The 57th edition of the International Film Festival of India concluded in Goa with top honors going to Tiago Guedes' 'Aqui' and Kannada star Rishab Shetty.",
+    "body": [
+      {
+        "h": "The Golden Peacock Winner",
+        "p": [
+          "Portuguese filmmaker Tiago Guedes earned the prestigious Golden Peacock for Best Film with his Spanish-language feature \"Aqui\" at the 57th International Film Festival of India. Produced by Paulo Branco, the movie captured the festival's highest honor thanks to a narrative style that the jury praised for drawing viewers into an immersive and dreamlike reality.",
+          "Along with the top trophy, the director and producer split a cash prize totaling INR5.1 million, equivalent to $57,000. The festival officially wrapped up its multi-day run in Goa on November 28, drawing international acclaim for its diverse selection of cinematic works."
+        ]
+      },
+      {
+        "h": "Rishab Shetty Wins Best Actor",
+        "p": [
+          "Kannada cinema prominent actor and director Rishab Shetty secured the Silver Peacock for Best Actor (Male) for his stellar work in \"Kantara: A Legend – Chapter 1.\" In addition to Shetty's individual win, the widely anticipated film also picked up a notable Special Mention from the festival jury.",
+          "The recognition underscores the growing national and international footprint of regional Indian storytelling. Shetty's performance stood out among a competitive slate of global entries showcased during the Goan event."
+        ]
+      },
+      {
+        "h": "Global Honors and Silver Peacock Awards",
+        "p": [
+          "German director Volker Schlöndorff was honored with the Best Director award for his work on the film \"Visitation.\" Meanwhile, the Silver Peacock for Best Actor (Female) went to Maya O’Rourke for her compelling performance in \"The Meltdown.\"",
+          "The festival also recognized emerging talent, presenting Bérenger Thouin with the Silver Peacock for Best Debut Feature Film of a Director for \"The Golden Age.\" Because of the director's absence, his brother and film composer Céleste Thouin accepted the accolade on his behalf."
+        ]
+      },
+      {
+        "h": "Special Mentions and Jury Recognition",
+        "p": [
+          "The Silver Peacock for the Special Jury Award was presented to the Argentine production \"The River Train,\" directed by Lorenzo Ferro and Lucas A. Vignale. Their collaborative directorial effort resonated strongly with the festival's voting panel.",
+          "Additionally, the ICFT-UNESCO Gandhi Medal, which highlights motion pictures promoting Mahatma Gandhi's core values and UNESCO ideals, was awarded to the Turkish film \"Rahma,\" directed by Faysal Soysal."
+        ]
+      },
+      {
+        "h": "Indian Cinema and OTT Achievements",
+        "p": [
+          "On the domestic front, Vishal Chaturvedi won Best Debut Director of an Indian Feature Film for \"Hanuman Ansh.\" The jury lauded the project for successfully blending elements of faith, culture, and music into an emotionally resonant story.",
+          "In the digital category, the Best Web Series (OTT) honor was claimed by \"Made in India: A Titan Story,\" directed by Robbie Grewal. The series was commended for capturing the spirit of ambition and dreams fulfilled across the country."
+        ]
+      },
+      {
+        "h": "Closing Ceremony and Leadership Reflections",
+        "p": [
+          "The grand closing event took place at the Dr. Shyama Prasad Mukherjee Indoor Stadium featuring vibrant cultural performances. Dignitaries including Goa Chief Minister Pramod Sawant, Ministry of Information and Broadcasting secretary Chanchal Kumar, festival director Ashutosh Gowariker, and international jury chair Aanand L. Rai attended the ceremony.",
+          "Sawant took the opportunity to honor local Goan filmmaker Aditya Suhas Jambhale. Meanwhile, Gowariker reflected on his inaugural year as festival director, emphasizing his goal to push boundaries and learn from the event's various milestones."
+        ]
+      },
+      {
+        "h": "Festival Scope and International Reach",
+        "p": [
+          "This year's edition of the festival maintained a massive global footprint by screening more than 150 international films originating from 86 different nations. Spain participated proudly as the Country of Honor, while Russia served as the official Partner Country alongside a special BRICS showcase.",
+          "Secretary Chanchal Kumar spoke about the rich history of Indian cinema during the event, expressing hope that future cinematic journeys will continue to find their launchpad in India."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "The 57th International Film Festival of India concluded in Goa on November 28, celebrating global cinema with top honors going to Tiago Guedes' \"Aqui\" and actor Rishab Shetty. The event featured extensive screenings from dozens of countries alongside multiple awards recognizing debut filmmakers, international projects, and Indian OTT series."
+        ]
+      }
+    ],
+    "facts": [
+      "The 57th International Film Festival of India concluded in Goa on Nov. 28, 2026.",
+      "Tiago Guedes' Spanish-language film \"Aqui\" won the Golden Peacock for Best Film.",
+      "\"Aqui\" was produced by Paulo Branco and received an INR5.1 million ($57,000) cash prize.",
+      "Rishab Shetty won the Silver Peacock for Best Actor (Male) for \"Kantara: A Legend – Chapter 1.\"",
+      "Volker Schlöndorff was named Best Director for \"Visitation.\"",
+      "Maya O’Rourke won Best Actor (Female) for \"The Meltdown.\"",
+      "Bérenger Thouin won the Silver Peacock for Best Debut Feature Film for \"The Golden Age.\"",
+      "\"The River Train\" won the Special Jury Award.",
+      "\"Rahma\" won the ICFT-UNESCO Gandhi Medal.",
+      "Vishal Chaturvedi's \"Hanuman Ansh\" won Best Debut Director of an Indian Feature Film.",
+      "\"Made in India: A Titan Story\" won Best Web Series (OTT).",
+      "The festival screened more than 150 international films from 86 countries, with Spain as Country of Honor and Russia as Partner Country."
+    ],
+    "entities": {
+      "people": [
+        "Rishab Shetty",
+        "Tiago Guedes",
+        "Paulo Branco",
+        "Volker Schlöndorff",
+        "Maya O’Rourke",
+        "Bérenger Thouin",
+        "Céleste Thouin",
+        "Lorenzo Ferro",
+        "Lucas A. Vignale",
+        "Faysal Soysal",
+        "Vishal Chaturvedi",
+        "Robbie Grewal",
+        "Pramod Sawant",
+        "Chanchal Kumar",
+        "Ashutosh Gowariker",
+        "Aanand L. Rai",
+        "Aditya Suhas Jambhale"
+      ],
+      "titles": [
+        "Aqui",
+        "Kantara: A Legend – Chapter 1",
+        "Visitation",
+        "The Meltdown",
+        "The Golden Age",
+        "The River Train",
+        "Rahma",
+        "Hanuman Ansh",
+        "Made in India: A Titan Story"
+      ]
+    },
+    "keywords": [
+      "Rishab Shetty Kantara Chapter 1",
+      "Aqui Golden Peacock IFFI",
+      "International Film Festival of India winners",
+      "Kantara A Legend Chapter 1 award"
+    ],
+    "images": [
+      {
+        "url": "https://variety.com/wp-content/uploads/2026/11/Rishab-Shetty-IFFI.jpg?w=1000&#038;h=563&#038;crop=1",
+        "caption": "Rishab Shetty and Spanish Film 'Aqui' Triumph at the 57th International Film Festival of India",
+        "source": "Variety"
+      }
+    ],
+    "published": "Sat, 28 Nov 2026 15:57:32 +0000"
+  },
+  "1761edt": {
+    "id": "1761edt",
+    "type": "news",
+    "headline": "Tirupparankundram Deepathoon Ceremony Held Under Heavy Security Led By 13-Member Panel",
+    "dek": "A special 13-member supervisory committee oversaw the evening lamp lighting at the Tirupparankundram Murugan temple hill following a Supreme Court directive.",
+    "body": [
+      {
+        "h": "Ceremony Execution and Schedule",
+        "p": [
+          "The ceremonial lamp lighting at the Deepathoon atop the Tirupparankundram Murugan temple hill in the Madurai district of Tamil Nadu was scheduled for 5 pm on Saturday. This significant religious event took place precisely in compliance with a directive issued by the Supreme Court.",
+          "A dedicated 13-member panel was constituted to supervise the proceedings. The high-profile committee brought together retired judges, senior administrative officials, security personnel, and traditional temple priests to ensure smooth execution."
+        ]
+      },
+      {
+        "h": "Supervisory Panel and Key Figures",
+        "p": [
+          "Among the prominent members appointed to facilitate the implementation of the Supreme Court's order were retired judges Vaidyanathan and Parthiban. Their presence underscored the judicial oversight mandated for the event.",
+          "The administrative and law enforcement leadership on the committee featured Madurai District Collector Nishant Krishna, the City Police Commissioner, and the Central Reserve Police Force Inspector General, alongside hereditary temple priests."
+        ]
+      },
+      {
+        "h": "Heightened Security Measures",
+        "p": [
+          "Authorities deployed extensive security arrangements across Tirupparankundram and neighboring zones ahead of the evening rituals. An additional deployment of 400 CRPF personnel arrived to guarantee an incident-free gathering.",
+          "Central security units conducted thorough sanitization sweeps across the hill and surrounding sectors as a precautionary measure, while police forces intensified patrolling due to anticipated large crowds of devotees."
+        ]
+      },
+      {
+        "h": "Rituals and Preliminary Visits",
+        "p": [
+          "Earlier on Saturday, retired judges Vaidyanathan and Parthiban visited the Tirupparankundram Murugan shrine to offer prayers. After completing special rituals, they advanced toward the hilltop carrying the ceremonial lamp while final preparations wrapped up.",
+          "The retired judges also engaged in consultations with hereditary temple priests responsible for traditional rituals. Madurai District Collector Nishant Krishna and the District Superintendent of Police participated in these strategic discussions."
+        ]
+      },
+      {
+        "h": "Medical Preparedness and Public Advisories",
+        "p": [
+          "Devotees began gathering in Tirupparankundram early in the morning, prompting local authorities to prepare for a substantial turnout. The Health Department mobilized 16 medical teams, which included eight mobile medical units.",
+          "To manage emergencies in crowded spaces efficiently, four motorcycle-mounted medical teams and eight standby ambulances were deployed. Officials specifically cautioned elderly citizens, pregnant women, children, and individuals with cardiac conditions against attempting to climb the hill."
+        ]
+      },
+      {
+        "h": "Significance and Legal Background",
+        "p": [
+          "Tirupparankundram holds immense religious importance as the primary site among the six sacred abodes of Lord Murugan. The location has previously experienced a prolonged legal dispute regarding the lighting of the ceremonial lamp at the hilltop stone pillar.",
+          "Saturday's ceremony directly followed an intervention by the Supreme Court. Local administration remained strictly focused on executing the judicial directive while preserving public order and communal harmony."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "A 13-member panel featuring retired judges Vaidyanathan and Parthiban oversaw the Tirupparankundram Deepathoon lamp lighting ceremony at 5 pm on Saturday under tight security. The event was conducted in compliance with a Supreme Court order, supported by additional CRPF personnel and extensive medical arrangements for the gathering devotees."
+        ]
+      }
+    ],
+    "facts": [
+      "The lamp lighting ceremony took place at 5 pm on Saturday, Nov 28, 2026.",
+      "A 13-member committee oversaw the event.",
+      "Retired judges Vaidyanathan and Parthiban were appointed to facilitate the implementation of the Supreme Court's order.",
+      "Madurai District Collector Nishant Krishna participated in the committee and discussions.",
+      "An additional 400 CRPF personnel were deployed for security.",
+      "The Health Department deployed 16 medical teams, including 8 mobile units and 4 motorcycle teams, along with 8 ambulances."
+    ],
+    "entities": {
+      "people": [
+        "Vaidyanathan",
+        "Parthiban",
+        "Nishant Krishna",
+        "Mamata Banerjee",
+        "Kharge"
+      ],
+      "titles": []
+    },
+    "keywords": [
+      "Tirupparankundram Deepathoon lamp lighting",
+      "Tirupparankundram Murugan temple hill",
+      "retired judges Vaidyanathan and Parthiban",
+      "Madurai District Collector Nishant Krishna"
+    ],
+    "images": [
+      {
+        "url": "https://cdn-english.zeenews.com/sites/default/files/2026/11/28/7982-untitled-design-7.jpg",
+        "caption": "Tirupparankundram Deepathoon Ceremony Held Under Heavy Security Led By 13-Member Panel",
+        "source": "Zee News — Entertainment"
+      }
+    ],
+    "published": "2026-11-28T17:53:27Z"
+  },
+  "hev3mp": {
+    "id": "hev3mp",
+    "type": "news",
+    "headline": "Steven Spielberg Finally Directs His First Western With The Heart in Winter Adaptation",
+    "dek": "After a 55-year career spanning nearly every major genre, legendary filmmaker Steven Spielberg is officially stepping behind the camera to direct his very first Western.",
+    "body": [
+      {
+        "h": "Filling a Major Career Void",
+        "p": [
+          "Throughout a cinematic journey spanning over five decades, Steven Spielberg has constructed a filmography that defined modern cinema. He has successfully conquered thrillers, blockbuster science fiction, swashbuckling adventures, historical biographies, war epics, and sweeping family dramas. Yet, despite his expansive resume, one major American genre remained entirely absent from his directorial output for fifty-five years.",
+          "That glaring gap in his career is now officially coming to an end. Following speculation about his next move after his return to sci-fi with Disclosure Day, Spielberg has locked in his next project as an adaptation of Kevin Barry's acclaimed 2024 novel, The Heart in Winter."
+        ]
+      },
+      {
+        "h": "The Plot of The Heart in Winter",
+        "p": [
+          "Set in 1891 within the rugged copper mining boom town of Butte, Montana, the narrative follows Tom Rourke, a self-destructive, opiate-addled Irish ballad writer. He crosses paths with Polly Gillespie, a devout newly married woman who is fleeing her violent husband. The two embark on a desperate and doomed cross-country romance.",
+          "Their flight takes them across an unforgiving frontier while they are pursued by a posse of ruthless gunmen. Despite the classic frontier setup, Spielberg has indicated an intention to avoid traditional tropes and rewrite the rules of the genre."
+        ]
+      },
+      {
+        "h": "An All-Star Creative Team",
+        "p": [
+          "To bring this unique vision to life, Spielberg has gathered an exceptional group of artists in front of and behind the camera. The screenplay is being penned by Paul Thomas Anderson, marking a monumental collaboration between two giants of modern cinema.",
+          "The main cast features Cillian Murphy stepping into the role of Tom Rourke, alongside Jessie Buckley as Polly Gillespie. The central trio is rounded out by the brilliant Mark Rylance, bringing immense dramatic weight to the frontier tale."
+        ]
+      },
+      {
+        "h": "A Lifelong Affinity for the Frontier",
+        "p": [
+          "Spielberg's long absence from the Western genre has always seemed surprising given his known affinity for it. He previously brushed up against the genre as a producer on the television miniseries Into the West, worked with genre elements in Back to the Future Part III, and explored genre-mashing territory with Cowboys & Aliens.",
+          "Earlier in his career during the early 1990s, he also came very close to directing an unmade Western project titled Arkansas, which was intended to star Tom Cruise."
+        ]
+      },
+      {
+        "h": "A Visual Homecoming Rooted in John Ford",
+        "p": [
+          "Directing The Heart in Winter serves as a creative homecoming for Spielberg, bringing his artistic journey full circle. Long before he began directing, his understanding of framing, horizon lines, and mythic storytelling was heavily shaped by the Westerns of John Ford, whom he regards as a primary influence.",
+          "This foundational influence is memorably dramatized in the closing moments of The Fabelmans, where young Sammy Fabelman receives a crucial lesson on horizon placement from Ford. Even without directing a traditional Western, Spielberg has infused the genre's DNA into past films like Duel, Jaws, and the Indiana Jones franchise."
+        ]
+      },
+      {
+        "h": "Other Omissions in an Exhaustive Career",
+        "p": [
+          "As Spielberg advances into the later chapters of his career, other notable gaps remain in his otherwise comprehensive filmography. While he directed the motion-capture adventure The Adventures of Tintin, he has never made a traditional animated film in the style of Pixar or DreamWorks.",
+          "Similarly, despite creating white-knuckle suspense in films like Jaws and Jurassic Park, he has never directed a pure horror film or a traditional sports movie, nor has he stepped into a proper gangster epic or the superhero genre."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Steven Spielberg is officially set to direct his first Western film by adapting Kevin Barry's 2024 novel The Heart in Winter. The project features a screenplay by Paul Thomas Anderson and stars Cillian Murphy, Jessie Buckley, and Mark Rylance, finally filling the biggest void in the director's 55-year career."
+        ]
+      }
+    ],
+    "facts": [
+      "Steven Spielberg has a career spanning 55 years.",
+      "The Heart in Winter is a 2024 novel written by Kevin Barry.",
+      "The story of The Heart in Winter is set in Butte, Montana, in 1891.",
+      "Paul Thomas Anderson is writing the screenplay for the adaptation.",
+      "The main cast includes Cillian Murphy, Jessie Buckley, and Mark Rylance."
+    ],
+    "entities": {
+      "people": [
+        "Steven Spielberg",
+        "Kevin Barry",
+        "Paul Thomas Anderson",
+        "Cillian Murphy",
+        "Jessie Buckley",
+        "Mark Rylance",
+        "John Ford",
+        "Tom Cruise"
+      ],
+      "titles": [
+        "The Heart in Winter",
+        "Jaws",
+        "E.T.",
+        "Schindler's List",
+        "Saving Private Ryan",
+        "Disclosure Day",
+        "Into the West",
+        "Back to the Future Part III",
+        "Cowboys & Aliens",
+        "Arkansas",
+        "The Fabelmans",
+        "Duel",
+        "Indiana Jones",
+        "The Adventures of Tintin",
+        "Jurassic Park",
+        "The Searchers",
+        "Close Encounters of the Third Kind",
+        "Superman",
+        "Blackhawk"
+      ]
+    },
+    "keywords": [
+      "Steven Spielberg The Heart in Winter",
+      "Cillian Murphy Western movie",
+      "Kevin Barry novel adaptation",
+      "Paul Thomas Anderson screenplay"
+    ],
+    "images": [
+      {
+        "url": "https://static0.srcdn.com/wordpress/wp-content/uploads/2025/12/steven-spielberg-at-the-oscars.jpg?w=1600&amp;h=900&amp;fit=crop",
+        "caption": "Steven Spielberg Finally Directs His First Western With The Heart in Winter Adaptation",
+        "source": "Screen Rant"
+      }
+    ],
+    "published": "Sat, 28 Nov 2026 16:30:18 GMT"
   }
 };

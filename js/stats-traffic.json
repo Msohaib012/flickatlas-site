@@ -1,20 +1,20 @@
 {
   "connected": true,
-  "generated": "2026-11-28T16:54:37Z",
+  "generated": "2026-11-28T17:57:42Z",
   "realtime": {
-    "active_users": 2
+    "active_users": 1
   },
   "today": {
-    "users": 43,
-    "pageviews": 60,
-    "sessions": 45,
-    "avg_session_seconds": 16.1
+    "users": 46,
+    "pageviews": 72,
+    "sessions": 49,
+    "avg_session_seconds": 15.9
   },
   "last7": {
-    "users": 251,
-    "pageviews": 318,
-    "sessions": 261,
-    "avg_session_seconds": 22.0
+    "users": 254,
+    "pageviews": 330,
+    "sessions": 265,
+    "avg_session_seconds": 21.9
   },
   "top_pages": [
     {
@@ -24,16 +24,16 @@
       "avg_time_seconds": 22.2
     },
     {
+      "path": "/",
+      "title": "Bollywood, World Cinema & Box Office | FlickAtlas",
+      "views": 21,
+      "avg_time_seconds": 16.7
+    },
+    {
       "path": "/person",
       "title": "Actor & Filmmaker Profile | FlickAtlas",
       "views": 20,
       "avg_time_seconds": 3.8
-    },
-    {
-      "path": "/",
-      "title": "Bollywood, World Cinema & Box Office | FlickAtlas",
-      "views": 19,
-      "avg_time_seconds": 18.9
     },
     {
       "path": "/movie",
@@ -46,6 +46,18 @@
       "title": "Damned (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
       "views": 4,
       "avg_time_seconds": 16.6
+    },
+    {
+      "path": "/box-office/",
+      "title": "Box Office Collections: Today, 7-Day & Totals | FlickAtlas",
+      "views": 3,
+      "avg_time_seconds": 28.2
+    },
+    {
+      "path": "/dramas/",
+      "title": "Pakistani Dramas & TV Serials | FlickAtlas",
+      "views": 3,
+      "avg_time_seconds": 25.7
     },
     {
       "path": "/movie",
@@ -64,26 +76,14 @@
       "title": "Project Hail Mary (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
       "views": 3,
       "avg_time_seconds": 5.6
-    },
-    {
-      "path": "/movie",
-      "title": "Resident Evil (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
-      "views": 3,
-      "avg_time_seconds": 6.1
-    },
-    {
-      "path": "/movie",
-      "title": "Sisu: Road to Revenge (2025) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
-      "views": 3,
-      "avg_time_seconds": 16.6
     }
   ],
   "sources": [
     {
       "source": "(direct)",
       "medium": "(none)",
-      "sessions": 235,
-      "users": 232
+      "sessions": 239,
+      "users": 235
     },
     {
       "source": "google",
@@ -119,7 +119,7 @@
   "countries": [
     {
       "country": "United States",
-      "users": 81
+      "users": 83
     },
     {
       "country": "Brazil",
@@ -131,7 +131,7 @@
     },
     {
       "country": "China",
-      "users": 14
+      "users": 15
     },
     {
       "country": "Mexico",
@@ -161,11 +161,11 @@
   "devices": [
     {
       "device": "desktop",
-      "users": 214
+      "users": 216
     },
     {
       "device": "mobile",
-      "users": 37
+      "users": 38
     }
   ],
   "per_post": {}
